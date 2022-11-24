@@ -1,0 +1,77 @@
+[
+ {
+  "id": 7101021,
+  "regencieId": 7101,
+  "name": "DUMOGA BARAT"
+ },
+ {
+  "id": 7101022,
+  "regencieId": 7101,
+  "name": "DUMOGA UTARA"
+ },
+ {
+  "id": 7101023,
+  "regencieId": 7101,
+  "name": "DUMOGA TIMUR"
+ },
+ {
+  "id": 7101024,
+  "regencieId": 7101,
+  "name": "DUMOGA TENGAH"
+ },
+ {
+  "id": 7101025,
+  "regencieId": 7101,
+  "name": "DUMOGA TENGGARA"
+ },
+ {
+  "id": 7101026,
+  "regencieId": 7101,
+  "name": "DUMOGA"
+ },
+ {
+  "id": 7101060,
+  "regencieId": 7101,
+  "name": "LOLAYAN"
+ },
+ {
+  "id": 7101081,
+  "regencieId": 7101,
+  "name": "PASSI BARAT"
+ },
+ {
+  "id": 7101082,
+  "regencieId": 7101,
+  "name": "PASSI TIMUR"
+ },
+ {
+  "id": 7101083,
+  "regencieId": 7101,
+  "name": "BILALANG"
+ },
+ {
+  "id": 7101090,
+  "regencieId": 7101,
+  "name": "POIGAR"
+ },
+ {
+  "id": 7101100,
+  "regencieId": 7101,
+  "name": "BOLAANG"
+ },
+ {
+  "id": 7101101,
+  "regencieId": 7101,
+  "name": "BOLAANG TIMUR"
+ },
+ {
+  "id": 7101110,
+  "regencieId": 7101,
+  "name": "LOLAK"
+ },
+ {
+  "id": 7101120,
+  "regencieId": 7101,
+  "name": "SANGTOMBOLANG"
+ }
+]

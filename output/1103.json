@@ -1,0 +1,92 @@
+[
+ {
+  "id": 1103010,
+  "regencieId": 1103,
+  "name": "TRUMON"
+ },
+ {
+  "id": 1103011,
+  "regencieId": 1103,
+  "name": "TRUMON TIMUR"
+ },
+ {
+  "id": 1103012,
+  "regencieId": 1103,
+  "name": "TRUMON TENGAH"
+ },
+ {
+  "id": 1103020,
+  "regencieId": 1103,
+  "name": "BAKONGAN"
+ },
+ {
+  "id": 1103021,
+  "regencieId": 1103,
+  "name": "BAKONGAN TIMUR"
+ },
+ {
+  "id": 1103022,
+  "regencieId": 1103,
+  "name": "KOTA BAHAGIA"
+ },
+ {
+  "id": 1103030,
+  "regencieId": 1103,
+  "name": "KLUET SELATAN"
+ },
+ {
+  "id": 1103031,
+  "regencieId": 1103,
+  "name": "KLUET TIMUR"
+ },
+ {
+  "id": 1103040,
+  "regencieId": 1103,
+  "name": "KLUET UTARA"
+ },
+ {
+  "id": 1103041,
+  "regencieId": 1103,
+  "name": "PASIE RAJA"
+ },
+ {
+  "id": 1103042,
+  "regencieId": 1103,
+  "name": "KLUET TENGAH"
+ },
+ {
+  "id": 1103050,
+  "regencieId": 1103,
+  "name": "TAPAK TUAN"
+ },
+ {
+  "id": 1103060,
+  "regencieId": 1103,
+  "name": "SAMA DUA"
+ },
+ {
+  "id": 1103070,
+  "regencieId": 1103,
+  "name": "SAWANG"
+ },
+ {
+  "id": 1103080,
+  "regencieId": 1103,
+  "name": "MEUKEK"
+ },
+ {
+  "id": 1103090,
+  "regencieId": 1103,
+  "name": "LABUHAN HAJI"
+ },
+ {
+  "id": 1103091,
+  "regencieId": 1103,
+  "name": "LABUHAN HAJI TIMUR"
+ },
+ {
+  "id": 1103092,
+  "regencieId": 1103,
+  "name": "LABUHAN HAJI BARAT"
+ }
+]

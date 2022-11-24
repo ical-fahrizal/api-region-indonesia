@@ -1,0 +1,137 @@
+[
+ {
+  "id": 1111010,
+  "regencieId": 1111,
+  "name": "SAWANG"
+ },
+ {
+  "id": 1111020,
+  "regencieId": 1111,
+  "name": "NISAM"
+ },
+ {
+  "id": 1111021,
+  "regencieId": 1111,
+  "name": "NISAM ANTARA"
+ },
+ {
+  "id": 1111022,
+  "regencieId": 1111,
+  "name": "BANDA BARO"
+ },
+ {
+  "id": 1111030,
+  "regencieId": 1111,
+  "name": "KUTA MAKMUR"
+ },
+ {
+  "id": 1111031,
+  "regencieId": 1111,
+  "name": "SIMPANG KERAMAT"
+ },
+ {
+  "id": 1111040,
+  "regencieId": 1111,
+  "name": "SYAMTALIRA BAYU"
+ },
+ {
+  "id": 1111041,
+  "regencieId": 1111,
+  "name": "GEUREUDONG PASE"
+ },
+ {
+  "id": 1111050,
+  "regencieId": 1111,
+  "name": "MEURAH MULIA"
+ },
+ {
+  "id": 1111060,
+  "regencieId": 1111,
+  "name": "MATANGKULI"
+ },
+ {
+  "id": 1111061,
+  "regencieId": 1111,
+  "name": "PAYA BAKONG"
+ },
+ {
+  "id": 1111062,
+  "regencieId": 1111,
+  "name": "PIRAK TIMU"
+ },
+ {
+  "id": 1111070,
+  "regencieId": 1111,
+  "name": "COT GIREK"
+ },
+ {
+  "id": 1111080,
+  "regencieId": 1111,
+  "name": "TANAH JAMBO AYE"
+ },
+ {
+  "id": 1111081,
+  "regencieId": 1111,
+  "name": "LANGKAHAN"
+ },
+ {
+  "id": 1111090,
+  "regencieId": 1111,
+  "name": "SEUNUDDON"
+ },
+ {
+  "id": 1111100,
+  "regencieId": 1111,
+  "name": "BAKTIYA"
+ },
+ {
+  "id": 1111101,
+  "regencieId": 1111,
+  "name": "BAKTIYA BARAT"
+ },
+ {
+  "id": 1111110,
+  "regencieId": 1111,
+  "name": "LHOKSUKON"
+ },
+ {
+  "id": 1111120,
+  "regencieId": 1111,
+  "name": "TANAH LUAS"
+ },
+ {
+  "id": 1111121,
+  "regencieId": 1111,
+  "name": "NIBONG"
+ },
+ {
+  "id": 1111130,
+  "regencieId": 1111,
+  "name": "SAMUDERA"
+ },
+ {
+  "id": 1111140,
+  "regencieId": 1111,
+  "name": "SYAMTALIRA ARON"
+ },
+ {
+  "id": 1111150,
+  "regencieId": 1111,
+  "name": "TANAH PASIR"
+ },
+ {
+  "id": 1111151,
+  "regencieId": 1111,
+  "name": "LAPANG"
+ },
+ {
+  "id": 1111160,
+  "regencieId": 1111,
+  "name": "MUARA BATU"
+ },
+ {
+  "id": 1111170,
+  "regencieId": 1111,
+  "name": "DEWANTARA"
+ }
+]

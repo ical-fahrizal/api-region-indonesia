@@ -1,0 +1,42 @@
+[
+ {
+  "id": 3671010001,
+  "districtId": 3671010,
+  "name": "TAJUR"
+ },
+ {
+  "id": 3671010002,
+  "districtId": 3671010,
+  "name": "PARUNG SERAB"
+ },
+ {
+  "id": 3671010003,
+  "districtId": 3671010,
+  "name": "PANINGGILAN"
+ },
+ {
+  "id": 3671010012,
+  "districtId": 3671010,
+  "name": "PANINGGILAN UTARA"
+ },
+ {
+  "id": 3671010013,
+  "districtId": 3671010,
+  "name": "SUDIMARA SELATAN"
+ },
+ {
+  "id": 3671010014,
+  "districtId": 3671010,
+  "name": "SUDIMARA BARAT"
+ },
+ {
+  "id": 3671010015,
+  "districtId": 3671010,
+  "name": "SUDIMARA JAYA"
+ },
+ {
+  "id": 3671010016,
+  "districtId": 3671010,
+  "name": "SUDIMARA TIMUR"
+ }
+]

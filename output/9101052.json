@@ -1,0 +1,47 @@
+[
+ {
+  "id": 9101052001,
+  "districtId": 9101052,
+  "name": "WASERAT"
+ },
+ {
+  "id": 9101052002,
+  "districtId": 9101052,
+  "name": "KALAMANUK"
+ },
+ {
+  "id": 9101052003,
+  "districtId": 9101052,
+  "name": "KOTAM"
+ },
+ {
+  "id": 9101052004,
+  "districtId": 9101052,
+  "name": "KWAMA"
+ },
+ {
+  "id": 9101052005,
+  "districtId": 9101052,
+  "name": "WAYATI"
+ },
+ {
+  "id": 9101052006,
+  "districtId": 9101052,
+  "name": "WAYATI TIMUR"
+ },
+ {
+  "id": 9101052007,
+  "districtId": 9101052,
+  "name": "WAYATI BARAT"
+ },
+ {
+  "id": 9101052010,
+  "districtId": 9101052,
+  "name": "WAMBAR"
+ },
+ {
+  "id": 9101052011,
+  "districtId": 9101052,
+  "name": "WAMBAR TIMUR"
+ }
+]

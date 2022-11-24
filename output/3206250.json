@@ -1,0 +1,42 @@
+[
+ {
+  "id": 3206250001,
+  "districtId": 3206250,
+  "name": "KARANGSEMBUNG"
+ },
+ {
+  "id": 3206250002,
+  "districtId": 3206250,
+  "name": "CONDONG"
+ },
+ {
+  "id": 3206250003,
+  "districtId": 3206250,
+  "name": "BOJONGGAOK"
+ },
+ {
+  "id": 3206250004,
+  "districtId": 3206250,
+  "name": "SINDANGRAJA"
+ },
+ {
+  "id": 3206250005,
+  "districtId": 3206250,
+  "name": "TANJUNGMEKAR"
+ },
+ {
+  "id": 3206250006,
+  "districtId": 3206250,
+  "name": "KARANGMULYA"
+ },
+ {
+  "id": 3206250007,
+  "districtId": 3206250,
+  "name": "KARANGRESIK"
+ },
+ {
+  "id": 3206250008,
+  "districtId": 3206250,
+  "name": "GERESIK"
+ }
+]

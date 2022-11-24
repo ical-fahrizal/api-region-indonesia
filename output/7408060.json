@@ -1,0 +1,57 @@
+[
+ {
+  "id": 7408060001,
+  "districtId": 7408060,
+  "name": "LATOWU"
+ },
+ {
+  "id": 7408060002,
+  "districtId": 7408060,
+  "name": "BATU API"
+ },
+ {
+  "id": 7408060003,
+  "districtId": 7408060,
+  "name": "BUKIT TINGGI"
+ },
+ {
+  "id": 7408060004,
+  "districtId": 7408060,
+  "name": "BATU PUTIH"
+ },
+ {
+  "id": 7408060006,
+  "districtId": 7408060,
+  "name": "MOSIKU"
+ },
+ {
+  "id": 7408060007,
+  "districtId": 7408060,
+  "name": "LELEWAWO"
+ },
+ {
+  "id": 7408060015,
+  "districtId": 7408060,
+  "name": "PARU LAMPE"
+ },
+ {
+  "id": 7408060016,
+  "districtId": 7408060,
+  "name": "BUKIT BARU"
+ },
+ {
+  "id": 7408060017,
+  "districtId": 7408060,
+  "name": "PUNCAK HARAPAN"
+ },
+ {
+  "id": 7408060018,
+  "districtId": 7408060,
+  "name": "MAKKUASENG"
+ },
+ {
+  "id": 7408060019,
+  "districtId": 7408060,
+  "name": "TETEBAWO"
+ }
+]

@@ -1,0 +1,57 @@
+[
+ {
+  "id": 1505010,
+  "regencieId": 1505,
+  "name": "MESTONG"
+ },
+ {
+  "id": 1505011,
+  "regencieId": 1505,
+  "name": "SUNGAI BAHAR"
+ },
+ {
+  "id": 1505012,
+  "regencieId": 1505,
+  "name": "BAHAR SELATAN"
+ },
+ {
+  "id": 1505013,
+  "regencieId": 1505,
+  "name": "BAHAR UTARA"
+ },
+ {
+  "id": 1505020,
+  "regencieId": 1505,
+  "name": "KUMPEH ULU"
+ },
+ {
+  "id": 1505021,
+  "regencieId": 1505,
+  "name": "SUNGAI GELAM"
+ },
+ {
+  "id": 1505030,
+  "regencieId": 1505,
+  "name": "KUMPEH"
+ },
+ {
+  "id": 1505040,
+  "regencieId": 1505,
+  "name": "MARO SEBO"
+ },
+ {
+  "id": 1505041,
+  "regencieId": 1505,
+  "name": "TAMAN RAJO"
+ },
+ {
+  "id": 1505050,
+  "regencieId": 1505,
+  "name": "JAMBI LUAR KOTA"
+ },
+ {
+  "id": 1505060,
+  "regencieId": 1505,
+  "name": "SEKERNAN"
+ }
+]

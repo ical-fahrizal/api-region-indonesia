@@ -1,0 +1,87 @@
+[
+ {
+  "id": 8201100001,
+  "districtId": 8201100,
+  "name": "LAKO AKELAMO"
+ },
+ {
+  "id": 8201100003,
+  "districtId": 8201100,
+  "name": "TACIM"
+ },
+ {
+  "id": 8201100004,
+  "districtId": 8201100,
+  "name": "TARUBA"
+ },
+ {
+  "id": 8201100005,
+  "districtId": 8201100,
+  "name": "BALISOAN"
+ },
+ {
+  "id": 8201100006,
+  "districtId": 8201100,
+  "name": "GOLO"
+ },
+ {
+  "id": 8201100014,
+  "districtId": 8201100,
+  "name": "TARAUDU"
+ },
+ {
+  "id": 8201100016,
+  "districtId": 8201100,
+  "name": "TACICI"
+ },
+ {
+  "id": 8201100017,
+  "districtId": 8201100,
+  "name": "WORAT WORAT"
+ },
+ {
+  "id": 8201100018,
+  "districtId": 8201100,
+  "name": "TODAHE"
+ },
+ {
+  "id": 8201100019,
+  "districtId": 8201100,
+  "name": "PEOT"
+ },
+ {
+  "id": 8201100026,
+  "districtId": 8201100,
+  "name": "SASUR"
+ },
+ {
+  "id": 8201100029,
+  "districtId": 8201100,
+  "name": "GORO GORO"
+ },
+ {
+  "id": 8201100030,
+  "districtId": 8201100,
+  "name": "LAKO AKEDIRI"
+ },
+ {
+  "id": 8201100031,
+  "districtId": 8201100,
+  "name": "JARAKORE"
+ },
+ {
+  "id": 8201100032,
+  "districtId": 8201100,
+  "name": "ROPU TENGAH BALU"
+ },
+ {
+  "id": 8201100033,
+  "districtId": 8201100,
+  "name": "BALISOAN UTARA"
+ },
+ {
+  "id": 8201100035,
+  "districtId": 8201100,
+  "name": "SASUR PANTAI"
+ }
+]

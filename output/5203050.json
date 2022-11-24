@@ -1,0 +1,52 @@
+[
+ {
+  "id": 5203050001,
+  "districtId": 5203050,
+  "name": "KESIK"
+ },
+ {
+  "id": 5203050002,
+  "districtId": 5203050,
+  "name": "PAOK MOTONG"
+ },
+ {
+  "id": 5203050003,
+  "districtId": 5203050,
+  "name": "MASBAGIK SELATAN"
+ },
+ {
+  "id": 5203050004,
+  "districtId": 5203050,
+  "name": "MASBAGIK TIMUR"
+ },
+ {
+  "id": 5203050007,
+  "districtId": 5203050,
+  "name": "MASBAGIK UTARA"
+ },
+ {
+  "id": 5203050008,
+  "districtId": 5203050,
+  "name": "DANGER"
+ },
+ {
+  "id": 5203050009,
+  "districtId": 5203050,
+  "name": "LENDANG NANGKA"
+ },
+ {
+  "id": 5203050010,
+  "districtId": 5203050,
+  "name": "MASBAGIK UTARA BARU"
+ },
+ {
+  "id": 5203050011,
+  "districtId": 5203050,
+  "name": "LENDANG NANGKA UTARA"
+ },
+ {
+  "id": 5203050012,
+  "districtId": 5203050,
+  "name": "KUMBANG"
+ }
+]

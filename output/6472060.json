@@ -1,0 +1,42 @@
+[
+ {
+  "id": 6472060004,
+  "districtId": 6472060,
+  "name": "LEMPAKE"
+ },
+ {
+  "id": 6472060005,
+  "districtId": 6472060,
+  "name": "SEMPAJA SELATAN"
+ },
+ {
+  "id": 6472060006,
+  "districtId": 6472060,
+  "name": "SUNGAI SIRING"
+ },
+ {
+  "id": 6472060010,
+  "districtId": 6472060,
+  "name": "TANAH MERAH"
+ },
+ {
+  "id": 6472060011,
+  "districtId": 6472060,
+  "name": "SEMPAJA UTARA"
+ },
+ {
+  "id": 6472060012,
+  "districtId": 6472060,
+  "name": "SEMPAJA TIMUR"
+ },
+ {
+  "id": 6472060013,
+  "districtId": 6472060,
+  "name": "SEMPAJA BARAT"
+ },
+ {
+  "id": 6472060014,
+  "districtId": 6472060,
+  "name": "BUDAYA PAMPANG"
+ }
+]

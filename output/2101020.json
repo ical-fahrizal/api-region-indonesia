@@ -1,0 +1,27 @@
+[
+ {
+  "id": 2101020001,
+  "districtId": 2101020,
+  "name": "TANJUNG BATU BARAT"
+ },
+ {
+  "id": 2101020002,
+  "districtId": 2101020,
+  "name": "TANJUNG BATU KOTA"
+ },
+ {
+  "id": 2101020004,
+  "districtId": 2101020,
+  "name": "SUNGAI SEBESI"
+ },
+ {
+  "id": 2101020005,
+  "districtId": 2101020,
+  "name": "SUNGAI UNGAR"
+ },
+ {
+  "id": 2101020009,
+  "districtId": 2101020,
+  "name": "GADING SARI"
+ }
+]

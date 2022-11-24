@@ -1,0 +1,27 @@
+[
+ {
+  "id": 1872011,
+  "regencieId": 1872,
+  "name": "METRO SELATAN"
+ },
+ {
+  "id": 1872012,
+  "regencieId": 1872,
+  "name": "METRO BARAT"
+ },
+ {
+  "id": 1872021,
+  "regencieId": 1872,
+  "name": "METRO TIMUR"
+ },
+ {
+  "id": 1872022,
+  "regencieId": 1872,
+  "name": "METRO PUSAT"
+ },
+ {
+  "id": 1872023,
+  "regencieId": 1872,
+  "name": "METRO UTARA"
+ }
+]

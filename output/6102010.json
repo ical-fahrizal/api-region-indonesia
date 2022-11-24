@@ -1,0 +1,27 @@
+[
+ {
+  "id": 6102010001,
+  "districtId": 6102010,
+  "name": "SUNGAI DURI"
+ },
+ {
+  "id": 6102010002,
+  "districtId": 6102010,
+  "name": "SUNGAI JAGA A"
+ },
+ {
+  "id": 6102010003,
+  "districtId": 6102010,
+  "name": "SUNGAI JAGA B"
+ },
+ {
+  "id": 6102010006,
+  "districtId": 6102010,
+  "name": "SUNGAI PANGKALAN I"
+ },
+ {
+  "id": 6102010007,
+  "districtId": 6102010,
+  "name": "SUNGAI PANGKALAN II"
+ }
+]

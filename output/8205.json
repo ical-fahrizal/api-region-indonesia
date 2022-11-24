@@ -1,0 +1,87 @@
+[
+ {
+  "id": 8205010,
+  "regencieId": 8205,
+  "name": "MALIFUT"
+ },
+ {
+  "id": 8205011,
+  "regencieId": 8205,
+  "name": "KAO TELUK"
+ },
+ {
+  "id": 8205020,
+  "regencieId": 8205,
+  "name": "KAO"
+ },
+ {
+  "id": 8205021,
+  "regencieId": 8205,
+  "name": "KAO BARAT"
+ },
+ {
+  "id": 8205022,
+  "regencieId": 8205,
+  "name": "KAO UTARA"
+ },
+ {
+  "id": 8205030,
+  "regencieId": 8205,
+  "name": "TOBELO SELATAN"
+ },
+ {
+  "id": 8205031,
+  "regencieId": 8205,
+  "name": "TOBELO BARAT"
+ },
+ {
+  "id": 8205032,
+  "regencieId": 8205,
+  "name": "TOBELO TIMUR"
+ },
+ {
+  "id": 8205040,
+  "regencieId": 8205,
+  "name": "TOBELO"
+ },
+ {
+  "id": 8205041,
+  "regencieId": 8205,
+  "name": "TOBELO TENGAH"
+ },
+ {
+  "id": 8205042,
+  "regencieId": 8205,
+  "name": "TOBELO UTARA"
+ },
+ {
+  "id": 8205050,
+  "regencieId": 8205,
+  "name": "GALELA"
+ },
+ {
+  "id": 8205051,
+  "regencieId": 8205,
+  "name": "GALELA SELATAN"
+ },
+ {
+  "id": 8205052,
+  "regencieId": 8205,
+  "name": "GALELA BARAT"
+ },
+ {
+  "id": 8205053,
+  "regencieId": 8205,
+  "name": "GALELA UTARA"
+ },
+ {
+  "id": 8205060,
+  "regencieId": 8205,
+  "name": "LOLODA UTARA"
+ },
+ {
+  "id": 8205061,
+  "regencieId": 8205,
+  "name": "LOLODA KEPULAUAN"
+ }
+]

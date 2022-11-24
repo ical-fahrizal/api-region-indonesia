@@ -1,0 +1,47 @@
+[
+ {
+  "id": 1410010,
+  "regencieId": 1410,
+  "name": "TEBING TINGGI BARAT"
+ },
+ {
+  "id": 1410020,
+  "regencieId": 1410,
+  "name": "TEBING TINGGI"
+ },
+ {
+  "id": 1410021,
+  "regencieId": 1410,
+  "name": "TEBING TINGGI TIMUR"
+ },
+ {
+  "id": 1410030,
+  "regencieId": 1410,
+  "name": "RANGSANG"
+ },
+ {
+  "id": 1410031,
+  "regencieId": 1410,
+  "name": "RANGSANG PESISIR"
+ },
+ {
+  "id": 1410040,
+  "regencieId": 1410,
+  "name": "RANGSANG BARAT"
+ },
+ {
+  "id": 1410050,
+  "regencieId": 1410,
+  "name": "MERBAU"
+ },
+ {
+  "id": 1410051,
+  "regencieId": 1410,
+  "name": "PULAU MERBAU"
+ },
+ {
+  "id": 1410052,
+  "regencieId": 1410,
+  "name": "TASIK PUTRI PUYU"
+ }
+]

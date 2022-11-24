@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1473010,
+  "regencieId": 1473,
+  "name": "BUKIT KAPUR"
+ },
+ {
+  "id": 1473011,
+  "regencieId": 1473,
+  "name": "MEDANG KAMPAI"
+ },
+ {
+  "id": 1473012,
+  "regencieId": 1473,
+  "name": "SUNGAI SEMBILAN"
+ },
+ {
+  "id": 1473020,
+  "regencieId": 1473,
+  "name": "DUMAI BARAT"
+ },
+ {
+  "id": 1473021,
+  "regencieId": 1473,
+  "name": "DUMAI SELATAN"
+ },
+ {
+  "id": 1473030,
+  "regencieId": 1473,
+  "name": "DUMAI TIMUR"
+ },
+ {
+  "id": 1473031,
+  "regencieId": 1473,
+  "name": "DUMAI KOTA"
+ }
+]

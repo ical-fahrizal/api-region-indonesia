@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1371010001,
+  "districtId": 1371010,
+  "name": "TELUK KABUNG SELATAN"
+ },
+ {
+  "id": 1371010007,
+  "districtId": 1371010,
+  "name": "BUNGUS SELATAN"
+ },
+ {
+  "id": 1371010014,
+  "districtId": 1371010,
+  "name": "TELUK KABUNG TENGAH"
+ },
+ {
+  "id": 1371010015,
+  "districtId": 1371010,
+  "name": "TELUK KABUNG UTARA"
+ },
+ {
+  "id": 1371010016,
+  "districtId": 1371010,
+  "name": "BUNGUS TIMUR"
+ },
+ {
+  "id": 1371010017,
+  "districtId": 1371010,
+  "name": "BUNGUS BARAT"
+ }
+]

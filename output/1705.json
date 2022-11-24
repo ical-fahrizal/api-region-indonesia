@@ -1,0 +1,72 @@
+[
+ {
+  "id": 1705010,
+  "regencieId": 1705,
+  "name": "SEMIDANG ALAS MARAS"
+ },
+ {
+  "id": 1705020,
+  "regencieId": 1705,
+  "name": "SEMIDANG ALAS"
+ },
+ {
+  "id": 1705030,
+  "regencieId": 1705,
+  "name": "TALO"
+ },
+ {
+  "id": 1705031,
+  "regencieId": 1705,
+  "name": "ILIR TALO"
+ },
+ {
+  "id": 1705032,
+  "regencieId": 1705,
+  "name": "TALO KECIL"
+ },
+ {
+  "id": 1705033,
+  "regencieId": 1705,
+  "name": "ULU TALO"
+ },
+ {
+  "id": 1705040,
+  "regencieId": 1705,
+  "name": "SELUMA"
+ },
+ {
+  "id": 1705041,
+  "regencieId": 1705,
+  "name": "SELUMA SELATAN"
+ },
+ {
+  "id": 1705042,
+  "regencieId": 1705,
+  "name": "SELUMA BARAT"
+ },
+ {
+  "id": 1705043,
+  "regencieId": 1705,
+  "name": "SELUMA TIMUR"
+ },
+ {
+  "id": 1705044,
+  "regencieId": 1705,
+  "name": "SELUMA UTARA"
+ },
+ {
+  "id": 1705050,
+  "regencieId": 1705,
+  "name": "SUKARAJA"
+ },
+ {
+  "id": 1705051,
+  "regencieId": 1705,
+  "name": "AIR PERIUKAN"
+ },
+ {
+  "id": 1705052,
+  "regencieId": 1705,
+  "name": "LUBUK SANDI"
+ }
+]

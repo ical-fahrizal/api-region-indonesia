@@ -1,0 +1,37 @@
+[
+ {
+  "id": 6109010,
+  "regencieId": 6109,
+  "name": "NANGA MAHAP"
+ },
+ {
+  "id": 6109020,
+  "regencieId": 6109,
+  "name": "NANGA TAMAN"
+ },
+ {
+  "id": 6109030,
+  "regencieId": 6109,
+  "name": "SEKADAU HULU"
+ },
+ {
+  "id": 6109040,
+  "regencieId": 6109,
+  "name": "SEKADAU HILIR"
+ },
+ {
+  "id": 6109050,
+  "regencieId": 6109,
+  "name": "BELITANG HILIR"
+ },
+ {
+  "id": 6109060,
+  "regencieId": 6109,
+  "name": "BELITANG"
+ },
+ {
+  "id": 6109070,
+  "regencieId": 6109,
+  "name": "BELITANG HULU"
+ }
+]

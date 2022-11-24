@@ -1,0 +1,67 @@
+[
+ {
+  "id": 6210010001,
+  "districtId": 6210010,
+  "name": "CEMANTAN"
+ },
+ {
+  "id": 6210010002,
+  "districtId": 6210010,
+  "name": "PAPUYU III SEI PUDAK"
+ },
+ {
+  "id": 6210010003,
+  "districtId": 6210010,
+  "name": "KIAPAK"
+ },
+ {
+  "id": 6210010004,
+  "districtId": 6210010,
+  "name": "PAPUYU II SEI BARUNAI"
+ },
+ {
+  "id": 6210010005,
+  "districtId": 6210010,
+  "name": "PAPUYU I SEI PASANAN"
+ },
+ {
+  "id": 6210010006,
+  "districtId": 6210010,
+  "name": "SEI RUNGUN"
+ },
+ {
+  "id": 6210010007,
+  "districtId": 6210010,
+  "name": "BAHAUR HILIR"
+ },
+ {
+  "id": 6210010008,
+  "districtId": 6210010,
+  "name": "BAHAUR TENGAH"
+ },
+ {
+  "id": 6210010009,
+  "districtId": 6210010,
+  "name": "BAHAUR HULU"
+ },
+ {
+  "id": 6210010010,
+  "districtId": 6210010,
+  "name": "TANJUNG PERAWAN"
+ },
+ {
+  "id": 6210010011,
+  "districtId": 6210010,
+  "name": "BAHAUR BATU RAYA"
+ },
+ {
+  "id": 6210010012,
+  "districtId": 6210010,
+  "name": "BAHAUR HULU PERMAI"
+ },
+ {
+  "id": 6210010013,
+  "districtId": 6210010,
+  "name": "BAHAUR BASANTAN"
+ }
+]

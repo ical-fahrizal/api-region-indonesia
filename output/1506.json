@@ -1,0 +1,57 @@
+[
+ {
+  "id": 1506010,
+  "regencieId": 1506,
+  "name": "MENDAHARA"
+ },
+ {
+  "id": 1506011,
+  "regencieId": 1506,
+  "name": "MENDAHARA ULU"
+ },
+ {
+  "id": 1506012,
+  "regencieId": 1506,
+  "name": "GERAGAI"
+ },
+ {
+  "id": 1506020,
+  "regencieId": 1506,
+  "name": "DENDANG"
+ },
+ {
+  "id": 1506031,
+  "regencieId": 1506,
+  "name": "MUARA SABAK BARAT"
+ },
+ {
+  "id": 1506032,
+  "regencieId": 1506,
+  "name": "MUARA SABAK TIMUR"
+ },
+ {
+  "id": 1506033,
+  "regencieId": 1506,
+  "name": "KUALA JAMBI"
+ },
+ {
+  "id": 1506040,
+  "regencieId": 1506,
+  "name": "RANTAU RASAU"
+ },
+ {
+  "id": 1506041,
+  "regencieId": 1506,
+  "name": "BERBAK"
+ },
+ {
+  "id": 1506050,
+  "regencieId": 1506,
+  "name": "NIPAH PANJANG"
+ },
+ {
+  "id": 1506060,
+  "regencieId": 1506,
+  "name": "SADU"
+ }
+]

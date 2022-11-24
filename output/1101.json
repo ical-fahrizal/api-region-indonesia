@@ -1,0 +1,52 @@
+[
+ {
+  "id": 1101010,
+  "regencieId": 1101,
+  "name": "TEUPAH SELATAN"
+ },
+ {
+  "id": 1101020,
+  "regencieId": 1101,
+  "name": "SIMEULUE TIMUR"
+ },
+ {
+  "id": 1101021,
+  "regencieId": 1101,
+  "name": "TEUPAH BARAT"
+ },
+ {
+  "id": 1101022,
+  "regencieId": 1101,
+  "name": "TEUPAH TENGAH"
+ },
+ {
+  "id": 1101030,
+  "regencieId": 1101,
+  "name": "SIMEULUE TENGAH"
+ },
+ {
+  "id": 1101031,
+  "regencieId": 1101,
+  "name": "TELUK DALAM"
+ },
+ {
+  "id": 1101032,
+  "regencieId": 1101,
+  "name": "SIMEULUE CUT"
+ },
+ {
+  "id": 1101040,
+  "regencieId": 1101,
+  "name": "SALANG"
+ },
+ {
+  "id": 1101050,
+  "regencieId": 1101,
+  "name": "SIMEULUE BARAT"
+ },
+ {
+  "id": 1101051,
+  "regencieId": 1101,
+  "name": "ALAFAN"
+ }
+]

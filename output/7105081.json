@@ -1,0 +1,42 @@
+[
+ {
+  "id": 7105081001,
+  "districtId": 7105081,
+  "name": "MALOLA I"
+ },
+ {
+  "id": 7105081002,
+  "districtId": 7105081,
+  "name": "MALOLA"
+ },
+ {
+  "id": 7105081003,
+  "districtId": 7105081,
+  "name": "MAKASILI"
+ },
+ {
+  "id": 7105081004,
+  "districtId": 7105081,
+  "name": "KUMELEMBUAI ATAS"
+ },
+ {
+  "id": 7105081005,
+  "districtId": 7105081,
+  "name": "KUMELEMBUAI"
+ },
+ {
+  "id": 7105081006,
+  "districtId": 7105081,
+  "name": "KUMELEMBUAI I"
+ },
+ {
+  "id": 7105081012,
+  "districtId": 7105081,
+  "name": "KUMELEMBUAI II"
+ },
+ {
+  "id": 7105081013,
+  "districtId": 7105081,
+  "name": "LOLOMBULAN MAKASILI"
+ }
+]

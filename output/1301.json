@@ -1,0 +1,52 @@
+[
+ {
+  "id": 1301011,
+  "regencieId": 1301,
+  "name": "PAGAI SELATAN"
+ },
+ {
+  "id": 1301012,
+  "regencieId": 1301,
+  "name": "SIKAKAP"
+ },
+ {
+  "id": 1301013,
+  "regencieId": 1301,
+  "name": "PAGAI UTARA"
+ },
+ {
+  "id": 1301021,
+  "regencieId": 1301,
+  "name": "SIPORA SELATAN"
+ },
+ {
+  "id": 1301022,
+  "regencieId": 1301,
+  "name": "SIPORA UTARA"
+ },
+ {
+  "id": 1301030,
+  "regencieId": 1301,
+  "name": "SIBERUT SELATAN"
+ },
+ {
+  "id": 1301031,
+  "regencieId": 1301,
+  "name": "SEBERUT BARAT DAYA"
+ },
+ {
+  "id": 1301032,
+  "regencieId": 1301,
+  "name": "SIBERUT TENGAH"
+ },
+ {
+  "id": 1301040,
+  "regencieId": 1301,
+  "name": "SIBERUT UTARA"
+ },
+ {
+  "id": 1301041,
+  "regencieId": 1301,
+  "name": "SIBERUT BARAT"
+ }
+]

@@ -1,0 +1,57 @@
+[
+ {
+  "id": 3312150001,
+  "districtId": 3312150,
+  "name": "GEDONG"
+ },
+ {
+  "id": 3312150002,
+  "districtId": 3312150,
+  "name": "GEMAWANG"
+ },
+ {
+  "id": 3312150003,
+  "districtId": 3312150,
+  "name": "KERJOKIDUL"
+ },
+ {
+  "id": 3312150004,
+  "districtId": 3312150,
+  "name": "KERJOLOR"
+ },
+ {
+  "id": 3312150005,
+  "districtId": 3312150,
+  "name": "PONDOK"
+ },
+ {
+  "id": 3312150006,
+  "districtId": 3312150,
+  "name": "NGADIROJOKIDUL"
+ },
+ {
+  "id": 3312150007,
+  "districtId": 3312150,
+  "name": "MLOKOMANISWETAN"
+ },
+ {
+  "id": 3312150008,
+  "districtId": 3312150,
+  "name": "NGADIROJOLOR"
+ },
+ {
+  "id": 3312150009,
+  "districtId": 3312150,
+  "name": "MLOKOMANISKULON"
+ },
+ {
+  "id": 3312150010,
+  "districtId": 3312150,
+  "name": "JATIMARTO"
+ },
+ {
+  "id": 3312150011,
+  "districtId": 3312150,
+  "name": "KASIHAN"
+ }
+]

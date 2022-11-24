@@ -1,0 +1,52 @@
+[
+ {
+  "id": 8105010,
+  "regencieId": 8105,
+  "name": "ARU SELATAN"
+ },
+ {
+  "id": 8105011,
+  "regencieId": 8105,
+  "name": "ARU SELATAN TIMUR"
+ },
+ {
+  "id": 8105012,
+  "regencieId": 8105,
+  "name": "ARU SELATAN UTARA"
+ },
+ {
+  "id": 8105020,
+  "regencieId": 8105,
+  "name": "ARU TENGAH"
+ },
+ {
+  "id": 8105021,
+  "regencieId": 8105,
+  "name": "ARU TENGAH TIMUR"
+ },
+ {
+  "id": 8105022,
+  "regencieId": 8105,
+  "name": "ARU TENGAH SELATAN"
+ },
+ {
+  "id": 8105030,
+  "regencieId": 8105,
+  "name": "PULAU-PULAU ARU"
+ },
+ {
+  "id": 8105031,
+  "regencieId": 8105,
+  "name": "ARU UTARA"
+ },
+ {
+  "id": 8105032,
+  "regencieId": 8105,
+  "name": "ARU UTARA TIMUR BATULEY"
+ },
+ {
+  "id": 8105033,
+  "regencieId": 8105,
+  "name": "SIR-SIR"
+ }
+]

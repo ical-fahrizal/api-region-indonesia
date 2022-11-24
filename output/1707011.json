@@ -1,0 +1,42 @@
+[
+ {
+  "id": 1707011001,
+  "districtId": 1707011,
+  "name": "TOPOS"
+ },
+ {
+  "id": 1707011002,
+  "districtId": 1707011,
+  "name": "TIK SIRONG"
+ },
+ {
+  "id": 1707011003,
+  "districtId": 1707011,
+  "name": "SUKA NEGERI"
+ },
+ {
+  "id": 1707011004,
+  "districtId": 1707011,
+  "name": "AJAI SIANG"
+ },
+ {
+  "id": 1707011005,
+  "districtId": 1707011,
+  "name": "TALANG DONOK"
+ },
+ {
+  "id": 1707011006,
+  "districtId": 1707011,
+  "name": "TALANG DONOK I"
+ },
+ {
+  "id": 1707011007,
+  "districtId": 1707011,
+  "name": "TALANG BARU I"
+ },
+ {
+  "id": 1707011008,
+  "districtId": 1707011,
+  "name": "TALANG BARU II"
+ }
+]

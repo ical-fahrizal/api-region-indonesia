@@ -1,0 +1,82 @@
+[
+ {
+  "id": 3306010,
+  "regencieId": 3306,
+  "name": "GRABAG"
+ },
+ {
+  "id": 3306020,
+  "regencieId": 3306,
+  "name": "NGOMBOL"
+ },
+ {
+  "id": 3306030,
+  "regencieId": 3306,
+  "name": "PURWODADI"
+ },
+ {
+  "id": 3306040,
+  "regencieId": 3306,
+  "name": "BAGELEN"
+ },
+ {
+  "id": 3306050,
+  "regencieId": 3306,
+  "name": "KALIGESING"
+ },
+ {
+  "id": 3306060,
+  "regencieId": 3306,
+  "name": "PURWOREJO"
+ },
+ {
+  "id": 3306070,
+  "regencieId": 3306,
+  "name": "BANYU URIP"
+ },
+ {
+  "id": 3306080,
+  "regencieId": 3306,
+  "name": "BAYAN"
+ },
+ {
+  "id": 3306090,
+  "regencieId": 3306,
+  "name": "KUTOARJO"
+ },
+ {
+  "id": 3306100,
+  "regencieId": 3306,
+  "name": "BUTUH"
+ },
+ {
+  "id": 3306110,
+  "regencieId": 3306,
+  "name": "PITURUH"
+ },
+ {
+  "id": 3306120,
+  "regencieId": 3306,
+  "name": "KEMIRI"
+ },
+ {
+  "id": 3306130,
+  "regencieId": 3306,
+  "name": "BRUNO"
+ },
+ {
+  "id": 3306140,
+  "regencieId": 3306,
+  "name": "GEBANG"
+ },
+ {
+  "id": 3306150,
+  "regencieId": 3306,
+  "name": "LOANO"
+ },
+ {
+  "id": 3306160,
+  "regencieId": 3306,
+  "name": "BENER"
+ }
+]

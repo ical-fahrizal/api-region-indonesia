@@ -1,0 +1,92 @@
+[
+ {
+  "id": 8103010,
+  "regencieId": 8103,
+  "name": "BANDA"
+ },
+ {
+  "id": 8103040,
+  "regencieId": 8103,
+  "name": "TEHORU"
+ },
+ {
+  "id": 8103041,
+  "regencieId": 8103,
+  "name": "TELUTIH"
+ },
+ {
+  "id": 8103050,
+  "regencieId": 8103,
+  "name": "AMAHAI"
+ },
+ {
+  "id": 8103051,
+  "regencieId": 8103,
+  "name": "KOTA MASOHI"
+ },
+ {
+  "id": 8103052,
+  "regencieId": 8103,
+  "name": "TELUK ELPAPUTIH"
+ },
+ {
+  "id": 8103060,
+  "regencieId": 8103,
+  "name": "TEON NILA SERUA"
+ },
+ {
+  "id": 8103080,
+  "regencieId": 8103,
+  "name": "SAPARUA"
+ },
+ {
+  "id": 8103081,
+  "regencieId": 8103,
+  "name": "NUSALAUT"
+ },
+ {
+  "id": 8103082,
+  "regencieId": 8103,
+  "name": "SAPARUA TIMUR"
+ },
+ {
+  "id": 8103090,
+  "regencieId": 8103,
+  "name": "P. HARUKU"
+ },
+ {
+  "id": 8103100,
+  "regencieId": 8103,
+  "name": "SALAHUTU"
+ },
+ {
+  "id": 8103110,
+  "regencieId": 8103,
+  "name": "LEIHITU"
+ },
+ {
+  "id": 8103111,
+  "regencieId": 8103,
+  "name": "LEIHITU BARAT"
+ },
+ {
+  "id": 8103140,
+  "regencieId": 8103,
+  "name": "SERAM UTARA"
+ },
+ {
+  "id": 8103141,
+  "regencieId": 8103,
+  "name": "SERAM UTARA BARAT"
+ },
+ {
+  "id": 8103142,
+  "regencieId": 8103,
+  "name": "SERAM UTARA TIMUR KOBI"
+ },
+ {
+  "id": 8103143,
+  "regencieId": 8103,
+  "name": "SERAM UTARA TIMUR SETI"
+ }
+]

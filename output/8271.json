@@ -1,0 +1,42 @@
+[
+ {
+  "id": 8271010,
+  "regencieId": 8271,
+  "name": "PULAU TERNATE"
+ },
+ {
+  "id": 8271011,
+  "regencieId": 8271,
+  "name": "MOTI"
+ },
+ {
+  "id": 8271012,
+  "regencieId": 8271,
+  "name": "PULAU BATANG DUA"
+ },
+ {
+  "id": 8271013,
+  "regencieId": 8271,
+  "name": "PULAU HIRI"
+ },
+ {
+  "id": 8271014,
+  "regencieId": 8271,
+  "name": "TERNATE BARAT"
+ },
+ {
+  "id": 8271020,
+  "regencieId": 8271,
+  "name": "TERNATE SELATAN"
+ },
+ {
+  "id": 8271021,
+  "regencieId": 8271,
+  "name": "TERNATE TENGAH"
+ },
+ {
+  "id": 8271030,
+  "regencieId": 8271,
+  "name": "TERNATE UTARA"
+ }
+]

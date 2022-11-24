@@ -1,0 +1,62 @@
+[
+ {
+  "id": 5202010,
+  "regencieId": 5202,
+  "name": "PRAYA BARAT"
+ },
+ {
+  "id": 5202011,
+  "regencieId": 5202,
+  "name": "PRAYA BARAT DAYA"
+ },
+ {
+  "id": 5202020,
+  "regencieId": 5202,
+  "name": "PUJUT"
+ },
+ {
+  "id": 5202030,
+  "regencieId": 5202,
+  "name": "PRAYA TIMUR"
+ },
+ {
+  "id": 5202040,
+  "regencieId": 5202,
+  "name": "JANAPRIA"
+ },
+ {
+  "id": 5202050,
+  "regencieId": 5202,
+  "name": "KOPANG"
+ },
+ {
+  "id": 5202060,
+  "regencieId": 5202,
+  "name": "PRAYA"
+ },
+ {
+  "id": 5202061,
+  "regencieId": 5202,
+  "name": "PRAYA TENGAH"
+ },
+ {
+  "id": 5202070,
+  "regencieId": 5202,
+  "name": "JONGGAT"
+ },
+ {
+  "id": 5202080,
+  "regencieId": 5202,
+  "name": "PRINGGARATA"
+ },
+ {
+  "id": 5202090,
+  "regencieId": 5202,
+  "name": "BATUKLIANG"
+ },
+ {
+  "id": 5202091,
+  "regencieId": 5202,
+  "name": "BATUKLIANG UTARA"
+ }
+]

@@ -1,0 +1,82 @@
+[
+ {
+  "id": 1402060001,
+  "districtId": 1402060,
+  "name": "SUNGAI GUNTUNG TENGAH"
+ },
+ {
+  "id": 1402060002,
+  "districtId": 1402060,
+  "name": "SUNGAI GUNTUNG HILIR"
+ },
+ {
+  "id": 1402060003,
+  "districtId": 1402060,
+  "name": "KUANTAN BABU"
+ },
+ {
+  "id": 1402060004,
+  "districtId": 1402060,
+  "name": "KAMPUNG DAGANG"
+ },
+ {
+  "id": 1402060005,
+  "districtId": 1402060,
+  "name": "KAMPUNG PULAU"
+ },
+ {
+  "id": 1402060006,
+  "districtId": 1402060,
+  "name": "KAMPUNG BESAR KOTA"
+ },
+ {
+  "id": 1402060007,
+  "districtId": 1402060,
+  "name": "PASAR KOTA"
+ },
+ {
+  "id": 1402060008,
+  "districtId": 1402060,
+  "name": "SEKIP HULU"
+ },
+ {
+  "id": 1402060009,
+  "districtId": 1402060,
+  "name": "SEKIP HILIR"
+ },
+ {
+  "id": 1402060010,
+  "districtId": 1402060,
+  "name": "KAMPUNG BESAR SEBERANG"
+ },
+ {
+  "id": 1402060011,
+  "districtId": 1402060,
+  "name": "RANTAU MAPESAI"
+ },
+ {
+  "id": 1402060012,
+  "districtId": 1402060,
+  "name": "PASIR KEMILU"
+ },
+ {
+  "id": 1402060013,
+  "districtId": 1402060,
+  "name": "SUNGAI BERINGIN"
+ },
+ {
+  "id": 1402060014,
+  "districtId": 1402060,
+  "name": "PULAU GAJAH"
+ },
+ {
+  "id": 1402060015,
+  "districtId": 1402060,
+  "name": "SUNGAI RAYA"
+ },
+ {
+  "id": 1402060016,
+  "districtId": 1402060,
+  "name": "RAWA BANGUN"
+ }
+]

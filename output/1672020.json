@@ -1,0 +1,42 @@
+[
+ {
+  "id": 1672020003,
+  "districtId": 1672020,
+  "name": "KARANG RAJA"
+ },
+ {
+  "id": 1672020004,
+  "districtId": 1672020,
+  "name": "MUARA DUA"
+ },
+ {
+  "id": 1672020005,
+  "districtId": 1672020,
+  "name": "GUNUNG IBUL BARAT"
+ },
+ {
+  "id": 1672020006,
+  "districtId": 1672020,
+  "name": "GUNUNG IBUL"
+ },
+ {
+  "id": 1672020007,
+  "districtId": 1672020,
+  "name": "KARANG JAYA"
+ },
+ {
+  "id": 1672020008,
+  "districtId": 1672020,
+  "name": "TUGU KECIL"
+ },
+ {
+  "id": 1672020009,
+  "districtId": 1672020,
+  "name": "PRABU JAYA"
+ },
+ {
+  "id": 1672020010,
+  "districtId": 1672020,
+  "name": "SUKAJADI"
+ }
+]

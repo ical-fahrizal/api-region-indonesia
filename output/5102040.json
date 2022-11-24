@@ -1,0 +1,72 @@
+[
+ {
+  "id": 5102040001,
+  "districtId": 5102040,
+  "name": "PANGKUNG TIBAH"
+ },
+ {
+  "id": 5102040002,
+  "districtId": 5102040,
+  "name": "BELALANG"
+ },
+ {
+  "id": 5102040003,
+  "districtId": 5102040,
+  "name": "BERABAN"
+ },
+ {
+  "id": 5102040004,
+  "districtId": 5102040,
+  "name": "BUWIT"
+ },
+ {
+  "id": 5102040005,
+  "districtId": 5102040,
+  "name": "CEPAKA"
+ },
+ {
+  "id": 5102040006,
+  "districtId": 5102040,
+  "name": "KABA-KABA"
+ },
+ {
+  "id": 5102040007,
+  "districtId": 5102040,
+  "name": "PANDAK GEDE"
+ },
+ {
+  "id": 5102040009,
+  "districtId": 5102040,
+  "name": "PEJATEN"
+ },
+ {
+  "id": 5102040010,
+  "districtId": 5102040,
+  "name": "NYITDAH"
+ },
+ {
+  "id": 5102040011,
+  "districtId": 5102040,
+  "name": "PANDAK BANDUNG"
+ },
+ {
+  "id": 5102040012,
+  "districtId": 5102040,
+  "name": "NYAMBU"
+ },
+ {
+  "id": 5102040013,
+  "districtId": 5102040,
+  "name": "KEDIRI"
+ },
+ {
+  "id": 5102040014,
+  "districtId": 5102040,
+  "name": "ABIAN TUWUNG"
+ },
+ {
+  "id": 5102040015,
+  "districtId": 5102040,
+  "name": "BANJAR ANYAR"
+ }
+]

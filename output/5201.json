@@ -1,0 +1,52 @@
+[
+ {
+  "id": 5201010,
+  "regencieId": 5201,
+  "name": "SEKOTONG"
+ },
+ {
+  "id": 5201011,
+  "regencieId": 5201,
+  "name": "LEMBAR"
+ },
+ {
+  "id": 5201020,
+  "regencieId": 5201,
+  "name": "GERUNG"
+ },
+ {
+  "id": 5201030,
+  "regencieId": 5201,
+  "name": "LABU API"
+ },
+ {
+  "id": 5201040,
+  "regencieId": 5201,
+  "name": "KEDIRI"
+ },
+ {
+  "id": 5201041,
+  "regencieId": 5201,
+  "name": "KURIPAN"
+ },
+ {
+  "id": 5201050,
+  "regencieId": 5201,
+  "name": "NARMADA"
+ },
+ {
+  "id": 5201051,
+  "regencieId": 5201,
+  "name": "LINGSAR"
+ },
+ {
+  "id": 5201060,
+  "regencieId": 5201,
+  "name": "GUNUNG SARI"
+ },
+ {
+  "id": 5201061,
+  "regencieId": 5201,
+  "name": "BATU LAYAR"
+ }
+]

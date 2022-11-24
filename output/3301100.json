@@ -1,0 +1,72 @@
+[
+ {
+  "id": 3301100001,
+  "districtId": 3301100,
+  "name": "CISUMUR"
+ },
+ {
+  "id": 3301100002,
+  "districtId": 3301100,
+  "name": "SIDAURIP"
+ },
+ {
+  "id": 3301100003,
+  "districtId": 3301100,
+  "name": "GINTUNGREJA"
+ },
+ {
+  "id": 3301100004,
+  "districtId": 3301100,
+  "name": "LAYANSARI"
+ },
+ {
+  "id": 3301100005,
+  "districtId": 3301100,
+  "name": "GANDRUNGMANIS"
+ },
+ {
+  "id": 3301100006,
+  "districtId": 3301100,
+  "name": "BULUSARI"
+ },
+ {
+  "id": 3301100007,
+  "districtId": 3301100,
+  "name": "GANDRUNGMANGU"
+ },
+ {
+  "id": 3301100008,
+  "districtId": 3301100,
+  "name": "WRINGINHARJO"
+ },
+ {
+  "id": 3301100009,
+  "districtId": 3301100,
+  "name": "KARANGANYAR"
+ },
+ {
+  "id": 3301100010,
+  "districtId": 3301100,
+  "name": "MUKTISARI"
+ },
+ {
+  "id": 3301100011,
+  "districtId": 3301100,
+  "name": "KERTAJAYA"
+ },
+ {
+  "id": 3301100012,
+  "districtId": 3301100,
+  "name": "CINANGSI"
+ },
+ {
+  "id": 3301100013,
+  "districtId": 3301100,
+  "name": "KARANGGINTUNG"
+ },
+ {
+  "id": 3301100014,
+  "districtId": 3301100,
+  "name": "RUNGKANG"
+ }
+]

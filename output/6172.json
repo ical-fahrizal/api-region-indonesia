@@ -1,0 +1,27 @@
+[
+ {
+  "id": 6172010,
+  "regencieId": 6172,
+  "name": "SINGKAWANG SELATAN"
+ },
+ {
+  "id": 6172020,
+  "regencieId": 6172,
+  "name": "SINGKAWANG TIMUR"
+ },
+ {
+  "id": 6172030,
+  "regencieId": 6172,
+  "name": "SINGKAWANG UTARA"
+ },
+ {
+  "id": 6172040,
+  "regencieId": 6172,
+  "name": "SINGKAWANG BARAT"
+ },
+ {
+  "id": 6172050,
+  "regencieId": 6172,
+  "name": "SINGKAWANG TENGAH"
+ }
+]

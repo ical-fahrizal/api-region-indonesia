@@ -1,0 +1,27 @@
+[
+ {
+  "id": 1276010,
+  "regencieId": 1276,
+  "name": "BINJAI SELATAN"
+ },
+ {
+  "id": 1276020,
+  "regencieId": 1276,
+  "name": "BINJAI KOTA"
+ },
+ {
+  "id": 1276030,
+  "regencieId": 1276,
+  "name": "BINJAI TIMUR"
+ },
+ {
+  "id": 1276040,
+  "regencieId": 1276,
+  "name": "BINJAI UTARA"
+ },
+ {
+  "id": 1276050,
+  "regencieId": 1276,
+  "name": "BINJAI BARAT"
+ }
+]

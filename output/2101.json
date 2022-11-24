@@ -1,0 +1,62 @@
+[
+ {
+  "id": 2101010,
+  "regencieId": 2101,
+  "name": "MORO"
+ },
+ {
+  "id": 2101011,
+  "regencieId": 2101,
+  "name": "DURAI"
+ },
+ {
+  "id": 2101020,
+  "regencieId": 2101,
+  "name": "KUNDUR"
+ },
+ {
+  "id": 2101021,
+  "regencieId": 2101,
+  "name": "KUNDUR UTARA"
+ },
+ {
+  "id": 2101022,
+  "regencieId": 2101,
+  "name": "KUNDUR BARAT"
+ },
+ {
+  "id": 2101023,
+  "regencieId": 2101,
+  "name": "UNGAR"
+ },
+ {
+  "id": 2101024,
+  "regencieId": 2101,
+  "name": "BELAT"
+ },
+ {
+  "id": 2101030,
+  "regencieId": 2101,
+  "name": "KARIMUN"
+ },
+ {
+  "id": 2101031,
+  "regencieId": 2101,
+  "name": "BURU"
+ },
+ {
+  "id": 2101032,
+  "regencieId": 2101,
+  "name": "MERAL"
+ },
+ {
+  "id": 2101033,
+  "regencieId": 2101,
+  "name": "TEBING"
+ },
+ {
+  "id": 2101034,
+  "regencieId": 2101,
+  "name": "MERAL BARAT"
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "id": 1806010001,
+  "districtId": 1806010,
+  "name": "TANJUNG BARU"
+ },
+ {
+  "id": 1806010002,
+  "districtId": 1806010,
+  "name": "TANJUNG BARU TIMUR"
+ },
+ {
+  "id": 1806010005,
+  "districtId": 1806010,
+  "name": "BUKIT KEMUNING"
+ },
+ {
+  "id": 1806010006,
+  "districtId": 1806010,
+  "name": "MUARA AMAN"
+ },
+ {
+  "id": 1806010007,
+  "districtId": 1806010,
+  "name": "SUKA MENANTI"
+ },
+ {
+  "id": 1806010008,
+  "districtId": 1806010,
+  "name": "TANJUNG WARAS"
+ },
+ {
+  "id": 1806010015,
+  "districtId": 1806010,
+  "name": "DWIKORA"
+ },
+ {
+  "id": 1806010016,
+  "districtId": 1806010,
+  "name": "SIDOMULYO"
+ }
+]

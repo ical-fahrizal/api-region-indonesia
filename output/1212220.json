@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1212220001,
+  "districtId": 1212220,
+  "name": "DELI TUA BARAT"
+ },
+ {
+  "id": 1212220002,
+  "districtId": 1212220,
+  "name": "DELI TUA TIMUR"
+ },
+ {
+  "id": 1212220003,
+  "districtId": 1212220,
+  "name": "DELI TUA"
+ },
+ {
+  "id": 1212220004,
+  "districtId": 1212220,
+  "name": "MEKAR SARI"
+ },
+ {
+  "id": 1212220005,
+  "districtId": 1212220,
+  "name": "KEDAI DURIAN"
+ },
+ {
+  "id": 1212220006,
+  "districtId": 1212220,
+  "name": "SUKA MAKMUR"
+ }
+]

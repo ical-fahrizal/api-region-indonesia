@@ -1,0 +1,37 @@
+[
+ {
+  "id": 5107080001,
+  "districtId": 5107080,
+  "name": "BAN"
+ },
+ {
+  "id": 5107080003,
+  "districtId": 5107080,
+  "name": "TULAMBEN"
+ },
+ {
+  "id": 5107080005,
+  "districtId": 5107080,
+  "name": "BATURINGGIT"
+ },
+ {
+  "id": 5107080006,
+  "districtId": 5107080,
+  "name": "SUKADANA"
+ },
+ {
+  "id": 5107080007,
+  "districtId": 5107080,
+  "name": "TIANYAR"
+ },
+ {
+  "id": 5107080008,
+  "districtId": 5107080,
+  "name": "TIANYAR TENGAH"
+ },
+ {
+  "id": 5107080009,
+  "districtId": 5107080,
+  "name": "TIANYAR BARAT"
+ }
+]

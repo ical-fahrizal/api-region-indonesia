@@ -1,0 +1,57 @@
+[
+ {
+  "id": 1102010,
+  "regencieId": 1102,
+  "name": "PULAU BANYAK"
+ },
+ {
+  "id": 1102011,
+  "regencieId": 1102,
+  "name": "PULAU BANYAK BARAT"
+ },
+ {
+  "id": 1102020,
+  "regencieId": 1102,
+  "name": "SINGKIL"
+ },
+ {
+  "id": 1102021,
+  "regencieId": 1102,
+  "name": "SINGKIL UTARA"
+ },
+ {
+  "id": 1102022,
+  "regencieId": 1102,
+  "name": "KUALA BARU"
+ },
+ {
+  "id": 1102030,
+  "regencieId": 1102,
+  "name": "SIMPANG KANAN"
+ },
+ {
+  "id": 1102031,
+  "regencieId": 1102,
+  "name": "GUNUNG MERIAH"
+ },
+ {
+  "id": 1102032,
+  "regencieId": 1102,
+  "name": "DANAU PARIS"
+ },
+ {
+  "id": 1102033,
+  "regencieId": 1102,
+  "name": "SURO"
+ },
+ {
+  "id": 1102042,
+  "regencieId": 1102,
+  "name": "SINGKOHOR"
+ },
+ {
+  "id": 1102043,
+  "regencieId": 1102,
+  "name": "KOTA BAHARU"
+ }
+]

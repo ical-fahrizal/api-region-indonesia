@@ -1,0 +1,42 @@
+[
+ {
+  "id": 6304140001,
+  "districtId": 6304140,
+  "name": "BAGUS"
+ },
+ {
+  "id": 6304140002,
+  "districtId": 6304140,
+  "name": "BALIUK"
+ },
+ {
+  "id": 6304140004,
+  "districtId": 6304140,
+  "name": "MARABAHAN KOTA"
+ },
+ {
+  "id": 6304140006,
+  "districtId": 6304140,
+  "name": "ANTAR BARU"
+ },
+ {
+  "id": 6304140007,
+  "districtId": 6304140,
+  "name": "ANTAR RAYA"
+ },
+ {
+  "id": 6304140008,
+  "districtId": 6304140,
+  "name": "ANTAR JAYA"
+ },
+ {
+  "id": 6304140009,
+  "districtId": 6304140,
+  "name": "SIDO MAKMUR"
+ },
+ {
+  "id": 6304140010,
+  "districtId": 6304140,
+  "name": "KARYA MAJU"
+ }
+]

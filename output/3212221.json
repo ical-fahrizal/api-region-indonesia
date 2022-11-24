@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3212221001,
+  "districtId": 3212221,
+  "name": "LIMPAS"
+ },
+ {
+  "id": 3212221002,
+  "districtId": 3212221,
+  "name": "PATROL"
+ },
+ {
+  "id": 3212221003,
+  "districtId": 3212221,
+  "name": "ARJASARI"
+ },
+ {
+  "id": 3212221004,
+  "districtId": 3212221,
+  "name": "SUKAHAJI"
+ },
+ {
+  "id": 3212221006,
+  "districtId": 3212221,
+  "name": "PATROLLOR"
+ },
+ {
+  "id": 3212221007,
+  "districtId": 3212221,
+  "name": "PATROL BARU"
+ },
+ {
+  "id": 3212221008,
+  "districtId": 3212221,
+  "name": "MEKARSARI"
+ }
+]

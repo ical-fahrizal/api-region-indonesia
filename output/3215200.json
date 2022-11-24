@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3215200001,
+  "districtId": 3215200,
+  "name": "TALAGAJAYA"
+ },
+ {
+  "id": 3215200003,
+  "districtId": 3215200,
+  "name": "TANAHBARU"
+ },
+ {
+  "id": 3215200004,
+  "districtId": 3215200,
+  "name": "SOLOKAN"
+ },
+ {
+  "id": 3215200005,
+  "districtId": 3215200,
+  "name": "TANJUNGBUNGIN"
+ },
+ {
+  "id": 3215200006,
+  "districtId": 3215200,
+  "name": "TANJUNGMEKAR"
+ },
+ {
+  "id": 3215200007,
+  "districtId": 3215200,
+  "name": "TANJUNGPAKIS"
+ },
+ {
+  "id": 3215200008,
+  "districtId": 3215200,
+  "name": "TELUKJAYA"
+ }
+]

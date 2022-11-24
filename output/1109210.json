@@ -1,0 +1,322 @@
+[
+ {
+  "id": 1109210001,
+  "districtId": 1109210,
+  "name": "TUMPOK LAWEUNG"
+ },
+ {
+  "id": 1109210002,
+  "districtId": 1109210,
+  "name": "ULEE CEUE KEULIBEUT"
+ },
+ {
+  "id": 1109210003,
+  "districtId": 1109210,
+  "name": "KEUDEE"
+ },
+ {
+  "id": 1109210004,
+  "districtId": 1109210,
+  "name": "ULEE TUTUE"
+ },
+ {
+  "id": 1109210005,
+  "districtId": 1109210,
+  "name": "DALUENG"
+ },
+ {
+  "id": 1109210006,
+  "districtId": 1109210,
+  "name": "JAWA"
+ },
+ {
+  "id": 1109210007,
+  "districtId": 1109210,
+  "name": "ABO"
+ },
+ {
+  "id": 1109210008,
+  "districtId": 1109210,
+  "name": "MEUCAT"
+ },
+ {
+  "id": 1109210009,
+  "districtId": 1109210,
+  "name": "BAYU"
+ },
+ {
+  "id": 1109210010,
+  "districtId": 1109210,
+  "name": "DAYAH TEUBENG"
+ },
+ {
+  "id": 1109210011,
+  "districtId": 1109210,
+  "name": "GAMPONG"
+ },
+ {
+  "id": 1109210012,
+  "districtId": 1109210,
+  "name": "COT GEUNDUEK"
+ },
+ {
+  "id": 1109210013,
+  "districtId": 1109210,
+  "name": "DAYAH TANOH"
+ },
+ {
+  "id": 1109210014,
+  "districtId": 1109210,
+  "name": "DAYAH TUTONG"
+ },
+ {
+  "id": 1109210015,
+  "districtId": 1109210,
+  "name": "RAYA SANGGEUE"
+ },
+ {
+  "id": 1109210016,
+  "districtId": 1109210,
+  "name": "SIRONG"
+ },
+ {
+  "id": 1109210017,
+  "districtId": 1109210,
+  "name": "KEUTUMBU"
+ },
+ {
+  "id": 1109210018,
+  "districtId": 1109210,
+  "name": "JEULEUPE"
+ },
+ {
+  "id": 1109210019,
+  "districtId": 1109210,
+  "name": "KRUENG DHOE"
+ },
+ {
+  "id": 1109210020,
+  "districtId": 1109210,
+  "name": "KEUTAPANG"
+ },
+ {
+  "id": 1109210021,
+  "districtId": 1109210,
+  "name": "KAMPUNG BARAT"
+ },
+ {
+  "id": 1109210022,
+  "districtId": 1109210,
+  "name": "KAMPONG PUKAT"
+ },
+ {
+  "id": 1109210023,
+  "districtId": 1109210,
+  "name": "LABUI"
+ },
+ {
+  "id": 1109210024,
+  "districtId": 1109210,
+  "name": "TANJONG"
+ },
+ {
+  "id": 1109210025,
+  "districtId": 1109210,
+  "name": "TIJUE"
+ },
+ {
+  "id": 1109210026,
+  "districtId": 1109210,
+  "name": "PAYA"
+ },
+ {
+  "id": 1109210027,
+  "districtId": 1109210,
+  "name": "ULEE CEUE TEUBENG"
+ },
+ {
+  "id": 1109210028,
+  "districtId": 1109210,
+  "name": "DAYAH TEUNGOH"
+ },
+ {
+  "id": 1109210029,
+  "districtId": 1109210,
+  "name": "MESJID RUNTOH"
+ },
+ {
+  "id": 1109210030,
+  "districtId": 1109210,
+  "name": "BAROH"
+ },
+ {
+  "id": 1109210031,
+  "districtId": 1109210,
+  "name": "PUUK"
+ },
+ {
+  "id": 1109210032,
+  "districtId": 1109210,
+  "name": "LAMPEUDEU TUNONG"
+ },
+ {
+  "id": 1109210033,
+  "districtId": 1109210,
+  "name": "LAMPEUDEU BAROH"
+ },
+ {
+  "id": 1109210034,
+  "districtId": 1109210,
+  "name": "LAMPOH LADA"
+ },
+ {
+  "id": 1109210035,
+  "districtId": 1109210,
+  "name": "KEUNIREE"
+ },
+ {
+  "id": 1109210036,
+  "districtId": 1109210,
+  "name": "COT TEUNGOH"
+ },
+ {
+  "id": 1109210037,
+  "districtId": 1109210,
+  "name": "COT RHENG"
+ },
+ {
+  "id": 1109210038,
+  "districtId": 1109210,
+  "name": "TUMPOK 40"
+ },
+ {
+  "id": 1109210039,
+  "districtId": 1109210,
+  "name": "PULO PISANG"
+ },
+ {
+  "id": 1109210040,
+  "districtId": 1109210,
+  "name": "PALOH"
+ },
+ {
+  "id": 1109210041,
+  "districtId": 1109210,
+  "name": "LAMKUTA"
+ },
+ {
+  "id": 1109210042,
+  "districtId": 1109210,
+  "name": "LHOK KEUTAPANG"
+ },
+ {
+  "id": 1109210043,
+  "districtId": 1109210,
+  "name": "TIBANG"
+ },
+ {
+  "id": 1109210044,
+  "districtId": 1109210,
+  "name": "JEUMPA"
+ },
+ {
+  "id": 1109210045,
+  "districtId": 1109210,
+  "name": "UJONG LANGGO"
+ },
+ {
+  "id": 1109210046,
+  "districtId": 1109210,
+  "name": "BATEE"
+ },
+ {
+  "id": 1109210047,
+  "districtId": 1109210,
+  "name": "BIE"
+ },
+ {
+  "id": 1109210048,
+  "districtId": 1109210,
+  "name": "BLANGKULA"
+ },
+ {
+  "id": 1109210049,
+  "districtId": 1109210,
+  "name": "ALUE"
+ },
+ {
+  "id": 1109210050,
+  "districtId": 1109210,
+  "name": "PAYA LINTEUNG"
+ },
+ {
+  "id": 1109210051,
+  "districtId": 1109210,
+  "name": "SEUKEE"
+ },
+ {
+  "id": 1109210052,
+  "districtId": 1109210,
+  "name": "SEURI WEUK"
+ },
+ {
+  "id": 1109210053,
+  "districtId": 1109210,
+  "name": "PULI"
+ },
+ {
+  "id": 1109210054,
+  "districtId": 1109210,
+  "name": "MESJID UTUE"
+ },
+ {
+  "id": 1109210055,
+  "districtId": 1109210,
+  "name": "SEUKEUMBROK"
+ },
+ {
+  "id": 1109210056,
+  "districtId": 1109210,
+  "name": "LEUBUE"
+ },
+ {
+  "id": 1109210057,
+  "districtId": 1109210,
+  "name": "COT GEULUMPANG"
+ },
+ {
+  "id": 1109210058,
+  "districtId": 1109210,
+  "name": "GAMPONG BARO"
+ },
+ {
+  "id": 1109210059,
+  "districtId": 1109210,
+  "name": "GAJAH AYEE"
+ },
+ {
+  "id": 1109210060,
+  "districtId": 1109210,
+  "name": "RAWA"
+ },
+ {
+  "id": 1109210061,
+  "districtId": 1109210,
+  "name": "PEUKAN BARO"
+ },
+ {
+  "id": 1109210062,
+  "districtId": 1109210,
+  "name": "PULO BUBEE"
+ },
+ {
+  "id": 1109210063,
+  "districtId": 1109210,
+  "name": "MANCANG"
+ },
+ {
+  "id": 1109210064,
+  "districtId": 1109210,
+  "name": "RAYA UTUE"
+ }
+]

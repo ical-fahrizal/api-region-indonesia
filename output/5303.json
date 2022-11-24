@@ -1,0 +1,122 @@
+[
+ {
+  "id": 5303100,
+  "regencieId": 5303,
+  "name": "SEMAU"
+ },
+ {
+  "id": 5303101,
+  "regencieId": 5303,
+  "name": "SEMAU SELATAN"
+ },
+ {
+  "id": 5303110,
+  "regencieId": 5303,
+  "name": "KUPANG BARAT"
+ },
+ {
+  "id": 5303111,
+  "regencieId": 5303,
+  "name": "NEKAMESE"
+ },
+ {
+  "id": 5303120,
+  "regencieId": 5303,
+  "name": "KUPANG TENGAH"
+ },
+ {
+  "id": 5303121,
+  "regencieId": 5303,
+  "name": "TAEBENU"
+ },
+ {
+  "id": 5303130,
+  "regencieId": 5303,
+  "name": "AMARASI"
+ },
+ {
+  "id": 5303131,
+  "regencieId": 5303,
+  "name": "AMARASI BARAT"
+ },
+ {
+  "id": 5303132,
+  "regencieId": 5303,
+  "name": "AMARASI SELATAN"
+ },
+ {
+  "id": 5303133,
+  "regencieId": 5303,
+  "name": "AMARASI TIMUR"
+ },
+ {
+  "id": 5303140,
+  "regencieId": 5303,
+  "name": "KUPANG TIMUR"
+ },
+ {
+  "id": 5303141,
+  "regencieId": 5303,
+  "name": "AMABI OEFETO TIMUR"
+ },
+ {
+  "id": 5303142,
+  "regencieId": 5303,
+  "name": "AMABI OEFETO"
+ },
+ {
+  "id": 5303150,
+  "regencieId": 5303,
+  "name": "SULAMU"
+ },
+ {
+  "id": 5303160,
+  "regencieId": 5303,
+  "name": "FATULEU"
+ },
+ {
+  "id": 5303161,
+  "regencieId": 5303,
+  "name": "FATULEU TENGAH"
+ },
+ {
+  "id": 5303162,
+  "regencieId": 5303,
+  "name": "FATULEU BARAT"
+ },
+ {
+  "id": 5303170,
+  "regencieId": 5303,
+  "name": "TAKARI"
+ },
+ {
+  "id": 5303180,
+  "regencieId": 5303,
+  "name": "AMFOANG SELATAN"
+ },
+ {
+  "id": 5303181,
+  "regencieId": 5303,
+  "name": "AMFOANG BARAT DAYA"
+ },
+ {
+  "id": 5303182,
+  "regencieId": 5303,
+  "name": "AMFOANG TENGAH"
+ },
+ {
+  "id": 5303190,
+  "regencieId": 5303,
+  "name": "AMFOANG UTARA"
+ },
+ {
+  "id": 5303191,
+  "regencieId": 5303,
+  "name": "AMFOANG BARAT LAUT"
+ },
+ {
+  "id": 5303192,
+  "regencieId": 5303,
+  "name": "AMFOANG TIMUR"
+ }
+]

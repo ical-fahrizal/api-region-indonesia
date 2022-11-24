@@ -1,0 +1,287 @@
+[
+ {
+  "id": 1111100001,
+  "districtId": 1111100,
+  "name": "CINTA MAKMUR"
+ },
+ {
+  "id": 1111100002,
+  "districtId": 1111100,
+  "name": "BABUSSALAM"
+ },
+ {
+  "id": 1111100003,
+  "districtId": 1111100,
+  "name": "BUKET DARA BARO"
+ },
+ {
+  "id": 1111100004,
+  "districtId": 1111100,
+  "name": "MATANG BARO"
+ },
+ {
+  "id": 1111100005,
+  "districtId": 1111100,
+  "name": "UJONG DAMA"
+ },
+ {
+  "id": 1111100006,
+  "districtId": 1111100,
+  "name": "BUKET MON SUKON"
+ },
+ {
+  "id": 1111100007,
+  "districtId": 1111100,
+  "name": "MATANG BEURINGEN"
+ },
+ {
+  "id": 1111100009,
+  "districtId": 1111100,
+  "name": "MATANG PINEUNG"
+ },
+ {
+  "id": 1111100010,
+  "districtId": 1111100,
+  "name": "CEUMPEDAK"
+ },
+ {
+  "id": 1111100011,
+  "districtId": 1111100,
+  "name": "MATANG REUDEUP"
+ },
+ {
+  "id": 1111100012,
+  "districtId": 1111100,
+  "name": "BUKET LUENG BATA"
+ },
+ {
+  "id": 1111100013,
+  "districtId": 1111100,
+  "name": "MATANG MANYAM"
+ },
+ {
+  "id": 1111100014,
+  "districtId": 1111100,
+  "name": "COT MANYANG"
+ },
+ {
+  "id": 1111100015,
+  "districtId": 1111100,
+  "name": "KEUDE MEUNYE IV"
+ },
+ {
+  "id": 1111100016,
+  "districtId": 1111100,
+  "name": "MATANG ULIM"
+ },
+ {
+  "id": 1111100017,
+  "districtId": 1111100,
+  "name": "MATANG LINYA"
+ },
+ {
+  "id": 1111100023,
+  "districtId": 1111100,
+  "name": "ALUE IE TAREK"
+ },
+ {
+  "id": 1111100024,
+  "districtId": 1111100,
+  "name": "GEULUMPANG BUNGKOK"
+ },
+ {
+  "id": 1111100025,
+  "districtId": 1111100,
+  "name": "ARONGAN LISE"
+ },
+ {
+  "id": 1111100026,
+  "districtId": 1111100,
+  "name": "GLUMPANG PAYONG"
+ },
+ {
+  "id": 1111100027,
+  "districtId": 1111100,
+  "name": "ALUE RAMBONG"
+ },
+ {
+  "id": 1111100028,
+  "districtId": 1111100,
+  "name": "GEULUMPANG SAMLAKOE"
+ },
+ {
+  "id": 1111100029,
+  "districtId": 1111100,
+  "name": "MATANG RAWA"
+ },
+ {
+  "id": 1111100030,
+  "districtId": 1111100,
+  "name": "MATANG LAWANG"
+ },
+ {
+  "id": 1111100032,
+  "districtId": 1111100,
+  "name": "COT ARA"
+ },
+ {
+  "id": 1111100033,
+  "districtId": 1111100,
+  "name": "ALUE DAMA"
+ },
+ {
+  "id": 1111100034,
+  "districtId": 1111100,
+  "name": "ALUE BILI GEULUMPANG"
+ },
+ {
+  "id": 1111100035,
+  "districtId": 1111100,
+  "name": "PUCOK ALUE"
+ },
+ {
+  "id": 1111100036,
+  "districtId": 1111100,
+  "name": "MATANG KAREUNG"
+ },
+ {
+  "id": 1111100037,
+  "districtId": 1111100,
+  "name": "COT ULAYA"
+ },
+ {
+  "id": 1111100040,
+  "districtId": 1111100,
+  "name": "KEUDE PANTEU BREUH"
+ },
+ {
+  "id": 1111100041,
+  "districtId": 1111100,
+  "name": "RAMBONG DALAM"
+ },
+ {
+  "id": 1111100042,
+  "districtId": 1111100,
+  "name": "ALUE BILI RAYEUK"
+ },
+ {
+  "id": 1111100043,
+  "districtId": 1111100,
+  "name": "MEUNASAH ALUE IE PUTEH"
+ },
+ {
+  "id": 1111100044,
+  "districtId": 1111100,
+  "name": "KEUDE ALUE IE PUTEH"
+ },
+ {
+  "id": 1111100045,
+  "districtId": 1111100,
+  "name": "MATANG KUMBANG"
+ },
+ {
+  "id": 1111100057,
+  "districtId": 1111100,
+  "name": "COT MANE"
+ },
+ {
+  "id": 1111100058,
+  "districtId": 1111100,
+  "name": "COT KUMBANG"
+ },
+ {
+  "id": 1111100059,
+  "districtId": 1111100,
+  "name": "LHOK SEUTUY"
+ },
+ {
+  "id": 1111100060,
+  "districtId": 1111100,
+  "name": "MEUNASAH BUJOK"
+ },
+ {
+  "id": 1111100061,
+  "districtId": 1111100,
+  "name": "ALUE JAMOK"
+ },
+ {
+  "id": 1111100062,
+  "districtId": 1111100,
+  "name": "MEUDANG ARA"
+ },
+ {
+  "id": 1111100063,
+  "districtId": 1111100,
+  "name": "ALUE KEUTAPANG"
+ },
+ {
+  "id": 1111100064,
+  "districtId": 1111100,
+  "name": "MEUNASAH GEUDONG"
+ },
+ {
+  "id": 1111100065,
+  "districtId": 1111100,
+  "name": "KRUENG LINGKA TIMU"
+ },
+ {
+  "id": 1111100066,
+  "districtId": 1111100,
+  "name": "KRUENG LINGKA BARAT"
+ },
+ {
+  "id": 1111100067,
+  "districtId": 1111100,
+  "name": "ALUE ANOU TIMU"
+ },
+ {
+  "id": 1111100068,
+  "districtId": 1111100,
+  "name": "ALUE ANOU BARAT"
+ },
+ {
+  "id": 1111100069,
+  "districtId": 1111100,
+  "name": "ALUE SERDANG"
+ },
+ {
+  "id": 1111100070,
+  "districtId": 1111100,
+  "name": "MATANG RAYA BARAT"
+ },
+ {
+  "id": 1111100074,
+  "districtId": 1111100,
+  "name": "PULO SEUKE"
+ },
+ {
+  "id": 1111100075,
+  "districtId": 1111100,
+  "name": "ALUE GEUDONG"
+ },
+ {
+  "id": 1111100076,
+  "districtId": 1111100,
+  "name": "MATANG KEULAYU"
+ },
+ {
+  "id": 1111100077,
+  "districtId": 1111100,
+  "name": "MATANG RAYA TIMU"
+ },
+ {
+  "id": 1111100078,
+  "districtId": 1111100,
+  "name": "ALUE BUYA"
+ },
+ {
+  "id": 1111100079,
+  "districtId": 1111100,
+  "name": "MATANG CUT"
+ },
+ {
+  "id": 1111100080,
+  "districtId": 1111100,
+  "name": "TANJONG GLUMPANG"
+ }
+]

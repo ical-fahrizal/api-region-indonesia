@@ -1,0 +1,52 @@
+[
+ {
+  "id": 7108010,
+  "regencieId": 7108,
+  "name": "BIARO"
+ },
+ {
+  "id": 7108020,
+  "regencieId": 7108,
+  "name": "TAGULANDANG SELATAN"
+ },
+ {
+  "id": 7108030,
+  "regencieId": 7108,
+  "name": "TAGULANDANG"
+ },
+ {
+  "id": 7108040,
+  "regencieId": 7108,
+  "name": "TAGULANDANG UTARA"
+ },
+ {
+  "id": 7108050,
+  "regencieId": 7108,
+  "name": "SIAU BARAT SELATAN"
+ },
+ {
+  "id": 7108060,
+  "regencieId": 7108,
+  "name": "SIAU TIMUR SELATAN"
+ },
+ {
+  "id": 7108070,
+  "regencieId": 7108,
+  "name": "SIAU BARAT"
+ },
+ {
+  "id": 7108080,
+  "regencieId": 7108,
+  "name": "SIAU TENGAH"
+ },
+ {
+  "id": 7108090,
+  "regencieId": 7108,
+  "name": "SIAU TIMUR"
+ },
+ {
+  "id": 7108100,
+  "regencieId": 7108,
+  "name": "SIAU BARAT UTARA"
+ }
+]

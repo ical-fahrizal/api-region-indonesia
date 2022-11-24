@@ -1,0 +1,57 @@
+[
+ {
+  "id": 9420010,
+  "regencieId": 9420,
+  "name": "WEB"
+ },
+ {
+  "id": 9420011,
+  "regencieId": 9420,
+  "name": "TOWE"
+ },
+ {
+  "id": 9420012,
+  "regencieId": 9420,
+  "name": "YAFFI"
+ },
+ {
+  "id": 9420020,
+  "regencieId": 9420,
+  "name": "SENGGI"
+ },
+ {
+  "id": 9420021,
+  "regencieId": 9420,
+  "name": "KAISENAR"
+ },
+ {
+  "id": 9420030,
+  "regencieId": 9420,
+  "name": "WARIS"
+ },
+ {
+  "id": 9420040,
+  "regencieId": 9420,
+  "name": "ARSO"
+ },
+ {
+  "id": 9420041,
+  "regencieId": 9420,
+  "name": "ARSO TIMUR"
+ },
+ {
+  "id": 9420042,
+  "regencieId": 9420,
+  "name": "ARSO BARAT"
+ },
+ {
+  "id": 9420043,
+  "regencieId": 9420,
+  "name": "MANNEM"
+ },
+ {
+  "id": 9420050,
+  "regencieId": 9420,
+  "name": "SKANTO"
+ }
+]

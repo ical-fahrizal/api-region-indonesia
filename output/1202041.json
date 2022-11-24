@@ -1,0 +1,42 @@
+[
+ {
+  "id": 1202041001,
+  "districtId": 1202041,
+  "name": "HUTA JULU"
+ },
+ {
+  "id": 1202041002,
+  "districtId": 1202041,
+  "name": "HUTA PADANG"
+ },
+ {
+  "id": 1202041003,
+  "districtId": 1202041,
+  "name": "HUTA TORAS"
+ },
+ {
+  "id": 1202041004,
+  "districtId": 1202041,
+  "name": "PAKANTAN LOMBANG"
+ },
+ {
+  "id": 1202041005,
+  "districtId": 1202041,
+  "name": "HUTA LANCAT"
+ },
+ {
+  "id": 1202041006,
+  "districtId": 1202041,
+  "name": "PAKANTAN DOLOK"
+ },
+ {
+  "id": 1202041007,
+  "districtId": 1202041,
+  "name": "SILOGUN"
+ },
+ {
+  "id": 1202041008,
+  "districtId": 1202041,
+  "name": "HUTA GAMBIR"
+ }
+]
