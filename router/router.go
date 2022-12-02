@@ -10,7 +10,7 @@ import (
 
 type messageRespon struct {
 	Message string `json:"message"`
-	status  bool   `json:"status"`
+	Status  bool   `json:"status"`
 }
 
 func SetupRoutes() {
@@ -21,7 +21,7 @@ func SetupRoutes() {
 			id := c.Params("id")
 			return c.SendFile(fmt.Sprintf(`./output/%v.json`, id))
 		}
-		m := messageRespon{Message: "Not Data", status: false}
+		m := messageRespon{Message: "Not Data", Status: false}
 		byteRespon, _ := json.Marshal(m)
 		return c.SendString(string(byteRespon))
 	})
