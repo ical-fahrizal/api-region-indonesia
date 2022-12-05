@@ -2,61 +2,85 @@
  {
   "id": 1217040001,
   "districtId": 1217040,
-  "name": "HARIAN"
+  "districtName": "ONAN RUNGGU",
+  "name": "HARIAN",
+  "postalCode": "22391"
  },
  {
   "id": 1217040002,
   "districtId": 1217040,
-  "name": "SITINJAK"
+  "districtName": "ONAN RUNGGU",
+  "name": "SITINJAK",
+  "postalCode": "22735"
  },
  {
   "id": 1217040003,
   "districtId": 1217040,
-  "name": "PAKPAHAN"
+  "districtName": "ONAN RUNGGU",
+  "name": "PAKPAHAN",
+  "postalCode": "22394"
  },
  {
   "id": 1217040004,
   "districtId": 1217040,
-  "name": "ONAN RUNGGU"
+  "districtName": "ONAN RUNGGU",
+  "name": "ONAN RUNGGU",
+  "postalCode": "22394"
  },
  {
   "id": 1217040005,
   "districtId": 1217040,
-  "name": "TAMBUN SUNGKEAN"
+  "districtName": "ONAN RUNGGU",
+  "name": "TAMBUN SUNGKEAN",
+  "postalCode": "22394"
  },
  {
   "id": 1217040006,
   "districtId": 1217040,
-  "name": "SITAMIANG"
+  "districtName": "ONAN RUNGGU",
+  "name": "SITAMIANG",
+  "postalCode": "22394"
  },
  {
   "id": 1217040007,
   "districtId": 1217040,
-  "name": "PARDOMUAN"
+  "districtName": "ONAN RUNGGU",
+  "name": "PARDOMUAN",
+  "postalCode": "22732"
  },
  {
   "id": 1217040008,
   "districtId": 1217040,
-  "name": "HUTA HOTANG"
+  "districtName": "ONAN RUNGGU",
+  "name": "HUTA HOTANG",
+  "postalCode": "22394"
  },
  {
   "id": 1217040009,
   "districtId": 1217040,
-  "name": "RINA BOLAK"
+  "districtName": "ONAN RUNGGU",
+  "name": "RINA BOLAK",
+  "postalCode": ""
  },
  {
   "id": 1217040010,
   "districtId": 1217040,
-  "name": "SIPIRA"
+  "districtName": "ONAN RUNGGU",
+  "name": "SIPIRA",
+  "postalCode": "22394"
  },
  {
   "id": 1217040011,
   "districtId": 1217040,
-  "name": "JANJI MATOGU"
+  "districtName": "ONAN RUNGGU",
+  "name": "JANJI MATOGU",
+  "postalCode": "22977"
  },
  {
   "id": 1217040012,
   "districtId": 1217040,
-  "name": "SILIMA LOMBU"
+  "districtName": "ONAN RUNGGU",
+  "name": "SILIMA LOMBU",
+  "postalCode": "22394"
  }
 ]

@@ -2,116 +2,162 @@
  {
   "id": 6308020001,
   "districtId": 6308020,
-  "name": "MURUNG KUPANG"
+  "districtName": "BABIRIK",
+  "name": "MURUNG KUPANG",
+  "postalCode": "71454"
  },
  {
   "id": 6308020002,
   "districtId": 6308020,
-  "name": "BABIRIK HILIR"
+  "districtName": "BABIRIK",
+  "name": "BABIRIK HILIR",
+  "postalCode": "71454"
  },
  {
   "id": 6308020003,
   "districtId": 6308020,
-  "name": "BABIRIK HULU"
+  "districtName": "BABIRIK",
+  "name": "BABIRIK HULU",
+  "postalCode": "71454"
  },
  {
   "id": 6308020004,
   "districtId": 6308020,
-  "name": "SUNGAI JANJAM"
+  "districtName": "BABIRIK",
+  "name": "SUNGAI JANJAM",
+  "postalCode": ""
  },
  {
   "id": 6308020005,
   "districtId": 6308020,
-  "name": "SUNGAI DURAIT HILIR"
+  "districtName": "BABIRIK",
+  "name": "SUNGAI DURAIT HILIR",
+  "postalCode": ""
  },
  {
   "id": 6308020006,
   "districtId": 6308020,
-  "name": "SUNGAI DURAIT TENGAH"
+  "districtName": "BABIRIK",
+  "name": "SUNGAI DURAIT TENGAH",
+  "postalCode": ""
  },
  {
   "id": 6308020007,
   "districtId": 6308020,
-  "name": "SUNGAI DURAIT HULU"
+  "districtName": "BABIRIK",
+  "name": "SUNGAI DURAIT HULU",
+  "postalCode": ""
  },
  {
   "id": 6308020008,
   "districtId": 6308020,
-  "name": "HAMBUKU LIMA"
+  "districtName": "BABIRIK",
+  "name": "HAMBUKU LIMA",
+  "postalCode": "71454"
  },
  {
   "id": 6308020009,
   "districtId": 6308020,
-  "name": "HAMBUKU BARU"
+  "districtName": "BABIRIK",
+  "name": "HAMBUKU BARU",
+  "postalCode": "71454"
  },
  {
   "id": 6308020010,
   "districtId": 6308020,
-  "name": "HAMBUKU HILIR"
+  "districtName": "BABIRIK",
+  "name": "HAMBUKU HILIR",
+  "postalCode": "71454"
  },
  {
   "id": 6308020011,
   "districtId": 6308020,
-  "name": "MURUNG PANTI HULU"
+  "districtName": "BABIRIK",
+  "name": "MURUNG PANTI HULU",
+  "postalCode": "71454"
  },
  {
   "id": 6308020012,
   "districtId": 6308020,
-  "name": "MURUNG PANTI HILIR"
+  "districtName": "BABIRIK",
+  "name": "MURUNG PANTI HILIR",
+  "postalCode": "71454"
  },
  {
   "id": 6308020013,
   "districtId": 6308020,
-  "name": "TELUK LIMBUNG"
+  "districtName": "BABIRIK",
+  "name": "TELUK LIMBUNG",
+  "postalCode": "71454"
  },
  {
   "id": 6308020014,
   "districtId": 6308020,
-  "name": "SUNGAI PAPUYU"
+  "districtName": "BABIRIK",
+  "name": "SUNGAI PAPUYU",
+  "postalCode": ""
  },
  {
   "id": 6308020015,
   "districtId": 6308020,
-  "name": "KALUMPANG LUAR"
+  "districtName": "BABIRIK",
+  "name": "KALUMPANG LUAR",
+  "postalCode": "71454"
  },
  {
   "id": 6308020016,
   "districtId": 6308020,
-  "name": "KALUMPANG DALAM"
+  "districtName": "BABIRIK",
+  "name": "KALUMPANG DALAM",
+  "postalCode": "71454"
  },
  {
   "id": 6308020017,
   "districtId": 6308020,
-  "name": "SUNGAI LUANG HILIR"
+  "districtName": "BABIRIK",
+  "name": "SUNGAI LUANG HILIR",
+  "postalCode": ""
  },
  {
   "id": 6308020018,
   "districtId": 6308020,
-  "name": "PARUPUKAN"
+  "districtName": "BABIRIK",
+  "name": "PARUPUKAN",
+  "postalCode": "71454"
  },
  {
   "id": 6308020019,
   "districtId": 6308020,
-  "name": "SUNGAI NYIUR"
+  "districtName": "BABIRIK",
+  "name": "SUNGAI NYIUR",
+  "postalCode": "29271"
  },
  {
   "id": 6308020020,
   "districtId": 6308020,
-  "name": "SUNGAI LUANG HULU"
+  "districtName": "BABIRIK",
+  "name": "SUNGAI LUANG HULU",
+  "postalCode": ""
  },
  {
   "id": 6308020021,
   "districtId": 6308020,
-  "name": "SUNGAI DALAM"
+  "districtName": "BABIRIK",
+  "name": "SUNGAI DALAM",
+  "postalCode": "37163"
  },
  {
   "id": 6308020022,
   "districtId": 6308020,
-  "name": "PAJUKUNGAN HILIR"
+  "districtName": "BABIRIK",
+  "name": "PAJUKUNGAN HILIR",
+  "postalCode": "71454"
  },
  {
   "id": 6308020023,
   "districtId": 6308020,
-  "name": "PAJUKUNGAN HULU"
+  "districtName": "BABIRIK",
+  "name": "PAJUKUNGAN HULU",
+  "postalCode": "71454"
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 3603121001,
   "districtId": 3603121,
-  "name": "WANA KERTA"
+  "districtName": "SINDANG JAYA",
+  "name": "WANA KERTA",
+  "postalCode": "15560"
  },
  {
   "id": 3603121002,
   "districtId": 3603121,
-  "name": "SUKA HARJA"
+  "districtName": "SINDANG JAYA",
+  "name": "SUKA HARJA",
+  "postalCode": "15560"
  },
  {
   "id": 3603121003,
   "districtId": 3603121,
-  "name": "SINDANG PANON"
+  "districtName": "SINDANG JAYA",
+  "name": "SINDANG PANON",
+  "postalCode": "15560"
  },
  {
   "id": 3603121004,
   "districtId": 3603121,
-  "name": "SINDANG JAYA"
+  "districtName": "SINDANG JAYA",
+  "name": "SINDANG JAYA",
+  "postalCode": "31666"
  },
  {
   "id": 3603121005,
   "districtId": 3603121,
-  "name": "SINDANG ASIH"
+  "districtName": "SINDANG JAYA",
+  "name": "SINDANG ASIH",
+  "postalCode": "15560"
  },
  {
   "id": 3603121006,
   "districtId": 3603121,
-  "name": "SINDANG SONO"
+  "districtName": "SINDANG JAYA",
+  "name": "SINDANG SONO",
+  "postalCode": "15560"
  },
  {
   "id": 3603121007,
   "districtId": 3603121,
-  "name": "BADAK ANOM"
+  "districtName": "SINDANG JAYA",
+  "name": "BADAK ANOM",
+  "postalCode": "15540"
  }
 ]

@@ -2,86 +2,120 @@
  {
   "id": 7405041001,
   "districtId": 7405041,
-  "name": "TOROBULU"
+  "districtName": "LAEYA",
+  "name": "TOROBULU",
+  "postalCode": "93881"
  },
  {
   "id": 7405041002,
   "districtId": 7405041,
-  "name": "WONUA KONGGA"
+  "districtName": "LAEYA",
+  "name": "WONUA KONGGA",
+  "postalCode": "93881"
  },
  {
   "id": 7405041003,
   "districtId": 7405041,
-  "name": "LABOKEO"
+  "districtName": "LAEYA",
+  "name": "LABOKEO",
+  "postalCode": "93881"
  },
  {
   "id": 7405041004,
   "districtId": 7405041,
-  "name": "ANGGOROBOTI"
+  "districtName": "LAEYA",
+  "name": "ANGGOROBOTI",
+  "postalCode": "93881"
  },
  {
   "id": 7405041005,
   "districtId": 7405041,
-  "name": "LAEYA"
+  "districtName": "LAEYA",
+  "name": "LAEYA",
+  "postalCode": "93881"
  },
  {
   "id": 7405041006,
   "districtId": 7405041,
-  "name": "AEPODU"
+  "districtName": "LAEYA",
+  "name": "AEPODU",
+  "postalCode": "93881"
  },
  {
   "id": 7405041007,
   "districtId": 7405041,
-  "name": "RAMBU-RAMBU"
+  "districtName": "LAEYA",
+  "name": "RAMBU-RAMBU",
+  "postalCode": "93395"
  },
  {
   "id": 7405041008,
   "districtId": 7405041,
-  "name": "AMBAKUMINA"
+  "districtName": "LAEYA",
+  "name": "AMBAKUMINA",
+  "postalCode": ""
  },
  {
   "id": 7405041009,
   "districtId": 7405041,
-  "name": "OMBU-OMBU JAYA"
+  "districtName": "LAEYA",
+  "name": "OMBU-OMBU JAYA",
+  "postalCode": "93881"
  },
  {
   "id": 7405041010,
   "districtId": 7405041,
-  "name": "LAMONG JAYA"
+  "districtName": "LAEYA",
+  "name": "LAMONG JAYA",
+  "postalCode": "93881"
  },
  {
   "id": 7405041011,
   "districtId": 7405041,
-  "name": "LEREPAKO"
+  "districtName": "LAEYA",
+  "name": "LEREPAKO",
+  "postalCode": "93881"
  },
  {
   "id": 7405041012,
   "districtId": 7405041,
-  "name": "PUNGGALUKU"
+  "districtName": "LAEYA",
+  "name": "PUNGGALUKU",
+  "postalCode": "93452"
  },
  {
   "id": 7405041013,
   "districtId": 7405041,
-  "name": "ANDUNA"
+  "districtName": "LAEYA",
+  "name": "ANDUNA",
+  "postalCode": "93881"
  },
  {
   "id": 7405041014,
   "districtId": 7405041,
-  "name": "AMBALODANGGE"
+  "districtName": "LAEYA",
+  "name": "AMBALODANGGE",
+  "postalCode": "93881"
  },
  {
   "id": 7405041015,
   "districtId": 7405041,
-  "name": "LAMBAKARA"
+  "districtName": "LAEYA",
+  "name": "LAMBAKARA",
+  "postalCode": "87182"
  },
  {
   "id": 7405041016,
   "districtId": 7405041,
-  "name": "AMBESEA"
+  "districtName": "LAEYA",
+  "name": "AMBESEA",
+  "postalCode": "93881"
  },
  {
   "id": 7405041017,
   "districtId": 7405041,
-  "name": "PUUWULO"
+  "districtName": "LAEYA",
+  "name": "PUUWULO",
+  "postalCode": ""
  }
 ]

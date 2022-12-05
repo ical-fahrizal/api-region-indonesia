@@ -2,31 +2,43 @@
  {
   "id": 5104050001,
   "districtId": 5104050,
-  "name": "SINGEKERTA"
+  "districtName": "UBUD",
+  "name": "SINGEKERTA",
+  "postalCode": ""
  },
  {
   "id": 5104050002,
   "districtId": 5104050,
-  "name": "LODTUNDUH"
+  "districtName": "UBUD",
+  "name": "LODTUNDUH",
+  "postalCode": "80571"
  },
  {
   "id": 5104050003,
   "districtId": 5104050,
-  "name": "MAS"
+  "districtName": "UBUD",
+  "name": "MAS",
+  "postalCode": "80571"
  },
  {
   "id": 5104050004,
   "districtId": 5104050,
-  "name": "PELIATAN"
+  "districtName": "UBUD",
+  "name": "PELIATAN",
+  "postalCode": "80571"
  },
  {
   "id": 5104050007,
   "districtId": 5104050,
-  "name": "SAYAN"
+  "districtName": "UBUD",
+  "name": "SAYAN",
+  "postalCode": "80571"
  },
  {
   "id": 5104050008,
   "districtId": 5104050,
-  "name": "KEDEWATAN"
+  "districtName": "UBUD",
+  "name": "KEDEWATAN",
+  "postalCode": "80571"
  }
 ]

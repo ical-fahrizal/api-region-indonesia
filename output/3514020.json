@@ -2,56 +2,78 @@
  {
   "id": 3514020001,
   "districtId": 3514020,
-  "name": "BLARANG"
+  "districtName": "TUTUR",
+  "name": "BLARANG",
+  "postalCode": "67165"
  },
  {
   "id": 3514020002,
   "districtId": 3514020,
-  "name": "KAYU KEBEK"
+  "districtName": "TUTUR",
+  "name": "KAYU KEBEK",
+  "postalCode": "67165"
  },
  {
   "id": 3514020003,
   "districtId": 3514020,
-  "name": "NGADIREJO"
+  "districtName": "TUTUR",
+  "name": "NGADIREJO",
+  "postalCode": "31662"
  },
  {
   "id": 3514020004,
   "districtId": 3514020,
-  "name": "ANDONO SARI"
+  "districtName": "TUTUR",
+  "name": "ANDONO SARI",
+  "postalCode": "67165"
  },
  {
   "id": 3514020005,
   "districtId": 3514020,
-  "name": "WONOSARI"
+  "districtName": "TUTUR",
+  "name": "WONOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 3514020006,
   "districtId": 3514020,
-  "name": "GENDRO"
+  "districtName": "TUTUR",
+  "name": "GENDRO",
+  "postalCode": "67165"
  },
  {
   "id": 3514020007,
   "districtId": 3514020,
-  "name": "TLOGOSARI"
+  "districtName": "TUTUR",
+  "name": "TLOGOSARI",
+  "postalCode": "54473"
  },
  {
   "id": 3514020009,
   "districtId": 3514020,
-  "name": "PUNGGING"
+  "districtName": "TUTUR",
+  "name": "PUNGGING",
+  "postalCode": "61384"
  },
  {
   "id": 3514020010,
   "districtId": 3514020,
-  "name": "KALI PUCANG"
+  "districtName": "TUTUR",
+  "name": "KALI PUCANG",
+  "postalCode": "67165"
  },
  {
   "id": 3514020011,
   "districtId": 3514020,
-  "name": "SUMBER PITU"
+  "districtName": "TUTUR",
+  "name": "SUMBER PITU",
+  "postalCode": "67165"
  },
  {
   "id": 3514020012,
   "districtId": 3514020,
-  "name": "NGEMBAL"
+  "districtName": "TUTUR",
+  "name": "NGEMBAL",
+  "postalCode": "67165"
  }
 ]

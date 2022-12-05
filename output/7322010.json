@@ -2,101 +2,141 @@
  {
   "id": 7322010001,
   "districtId": 7322010,
-  "name": "TANDUNG"
+  "districtName": "SABBANG",
+  "name": "TANDUNG",
+  "postalCode": "92953"
  },
  {
   "id": 7322010002,
   "districtId": 7322010,
-  "name": "KALOTOK"
+  "districtName": "SABBANG",
+  "name": "KALOTOK",
+  "postalCode": "92955"
  },
  {
   "id": 7322010003,
   "districtId": 7322010,
-  "name": "POMPANIKI"
+  "districtName": "SABBANG",
+  "name": "POMPANIKI",
+  "postalCode": "92955"
  },
  {
   "id": 7322010004,
   "districtId": 7322010,
-  "name": "MARI-MARI"
+  "districtName": "SABBANG",
+  "name": "MARI-MARI",
+  "postalCode": "92955"
  },
  {
   "id": 7322010005,
   "districtId": 7322010,
-  "name": "BONE SUBUR"
+  "districtName": "SABBANG",
+  "name": "BONE SUBUR",
+  "postalCode": "92955"
  },
  {
   "id": 7322010006,
   "districtId": 7322010,
-  "name": "TETE URI"
+  "districtName": "SABBANG",
+  "name": "TETE URI",
+  "postalCode": "92955"
  },
  {
   "id": 7322010007,
   "districtId": 7322010,
-  "name": "BATU ALANG"
+  "districtName": "SABBANG",
+  "name": "BATU ALANG",
+  "postalCode": "92955"
  },
  {
   "id": 7322010008,
   "districtId": 7322010,
-  "name": "KAMPUNG BARU"
+  "districtName": "SABBANG",
+  "name": "KAMPUNG BARU",
+  "postalCode": "24652"
  },
  {
   "id": 7322010009,
   "districtId": 7322010,
-  "name": "DANDANG"
+  "districtName": "SABBANG",
+  "name": "DANDANG",
+  "postalCode": "67292"
  },
  {
   "id": 7322010010,
   "districtId": 7322010,
-  "name": "BUANGIN"
+  "districtName": "SABBANG",
+  "name": "BUANGIN",
+  "postalCode": "91853"
  },
  {
   "id": 7322010011,
   "districtId": 7322010,
-  "name": "PARARRA"
+  "districtName": "SABBANG",
+  "name": "PARARRA",
+  "postalCode": "92955"
  },
  {
   "id": 7322010012,
   "districtId": 7322010,
-  "name": "TERPEDO JAYA"
+  "districtName": "SABBANG",
+  "name": "TERPEDO JAYA",
+  "postalCode": "92955"
  },
  {
   "id": 7322010013,
   "districtId": 7322010,
-  "name": "BUNTU TERPEDO"
+  "districtName": "SABBANG",
+  "name": "BUNTU TERPEDO",
+  "postalCode": "92955"
  },
  {
   "id": 7322010014,
   "districtId": 7322010,
-  "name": "TULAK TALLU"
+  "districtName": "SABBANG",
+  "name": "TULAK TALLU",
+  "postalCode": "92955"
  },
  {
   "id": 7322010015,
   "districtId": 7322010,
-  "name": "BAKKA"
+  "districtName": "SABBANG",
+  "name": "BAKKA",
+  "postalCode": "92955"
  },
  {
   "id": 7322010016,
   "districtId": 7322010,
-  "name": "PENGKENDEKAN"
+  "districtName": "SABBANG",
+  "name": "PENGKENDEKAN",
+  "postalCode": "92954"
  },
  {
   "id": 7322010017,
   "districtId": 7322010,
-  "name": "MAROBO"
+  "districtName": "SABBANG",
+  "name": "MAROBO",
+  "postalCode": "92955"
  },
  {
   "id": 7322010018,
   "districtId": 7322010,
-  "name": "SABBANG"
+  "districtName": "SABBANG",
+  "name": "SABBANG",
+  "postalCode": "92955"
  },
  {
   "id": 7322010019,
   "districtId": 7322010,
-  "name": "SALAMA"
+  "districtName": "SABBANG",
+  "name": "SALAMA",
+  "postalCode": "86592"
  },
  {
   "id": 7322010020,
   "districtId": 7322010,
-  "name": "MALIMBU"
+  "districtName": "SABBANG",
+  "name": "MALIMBU",
+  "postalCode": "92955"
  }
 ]

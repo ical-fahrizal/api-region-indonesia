@@ -2,46 +2,64 @@
  {
   "id": 1506012001,
   "districtId": 1506012,
-  "name": "RANTAU KARYA"
+  "districtName": "GERAGAI",
+  "name": "RANTAU KARYA",
+  "postalCode": "36764"
  },
  {
   "id": 1506012002,
   "districtId": 1506012,
-  "name": "KOTA BARU"
+  "districtName": "GERAGAI",
+  "name": "KOTA BARU",
+  "postalCode": "23125"
  },
  {
   "id": 1506012003,
   "districtId": 1506012,
-  "name": "PANDAN LAGAN"
+  "districtName": "GERAGAI",
+  "name": "PANDAN LAGAN",
+  "postalCode": ""
  },
  {
   "id": 1506012004,
   "districtId": 1506012,
-  "name": "SUKA MAJU"
+  "districtName": "GERAGAI",
+  "name": "SUKA MAJU",
+  "postalCode": "24673"
  },
  {
   "id": 1506012005,
   "districtId": 1506012,
-  "name": "PANDAN MAKMUR"
+  "districtName": "GERAGAI",
+  "name": "PANDAN MAKMUR",
+  "postalCode": "36764"
  },
  {
   "id": 1506012006,
   "districtId": 1506012,
-  "name": "PANDAN SEJAHTERA"
+  "districtName": "GERAGAI",
+  "name": "PANDAN SEJAHTERA",
+  "postalCode": "36764"
  },
  {
   "id": 1506012007,
   "districtId": 1506012,
-  "name": "PANDAN JAYA"
+  "districtName": "GERAGAI",
+  "name": "PANDAN JAYA",
+  "postalCode": "36764"
  },
  {
   "id": 1506012008,
   "districtId": 1506012,
-  "name": "LAGAN ULU"
+  "districtName": "GERAGAI",
+  "name": "LAGAN ULU",
+  "postalCode": "36764"
  },
  {
   "id": 1506012009,
   "districtId": 1506012,
-  "name": "LAGAN TENGAH"
+  "districtName": "GERAGAI",
+  "name": "LAGAN TENGAH",
+  "postalCode": "36764"
  }
 ]

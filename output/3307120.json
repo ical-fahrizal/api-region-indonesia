@@ -2,71 +2,99 @@
  {
   "id": 3307120001,
   "districtId": 3307120,
-  "name": "TEGALSARI"
+  "districtName": "GARUNG",
+  "name": "TEGALSARI",
+  "postalCode": "35372"
  },
  {
   "id": 3307120002,
   "districtId": 3307120,
-  "name": "SITIHARJO"
+  "districtName": "GARUNG",
+  "name": "SITIHARJO",
+  "postalCode": "56353"
  },
  {
   "id": 3307120003,
   "districtId": 3307120,
-  "name": "SENDANGSARI"
+  "districtName": "GARUNG",
+  "name": "SENDANGSARI",
+  "postalCode": "57674"
  },
  {
   "id": 3307120004,
   "districtId": 3307120,
-  "name": "GEMBLENGAN"
+  "districtName": "GARUNG",
+  "name": "GEMBLENGAN",
+  "postalCode": "56353"
  },
  {
   "id": 3307120005,
   "districtId": 3307120,
-  "name": "LENGKONG"
+  "districtName": "GARUNG",
+  "name": "LENGKONG",
+  "postalCode": "24415"
  },
  {
   "id": 3307120006,
   "districtId": 3307120,
-  "name": "KAYUGIYANG"
+  "districtName": "GARUNG",
+  "name": "KAYUGIYANG",
+  "postalCode": "56353"
  },
  {
   "id": 3307120007,
   "districtId": 3307120,
-  "name": "GARUNG"
+  "districtName": "GARUNG",
+  "name": "GARUNG",
+  "postalCode": "56353"
  },
  {
   "id": 3307120008,
   "districtId": 3307120,
-  "name": "SIWURAN"
+  "districtName": "GARUNG",
+  "name": "SIWURAN",
+  "postalCode": "56353"
  },
  {
   "id": 3307120009,
   "districtId": 3307120,
-  "name": "KURIPAN"
+  "districtName": "GARUNG",
+  "name": "KURIPAN",
+  "postalCode": "32384"
  },
  {
   "id": 3307120010,
   "districtId": 3307120,
-  "name": "JENGKOL"
+  "districtName": "GARUNG",
+  "name": "JENGKOL",
+  "postalCode": "56353"
  },
  {
   "id": 3307120011,
   "districtId": 3307120,
-  "name": "TLOGO"
+  "districtName": "GARUNG",
+  "name": "TLOGO",
+  "postalCode": "56353"
  },
  {
   "id": 3307120012,
   "districtId": 3307120,
-  "name": "MARON"
+  "districtName": "GARUNG",
+  "name": "MARON",
+  "postalCode": "56353"
  },
  {
   "id": 3307120014,
   "districtId": 3307120,
-  "name": "LARANGAN LOR"
+  "districtName": "GARUNG",
+  "name": "LARANGAN LOR",
+  "postalCode": "56353"
  },
  {
   "id": 3307120015,
   "districtId": 3307120,
-  "name": "MLANDI"
+  "districtName": "GARUNG",
+  "name": "MLANDI",
+  "postalCode": "56353"
  }
 ]

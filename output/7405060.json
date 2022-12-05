@@ -2,96 +2,134 @@
  {
   "id": 7405060001,
   "districtId": 7405060,
-  "name": "LAONTI"
+  "districtName": "LAONTI",
+  "name": "LAONTI",
+  "postalCode": "93892"
  },
  {
   "id": 7405060002,
   "districtId": 7405060,
-  "name": "PUUNDIRANGGA"
+  "districtName": "LAONTI",
+  "name": "PUUNDIRANGGA",
+  "postalCode": ""
  },
  {
   "id": 7405060003,
   "districtId": 7405060,
-  "name": "KONDONO"
+  "districtName": "LAONTI",
+  "name": "KONDONO",
+  "postalCode": "93892"
  },
  {
   "id": 7405060004,
   "districtId": 7405060,
-  "name": "LAWISATA"
+  "districtName": "LAONTI",
+  "name": "LAWISATA",
+  "postalCode": "93892"
  },
  {
   "id": 7405060005,
   "districtId": 7405060,
-  "name": "BATU JAYA / WATUNDOLU"
+  "districtName": "LAONTI",
+  "name": "BATU JAYA / WATUNDOLU",
+  "postalCode": ""
  },
  {
   "id": 7405060006,
   "districtId": 7405060,
-  "name": "NAMU"
+  "districtName": "LAONTI",
+  "name": "NAMU",
+  "postalCode": "93892"
  },
  {
   "id": 7405060007,
   "districtId": 7405060,
-  "name": "MALARINGGI"
+  "districtName": "LAONTI",
+  "name": "MALARINGGI",
+  "postalCode": "93892"
  },
  {
   "id": 7405060009,
   "districtId": 7405060,
-  "name": "SANGI-SANGI"
+  "districtName": "LAONTI",
+  "name": "SANGI-SANGI",
+  "postalCode": "93892"
  },
  {
   "id": 7405060010,
   "districtId": 7405060,
-  "name": "ULU SAWA"
+  "districtName": "LAONTI",
+  "name": "ULU SAWA",
+  "postalCode": "93892"
  },
  {
   "id": 7405060011,
   "districtId": 7405060,
-  "name": "CEMPEDAK"
+  "districtName": "LAONTI",
+  "name": "CEMPEDAK",
+  "postalCode": "34516"
  },
  {
   "id": 7405060012,
   "districtId": 7405060,
-  "name": "WORU WORU"
+  "districtName": "LAONTI",
+  "name": "WORU WORU",
+  "postalCode": "93892"
  },
  {
   "id": 7405060013,
   "districtId": 7405060,
-  "name": "TAMBEANGA"
+  "districtName": "LAONTI",
+  "name": "TAMBEANGA",
+  "postalCode": "93892"
  },
  {
   "id": 7405060014,
   "districtId": 7405060,
-  "name": "LABOTAONE"
+  "districtName": "LAONTI",
+  "name": "LABOTAONE",
+  "postalCode": "93892"
  },
  {
   "id": 7405060015,
   "districtId": 7405060,
-  "name": "LABUAN BEROPA"
+  "districtName": "LAONTI",
+  "name": "LABUAN BEROPA",
+  "postalCode": "93892"
  },
  {
   "id": 7405060016,
   "districtId": 7405060,
-  "name": "PEO INDAH"
+  "districtName": "LAONTI",
+  "name": "PEO INDAH",
+  "postalCode": "93892"
  },
  {
   "id": 7405060017,
   "districtId": 7405060,
-  "name": "TAMBOLOSU"
+  "districtName": "LAONTI",
+  "name": "TAMBOLOSU",
+  "postalCode": "93892"
  },
  {
   "id": 7405060018,
   "districtId": 7405060,
-  "name": "WANDAEHA"
+  "districtName": "LAONTI",
+  "name": "WANDAEHA",
+  "postalCode": "93892"
  },
  {
   "id": 7405060019,
   "districtId": 7405060,
-  "name": "RUMBI RUMBIA"
+  "districtName": "LAONTI",
+  "name": "RUMBI RUMBIA",
+  "postalCode": ""
  },
  {
   "id": 7405060020,
   "districtId": 7405060,
-  "name": "MATABONDU"
+  "districtName": "LAONTI",
+  "name": "MATABONDU",
+  "postalCode": "93875"
  }
 ]

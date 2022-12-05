@@ -2,41 +2,57 @@
  {
   "id": 3314170002,
   "districtId": 3314170,
-  "name": "JATI TENGAH"
+  "districtName": "SUKODONO",
+  "name": "JATI TENGAH",
+  "postalCode": "57263"
  },
  {
   "id": 3314170003,
   "districtId": 3314170,
-  "name": "BENDO"
+  "districtName": "SUKODONO",
+  "name": "BENDO",
+  "postalCode": "57378"
  },
  {
   "id": 3314170004,
   "districtId": 3314170,
-  "name": "JUWOK"
+  "districtName": "SUKODONO",
+  "name": "JUWOK",
+  "postalCode": "57263"
  },
  {
   "id": 3314170005,
   "districtId": 3314170,
-  "name": "PANTIREJO"
+  "districtName": "SUKODONO",
+  "name": "PANTIREJO",
+  "postalCode": "59173"
  },
  {
   "id": 3314170006,
   "districtId": 3314170,
-  "name": "MAJENANG"
+  "districtName": "SUKODONO",
+  "name": "MAJENANG",
+  "postalCode": "57263"
  },
  {
   "id": 3314170007,
   "districtId": 3314170,
-  "name": "KARANG ANOM"
+  "districtName": "SUKODONO",
+  "name": "KARANG ANOM",
+  "postalCode": "34376"
  },
  {
   "id": 3314170008,
   "districtId": 3314170,
-  "name": "GEBANG"
+  "districtName": "SUKODONO",
+  "name": "GEBANG",
+  "postalCode": "35451"
  },
  {
   "id": 3314170009,
   "districtId": 3314170,
-  "name": "BALEHARJO"
+  "districtName": "SUKODONO",
+  "name": "BALEHARJO",
+  "postalCode": "57663"
  }
 ]

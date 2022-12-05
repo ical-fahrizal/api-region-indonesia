@@ -2,41 +2,57 @@
  {
   "id": 3204140001,
   "districtId": 3204140,
-  "name": "JELEKONG"
+  "districtName": "BALEENDAH",
+  "name": "JELEKONG",
+  "postalCode": "40375"
  },
  {
   "id": 3204140002,
   "districtId": 3204140,
-  "name": "MANGGAHANG"
+  "districtName": "BALEENDAH",
+  "name": "MANGGAHANG",
+  "postalCode": "40375"
  },
  {
   "id": 3204140003,
   "districtId": 3204140,
-  "name": "BALEENDAH"
+  "districtName": "BALEENDAH",
+  "name": "BALEENDAH",
+  "postalCode": "40375"
  },
  {
   "id": 3204140004,
   "districtId": 3204140,
-  "name": "ANDIR"
+  "districtName": "BALEENDAH",
+  "name": "ANDIR",
+  "postalCode": "40375"
  },
  {
   "id": 3204140005,
   "districtId": 3204140,
-  "name": "MALAKASARI"
+  "districtName": "BALEENDAH",
+  "name": "MALAKASARI",
+  "postalCode": "40258"
  },
  {
   "id": 3204140006,
   "districtId": 3204140,
-  "name": "BOJONGMALAKA"
+  "districtName": "BALEENDAH",
+  "name": "BOJONGMALAKA",
+  "postalCode": "40375"
  },
  {
   "id": 3204140007,
   "districtId": 3204140,
-  "name": "RANCAMANYAR"
+  "districtName": "BALEENDAH",
+  "name": "RANCAMANYAR",
+  "postalCode": "40375"
  },
  {
   "id": 3204140008,
   "districtId": 3204140,
-  "name": "WARGAMEKAR"
+  "districtName": "BALEENDAH",
+  "name": "WARGAMEKAR",
+  "postalCode": "40375"
  }
 ]

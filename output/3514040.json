@@ -2,41 +2,57 @@
  {
   "id": 3514040001,
   "districtId": 3514040,
-  "name": "KANDANGAN"
+  "districtName": "TOSARI",
+  "name": "KANDANGAN",
+  "postalCode": "21186"
  },
  {
   "id": 3514040002,
   "districtId": 3514040,
-  "name": "MOROREJO"
+  "districtName": "TOSARI",
+  "name": "MOROREJO",
+  "postalCode": "51372"
  },
  {
   "id": 3514040003,
   "districtId": 3514040,
-  "name": "NGADIWONO"
+  "districtName": "TOSARI",
+  "name": "NGADIWONO",
+  "postalCode": "67177"
  },
  {
   "id": 3514040004,
   "districtId": 3514040,
-  "name": "PODOKOYO"
+  "districtName": "TOSARI",
+  "name": "PODOKOYO",
+  "postalCode": "67177"
  },
  {
   "id": 3514040005,
   "districtId": 3514040,
-  "name": "WONOKITRI"
+  "districtName": "TOSARI",
+  "name": "WONOKITRI",
+  "postalCode": "67177"
  },
  {
   "id": 3514040006,
   "districtId": 3514040,
-  "name": "TOSARI"
+  "districtName": "TOSARI",
+  "name": "TOSARI",
+  "postalCode": "51371"
  },
  {
   "id": 3514040007,
   "districtId": 3514040,
-  "name": "BALEDONO"
+  "districtName": "TOSARI",
+  "name": "BALEDONO",
+  "postalCode": "54118"
  },
  {
   "id": 3514040008,
   "districtId": 3514040,
-  "name": "SEDAENG"
+  "districtName": "TOSARI",
+  "name": "SEDAENG",
+  "postalCode": "67177"
  }
 ]

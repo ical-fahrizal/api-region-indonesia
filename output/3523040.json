@@ -2,61 +2,85 @@
  {
   "id": 3523040001,
   "districtId": 3523040,
-  "name": "BINANGUN"
+  "districtName": "SINGGAHAN",
+  "name": "BINANGUN",
+  "postalCode": "46316"
  },
  {
   "id": 3523040002,
   "districtId": 3523040,
-  "name": "SARINGEMBAT"
+  "districtName": "SINGGAHAN",
+  "name": "SARINGEMBAT",
+  "postalCode": "62361"
  },
  {
   "id": 3523040003,
   "districtId": 3523040,
-  "name": "KEDUNGJAMBE"
+  "districtName": "SINGGAHAN",
+  "name": "KEDUNGJAMBE",
+  "postalCode": "62361"
  },
  {
   "id": 3523040004,
   "districtId": 3523040,
-  "name": "TUNGGULREJO"
+  "districtName": "SINGGAHAN",
+  "name": "TUNGGULREJO",
+  "postalCode": "58183"
  },
  {
   "id": 3523040005,
   "districtId": 3523040,
-  "name": "TANJUNGREJO"
+  "districtName": "SINGGAHAN",
+  "name": "TANJUNGREJO",
+  "postalCode": "54224"
  },
  {
   "id": 3523040006,
   "districtId": 3523040,
-  "name": "LAJO KIDUL"
+  "districtName": "SINGGAHAN",
+  "name": "LAJO KIDUL",
+  "postalCode": "62361"
  },
  {
   "id": 3523040007,
   "districtId": 3523040,
-  "name": "TANGGIR"
+  "districtName": "SINGGAHAN",
+  "name": "TANGGIR",
+  "postalCode": "62153"
  },
  {
   "id": 3523040008,
   "districtId": 3523040,
-  "name": "MERGOSARI"
+  "districtName": "SINGGAHAN",
+  "name": "MERGOSARI",
+  "postalCode": "56362"
  },
  {
   "id": 3523040009,
   "districtId": 3523040,
-  "name": "MULYOREJO"
+  "districtName": "SINGGAHAN",
+  "name": "MULYOREJO",
+  "postalCode": "58315"
  },
  {
   "id": 3523040010,
   "districtId": 3523040,
-  "name": "TINGKIS"
+  "districtName": "SINGGAHAN",
+  "name": "TINGKIS",
+  "postalCode": "62361"
  },
  {
   "id": 3523040011,
   "districtId": 3523040,
-  "name": "MULYOAGUNG"
+  "districtName": "SINGGAHAN",
+  "name": "MULYOAGUNG",
+  "postalCode": "62182"
  },
  {
   "id": 3523040012,
   "districtId": 3523040,
-  "name": "LAJO LOR"
+  "districtName": "SINGGAHAN",
+  "name": "LAJO LOR",
+  "postalCode": "62361"
  }
 ]

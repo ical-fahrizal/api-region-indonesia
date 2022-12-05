@@ -2,46 +2,64 @@
  {
   "id": 3302110001,
   "districtId": 3302110,
-  "name": "BINANGUN"
+  "districtName": "BANYUMAS",
+  "name": "BINANGUN",
+  "postalCode": "46316"
  },
  {
   "id": 3302110002,
   "districtId": 3302110,
-  "name": "PASINGGANGAN"
+  "districtName": "BANYUMAS",
+  "name": "PASINGGANGAN",
+  "postalCode": "53192"
  },
  {
   "id": 3302110004,
   "districtId": 3302110,
-  "name": "KARANGRAU"
+  "districtName": "BANYUMAS",
+  "name": "KARANGRAU",
+  "postalCode": "53192"
  },
  {
   "id": 3302110005,
   "districtId": 3302110,
-  "name": "KEJAWAR"
+  "districtName": "BANYUMAS",
+  "name": "KEJAWAR",
+  "postalCode": "53192"
  },
  {
   "id": 3302110006,
   "districtId": 3302110,
-  "name": "DANARAJA"
+  "districtName": "BANYUMAS",
+  "name": "DANARAJA",
+  "postalCode": "53192"
  },
  {
   "id": 3302110008,
   "districtId": 3302110,
-  "name": "SUDAGARAN"
+  "districtName": "BANYUMAS",
+  "name": "SUDAGARAN",
+  "postalCode": "53192"
  },
  {
   "id": 3302110010,
   "districtId": 3302110,
-  "name": "KALISUBE"
+  "districtName": "BANYUMAS",
+  "name": "KALISUBE",
+  "postalCode": "53192"
  },
  {
   "id": 3302110011,
   "districtId": 3302110,
-  "name": "DAWUHAN"
+  "districtName": "BANYUMAS",
+  "name": "DAWUHAN",
+  "postalCode": "53192"
  },
  {
   "id": 3302110012,
   "districtId": 3302110,
-  "name": "PAPRINGAN"
+  "districtName": "BANYUMAS",
+  "name": "PAPRINGAN",
+  "postalCode": "53192"
  }
 ]

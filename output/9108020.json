@@ -2,26 +2,36 @@
  {
   "id": 9108020001,
   "districtId": 9108020,
-  "name": "WAIGAMA"
+  "districtName": "MISOOL",
+  "name": "WAIGAMA",
+  "postalCode": ""
  },
  {
   "id": 9108020002,
   "districtId": 9108020,
-  "name": "ADUWEI"
+  "districtName": "MISOOL",
+  "name": "ADUWEI",
+  "postalCode": ""
  },
  {
   "id": 9108020013,
   "districtId": 9108020,
-  "name": "ATKARI"
+  "districtName": "MISOOL",
+  "name": "ATKARI",
+  "postalCode": ""
  },
  {
   "id": 9108020014,
   "districtId": 9108020,
-  "name": "SOLAL"
+  "districtName": "MISOOL",
+  "name": "SOLAL",
+  "postalCode": ""
  },
  {
   "id": 9108020015,
   "districtId": 9108020,
-  "name": "SALAFEN"
+  "districtName": "MISOOL",
+  "name": "SALAFEN",
+  "postalCode": ""
  }
 ]

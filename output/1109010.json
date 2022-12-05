@@ -2,31 +2,43 @@
  {
   "id": 1109010003,
   "districtId": 1109010,
-  "name": "KEUNE"
+  "districtName": "GEUMPANG",
+  "name": "KEUNE",
+  "postalCode": "24167"
  },
  {
   "id": 1109010004,
   "districtId": 1109010,
-  "name": "BANGKEH"
+  "districtName": "GEUMPANG",
+  "name": "BANGKEH",
+  "postalCode": "24167"
  },
  {
   "id": 1109010005,
   "districtId": 1109010,
-  "name": "PULO LOIH"
+  "districtName": "GEUMPANG",
+  "name": "PULO LOIH",
+  "postalCode": ""
  },
  {
   "id": 1109010006,
   "districtId": 1109010,
-  "name": "PUCOK"
+  "districtName": "GEUMPANG",
+  "name": "PUCOK",
+  "postalCode": "24167"
  },
  {
   "id": 1109010007,
   "districtId": 1109010,
-  "name": "LEUPU"
+  "districtName": "GEUMPANG",
+  "name": "LEUPU",
+  "postalCode": "24167"
  },
  {
   "id": 1109010008,
   "districtId": 1109010,
-  "name": "UPT V GEUMPANG"
+  "districtName": "GEUMPANG",
+  "name": "UPT V GEUMPANG",
+  "postalCode": ""
  }
 ]

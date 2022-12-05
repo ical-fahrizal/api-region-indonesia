@@ -2,56 +2,78 @@
  {
   "id": 1214082001,
   "districtId": 1214082,
-  "name": "SUKA MAJU"
+  "districtName": "OOU",
+  "name": "SUKA MAJU",
+  "postalCode": "24673"
  },
  {
   "id": 1214082002,
   "districtId": 1214082,
-  "name": "HILIMBOWO"
+  "districtName": "OOU",
+  "name": "HILIMBOWO",
+  "postalCode": "22866"
  },
  {
   "id": 1214082003,
   "districtId": 1214082,
-  "name": "LOLOMAYA"
+  "districtName": "OOU",
+  "name": "LOLOMAYA",
+  "postalCode": "22864"
  },
  {
   "id": 1214082004,
   "districtId": 1214082,
-  "name": "SIMANDAOLO"
+  "districtName": "OOU",
+  "name": "SIMANDAOLO",
+  "postalCode": ""
  },
  {
   "id": 1214082005,
   "districtId": 1214082,
-  "name": "SIMANDRAOLO OOU"
+  "districtName": "OOU",
+  "name": "SIMANDRAOLO OOU",
+  "postalCode": ""
  },
  {
   "id": 1214082006,
   "districtId": 1214082,
-  "name": "HILINAMAZIHONO"
+  "districtName": "OOU",
+  "name": "HILINAMAZIHONO",
+  "postalCode": ""
  },
  {
   "id": 1214082009,
   "districtId": 1214082,
-  "name": "BAWOSALOO BAWOLUO"
+  "districtName": "OOU",
+  "name": "BAWOSALOO BAWOLUO",
+  "postalCode": ""
  },
  {
   "id": 1214082010,
   "districtId": 1214082,
-  "name": "HILIMBUASI"
+  "districtName": "OOU",
+  "name": "HILIMBUASI",
+  "postalCode": "22875"
  },
  {
   "id": 1214082011,
   "districtId": 1214082,
-  "name": "HILIORUDUA"
+  "districtName": "OOU",
+  "name": "HILIORUDUA",
+  "postalCode": "22874"
  },
  {
   "id": 1214082012,
   "districtId": 1214082,
-  "name": "HILINAMAZIHONO MOALE"
+  "districtName": "OOU",
+  "name": "HILINAMAZIHONO MOALE",
+  "postalCode": ""
  },
  {
   "id": 1214082013,
   "districtId": 1214082,
-  "name": "BALOHILI OOU"
+  "districtName": "OOU",
+  "name": "BALOHILI OOU",
+  "postalCode": ""
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 3209211001,
   "districtId": 3209211,
-  "name": "CUPANG"
+  "districtName": "GEMPOL",
+  "name": "CUPANG",
+  "postalCode": "45161"
  },
  {
   "id": 3209211002,
   "districtId": 3209211,
-  "name": "CIKEUSAL"
+  "districtName": "GEMPOL",
+  "name": "CIKEUSAL",
+  "postalCode": "45582"
  },
  {
   "id": 3209211003,
   "districtId": 3209211,
-  "name": "WALAHAR"
+  "districtName": "GEMPOL",
+  "name": "WALAHAR",
+  "postalCode": "45161"
  },
  {
   "id": 3209211004,
   "districtId": 3209211,
-  "name": "PALIMANAN BARAT"
+  "districtName": "GEMPOL",
+  "name": "PALIMANAN BARAT",
+  "postalCode": "45161"
  },
  {
   "id": 3209211005,
   "districtId": 3209211,
-  "name": "GEMPOL"
+  "districtName": "GEMPOL",
+  "name": "GEMPOL",
+  "postalCode": "41374"
  },
  {
   "id": 3209211008,
   "districtId": 3209211,
-  "name": "WINONG"
+  "districtName": "GEMPOL",
+  "name": "WINONG",
+  "postalCode": "45161"
  }
 ]

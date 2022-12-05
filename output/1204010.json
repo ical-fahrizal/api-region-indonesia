@@ -2,51 +2,71 @@
  {
   "id": 1204010002,
   "districtId": 1204010,
-  "name": "PINANG SORI"
+  "districtName": "PINANG SORI",
+  "name": "PINANG SORI",
+  "postalCode": ""
  },
  {
   "id": 1204010003,
   "districtId": 1204010,
-  "name": "GUNUNG MARIJO"
+  "districtName": "PINANG SORI",
+  "name": "GUNUNG MARIJO",
+  "postalCode": "22654"
  },
  {
   "id": 1204010004,
   "districtId": 1204010,
-  "name": "SIHAPORAS"
+  "districtName": "PINANG SORI",
+  "name": "SIHAPORAS",
+  "postalCode": "21186"
  },
  {
   "id": 1204010005,
   "districtId": 1204010,
-  "name": "SITONONG BANGUN"
+  "districtName": "PINANG SORI",
+  "name": "SITONONG BANGUN",
+  "postalCode": "22654"
  },
  {
   "id": 1204010006,
   "districtId": 1204010,
-  "name": "TOGA BASIR"
+  "districtName": "PINANG SORI",
+  "name": "TOGA BASIR",
+  "postalCode": "22654"
  },
  {
   "id": 1204010007,
   "districtId": 1204010,
-  "name": "PINANG BARU"
+  "districtName": "PINANG SORI",
+  "name": "PINANG BARU",
+  "postalCode": "22654"
  },
  {
   "id": 1204010008,
   "districtId": 1204010,
-  "name": "PARJALIHOTAN BARU"
+  "districtName": "PINANG SORI",
+  "name": "PARJALIHOTAN BARU",
+  "postalCode": "22654"
  },
  {
   "id": 1204010009,
   "districtId": 1204010,
-  "name": "DANAU PANDAN"
+  "districtName": "PINANG SORI",
+  "name": "DANAU PANDAN",
+  "postalCode": ""
  },
  {
   "id": 1204010010,
   "districtId": 1204010,
-  "name": "SORI NAULI"
+  "districtName": "PINANG SORI",
+  "name": "SORI NAULI",
+  "postalCode": ""
  },
  {
   "id": 1204010011,
   "districtId": 1204010,
-  "name": "ALBION PRANCIS"
+  "districtName": "PINANG SORI",
+  "name": "ALBION PRANCIS",
+  "postalCode": ""
  }
 ]

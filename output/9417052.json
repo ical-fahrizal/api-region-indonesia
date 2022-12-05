@@ -2,16 +2,22 @@
  {
   "id": 9417052001,
   "districtId": 9417052,
-  "name": "KUBIBKOP"
+  "districtName": "OKSEBANG",
+  "name": "KUBIBKOP",
+  "postalCode": ""
  },
  {
   "id": 9417052002,
   "districtId": 9417052,
-  "name": "OKANO"
+  "districtName": "OKSEBANG",
+  "name": "OKANO",
+  "postalCode": "99574"
  },
  {
   "id": 9417052004,
   "districtId": 9417052,
-  "name": "MANGABIT"
+  "districtName": "OKSEBANG",
+  "name": "MANGABIT",
+  "postalCode": ""
  }
 ]

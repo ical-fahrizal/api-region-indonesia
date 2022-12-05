@@ -2,26 +2,36 @@
  {
   "id": 9107172001,
   "districtId": 9107172,
-  "name": "KLASUGLEY"
+  "districtName": "SORONG",
+  "name": "KLASUGLEY",
+  "postalCode": ""
  },
  {
   "id": 9107172002,
   "districtId": 9107172,
-  "name": "KLAUBLE"
+  "districtName": "SORONG",
+  "name": "KLAUBLE",
+  "postalCode": ""
  },
  {
   "id": 9107172003,
   "districtId": 9107172,
-  "name": "KLABLIM"
+  "districtName": "SORONG",
+  "name": "KLABLIM",
+  "postalCode": "98414"
  },
  {
   "id": 9107172004,
   "districtId": 9107172,
-  "name": "KLAWUMUK"
+  "districtName": "SORONG",
+  "name": "KLAWUMUK",
+  "postalCode": ""
  },
  {
   "id": 9107172006,
   "districtId": 9107172,
-  "name": "MAIBO"
+  "districtName": "SORONG",
+  "name": "MAIBO",
+  "postalCode": "98457"
  }
 ]

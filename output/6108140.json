@@ -2,86 +2,120 @@
  {
   "id": 6108140001,
   "districtId": 6108140,
-  "name": "BENUIS"
+  "districtName": "SELIMBAU",
+  "name": "BENUIS",
+  "postalCode": "78765"
  },
  {
   "id": 6108140002,
   "districtId": 6108140,
-  "name": "GERAYAU"
+  "districtName": "SELIMBAU",
+  "name": "GERAYAU",
+  "postalCode": "78765"
  },
  {
   "id": 6108140003,
   "districtId": 6108140,
-  "name": "ENGKERENGAS"
+  "districtName": "SELIMBAU",
+  "name": "ENGKERENGAS",
+  "postalCode": "78765"
  },
  {
   "id": 6108140004,
   "districtId": 6108140,
-  "name": "PIASAK"
+  "districtName": "SELIMBAU",
+  "name": "PIASAK",
+  "postalCode": ""
  },
  {
   "id": 6108140005,
   "districtId": 6108140,
-  "name": "NIBUNG"
+  "districtName": "SELIMBAU",
+  "name": "NIBUNG",
+  "postalCode": "34388"
  },
  {
   "id": 6108140006,
   "districtId": 6108140,
-  "name": "DALAM"
+  "districtName": "SELIMBAU",
+  "name": "DALAM",
+  "postalCode": "24476"
  },
  {
   "id": 6108140007,
   "districtId": 6108140,
-  "name": "GUDANG HULU"
+  "districtName": "SELIMBAU",
+  "name": "GUDANG HULU",
+  "postalCode": "78765"
  },
  {
   "id": 6108140008,
   "districtId": 6108140,
-  "name": "GUDANG HILIR"
+  "districtName": "SELIMBAU",
+  "name": "GUDANG HILIR",
+  "postalCode": "78765"
  },
  {
   "id": 6108140009,
   "districtId": 6108140,
-  "name": "TITIAN KUALA"
+  "districtName": "SELIMBAU",
+  "name": "TITIAN KUALA",
+  "postalCode": "78765"
  },
  {
   "id": 6108140010,
   "districtId": 6108140,
-  "name": "SEKUBAH"
+  "districtName": "SELIMBAU",
+  "name": "SEKUBAH",
+  "postalCode": "78765"
  },
  {
   "id": 6108140011,
   "districtId": 6108140,
-  "name": "MEKAR PERMAI"
+  "districtName": "SELIMBAU",
+  "name": "MEKAR PERMAI",
+  "postalCode": ""
  },
  {
   "id": 6108140012,
   "districtId": 6108140,
-  "name": "SEKULAT"
+  "districtName": "SELIMBAU",
+  "name": "SEKULAT",
+  "postalCode": "78765"
  },
  {
   "id": 6108140013,
   "districtId": 6108140,
-  "name": "NANGA LEBOYAN"
+  "districtName": "SELIMBAU",
+  "name": "NANGA LEBOYAN",
+  "postalCode": "78765"
  },
  {
   "id": 6108140014,
   "districtId": 6108140,
-  "name": "VEGA"
+  "districtName": "SELIMBAU",
+  "name": "VEGA",
+  "postalCode": "78765"
  },
  {
   "id": 6108140015,
   "districtId": 6108140,
-  "name": "MAWAN"
+  "districtName": "SELIMBAU",
+  "name": "MAWAN",
+  "postalCode": "78759"
  },
  {
   "id": 6108140016,
   "districtId": 6108140,
-  "name": "SEMALAH"
+  "districtName": "SELIMBAU",
+  "name": "SEMALAH",
+  "postalCode": "78765"
  },
  {
   "id": 6108140017,
   "districtId": 6108140,
-  "name": "TEMPURAU"
+  "districtName": "SELIMBAU",
+  "name": "TEMPURAU",
+  "postalCode": "78765"
  }
 ]

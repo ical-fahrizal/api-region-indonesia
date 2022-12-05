@@ -2,76 +2,106 @@
  {
   "id": 3302060001,
   "districtId": 3302060,
-  "name": "GRUJUGAN"
+  "districtName": "KEMRANJEN",
+  "name": "GRUJUGAN",
+  "postalCode": "53194"
  },
  {
   "id": 3302060002,
   "districtId": 3302060,
-  "name": "SIRAU"
+  "districtName": "KEMRANJEN",
+  "name": "SIRAU",
+  "postalCode": "53355"
  },
  {
   "id": 3302060003,
   "districtId": 3302060,
-  "name": "SIBALUNG"
+  "districtName": "KEMRANJEN",
+  "name": "SIBALUNG",
+  "postalCode": "53194"
  },
  {
   "id": 3302060004,
   "districtId": 3302060,
-  "name": "SIBRAMA"
+  "districtName": "KEMRANJEN",
+  "name": "SIBRAMA",
+  "postalCode": "53194"
  },
  {
   "id": 3302060005,
   "districtId": 3302060,
-  "name": "KEDUNGPRING"
+  "districtName": "KEMRANJEN",
+  "name": "KEDUNGPRING",
+  "postalCode": "53194"
  },
  {
   "id": 3302060006,
   "districtId": 3302060,
-  "name": "KECILA"
+  "districtName": "KEMRANJEN",
+  "name": "KECILA",
+  "postalCode": "53194"
  },
  {
   "id": 3302060007,
   "districtId": 3302060,
-  "name": "NUSAMANGIR"
+  "districtName": "KEMRANJEN",
+  "name": "NUSAMANGIR",
+  "postalCode": "53194"
  },
  {
   "id": 3302060008,
   "districtId": 3302060,
-  "name": "KARANGJATI"
+  "districtName": "KEMRANJEN",
+  "name": "KARANGJATI",
+  "postalCode": "50552"
  },
  {
   "id": 3302060009,
   "districtId": 3302060,
-  "name": "KEBARONGAN"
+  "districtName": "KEMRANJEN",
+  "name": "KEBARONGAN",
+  "postalCode": "53194"
  },
  {
   "id": 3302060010,
   "districtId": 3302060,
-  "name": "SIDAMULYA"
+  "districtName": "KEMRANJEN",
+  "name": "SIDAMULYA",
+  "postalCode": "45181"
  },
  {
   "id": 3302060011,
   "districtId": 3302060,
-  "name": "PAGERALANG"
+  "districtName": "KEMRANJEN",
+  "name": "PAGERALANG",
+  "postalCode": "53194"
  },
  {
   "id": 3302060012,
   "districtId": 3302060,
-  "name": "ALASMALANG"
+  "districtName": "KEMRANJEN",
+  "name": "ALASMALANG",
+  "postalCode": "53194"
  },
  {
   "id": 3302060013,
   "districtId": 3302060,
-  "name": "PETARANGAN"
+  "districtName": "KEMRANJEN",
+  "name": "PETARANGAN",
+  "postalCode": "53194"
  },
  {
   "id": 3302060014,
   "districtId": 3302060,
-  "name": "KARANGGINTUNG"
+  "districtName": "KEMRANJEN",
+  "name": "KARANGGINTUNG",
+  "postalCode": "53254"
  },
  {
   "id": 3302060015,
   "districtId": 3302060,
-  "name": "KARANGSALAM"
+  "districtName": "KEMRANJEN",
+  "name": "KARANGSALAM",
+  "postalCode": "53194"
  }
 ]

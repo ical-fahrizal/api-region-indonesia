@@ -2,61 +2,85 @@
  {
   "id": 1117051001,
   "districtId": 1117051,
-  "name": "BENER LUKUP II"
+  "districtName": "BENER KELIPAH",
+  "name": "BENER LUKUP II",
+  "postalCode": "24582"
  },
  {
   "id": 1117051002,
   "districtId": 1117051,
-  "name": "BENER KELIPAH UTARA"
+  "districtName": "BENER KELIPAH",
+  "name": "BENER KELIPAH UTARA",
+  "postalCode": "24582"
  },
  {
   "id": 1117051003,
   "districtId": 1117051,
-  "name": "BENER KELIPAH SELATAN"
+  "districtName": "BENER KELIPAH",
+  "name": "BENER KELIPAH SELATAN",
+  "postalCode": "24582"
  },
  {
   "id": 1117051004,
   "districtId": 1117051,
-  "name": "BINTANG MUSARA"
+  "districtName": "BENER KELIPAH",
+  "name": "BINTANG MUSARA",
+  "postalCode": "24582"
  },
  {
   "id": 1117051005,
   "districtId": 1117051,
-  "name": "BANDAR JAYA"
+  "districtName": "BENER KELIPAH",
+  "name": "BANDAR JAYA",
+  "postalCode": "28771"
  },
  {
   "id": 1117051006,
   "districtId": 1117051,
-  "name": "NOSAR TAWAR JAYA"
+  "districtName": "BENER KELIPAH",
+  "name": "NOSAR TAWAR JAYA",
+  "postalCode": "24582"
  },
  {
   "id": 1117051007,
   "districtId": 1117051,
-  "name": "JONGOK MELUEM"
+  "districtName": "BENER KELIPAH",
+  "name": "JONGOK MELUEM",
+  "postalCode": "24582"
  },
  {
   "id": 1117051008,
   "districtId": 1117051,
-  "name": "SUKU BENER"
+  "districtName": "BENER KELIPAH",
+  "name": "SUKU BENER",
+  "postalCode": "24582"
  },
  {
   "id": 1117051009,
   "districtId": 1117051,
-  "name": "LOT BENER KELIPAH"
+  "districtName": "BENER KELIPAH",
+  "name": "LOT BENER KELIPAH",
+  "postalCode": "24582"
  },
  {
   "id": 1117051010,
   "districtId": 1117051,
-  "name": "KALA TENANG"
+  "districtName": "BENER KELIPAH",
+  "name": "KALA TENANG",
+  "postalCode": "24582"
  },
  {
   "id": 1117051011,
   "districtId": 1117051,
-  "name": "GUNUNG MUSARA"
+  "districtName": "BENER KELIPAH",
+  "name": "GUNUNG MUSARA",
+  "postalCode": "24582"
  },
  {
   "id": 1117051012,
   "districtId": 1117051,
-  "name": "NOSAR BARU"
+  "districtName": "BENER KELIPAH",
+  "name": "NOSAR BARU",
+  "postalCode": "24582"
  }
 ]

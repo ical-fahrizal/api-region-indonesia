@@ -2,36 +2,50 @@
  {
   "id": 3204121001,
   "districtId": 3204121,
-  "name": "PANYADAP"
+  "districtName": "SOLOKAN JERUK",
+  "name": "PANYADAP",
+  "postalCode": "40376"
  },
  {
   "id": 3204121002,
   "districtId": 3204121,
-  "name": "PADAMUKTI"
+  "districtName": "SOLOKAN JERUK",
+  "name": "PADAMUKTI",
+  "postalCode": "44161"
  },
  {
   "id": 3204121003,
   "districtId": 3204121,
-  "name": "CIBODAS"
+  "districtName": "SOLOKAN JERUK",
+  "name": "CIBODAS",
+  "postalCode": "43353"
  },
  {
   "id": 3204121004,
   "districtId": 3204121,
-  "name": "LANGENSARI"
+  "districtName": "SOLOKAN JERUK",
+  "name": "LANGENSARI",
+  "postalCode": "41259"
  },
  {
   "id": 3204121005,
   "districtId": 3204121,
-  "name": "SOLOKANJERUK"
+  "districtName": "SOLOKAN JERUK",
+  "name": "SOLOKANJERUK",
+  "postalCode": ""
  },
  {
   "id": 3204121006,
   "districtId": 3204121,
-  "name": "RANCAKASUMBA"
+  "districtName": "SOLOKAN JERUK",
+  "name": "RANCAKASUMBA",
+  "postalCode": "40376"
  },
  {
   "id": 3204121007,
   "districtId": 3204121,
-  "name": "BOJONGEMAS"
+  "districtName": "SOLOKAN JERUK",
+  "name": "BOJONGEMAS",
+  "postalCode": "40376"
  }
 ]

@@ -2,26 +2,36 @@
  {
   "id": 3273050001,
   "districtId": 3273050,
-  "name": "KARASAK"
+  "districtName": "ASTANAANYAR",
+  "name": "KARASAK",
+  "postalCode": "40243"
  },
  {
   "id": 3273050002,
   "districtId": 3273050,
-  "name": "PELINDUNG HEWAN"
+  "districtName": "ASTANAANYAR",
+  "name": "PELINDUNG HEWAN",
+  "postalCode": "40243"
  },
  {
   "id": 3273050004,
   "districtId": 3273050,
-  "name": "PANJUNAN"
+  "districtName": "ASTANAANYAR",
+  "name": "PANJUNAN",
+  "postalCode": "40242"
  },
  {
   "id": 3273050005,
   "districtId": 3273050,
-  "name": "CIBADAK"
+  "districtName": "ASTANAANYAR",
+  "name": "CIBADAK",
+  "postalCode": "40241"
  },
  {
   "id": 3273050006,
   "districtId": 3273050,
-  "name": "KARANG ANYAR"
+  "districtName": "ASTANAANYAR",
+  "name": "KARANG ANYAR",
+  "postalCode": "24415"
  }
 ]

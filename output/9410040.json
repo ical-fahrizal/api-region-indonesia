@@ -2,11 +2,15 @@
  {
   "id": 9410040003,
   "districtId": 9410040,
-  "name": "UGIDIMI"
+  "districtName": "BIBIDA",
+  "name": "UGIDIMI",
+  "postalCode": ""
  },
  {
   "id": 9410040004,
   "districtId": 9410040,
-  "name": "BIBIDA"
+  "districtName": "BIBIDA",
+  "name": "BIBIDA",
+  "postalCode": "98782"
  }
 ]

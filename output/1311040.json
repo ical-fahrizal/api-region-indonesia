@@ -2,31 +2,43 @@
  {
   "id": 1311040003,
   "districtId": 1311040,
-  "name": "IV KOTO PULAU PUNJUNG"
+  "districtName": "PULAU PUNJUNG",
+  "name": "IV KOTO PULAU PUNJUNG",
+  "postalCode": ""
  },
  {
   "id": 1311040004,
   "districtId": 1311040,
-  "name": "SUNGAI DAREH"
+  "districtName": "PULAU PUNJUNG",
+  "name": "SUNGAI DAREH",
+  "postalCode": "27573"
  },
  {
   "id": 1311040005,
   "districtId": 1311040,
-  "name": "TEBING TINGGI"
+  "districtName": "PULAU PUNJUNG",
+  "name": "TEBING TINGGI",
+  "postalCode": "24477"
  },
  {
   "id": 1311040006,
   "districtId": 1311040,
-  "name": "SUNGAI KAMBUT"
+  "districtName": "PULAU PUNJUNG",
+  "name": "SUNGAI KAMBUT",
+  "postalCode": "27573"
  },
  {
   "id": 1311040007,
   "districtId": 1311040,
-  "name": "GUNUNG SELASIH"
+  "districtName": "PULAU PUNJUNG",
+  "name": "GUNUNG SELASIH",
+  "postalCode": "27573"
  },
  {
   "id": 1311040008,
   "districtId": 1311040,
-  "name": "SIKABAU"
+  "districtName": "PULAU PUNJUNG",
+  "name": "SIKABAU",
+  "postalCode": "27573"
  }
 ]

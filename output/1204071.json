@@ -2,46 +2,64 @@
  {
   "id": 1204071001,
   "districtId": 1204071,
-  "name": "BARAMBANG"
+  "districtName": "SOSOR GADONG",
+  "name": "BARAMBANG",
+  "postalCode": "22564"
  },
  {
   "id": 1204071002,
   "districtId": 1204071,
-  "name": "SOSOR GADONG"
+  "districtName": "SOSOR GADONG",
+  "name": "SOSOR GADONG",
+  "postalCode": "22564"
  },
  {
   "id": 1204071003,
   "districtId": 1204071,
-  "name": "SIANTAR CA"
+  "districtName": "SOSOR GADONG",
+  "name": "SIANTAR CA",
+  "postalCode": "22564"
  },
  {
   "id": 1204071004,
   "districtId": 1204071,
-  "name": "MUARA BOLAK"
+  "districtName": "SOSOR GADONG",
+  "name": "MUARA BOLAK",
+  "postalCode": "22564"
  },
  {
   "id": 1204071005,
   "districtId": 1204071,
-  "name": "SIANTAR DOLOK"
+  "districtName": "SOSOR GADONG",
+  "name": "SIANTAR DOLOK",
+  "postalCode": "22564"
  },
  {
   "id": 1204071006,
   "districtId": 1204071,
-  "name": "BARINGIN"
+  "districtName": "SOSOR GADONG",
+  "name": "BARINGIN",
+  "postalCode": "22456"
  },
  {
   "id": 1204071007,
   "districtId": 1204071,
-  "name": "HUTA TOMBAK"
+  "districtName": "SOSOR GADONG",
+  "name": "HUTA TOMBAK",
+  "postalCode": "22564"
  },
  {
   "id": 1204071008,
   "districtId": 1204071,
-  "name": "SIBINTANG"
+  "districtName": "SOSOR GADONG",
+  "name": "SIBINTANG",
+  "postalCode": "23681"
  },
  {
   "id": 1204071009,
   "districtId": 1204071,
-  "name": "UNTE BOANG"
+  "districtName": "SOSOR GADONG",
+  "name": "UNTE BOANG",
+  "postalCode": "22564"
  }
 ]

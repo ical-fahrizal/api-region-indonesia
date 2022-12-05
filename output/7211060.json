@@ -2,31 +2,43 @@
  {
   "id": 7211060001,
   "districtId": 7211060,
-  "name": "BENTEAN"
+  "districtName": "BANGGAI SELATAN",
+  "name": "BENTEAN",
+  "postalCode": ""
  },
  {
   "id": 7211060002,
   "districtId": 7211060,
-  "name": "TOLOKIBIT"
+  "districtName": "BANGGAI SELATAN",
+  "name": "TOLOKIBIT",
+  "postalCode": "94891"
  },
  {
   "id": 7211060003,
   "districtId": 7211060,
-  "name": "MATANGA"
+  "districtName": "BANGGAI SELATAN",
+  "name": "MATANGA",
+  "postalCode": "94891"
  },
  {
   "id": 7211060004,
   "districtId": 7211060,
-  "name": "LABUAN KAPELAK"
+  "districtName": "BANGGAI SELATAN",
+  "name": "LABUAN KAPELAK",
+  "postalCode": "94891"
  },
  {
   "id": 7211060005,
   "districtId": 7211060,
-  "name": "MALINO"
+  "districtName": "BANGGAI SELATAN",
+  "name": "MALINO",
+  "postalCode": "22756"
  },
  {
   "id": 7211060006,
   "districtId": 7211060,
-  "name": "KELAPA LIMA"
+  "districtName": "BANGGAI SELATAN",
+  "name": "KELAPA LIMA",
+  "postalCode": "85228"
  }
 ]

@@ -2,56 +2,78 @@
  {
   "id": 1373020001,
   "districtId": 1373020,
-  "name": "LUNTO BARAT"
+  "districtName": "LEMBAH SEGAR",
+  "name": "LUNTO BARAT",
+  "postalCode": "27418"
  },
  {
   "id": 1373020002,
   "districtId": 1373020,
-  "name": "LUNTO TIMUR"
+  "districtName": "LEMBAH SEGAR",
+  "name": "LUNTO TIMUR",
+  "postalCode": "27416"
  },
  {
   "id": 1373020003,
   "districtId": 1373020,
-  "name": "PASAR KUBANG"
+  "districtName": "LEMBAH SEGAR",
+  "name": "PASAR KUBANG",
+  "postalCode": "27415"
  },
  {
   "id": 1373020004,
   "districtId": 1373020,
-  "name": "KUBANG TANGAH"
+  "districtName": "LEMBAH SEGAR",
+  "name": "KUBANG TANGAH",
+  "postalCode": "27413"
  },
  {
   "id": 1373020005,
   "districtId": 1373020,
-  "name": "KUBANG UTARA SIKABU"
+  "districtName": "LEMBAH SEGAR",
+  "name": "KUBANG UTARA SIKABU",
+  "postalCode": "27412"
  },
  {
   "id": 1373020006,
   "districtId": 1373020,
-  "name": "PASAR"
+  "districtName": "LEMBAH SEGAR",
+  "name": "PASAR",
+  "postalCode": "24161"
  },
  {
   "id": 1373020007,
   "districtId": 1373020,
-  "name": "KUBANG SIRAKUK UTARA"
+  "districtName": "LEMBAH SEGAR",
+  "name": "KUBANG SIRAKUK UTARA",
+  "postalCode": ""
  },
  {
   "id": 1373020008,
   "districtId": 1373020,
-  "name": "KUBANG SIRAKUK SELATAN"
+  "districtName": "LEMBAH SEGAR",
+  "name": "KUBANG SIRAKUK SELATAN",
+  "postalCode": ""
  },
  {
   "id": 1373020009,
   "districtId": 1373020,
-  "name": "AUR MULYO"
+  "districtName": "LEMBAH SEGAR",
+  "name": "AUR MULYO",
+  "postalCode": ""
  },
  {
   "id": 1373020010,
   "districtId": 1373020,
-  "name": "TANAH LAPANG"
+  "districtName": "LEMBAH SEGAR",
+  "name": "TANAH LAPANG",
+  "postalCode": "27411"
  },
  {
   "id": 1373020011,
   "districtId": 1373020,
-  "name": "AIR DINGIN"
+  "districtName": "LEMBAH SEGAR",
+  "name": "AIR DINGIN",
+  "postalCode": "23891"
  }
 ]

@@ -2,16 +2,22 @@
  {
   "id": 5207020002,
   "districtId": 5207020,
-  "name": "BELO"
+  "districtName": "JEREWEH",
+  "name": "BELO",
+  "postalCode": "84456"
  },
  {
   "id": 5207020004,
   "districtId": 5207020,
-  "name": "GOA"
+  "districtName": "JEREWEH",
+  "name": "GOA",
+  "postalCode": "84456"
  },
  {
   "id": 5207020006,
   "districtId": 5207020,
-  "name": "DASAN ANYAR"
+  "districtName": "JEREWEH",
+  "name": "DASAN ANYAR",
+  "postalCode": "84456"
  }
 ]

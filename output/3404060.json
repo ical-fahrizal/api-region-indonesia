@@ -2,26 +2,36 @@
  {
   "id": 3404060001,
   "districtId": 3404060,
-  "name": "TIRTOADI"
+  "districtName": "MLATI",
+  "name": "TIRTOADI",
+  "postalCode": "55287"
  },
  {
   "id": 3404060002,
   "districtId": 3404060,
-  "name": "SUMBERADI"
+  "districtName": "MLATI",
+  "name": "SUMBERADI",
+  "postalCode": "54317"
  },
  {
   "id": 3404060003,
   "districtId": 3404060,
-  "name": "TLOGOADI"
+  "districtName": "MLATI",
+  "name": "TLOGOADI",
+  "postalCode": "55286"
  },
  {
   "id": 3404060004,
   "districtId": 3404060,
-  "name": "SENDANGADI"
+  "districtName": "MLATI",
+  "name": "SENDANGADI",
+  "postalCode": "55285"
  },
  {
   "id": 3404060005,
   "districtId": 3404060,
-  "name": "SINDUADI"
+  "districtName": "MLATI",
+  "name": "SINDUADI",
+  "postalCode": "55284"
  }
 ]

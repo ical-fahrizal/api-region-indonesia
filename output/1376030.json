@@ -2,46 +2,64 @@
  {
   "id": 1376030005,
   "districtId": 1376030,
-  "name": "NAPAR"
+  "districtName": "PAYAKUMBUH UTARA",
+  "name": "NAPAR",
+  "postalCode": "26218"
  },
  {
   "id": 1376030029,
   "districtId": 1376030,
-  "name": "OMPANG TANAH SIRAH"
+  "districtName": "PAYAKUMBUH UTARA",
+  "name": "OMPANG TANAH SIRAH",
+  "postalCode": ""
  },
  {
   "id": 1376030030,
   "districtId": 1376030,
-  "name": "TARATAK PADANG KAMPUANG"
+  "districtName": "PAYAKUMBUH UTARA",
+  "name": "TARATAK PADANG KAMPUANG",
+  "postalCode": ""
  },
  {
   "id": 1376030031,
   "districtId": 1376030,
-  "name": "TIGO KOTO DIBARUAH"
+  "districtName": "PAYAKUMBUH UTARA",
+  "name": "TIGO KOTO DIBARUAH",
+  "postalCode": ""
  },
  {
   "id": 1376030032,
   "districtId": 1376030,
-  "name": "TIGO KOTO DIATE"
+  "districtName": "PAYAKUMBUH UTARA",
+  "name": "TIGO KOTO DIATE",
+  "postalCode": ""
  },
  {
   "id": 1376030033,
   "districtId": 1376030,
-  "name": "KAPALO KOTO DIBALAI"
+  "districtName": "PAYAKUMBUH UTARA",
+  "name": "KAPALO KOTO DIBALAI",
+  "postalCode": ""
  },
  {
   "id": 1376030034,
   "districtId": 1376030,
-  "name": "KOTOKOCIAK KUBU TAPAKRAJO"
+  "districtName": "PAYAKUMBUH UTARA",
+  "name": "KOTOKOCIAK KUBU TAPAKRAJO",
+  "postalCode": ""
  },
  {
   "id": 1376030035,
   "districtId": 1376030,
-  "name": "BALAI TONGAH KOTO"
+  "districtName": "PAYAKUMBUH UTARA",
+  "name": "BALAI TONGAH KOTO",
+  "postalCode": ""
  },
  {
   "id": 1376030036,
   "districtId": 1376030,
-  "name": "IKUA KOTO DIBALAI"
+  "districtName": "PAYAKUMBUH UTARA",
+  "name": "IKUA KOTO DIBALAI",
+  "postalCode": ""
  }
 ]

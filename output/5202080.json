@@ -2,46 +2,64 @@
  {
   "id": 5202080001,
   "districtId": 5202080,
-  "name": "BILEBANTE"
+  "districtName": "PRINGGARATA",
+  "name": "BILEBANTE",
+  "postalCode": "83562"
  },
  {
   "id": 5202080002,
   "districtId": 5202080,
-  "name": "BAGU"
+  "districtName": "PRINGGARATA",
+  "name": "BAGU",
+  "postalCode": "83562"
  },
  {
   "id": 5202080003,
   "districtId": 5202080,
-  "name": "SINTUNG"
+  "districtName": "PRINGGARATA",
+  "name": "SINTUNG",
+  "postalCode": "83562"
  },
  {
   "id": 5202080004,
   "districtId": 5202080,
-  "name": "PRINGGARATA"
+  "districtName": "PRINGGARATA",
+  "name": "PRINGGARATA",
+  "postalCode": "83562"
  },
  {
   "id": 5202080005,
   "districtId": 5202080,
-  "name": "MURBAYA"
+  "districtName": "PRINGGARATA",
+  "name": "MURBAYA",
+  "postalCode": "83562"
  },
  {
   "id": 5202080006,
   "districtId": 5202080,
-  "name": "SEPAKEK"
+  "districtName": "PRINGGARATA",
+  "name": "SEPAKEK",
+  "postalCode": "83562"
  },
  {
   "id": 5202080009,
   "districtId": 5202080,
-  "name": "ARJANGKA"
+  "districtName": "PRINGGARATA",
+  "name": "ARJANGKA",
+  "postalCode": ""
  },
  {
   "id": 5202080010,
   "districtId": 5202080,
-  "name": "TAMAN INDAH"
+  "districtName": "PRINGGARATA",
+  "name": "TAMAN INDAH",
+  "postalCode": ""
  },
  {
   "id": 5202080011,
   "districtId": 5202080,
-  "name": "SISIK"
+  "districtName": "PRINGGARATA",
+  "name": "SISIK",
+  "postalCode": ""
  }
 ]

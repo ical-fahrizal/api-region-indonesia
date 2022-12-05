@@ -2,36 +2,50 @@
  {
   "id": 9105142001,
   "districtId": 9105142,
-  "name": "MANSINAM"
+  "districtName": "MANOKWARI TIMUR",
+  "name": "MANSINAM",
+  "postalCode": "98311"
  },
  {
   "id": 9105142002,
   "districtId": 9105142,
-  "name": "PASIR PUTIH"
+  "districtName": "MANOKWARI TIMUR",
+  "name": "PASIR PUTIH",
+  "postalCode": "24453"
  },
  {
   "id": 9105142003,
   "districtId": 9105142,
-  "name": "AROWI"
+  "districtName": "MANOKWARI TIMUR",
+  "name": "AROWI",
+  "postalCode": "98313"
  },
  {
   "id": 9105142004,
   "districtId": 9105142,
-  "name": "BAKARO"
+  "districtName": "MANOKWARI TIMUR",
+  "name": "BAKARO",
+  "postalCode": "98311"
  },
  {
   "id": 9105142005,
   "districtId": 9105142,
-  "name": "AIPIRI"
+  "districtName": "MANOKWARI TIMUR",
+  "name": "AIPIRI",
+  "postalCode": "98311"
  },
  {
   "id": 9105142006,
   "districtId": 9105142,
-  "name": "SUNSWENI"
+  "districtName": "MANOKWARI TIMUR",
+  "name": "SUNSWENI",
+  "postalCode": ""
  },
  {
   "id": 9105142007,
   "districtId": 9105142,
-  "name": "AYAMBORI"
+  "districtName": "MANOKWARI TIMUR",
+  "name": "AYAMBORI",
+  "postalCode": "98311"
  }
 ]

@@ -2,86 +2,120 @@
  {
   "id": 3321010001,
   "districtId": 3321010,
-  "name": "BANYUMENENG"
+  "districtName": "MRANGGEN",
+  "name": "BANYUMENENG",
+  "postalCode": "59567"
  },
  {
   "id": 3321010002,
   "districtId": 3321010,
-  "name": "SUMBEREJO"
+  "districtName": "MRANGGEN",
+  "name": "SUMBEREJO",
+  "postalCode": "20551"
  },
  {
   "id": 3321010003,
   "districtId": 3321010,
-  "name": "KEBONBATUR"
+  "districtName": "MRANGGEN",
+  "name": "KEBONBATUR",
+  "postalCode": "59567"
  },
  {
   "id": 3321010004,
   "districtId": 3321010,
-  "name": "KANGKUNG"
+  "districtName": "MRANGGEN",
+  "name": "KANGKUNG",
+  "postalCode": "32184"
  },
  {
   "id": 3321010005,
   "districtId": 3321010,
-  "name": "KALITENGAH"
+  "districtName": "MRANGGEN",
+  "name": "KALITENGAH",
+  "postalCode": "45153"
  },
  {
   "id": 3321010006,
   "districtId": 3321010,
-  "name": "KEMBANGARUM"
+  "districtName": "MRANGGEN",
+  "name": "KEMBANGARUM",
+  "postalCode": "59567"
  },
  {
   "id": 3321010007,
   "districtId": 3321010,
-  "name": "MRANGGEN"
+  "districtName": "MRANGGEN",
+  "name": "MRANGGEN",
+  "postalCode": "57481"
  },
  {
   "id": 3321010008,
   "districtId": 3321010,
-  "name": "BATURSARI"
+  "districtName": "MRANGGEN",
+  "name": "BATURSARI",
+  "postalCode": "59186"
  },
  {
   "id": 3321010009,
   "districtId": 3321010,
-  "name": "BANDUNGREJO"
+  "districtName": "MRANGGEN",
+  "name": "BANDUNGREJO",
+  "postalCode": "54222"
  },
  {
   "id": 3321010011,
   "districtId": 3321010,
-  "name": "NGEMPLAK"
+  "districtName": "MRANGGEN",
+  "name": "NGEMPLAK",
+  "postalCode": "54191"
  },
  {
   "id": 3321010012,
   "districtId": 3321010,
-  "name": "TAMANSARI"
+  "districtName": "MRANGGEN",
+  "name": "TAMANSARI",
+  "postalCode": "35366"
  },
  {
   "id": 3321010013,
   "districtId": 3321010,
-  "name": "KARANGSONO"
+  "districtName": "MRANGGEN",
+  "name": "KARANGSONO",
+  "postalCode": "58163"
  },
  {
   "id": 3321010014,
   "districtId": 3321010,
-  "name": "CANDISARI"
+  "districtName": "MRANGGEN",
+  "name": "CANDISARI",
+  "postalCode": "57352"
  },
  {
   "id": 3321010015,
   "districtId": 3321010,
-  "name": "TEGALARUM"
+  "districtName": "MRANGGEN",
+  "name": "TEGALARUM",
+  "postalCode": "56413"
  },
  {
   "id": 3321010016,
   "districtId": 3321010,
-  "name": "WARU"
+  "districtName": "MRANGGEN",
+  "name": "WARU",
+  "postalCode": "45252"
  },
  {
   "id": 3321010018,
   "districtId": 3321010,
-  "name": "JAMUS"
+  "districtName": "MRANGGEN",
+  "name": "JAMUS",
+  "postalCode": "59567"
  },
  {
   "id": 3321010019,
   "districtId": 3321010,
-  "name": "WRINGIN JAJAR"
+  "districtName": "MRANGGEN",
+  "name": "WRINGIN JAJAR",
+  "postalCode": "59567"
  }
 ]

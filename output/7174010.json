@@ -2,46 +2,64 @@
  {
   "id": 7174010001,
   "districtId": 7174010,
-  "name": "KOPANDAKAN  I"
+  "districtName": "KOTAMOBAGU SELATAN",
+  "name": "KOPANDAKAN  I",
+  "postalCode": ""
  },
  {
   "id": 7174010002,
   "districtId": 7174010,
-  "name": "BUNGKO"
+  "districtName": "KOTAMOBAGU SELATAN",
+  "name": "BUNGKO",
+  "postalCode": "45152"
  },
  {
   "id": 7174010003,
   "districtId": 7174010,
-  "name": "TABANG"
+  "districtName": "KOTAMOBAGU SELATAN",
+  "name": "TABANG",
+  "postalCode": "95717"
  },
  {
   "id": 7174010004,
   "districtId": 7174010,
-  "name": "POYOWA BESAR I"
+  "districtName": "KOTAMOBAGU SELATAN",
+  "name": "POYOWA BESAR I",
+  "postalCode": "95717"
  },
  {
   "id": 7174010005,
   "districtId": 7174010,
-  "name": "POYOWA BESAR II"
+  "districtName": "KOTAMOBAGU SELATAN",
+  "name": "POYOWA BESAR II",
+  "postalCode": "95717"
  },
  {
   "id": 7174010006,
   "districtId": 7174010,
-  "name": "POBUNDAYAN"
+  "districtName": "KOTAMOBAGU SELATAN",
+  "name": "POBUNDAYAN",
+  "postalCode": ""
  },
  {
   "id": 7174010007,
   "districtId": 7174010,
-  "name": "MOTOBOI KECIL"
+  "districtName": "KOTAMOBAGU SELATAN",
+  "name": "MOTOBOI KECIL",
+  "postalCode": "95717"
  },
  {
   "id": 7174010008,
   "districtId": 7174010,
-  "name": "MONGONDOW"
+  "districtName": "KOTAMOBAGU SELATAN",
+  "name": "MONGONDOW",
+  "postalCode": "95717"
  },
  {
   "id": 7174010009,
   "districtId": 7174010,
-  "name": "POYOWA KECIL"
+  "districtName": "KOTAMOBAGU SELATAN",
+  "name": "POYOWA KECIL",
+  "postalCode": "95717"
  }
 ]

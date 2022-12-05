@@ -2,81 +2,113 @@
  {
   "id": 3506160001,
   "districtId": 3506160,
-  "name": "KAYEN LOR"
+  "districtName": "PLEMAHAN",
+  "name": "KAYEN LOR",
+  "postalCode": "64155"
  },
  {
   "id": 3506160002,
   "districtId": 3506160,
-  "name": "BOGOKIDUL"
+  "districtName": "PLEMAHAN",
+  "name": "BOGOKIDUL",
+  "postalCode": "64155"
  },
  {
   "id": 3506160003,
   "districtId": 3506160,
-  "name": "MEJONO"
+  "districtName": "PLEMAHAN",
+  "name": "MEJONO",
+  "postalCode": "64155"
  },
  {
   "id": 3506160004,
   "districtId": 3506160,
-  "name": "TEGOWANGI"
+  "districtName": "PLEMAHAN",
+  "name": "TEGOWANGI",
+  "postalCode": "64155"
  },
  {
   "id": 3506160005,
   "districtId": 3506160,
-  "name": "LANGENHARJO"
+  "districtName": "PLEMAHAN",
+  "name": "LANGENHARJO",
+  "postalCode": "57552"
  },
  {
   "id": 3506160006,
   "districtId": 3506160,
-  "name": "PUHJARAK"
+  "districtName": "PLEMAHAN",
+  "name": "PUHJARAK",
+  "postalCode": "64155"
  },
  {
   "id": 3506160008,
   "districtId": 3506160,
-  "name": "PAYAMAN"
+  "districtName": "PLEMAHAN",
+  "name": "PAYAMAN",
+  "postalCode": "59381"
  },
  {
   "id": 3506160009,
   "districtId": 3506160,
-  "name": "WONOKERTO"
+  "districtName": "PLEMAHAN",
+  "name": "WONOKERTO",
+  "postalCode": "31662"
  },
  {
   "id": 3506160010,
   "districtId": 3506160,
-  "name": "NGINO"
+  "districtName": "PLEMAHAN",
+  "name": "NGINO",
+  "postalCode": "64155"
  },
  {
   "id": 3506160011,
   "districtId": 3506160,
-  "name": "BANJAREJO"
+  "districtName": "PLEMAHAN",
+  "name": "BANJAREJO",
+  "postalCode": "35373"
  },
  {
   "id": 3506160012,
   "districtId": 3506160,
-  "name": "SIDOWAREK"
+  "districtName": "PLEMAHAN",
+  "name": "SIDOWAREK",
+  "postalCode": "61473"
  },
  {
   "id": 3506160013,
   "districtId": 3506160,
-  "name": "RINGINPITU"
+  "districtName": "PLEMAHAN",
+  "name": "RINGINPITU",
+  "postalCode": "58166"
  },
  {
   "id": 3506160014,
   "districtId": 3506160,
-  "name": "SUKOHARJO"
+  "districtName": "PLEMAHAN",
+  "name": "SUKOHARJO",
+  "postalCode": "32383"
  },
  {
   "id": 3506160015,
   "districtId": 3506160,
-  "name": "MOJOAYU"
+  "districtName": "PLEMAHAN",
+  "name": "MOJOAYU",
+  "postalCode": "64155"
  },
  {
   "id": 3506160016,
   "districtId": 3506160,
-  "name": "PLEMAHAN"
+  "districtName": "PLEMAHAN",
+  "name": "PLEMAHAN",
+  "postalCode": "64155"
  },
  {
   "id": 3506160017,
   "districtId": 3506160,
-  "name": "MOJOKEREP"
+  "districtName": "PLEMAHAN",
+  "name": "MOJOKEREP",
+  "postalCode": "64155"
  }
 ]

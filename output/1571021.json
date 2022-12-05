@@ -2,26 +2,36 @@
  {
   "id": 1571021001,
   "districtId": 1571021,
-  "name": "PAAL MERAH"
+  "districtName": "PAAL MERAH",
+  "name": "PAAL MERAH",
+  "postalCode": "36139"
  },
  {
   "id": 1571021002,
   "districtId": 1571021,
-  "name": "TALANG BAKUNG"
+  "districtName": "PAAL MERAH",
+  "name": "TALANG BAKUNG",
+  "postalCode": "36139"
  },
  {
   "id": 1571021003,
   "districtId": 1571021,
-  "name": "LINGKAR SELATAN"
+  "districtName": "PAAL MERAH",
+  "name": "LINGKAR SELATAN",
+  "postalCode": "36139"
  },
  {
   "id": 1571021004,
   "districtId": 1571021,
-  "name": "EKA JAYA"
+  "districtName": "PAAL MERAH",
+  "name": "EKA JAYA",
+  "postalCode": "36139"
  },
  {
   "id": 1571021005,
   "districtId": 1571021,
-  "name": "PAYO SILINCAH"
+  "districtName": "PAAL MERAH",
+  "name": "PAYO SILINCAH",
+  "postalCode": ""
  }
 ]

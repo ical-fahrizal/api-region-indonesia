@@ -2,26 +2,36 @@
  {
   "id": 7406030001,
   "districtId": 7406030,
-  "name": "KASIPUTE"
+  "districtName": "RUMBIA",
+  "name": "KASIPUTE",
+  "postalCode": "93771"
  },
  {
   "id": 7406030002,
   "districtId": 7406030,
-  "name": "LANTOWONUA"
+  "districtName": "RUMBIA",
+  "name": "LANTOWONUA",
+  "postalCode": ""
  },
  {
   "id": 7406030003,
   "districtId": 7406030,
-  "name": "DOULE"
+  "districtName": "RUMBIA",
+  "name": "DOULE",
+  "postalCode": "93771"
  },
  {
   "id": 7406030004,
   "districtId": 7406030,
-  "name": "LAMPOPALA"
+  "districtName": "RUMBIA",
+  "name": "LAMPOPALA",
+  "postalCode": "93771"
  },
  {
   "id": 7406030005,
   "districtId": 7406030,
-  "name": "LAMERORO"
+  "districtName": "RUMBIA",
+  "name": "LAMERORO",
+  "postalCode": "93771"
  }
 ]

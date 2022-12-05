@@ -2,41 +2,57 @@
  {
   "id": 7602021001,
   "districtId": 7602021,
-  "name": "SARAGIAN"
+  "districtName": "ALU",
+  "name": "SARAGIAN",
+  "postalCode": "96365"
  },
  {
   "id": 7602021002,
   "districtId": 7602021,
-  "name": "MOMBI"
+  "districtName": "ALU",
+  "name": "MOMBI",
+  "postalCode": "96365"
  },
  {
   "id": 7602021003,
   "districtId": 7602021,
-  "name": "PETOOSANG"
+  "districtName": "ALU",
+  "name": "PETOOSANG",
+  "postalCode": "96365"
  },
  {
   "id": 7602021004,
   "districtId": 7602021,
-  "name": "KALUMAMMANG"
+  "districtName": "ALU",
+  "name": "KALUMAMMANG",
+  "postalCode": "96365"
  },
  {
   "id": 7602021005,
   "districtId": 7602021,
-  "name": "PAO PAO"
+  "districtName": "ALU",
+  "name": "PAO PAO",
+  "postalCode": "96365"
  },
  {
   "id": 7602021006,
   "districtId": 7602021,
-  "name": "PUPUURING"
+  "districtName": "ALU",
+  "name": "PUPUURING",
+  "postalCode": ""
  },
  {
   "id": 7602021007,
   "districtId": 7602021,
-  "name": "SAYOANG"
+  "districtName": "ALU",
+  "name": "SAYOANG",
+  "postalCode": "96365"
  },
  {
   "id": 7602021008,
   "districtId": 7602021,
-  "name": "ALU"
+  "districtName": "ALU",
+  "name": "ALU",
+  "postalCode": ""
  }
 ]

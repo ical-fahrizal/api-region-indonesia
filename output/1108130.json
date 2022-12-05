@@ -2,86 +2,120 @@
  {
   "id": 1108130001,
   "districtId": 1108130,
-  "name": "TEUNOM"
+  "districtName": "PULO ACEH",
+  "name": "TEUNOM",
+  "postalCode": "23391"
  },
  {
   "id": 1108130002,
   "districtId": 1108130,
-  "name": "PASI JANENG"
+  "districtName": "PULO ACEH",
+  "name": "PASI JANENG",
+  "postalCode": "23391"
  },
  {
   "id": 1108130003,
   "districtId": 1108130,
-  "name": "ALUE RIYEUNG"
+  "districtName": "PULO ACEH",
+  "name": "ALUE RIYEUNG",
+  "postalCode": ""
  },
  {
   "id": 1108130004,
   "districtId": 1108130,
-  "name": "DEUDAP"
+  "districtName": "PULO ACEH",
+  "name": "DEUDAP",
+  "postalCode": "23391"
  },
  {
   "id": 1108130005,
   "districtId": 1108130,
-  "name": "RABO"
+  "districtName": "PULO ACEH",
+  "name": "RABO",
+  "postalCode": "23391"
  },
  {
   "id": 1108130006,
   "districtId": 1108130,
-  "name": "LAMTENG"
+  "districtName": "PULO ACEH",
+  "name": "LAMTENG",
+  "postalCode": "23391"
  },
  {
   "id": 1108130007,
   "districtId": 1108130,
-  "name": "LHOH"
+  "districtName": "PULO ACEH",
+  "name": "LHOH",
+  "postalCode": "23391"
  },
  {
   "id": 1108130008,
   "districtId": 1108130,
-  "name": "LAMPUYANG"
+  "districtName": "PULO ACEH",
+  "name": "LAMPUYANG",
+  "postalCode": "23391"
  },
  {
   "id": 1108130009,
   "districtId": 1108130,
-  "name": "LAPENG"
+  "districtName": "PULO ACEH",
+  "name": "LAPENG",
+  "postalCode": "23391"
  },
  {
   "id": 1108130010,
   "districtId": 1108130,
-  "name": "PALOH"
+  "districtName": "PULO ACEH",
+  "name": "PALOH",
+  "postalCode": "24261"
  },
  {
   "id": 1108130011,
   "districtId": 1108130,
-  "name": "BLANG SITUNGKOH"
+  "districtName": "PULO ACEH",
+  "name": "BLANG SITUNGKOH",
+  "postalCode": "23391"
  },
  {
   "id": 1108130012,
   "districtId": 1108130,
-  "name": "ULEE PAYA"
+  "districtName": "PULO ACEH",
+  "name": "ULEE PAYA",
+  "postalCode": "23391"
  },
  {
   "id": 1108130013,
   "districtId": 1108130,
-  "name": "SEURAPONG"
+  "districtName": "PULO ACEH",
+  "name": "SEURAPONG",
+  "postalCode": "23391"
  },
  {
   "id": 1108130014,
   "districtId": 1108130,
-  "name": "GUGOB"
+  "districtName": "PULO ACEH",
+  "name": "GUGOB",
+  "postalCode": "23391"
  },
  {
   "id": 1108130015,
   "districtId": 1108130,
-  "name": "ALUE RAYA"
+  "districtName": "PULO ACEH",
+  "name": "ALUE RAYA",
+  "postalCode": "23662"
  },
  {
   "id": 1108130016,
   "districtId": 1108130,
-  "name": "RINON"
+  "districtName": "PULO ACEH",
+  "name": "RINON",
+  "postalCode": "23391"
  },
  {
   "id": 1108130017,
   "districtId": 1108130,
-  "name": "MELINGGE"
+  "districtName": "PULO ACEH",
+  "name": "MELINGGE",
+  "postalCode": "23391"
  }
 ]

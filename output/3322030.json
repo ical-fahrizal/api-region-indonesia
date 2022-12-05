@@ -2,56 +2,78 @@
  {
   "id": 3322030012,
   "districtId": 3322030,
-  "name": "BADRAN"
+  "districtName": "SUSUKAN",
+  "name": "BADRAN",
+  "postalCode": "56271"
  },
  {
   "id": 3322030013,
   "districtId": 3322030,
-  "name": "TIMPIK"
+  "districtName": "SUSUKAN",
+  "name": "TIMPIK",
+  "postalCode": "50777"
  },
  {
   "id": 3322030014,
   "districtId": 3322030,
-  "name": "TAWANG"
+  "districtName": "SUSUKAN",
+  "name": "TAWANG",
+  "postalCode": "46194"
  },
  {
   "id": 3322030015,
   "districtId": 3322030,
-  "name": "BAKALREJO"
+  "districtName": "SUSUKAN",
+  "name": "BAKALREJO",
+  "postalCode": "59565"
  },
  {
   "id": 3322030016,
   "districtId": 3322030,
-  "name": "KETAPANG"
+  "districtName": "SUSUKAN",
+  "name": "KETAPANG",
+  "postalCode": "35596"
  },
  {
   "id": 3322030017,
   "districtId": 3322030,
-  "name": "SUSUKAN"
+  "districtName": "SUSUKAN",
+  "name": "SUSUKAN",
+  "postalCode": "13750"
  },
  {
   "id": 3322030018,
   "districtId": 3322030,
-  "name": "SIDOHARJO"
+  "districtName": "SUSUKAN",
+  "name": "SIDOHARJO",
+  "postalCode": "30975"
  },
  {
   "id": 3322030019,
   "districtId": 3322030,
-  "name": "GENTAN"
+  "districtName": "SUSUKAN",
+  "name": "GENTAN",
+  "postalCode": "57556"
  },
  {
   "id": 3322030020,
   "districtId": 3322030,
-  "name": "MUNCAR"
+  "districtName": "SUSUKAN",
+  "name": "MUNCAR",
+  "postalCode": "56283"
  },
  {
   "id": 3322030021,
   "districtId": 3322030,
-  "name": "NGASINAN"
+  "districtName": "SUSUKAN",
+  "name": "NGASINAN",
+  "postalCode": "54183"
  },
  {
   "id": 3322030022,
   "districtId": 3322030,
-  "name": "KORIPAN"
+  "districtName": "SUSUKAN",
+  "name": "KORIPAN",
+  "postalCode": "57781"
  }
 ]

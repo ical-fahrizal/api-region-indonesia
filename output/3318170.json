@@ -2,111 +2,155 @@
  {
   "id": 3318170001,
   "districtId": 3318170,
-  "name": "TEGALARUM"
+  "districtName": "MARGOYOSO",
+  "name": "TEGALARUM",
+  "postalCode": "56413"
  },
  {
   "id": 3318170002,
   "districtId": 3318170,
-  "name": "SONEYAN"
+  "districtName": "MARGOYOSO",
+  "name": "SONEYAN",
+  "postalCode": "59154"
  },
  {
   "id": 3318170003,
   "districtId": 3318170,
-  "name": "TANJUNGREJO"
+  "districtName": "MARGOYOSO",
+  "name": "TANJUNGREJO",
+  "postalCode": "54224"
  },
  {
   "id": 3318170004,
   "districtId": 3318170,
-  "name": "SIDOMUKTI"
+  "districtName": "MARGOYOSO",
+  "name": "SIDOMUKTI",
+  "postalCode": "21217"
  },
  {
   "id": 3318170005,
   "districtId": 3318170,
-  "name": "POHIJO"
+  "districtName": "MARGOYOSO",
+  "name": "POHIJO",
+  "postalCode": "59154"
  },
  {
   "id": 3318170006,
   "districtId": 3318170,
-  "name": "KERTOMULYO"
+  "districtName": "MARGOYOSO",
+  "name": "KERTOMULYO",
+  "postalCode": "51371"
  },
  {
   "id": 3318170007,
   "districtId": 3318170,
-  "name": "LANGGENHARJO"
+  "districtName": "MARGOYOSO",
+  "name": "LANGGENHARJO",
+  "postalCode": "59154"
  },
  {
   "id": 3318170008,
   "districtId": 3318170,
-  "name": "PANGKALAN"
+  "districtName": "MARGOYOSO",
+  "name": "PANGKALAN",
+  "postalCode": "24477"
  },
  {
   "id": 3318170009,
   "districtId": 3318170,
-  "name": "BULUMANIS KIDUL"
+  "districtName": "MARGOYOSO",
+  "name": "BULUMANIS KIDUL",
+  "postalCode": "59154"
  },
  {
   "id": 3318170010,
   "districtId": 3318170,
-  "name": "BULUMANIS LOR"
+  "districtName": "MARGOYOSO",
+  "name": "BULUMANIS LOR",
+  "postalCode": "59154"
  },
  {
   "id": 3318170011,
   "districtId": 3318170,
-  "name": "SEKARJALAK"
+  "districtName": "MARGOYOSO",
+  "name": "SEKARJALAK",
+  "postalCode": "59154"
  },
  {
   "id": 3318170012,
   "districtId": 3318170,
-  "name": "KAJEN"
+  "districtName": "MARGOYOSO",
+  "name": "KAJEN",
+  "postalCode": "57465"
  },
  {
   "id": 3318170013,
   "districtId": 3318170,
-  "name": "NGEMPLAK KIDUL"
+  "districtName": "MARGOYOSO",
+  "name": "NGEMPLAK KIDUL",
+  "postalCode": "59154"
  },
  {
   "id": 3318170014,
   "districtId": 3318170,
-  "name": "PURWOREJO"
+  "districtName": "MARGOYOSO",
+  "name": "PURWOREJO",
+  "postalCode": "23661"
  },
  {
   "id": 3318170015,
   "districtId": 3318170,
-  "name": "PURWODADI"
+  "districtName": "MARGOYOSO",
+  "name": "PURWODADI",
+  "postalCode": "24652"
  },
  {
   "id": 3318170016,
   "districtId": 3318170,
-  "name": "NGEMPLAK LOR"
+  "districtName": "MARGOYOSO",
+  "name": "NGEMPLAK LOR",
+  "postalCode": "59154"
  },
  {
   "id": 3318170017,
   "districtId": 3318170,
-  "name": "WATUROYO"
+  "districtName": "MARGOYOSO",
+  "name": "WATUROYO",
+  "postalCode": "59154"
  },
  {
   "id": 3318170018,
   "districtId": 3318170,
-  "name": "CEBOLEK KIDUL"
+  "districtName": "MARGOYOSO",
+  "name": "CEBOLEK KIDUL",
+  "postalCode": "59154"
  },
  {
   "id": 3318170019,
   "districtId": 3318170,
-  "name": "TUNJUNGREJO"
+  "districtName": "MARGOYOSO",
+  "name": "TUNJUNGREJO",
+  "postalCode": "59154"
  },
  {
   "id": 3318170020,
   "districtId": 3318170,
-  "name": "MARGOYOSO"
+  "districtName": "MARGOYOSO",
+  "name": "MARGOYOSO",
+  "postalCode": "31665"
  },
  {
   "id": 3318170021,
   "districtId": 3318170,
-  "name": "MARGOTUHU KIDUL"
+  "districtName": "MARGOYOSO",
+  "name": "MARGOTUHU KIDUL",
+  "postalCode": "59154"
  },
  {
   "id": 3318170022,
   "districtId": 3318170,
-  "name": "SEMERAK"
+  "districtName": "MARGOYOSO",
+  "name": "SEMERAK",
+  "postalCode": "59154"
  }
 ]

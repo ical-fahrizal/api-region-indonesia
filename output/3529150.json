@@ -2,56 +2,78 @@
  {
   "id": 3529150001,
   "districtId": 3529150,
-  "name": "KASENGAN"
+  "districtName": "MANDING",
+  "name": "KASENGAN",
+  "postalCode": "69452"
  },
  {
   "id": 3529150002,
   "districtId": 3529150,
-  "name": "LALANGON"
+  "districtName": "MANDING",
+  "name": "LALANGON",
+  "postalCode": "69452"
  },
  {
   "id": 3529150003,
   "districtId": 3529150,
-  "name": "TENONAN"
+  "districtName": "MANDING",
+  "name": "TENONAN",
+  "postalCode": "69452"
  },
  {
   "id": 3529150004,
   "districtId": 3529150,
-  "name": "LANJUK"
+  "districtName": "MANDING",
+  "name": "LANJUK",
+  "postalCode": "69452"
  },
  {
   "id": 3529150005,
   "districtId": 3529150,
-  "name": "GADDING"
+  "districtName": "MANDING",
+  "name": "GADDING",
+  "postalCode": "69452"
  },
  {
   "id": 3529150006,
   "districtId": 3529150,
-  "name": "GIRING"
+  "districtName": "MANDING",
+  "name": "GIRING",
+  "postalCode": "55871"
  },
  {
   "id": 3529150007,
   "districtId": 3529150,
-  "name": "GUNUNG KEMBAR"
+  "districtName": "MANDING",
+  "name": "GUNUNG KEMBAR",
+  "postalCode": "69452"
  },
  {
   "id": 3529150008,
   "districtId": 3529150,
-  "name": "JABA'AN"
+  "districtName": "MANDING",
+  "name": "JABA'AN",
+  "postalCode": ""
  },
  {
   "id": 3529150009,
   "districtId": 3529150,
-  "name": "MANDING LAOK"
+  "districtName": "MANDING",
+  "name": "MANDING LAOK",
+  "postalCode": "69452"
  },
  {
   "id": 3529150010,
   "districtId": 3529150,
-  "name": "MANDING DAYA"
+  "districtName": "MANDING",
+  "name": "MANDING DAYA",
+  "postalCode": "69452"
  },
  {
   "id": 3529150011,
   "districtId": 3529150,
-  "name": "MANDING TIMUR"
+  "districtName": "MANDING",
+  "name": "MANDING TIMUR",
+  "postalCode": "69452"
  }
 ]

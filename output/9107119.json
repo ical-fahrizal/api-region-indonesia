@@ -2,41 +2,57 @@
  {
   "id": 9107119001,
   "districtId": 9107119,
-  "name": "KLAMNE"
+  "districtName": "KONHIR",
+  "name": "KLAMNE",
+  "postalCode": "98453"
  },
  {
   "id": 9107119002,
   "districtId": 9107119,
-  "name": "TARSA"
+  "districtName": "KONHIR",
+  "name": "TARSA",
+  "postalCode": "98453"
  },
  {
   "id": 9107119003,
   "districtId": 9107119,
-  "name": "WISBIAK"
+  "districtName": "KONHIR",
+  "name": "WISBIAK",
+  "postalCode": "98453"
  },
  {
   "id": 9107119004,
   "districtId": 9107119,
-  "name": "KLAFYO"
+  "districtName": "KONHIR",
+  "name": "KLAFYO",
+  "postalCode": ""
  },
  {
   "id": 9107119005,
   "districtId": 9107119,
-  "name": "KLAFUM"
+  "districtName": "KONHIR",
+  "name": "KLAFUM",
+  "postalCode": ""
  },
  {
   "id": 9107119006,
   "districtId": 9107119,
-  "name": "KLARIN"
+  "districtName": "KONHIR",
+  "name": "KLARIN",
+  "postalCode": ""
  },
  {
   "id": 9107119007,
   "districtId": 9107119,
-  "name": "MLASWOR"
+  "districtName": "KONHIR",
+  "name": "MLASWOR",
+  "postalCode": ""
  },
  {
   "id": 9107119008,
   "districtId": 9107119,
-  "name": "KLAFELEM"
+  "districtName": "KONHIR",
+  "name": "KLAFELEM",
+  "postalCode": ""
  }
 ]

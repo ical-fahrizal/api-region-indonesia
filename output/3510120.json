@@ -2,46 +2,64 @@
  {
   "id": 3510120001,
   "districtId": 3510120,
-  "name": "ALIYAN"
+  "districtName": "ROGOJAMPI",
+  "name": "ALIYAN",
+  "postalCode": "68462"
  },
  {
   "id": 3510120002,
   "districtId": 3510120,
-  "name": "MANGIR"
+  "districtName": "ROGOJAMPI",
+  "name": "MANGIR",
+  "postalCode": "68462"
  },
  {
   "id": 3510120007,
   "districtId": 3510120,
-  "name": "GLADAG"
+  "districtName": "ROGOJAMPI",
+  "name": "GLADAG",
+  "postalCode": "68462"
  },
  {
   "id": 3510120009,
   "districtId": 3510120,
-  "name": "KEDALEMAN"
+  "districtName": "ROGOJAMPI",
+  "name": "KEDALEMAN",
+  "postalCode": "68462"
  },
  {
   "id": 3510120010,
   "districtId": 3510120,
-  "name": "LEMAHBANG DEWO"
+  "districtName": "ROGOJAMPI",
+  "name": "LEMAHBANG DEWO",
+  "postalCode": "68462"
  },
  {
   "id": 3510120011,
   "districtId": 3510120,
-  "name": "ROGOJAMPI"
+  "districtName": "ROGOJAMPI",
+  "name": "ROGOJAMPI",
+  "postalCode": "68462"
  },
  {
   "id": 3510120016,
   "districtId": 3510120,
-  "name": "KARANG BENDO"
+  "districtName": "ROGOJAMPI",
+  "name": "KARANG BENDO",
+  "postalCode": "68462"
  },
  {
   "id": 3510120017,
   "districtId": 3510120,
-  "name": "GITIK"
+  "districtName": "ROGOJAMPI",
+  "name": "GITIK",
+  "postalCode": "68462"
  },
  {
   "id": 3510120018,
   "districtId": 3510120,
-  "name": "PENGANTIGAN"
+  "districtName": "ROGOJAMPI",
+  "name": "PENGANTIGAN",
+  "postalCode": "68414"
  }
 ]

@@ -2,26 +2,36 @@
  {
   "id": 6501070001,
   "districtId": 6501070,
-  "name": "LONG PADA"
+  "districtName": "SUNGAI TUBU",
+  "name": "LONG PADA",
+  "postalCode": "77555"
  },
  {
   "id": 6501070002,
   "districtId": 6501070,
-  "name": "LONG NYAU"
+  "districtName": "SUNGAI TUBU",
+  "name": "LONG NYAU",
+  "postalCode": "77555"
  },
  {
   "id": 6501070003,
   "districtId": 6501070,
-  "name": "LONG TITI"
+  "districtName": "SUNGAI TUBU",
+  "name": "LONG TITI",
+  "postalCode": "77555"
  },
  {
   "id": 6501070004,
   "districtId": 6501070,
-  "name": "LONG RANAU"
+  "districtName": "SUNGAI TUBU",
+  "name": "LONG RANAU",
+  "postalCode": "77555"
  },
  {
   "id": 6501070005,
   "districtId": 6501070,
-  "name": "RIAN TUBU"
+  "districtName": "SUNGAI TUBU",
+  "name": "RIAN TUBU",
+  "postalCode": "77555"
  }
 ]

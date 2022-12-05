@@ -2,56 +2,78 @@
  {
   "id": 5310070001,
   "districtId": 5310070,
-  "name": "TILANG"
+  "districtName": "NITA",
+  "name": "TILANG",
+  "postalCode": "86152"
  },
  {
   "id": 5310070002,
   "districtId": 5310070,
-  "name": "LUSITADA"
+  "districtName": "NITA",
+  "name": "LUSITADA",
+  "postalCode": "86152"
  },
  {
   "id": 5310070003,
   "districtId": 5310070,
-  "name": "BLORO"
+  "districtName": "NITA",
+  "name": "BLORO",
+  "postalCode": "68356"
  },
  {
   "id": 5310070005,
   "districtId": 5310070,
-  "name": "NITA"
+  "districtName": "NITA",
+  "name": "NITA",
+  "postalCode": "86152"
  },
  {
   "id": 5310070006,
   "districtId": 5310070,
-  "name": "TAKAPLAGER"
+  "districtName": "NITA",
+  "name": "TAKAPLAGER",
+  "postalCode": "86152"
  },
  {
   "id": 5310070007,
   "districtId": 5310070,
-  "name": "NITAKLOANG"
+  "districtName": "NITA",
+  "name": "NITAKLOANG",
+  "postalCode": "86152"
  },
  {
   "id": 5310070008,
   "districtId": 5310070,
-  "name": "WULIWUTIK"
+  "districtName": "NITA",
+  "name": "WULIWUTIK",
+  "postalCode": "86152"
  },
  {
   "id": 5310070009,
   "districtId": 5310070,
-  "name": "LADOGAHAR"
+  "districtName": "NITA",
+  "name": "LADOGAHAR",
+  "postalCode": "86152"
  },
  {
   "id": 5310070010,
   "districtId": 5310070,
-  "name": "RIIT"
+  "districtName": "NITA",
+  "name": "RIIT",
+  "postalCode": "86152"
  },
  {
   "id": 5310070011,
   "districtId": 5310070,
-  "name": "NIRANGKLIUNG"
+  "districtName": "NITA",
+  "name": "NIRANGKLIUNG",
+  "postalCode": "86152"
  },
  {
   "id": 5310070015,
   "districtId": 5310070,
-  "name": "MAHEBORA"
+  "districtName": "NITA",
+  "name": "MAHEBORA",
+  "postalCode": "86152"
  }
 ]

@@ -2,61 +2,85 @@
  {
   "id": 1208170001,
   "districtId": 1208170,
-  "name": "SENTANG"
+  "districtName": "KISARAN TIMUR",
+  "name": "SENTANG",
+  "postalCode": "21224"
  },
  {
   "id": 1208170002,
   "districtId": 1208170,
-  "name": "KEDAI LEDANG"
+  "districtName": "KISARAN TIMUR",
+  "name": "KEDAI LEDANG",
+  "postalCode": "21227"
  },
  {
   "id": 1208170003,
   "districtId": 1208170,
-  "name": "KISARAN NAGA"
+  "districtName": "KISARAN TIMUR",
+  "name": "KISARAN NAGA",
+  "postalCode": "21219"
  },
  {
   "id": 1208170004,
   "districtId": 1208170,
-  "name": "TELADAN"
+  "districtName": "KISARAN TIMUR",
+  "name": "TELADAN",
+  "postalCode": "21183"
  },
  {
   "id": 1208170005,
   "districtId": 1208170,
-  "name": "KISARAN TIMUR"
+  "districtName": "KISARAN TIMUR",
+  "name": "KISARAN TIMUR",
+  "postalCode": "21222"
  },
  {
   "id": 1208170006,
   "districtId": 1208170,
-  "name": "SELAWAN"
+  "districtName": "KISARAN TIMUR",
+  "name": "SELAWAN",
+  "postalCode": "21228"
  },
  {
   "id": 1208170007,
   "districtId": 1208170,
-  "name": "MUTIARA"
+  "districtName": "KISARAN TIMUR",
+  "name": "MUTIARA",
+  "postalCode": "24582"
  },
  {
   "id": 1208170008,
   "districtId": 1208170,
-  "name": "SI UMBUT BARU"
+  "districtName": "KISARAN TIMUR",
+  "name": "SI UMBUT BARU",
+  "postalCode": ""
  },
  {
   "id": 1208170009,
   "districtId": 1208170,
-  "name": "SIUMBUT - UMBUT"
+  "districtName": "KISARAN TIMUR",
+  "name": "SIUMBUT - UMBUT",
+  "postalCode": ""
  },
  {
   "id": 1208170010,
   "districtId": 1208170,
-  "name": "KARANG ANYER"
+  "districtName": "KISARAN TIMUR",
+  "name": "KARANG ANYER",
+  "postalCode": "23662"
  },
  {
   "id": 1208170011,
   "districtId": 1208170,
-  "name": "GAMBIR BARU"
+  "districtName": "KISARAN TIMUR",
+  "name": "GAMBIR BARU",
+  "postalCode": "21221"
  },
  {
   "id": 1208170012,
   "districtId": 1208170,
-  "name": "LESTARI"
+  "districtName": "KISARAN TIMUR",
+  "name": "LESTARI",
+  "postalCode": "24656"
  }
 ]

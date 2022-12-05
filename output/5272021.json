@@ -2,56 +2,78 @@
  {
   "id": 5272021001,
   "districtId": 5272021,
-  "name": "NITU"
+  "districtName": "RABA",
+  "name": "NITU",
+  "postalCode": "84119"
  },
  {
   "id": 5272021002,
   "districtId": 5272021,
-  "name": "RONTU"
+  "districtName": "RABA",
+  "name": "RONTU",
+  "postalCode": "84119"
  },
  {
   "id": 5272021003,
   "districtId": 5272021,
-  "name": "RABANGODU SELATAN"
+  "districtName": "RABA",
+  "name": "RABANGODU SELATAN",
+  "postalCode": "84113"
  },
  {
   "id": 5272021004,
   "districtId": 5272021,
-  "name": "RABANGODU UTARA"
+  "districtName": "RABA",
+  "name": "RABANGODU UTARA",
+  "postalCode": "84113"
  },
  {
   "id": 5272021005,
   "districtId": 5272021,
-  "name": "PENARAGA"
+  "districtName": "RABA",
+  "name": "PENARAGA",
+  "postalCode": "84115"
  },
  {
   "id": 5272021006,
   "districtId": 5272021,
-  "name": "RABADOMPU BARAT"
+  "districtName": "RABA",
+  "name": "RABADOMPU BARAT",
+  "postalCode": "84113"
  },
  {
   "id": 5272021007,
   "districtId": 5272021,
-  "name": "RABADOMPU TIMUR"
+  "districtName": "RABA",
+  "name": "RABADOMPU TIMUR",
+  "postalCode": "84113"
  },
  {
   "id": 5272021008,
   "districtId": 5272021,
-  "name": "KENDO"
+  "districtName": "RABA",
+  "name": "KENDO",
+  "postalCode": "84119"
  },
  {
   "id": 5272021009,
   "districtId": 5272021,
-  "name": "PENANAE"
+  "districtName": "RABA",
+  "name": "PENANAE",
+  "postalCode": "84119"
  },
  {
   "id": 5272021010,
   "districtId": 5272021,
-  "name": "RITE"
+  "districtName": "RABA",
+  "name": "RITE",
+  "postalCode": "84153"
  },
  {
   "id": 5272021011,
   "districtId": 5272021,
-  "name": "NTOBO"
+  "districtName": "RABA",
+  "name": "NTOBO",
+  "postalCode": "84119"
  }
 ]

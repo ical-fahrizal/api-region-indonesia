@@ -2,16 +2,22 @@
  {
   "id": 8106021002,
   "districtId": 8106021,
-  "name": "IHA"
+  "districtName": "HUAMUAL",
+  "name": "IHA",
+  "postalCode": "97562"
  },
  {
   "id": 8106021004,
   "districtId": 8106021,
-  "name": "LOKKI"
+  "districtName": "HUAMUAL",
+  "name": "LOKKI",
+  "postalCode": "97562"
  },
  {
   "id": 8106021005,
   "districtId": 8106021,
-  "name": "ARIATE"
+  "districtName": "HUAMUAL",
+  "name": "ARIATE",
+  "postalCode": "97562"
  }
 ]

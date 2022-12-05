@@ -2,31 +2,43 @@
  {
   "id": 3509220001,
   "districtId": 3509220,
-  "name": "KEMUNINGLLOR"
+  "districtName": "ARJASA",
+  "name": "KEMUNINGLLOR",
+  "postalCode": "68191"
  },
  {
   "id": 3509220002,
   "districtId": 3509220,
-  "name": "DARSONO"
+  "districtName": "ARJASA",
+  "name": "DARSONO",
+  "postalCode": "68191"
  },
  {
   "id": 3509220003,
   "districtId": 3509220,
-  "name": "ARJASA"
+  "districtName": "ARJASA",
+  "name": "ARJASA",
+  "postalCode": "68191"
  },
  {
   "id": 3509220004,
   "districtId": 3509220,
-  "name": "BITING"
+  "districtName": "ARJASA",
+  "name": "BITING",
+  "postalCode": "53454"
  },
  {
   "id": 3509220005,
   "districtId": 3509220,
-  "name": "CANDIJATI"
+  "districtName": "ARJASA",
+  "name": "CANDIJATI",
+  "postalCode": "68191"
  },
  {
   "id": 3509220006,
   "districtId": 3509220,
-  "name": "KAMAL"
+  "districtName": "ARJASA",
+  "name": "KAMAL",
+  "postalCode": "30653"
  }
 ]

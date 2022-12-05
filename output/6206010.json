@@ -2,26 +2,36 @@
  {
   "id": 6206010001,
   "districtId": 6206010,
-  "name": "KUALA JELAI"
+  "districtName": "JELAI",
+  "name": "KUALA JELAI",
+  "postalCode": "74171"
  },
  {
   "id": 6206010002,
   "districtId": 6206010,
-  "name": "SUNGAI BARU"
+  "districtName": "JELAI",
+  "name": "SUNGAI BARU",
+  "postalCode": "29282"
  },
  {
   "id": 6206010003,
   "districtId": 6206010,
-  "name": "SUNGAI BUNDUNG"
+  "districtName": "JELAI",
+  "name": "SUNGAI BUNDUNG",
+  "postalCode": ""
  },
  {
   "id": 6206010004,
   "districtId": 6206010,
-  "name": "SUNGAI RAJA"
+  "districtName": "JELAI",
+  "name": "SUNGAI RAJA",
+  "postalCode": "21454"
  },
  {
   "id": 6206010006,
   "districtId": 6206010,
-  "name": "PULAU NIBUNG"
+  "districtName": "JELAI",
+  "name": "PULAU NIBUNG",
+  "postalCode": "74171"
  }
 ]

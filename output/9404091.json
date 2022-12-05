@@ -2,31 +2,43 @@
  {
   "id": 9404091001,
   "districtId": 9404091,
-  "name": "MANUNGGAL JAYA"
+  "districtName": "MAKIMI",
+  "name": "MANUNGGAL JAYA",
+  "postalCode": "29256"
  },
  {
   "id": 9404091002,
   "districtId": 9404091,
-  "name": "MAIDEI"
+  "districtName": "MAKIMI",
+  "name": "MAIDEI",
+  "postalCode": "98861"
  },
  {
   "id": 9404091003,
   "districtId": 9404091,
-  "name": "LEGARI JAYA"
+  "districtName": "MAKIMI",
+  "name": "LEGARI JAYA",
+  "postalCode": "98861"
  },
  {
   "id": 9404091004,
   "districtId": 9404091,
-  "name": "BIHA"
+  "districtName": "MAKIMI",
+  "name": "BIHA",
+  "postalCode": "34875"
  },
  {
   "id": 9404091005,
   "districtId": 9404091,
-  "name": "NIFASI"
+  "districtName": "MAKIMI",
+  "name": "NIFASI",
+  "postalCode": "98861"
  },
  {
   "id": 9404091006,
   "districtId": 9404091,
-  "name": "MAKIMI"
+  "districtName": "MAKIMI",
+  "name": "MAKIMI",
+  "postalCode": "98861"
  }
 ]

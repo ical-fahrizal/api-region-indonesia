@@ -2,71 +2,99 @@
  {
   "id": 3520060009,
   "districtId": 3520060,
-  "name": "RINGINAGUNG"
+  "districtName": "MAGETAN",
+  "name": "RINGINAGUNG",
+  "postalCode": "63319"
  },
  {
   "id": 3520060013,
   "districtId": 3520060,
-  "name": "CANDIREJO"
+  "districtName": "MAGETAN",
+  "name": "CANDIREJO",
+  "postalCode": "51274"
  },
  {
   "id": 3520060014,
   "districtId": 3520060,
-  "name": "SELOSARI"
+  "districtName": "MAGETAN",
+  "name": "SELOSARI",
+  "postalCode": "64173"
  },
  {
   "id": 3520060015,
   "districtId": 3520060,
-  "name": "MAGETAN"
+  "districtName": "MAGETAN",
+  "name": "MAGETAN",
+  "postalCode": "63319"
  },
  {
   "id": 3520060016,
   "districtId": 3520060,
-  "name": "BULUKERTO"
+  "districtName": "MAGETAN",
+  "name": "BULUKERTO",
+  "postalCode": "57697"
  },
  {
   "id": 3520060017,
   "districtId": 3520060,
-  "name": "MANGKUJAYAN"
+  "districtName": "MAGETAN",
+  "name": "MANGKUJAYAN",
+  "postalCode": "63316"
  },
  {
   "id": 3520060018,
   "districtId": 3520060,
-  "name": "TAMBAKREJO"
+  "districtName": "MAGETAN",
+  "name": "TAMBAKREJO",
+  "postalCode": "54391"
  },
  {
   "id": 3520060019,
   "districtId": 3520060,
-  "name": "TAMBRAN"
+  "districtName": "MAGETAN",
+  "name": "TAMBRAN",
+  "postalCode": "63318"
  },
  {
   "id": 3520060020,
   "districtId": 3520060,
-  "name": "KEBONAGUNG"
+  "districtName": "MAGETAN",
+  "name": "KEBONAGUNG",
+  "postalCode": "56151"
  },
  {
   "id": 3520060021,
   "districtId": 3520060,
-  "name": "KEPOLOREJO"
+  "districtName": "MAGETAN",
+  "name": "KEPOLOREJO",
+  "postalCode": "63311"
  },
  {
   "id": 3520060022,
   "districtId": 3520060,
-  "name": "TAWANGANOM"
+  "districtName": "MAGETAN",
+  "name": "TAWANGANOM",
+  "postalCode": "63312"
  },
  {
   "id": 3520060023,
   "districtId": 3520060,
-  "name": "SUKOWINANGUN"
+  "districtName": "MAGETAN",
+  "name": "SUKOWINANGUN",
+  "postalCode": "63319"
  },
  {
   "id": 3520060024,
   "districtId": 3520060,
-  "name": "BARON"
+  "districtName": "MAGETAN",
+  "name": "BARON",
+  "postalCode": "64394"
  },
  {
   "id": 3520060025,
   "districtId": 3520060,
-  "name": "PURWOSARI"
+  "districtName": "MAGETAN",
+  "name": "PURWOSARI",
+  "postalCode": "24582"
  }
 ]

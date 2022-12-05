@@ -2,46 +2,64 @@
  {
   "id": 9401020004,
   "districtId": 9401020,
-  "name": "WAMBI"
+  "districtName": "OKABA",
+  "name": "WAMBI",
+  "postalCode": "99654"
  },
  {
   "id": 9401020005,
   "districtId": 9401020,
-  "name": "DUFMIRA"
+  "districtName": "OKABA",
+  "name": "DUFMIRA",
+  "postalCode": ""
  },
  {
   "id": 9401020006,
   "districtId": 9401020,
-  "name": "IWOL"
+  "districtName": "OKABA",
+  "name": "IWOL",
+  "postalCode": "99654"
  },
  {
   "id": 9401020007,
   "districtId": 9401020,
-  "name": "MAKALING"
+  "districtName": "OKABA",
+  "name": "MAKALING",
+  "postalCode": "99654"
  },
  {
   "id": 9401020008,
   "districtId": 9401020,
-  "name": "OKABA"
+  "districtName": "OKABA",
+  "name": "OKABA",
+  "postalCode": "99654"
  },
  {
   "id": 9401020009,
   "districtId": 9401020,
-  "name": "ALAKU"
+  "districtName": "OKABA",
+  "name": "ALAKU",
+  "postalCode": "99654"
  },
  {
   "id": 9401020010,
   "districtId": 9401020,
-  "name": "ALATEP"
+  "districtName": "OKABA",
+  "name": "ALATEP",
+  "postalCode": ""
  },
  {
   "id": 9401020011,
   "districtId": 9401020,
-  "name": "SANGGASE"
+  "districtName": "OKABA",
+  "name": "SANGGASE",
+  "postalCode": "99654"
  },
  {
   "id": 9401020012,
   "districtId": 9401020,
-  "name": "ES WAMBI"
+  "districtName": "OKABA",
+  "name": "ES WAMBI",
+  "postalCode": ""
  }
 ]

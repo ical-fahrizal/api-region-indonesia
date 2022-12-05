@@ -2,41 +2,57 @@
  {
   "id": 6305011001,
   "districtId": 6305011,
-  "name": "MATANG BATAS"
+  "districtName": "HATUNGUN",
+  "name": "MATANG BATAS",
+  "postalCode": "71184"
  },
  {
   "id": 6305011002,
   "districtId": 6305011,
-  "name": "BURAKAI"
+  "districtName": "HATUNGUN",
+  "name": "BURAKAI",
+  "postalCode": "71184"
  },
  {
   "id": 6305011003,
   "districtId": 6305011,
-  "name": "HATUNGUN"
+  "districtName": "HATUNGUN",
+  "name": "HATUNGUN",
+  "postalCode": "71184"
  },
  {
   "id": 6305011004,
   "districtId": 6305011,
-  "name": "TARUNGIN"
+  "districtName": "HATUNGUN",
+  "name": "TARUNGIN",
+  "postalCode": "71184"
  },
  {
   "id": 6305011005,
   "districtId": 6305011,
-  "name": "BAGAK"
+  "districtName": "HATUNGUN",
+  "name": "BAGAK",
+  "postalCode": "79364"
  },
  {
   "id": 6305011006,
   "districtId": 6305011,
-  "name": "ASAM RANDAH"
+  "districtName": "HATUNGUN",
+  "name": "ASAM RANDAH",
+  "postalCode": "71184"
  },
  {
   "id": 6305011007,
   "districtId": 6305011,
-  "name": "BATU HAPU"
+  "districtName": "HATUNGUN",
+  "name": "BATU HAPU",
+  "postalCode": "71184"
  },
  {
   "id": 6305011008,
   "districtId": 6305011,
-  "name": "KAMBANG KUNING"
+  "districtName": "HATUNGUN",
+  "name": "KAMBANG KUNING",
+  "postalCode": "71184"
  }
 ]

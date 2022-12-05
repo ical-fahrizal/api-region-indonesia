@@ -2,86 +2,120 @@
  {
   "id": 3524030001,
   "districtId": 3524030,
-  "name": "KEDUNGMENTAWAR"
+  "districtName": "NGIMBANG",
+  "name": "KEDUNGMENTAWAR",
+  "postalCode": "62273"
  },
  {
   "id": 3524030002,
   "districtId": 3524030,
-  "name": "GANGGANTINGAN"
+  "districtName": "NGIMBANG",
+  "name": "GANGGANTINGAN",
+  "postalCode": "62273"
  },
  {
   "id": 3524030003,
   "districtId": 3524030,
-  "name": "GEBANGANGKRIK"
+  "districtName": "NGIMBANG",
+  "name": "GEBANGANGKRIK",
+  "postalCode": "62273"
  },
  {
   "id": 3524030005,
   "districtId": 3524030,
-  "name": "MENDOGO"
+  "districtName": "NGIMBANG",
+  "name": "MENDOGO",
+  "postalCode": "62292"
  },
  {
   "id": 3524030006,
   "districtId": 3524030,
-  "name": "DURIKEDUNGJERO"
+  "districtName": "NGIMBANG",
+  "name": "DURIKEDUNGJERO",
+  "postalCode": "62273"
  },
  {
   "id": 3524030007,
   "districtId": 3524030,
-  "name": "LAMONGREJO"
+  "districtName": "NGIMBANG",
+  "name": "LAMONGREJO",
+  "postalCode": "62273"
  },
  {
   "id": 3524030008,
   "districtId": 3524030,
-  "name": "LAWAK"
+  "districtName": "NGIMBANG",
+  "name": "LAWAK",
+  "postalCode": "62273"
  },
  {
   "id": 3524030009,
   "districtId": 3524030,
-  "name": "PURWOKERTO"
+  "districtName": "NGIMBANG",
+  "name": "PURWOKERTO",
+  "postalCode": "51371"
  },
  {
   "id": 3524030010,
   "districtId": 3524030,
-  "name": "NGASEMLEMAHBANG"
+  "districtName": "NGIMBANG",
+  "name": "NGASEMLEMAHBANG",
+  "postalCode": ""
  },
  {
   "id": 3524030012,
   "districtId": 3524030,
-  "name": "SLAHARWOTAN"
+  "districtName": "NGIMBANG",
+  "name": "SLAHARWOTAN",
+  "postalCode": "62273"
  },
  {
   "id": 3524030013,
   "districtId": 3524030,
-  "name": "KAKATPENJALIN"
+  "districtName": "NGIMBANG",
+  "name": "KAKATPENJALIN",
+  "postalCode": "62273"
  },
  {
   "id": 3524030014,
   "districtId": 3524030,
-  "name": "DRUJUGURIT"
+  "districtName": "NGIMBANG",
+  "name": "DRUJUGURIT",
+  "postalCode": "62273"
  },
  {
   "id": 3524030015,
   "districtId": 3524030,
-  "name": "MUNUNGREJO"
+  "districtName": "NGIMBANG",
+  "name": "MUNUNGREJO",
+  "postalCode": "62273"
  },
  {
   "id": 3524030016,
   "districtId": 3524030,
-  "name": "NGIMBANG"
+  "districtName": "NGIMBANG",
+  "name": "NGIMBANG",
+  "postalCode": "62273"
  },
  {
   "id": 3524030017,
   "districtId": 3524030,
-  "name": "SENDANGREJO"
+  "districtName": "NGIMBANG",
+  "name": "SENDANGREJO",
+  "postalCode": "57673"
  },
  {
   "id": 3524030018,
   "districtId": 3524030,
-  "name": "GIRIK"
+  "districtName": "NGIMBANG",
+  "name": "GIRIK",
+  "postalCode": "62273"
  },
  {
   "id": 3524030019,
   "districtId": 3524030,
-  "name": "TLEMANG"
+  "districtName": "NGIMBANG",
+  "name": "TLEMANG",
+  "postalCode": "62273"
  }
 ]

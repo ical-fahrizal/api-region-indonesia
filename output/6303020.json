@@ -2,66 +2,92 @@
  {
   "id": 6303020001,
   "districtId": 6303020,
-  "name": "SUNGAI KUPANG"
+  "districtName": "GAMBUT",
+  "name": "SUNGAI KUPANG",
+  "postalCode": ""
  },
  {
   "id": 6303020002,
   "districtId": 6303020,
-  "name": "KELADAN BARU"
+  "districtName": "GAMBUT",
+  "name": "KELADAN BARU",
+  "postalCode": "70652"
  },
  {
   "id": 6303020004,
   "districtId": 6303020,
-  "name": "GUNTUNG PAPUYU"
+  "districtName": "GAMBUT",
+  "name": "GUNTUNG PAPUYU",
+  "postalCode": "70652"
  },
  {
   "id": 6303020005,
   "districtId": 6303020,
-  "name": "MAKMUR"
+  "districtName": "GAMBUT",
+  "name": "MAKMUR",
+  "postalCode": "24562"
  },
  {
   "id": 6303020006,
   "districtId": 6303020,
-  "name": "TAMBAK SIRANG DARAT"
+  "districtName": "GAMBUT",
+  "name": "TAMBAK SIRANG DARAT",
+  "postalCode": "70652"
  },
  {
   "id": 6303020007,
   "districtId": 6303020,
-  "name": "TAMBAK SIRANG BARU"
+  "districtName": "GAMBUT",
+  "name": "TAMBAK SIRANG BARU",
+  "postalCode": "70652"
  },
  {
   "id": 6303020008,
   "districtId": 6303020,
-  "name": "TAMBAK SIRANG LAUT"
+  "districtName": "GAMBUT",
+  "name": "TAMBAK SIRANG LAUT",
+  "postalCode": "70652"
  },
  {
   "id": 6303020009,
   "districtId": 6303020,
-  "name": "MALINTANG"
+  "districtName": "GAMBUT",
+  "name": "MALINTANG",
+  "postalCode": "70652"
  },
  {
   "id": 6303020010,
   "districtId": 6303020,
-  "name": "MALINTANG BARU"
+  "districtName": "GAMBUT",
+  "name": "MALINTANG BARU",
+  "postalCode": "70652"
  },
  {
   "id": 6303020011,
   "districtId": 6303020,
-  "name": "KAYU BAWANG"
+  "districtName": "GAMBUT",
+  "name": "KAYU BAWANG",
+  "postalCode": "71315"
  },
  {
   "id": 6303020012,
   "districtId": 6303020,
-  "name": "GAMBUT"
+  "districtName": "GAMBUT",
+  "name": "GAMBUT",
+  "postalCode": "70652"
  },
  {
   "id": 6303020013,
   "districtId": 6303020,
-  "name": "BANYU HIRANG"
+  "districtName": "GAMBUT",
+  "name": "BANYU HIRANG",
+  "postalCode": "71452"
  },
  {
   "id": 6303020014,
   "districtId": 6303020,
-  "name": "GAMBUT BARAT"
+  "districtName": "GAMBUT",
+  "name": "GAMBUT BARAT",
+  "postalCode": "70652"
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 3212050001,
   "districtId": 3212050,
-  "name": "TUNGGULPAYUNG"
+  "districtName": "LELEA",
+  "name": "TUNGGULPAYUNG",
+  "postalCode": "45261"
  },
  {
   "id": 3212050005,
   "districtId": 3212050,
-  "name": "PANGAUBAN"
+  "districtName": "LELEA",
+  "name": "PANGAUBAN",
+  "postalCode": "40561"
  },
  {
   "id": 3212050006,
   "districtId": 3212050,
-  "name": "TELAGASARI"
+  "districtName": "LELEA",
+  "name": "TELAGASARI",
+  "postalCode": "45261"
  },
  {
   "id": 3212050007,
   "districtId": 3212050,
-  "name": "LANGGENGSARI"
+  "districtName": "LELEA",
+  "name": "LANGGENGSARI",
+  "postalCode": "45261"
  },
  {
   "id": 3212050008,
   "districtId": 3212050,
-  "name": "TAMANSARI"
+  "districtName": "LELEA",
+  "name": "TAMANSARI",
+  "postalCode": "35366"
  },
  {
   "id": 3212050009,
   "districtId": 3212050,
-  "name": "LELEA"
+  "districtName": "LELEA",
+  "name": "LELEA",
+  "postalCode": "45261"
  },
  {
   "id": 3212050011,
   "districtId": 3212050,
-  "name": "TEMPELKULON"
+  "districtName": "LELEA",
+  "name": "TEMPELKULON",
+  "postalCode": "45261"
  }
 ]

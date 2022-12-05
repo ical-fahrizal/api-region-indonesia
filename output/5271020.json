@@ -2,46 +2,64 @@
  {
   "id": 5271020001,
   "districtId": 5271020,
-  "name": "PAGESANGAN"
+  "districtName": "MATARAM",
+  "name": "PAGESANGAN",
+  "postalCode": "60233"
  },
  {
   "id": 5271020002,
   "districtId": 5271020,
-  "name": "MATARAM TIMUR"
+  "districtName": "MATARAM",
+  "name": "MATARAM TIMUR",
+  "postalCode": "83121"
  },
  {
   "id": 5271020003,
   "districtId": 5271020,
-  "name": "PAGESANGAN BARAT"
+  "districtName": "MATARAM",
+  "name": "PAGESANGAN BARAT",
+  "postalCode": "83127"
  },
  {
   "id": 5271020004,
   "districtId": 5271020,
-  "name": "PAGESANGAN TIMUR"
+  "districtName": "MATARAM",
+  "name": "PAGESANGAN TIMUR",
+  "postalCode": "83127"
  },
  {
   "id": 5271020005,
   "districtId": 5271020,
-  "name": "PEJANGGIK"
+  "districtName": "MATARAM",
+  "name": "PEJANGGIK",
+  "postalCode": "83127"
  },
  {
   "id": 5271020006,
   "districtId": 5271020,
-  "name": "PUNIA"
+  "districtName": "MATARAM",
+  "name": "PUNIA",
+  "postalCode": "83127"
  },
  {
   "id": 5271020007,
   "districtId": 5271020,
-  "name": "PAGUTAN"
+  "districtName": "MATARAM",
+  "name": "PAGUTAN",
+  "postalCode": "57662"
  },
  {
   "id": 5271020008,
   "districtId": 5271020,
-  "name": "PAGUTAN BARAT"
+  "districtName": "MATARAM",
+  "name": "PAGUTAN BARAT",
+  "postalCode": "83127"
  },
  {
   "id": 5271020009,
   "districtId": 5271020,
-  "name": "PAGUTAN TIMUR"
+  "districtName": "MATARAM",
+  "name": "PAGUTAN TIMUR",
+  "postalCode": "83127"
  }
 ]

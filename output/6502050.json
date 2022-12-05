@@ -2,46 +2,64 @@
  {
   "id": 6502050001,
   "districtId": 6502050,
-  "name": "GUNUNG SERIANG"
+  "districtName": "TANJUNG SELOR",
+  "name": "GUNUNG SERIANG",
+  "postalCode": "77212"
  },
  {
   "id": 6502050002,
   "districtId": 6502050,
-  "name": "TANJUNG SELOR HULU"
+  "districtName": "TANJUNG SELOR",
+  "name": "TANJUNG SELOR HULU",
+  "postalCode": ""
  },
  {
   "id": 6502050003,
   "districtId": 6502050,
-  "name": "JELARAI SELOR"
+  "districtName": "TANJUNG SELOR",
+  "name": "JELARAI SELOR",
+  "postalCode": "77212"
  },
  {
   "id": 6502050004,
   "districtId": 6502050,
-  "name": "GUNUNG SARI"
+  "districtName": "TANJUNG SELOR",
+  "name": "GUNUNG SARI",
+  "postalCode": "28471"
  },
  {
   "id": 6502050005,
   "districtId": 6502050,
-  "name": "BUMI RAHAYU"
+  "districtName": "TANJUNG SELOR",
+  "name": "BUMI RAHAYU",
+  "postalCode": "73593"
  },
  {
   "id": 6502050006,
   "districtId": 6502050,
-  "name": "APUNG"
+  "districtName": "TANJUNG SELOR",
+  "name": "APUNG",
+  "postalCode": "77212"
  },
  {
   "id": 6502050007,
   "districtId": 6502050,
-  "name": "TENGKAPAK"
+  "districtName": "TANJUNG SELOR",
+  "name": "TENGKAPAK",
+  "postalCode": "77212"
  },
  {
   "id": 6502050008,
   "districtId": 6502050,
-  "name": "TANJUNG SELOR TIMUR"
+  "districtName": "TANJUNG SELOR",
+  "name": "TANJUNG SELOR TIMUR",
+  "postalCode": "77212"
  },
  {
   "id": 6502050009,
   "districtId": 6502050,
-  "name": "TANJUNG SELOR HILIR"
+  "districtName": "TANJUNG SELOR",
+  "name": "TANJUNG SELOR HILIR",
+  "postalCode": ""
  }
 ]

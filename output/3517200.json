@@ -2,66 +2,92 @@
  {
   "id": 3517200001,
   "districtId": 3517200,
-  "name": "KLITIH"
+  "districtName": "PLANDAAN",
+  "name": "KLITIH",
+  "postalCode": "59561"
  },
  {
   "id": 3517200002,
   "districtId": 3517200,
-  "name": "PLABUHAN"
+  "districtName": "PLANDAAN",
+  "name": "PLABUHAN",
+  "postalCode": "61456"
  },
  {
   "id": 3517200003,
   "districtId": 3517200,
-  "name": "KAMPUNGBARU"
+  "districtName": "PLANDAAN",
+  "name": "KAMPUNGBARU",
+  "postalCode": "35592"
  },
  {
   "id": 3517200004,
   "districtId": 3517200,
-  "name": "GEBANG BUNDER"
+  "districtName": "PLANDAAN",
+  "name": "GEBANG BUNDER",
+  "postalCode": "61456"
  },
  {
   "id": 3517200005,
   "districtId": 3517200,
-  "name": "JATIMLEREK"
+  "districtName": "PLANDAAN",
+  "name": "JATIMLEREK",
+  "postalCode": "61456"
  },
  {
   "id": 3517200006,
   "districtId": 3517200,
-  "name": "KARANG MOJO"
+  "districtName": "PLANDAAN",
+  "name": "KARANG MOJO",
+  "postalCode": "61456"
  },
  {
   "id": 3517200007,
   "districtId": 3517200,
-  "name": "PLANDAAN"
+  "districtName": "PLANDAAN",
+  "name": "PLANDAAN",
+  "postalCode": "66229"
  },
  {
   "id": 3517200008,
   "districtId": 3517200,
-  "name": "BANGSRI"
+  "districtName": "PLANDAAN",
+  "name": "BANGSRI",
+  "postalCode": "59453"
  },
  {
   "id": 3517200009,
   "districtId": 3517200,
-  "name": "PURISEMANDING"
+  "districtName": "PLANDAAN",
+  "name": "PURISEMANDING",
+  "postalCode": "61456"
  },
  {
   "id": 3517200010,
   "districtId": 3517200,
-  "name": "TONDOWULAN"
+  "districtName": "PLANDAAN",
+  "name": "TONDOWULAN",
+  "postalCode": "61456"
  },
  {
   "id": 3517200011,
   "districtId": 3517200,
-  "name": "DARUREJO"
+  "districtName": "PLANDAAN",
+  "name": "DARUREJO",
+  "postalCode": "61456"
  },
  {
   "id": 3517200012,
   "districtId": 3517200,
-  "name": "SUMBERJO"
+  "districtName": "PLANDAAN",
+  "name": "SUMBERJO",
+  "postalCode": "34396"
  },
  {
   "id": 3517200013,
   "districtId": 3517200,
-  "name": "JIPURAPAH"
+  "districtName": "PLANDAAN",
+  "name": "JIPURAPAH",
+  "postalCode": "61456"
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 1371010001,
   "districtId": 1371010,
-  "name": "TELUK KABUNG SELATAN"
+  "districtName": "BUNGUS TELUK KABUNG",
+  "name": "TELUK KABUNG SELATAN",
+  "postalCode": "25237"
  },
  {
   "id": 1371010007,
   "districtId": 1371010,
-  "name": "BUNGUS SELATAN"
+  "districtName": "BUNGUS TELUK KABUNG",
+  "name": "BUNGUS SELATAN",
+  "postalCode": "25237"
  },
  {
   "id": 1371010014,
   "districtId": 1371010,
-  "name": "TELUK KABUNG TENGAH"
+  "districtName": "BUNGUS TELUK KABUNG",
+  "name": "TELUK KABUNG TENGAH",
+  "postalCode": "25237"
  },
  {
   "id": 1371010015,
   "districtId": 1371010,
-  "name": "TELUK KABUNG UTARA"
+  "districtName": "BUNGUS TELUK KABUNG",
+  "name": "TELUK KABUNG UTARA",
+  "postalCode": "25237"
  },
  {
   "id": 1371010016,
   "districtId": 1371010,
-  "name": "BUNGUS TIMUR"
+  "districtName": "BUNGUS TELUK KABUNG",
+  "name": "BUNGUS TIMUR",
+  "postalCode": "25237"
  },
  {
   "id": 1371010017,
   "districtId": 1371010,
-  "name": "BUNGUS BARAT"
+  "districtName": "BUNGUS TELUK KABUNG",
+  "name": "BUNGUS BARAT",
+  "postalCode": "25237"
  }
 ]

@@ -2,51 +2,71 @@
  {
   "id": 7210090001,
   "districtId": 7210090,
-  "name": "BOBO"
+  "districtName": "DOLO BARAT",
+  "name": "BOBO",
+  "postalCode": "94361"
  },
  {
   "id": 7210090002,
   "districtId": 7210090,
-  "name": "MANTIKOLE"
+  "districtName": "DOLO BARAT",
+  "name": "MANTIKOLE",
+  "postalCode": "94361"
  },
  {
   "id": 7210090003,
   "districtId": 7210090,
-  "name": "PESAKU"
+  "districtName": "DOLO BARAT",
+  "name": "PESAKU",
+  "postalCode": "94361"
  },
  {
   "id": 7210090004,
   "districtId": 7210090,
-  "name": "BALOMOA"
+  "districtName": "DOLO BARAT",
+  "name": "BALOMOA",
+  "postalCode": ""
  },
  {
   "id": 7210090005,
   "districtId": 7210090,
-  "name": "RARAMPADENDE"
+  "districtName": "DOLO BARAT",
+  "name": "RARAMPADENDE",
+  "postalCode": "94361"
  },
  {
   "id": 7210090006,
   "districtId": 7210090,
-  "name": "BALUMPEWA"
+  "districtName": "DOLO BARAT",
+  "name": "BALUMPEWA",
+  "postalCode": "94361"
  },
  {
   "id": 7210090007,
   "districtId": 7210090,
-  "name": "KALEKE"
+  "districtName": "DOLO BARAT",
+  "name": "KALEKE",
+  "postalCode": "94361"
  },
  {
   "id": 7210090009,
   "districtId": 7210090,
-  "name": "KALUNGKUTINGGU"
+  "districtName": "DOLO BARAT",
+  "name": "KALUNGKUTINGGU",
+  "postalCode": ""
  },
  {
   "id": 7210090010,
   "districtId": 7210090,
-  "name": "SIBONU"
+  "districtName": "DOLO BARAT",
+  "name": "SIBONU",
+  "postalCode": "94361"
  },
  {
   "id": 7210090012,
   "districtId": 7210090,
-  "name": "BALAROA PEWUNU"
+  "districtName": "DOLO BARAT",
+  "name": "BALAROA PEWUNU",
+  "postalCode": ""
  }
 ]

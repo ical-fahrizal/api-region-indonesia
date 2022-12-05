@@ -2,21 +2,29 @@
  {
   "id": 1509022001,
   "districtId": 1509022,
-  "name": "SUNGAI MENGKUANG"
+  "districtName": "RIMBO TENGAH",
+  "name": "SUNGAI MENGKUANG",
+  "postalCode": "37211"
  },
  {
   "id": 1509022002,
   "districtId": 1509022,
-  "name": "SUNGAI BULUH"
+  "districtName": "RIMBO TENGAH",
+  "name": "SUNGAI BULUH",
+  "postalCode": "25586"
  },
  {
   "id": 1509022003,
   "districtId": 1509022,
-  "name": "KELURAHAN PASIR PUTIH"
+  "districtName": "RIMBO TENGAH",
+  "name": "KELURAHAN PASIR PUTIH",
+  "postalCode": ""
  },
  {
   "id": 1509022004,
   "districtId": 1509022,
-  "name": "KELURAHAN CADIKA"
+  "districtName": "RIMBO TENGAH",
+  "name": "KELURAHAN CADIKA",
+  "postalCode": ""
  }
 ]

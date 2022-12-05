@@ -2,41 +2,57 @@
  {
   "id": 8108041001,
   "districtId": 8108041,
-  "name": "WAKARLELI"
+  "districtName": "MOA",
+  "name": "WAKARLELI",
+  "postalCode": "97454"
  },
  {
   "id": 8108041002,
   "districtId": 8108041,
-  "name": "KAIWATU"
+  "districtName": "MOA",
+  "name": "KAIWATU",
+  "postalCode": "97454"
  },
  {
   "id": 8108041003,
   "districtId": 8108041,
-  "name": "PATTI"
+  "districtName": "MOA",
+  "name": "PATTI",
+  "postalCode": "97454"
  },
  {
   "id": 8108041004,
   "districtId": 8108041,
-  "name": "WERWARU"
+  "districtName": "MOA",
+  "name": "WERWARU",
+  "postalCode": "97454"
  },
  {
   "id": 8108041005,
   "districtId": 8108041,
-  "name": "KLIS"
+  "districtName": "MOA",
+  "name": "KLIS",
+  "postalCode": "97454"
  },
  {
   "id": 8108041006,
   "districtId": 8108041,
-  "name": "TOUNWAWAN"
+  "districtName": "MOA",
+  "name": "TOUNWAWAN",
+  "postalCode": "97454"
  },
  {
   "id": 8108041007,
   "districtId": 8108041,
-  "name": "MOAIN"
+  "districtName": "MOA",
+  "name": "MOAIN",
+  "postalCode": "97454"
  },
  {
   "id": 8108041008,
   "districtId": 8108041,
-  "name": "KELURAHAN TIAKUR"
+  "districtName": "MOA",
+  "name": "KELURAHAN TIAKUR",
+  "postalCode": ""
  }
 ]

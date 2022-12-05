@@ -2,86 +2,120 @@
  {
   "id": 3210200001,
   "districtId": 3210200,
-  "name": "CIBOGOR"
+  "districtName": "LIGUNG",
+  "name": "CIBOGOR",
+  "postalCode": "16124"
  },
  {
   "id": 3210200002,
   "districtId": 3210200,
-  "name": "KERTASARI"
+  "districtName": "LIGUNG",
+  "name": "KERTASARI",
+  "postalCode": "31658"
  },
  {
   "id": 3210200003,
   "districtId": 3210200,
-  "name": "GANDAWESI"
+  "districtName": "LIGUNG",
+  "name": "GANDAWESI",
+  "postalCode": "45456"
  },
  {
   "id": 3210200004,
   "districtId": 3210200,
-  "name": "BEUSI"
+  "districtName": "LIGUNG",
+  "name": "BEUSI",
+  "postalCode": "45456"
  },
  {
   "id": 3210200005,
   "districtId": 3210200,
-  "name": "TEGALAREN"
+  "districtName": "LIGUNG",
+  "name": "TEGALAREN",
+  "postalCode": "45456"
  },
  {
   "id": 3210200008,
   "districtId": 3210200,
-  "name": "WANASALAM"
+  "districtName": "LIGUNG",
+  "name": "WANASALAM",
+  "postalCode": "45456"
  },
  {
   "id": 3210200009,
   "districtId": 3210200,
-  "name": "LIGUNG LOR"
+  "districtName": "LIGUNG",
+  "name": "LIGUNG LOR",
+  "postalCode": "45456"
  },
  {
   "id": 3210200010,
   "districtId": 3210200,
-  "name": "LIGUNG"
+  "districtName": "LIGUNG",
+  "name": "LIGUNG",
+  "postalCode": "45456"
  },
  {
   "id": 3210200011,
   "districtId": 3210200,
-  "name": "MAJASARI"
+  "districtName": "LIGUNG",
+  "name": "MAJASARI",
+  "postalCode": "31124"
  },
  {
   "id": 3210200012,
   "districtId": 3210200,
-  "name": "SUKAWERA"
+  "districtName": "LIGUNG",
+  "name": "SUKAWERA",
+  "postalCode": "45274"
  },
  {
   "id": 3210200013,
   "districtId": 3210200,
-  "name": "BANTARWARU"
+  "districtName": "LIGUNG",
+  "name": "BANTARWARU",
+  "postalCode": "45264"
  },
  {
   "id": 3210200014,
   "districtId": 3210200,
-  "name": "AMPEL"
+  "districtName": "LIGUNG",
+  "name": "AMPEL",
+  "postalCode": "45456"
  },
  {
   "id": 3210200015,
   "districtId": 3210200,
-  "name": "LEUWEUNGHAPIT"
+  "districtName": "LIGUNG",
+  "name": "LEUWEUNGHAPIT",
+  "postalCode": "45456"
  },
  {
   "id": 3210200016,
   "districtId": 3210200,
-  "name": "KODASARI"
+  "districtName": "LIGUNG",
+  "name": "KODASARI",
+  "postalCode": "45456"
  },
  {
   "id": 3210200017,
   "districtId": 3210200,
-  "name": "KEDUNGKANCANA"
+  "districtName": "LIGUNG",
+  "name": "KEDUNGKANCANA",
+  "postalCode": "45456"
  },
  {
   "id": 3210200018,
   "districtId": 3210200,
-  "name": "LEUWILIANG BARU"
+  "districtName": "LIGUNG",
+  "name": "LEUWILIANG BARU",
+  "postalCode": "45456"
  },
  {
   "id": 3210200019,
   "districtId": 3210200,
-  "name": "KEDUNGSARI"
+  "districtName": "LIGUNG",
+  "name": "KEDUNGSARI",
+  "postalCode": "28123"
  }
 ]

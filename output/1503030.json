@@ -2,71 +2,99 @@
  {
   "id": 1503030008,
   "districtId": 1503030,
-  "name": "PEMATANG KULIM"
+  "districtName": "PELAWAN",
+  "name": "PEMATANG KULIM",
+  "postalCode": ""
  },
  {
   "id": 1503030009,
   "districtId": 1503030,
-  "name": "BATU PUTIH"
+  "districtName": "PELAWAN",
+  "name": "BATU PUTIH",
+  "postalCode": "37482"
  },
  {
   "id": 1503030010,
   "districtId": 1503030,
-  "name": "PELAWAN"
+  "districtName": "PELAWAN",
+  "name": "PELAWAN",
+  "postalCode": "37482"
  },
  {
   "id": 1503030011,
   "districtId": 1503030,
-  "name": "SUNGAI MERAH"
+  "districtName": "PELAWAN",
+  "name": "SUNGAI MERAH",
+  "postalCode": "37482"
  },
  {
   "id": 1503030012,
   "districtId": 1503030,
-  "name": "PENEGAH"
+  "districtName": "PELAWAN",
+  "name": "PENEGAH",
+  "postalCode": "37482"
  },
  {
   "id": 1503030013,
   "districtId": 1503030,
-  "name": "PULAU ARO"
+  "districtName": "PELAWAN",
+  "name": "PULAU ARO",
+  "postalCode": "37482"
  },
  {
   "id": 1503030014,
   "districtId": 1503030,
-  "name": "BUKIT"
+  "districtName": "PELAWAN",
+  "name": "BUKIT",
+  "postalCode": "24655"
  },
  {
   "id": 1503030015,
   "districtId": 1503030,
-  "name": "LUBUK SEPUH"
+  "districtName": "PELAWAN",
+  "name": "LUBUK SEPUH",
+  "postalCode": "37482"
  },
  {
   "id": 1503030016,
   "districtId": 1503030,
-  "name": "MUARA DANAU"
+  "districtName": "PELAWAN",
+  "name": "MUARA DANAU",
+  "postalCode": "37482"
  },
  {
   "id": 1503030017,
   "districtId": 1503030,
-  "name": "RANTAU TENANG"
+  "districtName": "PELAWAN",
+  "name": "RANTAU TENANG",
+  "postalCode": "31453"
  },
  {
   "id": 1503030018,
   "districtId": 1503030,
-  "name": "MEKARSARI"
+  "districtName": "PELAWAN",
+  "name": "MEKARSARI",
+  "postalCode": "37482"
  },
  {
   "id": 1503030019,
   "districtId": 1503030,
-  "name": "PASARPELAWAN"
+  "districtName": "PELAWAN",
+  "name": "PASARPELAWAN",
+  "postalCode": ""
  },
  {
   "id": 1503030020,
   "districtId": 1503030,
-  "name": "PELAWAN JAYA"
+  "districtName": "PELAWAN",
+  "name": "PELAWAN JAYA",
+  "postalCode": "37482"
  },
  {
   "id": 1503030021,
   "districtId": 1503030,
-  "name": "LUBUKSAYAK"
+  "districtName": "PELAWAN",
+  "name": "LUBUKSAYAK",
+  "postalCode": ""
  }
 ]

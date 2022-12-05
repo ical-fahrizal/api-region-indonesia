@@ -2,61 +2,85 @@
  {
   "id": 1215020001,
   "districtId": 1215020,
-  "name": "AEK GODANG"
+  "districtName": "ONAN GANJANG",
+  "name": "AEK GODANG",
+  "postalCode": "22733"
  },
  {
   "id": 1215020002,
   "districtId": 1215020,
-  "name": "SANGGARAN II"
+  "districtName": "ONAN GANJANG",
+  "name": "SANGGARAN II",
+  "postalCode": "22454"
  },
  {
   "id": 1215020003,
   "districtId": 1215020,
-  "name": "JANJI NAGODANG"
+  "districtName": "ONAN GANJANG",
+  "name": "JANJI NAGODANG",
+  "postalCode": "22454"
  },
  {
   "id": 1215020011,
   "districtId": 1215020,
-  "name": "HUTA JULU"
+  "districtName": "ONAN GANJANG",
+  "name": "HUTA JULU",
+  "postalCode": "22998"
  },
  {
   "id": 1215020012,
   "districtId": 1215020,
-  "name": "SIHIKKIT"
+  "districtName": "ONAN GANJANG",
+  "name": "SIHIKKIT",
+  "postalCode": "22454"
  },
  {
   "id": 1215020013,
   "districtId": 1215020,
-  "name": "ONAN GANJANG"
+  "districtName": "ONAN GANJANG",
+  "name": "ONAN GANJANG",
+  "postalCode": "22454"
  },
  {
   "id": 1215020014,
   "districtId": 1215020,
-  "name": "PARBOTIHAN"
+  "districtName": "ONAN GANJANG",
+  "name": "PARBOTIHAN",
+  "postalCode": "22454"
  },
  {
   "id": 1215020015,
   "districtId": 1215020,
-  "name": "BATU NAGODANG SIATAS"
+  "districtName": "ONAN GANJANG",
+  "name": "BATU NAGODANG SIATAS",
+  "postalCode": "22454"
  },
  {
   "id": 1215020016,
   "districtId": 1215020,
-  "name": "SAMPETUA"
+  "districtName": "ONAN GANJANG",
+  "name": "SAMPETUA",
+  "postalCode": "22454"
  },
  {
   "id": 1215020017,
   "districtId": 1215020,
-  "name": "PARNAPA"
+  "districtName": "ONAN GANJANG",
+  "name": "PARNAPA",
+  "postalCode": "22454"
  },
  {
   "id": 1215020020,
   "districtId": 1215020,
-  "name": "SIBULUAN"
+  "districtName": "ONAN GANJANG",
+  "name": "SIBULUAN",
+  "postalCode": "22454"
  },
  {
   "id": 1215020021,
   "districtId": 1215020,
-  "name": "SIGALOGO"
+  "districtName": "ONAN GANJANG",
+  "name": "SIGALOGO",
+  "postalCode": "22454"
  }
 ]

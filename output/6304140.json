@@ -2,41 +2,57 @@
  {
   "id": 6304140001,
   "districtId": 6304140,
-  "name": "BAGUS"
+  "districtName": "MARABAHAN",
+  "name": "BAGUS",
+  "postalCode": "70511"
  },
  {
   "id": 6304140002,
   "districtId": 6304140,
-  "name": "BALIUK"
+  "districtName": "MARABAHAN",
+  "name": "BALIUK",
+  "postalCode": "70511"
  },
  {
   "id": 6304140004,
   "districtId": 6304140,
-  "name": "MARABAHAN KOTA"
+  "districtName": "MARABAHAN",
+  "name": "MARABAHAN KOTA",
+  "postalCode": "70511"
  },
  {
   "id": 6304140006,
   "districtId": 6304140,
-  "name": "ANTAR BARU"
+  "districtName": "MARABAHAN",
+  "name": "ANTAR BARU",
+  "postalCode": "70511"
  },
  {
   "id": 6304140007,
   "districtId": 6304140,
-  "name": "ANTAR RAYA"
+  "districtName": "MARABAHAN",
+  "name": "ANTAR RAYA",
+  "postalCode": "70511"
  },
  {
   "id": 6304140008,
   "districtId": 6304140,
-  "name": "ANTAR JAYA"
+  "districtName": "MARABAHAN",
+  "name": "ANTAR JAYA",
+  "postalCode": "70511"
  },
  {
   "id": 6304140009,
   "districtId": 6304140,
-  "name": "SIDO MAKMUR"
+  "districtName": "MARABAHAN",
+  "name": "SIDO MAKMUR",
+  "postalCode": "20772"
  },
  {
   "id": 6304140010,
   "districtId": 6304140,
-  "name": "KARYA MAJU"
+  "districtName": "MARABAHAN",
+  "name": "KARYA MAJU",
+  "postalCode": "20853"
  }
 ]

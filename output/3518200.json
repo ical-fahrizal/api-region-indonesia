@@ -2,41 +2,57 @@
  {
   "id": 3518200001,
   "districtId": 3518200,
-  "name": "PERNING"
+  "districtName": "JATIKALEN",
+  "name": "PERNING",
+  "postalCode": "64392"
  },
  {
   "id": 3518200002,
   "districtId": 3518200,
-  "name": "NGASEM"
+  "districtName": "JATIKALEN",
+  "name": "NGASEM",
+  "postalCode": "59461"
  },
  {
   "id": 3518200003,
   "districtId": 3518200,
-  "name": "GONDANG WETAN"
+  "districtName": "JATIKALEN",
+  "name": "GONDANG WETAN",
+  "postalCode": "67174"
  },
  {
   "id": 3518200004,
   "districtId": 3518200,
-  "name": "JATIKALEN"
+  "districtName": "JATIKALEN",
+  "name": "JATIKALEN",
+  "postalCode": "64392"
  },
  {
   "id": 3518200005,
   "districtId": 3518200,
-  "name": "DLURUREJO"
+  "districtName": "JATIKALEN",
+  "name": "DLURUREJO",
+  "postalCode": ""
  },
  {
   "id": 3518200007,
   "districtId": 3518200,
-  "name": "LUMPANG KUWIK"
+  "districtName": "JATIKALEN",
+  "name": "LUMPANG KUWIK",
+  "postalCode": "64392"
  },
  {
   "id": 3518200008,
   "districtId": 3518200,
-  "name": "DAWUHAN"
+  "districtName": "JATIKALEN",
+  "name": "DAWUHAN",
+  "postalCode": "53192"
  },
  {
   "id": 3518200010,
   "districtId": 3518200,
-  "name": "PULOWETAN"
+  "districtName": "JATIKALEN",
+  "name": "PULOWETAN",
+  "postalCode": "64392"
  }
 ]

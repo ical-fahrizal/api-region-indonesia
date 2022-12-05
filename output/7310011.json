@@ -2,36 +2,50 @@
  {
   "id": 7310011001,
   "districtId": 7310011,
-  "name": "BULO-BULO"
+  "districtName": "PUJANANTING",
+  "name": "BULO-BULO",
+  "postalCode": "92361"
  },
  {
   "id": 7310011002,
   "districtId": 7310011,
-  "name": "GATTARENG"
+  "districtName": "PUJANANTING",
+  "name": "GATTARENG",
+  "postalCode": "92561"
  },
  {
   "id": 7310011003,
   "districtId": 7310011,
-  "name": "PUJANANTING"
+  "districtName": "PUJANANTING",
+  "name": "PUJANANTING",
+  "postalCode": "90762"
  },
  {
   "id": 7310011004,
   "districtId": 7310011,
-  "name": "JANGAN-JANGAN"
+  "districtName": "PUJANANTING",
+  "name": "JANGAN-JANGAN",
+  "postalCode": "90762"
  },
  {
   "id": 7310011005,
   "districtId": 7310011,
-  "name": "PATTAPPA"
+  "districtName": "PUJANANTING",
+  "name": "PATTAPPA",
+  "postalCode": "90762"
  },
  {
   "id": 7310011006,
   "districtId": 7310011,
-  "name": "BACU-BACU"
+  "districtName": "PUJANANTING",
+  "name": "BACU-BACU",
+  "postalCode": "90762"
  },
  {
   "id": 7310011007,
   "districtId": 7310011,
-  "name": "MATTAPPAWALIE"
+  "districtName": "PUJANANTING",
+  "name": "MATTAPPAWALIE",
+  "postalCode": "90762"
  }
 ]

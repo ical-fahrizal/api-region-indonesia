@@ -2,56 +2,78 @@
  {
   "id": 3315120001,
   "districtId": 3315120,
-  "name": "GETASREJO"
+  "districtName": "GROBOGAN",
+  "name": "GETASREJO",
+  "postalCode": "58152"
  },
  {
   "id": 3315120002,
   "districtId": 3315120,
-  "name": "REJOSARI"
+  "districtName": "GROBOGAN",
+  "name": "REJOSARI",
+  "postalCode": "29353"
  },
  {
   "id": 3315120003,
   "districtId": 3315120,
-  "name": "TANGGUNGHARJO"
+  "districtName": "GROBOGAN",
+  "name": "TANGGUNGHARJO",
+  "postalCode": "58152"
  },
  {
   "id": 3315120004,
   "districtId": 3315120,
-  "name": "TEGUHAN"
+  "districtName": "GROBOGAN",
+  "name": "TEGUHAN",
+  "postalCode": "58152"
  },
  {
   "id": 3315120005,
   "districtId": 3315120,
-  "name": "NGABENREJO"
+  "districtName": "GROBOGAN",
+  "name": "NGABENREJO",
+  "postalCode": "58152"
  },
  {
   "id": 3315120006,
   "districtId": 3315120,
-  "name": "GROBOGAN"
+  "districtName": "GROBOGAN",
+  "name": "GROBOGAN",
+  "postalCode": "58152"
  },
  {
   "id": 3315120007,
   "districtId": 3315120,
-  "name": "KARANGREJO"
+  "districtName": "GROBOGAN",
+  "name": "KARANGREJO",
+  "postalCode": "35387"
  },
  {
   "id": 3315120008,
   "districtId": 3315120,
-  "name": "PUTATSARI"
+  "districtName": "GROBOGAN",
+  "name": "PUTATSARI",
+  "postalCode": "58152"
  },
  {
   "id": 3315120009,
   "districtId": 3315120,
-  "name": "LEBAK"
+  "districtName": "GROBOGAN",
+  "name": "LEBAK",
+  "postalCode": "50772"
  },
  {
   "id": 3315120011,
   "districtId": 3315120,
-  "name": "SEDAYU"
+  "districtName": "GROBOGAN",
+  "name": "SEDAYU",
+  "postalCode": "35386"
  },
  {
   "id": 3315120012,
   "districtId": 3315120,
-  "name": "SUMBER JATIPOHON"
+  "districtName": "GROBOGAN",
+  "name": "SUMBER JATIPOHON",
+  "postalCode": "58152"
  }
 ]

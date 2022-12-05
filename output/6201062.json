@@ -2,56 +2,78 @@
  {
   "id": 6201062001,
   "districtId": 6201062,
-  "name": "PURBASARI"
+  "districtName": "PANGKALAN LADA",
+  "name": "PURBASARI",
+  "postalCode": "53357"
  },
  {
   "id": 6201062002,
   "districtId": 6201062,
-  "name": "SUNGAI RANGIT JAYA"
+  "districtName": "PANGKALAN LADA",
+  "name": "SUNGAI RANGIT JAYA",
+  "postalCode": ""
  },
  {
   "id": 6201062003,
   "districtId": 6201062,
-  "name": "SUMBER AGUNG"
+  "districtName": "PANGKALAN LADA",
+  "name": "SUMBER AGUNG",
+  "postalCode": "37353"
  },
  {
   "id": 6201062004,
   "districtId": 6201062,
-  "name": "LADA MANDALA JAYA"
+  "districtName": "PANGKALAN LADA",
+  "name": "LADA MANDALA JAYA",
+  "postalCode": "74184"
  },
  {
   "id": 6201062005,
   "districtId": 6201062,
-  "name": "MAKARTI JAYA"
+  "districtName": "PANGKALAN LADA",
+  "name": "MAKARTI JAYA",
+  "postalCode": "23662"
  },
  {
   "id": 6201062006,
   "districtId": 6201062,
-  "name": "PANDU SENJAYA"
+  "districtName": "PANGKALAN LADA",
+  "name": "PANDU SENJAYA",
+  "postalCode": ""
  },
  {
   "id": 6201062007,
   "districtId": 6201062,
-  "name": "PANGKALAN TIGA"
+  "districtName": "PANGKALAN LADA",
+  "name": "PANGKALAN TIGA",
+  "postalCode": "74184"
  },
  {
   "id": 6201062008,
   "districtId": 6201062,
-  "name": "KADIPI ATAS"
+  "districtName": "PANGKALAN LADA",
+  "name": "KADIPI ATAS",
+  "postalCode": "74184"
  },
  {
   "id": 6201062009,
   "districtId": 6201062,
-  "name": "PANGKALAN DEWA"
+  "districtName": "PANGKALAN LADA",
+  "name": "PANGKALAN DEWA",
+  "postalCode": "74184"
  },
  {
   "id": 6201062010,
   "districtId": 6201062,
-  "name": "PANGKALAN DURIN"
+  "districtName": "PANGKALAN LADA",
+  "name": "PANGKALAN DURIN",
+  "postalCode": "74184"
  },
  {
   "id": 6201062011,
   "districtId": 6201062,
-  "name": "SUNGAI MELAWEN"
+  "districtName": "PANGKALAN LADA",
+  "name": "SUNGAI MELAWEN",
+  "postalCode": ""
  }
 ]

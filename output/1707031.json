@@ -2,46 +2,64 @@
  {
   "id": 1707031001,
   "districtId": 1707031,
-  "name": "UJUNG TANJUNG I"
+  "districtName": "LEBONG SAKTI",
+  "name": "UJUNG TANJUNG I",
+  "postalCode": "39263"
  },
  {
   "id": 1707031002,
   "districtId": 1707031,
-  "name": "MUNING AGUNG"
+  "districtName": "LEBONG SAKTI",
+  "name": "MUNING AGUNG",
+  "postalCode": "39267"
  },
  {
   "id": 1707031003,
   "districtId": 1707031,
-  "name": "UJUNG TANJUNG II"
+  "districtName": "LEBONG SAKTI",
+  "name": "UJUNG TANJUNG II",
+  "postalCode": "39263"
  },
  {
   "id": 1707031004,
   "districtId": 1707031,
-  "name": "UJUNG TANJUNG III"
+  "districtName": "LEBONG SAKTI",
+  "name": "UJUNG TANJUNG III",
+  "postalCode": ""
  },
  {
   "id": 1707031005,
   "districtId": 1707031,
-  "name": "MAGELANG BARU"
+  "districtName": "LEBONG SAKTI",
+  "name": "MAGELANG BARU",
+  "postalCode": "39267"
  },
  {
   "id": 1707031006,
   "districtId": 1707031,
-  "name": "LEMEU PIT"
+  "districtName": "LEBONG SAKTI",
+  "name": "LEMEU PIT",
+  "postalCode": "39267"
  },
  {
   "id": 1707031007,
   "districtId": 1707031,
-  "name": "TABEAK KAUK"
+  "districtName": "LEBONG SAKTI",
+  "name": "TABEAK KAUK",
+  "postalCode": "39267"
  },
  {
   "id": 1707031008,
   "districtId": 1707031,
-  "name": "TABEAK DIPOA"
+  "districtName": "LEBONG SAKTI",
+  "name": "TABEAK DIPOA",
+  "postalCode": "39267"
  },
  {
   "id": 1707031009,
   "districtId": 1707031,
-  "name": "SUKA BUMI"
+  "districtName": "LEBONG SAKTI",
+  "name": "SUKA BUMI",
+  "postalCode": "39267"
  }
 ]

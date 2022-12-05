@@ -2,31 +2,43 @@
  {
   "id": 1273020001,
   "districtId": 1273020,
-  "name": "AEK NAULI"
+  "districtName": "SIANTAR SELATAN",
+  "name": "AEK NAULI",
+  "postalCode": "22773"
  },
  {
   "id": 1273020002,
   "districtId": 1273020,
-  "name": "MARTIMBANG"
+  "districtName": "SIANTAR SELATAN",
+  "name": "MARTIMBANG",
+  "postalCode": "21125"
  },
  {
   "id": 1273020003,
   "districtId": 1273020,
-  "name": "KRISTEN"
+  "districtName": "SIANTAR SELATAN",
+  "name": "KRISTEN",
+  "postalCode": "21124"
  },
  {
   "id": 1273020004,
   "districtId": 1273020,
-  "name": "TOBA"
+  "districtName": "SIANTAR SELATAN",
+  "name": "TOBA",
+  "postalCode": "21123"
  },
  {
   "id": 1273020005,
   "districtId": 1273020,
-  "name": "KARO"
+  "districtName": "SIANTAR SELATAN",
+  "name": "KARO",
+  "postalCode": "21122"
  },
  {
   "id": 1273020006,
   "districtId": 1273020,
-  "name": "SIMALUNGUN"
+  "districtName": "SIANTAR SELATAN",
+  "name": "SIMALUNGUN",
+  "postalCode": "21121"
  }
 ]

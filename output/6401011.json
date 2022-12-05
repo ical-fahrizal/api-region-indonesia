@@ -2,41 +2,57 @@
  {
   "id": 6401011001,
   "districtId": 6401011,
-  "name": "TANJUNG PINANG"
+  "districtName": "MUARA SAMU",
+  "name": "TANJUNG PINANG",
+  "postalCode": "36146"
  },
  {
   "id": 6401011002,
   "districtId": 6401011,
-  "name": "RANTAU ATAS"
+  "districtName": "MUARA SAMU",
+  "name": "RANTAU ATAS",
+  "postalCode": "76252"
  },
  {
   "id": 6401011003,
   "districtId": 6401011,
-  "name": "LIBUR DINDING"
+  "districtName": "MUARA SAMU",
+  "name": "LIBUR DINDING",
+  "postalCode": "76252"
  },
  {
   "id": 6401011004,
   "districtId": 6401011,
-  "name": "LUAN/DILIBINTI"
+  "districtName": "MUARA SAMU",
+  "name": "LUAN/DILIBINTI",
+  "postalCode": ""
  },
  {
   "id": 6401011005,
   "districtId": 6401011,
-  "name": "SUWETO"
+  "districtName": "MUARA SAMU",
+  "name": "SUWETO",
+  "postalCode": "76252"
  },
  {
   "id": 6401011007,
   "districtId": 6401011,
-  "name": "BIU"
+  "districtName": "MUARA SAMU",
+  "name": "BIU",
+  "postalCode": "76252"
  },
  {
   "id": 6401011008,
   "districtId": 6401011,
-  "name": "RANTAU BINTUNGAN"
+  "districtName": "MUARA SAMU",
+  "name": "RANTAU BINTUNGAN",
+  "postalCode": "76252"
  },
  {
   "id": 6401011009,
   "districtId": 6401011,
-  "name": "MUARA ANDEH"
+  "districtName": "MUARA SAMU",
+  "name": "MUARA ANDEH",
+  "postalCode": "76252"
  }
 ]

@@ -2,56 +2,78 @@
  {
   "id": 7109040006,
   "districtId": 7109040,
-  "name": "RASI"
+  "districtName": "RATAHAN",
+  "name": "RASI",
+  "postalCode": "95995"
  },
  {
   "id": 7109040007,
   "districtId": 7109040,
-  "name": "TOSURAYA"
+  "districtName": "RATAHAN",
+  "name": "TOSURAYA",
+  "postalCode": "95995"
  },
  {
   "id": 7109040008,
   "districtId": 7109040,
-  "name": "LOWU SATU"
+  "districtName": "RATAHAN",
+  "name": "LOWU SATU",
+  "postalCode": "95995"
  },
  {
   "id": 7109040009,
   "districtId": 7109040,
-  "name": "LOWU DUA"
+  "districtName": "RATAHAN",
+  "name": "LOWU DUA",
+  "postalCode": "95995"
  },
  {
   "id": 7109040010,
   "districtId": 7109040,
-  "name": "WAWALI"
+  "districtName": "RATAHAN",
+  "name": "WAWALI",
+  "postalCode": "95995"
  },
  {
   "id": 7109040016,
   "districtId": 7109040,
-  "name": "RASI SATU"
+  "districtName": "RATAHAN",
+  "name": "RASI SATU",
+  "postalCode": "95995"
  },
  {
   "id": 7109040017,
   "districtId": 7109040,
-  "name": "TOSURAYA BARAT"
+  "districtName": "RATAHAN",
+  "name": "TOSURAYA BARAT",
+  "postalCode": "95995"
  },
  {
   "id": 7109040018,
   "districtId": 7109040,
-  "name": "TOSURAYA SELATAN"
+  "districtName": "RATAHAN",
+  "name": "TOSURAYA SELATAN",
+  "postalCode": "95995"
  },
  {
   "id": 7109040019,
   "districtId": 7109040,
-  "name": "LOWU UTARA"
+  "districtName": "RATAHAN",
+  "name": "LOWU UTARA",
+  "postalCode": "95995"
  },
  {
   "id": 7109040020,
   "districtId": 7109040,
-  "name": "NATAAN"
+  "districtName": "RATAHAN",
+  "name": "NATAAN",
+  "postalCode": "95995"
  },
  {
   "id": 7109040021,
   "districtId": 7109040,
-  "name": "WAWALI PASAN"
+  "districtName": "RATAHAN",
+  "name": "WAWALI PASAN",
+  "postalCode": "95995"
  }
 ]

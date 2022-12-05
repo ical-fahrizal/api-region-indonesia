@@ -2,46 +2,64 @@
  {
   "id": 9417043001,
   "districtId": 9417043,
-  "name": "TAIRAPLU"
+  "districtName": "TEIRAPLU",
+  "name": "TAIRAPLU",
+  "postalCode": ""
  },
  {
   "id": 9417043002,
   "districtId": 9417043,
-  "name": "BAUTME"
+  "districtName": "TEIRAPLU",
+  "name": "BAUTME",
+  "postalCode": "99572"
  },
  {
   "id": 9417043003,
   "districtId": 9417043,
-  "name": "SINAMI"
+  "districtName": "TEIRAPLU",
+  "name": "SINAMI",
+  "postalCode": ""
  },
  {
   "id": 9417043004,
   "districtId": 9417043,
-  "name": "MAIGAME"
+  "districtName": "TEIRAPLU",
+  "name": "MAIGAME",
+  "postalCode": "99572"
  },
  {
   "id": 9417043005,
   "districtId": 9417043,
-  "name": "TARPADEY"
+  "districtName": "TEIRAPLU",
+  "name": "TARPADEY",
+  "postalCode": ""
  },
  {
   "id": 9417043006,
   "districtId": 9417043,
-  "name": "JITARGER"
+  "districtName": "TEIRAPLU",
+  "name": "JITARGER",
+  "postalCode": ""
  },
  {
   "id": 9417043008,
   "districtId": 9417043,
-  "name": "JUABAN 1"
+  "districtName": "TEIRAPLU",
+  "name": "JUABAN 1",
+  "postalCode": ""
  },
  {
   "id": 9417043009,
   "districtId": 9417043,
-  "name": "JUABAN 2"
+  "districtName": "TEIRAPLU",
+  "name": "JUABAN 2",
+  "postalCode": ""
  },
  {
   "id": 9417043010,
   "districtId": 9417043,
-  "name": "TERIAME"
+  "districtName": "TEIRAPLU",
+  "name": "TERIAME",
+  "postalCode": "99572"
  }
 ]

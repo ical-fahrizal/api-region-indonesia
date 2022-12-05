@@ -2,56 +2,78 @@
  {
   "id": 1809010001,
   "districtId": 1809010,
-  "name": "SUKAMAJU"
+  "districtName": "PUNDUH PIDADA",
+  "name": "SUKAMAJU",
+  "postalCode": "22465"
  },
  {
   "id": 1809010002,
   "districtId": 1809010,
-  "name": "BAWANG"
+  "districtName": "PUNDUH PIDADA",
+  "name": "BAWANG",
+  "postalCode": "21168"
  },
  {
   "id": 1809010003,
   "districtId": 1809010,
-  "name": "PAGAR JAYA"
+  "districtName": "PUNDUH PIDADA",
+  "name": "PAGAR JAYA",
+  "postalCode": "34388"
  },
  {
   "id": 1809010004,
   "districtId": 1809010,
-  "name": "PULAU LEGUNDI"
+  "districtName": "PUNDUH PIDADA",
+  "name": "PULAU LEGUNDI",
+  "postalCode": "35453"
  },
  {
   "id": 1809010005,
   "districtId": 1809010,
-  "name": "SUKARAME"
+  "districtName": "PUNDUH PIDADA",
+  "name": "SUKARAME",
+  "postalCode": "24357"
  },
  {
   "id": 1809010006,
   "districtId": 1809010,
-  "name": "KOTA JAWA"
+  "districtName": "PUNDUH PIDADA",
+  "name": "KOTA JAWA",
+  "postalCode": "34883"
  },
  {
   "id": 1809010007,
   "districtId": 1809010,
-  "name": "RUSABA"
+  "districtName": "PUNDUH PIDADA",
+  "name": "RUSABA",
+  "postalCode": "35453"
  },
  {
   "id": 1809010008,
   "districtId": 1809010,
-  "name": "SUKAJAYA PIDADA"
+  "districtName": "PUNDUH PIDADA",
+  "name": "SUKAJAYA PIDADA",
+  "postalCode": ""
  },
  {
   "id": 1809010009,
   "districtId": 1809010,
-  "name": "BATU RAJA"
+  "districtName": "PUNDUH PIDADA",
+  "name": "BATU RAJA",
+  "postalCode": "23661"
  },
  {
   "id": 1809010010,
   "districtId": 1809010,
-  "name": "BANDING AGUNG"
+  "districtName": "PUNDUH PIDADA",
+  "name": "BANDING AGUNG",
+  "postalCode": "32274"
  },
  {
   "id": 1809010021,
   "districtId": 1809010,
-  "name": "BANGUN REJO"
+  "districtName": "PUNDUH PIDADA",
+  "name": "BANGUN REJO",
+  "postalCode": "21454"
  }
 ]

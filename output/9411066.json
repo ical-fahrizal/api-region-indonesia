@@ -2,56 +2,78 @@
  {
   "id": 9411066001,
   "districtId": 9411066,
-  "name": "NIOGA"
+  "districtName": "NIOGA",
+  "name": "NIOGA",
+  "postalCode": "98915"
  },
  {
   "id": 9411066002,
   "districtId": 9411066,
-  "name": "WONGGI"
+  "districtName": "NIOGA",
+  "name": "WONGGI",
+  "postalCode": "99875"
  },
  {
   "id": 9411066003,
   "districtId": 9411066,
-  "name": "YONGGI"
+  "districtName": "NIOGA",
+  "name": "YONGGI",
+  "postalCode": "98915"
  },
  {
   "id": 9411066004,
   "districtId": 9411066,
-  "name": "MURUWI"
+  "districtName": "NIOGA",
+  "name": "MURUWI",
+  "postalCode": "98915"
  },
  {
   "id": 9411066005,
   "districtId": 9411066,
-  "name": "WAMBAGALO"
+  "districtName": "NIOGA",
+  "name": "WAMBAGALO",
+  "postalCode": "98915"
  },
  {
   "id": 9411066006,
   "districtId": 9411066,
-  "name": "GIBAGA"
+  "districtName": "NIOGA",
+  "name": "GIBAGA",
+  "postalCode": "98915"
  },
  {
   "id": 9411066007,
   "districtId": 9411066,
-  "name": "WUTIKME"
+  "districtName": "NIOGA",
+  "name": "WUTIKME",
+  "postalCode": ""
  },
  {
   "id": 9411066008,
   "districtId": 9411066,
-  "name": "WANDURI"
+  "districtName": "NIOGA",
+  "name": "WANDURI",
+  "postalCode": "98915"
  },
  {
   "id": 9411066009,
   "districtId": 9411066,
-  "name": "JIGONIKME"
+  "districtName": "NIOGA",
+  "name": "JIGONIKME",
+  "postalCode": "98915"
  },
  {
   "id": 9411066010,
   "districtId": 9411066,
-  "name": "PAPAK"
+  "districtName": "NIOGA",
+  "name": "PAPAK",
+  "postalCode": "98915"
  },
  {
   "id": 9411066011,
   "districtId": 9411066,
-  "name": "WALOM"
+  "districtName": "NIOGA",
+  "name": "WALOM",
+  "postalCode": ""
  }
 ]

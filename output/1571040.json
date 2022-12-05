@@ -2,21 +2,29 @@
  {
   "id": 1571040001,
   "districtId": 1571040,
-  "name": "BERINGIN"
+  "districtName": "PASAR JAMBI",
+  "name": "BERINGIN",
+  "postalCode": "20552"
  },
  {
   "id": 1571040002,
   "districtId": 1571040,
-  "name": "SUNGAI ASAM"
+  "districtName": "PASAR JAMBI",
+  "name": "SUNGAI ASAM",
+  "postalCode": "25584"
  },
  {
   "id": 1571040003,
   "districtId": 1571040,
-  "name": "ORANG KAYO HITAM"
+  "districtName": "PASAR JAMBI",
+  "name": "ORANG KAYO HITAM",
+  "postalCode": "36111"
  },
  {
   "id": 1571040004,
   "districtId": 1571040,
-  "name": "PASAR JAMBI"
+  "districtName": "PASAR JAMBI",
+  "name": "PASAR JAMBI",
+  "postalCode": "36133"
  }
 ]

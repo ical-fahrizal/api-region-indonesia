@@ -2,31 +2,43 @@
  {
   "id": 3276050001,
   "districtId": 3276050,
-  "name": "BEJI"
+  "districtName": "BEJI",
+  "name": "BEJI",
+  "postalCode": "16421"
  },
  {
   "id": 3276050002,
   "districtId": 3276050,
-  "name": "BEJI TIMUR"
+  "districtName": "BEJI",
+  "name": "BEJI TIMUR",
+  "postalCode": "16422"
  },
  {
   "id": 3276050003,
   "districtId": 3276050,
-  "name": "KEMIRIMUKA"
+  "districtName": "BEJI",
+  "name": "KEMIRIMUKA",
+  "postalCode": ""
  },
  {
   "id": 3276050004,
   "districtId": 3276050,
-  "name": "PONDOK CINA"
+  "districtName": "BEJI",
+  "name": "PONDOK CINA",
+  "postalCode": "16424"
  },
  {
   "id": 3276050005,
   "districtId": 3276050,
-  "name": "KUKUSAN"
+  "districtName": "BEJI",
+  "name": "KUKUSAN",
+  "postalCode": "16425"
  },
  {
   "id": 3276050006,
   "districtId": 3276050,
-  "name": "TANAH BARU"
+  "districtName": "BEJI",
+  "name": "TANAH BARU",
+  "postalCode": "24673"
  }
 ]

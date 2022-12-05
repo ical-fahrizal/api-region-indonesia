@@ -2,21 +2,29 @@
  {
   "id": 1671081001,
   "districtId": 1671081,
-  "name": "SRIJAYA"
+  "districtName": "ALANG ALANG LEBAR",
+  "name": "SRIJAYA",
+  "postalCode": "30153"
  },
  {
   "id": 1671081002,
   "districtId": 1671081,
-  "name": "KARYA BARU"
+  "districtName": "ALANG ALANG LEBAR",
+  "name": "KARYA BARU",
+  "postalCode": "30151"
  },
  {
   "id": 1671081003,
   "districtId": 1671081,
-  "name": "TALANG KELAPA"
+  "districtName": "ALANG ALANG LEBAR",
+  "name": "TALANG KELAPA",
+  "postalCode": "30151"
  },
  {
   "id": 1671081004,
   "districtId": 1671081,
-  "name": "ALANG ALANG LEBAR"
+  "districtName": "ALANG ALANG LEBAR",
+  "name": "ALANG ALANG LEBAR",
+  "postalCode": ""
  }
 ]

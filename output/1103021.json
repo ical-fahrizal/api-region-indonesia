@@ -2,36 +2,50 @@
  {
   "id": 1103021002,
   "districtId": 1103021,
-  "name": "UJUNG PULO CUT"
+  "districtName": "BAKONGAN TIMUR",
+  "name": "UJUNG PULO CUT",
+  "postalCode": "23773"
  },
  {
   "id": 1103021003,
   "districtId": 1103021,
-  "name": "UJUNG PULO RAYEUK"
+  "districtName": "BAKONGAN TIMUR",
+  "name": "UJUNG PULO RAYEUK",
+  "postalCode": "23773"
  },
  {
   "id": 1103021004,
   "districtId": 1103021,
-  "name": "PASI SEUBADEH"
+  "districtName": "BAKONGAN TIMUR",
+  "name": "PASI SEUBADEH",
+  "postalCode": ""
  },
  {
   "id": 1103021005,
   "districtId": 1103021,
-  "name": "LADANG RIMBA"
+  "districtName": "BAKONGAN TIMUR",
+  "name": "LADANG RIMBA",
+  "postalCode": "23773"
  },
  {
   "id": 1103021006,
   "districtId": 1103021,
-  "name": "SIMPANG"
+  "districtName": "BAKONGAN TIMUR",
+  "name": "SIMPANG",
+  "postalCode": "23773"
  },
  {
   "id": 1103021007,
   "districtId": 1103021,
-  "name": "SAWAH TINGKEUM"
+  "districtName": "BAKONGAN TIMUR",
+  "name": "SAWAH TINGKEUM",
+  "postalCode": "23773"
  },
  {
   "id": 1103021008,
   "districtId": 1103021,
-  "name": "SEULEUKAT"
+  "districtName": "BAKONGAN TIMUR",
+  "name": "SEULEUKAT",
+  "postalCode": ""
  }
 ]

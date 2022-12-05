@@ -2,31 +2,43 @@
  {
   "id": 1703010001,
   "districtId": 1703010,
-  "name": "BANJAR SARI"
+  "districtName": "ENGGANO",
+  "name": "BANJAR SARI",
+  "postalCode": "31471"
  },
  {
   "id": 1703010002,
   "districtId": 1703010,
-  "name": "MEOK"
+  "districtName": "ENGGANO",
+  "name": "MEOK",
+  "postalCode": "38387"
  },
  {
   "id": 1703010003,
   "districtId": 1703010,
-  "name": "APOHO"
+  "districtName": "ENGGANO",
+  "name": "APOHO",
+  "postalCode": "38387"
  },
  {
   "id": 1703010004,
   "districtId": 1703010,
-  "name": "MALAKONI"
+  "districtName": "ENGGANO",
+  "name": "MALAKONI",
+  "postalCode": "38387"
  },
  {
   "id": 1703010005,
   "districtId": 1703010,
-  "name": "KAANA"
+  "districtName": "ENGGANO",
+  "name": "KAANA",
+  "postalCode": "38387"
  },
  {
   "id": 1703010006,
   "districtId": 1703010,
-  "name": "KAHYAPU"
+  "districtName": "ENGGANO",
+  "name": "KAHYAPU",
+  "postalCode": ""
  }
 ]

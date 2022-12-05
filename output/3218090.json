@@ -2,66 +2,92 @@
  {
   "id": 3218090001,
   "districtId": 3218090,
-  "name": "PANYUTRAN"
+  "districtName": "PADAHERANG",
+  "name": "PANYUTRAN",
+  "postalCode": "46384"
  },
  {
   "id": 3218090002,
   "districtId": 3218090,
-  "name": "BOJONGSARI"
+  "districtName": "PADAHERANG",
+  "name": "BOJONGSARI",
+  "postalCode": "40288"
  },
  {
   "id": 3218090003,
   "districtId": 3218090,
-  "name": "CIGANJENG"
+  "districtName": "PADAHERANG",
+  "name": "CIGANJENG",
+  "postalCode": "46372"
  },
  {
   "id": 3218090004,
   "districtId": 3218090,
-  "name": "SUKANAGARA"
+  "districtName": "PADAHERANG",
+  "name": "SUKANAGARA",
+  "postalCode": "44174"
  },
  {
   "id": 3218090005,
   "districtId": 3218090,
-  "name": "SINDANGWANGI"
+  "districtName": "PADAHERANG",
+  "name": "SINDANGWANGI",
+  "postalCode": "46384"
  },
  {
   "id": 3218090006,
   "districtId": 3218090,
-  "name": "KARANGSARI"
+  "districtName": "PADAHERANG",
+  "name": "KARANGSARI",
+  "postalCode": "35376"
  },
  {
   "id": 3218090007,
   "districtId": 3218090,
-  "name": "PALEDAH"
+  "districtName": "PADAHERANG",
+  "name": "PALEDAH",
+  "postalCode": "46384"
  },
  {
   "id": 3218090008,
   "districtId": 3218090,
-  "name": "MARUYUNG SARI"
+  "districtName": "PADAHERANG",
+  "name": "MARUYUNG SARI",
+  "postalCode": "46384"
  },
  {
   "id": 3218090009,
   "districtId": 3218090,
-  "name": "KARANGPAWITAN"
+  "districtName": "PADAHERANG",
+  "name": "KARANGPAWITAN",
+  "postalCode": "44182"
  },
  {
   "id": 3218090010,
   "districtId": 3218090,
-  "name": "PADAHERANG"
+  "districtName": "PADAHERANG",
+  "name": "PADAHERANG",
+  "postalCode": "46384"
  },
  {
   "id": 3218090012,
   "districtId": 3218090,
-  "name": "KARANGMULYA"
+  "districtName": "PADAHERANG",
+  "name": "KARANGMULYA",
+  "postalCode": "17356"
  },
  {
   "id": 3218090013,
   "districtId": 3218090,
-  "name": "CIBOGO"
+  "districtName": "PADAHERANG",
+  "name": "CIBOGO",
+  "postalCode": "41285"
  },
  {
   "id": 3218090014,
   "districtId": 3218090,
-  "name": "PASIRGEULIS"
+  "districtName": "PADAHERANG",
+  "name": "PASIRGEULIS",
+  "postalCode": "46384"
  }
 ]

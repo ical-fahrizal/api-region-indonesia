@@ -2,46 +2,64 @@
  {
   "id": 3209190001,
   "districtId": 3209190,
-  "name": "SERANG"
+  "districtName": "KLANGENAN",
+  "name": "SERANG",
+  "postalCode": "17530"
  },
  {
   "id": 3209190002,
   "districtId": 3209190,
-  "name": "KLANGENAN"
+  "districtName": "KLANGENAN",
+  "name": "KLANGENAN",
+  "postalCode": "45156"
  },
  {
   "id": 3209190003,
   "districtId": 3209190,
-  "name": "DANAWINANGUN"
+  "districtName": "KLANGENAN",
+  "name": "DANAWINANGUN",
+  "postalCode": "45156"
  },
  {
   "id": 3209190007,
   "districtId": 3209190,
-  "name": "PEKANTINGAN"
+  "districtName": "KLANGENAN",
+  "name": "PEKANTINGAN",
+  "postalCode": "45156"
  },
  {
   "id": 3209190008,
   "districtId": 3209190,
-  "name": "JEMARAS KIDUL"
+  "districtName": "KLANGENAN",
+  "name": "JEMARAS KIDUL",
+  "postalCode": "45156"
  },
  {
   "id": 3209190009,
   "districtId": 3209190,
-  "name": "JEMARAS LOR"
+  "districtName": "KLANGENAN",
+  "name": "JEMARAS LOR",
+  "postalCode": "45156"
  },
  {
   "id": 3209190011,
   "districtId": 3209190,
-  "name": "SLANGIT"
+  "districtName": "KLANGENAN",
+  "name": "SLANGIT",
+  "postalCode": "45156"
  },
  {
   "id": 3209190012,
   "districtId": 3209190,
-  "name": "KREYO"
+  "districtName": "KLANGENAN",
+  "name": "KREYO",
+  "postalCode": "45156"
  },
  {
   "id": 3209190013,
   "districtId": 3209190,
-  "name": "BANGODUA"
+  "districtName": "KLANGENAN",
+  "name": "BANGODUA",
+  "postalCode": "45272"
  }
 ]

@@ -2,21 +2,29 @@
  {
   "id": 5306061001,
   "districtId": 5306061,
-  "name": "BEIRAFU"
+  "districtName": "ATAMBUA BARAT",
+  "name": "BEIRAFU",
+  "postalCode": "85718"
  },
  {
   "id": 5306061002,
   "districtId": 5306061,
-  "name": "BERDAO"
+  "districtName": "ATAMBUA BARAT",
+  "name": "BERDAO",
+  "postalCode": ""
  },
  {
   "id": 5306061003,
   "districtId": 5306061,
-  "name": "TULAMALAE"
+  "districtName": "ATAMBUA BARAT",
+  "name": "TULAMALAE",
+  "postalCode": "85714"
  },
  {
   "id": 5306061004,
   "districtId": 5306061,
-  "name": "UMANEN"
+  "districtName": "ATAMBUA BARAT",
+  "name": "UMANEN",
+  "postalCode": "85713"
  }
 ]

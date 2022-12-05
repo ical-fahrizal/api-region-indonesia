@@ -2,26 +2,36 @@
  {
   "id": 7326150001,
   "districtId": 7326150,
-  "name": "LEMBANG TONGA RIU"
+  "districtName": "SESEAN SULOARA",
+  "name": "LEMBANG TONGA RIU",
+  "postalCode": ""
  },
  {
   "id": 7326150002,
   "districtId": 7326150,
-  "name": "LEMBANG LANDORUNDUN"
+  "districtName": "SESEAN SULOARA",
+  "name": "LEMBANG LANDORUNDUN",
+  "postalCode": ""
  },
  {
   "id": 7326150003,
   "districtId": 7326150,
-  "name": "LEMBANG  SULOARA"
+  "districtName": "SESEAN SULOARA",
+  "name": "LEMBANG  SULOARA",
+  "postalCode": ""
  },
  {
   "id": 7326150004,
   "districtId": 7326150,
-  "name": "LEMBANG SESEAN MATALLO"
+  "districtName": "SESEAN SULOARA",
+  "name": "LEMBANG SESEAN MATALLO",
+  "postalCode": ""
  },
  {
   "id": 7326150005,
   "districtId": 7326150,
-  "name": "LEMBANG LEMPO"
+  "districtName": "SESEAN SULOARA",
+  "name": "LEMBANG LEMPO",
+  "postalCode": ""
  }
 ]

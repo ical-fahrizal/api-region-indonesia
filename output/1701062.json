@@ -2,51 +2,71 @@
  {
   "id": 1701062001,
   "districtId": 1701062,
-  "name": "BATU PANCO"
+  "districtName": "ULU MANNA",
+  "name": "BATU PANCO",
+  "postalCode": "39125"
  },
  {
   "id": 1701062002,
   "districtId": 1701062,
-  "name": "BATU KUNING"
+  "districtName": "ULU MANNA",
+  "name": "BATU KUNING",
+  "postalCode": "32121"
  },
  {
   "id": 1701062003,
   "districtId": 1701062,
-  "name": "BANDAR AGUNG"
+  "districtName": "ULU MANNA",
+  "name": "BANDAR AGUNG",
+  "postalCode": "31414"
  },
  {
   "id": 1701062004,
   "districtId": 1701062,
-  "name": "MERAMBUNG"
+  "districtName": "ULU MANNA",
+  "name": "MERAMBUNG",
+  "postalCode": "38571"
  },
  {
   "id": 1701062005,
   "districtId": 1701062,
-  "name": "SIMPANG PINO"
+  "districtName": "ULU MANNA",
+  "name": "SIMPANG PINO",
+  "postalCode": "38571"
  },
  {
   "id": 1701062006,
   "districtId": 1701062,
-  "name": "TALANG TINGGI"
+  "districtName": "ULU MANNA",
+  "name": "TALANG TINGGI",
+  "postalCode": "37162"
  },
  {
   "id": 1701062007,
   "districtId": 1701062,
-  "name": "KEBAN JATI"
+  "districtName": "ULU MANNA",
+  "name": "KEBAN JATI",
+  "postalCode": "38571"
  },
  {
   "id": 1701062008,
   "districtId": 1701062,
-  "name": "LUBUK TAPI"
+  "districtName": "ULU MANNA",
+  "name": "LUBUK TAPI",
+  "postalCode": "38571"
  },
  {
   "id": 1701062009,
   "districtId": 1701062,
-  "name": "KAYU AJARAN"
+  "districtName": "ULU MANNA",
+  "name": "KAYU AJARAN",
+  "postalCode": "38571"
  },
  {
   "id": 1701062010,
   "districtId": 1701062,
-  "name": "AIR TENAM"
+  "districtName": "ULU MANNA",
+  "name": "AIR TENAM",
+  "postalCode": ""
  }
 ]

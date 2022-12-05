@@ -2,96 +2,134 @@
  {
   "id": 1212280001,
   "districtId": 1212280,
-  "name": "SEI TUAN"
+  "districtName": "PANTAI LABU",
+  "name": "SEI TUAN",
+  "postalCode": "20553"
  },
  {
   "id": 1212280002,
   "districtId": 1212280,
-  "name": "TENGAH"
+  "districtName": "PANTAI LABU",
+  "name": "TENGAH",
+  "postalCode": "23752"
  },
  {
   "id": 1212280003,
   "districtId": 1212280,
-  "name": "KELAMBIR"
+  "districtName": "PANTAI LABU",
+  "name": "KELAMBIR",
+  "postalCode": "20553"
  },
  {
   "id": 1212280004,
   "districtId": 1212280,
-  "name": "DURIAN"
+  "districtName": "PANTAI LABU",
+  "name": "DURIAN",
+  "postalCode": "20621"
  },
  {
   "id": 1212280005,
   "districtId": 1212280,
-  "name": "KUBAH SENTANG"
+  "districtName": "PANTAI LABU",
+  "name": "KUBAH SENTANG",
+  "postalCode": "20553"
  },
  {
   "id": 1212280006,
   "districtId": 1212280,
-  "name": "PERKBUNAN RAMUNIA"
+  "districtName": "PANTAI LABU",
+  "name": "PERKBUNAN RAMUNIA",
+  "postalCode": ""
  },
  {
   "id": 1212280007,
   "districtId": 1212280,
-  "name": "RAMUNIA DUA"
+  "districtName": "PANTAI LABU",
+  "name": "RAMUNIA DUA",
+  "postalCode": ""
  },
  {
   "id": 1212280008,
   "districtId": 1212280,
-  "name": "RAMUNIA SATU"
+  "districtName": "PANTAI LABU",
+  "name": "RAMUNIA SATU",
+  "postalCode": ""
  },
  {
   "id": 1212280009,
   "districtId": 1212280,
-  "name": "DENAI SARANG BURUNG"
+  "districtName": "PANTAI LABU",
+  "name": "DENAI SARANG BURUNG",
+  "postalCode": "20553"
  },
  {
   "id": 1212280010,
   "districtId": 1212280,
-  "name": "DENAI LAMA"
+  "districtName": "PANTAI LABU",
+  "name": "DENAI LAMA",
+  "postalCode": "20553"
  },
  {
   "id": 1212280011,
   "districtId": 1212280,
-  "name": "BINJAI BAKUNG"
+  "districtName": "PANTAI LABU",
+  "name": "BINJAI BAKUNG",
+  "postalCode": "20553"
  },
  {
   "id": 1212280012,
   "districtId": 1212280,
-  "name": "DENAI KUALA"
+  "districtName": "PANTAI LABU",
+  "name": "DENAI KUALA",
+  "postalCode": "20553"
  },
  {
   "id": 1212280013,
   "districtId": 1212280,
-  "name": "PALUH SIBAJI"
+  "districtName": "PANTAI LABU",
+  "name": "PALUH SIBAJI",
+  "postalCode": ""
  },
  {
   "id": 1212280014,
   "districtId": 1212280,
-  "name": "PANTAI LABU BARU"
+  "districtName": "PANTAI LABU",
+  "name": "PANTAI LABU BARU",
+  "postalCode": "20553"
  },
  {
   "id": 1212280015,
   "districtId": 1212280,
-  "name": "PANTAI LABU PEKAN"
+  "districtName": "PANTAI LABU",
+  "name": "PANTAI LABU PEKAN",
+  "postalCode": "20553"
  },
  {
   "id": 1212280016,
   "districtId": 1212280,
-  "name": "RUGEMUK"
+  "districtName": "PANTAI LABU",
+  "name": "RUGEMUK",
+  "postalCode": ""
  },
  {
   "id": 1212280017,
   "districtId": 1212280,
-  "name": "PEMATANG BIARA"
+  "districtName": "PANTAI LABU",
+  "name": "PEMATANG BIARA",
+  "postalCode": "20553"
  },
  {
   "id": 1212280018,
   "districtId": 1212280,
-  "name": "RANTAU PANJANG"
+  "districtName": "PANTAI LABU",
+  "name": "RANTAU PANJANG",
+  "postalCode": "24476"
  },
  {
   "id": 1212280019,
   "districtId": 1212280,
-  "name": "BAGAN SERDANG"
+  "districtName": "PANTAI LABU",
+  "name": "BAGAN SERDANG",
+  "postalCode": "20553"
  }
 ]

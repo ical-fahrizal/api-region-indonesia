@@ -2,46 +2,64 @@
  {
   "id": 1572020001,
   "districtId": 1572020,
-  "name": "RENAH KAYU EMBUN"
+  "districtName": "KUMUN DEBAI",
+  "name": "RENAH KAYU EMBUN",
+  "postalCode": "37111"
  },
  {
   "id": 1572020002,
   "districtId": 1572020,
-  "name": "AIR TELUH"
+  "districtName": "KUMUN DEBAI",
+  "name": "AIR TELUH",
+  "postalCode": ""
  },
  {
   "id": 1572020003,
   "districtId": 1572020,
-  "name": "KUMUN MUDIK"
+  "districtName": "KUMUN DEBAI",
+  "name": "KUMUN MUDIK",
+  "postalCode": "37111"
  },
  {
   "id": 1572020004,
   "districtId": 1572020,
-  "name": "MUARA JAYA"
+  "districtName": "KUMUN DEBAI",
+  "name": "MUARA JAYA",
+  "postalCode": "28559"
  },
  {
   "id": 1572020005,
   "districtId": 1572020,
-  "name": "KUMUN HILIR"
+  "districtName": "KUMUN DEBAI",
+  "name": "KUMUN HILIR",
+  "postalCode": "37111"
  },
  {
   "id": 1572020006,
   "districtId": 1572020,
-  "name": "ULU AIR"
+  "districtName": "KUMUN DEBAI",
+  "name": "ULU AIR",
+  "postalCode": "37111"
  },
  {
   "id": 1572020007,
   "districtId": 1572020,
-  "name": "SANDARAN GALEH"
+  "districtName": "KUMUN DEBAI",
+  "name": "SANDARAN GALEH",
+  "postalCode": "37111"
  },
  {
   "id": 1572020008,
   "districtId": 1572020,
-  "name": "PINGGIR AIR"
+  "districtName": "KUMUN DEBAI",
+  "name": "PINGGIR AIR",
+  "postalCode": "37111"
  },
  {
   "id": 1572020009,
   "districtId": 1572020,
-  "name": "DEBAI"
+  "districtName": "KUMUN DEBAI",
+  "name": "DEBAI",
+  "postalCode": "37111"
  }
 ]

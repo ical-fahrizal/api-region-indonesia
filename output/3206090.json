@@ -2,61 +2,85 @@
  {
   "id": 3206090001,
   "districtId": 3206090,
-  "name": "CUKANGJAYAGUNA"
+  "districtName": "SODONGHILIR",
+  "name": "CUKANGJAYAGUNA",
+  "postalCode": "46473"
  },
  {
   "id": 3206090002,
   "districtId": 3206090,
-  "name": "SUKABAKTI"
+  "districtName": "SODONGHILIR",
+  "name": "SUKABAKTI",
+  "postalCode": "35594"
  },
  {
   "id": 3206090003,
   "districtId": 3206090,
-  "name": "PARUMASAN"
+  "districtName": "SODONGHILIR",
+  "name": "PARUMASAN",
+  "postalCode": "46473"
  },
  {
   "id": 3206090004,
   "districtId": 3206090,
-  "name": "SEPATNUNGGAL"
+  "districtName": "SODONGHILIR",
+  "name": "SEPATNUNGGAL",
+  "postalCode": "46473"
  },
  {
   "id": 3206090005,
   "districtId": 3206090,
-  "name": "RAKSAJAYA"
+  "districtName": "SODONGHILIR",
+  "name": "RAKSAJAYA",
+  "postalCode": "46473"
  },
  {
   "id": 3206090006,
   "districtId": 3206090,
-  "name": "SODONGHILIR"
+  "districtName": "SODONGHILIR",
+  "name": "SODONGHILIR",
+  "postalCode": "46473"
  },
  {
   "id": 3206090007,
   "districtId": 3206090,
-  "name": "CUKANGKAWUNG"
+  "districtName": "SODONGHILIR",
+  "name": "CUKANGKAWUNG",
+  "postalCode": "46473"
  },
  {
   "id": 3206090008,
   "districtId": 3206090,
-  "name": "CIKALONG"
+  "districtName": "SODONGHILIR",
+  "name": "CIKALONG",
+  "postalCode": "40556"
  },
  {
   "id": 3206090009,
   "districtId": 3206090,
-  "name": "CIPAINGEUN"
+  "districtName": "SODONGHILIR",
+  "name": "CIPAINGEUN",
+  "postalCode": "46473"
  },
  {
   "id": 3206090010,
   "districtId": 3206090,
-  "name": "PAKALONGAN"
+  "districtName": "SODONGHILIR",
+  "name": "PAKALONGAN",
+  "postalCode": "46473"
  },
  {
   "id": 3206090011,
   "districtId": 3206090,
-  "name": "LEUWIDULANG"
+  "districtName": "SODONGHILIR",
+  "name": "LEUWIDULANG",
+  "postalCode": "46473"
  },
  {
   "id": 3206090012,
   "districtId": 3206090,
-  "name": "MUNCANG"
+  "districtName": "SODONGHILIR",
+  "name": "MUNCANG",
+  "postalCode": "46473"
  }
 ]

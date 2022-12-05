@@ -2,31 +2,43 @@
  {
   "id": 8271011001,
   "districtId": 8271011,
-  "name": "FIGUR"
+  "districtName": "MOTI",
+  "name": "FIGUR",
+  "postalCode": "97751"
  },
  {
   "id": 8271011002,
   "districtId": 8271011,
-  "name": "TAKOFI"
+  "districtName": "MOTI",
+  "name": "TAKOFI",
+  "postalCode": "97751"
  },
  {
   "id": 8271011003,
   "districtId": 8271011,
-  "name": "TAFAGA"
+  "districtName": "MOTI",
+  "name": "TAFAGA",
+  "postalCode": "97751"
  },
  {
   "id": 8271011004,
   "districtId": 8271011,
-  "name": "TADENAS"
+  "districtName": "MOTI",
+  "name": "TADENAS",
+  "postalCode": "97751"
  },
  {
   "id": 8271011005,
   "districtId": 8271011,
-  "name": "KOTA MOTI"
+  "districtName": "MOTI",
+  "name": "KOTA MOTI",
+  "postalCode": ""
  },
  {
   "id": 8271011006,
   "districtId": 8271011,
-  "name": "TAFAMUTU"
+  "districtName": "MOTI",
+  "name": "TAFAMUTU",
+  "postalCode": "97751"
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 7207010009,
   "districtId": 7207010,
-  "name": "TUINAN"
+  "districtName": "LAKEA",
+  "name": "TUINAN",
+  "postalCode": ""
  },
  {
   "id": 7207010010,
   "districtId": 7207010,
-  "name": "LAKEA II"
+  "districtName": "LAKEA",
+  "name": "LAKEA II",
+  "postalCode": ""
  },
  {
   "id": 7207010011,
   "districtId": 7207010,
-  "name": "LAKEA 1"
+  "districtName": "LAKEA",
+  "name": "LAKEA 1",
+  "postalCode": ""
  },
  {
   "id": 7207010012,
   "districtId": 7207010,
-  "name": "LAKUAN BUOL"
+  "districtName": "LAKEA",
+  "name": "LAKUAN BUOL",
+  "postalCode": ""
  },
  {
   "id": 7207010017,
   "districtId": 7207010,
-  "name": "BUKAAN"
+  "districtName": "LAKEA",
+  "name": "BUKAAN",
+  "postalCode": ""
  },
  {
   "id": 7207010018,
   "districtId": 7207010,
-  "name": "ILAMBE"
+  "districtName": "LAKEA",
+  "name": "ILAMBE",
+  "postalCode": "94563"
  }
 ]

@@ -2,61 +2,85 @@
  {
   "id": 3211170003,
   "districtId": 3211170,
-  "name": "TANJUNGMEKAR"
+  "districtName": "TANJUNGKERTA",
+  "name": "TANJUNGMEKAR",
+  "postalCode": "46175"
  },
  {
   "id": 3211170004,
   "districtId": 3211170,
-  "name": "CIGENTUR"
+  "districtName": "TANJUNGKERTA",
+  "name": "CIGENTUR",
+  "postalCode": "40383"
  },
  {
   "id": 3211170005,
   "districtId": 3211170,
-  "name": "GUNTURMEKAR"
+  "districtName": "TANJUNGKERTA",
+  "name": "GUNTURMEKAR",
+  "postalCode": "45354"
  },
  {
   "id": 3211170006,
   "districtId": 3211170,
-  "name": "CIPANAS"
+  "districtName": "TANJUNGKERTA",
+  "name": "CIPANAS",
+  "postalCode": "43253"
  },
  {
   "id": 3211170007,
   "districtId": 3211170,
-  "name": "BANYUASIH"
+  "districtName": "TANJUNGKERTA",
+  "name": "BANYUASIH",
+  "postalCode": "41374"
  },
  {
   "id": 3211170008,
   "districtId": 3211170,
-  "name": "MULYAMEKAR"
+  "districtName": "TANJUNGKERTA",
+  "name": "MULYAMEKAR",
+  "postalCode": "41151"
  },
  {
   "id": 3211170009,
   "districtId": 3211170,
-  "name": "SUKAMANTRI"
+  "districtName": "TANJUNGKERTA",
+  "name": "SUKAMANTRI",
+  "postalCode": "46156"
  },
  {
   "id": 3211170016,
   "districtId": 3211170,
-  "name": "KERTAHARJA"
+  "districtName": "TANJUNGKERTA",
+  "name": "KERTAHARJA",
+  "postalCode": "46271"
  },
  {
   "id": 3211170017,
   "districtId": 3211170,
-  "name": "KERTAMEKAR"
+  "districtName": "TANJUNGKERTA",
+  "name": "KERTAMEKAR",
+  "postalCode": "45354"
  },
  {
   "id": 3211170018,
   "districtId": 3211170,
-  "name": "TANJUNGMULYA"
+  "districtName": "TANJUNGKERTA",
+  "name": "TANJUNGMULYA",
+  "postalCode": "21256"
  },
  {
   "id": 3211170019,
   "districtId": 3211170,
-  "name": "BOROS"
+  "districtName": "TANJUNGKERTA",
+  "name": "BOROS",
+  "postalCode": "45354"
  },
  {
   "id": 3211170020,
   "districtId": 3211170,
-  "name": "AWILEGA"
+  "districtName": "TANJUNGKERTA",
+  "name": "AWILEGA",
+  "postalCode": "42251"
  }
 ]

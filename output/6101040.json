@@ -2,91 +2,127 @@
  {
   "id": 6101040019,
   "districtId": 6101040,
-  "name": "SEI RAMBAH"
+  "districtName": "SAMBAS",
+  "name": "SEI RAMBAH",
+  "postalCode": ""
  },
  {
   "id": 6101040020,
   "districtId": 6101040,
-  "name": "GAPURA"
+  "districtName": "SAMBAS",
+  "name": "GAPURA",
+  "postalCode": "52357"
  },
  {
   "id": 6101040021,
   "districtId": 6101040,
-  "name": "KARTIASA"
+  "districtName": "SAMBAS",
+  "name": "KARTIASA",
+  "postalCode": "79462"
  },
  {
   "id": 6101040022,
   "districtId": 6101040,
-  "name": "SAING RAMBI"
+  "districtName": "SAMBAS",
+  "name": "SAING RAMBI",
+  "postalCode": "79462"
  },
  {
   "id": 6101040023,
   "districtId": 6101040,
-  "name": "LUMBANG"
+  "districtName": "SAMBAS",
+  "name": "LUMBANG",
+  "postalCode": "67183"
  },
  {
   "id": 6101040024,
   "districtId": 6101040,
-  "name": "DURIAN"
+  "districtName": "SAMBAS",
+  "name": "DURIAN",
+  "postalCode": "20621"
  },
  {
   "id": 6101040025,
   "districtId": 6101040,
-  "name": "PASAR MELAYU"
+  "districtName": "SAMBAS",
+  "name": "PASAR MELAYU",
+  "postalCode": "79462"
  },
  {
   "id": 6101040026,
   "districtId": 6101040,
-  "name": "PENDAWAN"
+  "districtName": "SAMBAS",
+  "name": "PENDAWAN",
+  "postalCode": "79462"
  },
  {
   "id": 6101040027,
   "districtId": 6101040,
-  "name": "TANJUNG BUGIS"
+  "districtName": "SAMBAS",
+  "name": "TANJUNG BUGIS",
+  "postalCode": "79462"
  },
  {
   "id": 6101040028,
   "districtId": 6101040,
-  "name": "LUBUK DAGANG"
+  "districtName": "SAMBAS",
+  "name": "LUBUK DAGANG",
+  "postalCode": "79462"
  },
  {
   "id": 6101040029,
   "districtId": 6101040,
-  "name": "DALAM KAUM"
+  "districtName": "SAMBAS",
+  "name": "DALAM KAUM",
+  "postalCode": "79462"
  },
  {
   "id": 6101040030,
   "districtId": 6101040,
-  "name": "TANJUNG MEKAR"
+  "districtName": "SAMBAS",
+  "name": "TANJUNG MEKAR",
+  "postalCode": "79462"
  },
  {
   "id": 6101040031,
   "districtId": 6101040,
-  "name": "TUMUK MANGGIS"
+  "districtName": "SAMBAS",
+  "name": "TUMUK MANGGIS",
+  "postalCode": ""
  },
  {
   "id": 6101040032,
   "districtId": 6101040,
-  "name": "JAGUR"
+  "districtName": "SAMBAS",
+  "name": "JAGUR",
+  "postalCode": "79462"
  },
  {
   "id": 6101040033,
   "districtId": 6101040,
-  "name": "LORONG"
+  "districtName": "SAMBAS",
+  "name": "LORONG",
+  "postalCode": "79462"
  },
  {
   "id": 6101040034,
   "districtId": 6101040,
-  "name": "SEBAYAN"
+  "districtName": "SAMBAS",
+  "name": "SEBAYAN",
+  "postalCode": "79462"
  },
  {
   "id": 6101040035,
   "districtId": 6101040,
-  "name": "SUMBER HARAPAN"
+  "districtName": "SAMBAS",
+  "name": "SUMBER HARAPAN",
+  "postalCode": "21261"
  },
  {
   "id": 6101040040,
   "districtId": 6101040,
-  "name": "SEMANGAU"
+  "districtName": "SAMBAS",
+  "name": "SEMANGAU",
+  "postalCode": "79462"
  }
 ]

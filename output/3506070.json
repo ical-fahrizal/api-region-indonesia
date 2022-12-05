@@ -2,81 +2,113 @@
  {
   "id": 3506070002,
   "districtId": 3506070,
-  "name": "TAWANG"
+  "districtName": "WATES",
+  "name": "TAWANG",
+  "postalCode": "46194"
  },
  {
   "id": 3506070003,
   "districtId": 3506070,
-  "name": "SEGARAN"
+  "districtName": "WATES",
+  "name": "SEGARAN",
+  "postalCode": "41354"
  },
  {
   "id": 3506070004,
   "districtId": 3506070,
-  "name": "GADUNGAN"
+  "districtName": "WATES",
+  "name": "GADUNGAN",
+  "postalCode": "57461"
  },
  {
   "id": 3506070005,
   "districtId": 3506070,
-  "name": "POJOK"
+  "districtName": "WATES",
+  "name": "POJOK",
+  "postalCode": "57752"
  },
  {
   "id": 3506070006,
   "districtId": 3506070,
-  "name": "WONOREJO"
+  "districtName": "WATES",
+  "name": "WONOREJO",
+  "postalCode": "21186"
  },
  {
   "id": 3506070007,
   "districtId": 3506070,
-  "name": "WATES"
+  "districtName": "WATES",
+  "name": "WATES",
+  "postalCode": "32273"
  },
  {
   "id": 3506070008,
   "districtId": 3506070,
-  "name": "JAJAR"
+  "districtName": "WATES",
+  "name": "JAJAR",
+  "postalCode": "57144"
  },
  {
   "id": 3506070010,
   "districtId": 3506070,
-  "name": "TEMPUREJO"
+  "districtName": "WATES",
+  "name": "TEMPUREJO",
+  "postalCode": "58219"
  },
  {
   "id": 3506070011,
   "districtId": 3506070,
-  "name": "PLAOSAN"
+  "districtName": "WATES",
+  "name": "PLAOSAN",
+  "postalCode": "59157"
  },
  {
   "id": 3506070012,
   "districtId": 3506070,
-  "name": "KARANGANYAR"
+  "districtName": "WATES",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  },
  {
   "id": 3506070013,
   "districtId": 3506070,
-  "name": "SUMBERAGUNG"
+  "districtName": "WATES",
+  "name": "SUMBERAGUNG",
+  "postalCode": "35452"
  },
  {
   "id": 3506070014,
   "districtId": 3506070,
-  "name": "PAGU"
+  "districtName": "WATES",
+  "name": "PAGU",
+  "postalCode": "64183"
  },
  {
   "id": 3506070015,
   "districtId": 3506070,
-  "name": "JOHO"
+  "districtName": "WATES",
+  "name": "JOHO",
+  "postalCode": "54363"
  },
  {
   "id": 3506070016,
   "districtId": 3506070,
-  "name": "SILIR"
+  "districtName": "WATES",
+  "name": "SILIR",
+  "postalCode": "64174"
  },
  {
   "id": 3506070017,
   "districtId": 3506070,
-  "name": "JANTI"
+  "districtName": "WATES",
+  "name": "JANTI",
+  "postalCode": "57474"
  },
  {
   "id": 3506070018,
   "districtId": 3506070,
-  "name": "SIDOMULYO"
+  "districtName": "WATES",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  }
 ]

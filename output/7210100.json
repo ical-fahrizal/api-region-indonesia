@@ -2,26 +2,36 @@
  {
   "id": 7210100001,
   "districtId": 7210100,
-  "name": "LAMBARA"
+  "districtName": "TANAMBULAVA",
+  "name": "LAMBARA",
+  "postalCode": "94364"
  },
  {
   "id": 7210100002,
   "districtId": 7210100,
-  "name": "SIBALAYA SELATAN"
+  "districtName": "TANAMBULAVA",
+  "name": "SIBALAYA SELATAN",
+  "postalCode": "94364"
  },
  {
   "id": 7210100003,
   "districtId": 7210100,
-  "name": "SIBALAYA UTARA"
+  "districtName": "TANAMBULAVA",
+  "name": "SIBALAYA UTARA",
+  "postalCode": "94364"
  },
  {
   "id": 7210100004,
   "districtId": 7210100,
-  "name": "SIBOWI"
+  "districtName": "TANAMBULAVA",
+  "name": "SIBOWI",
+  "postalCode": "94364"
  },
  {
   "id": 7210100005,
   "districtId": 7210100,
-  "name": "SIBALAYA BARAT"
+  "districtName": "TANAMBULAVA",
+  "name": "SIBALAYA BARAT",
+  "postalCode": ""
  }
 ]

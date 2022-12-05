@@ -2,41 +2,57 @@
  {
   "id": 7314061001,
   "districtId": 7314061,
-  "name": "KANYUARA"
+  "districtName": "WATANG SIDENRENG",
+  "name": "KANYUARA",
+  "postalCode": "91613"
  },
  {
   "id": 7314061002,
   "districtId": 7314061,
-  "name": "SIDENRENG"
+  "districtName": "WATANG SIDENRENG",
+  "name": "SIDENRENG",
+  "postalCode": ""
  },
  {
   "id": 7314061003,
   "districtId": 7314061,
-  "name": "EMPAGAE"
+  "districtName": "WATANG SIDENRENG",
+  "name": "EMPAGAE",
+  "postalCode": "91613"
  },
  {
   "id": 7314061004,
   "districtId": 7314061,
-  "name": "MOJONG"
+  "districtName": "WATANG SIDENRENG",
+  "name": "MOJONG",
+  "postalCode": "91614"
  },
  {
   "id": 7314061005,
   "districtId": 7314061,
-  "name": "TALUMAE"
+  "districtName": "WATANG SIDENRENG",
+  "name": "TALUMAE",
+  "postalCode": "91613"
  },
  {
   "id": 7314061006,
   "districtId": 7314061,
-  "name": "AKA-AKAE"
+  "districtName": "WATANG SIDENRENG",
+  "name": "AKA-AKAE",
+  "postalCode": "91613"
  },
  {
   "id": 7314061007,
   "districtId": 7314061,
-  "name": "DAMAI"
+  "districtName": "WATANG SIDENRENG",
+  "name": "DAMAI",
+  "postalCode": "20745"
  },
  {
   "id": 7314061008,
   "districtId": 7314061,
-  "name": "TALAWE"
+  "districtName": "WATANG SIDENRENG",
+  "name": "TALAWE",
+  "postalCode": "91613"
  }
 ]

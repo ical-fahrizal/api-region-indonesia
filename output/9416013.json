@@ -2,61 +2,85 @@
  {
   "id": 9416013001,
   "districtId": 9416013,
-  "name": "DEKAI"
+  "districtName": "DEKAI",
+  "name": "DEKAI",
+  "postalCode": "99571"
  },
  {
   "id": 9416013002,
   "districtId": 9416013,
-  "name": "KUASERAMA"
+  "districtName": "DEKAI",
+  "name": "KUASERAMA",
+  "postalCode": "99571"
  },
  {
   "id": 9416013003,
   "districtId": 9416013,
-  "name": "MORUKU"
+  "districtName": "DEKAI",
+  "name": "MORUKU",
+  "postalCode": ""
  },
  {
   "id": 9416013004,
   "districtId": 9416013,
-  "name": "MASSI"
+  "districtName": "DEKAI",
+  "name": "MASSI",
+  "postalCode": "99571"
  },
  {
   "id": 9416013005,
   "districtId": 9416013,
-  "name": "KEIKEY"
+  "districtName": "DEKAI",
+  "name": "KEIKEY",
+  "postalCode": "99571"
  },
  {
   "id": 9416013006,
   "districtId": 9416013,
-  "name": "KUARI"
+  "districtName": "DEKAI",
+  "name": "KUARI",
+  "postalCode": "99571"
  },
  {
   "id": 9416013007,
   "districtId": 9416013,
-  "name": "MUARA"
+  "districtName": "DEKAI",
+  "name": "MUARA",
+  "postalCode": "41259"
  },
  {
   "id": 9416013008,
   "districtId": 9416013,
-  "name": "KIRIBUN"
+  "districtName": "DEKAI",
+  "name": "KIRIBUN",
+  "postalCode": "99571"
  },
  {
   "id": 9416013009,
   "districtId": 9416013,
-  "name": "KOKAMU"
+  "districtName": "DEKAI",
+  "name": "KOKAMU",
+  "postalCode": "99571"
  },
  {
   "id": 9416013010,
   "districtId": 9416013,
-  "name": "TOMON I"
+  "districtName": "DEKAI",
+  "name": "TOMON I",
+  "postalCode": ""
  },
  {
   "id": 9416013011,
   "districtId": 9416013,
-  "name": "SOKAMU"
+  "districtName": "DEKAI",
+  "name": "SOKAMU",
+  "postalCode": "99571"
  },
  {
   "id": 9416013012,
   "districtId": 9416013,
-  "name": "TOMON II"
+  "districtName": "DEKAI",
+  "name": "TOMON II",
+  "postalCode": ""
  }
 ]

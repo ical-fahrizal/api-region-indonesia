@@ -2,136 +2,190 @@
  {
   "id": 1221080074,
   "districtId": 1221080,
-  "name": "GANAL"
+  "districtName": "HURISTAK",
+  "name": "GANAL",
+  "postalCode": "22742"
  },
  {
   "id": 1221080076,
   "districtId": 1221080,
-  "name": "GUNUNG MATINGGI"
+  "districtName": "HURISTAK",
+  "name": "GUNUNG MATINGGI",
+  "postalCode": "22742"
  },
  {
   "id": 1221080077,
   "districtId": 1221080,
-  "name": "GUNUNG MANAON HR"
+  "districtName": "HURISTAK",
+  "name": "GUNUNG MANAON HR",
+  "postalCode": "22742"
  },
  {
   "id": 1221080078,
   "districtId": 1221080,
-  "name": "PAYA BUJING"
+  "districtName": "HURISTAK",
+  "name": "PAYA BUJING",
+  "postalCode": "22742"
  },
  {
   "id": 1221080079,
   "districtId": 1221080,
-  "name": "BULU CINA"
+  "districtName": "HURISTAK",
+  "name": "BULU CINA",
+  "postalCode": "20374"
  },
  {
   "id": 1221080080,
   "districtId": 1221080,
-  "name": "GONTING JULU"
+  "districtName": "HURISTAK",
+  "name": "GONTING JULU",
+  "postalCode": "22742"
  },
  {
   "id": 1221080084,
   "districtId": 1221080,
-  "name": "GONTING JAE"
+  "districtName": "HURISTAK",
+  "name": "GONTING JAE",
+  "postalCode": "22742"
  },
  {
   "id": 1221080085,
   "districtId": 1221080,
-  "name": "BINANGA TOLU"
+  "districtName": "HURISTAK",
+  "name": "BINANGA TOLU",
+  "postalCode": "22742"
  },
  {
   "id": 1221080086,
   "districtId": 1221080,
-  "name": "PASIR LANCAT LAMA"
+  "districtName": "HURISTAK",
+  "name": "PASIR LANCAT LAMA",
+  "postalCode": "22742"
  },
  {
   "id": 1221080087,
   "districtId": 1221080,
-  "name": "PASIR LANCAT BARU"
+  "districtName": "HURISTAK",
+  "name": "PASIR LANCAT BARU",
+  "postalCode": "22742"
  },
  {
   "id": 1221080088,
   "districtId": 1221080,
-  "name": "RAMBA"
+  "districtName": "HURISTAK",
+  "name": "RAMBA",
+  "postalCode": "22742"
  },
  {
   "id": 1221080089,
   "districtId": 1221080,
-  "name": "TARUTUNG SIHODA-HODA"
+  "districtName": "HURISTAK",
+  "name": "TARUTUNG SIHODA-HODA",
+  "postalCode": ""
  },
  {
   "id": 1221080090,
   "districtId": 1221080,
-  "name": "PASIR PINANG"
+  "districtName": "HURISTAK",
+  "name": "PASIR PINANG",
+  "postalCode": "22742"
  },
  {
   "id": 1221080091,
   "districtId": 1221080,
-  "name": "PULO BARIANG"
+  "districtName": "HURISTAK",
+  "name": "PULO BARIANG",
+  "postalCode": ""
  },
  {
   "id": 1221080092,
   "districtId": 1221080,
-  "name": "PASAR HURISTAK"
+  "districtName": "HURISTAK",
+  "name": "PASAR HURISTAK",
+  "postalCode": "22742"
  },
  {
   "id": 1221080093,
   "districtId": 1221080,
-  "name": "HURISTAK"
+  "districtName": "HURISTAK",
+  "name": "HURISTAK",
+  "postalCode": "22742"
  },
  {
   "id": 1221080094,
   "districtId": 1221080,
-  "name": "SIPIROK BARU"
+  "districtName": "HURISTAK",
+  "name": "SIPIROK BARU",
+  "postalCode": "22742"
  },
  {
   "id": 1221080095,
   "districtId": 1221080,
-  "name": "PARAN TONGA HR (AN)"
+  "districtName": "HURISTAK",
+  "name": "PARAN TONGA HR (AN)",
+  "postalCode": "22742"
  },
  {
   "id": 1221080096,
   "districtId": 1221080,
-  "name": "TOBING TINGGI HR"
+  "districtName": "HURISTAK",
+  "name": "TOBING TINGGI HR",
+  "postalCode": "22742"
  },
  {
   "id": 1221080097,
   "districtId": 1221080,
-  "name": "TOBING JULU"
+  "districtName": "HURISTAK",
+  "name": "TOBING JULU",
+  "postalCode": "22742"
  },
  {
   "id": 1221080098,
   "districtId": 1221080,
-  "name": "HUTA PASIR ULAK TANO"
+  "districtName": "HURISTAK",
+  "name": "HUTA PASIR ULAK TANO",
+  "postalCode": "22742"
  },
  {
   "id": 1221080099,
   "districtId": 1221080,
-  "name": "GALA BONANG"
+  "districtName": "HURISTAK",
+  "name": "GALA BONANG",
+  "postalCode": "22742"
  },
  {
   "id": 1221080100,
   "districtId": 1221080,
-  "name": "TOBING JAE"
+  "districtName": "HURISTAK",
+  "name": "TOBING JAE",
+  "postalCode": "22742"
  },
  {
   "id": 1221080101,
   "districtId": 1221080,
-  "name": "SIALA GUNDI"
+  "districtName": "HURISTAK",
+  "name": "SIALA GUNDI",
+  "postalCode": "22742"
  },
  {
   "id": 1221080102,
   "districtId": 1221080,
-  "name": "TANJUNG MORANG HR"
+  "districtName": "HURISTAK",
+  "name": "TANJUNG MORANG HR",
+  "postalCode": "22742"
  },
  {
   "id": 1221080103,
   "districtId": 1221080,
-  "name": "TANJUNG BARINGIN"
+  "districtName": "HURISTAK",
+  "name": "TANJUNG BARINGIN",
+  "postalCode": "22742"
  },
  {
   "id": 1221080106,
   "districtId": 1221080,
-  "name": "SIGADING"
+  "districtName": "HURISTAK",
+  "name": "SIGADING",
+  "postalCode": "22742"
  }
 ]

@@ -2,61 +2,85 @@
  {
   "id": 7410060001,
   "districtId": 7410060,
-  "name": "SARI MUKTI (UPT.HIALU IV)"
+  "districtName": "LANGGIKIMA",
+  "name": "SARI MUKTI (UPT.HIALU IV)",
+  "postalCode": ""
  },
  {
   "id": 7410060002,
   "districtId": 7410060,
-  "name": "LANGGI KIMA (UPT.HIALU III)"
+  "districtName": "LANGGIKIMA",
+  "name": "LANGGI KIMA (UPT.HIALU III)",
+  "postalCode": ""
  },
  {
   "id": 7410060003,
   "districtId": 7410060,
-  "name": "MOLORE"
+  "districtName": "LANGGIKIMA",
+  "name": "MOLORE",
+  "postalCode": "93352"
  },
  {
   "id": 7410060004,
   "districtId": 7410060,
-  "name": "LAMERURU"
+  "districtName": "LANGGIKIMA",
+  "name": "LAMERURU",
+  "postalCode": "93352"
  },
  {
   "id": 7410060005,
   "districtId": 7410060,
-  "name": "UPT.MOROMBO/TOBIMEITA"
+  "districtName": "LANGGIKIMA",
+  "name": "UPT.MOROMBO/TOBIMEITA",
+  "postalCode": ""
  },
  {
   "id": 7410060006,
   "districtId": 7410060,
-  "name": "PARIAMA"
+  "districtName": "LANGGIKIMA",
+  "name": "PARIAMA",
+  "postalCode": "93352"
  },
  {
   "id": 7410060007,
   "districtId": 7410060,
-  "name": "POLORA INDAH"
+  "districtName": "LANGGIKIMA",
+  "name": "POLORA INDAH",
+  "postalCode": "93352"
  },
  {
   "id": 7410060008,
   "districtId": 7410060,
-  "name": "ALENGGO"
+  "districtName": "LANGGIKIMA",
+  "name": "ALENGGO",
+  "postalCode": "93352"
  },
  {
   "id": 7410060009,
   "districtId": 7410060,
-  "name": "MEKAR JAYA"
+  "districtName": "LANGGIKIMA",
+  "name": "MEKAR JAYA",
+  "postalCode": "20771"
  },
  {
   "id": 7410060010,
   "districtId": 7410060,
-  "name": "MOLORE PANTAI"
+  "districtName": "LANGGIKIMA",
+  "name": "MOLORE PANTAI",
+  "postalCode": ""
  },
  {
   "id": 7410060011,
   "districtId": 7410060,
-  "name": "NGAPAINIA"
+  "districtName": "LANGGIKIMA",
+  "name": "NGAPAINIA",
+  "postalCode": ""
  },
  {
   "id": 7410060012,
   "districtId": 7410060,
-  "name": "MOROMBO PANTAI"
+  "districtName": "LANGGIKIMA",
+  "name": "MOROMBO PANTAI",
+  "postalCode": "93352"
  }
 ]

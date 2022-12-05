@@ -2,56 +2,78 @@
  {
   "id": 1502060026,
   "districtId": 1502060,
-  "name": "KELURAHAN MAMPUN"
+  "districtName": "TABIR",
+  "name": "KELURAHAN MAMPUN",
+  "postalCode": ""
  },
  {
   "id": 1502060027,
   "districtId": 1502060,
-  "name": "KELURAHAN KAMPUNG BARUH"
+  "districtName": "TABIR",
+  "name": "KELURAHAN KAMPUNG BARUH",
+  "postalCode": ""
  },
  {
   "id": 1502060028,
   "districtId": 1502060,
-  "name": "KELURAHAN PASAR RANTAU PANJANG"
+  "districtName": "TABIR",
+  "name": "KELURAHAN PASAR RANTAU PANJANG",
+  "postalCode": ""
  },
  {
   "id": 1502060029,
   "districtId": 1502060,
-  "name": "SELING"
+  "districtName": "TABIR",
+  "name": "SELING",
+  "postalCode": "37353"
  },
  {
   "id": 1502060030,
   "districtId": 1502060,
-  "name": "KANDANG"
+  "districtName": "TABIR",
+  "name": "KANDANG",
+  "postalCode": "23352"
  },
  {
   "id": 1502060031,
   "districtId": 1502060,
-  "name": "KOTO RAYO"
+  "districtName": "TABIR",
+  "name": "KOTO RAYO",
+  "postalCode": "37353"
  },
  {
   "id": 1502060032,
   "districtId": 1502060,
-  "name": "KELURAHAN DUSUN BARU"
+  "districtName": "TABIR",
+  "name": "KELURAHAN DUSUN BARU",
+  "postalCode": ""
  },
  {
   "id": 1502060033,
   "districtId": 1502060,
-  "name": "BELURAN PANJANG"
+  "districtName": "TABIR",
+  "name": "BELURAN PANJANG",
+  "postalCode": ""
  },
  {
   "id": 1502060035,
   "districtId": 1502060,
-  "name": "TANJUNG ILIR"
+  "districtName": "TABIR",
+  "name": "TANJUNG ILIR",
+  "postalCode": "37353"
  },
  {
   "id": 1502060046,
   "districtId": 1502060,
-  "name": "LUBUK NAPAL"
+  "districtName": "TABIR",
+  "name": "LUBUK NAPAL",
+  "postalCode": "28565"
  },
  {
   "id": 1502060047,
   "districtId": 1502060,
-  "name": "KELURAHAN PASAR BARU RANTAU PANJANG"
+  "districtName": "TABIR",
+  "name": "KELURAHAN PASAR BARU RANTAU PANJANG",
+  "postalCode": ""
  }
 ]

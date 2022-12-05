@@ -2,41 +2,57 @@
  {
   "id": 7304042001,
   "districtId": 7304042,
-  "name": "P A O"
+  "districtName": "TAROWANG",
+  "name": "P A O",
+  "postalCode": ""
  },
  {
   "id": 7304042002,
   "districtId": 7304042,
-  "name": "BONTORAPPO"
+  "districtName": "TAROWANG",
+  "name": "BONTORAPPO",
+  "postalCode": "92361"
  },
  {
   "id": 7304042003,
   "districtId": 7304042,
-  "name": "ALLU TAROWANG"
+  "districtName": "TAROWANG",
+  "name": "ALLU TAROWANG",
+  "postalCode": ""
  },
  {
   "id": 7304042004,
   "districtId": 7304042,
-  "name": "TAROWANG"
+  "districtName": "TAROWANG",
+  "name": "TAROWANG",
+  "postalCode": "92254"
  },
  {
   "id": 7304042005,
   "districtId": 7304042,
-  "name": "BALANG BARU"
+  "districtName": "TAROWANG",
+  "name": "BALANG BARU",
+  "postalCode": "90224"
  },
  {
   "id": 7304042006,
   "districtId": 7304042,
-  "name": "BALANG LOE TAROWANG"
+  "districtName": "TAROWANG",
+  "name": "BALANG LOE TAROWANG",
+  "postalCode": "92361"
  },
  {
   "id": 7304042007,
   "districtId": 7304042,
-  "name": "BONTO UJUNG"
+  "districtName": "TAROWANG",
+  "name": "BONTO UJUNG",
+  "postalCode": "92361"
  },
  {
   "id": 7304042008,
   "districtId": 7304042,
-  "name": "TINO"
+  "districtName": "TAROWANG",
+  "name": "TINO",
+  "postalCode": "92361"
  }
 ]

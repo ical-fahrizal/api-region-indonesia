@@ -2,26 +2,36 @@
  {
   "id": 5303192001,
   "districtId": 5303192,
-  "name": "NUNUANAH"
+  "districtName": "AMFOANG TIMUR",
+  "name": "NUNUANAH",
+  "postalCode": "85364"
  },
  {
   "id": 5303192002,
   "districtId": 5303192,
-  "name": "KIFU"
+  "districtName": "AMFOANG TIMUR",
+  "name": "KIFU",
+  "postalCode": "85364"
  },
  {
   "id": 5303192003,
   "districtId": 5303192,
-  "name": "NETEMNANU SELATAN"
+  "districtName": "AMFOANG TIMUR",
+  "name": "NETEMNANU SELATAN",
+  "postalCode": "85364"
  },
  {
   "id": 5303192004,
   "districtId": 5303192,
-  "name": "NETEMNANU UTARA"
+  "districtName": "AMFOANG TIMUR",
+  "name": "NETEMNANU UTARA",
+  "postalCode": "85364"
  },
  {
   "id": 5303192005,
   "districtId": 5303192,
-  "name": "NETEMNANU"
+  "districtName": "AMFOANG TIMUR",
+  "name": "NETEMNANU",
+  "postalCode": ""
  }
 ]

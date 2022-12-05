@@ -2,51 +2,71 @@
  {
   "id": 8101054001,
   "districtId": 8101054,
-  "name": "LORWEMBUN"
+  "districtName": "KORMOMOLIN",
+  "name": "LORWEMBUN",
+  "postalCode": "97463"
  },
  {
   "id": 8101054002,
   "districtId": 8101054,
-  "name": "ALUSI BATJAS"
+  "districtName": "KORMOMOLIN",
+  "name": "ALUSI BATJAS",
+  "postalCode": "97463"
  },
  {
   "id": 8101054003,
   "districtId": 8101054,
-  "name": "ALUSI TAMRIAN"
+  "districtName": "KORMOMOLIN",
+  "name": "ALUSI TAMRIAN",
+  "postalCode": "97463"
  },
  {
   "id": 8101054004,
   "districtId": 8101054,
-  "name": "ALUSI BUUK JALIN"
+  "districtName": "KORMOMOLIN",
+  "name": "ALUSI BUUK JALIN",
+  "postalCode": ""
  },
  {
   "id": 8101054005,
   "districtId": 8101054,
-  "name": "ALUSI KELAAN"
+  "districtName": "KORMOMOLIN",
+  "name": "ALUSI KELAAN",
+  "postalCode": "97463"
  },
  {
   "id": 8101054006,
   "districtId": 8101054,
-  "name": "ALUSI KRAWAIN"
+  "districtName": "KORMOMOLIN",
+  "name": "ALUSI KRAWAIN",
+  "postalCode": "97463"
  },
  {
   "id": 8101054008,
   "districtId": 8101054,
-  "name": "KILMASA"
+  "districtName": "KORMOMOLIN",
+  "name": "KILMASA",
+  "postalCode": "97463"
  },
  {
   "id": 8101054009,
   "districtId": 8101054,
-  "name": "LUMASEBU"
+  "districtName": "KORMOMOLIN",
+  "name": "LUMASEBU",
+  "postalCode": "97463"
  },
  {
   "id": 8101054010,
   "districtId": 8101054,
-  "name": "MEYANO BAB"
+  "districtName": "KORMOMOLIN",
+  "name": "MEYANO BAB",
+  "postalCode": ""
  },
  {
   "id": 8101054011,
   "districtId": 8101054,
-  "name": "MEYANO DAS"
+  "districtName": "KORMOMOLIN",
+  "name": "MEYANO DAS",
+  "postalCode": ""
  }
 ]

@@ -2,86 +2,120 @@
  {
   "id": 5308040001,
   "districtId": 5308040,
-  "name": "LAMATUKA"
+  "districtName": "LEBATUKAN",
+  "name": "LAMATUKA",
+  "postalCode": "86681"
  },
  {
   "id": 5308040002,
   "districtId": 5308040,
-  "name": "BAOPANA"
+  "districtName": "LEBATUKAN",
+  "name": "BAOPANA",
+  "postalCode": ""
  },
  {
   "id": 5308040003,
   "districtId": 5308040,
-  "name": "MERDEKA"
+  "districtName": "LEBATUKAN",
+  "name": "MERDEKA",
+  "postalCode": "20154"
  },
  {
   "id": 5308040004,
   "districtId": 5308040,
-  "name": "HADAKEWA"
+  "districtName": "LEBATUKAN",
+  "name": "HADAKEWA",
+  "postalCode": "86681"
  },
  {
   "id": 5308040005,
   "districtId": 5308040,
-  "name": "LERAHINGA"
+  "districtName": "LEBATUKAN",
+  "name": "LERAHINGA",
+  "postalCode": "86681"
  },
  {
   "id": 5308040006,
   "districtId": 5308040,
-  "name": "WAIENGA"
+  "districtName": "LEBATUKAN",
+  "name": "WAIENGA",
+  "postalCode": "86681"
  },
  {
   "id": 5308040007,
   "districtId": 5308040,
-  "name": "TAPOBARAN"
+  "districtName": "LEBATUKAN",
+  "name": "TAPOBARAN",
+  "postalCode": "86681"
  },
  {
   "id": 5308040008,
   "districtId": 5308040,
-  "name": "DIKESARE"
+  "districtName": "LEBATUKAN",
+  "name": "DIKESARE",
+  "postalCode": "86681"
  },
  {
   "id": 5308040009,
   "districtId": 5308040,
-  "name": "LAMADALE"
+  "districtName": "LEBATUKAN",
+  "name": "LAMADALE",
+  "postalCode": "86681"
  },
  {
   "id": 5308040010,
   "districtId": 5308040,
-  "name": "LEWOELENG"
+  "districtName": "LEBATUKAN",
+  "name": "LEWOELENG",
+  "postalCode": "86681"
  },
  {
   "id": 5308040011,
   "districtId": 5308040,
-  "name": "LODOTODOKOWA"
+  "districtName": "LEBATUKAN",
+  "name": "LODOTODOKOWA",
+  "postalCode": "86681"
  },
  {
   "id": 5308040012,
   "districtId": 5308040,
-  "name": "SERANGGORANG"
+  "districtName": "LEBATUKAN",
+  "name": "SERANGGORANG",
+  "postalCode": "86681"
  },
  {
   "id": 5308040013,
   "districtId": 5308040,
-  "name": "BALUREBONG"
+  "districtName": "LEBATUKAN",
+  "name": "BALUREBONG",
+  "postalCode": ""
  },
  {
   "id": 5308040014,
   "districtId": 5308040,
-  "name": "LAMALELA"
+  "districtName": "LEBATUKAN",
+  "name": "LAMALELA",
+  "postalCode": "86681"
  },
  {
   "id": 5308040015,
   "districtId": 5308040,
-  "name": "TAPOLANGU"
+  "districtName": "LEBATUKAN",
+  "name": "TAPOLANGU",
+  "postalCode": "86681"
  },
  {
   "id": 5308040016,
   "districtId": 5308040,
-  "name": "BANITOBO"
+  "districtName": "LEBATUKAN",
+  "name": "BANITOBO",
+  "postalCode": "86681"
  },
  {
   "id": 5308040017,
   "districtId": 5308040,
-  "name": "ATAKOWA"
+  "districtName": "LEBATUKAN",
+  "name": "ATAKOWA",
+  "postalCode": "86681"
  }
 ]

@@ -2,56 +2,78 @@
  {
   "id": 3301120005,
   "districtId": 3301120,
-  "name": "BRINGKENG"
+  "districtName": "KAWUNGANTEN",
+  "name": "BRINGKENG",
+  "postalCode": "53253"
  },
  {
   "id": 3301120006,
   "districtId": 3301120,
-  "name": "UJUNGMANIK"
+  "districtName": "KAWUNGANTEN",
+  "name": "UJUNGMANIK",
+  "postalCode": "53253"
  },
  {
   "id": 3301120007,
   "districtId": 3301120,
-  "name": "KUBANGKANGKUNG"
+  "districtName": "KAWUNGANTEN",
+  "name": "KUBANGKANGKUNG",
+  "postalCode": "53253"
  },
  {
   "id": 3301120008,
   "districtId": 3301120,
-  "name": "BOJONG"
+  "districtName": "KAWUNGANTEN",
+  "name": "BOJONG",
+  "postalCode": "34385"
  },
  {
   "id": 3301120009,
   "districtId": 3301120,
-  "name": "KAWUNGANTEN"
+  "districtName": "KAWUNGANTEN",
+  "name": "KAWUNGANTEN",
+  "postalCode": "53253"
  },
  {
   "id": 3301120010,
   "districtId": 3301120,
-  "name": "KAWUNGANTEN LOR"
+  "districtName": "KAWUNGANTEN",
+  "name": "KAWUNGANTEN LOR",
+  "postalCode": "53253"
  },
  {
   "id": 3301120011,
   "districtId": 3301120,
-  "name": "SARWADADI"
+  "districtName": "KAWUNGANTEN",
+  "name": "SARWADADI",
+  "postalCode": "45171"
  },
  {
   "id": 3301120012,
   "districtId": 3301120,
-  "name": "KALIJERUK"
+  "districtName": "KAWUNGANTEN",
+  "name": "KALIJERUK",
+  "postalCode": "53253"
  },
  {
   "id": 3301120013,
   "districtId": 3301120,
-  "name": "MENTASAN"
+  "districtName": "KAWUNGANTEN",
+  "name": "MENTASAN",
+  "postalCode": "53253"
  },
  {
   "id": 3301120015,
   "districtId": 3301120,
-  "name": "SIDAURIP"
+  "districtName": "KAWUNGANTEN",
+  "name": "SIDAURIP",
+  "postalCode": "53281"
  },
  {
   "id": 3301120016,
   "districtId": 3301120,
-  "name": "BABAKAN"
+  "districtName": "KAWUNGANTEN",
+  "name": "BABAKAN",
+  "postalCode": "35675"
  }
 ]

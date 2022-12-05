@@ -2,46 +2,64 @@
  {
   "id": 3216090001,
   "districtId": 3216090,
-  "name": "BAHAGIA"
+  "districtName": "BABELAN",
+  "name": "BAHAGIA",
+  "postalCode": "23654"
  },
  {
   "id": 3216090002,
   "districtId": 3216090,
-  "name": "KEBALEN"
+  "districtName": "BABELAN",
+  "name": "KEBALEN",
+  "postalCode": "17610"
  },
  {
   "id": 3216090003,
   "districtId": 3216090,
-  "name": "BABELAN KOTA"
+  "districtName": "BABELAN",
+  "name": "BABELAN KOTA",
+  "postalCode": "17610"
  },
  {
   "id": 3216090004,
   "districtId": 3216090,
-  "name": "KEDUNGPENGAWAS"
+  "districtName": "BABELAN",
+  "name": "KEDUNGPENGAWAS",
+  "postalCode": ""
  },
  {
   "id": 3216090005,
   "districtId": 3216090,
-  "name": "KEDUNGJAYA"
+  "districtName": "BABELAN",
+  "name": "KEDUNGJAYA",
+  "postalCode": "17610"
  },
  {
   "id": 3216090006,
   "districtId": 3216090,
-  "name": "BUNIBAKTI"
+  "districtName": "BABELAN",
+  "name": "BUNIBAKTI",
+  "postalCode": ""
  },
  {
   "id": 3216090007,
   "districtId": 3216090,
-  "name": "MUARABAKTI"
+  "districtName": "BABELAN",
+  "name": "MUARABAKTI",
+  "postalCode": ""
  },
  {
   "id": 3216090008,
   "districtId": 3216090,
-  "name": "PANTAI HURIP"
+  "districtName": "BABELAN",
+  "name": "PANTAI HURIP",
+  "postalCode": "17610"
  },
  {
   "id": 3216090009,
   "districtId": 3216090,
-  "name": "HURIPJAYA"
+  "districtName": "BABELAN",
+  "name": "HURIPJAYA",
+  "postalCode": ""
  }
 ]

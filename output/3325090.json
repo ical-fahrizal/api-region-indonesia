@@ -2,86 +2,120 @@
  {
   "id": 3325090004,
   "districtId": 3325090,
-  "name": "MENJANGAN"
+  "districtName": "SUBAH",
+  "name": "MENJANGAN",
+  "postalCode": "51156"
  },
  {
   "id": 3325090005,
   "districtId": 3325090,
-  "name": "KARANGTENGAH"
+  "districtName": "SUBAH",
+  "name": "KARANGTENGAH",
+  "postalCode": "43351"
  },
  {
   "id": 3325090006,
   "districtId": 3325090,
-  "name": "MANGUNHARJO"
+  "districtName": "SUBAH",
+  "name": "MANGUNHARJO",
+  "postalCode": "54363"
  },
  {
   "id": 3325090007,
   "districtId": 3325090,
-  "name": "TENGGULANGHARJO"
+  "districtName": "SUBAH",
+  "name": "TENGGULANGHARJO",
+  "postalCode": "51262"
  },
  {
   "id": 3325090008,
   "districtId": 3325090,
-  "name": "KEBORANGAN"
+  "districtName": "SUBAH",
+  "name": "KEBORANGAN",
+  "postalCode": "51262"
  },
  {
   "id": 3325090009,
   "districtId": 3325090,
-  "name": "KALIMANGGIS"
+  "districtName": "SUBAH",
+  "name": "KALIMANGGIS",
+  "postalCode": "46197"
  },
  {
   "id": 3325090010,
   "districtId": 3325090,
-  "name": "JATISARI"
+  "districtName": "SUBAH",
+  "name": "JATISARI",
+  "postalCode": "32362"
  },
  {
   "id": 3325090011,
   "districtId": 3325090,
-  "name": "SUBAH"
+  "districtName": "SUBAH",
+  "name": "SUBAH",
+  "postalCode": "51262"
  },
  {
   "id": 3325090012,
   "districtId": 3325090,
-  "name": "KUMEJING"
+  "districtName": "SUBAH",
+  "name": "KUMEJING",
+  "postalCode": "51262"
  },
  {
   "id": 3325090014,
   "districtId": 3325090,
-  "name": "DURENOMBO"
+  "districtName": "SUBAH",
+  "name": "DURENOMBO",
+  "postalCode": "51262"
  },
  {
   "id": 3325090019,
   "districtId": 3325090,
-  "name": "CLAPAR"
+  "districtName": "SUBAH",
+  "name": "CLAPAR",
+  "postalCode": "54174"
  },
  {
   "id": 3325090021,
   "districtId": 3325090,
-  "name": "SENGON"
+  "districtName": "SUBAH",
+  "name": "SENGON",
+  "postalCode": "57454"
  },
  {
   "id": 3325090022,
   "districtId": 3325090,
-  "name": "ADINUSO"
+  "districtName": "SUBAH",
+  "name": "ADINUSO",
+  "postalCode": "51273"
  },
  {
   "id": 3325090023,
   "districtId": 3325090,
-  "name": "GONDANG"
+  "districtName": "SUBAH",
+  "name": "GONDANG",
+  "postalCode": "51255"
  },
  {
   "id": 3325090024,
   "districtId": 3325090,
-  "name": "KURIPAN"
+  "districtName": "SUBAH",
+  "name": "KURIPAN",
+  "postalCode": "32384"
  },
  {
   "id": 3325090026,
   "districtId": 3325090,
-  "name": "KEMIRI BARAT"
+  "districtName": "SUBAH",
+  "name": "KEMIRI BARAT",
+  "postalCode": "51262"
  },
  {
   "id": 3325090027,
   "districtId": 3325090,
-  "name": "KEMIRI TIMUR"
+  "districtName": "SUBAH",
+  "name": "KEMIRI TIMUR",
+  "postalCode": "51262"
  }
 ]

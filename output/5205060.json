@@ -2,61 +2,85 @@
  {
   "id": 5205060001,
   "districtId": 5205060,
-  "name": "DOROPETI"
+  "districtName": "PEKAT",
+  "name": "DOROPETI",
+  "postalCode": ""
  },
  {
   "id": 5205060002,
   "districtId": 5205060,
-  "name": "BERINGIN JAYA"
+  "districtName": "PEKAT",
+  "name": "BERINGIN JAYA",
+  "postalCode": "21464"
  },
  {
   "id": 5205060003,
   "districtId": 5205060,
-  "name": "PEKAT"
+  "districtName": "PEKAT",
+  "name": "PEKAT",
+  "postalCode": "84261"
  },
  {
   "id": 5205060004,
   "districtId": 5205060,
-  "name": "SORINOMO"
+  "districtName": "PEKAT",
+  "name": "SORINOMO",
+  "postalCode": "84261"
  },
  {
   "id": 5205060005,
   "districtId": 5205060,
-  "name": "TAMBORA"
+  "districtName": "PEKAT",
+  "name": "TAMBORA",
+  "postalCode": "11220"
  },
  {
   "id": 5205060006,
   "districtId": 5205060,
-  "name": "KADINDI"
+  "districtName": "PEKAT",
+  "name": "KADINDI",
+  "postalCode": "84261"
  },
  {
   "id": 5205060007,
   "districtId": 5205060,
-  "name": "NANGAMIRO"
+  "districtName": "PEKAT",
+  "name": "NANGAMIRO",
+  "postalCode": "84261"
  },
  {
   "id": 5205060008,
   "districtId": 5205060,
-  "name": "CALABAI"
+  "districtName": "PEKAT",
+  "name": "CALABAI",
+  "postalCode": ""
  },
  {
   "id": 5205060009,
   "districtId": 5205060,
-  "name": "UPT NANGAKARA"
+  "districtName": "PEKAT",
+  "name": "UPT NANGAKARA",
+  "postalCode": ""
  },
  {
   "id": 5205060010,
   "districtId": 5205060,
-  "name": "KADINDI BARAT"
+  "districtName": "PEKAT",
+  "name": "KADINDI BARAT",
+  "postalCode": ""
  },
  {
   "id": 5205060011,
   "districtId": 5205060,
-  "name": "PERSIAPAN SORI TATANGA"
+  "districtName": "PEKAT",
+  "name": "PERSIAPAN SORI TATANGA",
+  "postalCode": ""
  },
  {
   "id": 5205060012,
   "districtId": 5205060,
-  "name": "PERSIAPAN KAROMBO"
+  "districtName": "PEKAT",
+  "name": "PERSIAPAN KAROMBO",
+  "postalCode": ""
  }
 ]

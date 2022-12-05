@@ -2,66 +2,92 @@
  {
   "id": 9104052001,
   "districtId": 9104052,
-  "name": "TUHIBA"
+  "districtName": "TUHIBA",
+  "name": "TUHIBA",
+  "postalCode": "98364"
  },
  {
   "id": 9104052002,
   "districtId": 9104052,
-  "name": "TISAIDA"
+  "districtName": "TUHIBA",
+  "name": "TISAIDA",
+  "postalCode": "98364"
  },
  {
   "id": 9104052003,
   "districtId": 9104052,
-  "name": "KUCIR"
+  "districtName": "TUHIBA",
+  "name": "KUCIR",
+  "postalCode": "98364"
  },
  {
   "id": 9104052004,
   "districtId": 9104052,
-  "name": "SIBENA RAYA"
+  "districtName": "TUHIBA",
+  "name": "SIBENA RAYA",
+  "postalCode": ""
  },
  {
   "id": 9104052005,
   "districtId": 9104052,
-  "name": "SIBENA PERMAI"
+  "districtName": "TUHIBA",
+  "name": "SIBENA PERMAI",
+  "postalCode": ""
  },
  {
   "id": 9104052006,
   "districtId": 9104052,
-  "name": "MINCIMA"
+  "districtName": "TUHIBA",
+  "name": "MINCIMA",
+  "postalCode": ""
  },
  {
   "id": 9104052007,
   "districtId": 9104052,
-  "name": "AGOMEDA"
+  "districtName": "TUHIBA",
+  "name": "AGOMEDA",
+  "postalCode": ""
  },
  {
   "id": 9104052008,
   "districtId": 9104052,
-  "name": "INYESTA"
+  "districtName": "TUHIBA",
+  "name": "INYESTA",
+  "postalCode": ""
  },
  {
   "id": 9104052009,
   "districtId": 9104052,
-  "name": "DUHUMENAU"
+  "districtName": "TUHIBA",
+  "name": "DUHUMENAU",
+  "postalCode": ""
  },
  {
   "id": 9104052011,
   "districtId": 9104052,
-  "name": "WASSOWI"
+  "districtName": "TUHIBA",
+  "name": "WASSOWI",
+  "postalCode": ""
  },
  {
   "id": 9104052012,
   "districtId": 9104052,
-  "name": "USEMEBIJ / KUCIR 2"
+  "districtName": "TUHIBA",
+  "name": "USEMEBIJ / KUCIR 2",
+  "postalCode": ""
  },
  {
   "id": 9104052013,
   "districtId": 9104052,
-  "name": "KALI BIRU"
+  "districtName": "TUHIBA",
+  "name": "KALI BIRU",
+  "postalCode": ""
  },
  {
   "id": 9104052014,
   "districtId": 9104052,
-  "name": "TITKAI"
+  "districtName": "TUHIBA",
+  "name": "TITKAI",
+  "postalCode": ""
  }
 ]

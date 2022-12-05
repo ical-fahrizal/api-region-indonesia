@@ -2,66 +2,92 @@
  {
   "id": 3304130001,
   "districtId": 3304130,
-  "name": "SLATRI"
+  "districtName": "KARANGKOBAR",
+  "name": "SLATRI",
+  "postalCode": "53453"
  },
  {
   "id": 3304130002,
   "districtId": 3304130,
-  "name": "PAWEDEN"
+  "districtName": "KARANGKOBAR",
+  "name": "PAWEDEN",
+  "postalCode": "51171"
  },
  {
   "id": 3304130003,
   "districtId": 3304130,
-  "name": "GUMELAR"
+  "districtName": "KARANGKOBAR",
+  "name": "GUMELAR",
+  "postalCode": "53165"
  },
  {
   "id": 3304130004,
   "districtId": 3304130,
-  "name": "PURWODADI"
+  "districtName": "KARANGKOBAR",
+  "name": "PURWODADI",
+  "postalCode": "24652"
  },
  {
   "id": 3304130005,
   "districtId": 3304130,
-  "name": "SAMPANG"
+  "districtName": "KARANGKOBAR",
+  "name": "SAMPANG",
+  "postalCode": "59561"
  },
  {
   "id": 3304130006,
   "districtId": 3304130,
-  "name": "AMBAL"
+  "districtName": "KARANGKOBAR",
+  "name": "AMBAL",
+  "postalCode": "53453"
  },
  {
   "id": 3304130007,
   "districtId": 3304130,
-  "name": "PAGERPELAH"
+  "districtName": "KARANGKOBAR",
+  "name": "PAGERPELAH",
+  "postalCode": "53453"
  },
  {
   "id": 3304130008,
   "districtId": 3304130,
-  "name": "PASURUHAN"
+  "districtName": "KARANGKOBAR",
+  "name": "PASURUHAN",
+  "postalCode": "53281"
  },
  {
   "id": 3304130009,
   "districtId": 3304130,
-  "name": "KARANGGONDANG"
+  "districtName": "KARANGKOBAR",
+  "name": "KARANGGONDANG",
+  "postalCode": "51163"
  },
  {
   "id": 3304130010,
   "districtId": 3304130,
-  "name": "JLEGONG"
+  "districtName": "KARANGKOBAR",
+  "name": "JLEGONG",
+  "postalCode": "56258"
  },
  {
   "id": 3304130011,
   "districtId": 3304130,
-  "name": "BINANGUN"
+  "districtName": "KARANGKOBAR",
+  "name": "BINANGUN",
+  "postalCode": "46316"
  },
  {
   "id": 3304130012,
   "districtId": 3304130,
-  "name": "KARANGKOBAR"
+  "districtName": "KARANGKOBAR",
+  "name": "KARANGKOBAR",
+  "postalCode": "53453"
  },
  {
   "id": 3304130013,
   "districtId": 3304130,
-  "name": "LEKSANA"
+  "districtName": "KARANGKOBAR",
+  "name": "LEKSANA",
+  "postalCode": "53453"
  }
 ]

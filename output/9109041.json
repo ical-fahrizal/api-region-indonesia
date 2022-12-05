@@ -2,21 +2,29 @@
  {
   "id": 9109041001,
   "districtId": 9109041,
-  "name": "KRISNOS"
+  "districtName": "TOBOUW",
+  "name": "KRISNOS",
+  "postalCode": "98473"
  },
  {
   "id": 9109041002,
   "districtId": 9109041,
-  "name": "SYUMBAB"
+  "districtName": "TOBOUW",
+  "name": "SYUMBAB",
+  "postalCode": "98473"
  },
  {
   "id": 9109041004,
   "districtId": 9109041,
-  "name": "DONAN"
+  "districtName": "TOBOUW",
+  "name": "DONAN",
+  "postalCode": "53222"
  },
  {
   "id": 9109041005,
   "districtId": 9109041,
-  "name": "DOMBRON"
+  "districtName": "TOBOUW",
+  "name": "DOMBRON",
+  "postalCode": ""
  }
 ]

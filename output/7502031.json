@@ -2,66 +2,92 @@
  {
   "id": 7502031001,
   "districtId": 7502031,
-  "name": "MULYONEGORO"
+  "districtName": "PULUBALA",
+  "name": "MULYONEGORO",
+  "postalCode": "96127"
  },
  {
   "id": 7502031002,
   "districtId": 7502031,
-  "name": "BAKTI"
+  "districtName": "PULUBALA",
+  "name": "BAKTI",
+  "postalCode": "71371"
  },
  {
   "id": 7502031003,
   "districtId": 7502031,
-  "name": "PULUBALA"
+  "districtName": "PULUBALA",
+  "name": "PULUBALA",
+  "postalCode": "96127"
  },
  {
   "id": 7502031004,
   "districtId": 7502031,
-  "name": "TRIDARMA"
+  "districtName": "PULUBALA",
+  "name": "TRIDARMA",
+  "postalCode": "96127"
  },
  {
   "id": 7502031005,
   "districtId": 7502031,
-  "name": "PONGONGAILA"
+  "districtName": "PULUBALA",
+  "name": "PONGONGAILA",
+  "postalCode": "96127"
  },
  {
   "id": 7502031006,
   "districtId": 7502031,
-  "name": "PUNCAK"
+  "districtName": "PULUBALA",
+  "name": "PUNCAK",
+  "postalCode": "45552"
  },
  {
   "id": 7502031007,
   "districtId": 7502031,
-  "name": "MOLAMAHU"
+  "districtName": "PULUBALA",
+  "name": "MOLAMAHU",
+  "postalCode": "96585"
  },
  {
   "id": 7502031008,
   "districtId": 7502031,
-  "name": "MOLALAHU"
+  "districtName": "PULUBALA",
+  "name": "MOLALAHU",
+  "postalCode": "96127"
  },
  {
   "id": 7502031009,
   "districtId": 7502031,
-  "name": "TOYDITO"
+  "districtName": "PULUBALA",
+  "name": "TOYDITO",
+  "postalCode": ""
  },
  {
   "id": 7502031010,
   "districtId": 7502031,
-  "name": "AYUMOLINGO"
+  "districtName": "PULUBALA",
+  "name": "AYUMOLINGO",
+  "postalCode": "96127"
  },
  {
   "id": 7502031011,
   "districtId": 7502031,
-  "name": "BUKIT AREN"
+  "districtName": "PULUBALA",
+  "name": "BUKIT AREN",
+  "postalCode": "96127"
  },
  {
   "id": 7502031012,
   "districtId": 7502031,
-  "name": "UPT AYUMOLINGO"
+  "districtName": "PULUBALA",
+  "name": "UPT AYUMOLINGO",
+  "postalCode": ""
  },
  {
   "id": 7502031013,
   "districtId": 7502031,
-  "name": "UPT PUNCAK"
+  "districtName": "PULUBALA",
+  "name": "UPT PUNCAK",
+  "postalCode": ""
  }
 ]

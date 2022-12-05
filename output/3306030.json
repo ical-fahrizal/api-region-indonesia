@@ -2,191 +2,267 @@
  {
   "id": 3306030001,
   "districtId": 3306030,
-  "name": "JATIMALANG"
+  "districtName": "PURWODADI",
+  "name": "JATIMALANG",
+  "postalCode": "54381"
  },
  {
   "id": 3306030002,
   "districtId": 3306030,
-  "name": "JATIKONTAL"
+  "districtName": "PURWODADI",
+  "name": "JATIKONTAL",
+  "postalCode": "54173"
  },
  {
   "id": 3306030003,
   "districtId": 3306030,
-  "name": "GEDANGAN"
+  "districtName": "PURWODADI",
+  "name": "GEDANGAN",
+  "postalCode": "21264"
  },
  {
   "id": 3306030004,
   "districtId": 3306030,
-  "name": "KARANGANYAR"
+  "districtName": "PURWODADI",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  },
  {
   "id": 3306030005,
   "districtId": 3306030,
-  "name": "JOGOBOYO"
+  "districtName": "PURWODADI",
+  "name": "JOGOBOYO",
+  "postalCode": "54173"
  },
  {
   "id": 3306030006,
   "districtId": 3306030,
-  "name": "WATUKURO"
+  "districtName": "PURWODADI",
+  "name": "WATUKURO",
+  "postalCode": "54173"
  },
  {
   "id": 3306030007,
   "districtId": 3306030,
-  "name": "KARANGSARI"
+  "districtName": "PURWODADI",
+  "name": "KARANGSARI",
+  "postalCode": "35376"
  },
  {
   "id": 3306030008,
   "districtId": 3306030,
-  "name": "BANJARSARI"
+  "districtName": "PURWODADI",
+  "name": "BANJARSARI",
+  "postalCode": "35377"
  },
  {
   "id": 3306030009,
   "districtId": 3306030,
-  "name": "KEBONSARI"
+  "districtName": "PURWODADI",
+  "name": "KEBONSARI",
+  "postalCode": "56553"
  },
  {
   "id": 3306030010,
   "districtId": 3306030,
-  "name": "SIDOHARJO"
+  "districtName": "PURWODADI",
+  "name": "SIDOHARJO",
+  "postalCode": "30975"
  },
  {
   "id": 3306030011,
   "districtId": 3306030,
-  "name": "JOGORESAN"
+  "districtName": "PURWODADI",
+  "name": "JOGORESAN",
+  "postalCode": "54173"
  },
  {
   "id": 3306030012,
   "districtId": 3306030,
-  "name": "GEPARANG"
+  "districtName": "PURWODADI",
+  "name": "GEPARANG",
+  "postalCode": "54173"
  },
  {
   "id": 3306030013,
   "districtId": 3306030,
-  "name": "NAMPUREJO"
+  "districtName": "PURWODADI",
+  "name": "NAMPUREJO",
+  "postalCode": "54173"
  },
  {
   "id": 3306030014,
   "districtId": 3306030,
-  "name": "KENTENGREJO"
+  "districtName": "PURWODADI",
+  "name": "KENTENGREJO",
+  "postalCode": "54173"
  },
  {
   "id": 3306030015,
   "districtId": 3306030,
-  "name": "NAMPU"
+  "districtName": "PURWODADI",
+  "name": "NAMPU",
+  "postalCode": "58163"
  },
  {
   "id": 3306030016,
   "districtId": 3306030,
-  "name": "GESING"
+  "districtName": "PURWODADI",
+  "name": "GESING",
+  "postalCode": "56281"
  },
  {
   "id": 3306030017,
   "districtId": 3306030,
-  "name": "KEPONGGOK"
+  "districtName": "PURWODADI",
+  "name": "KEPONGGOK",
+  "postalCode": "54173"
  },
  {
   "id": 3306030018,
   "districtId": 3306030,
-  "name": "BUBUTAN"
+  "districtName": "PURWODADI",
+  "name": "BUBUTAN",
+  "postalCode": "54173"
  },
  {
   "id": 3306030019,
   "districtId": 3306030,
-  "name": "TEGALAREN"
+  "districtName": "PURWODADI",
+  "name": "TEGALAREN",
+  "postalCode": "45456"
  },
  {
   "id": 3306030020,
   "districtId": 3306030,
-  "name": "SUKOMANAH"
+  "districtName": "PURWODADI",
+  "name": "SUKOMANAH",
+  "postalCode": "54173"
  },
  {
   "id": 3306030022,
   "districtId": 3306030,
-  "name": "GUYANGAN"
+  "districtName": "PURWODADI",
+  "name": "GUYANGAN",
+  "postalCode": "59453"
  },
  {
   "id": 3306030023,
   "districtId": 3306030,
-  "name": "BONGKOT"
+  "districtName": "PURWODADI",
+  "name": "BONGKOT",
+  "postalCode": "54173"
  },
  {
   "id": 3306030024,
   "districtId": 3306030,
-  "name": "PURWODADI"
+  "districtName": "PURWODADI",
+  "name": "PURWODADI",
+  "postalCode": "24652"
  },
  {
   "id": 3306030025,
   "districtId": 3306030,
-  "name": "SUMBERSARI"
+  "districtName": "PURWODADI",
+  "name": "SUMBERSARI",
+  "postalCode": "34122"
  },
  {
   "id": 3306030026,
   "districtId": 3306030,
-  "name": "PURWOSARI"
+  "districtName": "PURWODADI",
+  "name": "PURWOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 3306030027,
   "districtId": 3306030,
-  "name": "JENAR WETAN"
+  "districtName": "PURWODADI",
+  "name": "JENAR WETAN",
+  "postalCode": "54173"
  },
  {
   "id": 3306030028,
   "districtId": 3306030,
-  "name": "JENAR KIDUL"
+  "districtName": "PURWODADI",
+  "name": "JENAR KIDUL",
+  "postalCode": "54173"
  },
  {
   "id": 3306030029,
   "districtId": 3306030,
-  "name": "JENAR LOR"
+  "districtName": "PURWODADI",
+  "name": "JENAR LOR",
+  "postalCode": "54173"
  },
  {
   "id": 3306030030,
   "districtId": 3306030,
-  "name": "PUNDENSARI"
+  "districtName": "PURWODADI",
+  "name": "PUNDENSARI",
+  "postalCode": "54173"
  },
  {
   "id": 3306030031,
   "districtId": 3306030,
-  "name": "KESUGIHAN"
+  "districtName": "PURWODADI",
+  "name": "KESUGIHAN",
+  "postalCode": "35551"
  },
  {
   "id": 3306030032,
   "districtId": 3306030,
-  "name": "TLOGOREJO"
+  "districtName": "PURWODADI",
+  "name": "TLOGOREJO",
+  "postalCode": "54395"
  },
  {
   "id": 3306030033,
   "districtId": 3306030,
-  "name": "PLANDI"
+  "districtName": "PURWODADI",
+  "name": "PLANDI",
+  "postalCode": "54173"
  },
  {
   "id": 3306030034,
   "districtId": 3306030,
-  "name": "BRAGOLAN"
+  "districtName": "PURWODADI",
+  "name": "BRAGOLAN",
+  "postalCode": "54173"
  },
  {
   "id": 3306030035,
   "districtId": 3306030,
-  "name": "KETANGI"
+  "districtName": "PURWODADI",
+  "name": "KETANGI",
+  "postalCode": "56153"
  },
  {
   "id": 3306030036,
   "districtId": 3306030,
-  "name": "KARANGMULYO"
+  "districtName": "PURWODADI",
+  "name": "KARANGMULYO",
+  "postalCode": "52465"
  },
  {
   "id": 3306030038,
   "districtId": 3306030,
-  "name": "SUMBEREJO"
+  "districtName": "PURWODADI",
+  "name": "SUMBEREJO",
+  "postalCode": "20551"
  },
  {
   "id": 3306030039,
   "districtId": 3306030,
-  "name": "BRONDONGREJO"
+  "districtName": "PURWODADI",
+  "name": "BRONDONGREJO",
+  "postalCode": "54173"
  },
  {
   "id": 3306030040,
   "districtId": 3306030,
-  "name": "SENDANGSARI"
+  "districtName": "PURWODADI",
+  "name": "SENDANGSARI",
+  "postalCode": "57674"
  }
 ]

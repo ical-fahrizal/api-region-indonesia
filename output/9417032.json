@@ -2,66 +2,92 @@
  {
   "id": 9417032004,
   "districtId": 9417032,
-  "name": "WAKIDAM"
+  "districtName": "EPUMEK",
+  "name": "WAKIDAM",
+  "postalCode": "99577"
  },
  {
   "id": 9417032005,
   "districtId": 9417032,
-  "name": "EIPOMEK"
+  "districtName": "EPUMEK",
+  "name": "EIPOMEK",
+  "postalCode": ""
  },
  {
   "id": 9417032006,
   "districtId": 9417032,
-  "name": "TALEMO"
+  "districtName": "EPUMEK",
+  "name": "TALEMO",
+  "postalCode": ""
  },
  {
   "id": 9417032008,
   "districtId": 9417032,
-  "name": "LONDININ"
+  "districtName": "EPUMEK",
+  "name": "LONDININ",
+  "postalCode": "99577"
  },
  {
   "id": 9417032010,
   "districtId": 9417032,
-  "name": "LALAKON"
+  "districtName": "EPUMEK",
+  "name": "LALAKON",
+  "postalCode": "99577"
  },
  {
   "id": 9417032015,
   "districtId": 9417032,
-  "name": "BUNYIRYE"
+  "districtName": "EPUMEK",
+  "name": "BUNYIRYE",
+  "postalCode": "99577"
  },
  {
   "id": 9417032017,
   "districtId": 9417032,
-  "name": "TANIME"
+  "districtName": "EPUMEK",
+  "name": "TANIME",
+  "postalCode": "99577"
  },
  {
   "id": 9417032018,
   "districtId": 9417032,
-  "name": "BASIRINGE"
+  "districtName": "EPUMEK",
+  "name": "BASIRINGE",
+  "postalCode": "99577"
  },
  {
   "id": 9417032019,
   "districtId": 9417032,
-  "name": "BARAMA"
+  "districtName": "EPUMEK",
+  "name": "BARAMA",
+  "postalCode": "99577"
  },
  {
   "id": 9417032020,
   "districtId": 9417032,
-  "name": "SERABUM"
+  "districtName": "EPUMEK",
+  "name": "SERABUM",
+  "postalCode": "99577"
  },
  {
   "id": 9417032021,
   "districtId": 9417032,
-  "name": "KWEREDALA"
+  "districtName": "EPUMEK",
+  "name": "KWEREDALA",
+  "postalCode": "99577"
  },
  {
   "id": 9417032022,
   "districtId": 9417032,
-  "name": "MUNGKONA"
+  "districtName": "EPUMEK",
+  "name": "MUNGKONA",
+  "postalCode": "99577"
  },
  {
   "id": 9417032023,
   "districtId": 9417032,
-  "name": "MALINGDAM"
+  "districtName": "EPUMEK",
+  "name": "MALINGDAM",
+  "postalCode": "99577"
  }
 ]

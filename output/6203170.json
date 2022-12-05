@@ -2,61 +2,85 @@
  {
   "id": 6203170001,
   "districtId": 6203170,
-  "name": "MASARAN"
+  "districtName": "KAPUAS TENGAH",
+  "name": "MASARAN",
+  "postalCode": "53471"
  },
  {
   "id": 6203170002,
   "districtId": 6203170,
-  "name": "KAYU BULAN"
+  "districtName": "KAPUAS TENGAH",
+  "name": "KAYU BULAN",
+  "postalCode": "73555"
  },
  {
   "id": 6203170003,
   "districtId": 6203170,
-  "name": "KOTA BARU"
+  "districtName": "KAPUAS TENGAH",
+  "name": "KOTA BARU",
+  "postalCode": "23125"
  },
  {
   "id": 6203170004,
   "districtId": 6203170,
-  "name": "PENDA MUNTEI"
+  "districtName": "KAPUAS TENGAH",
+  "name": "PENDA MUNTEI",
+  "postalCode": "73555"
  },
  {
   "id": 6203170005,
   "districtId": 6203170,
-  "name": "TAPEN"
+  "districtName": "KAPUAS TENGAH",
+  "name": "TAPEN",
+  "postalCode": "54263"
  },
  {
   "id": 6203170006,
   "districtId": 6203170,
-  "name": "PUJON"
+  "districtName": "KAPUAS TENGAH",
+  "name": "PUJON",
+  "postalCode": "73555"
  },
  {
   "id": 6203170007,
   "districtId": 6203170,
-  "name": "MARAPIT"
+  "districtName": "KAPUAS TENGAH",
+  "name": "MARAPIT",
+  "postalCode": ""
  },
  {
   "id": 6203170008,
   "districtId": 6203170,
-  "name": "MANIS"
+  "districtName": "KAPUAS TENGAH",
+  "name": "MANIS",
+  "postalCode": "21273"
  },
  {
   "id": 6203170009,
   "districtId": 6203170,
-  "name": "BAJUH"
+  "districtName": "KAPUAS TENGAH",
+  "name": "BAJUH",
+  "postalCode": "73555"
  },
  {
   "id": 6203170011,
   "districtId": 6203170,
-  "name": "KARUKUS"
+  "districtName": "KAPUAS TENGAH",
+  "name": "KARUKUS",
+  "postalCode": "73555"
  },
  {
   "id": 6203170018,
   "districtId": 6203170,
-  "name": "BARUNANG"
+  "districtName": "KAPUAS TENGAH",
+  "name": "BARUNANG",
+  "postalCode": "73555"
  },
  {
   "id": 6203170019,
   "districtId": 6203170,
-  "name": "BUHUT JAYA"
+  "districtName": "KAPUAS TENGAH",
+  "name": "BUHUT JAYA",
+  "postalCode": "73555"
  }
 ]

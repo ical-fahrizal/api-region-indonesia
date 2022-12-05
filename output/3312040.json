@@ -2,81 +2,113 @@
  {
   "id": 3312040001,
   "districtId": 3312040,
-  "name": "TIRTOSUWORO"
+  "districtName": "GIRIWOYO",
+  "name": "TIRTOSUWORO",
+  "postalCode": "57675"
  },
  {
   "id": 3312040002,
   "districtId": 3312040,
-  "name": "GIRIKIKIS"
+  "districtName": "GIRIWOYO",
+  "name": "GIRIKIKIS",
+  "postalCode": "57675"
  },
  {
   "id": 3312040003,
   "districtId": 3312040,
-  "name": "GUWOTIRTO"
+  "districtName": "GIRIWOYO",
+  "name": "GUWOTIRTO",
+  "postalCode": "57675"
  },
  {
   "id": 3312040004,
   "districtId": 3312040,
-  "name": "NGANCAR"
+  "districtName": "GIRIWOYO",
+  "name": "NGANCAR",
+  "postalCode": "57675"
  },
  {
   "id": 3312040005,
   "districtId": 3312040,
-  "name": "BULUREJO"
+  "districtName": "GIRIWOYO",
+  "name": "BULUREJO",
+  "postalCode": "35372"
  },
  {
   "id": 3312040006,
   "districtId": 3312040,
-  "name": "GEDONGREJO"
+  "districtName": "GIRIWOYO",
+  "name": "GEDONGREJO",
+  "postalCode": "57675"
  },
  {
   "id": 3312040007,
   "districtId": 3312040,
-  "name": "PIDEKSA"
+  "districtName": "GIRIWOYO",
+  "name": "PIDEKSA",
+  "postalCode": "57675"
  },
  {
   "id": 3312040008,
   "districtId": 3312040,
-  "name": "TUKULREJO"
+  "districtName": "GIRIWOYO",
+  "name": "TUKULREJO",
+  "postalCode": "57675"
  },
  {
   "id": 3312040009,
   "districtId": 3312040,
-  "name": "BUMIHARJO"
+  "districtName": "GIRIWOYO",
+  "name": "BUMIHARJO",
+  "postalCode": "34767"
  },
  {
   "id": 3312040010,
   "districtId": 3312040,
-  "name": "SELOMARTO"
+  "districtName": "GIRIWOYO",
+  "name": "SELOMARTO",
+  "postalCode": "57675"
  },
  {
   "id": 3312040011,
   "districtId": 3312040,
-  "name": "GIRIWOYO"
+  "districtName": "GIRIWOYO",
+  "name": "GIRIWOYO",
+  "postalCode": "57675"
  },
  {
   "id": 3312040012,
   "districtId": 3312040,
-  "name": "SEJATI"
+  "districtName": "GIRIWOYO",
+  "name": "SEJATI",
+  "postalCode": "28557"
  },
  {
   "id": 3312040013,
   "districtId": 3312040,
-  "name": "SENDANGAGUNG"
+  "districtName": "GIRIWOYO",
+  "name": "SENDANGAGUNG",
+  "postalCode": "57675"
  },
  {
   "id": 3312040014,
   "districtId": 3312040,
-  "name": "PLATAREJO"
+  "districtName": "GIRIWOYO",
+  "name": "PLATAREJO",
+  "postalCode": "57675"
  },
  {
   "id": 3312040015,
   "districtId": 3312040,
-  "name": "SIRNOBOYO"
+  "districtName": "GIRIWOYO",
+  "name": "SIRNOBOYO",
+  "postalCode": "54395"
  },
  {
   "id": 3312040016,
   "districtId": 3312040,
-  "name": "TAWANGHARJO"
+  "districtName": "GIRIWOYO",
+  "name": "TAWANGHARJO",
+  "postalCode": "57675"
  }
 ]

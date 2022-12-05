@@ -2,81 +2,113 @@
  {
   "id": 3518030001,
   "districtId": 3518030,
-  "name": "SALAMROJO"
+  "districtName": "BERBEK",
+  "name": "SALAMROJO",
+  "postalCode": "64473"
  },
  {
   "id": 3518030002,
   "districtId": 3518030,
-  "name": "CEPOKO"
+  "districtName": "BERBEK",
+  "name": "CEPOKO",
+  "postalCode": "50223"
  },
  {
   "id": 3518030003,
   "districtId": 3518030,
-  "name": "MAGUAN"
+  "districtName": "BERBEK",
+  "name": "MAGUAN",
+  "postalCode": "59252"
  },
  {
   "id": 3518030004,
   "districtId": 3518030,
-  "name": "SEMARE"
+  "districtName": "BERBEK",
+  "name": "SEMARE",
+  "postalCode": "64473"
  },
  {
   "id": 3518030005,
   "districtId": 3518030,
-  "name": "MLILIR"
+  "districtName": "BERBEK",
+  "name": "MLILIR",
+  "postalCode": "50614"
  },
  {
   "id": 3518030006,
   "districtId": 3518030,
-  "name": "BENDUNGREJO"
+  "districtName": "BERBEK",
+  "name": "BENDUNGREJO",
+  "postalCode": "64473"
  },
  {
   "id": 3518030009,
   "districtId": 3518030,
-  "name": "NGRAWAN"
+  "districtName": "BERBEK",
+  "name": "NGRAWAN",
+  "postalCode": "50774"
  },
  {
   "id": 3518030010,
   "districtId": 3518030,
-  "name": "SUMBERWINDU"
+  "districtName": "BERBEK",
+  "name": "SUMBERWINDU",
+  "postalCode": "64473"
  },
  {
   "id": 3518030011,
   "districtId": 3518030,
-  "name": "KACANGAN"
+  "districtName": "BERBEK",
+  "name": "KACANGAN",
+  "postalCode": "57384"
  },
  {
   "id": 3518030012,
   "districtId": 3518030,
-  "name": "SENDANG BUMEN"
+  "districtName": "BERBEK",
+  "name": "SENDANG BUMEN",
+  "postalCode": "64473"
  },
  {
   "id": 3518030013,
   "districtId": 3518030,
-  "name": "SUMBER URIP"
+  "districtName": "BERBEK",
+  "name": "SUMBER URIP",
+  "postalCode": "39153"
  },
  {
   "id": 3518030014,
   "districtId": 3518030,
-  "name": "PATRANREJO"
+  "districtName": "BERBEK",
+  "name": "PATRANREJO",
+  "postalCode": "64473"
  },
  {
   "id": 3518030015,
   "districtId": 3518030,
-  "name": "BALONGREJO"
+  "districtName": "BERBEK",
+  "name": "BALONGREJO",
+  "postalCode": "58253"
  },
  {
   "id": 3518030016,
   "districtId": 3518030,
-  "name": "TIRIPAN"
+  "districtName": "BERBEK",
+  "name": "TIRIPAN",
+  "postalCode": "64473"
  },
  {
   "id": 3518030017,
   "districtId": 3518030,
-  "name": "SONO PATIK"
+  "districtName": "BERBEK",
+  "name": "SONO PATIK",
+  "postalCode": "64473"
  },
  {
   "id": 3518030018,
   "districtId": 3518030,
-  "name": "GROJOGAN"
+  "districtName": "BERBEK",
+  "name": "GROJOGAN",
+  "postalCode": "64473"
  }
 ]

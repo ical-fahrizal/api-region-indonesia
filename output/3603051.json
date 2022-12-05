@@ -2,31 +2,43 @@
  {
   "id": 3603051001,
   "districtId": 3603051,
-  "name": "BOJONG NANGKA"
+  "districtName": "KELAPA DUA",
+  "name": "BOJONG NANGKA",
+  "postalCode": "16963"
  },
  {
   "id": 3603051002,
   "districtId": 3603051,
-  "name": "CURUG SANGERENG"
+  "districtName": "KELAPA DUA",
+  "name": "CURUG SANGERENG",
+  "postalCode": ""
  },
  {
   "id": 3603051003,
   "districtId": 3603051,
-  "name": "PAKULONAN BARAT"
+  "districtName": "KELAPA DUA",
+  "name": "PAKULONAN BARAT",
+  "postalCode": "15810"
  },
  {
   "id": 3603051004,
   "districtId": 3603051,
-  "name": "KELAPA DUA"
+  "districtName": "KELAPA DUA",
+  "name": "KELAPA DUA",
+  "postalCode": "30959"
  },
  {
   "id": 3603051005,
   "districtId": 3603051,
-  "name": "BENCONGAN INDAH"
+  "districtName": "KELAPA DUA",
+  "name": "BENCONGAN INDAH",
+  "postalCode": "15810"
  },
  {
   "id": 3603051006,
   "districtId": 3603051,
-  "name": "BENCONGAN"
+  "districtName": "KELAPA DUA",
+  "name": "BENCONGAN",
+  "postalCode": "15810"
  }
 ]

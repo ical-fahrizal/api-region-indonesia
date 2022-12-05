@@ -2,11 +2,15 @@
  {
   "id": 3509210003,
   "districtId": 3509210,
-  "name": "SUKORAMBI"
+  "districtName": "SUKORAMBI",
+  "name": "SUKORAMBI",
+  "postalCode": "68151"
  },
  {
   "id": 3509210004,
   "districtId": 3509210,
-  "name": "KARANGPRING"
+  "districtName": "SUKORAMBI",
+  "name": "KARANGPRING",
+  "postalCode": "68151"
  }
 ]

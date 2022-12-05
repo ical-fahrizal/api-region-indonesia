@@ -2,121 +2,169 @@
  {
   "id": 3319020001,
   "districtId": 3319020,
-  "name": "PURWOSARI"
+  "districtName": "KOTA KUDUS",
+  "name": "PURWOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 3319020002,
   "districtId": 3319020,
-  "name": "JANGGALAN"
+  "districtName": "KOTA KUDUS",
+  "name": "JANGGALAN",
+  "postalCode": "59316"
  },
  {
   "id": 3319020003,
   "districtId": 3319020,
-  "name": "DEMANGAN"
+  "districtName": "KOTA KUDUS",
+  "name": "DEMANGAN",
+  "postalCode": "57464"
  },
  {
   "id": 3319020004,
   "districtId": 3319020,
-  "name": "SUNGGINGAN"
+  "districtName": "KOTA KUDUS",
+  "name": "SUNGGINGAN",
+  "postalCode": "59317"
  },
  {
   "id": 3319020005,
   "districtId": 3319020,
-  "name": "PANJUNAN"
+  "districtName": "KOTA KUDUS",
+  "name": "PANJUNAN",
+  "postalCode": "40242"
  },
  {
   "id": 3319020006,
   "districtId": 3319020,
-  "name": "WERGU KULON"
+  "districtName": "KOTA KUDUS",
+  "name": "WERGU KULON",
+  "postalCode": "59318"
  },
  {
   "id": 3319020007,
   "districtId": 3319020,
-  "name": "WERGU WETAN"
+  "districtName": "KOTA KUDUS",
+  "name": "WERGU WETAN",
+  "postalCode": "59318"
  },
  {
   "id": 3319020008,
   "districtId": 3319020,
-  "name": "MLATI KIDUL"
+  "districtName": "KOTA KUDUS",
+  "name": "MLATI KIDUL",
+  "postalCode": "59319"
  },
  {
   "id": 3319020009,
   "districtId": 3319020,
-  "name": "MLATI NOROWITO"
+  "districtName": "KOTA KUDUS",
+  "name": "MLATI NOROWITO",
+  "postalCode": "59319"
  },
  {
   "id": 3319020010,
   "districtId": 3319020,
-  "name": "MLATI LOR"
+  "districtName": "KOTA KUDUS",
+  "name": "MLATI LOR",
+  "postalCode": "59319"
  },
  {
   "id": 3319020011,
   "districtId": 3319020,
-  "name": "NGANGUK"
+  "districtName": "KOTA KUDUS",
+  "name": "NGANGUK",
+  "postalCode": "59311"
  },
  {
   "id": 3319020012,
   "districtId": 3319020,
-  "name": "KRAMAT"
+  "districtName": "KOTA KUDUS",
+  "name": "KRAMAT",
+  "postalCode": "10450"
  },
  {
   "id": 3319020013,
   "districtId": 3319020,
-  "name": "DEMAAN"
+  "districtName": "KOTA KUDUS",
+  "name": "DEMAAN",
+  "postalCode": "59263"
  },
  {
   "id": 3319020014,
   "districtId": 3319020,
-  "name": "LANGGAR DALEM"
+  "districtName": "KOTA KUDUS",
+  "name": "LANGGAR DALEM",
+  "postalCode": ""
  },
  {
   "id": 3319020015,
   "districtId": 3319020,
-  "name": "KAUMAN"
+  "districtName": "KOTA KUDUS",
+  "name": "KAUMAN",
+  "postalCode": "51215"
  },
  {
   "id": 3319020016,
   "districtId": 3319020,
-  "name": "DAMARAN"
+  "districtName": "KOTA KUDUS",
+  "name": "DAMARAN",
+  "postalCode": "59316"
  },
  {
   "id": 3319020017,
   "districtId": 3319020,
-  "name": "KERJASAN"
+  "districtName": "KOTA KUDUS",
+  "name": "KERJASAN",
+  "postalCode": "59315"
  },
  {
   "id": 3319020018,
   "districtId": 3319020,
-  "name": "KAJEKSAN"
+  "districtName": "KOTA KUDUS",
+  "name": "KAJEKSAN",
+  "postalCode": "59314"
  },
  {
   "id": 3319020019,
   "districtId": 3319020,
-  "name": "KRANDON"
+  "districtName": "KOTA KUDUS",
+  "name": "KRANDON",
+  "postalCode": "59565"
  },
  {
   "id": 3319020020,
   "districtId": 3319020,
-  "name": "SINGOCANDI"
+  "districtName": "KOTA KUDUS",
+  "name": "SINGOCANDI",
+  "postalCode": "59314"
  },
  {
   "id": 3319020021,
   "districtId": 3319020,
-  "name": "GLANTENGAN"
+  "districtName": "KOTA KUDUS",
+  "name": "GLANTENGAN",
+  "postalCode": "59313"
  },
  {
   "id": 3319020022,
   "districtId": 3319020,
-  "name": "BARONGAN"
+  "districtName": "KOTA KUDUS",
+  "name": "BARONGAN",
+  "postalCode": "59312"
  },
  {
   "id": 3319020023,
   "districtId": 3319020,
-  "name": "KALIPUTU"
+  "districtName": "KOTA KUDUS",
+  "name": "KALIPUTU",
+  "postalCode": "59312"
  },
  {
   "id": 3319020024,
   "districtId": 3319020,
-  "name": "BURIKAN"
+  "districtName": "KOTA KUDUS",
+  "name": "BURIKAN",
+  "postalCode": "57463"
  }
 ]

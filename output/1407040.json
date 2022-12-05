@@ -2,71 +2,99 @@
  {
   "id": 1407040002,
   "districtId": 1407040,
-  "name": "MENAMING"
+  "districtName": "RAMBAH",
+  "name": "MENAMING",
+  "postalCode": "28557"
  },
  {
   "id": 1407040003,
   "districtId": 1407040,
-  "name": "RAMBAH TENGAH HULU"
+  "districtName": "RAMBAH",
+  "name": "RAMBAH TENGAH HULU",
+  "postalCode": "28557"
  },
  {
   "id": 1407040004,
   "districtId": 1407040,
-  "name": "RAMBAH TENGAH BARAT"
+  "districtName": "RAMBAH",
+  "name": "RAMBAH TENGAH BARAT",
+  "postalCode": "28557"
  },
  {
   "id": 1407040005,
   "districtId": 1407040,
-  "name": "PASIR PENGARAIAN"
+  "districtName": "RAMBAH",
+  "name": "PASIR PENGARAIAN",
+  "postalCode": ""
  },
  {
   "id": 1407040006,
   "districtId": 1407040,
-  "name": "RAMBAH TENGAH UTARA"
+  "districtName": "RAMBAH",
+  "name": "RAMBAH TENGAH UTARA",
+  "postalCode": "28557"
  },
  {
   "id": 1407040012,
   "districtId": 1407040,
-  "name": "RAMBAH TENGAH HILIR"
+  "districtName": "RAMBAH",
+  "name": "RAMBAH TENGAH HILIR",
+  "postalCode": "28557"
  },
  {
   "id": 1407040013,
   "districtId": 1407040,
-  "name": "PASIR BARU"
+  "districtName": "RAMBAH",
+  "name": "PASIR BARU",
+  "postalCode": "22753"
  },
  {
   "id": 1407040014,
   "districtId": 1407040,
-  "name": "TANJUNG BELIT"
+  "districtName": "RAMBAH",
+  "name": "TANJUNG BELIT",
+  "postalCode": "28471"
  },
  {
   "id": 1407040015,
   "districtId": 1407040,
-  "name": "SIALANG JAYA"
+  "districtName": "RAMBAH",
+  "name": "SIALANG JAYA",
+  "postalCode": "29252"
  },
  {
   "id": 1407040016,
   "districtId": 1407040,
-  "name": "KOTO TINGGI"
+  "districtName": "RAMBAH",
+  "name": "KOTO TINGGI",
+  "postalCode": "26192"
  },
  {
   "id": 1407040017,
   "districtId": 1407040,
-  "name": "SUKA MAJU"
+  "districtName": "RAMBAH",
+  "name": "SUKA MAJU",
+  "postalCode": "24673"
  },
  {
   "id": 1407040018,
   "districtId": 1407040,
-  "name": "PEMATANG BERANGAN"
+  "districtName": "RAMBAH",
+  "name": "PEMATANG BERANGAN",
+  "postalCode": "28557"
  },
  {
   "id": 1407040019,
   "districtId": 1407040,
-  "name": "BABUSSALAM"
+  "districtName": "RAMBAH",
+  "name": "BABUSSALAM",
+  "postalCode": "24392"
  },
  {
   "id": 1407040020,
   "districtId": 1407040,
-  "name": "PASIR MAJU"
+  "districtName": "RAMBAH",
+  "name": "PASIR MAJU",
+  "postalCode": "28557"
  }
 ]

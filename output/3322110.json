@@ -2,46 +2,64 @@
  {
   "id": 3322110001,
   "districtId": 3322110,
-  "name": "DOPLANG"
+  "districtName": "BAWEN",
+  "name": "DOPLANG",
+  "postalCode": "53271"
  },
  {
   "id": 3322110002,
   "districtId": 3322110,
-  "name": "BAWEN"
+  "districtName": "BAWEN",
+  "name": "BAWEN",
+  "postalCode": "50661"
  },
  {
   "id": 3322110003,
   "districtId": 3322110,
-  "name": "ASINAN"
+  "districtName": "BAWEN",
+  "name": "ASINAN",
+  "postalCode": "50661"
  },
  {
   "id": 3322110004,
   "districtId": 3322110,
-  "name": "POLOSIRI"
+  "districtName": "BAWEN",
+  "name": "POLOSIRI",
+  "postalCode": "50661"
  },
  {
   "id": 3322110005,
   "districtId": 3322110,
-  "name": "KANDANGAN"
+  "districtName": "BAWEN",
+  "name": "KANDANGAN",
+  "postalCode": "21186"
  },
  {
   "id": 3322110006,
   "districtId": 3322110,
-  "name": "LEMAHIRENG"
+  "districtName": "BAWEN",
+  "name": "LEMAHIRENG",
+  "postalCode": "50661"
  },
  {
   "id": 3322110007,
   "districtId": 3322110,
-  "name": "HARJOSARI"
+  "districtName": "BAWEN",
+  "name": "HARJOSARI",
+  "postalCode": "28122"
  },
  {
   "id": 3322110008,
   "districtId": 3322110,
-  "name": "SAMBAN"
+  "districtName": "BAWEN",
+  "name": "SAMBAN",
+  "postalCode": "50661"
  },
  {
   "id": 3322110009,
   "districtId": 3322110,
-  "name": "PONCORUSO"
+  "districtName": "BAWEN",
+  "name": "PONCORUSO",
+  "postalCode": "50661"
  }
 ]

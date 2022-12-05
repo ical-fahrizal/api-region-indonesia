@@ -2,36 +2,50 @@
  {
   "id": 9403240001,
   "districtId": 9403240,
-  "name": "PUAI"
+  "districtName": "SENTANI TIMUR",
+  "name": "PUAI",
+  "postalCode": ""
  },
  {
   "id": 9403240002,
   "districtId": 9403240,
-  "name": "ITAKIWA"
+  "districtName": "SENTANI TIMUR",
+  "name": "ITAKIWA",
+  "postalCode": ""
  },
  {
   "id": 9403240003,
   "districtId": 9403240,
-  "name": "ASEI BESAR"
+  "districtName": "SENTANI TIMUR",
+  "name": "ASEI BESAR",
+  "postalCode": "99359"
  },
  {
   "id": 9403240004,
   "districtId": 9403240,
-  "name": "ASEI KECIL"
+  "districtName": "SENTANI TIMUR",
+  "name": "ASEI KECIL",
+  "postalCode": "99359"
  },
  {
   "id": 9403240005,
   "districtId": 9403240,
-  "name": "NOLOKLA"
+  "districtName": "SENTANI TIMUR",
+  "name": "NOLOKLA",
+  "postalCode": "99359"
  },
  {
   "id": 9403240006,
   "districtId": 9403240,
-  "name": "NENDALI"
+  "districtName": "SENTANI TIMUR",
+  "name": "NENDALI",
+  "postalCode": "99359"
  },
  {
   "id": 9403240007,
   "districtId": 9403240,
-  "name": "YOKIWA"
+  "districtName": "SENTANI TIMUR",
+  "name": "YOKIWA",
+  "postalCode": "99359"
  }
 ]

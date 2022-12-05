@@ -2,81 +2,113 @@
  {
   "id": 6311020001,
   "districtId": 6311020,
-  "name": "GUNUNG MANAU"
+  "districtName": "BATU MANDI",
+  "name": "GUNUNG MANAU",
+  "postalCode": "71663"
  },
  {
   "id": 6311020002,
   "districtId": 6311020,
-  "name": "TARIWIN"
+  "districtName": "BATU MANDI",
+  "name": "TARIWIN",
+  "postalCode": "71663"
  },
  {
   "id": 6311020003,
   "districtId": 6311020,
-  "name": "LOK BATU"
+  "districtName": "BATU MANDI",
+  "name": "LOK BATU",
+  "postalCode": "71663"
  },
  {
   "id": 6311020004,
   "districtId": 6311020,
-  "name": "BAKUNG"
+  "districtName": "BATU MANDI",
+  "name": "BAKUNG",
+  "postalCode": "36382"
  },
  {
   "id": 6311020005,
   "districtId": 6311020,
-  "name": "KARUH"
+  "districtName": "BATU MANDI",
+  "name": "KARUH",
+  "postalCode": "71663"
  },
  {
   "id": 6311020007,
   "districtId": 6311020,
-  "name": "PELAJAU"
+  "districtName": "BATU MANDI",
+  "name": "PELAJAU",
+  "postalCode": "30953"
  },
  {
   "id": 6311020008,
   "districtId": 6311020,
-  "name": "KASAI"
+  "districtName": "BATU MANDI",
+  "name": "KASAI",
+  "postalCode": "31357"
  },
  {
   "id": 6311020009,
   "districtId": 6311020,
-  "name": "HAMPARAYA"
+  "districtName": "BATU MANDI",
+  "name": "HAMPARAYA",
+  "postalCode": "71663"
  },
  {
   "id": 6311020010,
   "districtId": 6311020,
-  "name": "TIMBUN TULANG"
+  "districtName": "BATU MANDI",
+  "name": "TIMBUN TULANG",
+  "postalCode": "71663"
  },
  {
   "id": 6311020011,
   "districtId": 6311020,
-  "name": "TELUK MESJID"
+  "districtName": "BATU MANDI",
+  "name": "TELUK MESJID",
+  "postalCode": "28662"
  },
  {
   "id": 6311020012,
   "districtId": 6311020,
-  "name": "BATU MANDI"
+  "districtName": "BATU MANDI",
+  "name": "BATU MANDI",
+  "postalCode": "71663"
  },
  {
   "id": 6311020014,
   "districtId": 6311020,
-  "name": "RIWA"
+  "districtName": "BATU MANDI",
+  "name": "RIWA",
+  "postalCode": "71663"
  },
  {
   "id": 6311020015,
   "districtId": 6311020,
-  "name": "GUHA"
+  "districtName": "BATU MANDI",
+  "name": "GUHA",
+  "postalCode": "24783"
  },
  {
   "id": 6311020016,
   "districtId": 6311020,
-  "name": "MANTIMIN"
+  "districtName": "BATU MANDI",
+  "name": "MANTIMIN",
+  "postalCode": "71663"
  },
  {
   "id": 6311020017,
   "districtId": 6311020,
-  "name": "BANUA HANYAR"
+  "districtName": "BATU MANDI",
+  "name": "BANUA HANYAR",
+  "postalCode": "71663"
  },
  {
   "id": 6311020018,
   "districtId": 6311020,
-  "name": "MAMPARI"
+  "districtName": "BATU MANDI",
+  "name": "MAMPARI",
+  "postalCode": "71663"
  }
 ]

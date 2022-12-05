@@ -2,51 +2,71 @@
  {
   "id": 3305081001,
   "districtId": 3305081,
-  "name": "PATUKREJO"
+  "districtName": "BONOROWO",
+  "name": "PATUKREJO",
+  "postalCode": "54395"
  },
  {
   "id": 3305081002,
   "districtId": 3305081,
-  "name": "NGASINAN"
+  "districtName": "BONOROWO",
+  "name": "NGASINAN",
+  "postalCode": "54183"
  },
  {
   "id": 3305081003,
   "districtId": 3305081,
-  "name": "PUJODADI"
+  "districtName": "BONOROWO",
+  "name": "PUJODADI",
+  "postalCode": "35682"
  },
  {
   "id": 3305081004,
   "districtId": 3305081,
-  "name": "BALOREJO"
+  "districtName": "BONOROWO",
+  "name": "BALOREJO",
+  "postalCode": "54395"
  },
  {
   "id": 3305081005,
   "districtId": 3305081,
-  "name": "TLOGOREJO"
+  "districtName": "BONOROWO",
+  "name": "TLOGOREJO",
+  "postalCode": "54395"
  },
  {
   "id": 3305081006,
   "districtId": 3305081,
-  "name": "ROWOSARI"
+  "districtName": "BONOROWO",
+  "name": "ROWOSARI",
+  "postalCode": "54395"
  },
  {
   "id": 3305081007,
   "districtId": 3305081,
-  "name": "BONOROWO"
+  "districtName": "BONOROWO",
+  "name": "BONOROWO",
+  "postalCode": "54395"
  },
  {
   "id": 3305081008,
   "districtId": 3305081,
-  "name": "SIRNOBOYO"
+  "districtName": "BONOROWO",
+  "name": "SIRNOBOYO",
+  "postalCode": "54395"
  },
  {
   "id": 3305081009,
   "districtId": 3305081,
-  "name": "BONJOKKIDUL"
+  "districtName": "BONOROWO",
+  "name": "BONJOKKIDUL",
+  "postalCode": "54395"
  },
  {
   "id": 3305081010,
   "districtId": 3305081,
-  "name": "BONJOKLOR"
+  "districtName": "BONOROWO",
+  "name": "BONJOKLOR",
+  "postalCode": "54395"
  }
 ]

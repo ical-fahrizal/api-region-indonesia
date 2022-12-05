@@ -2,41 +2,57 @@
  {
   "id": 9430014002,
   "districtId": 9430014,
-  "name": "WURAGABUR"
+  "districtName": "AWINA",
+  "name": "WURAGABUR",
+  "postalCode": ""
  },
  {
   "id": 9430014003,
   "districtId": 9430014,
-  "name": "YUGUMIA"
+  "districtName": "AWINA",
+  "name": "YUGUMIA",
+  "postalCode": "99555"
  },
  {
   "id": 9430014004,
   "districtId": 9430014,
-  "name": "WUMUAK"
+  "districtName": "AWINA",
+  "name": "WUMUAK",
+  "postalCode": ""
  },
  {
   "id": 9430014005,
   "districtId": 9430014,
-  "name": "INDAWA"
+  "districtName": "AWINA",
+  "name": "INDAWA",
+  "postalCode": "99555"
  },
  {
   "id": 9430014006,
   "districtId": 9430014,
-  "name": "ANDIAPUT"
+  "districtName": "AWINA",
+  "name": "ANDIAPUT",
+  "postalCode": ""
  },
  {
   "id": 9430014007,
   "districtId": 9430014,
-  "name": "NAMBUME"
+  "districtName": "AWINA",
+  "name": "NAMBUME",
+  "postalCode": "99567"
  },
  {
   "id": 9430014008,
   "districtId": 9430014,
-  "name": "DOLINGGAME"
+  "districtName": "AWINA",
+  "name": "DOLINGGAME",
+  "postalCode": "98916"
  },
  {
   "id": 9430014009,
   "districtId": 9430014,
-  "name": "TINGGIRA"
+  "districtName": "AWINA",
+  "name": "TINGGIRA",
+  "postalCode": ""
  }
 ]

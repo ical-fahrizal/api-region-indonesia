@@ -2,21 +2,29 @@
  {
   "id": 8108042001,
   "districtId": 8108042,
-  "name": "LETODA"
+  "districtName": "LAKOR",
+  "name": "LETODA",
+  "postalCode": "97454"
  },
  {
   "id": 8108042003,
   "districtId": 8108042,
-  "name": "SERA"
+  "districtName": "LAKOR",
+  "name": "SERA",
+  "postalCode": "97595"
  },
  {
   "id": 8108042004,
   "districtId": 8108042,
-  "name": "YAMLULI"
+  "districtName": "LAKOR",
+  "name": "YAMLULI",
+  "postalCode": "97454"
  },
  {
   "id": 8108042005,
   "districtId": 8108042,
-  "name": "LOLOTWARA"
+  "districtName": "LAKOR",
+  "name": "LOLOTWARA",
+  "postalCode": ""
  }
 ]

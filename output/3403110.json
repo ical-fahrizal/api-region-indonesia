@@ -2,51 +2,71 @@
  {
   "id": 3403110001,
   "districtId": 3403110,
-  "name": "SEMOYO"
+  "districtName": "PATUK",
+  "name": "SEMOYO",
+  "postalCode": "55862"
  },
  {
   "id": 3403110002,
   "districtId": 3403110,
-  "name": "PENGKOK"
+  "districtName": "PATUK",
+  "name": "PENGKOK",
+  "postalCode": "57292"
  },
  {
   "id": 3403110003,
   "districtId": 3403110,
-  "name": "BEJI"
+  "districtName": "PATUK",
+  "name": "BEJI",
+  "postalCode": "16421"
  },
  {
   "id": 3403110005,
   "districtId": 3403110,
-  "name": "NGLEGI"
+  "districtName": "PATUK",
+  "name": "NGLEGI",
+  "postalCode": "55862"
  },
  {
   "id": 3403110006,
   "districtId": 3403110,
-  "name": "PUTAT"
+  "districtName": "PATUK",
+  "name": "PUTAT",
+  "postalCode": "28983"
  },
  {
   "id": 3403110007,
   "districtId": 3403110,
-  "name": "SALAM"
+  "districtName": "PATUK",
+  "name": "SALAM",
+  "postalCode": "54191"
  },
  {
   "id": 3403110008,
   "districtId": 3403110,
-  "name": "PATUK"
+  "districtName": "PATUK",
+  "name": "PATUK",
+  "postalCode": "55862"
  },
  {
   "id": 3403110009,
   "districtId": 3403110,
-  "name": "NGORO ORO"
+  "districtName": "PATUK",
+  "name": "NGORO ORO",
+  "postalCode": "55862"
  },
  {
   "id": 3403110010,
   "districtId": 3403110,
-  "name": "NGLANGGERAN"
+  "districtName": "PATUK",
+  "name": "NGLANGGERAN",
+  "postalCode": "55862"
  },
  {
   "id": 3403110011,
   "districtId": 3403110,
-  "name": "TERBAH"
+  "districtName": "PATUK",
+  "name": "TERBAH",
+  "postalCode": "55862"
  }
 ]

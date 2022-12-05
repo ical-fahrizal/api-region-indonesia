@@ -2,96 +2,134 @@
  {
   "id": 3515020001,
   "districtId": 3515020,
-  "name": "PRAMBON"
+  "districtName": "PRAMBON",
+  "name": "PRAMBON",
+  "postalCode": "63172"
  },
  {
   "id": 3515020002,
   "districtId": 3515020,
-  "name": "KAJARTENGGULI"
+  "districtName": "PRAMBON",
+  "name": "KAJARTENGGULI",
+  "postalCode": "61264"
  },
  {
   "id": 3515020003,
   "districtId": 3515020,
-  "name": "GEDANGROWO"
+  "districtName": "PRAMBON",
+  "name": "GEDANGROWO",
+  "postalCode": "61264"
  },
  {
   "id": 3515020004,
   "districtId": 3515020,
-  "name": "WIROBITING"
+  "districtName": "PRAMBON",
+  "name": "WIROBITING",
+  "postalCode": "61264"
  },
  {
   "id": 3515020005,
   "districtId": 3515020,
-  "name": "SIMPANG"
+  "districtName": "PRAMBON",
+  "name": "SIMPANG",
+  "postalCode": "23773"
  },
  {
   "id": 3515020006,
   "districtId": 3515020,
-  "name": "BULANG"
+  "districtName": "PRAMBON",
+  "name": "BULANG",
+  "postalCode": "31352"
  },
  {
   "id": 3515020007,
   "districtId": 3515020,
-  "name": "GAMPANG"
+  "districtName": "PRAMBON",
+  "name": "GAMPANG",
+  "postalCode": "61264"
  },
  {
   "id": 3515020008,
   "districtId": 3515020,
-  "name": "JATIKALANG"
+  "districtName": "PRAMBON",
+  "name": "JATIKALANG",
+  "postalCode": "61262"
  },
  {
   "id": 3515020009,
   "districtId": 3515020,
-  "name": "PEJANGKUNGAN"
+  "districtName": "PRAMBON",
+  "name": "PEJANGKUNGAN",
+  "postalCode": "61264"
  },
  {
   "id": 3515020010,
   "districtId": 3515020,
-  "name": "KEDUNGSUGO"
+  "districtName": "PRAMBON",
+  "name": "KEDUNGSUGO",
+  "postalCode": "61264"
  },
  {
   "id": 3515020011,
   "districtId": 3515020,
-  "name": "KEDUNGWONOKERTO"
+  "districtName": "PRAMBON",
+  "name": "KEDUNGWONOKERTO",
+  "postalCode": "61264"
  },
  {
   "id": 3515020012,
   "districtId": 3515020,
-  "name": "BENDOTRETEK"
+  "districtName": "PRAMBON",
+  "name": "BENDOTRETEK",
+  "postalCode": "61264"
  },
  {
   "id": 3515020013,
   "districtId": 3515020,
-  "name": "WONO PLINTAHAN"
+  "districtName": "PRAMBON",
+  "name": "WONO PLINTAHAN",
+  "postalCode": "61264"
  },
  {
   "id": 3515020014,
   "districtId": 3515020,
-  "name": "KEDUNGKEMBAR"
+  "districtName": "PRAMBON",
+  "name": "KEDUNGKEMBAR",
+  "postalCode": "61264"
  },
  {
   "id": 3515020015,
   "districtId": 3515020,
-  "name": "JATI ALUN ALUN"
+  "districtName": "PRAMBON",
+  "name": "JATI ALUN ALUN",
+  "postalCode": "61264"
  },
  {
   "id": 3515020016,
   "districtId": 3515020,
-  "name": "JEDONGCANGKRING"
+  "districtName": "PRAMBON",
+  "name": "JEDONGCANGKRING",
+  "postalCode": "61264"
  },
  {
   "id": 3515020017,
   "districtId": 3515020,
-  "name": "CANGKRINGTURI"
+  "districtName": "PRAMBON",
+  "name": "CANGKRINGTURI",
+  "postalCode": "61264"
  },
  {
   "id": 3515020018,
   "districtId": 3515020,
-  "name": "SIMOGIRANG"
+  "districtName": "PRAMBON",
+  "name": "SIMOGIRANG",
+  "postalCode": "61264"
  },
  {
   "id": 3515020020,
   "districtId": 3515020,
-  "name": "WATUTULIS"
+  "districtName": "PRAMBON",
+  "name": "WATUTULIS",
+  "postalCode": "61264"
  }
 ]

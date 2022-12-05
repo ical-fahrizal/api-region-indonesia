@@ -2,91 +2,127 @@
  {
   "id": 1105080001,
   "districtId": 1105080,
-  "name": "LOKOP"
+  "districtName": "SERBA JADI",
+  "name": "LOKOP",
+  "postalCode": "24461"
  },
  {
   "id": 1105080002,
   "districtId": 1105080,
-  "name": "TUALANG"
+  "districtName": "SERBA JADI",
+  "name": "TUALANG",
+  "postalCode": "24372"
  },
  {
   "id": 1105080003,
   "districtId": 1105080,
-  "name": "GAMPONG TERUJAK"
+  "districtName": "SERBA JADI",
+  "name": "GAMPONG TERUJAK",
+  "postalCode": ""
  },
  {
   "id": 1105080004,
   "districtId": 1105080,
-  "name": "LELES"
+  "districtName": "SERBA JADI",
+  "name": "LELES",
+  "postalCode": "24461"
  },
  {
   "id": 1105080013,
   "districtId": 1105080,
-  "name": "UJUNG KARANG"
+  "districtName": "SERBA JADI",
+  "name": "UJUNG KARANG",
+  "postalCode": "23753"
  },
  {
   "id": 1105080014,
   "districtId": 1105080,
-  "name": "UJUNG TARING"
+  "districtName": "SERBA JADI",
+  "name": "UJUNG TARING",
+  "postalCode": ""
  },
  {
   "id": 1105080015,
   "districtId": 1105080,
-  "name": "SUNTI"
+  "districtName": "SERBA JADI",
+  "name": "SUNTI",
+  "postalCode": "24461"
  },
  {
   "id": 1105080016,
   "districtId": 1105080,
-  "name": "SEKUALAN"
+  "districtName": "SERBA JADI",
+  "name": "SEKUALAN",
+  "postalCode": "24461"
  },
  {
   "id": 1105080017,
   "districtId": 1105080,
-  "name": "LOOT"
+  "districtName": "SERBA JADI",
+  "name": "LOOT",
+  "postalCode": "24461"
  },
  {
   "id": 1105080018,
   "districtId": 1105080,
-  "name": "NALON"
+  "districtName": "SERBA JADI",
+  "name": "NALON",
+  "postalCode": "24461"
  },
  {
   "id": 1105080019,
   "districtId": 1105080,
-  "name": "JERING"
+  "districtName": "SERBA JADI",
+  "name": "JERING",
+  "postalCode": "24461"
  },
  {
   "id": 1105080020,
   "districtId": 1105080,
-  "name": "RAMPAH"
+  "districtName": "SERBA JADI",
+  "name": "RAMPAH",
+  "postalCode": "24461"
  },
  {
   "id": 1105080021,
   "districtId": 1105080,
-  "name": "MESIR"
+  "districtName": "SERBA JADI",
+  "name": "MESIR",
+  "postalCode": "24461"
  },
  {
   "id": 1105080022,
   "districtId": 1105080,
-  "name": "SELEMAK"
+  "districtName": "SERBA JADI",
+  "name": "SELEMAK",
+  "postalCode": "20374"
  },
  {
   "id": 1105080023,
   "districtId": 1105080,
-  "name": "SEMBUANG"
+  "districtName": "SERBA JADI",
+  "name": "SEMBUANG",
+  "postalCode": "24461"
  },
  {
   "id": 1105080028,
   "districtId": 1105080,
-  "name": "BUNIN"
+  "districtName": "SERBA JADI",
+  "name": "BUNIN",
+  "postalCode": "24461"
  },
  {
   "id": 1105080029,
   "districtId": 1105080,
-  "name": "ALUR DRIEN"
+  "districtName": "SERBA JADI",
+  "name": "ALUR DRIEN",
+  "postalCode": ""
  },
  {
   "id": 1105080030,
   "districtId": 1105080,
-  "name": "UPT I KUALA PANGOH"
+  "districtName": "SERBA JADI",
+  "name": "UPT I KUALA PANGOH",
+  "postalCode": ""
  }
 ]

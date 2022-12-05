@@ -2,36 +2,50 @@
  {
   "id": 1206071001,
   "districtId": 1206071,
-  "name": "AMBAR HALIM"
+  "districtName": "PINTU POHAN MERANTI",
+  "name": "AMBAR HALIM",
+  "postalCode": "22384"
  },
  {
   "id": 1206071002,
   "districtId": 1206071,
-  "name": "PINTU POHAN DOLOK"
+  "districtName": "PINTU POHAN MERANTI",
+  "name": "PINTU POHAN DOLOK",
+  "postalCode": "22384"
  },
  {
   "id": 1206071003,
   "districtId": 1206071,
-  "name": "PINTU POHAN PASAR"
+  "districtName": "PINTU POHAN MERANTI",
+  "name": "PINTU POHAN PASAR",
+  "postalCode": ""
  },
  {
   "id": 1206071004,
   "districtId": 1206071,
-  "name": "HALADO"
+  "districtName": "PINTU POHAN MERANTI",
+  "name": "HALADO",
+  "postalCode": "22384"
  },
  {
   "id": 1206071008,
   "districtId": 1206071,
-  "name": "MERANTI TIMUR"
+  "districtName": "PINTU POHAN MERANTI",
+  "name": "MERANTI TIMUR",
+  "postalCode": "22384"
  },
  {
   "id": 1206071009,
   "districtId": 1206071,
-  "name": "MERANTI TENGAH"
+  "districtName": "PINTU POHAN MERANTI",
+  "name": "MERANTI TENGAH",
+  "postalCode": "22384"
  },
  {
   "id": 1206071010,
   "districtId": 1206071,
-  "name": "MERANTI UTARA"
+  "districtName": "PINTU POHAN MERANTI",
+  "name": "MERANTI UTARA",
+  "postalCode": "22384"
  }
 ]

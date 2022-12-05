@@ -2,36 +2,50 @@
  {
   "id": 5307013001,
   "districtId": 5307013,
-  "name": "MARISA"
+  "districtName": "PANTAR BARAT LAUT",
+  "name": "MARISA",
+  "postalCode": "85881"
  },
  {
   "id": 5307013002,
   "districtId": 5307013,
-  "name": "ALLUMANG"
+  "districtName": "PANTAR BARAT LAUT",
+  "name": "ALLUMANG",
+  "postalCode": "85881"
  },
  {
   "id": 5307013003,
   "districtId": 5307013,
-  "name": "KAYANG"
+  "districtName": "PANTAR BARAT LAUT",
+  "name": "KAYANG",
+  "postalCode": "85881"
  },
  {
   "id": 5307013004,
   "districtId": 5307013,
-  "name": "LAMMA"
+  "districtName": "PANTAR BARAT LAUT",
+  "name": "LAMMA",
+  "postalCode": "85881"
  },
  {
   "id": 5307013005,
   "districtId": 5307013,
-  "name": "BEANG ONONG"
+  "districtName": "PANTAR BARAT LAUT",
+  "name": "BEANG ONONG",
+  "postalCode": ""
  },
  {
   "id": 5307013006,
   "districtId": 5307013,
-  "name": "KALONDAMA BARAT"
+  "districtName": "PANTAR BARAT LAUT",
+  "name": "KALONDAMA BARAT",
+  "postalCode": "85881"
  },
  {
   "id": 5307013007,
   "districtId": 5307013,
-  "name": "KALONDAMA TENGAH"
+  "districtName": "PANTAR BARAT LAUT",
+  "name": "KALONDAMA TENGAH",
+  "postalCode": "85881"
  }
 ]

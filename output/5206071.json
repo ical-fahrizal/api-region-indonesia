@@ -2,31 +2,43 @@
  {
   "id": 5206071001,
   "districtId": 5206071,
-  "name": "RITE"
+  "districtName": "AMBALAWI",
+  "name": "RITE",
+  "postalCode": "84153"
  },
  {
   "id": 5206071002,
   "districtId": 5206071,
-  "name": "TALAPITI"
+  "districtName": "AMBALAWI",
+  "name": "TALAPITI",
+  "postalCode": "84153"
  },
  {
   "id": 5206071003,
   "districtId": 5206071,
-  "name": "TOLOWATA"
+  "districtName": "AMBALAWI",
+  "name": "TOLOWATA",
+  "postalCode": "84153"
  },
  {
   "id": 5206071004,
   "districtId": 5206071,
-  "name": "NIPA"
+  "districtName": "AMBALAWI",
+  "name": "NIPA",
+  "postalCode": "84153"
  },
  {
   "id": 5206071005,
   "districtId": 5206071,
-  "name": "MAWU"
+  "districtName": "AMBALAWI",
+  "name": "MAWU",
+  "postalCode": "84153"
  },
  {
   "id": 5206071006,
   "districtId": 5206071,
-  "name": "KOLE"
+  "districtName": "AMBALAWI",
+  "name": "KOLE",
+  "postalCode": "84153"
  }
 ]

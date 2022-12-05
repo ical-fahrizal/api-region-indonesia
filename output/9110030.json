@@ -2,31 +2,43 @@
  {
   "id": 9110030001,
   "districtId": 9110030,
-  "name": "SABAH"
+  "districtName": "AIFAT SELATAN",
+  "name": "SABAH",
+  "postalCode": "98463"
  },
  {
   "id": 9110030003,
   "districtId": 9110030,
-  "name": "FUOG"
+  "districtName": "AIFAT SELATAN",
+  "name": "FUOG",
+  "postalCode": "98463"
  },
  {
   "id": 9110030004,
   "districtId": 9110030,
-  "name": "IMSUN"
+  "districtName": "AIFAT SELATAN",
+  "name": "IMSUN",
+  "postalCode": "98463"
  },
  {
   "id": 9110030005,
   "districtId": 9110030,
-  "name": "KISOR"
+  "districtName": "AIFAT SELATAN",
+  "name": "KISOR",
+  "postalCode": "98463"
  },
  {
   "id": 9110030006,
   "districtId": 9110030,
-  "name": "SORY"
+  "districtName": "AIFAT SELATAN",
+  "name": "SORY",
+  "postalCode": ""
  },
  {
   "id": 9110030007,
   "districtId": 9110030,
-  "name": "TASIMARA"
+  "districtName": "AIFAT SELATAN",
+  "name": "TASIMARA",
+  "postalCode": ""
  }
 ]

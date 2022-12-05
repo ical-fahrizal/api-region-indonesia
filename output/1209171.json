@@ -2,41 +2,57 @@
  {
   "id": 1209171001,
   "districtId": 1209171,
-  "name": "MARIAH JAMBI"
+  "districtName": "JAWA MARAJA BAH JAMBI",
+  "name": "MARIAH JAMBI",
+  "postalCode": "21153"
  },
  {
   "id": 1209171002,
   "districtId": 1209171,
-  "name": "MOHO"
+  "districtName": "JAWA MARAJA BAH JAMBI",
+  "name": "MOHO",
+  "postalCode": "21153"
  },
  {
   "id": 1209171003,
   "districtId": 1209171,
-  "name": "BAHALAT BAYU"
+  "districtName": "JAWA MARAJA BAH JAMBI",
+  "name": "BAHALAT BAYU",
+  "postalCode": "21153"
  },
  {
   "id": 1209171004,
   "districtId": 1209171,
-  "name": "MEKAR BAHALAT"
+  "districtName": "JAWA MARAJA BAH JAMBI",
+  "name": "MEKAR BAHALAT",
+  "postalCode": "21153"
  },
  {
   "id": 1209171005,
   "districtId": 1209171,
-  "name": "TANJUNG MARAJA"
+  "districtName": "JAWA MARAJA BAH JAMBI",
+  "name": "TANJUNG MARAJA",
+  "postalCode": "21153"
  },
  {
   "id": 1209171006,
   "districtId": 1209171,
-  "name": "JAWA MARAJA"
+  "districtName": "JAWA MARAJA BAH JAMBI",
+  "name": "JAWA MARAJA",
+  "postalCode": "21153"
  },
  {
   "id": 1209171007,
   "districtId": 1209171,
-  "name": "BAH JOGA"
+  "districtName": "JAWA MARAJA BAH JAMBI",
+  "name": "BAH JOGA",
+  "postalCode": "21153"
  },
  {
   "id": 1209171008,
   "districtId": 1209171,
-  "name": "BAH JAMBI I"
+  "districtName": "JAWA MARAJA BAH JAMBI",
+  "name": "BAH JAMBI I",
+  "postalCode": "21153"
  }
 ]

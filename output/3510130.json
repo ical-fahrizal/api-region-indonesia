@@ -2,66 +2,92 @@
  {
   "id": 3510130001,
   "districtId": 3510130,
-  "name": "BARENG"
+  "districtName": "KABAT",
+  "name": "BARENG",
+  "postalCode": "57414"
  },
  {
   "id": 3510130003,
   "districtId": 3510130,
-  "name": "GOMBOLIRANG"
+  "districtName": "KABAT",
+  "name": "GOMBOLIRANG",
+  "postalCode": "68461"
  },
  {
   "id": 3510130004,
   "districtId": 3510130,
-  "name": "BENELAN LOR"
+  "districtName": "KABAT",
+  "name": "BENELAN LOR",
+  "postalCode": "68461"
  },
  {
   "id": 3510130005,
   "districtId": 3510130,
-  "name": "LABANASEM"
+  "districtName": "KABAT",
+  "name": "LABANASEM",
+  "postalCode": "68461"
  },
  {
   "id": 3510130006,
   "districtId": 3510130,
-  "name": "PAKISTAJI"
+  "districtName": "KABAT",
+  "name": "PAKISTAJI",
+  "postalCode": "68461"
  },
  {
   "id": 3510130009,
   "districtId": 3510130,
-  "name": "PONDOKNONGKO"
+  "districtName": "KABAT",
+  "name": "PONDOKNONGKO",
+  "postalCode": "68461"
  },
  {
   "id": 3510130010,
   "districtId": 3510130,
-  "name": "DADAPAN"
+  "districtName": "KABAT",
+  "name": "DADAPAN",
+  "postalCode": "35374"
  },
  {
   "id": 3510130011,
   "districtId": 3510130,
-  "name": "KEDAYUNAN"
+  "districtName": "KABAT",
+  "name": "KEDAYUNAN",
+  "postalCode": "68461"
  },
  {
   "id": 3510130012,
   "districtId": 3510130,
-  "name": "KABAT"
+  "districtName": "KABAT",
+  "name": "KABAT",
+  "postalCode": "24172"
  },
  {
   "id": 3510130013,
   "districtId": 3510130,
-  "name": "MACAN PUTIH"
+  "districtName": "KABAT",
+  "name": "MACAN PUTIH",
+  "postalCode": "68461"
  },
  {
   "id": 3510130014,
   "districtId": 3510130,
-  "name": "TAMBONG"
+  "districtName": "KABAT",
+  "name": "TAMBONG",
+  "postalCode": "68461"
  },
  {
   "id": 3510130015,
   "districtId": 3510130,
-  "name": "PENDARUNGAN"
+  "districtName": "KABAT",
+  "name": "PENDARUNGAN",
+  "postalCode": "68461"
  },
  {
   "id": 3510130016,
   "districtId": 3510130,
-  "name": "KALIREJO"
+  "districtName": "KABAT",
+  "name": "KALIREJO",
+  "postalCode": "35353"
  }
 ]

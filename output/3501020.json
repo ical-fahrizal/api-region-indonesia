@@ -2,61 +2,85 @@
  {
   "id": 3501020001,
   "districtId": 3501020,
-  "name": "BOMO"
+  "districtName": "PUNUNG",
+  "name": "BOMO",
+  "postalCode": "63553"
  },
  {
   "id": 3501020002,
   "districtId": 3501020,
-  "name": "SOOKA"
+  "districtName": "PUNUNG",
+  "name": "SOOKA",
+  "postalCode": ""
  },
  {
   "id": 3501020004,
   "districtId": 3501020,
-  "name": "MENDOLO KIDUL"
+  "districtName": "PUNUNG",
+  "name": "MENDOLO KIDUL",
+  "postalCode": "63553"
  },
  {
   "id": 3501020005,
   "districtId": 3501020,
-  "name": "MENDOLO LOR"
+  "districtName": "PUNUNG",
+  "name": "MENDOLO LOR",
+  "postalCode": "63553"
  },
  {
   "id": 3501020006,
   "districtId": 3501020,
-  "name": "KENDAL"
+  "districtName": "PUNUNG",
+  "name": "KENDAL",
+  "postalCode": "45181"
  },
  {
   "id": 3501020007,
   "districtId": 3501020,
-  "name": "PITON"
+  "districtName": "PUNUNG",
+  "name": "PITON",
+  "postalCode": "63553"
  },
  {
   "id": 3501020008,
   "districtId": 3501020,
-  "name": "WARENG"
+  "districtName": "PUNUNG",
+  "name": "WARENG",
+  "postalCode": "54264"
  },
  {
   "id": 3501020009,
   "districtId": 3501020,
-  "name": "MANTREN"
+  "districtName": "PUNUNG",
+  "name": "MANTREN",
+  "postalCode": "63395"
  },
  {
   "id": 3501020010,
   "districtId": 3501020,
-  "name": "PLOSO"
+  "districtName": "PUNUNG",
+  "name": "PLOSO",
+  "postalCode": "59348"
  },
  {
   "id": 3501020011,
   "districtId": 3501020,
-  "name": "GONDOSARI"
+  "districtName": "PUNUNG",
+  "name": "GONDOSARI",
+  "postalCode": "59333"
  },
  {
   "id": 3501020012,
   "districtId": 3501020,
-  "name": "TINATAR"
+  "districtName": "PUNUNG",
+  "name": "TINATAR",
+  "postalCode": "63553"
  },
  {
   "id": 3501020013,
   "districtId": 3501020,
-  "name": "KEBONSARI"
+  "districtName": "PUNUNG",
+  "name": "KEBONSARI",
+  "postalCode": "56553"
  }
 ]

@@ -2,16 +2,22 @@
  {
   "id": 2104011001,
   "districtId": 2104011,
-  "name": "POSEK"
+  "districtName": "KEPULAUAN POSEK",
+  "name": "POSEK",
+  "postalCode": "29875"
  },
  {
   "id": 2104011002,
   "districtId": 2104011,
-  "name": "SUAK BUAYA"
+  "districtName": "KEPULAUAN POSEK",
+  "name": "SUAK BUAYA",
+  "postalCode": "29875"
  },
  {
   "id": 2104011003,
   "districtId": 2104011,
-  "name": "BUSUNG PANJANG"
+  "districtName": "KEPULAUAN POSEK",
+  "name": "BUSUNG PANJANG",
+  "postalCode": "29875"
  }
 ]

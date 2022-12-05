@@ -2,81 +2,113 @@
  {
   "id": 7202012001,
   "districtId": 7202012,
-  "name": "MINAKARYA"
+  "districtName": "MOILONG",
+  "name": "MINAKARYA",
+  "postalCode": "94765"
  },
  {
   "id": 7202012002,
   "districtId": 7202012,
-  "name": "MINAHAKI"
+  "districtName": "MOILONG",
+  "name": "MINAHAKI",
+  "postalCode": "94765"
  },
  {
   "id": 7202012003,
   "districtId": 7202012,
-  "name": "BUMIHARJO"
+  "districtName": "MOILONG",
+  "name": "BUMIHARJO",
+  "postalCode": "34767"
  },
  {
   "id": 7202012004,
   "districtId": 7202012,
-  "name": "SIDOHARJO"
+  "districtName": "MOILONG",
+  "name": "SIDOHARJO",
+  "postalCode": "30975"
  },
  {
   "id": 7202012005,
   "districtId": 7202012,
-  "name": "ARGAKENCANA"
+  "districtName": "MOILONG",
+  "name": "ARGAKENCANA",
+  "postalCode": "94765"
  },
  {
   "id": 7202012006,
   "districtId": 7202012,
-  "name": "MULYOHARJO"
+  "districtName": "MOILONG",
+  "name": "MULYOHARJO",
+  "postalCode": "59431"
  },
  {
   "id": 7202012007,
   "districtId": 7202012,
-  "name": "SLAMETHARJO"
+  "districtName": "MOILONG",
+  "name": "SLAMETHARJO",
+  "postalCode": ""
  },
  {
   "id": 7202012008,
   "districtId": 7202012,
-  "name": "TOILI"
+  "districtName": "MOILONG",
+  "name": "TOILI",
+  "postalCode": "94765"
  },
  {
   "id": 7202012009,
   "districtId": 7202012,
-  "name": "SALUAN"
+  "districtName": "MOILONG",
+  "name": "SALUAN",
+  "postalCode": "94765"
  },
  {
   "id": 7202012010,
   "districtId": 7202012,
-  "name": "MOILONG"
+  "districtName": "MOILONG",
+  "name": "MOILONG",
+  "postalCode": "94765"
  },
  {
   "id": 7202012011,
   "districtId": 7202012,
-  "name": "KARYA JAYA"
+  "districtName": "MOILONG",
+  "name": "KARYA JAYA",
+  "postalCode": "20611"
  },
  {
   "id": 7202012012,
   "districtId": 7202012,
-  "name": "SUMBER HARJO"
+  "districtName": "MOILONG",
+  "name": "SUMBER HARJO",
+  "postalCode": "32361"
  },
  {
   "id": 7202012013,
   "districtId": 7202012,
-  "name": "KARANG ANYAR"
+  "districtName": "MOILONG",
+  "name": "KARANG ANYAR",
+  "postalCode": "24415"
  },
  {
   "id": 7202012014,
   "districtId": 7202012,
-  "name": "SIDOMAKMUR"
+  "districtName": "MOILONG",
+  "name": "SIDOMAKMUR",
+  "postalCode": "31452"
  },
  {
   "id": 7202012015,
   "districtId": 7202012,
-  "name": "ARGO MULYA"
+  "districtName": "MOILONG",
+  "name": "ARGO MULYA",
+  "postalCode": ""
  },
  {
   "id": 7202012016,
   "districtId": 7202012,
-  "name": "TOU"
+  "districtName": "MOILONG",
+  "name": "TOU",
+  "postalCode": "86111"
  }
 ]

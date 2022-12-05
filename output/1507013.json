@@ -2,51 +2,71 @@
  {
   "id": 1507013001,
   "districtId": 1507013,
-  "name": "PURWODADI"
+  "districtName": "TEBING TINGGI",
+  "name": "PURWODADI",
+  "postalCode": "24652"
  },
  {
   "id": 1507013002,
   "districtId": 1507013,
-  "name": "SUKADAMAI"
+  "districtName": "TEBING TINGGI",
+  "name": "SUKADAMAI",
+  "postalCode": "24373"
  },
  {
   "id": 1507013003,
   "districtId": 1507013,
-  "name": "ADI JAYA"
+  "districtName": "TEBING TINGGI",
+  "name": "ADI JAYA",
+  "postalCode": "36552"
  },
  {
   "id": 1507013004,
   "districtId": 1507013,
-  "name": "TEBING TINGGI"
+  "districtName": "TEBING TINGGI",
+  "name": "TEBING TINGGI",
+  "postalCode": "24477"
  },
  {
   "id": 1507013005,
   "districtId": 1507013,
-  "name": "KELAGIAN"
+  "districtName": "TEBING TINGGI",
+  "name": "KELAGIAN",
+  "postalCode": "36552"
  },
  {
   "id": 1507013006,
   "districtId": 1507013,
-  "name": "SUNGAI KERUH"
+  "districtName": "TEBING TINGGI",
+  "name": "SUNGAI KERUH",
+  "postalCode": "37571"
  },
  {
   "id": 1507013007,
   "districtId": 1507013,
-  "name": "DATARAN KEMPAS"
+  "districtName": "TEBING TINGGI",
+  "name": "DATARAN KEMPAS",
+  "postalCode": "36552"
  },
  {
   "id": 1507013008,
   "districtId": 1507013,
-  "name": "DELIMA"
+  "districtName": "TEBING TINGGI",
+  "name": "DELIMA",
+  "postalCode": "28291"
  },
  {
   "id": 1507013009,
   "districtId": 1507013,
-  "name": "TALANG MAKMUR"
+  "districtName": "TEBING TINGGI",
+  "name": "TALANG MAKMUR",
+  "postalCode": "36552"
  },
  {
   "id": 1507013010,
   "districtId": 1507013,
-  "name": "TELUK PENGKAH"
+  "districtName": "TEBING TINGGI",
+  "name": "TELUK PENGKAH",
+  "postalCode": ""
  }
 ]

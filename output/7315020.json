@@ -2,46 +2,64 @@
  {
   "id": 7315020007,
   "districtId": 7315020,
-  "name": "MASSULOWALIE"
+  "districtName": "MATTIROSOMPE",
+  "name": "MASSULOWALIE",
+  "postalCode": "91261"
  },
  {
   "id": 7315020009,
   "districtId": 7315020,
-  "name": "LANGA"
+  "districtName": "MATTIROSOMPE",
+  "name": "LANGA",
+  "postalCode": "91261"
  },
  {
   "id": 7315020010,
   "districtId": 7315020,
-  "name": "PALLAMEANG"
+  "districtName": "MATTIROSOMPE",
+  "name": "PALLAMEANG",
+  "postalCode": "91261"
  },
  {
   "id": 7315020011,
   "districtId": 7315020,
-  "name": "MATTOMBONG"
+  "districtName": "MATTIROSOMPE",
+  "name": "MATTOMBONG",
+  "postalCode": "91261"
  },
  {
   "id": 7315020012,
   "districtId": 7315020,
-  "name": "PATOBONG"
+  "districtName": "MATTIROSOMPE",
+  "name": "PATOBONG",
+  "postalCode": "91261"
  },
  {
   "id": 7315020013,
   "districtId": 7315020,
-  "name": "SAMAENRE"
+  "districtName": "MATTIROSOMPE",
+  "name": "SAMAENRE",
+  "postalCode": "92763"
  },
  {
   "id": 7315020014,
   "districtId": 7315020,
-  "name": "MATTONGANG TONGANG"
+  "districtName": "MATTIROSOMPE",
+  "name": "MATTONGANG TONGANG",
+  "postalCode": "91261"
  },
  {
   "id": 7315020015,
   "districtId": 7315020,
-  "name": "MATTIRO TASI"
+  "districtName": "MATTIROSOMPE",
+  "name": "MATTIRO TASI",
+  "postalCode": "90511"
  },
  {
   "id": 7315020016,
   "districtId": 7315020,
-  "name": "SIWOLONG POLONG"
+  "districtName": "MATTIROSOMPE",
+  "name": "SIWOLONG POLONG",
+  "postalCode": "91261"
  }
 ]

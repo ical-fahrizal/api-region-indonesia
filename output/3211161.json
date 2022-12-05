@@ -2,36 +2,50 @@
  {
   "id": 3211161001,
   "districtId": 3211161,
-  "name": "CISALAK"
+  "districtName": "CISARUA",
+  "name": "CISALAK",
+  "postalCode": "43262"
  },
  {
   "id": 3211161002,
   "districtId": 3211161,
-  "name": "KEBONKALAPA"
+  "districtName": "CISARUA",
+  "name": "KEBONKALAPA",
+  "postalCode": "45355"
  },
  {
   "id": 3211161003,
   "districtId": 3211161,
-  "name": "CISARUA"
+  "districtName": "CISARUA",
+  "name": "CISARUA",
+  "postalCode": "43115"
  },
  {
   "id": 3211161004,
   "districtId": 3211161,
-  "name": "BANTARMARA"
+  "districtName": "CISARUA",
+  "name": "BANTARMARA",
+  "postalCode": "45355"
  },
  {
   "id": 3211161005,
   "districtId": 3211161,
-  "name": "CIUYAH"
+  "districtName": "CISARUA",
+  "name": "CIUYAH",
+  "postalCode": "45355"
  },
  {
   "id": 3211161006,
   "districtId": 3211161,
-  "name": "CIMARA"
+  "districtName": "CISARUA",
+  "name": "CIMARA",
+  "postalCode": "45588"
  },
  {
   "id": 3211161007,
   "districtId": 3211161,
-  "name": "CIPANDANWANGI"
+  "districtName": "CISARUA",
+  "name": "CIPANDANWANGI",
+  "postalCode": "45355"
  }
 ]

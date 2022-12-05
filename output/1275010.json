@@ -2,46 +2,64 @@
  {
   "id": 1275010001,
   "districtId": 1275010,
-  "name": "BARU LADANG BAMBU"
+  "districtName": "MEDAN TUNTUNGAN",
+  "name": "BARU LADANG BAMBU",
+  "postalCode": ""
  },
  {
   "id": 1275010002,
   "districtId": 1275010,
-  "name": "SIDOMULYO"
+  "districtName": "MEDAN TUNTUNGAN",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  },
  {
   "id": 1275010003,
   "districtId": 1275010,
-  "name": "LAU CIH"
+  "districtName": "MEDAN TUNTUNGAN",
+  "name": "LAU CIH",
+  "postalCode": "20136"
  },
  {
   "id": 1275010004,
   "districtId": 1275010,
-  "name": "NAMU GAJAH"
+  "districtName": "MEDAN TUNTUNGAN",
+  "name": "NAMU GAJAH",
+  "postalCode": "20136"
  },
  {
   "id": 1275010005,
   "districtId": 1275010,
-  "name": "KEMENANGAN TANI"
+  "districtName": "MEDAN TUNTUNGAN",
+  "name": "KEMENANGAN TANI",
+  "postalCode": "20136"
  },
  {
   "id": 1275010006,
   "districtId": 1275010,
-  "name": "SIMALINGKAR B"
+  "districtName": "MEDAN TUNTUNGAN",
+  "name": "SIMALINGKAR B",
+  "postalCode": "20135"
  },
  {
   "id": 1275010007,
   "districtId": 1275010,
-  "name": "SIMPANG SELAYANG"
+  "districtName": "MEDAN TUNTUNGAN",
+  "name": "SIMPANG SELAYANG",
+  "postalCode": "20135"
  },
  {
   "id": 1275010008,
   "districtId": 1275010,
-  "name": "TANJUNG SELAMAT"
+  "districtName": "MEDAN TUNTUNGAN",
+  "name": "TANJUNG SELAMAT",
+  "postalCode": "21463"
  },
  {
   "id": 1275010009,
   "districtId": 1275010,
-  "name": "M A N G G A"
+  "districtName": "MEDAN TUNTUNGAN",
+  "name": "M A N G G A",
+  "postalCode": ""
  }
 ]

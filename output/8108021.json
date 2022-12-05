@@ -2,16 +2,22 @@
  {
   "id": 8108021001,
   "districtId": 8108021,
-  "name": "NOMAHA"
+  "districtName": "KISAR UTARA",
+  "name": "NOMAHA",
+  "postalCode": "97454"
  },
  {
   "id": 8108021002,
   "districtId": 8108021,
-  "name": "PUR- PURA"
+  "districtName": "KISAR UTARA",
+  "name": "PUR- PURA",
+  "postalCode": ""
  },
  {
   "id": 8108021003,
   "districtId": 8108021,
-  "name": "LEBELAU"
+  "districtName": "KISAR UTARA",
+  "name": "LEBELAU",
+  "postalCode": "97454"
  }
 ]

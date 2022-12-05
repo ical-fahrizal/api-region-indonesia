@@ -2,26 +2,36 @@
  {
   "id": 1801051001,
   "districtId": 1801051,
-  "name": "TIGA JAYA"
+  "districtName": "SEKINCAU",
+  "name": "TIGA JAYA",
+  "postalCode": "34885"
  },
  {
   "id": 1801051002,
   "districtId": 1801051,
-  "name": "WASPADA"
+  "districtName": "SEKINCAU",
+  "name": "WASPADA",
+  "postalCode": "34885"
  },
  {
   "id": 1801051003,
   "districtId": 1801051,
-  "name": "GIHAM SUKAMAJU"
+  "districtName": "SEKINCAU",
+  "name": "GIHAM SUKAMAJU",
+  "postalCode": "34885"
  },
  {
   "id": 1801051004,
   "districtId": 1801051,
-  "name": "SEKINCAU"
+  "districtName": "SEKINCAU",
+  "name": "SEKINCAU",
+  "postalCode": "34885"
  },
  {
   "id": 1801051005,
   "districtId": 1801051,
-  "name": "PAMPANGAN"
+  "districtName": "SEKINCAU",
+  "name": "PAMPANGAN",
+  "postalCode": "30654"
  }
 ]

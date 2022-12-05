@@ -2,46 +2,64 @@
  {
   "id": 5303130012,
   "districtId": 5303130,
-  "name": "OESENA"
+  "districtName": "AMARASI",
+  "name": "OESENA",
+  "postalCode": "85367"
  },
  {
   "id": 5303130013,
   "districtId": 5303130,
-  "name": "NONBES"
+  "districtName": "AMARASI",
+  "name": "NONBES",
+  "postalCode": "85367"
  },
  {
   "id": 5303130014,
   "districtId": 5303130,
-  "name": "KOTABES"
+  "districtName": "AMARASI",
+  "name": "KOTABES",
+  "postalCode": "85367"
  },
  {
   "id": 5303130015,
   "districtId": 5303130,
-  "name": "PONAIN"
+  "districtName": "AMARASI",
+  "name": "PONAIN",
+  "postalCode": "85367"
  },
  {
   "id": 5303130016,
   "districtId": 5303130,
-  "name": "TESBATAN"
+  "districtName": "AMARASI",
+  "name": "TESBATAN",
+  "postalCode": "85367"
  },
  {
   "id": 5303130019,
   "districtId": 5303130,
-  "name": "APREN"
+  "districtName": "AMARASI",
+  "name": "APREN",
+  "postalCode": "85367"
  },
  {
   "id": 5303130020,
   "districtId": 5303130,
-  "name": "OENONI"
+  "districtName": "AMARASI",
+  "name": "OENONI",
+  "postalCode": "85367"
  },
  {
   "id": 5303130021,
   "districtId": 5303130,
-  "name": "TESBATAN II"
+  "districtName": "AMARASI",
+  "name": "TESBATAN II",
+  "postalCode": "85367"
  },
  {
   "id": 5303130022,
   "districtId": 5303130,
-  "name": "OENONI II"
+  "districtName": "AMARASI",
+  "name": "OENONI II",
+  "postalCode": ""
  }
 ]

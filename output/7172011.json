@@ -2,41 +2,57 @@
  {
   "id": 7172011001,
   "districtId": 7172011,
-  "name": "TANJUNG MERAH"
+  "districtName": "MATUARI",
+  "name": "TANJUNG MERAH",
+  "postalCode": "95547"
  },
  {
   "id": 7172011002,
   "districtId": 7172011,
-  "name": "SAGERAT"
+  "districtName": "MATUARI",
+  "name": "SAGERAT",
+  "postalCode": "95546"
  },
  {
   "id": 7172011003,
   "districtId": 7172011,
-  "name": "MANEMBO NEMBO ATAS"
+  "districtName": "MATUARI",
+  "name": "MANEMBO NEMBO ATAS",
+  "postalCode": "95545"
  },
  {
   "id": 7172011004,
   "districtId": 7172011,
-  "name": "MANEMBO NEMBO"
+  "districtName": "MATUARI",
+  "name": "MANEMBO NEMBO",
+  "postalCode": ""
  },
  {
   "id": 7172011011,
   "districtId": 7172011,
-  "name": "SAGERAT WERU SATU"
+  "districtName": "MATUARI",
+  "name": "SAGERAT WERU SATU",
+  "postalCode": ""
  },
  {
   "id": 7172011012,
   "districtId": 7172011,
-  "name": "SAGERAT WERU DUA"
+  "districtName": "MATUARI",
+  "name": "SAGERAT WERU DUA",
+  "postalCode": ""
  },
  {
   "id": 7172011013,
   "districtId": 7172011,
-  "name": "TENDEKI"
+  "districtName": "MATUARI",
+  "name": "TENDEKI",
+  "postalCode": "95539"
  },
  {
   "id": 7172011014,
   "districtId": 7172011,
-  "name": "MANEMBO-NEMBO TENGAH"
+  "districtName": "MATUARI",
+  "name": "MANEMBO-NEMBO TENGAH",
+  "postalCode": ""
  }
 ]

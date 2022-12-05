@@ -2,76 +2,106 @@
  {
   "id": 1610051001,
   "districtId": 1610051,
-  "name": "MAJU JAYA"
+  "districtName": "PEMULUTAN SELATAN",
+  "name": "MAJU JAYA",
+  "postalCode": "36371"
  },
  {
   "id": 1610051002,
   "districtId": 1610051,
-  "name": "NAIKAN TEMBAKANG"
+  "districtName": "PEMULUTAN SELATAN",
+  "name": "NAIKAN TEMBAKANG",
+  "postalCode": "30653"
  },
  {
   "id": 1610051003,
   "districtId": 1610051,
-  "name": "PEMATANG BANGSAL"
+  "districtName": "PEMULUTAN SELATAN",
+  "name": "PEMATANG BANGSAL",
+  "postalCode": "30653"
  },
  {
   "id": 1610051004,
   "districtId": 1610051,
-  "name": "SUNGAI LEBUNG"
+  "districtName": "PEMULUTAN SELATAN",
+  "name": "SUNGAI LEBUNG",
+  "postalCode": "30653"
  },
  {
   "id": 1610051005,
   "districtId": 1610051,
-  "name": "CAHAYA MARGA"
+  "districtName": "PEMULUTAN SELATAN",
+  "name": "CAHAYA MARGA",
+  "postalCode": "30653"
  },
  {
   "id": 1610051006,
   "districtId": 1610051,
-  "name": "MAYAPATI"
+  "districtName": "PEMULUTAN SELATAN",
+  "name": "MAYAPATI",
+  "postalCode": "30653"
  },
  {
   "id": 1610051007,
   "districtId": 1610051,
-  "name": "KAPUK"
+  "districtName": "PEMULUTAN SELATAN",
+  "name": "KAPUK",
+  "postalCode": "37356"
  },
  {
   "id": 1610051008,
   "districtId": 1610051,
-  "name": "SEGAYAM"
+  "districtName": "PEMULUTAN SELATAN",
+  "name": "SEGAYAM",
+  "postalCode": "31171"
  },
  {
   "id": 1610051009,
   "districtId": 1610051,
-  "name": "ULAK AUR STANDING"
+  "districtName": "PEMULUTAN SELATAN",
+  "name": "ULAK AUR STANDING",
+  "postalCode": "30653"
  },
  {
   "id": 1610051010,
   "districtId": 1610051,
-  "name": "HARIMAU TANDANG"
+  "districtName": "PEMULUTAN SELATAN",
+  "name": "HARIMAU TANDANG",
+  "postalCode": "30653"
  },
  {
   "id": 1610051011,
   "districtId": 1610051,
-  "name": "SUNGAI KELI"
+  "districtName": "PEMULUTAN SELATAN",
+  "name": "SUNGAI KELI",
+  "postalCode": "30653"
  },
  {
   "id": 1610051012,
   "districtId": 1610051,
-  "name": "SUNGAI LEBUNG ULU"
+  "districtName": "PEMULUTAN SELATAN",
+  "name": "SUNGAI LEBUNG ULU",
+  "postalCode": ""
  },
  {
   "id": 1610051013,
   "districtId": 1610051,
-  "name": "LEBAK PERING"
+  "districtName": "PEMULUTAN SELATAN",
+  "name": "LEBAK PERING",
+  "postalCode": "30653"
  },
  {
   "id": 1610051014,
   "districtId": 1610051,
-  "name": "SUNGAI ONDOK"
+  "districtName": "PEMULUTAN SELATAN",
+  "name": "SUNGAI ONDOK",
+  "postalCode": "30653"
  },
  {
   "id": 1610051015,
   "districtId": 1610051,
-  "name": "PEMATANG BUNGUR"
+  "districtName": "PEMULUTAN SELATAN",
+  "name": "PEMATANG BUNGUR",
+  "postalCode": "30653"
  }
 ]

@@ -2,81 +2,113 @@
  {
   "id": 1209170005,
   "districtId": 1209170,
-  "name": "MARIAH HOMBANG"
+  "districtName": "HUTABAYU RAJA",
+  "name": "MARIAH HOMBANG",
+  "postalCode": "21182"
  },
  {
   "id": 1209170006,
   "districtId": 1209170,
-  "name": "MARIHAT MAYANG"
+  "districtName": "HUTABAYU RAJA",
+  "name": "MARIHAT MAYANG",
+  "postalCode": "21182"
  },
  {
   "id": 1209170007,
   "districtId": 1209170,
-  "name": "JAWA BARU"
+  "districtName": "HUTABAYU RAJA",
+  "name": "JAWA BARU",
+  "postalCode": "21182"
  },
  {
   "id": 1209170008,
   "districtId": 1209170,
-  "name": "PULO BAYU"
+  "districtName": "HUTABAYU RAJA",
+  "name": "PULO BAYU",
+  "postalCode": "21182"
  },
  {
   "id": 1209170009,
   "districtId": 1209170,
-  "name": "HUTA BAYU"
+  "districtName": "HUTABAYU RAJA",
+  "name": "HUTA BAYU",
+  "postalCode": "21182"
  },
  {
   "id": 1209170010,
   "districtId": 1209170,
-  "name": "SILAK KIDIR"
+  "districtName": "HUTABAYU RAJA",
+  "name": "SILAK KIDIR",
+  "postalCode": "21182"
  },
  {
   "id": 1209170011,
   "districtId": 1209170,
-  "name": "BOSAR BAYU"
+  "districtName": "HUTABAYU RAJA",
+  "name": "BOSAR BAYU",
+  "postalCode": "21182"
  },
  {
   "id": 1209170012,
   "districtId": 1209170,
-  "name": "MANCUK"
+  "districtName": "HUTABAYU RAJA",
+  "name": "MANCUK",
+  "postalCode": "21182"
  },
  {
   "id": 1209170015,
   "districtId": 1209170,
-  "name": "MALIGAS BAYU"
+  "districtName": "HUTABAYU RAJA",
+  "name": "MALIGAS BAYU",
+  "postalCode": "21182"
  },
  {
   "id": 1209170016,
   "districtId": 1209170,
-  "name": "RAJA MALIGAS"
+  "districtName": "HUTABAYU RAJA",
+  "name": "RAJA MALIGAS",
+  "postalCode": "21182"
  },
  {
   "id": 1209170017,
   "districtId": 1209170,
-  "name": "DOLOK SINUMBAH"
+  "districtName": "HUTABAYU RAJA",
+  "name": "DOLOK SINUMBAH",
+  "postalCode": "21182"
  },
  {
   "id": 1209170018,
   "districtId": 1209170,
-  "name": "RAJA MALIGAS I"
+  "districtName": "HUTABAYU RAJA",
+  "name": "RAJA MALIGAS I",
+  "postalCode": "21182"
  },
  {
   "id": 1209170019,
   "districtId": 1209170,
-  "name": "BAHAL BATU"
+  "districtName": "HUTABAYU RAJA",
+  "name": "BAHAL BATU",
+  "postalCode": "22755"
  },
  {
   "id": 1209170020,
   "districtId": 1209170,
-  "name": "POKAN BARU"
+  "districtName": "HUTABAYU RAJA",
+  "name": "POKAN BARU",
+  "postalCode": ""
  },
  {
   "id": 1209170021,
   "districtId": 1209170,
-  "name": "MANRAYAP BARU"
+  "districtName": "HUTABAYU RAJA",
+  "name": "MANRAYAP BARU",
+  "postalCode": ""
  },
  {
   "id": 1209170022,
   "districtId": 1209170,
-  "name": "TALANG BAYU"
+  "districtName": "HUTABAYU RAJA",
+  "name": "TALANG BAYU",
+  "postalCode": ""
  }
 ]

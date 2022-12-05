@@ -2,86 +2,120 @@
  {
   "id": 1213020005,
   "districtId": 1213020,
-  "name": "UJUNG BANDAR"
+  "districtName": "SALAPIAN",
+  "name": "UJUNG BANDAR",
+  "postalCode": "20774"
  },
  {
   "id": 1213020006,
   "districtId": 1213020,
-  "name": "PARANGGUAM"
+  "districtName": "SALAPIAN",
+  "name": "PARANGGUAM",
+  "postalCode": "20773"
  },
  {
   "id": 1213020007,
   "districtId": 1213020,
-  "name": "PERKEBUNAN TAMBUNAN"
+  "districtName": "SALAPIAN",
+  "name": "PERKEBUNAN TAMBUNAN",
+  "postalCode": "20773"
  },
  {
   "id": 1213020008,
   "districtId": 1213020,
-  "name": "LAU TEPU"
+  "districtName": "SALAPIAN",
+  "name": "LAU TEPU",
+  "postalCode": "20773"
  },
  {
   "id": 1213020009,
   "districtId": 1213020,
-  "name": "PAMA TAMBUNAN"
+  "districtName": "SALAPIAN",
+  "name": "PAMA TAMBUNAN",
+  "postalCode": ""
  },
  {
   "id": 1213020010,
   "districtId": 1213020,
-  "name": "PERKEBUNAN GLUGUR LANGKAT"
+  "districtName": "SALAPIAN",
+  "name": "PERKEBUNAN GLUGUR LANGKAT",
+  "postalCode": ""
  },
  {
   "id": 1213020015,
   "districtId": 1213020,
-  "name": "BANDAR TELU"
+  "districtName": "SALAPIAN",
+  "name": "BANDAR TELU",
+  "postalCode": ""
  },
  {
   "id": 1213020016,
   "districtId": 1213020,
-  "name": "TURANGI"
+  "districtName": "SALAPIAN",
+  "name": "TURANGI",
+  "postalCode": "20773"
  },
  {
   "id": 1213020017,
   "districtId": 1213020,
-  "name": "UJUNG TERAN"
+  "districtName": "SALAPIAN",
+  "name": "UJUNG TERAN",
+  "postalCode": "22153"
  },
  {
   "id": 1213020018,
   "districtId": 1213020,
-  "name": "MINTA KASIH"
+  "districtName": "SALAPIAN",
+  "name": "MINTA KASIH",
+  "postalCode": "20773"
  },
  {
   "id": 1213020019,
   "districtId": 1213020,
-  "name": "TANJUNG LANGKAT"
+  "districtName": "SALAPIAN",
+  "name": "TANJUNG LANGKAT",
+  "postalCode": "20773"
  },
  {
   "id": 1213020020,
   "districtId": 1213020,
-  "name": "NAMAN JAHE"
+  "districtName": "SALAPIAN",
+  "name": "NAMAN JAHE",
+  "postalCode": "20773"
  },
  {
   "id": 1213020021,
   "districtId": 1213020,
-  "name": "PERKEBUNAN TANJUNG KELILING"
+  "districtName": "SALAPIAN",
+  "name": "PERKEBUNAN TANJUNG KELILING",
+  "postalCode": "20773"
  },
  {
   "id": 1213020025,
   "districtId": 1213020,
-  "name": "PONCO WARNO"
+  "districtName": "SALAPIAN",
+  "name": "PONCO WARNO",
+  "postalCode": "34174"
  },
  {
   "id": 1213020026,
   "districtId": 1213020,
-  "name": "ADIN TENGAH"
+  "districtName": "SALAPIAN",
+  "name": "ADIN TENGAH",
+  "postalCode": "20773"
  },
  {
   "id": 1213020027,
   "districtId": 1213020,
-  "name": "LAU LUGUR"
+  "districtName": "SALAPIAN",
+  "name": "LAU LUGUR",
+  "postalCode": ""
  },
  {
   "id": 1213020028,
   "districtId": 1213020,
-  "name": "PANCUR IDO"
+  "districtName": "SALAPIAN",
+  "name": "PANCUR IDO",
+  "postalCode": "20773"
  }
 ]

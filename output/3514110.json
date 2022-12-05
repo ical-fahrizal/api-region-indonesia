@@ -2,96 +2,134 @@
  {
   "id": 3514110001,
   "districtId": 3514110,
-  "name": "GUNTING"
+  "districtName": "SUKOREJO",
+  "name": "GUNTING",
+  "postalCode": "57473"
  },
  {
   "id": 3514110002,
   "districtId": 3514110,
-  "name": "PAKUKERTO"
+  "districtName": "SUKOREJO",
+  "name": "PAKUKERTO",
+  "postalCode": "67161"
  },
  {
   "id": 3514110003,
   "districtId": 3514110,
-  "name": "GLAGAH SARI"
+  "districtName": "SUKOREJO",
+  "name": "GLAGAH SARI",
+  "postalCode": "67161"
  },
  {
   "id": 3514110004,
   "districtId": 3514110,
-  "name": "SUKOREJO"
+  "districtName": "SUKOREJO",
+  "name": "SUKOREJO",
+  "postalCode": "31551"
  },
  {
   "id": 3514110005,
   "districtId": 3514110,
-  "name": "KARANGSONO"
+  "districtName": "SUKOREJO",
+  "name": "KARANGSONO",
+  "postalCode": "58163"
  },
  {
   "id": 3514110006,
   "districtId": 3514110,
-  "name": "SEBANDUNG"
+  "districtName": "SUKOREJO",
+  "name": "SEBANDUNG",
+  "postalCode": "67161"
  },
  {
   "id": 3514110007,
   "districtId": 3514110,
-  "name": "DUKUH SARI"
+  "districtName": "SUKOREJO",
+  "name": "DUKUH SARI",
+  "postalCode": "67161"
  },
  {
   "id": 3514110008,
   "districtId": 3514110,
-  "name": "LECARI"
+  "districtName": "SUKOREJO",
+  "name": "LECARI",
+  "postalCode": "67161"
  },
  {
   "id": 3514110009,
   "districtId": 3514110,
-  "name": "LEMAHBANG"
+  "districtName": "SUKOREJO",
+  "name": "LEMAHBANG",
+  "postalCode": "57783"
  },
  {
   "id": 3514110010,
   "districtId": 3514110,
-  "name": "NGADIMULYO"
+  "districtName": "SUKOREJO",
+  "name": "NGADIMULYO",
+  "postalCode": "56252"
  },
  {
   "id": 3514110011,
   "districtId": 3514110,
-  "name": "TANJUNGARUM"
+  "districtName": "SUKOREJO",
+  "name": "TANJUNGARUM",
+  "postalCode": "67161"
  },
  {
   "id": 3514110012,
   "districtId": 3514110,
-  "name": "SUWAYUWO"
+  "districtName": "SUKOREJO",
+  "name": "SUWAYUWO",
+  "postalCode": "67161"
  },
  {
   "id": 3514110013,
   "districtId": 3514110,
-  "name": "MOJOTENGAH"
+  "districtName": "SUKOREJO",
+  "name": "MOJOTENGAH",
+  "postalCode": "56252"
  },
  {
   "id": 3514110014,
   "districtId": 3514110,
-  "name": "KALIREJO"
+  "districtName": "SUKOREJO",
+  "name": "KALIREJO",
+  "postalCode": "35353"
  },
  {
   "id": 3514110015,
   "districtId": 3514110,
-  "name": "CANDI BINANGUN"
+  "districtName": "SUKOREJO",
+  "name": "CANDI BINANGUN",
+  "postalCode": "55582"
  },
  {
   "id": 3514110016,
   "districtId": 3514110,
-  "name": "KENDURUAN"
+  "districtName": "SUKOREJO",
+  "name": "KENDURUAN",
+  "postalCode": "67161"
  },
  {
   "id": 3514110017,
   "districtId": 3514110,
-  "name": "CURAH REJO"
+  "districtName": "SUKOREJO",
+  "name": "CURAH REJO",
+  "postalCode": "67161"
  },
  {
   "id": 3514110018,
   "districtId": 3514110,
-  "name": "SUKORAME"
+  "districtName": "SUKOREJO",
+  "name": "SUKORAME",
+  "postalCode": "57331"
  },
  {
   "id": 3514110019,
   "districtId": 3514110,
-  "name": "WONOKERTO"
+  "districtName": "SUKOREJO",
+  "name": "WONOKERTO",
+  "postalCode": "31662"
  }
 ]

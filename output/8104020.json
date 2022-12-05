@@ -2,36 +2,50 @@
  {
   "id": 8104020001,
   "districtId": 8104020,
-  "name": "JAMILU"
+  "districtName": "NAMLEA",
+  "name": "JAMILU",
+  "postalCode": "97571"
  },
  {
   "id": 8104020002,
   "districtId": 8104020,
-  "name": "SANLEKO"
+  "districtName": "NAMLEA",
+  "name": "SANLEKO",
+  "postalCode": "97571"
  },
  {
   "id": 8104020003,
   "districtId": 8104020,
-  "name": "SIAHONI"
+  "districtName": "NAMLEA",
+  "name": "SIAHONI",
+  "postalCode": "97571"
  },
  {
   "id": 8104020004,
   "districtId": 8104020,
-  "name": "NAMLEA"
+  "districtName": "NAMLEA",
+  "name": "NAMLEA",
+  "postalCode": "97571"
  },
  {
   "id": 8104020005,
   "districtId": 8104020,
-  "name": "LALA"
+  "districtName": "NAMLEA",
+  "name": "LALA",
+  "postalCode": "97571"
  },
  {
   "id": 8104020006,
   "districtId": 8104020,
-  "name": "KARANG JAYA"
+  "districtName": "NAMLEA",
+  "name": "KARANG JAYA",
+  "postalCode": "32383"
  },
  {
   "id": 8104020012,
   "districtId": 8104020,
-  "name": "BATU BOY"
+  "districtName": "NAMLEA",
+  "name": "BATU BOY",
+  "postalCode": "97571"
  }
 ]

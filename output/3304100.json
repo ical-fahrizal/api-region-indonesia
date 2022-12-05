@@ -2,56 +2,78 @@
  {
   "id": 3304100001,
   "districtId": 3304100,
-  "name": "TAPEN"
+  "districtName": "WANADADI",
+  "name": "TAPEN",
+  "postalCode": "54263"
  },
  {
   "id": 3304100002,
   "districtId": 3304100,
-  "name": "KASILIB"
+  "districtName": "WANADADI",
+  "name": "KASILIB",
+  "postalCode": ""
  },
  {
   "id": 3304100003,
   "districtId": 3304100,
-  "name": "KARANGJAMBE"
+  "districtName": "WANADADI",
+  "name": "KARANGJAMBE",
+  "postalCode": "53372"
  },
  {
   "id": 3304100004,
   "districtId": 3304100,
-  "name": "WANADADI"
+  "districtName": "WANADADI",
+  "name": "WANADADI",
+  "postalCode": "53461"
  },
  {
   "id": 3304100005,
   "districtId": 3304100,
-  "name": "WANAKARSA"
+  "districtName": "WANADADI",
+  "name": "WANAKARSA",
+  "postalCode": "53461"
  },
  {
   "id": 3304100006,
   "districtId": 3304100,
-  "name": "KARANGKEMIRI"
+  "districtName": "WANADADI",
+  "name": "KARANGKEMIRI",
+  "postalCode": "53252"
  },
  {
   "id": 3304100007,
   "districtId": 3304100,
-  "name": "GUMINGSIR"
+  "districtName": "WANADADI",
+  "name": "GUMINGSIR",
+  "postalCode": "53455"
  },
  {
   "id": 3304100008,
   "districtId": 3304100,
-  "name": "LINGGASARI"
+  "districtName": "WANADADI",
+  "name": "LINGGASARI",
+  "postalCode": "46216"
  },
  {
   "id": 3304100009,
   "districtId": 3304100,
-  "name": "MEDAYU"
+  "districtName": "WANADADI",
+  "name": "MEDAYU",
+  "postalCode": "50776"
  },
  {
   "id": 3304100010,
   "districtId": 3304100,
-  "name": "KANDANGWANGI"
+  "districtName": "WANADADI",
+  "name": "KANDANGWANGI",
+  "postalCode": "53461"
  },
  {
   "id": 3304100011,
   "districtId": 3304100,
-  "name": "LEMAHJAYA"
+  "districtName": "WANADADI",
+  "name": "LEMAHJAYA",
+  "postalCode": "53461"
  }
 ]

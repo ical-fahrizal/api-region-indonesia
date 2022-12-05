@@ -2,26 +2,36 @@
  {
   "id": 6405021004,
   "districtId": 6405021,
-  "name": "TABALAR MUARA"
+  "districtName": "TABALAR",
+  "name": "TABALAR MUARA",
+  "postalCode": "77372"
  },
  {
   "id": 6405021005,
   "districtId": 6405021,
-  "name": "HARAPAN MAJU"
+  "districtName": "TABALAR",
+  "name": "HARAPAN MAJU",
+  "postalCode": "20773"
  },
  {
   "id": 6405021006,
   "districtId": 6405021,
-  "name": "TABALAR ULU"
+  "districtName": "TABALAR",
+  "name": "TABALAR ULU",
+  "postalCode": "77372"
  },
  {
   "id": 6405021007,
   "districtId": 6405021,
-  "name": "TUBAAN"
+  "districtName": "TABALAR",
+  "name": "TUBAAN",
+  "postalCode": "77372"
  },
  {
   "id": 6405021009,
   "districtId": 6405021,
-  "name": "RADAK/BUYUNG-BUYUNG"
+  "districtName": "TABALAR",
+  "name": "RADAK/BUYUNG-BUYUNG",
+  "postalCode": ""
  }
 ]

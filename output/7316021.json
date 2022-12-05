@@ -2,36 +2,50 @@
  {
   "id": 7316021001,
   "districtId": 7316021,
-  "name": "MALALIN"
+  "districtName": "CENDANA",
+  "name": "MALALIN",
+  "postalCode": "91711"
  },
  {
   "id": 7316021002,
   "districtId": 7316021,
-  "name": "KARRANG"
+  "districtName": "CENDANA",
+  "name": "KARRANG",
+  "postalCode": "91711"
  },
  {
   "id": 7316021003,
   "districtId": 7316021,
-  "name": "TAULAN"
+  "districtName": "CENDANA",
+  "name": "TAULAN",
+  "postalCode": "91711"
  },
  {
   "id": 7316021004,
   "districtId": 7316021,
-  "name": "PUNDILEMO"
+  "districtName": "CENDANA",
+  "name": "PUNDILEMO",
+  "postalCode": "91711"
  },
  {
   "id": 7316021005,
   "districtId": 7316021,
-  "name": "CENDANA"
+  "districtName": "CENDANA",
+  "name": "CENDANA",
+  "postalCode": "21417"
  },
  {
   "id": 7316021006,
   "districtId": 7316021,
-  "name": "LEBANG"
+  "districtName": "CENDANA",
+  "name": "LEBANG",
+  "postalCode": "91711"
  },
  {
   "id": 7316021007,
   "districtId": 7316021,
-  "name": "PINANG"
+  "districtName": "CENDANA",
+  "name": "PINANG",
+  "postalCode": "23765"
  }
 ]

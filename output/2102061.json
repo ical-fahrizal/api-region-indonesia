@@ -2,21 +2,29 @@
  {
   "id": 2102061001,
   "districtId": 2102061,
-  "name": "GUNUNG KIJANG"
+  "districtName": "GUNUNG KIJANG",
+  "name": "GUNUNG KIJANG",
+  "postalCode": "29151"
  },
  {
   "id": 2102061003,
   "districtId": 2102061,
-  "name": "KAWAL"
+  "districtName": "GUNUNG KIJANG",
+  "name": "KAWAL",
+  "postalCode": "29151"
  },
  {
   "id": 2102061004,
   "districtId": 2102061,
-  "name": "TELUK BAKAU"
+  "districtName": "GUNUNG KIJANG",
+  "name": "TELUK BAKAU",
+  "postalCode": "28384"
  },
  {
   "id": 2102061005,
   "districtId": 2102061,
-  "name": "MALANG RAPAT"
+  "districtName": "GUNUNG KIJANG",
+  "name": "MALANG RAPAT",
+  "postalCode": "29151"
  }
 ]

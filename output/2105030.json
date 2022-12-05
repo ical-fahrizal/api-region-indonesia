@@ -2,36 +2,50 @@
  {
   "id": 2105030001,
   "districtId": 2105030,
-  "name": "KIABU"
+  "districtName": "SIANTAN SELATAN",
+  "name": "KIABU",
+  "postalCode": "29791"
  },
  {
   "id": 2105030002,
   "districtId": 2105030,
-  "name": "TELAGA"
+  "districtName": "SIANTAN SELATAN",
+  "name": "TELAGA",
+  "postalCode": "20771"
  },
  {
   "id": 2105030003,
   "districtId": 2105030,
-  "name": "MENGKAIT"
+  "districtName": "SIANTAN SELATAN",
+  "name": "MENGKAIT",
+  "postalCode": "29791"
  },
  {
   "id": 2105030004,
   "districtId": 2105030,
-  "name": "TIANGAU"
+  "districtName": "SIANTAN SELATAN",
+  "name": "TIANGAU",
+  "postalCode": "29791"
  },
  {
   "id": 2105030005,
   "districtId": 2105030,
-  "name": "TELAGA KECIL"
+  "districtName": "SIANTAN SELATAN",
+  "name": "TELAGA KECIL",
+  "postalCode": "29791"
  },
  {
   "id": 2105030006,
   "districtId": 2105030,
-  "name": "LINGAI"
+  "districtName": "SIANTAN SELATAN",
+  "name": "LINGAI",
+  "postalCode": "34619"
  },
  {
   "id": 2105030007,
   "districtId": 2105030,
-  "name": "AIR BINI"
+  "districtName": "SIANTAN SELATAN",
+  "name": "AIR BINI",
+  "postalCode": "29791"
  }
 ]

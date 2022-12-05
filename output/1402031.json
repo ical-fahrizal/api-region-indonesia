@@ -2,96 +2,134 @@
  {
   "id": 1402031001,
   "districtId": 1402031,
-  "name": "KOTA BARU"
+  "districtName": "RAKIT KULIM",
+  "name": "KOTA BARU",
+  "postalCode": "23125"
  },
  {
   "id": 1402031002,
   "districtId": 1402031,
-  "name": "RIMBA SEMINAI"
+  "districtName": "RAKIT KULIM",
+  "name": "RIMBA SEMINAI",
+  "postalCode": "29352"
  },
  {
   "id": 1402031003,
   "districtId": 1402031,
-  "name": "KUANTAN TENANG"
+  "districtName": "RAKIT KULIM",
+  "name": "KUANTAN TENANG",
+  "postalCode": "29352"
  },
  {
   "id": 1402031004,
   "districtId": 1402031,
-  "name": "KELAYANG"
+  "districtName": "RAKIT KULIM",
+  "name": "KELAYANG",
+  "postalCode": "29352"
  },
  {
   "id": 1402031005,
   "districtId": 1402031,
-  "name": "LUBUK SITARAK"
+  "districtName": "RAKIT KULIM",
+  "name": "LUBUK SITARAK",
+  "postalCode": "29352"
  },
  {
   "id": 1402031006,
   "districtId": 1402031,
-  "name": "PETONGGAN"
+  "districtName": "RAKIT KULIM",
+  "name": "PETONGGAN",
+  "postalCode": "29352"
  },
  {
   "id": 1402031007,
   "districtId": 1402031,
-  "name": "BATU SAWAR"
+  "districtName": "RAKIT KULIM",
+  "name": "BATU SAWAR",
+  "postalCode": "29352"
  },
  {
   "id": 1402031008,
   "districtId": 1402031,
-  "name": "TALANG SUNGAI PARIT"
+  "districtName": "RAKIT KULIM",
+  "name": "TALANG SUNGAI PARIT",
+  "postalCode": ""
  },
  {
   "id": 1402031009,
   "districtId": 1402031,
-  "name": "TALANG SELANTAI"
+  "districtName": "RAKIT KULIM",
+  "name": "TALANG SELANTAI",
+  "postalCode": "29352"
  },
  {
   "id": 1402031010,
   "districtId": 1402031,
-  "name": "TALANG PERIGI"
+  "districtName": "RAKIT KULIM",
+  "name": "TALANG PERIGI",
+  "postalCode": ""
  },
  {
   "id": 1402031011,
   "districtId": 1402031,
-  "name": "TALANG GEDABU"
+  "districtName": "RAKIT KULIM",
+  "name": "TALANG GEDABU",
+  "postalCode": "29352"
  },
  {
   "id": 1402031012,
   "districtId": 1402031,
-  "name": "TALANG SUNGAI LIMAU"
+  "districtName": "RAKIT KULIM",
+  "name": "TALANG SUNGAI LIMAU",
+  "postalCode": ""
  },
  {
   "id": 1402031013,
   "districtId": 1402031,
-  "name": "TALANG DURIAN CACAR"
+  "districtName": "RAKIT KULIM",
+  "name": "TALANG DURIAN CACAR",
+  "postalCode": "29352"
  },
  {
   "id": 1402031014,
   "districtId": 1402031,
-  "name": "TALANG TUJUH BUAH TANGGA"
+  "districtName": "RAKIT KULIM",
+  "name": "TALANG TUJUH BUAH TANGGA",
+  "postalCode": "29352"
  },
  {
   "id": 1402031015,
   "districtId": 1402031,
-  "name": "BUKIT INDAH"
+  "districtName": "RAKIT KULIM",
+  "name": "BUKIT INDAH",
+  "postalCode": "29352"
  },
  {
   "id": 1402031016,
   "districtId": 1402031,
-  "name": "KAMPUNG BUNGA"
+  "districtName": "RAKIT KULIM",
+  "name": "KAMPUNG BUNGA",
+  "postalCode": ""
  },
  {
   "id": 1402031017,
   "districtId": 1402031,
-  "name": "TALANG PRING JAYA"
+  "districtName": "RAKIT KULIM",
+  "name": "TALANG PRING JAYA",
+  "postalCode": "29352"
  },
  {
   "id": 1402031018,
   "districtId": 1402031,
-  "name": "TALANG SUNGAI EKOK"
+  "districtName": "RAKIT KULIM",
+  "name": "TALANG SUNGAI EKOK",
+  "postalCode": ""
  },
  {
   "id": 1402031019,
   "districtId": 1402031,
-  "name": "TALANG SUKA MAJU"
+  "districtName": "RAKIT KULIM",
+  "name": "TALANG SUKA MAJU",
+  "postalCode": ""
  }
 ]

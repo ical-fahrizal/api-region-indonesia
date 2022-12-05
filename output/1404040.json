@@ -2,51 +2,71 @@
  {
   "id": 1404040012,
   "districtId": 1404040,
-  "name": "SERAPUNG"
+  "districtName": "KUALA KAMPAR",
+  "name": "SERAPUNG",
+  "postalCode": "28384"
  },
  {
   "id": 1404040013,
   "districtId": 1404040,
-  "name": "TELUK"
+  "districtName": "KUALA KAMPAR",
+  "name": "TELUK",
+  "postalCode": "20855"
  },
  {
   "id": 1404040014,
   "districtId": 1404040,
-  "name": "TELUK DALAM"
+  "districtName": "KUALA KAMPAR",
+  "name": "TELUK DALAM",
+  "postalCode": "21271"
  },
  {
   "id": 1404040015,
   "districtId": 1404040,
-  "name": "SOKOI"
+  "districtName": "KUALA KAMPAR",
+  "name": "SOKOI",
+  "postalCode": "28384"
  },
  {
   "id": 1404040016,
   "districtId": 1404040,
-  "name": "TANJUNG SUM"
+  "districtName": "KUALA KAMPAR",
+  "name": "TANJUNG SUM",
+  "postalCode": "28384"
  },
  {
   "id": 1404040017,
   "districtId": 1404040,
-  "name": "SUNGAI SOLOK"
+  "districtName": "KUALA KAMPAR",
+  "name": "SUNGAI SOLOK",
+  "postalCode": "28384"
  },
  {
   "id": 1404040018,
   "districtId": 1404040,
-  "name": "SUNGAI UPIH"
+  "districtName": "KUALA KAMPAR",
+  "name": "SUNGAI UPIH",
+  "postalCode": "28384"
  },
  {
   "id": 1404040019,
   "districtId": 1404040,
-  "name": "TELUK BERINGIN"
+  "districtName": "KUALA KAMPAR",
+  "name": "TELUK BERINGIN",
+  "postalCode": "29565"
  },
  {
   "id": 1404040020,
   "districtId": 1404040,
-  "name": "SUNGAI EMAS"
+  "districtName": "KUALA KAMPAR",
+  "name": "SUNGAI EMAS",
+  "postalCode": ""
  },
  {
   "id": 1404040021,
   "districtId": 1404040,
-  "name": "TELUK BAKAU"
+  "districtName": "KUALA KAMPAR",
+  "name": "TELUK BAKAU",
+  "postalCode": "28384"
  }
 ]

@@ -2,66 +2,92 @@
  {
   "id": 7317020006,
   "districtId": 7317020,
-  "name": "TAWONDU"
+  "districtName": "SULI",
+  "name": "TAWONDU",
+  "postalCode": ""
  },
  {
   "id": 7317020007,
   "districtId": 7317020,
-  "name": "MURANTE"
+  "districtName": "SULI",
+  "name": "MURANTE",
+  "postalCode": "91924"
  },
  {
   "id": 7317020008,
   "districtId": 7317020,
-  "name": "SULI"
+  "districtName": "SULI",
+  "name": "SULI",
+  "postalCode": "94473"
  },
  {
   "id": 7317020009,
   "districtId": 7317020,
-  "name": "BUNTU KUNYI"
+  "districtName": "SULI",
+  "name": "BUNTU KUNYI",
+  "postalCode": "91996"
  },
  {
   "id": 7317020010,
   "districtId": 7317020,
-  "name": "LEMPOPACCI"
+  "districtName": "SULI",
+  "name": "LEMPOPACCI",
+  "postalCode": ""
  },
  {
   "id": 7317020011,
   "districtId": 7317020,
-  "name": "BOTTA"
+  "districtName": "SULI",
+  "name": "BOTTA",
+  "postalCode": "91996"
  },
  {
   "id": 7317020012,
   "districtId": 7317020,
-  "name": "PADANG LAMBE"
+  "districtName": "SULI",
+  "name": "PADANG LAMBE",
+  "postalCode": "91996"
  },
  {
   "id": 7317020013,
   "districtId": 7317020,
-  "name": "CAKKEAWO"
+  "districtName": "SULI",
+  "name": "CAKKEAWO",
+  "postalCode": "91996"
  },
  {
   "id": 7317020014,
   "districtId": 7317020,
-  "name": "MALELA"
+  "districtName": "SULI",
+  "name": "MALELA",
+  "postalCode": "91996"
  },
  {
   "id": 7317020015,
   "districtId": 7317020,
-  "name": "CIMPU"
+  "districtName": "SULI",
+  "name": "CIMPU",
+  "postalCode": "91996"
  },
  {
   "id": 7317020016,
   "districtId": 7317020,
-  "name": "KASIWIANG"
+  "districtName": "SULI",
+  "name": "KASIWIANG",
+  "postalCode": "91996"
  },
  {
   "id": 7317020017,
   "districtId": 7317020,
-  "name": "PAPAKAJU"
+  "districtName": "SULI",
+  "name": "PAPAKAJU",
+  "postalCode": "91996"
  },
  {
   "id": 7317020018,
   "districtId": 7317020,
-  "name": "CIMPU UTARA"
+  "districtName": "SULI",
+  "name": "CIMPU UTARA",
+  "postalCode": "91996"
  }
 ]

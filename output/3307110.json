@@ -2,91 +2,127 @@
  {
   "id": 3307110001,
   "districtId": 3307110,
-  "name": "GUNTUR MADU"
+  "districtName": "MOJOTENGAH",
+  "name": "GUNTUR MADU",
+  "postalCode": "56351"
  },
  {
   "id": 3307110002,
   "districtId": 3307110,
-  "name": "PUNGANGAN"
+  "districtName": "MOJOTENGAH",
+  "name": "PUNGANGAN",
+  "postalCode": "51191"
  },
  {
   "id": 3307110003,
   "districtId": 3307110,
-  "name": "LARANGAN KULON"
+  "districtName": "MOJOTENGAH",
+  "name": "LARANGAN KULON",
+  "postalCode": "56351"
  },
  {
   "id": 3307110004,
   "districtId": 3307110,
-  "name": "MUDAL"
+  "districtName": "MOJOTENGAH",
+  "name": "MUDAL",
+  "postalCode": "57316"
  },
  {
   "id": 3307110005,
   "districtId": 3307110,
-  "name": "CANDIREJO"
+  "districtName": "MOJOTENGAH",
+  "name": "CANDIREJO",
+  "postalCode": "51274"
  },
  {
   "id": 3307110006,
   "districtId": 3307110,
-  "name": "SOJOPURO"
+  "districtName": "MOJOTENGAH",
+  "name": "SOJOPURO",
+  "postalCode": "56351"
  },
  {
   "id": 3307110008,
   "districtId": 3307110,
-  "name": "ANDONGSILI"
+  "districtName": "MOJOTENGAH",
+  "name": "ANDONGSILI",
+  "postalCode": "56351"
  },
  {
   "id": 3307110009,
   "districtId": 3307110,
-  "name": "KRASAK"
+  "districtName": "MOJOTENGAH",
+  "name": "KRASAK",
+  "postalCode": "45273"
  },
  {
   "id": 3307110010,
   "districtId": 3307110,
-  "name": "KALIBEBER"
+  "districtName": "MOJOTENGAH",
+  "name": "KALIBEBER",
+  "postalCode": "56351"
  },
  {
   "id": 3307110011,
   "districtId": 3307110,
-  "name": "SUKOREJO"
+  "districtName": "MOJOTENGAH",
+  "name": "SUKOREJO",
+  "postalCode": "31551"
  },
  {
   "id": 3307110012,
   "districtId": 3307110,
-  "name": "MOJOSARI"
+  "districtName": "MOJOTENGAH",
+  "name": "MOJOSARI",
+  "postalCode": "56265"
  },
  {
   "id": 3307110013,
   "districtId": 3307110,
-  "name": "BUMIREJO"
+  "districtName": "MOJOTENGAH",
+  "name": "BUMIREJO",
+  "postalCode": "59185"
  },
  {
   "id": 3307110014,
   "districtId": 3307110,
-  "name": "BLEDERAN"
+  "districtName": "MOJOTENGAH",
+  "name": "BLEDERAN",
+  "postalCode": "56351"
  },
  {
   "id": 3307110015,
   "districtId": 3307110,
-  "name": "KEBRENGAN"
+  "districtName": "MOJOTENGAH",
+  "name": "KEBRENGAN",
+  "postalCode": "56351"
  },
  {
   "id": 3307110016,
   "districtId": 3307110,
-  "name": "WONOKROMO"
+  "districtName": "MOJOTENGAH",
+  "name": "WONOKROMO",
+  "postalCode": "54352"
  },
  {
   "id": 3307110017,
   "districtId": 3307110,
-  "name": "DERONGISOR"
+  "districtName": "MOJOTENGAH",
+  "name": "DERONGISOR",
+  "postalCode": "56351"
  },
  {
   "id": 3307110018,
   "districtId": 3307110,
-  "name": "SLUKATAN"
+  "districtName": "MOJOTENGAH",
+  "name": "SLUKATAN",
+  "postalCode": "56351"
  },
  {
   "id": 3307110019,
   "districtId": 3307110,
-  "name": "DERODUWUR"
+  "districtName": "MOJOTENGAH",
+  "name": "DERODUWUR",
+  "postalCode": "56351"
  }
 ]

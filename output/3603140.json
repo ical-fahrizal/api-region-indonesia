@@ -2,36 +2,50 @@
  {
   "id": 3603140001,
   "districtId": 3603140,
-  "name": "KOPER"
+  "districtName": "KRESEK",
+  "name": "KOPER",
+  "postalCode": "42186"
  },
  {
   "id": 3603140002,
   "districtId": 3603140,
-  "name": "PASIR AMPO"
+  "districtName": "KRESEK",
+  "name": "PASIR AMPO",
+  "postalCode": "15620"
  },
  {
   "id": 3603140003,
   "districtId": 3603140,
-  "name": "PATRA SANA"
+  "districtName": "KRESEK",
+  "name": "PATRA SANA",
+  "postalCode": "15620"
  },
  {
   "id": 3603140005,
   "districtId": 3603140,
-  "name": "TALOK"
+  "districtName": "KRESEK",
+  "name": "TALOK",
+  "postalCode": "52471"
  },
  {
   "id": 3603140006,
   "districtId": 3603140,
-  "name": "JENGKOL"
+  "districtName": "KRESEK",
+  "name": "JENGKOL",
+  "postalCode": "56353"
  },
  {
   "id": 3603140007,
   "districtId": 3603140,
-  "name": "KEMUNING"
+  "districtName": "KRESEK",
+  "name": "KEMUNING",
+  "postalCode": "36514"
  },
  {
   "id": 3603140008,
   "districtId": 3603140,
-  "name": "RANCA ILAT"
+  "districtName": "KRESEK",
+  "name": "RANCA ILAT",
+  "postalCode": "15620"
  }
 ]

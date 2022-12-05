@@ -2,81 +2,113 @@
  {
   "id": 1607061001,
   "districtId": 1607061,
-  "name": "SIDOMULYO"
+  "districtName": "AIR KUMBANG",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  },
  {
   "id": 1607061002,
   "districtId": 1607061,
-  "name": "CINTA MANIS BARU"
+  "districtName": "AIR KUMBANG",
+  "name": "CINTA MANIS BARU",
+  "postalCode": "30962"
  },
  {
   "id": 1607061003,
   "districtId": 1607061,
-  "name": "NUSA MAKMUR"
+  "districtName": "AIR KUMBANG",
+  "name": "NUSA MAKMUR",
+  "postalCode": "30962"
  },
  {
   "id": 1607061004,
   "districtId": 1607061,
-  "name": "SEBOKOR"
+  "districtName": "AIR KUMBANG",
+  "name": "SEBOKOR",
+  "postalCode": "30962"
  },
  {
   "id": 1607061005,
   "districtId": 1607061,
-  "name": "RIMBA JAYA"
+  "districtName": "AIR KUMBANG",
+  "name": "RIMBA JAYA",
+  "postalCode": "28556"
  },
  {
   "id": 1607061006,
   "districtId": 1607061,
-  "name": "PANCA DESA"
+  "districtName": "AIR KUMBANG",
+  "name": "PANCA DESA",
+  "postalCode": "30962"
  },
  {
   "id": 1607061007,
   "districtId": 1607061,
-  "name": "TELUK TENGGIRIK"
+  "districtName": "AIR KUMBANG",
+  "name": "TELUK TENGGIRIK",
+  "postalCode": "30962"
  },
  {
   "id": 1607061008,
   "districtId": 1607061,
-  "name": "PADANG REJO"
+  "districtName": "AIR KUMBANG",
+  "name": "PADANG REJO",
+  "postalCode": "30962"
  },
  {
   "id": 1607061009,
   "districtId": 1607061,
-  "name": "BUDI MULYO"
+  "districtName": "AIR KUMBANG",
+  "name": "BUDI MULYO",
+  "postalCode": "30962"
  },
  {
   "id": 1607061010,
   "districtId": 1607061,
-  "name": "SIDO MAKMUR"
+  "districtName": "AIR KUMBANG",
+  "name": "SIDO MAKMUR",
+  "postalCode": "20772"
  },
  {
   "id": 1607061011,
   "districtId": 1607061,
-  "name": "KUMBANG PADANG PERMATA"
+  "districtName": "AIR KUMBANG",
+  "name": "KUMBANG PADANG PERMATA",
+  "postalCode": "30962"
  },
  {
   "id": 1607061012,
   "districtId": 1607061,
-  "name": "TIRTA MAKMUR"
+  "districtName": "AIR KUMBANG",
+  "name": "TIRTA MAKMUR",
+  "postalCode": "30962"
  },
  {
   "id": 1607061013,
   "districtId": 1607061,
-  "name": "PANCA MULYA"
+  "districtName": "AIR KUMBANG",
+  "name": "PANCA MULYA",
+  "postalCode": "36365"
  },
  {
   "id": 1607061014,
   "districtId": 1607061,
-  "name": "MUARA BARU"
+  "districtName": "AIR KUMBANG",
+  "name": "MUARA BARU",
+  "postalCode": "24661"
  },
  {
   "id": 1607061015,
   "districtId": 1607061,
-  "name": "AIR KUMDANG BHAKTI"
+  "districtName": "AIR KUMBANG",
+  "name": "AIR KUMDANG BHAKTI",
+  "postalCode": ""
  },
  {
   "id": 1607061016,
   "districtId": 1607061,
-  "name": "SEBUBUS"
+  "districtName": "AIR KUMBANG",
+  "name": "SEBUBUS",
+  "postalCode": "30962"
  }
 ]

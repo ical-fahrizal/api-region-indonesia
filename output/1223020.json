@@ -2,91 +2,127 @@
  {
   "id": 1223020001,
   "districtId": 1223020,
-  "name": "PERKEBUNAN PERNANTIAN"
+  "districtName": "MARBAU",
+  "name": "PERKEBUNAN PERNANTIAN",
+  "postalCode": "21452"
  },
  {
   "id": 1223020002,
   "districtId": 1223020,
-  "name": "PERKEBUNAN MARBAU SELATAN"
+  "districtName": "MARBAU",
+  "name": "PERKEBUNAN MARBAU SELATAN",
+  "postalCode": "21452"
  },
  {
   "id": 1223020003,
   "districtId": 1223020,
-  "name": "PERKEBUNAN MILANO"
+  "districtName": "MARBAU",
+  "name": "PERKEBUNAN MILANO",
+  "postalCode": "21452"
  },
  {
   "id": 1223020004,
   "districtId": 1223020,
-  "name": "PULO BARGOT"
+  "districtName": "MARBAU",
+  "name": "PULO BARGOT",
+  "postalCode": "21452"
  },
  {
   "id": 1223020005,
   "districtId": 1223020,
-  "name": "SUMBER MULYO"
+  "districtName": "MARBAU",
+  "name": "SUMBER MULYO",
+  "postalCode": "21452"
  },
  {
   "id": 1223020006,
   "districtId": 1223020,
-  "name": "SIPARE PARE HILIR"
+  "districtName": "MARBAU",
+  "name": "SIPARE PARE HILIR",
+  "postalCode": "21452"
  },
  {
   "id": 1223020007,
   "districtId": 1223020,
-  "name": "SIPARE PARE TENGAH"
+  "districtName": "MARBAU",
+  "name": "SIPARE PARE TENGAH",
+  "postalCode": "21452"
  },
  {
   "id": 1223020008,
   "districtId": 1223020,
-  "name": "TUBIRAN"
+  "districtName": "MARBAU",
+  "name": "TUBIRAN",
+  "postalCode": "21452"
  },
  {
   "id": 1223020009,
   "districtId": 1223020,
-  "name": "BELONGKUT"
+  "districtName": "MARBAU",
+  "name": "BELONGKUT",
+  "postalCode": "21452"
  },
  {
   "id": 1223020010,
   "districtId": 1223020,
-  "name": "SIMPANG EMPAT"
+  "districtName": "MARBAU",
+  "name": "SIMPANG EMPAT",
+  "postalCode": "24313"
  },
  {
   "id": 1223020011,
   "districtId": 1223020,
-  "name": "MARBAU"
+  "districtName": "MARBAU",
+  "name": "MARBAU",
+  "postalCode": "21452"
  },
  {
   "id": 1223020012,
   "districtId": 1223020,
-  "name": "BABUSSALAM"
+  "districtName": "MARBAU",
+  "name": "BABUSSALAM",
+  "postalCode": "24392"
  },
  {
   "id": 1223020013,
   "districtId": 1223020,
-  "name": "MARBAU SELATAN"
+  "districtName": "MARBAU",
+  "name": "MARBAU SELATAN",
+  "postalCode": "21452"
  },
  {
   "id": 1223020014,
   "districtId": 1223020,
-  "name": "AEK TAPA"
+  "districtName": "MARBAU",
+  "name": "AEK TAPA",
+  "postalCode": "21452"
  },
  {
   "id": 1223020015,
   "districtId": 1223020,
-  "name": "LOBU RAMPAH"
+  "districtName": "MARBAU",
+  "name": "LOBU RAMPAH",
+  "postalCode": "21452"
  },
  {
   "id": 1223020016,
   "districtId": 1223020,
-  "name": "PERKEBUNAN BRUSSEL"
+  "districtName": "MARBAU",
+  "name": "PERKEBUNAN BRUSSEL",
+  "postalCode": "21452"
  },
  {
   "id": 1223020017,
   "districtId": 1223020,
-  "name": "BULUNGIHIT"
+  "districtName": "MARBAU",
+  "name": "BULUNGIHIT",
+  "postalCode": ""
  },
  {
   "id": 1223020018,
   "districtId": 1223020,
-  "name": "AEK HITETORAS"
+  "districtName": "MARBAU",
+  "name": "AEK HITETORAS",
+  "postalCode": "21452"
  }
 ]

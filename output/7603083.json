@@ -2,56 +2,78 @@
  {
   "id": 7603083001,
   "districtId": 7603083,
-  "name": "BOTTENG"
+  "districtName": "MEHALAAN",
+  "name": "BOTTENG",
+  "postalCode": "91371"
  },
  {
   "id": 7603083002,
   "districtId": 7603083,
-  "name": "PASSEMBUK"
+  "districtName": "MEHALAAN",
+  "name": "PASSEMBUK",
+  "postalCode": ""
  },
  {
   "id": 7603083003,
   "districtId": 7603083,
-  "name": "SALUKONTA"
+  "districtName": "MEHALAAN",
+  "name": "SALUKONTA",
+  "postalCode": "91371"
  },
  {
   "id": 7603083004,
   "districtId": 7603083,
-  "name": "LEKO SUKAMAJU"
+  "districtName": "MEHALAAN",
+  "name": "LEKO SUKAMAJU",
+  "postalCode": ""
  },
  {
   "id": 7603083005,
   "districtId": 7603083,
-  "name": "MESAKADA"
+  "districtName": "MEHALAAN",
+  "name": "MESAKADA",
+  "postalCode": "91371"
  },
  {
   "id": 7603083006,
   "districtId": 7603083,
-  "name": "MEHALAAN"
+  "districtName": "MEHALAAN",
+  "name": "MEHALAAN",
+  "postalCode": "91371"
  },
  {
   "id": 7603083007,
   "districtId": 7603083,
-  "name": "MEHALAAN BARAT"
+  "districtName": "MEHALAAN",
+  "name": "MEHALAAN BARAT",
+  "postalCode": ""
  },
  {
   "id": 7603083008,
   "districtId": 7603083,
-  "name": "SALUAHOK"
+  "districtName": "MEHALAAN",
+  "name": "SALUAHOK",
+  "postalCode": ""
  },
  {
   "id": 7603083009,
   "districtId": 7603083,
-  "name": "KONDO"
+  "districtName": "MEHALAAN",
+  "name": "KONDO",
+  "postalCode": "93673"
  },
  {
   "id": 7603083010,
   "districtId": 7603083,
-  "name": "ULUMEA"
+  "districtName": "MEHALAAN",
+  "name": "ULUMEA",
+  "postalCode": ""
  },
  {
   "id": 7603083011,
   "districtId": 7603083,
-  "name": "SALUBALO"
+  "districtName": "MEHALAAN",
+  "name": "SALUBALO",
+  "postalCode": "91361"
  }
 ]

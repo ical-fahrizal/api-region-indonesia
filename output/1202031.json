@@ -2,66 +2,92 @@
  {
   "id": 1202031001,
   "districtId": 1202031,
-  "name": "SIMPANG BANYAK JULU"
+  "districtName": "ULU PUNGKUT",
+  "name": "SIMPANG BANYAK JULU",
+  "postalCode": "22998"
  },
  {
   "id": 1202031002,
   "districtId": 1202031,
-  "name": "SIMPANG BANYAK JAE"
+  "districtName": "ULU PUNGKUT",
+  "name": "SIMPANG BANYAK JAE",
+  "postalCode": "22998"
  },
  {
   "id": 1202031003,
   "districtId": 1202031,
-  "name": "HABINCARAN"
+  "districtName": "ULU PUNGKUT",
+  "name": "HABINCARAN",
+  "postalCode": "22998"
  },
  {
   "id": 1202031004,
   "districtId": 1202031,
-  "name": "HUTA PADANG UP"
+  "districtName": "ULU PUNGKUT",
+  "name": "HUTA PADANG UP",
+  "postalCode": "22998"
  },
  {
   "id": 1202031005,
   "districtId": 1202031,
-  "name": "HUTA GODANG"
+  "districtName": "ULU PUNGKUT",
+  "name": "HUTA GODANG",
+  "postalCode": "22738"
  },
  {
   "id": 1202031006,
   "districtId": 1202031,
-  "name": "ALAHAN KAE"
+  "districtName": "ULU PUNGKUT",
+  "name": "ALAHAN KAE",
+  "postalCode": "22998"
  },
  {
   "id": 1202031007,
   "districtId": 1202031,
-  "name": "PATAHAJANG"
+  "districtName": "ULU PUNGKUT",
+  "name": "PATAHAJANG",
+  "postalCode": "22998"
  },
  {
   "id": 1202031008,
   "districtId": 1202031,
-  "name": "TOLANG"
+  "districtName": "ULU PUNGKUT",
+  "name": "TOLANG",
+  "postalCode": "22758"
  },
  {
   "id": 1202031009,
   "districtId": 1202031,
-  "name": "HUTARIMBARU UP"
+  "districtName": "ULU PUNGKUT",
+  "name": "HUTARIMBARU UP",
+  "postalCode": ""
  },
  {
   "id": 1202031010,
   "districtId": 1202031,
-  "name": "SIMPANG DUHU LOMBANG"
+  "districtName": "ULU PUNGKUT",
+  "name": "SIMPANG DUHU LOMBANG",
+  "postalCode": "22998"
  },
  {
   "id": 1202031011,
   "districtId": 1202031,
-  "name": "SIMPANG DUHU DOLOK"
+  "districtName": "ULU PUNGKUT",
+  "name": "SIMPANG DUHU DOLOK",
+  "postalCode": ""
  },
  {
   "id": 1202031012,
   "districtId": 1202031,
-  "name": "SIMPANG PINING"
+  "districtName": "ULU PUNGKUT",
+  "name": "SIMPANG PINING",
+  "postalCode": "22998"
  },
  {
   "id": 1202031013,
   "districtId": 1202031,
-  "name": "MUARA SALADI"
+  "districtName": "ULU PUNGKUT",
+  "name": "MUARA SALADI",
+  "postalCode": "22994"
  }
 ]

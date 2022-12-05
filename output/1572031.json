@@ -2,41 +2,57 @@
  {
   "id": 1572031001,
   "districtId": 1572031,
-  "name": "SUNGAI JERNIH"
+  "districtName": "PONDOK TINGGI",
+  "name": "SUNGAI JERNIH",
+  "postalCode": "37163"
  },
  {
   "id": 1572031002,
   "districtId": 1572031,
-  "name": "KOTO LEBU"
+  "districtName": "PONDOK TINGGI",
+  "name": "KOTO LEBU",
+  "postalCode": ""
  },
  {
   "id": 1572031003,
   "districtId": 1572031,
-  "name": "KARYA BAKTI"
+  "districtName": "PONDOK TINGGI",
+  "name": "KARYA BAKTI",
+  "postalCode": "23893"
  },
  {
   "id": 1572031004,
   "districtId": 1572031,
-  "name": "LAWANG AGUNG"
+  "districtName": "PONDOK TINGGI",
+  "name": "LAWANG AGUNG",
+  "postalCode": "37111"
  },
  {
   "id": 1572031005,
   "districtId": 1572031,
-  "name": "KELURAHAN PONDOK TINGGI"
+  "districtName": "PONDOK TINGGI",
+  "name": "KELURAHAN PONDOK TINGGI",
+  "postalCode": ""
  },
  {
   "id": 1572031006,
   "districtId": 1572031,
-  "name": "PERMANTI"
+  "districtName": "PONDOK TINGGI",
+  "name": "PERMANTI",
+  "postalCode": "37111"
  },
  {
   "id": 1572031007,
   "districtId": 1572031,
-  "name": "PONDOK AGUNG"
+  "districtName": "PONDOK TINGGI",
+  "name": "PONDOK AGUNG",
+  "postalCode": "37111"
  },
  {
   "id": 1572031008,
   "districtId": 1572031,
-  "name": "AUR DURI"
+  "districtName": "PONDOK TINGGI",
+  "name": "AUR DURI",
+  "postalCode": "29564"
  }
 ]

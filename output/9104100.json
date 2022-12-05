@@ -2,46 +2,64 @@
  {
   "id": 9104100001,
   "districtId": 9104100,
-  "name": "MOYEBA"
+  "districtName": "MOSKONA UTARA",
+  "name": "MOYEBA",
+  "postalCode": "98373"
  },
  {
   "id": 9104100002,
   "districtId": 9104100,
-  "name": "MERESTIM"
+  "districtName": "MOSKONA UTARA",
+  "name": "MERESTIM",
+  "postalCode": ""
  },
  {
   "id": 9104100003,
   "districtId": 9104100,
-  "name": "MOSUM"
+  "districtName": "MOSKONA UTARA",
+  "name": "MOSUM",
+  "postalCode": "98373"
  },
  {
   "id": 9104100004,
   "districtId": 9104100,
-  "name": "INOFINA"
+  "districtName": "MOSKONA UTARA",
+  "name": "INOFINA",
+  "postalCode": "98373"
  },
  {
   "id": 9104100005,
   "districtId": 9104100,
-  "name": "MOYEBA UTARA"
+  "districtName": "MOSKONA UTARA",
+  "name": "MOYEBA UTARA",
+  "postalCode": ""
  },
  {
   "id": 9104100006,
   "districtId": 9104100,
-  "name": "MOYEBA TIMUR"
+  "districtName": "MOSKONA UTARA",
+  "name": "MOYEBA TIMUR",
+  "postalCode": ""
  },
  {
   "id": 9104100007,
   "districtId": 9104100,
-  "name": "MOYEBA BARAT"
+  "districtName": "MOSKONA UTARA",
+  "name": "MOYEBA BARAT",
+  "postalCode": ""
  },
  {
   "id": 9104100009,
   "districtId": 9104100,
-  "name": "MESYEM TIMUR"
+  "districtName": "MOSKONA UTARA",
+  "name": "MESYEM TIMUR",
+  "postalCode": ""
  },
  {
   "id": 9104100010,
   "districtId": 9104100,
-  "name": "MOSROR"
+  "districtName": "MOSKONA UTARA",
+  "name": "MOSROR",
+  "postalCode": ""
  }
 ]

@@ -2,51 +2,71 @@
  {
   "id": 5313122001,
   "districtId": 5313122,
-  "name": "URANG"
+  "districtName": "LELAK",
+  "name": "URANG",
+  "postalCode": "86516"
  },
  {
   "id": 5313122002,
   "districtId": 5313122,
-  "name": "KETANG"
+  "districtName": "LELAK",
+  "name": "KETANG",
+  "postalCode": "86516"
  },
  {
   "id": 5313122003,
   "districtId": 5313122,
-  "name": "BANGKA LELAK"
+  "districtName": "LELAK",
+  "name": "BANGKA LELAK",
+  "postalCode": "86516"
  },
  {
   "id": 5313122004,
   "districtId": 5313122,
-  "name": "GELONG"
+  "districtName": "LELAK",
+  "name": "GELONG",
+  "postalCode": "86261"
  },
  {
   "id": 5313122005,
   "districtId": 5313122,
-  "name": "PONG UMPU"
+  "districtName": "LELAK",
+  "name": "PONG UMPU",
+  "postalCode": ""
  },
  {
   "id": 5313122006,
   "districtId": 5313122,
-  "name": "NDIWAR"
+  "districtName": "LELAK",
+  "name": "NDIWAR",
+  "postalCode": "86516"
  },
  {
   "id": 5313122007,
   "districtId": 5313122,
-  "name": "NATI"
+  "districtName": "LELAK",
+  "name": "NATI",
+  "postalCode": "86516"
  },
  {
   "id": 5313122008,
   "districtId": 5313122,
-  "name": "BANGKA DESE"
+  "districtName": "LELAK",
+  "name": "BANGKA DESE",
+  "postalCode": "86516"
  },
  {
   "id": 5313122009,
   "districtId": 5313122,
-  "name": "LENTANG"
+  "districtName": "LELAK",
+  "name": "LENTANG",
+  "postalCode": "86516"
  },
  {
   "id": 5313122010,
   "districtId": 5313122,
-  "name": "BANGKA TONGGUR"
+  "districtName": "LELAK",
+  "name": "BANGKA TONGGUR",
+  "postalCode": "86516"
  }
 ]

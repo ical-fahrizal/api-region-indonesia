@@ -2,76 +2,106 @@
  {
   "id": 3328030002,
   "districtId": 3328030,
-  "name": "DUKUHTENGAH"
+  "districtName": "BOJONG",
+  "name": "DUKUHTENGAH",
+  "postalCode": "45283"
  },
  {
   "id": 3328030003,
   "districtId": 3328030,
-  "name": "KEDAWUNG"
+  "districtName": "BOJONG",
+  "name": "KEDAWUNG",
+  "postalCode": "45153"
  },
  {
   "id": 3328030004,
   "districtId": 3328030,
-  "name": "SUNIARSIH"
+  "districtName": "BOJONG",
+  "name": "SUNIARSIH",
+  "postalCode": "52465"
  },
  {
   "id": 3328030005,
   "districtId": 3328030,
-  "name": "KARANGMULYO"
+  "districtName": "BOJONG",
+  "name": "KARANGMULYO",
+  "postalCode": "52465"
  },
  {
   "id": 3328030007,
   "districtId": 3328030,
-  "name": "BOJONG"
+  "districtName": "BOJONG",
+  "name": "BOJONG",
+  "postalCode": "34385"
  },
  {
   "id": 3328030008,
   "districtId": 3328030,
-  "name": "BUNIWAH"
+  "districtName": "BOJONG",
+  "name": "BUNIWAH",
+  "postalCode": "52465"
  },
  {
   "id": 3328030009,
   "districtId": 3328030,
-  "name": "LENGKONG"
+  "districtName": "BOJONG",
+  "name": "LENGKONG",
+  "postalCode": "24415"
  },
  {
   "id": 3328030010,
   "districtId": 3328030,
-  "name": "BATUNYANA"
+  "districtName": "BOJONG",
+  "name": "BATUNYANA",
+  "postalCode": "52465"
  },
  {
   "id": 3328030011,
   "districtId": 3328030,
-  "name": "SANGKANAYU"
+  "districtName": "BOJONG",
+  "name": "SANGKANAYU",
+  "postalCode": "52465"
  },
  {
   "id": 3328030012,
   "districtId": 3328030,
-  "name": "GUNUNGJATI"
+  "districtName": "BOJONG",
+  "name": "GUNUNGJATI",
+  "postalCode": "52465"
  },
  {
   "id": 3328030013,
   "districtId": 3328030,
-  "name": "PUCANGLUWUK"
+  "districtName": "BOJONG",
+  "name": "PUCANGLUWUK",
+  "postalCode": ""
  },
  {
   "id": 3328030014,
   "districtId": 3328030,
-  "name": "KAJENENGAN"
+  "districtName": "BOJONG",
+  "name": "KAJENENGAN",
+  "postalCode": "52465"
  },
  {
   "id": 3328030015,
   "districtId": 3328030,
-  "name": "KALIJAMBU"
+  "districtName": "BOJONG",
+  "name": "KALIJAMBU",
+  "postalCode": "52465"
  },
  {
   "id": 3328030016,
   "districtId": 3328030,
-  "name": "DANASARI"
+  "districtName": "BOJONG",
+  "name": "DANASARI",
+  "postalCode": "46386"
  },
  {
   "id": 3328030017,
   "districtId": 3328030,
-  "name": "CIKURA"
+  "districtName": "BOJONG",
+  "name": "CIKURA",
+  "postalCode": "52465"
  }
 ]

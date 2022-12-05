@@ -2,31 +2,43 @@
  {
   "id": 2104022001,
   "districtId": 2104022,
-  "name": "BERINDAT"
+  "districtName": "SINGKEP PESISIR",
+  "name": "BERINDAT",
+  "postalCode": "29871"
  },
  {
   "id": 2104022002,
   "districtId": 2104022,
-  "name": "PERSING"
+  "districtName": "SINGKEP PESISIR",
+  "name": "PERSING",
+  "postalCode": "29871"
  },
  {
   "id": 2104022003,
   "districtId": 2104022,
-  "name": "SEDAMAI"
+  "districtName": "SINGKEP PESISIR",
+  "name": "SEDAMAI",
+  "postalCode": "29871"
  },
  {
   "id": 2104022004,
   "districtId": 2104022,
-  "name": "LANJUT"
+  "districtName": "SINGKEP PESISIR",
+  "name": "LANJUT",
+  "postalCode": "29871"
  },
  {
   "id": 2104022005,
   "districtId": 2104022,
-  "name": "KOTE"
+  "districtName": "SINGKEP PESISIR",
+  "name": "KOTE",
+  "postalCode": ""
  },
  {
   "id": 2104022006,
   "districtId": 2104022,
-  "name": "PELAKAK"
+  "districtName": "SINGKEP PESISIR",
+  "name": "PELAKAK",
+  "postalCode": "29871"
  }
 ]

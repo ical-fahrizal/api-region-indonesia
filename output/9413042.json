@@ -2,21 +2,29 @@
  {
   "id": 9413042001,
   "districtId": 9413042,
-  "name": "FIRIWAGE"
+  "districtName": "FIRIWAGE",
+  "name": "FIRIWAGE",
+  "postalCode": "99665"
  },
  {
   "id": 9413042002,
   "districtId": 9413042,
-  "name": "KARUWAGE"
+  "districtName": "FIRIWAGE",
+  "name": "KARUWAGE",
+  "postalCode": "99665"
  },
  {
   "id": 9413042005,
   "districtId": 9413042,
-  "name": "WALIBURU"
+  "districtName": "FIRIWAGE",
+  "name": "WALIBURU",
+  "postalCode": "99665"
  },
  {
   "id": 9413042006,
   "districtId": 9413042,
-  "name": "KABUWAGE"
+  "districtName": "FIRIWAGE",
+  "name": "KABUWAGE",
+  "postalCode": "99665"
  }
 ]

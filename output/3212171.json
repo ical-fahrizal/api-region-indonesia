@@ -2,41 +2,57 @@
  {
   "id": 3212171001,
   "districtId": 3212171,
-  "name": "SUKASARI"
+  "districtName": "ARAHAN",
+  "name": "SUKASARI",
+  "postalCode": "20986"
  },
  {
   "id": 3212171002,
   "districtId": 3212171,
-  "name": "ARAHAN KIDUL"
+  "districtName": "ARAHAN",
+  "name": "ARAHAN KIDUL",
+  "postalCode": "45365"
  },
  {
   "id": 3212171003,
   "districtId": 3212171,
-  "name": "ARAHAN LOR"
+  "districtName": "ARAHAN",
+  "name": "ARAHAN LOR",
+  "postalCode": "45365"
  },
  {
   "id": 3212171004,
   "districtId": 3212171,
-  "name": "LINGGAJATI"
+  "districtName": "ARAHAN",
+  "name": "LINGGAJATI",
+  "postalCode": "45365"
  },
  {
   "id": 3212171005,
   "districtId": 3212171,
-  "name": "TAWANGSARI"
+  "districtName": "ARAHAN",
+  "name": "TAWANGSARI",
+  "postalCode": "45365"
  },
  {
   "id": 3212171006,
   "districtId": 3212171,
-  "name": "SUKADADI"
+  "districtName": "ARAHAN",
+  "name": "SUKADADI",
+  "postalCode": "35366"
  },
  {
   "id": 3212171007,
   "districtId": 3212171,
-  "name": "PRANGGONG"
+  "districtName": "ARAHAN",
+  "name": "PRANGGONG",
+  "postalCode": "45365"
  },
  {
   "id": 3212171008,
   "districtId": 3212171,
-  "name": "CIDEMPET"
+  "districtName": "ARAHAN",
+  "name": "CIDEMPET",
+  "postalCode": "45365"
  }
 ]

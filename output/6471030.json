@@ -2,31 +2,43 @@
  {
   "id": 6471030001,
   "districtId": 6471030,
-  "name": "MUARA RAPAK"
+  "districtName": "BALIKPAPAN UTARA",
+  "name": "MUARA RAPAK",
+  "postalCode": "76125"
  },
  {
   "id": 6471030002,
   "districtId": 6471030,
-  "name": "GUNUNG SAMARINDA"
+  "districtName": "BALIKPAPAN UTARA",
+  "name": "GUNUNG SAMARINDA",
+  "postalCode": "23767"
  },
  {
   "id": 6471030003,
   "districtId": 6471030,
-  "name": "BATU AMPAR"
+  "districtName": "BALIKPAPAN UTARA",
+  "name": "BATU AMPAR",
+  "postalCode": "29274"
  },
  {
   "id": 6471030004,
   "districtId": 6471030,
-  "name": "KARANG JOANG"
+  "districtName": "BALIKPAPAN UTARA",
+  "name": "KARANG JOANG",
+  "postalCode": "76127"
  },
  {
   "id": 6471030005,
   "districtId": 6471030,
-  "name": "GUNUNG SAMARINDA BARU"
+  "districtName": "BALIKPAPAN UTARA",
+  "name": "GUNUNG SAMARINDA BARU",
+  "postalCode": "76128"
  },
  {
   "id": 6471030006,
   "districtId": 6471030,
-  "name": "GRAHA INDAH"
+  "districtName": "BALIKPAPAN UTARA",
+  "name": "GRAHA INDAH",
+  "postalCode": "76129"
  }
 ]

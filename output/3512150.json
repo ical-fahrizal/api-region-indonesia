@@ -2,41 +2,57 @@
  {
   "id": 3512150001,
   "districtId": 3512150,
-  "name": "SOPET"
+  "districtName": "JANGKAR",
+  "name": "SOPET",
+  "postalCode": "68372"
  },
  {
   "id": 3512150002,
   "districtId": 3512150,
-  "name": "CURAH KALAK"
+  "districtName": "JANGKAR",
+  "name": "CURAH KALAK",
+  "postalCode": "68372"
  },
  {
   "id": 3512150003,
   "districtId": 3512150,
-  "name": "PALANGAN"
+  "districtName": "JANGKAR",
+  "name": "PALANGAN",
+  "postalCode": "68372"
  },
  {
   "id": 3512150004,
   "districtId": 3512150,
-  "name": "JANGKAR"
+  "districtName": "JANGKAR",
+  "name": "JANGKAR",
+  "postalCode": "37372"
  },
  {
   "id": 3512150005,
   "districtId": 3512150,
-  "name": "GADINGAN"
+  "districtName": "JANGKAR",
+  "name": "GADINGAN",
+  "postalCode": "45281"
  },
  {
   "id": 3512150006,
   "districtId": 3512150,
-  "name": "KUMBANGSARI"
+  "districtName": "JANGKAR",
+  "name": "KUMBANGSARI",
+  "postalCode": "68372"
  },
  {
   "id": 3512150007,
   "districtId": 3512150,
-  "name": "PESANGGRAHAN"
+  "districtName": "JANGKAR",
+  "name": "PESANGGRAHAN",
+  "postalCode": "12320"
  },
  {
   "id": 3512150008,
   "districtId": 3512150,
-  "name": "AGEL"
+  "districtName": "JANGKAR",
+  "name": "AGEL",
+  "postalCode": "68372"
  }
 ]

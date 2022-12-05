@@ -2,26 +2,36 @@
  {
   "id": 3404170001,
   "districtId": 3404170,
-  "name": "WUKIR SARI"
+  "districtName": "CANGKRINGAN",
+  "name": "WUKIR SARI",
+  "postalCode": "31662"
  },
  {
   "id": 3404170002,
   "districtId": 3404170,
-  "name": "ARGO MULYO"
+  "districtName": "CANGKRINGAN",
+  "name": "ARGO MULYO",
+  "postalCode": "32385"
  },
  {
   "id": 3404170003,
   "districtId": 3404170,
-  "name": "GLAGAH HARJO"
+  "districtName": "CANGKRINGAN",
+  "name": "GLAGAH HARJO",
+  "postalCode": "55583"
  },
  {
   "id": 3404170004,
   "districtId": 3404170,
-  "name": "KEPUH HARJO"
+  "districtName": "CANGKRINGAN",
+  "name": "KEPUH HARJO",
+  "postalCode": "55583"
  },
  {
   "id": 3404170005,
   "districtId": 3404170,
-  "name": "UMBUL HARJO"
+  "districtName": "CANGKRINGAN",
+  "name": "UMBUL HARJO",
+  "postalCode": "55583"
  }
 ]

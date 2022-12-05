@@ -2,36 +2,50 @@
  {
   "id": 5311041001,
   "districtId": 5311041,
-  "name": "KURULIMBU"
+  "districtName": "NDONA TIMUR",
+  "name": "KURULIMBU",
+  "postalCode": "86361"
  },
  {
   "id": 5311041002,
   "districtId": 5311041,
-  "name": "SOKORIA"
+  "districtName": "NDONA TIMUR",
+  "name": "SOKORIA",
+  "postalCode": "86361"
  },
  {
   "id": 5311041003,
   "districtId": 5311041,
-  "name": "DEMULAKA"
+  "districtName": "NDONA TIMUR",
+  "name": "DEMULAKA",
+  "postalCode": "86361"
  },
  {
   "id": 5311041004,
   "districtId": 5311041,
-  "name": "ROGA"
+  "districtName": "NDONA TIMUR",
+  "name": "ROGA",
+  "postalCode": "86361"
  },
  {
   "id": 5311041005,
   "districtId": 5311041,
-  "name": "KURULIMBU SELATAN"
+  "districtName": "NDONA TIMUR",
+  "name": "KURULIMBU SELATAN",
+  "postalCode": "86361"
  },
  {
   "id": 5311041006,
   "districtId": 5311041,
-  "name": "NGGUWA"
+  "districtName": "NDONA TIMUR",
+  "name": "NGGUWA",
+  "postalCode": "86361"
  },
  {
   "id": 5311041007,
   "districtId": 5311041,
-  "name": "SOKORIA SELATAN"
+  "districtName": "NDONA TIMUR",
+  "name": "SOKORIA SELATAN",
+  "postalCode": ""
  }
 ]

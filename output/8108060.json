@@ -2,56 +2,78 @@
  {
   "id": 8108060001,
   "districtId": 8108060,
-  "name": "LUANG BARAT"
+  "districtName": "MDONA HIERA",
+  "name": "LUANG BARAT",
+  "postalCode": "97652"
  },
  {
   "id": 8108060002,
   "districtId": 8108060,
-  "name": "LUANG TIMUR"
+  "districtName": "MDONA HIERA",
+  "name": "LUANG TIMUR",
+  "postalCode": "97652"
  },
  {
   "id": 8108060003,
   "districtId": 8108060,
-  "name": "ELO"
+  "districtName": "MDONA HIERA",
+  "name": "ELO",
+  "postalCode": "97652"
  },
  {
   "id": 8108060004,
   "districtId": 8108060,
-  "name": "ROMKISAR"
+  "districtName": "MDONA HIERA",
+  "name": "ROMKISAR",
+  "postalCode": "97652"
  },
  {
   "id": 8108060005,
   "districtId": 8108060,
-  "name": "LELANG"
+  "districtName": "MDONA HIERA",
+  "name": "LELANG",
+  "postalCode": "97652"
  },
  {
   "id": 8108060006,
   "districtId": 8108060,
-  "name": "ROMDARA"
+  "districtName": "MDONA HIERA",
+  "name": "ROMDARA",
+  "postalCode": "97652"
  },
  {
   "id": 8108060007,
   "districtId": 8108060,
-  "name": "MAHALETA"
+  "districtName": "MDONA HIERA",
+  "name": "MAHALETA",
+  "postalCode": "97652"
  },
  {
   "id": 8108060008,
   "districtId": 8108060,
-  "name": "ROTNAMA"
+  "districtName": "MDONA HIERA",
+  "name": "ROTNAMA",
+  "postalCode": "97652"
  },
  {
   "id": 8108060009,
   "districtId": 8108060,
-  "name": "BATU GAJAH"
+  "districtName": "MDONA HIERA",
+  "name": "BATU GAJAH",
+  "postalCode": "22983"
  },
  {
   "id": 8108060010,
   "districtId": 8108060,
-  "name": "PUPIOLIORA"
+  "districtName": "MDONA HIERA",
+  "name": "PUPIOLIORA",
+  "postalCode": "97652"
  },
  {
   "id": 8108060011,
   "districtId": 8108060,
-  "name": "REGOHA"
+  "districtName": "MDONA HIERA",
+  "name": "REGOHA",
+  "postalCode": "97652"
  }
 ]

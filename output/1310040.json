@@ -2,56 +2,78 @@
  {
   "id": 1310040001,
   "districtId": 1310040,
-  "name": "KOTO BARU"
+  "districtName": "SUNGAI PAGU",
+  "name": "KOTO BARU",
+  "postalCode": "27561"
  },
  {
   "id": 1310040002,
   "districtId": 1310040,
-  "name": "PASAR MUARA LABUH"
+  "districtName": "SUNGAI PAGU",
+  "name": "PASAR MUARA LABUH",
+  "postalCode": "27776"
  },
  {
   "id": 1310040003,
   "districtId": 1310040,
-  "name": "PULAKEK KOTO BARU"
+  "districtName": "SUNGAI PAGU",
+  "name": "PULAKEK KOTO BARU",
+  "postalCode": "27776"
  },
  {
   "id": 1310040004,
   "districtId": 1310040,
-  "name": "SAKO PASIA TALANG"
+  "districtName": "SUNGAI PAGU",
+  "name": "SAKO PASIA TALANG",
+  "postalCode": "27776"
  },
  {
   "id": 1310040005,
   "districtId": 1310040,
-  "name": "PASIR TALANG"
+  "districtName": "SUNGAI PAGU",
+  "name": "PASIR TALANG",
+  "postalCode": "27776"
  },
  {
   "id": 1310040006,
   "districtId": 1310040,
-  "name": "BOMAS"
+  "districtName": "SUNGAI PAGU",
+  "name": "BOMAS",
+  "postalCode": "27776"
  },
  {
   "id": 1310040007,
   "districtId": 1310040,
-  "name": "SAKO SELATAN PASIA TALANG"
+  "districtName": "SUNGAI PAGU",
+  "name": "SAKO SELATAN PASIA TALANG",
+  "postalCode": "27776"
  },
  {
   "id": 1310040008,
   "districtId": 1310040,
-  "name": "SAKO UTARA PASIA TALANG"
+  "districtName": "SUNGAI PAGU",
+  "name": "SAKO UTARA PASIA TALANG",
+  "postalCode": "27776"
  },
  {
   "id": 1310040009,
   "districtId": 1310040,
-  "name": "PASIR TALANG SELATAN"
+  "districtName": "SUNGAI PAGU",
+  "name": "PASIR TALANG SELATAN",
+  "postalCode": "27776"
  },
  {
   "id": 1310040010,
   "districtId": 1310040,
-  "name": "PASIR TALANG BARAT"
+  "districtName": "SUNGAI PAGU",
+  "name": "PASIR TALANG BARAT",
+  "postalCode": "27776"
  },
  {
   "id": 1310040011,
   "districtId": 1310040,
-  "name": "PASIR TALANG TIMUR"
+  "districtName": "SUNGAI PAGU",
+  "name": "PASIR TALANG TIMUR",
+  "postalCode": "27776"
  }
 ]

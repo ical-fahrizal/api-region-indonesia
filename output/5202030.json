@@ -2,46 +2,64 @@
  {
   "id": 5202030001,
   "districtId": 5202030,
-  "name": "KIDANG"
+  "districtName": "PRAYA TIMUR",
+  "name": "KIDANG",
+  "postalCode": "83581"
  },
  {
   "id": 5202030002,
   "districtId": 5202030,
-  "name": "BILELANDO"
+  "districtName": "PRAYA TIMUR",
+  "name": "BILELANDO",
+  "postalCode": "83581"
  },
  {
   "id": 5202030003,
   "districtId": 5202030,
-  "name": "SEMOYANG"
+  "districtName": "PRAYA TIMUR",
+  "name": "SEMOYANG",
+  "postalCode": "83581"
  },
  {
   "id": 5202030004,
   "districtId": 5202030,
-  "name": "GANTI"
+  "districtName": "PRAYA TIMUR",
+  "name": "GANTI",
+  "postalCode": "83581"
  },
  {
   "id": 5202030005,
   "districtId": 5202030,
-  "name": "BELEKA"
+  "districtName": "PRAYA TIMUR",
+  "name": "BELEKA",
+  "postalCode": "83581"
  },
  {
   "id": 5202030006,
   "districtId": 5202030,
-  "name": "SENGKERANG"
+  "districtName": "PRAYA TIMUR",
+  "name": "SENGKERANG",
+  "postalCode": "83581"
  },
  {
   "id": 5202030007,
   "districtId": 5202030,
-  "name": "LANDAH"
+  "districtName": "PRAYA TIMUR",
+  "name": "LANDAH",
+  "postalCode": "83581"
  },
  {
   "id": 5202030008,
   "districtId": 5202030,
-  "name": "MARONG"
+  "districtName": "PRAYA TIMUR",
+  "name": "MARONG",
+  "postalCode": "83581"
  },
  {
   "id": 5202030010,
   "districtId": 5202030,
-  "name": "SUKARAJA"
+  "districtName": "PRAYA TIMUR",
+  "name": "SUKARAJA",
+  "postalCode": "21256"
  }
 ]

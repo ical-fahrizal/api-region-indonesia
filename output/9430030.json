@@ -2,51 +2,71 @@
  {
   "id": 9430030007,
   "districtId": 9430030,
-  "name": "GURIKA"
+  "districtName": "TIOM",
+  "name": "GURIKA",
+  "postalCode": "99563"
  },
  {
   "id": 9430030008,
   "districtId": 9430030,
-  "name": "BOKON"
+  "districtName": "TIOM",
+  "name": "BOKON",
+  "postalCode": "85651"
  },
  {
   "id": 9430030014,
   "districtId": 9430030,
-  "name": "DURA"
+  "districtName": "TIOM",
+  "name": "DURA",
+  "postalCode": "99563"
  },
  {
   "id": 9430030015,
   "districtId": 9430030,
-  "name": "OYI"
+  "districtName": "TIOM",
+  "name": "OYI",
+  "postalCode": "99563"
  },
  {
   "id": 9430030016,
   "districtId": 9430030,
-  "name": "OLUME"
+  "districtName": "TIOM",
+  "name": "OLUME",
+  "postalCode": "99563"
  },
  {
   "id": 9430030021,
   "districtId": 9430030,
-  "name": "LONGGALO"
+  "districtName": "TIOM",
+  "name": "LONGGALO",
+  "postalCode": "99563"
  },
  {
   "id": 9430030022,
   "districtId": 9430030,
-  "name": "PALUNGGAME"
+  "districtName": "TIOM",
+  "name": "PALUNGGAME",
+  "postalCode": ""
  },
  {
   "id": 9430030023,
   "districtId": 9430030,
-  "name": "YILONDUM"
+  "districtName": "TIOM",
+  "name": "YILONDUM",
+  "postalCode": ""
  },
  {
   "id": 9430030024,
   "districtId": 9430030,
-  "name": "KUAPUR"
+  "districtName": "TIOM",
+  "name": "KUAPUR",
+  "postalCode": ""
  },
  {
   "id": 9430030025,
   "districtId": 9430030,
-  "name": "WADMALOME"
+  "districtName": "TIOM",
+  "name": "WADMALOME",
+  "postalCode": ""
  }
 ]

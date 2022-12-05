@@ -2,16 +2,22 @@
  {
   "id": 6502070001,
   "districtId": 6502070,
-  "name": "TANJUNG BUKA"
+  "districtName": "TANJUNG PALAS TENGAH",
+  "name": "TANJUNG BUKA",
+  "postalCode": "77216"
  },
  {
   "id": 6502070002,
   "districtId": 6502070,
-  "name": "SALIM BATU"
+  "districtName": "TANJUNG PALAS TENGAH",
+  "name": "SALIM BATU",
+  "postalCode": "77216"
  },
  {
   "id": 6502070003,
   "districtId": 6502070,
-  "name": "SILVA RAHAYU"
+  "districtName": "TANJUNG PALAS TENGAH",
+  "name": "SILVA RAHAYU",
+  "postalCode": "77216"
  }
 ]

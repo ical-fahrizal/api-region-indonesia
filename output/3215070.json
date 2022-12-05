@@ -2,71 +2,99 @@
  {
   "id": 3215070004,
   "districtId": 3215070,
-  "name": "BARUGBUG"
+  "districtName": "JATISARI",
+  "name": "BARUGBUG",
+  "postalCode": "41374"
  },
  {
   "id": 3215070005,
   "districtId": 3215070,
-  "name": "SITUDAM"
+  "districtName": "JATISARI",
+  "name": "SITUDAM",
+  "postalCode": "41374"
  },
  {
   "id": 3215070006,
   "districtId": 3215070,
-  "name": "BALONGGANDU"
+  "districtName": "JATISARI",
+  "name": "BALONGGANDU",
+  "postalCode": "41374"
  },
  {
   "id": 3215070009,
   "districtId": 3215070,
-  "name": "KALIJATI"
+  "districtName": "JATISARI",
+  "name": "KALIJATI",
+  "postalCode": "41374"
  },
  {
   "id": 3215070010,
   "districtId": 3215070,
-  "name": "MEKARSARI"
+  "districtName": "JATISARI",
+  "name": "MEKARSARI",
+  "postalCode": "37482"
  },
  {
   "id": 3215070011,
   "districtId": 3215070,
-  "name": "JATISARI"
+  "districtName": "JATISARI",
+  "name": "JATISARI",
+  "postalCode": "32362"
  },
  {
   "id": 3215070012,
   "districtId": 3215070,
-  "name": "CIREJAG"
+  "districtName": "JATISARI",
+  "name": "CIREJAG",
+  "postalCode": "41374"
  },
  {
   "id": 3215070013,
   "districtId": 3215070,
-  "name": "CIKALONGSARI"
+  "districtName": "JATISARI",
+  "name": "CIKALONGSARI",
+  "postalCode": "41374"
  },
  {
   "id": 3215070014,
   "districtId": 3215070,
-  "name": "JATIRAGAS"
+  "districtName": "JATISARI",
+  "name": "JATIRAGAS",
+  "postalCode": "41374"
  },
  {
   "id": 3215070015,
   "districtId": 3215070,
-  "name": "JATIWANGI"
+  "districtName": "JATISARI",
+  "name": "JATIWANGI",
+  "postalCode": "17530"
  },
  {
   "id": 3215070016,
   "districtId": 3215070,
-  "name": "JATIBARU"
+  "districtName": "JATISARI",
+  "name": "JATIBARU",
+  "postalCode": "35361"
  },
  {
   "id": 3215070017,
   "districtId": 3215070,
-  "name": "TELARSARI"
+  "districtName": "JATISARI",
+  "name": "TELARSARI",
+  "postalCode": "41374"
  },
  {
   "id": 3215070018,
   "districtId": 3215070,
-  "name": "SUKAMEKAR"
+  "districtName": "JATISARI",
+  "name": "SUKAMEKAR",
+  "postalCode": "43271"
  },
  {
   "id": 3215070019,
   "districtId": 3215070,
-  "name": "PACING"
+  "districtName": "JATISARI",
+  "name": "PACING",
+  "postalCode": "41374"
  }
 ]

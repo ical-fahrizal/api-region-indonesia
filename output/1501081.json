@@ -2,131 +2,183 @@
  {
   "id": 1501081001,
   "districtId": 1501081,
-  "name": "AIR TERJUN"
+  "districtName": "SIULAK",
+  "name": "AIR TERJUN",
+  "postalCode": "28384"
  },
  {
   "id": 1501081002,
   "districtId": 1501081,
-  "name": "SIULAK KECIL MUDIK"
+  "districtName": "SIULAK",
+  "name": "SIULAK KECIL MUDIK",
+  "postalCode": "37162"
  },
  {
   "id": 1501081003,
   "districtId": 1501081,
-  "name": "SIULAK KECIL HILIR"
+  "districtName": "SIULAK",
+  "name": "SIULAK KECIL HILIR",
+  "postalCode": "37162"
  },
  {
   "id": 1501081004,
   "districtId": 1501081,
-  "name": "SIULAK GEDANG"
+  "districtName": "SIULAK",
+  "name": "SIULAK GEDANG",
+  "postalCode": "37162"
  },
  {
   "id": 1501081014,
   "districtId": 1501081,
-  "name": "PASAR SIULAK GEDANG"
+  "districtName": "SIULAK",
+  "name": "PASAR SIULAK GEDANG",
+  "postalCode": "37162"
  },
  {
   "id": 1501081015,
   "districtId": 1501081,
-  "name": "DUSUN DALAM"
+  "districtName": "SIULAK",
+  "name": "DUSUN DALAM",
+  "postalCode": "37481"
  },
  {
   "id": 1501081016,
   "districtId": 1501081,
-  "name": "KOTO BERINGIN"
+  "districtName": "SIULAK",
+  "name": "KOTO BERINGIN",
+  "postalCode": "37152"
  },
  {
   "id": 1501081017,
   "districtId": 1501081,
-  "name": "SIULAK PANJANG"
+  "districtName": "SIULAK",
+  "name": "SIULAK PANJANG",
+  "postalCode": "37162"
  },
  {
   "id": 1501081018,
   "districtId": 1501081,
-  "name": "KOTO TENGAH"
+  "districtName": "SIULAK",
+  "name": "KOTO TENGAH",
+  "postalCode": "37161"
  },
  {
   "id": 1501081019,
   "districtId": 1501081,
-  "name": "KOTO ARO"
+  "districtName": "SIULAK",
+  "name": "KOTO ARO",
+  "postalCode": "37162"
  },
  {
   "id": 1501081020,
   "districtId": 1501081,
-  "name": "KOTO RENDAH"
+  "districtName": "SIULAK",
+  "name": "KOTO RENDAH",
+  "postalCode": "37162"
  },
  {
   "id": 1501081021,
   "districtId": 1501081,
-  "name": "DUSUN BARU"
+  "districtName": "SIULAK",
+  "name": "DUSUN BARU",
+  "postalCode": "37162"
  },
  {
   "id": 1501081023,
   "districtId": 1501081,
-  "name": "KOTO KAPEH"
+  "districtName": "SIULAK",
+  "name": "KOTO KAPEH",
+  "postalCode": "37162"
  },
  {
   "id": 1501081024,
   "districtId": 1501081,
-  "name": "SUNGAI PEGEH"
+  "districtName": "SIULAK",
+  "name": "SUNGAI PEGEH",
+  "postalCode": "37162"
  },
  {
   "id": 1501081025,
   "districtId": 1501081,
-  "name": "SUNGAI LEBUH"
+  "districtName": "SIULAK",
+  "name": "SUNGAI LEBUH",
+  "postalCode": "37162"
  },
  {
   "id": 1501081026,
   "districtId": 1501081,
-  "name": "KOTO LEBUH TINGGI"
+  "districtName": "SIULAK",
+  "name": "KOTO LEBUH TINGGI",
+  "postalCode": "37162"
  },
  {
   "id": 1501081027,
   "districtId": 1501081,
-  "name": "LUBUK NAGODANG"
+  "districtName": "SIULAK",
+  "name": "LUBUK NAGODANG",
+  "postalCode": "37162"
  },
  {
   "id": 1501081028,
   "districtId": 1501081,
-  "name": "TELAGO BIRU"
+  "districtName": "SIULAK",
+  "name": "TELAGO BIRU",
+  "postalCode": "37162"
  },
  {
   "id": 1501081031,
   "districtId": 1501081,
-  "name": "TUTUNG BUNGKUK"
+  "districtName": "SIULAK",
+  "name": "TUTUNG BUNGKUK",
+  "postalCode": "37162"
  },
  {
   "id": 1501081033,
   "districtId": 1501081,
-  "name": "PADANG JANTUNG"
+  "districtName": "SIULAK",
+  "name": "PADANG JANTUNG",
+  "postalCode": "37162"
  },
  {
   "id": 1501081034,
   "districtId": 1501081,
-  "name": "PELAK GEDANG"
+  "districtName": "SIULAK",
+  "name": "PELAK GEDANG",
+  "postalCode": "37162"
  },
  {
   "id": 1501081035,
   "districtId": 1501081,
-  "name": "BENDAR SEDAP"
+  "districtName": "SIULAK",
+  "name": "BENDAR SEDAP",
+  "postalCode": "37162"
  },
  {
   "id": 1501081036,
   "districtId": 1501081,
-  "name": "PELAK NANEH"
+  "districtName": "SIULAK",
+  "name": "PELAK NANEH",
+  "postalCode": ""
  },
  {
   "id": 1501081037,
   "districtId": 1501081,
-  "name": "DEMONG SAKTI"
+  "districtName": "SIULAK",
+  "name": "DEMONG SAKTI",
+  "postalCode": "37162"
  },
  {
   "id": 1501081038,
   "districtId": 1501081,
-  "name": "PASAR SENEN"
+  "districtName": "SIULAK",
+  "name": "PASAR SENEN",
+  "postalCode": "37162"
  },
  {
   "id": 1501081039,
   "districtId": 1501081,
-  "name": "BARU SUNGAI PEGEH"
+  "districtName": "SIULAK",
+  "name": "BARU SUNGAI PEGEH",
+  "postalCode": "37162"
  }
 ]

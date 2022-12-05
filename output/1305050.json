@@ -2,26 +2,36 @@
  {
   "id": 1305050001,
   "districtId": 1305050,
-  "name": "CUBADAK"
+  "districtName": "LIMA KAUM",
+  "name": "CUBADAK",
+  "postalCode": "27216"
  },
  {
   "id": 1305050002,
   "districtId": 1305050,
-  "name": "PARAMBAHAN"
+  "districtName": "LIMA KAUM",
+  "name": "PARAMBAHAN",
+  "postalCode": "27381"
  },
  {
   "id": 1305050003,
   "districtId": 1305050,
-  "name": "LABUH"
+  "districtName": "LIMA KAUM",
+  "name": "LABUH",
+  "postalCode": ""
  },
  {
   "id": 1305050004,
   "districtId": 1305050,
-  "name": "LIMA KAUM"
+  "districtName": "LIMA KAUM",
+  "name": "LIMA KAUM",
+  "postalCode": ""
  },
  {
   "id": 1305050005,
   "districtId": 1305050,
-  "name": "BARINGIN"
+  "districtName": "LIMA KAUM",
+  "name": "BARINGIN",
+  "postalCode": "22456"
  }
 ]

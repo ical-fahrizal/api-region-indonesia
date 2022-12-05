@@ -2,46 +2,64 @@
  {
   "id": 1203102001,
   "districtId": 1203102,
-  "name": "MUARA UPU"
+  "districtName": "MUARA BATANG TORU",
+  "name": "MUARA UPU",
+  "postalCode": "22738"
  },
  {
   "id": 1203102002,
   "districtId": 1203102,
-  "name": "BANDAR HAPINIS"
+  "districtName": "MUARA BATANG TORU",
+  "name": "BANDAR HAPINIS",
+  "postalCode": "22738"
  },
  {
   "id": 1203102003,
   "districtId": 1203102,
-  "name": "HUTA RAJA"
+  "districtName": "MUARA BATANG TORU",
+  "name": "HUTA RAJA",
+  "postalCode": "22738"
  },
  {
   "id": 1203102004,
   "districtId": 1203102,
-  "name": "MUARA MANOMPAS"
+  "districtName": "MUARA BATANG TORU",
+  "name": "MUARA MANOMPAS",
+  "postalCode": "22738"
  },
  {
   "id": 1203102006,
   "districtId": 1203102,
-  "name": "PARDAMEAN"
+  "districtName": "MUARA BATANG TORU",
+  "name": "PARDAMEAN",
+  "postalCode": "24673"
  },
  {
   "id": 1203102007,
   "districtId": 1203102,
-  "name": "TERAPUNG RAYA"
+  "districtName": "MUARA BATANG TORU",
+  "name": "TERAPUNG RAYA",
+  "postalCode": ""
  },
  {
   "id": 1203102008,
   "districtId": 1203102,
-  "name": "MUARA HUTA RAJA"
+  "districtName": "MUARA BATANG TORU",
+  "name": "MUARA HUTA RAJA",
+  "postalCode": ""
  },
  {
   "id": 1203102009,
   "districtId": 1203102,
-  "name": "MUARA AMPOLU"
+  "districtName": "MUARA BATANG TORU",
+  "name": "MUARA AMPOLU",
+  "postalCode": "22738"
  },
  {
   "id": 1203102010,
   "districtId": 1203102,
-  "name": "SIMARLELAN"
+  "districtName": "MUARA BATANG TORU",
+  "name": "SIMARLELAN",
+  "postalCode": ""
  }
 ]

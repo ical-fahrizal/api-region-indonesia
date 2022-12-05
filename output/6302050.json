@@ -2,36 +2,50 @@
  {
   "id": 6302050001,
   "districtId": 6302050,
-  "name": "SEKAPUNG"
+  "districtName": "PULAU SEBUKU",
+  "name": "SEKAPUNG",
+  "postalCode": "72155"
  },
  {
   "id": 6302050002,
   "districtId": 6302050,
-  "name": "KANIBUNGAN"
+  "districtName": "PULAU SEBUKU",
+  "name": "KANIBUNGAN",
+  "postalCode": "72155"
  },
  {
   "id": 6302050003,
   "districtId": 6302050,
-  "name": "MANDIN"
+  "districtName": "PULAU SEBUKU",
+  "name": "MANDIN",
+  "postalCode": "72155"
  },
  {
   "id": 6302050004,
   "districtId": 6302050,
-  "name": "BELAMBUS"
+  "districtName": "PULAU SEBUKU",
+  "name": "BELAMBUS",
+  "postalCode": ""
  },
  {
   "id": 6302050005,
   "districtId": 6302050,
-  "name": "SARAKAMAN"
+  "districtName": "PULAU SEBUKU",
+  "name": "SARAKAMAN",
+  "postalCode": "72155"
  },
  {
   "id": 6302050006,
   "districtId": 6302050,
-  "name": "SUNGAI BALI"
+  "districtName": "PULAU SEBUKU",
+  "name": "SUNGAI BALI",
+  "postalCode": ""
  },
  {
   "id": 6302050007,
   "districtId": 6302050,
-  "name": "RAMPA"
+  "districtName": "PULAU SEBUKU",
+  "name": "RAMPA",
+  "postalCode": "22611"
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 3206071001,
   "districtId": 3206071,
-  "name": "GIRIJAYA"
+  "districtName": "BOJONGASIH",
+  "name": "GIRIJAYA",
+  "postalCode": "46475"
  },
  {
   "id": 3206071002,
   "districtId": 3206071,
-  "name": "BOJONGASIH"
+  "districtName": "BOJONGASIH",
+  "name": "BOJONGASIH",
+  "postalCode": "46475"
  },
  {
   "id": 3206071003,
   "districtId": 3206071,
-  "name": "SINDANGSARI"
+  "districtName": "BOJONGASIH",
+  "name": "SINDANGSARI",
+  "postalCode": "46383"
  },
  {
   "id": 3206071004,
   "districtId": 3206071,
-  "name": "CIKADONGDONG"
+  "districtName": "BOJONGASIH",
+  "name": "CIKADONGDONG",
+  "postalCode": "46475"
  },
  {
   "id": 3206071005,
   "districtId": 3206071,
-  "name": "MERTAJAYA"
+  "districtName": "BOJONGASIH",
+  "name": "MERTAJAYA",
+  "postalCode": "46475"
  },
  {
   "id": 3206071006,
   "districtId": 3206071,
-  "name": "TOBLONGAN"
+  "districtName": "BOJONGASIH",
+  "name": "TOBLONGAN",
+  "postalCode": "46475"
  }
 ]

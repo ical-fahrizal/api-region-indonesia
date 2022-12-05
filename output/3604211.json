@@ -2,46 +2,64 @@
  {
   "id": 3604211001,
   "districtId": 3604211,
-  "name": "ARGAWANA"
+  "districtName": "PULO AMPEL",
+  "name": "ARGAWANA",
+  "postalCode": "42455"
  },
  {
   "id": 3604211002,
   "districtId": 3604211,
-  "name": "BANYUWANGI"
+  "districtName": "PULO AMPEL",
+  "name": "BANYUWANGI",
+  "postalCode": "35373"
  },
  {
   "id": 3604211003,
   "districtId": 3604211,
-  "name": "MARGASARI"
+  "districtName": "PULO AMPEL",
+  "name": "MARGASARI",
+  "postalCode": "34198"
  },
  {
   "id": 3604211004,
   "districtId": 3604211,
-  "name": "PULOAMPEL"
+  "districtName": "PULO AMPEL",
+  "name": "PULOAMPEL",
+  "postalCode": ""
  },
  {
   "id": 3604211005,
   "districtId": 3604211,
-  "name": "SUMURANJA"
+  "districtName": "PULO AMPEL",
+  "name": "SUMURANJA",
+  "postalCode": "42455"
  },
  {
   "id": 3604211006,
   "districtId": 3604211,
-  "name": "KEDUNG SOKA"
+  "districtName": "PULO AMPEL",
+  "name": "KEDUNG SOKA",
+  "postalCode": "42455"
  },
  {
   "id": 3604211007,
   "districtId": 3604211,
-  "name": "MANGUNREJA"
+  "districtName": "PULO AMPEL",
+  "name": "MANGUNREJA",
+  "postalCode": "46462"
  },
  {
   "id": 3604211008,
   "districtId": 3604211,
-  "name": "SALIRA"
+  "districtName": "PULO AMPEL",
+  "name": "SALIRA",
+  "postalCode": "42455"
  },
  {
   "id": 3604211009,
   "districtId": 3604211,
-  "name": "PULO PANJANG"
+  "districtName": "PULO AMPEL",
+  "name": "PULO PANJANG",
+  "postalCode": "42455"
  }
 ]

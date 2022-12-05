@@ -2,46 +2,64 @@
  {
   "id": 3403080001,
   "districtId": 3403080,
-  "name": "BENDUNGAN"
+  "districtName": "KARANGMOJO",
+  "name": "BENDUNGAN",
+  "postalCode": "16720"
  },
  {
   "id": 3403080002,
   "districtId": 3403080,
-  "name": "BEJIHARJO"
+  "districtName": "KARANGMOJO",
+  "name": "BEJIHARJO",
+  "postalCode": "55891"
  },
  {
   "id": 3403080003,
   "districtId": 3403080,
-  "name": "WILADEG"
+  "districtName": "KARANGMOJO",
+  "name": "WILADEG",
+  "postalCode": "55891"
  },
  {
   "id": 3403080004,
   "districtId": 3403080,
-  "name": "KELOR"
+  "districtName": "KARANGMOJO",
+  "name": "KELOR",
+  "postalCode": "55891"
  },
  {
   "id": 3403080005,
   "districtId": 3403080,
-  "name": "NGIPAK"
+  "districtName": "KARANGMOJO",
+  "name": "NGIPAK",
+  "postalCode": "55891"
  },
  {
   "id": 3403080006,
   "districtId": 3403080,
-  "name": "KARANGMOJO"
+  "districtName": "KARANGMOJO",
+  "name": "KARANGMOJO",
+  "postalCode": "54365"
  },
  {
   "id": 3403080007,
   "districtId": 3403080,
-  "name": "GEDANG REJO"
+  "districtName": "KARANGMOJO",
+  "name": "GEDANG REJO",
+  "postalCode": "55891"
  },
  {
   "id": 3403080008,
   "districtId": 3403080,
-  "name": "NGAWIS"
+  "districtName": "KARANGMOJO",
+  "name": "NGAWIS",
+  "postalCode": "55891"
  },
  {
   "id": 3403080009,
   "districtId": 3403080,
-  "name": "JATI AYU"
+  "districtName": "KARANGMOJO",
+  "name": "JATI AYU",
+  "postalCode": "55891"
  }
 ]

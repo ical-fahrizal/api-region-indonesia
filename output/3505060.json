@@ -2,46 +2,64 @@
  {
   "id": 3505060001,
   "districtId": 3505060,
-  "name": "PANDANARUM"
+  "districtName": "SUTOJAYAN",
+  "name": "PANDANARUM",
+  "postalCode": "53458"
  },
  {
   "id": 3505060003,
   "districtId": 3505060,
-  "name": "SOTOJAYAN"
+  "districtName": "SUTOJAYAN",
+  "name": "SOTOJAYAN",
+  "postalCode": ""
  },
  {
   "id": 3505060004,
   "districtId": 3505060,
-  "name": "BACEM"
+  "districtName": "SUTOJAYAN",
+  "name": "BACEM",
+  "postalCode": "58253"
  },
  {
   "id": 3505060005,
   "districtId": 3505060,
-  "name": "SUMBERJO"
+  "districtName": "SUTOJAYAN",
+  "name": "SUMBERJO",
+  "postalCode": "34396"
  },
  {
   "id": 3505060006,
   "districtId": 3505060,
-  "name": "SUKOREJO"
+  "districtName": "SUTOJAYAN",
+  "name": "SUKOREJO",
+  "postalCode": "31551"
  },
  {
   "id": 3505060007,
   "districtId": 3505060,
-  "name": "KALIPANG"
+  "districtName": "SUTOJAYAN",
+  "name": "KALIPANG",
+  "postalCode": "58183"
  },
  {
   "id": 3505060008,
   "districtId": 3505060,
-  "name": "KEMBANGARUM"
+  "districtName": "SUTOJAYAN",
+  "name": "KEMBANGARUM",
+  "postalCode": "59567"
  },
  {
   "id": 3505060009,
   "districtId": 3505060,
-  "name": "JINGGLONG"
+  "districtName": "SUTOJAYAN",
+  "name": "JINGGLONG",
+  "postalCode": "63411"
  },
  {
   "id": 3505060010,
   "districtId": 3505060,
-  "name": "KAULON"
+  "districtName": "SUTOJAYAN",
+  "name": "KAULON",
+  "postalCode": "66172"
  }
 ]

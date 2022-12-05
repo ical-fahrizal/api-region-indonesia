@@ -2,41 +2,57 @@
  {
   "id": 3510040001,
   "districtId": 3510040,
-  "name": "PURWOASRI"
+  "districtName": "TEGALDLIMO",
+  "name": "PURWOASRI",
+  "postalCode": "68165"
  },
  {
   "id": 3510040002,
   "districtId": 3510040,
-  "name": "KENDALREJO"
+  "districtName": "TEGALDLIMO",
+  "name": "KENDALREJO",
+  "postalCode": "52362"
  },
  {
   "id": 3510040003,
   "districtId": 3510040,
-  "name": "KEDUNGASRI"
+  "districtName": "TEGALDLIMO",
+  "name": "KEDUNGASRI",
+  "postalCode": "51356"
  },
  {
   "id": 3510040005,
   "districtId": 3510040,
-  "name": "TEGALDLIMO"
+  "districtName": "TEGALDLIMO",
+  "name": "TEGALDLIMO",
+  "postalCode": "68484"
  },
  {
   "id": 3510040006,
   "districtId": 3510040,
-  "name": "WRINGINPITU"
+  "districtName": "TEGALDLIMO",
+  "name": "WRINGINPITU",
+  "postalCode": "61475"
  },
  {
   "id": 3510040007,
   "districtId": 3510040,
-  "name": "KEDUNGGEBANG"
+  "districtName": "TEGALDLIMO",
+  "name": "KEDUNGGEBANG",
+  "postalCode": "68484"
  },
  {
   "id": 3510040008,
   "districtId": 3510040,
-  "name": "PURWOAGUNG"
+  "districtName": "TEGALDLIMO",
+  "name": "PURWOAGUNG",
+  "postalCode": "68484"
  },
  {
   "id": 3510040009,
   "districtId": 3510040,
-  "name": "KALIPAIT"
+  "districtName": "TEGALDLIMO",
+  "name": "KALIPAIT",
+  "postalCode": "68484"
  }
 ]

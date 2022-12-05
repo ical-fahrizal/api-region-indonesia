@@ -2,31 +2,43 @@
  {
   "id": 8202032001,
   "districtId": 8202032,
-  "name": "GEMAF"
+  "districtName": "WEDA UTARA",
+  "name": "GEMAF",
+  "postalCode": "97853"
  },
  {
   "id": 8202032002,
   "districtId": 8202032,
-  "name": "SAGEA"
+  "districtName": "WEDA UTARA",
+  "name": "SAGEA",
+  "postalCode": "97853"
  },
  {
   "id": 8202032003,
   "districtId": 8202032,
-  "name": "FRITU"
+  "districtName": "WEDA UTARA",
+  "name": "FRITU",
+  "postalCode": ""
  },
  {
   "id": 8202032004,
   "districtId": 8202032,
-  "name": "WALEH"
+  "districtName": "WEDA UTARA",
+  "name": "WALEH",
+  "postalCode": "97853"
  },
  {
   "id": 8202032008,
   "districtId": 8202032,
-  "name": "DESA PERSIAPAN TRANS SP I"
+  "districtName": "WEDA UTARA",
+  "name": "DESA PERSIAPAN TRANS SP I",
+  "postalCode": ""
  },
  {
   "id": 8202032009,
   "districtId": 8202032,
-  "name": "KIYA"
+  "districtName": "WEDA UTARA",
+  "name": "KIYA",
+  "postalCode": "97853"
  }
 ]

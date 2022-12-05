@@ -2,36 +2,50 @@
  {
   "id": 3208040001,
   "districtId": 3208040,
-  "name": "CANTILAN"
+  "districtName": "SELAJAMBE",
+  "name": "CANTILAN",
+  "postalCode": "45566"
  },
  {
   "id": 3208040002,
   "districtId": 3208040,
-  "name": "SELAJAMBE"
+  "districtName": "SELAJAMBE",
+  "name": "SELAJAMBE",
+  "postalCode": "43152"
  },
  {
   "id": 3208040003,
   "districtId": 3208040,
-  "name": "CIBERUNG"
+  "districtName": "SELAJAMBE",
+  "name": "CIBERUNG",
+  "postalCode": "45566"
  },
  {
   "id": 3208040004,
   "districtId": 3208040,
-  "name": "KUTAWARINGIN"
+  "districtName": "SELAJAMBE",
+  "name": "KUTAWARINGIN",
+  "postalCode": "40911"
  },
  {
   "id": 3208040005,
   "districtId": 3208040,
-  "name": "BAGAWAT"
+  "districtName": "SELAJAMBE",
+  "name": "BAGAWAT",
+  "postalCode": "45566"
  },
  {
   "id": 3208040006,
   "districtId": 3208040,
-  "name": "JAMBERAMA"
+  "districtName": "SELAJAMBE",
+  "name": "JAMBERAMA",
+  "postalCode": "45566"
  },
  {
   "id": 3208040007,
   "districtId": 3208040,
-  "name": "PADAHURIP"
+  "districtName": "SELAJAMBE",
+  "name": "PADAHURIP",
+  "postalCode": "44172"
  }
 ]

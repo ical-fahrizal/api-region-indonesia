@@ -2,41 +2,57 @@
  {
   "id": 3509060001,
   "districtId": 3509060,
-  "name": "ANDONGREJO"
+  "districtName": "TEMPUREJO",
+  "name": "ANDONGREJO",
+  "postalCode": "58219"
  },
  {
   "id": 3509060002,
   "districtId": 3509060,
-  "name": "CURAHNONGKO"
+  "districtName": "TEMPUREJO",
+  "name": "CURAHNONGKO",
+  "postalCode": "68173"
  },
  {
   "id": 3509060003,
   "districtId": 3509060,
-  "name": "SANENREJO"
+  "districtName": "TEMPUREJO",
+  "name": "SANENREJO",
+  "postalCode": "68173"
  },
  {
   "id": 3509060004,
   "districtId": 3509060,
-  "name": "WONOASRI"
+  "districtName": "TEMPUREJO",
+  "name": "WONOASRI",
+  "postalCode": "64151"
  },
  {
   "id": 3509060005,
   "districtId": 3509060,
-  "name": "SIDODADI"
+  "districtName": "TEMPUREJO",
+  "name": "SIDODADI",
+  "postalCode": "24582"
  },
  {
   "id": 3509060006,
   "districtId": 3509060,
-  "name": "PONDOKREJO"
+  "districtName": "TEMPUREJO",
+  "name": "PONDOKREJO",
+  "postalCode": "59255"
  },
  {
   "id": 3509060007,
   "districtId": 3509060,
-  "name": "CURAHTAKIR"
+  "districtName": "TEMPUREJO",
+  "name": "CURAHTAKIR",
+  "postalCode": "68173"
  },
  {
   "id": 3509060008,
   "districtId": 3509060,
-  "name": "TEMPUREJO"
+  "districtName": "TEMPUREJO",
+  "name": "TEMPUREJO",
+  "postalCode": "58219"
  }
 ]

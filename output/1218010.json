@@ -2,56 +2,78 @@
  {
   "id": 1218010001,
   "districtId": 1218010,
-  "name": "HUTA GALUH"
+  "districtName": "KOTARIH",
+  "name": "HUTA GALUH",
+  "postalCode": "20984"
  },
  {
   "id": 1218010002,
   "districtId": 1218010,
-  "name": "RUBUN DUNIA"
+  "districtName": "KOTARIH",
+  "name": "RUBUN DUNIA",
+  "postalCode": "20984"
  },
  {
   "id": 1218010003,
   "districtId": 1218010,
-  "name": "SIALTONG"
+  "districtName": "KOTARIH",
+  "name": "SIALTONG",
+  "postalCode": "20984"
  },
  {
   "id": 1218010004,
   "districtId": 1218010,
-  "name": "BANDAR BAYU"
+  "districtName": "KOTARIH",
+  "name": "BANDAR BAYU",
+  "postalCode": "20984"
  },
  {
   "id": 1218010005,
   "districtId": 1218010,
-  "name": "KOTARIH BARU"
+  "districtName": "KOTARIH",
+  "name": "KOTARIH BARU",
+  "postalCode": "20984"
  },
  {
   "id": 1218010006,
   "districtId": 1218010,
-  "name": "DURIAN KONDOT"
+  "districtName": "KOTARIH",
+  "name": "DURIAN KONDOT",
+  "postalCode": "20984"
  },
  {
   "id": 1218010007,
   "districtId": 1218010,
-  "name": "KOTARIH PEKAN"
+  "districtName": "KOTARIH",
+  "name": "KOTARIH PEKAN",
+  "postalCode": "20984"
  },
  {
   "id": 1218010008,
   "districtId": 1218010,
-  "name": "PERBAHINGAN"
+  "districtName": "KOTARIH",
+  "name": "PERBAHINGAN",
+  "postalCode": "20984"
  },
  {
   "id": 1218010009,
   "districtId": 1218010,
-  "name": "SEI KARIH"
+  "districtName": "KOTARIH",
+  "name": "SEI KARIH",
+  "postalCode": "20984"
  },
  {
   "id": 1218010010,
   "districtId": 1218010,
-  "name": "BANJARAN GODANG"
+  "districtName": "KOTARIH",
+  "name": "BANJARAN GODANG",
+  "postalCode": "20984"
  },
  {
   "id": 1218010011,
   "districtId": 1218010,
-  "name": "SEI UJAN-UJAN"
+  "districtName": "KOTARIH",
+  "name": "SEI UJAN-UJAN",
+  "postalCode": "20984"
  }
 ]

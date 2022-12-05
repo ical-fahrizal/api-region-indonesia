@@ -2,31 +2,43 @@
  {
   "id": 1971041002,
   "districtId": 1971041,
-  "name": "KACANG PEDANG"
+  "districtName": "GERUNGGANG",
+  "name": "KACANG PEDANG",
+  "postalCode": "33125"
  },
  {
   "id": 1971041003,
   "districtId": 1971041,
-  "name": "TUATUNU INDAH"
+  "districtName": "GERUNGGANG",
+  "name": "TUATUNU INDAH",
+  "postalCode": ""
  },
  {
   "id": 1971041004,
   "districtId": 1971041,
-  "name": "BUKIT MERAPIN"
+  "districtName": "GERUNGGANG",
+  "name": "BUKIT MERAPIN",
+  "postalCode": ""
  },
  {
   "id": 1971041005,
   "districtId": 1971041,
-  "name": "BUKIT SARI"
+  "districtName": "GERUNGGANG",
+  "name": "BUKIT SARI",
+  "postalCode": "24563"
  },
  {
   "id": 1971041006,
   "districtId": 1971041,
-  "name": "TAMAN BUNGA"
+  "districtName": "GERUNGGANG",
+  "name": "TAMAN BUNGA",
+  "postalCode": "33123"
  },
  {
   "id": 1971041007,
   "districtId": 1971041,
-  "name": "AIR KEPALA TUJUH"
+  "districtName": "GERUNGGANG",
+  "name": "AIR KEPALA TUJUH",
+  "postalCode": "33123"
  }
 ]

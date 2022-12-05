@@ -2,31 +2,43 @@
  {
   "id": 5311031001,
   "districtId": 5311031,
-  "name": "KEL. MAUTAPAGA"
+  "districtName": "ENDE TIMUR",
+  "name": "KEL. MAUTAPAGA",
+  "postalCode": ""
  },
  {
   "id": 5311031002,
   "districtId": 5311031,
-  "name": "KEL. REWARANGGA"
+  "districtName": "ENDE TIMUR",
+  "name": "KEL. REWARANGGA",
+  "postalCode": ""
  },
  {
   "id": 5311031003,
   "districtId": 5311031,
-  "name": "KEDEBODU"
+  "districtName": "ENDE TIMUR",
+  "name": "KEDEBODU",
+  "postalCode": "86361"
  },
  {
   "id": 5311031004,
   "districtId": 5311031,
-  "name": "NDUNGGA"
+  "districtName": "ENDE TIMUR",
+  "name": "NDUNGGA",
+  "postalCode": "86361"
  },
  {
   "id": 5311031005,
   "districtId": 5311031,
-  "name": "TIWUTEWA"
+  "districtName": "ENDE TIMUR",
+  "name": "TIWUTEWA",
+  "postalCode": "86361"
  },
  {
   "id": 5311031006,
   "districtId": 5311031,
-  "name": "KEL. REWARANGGA SELATAN"
+  "districtName": "ENDE TIMUR",
+  "name": "KEL. REWARANGGA SELATAN",
+  "postalCode": ""
  }
 ]

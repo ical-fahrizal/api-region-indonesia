@@ -2,46 +2,64 @@
  {
   "id": 3315150001,
   "districtId": 3315150,
-  "name": "KANDANGREJO"
+  "districtName": "KLAMBU",
+  "name": "KANDANGREJO",
+  "postalCode": "58154"
  },
  {
   "id": 3315150002,
   "districtId": 3315150,
-  "name": "SELOJARI"
+  "districtName": "KLAMBU",
+  "name": "SELOJARI",
+  "postalCode": "58154"
  },
  {
   "id": 3315150003,
   "districtId": 3315150,
-  "name": "TARUMAN"
+  "districtName": "KLAMBU",
+  "name": "TARUMAN",
+  "postalCode": "58154"
  },
  {
   "id": 3315150004,
   "districtId": 3315150,
-  "name": "PENGANTEN"
+  "districtName": "KLAMBU",
+  "name": "PENGANTEN",
+  "postalCode": "58154"
  },
  {
   "id": 3315150005,
   "districtId": 3315150,
-  "name": "KLAMBU"
+  "districtName": "KLAMBU",
+  "name": "KLAMBU",
+  "postalCode": "58154"
  },
  {
   "id": 3315150006,
   "districtId": 3315150,
-  "name": "MENAWAN"
+  "districtName": "KLAMBU",
+  "name": "MENAWAN",
+  "postalCode": "59333"
  },
  {
   "id": 3315150007,
   "districtId": 3315150,
-  "name": "TERKESI"
+  "districtName": "KLAMBU",
+  "name": "TERKESI",
+  "postalCode": "58154"
  },
  {
   "id": 3315150008,
   "districtId": 3315150,
-  "name": "JENENGAN"
+  "districtName": "KLAMBU",
+  "name": "JENENGAN",
+  "postalCode": "58154"
  },
  {
   "id": 3315150009,
   "districtId": 3315150,
-  "name": "WANDANKEMIRI"
+  "districtName": "KLAMBU",
+  "name": "WANDANKEMIRI",
+  "postalCode": "58154"
  }
 ]

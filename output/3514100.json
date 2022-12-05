@@ -2,66 +2,92 @@
  {
   "id": 3514100001,
   "districtId": 3514100,
-  "name": "JATIARJO"
+  "districtName": "PRIGEN",
+  "name": "JATIARJO",
+  "postalCode": "67157"
  },
  {
   "id": 3514100002,
   "districtId": 3514100,
-  "name": "WATUAGUNG"
+  "districtName": "PRIGEN",
+  "name": "WATUAGUNG",
+  "postalCode": "57673"
  },
  {
   "id": 3514100003,
   "districtId": 3514100,
-  "name": "DAYUREJO"
+  "districtName": "PRIGEN",
+  "name": "DAYUREJO",
+  "postalCode": "67157"
  },
  {
   "id": 3514100004,
   "districtId": 3514100,
-  "name": "BULUKANDANG"
+  "districtName": "PRIGEN",
+  "name": "BULUKANDANG",
+  "postalCode": "67183"
  },
  {
   "id": 3514100005,
   "districtId": 3514100,
-  "name": "KETANIRENG"
+  "districtName": "PRIGEN",
+  "name": "KETANIRENG",
+  "postalCode": "67157"
  },
  {
   "id": 3514100006,
   "districtId": 3514100,
-  "name": "SUKOLELO"
+  "districtName": "PRIGEN",
+  "name": "SUKOLELO",
+  "postalCode": "67157"
  },
  {
   "id": 3514100008,
   "districtId": 3514100,
-  "name": "PECALUKAN"
+  "districtName": "PRIGEN",
+  "name": "PECALUKAN",
+  "postalCode": "67157"
  },
  {
   "id": 3514100009,
   "districtId": 3514100,
-  "name": "PRIGEN"
+  "districtName": "PRIGEN",
+  "name": "PRIGEN",
+  "postalCode": "67157"
  },
  {
   "id": 3514100010,
   "districtId": 3514100,
-  "name": "LUMBANG REJO"
+  "districtName": "PRIGEN",
+  "name": "LUMBANG REJO",
+  "postalCode": "67157"
  },
  {
   "id": 3514100011,
   "districtId": 3514100,
-  "name": "SUKORENO"
+  "districtName": "PRIGEN",
+  "name": "SUKORENO",
+  "postalCode": "56364"
  },
  {
   "id": 3514100012,
   "districtId": 3514100,
-  "name": "SEKARJOHO"
+  "districtName": "PRIGEN",
+  "name": "SEKARJOHO",
+  "postalCode": "67157"
  },
  {
   "id": 3514100013,
   "districtId": 3514100,
-  "name": "GAMBIRAN"
+  "districtName": "PRIGEN",
+  "name": "GAMBIRAN",
+  "postalCode": "59261"
  },
  {
   "id": 3514100014,
   "districtId": 3514100,
-  "name": "CANDI WATES"
+  "districtName": "PRIGEN",
+  "name": "CANDI WATES",
+  "postalCode": "67157"
  }
 ]

@@ -2,61 +2,85 @@
  {
   "id": 3205171001,
   "districtId": 3205171,
-  "name": "KARYAMEKAR"
+  "districtName": "PASIRWANGI",
+  "name": "KARYAMEKAR",
+  "postalCode": "41181"
  },
  {
   "id": 3205171002,
   "districtId": 3205171,
-  "name": "SARIMUKTI"
+  "districtName": "PASIRWANGI",
+  "name": "SARIMUKTI",
+  "postalCode": "17520"
  },
  {
   "id": 3205171003,
   "districtId": 3205171,
-  "name": "TALAGA"
+  "districtName": "PASIRWANGI",
+  "name": "TALAGA",
+  "postalCode": "43154"
  },
  {
   "id": 3205171004,
   "districtId": 3205171,
-  "name": "PASIRKIAMIS"
+  "districtName": "PASIRWANGI",
+  "name": "PASIRKIAMIS",
+  "postalCode": "44161"
  },
  {
   "id": 3205171005,
   "districtId": 3205171,
-  "name": "PADAMUKTI"
+  "districtName": "PASIRWANGI",
+  "name": "PADAMUKTI",
+  "postalCode": "44161"
  },
  {
   "id": 3205171006,
   "districtId": 3205171,
-  "name": "PADAASIH"
+  "districtName": "PASIRWANGI",
+  "name": "PADAASIH",
+  "postalCode": "41285"
  },
  {
   "id": 3205171007,
   "districtId": 3205171,
-  "name": "PADASUKA"
+  "districtName": "PASIRWANGI",
+  "name": "PADASUKA",
+  "postalCode": "44185"
  },
  {
   "id": 3205171008,
   "districtId": 3205171,
-  "name": "SIRNAJAYA"
+  "districtName": "PASIRWANGI",
+  "name": "SIRNAJAYA",
+  "postalCode": "44163"
  },
  {
   "id": 3205171009,
   "districtId": 3205171,
-  "name": "PADAMULYA"
+  "districtName": "PASIRWANGI",
+  "name": "PADAMULYA",
+  "postalCode": "46262"
  },
  {
   "id": 3205171010,
   "districtId": 3205171,
-  "name": "PASIRWANGI"
+  "districtName": "PASIRWANGI",
+  "name": "PASIRWANGI",
+  "postalCode": "44161"
  },
  {
   "id": 3205171011,
   "districtId": 3205171,
-  "name": "PADAAWAS"
+  "districtName": "PASIRWANGI",
+  "name": "PADAAWAS",
+  "postalCode": "44161"
  },
  {
   "id": 3205171012,
   "districtId": 3205171,
-  "name": "BARUSARI"
+  "districtName": "PASIRWANGI",
+  "name": "BARUSARI",
+  "postalCode": "44161"
  }
 ]

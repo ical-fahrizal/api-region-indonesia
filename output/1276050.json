@@ -2,31 +2,43 @@
  {
   "id": 1276050001,
   "districtId": 1276050,
-  "name": "BANDAR SENEMBAH"
+  "districtName": "BINJAI BARAT",
+  "name": "BANDAR SENEMBAH",
+  "postalCode": "20719"
  },
  {
   "id": 1276050002,
   "districtId": 1276050,
-  "name": "LIMAU MUNGKUR"
+  "districtName": "BINJAI BARAT",
+  "name": "LIMAU MUNGKUR",
+  "postalCode": "20717"
  },
  {
   "id": 1276050003,
   "districtId": 1276050,
-  "name": "LIMAU SUNDAI"
+  "districtName": "BINJAI BARAT",
+  "name": "LIMAU SUNDAI",
+  "postalCode": "21256"
  },
  {
   "id": 1276050004,
   "districtId": 1276050,
-  "name": "PAYA ROBA"
+  "districtName": "BINJAI BARAT",
+  "name": "PAYA ROBA",
+  "postalCode": ""
  },
  {
   "id": 1276050005,
   "districtId": 1276050,
-  "name": "SUKA MAJU"
+  "districtName": "BINJAI BARAT",
+  "name": "SUKA MAJU",
+  "postalCode": "24673"
  },
  {
   "id": 1276050006,
   "districtId": 1276050,
-  "name": "SUKA RAMAI"
+  "districtName": "BINJAI BARAT",
+  "name": "SUKA RAMAI",
+  "postalCode": "23662"
  }
 ]

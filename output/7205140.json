@@ -2,66 +2,92 @@
  {
   "id": 7205140001,
   "districtId": 7205140,
-  "name": "KAMBAYANG"
+  "districtName": "DAMPELAS",
+  "name": "KAMBAYANG",
+  "postalCode": ""
  },
  {
   "id": 7205140002,
   "districtId": 7205140,
-  "name": "BUDIMUKTI"
+  "districtName": "DAMPELAS",
+  "name": "BUDIMUKTI",
+  "postalCode": "94356"
  },
  {
   "id": 7205140003,
   "districtId": 7205140,
-  "name": "TALAGA"
+  "districtName": "DAMPELAS",
+  "name": "TALAGA",
+  "postalCode": "43154"
  },
  {
   "id": 7205140004,
   "districtId": 7205140,
-  "name": "SABANG"
+  "districtName": "DAMPELAS",
+  "name": "SABANG",
+  "postalCode": "94882"
  },
  {
   "id": 7205140005,
   "districtId": 7205140,
-  "name": "SIOYONG"
+  "districtName": "DAMPELAS",
+  "name": "SIOYONG",
+  "postalCode": "94356"
  },
  {
   "id": 7205140006,
   "districtId": 7205140,
-  "name": "KARYAMUKTI"
+  "districtName": "DAMPELAS",
+  "name": "KARYAMUKTI",
+  "postalCode": "36655"
  },
  {
   "id": 7205140007,
   "districtId": 7205140,
-  "name": "PANII"
+  "districtName": "DAMPELAS",
+  "name": "PANII",
+  "postalCode": "94356"
  },
  {
   "id": 7205140008,
   "districtId": 7205140,
-  "name": "PONGGERANG"
+  "districtName": "DAMPELAS",
+  "name": "PONGGERANG",
+  "postalCode": "94356"
  },
  {
   "id": 7205140009,
   "districtId": 7205140,
-  "name": "MALONAS"
+  "districtName": "DAMPELAS",
+  "name": "MALONAS",
+  "postalCode": "94356"
  },
  {
   "id": 7205140010,
   "districtId": 7205140,
-  "name": "RERANG"
+  "districtName": "DAMPELAS",
+  "name": "RERANG",
+  "postalCode": "94356"
  },
  {
   "id": 7205140011,
   "districtId": 7205140,
-  "name": "LEMBA MUKTI"
+  "districtName": "DAMPELAS",
+  "name": "LEMBA MUKTI",
+  "postalCode": "94356"
  },
  {
   "id": 7205140012,
   "districtId": 7205140,
-  "name": "PARISAN AGUNG"
+  "districtName": "DAMPELAS",
+  "name": "PARISAN AGUNG",
+  "postalCode": "94356"
  },
  {
   "id": 7205140014,
   "districtId": 7205140,
-  "name": "LONG"
+  "districtName": "DAMPELAS",
+  "name": "LONG",
+  "postalCode": ""
  }
 ]

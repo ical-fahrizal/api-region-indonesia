@@ -2,41 +2,57 @@
  {
   "id": 6207011001,
   "districtId": 6207011,
-  "name": "MEKAR MULYA"
+  "districtName": "SEMATU JAYA",
+  "name": "MEKAR MULYA",
+  "postalCode": "38768"
  },
  {
   "id": 6207011002,
   "districtId": 6207011,
-  "name": "JANGKAR PRIMA"
+  "districtName": "SEMATU JAYA",
+  "name": "JANGKAR PRIMA",
+  "postalCode": "74162"
  },
  {
   "id": 6207011003,
   "districtId": 6207011,
-  "name": "PURWOREJO"
+  "districtName": "SEMATU JAYA",
+  "name": "PURWOREJO",
+  "postalCode": "23661"
  },
  {
   "id": 6207011004,
   "districtId": 6207011,
-  "name": "WONOREJO"
+  "districtName": "SEMATU JAYA",
+  "name": "WONOREJO",
+  "postalCode": "21186"
  },
  {
   "id": 6207011005,
   "districtId": 6207011,
-  "name": "TRI TUNGGAL"
+  "districtName": "SEMATU JAYA",
+  "name": "TRI TUNGGAL",
+  "postalCode": "34376"
  },
  {
   "id": 6207011006,
   "districtId": 6207011,
-  "name": "BINA BHAKTI"
+  "districtName": "SEMATU JAYA",
+  "name": "BINA BHAKTI",
+  "postalCode": "74162"
  },
  {
   "id": 6207011007,
   "districtId": 6207011,
-  "name": "HAMBAWANG"
+  "districtName": "SEMATU JAYA",
+  "name": "HAMBAWANG",
+  "postalCode": ""
  },
  {
   "id": 6207011008,
   "districtId": 6207011,
-  "name": "RIMBA JAYA"
+  "districtName": "SEMATU JAYA",
+  "name": "RIMBA JAYA",
+  "postalCode": "28556"
  }
 ]

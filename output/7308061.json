@@ -2,36 +2,50 @@
  {
   "id": 7308061001,
   "districtId": 7308061,
-  "name": "LABUAJA"
+  "districtName": "CENRANA",
+  "name": "LABUAJA",
+  "postalCode": "92754"
  },
  {
   "id": 7308061002,
   "districtId": 7308061,
-  "name": "LEBBOTENGNGAE"
+  "districtName": "CENRANA",
+  "name": "LEBBOTENGNGAE",
+  "postalCode": "92754"
  },
  {
   "id": 7308061003,
   "districtId": 7308061,
-  "name": "LAIYA"
+  "districtName": "CENRANA",
+  "name": "LAIYA",
+  "postalCode": "92754"
  },
  {
   "id": 7308061004,
   "districtId": 7308061,
-  "name": "CENRANA BARU"
+  "districtName": "CENRANA",
+  "name": "CENRANA BARU",
+  "postalCode": "92754"
  },
  {
   "id": 7308061005,
   "districtId": 7308061,
-  "name": "LIMAM POCCOE"
+  "districtName": "CENRANA",
+  "name": "LIMAM POCCOE",
+  "postalCode": "92754"
  },
  {
   "id": 7308061006,
   "districtId": 7308061,
-  "name": "ROMPE GADING"
+  "districtName": "CENRANA",
+  "name": "ROMPE GADING",
+  "postalCode": "92754"
  },
  {
   "id": 7308061007,
   "districtId": 7308061,
-  "name": "BAJI PAMAI"
+  "districtName": "CENRANA",
+  "name": "BAJI PAMAI",
+  "postalCode": "92754"
  }
 ]

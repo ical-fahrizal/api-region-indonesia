@@ -2,81 +2,113 @@
  {
   "id": 6305070001,
   "districtId": 6305070,
-  "name": "ANTASARI HILIR"
+  "districtName": "TAPIN UTARA",
+  "name": "ANTASARI HILIR",
+  "postalCode": "71114"
  },
  {
   "id": 6305070002,
   "districtId": 6305070,
-  "name": "ANTASARI"
+  "districtName": "TAPIN UTARA",
+  "name": "ANTASARI",
+  "postalCode": "71419"
  },
  {
   "id": 6305070003,
   "districtId": 6305070,
-  "name": "KUPANG"
+  "districtName": "TAPIN UTARA",
+  "name": "KUPANG",
+  "postalCode": "31461"
  },
  {
   "id": 6305070004,
   "districtId": 6305070,
-  "name": "RANGDA MALINGKUNG"
+  "districtName": "TAPIN UTARA",
+  "name": "RANGDA MALINGKUNG",
+  "postalCode": "71114"
  },
  {
   "id": 6305070005,
   "districtId": 6305070,
-  "name": "RANTAU KIWA"
+  "districtName": "TAPIN UTARA",
+  "name": "RANTAU KIWA",
+  "postalCode": "71111"
  },
  {
   "id": 6305070006,
   "districtId": 6305070,
-  "name": "PERINTIS RAYA"
+  "districtName": "TAPIN UTARA",
+  "name": "PERINTIS RAYA",
+  "postalCode": "71114"
  },
  {
   "id": 6305070007,
   "districtId": 6305070,
-  "name": "RANTAU KANAN"
+  "districtName": "TAPIN UTARA",
+  "name": "RANTAU KANAN",
+  "postalCode": "71112"
  },
  {
   "id": 6305070008,
   "districtId": 6305070,
-  "name": "BANUA HALAT KIRI"
+  "districtName": "TAPIN UTARA",
+  "name": "BANUA HALAT KIRI",
+  "postalCode": "71114"
  },
  {
   "id": 6305070009,
   "districtId": 6305070,
-  "name": "LUMBU RAYA"
+  "districtName": "TAPIN UTARA",
+  "name": "LUMBU RAYA",
+  "postalCode": "71114"
  },
  {
   "id": 6305070010,
   "districtId": 6305070,
-  "name": "KERAMAT"
+  "districtName": "TAPIN UTARA",
+  "name": "KERAMAT",
+  "postalCode": "33134"
  },
  {
   "id": 6305070011,
   "districtId": 6305070,
-  "name": "BANUA HALAT KANAN"
+  "districtName": "TAPIN UTARA",
+  "name": "BANUA HALAT KANAN",
+  "postalCode": "71114"
  },
  {
   "id": 6305070012,
   "districtId": 6305070,
-  "name": "JINGAH BABARIS"
+  "districtName": "TAPIN UTARA",
+  "name": "JINGAH BABARIS",
+  "postalCode": "71114"
  },
  {
   "id": 6305070013,
   "districtId": 6305070,
-  "name": "KAKARAN"
+  "districtName": "TAPIN UTARA",
+  "name": "KAKARAN",
+  "postalCode": "71114"
  },
  {
   "id": 6305070014,
   "districtId": 6305070,
-  "name": "BADAUN"
+  "districtName": "TAPIN UTARA",
+  "name": "BADAUN",
+  "postalCode": "71252"
  },
  {
   "id": 6305070015,
   "districtId": 6305070,
-  "name": "BANUA HANYAR HULU"
+  "districtName": "TAPIN UTARA",
+  "name": "BANUA HANYAR HULU",
+  "postalCode": "71114"
  },
  {
   "id": 6305070016,
   "districtId": 6305070,
-  "name": "BANUA HANYAR"
+  "districtName": "TAPIN UTARA",
+  "name": "BANUA HANYAR",
+  "postalCode": "71663"
  }
 ]

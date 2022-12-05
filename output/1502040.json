@@ -2,41 +2,57 @@
  {
   "id": 1502040004,
   "districtId": 1502040,
-  "name": "SUNGAI KAPAS"
+  "districtName": "BANGKO",
+  "name": "SUNGAI KAPAS",
+  "postalCode": "37311"
  },
  {
   "id": 1502040005,
   "districtId": 1502040,
-  "name": "LANGLING"
+  "districtName": "BANGKO",
+  "name": "LANGLING",
+  "postalCode": "37311"
  },
  {
   "id": 1502040006,
   "districtId": 1502040,
-  "name": "KUNGKAI"
+  "districtName": "BANGKO",
+  "name": "KUNGKAI",
+  "postalCode": "37311"
  },
  {
   "id": 1502040014,
   "districtId": 1502040,
-  "name": "KELURAHAN PASAR ATAS BANGKO"
+  "districtName": "BANGKO",
+  "name": "KELURAHAN PASAR ATAS BANGKO",
+  "postalCode": ""
  },
  {
   "id": 1502040016,
   "districtId": 1502040,
-  "name": "KELURAHAN PASAR BANGKO"
+  "districtName": "BANGKO",
+  "name": "KELURAHAN PASAR BANGKO",
+  "postalCode": ""
  },
  {
   "id": 1502040017,
   "districtId": 1502040,
-  "name": "KELURAHAN PEMATANG KANDIS"
+  "districtName": "BANGKO",
+  "name": "KELURAHAN PEMATANG KANDIS",
+  "postalCode": ""
  },
  {
   "id": 1502040018,
   "districtId": 1502040,
-  "name": "KELURAHAN DUSUN BANGKO"
+  "districtName": "BANGKO",
+  "name": "KELURAHAN DUSUN BANGKO",
+  "postalCode": ""
  },
  {
   "id": 1502040019,
   "districtId": 1502040,
-  "name": "DUSUN MUDO"
+  "districtName": "BANGKO",
+  "name": "DUSUN MUDO",
+  "postalCode": "36554"
  }
 ]

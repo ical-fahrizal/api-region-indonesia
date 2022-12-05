@@ -2,96 +2,134 @@
  {
   "id": 1610040024,
   "districtId": 1610040,
-  "name": "TANJUNG TEMIANG"
+  "districtName": "TANJUNG RAJA",
+  "name": "TANJUNG TEMIANG",
+  "postalCode": "30661"
  },
  {
   "id": 1610040028,
   "districtId": 1610040,
-  "name": "SERIDALAM"
+  "districtName": "TANJUNG RAJA",
+  "name": "SERIDALAM",
+  "postalCode": ""
  },
  {
   "id": 1610040030,
   "districtId": 1610040,
-  "name": "TANJUNG RAJA"
+  "districtName": "TANJUNG RAJA",
+  "name": "TANJUNG RAJA",
+  "postalCode": "20582"
  },
  {
   "id": 1610040031,
   "districtId": 1610040,
-  "name": "TANJUNG RAJA BARAT"
+  "districtName": "TANJUNG RAJA",
+  "name": "TANJUNG RAJA BARAT",
+  "postalCode": "30661"
  },
  {
   "id": 1610040032,
   "districtId": 1610040,
-  "name": "TANJUNG RAJA UTARA"
+  "districtName": "TANJUNG RAJA",
+  "name": "TANJUNG RAJA UTARA",
+  "postalCode": "30661"
  },
  {
   "id": 1610040035,
   "districtId": 1610040,
-  "name": "TALANG BALAI BARU I"
+  "districtName": "TANJUNG RAJA",
+  "name": "TALANG BALAI BARU I",
+  "postalCode": "30661"
  },
  {
   "id": 1610040036,
   "districtId": 1610040,
-  "name": "SIRING ALAM"
+  "districtName": "TANJUNG RAJA",
+  "name": "SIRING ALAM",
+  "postalCode": "30661"
  },
  {
   "id": 1610040037,
   "districtId": 1610040,
-  "name": "TANJUNG AGAS"
+  "districtName": "TANJUNG RAJA",
+  "name": "TANJUNG AGAS",
+  "postalCode": "30661"
  },
  {
   "id": 1610040038,
   "districtId": 1610040,
-  "name": "TALANG BALAI LAMA"
+  "districtName": "TANJUNG RAJA",
+  "name": "TALANG BALAI LAMA",
+  "postalCode": "30661"
  },
  {
   "id": 1610040045,
   "districtId": 1610040,
-  "name": "SUKA PINDAH"
+  "districtName": "TANJUNG RAJA",
+  "name": "SUKA PINDAH",
+  "postalCode": "32191"
  },
  {
   "id": 1610040046,
   "districtId": 1610040,
-  "name": "ULAK KERBAU LAMA"
+  "districtName": "TANJUNG RAJA",
+  "name": "ULAK KERBAU LAMA",
+  "postalCode": "30661"
  },
  {
   "id": 1610040047,
   "districtId": 1610040,
-  "name": "ULAK KERBAU BARU"
+  "districtName": "TANJUNG RAJA",
+  "name": "ULAK KERBAU BARU",
+  "postalCode": "30661"
  },
  {
   "id": 1610040048,
   "districtId": 1610040,
-  "name": "KERINJING"
+  "districtName": "TANJUNG RAJA",
+  "name": "KERINJING",
+  "postalCode": "30661"
  },
  {
   "id": 1610040049,
   "districtId": 1610040,
-  "name": "TANJUNG RAJA TIMUR"
+  "districtName": "TANJUNG RAJA",
+  "name": "TANJUNG RAJA TIMUR",
+  "postalCode": "30661"
  },
  {
   "id": 1610040050,
   "districtId": 1610040,
-  "name": "BELANTI"
+  "districtName": "TANJUNG RAJA",
+  "name": "BELANTI",
+  "postalCode": "30652"
  },
  {
   "id": 1610040051,
   "districtId": 1610040,
-  "name": "TANJUNG RAJA SELATAN"
+  "districtName": "TANJUNG RAJA",
+  "name": "TANJUNG RAJA SELATAN",
+  "postalCode": "30661"
  },
  {
   "id": 1610040052,
   "districtId": 1610040,
-  "name": "TALANG BALAI BARU II"
+  "districtName": "TANJUNG RAJA",
+  "name": "TALANG BALAI BARU II",
+  "postalCode": "30661"
  },
  {
   "id": 1610040053,
   "districtId": 1610040,
-  "name": "SKONJING"
+  "districtName": "TANJUNG RAJA",
+  "name": "SKONJING",
+  "postalCode": "30661"
  },
  {
   "id": 1610040054,
   "districtId": 1610040,
-  "name": "TANJUNG HARAPAN"
+  "districtName": "TANJUNG RAJA",
+  "name": "TANJUNG HARAPAN",
+  "postalCode": "23754"
  }
 ]

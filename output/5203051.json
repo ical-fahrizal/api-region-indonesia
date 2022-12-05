@@ -2,46 +2,64 @@
  {
   "id": 5203051002,
   "districtId": 5203051,
-  "name": "PRINGGASELA"
+  "districtName": "PRINGGASELA",
+  "name": "PRINGGASELA",
+  "postalCode": "83661"
  },
  {
   "id": 5203051003,
   "districtId": 5203051,
-  "name": "JURIT"
+  "districtName": "PRINGGASELA",
+  "name": "JURIT",
+  "postalCode": "83661"
  },
  {
   "id": 5203051004,
   "districtId": 5203051,
-  "name": "PENGADANGAN"
+  "districtName": "PRINGGASELA",
+  "name": "PENGADANGAN",
+  "postalCode": "83661"
  },
  {
   "id": 5203051005,
   "districtId": 5203051,
-  "name": "AIKDEWA"
+  "districtName": "PRINGGASELA",
+  "name": "AIKDEWA",
+  "postalCode": ""
  },
  {
   "id": 5203051006,
   "districtId": 5203051,
-  "name": "JURIT BARU"
+  "districtName": "PRINGGASELA",
+  "name": "JURIT BARU",
+  "postalCode": "83661"
  },
  {
   "id": 5203051007,
   "districtId": 5203051,
-  "name": "PRINGGASELA SELATAN"
+  "districtName": "PRINGGASELA",
+  "name": "PRINGGASELA SELATAN",
+  "postalCode": "83661"
  },
  {
   "id": 5203051008,
   "districtId": 5203051,
-  "name": "PENGADANGAN BARAT"
+  "districtName": "PRINGGASELA",
+  "name": "PENGADANGAN BARAT",
+  "postalCode": "83661"
  },
  {
   "id": 5203051009,
   "districtId": 5203051,
-  "name": "PRINGGASELA TIMUR"
+  "districtName": "PRINGGASELA",
+  "name": "PRINGGASELA TIMUR",
+  "postalCode": "83661"
  },
  {
   "id": 5203051010,
   "districtId": 5203051,
-  "name": "TIMBANUH"
+  "districtName": "PRINGGASELA",
+  "name": "TIMBANUH",
+  "postalCode": "83661"
  }
 ]

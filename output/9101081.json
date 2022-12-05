@@ -2,51 +2,71 @@
  {
   "id": 9101081004,
   "districtId": 9101081,
-  "name": "PATIPI PASIR"
+  "districtName": "TELUK PATIPI",
+  "name": "PATIPI PASIR",
+  "postalCode": "98661"
  },
  {
   "id": 9101081007,
   "districtId": 9101081,
-  "name": "PUAR"
+  "districtName": "TELUK PATIPI",
+  "name": "PUAR",
+  "postalCode": "98661"
  },
  {
   "id": 9101081008,
   "districtId": 9101081,
-  "name": "TIBATIBANANAM"
+  "districtName": "TELUK PATIPI",
+  "name": "TIBATIBANANAM",
+  "postalCode": "98661"
  },
  {
   "id": 9101081009,
   "districtId": 9101081,
-  "name": "OFFIE"
+  "districtName": "TELUK PATIPI",
+  "name": "OFFIE",
+  "postalCode": ""
  },
  {
   "id": 9101081012,
   "districtId": 9101081,
-  "name": "TETAR"
+  "districtName": "TELUK PATIPI",
+  "name": "TETAR",
+  "postalCode": "98661"
  },
  {
   "id": 9101081014,
   "districtId": 9101081,
-  "name": "PATIPI NUSA"
+  "districtName": "TELUK PATIPI",
+  "name": "PATIPI NUSA",
+  "postalCode": ""
  },
  {
   "id": 9101081015,
   "districtId": 9101081,
-  "name": "MAWAR"
+  "districtName": "TELUK PATIPI",
+  "name": "MAWAR",
+  "postalCode": "85881"
  },
  {
   "id": 9101081016,
   "districtId": 9101081,
-  "name": "ADORA"
+  "districtName": "TELUK PATIPI",
+  "name": "ADORA",
+  "postalCode": "98661"
  },
  {
   "id": 9101081018,
   "districtId": 9101081,
-  "name": "BISA"
+  "districtName": "TELUK PATIPI",
+  "name": "BISA",
+  "postalCode": ""
  },
  {
   "id": 9101081019,
   "districtId": 9101081,
-  "name": "MUHRIRI"
+  "districtName": "TELUK PATIPI",
+  "name": "MUHRIRI",
+  "postalCode": ""
  }
 ]

@@ -2,71 +2,99 @@
  {
   "id": 7404011001,
   "districtId": 7404011,
-  "name": "TONDOWOLIO"
+  "districtName": "TANGGETADA",
+  "name": "TONDOWOLIO",
+  "postalCode": "93563"
  },
  {
   "id": 7404011002,
   "districtId": 7404011,
-  "name": "POPALIA"
+  "districtName": "TANGGETADA",
+  "name": "POPALIA",
+  "postalCode": "93563"
  },
  {
   "id": 7404011003,
   "districtId": 7404011,
-  "name": "ANAIWOI"
+  "districtName": "TANGGETADA",
+  "name": "ANAIWOI",
+  "postalCode": "93118"
  },
  {
   "id": 7404011004,
   "districtId": 7404011,
-  "name": "TANGGETADA"
+  "districtName": "TANGGETADA",
+  "name": "TANGGETADA",
+  "postalCode": "93563"
  },
  {
   "id": 7404011005,
   "districtId": 7404011,
-  "name": "PETUDUA"
+  "districtName": "TANGGETADA",
+  "name": "PETUDUA",
+  "postalCode": "93563"
  },
  {
   "id": 7404011006,
   "districtId": 7404011,
-  "name": "RAHANGGADA"
+  "districtName": "TANGGETADA",
+  "name": "RAHANGGADA",
+  "postalCode": "93563"
  },
  {
   "id": 7404011007,
   "districtId": 7404011,
-  "name": "PEWISOA JAYA"
+  "districtName": "TANGGETADA",
+  "name": "PEWISOA JAYA",
+  "postalCode": ""
  },
  {
   "id": 7404011008,
   "districtId": 7404011,
-  "name": "LALONGGOLOSUA"
+  "districtName": "TANGGETADA",
+  "name": "LALONGGOLOSUA",
+  "postalCode": "93563"
  },
  {
   "id": 7404011009,
   "districtId": 7404011,
-  "name": "LAMEDAI"
+  "districtName": "TANGGETADA",
+  "name": "LAMEDAI",
+  "postalCode": "93563"
  },
  {
   "id": 7404011010,
   "districtId": 7404011,
-  "name": "PALEWAI"
+  "districtName": "TANGGETADA",
+  "name": "PALEWAI",
+  "postalCode": "93563"
  },
  {
   "id": 7404011011,
   "districtId": 7404011,
-  "name": "ONEEHA"
+  "districtName": "TANGGETADA",
+  "name": "ONEEHA",
+  "postalCode": "93563"
  },
  {
   "id": 7404011012,
   "districtId": 7404011,
-  "name": "PUUNDAIPA"
+  "districtName": "TANGGETADA",
+  "name": "PUUNDAIPA",
+  "postalCode": "93563"
  },
  {
   "id": 7404011013,
   "districtId": 7404011,
-  "name": "LAMOIKO"
+  "districtName": "TANGGETADA",
+  "name": "LAMOIKO",
+  "postalCode": "93563"
  },
  {
   "id": 7404011014,
   "districtId": 7404011,
-  "name": "TINGGO"
+  "districtName": "TANGGETADA",
+  "name": "TINGGO",
+  "postalCode": ""
  }
 ]

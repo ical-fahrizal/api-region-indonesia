@@ -2,56 +2,78 @@
  {
   "id": 1410031001,
   "districtId": 1410031,
-  "name": "BETING"
+  "districtName": "RANGSANG PESISIR",
+  "name": "BETING",
+  "postalCode": "28755"
  },
  {
   "id": 1410031002,
   "districtId": 1410031,
-  "name": "SOKOP"
+  "districtName": "RANGSANG PESISIR",
+  "name": "SOKOP",
+  "postalCode": "28755"
  },
  {
   "id": 1410031003,
   "districtId": 1410031,
-  "name": "BUNGUR"
+  "districtName": "RANGSANG PESISIR",
+  "name": "BUNGUR",
+  "postalCode": "28755"
  },
  {
   "id": 1410031004,
   "districtId": 1410031,
-  "name": "TANJUNG KEDABU"
+  "districtName": "RANGSANG PESISIR",
+  "name": "TANJUNG KEDABU",
+  "postalCode": "28755"
  },
  {
   "id": 1410031005,
   "districtId": 1410031,
-  "name": "TELESUNG"
+  "districtName": "RANGSANG PESISIR",
+  "name": "TELESUNG",
+  "postalCode": "28755"
  },
  {
   "id": 1410031006,
   "districtId": 1410031,
-  "name": "TENGGAYUN RAYA"
+  "districtName": "RANGSANG PESISIR",
+  "name": "TENGGAYUN RAYA",
+  "postalCode": "28755"
  },
  {
   "id": 1410031007,
   "districtId": 1410031,
-  "name": "SONDE"
+  "districtName": "RANGSANG PESISIR",
+  "name": "SONDE",
+  "postalCode": "28755"
  },
  {
   "id": 1410031008,
   "districtId": 1410031,
-  "name": "KAYU ARA"
+  "districtName": "RANGSANG PESISIR",
+  "name": "KAYU ARA",
+  "postalCode": "28755"
  },
  {
   "id": 1410031009,
   "districtId": 1410031,
-  "name": "TANAH MERAH"
+  "districtName": "RANGSANG PESISIR",
+  "name": "TANAH MERAH",
+  "postalCode": "24652"
  },
  {
   "id": 1410031010,
   "districtId": 1410031,
-  "name": "KEDABU RAPAT"
+  "districtName": "RANGSANG PESISIR",
+  "name": "KEDABU RAPAT",
+  "postalCode": "28755"
  },
  {
   "id": 1410031011,
   "districtId": 1410031,
-  "name": "SENDAUR"
+  "districtName": "RANGSANG PESISIR",
+  "name": "SENDAUR",
+  "postalCode": "28755"
  }
 ]

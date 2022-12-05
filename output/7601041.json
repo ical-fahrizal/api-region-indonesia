@@ -2,41 +2,57 @@
  {
   "id": 7601041001,
   "districtId": 7601041,
-  "name": "ULUMANDA"
+  "districtName": "ULUMANDA",
+  "name": "ULUMANDA",
+  "postalCode": "91453"
  },
  {
   "id": 7601041002,
   "districtId": 7601041,
-  "name": "SAMBABO"
+  "districtName": "ULUMANDA",
+  "name": "SAMBABO",
+  "postalCode": "91453"
  },
  {
   "id": 7601041003,
   "districtId": 7601041,
-  "name": "TANDEALLO"
+  "districtName": "ULUMANDA",
+  "name": "TANDEALLO",
+  "postalCode": "91453"
  },
  {
   "id": 7601041005,
   "districtId": 7601041,
-  "name": "KABIRAAN"
+  "districtName": "ULUMANDA",
+  "name": "KABIRAAN",
+  "postalCode": "91453"
  },
  {
   "id": 7601041006,
   "districtId": 7601041,
-  "name": "POPENGA"
+  "districtName": "ULUMANDA",
+  "name": "POPENGA",
+  "postalCode": "91453"
  },
  {
   "id": 7601041007,
   "districtId": 7601041,
-  "name": "SALUTAMBUNG"
+  "districtName": "ULUMANDA",
+  "name": "SALUTAMBUNG",
+  "postalCode": "91453"
  },
  {
   "id": 7601041008,
   "districtId": 7601041,
-  "name": "PANGGALO"
+  "districtName": "ULUMANDA",
+  "name": "PANGGALO",
+  "postalCode": "91453"
  },
  {
   "id": 7601041009,
   "districtId": 7601041,
-  "name": "SULAI"
+  "districtName": "ULUMANDA",
+  "name": "SULAI",
+  "postalCode": "91453"
  }
 ]

@@ -2,76 +2,106 @@
  {
   "id": 3504110001,
   "districtId": 3504110,
-  "name": "NGRANTI"
+  "districtName": "BOYOLANGU",
+  "name": "NGRANTI",
+  "postalCode": "66235"
  },
  {
   "id": 3504110002,
   "districtId": 3504110,
-  "name": "KENDALBULUR"
+  "districtName": "BOYOLANGU",
+  "name": "KENDALBULUR",
+  "postalCode": "66235"
  },
  {
   "id": 3504110003,
   "districtId": 3504110,
-  "name": "BOYOLANGU"
+  "districtName": "BOYOLANGU",
+  "name": "BOYOLANGU",
+  "postalCode": "66235"
  },
  {
   "id": 3504110004,
   "districtId": 3504110,
-  "name": "PUCUNG KIDUL"
+  "districtName": "BOYOLANGU",
+  "name": "PUCUNG KIDUL",
+  "postalCode": "53282"
  },
  {
   "id": 3504110005,
   "districtId": 3504110,
-  "name": "SANGGRAHAN"
+  "districtName": "BOYOLANGU",
+  "name": "SANGGRAHAN",
+  "postalCode": "57552"
  },
  {
   "id": 3504110006,
   "districtId": 3504110,
-  "name": "WAJAK KIDUL"
+  "districtName": "BOYOLANGU",
+  "name": "WAJAK KIDUL",
+  "postalCode": "66235"
  },
  {
   "id": 3504110007,
   "districtId": 3504110,
-  "name": "KARANGREJO"
+  "districtName": "BOYOLANGU",
+  "name": "KARANGREJO",
+  "postalCode": "35387"
  },
  {
   "id": 3504110008,
   "districtId": 3504110,
-  "name": "WAJAK LOR"
+  "districtName": "BOYOLANGU",
+  "name": "WAJAK LOR",
+  "postalCode": "66235"
  },
  {
   "id": 3504110010,
   "districtId": 3504110,
-  "name": "TANJUNGSARI"
+  "districtName": "BOYOLANGU",
+  "name": "TANJUNGSARI",
+  "postalCode": "28983"
  },
  {
   "id": 3504110012,
   "districtId": 3504110,
-  "name": "BEJI"
+  "districtName": "BOYOLANGU",
+  "name": "BEJI",
+  "postalCode": "16421"
  },
  {
   "id": 3504110013,
   "districtId": 3504110,
-  "name": "SOBONTORO"
+  "districtName": "BOYOLANGU",
+  "name": "SOBONTORO",
+  "postalCode": "62182"
  },
  {
   "id": 3504110014,
   "districtId": 3504110,
-  "name": "GEDANGSEWU"
+  "districtName": "BOYOLANGU",
+  "name": "GEDANGSEWU",
+  "postalCode": "66231"
  },
  {
   "id": 3504110015,
   "districtId": 3504110,
-  "name": "MOYOKETEN"
+  "districtName": "BOYOLANGU",
+  "name": "MOYOKETEN",
+  "postalCode": "66235"
  },
  {
   "id": 3504110016,
   "districtId": 3504110,
-  "name": "WAUNG"
+  "districtName": "BOYOLANGU",
+  "name": "WAUNG",
+  "postalCode": "64394"
  },
  {
   "id": 3504110017,
   "districtId": 3504110,
-  "name": "BONO"
+  "districtName": "BOYOLANGU",
+  "name": "BONO",
+  "postalCode": "57482"
  }
 ]

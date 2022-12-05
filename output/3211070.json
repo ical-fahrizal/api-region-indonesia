@@ -2,76 +2,106 @@
  {
   "id": 3211070001,
   "districtId": 3211070,
-  "name": "BANGBAYANG"
+  "districtName": "SITURAJA",
+  "name": "BANGBAYANG",
+  "postalCode": "43359"
  },
  {
   "id": 3211070002,
   "districtId": 3211070,
-  "name": "KADUWULUNG"
+  "districtName": "SITURAJA",
+  "name": "KADUWULUNG",
+  "postalCode": "45371"
  },
  {
   "id": 3211070011,
   "districtId": 3211070,
-  "name": "CIJATI"
+  "districtName": "SITURAJA",
+  "name": "CIJATI",
+  "postalCode": "43284"
  },
  {
   "id": 3211070012,
   "districtId": 3211070,
-  "name": "MEKARMULYA"
+  "districtName": "SITURAJA",
+  "name": "MEKARMULYA",
+  "postalCode": "45571"
  },
  {
   "id": 3211070013,
   "districtId": 3211070,
-  "name": "CIKADU"
+  "districtName": "SITURAJA",
+  "name": "CIKADU",
+  "postalCode": "41181"
  },
  {
   "id": 3211070014,
   "districtId": 3211070,
-  "name": "KARANGHEULEUT"
+  "districtName": "SITURAJA",
+  "name": "KARANGHEULEUT",
+  "postalCode": "45371"
  },
  {
   "id": 3211070015,
   "districtId": 3211070,
-  "name": "CIJELER"
+  "districtName": "SITURAJA",
+  "name": "CIJELER",
+  "postalCode": "45371"
  },
  {
   "id": 3211070016,
   "districtId": 3211070,
-  "name": "AMBIT"
+  "districtName": "SITURAJA",
+  "name": "AMBIT",
+  "postalCode": "45371"
  },
  {
   "id": 3211070017,
   "districtId": 3211070,
-  "name": "SUKATALI"
+  "districtName": "SITURAJA",
+  "name": "SUKATALI",
+  "postalCode": "45371"
  },
  {
   "id": 3211070018,
   "districtId": 3211070,
-  "name": "SITURAJA"
+  "districtName": "SITURAJA",
+  "name": "SITURAJA",
+  "postalCode": "45264"
  },
  {
   "id": 3211070019,
   "districtId": 3211070,
-  "name": "JATIMEKAR"
+  "districtName": "SITURAJA",
+  "name": "JATIMEKAR",
+  "postalCode": "40558"
  },
  {
   "id": 3211070020,
   "districtId": 3211070,
-  "name": "SITURAJA UTARA"
+  "districtName": "SITURAJA",
+  "name": "SITURAJA UTARA",
+  "postalCode": "45371"
  },
  {
   "id": 3211070021,
   "districtId": 3211070,
-  "name": "MALAKA"
+  "districtName": "SITURAJA",
+  "name": "MALAKA",
+  "postalCode": "23772"
  },
  {
   "id": 3211070022,
   "districtId": 3211070,
-  "name": "PAMULIHAN"
+  "districtName": "SITURAJA",
+  "name": "PAMULIHAN",
+  "postalCode": "45592"
  },
  {
   "id": 3211070023,
   "districtId": 3211070,
-  "name": "CICARIMANAH"
+  "districtName": "SITURAJA",
+  "name": "CICARIMANAH",
+  "postalCode": "45382"
  }
 ]

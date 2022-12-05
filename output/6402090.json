@@ -2,56 +2,78 @@
  {
   "id": 6402090011,
   "districtId": 6402090,
-  "name": "ANAH"
+  "districtName": "LONG IRAM",
+  "name": "ANAH",
+  "postalCode": "75766"
  },
  {
   "id": 6402090013,
   "districtId": 6402090,
-  "name": "MUARA LEBAN"
+  "districtName": "LONG IRAM",
+  "name": "MUARA LEBAN",
+  "postalCode": "75766"
  },
  {
   "id": 6402090014,
   "districtId": 6402090,
-  "name": "LONGIRAM SEBERANG"
+  "districtName": "LONG IRAM",
+  "name": "LONGIRAM SEBERANG",
+  "postalCode": "75766"
  },
  {
   "id": 6402090015,
   "districtId": 6402090,
-  "name": "LONG IRAM ILIR"
+  "districtName": "LONG IRAM",
+  "name": "LONG IRAM ILIR",
+  "postalCode": "75766"
  },
  {
   "id": 6402090016,
   "districtId": 6402090,
-  "name": "LONG IRAM KOTA"
+  "districtName": "LONG IRAM",
+  "name": "LONG IRAM KOTA",
+  "postalCode": "75766"
  },
  {
   "id": 6402090017,
   "districtId": 6402090,
-  "name": "LONG IRAM BAYAN"
+  "districtName": "LONG IRAM",
+  "name": "LONG IRAM BAYAN",
+  "postalCode": "75766"
  },
  {
   "id": 6402090018,
   "districtId": 6402090,
-  "name": "SUKO MULYO"
+  "districtName": "LONG IRAM",
+  "name": "SUKO MULYO",
+  "postalCode": "75766"
  },
  {
   "id": 6402090019,
   "districtId": 6402090,
-  "name": "LONG DALIQ"
+  "districtName": "LONG IRAM",
+  "name": "LONG DALIQ",
+  "postalCode": "75766"
  },
  {
   "id": 6402090020,
   "districtId": 6402090,
-  "name": "KELIWAY"
+  "districtName": "LONG IRAM",
+  "name": "KELIWAY",
+  "postalCode": "75766"
  },
  {
   "id": 6402090021,
   "districtId": 6402090,
-  "name": "UJOH HALANG"
+  "districtName": "LONG IRAM",
+  "name": "UJOH HALANG",
+  "postalCode": "75766"
  },
  {
   "id": 6402090022,
   "districtId": 6402090,
-  "name": "KALIAN LUAR"
+  "districtName": "LONG IRAM",
+  "name": "KALIAN LUAR",
+  "postalCode": "75766"
  }
 ]

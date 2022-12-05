@@ -2,56 +2,78 @@
  {
   "id": 3319080001,
   "districtId": 3319080,
-  "name": "GETASRABI"
+  "districtName": "GEBOG",
+  "name": "GETASRABI",
+  "postalCode": "59333"
  },
  {
   "id": 3319080002,
   "districtId": 3319080,
-  "name": "KLUMPIT"
+  "districtName": "GEBOG",
+  "name": "KLUMPIT",
+  "postalCode": "59333"
  },
  {
   "id": 3319080003,
   "districtId": 3319080,
-  "name": "GRIBIG"
+  "districtName": "GEBOG",
+  "name": "GRIBIG",
+  "postalCode": "59333"
  },
  {
   "id": 3319080004,
   "districtId": 3319080,
-  "name": "KARANG MALANG"
+  "districtName": "GEBOG",
+  "name": "KARANG MALANG",
+  "postalCode": "57282"
  },
  {
   "id": 3319080005,
   "districtId": 3319080,
-  "name": "PADURENAN"
+  "districtName": "GEBOG",
+  "name": "PADURENAN",
+  "postalCode": "16340"
  },
  {
   "id": 3319080006,
   "districtId": 3319080,
-  "name": "BESITO"
+  "districtName": "GEBOG",
+  "name": "BESITO",
+  "postalCode": "59333"
  },
  {
   "id": 3319080007,
   "districtId": 3319080,
-  "name": "JURANG"
+  "districtName": "GEBOG",
+  "name": "JURANG",
+  "postalCode": "59333"
  },
  {
   "id": 3319080008,
   "districtId": 3319080,
-  "name": "GONDOSARI"
+  "districtName": "GEBOG",
+  "name": "GONDOSARI",
+  "postalCode": "59333"
  },
  {
   "id": 3319080009,
   "districtId": 3319080,
-  "name": "KEDUNGSARI"
+  "districtName": "GEBOG",
+  "name": "KEDUNGSARI",
+  "postalCode": "28123"
  },
  {
   "id": 3319080010,
   "districtId": 3319080,
-  "name": "MENAWAN"
+  "districtName": "GEBOG",
+  "name": "MENAWAN",
+  "postalCode": "59333"
  },
  {
   "id": 3319080011,
   "districtId": 3319080,
-  "name": "RAHTAWU"
+  "districtName": "GEBOG",
+  "name": "RAHTAWU",
+  "postalCode": "59333"
  }
 ]

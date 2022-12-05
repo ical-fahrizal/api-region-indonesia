@@ -2,41 +2,57 @@
  {
   "id": 5310012009,
   "districtId": 5310012,
-  "name": "BU SELATAN"
+  "districtName": "TANA WAWO",
+  "name": "BU SELATAN",
+  "postalCode": "86153"
  },
  {
   "id": 5310012010,
   "districtId": 5310012,
-  "name": "DETUBINGA"
+  "districtName": "TANA WAWO",
+  "name": "DETUBINGA",
+  "postalCode": "86153"
  },
  {
   "id": 5310012011,
   "districtId": 5310012,
-  "name": "BU UTARA"
+  "districtName": "TANA WAWO",
+  "name": "BU UTARA",
+  "postalCode": "86153"
  },
  {
   "id": 5310012012,
   "districtId": 5310012,
-  "name": "BU WATUWETI"
+  "districtName": "TANA WAWO",
+  "name": "BU WATUWETI",
+  "postalCode": "86153"
  },
  {
   "id": 5310012013,
   "districtId": 5310012,
-  "name": "LOKE"
+  "districtName": "TANA WAWO",
+  "name": "LOKE",
+  "postalCode": "86153"
  },
  {
   "id": 5310012014,
   "districtId": 5310012,
-  "name": "RENGGARASI"
+  "districtName": "TANA WAWO",
+  "name": "RENGGARASI",
+  "postalCode": "86153"
  },
  {
   "id": 5310012018,
   "districtId": 5310012,
-  "name": "POMA"
+  "districtName": "TANA WAWO",
+  "name": "POMA",
+  "postalCode": "86153"
  },
  {
   "id": 5310012021,
   "districtId": 5310012,
-  "name": "TUWA"
+  "districtName": "TANA WAWO",
+  "name": "TUWA",
+  "postalCode": "86153"
  }
 ]

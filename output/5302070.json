@@ -2,36 +2,50 @@
  {
   "id": 5302070008,
   "districtId": 5302070,
-  "name": "KAMALAPUTI"
+  "districtName": "KOTA WAINGAPU",
+  "name": "KAMALAPUTI",
+  "postalCode": "87111"
  },
  {
   "id": 5302070009,
   "districtId": 5302070,
-  "name": "MATAWAI"
+  "districtName": "KOTA WAINGAPU",
+  "name": "MATAWAI",
+  "postalCode": "87116"
  },
  {
   "id": 5302070010,
   "districtId": 5302070,
-  "name": "HAMBALA"
+  "districtName": "KOTA WAINGAPU",
+  "name": "HAMBALA",
+  "postalCode": "87112"
  },
  {
   "id": 5302070011,
   "districtId": 5302070,
-  "name": "KAMBAJAWA"
+  "districtName": "KOTA WAINGAPU",
+  "name": "KAMBAJAWA",
+  "postalCode": "87116"
  },
  {
   "id": 5302070012,
   "districtId": 5302070,
-  "name": "MBATAKAPIDU"
+  "districtName": "KOTA WAINGAPU",
+  "name": "MBATAKAPIDU",
+  "postalCode": ""
  },
  {
   "id": 5302070013,
   "districtId": 5302070,
-  "name": "PAMBOTANJARA"
+  "districtName": "KOTA WAINGAPU",
+  "name": "PAMBOTANJARA",
+  "postalCode": ""
  },
  {
   "id": 5302070014,
   "districtId": 5302070,
-  "name": "LUKU KAMARU"
+  "districtName": "KOTA WAINGAPU",
+  "name": "LUKU KAMARU",
+  "postalCode": ""
  }
 ]

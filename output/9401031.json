@@ -2,31 +2,43 @@
  {
   "id": 9401031002,
   "districtId": 9401031,
-  "name": "RAWASARI"
+  "districtName": "MALIND",
+  "name": "RAWASARI",
+  "postalCode": "24185"
  },
  {
   "id": 9401031003,
   "districtId": 9401031,
-  "name": "KAIBURSE"
+  "districtName": "MALIND",
+  "name": "KAIBURSE",
+  "postalCode": ""
  },
  {
   "id": 9401031004,
   "districtId": 9401031,
-  "name": "PADANG RAHARJA"
+  "districtName": "MALIND",
+  "name": "PADANG RAHARJA",
+  "postalCode": "99656"
  },
  {
   "id": 9401031005,
   "districtId": 9401031,
-  "name": "ONGGARI"
+  "districtName": "MALIND",
+  "name": "ONGGARI",
+  "postalCode": "99656"
  },
  {
   "id": 9401031006,
   "districtId": 9401031,
-  "name": "SUKA MAJU"
+  "districtName": "MALIND",
+  "name": "SUKA MAJU",
+  "postalCode": "24673"
  },
  {
   "id": 9401031007,
   "districtId": 9401031,
-  "name": "DOMANDE"
+  "districtName": "MALIND",
+  "name": "DOMANDE",
+  "postalCode": "99656"
  }
 ]

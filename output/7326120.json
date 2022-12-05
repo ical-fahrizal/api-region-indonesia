@@ -2,36 +2,50 @@
  {
   "id": 7326120001,
   "districtId": 7326120,
-  "name": "LEMBANG PALANGI"
+  "districtName": "BALUSU",
+  "name": "LEMBANG PALANGI",
+  "postalCode": ""
  },
  {
   "id": 7326120002,
   "districtId": 7326120,
-  "name": "LEMBANG KARUA"
+  "districtName": "BALUSU",
+  "name": "LEMBANG KARUA",
+  "postalCode": ""
  },
  {
   "id": 7326120003,
   "districtId": 7326120,
-  "name": "LEMBANG LILIKIRA AO'GADING"
+  "districtName": "BALUSU",
+  "name": "LEMBANG LILIKIRA AO'GADING",
+  "postalCode": ""
  },
  {
   "id": 7326120004,
   "districtId": 7326120,
-  "name": "LEMBANG AWAK KAWASIK"
+  "districtName": "BALUSU",
+  "name": "LEMBANG AWAK KAWASIK",
+  "postalCode": ""
  },
  {
   "id": 7326120005,
   "districtId": 7326120,
-  "name": "KELURAHAN TAGARI"
+  "districtName": "BALUSU",
+  "name": "KELURAHAN TAGARI",
+  "postalCode": ""
  },
  {
   "id": 7326120006,
   "districtId": 7326120,
-  "name": "KELURAHAN  BALUSU"
+  "districtName": "BALUSU",
+  "name": "KELURAHAN  BALUSU",
+  "postalCode": ""
  },
  {
   "id": 7326120007,
   "districtId": 7326120,
-  "name": "LEMBANG BALUSU BANGUN LIPU"
+  "districtName": "BALUSU",
+  "name": "LEMBANG BALUSU BANGUN LIPU",
+  "postalCode": ""
  }
 ]

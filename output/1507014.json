@@ -2,51 +2,71 @@
  {
   "id": 1507014001,
   "districtId": 1507014,
-  "name": "LUBUK KAMBING"
+  "districtName": "RENAH MENDALUH",
+  "name": "LUBUK KAMBING",
+  "postalCode": "36554"
  },
  {
   "id": 1507014002,
   "districtId": 1507014,
-  "name": "SUNGAI ROTAN"
+  "districtName": "RENAH MENDALUH",
+  "name": "SUNGAI ROTAN",
+  "postalCode": "30661"
  },
  {
   "id": 1507014003,
   "districtId": 1507014,
-  "name": "CINTA DAMAI"
+  "districtName": "RENAH MENDALUH",
+  "name": "CINTA DAMAI",
+  "postalCode": "24673"
  },
  {
   "id": 1507014004,
   "districtId": 1507014,
-  "name": "LAMPISI"
+  "districtName": "RENAH MENDALUH",
+  "name": "LAMPISI",
+  "postalCode": "36554"
  },
  {
   "id": 1507014005,
   "districtId": 1507014,
-  "name": "PULAU PAUH"
+  "districtName": "RENAH MENDALUH",
+  "name": "PULAU PAUH",
+  "postalCode": "36554"
  },
  {
   "id": 1507014006,
   "districtId": 1507014,
-  "name": "RANTAU BENAR"
+  "districtName": "RENAH MENDALUH",
+  "name": "RANTAU BENAR",
+  "postalCode": "36554"
  },
  {
   "id": 1507014007,
   "districtId": 1507014,
-  "name": "MUARA DANAU"
+  "districtName": "RENAH MENDALUH",
+  "name": "MUARA DANAU",
+  "postalCode": "37482"
  },
  {
   "id": 1507014008,
   "districtId": 1507014,
-  "name": "TANAH TUMBUH"
+  "districtName": "RENAH MENDALUH",
+  "name": "TANAH TUMBUH",
+  "postalCode": "24786"
  },
  {
   "id": 1507014009,
   "districtId": 1507014,
-  "name": "SUNGAI PAUR"
+  "districtName": "RENAH MENDALUH",
+  "name": "SUNGAI PAUR",
+  "postalCode": ""
  },
  {
   "id": 1507014010,
   "districtId": 1507014,
-  "name": "BUKIT BAKAR"
+  "districtName": "RENAH MENDALUH",
+  "name": "BUKIT BAKAR",
+  "postalCode": "36554"
  }
 ]

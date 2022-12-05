@@ -2,61 +2,85 @@
  {
   "id": 7171030001,
   "districtId": 7171030,
-  "name": "BUMI BERINGIN"
+  "districtName": "WENANG",
+  "name": "BUMI BERINGIN",
+  "postalCode": "95113"
  },
  {
   "id": 7171030002,
   "districtId": 7171030,
-  "name": "TELING BAWAH"
+  "districtName": "WENANG",
+  "name": "TELING BAWAH",
+  "postalCode": "95119"
  },
  {
   "id": 7171030010,
   "districtId": 7171030,
-  "name": "TIKALA KUMARAKA"
+  "districtName": "WENANG",
+  "name": "TIKALA KUMARAKA",
+  "postalCode": "95124"
  },
  {
   "id": 7171030011,
   "districtId": 7171030,
-  "name": "MAHAKERET BARAT"
+  "districtName": "WENANG",
+  "name": "MAHAKERET BARAT",
+  "postalCode": "95112"
  },
  {
   "id": 7171030012,
   "districtId": 7171030,
-  "name": "MAHAKERET TIMUR"
+  "districtName": "WENANG",
+  "name": "MAHAKERET TIMUR",
+  "postalCode": "95112"
  },
  {
   "id": 7171030013,
   "districtId": 7171030,
-  "name": "WENANG UTARA"
+  "districtName": "WENANG",
+  "name": "WENANG UTARA",
+  "postalCode": "95111"
  },
  {
   "id": 7171030014,
   "districtId": 7171030,
-  "name": "WENANG SELATAN"
+  "districtName": "WENANG",
+  "name": "WENANG SELATAN",
+  "postalCode": "95111"
  },
  {
   "id": 7171030015,
   "districtId": 7171030,
-  "name": "LAWANGIRUNG"
+  "districtName": "WENANG",
+  "name": "LAWANGIRUNG",
+  "postalCode": ""
  },
  {
   "id": 7171030016,
   "districtId": 7171030,
-  "name": "KOMO LUAR"
+  "districtName": "WENANG",
+  "name": "KOMO LUAR",
+  "postalCode": "95122"
  },
  {
   "id": 7171030017,
   "districtId": 7171030,
-  "name": "PINAESAAN"
+  "districtName": "WENANG",
+  "name": "PINAESAAN",
+  "postalCode": "95357"
  },
  {
   "id": 7171030018,
   "districtId": 7171030,
-  "name": "ISTIQLAL"
+  "districtName": "WENANG",
+  "name": "ISTIQLAL",
+  "postalCode": "95121"
  },
  {
   "id": 7171030019,
   "districtId": 7171030,
-  "name": "CALACA"
+  "districtName": "WENANG",
+  "name": "CALACA",
+  "postalCode": "95121"
  }
 ]

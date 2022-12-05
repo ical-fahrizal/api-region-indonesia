@@ -2,31 +2,43 @@
  {
   "id": 9426010014,
   "districtId": 9426010,
-  "name": "SAWARA JAYA SP VI"
+  "districtName": "WAROPEN BAWAH",
+  "name": "SAWARA JAYA SP VI",
+  "postalCode": ""
  },
  {
   "id": 9426010015,
   "districtId": 9426010,
-  "name": "WAREN SATU"
+  "districtName": "WAROPEN BAWAH",
+  "name": "WAREN SATU",
+  "postalCode": ""
  },
  {
   "id": 9426010016,
   "districtId": 9426010,
-  "name": "WAREN DUA"
+  "districtName": "WAROPEN BAWAH",
+  "name": "WAREN DUA",
+  "postalCode": ""
  },
  {
   "id": 9426010017,
   "districtId": 9426010,
-  "name": "SARAFAMBAI"
+  "districtName": "WAROPEN BAWAH",
+  "name": "SARAFAMBAI",
+  "postalCode": "98461"
  },
  {
   "id": 9426010018,
   "districtId": 9426010,
-  "name": "NONOMI"
+  "districtName": "WAROPEN BAWAH",
+  "name": "NONOMI",
+  "postalCode": "98261"
  },
  {
   "id": 9426010030,
   "districtId": 9426010,
-  "name": "BATU ZAMAN"
+  "districtName": "WAROPEN BAWAH",
+  "name": "BATU ZAMAN",
+  "postalCode": "98461"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 1105081001,
   "districtId": 1105081,
-  "name": "HTI RANTO NARO"
+  "districtName": "SIMPANG JERNIH",
+  "name": "HTI RANTO NARO",
+  "postalCode": "24458"
  },
  {
   "id": 1105081002,
   "districtId": 1105081,
-  "name": "TAMPUR BOOR"
+  "districtName": "SIMPANG JERNIH",
+  "name": "TAMPUR BOOR",
+  "postalCode": ""
  },
  {
   "id": 1105081003,
   "districtId": 1105081,
-  "name": "TAMPOR PALOH"
+  "districtName": "SIMPANG JERNIH",
+  "name": "TAMPOR PALOH",
+  "postalCode": ""
  },
  {
   "id": 1105081004,
   "districtId": 1105081,
-  "name": "MELIDI"
+  "districtName": "SIMPANG JERNIH",
+  "name": "MELIDI",
+  "postalCode": "24458"
  },
  {
   "id": 1105081005,
   "districtId": 1105081,
-  "name": "BATU SUMBANG"
+  "districtName": "SIMPANG JERNIH",
+  "name": "BATU SUMBANG",
+  "postalCode": "24458"
  },
  {
   "id": 1105081006,
   "districtId": 1105081,
-  "name": "SIMPANG JERNIH"
+  "districtName": "SIMPANG JERNIH",
+  "name": "SIMPANG JERNIH",
+  "postalCode": "24458"
  },
  {
   "id": 1105081007,
   "districtId": 1105081,
-  "name": "PANTE KERA"
+  "districtName": "SIMPANG JERNIH",
+  "name": "PANTE KERA",
+  "postalCode": "24458"
  },
  {
   "id": 1105081008,
   "districtId": 1105081,
-  "name": "RANTAU PANJANG"
+  "districtName": "SIMPANG JERNIH",
+  "name": "RANTAU PANJANG",
+  "postalCode": "24476"
  }
 ]

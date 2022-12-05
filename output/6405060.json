@@ -2,31 +2,43 @@
  {
   "id": 6405060003,
   "districtId": 6405060,
-  "name": "SUNGAI BEDUNGUN"
+  "districtName": "TANJUNG REDEB",
+  "name": "SUNGAI BEDUNGUN",
+  "postalCode": ""
  },
  {
   "id": 6405060004,
   "districtId": 6405060,
-  "name": "TANJUNG REDEB"
+  "districtName": "TANJUNG REDEB",
+  "name": "TANJUNG REDEB",
+  "postalCode": "77315"
  },
  {
   "id": 6405060005,
   "districtId": 6405060,
-  "name": "BUGIS"
+  "districtName": "TANJUNG REDEB",
+  "name": "BUGIS",
+  "postalCode": "45256"
  },
  {
   "id": 6405060006,
   "districtId": 6405060,
-  "name": "GUNUNG PANJANG"
+  "districtName": "TANJUNG REDEB",
+  "name": "GUNUNG PANJANG",
+  "postalCode": "77311"
  },
  {
   "id": 6405060007,
   "districtId": 6405060,
-  "name": "KARANG AMBUN"
+  "districtName": "TANJUNG REDEB",
+  "name": "KARANG AMBUN",
+  "postalCode": "77315"
  },
  {
   "id": 6405060008,
   "districtId": 6405060,
-  "name": "GAYAM"
+  "districtName": "TANJUNG REDEB",
+  "name": "GAYAM",
+  "postalCode": "35592"
  }
 ]

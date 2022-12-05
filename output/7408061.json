@@ -2,41 +2,57 @@
  {
   "id": 7408061001,
   "districtId": 7408061,
-  "name": "TOBELA"
+  "districtName": "POREHU",
+  "name": "TOBELA",
+  "postalCode": "93955"
  },
  {
   "id": 7408061002,
   "districtId": 7408061,
-  "name": "TANGGA RURU"
+  "districtName": "POREHU",
+  "name": "TANGGA RURU",
+  "postalCode": "93955"
  },
  {
   "id": 7408061003,
   "districtId": 7408061,
-  "name": "POREHU"
+  "districtName": "POREHU",
+  "name": "POREHU",
+  "postalCode": "93955"
  },
  {
   "id": 7408061004,
   "districtId": 7408061,
-  "name": "PONGGI"
+  "districtName": "POREHU",
+  "name": "PONGGI",
+  "postalCode": "93955"
  },
  {
   "id": 7408061005,
   "districtId": 7408061,
-  "name": "LARUI"
+  "districtName": "POREHU",
+  "name": "LARUI",
+  "postalCode": "93955"
  },
  {
   "id": 7408061006,
   "districtId": 7408061,
-  "name": "BANGSALA"
+  "districtName": "POREHU",
+  "name": "BANGSALA",
+  "postalCode": "93955"
  },
  {
   "id": 7408061007,
   "districtId": 7408061,
-  "name": "SARAMBU"
+  "districtName": "POREHU",
+  "name": "SARAMBU",
+  "postalCode": "91854"
  },
  {
   "id": 7408061008,
   "districtId": 7408061,
-  "name": "TINUNA"
+  "districtName": "POREHU",
+  "name": "TINUNA",
+  "postalCode": "93955"
  }
 ]

@@ -2,61 +2,85 @@
  {
   "id": 6110051001,
   "districtId": 6110051,
-  "name": "NANGA PINTAS"
+  "districtName": "PINOH SELATAN",
+  "name": "NANGA PINTAS",
+  "postalCode": "79672"
  },
  {
   "id": 6110051002,
   "districtId": 6110051,
-  "name": "MANDAU BARU"
+  "districtName": "PINOH SELATAN",
+  "name": "MANDAU BARU",
+  "postalCode": "79672"
  },
  {
   "id": 6110051003,
   "districtId": 6110051,
-  "name": "NANGA KELAWAI"
+  "districtName": "PINOH SELATAN",
+  "name": "NANGA KELAWAI",
+  "postalCode": "79672"
  },
  {
   "id": 6110051004,
   "districtId": 6110051,
-  "name": "SENEMPAK"
+  "districtName": "PINOH SELATAN",
+  "name": "SENEMPAK",
+  "postalCode": "79672"
  },
  {
   "id": 6110051005,
   "districtId": 6110051,
-  "name": "LANDAU GARONG"
+  "districtName": "PINOH SELATAN",
+  "name": "LANDAU GARONG",
+  "postalCode": "79672"
  },
  {
   "id": 6110051006,
   "districtId": 6110051,
-  "name": "SUNGAI BAKAH"
+  "districtName": "PINOH SELATAN",
+  "name": "SUNGAI BAKAH",
+  "postalCode": ""
  },
  {
   "id": 6110051007,
   "districtId": 6110051,
-  "name": "NYANGGAI"
+  "districtName": "PINOH SELATAN",
+  "name": "NYANGGAI",
+  "postalCode": "79672"
  },
  {
   "id": 6110051008,
   "districtId": 6110051,
-  "name": "BAYUR RAYA"
+  "districtName": "PINOH SELATAN",
+  "name": "BAYUR RAYA",
+  "postalCode": "79672"
  },
  {
   "id": 6110051009,
   "districtId": 6110051,
-  "name": "BINA JAYA"
+  "districtName": "PINOH SELATAN",
+  "name": "BINA JAYA",
+  "postalCode": "79672"
  },
  {
   "id": 6110051010,
   "districtId": 6110051,
-  "name": "PELINGGANG"
+  "districtName": "PINOH SELATAN",
+  "name": "PELINGGANG",
+  "postalCode": "79672"
  },
  {
   "id": 6110051011,
   "districtId": 6110051,
-  "name": "MANGGALA"
+  "districtName": "PINOH SELATAN",
+  "name": "MANGGALA",
+  "postalCode": "79672"
  },
  {
   "id": 6110051012,
   "districtId": 6110051,
-  "name": "LANDAU TUBUN"
+  "districtName": "PINOH SELATAN",
+  "name": "LANDAU TUBUN",
+  "postalCode": "79672"
  }
 ]

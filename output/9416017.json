@@ -2,56 +2,78 @@
  {
   "id": 9416017003,
   "districtId": 9416017,
-  "name": "GOPA"
+  "districtName": "SURU-SURU",
+  "name": "GOPA",
+  "postalCode": ""
  },
  {
   "id": 9416017004,
   "districtId": 9416017,
-  "name": "TIL"
+  "districtName": "SURU-SURU",
+  "name": "TIL",
+  "postalCode": ""
  },
  {
   "id": 9416017005,
   "districtId": 9416017,
-  "name": "JIFAK"
+  "districtName": "SURU-SURU",
+  "name": "JIFAK",
+  "postalCode": "99778"
  },
  {
   "id": 9416017006,
   "districtId": 9416017,
-  "name": "JINUSUGU"
+  "districtName": "SURU-SURU",
+  "name": "JINUSUGU",
+  "postalCode": "99571"
  },
  {
   "id": 9416017007,
   "districtId": 9416017,
-  "name": "SAGAPUT"
+  "districtName": "SURU-SURU",
+  "name": "SAGAPUT",
+  "postalCode": ""
  },
  {
   "id": 9416017008,
   "districtId": 9416017,
-  "name": "TOMOR"
+  "districtName": "SURU-SURU",
+  "name": "TOMOR",
+  "postalCode": "99778"
  },
  {
   "id": 9416017009,
   "districtId": 9416017,
-  "name": "WOROPI"
+  "districtName": "SURU-SURU",
+  "name": "WOROPI",
+  "postalCode": ""
  },
  {
   "id": 9416017010,
   "districtId": 9416017,
-  "name": "SENIPAN"
+  "districtName": "SURU-SURU",
+  "name": "SENIPAN",
+  "postalCode": "99571"
  },
  {
   "id": 9416017011,
   "districtId": 9416017,
-  "name": "YOSUA"
+  "districtName": "SURU-SURU",
+  "name": "YOSUA",
+  "postalCode": "99571"
  },
  {
   "id": 9416017012,
   "districtId": 9416017,
-  "name": "RENTIS"
+  "districtName": "SURU-SURU",
+  "name": "RENTIS",
+  "postalCode": "99571"
  },
  {
   "id": 9416017013,
   "districtId": 9416017,
-  "name": "SOLOK"
+  "districtName": "SURU-SURU",
+  "name": "SOLOK",
+  "postalCode": "36373"
  }
 ]

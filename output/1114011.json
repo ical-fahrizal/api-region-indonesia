@@ -2,76 +2,106 @@
  {
   "id": 1114011001,
   "districtId": 1114011,
-  "name": "JAMBO RAMBONG"
+  "districtName": "BANDAR PUSAKA",
+  "name": "JAMBO RAMBONG",
+  "postalCode": ""
  },
  {
   "id": 1114011002,
   "districtId": 1114011,
-  "name": "BLANG KANDIS"
+  "districtName": "BANDAR PUSAKA",
+  "name": "BLANG KANDIS",
+  "postalCode": "24478"
  },
  {
   "id": 1114011003,
   "districtId": 1114011,
-  "name": "PERK ALUR JAMBU"
+  "districtName": "BANDAR PUSAKA",
+  "name": "PERK ALUR JAMBU",
+  "postalCode": ""
  },
  {
   "id": 1114011004,
   "districtId": 1114011,
-  "name": "ARAS SEMBILAN"
+  "districtName": "BANDAR PUSAKA",
+  "name": "ARAS SEMBILAN",
+  "postalCode": "24478"
  },
  {
   "id": 1114011005,
   "districtId": 1114011,
-  "name": "ALUR JAMBU"
+  "districtName": "BANDAR PUSAKA",
+  "name": "ALUR JAMBU",
+  "postalCode": "24478"
  },
  {
   "id": 1114011006,
   "districtId": 1114011,
-  "name": "BATANG ARA"
+  "districtName": "BANDAR PUSAKA",
+  "name": "BATANG ARA",
+  "postalCode": "24478"
  },
  {
   "id": 1114011007,
   "districtId": 1114011,
-  "name": "PERUPUK"
+  "districtName": "BANDAR PUSAKA",
+  "name": "PERUPUK",
+  "postalCode": "24478"
  },
  {
   "id": 1114011008,
   "districtId": 1114011,
-  "name": "SERBA"
+  "districtName": "BANDAR PUSAKA",
+  "name": "SERBA",
+  "postalCode": "24478"
  },
  {
   "id": 1114011009,
   "districtId": 1114011,
-  "name": "SUNTING"
+  "districtName": "BANDAR PUSAKA",
+  "name": "SUNTING",
+  "postalCode": "24478"
  },
  {
   "id": 1114011010,
   "districtId": 1114011,
-  "name": "RANTAU BINTANG"
+  "districtName": "BANDAR PUSAKA",
+  "name": "RANTAU BINTANG",
+  "postalCode": "24478"
  },
  {
   "id": 1114011011,
   "districtId": 1114011,
-  "name": "BABO"
+  "districtName": "BANDAR PUSAKA",
+  "name": "BABO",
+  "postalCode": "24478"
  },
  {
   "id": 1114011012,
   "districtId": 1114011,
-  "name": "PANTAI CEMPA"
+  "districtName": "BANDAR PUSAKA",
+  "name": "PANTAI CEMPA",
+  "postalCode": "24478"
  },
  {
   "id": 1114011013,
   "districtId": 1114011,
-  "name": "PENGIDAM"
+  "districtName": "BANDAR PUSAKA",
+  "name": "PENGIDAM",
+  "postalCode": "24478"
  },
  {
   "id": 1114011014,
   "districtId": 1114011,
-  "name": "BENGKELANG"
+  "districtName": "BANDAR PUSAKA",
+  "name": "BENGKELANG",
+  "postalCode": "24478"
  },
  {
   "id": 1114011015,
   "districtId": 1114011,
-  "name": "BATU BEDULANG"
+  "districtName": "BANDAR PUSAKA",
+  "name": "BATU BEDULANG",
+  "postalCode": "24478"
  }
 ]

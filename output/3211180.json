@@ -2,66 +2,92 @@
  {
   "id": 3211180001,
   "districtId": 3211180,
-  "name": "SEKARWANGI"
+  "districtName": "BUAHDUA",
+  "name": "SEKARWANGI",
+  "postalCode": "45392"
  },
  {
   "id": 3211180002,
   "districtId": 3211180,
-  "name": "CILANGKAP"
+  "districtName": "BUAHDUA",
+  "name": "CILANGKAP",
+  "postalCode": "13870"
  },
  {
   "id": 3211180003,
   "districtId": 3211180,
-  "name": "CIBITUNG"
+  "districtName": "BUAHDUA",
+  "name": "CIBITUNG",
+  "postalCode": "45392"
  },
  {
   "id": 3211180004,
   "districtId": 3211180,
-  "name": "CIKURUBUK"
+  "districtName": "BUAHDUA",
+  "name": "CIKURUBUK",
+  "postalCode": "45392"
  },
  {
   "id": 3211180005,
   "districtId": 3211180,
-  "name": "BOJONGLOA"
+  "districtName": "BUAHDUA",
+  "name": "BOJONGLOA",
+  "postalCode": "45392"
  },
  {
   "id": 3211180006,
   "districtId": 3211180,
-  "name": "NAGRAK"
+  "districtName": "BUAHDUA",
+  "name": "NAGRAK",
+  "postalCode": "45392"
  },
  {
   "id": 3211180007,
   "districtId": 3211180,
-  "name": "PANYINDANGAN"
+  "districtName": "BUAHDUA",
+  "name": "PANYINDANGAN",
+  "postalCode": "45468"
  },
  {
   "id": 3211180008,
   "districtId": 3211180,
-  "name": "BUAHDUA"
+  "districtName": "BUAHDUA",
+  "name": "BUAHDUA",
+  "postalCode": "45392"
  },
  {
   "id": 3211180010,
   "districtId": 3211180,
-  "name": "CITALEUS"
+  "districtName": "BUAHDUA",
+  "name": "CITALEUS",
+  "postalCode": "45392"
  },
  {
   "id": 3211180011,
   "districtId": 3211180,
-  "name": "MEKARMUKTI"
+  "districtName": "BUAHDUA",
+  "name": "MEKARMUKTI",
+  "postalCode": "45392"
  },
  {
   "id": 3211180012,
   "districtId": 3211180,
-  "name": "HARIANG"
+  "districtName": "BUAHDUA",
+  "name": "HARIANG",
+  "postalCode": "45392"
  },
  {
   "id": 3211180014,
   "districtId": 3211180,
-  "name": "KARANGBUNGUR"
+  "districtName": "BUAHDUA",
+  "name": "KARANGBUNGUR",
+  "postalCode": "45392"
  },
  {
   "id": 3211180015,
   "districtId": 3211180,
-  "name": "CIAWITALI"
+  "districtName": "BUAHDUA",
+  "name": "CIAWITALI",
+  "postalCode": "45392"
  }
 ]

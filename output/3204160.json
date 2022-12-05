@@ -2,56 +2,78 @@
  {
   "id": 3204160001,
   "districtId": 3204160,
-  "name": "MEKARJAYA"
+  "districtName": "BANJARAN",
+  "name": "MEKARJAYA",
+  "postalCode": "30653"
  },
  {
   "id": 3204160002,
   "districtId": 3204160,
-  "name": "BANJARAN WETAN"
+  "districtName": "BANJARAN",
+  "name": "BANJARAN WETAN",
+  "postalCode": "40377"
  },
  {
   "id": 3204160003,
   "districtId": 3204160,
-  "name": "CIAPUS"
+  "districtName": "BANJARAN",
+  "name": "CIAPUS",
+  "postalCode": "40377"
  },
  {
   "id": 3204160004,
   "districtId": 3204160,
-  "name": "SINDANGPANON"
+  "districtName": "BANJARAN",
+  "name": "SINDANGPANON",
+  "postalCode": "40377"
  },
  {
   "id": 3204160005,
   "districtId": 3204160,
-  "name": "NEGLASARI"
+  "districtName": "BANJARAN",
+  "name": "NEGLASARI",
+  "postalCode": "35452"
  },
  {
   "id": 3204160006,
   "districtId": 3204160,
-  "name": "MARGAHURIP"
+  "districtName": "BANJARAN",
+  "name": "MARGAHURIP",
+  "postalCode": "40377"
  },
  {
   "id": 3204160007,
   "districtId": 3204160,
-  "name": "KIANGROKE"
+  "districtName": "BANJARAN",
+  "name": "KIANGROKE",
+  "postalCode": "40377"
  },
  {
   "id": 3204160008,
   "districtId": 3204160,
-  "name": "KAMASAN"
+  "districtName": "BANJARAN",
+  "name": "KAMASAN",
+  "postalCode": "40377"
  },
  {
   "id": 3204160009,
   "districtId": 3204160,
-  "name": "BANJARAN"
+  "districtName": "BANJARAN",
+  "name": "BANJARAN",
+  "postalCode": "35451"
  },
  {
   "id": 3204160010,
   "districtId": 3204160,
-  "name": "TARAJUSARI"
+  "districtName": "BANJARAN",
+  "name": "TARAJUSARI",
+  "postalCode": "40377"
  },
  {
   "id": 3204160011,
   "districtId": 3204160,
-  "name": "PASIRMULYA"
+  "districtName": "BANJARAN",
+  "name": "PASIRMULYA",
+  "postalCode": "40377"
  }
 ]

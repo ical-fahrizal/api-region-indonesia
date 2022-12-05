@@ -2,61 +2,85 @@
  {
   "id": 7101026001,
   "districtId": 7101026,
-  "name": "SINIYUNG"
+  "districtName": "DUMOGA",
+  "name": "SINIYUNG",
+  "postalCode": "95772"
  },
  {
   "id": 7101026002,
   "districtId": 7101026,
-  "name": "SINIYUNG I"
+  "districtName": "DUMOGA",
+  "name": "SINIYUNG I",
+  "postalCode": ""
  },
  {
   "id": 7101026003,
   "districtId": 7101026,
-  "name": "BUMBUNGON"
+  "districtName": "DUMOGA",
+  "name": "BUMBUNGON",
+  "postalCode": "95772"
  },
  {
   "id": 7101026004,
   "districtId": 7101026,
-  "name": "SERASI"
+  "districtName": "DUMOGA",
+  "name": "SERASI",
+  "postalCode": "95772"
  },
  {
   "id": 7101026005,
   "districtId": 7101026,
-  "name": "MOTOTABIAN"
+  "districtName": "DUMOGA",
+  "name": "MOTOTABIAN",
+  "postalCode": "95772"
  },
  {
   "id": 7101026006,
   "districtId": 7101026,
-  "name": "PONOMPIAAN"
+  "districtName": "DUMOGA",
+  "name": "PONOMPIAAN",
+  "postalCode": ""
  },
  {
   "id": 7101026007,
   "districtId": 7101026,
-  "name": "PUSIAN"
+  "districtName": "DUMOGA",
+  "name": "PUSIAN",
+  "postalCode": "95772"
  },
  {
   "id": 7101026008,
   "districtId": 7101026,
-  "name": "KANAAN"
+  "districtName": "DUMOGA",
+  "name": "KANAAN",
+  "postalCode": "75383"
  },
  {
   "id": 7101026009,
   "districtId": 7101026,
-  "name": "TORUAKAT"
+  "districtName": "DUMOGA",
+  "name": "TORUAKAT",
+  "postalCode": "95772"
  },
  {
   "id": 7101026010,
   "districtId": 7101026,
-  "name": "DUMOGA I"
+  "districtName": "DUMOGA",
+  "name": "DUMOGA I",
+  "postalCode": "95772"
  },
  {
   "id": 7101026011,
   "districtId": 7101026,
-  "name": "PUSIAN BARAT"
+  "districtName": "DUMOGA",
+  "name": "PUSIAN BARAT",
+  "postalCode": ""
  },
  {
   "id": 7101026012,
   "districtId": 7101026,
-  "name": "PUSIAN SELATAN"
+  "districtName": "DUMOGA",
+  "name": "PUSIAN SELATAN",
+  "postalCode": ""
  }
 ]

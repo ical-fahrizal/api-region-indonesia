@@ -2,41 +2,57 @@
  {
   "id": 9429060002,
   "districtId": 9429060,
-  "name": "EKILAPOK"
+  "districtName": "YIGI",
+  "name": "EKILAPOK",
+  "postalCode": ""
  },
  {
   "id": 9429060011,
   "districtId": 9429060,
-  "name": "KARUNGGAME"
+  "districtName": "YIGI",
+  "name": "KARUNGGAME",
+  "postalCode": "99567"
  },
  {
   "id": 9429060013,
   "districtId": 9429060,
-  "name": "DISENDOBO"
+  "districtName": "YIGI",
+  "name": "DISENDOBO",
+  "postalCode": "99564"
  },
  {
   "id": 9429060014,
   "districtId": 9429060,
-  "name": "SUMBO"
+  "districtName": "YIGI",
+  "name": "SUMBO",
+  "postalCode": "99564"
  },
  {
   "id": 9429060015,
   "districtId": 9429060,
-  "name": "YEBADOLA"
+  "districtName": "YIGI",
+  "name": "YEBADOLA",
+  "postalCode": ""
  },
  {
   "id": 9429060035,
   "districtId": 9429060,
-  "name": "WIRITLAK"
+  "districtName": "YIGI",
+  "name": "WIRITLAK",
+  "postalCode": "99564"
  },
  {
   "id": 9429060036,
   "districtId": 9429060,
-  "name": "DELSA"
+  "districtName": "YIGI",
+  "name": "DELSA",
+  "postalCode": "99564"
  },
  {
   "id": 9429060037,
   "districtId": 9429060,
-  "name": "BOROIT"
+  "districtName": "YIGI",
+  "name": "BOROIT",
+  "postalCode": ""
  }
 ]

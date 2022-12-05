@@ -2,21 +2,29 @@
  {
   "id": 9108043001,
   "districtId": 9108043,
-  "name": "WAISAI"
+  "districtName": "KOTA WAISAI",
+  "name": "WAISAI",
+  "postalCode": "98482"
  },
  {
   "id": 9108043002,
   "districtId": 9108043,
-  "name": "SAPORDANCO"
+  "districtName": "KOTA WAISAI",
+  "name": "SAPORDANCO",
+  "postalCode": "98482"
  },
  {
   "id": 9108043003,
   "districtId": 9108043,
-  "name": "BONKAWIR"
+  "districtName": "KOTA WAISAI",
+  "name": "BONKAWIR",
+  "postalCode": ""
  },
  {
   "id": 9108043004,
   "districtId": 9108043,
-  "name": "WARMASEN"
+  "districtName": "KOTA WAISAI",
+  "name": "WARMASEN",
+  "postalCode": "98482"
  }
 ]

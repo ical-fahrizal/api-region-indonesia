@@ -2,36 +2,50 @@
  {
   "id": 1224090001,
   "districtId": 1224090,
-  "name": "LUKHULASE"
+  "districtName": "LAHEWA TIMUR",
+  "name": "LUKHULASE",
+  "postalCode": ""
  },
  {
   "id": 1224090002,
   "districtId": 1224090,
-  "name": "LAOWOWAGA"
+  "districtName": "LAHEWA TIMUR",
+  "name": "LAOWOWAGA",
+  "postalCode": "22851"
  },
  {
   "id": 1224090003,
   "districtId": 1224090,
-  "name": "MEAFU"
+  "districtName": "LAHEWA TIMUR",
+  "name": "MEAFU",
+  "postalCode": "22851"
  },
  {
   "id": 1224090004,
   "districtId": 1224090,
-  "name": "TETEHOSISOROWI"
+  "districtName": "LAHEWA TIMUR",
+  "name": "TETEHOSISOROWI",
+  "postalCode": ""
  },
  {
   "id": 1224090005,
   "districtId": 1224090,
-  "name": "TUGALA LAURU"
+  "districtName": "LAHEWA TIMUR",
+  "name": "TUGALA LAURU",
+  "postalCode": "22851"
  },
  {
   "id": 1224090006,
   "districtId": 1224090,
-  "name": "MUZOI"
+  "districtName": "LAHEWA TIMUR",
+  "name": "MUZOI",
+  "postalCode": "22851"
  },
  {
   "id": 1224090007,
   "districtId": 1224090,
-  "name": "TEFAO"
+  "districtName": "LAHEWA TIMUR",
+  "name": "TEFAO",
+  "postalCode": "22851"
  }
 ]

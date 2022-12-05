@@ -2,51 +2,71 @@
  {
   "id": 1302020001,
   "districtId": 1302020,
-  "name": "TAPAN"
+  "districtName": "BASA AMPEK BALAI TAPAN",
+  "name": "TAPAN",
+  "postalCode": "25673"
  },
  {
   "id": 1302020003,
   "districtId": 1302020,
-  "name": "BATANG ARAH TAPAN"
+  "districtName": "BASA AMPEK BALAI TAPAN",
+  "name": "BATANG ARAH TAPAN",
+  "postalCode": "25673"
  },
  {
   "id": 1302020005,
   "districtId": 1302020,
-  "name": "PASAR TAPAN"
+  "districtName": "BASA AMPEK BALAI TAPAN",
+  "name": "PASAR TAPAN",
+  "postalCode": "25673"
  },
  {
   "id": 1302020006,
   "districtId": 1302020,
-  "name": "AMPANG TULAK TAPAN"
+  "districtName": "BASA AMPEK BALAI TAPAN",
+  "name": "AMPANG TULAK TAPAN",
+  "postalCode": "25673"
  },
  {
   "id": 1302020009,
   "districtId": 1302020,
-  "name": "KOTO ANAU TAPAN"
+  "districtName": "BASA AMPEK BALAI TAPAN",
+  "name": "KOTO ANAU TAPAN",
+  "postalCode": "25673"
  },
  {
   "id": 1302020010,
   "districtId": 1302020,
-  "name": "DUSUN BARU TAPAN"
+  "districtName": "BASA AMPEK BALAI TAPAN",
+  "name": "DUSUN BARU TAPAN",
+  "postalCode": "25673"
  },
  {
   "id": 1302020011,
   "districtId": 1302020,
-  "name": "TANJUNG PONDOK TAPAN"
+  "districtName": "BASA AMPEK BALAI TAPAN",
+  "name": "TANJUNG PONDOK TAPAN",
+  "postalCode": ""
  },
  {
   "id": 1302020015,
   "districtId": 1302020,
-  "name": "BATANG BETUNG TAPAN"
+  "districtName": "BASA AMPEK BALAI TAPAN",
+  "name": "BATANG BETUNG TAPAN",
+  "postalCode": "25673"
  },
  {
   "id": 1302020016,
   "districtId": 1302020,
-  "name": "RIAK DANAU TAPAN"
+  "districtName": "BASA AMPEK BALAI TAPAN",
+  "name": "RIAK DANAU TAPAN",
+  "postalCode": ""
  },
  {
   "id": 1302020017,
   "districtId": 1302020,
-  "name": "BUKIT BUAI TAPAN"
+  "districtName": "BASA AMPEK BALAI TAPAN",
+  "name": "BUKIT BUAI TAPAN",
+  "postalCode": ""
  }
 ]

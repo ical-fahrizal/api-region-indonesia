@@ -2,36 +2,50 @@
  {
   "id": 6404051001,
   "districtId": 6404051,
-  "name": "KALIORANG"
+  "districtName": "KALIORANG",
+  "name": "KALIORANG",
+  "postalCode": "75618"
  },
  {
   "id": 6404051002,
   "districtId": 6404051,
-  "name": "BUKIT HARAPAN"
+  "districtName": "KALIORANG",
+  "name": "BUKIT HARAPAN",
+  "postalCode": "24784"
  },
  {
   "id": 6404051003,
   "districtId": 6404051,
-  "name": "BUKIT MAKMUR"
+  "districtName": "KALIORANG",
+  "name": "BUKIT MAKMUR",
+  "postalCode": "24457"
  },
  {
   "id": 6404051004,
   "districtId": 6404051,
-  "name": "BANGUN JAYA"
+  "districtName": "KALIORANG",
+  "name": "BANGUN JAYA",
+  "postalCode": "28558"
  },
  {
   "id": 6404051005,
   "districtId": 6404051,
-  "name": "CITRA MANUNGGAL JAYA"
+  "districtName": "KALIORANG",
+  "name": "CITRA MANUNGGAL JAYA",
+  "postalCode": "75618"
  },
  {
   "id": 6404051006,
   "districtId": 6404051,
-  "name": "BUMI SEJAHTERA"
+  "districtName": "KALIORANG",
+  "name": "BUMI SEJAHTERA",
+  "postalCode": "75618"
  },
  {
   "id": 6404051007,
   "districtId": 6404051,
-  "name": "SELANGKAU"
+  "districtName": "KALIORANG",
+  "name": "SELANGKAU",
+  "postalCode": "75618"
  }
 ]

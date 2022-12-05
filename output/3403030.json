@@ -2,31 +2,43 @@
  {
   "id": 3403030001,
   "districtId": 3403030,
-  "name": "KRAMBIL SAWIT"
+  "districtName": "SAPTO SARI",
+  "name": "KRAMBIL SAWIT",
+  "postalCode": "55871"
  },
  {
   "id": 3403030002,
   "districtId": 3403030,
-  "name": "KANIGORO"
+  "districtName": "SAPTO SARI",
+  "name": "KANIGORO",
+  "postalCode": "56194"
  },
  {
   "id": 3403030003,
   "districtId": 3403030,
-  "name": "PLANJAN"
+  "districtName": "SAPTO SARI",
+  "name": "PLANJAN",
+  "postalCode": "53274"
  },
  {
   "id": 3403030004,
   "districtId": 3403030,
-  "name": "MONGGOL"
+  "districtName": "SAPTO SARI",
+  "name": "MONGGOL",
+  "postalCode": "55871"
  },
  {
   "id": 3403030006,
   "districtId": 3403030,
-  "name": "NGLORA"
+  "districtName": "SAPTO SARI",
+  "name": "NGLORA",
+  "postalCode": "55871"
  },
  {
   "id": 3403030007,
   "districtId": 3403030,
-  "name": "JETIS"
+  "districtName": "SAPTO SARI",
+  "name": "JETIS",
+  "postalCode": "57556"
  }
 ]

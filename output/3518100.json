@@ -2,41 +2,57 @@
  {
   "id": 3518100001,
   "districtId": 3518100,
-  "name": "LESTARI"
+  "districtName": "PATIANROWO",
+  "name": "LESTARI",
+  "postalCode": "24656"
  },
  {
   "id": 3518100002,
   "districtId": 3518100,
-  "name": "PISANG"
+  "districtName": "PATIANROWO",
+  "name": "PISANG",
+  "postalCode": "23761"
  },
  {
   "id": 3518100004,
   "districtId": 3518100,
-  "name": "NGROMBOT"
+  "districtName": "PATIANROWO",
+  "name": "NGROMBOT",
+  "postalCode": "64391"
  },
  {
   "id": 3518100005,
   "districtId": 3518100,
-  "name": "TIRTOBINANGUN"
+  "districtName": "PATIANROWO",
+  "name": "TIRTOBINANGUN",
+  "postalCode": "64391"
  },
  {
   "id": 3518100006,
   "districtId": 3518100,
-  "name": "ROWOMARTO"
+  "districtName": "PATIANROWO",
+  "name": "ROWOMARTO",
+  "postalCode": "64391"
  },
  {
   "id": 3518100007,
   "districtId": 3518100,
-  "name": "PAKUNCEN"
+  "districtName": "PATIANROWO",
+  "name": "PAKUNCEN",
+  "postalCode": "53353"
  },
  {
   "id": 3518100008,
   "districtId": 3518100,
-  "name": "PATIANROWO"
+  "districtName": "PATIANROWO",
+  "name": "PATIANROWO",
+  "postalCode": "64391"
  },
  {
   "id": 3518100010,
   "districtId": 3518100,
-  "name": "BABADAN"
+  "districtName": "PATIANROWO",
+  "name": "BABADAN",
+  "postalCode": "45151"
  }
 ]

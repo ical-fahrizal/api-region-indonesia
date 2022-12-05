@@ -2,46 +2,64 @@
  {
   "id": 2104040001,
   "districtId": 2104040,
-  "name": "SEKANAH"
+  "districtName": "LINGGA UTARA",
+  "name": "SEKANAH",
+  "postalCode": "29874"
  },
  {
   "id": 2104040002,
   "districtId": 2104040,
-  "name": "DUARA"
+  "districtName": "LINGGA UTARA",
+  "name": "DUARA",
+  "postalCode": "29874"
  },
  {
   "id": 2104040004,
   "districtId": 2104040,
-  "name": "LIMBUNG"
+  "districtName": "LINGGA UTARA",
+  "name": "LIMBUNG",
+  "postalCode": "33362"
  },
  {
   "id": 2104040005,
   "districtId": 2104040,
-  "name": "BUKIT HARAPAN"
+  "districtName": "LINGGA UTARA",
+  "name": "BUKIT HARAPAN",
+  "postalCode": "24784"
  },
  {
   "id": 2104040007,
   "districtId": 2104040,
-  "name": "LINAU"
+  "districtName": "LINGGA UTARA",
+  "name": "LINAU",
+  "postalCode": "38965"
  },
  {
   "id": 2104040008,
   "districtId": 2104040,
-  "name": "PANCUR"
+  "districtName": "LINGGA UTARA",
+  "name": "PANCUR",
+  "postalCode": "29274"
  },
  {
   "id": 2104040009,
   "districtId": 2104040,
-  "name": "RANTAU PANJANG"
+  "districtName": "LINGGA UTARA",
+  "name": "RANTAU PANJANG",
+  "postalCode": "24476"
  },
  {
   "id": 2104040010,
   "districtId": 2104040,
-  "name": "SUNGAI BESAR"
+  "districtName": "LINGGA UTARA",
+  "name": "SUNGAI BESAR",
+  "postalCode": "29874"
  },
  {
   "id": 2104040011,
   "districtId": 2104040,
-  "name": "RESUN PESISIR"
+  "districtName": "LINGGA UTARA",
+  "name": "RESUN PESISIR",
+  "postalCode": "29874"
  }
 ]

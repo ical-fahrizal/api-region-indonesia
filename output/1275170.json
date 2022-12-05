@@ -2,36 +2,50 @@
  {
   "id": 1275170001,
   "districtId": 1275170,
-  "name": "INDRA KASIH"
+  "districtName": "MEDAN TEMBUNG",
+  "name": "INDRA KASIH",
+  "postalCode": "20221"
  },
  {
   "id": 1275170002,
   "districtId": 1275170,
-  "name": "SIDOREJO HILIR"
+  "districtName": "MEDAN TEMBUNG",
+  "name": "SIDOREJO HILIR",
+  "postalCode": "20222"
  },
  {
   "id": 1275170003,
   "districtId": 1275170,
-  "name": "SIDOREJO"
+  "districtName": "MEDAN TEMBUNG",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 1275170004,
   "districtId": 1275170,
-  "name": "BANTAN TIMUR"
+  "districtName": "MEDAN TEMBUNG",
+  "name": "BANTAN TIMUR",
+  "postalCode": "20224"
  },
  {
   "id": 1275170005,
   "districtId": 1275170,
-  "name": "BANDAR SELAMAT"
+  "districtName": "MEDAN TEMBUNG",
+  "name": "BANDAR SELAMAT",
+  "postalCode": "21455"
  },
  {
   "id": 1275170006,
   "districtId": 1275170,
-  "name": "B A N T A N"
+  "districtName": "MEDAN TEMBUNG",
+  "name": "B A N T A N",
+  "postalCode": ""
  },
  {
   "id": 1275170007,
   "districtId": 1275170,
-  "name": "T E M B U N G"
+  "districtName": "MEDAN TEMBUNG",
+  "name": "T E M B U N G",
+  "postalCode": ""
  }
 ]

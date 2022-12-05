@@ -2,71 +2,99 @@
  {
   "id": 1610010004,
   "districtId": 1610010,
-  "name": "MUNGGU"
+  "districtName": "MUARA KUANG",
+  "name": "MUNGGU",
+  "postalCode": "30865"
  },
  {
   "id": 1610010005,
   "districtId": 1610010,
-  "name": "SERI MENANTI"
+  "districtName": "MUARA KUANG",
+  "name": "SERI MENANTI",
+  "postalCode": "30865"
  },
  {
   "id": 1610010006,
   "districtId": 1610010,
-  "name": "RANTAU SIALANG"
+  "districtName": "MUARA KUANG",
+  "name": "RANTAU SIALANG",
+  "postalCode": "29564"
  },
  {
   "id": 1610010007,
   "districtId": 1610010,
-  "name": "KUANG ANYAR"
+  "districtName": "MUARA KUANG",
+  "name": "KUANG ANYAR",
+  "postalCode": "30865"
  },
  {
   "id": 1610010009,
   "districtId": 1610010,
-  "name": "KASAH"
+  "districtName": "MUARA KUANG",
+  "name": "KASAH",
+  "postalCode": "30865"
  },
  {
   "id": 1610010011,
   "districtId": 1610010,
-  "name": "MUARA KUANG"
+  "districtName": "MUARA KUANG",
+  "name": "MUARA KUANG",
+  "postalCode": "30865"
  },
  {
   "id": 1610010012,
   "districtId": 1610010,
-  "name": "TANABANG ILIR"
+  "districtName": "MUARA KUANG",
+  "name": "TANABANG ILIR",
+  "postalCode": ""
  },
  {
   "id": 1610010013,
   "districtId": 1610010,
-  "name": "SERI KEMBANG"
+  "districtName": "MUARA KUANG",
+  "name": "SERI KEMBANG",
+  "postalCode": "30865"
  },
  {
   "id": 1610010014,
   "districtId": 1610010,
-  "name": "NAGA SARI"
+  "districtName": "MUARA KUANG",
+  "name": "NAGA SARI",
+  "postalCode": "36364"
  },
  {
   "id": 1610010015,
   "districtId": 1610010,
-  "name": "SUKA CINTA"
+  "districtName": "MUARA KUANG",
+  "name": "SUKA CINTA",
+  "postalCode": "31471"
  },
  {
   "id": 1610010016,
   "districtId": 1610010,
-  "name": "KELAMPADU"
+  "districtName": "MUARA KUANG",
+  "name": "KELAMPADU",
+  "postalCode": ""
  },
  {
   "id": 1610010017,
   "districtId": 1610010,
-  "name": "SUKAJADI"
+  "districtName": "MUARA KUANG",
+  "name": "SUKAJADI",
+  "postalCode": "24472"
  },
  {
   "id": 1610010018,
   "districtId": 1610010,
-  "name": "RAMA KASIH"
+  "districtName": "MUARA KUANG",
+  "name": "RAMA KASIH",
+  "postalCode": ""
  },
  {
   "id": 1610010019,
   "districtId": 1610010,
-  "name": "TANABANG ULU"
+  "districtName": "MUARA KUANG",
+  "name": "TANABANG ULU",
+  "postalCode": "30865"
  }
 ]

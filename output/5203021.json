@@ -2,86 +2,120 @@
  {
   "id": 5203021001,
   "districtId": 5203021,
-  "name": "SUKARARA"
+  "districtName": "SAKRA BARAT",
+  "name": "SUKARARA",
+  "postalCode": "83561"
  },
  {
   "id": 5203021002,
   "districtId": 5203021,
-  "name": "GUNUNG RAJAK"
+  "districtName": "SAKRA BARAT",
+  "name": "GUNUNG RAJAK",
+  "postalCode": "83671"
  },
  {
   "id": 5203021003,
   "districtId": 5203021,
-  "name": "RENSING"
+  "districtName": "SAKRA BARAT",
+  "name": "RENSING",
+  "postalCode": "83671"
  },
  {
   "id": 5203021004,
   "districtId": 5203021,
-  "name": "BUNGTIANG"
+  "districtName": "SAKRA BARAT",
+  "name": "BUNGTIANG",
+  "postalCode": "83671"
  },
  {
   "id": 5203021005,
   "districtId": 5203021,
-  "name": "PENGKELAKMAS"
+  "districtName": "SAKRA BARAT",
+  "name": "PENGKELAKMAS",
+  "postalCode": "83671"
  },
  {
   "id": 5203021006,
   "districtId": 5203021,
-  "name": "BOROK TOYANG"
+  "districtName": "SAKRA BARAT",
+  "name": "BOROK TOYANG",
+  "postalCode": "83671"
  },
  {
   "id": 5203021007,
   "districtId": 5203021,
-  "name": "PEJARING"
+  "districtName": "SAKRA BARAT",
+  "name": "PEJARING",
+  "postalCode": "83671"
  },
  {
   "id": 5203021008,
   "districtId": 5203021,
-  "name": "MONTONG BETER"
+  "districtName": "SAKRA BARAT",
+  "name": "MONTONG BETER",
+  "postalCode": "83671"
  },
  {
   "id": 5203021010,
   "districtId": 5203021,
-  "name": "RENSING RAYA"
+  "districtName": "SAKRA BARAT",
+  "name": "RENSING RAYA",
+  "postalCode": "83671"
  },
  {
   "id": 5203021011,
   "districtId": 5203021,
-  "name": "PEMATUNG"
+  "districtName": "SAKRA BARAT",
+  "name": "PEMATUNG",
+  "postalCode": "83671"
  },
  {
   "id": 5203021012,
   "districtId": 5203021,
-  "name": "JERO GUNUNG"
+  "districtName": "SAKRA BARAT",
+  "name": "JERO GUNUNG",
+  "postalCode": ""
  },
  {
   "id": 5203021013,
   "districtId": 5203021,
-  "name": "BOYEMARE"
+  "districtName": "SAKRA BARAT",
+  "name": "BOYEMARE",
+  "postalCode": "83671"
  },
  {
   "id": 5203021014,
   "districtId": 5203021,
-  "name": "GADUNG MAS"
+  "districtName": "SAKRA BARAT",
+  "name": "GADUNG MAS",
+  "postalCode": ""
  },
  {
   "id": 5203021015,
   "districtId": 5203021,
-  "name": "TANAK KAKEN"
+  "districtName": "SAKRA BARAT",
+  "name": "TANAK KAKEN",
+  "postalCode": "83671"
  },
  {
   "id": 5203021016,
   "districtId": 5203021,
-  "name": "RENSING BAT"
+  "districtName": "SAKRA BARAT",
+  "name": "RENSING BAT",
+  "postalCode": "83671"
  },
  {
   "id": 5203021017,
   "districtId": 5203021,
-  "name": "KEMBANG ARE SAMPAI"
+  "districtName": "SAKRA BARAT",
+  "name": "KEMBANG ARE SAMPAI",
+  "postalCode": "83671"
  },
  {
   "id": 5203021018,
   "districtId": 5203021,
-  "name": "GERISAK SEMANGGLENG"
+  "districtName": "SAKRA BARAT",
+  "name": "GERISAK SEMANGGLENG",
+  "postalCode": ""
  }
 ]

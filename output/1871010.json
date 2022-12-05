@@ -2,26 +2,36 @@
  {
   "id": 1871010005,
   "districtId": 1871010,
-  "name": "BAKUNG"
+  "districtName": "TELUK BETUNG BARAT",
+  "name": "BAKUNG",
+  "postalCode": "36382"
  },
  {
   "id": 1871010006,
   "districtId": 1871010,
-  "name": "KURIPAN"
+  "districtName": "TELUK BETUNG BARAT",
+  "name": "KURIPAN",
+  "postalCode": "32384"
  },
  {
   "id": 1871010007,
   "districtId": 1871010,
-  "name": "NEGERI OLOK GADING"
+  "districtName": "TELUK BETUNG BARAT",
+  "name": "NEGERI OLOK GADING",
+  "postalCode": "35233"
  },
  {
   "id": 1871010008,
   "districtId": 1871010,
-  "name": "SUKARAME II"
+  "districtName": "TELUK BETUNG BARAT",
+  "name": "SUKARAME II",
+  "postalCode": "35234"
  },
  {
   "id": 1871010011,
   "districtId": 1871010,
-  "name": "BATU PUTUK"
+  "districtName": "TELUK BETUNG BARAT",
+  "name": "BATU PUTUK",
+  "postalCode": "35239"
  }
 ]

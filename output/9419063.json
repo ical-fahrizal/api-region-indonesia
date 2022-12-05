@@ -2,26 +2,36 @@
  {
   "id": 9419063001,
   "districtId": 9419063,
-  "name": "KAPESO"
+  "districtName": "APAWER TENGAH",
+  "name": "KAPESO",
+  "postalCode": "99375"
  },
  {
   "id": 9419063002,
   "districtId": 9419063,
-  "name": "PINA"
+  "districtName": "APAWER TENGAH",
+  "name": "PINA",
+  "postalCode": ""
  },
  {
   "id": 9419063003,
   "districtId": 9419063,
-  "name": "AIRORAN"
+  "districtName": "APAWER TENGAH",
+  "name": "AIRORAN",
+  "postalCode": "99374"
  },
  {
   "id": 9419063004,
   "districtId": 9419063,
-  "name": "MURARA"
+  "districtName": "APAWER TENGAH",
+  "name": "MURARA",
+  "postalCode": "99374"
  },
  {
   "id": 9419063005,
   "districtId": 9419063,
-  "name": "MANIWA"
+  "districtName": "APAWER TENGAH",
+  "name": "MANIWA",
+  "postalCode": "99374"
  }
 ]

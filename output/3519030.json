@@ -2,56 +2,78 @@
  {
   "id": 3519030001,
   "districtId": 3519030,
-  "name": "LEMBAH"
+  "districtName": "DOLOPO",
+  "name": "LEMBAH",
+  "postalCode": "63491"
  },
  {
   "id": 3519030002,
   "districtId": 3519030,
-  "name": "MLILIR"
+  "districtName": "DOLOPO",
+  "name": "MLILIR",
+  "postalCode": "50614"
  },
  {
   "id": 3519030003,
   "districtId": 3519030,
-  "name": "KRADINAN"
+  "districtName": "DOLOPO",
+  "name": "KRADINAN",
+  "postalCode": "63174"
  },
  {
   "id": 3519030005,
   "districtId": 3519030,
-  "name": "BLIMBING"
+  "districtName": "DOLOPO",
+  "name": "BLIMBING",
+  "postalCode": "52364"
  },
  {
   "id": 3519030006,
   "districtId": 3519030,
-  "name": "BADER"
+  "districtName": "DOLOPO",
+  "name": "BADER",
+  "postalCode": "63174"
  },
  {
   "id": 3519030007,
   "districtId": 3519030,
-  "name": "CANDIMULYO"
+  "districtName": "DOLOPO",
+  "name": "CANDIMULYO",
+  "postalCode": "56191"
  },
  {
   "id": 3519030008,
   "districtId": 3519030,
-  "name": "GLONGGONG"
+  "districtName": "DOLOPO",
+  "name": "GLONGGONG",
+  "postalCode": "57254"
  },
  {
   "id": 3519030009,
   "districtId": 3519030,
-  "name": "DOLOPO"
+  "districtName": "DOLOPO",
+  "name": "DOLOPO",
+  "postalCode": "63174"
  },
  {
   "id": 3519030010,
   "districtId": 3519030,
-  "name": "DOHO"
+  "districtName": "DOLOPO",
+  "name": "DOHO",
+  "postalCode": "57683"
  },
  {
   "id": 3519030011,
   "districtId": 3519030,
-  "name": "KETAWANG"
+  "districtName": "DOLOPO",
+  "name": "KETAWANG",
+  "postalCode": "56196"
  },
  {
   "id": 3519030012,
   "districtId": 3519030,
-  "name": "BANGUNSARI"
+  "districtName": "DOLOPO",
+  "name": "BANGUNSARI",
+  "postalCode": "35361"
  }
 ]

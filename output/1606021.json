@@ -2,81 +2,113 @@
  {
   "id": 1606021001,
   "districtId": 1606021,
-  "name": "PENGATURAN"
+  "districtName": "BATANGHARI LEKO",
+  "name": "PENGATURAN",
+  "postalCode": "30755"
  },
  {
   "id": 1606021002,
   "districtId": 1606021,
-  "name": "PINGGAP"
+  "districtName": "BATANGHARI LEKO",
+  "name": "PINGGAP",
+  "postalCode": "30755"
  },
  {
   "id": 1606021003,
   "districtId": 1606021,
-  "name": "TANAH ABANG"
+  "districtName": "BATANGHARI LEKO",
+  "name": "TANAH ABANG",
+  "postalCode": "20585"
  },
  {
   "id": 1606021004,
   "districtId": 1606021,
-  "name": "TALANG LEBAN"
+  "districtName": "BATANGHARI LEKO",
+  "name": "TALANG LEBAN",
+  "postalCode": "30755"
  },
  {
   "id": 1606021005,
   "districtId": 1606021,
-  "name": "SAUD"
+  "districtName": "BATANGHARI LEKO",
+  "name": "SAUD",
+  "postalCode": "30755"
  },
  {
   "id": 1606021006,
   "districtId": 1606021,
-  "name": "BUKIT SEJAHTERA"
+  "districtName": "BATANGHARI LEKO",
+  "name": "BUKIT SEJAHTERA",
+  "postalCode": "30755"
  },
  {
   "id": 1606021007,
   "districtId": 1606021,
-  "name": "BUKIT SELABU UPT II"
+  "districtName": "BATANGHARI LEKO",
+  "name": "BUKIT SELABU UPT II",
+  "postalCode": ""
  },
  {
   "id": 1606021008,
   "districtId": 1606021,
-  "name": "TANJUNG BALI"
+  "districtName": "BATANGHARI LEKO",
+  "name": "TANJUNG BALI",
+  "postalCode": "30755"
  },
  {
   "id": 1606021009,
   "districtId": 1606021,
-  "name": "LUBUK BUAH"
+  "districtName": "BATANGHARI LEKO",
+  "name": "LUBUK BUAH",
+  "postalCode": "30755"
  },
  {
   "id": 1606021010,
   "districtId": 1606021,
-  "name": "BUKIT PANGKUASAN UPT IV"
+  "districtName": "BATANGHARI LEKO",
+  "name": "BUKIT PANGKUASAN UPT IV",
+  "postalCode": ""
  },
  {
   "id": 1606021011,
   "districtId": 1606021,
-  "name": "TALANG BULUH"
+  "districtName": "BATANGHARI LEKO",
+  "name": "TALANG BULUH",
+  "postalCode": "30755"
  },
  {
   "id": 1606021012,
   "districtId": 1606021,
-  "name": "SUNGAI NAPAL"
+  "districtName": "BATANGHARI LEKO",
+  "name": "SUNGAI NAPAL",
+  "postalCode": "30755"
  },
  {
   "id": 1606021013,
   "districtId": 1606021,
-  "name": "PANGKALAN BULIAN"
+  "districtName": "BATANGHARI LEKO",
+  "name": "PANGKALAN BULIAN",
+  "postalCode": "30755"
  },
  {
   "id": 1606021014,
   "districtId": 1606021,
-  "name": "LUBUK BINTIALO"
+  "districtName": "BATANGHARI LEKO",
+  "name": "LUBUK BINTIALO",
+  "postalCode": "30755"
  },
  {
   "id": 1606021015,
   "districtId": 1606021,
-  "name": "SAKO SUBAN"
+  "districtName": "BATANGHARI LEKO",
+  "name": "SAKO SUBAN",
+  "postalCode": ""
  },
  {
   "id": 1606021016,
   "districtId": 1606021,
-  "name": "ULAK KEMBANG"
+  "districtName": "BATANGHARI LEKO",
+  "name": "ULAK KEMBANG",
+  "postalCode": "30755"
  }
 ]

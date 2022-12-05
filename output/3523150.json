@@ -2,91 +2,127 @@
  {
   "id": 3523150001,
   "districtId": 3523150,
-  "name": "KAPU"
+  "districtName": "MERAKURAK",
+  "name": "KAPU",
+  "postalCode": "62355"
  },
  {
   "id": 3523150002,
   "districtId": 3523150,
-  "name": "TEGALREJO"
+  "districtName": "MERAKURAK",
+  "name": "TEGALREJO",
+  "postalCode": "50733"
  },
  {
   "id": 3523150003,
   "districtId": 3523150,
-  "name": "TAHULU"
+  "districtName": "MERAKURAK",
+  "name": "TAHULU",
+  "postalCode": "62355"
  },
  {
   "id": 3523150004,
   "districtId": 3523150,
-  "name": "MANDIREJO"
+  "districtName": "MERAKURAK",
+  "name": "MANDIREJO",
+  "postalCode": "62355"
  },
  {
   "id": 3523150005,
   "districtId": 3523150,
-  "name": "BOGOREJO"
+  "districtName": "MERAKURAK",
+  "name": "BOGOREJO",
+  "postalCode": "35366"
  },
  {
   "id": 3523150006,
   "districtId": 3523150,
-  "name": "SUMBEREJO"
+  "districtName": "MERAKURAK",
+  "name": "SUMBEREJO",
+  "postalCode": "20551"
  },
  {
   "id": 3523150007,
   "districtId": 3523150,
-  "name": "SENDANGHAJI"
+  "districtName": "MERAKURAK",
+  "name": "SENDANGHAJI",
+  "postalCode": "62355"
  },
  {
   "id": 3523150008,
   "districtId": 3523150,
-  "name": "SAMBONGGEDE"
+  "districtName": "MERAKURAK",
+  "name": "SAMBONGGEDE",
+  "postalCode": "62355"
  },
  {
   "id": 3523150010,
   "districtId": 3523150,
-  "name": "TUWIRI WETAN"
+  "districtName": "MERAKURAK",
+  "name": "TUWIRI WETAN",
+  "postalCode": "62355"
  },
  {
   "id": 3523150011,
   "districtId": 3523150,
-  "name": "TUWIRI KULON"
+  "districtName": "MERAKURAK",
+  "name": "TUWIRI KULON",
+  "postalCode": "62355"
  },
  {
   "id": 3523150012,
   "districtId": 3523150,
-  "name": "BOREHBANGLE"
+  "districtName": "MERAKURAK",
+  "name": "BOREHBANGLE",
+  "postalCode": "62355"
  },
  {
   "id": 3523150013,
   "districtId": 3523150,
-  "name": "SENORI"
+  "districtName": "MERAKURAK",
+  "name": "SENORI",
+  "postalCode": "62365"
  },
  {
   "id": 3523150014,
   "districtId": 3523150,
-  "name": "SEMBUNGREJO"
+  "districtName": "MERAKURAK",
+  "name": "SEMBUNGREJO",
+  "postalCode": "62355"
  },
  {
   "id": 3523150015,
   "districtId": 3523150,
-  "name": "PONGPONGAN"
+  "districtName": "MERAKURAK",
+  "name": "PONGPONGAN",
+  "postalCode": "62355"
  },
  {
   "id": 3523150016,
   "districtId": 3523150,
-  "name": "TEMANDANG"
+  "districtName": "MERAKURAK",
+  "name": "TEMANDANG",
+  "postalCode": "62355"
  },
  {
   "id": 3523150017,
   "districtId": 3523150,
-  "name": "TLOGOWARU"
+  "districtName": "MERAKURAK",
+  "name": "TLOGOWARU",
+  "postalCode": "65133"
  },
  {
   "id": 3523150018,
   "districtId": 3523150,
-  "name": "TOBO"
+  "districtName": "MERAKURAK",
+  "name": "TOBO",
+  "postalCode": "58384"
  },
  {
   "id": 3523150019,
   "districtId": 3523150,
-  "name": "SUGIHAN"
+  "districtName": "MERAKURAK",
+  "name": "SUGIHAN",
+  "postalCode": "32272"
  }
 ]

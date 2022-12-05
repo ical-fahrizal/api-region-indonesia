@@ -2,56 +2,78 @@
  {
   "id": 7102171001,
   "districtId": 7102171,
-  "name": "KEMBES DUA"
+  "districtName": "TOMBULU",
+  "name": "KEMBES DUA",
+  "postalCode": "95661"
  },
  {
   "id": 7102171002,
   "districtId": 7102171,
-  "name": "KEMBES SATU"
+  "districtName": "TOMBULU",
+  "name": "KEMBES SATU",
+  "postalCode": "95661"
  },
  {
   "id": 7102171003,
   "districtId": 7102171,
-  "name": "TOMBULUAN"
+  "districtName": "TOMBULU",
+  "name": "TOMBULUAN",
+  "postalCode": "95661"
  },
  {
   "id": 7102171004,
   "districtId": 7102171,
-  "name": "KAMANGTA"
+  "districtName": "TOMBULU",
+  "name": "KAMANGTA",
+  "postalCode": "95661"
  },
  {
   "id": 7102171005,
   "districtId": 7102171,
-  "name": "SAWANGAN"
+  "districtName": "TOMBULU",
+  "name": "SAWANGAN",
+  "postalCode": "41272"
  },
  {
   "id": 7102171006,
   "districtId": 7102171,
-  "name": "KOKA"
+  "districtName": "TOMBULU",
+  "name": "KOKA",
+  "postalCode": "95661"
  },
  {
   "id": 7102171007,
   "districtId": 7102171,
-  "name": "SULUAN"
+  "districtName": "TOMBULU",
+  "name": "SULUAN",
+  "postalCode": "95661"
  },
  {
   "id": 7102171008,
   "districtId": 7102171,
-  "name": "RUMENGKOR"
+  "districtName": "TOMBULU",
+  "name": "RUMENGKOR",
+  "postalCode": "95661"
  },
  {
   "id": 7102171009,
   "districtId": 7102171,
-  "name": "TIKELA"
+  "districtName": "TOMBULU",
+  "name": "TIKELA",
+  "postalCode": "95661"
  },
  {
   "id": 7102171010,
   "districtId": 7102171,
-  "name": "RUMENGKOR SATU"
+  "districtName": "TOMBULU",
+  "name": "RUMENGKOR SATU",
+  "postalCode": "95661"
  },
  {
   "id": 7102171011,
   "districtId": 7102171,
-  "name": "RUMENGKOR DUA"
+  "districtName": "TOMBULU",
+  "name": "RUMENGKOR DUA",
+  "postalCode": "95661"
  }
 ]

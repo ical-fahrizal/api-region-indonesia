@@ -2,51 +2,71 @@
  {
   "id": 3508120001,
   "districtId": 3508120,
-  "name": "BANYUPUTIH LOR"
+  "districtName": "RANDUAGUNG",
+  "name": "BANYUPUTIH LOR",
+  "postalCode": "67354"
  },
  {
   "id": 3508120002,
   "districtId": 3508120,
-  "name": "KALIDILEM"
+  "districtName": "RANDUAGUNG",
+  "name": "KALIDILEM",
+  "postalCode": "67354"
  },
  {
   "id": 3508120004,
   "districtId": 3508120,
-  "name": "GEDANGMAS"
+  "districtName": "RANDUAGUNG",
+  "name": "GEDANGMAS",
+  "postalCode": "67354"
  },
  {
   "id": 3508120005,
   "districtId": 3508120,
-  "name": "KALIPENGGUNG"
+  "districtName": "RANDUAGUNG",
+  "name": "KALIPENGGUNG",
+  "postalCode": "67354"
  },
  {
   "id": 3508120006,
   "districtId": 3508120,
-  "name": "RANULOGONG"
+  "districtName": "RANDUAGUNG",
+  "name": "RANULOGONG",
+  "postalCode": "67354"
  },
  {
   "id": 3508120007,
   "districtId": 3508120,
-  "name": "RANDUAGUNG"
+  "districtName": "RANDUAGUNG",
+  "name": "RANDUAGUNG",
+  "postalCode": "59253"
  },
  {
   "id": 3508120008,
   "districtId": 3508120,
-  "name": "LEDOKTEMPURO"
+  "districtName": "RANDUAGUNG",
+  "name": "LEDOKTEMPURO",
+  "postalCode": "67354"
  },
  {
   "id": 3508120009,
   "districtId": 3508120,
-  "name": "PEJARAKAN"
+  "districtName": "RANDUAGUNG",
+  "name": "PEJARAKAN",
+  "postalCode": "61276"
  },
  {
   "id": 3508120011,
   "districtId": 3508120,
-  "name": "RANUWURUNG"
+  "districtName": "RANDUAGUNG",
+  "name": "RANUWURUNG",
+  "postalCode": "67292"
  },
  {
   "id": 3508120012,
   "districtId": 3508120,
-  "name": "SALAK"
+  "districtName": "RANDUAGUNG",
+  "name": "SALAK",
+  "postalCode": "27447"
  }
 ]

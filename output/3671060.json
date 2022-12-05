@@ -2,21 +2,29 @@
  {
   "id": 3671060002,
   "districtId": 3671060,
-  "name": "JURUMUDI BARU"
+  "districtName": "BENDA",
+  "name": "JURUMUDI BARU",
+  "postalCode": "15124"
  },
  {
   "id": 3671060003,
   "districtId": 3671060,
-  "name": "JURUMUDI"
+  "districtName": "BENDA",
+  "name": "JURUMUDI",
+  "postalCode": "15124"
  },
  {
   "id": 3671060004,
   "districtId": 3671060,
-  "name": "PAJANG"
+  "districtName": "BENDA",
+  "name": "PAJANG",
+  "postalCode": "57146"
  },
  {
   "id": 3671060005,
   "districtId": 3671060,
-  "name": "BENDA"
+  "districtName": "BENDA",
+  "name": "BENDA",
+  "postalCode": "43359"
  }
 ]

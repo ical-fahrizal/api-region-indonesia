@@ -2,36 +2,50 @@
  {
   "id": 1406062001,
   "districtId": 1406062,
-  "name": "ALAM PANJANG"
+  "districtName": "RUMBIO JAYA",
+  "name": "ALAM PANJANG",
+  "postalCode": "28458"
  },
  {
   "id": 1406062002,
   "districtId": 1406062,
-  "name": "PULAU PAYUNG"
+  "districtName": "RUMBIO JAYA",
+  "name": "PULAU PAYUNG",
+  "postalCode": "28458"
  },
  {
   "id": 1406062003,
   "districtId": 1406062,
-  "name": "TERATAK"
+  "districtName": "RUMBIO JAYA",
+  "name": "TERATAK",
+  "postalCode": "28458"
  },
  {
   "id": 1406062004,
   "districtId": 1406062,
-  "name": "BUKIT KRATAI"
+  "districtName": "RUMBIO JAYA",
+  "name": "BUKIT KRATAI",
+  "postalCode": "28458"
  },
  {
   "id": 1406062005,
   "districtId": 1406062,
-  "name": "BATANG BATINDIH"
+  "districtName": "RUMBIO JAYA",
+  "name": "BATANG BATINDIH",
+  "postalCode": "28458"
  },
  {
   "id": 1406062006,
   "districtId": 1406062,
-  "name": "TAMBUSAI"
+  "districtName": "RUMBIO JAYA",
+  "name": "TAMBUSAI",
+  "postalCode": "28458"
  },
  {
   "id": 1406062007,
   "districtId": 1406062,
-  "name": "SIMPANG PETAI"
+  "districtName": "RUMBIO JAYA",
+  "name": "SIMPANG PETAI",
+  "postalCode": "28458"
  }
 ]

@@ -2,71 +2,99 @@
  {
   "id": 7405021001,
   "districtId": 7405021,
-  "name": "PELANDIA"
+  "districtName": "BUKE",
+  "name": "PELANDIA",
+  "postalCode": "93812"
  },
  {
   "id": 7405021002,
   "districtId": 7405021,
-  "name": "PUUDARIA JAYA"
+  "districtName": "BUKE",
+  "name": "PUUDARIA JAYA",
+  "postalCode": "93812"
  },
  {
   "id": 7405021003,
   "districtId": 7405021,
-  "name": "RAHA MENDA JAYA"
+  "districtName": "BUKE",
+  "name": "RAHA MENDA JAYA",
+  "postalCode": "93819"
  },
  {
   "id": 7405021005,
   "districtId": 7405021,
-  "name": "ANDOOLO UTAMA"
+  "districtName": "BUKE",
+  "name": "ANDOOLO UTAMA",
+  "postalCode": ""
  },
  {
   "id": 7405021006,
   "districtId": 7405021,
-  "name": "SILEA JAYA"
+  "districtName": "BUKE",
+  "name": "SILEA JAYA",
+  "postalCode": "93814"
  },
  {
   "id": 7405021007,
   "districtId": 7405021,
-  "name": "TIRTA MARTANI"
+  "districtName": "BUKE",
+  "name": "TIRTA MARTANI",
+  "postalCode": ""
  },
  {
   "id": 7405021008,
   "districtId": 7405021,
-  "name": "TETENGGOLASA"
+  "districtName": "BUKE",
+  "name": "TETENGGOLASA",
+  "postalCode": "93814"
  },
  {
   "id": 7405021009,
   "districtId": 7405021,
-  "name": "ASEMBU MULYA"
+  "districtName": "BUKE",
+  "name": "ASEMBU MULYA",
+  "postalCode": "93819"
  },
  {
   "id": 7405021010,
   "districtId": 7405021,
-  "name": "AWALO"
+  "districtName": "BUKE",
+  "name": "AWALO",
+  "postalCode": "93875"
  },
  {
   "id": 7405021011,
   "districtId": 7405021,
-  "name": "ADAKA JAYA"
+  "districtName": "BUKE",
+  "name": "ADAKA JAYA",
+  "postalCode": "93815"
  },
  {
   "id": 7405021012,
   "districtId": 7405021,
-  "name": "ANGGOKOTI"
+  "districtName": "BUKE",
+  "name": "ANGGOKOTI",
+  "postalCode": "93819"
  },
  {
   "id": 7405021013,
   "districtId": 7405021,
-  "name": "UPT ADAYU INDAH"
+  "districtName": "BUKE",
+  "name": "UPT ADAYU INDAH",
+  "postalCode": ""
  },
  {
   "id": 7405021015,
   "districtId": 7405021,
-  "name": "WONUA MAROA"
+  "districtName": "BUKE",
+  "name": "WONUA MAROA",
+  "postalCode": ""
  },
  {
   "id": 7405021016,
   "districtId": 7405021,
-  "name": "RANOOHA LESTARI"
+  "districtName": "BUKE",
+  "name": "RANOOHA LESTARI",
+  "postalCode": "93814"
  }
 ]

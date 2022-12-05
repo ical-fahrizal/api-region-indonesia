@@ -2,36 +2,50 @@
  {
   "id": 3572030001,
   "districtId": 3572030,
-  "name": "REMBANG"
+  "districtName": "SANANWETAN",
+  "name": "REMBANG",
+  "postalCode": "64171"
  },
  {
   "id": 3572030002,
   "districtId": 3572030,
-  "name": "KLAMPOK"
+  "districtName": "SANANWETAN",
+  "name": "KLAMPOK",
+  "postalCode": "58162"
  },
  {
   "id": 3572030003,
   "districtId": 3572030,
-  "name": "PLOSOKEREP"
+  "districtName": "SANANWETAN",
+  "name": "PLOSOKEREP",
+  "postalCode": "45262"
  },
  {
   "id": 3572030004,
   "districtId": 3572030,
-  "name": "KARANGTENGAH"
+  "districtName": "SANANWETAN",
+  "name": "KARANGTENGAH",
+  "postalCode": "43351"
  },
  {
   "id": 3572030005,
   "districtId": 3572030,
-  "name": "SANANWETAN"
+  "districtName": "SANANWETAN",
+  "name": "SANANWETAN",
+  "postalCode": ""
  },
  {
   "id": 3572030006,
   "districtId": 3572030,
-  "name": "BENDOGERIT"
+  "districtName": "SANANWETAN",
+  "name": "BENDOGERIT",
+  "postalCode": "66133"
  },
  {
   "id": 3572030007,
   "districtId": 3572030,
-  "name": "GEDOG"
+  "districtName": "SANANWETAN",
+  "name": "GEDOG",
+  "postalCode": "66137"
  }
 ]

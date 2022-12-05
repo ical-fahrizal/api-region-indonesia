@@ -2,66 +2,92 @@
  {
   "id": 3316080001,
   "districtId": 3316080,
-  "name": "GOMBANG"
+  "districtName": "BOGOREJO",
+  "name": "GOMBANG",
+  "postalCode": "45155"
  },
  {
   "id": 3316080002,
   "districtId": 3316080,
-  "name": "SARIREJO"
+  "districtName": "BOGOREJO",
+  "name": "SARIREJO",
+  "postalCode": "58262"
  },
  {
   "id": 3316080003,
   "districtId": 3316080,
-  "name": "KARANGANYAR"
+  "districtName": "BOGOREJO",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  },
  {
   "id": 3316080004,
   "districtId": 3316080,
-  "name": "KARANG"
+  "districtName": "BOGOREJO",
+  "name": "KARANG",
+  "postalCode": "58262"
  },
  {
   "id": 3316080005,
   "districtId": 3316080,
-  "name": "PRANTAAN"
+  "districtName": "BOGOREJO",
+  "name": "PRANTAAN",
+  "postalCode": "58262"
  },
  {
   "id": 3316080007,
   "districtId": 3316080,
-  "name": "BOGOREJO"
+  "districtName": "BOGOREJO",
+  "name": "BOGOREJO",
+  "postalCode": "35366"
  },
  {
   "id": 3316080008,
   "districtId": 3316080,
-  "name": "GEMBOL"
+  "districtName": "BOGOREJO",
+  "name": "GEMBOL",
+  "postalCode": "58262"
  },
  {
   "id": 3316080009,
   "districtId": 3316080,
-  "name": "TEMPUREJO"
+  "districtName": "BOGOREJO",
+  "name": "TEMPUREJO",
+  "postalCode": "58219"
  },
  {
   "id": 3316080010,
   "districtId": 3316080,
-  "name": "GAYAM"
+  "districtName": "BOGOREJO",
+  "name": "GAYAM",
+  "postalCode": "35592"
  },
  {
   "id": 3316080011,
   "districtId": 3316080,
-  "name": "SENDANGREJO"
+  "districtName": "BOGOREJO",
+  "name": "SENDANGREJO",
+  "postalCode": "57673"
  },
  {
   "id": 3316080012,
   "districtId": 3316080,
-  "name": "GANDU"
+  "districtName": "BOGOREJO",
+  "name": "GANDU",
+  "postalCode": "45453"
  },
  {
   "id": 3316080013,
   "districtId": 3316080,
-  "name": "NGLENGKIR"
+  "districtName": "BOGOREJO",
+  "name": "NGLENGKIR",
+  "postalCode": "58262"
  },
  {
   "id": 3316080014,
   "districtId": 3316080,
-  "name": "JURANGJERO"
+  "districtName": "BOGOREJO",
+  "name": "JURANGJERO",
+  "postalCode": "58262"
  }
 ]

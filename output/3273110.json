@@ -2,21 +2,29 @@
  {
   "id": 3273110003,
   "districtId": 3273110,
-  "name": "PASIR BIRU"
+  "districtName": "CIBIRU",
+  "name": "PASIR BIRU",
+  "postalCode": "45361"
  },
  {
   "id": 3273110004,
   "districtId": 3273110,
-  "name": "CIPADUNG"
+  "districtName": "CIBIRU",
+  "name": "CIPADUNG",
+  "postalCode": "40614"
  },
  {
   "id": 3273110005,
   "districtId": 3273110,
-  "name": "PALASARI"
+  "districtName": "CIBIRU",
+  "name": "PALASARI",
+  "postalCode": "41251"
  },
  {
   "id": 3273110006,
   "districtId": 3273110,
-  "name": "CISURUPAN"
+  "districtName": "CIBIRU",
+  "name": "CISURUPAN",
+  "postalCode": "40614"
  }
 ]

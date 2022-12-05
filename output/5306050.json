@@ -2,41 +2,57 @@
  {
   "id": 5306050001,
   "districtId": 5306050,
-  "name": "RINBESIHAT"
+  "districtName": "TASIFETO BARAT",
+  "name": "RINBESIHAT",
+  "postalCode": "85752"
  },
  {
   "id": 5306050002,
   "districtId": 5306050,
-  "name": "NAITIMU"
+  "districtName": "TASIFETO BARAT",
+  "name": "NAITIMU",
+  "postalCode": "85752"
  },
  {
   "id": 5306050004,
   "districtId": 5306050,
-  "name": "LAWALUTOLUS"
+  "districtName": "TASIFETO BARAT",
+  "name": "LAWALUTOLUS",
+  "postalCode": "85752"
  },
  {
   "id": 5306050008,
   "districtId": 5306050,
-  "name": "LOOKEU"
+  "districtName": "TASIFETO BARAT",
+  "name": "LOOKEU",
+  "postalCode": "85752"
  },
  {
   "id": 5306050009,
   "districtId": 5306050,
-  "name": "DEROK FATURENE"
+  "districtName": "TASIFETO BARAT",
+  "name": "DEROK FATURENE",
+  "postalCode": "85752"
  },
  {
   "id": 5306050010,
   "districtId": 5306050,
-  "name": "BAKUSTULAMA"
+  "districtName": "TASIFETO BARAT",
+  "name": "BAKUSTULAMA",
+  "postalCode": "85752"
  },
  {
   "id": 5306050011,
   "districtId": 5306050,
-  "name": "NAEKASA"
+  "districtName": "TASIFETO BARAT",
+  "name": "NAEKASA",
+  "postalCode": "85752"
  },
  {
   "id": 5306050012,
   "districtId": 5306050,
-  "name": "TUKUNENO"
+  "districtName": "TASIFETO BARAT",
+  "name": "TUKUNENO",
+  "postalCode": "85752"
  }
 ]

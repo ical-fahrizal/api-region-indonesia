@@ -2,41 +2,57 @@
  {
   "id": 9418015003,
   "districtId": 9418015,
-  "name": "POSMAN"
+  "districtName": "AWEKU",
+  "name": "POSMAN",
+  "postalCode": "99568"
  },
  {
   "id": 9418015004,
   "districtId": 9418015,
-  "name": "KOGAGI"
+  "districtName": "AWEKU",
+  "name": "KOGAGI",
+  "postalCode": "99568"
  },
  {
   "id": 9418015005,
   "districtId": 9418015,
-  "name": "TIONGGI"
+  "districtName": "AWEKU",
+  "name": "TIONGGI",
+  "postalCode": ""
  },
  {
   "id": 9418015006,
   "districtId": 9418015,
-  "name": "YELI"
+  "districtName": "AWEKU",
+  "name": "YELI",
+  "postalCode": ""
  },
  {
   "id": 9418015007,
   "districtId": 9418015,
-  "name": "AGIN"
+  "districtName": "AWEKU",
+  "name": "AGIN",
+  "postalCode": "99568"
  },
  {
   "id": 9418015008,
   "districtId": 9418015,
-  "name": "WAMIGI"
+  "districtName": "AWEKU",
+  "name": "WAMIGI",
+  "postalCode": "99568"
  },
  {
   "id": 9418015009,
   "districtId": 9418015,
-  "name": "KOLANGGUN"
+  "districtName": "AWEKU",
+  "name": "KOLANGGUN",
+  "postalCode": "99568"
  },
  {
   "id": 9418015010,
   "districtId": 9418015,
-  "name": "YEBENA"
+  "districtName": "AWEKU",
+  "name": "YEBENA",
+  "postalCode": "99568"
  }
 ]

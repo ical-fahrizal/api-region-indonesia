@@ -2,36 +2,50 @@
  {
   "id": 7371111001,
   "districtId": 7371111,
-  "name": "TAMALANREA INDAH"
+  "districtName": "TAMALANREA",
+  "name": "TAMALANREA INDAH",
+  "postalCode": "90245"
  },
  {
   "id": 7371111002,
   "districtId": 7371111,
-  "name": "TAMALANREA JAYA"
+  "districtName": "TAMALANREA",
+  "name": "TAMALANREA JAYA",
+  "postalCode": "90245"
  },
  {
   "id": 7371111003,
   "districtId": 7371111,
-  "name": "TAMALANREA"
+  "districtName": "TAMALANREA",
+  "name": "TAMALANREA",
+  "postalCode": "92854"
  },
  {
   "id": 7371111004,
   "districtId": 7371111,
-  "name": "KAPASA"
+  "districtName": "TAMALANREA",
+  "name": "KAPASA",
+  "postalCode": "90241"
  },
  {
   "id": 7371111005,
   "districtId": 7371111,
-  "name": "PARANG LOE"
+  "districtName": "TAMALANREA",
+  "name": "PARANG LOE",
+  "postalCode": "90245"
  },
  {
   "id": 7371111006,
   "districtId": 7371111,
-  "name": "BIRA"
+  "districtName": "TAMALANREA",
+  "name": "BIRA",
+  "postalCode": "95857"
  },
  {
   "id": 7371111008,
   "districtId": 7371111,
-  "name": "KAPASA RAYA"
+  "districtName": "TAMALANREA",
+  "name": "KAPASA RAYA",
+  "postalCode": ""
  }
 ]

@@ -2,46 +2,64 @@
  {
   "id": 3210160001,
   "districtId": 3210160,
-  "name": "CIJUREY"
+  "districtName": "PANYINGKIRAN",
+  "name": "CIJUREY",
+  "postalCode": "43197"
  },
  {
   "id": 3210160002,
   "districtId": 3210160,
-  "name": "PASIRMUNCANG"
+  "districtName": "PANYINGKIRAN",
+  "name": "PASIRMUNCANG",
+  "postalCode": "41253"
  },
  {
   "id": 3210160003,
   "districtId": 3210160,
-  "name": "JATIPAMOR"
+  "districtName": "PANYINGKIRAN",
+  "name": "JATIPAMOR",
+  "postalCode": "45459"
  },
  {
   "id": 3210160004,
   "districtId": 3210160,
-  "name": "BANTRANGSANA"
+  "districtName": "PANYINGKIRAN",
+  "name": "BANTRANGSANA",
+  "postalCode": "45459"
  },
  {
   "id": 3210160005,
   "districtId": 3210160,
-  "name": "JATISERANG"
+  "districtName": "PANYINGKIRAN",
+  "name": "JATISERANG",
+  "postalCode": "45459"
  },
  {
   "id": 3210160006,
   "districtId": 3210160,
-  "name": "BONANG"
+  "districtName": "PANYINGKIRAN",
+  "name": "BONANG",
+  "postalCode": "45459"
  },
  {
   "id": 3210160007,
   "districtId": 3210160,
-  "name": "LEUWISEENG"
+  "districtName": "PANYINGKIRAN",
+  "name": "LEUWISEENG",
+  "postalCode": "45459"
  },
  {
   "id": 3210160008,
   "districtId": 3210160,
-  "name": "KARYAMUKTI"
+  "districtName": "PANYINGKIRAN",
+  "name": "KARYAMUKTI",
+  "postalCode": "36655"
  },
  {
   "id": 3210160009,
   "districtId": 3210160,
-  "name": "PANYINGKIRAN"
+  "districtName": "PANYINGKIRAN",
+  "name": "PANYINGKIRAN",
+  "postalCode": "46211"
  }
 ]

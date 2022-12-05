@@ -2,71 +2,99 @@
  {
   "id": 5314030001,
   "districtId": 5314030,
-  "name": "KULI"
+  "districtName": "LOBALAIN",
+  "name": "KULI",
+  "postalCode": "85918"
  },
  {
   "id": 5314030002,
   "districtId": 5314030,
-  "name": "SUELAIN"
+  "districtName": "LOBALAIN",
+  "name": "SUELAIN",
+  "postalCode": "85918"
  },
  {
   "id": 5314030003,
   "districtId": 5314030,
-  "name": "BEBALAIN"
+  "districtName": "LOBALAIN",
+  "name": "BEBALAIN",
+  "postalCode": "85918"
  },
  {
   "id": 5314030004,
   "districtId": 5314030,
-  "name": "KOLOBOLON"
+  "districtName": "LOBALAIN",
+  "name": "KOLOBOLON",
+  "postalCode": "85918"
  },
  {
   "id": 5314030005,
   "districtId": 5314030,
-  "name": "OEMATAMBOLI"
+  "districtName": "LOBALAIN",
+  "name": "OEMATAMBOLI",
+  "postalCode": "85918"
  },
  {
   "id": 5314030006,
   "districtId": 5314030,
-  "name": "HELEBEIK"
+  "districtName": "LOBALAIN",
+  "name": "HELEBEIK",
+  "postalCode": "85918"
  },
  {
   "id": 5314030007,
   "districtId": 5314030,
-  "name": "OELUNGGU"
+  "districtName": "LOBALAIN",
+  "name": "OELUNGGU",
+  "postalCode": "85917"
  },
  {
   "id": 5314030008,
   "districtId": 5314030,
-  "name": "MOKDALE"
+  "districtName": "LOBALAIN",
+  "name": "MOKDALE",
+  "postalCode": "85914"
  },
  {
   "id": 5314030009,
   "districtId": 5314030,
-  "name": "SANGGAOEN"
+  "districtName": "LOBALAIN",
+  "name": "SANGGAOEN",
+  "postalCode": "85916"
  },
  {
   "id": 5314030010,
   "districtId": 5314030,
-  "name": "HOLOAMA"
+  "districtName": "LOBALAIN",
+  "name": "HOLOAMA",
+  "postalCode": "85918"
  },
  {
   "id": 5314030011,
   "districtId": 5314030,
-  "name": "TUANATUK"
+  "districtName": "LOBALAIN",
+  "name": "TUANATUK",
+  "postalCode": "85913"
  },
  {
   "id": 5314030012,
   "districtId": 5314030,
-  "name": "BAADALE"
+  "districtName": "LOBALAIN",
+  "name": "BAADALE",
+  "postalCode": "85912"
  },
  {
   "id": 5314030013,
   "districtId": 5314030,
-  "name": "NAMODALE"
+  "districtName": "LOBALAIN",
+  "name": "NAMODALE",
+  "postalCode": "85918"
  },
  {
   "id": 5314030014,
   "districtId": 5314030,
-  "name": "METINA"
+  "districtName": "LOBALAIN",
+  "name": "METINA",
+  "postalCode": "85918"
  }
 ]

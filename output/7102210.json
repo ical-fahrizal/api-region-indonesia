@@ -2,66 +2,92 @@
  {
   "id": 7102210004,
   "districtId": 7102210,
-  "name": "KAYUWATU"
+  "districtName": "KAKAS",
+  "name": "KAYUWATU",
+  "postalCode": "95682"
  },
  {
   "id": 7102210005,
   "districtId": 7102210,
-  "name": "WINERU"
+  "districtName": "KAKAS",
+  "name": "WINERU",
+  "postalCode": "95682"
  },
  {
   "id": 7102210006,
   "districtId": 7102210,
-  "name": "RINONDOR"
+  "districtName": "KAKAS",
+  "name": "RINONDOR",
+  "postalCode": "95682"
  },
  {
   "id": 7102210014,
   "districtId": 7102210,
-  "name": "TOUNELET"
+  "districtName": "KAKAS",
+  "name": "TOUNELET",
+  "postalCode": "95682"
  },
  {
   "id": 7102210015,
   "districtId": 7102210,
-  "name": "TALIKURAN"
+  "districtName": "KAKAS",
+  "name": "TALIKURAN",
+  "postalCode": "95682"
  },
  {
   "id": 7102210016,
   "districtId": 7102210,
-  "name": "PAHALETEN"
+  "districtName": "KAKAS",
+  "name": "PAHALETEN",
+  "postalCode": "95682"
  },
  {
   "id": 7102210017,
   "districtId": 7102210,
-  "name": "SENDANGAN"
+  "districtName": "KAKAS",
+  "name": "SENDANGAN",
+  "postalCode": "95682"
  },
  {
   "id": 7102210018,
   "districtId": 7102210,
-  "name": "PASLATEN"
+  "districtName": "KAKAS",
+  "name": "PASLATEN",
+  "postalCode": "95682"
  },
  {
   "id": 7102210019,
   "districtId": 7102210,
-  "name": "KAWENG"
+  "districtName": "KAKAS",
+  "name": "KAWENG",
+  "postalCode": "95682"
  },
  {
   "id": 7102210020,
   "districtId": 7102210,
-  "name": "TOULIMEMBET"
+  "districtName": "KAKAS",
+  "name": "TOULIMEMBET",
+  "postalCode": "95682"
  },
  {
   "id": 7102210021,
   "districtId": 7102210,
-  "name": "MAHEMBANG"
+  "districtName": "KAKAS",
+  "name": "MAHEMBANG",
+  "postalCode": "95682"
  },
  {
   "id": 7102210022,
   "districtId": 7102210,
-  "name": "TUMPAAN"
+  "districtName": "KAKAS",
+  "name": "TUMPAAN",
+  "postalCode": "95682"
  },
  {
   "id": 7102210023,
   "districtId": 7102210,
-  "name": "MAKALELON"
+  "districtName": "KAKAS",
+  "name": "MAKALELON",
+  "postalCode": "95682"
  }
 ]

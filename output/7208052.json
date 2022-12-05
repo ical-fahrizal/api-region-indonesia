@@ -2,56 +2,78 @@
  {
   "id": 7208052001,
   "districtId": 7208052,
-  "name": "BOBALO"
+  "districtName": "PALASA",
+  "name": "BOBALO",
+  "postalCode": "94476"
  },
  {
   "id": 7208052002,
   "districtId": 7208052,
-  "name": "EEYA"
+  "districtName": "PALASA",
+  "name": "EEYA",
+  "postalCode": "94476"
  },
  {
   "id": 7208052003,
   "districtId": 7208052,
-  "name": "ULATAN"
+  "districtName": "PALASA",
+  "name": "ULATAN",
+  "postalCode": "94476"
  },
  {
   "id": 7208052004,
   "districtId": 7208052,
-  "name": "PALASA TANGKI"
+  "districtName": "PALASA",
+  "name": "PALASA TANGKI",
+  "postalCode": "94476"
  },
  {
   "id": 7208052005,
   "districtId": 7208052,
-  "name": "PALASA"
+  "districtName": "PALASA",
+  "name": "PALASA",
+  "postalCode": "69481"
  },
  {
   "id": 7208052006,
   "districtId": 7208052,
-  "name": "PALASA LAMBORI"
+  "districtName": "PALASA",
+  "name": "PALASA LAMBORI",
+  "postalCode": "94476"
  },
  {
   "id": 7208052007,
   "districtId": 7208052,
-  "name": "DONGKALAN"
+  "districtName": "PALASA",
+  "name": "DONGKALAN",
+  "postalCode": "94975"
  },
  {
   "id": 7208052008,
   "districtId": 7208052,
-  "name": "PEBO UNANG"
+  "districtName": "PALASA",
+  "name": "PEBO UNANG",
+  "postalCode": ""
  },
  {
   "id": 7208052009,
   "districtId": 7208052,
-  "name": "BAMBASIANG"
+  "districtName": "PALASA",
+  "name": "BAMBASIANG",
+  "postalCode": "94476"
  },
  {
   "id": 7208052010,
   "districtId": 7208052,
-  "name": "BEAU"
+  "districtName": "PALASA",
+  "name": "BEAU",
+  "postalCode": ""
  },
  {
   "id": 7208052011,
   "districtId": 7208052,
-  "name": "OGOANSAM"
+  "districtName": "PALASA",
+  "name": "OGOANSAM",
+  "postalCode": ""
  }
 ]

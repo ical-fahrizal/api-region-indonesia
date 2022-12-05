@@ -2,36 +2,50 @@
  {
   "id": 1707052001,
   "districtId": 1707052,
-  "name": "EMBONG"
+  "districtName": "URAM JAYA",
+  "name": "EMBONG",
+  "postalCode": "39268"
  },
  {
   "id": 1707052002,
   "districtId": 1707052,
-  "name": "EMBONG SATU"
+  "districtName": "URAM JAYA",
+  "name": "EMBONG SATU",
+  "postalCode": ""
  },
  {
   "id": 1707052003,
   "districtId": 1707052,
-  "name": "KOTA BARU"
+  "districtName": "URAM JAYA",
+  "name": "KOTA BARU",
+  "postalCode": "23125"
  },
  {
   "id": 1707052004,
   "districtId": 1707052,
-  "name": "KOTA AGUNG"
+  "districtName": "URAM JAYA",
+  "name": "KOTA AGUNG",
+  "postalCode": "31462"
  },
  {
   "id": 1707052005,
   "districtId": 1707052,
-  "name": "LEMEU"
+  "districtName": "URAM JAYA",
+  "name": "LEMEU",
+  "postalCode": ""
  },
  {
   "id": 1707052006,
   "districtId": 1707052,
-  "name": "PANGKALAN"
+  "districtName": "URAM JAYA",
+  "name": "PANGKALAN",
+  "postalCode": "24477"
  },
  {
   "id": 1707052007,
   "districtId": 1707052,
-  "name": "TANGUA"
+  "districtName": "URAM JAYA",
+  "name": "TANGUA",
+  "postalCode": "39268"
  }
 ]

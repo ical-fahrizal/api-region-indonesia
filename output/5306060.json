@@ -2,21 +2,29 @@
  {
   "id": 5306060005,
   "districtId": 5306060,
-  "name": "FATUBENAO"
+  "districtName": "ATAMBUA",
+  "name": "FATUBENAO",
+  "postalCode": "85718"
  },
  {
   "id": 5306060006,
   "districtId": 5306060,
-  "name": "ATAMBUA"
+  "districtName": "ATAMBUA",
+  "name": "ATAMBUA",
+  "postalCode": ""
  },
  {
   "id": 5306060011,
   "districtId": 5306060,
-  "name": "MANUMUTIN"
+  "districtName": "ATAMBUA",
+  "name": "MANUMUTIN",
+  "postalCode": "85712"
  },
  {
   "id": 5306060012,
   "districtId": 5306060,
-  "name": "TENUKIIK"
+  "districtName": "ATAMBUA",
+  "name": "TENUKIIK",
+  "postalCode": "85711"
  }
 ]

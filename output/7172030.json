@@ -2,51 +2,71 @@
  {
   "id": 7172030006,
   "districtId": 7172030,
-  "name": "AERTEMBAGA SATU"
+  "districtName": "AERTEMBAGA",
+  "name": "AERTEMBAGA SATU",
+  "postalCode": ""
  },
  {
   "id": 7172030007,
   "districtId": 7172030,
-  "name": "TANDU RUSA"
+  "districtName": "AERTEMBAGA",
+  "name": "TANDU RUSA",
+  "postalCode": "95527"
  },
  {
   "id": 7172030008,
   "districtId": 7172030,
-  "name": "MAKAWIDEY"
+  "districtName": "AERTEMBAGA",
+  "name": "MAKAWIDEY",
+  "postalCode": "95528"
  },
  {
   "id": 7172030009,
   "districtId": 7172030,
-  "name": "PINANGUNIAN"
+  "districtName": "AERTEMBAGA",
+  "name": "PINANGUNIAN",
+  "postalCode": "95529"
  },
  {
   "id": 7172030012,
   "districtId": 7172030,
-  "name": "PETETEN SATU"
+  "districtName": "AERTEMBAGA",
+  "name": "PETETEN SATU",
+  "postalCode": ""
  },
  {
   "id": 7172030013,
   "districtId": 7172030,
-  "name": "PETETEN DUA"
+  "districtName": "AERTEMBAGA",
+  "name": "PETETEN DUA",
+  "postalCode": ""
  },
  {
   "id": 7172030014,
   "districtId": 7172030,
-  "name": "WINENET SATU"
+  "districtName": "AERTEMBAGA",
+  "name": "WINENET SATU",
+  "postalCode": ""
  },
  {
   "id": 7172030015,
   "districtId": 7172030,
-  "name": "WINENET DUA"
+  "districtName": "AERTEMBAGA",
+  "name": "WINENET DUA",
+  "postalCode": ""
  },
  {
   "id": 7172030016,
   "districtId": 7172030,
-  "name": "KASAWARI"
+  "districtName": "AERTEMBAGA",
+  "name": "KASAWARI",
+  "postalCode": "95521"
  },
  {
   "id": 7172030017,
   "districtId": 7172030,
-  "name": "AERTEMBAGA DUA"
+  "districtName": "AERTEMBAGA",
+  "name": "AERTEMBAGA DUA",
+  "postalCode": ""
  }
 ]

@@ -2,81 +2,113 @@
  {
   "id": 3374140001,
   "districtId": 3374140,
-  "name": "KEMBANGARUM"
+  "districtName": "SEMARANG BARAT",
+  "name": "KEMBANGARUM",
+  "postalCode": "59567"
  },
  {
   "id": 3374140002,
   "districtId": 3374140,
-  "name": "MANYARAN"
+  "districtName": "SEMARANG BARAT",
+  "name": "MANYARAN",
+  "postalCode": "57381"
  },
  {
   "id": 3374140003,
   "districtId": 3374140,
-  "name": "NGEMPLAKSIMONGAN"
+  "districtName": "SEMARANG BARAT",
+  "name": "NGEMPLAKSIMONGAN",
+  "postalCode": ""
  },
  {
   "id": 3374140004,
   "districtId": 3374140,
-  "name": "BONGSARI"
+  "districtName": "SEMARANG BARAT",
+  "name": "BONGSARI",
+  "postalCode": "50148"
  },
  {
   "id": 3374140005,
   "districtId": 3374140,
-  "name": "BOJONGSALAMAN"
+  "districtName": "SEMARANG BARAT",
+  "name": "BOJONGSALAMAN",
+  "postalCode": "50141"
  },
  {
   "id": 3374140006,
   "districtId": 3374140,
-  "name": "CABEAN"
+  "districtName": "SEMARANG BARAT",
+  "name": "CABEAN",
+  "postalCode": "59255"
  },
  {
   "id": 3374140007,
   "districtId": 3374140,
-  "name": "SALAMANMLOYO"
+  "districtName": "SEMARANG BARAT",
+  "name": "SALAMANMLOYO",
+  "postalCode": "50149"
  },
  {
   "id": 3374140008,
   "districtId": 3374140,
-  "name": "GISIKDRONO"
+  "districtName": "SEMARANG BARAT",
+  "name": "GISIKDRONO",
+  "postalCode": "50149"
  },
  {
   "id": 3374140009,
   "districtId": 3374140,
-  "name": "KALIBANTENG KIDUL"
+  "districtName": "SEMARANG BARAT",
+  "name": "KALIBANTENG KIDUL",
+  "postalCode": "50149"
  },
  {
   "id": 3374140010,
   "districtId": 3374140,
-  "name": "KALIBANTENG KULON"
+  "districtName": "SEMARANG BARAT",
+  "name": "KALIBANTENG KULON",
+  "postalCode": "50145"
  },
  {
   "id": 3374140011,
   "districtId": 3374140,
-  "name": "KRAPYAK"
+  "districtName": "SEMARANG BARAT",
+  "name": "KRAPYAK",
+  "postalCode": "50146"
  },
  {
   "id": 3374140012,
   "districtId": 3374140,
-  "name": "TAMBAK HARJO"
+  "districtName": "SEMARANG BARAT",
+  "name": "TAMBAK HARJO",
+  "postalCode": "50149"
  },
  {
   "id": 3374140013,
   "districtId": 3374140,
-  "name": "TAWANGSARI"
+  "districtName": "SEMARANG BARAT",
+  "name": "TAWANGSARI",
+  "postalCode": "45365"
  },
  {
   "id": 3374140014,
   "districtId": 3374140,
-  "name": "KARANG AYU"
+  "districtName": "SEMARANG BARAT",
+  "name": "KARANG AYU",
+  "postalCode": "50149"
  },
  {
   "id": 3374140015,
   "districtId": 3374140,
-  "name": "KROBOKAN"
+  "districtName": "SEMARANG BARAT",
+  "name": "KROBOKAN",
+  "postalCode": "57391"
  },
  {
   "id": 3374140016,
   "districtId": 3374140,
-  "name": "TAWANGMAS"
+  "districtName": "SEMARANG BARAT",
+  "name": "TAWANGMAS",
+  "postalCode": "50144"
  }
 ]

@@ -2,56 +2,78 @@
  {
   "id": 7201071001,
   "districtId": 7201071,
-  "name": "KAMBANI"
+  "districtName": "BUKO SELATAN",
+  "name": "KAMBANI",
+  "postalCode": "94881"
  },
  {
   "id": 7201071002,
   "districtId": 7201071,
-  "name": "TATABAU"
+  "districtName": "BUKO SELATAN",
+  "name": "TATABAU",
+  "postalCode": "94881"
  },
  {
   "id": 7201071003,
   "districtId": 7201071,
-  "name": "BUKO"
+  "districtName": "BUKO SELATAN",
+  "name": "BUKO",
+  "postalCode": "59554"
  },
  {
   "id": 7201071004,
   "districtId": 7201071,
-  "name": "PALAPAT"
+  "districtName": "BUKO SELATAN",
+  "name": "PALAPAT",
+  "postalCode": "94881"
  },
  {
   "id": 7201071005,
   "districtId": 7201071,
-  "name": "LUMBI-LUMBIA"
+  "districtName": "BUKO SELATAN",
+  "name": "LUMBI-LUMBIA",
+  "postalCode": "94881"
  },
  {
   "id": 7201071006,
   "districtId": 7201071,
-  "name": "LABANGUN"
+  "districtName": "BUKO SELATAN",
+  "name": "LABANGUN",
+  "postalCode": "94881"
  },
  {
   "id": 7201071007,
   "districtId": 7201071,
-  "name": "SEANO"
+  "districtName": "BUKO SELATAN",
+  "name": "SEANO",
+  "postalCode": "94881"
  },
  {
   "id": 7201071008,
   "districtId": 7201071,
-  "name": "APAL"
+  "districtName": "BUKO SELATAN",
+  "name": "APAL",
+  "postalCode": "94881"
  },
  {
   "id": 7201071009,
   "districtId": 7201071,
-  "name": "LELANG MATAMALING"
+  "districtName": "BUKO SELATAN",
+  "name": "LELANG MATAMALING",
+  "postalCode": "94881"
  },
  {
   "id": 7201071010,
   "districtId": 7201071,
-  "name": "LANDONAN BEBEAU"
+  "districtName": "BUKO SELATAN",
+  "name": "LANDONAN BEBEAU",
+  "postalCode": "94881"
  },
  {
   "id": 7201071011,
   "districtId": 7201071,
-  "name": "SAPELANG"
+  "districtName": "BUKO SELATAN",
+  "name": "SAPELANG",
+  "postalCode": "94881"
  }
 ]

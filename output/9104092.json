@@ -2,71 +2,99 @@
  {
   "id": 9104092001,
   "districtId": 9104092,
-  "name": "MASYETA"
+  "districtName": "MASYETA",
+  "name": "MASYETA",
+  "postalCode": "98373"
  },
  {
   "id": 9104092002,
   "districtId": 9104092,
-  "name": "MESTOFU"
+  "districtName": "MASYETA",
+  "name": "MESTOFU",
+  "postalCode": ""
  },
  {
   "id": 9104092003,
   "districtId": 9104092,
-  "name": "KALIBIRU"
+  "districtName": "MASYETA",
+  "name": "KALIBIRU",
+  "postalCode": "98373"
  },
  {
   "id": 9104092004,
   "districtId": 9104092,
-  "name": "MESOMDA"
+  "districtName": "MASYETA",
+  "name": "MESOMDA",
+  "postalCode": "98373"
  },
  {
   "id": 9104092005,
   "districtId": 9104092,
-  "name": "MESUSUGA"
+  "districtName": "MASYETA",
+  "name": "MESUSUGA",
+  "postalCode": ""
  },
  {
   "id": 9104092006,
   "districtId": 9104092,
-  "name": "MEYGERA"
+  "districtName": "MASYETA",
+  "name": "MEYGERA",
+  "postalCode": ""
  },
  {
   "id": 9104092007,
   "districtId": 9104092,
-  "name": "MEYOSA"
+  "districtName": "MASYETA",
+  "name": "MEYOSA",
+  "postalCode": ""
  },
  {
   "id": 9104092009,
   "districtId": 9104092,
-  "name": "MEYAR"
+  "districtName": "MASYETA",
+  "name": "MEYAR",
+  "postalCode": ""
  },
  {
   "id": 9104092010,
   "districtId": 9104092,
-  "name": "ONOM"
+  "districtName": "MASYETA",
+  "name": "ONOM",
+  "postalCode": ""
  },
  {
   "id": 9104092011,
   "districtId": 9104092,
-  "name": "MAYEFEB"
+  "districtName": "MASYETA",
+  "name": "MAYEFEB",
+  "postalCode": ""
  },
  {
   "id": 9104092012,
   "districtId": 9104092,
-  "name": "ESNAM"
+  "districtName": "MASYETA",
+  "name": "ESNAM",
+  "postalCode": ""
  },
  {
   "id": 9104092013,
   "districtId": 9104092,
-  "name": "MAKWAFEB"
+  "districtName": "MASYETA",
+  "name": "MAKWAFEB",
+  "postalCode": ""
  },
  {
   "id": 9104092014,
   "districtId": 9104092,
-  "name": "MAKIRA"
+  "districtName": "MASYETA",
+  "name": "MAKIRA",
+  "postalCode": ""
  },
  {
   "id": 9104092015,
   "districtId": 9104092,
-  "name": "IMUJ"
+  "districtName": "MASYETA",
+  "name": "IMUJ",
+  "postalCode": ""
  }
 ]

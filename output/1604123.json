@@ -2,51 +2,71 @@
  {
   "id": 1604123001,
   "districtId": 1604123,
-  "name": "TANJUNG PAYANG"
+  "districtName": "LAHAT SELATAN",
+  "name": "TANJUNG PAYANG",
+  "postalCode": "31419"
  },
  {
   "id": 1604123002,
   "districtId": 1604123,
-  "name": "BANJAR NEGARA"
+  "districtName": "LAHAT SELATAN",
+  "name": "BANJAR NEGARA",
+  "postalCode": "31419"
  },
  {
   "id": 1604123003,
   "districtId": 1604123,
-  "name": "TANJUNG TEBAT"
+  "districtName": "LAHAT SELATAN",
+  "name": "TANJUNG TEBAT",
+  "postalCode": "31419"
  },
  {
   "id": 1604123004,
   "districtId": 1604123,
-  "name": "KARANG ANYAR"
+  "districtName": "LAHAT SELATAN",
+  "name": "KARANG ANYAR",
+  "postalCode": "24415"
  },
  {
   "id": 1604123005,
   "districtId": 1604123,
-  "name": "NANTAL"
+  "districtName": "LAHAT SELATAN",
+  "name": "NANTAL",
+  "postalCode": "31419"
  },
  {
   "id": 1604123006,
   "districtId": 1604123,
-  "name": "KARANG BARU"
+  "districtName": "LAHAT SELATAN",
+  "name": "KARANG BARU",
+  "postalCode": "21254"
  },
  {
   "id": 1604123007,
   "districtId": 1604123,
-  "name": "TALANG SEJEMPUT"
+  "districtName": "LAHAT SELATAN",
+  "name": "TALANG SEJEMPUT",
+  "postalCode": "31461"
  },
  {
   "id": 1604123008,
   "districtId": 1604123,
-  "name": "MUARA CAWANG"
+  "districtName": "LAHAT SELATAN",
+  "name": "MUARA CAWANG",
+  "postalCode": "31419"
  },
  {
   "id": 1604123009,
   "districtId": 1604123,
-  "name": "TALANG SAWAH"
+  "districtName": "LAHAT SELATAN",
+  "name": "TALANG SAWAH",
+  "postalCode": "31461"
  },
  {
   "id": 1604123010,
   "districtId": 1604123,
-  "name": "KERUNG"
+  "districtName": "LAHAT SELATAN",
+  "name": "KERUNG",
+  "postalCode": "31461"
  }
 ]

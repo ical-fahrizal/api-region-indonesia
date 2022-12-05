@@ -2,81 +2,113 @@
  {
   "id": 3514120001,
   "districtId": 3514120,
-  "name": "PLINTAHAN"
+  "districtName": "PANDAAN",
+  "name": "PLINTAHAN",
+  "postalCode": "67156"
  },
  {
   "id": 3514120003,
   "districtId": 3514120,
-  "name": "KARANG JATI"
+  "districtName": "PANDAAN",
+  "name": "KARANG JATI",
+  "postalCode": "67183"
  },
  {
   "id": 3514120004,
   "districtId": 3514120,
-  "name": "WEDORO"
+  "districtName": "PANDAAN",
+  "name": "WEDORO",
+  "postalCode": "58161"
  },
  {
   "id": 3514120006,
   "districtId": 3514120,
-  "name": "KUTOREJO"
+  "districtName": "PANDAAN",
+  "name": "KUTOREJO",
+  "postalCode": "51161"
  },
  {
   "id": 3514120007,
   "districtId": 3514120,
-  "name": "JOGOSARI"
+  "districtName": "PANDAAN",
+  "name": "JOGOSARI",
+  "postalCode": "67156"
  },
  {
   "id": 3514120008,
   "districtId": 3514120,
-  "name": "PANDAAN"
+  "districtName": "PANDAAN",
+  "name": "PANDAAN",
+  "postalCode": "67156"
  },
  {
   "id": 3514120009,
   "districtId": 3514120,
-  "name": "PETUNGASRI"
+  "districtName": "PANDAAN",
+  "name": "PETUNGASRI",
+  "postalCode": "67156"
  },
  {
   "id": 3514120010,
   "districtId": 3514120,
-  "name": "SUMBER GEDANG"
+  "districtName": "PANDAAN",
+  "name": "SUMBER GEDANG",
+  "postalCode": "67156"
  },
  {
   "id": 3514120011,
   "districtId": 3514120,
-  "name": "TAWANG REJO"
+  "districtName": "PANDAAN",
+  "name": "TAWANG REJO",
+  "postalCode": "32382"
  },
  {
   "id": 3514120012,
   "districtId": 3514120,
-  "name": "SUMBER REJO"
+  "districtName": "PANDAAN",
+  "name": "SUMBER REJO",
+  "postalCode": "21255"
  },
  {
   "id": 3514120013,
   "districtId": 3514120,
-  "name": "NOGOSARI"
+  "districtName": "PANDAAN",
+  "name": "NOGOSARI",
+  "postalCode": "63572"
  },
  {
   "id": 3514120014,
   "districtId": 3514120,
-  "name": "KEMIRI SEWU"
+  "districtName": "PANDAAN",
+  "name": "KEMIRI SEWU",
+  "postalCode": "67156"
  },
  {
   "id": 3514120015,
   "districtId": 3514120,
-  "name": "KEBON WARIS"
+  "districtName": "PANDAAN",
+  "name": "KEBON WARIS",
+  "postalCode": "67156"
  },
  {
   "id": 3514120016,
   "districtId": 3514120,
-  "name": "SEBANI"
+  "districtName": "PANDAAN",
+  "name": "SEBANI",
+  "postalCode": "67139"
  },
  {
   "id": 3514120017,
   "districtId": 3514120,
-  "name": "BANJARSARI"
+  "districtName": "PANDAAN",
+  "name": "BANJARSARI",
+  "postalCode": "35377"
  },
  {
   "id": 3514120018,
   "districtId": 3514120,
-  "name": "BANJAR KEJEN"
+  "districtName": "PANDAAN",
+  "name": "BANJAR KEJEN",
+  "postalCode": "67156"
  }
 ]

@@ -2,51 +2,71 @@
  {
   "id": 7203040001,
   "districtId": 7203040,
-  "name": "BAHOEA REKO  REKO"
+  "districtName": "BUNGKU BARAT",
+  "name": "BAHOEA REKO  REKO",
+  "postalCode": ""
  },
  {
   "id": 7203040002,
   "districtId": 7203040,
-  "name": "WOSU"
+  "districtName": "BUNGKU BARAT",
+  "name": "WOSU",
+  "postalCode": "94976"
  },
  {
   "id": 7203040003,
   "districtId": 7203040,
-  "name": "LAROBENU"
+  "districtName": "BUNGKU BARAT",
+  "name": "LAROBENU",
+  "postalCode": "94976"
  },
  {
   "id": 7203040004,
   "districtId": 7203040,
-  "name": "UMPANGA"
+  "districtName": "BUNGKU BARAT",
+  "name": "UMPANGA",
+  "postalCode": "94976"
  },
  {
   "id": 7203040005,
   "districtId": 7203040,
-  "name": "TOFOGARO"
+  "districtName": "BUNGKU BARAT",
+  "name": "TOFOGARO",
+  "postalCode": ""
  },
  {
   "id": 7203040006,
   "districtId": 7203040,
-  "name": "TONDO"
+  "districtName": "BUNGKU BARAT",
+  "name": "TONDO",
+  "postalCode": "94976"
  },
  {
   "id": 7203040007,
   "districtId": 7203040,
-  "name": "AMBUNU"
+  "districtName": "BUNGKU BARAT",
+  "name": "AMBUNU",
+  "postalCode": "94976"
  },
  {
   "id": 7203040008,
   "districtId": 7203040,
-  "name": "MARGA MULYA"
+  "districtName": "BUNGKU BARAT",
+  "name": "MARGA MULYA",
+  "postalCode": "28565"
  },
  {
   "id": 7203040009,
   "districtId": 7203040,
-  "name": "UEDAGO"
+  "districtName": "BUNGKU BARAT",
+  "name": "UEDAGO",
+  "postalCode": "94976"
  },
  {
   "id": 7203040010,
   "districtId": 7203040,
-  "name": "WATA"
+  "districtName": "BUNGKU BARAT",
+  "name": "WATA",
+  "postalCode": "94976"
  }
 ]

@@ -2,131 +2,183 @@
  {
   "id": 3317120001,
   "districtId": 3317120,
-  "name": "TANJUNGSARI"
+  "districtName": "KRAGAN",
+  "name": "TANJUNGSARI",
+  "postalCode": "28983"
  },
  {
   "id": 3317120002,
   "districtId": 3317120,
-  "name": "SENDANGMULYO"
+  "districtName": "KRAGAN",
+  "name": "SENDANGMULYO",
+  "postalCode": "59255"
  },
  {
   "id": 3317120003,
   "districtId": 3317120,
-  "name": "SENDANGWARU"
+  "districtName": "KRAGAN",
+  "name": "SENDANGWARU",
+  "postalCode": "59273"
  },
  {
   "id": 3317120004,
   "districtId": 3317120,
-  "name": "NGASINAN"
+  "districtName": "KRAGAN",
+  "name": "NGASINAN",
+  "postalCode": "54183"
  },
  {
   "id": 3317120005,
   "districtId": 3317120,
-  "name": "KENDALAGUNG"
+  "districtName": "KRAGAN",
+  "name": "KENDALAGUNG",
+  "postalCode": "59273"
  },
  {
   "id": 3317120006,
   "districtId": 3317120,
-  "name": "MOJOKERTO"
+  "districtName": "KRAGAN",
+  "name": "MOJOKERTO",
+  "postalCode": "34175"
  },
  {
   "id": 3317120007,
   "districtId": 3317120,
-  "name": "TANJUNGAN"
+  "districtName": "KRAGAN",
+  "name": "TANJUNGAN",
+  "postalCode": "22395"
  },
  {
   "id": 3317120008,
   "districtId": 3317120,
-  "name": "KEBLORAN"
+  "districtName": "KRAGAN",
+  "name": "KEBLORAN",
+  "postalCode": "59273"
  },
  {
   "id": 3317120009,
   "districtId": 3317120,
-  "name": "KARANGANYAR"
+  "districtName": "KRAGAN",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  },
  {
   "id": 3317120010,
   "districtId": 3317120,
-  "name": "KARANGLINCAK"
+  "districtName": "KRAGAN",
+  "name": "KARANGLINCAK",
+  "postalCode": "59273"
  },
  {
   "id": 3317120011,
   "districtId": 3317120,
-  "name": "KARANGHARJO"
+  "districtName": "KRAGAN",
+  "name": "KARANGHARJO",
+  "postalCode": "59273"
  },
  {
   "id": 3317120012,
   "districtId": 3317120,
-  "name": "KRAGAN"
+  "districtName": "KRAGAN",
+  "name": "KRAGAN",
+  "postalCode": "57188"
  },
  {
   "id": 3317120013,
   "districtId": 3317120,
-  "name": "TEGALMULYO"
+  "districtName": "KRAGAN",
+  "name": "TEGALMULYO",
+  "postalCode": "57484"
  },
  {
   "id": 3317120014,
   "districtId": 3317120,
-  "name": "BALONGMULYO"
+  "districtName": "KRAGAN",
+  "name": "BALONGMULYO",
+  "postalCode": "59273"
  },
  {
   "id": 3317120015,
   "districtId": 3317120,
-  "name": "NARUKAN"
+  "districtName": "KRAGAN",
+  "name": "NARUKAN",
+  "postalCode": "59273"
  },
  {
   "id": 3317120016,
   "districtId": 3317120,
-  "name": "SUDAN"
+  "districtName": "KRAGAN",
+  "name": "SUDAN",
+  "postalCode": "59273"
  },
  {
   "id": 3317120017,
   "districtId": 3317120,
-  "name": "TERJAN"
+  "districtName": "KRAGAN",
+  "name": "TERJAN",
+  "postalCode": "59273"
  },
  {
   "id": 3317120018,
   "districtId": 3317120,
-  "name": "SENDANG"
+  "districtName": "KRAGAN",
+  "name": "SENDANG",
+  "postalCode": "45283"
  },
  {
   "id": 3317120019,
   "districtId": 3317120,
-  "name": "WATUPECAH"
+  "districtName": "KRAGAN",
+  "name": "WATUPECAH",
+  "postalCode": "59273"
  },
  {
   "id": 3317120020,
   "districtId": 3317120,
-  "name": "WORO"
+  "districtName": "KRAGAN",
+  "name": "WORO",
+  "postalCode": "59273"
  },
  {
   "id": 3317120022,
   "districtId": 3317120,
-  "name": "PLAWANGAN"
+  "districtName": "KRAGAN",
+  "name": "PLAWANGAN",
+  "postalCode": "45255"
  },
  {
   "id": 3317120023,
   "districtId": 3317120,
-  "name": "SUMBERGAYAM"
+  "districtName": "KRAGAN",
+  "name": "SUMBERGAYAM",
+  "postalCode": "59273"
  },
  {
   "id": 3317120024,
   "districtId": 3317120,
-  "name": "PANDANGAN WETAN"
+  "districtName": "KRAGAN",
+  "name": "PANDANGAN WETAN",
+  "postalCode": "59273"
  },
  {
   "id": 3317120025,
   "districtId": 3317120,
-  "name": "PANDANGAN KULON"
+  "districtName": "KRAGAN",
+  "name": "PANDANGAN KULON",
+  "postalCode": "59273"
  },
  {
   "id": 3317120026,
   "districtId": 3317120,
-  "name": "SUMURTAWANG"
+  "districtName": "KRAGAN",
+  "name": "SUMURTAWANG",
+  "postalCode": "59273"
  },
  {
   "id": 3317120027,
   "districtId": 3317120,
-  "name": "SUMBERSARI"
+  "districtName": "KRAGAN",
+  "name": "SUMBERSARI",
+  "postalCode": "34122"
  }
 ]

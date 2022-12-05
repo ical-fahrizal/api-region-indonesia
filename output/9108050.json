@@ -2,16 +2,22 @@
  {
   "id": 9108050007,
   "districtId": 9108050,
-  "name": "BIANCI"
+  "districtName": "WAIGEO BARAT",
+  "name": "BIANCI",
+  "postalCode": "98481"
  },
  {
   "id": 9108050008,
   "districtId": 9108050,
-  "name": "SALYO"
+  "districtName": "WAIGEO BARAT",
+  "name": "SALYO",
+  "postalCode": ""
  },
  {
   "id": 9108050010,
   "districtId": 9108050,
-  "name": "WAISILIP"
+  "districtName": "WAIGEO BARAT",
+  "name": "WAISILIP",
+  "postalCode": "98481"
  }
 ]

@@ -2,51 +2,71 @@
  {
   "id": 1278060001,
   "districtId": 1278060,
-  "name": "HILIGODU ULU"
+  "districtName": "GUNUNGSITOLI UTARA",
+  "name": "HILIGODU ULU",
+  "postalCode": "22851"
  },
  {
   "id": 1278060002,
   "districtId": 1278060,
-  "name": "HILIMBOWO OLORA"
+  "districtName": "GUNUNGSITOLI UTARA",
+  "name": "HILIMBOWO OLORA",
+  "postalCode": "22851"
  },
  {
   "id": 1278060003,
   "districtId": 1278060,
-  "name": "OLORA"
+  "districtName": "GUNUNGSITOLI UTARA",
+  "name": "OLORA",
+  "postalCode": "22851"
  },
  {
   "id": 1278060004,
   "districtId": 1278060,
-  "name": "GAWU GAWU BOUSO"
+  "districtName": "GUNUNGSITOLI UTARA",
+  "name": "GAWU GAWU BOUSO",
+  "postalCode": ""
  },
  {
   "id": 1278060005,
   "districtId": 1278060,
-  "name": "LOLOANAA / LOLOMOYO"
+  "districtName": "GUNUNGSITOLI UTARA",
+  "name": "LOLOANAA / LOLOMOYO",
+  "postalCode": ""
  },
  {
   "id": 1278060006,
   "districtId": 1278060,
-  "name": "LASARA SOWU"
+  "districtName": "GUNUNGSITOLI UTARA",
+  "name": "LASARA SOWU",
+  "postalCode": "22851"
  },
  {
   "id": 1278060007,
   "districtId": 1278060,
-  "name": "HAMBAWA"
+  "districtName": "GUNUNGSITOLI UTARA",
+  "name": "HAMBAWA",
+  "postalCode": "22851"
  },
  {
   "id": 1278060008,
   "districtId": 1278060,
-  "name": "TETEHOSI AFIA"
+  "districtName": "GUNUNGSITOLI UTARA",
+  "name": "TETEHOSI AFIA",
+  "postalCode": "22851"
  },
  {
   "id": 1278060009,
   "districtId": 1278060,
-  "name": "AFIA"
+  "districtName": "GUNUNGSITOLI UTARA",
+  "name": "AFIA",
+  "postalCode": "22851"
  },
  {
   "id": 1278060010,
   "districtId": 1278060,
-  "name": "TELUK BELUKAR"
+  "districtName": "GUNUNGSITOLI UTARA",
+  "name": "TELUK BELUKAR",
+  "postalCode": "22851"
  }
 ]

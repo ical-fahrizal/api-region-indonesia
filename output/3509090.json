@@ -2,36 +2,50 @@
  {
   "id": 3509090001,
   "districtId": 3509090,
-  "name": "KAWANGREJO"
+  "districtName": "MUMBULSARI",
+  "name": "KAWANGREJO",
+  "postalCode": "68174"
  },
  {
   "id": 3509090002,
   "districtId": 3509090,
-  "name": "TAMANSARI"
+  "districtName": "MUMBULSARI",
+  "name": "TAMANSARI",
+  "postalCode": "35366"
  },
  {
   "id": 3509090003,
   "districtId": 3509090,
-  "name": "SUCO"
+  "districtName": "MUMBULSARI",
+  "name": "SUCO",
+  "postalCode": "68174"
  },
  {
   "id": 3509090004,
   "districtId": 3509090,
-  "name": "LAMPEJI"
+  "districtName": "MUMBULSARI",
+  "name": "LAMPEJI",
+  "postalCode": "68174"
  },
  {
   "id": 3509090005,
   "districtId": 3509090,
-  "name": "MUMBULSARI"
+  "districtName": "MUMBULSARI",
+  "name": "MUMBULSARI",
+  "postalCode": "68174"
  },
  {
   "id": 3509090006,
   "districtId": 3509090,
-  "name": "LENGKONG"
+  "districtName": "MUMBULSARI",
+  "name": "LENGKONG",
+  "postalCode": "24415"
  },
  {
   "id": 3509090007,
   "districtId": 3509090,
-  "name": "KARANGKEDAWUNG"
+  "districtName": "MUMBULSARI",
+  "name": "KARANGKEDAWUNG",
+  "postalCode": "53181"
  }
 ]

@@ -2,51 +2,71 @@
  {
   "id": 7105020009,
   "districtId": 7105020,
-  "name": "RARAATEAN"
+  "districtName": "TOMPASO BARU",
+  "name": "RARAATEAN",
+  "postalCode": "95357"
  },
  {
   "id": 7105020010,
   "districtId": 7105020,
-  "name": "SION"
+  "districtName": "TOMPASO BARU",
+  "name": "SION",
+  "postalCode": "95357"
  },
  {
   "id": 7105020011,
   "districtId": 7105020,
-  "name": "TOMPASO BARU DUA"
+  "districtName": "TOMPASO BARU",
+  "name": "TOMPASO BARU DUA",
+  "postalCode": "95357"
  },
  {
   "id": 7105020012,
   "districtId": 7105020,
-  "name": "KINALAWIRAN"
+  "districtName": "TOMPASO BARU",
+  "name": "KINALAWIRAN",
+  "postalCode": "95357"
  },
  {
   "id": 7105020013,
   "districtId": 7105020,
-  "name": "TOMPASO BARU SATU"
+  "districtName": "TOMPASO BARU",
+  "name": "TOMPASO BARU SATU",
+  "postalCode": "95357"
  },
  {
   "id": 7105020014,
   "districtId": 7105020,
-  "name": "PINAESAAN"
+  "districtName": "TOMPASO BARU",
+  "name": "PINAESAAN",
+  "postalCode": "95357"
  },
  {
   "id": 7105020015,
   "districtId": 7105020,
-  "name": "TOROUT"
+  "districtName": "TOMPASO BARU",
+  "name": "TOROUT",
+  "postalCode": "95357"
  },
  {
   "id": 7105020016,
   "districtId": 7105020,
-  "name": "LINDANGAN"
+  "districtName": "TOMPASO BARU",
+  "name": "LINDANGAN",
+  "postalCode": "95357"
  },
  {
   "id": 7105020017,
   "districtId": 7105020,
-  "name": "KAROWA"
+  "districtName": "TOMPASO BARU",
+  "name": "KAROWA",
+  "postalCode": "95357"
  },
  {
   "id": 7105020018,
   "districtId": 7105020,
-  "name": "LIANDOK"
+  "districtName": "TOMPASO BARU",
+  "name": "LIANDOK",
+  "postalCode": "95357"
  }
 ]

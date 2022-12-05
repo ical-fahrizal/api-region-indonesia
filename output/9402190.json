@@ -2,61 +2,85 @@
  {
   "id": 9402190007,
   "districtId": 9402190,
-  "name": "KIMIMA"
+  "districtName": "KURULU",
+  "name": "KIMIMA",
+  "postalCode": ""
  },
  {
   "id": 9402190008,
   "districtId": 9402190,
-  "name": "JIWIKA"
+  "districtName": "KURULU",
+  "name": "JIWIKA",
+  "postalCode": ""
  },
  {
   "id": 9402190009,
   "districtId": 9402190,
-  "name": "WAGA - WAGA"
+  "districtName": "KURULU",
+  "name": "WAGA - WAGA",
+  "postalCode": ""
  },
  {
   "id": 9402190010,
   "districtId": 9402190,
-  "name": "ERAGAMA"
+  "districtName": "KURULU",
+  "name": "ERAGAMA",
+  "postalCode": ""
  },
  {
   "id": 9402190011,
   "districtId": 9402190,
-  "name": "ABUSA"
+  "districtName": "KURULU",
+  "name": "ABUSA",
+  "postalCode": "99552"
  },
  {
   "id": 9402190012,
   "districtId": 9402190,
-  "name": "MILIMA"
+  "districtName": "KURULU",
+  "name": "MILIMA",
+  "postalCode": ""
  },
  {
   "id": 9402190027,
   "districtId": 9402190,
-  "name": "OBYA"
+  "districtName": "KURULU",
+  "name": "OBYA",
+  "postalCode": "99552"
  },
  {
   "id": 9402190028,
   "districtId": 9402190,
-  "name": "MEBAGAIMA"
+  "districtName": "KURULU",
+  "name": "MEBAGAIMA",
+  "postalCode": "99552"
  },
  {
   "id": 9402190029,
   "districtId": 9402190,
-  "name": "IYANTIK"
+  "districtName": "KURULU",
+  "name": "IYANTIK",
+  "postalCode": "99552"
  },
  {
   "id": 9402190030,
   "districtId": 9402190,
-  "name": "UMPAGALO"
+  "districtName": "KURULU",
+  "name": "UMPAGALO",
+  "postalCode": "99552"
  },
  {
   "id": 9402190031,
   "districtId": 9402190,
-  "name": "HOPAMA"
+  "districtName": "KURULU",
+  "name": "HOPAMA",
+  "postalCode": "99552"
  },
  {
   "id": 9402190032,
   "districtId": 9402190,
-  "name": "UTKOLO I"
+  "districtName": "KURULU",
+  "name": "UTKOLO I",
+  "postalCode": ""
  }
 ]

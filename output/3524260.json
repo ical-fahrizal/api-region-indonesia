@@ -2,51 +2,71 @@
  {
   "id": 3524260001,
   "districtId": 3524260,
-  "name": "LEMBOR"
+  "districtName": "BRONDONG",
+  "name": "LEMBOR",
+  "postalCode": "62263"
  },
  {
   "id": 3524260002,
   "districtId": 3524260,
-  "name": "TLOGORETNO"
+  "districtName": "BRONDONG",
+  "name": "TLOGORETNO",
+  "postalCode": "62263"
  },
  {
   "id": 3524260003,
   "districtId": 3524260,
-  "name": "SIDOMUKTI"
+  "districtName": "BRONDONG",
+  "name": "SIDOMUKTI",
+  "postalCode": "21217"
  },
  {
   "id": 3524260004,
   "districtId": 3524260,
-  "name": "LOHGUNG"
+  "districtName": "BRONDONG",
+  "name": "LOHGUNG",
+  "postalCode": "62263"
  },
  {
   "id": 3524260005,
   "districtId": 3524260,
-  "name": "LABUHAN"
+  "districtName": "BRONDONG",
+  "name": "LABUHAN",
+  "postalCode": "34876"
  },
  {
   "id": 3524260006,
   "districtId": 3524260,
-  "name": "BRENGKOK"
+  "districtName": "BRONDONG",
+  "name": "BRENGKOK",
+  "postalCode": "53475"
  },
  {
   "id": 3524260007,
   "districtId": 3524260,
-  "name": "SENDANGHARJO"
+  "districtName": "BRONDONG",
+  "name": "SENDANGHARJO",
+  "postalCode": "58219"
  },
  {
   "id": 3524260008,
   "districtId": 3524260,
-  "name": "SEDAYULAWAS"
+  "districtName": "BRONDONG",
+  "name": "SEDAYULAWAS",
+  "postalCode": "62263"
  },
  {
   "id": 3524260009,
   "districtId": 3524260,
-  "name": "SUMBERAGUNG"
+  "districtName": "BRONDONG",
+  "name": "SUMBERAGUNG",
+  "postalCode": "35452"
  },
  {
   "id": 3524260010,
   "districtId": 3524260,
-  "name": "BRONDONG"
+  "districtName": "BRONDONG",
+  "name": "BRONDONG",
+  "postalCode": "45219"
  }
 ]

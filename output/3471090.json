@@ -2,11 +2,15 @@
  {
   "id": 3471090001,
   "districtId": 3471090,
-  "name": "PRAWIRODIRJAN"
+  "districtName": "GONDOMANAN",
+  "name": "PRAWIRODIRJAN",
+  "postalCode": "55121"
  },
  {
   "id": 3471090002,
   "districtId": 3471090,
-  "name": "NGUPASAN"
+  "districtName": "GONDOMANAN",
+  "name": "NGUPASAN",
+  "postalCode": "55122"
  }
 ]

@@ -2,61 +2,85 @@
  {
   "id": 3522140001,
   "districtId": 3522140,
-  "name": "KALICILIK"
+  "districtName": "SUKOSEWU",
+  "name": "KALICILIK",
+  "postalCode": "59514"
  },
  {
   "id": 3522140002,
   "districtId": 3522140,
-  "name": "SEMAWOT"
+  "districtName": "SUKOSEWU",
+  "name": "SEMAWOT",
+  "postalCode": "62183"
  },
  {
   "id": 3522140004,
   "districtId": 3522140,
-  "name": "TEGALKODO"
+  "districtName": "SUKOSEWU",
+  "name": "TEGALKODO",
+  "postalCode": "62183"
  },
  {
   "id": 3522140005,
   "districtId": 3522140,
-  "name": "SITIAJI"
+  "districtName": "SUKOSEWU",
+  "name": "SITIAJI",
+  "postalCode": "62183"
  },
  {
   "id": 3522140006,
   "districtId": 3522140,
-  "name": "PURWOASRI"
+  "districtName": "SUKOSEWU",
+  "name": "PURWOASRI",
+  "postalCode": "68165"
  },
  {
   "id": 3522140007,
   "districtId": 3522140,
-  "name": "PACING"
+  "districtName": "SUKOSEWU",
+  "name": "PACING",
+  "postalCode": "41374"
  },
  {
   "id": 3522140008,
   "districtId": 3522140,
-  "name": "DUYUNGAN"
+  "districtName": "SUKOSEWU",
+  "name": "DUYUNGAN",
+  "postalCode": "57281"
  },
  {
   "id": 3522140010,
   "districtId": 3522140,
-  "name": "SEMEN KIDUL"
+  "districtName": "SUKOSEWU",
+  "name": "SEMEN KIDUL",
+  "postalCode": "62183"
  },
  {
   "id": 3522140011,
   "districtId": 3522140,
-  "name": "SUKOSEWU"
+  "districtName": "SUKOSEWU",
+  "name": "SUKOSEWU",
+  "postalCode": "66187"
  },
  {
   "id": 3522140012,
   "districtId": 3522140,
-  "name": "SUMBEREJO KIDUL"
+  "districtName": "SUKOSEWU",
+  "name": "SUMBEREJO KIDUL",
+  "postalCode": "62183"
  },
  {
   "id": 3522140013,
   "districtId": 3522140,
-  "name": "SIDOREJO"
+  "districtName": "SUKOSEWU",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 3522140014,
   "districtId": 3522140,
-  "name": "SIDODADI"
+  "districtName": "SUKOSEWU",
+  "name": "SIDODADI",
+  "postalCode": "24582"
  }
 ]

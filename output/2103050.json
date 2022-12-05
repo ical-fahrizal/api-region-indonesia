@@ -2,31 +2,43 @@
  {
   "id": 2103050002,
   "districtId": 2103050,
-  "name": "SUNGAI ULU"
+  "districtName": "BUNGURAN TIMUR",
+  "name": "SUNGAI ULU",
+  "postalCode": "29783"
  },
  {
   "id": 2103050003,
   "districtId": 2103050,
-  "name": "RANAI"
+  "districtName": "BUNGURAN TIMUR",
+  "name": "RANAI",
+  "postalCode": ""
  },
  {
   "id": 2103050008,
   "districtId": 2103050,
-  "name": "SEPEMPANG"
+  "districtName": "BUNGURAN TIMUR",
+  "name": "SEPEMPANG",
+  "postalCode": "29783"
  },
  {
   "id": 2103050014,
   "districtId": 2103050,
-  "name": "BATU GAJAH"
+  "districtName": "BUNGURAN TIMUR",
+  "name": "BATU GAJAH",
+  "postalCode": "22983"
  },
  {
   "id": 2103050015,
   "districtId": 2103050,
-  "name": "RANAI DARAT"
+  "districtName": "BUNGURAN TIMUR",
+  "name": "RANAI DARAT",
+  "postalCode": "29783"
  },
  {
   "id": 2103050016,
   "districtId": 2103050,
-  "name": "BANDARSYAH"
+  "districtName": "BUNGURAN TIMUR",
+  "name": "BANDARSYAH",
+  "postalCode": "29783"
  }
 ]

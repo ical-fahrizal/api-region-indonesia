@@ -2,31 +2,43 @@
  {
   "id": 3518020001,
   "districtId": 3518020,
-  "name": "KLODAN"
+  "districtName": "NGETOS",
+  "name": "KLODAN",
+  "postalCode": "64474"
  },
  {
   "id": 3518020002,
   "districtId": 3518020,
-  "name": "BLONGKO"
+  "districtName": "NGETOS",
+  "name": "BLONGKO",
+  "postalCode": "64474"
  },
  {
   "id": 3518020005,
   "districtId": 3518020,
-  "name": "NGETOS"
+  "districtName": "NGETOS",
+  "name": "NGETOS",
+  "postalCode": "64474"
  },
  {
   "id": 3518020007,
   "districtId": 3518020,
-  "name": "ORO-ORO OMBO"
+  "districtName": "NGETOS",
+  "name": "ORO-ORO OMBO",
+  "postalCode": "65316"
  },
  {
   "id": 3518020008,
   "districtId": 3518020,
-  "name": "MOJODUWUR"
+  "districtName": "NGETOS",
+  "name": "MOJODUWUR",
+  "postalCode": "61475"
  },
  {
   "id": 3518020009,
   "districtId": 3518020,
-  "name": "KUNCIR"
+  "districtName": "NGETOS",
+  "name": "KUNCIR",
+  "postalCode": "27355"
  }
 ]

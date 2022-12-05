@@ -2,26 +2,36 @@
  {
   "id": 3202221002,
   "districtId": 3202221,
-  "name": "CIAMBAR"
+  "districtName": "CIAMBAR",
+  "name": "CIAMBAR",
+  "postalCode": "43356"
  },
  {
   "id": 3202221003,
   "districtId": 3202221,
-  "name": "GINANJAR"
+  "districtName": "CIAMBAR",
+  "name": "GINANJAR",
+  "postalCode": "43356"
  },
  {
   "id": 3202221004,
   "districtId": 3202221,
-  "name": "WANGUNJAYA"
+  "districtName": "CIAMBAR",
+  "name": "WANGUNJAYA",
+  "postalCode": "43273"
  },
  {
   "id": 3202221005,
   "districtId": 3202221,
-  "name": "CIBUNARJAYA"
+  "districtName": "CIAMBAR",
+  "name": "CIBUNARJAYA",
+  "postalCode": "43356"
  },
  {
   "id": 3202221006,
   "districtId": 3202221,
-  "name": "AMBARJAYA"
+  "districtName": "CIAMBAR",
+  "name": "AMBARJAYA",
+  "postalCode": "43356"
  }
 ]

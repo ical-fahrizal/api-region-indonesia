@@ -2,66 +2,92 @@
  {
   "id": 3601130007,
   "districtId": 3601130,
-  "name": "BANYURESMI"
+  "districtName": "JIPUT",
+  "name": "BANYURESMI",
+  "postalCode": "44191"
  },
  {
   "id": 3601130008,
   "districtId": 3601130,
-  "name": "SALAPRAYA"
+  "districtName": "JIPUT",
+  "name": "SALAPRAYA",
+  "postalCode": "42263"
  },
  {
   "id": 3601130009,
   "districtId": 3601130,
-  "name": "PAMARAYAN"
+  "districtName": "JIPUT",
+  "name": "PAMARAYAN",
+  "postalCode": "42263"
  },
  {
   "id": 3601130010,
   "districtId": 3601130,
-  "name": "SAMPANGBITUNG"
+  "districtName": "JIPUT",
+  "name": "SAMPANGBITUNG",
+  "postalCode": "42263"
  },
  {
   "id": 3601130011,
   "districtId": 3601130,
-  "name": "JIPUT"
+  "districtName": "JIPUT",
+  "name": "JIPUT",
+  "postalCode": "42263"
  },
  {
   "id": 3601130012,
   "districtId": 3601130,
-  "name": "SUKACAI"
+  "districtName": "JIPUT",
+  "name": "SUKACAI",
+  "postalCode": "42173"
  },
  {
   "id": 3601130013,
   "districtId": 3601130,
-  "name": "TENJOLAHANG"
+  "districtName": "JIPUT",
+  "name": "TENJOLAHANG",
+  "postalCode": "42263"
  },
  {
   "id": 3601130014,
   "districtId": 3601130,
-  "name": "BABADSARI"
+  "districtName": "JIPUT",
+  "name": "BABADSARI",
+  "postalCode": "54393"
  },
  {
   "id": 3601130015,
   "districtId": 3601130,
-  "name": "JANAKA"
+  "districtName": "JIPUT",
+  "name": "JANAKA",
+  "postalCode": "42263"
  },
  {
   "id": 3601130016,
   "districtId": 3601130,
-  "name": "SUKAMANAH"
+  "districtName": "JIPUT",
+  "name": "SUKAMANAH",
+  "postalCode": "43273"
  },
  {
   "id": 3601130018,
   "districtId": 3601130,
-  "name": "SIKULAN"
+  "districtName": "JIPUT",
+  "name": "SIKULAN",
+  "postalCode": "42263"
  },
  {
   "id": 3601130019,
   "districtId": 3601130,
-  "name": "CITAMAN"
+  "districtName": "JIPUT",
+  "name": "CITAMAN",
+  "postalCode": "40215"
  },
  {
   "id": 3601130020,
   "districtId": 3601130,
-  "name": "JAYAMEKAR"
+  "districtName": "JIPUT",
+  "name": "JAYAMEKAR",
+  "postalCode": "43166"
  }
 ]

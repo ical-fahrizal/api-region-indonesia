@@ -2,71 +2,99 @@
  {
   "id": 1105100001,
   "districtId": 1105100,
-  "name": "ALUE TUWI"
+  "districtName": "RANTAU SELAMAT",
+  "name": "ALUE TUWI",
+  "postalCode": "24452"
  },
  {
   "id": 1105100002,
   "districtId": 1105100,
-  "name": "ALUE KAOL"
+  "districtName": "RANTAU SELAMAT",
+  "name": "ALUE KAOL",
+  "postalCode": ""
  },
  {
   "id": 1105100003,
   "districtId": 1105100,
-  "name": "ALUE PUNTI"
+  "districtName": "RANTAU SELAMAT",
+  "name": "ALUE PUNTI",
+  "postalCode": "23653"
  },
  {
   "id": 1105100004,
   "districtId": 1105100,
-  "name": "DAMAR SIPUT"
+  "districtName": "RANTAU SELAMAT",
+  "name": "DAMAR SIPUT",
+  "postalCode": "24452"
  },
  {
   "id": 1105100005,
   "districtId": 1105100,
-  "name": "SIMPANG PEUT"
+  "districtName": "RANTAU SELAMAT",
+  "name": "SIMPANG PEUT",
+  "postalCode": "23652"
  },
  {
   "id": 1105100006,
   "districtId": 1105100,
-  "name": "SARAH KAYEE"
+  "districtName": "RANTAU SELAMAT",
+  "name": "SARAH KAYEE",
+  "postalCode": "24452"
  },
  {
   "id": 1105100007,
   "districtId": 1105100,
-  "name": "ALUR SEULEUMAK"
+  "districtName": "RANTAU SELAMAT",
+  "name": "ALUR SEULEUMAK",
+  "postalCode": ""
  },
  {
   "id": 1105100008,
   "districtId": 1105100,
-  "name": "SIMPANG ANEUH"
+  "districtName": "RANTAU SELAMAT",
+  "name": "SIMPANG ANEUH",
+  "postalCode": "24452"
  },
  {
   "id": 1105100009,
   "districtId": 1105100,
-  "name": "GAMPONG BAYEUN"
+  "districtName": "RANTAU SELAMAT",
+  "name": "GAMPONG BAYEUN",
+  "postalCode": ""
  },
  {
   "id": 1105100010,
   "districtId": 1105100,
-  "name": "SARAH TEUBEE"
+  "districtName": "RANTAU SELAMAT",
+  "name": "SARAH TEUBEE",
+  "postalCode": "24452"
  },
  {
   "id": 1105100011,
   "districtId": 1105100,
-  "name": "RANTAU PANJANG"
+  "districtName": "RANTAU SELAMAT",
+  "name": "RANTAU PANJANG",
+  "postalCode": "24476"
  },
  {
   "id": 1105100012,
   "districtId": 1105100,
-  "name": "ALUE RAYA"
+  "districtName": "RANTAU SELAMAT",
+  "name": "ALUE RAYA",
+  "postalCode": "23662"
  },
  {
   "id": 1105100013,
   "districtId": 1105100,
-  "name": "SEUNEUBOK DALAM"
+  "districtName": "RANTAU SELAMAT",
+  "name": "SEUNEUBOK DALAM",
+  "postalCode": "24456"
  },
  {
   "id": 1105100014,
   "districtId": 1105100,
-  "name": "ALUE KUMBA"
+  "districtName": "RANTAU SELAMAT",
+  "name": "ALUE KUMBA",
+  "postalCode": "24452"
  }
 ]

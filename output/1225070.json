@@ -2,71 +2,99 @@
  {
   "id": 1225070001,
   "districtId": 1225070,
-  "name": "ONOLIMBU RAYA"
+  "districtName": "MANDREHE BARAT",
+  "name": "ONOLIMBU RAYA",
+  "postalCode": ""
  },
  {
   "id": 1225070002,
   "districtId": 1225070,
-  "name": "ONONAMOLO III"
+  "districtName": "MANDREHE BARAT",
+  "name": "ONONAMOLO III",
+  "postalCode": "22812"
  },
  {
   "id": 1225070003,
   "districtId": 1225070,
-  "name": "SISOBAOHO"
+  "districtName": "MANDREHE BARAT",
+  "name": "SISOBAOHO",
+  "postalCode": "22864"
  },
  {
   "id": 1225070004,
   "districtId": 1225070,
-  "name": "IRAONOGEBA"
+  "districtName": "MANDREHE BARAT",
+  "name": "IRAONOGEBA",
+  "postalCode": "22812"
  },
  {
   "id": 1225070005,
   "districtId": 1225070,
-  "name": "LOLOHIA"
+  "districtName": "MANDREHE BARAT",
+  "name": "LOLOHIA",
+  "postalCode": "22812"
  },
  {
   "id": 1225070006,
   "districtId": 1225070,
-  "name": "ONOLIMBU YOU"
+  "districtName": "MANDREHE BARAT",
+  "name": "ONOLIMBU YOU",
+  "postalCode": ""
  },
  {
   "id": 1225070007,
   "districtId": 1225070,
-  "name": "FADORO SIFULUBANUA"
+  "districtName": "MANDREHE BARAT",
+  "name": "FADORO SIFULUBANUA",
+  "postalCode": ""
  },
  {
   "id": 1225070008,
   "districtId": 1225070,
-  "name": "HILIDAURA"
+  "districtName": "MANDREHE BARAT",
+  "name": "HILIDAURA",
+  "postalCode": "22812"
  },
  {
   "id": 1225070009,
   "districtId": 1225070,
-  "name": "SISARAHILI II"
+  "districtName": "MANDREHE BARAT",
+  "name": "SISARAHILI II",
+  "postalCode": "22812"
  },
  {
   "id": 1225070010,
   "districtId": 1225070,
-  "name": "LASARABAGAWU"
+  "districtName": "MANDREHE BARAT",
+  "name": "LASARABAGAWU",
+  "postalCode": ""
  },
  {
   "id": 1225070011,
   "districtId": 1225070,
-  "name": "SISOBANDRAO"
+  "districtName": "MANDREHE BARAT",
+  "name": "SISOBANDRAO",
+  "postalCode": "22812"
  },
  {
   "id": 1225070012,
   "districtId": 1225070,
-  "name": "MAZINGO"
+  "districtName": "MANDREHE BARAT",
+  "name": "MAZINGO",
+  "postalCode": "22814"
  },
  {
   "id": 1225070013,
   "districtId": 1225070,
-  "name": "LASARAFAGA"
+  "districtName": "MANDREHE BARAT",
+  "name": "LASARAFAGA",
+  "postalCode": ""
  },
  {
   "id": 1225070014,
   "districtId": 1225070,
-  "name": "ORAHILIBADALU"
+  "districtName": "MANDREHE BARAT",
+  "name": "ORAHILIBADALU",
+  "postalCode": ""
  }
 ]

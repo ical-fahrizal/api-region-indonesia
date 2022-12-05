@@ -2,76 +2,106 @@
  {
   "id": 3325100005,
   "districtId": 3325100,
-  "name": "TULIS"
+  "districtName": "TULIS",
+  "name": "TULIS",
+  "postalCode": "51261"
  },
  {
   "id": 3325100006,
   "districtId": 3325100,
-  "name": "WRINGINGINTUNG"
+  "districtName": "TULIS",
+  "name": "WRINGINGINTUNG",
+  "postalCode": "51261"
  },
  {
   "id": 3325100007,
   "districtId": 3325100,
-  "name": "POSONG"
+  "districtName": "TULIS",
+  "name": "POSONG",
+  "postalCode": "51261"
  },
  {
   "id": 3325100008,
   "districtId": 3325100,
-  "name": "SEMBOJO"
+  "districtName": "TULIS",
+  "name": "SEMBOJO",
+  "postalCode": "51261"
  },
  {
   "id": 3325100009,
   "districtId": 3325100,
-  "name": "BEJI"
+  "districtName": "TULIS",
+  "name": "BEJI",
+  "postalCode": "16421"
  },
  {
   "id": 3325100010,
   "districtId": 3325100,
-  "name": "KALIBOYO"
+  "districtName": "TULIS",
+  "name": "KALIBOYO",
+  "postalCode": "51261"
  },
  {
   "id": 3325100011,
   "districtId": 3325100,
-  "name": "SIMBANGDESA"
+  "districtName": "TULIS",
+  "name": "SIMBANGDESA",
+  "postalCode": "51261"
  },
  {
   "id": 3325100012,
   "districtId": 3325100,
-  "name": "SIMBANGJATI"
+  "districtName": "TULIS",
+  "name": "SIMBANGJATI",
+  "postalCode": "51261"
  },
  {
   "id": 3325100021,
   "districtId": 3325100,
-  "name": "PONOWARENG"
+  "districtName": "TULIS",
+  "name": "PONOWARENG",
+  "postalCode": "51261"
  },
  {
   "id": 3325100022,
   "districtId": 3325100,
-  "name": "KENCONOREJO"
+  "districtName": "TULIS",
+  "name": "KENCONOREJO",
+  "postalCode": "51261"
  },
  {
   "id": 3325100023,
   "districtId": 3325100,
-  "name": "KEDUNGSEGOG"
+  "districtName": "TULIS",
+  "name": "KEDUNGSEGOG",
+  "postalCode": "51261"
  },
  {
   "id": 3325100024,
   "districtId": 3325100,
-  "name": "MANGGIS"
+  "districtName": "TULIS",
+  "name": "MANGGIS",
+  "postalCode": "22742"
  },
  {
   "id": 3325100025,
   "districtId": 3325100,
-  "name": "JOLOSEKTI"
+  "districtName": "TULIS",
+  "name": "JOLOSEKTI",
+  "postalCode": "51262"
  },
  {
   "id": 3325100026,
   "districtId": 3325100,
-  "name": "SIBERUK"
+  "districtName": "TULIS",
+  "name": "SIBERUK",
+  "postalCode": "51262"
  },
  {
   "id": 3325100029,
   "districtId": 3325100,
-  "name": "JRAKAHPAYUNG"
+  "districtName": "TULIS",
+  "name": "JRAKAHPAYUNG",
+  "postalCode": "51262"
  }
 ]

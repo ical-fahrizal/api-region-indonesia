@@ -2,71 +2,99 @@
  {
   "id": 3326060001,
   "districtId": 3326060,
-  "name": "PUNGANGAN"
+  "districtName": "DORO",
+  "name": "PUNGANGAN",
+  "postalCode": "51191"
  },
  {
   "id": 3326060002,
   "districtId": 3326060,
-  "name": "SIDOHARJO"
+  "districtName": "DORO",
+  "name": "SIDOHARJO",
+  "postalCode": "30975"
  },
  {
   "id": 3326060003,
   "districtId": 3326060,
-  "name": "LEMAH ABANG"
+  "districtName": "DORO",
+  "name": "LEMAH ABANG",
+  "postalCode": "51191"
  },
  {
   "id": 3326060004,
   "districtId": 3326060,
-  "name": "ROGOSELO"
+  "districtName": "DORO",
+  "name": "ROGOSELO",
+  "postalCode": "51191"
  },
  {
   "id": 3326060005,
   "districtId": 3326060,
-  "name": "HARJOSARI"
+  "districtName": "DORO",
+  "name": "HARJOSARI",
+  "postalCode": "28122"
  },
  {
   "id": 3326060006,
   "districtId": 3326060,
-  "name": "LARIKAN"
+  "districtName": "DORO",
+  "name": "LARIKAN",
+  "postalCode": "51191"
  },
  {
   "id": 3326060007,
   "districtId": 3326060,
-  "name": "SAWANGAN"
+  "districtName": "DORO",
+  "name": "SAWANGAN",
+  "postalCode": "41272"
  },
  {
   "id": 3326060008,
   "districtId": 3326060,
-  "name": "DOROREJO"
+  "districtName": "DORO",
+  "name": "DOROREJO",
+  "postalCode": "51191"
  },
  {
   "id": 3326060009,
   "districtId": 3326060,
-  "name": "DORO"
+  "districtName": "DORO",
+  "name": "DORO",
+  "postalCode": "51191"
  },
  {
   "id": 3326060010,
   "districtId": 3326060,
-  "name": "RANDUSARI"
+  "districtName": "DORO",
+  "name": "RANDUSARI",
+  "postalCode": "45588"
  },
  {
   "id": 3326060011,
   "districtId": 3326060,
-  "name": "KUTOSARI"
+  "districtName": "DORO",
+  "name": "KUTOSARI",
+  "postalCode": "32385"
  },
  {
   "id": 3326060012,
   "districtId": 3326060,
-  "name": "WRINGIN AGUNG"
+  "districtName": "DORO",
+  "name": "WRINGIN AGUNG",
+  "postalCode": "51191"
  },
  {
   "id": 3326060013,
   "districtId": 3326060,
-  "name": "KALIMOJOSARI"
+  "districtName": "DORO",
+  "name": "KALIMOJOSARI",
+  "postalCode": "51191"
  },
  {
   "id": 3326060014,
   "districtId": 3326060,
-  "name": "BLIGOREJO"
+  "districtName": "DORO",
+  "name": "BLIGOREJO",
+  "postalCode": "51191"
  }
 ]

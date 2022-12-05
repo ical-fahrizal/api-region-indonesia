@@ -2,46 +2,64 @@
  {
   "id": 9112050001,
   "districtId": 9112050,
-  "name": "PAMAHA"
+  "districtName": "ANGGI",
+  "name": "PAMAHA",
+  "postalCode": "98354"
  },
  {
   "id": 9112050002,
   "districtId": 9112050,
-  "name": "TESTEGA PAMAHA"
+  "districtName": "ANGGI",
+  "name": "TESTEGA PAMAHA",
+  "postalCode": "98354"
  },
  {
   "id": 9112050003,
   "districtId": 9112050,
-  "name": "IRAIWERI"
+  "districtName": "ANGGI",
+  "name": "IRAIWERI",
+  "postalCode": "98354"
  },
  {
   "id": 9112050004,
   "districtId": 9112050,
-  "name": "IMBAI"
+  "districtName": "ANGGI",
+  "name": "IMBAI",
+  "postalCode": "98354"
  },
  {
   "id": 9112050006,
   "districtId": 9112050,
-  "name": "SUSI"
+  "districtName": "ANGGI",
+  "name": "SUSI",
+  "postalCode": "98354"
  },
  {
   "id": 9112050007,
   "districtId": 9112050,
-  "name": "INGEBAI / IMBEISBA"
+  "districtName": "ANGGI",
+  "name": "INGEBAI / IMBEISBA",
+  "postalCode": ""
  },
  {
   "id": 9112050008,
   "districtId": 9112050,
-  "name": "SUTEIBEY"
+  "districtName": "ANGGI",
+  "name": "SUTEIBEY",
+  "postalCode": ""
  },
  {
   "id": 9112050010,
   "districtId": 9112050,
-  "name": "AYAUBEY"
+  "districtName": "ANGGI",
+  "name": "AYAUBEY",
+  "postalCode": ""
  },
  {
   "id": 9112050013,
   "districtId": 9112050,
-  "name": "ULONG"
+  "districtName": "ANGGI",
+  "name": "ULONG",
+  "postalCode": ""
  }
 ]

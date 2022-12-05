@@ -2,86 +2,120 @@
  {
   "id": 1174020002,
   "districtId": 1174020,
-  "name": "PALOH BATEE"
+  "districtName": "MUARA DUA",
+  "name": "PALOH BATEE",
+  "postalCode": "24352"
  },
  {
   "id": 1174020003,
   "districtId": 1174020,
-  "name": "LHOK MON PUTEH"
+  "districtName": "MUARA DUA",
+  "name": "LHOK MON PUTEH",
+  "postalCode": "24352"
  },
  {
   "id": 1174020004,
   "districtId": 1174020,
-  "name": "COT GIREK"
+  "districtName": "MUARA DUA",
+  "name": "COT GIREK",
+  "postalCode": "24352"
  },
  {
   "id": 1174020005,
   "districtId": 1174020,
-  "name": "MANYANG"
+  "districtName": "MUARA DUA",
+  "name": "MANYANG",
+  "postalCode": "24184"
  },
  {
   "id": 1174020006,
   "districtId": 1174020,
-  "name": "BLANG CRUM"
+  "districtName": "MUARA DUA",
+  "name": "BLANG CRUM",
+  "postalCode": "24352"
  },
  {
   "id": 1174020007,
   "districtId": 1174020,
-  "name": "ALUE AWE"
+  "districtName": "MUARA DUA",
+  "name": "ALUE AWE",
+  "postalCode": "24373"
  },
  {
   "id": 1174020008,
   "districtId": 1174020,
-  "name": "CUT MAMPLAM"
+  "districtName": "MUARA DUA",
+  "name": "CUT MAMPLAM",
+  "postalCode": "24352"
  },
  {
   "id": 1174020009,
   "districtId": 1174020,
-  "name": "MNS MEE"
+  "districtName": "MUARA DUA",
+  "name": "MNS MEE",
+  "postalCode": ""
  },
  {
   "id": 1174020010,
   "districtId": 1174020,
-  "name": "MNS BLANG"
+  "districtName": "MUARA DUA",
+  "name": "MNS BLANG",
+  "postalCode": ""
  },
  {
   "id": 1174020011,
   "districtId": 1174020,
-  "name": "UTEUNKOT"
+  "districtName": "MUARA DUA",
+  "name": "UTEUNKOT",
+  "postalCode": ""
  },
  {
   "id": 1174020012,
   "districtId": 1174020,
-  "name": "BLANG POHROH"
+  "districtName": "MUARA DUA",
+  "name": "BLANG POHROH",
+  "postalCode": "24352"
  },
  {
   "id": 1174020013,
   "districtId": 1174020,
-  "name": "PAYA PUNTEUT"
+  "districtName": "MUARA DUA",
+  "name": "PAYA PUNTEUT",
+  "postalCode": ""
  },
  {
   "id": 1174020014,
   "districtId": 1174020,
-  "name": "KEUDE CUNDA"
+  "districtName": "MUARA DUA",
+  "name": "KEUDE CUNDA",
+  "postalCode": "24352"
  },
  {
   "id": 1174020015,
   "districtId": 1174020,
-  "name": "MNS MESJID"
+  "districtName": "MUARA DUA",
+  "name": "MNS MESJID",
+  "postalCode": ""
  },
  {
   "id": 1174020016,
   "districtId": 1174020,
-  "name": "PANGGOI"
+  "districtName": "MUARA DUA",
+  "name": "PANGGOI",
+  "postalCode": "24352"
  },
  {
   "id": 1174020017,
   "districtId": 1174020,
-  "name": "PAYA BILI"
+  "districtName": "MUARA DUA",
+  "name": "PAYA BILI",
+  "postalCode": "24263"
  },
  {
   "id": 1174020018,
   "districtId": 1174020,
-  "name": "MNS ALUE"
+  "districtName": "MUARA DUA",
+  "name": "MNS ALUE",
+  "postalCode": ""
  }
 ]

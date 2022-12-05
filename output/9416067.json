@@ -2,26 +2,36 @@
  {
   "id": 9416067001,
   "districtId": 9416067,
-  "name": "DIRWEMNA"
+  "districtName": "DIRWEMNA",
+  "name": "DIRWEMNA",
+  "postalCode": "99582"
  },
  {
   "id": 9416067002,
   "districtId": 9416067,
-  "name": "AKSAL"
+  "districtName": "DIRWEMNA",
+  "name": "AKSAL",
+  "postalCode": "99582"
  },
  {
   "id": 9416067003,
   "districtId": 9416067,
-  "name": "DOLSEN"
+  "districtName": "DIRWEMNA",
+  "name": "DOLSEN",
+  "postalCode": "99582"
  },
  {
   "id": 9416067004,
   "districtId": 9416067,
-  "name": "SALENGKOMO"
+  "districtName": "DIRWEMNA",
+  "name": "SALENGKOMO",
+  "postalCode": "99582"
  },
  {
   "id": 9416067005,
   "districtId": 9416067,
-  "name": "SILION"
+  "districtName": "DIRWEMNA",
+  "name": "SILION",
+  "postalCode": "99582"
  }
 ]

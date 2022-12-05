@@ -2,31 +2,43 @@
  {
   "id": 6404011001,
   "districtId": 6404011,
-  "name": "LONG BENTUK"
+  "districtName": "BUSANG",
+  "name": "LONG BENTUK",
+  "postalCode": "75556"
  },
  {
   "id": 6404011002,
   "districtId": 6404011,
-  "name": "LONG PEJENG"
+  "districtName": "BUSANG",
+  "name": "LONG PEJENG",
+  "postalCode": "75556"
  },
  {
   "id": 6404011003,
   "districtId": 6404011,
-  "name": "MEKAR BARU"
+  "districtName": "BUSANG",
+  "name": "MEKAR BARU",
+  "postalCode": "21216"
  },
  {
   "id": 6404011004,
   "districtId": 6404011,
-  "name": "LONG LEES"
+  "districtName": "BUSANG",
+  "name": "LONG LEES",
+  "postalCode": "75556"
  },
  {
   "id": 6404011005,
   "districtId": 6404011,
-  "name": "LONG NYELONG"
+  "districtName": "BUSANG",
+  "name": "LONG NYELONG",
+  "postalCode": "75556"
  },
  {
   "id": 6404011006,
   "districtId": 6404011,
-  "name": "RANTAU SENTOSA"
+  "districtName": "BUSANG",
+  "name": "RANTAU SENTOSA",
+  "postalCode": "75556"
  }
 ]

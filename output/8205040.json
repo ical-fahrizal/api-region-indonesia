@@ -2,46 +2,64 @@
  {
   "id": 8205040018,
   "districtId": 8205040,
-  "name": "GAMSUNGI"
+  "districtName": "TOBELO",
+  "name": "GAMSUNGI",
+  "postalCode": "97754"
  },
  {
   "id": 8205040019,
   "districtId": 8205040,
-  "name": "KUMO"
+  "districtName": "TOBELO",
+  "name": "KUMO",
+  "postalCode": "97762"
  },
  {
   "id": 8205040020,
   "districtId": 8205040,
-  "name": "GURA"
+  "districtName": "TOBELO",
+  "name": "GURA",
+  "postalCode": "97762"
  },
  {
   "id": 8205040021,
   "districtId": 8205040,
-  "name": "KAKARA A"
+  "districtName": "TOBELO",
+  "name": "KAKARA A",
+  "postalCode": "97762"
  },
  {
   "id": 8205040022,
   "districtId": 8205040,
-  "name": "WARI"
+  "districtName": "TOBELO",
+  "name": "WARI",
+  "postalCode": "97762"
  },
  {
   "id": 8205040024,
   "districtId": 8205040,
-  "name": "RAWAJAYA"
+  "districtName": "TOBELO",
+  "name": "RAWAJAYA",
+  "postalCode": "30653"
  },
  {
   "id": 8205040025,
   "districtId": 8205040,
-  "name": "GOSOMA"
+  "districtName": "TOBELO",
+  "name": "GOSOMA",
+  "postalCode": "97762"
  },
  {
   "id": 8205040026,
   "districtId": 8205040,
-  "name": "WARI INO"
+  "districtName": "TOBELO",
+  "name": "WARI INO",
+  "postalCode": "97762"
  },
  {
   "id": 8205040032,
   "districtId": 8205040,
-  "name": "TAGALAYA"
+  "districtName": "TOBELO",
+  "name": "TAGALAYA",
+  "postalCode": "97852"
  }
 ]

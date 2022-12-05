@@ -2,76 +2,106 @@
  {
   "id": 9104080001,
   "districtId": 9104080,
-  "name": "JAGIRO"
+  "districtName": "MOSKONA SELATAN",
+  "name": "JAGIRO",
+  "postalCode": "98365"
  },
  {
   "id": 9104080002,
   "districtId": 9104080,
-  "name": "INGGOF"
+  "districtName": "MOSKONA SELATAN",
+  "name": "INGGOF",
+  "postalCode": "98365"
  },
  {
   "id": 9104080003,
   "districtId": 9104080,
-  "name": "RAWARA"
+  "districtName": "MOSKONA SELATAN",
+  "name": "RAWARA",
+  "postalCode": "98365"
  },
  {
   "id": 9104080004,
   "districtId": 9104080,
-  "name": "MEYENDA"
+  "districtName": "MOSKONA SELATAN",
+  "name": "MEYENDA",
+  "postalCode": "98365"
  },
  {
   "id": 9104080008,
   "districtId": 9104080,
-  "name": "BARMA BARAT"
+  "districtName": "MOSKONA SELATAN",
+  "name": "BARMA BARAT",
+  "postalCode": "98365"
  },
  {
   "id": 9104080009,
   "districtId": 9104080,
-  "name": "MESIH"
+  "districtName": "MOSKONA SELATAN",
+  "name": "MESIH",
+  "postalCode": ""
  },
  {
   "id": 9104080010,
   "districtId": 9104080,
-  "name": "MOSUSNA"
+  "districtName": "MOSKONA SELATAN",
+  "name": "MOSUSNA",
+  "postalCode": ""
  },
  {
   "id": 9104080011,
   "districtId": 9104080,
-  "name": "MERIDEY"
+  "districtName": "MOSKONA SELATAN",
+  "name": "MERIDEY",
+  "postalCode": ""
  },
  {
   "id": 9104080012,
   "districtId": 9104080,
-  "name": "THIMOFRO"
+  "districtName": "MOSKONA SELATAN",
+  "name": "THIMOFRO",
+  "postalCode": ""
  },
  {
   "id": 9104080013,
   "districtId": 9104080,
-  "name": "YAHTIWA"
+  "districtName": "MOSKONA SELATAN",
+  "name": "YAHTIWA",
+  "postalCode": ""
  },
  {
   "id": 9104080014,
   "districtId": 9104080,
-  "name": "MEYODO"
+  "districtName": "MOSKONA SELATAN",
+  "name": "MEYODO",
+  "postalCode": ""
  },
  {
   "id": 9104080015,
   "districtId": 9104080,
-  "name": "IRAHIMA"
+  "districtName": "MOSKONA SELATAN",
+  "name": "IRAHIMA",
+  "postalCode": ""
  },
  {
   "id": 9104080016,
   "districtId": 9104080,
-  "name": "OROCOMNA"
+  "districtName": "MOSKONA SELATAN",
+  "name": "OROCOMNA",
+  "postalCode": ""
  },
  {
   "id": 9104080017,
   "districtId": 9104080,
-  "name": "MOMIYEFEW"
+  "districtName": "MOSKONA SELATAN",
+  "name": "MOMIYEFEW",
+  "postalCode": ""
  },
  {
   "id": 9104080018,
   "districtId": 9104080,
-  "name": "OTWAJD"
+  "districtName": "MOSKONA SELATAN",
+  "name": "OTWAJD",
+  "postalCode": ""
  }
 ]

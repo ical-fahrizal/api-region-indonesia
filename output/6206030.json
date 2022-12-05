@@ -2,41 +2,57 @@
  {
   "id": 6206030001,
   "districtId": 6206030,
-  "name": "JIHING"
+  "districtName": "BALAI RIAM",
+  "name": "JIHING",
+  "postalCode": "74173"
  },
  {
   "id": 6206030002,
   "districtId": 6206030,
-  "name": "AIR DUA"
+  "districtName": "BALAI RIAM",
+  "name": "AIR DUA",
+  "postalCode": "78876"
  },
  {
   "id": 6206030003,
   "districtId": 6206030,
-  "name": "BUKIT SUNGKAI"
+  "districtName": "BALAI RIAM",
+  "name": "BUKIT SUNGKAI",
+  "postalCode": "74173"
  },
  {
   "id": 6206030004,
   "districtId": 6206030,
-  "name": "LUPU PERUCA"
+  "districtName": "BALAI RIAM",
+  "name": "LUPU PERUCA",
+  "postalCode": "74173"
  },
  {
   "id": 6206030005,
   "districtId": 6206030,
-  "name": "SEKUNINGAN BARU"
+  "districtName": "BALAI RIAM",
+  "name": "SEKUNINGAN BARU",
+  "postalCode": "74173"
  },
  {
   "id": 6206030006,
   "districtId": 6206030,
-  "name": "BALAI RIAM"
+  "districtName": "BALAI RIAM",
+  "name": "BALAI RIAM",
+  "postalCode": "74173"
  },
  {
   "id": 6206030007,
   "districtId": 6206030,
-  "name": "BANGUN JAYA"
+  "districtName": "BALAI RIAM",
+  "name": "BANGUN JAYA",
+  "postalCode": "28558"
  },
  {
   "id": 6206030009,
   "districtId": 6206030,
-  "name": "PEMPANING"
+  "districtName": "BALAI RIAM",
+  "name": "PEMPANING",
+  "postalCode": "74173"
  }
 ]

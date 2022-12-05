@@ -2,76 +2,106 @@
  {
   "id": 7412010001,
   "districtId": 7412010,
-  "name": "TEPOROKO"
+  "districtName": "WAWONII TENGGARA",
+  "name": "TEPOROKO",
+  "postalCode": ""
  },
  {
   "id": 7412010002,
   "districtId": 7412010,
-  "name": "ROKO-ROKO"
+  "districtName": "WAWONII TENGGARA",
+  "name": "ROKO-ROKO",
+  "postalCode": ""
  },
  {
   "id": 7412010003,
   "districtId": 7412010,
-  "name": "DOMPO-DOMPO JAYA"
+  "districtName": "WAWONII TENGGARA",
+  "name": "DOMPO-DOMPO JAYA",
+  "postalCode": "93393"
  },
  {
   "id": 7412010004,
   "districtId": 7412010,
-  "name": "SUKARELA"
+  "districtName": "WAWONII TENGGARA",
+  "name": "SUKARELA",
+  "postalCode": "30968"
  },
  {
   "id": 7412010005,
   "districtId": 7412010,
-  "name": "NAMBO JAYA"
+  "districtName": "WAWONII TENGGARA",
+  "name": "NAMBO JAYA",
+  "postalCode": "15112"
  },
  {
   "id": 7412010006,
   "districtId": 7412010,
-  "name": "SAINOA INDAH"
+  "districtName": "WAWONII TENGGARA",
+  "name": "SAINOA INDAH",
+  "postalCode": "93393"
  },
  {
   "id": 7412010007,
   "districtId": 7412010,
-  "name": "SINAULU JAYA"
+  "districtName": "WAWONII TENGGARA",
+  "name": "SINAULU JAYA",
+  "postalCode": ""
  },
  {
   "id": 7412010008,
   "districtId": 7412010,
-  "name": "MOSOLO"
+  "districtName": "WAWONII TENGGARA",
+  "name": "MOSOLO",
+  "postalCode": ""
  },
  {
   "id": 7412010009,
   "districtId": 7412010,
-  "name": "WUNSE JAYA"
+  "districtName": "WAWONII TENGGARA",
+  "name": "WUNSE JAYA",
+  "postalCode": "93393"
  },
  {
   "id": 7412010010,
   "districtId": 7412010,
-  "name": "TONDONGITU"
+  "districtName": "WAWONII TENGGARA",
+  "name": "TONDONGITU",
+  "postalCode": ""
  },
  {
   "id": 7412010011,
   "districtId": 7412010,
-  "name": "POLARA"
+  "districtName": "WAWONII TENGGARA",
+  "name": "POLARA",
+  "postalCode": "93393"
  },
  {
   "id": 7412010012,
   "districtId": 7412010,
-  "name": "SINAR MASOLO"
+  "districtName": "WAWONII TENGGARA",
+  "name": "SINAR MASOLO",
+  "postalCode": "93393"
  },
  {
   "id": 7412010013,
   "districtId": 7412010,
-  "name": "BAHABA"
+  "districtName": "WAWONII TENGGARA",
+  "name": "BAHABA",
+  "postalCode": ""
  },
  {
   "id": 7412010014,
   "districtId": 7412010,
-  "name": "WATURAI"
+  "districtName": "WAWONII TENGGARA",
+  "name": "WATURAI",
+  "postalCode": ""
  },
  {
   "id": 7412010015,
   "districtId": 7412010,
-  "name": "KEKEA"
+  "districtName": "WAWONII TENGGARA",
+  "name": "KEKEA",
+  "postalCode": ""
  }
 ]

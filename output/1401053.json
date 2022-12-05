@@ -2,71 +2,99 @@
  {
   "id": 1401053001,
   "districtId": 1401053,
-  "name": "TANJUNG PISANG"
+  "districtName": "KUANTAN HILIR SEBERANG",
+  "name": "TANJUNG PISANG",
+  "postalCode": "28752"
  },
  {
   "id": 1401053002,
   "districtId": 1401053,
-  "name": "PENGALIAN"
+  "districtName": "KUANTAN HILIR SEBERANG",
+  "name": "PENGALIAN",
+  "postalCode": ""
  },
  {
   "id": 1401053003,
   "districtId": 1401053,
-  "name": "KASANG LIMAU SUNDAI"
+  "districtName": "KUANTAN HILIR SEBERANG",
+  "name": "KASANG LIMAU SUNDAI",
+  "postalCode": "29561"
  },
  {
   "id": 1401053004,
   "districtId": 1401053,
-  "name": "TERATAK JERING"
+  "districtName": "KUANTAN HILIR SEBERANG",
+  "name": "TERATAK JERING",
+  "postalCode": "29561"
  },
  {
   "id": 1401053005,
   "districtId": 1401053,
-  "name": "KOTO RAJO"
+  "districtName": "KUANTAN HILIR SEBERANG",
+  "name": "KOTO RAJO",
+  "postalCode": "26353"
  },
  {
   "id": 1401053006,
   "districtId": 1401053,
-  "name": "DANAU"
+  "districtName": "KUANTAN HILIR SEBERANG",
+  "name": "DANAU",
+  "postalCode": "29561"
  },
  {
   "id": 1401053007,
   "districtId": 1401053,
-  "name": "LUMBOK"
+  "districtName": "KUANTAN HILIR SEBERANG",
+  "name": "LUMBOK",
+  "postalCode": "29561"
  },
  {
   "id": 1401053008,
   "districtId": 1401053,
-  "name": "PELUKAHAN"
+  "districtName": "KUANTAN HILIR SEBERANG",
+  "name": "PELUKAHAN",
+  "postalCode": "29561"
  },
  {
   "id": 1401053009,
   "districtId": 1401053,
-  "name": "PULAU BARU"
+  "districtName": "KUANTAN HILIR SEBERANG",
+  "name": "PULAU BARU",
+  "postalCode": "37311"
  },
  {
   "id": 1401053010,
   "districtId": 1401053,
-  "name": "TANJUNG"
+  "districtName": "KUANTAN HILIR SEBERANG",
+  "name": "TANJUNG",
+  "postalCode": "24562"
  },
  {
   "id": 1401053011,
   "districtId": 1401053,
-  "name": "SUNGAI SERIK"
+  "districtName": "KUANTAN HILIR SEBERANG",
+  "name": "SUNGAI SERIK",
+  "postalCode": ""
  },
  {
   "id": 1401053012,
   "districtId": 1401053,
-  "name": "RAWANG OGUANG"
+  "districtName": "KUANTAN HILIR SEBERANG",
+  "name": "RAWANG OGUANG",
+  "postalCode": "29561"
  },
  {
   "id": 1401053013,
   "districtId": 1401053,
-  "name": "PULAU KULUR"
+  "districtName": "KUANTAN HILIR SEBERANG",
+  "name": "PULAU KULUR",
+  "postalCode": ""
  },
  {
   "id": 1401053014,
   "districtId": 1401053,
-  "name": "PULAU BERALO"
+  "districtName": "KUANTAN HILIR SEBERANG",
+  "name": "PULAU BERALO",
+  "postalCode": ""
  }
 ]

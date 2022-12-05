@@ -2,111 +2,155 @@
  {
   "id": 6303060001,
   "districtId": 6303060,
-  "name": "PINGARAN ILIR"
+  "districtName": "ASTAMBUL",
+  "name": "PINGARAN ILIR",
+  "postalCode": "70671"
  },
  {
   "id": 6303060002,
   "districtId": 6303060,
-  "name": "PINGARAN ULU"
+  "districtName": "ASTAMBUL",
+  "name": "PINGARAN ULU",
+  "postalCode": "70671"
  },
  {
   "id": 6303060003,
   "districtId": 6303060,
-  "name": "BANUA ANYAR DANAU SALAK"
+  "districtName": "ASTAMBUL",
+  "name": "BANUA ANYAR DANAU SALAK",
+  "postalCode": ""
  },
  {
   "id": 6303060004,
   "districtId": 6303060,
-  "name": "ASTAMBUL SEBERANG"
+  "districtName": "ASTAMBUL",
+  "name": "ASTAMBUL SEBERANG",
+  "postalCode": "70671"
  },
  {
   "id": 6303060005,
   "districtId": 6303060,
-  "name": "ASTAMBUL"
+  "districtName": "ASTAMBUL",
+  "name": "ASTAMBUL",
+  "postalCode": "70671"
  },
  {
   "id": 6303060006,
   "districtId": 6303060,
-  "name": "JATI"
+  "districtName": "ASTAMBUL",
+  "name": "JATI",
+  "postalCode": "20152"
  },
  {
   "id": 6303060007,
   "districtId": 6303060,
-  "name": "DANAU SALAK"
+  "districtName": "ASTAMBUL",
+  "name": "DANAU SALAK",
+  "postalCode": "70671"
  },
  {
   "id": 6303060008,
   "districtId": 6303060,
-  "name": "PASAR JATI"
+  "districtName": "ASTAMBUL",
+  "name": "PASAR JATI",
+  "postalCode": "70671"
  },
  {
   "id": 6303060009,
   "districtId": 6303060,
-  "name": "SUNGAI ALAT"
+  "districtName": "ASTAMBUL",
+  "name": "SUNGAI ALAT",
+  "postalCode": ""
  },
  {
   "id": 6303060010,
   "districtId": 6303060,
-  "name": "SUNGAI TUAN ULU"
+  "districtName": "ASTAMBUL",
+  "name": "SUNGAI TUAN ULU",
+  "postalCode": ""
  },
  {
   "id": 6303060011,
   "districtId": 6303060,
-  "name": "SUNGAI TUAN ILIR"
+  "districtName": "ASTAMBUL",
+  "name": "SUNGAI TUAN ILIR",
+  "postalCode": ""
  },
  {
   "id": 6303060012,
   "districtId": 6303060,
-  "name": "BENUA ANYAR"
+  "districtName": "ASTAMBUL",
+  "name": "BENUA ANYAR",
+  "postalCode": "70513"
  },
  {
   "id": 6303060013,
   "districtId": 6303060,
-  "name": "TAMBANGAN"
+  "districtName": "ASTAMBUL",
+  "name": "TAMBANGAN",
+  "postalCode": "20631"
  },
  {
   "id": 6303060014,
   "districtId": 6303060,
-  "name": "KELAMPAIAN ILIR"
+  "districtName": "ASTAMBUL",
+  "name": "KELAMPAIAN ILIR",
+  "postalCode": "70671"
  },
  {
   "id": 6303060015,
   "districtId": 6303060,
-  "name": "MUNGGU RAYA"
+  "districtName": "ASTAMBUL",
+  "name": "MUNGGU RAYA",
+  "postalCode": "70671"
  },
  {
   "id": 6303060016,
   "districtId": 6303060,
-  "name": "KALAMPAYAN"
+  "districtName": "ASTAMBUL",
+  "name": "KALAMPAYAN",
+  "postalCode": "70671"
  },
  {
   "id": 6303060017,
   "districtId": 6303060,
-  "name": "KALAMPAYAN ULU"
+  "districtName": "ASTAMBUL",
+  "name": "KALAMPAYAN ULU",
+  "postalCode": "70671"
  },
  {
   "id": 6303060018,
   "districtId": 6303060,
-  "name": "LIMAMAR"
+  "districtName": "ASTAMBUL",
+  "name": "LIMAMAR",
+  "postalCode": "70671"
  },
  {
   "id": 6303060019,
   "districtId": 6303060,
-  "name": "LOKGABANG"
+  "districtName": "ASTAMBUL",
+  "name": "LOKGABANG",
+  "postalCode": "70671"
  },
  {
   "id": 6303060020,
   "districtId": 6303060,
-  "name": "KALIUKAN"
+  "districtName": "ASTAMBUL",
+  "name": "KALIUKAN",
+  "postalCode": "70671"
  },
  {
   "id": 6303060021,
   "districtId": 6303060,
-  "name": "TAMBAK DANAU"
+  "districtName": "ASTAMBUL",
+  "name": "TAMBAK DANAU",
+  "postalCode": "70671"
  },
  {
   "id": 6303060022,
   "districtId": 6303060,
-  "name": "PEMATANG HAMBAWANG"
+  "districtName": "ASTAMBUL",
+  "name": "PEMATANG HAMBAWANG",
+  "postalCode": "70671"
  }
 ]

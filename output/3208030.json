@@ -2,46 +2,64 @@
  {
   "id": 3208030009,
   "districtId": 3208030,
-  "name": "GUNUNGMANIK"
+  "districtName": "CINIRU",
+  "name": "GUNUNGMANIK",
+  "postalCode": "45565"
  },
  {
   "id": 3208030010,
   "districtId": 3208030,
-  "name": "PINARA"
+  "districtName": "CINIRU",
+  "name": "PINARA",
+  "postalCode": "45565"
  },
  {
   "id": 3208030011,
   "districtId": 3208030,
-  "name": "CIPEDES"
+  "districtName": "CINIRU",
+  "name": "CIPEDES",
+  "postalCode": "45565"
  },
  {
   "id": 3208030012,
   "districtId": 3208030,
-  "name": "PAMUPUKAN"
+  "districtName": "CINIRU",
+  "name": "PAMUPUKAN",
+  "postalCode": "45565"
  },
  {
   "id": 3208030013,
   "districtId": 3208030,
-  "name": "CIJEMIT"
+  "districtName": "CINIRU",
+  "name": "CIJEMIT",
+  "postalCode": "45565"
  },
  {
   "id": 3208030014,
   "districtId": 3208030,
-  "name": "CINIRU"
+  "districtName": "CINIRU",
+  "name": "CINIRU",
+  "postalCode": "45565"
  },
  {
   "id": 3208030015,
   "districtId": 3208030,
-  "name": "RAMBATAN"
+  "districtName": "CINIRU",
+  "name": "RAMBATAN",
+  "postalCode": "27271"
  },
  {
   "id": 3208030016,
   "districtId": 3208030,
-  "name": "LONGKEWANG"
+  "districtName": "CINIRU",
+  "name": "LONGKEWANG",
+  "postalCode": "45565"
  },
  {
   "id": 3208030017,
   "districtId": 3208030,
-  "name": "MUNGKALDATAR"
+  "districtName": "CINIRU",
+  "name": "MUNGKALDATAR",
+  "postalCode": "45565"
  }
 ]

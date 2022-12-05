@@ -2,56 +2,78 @@
  {
   "id": 3520040009,
   "districtId": 3520040,
-  "name": "KIRINGAN"
+  "districtName": "TAKERAN",
+  "name": "KIRINGAN",
+  "postalCode": "57314"
  },
  {
   "id": 3520040011,
   "districtId": 3520040,
-  "name": "TAWANGREJO"
+  "districtName": "TAKERAN",
+  "name": "TAWANGREJO",
+  "postalCode": "57462"
  },
  {
   "id": 3520040012,
   "districtId": 3520040,
-  "name": "SAWOJAJAR"
+  "districtName": "TAKERAN",
+  "name": "SAWOJAJAR",
+  "postalCode": "52252"
  },
  {
   "id": 3520040013,
   "districtId": 3520040,
-  "name": "TAKERAN"
+  "districtName": "TAKERAN",
+  "name": "TAKERAN",
+  "postalCode": "63383"
  },
  {
   "id": 3520040014,
   "districtId": 3520040,
-  "name": "KUWONHARJO"
+  "districtName": "TAKERAN",
+  "name": "KUWONHARJO",
+  "postalCode": "63383"
  },
  {
   "id": 3520040015,
   "districtId": 3520040,
-  "name": "KEPUHREJO"
+  "districtName": "TAKERAN",
+  "name": "KEPUHREJO",
+  "postalCode": "64182"
  },
  {
   "id": 3520040016,
   "districtId": 3520040,
-  "name": "KERIK"
+  "districtName": "TAKERAN",
+  "name": "KERIK",
+  "postalCode": "63383"
  },
  {
   "id": 3520040017,
   "districtId": 3520040,
-  "name": "WADUK"
+  "districtName": "TAKERAN",
+  "name": "WADUK",
+  "postalCode": "63383"
  },
  {
   "id": 3520040018,
   "districtId": 3520040,
-  "name": "JOMBLANG"
+  "districtName": "TAKERAN",
+  "name": "JOMBLANG",
+  "postalCode": "50256"
  },
  {
   "id": 3520040019,
   "districtId": 3520040,
-  "name": "KERANG"
+  "districtName": "TAKERAN",
+  "name": "KERANG",
+  "postalCode": "34881"
  },
  {
   "id": 3520040020,
   "districtId": 3520040,
-  "name": "MADIGONDO"
+  "districtName": "TAKERAN",
+  "name": "MADIGONDO",
+  "postalCode": "63383"
  }
 ]

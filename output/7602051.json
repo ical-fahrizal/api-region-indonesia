@@ -2,51 +2,71 @@
  {
   "id": 7602051001,
   "districtId": 7602051,
-  "name": "TONYAMAN"
+  "districtName": "BINUANG",
+  "name": "TONYAMAN",
+  "postalCode": "91312"
  },
  {
   "id": 7602051002,
   "districtId": 7602051,
-  "name": "AMASSANGAN"
+  "districtName": "BINUANG",
+  "name": "AMASSANGAN",
+  "postalCode": "91922"
  },
  {
   "id": 7602051003,
   "districtId": 7602051,
-  "name": "MIRRING"
+  "districtName": "BINUANG",
+  "name": "MIRRING",
+  "postalCode": "91312"
  },
  {
   "id": 7602051004,
   "districtId": 7602051,
-  "name": "PAKU"
+  "districtName": "BINUANG",
+  "name": "PAKU",
+  "postalCode": "24165"
  },
  {
   "id": 7602051005,
   "districtId": 7602051,
-  "name": "BATETANGNGA"
+  "districtName": "BINUANG",
+  "name": "BATETANGNGA",
+  "postalCode": "91312"
  },
  {
   "id": 7602051006,
   "districtId": 7602051,
-  "name": "KUAJANG"
+  "districtName": "BINUANG",
+  "name": "KUAJANG",
+  "postalCode": "91351"
  },
  {
   "id": 7602051007,
   "districtId": 7602051,
-  "name": "MAMMI"
+  "districtName": "BINUANG",
+  "name": "MAMMI",
+  "postalCode": "91311"
  },
  {
   "id": 7602051008,
   "districtId": 7602051,
-  "name": "KALEOK"
+  "districtName": "BINUANG",
+  "name": "KALEOK",
+  "postalCode": "91312"
  },
  {
   "id": 7602051009,
   "districtId": 7602051,
-  "name": "REA"
+  "districtName": "BINUANG",
+  "name": "REA",
+  "postalCode": "91312"
  },
  {
   "id": 7602051010,
   "districtId": 7602051,
-  "name": "AMOLA"
+  "districtName": "BINUANG",
+  "name": "AMOLA",
+  "postalCode": "91312"
  }
 ]

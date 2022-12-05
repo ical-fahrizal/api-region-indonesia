@@ -2,61 +2,85 @@
  {
   "id": 3217150001,
   "districtId": 3217150,
-  "name": "MARGALUYU"
+  "districtName": "CIPEUNDEUY",
+  "name": "MARGALUYU",
+  "postalCode": "43263"
  },
  {
   "id": 3217150002,
   "districtId": 3217150,
-  "name": "NANGGELENG"
+  "districtName": "CIPEUNDEUY",
+  "name": "NANGGELENG",
+  "postalCode": "40558"
  },
  {
   "id": 3217150003,
   "districtId": 3217150,
-  "name": "SIRNARAJA"
+  "districtName": "CIPEUNDEUY",
+  "name": "SIRNARAJA",
+  "postalCode": "46463"
  },
  {
   "id": 3217150004,
   "districtId": 3217150,
-  "name": "JATIMEKAR"
+  "districtName": "CIPEUNDEUY",
+  "name": "JATIMEKAR",
+  "postalCode": "40558"
  },
  {
   "id": 3217150005,
   "districtId": 3217150,
-  "name": "BOJONGMEKAR"
+  "districtName": "CIPEUNDEUY",
+  "name": "BOJONGMEKAR",
+  "postalCode": "40558"
  },
  {
   "id": 3217150006,
   "districtId": 3217150,
-  "name": "NYENANG"
+  "districtName": "CIPEUNDEUY",
+  "name": "NYENANG",
+  "postalCode": "40558"
  },
  {
   "id": 3217150007,
   "districtId": 3217150,
-  "name": "CIPEUNDEUY"
+  "districtName": "CIPEUNDEUY",
+  "name": "CIPEUNDEUY",
+  "postalCode": "45464"
  },
  {
   "id": 3217150008,
   "districtId": 3217150,
-  "name": "MARGALAKSANA"
+  "districtName": "CIPEUNDEUY",
+  "name": "MARGALAKSANA",
+  "postalCode": "44165"
  },
  {
   "id": 3217150009,
   "districtId": 3217150,
-  "name": "SUKAHAJI"
+  "districtName": "CIPEUNDEUY",
+  "name": "SUKAHAJI",
+  "postalCode": "40221"
  },
  {
   "id": 3217150010,
   "districtId": 3217150,
-  "name": "CIHARASHAS"
+  "districtName": "CIPEUNDEUY",
+  "name": "CIHARASHAS",
+  "postalCode": "43285"
  },
  {
   "id": 3217150011,
   "districtId": 3217150,
-  "name": "SIRNAGALIH"
+  "districtName": "CIPEUNDEUY",
+  "name": "SIRNAGALIH",
+  "postalCode": "35387"
  },
  {
   "id": 3217150012,
   "districtId": 3217150,
-  "name": "CIROYOM"
+  "districtName": "CIPEUNDEUY",
+  "name": "CIROYOM",
+  "postalCode": "40182"
  }
 ]

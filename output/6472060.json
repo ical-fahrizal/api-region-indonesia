@@ -2,41 +2,57 @@
  {
   "id": 6472060004,
   "districtId": 6472060,
-  "name": "LEMPAKE"
+  "districtName": "SAMARINDA UTARA",
+  "name": "LEMPAKE",
+  "postalCode": "75118"
  },
  {
   "id": 6472060005,
   "districtId": 6472060,
-  "name": "SEMPAJA SELATAN"
+  "districtName": "SAMARINDA UTARA",
+  "name": "SEMPAJA SELATAN",
+  "postalCode": "75119"
  },
  {
   "id": 6472060006,
   "districtId": 6472060,
-  "name": "SUNGAI SIRING"
+  "districtName": "SAMARINDA UTARA",
+  "name": "SUNGAI SIRING",
+  "postalCode": ""
  },
  {
   "id": 6472060010,
   "districtId": 6472060,
-  "name": "TANAH MERAH"
+  "districtName": "SAMARINDA UTARA",
+  "name": "TANAH MERAH",
+  "postalCode": "24652"
  },
  {
   "id": 6472060011,
   "districtId": 6472060,
-  "name": "SEMPAJA UTARA"
+  "districtName": "SAMARINDA UTARA",
+  "name": "SEMPAJA UTARA",
+  "postalCode": "75119"
  },
  {
   "id": 6472060012,
   "districtId": 6472060,
-  "name": "SEMPAJA TIMUR"
+  "districtName": "SAMARINDA UTARA",
+  "name": "SEMPAJA TIMUR",
+  "postalCode": ""
  },
  {
   "id": 6472060013,
   "districtId": 6472060,
-  "name": "SEMPAJA BARAT"
+  "districtName": "SAMARINDA UTARA",
+  "name": "SEMPAJA BARAT",
+  "postalCode": ""
  },
  {
   "id": 6472060014,
   "districtId": 6472060,
-  "name": "BUDAYA PAMPANG"
+  "districtName": "SAMARINDA UTARA",
+  "name": "BUDAYA PAMPANG",
+  "postalCode": ""
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 7307080001,
   "districtId": 7307080,
-  "name": "TOMPOBULU"
+  "districtName": "BULUPODDO",
+  "name": "TOMPOBULU",
+  "postalCode": "92654"
  },
  {
   "id": 7307080003,
   "districtId": 7307080,
-  "name": "DUAMPANUAE"
+  "districtName": "BULUPODDO",
+  "name": "DUAMPANUAE",
+  "postalCode": "92654"
  },
  {
   "id": 7307080004,
   "districtId": 7307080,
-  "name": "LAMATTI RIATTANG"
+  "districtName": "BULUPODDO",
+  "name": "LAMATTI RIATTANG",
+  "postalCode": "92654"
  },
  {
   "id": 7307080005,
   "districtId": 7307080,
-  "name": "LAMATTI RIAJA"
+  "districtName": "BULUPODDO",
+  "name": "LAMATTI RIAJA",
+  "postalCode": "92654"
  },
  {
   "id": 7307080006,
   "districtId": 7307080,
-  "name": "LAMATTI RIAWANG"
+  "districtName": "BULUPODDO",
+  "name": "LAMATTI RIAWANG",
+  "postalCode": "92654"
  },
  {
   "id": 7307080007,
   "districtId": 7307080,
-  "name": "LAPPA CINRANA"
+  "districtName": "BULUPODDO",
+  "name": "LAPPA CINRANA",
+  "postalCode": ""
  }
 ]

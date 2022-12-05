@@ -2,36 +2,50 @@
  {
   "id": 1405033001,
   "districtId": 1405033,
-  "name": "SUNGAI BERBARI"
+  "districtName": "PUSAKO",
+  "name": "SUNGAI BERBARI",
+  "postalCode": "28763"
  },
  {
   "id": 1405033002,
   "districtId": 1405033,
-  "name": "SUNGAI LIMAU"
+  "districtName": "PUSAKO",
+  "name": "SUNGAI LIMAU",
+  "postalCode": "28763"
  },
  {
   "id": 1405033003,
   "districtId": 1405033,
-  "name": "DOSAN"
+  "districtName": "PUSAKO",
+  "name": "DOSAN",
+  "postalCode": "28763"
  },
  {
   "id": 1405033004,
   "districtId": 1405033,
-  "name": "BENAYAH"
+  "districtName": "PUSAKO",
+  "name": "BENAYAH",
+  "postalCode": "28763"
  },
  {
   "id": 1405033005,
   "districtId": 1405033,
-  "name": "PEBADARAN"
+  "districtName": "PUSAKO",
+  "name": "PEBADARAN",
+  "postalCode": "28763"
  },
  {
   "id": 1405033006,
   "districtId": 1405033,
-  "name": "DUSUN PUSAKA"
+  "districtName": "PUSAKO",
+  "name": "DUSUN PUSAKA",
+  "postalCode": "28763"
  },
  {
   "id": 1405033007,
   "districtId": 1405033,
-  "name": "PERINCIT"
+  "districtName": "PUSAKO",
+  "name": "PERINCIT",
+  "postalCode": "28763"
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 5304023001,
   "districtId": 5304023,
-  "name": "BINAUS"
+  "districtName": "MOLLO TENGAH",
+  "name": "BINAUS",
+  "postalCode": "85561"
  },
  {
   "id": 5304023002,
   "districtId": 5304023,
-  "name": "OELBUBUK"
+  "districtName": "MOLLO TENGAH",
+  "name": "OELBUBUK",
+  "postalCode": "85561"
  },
  {
   "id": 5304023003,
   "districtId": 5304023,
-  "name": "KUALEU"
+  "districtName": "MOLLO TENGAH",
+  "name": "KUALEU",
+  "postalCode": "85573"
  },
  {
   "id": 5304023004,
   "districtId": 5304023,
-  "name": "NEKE MANI FETO"
+  "districtName": "MOLLO TENGAH",
+  "name": "NEKE MANI FETO",
+  "postalCode": ""
  },
  {
   "id": 5304023005,
   "districtId": 5304023,
-  "name": "OELEKAM"
+  "districtName": "MOLLO TENGAH",
+  "name": "OELEKAM",
+  "postalCode": ""
  },
  {
   "id": 5304023006,
   "districtId": 5304023,
-  "name": "PIKA"
+  "districtName": "MOLLO TENGAH",
+  "name": "PIKA",
+  "postalCode": "85561"
  }
 ]

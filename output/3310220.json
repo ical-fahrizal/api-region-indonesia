@@ -2,86 +2,120 @@
  {
   "id": 3310220002,
   "districtId": 3310220,
-  "name": "RANDULANANG"
+  "districtName": "JATINOM",
+  "name": "RANDULANANG",
+  "postalCode": "57481"
  },
  {
   "id": 3310220003,
   "districtId": 3310220,
-  "name": "MRANGGEN"
+  "districtName": "JATINOM",
+  "name": "MRANGGEN",
+  "postalCode": "57481"
  },
  {
   "id": 3310220004,
   "districtId": 3310220,
-  "name": "JEMAWAN"
+  "districtName": "JATINOM",
+  "name": "JEMAWAN",
+  "postalCode": "57481"
  },
  {
   "id": 3310220005,
   "districtId": 3310220,
-  "name": "GEDAREN"
+  "districtName": "JATINOM",
+  "name": "GEDAREN",
+  "postalCode": "57481"
  },
  {
   "id": 3310220006,
   "districtId": 3310220,
-  "name": "CAWAN"
+  "districtName": "JATINOM",
+  "name": "CAWAN",
+  "postalCode": "57481"
  },
  {
   "id": 3310220007,
   "districtId": 3310220,
-  "name": "TIBAYAN"
+  "districtName": "JATINOM",
+  "name": "TIBAYAN",
+  "postalCode": "57481"
  },
  {
   "id": 3310220008,
   "districtId": 3310220,
-  "name": "BENGKING"
+  "districtName": "JATINOM",
+  "name": "BENGKING",
+  "postalCode": "57481"
  },
  {
   "id": 3310220009,
   "districtId": 3310220,
-  "name": "TEMUIRENG"
+  "districtName": "JATINOM",
+  "name": "TEMUIRENG",
+  "postalCode": "57481"
  },
  {
   "id": 3310220010,
   "districtId": 3310220,
-  "name": "BANDUNGAN"
+  "districtName": "JATINOM",
+  "name": "BANDUNGAN",
+  "postalCode": "50614"
  },
  {
   "id": 3310220011,
   "districtId": 3310220,
-  "name": "KAYUMAS"
+  "districtName": "JATINOM",
+  "name": "KAYUMAS",
+  "postalCode": "57481"
  },
  {
   "id": 3310220012,
   "districtId": 3310220,
-  "name": "SOCOKANGSI"
+  "districtName": "JATINOM",
+  "name": "SOCOKANGSI",
+  "postalCode": "57481"
  },
  {
   "id": 3310220013,
   "districtId": 3310220,
-  "name": "GLAGAH"
+  "districtName": "JATINOM",
+  "name": "GLAGAH",
+  "postalCode": "57481"
  },
  {
   "id": 3310220014,
   "districtId": 3310220,
-  "name": "KRAJAN"
+  "districtName": "JATINOM",
+  "name": "KRAJAN",
+  "postalCode": "57557"
  },
  {
   "id": 3310220015,
   "districtId": 3310220,
-  "name": "JATINOM"
+  "districtName": "JATINOM",
+  "name": "JATINOM",
+  "postalCode": "57481"
  },
  {
   "id": 3310220016,
   "districtId": 3310220,
-  "name": "BONYOKAN"
+  "districtName": "JATINOM",
+  "name": "BONYOKAN",
+  "postalCode": "57481"
  },
  {
   "id": 3310220017,
   "districtId": 3310220,
-  "name": "PANDEYAN"
+  "districtName": "JATINOM",
+  "name": "PANDEYAN",
+  "postalCode": "57552"
  },
  {
   "id": 3310220018,
   "districtId": 3310220,
-  "name": "PULUHAN"
+  "districtName": "JATINOM",
+  "name": "PULUHAN",
+  "postalCode": "57481"
  }
 ]

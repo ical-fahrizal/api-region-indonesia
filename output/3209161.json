@@ -2,41 +2,57 @@
  {
   "id": 3209161001,
   "districtId": 3209161,
-  "name": "PALIR"
+  "districtName": "TENGAH TANI",
+  "name": "PALIR",
+  "postalCode": "45153"
  },
  {
   "id": 3209161002,
   "districtId": 3209161,
-  "name": "ASTAPADA"
+  "districtName": "TENGAH TANI",
+  "name": "ASTAPADA",
+  "postalCode": "45153"
  },
  {
   "id": 3209161003,
   "districtId": 3209161,
-  "name": "GESIK"
+  "districtName": "TENGAH TANI",
+  "name": "GESIK",
+  "postalCode": "45153"
  },
  {
   "id": 3209161004,
   "districtId": 3209161,
-  "name": "KEMLAKAGEDE"
+  "districtName": "TENGAH TANI",
+  "name": "KEMLAKAGEDE",
+  "postalCode": "45153"
  },
  {
   "id": 3209161005,
   "districtId": 3209161,
-  "name": "DAWUAN"
+  "districtName": "TENGAH TANI",
+  "name": "DAWUAN",
+  "postalCode": "45453"
  },
  {
   "id": 3209161006,
   "districtId": 3209161,
-  "name": "BATEMBAT"
+  "districtName": "TENGAH TANI",
+  "name": "BATEMBAT",
+  "postalCode": "64472"
  },
  {
   "id": 3209161007,
   "districtId": 3209161,
-  "name": "KALIBARU"
+  "districtName": "TENGAH TANI",
+  "name": "KALIBARU",
+  "postalCode": "16414"
  },
  {
   "id": 3209161008,
   "districtId": 3209161,
-  "name": "KALITENGAH"
+  "districtName": "TENGAH TANI",
+  "name": "KALITENGAH",
+  "postalCode": "45153"
  }
 ]

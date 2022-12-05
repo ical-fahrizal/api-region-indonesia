@@ -2,66 +2,92 @@
  {
   "id": 1401060003,
   "districtId": 1401060,
-  "name": "SIKAKAK"
+  "districtName": "CERENTI",
+  "name": "SIKAKAK",
+  "postalCode": "29555"
  },
  {
   "id": 1401060004,
   "districtId": 1401060,
-  "name": "PULAU JAMBU"
+  "districtName": "CERENTI",
+  "name": "PULAU JAMBU",
+  "postalCode": "29555"
  },
  {
   "id": 1401060005,
   "districtId": 1401060,
-  "name": "PULAU BAYUR"
+  "districtName": "CERENTI",
+  "name": "PULAU BAYUR",
+  "postalCode": "29555"
  },
  {
   "id": 1401060006,
   "districtId": 1401060,
-  "name": "PULAU PANJANG CERENTI"
+  "districtName": "CERENTI",
+  "name": "PULAU PANJANG CERENTI",
+  "postalCode": "29555"
  },
  {
   "id": 1401060007,
   "districtId": 1401060,
-  "name": "TELUK PAUH"
+  "districtName": "CERENTI",
+  "name": "TELUK PAUH",
+  "postalCode": "29555"
  },
  {
   "id": 1401060008,
   "districtId": 1401060,
-  "name": "PESIKAIAN"
+  "districtName": "CERENTI",
+  "name": "PESIKAIAN",
+  "postalCode": ""
  },
  {
   "id": 1401060009,
   "districtId": 1401060,
-  "name": "KOTO CERENTI"
+  "districtName": "CERENTI",
+  "name": "KOTO CERENTI",
+  "postalCode": "29555"
  },
  {
   "id": 1401060010,
   "districtId": 1401060,
-  "name": "KOTO PERAKU"
+  "districtName": "CERENTI",
+  "name": "KOTO PERAKU",
+  "postalCode": "29555"
  },
  {
   "id": 1401060011,
   "districtId": 1401060,
-  "name": "PASAR CERENTI"
+  "districtName": "CERENTI",
+  "name": "PASAR CERENTI",
+  "postalCode": "29555"
  },
  {
   "id": 1401060012,
   "districtId": 1401060,
-  "name": "KAMPUNG BARU"
+  "districtName": "CERENTI",
+  "name": "KAMPUNG BARU",
+  "postalCode": "24652"
  },
  {
   "id": 1401060013,
   "districtId": 1401060,
-  "name": "KOMPE BERANGIN"
+  "districtName": "CERENTI",
+  "name": "KOMPE BERANGIN",
+  "postalCode": "29555"
  },
  {
   "id": 1401060014,
   "districtId": 1401060,
-  "name": "TANJUNG MEDAN"
+  "districtName": "CERENTI",
+  "name": "TANJUNG MEDAN",
+  "postalCode": "21411"
  },
  {
   "id": 1401060015,
   "districtId": 1401060,
-  "name": "KAMPUNG BARU TIMUR"
+  "districtName": "CERENTI",
+  "name": "KAMPUNG BARU TIMUR",
+  "postalCode": "29555"
  }
 ]

@@ -2,136 +2,190 @@
  {
   "id": 3305120001,
   "districtId": 3305120,
-  "name": "MUKTISARI"
+  "districtName": "KEBUMEN",
+  "name": "MUKTISARI",
+  "postalCode": "45467"
  },
  {
   "id": 3305120002,
   "districtId": 3305120,
-  "name": "MURTIREJO"
+  "districtName": "KEBUMEN",
+  "name": "MURTIREJO",
+  "postalCode": ""
  },
  {
   "id": 3305120003,
   "districtId": 3305120,
-  "name": "DEPOKREJO"
+  "districtName": "KEBUMEN",
+  "name": "DEPOKREJO",
+  "postalCode": "54317"
  },
  {
   "id": 3305120004,
   "districtId": 3305120,
-  "name": "MENGKOWO"
+  "districtName": "KEBUMEN",
+  "name": "MENGKOWO",
+  "postalCode": "54317"
  },
  {
   "id": 3305120005,
   "districtId": 3305120,
-  "name": "GESIKAN"
+  "districtName": "KEBUMEN",
+  "name": "GESIKAN",
+  "postalCode": "57455"
  },
  {
   "id": 3305120006,
   "districtId": 3305120,
-  "name": "KALIBAGOR"
+  "districtName": "KEBUMEN",
+  "name": "KALIBAGOR",
+  "postalCode": "53191"
  },
  {
   "id": 3305120007,
   "districtId": 3305120,
-  "name": "ARGOPENI"
+  "districtName": "KEBUMEN",
+  "name": "ARGOPENI",
+  "postalCode": "35374"
  },
  {
   "id": 3305120008,
   "districtId": 3305120,
-  "name": "JATISARI"
+  "districtName": "KEBUMEN",
+  "name": "JATISARI",
+  "postalCode": "32362"
  },
  {
   "id": 3305120009,
   "districtId": 3305120,
-  "name": "KALIREJO"
+  "districtName": "KEBUMEN",
+  "name": "KALIREJO",
+  "postalCode": "35353"
  },
  {
   "id": 3305120010,
   "districtId": 3305120,
-  "name": "SELANG"
+  "districtName": "KEBUMEN",
+  "name": "SELANG",
+  "postalCode": "54314"
  },
  {
   "id": 3305120011,
   "districtId": 3305120,
-  "name": "ADIKARSO"
+  "districtName": "KEBUMEN",
+  "name": "ADIKARSO",
+  "postalCode": "54317"
  },
  {
   "id": 3305120012,
   "districtId": 3305120,
-  "name": "TAMANWINANGUN"
+  "districtName": "KEBUMEN",
+  "name": "TAMANWINANGUN",
+  "postalCode": "54313"
  },
  {
   "id": 3305120013,
   "districtId": 3305120,
-  "name": "PANJER"
+  "districtName": "KEBUMEN",
+  "name": "PANJER",
+  "postalCode": "54312"
  },
  {
   "id": 3305120014,
   "districtId": 3305120,
-  "name": "KEMBARAN"
+  "districtName": "KEBUMEN",
+  "name": "KEMBARAN",
+  "postalCode": "56191"
  },
  {
   "id": 3305120015,
   "districtId": 3305120,
-  "name": "SUMBERADI"
+  "districtName": "KEBUMEN",
+  "name": "SUMBERADI",
+  "postalCode": "54317"
  },
  {
   "id": 3305120016,
   "districtId": 3305120,
-  "name": "WONOSARI"
+  "districtName": "KEBUMEN",
+  "name": "WONOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 3305120017,
   "districtId": 3305120,
-  "name": "ROWOREJO"
+  "districtName": "KEBUMEN",
+  "name": "ROWOREJO",
+  "postalCode": "35353"
  },
  {
   "id": 3305120018,
   "districtId": 3305120,
-  "name": "TANAHSARI"
+  "districtName": "KEBUMEN",
+  "name": "TANAHSARI",
+  "postalCode": "54317"
  },
  {
   "id": 3305120019,
   "districtId": 3305120,
-  "name": "BANDUNG"
+  "districtName": "KEBUMEN",
+  "name": "BANDUNG",
+  "postalCode": "54317"
  },
  {
   "id": 3305120020,
   "districtId": 3305120,
-  "name": "CANDIMULYO"
+  "districtName": "KEBUMEN",
+  "name": "CANDIMULYO",
+  "postalCode": "56191"
  },
  {
   "id": 3305120021,
   "districtId": 3305120,
-  "name": "KALIJIREK"
+  "districtName": "KEBUMEN",
+  "name": "KALIJIREK",
+  "postalCode": "54317"
  },
  {
   "id": 3305120022,
   "districtId": 3305120,
-  "name": "CANDIWULAN"
+  "districtName": "KEBUMEN",
+  "name": "CANDIWULAN",
+  "postalCode": "54317"
  },
  {
   "id": 3305120023,
   "districtId": 3305120,
-  "name": "KAWEDUSAN"
+  "districtName": "KEBUMEN",
+  "name": "KAWEDUSAN",
+  "postalCode": "54317"
  },
  {
   "id": 3305120025,
   "districtId": 3305120,
-  "name": "KUTOSARI"
+  "districtName": "KEBUMEN",
+  "name": "KUTOSARI",
+  "postalCode": "32385"
  },
  {
   "id": 3305120026,
   "districtId": 3305120,
-  "name": "BUMIREJO"
+  "districtName": "KEBUMEN",
+  "name": "BUMIREJO",
+  "postalCode": "59185"
  },
  {
   "id": 3305120027,
   "districtId": 3305120,
-  "name": "GEMEKSEKTI"
+  "districtName": "KEBUMEN",
+  "name": "GEMEKSEKTI",
+  "postalCode": "54317"
  },
  {
   "id": 3305120028,
   "districtId": 3305120,
-  "name": "KARANGSARI"
+  "districtName": "KEBUMEN",
+  "name": "KARANGSARI",
+  "postalCode": "35376"
  }
 ]

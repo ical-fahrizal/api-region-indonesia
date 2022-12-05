@@ -2,61 +2,85 @@
  {
   "id": 1205061001,
   "districtId": 1205061,
-  "name": "PANSUR NAPITU"
+  "districtName": "SIATAS BARITA",
+  "name": "PANSUR NAPITU",
+  "postalCode": "22419"
  },
  {
   "id": 1205061002,
   "districtId": 1205061,
-  "name": "LOBUHOLE"
+  "districtName": "SIATAS BARITA",
+  "name": "LOBUHOLE",
+  "postalCode": "22417"
  },
  {
   "id": 1205061003,
   "districtId": 1205061,
-  "name": "SITOMPUL"
+  "districtName": "SIATAS BARITA",
+  "name": "SITOMPUL",
+  "postalCode": "22418"
  },
  {
   "id": 1205061004,
   "districtId": 1205061,
-  "name": "SANGKARAN"
+  "districtName": "SIATAS BARITA",
+  "name": "SANGKARAN",
+  "postalCode": "22418"
  },
  {
   "id": 1205061005,
   "districtId": 1205061,
-  "name": "ENDA PORTIBI"
+  "districtName": "SIATAS BARITA",
+  "name": "ENDA PORTIBI",
+  "postalCode": "22417"
  },
  {
   "id": 1205061006,
   "districtId": 1205061,
-  "name": "SI RAJA HUTAGALUNG"
+  "districtName": "SIATAS BARITA",
+  "name": "SI RAJA HUTAGALUNG",
+  "postalCode": "22417"
  },
  {
   "id": 1205061007,
   "districtId": 1205061,
-  "name": "LUMBAN SIAGIAN JAE"
+  "districtName": "SIATAS BARITA",
+  "name": "LUMBAN SIAGIAN JAE",
+  "postalCode": "22417"
  },
  {
   "id": 1205061008,
   "districtId": 1205061,
-  "name": "LUMBAN SIAGIAN JULU"
+  "districtName": "SIATAS BARITA",
+  "name": "LUMBAN SIAGIAN JULU",
+  "postalCode": "22417"
  },
  {
   "id": 1205061009,
   "districtId": 1205061,
-  "name": "SIMORANGKIR HABINSARAN"
+  "districtName": "SIATAS BARITA",
+  "name": "SIMORANGKIR HABINSARAN",
+  "postalCode": "22417"
  },
  {
   "id": 1205061010,
   "districtId": 1205061,
-  "name": "SIMORANGKIR JULU"
+  "districtName": "SIATAS BARITA",
+  "name": "SIMORANGKIR JULU",
+  "postalCode": "22417"
  },
  {
   "id": 1205061011,
   "districtId": 1205061,
-  "name": "SIMANAMPANG"
+  "districtName": "SIATAS BARITA",
+  "name": "SIMANAMPANG",
+  "postalCode": "22463"
  },
  {
   "id": 1205061012,
   "districtId": 1205061,
-  "name": "SIDAGAL"
+  "districtName": "SIATAS BARITA",
+  "name": "SIDAGAL",
+  "postalCode": "22417"
  }
 ]

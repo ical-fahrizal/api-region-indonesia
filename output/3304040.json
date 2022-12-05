@@ -2,56 +2,78 @@
  {
   "id": 3304040001,
   "districtId": 3304040,
-  "name": "KALITENGAH"
+  "districtName": "PURWANEGARA",
+  "name": "KALITENGAH",
+  "postalCode": "45153"
  },
  {
   "id": 3304040002,
   "districtId": 3304040,
-  "name": "PETIR"
+  "districtName": "PURWANEGARA",
+  "name": "PETIR",
+  "postalCode": "16680"
  },
  {
   "id": 3304040003,
   "districtId": 3304040,
-  "name": "KALIAJIR"
+  "districtName": "PURWANEGARA",
+  "name": "KALIAJIR",
+  "postalCode": "53472"
  },
  {
   "id": 3304040004,
   "districtId": 3304040,
-  "name": "KARANGANYAR"
+  "districtName": "PURWANEGARA",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  },
  {
   "id": 3304040006,
   "districtId": 3304040,
-  "name": "MERTASARI"
+  "districtName": "PURWANEGARA",
+  "name": "MERTASARI",
+  "postalCode": "53472"
  },
  {
   "id": 3304040007,
   "districtId": 3304040,
-  "name": "PARAKAN"
+  "districtName": "PURWANEGARA",
+  "name": "PARAKAN",
+  "postalCode": "16610"
  },
  {
   "id": 3304040009,
   "districtId": 3304040,
-  "name": "KUTAWULUH"
+  "districtName": "PURWANEGARA",
+  "name": "KUTAWULUH",
+  "postalCode": "53472"
  },
  {
   "id": 3304040010,
   "districtId": 3304040,
-  "name": "GUMIWANG"
+  "districtName": "PURWANEGARA",
+  "name": "GUMIWANG",
+  "postalCode": "53392"
  },
  {
   "id": 3304040011,
   "districtId": 3304040,
-  "name": "KALIPELUS"
+  "districtName": "PURWANEGARA",
+  "name": "KALIPELUS",
+  "postalCode": "53472"
  },
  {
   "id": 3304040012,
   "districtId": 3304040,
-  "name": "PURWONEGORO"
+  "districtName": "PURWANEGARA",
+  "name": "PURWONEGORO",
+  "postalCode": "53472"
  },
  {
   "id": 3304040013,
   "districtId": 3304040,
-  "name": "DANARAJA"
+  "districtName": "PURWANEGARA",
+  "name": "DANARAJA",
+  "postalCode": "53192"
  }
 ]

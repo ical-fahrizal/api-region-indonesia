@@ -2,41 +2,57 @@
  {
   "id": 3674030001,
   "districtId": 3674030,
-  "name": "PONDOK BENDA"
+  "districtName": "PAMULANG",
+  "name": "PONDOK BENDA",
+  "postalCode": "15416"
  },
  {
   "id": 3674030002,
   "districtId": 3674030,
-  "name": "PAMULANG BARAT"
+  "districtName": "PAMULANG",
+  "name": "PAMULANG BARAT",
+  "postalCode": "15417"
  },
  {
   "id": 3674030003,
   "districtId": 3674030,
-  "name": "PAMULANG TIMUR"
+  "districtName": "PAMULANG",
+  "name": "PAMULANG TIMUR",
+  "postalCode": "15417"
  },
  {
   "id": 3674030004,
   "districtId": 3674030,
-  "name": "PONDOK CABE UDIK"
+  "districtName": "PAMULANG",
+  "name": "PONDOK CABE UDIK",
+  "postalCode": "15418"
  },
  {
   "id": 3674030005,
   "districtId": 3674030,
-  "name": "PONDOK CABE ILIR"
+  "districtName": "PAMULANG",
+  "name": "PONDOK CABE ILIR",
+  "postalCode": "15418"
  },
  {
   "id": 3674030006,
   "districtId": 3674030,
-  "name": "KEDAUNG"
+  "districtName": "PAMULANG",
+  "name": "KEDAUNG",
+  "postalCode": "35158"
  },
  {
   "id": 3674030007,
   "districtId": 3674030,
-  "name": "BAMBU APUS"
+  "districtName": "PAMULANG",
+  "name": "BAMBU APUS",
+  "postalCode": "13890"
  },
  {
   "id": 3674030008,
   "districtId": 3674030,
-  "name": "BENDA BARU"
+  "districtName": "PAMULANG",
+  "name": "BENDA BARU",
+  "postalCode": "15418"
  }
 ]

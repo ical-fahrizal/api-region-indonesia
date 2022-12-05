@@ -2,36 +2,50 @@
  {
   "id": 8202033001,
   "districtId": 8202033,
-  "name": "KOBE"
+  "districtName": "WEDA TENGAH",
+  "name": "KOBE",
+  "postalCode": "97853"
  },
  {
   "id": 8202033002,
   "districtId": 8202033,
-  "name": "SAWAI ITEPO"
+  "districtName": "WEDA TENGAH",
+  "name": "SAWAI ITEPO",
+  "postalCode": "97853"
  },
  {
   "id": 8202033003,
   "districtId": 8202033,
-  "name": "LELILEF WAIBULAN"
+  "districtName": "WEDA TENGAH",
+  "name": "LELILEF WAIBULAN",
+  "postalCode": ""
  },
  {
   "id": 8202033004,
   "districtId": 8202033,
-  "name": "LELILEF SAWAI"
+  "districtName": "WEDA TENGAH",
+  "name": "LELILEF SAWAI",
+  "postalCode": "97853"
  },
  {
   "id": 8202033005,
   "districtId": 8202033,
-  "name": "WOEKOP"
+  "districtName": "WEDA TENGAH",
+  "name": "WOEKOP",
+  "postalCode": ""
  },
  {
   "id": 8202033006,
   "districtId": 8202033,
-  "name": "WOEJERANA"
+  "districtName": "WEDA TENGAH",
+  "name": "WOEJERANA",
+  "postalCode": "97853"
  },
  {
   "id": 8202033007,
   "districtId": 8202033,
-  "name": "KULO JAYA"
+  "districtName": "WEDA TENGAH",
+  "name": "KULO JAYA",
+  "postalCode": "97853"
  }
 ]

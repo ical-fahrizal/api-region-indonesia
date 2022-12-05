@@ -2,86 +2,120 @@
  {
   "id": 7316020008,
   "districtId": 7316020,
-  "name": "LEORAN"
+  "districtName": "ENREKANG",
+  "name": "LEORAN",
+  "postalCode": "91711"
  },
  {
   "id": 7316020009,
   "districtId": 7316020,
-  "name": "GALONTA"
+  "districtName": "ENREKANG",
+  "name": "GALONTA",
+  "postalCode": "91712"
  },
  {
   "id": 7316020010,
   "districtId": 7316020,
-  "name": "JUPPANDANG"
+  "districtName": "ENREKANG",
+  "name": "JUPPANDANG",
+  "postalCode": "91711"
  },
  {
   "id": 7316020011,
   "districtId": 7316020,
-  "name": "LEWAJA"
+  "districtName": "ENREKANG",
+  "name": "LEWAJA",
+  "postalCode": "91711"
  },
  {
   "id": 7316020012,
   "districtId": 7316020,
-  "name": "RANGA"
+  "districtName": "ENREKANG",
+  "name": "RANGA",
+  "postalCode": "86371"
  },
  {
   "id": 7316020013,
   "districtId": 7316020,
-  "name": "KALUPPINI"
+  "districtName": "ENREKANG",
+  "name": "KALUPPINI",
+  "postalCode": "91711"
  },
  {
   "id": 7316020014,
   "districtId": 7316020,
-  "name": "TOBALU"
+  "districtName": "ENREKANG",
+  "name": "TOBALU",
+  "postalCode": "91711"
  },
  {
   "id": 7316020015,
   "districtId": 7316020,
-  "name": "TOKKONAN"
+  "districtName": "ENREKANG",
+  "name": "TOKKONAN",
+  "postalCode": "91711"
  },
  {
   "id": 7316020017,
   "districtId": 7316020,
-  "name": "KARUENG"
+  "districtName": "ENREKANG",
+  "name": "KARUENG",
+  "postalCode": "91711"
  },
  {
   "id": 7316020018,
   "districtId": 7316020,
-  "name": "CEMBA"
+  "districtName": "ENREKANG",
+  "name": "CEMBA",
+  "postalCode": "91711"
  },
  {
   "id": 7316020019,
   "districtId": 7316020,
-  "name": "TUNGKA"
+  "districtName": "ENREKANG",
+  "name": "TUNGKA",
+  "postalCode": "26252"
  },
  {
   "id": 7316020020,
   "districtId": 7316020,
-  "name": "TEMBAN"
+  "districtName": "ENREKANG",
+  "name": "TEMBAN",
+  "postalCode": "91711"
  },
  {
   "id": 7316020021,
   "districtId": 7316020,
-  "name": "BUTTU BATU"
+  "districtName": "ENREKANG",
+  "name": "BUTTU BATU",
+  "postalCode": "91711"
  },
  {
   "id": 7316020022,
   "districtId": 7316020,
-  "name": "TALLU BAMBA"
+  "districtName": "ENREKANG",
+  "name": "TALLU BAMBA",
+  "postalCode": "91711"
  },
  {
   "id": 7316020023,
   "districtId": 7316020,
-  "name": "TUARA"
+  "districtName": "ENREKANG",
+  "name": "TUARA",
+  "postalCode": "91711"
  },
  {
   "id": 7316020024,
   "districtId": 7316020,
-  "name": "LEMBANG"
+  "districtName": "ENREKANG",
+  "name": "LEMBANG",
+  "postalCode": "44152"
  },
  {
   "id": 7316020025,
   "districtId": 7316020,
-  "name": "ROSOAN"
+  "districtName": "ENREKANG",
+  "name": "ROSOAN",
+  "postalCode": ""
  }
 ]

@@ -2,51 +2,71 @@
  {
   "id": 3320060001,
   "districtId": 3320060,
-  "name": "NGASEM"
+  "districtName": "BATEALIT",
+  "name": "NGASEM",
+  "postalCode": "59461"
  },
  {
   "id": 3320060003,
   "districtId": 3320060,
-  "name": "RAGUKLAMPITAN"
+  "districtName": "BATEALIT",
+  "name": "RAGUKLAMPITAN",
+  "postalCode": "59461"
  },
  {
   "id": 3320060004,
   "districtId": 3320060,
-  "name": "MINDAHAN KIDUL"
+  "districtName": "BATEALIT",
+  "name": "MINDAHAN KIDUL",
+  "postalCode": "59461"
  },
  {
   "id": 3320060005,
   "districtId": 3320060,
-  "name": "MINDAHAN"
+  "districtName": "BATEALIT",
+  "name": "MINDAHAN",
+  "postalCode": "59461"
  },
  {
   "id": 3320060006,
   "districtId": 3320060,
-  "name": "SOMOSARI"
+  "districtName": "BATEALIT",
+  "name": "SOMOSARI",
+  "postalCode": "59461"
  },
  {
   "id": 3320060007,
   "districtId": 3320060,
-  "name": "BATEALIT"
+  "districtName": "BATEALIT",
+  "name": "BATEALIT",
+  "postalCode": "59461"
  },
  {
   "id": 3320060008,
   "districtId": 3320060,
-  "name": "BRINGIN"
+  "districtName": "BATEALIT",
+  "name": "BRINGIN",
+  "postalCode": "45167"
  },
  {
   "id": 3320060009,
   "districtId": 3320060,
-  "name": "BANTRUNG"
+  "districtName": "BATEALIT",
+  "name": "BANTRUNG",
+  "postalCode": "59461"
  },
  {
   "id": 3320060010,
   "districtId": 3320060,
-  "name": "BAWU"
+  "districtName": "BATEALIT",
+  "name": "BAWU",
+  "postalCode": "59461"
  },
  {
   "id": 3320060011,
   "districtId": 3320060,
-  "name": "PEKALONGAN"
+  "districtName": "BATEALIT",
+  "name": "PEKALONGAN",
+  "postalCode": "39371"
  }
 ]

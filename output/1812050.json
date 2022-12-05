@@ -2,51 +2,71 @@
  {
   "id": 1812050001,
   "districtId": 1812050,
-  "name": "LESUNG BAKTI JAYA"
+  "districtName": "LAMBU KIBANG",
+  "name": "LESUNG BAKTI JAYA",
+  "postalCode": "34388"
  },
  {
   "id": 1812050002,
   "districtId": 1812050,
-  "name": "MEKAR SARI JAYA"
+  "districtName": "LAMBU KIBANG",
+  "name": "MEKAR SARI JAYA",
+  "postalCode": "34388"
  },
  {
   "id": 1812050003,
   "districtId": 1812050,
-  "name": "PAGAR JAYA"
+  "districtName": "LAMBU KIBANG",
+  "name": "PAGAR JAYA",
+  "postalCode": "34388"
  },
  {
   "id": 1812050004,
   "districtId": 1812050,
-  "name": "SUMBER REJO"
+  "districtName": "LAMBU KIBANG",
+  "name": "SUMBER REJO",
+  "postalCode": "21255"
  },
  {
   "id": 1812050005,
   "districtId": 1812050,
-  "name": "GUNUNG SARI"
+  "districtName": "LAMBU KIBANG",
+  "name": "GUNUNG SARI",
+  "postalCode": "28471"
  },
  {
   "id": 1812050006,
   "districtId": 1812050,
-  "name": "KIBANG BUDI JAYA"
+  "districtName": "LAMBU KIBANG",
+  "name": "KIBANG BUDI JAYA",
+  "postalCode": "34388"
  },
  {
   "id": 1812050007,
   "districtId": 1812050,
-  "name": "KIBANG YEKTI JAYA"
+  "districtName": "LAMBU KIBANG",
+  "name": "KIBANG YEKTI JAYA",
+  "postalCode": "34388"
  },
  {
   "id": 1812050008,
   "districtId": 1812050,
-  "name": "KIBANG TRI JAYA"
+  "districtName": "LAMBU KIBANG",
+  "name": "KIBANG TRI JAYA",
+  "postalCode": "34388"
  },
  {
   "id": 1812050009,
   "districtId": 1812050,
-  "name": "GILANG TUNGGAL MAKARTA"
+  "districtName": "LAMBU KIBANG",
+  "name": "GILANG TUNGGAL MAKARTA",
+  "postalCode": "34388"
  },
  {
   "id": 1812050010,
   "districtId": 1812050,
-  "name": "KIBANG MULYA JAYA"
+  "districtName": "LAMBU KIBANG",
+  "name": "KIBANG MULYA JAYA",
+  "postalCode": ""
  }
 ]

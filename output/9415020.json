@@ -2,66 +2,92 @@
  {
   "id": 9415020001,
   "districtId": 9415020,
-  "name": "BASIM"
+  "districtName": "FAYIT",
+  "name": "BASIM",
+  "postalCode": "99782"
  },
  {
   "id": 9415020002,
   "districtId": 9415020,
-  "name": "WARAS"
+  "districtName": "FAYIT",
+  "name": "WARAS",
+  "postalCode": "99782"
  },
  {
   "id": 9415020003,
   "districtId": 9415020,
-  "name": "OCENEP"
+  "districtName": "FAYIT",
+  "name": "OCENEP",
+  "postalCode": ""
  },
  {
   "id": 9415020004,
   "districtId": 9415020,
-  "name": "PIRIEN"
+  "districtName": "FAYIT",
+  "name": "PIRIEN",
+  "postalCode": "99782"
  },
  {
   "id": 9415020005,
   "districtId": 9415020,
-  "name": "BIOPIS"
+  "districtName": "FAYIT",
+  "name": "BIOPIS",
+  "postalCode": "99782"
  },
  {
   "id": 9415020006,
   "districtId": 9415020,
-  "name": "NANAI (NANAY)"
+  "districtName": "FAYIT",
+  "name": "NANAI (NANAY)",
+  "postalCode": "99782"
  },
  {
   "id": 9415020013,
   "districtId": 9415020,
-  "name": "AIS"
+  "districtName": "FAYIT",
+  "name": "AIS",
+  "postalCode": "99782"
  },
  {
   "id": 9415020014,
   "districtId": 9415020,
-  "name": "YAWAS"
+  "districtName": "FAYIT",
+  "name": "YAWAS",
+  "postalCode": "99782"
  },
  {
   "id": 9415020015,
   "districtId": 9415020,
-  "name": "KAYARPIS"
+  "districtName": "FAYIT",
+  "name": "KAYARPIS",
+  "postalCode": "99782"
  },
  {
   "id": 9415020016,
   "districtId": 9415020,
-  "name": "BAKYOR"
+  "districtName": "FAYIT",
+  "name": "BAKYOR",
+  "postalCode": "99782"
  },
  {
   "id": 9415020017,
   "districtId": 9415020,
-  "name": "ISAR"
+  "districtName": "FAYIT",
+  "name": "ISAR",
+  "postalCode": "99782"
  },
  {
   "id": 9415020018,
   "districtId": 9415020,
-  "name": "SAYOA"
+  "districtName": "FAYIT",
+  "name": "SAYOA",
+  "postalCode": "99782"
  },
  {
   "id": 9415020019,
   "districtId": 9415020,
-  "name": "BORA"
+  "districtName": "FAYIT",
+  "name": "BORA",
+  "postalCode": "79673"
  }
 ]

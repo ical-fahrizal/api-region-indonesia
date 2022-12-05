@@ -2,76 +2,106 @@
  {
   "id": 1173011001,
   "districtId": 1173011,
-  "name": "PONDOK KEUMUNING"
+  "districtName": "LANGSA LAMA",
+  "name": "PONDOK KEUMUNING",
+  "postalCode": "24416"
  },
  {
   "id": 1173011002,
   "districtId": 1173011,
-  "name": "SEULALAH"
+  "districtName": "LANGSA LAMA",
+  "name": "SEULALAH",
+  "postalCode": "24416"
  },
  {
   "id": 1173011003,
   "districtId": 1173011,
-  "name": "PONDOK PABRIK"
+  "districtName": "LANGSA LAMA",
+  "name": "PONDOK PABRIK",
+  "postalCode": "24416"
  },
  {
   "id": 1173011004,
   "districtId": 1173011,
-  "name": "SIDODADI"
+  "districtName": "LANGSA LAMA",
+  "name": "SIDODADI",
+  "postalCode": "24582"
  },
  {
   "id": 1173011005,
   "districtId": 1173011,
-  "name": "SIDOREJO"
+  "districtName": "LANGSA LAMA",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 1173011006,
   "districtId": 1173011,
-  "name": "GAMPONG BARO"
+  "districtName": "LANGSA LAMA",
+  "name": "GAMPONG BARO",
+  "postalCode": "24454"
  },
  {
   "id": 1173011007,
   "districtId": 1173011,
-  "name": "MEURANDEH"
+  "districtName": "LANGSA LAMA",
+  "name": "MEURANDEH",
+  "postalCode": "24416"
  },
  {
   "id": 1173011008,
   "districtId": 1173011,
-  "name": "ASAM PEUTEK"
+  "districtName": "LANGSA LAMA",
+  "name": "ASAM PEUTEK",
+  "postalCode": "24416"
  },
  {
   "id": 1173011009,
   "districtId": 1173011,
-  "name": "BAROH LANGSA LAMA"
+  "districtName": "LANGSA LAMA",
+  "name": "BAROH LANGSA LAMA",
+  "postalCode": "24416"
  },
  {
   "id": 1173011010,
   "districtId": 1173011,
-  "name": "SEULALAH BARU"
+  "districtName": "LANGSA LAMA",
+  "name": "SEULALAH BARU",
+  "postalCode": "24416"
  },
  {
   "id": 1173011011,
   "districtId": 1173011,
-  "name": "SUKA JADI KEBUN IRENG"
+  "districtName": "LANGSA LAMA",
+  "name": "SUKA JADI KEBUN IRENG",
+  "postalCode": ""
  },
  {
   "id": 1173011012,
   "districtId": 1173011,
-  "name": "MEURANDEH TENGAH"
+  "districtName": "LANGSA LAMA",
+  "name": "MEURANDEH TENGAH",
+  "postalCode": ""
  },
  {
   "id": 1173011013,
   "districtId": 1173011,
-  "name": "MEURANDEH DAYAH"
+  "districtName": "LANGSA LAMA",
+  "name": "MEURANDEH DAYAH",
+  "postalCode": "24416"
  },
  {
   "id": 1173011014,
   "districtId": 1173011,
-  "name": "MEURANDEH ACEH"
+  "districtName": "LANGSA LAMA",
+  "name": "MEURANDEH ACEH",
+  "postalCode": "24416"
  },
  {
   "id": 1173011015,
   "districtId": 1173011,
-  "name": "BATE PUTEH"
+  "districtName": "LANGSA LAMA",
+  "name": "BATE PUTEH",
+  "postalCode": "24411"
  }
 ]

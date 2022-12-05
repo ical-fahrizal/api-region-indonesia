@@ -2,41 +2,57 @@
  {
   "id": 9426013001,
   "districtId": 9426013,
-  "name": "SOWIWA"
+  "districtName": "OUDATE",
+  "name": "SOWIWA",
+  "postalCode": "98262"
  },
  {
   "id": 9426013002,
   "districtId": 9426013,
-  "name": "RUAMBAK JAYA SP VII"
+  "districtName": "OUDATE",
+  "name": "RUAMBAK JAYA SP VII",
+  "postalCode": ""
  },
  {
   "id": 9426013003,
   "districtId": 9426013,
-  "name": "BAINO JAYA SP IV"
+  "districtName": "OUDATE",
+  "name": "BAINO JAYA SP IV",
+  "postalCode": ""
  },
  {
   "id": 9426013004,
   "districtId": 9426013,
-  "name": "BOTAWA"
+  "districtName": "OUDATE",
+  "name": "BOTAWA",
+  "postalCode": "98262"
  },
  {
   "id": 9426013005,
   "districtId": 9426013,
-  "name": "AIBOA/EPAWA"
+  "districtName": "OUDATE",
+  "name": "AIBOA/EPAWA",
+  "postalCode": ""
  },
  {
   "id": 9426013006,
   "districtId": 9426013,
-  "name": "RASAWA"
+  "districtName": "OUDATE",
+  "name": "RASAWA",
+  "postalCode": "98262"
  },
  {
   "id": 9426013007,
   "districtId": 9426013,
-  "name": "MOROWA"
+  "districtName": "OUDATE",
+  "name": "MOROWA",
+  "postalCode": ""
  },
  {
   "id": 9426013008,
   "districtId": 9426013,
-  "name": "NAU"
+  "districtName": "OUDATE",
+  "name": "NAU",
+  "postalCode": "98262"
  }
 ]

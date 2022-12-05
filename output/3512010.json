@@ -2,46 +2,64 @@
  {
   "id": 3512010001,
   "districtId": 3512010,
-  "name": "ALAS TENGAH"
+  "districtName": "SUMBERMALANG",
+  "name": "ALAS TENGAH",
+  "postalCode": "67283"
  },
  {
   "id": 3512010002,
   "districtId": 3512010,
-  "name": "BADERAN"
+  "districtName": "SUMBERMALANG",
+  "name": "BADERAN",
+  "postalCode": "63271"
  },
  {
   "id": 3512010003,
   "districtId": 3512010,
-  "name": "TAMANKURSI"
+  "districtName": "SUMBERMALANG",
+  "name": "TAMANKURSI",
+  "postalCode": "68355"
  },
  {
   "id": 3512010004,
   "districtId": 3512010,
-  "name": "SUMBERARGO"
+  "districtName": "SUMBERMALANG",
+  "name": "SUMBERARGO",
+  "postalCode": "68355"
  },
  {
   "id": 3512010005,
   "districtId": 3512010,
-  "name": "KALIREJO"
+  "districtName": "SUMBERMALANG",
+  "name": "KALIREJO",
+  "postalCode": "35353"
  },
  {
   "id": 3512010006,
   "districtId": 3512010,
-  "name": "TAMAN SARI"
+  "districtName": "SUMBERMALANG",
+  "name": "TAMAN SARI",
+  "postalCode": "21264"
  },
  {
   "id": 3512010007,
   "districtId": 3512010,
-  "name": "TLOGOSARI"
+  "districtName": "SUMBERMALANG",
+  "name": "TLOGOSARI",
+  "postalCode": "54473"
  },
  {
   "id": 3512010008,
   "districtId": 3512010,
-  "name": "TAMAN"
+  "districtName": "SUMBERMALANG",
+  "name": "TAMAN",
+  "postalCode": "52361"
  },
  {
   "id": 3512010009,
   "districtId": 3512010,
-  "name": "PLALANGAN"
+  "districtName": "SUMBERMALANG",
+  "name": "PLALANGAN",
+  "postalCode": "50225"
  }
 ]

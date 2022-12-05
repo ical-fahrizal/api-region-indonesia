@@ -2,86 +2,120 @@
  {
   "id": 3212150001,
   "districtId": 3212150,
-  "name": "TELUKAGUNG"
+  "districtName": "INDRAMAYU",
+  "name": "TELUKAGUNG",
+  "postalCode": "45215"
  },
  {
   "id": 3212150002,
   "districtId": 3212150,
-  "name": "PLUMBON"
+  "districtName": "INDRAMAYU",
+  "name": "PLUMBON",
+  "postalCode": "45215"
  },
  {
   "id": 3212150004,
   "districtId": 3212150,
-  "name": "PEKANDANGAN JAYA"
+  "districtName": "INDRAMAYU",
+  "name": "PEKANDANGAN JAYA",
+  "postalCode": "45211"
  },
  {
   "id": 3212150005,
   "districtId": 3212150,
-  "name": "SINGARAJA"
+  "districtName": "INDRAMAYU",
+  "name": "SINGARAJA",
+  "postalCode": "45218"
  },
  {
   "id": 3212150006,
   "districtId": 3212150,
-  "name": "SINGAJAYA"
+  "districtName": "INDRAMAYU",
+  "name": "SINGAJAYA",
+  "postalCode": "46185"
  },
  {
   "id": 3212150007,
   "districtId": 3212150,
-  "name": "PEKANDANGAN"
+  "districtName": "INDRAMAYU",
+  "name": "PEKANDANGAN",
+  "postalCode": "34176"
  },
  {
   "id": 3212150008,
   "districtId": 3212150,
-  "name": "BOJONGSARI"
+  "districtName": "INDRAMAYU",
+  "name": "BOJONGSARI",
+  "postalCode": "40288"
  },
  {
   "id": 3212150009,
   "districtId": 3212150,
-  "name": "KEPANDEAN"
+  "districtName": "INDRAMAYU",
+  "name": "KEPANDEAN",
+  "postalCode": "45214"
  },
  {
   "id": 3212150010,
   "districtId": 3212150,
-  "name": "KARANGMALANG"
+  "districtName": "INDRAMAYU",
+  "name": "KARANGMALANG",
+  "postalCode": "45213"
  },
  {
   "id": 3212150011,
   "districtId": 3212150,
-  "name": "KARANGANYAR"
+  "districtName": "INDRAMAYU",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  },
  {
   "id": 3212150012,
   "districtId": 3212150,
-  "name": "LEMAHMEKAR"
+  "districtName": "INDRAMAYU",
+  "name": "LEMAHMEKAR",
+  "postalCode": "45212"
  },
  {
   "id": 3212150013,
   "districtId": 3212150,
-  "name": "LEMAHABANG"
+  "districtName": "INDRAMAYU",
+  "name": "LEMAHABANG",
+  "postalCode": "45212"
  },
  {
   "id": 3212150014,
   "districtId": 3212150,
-  "name": "MARGADADI"
+  "districtName": "INDRAMAYU",
+  "name": "MARGADADI",
+  "postalCode": "45211"
  },
  {
   "id": 3212150015,
   "districtId": 3212150,
-  "name": "PAOMAN"
+  "districtName": "INDRAMAYU",
+  "name": "PAOMAN",
+  "postalCode": "45211"
  },
  {
   "id": 3212150016,
   "districtId": 3212150,
-  "name": "KARANGSONG"
+  "districtName": "INDRAMAYU",
+  "name": "KARANGSONG",
+  "postalCode": "45219"
  },
  {
   "id": 3212150017,
   "districtId": 3212150,
-  "name": "PABEANUDIK"
+  "districtName": "INDRAMAYU",
+  "name": "PABEANUDIK",
+  "postalCode": "45219"
  },
  {
   "id": 3212150018,
   "districtId": 3212150,
-  "name": "TAMBAK"
+  "districtName": "INDRAMAYU",
+  "name": "TAMBAK",
+  "postalCode": "29335"
  }
 ]

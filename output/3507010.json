@@ -2,51 +2,71 @@
  {
   "id": 3507010001,
   "districtId": 3507010,
-  "name": "SUMBEROTO"
+  "districtName": "DONOMULYO",
+  "name": "SUMBEROTO",
+  "postalCode": "65167"
  },
  {
   "id": 3507010002,
   "districtId": 3507010,
-  "name": "PURWOREJO"
+  "districtName": "DONOMULYO",
+  "name": "PURWOREJO",
+  "postalCode": "23661"
  },
  {
   "id": 3507010003,
   "districtId": 3507010,
-  "name": "MENTARAMAN"
+  "districtName": "DONOMULYO",
+  "name": "MENTARAMAN",
+  "postalCode": "65167"
  },
  {
   "id": 3507010004,
   "districtId": 3507010,
-  "name": "DONOMULYO"
+  "districtName": "DONOMULYO",
+  "name": "DONOMULYO",
+  "postalCode": "34182"
  },
  {
   "id": 3507010005,
   "districtId": 3507010,
-  "name": "TEMPURSARI"
+  "districtName": "DONOMULYO",
+  "name": "TEMPURSARI",
+  "postalCode": "56191"
  },
  {
   "id": 3507010006,
   "districtId": 3507010,
-  "name": "TLOGOSARI"
+  "districtName": "DONOMULYO",
+  "name": "TLOGOSARI",
+  "postalCode": "54473"
  },
  {
   "id": 3507010007,
   "districtId": 3507010,
-  "name": "KEDUNGSALAM"
+  "districtName": "DONOMULYO",
+  "name": "KEDUNGSALAM",
+  "postalCode": "65167"
  },
  {
   "id": 3507010008,
   "districtId": 3507010,
-  "name": "BANJARJO"
+  "districtName": "DONOMULYO",
+  "name": "BANJARJO",
+  "postalCode": "65167"
  },
  {
   "id": 3507010009,
   "districtId": 3507010,
-  "name": "TULUNGREJO"
+  "districtName": "DONOMULYO",
+  "name": "TULUNGREJO",
+  "postalCode": "66275"
  },
  {
   "id": 3507010010,
   "districtId": 3507010,
-  "name": "PURWODADI"
+  "districtName": "DONOMULYO",
+  "name": "PURWODADI",
+  "postalCode": "24652"
  }
 ]

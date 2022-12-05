@@ -2,41 +2,57 @@
  {
   "id": 7407021004,
   "districtId": 7407021,
-  "name": "PATIPELONG"
+  "districtName": "TOMIA TIMUR",
+  "name": "PATIPELONG",
+  "postalCode": "93793"
  },
  {
   "id": 7407021005,
   "districtId": 7407021,
-  "name": "TONGANO BARAT"
+  "districtName": "TOMIA TIMUR",
+  "name": "TONGANO BARAT",
+  "postalCode": "93793"
  },
  {
   "id": 7407021006,
   "districtId": 7407021,
-  "name": "BAHARI"
+  "districtName": "TOMIA TIMUR",
+  "name": "BAHARI",
+  "postalCode": "94681"
  },
  {
   "id": 7407021007,
   "districtId": 7407021,
-  "name": "TONGANO TIMUR"
+  "districtName": "TOMIA TIMUR",
+  "name": "TONGANO TIMUR",
+  "postalCode": "93793"
  },
  {
   "id": 7407021008,
   "districtId": 7407021,
-  "name": "TIMU"
+  "districtName": "TOMIA TIMUR",
+  "name": "TIMU",
+  "postalCode": "84161"
  },
  {
   "id": 7407021010,
   "districtId": 7407021,
-  "name": "KULATI"
+  "districtName": "TOMIA TIMUR",
+  "name": "KULATI",
+  "postalCode": ""
  },
  {
   "id": 7407021011,
   "districtId": 7407021,
-  "name": "WAWOTIMU"
+  "districtName": "TOMIA TIMUR",
+  "name": "WAWOTIMU",
+  "postalCode": "93793"
  },
  {
   "id": 7407021012,
   "districtId": 7407021,
-  "name": "KAHIANGA"
+  "districtName": "TOMIA TIMUR",
+  "name": "KAHIANGA",
+  "postalCode": ""
  }
 ]

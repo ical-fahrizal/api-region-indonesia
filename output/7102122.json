@@ -2,46 +2,64 @@
  {
   "id": 7102122001,
   "districtId": 7102122,
-  "name": "TALIKURAN BARAT"
+  "districtName": "KAWANGKOAN UTARA",
+  "name": "TALIKURAN BARAT",
+  "postalCode": "95692"
  },
  {
   "id": 7102122002,
   "districtId": 7102122,
-  "name": "TALIKURAN"
+  "districtName": "KAWANGKOAN UTARA",
+  "name": "TALIKURAN",
+  "postalCode": "95682"
  },
  {
   "id": 7102122003,
   "districtId": 7102122,
-  "name": "TALIKURAN UTARA"
+  "districtName": "KAWANGKOAN UTARA",
+  "name": "TALIKURAN UTARA",
+  "postalCode": "95692"
  },
  {
   "id": 7102122004,
   "districtId": 7102122,
-  "name": "KIAWA SATU"
+  "districtName": "KAWANGKOAN UTARA",
+  "name": "KIAWA SATU",
+  "postalCode": "95692"
  },
  {
   "id": 7102122005,
   "districtId": 7102122,
-  "name": "KIAWA SATU BARAT"
+  "districtName": "KAWANGKOAN UTARA",
+  "name": "KIAWA SATU BARAT",
+  "postalCode": "95692"
  },
  {
   "id": 7102122006,
   "districtId": 7102122,
-  "name": "KIAWA SATU UTARA"
+  "districtName": "KAWANGKOAN UTARA",
+  "name": "KIAWA SATU UTARA",
+  "postalCode": "95692"
  },
  {
   "id": 7102122007,
   "districtId": 7102122,
-  "name": "KIAWA DUA"
+  "districtName": "KAWANGKOAN UTARA",
+  "name": "KIAWA DUA",
+  "postalCode": "95692"
  },
  {
   "id": 7102122008,
   "districtId": 7102122,
-  "name": "KIAWA DUA BARAT"
+  "districtName": "KAWANGKOAN UTARA",
+  "name": "KIAWA DUA BARAT",
+  "postalCode": "95692"
  },
  {
   "id": 7102122009,
   "districtId": 7102122,
-  "name": "KIAWA DUA TIMUR"
+  "districtName": "KAWANGKOAN UTARA",
+  "name": "KIAWA DUA TIMUR",
+  "postalCode": "95692"
  }
 ]

@@ -2,56 +2,78 @@
  {
   "id": 7316051003,
   "districtId": 7316051,
-  "name": "MEKKALAK"
+  "districtName": "CURIO",
+  "name": "MEKKALAK",
+  "postalCode": ""
  },
  {
   "id": 7316051004,
   "districtId": 7316051,
-  "name": "BUNTU PEMA"
+  "districtName": "CURIO",
+  "name": "BUNTU PEMA",
+  "postalCode": "91754"
  },
  {
   "id": 7316051005,
   "districtId": 7316051,
-  "name": "TALLUNGURA"
+  "districtName": "CURIO",
+  "name": "TALLUNGURA",
+  "postalCode": "91754"
  },
  {
   "id": 7316051006,
   "districtId": 7316051,
-  "name": "SANGLEPONGAN"
+  "districtName": "CURIO",
+  "name": "SANGLEPONGAN",
+  "postalCode": "91754"
  },
  {
   "id": 7316051007,
   "districtId": 7316051,
-  "name": "PAROMBEAN"
+  "districtName": "CURIO",
+  "name": "PAROMBEAN",
+  "postalCode": "91754"
  },
  {
   "id": 7316051008,
   "districtId": 7316051,
-  "name": "CURIO"
+  "districtName": "CURIO",
+  "name": "CURIO",
+  "postalCode": "91754"
  },
  {
   "id": 7316051009,
   "districtId": 7316051,
-  "name": "PABALORAN"
+  "districtName": "CURIO",
+  "name": "PABALORAN",
+  "postalCode": "91754"
  },
  {
   "id": 7316051010,
   "districtId": 7316051,
-  "name": "BUNTU BARANA"
+  "districtName": "CURIO",
+  "name": "BUNTU BARANA",
+  "postalCode": "91754"
  },
  {
   "id": 7316051011,
   "districtId": 7316051,
-  "name": "SALASSA"
+  "districtName": "CURIO",
+  "name": "SALASSA",
+  "postalCode": "92965"
  },
  {
   "id": 7316051012,
   "districtId": 7316051,
-  "name": "SUMBANG"
+  "districtName": "CURIO",
+  "name": "SUMBANG",
+  "postalCode": "53183"
  },
  {
   "id": 7316051013,
   "districtId": 7316051,
-  "name": "MANDALAN"
+  "districtName": "CURIO",
+  "name": "MANDALAN",
+  "postalCode": "91754"
  }
 ]

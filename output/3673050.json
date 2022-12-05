@@ -2,66 +2,92 @@
  {
   "id": 3673050001,
   "districtId": 3673050,
-  "name": "CILOWONG"
+  "districtName": "TAKTAKAN",
+  "name": "CILOWONG",
+  "postalCode": "42162"
  },
  {
   "id": 3673050002,
   "districtId": 3673050,
-  "name": "SAYAR"
+  "districtName": "TAKTAKAN",
+  "name": "SAYAR",
+  "postalCode": "42162"
  },
  {
   "id": 3673050003,
   "districtId": 3673050,
-  "name": "SEPANG"
+  "districtName": "TAKTAKAN",
+  "name": "SEPANG",
+  "postalCode": "24655"
  },
  {
   "id": 3673050004,
   "districtId": 3673050,
-  "name": "PANCUR"
+  "districtName": "TAKTAKAN",
+  "name": "PANCUR",
+  "postalCode": "29274"
  },
  {
   "id": 3673050005,
   "districtId": 3673050,
-  "name": "KALANG ANYAR"
+  "districtName": "TAKTAKAN",
+  "name": "KALANG ANYAR",
+  "postalCode": "42162"
  },
  {
   "id": 3673050006,
   "districtId": 3673050,
-  "name": "KURANJI"
+  "districtName": "TAKTAKAN",
+  "name": "KURANJI",
+  "postalCode": "25157"
  },
  {
   "id": 3673050007,
   "districtId": 3673050,
-  "name": "PANGGUNGJATI"
+  "districtName": "TAKTAKAN",
+  "name": "PANGGUNGJATI",
+  "postalCode": "42162"
  },
  {
   "id": 3673050008,
   "districtId": 3673050,
-  "name": "DRANGONG"
+  "districtName": "TAKTAKAN",
+  "name": "DRANGONG",
+  "postalCode": "42162"
  },
  {
   "id": 3673050009,
   "districtId": 3673050,
-  "name": "TAKTAKAN"
+  "districtName": "TAKTAKAN",
+  "name": "TAKTAKAN",
+  "postalCode": "42162"
  },
  {
   "id": 3673050010,
   "districtId": 3673050,
-  "name": "UMBUL TENGAH"
+  "districtName": "TAKTAKAN",
+  "name": "UMBUL TENGAH",
+  "postalCode": "42162"
  },
  {
   "id": 3673050011,
   "districtId": 3673050,
-  "name": "LIALANG"
+  "districtName": "TAKTAKAN",
+  "name": "LIALANG",
+  "postalCode": "42162"
  },
  {
   "id": 3673050012,
   "districtId": 3673050,
-  "name": "TAMANBARU"
+  "districtName": "TAKTAKAN",
+  "name": "TAMANBARU",
+  "postalCode": "68416"
  },
  {
   "id": 3673050013,
   "districtId": 3673050,
-  "name": "CIBENDUNG"
+  "districtName": "TAKTAKAN",
+  "name": "CIBENDUNG",
+  "postalCode": "52265"
  }
 ]

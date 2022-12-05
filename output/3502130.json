@@ -2,56 +2,78 @@
  {
   "id": 3502130002,
   "districtId": 3502130,
-  "name": "JONGGOL"
+  "districtName": "JAMBON",
+  "name": "JONGGOL",
+  "postalCode": "16830"
  },
  {
   "id": 3502130003,
   "districtId": 3502130,
-  "name": "POKO"
+  "districtName": "JAMBON",
+  "name": "POKO",
+  "postalCode": "63456"
  },
  {
   "id": 3502130004,
   "districtId": 3502130,
-  "name": "BRINGINAN"
+  "districtName": "JAMBON",
+  "name": "BRINGINAN",
+  "postalCode": "63456"
  },
  {
   "id": 3502130005,
   "districtId": 3502130,
-  "name": "SENDANG"
+  "districtName": "JAMBON",
+  "name": "SENDANG",
+  "postalCode": "45283"
  },
  {
   "id": 3502130006,
   "districtId": 3502130,
-  "name": "KARANG LOKIDUL"
+  "districtName": "JAMBON",
+  "name": "KARANG LOKIDUL",
+  "postalCode": ""
  },
  {
   "id": 3502130007,
   "districtId": 3502130,
-  "name": "BULU LOR"
+  "districtName": "JAMBON",
+  "name": "BULU LOR",
+  "postalCode": "50179"
  },
  {
   "id": 3502130008,
   "districtId": 3502130,
-  "name": "JAMBON"
+  "districtName": "JAMBON",
+  "name": "JAMBON",
+  "postalCode": "56283"
  },
  {
   "id": 3502130010,
   "districtId": 3502130,
-  "name": "PULOSARI"
+  "districtName": "JAMBON",
+  "name": "PULOSARI",
+  "postalCode": "43354"
  },
  {
   "id": 3502130011,
   "districtId": 3502130,
-  "name": "MENANG"
+  "districtName": "JAMBON",
+  "name": "MENANG",
+  "postalCode": "63456"
  },
  {
   "id": 3502130012,
   "districtId": 3502130,
-  "name": "SRANDIL"
+  "districtName": "JAMBON",
+  "name": "SRANDIL",
+  "postalCode": "63456"
  },
  {
   "id": 3502130013,
   "districtId": 3502130,
-  "name": "SIDOHARJO"
+  "districtName": "JAMBON",
+  "name": "SIDOHARJO",
+  "postalCode": "30975"
  }
 ]

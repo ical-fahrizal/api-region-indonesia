@@ -2,91 +2,127 @@
  {
   "id": 3309040001,
   "districtId": 3309040,
-  "name": "LAMPAR"
+  "districtName": "MUSUK",
+  "name": "LAMPAR",
+  "postalCode": "57331"
  },
  {
   "id": 3309040002,
   "districtId": 3309040,
-  "name": "DRAGAN"
+  "districtName": "MUSUK",
+  "name": "DRAGAN",
+  "postalCode": "57331"
  },
  {
   "id": 3309040003,
   "districtId": 3309040,
-  "name": "KARANGANYAR"
+  "districtName": "MUSUK",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  },
  {
   "id": 3309040004,
   "districtId": 3309040,
-  "name": "JEMOWO"
+  "districtName": "MUSUK",
+  "name": "JEMOWO",
+  "postalCode": "57331"
  },
  {
   "id": 3309040006,
   "districtId": 3309040,
-  "name": "SANGUP"
+  "districtName": "MUSUK",
+  "name": "SANGUP",
+  "postalCode": "57331"
  },
  {
   "id": 3309040007,
   "districtId": 3309040,
-  "name": "MRIYAN"
+  "districtName": "MUSUK",
+  "name": "MRIYAN",
+  "postalCode": "57331"
  },
  {
   "id": 3309040008,
   "districtId": 3309040,
-  "name": "LANJARAN"
+  "districtName": "MUSUK",
+  "name": "LANJARAN",
+  "postalCode": "57331"
  },
  {
   "id": 3309040009,
   "districtId": 3309040,
-  "name": "KARANGKENDAL"
+  "districtName": "MUSUK",
+  "name": "KARANGKENDAL",
+  "postalCode": "45152"
  },
  {
   "id": 3309040010,
   "districtId": 3309040,
-  "name": "KEPOSONG"
+  "districtName": "MUSUK",
+  "name": "KEPOSONG",
+  "postalCode": "57331"
  },
  {
   "id": 3309040011,
   "districtId": 3309040,
-  "name": "PAGERJURANG"
+  "districtName": "MUSUK",
+  "name": "PAGERJURANG",
+  "postalCode": "57331"
  },
  {
   "id": 3309040012,
   "districtId": 3309040,
-  "name": "SUKOREJO"
+  "districtName": "MUSUK",
+  "name": "SUKOREJO",
+  "postalCode": "31551"
  },
  {
   "id": 3309040013,
   "districtId": 3309040,
-  "name": "SRUNI"
+  "districtName": "MUSUK",
+  "name": "SRUNI",
+  "postalCode": "57331"
  },
  {
   "id": 3309040014,
   "districtId": 3309040,
-  "name": "CLUNTANG"
+  "districtName": "MUSUK",
+  "name": "CLUNTANG",
+  "postalCode": "57331"
  },
  {
   "id": 3309040015,
   "districtId": 3309040,
-  "name": "KEMBANGSARI"
+  "districtName": "MUSUK",
+  "name": "KEMBANGSARI",
+  "postalCode": "56281"
  },
  {
   "id": 3309040016,
   "districtId": 3309040,
-  "name": "RINGINLARIK"
+  "districtName": "MUSUK",
+  "name": "RINGINLARIK",
+  "postalCode": ""
  },
  {
   "id": 3309040017,
   "districtId": 3309040,
-  "name": "KEBONGULO"
+  "districtName": "MUSUK",
+  "name": "KEBONGULO",
+  "postalCode": "57331"
  },
  {
   "id": 3309040019,
   "districtId": 3309040,
-  "name": "SUKORAME"
+  "districtName": "MUSUK",
+  "name": "SUKORAME",
+  "postalCode": "57331"
  },
  {
   "id": 3309040020,
   "districtId": 3309040,
-  "name": "PUSPORENGGO"
+  "districtName": "MUSUK",
+  "name": "PUSPORENGGO",
+  "postalCode": "57331"
  }
 ]

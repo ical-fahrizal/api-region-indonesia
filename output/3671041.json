@@ -2,31 +2,43 @@
  {
   "id": 3671041001,
   "districtId": 3671041,
-  "name": "PANUNGGANGAN BARAT"
+  "districtName": "CIBODAS",
+  "name": "PANUNGGANGAN BARAT",
+  "postalCode": "15139"
  },
  {
   "id": 3671041002,
   "districtId": 3671041,
-  "name": "CIBODASARI"
+  "districtName": "CIBODAS",
+  "name": "CIBODASARI",
+  "postalCode": ""
  },
  {
   "id": 3671041003,
   "districtId": 3671041,
-  "name": "CIBODAS BARU"
+  "districtName": "CIBODAS",
+  "name": "CIBODAS BARU",
+  "postalCode": "15138"
  },
  {
   "id": 3671041004,
   "districtId": 3671041,
-  "name": "CIBODAS"
+  "districtName": "CIBODAS",
+  "name": "CIBODAS",
+  "postalCode": "43353"
  },
  {
   "id": 3671041005,
   "districtId": 3671041,
-  "name": "UWUNG JAYA"
+  "districtName": "CIBODAS",
+  "name": "UWUNG JAYA",
+  "postalCode": "15138"
  },
  {
   "id": 3671041006,
   "districtId": 3671041,
-  "name": "JATIUWUNG"
+  "districtName": "CIBODAS",
+  "name": "JATIUWUNG",
+  "postalCode": "15134"
  }
 ]

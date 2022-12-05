@@ -2,66 +2,92 @@
  {
   "id": 3302070001,
   "districtId": 3302070,
-  "name": "PANDAK"
+  "districtName": "SUMPIUH",
+  "name": "PANDAK",
+  "postalCode": "24357"
  },
  {
   "id": 3302070002,
   "districtId": 3302070,
-  "name": "KUNTILI"
+  "districtName": "SUMPIUH",
+  "name": "KUNTILI",
+  "postalCode": "53195"
  },
  {
   "id": 3302070003,
   "districtId": 3302070,
-  "name": "KEMIRI"
+  "districtName": "SUMPIUH",
+  "name": "KEMIRI",
+  "postalCode": "41352"
  },
  {
   "id": 3302070004,
   "districtId": 3302070,
-  "name": "KARANGGEDANG"
+  "districtName": "SUMPIUH",
+  "name": "KARANGGEDANG",
+  "postalCode": "54261"
  },
  {
   "id": 3302070005,
   "districtId": 3302070,
-  "name": "NUSADADI"
+  "districtName": "SUMPIUH",
+  "name": "NUSADADI",
+  "postalCode": "53195"
  },
  {
   "id": 3302070006,
   "districtId": 3302070,
-  "name": "SELANDAKA"
+  "districtName": "SUMPIUH",
+  "name": "SELANDAKA",
+  "postalCode": "53195"
  },
  {
   "id": 3302070007,
   "districtId": 3302070,
-  "name": "SUMPIUH"
+  "districtName": "SUMPIUH",
+  "name": "SUMPIUH",
+  "postalCode": "53195"
  },
  {
   "id": 3302070008,
   "districtId": 3302070,
-  "name": "KRADENAN"
+  "districtName": "SUMPIUH",
+  "name": "KRADENAN",
+  "postalCode": "54392"
  },
  {
   "id": 3302070009,
   "districtId": 3302070,
-  "name": "SELANEGARA"
+  "districtName": "SUMPIUH",
+  "name": "SELANEGARA",
+  "postalCode": "53391"
  },
  {
   "id": 3302070010,
   "districtId": 3302070,
-  "name": "KEBOKURA"
+  "districtName": "SUMPIUH",
+  "name": "KEBOKURA",
+  "postalCode": "53195"
  },
  {
   "id": 3302070012,
   "districtId": 3302070,
-  "name": "KETANDA"
+  "districtName": "SUMPIUH",
+  "name": "KETANDA",
+  "postalCode": "53195"
  },
  {
   "id": 3302070013,
   "districtId": 3302070,
-  "name": "BANJARPANEPEN"
+  "districtName": "SUMPIUH",
+  "name": "BANJARPANEPEN",
+  "postalCode": "53195"
  },
  {
   "id": 3302070014,
   "districtId": 3302070,
-  "name": "BOGANGIN"
+  "districtName": "SUMPIUH",
+  "name": "BOGANGIN",
+  "postalCode": "53195"
  }
 ]

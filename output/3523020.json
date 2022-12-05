@@ -2,66 +2,92 @@
  {
   "id": 3523020001,
   "districtId": 3523020,
-  "name": "KLAKEH"
+  "districtName": "BANGILAN",
+  "name": "KLAKEH",
+  "postalCode": "62364"
  },
  {
   "id": 3523020002,
   "districtId": 3523020,
-  "name": "BATE"
+  "districtName": "BANGILAN",
+  "name": "BATE",
+  "postalCode": "62364"
  },
  {
   "id": 3523020003,
   "districtId": 3523020,
-  "name": "KABLUKAN"
+  "districtName": "BANGILAN",
+  "name": "KABLUKAN",
+  "postalCode": "62364"
  },
  {
   "id": 3523020004,
   "districtId": 3523020,
-  "name": "NGROJO"
+  "districtName": "BANGILAN",
+  "name": "NGROJO",
+  "postalCode": "62364"
  },
  {
   "id": 3523020006,
   "districtId": 3523020,
-  "name": "SIDOKUMPUL"
+  "districtName": "BANGILAN",
+  "name": "SIDOKUMPUL",
+  "postalCode": "59565"
  },
  {
   "id": 3523020007,
   "districtId": 3523020,
-  "name": "SIDOTENTREM"
+  "districtName": "BANGILAN",
+  "name": "SIDOTENTREM",
+  "postalCode": "62364"
  },
  {
   "id": 3523020008,
   "districtId": 3523020,
-  "name": "BANGILAN"
+  "districtName": "BANGILAN",
+  "name": "BANGILAN",
+  "postalCode": "62364"
  },
  {
   "id": 3523020009,
   "districtId": 3523020,
-  "name": "KEDUNGHARDJO"
+  "districtName": "BANGILAN",
+  "name": "KEDUNGHARDJO",
+  "postalCode": "62364"
  },
  {
   "id": 3523020010,
   "districtId": 3523020,
-  "name": "KEDUNGMULYO"
+  "districtName": "BANGILAN",
+  "name": "KEDUNGMULYO",
+  "postalCode": "54264"
  },
  {
   "id": 3523020011,
   "districtId": 3523020,
-  "name": "BANJARWORO"
+  "districtName": "BANGILAN",
+  "name": "BANJARWORO",
+  "postalCode": "62364"
  },
  {
   "id": 3523020012,
   "districtId": 3523020,
-  "name": "SIDODADI"
+  "districtName": "BANGILAN",
+  "name": "SIDODADI",
+  "postalCode": "24582"
  },
  {
   "id": 3523020013,
   "districtId": 3523020,
-  "name": "KEDUNGJAMBANGAN"
+  "districtName": "BANGILAN",
+  "name": "KEDUNGJAMBANGAN",
+  "postalCode": "62364"
  },
  {
   "id": 3523020014,
   "districtId": 3523020,
-  "name": "KUMPULREJO"
+  "districtName": "BANGILAN",
+  "name": "KUMPULREJO",
+  "postalCode": "50734"
  }
 ]

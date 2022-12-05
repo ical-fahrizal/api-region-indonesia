@@ -2,41 +2,57 @@
  {
   "id": 7403171001,
   "districtId": 7403171,
-  "name": "LAWULO"
+  "districtName": "ANGGABERI",
+  "name": "LAWULO",
+  "postalCode": "93419"
  },
  {
   "id": 7403171002,
   "districtId": 7403171,
-  "name": "UNAASI"
+  "districtName": "ANGGABERI",
+  "name": "UNAASI",
+  "postalCode": "93417"
  },
  {
   "id": 7403171003,
   "districtId": 7403171,
-  "name": "PARAUNA"
+  "districtName": "ANGGABERI",
+  "name": "PARAUNA",
+  "postalCode": "93417"
  },
  {
   "id": 7403171004,
   "districtId": 7403171,
-  "name": "ANGGABERI"
+  "districtName": "ANGGABERI",
+  "name": "ANGGABERI",
+  "postalCode": "93418"
  },
  {
   "id": 7403171005,
   "districtId": 7403171,
-  "name": "ANDABIA"
+  "districtName": "ANGGABERI",
+  "name": "ANDABIA",
+  "postalCode": "93419"
  },
  {
   "id": 7403171006,
   "districtId": 7403171,
-  "name": "LEREHOMA"
+  "districtName": "ANGGABERI",
+  "name": "LEREHOMA",
+  "postalCode": ""
  },
  {
   "id": 7403171007,
   "districtId": 7403171,
-  "name": "WUNDUONGOHI"
+  "districtName": "ANGGABERI",
+  "name": "WUNDUONGOHI",
+  "postalCode": ""
  },
  {
   "id": 7403171008,
   "districtId": 7403171,
-  "name": "TORIKI"
+  "districtName": "ANGGABERI",
+  "name": "TORIKI",
+  "postalCode": "93417"
  }
 ]

@@ -2,51 +2,71 @@
  {
   "id": 3209030009,
   "districtId": 3209030,
-  "name": "ASTANALANGGAR"
+  "districtName": "LOSARI",
+  "name": "ASTANALANGGAR",
+  "postalCode": "45192"
  },
  {
   "id": 3209030010,
   "districtId": 3209030,
-  "name": "BARISAN"
+  "districtName": "LOSARI",
+  "name": "BARISAN",
+  "postalCode": "45192"
  },
  {
   "id": 3209030011,
   "districtId": 3209030,
-  "name": "LOSARI KIDUL"
+  "districtName": "LOSARI",
+  "name": "LOSARI KIDUL",
+  "postalCode": "45192"
  },
  {
   "id": 3209030012,
   "districtId": 3209030,
-  "name": "PANGGANGSARI"
+  "districtName": "LOSARI",
+  "name": "PANGGANGSARI",
+  "postalCode": "45192"
  },
  {
   "id": 3209030013,
   "districtId": 3209030,
-  "name": "LOSARI LOR"
+  "districtName": "LOSARI",
+  "name": "LOSARI LOR",
+  "postalCode": "45192"
  },
  {
   "id": 3209030014,
   "districtId": 3209030,
-  "name": "MULYASARI"
+  "districtName": "LOSARI",
+  "name": "MULYASARI",
+  "postalCode": "43273"
  },
  {
   "id": 3209030015,
   "districtId": 3209030,
-  "name": "KALIRAHAYU"
+  "districtName": "LOSARI",
+  "name": "KALIRAHAYU",
+  "postalCode": "45192"
  },
  {
   "id": 3209030016,
   "districtId": 3209030,
-  "name": "KALISARI"
+  "districtName": "LOSARI",
+  "name": "KALISARI",
+  "postalCode": "35686"
  },
  {
   "id": 3209030017,
   "districtId": 3209030,
-  "name": "AMBULU"
+  "districtName": "LOSARI",
+  "name": "AMBULU",
+  "postalCode": "45192"
  },
  {
   "id": 3209030018,
   "districtId": 3209030,
-  "name": "TAWANGSARI"
+  "districtName": "LOSARI",
+  "name": "TAWANGSARI",
+  "postalCode": "45365"
  }
 ]

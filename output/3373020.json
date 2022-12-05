@@ -2,36 +2,50 @@
  {
   "id": 3373020001,
   "districtId": 3373020,
-  "name": "TINGKIR TENGAH"
+  "districtName": "TINGKIR",
+  "name": "TINGKIR TENGAH",
+  "postalCode": "50745"
  },
  {
   "id": 3373020002,
   "districtId": 3373020,
-  "name": "TINGKIR LOR"
+  "districtName": "TINGKIR",
+  "name": "TINGKIR LOR",
+  "postalCode": "50746"
  },
  {
   "id": 3373020003,
   "districtId": 3373020,
-  "name": "KALIBENING"
+  "districtName": "TINGKIR",
+  "name": "KALIBENING",
+  "postalCode": "35377"
  },
  {
   "id": 3373020004,
   "districtId": 3373020,
-  "name": "SIDOREJO KIDUL"
+  "districtName": "TINGKIR",
+  "name": "SIDOREJO KIDUL",
+  "postalCode": "50741"
  },
  {
   "id": 3373020006,
   "districtId": 3373020,
-  "name": "GENDONGAN"
+  "districtName": "TINGKIR",
+  "name": "GENDONGAN",
+  "postalCode": "50743"
  },
  {
   "id": 3373020007,
   "districtId": 3373020,
-  "name": "KUTOWINANGUN KIDUL"
+  "districtName": "TINGKIR",
+  "name": "KUTOWINANGUN KIDUL",
+  "postalCode": ""
  },
  {
   "id": 3373020008,
   "districtId": 3373020,
-  "name": "KUTOWINANGUN LOR"
+  "districtName": "TINGKIR",
+  "name": "KUTOWINANGUN LOR",
+  "postalCode": ""
  }
 ]

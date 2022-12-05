@@ -2,51 +2,71 @@
  {
   "id": 3324100003,
   "districtId": 3324100,
-  "name": "WONOSARI"
+  "districtName": "PEGANDON",
+  "name": "WONOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 3324100008,
   "districtId": 3324100,
-  "name": "DAWUNGSARI"
+  "districtName": "PEGANDON",
+  "name": "DAWUNGSARI",
+  "postalCode": "44181"
  },
  {
   "id": 3324100009,
   "districtId": 3324100,
-  "name": "MARGOMULYO"
+  "districtName": "PEGANDON",
+  "name": "MARGOMULYO",
+  "postalCode": "35679"
  },
  {
   "id": 3324100010,
   "districtId": 3324100,
-  "name": "TEGOREJO"
+  "districtName": "PEGANDON",
+  "name": "TEGOREJO",
+  "postalCode": "51357"
  },
  {
   "id": 3324100011,
   "districtId": 3324100,
-  "name": "PESAWAHAN"
+  "districtName": "PEGANDON",
+  "name": "PESAWAHAN",
+  "postalCode": "35223"
  },
  {
   "id": 3324100012,
   "districtId": 3324100,
-  "name": "KARANGMULYO"
+  "districtName": "PEGANDON",
+  "name": "KARANGMULYO",
+  "postalCode": "52465"
  },
  {
   "id": 3324100021,
   "districtId": 3324100,
-  "name": "PUCANG REJO"
+  "districtName": "PEGANDON",
+  "name": "PUCANG REJO",
+  "postalCode": "51357"
  },
  {
   "id": 3324100022,
   "districtId": 3324100,
-  "name": "GUBUGSARI"
+  "districtName": "PEGANDON",
+  "name": "GUBUGSARI",
+  "postalCode": "51357"
  },
  {
   "id": 3324100023,
   "districtId": 3324100,
-  "name": "PEGANDON"
+  "districtName": "PEGANDON",
+  "name": "PEGANDON",
+  "postalCode": "51174"
  },
  {
   "id": 3324100024,
   "districtId": 3324100,
-  "name": "PENANGGULAN"
+  "districtName": "PEGANDON",
+  "name": "PENANGGULAN",
+  "postalCode": "51357"
  }
 ]

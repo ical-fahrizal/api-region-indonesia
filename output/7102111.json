@@ -2,51 +2,71 @@
  {
   "id": 7102111001,
   "districtId": 7102111,
-  "name": "PINABETENGAN"
+  "districtName": "TOMPASO BARAT",
+  "name": "PINABETENGAN",
+  "postalCode": "95693"
  },
  {
   "id": 7102111002,
   "districtId": 7102111,
-  "name": "TONSEWER"
+  "districtName": "TOMPASO BARAT",
+  "name": "TONSEWER",
+  "postalCode": "95693"
  },
  {
   "id": 7102111003,
   "districtId": 7102111,
-  "name": "TOUURE"
+  "districtName": "TOMPASO BARAT",
+  "name": "TOUURE",
+  "postalCode": "95693"
  },
  {
   "id": 7102111004,
   "districtId": 7102111,
-  "name": "TOMPASO DUA"
+  "districtName": "TOMPASO BARAT",
+  "name": "TOMPASO DUA",
+  "postalCode": "95693"
  },
  {
   "id": 7102111005,
   "districtId": 7102111,
-  "name": "PINABETENGAN UTARA"
+  "districtName": "TOMPASO BARAT",
+  "name": "PINABETENGAN UTARA",
+  "postalCode": "95693"
  },
  {
   "id": 7102111006,
   "districtId": 7102111,
-  "name": "TONSEWER SELATAN"
+  "districtName": "TOMPASO BARAT",
+  "name": "TONSEWER SELATAN",
+  "postalCode": "95693"
  },
  {
   "id": 7102111007,
   "districtId": 7102111,
-  "name": "TOUURE DUA"
+  "districtName": "TOMPASO BARAT",
+  "name": "TOUURE DUA",
+  "postalCode": "95693"
  },
  {
   "id": 7102111008,
   "districtId": 7102111,
-  "name": "PINABETENGAN SELATAN"
+  "districtName": "TOMPASO BARAT",
+  "name": "PINABETENGAN SELATAN",
+  "postalCode": "95693"
  },
  {
   "id": 7102111009,
   "districtId": 7102111,
-  "name": "TOMPASO II UTARA"
+  "districtName": "TOMPASO BARAT",
+  "name": "TOMPASO II UTARA",
+  "postalCode": ""
  },
  {
   "id": 7102111010,
   "districtId": 7102111,
-  "name": "PINAESAAN"
+  "districtName": "TOMPASO BARAT",
+  "name": "PINAESAAN",
+  "postalCode": "95357"
  }
 ]

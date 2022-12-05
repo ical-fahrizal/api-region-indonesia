@@ -2,46 +2,64 @@
  {
   "id": 1278030001,
   "districtId": 1278030,
-  "name": "ONOZIKHO"
+  "districtName": "GUNUNGSITOLI BARAT",
+  "name": "ONOZIKHO",
+  "postalCode": "22811"
  },
  {
   "id": 1278030002,
   "districtId": 1278030,
-  "name": "GADA"
+  "districtName": "GUNUNGSITOLI BARAT",
+  "name": "GADA",
+  "postalCode": "22811"
  },
  {
   "id": 1278030003,
   "districtId": 1278030,
-  "name": "HILINAKHE"
+  "districtName": "GUNUNGSITOLI BARAT",
+  "name": "HILINAKHE",
+  "postalCode": "22811"
  },
  {
   "id": 1278030004,
   "districtId": 1278030,
-  "name": "LOLOMOYO TUHEMBERUA"
+  "districtName": "GUNUNGSITOLI BARAT",
+  "name": "LOLOMOYO TUHEMBERUA",
+  "postalCode": "22811"
  },
  {
   "id": 1278030005,
   "districtId": 1278030,
-  "name": "SIHAREO SIWAHILI"
+  "districtName": "GUNUNGSITOLI BARAT",
+  "name": "SIHAREO SIWAHILI",
+  "postalCode": "22811"
  },
  {
   "id": 1278030006,
   "districtId": 1278030,
-  "name": "TUMORI BALOHILI"
+  "districtName": "GUNUNGSITOLI BARAT",
+  "name": "TUMORI BALOHILI",
+  "postalCode": "22811"
  },
  {
   "id": 1278030007,
   "districtId": 1278030,
-  "name": "TUMORI"
+  "districtName": "GUNUNGSITOLI BARAT",
+  "name": "TUMORI",
+  "postalCode": "22811"
  },
  {
   "id": 1278030008,
   "districtId": 1278030,
-  "name": "ORAHILI TUMORI"
+  "districtName": "GUNUNGSITOLI BARAT",
+  "name": "ORAHILI TUMORI",
+  "postalCode": "22811"
  },
  {
   "id": 1278030010,
   "districtId": 1278030,
-  "name": "ONONAMOLO II LOT"
+  "districtName": "GUNUNGSITOLI BARAT",
+  "name": "ONONAMOLO II LOT",
+  "postalCode": ""
  }
 ]

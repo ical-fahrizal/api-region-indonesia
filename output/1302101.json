@@ -2,31 +2,43 @@
  {
   "id": 1302101001,
   "districtId": 1302101,
-  "name": "PULUIK PULUIK"
+  "districtName": "IV  NAGARI BAYANG UTARA",
+  "name": "PULUIK PULUIK",
+  "postalCode": "25652"
  },
  {
   "id": 1302101002,
   "districtId": 1302101,
-  "name": "KOTO RANAH"
+  "districtName": "IV  NAGARI BAYANG UTARA",
+  "name": "KOTO RANAH",
+  "postalCode": "25652"
  },
  {
   "id": 1302101003,
   "districtId": 1302101,
-  "name": "MUARO AIE"
+  "districtName": "IV  NAGARI BAYANG UTARA",
+  "name": "MUARO AIE",
+  "postalCode": "25652"
  },
  {
   "id": 1302101004,
   "districtId": 1302101,
-  "name": "PANCUANG TABA"
+  "districtName": "IV  NAGARI BAYANG UTARA",
+  "name": "PANCUANG TABA",
+  "postalCode": ""
  },
  {
   "id": 1302101005,
   "districtId": 1302101,
-  "name": "PULUIK PULUIK SELATAN"
+  "districtName": "IV  NAGARI BAYANG UTARA",
+  "name": "PULUIK PULUIK SELATAN",
+  "postalCode": ""
  },
  {
   "id": 1302101006,
   "districtId": 1302101,
-  "name": "LIMAU GADANG PANCUNG TABA"
+  "districtName": "IV  NAGARI BAYANG UTARA",
+  "name": "LIMAU GADANG PANCUNG TABA",
+  "postalCode": "25652"
  }
 ]

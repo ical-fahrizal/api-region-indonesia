@@ -2,61 +2,85 @@
  {
   "id": 3521120001,
   "districtId": 3521120,
-  "name": "GENTONG"
+  "districtName": "PARON",
+  "name": "GENTONG",
+  "postalCode": "67139"
  },
  {
   "id": 3521120002,
   "districtId": 3521120,
-  "name": "BABADAN"
+  "districtName": "PARON",
+  "name": "BABADAN",
+  "postalCode": "45151"
  },
  {
   "id": 3521120003,
   "districtId": 3521120,
-  "name": "KEDUNG PUTRI"
+  "districtName": "PARON",
+  "name": "KEDUNG PUTRI",
+  "postalCode": "63253"
  },
  {
   "id": 3521120005,
   "districtId": 3521120,
-  "name": "TEGUHAN"
+  "districtName": "PARON",
+  "name": "TEGUHAN",
+  "postalCode": "58152"
  },
  {
   "id": 3521120006,
   "districtId": 3521120,
-  "name": "SIRIGAN"
+  "districtName": "PARON",
+  "name": "SIRIGAN",
+  "postalCode": "63253"
  },
  {
   "id": 3521120007,
   "districtId": 3521120,
-  "name": "JEBLOGAN"
+  "districtName": "PARON",
+  "name": "JEBLOGAN",
+  "postalCode": "57677"
  },
  {
   "id": 3521120008,
   "districtId": 3521120,
-  "name": "JAMBANGAN"
+  "districtName": "PARON",
+  "name": "JAMBANGAN",
+  "postalCode": "51274"
  },
  {
   "id": 3521120009,
   "districtId": 3521120,
-  "name": "TEMPURAN"
+  "districtName": "PARON",
+  "name": "TEMPURAN",
+  "postalCode": "34172"
  },
  {
   "id": 3521120010,
   "districtId": 3521120,
-  "name": "DAWU"
+  "districtName": "PARON",
+  "name": "DAWU",
+  "postalCode": "63253"
  },
  {
   "id": 3521120011,
   "districtId": 3521120,
-  "name": "PARON"
+  "districtName": "PARON",
+  "name": "PARON",
+  "postalCode": "64461"
  },
  {
   "id": 3521120013,
   "districtId": 3521120,
-  "name": "NGALE"
+  "districtName": "PARON",
+  "name": "NGALE",
+  "postalCode": "63253"
  },
  {
   "id": 3521120014,
   "districtId": 3521120,
-  "name": "KEBON"
+  "districtName": "PARON",
+  "name": "KEBON",
+  "postalCode": "31453"
  }
 ]

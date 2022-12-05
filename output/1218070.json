@@ -2,41 +2,57 @@
  {
   "id": 1218070001,
   "districtId": 1218070,
-  "name": "PEMATANG TERANG"
+  "districtName": "TANJUNG BERINGIN",
+  "name": "PEMATANG TERANG",
+  "postalCode": "20996"
  },
  {
   "id": 1218070002,
   "districtId": 1218070,
-  "name": "PEMATANG CERMAI"
+  "districtName": "TANJUNG BERINGIN",
+  "name": "PEMATANG CERMAI",
+  "postalCode": "20996"
  },
  {
   "id": 1218070003,
   "districtId": 1218070,
-  "name": "TEBING TINGGI"
+  "districtName": "TANJUNG BERINGIN",
+  "name": "TEBING TINGGI",
+  "postalCode": "24477"
  },
  {
   "id": 1218070004,
   "districtId": 1218070,
-  "name": "BAGAN KUALA"
+  "districtName": "TANJUNG BERINGIN",
+  "name": "BAGAN KUALA",
+  "postalCode": "20996"
  },
  {
   "id": 1218070005,
   "districtId": 1218070,
-  "name": "PEKAN TANJUNG BERINGIN"
+  "districtName": "TANJUNG BERINGIN",
+  "name": "PEKAN TANJUNG BERINGIN",
+  "postalCode": "20996"
  },
  {
   "id": 1218070006,
   "districtId": 1218070,
-  "name": "MANGGA DUA"
+  "districtName": "TANJUNG BERINGIN",
+  "name": "MANGGA DUA",
+  "postalCode": "20996"
  },
  {
   "id": 1218070007,
   "districtId": 1218070,
-  "name": "NAGUR"
+  "districtName": "TANJUNG BERINGIN",
+  "name": "NAGUR",
+  "postalCode": "20996"
  },
  {
   "id": 1218070008,
   "districtId": 1218070,
-  "name": "SUKAJADI"
+  "districtName": "TANJUNG BERINGIN",
+  "name": "SUKAJADI",
+  "postalCode": "24472"
  }
 ]

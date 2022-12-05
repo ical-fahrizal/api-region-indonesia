@@ -2,26 +2,36 @@
  {
   "id": 2172010001,
   "districtId": 2172010,
-  "name": "DOMPAK"
+  "districtName": "BUKIT BESTARI",
+  "name": "DOMPAK",
+  "postalCode": "29124"
  },
  {
   "id": 2172010002,
   "districtId": 2172010,
-  "name": "TANJUNGPINANG TIMUR"
+  "districtName": "BUKIT BESTARI",
+  "name": "TANJUNGPINANG TIMUR",
+  "postalCode": ""
  },
  {
   "id": 2172010003,
   "districtId": 2172010,
-  "name": "TANJUNG AYUN SAKTI"
+  "districtName": "BUKIT BESTARI",
+  "name": "TANJUNG AYUN SAKTI",
+  "postalCode": "29124"
  },
  {
   "id": 2172010004,
   "districtId": 2172010,
-  "name": "SEI JANG"
+  "districtName": "BUKIT BESTARI",
+  "name": "SEI JANG",
+  "postalCode": "29124"
  },
  {
   "id": 2172010005,
   "districtId": 2172010,
-  "name": "TANJUNG UNGGAT"
+  "districtName": "BUKIT BESTARI",
+  "name": "TANJUNG UNGGAT",
+  "postalCode": "29122"
  }
 ]

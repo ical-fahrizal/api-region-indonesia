@@ -2,41 +2,57 @@
  {
   "id": 1212210001,
   "districtId": 1212210,
-  "name": "PATUMBAK SATU"
+  "districtName": "PATUMBAK",
+  "name": "PATUMBAK SATU",
+  "postalCode": "20361"
  },
  {
   "id": 1212210002,
   "districtId": 1212210,
-  "name": "LANTASAN BARU"
+  "districtName": "PATUMBAK",
+  "name": "LANTASAN BARU",
+  "postalCode": "20361"
  },
  {
   "id": 1212210003,
   "districtId": 1212210,
-  "name": "LANTASAN LAMA"
+  "districtName": "PATUMBAK",
+  "name": "LANTASAN LAMA",
+  "postalCode": "20361"
  },
  {
   "id": 1212210004,
   "districtId": 1212210,
-  "name": "PATUMBAK DUA"
+  "districtName": "PATUMBAK",
+  "name": "PATUMBAK DUA",
+  "postalCode": "20361"
  },
  {
   "id": 1212210005,
   "districtId": 1212210,
-  "name": "SIGARA GARA"
+  "districtName": "PATUMBAK",
+  "name": "SIGARA GARA",
+  "postalCode": "20361"
  },
  {
   "id": 1212210006,
   "districtId": 1212210,
-  "name": "MARINDAL SATU"
+  "districtName": "PATUMBAK",
+  "name": "MARINDAL SATU",
+  "postalCode": "20361"
  },
  {
   "id": 1212210007,
   "districtId": 1212210,
-  "name": "PATUMBAK KAMPUNG"
+  "districtName": "PATUMBAK",
+  "name": "PATUMBAK KAMPUNG",
+  "postalCode": "20361"
  },
  {
   "id": 1212210008,
   "districtId": 1212210,
-  "name": "MARINDAL DUA"
+  "districtName": "PATUMBAK",
+  "name": "MARINDAL DUA",
+  "postalCode": "20361"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 9434020001,
   "districtId": 9434020,
-  "name": "YEGIYEPA"
+  "districtName": "PIYAIYE",
+  "name": "YEGIYEPA",
+  "postalCode": ""
  },
  {
   "id": 9434020002,
   "districtId": 9434020,
-  "name": "APOGOMAKIDA"
+  "districtName": "PIYAIYE",
+  "name": "APOGOMAKIDA",
+  "postalCode": ""
  },
  {
   "id": 9434020003,
   "districtId": 9434020,
-  "name": "DENIYODE"
+  "districtName": "PIYAIYE",
+  "name": "DENIYODE",
+  "postalCode": ""
  },
  {
   "id": 9434020004,
   "districtId": 9434020,
-  "name": "UKAGU"
+  "districtName": "PIYAIYE",
+  "name": "UKAGU",
+  "postalCode": "98857"
  },
  {
   "id": 9434020005,
   "districtId": 9434020,
-  "name": "KEGATA"
+  "districtName": "PIYAIYE",
+  "name": "KEGATA",
+  "postalCode": "98857"
  },
  {
   "id": 9434020006,
   "districtId": 9434020,
-  "name": "EGIPA"
+  "districtName": "PIYAIYE",
+  "name": "EGIPA",
+  "postalCode": "98857"
  },
  {
   "id": 9434020007,
   "districtId": 9434020,
-  "name": "IDEDUWA"
+  "districtName": "PIYAIYE",
+  "name": "IDEDUWA",
+  "postalCode": "98857"
  },
  {
   "id": 9434020008,
   "districtId": 9434020,
-  "name": "TIPAUGI"
+  "districtName": "PIYAIYE",
+  "name": "TIPAUGI",
+  "postalCode": "98857"
  }
 ]

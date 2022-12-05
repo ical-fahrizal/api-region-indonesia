@@ -2,56 +2,78 @@
  {
   "id": 7402030001,
   "districtId": 7402030,
-  "name": "KAWITE WITE"
+  "districtName": "KABAWO",
+  "name": "KAWITE WITE",
+  "postalCode": "93661"
  },
  {
   "id": 7402030002,
   "districtId": 7402030,
-  "name": "LAMANU"
+  "districtName": "KABAWO",
+  "name": "LAMANU",
+  "postalCode": ""
  },
  {
   "id": 7402030003,
   "districtId": 7402030,
-  "name": "WANTIWORO"
+  "districtName": "KABAWO",
+  "name": "WANTIWORO",
+  "postalCode": "93661"
  },
  {
   "id": 7402030004,
   "districtId": 7402030,
-  "name": "KASAKA"
+  "districtName": "KABAWO",
+  "name": "KASAKA",
+  "postalCode": "93661"
  },
  {
   "id": 7402030005,
   "districtId": 7402030,
-  "name": "LAMAEO"
+  "districtName": "KABAWO",
+  "name": "LAMAEO",
+  "postalCode": "93661"
  },
  {
   "id": 7402030006,
   "districtId": 7402030,
-  "name": "KONTUMERE"
+  "districtName": "KABAWO",
+  "name": "KONTUMERE",
+  "postalCode": "93661"
  },
  {
   "id": 7402030007,
   "districtId": 7402030,
-  "name": "KAMBAWUNA"
+  "districtName": "KABAWO",
+  "name": "KAMBAWUNA",
+  "postalCode": "93661"
  },
  {
   "id": 7402030008,
   "districtId": 7402030,
-  "name": "LAIMPI"
+  "districtName": "KABAWO",
+  "name": "LAIMPI",
+  "postalCode": "93661"
  },
  {
   "id": 7402030010,
   "districtId": 7402030,
-  "name": "R A N G K A"
+  "districtName": "KABAWO",
+  "name": "R A N G K A",
+  "postalCode": ""
  },
  {
   "id": 7402030019,
   "districtId": 7402030,
-  "name": "BEA"
+  "districtName": "KABAWO",
+  "name": "BEA",
+  "postalCode": "93661"
  },
  {
   "id": 7402030020,
   "districtId": 7402030,
-  "name": "SUKAMAJU"
+  "districtName": "KABAWO",
+  "name": "SUKAMAJU",
+  "postalCode": "22465"
  }
 ]

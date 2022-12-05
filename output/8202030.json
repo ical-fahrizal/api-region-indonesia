@@ -2,31 +2,43 @@
  {
   "id": 8202030006,
   "districtId": 8202030,
-  "name": "NUSLIKO"
+  "districtName": "WEDA",
+  "name": "NUSLIKO",
+  "postalCode": "97853"
  },
  {
   "id": 8202030019,
   "districtId": 8202030,
-  "name": "NURWEDA"
+  "districtName": "WEDA",
+  "name": "NURWEDA",
+  "postalCode": "97853"
  },
  {
   "id": 8202030020,
   "districtId": 8202030,
-  "name": "FIDI JAYA"
+  "districtName": "WEDA",
+  "name": "FIDI JAYA",
+  "postalCode": ""
  },
  {
   "id": 8202030021,
   "districtId": 8202030,
-  "name": "SIDANGA"
+  "districtName": "WEDA",
+  "name": "SIDANGA",
+  "postalCode": "97791"
  },
  {
   "id": 8202030022,
   "districtId": 8202030,
-  "name": "WEDANA"
+  "districtName": "WEDA",
+  "name": "WEDANA",
+  "postalCode": ""
  },
  {
   "id": 8202030023,
   "districtId": 8202030,
-  "name": "GOENG"
+  "districtName": "WEDA",
+  "name": "GOENG",
+  "postalCode": "97853"
  }
 ]

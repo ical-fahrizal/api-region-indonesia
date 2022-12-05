@@ -2,21 +2,29 @@
  {
   "id": 9417061001,
   "districtId": 9417061,
-  "name": "BIAS"
+  "districtName": "MURKIM",
+  "name": "BIAS",
+  "postalCode": "99576"
  },
  {
   "id": 9417061002,
   "districtId": 9417061,
-  "name": "BUMI"
+  "districtName": "MURKIM",
+  "name": "BUMI",
+  "postalCode": "57149"
  },
  {
   "id": 9417061003,
   "districtId": 9417061,
-  "name": "TERO"
+  "districtName": "MURKIM",
+  "name": "TERO",
+  "postalCode": "99576"
  },
  {
   "id": 9417061004,
   "districtId": 9417061,
-  "name": "DELEMO"
+  "districtName": "MURKIM",
+  "name": "DELEMO",
+  "postalCode": "99576"
  }
 ]

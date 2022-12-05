@@ -2,66 +2,92 @@
  {
   "id": 1610021001,
   "districtId": 1610021,
-  "name": "TEBEDAK I"
+  "districtName": "PAYARAMAN",
+  "name": "TEBEDAK I",
+  "postalCode": "30664"
  },
  {
   "id": 1610021002,
   "districtId": 1610021,
-  "name": "LUBUK BANDUNG"
+  "districtName": "PAYARAMAN",
+  "name": "LUBUK BANDUNG",
+  "postalCode": "30664"
  },
  {
   "id": 1610021003,
   "districtId": 1610021,
-  "name": "RENGAS I"
+  "districtName": "PAYARAMAN",
+  "name": "RENGAS I",
+  "postalCode": "30664"
  },
  {
   "id": 1610021004,
   "districtId": 1610021,
-  "name": "PAYA BESAR"
+  "districtName": "PAYARAMAN",
+  "name": "PAYA BESAR",
+  "postalCode": "30664"
  },
  {
   "id": 1610021005,
   "districtId": 1610021,
-  "name": "TALANG SELEMAN"
+  "districtName": "PAYARAMAN",
+  "name": "TALANG SELEMAN",
+  "postalCode": "30664"
  },
  {
   "id": 1610021006,
   "districtId": 1610021,
-  "name": "PAYARAMAN TIMUR"
+  "districtName": "PAYARAMAN",
+  "name": "PAYARAMAN TIMUR",
+  "postalCode": "30664"
  },
  {
   "id": 1610021007,
   "districtId": 1610021,
-  "name": "SERI KEMBANG I"
+  "districtName": "PAYARAMAN",
+  "name": "SERI KEMBANG I",
+  "postalCode": "30664"
  },
  {
   "id": 1610021008,
   "districtId": 1610021,
-  "name": "TANJUNG LALANG"
+  "districtName": "PAYARAMAN",
+  "name": "TANJUNG LALANG",
+  "postalCode": "30664"
  },
  {
   "id": 1610021009,
   "districtId": 1610021,
-  "name": "SERI KEMBANG II"
+  "districtName": "PAYARAMAN",
+  "name": "SERI KEMBANG II",
+  "postalCode": "30664"
  },
  {
   "id": 1610021010,
   "districtId": 1610021,
-  "name": "SERI KEMBANG III"
+  "districtName": "PAYARAMAN",
+  "name": "SERI KEMBANG III",
+  "postalCode": "30664"
  },
  {
   "id": 1610021011,
   "districtId": 1610021,
-  "name": "TEBEDAK II"
+  "districtName": "PAYARAMAN",
+  "name": "TEBEDAK II",
+  "postalCode": "30664"
  },
  {
   "id": 1610021012,
   "districtId": 1610021,
-  "name": "RENGAS II"
+  "districtName": "PAYARAMAN",
+  "name": "RENGAS II",
+  "postalCode": "30664"
  },
  {
   "id": 1610021013,
   "districtId": 1610021,
-  "name": "PAYARAMAN BARAT"
+  "districtName": "PAYARAMAN",
+  "name": "PAYARAMAN BARAT",
+  "postalCode": "30664"
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 1222040001,
   "districtId": 1222040,
-  "name": "BINANGA DUA"
+  "districtName": "SILANGKITANG",
+  "name": "BINANGA DUA",
+  "postalCode": "21461"
  },
  {
   "id": 1222040002,
   "districtId": 1222040,
-  "name": "MANDALA SENA"
+  "districtName": "SILANGKITANG",
+  "name": "MANDALA SENA",
+  "postalCode": "21461"
  },
  {
   "id": 1222040003,
   "districtId": 1222040,
-  "name": "ULU MAHUAM"
+  "districtName": "SILANGKITANG",
+  "name": "ULU MAHUAM",
+  "postalCode": ""
  },
  {
   "id": 1222040004,
   "districtId": 1222040,
-  "name": "AEK GOTI"
+  "districtName": "SILANGKITANG",
+  "name": "AEK GOTI",
+  "postalCode": "22755"
  },
  {
   "id": 1222040005,
   "districtId": 1222040,
-  "name": "RINTIS"
+  "districtName": "SILANGKITANG",
+  "name": "RINTIS",
+  "postalCode": "21461"
  },
  {
   "id": 1222040006,
   "districtId": 1222040,
-  "name": "SUKADAME"
+  "districtName": "SILANGKITANG",
+  "name": "SUKADAME",
+  "postalCode": "21146"
  }
 ]

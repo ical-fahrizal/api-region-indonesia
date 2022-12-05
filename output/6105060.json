@@ -2,126 +2,176 @@
  {
   "id": 6105060001,
   "districtId": 6105060,
-  "name": "PENYALIMAU JAYA"
+  "districtName": "KAPUAS",
+  "name": "PENYALIMAU JAYA",
+  "postalCode": ""
  },
  {
   "id": 6105060002,
   "districtId": 6105060,
-  "name": "PENYALIMAU"
+  "districtName": "KAPUAS",
+  "name": "PENYALIMAU",
+  "postalCode": ""
  },
  {
   "id": 6105060003,
   "districtId": 6105060,
-  "name": "RAMBIN"
+  "districtName": "KAPUAS",
+  "name": "RAMBIN",
+  "postalCode": "78516"
  },
  {
   "id": 6105060004,
   "districtId": 6105060,
-  "name": "NANGA BIANG"
+  "districtName": "KAPUAS",
+  "name": "NANGA BIANG",
+  "postalCode": "78516"
  },
  {
   "id": 6105060005,
   "districtId": 6105060,
-  "name": "LINTANG PELAMAN"
+  "districtName": "KAPUAS",
+  "name": "LINTANG PELAMAN",
+  "postalCode": "78516"
  },
  {
   "id": 6105060006,
   "districtId": 6105060,
-  "name": "SEI ALAI"
+  "districtName": "KAPUAS",
+  "name": "SEI ALAI",
+  "postalCode": ""
  },
  {
   "id": 6105060007,
   "districtId": 6105060,
-  "name": "SEMERANGKAI"
+  "districtName": "KAPUAS",
+  "name": "SEMERANGKAI",
+  "postalCode": "78516"
  },
  {
   "id": 6105060008,
   "districtId": 6105060,
-  "name": "SUNGAI BATU"
+  "districtName": "KAPUAS",
+  "name": "SUNGAI BATU",
+  "postalCode": ""
  },
  {
   "id": 6105060009,
   "districtId": 6105060,
-  "name": "SUNGAI MUNTIK"
+  "districtName": "KAPUAS",
+  "name": "SUNGAI MUNTIK",
+  "postalCode": ""
  },
  {
   "id": 6105060010,
   "districtId": 6105060,
-  "name": "LINTANG KAPUAS"
+  "districtName": "KAPUAS",
+  "name": "LINTANG KAPUAS",
+  "postalCode": "78516"
  },
  {
   "id": 6105060011,
   "districtId": 6105060,
-  "name": "BELANGIN"
+  "districtName": "KAPUAS",
+  "name": "BELANGIN",
+  "postalCode": "78516"
  },
  {
   "id": 6105060012,
   "districtId": 6105060,
-  "name": "PENYELADI"
+  "districtName": "KAPUAS",
+  "name": "PENYELADI",
+  "postalCode": "78516"
  },
  {
   "id": 6105060013,
   "districtId": 6105060,
-  "name": "TANJUNG KAPUAS"
+  "districtName": "KAPUAS",
+  "name": "TANJUNG KAPUAS",
+  "postalCode": "78516"
  },
  {
   "id": 6105060014,
   "districtId": 6105060,
-  "name": "TANJUNG SEKAYAM"
+  "districtName": "KAPUAS",
+  "name": "TANJUNG SEKAYAM",
+  "postalCode": "78515"
  },
  {
   "id": 6105060015,
   "districtId": 6105060,
-  "name": "ILIR KOTA"
+  "districtName": "KAPUAS",
+  "name": "ILIR KOTA",
+  "postalCode": "78513"
  },
  {
   "id": 6105060016,
   "districtId": 6105060,
-  "name": "BERINGIN"
+  "districtName": "KAPUAS",
+  "name": "BERINGIN",
+  "postalCode": "20552"
  },
  {
   "id": 6105060018,
   "districtId": 6105060,
-  "name": "LAPE"
+  "districtName": "KAPUAS",
+  "name": "LAPE",
+  "postalCode": "84382"
  },
  {
   "id": 6105060019,
   "districtId": 6105060,
-  "name": "SEI MAWANG"
+  "districtName": "KAPUAS",
+  "name": "SEI MAWANG",
+  "postalCode": ""
  },
  {
   "id": 6105060020,
   "districtId": 6105060,
-  "name": "SEI SENGKUANG"
+  "districtName": "KAPUAS",
+  "name": "SEI SENGKUANG",
+  "postalCode": ""
  },
  {
   "id": 6105060021,
   "districtId": 6105060,
-  "name": "PANA"
+  "districtName": "KAPUAS",
+  "name": "PANA",
+  "postalCode": "85563"
  },
  {
   "id": 6105060022,
   "districtId": 6105060,
-  "name": "MANGKIANG"
+  "districtName": "KAPUAS",
+  "name": "MANGKIANG",
+  "postalCode": ""
  },
  {
   "id": 6105060023,
   "districtId": 6105060,
-  "name": "ENTAKAI"
+  "districtName": "KAPUAS",
+  "name": "ENTAKAI",
+  "postalCode": "78516"
  },
  {
   "id": 6105060024,
   "districtId": 6105060,
-  "name": "KAMBONG"
+  "districtName": "KAPUAS",
+  "name": "KAMBONG",
+  "postalCode": "78516"
  },
  {
   "id": 6105060025,
   "districtId": 6105060,
-  "name": "TAPANG DULANG"
+  "districtName": "KAPUAS",
+  "name": "TAPANG DULANG",
+  "postalCode": "78516"
  },
  {
   "id": 6105060026,
   "districtId": 6105060,
-  "name": "BOTUH LINTANG"
+  "districtName": "KAPUAS",
+  "name": "BOTUH LINTANG",
+  "postalCode": "78516"
  }
 ]

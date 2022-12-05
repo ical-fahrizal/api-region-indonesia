@@ -2,61 +2,85 @@
  {
   "id": 1603012001,
   "districtId": 1603012,
-  "name": "GUNUNG AGUNG"
+  "districtName": "SEMENDO DARAT TENGAH",
+  "name": "GUNUNG AGUNG",
+  "postalCode": "31471"
  },
  {
   "id": 1603012002,
   "districtId": 1603012,
-  "name": "KOTA PADANG"
+  "districtName": "SEMENDO DARAT TENGAH",
+  "name": "KOTA PADANG",
+  "postalCode": "32279"
  },
  {
   "id": 1603012003,
   "districtId": 1603012,
-  "name": "TENAM BUNGKUK"
+  "districtName": "SEMENDO DARAT TENGAH",
+  "name": "TENAM BUNGKUK",
+  "postalCode": "31356"
  },
  {
   "id": 1603012004,
   "districtId": 1603012,
-  "name": "TANJUNG RAYA"
+  "districtName": "SEMENDO DARAT TENGAH",
+  "name": "TANJUNG RAYA",
+  "postalCode": "23891"
  },
  {
   "id": 1603012005,
   "districtId": 1603012,
-  "name": "MUARA TENANG"
+  "districtName": "SEMENDO DARAT TENGAH",
+  "name": "MUARA TENANG",
+  "postalCode": "31356"
  },
  {
   "id": 1603012006,
   "districtId": 1603012,
-  "name": "SERI TANJUNG"
+  "districtName": "SEMENDO DARAT TENGAH",
+  "name": "SERI TANJUNG",
+  "postalCode": "31356"
  },
  {
   "id": 1603012007,
   "districtId": 1603012,
-  "name": "TEBING ABANG"
+  "districtName": "SEMENDO DARAT TENGAH",
+  "name": "TEBING ABANG",
+  "postalCode": "30968"
  },
  {
   "id": 1603012008,
   "districtId": 1603012,
-  "name": "BATU SURAU"
+  "districtName": "SEMENDO DARAT TENGAH",
+  "name": "BATU SURAU",
+  "postalCode": "31356"
  },
  {
   "id": 1603012009,
   "districtId": 1603012,
-  "name": "REKIMAI JAYA"
+  "districtName": "SEMENDO DARAT TENGAH",
+  "name": "REKIMAI JAYA",
+  "postalCode": "31356"
  },
  {
   "id": 1603012010,
   "districtId": 1603012,
-  "name": "PALAK TANAH"
+  "districtName": "SEMENDO DARAT TENGAH",
+  "name": "PALAK TANAH",
+  "postalCode": "31356"
  },
  {
   "id": 1603012011,
   "districtId": 1603012,
-  "name": "KOTA AGUNG"
+  "districtName": "SEMENDO DARAT TENGAH",
+  "name": "KOTA AGUNG",
+  "postalCode": "31462"
  },
  {
   "id": 1603012012,
   "districtId": 1603012,
-  "name": "SWARNA DWIPA"
+  "districtName": "SEMENDO DARAT TENGAH",
+  "name": "SWARNA DWIPA",
+  "postalCode": ""
  }
 ]

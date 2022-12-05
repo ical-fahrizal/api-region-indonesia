@@ -2,31 +2,43 @@
  {
   "id": 9416066001,
   "districtId": 9416066,
-  "name": "DURAM"
+  "districtName": "DURAM",
+  "name": "DURAM",
+  "postalCode": "99582"
  },
  {
   "id": 9416066002,
   "districtId": 9416066,
-  "name": "YAMINIKMA"
+  "districtName": "DURAM",
+  "name": "YAMINIKMA",
+  "postalCode": "99582"
  },
  {
   "id": 9416066003,
   "districtId": 9416066,
-  "name": "GOAK"
+  "districtName": "DURAM",
+  "name": "GOAK",
+  "postalCode": "99582"
  },
  {
   "id": 9416066004,
   "districtId": 9416066,
-  "name": "DIGITME"
+  "districtName": "DURAM",
+  "name": "DIGITME",
+  "postalCode": "99582"
  },
  {
   "id": 9416066005,
   "districtId": 9416066,
-  "name": "DENGAT"
+  "districtName": "DURAM",
+  "name": "DENGAT",
+  "postalCode": "99582"
  },
  {
   "id": 9416066006,
   "districtId": 9416066,
-  "name": "NINIWI"
+  "districtName": "DURAM",
+  "name": "NINIWI",
+  "postalCode": "99582"
  }
 ]

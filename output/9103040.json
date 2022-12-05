@@ -2,21 +2,29 @@
  {
   "id": 9103040001,
   "districtId": 9103040,
-  "name": "SOBEI"
+  "districtName": "DUAIRI",
+  "name": "SOBEI",
+  "postalCode": ""
  },
  {
   "id": 9103040002,
   "districtId": 9103040,
-  "name": "AISANDAMI"
+  "districtName": "DUAIRI",
+  "name": "AISANDAMI",
+  "postalCode": "98362"
  },
  {
   "id": 9103040003,
   "districtId": 9103040,
-  "name": "YOPENGGAR"
+  "districtName": "DUAIRI",
+  "name": "YOPENGGAR",
+  "postalCode": ""
  },
  {
   "id": 9103040007,
   "districtId": 9103040,
-  "name": "SOBEY INDAH"
+  "districtName": "DUAIRI",
+  "name": "SOBEY INDAH",
+  "postalCode": "98362"
  }
 ]

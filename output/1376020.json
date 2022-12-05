@@ -2,46 +2,64 @@
  {
   "id": 1376020005,
   "districtId": 1376020,
-  "name": "PADANG TANGAH PAYOBADA"
+  "districtName": "PAYAKUMBUH TIMUR",
+  "name": "PADANG TANGAH PAYOBADA",
+  "postalCode": ""
  },
  {
   "id": 1376020006,
   "districtId": 1376020,
-  "name": "BALAI JARING"
+  "districtName": "PAYAKUMBUH TIMUR",
+  "name": "BALAI JARING",
+  "postalCode": ""
  },
  {
   "id": 1376020012,
   "districtId": 1376020,
-  "name": "PAYOBASUNG"
+  "districtName": "PAYAKUMBUH TIMUR",
+  "name": "PAYOBASUNG",
+  "postalCode": ""
  },
  {
   "id": 1376020013,
   "districtId": 1376020,
-  "name": "KOTO PANJANG"
+  "districtName": "PAYAKUMBUH TIMUR",
+  "name": "KOTO PANJANG",
+  "postalCode": "26161"
  },
  {
   "id": 1376020014,
   "districtId": 1376020,
-  "name": "KOTO BARU"
+  "districtName": "PAYAKUMBUH TIMUR",
+  "name": "KOTO BARU",
+  "postalCode": "27561"
  },
  {
   "id": 1376020015,
   "districtId": 1376020,
-  "name": "PADANG ALAI BODI"
+  "districtName": "PAYAKUMBUH TIMUR",
+  "name": "PADANG ALAI BODI",
+  "postalCode": ""
  },
  {
   "id": 1376020016,
   "districtId": 1376020,
-  "name": "PADANG TIAKAR"
+  "districtName": "PAYAKUMBUH TIMUR",
+  "name": "PADANG TIAKAR",
+  "postalCode": ""
  },
  {
   "id": 1376020017,
   "districtId": 1376020,
-  "name": "SICINCIN"
+  "districtName": "PAYAKUMBUH TIMUR",
+  "name": "SICINCIN",
+  "postalCode": "25584"
  },
  {
   "id": 1376020018,
   "districtId": 1376020,
-  "name": "TIAKAR"
+  "districtName": "PAYAKUMBUH TIMUR",
+  "name": "TIAKAR",
+  "postalCode": ""
  }
 ]

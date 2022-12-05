@@ -2,31 +2,43 @@
  {
   "id": 8108010001,
   "districtId": 8108010,
-  "name": "ARNAU"
+  "districtName": "WETAR",
+  "name": "ARNAU",
+  "postalCode": ""
  },
  {
   "id": 8108010002,
   "districtId": 8108010,
-  "name": "HIAY"
+  "districtName": "WETAR",
+  "name": "HIAY",
+  "postalCode": "97454"
  },
  {
   "id": 8108010003,
   "districtId": 8108010,
-  "name": "ILWAKI"
+  "districtName": "WETAR",
+  "name": "ILWAKI",
+  "postalCode": "97454"
  },
  {
   "id": 8108010004,
   "districtId": 8108010,
-  "name": "ILPUTIH"
+  "districtName": "WETAR",
+  "name": "ILPUTIH",
+  "postalCode": "97454"
  },
  {
   "id": 8108010005,
   "districtId": 8108010,
-  "name": "MAHUAN"
+  "districtName": "WETAR",
+  "name": "MAHUAN",
+  "postalCode": "97454"
  },
  {
   "id": 8108010006,
   "districtId": 8108010,
-  "name": "MASAPUN"
+  "districtName": "WETAR",
+  "name": "MASAPUN",
+  "postalCode": "97454"
  }
 ]

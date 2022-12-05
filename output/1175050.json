@@ -2,51 +2,71 @@
  {
   "id": 1175050001,
   "districtId": 1175050,
-  "name": "SEPANG"
+  "districtName": "LONGKIB",
+  "name": "SEPANG",
+  "postalCode": "24655"
  },
  {
   "id": 1175050002,
   "districtId": 1175050,
-  "name": "LONGKIB"
+  "districtName": "LONGKIB",
+  "name": "LONGKIB",
+  "postalCode": "24782"
  },
  {
   "id": 1175050003,
   "districtId": 1175050,
-  "name": "PANJI"
+  "districtName": "LONGKIB",
+  "name": "PANJI",
+  "postalCode": "24782"
  },
  {
   "id": 1175050004,
   "districtId": 1175050,
-  "name": "DARUL AMAN"
+  "districtName": "LONGKIB",
+  "name": "DARUL AMAN",
+  "postalCode": "24373"
  },
  {
   "id": 1175050005,
   "districtId": 1175050,
-  "name": "BUKIT ALIM"
+  "districtName": "LONGKIB",
+  "name": "BUKIT ALIM",
+  "postalCode": "24782"
  },
  {
   "id": 1175050006,
   "districtId": 1175050,
-  "name": "RANTAU PANJANG"
+  "districtName": "LONGKIB",
+  "name": "RANTAU PANJANG",
+  "postalCode": "24476"
  },
  {
   "id": 1175050007,
   "districtId": 1175050,
-  "name": "SIKERABANG"
+  "districtName": "LONGKIB",
+  "name": "SIKERABANG",
+  "postalCode": "24782"
  },
  {
   "id": 1175050008,
   "districtId": 1175050,
-  "name": "BANGUN SARI"
+  "districtName": "LONGKIB",
+  "name": "BANGUN SARI",
+  "postalCode": "24782"
  },
  {
   "id": 1175050009,
   "districtId": 1175050,
-  "name": "LAE SAGA"
+  "districtName": "LONGKIB",
+  "name": "LAE SAGA",
+  "postalCode": "24782"
  },
  {
   "id": 1175050010,
   "districtId": 1175050,
-  "name": "DARUSSALAM"
+  "districtName": "LONGKIB",
+  "name": "DARUSSALAM",
+  "postalCode": "24671"
  }
 ]

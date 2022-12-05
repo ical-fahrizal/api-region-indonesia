@@ -2,41 +2,57 @@
  {
   "id": 6102051001,
   "districtId": 6102051,
-  "name": "NANGKA"
+  "districtName": "SUTI SEMARANG",
+  "name": "NANGKA",
+  "postalCode": "20742"
  },
  {
   "id": 6102051002,
   "districtId": 6102051,
-  "name": "MUHI BERSATU"
+  "districtName": "SUTI SEMARANG",
+  "name": "MUHI BERSATU",
+  "postalCode": "79283"
  },
  {
   "id": 6102051003,
   "districtId": 6102051,
-  "name": "CEMPAKA PUTIH"
+  "districtName": "SUTI SEMARANG",
+  "name": "CEMPAKA PUTIH",
+  "postalCode": "36134"
  },
  {
   "id": 6102051004,
   "districtId": 6102051,
-  "name": "SUKA MAJU"
+  "districtName": "SUTI SEMARANG",
+  "name": "SUKA MAJU",
+  "postalCode": "24673"
  },
  {
   "id": 6102051005,
   "districtId": 6102051,
-  "name": "KIUNG"
+  "districtName": "SUTI SEMARANG",
+  "name": "KIUNG",
+  "postalCode": "79283"
  },
  {
   "id": 6102051006,
   "districtId": 6102051,
-  "name": "SUTI SEMARANG"
+  "districtName": "SUTI SEMARANG",
+  "name": "SUTI SEMARANG",
+  "postalCode": "79283"
  },
  {
   "id": 6102051007,
   "districtId": 6102051,
-  "name": "TAPEN"
+  "districtName": "SUTI SEMARANG",
+  "name": "TAPEN",
+  "postalCode": "54263"
  },
  {
   "id": 6102051008,
   "districtId": 6102051,
-  "name": "KELAYU"
+  "districtName": "SUTI SEMARANG",
+  "name": "KELAYU",
+  "postalCode": ""
  }
 ]

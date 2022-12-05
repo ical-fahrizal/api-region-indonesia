@@ -2,36 +2,50 @@
  {
   "id": 1211111001,
   "districtId": 1211111,
-  "name": "KUBUCOLIA"
+  "districtName": "DOLAT RAYAT",
+  "name": "KUBUCOLIA",
+  "postalCode": "22171"
  },
  {
   "id": 1211111002,
   "districtId": 1211111,
-  "name": "SAMPUN"
+  "districtName": "DOLAT RAYAT",
+  "name": "SAMPUN",
+  "postalCode": "22171"
  },
  {
   "id": 1211111003,
   "districtId": 1211111,
-  "name": "BUKIT"
+  "districtName": "DOLAT RAYAT",
+  "name": "BUKIT",
+  "postalCode": "24655"
  },
  {
   "id": 1211111004,
   "districtId": 1211111,
-  "name": "SUGIHEN"
+  "districtName": "DOLAT RAYAT",
+  "name": "SUGIHEN",
+  "postalCode": "22171"
  },
  {
   "id": 1211111005,
   "districtId": 1211111,
-  "name": "MELAS"
+  "districtName": "DOLAT RAYAT",
+  "name": "MELAS",
+  "postalCode": "22171"
  },
  {
   "id": 1211111006,
   "districtId": 1211111,
-  "name": "UJUNG SAMPUN"
+  "districtName": "DOLAT RAYAT",
+  "name": "UJUNG SAMPUN",
+  "postalCode": "22171"
  },
  {
   "id": 1211111007,
   "districtId": 1211111,
-  "name": "DOLAT RAYAT"
+  "districtName": "DOLAT RAYAT",
+  "name": "DOLAT RAYAT",
+  "postalCode": "22171"
  }
 ]

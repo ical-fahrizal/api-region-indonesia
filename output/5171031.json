@@ -2,51 +2,71 @@
  {
   "id": 5171031001,
   "districtId": 5171031,
-  "name": "PEMECUTAN KAJA"
+  "districtName": "DENPASAR UTARA",
+  "name": "PEMECUTAN KAJA",
+  "postalCode": "80118"
  },
  {
   "id": 5171031002,
   "districtId": 5171031,
-  "name": "DAUH PURI KAJA"
+  "districtName": "DENPASAR UTARA",
+  "name": "DAUH PURI KAJA",
+  "postalCode": "80111"
  },
  {
   "id": 5171031003,
   "districtId": 5171031,
-  "name": "DANGIN PURI KAUH"
+  "districtName": "DENPASAR UTARA",
+  "name": "DANGIN PURI KAUH",
+  "postalCode": "80231"
  },
  {
   "id": 5171031004,
   "districtId": 5171031,
-  "name": "DANGIN PURI KAJA"
+  "districtName": "DENPASAR UTARA",
+  "name": "DANGIN PURI KAJA",
+  "postalCode": "80231"
  },
  {
   "id": 5171031005,
   "districtId": 5171031,
-  "name": "DANGIN PURI KANGIN"
+  "districtName": "DENPASAR UTARA",
+  "name": "DANGIN PURI KANGIN",
+  "postalCode": "80233"
  },
  {
   "id": 5171031006,
   "districtId": 5171031,
-  "name": "TONJA"
+  "districtName": "DENPASAR UTARA",
+  "name": "TONJA",
+  "postalCode": "80239"
  },
  {
   "id": 5171031007,
   "districtId": 5171031,
-  "name": "PEGUYANGAN"
+  "districtName": "DENPASAR UTARA",
+  "name": "PEGUYANGAN",
+  "postalCode": "80115"
  },
  {
   "id": 5171031009,
   "districtId": 5171031,
-  "name": "UBUNG  KAJA"
+  "districtName": "DENPASAR UTARA",
+  "name": "UBUNG  KAJA",
+  "postalCode": ""
  },
  {
   "id": 5171031010,
   "districtId": 5171031,
-  "name": "PEGUYANGAN KAJA"
+  "districtName": "DENPASAR UTARA",
+  "name": "PEGUYANGAN KAJA",
+  "postalCode": "80115"
  },
  {
   "id": 5171031011,
   "districtId": 5171031,
-  "name": "PEGUYANGAN KANGIN"
+  "districtName": "DENPASAR UTARA",
+  "name": "PEGUYANGAN KANGIN",
+  "postalCode": "80115"
  }
 ]

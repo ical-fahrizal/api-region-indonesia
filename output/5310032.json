@@ -2,21 +2,29 @@
  {
   "id": 5310032013,
   "districtId": 5310032,
-  "name": "NATAKOLI"
+  "districtName": "MAPITARA",
+  "name": "NATAKOLI",
+  "postalCode": "86171"
  },
  {
   "id": 5310032014,
   "districtId": 5310032,
-  "name": "HEBING"
+  "districtName": "MAPITARA",
+  "name": "HEBING",
+  "postalCode": "86171"
  },
  {
   "id": 5310032015,
   "districtId": 5310032,
-  "name": "HALE"
+  "districtName": "MAPITARA",
+  "name": "HALE",
+  "postalCode": "86171"
  },
  {
   "id": 5310032017,
   "districtId": 5310032,
-  "name": "EGON GAHAR"
+  "districtName": "MAPITARA",
+  "name": "EGON GAHAR",
+  "postalCode": "86171"
  }
 ]

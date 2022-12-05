@@ -2,26 +2,36 @@
  {
   "id": 3578220001,
   "districtId": 3578220,
-  "name": "KAPASAN"
+  "districtName": "SIMOKERTO",
+  "name": "KAPASAN",
+  "postalCode": "67185"
  },
  {
   "id": 3578220002,
   "districtId": 3578220,
-  "name": "TAMBAKREJO"
+  "districtName": "SIMOKERTO",
+  "name": "TAMBAKREJO",
+  "postalCode": "54391"
  },
  {
   "id": 3578220003,
   "districtId": 3578220,
-  "name": "SIMOKERTO"
+  "districtName": "SIMOKERTO",
+  "name": "SIMOKERTO",
+  "postalCode": "60143"
  },
  {
   "id": 3578220004,
   "districtId": 3578220,
-  "name": "SIDODADI"
+  "districtName": "SIMOKERTO",
+  "name": "SIDODADI",
+  "postalCode": "24582"
  },
  {
   "id": 3578220005,
   "districtId": 3578220,
-  "name": "SIMOLAWANG"
+  "districtName": "SIMOKERTO",
+  "name": "SIMOLAWANG",
+  "postalCode": "60144"
  }
 ]

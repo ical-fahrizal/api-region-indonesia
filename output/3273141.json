@@ -2,21 +2,29 @@
  {
   "id": 3273141001,
   "districtId": 3273141,
-  "name": "ANTAPANI KIDUL"
+  "districtName": "ANTAPANI",
+  "name": "ANTAPANI KIDUL",
+  "postalCode": "40291"
  },
  {
   "id": 3273141002,
   "districtId": 3273141,
-  "name": "ANTAPANI TENGAH"
+  "districtName": "ANTAPANI",
+  "name": "ANTAPANI TENGAH",
+  "postalCode": "40291"
  },
  {
   "id": 3273141003,
   "districtId": 3273141,
-  "name": "ANTAPANI WETAN"
+  "districtName": "ANTAPANI",
+  "name": "ANTAPANI WETAN",
+  "postalCode": "40291"
  },
  {
   "id": 3273141004,
   "districtId": 3273141,
-  "name": "ANTAPANI KULON"
+  "districtName": "ANTAPANI",
+  "name": "ANTAPANI KULON",
+  "postalCode": "40291"
  }
 ]

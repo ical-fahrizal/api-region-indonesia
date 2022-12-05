@@ -2,81 +2,113 @@
  {
   "id": 1802031001,
   "districtId": 1802031,
-  "name": "DATARAJAN"
+  "districtName": "ULUBELU",
+  "name": "DATARAJAN",
+  "postalCode": "35377"
  },
  {
   "id": 1802031002,
   "districtId": 1802031,
-  "name": "GUNUNGTIGA"
+  "districtName": "ULUBELU",
+  "name": "GUNUNGTIGA",
+  "postalCode": "35387"
  },
  {
   "id": 1802031003,
   "districtId": 1802031,
-  "name": "KARANGREJO"
+  "districtName": "ULUBELU",
+  "name": "KARANGREJO",
+  "postalCode": "35387"
  },
  {
   "id": 1802031004,
   "districtId": 1802031,
-  "name": "PAGARALAM ULUBELU"
+  "districtName": "ULUBELU",
+  "name": "PAGARALAM ULUBELU",
+  "postalCode": "35387"
  },
  {
   "id": 1802031005,
   "districtId": 1802031,
-  "name": "MUARADUA ULUBELU"
+  "districtName": "ULUBELU",
+  "name": "MUARADUA ULUBELU",
+  "postalCode": ""
  },
  {
   "id": 1802031006,
   "districtId": 1802031,
-  "name": "NGARIP"
+  "districtName": "ULUBELU",
+  "name": "NGARIP",
+  "postalCode": "35387"
  },
  {
   "id": 1802031007,
   "districtId": 1802031,
-  "name": "PENANTIAN ULUBELU"
+  "districtName": "ULUBELU",
+  "name": "PENANTIAN ULUBELU",
+  "postalCode": "35387"
  },
  {
   "id": 1802031008,
   "districtId": 1802031,
-  "name": "GUNUNGSARI"
+  "districtName": "ULUBELU",
+  "name": "GUNUNGSARI",
+  "postalCode": "35368"
  },
  {
   "id": 1802031009,
   "districtId": 1802031,
-  "name": "SIRNAGALIH"
+  "districtName": "ULUBELU",
+  "name": "SIRNAGALIH",
+  "postalCode": "35387"
  },
  {
   "id": 1802031010,
   "districtId": 1802031,
-  "name": "ULU SEMONG"
+  "districtName": "ULUBELU",
+  "name": "ULU SEMONG",
+  "postalCode": "35387"
  },
  {
   "id": 1802031011,
   "districtId": 1802031,
-  "name": "REJOSARI"
+  "districtName": "ULUBELU",
+  "name": "REJOSARI",
+  "postalCode": "29353"
  },
  {
   "id": 1802031012,
   "districtId": 1802031,
-  "name": "SUKAMAJU"
+  "districtName": "ULUBELU",
+  "name": "SUKAMAJU",
+  "postalCode": "22465"
  },
  {
   "id": 1802031013,
   "districtId": 1802031,
-  "name": "TANJUNG BARU"
+  "districtName": "ULUBELU",
+  "name": "TANJUNG BARU",
+  "postalCode": "22742"
  },
  {
   "id": 1802031014,
   "districtId": 1802031,
-  "name": "SINAR BANTEN"
+  "districtName": "ULUBELU",
+  "name": "SINAR BANTEN",
+  "postalCode": "38964"
  },
  {
   "id": 1802031015,
   "districtId": 1802031,
-  "name": "AIR ABANG"
+  "districtName": "ULUBELU",
+  "name": "AIR ABANG",
+  "postalCode": "35377"
  },
  {
   "id": 1802031016,
   "districtId": 1802031,
-  "name": "PETAY KAYU"
+  "districtName": "ULUBELU",
+  "name": "PETAY KAYU",
+  "postalCode": "35387"
  }
 ]

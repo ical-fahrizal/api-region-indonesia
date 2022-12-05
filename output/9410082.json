@@ -2,11 +2,15 @@
  {
   "id": 9410082001,
   "districtId": 9410082,
-  "name": "EPOU / EPOBUTU"
+  "districtName": "MUYE",
+  "name": "EPOU / EPOBUTU",
+  "postalCode": ""
  },
  {
   "id": 9410082002,
   "districtId": 9410082,
-  "name": "MUYETADI"
+  "districtName": "MUYE",
+  "name": "MUYETADI",
+  "postalCode": "98763"
  }
 ]

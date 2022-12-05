@@ -2,26 +2,36 @@
  {
   "id": 1303090001,
   "districtId": 1303090,
-  "name": "MUARO PANEH"
+  "districtName": "BUKIT SUNDI",
+  "name": "MUARO PANEH",
+  "postalCode": "27381"
  },
  {
   "id": 1303090002,
   "districtId": 1303090,
-  "name": "KINARI"
+  "districtName": "BUKIT SUNDI",
+  "name": "KINARI",
+  "postalCode": "27381"
  },
  {
   "id": 1303090003,
   "districtId": 1303090,
-  "name": "PARAMBAHAN"
+  "districtName": "BUKIT SUNDI",
+  "name": "PARAMBAHAN",
+  "postalCode": "27381"
  },
  {
   "id": 1303090004,
   "districtId": 1303090,
-  "name": "DILAM"
+  "districtName": "BUKIT SUNDI",
+  "name": "DILAM",
+  "postalCode": "27381"
  },
  {
   "id": 1303090005,
   "districtId": 1303090,
-  "name": "BUKIK TANDANG"
+  "districtName": "BUKIT SUNDI",
+  "name": "BUKIK TANDANG",
+  "postalCode": ""
  }
 ]

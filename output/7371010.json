@@ -2,41 +2,57 @@
  {
   "id": 7371010001,
   "districtId": 7371010,
-  "name": "BONTORANNU"
+  "districtName": "MARISO",
+  "name": "BONTORANNU",
+  "postalCode": "92352"
  },
  {
   "id": 7371010002,
   "districtId": 7371010,
-  "name": "TAMARUNANG"
+  "districtName": "MARISO",
+  "name": "TAMARUNANG",
+  "postalCode": "90126"
  },
  {
   "id": 7371010003,
   "districtId": 7371010,
-  "name": "MATTOANGIN"
+  "districtName": "MARISO",
+  "name": "MATTOANGIN",
+  "postalCode": "90561"
  },
  {
   "id": 7371010004,
   "districtId": 7371010,
-  "name": "KAMPUNG BUYANG"
+  "districtName": "MARISO",
+  "name": "KAMPUNG BUYANG",
+  "postalCode": "90121"
  },
  {
   "id": 7371010005,
   "districtId": 7371010,
-  "name": "MARISO"
+  "districtName": "MARISO",
+  "name": "MARISO",
+  "postalCode": "90122"
  },
  {
   "id": 7371010007,
   "districtId": 7371010,
-  "name": "MARIO"
+  "districtName": "MARISO",
+  "name": "MARIO",
+  "postalCode": "92965"
  },
  {
   "id": 7371010008,
   "districtId": 7371010,
-  "name": "PANAMBUNGAN"
+  "districtName": "MARISO",
+  "name": "PANAMBUNGAN",
+  "postalCode": "90121"
  },
  {
   "id": 7371010009,
   "districtId": 7371010,
-  "name": "KUNJUNG MAE"
+  "districtName": "MARISO",
+  "name": "KUNJUNG MAE",
+  "postalCode": "90125"
  }
 ]

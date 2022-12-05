@@ -2,61 +2,85 @@
  {
   "id": 1804120001,
   "districtId": 1804120,
-  "name": "TAMAN ASRI"
+  "districtName": "PURBOLINGGO",
+  "name": "TAMAN ASRI",
+  "postalCode": "32386"
  },
  {
   "id": 1804120002,
   "districtId": 1804120,
-  "name": "TAMAN BOGO"
+  "districtName": "PURBOLINGGO",
+  "name": "TAMAN BOGO",
+  "postalCode": "34192"
  },
  {
   "id": 1804120003,
   "districtId": 1804120,
-  "name": "TAMBAH DADI"
+  "districtName": "PURBOLINGGO",
+  "name": "TAMBAH DADI",
+  "postalCode": "34192"
  },
  {
   "id": 1804120004,
   "districtId": 1804120,
-  "name": "TAMAN CARI"
+  "districtName": "PURBOLINGGO",
+  "name": "TAMAN CARI",
+  "postalCode": "34192"
  },
  {
   "id": 1804120005,
   "districtId": 1804120,
-  "name": "TAMAN ENDAH"
+  "districtName": "PURBOLINGGO",
+  "name": "TAMAN ENDAH",
+  "postalCode": "34192"
  },
  {
   "id": 1804120006,
   "districtId": 1804120,
-  "name": "TAMAN FAJAR"
+  "districtName": "PURBOLINGGO",
+  "name": "TAMAN FAJAR",
+  "postalCode": ""
  },
  {
   "id": 1804120007,
   "districtId": 1804120,
-  "name": "TEGAL GONDO"
+  "districtName": "PURBOLINGGO",
+  "name": "TEGAL GONDO",
+  "postalCode": "34192"
  },
  {
   "id": 1804120008,
   "districtId": 1804120,
-  "name": "TOTO HARJO"
+  "districtName": "PURBOLINGGO",
+  "name": "TOTO HARJO",
+  "postalCode": "34192"
  },
  {
   "id": 1804120009,
   "districtId": 1804120,
-  "name": "TAMBAH LUHUR"
+  "districtName": "PURBOLINGGO",
+  "name": "TAMBAH LUHUR",
+  "postalCode": "34192"
  },
  {
   "id": 1804120010,
   "districtId": 1804120,
-  "name": "TANJUNG INTEN"
+  "districtName": "PURBOLINGGO",
+  "name": "TANJUNG INTEN",
+  "postalCode": "34192"
  },
  {
   "id": 1804120011,
   "districtId": 1804120,
-  "name": "TEGAL YOSO"
+  "districtName": "PURBOLINGGO",
+  "name": "TEGAL YOSO",
+  "postalCode": "34192"
  },
  {
   "id": 1804120012,
   "districtId": 1804120,
-  "name": "TANJUNG KESUMA"
+  "districtName": "PURBOLINGGO",
+  "name": "TANJUNG KESUMA",
+  "postalCode": "34192"
  }
 ]

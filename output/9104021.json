@@ -2,41 +2,57 @@
  {
   "id": 9104021001,
   "districtId": 9104021,
-  "name": "TOFOI"
+  "districtName": "SUMURI",
+  "name": "TOFOI",
+  "postalCode": "98363"
  },
  {
   "id": 9104021002,
   "districtId": 9104021,
-  "name": "SAENGGA"
+  "districtName": "SUMURI",
+  "name": "SAENGGA",
+  "postalCode": "98363"
  },
  {
   "id": 9104021003,
   "districtId": 9104021,
-  "name": "TANAH MERAH"
+  "districtName": "SUMURI",
+  "name": "TANAH MERAH",
+  "postalCode": "24652"
  },
  {
   "id": 9104021004,
   "districtId": 9104021,
-  "name": "MATERABU JAYA"
+  "districtName": "SUMURI",
+  "name": "MATERABU JAYA",
+  "postalCode": "98363"
  },
  {
   "id": 9104021005,
   "districtId": 9104021,
-  "name": "FORADA"
+  "districtName": "SUMURI",
+  "name": "FORADA",
+  "postalCode": "98363"
  },
  {
   "id": 9104021006,
   "districtId": 9104021,
-  "name": "AGODA"
+  "districtName": "SUMURI",
+  "name": "AGODA",
+  "postalCode": ""
  },
  {
   "id": 9104021007,
   "districtId": 9104021,
-  "name": "ONAR LAMA"
+  "districtName": "SUMURI",
+  "name": "ONAR LAMA",
+  "postalCode": ""
  },
  {
   "id": 9104021008,
   "districtId": 9104021,
-  "name": "ONAR BARU"
+  "districtName": "SUMURI",
+  "name": "ONAR BARU",
+  "postalCode": ""
  }
 ]

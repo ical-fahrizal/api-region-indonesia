@@ -2,71 +2,99 @@
  {
   "id": 3209171001,
   "districtId": 3209171,
-  "name": "ADIDHARMA"
+  "districtName": "GUNUNGJATI",
+  "name": "ADIDHARMA",
+  "postalCode": "45151"
  },
  {
   "id": 3209171002,
   "districtId": 3209171,
-  "name": "PASINDANGAN"
+  "districtName": "GUNUNGJATI",
+  "name": "PASINDANGAN",
+  "postalCode": "45151"
  },
  {
   "id": 3209171003,
   "districtId": 3209171,
-  "name": "JADIMULYA"
+  "districtName": "GUNUNGJATI",
+  "name": "JADIMULYA",
+  "postalCode": "45151"
  },
  {
   "id": 3209171004,
   "districtId": 3209171,
-  "name": "KLAYAN"
+  "districtName": "GUNUNGJATI",
+  "name": "KLAYAN",
+  "postalCode": "45151"
  },
  {
   "id": 3209171005,
   "districtId": 3209171,
-  "name": "JATIMERTA"
+  "districtName": "GUNUNGJATI",
+  "name": "JATIMERTA",
+  "postalCode": "45151"
  },
  {
   "id": 3209171006,
   "districtId": 3209171,
-  "name": "ASTANA"
+  "districtName": "GUNUNGJATI",
+  "name": "ASTANA",
+  "postalCode": "45151"
  },
  {
   "id": 3209171007,
   "districtId": 3209171,
-  "name": "KALISAPU"
+  "districtName": "GUNUNGJATI",
+  "name": "KALISAPU",
+  "postalCode": "45151"
  },
  {
   "id": 3209171008,
   "districtId": 3209171,
-  "name": "WANAKAYA"
+  "districtName": "GUNUNGJATI",
+  "name": "WANAKAYA",
+  "postalCode": "45151"
  },
  {
   "id": 3209171009,
   "districtId": 3209171,
-  "name": "GROGOL"
+  "districtName": "GUNUNGJATI",
+  "name": "GROGOL",
+  "postalCode": "11450"
  },
  {
   "id": 3209171010,
   "districtId": 3209171,
-  "name": "BABADAN"
+  "districtName": "GUNUNGJATI",
+  "name": "BABADAN",
+  "postalCode": "45151"
  },
  {
   "id": 3209171012,
   "districtId": 3209171,
-  "name": "MAYUNG"
+  "districtName": "GUNUNGJATI",
+  "name": "MAYUNG",
+  "postalCode": "45151"
  },
  {
   "id": 3209171013,
   "districtId": 3209171,
-  "name": "SAMBENG"
+  "districtName": "GUNUNGJATI",
+  "name": "SAMBENG",
+  "postalCode": "45151"
  },
  {
   "id": 3209171014,
   "districtId": 3209171,
-  "name": "SIRNABAYA"
+  "districtName": "GUNUNGJATI",
+  "name": "SIRNABAYA",
+  "postalCode": "46254"
  },
  {
   "id": 3209171015,
   "districtId": 3209171,
-  "name": "MERTASINGA"
+  "districtName": "GUNUNGJATI",
+  "name": "MERTASINGA",
+  "postalCode": "45151"
  }
 ]

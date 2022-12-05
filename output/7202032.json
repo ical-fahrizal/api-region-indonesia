@@ -2,61 +2,85 @@
  {
   "id": 7202032001,
   "districtId": 7202032,
-  "name": "SUMBER MULYA"
+  "districtName": "SIMPANG RAYA",
+  "name": "SUMBER MULYA",
+  "postalCode": "36365"
  },
  {
   "id": 7202032002,
   "districtId": 7202032,
-  "name": "SIMPANG DUA"
+  "districtName": "SIMPANG RAYA",
+  "name": "SIMPANG DUA",
+  "postalCode": "23662"
  },
  {
   "id": 7202032003,
   "districtId": 7202032,
-  "name": "SIMPANG SATU"
+  "districtName": "SIMPANG RAYA",
+  "name": "SIMPANG SATU",
+  "postalCode": "94753"
  },
  {
   "id": 7202032004,
   "districtId": 7202032,
-  "name": "BERINGIN JAYA"
+  "districtName": "SIMPANG RAYA",
+  "name": "BERINGIN JAYA",
+  "postalCode": "21464"
  },
  {
   "id": 7202032005,
   "districtId": 7202032,
-  "name": "MANTAN A"
+  "districtName": "SIMPANG RAYA",
+  "name": "MANTAN A",
+  "postalCode": "94753"
  },
  {
   "id": 7202032006,
   "districtId": 7202032,
-  "name": "DOWIWI"
+  "districtName": "SIMPANG RAYA",
+  "name": "DOWIWI",
+  "postalCode": "94753"
  },
  {
   "id": 7202032007,
   "districtId": 7202032,
-  "name": "RANTAU JAYA"
+  "districtName": "SIMPANG RAYA",
+  "name": "RANTAU JAYA",
+  "postalCode": "36772"
  },
  {
   "id": 7202032008,
   "districtId": 7202032,
-  "name": "DODA BUNTA"
+  "districtName": "SIMPANG RAYA",
+  "name": "DODA BUNTA",
+  "postalCode": "94753"
  },
  {
   "id": 7202032009,
   "districtId": 7202032,
-  "name": "GONOHOP"
+  "districtName": "SIMPANG RAYA",
+  "name": "GONOHOP",
+  "postalCode": "94753"
  },
  {
   "id": 7202032010,
   "districtId": 7202032,
-  "name": "KONINIS"
+  "districtName": "SIMPANG RAYA",
+  "name": "KONINIS",
+  "postalCode": "94753"
  },
  {
   "id": 7202032011,
   "districtId": 7202032,
-  "name": "DWIPA KARYA"
+  "districtName": "SIMPANG RAYA",
+  "name": "DWIPA KARYA",
+  "postalCode": "94753"
  },
  {
   "id": 7202032012,
   "districtId": 7202032,
-  "name": "LOKAIT"
+  "districtName": "SIMPANG RAYA",
+  "name": "LOKAIT",
+  "postalCode": "94753"
  }
 ]

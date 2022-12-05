@@ -2,46 +2,64 @@
  {
   "id": 3512040001,
   "districtId": 3512040,
-  "name": "BLORO"
+  "districtName": "BESUKI",
+  "name": "BLORO",
+  "postalCode": "68356"
  },
  {
   "id": 3512040002,
   "districtId": 3512040,
-  "name": "LANGKAP"
+  "districtName": "BESUKI",
+  "name": "LANGKAP",
+  "postalCode": "30755"
  },
  {
   "id": 3512040003,
   "districtId": 3512040,
-  "name": "BLIMBING"
+  "districtName": "BESUKI",
+  "name": "BLIMBING",
+  "postalCode": "52364"
  },
  {
   "id": 3512040004,
   "districtId": 3512040,
-  "name": "WIDORO PAYUNG"
+  "districtName": "BESUKI",
+  "name": "WIDORO PAYUNG",
+  "postalCode": "68356"
  },
  {
   "id": 3512040005,
   "districtId": 3512040,
-  "name": "SUMBEREJO"
+  "districtName": "BESUKI",
+  "name": "SUMBEREJO",
+  "postalCode": "20551"
  },
  {
   "id": 3512040006,
   "districtId": 3512040,
-  "name": "JETIS"
+  "districtName": "BESUKI",
+  "name": "JETIS",
+  "postalCode": "57556"
  },
  {
   "id": 3512040007,
   "districtId": 3512040,
-  "name": "KALIMAS"
+  "districtName": "BESUKI",
+  "name": "KALIMAS",
+  "postalCode": "52353"
  },
  {
   "id": 3512040009,
   "districtId": 3512040,
-  "name": "PESISIR"
+  "districtName": "BESUKI",
+  "name": "PESISIR",
+  "postalCode": "28144"
  },
  {
   "id": 3512040010,
   "districtId": 3512040,
-  "name": "BESUKI"
+  "districtName": "BESUKI",
+  "name": "BESUKI",
+  "postalCode": "53177"
  }
 ]

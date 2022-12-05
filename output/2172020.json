@@ -2,26 +2,36 @@
  {
   "id": 2172020001,
   "districtId": 2172020,
-  "name": "BATU SEMBILAN"
+  "districtName": "TANJUNGPINANG TIMUR",
+  "name": "BATU SEMBILAN",
+  "postalCode": ""
  },
  {
   "id": 2172020002,
   "districtId": 2172020,
-  "name": "MELAYU KOTA PIRING"
+  "districtName": "TANJUNGPINANG TIMUR",
+  "name": "MELAYU KOTA PIRING",
+  "postalCode": "29123"
  },
  {
   "id": 2172020003,
   "districtId": 2172020,
-  "name": "AIR RAJA"
+  "districtName": "TANJUNGPINANG TIMUR",
+  "name": "AIR RAJA",
+  "postalCode": "29483"
  },
  {
   "id": 2172020004,
   "districtId": 2172020,
-  "name": "PINANG KENCANA"
+  "districtName": "TANJUNGPINANG TIMUR",
+  "name": "PINANG KENCANA",
+  "postalCode": "29122"
  },
  {
   "id": 2172020005,
   "districtId": 2172020,
-  "name": "KAMPUNG BULANG"
+  "districtName": "TANJUNGPINANG TIMUR",
+  "name": "KAMPUNG BULANG",
+  "postalCode": "29122"
  }
 ]

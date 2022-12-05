@@ -2,41 +2,57 @@
  {
   "id": 2101030004,
   "districtId": 2101030,
-  "name": "PARIT"
+  "districtName": "KARIMUN",
+  "name": "PARIT",
+  "postalCode": "36373"
  },
  {
   "id": 2101030005,
   "districtId": 2101030,
-  "name": "TULANG"
+  "districtName": "KARIMUN",
+  "name": "TULANG",
+  "postalCode": "29661"
  },
  {
   "id": 2101030006,
   "districtId": 2101030,
-  "name": "TANJUNG BALAI"
+  "districtName": "KARIMUN",
+  "name": "TANJUNG BALAI",
+  "postalCode": "29661"
  },
  {
   "id": 2101030007,
   "districtId": 2101030,
-  "name": "TELUK AIR"
+  "districtName": "KARIMUN",
+  "name": "TELUK AIR",
+  "postalCode": "29661"
  },
  {
   "id": 2101030008,
   "districtId": 2101030,
-  "name": "SUNGAI LAKAM TIMUR"
+  "districtName": "KARIMUN",
+  "name": "SUNGAI LAKAM TIMUR",
+  "postalCode": "29661"
  },
  {
   "id": 2101030010,
   "districtId": 2101030,
-  "name": "SELAT MENDAUN"
+  "districtName": "KARIMUN",
+  "name": "SELAT MENDAUN",
+  "postalCode": "29661"
  },
  {
   "id": 2101030011,
   "districtId": 2101030,
-  "name": "TANJUNG BALAI KOTA"
+  "districtName": "KARIMUN",
+  "name": "TANJUNG BALAI KOTA",
+  "postalCode": "29661"
  },
  {
   "id": 2101030012,
   "districtId": 2101030,
-  "name": "SUNGAI LAKAM BARAT"
+  "districtName": "KARIMUN",
+  "name": "SUNGAI LAKAM BARAT",
+  "postalCode": "29661"
  }
 ]

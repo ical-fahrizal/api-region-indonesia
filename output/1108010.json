@@ -2,141 +2,197 @@
  {
   "id": 1108010001,
   "districtId": 1108010,
-  "name": "MEUNASAH LHOK"
+  "districtName": "LHOONG",
+  "name": "MEUNASAH LHOK",
+  "postalCode": "23354"
  },
  {
   "id": 1108010002,
   "districtId": 1108010,
-  "name": "PUDENG"
+  "districtName": "LHOONG",
+  "name": "PUDENG",
+  "postalCode": "23354"
  },
  {
   "id": 1108010003,
   "districtId": 1108010,
-  "name": "PASI"
+  "districtName": "LHOONG",
+  "name": "PASI",
+  "postalCode": "22251"
  },
  {
   "id": 1108010004,
   "districtId": 1108010,
-  "name": "GLEE BRUEK"
+  "districtName": "LHOONG",
+  "name": "GLEE BRUEK",
+  "postalCode": "23354"
  },
  {
   "id": 1108010005,
   "districtId": 1108010,
-  "name": "MEUNASAH COT"
+  "districtName": "LHOONG",
+  "name": "MEUNASAH COT",
+  "postalCode": ""
  },
  {
   "id": 1108010006,
   "districtId": 1108010,
-  "name": "CUNDIEN"
+  "districtName": "LHOONG",
+  "name": "CUNDIEN",
+  "postalCode": ""
  },
  {
   "id": 1108010007,
   "districtId": 1108010,
-  "name": "GAPUY"
+  "districtName": "LHOONG",
+  "name": "GAPUY",
+  "postalCode": "23354"
  },
  {
   "id": 1108010008,
   "districtId": 1108010,
-  "name": "MON MATA"
+  "districtName": "LHOONG",
+  "name": "MON MATA",
+  "postalCode": "23654"
  },
  {
   "id": 1108010009,
   "districtId": 1108010,
-  "name": "KEUTAPANG"
+  "districtName": "LHOONG",
+  "name": "KEUTAPANG",
+  "postalCode": "24171"
  },
  {
   "id": 1108010010,
   "districtId": 1108010,
-  "name": "LAMSUJEN"
+  "districtName": "LHOONG",
+  "name": "LAMSUJEN",
+  "postalCode": ""
  },
  {
   "id": 1108010011,
   "districtId": 1108010,
-  "name": "LAMJUHANG"
+  "districtName": "LHOONG",
+  "name": "LAMJUHANG",
+  "postalCode": ""
  },
  {
   "id": 1108010012,
   "districtId": 1108010,
-  "name": "UTAMONG"
+  "districtName": "LHOONG",
+  "name": "UTAMONG",
+  "postalCode": "23354"
  },
  {
   "id": 1108010013,
   "districtId": 1108010,
-  "name": "SANEY"
+  "districtName": "LHOONG",
+  "name": "SANEY",
+  "postalCode": "23354"
  },
  {
   "id": 1108010014,
   "districtId": 1108010,
-  "name": "LAMGEURIHEU"
+  "districtName": "LHOONG",
+  "name": "LAMGEURIHEU",
+  "postalCode": ""
  },
  {
   "id": 1108010015,
   "districtId": 1108010,
-  "name": "UMONG SEURIBEE"
+  "districtName": "LHOONG",
+  "name": "UMONG SEURIBEE",
+  "postalCode": ""
  },
  {
   "id": 1108010016,
   "districtId": 1108010,
-  "name": "LAMKUTA BLANG MEE"
+  "districtName": "LHOONG",
+  "name": "LAMKUTA BLANG MEE",
+  "postalCode": ""
  },
  {
   "id": 1108010017,
   "districtId": 1108010,
-  "name": "TEUNGOH BLANG MEE"
+  "districtName": "LHOONG",
+  "name": "TEUNGOH BLANG MEE",
+  "postalCode": "23354"
  },
  {
   "id": 1108010018,
   "districtId": 1108010,
-  "name": "TEUNGOH GEUNTEUT"
+  "districtName": "LHOONG",
+  "name": "TEUNGOH GEUNTEUT",
+  "postalCode": "23354"
  },
  {
   "id": 1108010019,
   "districtId": 1108010,
-  "name": "BAROH GEUNTEUT"
+  "districtName": "LHOONG",
+  "name": "BAROH GEUNTEUT",
+  "postalCode": ""
  },
  {
   "id": 1108010020,
   "districtId": 1108010,
-  "name": "BAROH BLANG MEE"
+  "districtName": "LHOONG",
+  "name": "BAROH BLANG MEE",
+  "postalCode": "23354"
  },
  {
   "id": 1108010021,
   "districtId": 1108010,
-  "name": "JANTANG"
+  "districtName": "LHOONG",
+  "name": "JANTANG",
+  "postalCode": "23354"
  },
  {
   "id": 1108010022,
   "districtId": 1108010,
-  "name": "MEUNASAH KRUENG KALA"
+  "districtName": "LHOONG",
+  "name": "MEUNASAH KRUENG KALA",
+  "postalCode": "23354"
  },
  {
   "id": 1108010023,
   "districtId": 1108010,
-  "name": "KAREUNG"
+  "districtName": "LHOONG",
+  "name": "KAREUNG",
+  "postalCode": "24152"
  },
  {
   "id": 1108010024,
   "districtId": 1108010,
-  "name": "BIREK"
+  "districtName": "LHOONG",
+  "name": "BIREK",
+  "postalCode": "23354"
  },
  {
   "id": 1108010025,
   "districtId": 1108010,
-  "name": "SEUNGKO MULAT"
+  "districtName": "LHOONG",
+  "name": "SEUNGKO MULAT",
+  "postalCode": ""
  },
  {
   "id": 1108010026,
   "districtId": 1108010,
-  "name": "BAROH KRUENG KALA"
+  "districtName": "LHOONG",
+  "name": "BAROH KRUENG KALA",
+  "postalCode": "23354"
  },
  {
   "id": 1108010027,
   "districtId": 1108010,
-  "name": "TUNONG KRUENG KALA"
+  "districtName": "LHOONG",
+  "name": "TUNONG KRUENG KALA",
+  "postalCode": "23354"
  },
  {
   "id": 1108010028,
   "districtId": 1108010,
-  "name": "PAROY"
+  "districtName": "LHOONG",
+  "name": "PAROY",
+  "postalCode": "23354"
  }
 ]

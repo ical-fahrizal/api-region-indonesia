@@ -2,56 +2,78 @@
  {
   "id": 7403152001,
   "districtId": 7403152,
-  "name": "KONAWE"
+  "districtName": "KONAWE",
+  "name": "KONAWE",
+  "postalCode": "93461"
  },
  {
   "id": 7403152002,
   "districtId": 7403152,
-  "name": "TUDAONE"
+  "districtName": "KONAWE",
+  "name": "TUDAONE",
+  "postalCode": "93461"
  },
  {
   "id": 7403152003,
   "districtId": 7403152,
-  "name": "BUNGGUOSU"
+  "districtName": "KONAWE",
+  "name": "BUNGGUOSU",
+  "postalCode": "93461"
  },
  {
   "id": 7403152004,
   "districtId": 7403152,
-  "name": "TAWANGA"
+  "districtName": "KONAWE",
+  "name": "TAWANGA",
+  "postalCode": "93461"
  },
  {
   "id": 7403152005,
   "districtId": 7403152,
-  "name": "SANGGONA"
+  "districtName": "KONAWE",
+  "name": "SANGGONA",
+  "postalCode": "93461"
  },
  {
   "id": 7403152006,
   "districtId": 7403152,
-  "name": "HUDOA"
+  "districtName": "KONAWE",
+  "name": "HUDOA",
+  "postalCode": "93461"
  },
  {
   "id": 7403152007,
   "districtId": 7403152,
-  "name": "UELAWU"
+  "districtName": "KONAWE",
+  "name": "UELAWU",
+  "postalCode": "93461"
  },
  {
   "id": 7403152008,
   "districtId": 7403152,
-  "name": "MOKOWU"
+  "districtName": "KONAWE",
+  "name": "MOKOWU",
+  "postalCode": "93461"
  },
  {
   "id": 7403152010,
   "districtId": 7403152,
-  "name": "WONUA MBAE"
+  "districtName": "KONAWE",
+  "name": "WONUA MBAE",
+  "postalCode": "93461"
  },
  {
   "id": 7403152011,
   "districtId": 7403152,
-  "name": "ASONIWOWO"
+  "districtName": "KONAWE",
+  "name": "ASONIWOWO",
+  "postalCode": ""
  },
  {
   "id": 7403152012,
   "districtId": 7403152,
-  "name": "PUUWONUA"
+  "districtName": "KONAWE",
+  "name": "PUUWONUA",
+  "postalCode": "93353"
  }
 ]

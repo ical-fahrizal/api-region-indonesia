@@ -2,51 +2,71 @@
  {
   "id": 7315010001,
   "districtId": 7315010,
-  "name": "LERO"
+  "districtName": "SUPPA",
+  "name": "LERO",
+  "postalCode": "94353"
  },
  {
   "id": 7315010002,
   "districtId": 7315010,
-  "name": "UJUNG LABUANG"
+  "districtName": "SUPPA",
+  "name": "UJUNG LABUANG",
+  "postalCode": "91272"
  },
  {
   "id": 7315010003,
   "districtId": 7315010,
-  "name": "WIRINGTASI"
+  "districtName": "SUPPA",
+  "name": "WIRINGTASI",
+  "postalCode": "91272"
  },
  {
   "id": 7315010004,
   "districtId": 7315010,
-  "name": "TASIWALIE"
+  "districtName": "SUPPA",
+  "name": "TASIWALIE",
+  "postalCode": "91272"
  },
  {
   "id": 7315010005,
   "districtId": 7315010,
-  "name": "MARITENGNGAE"
+  "districtName": "SUPPA",
+  "name": "MARITENGNGAE",
+  "postalCode": "91272"
  },
  {
   "id": 7315010006,
   "districtId": 7315010,
-  "name": "WATANG SUPPA"
+  "districtName": "SUPPA",
+  "name": "WATANG SUPPA",
+  "postalCode": "91272"
  },
  {
   "id": 7315010007,
   "districtId": 7315010,
-  "name": "TELLUMPANUA"
+  "districtName": "SUPPA",
+  "name": "TELLUMPANUA",
+  "postalCode": "91272"
  },
  {
   "id": 7315010008,
   "districtId": 7315010,
-  "name": "WATTANG PULU"
+  "districtName": "SUPPA",
+  "name": "WATTANG PULU",
+  "postalCode": ""
  },
  {
   "id": 7315010009,
   "districtId": 7315010,
-  "name": "POLEWALI"
+  "districtName": "SUPPA",
+  "name": "POLEWALI",
+  "postalCode": "94974"
  },
  {
   "id": 7315010010,
   "districtId": 7315010,
-  "name": "LOTANG SALO"
+  "districtName": "SUPPA",
+  "name": "LOTANG SALO",
+  "postalCode": "91272"
  }
 ]

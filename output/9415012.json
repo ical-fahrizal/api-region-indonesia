@@ -2,31 +2,43 @@
  {
   "id": 9415012001,
   "districtId": 9415012,
-  "name": "AMKAI"
+  "districtName": "DER KOUMUR",
+  "name": "AMKAI",
+  "postalCode": "99773"
  },
  {
   "id": 9415012002,
   "districtId": 9415012,
-  "name": "YAMKAP"
+  "districtName": "DER KOUMUR",
+  "name": "YAMKAP",
+  "postalCode": ""
  },
  {
   "id": 9415012003,
   "districtId": 9415012,
-  "name": "AMARU"
+  "districtName": "DER KOUMUR",
+  "name": "AMARU",
+  "postalCode": ""
  },
  {
   "id": 9415012004,
   "districtId": 9415012,
-  "name": "AMKUM"
+  "districtName": "DER KOUMUR",
+  "name": "AMKUM",
+  "postalCode": ""
  },
  {
   "id": 9415012005,
   "districtId": 9415012,
-  "name": "EROSAMAN"
+  "districtName": "DER KOUMUR",
+  "name": "EROSAMAN",
+  "postalCode": ""
  },
  {
   "id": 9415012006,
   "districtId": 9415012,
-  "name": "AMAGAIS"
+  "districtName": "DER KOUMUR",
+  "name": "AMAGAIS",
+  "postalCode": "99773"
  }
 ]

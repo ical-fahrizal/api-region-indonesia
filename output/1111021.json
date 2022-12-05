@@ -2,31 +2,43 @@
  {
   "id": 1111021001,
   "districtId": 1111021,
-  "name": "ALUE DUA"
+  "districtName": "NISAM ANTARA",
+  "name": "ALUE DUA",
+  "postalCode": "24394"
  },
  {
   "id": 1111021002,
   "districtId": 1111021,
-  "name": "ALUE PAPEUN"
+  "districtName": "NISAM ANTARA",
+  "name": "ALUE PAPEUN",
+  "postalCode": "24394"
  },
  {
   "id": 1111021003,
   "districtId": 1111021,
-  "name": "BLANG JRAT"
+  "districtName": "NISAM ANTARA",
+  "name": "BLANG JRAT",
+  "postalCode": ""
  },
  {
   "id": 1111021004,
   "districtId": 1111021,
-  "name": "BLANG POHROH"
+  "districtName": "NISAM ANTARA",
+  "name": "BLANG POHROH",
+  "postalCode": "24352"
  },
  {
   "id": 1111021005,
   "districtId": 1111021,
-  "name": "DARUSSALAM"
+  "districtName": "NISAM ANTARA",
+  "name": "DARUSSALAM",
+  "postalCode": "24671"
  },
  {
   "id": 1111021006,
   "districtId": 1111021,
-  "name": "SEUMIRAH"
+  "districtName": "NISAM ANTARA",
+  "name": "SEUMIRAH",
+  "postalCode": ""
  }
 ]

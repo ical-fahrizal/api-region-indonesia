@@ -2,61 +2,85 @@
  {
   "id": 1607090007,
   "districtId": 1607090,
-  "name": "UPANG MAKMUR"
+  "districtName": "MAKARTI JAYA",
+  "name": "UPANG MAKMUR",
+  "postalCode": "30972"
  },
  {
   "id": 1607090008,
   "districtId": 1607090,
-  "name": "PANGESTU"
+  "districtName": "MAKARTI JAYA",
+  "name": "PANGESTU",
+  "postalCode": ""
  },
  {
   "id": 1607090009,
   "districtId": 1607090,
-  "name": "MAKARTI JAYA"
+  "districtName": "MAKARTI JAYA",
+  "name": "MAKARTI JAYA",
+  "postalCode": "23662"
  },
  {
   "id": 1607090010,
   "districtId": 1607090,
-  "name": "TIRTA KENCANA"
+  "districtName": "MAKARTI JAYA",
+  "name": "TIRTA KENCANA",
+  "postalCode": "30972"
  },
  {
   "id": 1607090011,
   "districtId": 1607090,
-  "name": "TIRTA MULYA"
+  "districtName": "MAKARTI JAYA",
+  "name": "TIRTA MULYA",
+  "postalCode": "37252"
  },
  {
   "id": 1607090012,
   "districtId": 1607090,
-  "name": "PENDOWO HARJO"
+  "districtName": "MAKARTI JAYA",
+  "name": "PENDOWO HARJO",
+  "postalCode": "30972"
  },
  {
   "id": 1607090013,
   "districtId": 1607090,
-  "name": "UPANG MULYA"
+  "districtName": "MAKARTI JAYA",
+  "name": "UPANG MULYA",
+  "postalCode": "30972"
  },
  {
   "id": 1607090017,
   "districtId": 1607090,
-  "name": "PURWOSARI"
+  "districtName": "MAKARTI JAYA",
+  "name": "PURWOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 1607090019,
   "districtId": 1607090,
-  "name": "MUARA BARU"
+  "districtName": "MAKARTI JAYA",
+  "name": "MUARA BARU",
+  "postalCode": "24661"
  },
  {
   "id": 1607090020,
   "districtId": 1607090,
-  "name": "SUNGAI SEMUT"
+  "districtName": "MAKARTI JAYA",
+  "name": "SUNGAI SEMUT",
+  "postalCode": ""
  },
  {
   "id": 1607090021,
   "districtId": 1607090,
-  "name": "TANJUNG BARU"
+  "districtName": "MAKARTI JAYA",
+  "name": "TANJUNG BARU",
+  "postalCode": "22742"
  },
  {
   "id": 1607090022,
   "districtId": 1607090,
-  "name": "TANJUNG MAS"
+  "districtName": "MAKARTI JAYA",
+  "name": "TANJUNG MAS",
+  "postalCode": "24783"
  }
 ]

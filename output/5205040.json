@@ -2,26 +2,36 @@
  {
   "id": 5205040002,
   "districtId": 5205040,
-  "name": "TAROPO"
+  "districtName": "KILO",
+  "name": "TAROPO",
+  "postalCode": "84252"
  },
  {
   "id": 5205040003,
   "districtId": 5205040,
-  "name": "KRAMAT"
+  "districtName": "KILO",
+  "name": "KRAMAT",
+  "postalCode": "10450"
  },
  {
   "id": 5205040004,
   "districtId": 5205040,
-  "name": "MALAJU"
+  "districtName": "KILO",
+  "name": "MALAJU",
+  "postalCode": "84252"
  },
  {
   "id": 5205040005,
   "districtId": 5205040,
-  "name": "LASI"
+  "districtName": "KILO",
+  "name": "LASI",
+  "postalCode": "26191"
  },
  {
   "id": 5205040006,
   "districtId": 5205040,
-  "name": "K I W U"
+  "districtName": "KILO",
+  "name": "K I W U",
+  "postalCode": ""
  }
 ]

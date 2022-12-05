@@ -2,41 +2,57 @@
  {
   "id": 5306032001,
   "districtId": 5306032,
-  "name": "TASAIN"
+  "districtName": "RAI MANUK",
+  "name": "TASAIN",
+  "postalCode": "85761"
  },
  {
   "id": 5306032003,
   "districtId": 5306032,
-  "name": "RENRUA"
+  "districtName": "RAI MANUK",
+  "name": "RENRUA",
+  "postalCode": "85761"
  },
  {
   "id": 5306032004,
   "districtId": 5306032,
-  "name": "MANDEU RAIMANUS"
+  "districtName": "RAI MANUK",
+  "name": "MANDEU RAIMANUS",
+  "postalCode": ""
  },
  {
   "id": 5306032005,
   "districtId": 5306032,
-  "name": "FATURIKA"
+  "districtName": "RAI MANUK",
+  "name": "FATURIKA",
+  "postalCode": "85761"
  },
  {
   "id": 5306032006,
   "districtId": 5306032,
-  "name": "RAFAE"
+  "districtName": "RAI MANUK",
+  "name": "RAFAE",
+  "postalCode": "85761"
  },
  {
   "id": 5306032007,
   "districtId": 5306032,
-  "name": "DUAKORAN"
+  "districtName": "RAI MANUK",
+  "name": "DUAKORAN",
+  "postalCode": "85761"
  },
  {
   "id": 5306032008,
   "districtId": 5306032,
-  "name": "MANDEU"
+  "districtName": "RAI MANUK",
+  "name": "MANDEU",
+  "postalCode": "85761"
  },
  {
   "id": 5306032009,
   "districtId": 5306032,
-  "name": "LEUNTOLU"
+  "districtName": "RAI MANUK",
+  "name": "LEUNTOLU",
+  "postalCode": "85761"
  }
 ]

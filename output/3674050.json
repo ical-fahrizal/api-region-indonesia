@@ -2,31 +2,43 @@
  {
   "id": 3674050001,
   "districtId": 3674050,
-  "name": "PISANGAN"
+  "districtName": "CIPUTAT TIMUR",
+  "name": "PISANGAN",
+  "postalCode": "15419"
  },
  {
   "id": 3674050002,
   "districtId": 3674050,
-  "name": "CIREUNDEU"
+  "districtName": "CIPUTAT TIMUR",
+  "name": "CIREUNDEU",
+  "postalCode": "42393"
  },
  {
   "id": 3674050003,
   "districtId": 3674050,
-  "name": "CEMPAKA PUTIH"
+  "districtName": "CIPUTAT TIMUR",
+  "name": "CEMPAKA PUTIH",
+  "postalCode": "36134"
  },
  {
   "id": 3674050004,
   "districtId": 3674050,
-  "name": "REMPOA"
+  "districtName": "CIPUTAT TIMUR",
+  "name": "REMPOA",
+  "postalCode": "15412"
  },
  {
   "id": 3674050005,
   "districtId": 3674050,
-  "name": "RENGAS"
+  "districtName": "CIPUTAT TIMUR",
+  "name": "RENGAS",
+  "postalCode": "34162"
  },
  {
   "id": 3674050006,
   "districtId": 3674050,
-  "name": "PONDOK RANJI"
+  "districtName": "CIPUTAT TIMUR",
+  "name": "PONDOK RANJI",
+  "postalCode": "15412"
  }
 ]

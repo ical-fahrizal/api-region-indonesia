@@ -2,31 +2,43 @@
  {
   "id": 5321050001,
   "districtId": 5321050,
-  "name": "FATOIN"
+  "districtName": "IO KUFEU",
+  "name": "FATOIN",
+  "postalCode": "85671"
  },
  {
   "id": 5321050002,
   "districtId": 5321050,
-  "name": "BANI BANI"
+  "districtName": "IO KUFEU",
+  "name": "BANI BANI",
+  "postalCode": "85765"
  },
  {
   "id": 5321050003,
   "districtId": 5321050,
-  "name": "TUNMAT"
+  "districtName": "IO KUFEU",
+  "name": "TUNMAT",
+  "postalCode": "85765"
  },
  {
   "id": 5321050004,
   "districtId": 5321050,
-  "name": "IKAN TUNABEIS"
+  "districtName": "IO KUFEU",
+  "name": "IKAN TUNABEIS",
+  "postalCode": ""
  },
  {
   "id": 5321050006,
   "districtId": 5321050,
-  "name": "TUNABESI"
+  "districtName": "IO KUFEU",
+  "name": "TUNABESI",
+  "postalCode": "85765"
  },
  {
   "id": 5321050007,
   "districtId": 5321050,
-  "name": "BIAU"
+  "districtName": "IO KUFEU",
+  "name": "BIAU",
+  "postalCode": "85765"
  }
 ]

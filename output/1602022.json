@@ -2,96 +2,134 @@
  {
   "id": 1602022001,
   "districtId": 1602022,
-  "name": "KAMPUNG BARU"
+  "districtName": "MESUJI MAKMUR",
+  "name": "KAMPUNG BARU",
+  "postalCode": "24652"
  },
  {
   "id": 1602022002,
   "districtId": 1602022,
-  "name": "MESUJI JAYA"
+  "districtName": "MESUJI MAKMUR",
+  "name": "MESUJI JAYA",
+  "postalCode": "30681"
  },
  {
   "id": 1602022003,
   "districtId": 1602022,
-  "name": "BERINGIN JAYA"
+  "districtName": "MESUJI MAKMUR",
+  "name": "BERINGIN JAYA",
+  "postalCode": "21464"
  },
  {
   "id": 1602022004,
   "districtId": 1602022,
-  "name": "PEMATANG BHINA TANI"
+  "districtName": "MESUJI MAKMUR",
+  "name": "PEMATANG BHINA TANI",
+  "postalCode": ""
  },
  {
   "id": 1602022005,
   "districtId": 1602022,
-  "name": "BHINA KARSA"
+  "districtName": "MESUJI MAKMUR",
+  "name": "BHINA KARSA",
+  "postalCode": ""
  },
  {
   "id": 1602022006,
   "districtId": 1602022,
-  "name": "CAHAYA MAS"
+  "districtName": "MESUJI MAKMUR",
+  "name": "CAHAYA MAS",
+  "postalCode": "30681"
  },
  {
   "id": 1602022007,
   "districtId": 1602022,
-  "name": "PEMATANG SARI"
+  "districtName": "MESUJI MAKMUR",
+  "name": "PEMATANG SARI",
+  "postalCode": "30681"
  },
  {
   "id": 1602022008,
   "districtId": 1602022,
-  "name": "PEMATANG JAYA"
+  "districtName": "MESUJI MAKMUR",
+  "name": "PEMATANG JAYA",
+  "postalCode": "29351"
  },
  {
   "id": 1602022009,
   "districtId": 1602022,
-  "name": "GADING SARI"
+  "districtName": "MESUJI MAKMUR",
+  "name": "GADING SARI",
+  "postalCode": "28464"
  },
  {
   "id": 1602022010,
   "districtId": 1602022,
-  "name": "KARYA USAHA"
+  "districtName": "MESUJI MAKMUR",
+  "name": "KARYA USAHA",
+  "postalCode": "30681"
  },
  {
   "id": 1602022011,
   "districtId": 1602022,
-  "name": "PEMATANG SUKATANI"
+  "districtName": "MESUJI MAKMUR",
+  "name": "PEMATANG SUKATANI",
+  "postalCode": "30681"
  },
  {
   "id": 1602022012,
   "districtId": 1602022,
-  "name": "KARYA JAYA"
+  "districtName": "MESUJI MAKMUR",
+  "name": "KARYA JAYA",
+  "postalCode": "20611"
  },
  {
   "id": 1602022013,
   "districtId": 1602022,
-  "name": "MUKTI KARYA"
+  "districtName": "MESUJI MAKMUR",
+  "name": "MUKTI KARYA",
+  "postalCode": "30681"
  },
  {
   "id": 1602022015,
   "districtId": 1602022,
-  "name": "SURYA KARTA"
+  "districtName": "MESUJI MAKMUR",
+  "name": "SURYA KARTA",
+  "postalCode": "30681"
  },
  {
   "id": 1602022016,
   "districtId": 1602022,
-  "name": "CATUR TUNGGAL"
+  "districtName": "MESUJI MAKMUR",
+  "name": "CATUR TUNGGAL",
+  "postalCode": "30681"
  },
  {
   "id": 1602022017,
   "districtId": 1602022,
-  "name": "PEMATANG SUKARAMAH"
+  "districtName": "MESUJI MAKMUR",
+  "name": "PEMATANG SUKARAMAH",
+  "postalCode": "30681"
  },
  {
   "id": 1602022018,
   "districtId": 1602022,
-  "name": "SUMBER MULYA"
+  "districtName": "MESUJI MAKMUR",
+  "name": "SUMBER MULYA",
+  "postalCode": "36365"
  },
  {
   "id": 1602022019,
   "districtId": 1602022,
-  "name": "CAHAYA MULYA"
+  "districtName": "MESUJI MAKMUR",
+  "name": "CAHAYA MULYA",
+  "postalCode": "30681"
  },
  {
   "id": 1602022020,
   "districtId": 1602022,
-  "name": "TEGAL SARI"
+  "districtName": "MESUJI MAKMUR",
+  "name": "TEGAL SARI",
+  "postalCode": "23681"
  }
 ]

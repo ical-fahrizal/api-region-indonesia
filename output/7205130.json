@@ -2,66 +2,92 @@
  {
   "id": 7205130001,
   "districtId": 7205130,
-  "name": "LOMBONGA"
+  "districtName": "BALAESANG",
+  "name": "LOMBONGA",
+  "postalCode": "94355"
  },
  {
   "id": 7205130008,
   "districtId": 7205130,
-  "name": "LABEAN"
+  "districtName": "BALAESANG",
+  "name": "LABEAN",
+  "postalCode": "94355"
  },
  {
   "id": 7205130009,
   "districtId": 7205130,
-  "name": "MELI"
+  "districtName": "BALAESANG",
+  "name": "MELI",
+  "postalCode": "94355"
  },
  {
   "id": 7205130010,
   "districtId": 7205130,
-  "name": "TAMBU"
+  "districtName": "BALAESANG",
+  "name": "TAMBU",
+  "postalCode": "94355"
  },
  {
   "id": 7205130011,
   "districtId": 7205130,
-  "name": "SIWELI"
+  "districtName": "BALAESANG",
+  "name": "SIWELI",
+  "postalCode": "94355"
  },
  {
   "id": 7205130012,
   "districtId": 7205130,
-  "name": "SIBUALONG"
+  "districtName": "BALAESANG",
+  "name": "SIBUALONG",
+  "postalCode": "94355"
  },
  {
   "id": 7205130013,
   "districtId": 7205130,
-  "name": "SIBAYU"
+  "districtName": "BALAESANG",
+  "name": "SIBAYU",
+  "postalCode": "94355"
  },
  {
   "id": 7205130015,
   "districtId": 7205130,
-  "name": "MALINO"
+  "districtName": "BALAESANG",
+  "name": "MALINO",
+  "postalCode": "22756"
  },
  {
   "id": 7205130016,
   "districtId": 7205130,
-  "name": "MAPANE TAMBU"
+  "districtName": "BALAESANG",
+  "name": "MAPANE TAMBU",
+  "postalCode": "94355"
  },
  {
   "id": 7205130017,
   "districtId": 7205130,
-  "name": "TOVIA TAMBU"
+  "districtName": "BALAESANG",
+  "name": "TOVIA TAMBU",
+  "postalCode": "94355"
  },
  {
   "id": 7205130018,
   "districtId": 7205130,
-  "name": "SIMAGAYA"
+  "districtName": "BALAESANG",
+  "name": "SIMAGAYA",
+  "postalCode": "94355"
  },
  {
   "id": 7205130019,
   "districtId": 7205130,
-  "name": "SIPURE"
+  "districtName": "BALAESANG",
+  "name": "SIPURE",
+  "postalCode": "94355"
  },
  {
   "id": 7205130020,
   "districtId": 7205130,
-  "name": "KAMPUNG BARU SIBAYU"
+  "districtName": "BALAESANG",
+  "name": "KAMPUNG BARU SIBAYU",
+  "postalCode": "94355"
  }
 ]

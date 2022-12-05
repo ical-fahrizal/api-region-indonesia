@@ -2,41 +2,57 @@
  {
   "id": 3507030001,
   "districtId": 3507030,
-  "name": "SUMBERMANJING KULON"
+  "districtName": "PAGAK",
+  "name": "SUMBERMANJING KULON",
+  "postalCode": "65168"
  },
  {
   "id": 3507030002,
   "districtId": 3507030,
-  "name": "PANDANREJO"
+  "districtName": "PAGAK",
+  "name": "PANDANREJO",
+  "postalCode": "54175"
  },
  {
   "id": 3507030003,
   "districtId": 3507030,
-  "name": "SUMBERKERTO"
+  "districtName": "PAGAK",
+  "name": "SUMBERKERTO",
+  "postalCode": "65168"
  },
  {
   "id": 3507030004,
   "districtId": 3507030,
-  "name": "SEMPOL"
+  "districtName": "PAGAK",
+  "name": "SEMPOL",
+  "postalCode": "56362"
  },
  {
   "id": 3507030005,
   "districtId": 3507030,
-  "name": "PAGAK"
+  "districtName": "PAGAK",
+  "name": "PAGAK",
+  "postalCode": "54172"
  },
  {
   "id": 3507030006,
   "districtId": 3507030,
-  "name": "SUMBERREJO"
+  "districtName": "PAGAK",
+  "name": "SUMBERREJO",
+  "postalCode": "59184"
  },
  {
   "id": 3507030007,
   "districtId": 3507030,
-  "name": "GAMPINGAN"
+  "districtName": "PAGAK",
+  "name": "GAMPINGAN",
+  "postalCode": "65168"
  },
  {
   "id": 3507030008,
   "districtId": 3507030,
-  "name": "TLOGOREJO"
+  "districtName": "PAGAK",
+  "name": "TLOGOREJO",
+  "postalCode": "54395"
  }
 ]

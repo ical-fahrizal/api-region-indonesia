@@ -2,41 +2,57 @@
  {
   "id": 3201140001,
   "districtId": 3201140,
-  "name": "CIJAYANTI"
+  "districtName": "BABAKAN MADANG",
+  "name": "CIJAYANTI",
+  "postalCode": "16810"
  },
  {
   "id": 3201140002,
   "districtId": 3201140,
-  "name": "BOJONG KONENG"
+  "districtName": "BABAKAN MADANG",
+  "name": "BOJONG KONENG",
+  "postalCode": "16810"
  },
  {
   "id": 3201140003,
   "districtId": 3201140,
-  "name": "KARANG TENGAH"
+  "districtName": "BABAKAN MADANG",
+  "name": "KARANG TENGAH",
+  "postalCode": "20991"
  },
  {
   "id": 3201140004,
   "districtId": 3201140,
-  "name": "SUMUR BATU"
+  "districtName": "BABAKAN MADANG",
+  "name": "SUMUR BATU",
+  "postalCode": "35214"
  },
  {
   "id": 3201140005,
   "districtId": 3201140,
-  "name": "BABAKAN MADANG"
+  "districtName": "BABAKAN MADANG",
+  "name": "BABAKAN MADANG",
+  "postalCode": "16810"
  },
  {
   "id": 3201140006,
   "districtId": 3201140,
-  "name": "CITARINGGUL"
+  "districtName": "BABAKAN MADANG",
+  "name": "CITARINGGUL",
+  "postalCode": "16810"
  },
  {
   "id": 3201140007,
   "districtId": 3201140,
-  "name": "CIPAMBUAN"
+  "districtName": "BABAKAN MADANG",
+  "name": "CIPAMBUAN",
+  "postalCode": "16810"
  },
  {
   "id": 3201140008,
   "districtId": 3201140,
-  "name": "KADUMANGU"
+  "districtName": "BABAKAN MADANG",
+  "name": "KADUMANGU",
+  "postalCode": "16810"
  }
 ]

@@ -2,81 +2,113 @@
  {
   "id": 1703060010,
   "districtId": 1703060,
-  "name": "TALANG DENAU"
+  "districtName": "ARGA MAKMUR",
+  "name": "TALANG DENAU",
+  "postalCode": "38611"
  },
  {
   "id": 1703060011,
   "districtId": 1703060,
-  "name": "GUNUNG SELAN"
+  "districtName": "ARGA MAKMUR",
+  "name": "GUNUNG SELAN",
+  "postalCode": ""
  },
  {
   "id": 1703060012,
   "districtId": 1703060,
-  "name": "GUNUNG AGUNG"
+  "districtName": "ARGA MAKMUR",
+  "name": "GUNUNG AGUNG",
+  "postalCode": "31471"
  },
  {
   "id": 1703060013,
   "districtId": 1703060,
-  "name": "RAMA AGUNG"
+  "districtName": "ARGA MAKMUR",
+  "name": "RAMA AGUNG",
+  "postalCode": "38614"
  },
  {
   "id": 1703060014,
   "districtId": 1703060,
-  "name": "GUNUNG ALAM"
+  "districtName": "ARGA MAKMUR",
+  "name": "GUNUNG ALAM",
+  "postalCode": "38611"
  },
  {
   "id": 1703060015,
   "districtId": 1703060,
-  "name": "SIDO URIP"
+  "districtName": "ARGA MAKMUR",
+  "name": "SIDO URIP",
+  "postalCode": "38611"
  },
  {
   "id": 1703060016,
   "districtId": 1703060,
-  "name": "DATAR RUYUNG"
+  "districtName": "ARGA MAKMUR",
+  "name": "DATAR RUYUNG",
+  "postalCode": "38617"
  },
  {
   "id": 1703060017,
   "districtId": 1703060,
-  "name": "TANJUNG RAMAN"
+  "districtName": "ARGA MAKMUR",
+  "name": "TANJUNG RAMAN",
+  "postalCode": "31462"
  },
  {
   "id": 1703060020,
   "districtId": 1703060,
-  "name": "LUBUK SAUNG"
+  "districtName": "ARGA MAKMUR",
+  "name": "LUBUK SAUNG",
+  "postalCode": "30953"
  },
  {
   "id": 1703060021,
   "districtId": 1703060,
-  "name": "KARANG SUCI"
+  "districtName": "ARGA MAKMUR",
+  "name": "KARANG SUCI",
+  "postalCode": "38619"
  },
  {
   "id": 1703060022,
   "districtId": 1703060,
-  "name": "PURWODADI"
+  "districtName": "ARGA MAKMUR",
+  "name": "PURWODADI",
+  "postalCode": "24652"
  },
  {
   "id": 1703060023,
   "districtId": 1703060,
-  "name": "KARANG ANYAR II"
+  "districtName": "ARGA MAKMUR",
+  "name": "KARANG ANYAR II",
+  "postalCode": ""
  },
  {
   "id": 1703060024,
   "districtId": 1703060,
-  "name": "KARANG ANYAR"
+  "districtName": "ARGA MAKMUR",
+  "name": "KARANG ANYAR",
+  "postalCode": "24415"
  },
  {
   "id": 1703060025,
   "districtId": 1703060,
-  "name": "TABA TEMBILANG"
+  "districtName": "ARGA MAKMUR",
+  "name": "TABA TEMBILANG",
+  "postalCode": "38611"
  },
  {
   "id": 1703060026,
   "districtId": 1703060,
-  "name": "SENALI"
+  "districtName": "ARGA MAKMUR",
+  "name": "SENALI",
+  "postalCode": "38611"
  },
  {
   "id": 1703060027,
   "districtId": 1703060,
-  "name": "KURO TIDUR"
+  "districtName": "ARGA MAKMUR",
+  "name": "KURO TIDUR",
+  "postalCode": "38611"
  }
 ]

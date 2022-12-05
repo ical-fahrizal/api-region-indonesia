@@ -2,26 +2,36 @@
  {
   "id": 3202070001,
   "districtId": 3202070,
-  "name": "CIDOLOG"
+  "districtName": "CIDOLOG",
+  "name": "CIDOLOG",
+  "postalCode": "46352"
  },
  {
   "id": 3202070002,
   "districtId": 3202070,
-  "name": "MEKARJAYA"
+  "districtName": "CIDOLOG",
+  "name": "MEKARJAYA",
+  "postalCode": "30653"
  },
  {
   "id": 3202070003,
   "districtId": 3202070,
-  "name": "CIKARANG"
+  "districtName": "CIDOLOG",
+  "name": "CIKARANG",
+  "postalCode": "43184"
  },
  {
   "id": 3202070004,
   "districtId": 3202070,
-  "name": "CIPAMINGKIS"
+  "districtName": "CIDOLOG",
+  "name": "CIPAMINGKIS",
+  "postalCode": "43184"
  },
  {
   "id": 3202070005,
   "districtId": 3202070,
-  "name": "TEGALLEGA"
+  "districtName": "CIDOLOG",
+  "name": "TEGALLEGA",
+  "postalCode": "43184"
  }
 ]

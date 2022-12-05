@@ -2,36 +2,50 @@
  {
   "id": 1207140001,
   "districtId": 1207140,
-  "name": "SEI SENTOSA"
+  "districtName": "PANAI HULU",
+  "name": "SEI SENTOSA",
+  "postalCode": "21471"
  },
  {
   "id": 1207140002,
   "districtId": 1207140,
-  "name": "AJAMU"
+  "districtName": "PANAI HULU",
+  "name": "AJAMU",
+  "postalCode": ""
  },
  {
   "id": 1207140003,
   "districtId": 1207140,
-  "name": "MERANTI PAHAM"
+  "districtName": "PANAI HULU",
+  "name": "MERANTI PAHAM",
+  "postalCode": ""
  },
  {
   "id": 1207140004,
   "districtId": 1207140,
-  "name": "TELUK SENTOSA"
+  "districtName": "PANAI HULU",
+  "name": "TELUK SENTOSA",
+  "postalCode": "21471"
  },
  {
   "id": 1207140005,
   "districtId": 1207140,
-  "name": "CINTA MAKMUR"
+  "districtName": "PANAI HULU",
+  "name": "CINTA MAKMUR",
+  "postalCode": "24673"
  },
  {
   "id": 1207140006,
   "districtId": 1207140,
-  "name": "TANJUNG SARANG ELANG"
+  "districtName": "PANAI HULU",
+  "name": "TANJUNG SARANG ELANG",
+  "postalCode": "21471"
  },
  {
   "id": 1207140007,
   "districtId": 1207140,
-  "name": "SEI JAWI JAWI"
+  "districtName": "PANAI HULU",
+  "name": "SEI JAWI JAWI",
+  "postalCode": ""
  }
 ]

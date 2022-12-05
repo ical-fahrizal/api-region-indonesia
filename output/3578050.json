@@ -2,21 +2,29 @@
  {
   "id": 3578050001,
   "districtId": 3578050,
-  "name": "KUTISARI"
+  "districtName": "TENGGILIS MEJOYO",
+  "name": "KUTISARI",
+  "postalCode": "60291"
  },
  {
   "id": 3578050002,
   "districtId": 3578050,
-  "name": "KENDANGSARI"
+  "districtName": "TENGGILIS MEJOYO",
+  "name": "KENDANGSARI",
+  "postalCode": "60292"
  },
  {
   "id": 3578050003,
   "districtId": 3578050,
-  "name": "TENGGILIS MEJOYO"
+  "districtName": "TENGGILIS MEJOYO",
+  "name": "TENGGILIS MEJOYO",
+  "postalCode": "60292"
  },
  {
   "id": 3578050005,
   "districtId": 3578050,
-  "name": "PANJANG JIWO"
+  "districtName": "TENGGILIS MEJOYO",
+  "name": "PANJANG JIWO",
+  "postalCode": "60299"
  }
 ]

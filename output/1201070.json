@@ -2,106 +2,148 @@
  {
   "id": 1201070006,
   "districtId": 1201070,
-  "name": "HILIOTALUA"
+  "districtName": "GIDO",
+  "name": "HILIOTALUA",
+  "postalCode": "22871"
  },
  {
   "id": 1201070008,
   "districtId": 1201070,
-  "name": "AKHELAUME"
+  "districtName": "GIDO",
+  "name": "AKHELAUME",
+  "postalCode": "22871"
  },
  {
   "id": 1201070012,
   "districtId": 1201070,
-  "name": "TULOMBAHO SALOO"
+  "districtName": "GIDO",
+  "name": "TULOMBAHO SALOO",
+  "postalCode": ""
  },
  {
   "id": 1201070013,
   "districtId": 1201070,
-  "name": "OLINDRAWA SISARAHILI"
+  "districtName": "GIDO",
+  "name": "OLINDRAWA SISARAHILI",
+  "postalCode": "22871"
  },
  {
   "id": 1201070014,
   "districtId": 1201070,
-  "name": "LASELA"
+  "districtName": "GIDO",
+  "name": "LASELA",
+  "postalCode": "22871"
  },
  {
   "id": 1201070016,
   "districtId": 1201070,
-  "name": "HILISEBUA"
+  "districtName": "GIDO",
+  "name": "HILISEBUA",
+  "postalCode": "22871"
  },
  {
   "id": 1201070017,
   "districtId": 1201070,
-  "name": "SOMI"
+  "districtName": "GIDO",
+  "name": "SOMI",
+  "postalCode": "22871"
  },
  {
   "id": 1201070018,
   "districtId": 1201070,
-  "name": "SIRETE"
+  "districtName": "GIDO",
+  "name": "SIRETE",
+  "postalCode": "22871"
  },
  {
   "id": 1201070019,
   "districtId": 1201070,
-  "name": "HILIWETO GIDO"
+  "districtName": "GIDO",
+  "name": "HILIWETO GIDO",
+  "postalCode": "22871"
  },
  {
   "id": 1201070020,
   "districtId": 1201070,
-  "name": "LOLOANAA GIDO"
+  "districtName": "GIDO",
+  "name": "LOLOANAA GIDO",
+  "postalCode": "22871"
  },
  {
   "id": 1201070022,
   "districtId": 1201070,
-  "name": "SISOBAHILI"
+  "districtName": "GIDO",
+  "name": "SISOBAHILI",
+  "postalCode": "22851"
  },
  {
   "id": 1201070023,
   "districtId": 1201070,
-  "name": "LAHEMO"
+  "districtName": "GIDO",
+  "name": "LAHEMO",
+  "postalCode": "22871"
  },
  {
   "id": 1201070024,
   "districtId": 1201070,
-  "name": "LADEA"
+  "districtName": "GIDO",
+  "name": "LADEA",
+  "postalCode": "22871"
  },
  {
   "id": 1201070027,
   "districtId": 1201070,
-  "name": "UMBU"
+  "districtName": "GIDO",
+  "name": "UMBU",
+  "postalCode": "22871"
  },
  {
   "id": 1201070028,
   "districtId": 1201070,
-  "name": "SAEWE"
+  "districtName": "GIDO",
+  "name": "SAEWE",
+  "postalCode": "22811"
  },
  {
   "id": 1201070029,
   "districtId": 1201070,
-  "name": "LOLOZASAI"
+  "districtName": "GIDO",
+  "name": "LOLOZASAI",
+  "postalCode": "22871"
  },
  {
   "id": 1201070030,
   "districtId": 1201070,
-  "name": "LASARA IDANOI"
+  "districtName": "GIDO",
+  "name": "LASARA IDANOI",
+  "postalCode": "22871"
  },
  {
   "id": 1201070031,
   "districtId": 1201070,
-  "name": "LADEA ORAHUA"
+  "districtName": "GIDO",
+  "name": "LADEA ORAHUA",
+  "postalCode": "22871"
  },
  {
   "id": 1201070032,
   "districtId": 1201070,
-  "name": "NIFOLOO LAURU"
+  "districtName": "GIDO",
+  "name": "NIFOLOO LAURU",
+  "postalCode": ""
  },
  {
   "id": 1201070033,
   "districtId": 1201070,
-  "name": "SOMI BOTOGOO"
+  "districtName": "GIDO",
+  "name": "SOMI BOTOGOO",
+  "postalCode": ""
  },
  {
   "id": 1201070034,
   "districtId": 1201070,
-  "name": "HILIZOI"
+  "districtName": "GIDO",
+  "name": "HILIZOI",
+  "postalCode": "22871"
  }
 ]

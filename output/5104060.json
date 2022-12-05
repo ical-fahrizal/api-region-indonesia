@@ -2,36 +2,50 @@
  {
   "id": 5104060001,
   "districtId": 5104060,
-  "name": "KELIKI"
+  "districtName": "TEGALLALANG",
+  "name": "KELIKI",
+  "postalCode": "80561"
  },
  {
   "id": 5104060002,
   "districtId": 5104060,
-  "name": "TEGALLALANG"
+  "districtName": "TEGALLALANG",
+  "name": "TEGALLALANG",
+  "postalCode": "80561"
  },
  {
   "id": 5104060003,
   "districtId": 5104060,
-  "name": "KENDERAN"
+  "districtName": "TEGALLALANG",
+  "name": "KENDERAN",
+  "postalCode": "80561"
  },
  {
   "id": 5104060004,
   "districtId": 5104060,
-  "name": "KEDISAN"
+  "districtName": "TEGALLALANG",
+  "name": "KEDISAN",
+  "postalCode": "80652"
  },
  {
   "id": 5104060005,
   "districtId": 5104060,
-  "name": "PUPUAN"
+  "districtName": "TEGALLALANG",
+  "name": "PUPUAN",
+  "postalCode": "82163"
  },
  {
   "id": 5104060006,
   "districtId": 5104060,
-  "name": "SEBATU"
+  "districtName": "TEGALLALANG",
+  "name": "SEBATU",
+  "postalCode": "80561"
  },
  {
   "id": 5104060007,
   "districtId": 5104060,
-  "name": "TARO"
+  "districtName": "TEGALLALANG",
+  "name": "TARO",
+  "postalCode": "80561"
  }
 ]

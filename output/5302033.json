@@ -2,46 +2,64 @@
  {
   "id": 5302033001,
   "districtId": 5302033,
-  "name": "MAU RAMBA"
+  "districtName": "KAHAUNGU ETI",
+  "name": "MAU RAMBA",
+  "postalCode": "87171"
  },
  {
   "id": 5302033002,
   "districtId": 5302033,
-  "name": "KAMBATA BUNDUNG"
+  "districtName": "KAHAUNGU ETI",
+  "name": "KAMBATA BUNDUNG",
+  "postalCode": "87171"
  },
  {
   "id": 5302033003,
   "districtId": 5302033,
-  "name": "KAMANGGIH"
+  "districtName": "KAHAUNGU ETI",
+  "name": "KAMANGGIH",
+  "postalCode": "87171"
  },
  {
   "id": 5302033004,
   "districtId": 5302033,
-  "name": "KATAKA"
+  "districtName": "KAHAUNGU ETI",
+  "name": "KATAKA",
+  "postalCode": "87171"
  },
  {
   "id": 5302033005,
   "districtId": 5302033,
-  "name": "MATAWAI MARINGU"
+  "districtName": "KAHAUNGU ETI",
+  "name": "MATAWAI MARINGU",
+  "postalCode": "87171"
  },
  {
   "id": 5302033006,
   "districtId": 5302033,
-  "name": "MATAWAI KATINGGA"
+  "districtName": "KAHAUNGU ETI",
+  "name": "MATAWAI KATINGGA",
+  "postalCode": "87171"
  },
  {
   "id": 5302033007,
   "districtId": 5302033,
-  "name": "KOTAK KAWAU"
+  "districtName": "KAHAUNGU ETI",
+  "name": "KOTAK KAWAU",
+  "postalCode": "87171"
  },
  {
   "id": 5302033008,
   "districtId": 5302033,
-  "name": "LAI MBONGA"
+  "districtName": "KAHAUNGU ETI",
+  "name": "LAI MBONGA",
+  "postalCode": "87171"
  },
  {
   "id": 5302033009,
   "districtId": 5302033,
-  "name": "MEO RUMBA"
+  "districtName": "KAHAUNGU ETI",
+  "name": "MEO RUMBA",
+  "postalCode": ""
  }
 ]

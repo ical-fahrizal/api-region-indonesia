@@ -2,21 +2,29 @@
  {
   "id": 9108011002,
   "districtId": 9108011,
-  "name": "HARAPAN JAYA"
+  "districtName": "MISOOL SELATAN",
+  "name": "HARAPAN JAYA",
+  "postalCode": "20773"
  },
  {
   "id": 9108011005,
   "districtId": 9108011,
-  "name": "FAFANLAP"
+  "districtName": "MISOOL SELATAN",
+  "name": "FAFANLAP",
+  "postalCode": "98483"
  },
  {
   "id": 9108011010,
   "districtId": 9108011,
-  "name": "DABATAN"
+  "districtName": "MISOOL SELATAN",
+  "name": "DABATAN",
+  "postalCode": "98483"
  },
  {
   "id": 9108011011,
   "districtId": 9108011,
-  "name": "KAREYEPOP"
+  "districtName": "MISOOL SELATAN",
+  "name": "KAREYEPOP",
+  "postalCode": ""
  }
 ]

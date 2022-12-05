@@ -2,41 +2,57 @@
  {
   "id": 3512140001,
   "districtId": 3512140,
-  "name": "CURAH TATAL"
+  "districtName": "ARJASA",
+  "name": "CURAH TATAL",
+  "postalCode": "68371"
  },
  {
   "id": 3512140002,
   "districtId": 3512140,
-  "name": "JATISARI"
+  "districtName": "ARJASA",
+  "name": "JATISARI",
+  "postalCode": "32362"
  },
  {
   "id": 3512140003,
   "districtId": 3512140,
-  "name": "KAYUMAS"
+  "districtName": "ARJASA",
+  "name": "KAYUMAS",
+  "postalCode": "57481"
  },
  {
   "id": 3512140004,
   "districtId": 3512140,
-  "name": "BAYEMAN"
+  "districtName": "ARJASA",
+  "name": "BAYEMAN",
+  "postalCode": "68371"
  },
  {
   "id": 3512140005,
   "districtId": 3512140,
-  "name": "KETOWAN"
+  "districtName": "ARJASA",
+  "name": "KETOWAN",
+  "postalCode": "68371"
  },
  {
   "id": 3512140006,
   "districtId": 3512140,
-  "name": "KEDUNGDOWO"
+  "districtName": "ARJASA",
+  "name": "KEDUNGDOWO",
+  "postalCode": "57384"
  },
  {
   "id": 3512140007,
   "districtId": 3512140,
-  "name": "LAMONGAN"
+  "districtName": "ARJASA",
+  "name": "LAMONGAN",
+  "postalCode": "53391"
  },
  {
   "id": 3512140008,
   "districtId": 3512140,
-  "name": "ARJASA"
+  "districtName": "ARJASA",
+  "name": "ARJASA",
+  "postalCode": "68191"
  }
 ]

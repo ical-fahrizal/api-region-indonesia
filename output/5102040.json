@@ -2,71 +2,99 @@
  {
   "id": 5102040001,
   "districtId": 5102040,
-  "name": "PANGKUNG TIBAH"
+  "districtName": "KEDIRI",
+  "name": "PANGKUNG TIBAH",
+  "postalCode": "82121"
  },
  {
   "id": 5102040002,
   "districtId": 5102040,
-  "name": "BELALANG"
+  "districtName": "KEDIRI",
+  "name": "BELALANG",
+  "postalCode": "82121"
  },
  {
   "id": 5102040003,
   "districtId": 5102040,
-  "name": "BERABAN"
+  "districtName": "KEDIRI",
+  "name": "BERABAN",
+  "postalCode": "82121"
  },
  {
   "id": 5102040004,
   "districtId": 5102040,
-  "name": "BUWIT"
+  "districtName": "KEDIRI",
+  "name": "BUWIT",
+  "postalCode": "82121"
  },
  {
   "id": 5102040005,
   "districtId": 5102040,
-  "name": "CEPAKA"
+  "districtName": "KEDIRI",
+  "name": "CEPAKA",
+  "postalCode": "82121"
  },
  {
   "id": 5102040006,
   "districtId": 5102040,
-  "name": "KABA-KABA"
+  "districtName": "KEDIRI",
+  "name": "KABA-KABA",
+  "postalCode": "82121"
  },
  {
   "id": 5102040007,
   "districtId": 5102040,
-  "name": "PANDAK GEDE"
+  "districtName": "KEDIRI",
+  "name": "PANDAK GEDE",
+  "postalCode": "82121"
  },
  {
   "id": 5102040009,
   "districtId": 5102040,
-  "name": "PEJATEN"
+  "districtName": "KEDIRI",
+  "name": "PEJATEN",
+  "postalCode": "41356"
  },
  {
   "id": 5102040010,
   "districtId": 5102040,
-  "name": "NYITDAH"
+  "districtName": "KEDIRI",
+  "name": "NYITDAH",
+  "postalCode": "82121"
  },
  {
   "id": 5102040011,
   "districtId": 5102040,
-  "name": "PANDAK BANDUNG"
+  "districtName": "KEDIRI",
+  "name": "PANDAK BANDUNG",
+  "postalCode": "82121"
  },
  {
   "id": 5102040012,
   "districtId": 5102040,
-  "name": "NYAMBU"
+  "districtName": "KEDIRI",
+  "name": "NYAMBU",
+  "postalCode": "82121"
  },
  {
   "id": 5102040013,
   "districtId": 5102040,
-  "name": "KEDIRI"
+  "districtName": "KEDIRI",
+  "name": "KEDIRI",
+  "postalCode": "35372"
  },
  {
   "id": 5102040014,
   "districtId": 5102040,
-  "name": "ABIAN TUWUNG"
+  "districtName": "KEDIRI",
+  "name": "ABIAN TUWUNG",
+  "postalCode": "82121"
  },
  {
   "id": 5102040015,
   "districtId": 5102040,
-  "name": "BANJAR ANYAR"
+  "districtName": "KEDIRI",
+  "name": "BANJAR ANYAR",
+  "postalCode": "52464"
  }
 ]

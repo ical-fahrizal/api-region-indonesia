@@ -2,51 +2,71 @@
  {
   "id": 5302020001,
   "districtId": 5302020,
-  "name": "TARIMBANG"
+  "districtName": "TABUNDUNG",
+  "name": "TARIMBANG",
+  "postalCode": "87161"
  },
  {
   "id": 5302020002,
   "districtId": 5302020,
-  "name": "TAPIL"
+  "districtName": "TABUNDUNG",
+  "name": "TAPIL",
+  "postalCode": "87161"
  },
  {
   "id": 5302020003,
   "districtId": 5302020,
-  "name": "BILLA"
+  "districtName": "TABUNDUNG",
+  "name": "BILLA",
+  "postalCode": "85572"
  },
  {
   "id": 5302020004,
   "districtId": 5302020,
-  "name": "PRAING KAREHA"
+  "districtName": "TABUNDUNG",
+  "name": "PRAING KAREHA",
+  "postalCode": "87161"
  },
  {
   "id": 5302020010,
   "districtId": 5302020,
-  "name": "WAIKANABU"
+  "districtName": "TABUNDUNG",
+  "name": "WAIKANABU",
+  "postalCode": "87161"
  },
  {
   "id": 5302020011,
   "districtId": 5302020,
-  "name": "KARITA"
+  "districtName": "TABUNDUNG",
+  "name": "KARITA",
+  "postalCode": "87161"
  },
  {
   "id": 5302020013,
   "districtId": 5302020,
-  "name": "WUDI PANDAK"
+  "districtName": "TABUNDUNG",
+  "name": "WUDI PANDAK",
+  "postalCode": "87161"
  },
  {
   "id": 5302020014,
   "districtId": 5302020,
-  "name": "PINDU HURANI"
+  "districtName": "TABUNDUNG",
+  "name": "PINDU HURANI",
+  "postalCode": ""
  },
  {
   "id": 5302020015,
   "districtId": 5302020,
-  "name": "KUKI TALU"
+  "districtName": "TABUNDUNG",
+  "name": "KUKI TALU",
+  "postalCode": "87161"
  },
  {
   "id": 5302020016,
   "districtId": 5302020,
-  "name": "BANGGA WATU"
+  "districtName": "TABUNDUNG",
+  "name": "BANGGA WATU",
+  "postalCode": "87161"
  }
 ]

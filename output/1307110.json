@@ -2,21 +2,29 @@
  {
   "id": 1307110001,
   "districtId": 1307110,
-  "name": "KOTO RANTANG"
+  "districtName": "PALUPUH",
+  "name": "KOTO RANTANG",
+  "postalCode": "26151"
  },
  {
   "id": 1307110002,
   "districtId": 1307110,
-  "name": "PASIA LAWEH"
+  "districtName": "PALUPUH",
+  "name": "PASIA LAWEH",
+  "postalCode": "26151"
  },
  {
   "id": 1307110003,
   "districtId": 1307110,
-  "name": "PAGADIH"
+  "districtName": "PALUPUH",
+  "name": "PAGADIH",
+  "postalCode": "26151"
  },
  {
   "id": 1307110004,
   "districtId": 1307110,
-  "name": "NAN TUJUAH"
+  "districtName": "PALUPUH",
+  "name": "NAN TUJUAH",
+  "postalCode": "26151"
  }
 ]

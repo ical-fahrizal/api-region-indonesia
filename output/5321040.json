@@ -2,86 +2,120 @@
  {
   "id": 5321040001,
   "districtId": 5321040,
-  "name": "SAENAMA"
+  "districtName": "RINHAT",
+  "name": "SAENAMA",
+  "postalCode": "85764"
  },
  {
   "id": 5321040002,
   "districtId": 5321040,
-  "name": "RAISAMANE"
+  "districtName": "RINHAT",
+  "name": "RAISAMANE",
+  "postalCode": "85764"
  },
  {
   "id": 5321040003,
   "districtId": 5321040,
-  "name": "WEKMIDAR"
+  "districtName": "RINHAT",
+  "name": "WEKMIDAR",
+  "postalCode": "85764"
  },
  {
   "id": 5321040005,
   "districtId": 5321040,
-  "name": "LOTAS"
+  "districtName": "RINHAT",
+  "name": "LOTAS",
+  "postalCode": "85574"
  },
  {
   "id": 5321040006,
   "districtId": 5321040,
-  "name": "NAIUSU"
+  "districtName": "RINHAT",
+  "name": "NAIUSU",
+  "postalCode": "85764"
  },
  {
   "id": 5321040007,
   "districtId": 5321040,
-  "name": "NANIN"
+  "districtName": "RINHAT",
+  "name": "NANIN",
+  "postalCode": "85764"
  },
  {
   "id": 5321040009,
   "districtId": 5321040,
-  "name": "WEAIN"
+  "districtName": "RINHAT",
+  "name": "WEAIN",
+  "postalCode": "85764"
  },
  {
   "id": 5321040010,
   "districtId": 5321040,
-  "name": "BIUDUKFOHO"
+  "districtName": "RINHAT",
+  "name": "BIUDUKFOHO",
+  "postalCode": "85764"
  },
  {
   "id": 5321040011,
   "districtId": 5321040,
-  "name": "NABUTAEK"
+  "districtName": "RINHAT",
+  "name": "NABUTAEK",
+  "postalCode": "85764"
  },
  {
   "id": 5321040012,
   "districtId": 5321040,
-  "name": "NITI"
+  "districtName": "RINHAT",
+  "name": "NITI",
+  "postalCode": "85574"
  },
  {
   "id": 5321040013,
   "districtId": 5321040,
-  "name": "TAFULI I"
+  "districtName": "RINHAT",
+  "name": "TAFULI I",
+  "postalCode": "85764"
  },
  {
   "id": 5321040014,
   "districtId": 5321040,
-  "name": "B O E N"
+  "districtName": "RINHAT",
+  "name": "B O E N",
+  "postalCode": ""
  },
  {
   "id": 5321040016,
   "districtId": 5321040,
-  "name": "TAFULI"
+  "districtName": "RINHAT",
+  "name": "TAFULI",
+  "postalCode": ""
  },
  {
   "id": 5321040017,
   "districtId": 5321040,
-  "name": "N A E  T"
+  "districtName": "RINHAT",
+  "name": "N A E  T",
+  "postalCode": ""
  },
  {
   "id": 5321040018,
   "districtId": 5321040,
-  "name": "WEKMURAK"
+  "districtName": "RINHAT",
+  "name": "WEKMURAK",
+  "postalCode": ""
  },
  {
   "id": 5321040019,
   "districtId": 5321040,
-  "name": "ALALA"
+  "districtName": "RINHAT",
+  "name": "ALALA",
+  "postalCode": "85764"
  },
  {
   "id": 5321040020,
   "districtId": 5321040,
-  "name": "NANEBOT"
+  "districtName": "RINHAT",
+  "name": "NANEBOT",
+  "postalCode": "85764"
  }
 ]

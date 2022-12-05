@@ -2,66 +2,92 @@
  {
   "id": 3302120001,
   "districtId": 3302120,
-  "name": "SAWANGAN WETAN"
+  "districtName": "PATIKRAJA",
+  "name": "SAWANGAN WETAN",
+  "postalCode": "53171"
  },
  {
   "id": 3302120002,
   "districtId": 3302120,
-  "name": "KARANGENDEP"
+  "districtName": "PATIKRAJA",
+  "name": "KARANGENDEP",
+  "postalCode": "53171"
  },
  {
   "id": 3302120003,
   "districtId": 3302120,
-  "name": "NOTOG"
+  "districtName": "PATIKRAJA",
+  "name": "NOTOG",
+  "postalCode": "53171"
  },
  {
   "id": 3302120004,
   "districtId": 3302120,
-  "name": "PATIKRAJA"
+  "districtName": "PATIKRAJA",
+  "name": "PATIKRAJA",
+  "postalCode": "53171"
  },
  {
   "id": 3302120005,
   "districtId": 3302120,
-  "name": "PEGALONGAN"
+  "districtName": "PATIKRAJA",
+  "name": "PEGALONGAN",
+  "postalCode": "53171"
  },
  {
   "id": 3302120006,
   "districtId": 3302120,
-  "name": "SOKAWERA KIDUL"
+  "districtName": "PATIKRAJA",
+  "name": "SOKAWERA KIDUL",
+  "postalCode": "53171"
  },
  {
   "id": 3302120007,
   "districtId": 3302120,
-  "name": "WLAHAR KULON"
+  "districtName": "PATIKRAJA",
+  "name": "WLAHAR KULON",
+  "postalCode": "53171"
  },
  {
   "id": 3302120008,
   "districtId": 3302120,
-  "name": "KEDUNGRANDU"
+  "districtName": "PATIKRAJA",
+  "name": "KEDUNGRANDU",
+  "postalCode": "53171"
  },
  {
   "id": 3302120009,
   "districtId": 3302120,
-  "name": "KEDUNGWULUH KIDUL"
+  "districtName": "PATIKRAJA",
+  "name": "KEDUNGWULUH KIDUL",
+  "postalCode": "53171"
  },
  {
   "id": 3302120010,
   "districtId": 3302120,
-  "name": "KEDUNGWULUH LOR"
+  "districtName": "PATIKRAJA",
+  "name": "KEDUNGWULUH LOR",
+  "postalCode": "53171"
  },
  {
   "id": 3302120011,
   "districtId": 3302120,
-  "name": "KARANGANYAR"
+  "districtName": "PATIKRAJA",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  },
  {
   "id": 3302120012,
   "districtId": 3302120,
-  "name": "SIDABOWA"
+  "districtName": "PATIKRAJA",
+  "name": "SIDABOWA",
+  "postalCode": "53171"
  },
  {
   "id": 3302120013,
   "districtId": 3302120,
-  "name": "KEDUNGWRINGIN"
+  "districtName": "PATIKRAJA",
+  "name": "KEDUNGWRINGIN",
+  "postalCode": "53174"
  }
 ]

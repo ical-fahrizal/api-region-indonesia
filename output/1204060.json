@@ -2,106 +2,148 @@
  {
   "id": 1204060002,
   "districtId": 1204060,
-  "name": "BOTOT"
+  "districtName": "SORKAM",
+  "name": "BOTOT",
+  "postalCode": "22563"
  },
  {
   "id": 1204060003,
   "districtId": 1204060,
-  "name": "SORKAM"
+  "districtName": "SORKAM",
+  "name": "SORKAM",
+  "postalCode": "22563"
  },
  {
   "id": 1204060004,
   "districtId": 1204060,
-  "name": "PARGARUTAN"
+  "districtName": "SORKAM",
+  "name": "PARGARUTAN",
+  "postalCode": "22742"
  },
  {
   "id": 1204060005,
   "districtId": 1204060,
-  "name": "TARUTUNG BOLAK"
+  "districtName": "SORKAM",
+  "name": "TARUTUNG BOLAK",
+  "postalCode": "22756"
  },
  {
   "id": 1204060006,
   "districtId": 1204060,
-  "name": "GONTING MAHE"
+  "districtName": "SORKAM",
+  "name": "GONTING MAHE",
+  "postalCode": "22563"
  },
  {
   "id": 1204060009,
   "districtId": 1204060,
-  "name": "PARDAMEAN"
+  "districtName": "SORKAM",
+  "name": "PARDAMEAN",
+  "postalCode": "24673"
  },
  {
   "id": 1204060010,
   "districtId": 1204060,
-  "name": "PELITA"
+  "districtName": "SORKAM",
+  "name": "PELITA",
+  "postalCode": "20621"
  },
  {
   "id": 1204060011,
   "districtId": 1204060,
-  "name": "FAJAR"
+  "districtName": "SORKAM",
+  "name": "FAJAR",
+  "postalCode": "22563"
  },
  {
   "id": 1204060012,
   "districtId": 1204060,
-  "name": "PEARAJA"
+  "districtName": "SORKAM",
+  "name": "PEARAJA",
+  "postalCode": "22563"
  },
  {
   "id": 1204060013,
   "districtId": 1204060,
-  "name": "NAI POS POS BARAT"
+  "districtName": "SORKAM",
+  "name": "NAI POS POS BARAT",
+  "postalCode": "22563"
  },
  {
   "id": 1204060021,
   "districtId": 1204060,
-  "name": "RIANIATE"
+  "districtName": "SORKAM",
+  "name": "RIANIATE",
+  "postalCode": "22735"
  },
  {
   "id": 1204060023,
   "districtId": 1204060,
-  "name": "DOLOK PANTIS"
+  "districtName": "SORKAM",
+  "name": "DOLOK PANTIS",
+  "postalCode": "22563"
  },
  {
   "id": 1204060024,
   "districtId": 1204060,
-  "name": "TELUK ROBAN"
+  "districtName": "SORKAM",
+  "name": "TELUK ROBAN",
+  "postalCode": "22563"
  },
  {
   "id": 1204060025,
   "districtId": 1204060,
-  "name": "SORKAM KIRI"
+  "districtName": "SORKAM",
+  "name": "SORKAM KIRI",
+  "postalCode": ""
  },
  {
   "id": 1204060026,
   "districtId": 1204060,
-  "name": "SORKAM TENGAH"
+  "districtName": "SORKAM",
+  "name": "SORKAM TENGAH",
+  "postalCode": ""
  },
  {
   "id": 1204060027,
   "districtId": 1204060,
-  "name": "HITE URAT"
+  "districtName": "SORKAM",
+  "name": "HITE URAT",
+  "postalCode": ""
  },
  {
   "id": 1204060028,
   "districtId": 1204060,
-  "name": "PAGARAN JULU"
+  "districtName": "SORKAM",
+  "name": "PAGARAN JULU",
+  "postalCode": ""
  },
  {
   "id": 1204060029,
   "districtId": 1204060,
-  "name": "PANANGGAHAN"
+  "districtName": "SORKAM",
+  "name": "PANANGGAHAN",
+  "postalCode": "22564"
  },
  {
   "id": 1204060030,
   "districtId": 1204060,
-  "name": "SIHAPAS"
+  "districtName": "SORKAM",
+  "name": "SIHAPAS",
+  "postalCode": "22654"
  },
  {
   "id": 1204060031,
   "districtId": 1204060,
-  "name": "NAULI"
+  "districtName": "SORKAM",
+  "name": "NAULI",
+  "postalCode": "22381"
  },
  {
   "id": 1204060032,
   "districtId": 1204060,
-  "name": "MUARA NAULI"
+  "districtName": "SORKAM",
+  "name": "MUARA NAULI",
+  "postalCode": "22773"
  }
 ]

@@ -2,86 +2,120 @@
  {
   "id": 3321130002,
   "districtId": 3321130,
-  "name": "NGAWEN"
+  "districtName": "WEDUNG",
+  "name": "NGAWEN",
+  "postalCode": "59157"
  },
  {
   "id": 3321130003,
   "districtId": 3321130,
-  "name": "RUWIT"
+  "districtName": "WEDUNG",
+  "name": "RUWIT",
+  "postalCode": "59554"
  },
  {
   "id": 3321130005,
   "districtId": 3321130,
-  "name": "BUKO"
+  "districtName": "WEDUNG",
+  "name": "BUKO",
+  "postalCode": "59554"
  },
  {
   "id": 3321130006,
   "districtId": 3321130,
-  "name": "MANDUNG"
+  "districtName": "WEDUNG",
+  "name": "MANDUNG",
+  "postalCode": "59554"
  },
  {
   "id": 3321130007,
   "districtId": 3321130,
-  "name": "BERAHAN KULON"
+  "districtName": "WEDUNG",
+  "name": "BERAHAN KULON",
+  "postalCode": "59554"
  },
  {
   "id": 3321130008,
   "districtId": 3321130,
-  "name": "BERAHAN WETAN"
+  "districtName": "WEDUNG",
+  "name": "BERAHAN WETAN",
+  "postalCode": "59554"
  },
  {
   "id": 3321130009,
   "districtId": 3321130,
-  "name": "BUNGO"
+  "districtName": "WEDUNG",
+  "name": "BUNGO",
+  "postalCode": "24162"
  },
  {
   "id": 3321130011,
   "districtId": 3321130,
-  "name": "JETAK"
+  "districtName": "WEDUNG",
+  "name": "JETAK",
+  "postalCode": "50774"
  },
  {
   "id": 3321130012,
   "districtId": 3321130,
-  "name": "JUNGSEMI"
+  "districtName": "WEDUNG",
+  "name": "JUNGSEMI",
+  "postalCode": "51353"
  },
  {
   "id": 3321130013,
   "districtId": 3321130,
-  "name": "JUNGPASIR"
+  "districtName": "WEDUNG",
+  "name": "JUNGPASIR",
+  "postalCode": "59554"
  },
  {
   "id": 3321130014,
   "districtId": 3321130,
-  "name": "MUTIH WETAN"
+  "districtName": "WEDUNG",
+  "name": "MUTIH WETAN",
+  "postalCode": "59554"
  },
  {
   "id": 3321130015,
   "districtId": 3321130,
-  "name": "MUTIH KULON"
+  "districtName": "WEDUNG",
+  "name": "MUTIH KULON",
+  "postalCode": "59554"
  },
  {
   "id": 3321130016,
   "districtId": 3321130,
-  "name": "TEDUNAN"
+  "districtName": "WEDUNG",
+  "name": "TEDUNAN",
+  "postalCode": "38875"
  },
  {
   "id": 3321130017,
   "districtId": 3321130,
-  "name": "KENDALASEM"
+  "districtName": "WEDUNG",
+  "name": "KENDALASEM",
+  "postalCode": "59554"
  },
  {
   "id": 3321130018,
   "districtId": 3321130,
-  "name": "KEDUNGKARANG"
+  "districtName": "WEDUNG",
+  "name": "KEDUNGKARANG",
+  "postalCode": "59554"
  },
  {
   "id": 3321130019,
   "districtId": 3321130,
-  "name": "KEDUNGMUTIH"
+  "districtName": "WEDUNG",
+  "name": "KEDUNGMUTIH",
+  "postalCode": "59554"
  },
  {
   "id": 3321130020,
   "districtId": 3321130,
-  "name": "BABALAN"
+  "districtName": "WEDUNG",
+  "name": "BABALAN",
+  "postalCode": "59173"
  }
 ]

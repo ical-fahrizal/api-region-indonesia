@@ -2,36 +2,50 @@
  {
   "id": 7208011001,
   "districtId": 7208011,
-  "name": "TOLAI"
+  "districtName": "TORUE",
+  "name": "TOLAI",
+  "postalCode": "94473"
  },
  {
   "id": 7208011002,
   "districtId": 7208011,
-  "name": "PURWOSARI"
+  "districtName": "TORUE",
+  "name": "PURWOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 7208011003,
   "districtId": 7208011,
-  "name": "TORUE"
+  "districtName": "TORUE",
+  "name": "TORUE",
+  "postalCode": "94473"
  },
  {
   "id": 7208011004,
   "districtId": 7208011,
-  "name": "ASTINA"
+  "districtName": "TORUE",
+  "name": "ASTINA",
+  "postalCode": "81112"
  },
  {
   "id": 7208011005,
   "districtId": 7208011,
-  "name": "TANAH LANTO"
+  "districtName": "TORUE",
+  "name": "TANAH LANTO",
+  "postalCode": "94473"
  },
  {
   "id": 7208011006,
   "districtId": 7208011,
-  "name": "TOLAI BARAT"
+  "districtName": "TORUE",
+  "name": "TOLAI BARAT",
+  "postalCode": "94473"
  },
  {
   "id": 7208011007,
   "districtId": 7208011,
-  "name": "TOLAI TIMUR"
+  "districtName": "TORUE",
+  "name": "TOLAI TIMUR",
+  "postalCode": "94473"
  }
 ]

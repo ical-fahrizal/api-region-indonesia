@@ -2,86 +2,120 @@
  {
   "id": 1804030001,
   "districtId": 1804030,
-  "name": "SIDOMUKTI"
+  "districtName": "SEKAMPUNG",
+  "name": "SIDOMUKTI",
+  "postalCode": "21217"
  },
  {
   "id": 1804030002,
   "districtId": 1804030,
-  "name": "KARYA MUKTI"
+  "districtName": "SEKAMPUNG",
+  "name": "KARYA MUKTI",
+  "postalCode": "28953"
  },
  {
   "id": 1804030003,
   "districtId": 1804030,
-  "name": "SIDOMULYO"
+  "districtName": "SEKAMPUNG",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  },
  {
   "id": 1804030004,
   "districtId": 1804030,
-  "name": "SIDODADI"
+  "districtName": "SEKAMPUNG",
+  "name": "SIDODADI",
+  "postalCode": "24582"
  },
  {
   "id": 1804030005,
   "districtId": 1804030,
-  "name": "TRIMULYO"
+  "districtName": "SEKAMPUNG",
+  "name": "TRIMULYO",
+  "postalCode": "34871"
  },
  {
   "id": 1804030006,
   "districtId": 1804030,
-  "name": "GIRIKARTO"
+  "districtName": "SEKAMPUNG",
+  "name": "GIRIKARTO",
+  "postalCode": "34382"
  },
  {
   "id": 1804030007,
   "districtId": 1804030,
-  "name": "HARGOMULYO"
+  "districtName": "SEKAMPUNG",
+  "name": "HARGOMULYO",
+  "postalCode": "34382"
  },
  {
   "id": 1804030008,
   "districtId": 1804030,
-  "name": "WONOKARTO"
+  "districtName": "SEKAMPUNG",
+  "name": "WONOKARTO",
+  "postalCode": "34382"
  },
  {
   "id": 1804030009,
   "districtId": 1804030,
-  "name": "SUKO HARJO"
+  "districtName": "SEKAMPUNG",
+  "name": "SUKO HARJO",
+  "postalCode": "34382"
  },
  {
   "id": 1804030010,
   "districtId": 1804030,
-  "name": "GIRI KELOPO MULYO"
+  "districtName": "SEKAMPUNG",
+  "name": "GIRI KELOPO MULYO",
+  "postalCode": ""
  },
  {
   "id": 1804030011,
   "districtId": 1804030,
-  "name": "SUMBER GEDE"
+  "districtName": "SEKAMPUNG",
+  "name": "SUMBER GEDE",
+  "postalCode": "34382"
  },
  {
   "id": 1804030012,
   "districtId": 1804030,
-  "name": "SAMBIKARTO"
+  "districtName": "SEKAMPUNG",
+  "name": "SAMBIKARTO",
+  "postalCode": "34382"
  },
  {
   "id": 1804030013,
   "districtId": 1804030,
-  "name": "SUMBERSARI"
+  "districtName": "SEKAMPUNG",
+  "name": "SUMBERSARI",
+  "postalCode": "34122"
  },
  {
   "id": 1804030014,
   "districtId": 1804030,
-  "name": "MEKAR MULYA"
+  "districtName": "SEKAMPUNG",
+  "name": "MEKAR MULYA",
+  "postalCode": "38768"
  },
  {
   "id": 1804030015,
   "districtId": 1804030,
-  "name": "MEKAR MUKTI"
+  "districtName": "SEKAMPUNG",
+  "name": "MEKAR MUKTI",
+  "postalCode": "30974"
  },
  {
   "id": 1804030016,
   "districtId": 1804030,
-  "name": "JADI MULYO"
+  "districtName": "SEKAMPUNG",
+  "name": "JADI MULYO",
+  "postalCode": ""
  },
  {
   "id": 1804030017,
   "districtId": 1804030,
-  "name": "MEKAR SARI"
+  "districtName": "SEKAMPUNG",
+  "name": "MEKAR SARI",
+  "postalCode": "21261"
  }
 ]

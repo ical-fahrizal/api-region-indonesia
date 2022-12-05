@@ -2,111 +2,155 @@
  {
   "id": 7501050004,
   "districtId": 7501050,
-  "name": "TANGKOBU"
+  "districtName": "PAGUYAMAN",
+  "name": "TANGKOBU",
+  "postalCode": "96261"
  },
  {
   "id": 7501050005,
   "districtId": 7501050,
-  "name": "MOLOMBULAHE"
+  "districtName": "PAGUYAMAN",
+  "name": "MOLOMBULAHE",
+  "postalCode": "96261"
  },
  {
   "id": 7501050006,
   "districtId": 7501050,
-  "name": "WONGGAHU"
+  "districtName": "PAGUYAMAN",
+  "name": "WONGGAHU",
+  "postalCode": "96261"
  },
  {
   "id": 7501050007,
   "districtId": 7501050,
-  "name": "SARIPI"
+  "districtName": "PAGUYAMAN",
+  "name": "SARIPI",
+  "postalCode": "96261"
  },
  {
   "id": 7501050008,
   "districtId": 7501050,
-  "name": "BONGO NOL"
+  "districtName": "PAGUYAMAN",
+  "name": "BONGO NOL",
+  "postalCode": "96261"
  },
  {
   "id": 7501050009,
   "districtId": 7501050,
-  "name": "SUMBER JAYA"
+  "districtName": "PAGUYAMAN",
+  "name": "SUMBER JAYA",
+  "postalCode": "24553"
  },
  {
   "id": 7501050011,
   "districtId": 7501050,
-  "name": "MUTIARA"
+  "districtName": "PAGUYAMAN",
+  "name": "MUTIARA",
+  "postalCode": "24582"
  },
  {
   "id": 7501050017,
   "districtId": 7501050,
-  "name": "KARYA MURNI"
+  "districtName": "PAGUYAMAN",
+  "name": "KARYA MURNI",
+  "postalCode": "96261"
  },
  {
   "id": 7501050018,
   "districtId": 7501050,
-  "name": "GIRISA"
+  "districtName": "PAGUYAMAN",
+  "name": "GIRISA",
+  "postalCode": "96261"
  },
  {
   "id": 7501050021,
   "districtId": 7501050,
-  "name": "KUALA LUMPUR"
+  "districtName": "PAGUYAMAN",
+  "name": "KUALA LUMPUR",
+  "postalCode": ""
  },
  {
   "id": 7501050022,
   "districtId": 7501050,
-  "name": "TENILO"
+  "districtName": "PAGUYAMAN",
+  "name": "TENILO",
+  "postalCode": "96133"
  },
  {
   "id": 7501050023,
   "districtId": 7501050,
-  "name": "MUSTIKA"
+  "districtName": "PAGUYAMAN",
+  "name": "MUSTIKA",
+  "postalCode": "72272"
  },
  {
   "id": 7501050024,
   "districtId": 7501050,
-  "name": "HUWONGO"
+  "districtName": "PAGUYAMAN",
+  "name": "HUWONGO",
+  "postalCode": "96272"
  },
  {
   "id": 7501050025,
   "districtId": 7501050,
-  "name": "BONGO TUA"
+  "districtName": "PAGUYAMAN",
+  "name": "BONGO TUA",
+  "postalCode": "96261"
  },
  {
   "id": 7501050026,
   "districtId": 7501050,
-  "name": "REJONEGORO"
+  "districtName": "PAGUYAMAN",
+  "name": "REJONEGORO",
+  "postalCode": "96261"
  },
  {
   "id": 7501050027,
   "districtId": 7501050,
-  "name": "BALATE JAYA"
+  "districtName": "PAGUYAMAN",
+  "name": "BALATE JAYA",
+  "postalCode": "96261"
  },
  {
   "id": 7501050028,
   "districtId": 7501050,
-  "name": "HULAWA"
+  "districtName": "PAGUYAMAN",
+  "name": "HULAWA",
+  "postalCode": "96266"
  },
  {
   "id": 7501050029,
   "districtId": 7501050,
-  "name": "DILOATO"
+  "districtName": "PAGUYAMAN",
+  "name": "DILOATO",
+  "postalCode": "96261"
  },
  {
   "id": 7501050030,
   "districtId": 7501050,
-  "name": "PERMATA"
+  "districtName": "PAGUYAMAN",
+  "name": "PERMATA",
+  "postalCode": "78392"
  },
  {
   "id": 7501050031,
   "districtId": 7501050,
-  "name": "BATU KRAMAT"
+  "districtName": "PAGUYAMAN",
+  "name": "BATU KRAMAT",
+  "postalCode": ""
  },
  {
   "id": 7501050032,
   "districtId": 7501050,
-  "name": "SOSIAL"
+  "districtName": "PAGUYAMAN",
+  "name": "SOSIAL",
+  "postalCode": "24582"
  },
  {
   "id": 7501050033,
   "districtId": 7501050,
-  "name": "BUALO"
+  "districtName": "PAGUYAMAN",
+  "name": "BUALO",
+  "postalCode": "96524"
  }
 ]

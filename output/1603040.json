@@ -2,36 +2,50 @@
  {
   "id": 1603040001,
   "districtId": 1603040,
-  "name": "DARMO"
+  "districtName": "LAWANG KIDUL",
+  "name": "DARMO",
+  "postalCode": "31419"
  },
  {
   "id": 1603040002,
   "districtId": 1603040,
-  "name": "KEBAN AGUNG"
+  "districtName": "LAWANG KIDUL",
+  "name": "KEBAN AGUNG",
+  "postalCode": "31452"
  },
  {
   "id": 1603040003,
   "districtId": 1603040,
-  "name": "TANJUNG ENIM SELATAN"
+  "districtName": "LAWANG KIDUL",
+  "name": "TANJUNG ENIM SELATAN",
+  "postalCode": "31711"
  },
  {
   "id": 1603040004,
   "districtId": 1603040,
-  "name": "TANJUNG ENIM"
+  "districtName": "LAWANG KIDUL",
+  "name": "TANJUNG ENIM",
+  "postalCode": "31711"
  },
  {
   "id": 1603040005,
   "districtId": 1603040,
-  "name": "PASAR TANJUNG ENIM"
+  "districtName": "LAWANG KIDUL",
+  "name": "PASAR TANJUNG ENIM",
+  "postalCode": "31712"
  },
  {
   "id": 1603040006,
   "districtId": 1603040,
-  "name": "TEGAL REJO"
+  "districtName": "LAWANG KIDUL",
+  "name": "TEGAL REJO",
+  "postalCode": "20237"
  },
  {
   "id": 1603040007,
   "districtId": 1603040,
-  "name": "LINGGA"
+  "districtName": "LAWANG KIDUL",
+  "name": "LINGGA",
+  "postalCode": "21174"
  }
 ]

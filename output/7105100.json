@@ -2,91 +2,127 @@
  {
   "id": 7105100011,
   "districtId": 7105100,
-  "name": "BOYONG ATAS"
+  "districtName": "TENGA",
+  "name": "BOYONG ATAS",
+  "postalCode": "95355"
  },
  {
   "id": 7105100012,
   "districtId": 7105100,
-  "name": "PAKUURE III"
+  "districtName": "TENGA",
+  "name": "PAKUURE III",
+  "postalCode": ""
  },
  {
   "id": 7105100013,
   "districtId": 7105100,
-  "name": "PAKUURE II"
+  "districtName": "TENGA",
+  "name": "PAKUURE II",
+  "postalCode": ""
  },
  {
   "id": 7105100014,
   "districtId": 7105100,
-  "name": "PAKUURE I"
+  "districtName": "TENGA",
+  "name": "PAKUURE I",
+  "postalCode": ""
  },
  {
   "id": 7105100015,
   "districtId": 7105100,
-  "name": "SAPA"
+  "districtName": "TENGA",
+  "name": "SAPA",
+  "postalCode": "95355"
  },
  {
   "id": 7105100016,
   "districtId": 7105100,
-  "name": "PAKUWERU"
+  "districtName": "TENGA",
+  "name": "PAKUWERU",
+  "postalCode": "95355"
  },
  {
   "id": 7105100017,
   "districtId": 7105100,
-  "name": "TENGA"
+  "districtName": "TENGA",
+  "name": "TENGA",
+  "postalCode": "84171"
  },
  {
   "id": 7105100018,
   "districtId": 7105100,
-  "name": "RADEY"
+  "districtName": "TENGA",
+  "name": "RADEY",
+  "postalCode": "95355"
  },
  {
   "id": 7105100019,
   "districtId": 7105100,
-  "name": "TAWAANG"
+  "districtName": "TENGA",
+  "name": "TAWAANG",
+  "postalCode": "95355"
  },
  {
   "id": 7105100024,
   "districtId": 7105100,
-  "name": "MOLINOW"
+  "districtName": "TENGA",
+  "name": "MOLINOW",
+  "postalCode": "95716"
  },
  {
   "id": 7105100025,
   "districtId": 7105100,
-  "name": "PAKUURE TINANIAN"
+  "districtName": "TENGA",
+  "name": "PAKUURE TINANIAN",
+  "postalCode": "95355"
  },
  {
   "id": 7105100026,
   "districtId": 7105100,
-  "name": "PAKUURE KINAMANG"
+  "districtName": "TENGA",
+  "name": "PAKUURE KINAMANG",
+  "postalCode": "95355"
  },
  {
   "id": 7105100027,
   "districtId": 7105100,
-  "name": "PAKUURE"
+  "districtName": "TENGA",
+  "name": "PAKUURE",
+  "postalCode": "95355"
  },
  {
   "id": 7105100028,
   "districtId": 7105100,
-  "name": "PAKUWERU UTARA"
+  "districtName": "TENGA",
+  "name": "PAKUWERU UTARA",
+  "postalCode": "95355"
  },
  {
   "id": 7105100029,
   "districtId": 7105100,
-  "name": "SAPA BARAT"
+  "districtName": "TENGA",
+  "name": "SAPA BARAT",
+  "postalCode": "95355"
  },
  {
   "id": 7105100030,
   "districtId": 7105100,
-  "name": "SAPA TIMUR"
+  "districtName": "TENGA",
+  "name": "SAPA TIMUR",
+  "postalCode": "95355"
  },
  {
   "id": 7105100031,
   "districtId": 7105100,
-  "name": "TAWAANG TIMUR"
+  "districtName": "TENGA",
+  "name": "TAWAANG TIMUR",
+  "postalCode": ""
  },
  {
   "id": 7105100032,
   "districtId": 7105100,
-  "name": "TAWAANG BARAT"
+  "districtName": "TENGA",
+  "name": "TAWAANG BARAT",
+  "postalCode": ""
  }
 ]

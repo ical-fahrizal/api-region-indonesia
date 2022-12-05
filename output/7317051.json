@@ -2,61 +2,85 @@
  {
   "id": 7317051001,
   "districtId": 7317051,
-  "name": "LAMBANAN"
+  "districtName": "LATIMOJONG",
+  "name": "LAMBANAN",
+  "postalCode": "91921"
  },
  {
   "id": 7317051002,
   "districtId": 7317051,
-  "name": "BUNTU SAREK"
+  "districtName": "LATIMOJONG",
+  "name": "BUNTU SAREK",
+  "postalCode": "91921"
  },
  {
   "id": 7317051003,
   "districtId": 7317051,
-  "name": "PAJANG"
+  "districtName": "LATIMOJONG",
+  "name": "PAJANG",
+  "postalCode": "57146"
  },
  {
   "id": 7317051004,
   "districtId": 7317051,
-  "name": "KADUNDUNG"
+  "districtName": "LATIMOJONG",
+  "name": "KADUNDUNG",
+  "postalCode": "71362"
  },
  {
   "id": 7317051005,
   "districtId": 7317051,
-  "name": "TOBARU"
+  "districtName": "LATIMOJONG",
+  "name": "TOBARU",
+  "postalCode": "91921"
  },
  {
   "id": 7317051006,
   "districtId": 7317051,
-  "name": "ULUSALU"
+  "districtName": "LATIMOJONG",
+  "name": "ULUSALU",
+  "postalCode": "91921"
  },
  {
   "id": 7317051007,
   "districtId": 7317051,
-  "name": "BONEPOSI"
+  "districtName": "LATIMOJONG",
+  "name": "BONEPOSI",
+  "postalCode": "91921"
  },
  {
   "id": 7317051008,
   "districtId": 7317051,
-  "name": "RANTE BALLA"
+  "districtName": "LATIMOJONG",
+  "name": "RANTE BALLA",
+  "postalCode": ""
  },
  {
   "id": 7317051009,
   "districtId": 7317051,
-  "name": "PANGI"
+  "districtName": "LATIMOJONG",
+  "name": "PANGI",
+  "postalCode": "24783"
  },
  {
   "id": 7317051010,
   "districtId": 7317051,
-  "name": "TABANG"
+  "districtName": "LATIMOJONG",
+  "name": "TABANG",
+  "postalCode": "95717"
  },
  {
   "id": 7317051011,
   "districtId": 7317051,
-  "name": "TIBUSSAN"
+  "districtName": "LATIMOJONG",
+  "name": "TIBUSSAN",
+  "postalCode": "91921"
  },
  {
   "id": 7317051012,
   "districtId": 7317051,
-  "name": "TOLAJUK"
+  "districtName": "LATIMOJONG",
+  "name": "TOLAJUK",
+  "postalCode": ""
  }
 ]

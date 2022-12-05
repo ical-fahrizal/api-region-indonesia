@@ -2,31 +2,43 @@
  {
   "id": 2105060001,
   "districtId": 2105060,
-  "name": "AIR ASUK"
+  "districtName": "SIANTAN TENGAH",
+  "name": "AIR ASUK",
+  "postalCode": "29783"
  },
  {
   "id": 2105060002,
   "districtId": 2105060,
-  "name": "AIR SENA"
+  "districtName": "SIANTAN TENGAH",
+  "name": "AIR SENA",
+  "postalCode": "29783"
  },
  {
   "id": 2105060003,
   "districtId": 2105060,
-  "name": "TELUK SIANTAN"
+  "districtName": "SIANTAN TENGAH",
+  "name": "TELUK SIANTAN",
+  "postalCode": "29783"
  },
  {
   "id": 2105060004,
   "districtId": 2105060,
-  "name": "LIUK"
+  "districtName": "SIANTAN TENGAH",
+  "name": "LIUK",
+  "postalCode": "29783"
  },
  {
   "id": 2105060005,
   "districtId": 2105060,
-  "name": "LIDI"
+  "districtName": "SIANTAN TENGAH",
+  "name": "LIDI",
+  "postalCode": "29783"
  },
  {
   "id": 2105060006,
   "districtId": 2105060,
-  "name": "TELUK SUNTING"
+  "districtName": "SIANTAN TENGAH",
+  "name": "TELUK SUNTING",
+  "postalCode": "29783"
  }
 ]

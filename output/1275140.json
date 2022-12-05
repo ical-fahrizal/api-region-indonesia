@@ -2,31 +2,43 @@
  {
   "id": 1275140001,
   "districtId": 1275140,
-  "name": "KESAWAN"
+  "districtName": "MEDAN BARAT",
+  "name": "KESAWAN",
+  "postalCode": "20111"
  },
  {
   "id": 1275140002,
   "districtId": 1275140,
-  "name": "SILALAS"
+  "districtName": "MEDAN BARAT",
+  "name": "SILALAS",
+  "postalCode": "20114"
  },
  {
   "id": 1275140003,
   "districtId": 1275140,
-  "name": "SEI AGUL"
+  "districtName": "MEDAN BARAT",
+  "name": "SEI AGUL",
+  "postalCode": "20117"
  },
  {
   "id": 1275140004,
   "districtId": 1275140,
-  "name": "KARANG BEROMBAK"
+  "districtName": "MEDAN BARAT",
+  "name": "KARANG BEROMBAK",
+  "postalCode": "20117"
  },
  {
   "id": 1275140005,
   "districtId": 1275140,
-  "name": "GLUGUR KOTA"
+  "districtName": "MEDAN BARAT",
+  "name": "GLUGUR KOTA",
+  "postalCode": "20115"
  },
  {
   "id": 1275140006,
   "districtId": 1275140,
-  "name": "PULO BRAYAN KOTA"
+  "districtName": "MEDAN BARAT",
+  "name": "PULO BRAYAN KOTA",
+  "postalCode": "20116"
  }
 ]

@@ -2,26 +2,36 @@
  {
   "id": 8202042001,
   "districtId": 8202042,
-  "name": "YEISOWO"
+  "districtName": "PATANI",
+  "name": "YEISOWO",
+  "postalCode": "97854"
  },
  {
   "id": 8202042002,
   "districtId": 8202042,
-  "name": "WAILEGI"
+  "districtName": "PATANI",
+  "name": "WAILEGI",
+  "postalCode": "97854"
  },
  {
   "id": 8202042005,
   "districtId": 8202042,
-  "name": "KIPAI"
+  "districtName": "PATANI",
+  "name": "KIPAI",
+  "postalCode": "97854"
  },
  {
   "id": 8202042010,
   "districtId": 8202042,
-  "name": "YONDELIU"
+  "districtName": "PATANI",
+  "name": "YONDELIU",
+  "postalCode": "97854"
  },
  {
   "id": 8202042011,
   "districtId": 8202042,
-  "name": "BAKA JAYA"
+  "districtName": "PATANI",
+  "name": "BAKA JAYA",
+  "postalCode": "97854"
  }
 ]

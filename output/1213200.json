@@ -2,56 +2,78 @@
  {
   "id": 1213200001,
   "districtId": 1213200,
-  "name": "PANGKALAN SIATA"
+  "districtName": "PANGKALAN SUSU",
+  "name": "PANGKALAN SIATA",
+  "postalCode": "20858"
  },
  {
   "id": 1213200002,
   "districtId": 1213200,
-  "name": "SEI MERAN"
+  "districtName": "PANGKALAN SUSU",
+  "name": "SEI MERAN",
+  "postalCode": ""
  },
  {
   "id": 1213200003,
   "districtId": 1213200,
-  "name": "ALUR CEMPEDAK"
+  "districtName": "PANGKALAN SUSU",
+  "name": "ALUR CEMPEDAK",
+  "postalCode": "20858"
  },
  {
   "id": 1213200004,
   "districtId": 1213200,
-  "name": "PAYA TAMPAK"
+  "districtName": "PANGKALAN SUSU",
+  "name": "PAYA TAMPAK",
+  "postalCode": "20858"
  },
  {
   "id": 1213200005,
   "districtId": 1213200,
-  "name": "SEI SIUR"
+  "districtName": "PANGKALAN SUSU",
+  "name": "SEI SIUR",
+  "postalCode": ""
  },
  {
   "id": 1213200006,
   "districtId": 1213200,
-  "name": "TANJUNG PASIR"
+  "districtName": "PANGKALAN SUSU",
+  "name": "TANJUNG PASIR",
+  "postalCode": "21457"
  },
  {
   "id": 1213200007,
   "districtId": 1213200,
-  "name": "PINTU AIR"
+  "districtName": "PANGKALAN SUSU",
+  "name": "PINTU AIR",
+  "postalCode": "20858"
  },
  {
   "id": 1213200008,
   "districtId": 1213200,
-  "name": "BERAS BASAH"
+  "districtName": "PANGKALAN SUSU",
+  "name": "BERAS BASAH",
+  "postalCode": "20858"
  },
  {
   "id": 1213200009,
   "districtId": 1213200,
-  "name": "BUKIT JENGKOL"
+  "districtName": "PANGKALAN SUSU",
+  "name": "BUKIT JENGKOL",
+  "postalCode": "20858"
  },
  {
   "id": 1213200010,
   "districtId": 1213200,
-  "name": "PULAU SEMBILAN"
+  "districtName": "PANGKALAN SUSU",
+  "name": "PULAU SEMBILAN",
+  "postalCode": "20858"
  },
  {
   "id": 1213200011,
   "districtId": 1213200,
-  "name": "PULAU KAMPAI"
+  "districtName": "PANGKALAN SUSU",
+  "name": "PULAU KAMPAI",
+  "postalCode": "20858"
  }
 ]

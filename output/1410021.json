@@ -2,51 +2,71 @@
  {
   "id": 1410021001,
   "districtId": 1410021,
-  "name": "KEPAU BARU"
+  "districtName": "TEBING TINGGI TIMUR",
+  "name": "KEPAU BARU",
+  "postalCode": "28753"
  },
  {
   "id": 1410021002,
   "districtId": 1410021,
-  "name": "TELUK BUNTAL"
+  "districtName": "TEBING TINGGI TIMUR",
+  "name": "TELUK BUNTAL",
+  "postalCode": "28753"
  },
  {
   "id": 1410021003,
   "districtId": 1410021,
-  "name": "TANJUNG GADAI"
+  "districtName": "TEBING TINGGI TIMUR",
+  "name": "TANJUNG GADAI",
+  "postalCode": "28753"
  },
  {
   "id": 1410021004,
   "districtId": 1410021,
-  "name": "TANJUNG SARI"
+  "districtName": "TEBING TINGGI TIMUR",
+  "name": "TANJUNG SARI",
+  "postalCode": "24673"
  },
  {
   "id": 1410021005,
   "districtId": 1410021,
-  "name": "NIPAH SENDANU"
+  "districtName": "TEBING TINGGI TIMUR",
+  "name": "NIPAH SENDANU",
+  "postalCode": "28753"
  },
  {
   "id": 1410021006,
   "districtId": 1410021,
-  "name": "SUNGAI TOHOR"
+  "districtName": "TEBING TINGGI TIMUR",
+  "name": "SUNGAI TOHOR",
+  "postalCode": "28753"
  },
  {
   "id": 1410021007,
   "districtId": 1410021,
-  "name": "LUKUN"
+  "districtName": "TEBING TINGGI TIMUR",
+  "name": "LUKUN",
+  "postalCode": "28753"
  },
  {
   "id": 1410021008,
   "districtId": 1410021,
-  "name": "SUNGAI TOHOR BARAT"
+  "districtName": "TEBING TINGGI TIMUR",
+  "name": "SUNGAI TOHOR BARAT",
+  "postalCode": "28753"
  },
  {
   "id": 1410021009,
   "districtId": 1410021,
-  "name": "SENDANU DARUL IHSAN"
+  "districtName": "TEBING TINGGI TIMUR",
+  "name": "SENDANU DARUL IHSAN",
+  "postalCode": "28753"
  },
  {
   "id": 1410021010,
   "districtId": 1410021,
-  "name": "BATIN SUIR"
+  "districtName": "TEBING TINGGI TIMUR",
+  "name": "BATIN SUIR",
+  "postalCode": "28753"
  }
 ]

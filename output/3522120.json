@@ -2,116 +2,162 @@
  {
   "id": 3522120001,
   "districtId": 3522120,
-  "name": "TLOGOHAJI"
+  "districtName": "SUMBEREJO",
+  "name": "TLOGOHAJI",
+  "postalCode": "62191"
  },
  {
   "id": 3522120002,
   "districtId": 3522120,
-  "name": "NGAMPAL"
+  "districtName": "SUMBEREJO",
+  "name": "NGAMPAL",
+  "postalCode": "62191"
  },
  {
   "id": 3522120003,
   "districtId": 3522120,
-  "name": "KEDUNGREJO"
+  "districtName": "SUMBEREJO",
+  "name": "KEDUNGREJO",
+  "postalCode": "57383"
  },
  {
   "id": 3522120004,
   "districtId": 3522120,
-  "name": "MLINJENG"
+  "districtName": "SUMBEREJO",
+  "name": "MLINJENG",
+  "postalCode": "62191"
  },
  {
   "id": 3522120005,
   "districtId": 3522120,
-  "name": "SUMBERHARJO"
+  "districtName": "SUMBEREJO",
+  "name": "SUMBERHARJO",
+  "postalCode": "57663"
  },
  {
   "id": 3522120006,
   "districtId": 3522120,
-  "name": "BANJARJO"
+  "districtName": "SUMBEREJO",
+  "name": "BANJARJO",
+  "postalCode": "65167"
  },
  {
   "id": 3522120007,
   "districtId": 3522120,
-  "name": "KAYULEMAH"
+  "districtName": "SUMBEREJO",
+  "name": "KAYULEMAH",
+  "postalCode": "62191"
  },
  {
   "id": 3522120009,
   "districtId": 3522120,
-  "name": "WOTAN"
+  "districtName": "SUMBEREJO",
+  "name": "WOTAN",
+  "postalCode": "59172"
  },
  {
   "id": 3522120010,
   "districtId": 3522120,
-  "name": "SAMBONGREJO"
+  "districtName": "SUMBEREJO",
+  "name": "SAMBONGREJO",
+  "postalCode": "58254"
  },
  {
   "id": 3522120011,
   "districtId": 3522120,
-  "name": "SENDANGAGUNG"
+  "districtName": "SUMBEREJO",
+  "name": "SENDANGAGUNG",
+  "postalCode": "57675"
  },
  {
   "id": 3522120013,
   "districtId": 3522120,
-  "name": "PEKUWON"
+  "districtName": "SUMBEREJO",
+  "name": "PEKUWON",
+  "postalCode": "54363"
  },
  {
   "id": 3522120014,
   "districtId": 3522120,
-  "name": "KARANGDOWO"
+  "districtName": "SUMBEREJO",
+  "name": "KARANGDOWO",
+  "postalCode": "57464"
  },
  {
   "id": 3522120015,
   "districtId": 3522120,
-  "name": "PEJAMBON"
+  "districtName": "SUMBEREJO",
+  "name": "PEJAMBON",
+  "postalCode": "35353"
  },
  {
   "id": 3522120016,
   "districtId": 3522120,
-  "name": "TULUNGREJO"
+  "districtName": "SUMBEREJO",
+  "name": "TULUNGREJO",
+  "postalCode": "66275"
  },
  {
   "id": 3522120017,
   "districtId": 3522120,
-  "name": "KARANG DINOYO"
+  "districtName": "SUMBEREJO",
+  "name": "KARANG DINOYO",
+  "postalCode": "62191"
  },
  {
   "id": 3522120018,
   "districtId": 3522120,
-  "name": "BUTOH"
+  "districtName": "SUMBEREJO",
+  "name": "BUTOH",
+  "postalCode": "62154"
  },
  {
   "id": 3522120019,
   "districtId": 3522120,
-  "name": "MARGOAGUNG"
+  "districtName": "SUMBEREJO",
+  "name": "MARGOAGUNG",
+  "postalCode": "55561"
  },
  {
   "id": 3522120020,
   "districtId": 3522120,
-  "name": "JATIGEDE"
+  "districtName": "SUMBEREJO",
+  "name": "JATIGEDE",
+  "postalCode": "62191"
  },
  {
   "id": 3522120021,
   "districtId": 3522120,
-  "name": "BOGANGIN"
+  "districtName": "SUMBEREJO",
+  "name": "BOGANGIN",
+  "postalCode": "53195"
  },
  {
   "id": 3522120022,
   "districtId": 3522120,
-  "name": "SUMURAGUNG"
+  "districtName": "SUMBEREJO",
+  "name": "SUMURAGUNG",
+  "postalCode": "62192"
  },
  {
   "id": 3522120023,
   "districtId": 3522120,
-  "name": "SUMBERREJO"
+  "districtName": "SUMBEREJO",
+  "name": "SUMBERREJO",
+  "postalCode": "59184"
  },
  {
   "id": 3522120024,
   "districtId": 3522120,
-  "name": "TALUN"
+  "districtName": "SUMBEREJO",
+  "name": "TALUN",
+  "postalCode": "40384"
  },
  {
   "id": 3522120025,
   "districtId": 3522120,
-  "name": "PRAYUNGAN"
+  "districtName": "SUMBEREJO",
+  "name": "PRAYUNGAN",
+  "postalCode": "64393"
  }
 ]

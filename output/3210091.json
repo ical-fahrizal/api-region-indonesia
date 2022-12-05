@@ -2,36 +2,50 @@
  {
   "id": 3210091001,
   "districtId": 3210091,
-  "name": "PASIRAYU"
+  "districtName": "SINDANG",
+  "name": "PASIRAYU",
+  "postalCode": "45471"
  },
  {
   "id": 3210091002,
   "districtId": 3210091,
-  "name": "GARAWASTU"
+  "districtName": "SINDANG",
+  "name": "GARAWASTU",
+  "postalCode": "45471"
  },
  {
   "id": 3210091003,
   "districtId": 3210091,
-  "name": "SANGKANHURIP"
+  "districtName": "SINDANG",
+  "name": "SANGKANHURIP",
+  "postalCode": "40921"
  },
  {
   "id": 3210091004,
   "districtId": 3210091,
-  "name": "INDRAKILA"
+  "districtName": "SINDANG",
+  "name": "INDRAKILA",
+  "postalCode": "45471"
  },
  {
   "id": 3210091005,
   "districtId": 3210091,
-  "name": "SINDANG"
+  "districtName": "SINDANG",
+  "name": "SINDANG",
+  "postalCode": "45466"
  },
  {
   "id": 3210091006,
   "districtId": 3210091,
-  "name": "GUNUNG KUNING"
+  "districtName": "SINDANG",
+  "name": "GUNUNG KUNING",
+  "postalCode": "45471"
  },
  {
   "id": 3210091007,
   "districtId": 3210091,
-  "name": "BAYUREJA"
+  "districtName": "SINDANG",
+  "name": "BAYUREJA",
+  "postalCode": "45471"
  }
 ]

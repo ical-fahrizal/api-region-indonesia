@@ -2,26 +2,36 @@
  {
   "id": 1105082001,
   "districtId": 1105082,
-  "name": "ARUL PINANG"
+  "districtName": "PEUNARON",
+  "name": "ARUL PINANG",
+  "postalCode": "24461"
  },
  {
   "id": 1105082002,
   "districtId": 1105082,
-  "name": "PEUNARON BARU"
+  "districtName": "PEUNARON",
+  "name": "PEUNARON BARU",
+  "postalCode": "24461"
  },
  {
   "id": 1105082003,
   "districtId": 1105082,
-  "name": "PEUNARON LAMA"
+  "districtName": "PEUNARON",
+  "name": "PEUNARON LAMA",
+  "postalCode": "24461"
  },
  {
   "id": 1105082004,
   "districtId": 1105082,
-  "name": "BUKIT TIGA"
+  "districtName": "PEUNARON",
+  "name": "BUKIT TIGA",
+  "postalCode": "24461"
  },
  {
   "id": 1105082006,
   "districtId": 1105082,
-  "name": "SRI MULYA"
+  "districtName": "PEUNARON",
+  "name": "SRI MULYA",
+  "postalCode": "32159"
  }
 ]

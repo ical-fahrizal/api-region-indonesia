@@ -2,36 +2,50 @@
  {
   "id": 1103020001,
   "districtId": 1103020,
-  "name": "UJUNG MANGKI"
+  "districtName": "BAKONGAN",
+  "name": "UJUNG MANGKI",
+  "postalCode": "23773"
  },
  {
   "id": 1103020002,
   "districtId": 1103020,
-  "name": "KEUDE BAKONGAN"
+  "districtName": "BAKONGAN",
+  "name": "KEUDE BAKONGAN",
+  "postalCode": "23773"
  },
  {
   "id": 1103020003,
   "districtId": 1103020,
-  "name": "KAMPUNG BARU"
+  "districtName": "BAKONGAN",
+  "name": "KAMPUNG BARU",
+  "postalCode": "24652"
  },
  {
   "id": 1103020014,
   "districtId": 1103020,
-  "name": "UJUNG PADANG"
+  "districtName": "BAKONGAN",
+  "name": "UJUNG PADANG",
+  "postalCode": "23773"
  },
  {
   "id": 1103020015,
   "districtId": 1103020,
-  "name": "KMP DRIEN"
+  "districtName": "BAKONGAN",
+  "name": "KMP DRIEN",
+  "postalCode": ""
  },
  {
   "id": 1103020023,
   "districtId": 1103020,
-  "name": "DAHRUL IHSAN"
+  "districtName": "BAKONGAN",
+  "name": "DAHRUL IHSAN",
+  "postalCode": ""
  },
  {
   "id": 1103020024,
   "districtId": 1103020,
-  "name": "PADANG BEURAHAN"
+  "districtName": "BAKONGAN",
+  "name": "PADANG BEURAHAN",
+  "postalCode": ""
  }
 ]

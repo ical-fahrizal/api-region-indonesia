@@ -2,66 +2,92 @@
  {
   "id": 7209010001,
   "districtId": 7209010,
-  "name": "MALEI TOJO"
+  "districtName": "TOJO BARAT",
+  "name": "MALEI TOJO",
+  "postalCode": "94681"
  },
  {
   "id": 7209010002,
   "districtId": 7209010,
-  "name": "MATAKO"
+  "districtName": "TOJO BARAT",
+  "name": "MATAKO",
+  "postalCode": "94681"
  },
  {
   "id": 7209010003,
   "districtId": 7209010,
-  "name": "BAMBALO"
+  "districtName": "TOJO BARAT",
+  "name": "BAMBALO",
+  "postalCode": "94681"
  },
  {
   "id": 7209010004,
   "districtId": 7209010,
-  "name": "GALUGA"
+  "districtName": "TOJO BARAT",
+  "name": "GALUGA",
+  "postalCode": "16630"
  },
  {
   "id": 7209010005,
   "districtId": 7209010,
-  "name": "TOLIBA"
+  "districtName": "TOJO BARAT",
+  "name": "TOLIBA",
+  "postalCode": "94681"
  },
  {
   "id": 7209010006,
   "districtId": 7209010,
-  "name": "UJUNG TIBU"
+  "districtName": "TOJO BARAT",
+  "name": "UJUNG TIBU",
+  "postalCode": "94681"
  },
  {
   "id": 7209010007,
   "districtId": 7209010,
-  "name": "NGGAWIA"
+  "districtName": "TOJO BARAT",
+  "name": "NGGAWIA",
+  "postalCode": "94681"
  },
  {
   "id": 7209010008,
   "districtId": 7209010,
-  "name": "TOMBIANO"
+  "districtName": "TOJO BARAT",
+  "name": "TOMBIANO",
+  "postalCode": "94681"
  },
  {
   "id": 7209010009,
   "districtId": 7209010,
-  "name": "TATARI"
+  "districtName": "TOJO BARAT",
+  "name": "TATARI",
+  "postalCode": "94681"
  },
  {
   "id": 7209010010,
   "districtId": 7209010,
-  "name": "KABALO"
+  "districtName": "TOJO BARAT",
+  "name": "KABALO",
+  "postalCode": "94681"
  },
  {
   "id": 7209010011,
   "districtId": 7209010,
-  "name": "TANAMAWAU"
+  "districtName": "TOJO BARAT",
+  "name": "TANAMAWAU",
+  "postalCode": "94681"
  },
  {
   "id": 7209010012,
   "districtId": 7209010,
-  "name": "MALEWA"
+  "districtName": "TOJO BARAT",
+  "name": "MALEWA",
+  "postalCode": "94681"
  },
  {
   "id": 7209010013,
   "districtId": 7209010,
-  "name": "MAWOMBA"
+  "districtName": "TOJO BARAT",
+  "name": "MAWOMBA",
+  "postalCode": "94681"
  }
 ]

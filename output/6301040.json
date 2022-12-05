@@ -2,66 +2,92 @@
  {
   "id": 6301040001,
   "districtId": 6301040,
-  "name": "BENUA RAYA"
+  "districtName": "BATI - BATI",
+  "name": "BENUA RAYA",
+  "postalCode": ""
  },
  {
   "id": 6301040002,
   "districtId": 6301040,
-  "name": "BATI BATI"
+  "districtName": "BATI - BATI",
+  "name": "BATI BATI",
+  "postalCode": "70852"
  },
  {
   "id": 6301040003,
   "districtId": 6301040,
-  "name": "PADANG"
+  "districtName": "BATI - BATI",
+  "name": "PADANG",
+  "postalCode": "23762"
  },
  {
   "id": 6301040005,
   "districtId": 6301040,
-  "name": "UJUNG BARU"
+  "districtName": "BATI - BATI",
+  "name": "UJUNG BARU",
+  "postalCode": "24653"
  },
  {
   "id": 6301040006,
   "districtId": 6301040,
-  "name": "NUSA INDAH"
+  "districtName": "BATI - BATI",
+  "name": "NUSA INDAH",
+  "postalCode": "38224"
  },
  {
   "id": 6301040007,
   "districtId": 6301040,
-  "name": "KAIT KAIT"
+  "districtName": "BATI - BATI",
+  "name": "KAIT KAIT",
+  "postalCode": "70852"
  },
  {
   "id": 6301040008,
   "districtId": 6301040,
-  "name": "KAIT-KAIT BARU"
+  "districtName": "BATI - BATI",
+  "name": "KAIT-KAIT BARU",
+  "postalCode": "70852"
  },
  {
   "id": 6301040009,
   "districtId": 6301040,
-  "name": "BENTOK DARAT"
+  "districtName": "BATI - BATI",
+  "name": "BENTOK DARAT",
+  "postalCode": "70852"
  },
  {
   "id": 6301040010,
   "districtId": 6301040,
-  "name": "BANYU IRANG"
+  "districtName": "BATI - BATI",
+  "name": "BANYU IRANG",
+  "postalCode": "70852"
  },
  {
   "id": 6301040011,
   "districtId": 6301040,
-  "name": "BENTOK KAMPUNG"
+  "districtName": "BATI - BATI",
+  "name": "BENTOK KAMPUNG",
+  "postalCode": "70852"
  },
  {
   "id": 6301040012,
   "districtId": 6301040,
-  "name": "SAMBANGAN"
+  "districtName": "BATI - BATI",
+  "name": "SAMBANGAN",
+  "postalCode": "62271"
  },
  {
   "id": 6301040013,
   "districtId": 6301040,
-  "name": "LIANG ANGGANG"
+  "districtName": "BATI - BATI",
+  "name": "LIANG ANGGANG",
+  "postalCode": "70852"
  },
  {
   "id": 6301040014,
   "districtId": 6301040,
-  "name": "PANDAHAN"
+  "districtName": "BATI - BATI",
+  "name": "PANDAHAN",
+  "postalCode": "70852"
  }
 ]

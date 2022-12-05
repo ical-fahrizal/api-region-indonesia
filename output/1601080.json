@@ -2,61 +2,85 @@
  {
   "id": 1601080008,
   "districtId": 1601080,
-  "name": "GUNUNG MERAKSA"
+  "districtName": "PENGANDONAN",
+  "name": "GUNUNG MERAKSA",
+  "postalCode": "32192"
  },
  {
   "id": 1601080010,
   "districtId": 1601080,
-  "name": "TANJUNG PURA"
+  "districtName": "PENGANDONAN",
+  "name": "TANJUNG PURA",
+  "postalCode": "24582"
  },
  {
   "id": 1601080011,
   "districtId": 1601080,
-  "name": "TANJUNG SARI"
+  "districtName": "PENGANDONAN",
+  "name": "TANJUNG SARI",
+  "postalCode": "24673"
  },
  {
   "id": 1601080012,
   "districtId": 1601080,
-  "name": "TANGSI LONTAR"
+  "districtName": "PENGANDONAN",
+  "name": "TANGSI LONTAR",
+  "postalCode": "32155"
  },
  {
   "id": 1601080017,
   "districtId": 1601080,
-  "name": "BELAMBANGAN"
+  "districtName": "PENGANDONAN",
+  "name": "BELAMBANGAN",
+  "postalCode": "32278"
  },
  {
   "id": 1601080018,
   "districtId": 1601080,
-  "name": "KESAMBI RATA"
+  "districtName": "PENGANDONAN",
+  "name": "KESAMBI RATA",
+  "postalCode": "32155"
  },
  {
   "id": 1601080021,
   "districtId": 1601080,
-  "name": "GUNUNG LIWAT"
+  "districtName": "PENGANDONAN",
+  "name": "GUNUNG LIWAT",
+  "postalCode": "32155"
  },
  {
   "id": 1601080022,
   "districtId": 1601080,
-  "name": "SEMANDING"
+  "districtName": "PENGANDONAN",
+  "name": "SEMANDING",
+  "postalCode": "32155"
  },
  {
   "id": 1601080023,
   "districtId": 1601080,
-  "name": "PENGANDONAN"
+  "districtName": "PENGANDONAN",
+  "name": "PENGANDONAN",
+  "postalCode": "32361"
  },
  {
   "id": 1601080024,
   "districtId": 1601080,
-  "name": "TANJUNGAN"
+  "districtName": "PENGANDONAN",
+  "name": "TANJUNGAN",
+  "postalCode": "22395"
  },
  {
   "id": 1601080025,
   "districtId": 1601080,
-  "name": "UJAN MAS"
+  "districtName": "PENGANDONAN",
+  "name": "UJAN MAS",
+  "postalCode": "32155"
  },
  {
   "id": 1601080026,
   "districtId": 1601080,
-  "name": "GUNUNG KURIPAN"
+  "districtName": "PENGANDONAN",
+  "name": "GUNUNG KURIPAN",
+  "postalCode": "32155"
  }
 ]

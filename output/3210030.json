@@ -2,76 +2,106 @@
  {
   "id": 3210030014,
   "districtId": 3210030,
-  "name": "CISOKA"
+  "districtName": "CIKIJING",
+  "name": "CISOKA",
+  "postalCode": "45466"
  },
  {
   "id": 3210030015,
   "districtId": 3210030,
-  "name": "SINDANGPANJI"
+  "districtName": "CIKIJING",
+  "name": "SINDANGPANJI",
+  "postalCode": "45466"
  },
  {
   "id": 3210030016,
   "districtId": 3210030,
-  "name": "CIKIJING"
+  "districtName": "CIKIJING",
+  "name": "CIKIJING",
+  "postalCode": "45466"
  },
  {
   "id": 3210030017,
   "districtId": 3210030,
-  "name": "CIDULANG"
+  "districtName": "CIKIJING",
+  "name": "CIDULANG",
+  "postalCode": "45466"
  },
  {
   "id": 3210030018,
   "districtId": 3210030,
-  "name": "SUKAMUKTI"
+  "districtName": "CIKIJING",
+  "name": "SUKAMUKTI",
+  "postalCode": "44191"
  },
  {
   "id": 3210030019,
   "districtId": 3210030,
-  "name": "KASTURI"
+  "districtName": "CIKIJING",
+  "name": "KASTURI",
+  "postalCode": "45466"
  },
  {
   "id": 3210030020,
   "districtId": 3210030,
-  "name": "BANJARANSARI"
+  "districtName": "CIKIJING",
+  "name": "BANJARANSARI",
+  "postalCode": "45466"
  },
  {
   "id": 3210030021,
   "districtId": 3210030,
-  "name": "SINDANG"
+  "districtName": "CIKIJING",
+  "name": "SINDANG",
+  "postalCode": "45466"
  },
  {
   "id": 3210030022,
   "districtId": 3210030,
-  "name": "SUKASARI"
+  "districtName": "CIKIJING",
+  "name": "SUKASARI",
+  "postalCode": "20986"
  },
  {
   "id": 3210030023,
   "districtId": 3210030,
-  "name": "SUNALARI"
+  "districtName": "CIKIJING",
+  "name": "SUNALARI",
+  "postalCode": "45466"
  },
  {
   "id": 3210030024,
   "districtId": 3210030,
-  "name": "BAGJASARI"
+  "districtName": "CIKIJING",
+  "name": "BAGJASARI",
+  "postalCode": "45466"
  },
  {
   "id": 3210030025,
   "districtId": 3210030,
-  "name": "JAGASARI"
+  "districtName": "CIKIJING",
+  "name": "JAGASARI",
+  "postalCode": "45466"
  },
  {
   "id": 3210030026,
   "districtId": 3210030,
-  "name": "CILANGCANG"
+  "districtName": "CIKIJING",
+  "name": "CILANGCANG",
+  "postalCode": "45466"
  },
  {
   "id": 3210030027,
   "districtId": 3210030,
-  "name": "KANCANA"
+  "districtName": "CIKIJING",
+  "name": "KANCANA",
+  "postalCode": "45466"
  },
  {
   "id": 3210030028,
   "districtId": 3210030,
-  "name": "CIPULUS"
+  "districtName": "CIKIJING",
+  "name": "CIPULUS",
+  "postalCode": "45466"
  }
 ]

@@ -2,106 +2,148 @@
  {
   "id": 1214040001,
   "districtId": 1214040,
-  "name": "HILIHORU"
+  "districtName": "AMANDRAYA",
+  "name": "HILIHORU",
+  "postalCode": "22866"
  },
  {
   "id": 1214040002,
   "districtId": 1214040,
-  "name": "HILIMBULAWA"
+  "districtName": "AMANDRAYA",
+  "name": "HILIMBULAWA",
+  "postalCode": "22866"
  },
  {
   "id": 1214040003,
   "districtId": 1214040,
-  "name": "SIFAOROASI"
+  "districtName": "AMANDRAYA",
+  "name": "SIFAOROASI",
+  "postalCode": "22851"
  },
  {
   "id": 1214040008,
   "districtId": 1214040,
-  "name": "SISOBAHILI"
+  "districtName": "AMANDRAYA",
+  "name": "SISOBAHILI",
+  "postalCode": "22851"
  },
  {
   "id": 1214040009,
   "districtId": 1214040,
-  "name": "TUINDRAO"
+  "districtName": "AMANDRAYA",
+  "name": "TUINDRAO",
+  "postalCode": "22866"
  },
  {
   "id": 1214040011,
   "districtId": 1214040,
-  "name": "HILIMBOWO"
+  "districtName": "AMANDRAYA",
+  "name": "HILIMBOWO",
+  "postalCode": "22866"
  },
  {
   "id": 1214040012,
   "districtId": 1214040,
-  "name": "LOLOZARIA"
+  "districtName": "AMANDRAYA",
+  "name": "LOLOZARIA",
+  "postalCode": "22866"
  },
  {
   "id": 1214040013,
   "districtId": 1214040,
-  "name": "LOLOMOYO"
+  "districtName": "AMANDRAYA",
+  "name": "LOLOMOYO",
+  "postalCode": "22866"
  },
  {
   "id": 1214040014,
   "districtId": 1214040,
-  "name": "HILIFADOLO"
+  "districtName": "AMANDRAYA",
+  "name": "HILIFADOLO",
+  "postalCode": "22866"
  },
  {
   "id": 1214040015,
   "districtId": 1214040,
-  "name": "ORAHILI EHO"
+  "districtName": "AMANDRAYA",
+  "name": "ORAHILI EHO",
+  "postalCode": "22866"
  },
  {
   "id": 1214040019,
   "districtId": 1214040,
-  "name": "SIROFI"
+  "districtName": "AMANDRAYA",
+  "name": "SIROFI",
+  "postalCode": "22866"
  },
  {
   "id": 1214040020,
   "districtId": 1214040,
-  "name": "HILISALOO"
+  "districtName": "AMANDRAYA",
+  "name": "HILISALOO",
+  "postalCode": "22852"
  },
  {
   "id": 1214040021,
   "districtId": 1214040,
-  "name": "LOLOABOLO"
+  "districtName": "AMANDRAYA",
+  "name": "LOLOABOLO",
+  "postalCode": "22866"
  },
  {
   "id": 1214040022,
   "districtId": 1214040,
-  "name": "MOHILI"
+  "districtName": "AMANDRAYA",
+  "name": "MOHILI",
+  "postalCode": "22861"
  },
  {
   "id": 1214040023,
   "districtId": 1214040,
-  "name": "HILINDRASO"
+  "districtName": "AMANDRAYA",
+  "name": "HILINDRASO",
+  "postalCode": "22866"
  },
  {
   "id": 1214040024,
   "districtId": 1214040,
-  "name": "HILIMAERA"
+  "districtName": "AMANDRAYA",
+  "name": "HILIMAERA",
+  "postalCode": "22866"
  },
  {
   "id": 1214040025,
   "districtId": 1214040,
-  "name": "AMANDRAYA"
+  "districtName": "AMANDRAYA",
+  "name": "AMANDRAYA",
+  "postalCode": "22866"
  },
  {
   "id": 1214040026,
   "districtId": 1214040,
-  "name": "SINAR INOO"
+  "districtName": "AMANDRAYA",
+  "name": "SINAR INOO",
+  "postalCode": ""
  },
  {
   "id": 1214040027,
   "districtId": 1214040,
-  "name": "TUINDRAO 1"
+  "districtName": "AMANDRAYA",
+  "name": "TUINDRAO 1",
+  "postalCode": ""
  },
  {
   "id": 1214040028,
   "districtId": 1214040,
-  "name": "TUHEMBERUA"
+  "districtName": "AMANDRAYA",
+  "name": "TUHEMBERUA",
+  "postalCode": "22867"
  },
  {
   "id": 1214040029,
   "districtId": 1214040,
-  "name": "BOHOLU"
+  "districtName": "AMANDRAYA",
+  "name": "BOHOLU",
+  "postalCode": "22866"
  }
 ]

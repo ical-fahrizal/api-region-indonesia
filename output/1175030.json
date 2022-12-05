@@ -2,116 +2,162 @@
  {
   "id": 1175030001,
   "districtId": 1175030,
-  "name": "SIPERKAS"
+  "districtName": "RUNDENG",
+  "name": "SIPERKAS",
+  "postalCode": "24786"
  },
  {
   "id": 1175030002,
   "districtId": 1175030,
-  "name": "KUTA BERINGIN"
+  "districtName": "RUNDENG",
+  "name": "KUTA BERINGIN",
+  "postalCode": "24786"
  },
  {
   "id": 1175030003,
   "districtId": 1175030,
-  "name": "KAMPONG BADAR"
+  "districtName": "RUNDENG",
+  "name": "KAMPONG BADAR",
+  "postalCode": ""
  },
  {
   "id": 1175030004,
   "districtId": 1175030,
-  "name": "HARAPAN BARU"
+  "districtName": "RUNDENG",
+  "name": "HARAPAN BARU",
+  "postalCode": "24786"
  },
  {
   "id": 1175030005,
   "districtId": 1175030,
-  "name": "TELADAN BARU"
+  "districtName": "RUNDENG",
+  "name": "TELADAN BARU",
+  "postalCode": "24786"
  },
  {
   "id": 1175030006,
   "districtId": 1175030,
-  "name": "OBOH"
+  "districtName": "RUNDENG",
+  "name": "OBOH",
+  "postalCode": "24786"
  },
  {
   "id": 1175030007,
   "districtId": 1175030,
-  "name": "BINANGA"
+  "districtName": "RUNDENG",
+  "name": "BINANGA",
+  "postalCode": "24786"
  },
  {
   "id": 1175030008,
   "districtId": 1175030,
-  "name": "BELUKUR MAKMUR"
+  "districtName": "RUNDENG",
+  "name": "BELUKUR MAKMUR",
+  "postalCode": ""
  },
  {
   "id": 1175030009,
   "districtId": 1175030,
-  "name": "PASAR RUNDENG"
+  "districtName": "RUNDENG",
+  "name": "PASAR RUNDENG",
+  "postalCode": "24786"
  },
  {
   "id": 1175030010,
   "districtId": 1175030,
-  "name": "LAE PAMUALAN"
+  "districtName": "RUNDENG",
+  "name": "LAE PAMUALAN",
+  "postalCode": "24786"
  },
  {
   "id": 1175030011,
   "districtId": 1175030,
-  "name": "MUARA BATU-BATU"
+  "districtName": "RUNDENG",
+  "name": "MUARA BATU-BATU",
+  "postalCode": "24786"
  },
  {
   "id": 1175030012,
   "districtId": 1175030,
-  "name": "SIBUNGKE"
+  "districtName": "RUNDENG",
+  "name": "SIBUNGKE",
+  "postalCode": "24786"
  },
  {
   "id": 1175030013,
   "districtId": 1175030,
-  "name": "PANGLIMA SAHMAN"
+  "districtName": "RUNDENG",
+  "name": "PANGLIMA SAHMAN",
+  "postalCode": ""
  },
  {
   "id": 1175030014,
   "districtId": 1175030,
-  "name": "SIBUASAN"
+  "districtName": "RUNDENG",
+  "name": "SIBUASAN",
+  "postalCode": "24786"
  },
  {
   "id": 1175030015,
   "districtId": 1175030,
-  "name": "DAH"
+  "districtName": "RUNDENG",
+  "name": "DAH",
+  "postalCode": "24786"
  },
  {
   "id": 1175030016,
   "districtId": 1175030,
-  "name": "SEPADAN"
+  "districtName": "RUNDENG",
+  "name": "SEPADAN",
+  "postalCode": "24786"
  },
  {
   "id": 1175030017,
   "districtId": 1175030,
-  "name": "GERUGUH"
+  "districtName": "RUNDENG",
+  "name": "GERUGUH",
+  "postalCode": "24786"
  },
  {
   "id": 1175030018,
   "districtId": 1175030,
-  "name": "LAE MATE"
+  "districtName": "RUNDENG",
+  "name": "LAE MATE",
+  "postalCode": "24786"
  },
  {
   "id": 1175030019,
   "districtId": 1175030,
-  "name": "MANDILAM"
+  "districtName": "RUNDENG",
+  "name": "MANDILAM",
+  "postalCode": "24786"
  },
  {
   "id": 1175030020,
   "districtId": 1175030,
-  "name": "TUALANG"
+  "districtName": "RUNDENG",
+  "name": "TUALANG",
+  "postalCode": "24372"
  },
  {
   "id": 1175030021,
   "districtId": 1175030,
-  "name": "TANAH TUMBUH"
+  "districtName": "RUNDENG",
+  "name": "TANAH TUMBUH",
+  "postalCode": "24786"
  },
  {
   "id": 1175030022,
   "districtId": 1175030,
-  "name": "KUALA KEUPENG"
+  "districtName": "RUNDENG",
+  "name": "KUALA KEUPENG",
+  "postalCode": ""
  },
  {
   "id": 1175030023,
   "districtId": 1175030,
-  "name": "SUAK JAMPAK"
+  "districtName": "RUNDENG",
+  "name": "SUAK JAMPAK",
+  "postalCode": ""
  }
 ]

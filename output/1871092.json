@@ -2,31 +2,43 @@
  {
   "id": 1871092001,
   "districtId": 1871092,
-  "name": "JAGABAYA I"
+  "districtName": "WAY HALIM",
+  "name": "JAGABAYA I",
+  "postalCode": ""
  },
  {
   "id": 1871092002,
   "districtId": 1871092,
-  "name": "JAGABAYA II"
+  "districtName": "WAY HALIM",
+  "name": "JAGABAYA II",
+  "postalCode": "35132"
  },
  {
   "id": 1871092003,
   "districtId": 1871092,
-  "name": "JAGABAYA III"
+  "districtName": "WAY HALIM",
+  "name": "JAGABAYA III",
+  "postalCode": "35132"
  },
  {
   "id": 1871092004,
   "districtId": 1871092,
-  "name": "GUNUNG SULAH"
+  "districtName": "WAY HALIM",
+  "name": "GUNUNG SULAH",
+  "postalCode": "35136"
  },
  {
   "id": 1871092005,
   "districtId": 1871092,
-  "name": "WAY HALIM PERMAI"
+  "districtName": "WAY HALIM",
+  "name": "WAY HALIM PERMAI",
+  "postalCode": "35135"
  },
  {
   "id": 1871092006,
   "districtId": 1871092,
-  "name": "PERUMNAS WAY HALIM"
+  "districtName": "WAY HALIM",
+  "name": "PERUMNAS WAY HALIM",
+  "postalCode": "35141"
  }
 ]

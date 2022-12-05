@@ -2,51 +2,71 @@
  {
   "id": 6202191001,
   "districtId": 6202191,
-  "name": "PARIT"
+  "districtName": "CEMPAGA HULU",
+  "name": "PARIT",
+  "postalCode": "36373"
  },
  {
   "id": 6202191002,
   "districtId": 6202191,
-  "name": "PELANTARAN"
+  "districtName": "CEMPAGA HULU",
+  "name": "PELANTARAN",
+  "postalCode": "74354"
  },
  {
   "id": 6202191003,
   "districtId": 6202191,
-  "name": "KERUING"
+  "districtName": "CEMPAGA HULU",
+  "name": "KERUING",
+  "postalCode": "74354"
  },
  {
   "id": 6202191004,
   "districtId": 6202191,
-  "name": "PANTAI HARAPAN"
+  "districtName": "CEMPAGA HULU",
+  "name": "PANTAI HARAPAN",
+  "postalCode": "29872"
  },
  {
   "id": 6202191006,
   "districtId": 6202191,
-  "name": "TUMBANG KOLING"
+  "districtName": "CEMPAGA HULU",
+  "name": "TUMBANG KOLING",
+  "postalCode": ""
  },
  {
   "id": 6202191007,
   "districtId": 6202191,
-  "name": "SUDAN"
+  "districtName": "CEMPAGA HULU",
+  "name": "SUDAN",
+  "postalCode": "59273"
  },
  {
   "id": 6202191008,
   "districtId": 6202191,
-  "name": "BUKIT BATU"
+  "districtName": "CEMPAGA HULU",
+  "name": "BUKIT BATU",
+  "postalCode": "28761"
  },
  {
   "id": 6202191009,
   "districtId": 6202191,
-  "name": "BUKIT RAYA"
+  "districtName": "CEMPAGA HULU",
+  "name": "BUKIT RAYA",
+  "postalCode": "29563"
  },
  {
   "id": 6202191010,
   "districtId": 6202191,
-  "name": "SUNGAI UBAR MANDIRI"
+  "districtName": "CEMPAGA HULU",
+  "name": "SUNGAI UBAR MANDIRI",
+  "postalCode": "74354"
  },
  {
   "id": 6202191011,
   "districtId": 6202191,
-  "name": "SELUCING"
+  "districtName": "CEMPAGA HULU",
+  "name": "SELUCING",
+  "postalCode": "74354"
  }
 ]

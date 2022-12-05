@@ -2,51 +2,71 @@
  {
   "id": 1611031001,
   "districtId": 1611031,
-  "name": "MUARA LINTANG LAMA"
+  "districtName": "PENDOPO BARAT",
+  "name": "MUARA LINTANG LAMA",
+  "postalCode": "31593"
  },
  {
   "id": 1611031002,
   "districtId": 1611031,
-  "name": "MUARA LINTANG BARU"
+  "districtName": "PENDOPO BARAT",
+  "name": "MUARA LINTANG BARU",
+  "postalCode": "31593"
  },
  {
   "id": 1611031003,
   "districtId": 1611031,
-  "name": "TEBAT PAYANG"
+  "districtName": "PENDOPO BARAT",
+  "name": "TEBAT PAYANG",
+  "postalCode": "31593"
  },
  {
   "id": 1611031004,
   "districtId": 1611031,
-  "name": "KARANG CAYA"
+  "districtName": "PENDOPO BARAT",
+  "name": "KARANG CAYA",
+  "postalCode": "31593"
  },
  {
   "id": 1611031005,
   "districtId": 1611031,
-  "name": "TANJUNG RAYA"
+  "districtName": "PENDOPO BARAT",
+  "name": "TANJUNG RAYA",
+  "postalCode": "23891"
  },
  {
   "id": 1611031006,
   "districtId": 1611031,
-  "name": "PADANG BINDU"
+  "districtName": "PENDOPO BARAT",
+  "name": "PADANG BINDU",
+  "postalCode": "31626"
  },
  {
   "id": 1611031007,
   "districtId": 1611031,
-  "name": "LINGGE"
+  "districtName": "PENDOPO BARAT",
+  "name": "LINGGE",
+  "postalCode": "31593"
  },
  {
   "id": 1611031008,
   "districtId": 1611031,
-  "name": "RANTAU DODOR"
+  "districtName": "PENDOPO BARAT",
+  "name": "RANTAU DODOR",
+  "postalCode": "31593"
  },
  {
   "id": 1611031009,
   "districtId": 1611031,
-  "name": "KUNGKILAN"
+  "districtName": "PENDOPO BARAT",
+  "name": "KUNGKILAN",
+  "postalCode": "32151"
  },
  {
   "id": 1611031010,
   "districtId": 1611031,
-  "name": "AIR KANDIS"
+  "districtName": "PENDOPO BARAT",
+  "name": "AIR KANDIS",
+  "postalCode": "31593"
  }
 ]

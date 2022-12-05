@@ -2,71 +2,99 @@
  {
   "id": 1610062001,
   "districtId": 1610062,
-  "name": "TANJUNG DAYANG SELATAN"
+  "districtName": "INDRALAYA SELATAN",
+  "name": "TANJUNG DAYANG SELATAN",
+  "postalCode": "30862"
  },
  {
   "id": 1610062002,
   "districtId": 1610062,
-  "name": "MANDI  ANGIN"
+  "districtName": "INDRALAYA SELATAN",
+  "name": "MANDI  ANGIN",
+  "postalCode": ""
  },
  {
   "id": 1610062003,
   "districtId": 1610062,
-  "name": "SUKARAJA BARU"
+  "districtName": "INDRALAYA SELATAN",
+  "name": "SUKARAJA BARU",
+  "postalCode": "30862"
  },
  {
   "id": 1610062004,
   "districtId": 1610062,
-  "name": "SUKARAJA LAMA"
+  "districtName": "INDRALAYA SELATAN",
+  "name": "SUKARAJA LAMA",
+  "postalCode": "30862"
  },
  {
   "id": 1610062005,
   "districtId": 1610062,
-  "name": "TANJUNG LUBUK"
+  "districtName": "INDRALAYA SELATAN",
+  "name": "TANJUNG LUBUK",
+  "postalCode": "30862"
  },
  {
   "id": 1610062006,
   "districtId": 1610062,
-  "name": "BETI"
+  "districtName": "INDRALAYA SELATAN",
+  "name": "BETI",
+  "postalCode": "30862"
  },
  {
   "id": 1610062007,
   "districtId": 1610062,
-  "name": "MERANJAT ILIR"
+  "districtName": "INDRALAYA SELATAN",
+  "name": "MERANJAT ILIR",
+  "postalCode": "30862"
  },
  {
   "id": 1610062008,
   "districtId": 1610062,
-  "name": "MERANJAT II"
+  "districtName": "INDRALAYA SELATAN",
+  "name": "MERANJAT II",
+  "postalCode": "30862"
  },
  {
   "id": 1610062009,
   "districtId": 1610062,
-  "name": "MERANJAT I"
+  "districtName": "INDRALAYA SELATAN",
+  "name": "MERANJAT I",
+  "postalCode": "30862"
  },
  {
   "id": 1610062010,
   "districtId": 1610062,
-  "name": "TEBING GERINTING SELATAN"
+  "districtName": "INDRALAYA SELATAN",
+  "name": "TEBING GERINTING SELATAN",
+  "postalCode": "30862"
  },
  {
   "id": 1610062011,
   "districtId": 1610062,
-  "name": "ARISAN GADING"
+  "districtName": "INDRALAYA SELATAN",
+  "name": "ARISAN GADING",
+  "postalCode": "30862"
  },
  {
   "id": 1610062012,
   "districtId": 1610062,
-  "name": "MERANJAT III"
+  "districtName": "INDRALAYA SELATAN",
+  "name": "MERANJAT III",
+  "postalCode": "30862"
  },
  {
   "id": 1610062013,
   "districtId": 1610062,
-  "name": "TEBING GERINTING UTARA"
+  "districtName": "INDRALAYA SELATAN",
+  "name": "TEBING GERINTING UTARA",
+  "postalCode": "30862"
  },
  {
   "id": 1610062014,
   "districtId": 1610062,
-  "name": "TANJUNG DAYANG UTARA"
+  "districtName": "INDRALAYA SELATAN",
+  "name": "TANJUNG DAYANG UTARA",
+  "postalCode": "30862"
  }
 ]

@@ -2,86 +2,120 @@
  {
   "id": 1502020004,
   "districtId": 1502020,
-  "name": "DURIAN RAMBUN"
+  "districtName": "MUARA SIAU",
+  "name": "DURIAN RAMBUN",
+  "postalCode": "37371"
  },
  {
   "id": 1502020008,
   "districtId": 1502020,
-  "name": "LUBUK BIRAH"
+  "districtName": "MUARA SIAU",
+  "name": "LUBUK BIRAH",
+  "postalCode": "37371"
  },
  {
   "id": 1502020009,
   "districtId": 1502020,
-  "name": "PERADUN TEMERAS"
+  "districtName": "MUARA SIAU",
+  "name": "PERADUN TEMERAS",
+  "postalCode": "37371"
  },
  {
   "id": 1502020010,
   "districtId": 1502020,
-  "name": "TELUK SIKUMBANG"
+  "districtName": "MUARA SIAU",
+  "name": "TELUK SIKUMBANG",
+  "postalCode": "37371"
  },
  {
   "id": 1502020011,
   "districtId": 1502020,
-  "name": "TIARO"
+  "districtName": "MUARA SIAU",
+  "name": "TIARO",
+  "postalCode": "37371"
  },
  {
   "id": 1502020012,
   "districtId": 1502020,
-  "name": "LUBUK BERINGIN"
+  "districtName": "MUARA SIAU",
+  "name": "LUBUK BERINGIN",
+  "postalCode": "37261"
  },
  {
   "id": 1502020013,
   "districtId": 1502020,
-  "name": "RANTAU MACANG"
+  "districtName": "MUARA SIAU",
+  "name": "RANTAU MACANG",
+  "postalCode": "37371"
  },
  {
   "id": 1502020014,
   "districtId": 1502020,
-  "name": "PASAR MUARA SIAU"
+  "districtName": "MUARA SIAU",
+  "name": "PASAR MUARA SIAU",
+  "postalCode": "37371"
  },
  {
   "id": 1502020015,
   "districtId": 1502020,
-  "name": "MUARA SIAU"
+  "districtName": "MUARA SIAU",
+  "name": "MUARA SIAU",
+  "postalCode": "37371"
  },
  {
   "id": 1502020016,
   "districtId": 1502020,
-  "name": "RANTAU BIDARO"
+  "districtName": "MUARA SIAU",
+  "name": "RANTAU BIDARO",
+  "postalCode": ""
  },
  {
   "id": 1502020017,
   "districtId": 1502020,
-  "name": "AIR LAGO"
+  "districtName": "MUARA SIAU",
+  "name": "AIR LAGO",
+  "postalCode": "37371"
  },
  {
   "id": 1502020018,
   "districtId": 1502020,
-  "name": "BADAK TEKURUNG"
+  "districtName": "MUARA SIAU",
+  "name": "BADAK TEKURUNG",
+  "postalCode": "37371"
  },
  {
   "id": 1502020019,
   "districtId": 1502020,
-  "name": "RANTAU PANJANG"
+  "districtName": "MUARA SIAU",
+  "name": "RANTAU PANJANG",
+  "postalCode": "24476"
  },
  {
   "id": 1502020020,
   "districtId": 1502020,
-  "name": "PULAU RAMAN"
+  "districtName": "MUARA SIAU",
+  "name": "PULAU RAMAN",
+  "postalCode": "37371"
  },
  {
   "id": 1502020021,
   "districtId": 1502020,
-  "name": "SEPANTAI RENAH"
+  "districtName": "MUARA SIAU",
+  "name": "SEPANTAI RENAH",
+  "postalCode": "37371"
  },
  {
   "id": 1502020022,
   "districtId": 1502020,
-  "name": "RANTAU BAYUR"
+  "districtName": "MUARA SIAU",
+  "name": "RANTAU BAYUR",
+  "postalCode": "37371"
  },
  {
   "id": 1502020023,
   "districtId": 1502020,
-  "name": "SUNGAI ULAS"
+  "districtName": "MUARA SIAU",
+  "name": "SUNGAI ULAS",
+  "postalCode": "37371"
  }
 ]

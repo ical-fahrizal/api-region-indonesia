@@ -2,41 +2,57 @@
  {
   "id": 7403151001,
   "districtId": 7403151,
-  "name": "LAMELAY"
+  "districtName": "MELUHU",
+  "name": "LAMELAY",
+  "postalCode": "93461"
  },
  {
   "id": 7403151003,
   "districtId": 7403151,
-  "name": "AHUHU"
+  "districtName": "MELUHU",
+  "name": "AHUHU",
+  "postalCode": "93461"
  },
  {
   "id": 7403151004,
   "districtId": 7403151,
-  "name": "LAROWIU"
+  "districtName": "MELUHU",
+  "name": "LAROWIU",
+  "postalCode": "93461"
  },
  {
   "id": 7403151005,
   "districtId": 7403151,
-  "name": "WOERAHI"
+  "districtName": "MELUHU",
+  "name": "WOERAHI",
+  "postalCode": "93461"
  },
  {
   "id": 7403151006,
   "districtId": 7403151,
-  "name": "TUDAMEASO"
+  "districtName": "MELUHU",
+  "name": "TUDAMEASO",
+  "postalCode": "93461"
  },
  {
   "id": 7403151007,
   "districtId": 7403151,
-  "name": "AHULOA"
+  "districtName": "MELUHU",
+  "name": "AHULOA",
+  "postalCode": ""
  },
  {
   "id": 7403151008,
   "districtId": 7403151,
-  "name": "SAMBASULE"
+  "districtName": "MELUHU",
+  "name": "SAMBASULE",
+  "postalCode": ""
  },
  {
   "id": 7403151009,
   "districtId": 7403151,
-  "name": "LALOPISI"
+  "districtName": "MELUHU",
+  "name": "LALOPISI",
+  "postalCode": ""
  }
 ]

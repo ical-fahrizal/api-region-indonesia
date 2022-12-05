@@ -2,46 +2,64 @@
  {
   "id": 7317041001,
   "districtId": 7317041,
-  "name": "SARONDA"
+  "districtName": "BAJO BARAT",
+  "name": "SARONDA",
+  "postalCode": "91995"
  },
  {
   "id": 7317041002,
   "districtId": 7317041,
-  "name": "TUMBU BARA"
+  "districtName": "BAJO BARAT",
+  "name": "TUMBU BARA",
+  "postalCode": ""
  },
  {
   "id": 7317041003,
   "districtId": 7317041,
-  "name": "SAMPEANG"
+  "districtName": "BAJO BARAT",
+  "name": "SAMPEANG",
+  "postalCode": "91995"
  },
  {
   "id": 7317041004,
   "districtId": 7317041,
-  "name": "KADONG-KADONG"
+  "districtName": "BAJO BARAT",
+  "name": "KADONG-KADONG",
+  "postalCode": "91995"
  },
  {
   "id": 7317041005,
   "districtId": 7317041,
-  "name": "MARINDING"
+  "districtName": "BAJO BARAT",
+  "name": "MARINDING",
+  "postalCode": "91995"
  },
  {
   "id": 7317041006,
   "districtId": 7317041,
-  "name": "TETEKANG"
+  "districtName": "BAJO BARAT",
+  "name": "TETEKANG",
+  "postalCode": "91995"
  },
  {
   "id": 7317041007,
   "districtId": 7317041,
-  "name": "BONELEMO"
+  "districtName": "BAJO BARAT",
+  "name": "BONELEMO",
+  "postalCode": "91995"
  },
  {
   "id": 7317041008,
   "districtId": 7317041,
-  "name": "BONELEMO BARAT"
+  "districtName": "BAJO BARAT",
+  "name": "BONELEMO BARAT",
+  "postalCode": "91995"
  },
  {
   "id": 7317041009,
   "districtId": 7317041,
-  "name": "BONELEMO UTARA"
+  "districtName": "BAJO BARAT",
+  "name": "BONELEMO UTARA",
+  "postalCode": "91995"
  }
 ]

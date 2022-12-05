@@ -2,36 +2,50 @@
  {
   "id": 7171020004,
   "districtId": 7171020,
-  "name": "RANOTANA"
+  "districtName": "SARIO",
+  "name": "RANOTANA",
+  "postalCode": "95116"
  },
  {
   "id": 7171020006,
   "districtId": 7171020,
-  "name": "SARIO KOTA BARU"
+  "districtName": "SARIO",
+  "name": "SARIO KOTA BARU",
+  "postalCode": "95113"
  },
  {
   "id": 7171020007,
   "districtId": 7171020,
-  "name": "SARIO"
+  "districtName": "SARIO",
+  "name": "SARIO",
+  "postalCode": "95114"
  },
  {
   "id": 7171020008,
   "districtId": 7171020,
-  "name": "SARIO TUMPAAN"
+  "districtName": "SARIO",
+  "name": "SARIO TUMPAAN",
+  "postalCode": "95114"
  },
  {
   "id": 7171020009,
   "districtId": 7171020,
-  "name": "SARIO UTARA"
+  "districtName": "SARIO",
+  "name": "SARIO UTARA",
+  "postalCode": "95114"
  },
  {
   "id": 7171020011,
   "districtId": 7171020,
-  "name": "TITIWUNGEN SELATAN"
+  "districtName": "SARIO",
+  "name": "TITIWUNGEN SELATAN",
+  "postalCode": "95113"
  },
  {
   "id": 7171020012,
   "districtId": 7171020,
-  "name": "TITIWUNGEN UTARA"
+  "districtName": "SARIO",
+  "name": "TITIWUNGEN UTARA",
+  "postalCode": "95113"
  }
 ]

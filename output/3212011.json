@@ -2,36 +2,50 @@
  {
   "id": 3212011001,
   "districtId": 3212011,
-  "name": "BANTARWARU"
+  "districtName": "GANTAR",
+  "name": "BANTARWARU",
+  "postalCode": "45264"
  },
  {
   "id": 3212011002,
   "districtId": 3212011,
-  "name": "SANCA"
+  "districtName": "GANTAR",
+  "name": "SANCA",
+  "postalCode": "41281"
  },
  {
   "id": 3212011003,
   "districtId": 3212011,
-  "name": "MEKARJAYA"
+  "districtName": "GANTAR",
+  "name": "MEKARJAYA",
+  "postalCode": "30653"
  },
  {
   "id": 3212011004,
   "districtId": 3212011,
-  "name": "GANTAR"
+  "districtName": "GANTAR",
+  "name": "GANTAR",
+  "postalCode": "45264"
  },
  {
   "id": 3212011005,
   "districtId": 3212011,
-  "name": "SITURAJA"
+  "districtName": "GANTAR",
+  "name": "SITURAJA",
+  "postalCode": "45264"
  },
  {
   "id": 3212011006,
   "districtId": 3212011,
-  "name": "BALERAJA"
+  "districtName": "GANTAR",
+  "name": "BALERAJA",
+  "postalCode": "45264"
  },
  {
   "id": 3212011007,
   "districtId": 3212011,
-  "name": "MEKARWARU"
+  "districtName": "GANTAR",
+  "name": "MEKARWARU",
+  "postalCode": "45264"
  }
 ]

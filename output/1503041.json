@@ -2,76 +2,106 @@
  {
   "id": 1503041001,
   "districtId": 1503041,
-  "name": "TANJUNG GAGAK"
+  "districtName": "BATHIN VIII",
+  "name": "TANJUNG GAGAK",
+  "postalCode": "37481"
  },
  {
   "id": 1503041002,
   "districtId": 1503041,
-  "name": "RANTAU GEDANG"
+  "districtName": "BATHIN VIII",
+  "name": "RANTAU GEDANG",
+  "postalCode": "24785"
  },
  {
   "id": 1503041003,
   "districtId": 1503041,
-  "name": "PULAU BUAYO"
+  "districtName": "BATHIN VIII",
+  "name": "PULAU BUAYO",
+  "postalCode": "37481"
  },
  {
   "id": 1503041004,
   "districtId": 1503041,
-  "name": "BATU PENYABUNG"
+  "districtName": "BATHIN VIII",
+  "name": "BATU PENYABUNG",
+  "postalCode": "37481"
  },
  {
   "id": 1503041005,
   "districtId": 1503041,
-  "name": "TELUK KECIMBUNG"
+  "districtName": "BATHIN VIII",
+  "name": "TELUK KECIMBUNG",
+  "postalCode": "37255"
  },
  {
   "id": 1503041006,
   "districtId": 1503041,
-  "name": "DUSUN DALAM"
+  "districtName": "BATHIN VIII",
+  "name": "DUSUN DALAM",
+  "postalCode": "37481"
  },
  {
   "id": 1503041007,
   "districtId": 1503041,
-  "name": "PULAU LINTANG"
+  "districtName": "BATHIN VIII",
+  "name": "PULAU LINTANG",
+  "postalCode": "37481"
  },
  {
   "id": 1503041008,
   "districtId": 1503041,
-  "name": "PENARUN"
+  "districtName": "BATHIN VIII",
+  "name": "PENARUN",
+  "postalCode": "24563"
  },
  {
   "id": 1503041009,
   "districtId": 1503041,
-  "name": "PULAU MALAKO"
+  "districtName": "BATHIN VIII",
+  "name": "PULAU MALAKO",
+  "postalCode": ""
  },
  {
   "id": 1503041010,
   "districtId": 1503041,
-  "name": "TANJUNG"
+  "districtName": "BATHIN VIII",
+  "name": "TANJUNG",
+  "postalCode": "24562"
  },
  {
   "id": 1503041011,
   "districtId": 1503041,
-  "name": "LIMBUR TEMBESI"
+  "districtName": "BATHIN VIII",
+  "name": "LIMBUR TEMBESI",
+  "postalCode": "37481"
  },
  {
   "id": 1503041012,
   "districtId": 1503041,
-  "name": "BANGUN JAYO"
+  "districtName": "BATHIN VIII",
+  "name": "BANGUN JAYO",
+  "postalCode": "37481"
  },
  {
   "id": 1503041023,
   "districtId": 1503041,
-  "name": "MUARALATI"
+  "districtName": "BATHIN VIII",
+  "name": "MUARALATI",
+  "postalCode": "37481"
  },
  {
   "id": 1503041024,
   "districtId": 1503041,
-  "name": "TELUK MANCUR"
+  "districtName": "BATHIN VIII",
+  "name": "TELUK MANCUR",
+  "postalCode": "37481"
  },
  {
   "id": 1503041025,
   "districtId": 1503041,
-  "name": "SUKAJADI"
+  "districtName": "BATHIN VIII",
+  "name": "SUKAJADI",
+  "postalCode": "24472"
  }
 ]

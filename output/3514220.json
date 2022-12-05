@@ -2,71 +2,99 @@
  {
   "id": 3514220001,
   "districtId": 3514220,
-  "name": "KEBON REJO"
+  "districtName": "GRATI",
+  "name": "KEBON REJO",
+  "postalCode": "67184"
  },
  {
   "id": 3514220002,
   "districtId": 3514220,
-  "name": "KARANG LO"
+  "districtName": "GRATI",
+  "name": "KARANG LO",
+  "postalCode": "67184"
  },
  {
   "id": 3514220003,
   "districtId": 3514220,
-  "name": "REBALAS"
+  "districtName": "GRATI",
+  "name": "REBALAS",
+  "postalCode": "67184"
  },
  {
   "id": 3514220004,
   "districtId": 3514220,
-  "name": "PLOSOSARI"
+  "districtName": "GRATI",
+  "name": "PLOSOSARI",
+  "postalCode": "51364"
  },
  {
   "id": 3514220005,
   "districtId": 3514220,
-  "name": "GRATI TUNON"
+  "districtName": "GRATI",
+  "name": "GRATI TUNON",
+  "postalCode": "67184"
  },
  {
   "id": 3514220006,
   "districtId": 3514220,
-  "name": "KALIPANG"
+  "districtName": "GRATI",
+  "name": "KALIPANG",
+  "postalCode": "58183"
  },
  {
   "id": 3514220008,
   "districtId": 3514220,
-  "name": "KAMBINGAN REJO"
+  "districtName": "GRATI",
+  "name": "KAMBINGAN REJO",
+  "postalCode": "67184"
  },
  {
   "id": 3514220009,
   "districtId": 3514220,
-  "name": "KARANG KLIWON"
+  "districtName": "GRATI",
+  "name": "KARANG KLIWON",
+  "postalCode": "67184"
  },
  {
   "id": 3514220010,
   "districtId": 3514220,
-  "name": "KEDAWUNG KULON"
+  "districtName": "GRATI",
+  "name": "KEDAWUNG KULON",
+  "postalCode": "67184"
  },
  {
   "id": 3514220011,
   "districtId": 3514220,
-  "name": "KEDAWUNG WETAN"
+  "districtName": "GRATI",
+  "name": "KEDAWUNG WETAN",
+  "postalCode": "67184"
  },
  {
   "id": 3514220012,
   "districtId": 3514220,
-  "name": "SUMBER AGUNG"
+  "districtName": "GRATI",
+  "name": "SUMBER AGUNG",
+  "postalCode": "37353"
  },
  {
   "id": 3514220013,
   "districtId": 3514220,
-  "name": "RANU KLINDUNGAN"
+  "districtName": "GRATI",
+  "name": "RANU KLINDUNGAN",
+  "postalCode": "67184"
  },
  {
   "id": 3514220014,
   "districtId": 3514220,
-  "name": "SUMBER DAWESARI"
+  "districtName": "GRATI",
+  "name": "SUMBER DAWESARI",
+  "postalCode": "67184"
  },
  {
   "id": 3514220015,
   "districtId": 3514220,
-  "name": "CUKUR GONDANG"
+  "districtName": "GRATI",
+  "name": "CUKUR GONDANG",
+  "postalCode": "67184"
  }
 ]

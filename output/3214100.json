@@ -2,51 +2,71 @@
  {
   "id": 3214100005,
   "districtId": 3214100,
-  "name": "SINDANGKASIH"
+  "districtName": "PURWAKARTA",
+  "name": "SINDANGKASIH",
+  "postalCode": "45172"
  },
  {
   "id": 3214100006,
   "districtId": 3214100,
-  "name": "NAGERI KIDUL"
+  "districtName": "PURWAKARTA",
+  "name": "NAGERI KIDUL",
+  "postalCode": ""
  },
  {
   "id": 3214100007,
   "districtId": 3214100,
-  "name": "NAGERI TENGAH"
+  "districtName": "PURWAKARTA",
+  "name": "NAGERI TENGAH",
+  "postalCode": ""
  },
  {
   "id": 3214100008,
   "districtId": 3214100,
-  "name": "CIPAISAN"
+  "districtName": "PURWAKARTA",
+  "name": "CIPAISAN",
+  "postalCode": "41113"
  },
  {
   "id": 3214100009,
   "districtId": 3214100,
-  "name": "NAGERI KALER"
+  "districtName": "PURWAKARTA",
+  "name": "NAGERI KALER",
+  "postalCode": ""
  },
  {
   "id": 3214100010,
   "districtId": 3214100,
-  "name": "TEGALMUNJUL"
+  "districtName": "PURWAKARTA",
+  "name": "TEGALMUNJUL",
+  "postalCode": "41116"
  },
  {
   "id": 3214100011,
   "districtId": 3214100,
-  "name": "CITALANG"
+  "districtName": "PURWAKARTA",
+  "name": "CITALANG",
+  "postalCode": "41111"
  },
  {
   "id": 3214100012,
   "districtId": 3214100,
-  "name": "MUNJULJAYA"
+  "districtName": "PURWAKARTA",
+  "name": "MUNJULJAYA",
+  "postalCode": "41117"
  },
  {
   "id": 3214100013,
   "districtId": 3214100,
-  "name": "CISEUREUH"
+  "districtName": "PURWAKARTA",
+  "name": "CISEUREUH",
+  "postalCode": "41118"
  },
  {
   "id": 3214100016,
   "districtId": 3214100,
-  "name": "PURWAMEKAR"
+  "districtName": "PURWAKARTA",
+  "name": "PURWAMEKAR",
+  "postalCode": "41119"
  }
 ]

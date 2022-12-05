@@ -2,61 +2,85 @@
  {
   "id": 1707050013,
   "districtId": 1707050,
-  "name": "TALANG ULU"
+  "districtName": "LEBONG UTARA",
+  "name": "TALANG ULU",
+  "postalCode": "38653"
  },
  {
   "id": 1707050014,
   "districtId": 1707050,
-  "name": "KAMPUNG MUARA AMAN"
+  "districtName": "LEBONG UTARA",
+  "name": "KAMPUNG MUARA AMAN",
+  "postalCode": "39264"
  },
  {
   "id": 1707050028,
   "districtId": 1707050,
-  "name": "NANGAI AMEN"
+  "districtName": "LEBONG UTARA",
+  "name": "NANGAI AMEN",
+  "postalCode": ""
  },
  {
   "id": 1707050029,
   "districtId": 1707050,
-  "name": "PASAR MUARA AMAN"
+  "districtName": "LEBONG UTARA",
+  "name": "PASAR MUARA AMAN",
+  "postalCode": "39264"
  },
  {
   "id": 1707050030,
   "districtId": 1707050,
-  "name": "KAMPUNG DALAM"
+  "districtName": "LEBONG UTARA",
+  "name": "KAMPUNG DALAM",
+  "postalCode": "21451"
  },
  {
   "id": 1707050031,
   "districtId": 1707050,
-  "name": "GANDUNG"
+  "districtName": "LEBONG UTARA",
+  "name": "GANDUNG",
+  "postalCode": "39264"
  },
  {
   "id": 1707050032,
   "districtId": 1707050,
-  "name": "LOKASARI"
+  "districtName": "LEBONG UTARA",
+  "name": "LOKASARI",
+  "postalCode": "39264"
  },
  {
   "id": 1707050033,
   "districtId": 1707050,
-  "name": "LEBONG TAMBANG"
+  "districtName": "LEBONG UTARA",
+  "name": "LEBONG TAMBANG",
+  "postalCode": "39264"
  },
  {
   "id": 1707050034,
   "districtId": 1707050,
-  "name": "KAMPUNG JAWA"
+  "districtName": "LEBONG UTARA",
+  "name": "KAMPUNG JAWA",
+  "postalCode": "24655"
  },
  {
   "id": 1707050035,
   "districtId": 1707050,
-  "name": "LADANG PALEMBANG"
+  "districtName": "LEBONG UTARA",
+  "name": "LADANG PALEMBANG",
+  "postalCode": "39264"
  },
  {
   "id": 1707050036,
   "districtId": 1707050,
-  "name": "TUNGGANG"
+  "districtName": "LEBONG UTARA",
+  "name": "TUNGGANG",
+  "postalCode": "39264"
  },
  {
   "id": 1707050043,
   "districtId": 1707050,
-  "name": "GANDUNG BARU"
+  "districtName": "LEBONG UTARA",
+  "name": "GANDUNG BARU",
+  "postalCode": "39264"
  }
 ]

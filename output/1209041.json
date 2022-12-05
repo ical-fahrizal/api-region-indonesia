@@ -2,51 +2,71 @@
  {
   "id": 1209041001,
   "districtId": 1209041,
-  "name": "SIPOLHA HORISAN"
+  "districtName": "PEMATANG SIDAMANIK",
+  "name": "SIPOLHA HORISAN",
+  "postalCode": "21186"
  },
  {
   "id": 1209041002,
   "districtId": 1209041,
-  "name": "PEMATANG TAMBUN RAYA"
+  "districtName": "PEMATANG SIDAMANIK",
+  "name": "PEMATANG TAMBUN RAYA",
+  "postalCode": "21186"
  },
  {
   "id": 1209041003,
   "districtId": 1209041,
-  "name": "SIHAPORAS"
+  "districtName": "PEMATANG SIDAMANIK",
+  "name": "SIHAPORAS",
+  "postalCode": "21186"
  },
  {
   "id": 1209041004,
   "districtId": 1209041,
-  "name": "JORLANG HULUAN"
+  "districtName": "PEMATANG SIDAMANIK",
+  "name": "JORLANG HULUAN",
+  "postalCode": "21186"
  },
  {
   "id": 1209041005,
   "districtId": 1209041,
-  "name": "BANDAR MANIK"
+  "districtName": "PEMATANG SIDAMANIK",
+  "name": "BANDAR MANIK",
+  "postalCode": "21186"
  },
  {
   "id": 1209041006,
   "districtId": 1209041,
-  "name": "SAIT BUTTU SARIBU"
+  "districtName": "PEMATANG SIDAMANIK",
+  "name": "SAIT BUTTU SARIBU",
+  "postalCode": "21186"
  },
  {
   "id": 1209041007,
   "districtId": 1209041,
-  "name": "PEMATANG SIDAMANIK"
+  "districtName": "PEMATANG SIDAMANIK",
+  "name": "PEMATANG SIDAMANIK",
+  "postalCode": "21186"
  },
  {
   "id": 1209041008,
   "districtId": 1209041,
-  "name": "SARIMATTIN"
+  "districtName": "PEMATANG SIDAMANIK",
+  "name": "SARIMATTIN",
+  "postalCode": "21186"
  },
  {
   "id": 1209041009,
   "districtId": 1209041,
-  "name": "SIMANTIN"
+  "districtName": "PEMATANG SIDAMANIK",
+  "name": "SIMANTIN",
+  "postalCode": "21186"
  },
  {
   "id": 1209041010,
   "districtId": 1209041,
-  "name": "GORAK"
+  "districtName": "PEMATANG SIDAMANIK",
+  "name": "GORAK",
+  "postalCode": "21186"
  }
 ]

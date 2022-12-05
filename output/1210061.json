@@ -2,46 +2,64 @@
  {
   "id": 1210061001,
   "districtId": 1210061,
-  "name": "SUMBUL"
+  "districtName": "LAE PARIRA",
+  "name": "SUMBUL",
+  "postalCode": "22281"
  },
  {
   "id": 1210061002,
   "districtId": 1210061,
-  "name": "KENTARA"
+  "districtName": "LAE PARIRA",
+  "name": "KENTARA",
+  "postalCode": "22281"
  },
  {
   "id": 1210061003,
   "districtId": 1210061,
-  "name": "LAE PARIRA"
+  "districtName": "LAE PARIRA",
+  "name": "LAE PARIRA",
+  "postalCode": "22281"
  },
  {
   "id": 1210061004,
   "districtId": 1210061,
-  "name": "BULU DURI"
+  "districtName": "LAE PARIRA",
+  "name": "BULU DURI",
+  "postalCode": "22281"
  },
  {
   "id": 1210061005,
   "districtId": 1210061,
-  "name": "SEMPUNG POLLING"
+  "districtName": "LAE PARIRA",
+  "name": "SEMPUNG POLLING",
+  "postalCode": "22281"
  },
  {
   "id": 1210061006,
   "districtId": 1210061,
-  "name": "PANDIANGAN"
+  "districtName": "LAE PARIRA",
+  "name": "PANDIANGAN",
+  "postalCode": "22281"
  },
  {
   "id": 1210061007,
   "districtId": 1210061,
-  "name": "LUMBAN SIHITE"
+  "districtName": "LAE PARIRA",
+  "name": "LUMBAN SIHITE",
+  "postalCode": "22281"
  },
  {
   "id": 1210061008,
   "districtId": 1210061,
-  "name": "LUMBAN TORUAN"
+  "districtName": "LAE PARIRA",
+  "name": "LUMBAN TORUAN",
+  "postalCode": "22281"
  },
  {
   "id": 1210061009,
   "districtId": 1210061,
-  "name": "KABAN JULU"
+  "districtName": "LAE PARIRA",
+  "name": "KABAN JULU",
+  "postalCode": ""
  }
 ]

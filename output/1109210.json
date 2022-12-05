@@ -2,321 +2,449 @@
  {
   "id": 1109210001,
   "districtId": 1109210,
-  "name": "TUMPOK LAWEUNG"
+  "districtName": "PIDIE",
+  "name": "TUMPOK LAWEUNG",
+  "postalCode": "24151"
  },
  {
   "id": 1109210002,
   "districtId": 1109210,
-  "name": "ULEE CEUE KEULIBEUT"
+  "districtName": "PIDIE",
+  "name": "ULEE CEUE KEULIBEUT",
+  "postalCode": ""
  },
  {
   "id": 1109210003,
   "districtId": 1109210,
-  "name": "KEUDEE"
+  "districtName": "PIDIE",
+  "name": "KEUDEE",
+  "postalCode": "24166"
  },
  {
   "id": 1109210004,
   "districtId": 1109210,
-  "name": "ULEE TUTUE"
+  "districtName": "PIDIE",
+  "name": "ULEE TUTUE",
+  "postalCode": "24173"
  },
  {
   "id": 1109210005,
   "districtId": 1109210,
-  "name": "DALUENG"
+  "districtName": "PIDIE",
+  "name": "DALUENG",
+  "postalCode": "24151"
  },
  {
   "id": 1109210006,
   "districtId": 1109210,
-  "name": "JAWA"
+  "districtName": "PIDIE",
+  "name": "JAWA",
+  "postalCode": "23654"
  },
  {
   "id": 1109210007,
   "districtId": 1109210,
-  "name": "ABO"
+  "districtName": "PIDIE",
+  "name": "ABO",
+  "postalCode": ""
  },
  {
   "id": 1109210008,
   "districtId": 1109210,
-  "name": "MEUCAT"
+  "districtName": "PIDIE",
+  "name": "MEUCAT",
+  "postalCode": "24152"
  },
  {
   "id": 1109210009,
   "districtId": 1109210,
-  "name": "BAYU"
+  "districtName": "PIDIE",
+  "name": "BAYU",
+  "postalCode": "23352"
  },
  {
   "id": 1109210010,
   "districtId": 1109210,
-  "name": "DAYAH TEUBENG"
+  "districtName": "PIDIE",
+  "name": "DAYAH TEUBENG",
+  "postalCode": "24151"
  },
  {
   "id": 1109210011,
   "districtId": 1109210,
-  "name": "GAMPONG"
+  "districtName": "PIDIE",
+  "name": "GAMPONG",
+  "postalCode": "24151"
  },
  {
   "id": 1109210012,
   "districtId": 1109210,
-  "name": "COT GEUNDUEK"
+  "districtName": "PIDIE",
+  "name": "COT GEUNDUEK",
+  "postalCode": "24151"
  },
  {
   "id": 1109210013,
   "districtId": 1109210,
-  "name": "DAYAH TANOH"
+  "districtName": "PIDIE",
+  "name": "DAYAH TANOH",
+  "postalCode": "24183"
  },
  {
   "id": 1109210014,
   "districtId": 1109210,
-  "name": "DAYAH TUTONG"
+  "districtName": "PIDIE",
+  "name": "DAYAH TUTONG",
+  "postalCode": "24151"
  },
  {
   "id": 1109210015,
   "districtId": 1109210,
-  "name": "RAYA SANGGEUE"
+  "districtName": "PIDIE",
+  "name": "RAYA SANGGEUE",
+  "postalCode": "24151"
  },
  {
   "id": 1109210016,
   "districtId": 1109210,
-  "name": "SIRONG"
+  "districtName": "PIDIE",
+  "name": "SIRONG",
+  "postalCode": "24151"
  },
  {
   "id": 1109210017,
   "districtId": 1109210,
-  "name": "KEUTUMBU"
+  "districtName": "PIDIE",
+  "name": "KEUTUMBU",
+  "postalCode": "24151"
  },
  {
   "id": 1109210018,
   "districtId": 1109210,
-  "name": "JEULEUPE"
+  "districtName": "PIDIE",
+  "name": "JEULEUPE",
+  "postalCode": ""
  },
  {
   "id": 1109210019,
   "districtId": 1109210,
-  "name": "KRUENG DHOE"
+  "districtName": "PIDIE",
+  "name": "KRUENG DHOE",
+  "postalCode": "24151"
  },
  {
   "id": 1109210020,
   "districtId": 1109210,
-  "name": "KEUTAPANG"
+  "districtName": "PIDIE",
+  "name": "KEUTAPANG",
+  "postalCode": "24171"
  },
  {
   "id": 1109210021,
   "districtId": 1109210,
-  "name": "KAMPUNG BARAT"
+  "districtName": "PIDIE",
+  "name": "KAMPUNG BARAT",
+  "postalCode": ""
  },
  {
   "id": 1109210022,
   "districtId": 1109210,
-  "name": "KAMPONG PUKAT"
+  "districtName": "PIDIE",
+  "name": "KAMPONG PUKAT",
+  "postalCode": ""
  },
  {
   "id": 1109210023,
   "districtId": 1109210,
-  "name": "LABUI"
+  "districtName": "PIDIE",
+  "name": "LABUI",
+  "postalCode": "23373"
  },
  {
   "id": 1109210024,
   "districtId": 1109210,
-  "name": "TANJONG"
+  "districtName": "PIDIE",
+  "name": "TANJONG",
+  "postalCode": "24472"
  },
  {
   "id": 1109210025,
   "districtId": 1109210,
-  "name": "TIJUE"
+  "districtName": "PIDIE",
+  "name": "TIJUE",
+  "postalCode": "24151"
  },
  {
   "id": 1109210026,
   "districtId": 1109210,
-  "name": "PAYA"
+  "districtName": "PIDIE",
+  "name": "PAYA",
+  "postalCode": "24152"
  },
  {
   "id": 1109210027,
   "districtId": 1109210,
-  "name": "ULEE CEUE TEUBENG"
+  "districtName": "PIDIE",
+  "name": "ULEE CEUE TEUBENG",
+  "postalCode": ""
  },
  {
   "id": 1109210028,
   "districtId": 1109210,
-  "name": "DAYAH TEUNGOH"
+  "districtName": "PIDIE",
+  "name": "DAYAH TEUNGOH",
+  "postalCode": "24151"
  },
  {
   "id": 1109210029,
   "districtId": 1109210,
-  "name": "MESJID RUNTOH"
+  "districtName": "PIDIE",
+  "name": "MESJID RUNTOH",
+  "postalCode": "24151"
  },
  {
   "id": 1109210030,
   "districtId": 1109210,
-  "name": "BAROH"
+  "districtName": "PIDIE",
+  "name": "BAROH",
+  "postalCode": "24152"
  },
  {
   "id": 1109210031,
   "districtId": 1109210,
-  "name": "PUUK"
+  "districtName": "PIDIE",
+  "name": "PUUK",
+  "postalCode": "24162"
  },
  {
   "id": 1109210032,
   "districtId": 1109210,
-  "name": "LAMPEUDEU TUNONG"
+  "districtName": "PIDIE",
+  "name": "LAMPEUDEU TUNONG",
+  "postalCode": "24151"
  },
  {
   "id": 1109210033,
   "districtId": 1109210,
-  "name": "LAMPEUDEU BAROH"
+  "districtName": "PIDIE",
+  "name": "LAMPEUDEU BAROH",
+  "postalCode": "24151"
  },
  {
   "id": 1109210034,
   "districtId": 1109210,
-  "name": "LAMPOH LADA"
+  "districtName": "PIDIE",
+  "name": "LAMPOH LADA",
+  "postalCode": "24186"
  },
  {
   "id": 1109210035,
   "districtId": 1109210,
-  "name": "KEUNIREE"
+  "districtName": "PIDIE",
+  "name": "KEUNIREE",
+  "postalCode": ""
  },
  {
   "id": 1109210036,
   "districtId": 1109210,
-  "name": "COT TEUNGOH"
+  "districtName": "PIDIE",
+  "name": "COT TEUNGOH",
+  "postalCode": "24151"
  },
  {
   "id": 1109210037,
   "districtId": 1109210,
-  "name": "COT RHENG"
+  "districtName": "PIDIE",
+  "name": "COT RHENG",
+  "postalCode": "24151"
  },
  {
   "id": 1109210038,
   "districtId": 1109210,
-  "name": "TUMPOK 40"
+  "districtName": "PIDIE",
+  "name": "TUMPOK 40",
+  "postalCode": "24151"
  },
  {
   "id": 1109210039,
   "districtId": 1109210,
-  "name": "PULO PISANG"
+  "districtName": "PIDIE",
+  "name": "PULO PISANG",
+  "postalCode": "24261"
  },
  {
   "id": 1109210040,
   "districtId": 1109210,
-  "name": "PALOH"
+  "districtName": "PIDIE",
+  "name": "PALOH",
+  "postalCode": "24261"
  },
  {
   "id": 1109210041,
   "districtId": 1109210,
-  "name": "LAMKUTA"
+  "districtName": "PIDIE",
+  "name": "LAMKUTA",
+  "postalCode": "23764"
  },
  {
   "id": 1109210042,
   "districtId": 1109210,
-  "name": "LHOK KEUTAPANG"
+  "districtName": "PIDIE",
+  "name": "LHOK KEUTAPANG",
+  "postalCode": "24151"
  },
  {
   "id": 1109210043,
   "districtId": 1109210,
-  "name": "TIBANG"
+  "districtName": "PIDIE",
+  "name": "TIBANG",
+  "postalCode": "24151"
  },
  {
   "id": 1109210044,
   "districtId": 1109210,
-  "name": "JEUMPA"
+  "districtName": "PIDIE",
+  "name": "JEUMPA",
+  "postalCode": "24151"
  },
  {
   "id": 1109210045,
   "districtId": 1109210,
-  "name": "UJONG LANGGO"
+  "districtName": "PIDIE",
+  "name": "UJONG LANGGO",
+  "postalCode": "24151"
  },
  {
   "id": 1109210046,
   "districtId": 1109210,
-  "name": "BATEE"
+  "districtName": "PIDIE",
+  "name": "BATEE",
+  "postalCode": "24153"
  },
  {
   "id": 1109210047,
   "districtId": 1109210,
-  "name": "BIE"
+  "districtName": "PIDIE",
+  "name": "BIE",
+  "postalCode": "24151"
  },
  {
   "id": 1109210048,
   "districtId": 1109210,
-  "name": "BLANGKULA"
+  "districtName": "PIDIE",
+  "name": "BLANGKULA",
+  "postalCode": "24151"
  },
  {
   "id": 1109210049,
   "districtId": 1109210,
-  "name": "ALUE"
+  "districtName": "PIDIE",
+  "name": "ALUE",
+  "postalCode": "24184"
  },
  {
   "id": 1109210050,
   "districtId": 1109210,
-  "name": "PAYA LINTEUNG"
+  "districtName": "PIDIE",
+  "name": "PAYA LINTEUNG",
+  "postalCode": "24151"
  },
  {
   "id": 1109210051,
   "districtId": 1109210,
-  "name": "SEUKEE"
+  "districtName": "PIDIE",
+  "name": "SEUKEE",
+  "postalCode": "24183"
  },
  {
   "id": 1109210052,
   "districtId": 1109210,
-  "name": "SEURI WEUK"
+  "districtName": "PIDIE",
+  "name": "SEURI WEUK",
+  "postalCode": "24151"
  },
  {
   "id": 1109210053,
   "districtId": 1109210,
-  "name": "PULI"
+  "districtName": "PIDIE",
+  "name": "PULI",
+  "postalCode": "24151"
  },
  {
   "id": 1109210054,
   "districtId": 1109210,
-  "name": "MESJID UTUE"
+  "districtName": "PIDIE",
+  "name": "MESJID UTUE",
+  "postalCode": "24151"
  },
  {
   "id": 1109210055,
   "districtId": 1109210,
-  "name": "SEUKEUMBROK"
+  "districtName": "PIDIE",
+  "name": "SEUKEUMBROK",
+  "postalCode": "24151"
  },
  {
   "id": 1109210056,
   "districtId": 1109210,
-  "name": "LEUBUE"
+  "districtName": "PIDIE",
+  "name": "LEUBUE",
+  "postalCode": ""
  },
  {
   "id": 1109210057,
   "districtId": 1109210,
-  "name": "COT GEULUMPANG"
+  "districtName": "PIDIE",
+  "name": "COT GEULUMPANG",
+  "postalCode": "24263"
  },
  {
   "id": 1109210058,
   "districtId": 1109210,
-  "name": "GAMPONG BARO"
+  "districtName": "PIDIE",
+  "name": "GAMPONG BARO",
+  "postalCode": "24454"
  },
  {
   "id": 1109210059,
   "districtId": 1109210,
-  "name": "GAJAH AYEE"
+  "districtName": "PIDIE",
+  "name": "GAJAH AYEE",
+  "postalCode": "24151"
  },
  {
   "id": 1109210060,
   "districtId": 1109210,
-  "name": "RAWA"
+  "districtName": "PIDIE",
+  "name": "RAWA",
+  "postalCode": "24151"
  },
  {
   "id": 1109210061,
   "districtId": 1109210,
-  "name": "PEUKAN BARO"
+  "districtName": "PIDIE",
+  "name": "PEUKAN BARO",
+  "postalCode": "24151"
  },
  {
   "id": 1109210062,
   "districtId": 1109210,
-  "name": "PULO BUBEE"
+  "districtName": "PIDIE",
+  "name": "PULO BUBEE",
+  "postalCode": "24151"
  },
  {
   "id": 1109210063,
   "districtId": 1109210,
-  "name": "MANCANG"
+  "districtName": "PIDIE",
+  "name": "MANCANG",
+  "postalCode": "24151"
  },
  {
   "id": 1109210064,
   "districtId": 1109210,
-  "name": "RAYA UTUE"
+  "districtName": "PIDIE",
+  "name": "RAYA UTUE",
+  "postalCode": "24151"
  }
 ]

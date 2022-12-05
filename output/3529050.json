@@ -2,41 +2,57 @@
  {
   "id": 3529050001,
   "districtId": 3529050,
-  "name": "PADIKE"
+  "districtName": "TALANGO",
+  "name": "PADIKE",
+  "postalCode": "69481"
  },
  {
   "id": 3529050002,
   "districtId": 3529050,
-  "name": "CABBIYA"
+  "districtName": "TALANGO",
+  "name": "CABBIYA",
+  "postalCode": "69481"
  },
  {
   "id": 3529050003,
   "districtId": 3529050,
-  "name": "ESSANG"
+  "districtName": "TALANGO",
+  "name": "ESSANG",
+  "postalCode": "69481"
  },
  {
   "id": 3529050004,
   "districtId": 3529050,
-  "name": "KOMBANG"
+  "districtName": "TALANGO",
+  "name": "KOMBANG",
+  "postalCode": "69481"
  },
  {
   "id": 3529050005,
   "districtId": 3529050,
-  "name": "POTERAN"
+  "districtName": "TALANGO",
+  "name": "POTERAN",
+  "postalCode": "69485"
  },
  {
   "id": 3529050006,
   "districtId": 3529050,
-  "name": "PALASA"
+  "districtName": "TALANGO",
+  "name": "PALASA",
+  "postalCode": "69481"
  },
  {
   "id": 3529050007,
   "districtId": 3529050,
-  "name": "GAPURANA"
+  "districtName": "TALANGO",
+  "name": "GAPURANA",
+  "postalCode": "69481"
  },
  {
   "id": 3529050008,
   "districtId": 3529050,
-  "name": "TALANGO"
+  "districtName": "TALANGO",
+  "name": "TALANGO",
+  "postalCode": "69481"
  }
 ]

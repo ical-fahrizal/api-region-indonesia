@@ -2,41 +2,57 @@
  {
   "id": 9402221003,
   "districtId": 9402221,
-  "name": "KUKURIMA"
+  "districtName": "WOLLO",
+  "name": "KUKURIMA",
+  "postalCode": "99557"
  },
  {
   "id": 9402221009,
   "districtId": 9402221,
-  "name": "PIRAMBOT"
+  "districtName": "WOLLO",
+  "name": "PIRAMBOT",
+  "postalCode": ""
  },
  {
   "id": 9402221010,
   "districtId": 9402221,
-  "name": "WOLLO"
+  "districtName": "WOLLO",
+  "name": "WOLLO",
+  "postalCode": ""
  },
  {
   "id": 9402221015,
   "districtId": 9402221,
-  "name": "WOLLO TIMUR"
+  "districtName": "WOLLO",
+  "name": "WOLLO TIMUR",
+  "postalCode": "99557"
  },
  {
   "id": 9402221016,
   "districtId": 9402221,
-  "name": "TEGABAGA"
+  "districtName": "WOLLO",
+  "name": "TEGABAGA",
+  "postalCode": "99557"
  },
  {
   "id": 9402221017,
   "districtId": 9402221,
-  "name": "ALUGI"
+  "districtName": "WOLLO",
+  "name": "ALUGI",
+  "postalCode": "99587"
  },
  {
   "id": 9402221018,
   "districtId": 9402221,
-  "name": "WODLAMA"
+  "districtName": "WOLLO",
+  "name": "WODLAMA",
+  "postalCode": ""
  },
  {
   "id": 9402221019,
   "districtId": 9402221,
-  "name": "WUNAN"
+  "districtName": "WOLLO",
+  "name": "WUNAN",
+  "postalCode": "99557"
  }
 ]

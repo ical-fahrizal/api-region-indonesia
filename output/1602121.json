@@ -2,96 +2,134 @@
  {
   "id": 1602121001,
   "districtId": 1602121,
-  "name": "PEMATANG KIJANG"
+  "districtName": "JEJAWI",
+  "name": "PEMATANG KIJANG",
+  "postalCode": "30652"
  },
  {
   "id": 1602121002,
   "districtId": 1602121,
-  "name": "BUBUSAN"
+  "districtName": "JEJAWI",
+  "name": "BUBUSAN",
+  "postalCode": "30652"
  },
  {
   "id": 1602121003,
   "districtId": 1602121,
-  "name": "AIR HITAM"
+  "districtName": "JEJAWI",
+  "name": "AIR HITAM",
+  "postalCode": "20856"
  },
  {
   "id": 1602121004,
   "districtId": 1602121,
-  "name": "JEJAWI"
+  "districtName": "JEJAWI",
+  "name": "JEJAWI",
+  "postalCode": "30652"
  },
  {
   "id": 1602121005,
   "districtId": 1602121,
-  "name": "KARANG AGUNG"
+  "districtName": "JEJAWI",
+  "name": "KARANG AGUNG",
+  "postalCode": "31315"
  },
  {
   "id": 1602121006,
   "districtId": 1602121,
-  "name": "TALANG CEMPEDAK"
+  "districtName": "JEJAWI",
+  "name": "TALANG CEMPEDAK",
+  "postalCode": "30652"
  },
  {
   "id": 1602121007,
   "districtId": 1602121,
-  "name": "LUBUK KETEPENG"
+  "districtName": "JEJAWI",
+  "name": "LUBUK KETEPENG",
+  "postalCode": "30652"
  },
  {
   "id": 1602121008,
   "districtId": 1602121,
-  "name": "TANJUNG AUR"
+  "districtName": "JEJAWI",
+  "name": "TANJUNG AUR",
+  "postalCode": "37554"
  },
  {
   "id": 1602121009,
   "districtId": 1602121,
-  "name": "LINGKIS"
+  "districtName": "JEJAWI",
+  "name": "LINGKIS",
+  "postalCode": "30652"
  },
  {
   "id": 1602121010,
   "districtId": 1602121,
-  "name": "MUARA BATUN"
+  "districtName": "JEJAWI",
+  "name": "MUARA BATUN",
+  "postalCode": "30652"
  },
  {
   "id": 1602121011,
   "districtId": 1602121,
-  "name": "TERUSAN JAWA"
+  "districtName": "JEJAWI",
+  "name": "TERUSAN JAWA",
+  "postalCode": "30652"
  },
  {
   "id": 1602121012,
   "districtId": 1602121,
-  "name": "SIMPANG EMPAT"
+  "districtName": "JEJAWI",
+  "name": "SIMPANG EMPAT",
+  "postalCode": "24313"
  },
  {
   "id": 1602121013,
   "districtId": 1602121,
-  "name": "PEDU"
+  "districtName": "JEJAWI",
+  "name": "PEDU",
+  "postalCode": "30652"
  },
  {
   "id": 1602121014,
   "districtId": 1602121,
-  "name": "ULAK TEMBAGA"
+  "districtName": "JEJAWI",
+  "name": "ULAK TEMBAGA",
+  "postalCode": "30652"
  },
  {
   "id": 1602121015,
   "districtId": 1602121,
-  "name": "SUKADARMA"
+  "districtName": "JEJAWI",
+  "name": "SUKADARMA",
+  "postalCode": "30652"
  },
  {
   "id": 1602121016,
   "districtId": 1602121,
-  "name": "TANJUNG ALI"
+  "districtName": "JEJAWI",
+  "name": "TANJUNG ALI",
+  "postalCode": ""
  },
  {
   "id": 1602121017,
   "districtId": 1602121,
-  "name": "PADANG BULAN"
+  "districtName": "JEJAWI",
+  "name": "PADANG BULAN",
+  "postalCode": "22994"
  },
  {
   "id": 1602121018,
   "districtId": 1602121,
-  "name": "BATUN BARU"
+  "districtName": "JEJAWI",
+  "name": "BATUN BARU",
+  "postalCode": ""
  },
  {
   "id": 1602121019,
   "districtId": 1602121,
-  "name": "DANAU CEPER"
+  "districtName": "JEJAWI",
+  "name": "DANAU CEPER",
+  "postalCode": ""
  }
 ]

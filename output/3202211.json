@@ -2,41 +2,57 @@
  {
   "id": 3202211001,
   "districtId": 3202211,
-  "name": "HEGARMANAH"
+  "districtName": "CICANTAYAN",
+  "name": "HEGARMANAH",
+  "postalCode": "41151"
  },
  {
   "id": 3202211002,
   "districtId": 3202211,
-  "name": "CICANTAYAN"
+  "districtName": "CICANTAYAN",
+  "name": "CICANTAYAN",
+  "postalCode": "43155"
  },
  {
   "id": 3202211003,
   "districtId": 3202211,
-  "name": "CIMAHI"
+  "districtName": "CICANTAYAN",
+  "name": "CIMAHI",
+  "postalCode": "41181"
  },
  {
   "id": 3202211004,
   "districtId": 3202211,
-  "name": "CISANDE"
+  "districtName": "CICANTAYAN",
+  "name": "CISANDE",
+  "postalCode": "43155"
  },
  {
   "id": 3202211005,
   "districtId": 3202211,
-  "name": "CIJALINGAN"
+  "districtName": "CICANTAYAN",
+  "name": "CIJALINGAN",
+  "postalCode": "43155"
  },
  {
   "id": 3202211006,
   "districtId": 3202211,
-  "name": "LEMBURSAWAH"
+  "districtName": "CICANTAYAN",
+  "name": "LEMBURSAWAH",
+  "postalCode": "43155"
  },
  {
   "id": 3202211007,
   "districtId": 3202211,
-  "name": "SUKADAMAI"
+  "districtName": "CICANTAYAN",
+  "name": "SUKADAMAI",
+  "postalCode": "24373"
  },
  {
   "id": 3202211008,
   "districtId": 3202211,
-  "name": "CIMANGGIS"
+  "districtName": "CICANTAYAN",
+  "name": "CIMANGGIS",
+  "postalCode": "16920"
  }
 ]

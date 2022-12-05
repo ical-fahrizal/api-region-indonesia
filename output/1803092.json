@@ -2,41 +2,57 @@
  {
   "id": 1803092001,
   "districtId": 1803092,
-  "name": "PEMULIHAN"
+  "districtName": "WAY SULAN",
+  "name": "PEMULIHAN",
+  "postalCode": "35452"
  },
  {
   "id": 1803092002,
   "districtId": 1803092,
-  "name": "PURWODADI"
+  "districtName": "WAY SULAN",
+  "name": "PURWODADI",
+  "postalCode": "24652"
  },
  {
   "id": 1803092003,
   "districtId": 1803092,
-  "name": "SUKAMAJU"
+  "districtName": "WAY SULAN",
+  "name": "SUKAMAJU",
+  "postalCode": "22465"
  },
  {
   "id": 1803092004,
   "districtId": 1803092,
-  "name": "BANJARSARI"
+  "districtName": "WAY SULAN",
+  "name": "BANJARSARI",
+  "postalCode": "35377"
  },
  {
   "id": 1803092005,
   "districtId": 1803092,
-  "name": "KARANG PUCUNG"
+  "districtName": "WAY SULAN",
+  "name": "KARANG PUCUNG",
+  "postalCode": "35452"
  },
  {
   "id": 1803092006,
   "districtId": 1803092,
-  "name": "TALANG WAY SULAN"
+  "districtName": "WAY SULAN",
+  "name": "TALANG WAY SULAN",
+  "postalCode": "35452"
  },
  {
   "id": 1803092007,
   "districtId": 1803092,
-  "name": "SUMBERAGUNG"
+  "districtName": "WAY SULAN",
+  "name": "SUMBERAGUNG",
+  "postalCode": "35452"
  },
  {
   "id": 1803092008,
   "districtId": 1803092,
-  "name": "MEKARSARI"
+  "districtName": "WAY SULAN",
+  "name": "MEKARSARI",
+  "postalCode": "37482"
  }
 ]

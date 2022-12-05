@@ -2,41 +2,57 @@
  {
   "id": 3320111001,
   "districtId": 3320111,
-  "name": "SUMBER REJO"
+  "districtName": "DONOROJO",
+  "name": "SUMBER REJO",
+  "postalCode": "21255"
  },
  {
   "id": 3320111002,
   "districtId": 3320111,
-  "name": "CLERING"
+  "districtName": "DONOROJO",
+  "name": "CLERING",
+  "postalCode": "59454"
  },
  {
   "id": 3320111003,
   "districtId": 3320111,
-  "name": "UJUNGWATU"
+  "districtName": "DONOROJO",
+  "name": "UJUNGWATU",
+  "postalCode": "59454"
  },
  {
   "id": 3320111004,
   "districtId": 3320111,
-  "name": "BANYUMANIS"
+  "districtName": "DONOROJO",
+  "name": "BANYUMANIS",
+  "postalCode": "59454"
  },
  {
   "id": 3320111005,
   "districtId": 3320111,
-  "name": "TULAKAN"
+  "districtName": "DONOROJO",
+  "name": "TULAKAN",
+  "postalCode": "59454"
  },
  {
   "id": 3320111006,
   "districtId": 3320111,
-  "name": "BANDUNGHARJO"
+  "districtName": "DONOROJO",
+  "name": "BANDUNGHARJO",
+  "postalCode": "59454"
  },
  {
   "id": 3320111007,
   "districtId": 3320111,
-  "name": "BLINGOH"
+  "districtName": "DONOROJO",
+  "name": "BLINGOH",
+  "postalCode": "59454"
  },
  {
   "id": 3320111008,
   "districtId": 3320111,
-  "name": "JUGO"
+  "districtName": "DONOROJO",
+  "name": "JUGO",
+  "postalCode": "59454"
  }
 ]

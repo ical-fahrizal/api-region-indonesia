@@ -2,76 +2,106 @@
  {
   "id": 3515130001,
   "districtId": 3515130,
-  "name": "KWANGSAN"
+  "districtName": "SEDATI",
+  "name": "KWANGSAN",
+  "postalCode": "57783"
  },
  {
   "id": 3515130003,
   "districtId": 3515130,
-  "name": "BUNCITAN"
+  "districtName": "SEDATI",
+  "name": "BUNCITAN",
+  "postalCode": "61253"
  },
  {
   "id": 3515130004,
   "districtId": 3515130,
-  "name": "KALANGANYAR"
+  "districtName": "SEDATI",
+  "name": "KALANGANYAR",
+  "postalCode": "62254"
  },
  {
   "id": 3515130005,
   "districtId": 3515130,
-  "name": "TAMBAK CEMANDI"
+  "districtName": "SEDATI",
+  "name": "TAMBAK CEMANDI",
+  "postalCode": "61253"
  },
  {
   "id": 3515130006,
   "districtId": 3515130,
-  "name": "GISIK CEMANDI"
+  "districtName": "SEDATI",
+  "name": "GISIK CEMANDI",
+  "postalCode": "61253"
  },
  {
   "id": 3515130007,
   "districtId": 3515130,
-  "name": "CEMANDI"
+  "districtName": "SEDATI",
+  "name": "CEMANDI",
+  "postalCode": "61253"
  },
  {
   "id": 3515130008,
   "districtId": 3515130,
-  "name": "PULUNGAN"
+  "districtName": "SEDATI",
+  "name": "PULUNGAN",
+  "postalCode": "61253"
  },
  {
   "id": 3515130009,
   "districtId": 3515130,
-  "name": "BETRO"
+  "districtName": "SEDATI",
+  "name": "BETRO",
+  "postalCode": "61353"
  },
  {
   "id": 3515130010,
   "districtId": 3515130,
-  "name": "SEDATI AGUNG"
+  "districtName": "SEDATI",
+  "name": "SEDATI AGUNG",
+  "postalCode": "61253"
  },
  {
   "id": 3515130011,
   "districtId": 3515130,
-  "name": "SEDATI GEDE"
+  "districtName": "SEDATI",
+  "name": "SEDATI GEDE",
+  "postalCode": "61253"
  },
  {
   "id": 3515130012,
   "districtId": 3515130,
-  "name": "PABEAN"
+  "districtName": "SEDATI",
+  "name": "PABEAN",
+  "postalCode": "51144"
  },
  {
   "id": 3515130013,
   "districtId": 3515130,
-  "name": "SEMAMPIR"
+  "districtName": "SEDATI",
+  "name": "SEMAMPIR",
+  "postalCode": "53418"
  },
  {
   "id": 3515130014,
   "districtId": 3515130,
-  "name": "PRANTI"
+  "districtName": "SEDATI",
+  "name": "PRANTI",
+  "postalCode": "45254"
  },
  {
   "id": 3515130015,
   "districtId": 3515130,
-  "name": "SEGORO TAMBAK"
+  "districtName": "SEDATI",
+  "name": "SEGORO TAMBAK",
+  "postalCode": "61253"
  },
  {
   "id": 3515130016,
   "districtId": 3515130,
-  "name": "BANJAR KEMUNING"
+  "districtName": "SEDATI",
+  "name": "BANJAR KEMUNING",
+  "postalCode": "61253"
  }
 ]

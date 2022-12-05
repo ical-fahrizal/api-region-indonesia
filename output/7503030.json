@@ -2,41 +2,57 @@
  {
   "id": 7503030005,
   "districtId": 7503030,
-  "name": "MARISA SELATAN"
+  "districtName": "MARISA",
+  "name": "MARISA SELATAN",
+  "postalCode": "96466"
  },
  {
   "id": 7503030006,
   "districtId": 7503030,
-  "name": "POHUWATO"
+  "districtName": "MARISA",
+  "name": "POHUWATO",
+  "postalCode": "96266"
  },
  {
   "id": 7503030007,
   "districtId": 7503030,
-  "name": "MARISA UTARA"
+  "districtName": "MARISA",
+  "name": "MARISA UTARA",
+  "postalCode": "96466"
  },
  {
   "id": 7503030008,
   "districtId": 7503030,
-  "name": "TERATAI"
+  "districtName": "MARISA",
+  "name": "TERATAI",
+  "postalCode": "36612"
  },
  {
   "id": 7503030019,
   "districtId": 7503030,
-  "name": "BOTUBILOTAHU INDAH"
+  "districtName": "MARISA",
+  "name": "BOTUBILOTAHU INDAH",
+  "postalCode": ""
  },
  {
   "id": 7503030020,
   "districtId": 7503030,
-  "name": "PALOPO"
+  "districtName": "MARISA",
+  "name": "PALOPO",
+  "postalCode": "96266"
  },
  {
   "id": 7503030021,
   "districtId": 7503030,
-  "name": "POHUWATO TIMUR"
+  "districtName": "MARISA",
+  "name": "POHUWATO TIMUR",
+  "postalCode": "96266"
  },
  {
   "id": 7503030022,
   "districtId": 7503030,
-  "name": "BULANGITA"
+  "districtName": "MARISA",
+  "name": "BULANGITA",
+  "postalCode": "96266"
  }
 ]

@@ -2,46 +2,64 @@
  {
   "id": 1808052003,
   "districtId": 1808052,
-  "name": "BUMI RATU"
+  "districtName": "RAWAJITU SELATAN",
+  "name": "BUMI RATU",
+  "postalCode": "34764"
  },
  {
   "id": 1808052004,
   "districtId": 1808052,
-  "name": "HARGO REJO"
+  "districtName": "RAWAJITU SELATAN",
+  "name": "HARGO REJO",
+  "postalCode": "34596"
  },
  {
   "id": 1808052005,
   "districtId": 1808052,
-  "name": "YUDHA KARYA JITU"
+  "districtName": "RAWAJITU SELATAN",
+  "name": "YUDHA KARYA JITU",
+  "postalCode": "34596"
  },
  {
   "id": 1808052010,
   "districtId": 1808052,
-  "name": "KARYA JITU MUKTI"
+  "districtName": "RAWAJITU SELATAN",
+  "name": "KARYA JITU MUKTI",
+  "postalCode": "34596"
  },
  {
   "id": 1808052011,
   "districtId": 1808052,
-  "name": "HARGO MULYO"
+  "districtName": "RAWAJITU SELATAN",
+  "name": "HARGO MULYO",
+  "postalCode": "34596"
  },
  {
   "id": 1808052012,
   "districtId": 1808052,
-  "name": "WONO AGUNG"
+  "districtName": "RAWAJITU SELATAN",
+  "name": "WONO AGUNG",
+  "postalCode": "34596"
  },
  {
   "id": 1808052013,
   "districtId": 1808052,
-  "name": "MEDASARI"
+  "districtName": "RAWAJITU SELATAN",
+  "name": "MEDASARI",
+  "postalCode": ""
  },
  {
   "id": 1808052014,
   "districtId": 1808052,
-  "name": "GEDUNG KARYA JITU"
+  "districtName": "RAWAJITU SELATAN",
+  "name": "GEDUNG KARYA JITU",
+  "postalCode": "34596"
  },
  {
   "id": 1808052015,
   "districtId": 1808052,
-  "name": "KARYA CIPTA ABADI"
+  "districtName": "RAWAJITU SELATAN",
+  "name": "KARYA CIPTA ABADI",
+  "postalCode": "34596"
  }
 ]

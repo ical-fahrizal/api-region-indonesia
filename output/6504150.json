@@ -2,21 +2,29 @@
  {
   "id": 6504150001,
   "districtId": 6504150,
-  "name": "SUNGAI LIMAU"
+  "districtName": "SEBATIK TENGAH",
+  "name": "SUNGAI LIMAU",
+  "postalCode": "28763"
  },
  {
   "id": 6504150002,
   "districtId": 6504150,
-  "name": "MASPUL"
+  "districtName": "SEBATIK TENGAH",
+  "name": "MASPUL",
+  "postalCode": "77483"
  },
  {
   "id": 6504150003,
   "districtId": 6504150,
-  "name": "AJI KUNING"
+  "districtName": "SEBATIK TENGAH",
+  "name": "AJI KUNING",
+  "postalCode": "77483"
  },
  {
   "id": 6504150004,
   "districtId": 6504150,
-  "name": "BUKIT HARAPAN"
+  "districtName": "SEBATIK TENGAH",
+  "name": "BUKIT HARAPAN",
+  "postalCode": "24784"
  }
 ]

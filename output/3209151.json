@@ -2,51 +2,71 @@
  {
   "id": 3209151001,
   "districtId": 3209151,
-  "name": "PANEMBAHAN"
+  "districtName": "PLERED",
+  "name": "PANEMBAHAN",
+  "postalCode": "45154"
  },
  {
   "id": 3209151002,
   "districtId": 3209151,
-  "name": "TRUSMI WETAN"
+  "districtName": "PLERED",
+  "name": "TRUSMI WETAN",
+  "postalCode": "45154"
  },
  {
   "id": 3209151003,
   "districtId": 3209151,
-  "name": "TRUSMI KULON"
+  "districtName": "PLERED",
+  "name": "TRUSMI KULON",
+  "postalCode": "45154"
  },
  {
   "id": 3209151004,
   "districtId": 3209151,
-  "name": "SARABAU"
+  "districtName": "PLERED",
+  "name": "SARABAU",
+  "postalCode": "45154"
  },
  {
   "id": 3209151005,
   "districtId": 3209151,
-  "name": "GAMEL"
+  "districtName": "PLERED",
+  "name": "GAMEL",
+  "postalCode": "45154"
  },
  {
   "id": 3209151006,
   "districtId": 3209151,
-  "name": "WOTGALI"
+  "districtName": "PLERED",
+  "name": "WOTGALI",
+  "postalCode": "45154"
  },
  {
   "id": 3209151007,
   "districtId": 3209151,
-  "name": "KALIWULU"
+  "districtName": "PLERED",
+  "name": "KALIWULU",
+  "postalCode": "45154"
  },
  {
   "id": 3209151008,
   "districtId": 3209151,
-  "name": "TEGALSARI"
+  "districtName": "PLERED",
+  "name": "TEGALSARI",
+  "postalCode": "35372"
  },
  {
   "id": 3209151009,
   "districtId": 3209151,
-  "name": "CANGKRING"
+  "districtName": "PLERED",
+  "name": "CANGKRING",
+  "postalCode": "45258"
  },
  {
   "id": 3209151010,
   "districtId": 3209151,
-  "name": "PANGKALAN"
+  "districtName": "PLERED",
+  "name": "PANGKALAN",
+  "postalCode": "24477"
  }
 ]

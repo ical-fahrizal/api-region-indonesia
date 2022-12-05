@@ -2,61 +2,85 @@
  {
   "id": 7408020012,
   "districtId": 7408020,
-  "name": "SULAHO"
+  "districtName": "LASUSUA",
+  "name": "SULAHO",
+  "postalCode": "93916"
  },
  {
   "id": 7408020013,
   "districtId": 7408020,
-  "name": "TOTALLANG"
+  "districtName": "LASUSUA",
+  "name": "TOTALLANG",
+  "postalCode": "93916"
  },
  {
   "id": 7408020014,
   "districtId": 7408020,
-  "name": "PITULUA"
+  "districtName": "LASUSUA",
+  "name": "PITULUA",
+  "postalCode": "93915"
  },
  {
   "id": 7408020015,
   "districtId": 7408020,
-  "name": "RANTE LIMBONG"
+  "districtName": "LASUSUA",
+  "name": "RANTE LIMBONG",
+  "postalCode": "91862"
  },
  {
   "id": 7408020016,
   "districtId": 7408020,
-  "name": "TOJABI"
+  "districtName": "LASUSUA",
+  "name": "TOJABI",
+  "postalCode": "93916"
  },
  {
   "id": 7408020017,
   "districtId": 7408020,
-  "name": "LASUSUA"
+  "districtName": "LASUSUA",
+  "name": "LASUSUA",
+  "postalCode": "93911"
  },
  {
   "id": 7408020018,
   "districtId": 7408020,
-  "name": "WATULIU"
+  "districtName": "LASUSUA",
+  "name": "WATULIU",
+  "postalCode": ""
  },
  {
   "id": 7408020019,
   "districtId": 7408020,
-  "name": "PONGGIHA"
+  "districtName": "LASUSUA",
+  "name": "PONGGIHA",
+  "postalCode": "93912"
  },
  {
   "id": 7408020026,
   "districtId": 7408020,
-  "name": "PATOWONUA"
+  "districtName": "LASUSUA",
+  "name": "PATOWONUA",
+  "postalCode": "93916"
  },
  {
   "id": 7408020027,
   "districtId": 7408020,
-  "name": "BABUSSALAM"
+  "districtName": "LASUSUA",
+  "name": "BABUSSALAM",
+  "postalCode": "24392"
  },
  {
   "id": 7408020028,
   "districtId": 7408020,
-  "name": "BATUGANDA PERMAI"
+  "districtName": "LASUSUA",
+  "name": "BATUGANDA PERMAI",
+  "postalCode": ""
  },
  {
   "id": 7408020029,
   "districtId": 7408020,
-  "name": "PUNCAK MONAPA"
+  "districtName": "LASUSUA",
+  "name": "PUNCAK MONAPA",
+  "postalCode": ""
  }
 ]

@@ -2,66 +2,92 @@
  {
   "id": 3324040001,
   "districtId": 3324040,
-  "name": "PAKISAN"
+  "districtName": "PATEAN",
+  "name": "PAKISAN",
+  "postalCode": "57463"
  },
  {
   "id": 3324040002,
   "districtId": 3324040,
-  "name": "MLATIHARJO"
+  "districtName": "PATEAN",
+  "name": "MLATIHARJO",
+  "postalCode": "59581"
  },
  {
   "id": 3324040003,
   "districtId": 3324040,
-  "name": "PLOSOSARI"
+  "districtName": "PATEAN",
+  "name": "PLOSOSARI",
+  "postalCode": "51364"
  },
  {
   "id": 3324040004,
   "districtId": 3324040,
-  "name": "WIROSARI"
+  "districtName": "PATEAN",
+  "name": "WIROSARI",
+  "postalCode": "51364"
  },
  {
   "id": 3324040005,
   "districtId": 3324040,
-  "name": "PAGERSARI"
+  "districtName": "PATEAN",
+  "name": "PAGERSARI",
+  "postalCode": "46158"
  },
  {
   "id": 3324040006,
   "districtId": 3324040,
-  "name": "SELO"
+  "districtName": "PATEAN",
+  "name": "SELO",
+  "postalCode": "51364"
  },
  {
   "id": 3324040008,
   "districtId": 3324040,
-  "name": "GEDONG"
+  "districtName": "PATEAN",
+  "name": "GEDONG",
+  "postalCode": "13760"
  },
  {
   "id": 3324040009,
   "districtId": 3324040,
-  "name": "SUKOMANGLI"
+  "districtName": "PATEAN",
+  "name": "SUKOMANGLI",
+  "postalCode": "51364"
  },
  {
   "id": 3324040010,
   "districtId": 3324040,
-  "name": "KALIBARENG"
+  "districtName": "PATEAN",
+  "name": "KALIBARENG",
+  "postalCode": "51364"
  },
  {
   "id": 3324040011,
   "districtId": 3324040,
-  "name": "KALILUMPANG"
+  "districtName": "PATEAN",
+  "name": "KALILUMPANG",
+  "postalCode": "51364"
  },
  {
   "id": 3324040012,
   "districtId": 3324040,
-  "name": "KALICES"
+  "districtName": "PATEAN",
+  "name": "KALICES",
+  "postalCode": "51364"
  },
  {
   "id": 3324040013,
   "districtId": 3324040,
-  "name": "SIDOKUMPUL"
+  "districtName": "PATEAN",
+  "name": "SIDOKUMPUL",
+  "postalCode": "59565"
  },
  {
   "id": 3324040014,
   "districtId": 3324040,
-  "name": "SIDODADI"
+  "districtName": "PATEAN",
+  "name": "SIDODADI",
+  "postalCode": "24582"
  }
 ]

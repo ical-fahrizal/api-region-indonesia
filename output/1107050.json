@@ -2,106 +2,148 @@
  {
   "id": 1107050001,
   "districtId": 1107050,
-  "name": "SUWAK INDRAPURI"
+  "districtName": "JOHAN PAHLAWAN",
+  "name": "SUWAK INDRAPURI",
+  "postalCode": "23611"
  },
  {
   "id": 1107050002,
   "districtId": 1107050,
-  "name": "PASAR ACEH"
+  "districtName": "JOHAN PAHLAWAN",
+  "name": "PASAR ACEH",
+  "postalCode": "23612"
  },
  {
   "id": 1107050003,
   "districtId": 1107050,
-  "name": "PADANG SEURAHET"
+  "districtName": "JOHAN PAHLAWAN",
+  "name": "PADANG SEURAHET",
+  "postalCode": "23611"
  },
  {
   "id": 1107050004,
   "districtId": 1107050,
-  "name": "PANGGONG"
+  "districtName": "JOHAN PAHLAWAN",
+  "name": "PANGGONG",
+  "postalCode": "23612"
  },
  {
   "id": 1107050005,
   "districtId": 1107050,
-  "name": "KAMPUNG BELAKANG"
+  "districtName": "JOHAN PAHLAWAN",
+  "name": "KAMPUNG BELAKANG",
+  "postalCode": "23611"
  },
  {
   "id": 1107050006,
   "districtId": 1107050,
-  "name": "KAMPUNG PASIR"
+  "districtName": "JOHAN PAHLAWAN",
+  "name": "KAMPUNG PASIR",
+  "postalCode": "23611"
  },
  {
   "id": 1107050007,
   "districtId": 1107050,
-  "name": "UJUNG KALAK"
+  "districtName": "JOHAN PAHLAWAN",
+  "name": "UJUNG KALAK",
+  "postalCode": "23613"
  },
  {
   "id": 1107050008,
   "districtId": 1107050,
-  "name": "UJONG BAROH"
+  "districtName": "JOHAN PAHLAWAN",
+  "name": "UJONG BAROH",
+  "postalCode": "23615"
  },
  {
   "id": 1107050009,
   "districtId": 1107050,
-  "name": "RUNDENG"
+  "districtName": "JOHAN PAHLAWAN",
+  "name": "RUNDENG",
+  "postalCode": "23616"
  },
  {
   "id": 1107050010,
   "districtId": 1107050,
-  "name": "KUTA PADANG"
+  "districtName": "JOHAN PAHLAWAN",
+  "name": "KUTA PADANG",
+  "postalCode": "23652"
  },
  {
   "id": 1107050011,
   "districtId": 1107050,
-  "name": "DRIEN RAMPAK"
+  "districtName": "JOHAN PAHLAWAN",
+  "name": "DRIEN RAMPAK",
+  "postalCode": "23652"
  },
  {
   "id": 1107050012,
   "districtId": 1107050,
-  "name": "KAMPUNG DARAT"
+  "districtName": "JOHAN PAHLAWAN",
+  "name": "KAMPUNG DARAT",
+  "postalCode": "23611"
  },
  {
   "id": 1107050013,
   "districtId": 1107050,
-  "name": "GAMPA"
+  "districtName": "JOHAN PAHLAWAN",
+  "name": "GAMPA",
+  "postalCode": "23611"
  },
  {
   "id": 1107050014,
   "districtId": 1107050,
-  "name": "SEUNEUBOK"
+  "districtName": "JOHAN PAHLAWAN",
+  "name": "SEUNEUBOK",
+  "postalCode": "24375"
  },
  {
   "id": 1107050015,
   "districtId": 1107050,
-  "name": "SUAK RIBEE"
+  "districtName": "JOHAN PAHLAWAN",
+  "name": "SUAK RIBEE",
+  "postalCode": "23611"
  },
  {
   "id": 1107050016,
   "districtId": 1107050,
-  "name": "SUAK RAYA"
+  "districtName": "JOHAN PAHLAWAN",
+  "name": "SUAK RAYA",
+  "postalCode": "23611"
  },
  {
   "id": 1107050017,
   "districtId": 1107050,
-  "name": "SUAK NIE"
+  "districtName": "JOHAN PAHLAWAN",
+  "name": "SUAK NIE",
+  "postalCode": "23611"
  },
  {
   "id": 1107050018,
   "districtId": 1107050,
-  "name": "LAPANG"
+  "districtName": "JOHAN PAHLAWAN",
+  "name": "LAPANG",
+  "postalCode": "23618"
  },
  {
   "id": 1107050019,
   "districtId": 1107050,
-  "name": "LEUHAN"
+  "districtName": "JOHAN PAHLAWAN",
+  "name": "LEUHAN",
+  "postalCode": "23611"
  },
  {
   "id": 1107050020,
   "districtId": 1107050,
-  "name": "BLANG BERANDANG"
+  "districtName": "JOHAN PAHLAWAN",
+  "name": "BLANG BERANDANG",
+  "postalCode": "23618"
  },
  {
   "id": 1107050021,
   "districtId": 1107050,
-  "name": "SUAK SIGADENG"
+  "districtName": "JOHAN PAHLAWAN",
+  "name": "SUAK SIGADENG",
+  "postalCode": "23611"
  }
 ]

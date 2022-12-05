@@ -2,26 +2,36 @@
  {
   "id": 6472021001,
   "districtId": 6472021,
-  "name": "BUGIS"
+  "districtName": "SAMARINDA KOTA",
+  "name": "BUGIS",
+  "postalCode": "45256"
  },
  {
   "id": 6472021002,
   "districtId": 6472021,
-  "name": "PASAR PAGI"
+  "districtName": "SAMARINDA KOTA",
+  "name": "PASAR PAGI",
+  "postalCode": "75111"
  },
  {
   "id": 6472021003,
   "districtId": 6472021,
-  "name": "PELABUHAN"
+  "districtName": "SAMARINDA KOTA",
+  "name": "PELABUHAN",
+  "postalCode": "75112"
  },
  {
   "id": 6472021004,
   "districtId": 6472021,
-  "name": "SUNGAI PINANG LUAR"
+  "districtName": "SAMARINDA KOTA",
+  "name": "SUNGAI PINANG LUAR",
+  "postalCode": ""
  },
  {
   "id": 6472021005,
   "districtId": 6472021,
-  "name": "KARANG MUMUS"
+  "districtName": "SAMARINDA KOTA",
+  "name": "KARANG MUMUS",
+  "postalCode": "75113"
  }
 ]

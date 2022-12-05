@@ -2,31 +2,43 @@
  {
   "id": 1702034001,
   "districtId": 1702034,
-  "name": "IV SUKU MENANTI"
+  "districtName": "SINDANG DATARAN",
+  "name": "IV SUKU MENANTI",
+  "postalCode": ""
  },
  {
   "id": 1702034002,
   "districtId": 1702034,
-  "name": "BENGKO"
+  "districtName": "SINDANG DATARAN",
+  "name": "BENGKO",
+  "postalCode": "39153"
  },
  {
   "id": 1702034003,
   "districtId": 1702034,
-  "name": "SINAR GUNUNG"
+  "districtName": "SINDANG DATARAN",
+  "name": "SINAR GUNUNG",
+  "postalCode": "39153"
  },
  {
   "id": 1702034004,
   "districtId": 1702034,
-  "name": "AIR RUSA"
+  "districtName": "SINDANG DATARAN",
+  "name": "AIR RUSA",
+  "postalCode": "39153"
  },
  {
   "id": 1702034005,
   "districtId": 1702034,
-  "name": "TALANG BELITAR"
+  "districtName": "SINDANG DATARAN",
+  "name": "TALANG BELITAR",
+  "postalCode": "39153"
  },
  {
   "id": 1702034006,
   "districtId": 1702034,
-  "name": "WARUNG POJOK"
+  "districtName": "SINDANG DATARAN",
+  "name": "WARUNG POJOK",
+  "postalCode": "39374"
  }
 ]

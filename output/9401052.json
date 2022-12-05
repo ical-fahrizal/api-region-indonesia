@@ -2,56 +2,78 @@
  {
   "id": 9401052001,
   "districtId": 9401052,
-  "name": "KUMAAF"
+  "districtName": "ULILIN",
+  "name": "KUMAAF",
+  "postalCode": "99652"
  },
  {
   "id": 9401052002,
   "districtId": 9401052,
-  "name": "NGGAYU"
+  "districtName": "ULILIN",
+  "name": "NGGAYU",
+  "postalCode": "99652"
  },
  {
   "id": 9401052003,
   "districtId": 9401052,
-  "name": "KAFYAMKE"
+  "districtName": "ULILIN",
+  "name": "KAFYAMKE",
+  "postalCode": "99652"
  },
  {
   "id": 9401052004,
   "districtId": 9401052,
-  "name": "BELBELAND"
+  "districtName": "ULILIN",
+  "name": "BELBELAND",
+  "postalCode": "99652"
  },
  {
   "id": 9401052005,
   "districtId": 9401052,
-  "name": "MANDEKMAN"
+  "districtName": "ULILIN",
+  "name": "MANDEKMAN",
+  "postalCode": "99652"
  },
  {
   "id": 9401052006,
   "districtId": 9401052,
-  "name": "RAWAHAYU"
+  "districtName": "ULILIN",
+  "name": "RAWAHAYU",
+  "postalCode": "99652"
  },
  {
   "id": 9401052007,
   "districtId": 9401052,
-  "name": "KINDIKI"
+  "districtName": "ULILIN",
+  "name": "KINDIKI",
+  "postalCode": "99652"
  },
  {
   "id": 9401052008,
   "districtId": 9401052,
-  "name": "SELIL"
+  "districtName": "ULILIN",
+  "name": "SELIL",
+  "postalCode": "99652"
  },
  {
   "id": 9401052009,
   "districtId": 9401052,
-  "name": "KIRELI"
+  "districtName": "ULILIN",
+  "name": "KIRELI",
+  "postalCode": "99652"
  },
  {
   "id": 9401052010,
   "districtId": 9401052,
-  "name": "KANDRAKAI"
+  "districtName": "ULILIN",
+  "name": "KANDRAKAI",
+  "postalCode": "99652"
  },
  {
   "id": 9401052011,
   "districtId": 9401052,
-  "name": "BAIDUB"
+  "districtName": "ULILIN",
+  "name": "BAIDUB",
+  "postalCode": "99652"
  }
 ]

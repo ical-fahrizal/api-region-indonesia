@@ -2,56 +2,78 @@
  {
   "id": 1225020001,
   "districtId": 1225020,
-  "name": "SISOBAOHO"
+  "districtName": "LAHOMI",
+  "name": "SISOBAOHO",
+  "postalCode": "22864"
  },
  {
   "id": 1225020002,
   "districtId": 1225020,
-  "name": "BAWAZAMAIWO"
+  "districtName": "LAHOMI",
+  "name": "BAWAZAMAIWO",
+  "postalCode": ""
  },
  {
   "id": 1225020003,
   "districtId": 1225020,
-  "name": "SITOLUBANUA"
+  "districtName": "LAHOMI",
+  "name": "SITOLUBANUA",
+  "postalCode": "22876"
  },
  {
   "id": 1225020004,
   "districtId": 1225020,
-  "name": "IRAONOGAILA"
+  "districtName": "LAHOMI",
+  "name": "IRAONOGAILA",
+  "postalCode": "22864"
  },
  {
   "id": 1225020005,
   "districtId": 1225020,
-  "name": "LOLOGUNDRE"
+  "districtName": "LAHOMI",
+  "name": "LOLOGUNDRE",
+  "postalCode": "22864"
  },
  {
   "id": 1225020006,
   "districtId": 1225020,
-  "name": "LOLOWAU"
+  "districtName": "LAHOMI",
+  "name": "LOLOWAU",
+  "postalCode": "22864"
  },
  {
   "id": 1225020007,
   "districtId": 1225020,
-  "name": "SISOBAMBOWO"
+  "districtName": "LAHOMI",
+  "name": "SISOBAMBOWO",
+  "postalCode": "22866"
  },
  {
   "id": 1225020008,
   "districtId": 1225020,
-  "name": "HILIADULO"
+  "districtName": "LAHOMI",
+  "name": "HILIADULO",
+  "postalCode": "22864"
  },
  {
   "id": 1225020009,
   "districtId": 1225020,
-  "name": "ONOLIMBU"
+  "districtName": "LAHOMI",
+  "name": "ONOLIMBU",
+  "postalCode": ""
  },
  {
   "id": 1225020010,
   "districtId": 1225020,
-  "name": "ONOWAEMBO"
+  "districtName": "LAHOMI",
+  "name": "ONOWAEMBO",
+  "postalCode": "22871"
  },
  {
   "id": 1225020011,
   "districtId": 1225020,
-  "name": "TIGA SERANGKAI"
+  "districtName": "LAHOMI",
+  "name": "TIGA SERANGKAI",
+  "postalCode": "22864"
  }
 ]

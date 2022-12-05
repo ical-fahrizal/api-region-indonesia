@@ -2,36 +2,50 @@
  {
   "id": 1806052001,
   "districtId": 1806052,
-  "name": "JAGANG"
+  "districtName": "BLAMBANGAN PAGAR",
+  "name": "JAGANG",
+  "postalCode": "34581"
  },
  {
   "id": 1806052002,
   "districtId": 1806052,
-  "name": "TANJUNG IMAN"
+  "districtName": "BLAMBANGAN PAGAR",
+  "name": "TANJUNG IMAN",
+  "postalCode": "32277"
  },
  {
   "id": 1806052003,
   "districtId": 1806052,
-  "name": "BLAMBANGAN"
+  "districtName": "BLAMBANGAN PAGAR",
+  "name": "BLAMBANGAN",
+  "postalCode": "34581"
  },
  {
   "id": 1806052004,
   "districtId": 1806052,
-  "name": "PAGAR GADING"
+  "districtName": "BLAMBANGAN PAGAR",
+  "name": "PAGAR GADING",
+  "postalCode": "38571"
  },
  {
   "id": 1806052005,
   "districtId": 1806052,
-  "name": "TULUNG SINGKIP"
+  "districtName": "BLAMBANGAN PAGAR",
+  "name": "TULUNG SINGKIP",
+  "postalCode": "34581"
  },
  {
   "id": 1806052006,
   "districtId": 1806052,
-  "name": "PAGAR"
+  "districtName": "BLAMBANGAN PAGAR",
+  "name": "PAGAR",
+  "postalCode": "38886"
  },
  {
   "id": 1806052007,
   "districtId": 1806052,
-  "name": "BURING KENCANA"
+  "districtName": "BLAMBANGAN PAGAR",
+  "name": "BURING KENCANA",
+  "postalCode": "34581"
  }
 ]

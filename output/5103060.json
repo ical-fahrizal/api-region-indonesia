@@ -2,36 +2,50 @@
  {
   "id": 5103060001,
   "districtId": 5103060,
-  "name": "CARANGSARI"
+  "districtName": "PETANG",
+  "name": "CARANGSARI",
+  "postalCode": "80353"
  },
  {
   "id": 5103060002,
   "districtId": 5103060,
-  "name": "GETASAN"
+  "districtName": "PETANG",
+  "name": "GETASAN",
+  "postalCode": "45155"
  },
  {
   "id": 5103060003,
   "districtId": 5103060,
-  "name": "PANGSAN"
+  "districtName": "PETANG",
+  "name": "PANGSAN",
+  "postalCode": "80353"
  },
  {
   "id": 5103060004,
   "districtId": 5103060,
-  "name": "PETANG"
+  "districtName": "PETANG",
+  "name": "PETANG",
+  "postalCode": "80353"
  },
  {
   "id": 5103060005,
   "districtId": 5103060,
-  "name": "SULANGAI"
+  "districtName": "PETANG",
+  "name": "SULANGAI",
+  "postalCode": "80353"
  },
  {
   "id": 5103060006,
   "districtId": 5103060,
-  "name": "PELAGA"
+  "districtName": "PETANG",
+  "name": "PELAGA",
+  "postalCode": "80353"
  },
  {
   "id": 5103060007,
   "districtId": 5103060,
-  "name": "BELOK/SIDAN"
+  "districtName": "PETANG",
+  "name": "BELOK/SIDAN",
+  "postalCode": ""
  }
 ]

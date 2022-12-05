@@ -2,41 +2,57 @@
  {
   "id": 2103061001,
   "districtId": 2103061,
-  "name": "PULAU PANJANG"
+  "districtName": "SUBI",
+  "name": "PULAU PANJANG",
+  "postalCode": "37554"
  },
  {
   "id": 2103061002,
   "districtId": 2103061,
-  "name": "SUBI BESAR"
+  "districtName": "SUBI",
+  "name": "SUBI BESAR",
+  "postalCode": "29781"
  },
  {
   "id": 2103061003,
   "districtId": 2103061,
-  "name": "SUBI"
+  "districtName": "SUBI",
+  "name": "SUBI",
+  "postalCode": "29781"
  },
  {
   "id": 2103061004,
   "districtId": 2103061,
-  "name": "MELIAH"
+  "districtName": "SUBI",
+  "name": "MELIAH",
+  "postalCode": "29781"
  },
  {
   "id": 2103061005,
   "districtId": 2103061,
-  "name": "TERAYAK"
+  "districtName": "SUBI",
+  "name": "TERAYAK",
+  "postalCode": "29781"
  },
  {
   "id": 2103061006,
   "districtId": 2103061,
-  "name": "KERDAU"
+  "districtName": "SUBI",
+  "name": "KERDAU",
+  "postalCode": ""
  },
  {
   "id": 2103061007,
   "districtId": 2103061,
-  "name": "SUBI BESAR TIMUR"
+  "districtName": "SUBI",
+  "name": "SUBI BESAR TIMUR",
+  "postalCode": "29781"
  },
  {
   "id": 2103061008,
   "districtId": 2103061,
-  "name": "MELIAH SELATAN"
+  "districtName": "SUBI",
+  "name": "MELIAH SELATAN",
+  "postalCode": "29781"
  }
 ]

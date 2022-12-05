@@ -2,21 +2,29 @@
  {
   "id": 6172040001,
   "districtId": 6172040,
-  "name": "PASIRAN"
+  "districtName": "SINGKAWANG BARAT",
+  "name": "PASIRAN",
+  "postalCode": "20856"
  },
  {
   "id": 6172040002,
   "districtId": 6172040,
-  "name": "MELAYU"
+  "districtName": "SINGKAWANG BARAT",
+  "name": "MELAYU",
+  "postalCode": "21144"
  },
  {
   "id": 6172040003,
   "districtId": 6172040,
-  "name": "TENGAH"
+  "districtName": "SINGKAWANG BARAT",
+  "name": "TENGAH",
+  "postalCode": "23752"
  },
  {
   "id": 6172040004,
   "districtId": 6172040,
-  "name": "KUALA"
+  "districtName": "SINGKAWANG BARAT",
+  "name": "KUALA",
+  "postalCode": "24375"
  }
 ]

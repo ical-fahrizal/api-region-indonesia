@@ -2,41 +2,57 @@
  {
   "id": 9415072001,
   "districtId": 9415072,
-  "name": "KOMOR"
+  "districtName": "UNIR SIRAU",
+  "name": "KOMOR",
+  "postalCode": "99778"
  },
  {
   "id": 9415072002,
   "districtId": 9415072,
-  "name": "WARER"
+  "districtName": "UNIR SIRAU",
+  "name": "WARER",
+  "postalCode": ""
  },
  {
   "id": 9415072003,
   "districtId": 9415072,
-  "name": "AYIR"
+  "districtName": "UNIR SIRAU",
+  "name": "AYIR",
+  "postalCode": "99778"
  },
  {
   "id": 9415072004,
   "districtId": 9415072,
-  "name": "PAAR"
+  "districtName": "UNIR SIRAU",
+  "name": "PAAR",
+  "postalCode": "99778"
  },
  {
   "id": 9415072005,
   "districtId": 9415072,
-  "name": "AMOR"
+  "districtName": "UNIR SIRAU",
+  "name": "AMOR",
+  "postalCode": "24582"
  },
  {
   "id": 9415072006,
   "districtId": 9415072,
-  "name": "BERIP"
+  "districtName": "UNIR SIRAU",
+  "name": "BERIP",
+  "postalCode": ""
  },
  {
   "id": 9415072007,
   "districtId": 9415072,
-  "name": "JIPAWER"
+  "districtName": "UNIR SIRAU",
+  "name": "JIPAWER",
+  "postalCode": ""
  },
  {
   "id": 9415072009,
   "districtId": 9415072,
-  "name": "ABAMU"
+  "districtName": "UNIR SIRAU",
+  "name": "ABAMU",
+  "postalCode": "99778"
  }
 ]

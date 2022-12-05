@@ -2,51 +2,71 @@
  {
   "id": 1505041001,
   "districtId": 1505041,
-  "name": "KUNANGAN"
+  "districtName": "TAMAN RAJO",
+  "name": "KUNANGAN",
+  "postalCode": "36382"
  },
  {
   "id": 1505041002,
   "districtId": 1505041,
-  "name": "TALANG DUKU"
+  "districtName": "TAMAN RAJO",
+  "name": "TALANG DUKU",
+  "postalCode": "36382"
  },
  {
   "id": 1505041003,
   "districtId": 1505041,
-  "name": "TEBAT PATAH"
+  "districtName": "TAMAN RAJO",
+  "name": "TEBAT PATAH",
+  "postalCode": "36382"
  },
  {
   "id": 1505041004,
   "districtId": 1505041,
-  "name": "KEMINGKING DALAM"
+  "districtName": "TAMAN RAJO",
+  "name": "KEMINGKING DALAM",
+  "postalCode": "36382"
  },
  {
   "id": 1505041005,
   "districtId": 1505041,
-  "name": "TELUK JAMBU"
+  "districtName": "TAMAN RAJO",
+  "name": "TELUK JAMBU",
+  "postalCode": "36382"
  },
  {
   "id": 1505041006,
   "districtId": 1505041,
-  "name": "KEMINGKING LUAR"
+  "districtName": "TAMAN RAJO",
+  "name": "KEMINGKING LUAR",
+  "postalCode": "36382"
  },
  {
   "id": 1505041007,
   "districtId": 1505041,
-  "name": "DUSUN MUDO"
+  "districtName": "TAMAN RAJO",
+  "name": "DUSUN MUDO",
+  "postalCode": "36554"
  },
  {
   "id": 1505041008,
   "districtId": 1505041,
-  "name": "SEKUMBUNG"
+  "districtName": "TAMAN RAJO",
+  "name": "SEKUMBUNG",
+  "postalCode": "36382"
  },
  {
   "id": 1505041009,
   "districtId": 1505041,
-  "name": "RUKAM"
+  "districtName": "TAMAN RAJO",
+  "name": "RUKAM",
+  "postalCode": "36371"
  },
  {
   "id": 1505041010,
   "districtId": 1505041,
-  "name": "MANIS MATO"
+  "districtName": "TAMAN RAJO",
+  "name": "MANIS MATO",
+  "postalCode": "36371"
  }
 ]

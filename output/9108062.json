@@ -2,16 +2,22 @@
  {
   "id": 9108062001,
   "districtId": 9108062,
-  "name": "RAUKI"
+  "districtName": "SUPNIN",
+  "name": "RAUKI",
+  "postalCode": "98481"
  },
  {
   "id": 9108062002,
   "districtId": 9108062,
-  "name": "URAI"
+  "districtName": "SUPNIN",
+  "name": "URAI",
+  "postalCode": "38361"
  },
  {
   "id": 9108062004,
   "districtId": 9108062,
-  "name": "KAPADIRI"
+  "districtName": "SUPNIN",
+  "name": "KAPADIRI",
+  "postalCode": "98481"
  }
 ]

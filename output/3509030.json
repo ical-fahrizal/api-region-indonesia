@@ -2,56 +2,78 @@
  {
   "id": 3509030001,
   "districtId": 3509030,
-  "name": "MOJOMULYO"
+  "districtName": "PUGER",
+  "name": "MOJOMULYO",
+  "postalCode": "59174"
  },
  {
   "id": 3509030002,
   "districtId": 3509030,
-  "name": "MOJOSARI"
+  "districtName": "PUGER",
+  "name": "MOJOSARI",
+  "postalCode": "56265"
  },
  {
   "id": 3509030003,
   "districtId": 3509030,
-  "name": "PUGER KULON"
+  "districtName": "PUGER",
+  "name": "PUGER KULON",
+  "postalCode": "68164"
  },
  {
   "id": 3509030004,
   "districtId": 3509030,
-  "name": "PUGER WETAN"
+  "districtName": "PUGER",
+  "name": "PUGER WETAN",
+  "postalCode": "68164"
  },
  {
   "id": 3509030006,
   "districtId": 3509030,
-  "name": "MLOKOREJO"
+  "districtName": "PUGER",
+  "name": "MLOKOREJO",
+  "postalCode": "68164"
  },
  {
   "id": 3509030007,
   "districtId": 3509030,
-  "name": "KASIYAN"
+  "districtName": "PUGER",
+  "name": "KASIYAN",
+  "postalCode": "59172"
  },
  {
   "id": 3509030008,
   "districtId": 3509030,
-  "name": "KASIYAN TIMUR"
+  "districtName": "PUGER",
+  "name": "KASIYAN TIMUR",
+  "postalCode": "68164"
  },
  {
   "id": 3509030009,
   "districtId": 3509030,
-  "name": "WONOSARI"
+  "districtName": "PUGER",
+  "name": "WONOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 3509030010,
   "districtId": 3509030,
-  "name": "JAMBEARUM"
+  "districtName": "PUGER",
+  "name": "JAMBEARUM",
+  "postalCode": "51351"
  },
  {
   "id": 3509030011,
   "districtId": 3509030,
-  "name": "BAGON"
+  "districtName": "PUGER",
+  "name": "BAGON",
+  "postalCode": "68164"
  },
  {
   "id": 3509030012,
   "districtId": 3509030,
-  "name": "WRINGIN TELU"
+  "districtName": "PUGER",
+  "name": "WRINGIN TELU",
+  "postalCode": "68164"
  }
 ]

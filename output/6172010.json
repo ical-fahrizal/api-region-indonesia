@@ -2,21 +2,29 @@
  {
   "id": 6172010001,
   "districtId": 6172010,
-  "name": "SEDAU"
+  "districtName": "SINGKAWANG SELATAN",
+  "name": "SEDAU",
+  "postalCode": "83371"
  },
  {
   "id": 6172010002,
   "districtId": 6172010,
-  "name": "SIJANGKUNG"
+  "districtName": "SINGKAWANG SELATAN",
+  "name": "SIJANGKUNG",
+  "postalCode": "79163"
  },
  {
   "id": 6172010003,
   "districtId": 6172010,
-  "name": "PANGMILANG"
+  "districtName": "SINGKAWANG SELATAN",
+  "name": "PANGMILANG",
+  "postalCode": "79163"
  },
  {
   "id": 6172010004,
   "districtId": 6172010,
-  "name": "SAGATANI"
+  "districtName": "SINGKAWANG SELATAN",
+  "name": "SAGATANI",
+  "postalCode": "79163"
  }
 ]

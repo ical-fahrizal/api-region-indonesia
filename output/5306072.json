@@ -2,36 +2,50 @@
  {
   "id": 5306072001,
   "districtId": 5306072,
-  "name": "LASIOLAT"
+  "districtName": "LASIOLAT",
+  "name": "LASIOLAT",
+  "postalCode": "85771"
  },
  {
   "id": 5306072002,
   "districtId": 5306072,
-  "name": "MANEIKUN"
+  "districtName": "LASIOLAT",
+  "name": "MANEIKUN",
+  "postalCode": "85771"
  },
  {
   "id": 5306072003,
   "districtId": 5306072,
-  "name": "FATULOTU"
+  "districtName": "LASIOLAT",
+  "name": "FATULOTU",
+  "postalCode": "85771"
  },
  {
   "id": 5306072004,
   "districtId": 5306072,
-  "name": "LAKANMAU"
+  "districtName": "LASIOLAT",
+  "name": "LAKANMAU",
+  "postalCode": "85771"
  },
  {
   "id": 5306072005,
   "districtId": 5306072,
-  "name": "RAIULUN"
+  "districtName": "LASIOLAT",
+  "name": "RAIULUN",
+  "postalCode": "85771"
  },
  {
   "id": 5306072006,
   "districtId": 5306072,
-  "name": "DUALASI"
+  "districtName": "LASIOLAT",
+  "name": "DUALASI",
+  "postalCode": "85771"
  },
  {
   "id": 5306072007,
   "districtId": 5306072,
-  "name": "BAUDAOK"
+  "districtName": "LASIOLAT",
+  "name": "BAUDAOK",
+  "postalCode": "85771"
  }
 ]

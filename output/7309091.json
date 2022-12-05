@@ -2,31 +2,43 @@
  {
   "id": 7309091001,
   "districtId": 7309091,
-  "name": "BONTO MATENE"
+  "districtName": "SEGERI",
+  "name": "BONTO MATENE",
+  "postalCode": "90552"
  },
  {
   "id": 7309091002,
   "districtId": 7309091,
-  "name": "BARING"
+  "districtName": "SEGERI",
+  "name": "BARING",
+  "postalCode": "90655"
  },
  {
   "id": 7309091003,
   "districtId": 7309091,
-  "name": "PARENRENG"
+  "districtName": "SEGERI",
+  "name": "PARENRENG",
+  "postalCode": "90655"
  },
  {
   "id": 7309091004,
   "districtId": 7309091,
-  "name": "SEGERI"
+  "districtName": "SEGERI",
+  "name": "SEGERI",
+  "postalCode": "90655"
  },
  {
   "id": 7309091005,
   "districtId": 7309091,
-  "name": "BAWASALO"
+  "districtName": "SEGERI",
+  "name": "BAWASALO",
+  "postalCode": "90655"
  },
  {
   "id": 7309091006,
   "districtId": 7309091,
-  "name": "BONE"
+  "districtName": "SEGERI",
+  "name": "BONE",
+  "postalCode": "85571"
  }
 ]

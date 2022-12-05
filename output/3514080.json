@@ -2,71 +2,99 @@
  {
   "id": 3514080001,
   "districtId": 3514080,
-  "name": "KARANG MENGGAH"
+  "districtName": "WONOREJO",
+  "name": "KARANG MENGGAH",
+  "postalCode": "67173"
  },
  {
   "id": 3514080002,
   "districtId": 3514080,
-  "name": "KARANGJATI ANYAR"
+  "districtName": "WONOREJO",
+  "name": "KARANGJATI ANYAR",
+  "postalCode": "67173"
  },
  {
   "id": 3514080003,
   "districtId": 3514080,
-  "name": "WONOSARI"
+  "districtName": "WONOREJO",
+  "name": "WONOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 3514080004,
   "districtId": 3514080,
-  "name": "TAMANSARI"
+  "districtName": "WONOREJO",
+  "name": "TAMANSARI",
+  "postalCode": "35366"
  },
  {
   "id": 3514080005,
   "districtId": 3514080,
-  "name": "COBAN BLIMBING"
+  "districtName": "WONOREJO",
+  "name": "COBAN BLIMBING",
+  "postalCode": "67173"
  },
  {
   "id": 3514080006,
   "districtId": 3514080,
-  "name": "PAKIJANGAN"
+  "districtName": "WONOREJO",
+  "name": "PAKIJANGAN",
+  "postalCode": "52253"
  },
  {
   "id": 3514080007,
   "districtId": 3514080,
-  "name": "WONOREJO"
+  "districtName": "WONOREJO",
+  "name": "WONOREJO",
+  "postalCode": "21186"
  },
  {
   "id": 3514080008,
   "districtId": 3514080,
-  "name": "JATI GUNTING"
+  "districtName": "WONOREJO",
+  "name": "JATI GUNTING",
+  "postalCode": "67173"
  },
  {
   "id": 3514080009,
   "districtId": 3514080,
-  "name": "REBONO"
+  "districtName": "WONOREJO",
+  "name": "REBONO",
+  "postalCode": "67173"
  },
  {
   "id": 3514080010,
   "districtId": 3514080,
-  "name": "KARANGSONO"
+  "districtName": "WONOREJO",
+  "name": "KARANGSONO",
+  "postalCode": "58163"
  },
  {
   "id": 3514080011,
   "districtId": 3514080,
-  "name": "KENDANG DUKUH"
+  "districtName": "WONOREJO",
+  "name": "KENDANG DUKUH",
+  "postalCode": "67173"
  },
  {
   "id": 3514080012,
   "districtId": 3514080,
-  "name": "KARANG ASEM"
+  "districtName": "WONOREJO",
+  "name": "KARANG ASEM",
+  "postalCode": "30959"
  },
  {
   "id": 3514080014,
   "districtId": 3514080,
-  "name": "SAMBISIRAH"
+  "districtName": "WONOREJO",
+  "name": "SAMBISIRAH",
+  "postalCode": "67173"
  },
  {
   "id": 3514080015,
   "districtId": 3514080,
-  "name": "LEBAKSARI"
+  "districtName": "WONOREJO",
+  "name": "LEBAKSARI",
+  "postalCode": "43355"
  }
 ]

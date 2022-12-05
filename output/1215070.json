@@ -2,36 +2,50 @@
  {
   "id": 1215070001,
   "districtId": 1215070,
-  "name": "TIPANG"
+  "districtName": "BAKTI RAJA",
+  "name": "TIPANG",
+  "postalCode": "22457"
  },
  {
   "id": 1215070002,
   "districtId": 1215070,
-  "name": "MARBUN TORUAN"
+  "districtName": "BAKTI RAJA",
+  "name": "MARBUN TORUAN",
+  "postalCode": ""
  },
  {
   "id": 1215070003,
   "districtId": 1215070,
-  "name": "SIUNONG UNONG JULU"
+  "districtName": "BAKTI RAJA",
+  "name": "SIUNONG UNONG JULU",
+  "postalCode": ""
  },
  {
   "id": 1215070004,
   "districtId": 1215070,
-  "name": "SIMAMORA"
+  "districtName": "BAKTI RAJA",
+  "name": "SIMAMORA",
+  "postalCode": "22457"
  },
  {
   "id": 1215070005,
   "districtId": 1215070,
-  "name": "SINAMBELA"
+  "districtName": "BAKTI RAJA",
+  "name": "SINAMBELA",
+  "postalCode": "22457"
  },
  {
   "id": 1215070006,
   "districtId": 1215070,
-  "name": "SIMANGULAMPE"
+  "districtName": "BAKTI RAJA",
+  "name": "SIMANGULAMPE",
+  "postalCode": "22457"
  },
  {
   "id": 1215070007,
   "districtId": 1215070,
-  "name": "MARBUN TONGA MARBUN DOLOK"
+  "districtName": "BAKTI RAJA",
+  "name": "MARBUN TONGA MARBUN DOLOK",
+  "postalCode": "22457"
  }
 ]

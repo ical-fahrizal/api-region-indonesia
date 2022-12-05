@@ -2,36 +2,50 @@
  {
   "id": 6571010001,
   "districtId": 6571010,
-  "name": "MAMBURUNGAN"
+  "districtName": "TARAKAN TIMUR",
+  "name": "MAMBURUNGAN",
+  "postalCode": "77125"
  },
  {
   "id": 6571010002,
   "districtId": 6571010,
-  "name": "MAMBURUNGAN TIMUR"
+  "districtName": "TARAKAN TIMUR",
+  "name": "MAMBURUNGAN TIMUR",
+  "postalCode": "77115"
  },
  {
   "id": 6571010003,
   "districtId": 6571010,
-  "name": "PANTAI AMAL"
+  "districtName": "TARAKAN TIMUR",
+  "name": "PANTAI AMAL",
+  "postalCode": "77115"
  },
  {
   "id": 6571010004,
   "districtId": 6571010,
-  "name": "KAMPUNG ENAM"
+  "districtName": "TARAKAN TIMUR",
+  "name": "KAMPUNG ENAM",
+  "postalCode": "77123"
  },
  {
   "id": 6571010005,
   "districtId": 6571010,
-  "name": "KAMPUNG EMPAT"
+  "districtName": "TARAKAN TIMUR",
+  "name": "KAMPUNG EMPAT",
+  "postalCode": "77124"
  },
  {
   "id": 6571010006,
   "districtId": 6571010,
-  "name": "GUNUNG LINGKAS"
+  "districtName": "TARAKAN TIMUR",
+  "name": "GUNUNG LINGKAS",
+  "postalCode": "77115"
  },
  {
   "id": 6571010007,
   "districtId": 6571010,
-  "name": "LINGKAS UJUNG"
+  "districtName": "TARAKAN TIMUR",
+  "name": "LINGKAS UJUNG",
+  "postalCode": "77126"
  }
 ]

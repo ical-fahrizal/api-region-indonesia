@@ -2,41 +2,57 @@
  {
   "id": 1213160001,
   "districtId": 1213160,
-  "name": "PELAWI UTARA"
+  "districtName": "BABALAN",
+  "name": "PELAWI UTARA",
+  "postalCode": "20857"
  },
  {
   "id": 1213160002,
   "districtId": 1213160,
-  "name": "SECURAI UTARA"
+  "districtName": "BABALAN",
+  "name": "SECURAI UTARA",
+  "postalCode": "20857"
  },
  {
   "id": 1213160003,
   "districtId": 1213160,
-  "name": "SECURAI SELATAN"
+  "districtName": "BABALAN",
+  "name": "SECURAI SELATAN",
+  "postalCode": "20857"
  },
  {
   "id": 1213160004,
   "districtId": 1213160,
-  "name": "PELAWI SELATAN"
+  "districtName": "BABALAN",
+  "name": "PELAWI SELATAN",
+  "postalCode": "20857"
  },
  {
   "id": 1213160005,
   "districtId": 1213160,
-  "name": "BRANDAN TIMUR BARU"
+  "districtName": "BABALAN",
+  "name": "BRANDAN TIMUR BARU",
+  "postalCode": "20857"
  },
  {
   "id": 1213160006,
   "districtId": 1213160,
-  "name": "BRANDAN BARAT"
+  "districtName": "BABALAN",
+  "name": "BRANDAN BARAT",
+  "postalCode": "20857"
  },
  {
   "id": 1213160007,
   "districtId": 1213160,
-  "name": "BRANDAN TIMUR"
+  "districtName": "BABALAN",
+  "name": "BRANDAN TIMUR",
+  "postalCode": "20857"
  },
  {
   "id": 1213160008,
   "districtId": 1213160,
-  "name": "TELUK MEKU"
+  "districtName": "BABALAN",
+  "name": "TELUK MEKU",
+  "postalCode": "20857"
  }
 ]

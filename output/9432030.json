@@ -2,436 +2,610 @@
  {
   "id": 9432030001,
   "districtId": 9432030,
-  "name": "WAMBO"
+  "districtName": "ABENAHO",
+  "name": "WAMBO",
+  "postalCode": "99587"
  },
  {
   "id": 9432030002,
   "districtId": 9432030,
-  "name": "WAMBALFAK"
+  "districtName": "ABENAHO",
+  "name": "WAMBALFAK",
+  "postalCode": "99587"
  },
  {
   "id": 9432030003,
   "districtId": 9432030,
-  "name": "ABENAHO"
+  "districtName": "ABENAHO",
+  "name": "ABENAHO",
+  "postalCode": "99587"
  },
  {
   "id": 9432030004,
   "districtId": 9432030,
-  "name": "DOSUMO"
+  "districtName": "ABENAHO",
+  "name": "DOSUMO",
+  "postalCode": "99587"
  },
  {
   "id": 9432030005,
   "districtId": 9432030,
-  "name": "DOMBOMI"
+  "districtName": "ABENAHO",
+  "name": "DOMBOMI",
+  "postalCode": "99587"
  },
  {
   "id": 9432030007,
   "districtId": 9432030,
-  "name": "LANDIKMA"
+  "districtName": "ABENAHO",
+  "name": "LANDIKMA",
+  "postalCode": "99587"
  },
  {
   "id": 9432030008,
   "districtId": 9432030,
-  "name": "HULIKMA"
+  "districtName": "ABENAHO",
+  "name": "HULIKMA",
+  "postalCode": "99587"
  },
  {
   "id": 9432030009,
   "districtId": 9432030,
-  "name": "HUBLIKA/SOMBULE"
+  "districtName": "ABENAHO",
+  "name": "HUBLIKA/SOMBULE",
+  "postalCode": ""
  },
  {
   "id": 9432030011,
   "districtId": 9432030,
-  "name": "YAHATMA"
+  "districtName": "ABENAHO",
+  "name": "YAHATMA",
+  "postalCode": "99587"
  },
  {
   "id": 9432030012,
   "districtId": 9432030,
-  "name": "SOHOMBUNU"
+  "districtName": "ABENAHO",
+  "name": "SOHOMBUNU",
+  "postalCode": "99587"
  },
  {
   "id": 9432030015,
   "districtId": 9432030,
-  "name": "MASANAHIKMA"
+  "districtName": "ABENAHO",
+  "name": "MASANAHIKMA",
+  "postalCode": ""
  },
  {
   "id": 9432030016,
   "districtId": 9432030,
-  "name": "ABAGIMA"
+  "districtName": "ABENAHO",
+  "name": "ABAGIMA",
+  "postalCode": "99587"
  },
  {
   "id": 9432030017,
   "districtId": 9432030,
-  "name": "WAGHASILIMO"
+  "districtName": "ABENAHO",
+  "name": "WAGHASILIMO",
+  "postalCode": "99587"
  },
  {
   "id": 9432030018,
   "districtId": 9432030,
-  "name": "WILEROMA"
+  "districtName": "ABENAHO",
+  "name": "WILEROMA",
+  "postalCode": "99587"
  },
  {
   "id": 9432030019,
   "districtId": 9432030,
-  "name": "OBABIN"
+  "districtName": "ABENAHO",
+  "name": "OBABIN",
+  "postalCode": "99587"
  },
  {
   "id": 9432030020,
   "districtId": 9432030,
-  "name": "OBABIN SATU"
+  "districtName": "ABENAHO",
+  "name": "OBABIN SATU",
+  "postalCode": "99587"
  },
  {
   "id": 9432030021,
   "districtId": 9432030,
-  "name": "DAHONAIKMA"
+  "districtName": "ABENAHO",
+  "name": "DAHONAIKMA",
+  "postalCode": "99587"
  },
  {
   "id": 9432030022,
   "districtId": 9432030,
-  "name": "WANMAL"
+  "districtName": "ABENAHO",
+  "name": "WANMAL",
+  "postalCode": ""
  },
  {
   "id": 9432030023,
   "districtId": 9432030,
-  "name": "ARIKBALEK"
+  "districtName": "ABENAHO",
+  "name": "ARIKBALEK",
+  "postalCode": "99587"
  },
  {
   "id": 9432030024,
   "districtId": 9432030,
-  "name": "YAWAN"
+  "districtName": "ABENAHO",
+  "name": "YAWAN",
+  "postalCode": "99587"
  },
  {
   "id": 9432030025,
   "districtId": 9432030,
-  "name": "WAMBAL"
+  "districtName": "ABENAHO",
+  "name": "WAMBAL",
+  "postalCode": "99587"
  },
  {
   "id": 9432030028,
   "districtId": 9432030,
-  "name": "MAHIAL"
+  "districtName": "ABENAHO",
+  "name": "MAHIAL",
+  "postalCode": "99587"
  },
  {
   "id": 9432030029,
   "districtId": 9432030,
-  "name": "ALUGI"
+  "districtName": "ABENAHO",
+  "name": "ALUGI",
+  "postalCode": "99587"
  },
  {
   "id": 9432030030,
   "districtId": 9432030,
-  "name": "SAHIKMA"
+  "districtName": "ABENAHO",
+  "name": "SAHIKMA",
+  "postalCode": "99587"
  },
  {
   "id": 9432030031,
   "districtId": 9432030,
-  "name": "BONAHIK"
+  "districtName": "ABENAHO",
+  "name": "BONAHIK",
+  "postalCode": "99587"
  },
  {
   "id": 9432030032,
   "districtId": 9432030,
-  "name": "ELIEKMA"
+  "districtName": "ABENAHO",
+  "name": "ELIEKMA",
+  "postalCode": "99587"
  },
  {
   "id": 9432030033,
   "districtId": 9432030,
-  "name": "YABUSUP"
+  "districtName": "ABENAHO",
+  "name": "YABUSUP",
+  "postalCode": "99587"
  },
  {
   "id": 9432030035,
   "districtId": 9432030,
-  "name": "SUMINAIKMA"
+  "districtName": "ABENAHO",
+  "name": "SUMINAIKMA",
+  "postalCode": "99587"
  },
  {
   "id": 9432030037,
   "districtId": 9432030,
-  "name": "FUAHE"
+  "districtName": "ABENAHO",
+  "name": "FUAHE",
+  "postalCode": "99587"
  },
  {
   "id": 9432030038,
   "districtId": 9432030,
-  "name": "WUTLARIN"
+  "districtName": "ABENAHO",
+  "name": "WUTLARIN",
+  "postalCode": "99587"
  },
  {
   "id": 9432030039,
   "districtId": 9432030,
-  "name": "KOLAIMA"
+  "districtName": "ABENAHO",
+  "name": "KOLAIMA",
+  "postalCode": "99587"
  },
  {
   "id": 9432030040,
   "districtId": 9432030,
-  "name": "WANGGIBO"
+  "districtName": "ABENAHO",
+  "name": "WANGGIBO",
+  "postalCode": "99587"
  },
  {
   "id": 9432030041,
   "districtId": 9432030,
-  "name": "WALAGIMA"
+  "districtName": "ABENAHO",
+  "name": "WALAGIMA",
+  "postalCode": "99587"
  },
  {
   "id": 9432030042,
   "districtId": 9432030,
-  "name": "TAGABATA"
+  "districtName": "ABENAHO",
+  "name": "TAGABATA",
+  "postalCode": ""
  },
  {
   "id": 9432030043,
   "districtId": 9432030,
-  "name": "DETPAGADO"
+  "districtName": "ABENAHO",
+  "name": "DETPAGADO",
+  "postalCode": "99587"
  },
  {
   "id": 9432030044,
   "districtId": 9432030,
-  "name": "BOHUM"
+  "districtName": "ABENAHO",
+  "name": "BOHUM",
+  "postalCode": ""
  },
  {
   "id": 9432030045,
   "districtId": 9432030,
-  "name": "SABILIRONGGO"
+  "districtName": "ABENAHO",
+  "name": "SABILIRONGGO",
+  "postalCode": "99587"
  },
  {
   "id": 9432030046,
   "districtId": 9432030,
-  "name": "YANAMIK"
+  "districtName": "ABENAHO",
+  "name": "YANAMIK",
+  "postalCode": "99587"
  },
  {
   "id": 9432030047,
   "districtId": 9432030,
-  "name": "LANGONGKOK"
+  "districtName": "ABENAHO",
+  "name": "LANGONGKOK",
+  "postalCode": "99587"
  },
  {
   "id": 9432030048,
   "districtId": 9432030,
-  "name": "HELAKSILI"
+  "districtName": "ABENAHO",
+  "name": "HELAKSILI",
+  "postalCode": "99587"
  },
  {
   "id": 9432030051,
   "districtId": 9432030,
-  "name": "YAMBAIKMA"
+  "districtName": "ABENAHO",
+  "name": "YAMBAIKMA",
+  "postalCode": "99587"
  },
  {
   "id": 9432030052,
   "districtId": 9432030,
-  "name": "NOFUALMA"
+  "districtName": "ABENAHO",
+  "name": "NOFUALMA",
+  "postalCode": "99587"
  },
  {
   "id": 9432030053,
   "districtId": 9432030,
-  "name": "YUTANGGO"
+  "districtName": "ABENAHO",
+  "name": "YUTANGGO",
+  "postalCode": "99587"
  },
  {
   "id": 9432030054,
   "districtId": 9432030,
-  "name": "WITLANGGO"
+  "districtName": "ABENAHO",
+  "name": "WITLANGGO",
+  "postalCode": ""
  },
  {
   "id": 9432030055,
   "districtId": 9432030,
-  "name": "WOROL"
+  "districtName": "ABENAHO",
+  "name": "WOROL",
+  "postalCode": "99587"
  },
  {
   "id": 9432030056,
   "districtId": 9432030,
-  "name": "BONGGI"
+  "districtName": "ABENAHO",
+  "name": "BONGGI",
+  "postalCode": "99587"
  },
  {
   "id": 9432030057,
   "districtId": 9432030,
-  "name": "WILAK"
+  "districtName": "ABENAHO",
+  "name": "WILAK",
+  "postalCode": "99587"
  },
  {
   "id": 9432030058,
   "districtId": 9432030,
-  "name": "WANGKUN"
+  "districtName": "ABENAHO",
+  "name": "WANGKUN",
+  "postalCode": "99587"
  },
  {
   "id": 9432030059,
   "districtId": 9432030,
-  "name": "HOMBANMAN"
+  "districtName": "ABENAHO",
+  "name": "HOMBANMAN",
+  "postalCode": "99587"
  },
  {
   "id": 9432030060,
   "districtId": 9432030,
-  "name": "YAMA"
+  "districtName": "ABENAHO",
+  "name": "YAMA",
+  "postalCode": "99587"
  },
  {
   "id": 9432030061,
   "districtId": 9432030,
-  "name": "WURUPIKMA"
+  "districtName": "ABENAHO",
+  "name": "WURUPIKMA",
+  "postalCode": "99587"
  },
  {
   "id": 9432030062,
   "districtId": 9432030,
-  "name": "HALIFUR"
+  "districtName": "ABENAHO",
+  "name": "HALIFUR",
+  "postalCode": ""
  },
  {
   "id": 9432030064,
   "districtId": 9432030,
-  "name": "KAWOKHOLIK"
+  "districtName": "ABENAHO",
+  "name": "KAWOKHOLIK",
+  "postalCode": "99587"
  },
  {
   "id": 9432030065,
   "districtId": 9432030,
-  "name": "HORENIKMA"
+  "districtName": "ABENAHO",
+  "name": "HORENIKMA",
+  "postalCode": "99587"
  },
  {
   "id": 9432030066,
   "districtId": 9432030,
-  "name": "LASIKMA"
+  "districtName": "ABENAHO",
+  "name": "LASIKMA",
+  "postalCode": "99587"
  },
  {
   "id": 9432030068,
   "districtId": 9432030,
-  "name": "HEAHOBAK"
+  "districtName": "ABENAHO",
+  "name": "HEAHOBAK",
+  "postalCode": "99587"
  },
  {
   "id": 9432030069,
   "districtId": 9432030,
-  "name": "MALEO"
+  "districtName": "ABENAHO",
+  "name": "MALEO",
+  "postalCode": "96265"
  },
  {
   "id": 9432030070,
   "districtId": 9432030,
-  "name": "USABIYE"
+  "districtName": "ABENAHO",
+  "name": "USABIYE",
+  "postalCode": "99587"
  },
  {
   "id": 9432030071,
   "districtId": 9432030,
-  "name": "KANDIBUNG"
+  "districtName": "ABENAHO",
+  "name": "KANDIBUNG",
+  "postalCode": "99587"
  },
  {
   "id": 9432030072,
   "districtId": 9432030,
-  "name": "NILBO"
+  "districtName": "ABENAHO",
+  "name": "NILBO",
+  "postalCode": "99587"
  },
  {
   "id": 9432030073,
   "districtId": 9432030,
-  "name": "SAPIWAREK"
+  "districtName": "ABENAHO",
+  "name": "SAPIWAREK",
+  "postalCode": "99587"
  },
  {
   "id": 9432030076,
   "districtId": 9432030,
-  "name": "SALO"
+  "districtName": "ABENAHO",
+  "name": "SALO",
+  "postalCode": "26192"
  },
  {
   "id": 9432030077,
   "districtId": 9432030,
-  "name": "MOBAN"
+  "districtName": "ABENAHO",
+  "name": "MOBAN",
+  "postalCode": "99587"
  },
  {
   "id": 9432030079,
   "districtId": 9432030,
-  "name": "HALISEK"
+  "districtName": "ABENAHO",
+  "name": "HALISEK",
+  "postalCode": "99587"
  },
  {
   "id": 9432030080,
   "districtId": 9432030,
-  "name": "LOHOMABEL"
+  "districtName": "ABENAHO",
+  "name": "LOHOMABEL",
+  "postalCode": "99587"
  },
  {
   "id": 9432030082,
   "districtId": 9432030,
-  "name": "GEFINDO"
+  "districtName": "ABENAHO",
+  "name": "GEFINDO",
+  "postalCode": ""
  },
  {
   "id": 9432030084,
   "districtId": 9432030,
-  "name": "AMUKI"
+  "districtName": "ABENAHO",
+  "name": "AMUKI",
+  "postalCode": "99587"
  },
  {
   "id": 9432030085,
   "districtId": 9432030,
-  "name": "WAMHOR"
+  "districtName": "ABENAHO",
+  "name": "WAMHOR",
+  "postalCode": "99587"
  },
  {
   "id": 9432030087,
   "districtId": 9432030,
-  "name": "PAMUMU"
+  "districtName": "ABENAHO",
+  "name": "PAMUMU",
+  "postalCode": "99587"
  },
  {
   "id": 9432030088,
   "districtId": 9432030,
-  "name": "WABUHUK"
+  "districtName": "ABENAHO",
+  "name": "WABUHUK",
+  "postalCode": "99587"
  },
  {
   "id": 9432030090,
   "districtId": 9432030,
-  "name": "LILUKIKMA"
+  "districtName": "ABENAHO",
+  "name": "LILUKIKMA",
+  "postalCode": "99587"
  },
  {
   "id": 9432030091,
   "districtId": 9432030,
-  "name": "NOHOLUOK"
+  "districtName": "ABENAHO",
+  "name": "NOHOLUOK",
+  "postalCode": "99587"
  },
  {
   "id": 9432030092,
   "districtId": 9432030,
-  "name": "WENEMIKMA"
+  "districtName": "ABENAHO",
+  "name": "WENEMIKMA",
+  "postalCode": "99587"
  },
  {
   "id": 9432030093,
   "districtId": 9432030,
-  "name": "NENOMANI"
+  "districtName": "ABENAHO",
+  "name": "NENOMANI",
+  "postalCode": "99587"
  },
  {
   "id": 9432030094,
   "districtId": 9432030,
-  "name": "SALOHE"
+  "districtName": "ABENAHO",
+  "name": "SALOHE",
+  "postalCode": "92671"
  },
  {
   "id": 9432030095,
   "districtId": 9432030,
-  "name": "BEYAM"
+  "districtName": "ABENAHO",
+  "name": "BEYAM",
+  "postalCode": "99587"
  },
  {
   "id": 9432030096,
   "districtId": 9432030,
-  "name": "WILOFING"
+  "districtName": "ABENAHO",
+  "name": "WILOFING",
+  "postalCode": ""
  },
  {
   "id": 9432030097,
   "districtId": 9432030,
-  "name": "FIALEM"
+  "districtName": "ABENAHO",
+  "name": "FIALEM",
+  "postalCode": "99587"
  },
  {
   "id": 9432030098,
   "districtId": 9432030,
-  "name": "HORAKIA"
+  "districtName": "ABENAHO",
+  "name": "HORAKIA",
+  "postalCode": "99587"
  },
  {
   "id": 9432030099,
   "districtId": 9432030,
-  "name": "SUAHE"
+  "districtName": "ABENAHO",
+  "name": "SUAHE",
+  "postalCode": "99587"
  },
  {
   "id": 9432030101,
   "districtId": 9432030,
-  "name": "WAROHAM"
+  "districtName": "ABENAHO",
+  "name": "WAROHAM",
+  "postalCode": "99587"
  },
  {
   "id": 9432030102,
   "districtId": 9432030,
-  "name": "SOHI"
+  "districtName": "ABENAHO",
+  "name": "SOHI",
+  "postalCode": "99587"
  },
  {
   "id": 9432030103,
   "districtId": 9432030,
-  "name": "SENGIKMA"
+  "districtName": "ABENAHO",
+  "name": "SENGIKMA",
+  "postalCode": "99587"
  },
  {
   "id": 9432030104,
   "districtId": 9432030,
-  "name": "PIRIKALEM"
+  "districtName": "ABENAHO",
+  "name": "PIRIKALEM",
+  "postalCode": "99587"
  },
  {
   "id": 9432030105,
   "districtId": 9432030,
-  "name": "AGRIS"
+  "districtName": "ABENAHO",
+  "name": "AGRIS",
+  "postalCode": ""
  },
  {
   "id": 9432030107,
   "districtId": 9432030,
-  "name": "WANAM"
+  "districtName": "ABENAHO",
+  "name": "WANAM",
+  "postalCode": "99655"
  },
  {
   "id": 9432030108,
   "districtId": 9432030,
-  "name": "DAMA"
+  "districtName": "ABENAHO",
+  "name": "DAMA",
+  "postalCode": "97755"
  }
 ]

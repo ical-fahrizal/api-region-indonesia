@@ -2,41 +2,57 @@
  {
   "id": 7413030001,
   "districtId": 7413030,
-  "name": "WANSERIWU"
+  "districtName": "TIWORO TENGAH",
+  "name": "WANSERIWU",
+  "postalCode": "93653"
  },
  {
   "id": 7413030002,
   "districtId": 7413030,
-  "name": "LANGKU-LANGKU"
+  "districtName": "TIWORO TENGAH",
+  "name": "LANGKU-LANGKU",
+  "postalCode": "93653"
  },
  {
   "id": 7413030003,
   "districtId": 7413030,
-  "name": "MEKAR JAYA"
+  "districtName": "TIWORO TENGAH",
+  "name": "MEKAR JAYA",
+  "postalCode": "20771"
  },
  {
   "id": 7413030004,
   "districtId": 7413030,
-  "name": "WAPAE"
+  "districtName": "TIWORO TENGAH",
+  "name": "WAPAE",
+  "postalCode": ""
  },
  {
   "id": 7413030005,
   "districtId": 7413030,
-  "name": "LABOKOLO"
+  "districtName": "TIWORO TENGAH",
+  "name": "LABOKOLO",
+  "postalCode": "93653"
  },
  {
   "id": 7413030011,
   "districtId": 7413030,
-  "name": "LAKABU"
+  "districtName": "TIWORO TENGAH",
+  "name": "LAKABU",
+  "postalCode": "93653"
  },
  {
   "id": 7413030012,
   "districtId": 7413030,
-  "name": "MOMUNTU"
+  "districtName": "TIWORO TENGAH",
+  "name": "MOMUNTU",
+  "postalCode": "93653"
  },
  {
   "id": 7413030024,
   "districtId": 7413030,
-  "name": "SUKA DAMAI"
+  "districtName": "TIWORO TENGAH",
+  "name": "SUKA DAMAI",
+  "postalCode": "24472"
  }
 ]

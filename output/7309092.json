@@ -2,26 +2,36 @@
  {
   "id": 7309092002,
   "districtId": 7309092,
-  "name": "MANGGALUNG"
+  "districtName": "MANDALLE",
+  "name": "MANGGALUNG",
+  "postalCode": "90655"
  },
  {
   "id": 7309092003,
   "districtId": 7309092,
-  "name": "BODDIE"
+  "districtName": "MANDALLE",
+  "name": "BODDIE",
+  "postalCode": "90655"
  },
  {
   "id": 7309092004,
   "districtId": 7309092,
-  "name": "TAMARUPA"
+  "districtName": "MANDALLE",
+  "name": "TAMARUPA",
+  "postalCode": "90655"
  },
  {
   "id": 7309092005,
   "districtId": 7309092,
-  "name": "COPPO TOMPONG"
+  "districtName": "MANDALLE",
+  "name": "COPPO TOMPONG",
+  "postalCode": "90655"
  },
  {
   "id": 7309092006,
   "districtId": 7309092,
-  "name": "MANDALLE"
+  "districtName": "MANDALLE",
+  "name": "MANDALLE",
+  "postalCode": "90655"
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 7402021006,
   "districtId": 7402021,
-  "name": "BONE TONDO"
+  "districtName": "BONE",
+  "name": "BONE TONDO",
+  "postalCode": "93663"
  },
  {
   "id": 7402021007,
   "districtId": 7402021,
-  "name": "BONE LOLIBU"
+  "districtName": "BONE",
+  "name": "BONE LOLIBU",
+  "postalCode": "93663"
  },
  {
   "id": 7402021008,
   "districtId": 7402021,
-  "name": "BHONE KAINSETALA"
+  "districtName": "BONE",
+  "name": "BHONE KAINSETALA",
+  "postalCode": ""
  },
  {
   "id": 7402021011,
   "districtId": 7402021,
-  "name": "MATOMBURA"
+  "districtName": "BONE",
+  "name": "MATOMBURA",
+  "postalCode": "93663"
  },
  {
   "id": 7402021012,
   "districtId": 7402021,
-  "name": "OELONGKO"
+  "districtName": "BONE",
+  "name": "OELONGKO",
+  "postalCode": "93663"
  },
  {
   "id": 7402021013,
   "districtId": 7402021,
-  "name": "MATOMBURA KANINI"
+  "districtName": "BONE",
+  "name": "MATOMBURA KANINI",
+  "postalCode": ""
  },
  {
   "id": 7402021014,
   "districtId": 7402021,
-  "name": "OENGKALOGHA"
+  "districtName": "BONE",
+  "name": "OENGKALOGHA",
+  "postalCode": ""
  }
 ]

@@ -2,46 +2,64 @@
  {
   "id": 9430035002,
   "districtId": 9430035,
-  "name": "PINDOAK"
+  "districtName": "TIOM OLLO",
+  "name": "PINDOAK",
+  "postalCode": ""
  },
  {
   "id": 9430035003,
   "districtId": 9430035,
-  "name": "NOBO"
+  "districtName": "TIOM OLLO",
+  "name": "NOBO",
+  "postalCode": "86253"
  },
  {
   "id": 9430035004,
   "districtId": 9430035,
-  "name": "WAYULEME"
+  "districtName": "TIOM OLLO",
+  "name": "WAYULEME",
+  "postalCode": ""
  },
  {
   "id": 9430035005,
   "districtId": 9430035,
-  "name": "BOGOMAMUN"
+  "districtName": "TIOM OLLO",
+  "name": "BOGOMAMUN",
+  "postalCode": ""
  },
  {
   "id": 9430035006,
   "districtId": 9430035,
-  "name": "BONANIP"
+  "districtName": "TIOM OLLO",
+  "name": "BONANIP",
+  "postalCode": "99563"
  },
  {
   "id": 9430035007,
   "districtId": 9430035,
-  "name": "LAMBUI"
+  "districtName": "TIOM OLLO",
+  "name": "LAMBUI",
+  "postalCode": ""
  },
  {
   "id": 9430035008,
   "districtId": 9430035,
-  "name": "KUKEPAKE"
+  "districtName": "TIOM OLLO",
+  "name": "KUKEPAKE",
+  "postalCode": "99563"
  },
  {
   "id": 9430035009,
   "districtId": 9430035,
-  "name": "GIARI"
+  "districtName": "TIOM OLLO",
+  "name": "GIARI",
+  "postalCode": ""
  },
  {
   "id": 9430035010,
   "districtId": 9430035,
-  "name": "KOTORAMBUR"
+  "districtName": "TIOM OLLO",
+  "name": "KOTORAMBUR",
+  "postalCode": "99562"
  }
 ]

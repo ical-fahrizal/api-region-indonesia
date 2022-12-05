@@ -2,26 +2,36 @@
  {
   "id": 7571022001,
   "districtId": 7571022,
-  "name": "TANJUNG KRAMAT"
+  "districtName": "HULONTHALANGI",
+  "name": "TANJUNG KRAMAT",
+  "postalCode": "96111"
  },
  {
   "id": 7571022002,
   "districtId": 7571022,
-  "name": "POHE"
+  "districtName": "HULONTHALANGI",
+  "name": "POHE",
+  "postalCode": "96117"
  },
  {
   "id": 7571022003,
   "districtId": 7571022,
-  "name": "TENDA"
+  "districtName": "HULONTHALANGI",
+  "name": "TENDA",
+  "postalCode": "86518"
  },
  {
   "id": 7571022004,
   "districtId": 7571022,
-  "name": "SIENDENG"
+  "districtName": "HULONTHALANGI",
+  "name": "SIENDENG",
+  "postalCode": "94479"
  },
  {
   "id": 7571022005,
   "districtId": 7571022,
-  "name": "DONGGALA"
+  "districtName": "HULONTHALANGI",
+  "name": "DONGGALA",
+  "postalCode": "93552"
  }
 ]

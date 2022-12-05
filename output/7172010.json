@@ -2,41 +2,57 @@
  {
   "id": 7172010008,
   "districtId": 7172010,
-  "name": "PACEDA"
+  "districtName": "MADIDIR",
+  "name": "PACEDA",
+  "postalCode": "95541"
  },
  {
   "id": 7172010009,
   "districtId": 7172010,
-  "name": "MADIDIR UNET"
+  "districtName": "MADIDIR",
+  "name": "MADIDIR UNET",
+  "postalCode": "95516"
  },
  {
   "id": 7172010010,
   "districtId": 7172010,
-  "name": "MADIDIR URE"
+  "districtName": "MADIDIR",
+  "name": "MADIDIR URE",
+  "postalCode": "95515"
  },
  {
   "id": 7172010011,
   "districtId": 7172010,
-  "name": "MADIDIR WERU"
+  "districtName": "MADIDIR",
+  "name": "MADIDIR WERU",
+  "postalCode": "95514"
  },
  {
   "id": 7172010012,
   "districtId": 7172010,
-  "name": "KADOODAN"
+  "districtName": "MADIDIR",
+  "name": "KADOODAN",
+  "postalCode": "95513"
  },
  {
   "id": 7172010015,
   "districtId": 7172010,
-  "name": "WANGURER BARAT"
+  "districtName": "MADIDIR",
+  "name": "WANGURER BARAT",
+  "postalCode": "95541"
  },
  {
   "id": 7172010016,
   "districtId": 7172010,
-  "name": "WANGURER TIMUR"
+  "districtName": "MADIDIR",
+  "name": "WANGURER TIMUR",
+  "postalCode": "95541"
  },
  {
   "id": 7172010017,
   "districtId": 7172010,
-  "name": "WANGURER UTARA"
+  "districtName": "MADIDIR",
+  "name": "WANGURER UTARA",
+  "postalCode": "95541"
  }
 ]

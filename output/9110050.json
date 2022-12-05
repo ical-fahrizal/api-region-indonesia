@@ -2,31 +2,43 @@
  {
   "id": 9110050001,
   "districtId": 9110050,
-  "name": "TEHAK BESAR"
+  "districtName": "AITINYO UTARA",
+  "name": "TEHAK BESAR",
+  "postalCode": "98462"
  },
  {
   "id": 9110050002,
   "districtId": 9110050,
-  "name": "MIRAFAN"
+  "districtName": "AITINYO UTARA",
+  "name": "MIRAFAN",
+  "postalCode": "98462"
  },
  {
   "id": 9110050003,
   "districtId": 9110050,
-  "name": "FATEGOMI"
+  "districtName": "AITINYO UTARA",
+  "name": "FATEGOMI",
+  "postalCode": "98462"
  },
  {
   "id": 9110050004,
   "districtId": 9110050,
-  "name": "GOHSAMES"
+  "districtName": "AITINYO UTARA",
+  "name": "GOHSAMES",
+  "postalCode": "98462"
  },
  {
   "id": 9110050005,
   "districtId": 9110050,
-  "name": "ASMURUF 'U'"
+  "districtName": "AITINYO UTARA",
+  "name": "ASMURUF 'U'",
+  "postalCode": ""
  },
  {
   "id": 9110050006,
   "districtId": 9110050,
-  "name": "FAAN"
+  "districtName": "AITINYO UTARA",
+  "name": "FAAN",
+  "postalCode": "97611"
  }
 ]

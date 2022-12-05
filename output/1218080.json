@@ -2,86 +2,120 @@
  {
   "id": 1218080001,
   "districtId": 1218080,
-  "name": "RAMBUNG SIALANG TENGAH"
+  "districtName": "SEI RAMPAH",
+  "name": "RAMBUNG SIALANG TENGAH",
+  "postalCode": "20995"
  },
  {
   "id": 1218080002,
   "districtId": 1218080,
-  "name": "RAMBUNG SIALANG HULU"
+  "districtName": "SEI RAMPAH",
+  "name": "RAMBUNG SIALANG HULU",
+  "postalCode": "20995"
  },
  {
   "id": 1218080003,
   "districtId": 1218080,
-  "name": "PERGULAAN"
+  "districtName": "SEI RAMPAH",
+  "name": "PERGULAAN",
+  "postalCode": "20995"
  },
  {
   "id": 1218080004,
   "districtId": 1218080,
-  "name": "SINAH KASIH"
+  "districtName": "SEI RAMPAH",
+  "name": "SINAH KASIH",
+  "postalCode": "20995"
  },
  {
   "id": 1218080012,
   "districtId": 1218080,
-  "name": "SEI PARIT"
+  "districtName": "SEI RAMPAH",
+  "name": "SEI PARIT",
+  "postalCode": "20995"
  },
  {
   "id": 1218080013,
   "districtId": 1218080,
-  "name": "RAMBUNG ESTATE"
+  "districtName": "SEI RAMPAH",
+  "name": "RAMBUNG ESTATE",
+  "postalCode": "20995"
  },
  {
   "id": 1218080014,
   "districtId": 1218080,
-  "name": "RAMBUNG SIALANG HILIR"
+  "districtName": "SEI RAMPAH",
+  "name": "RAMBUNG SIALANG HILIR",
+  "postalCode": "20995"
  },
  {
   "id": 1218080015,
   "districtId": 1218080,
-  "name": "TANAH RAJA"
+  "districtName": "SEI RAMPAH",
+  "name": "TANAH RAJA",
+  "postalCode": "20995"
  },
  {
   "id": 1218080016,
   "districtId": 1218080,
-  "name": "SIMPANG EMPAT"
+  "districtName": "SEI RAMPAH",
+  "name": "SIMPANG EMPAT",
+  "postalCode": "24313"
  },
  {
   "id": 1218080017,
   "districtId": 1218080,
-  "name": "CEMPEDAK LOBANG"
+  "districtName": "SEI RAMPAH",
+  "name": "CEMPEDAK LOBANG",
+  "postalCode": "20995"
  },
  {
   "id": 1218080018,
   "districtId": 1218080,
-  "name": "SILAU RAKYAT"
+  "districtName": "SEI RAMPAH",
+  "name": "SILAU RAKYAT",
+  "postalCode": "20995"
  },
  {
   "id": 1218080019,
   "districtId": 1218080,
-  "name": "PEMATANG GANJANG"
+  "districtName": "SEI RAMPAH",
+  "name": "PEMATANG GANJANG",
+  "postalCode": "20995"
  },
  {
   "id": 1218080021,
   "districtId": 1218080,
-  "name": "SEI RAMPAH"
+  "districtName": "SEI RAMPAH",
+  "name": "SEI RAMPAH",
+  "postalCode": "20995"
  },
  {
   "id": 1218080024,
   "districtId": 1218080,
-  "name": "SEI REJO"
+  "districtName": "SEI RAMPAH",
+  "name": "SEI REJO",
+  "postalCode": "20995"
  },
  {
   "id": 1218080025,
   "districtId": 1218080,
-  "name": "PEMATANG PELINTAHAN"
+  "districtName": "SEI RAMPAH",
+  "name": "PEMATANG PELINTAHAN",
+  "postalCode": "20995"
  },
  {
   "id": 1218080026,
   "districtId": 1218080,
-  "name": "FIRDAUS"
+  "districtName": "SEI RAMPAH",
+  "name": "FIRDAUS",
+  "postalCode": "20995"
  },
  {
   "id": 1218080027,
   "districtId": 1218080,
-  "name": "FIRDAUS ESTATE"
+  "districtName": "SEI RAMPAH",
+  "name": "FIRDAUS ESTATE",
+  "postalCode": "20995"
  }
 ]

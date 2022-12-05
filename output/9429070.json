@@ -2,26 +2,36 @@
  {
   "id": 9429070002,
   "districtId": 9429070,
-  "name": "MBUA"
+  "districtName": "MBUWA",
+  "name": "MBUA",
+  "postalCode": ""
  },
  {
   "id": 9429070008,
   "districtId": 9429070,
-  "name": "OTALAMA"
+  "districtName": "MBUWA",
+  "name": "OTALAMA",
+  "postalCode": "99564"
  },
  {
   "id": 9429070009,
   "districtId": 9429070,
-  "name": "ARUGIA"
+  "districtName": "MBUWA",
+  "name": "ARUGIA",
+  "postalCode": "99564"
  },
  {
   "id": 9429070010,
   "districtId": 9429070,
-  "name": "OPMU"
+  "districtName": "MBUWA",
+  "name": "OPMU",
+  "postalCode": "99564"
  },
  {
   "id": 9429070012,
   "districtId": 9429070,
-  "name": "KOGOMARU"
+  "districtName": "MBUWA",
+  "name": "KOGOMARU",
+  "postalCode": "99564"
  }
 ]

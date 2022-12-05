@@ -2,26 +2,36 @@
  {
   "id": 9110072001,
   "districtId": 9110072,
-  "name": "ADOH"
+  "districtName": "AYAMARU JAYA",
+  "name": "ADOH",
+  "postalCode": "98461"
  },
  {
   "id": 9110072003,
   "districtId": 9110072,
-  "name": "SOSIAN"
+  "districtName": "AYAMARU JAYA",
+  "name": "SOSIAN",
+  "postalCode": "98461"
  },
  {
   "id": 9110072004,
   "districtId": 9110072,
-  "name": "ORAIN"
+  "districtName": "AYAMARU JAYA",
+  "name": "ORAIN",
+  "postalCode": "98461"
  },
  {
   "id": 9110072005,
   "districtId": 9110072,
-  "name": "SEGIOR"
+  "districtName": "AYAMARU JAYA",
+  "name": "SEGIOR",
+  "postalCode": "98461"
  },
  {
   "id": 9110072006,
   "districtId": 9110072,
-  "name": "ORSU"
+  "districtName": "AYAMARU JAYA",
+  "name": "ORSU",
+  "postalCode": "98461"
  }
 ]

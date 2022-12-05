@@ -2,66 +2,92 @@
  {
   "id": 1403122001,
   "districtId": 1403122,
-  "name": "GRIYA MUKTI JAYA"
+  "districtName": "TELUK BELENGKONG",
+  "name": "GRIYA MUKTI JAYA",
+  "postalCode": "29255"
  },
  {
   "id": 1403122002,
   "districtId": 1403122,
-  "name": "TUNGGAL RAHAYU JAYA"
+  "districtName": "TELUK BELENGKONG",
+  "name": "TUNGGAL RAHAYU JAYA",
+  "postalCode": "29255"
  },
  {
   "id": 1403122003,
   "districtId": 1403122,
-  "name": "HIBRIDA MULYA"
+  "districtName": "TELUK BELENGKONG",
+  "name": "HIBRIDA MULYA",
+  "postalCode": "29255"
  },
  {
   "id": 1403122004,
   "districtId": 1403122,
-  "name": "BERINGIN MULYA"
+  "districtName": "TELUK BELENGKONG",
+  "name": "BERINGIN MULYA",
+  "postalCode": "29255"
  },
  {
   "id": 1403122005,
   "districtId": 1403122,
-  "name": "INDRA SARI JAYA"
+  "districtName": "TELUK BELENGKONG",
+  "name": "INDRA SARI JAYA",
+  "postalCode": "29255"
  },
  {
   "id": 1403122006,
   "districtId": 1403122,
-  "name": "SUMBER MAKMUR JAYA"
+  "districtName": "TELUK BELENGKONG",
+  "name": "SUMBER MAKMUR JAYA",
+  "postalCode": "29255"
  },
  {
   "id": 1403122007,
   "districtId": 1403122,
-  "name": "SUMBER JAYA"
+  "districtName": "TELUK BELENGKONG",
+  "name": "SUMBER JAYA",
+  "postalCode": "24553"
  },
  {
   "id": 1403122008,
   "districtId": 1403122,
-  "name": "HIBRIDA JAYA"
+  "districtName": "TELUK BELENGKONG",
+  "name": "HIBRIDA JAYA",
+  "postalCode": "29255"
  },
  {
   "id": 1403122009,
   "districtId": 1403122,
-  "name": "SUMBER SARI JAYA"
+  "districtName": "TELUK BELENGKONG",
+  "name": "SUMBER SARI JAYA",
+  "postalCode": "29255"
  },
  {
   "id": 1403122010,
   "districtId": 1403122,
-  "name": "KELAPA PATIH JAYA"
+  "districtName": "TELUK BELENGKONG",
+  "name": "KELAPA PATIH JAYA",
+  "postalCode": "29255"
  },
  {
   "id": 1403122011,
   "districtId": 1403122,
-  "name": "SAPTA MULYA JAYA"
+  "districtName": "TELUK BELENGKONG",
+  "name": "SAPTA MULYA JAYA",
+  "postalCode": "29255"
  },
  {
   "id": 1403122012,
   "districtId": 1403122,
-  "name": "GEMBARAN"
+  "districtName": "TELUK BELENGKONG",
+  "name": "GEMBARAN",
+  "postalCode": "29255"
  },
  {
   "id": 1403122013,
   "districtId": 1403122,
-  "name": "SAKA ROTAN"
+  "districtName": "TELUK BELENGKONG",
+  "name": "SAKA ROTAN",
+  "postalCode": "29255"
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 3216111001,
   "districtId": 3216111,
-  "name": "SUKAMEKAR"
+  "districtName": "SUKAWANGI",
+  "name": "SUKAMEKAR",
+  "postalCode": "43271"
  },
  {
   "id": 3216111002,
   "districtId": 3216111,
-  "name": "SUKADAYA"
+  "districtName": "SUKAWANGI",
+  "name": "SUKADAYA",
+  "postalCode": "17620"
  },
  {
   "id": 3216111003,
   "districtId": 3216111,
-  "name": "SUKABUDI"
+  "districtName": "SUKAWANGI",
+  "name": "SUKABUDI",
+  "postalCode": "17620"
  },
  {
   "id": 3216111004,
   "districtId": 3216111,
-  "name": "SUKAWANGI"
+  "districtName": "SUKAWANGI",
+  "name": "SUKAWANGI",
+  "postalCode": "35376"
  },
  {
   "id": 3216111005,
   "districtId": 3216111,
-  "name": "SUKAKERTA"
+  "districtName": "SUKAWANGI",
+  "name": "SUKAKERTA",
+  "postalCode": "43285"
  },
  {
   "id": 3216111006,
   "districtId": 3216111,
-  "name": "SUKARINGIN"
+  "districtName": "SUKAWANGI",
+  "name": "SUKARINGIN",
+  "postalCode": "17620"
  },
  {
   "id": 3216111007,
   "districtId": 3216111,
-  "name": "SUKATENANG"
+  "districtName": "SUKAWANGI",
+  "name": "SUKATENANG",
+  "postalCode": "17620"
  }
 ]

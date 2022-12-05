@@ -2,26 +2,36 @@
  {
   "id": 1275080001,
   "districtId": 1275080,
-  "name": "SARI REJO"
+  "districtName": "MEDAN POLONIA",
+  "name": "SARI REJO",
+  "postalCode": "20157"
  },
  {
   "id": 1275080002,
   "districtId": 1275080,
-  "name": "SUKA DAMAI"
+  "districtName": "MEDAN POLONIA",
+  "name": "SUKA DAMAI",
+  "postalCode": "24472"
  },
  {
   "id": 1275080003,
   "districtId": 1275080,
-  "name": "POLONIA"
+  "districtName": "MEDAN POLONIA",
+  "name": "POLONIA",
+  "postalCode": "20157"
  },
  {
   "id": 1275080004,
   "districtId": 1275080,
-  "name": "ANGGRUNG"
+  "districtName": "MEDAN POLONIA",
+  "name": "ANGGRUNG",
+  "postalCode": "20152"
  },
  {
   "id": 1275080005,
   "districtId": 1275080,
-  "name": "MADRAS HULU"
+  "districtName": "MEDAN POLONIA",
+  "name": "MADRAS HULU",
+  "postalCode": "20152"
  }
 ]

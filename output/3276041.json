@@ -2,36 +2,50 @@
  {
   "id": 3276041001,
   "districtId": 3276041,
-  "name": "CILANGKAP"
+  "districtName": "TAPOS",
+  "name": "CILANGKAP",
+  "postalCode": "13870"
  },
  {
   "id": 3276041002,
   "districtId": 3276041,
-  "name": "CIMPAEUN"
+  "districtName": "TAPOS",
+  "name": "CIMPAEUN",
+  "postalCode": "16459"
  },
  {
   "id": 3276041003,
   "districtId": 3276041,
-  "name": "TAPOS"
+  "districtName": "TAPOS",
+  "name": "TAPOS",
+  "postalCode": "16457"
  },
  {
   "id": 3276041004,
   "districtId": 3276041,
-  "name": "LEUWINAGGUNG"
+  "districtName": "TAPOS",
+  "name": "LEUWINAGGUNG",
+  "postalCode": ""
  },
  {
   "id": 3276041005,
   "districtId": 3276041,
-  "name": "JATIJAJAR"
+  "districtName": "TAPOS",
+  "name": "JATIJAJAR",
+  "postalCode": "16451"
  },
  {
   "id": 3276041006,
   "districtId": 3276041,
-  "name": "SUKAMAJU BARU"
+  "districtName": "TAPOS",
+  "name": "SUKAMAJU BARU",
+  "postalCode": "16455"
  },
  {
   "id": 3276041007,
   "districtId": 3276041,
-  "name": "SUKATANI"
+  "districtName": "TAPOS",
+  "name": "SUKATANI",
+  "postalCode": "41384"
  }
 ]

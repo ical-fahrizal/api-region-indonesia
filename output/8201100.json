@@ -2,86 +2,120 @@
  {
   "id": 8201100001,
   "districtId": 8201100,
-  "name": "LAKO AKELAMO"
+  "districtName": "SAHU",
+  "name": "LAKO AKELAMO",
+  "postalCode": "97753"
  },
  {
   "id": 8201100003,
   "districtId": 8201100,
-  "name": "TACIM"
+  "districtName": "SAHU",
+  "name": "TACIM",
+  "postalCode": "97753"
  },
  {
   "id": 8201100004,
   "districtId": 8201100,
-  "name": "TARUBA"
+  "districtName": "SAHU",
+  "name": "TARUBA",
+  "postalCode": "97753"
  },
  {
   "id": 8201100005,
   "districtId": 8201100,
-  "name": "BALISOAN"
+  "districtName": "SAHU",
+  "name": "BALISOAN",
+  "postalCode": "97753"
  },
  {
   "id": 8201100006,
   "districtId": 8201100,
-  "name": "GOLO"
+  "districtName": "SAHU",
+  "name": "GOLO",
+  "postalCode": "57698"
  },
  {
   "id": 8201100014,
   "districtId": 8201100,
-  "name": "TARAUDU"
+  "districtName": "SAHU",
+  "name": "TARAUDU",
+  "postalCode": "97753"
  },
  {
   "id": 8201100016,
   "districtId": 8201100,
-  "name": "TACICI"
+  "districtName": "SAHU",
+  "name": "TACICI",
+  "postalCode": "97753"
  },
  {
   "id": 8201100017,
   "districtId": 8201100,
-  "name": "WORAT WORAT"
+  "districtName": "SAHU",
+  "name": "WORAT WORAT",
+  "postalCode": "97753"
  },
  {
   "id": 8201100018,
   "districtId": 8201100,
-  "name": "TODAHE"
+  "districtName": "SAHU",
+  "name": "TODAHE",
+  "postalCode": "97753"
  },
  {
   "id": 8201100019,
   "districtId": 8201100,
-  "name": "PEOT"
+  "districtName": "SAHU",
+  "name": "PEOT",
+  "postalCode": "97753"
  },
  {
   "id": 8201100026,
   "districtId": 8201100,
-  "name": "SASUR"
+  "districtName": "SAHU",
+  "name": "SASUR",
+  "postalCode": "97764"
  },
  {
   "id": 8201100029,
   "districtId": 8201100,
-  "name": "GORO GORO"
+  "districtName": "SAHU",
+  "name": "GORO GORO",
+  "postalCode": "97791"
  },
  {
   "id": 8201100030,
   "districtId": 8201100,
-  "name": "LAKO AKEDIRI"
+  "districtName": "SAHU",
+  "name": "LAKO AKEDIRI",
+  "postalCode": "97753"
  },
  {
   "id": 8201100031,
   "districtId": 8201100,
-  "name": "JARAKORE"
+  "districtName": "SAHU",
+  "name": "JARAKORE",
+  "postalCode": ""
  },
  {
   "id": 8201100032,
   "districtId": 8201100,
-  "name": "ROPU TENGAH BALU"
+  "districtName": "SAHU",
+  "name": "ROPU TENGAH BALU",
+  "postalCode": ""
  },
  {
   "id": 8201100033,
   "districtId": 8201100,
-  "name": "BALISOAN UTARA"
+  "districtName": "SAHU",
+  "name": "BALISOAN UTARA",
+  "postalCode": "97753"
  },
  {
   "id": 8201100035,
   "districtId": 8201100,
-  "name": "SASUR PANTAI"
+  "districtName": "SAHU",
+  "name": "SASUR PANTAI",
+  "postalCode": "97753"
  }
 ]

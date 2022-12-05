@@ -2,16 +2,22 @@
  {
   "id": 5204121001,
   "districtId": 5204121,
-  "name": "LAPE"
+  "districtName": "LAPE",
+  "name": "LAPE",
+  "postalCode": "84382"
  },
  {
   "id": 5204121003,
   "districtId": 5204121,
-  "name": "LABUAN KURIS"
+  "districtName": "LAPE",
+  "name": "LABUAN KURIS",
+  "postalCode": "84382"
  },
  {
   "id": 5204121004,
   "districtId": 5204121,
-  "name": "HIJRAH"
+  "districtName": "LAPE",
+  "name": "HIJRAH",
+  "postalCode": "84382"
  }
 ]

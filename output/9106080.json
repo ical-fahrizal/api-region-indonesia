@@ -2,31 +2,43 @@
  {
   "id": 9106080004,
   "districtId": 9106080,
-  "name": "SASNEK"
+  "districtName": "SAWIAT",
+  "name": "SASNEK",
+  "postalCode": "98456"
  },
  {
   "id": 9106080006,
   "districtId": 9106080,
-  "name": "SAWIAT"
+  "districtName": "SAWIAT",
+  "name": "SAWIAT",
+  "postalCode": "98456"
  },
  {
   "id": 9106080010,
   "districtId": 9106080,
-  "name": "WENDI"
+  "districtName": "SAWIAT",
+  "name": "WENDI",
+  "postalCode": "98456"
  },
  {
   "id": 9106080011,
   "districtId": 9106080,
-  "name": "SFAGYO"
+  "districtName": "SAWIAT",
+  "name": "SFAGYO",
+  "postalCode": ""
  },
  {
   "id": 9106080012,
   "districtId": 9106080,
-  "name": "SUDROFOYO"
+  "districtName": "SAWIAT",
+  "name": "SUDROFOYO",
+  "postalCode": ""
  },
  {
   "id": 9106080013,
   "districtId": 9106080,
-  "name": "WENSOUG"
+  "districtName": "SAWIAT",
+  "name": "WENSOUG",
+  "postalCode": ""
  }
 ]

@@ -2,66 +2,92 @@
  {
   "id": 3208181001,
   "districtId": 3208181,
-  "name": "SILEBU"
+  "districtName": "PANCALANG",
+  "name": "SILEBU",
+  "postalCode": "45557"
  },
  {
   "id": 3208181002,
   "districtId": 3208181,
-  "name": "KAHIYANGAN"
+  "districtName": "PANCALANG",
+  "name": "KAHIYANGAN",
+  "postalCode": "45557"
  },
  {
   "id": 3208181003,
   "districtId": 3208181,
-  "name": "PATALAGAN"
+  "districtName": "PANCALANG",
+  "name": "PATALAGAN",
+  "postalCode": "45557"
  },
  {
   "id": 3208181004,
   "districtId": 3208181,
-  "name": "SUMBAKELING"
+  "districtName": "PANCALANG",
+  "name": "SUMBAKELING",
+  "postalCode": "45557"
  },
  {
   "id": 3208181005,
   "districtId": 3208181,
-  "name": "DANALAMPAH"
+  "districtName": "PANCALANG",
+  "name": "DANALAMPAH",
+  "postalCode": "45557"
  },
  {
   "id": 3208181006,
   "districtId": 3208181,
-  "name": "SINDANGKEMPENG"
+  "districtName": "PANCALANG",
+  "name": "SINDANGKEMPENG",
+  "postalCode": "45172"
  },
  {
   "id": 3208181007,
   "districtId": 3208181,
-  "name": "PANCALANG"
+  "districtName": "PANCALANG",
+  "name": "PANCALANG",
+  "postalCode": "45557"
  },
  {
   "id": 3208181008,
   "districtId": 3208181,
-  "name": "TAJURBUNTU"
+  "districtName": "PANCALANG",
+  "name": "TAJURBUNTU",
+  "postalCode": "45557"
  },
  {
   "id": 3208181009,
   "districtId": 3208181,
-  "name": "RAJAWETAN"
+  "districtName": "PANCALANG",
+  "name": "RAJAWETAN",
+  "postalCode": "45557"
  },
  {
   "id": 3208181010,
   "districtId": 3208181,
-  "name": "MEKARJAYA"
+  "districtName": "PANCALANG",
+  "name": "MEKARJAYA",
+  "postalCode": "30653"
  },
  {
   "id": 3208181011,
   "districtId": 3208181,
-  "name": "TENJOLAYAR"
+  "districtName": "PANCALANG",
+  "name": "TENJOLAYAR",
+  "postalCode": "45476"
  },
  {
   "id": 3208181012,
   "districtId": 3208181,
-  "name": "TARIKOLOT"
+  "districtName": "PANCALANG",
+  "name": "TARIKOLOT",
+  "postalCode": "45588"
  },
  {
   "id": 3208181013,
   "districtId": 3208181,
-  "name": "SAREWU"
+  "districtName": "PANCALANG",
+  "name": "SAREWU",
+  "postalCode": "45557"
  }
 ]

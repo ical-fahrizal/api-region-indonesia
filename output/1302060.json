@@ -2,46 +2,64 @@
  {
   "id": 1302060001,
   "districtId": 1302060,
-  "name": "LAKITAN"
+  "districtName": "LENGAYANG",
+  "name": "LAKITAN",
+  "postalCode": "25663"
  },
  {
   "id": 1302060002,
   "districtId": 1302060,
-  "name": "KAMBANG"
+  "districtName": "LENGAYANG",
+  "name": "KAMBANG",
+  "postalCode": "25663"
  },
  {
   "id": 1302060003,
   "districtId": 1302060,
-  "name": "LAKITAN SELATAN"
+  "districtName": "LENGAYANG",
+  "name": "LAKITAN SELATAN",
+  "postalCode": "25663"
  },
  {
   "id": 1302060004,
   "districtId": 1302060,
-  "name": "LAKITAN TENGAH"
+  "districtName": "LENGAYANG",
+  "name": "LAKITAN TENGAH",
+  "postalCode": "25663"
  },
  {
   "id": 1302060005,
   "districtId": 1302060,
-  "name": "LAKITAN TIMUR"
+  "districtName": "LENGAYANG",
+  "name": "LAKITAN TIMUR",
+  "postalCode": "25663"
  },
  {
   "id": 1302060006,
   "districtId": 1302060,
-  "name": "LAKITAN UTARA"
+  "districtName": "LENGAYANG",
+  "name": "LAKITAN UTARA",
+  "postalCode": "25663"
  },
  {
   "id": 1302060007,
   "districtId": 1302060,
-  "name": "KAMBANG BARAT"
+  "districtName": "LENGAYANG",
+  "name": "KAMBANG BARAT",
+  "postalCode": "25663"
  },
  {
   "id": 1302060008,
   "districtId": 1302060,
-  "name": "KAMBANG UTARA"
+  "districtName": "LENGAYANG",
+  "name": "KAMBANG UTARA",
+  "postalCode": "25663"
  },
  {
   "id": 1302060009,
   "districtId": 1302060,
-  "name": "KAMBANG TIMUR"
+  "districtName": "LENGAYANG",
+  "name": "KAMBANG TIMUR",
+  "postalCode": "25663"
  }
 ]

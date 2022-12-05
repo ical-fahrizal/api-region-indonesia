@@ -2,21 +2,29 @@
  {
   "id": 2102052001,
   "districtId": 2102052,
-  "name": "KUALA SEMPANG"
+  "districtName": "SERI KUALA LOBAM",
+  "name": "KUALA SEMPANG",
+  "postalCode": "29152"
  },
  {
   "id": 2102052003,
   "districtId": 2102052,
-  "name": "TELUK SASAH"
+  "districtName": "SERI KUALA LOBAM",
+  "name": "TELUK SASAH",
+  "postalCode": "29152"
  },
  {
   "id": 2102052004,
   "districtId": 2102052,
-  "name": "TELUK LOBAM"
+  "districtName": "SERI KUALA LOBAM",
+  "name": "TELUK LOBAM",
+  "postalCode": "29152"
  },
  {
   "id": 2102052005,
   "districtId": 2102052,
-  "name": "TANJUNG PERMAI"
+  "districtName": "SERI KUALA LOBAM",
+  "name": "TANJUNG PERMAI",
+  "postalCode": "28471"
  }
 ]

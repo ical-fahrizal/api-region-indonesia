@@ -2,131 +2,183 @@
  {
   "id": 5315050001,
   "districtId": 5315050,
-  "name": "LOHA"
+  "districtName": "MACANG PACAR",
+  "name": "LOHA",
+  "postalCode": "86756"
  },
  {
   "id": 5315050002,
   "districtId": 5315050,
-  "name": "COMPANG"
+  "districtName": "MACANG PACAR",
+  "name": "COMPANG",
+  "postalCode": "86756"
  },
  {
   "id": 5315050003,
   "districtId": 5315050,
-  "name": "GOLO LAJANG"
+  "districtName": "MACANG PACAR",
+  "name": "GOLO LAJANG",
+  "postalCode": "86756"
  },
  {
   "id": 5315050004,
   "districtId": 5315050,
-  "name": "PACAR"
+  "districtName": "MACANG PACAR",
+  "name": "PACAR",
+  "postalCode": "59213"
  },
  {
   "id": 5315050005,
   "districtId": 5315050,
-  "name": "KOMBO"
+  "districtName": "MACANG PACAR",
+  "name": "KOMBO",
+  "postalCode": "84181"
  },
  {
   "id": 5315050006,
   "districtId": 5315050,
-  "name": "WONTONG"
+  "districtName": "MACANG PACAR",
+  "name": "WONTONG",
+  "postalCode": "86756"
  },
  {
   "id": 5315050007,
   "districtId": 5315050,
-  "name": "REGO"
+  "districtName": "MACANG PACAR",
+  "name": "REGO",
+  "postalCode": "86756"
  },
  {
   "id": 5315050008,
   "districtId": 5315050,
-  "name": "NGGILAT"
+  "districtName": "MACANG PACAR",
+  "name": "NGGILAT",
+  "postalCode": "86756"
  },
  {
   "id": 5315050009,
   "districtId": 5315050,
-  "name": "MBAKUNG"
+  "districtName": "MACANG PACAR",
+  "name": "MBAKUNG",
+  "postalCode": "86756"
  },
  {
   "id": 5315050010,
   "districtId": 5315050,
-  "name": "BARI"
+  "districtName": "MACANG PACAR",
+  "name": "BARI",
+  "postalCode": "86756"
  },
  {
   "id": 5315050011,
   "districtId": 5315050,
-  "name": "ROKAP"
+  "districtName": "MACANG PACAR",
+  "name": "ROKAP",
+  "postalCode": "86756"
  },
  {
   "id": 5315050012,
   "districtId": 5315050,
-  "name": "RABA"
+  "districtName": "MACANG PACAR",
+  "name": "RABA",
+  "postalCode": "84181"
  },
  {
   "id": 5315050013,
   "districtId": 5315050,
-  "name": "NANGA KANTOR"
+  "districtName": "MACANG PACAR",
+  "name": "NANGA KANTOR",
+  "postalCode": "86756"
  },
  {
   "id": 5315050014,
   "districtId": 5315050,
-  "name": "BENTENG NDOPE"
+  "districtName": "MACANG PACAR",
+  "name": "BENTENG NDOPE",
+  "postalCode": ""
  },
  {
   "id": 5315050015,
   "districtId": 5315050,
-  "name": "WAKA"
+  "districtName": "MACANG PACAR",
+  "name": "WAKA",
+  "postalCode": "86353"
  },
  {
   "id": 5315050016,
   "districtId": 5315050,
-  "name": "PONG KOLONG"
+  "districtName": "MACANG PACAR",
+  "name": "PONG KOLONG",
+  "postalCode": ""
  },
  {
   "id": 5315050017,
   "districtId": 5315050,
-  "name": "GOLO LAJANG BARAT"
+  "districtName": "MACANG PACAR",
+  "name": "GOLO LAJANG BARAT",
+  "postalCode": ""
  },
  {
   "id": 5315050018,
   "districtId": 5315050,
-  "name": "ROMANG"
+  "districtName": "MACANG PACAR",
+  "name": "ROMANG",
+  "postalCode": ""
  },
  {
   "id": 5315050019,
   "districtId": 5315050,
-  "name": "MANONG"
+  "districtName": "MACANG PACAR",
+  "name": "MANONG",
+  "postalCode": "86516"
  },
  {
   "id": 5315050020,
   "districtId": 5315050,
-  "name": "KOMBO TENGAH"
+  "districtName": "MACANG PACAR",
+  "name": "KOMBO TENGAH",
+  "postalCode": ""
  },
  {
   "id": 5315050021,
   "districtId": 5315050,
-  "name": "KOMBO SELATAN"
+  "districtName": "MACANG PACAR",
+  "name": "KOMBO SELATAN",
+  "postalCode": ""
  },
  {
   "id": 5315050022,
   "districtId": 5315050,
-  "name": "WATU BARU"
+  "districtName": "MACANG PACAR",
+  "name": "WATU BARU",
+  "postalCode": ""
  },
  {
   "id": 5315050023,
   "districtId": 5315050,
-  "name": "LEWAT"
+  "districtName": "MACANG PACAR",
+  "name": "LEWAT",
+  "postalCode": "86253"
  },
  {
   "id": 5315050024,
   "districtId": 5315050,
-  "name": "WATU MANGGAR"
+  "districtName": "MACANG PACAR",
+  "name": "WATU MANGGAR",
+  "postalCode": ""
  },
  {
   "id": 5315050025,
   "districtId": 5315050,
-  "name": "SARAE NARU"
+  "districtName": "MACANG PACAR",
+  "name": "SARAE NARU",
+  "postalCode": ""
  },
  {
   "id": 5315050026,
   "districtId": 5315050,
-  "name": "NANGA KANTOR BARAT"
+  "districtName": "MACANG PACAR",
+  "name": "NANGA KANTOR BARAT",
+  "postalCode": ""
  }
 ]

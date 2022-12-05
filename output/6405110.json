@@ -2,41 +2,57 @@
  {
   "id": 6405110001,
   "districtId": 6405110,
-  "name": "BIATAN BAPINANG"
+  "districtName": "BIATAN",
+  "name": "BIATAN BAPINANG",
+  "postalCode": "77372"
  },
  {
   "id": 6405110002,
   "districtId": 6405110,
-  "name": "BIATAN BARU"
+  "districtName": "BIATAN",
+  "name": "BIATAN BARU",
+  "postalCode": "77372"
  },
  {
   "id": 6405110003,
   "districtId": 6405110,
-  "name": "BUKIT MAKMUR JAYA"
+  "districtName": "BIATAN",
+  "name": "BUKIT MAKMUR JAYA",
+  "postalCode": "77372"
  },
  {
   "id": 6405110004,
   "districtId": 6405110,
-  "name": "MANUNGGAL JAYA"
+  "districtName": "BIATAN",
+  "name": "MANUNGGAL JAYA",
+  "postalCode": "29256"
  },
  {
   "id": 6405110005,
   "districtId": 6405110,
-  "name": "BIATAN LEMPAKE"
+  "districtName": "BIATAN",
+  "name": "BIATAN LEMPAKE",
+  "postalCode": "77372"
  },
  {
   "id": 6405110006,
   "districtId": 6405110,
-  "name": "BIATAN ULU"
+  "districtName": "BIATAN",
+  "name": "BIATAN ULU",
+  "postalCode": "77372"
  },
  {
   "id": 6405110007,
   "districtId": 6405110,
-  "name": "KARANGAN"
+  "districtName": "BIATAN",
+  "name": "KARANGAN",
+  "postalCode": "31131"
  },
  {
   "id": 6405110008,
   "districtId": 6405110,
-  "name": "BIATAN ILIR"
+  "districtName": "BIATAN",
+  "name": "BIATAN ILIR",
+  "postalCode": "77372"
  }
 ]

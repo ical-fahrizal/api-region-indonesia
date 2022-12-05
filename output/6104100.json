@@ -2,41 +2,57 @@
  {
   "id": 6104100001,
   "districtId": 6104100,
-  "name": "TANJUNG"
+  "districtName": "MEMPAWAH HILIR",
+  "name": "TANJUNG",
+  "postalCode": "24562"
  },
  {
   "id": 6104100002,
   "districtId": 6104100,
-  "name": "KUALA SECAPAH"
+  "districtName": "MEMPAWAH HILIR",
+  "name": "KUALA SECAPAH",
+  "postalCode": "78914"
  },
  {
   "id": 6104100007,
   "districtId": 6104100,
-  "name": "TENGAH"
+  "districtName": "MEMPAWAH HILIR",
+  "name": "TENGAH",
+  "postalCode": "23752"
  },
  {
   "id": 6104100008,
   "districtId": 6104100,
-  "name": "TERUSAN"
+  "districtName": "MEMPAWAH HILIR",
+  "name": "TERUSAN",
+  "postalCode": "28471"
  },
  {
   "id": 6104100012,
   "districtId": 6104100,
-  "name": "P A S I R"
+  "districtName": "MEMPAWAH HILIR",
+  "name": "P A S I R",
+  "postalCode": ""
  },
  {
   "id": 6104100013,
   "districtId": 6104100,
-  "name": "PENIBUNG"
+  "districtName": "MEMPAWAH HILIR",
+  "name": "PENIBUNG",
+  "postalCode": ""
  },
  {
   "id": 6104100014,
   "districtId": 6104100,
-  "name": "SENGKUBANG"
+  "districtName": "MEMPAWAH HILIR",
+  "name": "SENGKUBANG",
+  "postalCode": "78919"
  },
  {
   "id": 6104100015,
   "districtId": 6104100,
-  "name": "MALIKIAN"
+  "districtName": "MEMPAWAH HILIR",
+  "name": "MALIKIAN",
+  "postalCode": "78919"
  }
 ]

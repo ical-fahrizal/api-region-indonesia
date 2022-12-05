@@ -2,76 +2,106 @@
  {
   "id": 6304050001,
   "districtId": 6304050,
-  "name": "ANJIR SERAPAT BARU I"
+  "districtName": "ANJIR MUARA",
+  "name": "ANJIR SERAPAT BARU I",
+  "postalCode": "70564"
  },
  {
   "id": 6304050002,
   "districtId": 6304050,
-  "name": "ANJIR SERAPAT BARU"
+  "districtName": "ANJIR MUARA",
+  "name": "ANJIR SERAPAT BARU",
+  "postalCode": "73581"
  },
  {
   "id": 6304050003,
   "districtId": 6304050,
-  "name": "SEPAKAT BERSAMA"
+  "districtName": "ANJIR MUARA",
+  "name": "SEPAKAT BERSAMA",
+  "postalCode": "70564"
  },
  {
   "id": 6304050004,
   "districtId": 6304050,
-  "name": "ANJIR SERAPAT LAMA"
+  "districtName": "ANJIR MUARA",
+  "name": "ANJIR SERAPAT LAMA",
+  "postalCode": "70564"
  },
  {
   "id": 6304050005,
   "districtId": 6304050,
-  "name": "ANJIR SERAPAT MUARA"
+  "districtName": "ANJIR MUARA",
+  "name": "ANJIR SERAPAT MUARA",
+  "postalCode": "70564"
  },
  {
   "id": 6304050006,
   "districtId": 6304050,
-  "name": "ANJIR SERAPAT MUARA I"
+  "districtName": "ANJIR MUARA",
+  "name": "ANJIR SERAPAT MUARA I",
+  "postalCode": "70564"
  },
  {
   "id": 6304050007,
   "districtId": 6304050,
-  "name": "MARABAHAN BARU"
+  "districtName": "ANJIR MUARA",
+  "name": "MARABAHAN BARU",
+  "postalCode": "70564"
  },
  {
   "id": 6304050008,
   "districtId": 6304050,
-  "name": "ANJIR MUARA KOTA"
+  "districtName": "ANJIR MUARA",
+  "name": "ANJIR MUARA KOTA",
+  "postalCode": "70564"
  },
  {
   "id": 6304050009,
   "districtId": 6304050,
-  "name": "PATIH MUHUR"
+  "districtName": "ANJIR MUARA",
+  "name": "PATIH MUHUR",
+  "postalCode": "70564"
  },
  {
   "id": 6304050010,
   "districtId": 6304050,
-  "name": "ANJIR MUARA KOTA TENGAH"
+  "districtName": "ANJIR MUARA",
+  "name": "ANJIR MUARA KOTA TENGAH",
+  "postalCode": "70564"
  },
  {
   "id": 6304050011,
   "districtId": 6304050,
-  "name": "BERINGIN JAYA"
+  "districtName": "ANJIR MUARA",
+  "name": "BERINGIN JAYA",
+  "postalCode": "21464"
  },
  {
   "id": 6304050012,
   "districtId": 6304050,
-  "name": "ANJIR MUARA LAMA"
+  "districtName": "ANJIR MUARA",
+  "name": "ANJIR MUARA LAMA",
+  "postalCode": "70564"
  },
  {
   "id": 6304050013,
   "districtId": 6304050,
-  "name": "SUNGAI PUNGGU BARU"
+  "districtName": "ANJIR MUARA",
+  "name": "SUNGAI PUNGGU BARU",
+  "postalCode": ""
  },
  {
   "id": 6304050014,
   "districtId": 6304050,
-  "name": "PATIH MUHUR BARU"
+  "districtName": "ANJIR MUARA",
+  "name": "PATIH MUHUR BARU",
+  "postalCode": "70564"
  },
  {
   "id": 6304050015,
   "districtId": 6304050,
-  "name": "SUNGAI PUNGGU"
+  "districtName": "ANJIR MUARA",
+  "name": "SUNGAI PUNGGU",
+  "postalCode": ""
  }
 ]

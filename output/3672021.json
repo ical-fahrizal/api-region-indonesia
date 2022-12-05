@@ -2,31 +2,43 @@
  {
   "id": 3672021001,
   "districtId": 3672021,
-  "name": "RAMANUJU"
+  "districtName": "PURWAKARTA",
+  "name": "RAMANUJU",
+  "postalCode": "42431"
  },
  {
   "id": 3672021002,
   "districtId": 3672021,
-  "name": "KEBONDALEM"
+  "districtName": "PURWAKARTA",
+  "name": "KEBONDALEM",
+  "postalCode": "53471"
  },
  {
   "id": 3672021003,
   "districtId": 3672021,
-  "name": "PURWAKARTA"
+  "districtName": "PURWAKARTA",
+  "name": "PURWAKARTA",
+  "postalCode": "42437"
  },
  {
   "id": 3672021004,
   "districtId": 3672021,
-  "name": "TEGAL BUNDER"
+  "districtName": "PURWAKARTA",
+  "name": "TEGAL BUNDER",
+  "postalCode": "42437"
  },
  {
   "id": 3672021005,
   "districtId": 3672021,
-  "name": "PABEAN"
+  "districtName": "PURWAKARTA",
+  "name": "PABEAN",
+  "postalCode": "51144"
  },
  {
   "id": 3672021006,
   "districtId": 3672021,
-  "name": "KOTABUMI"
+  "districtName": "PURWAKARTA",
+  "name": "KOTABUMI",
+  "postalCode": "30671"
  }
 ]

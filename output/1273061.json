@@ -2,26 +2,36 @@
  {
   "id": 1273061001,
   "districtId": 1273061,
-  "name": "BAH KAPUL"
+  "districtName": "SIANTAR SITALASARI",
+  "name": "BAH KAPUL",
+  "postalCode": "21139"
  },
  {
   "id": 1273061002,
   "districtId": 1273061,
-  "name": "GURILLA"
+  "districtName": "SIANTAR SITALASARI",
+  "name": "GURILLA",
+  "postalCode": "21137"
  },
  {
   "id": 1273061003,
   "districtId": 1273061,
-  "name": "BUKIT SHOFA"
+  "districtName": "SIANTAR SITALASARI",
+  "name": "BUKIT SHOFA",
+  "postalCode": ""
  },
  {
   "id": 1273061004,
   "districtId": 1273061,
-  "name": "SETIA NEGARA"
+  "districtName": "SIANTAR SITALASARI",
+  "name": "SETIA NEGARA",
+  "postalCode": "21137"
  },
  {
   "id": 1273061005,
   "districtId": 1273061,
-  "name": "BAH SORMA"
+  "districtName": "SIANTAR SITALASARI",
+  "name": "BAH SORMA",
+  "postalCode": "21139"
  }
 ]

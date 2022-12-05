@@ -2,46 +2,64 @@
  {
   "id": 3508140001,
   "districtId": 3508140,
-  "name": "BARAT"
+  "districtName": "PADANG",
+  "name": "BARAT",
+  "postalCode": "24182"
  },
  {
   "id": 3508140002,
   "districtId": 3508140,
-  "name": "BABAKAN"
+  "districtName": "PADANG",
+  "name": "BABAKAN",
+  "postalCode": "35675"
  },
  {
   "id": 3508140003,
   "districtId": 3508140,
-  "name": "MOJO"
+  "districtName": "PADANG",
+  "name": "MOJO",
+  "postalCode": "57384"
  },
  {
   "id": 3508140004,
   "districtId": 3508140,
-  "name": "BODANG"
+  "districtName": "PADANG",
+  "name": "BODANG",
+  "postalCode": "67352"
  },
  {
   "id": 3508140005,
   "districtId": 3508140,
-  "name": "KEDAWUNG"
+  "districtName": "PADANG",
+  "name": "KEDAWUNG",
+  "postalCode": "45153"
  },
  {
   "id": 3508140006,
   "districtId": 3508140,
-  "name": "PADANG"
+  "districtName": "PADANG",
+  "name": "PADANG",
+  "postalCode": "23762"
  },
  {
   "id": 3508140007,
   "districtId": 3508140,
-  "name": "KALISEMUT"
+  "districtName": "PADANG",
+  "name": "KALISEMUT",
+  "postalCode": "67352"
  },
  {
   "id": 3508140008,
   "districtId": 3508140,
-  "name": "MERAKAN"
+  "districtName": "PADANG",
+  "name": "MERAKAN",
+  "postalCode": "67352"
  },
  {
   "id": 3508140009,
   "districtId": 3508140,
-  "name": "TANGGUNG"
+  "districtName": "PADANG",
+  "name": "TANGGUNG",
+  "postalCode": "66272"
  }
 ]

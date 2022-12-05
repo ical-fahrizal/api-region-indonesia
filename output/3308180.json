@@ -2,106 +2,148 @@
  {
   "id": 3308180001,
   "districtId": 3308180,
-  "name": "BANYUURIP"
+  "districtName": "TEGALREJO",
+  "name": "BANYUURIP",
+  "postalCode": "59263"
  },
  {
   "id": 3308180002,
   "districtId": 3308180,
-  "name": "TAMPINGAN"
+  "districtName": "TEGALREJO",
+  "name": "TAMPINGAN",
+  "postalCode": "51381"
  },
  {
   "id": 3308180003,
   "districtId": 3308180,
-  "name": "PURWOSARI"
+  "districtName": "TEGALREJO",
+  "name": "PURWOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 3308180004,
   "districtId": 3308180,
-  "name": "SIDOREJO"
+  "districtName": "TEGALREJO",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 3308180005,
   "districtId": 3308180,
-  "name": "SOROYUDAN"
+  "districtName": "TEGALREJO",
+  "name": "SOROYUDAN",
+  "postalCode": "56192"
  },
  {
   "id": 3308180006,
   "districtId": 3308180,
-  "name": "TEGALREJO"
+  "districtName": "TEGALREJO",
+  "name": "TEGALREJO",
+  "postalCode": "50733"
  },
  {
   "id": 3308180007,
   "districtId": 3308180,
-  "name": "SUKOREJO"
+  "districtName": "TEGALREJO",
+  "name": "SUKOREJO",
+  "postalCode": "31551"
  },
  {
   "id": 3308180008,
   "districtId": 3308180,
-  "name": "KEBONAGUNG"
+  "districtName": "TEGALREJO",
+  "name": "KEBONAGUNG",
+  "postalCode": "56151"
  },
  {
   "id": 3308180009,
   "districtId": 3308180,
-  "name": "JAPAN"
+  "districtName": "TEGALREJO",
+  "name": "JAPAN",
+  "postalCode": "59353"
  },
  {
   "id": 3308180010,
   "districtId": 3308180,
-  "name": "BANYUSARI"
+  "districtName": "TEGALREJO",
+  "name": "BANYUSARI",
+  "postalCode": "40921"
  },
  {
   "id": 3308180011,
   "districtId": 3308180,
-  "name": "DLIMAS"
+  "districtName": "TEGALREJO",
+  "name": "DLIMAS",
+  "postalCode": "51271"
  },
  {
   "id": 3308180012,
   "districtId": 3308180,
-  "name": "GLAGAHOMBO"
+  "districtName": "TEGALREJO",
+  "name": "GLAGAHOMBO",
+  "postalCode": "56192"
  },
  {
   "id": 3308180013,
   "districtId": 3308180,
-  "name": "NGASEM"
+  "districtName": "TEGALREJO",
+  "name": "NGASEM",
+  "postalCode": "59461"
  },
  {
   "id": 3308180014,
   "districtId": 3308180,
-  "name": "GIRIREJO"
+  "districtName": "TEGALREJO",
+  "name": "GIRIREJO",
+  "postalCode": "56153"
  },
  {
   "id": 3308180015,
   "districtId": 3308180,
-  "name": "PURWODADI"
+  "districtName": "TEGALREJO",
+  "name": "PURWODADI",
+  "postalCode": "24652"
  },
  {
   "id": 3308180016,
   "districtId": 3308180,
-  "name": "WONOKERTO"
+  "districtName": "TEGALREJO",
+  "name": "WONOKERTO",
+  "postalCode": "31662"
  },
  {
   "id": 3308180017,
   "districtId": 3308180,
-  "name": "DAWUNG"
+  "districtName": "TEGALREJO",
+  "name": "DAWUNG",
+  "postalCode": "57256"
  },
  {
   "id": 3308180018,
   "districtId": 3308180,
-  "name": "KLOPO"
+  "districtName": "TEGALREJO",
+  "name": "KLOPO",
+  "postalCode": "56192"
  },
  {
   "id": 3308180019,
   "districtId": 3308180,
-  "name": "NGADIREJO"
+  "districtName": "TEGALREJO",
+  "name": "NGADIREJO",
+  "postalCode": "31662"
  },
  {
   "id": 3308180020,
   "districtId": 3308180,
-  "name": "DONOROJO"
+  "districtName": "TEGALREJO",
+  "name": "DONOROJO",
+  "postalCode": "56172"
  },
  {
   "id": 3308180021,
   "districtId": 3308180,
-  "name": "MANGUNREJO"
+  "districtName": "TEGALREJO",
+  "name": "MANGUNREJO",
+  "postalCode": "56163"
  }
 ]

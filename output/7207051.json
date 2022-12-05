@@ -2,36 +2,50 @@
  {
   "id": 7207051001,
   "districtId": 7207051,
-  "name": "BODI"
+  "districtName": "PALELEH BARAT",
+  "name": "BODI",
+  "postalCode": "26235"
  },
  {
   "id": 7207051002,
   "districtId": 7207051,
-  "name": "TAYOKAN"
+  "districtName": "PALELEH BARAT",
+  "name": "TAYOKAN",
+  "postalCode": "94568"
  },
  {
   "id": 7207051003,
   "districtId": 7207051,
-  "name": "HARMONI"
+  "districtName": "PALELEH BARAT",
+  "name": "HARMONI",
+  "postalCode": "94568"
  },
  {
   "id": 7207051004,
   "districtId": 7207051,
-  "name": "LUNGUTO"
+  "districtName": "PALELEH BARAT",
+  "name": "LUNGUTO",
+  "postalCode": "94568"
  },
  {
   "id": 7207051005,
   "districtId": 7207051,
-  "name": "TIMBULON"
+  "districtName": "PALELEH BARAT",
+  "name": "TIMBULON",
+  "postalCode": "94568"
  },
  {
   "id": 7207051006,
   "districtId": 7207051,
-  "name": "OYAK"
+  "districtName": "PALELEH BARAT",
+  "name": "OYAK",
+  "postalCode": "94568"
  },
  {
   "id": 7207051007,
   "districtId": 7207051,
-  "name": "HULUBALANG"
+  "districtName": "PALELEH BARAT",
+  "name": "HULUBALANG",
+  "postalCode": "94568"
  }
 ]

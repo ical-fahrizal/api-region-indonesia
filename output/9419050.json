@@ -2,36 +2,50 @@
  {
   "id": 9419050004,
   "districtId": 9419050,
-  "name": "SARMO"
+  "districtName": "SARMI",
+  "name": "SARMO",
+  "postalCode": "99373"
  },
  {
   "id": 9419050005,
   "districtId": 9419050,
-  "name": "SARMI"
+  "districtName": "SARMI",
+  "name": "SARMI",
+  "postalCode": "99373"
  },
  {
   "id": 9419050006,
   "districtId": 9419050,
-  "name": "MARARENA"
+  "districtName": "SARMI",
+  "name": "MARARENA",
+  "postalCode": "99373"
  },
  {
   "id": 9419050007,
   "districtId": 9419050,
-  "name": "SAWAR"
+  "districtName": "SARMI",
+  "name": "SAWAR",
+  "postalCode": "99373"
  },
  {
   "id": 9419050012,
   "districtId": 9419050,
-  "name": "ARMO"
+  "districtName": "SARMI",
+  "name": "ARMO",
+  "postalCode": "99373"
  },
  {
   "id": 9419050013,
   "districtId": 9419050,
-  "name": "TAFAREWAR"
+  "districtName": "SARMI",
+  "name": "TAFAREWAR",
+  "postalCode": ""
  },
  {
   "id": 9419050014,
   "districtId": 9419050,
-  "name": "LEMBAH NEIDAM"
+  "districtName": "SARMI",
+  "name": "LEMBAH NEIDAM",
+  "postalCode": "99373"
  }
 ]

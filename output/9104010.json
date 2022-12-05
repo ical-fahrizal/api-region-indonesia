@@ -2,36 +2,50 @@
  {
   "id": 9104010001,
   "districtId": 9104010,
-  "name": "FRUATA"
+  "districtName": "FAFURWAR",
+  "name": "FRUATA",
+  "postalCode": ""
  },
  {
   "id": 9104010002,
   "districtId": 9104010,
-  "name": "MARYEDI"
+  "districtName": "FAFURWAR",
+  "name": "MARYEDI",
+  "postalCode": ""
  },
  {
   "id": 9104010003,
   "districtId": 9104010,
-  "name": "RIENDO"
+  "districtName": "FAFURWAR",
+  "name": "RIENDO",
+  "postalCode": "98363"
  },
  {
   "id": 9104010004,
   "districtId": 9104010,
-  "name": "TAROFA"
+  "districtName": "FAFURWAR",
+  "name": "TAROFA",
+  "postalCode": ""
  },
  {
   "id": 9104010005,
   "districtId": 9104010,
-  "name": "MAMBRIEMA"
+  "districtName": "FAFURWAR",
+  "name": "MAMBRIEMA",
+  "postalCode": ""
  },
  {
   "id": 9104010006,
   "districtId": 9104010,
-  "name": "MONIARA"
+  "districtName": "FAFURWAR",
+  "name": "MONIARA",
+  "postalCode": ""
  },
  {
   "id": 9104010007,
   "districtId": 9104010,
-  "name": "WARAROMA"
+  "districtName": "FAFURWAR",
+  "name": "WARAROMA",
+  "postalCode": ""
  }
 ]

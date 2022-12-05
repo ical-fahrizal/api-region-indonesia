@@ -2,46 +2,64 @@
  {
   "id": 3315140001,
   "districtId": 3315140,
-  "name": "MENDURAN"
+  "districtName": "BRATI",
+  "name": "MENDURAN",
+  "postalCode": "58153"
  },
  {
   "id": 3315140002,
   "districtId": 3315140,
-  "name": "JANGKUNGHARJO"
+  "districtName": "BRATI",
+  "name": "JANGKUNGHARJO",
+  "postalCode": "58153"
  },
  {
   "id": 3315140003,
   "districtId": 3315140,
-  "name": "TEMON"
+  "districtName": "BRATI",
+  "name": "TEMON",
+  "postalCode": "57673"
  },
  {
   "id": 3315140004,
   "districtId": 3315140,
-  "name": "LEMAHPUTIH"
+  "districtName": "BRATI",
+  "name": "LEMAHPUTIH",
+  "postalCode": "58153"
  },
  {
   "id": 3315140005,
   "districtId": 3315140,
-  "name": "TIREM"
+  "districtName": "BRATI",
+  "name": "TIREM",
+  "postalCode": "58153"
  },
  {
   "id": 3315140006,
   "districtId": 3315140,
-  "name": "KARANGSARI"
+  "districtName": "BRATI",
+  "name": "KARANGSARI",
+  "postalCode": "35376"
  },
  {
   "id": 3315140007,
   "districtId": 3315140,
-  "name": "KRONGGEN"
+  "districtName": "BRATI",
+  "name": "KRONGGEN",
+  "postalCode": "58153"
  },
  {
   "id": 3315140008,
   "districtId": 3315140,
-  "name": "KATEKAN"
+  "districtName": "BRATI",
+  "name": "KATEKAN",
+  "postalCode": "58153"
  },
  {
   "id": 3315140009,
   "districtId": 3315140,
-  "name": "TEGALSUMUR"
+  "districtName": "BRATI",
+  "name": "TEGALSUMUR",
+  "postalCode": "58153"
  }
 ]

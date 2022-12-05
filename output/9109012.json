@@ -2,21 +2,29 @@
  {
   "id": 9109012001,
   "districtId": 9109012,
-  "name": "ASES"
+  "districtName": "ASES",
+  "name": "ASES",
+  "postalCode": "98473"
  },
  {
   "id": 9109012002,
   "districtId": 9109012,
-  "name": "ASUON"
+  "districtName": "ASES",
+  "name": "ASUON",
+  "postalCode": ""
  },
  {
   "id": 9109012003,
   "districtId": 9109012,
-  "name": "SAFOETIEK"
+  "districtName": "ASES",
+  "name": "SAFOETIEK",
+  "postalCode": ""
  },
  {
   "id": 9109012004,
   "districtId": 9109012,
-  "name": "FRASAYUOH"
+  "districtName": "ASES",
+  "name": "FRASAYUOH",
+  "postalCode": ""
  }
 ]

@@ -2,61 +2,85 @@
  {
   "id": 7317040004,
   "districtId": 7317040,
-  "name": "TALLANG BULAWANG"
+  "districtName": "BAJO",
+  "name": "TALLANG BULAWANG",
+  "postalCode": "91995"
  },
  {
   "id": 7317040005,
   "districtId": 7317040,
-  "name": "BALLA"
+  "districtName": "BAJO",
+  "name": "BALLA",
+  "postalCode": "91995"
  },
  {
   "id": 7317040006,
   "districtId": 7317040,
-  "name": "SAMPA"
+  "districtName": "BAJO",
+  "name": "SAMPA",
+  "postalCode": "91995"
  },
  {
   "id": 7317040007,
   "districtId": 7317040,
-  "name": "BAJO"
+  "districtName": "BAJO",
+  "name": "BAJO",
+  "postalCode": "58381"
  },
  {
   "id": 7317040008,
   "districtId": 7317040,
-  "name": "RUMAJU"
+  "districtName": "BAJO",
+  "name": "RUMAJU",
+  "postalCode": "91995"
  },
  {
   "id": 7317040009,
   "districtId": 7317040,
-  "name": "SAGA"
+  "districtName": "BAJO",
+  "name": "SAGA",
+  "postalCode": "15610"
  },
  {
   "id": 7317040010,
   "districtId": 7317040,
-  "name": "JAMBU"
+  "districtName": "BAJO",
+  "name": "JAMBU",
+  "postalCode": "20998"
  },
  {
   "id": 7317040011,
   "districtId": 7317040,
-  "name": "PANGI"
+  "districtName": "BAJO",
+  "name": "PANGI",
+  "postalCode": "24783"
  },
  {
   "id": 7317040012,
   "districtId": 7317040,
-  "name": "SUMABU"
+  "districtName": "BAJO",
+  "name": "SUMABU",
+  "postalCode": "91995"
  },
  {
   "id": 7317040013,
   "districtId": 7317040,
-  "name": "SAMULANG"
+  "districtName": "BAJO",
+  "name": "SAMULANG",
+  "postalCode": "91995"
  },
  {
   "id": 7317040014,
   "districtId": 7317040,
-  "name": "BUNTU BABANG"
+  "districtName": "BAJO",
+  "name": "BUNTU BABANG",
+  "postalCode": "91995"
  },
  {
   "id": 7317040015,
   "districtId": 7317040,
-  "name": "LANGKIDDI"
+  "districtName": "BAJO",
+  "name": "LANGKIDDI",
+  "postalCode": "91995"
  }
 ]

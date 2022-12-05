@@ -2,86 +2,120 @@
  {
   "id": 3301190001,
   "districtId": 3301190,
-  "name": "WIDARAPAYUNG KULON"
+  "districtName": "BINANGUN",
+  "name": "WIDARAPAYUNG KULON",
+  "postalCode": "53281"
  },
  {
   "id": 3301190002,
   "districtId": 3301190,
-  "name": "SIDAYU"
+  "districtName": "BINANGUN",
+  "name": "SIDAYU",
+  "postalCode": "51254"
  },
  {
   "id": 3301190003,
   "districtId": 3301190,
-  "name": "WIDARAPAYUNG WETAN"
+  "districtName": "BINANGUN",
+  "name": "WIDARAPAYUNG WETAN",
+  "postalCode": "53281"
  },
  {
   "id": 3301190004,
   "districtId": 3301190,
-  "name": "SIDAURIP"
+  "districtName": "BINANGUN",
+  "name": "SIDAURIP",
+  "postalCode": "53281"
  },
  {
   "id": 3301190005,
   "districtId": 3301190,
-  "name": "PAGUBUGAN KULON"
+  "districtName": "BINANGUN",
+  "name": "PAGUBUGAN KULON",
+  "postalCode": "53281"
  },
  {
   "id": 3301190006,
   "districtId": 3301190,
-  "name": "PAGUBUGAN"
+  "districtName": "BINANGUN",
+  "name": "PAGUBUGAN",
+  "postalCode": "53281"
  },
  {
   "id": 3301190007,
   "districtId": 3301190,
-  "name": "KARANGNANGKA"
+  "districtName": "BINANGUN",
+  "name": "KARANGNANGKA",
+  "postalCode": "53281"
  },
  {
   "id": 3301190008,
   "districtId": 3301190,
-  "name": "KEMOJING"
+  "districtName": "BINANGUN",
+  "name": "KEMOJING",
+  "postalCode": "53281"
  },
  {
   "id": 3301190009,
   "districtId": 3301190,
-  "name": "PESAWAHAN"
+  "districtName": "BINANGUN",
+  "name": "PESAWAHAN",
+  "postalCode": "35223"
  },
  {
   "id": 3301190010,
   "districtId": 3301190,
-  "name": "PASURUHAN"
+  "districtName": "BINANGUN",
+  "name": "PASURUHAN",
+  "postalCode": "53281"
  },
  {
   "id": 3301190011,
   "districtId": 3301190,
-  "name": "ALANGAMBA"
+  "districtName": "BINANGUN",
+  "name": "ALANGAMBA",
+  "postalCode": "53281"
  },
  {
   "id": 3301190012,
   "districtId": 3301190,
-  "name": "BINANGUN"
+  "districtName": "BINANGUN",
+  "name": "BINANGUN",
+  "postalCode": "46316"
  },
  {
   "id": 3301190013,
   "districtId": 3301190,
-  "name": "BANGKAL"
+  "districtName": "BINANGUN",
+  "name": "BANGKAL",
+  "postalCode": "53281"
  },
  {
   "id": 3301190014,
   "districtId": 3301190,
-  "name": "JEPARA WETAN"
+  "districtName": "BINANGUN",
+  "name": "JEPARA WETAN",
+  "postalCode": "53281"
  },
  {
   "id": 3301190015,
   "districtId": 3301190,
-  "name": "JEPARA KULON"
+  "districtName": "BINANGUN",
+  "name": "JEPARA KULON",
+  "postalCode": "53281"
  },
  {
   "id": 3301190016,
   "districtId": 3301190,
-  "name": "KEPUDANG"
+  "districtName": "BINANGUN",
+  "name": "KEPUDANG",
+  "postalCode": "53281"
  },
  {
   "id": 3301190017,
   "districtId": 3301190,
-  "name": "JATI"
+  "districtName": "BINANGUN",
+  "name": "JATI",
+  "postalCode": "20152"
  }
 ]

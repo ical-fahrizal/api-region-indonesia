@@ -2,71 +2,99 @@
  {
   "id": 7325050001,
   "districtId": 7325050,
-  "name": "HARAPAN"
+  "districtName": "MALILI",
+  "name": "HARAPAN",
+  "postalCode": "22253"
  },
  {
   "id": 7325050002,
   "districtId": 7325050,
-  "name": "PONGKERU"
+  "districtName": "MALILI",
+  "name": "PONGKERU",
+  "postalCode": "92981"
  },
  {
   "id": 7325050003,
   "districtId": 7325050,
-  "name": "LASKAP"
+  "districtName": "MALILI",
+  "name": "LASKAP",
+  "postalCode": "92935"
  },
  {
   "id": 7325050004,
   "districtId": 7325050,
-  "name": "PUNCAK INDAH"
+  "districtName": "MALILI",
+  "name": "PUNCAK INDAH",
+  "postalCode": "92936"
  },
  {
   "id": 7325050006,
   "districtId": 7325050,
-  "name": "MALILI"
+  "districtName": "MALILI",
+  "name": "MALILI",
+  "postalCode": "91981"
  },
  {
   "id": 7325050007,
   "districtId": 7325050,
-  "name": "WEWANGRIU"
+  "districtName": "MALILI",
+  "name": "WEWANGRIU",
+  "postalCode": "91981"
  },
  {
   "id": 7325050008,
   "districtId": 7325050,
-  "name": "BALANTANG"
+  "districtName": "MALILI",
+  "name": "BALANTANG",
+  "postalCode": "94762"
  },
  {
   "id": 7325050009,
   "districtId": 7325050,
-  "name": "BARUGA"
+  "districtName": "MALILI",
+  "name": "BARUGA",
+  "postalCode": "94563"
  },
  {
   "id": 7325050011,
   "districtId": 7325050,
-  "name": "ATUE"
+  "districtName": "MALILI",
+  "name": "ATUE",
+  "postalCode": "92981"
  },
  {
   "id": 7325050012,
   "districtId": 7325050,
-  "name": "MANURUNG"
+  "districtName": "MALILI",
+  "name": "MANURUNG",
+  "postalCode": "72273"
  },
  {
   "id": 7325050013,
   "districtId": 7325050,
-  "name": "LAKAWALI"
+  "districtName": "MALILI",
+  "name": "LAKAWALI",
+  "postalCode": "92981"
  },
  {
   "id": 7325050018,
   "districtId": 7325050,
-  "name": "TARABBI"
+  "districtName": "MALILI",
+  "name": "TARABBI",
+  "postalCode": "92981"
  },
  {
   "id": 7325050020,
   "districtId": 7325050,
-  "name": "PASI PASI"
+  "districtName": "MALILI",
+  "name": "PASI PASI",
+  "postalCode": ""
  },
  {
   "id": 7325050021,
   "districtId": 7325050,
-  "name": "LAKAWALI PANTAI"
+  "districtName": "MALILI",
+  "name": "LAKAWALI PANTAI",
+  "postalCode": "91981"
  }
 ]

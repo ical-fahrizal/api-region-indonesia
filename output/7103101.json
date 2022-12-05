@@ -2,26 +2,36 @@
  {
   "id": 7103101001,
   "districtId": 7103101,
-  "name": "NUSA"
+  "districtName": "NUSA TABUKAN",
+  "name": "NUSA",
+  "postalCode": "23657"
  },
  {
   "id": 7103101002,
   "districtId": 7103101,
-  "name": "NANEDAKELE"
+  "districtName": "NUSA TABUKAN",
+  "name": "NANEDAKELE",
+  "postalCode": "95856"
  },
  {
   "id": 7103101003,
   "districtId": 7103101,
-  "name": "BUKIDE"
+  "districtName": "NUSA TABUKAN",
+  "name": "BUKIDE",
+  "postalCode": "95856"
  },
  {
   "id": 7103101004,
   "districtId": 7103101,
-  "name": "BUKIDE TIMUR"
+  "districtName": "NUSA TABUKAN",
+  "name": "BUKIDE TIMUR",
+  "postalCode": "95856"
  },
  {
   "id": 7103101005,
   "districtId": 7103101,
-  "name": "NANUSA"
+  "districtName": "NUSA TABUKAN",
+  "name": "NANUSA",
+  "postalCode": "95856"
  }
 ]

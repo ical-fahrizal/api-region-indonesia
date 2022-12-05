@@ -2,41 +2,57 @@
  {
   "id": 5320050001,
   "districtId": 5320050,
-  "name": "BEBAE"
+  "districtName": "SABU TENGAH",
+  "name": "BEBAE",
+  "postalCode": "85392"
  },
  {
   "id": 5320050002,
   "districtId": 5320050,
-  "name": "TADA"
+  "districtName": "SABU TENGAH",
+  "name": "TADA",
+  "postalCode": "85392"
  },
  {
   "id": 5320050003,
   "districtId": 5320050,
-  "name": "MATEI"
+  "districtName": "SABU TENGAH",
+  "name": "MATEI",
+  "postalCode": "85392"
  },
  {
   "id": 5320050004,
   "districtId": 5320050,
-  "name": "EIMMADAKE"
+  "districtName": "SABU TENGAH",
+  "name": "EIMMADAKE",
+  "postalCode": ""
  },
  {
   "id": 5320050005,
   "districtId": 5320050,
-  "name": "LOBOAJU"
+  "districtName": "SABU TENGAH",
+  "name": "LOBOAJU",
+  "postalCode": "85392"
  },
  {
   "id": 5320050006,
   "districtId": 5320050,
-  "name": "JIWUWU"
+  "districtName": "SABU TENGAH",
+  "name": "JIWUWU",
+  "postalCode": "85392"
  },
  {
   "id": 5320050007,
   "districtId": 5320050,
-  "name": "EILODE"
+  "districtName": "SABU TENGAH",
+  "name": "EILODE",
+  "postalCode": "85392"
  },
  {
   "id": 5320050008,
   "districtId": 5320050,
-  "name": "EIMAU"
+  "districtName": "SABU TENGAH",
+  "name": "EIMAU",
+  "postalCode": "85392"
  }
 ]

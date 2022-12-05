@@ -2,56 +2,78 @@
  {
   "id": 1507012001,
   "districtId": 1507012,
-  "name": "LUBUK BERNAI"
+  "districtName": "BATANG ASAM",
+  "name": "LUBUK BERNAI",
+  "postalCode": "36552"
  },
  {
   "id": 1507012002,
   "districtId": 1507012,
-  "name": "KAMPUNG BARU"
+  "districtName": "BATANG ASAM",
+  "name": "KAMPUNG BARU",
+  "postalCode": "24652"
  },
  {
   "id": 1507012003,
   "districtId": 1507012,
-  "name": "TANJUNG BOJO"
+  "districtName": "BATANG ASAM",
+  "name": "TANJUNG BOJO",
+  "postalCode": "36552"
  },
  {
   "id": 1507012004,
   "districtId": 1507012,
-  "name": "DUSUN KEBON"
+  "districtName": "BATANG ASAM",
+  "name": "DUSUN KEBON",
+  "postalCode": ""
  },
  {
   "id": 1507012005,
   "districtId": 1507012,
-  "name": "SUBAN"
+  "districtName": "BATANG ASAM",
+  "name": "SUBAN",
+  "postalCode": "36552"
  },
  {
   "id": 1507012006,
   "districtId": 1507012,
-  "name": "SRI AGUNG"
+  "districtName": "BATANG ASAM",
+  "name": "SRI AGUNG",
+  "postalCode": "36552"
  },
  {
   "id": 1507012007,
   "districtId": 1507012,
-  "name": "LUBUK LAWAS"
+  "districtName": "BATANG ASAM",
+  "name": "LUBUK LAWAS",
+  "postalCode": "36552"
  },
  {
   "id": 1507012008,
   "districtId": 1507012,
-  "name": "SUNGAI BADAR"
+  "districtName": "BATANG ASAM",
+  "name": "SUNGAI BADAR",
+  "postalCode": "36552"
  },
  {
   "id": 1507012009,
   "districtId": 1507012,
-  "name": "SUNGAI PENOBAN"
+  "districtName": "BATANG ASAM",
+  "name": "SUNGAI PENOBAN",
+  "postalCode": "36552"
  },
  {
   "id": 1507012010,
   "districtId": 1507012,
-  "name": "RAWANG KEMPAS"
+  "districtName": "BATANG ASAM",
+  "name": "RAWANG KEMPAS",
+  "postalCode": "36552"
  },
  {
   "id": 1507012011,
   "districtId": 1507012,
-  "name": "RAWA MEDANG"
+  "districtName": "BATANG ASAM",
+  "name": "RAWA MEDANG",
+  "postalCode": "36552"
  }
 ]

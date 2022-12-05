@@ -2,51 +2,71 @@
  {
   "id": 3206260001,
   "districtId": 3206260,
-  "name": "KERTAMUKTI"
+  "districtName": "CIAWI",
+  "name": "KERTAMUKTI",
+  "postalCode": "41181"
  },
  {
   "id": 3206260002,
   "districtId": 3206260,
-  "name": "GOMBONG"
+  "districtName": "CIAWI",
+  "name": "GOMBONG",
+  "postalCode": "46156"
  },
  {
   "id": 3206260004,
   "districtId": 3206260,
-  "name": "MARGASARI"
+  "districtName": "CIAWI",
+  "name": "MARGASARI",
+  "postalCode": "34198"
  },
  {
   "id": 3206260005,
   "districtId": 3206260,
-  "name": "PAKEMITANKIDUL"
+  "districtName": "CIAWI",
+  "name": "PAKEMITANKIDUL",
+  "postalCode": "46156"
  },
  {
   "id": 3206260006,
   "districtId": 3206260,
-  "name": "CIAWI"
+  "districtName": "CIAWI",
+  "name": "CIAWI",
+  "postalCode": "16720"
  },
  {
   "id": 3206260007,
   "districtId": 3206260,
-  "name": "CITAMBA"
+  "districtName": "CIAWI",
+  "name": "CITAMBA",
+  "postalCode": "46156"
  },
  {
   "id": 3206260008,
   "districtId": 3206260,
-  "name": "KURNIABAKTI"
+  "districtName": "CIAWI",
+  "name": "KURNIABAKTI",
+  "postalCode": "46156"
  },
  {
   "id": 3206260009,
   "districtId": 3206260,
-  "name": "PAKEMITAN"
+  "districtName": "CIAWI",
+  "name": "PAKEMITAN",
+  "postalCode": "46156"
  },
  {
   "id": 3206260010,
   "districtId": 3206260,
-  "name": "SUKAMANTRI"
+  "districtName": "CIAWI",
+  "name": "SUKAMANTRI",
+  "postalCode": "46156"
  },
  {
   "id": 3206260011,
   "districtId": 3206260,
-  "name": "PASIRHUNI"
+  "districtName": "CIAWI",
+  "name": "PASIRHUNI",
+  "postalCode": "46156"
  }
 ]

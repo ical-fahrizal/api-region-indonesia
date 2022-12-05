@@ -2,76 +2,106 @@
  {
   "id": 3515050001,
   "districtId": 3515050,
-  "name": "PANGGREH"
+  "districtName": "JABON",
+  "name": "PANGGREH",
+  "postalCode": "61276"
  },
  {
   "id": 3515050002,
   "districtId": 3515050,
-  "name": "TROMPOASRI"
+  "districtName": "JABON",
+  "name": "TROMPOASRI",
+  "postalCode": "61276"
  },
  {
   "id": 3515050003,
   "districtId": 3515050,
-  "name": "KEDUNGREJO"
+  "districtName": "JABON",
+  "name": "KEDUNGREJO",
+  "postalCode": "57383"
  },
  {
   "id": 3515050004,
   "districtId": 3515050,
-  "name": "KEDUNGPANDAN"
+  "districtName": "JABON",
+  "name": "KEDUNGPANDAN",
+  "postalCode": "61276"
  },
  {
   "id": 3515050005,
   "districtId": 3515050,
-  "name": "SEMAMBUNG"
+  "districtName": "JABON",
+  "name": "SEMAMBUNG",
+  "postalCode": "61254"
  },
  {
   "id": 3515050006,
   "districtId": 3515050,
-  "name": "KUPANG"
+  "districtName": "JABON",
+  "name": "KUPANG",
+  "postalCode": "31461"
  },
  {
   "id": 3515050007,
   "districtId": 3515050,
-  "name": "TAMBAK KALISOGO"
+  "districtName": "JABON",
+  "name": "TAMBAK KALISOGO",
+  "postalCode": "61276"
  },
  {
   "id": 3515050008,
   "districtId": 3515050,
-  "name": "BALONGTANI"
+  "districtName": "JABON",
+  "name": "BALONGTANI",
+  "postalCode": "61276"
  },
  {
   "id": 3515050009,
   "districtId": 3515050,
-  "name": "JEMIRAHAN"
+  "districtName": "JABON",
+  "name": "JEMIRAHAN",
+  "postalCode": "61276"
  },
  {
   "id": 3515050010,
   "districtId": 3515050,
-  "name": "DUKUHSARI"
+  "districtName": "JABON",
+  "name": "DUKUHSARI",
+  "postalCode": "61276"
  },
  {
   "id": 3515050011,
   "districtId": 3515050,
-  "name": "KEDUNGCANGKRING"
+  "districtName": "JABON",
+  "name": "KEDUNGCANGKRING",
+  "postalCode": "61276"
  },
  {
   "id": 3515050012,
   "districtId": 3515050,
-  "name": "PEJARAKAN"
+  "districtName": "JABON",
+  "name": "PEJARAKAN",
+  "postalCode": "61276"
  },
  {
   "id": 3515050013,
   "districtId": 3515050,
-  "name": "BESUKI"
+  "districtName": "JABON",
+  "name": "BESUKI",
+  "postalCode": "53177"
  },
  {
   "id": 3515050014,
   "districtId": 3515050,
-  "name": "KEBOGUYANG"
+  "districtName": "JABON",
+  "name": "KEBOGUYANG",
+  "postalCode": "61276"
  },
  {
   "id": 3515050015,
   "districtId": 3515050,
-  "name": "PERMISAN"
+  "districtName": "JABON",
+  "name": "PERMISAN",
+  "postalCode": "61276"
  }
 ]

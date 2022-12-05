@@ -2,66 +2,92 @@
  {
   "id": 1805110001,
   "districtId": 1805110,
-  "name": "SUMBER BAHAGIA"
+  "districtName": "SEPUTIH BANYAK",
+  "name": "SUMBER BAHAGIA",
+  "postalCode": "34156"
  },
  {
   "id": 1805110002,
   "districtId": 1805110,
-  "name": "SETIA BUMI"
+  "districtName": "SEPUTIH BANYAK",
+  "name": "SETIA BUMI",
+  "postalCode": "34683"
  },
  {
   "id": 1805110003,
   "districtId": 1805110,
-  "name": "SISWA BANGUN"
+  "districtName": "SEPUTIH BANYAK",
+  "name": "SISWA BANGUN",
+  "postalCode": "34156"
  },
  {
   "id": 1805110004,
   "districtId": 1805110,
-  "name": "SANGGAR BUANA"
+  "districtName": "SEPUTIH BANYAK",
+  "name": "SANGGAR BUANA",
+  "postalCode": "34156"
  },
  {
   "id": 1805110005,
   "districtId": 1805110,
-  "name": "SAKTI BUANA"
+  "districtName": "SEPUTIH BANYAK",
+  "name": "SAKTI BUANA",
+  "postalCode": "34156"
  },
  {
   "id": 1805110006,
   "districtId": 1805110,
-  "name": "SETIA BAKTI"
+  "districtName": "SEPUTIH BANYAK",
+  "name": "SETIA BAKTI",
+  "postalCode": "34156"
  },
  {
   "id": 1805110007,
   "districtId": 1805110,
-  "name": "SUMBER BARU"
+  "districtName": "SEPUTIH BANYAK",
+  "name": "SUMBER BARU",
+  "postalCode": "30681"
  },
  {
   "id": 1805110008,
   "districtId": 1805110,
-  "name": "TANJUNG HARAPAN"
+  "districtName": "SEPUTIH BANYAK",
+  "name": "TANJUNG HARAPAN",
+  "postalCode": "23754"
  },
  {
   "id": 1805110009,
   "districtId": 1805110,
-  "name": "SARI BAKTI"
+  "districtName": "SEPUTIH BANYAK",
+  "name": "SARI BAKTI",
+  "postalCode": "34156"
  },
  {
   "id": 1805110011,
   "districtId": 1805110,
-  "name": "SRI BASUKI"
+  "districtName": "SEPUTIH BANYAK",
+  "name": "SRI BASUKI",
+  "postalCode": "34381"
  },
  {
   "id": 1805110013,
   "districtId": 1805110,
-  "name": "SWASTIKA BUANA"
+  "districtName": "SEPUTIH BANYAK",
+  "name": "SWASTIKA BUANA",
+  "postalCode": "34156"
  },
  {
   "id": 1805110014,
   "districtId": 1805110,
-  "name": "SUMBER FAJAR"
+  "districtName": "SEPUTIH BANYAK",
+  "name": "SUMBER FAJAR",
+  "postalCode": "34156"
  },
  {
   "id": 1805110015,
   "districtId": 1805110,
-  "name": "TANJUNG KERAJAN"
+  "districtName": "SEPUTIH BANYAK",
+  "name": "TANJUNG KERAJAN",
+  "postalCode": ""
  }
 ]

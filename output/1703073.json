@@ -2,51 +2,71 @@
  {
   "id": 1703073001,
   "districtId": 1703073,
-  "name": "TANJUNG AUR"
+  "districtName": "AIR PADANG",
+  "name": "TANJUNG AUR",
+  "postalCode": "37554"
  },
  {
   "id": 1703073002,
   "districtId": 1703073,
-  "name": "MESIGIT"
+  "districtName": "AIR PADANG",
+  "name": "MESIGIT",
+  "postalCode": "38653"
  },
  {
   "id": 1703073003,
   "districtId": 1703073,
-  "name": "RETES"
+  "districtName": "AIR PADANG",
+  "name": "RETES",
+  "postalCode": "38653"
  },
  {
   "id": 1703073004,
   "districtId": 1703073,
-  "name": "LUBUK MUMPO"
+  "districtName": "AIR PADANG",
+  "name": "LUBUK MUMPO",
+  "postalCode": "31352"
  },
  {
   "id": 1703073005,
   "districtId": 1703073,
-  "name": "TALANG ULU"
+  "districtName": "AIR PADANG",
+  "name": "TALANG ULU",
+  "postalCode": "38653"
  },
  {
   "id": 1703073006,
   "districtId": 1703073,
-  "name": "KEMBANG MANIS"
+  "districtName": "AIR PADANG",
+  "name": "KEMBANG MANIS",
+  "postalCode": "38653"
  },
  {
   "id": 1703073007,
   "districtId": 1703073,
-  "name": "SUKARAMI"
+  "districtName": "AIR PADANG",
+  "name": "SUKARAMI",
+  "postalCode": "32382"
  },
  {
   "id": 1703073008,
   "districtId": 1703073,
-  "name": "TELUK AJANG"
+  "districtName": "AIR PADANG",
+  "name": "TELUK AJANG",
+  "postalCode": "38653"
  },
  {
   "id": 1703073009,
   "districtId": 1703073,
-  "name": "DUSUN BALAM"
+  "districtName": "AIR PADANG",
+  "name": "DUSUN BALAM",
+  "postalCode": ""
  },
  {
   "id": 1703073010,
   "districtId": 1703073,
-  "name": "PADANG KALA"
+  "districtName": "AIR PADANG",
+  "name": "PADANG KALA",
+  "postalCode": "38653"
  }
 ]

@@ -2,71 +2,99 @@
  {
   "id": 3214040001,
   "districtId": 3214040,
-  "name": "RAWASARI"
+  "districtName": "PLERED",
+  "name": "RAWASARI",
+  "postalCode": "24185"
  },
  {
   "id": 3214040002,
   "districtId": 3214040,
-  "name": "GANDASOLI"
+  "districtName": "PLERED",
+  "name": "GANDASOLI",
+  "postalCode": "43365"
  },
  {
   "id": 3214040003,
   "districtId": 3214040,
-  "name": "GANDAMEKAR"
+  "districtName": "PLERED",
+  "name": "GANDAMEKAR",
+  "postalCode": "17530"
  },
  {
   "id": 3214040004,
   "districtId": 3214040,
-  "name": "CIBOGOHILIR"
+  "districtName": "PLERED",
+  "name": "CIBOGOHILIR",
+  "postalCode": "41162"
  },
  {
   "id": 3214040005,
   "districtId": 3214040,
-  "name": "PALINGGIHAN"
+  "districtName": "PLERED",
+  "name": "PALINGGIHAN",
+  "postalCode": "41162"
  },
  {
   "id": 3214040006,
   "districtId": 3214040,
-  "name": "BABAKAN SARI"
+  "districtName": "PLERED",
+  "name": "BABAKAN SARI",
+  "postalCode": "40283"
  },
  {
   "id": 3214040008,
   "districtId": 3214040,
-  "name": "SINDANGSARI"
+  "districtName": "PLERED",
+  "name": "SINDANGSARI",
+  "postalCode": "46383"
  },
  {
   "id": 3214040009,
   "districtId": 3214040,
-  "name": "CITEKO"
+  "districtName": "PLERED",
+  "name": "CITEKO",
+  "postalCode": "16750"
  },
  {
   "id": 3214040010,
   "districtId": 3214040,
-  "name": "CITEKOKALER"
+  "districtName": "PLERED",
+  "name": "CITEKOKALER",
+  "postalCode": ""
  },
  {
   "id": 3214040011,
   "districtId": 3214040,
-  "name": "LINGGARSARI"
+  "districtName": "PLERED",
+  "name": "LINGGARSARI",
+  "postalCode": "41162"
  },
  {
   "id": 3214040012,
   "districtId": 3214040,
-  "name": "PAMOYANAN"
+  "districtName": "PLERED",
+  "name": "PAMOYANAN",
+  "postalCode": "16136"
  },
  {
   "id": 3214040013,
   "districtId": 3214040,
-  "name": "LIUNGGUNUNG"
+  "districtName": "PLERED",
+  "name": "LIUNGGUNUNG",
+  "postalCode": "41162"
  },
  {
   "id": 3214040014,
   "districtId": 3214040,
-  "name": "ANJUN"
+  "districtName": "PLERED",
+  "name": "ANJUN",
+  "postalCode": "41162"
  },
  {
   "id": 3214040015,
   "districtId": 3214040,
-  "name": "CIBOGO GIRANG"
+  "districtName": "PLERED",
+  "name": "CIBOGO GIRANG",
+  "postalCode": ""
  }
 ]

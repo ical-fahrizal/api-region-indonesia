@@ -2,66 +2,92 @@
  {
   "id": 7322030006,
   "districtId": 7322030,
-  "name": "PATTIMANG"
+  "districtName": "MALANGKE",
+  "name": "PATTIMANG",
+  "postalCode": "92953"
  },
  {
   "id": 7322030007,
   "districtId": 7322030,
-  "name": "MALANGKE"
+  "districtName": "MALANGKE",
+  "name": "MALANGKE",
+  "postalCode": "92953"
  },
  {
   "id": 7322030008,
   "districtId": 7322030,
-  "name": "PINCE PUTE"
+  "districtName": "MALANGKE",
+  "name": "PINCE PUTE",
+  "postalCode": "92953"
  },
  {
   "id": 7322030009,
   "districtId": 7322030,
-  "name": "TOKKE"
+  "districtName": "MALANGKE",
+  "name": "TOKKE",
+  "postalCode": "92953"
  },
  {
   "id": 7322030011,
   "districtId": 7322030,
-  "name": "TAKKALALA"
+  "districtName": "MALANGKE",
+  "name": "TAKKALALA",
+  "postalCode": "92953"
  },
  {
   "id": 7322030012,
   "districtId": 7322030,
-  "name": "SALEKOE"
+  "districtName": "MALANGKE",
+  "name": "SALEKOE",
+  "postalCode": "92953"
  },
  {
   "id": 7322030013,
   "districtId": 7322030,
-  "name": "LADONGI"
+  "districtName": "MALANGKE",
+  "name": "LADONGI",
+  "postalCode": "92953"
  },
  {
   "id": 7322030014,
   "districtId": 7322030,
-  "name": "TOLADA"
+  "districtName": "MALANGKE",
+  "name": "TOLADA",
+  "postalCode": ""
  },
  {
   "id": 7322030015,
   "districtId": 7322030,
-  "name": "PETTA LANDUNG"
+  "districtName": "MALANGKE",
+  "name": "PETTA LANDUNG",
+  "postalCode": "92953"
  },
  {
   "id": 7322030016,
   "districtId": 7322030,
-  "name": "GIRIKUSUMA"
+  "districtName": "MALANGKE",
+  "name": "GIRIKUSUMA",
+  "postalCode": "92953"
  },
  {
   "id": 7322030025,
   "districtId": 7322030,
-  "name": "TANDUNG"
+  "districtName": "MALANGKE",
+  "name": "TANDUNG",
+  "postalCode": "92953"
  },
  {
   "id": 7322030026,
   "districtId": 7322030,
-  "name": "PUTE MATA"
+  "districtName": "MALANGKE",
+  "name": "PUTE MATA",
+  "postalCode": "92953"
  },
  {
   "id": 7322030027,
   "districtId": 7322030,
-  "name": "TINGKARA"
+  "districtName": "MALANGKE",
+  "name": "TINGKARA",
+  "postalCode": ""
  }
 ]

@@ -2,51 +2,71 @@
  {
   "id": 3602091001,
   "districtId": 3602091,
-  "name": "PARAKANLIMA"
+  "districtName": "CIRINTEN",
+  "name": "PARAKANLIMA",
+  "postalCode": "43157"
  },
  {
   "id": 3602091002,
   "districtId": 3602091,
-  "name": "KADUDAMAS"
+  "districtName": "CIRINTEN",
+  "name": "KADUDAMAS",
+  "postalCode": "42363"
  },
  {
   "id": 3602091003,
   "districtId": 3602091,
-  "name": "DATARCAE"
+  "districtName": "CIRINTEN",
+  "name": "DATARCAE",
+  "postalCode": "42363"
  },
  {
   "id": 3602091004,
   "districtId": 3602091,
-  "name": "KAROYA"
+  "districtName": "CIRINTEN",
+  "name": "KAROYA",
+  "postalCode": "45592"
  },
  {
   "id": 3602091005,
   "districtId": 3602091,
-  "name": "NANGERANG"
+  "districtName": "CIRINTEN",
+  "name": "NANGERANG",
+  "postalCode": "43171"
  },
  {
   "id": 3602091006,
   "districtId": 3602091,
-  "name": "CIRINTEN"
+  "districtName": "CIRINTEN",
+  "name": "CIRINTEN",
+  "postalCode": "42363"
  },
  {
   "id": 3602091007,
   "districtId": 3602091,
-  "name": "KARANGNUNGGAL"
+  "districtName": "CIRINTEN",
+  "name": "KARANGNUNGGAL",
+  "postalCode": "43262"
  },
  {
   "id": 3602091008,
   "districtId": 3602091,
-  "name": "CEMPAKA"
+  "districtName": "CIRINTEN",
+  "name": "CEMPAKA",
+  "postalCode": "37152"
  },
  {
   "id": 3602091009,
   "districtId": 3602091,
-  "name": "BADUR"
+  "districtName": "CIRINTEN",
+  "name": "BADUR",
+  "postalCode": "69453"
  },
  {
   "id": 3602091010,
   "districtId": 3602091,
-  "name": "CIBARANI"
+  "districtName": "CIRINTEN",
+  "name": "CIBARANI",
+  "postalCode": "42363"
  }
 ]

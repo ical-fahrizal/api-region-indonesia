@@ -2,26 +2,36 @@
  {
   "id": 2103040008,
   "districtId": 2103040,
-  "name": "SEDANAU"
+  "districtName": "BUNGURAN BARAT",
+  "name": "SEDANAU",
+  "postalCode": "29782"
  },
  {
   "id": 2103040014,
   "districtId": 2103040,
-  "name": "MEKAR JAYA"
+  "districtName": "BUNGURAN BARAT",
+  "name": "MEKAR JAYA",
+  "postalCode": "20771"
  },
  {
   "id": 2103040015,
   "districtId": 2103040,
-  "name": "BINJAI"
+  "districtName": "BUNGURAN BARAT",
+  "name": "BINJAI",
+  "postalCode": "24473"
  },
  {
   "id": 2103040016,
   "districtId": 2103040,
-  "name": "PIAN TENGAH"
+  "districtName": "BUNGURAN BARAT",
+  "name": "PIAN TENGAH",
+  "postalCode": "29782"
  },
  {
   "id": 2103040018,
   "districtId": 2103040,
-  "name": "SELAUT"
+  "districtName": "BUNGURAN BARAT",
+  "name": "SELAUT",
+  "postalCode": "29782"
  }
 ]

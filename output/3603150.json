@@ -2,41 +2,57 @@
  {
   "id": 3603150003,
   "districtId": 3603150,
-  "name": "BAKUNG"
+  "districtName": "KRONJO",
+  "name": "BAKUNG",
+  "postalCode": "36382"
  },
  {
   "id": 3603150004,
   "districtId": 3603150,
-  "name": "PASIR"
+  "districtName": "KRONJO",
+  "name": "PASIR",
+  "postalCode": "24656"
  },
  {
   "id": 3603150005,
   "districtId": 3603150,
-  "name": "CIRUMPAK"
+  "districtName": "KRONJO",
+  "name": "CIRUMPAK",
+  "postalCode": "15550"
  },
  {
   "id": 3603150006,
   "districtId": 3603150,
-  "name": "PAGEDANGAN UDIK"
+  "districtName": "KRONJO",
+  "name": "PAGEDANGAN UDIK",
+  "postalCode": "15550"
  },
  {
   "id": 3603150007,
   "districtId": 3603150,
-  "name": "PASILIAN"
+  "districtName": "KRONJO",
+  "name": "PASILIAN",
+  "postalCode": "15550"
  },
  {
   "id": 3603150008,
   "districtId": 3603150,
-  "name": "PAGENJAHAN"
+  "districtName": "KRONJO",
+  "name": "PAGENJAHAN",
+  "postalCode": "15550"
  },
  {
   "id": 3603150017,
   "districtId": 3603150,
-  "name": "KRONJO"
+  "districtName": "KRONJO",
+  "name": "KRONJO",
+  "postalCode": "15550"
  },
  {
   "id": 3603150018,
   "districtId": 3603150,
-  "name": "PAGEDANGAN ILIR"
+  "districtName": "KRONJO",
+  "name": "PAGEDANGAN ILIR",
+  "postalCode": "15550"
  }
 ]

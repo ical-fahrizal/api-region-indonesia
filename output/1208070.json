@@ -2,61 +2,85 @@
  {
   "id": 1208070001,
   "districtId": 1208070,
-  "name": "PERKEBUNAN PULAHAN"
+  "districtName": "AIR BATU",
+  "name": "PERKEBUNAN PULAHAN",
+  "postalCode": "21272"
  },
  {
   "id": 1208070002,
   "districtId": 1208070,
-  "name": "PERKEBUNAN AIR BATU III/IX"
+  "districtName": "AIR BATU",
+  "name": "PERKEBUNAN AIR BATU III/IX",
+  "postalCode": ""
  },
  {
   "id": 1208070003,
   "districtId": 1208070,
-  "name": "SUNGAI ALIM ULU"
+  "districtName": "AIR BATU",
+  "name": "SUNGAI ALIM ULU",
+  "postalCode": ""
  },
  {
   "id": 1208070004,
   "districtId": 1208070,
-  "name": "AIR TELUK HESSA"
+  "districtName": "AIR BATU",
+  "name": "AIR TELUK HESSA",
+  "postalCode": "21272"
  },
  {
   "id": 1208070005,
   "districtId": 1208070,
-  "name": "PERKEBUNAN AIR BATU I/II"
+  "districtName": "AIR BATU",
+  "name": "PERKEBUNAN AIR BATU I/II",
+  "postalCode": ""
  },
  {
   "id": 1208070006,
   "districtId": 1208070,
-  "name": "PINANGGIRIPAN"
+  "districtName": "AIR BATU",
+  "name": "PINANGGIRIPAN",
+  "postalCode": "21272"
  },
  {
   "id": 1208070007,
   "districtId": 1208070,
-  "name": "DANAU SIJABUT"
+  "districtName": "AIR BATU",
+  "name": "DANAU SIJABUT",
+  "postalCode": "21272"
  },
  {
   "id": 1208070008,
   "districtId": 1208070,
-  "name": "HESSA PERLOMPONGAN"
+  "districtName": "AIR BATU",
+  "name": "HESSA PERLOMPONGAN",
+  "postalCode": "21272"
  },
  {
   "id": 1208070009,
   "districtId": 1208070,
-  "name": "AIR GENTING"
+  "districtName": "AIR BATU",
+  "name": "AIR GENTING",
+  "postalCode": "21272"
  },
  {
   "id": 1208070010,
   "districtId": 1208070,
-  "name": "HESSA AIR GENTING"
+  "districtName": "AIR BATU",
+  "name": "HESSA AIR GENTING",
+  "postalCode": "21272"
  },
  {
   "id": 1208070011,
   "districtId": 1208070,
-  "name": "SIJABUT TERATAI"
+  "districtName": "AIR BATU",
+  "name": "SIJABUT TERATAI",
+  "postalCode": "21272"
  },
  {
   "id": 1208070012,
   "districtId": 1208070,
-  "name": "PULAU PALE"
+  "districtName": "AIR BATU",
+  "name": "PULAU PALE",
+  "postalCode": ""
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 7373030001,
   "districtId": 7373030,
-  "name": "SABBAMPARU"
+  "districtName": "WARA UTARA",
+  "name": "SABBAMPARU",
+  "postalCode": ""
  },
  {
   "id": 7373030002,
   "districtId": 7373030,
-  "name": "BATUPASI"
+  "districtName": "WARA UTARA",
+  "name": "BATUPASI",
+  "postalCode": "91911"
  },
  {
   "id": 7373030004,
   "districtId": 7373030,
-  "name": "SALOBULO"
+  "districtName": "WARA UTARA",
+  "name": "SALOBULO",
+  "postalCode": "90982"
  },
  {
   "id": 7373030005,
   "districtId": 7373030,
-  "name": "PENGGOLI"
+  "districtName": "WARA UTARA",
+  "name": "PENGGOLI",
+  "postalCode": "91914"
  },
  {
   "id": 7373030006,
   "districtId": 7373030,
-  "name": "LUMINDA"
+  "districtName": "WARA UTARA",
+  "name": "LUMINDA",
+  "postalCode": "91912"
  },
  {
   "id": 7373030007,
   "districtId": 7373030,
-  "name": "PATTENE"
+  "districtName": "WARA UTARA",
+  "name": "PATTENE",
+  "postalCode": ""
  }
 ]

@@ -2,76 +2,106 @@
  {
   "id": 9435020001,
   "districtId": 9435020,
-  "name": "EMONDI"
+  "districtName": "SUGAPA",
+  "name": "EMONDI",
+  "postalCode": ""
  },
  {
   "id": 9435020002,
   "districtId": 9435020,
-  "name": "MINDAU"
+  "districtName": "SUGAPA",
+  "name": "MINDAU",
+  "postalCode": "98768"
  },
  {
   "id": 9435020003,
   "districtId": 9435020,
-  "name": "UGIMBA"
+  "districtName": "SUGAPA",
+  "name": "UGIMBA",
+  "postalCode": "98768"
  },
  {
   "id": 9435020004,
   "districtId": 9435020,
-  "name": "YOPARU"
+  "districtName": "SUGAPA",
+  "name": "YOPARU",
+  "postalCode": "98768"
  },
  {
   "id": 9435020005,
   "districtId": 9435020,
-  "name": "MAMBA"
+  "districtName": "SUGAPA",
+  "name": "MAMBA",
+  "postalCode": "98768"
  },
  {
   "id": 9435020006,
   "districtId": 9435020,
-  "name": "YOKATAPA"
+  "districtName": "SUGAPA",
+  "name": "YOKATAPA",
+  "postalCode": ""
  },
  {
   "id": 9435020007,
   "districtId": 9435020,
-  "name": "BILOGAI"
+  "districtName": "SUGAPA",
+  "name": "BILOGAI",
+  "postalCode": "98768"
  },
  {
   "id": 9435020008,
   "districtId": 9435020,
-  "name": "PUYAGIYA"
+  "districtName": "SUGAPA",
+  "name": "PUYAGIYA",
+  "postalCode": "98768"
  },
  {
   "id": 9435020009,
   "districtId": 9435020,
-  "name": "YALAI"
+  "districtName": "SUGAPA",
+  "name": "YALAI",
+  "postalCode": ""
  },
  {
   "id": 9435020010,
   "districtId": 9435020,
-  "name": "DEGEYABU/BUWISIGA"
+  "districtName": "SUGAPA",
+  "name": "DEGEYABU/BUWISIGA",
+  "postalCode": ""
  },
  {
   "id": 9435020011,
   "districtId": 9435020,
-  "name": "MBILUSIGA"
+  "districtName": "SUGAPA",
+  "name": "MBILUSIGA",
+  "postalCode": "98768"
  },
  {
   "id": 9435020012,
   "districtId": 9435020,
-  "name": "WANDOGA"
+  "districtName": "SUGAPA",
+  "name": "WANDOGA",
+  "postalCode": "98768"
  },
  {
   "id": 9435020013,
   "districtId": 9435020,
-  "name": "KUMLAGUPA"
+  "districtName": "SUGAPA",
+  "name": "KUMLAGUPA",
+  "postalCode": "98768"
  },
  {
   "id": 9435020014,
   "districtId": 9435020,
-  "name": "EKNEMBA / ELENEMBA"
+  "districtName": "SUGAPA",
+  "name": "EKNEMBA / ELENEMBA",
+  "postalCode": "98768"
  },
  {
   "id": 9435020016,
   "districtId": 9435020,
-  "name": "NDUGUSIGA"
+  "districtName": "SUGAPA",
+  "name": "NDUGUSIGA",
+  "postalCode": "98769"
  }
 ]

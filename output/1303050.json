@@ -2,21 +2,29 @@
  {
   "id": 1303050001,
   "districtId": 1303050,
-  "name": "ALAHAN PANJANG"
+  "districtName": "LEMBAH GUMANTI",
+  "name": "ALAHAN PANJANG",
+  "postalCode": "27371"
  },
  {
   "id": 1303050002,
   "districtId": 1303050,
-  "name": "SUNGAI NANAM"
+  "districtName": "LEMBAH GUMANTI",
+  "name": "SUNGAI NANAM",
+  "postalCode": "27371"
  },
  {
   "id": 1303050003,
   "districtId": 1303050,
-  "name": "SALIMPEK"
+  "districtName": "LEMBAH GUMANTI",
+  "name": "SALIMPEK",
+  "postalCode": ""
  },
  {
   "id": 1303050004,
   "districtId": 1303050,
-  "name": "AIE DINGIN"
+  "districtName": "LEMBAH GUMANTI",
+  "name": "AIE DINGIN",
+  "postalCode": ""
  }
 ]

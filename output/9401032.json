@@ -2,26 +2,36 @@
  {
   "id": 9401032001,
   "districtId": 9401032,
-  "name": "SENEGI"
+  "districtName": "ANIMHA",
+  "name": "SENEGI",
+  "postalCode": "99656"
  },
  {
   "id": 9401032002,
   "districtId": 9401032,
-  "name": "BAAD"
+  "districtName": "ANIMHA",
+  "name": "BAAD",
+  "postalCode": "99656"
  },
  {
   "id": 9401032003,
   "districtId": 9401032,
-  "name": "WAJAU / WAYAO"
+  "districtName": "ANIMHA",
+  "name": "WAJAU / WAYAO",
+  "postalCode": ""
  },
  {
   "id": 9401032004,
   "districtId": 9401032,
-  "name": "KOA"
+  "districtName": "ANIMHA",
+  "name": "KOA",
+  "postalCode": "85561"
  },
  {
   "id": 9401032005,
   "districtId": 9401032,
-  "name": "KAISAH"
+  "districtName": "ANIMHA",
+  "name": "KAISAH",
+  "postalCode": "99656"
  }
 ]

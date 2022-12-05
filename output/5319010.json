@@ -2,91 +2,127 @@
  {
   "id": 5319010003,
   "districtId": 5319010,
-  "name": "NANGA LABANG"
+  "districtName": "BORONG",
+  "name": "NANGA LABANG",
+  "postalCode": "86571"
  },
  {
   "id": 5319010004,
   "districtId": 5319010,
-  "name": "GOLO KANTAR"
+  "districtName": "BORONG",
+  "name": "GOLO KANTAR",
+  "postalCode": "86571"
  },
  {
   "id": 5319010005,
   "districtId": 5319010,
-  "name": "RANA LOBA"
+  "districtName": "BORONG",
+  "name": "RANA LOBA",
+  "postalCode": "86571"
  },
  {
   "id": 5319010006,
   "districtId": 5319010,
-  "name": "KOTA NDORA"
+  "districtName": "BORONG",
+  "name": "KOTA NDORA",
+  "postalCode": "86571"
  },
  {
   "id": 5319010007,
   "districtId": 5319010,
-  "name": "RANA MASAK"
+  "districtName": "BORONG",
+  "name": "RANA MASAK",
+  "postalCode": "86571"
  },
  {
   "id": 5319010008,
   "districtId": 5319010,
-  "name": "NGAMPANG MAS"
+  "districtName": "BORONG",
+  "name": "NGAMPANG MAS",
+  "postalCode": "86571"
  },
  {
   "id": 5319010009,
   "districtId": 5319010,
-  "name": "BENTENG RAJA"
+  "districtName": "BORONG",
+  "name": "BENTENG RAJA",
+  "postalCode": "86571"
  },
  {
   "id": 5319010010,
   "districtId": 5319010,
-  "name": "BENTENG RIWU"
+  "districtName": "BORONG",
+  "name": "BENTENG RIWU",
+  "postalCode": "86571"
  },
  {
   "id": 5319010011,
   "districtId": 5319010,
-  "name": "POCO RII"
+  "districtName": "BORONG",
+  "name": "POCO RII",
+  "postalCode": "86571"
  },
  {
   "id": 5319010012,
   "districtId": 5319010,
-  "name": "GOLO LALONG"
+  "districtName": "BORONG",
+  "name": "GOLO LALONG",
+  "postalCode": "86571"
  },
  {
   "id": 5319010013,
   "districtId": 5319010,
-  "name": "GURUNG LIWUT"
+  "districtName": "BORONG",
+  "name": "GURUNG LIWUT",
+  "postalCode": "86571"
  },
  {
   "id": 5319010025,
   "districtId": 5319010,
-  "name": "COMPANG NDEJING"
+  "districtName": "BORONG",
+  "name": "COMPANG NDEJING",
+  "postalCode": ""
  },
  {
   "id": 5319010026,
   "districtId": 5319010,
-  "name": "BANGKA KANTAR"
+  "districtName": "BORONG",
+  "name": "BANGKA KANTAR",
+  "postalCode": ""
  },
  {
   "id": 5319010027,
   "districtId": 5319010,
-  "name": "SATAR PEOT"
+  "districtName": "BORONG",
+  "name": "SATAR PEOT",
+  "postalCode": ""
  },
  {
   "id": 5319010028,
   "districtId": 5319010,
-  "name": "BALUS PERMAI"
+  "districtName": "BORONG",
+  "name": "BALUS PERMAI",
+  "postalCode": ""
  },
  {
   "id": 5319010029,
   "districtId": 5319010,
-  "name": "COMPANG TENDA"
+  "districtName": "BORONG",
+  "name": "COMPANG TENDA",
+  "postalCode": ""
  },
  {
   "id": 5319010030,
   "districtId": 5319010,
-  "name": "WALING"
+  "districtName": "BORONG",
+  "name": "WALING",
+  "postalCode": "71572"
  },
  {
   "id": 5319010031,
   "districtId": 5319010,
-  "name": "GOLO LEDA"
+  "districtName": "BORONG",
+  "name": "GOLO LEDA",
+  "postalCode": ""
  }
 ]

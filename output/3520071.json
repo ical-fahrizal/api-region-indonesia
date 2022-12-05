@@ -2,51 +2,71 @@
  {
   "id": 3520071001,
   "districtId": 3520071,
-  "name": "GETASANYAR"
+  "districtName": "SIDOREJO",
+  "name": "GETASANYAR",
+  "postalCode": "63361"
  },
  {
   "id": 3520071002,
   "districtId": 3520071,
-  "name": "SIDOREJO"
+  "districtName": "SIDOREJO",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 3520071003,
   "districtId": 3520071,
-  "name": "DURENAN"
+  "districtName": "SIDOREJO",
+  "name": "DURENAN",
+  "postalCode": "66381"
  },
  {
   "id": 3520071004,
   "districtId": 3520071,
-  "name": "SAMBIROBYONG"
+  "districtName": "SIDOREJO",
+  "name": "SAMBIROBYONG",
+  "postalCode": "64183"
  },
  {
   "id": 3520071005,
   "districtId": 3520071,
-  "name": "CAMPURSARI"
+  "districtName": "SIDOREJO",
+  "name": "CAMPURSARI",
+  "postalCode": "56253"
  },
  {
   "id": 3520071006,
   "districtId": 3520071,
-  "name": "KALANG"
+  "districtName": "SIDOREJO",
+  "name": "KALANG",
+  "postalCode": "22213"
  },
  {
   "id": 3520071007,
   "districtId": 3520071,
-  "name": "WIDOROKANDANG"
+  "districtName": "SIDOREJO",
+  "name": "WIDOROKANDANG",
+  "postalCode": "59119"
  },
  {
   "id": 3520071008,
   "districtId": 3520071,
-  "name": "SIDOKERTO"
+  "districtName": "SIDOREJO",
+  "name": "SIDOKERTO",
+  "postalCode": "34161"
  },
  {
   "id": 3520071009,
   "districtId": 3520071,
-  "name": "SUMBERSAWIT"
+  "districtName": "SIDOREJO",
+  "name": "SUMBERSAWIT",
+  "postalCode": "63352"
  },
  {
   "id": 3520071010,
   "districtId": 3520071,
-  "name": "SIDOMULYO"
+  "districtName": "SIDOREJO",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  }
 ]

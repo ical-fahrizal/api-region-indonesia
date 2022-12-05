@@ -2,36 +2,50 @@
  {
   "id": 9101083004,
   "districtId": 9101083,
-  "name": "ONIM SARI"
+  "districtName": "BOMBERAY",
+  "name": "ONIM SARI",
+  "postalCode": ""
  },
  {
   "id": 9101083005,
   "districtId": 9101083,
-  "name": "MEKAR SARI"
+  "districtName": "BOMBERAY",
+  "name": "MEKAR SARI",
+  "postalCode": "21261"
  },
  {
   "id": 9101083006,
   "districtId": 9101083,
-  "name": "BOMBERAY V (UPT) / PINANG AGUNG"
+  "districtName": "BOMBERAY",
+  "name": "BOMBERAY V (UPT) / PINANG AGUNG",
+  "postalCode": ""
  },
  {
   "id": 9101083007,
   "districtId": 9101083,
-  "name": "BOMBERAY  VI (UPT) / BUMI MUROH INDAH"
+  "districtName": "BOMBERAY",
+  "name": "BOMBERAY  VI (UPT) / BUMI MUROH INDAH",
+  "postalCode": ""
  },
  {
   "id": 9101083011,
   "districtId": 9101083,
-  "name": "TESHA"
+  "districtName": "BOMBERAY",
+  "name": "TESHA",
+  "postalCode": "98662"
  },
  {
   "id": 9101083012,
   "districtId": 9101083,
-  "name": "ONIM JAYA"
+  "districtName": "BOMBERAY",
+  "name": "ONIM JAYA",
+  "postalCode": ""
  },
  {
   "id": 9101083013,
   "districtId": 9101083,
-  "name": "WONO REJO"
+  "districtName": "BOMBERAY",
+  "name": "WONO REJO",
+  "postalCode": "30756"
  }
 ]

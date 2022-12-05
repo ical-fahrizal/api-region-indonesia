@@ -2,56 +2,78 @@
  {
   "id": 7311141001,
   "districtId": 7311141,
-  "name": "TONDONG"
+  "districtName": "TELLU LIMPOE",
+  "name": "TONDONG",
+  "postalCode": "91671"
  },
  {
   "id": 7311141002,
   "districtId": 7311141,
-  "name": "BONTO MASUNGGU"
+  "districtName": "TELLU LIMPOE",
+  "name": "BONTO MASUNGGU",
+  "postalCode": "91671"
  },
  {
   "id": 7311141003,
   "districtId": 7311141,
-  "name": "SAMAENRE"
+  "districtName": "TELLU LIMPOE",
+  "name": "SAMAENRE",
+  "postalCode": "92763"
  },
  {
   "id": 7311141004,
   "districtId": 7311141,
-  "name": "TELLANGKERE"
+  "districtName": "TELLU LIMPOE",
+  "name": "TELLANGKERE",
+  "postalCode": "91671"
  },
  {
   "id": 7311141005,
   "districtId": 7311141,
-  "name": "POLEWALI"
+  "districtName": "TELLU LIMPOE",
+  "name": "POLEWALI",
+  "postalCode": "94974"
  },
  {
   "id": 7311141006,
   "districtId": 7311141,
-  "name": "LAGORI"
+  "districtName": "TELLU LIMPOE",
+  "name": "LAGORI",
+  "postalCode": "91671"
  },
  {
   "id": 7311141007,
   "districtId": 7311141,
-  "name": "GAYA BARU"
+  "districtName": "TELLU LIMPOE",
+  "name": "GAYA BARU",
+  "postalCode": "91671"
  },
  {
   "id": 7311141008,
   "districtId": 7311141,
-  "name": "BATU PUTIH"
+  "districtName": "TELLU LIMPOE",
+  "name": "BATU PUTIH",
+  "postalCode": "37482"
  },
  {
   "id": 7311141009,
   "districtId": 7311141,
-  "name": "TAPONG"
+  "districtName": "TELLU LIMPOE",
+  "name": "TAPONG",
+  "postalCode": "91761"
  },
  {
   "id": 7311141010,
   "districtId": 7311141,
-  "name": "SADAR"
+  "districtName": "TELLU LIMPOE",
+  "name": "SADAR",
+  "postalCode": "91966"
  },
  {
   "id": 7311141011,
   "districtId": 7311141,
-  "name": "PALLAWA"
+  "districtName": "TELLU LIMPOE",
+  "name": "PALLAWA",
+  "postalCode": "91671"
  }
 ]

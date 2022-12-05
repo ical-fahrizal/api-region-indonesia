@@ -2,26 +2,36 @@
  {
   "id": 3205031001,
   "districtId": 3205031,
-  "name": "KARANGWANGI"
+  "districtName": "MEKARMUKTI",
+  "name": "KARANGWANGI",
+  "postalCode": "41253"
  },
  {
   "id": 3205031002,
   "districtId": 3205031,
-  "name": "CIJAYANA"
+  "districtName": "MEKARMUKTI",
+  "name": "CIJAYANA",
+  "postalCode": "44165"
  },
  {
   "id": 3205031003,
   "districtId": 3205031,
-  "name": "MEKARMUKTI"
+  "districtName": "MEKARMUKTI",
+  "name": "MEKARMUKTI",
+  "postalCode": "45392"
  },
  {
   "id": 3205031004,
   "districtId": 3205031,
-  "name": "JAGABAYA"
+  "districtName": "MEKARMUKTI",
+  "name": "JAGABAYA",
+  "postalCode": "31452"
  },
  {
   "id": 3205031005,
   "districtId": 3205031,
-  "name": "MEKARSARI"
+  "districtName": "MEKARMUKTI",
+  "name": "MEKARSARI",
+  "postalCode": "37482"
  }
 ]

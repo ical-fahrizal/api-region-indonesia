@@ -2,91 +2,127 @@
  {
   "id": 8204090006,
   "districtId": 8204090,
-  "name": "WOSI"
+  "districtName": "GANE TIMUR",
+  "name": "WOSI",
+  "postalCode": "97783"
  },
  {
   "id": 8204090007,
   "districtId": 8204090,
-  "name": "SAKETA"
+  "districtName": "GANE TIMUR",
+  "name": "SAKETA",
+  "postalCode": "97782"
  },
  {
   "id": 8204090008,
   "districtId": 8204090,
-  "name": "AKELAMO"
+  "districtName": "GANE TIMUR",
+  "name": "AKELAMO",
+  "postalCode": "97852"
  },
  {
   "id": 8204090009,
   "districtId": 8204090,
-  "name": "BUKIT INDAH"
+  "districtName": "GANE TIMUR",
+  "name": "BUKIT INDAH",
+  "postalCode": "29352"
  },
  {
   "id": 8204090010,
   "districtId": 8204090,
-  "name": "RAWA JAYA"
+  "districtName": "GANE TIMUR",
+  "name": "RAWA JAYA",
+  "postalCode": "37354"
  },
  {
   "id": 8204090011,
   "districtId": 8204090,
-  "name": "SUKA MAJU"
+  "districtName": "GANE TIMUR",
+  "name": "SUKA MAJU",
+  "postalCode": "24673"
  },
  {
   "id": 8204090012,
   "districtId": 8204090,
-  "name": "BUKIT RAYA"
+  "districtName": "GANE TIMUR",
+  "name": "BUKIT RAYA",
+  "postalCode": "29563"
  },
  {
   "id": 8204090013,
   "districtId": 8204090,
-  "name": "SUMBER MAKMUR"
+  "districtName": "GANE TIMUR",
+  "name": "SUMBER MAKMUR",
+  "postalCode": "23662"
  },
  {
   "id": 8204090014,
   "districtId": 8204090,
-  "name": "LALUBI"
+  "districtName": "GANE TIMUR",
+  "name": "LALUBI",
+  "postalCode": "97783"
  },
  {
   "id": 8204090015,
   "districtId": 8204090,
-  "name": "MAFFA"
+  "districtName": "GANE TIMUR",
+  "name": "MAFFA",
+  "postalCode": "97783"
  },
  {
   "id": 8204090016,
   "districtId": 8204090,
-  "name": "FOYA"
+  "districtName": "GANE TIMUR",
+  "name": "FOYA",
+  "postalCode": "97783"
  },
  {
   "id": 8204090017,
   "districtId": 8204090,
-  "name": "TOBARU"
+  "districtName": "GANE TIMUR",
+  "name": "TOBARU",
+  "postalCode": "91921"
  },
  {
   "id": 8204090018,
   "districtId": 8204090,
-  "name": "FOYA TOBARU"
+  "districtName": "GANE TIMUR",
+  "name": "FOYA TOBARU",
+  "postalCode": "97783"
  },
  {
   "id": 8204090019,
   "districtId": 8204090,
-  "name": "WAIMILI"
+  "districtName": "GANE TIMUR",
+  "name": "WAIMILI",
+  "postalCode": ""
  },
  {
   "id": 8204090020,
   "districtId": 8204090,
-  "name": "TANJUNG JERE"
+  "districtName": "GANE TIMUR",
+  "name": "TANJUNG JERE",
+  "postalCode": "97783"
  },
  {
   "id": 8204090021,
   "districtId": 8204090,
-  "name": "KEBUN RAJA"
+  "districtName": "GANE TIMUR",
+  "name": "KEBUN RAJA",
+  "postalCode": "97783"
  },
  {
   "id": 8204090022,
   "districtId": 8204090,
-  "name": "KOTA LOOW"
+  "districtName": "GANE TIMUR",
+  "name": "KOTA LOOW",
+  "postalCode": ""
  },
  {
   "id": 8204090024,
   "districtId": 8204090,
-  "name": "CINTA DAMAI"
+  "districtName": "GANE TIMUR",
+  "name": "CINTA DAMAI",
+  "postalCode": "24673"
  }
 ]

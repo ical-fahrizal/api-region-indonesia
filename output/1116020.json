@@ -2,101 +2,141 @@
  {
   "id": 1116020001,
   "districtId": 1116020,
-  "name": "KEUDE PANGA"
+  "districtName": "PANGA",
+  "name": "KEUDE PANGA",
+  "postalCode": "23653"
  },
  {
   "id": 1116020002,
   "districtId": 1116020,
-  "name": "TUWI KAREUNG PANGA"
+  "districtName": "PANGA",
+  "name": "TUWI KAREUNG PANGA",
+  "postalCode": "23653"
  },
  {
   "id": 1116020003,
   "districtId": 1116020,
-  "name": "KUTA TUHA"
+  "districtName": "PANGA",
+  "name": "KUTA TUHA",
+  "postalCode": "23764"
  },
  {
   "id": 1116020004,
   "districtId": 1116020,
-  "name": "LADANG BARO"
+  "districtName": "PANGA",
+  "name": "LADANG BARO",
+  "postalCode": "23662"
  },
  {
   "id": 1116020005,
   "districtId": 1116020,
-  "name": "BABAH CEUPAN"
+  "districtName": "PANGA",
+  "name": "BABAH CEUPAN",
+  "postalCode": "23653"
  },
  {
   "id": 1116020006,
   "districtId": 1116020,
-  "name": "GAMPONG HARAPAN"
+  "districtName": "PANGA",
+  "name": "GAMPONG HARAPAN",
+  "postalCode": "23653"
  },
  {
   "id": 1116020007,
   "districtId": 1116020,
-  "name": "TUWI KAYEE"
+  "districtName": "PANGA",
+  "name": "TUWI KAYEE",
+  "postalCode": "23653"
  },
  {
   "id": 1116020008,
   "districtId": 1116020,
-  "name": "PANTON KABU"
+  "districtName": "PANGA",
+  "name": "PANTON KABU",
+  "postalCode": "23653"
  },
  {
   "id": 1116020009,
   "districtId": 1116020,
-  "name": "ALUE TEUNGOH"
+  "districtName": "PANGA",
+  "name": "ALUE TEUNGOH",
+  "postalCode": "23653"
  },
  {
   "id": 1116020010,
   "districtId": 1116020,
-  "name": "PANTON KRUENG"
+  "districtName": "PANGA",
+  "name": "PANTON KRUENG",
+  "postalCode": "23656"
  },
  {
   "id": 1116020011,
   "districtId": 1116020,
-  "name": "ALUE PANDE"
+  "districtName": "PANGA",
+  "name": "ALUE PANDE",
+  "postalCode": "23653"
  },
  {
   "id": 1116020012,
   "districtId": 1116020,
-  "name": "BATEE MEUTUDONG"
+  "districtName": "PANGA",
+  "name": "BATEE MEUTUDONG",
+  "postalCode": "23653"
  },
  {
   "id": 1116020013,
   "districtId": 1116020,
-  "name": "GLEPUTOH"
+  "districtName": "PANGA",
+  "name": "GLEPUTOH",
+  "postalCode": "23653"
  },
  {
   "id": 1116020014,
   "districtId": 1116020,
-  "name": "ALUE RAYA"
+  "districtName": "PANGA",
+  "name": "ALUE RAYA",
+  "postalCode": "23662"
  },
  {
   "id": 1116020015,
   "districtId": 1116020,
-  "name": "ALUE ABET"
+  "districtName": "PANGA",
+  "name": "ALUE ABET",
+  "postalCode": "23653"
  },
  {
   "id": 1116020016,
   "districtId": 1116020,
-  "name": "GUNONG MANTOK"
+  "districtName": "PANGA",
+  "name": "GUNONG MANTOK",
+  "postalCode": "23653"
  },
  {
   "id": 1116020017,
   "districtId": 1116020,
-  "name": "TUWI EMPEUK"
+  "districtName": "PANGA",
+  "name": "TUWI EMPEUK",
+  "postalCode": "23653"
  },
  {
   "id": 1116020018,
   "districtId": 1116020,
-  "name": "GUNONG MEULINTEUNG"
+  "districtName": "PANGA",
+  "name": "GUNONG MEULINTEUNG",
+  "postalCode": "23653"
  },
  {
   "id": 1116020019,
   "districtId": 1116020,
-  "name": "GUNONG BULOH"
+  "districtName": "PANGA",
+  "name": "GUNONG BULOH",
+  "postalCode": "23653"
  },
  {
   "id": 1116020020,
   "districtId": 1116020,
-  "name": "ALUE PIET"
+  "districtName": "PANGA",
+  "name": "ALUE PIET",
+  "postalCode": ""
  }
 ]

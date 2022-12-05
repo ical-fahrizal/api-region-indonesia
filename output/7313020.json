@@ -2,76 +2,106 @@
  {
   "id": 7313020001,
   "districtId": 7313020,
-  "name": "WIRINGPALENNAE"
+  "districtName": "TEMPE",
+  "name": "WIRINGPALENNAE",
+  "postalCode": "90918"
  },
  {
   "id": 7313020002,
   "districtId": 7313020,
-  "name": "SITAMPAE"
+  "districtName": "TEMPE",
+  "name": "SITAMPAE",
+  "postalCode": "90916"
  },
  {
   "id": 7313020003,
   "districtId": 7313020,
-  "name": "ATAKKAE"
+  "districtName": "TEMPE",
+  "name": "ATAKKAE",
+  "postalCode": "90915"
  },
  {
   "id": 7313020004,
   "districtId": 7313020,
-  "name": "MADDUKKELLENG"
+  "districtName": "TEMPE",
+  "name": "MADDUKKELLENG",
+  "postalCode": "90911"
  },
  {
   "id": 7313020005,
   "districtId": 7313020,
-  "name": "SIENGKANG"
+  "districtName": "TEMPE",
+  "name": "SIENGKANG",
+  "postalCode": "90914"
  },
  {
   "id": 7313020006,
   "districtId": 7313020,
-  "name": "PADDUPPA"
+  "districtName": "TEMPE",
+  "name": "PADDUPPA",
+  "postalCode": "90914"
  },
  {
   "id": 7313020007,
   "districtId": 7313020,
-  "name": "PATTIROSOMPE"
+  "districtName": "TEMPE",
+  "name": "PATTIROSOMPE",
+  "postalCode": "90913"
  },
  {
   "id": 7313020008,
   "districtId": 7313020,
-  "name": "CEMPALAGI"
+  "districtName": "TEMPE",
+  "name": "CEMPALAGI",
+  "postalCode": "90911"
  },
  {
   "id": 7313020009,
   "districtId": 7313020,
-  "name": "BULUPABBULU"
+  "districtName": "TEMPE",
+  "name": "BULUPABBULU",
+  "postalCode": "90911"
  },
  {
   "id": 7313020010,
   "districtId": 7313020,
-  "name": "LAPONGKODA"
+  "districtName": "TEMPE",
+  "name": "LAPONGKODA",
+  "postalCode": "90913"
  },
  {
   "id": 7313020011,
   "districtId": 7313020,
-  "name": "TEDDAOPU"
+  "districtName": "TEMPE",
+  "name": "TEDDAOPU",
+  "postalCode": "90912"
  },
  {
   "id": 7313020012,
   "districtId": 7313020,
-  "name": "SALOMENRALENG"
+  "districtName": "TEMPE",
+  "name": "SALOMENRALENG",
+  "postalCode": "90917"
  },
  {
   "id": 7313020013,
   "districtId": 7313020,
-  "name": "LAELO"
+  "districtName": "TEMPE",
+  "name": "LAELO",
+  "postalCode": "90917"
  },
  {
   "id": 7313020014,
   "districtId": 7313020,
-  "name": "WATALLIPUE"
+  "districtName": "TEMPE",
+  "name": "WATALLIPUE",
+  "postalCode": "90911"
  },
  {
   "id": 7313020016,
   "districtId": 7313020,
-  "name": "MATTIROTAPPARENG"
+  "districtName": "TEMPE",
+  "name": "MATTIROTAPPARENG",
+  "postalCode": "90918"
  }
 ]

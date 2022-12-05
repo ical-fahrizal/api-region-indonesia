@@ -2,36 +2,50 @@
  {
   "id": 3205020001,
   "districtId": 3205020,
-  "name": "SELAAWI"
+  "districtName": "TALEGONG",
+  "name": "SELAAWI",
+  "postalCode": "41172"
  },
  {
   "id": 3205020002,
   "districtId": 3205020,
-  "name": "MEKARMUKTI"
+  "districtName": "TALEGONG",
+  "name": "MEKARMUKTI",
+  "postalCode": "45392"
  },
  {
   "id": 3205020003,
   "districtId": 3205020,
-  "name": "MEKARMULYA"
+  "districtName": "TALEGONG",
+  "name": "MEKARMULYA",
+  "postalCode": "45571"
  },
  {
   "id": 3205020004,
   "districtId": 3205020,
-  "name": "SUKAMULYA"
+  "districtName": "TALEGONG",
+  "name": "SUKAMULYA",
+  "postalCode": "30657"
  },
  {
   "id": 3205020005,
   "districtId": 3205020,
-  "name": "SUKAMAJU"
+  "districtName": "TALEGONG",
+  "name": "SUKAMAJU",
+  "postalCode": "22465"
  },
  {
   "id": 3205020006,
   "districtId": 3205020,
-  "name": "SUKALAKSANA"
+  "districtName": "TALEGONG",
+  "name": "SUKALAKSANA",
+  "postalCode": "44191"
  },
  {
   "id": 3205020007,
   "districtId": 3205020,
-  "name": "MEKARWANGI"
+  "districtName": "TALEGONG",
+  "name": "MEKARWANGI",
+  "postalCode": "45462"
  }
 ]

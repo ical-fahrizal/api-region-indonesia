@@ -2,46 +2,64 @@
  {
   "id": 9417056001,
   "districtId": 9417056,
-  "name": "OKTAU"
+  "districtName": "OKBEMTA",
+  "name": "OKTAU",
+  "postalCode": "99574"
  },
  {
   "id": 9417056002,
   "districtId": 9417056,
-  "name": "OKNGAN"
+  "districtName": "OKBEMTA",
+  "name": "OKNGAN",
+  "postalCode": ""
  },
  {
   "id": 9417056003,
   "districtId": 9417056,
-  "name": "OKBEM"
+  "districtName": "OKBEMTA",
+  "name": "OKBEM",
+  "postalCode": "99574"
  },
  {
   "id": 9417056004,
   "districtId": 9417056,
-  "name": "OKTARU"
+  "districtName": "OKBEMTA",
+  "name": "OKTARU",
+  "postalCode": "99574"
  },
  {
   "id": 9417056006,
   "districtId": 9417056,
-  "name": "KAEP"
+  "districtName": "OKBEMTA",
+  "name": "KAEP",
+  "postalCode": "99574"
  },
  {
   "id": 9417056007,
   "districtId": 9417056,
-  "name": "BEMHIMIKU"
+  "districtName": "OKBEMTA",
+  "name": "BEMHIMIKU",
+  "postalCode": "99574"
  },
  {
   "id": 9417056008,
   "districtId": 9417056,
-  "name": "ATANG DOKI"
+  "districtName": "OKBEMTA",
+  "name": "ATANG DOKI",
+  "postalCode": "99574"
  },
  {
   "id": 9417056009,
   "districtId": 9417056,
-  "name": "OKALUT KUMAL"
+  "districtName": "OKBEMTA",
+  "name": "OKALUT KUMAL",
+  "postalCode": "99574"
  },
  {
   "id": 9417056010,
   "districtId": 9417056,
-  "name": "BILIP BAYO"
+  "districtName": "OKBEMTA",
+  "name": "BILIP BAYO",
+  "postalCode": "99574"
  }
 ]

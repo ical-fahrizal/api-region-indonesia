@@ -2,76 +2,106 @@
  {
   "id": 6304040001,
   "districtId": 6304040,
-  "name": "PANDAN SARI"
+  "districtName": "ANJIR PASAR",
+  "name": "PANDAN SARI",
+  "postalCode": "24784"
  },
  {
   "id": 6304040002,
   "districtId": 6304040,
-  "name": "ANDAMAN"
+  "districtName": "ANJIR PASAR",
+  "name": "ANDAMAN",
+  "postalCode": "70565"
  },
  {
   "id": 6304040003,
   "districtId": 6304040,
-  "name": "ANDAMAN II"
+  "districtName": "ANJIR PASAR",
+  "name": "ANDAMAN II",
+  "postalCode": "70565"
  },
  {
   "id": 6304040004,
   "districtId": 6304040,
-  "name": "ANJIR SEBERANG PASAR II"
+  "districtName": "ANJIR PASAR",
+  "name": "ANJIR SEBERANG PASAR II",
+  "postalCode": "70565"
  },
  {
   "id": 6304040005,
   "districtId": 6304040,
-  "name": "ANJIR SEBERANG PASAR"
+  "districtName": "ANJIR PASAR",
+  "name": "ANJIR SEBERANG PASAR",
+  "postalCode": "70565"
  },
  {
   "id": 6304040006,
   "districtId": 6304040,
-  "name": "ANJIR PASAR LAMA"
+  "districtName": "ANJIR PASAR",
+  "name": "ANJIR PASAR LAMA",
+  "postalCode": "70565"
  },
  {
   "id": 6304040007,
   "districtId": 6304040,
-  "name": "ANJIR PASAR KOTA II"
+  "districtName": "ANJIR PASAR",
+  "name": "ANJIR PASAR KOTA II",
+  "postalCode": "70565"
  },
  {
   "id": 6304040008,
   "districtId": 6304040,
-  "name": "ANJIR PASAR KOTA"
+  "districtName": "ANJIR PASAR",
+  "name": "ANJIR PASAR KOTA",
+  "postalCode": "70565"
  },
  {
   "id": 6304040009,
   "districtId": 6304040,
-  "name": "BARUNAI BARU"
+  "districtName": "ANJIR PASAR",
+  "name": "BARUNAI BARU",
+  "postalCode": "70565"
  },
  {
   "id": 6304040010,
   "districtId": 6304040,
-  "name": "HILIR MESJID"
+  "districtName": "ANJIR PASAR",
+  "name": "HILIR MESJID",
+  "postalCode": "70565"
  },
  {
   "id": 6304040011,
   "districtId": 6304040,
-  "name": "BANYIUR"
+  "districtName": "ANJIR PASAR",
+  "name": "BANYIUR",
+  "postalCode": "70565"
  },
  {
   "id": 6304040012,
   "districtId": 6304040,
-  "name": "DANAU KARYA"
+  "districtName": "ANJIR PASAR",
+  "name": "DANAU KARYA",
+  "postalCode": "70565"
  },
  {
   "id": 6304040013,
   "districtId": 6304040,
-  "name": "MENTAREN"
+  "districtName": "ANJIR PASAR",
+  "name": "MENTAREN",
+  "postalCode": "70565"
  },
  {
   "id": 6304040014,
   "districtId": 6304040,
-  "name": "GANDARIA"
+  "districtName": "ANJIR PASAR",
+  "name": "GANDARIA",
+  "postalCode": "70565"
  },
  {
   "id": 6304040015,
   "districtId": 6304040,
-  "name": "GANDARAYA"
+  "districtName": "ANJIR PASAR",
+  "name": "GANDARAYA",
+  "postalCode": "70565"
  }
 ]

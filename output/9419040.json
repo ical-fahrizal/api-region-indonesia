@@ -2,21 +2,29 @@
  {
   "id": 9419040003,
   "districtId": 9419040,
-  "name": "SAMANENTE"
+  "districtName": "TOR ATAS",
+  "name": "SAMANENTE",
+  "postalCode": "99372"
  },
  {
   "id": 9419040004,
   "districtId": 9419040,
-  "name": "KONDERJAN"
+  "districtName": "TOR ATAS",
+  "name": "KONDERJAN",
+  "postalCode": "99372"
  },
  {
   "id": 9419040006,
   "districtId": 9419040,
-  "name": "DENANDER"
+  "districtName": "TOR ATAS",
+  "name": "DENANDER",
+  "postalCode": "99372"
  },
  {
   "id": 9419040008,
   "districtId": 9419040,
-  "name": "SAKRON TANE"
+  "districtName": "TOR ATAS",
+  "name": "SAKRON TANE",
+  "postalCode": "99372"
  }
 ]

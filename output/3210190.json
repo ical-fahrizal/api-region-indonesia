@@ -2,76 +2,106 @@
  {
   "id": 3210190001,
   "districtId": 3210190,
-  "name": "BIYAWAK"
+  "districtName": "JATITUJUH",
+  "name": "BIYAWAK",
+  "postalCode": "45458"
  },
  {
   "id": 3210190002,
   "districtId": 3210190,
-  "name": "PASINDANGAN"
+  "districtName": "JATITUJUH",
+  "name": "PASINDANGAN",
+  "postalCode": "45151"
  },
  {
   "id": 3210190003,
   "districtId": 3210190,
-  "name": "PANONGAN"
+  "districtName": "JATITUJUH",
+  "name": "PANONGAN",
+  "postalCode": "45458"
  },
  {
   "id": 3210190004,
   "districtId": 3210190,
-  "name": "PANYINGKIRAN"
+  "districtName": "JATITUJUH",
+  "name": "PANYINGKIRAN",
+  "postalCode": "46211"
  },
  {
   "id": 3210190005,
   "districtId": 3210190,
-  "name": "RANDEGAN KULON"
+  "districtName": "JATITUJUH",
+  "name": "RANDEGAN KULON",
+  "postalCode": "45458"
  },
  {
   "id": 3210190006,
   "districtId": 3210190,
-  "name": "RANDEGAN WETAN"
+  "districtName": "JATITUJUH",
+  "name": "RANDEGAN WETAN",
+  "postalCode": "45458"
  },
  {
   "id": 3210190007,
   "districtId": 3210190,
-  "name": "PUTRIDALEM"
+  "districtName": "JATITUJUH",
+  "name": "PUTRIDALEM",
+  "postalCode": "45458"
  },
  {
   "id": 3210190008,
   "districtId": 3210190,
-  "name": "JATITENGAH"
+  "districtName": "JATITUJUH",
+  "name": "JATITENGAH",
+  "postalCode": "45458"
  },
  {
   "id": 3210190009,
   "districtId": 3210190,
-  "name": "JATITUJUH"
+  "districtName": "JATITUJUH",
+  "name": "JATITUJUH",
+  "postalCode": "45458"
  },
  {
   "id": 3210190010,
   "districtId": 3210190,
-  "name": "BABAJURANG"
+  "districtName": "JATITUJUH",
+  "name": "BABAJURANG",
+  "postalCode": "45458"
  },
  {
   "id": 3210190011,
   "districtId": 3210190,
-  "name": "PILANGSARI"
+  "districtName": "JATITUJUH",
+  "name": "PILANGSARI",
+  "postalCode": "45273"
  },
  {
   "id": 3210190012,
   "districtId": 3210190,
-  "name": "JATIRAGA"
+  "districtName": "JATITUJUH",
+  "name": "JATIRAGA",
+  "postalCode": "45458"
  },
  {
   "id": 3210190013,
   "districtId": 3210190,
-  "name": "SUMBER KULON"
+  "districtName": "JATITUJUH",
+  "name": "SUMBER KULON",
+  "postalCode": "45458"
  },
  {
   "id": 3210190014,
   "districtId": 3210190,
-  "name": "SUMBER WETAN"
+  "districtName": "JATITUJUH",
+  "name": "SUMBER WETAN",
+  "postalCode": "45458"
  },
  {
   "id": 3210190015,
   "districtId": 3210190,
-  "name": "PANGKALANPARI"
+  "districtName": "JATITUJUH",
+  "name": "PANGKALANPARI",
+  "postalCode": "45458"
  }
 ]

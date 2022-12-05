@@ -2,81 +2,113 @@
  {
   "id": 1403100001,
   "districtId": 1403100,
-  "name": "TELUK KABUNG"
+  "districtName": "GAUNG",
+  "name": "TELUK KABUNG",
+  "postalCode": "29282"
  },
  {
   "id": 1403100002,
   "districtId": 1403100,
-  "name": "SIMPANG GAUNG"
+  "districtName": "GAUNG",
+  "name": "SIMPANG GAUNG",
+  "postalCode": "29282"
  },
  {
   "id": 1403100003,
   "districtId": 1403100,
-  "name": "PUNGKAT"
+  "districtName": "GAUNG",
+  "name": "PUNGKAT",
+  "postalCode": "29282"
  },
  {
   "id": 1403100004,
   "districtId": 1403100,
-  "name": "BELANTARAYA"
+  "districtName": "GAUNG",
+  "name": "BELANTARAYA",
+  "postalCode": "29282"
  },
  {
   "id": 1403100005,
   "districtId": 1403100,
-  "name": "JERAMBANG"
+  "districtName": "GAUNG",
+  "name": "JERAMBANG",
+  "postalCode": "29282"
  },
  {
   "id": 1403100006,
   "districtId": 1403100,
-  "name": "SUNGAI BARU"
+  "districtName": "GAUNG",
+  "name": "SUNGAI BARU",
+  "postalCode": "29282"
  },
  {
   "id": 1403100007,
   "districtId": 1403100,
-  "name": "LAHANG BARU"
+  "districtName": "GAUNG",
+  "name": "LAHANG BARU",
+  "postalCode": "29282"
  },
  {
   "id": 1403100008,
   "districtId": 1403100,
-  "name": "KUALA LAHANG"
+  "districtName": "GAUNG",
+  "name": "KUALA LAHANG",
+  "postalCode": "29282"
  },
  {
   "id": 1403100009,
   "districtId": 1403100,
-  "name": "LAHANG TENGAH"
+  "districtName": "GAUNG",
+  "name": "LAHANG TENGAH",
+  "postalCode": "29282"
  },
  {
   "id": 1403100010,
   "districtId": 1403100,
-  "name": "LAHANG HULU"
+  "districtName": "GAUNG",
+  "name": "LAHANG HULU",
+  "postalCode": "29282"
  },
  {
   "id": 1403100011,
   "districtId": 1403100,
-  "name": "TERUSAN KEMPAS"
+  "districtName": "GAUNG",
+  "name": "TERUSAN KEMPAS",
+  "postalCode": "29282"
  },
  {
   "id": 1403100012,
   "districtId": 1403100,
-  "name": "GEMBIRA"
+  "districtName": "GAUNG",
+  "name": "GEMBIRA",
+  "postalCode": "29282"
  },
  {
   "id": 1403100013,
   "districtId": 1403100,
-  "name": "SEMAMBU KUNING"
+  "districtName": "GAUNG",
+  "name": "SEMAMBU KUNING",
+  "postalCode": "29282"
  },
  {
   "id": 1403100014,
   "districtId": 1403100,
-  "name": "PINTASAN"
+  "districtName": "GAUNG",
+  "name": "PINTASAN",
+  "postalCode": "29282"
  },
  {
   "id": 1403100015,
   "districtId": 1403100,
-  "name": "SOREN"
+  "districtName": "GAUNG",
+  "name": "SOREN",
+  "postalCode": "29282"
  },
  {
   "id": 1403100016,
   "districtId": 1403100,
-  "name": "TELUK MERBAU"
+  "districtName": "GAUNG",
+  "name": "TELUK MERBAU",
+  "postalCode": "28671"
  }
 ]

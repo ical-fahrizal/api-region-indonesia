@@ -2,51 +2,71 @@
  {
   "id": 5302052003,
   "districtId": 5302052,
-  "name": "LAIRURU"
+  "districtName": "UMALULU",
+  "name": "LAIRURU",
+  "postalCode": "87181"
  },
  {
   "id": 5302052004,
   "districtId": 5302052,
-  "name": "WATU PUDA"
+  "districtName": "UMALULU",
+  "name": "WATU PUDA",
+  "postalCode": ""
  },
  {
   "id": 5302052005,
   "districtId": 5302052,
-  "name": "UMALULU"
+  "districtName": "UMALULU",
+  "name": "UMALULU",
+  "postalCode": "87181"
  },
  {
   "id": 5302052013,
   "districtId": 5302052,
-  "name": "LUMBUKORE"
+  "districtName": "UMALULU",
+  "name": "LUMBUKORE",
+  "postalCode": "87181"
  },
  {
   "id": 5302052014,
   "districtId": 5302052,
-  "name": "WATU HADANG"
+  "districtName": "UMALULU",
+  "name": "WATU HADANG",
+  "postalCode": "87181"
  },
  {
   "id": 5302052015,
   "districtId": 5302052,
-  "name": "MUTUNGGEDING"
+  "districtName": "UMALULU",
+  "name": "MUTUNGGEDING",
+  "postalCode": "87181"
  },
  {
   "id": 5302052016,
   "districtId": 5302052,
-  "name": "MATAWAI ATU"
+  "districtName": "UMALULU",
+  "name": "MATAWAI ATU",
+  "postalCode": "87181"
  },
  {
   "id": 5302052017,
   "districtId": 5302052,
-  "name": "PATAWANG"
+  "districtName": "UMALULU",
+  "name": "PATAWANG",
+  "postalCode": "87181"
  },
  {
   "id": 5302052018,
   "districtId": 5302052,
-  "name": "WANGA"
+  "districtName": "UMALULU",
+  "name": "WANGA",
+  "postalCode": "87181"
  },
  {
   "id": 5302052019,
   "districtId": 5302052,
-  "name": "NGARU KANORU"
+  "districtName": "UMALULU",
+  "name": "NGARU KANORU",
+  "postalCode": "87181"
  }
 ]

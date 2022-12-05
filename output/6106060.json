@@ -2,56 +2,78 @@
  {
   "id": 6106060001,
   "districtId": 6106060,
-  "name": "SUNGAI NANJUNG"
+  "districtName": "MATAN HILIR SELATAN",
+  "name": "SUNGAI NANJUNG",
+  "postalCode": ""
  },
  {
   "id": 6106060002,
   "districtId": 6106060,
-  "name": "PESAGUAN KANAN"
+  "districtName": "MATAN HILIR SELATAN",
+  "name": "PESAGUAN KANAN",
+  "postalCode": "78822"
  },
  {
   "id": 6106060003,
   "districtId": 6106060,
-  "name": "PESAGUAN KIRI"
+  "districtName": "MATAN HILIR SELATAN",
+  "name": "PESAGUAN KIRI",
+  "postalCode": "78822"
  },
  {
   "id": 6106060004,
   "districtId": 6106060,
-  "name": "SUNGAI BAKAU"
+  "districtName": "MATAN HILIR SELATAN",
+  "name": "SUNGAI BAKAU",
+  "postalCode": ""
  },
  {
   "id": 6106060005,
   "districtId": 6106060,
-  "name": "PEMATANG GADUNG"
+  "districtName": "MATAN HILIR SELATAN",
+  "name": "PEMATANG GADUNG",
+  "postalCode": "36654"
  },
  {
   "id": 6106060006,
   "districtId": 6106060,
-  "name": "SUNGAI BESAR"
+  "districtName": "MATAN HILIR SELATAN",
+  "name": "SUNGAI BESAR",
+  "postalCode": "29874"
  },
  {
   "id": 6106060007,
   "districtId": 6106060,
-  "name": "SUNGAI PELANG"
+  "districtName": "MATAN HILIR SELATAN",
+  "name": "SUNGAI PELANG",
+  "postalCode": ""
  },
  {
   "id": 6106060008,
   "districtId": 6106060,
-  "name": "SUNGAI JAWI"
+  "districtName": "MATAN HILIR SELATAN",
+  "name": "SUNGAI JAWI",
+  "postalCode": ""
  },
  {
   "id": 6106060009,
   "districtId": 6106060,
-  "name": "KEMUNING BIUTAK"
+  "districtName": "MATAN HILIR SELATAN",
+  "name": "KEMUNING BIUTAK",
+  "postalCode": "78822"
  },
  {
   "id": 6106060010,
   "districtId": 6106060,
-  "name": "HARAPAN BARU"
+  "districtName": "MATAN HILIR SELATAN",
+  "name": "HARAPAN BARU",
+  "postalCode": "24786"
  },
  {
   "id": 6106060011,
   "districtId": 6106060,
-  "name": "PAGAR MENTIMUN"
+  "districtName": "MATAN HILIR SELATAN",
+  "name": "PAGAR MENTIMUN",
+  "postalCode": "78822"
  }
 ]

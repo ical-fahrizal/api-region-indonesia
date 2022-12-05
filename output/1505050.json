@@ -2,101 +2,141 @@
  {
   "id": 1505050003,
   "districtId": 1505050,
-  "name": "SUNGAI BERTAM"
+  "districtName": "JAMBI LUAR KOTA",
+  "name": "SUNGAI BERTAM",
+  "postalCode": "36361"
  },
  {
   "id": 1505050004,
   "districtId": 1505050,
-  "name": "MUHAJIRIN"
+  "districtName": "JAMBI LUAR KOTA",
+  "name": "MUHAJIRIN",
+  "postalCode": "24651"
  },
  {
   "id": 1505050005,
   "districtId": 1505050,
-  "name": "MARO SEBO"
+  "districtName": "JAMBI LUAR KOTA",
+  "name": "MARO SEBO",
+  "postalCode": "36382"
  },
  {
   "id": 1505050006,
   "districtId": 1505050,
-  "name": "KELURAHAN PIJOAN"
+  "districtName": "JAMBI LUAR KOTA",
+  "name": "KELURAHAN PIJOAN",
+  "postalCode": ""
  },
  {
   "id": 1505050007,
   "districtId": 1505050,
-  "name": "MUARA PIJOAN"
+  "districtName": "JAMBI LUAR KOTA",
+  "name": "MUARA PIJOAN",
+  "postalCode": ""
  },
  {
   "id": 1505050008,
   "districtId": 1505050,
-  "name": "SIMPANG SUNGAI DUREN"
+  "districtName": "JAMBI LUAR KOTA",
+  "name": "SIMPANG SUNGAI DUREN",
+  "postalCode": ""
  },
  {
   "id": 1505050009,
   "districtId": 1505050,
-  "name": "MENDALO DARAT"
+  "districtName": "JAMBI LUAR KOTA",
+  "name": "MENDALO DARAT",
+  "postalCode": "36361"
  },
  {
   "id": 1505050010,
   "districtId": 1505050,
-  "name": "SUNGAI DUREN"
+  "districtName": "JAMBI LUAR KOTA",
+  "name": "SUNGAI DUREN",
+  "postalCode": "36361"
  },
  {
   "id": 1505050011,
   "districtId": 1505050,
-  "name": "MENDALO LAUT"
+  "districtName": "JAMBI LUAR KOTA",
+  "name": "MENDALO LAUT",
+  "postalCode": "36361"
  },
  {
   "id": 1505050012,
   "districtId": 1505050,
-  "name": "PENYENGAT OLAK"
+  "districtName": "JAMBI LUAR KOTA",
+  "name": "PENYENGAT OLAK",
+  "postalCode": "36361"
  },
  {
   "id": 1505050013,
   "districtId": 1505050,
-  "name": "SEMBUBUK"
+  "districtName": "JAMBI LUAR KOTA",
+  "name": "SEMBUBUK",
+  "postalCode": "36361"
  },
  {
   "id": 1505050014,
   "districtId": 1505050,
-  "name": "SARANG BURUNG"
+  "districtName": "JAMBI LUAR KOTA",
+  "name": "SARANG BURUNG",
+  "postalCode": "36361"
  },
  {
   "id": 1505050015,
   "districtId": 1505050,
-  "name": "PEMATANG JERING"
+  "districtName": "JAMBI LUAR KOTA",
+  "name": "PEMATANG JERING",
+  "postalCode": "21257"
  },
  {
   "id": 1505050016,
   "districtId": 1505050,
-  "name": "RENGAS BANDUNG"
+  "districtName": "JAMBI LUAR KOTA",
+  "name": "RENGAS BANDUNG",
+  "postalCode": "36361"
  },
  {
   "id": 1505050017,
   "districtId": 1505050,
-  "name": "SENAUNG"
+  "districtName": "JAMBI LUAR KOTA",
+  "name": "SENAUNG",
+  "postalCode": "36361"
  },
  {
   "id": 1505050018,
   "districtId": 1505050,
-  "name": "KEDEMANGAN"
+  "districtName": "JAMBI LUAR KOTA",
+  "name": "KEDEMANGAN",
+  "postalCode": ""
  },
  {
   "id": 1505050019,
   "districtId": 1505050,
-  "name": "DANAU SARANG ELANG"
+  "districtName": "JAMBI LUAR KOTA",
+  "name": "DANAU SARANG ELANG",
+  "postalCode": "36361"
  },
  {
   "id": 1505050020,
   "districtId": 1505050,
-  "name": "SIMPANG LIMO"
+  "districtName": "JAMBI LUAR KOTA",
+  "name": "SIMPANG LIMO",
+  "postalCode": "36361"
  },
  {
   "id": 1505050021,
   "districtId": 1505050,
-  "name": "PEMATANG GAJAH"
+  "districtName": "JAMBI LUAR KOTA",
+  "name": "PEMATANG GAJAH",
+  "postalCode": "36361"
  },
  {
   "id": 1505050022,
   "districtId": 1505050,
-  "name": "MENDALO INDAH"
+  "districtName": "JAMBI LUAR KOTA",
+  "name": "MENDALO INDAH",
+  "postalCode": "36361"
  }
 ]

@@ -2,66 +2,92 @@
  {
   "id": 1220051001,
   "districtId": 1220051,
-  "name": "LABUHAN JURUNG"
+  "districtName": "UJUNG BATU",
+  "name": "LABUHAN JURUNG",
+  "postalCode": "22747"
  },
  {
   "id": 1220051002,
   "districtId": 1220051,
-  "name": "GUNUNG MANAON UB"
+  "districtName": "UJUNG BATU",
+  "name": "GUNUNG MANAON UB",
+  "postalCode": "22747"
  },
  {
   "id": 1220051003,
   "districtId": 1220051,
-  "name": "UJUNG BATU JULU"
+  "districtName": "UJUNG BATU",
+  "name": "UJUNG BATU JULU",
+  "postalCode": "22747"
  },
  {
   "id": 1220051004,
   "districtId": 1220051,
-  "name": "MARTUJUAN"
+  "districtName": "UJUNG BATU",
+  "name": "MARTUJUAN",
+  "postalCode": "22747"
  },
  {
   "id": 1220051005,
   "districtId": 1220051,
-  "name": "PAYA BAHUNG  UB"
+  "districtName": "UJUNG BATU",
+  "name": "PAYA BAHUNG  UB",
+  "postalCode": ""
  },
  {
   "id": 1220051006,
   "districtId": 1220051,
-  "name": "UJUNG BATU JAE"
+  "districtName": "UJUNG BATU",
+  "name": "UJUNG BATU JAE",
+  "postalCode": "22747"
  },
  {
   "id": 1220051007,
   "districtId": 1220051,
-  "name": "TOBING TINGGI UB"
+  "districtName": "UJUNG BATU",
+  "name": "TOBING TINGGI UB",
+  "postalCode": "22747"
  },
  {
   "id": 1220051008,
   "districtId": 1220051,
-  "name": "MARLAUNG"
+  "districtName": "UJUNG BATU",
+  "name": "MARLAUNG",
+  "postalCode": "22747"
  },
  {
   "id": 1220051009,
   "districtId": 1220051,
-  "name": "MANANTI"
+  "districtName": "UJUNG BATU",
+  "name": "MANANTI",
+  "postalCode": "22747"
  },
  {
   "id": 1220051010,
   "districtId": 1220051,
-  "name": "JAMBU TONANG"
+  "districtName": "UJUNG BATU",
+  "name": "JAMBU TONANG",
+  "postalCode": "22747"
  },
  {
   "id": 1220051011,
   "districtId": 1220051,
-  "name": "MANARE TUA"
+  "districtName": "UJUNG BATU",
+  "name": "MANARE TUA",
+  "postalCode": "22747"
  },
  {
   "id": 1220051012,
   "districtId": 1220051,
-  "name": "PASIR LANCAT UB"
+  "districtName": "UJUNG BATU",
+  "name": "PASIR LANCAT UB",
+  "postalCode": ""
  },
  {
   "id": 1220051013,
   "districtId": 1220051,
-  "name": "HUTA RAJA"
+  "districtName": "UJUNG BATU",
+  "name": "HUTA RAJA",
+  "postalCode": "22738"
  }
 ]

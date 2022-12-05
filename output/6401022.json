@@ -2,36 +2,50 @@
  {
   "id": 6401022001,
   "districtId": 6401022,
-  "name": "TUNES KELADEN"
+  "districtName": "TANJUNG HARAPAN",
+  "name": "TUNES KELADEN",
+  "postalCode": ""
  },
  {
   "id": 6401022002,
   "districtId": 6401022,
-  "name": "TANJUNG ARU"
+  "districtName": "TANJUNG HARAPAN",
+  "name": "TANJUNG ARU",
+  "postalCode": "76261"
  },
  {
   "id": 6401022003,
   "districtId": 6401022,
-  "name": "LABUANGKALO"
+  "districtName": "TANJUNG HARAPAN",
+  "name": "LABUANGKALO",
+  "postalCode": "76261"
  },
  {
   "id": 6401022004,
   "districtId": 6401022,
-  "name": "SELENGOT"
+  "districtName": "TANJUNG HARAPAN",
+  "name": "SELENGOT",
+  "postalCode": "76261"
  },
  {
   "id": 6401022005,
   "districtId": 6401022,
-  "name": "LORI"
+  "districtName": "TANJUNG HARAPAN",
+  "name": "LORI",
+  "postalCode": "76261"
  },
  {
   "id": 6401022006,
   "districtId": 6401022,
-  "name": "RANDOM"
+  "districtName": "TANJUNG HARAPAN",
+  "name": "RANDOM",
+  "postalCode": "76261"
  },
  {
   "id": 6401022007,
   "districtId": 6401022,
-  "name": "SENIPAH"
+  "districtName": "TANJUNG HARAPAN",
+  "name": "SENIPAH",
+  "postalCode": "76261"
  }
 ]

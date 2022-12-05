@@ -2,61 +2,85 @@
  {
   "id": 7210140001,
   "districtId": 7210140,
-  "name": "PANESIBAJA"
+  "districtName": "MARAWOLA BARAT",
+  "name": "PANESIBAJA",
+  "postalCode": ""
  },
  {
   "id": 7210140002,
   "districtId": 7210140,
-  "name": "WIAPORE"
+  "districtName": "MARAWOLA BARAT",
+  "name": "WIAPORE",
+  "postalCode": "94362"
  },
  {
   "id": 7210140003,
   "districtId": 7210140,
-  "name": "ONGULERO"
+  "districtName": "MARAWOLA BARAT",
+  "name": "ONGULERO",
+  "postalCode": "94362"
  },
  {
   "id": 7210140004,
   "districtId": 7210140,
-  "name": "SOI"
+  "districtName": "MARAWOLA BARAT",
+  "name": "SOI",
+  "postalCode": "94362"
  },
  {
   "id": 7210140005,
   "districtId": 7210140,
-  "name": "WAWUGAGA"
+  "districtName": "MARAWOLA BARAT",
+  "name": "WAWUGAGA",
+  "postalCode": ""
  },
  {
   "id": 7210140006,
   "districtId": 7210140,
-  "name": "DOMBU"
+  "districtName": "MARAWOLA BARAT",
+  "name": "DOMBU",
+  "postalCode": "94362"
  },
  {
   "id": 7210140007,
   "districtId": 7210140,
-  "name": "TAIPANGGABE"
+  "districtName": "MARAWOLA BARAT",
+  "name": "TAIPANGGABE",
+  "postalCode": "94362"
  },
  {
   "id": 7210140008,
   "districtId": 7210140,
-  "name": "WAYU"
+  "districtName": "MARAWOLA BARAT",
+  "name": "WAYU",
+  "postalCode": "94362"
  },
  {
   "id": 7210140009,
   "districtId": 7210140,
-  "name": "MATANTIMALI"
+  "districtName": "MARAWOLA BARAT",
+  "name": "MATANTIMALI",
+  "postalCode": "94362"
  },
  {
   "id": 7210140010,
   "districtId": 7210140,
-  "name": "LEWARA"
+  "districtName": "MARAWOLA BARAT",
+  "name": "LEWARA",
+  "postalCode": "94362"
  },
  {
   "id": 7210140011,
   "districtId": 7210140,
-  "name": "LEMOSIRANINDI"
+  "districtName": "MARAWOLA BARAT",
+  "name": "LEMOSIRANINDI",
+  "postalCode": ""
  },
  {
   "id": 7210140012,
   "districtId": 7210140,
-  "name": "WAWUJAI"
+  "districtName": "MARAWOLA BARAT",
+  "name": "WAWUJAI",
+  "postalCode": ""
  }
 ]

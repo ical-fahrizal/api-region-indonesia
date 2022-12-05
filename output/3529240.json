@@ -2,96 +2,134 @@
  {
   "id": 3529240001,
   "districtId": 3529240,
-  "name": "BUDDI"
+  "districtName": "ARJASA",
+  "name": "BUDDI",
+  "postalCode": "69491"
  },
  {
   "id": 3529240002,
   "districtId": 3529240,
-  "name": "GELAMAN"
+  "districtName": "ARJASA",
+  "name": "GELAMAN",
+  "postalCode": "69491"
  },
  {
   "id": 3529240003,
   "districtId": 3529240,
-  "name": "PAJANANGGER"
+  "districtName": "ARJASA",
+  "name": "PAJANANGGER",
+  "postalCode": ""
  },
  {
   "id": 3529240010,
   "districtId": 3529240,
-  "name": "SAWAHSUMUR"
+  "districtName": "ARJASA",
+  "name": "SAWAHSUMUR",
+  "postalCode": "69491"
  },
  {
   "id": 3529240011,
   "districtId": 3529240,
-  "name": "PASERAMAN"
+  "districtName": "ARJASA",
+  "name": "PASERAMAN",
+  "postalCode": "69491"
  },
  {
   "id": 3529240012,
   "districtId": 3529240,
-  "name": "KALINGANYAR"
+  "districtName": "ARJASA",
+  "name": "KALINGANYAR",
+  "postalCode": ""
  },
  {
   "id": 3529240013,
   "districtId": 3529240,
-  "name": "ARJASA"
+  "districtName": "ARJASA",
+  "name": "ARJASA",
+  "postalCode": "68191"
  },
  {
   "id": 3529240014,
   "districtId": 3529240,
-  "name": "DUKO"
+  "districtName": "ARJASA",
+  "name": "DUKO",
+  "postalCode": "69491"
  },
  {
   "id": 3529240015,
   "districtId": 3529240,
-  "name": "KOLO KOLO"
+  "districtName": "ARJASA",
+  "name": "KOLO KOLO",
+  "postalCode": "69491"
  },
  {
   "id": 3529240016,
   "districtId": 3529240,
-  "name": "ANGKATAN"
+  "districtName": "ARJASA",
+  "name": "ANGKATAN",
+  "postalCode": "69491"
  },
  {
   "id": 3529240017,
   "districtId": 3529240,
-  "name": "KALISANGKA"
+  "districtName": "ARJASA",
+  "name": "KALISANGKA",
+  "postalCode": "69491"
  },
  {
   "id": 3529240018,
   "districtId": 3529240,
-  "name": "LAOK JANGJANG"
+  "districtName": "ARJASA",
+  "name": "LAOK JANGJANG",
+  "postalCode": "69491"
  },
  {
   "id": 3529240019,
   "districtId": 3529240,
-  "name": "BILIS BILIS"
+  "districtName": "ARJASA",
+  "name": "BILIS BILIS",
+  "postalCode": "69491"
  },
  {
   "id": 3529240020,
   "districtId": 3529240,
-  "name": "SUMBERNANGKA"
+  "districtName": "ARJASA",
+  "name": "SUMBERNANGKA",
+  "postalCode": "69491"
  },
  {
   "id": 3529240021,
   "districtId": 3529240,
-  "name": "KALIKATAK"
+  "districtName": "ARJASA",
+  "name": "KALIKATAK",
+  "postalCode": "69491"
  },
  {
   "id": 3529240022,
   "districtId": 3529240,
-  "name": "ANGON ANGON"
+  "districtName": "ARJASA",
+  "name": "ANGON ANGON",
+  "postalCode": "69491"
  },
  {
   "id": 3529240023,
   "districtId": 3529240,
-  "name": "SAMBAKATI"
+  "districtName": "ARJASA",
+  "name": "SAMBAKATI",
+  "postalCode": "69491"
  },
  {
   "id": 3529240024,
   "districtId": 3529240,
-  "name": "PANDEMAN"
+  "districtName": "ARJASA",
+  "name": "PANDEMAN",
+  "postalCode": "69491"
  },
  {
   "id": 3529240025,
   "districtId": 3529240,
-  "name": "PABIAN"
+  "districtName": "ARJASA",
+  "name": "PABIAN",
+  "postalCode": "69491"
  }
 ]

@@ -2,76 +2,106 @@
  {
   "id": 3507260001,
   "districtId": 3507260,
-  "name": "KENONGO"
+  "districtName": "JABUNG",
+  "name": "KENONGO",
+  "postalCode": "59264"
  },
  {
   "id": 3507260002,
   "districtId": 3507260,
-  "name": "NGADIREJO"
+  "districtName": "JABUNG",
+  "name": "NGADIREJO",
+  "postalCode": "31662"
  },
  {
   "id": 3507260003,
   "districtId": 3507260,
-  "name": "TAJI"
+  "districtName": "JABUNG",
+  "name": "TAJI",
+  "postalCode": "57472"
  },
  {
   "id": 3507260004,
   "districtId": 3507260,
-  "name": "PANDANSARI LOR"
+  "districtName": "JABUNG",
+  "name": "PANDANSARI LOR",
+  "postalCode": "65155"
  },
  {
   "id": 3507260005,
   "districtId": 3507260,
-  "name": "SUKOPURO"
+  "districtName": "JABUNG",
+  "name": "SUKOPURO",
+  "postalCode": "65155"
  },
  {
   "id": 3507260006,
   "districtId": 3507260,
-  "name": "SIDOREJO"
+  "districtName": "JABUNG",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 3507260007,
   "districtId": 3507260,
-  "name": "SUKOLILO"
+  "districtName": "JABUNG",
+  "name": "SUKOLILO",
+  "postalCode": "59172"
  },
  {
   "id": 3507260008,
   "districtId": 3507260,
-  "name": "SIDOMULYO"
+  "districtName": "JABUNG",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  },
  {
   "id": 3507260009,
   "districtId": 3507260,
-  "name": "GADING KEMBAR"
+  "districtName": "JABUNG",
+  "name": "GADING KEMBAR",
+  "postalCode": "65155"
  },
  {
   "id": 3507260010,
   "districtId": 3507260,
-  "name": "KEMANTREN"
+  "districtName": "JABUNG",
+  "name": "KEMANTREN",
+  "postalCode": "45611"
  },
  {
   "id": 3507260011,
   "districtId": 3507260,
-  "name": "ARGOSARI"
+  "districtName": "JABUNG",
+  "name": "ARGOSARI",
+  "postalCode": "54473"
  },
  {
   "id": 3507260012,
   "districtId": 3507260,
-  "name": "SLAMPAREJO"
+  "districtName": "JABUNG",
+  "name": "SLAMPAREJO",
+  "postalCode": "65155"
  },
  {
   "id": 3507260013,
   "districtId": 3507260,
-  "name": "KEMIRI"
+  "districtName": "JABUNG",
+  "name": "KEMIRI",
+  "postalCode": "41352"
  },
  {
   "id": 3507260014,
   "districtId": 3507260,
-  "name": "JABUNG"
+  "districtName": "JABUNG",
+  "name": "JABUNG",
+  "postalCode": "34384"
  },
  {
   "id": 3507260015,
   "districtId": 3507260,
-  "name": "GUNUNG JATI"
+  "districtName": "JABUNG",
+  "name": "GUNUNG JATI",
+  "postalCode": "32384"
  }
 ]

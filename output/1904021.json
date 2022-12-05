@@ -2,36 +2,50 @@
  {
   "id": 1904021001,
   "districtId": 1904021,
-  "name": "BELILIK"
+  "districtName": "NAMANG",
+  "name": "BELILIK",
+  "postalCode": "33684"
  },
  {
   "id": 1904021002,
   "districtId": 1904021,
-  "name": "NAMANG"
+  "districtName": "NAMANG",
+  "name": "NAMANG",
+  "postalCode": "33684"
  },
  {
   "id": 1904021004,
   "districtId": 1904021,
-  "name": "CAMBAI"
+  "districtName": "NAMANG",
+  "name": "CAMBAI",
+  "postalCode": "31141"
  },
  {
   "id": 1904021005,
   "districtId": 1904021,
-  "name": "KAYU BESI"
+  "districtName": "NAMANG",
+  "name": "KAYU BESI",
+  "postalCode": "33684"
  },
  {
   "id": 1904021006,
   "districtId": 1904021,
-  "name": "BUKIT KIJANG"
+  "districtName": "NAMANG",
+  "name": "BUKIT KIJANG",
+  "postalCode": "33681"
  },
  {
   "id": 1904021007,
   "districtId": 1904021,
-  "name": "BASKARA BAKTI"
+  "districtName": "NAMANG",
+  "name": "BASKARA BAKTI",
+  "postalCode": ""
  },
  {
   "id": 1904021008,
   "districtId": 1904021,
-  "name": "CAMBAI SELATAN"
+  "districtName": "NAMANG",
+  "name": "CAMBAI SELATAN",
+  "postalCode": "33684"
  }
 ]

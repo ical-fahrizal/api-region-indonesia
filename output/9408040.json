@@ -2,51 +2,71 @@
  {
   "id": 9408040009,
   "districtId": 9408040,
-  "name": "W A B O"
+  "districtName": "YAPEN TIMUR",
+  "name": "W A B O",
+  "postalCode": ""
  },
  {
   "id": 9408040010,
   "districtId": 9408040,
-  "name": "KOROMBOBI"
+  "districtName": "YAPEN TIMUR",
+  "name": "KOROMBOBI",
+  "postalCode": ""
  },
  {
   "id": 9408040011,
   "districtId": 9408040,
-  "name": "WONSYUPI"
+  "districtName": "YAPEN TIMUR",
+  "name": "WONSYUPI",
+  "postalCode": ""
  },
  {
   "id": 9408040012,
   "districtId": 9408040,
-  "name": "WABOMPI"
+  "districtName": "YAPEN TIMUR",
+  "name": "WABOMPI",
+  "postalCode": "98252"
  },
  {
   "id": 9408040013,
   "districtId": 9408040,
-  "name": "NUNSEMBAI"
+  "districtName": "YAPEN TIMUR",
+  "name": "NUNSEMBAI",
+  "postalCode": ""
  },
  {
   "id": 9408040014,
   "districtId": 9408040,
-  "name": "MERERUNI"
+  "districtName": "YAPEN TIMUR",
+  "name": "MERERUNI",
+  "postalCode": ""
  },
  {
   "id": 9408040015,
   "districtId": 9408040,
-  "name": "DAWAI"
+  "districtName": "YAPEN TIMUR",
+  "name": "DAWAI",
+  "postalCode": "98252"
  },
  {
   "id": 9408040016,
   "districtId": 9408040,
-  "name": "AWUNAWAI"
+  "districtName": "YAPEN TIMUR",
+  "name": "AWUNAWAI",
+  "postalCode": "98252"
  },
  {
   "id": 9408040017,
   "districtId": 9408040,
-  "name": "NUNSYIARI"
+  "districtName": "YAPEN TIMUR",
+  "name": "NUNSYIARI",
+  "postalCode": ""
  },
  {
   "id": 9408040019,
   "districtId": 9408040,
-  "name": "DUAI"
+  "districtName": "YAPEN TIMUR",
+  "name": "DUAI",
+  "postalCode": "98171"
  }
 ]

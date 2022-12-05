@@ -2,51 +2,71 @@
  {
   "id": 3602050001,
   "districtId": 3602050,
-  "name": "KANDANGSAPI"
+  "districtName": "CIJAKU",
+  "name": "KANDANGSAPI",
+  "postalCode": "42395"
  },
  {
   "id": 3602050002,
   "districtId": 3602050,
-  "name": "CIHUJAN"
+  "districtName": "CIJAKU",
+  "name": "CIHUJAN",
+  "postalCode": "42395"
  },
  {
   "id": 3602050003,
   "districtId": 3602050,
-  "name": "CIAPUS"
+  "districtName": "CIJAKU",
+  "name": "CIAPUS",
+  "postalCode": "40377"
  },
  {
   "id": 3602050005,
   "districtId": 3602050,
-  "name": "CIJAKU"
+  "districtName": "CIJAKU",
+  "name": "CIJAKU",
+  "postalCode": "42395"
  },
  {
   "id": 3602050006,
   "districtId": 3602050,
-  "name": "MEKARJAYA"
+  "districtName": "CIJAKU",
+  "name": "MEKARJAYA",
+  "postalCode": "30653"
  },
  {
   "id": 3602050007,
   "districtId": 3602050,
-  "name": "CIPALABUH"
+  "districtName": "CIJAKU",
+  "name": "CIPALABUH",
+  "postalCode": "42395"
  },
  {
   "id": 3602050008,
   "districtId": 3602050,
-  "name": "CIBEUREUM"
+  "districtName": "CIJAKU",
+  "name": "CIBEUREUM",
+  "postalCode": "46313"
  },
  {
   "id": 3602050009,
   "districtId": 3602050,
-  "name": "CIMENGA"
+  "districtName": "CIJAKU",
+  "name": "CIMENGA",
+  "postalCode": "45562"
  },
  {
   "id": 3602050010,
   "districtId": 3602050,
-  "name": "SUKASENANG"
+  "districtName": "CIJAKU",
+  "name": "SUKASENANG",
+  "postalCode": "44191"
  },
  {
   "id": 3602050011,
   "districtId": 3602050,
-  "name": "KAPUNDUHAN"
+  "districtName": "CIJAKU",
+  "name": "KAPUNDUHAN",
+  "postalCode": "42395"
  }
 ]

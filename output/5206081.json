@@ -2,36 +2,50 @@
  {
   "id": 5206081001,
   "districtId": 5206081,
-  "name": "BAJO"
+  "districtName": "SOROMANDI",
+  "name": "BAJO",
+  "postalCode": "58381"
  },
  {
   "id": 5206081002,
   "districtId": 5206081,
-  "name": "PUNTI"
+  "districtName": "SOROMANDI",
+  "name": "PUNTI",
+  "postalCode": "24453"
  },
  {
   "id": 5206081003,
   "districtId": 5206081,
-  "name": "WADUKOPA"
+  "districtName": "SOROMANDI",
+  "name": "WADUKOPA",
+  "postalCode": "84162"
  },
  {
   "id": 5206081004,
   "districtId": 5206081,
-  "name": "KANANTA"
+  "districtName": "SOROMANDI",
+  "name": "KANANTA",
+  "postalCode": "84162"
  },
  {
   "id": 5206081005,
   "districtId": 5206081,
-  "name": "SAI"
+  "districtName": "SOROMANDI",
+  "name": "SAI",
+  "postalCode": "84162"
  },
  {
   "id": 5206081006,
   "districtId": 5206081,
-  "name": "SAMPUNGU"
+  "districtName": "SOROMANDI",
+  "name": "SAMPUNGU",
+  "postalCode": "84162"
  },
  {
   "id": 5206081007,
   "districtId": 5206081,
-  "name": "LEWINTANA"
+  "districtName": "SOROMANDI",
+  "name": "LEWINTANA",
+  "postalCode": ""
  }
 ]

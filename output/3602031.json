@@ -2,51 +2,71 @@
  {
   "id": 3602031001,
   "districtId": 3602031,
-  "name": "CIBARENO"
+  "districtName": "CILOGRANG",
+  "name": "CIBARENO",
+  "postalCode": "42393"
  },
  {
   "id": 3602031002,
   "districtId": 3602031,
-  "name": "CILOGRANG"
+  "districtName": "CILOGRANG",
+  "name": "CILOGRANG",
+  "postalCode": "42393"
  },
  {
   "id": 3602031003,
   "districtId": 3602031,
-  "name": "LEBAKTIPAR"
+  "districtName": "CILOGRANG",
+  "name": "LEBAKTIPAR",
+  "postalCode": "42393"
  },
  {
   "id": 3602031004,
   "districtId": 3602031,
-  "name": "CIKATOMAS"
+  "districtName": "CILOGRANG",
+  "name": "CIKATOMAS",
+  "postalCode": "42393"
  },
  {
   "id": 3602031005,
   "districtId": 3602031,
-  "name": "CIJENGKOL"
+  "districtName": "CILOGRANG",
+  "name": "CIJENGKOL",
+  "postalCode": "43154"
  },
  {
   "id": 3602031006,
   "districtId": 3602031,
-  "name": "PASIRBUNGUR"
+  "districtName": "CILOGRANG",
+  "name": "PASIRBUNGUR",
+  "postalCode": "41261"
  },
  {
   "id": 3602031007,
   "districtId": 3602031,
-  "name": "CIKAMUNDING"
+  "districtName": "CILOGRANG",
+  "name": "CIKAMUNDING",
+  "postalCode": "42393"
  },
  {
   "id": 3602031008,
   "districtId": 3602031,
-  "name": "GIRIMUKTI"
+  "districtName": "CILOGRANG",
+  "name": "GIRIMUKTI",
+  "postalCode": "46475"
  },
  {
   "id": 3602031009,
   "districtId": 3602031,
-  "name": "CIREUNDEU"
+  "districtName": "CILOGRANG",
+  "name": "CIREUNDEU",
+  "postalCode": "42393"
  },
  {
   "id": 3602031010,
   "districtId": 3602031,
-  "name": "GUNUNGBATU"
+  "districtName": "CILOGRANG",
+  "name": "GUNUNGBATU",
+  "postalCode": "16118"
  }
 ]

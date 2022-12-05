@@ -2,51 +2,71 @@
  {
   "id": 1215030001,
   "districtId": 1215030,
-  "name": "SANGGARAN I"
+  "districtName": "SIJAMA POLANG",
+  "name": "SANGGARAN I",
+  "postalCode": "22457"
  },
  {
   "id": 1215030002,
   "districtId": 1215030,
-  "name": "SITAPONGAN"
+  "districtName": "SIJAMA POLANG",
+  "name": "SITAPONGAN",
+  "postalCode": "22457"
  },
  {
   "id": 1215030003,
   "districtId": 1215030,
-  "name": "SIBUNTUON"
+  "districtName": "SIJAMA POLANG",
+  "name": "SIBUNTUON",
+  "postalCode": "22312"
  },
  {
   "id": 1215030004,
   "districtId": 1215030,
-  "name": "SIGULOK"
+  "districtName": "SIJAMA POLANG",
+  "name": "SIGULOK",
+  "postalCode": "22457"
  },
  {
   "id": 1215030005,
   "districtId": 1215030,
-  "name": "BATUNAJAGAR"
+  "districtName": "SIJAMA POLANG",
+  "name": "BATUNAJAGAR",
+  "postalCode": ""
  },
  {
   "id": 1215030006,
   "districtId": 1215030,
-  "name": "BONAN DOLOK II"
+  "districtName": "SIJAMA POLANG",
+  "name": "BONAN DOLOK II",
+  "postalCode": "22312"
  },
  {
   "id": 1215030007,
   "districtId": 1215030,
-  "name": "BONAN DOLOK I"
+  "districtName": "SIJAMA POLANG",
+  "name": "BONAN DOLOK I",
+  "postalCode": "22312"
  },
  {
   "id": 1215030008,
   "districtId": 1215030,
-  "name": "HUTAGINJANG"
+  "districtName": "SIJAMA POLANG",
+  "name": "HUTAGINJANG",
+  "postalCode": "22457"
  },
  {
   "id": 1215030009,
   "districtId": 1215030,
-  "name": "SIBORBORON"
+  "districtName": "SIJAMA POLANG",
+  "name": "SIBORBORON",
+  "postalCode": "22457"
  },
  {
   "id": 1215030010,
   "districtId": 1215030,
-  "name": "NAGURGURAN"
+  "districtName": "SIJAMA POLANG",
+  "name": "NAGURGURAN",
+  "postalCode": "22457"
  }
 ]

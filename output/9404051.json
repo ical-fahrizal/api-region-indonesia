@@ -2,21 +2,29 @@
  {
   "id": 9404051001,
   "districtId": 9404051,
-  "name": "LOKODIMI"
+  "districtName": "MENOU",
+  "name": "LOKODIMI",
+  "postalCode": ""
  },
  {
   "id": 9404051002,
   "districtId": 9404051,
-  "name": "YEGEUGI"
+  "districtName": "MENOU",
+  "name": "YEGEUGI",
+  "postalCode": ""
  },
  {
   "id": 9404051003,
   "districtId": 9404051,
-  "name": "OGIYAI / WAISAI"
+  "districtName": "MENOU",
+  "name": "OGIYAI / WAISAI",
+  "postalCode": ""
  },
  {
   "id": 9404051004,
   "districtId": 9404051,
-  "name": "KUNUPI / OBAIPOTO"
+  "districtName": "MENOU",
+  "name": "KUNUPI / OBAIPOTO",
+  "postalCode": ""
  }
 ]

@@ -2,11 +2,15 @@
  {
   "id": 1305070001,
   "districtId": 1305070,
-  "name": "PADANG GANTING"
+  "districtName": "PADANG GANTING",
+  "name": "PADANG GANTING",
+  "postalCode": "27282"
  },
  {
   "id": 1305070002,
   "districtId": 1305070,
-  "name": "ATAR"
+  "districtName": "PADANG GANTING",
+  "name": "ATAR",
+  "postalCode": "27282"
  }
 ]

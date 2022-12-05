@@ -2,16 +2,22 @@
  {
   "id": 2104021001,
   "districtId": 2104021,
-  "name": "BERHALA"
+  "districtName": "SINGKEP SELATAN",
+  "name": "BERHALA",
+  "postalCode": "29871"
  },
  {
   "id": 2104021002,
   "districtId": 2104021,
-  "name": "MAROK KECIL"
+  "districtName": "SINGKEP SELATAN",
+  "name": "MAROK KECIL",
+  "postalCode": "29871"
  },
  {
   "id": 2104021003,
   "districtId": 2104021,
-  "name": "RESANG"
+  "districtName": "SINGKEP SELATAN",
+  "name": "RESANG",
+  "postalCode": ""
  }
 ]

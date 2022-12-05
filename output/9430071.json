@@ -2,31 +2,43 @@
  {
   "id": 9430071001,
   "districtId": 9430071,
-  "name": "PONALO"
+  "districtName": "WEREKA",
+  "name": "PONALO",
+  "postalCode": ""
  },
  {
   "id": 9430071003,
   "districtId": 9430071,
-  "name": "TIWA"
+  "districtName": "WEREKA",
+  "name": "TIWA",
+  "postalCode": "99563"
  },
  {
   "id": 9430071004,
   "districtId": 9430071,
-  "name": "TABUKEKER"
+  "districtName": "WEREKA",
+  "name": "TABUKEKER",
+  "postalCode": "99563"
  },
  {
   "id": 9430071005,
   "districtId": 9430071,
-  "name": "LURA MARAH"
+  "districtName": "WEREKA",
+  "name": "LURA MARAH",
+  "postalCode": ""
  },
  {
   "id": 9430071007,
   "districtId": 9430071,
-  "name": "BEYONGWI"
+  "districtName": "WEREKA",
+  "name": "BEYONGWI",
+  "postalCode": ""
  },
  {
   "id": 9430071008,
   "districtId": 9430071,
-  "name": "WURAGI"
+  "districtName": "WEREKA",
+  "name": "WURAGI",
+  "postalCode": ""
  }
 ]

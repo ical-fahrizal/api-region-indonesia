@@ -2,41 +2,57 @@
  {
   "id": 1806011001,
   "districtId": 1806011,
-  "name": "SIDOKAYO"
+  "districtName": "ABUNG TINGGI",
+  "name": "SIDOKAYO",
+  "postalCode": ""
  },
  {
   "id": 1806011002,
   "districtId": 1806011,
-  "name": "SEKIPI"
+  "districtName": "ABUNG TINGGI",
+  "name": "SEKIPI",
+  "postalCode": "34556"
  },
  {
   "id": 1806011003,
   "districtId": 1806011,
-  "name": "MUARA DUA"
+  "districtName": "ABUNG TINGGI",
+  "name": "MUARA DUA",
+  "postalCode": "28771"
  },
  {
   "id": 1806011004,
   "districtId": 1806011,
-  "name": "ULAK RENGAS"
+  "districtName": "ABUNG TINGGI",
+  "name": "ULAK RENGAS",
+  "postalCode": "34556"
  },
  {
   "id": 1806011005,
   "districtId": 1806011,
-  "name": "PULAU PANGGUNG"
+  "districtName": "ABUNG TINGGI",
+  "name": "PULAU PANGGUNG",
+  "postalCode": "32279"
  },
  {
   "id": 1806011006,
   "districtId": 1806011,
-  "name": "KEBON DALAM"
+  "districtName": "ABUNG TINGGI",
+  "name": "KEBON DALAM",
+  "postalCode": ""
  },
  {
   "id": 1806011007,
   "districtId": 1806011,
-  "name": "SUKAMAJU"
+  "districtName": "ABUNG TINGGI",
+  "name": "SUKAMAJU",
+  "postalCode": "22465"
  },
  {
   "id": 1806011008,
   "districtId": 1806011,
-  "name": "SUKAMARGA"
+  "districtName": "ABUNG TINGGI",
+  "name": "SUKAMARGA",
+  "postalCode": "32274"
  }
 ]

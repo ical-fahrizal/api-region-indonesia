@@ -2,26 +2,36 @@
  {
   "id": 5271011001,
   "districtId": 5271011,
-  "name": "JEMPONG BARU"
+  "districtName": "SEKARBELA",
+  "name": "JEMPONG BARU",
+  "postalCode": ""
  },
  {
   "id": 5271011002,
   "districtId": 5271011,
-  "name": "TANJUNG KARANG"
+  "districtName": "SEKARBELA",
+  "name": "TANJUNG KARANG",
+  "postalCode": "24476"
  },
  {
   "id": 5271011003,
   "districtId": 5271011,
-  "name": "KARANG PULE"
+  "districtName": "SEKARBELA",
+  "name": "KARANG PULE",
+  "postalCode": "83116"
  },
  {
   "id": 5271011004,
   "districtId": 5271011,
-  "name": "TANJUNG KARANG PERMAI"
+  "districtName": "SEKARBELA",
+  "name": "TANJUNG KARANG PERMAI",
+  "postalCode": "83116"
  },
  {
   "id": 5271011005,
   "districtId": 5271011,
-  "name": "KEKALIK JAYA"
+  "districtName": "SEKARBELA",
+  "name": "KEKALIK JAYA",
+  "postalCode": "83116"
  }
 ]

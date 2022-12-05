@@ -2,41 +2,57 @@
  {
   "id": 9416061001,
   "districtId": 9416061,
-  "name": "TIBUL"
+  "districtName": "TALAMBO",
+  "name": "TIBUL",
+  "postalCode": ""
  },
  {
   "id": 9416061002,
   "districtId": 9416061,
-  "name": "LELAMBO"
+  "districtName": "TALAMBO",
+  "name": "LELAMBO",
+  "postalCode": "99582"
  },
  {
   "id": 9416061003,
   "districtId": 9416061,
-  "name": "KIKILA"
+  "districtName": "TALAMBO",
+  "name": "KIKILA",
+  "postalCode": "99582"
  },
  {
   "id": 9416061004,
   "districtId": 9416061,
-  "name": "BARI"
+  "districtName": "TALAMBO",
+  "name": "BARI",
+  "postalCode": "86756"
  },
  {
   "id": 9416061006,
   "districtId": 9416061,
-  "name": "PALUKAE"
+  "districtName": "TALAMBO",
+  "name": "PALUKAE",
+  "postalCode": "99582"
  },
  {
   "id": 9416061007,
   "districtId": 9416061,
-  "name": "WUBRI"
+  "districtName": "TALAMBO",
+  "name": "WUBRI",
+  "postalCode": "99582"
  },
  {
   "id": 9416061008,
   "districtId": 9416061,
-  "name": "PALEROMON"
+  "districtName": "TALAMBO",
+  "name": "PALEROMON",
+  "postalCode": ""
  },
  {
   "id": 9416061009,
   "districtId": 9416061,
-  "name": "LELAMBO 2"
+  "districtName": "TALAMBO",
+  "name": "LELAMBO 2",
+  "postalCode": ""
  }
 ]

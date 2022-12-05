@@ -2,26 +2,36 @@
  {
   "id": 6502030001,
   "districtId": 6502030,
-  "name": "LONG BELUAH"
+  "districtName": "TANJUNG PALAS BARAT",
+  "name": "LONG BELUAH",
+  "postalCode": "77217"
  },
  {
   "id": 6502030002,
   "districtId": 6502030,
-  "name": "LONG SAM"
+  "districtName": "TANJUNG PALAS BARAT",
+  "name": "LONG SAM",
+  "postalCode": "77217"
  },
  {
   "id": 6502030003,
   "districtId": 6502030,
-  "name": "LONG PARI"
+  "districtName": "TANJUNG PALAS BARAT",
+  "name": "LONG PARI",
+  "postalCode": "77217"
  },
  {
   "id": 6502030004,
   "districtId": 6502030,
-  "name": "MARA SATU"
+  "districtName": "TANJUNG PALAS BARAT",
+  "name": "MARA SATU",
+  "postalCode": "77217"
  },
  {
   "id": 6502030005,
   "districtId": 6502030,
-  "name": "MARA HILIR"
+  "districtName": "TANJUNG PALAS BARAT",
+  "name": "MARA HILIR",
+  "postalCode": "77217"
  }
 ]

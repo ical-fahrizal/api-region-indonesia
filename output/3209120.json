@@ -2,61 +2,85 @@
  {
   "id": 3209120010,
   "districtId": 3209120,
-  "name": "MATANGAJI"
+  "districtName": "SUMBER",
+  "name": "MATANGAJI",
+  "postalCode": "45611"
  },
  {
   "id": 3209120011,
   "districtId": 3209120,
-  "name": "SIDAWANGI"
+  "districtName": "SUMBER",
+  "name": "SIDAWANGI",
+  "postalCode": "45611"
  },
  {
   "id": 3209120014,
   "districtId": 3209120,
-  "name": "BABAKAN"
+  "districtName": "SUMBER",
+  "name": "BABAKAN",
+  "postalCode": "35675"
  },
  {
   "id": 3209120016,
   "districtId": 3209120,
-  "name": "PERBUTULAN"
+  "districtName": "SUMBER",
+  "name": "PERBUTULAN",
+  "postalCode": "45613"
  },
  {
   "id": 3209120017,
   "districtId": 3209120,
-  "name": "KEMANTREN"
+  "districtName": "SUMBER",
+  "name": "KEMANTREN",
+  "postalCode": "45611"
  },
  {
   "id": 3209120018,
   "districtId": 3209120,
-  "name": "SENDANG"
+  "districtName": "SUMBER",
+  "name": "SENDANG",
+  "postalCode": "45283"
  },
  {
   "id": 3209120020,
   "districtId": 3209120,
-  "name": "PEJAMBON"
+  "districtName": "SUMBER",
+  "name": "PEJAMBON",
+  "postalCode": "35353"
  },
  {
   "id": 3209120021,
   "districtId": 3209120,
-  "name": "WATUBELAH"
+  "districtName": "SUMBER",
+  "name": "WATUBELAH",
+  "postalCode": "45611"
  },
  {
   "id": 3209120022,
   "districtId": 3209120,
-  "name": "PASALAKAN"
+  "districtName": "SUMBER",
+  "name": "PASALAKAN",
+  "postalCode": "45611"
  },
  {
   "id": 3209120023,
   "districtId": 3209120,
-  "name": "KALIWADAS"
+  "districtName": "SUMBER",
+  "name": "KALIWADAS",
+  "postalCode": "45611"
  },
  {
   "id": 3209120024,
   "districtId": 3209120,
-  "name": "TUKMUDAL"
+  "districtName": "SUMBER",
+  "name": "TUKMUDAL",
+  "postalCode": "45611"
  },
  {
   "id": 3209120025,
   "districtId": 3209120,
-  "name": "KENANGA"
+  "districtName": "SUMBER",
+  "name": "KENANGA",
+  "postalCode": "31619"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 3322130001,
   "districtId": 3322130,
-  "name": "DEREKAN"
+  "districtName": "PRINGAPUS",
+  "name": "DEREKAN",
+  "postalCode": "50214"
  },
  {
   "id": 3322130003,
   "districtId": 3322130,
-  "name": "PRINGAPUS"
+  "districtName": "PRINGAPUS",
+  "name": "PRINGAPUS",
+  "postalCode": "56255"
  },
  {
   "id": 3322130004,
   "districtId": 3322130,
-  "name": "PRINGSARI"
+  "districtName": "PRINGAPUS",
+  "name": "PRINGSARI",
+  "postalCode": "50214"
  },
  {
   "id": 3322130005,
   "districtId": 3322130,
-  "name": "JATIRUNGGO"
+  "districtName": "PRINGAPUS",
+  "name": "JATIRUNGGO",
+  "postalCode": "50214"
  },
  {
   "id": 3322130006,
   "districtId": 3322130,
-  "name": "WONOYOSO"
+  "districtName": "PRINGAPUS",
+  "name": "WONOYOSO",
+  "postalCode": "51171"
  },
  {
   "id": 3322130007,
   "districtId": 3322130,
-  "name": "WONOREJO"
+  "districtName": "PRINGAPUS",
+  "name": "WONOREJO",
+  "postalCode": "21186"
  },
  {
   "id": 3322130008,
   "districtId": 3322130,
-  "name": "CANDIREJO"
+  "districtName": "PRINGAPUS",
+  "name": "CANDIREJO",
+  "postalCode": "51274"
  },
  {
   "id": 3322130009,
   "districtId": 3322130,
-  "name": "PENAWANGAN"
+  "districtName": "PRINGAPUS",
+  "name": "PENAWANGAN",
+  "postalCode": "53482"
  }
 ]

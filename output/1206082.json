@@ -2,51 +2,71 @@
  {
   "id": 1206082001,
   "districtId": 1206082,
-  "name": "SIRUNGKUNGON"
+  "districtName": "AJIBATA",
+  "name": "SIRUNGKUNGON",
+  "postalCode": "22386"
  },
  {
   "id": 1206082002,
   "districtId": 1206082,
-  "name": "PARSAORAN SIBISA"
+  "districtName": "AJIBATA",
+  "name": "PARSAORAN SIBISA",
+  "postalCode": "22386"
  },
  {
   "id": 1206082003,
   "districtId": 1206082,
-  "name": "PARDAMEAN SIBISA"
+  "districtName": "AJIBATA",
+  "name": "PARDAMEAN SIBISA",
+  "postalCode": "22386"
  },
  {
   "id": 1206082004,
   "districtId": 1206082,
-  "name": "SIGAPITON"
+  "districtName": "AJIBATA",
+  "name": "SIGAPITON",
+  "postalCode": "22386"
  },
  {
   "id": 1206082005,
   "districtId": 1206082,
-  "name": "HORSIK"
+  "districtName": "AJIBATA",
+  "name": "HORSIK",
+  "postalCode": "22386"
  },
  {
   "id": 1206082006,
   "districtId": 1206082,
-  "name": "MOTUNG"
+  "districtName": "AJIBATA",
+  "name": "MOTUNG",
+  "postalCode": "22386"
  },
  {
   "id": 1206082007,
   "districtId": 1206082,
-  "name": "PARSAORAN AJIBATA"
+  "districtName": "AJIBATA",
+  "name": "PARSAORAN AJIBATA",
+  "postalCode": "22386"
  },
  {
   "id": 1206082008,
   "districtId": 1206082,
-  "name": "PARDOMUAN AJIBATA"
+  "districtName": "AJIBATA",
+  "name": "PARDOMUAN AJIBATA",
+  "postalCode": "22386"
  },
  {
   "id": 1206082009,
   "districtId": 1206082,
-  "name": "PARDAMEAN AJIBATA"
+  "districtName": "AJIBATA",
+  "name": "PARDAMEAN AJIBATA",
+  "postalCode": "22386"
  },
  {
   "id": 1206082010,
   "districtId": 1206082,
-  "name": "PARDOMUAN MOTUNG"
+  "districtName": "AJIBATA",
+  "name": "PARDOMUAN MOTUNG",
+  "postalCode": "22386"
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 6403070001,
   "districtId": 6403070,
-  "name": "LEBAK CILONG"
+  "districtName": "MUARA WIS",
+  "name": "LEBAK CILONG",
+  "postalCode": "75559"
  },
  {
   "id": 6403070002,
   "districtId": 6403070,
-  "name": "LEBAK MANTAN"
+  "districtName": "MUARA WIS",
+  "name": "LEBAK MANTAN",
+  "postalCode": "75559"
  },
  {
   "id": 6403070003,
   "districtId": 6403070,
-  "name": "MUARA WIS"
+  "districtName": "MUARA WIS",
+  "name": "MUARA WIS",
+  "postalCode": "75559"
  },
  {
   "id": 6403070004,
   "districtId": 6403070,
-  "name": "SEBEMBAN"
+  "districtName": "MUARA WIS",
+  "name": "SEBEMBAN",
+  "postalCode": "78564"
  },
  {
   "id": 6403070005,
   "districtId": 6403070,
-  "name": "MELINTANG"
+  "districtName": "MUARA WIS",
+  "name": "MELINTANG",
+  "postalCode": "33136"
  },
  {
   "id": 6403070006,
   "districtId": 6403070,
-  "name": "ENGGELAM"
+  "districtName": "MUARA WIS",
+  "name": "ENGGELAM",
+  "postalCode": "75559"
  },
  {
   "id": 6403070007,
   "districtId": 6403070,
-  "name": "MUARA ENGGELAM"
+  "districtName": "MUARA WIS",
+  "name": "MUARA ENGGELAM",
+  "postalCode": "75559"
  }
 ]

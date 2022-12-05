@@ -2,86 +2,120 @@
  {
   "id": 3318030001,
   "districtId": 3318030,
-  "name": "PAKIS"
+  "districtName": "TAMBAKROMO",
+  "name": "PAKIS",
+  "postalCode": "50772"
  },
  {
   "id": 3318030002,
   "districtId": 3318030,
-  "name": "MAITAN"
+  "districtName": "TAMBAKROMO",
+  "name": "MAITAN",
+  "postalCode": "59174"
  },
  {
   "id": 3318030003,
   "districtId": 3318030,
-  "name": "WUKIRSARI"
+  "districtName": "TAMBAKROMO",
+  "name": "WUKIRSARI",
+  "postalCode": "59174"
  },
  {
   "id": 3318030004,
   "districtId": 3318030,
-  "name": "SINOMWIDODO"
+  "districtName": "TAMBAKROMO",
+  "name": "SINOMWIDODO",
+  "postalCode": "59174"
  },
  {
   "id": 3318030006,
   "districtId": 3318030,
-  "name": "LARANGAN"
+  "districtName": "TAMBAKROMO",
+  "name": "LARANGAN",
+  "postalCode": "45141"
  },
  {
   "id": 3318030007,
   "districtId": 3318030,
-  "name": "TAMBAKROMO"
+  "districtName": "TAMBAKROMO",
+  "name": "TAMBAKROMO",
+  "postalCode": "58315"
  },
  {
   "id": 3318030008,
   "districtId": 3318030,
-  "name": "MOJOMULYO"
+  "districtName": "TAMBAKROMO",
+  "name": "MOJOMULYO",
+  "postalCode": "59174"
  },
  {
   "id": 3318030009,
   "districtId": 3318030,
-  "name": "KARANGAWEN"
+  "districtName": "TAMBAKROMO",
+  "name": "KARANGAWEN",
+  "postalCode": "59566"
  },
  {
   "id": 3318030010,
   "districtId": 3318030,
-  "name": "MANGUNREKSO"
+  "districtName": "TAMBAKROMO",
+  "name": "MANGUNREKSO",
+  "postalCode": "59174"
  },
  {
   "id": 3318030011,
   "districtId": 3318030,
-  "name": "TAMBAHARJO"
+  "districtName": "TAMBAKROMO",
+  "name": "TAMBAHARJO",
+  "postalCode": "59119"
  },
  {
   "id": 3318030012,
   "districtId": 3318030,
-  "name": "TAMBAHAGUNG"
+  "districtName": "TAMBAKROMO",
+  "name": "TAMBAHAGUNG",
+  "postalCode": "59174"
  },
  {
   "id": 3318030013,
   "districtId": 3318030,
-  "name": "SITIREJO"
+  "districtName": "TAMBAKROMO",
+  "name": "SITIREJO",
+  "postalCode": "54381"
  },
  {
   "id": 3318030014,
   "districtId": 3318030,
-  "name": "KEDALINGAN"
+  "districtName": "TAMBAKROMO",
+  "name": "KEDALINGAN",
+  "postalCode": "59174"
  },
  {
   "id": 3318030015,
   "districtId": 3318030,
-  "name": "KARANGMULYO"
+  "districtName": "TAMBAKROMO",
+  "name": "KARANGMULYO",
+  "postalCode": "52465"
  },
  {
   "id": 3318030016,
   "districtId": 3318030,
-  "name": "KARANGWONO"
+  "districtName": "TAMBAKROMO",
+  "name": "KARANGWONO",
+  "postalCode": "59174"
  },
  {
   "id": 3318030017,
   "districtId": 3318030,
-  "name": "ANGKATAN LOR"
+  "districtName": "TAMBAKROMO",
+  "name": "ANGKATAN LOR",
+  "postalCode": "59174"
  },
  {
   "id": 3318030018,
   "districtId": 3318030,
-  "name": "ANGKATAN KIDUL"
+  "districtName": "TAMBAKROMO",
+  "name": "ANGKATAN KIDUL",
+  "postalCode": "59174"
  }
 ]

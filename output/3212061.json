@@ -2,66 +2,92 @@
  {
   "id": 3212061001,
   "districtId": 3212061,
-  "name": "BODAS"
+  "districtName": "TUKDANA",
+  "name": "BODAS",
+  "postalCode": "45272"
  },
  {
   "id": 3212061002,
   "districtId": 3212061,
-  "name": "GADEL"
+  "districtName": "TUKDANA",
+  "name": "GADEL",
+  "postalCode": "45272"
  },
  {
   "id": 3212061003,
   "districtId": 3212061,
-  "name": "RANCAJAWAT"
+  "districtName": "TUKDANA",
+  "name": "RANCAJAWAT",
+  "postalCode": "45272"
  },
  {
   "id": 3212061004,
   "districtId": 3212061,
-  "name": "KERTICALA"
+  "districtName": "TUKDANA",
+  "name": "KERTICALA",
+  "postalCode": "45272"
  },
  {
   "id": 3212061005,
   "districtId": 3212061,
-  "name": "SUKAMULYA"
+  "districtName": "TUKDANA",
+  "name": "SUKAMULYA",
+  "postalCode": "30657"
  },
  {
   "id": 3212061006,
   "districtId": 3212061,
-  "name": "KARANGKERTA"
+  "districtName": "TUKDANA",
+  "name": "KARANGKERTA",
+  "postalCode": "45272"
  },
  {
   "id": 3212061007,
   "districtId": 3212061,
-  "name": "CANGKO"
+  "districtName": "TUKDANA",
+  "name": "CANGKO",
+  "postalCode": "45272"
  },
  {
   "id": 3212061008,
   "districtId": 3212061,
-  "name": "PAGEDANGAN"
+  "districtName": "TUKDANA",
+  "name": "PAGEDANGAN",
+  "postalCode": "45272"
  },
  {
   "id": 3212061009,
   "districtId": 3212061,
-  "name": "SUKAPERNA"
+  "districtName": "TUKDANA",
+  "name": "SUKAPERNA",
+  "postalCode": "45463"
  },
  {
   "id": 3212061010,
   "districtId": 3212061,
-  "name": "SUKADANA"
+  "districtName": "TUKDANA",
+  "name": "SUKADANA",
+  "postalCode": "30611"
  },
  {
   "id": 3212061011,
   "districtId": 3212061,
-  "name": "TUKDANA"
+  "districtName": "TUKDANA",
+  "name": "TUKDANA",
+  "postalCode": "45272"
  },
  {
   "id": 3212061012,
   "districtId": 3212061,
-  "name": "LAJER"
+  "districtName": "TUKDANA",
+  "name": "LAJER",
+  "postalCode": "45272"
  },
  {
   "id": 3212061013,
   "districtId": 3212061,
-  "name": "MEKARSARI"
+  "districtName": "TUKDANA",
+  "name": "MEKARSARI",
+  "postalCode": "37482"
  }
 ]

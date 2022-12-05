@@ -2,71 +2,99 @@
  {
   "id": 1606091001,
   "districtId": 1606091,
-  "name": "TENGGARO"
+  "districtName": "KELUANG",
+  "name": "TENGGARO",
+  "postalCode": "30754"
  },
  {
   "id": 1606091002,
   "districtId": 1606091,
-  "name": "KELUANG"
+  "districtName": "KELUANG",
+  "name": "KELUANG",
+  "postalCode": "30754"
  },
  {
   "id": 1606091003,
   "districtId": 1606091,
-  "name": "SUMBER AGUNG"
+  "districtName": "KELUANG",
+  "name": "SUMBER AGUNG",
+  "postalCode": "37353"
  },
  {
   "id": 1606091004,
   "districtId": 1606091,
-  "name": "KARYA MAJU"
+  "districtName": "KELUANG",
+  "name": "KARYA MAJU",
+  "postalCode": "20853"
  },
  {
   "id": 1606091005,
   "districtId": 1606091,
-  "name": "TEGAL MULYA"
+  "districtName": "KELUANG",
+  "name": "TEGAL MULYA",
+  "postalCode": "30754"
  },
  {
   "id": 1606091006,
   "districtId": 1606091,
-  "name": "MEKAR JAYA"
+  "districtName": "KELUANG",
+  "name": "MEKAR JAYA",
+  "postalCode": "20771"
  },
  {
   "id": 1606091007,
   "districtId": 1606091,
-  "name": "LOKA JAYA"
+  "districtName": "KELUANG",
+  "name": "LOKA JAYA",
+  "postalCode": "79674"
  },
  {
   "id": 1606091008,
   "districtId": 1606091,
-  "name": "DAWAS"
+  "districtName": "KELUANG",
+  "name": "DAWAS",
+  "postalCode": "30754"
  },
  {
   "id": 1606091009,
   "districtId": 1606091,
-  "name": "TANJUNG DALAM"
+  "districtName": "KELUANG",
+  "name": "TANJUNG DALAM",
+  "postalCode": "37372"
  },
  {
   "id": 1606091010,
   "districtId": 1606091,
-  "name": "CIPTA PRAJA"
+  "districtName": "KELUANG",
+  "name": "CIPTA PRAJA",
+  "postalCode": "30754"
  },
  {
   "id": 1606091011,
   "districtId": 1606091,
-  "name": "MEKARSARI"
+  "districtName": "KELUANG",
+  "name": "MEKARSARI",
+  "postalCode": "37482"
  },
  {
   "id": 1606091012,
   "districtId": 1606091,
-  "name": "MULYO ASIH"
+  "districtName": "KELUANG",
+  "name": "MULYO ASIH",
+  "postalCode": "30754"
  },
  {
   "id": 1606091013,
   "districtId": 1606091,
-  "name": "SIDO REJO"
+  "districtName": "KELUANG",
+  "name": "SIDO REJO",
+  "postalCode": "37553"
  },
  {
   "id": 1606091014,
   "districtId": 1606091,
-  "name": "SRIDAMAI"
+  "districtName": "KELUANG",
+  "name": "SRIDAMAI",
+  "postalCode": "30754"
  }
 ]

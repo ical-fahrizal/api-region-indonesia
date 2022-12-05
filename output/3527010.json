@@ -2,56 +2,78 @@
  {
   "id": 3527010001,
   "districtId": 3527010,
-  "name": "NOREH"
+  "districtName": "SRESEH",
+  "name": "NOREH",
+  "postalCode": "69273"
  },
  {
   "id": 3527010002,
   "districtId": 3527010,
-  "name": "LABUHAN"
+  "districtName": "SRESEH",
+  "name": "LABUHAN",
+  "postalCode": "34876"
  },
  {
   "id": 3527010003,
   "districtId": 3527010,
-  "name": "TAMAN"
+  "districtName": "SRESEH",
+  "name": "TAMAN",
+  "postalCode": "52361"
  },
  {
   "id": 3527010005,
   "districtId": 3527010,
-  "name": "DISANAH"
+  "districtName": "SRESEH",
+  "name": "DISANAH",
+  "postalCode": "69273"
  },
  {
   "id": 3527010006,
   "districtId": 3527010,
-  "name": "MARPARAN"
+  "districtName": "SRESEH",
+  "name": "MARPARAN",
+  "postalCode": "69273"
  },
  {
   "id": 3527010007,
   "districtId": 3527010,
-  "name": "KLOBUR"
+  "districtName": "SRESEH",
+  "name": "KLOBUR",
+  "postalCode": "69273"
  },
  {
   "id": 3527010008,
   "districtId": 3527010,
-  "name": "LABANG"
+  "districtName": "SRESEH",
+  "name": "LABANG",
+  "postalCode": "69163"
  },
  {
   "id": 3527010009,
   "districtId": 3527010,
-  "name": "BUNDAH"
+  "districtName": "SRESEH",
+  "name": "BUNDAH",
+  "postalCode": "69273"
  },
  {
   "id": 3527010010,
   "districtId": 3527010,
-  "name": "BANGSAH"
+  "districtName": "SRESEH",
+  "name": "BANGSAH",
+  "postalCode": "69273"
  },
  {
   "id": 3527010011,
   "districtId": 3527010,
-  "name": "PLASAH"
+  "districtName": "SRESEH",
+  "name": "PLASAH",
+  "postalCode": "69273"
  },
  {
   "id": 3527010012,
   "districtId": 3527010,
-  "name": "JUNOK"
+  "districtName": "SRESEH",
+  "name": "JUNOK",
+  "postalCode": ""
  }
 ]

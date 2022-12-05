@@ -2,76 +2,106 @@
  {
   "id": 3316050001,
   "districtId": 3316050,
-  "name": "GADON"
+  "districtName": "CEPU",
+  "name": "GADON",
+  "postalCode": "58315"
  },
  {
   "id": 3316050002,
   "districtId": 3316050,
-  "name": "NGLORAM"
+  "districtName": "CEPU",
+  "name": "NGLORAM",
+  "postalCode": "58315"
  },
  {
   "id": 3316050003,
   "districtId": 3316050,
-  "name": "CABEYAN"
+  "districtName": "CEPU",
+  "name": "CABEYAN",
+  "postalCode": "57528"
  },
  {
   "id": 3316050004,
   "districtId": 3316050,
-  "name": "KAPUAN"
+  "districtName": "CEPU",
+  "name": "KAPUAN",
+  "postalCode": "58315"
  },
  {
   "id": 3316050005,
   "districtId": 3316050,
-  "name": "JIPANG"
+  "districtName": "CEPU",
+  "name": "JIPANG",
+  "postalCode": "52274"
  },
  {
   "id": 3316050006,
   "districtId": 3316050,
-  "name": "GETAS"
+  "districtName": "CEPU",
+  "name": "GETAS",
+  "postalCode": "51274"
  },
  {
   "id": 3316050007,
   "districtId": 3316050,
-  "name": "SUMBERPITU"
+  "districtName": "CEPU",
+  "name": "SUMBERPITU",
+  "postalCode": "58315"
  },
  {
   "id": 3316050008,
   "districtId": 3316050,
-  "name": "KENTONG"
+  "districtName": "CEPU",
+  "name": "KENTONG",
+  "postalCode": "58315"
  },
  {
   "id": 3316050010,
   "districtId": 3316050,
-  "name": "MULYOREJO"
+  "districtName": "CEPU",
+  "name": "MULYOREJO",
+  "postalCode": "58315"
  },
  {
   "id": 3316050011,
   "districtId": 3316050,
-  "name": "TAMBAKROMO"
+  "districtName": "CEPU",
+  "name": "TAMBAKROMO",
+  "postalCode": "58315"
  },
  {
   "id": 3316050012,
   "districtId": 3316050,
-  "name": "NGLANJUK"
+  "districtName": "CEPU",
+  "name": "NGLANJUK",
+  "postalCode": "58315"
  },
  {
   "id": 3316050013,
   "districtId": 3316050,
-  "name": "BALUN"
+  "districtName": "CEPU",
+  "name": "BALUN",
+  "postalCode": "58311"
  },
  {
   "id": 3316050015,
   "districtId": 3316050,
-  "name": "NGELO"
+  "districtName": "CEPU",
+  "name": "NGELO",
+  "postalCode": "58313"
  },
  {
   "id": 3316050016,
   "districtId": 3316050,
-  "name": "KARANGBOYO"
+  "districtName": "CEPU",
+  "name": "KARANGBOYO",
+  "postalCode": "58315"
  },
  {
   "id": 3316050017,
   "districtId": 3316050,
-  "name": "NGROTO"
+  "districtName": "CEPU",
+  "name": "NGROTO",
+  "postalCode": "58314"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 6404053001,
   "districtId": 6404053,
-  "name": "CIPTA GRAHA"
+  "districtName": "KAUBUN",
+  "name": "CIPTA GRAHA",
+  "postalCode": "75619"
  },
  {
   "id": 6404053002,
   "districtId": 6404053,
-  "name": "BUMI JAYA"
+  "districtName": "KAUBUN",
+  "name": "BUMI JAYA",
+  "postalCode": "34583"
  },
  {
   "id": 6404053003,
   "districtId": 6404053,
-  "name": "BUMI RAPAK"
+  "districtName": "KAUBUN",
+  "name": "BUMI RAPAK",
+  "postalCode": "75619"
  },
  {
   "id": 6404053004,
   "districtId": 6404053,
-  "name": "BUMI ETAM"
+  "districtName": "KAUBUN",
+  "name": "BUMI ETAM",
+  "postalCode": "75619"
  },
  {
   "id": 6404053005,
   "districtId": 6404053,
-  "name": "MATA AIR"
+  "districtName": "KAUBUN",
+  "name": "MATA AIR",
+  "postalCode": "85361"
  },
  {
   "id": 6404053006,
   "districtId": 6404053,
-  "name": "BUKIT PERMATA"
+  "districtName": "KAUBUN",
+  "name": "BUKIT PERMATA",
+  "postalCode": "75619"
  },
  {
   "id": 6404053007,
   "districtId": 6404053,
-  "name": "KADUNGAN JAYA"
+  "districtName": "KAUBUN",
+  "name": "KADUNGAN JAYA",
+  "postalCode": "75619"
  },
  {
   "id": 6404053008,
   "districtId": 6404053,
-  "name": "PENGADAN BARU"
+  "districtName": "KAUBUN",
+  "name": "PENGADAN BARU",
+  "postalCode": "75619"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 3216082001,
   "districtId": 3216082,
-  "name": "KARANGSATRIA"
+  "districtName": "TAMBUN UTARA",
+  "name": "KARANGSATRIA",
+  "postalCode": "17510"
  },
  {
   "id": 3216082002,
   "districtId": 3216082,
-  "name": "SATRIAJAYA"
+  "districtName": "TAMBUN UTARA",
+  "name": "SATRIAJAYA",
+  "postalCode": "17510"
  },
  {
   "id": 3216082003,
   "districtId": 3216082,
-  "name": "JEJALENJAYA"
+  "districtName": "TAMBUN UTARA",
+  "name": "JEJALENJAYA",
+  "postalCode": ""
  },
  {
   "id": 3216082004,
   "districtId": 3216082,
-  "name": "SATRIAMEKAR"
+  "districtName": "TAMBUN UTARA",
+  "name": "SATRIAMEKAR",
+  "postalCode": "17510"
  },
  {
   "id": 3216082005,
   "districtId": 3216082,
-  "name": "SRIAMUR"
+  "districtName": "TAMBUN UTARA",
+  "name": "SRIAMUR",
+  "postalCode": "17510"
  },
  {
   "id": 3216082006,
   "districtId": 3216082,
-  "name": "SRIMUKTI"
+  "districtName": "TAMBUN UTARA",
+  "name": "SRIMUKTI",
+  "postalCode": "17510"
  },
  {
   "id": 3216082007,
   "districtId": 3216082,
-  "name": "SRIJAYA"
+  "districtName": "TAMBUN UTARA",
+  "name": "SRIJAYA",
+  "postalCode": "30153"
  },
  {
   "id": 3216082008,
   "districtId": 3216082,
-  "name": "SRIMAHI"
+  "districtName": "TAMBUN UTARA",
+  "name": "SRIMAHI",
+  "postalCode": "17510"
  }
 ]

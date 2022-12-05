@@ -2,31 +2,43 @@
  {
   "id": 1901091001,
   "districtId": 1901091,
-  "name": "PENYAMUN"
+  "districtName": "PEMALI",
+  "name": "PENYAMUN",
+  "postalCode": "33251"
  },
  {
   "id": 1901091002,
   "districtId": 1901091,
-  "name": "PEMALI"
+  "districtName": "PEMALI",
+  "name": "PEMALI",
+  "postalCode": "33255"
  },
  {
   "id": 1901091003,
   "districtId": 1901091,
-  "name": "AIR DUREN"
+  "districtName": "PEMALI",
+  "name": "AIR DUREN",
+  "postalCode": "33173"
  },
  {
   "id": 1901091004,
   "districtId": 1901091,
-  "name": "AIR RUAI"
+  "districtName": "PEMALI",
+  "name": "AIR RUAI",
+  "postalCode": "33255"
  },
  {
   "id": 1901091005,
   "districtId": 1901091,
-  "name": "KARYA MAKMUR"
+  "districtName": "PEMALI",
+  "name": "KARYA MAKMUR",
+  "postalCode": "32385"
  },
  {
   "id": 1901091006,
   "districtId": 1901091,
-  "name": "SEMPAN"
+  "districtName": "PEMALI",
+  "name": "SEMPAN",
+  "postalCode": "33251"
  }
 ]

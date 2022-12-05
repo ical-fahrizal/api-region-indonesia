@@ -2,31 +2,43 @@
  {
   "id": 3213020008,
   "districtId": 3213020,
-  "name": "SARIREJA"
+  "districtName": "JALANCAGAK",
+  "name": "SARIREJA",
+  "postalCode": "41281"
  },
  {
   "id": 3213020013,
   "districtId": 3213020,
-  "name": "KUMPAY"
+  "districtName": "JALANCAGAK",
+  "name": "KUMPAY",
+  "postalCode": "41281"
  },
  {
   "id": 3213020014,
   "districtId": 3213020,
-  "name": "TAMBAKAN"
+  "districtName": "JALANCAGAK",
+  "name": "TAMBAKAN",
+  "postalCode": "41281"
  },
  {
   "id": 3213020015,
   "districtId": 3213020,
-  "name": "JALANCAGAK"
+  "districtName": "JALANCAGAK",
+  "name": "JALANCAGAK",
+  "postalCode": "41281"
  },
  {
   "id": 3213020016,
   "districtId": 3213020,
-  "name": "BUNIHAYU"
+  "districtName": "JALANCAGAK",
+  "name": "BUNIHAYU",
+  "postalCode": "41281"
  },
  {
   "id": 3213020017,
   "districtId": 3213020,
-  "name": "TAMBAKMEKAR"
+  "districtName": "JALANCAGAK",
+  "name": "TAMBAKMEKAR",
+  "postalCode": "41281"
  }
 ]

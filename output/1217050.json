@@ -2,76 +2,106 @@
  {
   "id": 1217050001,
   "districtId": 1217050,
-  "name": "PASARAN PARSAORAN"
+  "districtName": "NAINGGOLAN",
+  "name": "PASARAN PARSAORAN",
+  "postalCode": "22394"
  },
  {
   "id": 1217050002,
   "districtId": 1217050,
-  "name": "PASARAN I"
+  "districtName": "NAINGGOLAN",
+  "name": "PASARAN I",
+  "postalCode": "22394"
  },
  {
   "id": 1217050003,
   "districtId": 1217050,
-  "name": "SIBONOR OMPURATUS"
+  "districtName": "NAINGGOLAN",
+  "name": "SIBONOR OMPURATUS",
+  "postalCode": "22394"
  },
  {
   "id": 1217050004,
   "districtId": 1217050,
-  "name": "SINAGA URUK PANDIANGAN"
+  "districtName": "NAINGGOLAN",
+  "name": "SINAGA URUK PANDIANGAN",
+  "postalCode": "22394"
  },
  {
   "id": 1217050005,
   "districtId": 1217050,
-  "name": "NAINGGOLAN"
+  "districtName": "NAINGGOLAN",
+  "name": "NAINGGOLAN",
+  "postalCode": "22394"
  },
  {
   "id": 1217050006,
   "districtId": 1217050,
-  "name": "SIRUMA HOMBAR"
+  "districtName": "NAINGGOLAN",
+  "name": "SIRUMA HOMBAR",
+  "postalCode": "22394"
  },
  {
   "id": 1217050007,
   "districtId": 1217050,
-  "name": "SIPINGGAN LUMBAN SIANTAR"
+  "districtName": "NAINGGOLAN",
+  "name": "SIPINGGAN LUMBAN SIANTAR",
+  "postalCode": "22394"
  },
  {
   "id": 1217050008,
   "districtId": 1217050,
-  "name": "PANGALOAN"
+  "districtName": "NAINGGOLAN",
+  "name": "PANGALOAN",
+  "postalCode": "22394"
  },
  {
   "id": 1217050009,
   "districtId": 1217050,
-  "name": "TOGUAN GALUNG"
+  "districtName": "NAINGGOLAN",
+  "name": "TOGUAN GALUNG",
+  "postalCode": "22394"
  },
  {
   "id": 1217050010,
   "districtId": 1217050,
-  "name": "HUTA RIHIT"
+  "districtName": "NAINGGOLAN",
+  "name": "HUTA RIHIT",
+  "postalCode": "22394"
  },
  {
   "id": 1217050011,
   "districtId": 1217050,
-  "name": "PARHUSIP III"
+  "districtName": "NAINGGOLAN",
+  "name": "PARHUSIP III",
+  "postalCode": "22394"
  },
  {
   "id": 1217050012,
   "districtId": 1217050,
-  "name": "PANANGGANGAN"
+  "districtName": "NAINGGOLAN",
+  "name": "PANANGGANGAN",
+  "postalCode": "22394"
  },
  {
   "id": 1217050013,
   "districtId": 1217050,
-  "name": "JANJI MARAPOT"
+  "districtName": "NAINGGOLAN",
+  "name": "JANJI MARAPOT",
+  "postalCode": ""
  },
  {
   "id": 1217050014,
   "districtId": 1217050,
-  "name": "SIPINGGAN"
+  "districtName": "NAINGGOLAN",
+  "name": "SIPINGGAN",
+  "postalCode": "20582"
  },
  {
   "id": 1217050015,
   "districtId": 1217050,
-  "name": "PANANGGANGAN II"
+  "districtName": "NAINGGOLAN",
+  "name": "PANANGGANGAN II",
+  "postalCode": ""
  }
 ]

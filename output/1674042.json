@@ -2,51 +2,71 @@
  {
   "id": 1674042001,
   "districtId": 1674042,
-  "name": "ULAK SURUNG"
+  "districtName": "LUBUK LINGGAU UTARA II",
+  "name": "ULAK SURUNG",
+  "postalCode": "31617"
  },
  {
   "id": 1674042002,
   "districtId": 1674042,
-  "name": "PASAR SATELIT"
+  "districtName": "LUBUK LINGGAU UTARA II",
+  "name": "PASAR SATELIT",
+  "postalCode": ""
  },
  {
   "id": 1674042003,
   "districtId": 1674042,
-  "name": "KENANGA"
+  "districtName": "LUBUK LINGGAU UTARA II",
+  "name": "KENANGA",
+  "postalCode": "31619"
  },
  {
   "id": 1674042004,
   "districtId": 1674042,
-  "name": "SENALANG"
+  "districtName": "LUBUK LINGGAU UTARA II",
+  "name": "SENALANG",
+  "postalCode": "31619"
  },
  {
   "id": 1674042005,
   "districtId": 1674042,
-  "name": "BATU URIP"
+  "districtName": "LUBUK LINGGAU UTARA II",
+  "name": "BATU URIP",
+  "postalCode": "31452"
  },
  {
   "id": 1674042006,
   "districtId": 1674042,
-  "name": "MEGANG"
+  "districtName": "LUBUK LINGGAU UTARA II",
+  "name": "MEGANG",
+  "postalCode": "31628"
  },
  {
   "id": 1674042007,
   "districtId": 1674042,
-  "name": "PONOROGO"
+  "districtName": "LUBUK LINGGAU UTARA II",
+  "name": "PONOROGO",
+  "postalCode": "31619"
  },
  {
   "id": 1674042008,
   "districtId": 1674042,
-  "name": "JOGOBOYO"
+  "districtName": "LUBUK LINGGAU UTARA II",
+  "name": "JOGOBOYO",
+  "postalCode": "54173"
  },
  {
   "id": 1674042009,
   "districtId": 1674042,
-  "name": "PUNCAK KEMUNING"
+  "districtName": "LUBUK LINGGAU UTARA II",
+  "name": "PUNCAK KEMUNING",
+  "postalCode": "31619"
  },
  {
   "id": 1674042010,
   "districtId": 1674042,
-  "name": "KALI SERAYU"
+  "districtName": "LUBUK LINGGAU UTARA II",
+  "name": "KALI SERAYU",
+  "postalCode": "31619"
  }
 ]

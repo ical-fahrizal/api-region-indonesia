@@ -2,146 +2,204 @@
  {
   "id": 9105110001,
   "districtId": 9105110,
-  "name": "NIMBAY"
+  "districtName": "WARMARE",
+  "name": "NIMBAY",
+  "postalCode": "98352"
  },
  {
   "id": 9105110002,
   "districtId": 9105110,
-  "name": "PRAFI KAMPUNG / INDISE"
+  "districtName": "WARMARE",
+  "name": "PRAFI KAMPUNG / INDISE",
+  "postalCode": ""
  },
  {
   "id": 9105110003,
   "districtId": 9105110,
-  "name": "SUBSAY"
+  "districtName": "WARMARE",
+  "name": "SUBSAY",
+  "postalCode": "98352"
  },
  {
   "id": 9105110004,
   "districtId": 9105110,
-  "name": "MENIY"
+  "districtName": "WARMARE",
+  "name": "MENIY",
+  "postalCode": ""
  },
  {
   "id": 9105110005,
   "districtId": 9105110,
-  "name": "MADRAT"
+  "districtName": "WARMARE",
+  "name": "MADRAT",
+  "postalCode": "98352"
  },
  {
   "id": 9105110006,
   "districtId": 9105110,
-  "name": "DINDEY"
+  "districtName": "WARMARE",
+  "name": "DINDEY",
+  "postalCode": "98352"
  },
  {
   "id": 9105110008,
   "districtId": 9105110,
-  "name": "WARMARE"
+  "districtName": "WARMARE",
+  "name": "WARMARE",
+  "postalCode": "98352"
  },
  {
   "id": 9105110009,
   "districtId": 9105110,
-  "name": "TANAH MERAH"
+  "districtName": "WARMARE",
+  "name": "TANAH MERAH",
+  "postalCode": "24652"
  },
  {
   "id": 9105110010,
   "districtId": 9105110,
-  "name": "HINGK"
+  "districtName": "WARMARE",
+  "name": "HINGK",
+  "postalCode": "98352"
  },
  {
   "id": 9105110012,
   "districtId": 9105110,
-  "name": "SNAIMBOY"
+  "districtName": "WARMARE",
+  "name": "SNAIMBOY",
+  "postalCode": "98352"
  },
  {
   "id": 9105110013,
   "districtId": 9105110,
-  "name": "IBUWAU"
+  "districtName": "WARMARE",
+  "name": "IBUWAU",
+  "postalCode": "98352"
  },
  {
   "id": 9105110014,
   "districtId": 9105110,
-  "name": "CENING/SOTEA"
+  "districtName": "WARMARE",
+  "name": "CENING/SOTEA",
+  "postalCode": ""
  },
  {
   "id": 9105110015,
   "districtId": 9105110,
-  "name": "DUWIN UMSINI"
+  "districtName": "WARMARE",
+  "name": "DUWIN UMSINI",
+  "postalCode": ""
  },
  {
   "id": 9105110016,
   "districtId": 9105110,
-  "name": "GUEINTUY"
+  "districtName": "WARMARE",
+  "name": "GUEINTUY",
+  "postalCode": ""
  },
  {
   "id": 9105110017,
   "districtId": 9105110,
-  "name": "IMBOISRATI"
+  "districtName": "WARMARE",
+  "name": "IMBOISRATI",
+  "postalCode": ""
  },
  {
   "id": 9105110018,
   "districtId": 9105110,
-  "name": "SRAINDABEY"
+  "districtName": "WARMARE",
+  "name": "SRAINDABEY",
+  "postalCode": ""
  },
  {
   "id": 9105110019,
   "districtId": 9105110,
-  "name": "MINOGBEY / MINBEY"
+  "districtName": "WARMARE",
+  "name": "MINOGBEY / MINBEY",
+  "postalCode": ""
  },
  {
   "id": 9105110020,
   "districtId": 9105110,
-  "name": "KWAU"
+  "districtName": "WARMARE",
+  "name": "KWAU",
+  "postalCode": "98358"
  },
  {
   "id": 9105110021,
   "districtId": 9105110,
-  "name": "INDOBEY"
+  "districtName": "WARMARE",
+  "name": "INDOBEY",
+  "postalCode": ""
  },
  {
   "id": 9105110022,
   "districtId": 9105110,
-  "name": "FIGOUD"
+  "districtName": "WARMARE",
+  "name": "FIGOUD",
+  "postalCode": "98315"
  },
  {
   "id": 9105110023,
   "districtId": 9105110,
-  "name": "SYOU"
+  "districtName": "WARMARE",
+  "name": "SYOU",
+  "postalCode": ""
  },
  {
   "id": 9105110024,
   "districtId": 9105110,
-  "name": "MINGGRE"
+  "districtName": "WARMARE",
+  "name": "MINGGRE",
+  "postalCode": ""
  },
  {
   "id": 9105110025,
   "districtId": 9105110,
-  "name": "DUEIBEI"
+  "districtName": "WARMARE",
+  "name": "DUEIBEI",
+  "postalCode": ""
  },
  {
   "id": 9105110026,
   "districtId": 9105110,
-  "name": "ASARBEY"
+  "districtName": "WARMARE",
+  "name": "ASARBEY",
+  "postalCode": ""
  },
  {
   "id": 9105110027,
   "districtId": 9105110,
-  "name": "KIPOUW"
+  "districtName": "WARMARE",
+  "name": "KIPOUW",
+  "postalCode": ""
  },
  {
   "id": 9105110028,
   "districtId": 9105110,
-  "name": "MOKWAM"
+  "districtName": "WARMARE",
+  "name": "MOKWAM",
+  "postalCode": "98358"
  },
  {
   "id": 9105110029,
   "districtId": 9105110,
-  "name": "AMBER"
+  "districtName": "WARMARE",
+  "name": "AMBER",
+  "postalCode": "98358"
  },
  {
   "id": 9105110030,
   "districtId": 9105110,
-  "name": "BAHAMYENTI"
+  "districtName": "WARMARE",
+  "name": "BAHAMYENTI",
+  "postalCode": "98358"
  },
  {
   "id": 9105110031,
   "districtId": 9105110,
-  "name": "AYWOU"
+  "districtName": "WARMARE",
+  "name": "AYWOU",
+  "postalCode": ""
  }
 ]

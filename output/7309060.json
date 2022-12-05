@@ -2,41 +2,57 @@
  {
   "id": 7309060001,
   "districtId": 7309060,
-  "name": "BORIAPPAKA"
+  "districtName": "BUNGORO",
+  "name": "BORIAPPAKA",
+  "postalCode": "90651"
  },
  {
   "id": 7309060002,
   "districtId": 7309060,
-  "name": "BULU CINDEA"
+  "districtName": "BUNGORO",
+  "name": "BULU CINDEA",
+  "postalCode": "90651"
  },
  {
   "id": 7309060003,
   "districtId": 7309060,
-  "name": "BOWONG CINDEA"
+  "districtName": "BUNGORO",
+  "name": "BOWONG CINDEA",
+  "postalCode": "90651"
  },
  {
   "id": 7309060004,
   "districtId": 7309060,
-  "name": "SAMALEWA"
+  "districtName": "BUNGORO",
+  "name": "SAMALEWA",
+  "postalCode": "90651"
  },
  {
   "id": 7309060005,
   "districtId": 7309060,
-  "name": "SAPANANG"
+  "districtName": "BUNGORO",
+  "name": "SAPANANG",
+  "postalCode": "92314"
  },
  {
   "id": 7309060006,
   "districtId": 7309060,
-  "name": "BIRING ERE"
+  "districtName": "BUNGORO",
+  "name": "BIRING ERE",
+  "postalCode": "90651"
  },
  {
   "id": 7309060007,
   "districtId": 7309060,
-  "name": "MANGILU"
+  "districtName": "BUNGORO",
+  "name": "MANGILU",
+  "postalCode": "90651"
  },
  {
   "id": 7309060009,
   "districtId": 7309060,
-  "name": "TABO-TABO"
+  "districtName": "BUNGORO",
+  "name": "TABO-TABO",
+  "postalCode": "90651"
  }
 ]

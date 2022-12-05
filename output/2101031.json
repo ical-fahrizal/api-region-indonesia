@@ -2,16 +2,22 @@
  {
   "id": 2101031001,
   "districtId": 2101031,
-  "name": "TANJUNG HUTAN"
+  "districtName": "BURU",
+  "name": "TANJUNG HUTAN",
+  "postalCode": "29664"
  },
  {
   "id": 2101031003,
   "districtId": 2101031,
-  "name": "LUBUK PUDING"
+  "districtName": "BURU",
+  "name": "LUBUK PUDING",
+  "postalCode": "29664"
  },
  {
   "id": 2101031004,
   "districtId": 2101031,
-  "name": "TANJUNG BATU KECIL"
+  "districtName": "BURU",
+  "name": "TANJUNG BATU KECIL",
+  "postalCode": "29664"
  }
 ]

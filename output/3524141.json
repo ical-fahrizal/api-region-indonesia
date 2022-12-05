@@ -2,36 +2,50 @@
  {
   "id": 3524141002,
   "districtId": 3524141,
-  "name": "DERMOLEMAHBANG"
+  "districtName": "SARIREJO",
+  "name": "DERMOLEMAHBANG",
+  "postalCode": ""
  },
  {
   "id": 3524141003,
   "districtId": 3524141,
-  "name": "GEMPOLTUKMLOKO"
+  "districtName": "SARIREJO",
+  "name": "GEMPOLTUKMLOKO",
+  "postalCode": ""
  },
  {
   "id": 3524141004,
   "districtId": 3524141,
-  "name": "SARIREJO"
+  "districtName": "SARIREJO",
+  "name": "SARIREJO",
+  "postalCode": "58262"
  },
  {
   "id": 3524141005,
   "districtId": 3524141,
-  "name": "TAMBAKMENJANGAN"
+  "districtName": "SARIREJO",
+  "name": "TAMBAKMENJANGAN",
+  "postalCode": "62281"
  },
  {
   "id": 3524141006,
   "districtId": 3524141,
-  "name": "SUMBERJO"
+  "districtName": "SARIREJO",
+  "name": "SUMBERJO",
+  "postalCode": "34396"
  },
  {
   "id": 3524141007,
   "districtId": 3524141,
-  "name": "SIMBATAN"
+  "districtName": "SARIREJO",
+  "name": "SIMBATAN",
+  "postalCode": "62193"
  },
  {
   "id": 3524141008,
   "districtId": 3524141,
-  "name": "CANGGAH"
+  "districtName": "SARIREJO",
+  "name": "CANGGAH",
+  "postalCode": "62281"
  }
 ]

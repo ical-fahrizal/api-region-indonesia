@@ -2,71 +2,99 @@
  {
   "id": 3515030001,
   "districtId": 3515030,
-  "name": "TAMBAKREJO"
+  "districtName": "KREMBUNG",
+  "name": "TAMBAKREJO",
+  "postalCode": "54391"
  },
  {
   "id": 3515030004,
   "districtId": 3515030,
-  "name": "KEDUNGRAWAN"
+  "districtName": "KREMBUNG",
+  "name": "KEDUNGRAWAN",
+  "postalCode": "61275"
  },
  {
   "id": 3515030005,
   "districtId": 3515030,
-  "name": "TANJEG WAGIR"
+  "districtName": "KREMBUNG",
+  "name": "TANJEG WAGIR",
+  "postalCode": "61275"
  },
  {
   "id": 3515030006,
   "districtId": 3515030,
-  "name": "MOJORUNTUT"
+  "districtName": "KREMBUNG",
+  "name": "MOJORUNTUT",
+  "postalCode": "61275"
  },
  {
   "id": 3515030007,
   "districtId": 3515030,
-  "name": "GADING"
+  "districtName": "KREMBUNG",
+  "name": "GADING",
+  "postalCode": "22755"
  },
  {
   "id": 3515030008,
   "districtId": 3515030,
-  "name": "WANGKAL"
+  "districtName": "KREMBUNG",
+  "name": "WANGKAL",
+  "postalCode": "67292"
  },
  {
   "id": 3515030009,
   "districtId": 3515030,
-  "name": "JENGGOT"
+  "districtName": "KREMBUNG",
+  "name": "JENGGOT",
+  "postalCode": "51133"
  },
  {
   "id": 3515030010,
   "districtId": 3515030,
-  "name": "WAUNG"
+  "districtName": "KREMBUNG",
+  "name": "WAUNG",
+  "postalCode": "64394"
  },
  {
   "id": 3515030011,
   "districtId": 3515030,
-  "name": "PLOSO"
+  "districtName": "KREMBUNG",
+  "name": "PLOSO",
+  "postalCode": "59348"
  },
  {
   "id": 3515030012,
   "districtId": 3515030,
-  "name": "REJENI"
+  "districtName": "KREMBUNG",
+  "name": "REJENI",
+  "postalCode": "61275"
  },
  {
   "id": 3515030013,
   "districtId": 3515030,
-  "name": "KANDANGAN"
+  "districtName": "KREMBUNG",
+  "name": "KANDANGAN",
+  "postalCode": "21186"
  },
  {
   "id": 3515030016,
   "districtId": 3515030,
-  "name": "CANGKRING"
+  "districtName": "KREMBUNG",
+  "name": "CANGKRING",
+  "postalCode": "45258"
  },
  {
   "id": 3515030018,
   "districtId": 3515030,
-  "name": "WONOMLATI"
+  "districtName": "KREMBUNG",
+  "name": "WONOMLATI",
+  "postalCode": "61275"
  },
  {
   "id": 3515030019,
   "districtId": 3515030,
-  "name": "BALONGGARUT"
+  "districtName": "KREMBUNG",
+  "name": "BALONGGARUT",
+  "postalCode": ""
  }
 ]

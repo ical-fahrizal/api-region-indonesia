@@ -2,96 +2,134 @@
  {
   "id": 7210010001,
   "districtId": 7210010,
-  "name": "KALAMANTA"
+  "districtName": "PIPIKORO",
+  "name": "KALAMANTA",
+  "postalCode": "94112"
  },
  {
   "id": 7210010002,
   "districtId": 7210010,
-  "name": "MAMU"
+  "districtName": "PIPIKORO",
+  "name": "MAMU",
+  "postalCode": "94112"
  },
  {
   "id": 7210010003,
   "districtId": 7210010,
-  "name": "BANASU"
+  "districtName": "PIPIKORO",
+  "name": "BANASU",
+  "postalCode": "94112"
  },
  {
   "id": 7210010004,
   "districtId": 7210010,
-  "name": "MAPAHI"
+  "districtName": "PIPIKORO",
+  "name": "MAPAHI",
+  "postalCode": "94112"
  },
  {
   "id": 7210010005,
   "districtId": 7210010,
-  "name": "PEANA"
+  "districtName": "PIPIKORO",
+  "name": "PEANA",
+  "postalCode": "94112"
  },
  {
   "id": 7210010006,
   "districtId": 7210010,
-  "name": "MORUI"
+  "districtName": "PIPIKORO",
+  "name": "MORUI",
+  "postalCode": ""
  },
  {
   "id": 7210010007,
   "districtId": 7210010,
-  "name": "KANTEWU"
+  "districtName": "PIPIKORO",
+  "name": "KANTEWU",
+  "postalCode": "94112"
  },
  {
   "id": 7210010008,
   "districtId": 7210010,
-  "name": "LAWE"
+  "districtName": "PIPIKORO",
+  "name": "LAWE",
+  "postalCode": "94112"
  },
  {
   "id": 7210010009,
   "districtId": 7210010,
-  "name": "LONE BASA"
+  "districtName": "PIPIKORO",
+  "name": "LONE BASA",
+  "postalCode": "94112"
  },
  {
   "id": 7210010010,
   "districtId": 7210010,
-  "name": "ONU"
+  "districtName": "PIPIKORO",
+  "name": "ONU",
+  "postalCode": "94112"
  },
  {
   "id": 7210010011,
   "districtId": 7210010,
-  "name": "KOJA"
+  "districtName": "PIPIKORO",
+  "name": "KOJA",
+  "postalCode": "94112"
  },
  {
   "id": 7210010012,
   "districtId": 7210010,
-  "name": "KANTEWU II"
+  "districtName": "PIPIKORO",
+  "name": "KANTEWU II",
+  "postalCode": "94112"
  },
  {
   "id": 7210010013,
   "districtId": 7210010,
-  "name": "PORELEA"
+  "districtName": "PIPIKORO",
+  "name": "PORELEA",
+  "postalCode": ""
  },
  {
   "id": 7210010014,
   "districtId": 7210010,
-  "name": "MASEWO"
+  "districtName": "PIPIKORO",
+  "name": "MASEWO",
+  "postalCode": ""
  },
  {
   "id": 7210010015,
   "districtId": 7210010,
-  "name": "TUWO TANIJAYA"
+  "districtName": "PIPIKORO",
+  "name": "TUWO TANIJAYA",
+  "postalCode": ""
  },
  {
   "id": 7210010016,
   "districtId": 7210010,
-  "name": "PELEMPEA"
+  "districtName": "PIPIKORO",
+  "name": "PELEMPEA",
+  "postalCode": ""
  },
  {
   "id": 7210010017,
   "districtId": 7210010,
-  "name": "PULOROA"
+  "districtName": "PIPIKORO",
+  "name": "PULOROA",
+  "postalCode": ""
  },
  {
   "id": 7210010018,
   "districtId": 7210010,
-  "name": "MORUI II"
+  "districtName": "PIPIKORO",
+  "name": "MORUI II",
+  "postalCode": ""
  },
  {
   "id": 7210010019,
   "districtId": 7210010,
-  "name": "PORELEA II"
+  "districtName": "PIPIKORO",
+  "name": "PORELEA II",
+  "postalCode": ""
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 7414040001,
   "districtId": 7414040,
-  "name": "LAGILI"
+  "districtName": "MAWASANGKA TIMUR",
+  "name": "LAGILI",
+  "postalCode": "93762"
  },
  {
   "id": 7414040002,
   "districtId": 7414040,
-  "name": "WAMBULOLI"
+  "districtName": "MAWASANGKA TIMUR",
+  "name": "WAMBULOLI",
+  "postalCode": "93762"
  },
  {
   "id": 7414040003,
   "districtId": 7414040,
-  "name": "BONE MARAMBE"
+  "districtName": "MAWASANGKA TIMUR",
+  "name": "BONE MARAMBE",
+  "postalCode": "93762"
  },
  {
   "id": 7414040004,
   "districtId": 7414040,
-  "name": "LASORI"
+  "districtName": "MAWASANGKA TIMUR",
+  "name": "LASORI",
+  "postalCode": "93762"
  },
  {
   "id": 7414040005,
   "districtId": 7414040,
-  "name": "INULU"
+  "districtName": "MAWASANGKA TIMUR",
+  "name": "INULU",
+  "postalCode": "93762"
  },
  {
   "id": 7414040006,
   "districtId": 7414040,
-  "name": "WANTOPI"
+  "districtName": "MAWASANGKA TIMUR",
+  "name": "WANTOPI",
+  "postalCode": "93762"
  },
  {
   "id": 7414040007,
   "districtId": 7414040,
-  "name": "BUNGI"
+  "districtName": "MAWASANGKA TIMUR",
+  "name": "BUNGI",
+  "postalCode": "91253"
  },
  {
   "id": 7414040008,
   "districtId": 7414040,
-  "name": "BATUBANAWA"
+  "districtName": "MAWASANGKA TIMUR",
+  "name": "BATUBANAWA",
+  "postalCode": "93762"
  }
 ]

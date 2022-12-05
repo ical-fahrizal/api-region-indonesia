@@ -2,21 +2,29 @@
  {
   "id": 1502033001,
   "districtId": 1502033,
-  "name": "TANJUNG BENUANG"
+  "districtName": "PAMENANG SELATAN",
+  "name": "TANJUNG BENUANG",
+  "postalCode": "37352"
  },
  {
   "id": 1502033002,
   "districtId": 1502033,
-  "name": "TAMBANG EMAS"
+  "districtName": "PAMENANG SELATAN",
+  "name": "TAMBANG EMAS",
+  "postalCode": "37352"
  },
  {
   "id": 1502033003,
   "districtId": 1502033,
-  "name": "PULAU BAYUR"
+  "districtName": "PAMENANG SELATAN",
+  "name": "PULAU BAYUR",
+  "postalCode": "29555"
  },
  {
   "id": 1502033004,
   "districtId": 1502033,
-  "name": "SELANGO"
+  "districtName": "PAMENANG SELATAN",
+  "name": "SELANGO",
+  "postalCode": "37352"
  }
 ]

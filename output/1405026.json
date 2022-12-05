@@ -2,41 +2,57 @@
  {
   "id": 1405026001,
   "districtId": 1405026,
-  "name": "MEREMPAN HILIR"
+  "districtName": "MEMPURA",
+  "name": "MEREMPAN HILIR",
+  "postalCode": "28773"
  },
  {
   "id": 1405026002,
   "districtId": 1405026,
-  "name": "SUNGAI MEMPURA"
+  "districtName": "MEMPURA",
+  "name": "SUNGAI MEMPURA",
+  "postalCode": "28773"
  },
  {
   "id": 1405026003,
   "districtId": 1405026,
-  "name": "KAMPUNG TENGAH"
+  "districtName": "MEMPURA",
+  "name": "KAMPUNG TENGAH",
+  "postalCode": "23766"
  },
  {
   "id": 1405026004,
   "districtId": 1405026,
-  "name": "BENTENG HULU"
+  "districtName": "MEMPURA",
+  "name": "BENTENG HULU",
+  "postalCode": "28773"
  },
  {
   "id": 1405026005,
   "districtId": 1405026,
-  "name": "BENTENG HILIR"
+  "districtName": "MEMPURA",
+  "name": "BENTENG HILIR",
+  "postalCode": "28773"
  },
  {
   "id": 1405026006,
   "districtId": 1405026,
-  "name": "PALUH"
+  "districtName": "MEMPURA",
+  "name": "PALUH",
+  "postalCode": "28773"
  },
  {
   "id": 1405026007,
   "districtId": 1405026,
-  "name": "KOTA RINGIN"
+  "districtName": "MEMPURA",
+  "name": "KOTA RINGIN",
+  "postalCode": "28773"
  },
  {
   "id": 1405026008,
   "districtId": 1405026,
-  "name": "TELUK MEREMPAN"
+  "districtName": "MEMPURA",
+  "name": "TELUK MEREMPAN",
+  "postalCode": "28773"
  }
 ]

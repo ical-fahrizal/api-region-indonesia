@@ -2,71 +2,99 @@
  {
   "id": 3203100001,
   "districtId": 3203100,
-  "name": "KERTARAHARJA"
+  "districtName": "PAGELARAN",
+  "name": "KERTARAHARJA",
+  "postalCode": "43157"
  },
  {
   "id": 3203100002,
   "districtId": 3203100,
-  "name": "PAGELARAN"
+  "districtName": "PAGELARAN",
+  "name": "PAGELARAN",
+  "postalCode": "35376"
  },
  {
   "id": 3203100003,
   "districtId": 3203100,
-  "name": "PADAMAJU"
+  "districtName": "PAGELARAN",
+  "name": "PADAMAJU",
+  "postalCode": "43266"
  },
  {
   "id": 3203100008,
   "districtId": 3203100,
-  "name": "BUNIWANGI"
+  "districtName": "PAGELARAN",
+  "name": "BUNIWANGI",
+  "postalCode": "43197"
  },
  {
   "id": 3203100009,
   "districtId": 3203100,
-  "name": "BUNIJAYA"
+  "districtName": "PAGELARAN",
+  "name": "BUNIJAYA",
+  "postalCode": "40565"
  },
  {
   "id": 3203100010,
   "districtId": 3203100,
-  "name": "PANGADEGAN"
+  "districtName": "PAGELARAN",
+  "name": "PANGADEGAN",
+  "postalCode": "43266"
  },
  {
   "id": 3203100011,
   "districtId": 3203100,
-  "name": "SITUHIANG"
+  "districtName": "PAGELARAN",
+  "name": "SITUHIANG",
+  "postalCode": "43266"
  },
  {
   "id": 3203100012,
   "districtId": 3203100,
-  "name": "PASIRBARU"
+  "districtName": "PAGELARAN",
+  "name": "PASIRBARU",
+  "postalCode": "43366"
  },
  {
   "id": 3203100013,
   "districtId": 3203100,
-  "name": "SINDANGKERTA"
+  "districtName": "PAGELARAN",
+  "name": "SINDANGKERTA",
+  "postalCode": "46189"
  },
  {
   "id": 3203100014,
   "districtId": 3203100,
-  "name": "KARANGHARJA"
+  "districtName": "PAGELARAN",
+  "name": "KARANGHARJA",
+  "postalCode": "43266"
  },
  {
   "id": 3203100015,
   "districtId": 3203100,
-  "name": "SELAGEDANG"
+  "districtName": "PAGELARAN",
+  "name": "SELAGEDANG",
+  "postalCode": "43266"
  },
  {
   "id": 3203100016,
   "districtId": 3203100,
-  "name": "GELAR ANYAR"
+  "districtName": "PAGELARAN",
+  "name": "GELAR ANYAR",
+  "postalCode": ""
  },
  {
   "id": 3203100017,
   "districtId": 3203100,
-  "name": "MEKARSARI"
+  "districtName": "PAGELARAN",
+  "name": "MEKARSARI",
+  "postalCode": "37482"
  },
  {
   "id": 3203100018,
   "districtId": 3203100,
-  "name": "SUKAMAJU"
+  "districtName": "PAGELARAN",
+  "name": "SUKAMAJU",
+  "postalCode": "22465"
  }
 ]

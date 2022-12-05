@@ -2,71 +2,99 @@
  {
   "id": 3502100001,
   "districtId": 3502100,
-  "name": "NGASINAN"
+  "districtName": "JETIS",
+  "name": "NGASINAN",
+  "postalCode": "54183"
  },
  {
   "id": 3502100002,
   "districtId": 3502100,
-  "name": "KUTUKULON"
+  "districtName": "JETIS",
+  "name": "KUTUKULON",
+  "postalCode": ""
  },
  {
   "id": 3502100003,
   "districtId": 3502100,
-  "name": "KUTUWETAN"
+  "districtName": "JETIS",
+  "name": "KUTUWETAN",
+  "postalCode": ""
  },
  {
   "id": 3502100004,
   "districtId": 3502100,
-  "name": "KRADENAN"
+  "districtName": "JETIS",
+  "name": "KRADENAN",
+  "postalCode": "54392"
  },
  {
   "id": 3502100005,
   "districtId": 3502100,
-  "name": "MOJOMATI"
+  "districtName": "JETIS",
+  "name": "MOJOMATI",
+  "postalCode": "63473"
  },
  {
   "id": 3502100006,
   "districtId": 3502100,
-  "name": "COPER"
+  "districtName": "JETIS",
+  "name": "COPER",
+  "postalCode": "63473"
  },
  {
   "id": 3502100007,
   "districtId": 3502100,
-  "name": "MOJOREJO"
+  "districtName": "JETIS",
+  "name": "MOJOREJO",
+  "postalCode": "39153"
  },
  {
   "id": 3502100008,
   "districtId": 3502100,
-  "name": "KARANGGEBANG"
+  "districtName": "JETIS",
+  "name": "KARANGGEBANG",
+  "postalCode": "63473"
  },
  {
   "id": 3502100009,
   "districtId": 3502100,
-  "name": "JETIS"
+  "districtName": "JETIS",
+  "name": "JETIS",
+  "postalCode": "57556"
  },
  {
   "id": 3502100010,
   "districtId": 3502100,
-  "name": "TEGALSARI"
+  "districtName": "JETIS",
+  "name": "TEGALSARI",
+  "postalCode": "35372"
  },
  {
   "id": 3502100011,
   "districtId": 3502100,
-  "name": "WONOKETRO"
+  "districtName": "JETIS",
+  "name": "WONOKETRO",
+  "postalCode": "63473"
  },
  {
   "id": 3502100012,
   "districtId": 3502100,
-  "name": "JOSARI"
+  "districtName": "JETIS",
+  "name": "JOSARI",
+  "postalCode": "63473"
  },
  {
   "id": 3502100013,
   "districtId": 3502100,
-  "name": "TURI"
+  "districtName": "JETIS",
+  "name": "TURI",
+  "postalCode": "63473"
  },
  {
   "id": 3502100014,
   "districtId": 3502100,
-  "name": "WINONG"
+  "districtName": "JETIS",
+  "name": "WINONG",
+  "postalCode": "45161"
  }
 ]

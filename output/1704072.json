@@ -2,46 +2,64 @@
  {
   "id": 1704072001,
   "districtId": 1704072,
-  "name": "DATAR LEBAR I"
+  "districtName": "LUNGKANG KULE",
+  "name": "DATAR LEBAR I",
+  "postalCode": ""
  },
  {
   "id": 1704072002,
   "districtId": 1704072,
-  "name": "TANJUNG BUNIAN"
+  "districtName": "LUNGKANG KULE",
+  "name": "TANJUNG BUNIAN",
+  "postalCode": "38956"
  },
  {
   "id": 1704072003,
   "districtId": 1704072,
-  "name": "SINAR BULAN"
+  "districtName": "LUNGKANG KULE",
+  "name": "SINAR BULAN",
+  "postalCode": "38956"
  },
  {
   "id": 1704072004,
   "districtId": 1704072,
-  "name": "SUKA NANTI"
+  "districtName": "LUNGKANG KULE",
+  "name": "SUKA NANTI",
+  "postalCode": "38956"
  },
  {
   "id": 1704072005,
   "districtId": 1704072,
-  "name": "LAWANG AGUNG"
+  "districtName": "LUNGKANG KULE",
+  "name": "LAWANG AGUNG",
+  "postalCode": "37111"
  },
  {
   "id": 1704072006,
   "districtId": 1704072,
-  "name": "TANJUNG KURUNG"
+  "districtName": "LUNGKANG KULE",
+  "name": "TANJUNG KURUNG",
+  "postalCode": "31315"
  },
  {
   "id": 1704072007,
   "districtId": 1704072,
-  "name": "SENAK"
+  "districtName": "LUNGKANG KULE",
+  "name": "SENAK",
+  "postalCode": ""
  },
  {
   "id": 1704072009,
   "districtId": 1704072,
-  "name": "DATAR LEBAR II"
+  "districtName": "LUNGKANG KULE",
+  "name": "DATAR LEBAR II",
+  "postalCode": "38956"
  },
  {
   "id": 1704072010,
   "districtId": 1704072,
-  "name": "AUR GADING"
+  "districtName": "LUNGKANG KULE",
+  "name": "AUR GADING",
+  "postalCode": "36656"
  }
 ]

@@ -2,66 +2,92 @@
  {
   "id": 6302040001,
   "districtId": 6302040,
-  "name": "TANJUNG PENGHARAPAN"
+  "districtName": "PULAU LAUT TIMUR",
+  "name": "TANJUNG PENGHARAPAN",
+  "postalCode": "72152"
  },
  {
   "id": 6302040002,
   "districtId": 6302040,
-  "name": "BATU TUNAU"
+  "districtName": "PULAU LAUT TIMUR",
+  "name": "BATU TUNAU",
+  "postalCode": "72152"
  },
  {
   "id": 6302040003,
   "districtId": 6302040,
-  "name": "SEJAKAH"
+  "districtName": "PULAU LAUT TIMUR",
+  "name": "SEJAKAH",
+  "postalCode": "72152"
  },
  {
   "id": 6302040004,
   "districtId": 6302040,
-  "name": "BEKAMBIT"
+  "districtName": "PULAU LAUT TIMUR",
+  "name": "BEKAMBIT",
+  "postalCode": "72152"
  },
  {
   "id": 6302040005,
   "districtId": 6302040,
-  "name": "BEKAMBIT ASRI"
+  "districtName": "PULAU LAUT TIMUR",
+  "name": "BEKAMBIT ASRI",
+  "postalCode": "72152"
  },
  {
   "id": 6302040007,
   "districtId": 6302040,
-  "name": "LANGKANG BARU"
+  "districtName": "PULAU LAUT TIMUR",
+  "name": "LANGKANG BARU",
+  "postalCode": "72152"
  },
  {
   "id": 6302040008,
   "districtId": 6302040,
-  "name": "KARANG SARI INDAH"
+  "districtName": "PULAU LAUT TIMUR",
+  "name": "KARANG SARI INDAH",
+  "postalCode": "72272"
  },
  {
   "id": 6302040009,
   "districtId": 6302040,
-  "name": "SUNGAI LIMAU"
+  "districtName": "PULAU LAUT TIMUR",
+  "name": "SUNGAI LIMAU",
+  "postalCode": "28763"
  },
  {
   "id": 6302040010,
   "districtId": 6302040,
-  "name": "LANGKANG LAMA"
+  "districtName": "PULAU LAUT TIMUR",
+  "name": "LANGKANG LAMA",
+  "postalCode": "72152"
  },
  {
   "id": 6302040011,
   "districtId": 6302040,
-  "name": "KULIPAK"
+  "districtName": "PULAU LAUT TIMUR",
+  "name": "KULIPAK",
+  "postalCode": "72152"
  },
  {
   "id": 6302040012,
   "districtId": 6302040,
-  "name": "BERANGAS"
+  "districtName": "PULAU LAUT TIMUR",
+  "name": "BERANGAS",
+  "postalCode": "70582"
  },
  {
   "id": 6302040013,
   "districtId": 6302040,
-  "name": "TELUK MESJID"
+  "districtName": "PULAU LAUT TIMUR",
+  "name": "TELUK MESJID",
+  "postalCode": "28662"
  },
  {
   "id": 6302040014,
   "districtId": 6302040,
-  "name": "TELUK GOSONG"
+  "districtName": "PULAU LAUT TIMUR",
+  "name": "TELUK GOSONG",
+  "postalCode": "72152"
  }
 ]

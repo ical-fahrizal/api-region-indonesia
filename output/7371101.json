@@ -2,41 +2,57 @@
  {
   "id": 7371101001,
   "districtId": 7371101,
-  "name": "BORONG"
+  "districtName": "MANGGALA",
+  "name": "BORONG",
+  "postalCode": "92573"
  },
  {
   "id": 7371101002,
   "districtId": 7371101,
-  "name": "BANGKALA"
+  "districtName": "MANGGALA",
+  "name": "BANGKALA",
+  "postalCode": "91761"
  },
  {
   "id": 7371101003,
   "districtId": 7371101,
-  "name": "TAMANGAPA"
+  "districtName": "MANGGALA",
+  "name": "TAMANGAPA",
+  "postalCode": "90235"
  },
  {
   "id": 7371101004,
   "districtId": 7371101,
-  "name": "MANGGALA"
+  "districtName": "MANGGALA",
+  "name": "MANGGALA",
+  "postalCode": "79672"
  },
  {
   "id": 7371101005,
   "districtId": 7371101,
-  "name": "ANTANG"
+  "districtName": "MANGGALA",
+  "name": "ANTANG",
+  "postalCode": "90234"
  },
  {
   "id": 7371101006,
   "districtId": 7371101,
-  "name": "BATUA"
+  "districtName": "MANGGALA",
+  "name": "BATUA",
+  "postalCode": "90233"
  },
  {
   "id": 7371101007,
   "districtId": 7371101,
-  "name": "BITOWA"
+  "districtName": "MANGGALA",
+  "name": "BITOWA",
+  "postalCode": ""
  },
  {
   "id": 7371101008,
   "districtId": 7371101,
-  "name": "BIRING ROMANG"
+  "districtName": "MANGGALA",
+  "name": "BIRING ROMANG",
+  "postalCode": ""
  }
 ]

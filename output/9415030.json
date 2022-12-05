@@ -2,46 +2,64 @@
  {
   "id": 9415030006,
   "districtId": 9415030,
-  "name": "AMBISU"
+  "districtName": "ATSY",
+  "name": "AMBISU",
+  "postalCode": "99776"
  },
  {
   "id": 9415030010,
   "districtId": 9415030,
-  "name": "YASIU/YAISU"
+  "districtName": "ATSY",
+  "name": "YASIU/YAISU",
+  "postalCode": ""
  },
  {
   "id": 9415030011,
   "districtId": 9415030,
-  "name": "ATSY"
+  "districtName": "ATSY",
+  "name": "ATSY",
+  "postalCode": ""
  },
  {
   "id": 9415030012,
   "districtId": 9415030,
-  "name": "AMANAMKAI"
+  "districtName": "ATSY",
+  "name": "AMANAMKAI",
+  "postalCode": "99776"
  },
  {
   "id": 9415030013,
   "districtId": 9415030,
-  "name": "BIPIM"
+  "districtName": "ATSY",
+  "name": "BIPIM",
+  "postalCode": ""
  },
  {
   "id": 9415030014,
   "districtId": 9415030,
-  "name": "BINE"
+  "districtName": "ATSY",
+  "name": "BINE",
+  "postalCode": "99776"
  },
  {
   "id": 9415030015,
   "districtId": 9415030,
-  "name": "SOGONI"
+  "districtName": "ATSY",
+  "name": "SOGONI",
+  "postalCode": ""
  },
  {
   "id": 9415030024,
   "districtId": 9415030,
-  "name": "BAKASEI"
+  "districtName": "ATSY",
+  "name": "BAKASEI",
+  "postalCode": "99776"
  },
  {
   "id": 9415030028,
   "districtId": 9415030,
-  "name": "CEWEWYAMEW"
+  "districtName": "ATSY",
+  "name": "CEWEWYAMEW",
+  "postalCode": "99776"
  }
 ]

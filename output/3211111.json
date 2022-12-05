@@ -2,61 +2,85 @@
  {
   "id": 3211111001,
   "districtId": 3211111,
-  "name": "SUKAKERSA"
+  "districtName": "JATIGEDE",
+  "name": "SUKAKERSA",
+  "postalCode": "45377"
  },
  {
   "id": 3211111002,
   "districtId": 3211111,
-  "name": "MEKARASIH"
+  "districtName": "JATIGEDE",
+  "name": "MEKARASIH",
+  "postalCode": "41374"
  },
  {
   "id": 3211111003,
   "districtId": 3211111,
-  "name": "CIRANGGEM"
+  "districtName": "JATIGEDE",
+  "name": "CIRANGGEM",
+  "postalCode": "45377"
  },
  {
   "id": 3211111004,
   "districtId": 3211111,
-  "name": "CISAMPIH"
+  "districtName": "JATIGEDE",
+  "name": "CISAMPIH",
+  "postalCode": "41271"
  },
  {
   "id": 3211111006,
   "districtId": 3211111,
-  "name": "KADU"
+  "districtName": "JATIGEDE",
+  "name": "KADU",
+  "postalCode": "45377"
  },
  {
   "id": 3211111007,
   "districtId": 3211111,
-  "name": "LEBAKSIUH"
+  "districtName": "JATIGEDE",
+  "name": "LEBAKSIUH",
+  "postalCode": "45591"
  },
  {
   "id": 3211111008,
   "districtId": 3211111,
-  "name": "CINTAJAYA"
+  "districtName": "JATIGEDE",
+  "name": "CINTAJAYA",
+  "postalCode": "45377"
  },
  {
   "id": 3211111009,
   "districtId": 3211111,
-  "name": "CIPICUNG"
+  "districtName": "JATIGEDE",
+  "name": "CIPICUNG",
+  "postalCode": "44191"
  },
  {
   "id": 3211111010,
   "districtId": 3211111,
-  "name": "JEMAH"
+  "districtName": "JATIGEDE",
+  "name": "JEMAH",
+  "postalCode": "45377"
  },
  {
   "id": 3211111011,
   "districtId": 3211111,
-  "name": "CIJEUNGJING"
+  "districtName": "JATIGEDE",
+  "name": "CIJEUNGJING",
+  "postalCode": "46271"
  },
  {
   "id": 3211111012,
   "districtId": 3211111,
-  "name": "KADUJAYA"
+  "districtName": "JATIGEDE",
+  "name": "KADUJAYA",
+  "postalCode": "45377"
  },
  {
   "id": 3211111013,
   "districtId": 3211111,
-  "name": "KAREDOK"
+  "districtName": "JATIGEDE",
+  "name": "KAREDOK",
+  "postalCode": "45377"
  }
 ]

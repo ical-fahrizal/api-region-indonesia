@@ -2,41 +2,57 @@
  {
   "id": 7503033001,
   "districtId": 7503033,
-  "name": "DUHIADAA"
+  "districtName": "DUHIADAA",
+  "name": "DUHIADAA",
+  "postalCode": "96266"
  },
  {
   "id": 7503033002,
   "districtId": 7503033,
-  "name": "BULILI"
+  "districtName": "DUHIADAA",
+  "name": "BULILI",
+  "postalCode": "94654"
  },
  {
   "id": 7503033003,
   "districtId": 7503033,
-  "name": "BUNTULIA SELATAN"
+  "districtName": "DUHIADAA",
+  "name": "BUNTULIA SELATAN",
+  "postalCode": "96266"
  },
  {
   "id": 7503033005,
   "districtId": 7503033,
-  "name": "MEKAR JAYA"
+  "districtName": "DUHIADAA",
+  "name": "MEKAR JAYA",
+  "postalCode": "20771"
  },
  {
   "id": 7503033006,
   "districtId": 7503033,
-  "name": "BUNTULIA BARAT"
+  "districtName": "DUHIADAA",
+  "name": "BUNTULIA BARAT",
+  "postalCode": "96266"
  },
  {
   "id": 7503033007,
   "districtId": 7503033,
-  "name": "PADENGO"
+  "districtName": "DUHIADAA",
+  "name": "PADENGO",
+  "postalCode": "96265"
  },
  {
   "id": 7503033008,
   "districtId": 7503033,
-  "name": "BUNTULIA JAYA"
+  "districtName": "DUHIADAA",
+  "name": "BUNTULIA JAYA",
+  "postalCode": "96266"
  },
  {
   "id": 7503033009,
   "districtId": 7503033,
-  "name": "MOOTILANGO"
+  "districtName": "DUHIADAA",
+  "name": "MOOTILANGO",
+  "postalCode": "96525"
  }
 ]

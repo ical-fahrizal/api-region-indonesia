@@ -2,46 +2,64 @@
  {
   "id": 6301061001,
   "districtId": 6301061,
-  "name": "TIRTA JAYA"
+  "districtName": "BAJUIN",
+  "name": "TIRTA JAYA",
+  "postalCode": "30975"
  },
  {
   "id": 6301061002,
   "districtId": 6301061,
-  "name": "GALAM"
+  "districtName": "BAJUIN",
+  "name": "GALAM",
+  "postalCode": "70815"
  },
  {
   "id": 6301061003,
   "districtId": 6301061,
-  "name": "PAMALONGAN"
+  "districtName": "BAJUIN",
+  "name": "PAMALONGAN",
+  "postalCode": ""
  },
  {
   "id": 6301061004,
   "districtId": 6301061,
-  "name": "KETAPANG"
+  "districtName": "BAJUIN",
+  "name": "KETAPANG",
+  "postalCode": "35596"
  },
  {
   "id": 6301061005,
   "districtId": 6301061,
-  "name": "KUNYIT"
+  "districtName": "BAJUIN",
+  "name": "KUNYIT",
+  "postalCode": "70815"
  },
  {
   "id": 6301061006,
   "districtId": 6301061,
-  "name": "BAJUIN"
+  "districtName": "BAJUIN",
+  "name": "BAJUIN",
+  "postalCode": "70815"
  },
  {
   "id": 6301061007,
   "districtId": 6301061,
-  "name": "SUNGAI BAKAR"
+  "districtName": "BAJUIN",
+  "name": "SUNGAI BAKAR",
+  "postalCode": ""
  },
  {
   "id": 6301061008,
   "districtId": 6301061,
-  "name": "TANJUNG"
+  "districtName": "BAJUIN",
+  "name": "TANJUNG",
+  "postalCode": "24562"
  },
  {
   "id": 6301061009,
   "districtId": 6301061,
-  "name": "TEBING SIRING"
+  "districtName": "BAJUIN",
+  "name": "TEBING SIRING",
+  "postalCode": "70815"
  }
 ]

@@ -2,46 +2,64 @@
  {
   "id": 8205052001,
   "districtId": 8205052,
-  "name": "SAMUDA"
+  "districtName": "GALELA BARAT",
+  "name": "SAMUDA",
+  "postalCode": "70563"
  },
  {
   "id": 8205052002,
   "districtId": 8205052,
-  "name": "SOATOBARU"
+  "districtName": "GALELA BARAT",
+  "name": "SOATOBARU",
+  "postalCode": "97761"
  },
  {
   "id": 8205052003,
   "districtId": 8205052,
-  "name": "ROKO"
+  "districtName": "GALELA BARAT",
+  "name": "ROKO",
+  "postalCode": "97761"
  },
  {
   "id": 8205052004,
   "districtId": 8205052,
-  "name": "DOKULAMO"
+  "districtName": "GALELA BARAT",
+  "name": "DOKULAMO",
+  "postalCode": "97761"
  },
  {
   "id": 8205052005,
   "districtId": 8205052,
-  "name": "KIRA"
+  "districtName": "GALELA BARAT",
+  "name": "KIRA",
+  "postalCode": "97761"
  },
  {
   "id": 8205052006,
   "districtId": 8205052,
-  "name": "DUMA"
+  "districtName": "GALELA BARAT",
+  "name": "DUMA",
+  "postalCode": "97761"
  },
  {
   "id": 8205052007,
   "districtId": 8205052,
-  "name": "GOTALAMO"
+  "districtName": "GALELA BARAT",
+  "name": "GOTALAMO",
+  "postalCode": "97761"
  },
  {
   "id": 8205052008,
   "districtId": 8205052,
-  "name": "MAKETE"
+  "districtName": "GALELA BARAT",
+  "name": "MAKETE",
+  "postalCode": "97761"
  },
  {
   "id": 8205052009,
   "districtId": 8205052,
-  "name": "NGIDIHO"
+  "districtName": "GALELA BARAT",
+  "name": "NGIDIHO",
+  "postalCode": "97761"
  }
 ]

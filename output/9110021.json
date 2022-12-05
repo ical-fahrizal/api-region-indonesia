@@ -2,46 +2,64 @@
  {
   "id": 9110021001,
   "districtId": 9110021,
-  "name": "EROK WERO"
+  "districtName": "AITINYO TENGAH",
+  "name": "EROK WERO",
+  "postalCode": ""
  },
  {
   "id": 9110021002,
   "districtId": 9110021,
-  "name": "YAKSORO"
+  "districtName": "AITINYO TENGAH",
+  "name": "YAKSORO",
+  "postalCode": "98462"
  },
  {
   "id": 9110021003,
   "districtId": 9110021,
-  "name": "SIRA"
+  "districtName": "AITINYO TENGAH",
+  "name": "SIRA",
+  "postalCode": "99584"
  },
  {
   "id": 9110021004,
   "districtId": 9110021,
-  "name": "AWIT"
+  "districtName": "AITINYO TENGAH",
+  "name": "AWIT",
+  "postalCode": "95881"
  },
  {
   "id": 9110021005,
   "districtId": 9110021,
-  "name": "ITIGAH"
+  "districtName": "AITINYO TENGAH",
+  "name": "ITIGAH",
+  "postalCode": "98462"
  },
  {
   "id": 9110021006,
   "districtId": 9110021,
-  "name": "SIRA TEE"
+  "districtName": "AITINYO TENGAH",
+  "name": "SIRA TEE",
+  "postalCode": "98462"
  },
  {
   "id": 9110021007,
   "districtId": 9110021,
-  "name": "SABUN"
+  "districtName": "AITINYO TENGAH",
+  "name": "SABUN",
+  "postalCode": "85573"
  },
  {
   "id": 9110021008,
   "districtId": 9110021,
-  "name": "EWAY"
+  "districtName": "AITINYO TENGAH",
+  "name": "EWAY",
+  "postalCode": "98462"
  },
  {
   "id": 9110021009,
   "districtId": 9110021,
-  "name": "WRAIT TUU"
+  "districtName": "AITINYO TENGAH",
+  "name": "WRAIT TUU",
+  "postalCode": ""
  }
 ]

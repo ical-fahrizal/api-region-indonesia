@@ -2,76 +2,106 @@
  {
   "id": 9408061001,
   "districtId": 9408061,
-  "name": "KANAWA"
+  "districtName": "KOSIWO",
+  "name": "KANAWA",
+  "postalCode": "98215"
  },
  {
   "id": 9408061002,
   "districtId": 9408061,
-  "name": "MARIAROTU"
+  "districtName": "KOSIWO",
+  "name": "MARIAROTU",
+  "postalCode": ""
  },
  {
   "id": 9408061003,
   "districtId": 9408061,
-  "name": "KAMANAP"
+  "districtName": "KOSIWO",
+  "name": "KAMANAP",
+  "postalCode": "98215"
  },
  {
   "id": 9408061004,
   "districtId": 9408061,
-  "name": "PANDUAMI"
+  "districtName": "KOSIWO",
+  "name": "PANDUAMI",
+  "postalCode": ""
  },
  {
   "id": 9408061005,
   "districtId": 9408061,
-  "name": "ARIEPI"
+  "districtName": "KOSIWO",
+  "name": "ARIEPI",
+  "postalCode": "98215"
  },
  {
   "id": 9408061006,
   "districtId": 9408061,
-  "name": "TATUI"
+  "districtName": "KOSIWO",
+  "name": "TATUI",
+  "postalCode": "98215"
  },
  {
   "id": 9408061007,
   "districtId": 9408061,
-  "name": "AROMAREA"
+  "districtName": "KOSIWO",
+  "name": "AROMAREA",
+  "postalCode": "98215"
  },
  {
   "id": 9408061008,
   "districtId": 9408061,
-  "name": "SERAWANDORI"
+  "districtName": "KOSIWO",
+  "name": "SERAWANDORI",
+  "postalCode": ""
  },
  {
   "id": 9408061009,
   "districtId": 9408061,
-  "name": "AMBAIDIRU"
+  "districtName": "KOSIWO",
+  "name": "AMBAIDIRU",
+  "postalCode": "98215"
  },
  {
   "id": 9408061010,
   "districtId": 9408061,
-  "name": "MAMBO"
+  "districtName": "KOSIWO",
+  "name": "MAMBO",
+  "postalCode": "93773"
  },
  {
   "id": 9408061011,
   "districtId": 9408061,
-  "name": "ARIEPI II"
+  "districtName": "KOSIWO",
+  "name": "ARIEPI II",
+  "postalCode": ""
  },
  {
   "id": 9408061013,
   "districtId": 9408061,
-  "name": "MANAININ"
+  "districtName": "KOSIWO",
+  "name": "MANAININ",
+  "postalCode": "98215"
  },
  {
   "id": 9408061014,
   "districtId": 9408061,
-  "name": "SERAWANDORI II"
+  "districtName": "KOSIWO",
+  "name": "SERAWANDORI II",
+  "postalCode": ""
  },
  {
   "id": 9408061015,
   "districtId": 9408061,
-  "name": "NUMAMAM"
+  "districtName": "KOSIWO",
+  "name": "NUMAMAM",
+  "postalCode": ""
  },
  {
   "id": 9408061016,
   "districtId": 9408061,
-  "name": "RAMANGKURANI"
+  "districtName": "KOSIWO",
+  "name": "RAMANGKURANI",
+  "postalCode": "98215"
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 7602061001,
   "districtId": 7602061,
-  "name": "LILLI"
+  "districtName": "MATANGNGA",
+  "name": "LILLI",
+  "postalCode": "91352"
  },
  {
   "id": 7602061002,
   "districtId": 7602061,
-  "name": "TAPUA"
+  "districtName": "MATANGNGA",
+  "name": "TAPUA",
+  "postalCode": "91352"
  },
  {
   "id": 7602061003,
   "districtId": 7602061,
-  "name": "MATANGNGA"
+  "districtName": "MATANGNGA",
+  "name": "MATANGNGA",
+  "postalCode": "91352"
  },
  {
   "id": 7602061004,
   "districtId": 7602061,
-  "name": "RANGOAN"
+  "districtName": "MATANGNGA",
+  "name": "RANGOAN",
+  "postalCode": "91352"
  },
  {
   "id": 7602061005,
   "districtId": 7602061,
-  "name": "BA'PA TAPUA"
+  "districtName": "MATANGNGA",
+  "name": "BA'PA TAPUA",
+  "postalCode": ""
  },
  {
   "id": 7602061006,
   "districtId": 7602061,
-  "name": "MAMBU TAPUA"
+  "districtName": "MATANGNGA",
+  "name": "MAMBU TAPUA",
+  "postalCode": "91352"
  },
  {
   "id": 7602061007,
   "districtId": 7602061,
-  "name": "KATIMBANG"
+  "districtName": "MATANGNGA",
+  "name": "KATIMBANG",
+  "postalCode": "91352"
  }
 ]

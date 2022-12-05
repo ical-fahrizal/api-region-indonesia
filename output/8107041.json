@@ -2,66 +2,92 @@
  {
   "id": 8107041001,
   "districtId": 8107041,
-  "name": "HOTE"
+  "districtName": "BULA BARAT",
+  "name": "HOTE",
+  "postalCode": "97554"
  },
  {
   "id": 8107041002,
   "districtId": 8107041,
-  "name": "SILOHAN"
+  "districtName": "BULA BARAT",
+  "name": "SILOHAN",
+  "postalCode": "97554"
  },
  {
   "id": 8107041003,
   "districtId": 8107041,
-  "name": "RUKUN JAYA"
+  "districtName": "BULA BARAT",
+  "name": "RUKUN JAYA",
+  "postalCode": "22987"
  },
  {
   "id": 8107041004,
   "districtId": 8107041,
-  "name": "JEMBATAN BASAH"
+  "districtName": "BULA BARAT",
+  "name": "JEMBATAN BASAH",
+  "postalCode": "97554"
  },
  {
   "id": 8107041005,
   "districtId": 8107041,
-  "name": "SUMBER AGUNG"
+  "districtName": "BULA BARAT",
+  "name": "SUMBER AGUNG",
+  "postalCode": "37353"
  },
  {
   "id": 8107041006,
   "districtId": 8107041,
-  "name": "BENGGOI"
+  "districtName": "BULA BARAT",
+  "name": "BENGGOI",
+  "postalCode": ""
  },
  {
   "id": 8107041007,
   "districtId": 8107041,
-  "name": "JAKARTA BARU"
+  "districtName": "BULA BARAT",
+  "name": "JAKARTA BARU",
+  "postalCode": "97554"
  },
  {
   "id": 8107041008,
   "districtId": 8107041,
-  "name": "WAIKETAM BARU"
+  "districtName": "BULA BARAT",
+  "name": "WAIKETAM BARU",
+  "postalCode": "97554"
  },
  {
   "id": 8107041009,
   "districtId": 8107041,
-  "name": "WAIMATAKABU"
+  "districtName": "BULA BARAT",
+  "name": "WAIMATAKABU",
+  "postalCode": ""
  },
  {
   "id": 8107041010,
   "districtId": 8107041,
-  "name": "WAISAMET"
+  "districtName": "BULA BARAT",
+  "name": "WAISAMET",
+  "postalCode": "97554"
  },
  {
   "id": 8107041011,
   "districtId": 8107041,
-  "name": "AKI JAYA"
+  "districtName": "BULA BARAT",
+  "name": "AKI JAYA",
+  "postalCode": "97554"
  },
  {
   "id": 8107041012,
   "districtId": 8107041,
-  "name": "BANGGOI PANCORANG"
+  "districtName": "BULA BARAT",
+  "name": "BANGGOI PANCORANG",
+  "postalCode": ""
  },
  {
   "id": 8107041013,
   "districtId": 8107041,
-  "name": "DREAMLAND HILLS"
+  "districtName": "BULA BARAT",
+  "name": "DREAMLAND HILLS",
+  "postalCode": ""
  }
 ]

@@ -2,71 +2,99 @@
  {
   "id": 6202050001,
   "districtId": 6202050,
-  "name": "SATIRUK"
+  "districtName": "PULAU HANAUT",
+  "name": "SATIRUK",
+  "postalCode": "74362"
  },
  {
   "id": 6202050002,
   "districtId": 6202050,
-  "name": "BAPINANG HILIR LAUT"
+  "districtName": "PULAU HANAUT",
+  "name": "BAPINANG HILIR LAUT",
+  "postalCode": "74362"
  },
  {
   "id": 6202050003,
   "districtId": 6202050,
-  "name": "BAPINANG HILIR"
+  "districtName": "PULAU HANAUT",
+  "name": "BAPINANG HILIR",
+  "postalCode": "74362"
  },
  {
   "id": 6202050004,
   "districtId": 6202050,
-  "name": "BAPINANG HULU"
+  "districtName": "PULAU HANAUT",
+  "name": "BAPINANG HULU",
+  "postalCode": "74362"
  },
  {
   "id": 6202050005,
   "districtId": 6202050,
-  "name": "MAKARTI JAYA"
+  "districtName": "PULAU HANAUT",
+  "name": "MAKARTI JAYA",
+  "postalCode": "23662"
  },
  {
   "id": 6202050006,
   "districtId": 6202050,
-  "name": "RAWA SARI"
+  "districtName": "PULAU HANAUT",
+  "name": "RAWA SARI",
+  "postalCode": "21273"
  },
  {
   "id": 6202050007,
   "districtId": 6202050,
-  "name": "BABIRAH"
+  "districtName": "PULAU HANAUT",
+  "name": "BABIRAH",
+  "postalCode": ""
  },
  {
   "id": 6202050008,
   "districtId": 6202050,
-  "name": "HANAUT"
+  "districtName": "PULAU HANAUT",
+  "name": "HANAUT",
+  "postalCode": "74362"
  },
  {
   "id": 6202050009,
   "districtId": 6202050,
-  "name": "SERAMBUT"
+  "districtName": "PULAU HANAUT",
+  "name": "SERAMBUT",
+  "postalCode": "74362"
  },
  {
   "id": 6202050010,
   "districtId": 6202050,
-  "name": "BABAUNG"
+  "districtName": "PULAU HANAUT",
+  "name": "BABAUNG",
+  "postalCode": "74362"
  },
  {
   "id": 6202050011,
   "districtId": 6202050,
-  "name": "BANTIAN"
+  "districtName": "PULAU HANAUT",
+  "name": "BANTIAN",
+  "postalCode": ""
  },
  {
   "id": 6202050012,
   "districtId": 6202050,
-  "name": "HANTIPAN"
+  "districtName": "PULAU HANAUT",
+  "name": "HANTIPAN",
+  "postalCode": ""
  },
  {
   "id": 6202050013,
   "districtId": 6202050,
-  "name": "PENYAGUAN"
+  "districtName": "PULAU HANAUT",
+  "name": "PENYAGUAN",
+  "postalCode": "29355"
  },
  {
   "id": 6202050014,
   "districtId": 6202050,
-  "name": "BAMADU"
+  "districtName": "PULAU HANAUT",
+  "name": "BAMADU",
+  "postalCode": ""
  }
 ]

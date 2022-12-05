@@ -2,71 +2,99 @@
  {
   "id": 3310170001,
   "districtId": 3310170,
-  "name": "WADUNG GETAS"
+  "districtName": "WONOSARI",
+  "name": "WADUNG GETAS",
+  "postalCode": "57473"
  },
  {
   "id": 3310170002,
   "districtId": 3310170,
-  "name": "BOTO"
+  "districtName": "WONOSARI",
+  "name": "BOTO",
+  "postalCode": "50182"
  },
  {
   "id": 3310170003,
   "districtId": 3310170,
-  "name": "BULAN"
+  "districtName": "WONOSARI",
+  "name": "BULAN",
+  "postalCode": "56262"
  },
  {
   "id": 3310170005,
   "districtId": 3310170,
-  "name": "JELOBO"
+  "districtName": "WONOSARI",
+  "name": "JELOBO",
+  "postalCode": "57473"
  },
  {
   "id": 3310170006,
   "districtId": 3310170,
-  "name": "GUNTING"
+  "districtName": "WONOSARI",
+  "name": "GUNTING",
+  "postalCode": "57473"
  },
  {
   "id": 3310170007,
   "districtId": 3310170,
-  "name": "SIDOWARNO"
+  "districtName": "WONOSARI",
+  "name": "SIDOWARNO",
+  "postalCode": "57473"
  },
  {
   "id": 3310170009,
   "districtId": 3310170,
-  "name": "KINGKANG"
+  "districtName": "WONOSARI",
+  "name": "KINGKANG",
+  "postalCode": "57473"
  },
  {
   "id": 3310170010,
   "districtId": 3310170,
-  "name": "TELOYO"
+  "districtName": "WONOSARI",
+  "name": "TELOYO",
+  "postalCode": "57473"
  },
  {
   "id": 3310170011,
   "districtId": 3310170,
-  "name": "PANDANAN"
+  "districtName": "WONOSARI",
+  "name": "PANDANAN",
+  "postalCode": "57473"
  },
  {
   "id": 3310170013,
   "districtId": 3310170,
-  "name": "BENTANGAN"
+  "districtName": "WONOSARI",
+  "name": "BENTANGAN",
+  "postalCode": "57473"
  },
  {
   "id": 3310170015,
   "districtId": 3310170,
-  "name": "SEKARAN"
+  "districtName": "WONOSARI",
+  "name": "SEKARAN",
+  "postalCode": "50229"
  },
  {
   "id": 3310170016,
   "districtId": 3310170,
-  "name": "SUKOREJO"
+  "districtName": "WONOSARI",
+  "name": "SUKOREJO",
+  "postalCode": "31551"
  },
  {
   "id": 3310170017,
   "districtId": 3310170,
-  "name": "TEGALGONDO"
+  "districtName": "WONOSARI",
+  "name": "TEGALGONDO",
+  "postalCode": "54264"
  },
  {
   "id": 3310170018,
   "districtId": 3310170,
-  "name": "BOLALI"
+  "districtName": "WONOSARI",
+  "name": "BOLALI",
+  "postalCode": "57473"
  }
 ]

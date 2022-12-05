@@ -2,26 +2,36 @@
  {
   "id": 5304022001,
   "districtId": 5304022,
-  "name": "BESANA"
+  "districtName": "MOLLO BARAT",
+  "name": "BESANA",
+  "postalCode": "85561"
  },
  {
   "id": 5304022002,
   "districtId": 5304022,
-  "name": "FATUKOKO"
+  "districtName": "MOLLO BARAT",
+  "name": "FATUKOKO",
+  "postalCode": "85561"
  },
  {
   "id": 5304022003,
   "districtId": 5304022,
-  "name": "KOA"
+  "districtName": "MOLLO BARAT",
+  "name": "KOA",
+  "postalCode": "85561"
  },
  {
   "id": 5304022004,
   "districtId": 5304022,
-  "name": "SALBAIT"
+  "districtName": "MOLLO BARAT",
+  "name": "SALBAIT",
+  "postalCode": "85561"
  },
  {
   "id": 5304022005,
   "districtId": 5304022,
-  "name": "OEUBAN"
+  "districtName": "MOLLO BARAT",
+  "name": "OEUBAN",
+  "postalCode": ""
  }
 ]

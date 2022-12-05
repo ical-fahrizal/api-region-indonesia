@@ -2,86 +2,120 @@
  {
   "id": 7302070001,
   "districtId": 7302070,
-  "name": "SAPO BONTO"
+  "districtName": "BULUKUMPA",
+  "name": "SAPO BONTO",
+  "postalCode": "92552"
  },
  {
   "id": 7302070002,
   "districtId": 7302070,
-  "name": "BONTO BULAENG"
+  "districtName": "BULUKUMPA",
+  "name": "BONTO BULAENG",
+  "postalCode": "92572"
  },
  {
   "id": 7302070003,
   "districtId": 7302070,
-  "name": "BULO-BULO"
+  "districtName": "BULUKUMPA",
+  "name": "BULO-BULO",
+  "postalCode": "92361"
  },
  {
   "id": 7302070004,
   "districtId": 7302070,
-  "name": "SALASSAE"
+  "districtName": "BULUKUMPA",
+  "name": "SALASSAE",
+  "postalCode": "92552"
  },
  {
   "id": 7302070005,
   "districtId": 7302070,
-  "name": "BONTOMANGIRING"
+  "districtName": "BULUKUMPA",
+  "name": "BONTOMANGIRING",
+  "postalCode": "92552"
  },
  {
   "id": 7302070006,
   "districtId": 7302070,
-  "name": "JOJJOLO"
+  "districtName": "BULUKUMPA",
+  "name": "JOJJOLO",
+  "postalCode": "92552"
  },
  {
   "id": 7302070007,
   "districtId": 7302070,
-  "name": "BALLASARAJA"
+  "districtName": "BULUKUMPA",
+  "name": "BALLASARAJA",
+  "postalCode": "92552"
  },
  {
   "id": 7302070008,
   "districtId": 7302070,
-  "name": "TANETE"
+  "districtName": "BULUKUMPA",
+  "name": "TANETE",
+  "postalCode": "91752"
  },
  {
   "id": 7302070009,
   "districtId": 7302070,
-  "name": "BALANG TAROANG"
+  "districtName": "BULUKUMPA",
+  "name": "BALANG TAROANG",
+  "postalCode": "92552"
  },
  {
   "id": 7302070010,
   "districtId": 7302070,
-  "name": "KAMBUNO"
+  "districtName": "BULUKUMPA",
+  "name": "KAMBUNO",
+  "postalCode": "92552"
  },
  {
   "id": 7302070011,
   "districtId": 7302070,
-  "name": "BARUGAE"
+  "districtName": "BULUKUMPA",
+  "name": "BARUGAE",
+  "postalCode": "92552"
  },
  {
   "id": 7302070012,
   "districtId": 7302070,
-  "name": "BALANG PESOANG"
+  "districtName": "BULUKUMPA",
+  "name": "BALANG PESOANG",
+  "postalCode": "92552"
  },
  {
   "id": 7302070013,
   "districtId": 7302070,
-  "name": "JAWI - JAWI"
+  "districtName": "BULUKUMPA",
+  "name": "JAWI - JAWI",
+  "postalCode": "92552"
  },
  {
   "id": 7302070014,
   "districtId": 7302070,
-  "name": "TIBONA"
+  "districtName": "BULUKUMPA",
+  "name": "TIBONA",
+  "postalCode": "92552"
  },
  {
   "id": 7302070015,
   "districtId": 7302070,
-  "name": "BONTO MINASA"
+  "districtName": "BULUKUMPA",
+  "name": "BONTO MINASA",
+  "postalCode": "92552"
  },
  {
   "id": 7302070016,
   "districtId": 7302070,
-  "name": "BATULOHE"
+  "districtName": "BULUKUMPA",
+  "name": "BATULOHE",
+  "postalCode": "92552"
  },
  {
   "id": 7302070017,
   "districtId": 7302070,
-  "name": "BARUGA RIATTANG"
+  "districtName": "BULUKUMPA",
+  "name": "BARUGA RIATTANG",
+  "postalCode": "92552"
  }
 ]

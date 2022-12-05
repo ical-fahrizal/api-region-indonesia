@@ -2,41 +2,57 @@
  {
   "id": 6404044001,
   "districtId": 6404044,
-  "name": "RANTAU MAKMUR"
+  "districtName": "RANTAU PULUNG",
+  "name": "RANTAU MAKMUR",
+  "postalCode": "36572"
  },
  {
   "id": 6404044002,
   "districtId": 6404044,
-  "name": "MUKTI JAYA"
+  "districtName": "RANTAU PULUNG",
+  "name": "MUKTI JAYA",
+  "postalCode": "28953"
  },
  {
   "id": 6404044003,
   "districtId": 6404044,
-  "name": "TANJUNG LABU"
+  "districtName": "RANTAU PULUNG",
+  "name": "TANJUNG LABU",
+  "postalCode": "33791"
  },
  {
   "id": 6404044004,
   "districtId": 6404044,
-  "name": "KEBON AGUNG"
+  "districtName": "RANTAU PULUNG",
+  "name": "KEBON AGUNG",
+  "postalCode": "32156"
  },
  {
   "id": 6404044005,
   "districtId": 6404044,
-  "name": "MANUNGGAL JAYA"
+  "districtName": "RANTAU PULUNG",
+  "name": "MANUNGGAL JAYA",
+  "postalCode": "29256"
  },
  {
   "id": 6404044006,
   "districtId": 6404044,
-  "name": "TEPIAN MAKMUR"
+  "districtName": "RANTAU PULUNG",
+  "name": "TEPIAN MAKMUR",
+  "postalCode": "75683"
  },
  {
   "id": 6404044007,
   "districtId": 6404044,
-  "name": "PULUNG SARI"
+  "districtName": "RANTAU PULUNG",
+  "name": "PULUNG SARI",
+  "postalCode": "75683"
  },
  {
   "id": 6404044008,
   "districtId": 6404044,
-  "name": "MARGO MULYO"
+  "districtName": "RANTAU PULUNG",
+  "name": "MARGO MULYO",
+  "postalCode": "32383"
  }
 ]

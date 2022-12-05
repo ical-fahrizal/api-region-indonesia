@@ -2,46 +2,64 @@
  {
   "id": 3529220001,
   "districtId": 3529220,
-  "name": "KETUPAT"
+  "districtName": "RAAS",
+  "name": "KETUPAT",
+  "postalCode": "69485"
  },
  {
   "id": 3529220002,
   "districtId": 3529220,
-  "name": "JUNGKAT"
+  "districtName": "RAAS",
+  "name": "JUNGKAT",
+  "postalCode": "69485"
  },
  {
   "id": 3529220003,
   "districtId": 3529220,
-  "name": "KAROPOH"
+  "districtName": "RAAS",
+  "name": "KAROPOH",
+  "postalCode": "69485"
  },
  {
   "id": 3529220004,
   "districtId": 3529220,
-  "name": "KARANGNANGKA"
+  "districtName": "RAAS",
+  "name": "KARANGNANGKA",
+  "postalCode": "53281"
  },
  {
   "id": 3529220005,
   "districtId": 3529220,
-  "name": "ALASMALANG"
+  "districtName": "RAAS",
+  "name": "ALASMALANG",
+  "postalCode": "53194"
  },
  {
   "id": 3529220006,
   "districtId": 3529220,
-  "name": "POTERAN"
+  "districtName": "RAAS",
+  "name": "POTERAN",
+  "postalCode": "69485"
  },
  {
   "id": 3529220007,
   "districtId": 3529220,
-  "name": "BRAKAS"
+  "districtName": "RAAS",
+  "name": "BRAKAS",
+  "postalCode": "59573"
  },
  {
   "id": 3529220008,
   "districtId": 3529220,
-  "name": "TONDUK"
+  "districtName": "RAAS",
+  "name": "TONDUK",
+  "postalCode": "69485"
  },
  {
   "id": 3529220009,
   "districtId": 3529220,
-  "name": "GUWA GUWA"
+  "districtName": "RAAS",
+  "name": "GUWA GUWA",
+  "postalCode": "69485"
  }
 ]

@@ -2,46 +2,64 @@
  {
   "id": 7504021001,
   "districtId": 7504021,
-  "name": "BUATA"
+  "districtName": "BOTU PINGGE",
+  "name": "BUATA",
+  "postalCode": "96253"
  },
  {
   "id": 7504021002,
   "districtId": 7504021,
-  "name": "LUWOHU"
+  "districtName": "BOTU PINGGE",
+  "name": "LUWOHU",
+  "postalCode": "96583"
  },
  {
   "id": 7504021003,
   "districtId": 7504021,
-  "name": "TIMBUOLO"
+  "districtName": "BOTU PINGGE",
+  "name": "TIMBUOLO",
+  "postalCode": "96583"
  },
  {
   "id": 7504021004,
   "districtId": 7504021,
-  "name": "PANGGULO"
+  "districtName": "BOTU PINGGE",
+  "name": "PANGGULO",
+  "postalCode": "96583"
  },
  {
   "id": 7504021006,
   "districtId": 7504021,
-  "name": "TIMBUOLO TIMUR"
+  "districtName": "BOTU PINGGE",
+  "name": "TIMBUOLO TIMUR",
+  "postalCode": "96583"
  },
  {
   "id": 7504021007,
   "districtId": 7504021,
-  "name": "TANAH PUTIH"
+  "districtName": "BOTU PINGGE",
+  "name": "TANAH PUTIH",
+  "postalCode": "84182"
  },
  {
   "id": 7504021008,
   "districtId": 7504021,
-  "name": "TIMBUOLO TENGAH"
+  "districtName": "BOTU PINGGE",
+  "name": "TIMBUOLO TENGAH",
+  "postalCode": "96583"
  },
  {
   "id": 7504021009,
   "districtId": 7504021,
-  "name": "PANGGULO BARAT"
+  "districtName": "BOTU PINGGE",
+  "name": "PANGGULO BARAT",
+  "postalCode": "96583"
  },
  {
   "id": 7504021010,
   "districtId": 7504021,
-  "name": "SUKMA"
+  "districtName": "BOTU PINGGE",
+  "name": "SUKMA",
+  "postalCode": "96583"
  }
 ]

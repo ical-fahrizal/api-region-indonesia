@@ -2,31 +2,43 @@
  {
   "id": 3204300001,
   "districtId": 3204300,
-  "name": "GIRIMEKAR"
+  "districtName": "CILENGKRANG",
+  "name": "GIRIMEKAR",
+  "postalCode": "40619"
  },
  {
   "id": 3204300002,
   "districtId": 3204300,
-  "name": "JATIENDAH"
+  "districtName": "CILENGKRANG",
+  "name": "JATIENDAH",
+  "postalCode": "40616"
  },
  {
   "id": 3204300003,
   "districtId": 3204300,
-  "name": "MELATIWANGI"
+  "districtName": "CILENGKRANG",
+  "name": "MELATIWANGI",
+  "postalCode": "40618"
  },
  {
   "id": 3204300004,
   "districtId": 3204300,
-  "name": "CIPANJALU"
+  "districtName": "CILENGKRANG",
+  "name": "CIPANJALU",
+  "postalCode": "40618"
  },
  {
   "id": 3204300005,
   "districtId": 3204300,
-  "name": "CIPOREAT"
+  "districtName": "CILENGKRANG",
+  "name": "CIPOREAT",
+  "postalCode": "40617"
  },
  {
   "id": 3204300006,
   "districtId": 3204300,
-  "name": "CILENGKRANG"
+  "districtName": "CILENGKRANG",
+  "name": "CILENGKRANG",
+  "postalCode": "40615"
  }
 ]

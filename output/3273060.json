@@ -2,31 +2,43 @@
  {
   "id": 3273060001,
   "districtId": 3273060,
-  "name": "CISEUREUH"
+  "districtName": "REGOL",
+  "name": "CISEUREUH",
+  "postalCode": "41118"
  },
  {
   "id": 3273060002,
   "districtId": 3273060,
-  "name": "PASIRLUYU"
+  "districtName": "REGOL",
+  "name": "PASIRLUYU",
+  "postalCode": "40254"
  },
  {
   "id": 3273060003,
   "districtId": 3273060,
-  "name": "ANCOL"
+  "districtName": "REGOL",
+  "name": "ANCOL",
+  "postalCode": "14430"
  },
  {
   "id": 3273060004,
   "districtId": 3273060,
-  "name": "CIGERELENG"
+  "districtName": "REGOL",
+  "name": "CIGERELENG",
+  "postalCode": "40253"
  },
  {
   "id": 3273060005,
   "districtId": 3273060,
-  "name": "CIATEUL"
+  "districtName": "REGOL",
+  "name": "CIATEUL",
+  "postalCode": "40252"
  },
  {
   "id": 3273060007,
   "districtId": 3273060,
-  "name": "BALONG GEDE"
+  "districtName": "REGOL",
+  "name": "BALONG GEDE",
+  "postalCode": "40251"
  }
 ]

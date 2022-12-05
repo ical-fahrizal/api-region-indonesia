@@ -2,86 +2,120 @@
  {
   "id": 1206081001,
   "districtId": 1206081,
-  "name": "SIREGAR AEK NALAS"
+  "districtName": "ULUAN",
+  "name": "SIREGAR AEK NALAS",
+  "postalCode": "22385"
  },
  {
   "id": 1206081002,
   "districtId": 1206081,
-  "name": "SIGAOL BARAT"
+  "districtName": "ULUAN",
+  "name": "SIGAOL BARAT",
+  "postalCode": "22385"
  },
  {
   "id": 1206081003,
   "districtId": 1206081,
-  "name": "SIGAOL TIMUR"
+  "districtName": "ULUAN",
+  "name": "SIGAOL TIMUR",
+  "postalCode": "22385"
  },
  {
   "id": 1206081004,
   "districtId": 1206081,
-  "name": "MAROM"
+  "districtName": "ULUAN",
+  "name": "MAROM",
+  "postalCode": "22385"
  },
  {
   "id": 1206081005,
   "districtId": 1206081,
-  "name": "SIBUNTUON"
+  "districtName": "ULUAN",
+  "name": "SIBUNTUON",
+  "postalCode": "22312"
  },
  {
   "id": 1206081006,
   "districtId": 1206081,
-  "name": "DOLOK SARIBU JANJI MATOGU"
+  "districtName": "ULUAN",
+  "name": "DOLOK SARIBU JANJI MATOGU",
+  "postalCode": "22385"
  },
  {
   "id": 1206081007,
   "districtId": 1206081,
-  "name": "PARTOR JANJI MATOGU"
+  "districtName": "ULUAN",
+  "name": "PARTOR JANJI MATOGU",
+  "postalCode": "22385"
  },
  {
   "id": 1206081008,
   "districtId": 1206081,
-  "name": "PARBAGASAN JANJI MATOGU"
+  "districtName": "ULUAN",
+  "name": "PARBAGASAN JANJI MATOGU",
+  "postalCode": "22385"
  },
  {
   "id": 1206081009,
   "districtId": 1206081,
-  "name": "PARTORUAN JANJI MATOGU"
+  "districtName": "ULUAN",
+  "name": "PARTORUAN JANJI MATOGU",
+  "postalCode": "22385"
  },
  {
   "id": 1206081010,
   "districtId": 1206081,
-  "name": "PARHABINSARAN JANJI MATOGU"
+  "districtName": "ULUAN",
+  "name": "PARHABINSARAN JANJI MATOGU",
+  "postalCode": "22385"
  },
  {
   "id": 1206081011,
   "districtId": 1206081,
-  "name": "LUMBAN BINANGA"
+  "districtName": "ULUAN",
+  "name": "LUMBAN BINANGA",
+  "postalCode": "22381"
  },
  {
   "id": 1206081012,
   "districtId": 1206081,
-  "name": "LUMBAN HOLBUNG LUMBAN NABOLON"
+  "districtName": "ULUAN",
+  "name": "LUMBAN HOLBUNG LUMBAN NABOLON",
+  "postalCode": ""
  },
  {
   "id": 1206081013,
   "districtId": 1206081,
-  "name": "LUMBAN NABOLON"
+  "districtName": "ULUAN",
+  "name": "LUMBAN NABOLON",
+  "postalCode": "22385"
  },
  {
   "id": 1206081015,
   "districtId": 1206081,
-  "name": "DOLOK NAGODANG"
+  "districtName": "ULUAN",
+  "name": "DOLOK NAGODANG",
+  "postalCode": "22385"
  },
  {
   "id": 1206081016,
   "districtId": 1206081,
-  "name": "PARIK"
+  "districtName": "ULUAN",
+  "name": "PARIK",
+  "postalCode": "22385"
  },
  {
   "id": 1206081017,
   "districtId": 1206081,
-  "name": "DOLOK SARIBU LUMBAN NABOLON"
+  "districtName": "ULUAN",
+  "name": "DOLOK SARIBU LUMBAN NABOLON",
+  "postalCode": "22385"
  },
  {
   "id": 1206081018,
   "districtId": 1206081,
-  "name": "SAMPUARA"
+  "districtName": "ULUAN",
+  "name": "SAMPUARA",
+  "postalCode": "22385"
  }
 ]

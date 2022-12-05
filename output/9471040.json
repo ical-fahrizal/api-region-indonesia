@@ -2,36 +2,50 @@
  {
   "id": 9471040001,
   "districtId": 9471040,
-  "name": "GURABESI"
+  "districtName": "JAYAPURA UTARA",
+  "name": "GURABESI",
+  "postalCode": "99111"
  },
  {
   "id": 9471040002,
   "districtId": 9471040,
-  "name": "BAYANGKARA"
+  "districtName": "JAYAPURA UTARA",
+  "name": "BAYANGKARA",
+  "postalCode": ""
  },
  {
   "id": 9471040003,
   "districtId": 9471040,
-  "name": "MANDALA"
+  "districtName": "JAYAPURA UTARA",
+  "name": "MANDALA",
+  "postalCode": "45652"
  },
  {
   "id": 9471040004,
   "districtId": 9471040,
-  "name": "TRIKORA"
+  "districtName": "JAYAPURA UTARA",
+  "name": "TRIKORA",
+  "postalCode": "86414"
  },
  {
   "id": 9471040005,
   "districtId": 9471040,
-  "name": "ANGKASAPURA"
+  "districtName": "JAYAPURA UTARA",
+  "name": "ANGKASAPURA",
+  "postalCode": "99113"
  },
  {
   "id": 9471040007,
   "districtId": 9471040,
-  "name": "TANJUNG RIA"
+  "districtName": "JAYAPURA UTARA",
+  "name": "TANJUNG RIA",
+  "postalCode": "78662"
  },
  {
   "id": 9471040008,
   "districtId": 9471040,
-  "name": "KAMPUNG KAYOBATU"
+  "districtName": "JAYAPURA UTARA",
+  "name": "KAMPUNG KAYOBATU",
+  "postalCode": ""
  }
 ]

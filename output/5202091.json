@@ -2,41 +2,57 @@
  {
   "id": 5202091001,
   "districtId": 5202091,
-  "name": "MAS-MAS"
+  "districtName": "BATUKLIANG UTARA",
+  "name": "MAS-MAS",
+  "postalCode": "83552"
  },
  {
   "id": 5202091002,
   "districtId": 5202091,
-  "name": "AIK BUKAQ"
+  "districtName": "BATUKLIANG UTARA",
+  "name": "AIK BUKAQ",
+  "postalCode": ""
  },
  {
   "id": 5202091003,
   "districtId": 5202091,
-  "name": "SETILING"
+  "districtName": "BATUKLIANG UTARA",
+  "name": "SETILING",
+  "postalCode": "83552"
  },
  {
   "id": 5202091004,
   "districtId": 5202091,
-  "name": "AIK BERIK"
+  "districtName": "BATUKLIANG UTARA",
+  "name": "AIK BERIK",
+  "postalCode": "83552"
  },
  {
   "id": 5202091005,
   "districtId": 5202091,
-  "name": "TERATAK"
+  "districtName": "BATUKLIANG UTARA",
+  "name": "TERATAK",
+  "postalCode": "28458"
  },
  {
   "id": 5202091006,
   "districtId": 5202091,
-  "name": "LANTAN"
+  "districtName": "BATUKLIANG UTARA",
+  "name": "LANTAN",
+  "postalCode": "83552"
  },
  {
   "id": 5202091007,
   "districtId": 5202091,
-  "name": "TANAK BEAQ"
+  "districtName": "BATUKLIANG UTARA",
+  "name": "TANAK BEAQ",
+  "postalCode": ""
  },
  {
   "id": 5202091008,
   "districtId": 5202091,
-  "name": "KARANG SIDEMEN"
+  "districtName": "BATUKLIANG UTARA",
+  "name": "KARANG SIDEMEN",
+  "postalCode": "83552"
  }
 ]

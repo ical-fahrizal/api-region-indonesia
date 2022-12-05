@@ -2,56 +2,78 @@
  {
   "id": 1404032001,
   "districtId": 1404032,
-  "name": "KUALA SEMUNDAM"
+  "districtName": "BANDAR PETALANGAN",
+  "name": "KUALA SEMUNDAM",
+  "postalCode": ""
  },
  {
   "id": 1404032002,
   "districtId": 1404032,
-  "name": "RAWANG EMPAT"
+  "districtName": "BANDAR PETALANGAN",
+  "name": "RAWANG EMPAT",
+  "postalCode": ""
  },
  {
   "id": 1404032003,
   "districtId": 1404032,
-  "name": "TAMBUN"
+  "districtName": "BANDAR PETALANGAN",
+  "name": "TAMBUN",
+  "postalCode": "28384"
  },
  {
   "id": 1404032004,
   "districtId": 1404032,
-  "name": "TERBANGIANG"
+  "districtName": "BANDAR PETALANGAN",
+  "name": "TERBANGIANG",
+  "postalCode": "28384"
  },
  {
   "id": 1404032005,
   "districtId": 1404032,
-  "name": "LUBUK TERAP"
+  "districtName": "BANDAR PETALANGAN",
+  "name": "LUBUK TERAP",
+  "postalCode": "28384"
  },
  {
   "id": 1404032006,
   "districtId": 1404032,
-  "name": "ANGKASA"
+  "districtName": "BANDAR PETALANGAN",
+  "name": "ANGKASA",
+  "postalCode": "28384"
  },
  {
   "id": 1404032007,
   "districtId": 1404032,
-  "name": "SIALANG GODANG"
+  "districtName": "BANDAR PETALANGAN",
+  "name": "SIALANG GODANG",
+  "postalCode": "28384"
  },
  {
   "id": 1404032008,
   "districtId": 1404032,
-  "name": "LUBUK RAJA"
+  "districtName": "BANDAR PETALANGAN",
+  "name": "LUBUK RAJA",
+  "postalCode": "28384"
  },
  {
   "id": 1404032009,
   "districtId": 1404032,
-  "name": "LUBUK KERANJI TIMUR"
+  "districtName": "BANDAR PETALANGAN",
+  "name": "LUBUK KERANJI TIMUR",
+  "postalCode": "28384"
  },
  {
   "id": 1404032010,
   "districtId": 1404032,
-  "name": "SIALANG BUNGKUK"
+  "districtName": "BANDAR PETALANGAN",
+  "name": "SIALANG BUNGKUK",
+  "postalCode": "28384"
  },
  {
   "id": 1404032011,
   "districtId": 1404032,
-  "name": "AIR TERJUN"
+  "districtName": "BANDAR PETALANGAN",
+  "name": "AIR TERJUN",
+  "postalCode": "28384"
  }
 ]

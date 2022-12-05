@@ -2,46 +2,64 @@
  {
   "id": 7504030011,
   "districtId": 7504030,
-  "name": "TINGKOHUBU"
+  "districtName": "SUWAWA",
+  "name": "TINGKOHUBU",
+  "postalCode": "96584"
  },
  {
   "id": 7504030012,
   "districtId": 7504030,
-  "name": "BOLUDAWA"
+  "districtName": "SUWAWA",
+  "name": "BOLUDAWA",
+  "postalCode": "96584"
  },
  {
   "id": 7504030014,
   "districtId": 7504030,
-  "name": "HULUDUOTAMO"
+  "districtName": "SUWAWA",
+  "name": "HULUDUOTAMO",
+  "postalCode": "96584"
  },
  {
   "id": 7504030019,
   "districtId": 7504030,
-  "name": "BUBEYA"
+  "districtName": "SUWAWA",
+  "name": "BUBEYA",
+  "postalCode": "96584"
  },
  {
   "id": 7504030020,
   "districtId": 7504030,
-  "name": "BUBE BARU"
+  "districtName": "SUWAWA",
+  "name": "BUBE BARU",
+  "postalCode": "96584"
  },
  {
   "id": 7504030022,
   "districtId": 7504030,
-  "name": "TINELO"
+  "districtName": "SUWAWA",
+  "name": "TINELO",
+  "postalCode": "96584"
  },
  {
   "id": 7504030023,
   "districtId": 7504030,
-  "name": "ULANTA"
+  "districtName": "SUWAWA",
+  "name": "ULANTA",
+  "postalCode": "96584"
  },
  {
   "id": 7504030024,
   "districtId": 7504030,
-  "name": "TINGKOHUBU TIMUR"
+  "districtName": "SUWAWA",
+  "name": "TINGKOHUBU TIMUR",
+  "postalCode": "96584"
  },
  {
   "id": 7504030025,
   "districtId": 7504030,
-  "name": "HELUMO"
+  "districtName": "SUWAWA",
+  "name": "HELUMO",
+  "postalCode": "96525"
  }
 ]

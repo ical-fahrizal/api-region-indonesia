@@ -2,36 +2,50 @@
  {
   "id": 3207281001,
   "districtId": 3207281,
-  "name": "CIKUPA"
+  "districtName": "LUMBUNG",
+  "name": "CIKUPA",
+  "postalCode": "46383"
  },
  {
   "id": 3207281002,
   "districtId": 3207281,
-  "name": "SUKARAHARJA"
+  "districtName": "LUMBUNG",
+  "name": "SUKARAHARJA",
+  "postalCode": "43262"
  },
  {
   "id": 3207281003,
   "districtId": 3207281,
-  "name": "AWILUAR"
+  "districtName": "LUMBUNG",
+  "name": "AWILUAR",
+  "postalCode": "46258"
  },
  {
   "id": 3207281005,
   "districtId": 3207281,
-  "name": "DARMARAJA"
+  "districtName": "LUMBUNG",
+  "name": "DARMARAJA",
+  "postalCode": "45372"
  },
  {
   "id": 3207281006,
   "districtId": 3207281,
-  "name": "LUMBUNGSARI"
+  "districtName": "LUMBUNG",
+  "name": "LUMBUNGSARI",
+  "postalCode": "46258"
  },
  {
   "id": 3207281007,
   "districtId": 3207281,
-  "name": "RAWA"
+  "districtName": "LUMBUNG",
+  "name": "RAWA",
+  "postalCode": "24151"
  },
  {
   "id": 3207281008,
   "districtId": 3207281,
-  "name": "SADEWATA"
+  "districtName": "LUMBUNG",
+  "name": "SADEWATA",
+  "postalCode": "46258"
  }
 ]

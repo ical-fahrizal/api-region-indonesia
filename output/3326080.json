@@ -2,126 +2,176 @@
  {
   "id": 3326080001,
   "districtId": 3326080,
-  "name": "TAMBAKROTO"
+  "districtName": "KAJEN",
+  "name": "TAMBAKROTO",
+  "postalCode": "51161"
  },
  {
   "id": 3326080002,
   "districtId": 3326080,
-  "name": "KUTOROJO"
+  "districtName": "KAJEN",
+  "name": "KUTOROJO",
+  "postalCode": "51161"
  },
  {
   "id": 3326080003,
   "districtId": 3326080,
-  "name": "LINGGOASRI"
+  "districtName": "KAJEN",
+  "name": "LINGGOASRI",
+  "postalCode": "51161"
  },
  {
   "id": 3326080004,
   "districtId": 3326080,
-  "name": "BRENGKOLANG"
+  "districtName": "KAJEN",
+  "name": "BRENGKOLANG",
+  "postalCode": "51161"
  },
  {
   "id": 3326080005,
   "districtId": 3326080,
-  "name": "PRINGSURAT"
+  "districtName": "KAJEN",
+  "name": "PRINGSURAT",
+  "postalCode": "51161"
  },
  {
   "id": 3326080006,
   "districtId": 3326080,
-  "name": "SOKOYOSO"
+  "districtName": "KAJEN",
+  "name": "SOKOYOSO",
+  "postalCode": "51161"
  },
  {
   "id": 3326080007,
   "districtId": 3326080,
-  "name": "SINANGOH PRENDENG"
+  "districtName": "KAJEN",
+  "name": "SINANGOH PRENDENG",
+  "postalCode": "51161"
  },
  {
   "id": 3326080008,
   "districtId": 3326080,
-  "name": "KAJONGAN"
+  "districtName": "KAJEN",
+  "name": "KAJONGAN",
+  "postalCode": "53362"
  },
  {
   "id": 3326080009,
   "districtId": 3326080,
-  "name": "PEKIRINGAN AGENG"
+  "districtName": "KAJEN",
+  "name": "PEKIRINGAN AGENG",
+  "postalCode": "51161"
  },
  {
   "id": 3326080010,
   "districtId": 3326080,
-  "name": "GANDARUM"
+  "districtName": "KAJEN",
+  "name": "GANDARUM",
+  "postalCode": "51161"
  },
  {
   "id": 3326080011,
   "districtId": 3326080,
-  "name": "SABARWANGI"
+  "districtName": "KAJEN",
+  "name": "SABARWANGI",
+  "postalCode": "51161"
  },
  {
   "id": 3326080012,
   "districtId": 3326080,
-  "name": "KALIJOYO"
+  "districtName": "KAJEN",
+  "name": "KALIJOYO",
+  "postalCode": "51161"
  },
  {
   "id": 3326080013,
   "districtId": 3326080,
-  "name": "WONOREJO"
+  "districtName": "KAJEN",
+  "name": "WONOREJO",
+  "postalCode": "21186"
  },
  {
   "id": 3326080014,
   "districtId": 3326080,
-  "name": "PEKIRINGAN ALIT"
+  "districtName": "KAJEN",
+  "name": "PEKIRINGAN ALIT",
+  "postalCode": "51161"
  },
  {
   "id": 3326080015,
   "districtId": 3326080,
-  "name": "KUTOREJO"
+  "districtName": "KAJEN",
+  "name": "KUTOREJO",
+  "postalCode": "51161"
  },
  {
   "id": 3326080016,
   "districtId": 3326080,
-  "name": "KAJEN"
+  "districtName": "KAJEN",
+  "name": "KAJEN",
+  "postalCode": "57465"
  },
  {
   "id": 3326080017,
   "districtId": 3326080,
-  "name": "NYAMOK"
+  "districtName": "KAJEN",
+  "name": "NYAMOK",
+  "postalCode": "51161"
  },
  {
   "id": 3326080018,
   "districtId": 3326080,
-  "name": "TANJUNG KULON"
+  "districtName": "KAJEN",
+  "name": "TANJUNG KULON",
+  "postalCode": "51161"
  },
  {
   "id": 3326080019,
   "districtId": 3326080,
-  "name": "TANJUNGSARI"
+  "districtName": "KAJEN",
+  "name": "TANJUNGSARI",
+  "postalCode": "28983"
  },
  {
   "id": 3326080020,
   "districtId": 3326080,
-  "name": "GEJLIG"
+  "districtName": "KAJEN",
+  "name": "GEJLIG",
+  "postalCode": "51161"
  },
  {
   "id": 3326080021,
   "districtId": 3326080,
-  "name": "KEBON AGUNG"
+  "districtName": "KAJEN",
+  "name": "KEBON AGUNG",
+  "postalCode": "32156"
  },
  {
   "id": 3326080022,
   "districtId": 3326080,
-  "name": "SANGKAN JOYO"
+  "districtName": "KAJEN",
+  "name": "SANGKAN JOYO",
+  "postalCode": "51161"
  },
  {
   "id": 3326080023,
   "districtId": 3326080,
-  "name": "SALIT"
+  "districtName": "KAJEN",
+  "name": "SALIT",
+  "postalCode": "22171"
  },
  {
   "id": 3326080024,
   "districtId": 3326080,
-  "name": "SAMBIROTO"
+  "districtName": "KAJEN",
+  "name": "SAMBIROTO",
+  "postalCode": "59581"
  },
  {
   "id": 3326080025,
   "districtId": 3326080,
-  "name": "ROWOLAKU"
+  "districtName": "KAJEN",
+  "name": "ROWOLAKU",
+  "postalCode": "51161"
  }
 ]

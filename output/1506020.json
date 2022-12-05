@@ -2,36 +2,50 @@
  {
   "id": 1506020003,
   "districtId": 1506020,
-  "name": "CATUR RAHAYU"
+  "districtName": "DENDANG",
+  "name": "CATUR RAHAYU",
+  "postalCode": "36763"
  },
  {
   "id": 1506020004,
   "districtId": 1506020,
-  "name": "JATI MULYO"
+  "districtName": "DENDANG",
+  "name": "JATI MULYO",
+  "postalCode": "20986"
  },
  {
   "id": 1506020005,
   "districtId": 1506020,
-  "name": "SIDO MUKTI"
+  "districtName": "DENDANG",
+  "name": "SIDO MUKTI",
+  "postalCode": "36763"
  },
  {
   "id": 1506020006,
   "districtId": 1506020,
-  "name": "KUALA DENDANG"
+  "districtName": "DENDANG",
+  "name": "KUALA DENDANG",
+  "postalCode": "36763"
  },
  {
   "id": 1506020007,
   "districtId": 1506020,
-  "name": "RANTAU INDAH"
+  "districtName": "DENDANG",
+  "name": "RANTAU INDAH",
+  "postalCode": "36763"
  },
  {
   "id": 1506020008,
   "districtId": 1506020,
-  "name": "KUTA KANDIS DENDANG"
+  "districtName": "DENDANG",
+  "name": "KUTA KANDIS DENDANG",
+  "postalCode": ""
  },
  {
   "id": 1506020009,
   "districtId": 1506020,
-  "name": "KOTO KANDIS"
+  "districtName": "DENDANG",
+  "name": "KOTO KANDIS",
+  "postalCode": "36763"
  }
 ]

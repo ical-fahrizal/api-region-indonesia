@@ -2,56 +2,78 @@
  {
   "id": 5301021005,
   "districtId": 5301021,
-  "name": "WELIBO"
+  "districtName": "LAMBOYA",
+  "name": "WELIBO",
+  "postalCode": ""
  },
  {
   "id": 5301021006,
   "districtId": 5301021,
-  "name": "PATIALA BAWA"
+  "districtName": "LAMBOYA",
+  "name": "PATIALA BAWA",
+  "postalCode": "87271"
  },
  {
   "id": 5301021007,
   "districtId": 5301021,
-  "name": "LABOYA BAWA"
+  "districtName": "LAMBOYA",
+  "name": "LABOYA BAWA",
+  "postalCode": "87271"
  },
  {
   "id": 5301021008,
   "districtId": 5301021,
-  "name": "WATU KARERE"
+  "districtName": "LAMBOYA",
+  "name": "WATU KARERE",
+  "postalCode": "87271"
  },
  {
   "id": 5301021009,
   "districtId": 5301021,
-  "name": "KABU KARUDI"
+  "districtName": "LAMBOYA",
+  "name": "KABU KARUDI",
+  "postalCode": "87271"
  },
  {
   "id": 5301021010,
   "districtId": 5301021,
-  "name": "LABOYA DETE"
+  "districtName": "LAMBOYA",
+  "name": "LABOYA DETE",
+  "postalCode": "87271"
  },
  {
   "id": 5301021011,
   "districtId": 5301021,
-  "name": "SODANA"
+  "districtName": "LAMBOYA",
+  "name": "SODANA",
+  "postalCode": ""
  },
  {
   "id": 5301021012,
   "districtId": 5301021,
-  "name": "RAJAKA"
+  "districtName": "LAMBOYA",
+  "name": "RAJAKA",
+  "postalCode": ""
  },
  {
   "id": 5301021013,
   "districtId": 5301021,
-  "name": "RINGU RARA"
+  "districtName": "LAMBOYA",
+  "name": "RINGU RARA",
+  "postalCode": "87271"
  },
  {
   "id": 5301021014,
   "districtId": 5301021,
-  "name": "BODO HULA"
+  "districtName": "LAMBOYA",
+  "name": "BODO HULA",
+  "postalCode": "87271"
  },
  {
   "id": 5301021015,
   "districtId": 5301021,
-  "name": "PALA MOKO"
+  "districtName": "LAMBOYA",
+  "name": "PALA MOKO",
+  "postalCode": "87271"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 3304181001,
   "districtId": 3304181,
-  "name": "SINDUAJI"
+  "districtName": "PANDANARUM",
+  "name": "SINDUAJI",
+  "postalCode": "53458"
  },
  {
   "id": 3304181002,
   "districtId": 3304181,
-  "name": "PANDANARUM"
+  "districtName": "PANDANARUM",
+  "name": "PANDANARUM",
+  "postalCode": "53458"
  },
  {
   "id": 3304181003,
   "districtId": 3304181,
-  "name": "BEJI"
+  "districtName": "PANDANARUM",
+  "name": "BEJI",
+  "postalCode": "16421"
  },
  {
   "id": 3304181004,
   "districtId": 3304181,
-  "name": "PRINGAMBA"
+  "districtName": "PANDANARUM",
+  "name": "PRINGAMBA",
+  "postalCode": "53458"
  },
  {
   "id": 3304181005,
   "districtId": 3304181,
-  "name": "PASEGERAN"
+  "districtName": "PANDANARUM",
+  "name": "PASEGERAN",
+  "postalCode": "53458"
  },
  {
   "id": 3304181006,
   "districtId": 3304181,
-  "name": "PINGIT LOR"
+  "districtName": "PANDANARUM",
+  "name": "PINGIT LOR",
+  "postalCode": "53458"
  },
  {
   "id": 3304181007,
   "districtId": 3304181,
-  "name": "LAWEN"
+  "districtName": "PANDANARUM",
+  "name": "LAWEN",
+  "postalCode": "53458"
  },
  {
   "id": 3304181008,
   "districtId": 3304181,
-  "name": "SIRONGGE"
+  "districtName": "PANDANARUM",
+  "name": "SIRONGGE",
+  "postalCode": "53458"
  }
 ]

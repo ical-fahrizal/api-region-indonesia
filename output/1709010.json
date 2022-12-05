@@ -2,76 +2,106 @@
  {
   "id": 1709010001,
   "districtId": 1709010,
-  "name": "AIR SEBAKUL"
+  "districtName": "TALANG EMPAT",
+  "name": "AIR SEBAKUL",
+  "postalCode": "38385"
  },
  {
   "id": 1709010002,
   "districtId": 1709010,
-  "name": "BUKIT"
+  "districtName": "TALANG EMPAT",
+  "name": "BUKIT",
+  "postalCode": "24655"
  },
  {
   "id": 1709010003,
   "districtId": 1709010,
-  "name": "LAGAN BUNGIN"
+  "districtName": "TALANG EMPAT",
+  "name": "LAGAN BUNGIN",
+  "postalCode": "38385"
  },
  {
   "id": 1709010004,
   "districtId": 1709010,
-  "name": "TABALAGAN"
+  "districtName": "TALANG EMPAT",
+  "name": "TABALAGAN",
+  "postalCode": ""
  },
  {
   "id": 1709010005,
   "districtId": 1709010,
-  "name": "LAGAN"
+  "districtName": "TALANG EMPAT",
+  "name": "LAGAN",
+  "postalCode": "38385"
  },
  {
   "id": 1709010006,
   "districtId": 1709010,
-  "name": "PULAU PANGGUNG"
+  "districtName": "TALANG EMPAT",
+  "name": "PULAU PANGGUNG",
+  "postalCode": "32279"
  },
  {
   "id": 1709010007,
   "districtId": 1709010,
-  "name": "JAYAKARTA"
+  "districtName": "TALANG EMPAT",
+  "name": "JAYAKARTA",
+  "postalCode": ""
  },
  {
   "id": 1709010008,
   "districtId": 1709010,
-  "name": "TENGAH PADANG"
+  "districtName": "TALANG EMPAT",
+  "name": "TENGAH PADANG",
+  "postalCode": "38385"
  },
  {
   "id": 1709010009,
   "districtId": 1709010,
-  "name": "KEMBANG SERI"
+  "districtName": "TALANG EMPAT",
+  "name": "KEMBANG SERI",
+  "postalCode": "36655"
  },
  {
   "id": 1709010010,
   "districtId": 1709010,
-  "name": "TABA PASMAH"
+  "districtName": "TALANG EMPAT",
+  "name": "TABA PASMAH",
+  "postalCode": ""
  },
  {
   "id": 1709010011,
   "districtId": 1709010,
-  "name": "NAKAU"
+  "districtName": "TALANG EMPAT",
+  "name": "NAKAU",
+  "postalCode": "38385"
  },
  {
   "id": 1709010012,
   "districtId": 1709010,
-  "name": "PADANG ULAK TANJUNG"
+  "districtName": "TALANG EMPAT",
+  "name": "PADANG ULAK TANJUNG",
+  "postalCode": ""
  },
  {
   "id": 1709010013,
   "districtId": 1709010,
-  "name": "PAGAR JATI"
+  "districtName": "TALANG EMPAT",
+  "name": "PAGAR JATI",
+  "postalCode": "20518"
  },
  {
   "id": 1709010014,
   "districtId": 1709010,
-  "name": "JUMAT"
+  "districtName": "TALANG EMPAT",
+  "name": "JUMAT",
+  "postalCode": ""
  },
  {
   "id": 1709010015,
   "districtId": 1709010,
-  "name": "AIR PUTIH"
+  "districtName": "TALANG EMPAT",
+  "name": "AIR PUTIH",
+  "postalCode": "21264"
  }
 ]

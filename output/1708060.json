@@ -2,76 +2,106 @@
  {
   "id": 1708060001,
   "districtId": 1708060,
-  "name": "SUKA SARI"
+  "districtName": "KABA WETAN",
+  "name": "SUKA SARI",
+  "postalCode": "30681"
  },
  {
   "id": 1708060002,
   "districtId": 1708060,
-  "name": "BUKIT SARI"
+  "districtName": "KABA WETAN",
+  "name": "BUKIT SARI",
+  "postalCode": "24563"
  },
  {
   "id": 1708060003,
   "districtId": 1708060,
-  "name": "TANGSI DUREN"
+  "districtName": "KABA WETAN",
+  "name": "TANGSI DUREN",
+  "postalCode": "39372"
  },
  {
   "id": 1708060004,
   "districtId": 1708060,
-  "name": "TANGSI BARU"
+  "districtName": "KABA WETAN",
+  "name": "TANGSI BARU",
+  "postalCode": ""
  },
  {
   "id": 1708060005,
   "districtId": 1708060,
-  "name": "PEMATANG DONOK"
+  "districtName": "KABA WETAN",
+  "name": "PEMATANG DONOK",
+  "postalCode": "39373"
  },
  {
   "id": 1708060006,
   "districtId": 1708060,
-  "name": "BABAKAN BOGOR"
+  "districtName": "KABA WETAN",
+  "name": "BABAKAN BOGOR",
+  "postalCode": "39372"
  },
  {
   "id": 1708060007,
   "districtId": 1708060,
-  "name": "BARAT WETAN"
+  "districtName": "KABA WETAN",
+  "name": "BARAT WETAN",
+  "postalCode": "39372"
  },
  {
   "id": 1708060008,
   "districtId": 1708060,
-  "name": "AIR SEMPIANG"
+  "districtName": "KABA WETAN",
+  "name": "AIR SEMPIANG",
+  "postalCode": "39372"
  },
  {
   "id": 1708060009,
   "districtId": 1708060,
-  "name": "TUGU REJO"
+  "districtName": "KABA WETAN",
+  "name": "TUGU REJO",
+  "postalCode": "35386"
  },
  {
   "id": 1708060010,
   "districtId": 1708060,
-  "name": "BANDUNG BARU"
+  "districtName": "KABA WETAN",
+  "name": "BANDUNG BARU",
+  "postalCode": "39373"
  },
  {
   "id": 1708060011,
   "districtId": 1708060,
-  "name": "SIDO MAKMUR"
+  "districtName": "KABA WETAN",
+  "name": "SIDO MAKMUR",
+  "postalCode": "20772"
  },
  {
   "id": 1708060012,
   "districtId": 1708060,
-  "name": "SUMBER SARI"
+  "districtName": "KABA WETAN",
+  "name": "SUMBER SARI",
+  "postalCode": "21343"
  },
  {
   "id": 1708060013,
   "districtId": 1708060,
-  "name": "MEKAR SARI"
+  "districtName": "KABA WETAN",
+  "name": "MEKAR SARI",
+  "postalCode": "21261"
  },
  {
   "id": 1708060015,
   "districtId": 1708060,
-  "name": "SIDO REJO"
+  "districtName": "KABA WETAN",
+  "name": "SIDO REJO",
+  "postalCode": "37553"
  },
  {
   "id": 1708060016,
   "districtId": 1708060,
-  "name": "BANDUNG JAYA"
+  "districtName": "KABA WETAN",
+  "name": "BANDUNG JAYA",
+  "postalCode": "24471"
  }
 ]

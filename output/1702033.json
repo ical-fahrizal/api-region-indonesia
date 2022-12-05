@@ -2,46 +2,64 @@
  {
   "id": 1702033001,
   "districtId": 1702033,
-  "name": "A P U R"
+  "districtName": "SINDANG BELITI ULU",
+  "name": "A P U R",
+  "postalCode": ""
  },
  {
   "id": 1702033002,
   "districtId": 1702033,
-  "name": "LAWANG AGUNG"
+  "districtName": "SINDANG BELITI ULU",
+  "name": "LAWANG AGUNG",
+  "postalCode": "37111"
  },
  {
   "id": 1702033003,
   "districtId": 1702033,
-  "name": "LUBUK ALAI"
+  "districtName": "SINDANG BELITI ULU",
+  "name": "LUBUK ALAI",
+  "postalCode": "39182"
  },
  {
   "id": 1702033004,
   "districtId": 1702033,
-  "name": "KARANG PINANG"
+  "districtName": "SINDANG BELITI ULU",
+  "name": "KARANG PINANG",
+  "postalCode": "39182"
  },
  {
   "id": 1702033005,
   "districtId": 1702033,
-  "name": "TANJUNG AGUNG"
+  "districtName": "SINDANG BELITI ULU",
+  "name": "TANJUNG AGUNG",
+  "postalCode": "37216"
  },
  {
   "id": 1702033006,
   "districtId": 1702033,
-  "name": "PENGAMBANG"
+  "districtName": "SINDANG BELITI ULU",
+  "name": "PENGAMBANG",
+  "postalCode": "39182"
  },
  {
   "id": 1702033007,
   "districtId": 1702033,
-  "name": "J A B I"
+  "districtName": "SINDANG BELITI ULU",
+  "name": "J A B I",
+  "postalCode": ""
  },
  {
   "id": 1702033008,
   "districtId": 1702033,
-  "name": "TANJUNG HERAN"
+  "districtName": "SINDANG BELITI ULU",
+  "name": "TANJUNG HERAN",
+  "postalCode": "39182"
  },
  {
   "id": 1702033009,
   "districtId": 1702033,
-  "name": "AIR NAU"
+  "districtName": "SINDANG BELITI ULU",
+  "name": "AIR NAU",
+  "postalCode": "39182"
  }
 ]

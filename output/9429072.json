@@ -2,21 +2,29 @@
  {
   "id": 9429072001,
   "districtId": 9429072,
-  "name": "WUTPAGA"
+  "districtName": "WUTPAGA",
+  "name": "WUTPAGA",
+  "postalCode": "99564"
  },
  {
   "id": 9429072004,
   "districtId": 9429072,
-  "name": "WUONE"
+  "districtName": "WUTPAGA",
+  "name": "WUONE",
+  "postalCode": "99564"
  },
  {
   "id": 9429072005,
   "districtId": 9429072,
-  "name": "LAUREN"
+  "districtName": "WUTPAGA",
+  "name": "LAUREN",
+  "postalCode": ""
  },
  {
   "id": 9429072006,
   "districtId": 9429072,
-  "name": "WANGUN"
+  "districtName": "WUTPAGA",
+  "name": "WANGUN",
+  "postalCode": "62391"
  }
 ]

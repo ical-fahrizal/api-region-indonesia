@@ -2,66 +2,92 @@
  {
   "id": 7405100007,
   "districtId": 7405100,
-  "name": "ENDANGA"
+  "districtName": "LANDONO",
+  "name": "ENDANGA",
+  "postalCode": "93873"
  },
  {
   "id": 7405100008,
   "districtId": 7405100,
-  "name": "AMOTOWO"
+  "districtName": "LANDONO",
+  "name": "AMOTOWO",
+  "postalCode": "93873"
  },
  {
   "id": 7405100009,
   "districtId": 7405100,
-  "name": "LANDONO"
+  "districtName": "LANDONO",
+  "name": "LANDONO",
+  "postalCode": "93873"
  },
  {
   "id": 7405100010,
   "districtId": 7405100,
-  "name": "ARONGO"
+  "districtName": "LANDONO",
+  "name": "ARONGO",
+  "postalCode": "93873"
  },
  {
   "id": 7405100011,
   "districtId": 7405100,
-  "name": "TRIDANA MULYA"
+  "districtName": "LANDONO",
+  "name": "TRIDANA MULYA",
+  "postalCode": ""
  },
  {
   "id": 7405100012,
   "districtId": 7405100,
-  "name": "LALONGGAPU"
+  "districtName": "LANDONO",
+  "name": "LALONGGAPU",
+  "postalCode": "93873"
  },
  {
   "id": 7405100013,
   "districtId": 7405100,
-  "name": "WATA BENUA"
+  "districtName": "LANDONO",
+  "name": "WATA BENUA",
+  "postalCode": ""
  },
  {
   "id": 7405100014,
   "districtId": 7405100,
-  "name": "ABENGGI"
+  "districtName": "LANDONO",
+  "name": "ABENGGI",
+  "postalCode": "93873"
  },
  {
   "id": 7405100015,
   "districtId": 7405100,
-  "name": "LANDONO II"
+  "districtName": "LANDONO",
+  "name": "LANDONO II",
+  "postalCode": ""
  },
  {
   "id": 7405100033,
   "districtId": 7405100,
-  "name": "WONUA SANGIA"
+  "districtName": "LANDONO",
+  "name": "WONUA SANGIA",
+  "postalCode": "93873"
  },
  {
   "id": 7405100035,
   "districtId": 7405100,
-  "name": "MORINI MULYA"
+  "districtName": "LANDONO",
+  "name": "MORINI MULYA",
+  "postalCode": "93873"
  },
  {
   "id": 7405100036,
   "districtId": 7405100,
-  "name": "LAKOMEA"
+  "districtName": "LANDONO",
+  "name": "LAKOMEA",
+  "postalCode": "93873"
  },
  {
   "id": 7405100043,
   "districtId": 7405100,
-  "name": "UPT ARONGO"
+  "districtName": "LANDONO",
+  "name": "UPT ARONGO",
+  "postalCode": ""
  }
 ]

@@ -2,61 +2,85 @@
  {
   "id": 6310053001,
   "districtId": 6310053,
-  "name": "MANTEWE"
+  "districtName": "MANTEWE",
+  "name": "MANTEWE",
+  "postalCode": "72211"
  },
  {
   "id": 6310053002,
   "districtId": 6310053,
-  "name": "MAJU MULYO"
+  "districtName": "MANTEWE",
+  "name": "MAJU MULYO",
+  "postalCode": "72211"
  },
  {
   "id": 6310053003,
   "districtId": 6310053,
-  "name": "SIDOMULYO"
+  "districtName": "MANTEWE",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  },
  {
   "id": 6310053004,
   "districtId": 6310053,
-  "name": "SARI MULYA"
+  "districtName": "MANTEWE",
+  "name": "SARI MULYA",
+  "postalCode": "37257"
  },
  {
   "id": 6310053005,
   "districtId": 6310053,
-  "name": "BULU REJO"
+  "districtName": "MANTEWE",
+  "name": "BULU REJO",
+  "postalCode": "72211"
  },
  {
   "id": 6310053006,
   "districtId": 6310053,
-  "name": "SUKADAMAI"
+  "districtName": "MANTEWE",
+  "name": "SUKADAMAI",
+  "postalCode": "24373"
  },
  {
   "id": 6310053007,
   "districtId": 6310053,
-  "name": "SEPAKAT"
+  "districtName": "MANTEWE",
+  "name": "SEPAKAT",
+  "postalCode": "24562"
  },
  {
   "id": 6310053008,
   "districtId": 6310053,
-  "name": "DUKUH REJO"
+  "districtName": "MANTEWE",
+  "name": "DUKUH REJO",
+  "postalCode": "72211"
  },
  {
   "id": 6310053009,
   "districtId": 6310053,
-  "name": "REJOSARI"
+  "districtName": "MANTEWE",
+  "name": "REJOSARI",
+  "postalCode": "29353"
  },
  {
   "id": 6310053010,
   "districtId": 6310053,
-  "name": "EMIL BARU"
+  "districtName": "MANTEWE",
+  "name": "EMIL BARU",
+  "postalCode": "72211"
  },
  {
   "id": 6310053011,
   "districtId": 6310053,
-  "name": "MANTAWAKAN MULIA"
+  "districtName": "MANTEWE",
+  "name": "MANTAWAKAN MULIA",
+  "postalCode": ""
  },
  {
   "id": 6310053013,
   "districtId": 6310053,
-  "name": "GUNUNG RAYA"
+  "districtName": "MANTEWE",
+  "name": "GUNUNG RAYA",
+  "postalCode": "31581"
  }
 ]

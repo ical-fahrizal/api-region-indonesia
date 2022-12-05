@@ -2,46 +2,64 @@
  {
   "id": 3526010001,
   "districtId": 3526010,
-  "name": "TAJUNGAN"
+  "districtName": "KAMAL",
+  "name": "TAJUNGAN",
+  "postalCode": "69162"
  },
  {
   "id": 3526010002,
   "districtId": 3526010,
-  "name": "GILI BARAT"
+  "districtName": "KAMAL",
+  "name": "GILI BARAT",
+  "postalCode": "69162"
  },
  {
   "id": 3526010003,
   "districtId": 3526010,
-  "name": "BANYU AJUH"
+  "districtName": "KAMAL",
+  "name": "BANYU AJUH",
+  "postalCode": ""
  },
  {
   "id": 3526010004,
   "districtId": 3526010,
-  "name": "KAMAL"
+  "districtName": "KAMAL",
+  "name": "KAMAL",
+  "postalCode": "30653"
  },
  {
   "id": 3526010005,
   "districtId": 3526010,
-  "name": "TANJUNG JATI"
+  "districtName": "KAMAL",
+  "name": "TANJUNG JATI",
+  "postalCode": "20761"
  },
  {
   "id": 3526010007,
   "districtId": 3526010,
-  "name": "GILI TIMUR"
+  "districtName": "KAMAL",
+  "name": "GILI TIMUR",
+  "postalCode": "69162"
  },
  {
   "id": 3526010008,
   "districtId": 3526010,
-  "name": "GILI ANYAR"
+  "districtName": "KAMAL",
+  "name": "GILI ANYAR",
+  "postalCode": "69162"
  },
  {
   "id": 3526010009,
   "districtId": 3526010,
-  "name": "TELLANG"
+  "districtName": "KAMAL",
+  "name": "TELLANG",
+  "postalCode": ""
  },
  {
   "id": 3526010010,
   "districtId": 3526010,
-  "name": "PENDABAH"
+  "districtName": "KAMAL",
+  "name": "PENDABAH",
+  "postalCode": ""
  }
 ]

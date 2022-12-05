@@ -2,36 +2,50 @@
  {
   "id": 9415042001,
   "districtId": 9415042,
-  "name": "DAIKOT"
+  "districtName": "JOUTU",
+  "name": "DAIKOT",
+  "postalCode": "99766"
  },
  {
   "id": 9415042002,
   "districtId": 9415042,
-  "name": "SOMNAK"
+  "districtName": "JOUTU",
+  "name": "SOMNAK",
+  "postalCode": "99766"
  },
  {
   "id": 9415042003,
   "districtId": 9415042,
-  "name": "DEKAMER"
+  "districtName": "JOUTU",
+  "name": "DEKAMER",
+  "postalCode": ""
  },
  {
   "id": 9415042004,
   "districtId": 9415042,
-  "name": "VAKAM"
+  "districtName": "JOUTU",
+  "name": "VAKAM",
+  "postalCode": "99766"
  },
  {
   "id": 9415042005,
   "districtId": 9415042,
-  "name": "WABAK"
+  "districtName": "JOUTU",
+  "name": "WABAK",
+  "postalCode": "99766"
  },
  {
   "id": 9415042006,
   "districtId": 9415042,
-  "name": "VAKAM DUA"
+  "districtName": "JOUTU",
+  "name": "VAKAM DUA",
+  "postalCode": "99766"
  },
  {
   "id": 9415042007,
   "districtId": 9415042,
-  "name": "BOR"
+  "districtName": "JOUTU",
+  "name": "BOR",
+  "postalCode": "99766"
  }
 ]

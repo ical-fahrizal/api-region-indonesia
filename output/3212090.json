@@ -2,46 +2,64 @@
  {
   "id": 3212090001,
   "districtId": 3212090,
-  "name": "PURWAJAYA"
+  "districtName": "KRANGKENG",
+  "name": "PURWAJAYA",
+  "postalCode": "34682"
  },
  {
   "id": 3212090002,
   "districtId": 3212090,
-  "name": "KAPRINGAN"
+  "districtName": "KRANGKENG",
+  "name": "KAPRINGAN",
+  "postalCode": "45284"
  },
  {
   "id": 3212090003,
   "districtId": 3212090,
-  "name": "SINGAKERTA"
+  "districtName": "KRANGKENG",
+  "name": "SINGAKERTA",
+  "postalCode": "45284"
  },
  {
   "id": 3212090004,
   "districtId": 3212090,
-  "name": "DUKUHJATI"
+  "districtName": "KRANGKENG",
+  "name": "DUKUHJATI",
+  "postalCode": "45284"
  },
  {
   "id": 3212090005,
   "districtId": 3212090,
-  "name": "TEGALMULYA"
+  "districtName": "KRANGKENG",
+  "name": "TEGALMULYA",
+  "postalCode": "45284"
  },
  {
   "id": 3212090008,
   "districtId": 3212090,
-  "name": "LUWUNGGESIK"
+  "districtName": "KRANGKENG",
+  "name": "LUWUNGGESIK",
+  "postalCode": "45284"
  },
  {
   "id": 3212090009,
   "districtId": 3212090,
-  "name": "KALIANYAR"
+  "districtName": "KRANGKENG",
+  "name": "KALIANYAR",
+  "postalCode": "45284"
  },
  {
   "id": 3212090010,
   "districtId": 3212090,
-  "name": "KRANGKENG"
+  "districtName": "KRANGKENG",
+  "name": "KRANGKENG",
+  "postalCode": "45284"
  },
  {
   "id": 3212090011,
   "districtId": 3212090,
-  "name": "TANJAKAN"
+  "districtName": "KRANGKENG",
+  "name": "TANJAKAN",
+  "postalCode": "45284"
  }
 ]

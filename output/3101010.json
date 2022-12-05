@@ -2,16 +2,22 @@
  {
   "id": 3101010001,
   "districtId": 3101010,
-  "name": "PULAU TIDUNG"
+  "districtName": "KEPULAUAN SERIBU SELATAN",
+  "name": "PULAU TIDUNG",
+  "postalCode": "14520"
  },
  {
   "id": 3101010002,
   "districtId": 3101010,
-  "name": "PULAU PARI"
+  "districtName": "KEPULAUAN SERIBU SELATAN",
+  "name": "PULAU PARI",
+  "postalCode": "14520"
  },
  {
   "id": 3101010003,
   "districtId": 3101010,
-  "name": "PULAU UNTUNG JAWA"
+  "districtName": "KEPULAUAN SERIBU SELATAN",
+  "name": "PULAU UNTUNG JAWA",
+  "postalCode": "14510"
  }
 ]

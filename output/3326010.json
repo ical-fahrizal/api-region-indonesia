@@ -2,66 +2,92 @@
  {
   "id": 3326010002,
   "districtId": 3326010,
-  "name": "BODAS"
+  "districtName": "KANDANGSERANG",
+  "name": "BODAS",
+  "postalCode": "45272"
  },
  {
   "id": 3326010003,
   "districtId": 3326010,
-  "name": "GEMBONG"
+  "districtName": "KANDANGSERANG",
+  "name": "GEMBONG",
+  "postalCode": "53362"
  },
  {
   "id": 3326010004,
   "districtId": 3326010,
-  "name": "SUKOHARJO"
+  "districtName": "KANDANGSERANG",
+  "name": "SUKOHARJO",
+  "postalCode": "32383"
  },
  {
   "id": 3326010005,
   "districtId": 3326010,
-  "name": "GARUNGWIYORO"
+  "districtName": "KANDANGSERANG",
+  "name": "GARUNGWIYORO",
+  "postalCode": "51163"
  },
  {
   "id": 3326010006,
   "districtId": 3326010,
-  "name": "BUBAK"
+  "districtName": "KANDANGSERANG",
+  "name": "BUBAK",
+  "postalCode": "51163"
  },
  {
   "id": 3326010007,
   "districtId": 3326010,
-  "name": "BOJONGKONENG"
+  "districtName": "KANDANGSERANG",
+  "name": "BOJONGKONENG",
+  "postalCode": "40552"
  },
  {
   "id": 3326010008,
   "districtId": 3326010,
-  "name": "LURAGUNG"
+  "districtName": "KANDANGSERANG",
+  "name": "LURAGUNG",
+  "postalCode": "51163"
  },
  {
   "id": 3326010009,
   "districtId": 3326010,
-  "name": "KANDANGSERANG"
+  "districtName": "KANDANGSERANG",
+  "name": "KANDANGSERANG",
+  "postalCode": "51163"
  },
  {
   "id": 3326010010,
   "districtId": 3326010,
-  "name": "WANGKELANG"
+  "districtName": "KANDANGSERANG",
+  "name": "WANGKELANG",
+  "postalCode": "45467"
  },
  {
   "id": 3326010011,
   "districtId": 3326010,
-  "name": "LAMBUR"
+  "districtName": "KANDANGSERANG",
+  "name": "LAMBUR",
+  "postalCode": "36761"
  },
  {
   "id": 3326010012,
   "districtId": 3326010,
-  "name": "TAJUR"
+  "districtName": "KANDANGSERANG",
+  "name": "TAJUR",
+  "postalCode": "35453"
  },
  {
   "id": 3326010013,
   "districtId": 3326010,
-  "name": "TRAJUMAS"
+  "districtName": "KANDANGSERANG",
+  "name": "TRAJUMAS",
+  "postalCode": "51163"
  },
  {
   "id": 3326010014,
   "districtId": 3326010,
-  "name": "KARANGGONDANG"
+  "districtName": "KANDANGSERANG",
+  "name": "KARANGGONDANG",
+  "postalCode": "51163"
  }
 ]

@@ -2,101 +2,141 @@
  {
   "id": 1212240001,
   "districtId": 1212240,
-  "name": "TANDAM HULU DUA"
+  "districtName": "HAMPARAN PERAK",
+  "name": "TANDAM HULU DUA",
+  "postalCode": ""
  },
  {
   "id": 1212240002,
   "districtId": 1212240,
-  "name": "KAMPUNG TANDAM HULU SATU"
+  "districtName": "HAMPARAN PERAK",
+  "name": "KAMPUNG TANDAM HULU SATU",
+  "postalCode": ""
  },
  {
   "id": 1212240003,
   "districtId": 1212240,
-  "name": "PAYA BAKUNG"
+  "districtName": "HAMPARAN PERAK",
+  "name": "PAYA BAKUNG",
+  "postalCode": "20374"
  },
  {
   "id": 1212240004,
   "districtId": 1212240,
-  "name": "KLAMBIR LIMA KAMPUNG"
+  "districtName": "HAMPARAN PERAK",
+  "name": "KLAMBIR LIMA KAMPUNG",
+  "postalCode": "20374"
  },
  {
   "id": 1212240005,
   "districtId": 1212240,
-  "name": "KLAMBIR LIMA KEBON"
+  "districtName": "HAMPARAN PERAK",
+  "name": "KLAMBIR LIMA KEBON",
+  "postalCode": "20374"
  },
  {
   "id": 1212240006,
   "districtId": 1212240,
-  "name": "KLUMPANG KEBON"
+  "districtName": "HAMPARAN PERAK",
+  "name": "KLUMPANG KEBON",
+  "postalCode": "20374"
  },
  {
   "id": 1212240007,
   "districtId": 1212240,
-  "name": "KLUMPANG KAMPUNG"
+  "districtName": "HAMPARAN PERAK",
+  "name": "KLUMPANG KAMPUNG",
+  "postalCode": "20374"
  },
  {
   "id": 1212240008,
   "districtId": 1212240,
-  "name": "SIALANG MUDA"
+  "districtName": "HAMPARAN PERAK",
+  "name": "SIALANG MUDA",
+  "postalCode": "20374"
  },
  {
   "id": 1212240009,
   "districtId": 1212240,
-  "name": "BULU CINA"
+  "districtName": "HAMPARAN PERAK",
+  "name": "BULU CINA",
+  "postalCode": "20374"
  },
  {
   "id": 1212240010,
   "districtId": 1212240,
-  "name": "TANDAM HILIR SATU"
+  "districtName": "HAMPARAN PERAK",
+  "name": "TANDAM HILIR SATU",
+  "postalCode": ""
  },
  {
   "id": 1212240011,
   "districtId": 1212240,
-  "name": "TANDAM HILIR DUA"
+  "districtName": "HAMPARAN PERAK",
+  "name": "TANDAM HILIR DUA",
+  "postalCode": ""
  },
  {
   "id": 1212240012,
   "districtId": 1212240,
-  "name": "KOTA DATAR"
+  "districtName": "HAMPARAN PERAK",
+  "name": "KOTA DATAR",
+  "postalCode": "20374"
  },
  {
   "id": 1212240013,
   "districtId": 1212240,
-  "name": "KOTA RANTANG"
+  "districtName": "HAMPARAN PERAK",
+  "name": "KOTA RANTANG",
+  "postalCode": ""
  },
  {
   "id": 1212240014,
   "districtId": 1212240,
-  "name": "KAMPUNG LAMA"
+  "districtName": "HAMPARAN PERAK",
+  "name": "KAMPUNG LAMA",
+  "postalCode": "20859"
  },
  {
   "id": 1212240015,
   "districtId": 1212240,
-  "name": "KLAMBIR"
+  "districtName": "HAMPARAN PERAK",
+  "name": "KLAMBIR",
+  "postalCode": "20374"
  },
  {
   "id": 1212240016,
   "districtId": 1212240,
-  "name": "KAMPUNG SELEMAK"
+  "districtName": "HAMPARAN PERAK",
+  "name": "KAMPUNG SELEMAK",
+  "postalCode": ""
  },
  {
   "id": 1212240017,
   "districtId": 1212240,
-  "name": "HAMPARAN PERAK"
+  "districtName": "HAMPARAN PERAK",
+  "name": "HAMPARAN PERAK",
+  "postalCode": "20374"
  },
  {
   "id": 1212240018,
   "districtId": 1212240,
-  "name": "SUNGAI BAHARU"
+  "districtName": "HAMPARAN PERAK",
+  "name": "SUNGAI BAHARU",
+  "postalCode": ""
  },
  {
   "id": 1212240019,
   "districtId": 1212240,
-  "name": "PALUH MANAN"
+  "districtName": "HAMPARAN PERAK",
+  "name": "PALUH MANAN",
+  "postalCode": "20374"
  },
  {
   "id": 1212240020,
   "districtId": 1212240,
-  "name": "PALUH KURAU"
+  "districtName": "HAMPARAN PERAK",
+  "name": "PALUH KURAU",
+  "postalCode": "20374"
  }
 ]

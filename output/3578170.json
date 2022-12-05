@@ -2,31 +2,43 @@
  {
   "id": 3578170001,
   "districtId": 3578170,
-  "name": "PAKIS"
+  "districtName": "SAWAHAN",
+  "name": "PAKIS",
+  "postalCode": "50772"
  },
  {
   "id": 3578170002,
   "districtId": 3578170,
-  "name": "PUTAT JAYA"
+  "districtName": "SAWAHAN",
+  "name": "PUTAT JAYA",
+  "postalCode": "60255"
  },
  {
   "id": 3578170003,
   "districtId": 3578170,
-  "name": "BANYU URIP"
+  "districtName": "SAWAHAN",
+  "name": "BANYU URIP",
+  "postalCode": "30961"
  },
  {
   "id": 3578170004,
   "districtId": 3578170,
-  "name": "KUPANG KRAJAN"
+  "districtName": "SAWAHAN",
+  "name": "KUPANG KRAJAN",
+  "postalCode": "60253"
  },
  {
   "id": 3578170005,
   "districtId": 3578170,
-  "name": "PETEMON"
+  "districtName": "SAWAHAN",
+  "name": "PETEMON",
+  "postalCode": "60252"
  },
  {
   "id": 3578170006,
   "districtId": 3578170,
-  "name": "SAWAHAN"
+  "districtName": "SAWAHAN",
+  "name": "SAWAHAN",
+  "postalCode": "25121"
  }
 ]

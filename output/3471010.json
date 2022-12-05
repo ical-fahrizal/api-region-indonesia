@@ -2,16 +2,22 @@
  {
   "id": 3471010001,
   "districtId": 3471010,
-  "name": "GEDONGKIWO"
+  "districtName": "MANTRIJERON",
+  "name": "GEDONGKIWO",
+  "postalCode": "55142"
  },
  {
   "id": 3471010002,
   "districtId": 3471010,
-  "name": "SURYODININGRATAN"
+  "districtName": "MANTRIJERON",
+  "name": "SURYODININGRATAN",
+  "postalCode": "55141"
  },
  {
   "id": 3471010003,
   "districtId": 3471010,
-  "name": "MANTRIJERON"
+  "districtName": "MANTRIJERON",
+  "name": "MANTRIJERON",
+  "postalCode": "55143"
  }
 ]

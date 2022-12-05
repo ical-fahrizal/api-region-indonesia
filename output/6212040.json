@@ -2,51 +2,71 @@
  {
   "id": 6212040001,
   "districtId": 6212040,
-  "name": "PULAU PADANG"
+  "districtName": "PATANGKEP TUTUI",
+  "name": "PULAU PADANG",
+  "postalCode": "29563"
  },
  {
   "id": 6212040002,
   "districtId": 6212040,
-  "name": "RAMANIA"
+  "districtName": "PATANGKEP TUTUI",
+  "name": "RAMANIA",
+  "postalCode": "73671"
  },
  {
   "id": 6212040003,
   "districtId": 6212040,
-  "name": "KAMBITIN"
+  "districtName": "PATANGKEP TUTUI",
+  "name": "KAMBITIN",
+  "postalCode": "73671"
  },
  {
   "id": 6212040004,
   "districtId": 6212040,
-  "name": "BENTOT"
+  "districtName": "PATANGKEP TUTUI",
+  "name": "BENTOT",
+  "postalCode": "73671"
  },
  {
   "id": 6212040005,
   "districtId": 6212040,
-  "name": "AMPARI BORA"
+  "districtName": "PATANGKEP TUTUI",
+  "name": "AMPARI BORA",
+  "postalCode": "73671"
  },
  {
   "id": 6212040006,
   "districtId": 6212040,
-  "name": "KOTAM"
+  "districtName": "PATANGKEP TUTUI",
+  "name": "KOTAM",
+  "postalCode": "73671"
  },
  {
   "id": 6212040007,
   "districtId": 6212040,
-  "name": "BETANG NALONG"
+  "districtName": "PATANGKEP TUTUI",
+  "name": "BETANG NALONG",
+  "postalCode": "73671"
  },
  {
   "id": 6212040008,
   "districtId": 6212040,
-  "name": "MAWANI"
+  "districtName": "PATANGKEP TUTUI",
+  "name": "MAWANI",
+  "postalCode": ""
  },
  {
   "id": 6212040009,
   "districtId": 6212040,
-  "name": "JANGO"
+  "districtName": "PATANGKEP TUTUI",
+  "name": "JANGO",
+  "postalCode": "73671"
  },
  {
   "id": 6212040010,
   "districtId": 6212040,
-  "name": "LALAP"
+  "districtName": "PATANGKEP TUTUI",
+  "name": "LALAP",
+  "postalCode": "73671"
  }
 ]

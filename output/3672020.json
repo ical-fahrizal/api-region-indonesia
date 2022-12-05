@@ -2,21 +2,29 @@
  {
   "id": 3672020011,
   "districtId": 3672020,
-  "name": "MEKARSARI"
+  "districtName": "PULOMERAK",
+  "name": "MEKARSARI",
+  "postalCode": "37482"
  },
  {
   "id": 3672020012,
   "districtId": 3672020,
-  "name": "TAMANSARI"
+  "districtName": "PULOMERAK",
+  "name": "TAMANSARI",
+  "postalCode": "35366"
  },
  {
   "id": 3672020013,
   "districtId": 3672020,
-  "name": "LEBAK GEDE"
+  "districtName": "PULOMERAK",
+  "name": "LEBAK GEDE",
+  "postalCode": "40132"
  },
  {
   "id": 3672020014,
   "districtId": 3672020,
-  "name": "SURALAYA"
+  "districtName": "PULOMERAK",
+  "name": "SURALAYA",
+  "postalCode": "42439"
  }
 ]

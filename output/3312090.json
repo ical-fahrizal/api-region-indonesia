@@ -2,66 +2,92 @@
  {
   "id": 3312090001,
   "districtId": 3312090,
-  "name": "GLESUNGREJO"
+  "districtName": "BATURETNO",
+  "name": "GLESUNGREJO",
+  "postalCode": "57673"
  },
  {
   "id": 3312090002,
   "districtId": 3312090,
-  "name": "GAMBIRANOM"
+  "districtName": "BATURETNO",
+  "name": "GAMBIRANOM",
+  "postalCode": "57673"
  },
  {
   "id": 3312090003,
   "districtId": 3312090,
-  "name": "BALEPANJANG"
+  "districtName": "BATURETNO",
+  "name": "BALEPANJANG",
+  "postalCode": "57673"
  },
  {
   "id": 3312090004,
   "districtId": 3312090,
-  "name": "WATUAGUNG"
+  "districtName": "BATURETNO",
+  "name": "WATUAGUNG",
+  "postalCode": "57673"
  },
  {
   "id": 3312090005,
   "districtId": 3312090,
-  "name": "BATURETNO"
+  "districtName": "BATURETNO",
+  "name": "BATURETNO",
+  "postalCode": "57673"
  },
  {
   "id": 3312090006,
   "districtId": 3312090,
-  "name": "BELIKURIP"
+  "districtName": "BATURETNO",
+  "name": "BELIKURIP",
+  "postalCode": "57673"
  },
  {
   "id": 3312090007,
   "districtId": 3312090,
-  "name": "TEMON"
+  "districtName": "BATURETNO",
+  "name": "TEMON",
+  "postalCode": "57673"
  },
  {
   "id": 3312090008,
   "districtId": 3312090,
-  "name": "SARADAN"
+  "districtName": "BATURETNO",
+  "name": "SARADAN",
+  "postalCode": "57673"
  },
  {
   "id": 3312090009,
   "districtId": 3312090,
-  "name": "TALUNOMBO"
+  "districtName": "BATURETNO",
+  "name": "TALUNOMBO",
+  "postalCode": "57673"
  },
  {
   "id": 3312090010,
   "districtId": 3312090,
-  "name": "SENDANGREJO"
+  "districtName": "BATURETNO",
+  "name": "SENDANGREJO",
+  "postalCode": "57673"
  },
  {
   "id": 3312090011,
   "districtId": 3312090,
-  "name": "BOTO"
+  "districtName": "BATURETNO",
+  "name": "BOTO",
+  "postalCode": "50182"
  },
  {
   "id": 3312090012,
   "districtId": 3312090,
-  "name": "KEDUNGOMBO"
+  "districtName": "BATURETNO",
+  "name": "KEDUNGOMBO",
+  "postalCode": "57673"
  },
  {
   "id": 3312090013,
   "districtId": 3312090,
-  "name": "SETROREJO"
+  "districtName": "BATURETNO",
+  "name": "SETROREJO",
+  "postalCode": "57673"
  }
 ]

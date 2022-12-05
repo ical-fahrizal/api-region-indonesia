@@ -2,21 +2,29 @@
  {
   "id": 5311032001,
   "districtId": 5311032,
-  "name": "KEL. POTULANDO"
+  "districtName": "ENDE TENGAH",
+  "name": "KEL. POTULANDO",
+  "postalCode": ""
  },
  {
   "id": 5311032002,
   "districtId": 5311032,
-  "name": "KEL. ONEKORE"
+  "districtName": "ENDE TENGAH",
+  "name": "KEL. ONEKORE",
+  "postalCode": ""
  },
  {
   "id": 5311032003,
   "districtId": 5311032,
-  "name": "KEL. KELIMUTU"
+  "districtName": "ENDE TENGAH",
+  "name": "KEL. KELIMUTU",
+  "postalCode": ""
  },
  {
   "id": 5311032004,
   "districtId": 5311032,
-  "name": "KEL. PAUPIRE"
+  "districtName": "ENDE TENGAH",
+  "name": "KEL. PAUPIRE",
+  "postalCode": ""
  }
 ]

@@ -2,21 +2,29 @@
  {
   "id": 2102063001,
   "districtId": 2102063,
-  "name": "MAPUR"
+  "districtName": "BINTAN PESISIR",
+  "name": "MAPUR",
+  "postalCode": "33253"
  },
  {
   "id": 2102063002,
   "districtId": 2102063,
-  "name": "NUMBING"
+  "districtName": "BINTAN PESISIR",
+  "name": "NUMBING",
+  "postalCode": "29151"
  },
  {
   "id": 2102063003,
   "districtId": 2102063,
-  "name": "KELONG"
+  "districtName": "BINTAN PESISIR",
+  "name": "KELONG",
+  "postalCode": "29151"
  },
  {
   "id": 2102063004,
   "districtId": 2102063,
-  "name": "AIR GLUBI"
+  "districtName": "BINTAN PESISIR",
+  "name": "AIR GLUBI",
+  "postalCode": ""
  }
 ]

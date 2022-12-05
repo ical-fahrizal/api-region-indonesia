@@ -2,26 +2,36 @@
  {
   "id": 1971040019,
   "districtId": 1971040,
-  "name": "BATIN TIKAL"
+  "districtName": "TAMAN SARI",
+  "name": "BATIN TIKAL",
+  "postalCode": "33121"
  },
  {
   "id": 1971040020,
   "districtId": 1971040,
-  "name": "RAWA BANGUN"
+  "districtName": "TAMAN SARI",
+  "name": "RAWA BANGUN",
+  "postalCode": "29319"
  },
  {
   "id": 1971040021,
   "districtId": 1971040,
-  "name": "GEDUNG NASIONAL"
+  "districtName": "TAMAN SARI",
+  "name": "GEDUNG NASIONAL",
+  "postalCode": "33127"
  },
  {
   "id": 1971040022,
   "districtId": 1971040,
-  "name": "OPAS INDAH"
+  "districtName": "TAMAN SARI",
+  "name": "OPAS INDAH",
+  "postalCode": "33121"
  },
  {
   "id": 1971040023,
   "districtId": 1971040,
-  "name": "KEJAKSAAN"
+  "districtName": "TAMAN SARI",
+  "name": "KEJAKSAAN",
+  "postalCode": "33123"
  }
 ]

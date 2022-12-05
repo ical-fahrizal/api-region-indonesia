@@ -2,31 +2,43 @@
  {
   "id": 9420043001,
   "districtId": 9420043,
-  "name": "SAWYATAMI"
+  "districtName": "MANNEM",
+  "name": "SAWYATAMI",
+  "postalCode": ""
  },
  {
   "id": 9420043002,
   "districtId": 9420043,
-  "name": "PYAWI"
+  "districtName": "MANNEM",
+  "name": "PYAWI",
+  "postalCode": ""
  },
  {
   "id": 9420043004,
   "districtId": 9420043,
-  "name": "WAMBES"
+  "districtName": "MANNEM",
+  "name": "WAMBES",
+  "postalCode": ""
  },
  {
   "id": 9420043005,
   "districtId": 9420043,
-  "name": "UPT PIR V / YAMARA"
+  "districtName": "MANNEM",
+  "name": "UPT PIR V / YAMARA",
+  "postalCode": ""
  },
  {
   "id": 9420043006,
   "districtId": 9420043,
-  "name": "UPT PIR IV / WONOREJO"
+  "districtName": "MANNEM",
+  "name": "UPT PIR IV / WONOREJO",
+  "postalCode": ""
  },
  {
   "id": 9420043007,
   "districtId": 9420043,
-  "name": "USKWAR"
+  "districtName": "MANNEM",
+  "name": "USKWAR",
+  "postalCode": ""
  }
 ]

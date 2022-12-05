@@ -2,21 +2,29 @@
  {
   "id": 1305021001,
   "districtId": 1305021,
-  "name": "GUGUAK MALALO"
+  "districtName": "BATIPUH SELATAN",
+  "name": "GUGUAK MALALO",
+  "postalCode": "27265"
  },
  {
   "id": 1305021002,
   "districtId": 1305021,
-  "name": "PADANG LAWEH MALALO"
+  "districtName": "BATIPUH SELATAN",
+  "name": "PADANG LAWEH MALALO",
+  "postalCode": "27265"
  },
  {
   "id": 1305021003,
   "districtId": 1305021,
-  "name": "SUMPUR"
+  "districtName": "BATIPUH SELATAN",
+  "name": "SUMPUR",
+  "postalCode": "27265"
  },
  {
   "id": 1305021004,
   "districtId": 1305021,
-  "name": "BATU TABA"
+  "districtName": "BATIPUH SELATAN",
+  "name": "BATU TABA",
+  "postalCode": "27265"
  }
 ]

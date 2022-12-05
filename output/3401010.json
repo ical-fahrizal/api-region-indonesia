@@ -2,66 +2,92 @@
  {
   "id": 3401010001,
   "districtId": 3401010,
-  "name": "JANGKARAN"
+  "districtName": "TEMON",
+  "name": "JANGKARAN",
+  "postalCode": "55654"
  },
  {
   "id": 3401010002,
   "districtId": 3401010,
-  "name": "SINDUTAN"
+  "districtName": "TEMON",
+  "name": "SINDUTAN",
+  "postalCode": "55654"
  },
  {
   "id": 3401010003,
   "districtId": 3401010,
-  "name": "PALIHAN"
+  "districtName": "TEMON",
+  "name": "PALIHAN",
+  "postalCode": "55654"
  },
  {
   "id": 3401010004,
   "districtId": 3401010,
-  "name": "GLAGAH"
+  "districtName": "TEMON",
+  "name": "GLAGAH",
+  "postalCode": "57481"
  },
  {
   "id": 3401010005,
   "districtId": 3401010,
-  "name": "KALI DENGEN"
+  "districtName": "TEMON",
+  "name": "KALI DENGEN",
+  "postalCode": "55654"
  },
  {
   "id": 3401010006,
   "districtId": 3401010,
-  "name": "PLUMBON"
+  "districtName": "TEMON",
+  "name": "PLUMBON",
+  "postalCode": "45215"
  },
  {
   "id": 3401010007,
   "districtId": 3401010,
-  "name": "KEDUNDANG"
+  "districtName": "TEMON",
+  "name": "KEDUNDANG",
+  "postalCode": "55654"
  },
  {
   "id": 3401010010,
   "districtId": 3401010,
-  "name": "KALIGINTUNG"
+  "districtName": "TEMON",
+  "name": "KALIGINTUNG",
+  "postalCode": "54263"
  },
  {
   "id": 3401010011,
   "districtId": 3401010,
-  "name": "TEMON WETAN"
+  "districtName": "TEMON",
+  "name": "TEMON WETAN",
+  "postalCode": "55654"
  },
  {
   "id": 3401010012,
   "districtId": 3401010,
-  "name": "TEMON KULON"
+  "districtName": "TEMON",
+  "name": "TEMON KULON",
+  "postalCode": "55654"
  },
  {
   "id": 3401010013,
   "districtId": 3401010,
-  "name": "KEBONREJO"
+  "districtName": "TEMON",
+  "name": "KEBONREJO",
+  "postalCode": "58253"
  },
  {
   "id": 3401010014,
   "districtId": 3401010,
-  "name": "JANTEN"
+  "districtName": "TEMON",
+  "name": "JANTEN",
+  "postalCode": "55654"
  },
  {
   "id": 3401010015,
   "districtId": 3401010,
-  "name": "KARANG WULUH"
+  "districtName": "TEMON",
+  "name": "KARANG WULUH",
+  "postalCode": "55654"
  }
 ]

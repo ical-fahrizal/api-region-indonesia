@@ -2,16 +2,22 @@
  {
   "id": 3471110001,
   "districtId": 3471110,
-  "name": "PATANGPULUHAN"
+  "districtName": "WIROBRAJAN",
+  "name": "PATANGPULUHAN",
+  "postalCode": "55251"
  },
  {
   "id": 3471110002,
   "districtId": 3471110,
-  "name": "WIROBRAJAN"
+  "districtName": "WIROBRAJAN",
+  "name": "WIROBRAJAN",
+  "postalCode": "55252"
  },
  {
   "id": 3471110003,
   "districtId": 3471110,
-  "name": "PAKUNCEN"
+  "districtName": "WIROBRAJAN",
+  "name": "PAKUNCEN",
+  "postalCode": "53353"
  }
 ]

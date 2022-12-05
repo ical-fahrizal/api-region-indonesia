@@ -2,51 +2,71 @@
  {
   "id": 1218081001,
   "districtId": 1218081,
-  "name": "SEI BELUTU"
+  "districtName": "SEI BAMBAN",
+  "name": "SEI BELUTU",
+  "postalCode": "20995"
  },
  {
   "id": 1218081002,
   "districtId": 1218081,
-  "name": "GEMPOLAN"
+  "districtName": "SEI BAMBAN",
+  "name": "GEMPOLAN",
+  "postalCode": "20995"
  },
  {
   "id": 1218081003,
   "districtId": 1218081,
-  "name": "BAKARAN BATU"
+  "districtName": "SEI BAMBAN",
+  "name": "BAKARAN BATU",
+  "postalCode": "20372"
  },
  {
   "id": 1218081004,
   "districtId": 1218081,
-  "name": "SUKA DAMAI"
+  "districtName": "SEI BAMBAN",
+  "name": "SUKA DAMAI",
+  "postalCode": "24472"
  },
  {
   "id": 1218081005,
   "districtId": 1218081,
-  "name": "SEI BAMBAN ESTATE"
+  "districtName": "SEI BAMBAN",
+  "name": "SEI BAMBAN ESTATE",
+  "postalCode": "20995"
  },
  {
   "id": 1218081006,
   "districtId": 1218081,
-  "name": "SEI BULUH"
+  "districtName": "SEI BAMBAN",
+  "name": "SEI BULUH",
+  "postalCode": ""
  },
  {
   "id": 1218081007,
   "districtId": 1218081,
-  "name": "SEI BAMBAN"
+  "districtName": "SEI BAMBAN",
+  "name": "SEI BAMBAN",
+  "postalCode": "20852"
  },
  {
   "id": 1218081008,
   "districtId": 1218081,
-  "name": "PENGGALANGAN"
+  "districtName": "SEI BAMBAN",
+  "name": "PENGGALANGAN",
+  "postalCode": "24655"
  },
  {
   "id": 1218081009,
   "districtId": 1218081,
-  "name": "PON"
+  "districtName": "SEI BAMBAN",
+  "name": "PON",
+  "postalCode": ""
  },
  {
   "id": 1218081010,
   "districtId": 1218081,
-  "name": "RAMPAH ESTATE"
+  "districtName": "SEI BAMBAN",
+  "name": "RAMPAH ESTATE",
+  "postalCode": "20995"
  }
 ]

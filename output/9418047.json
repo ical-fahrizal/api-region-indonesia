@@ -2,56 +2,78 @@
  {
   "id": 9418047001,
   "districtId": 9418047,
-  "name": "BIJERE"
+  "districtName": "DOW",
+  "name": "BIJERE",
+  "postalCode": ""
  },
  {
   "id": 9418047002,
   "districtId": 9418047,
-  "name": "TAKRI"
+  "districtName": "DOW",
+  "name": "TAKRI",
+  "postalCode": "99569"
  },
  {
   "id": 9418047003,
   "districtId": 9418047,
-  "name": "PRAWA"
+  "districtName": "DOW",
+  "name": "PRAWA",
+  "postalCode": "99569"
  },
  {
   "id": 9418047004,
   "districtId": 9418047,
-  "name": "SIGOU"
+  "districtName": "DOW",
+  "name": "SIGOU",
+  "postalCode": "99569"
  },
  {
   "id": 9418047005,
   "districtId": 9418047,
-  "name": "DAGARI"
+  "districtName": "DOW",
+  "name": "DAGARI",
+  "postalCode": "99569"
  },
  {
   "id": 9418047006,
   "districtId": 9418047,
-  "name": "WARKA"
+  "districtName": "DOW",
+  "name": "WARKA",
+  "postalCode": "99569"
  },
  {
   "id": 9418047007,
   "districtId": 9418047,
-  "name": "PAKARE"
+  "districtName": "DOW",
+  "name": "PAKARE",
+  "postalCode": "99569"
  },
  {
   "id": 9418047008,
   "districtId": 9418047,
-  "name": "TIGOU"
+  "districtName": "DOW",
+  "name": "TIGOU",
+  "postalCode": ""
  },
  {
   "id": 9418047009,
   "districtId": 9418047,
-  "name": "BIRE"
+  "districtName": "DOW",
+  "name": "BIRE",
+  "postalCode": "22755"
  },
  {
   "id": 9418047010,
   "districtId": 9418047,
-  "name": "ITOLI"
+  "districtName": "DOW",
+  "name": "ITOLI",
+  "postalCode": "99569"
  },
  {
   "id": 9418047011,
   "districtId": 9418047,
-  "name": "VAKUYO"
+  "districtName": "DOW",
+  "name": "VAKUYO",
+  "postalCode": ""
  }
 ]

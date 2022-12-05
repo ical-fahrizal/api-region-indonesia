@@ -2,41 +2,57 @@
  {
   "id": 9403082001,
   "districtId": 9403082,
-  "name": "TABBEYAN"
+  "districtName": "YAPSI",
+  "name": "TABBEYAN",
+  "postalCode": ""
  },
  {
   "id": 9403082002,
   "districtId": 9403082,
-  "name": "ONGAN JAYA"
+  "districtName": "YAPSI",
+  "name": "ONGAN JAYA",
+  "postalCode": "99364"
  },
  {
   "id": 9403082003,
   "districtId": 9403082,
-  "name": "KWARJA"
+  "districtName": "YAPSI",
+  "name": "KWARJA",
+  "postalCode": ""
  },
  {
   "id": 9403082004,
   "districtId": 9403082,
-  "name": "BUMI SAHAJA"
+  "districtName": "YAPSI",
+  "name": "BUMI SAHAJA",
+  "postalCode": "99364"
  },
  {
   "id": 9403082005,
   "districtId": 9403082,
-  "name": "NAWA MULYA"
+  "districtName": "YAPSI",
+  "name": "NAWA MULYA",
+  "postalCode": "99364"
  },
  {
   "id": 9403082006,
   "districtId": 9403082,
-  "name": "NAWA MUKTI"
+  "districtName": "YAPSI",
+  "name": "NAWA MUKTI",
+  "postalCode": "99364"
  },
  {
   "id": 9403082007,
   "districtId": 9403082,
-  "name": "TAKWA BANGUN"
+  "districtName": "YAPSI",
+  "name": "TAKWA BANGUN",
+  "postalCode": ""
  },
  {
   "id": 9403082008,
   "districtId": 9403082,
-  "name": "PURNAWA JATI"
+  "districtName": "YAPSI",
+  "name": "PURNAWA JATI",
+  "postalCode": ""
  }
 ]

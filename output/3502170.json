@@ -2,96 +2,134 @@
  {
   "id": 3502170001,
   "districtId": 3502170,
-  "name": "PAJU"
+  "districtName": "PONOROGO",
+  "name": "PAJU",
+  "postalCode": "63415"
  },
  {
   "id": 3502170002,
   "districtId": 3502170,
-  "name": "BROTONEGARAN"
+  "districtName": "PONOROGO",
+  "name": "BROTONEGARAN",
+  "postalCode": "63419"
  },
  {
   "id": 3502170003,
   "districtId": 3502170,
-  "name": "PAKUNDEN"
+  "districtName": "PONOROGO",
+  "name": "PAKUNDEN",
+  "postalCode": "56485"
  },
  {
   "id": 3502170004,
   "districtId": 3502170,
-  "name": "KEPATIHAN"
+  "districtName": "PONOROGO",
+  "name": "KEPATIHAN",
+  "postalCode": "57652"
  },
  {
   "id": 3502170005,
   "districtId": 3502170,
-  "name": "SURODIKRAMAN"
+  "districtName": "PONOROGO",
+  "name": "SURODIKRAMAN",
+  "postalCode": "63419"
  },
  {
   "id": 3502170006,
   "districtId": 3502170,
-  "name": "PURBOSUMAN"
+  "districtName": "PONOROGO",
+  "name": "PURBOSUMAN",
+  "postalCode": "63417"
  },
  {
   "id": 3502170007,
   "districtId": 3502170,
-  "name": "TONATAN"
+  "districtName": "PONOROGO",
+  "name": "TONATAN",
+  "postalCode": "63418"
  },
  {
   "id": 3502170008,
   "districtId": 3502170,
-  "name": "BANGUNSARI"
+  "districtName": "PONOROGO",
+  "name": "BANGUNSARI",
+  "postalCode": "35361"
  },
  {
   "id": 3502170009,
   "districtId": 3502170,
-  "name": "TAMAN ARUM"
+  "districtName": "PONOROGO",
+  "name": "TAMAN ARUM",
+  "postalCode": "63419"
  },
  {
   "id": 3502170010,
   "districtId": 3502170,
-  "name": "KAUMAN"
+  "districtName": "PONOROGO",
+  "name": "KAUMAN",
+  "postalCode": "51215"
  },
  {
   "id": 3502170011,
   "districtId": 3502170,
-  "name": "TAMBAKBAYAN"
+  "districtName": "PONOROGO",
+  "name": "TAMBAKBAYAN",
+  "postalCode": ""
  },
  {
   "id": 3502170012,
   "districtId": 3502170,
-  "name": "PINGGIRSARI"
+  "districtName": "PONOROGO",
+  "name": "PINGGIRSARI",
+  "postalCode": "40379"
  },
  {
   "id": 3502170013,
   "districtId": 3502170,
-  "name": "MANGKUJAYAN"
+  "districtName": "PONOROGO",
+  "name": "MANGKUJAYAN",
+  "postalCode": "63316"
  },
  {
   "id": 3502170014,
   "districtId": 3502170,
-  "name": "BANYUDONO"
+  "districtName": "PONOROGO",
+  "name": "BANYUDONO",
+  "postalCode": "57373"
  },
  {
   "id": 3502170015,
   "districtId": 3502170,
-  "name": "NOLOGATEN"
+  "districtName": "PONOROGO",
+  "name": "NOLOGATEN",
+  "postalCode": "63411"
  },
  {
   "id": 3502170016,
   "districtId": 3502170,
-  "name": "COKROMENGGALAN"
+  "districtName": "PONOROGO",
+  "name": "COKROMENGGALAN",
+  "postalCode": "63411"
  },
  {
   "id": 3502170017,
   "districtId": 3502170,
-  "name": "KENITEN"
+  "districtName": "PONOROGO",
+  "name": "KENITEN",
+  "postalCode": "53152"
  },
  {
   "id": 3502170018,
   "districtId": 3502170,
-  "name": "JINGGLONG"
+  "districtName": "PONOROGO",
+  "name": "JINGGLONG",
+  "postalCode": "63411"
  },
  {
   "id": 3502170019,
   "districtId": 3502170,
-  "name": "BEDURI"
+  "districtName": "PONOROGO",
+  "name": "BEDURI",
+  "postalCode": "63412"
  }
 ]

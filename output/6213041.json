@@ -2,31 +2,43 @@
  {
   "id": 6213041001,
   "districtId": 6213041,
-  "name": "ORENG"
+  "districtName": "TANAH SIANG SELATAN",
+  "name": "ORENG",
+  "postalCode": "73961"
  },
  {
   "id": 6213041002,
   "districtId": 6213041,
-  "name": "OLONG MURO"
+  "districtName": "TANAH SIANG SELATAN",
+  "name": "OLONG MURO",
+  "postalCode": ""
  },
  {
   "id": 6213041003,
   "districtId": 6213041,
-  "name": "OLONG HANANGAN"
+  "districtName": "TANAH SIANG SELATAN",
+  "name": "OLONG HANANGAN",
+  "postalCode": ""
  },
  {
   "id": 6213041004,
   "districtId": 6213041,
-  "name": "DIRUNG LINGKIN"
+  "districtName": "TANAH SIANG SELATAN",
+  "name": "DIRUNG LINGKIN",
+  "postalCode": "73961"
  },
  {
   "id": 6213041005,
   "districtId": 6213041,
-  "name": "DATAH KOTOU"
+  "districtName": "TANAH SIANG SELATAN",
+  "name": "DATAH KOTOU",
+  "postalCode": "73961"
  },
  {
   "id": 6213041006,
   "districtId": 6213041,
-  "name": "TAHUJAN ONTU"
+  "districtName": "TANAH SIANG SELATAN",
+  "name": "TAHUJAN ONTU",
+  "postalCode": "73961"
  }
 ]

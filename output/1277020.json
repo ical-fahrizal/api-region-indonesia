@@ -2,61 +2,85 @@
  {
   "id": 1277020001,
   "districtId": 1277020,
-  "name": "HANOPAN"
+  "districtName": "PADANGSIDIMPUAN SELATAN",
+  "name": "HANOPAN",
+  "postalCode": "22721"
  },
  {
   "id": 1277020002,
   "districtId": 1277020,
-  "name": "SIDANGKAL"
+  "districtName": "PADANGSIDIMPUAN SELATAN",
+  "name": "SIDANGKAL",
+  "postalCode": "22721"
  },
  {
   "id": 1277020003,
   "districtId": 1277020,
-  "name": "WEK VI"
+  "districtName": "PADANGSIDIMPUAN SELATAN",
+  "name": "WEK VI",
+  "postalCode": "22724"
  },
  {
   "id": 1277020004,
   "districtId": 1277020,
-  "name": "UJUNG PADANG"
+  "districtName": "PADANGSIDIMPUAN SELATAN",
+  "name": "UJUNG PADANG",
+  "postalCode": "23773"
  },
  {
   "id": 1277020005,
   "districtId": 1277020,
-  "name": "AEK TAMPANG"
+  "districtName": "PADANGSIDIMPUAN SELATAN",
+  "name": "AEK TAMPANG",
+  "postalCode": "22726"
  },
  {
   "id": 1277020006,
   "districtId": 1277020,
-  "name": "PADANG MATINGGI"
+  "districtName": "PADANGSIDIMPUAN SELATAN",
+  "name": "PADANG MATINGGI",
+  "postalCode": "22755"
  },
  {
   "id": 1277020007,
   "districtId": 1277020,
-  "name": "SILANDIT"
+  "districtName": "PADANGSIDIMPUAN SELATAN",
+  "name": "SILANDIT",
+  "postalCode": "22728"
  },
  {
   "id": 1277020008,
   "districtId": 1277020,
-  "name": "WEK V"
+  "districtName": "PADANGSIDIMPUAN SELATAN",
+  "name": "WEK V",
+  "postalCode": "22723"
  },
  {
   "id": 1277020009,
   "districtId": 1277020,
-  "name": "SITAMIANG"
+  "districtName": "PADANGSIDIMPUAN SELATAN",
+  "name": "SITAMIANG",
+  "postalCode": "22394"
  },
  {
   "id": 1277020010,
   "districtId": 1277020,
-  "name": "LOSUNG"
+  "districtName": "PADANGSIDIMPUAN SELATAN",
+  "name": "LOSUNG",
+  "postalCode": "22722"
  },
  {
   "id": 1277020011,
   "districtId": 1277020,
-  "name": "PADANG MATINGGI LESTARI"
+  "districtName": "PADANGSIDIMPUAN SELATAN",
+  "name": "PADANG MATINGGI LESTARI",
+  "postalCode": "22727"
  },
  {
   "id": 1277020012,
   "districtId": 1277020,
-  "name": "SITAMIANG BARU"
+  "districtName": "PADANGSIDIMPUAN SELATAN",
+  "name": "SITAMIANG BARU",
+  "postalCode": "22723"
  }
 ]

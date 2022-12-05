@@ -2,141 +2,197 @@
  {
   "id": 1218020001,
   "districtId": 1218020,
-  "name": "PERTAMBATAN"
+  "districtName": "DOLOK MASIHUL",
+  "name": "PERTAMBATAN",
+  "postalCode": "20991"
  },
  {
   "id": 1218020002,
   "districtId": 1218020,
-  "name": "BAH KERAPUH"
+  "districtName": "DOLOK MASIHUL",
+  "name": "BAH KERAPUH",
+  "postalCode": "20991"
  },
  {
   "id": 1218020003,
   "districtId": 1218020,
-  "name": "DOLOK SAGALA"
+  "districtName": "DOLOK MASIHUL",
+  "name": "DOLOK SAGALA",
+  "postalCode": "20991"
  },
  {
   "id": 1218020004,
   "districtId": 1218020,
-  "name": "BUKIT CERMIN HILIR"
+  "districtName": "DOLOK MASIHUL",
+  "name": "BUKIT CERMIN HILIR",
+  "postalCode": "20991"
  },
  {
   "id": 1218020005,
   "districtId": 1218020,
-  "name": "TANJUNG MARIA"
+  "districtName": "DOLOK MASIHUL",
+  "name": "TANJUNG MARIA",
+  "postalCode": "20991"
  },
  {
   "id": 1218020006,
   "districtId": 1218020,
-  "name": "UJUNG SILAU"
+  "districtName": "DOLOK MASIHUL",
+  "name": "UJUNG SILAU",
+  "postalCode": "20991"
  },
  {
   "id": 1218020007,
   "districtId": 1218020,
-  "name": "KERAPUH"
+  "districtName": "DOLOK MASIHUL",
+  "name": "KERAPUH",
+  "postalCode": "20991"
  },
  {
   "id": 1218020008,
   "districtId": 1218020,
-  "name": "SARANG TOROP"
+  "districtName": "DOLOK MASIHUL",
+  "name": "SARANG TOROP",
+  "postalCode": "20991"
  },
  {
   "id": 1218020009,
   "districtId": 1218020,
-  "name": "SARANG GINTING"
+  "districtName": "DOLOK MASIHUL",
+  "name": "SARANG GINTING",
+  "postalCode": "20991"
  },
  {
   "id": 1218020010,
   "districtId": 1218020,
-  "name": "DOLOK MANAMPANG"
+  "districtName": "DOLOK MASIHUL",
+  "name": "DOLOK MANAMPANG",
+  "postalCode": "20991"
  },
  {
   "id": 1218020011,
   "districtId": 1218020,
-  "name": "PEKAN DOLOK MASIHUL"
+  "districtName": "DOLOK MASIHUL",
+  "name": "PEKAN DOLOK MASIHUL",
+  "postalCode": "20991"
  },
  {
   "id": 1218020012,
   "districtId": 1218020,
-  "name": "ARAS PANJANG"
+  "districtName": "DOLOK MASIHUL",
+  "name": "ARAS PANJANG",
+  "postalCode": "20991"
  },
  {
   "id": 1218020013,
   "districtId": 1218020,
-  "name": "MARTEBING"
+  "districtName": "DOLOK MASIHUL",
+  "name": "MARTEBING",
+  "postalCode": "20991"
  },
  {
   "id": 1218020014,
   "districtId": 1218020,
-  "name": "BANTAN"
+  "districtName": "DOLOK MASIHUL",
+  "name": "BANTAN",
+  "postalCode": "23671"
  },
  {
   "id": 1218020015,
   "districtId": 1218020,
-  "name": "BATU (12)"
+  "districtName": "DOLOK MASIHUL",
+  "name": "BATU (12)",
+  "postalCode": ""
  },
  {
   "id": 1218020016,
   "districtId": 1218020,
-  "name": "SILAU MERAWAN"
+  "districtName": "DOLOK MASIHUL",
+  "name": "SILAU MERAWAN",
+  "postalCode": "20991"
  },
  {
   "id": 1218020017,
   "districtId": 1218020,
-  "name": "BATU (13)"
+  "districtName": "DOLOK MASIHUL",
+  "name": "BATU (13)",
+  "postalCode": ""
  },
  {
   "id": 1218020018,
   "districtId": 1218020,
-  "name": "PEKAN KEMIS"
+  "districtName": "DOLOK MASIHUL",
+  "name": "PEKAN KEMIS",
+  "postalCode": "20991"
  },
  {
   "id": 1218020019,
   "districtId": 1218020,
-  "name": "PARDOMUAN"
+  "districtName": "DOLOK MASIHUL",
+  "name": "PARDOMUAN",
+  "postalCode": "22732"
  },
  {
   "id": 1218020020,
   "districtId": 1218020,
-  "name": "DAME"
+  "districtName": "DOLOK MASIHUL",
+  "name": "DAME",
+  "postalCode": "20991"
  },
  {
   "id": 1218020021,
   "districtId": 1218020,
-  "name": "TEGAL SARI"
+  "districtName": "DOLOK MASIHUL",
+  "name": "TEGAL SARI",
+  "postalCode": "23681"
  },
  {
   "id": 1218020022,
   "districtId": 1218020,
-  "name": "HEVEA"
+  "districtName": "DOLOK MASIHUL",
+  "name": "HEVEA",
+  "postalCode": ""
  },
  {
   "id": 1218020023,
   "districtId": 1218020,
-  "name": "BAJA RONGGI"
+  "districtName": "DOLOK MASIHUL",
+  "name": "BAJA RONGGI",
+  "postalCode": "20991"
  },
  {
   "id": 1218020024,
   "districtId": 1218020,
-  "name": "DURIAN PULOAN"
+  "districtName": "DOLOK MASIHUL",
+  "name": "DURIAN PULOAN",
+  "postalCode": "20991"
  },
  {
   "id": 1218020026,
   "districtId": 1218020,
-  "name": "KOTA TENGAH"
+  "districtName": "DOLOK MASIHUL",
+  "name": "KOTA TENGAH",
+  "postalCode": "20991"
  },
  {
   "id": 1218020027,
   "districtId": 1218020,
-  "name": "BLOK SEPULUH"
+  "districtName": "DOLOK MASIHUL",
+  "name": "BLOK SEPULUH",
+  "postalCode": "20991"
  },
  {
   "id": 1218020028,
   "districtId": 1218020,
-  "name": "HUTA NAULI"
+  "districtName": "DOLOK MASIHUL",
+  "name": "HUTA NAULI",
+  "postalCode": "20991"
  },
  {
   "id": 1218020029,
   "districtId": 1218020,
-  "name": "MALA SORI"
+  "districtName": "DOLOK MASIHUL",
+  "name": "MALA SORI",
+  "postalCode": "20991"
  }
 ]

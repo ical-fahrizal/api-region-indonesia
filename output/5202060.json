@@ -2,61 +2,85 @@
  {
   "id": 5202060001,
   "districtId": 5202060,
-  "name": "PANJISARI"
+  "districtName": "PRAYA",
+  "name": "PANJISARI",
+  "postalCode": "83516"
  },
  {
   "id": 5202060004,
   "districtId": 5202060,
-  "name": "PRAYA"
+  "districtName": "PRAYA",
+  "name": "PRAYA",
+  "postalCode": "83511"
  },
  {
   "id": 5202060005,
   "districtId": 5202060,
-  "name": "PRAPEN"
+  "districtName": "PRAYA",
+  "name": "PRAPEN",
+  "postalCode": "60299"
  },
  {
   "id": 5202060006,
   "districtId": 5202060,
-  "name": "TIWUGALIH"
+  "districtName": "PRAYA",
+  "name": "TIWUGALIH",
+  "postalCode": "83518"
  },
  {
   "id": 5202060009,
   "districtId": 5202060,
-  "name": "SEMAYAN"
+  "districtName": "PRAYA",
+  "name": "SEMAYAN",
+  "postalCode": "83512"
  },
  {
   "id": 5202060018,
   "districtId": 5202060,
-  "name": "BUNUT BAOK"
+  "districtName": "PRAYA",
+  "name": "BUNUT BAOK",
+  "postalCode": "83511"
  },
  {
   "id": 5202060020,
   "districtId": 5202060,
-  "name": "GONJAK"
+  "districtName": "PRAYA",
+  "name": "GONJAK",
+  "postalCode": "83522"
  },
  {
   "id": 5202060021,
   "districtId": 5202060,
-  "name": "JAGO"
+  "districtName": "PRAYA",
+  "name": "JAGO",
+  "postalCode": "83511"
  },
  {
   "id": 5202060022,
   "districtId": 5202060,
-  "name": "AIK MUAL"
+  "districtName": "PRAYA",
+  "name": "AIK MUAL",
+  "postalCode": "83511"
  },
  {
   "id": 5202060023,
   "districtId": 5202060,
-  "name": "MERTAK TOMBOK"
+  "districtName": "PRAYA",
+  "name": "MERTAK TOMBOK",
+  "postalCode": "83511"
  },
  {
   "id": 5202060024,
   "districtId": 5202060,
-  "name": "MONTONG TEREP"
+  "districtName": "PRAYA",
+  "name": "MONTONG TEREP",
+  "postalCode": "83511"
  },
  {
   "id": 5202060025,
   "districtId": 5202060,
-  "name": "MEKAR DAMAI"
+  "districtName": "PRAYA",
+  "name": "MEKAR DAMAI",
+  "postalCode": ""
  }
 ]

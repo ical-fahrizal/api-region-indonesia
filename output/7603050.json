@@ -2,61 +2,85 @@
  {
   "id": 7603050001,
   "districtId": 7603050,
-  "name": "MAMASA"
+  "districtName": "MAMASA",
+  "name": "MAMASA",
+  "postalCode": "91362"
  },
  {
   "id": 7603050002,
   "districtId": 7603050,
-  "name": "OSANGO"
+  "districtName": "MAMASA",
+  "name": "OSANGO",
+  "postalCode": "91362"
  },
  {
   "id": 7603050003,
   "districtId": 7603050,
-  "name": "RAMBU SARATU"
+  "districtName": "MAMASA",
+  "name": "RAMBU SARATU",
+  "postalCode": ""
  },
  {
   "id": 7603050004,
   "districtId": 7603050,
-  "name": "LAMBANAN"
+  "districtName": "MAMASA",
+  "name": "LAMBANAN",
+  "postalCode": "91921"
  },
  {
   "id": 7603050005,
   "districtId": 7603050,
-  "name": "LEMBANGNA SALULO"
+  "districtName": "MAMASA",
+  "name": "LEMBANGNA SALULO",
+  "postalCode": ""
  },
  {
   "id": 7603050006,
   "districtId": 7603050,
-  "name": "TAUPE"
+  "districtName": "MAMASA",
+  "name": "TAUPE",
+  "postalCode": "91362"
  },
  {
   "id": 7603050007,
   "districtId": 7603050,
-  "name": "BUNTUBUDA"
+  "districtName": "MAMASA",
+  "name": "BUNTUBUDA",
+  "postalCode": ""
  },
  {
   "id": 7603050008,
   "districtId": 7603050,
-  "name": "TONDOK BAKARU"
+  "districtName": "MAMASA",
+  "name": "TONDOK BAKARU",
+  "postalCode": "91362"
  },
  {
   "id": 7603050009,
   "districtId": 7603050,
-  "name": "PEBASSIAN"
+  "districtName": "MAMASA",
+  "name": "PEBASSIAN",
+  "postalCode": "91362"
  },
  {
   "id": 7603050010,
   "districtId": 7603050,
-  "name": "MAMBULILLING"
+  "districtName": "MAMASA",
+  "name": "MAMBULILLING",
+  "postalCode": ""
  },
  {
   "id": 7603050011,
   "districtId": 7603050,
-  "name": "BOMBONG LAMBE"
+  "districtName": "MAMASA",
+  "name": "BOMBONG LAMBE",
+  "postalCode": "91362"
  },
  {
   "id": 7603050012,
   "districtId": 7603050,
-  "name": "BUBUN BATU"
+  "districtName": "MAMASA",
+  "name": "BUBUN BATU",
+  "postalCode": ""
  }
 ]

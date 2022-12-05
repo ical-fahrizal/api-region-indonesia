@@ -2,61 +2,85 @@
  {
   "id": 9433040003,
   "districtId": 9433040,
-  "name": "YAURIA / WAMBRU"
+  "districtName": "SINAK",
+  "name": "YAURIA / WAMBRU",
+  "postalCode": ""
  },
  {
   "id": 9433040007,
   "districtId": 9433040,
-  "name": "GIGOBAK / GOGOBAK"
+  "districtName": "SINAK",
+  "name": "GIGOBAK / GOGOBAK",
+  "postalCode": ""
  },
  {
   "id": 9433040009,
   "districtId": 9433040,
-  "name": "KUMIKOMO"
+  "districtName": "SINAK",
+  "name": "KUMIKOMO",
+  "postalCode": ""
  },
  {
   "id": 9433040010,
   "districtId": 9433040,
-  "name": "ISKALEBUK / KAWIBUT"
+  "districtName": "SINAK",
+  "name": "ISKALEBUK / KAWIBUT",
+  "postalCode": ""
  },
  {
   "id": 9433040012,
   "districtId": 9433040,
-  "name": "KELEMAME"
+  "districtName": "SINAK",
+  "name": "KELEMAME",
+  "postalCode": "98973"
  },
  {
   "id": 9433040013,
   "districtId": 9433040,
-  "name": "GIGOBAK"
+  "districtName": "SINAK",
+  "name": "GIGOBAK",
+  "postalCode": ""
  },
  {
   "id": 9433040014,
   "districtId": 9433040,
-  "name": "GIGOBAK II"
+  "districtName": "SINAK",
+  "name": "GIGOBAK II",
+  "postalCode": ""
  },
  {
   "id": 9433040015,
   "districtId": 9433040,
-  "name": "GINGGA BARU"
+  "districtName": "SINAK",
+  "name": "GINGGA BARU",
+  "postalCode": ""
  },
  {
   "id": 9433040016,
   "districtId": 9433040,
-  "name": "KOLORIBANAK"
+  "districtName": "SINAK",
+  "name": "KOLORIBANAK",
+  "postalCode": ""
  },
  {
   "id": 9433040017,
   "districtId": 9433040,
-  "name": "MOGULU"
+  "districtName": "SINAK",
+  "name": "MOGULU",
+  "postalCode": ""
  },
  {
   "id": 9433040018,
   "districtId": 9433040,
-  "name": "PASIR PUTIH"
+  "districtName": "SINAK",
+  "name": "PASIR PUTIH",
+  "postalCode": "24453"
  },
  {
   "id": 9433040019,
   "districtId": 9433040,
-  "name": "TENONGGAME"
+  "districtName": "SINAK",
+  "name": "TENONGGAME",
+  "postalCode": ""
  }
 ]

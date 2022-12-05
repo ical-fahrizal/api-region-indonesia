@@ -2,41 +2,57 @@
  {
   "id": 7316050003,
   "districtId": 7316050,
-  "name": "MATA ALLO"
+  "districtName": "ALLA",
+  "name": "MATA ALLO",
+  "postalCode": "91754"
  },
  {
   "id": 7316050004,
   "districtId": 7316050,
-  "name": "KALOSI"
+  "districtName": "ALLA",
+  "name": "KALOSI",
+  "postalCode": "91754"
  },
  {
   "id": 7316050015,
   "districtId": 7316050,
-  "name": "KAMBIOLANGI"
+  "districtName": "ALLA",
+  "name": "KAMBIOLANGI",
+  "postalCode": "91754"
  },
  {
   "id": 7316050016,
   "districtId": 7316050,
-  "name": "BUNTU SUGI"
+  "districtName": "ALLA",
+  "name": "BUNTU SUGI",
+  "postalCode": "91754"
  },
  {
   "id": 7316050017,
   "districtId": 7316050,
-  "name": "SUMILLAN"
+  "districtName": "ALLA",
+  "name": "SUMILLAN",
+  "postalCode": "91754"
  },
  {
   "id": 7316050024,
   "districtId": 7316050,
-  "name": "PANA"
+  "districtName": "ALLA",
+  "name": "PANA",
+  "postalCode": "85563"
  },
  {
   "id": 7316050027,
   "districtId": 7316050,
-  "name": "BOLANG"
+  "districtName": "ALLA",
+  "name": "BOLANG",
+  "postalCode": "41357"
  },
  {
   "id": 7316050028,
   "districtId": 7316050,
-  "name": "TAULO"
+  "districtName": "ALLA",
+  "name": "TAULO",
+  "postalCode": "91754"
  }
 ]

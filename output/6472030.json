@@ -2,31 +2,43 @@
  {
   "id": 6472030001,
   "districtId": 6472030,
-  "name": "MESJID"
+  "districtName": "SAMARINDA SEBERANG",
+  "name": "MESJID",
+  "postalCode": "23681"
  },
  {
   "id": 6472030002,
   "districtId": 6472030,
-  "name": "BAQA"
+  "districtName": "SAMARINDA SEBERANG",
+  "name": "BAQA",
+  "postalCode": ""
  },
  {
   "id": 6472030005,
   "districtId": 6472030,
-  "name": "SUNGAI KELEDANG"
+  "districtName": "SAMARINDA SEBERANG",
+  "name": "SUNGAI KELEDANG",
+  "postalCode": ""
  },
  {
   "id": 6472030006,
   "districtId": 6472030,
-  "name": "MANGKUPALAS"
+  "districtName": "SAMARINDA SEBERANG",
+  "name": "MANGKUPALAS",
+  "postalCode": ""
  },
  {
   "id": 6472030007,
   "districtId": 6472030,
-  "name": "TENUN SAMARINDA"
+  "districtName": "SAMARINDA SEBERANG",
+  "name": "TENUN SAMARINDA",
+  "postalCode": ""
  },
  {
   "id": 6472030008,
   "districtId": 6472030,
-  "name": "GUNUNG PANJANG"
+  "districtName": "SAMARINDA SEBERANG",
+  "name": "GUNUNG PANJANG",
+  "postalCode": "77311"
  }
 ]

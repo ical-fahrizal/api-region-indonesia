@@ -2,76 +2,106 @@
  {
   "id": 1103092001,
   "districtId": 1103092,
-  "name": "PULO IE"
+  "districtName": "LABUHAN HAJI BARAT",
+  "name": "PULO IE",
+  "postalCode": "23662"
  },
  {
   "id": 1103092002,
   "districtId": 1103092,
-  "name": "SUAK LOKAN"
+  "districtName": "LABUHAN HAJI BARAT",
+  "name": "SUAK LOKAN",
+  "postalCode": "23757"
  },
  {
   "id": 1103092003,
   "districtId": 1103092,
-  "name": "IKU LHUNG"
+  "districtName": "LABUHAN HAJI BARAT",
+  "name": "IKU LHUNG",
+  "postalCode": "23764"
  },
  {
   "id": 1103092004,
   "districtId": 1103092,
-  "name": "PANTE GEULIMA"
+  "districtName": "LABUHAN HAJI BARAT",
+  "name": "PANTE GEULIMA",
+  "postalCode": "23757"
  },
  {
   "id": 1103092005,
   "districtId": 1103092,
-  "name": "BLANG BARU"
+  "districtName": "LABUHAN HAJI BARAT",
+  "name": "BLANG BARU",
+  "postalCode": "23757"
  },
  {
   "id": 1103092006,
   "districtId": 1103092,
-  "name": "BLANG POROH"
+  "districtName": "LABUHAN HAJI BARAT",
+  "name": "BLANG POROH",
+  "postalCode": "24263"
  },
  {
   "id": 1103092007,
   "districtId": 1103092,
-  "name": "KUTA IBOH"
+  "districtName": "LABUHAN HAJI BARAT",
+  "name": "KUTA IBOH",
+  "postalCode": ""
  },
  {
   "id": 1103092008,
   "districtId": 1103092,
-  "name": "TUTONG"
+  "districtName": "LABUHAN HAJI BARAT",
+  "name": "TUTONG",
+  "postalCode": "24184"
  },
  {
   "id": 1103092009,
   "districtId": 1103092,
-  "name": "UJUNG PADANG"
+  "districtName": "LABUHAN HAJI BARAT",
+  "name": "UJUNG PADANG",
+  "postalCode": "23773"
  },
  {
   "id": 1103092010,
   "districtId": 1103092,
-  "name": "TENGAH IBOH"
+  "districtName": "LABUHAN HAJI BARAT",
+  "name": "TENGAH IBOH",
+  "postalCode": ""
  },
  {
   "id": 1103092011,
   "districtId": 1103092,
-  "name": "PEULOKAN"
+  "districtName": "LABUHAN HAJI BARAT",
+  "name": "PEULOKAN",
+  "postalCode": "23757"
  },
  {
   "id": 1103092012,
   "districtId": 1103092,
-  "name": "KUTA TRIENG"
+  "districtName": "LABUHAN HAJI BARAT",
+  "name": "KUTA TRIENG",
+  "postalCode": "23662"
  },
  {
   "id": 1103092013,
   "districtId": 1103092,
-  "name": "PANTON PAWOH"
+  "districtName": "LABUHAN HAJI BARAT",
+  "name": "PANTON PAWOH",
+  "postalCode": "23757"
  },
  {
   "id": 1103092014,
   "districtId": 1103092,
-  "name": "BATEE MEUCANANG"
+  "districtName": "LABUHAN HAJI BARAT",
+  "name": "BATEE MEUCANANG",
+  "postalCode": "23757"
  },
  {
   "id": 1103092015,
   "districtId": 1103092,
-  "name": "PANTON RUBEK"
+  "districtName": "LABUHAN HAJI BARAT",
+  "name": "PANTON RUBEK",
+  "postalCode": "23757"
  }
 ]

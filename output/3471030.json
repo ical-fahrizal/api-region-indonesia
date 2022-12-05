@@ -2,16 +2,22 @@
  {
   "id": 3471030001,
   "districtId": 3471030,
-  "name": "BRONTOKUSUMAN"
+  "districtName": "MERGANGSAN",
+  "name": "BRONTOKUSUMAN",
+  "postalCode": "55153"
  },
  {
   "id": 3471030002,
   "districtId": 3471030,
-  "name": "KEPARAKAN"
+  "districtName": "MERGANGSAN",
+  "name": "KEPARAKAN",
+  "postalCode": "55152"
  },
  {
   "id": 3471030003,
   "districtId": 3471030,
-  "name": "WIROGUNAN"
+  "districtName": "MERGANGSAN",
+  "name": "WIROGUNAN",
+  "postalCode": "57166"
  }
 ]

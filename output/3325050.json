@@ -2,96 +2,134 @@
  {
   "id": 3325050001,
   "districtId": 3325050,
-  "name": "PRANTEN"
+  "districtName": "BAWANG",
+  "name": "PRANTEN",
+  "postalCode": "51274"
  },
  {
   "id": 3325050003,
   "districtId": 3325050,
-  "name": "GUNUNGSARI"
+  "districtName": "BAWANG",
+  "name": "GUNUNGSARI",
+  "postalCode": "35368"
  },
  {
   "id": 3325050004,
   "districtId": 3325050,
-  "name": "JAMBANGAN"
+  "districtName": "BAWANG",
+  "name": "JAMBANGAN",
+  "postalCode": "51274"
  },
  {
   "id": 3325050005,
   "districtId": 3325050,
-  "name": "KEBATURAN"
+  "districtName": "BAWANG",
+  "name": "KEBATURAN",
+  "postalCode": "51274"
  },
  {
   "id": 3325050006,
   "districtId": 3325050,
-  "name": "KALIREJO"
+  "districtName": "BAWANG",
+  "name": "KALIREJO",
+  "postalCode": "35353"
  },
  {
   "id": 3325050007,
   "districtId": 3325050,
-  "name": "SANGUBANYU"
+  "districtName": "BAWANG",
+  "name": "SANGUBANYU",
+  "postalCode": "51274"
  },
  {
   "id": 3325050008,
   "districtId": 3325050,
-  "name": "WONO SARI"
+  "districtName": "BAWANG",
+  "name": "WONO SARI",
+  "postalCode": "24478"
  },
  {
   "id": 3325050009,
   "districtId": 3325050,
-  "name": "JLAMPRANG"
+  "districtName": "BAWANG",
+  "name": "JLAMPRANG",
+  "postalCode": "51274"
  },
  {
   "id": 3325050010,
   "districtId": 3325050,
-  "name": "BAWANG"
+  "districtName": "BAWANG",
+  "name": "BAWANG",
+  "postalCode": "21168"
  },
  {
   "id": 3325050011,
   "districtId": 3325050,
-  "name": "CANDIGUGUR"
+  "districtName": "BAWANG",
+  "name": "CANDIGUGUR",
+  "postalCode": "51274"
  },
  {
   "id": 3325050012,
   "districtId": 3325050,
-  "name": "PANGEMPON"
+  "districtName": "BAWANG",
+  "name": "PANGEMPON",
+  "postalCode": "51274"
  },
  {
   "id": 3325050013,
   "districtId": 3325050,
-  "name": "SIDOHARJO"
+  "districtName": "BAWANG",
+  "name": "SIDOHARJO",
+  "postalCode": "30975"
  },
  {
   "id": 3325050014,
   "districtId": 3325050,
-  "name": "SURJO"
+  "districtName": "BAWANG",
+  "name": "SURJO",
+  "postalCode": "51274"
  },
  {
   "id": 3325050015,
   "districtId": 3325050,
-  "name": "SOKA"
+  "districtName": "BAWANG",
+  "name": "SOKA",
+  "postalCode": "51274"
  },
  {
   "id": 3325050016,
   "districtId": 3325050,
-  "name": "SIBEBEK"
+  "districtName": "BAWANG",
+  "name": "SIBEBEK",
+  "postalCode": "51274"
  },
  {
   "id": 3325050017,
   "districtId": 3325050,
-  "name": "GETAS"
+  "districtName": "BAWANG",
+  "name": "GETAS",
+  "postalCode": "51274"
  },
  {
   "id": 3325050018,
   "districtId": 3325050,
-  "name": "PASUSUKAN"
+  "districtName": "BAWANG",
+  "name": "PASUSUKAN",
+  "postalCode": "51274"
  },
  {
   "id": 3325050019,
   "districtId": 3325050,
-  "name": "CANDIREJO"
+  "districtName": "BAWANG",
+  "name": "CANDIREJO",
+  "postalCode": "51274"
  },
  {
   "id": 3325050020,
   "districtId": 3325050,
-  "name": "PURBO"
+  "districtName": "BAWANG",
+  "name": "PURBO",
+  "postalCode": "51274"
  }
 ]

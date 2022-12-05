@@ -2,21 +2,29 @@
  {
   "id": 5301023001,
   "districtId": 5301023,
-  "name": "WETANA"
+  "districtName": "LABOYA BARAT",
+  "name": "WETANA",
+  "postalCode": ""
  },
  {
   "id": 5301023002,
   "districtId": 5301023,
-  "name": "GAURA"
+  "districtName": "LABOYA BARAT",
+  "name": "GAURA",
+  "postalCode": "87271"
  },
  {
   "id": 5301023003,
   "districtId": 5301023,
-  "name": "PATIALA DETE"
+  "districtName": "LABOYA BARAT",
+  "name": "PATIALA DETE",
+  "postalCode": "87271"
  },
  {
   "id": 5301023004,
   "districtId": 5301023,
-  "name": "HARONA KALA"
+  "districtName": "LABOYA BARAT",
+  "name": "HARONA KALA",
+  "postalCode": "87271"
  }
 ]

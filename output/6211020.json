@@ -2,71 +2,99 @@
  {
   "id": 6211020001,
   "districtId": 6211020,
-  "name": "PAREMPEI"
+  "districtName": "RUNGAN",
+  "name": "PAREMPEI",
+  "postalCode": "74561"
  },
  {
   "id": 6211020002,
   "districtId": 6211020,
-  "name": "TALANGKAH"
+  "districtName": "RUNGAN",
+  "name": "TALANGKAH",
+  "postalCode": ""
  },
  {
   "id": 6211020003,
   "districtId": 6211020,
-  "name": "LUWUK LANGKUAS"
+  "districtName": "RUNGAN",
+  "name": "LUWUK LANGKUAS",
+  "postalCode": "74561"
  },
  {
   "id": 6211020004,
   "districtId": 6211020,
-  "name": "TUMBANG KAJUEI"
+  "districtName": "RUNGAN",
+  "name": "TUMBANG KAJUEI",
+  "postalCode": ""
  },
  {
   "id": 6211020005,
   "districtId": 6211020,
-  "name": "LUWUK KANTOR"
+  "districtName": "RUNGAN",
+  "name": "LUWUK KANTOR",
+  "postalCode": "74561"
  },
  {
   "id": 6211020006,
   "districtId": 6211020,
-  "name": "TUMBANG BUNUT"
+  "districtName": "RUNGAN",
+  "name": "TUMBANG BUNUT",
+  "postalCode": "74561"
  },
  {
   "id": 6211020008,
   "districtId": 6211020,
-  "name": "TUMBANG JUTUH"
+  "districtName": "RUNGAN",
+  "name": "TUMBANG JUTUH",
+  "postalCode": ""
  },
  {
   "id": 6211020009,
   "districtId": 6211020,
-  "name": "LINAU"
+  "districtName": "RUNGAN",
+  "name": "LINAU",
+  "postalCode": "38965"
  },
  {
   "id": 6211020010,
   "districtId": 6211020,
-  "name": "TUMBANG BARINGEI"
+  "districtName": "RUNGAN",
+  "name": "TUMBANG BARINGEI",
+  "postalCode": ""
  },
  {
   "id": 6211020011,
   "districtId": 6211020,
-  "name": "TUMBANG MALAHOI"
+  "districtName": "RUNGAN",
+  "name": "TUMBANG MALAHOI",
+  "postalCode": ""
  },
  {
   "id": 6211020015,
   "districtId": 6211020,
-  "name": "JAKATAN RAYA"
+  "districtName": "RUNGAN",
+  "name": "JAKATAN RAYA",
+  "postalCode": "74561"
  },
  {
   "id": 6211020016,
   "districtId": 6211020,
-  "name": "BERENG BARU"
+  "districtName": "RUNGAN",
+  "name": "BERENG BARU",
+  "postalCode": "74561"
  },
  {
   "id": 6211020017,
   "districtId": 6211020,
-  "name": "BERENG MALAKA"
+  "districtName": "RUNGAN",
+  "name": "BERENG MALAKA",
+  "postalCode": "74561"
  },
  {
   "id": 6211020020,
   "districtId": 6211020,
-  "name": "KARYA  BAKTI"
+  "districtName": "RUNGAN",
+  "name": "KARYA  BAKTI",
+  "postalCode": ""
  }
 ]

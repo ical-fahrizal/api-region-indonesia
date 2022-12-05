@@ -2,51 +2,71 @@
  {
   "id": 9103030012,
   "districtId": 9103030,
-  "name": "WONDAMAWI   II"
+  "districtName": "WASIOR",
+  "name": "WONDAMAWI   II",
+  "postalCode": ""
  },
  {
   "id": 9103030013,
   "districtId": 9103030,
-  "name": "MANOPI"
+  "districtName": "WASIOR",
+  "name": "MANOPI",
+  "postalCode": "98362"
  },
  {
   "id": 9103030014,
   "districtId": 9103030,
-  "name": "MANIWAK"
+  "districtName": "WASIOR",
+  "name": "MANIWAK",
+  "postalCode": "98362"
  },
  {
   "id": 9103030015,
   "districtId": 9103030,
-  "name": "WASIOR I"
+  "districtName": "WASIOR",
+  "name": "WASIOR I",
+  "postalCode": "98362"
  },
  {
   "id": 9103030016,
   "districtId": 9103030,
-  "name": "WASIOR II"
+  "districtName": "WASIOR",
+  "name": "WASIOR II",
+  "postalCode": "98362"
  },
  {
   "id": 9103030017,
   "districtId": 9103030,
-  "name": "RADO"
+  "districtName": "WASIOR",
+  "name": "RADO",
+  "postalCode": "86591"
  },
  {
   "id": 9103030018,
   "districtId": 9103030,
-  "name": "DOTIR"
+  "districtName": "WASIOR",
+  "name": "DOTIR",
+  "postalCode": "98362"
  },
  {
   "id": 9103030019,
   "districtId": 9103030,
-  "name": "IRIATI"
+  "districtName": "WASIOR",
+  "name": "IRIATI",
+  "postalCode": "98362"
  },
  {
   "id": 9103030020,
   "districtId": 9103030,
-  "name": "MORU"
+  "districtName": "WASIOR",
+  "name": "MORU",
+  "postalCode": "85861"
  },
  {
   "id": 9103030021,
   "districtId": 9103030,
-  "name": "MAIMARE"
+  "districtName": "WASIOR",
+  "name": "MAIMARE",
+  "postalCode": ""
  }
 ]

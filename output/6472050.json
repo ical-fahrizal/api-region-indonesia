@@ -2,41 +2,57 @@
  {
   "id": 6472050001,
   "districtId": 6472050,
-  "name": "TELUK LERONG ILIR"
+  "districtName": "SAMARINDA ULU",
+  "name": "TELUK LERONG ILIR",
+  "postalCode": "75128"
  },
  {
   "id": 6472050002,
   "districtId": 6472050,
-  "name": "JAWA"
+  "districtName": "SAMARINDA ULU",
+  "name": "JAWA",
+  "postalCode": "23654"
  },
  {
   "id": 6472050004,
   "districtId": 6472050,
-  "name": "DADI MULYA"
+  "districtName": "SAMARINDA ULU",
+  "name": "DADI MULYA",
+  "postalCode": "75123"
  },
  {
   "id": 6472050005,
   "districtId": 6472050,
-  "name": "SIDODADI"
+  "districtName": "SAMARINDA ULU",
+  "name": "SIDODADI",
+  "postalCode": "24582"
  },
  {
   "id": 6472050006,
   "districtId": 6472050,
-  "name": "GUNUNG KELUA"
+  "districtName": "SAMARINDA ULU",
+  "name": "GUNUNG KELUA",
+  "postalCode": "75123"
  },
  {
   "id": 6472050007,
   "districtId": 6472050,
-  "name": "AIR HITAM"
+  "districtName": "SAMARINDA ULU",
+  "name": "AIR HITAM",
+  "postalCode": "20856"
  },
  {
   "id": 6472050008,
   "districtId": 6472050,
-  "name": "AIR PUTIH"
+  "districtName": "SAMARINDA ULU",
+  "name": "AIR PUTIH",
+  "postalCode": "21264"
  },
  {
   "id": 6472050009,
   "districtId": 6472050,
-  "name": "BUKIT PINANG"
+  "districtName": "SAMARINDA ULU",
+  "name": "BUKIT PINANG",
+  "postalCode": "75124"
  }
 ]

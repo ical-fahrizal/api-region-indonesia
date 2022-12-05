@@ -2,21 +2,29 @@
  {
   "id": 3529250001,
   "districtId": 3529250,
-  "name": "MASSALIMA"
+  "districtName": "MASALEMBU",
+  "name": "MASSALIMA",
+  "postalCode": "69492"
  },
  {
   "id": 3529250002,
   "districtId": 3529250,
-  "name": "SUKAJERUK"
+  "districtName": "MASALEMBU",
+  "name": "SUKAJERUK",
+  "postalCode": "69492"
  },
  {
   "id": 3529250003,
   "districtId": 3529250,
-  "name": "KARAMIAN"
+  "districtName": "MASALEMBU",
+  "name": "KARAMIAN",
+  "postalCode": "69492"
  },
  {
   "id": 3529250004,
   "districtId": 3529250,
-  "name": "MASAKAMBING"
+  "districtName": "MASALEMBU",
+  "name": "MASAKAMBING",
+  "postalCode": "69492"
  }
 ]

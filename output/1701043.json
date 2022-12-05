@@ -2,51 +2,71 @@
  {
   "id": 1701043001,
   "districtId": 1701043,
-  "name": "TUMBUK TEBING"
+  "districtName": "BUNGA MAS",
+  "name": "TUMBUK TEBING",
+  "postalCode": "38511"
  },
  {
   "id": 1701043002,
   "districtId": 1701043,
-  "name": "PADANG BURNAI"
+  "districtName": "BUNGA MAS",
+  "name": "PADANG BURNAI",
+  "postalCode": "31592"
  },
  {
   "id": 1701043003,
   "districtId": 1701043,
-  "name": "GUNUNG KAYO"
+  "districtName": "BUNGA MAS",
+  "name": "GUNUNG KAYO",
+  "postalCode": "38511"
  },
  {
   "id": 1701043004,
   "districtId": 1701043,
-  "name": "GINDOSULI"
+  "districtName": "BUNGA MAS",
+  "name": "GINDOSULI",
+  "postalCode": "38511"
  },
  {
   "id": 1701043005,
   "districtId": 1701043,
-  "name": "TALANG INDAH"
+  "districtName": "BUNGA MAS",
+  "name": "TALANG INDAH",
+  "postalCode": "30974"
  },
  {
   "id": 1701043006,
   "districtId": 1701043,
-  "name": "TANJUNG TEBAT"
+  "districtName": "BUNGA MAS",
+  "name": "TANJUNG TEBAT",
+  "postalCode": "31419"
  },
  {
   "id": 1701043007,
   "districtId": 1701043,
-  "name": "PADANG JAWI"
+  "districtName": "BUNGA MAS",
+  "name": "PADANG JAWI",
+  "postalCode": "38511"
  },
  {
   "id": 1701043008,
   "districtId": 1701043,
-  "name": "TANJUNG AUR"
+  "districtName": "BUNGA MAS",
+  "name": "TANJUNG AUR",
+  "postalCode": "37554"
  },
  {
   "id": 1701043009,
   "districtId": 1701043,
-  "name": "PADANG NIBUNG"
+  "districtName": "BUNGA MAS",
+  "name": "PADANG NIBUNG",
+  "postalCode": "38511"
  },
  {
   "id": 1701043010,
   "districtId": 1701043,
-  "name": "KURIPAN"
+  "districtName": "BUNGA MAS",
+  "name": "KURIPAN",
+  "postalCode": "32384"
  }
 ]

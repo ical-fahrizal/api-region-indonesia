@@ -2,71 +2,99 @@
  {
   "id": 3521010001,
   "districtId": 3521010,
-  "name": "WONOSARI"
+  "districtName": "SINE",
+  "name": "WONOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 3521010002,
   "districtId": 3521010,
-  "name": "PANDANSARI"
+  "districtName": "SINE",
+  "name": "PANDANSARI",
+  "postalCode": "16720"
  },
  {
   "id": 3521010003,
   "districtId": 3521010,
-  "name": "GIRIKERTO"
+  "districtName": "SINE",
+  "name": "GIRIKERTO",
+  "postalCode": "63264"
  },
  {
   "id": 3521010005,
   "districtId": 3521010,
-  "name": "HARGOSARI"
+  "districtName": "SINE",
+  "name": "HARGOSARI",
+  "postalCode": "57672"
  },
  {
   "id": 3521010006,
   "districtId": 3521010,
-  "name": "POCOL"
+  "districtName": "SINE",
+  "name": "POCOL",
+  "postalCode": "63264"
  },
  {
   "id": 3521010007,
   "districtId": 3521010,
-  "name": "GENDOL"
+  "districtName": "SINE",
+  "name": "GENDOL",
+  "postalCode": "63264"
  },
  {
   "id": 3521010008,
   "districtId": 3521010,
-  "name": "SINE"
+  "districtName": "SINE",
+  "name": "SINE",
+  "postalCode": "57213"
  },
  {
   "id": 3521010009,
   "districtId": 3521010,
-  "name": "SUMBEREJO"
+  "districtName": "SINE",
+  "name": "SUMBEREJO",
+  "postalCode": "20551"
  },
  {
   "id": 3521010010,
   "districtId": 3521010,
-  "name": "SUMBERSARI"
+  "districtName": "SINE",
+  "name": "SUMBERSARI",
+  "postalCode": "34122"
  },
  {
   "id": 3521010011,
   "districtId": 3521010,
-  "name": "KUNIRAN"
+  "districtName": "SINE",
+  "name": "KUNIRAN",
+  "postalCode": "59186"
  },
  {
   "id": 3521010012,
   "districtId": 3521010,
-  "name": "TULAKAN"
+  "districtName": "SINE",
+  "name": "TULAKAN",
+  "postalCode": "59454"
  },
  {
   "id": 3521010013,
   "districtId": 3521010,
-  "name": "KETANGGUNG"
+  "districtName": "SINE",
+  "name": "KETANGGUNG",
+  "postalCode": "53273"
  },
  {
   "id": 3521010014,
   "districtId": 3521010,
-  "name": "JAGIR"
+  "districtName": "SINE",
+  "name": "JAGIR",
+  "postalCode": "63264"
  },
  {
   "id": 3521010015,
   "districtId": 3521010,
-  "name": "KAUMAN"
+  "districtName": "SINE",
+  "name": "KAUMAN",
+  "postalCode": "51215"
  }
 ]

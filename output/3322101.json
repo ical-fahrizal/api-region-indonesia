@@ -2,41 +2,57 @@
  {
   "id": 3322101001,
   "districtId": 3322101,
-  "name": "MLILIR"
+  "districtName": "BANDUNGAN",
+  "name": "MLILIR",
+  "postalCode": "50614"
  },
  {
   "id": 3322101003,
   "districtId": 3322101,
-  "name": "JETIS"
+  "districtName": "BANDUNGAN",
+  "name": "JETIS",
+  "postalCode": "57556"
  },
  {
   "id": 3322101004,
   "districtId": 3322101,
-  "name": "BANDUNGAN"
+  "districtName": "BANDUNGAN",
+  "name": "BANDUNGAN",
+  "postalCode": "50614"
  },
  {
   "id": 3322101006,
   "districtId": 3322101,
-  "name": "CANDI"
+  "districtName": "BANDUNGAN",
+  "name": "CANDI",
+  "postalCode": "37263"
  },
  {
   "id": 3322101007,
   "districtId": 3322101,
-  "name": "BANYUKUNING"
+  "districtName": "BANDUNGAN",
+  "name": "BANYUKUNING",
+  "postalCode": "50663"
  },
  {
   "id": 3322101008,
   "districtId": 3322101,
-  "name": "JIMBARAN"
+  "districtName": "BANDUNGAN",
+  "name": "JIMBARAN",
+  "postalCode": "50661"
  },
  {
   "id": 3322101009,
   "districtId": 3322101,
-  "name": "PAKOPEN"
+  "districtName": "BANDUNGAN",
+  "name": "PAKOPEN",
+  "postalCode": "50661"
  },
  {
   "id": 3322101010,
   "districtId": 3322101,
-  "name": "SIDOMUKTI"
+  "districtName": "BANDUNGAN",
+  "name": "SIDOMUKTI",
+  "postalCode": "21217"
  }
 ]

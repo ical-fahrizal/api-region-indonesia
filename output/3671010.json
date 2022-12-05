@@ -2,41 +2,57 @@
  {
   "id": 3671010001,
   "districtId": 3671010,
-  "name": "TAJUR"
+  "districtName": "CILEDUG",
+  "name": "TAJUR",
+  "postalCode": "35453"
  },
  {
   "id": 3671010002,
   "districtId": 3671010,
-  "name": "PARUNG SERAB"
+  "districtName": "CILEDUG",
+  "name": "PARUNG SERAB",
+  "postalCode": "15153"
  },
  {
   "id": 3671010003,
   "districtId": 3671010,
-  "name": "PANINGGILAN"
+  "districtName": "CILEDUG",
+  "name": "PANINGGILAN",
+  "postalCode": "15153"
  },
  {
   "id": 3671010012,
   "districtId": 3671010,
-  "name": "PANINGGILAN UTARA"
+  "districtName": "CILEDUG",
+  "name": "PANINGGILAN UTARA",
+  "postalCode": "15153"
  },
  {
   "id": 3671010013,
   "districtId": 3671010,
-  "name": "SUDIMARA SELATAN"
+  "districtName": "CILEDUG",
+  "name": "SUDIMARA SELATAN",
+  "postalCode": "15151"
  },
  {
   "id": 3671010014,
   "districtId": 3671010,
-  "name": "SUDIMARA BARAT"
+  "districtName": "CILEDUG",
+  "name": "SUDIMARA BARAT",
+  "postalCode": "15151"
  },
  {
   "id": 3671010015,
   "districtId": 3671010,
-  "name": "SUDIMARA JAYA"
+  "districtName": "CILEDUG",
+  "name": "SUDIMARA JAYA",
+  "postalCode": "15151"
  },
  {
   "id": 3671010016,
   "districtId": 3671010,
-  "name": "SUDIMARA TIMUR"
+  "districtName": "CILEDUG",
+  "name": "SUDIMARA TIMUR",
+  "postalCode": "15151"
  }
 ]

@@ -2,61 +2,85 @@
  {
   "id": 1106041001,
   "districtId": 1106041,
-  "name": "ATANG JUNGKET"
+  "districtName": "BIES",
+  "name": "ATANG JUNGKET",
+  "postalCode": "24561"
  },
  {
   "id": 1106041002,
   "districtId": 1106041,
-  "name": "LENGA"
+  "districtName": "BIES",
+  "name": "LENGA",
+  "postalCode": "24561"
  },
  {
   "id": 1106041003,
   "districtId": 1106041,
-  "name": "PUCUK DEKU"
+  "districtName": "BIES",
+  "name": "PUCUK DEKU",
+  "postalCode": "24561"
  },
  {
   "id": 1106041004,
   "districtId": 1106041,
-  "name": "ARUL LATONG"
+  "districtName": "BIES",
+  "name": "ARUL LATONG",
+  "postalCode": "24561"
  },
  {
   "id": 1106041005,
   "districtId": 1106041,
-  "name": "TEBES LUES"
+  "districtName": "BIES",
+  "name": "TEBES LUES",
+  "postalCode": "24561"
  },
  {
   "id": 1106041006,
   "districtId": 1106041,
-  "name": "BIES BARU"
+  "districtName": "BIES",
+  "name": "BIES BARU",
+  "postalCode": "24561"
  },
  {
   "id": 1106041007,
   "districtId": 1106041,
-  "name": "BIES PENENTANAN"
+  "districtName": "BIES",
+  "name": "BIES PENENTANAN",
+  "postalCode": "24561"
  },
  {
   "id": 1106041008,
   "districtId": 1106041,
-  "name": "SP UNING NIKEN"
+  "districtName": "BIES",
+  "name": "SP UNING NIKEN",
+  "postalCode": ""
  },
  {
   "id": 1106041009,
   "districtId": 1106041,
-  "name": "BIES MULIE"
+  "districtName": "BIES",
+  "name": "BIES MULIE",
+  "postalCode": "24561"
  },
  {
   "id": 1106041010,
   "districtId": 1106041,
-  "name": "SIMPANG LUKUP BADAK"
+  "districtName": "BIES",
+  "name": "SIMPANG LUKUP BADAK",
+  "postalCode": ""
  },
  {
   "id": 1106041011,
   "districtId": 1106041,
-  "name": "UNING PEGANTUNGEN"
+  "districtName": "BIES",
+  "name": "UNING PEGANTUNGEN",
+  "postalCode": "24561"
  },
  {
   "id": 1106041012,
   "districtId": 1106041,
-  "name": "KARANG BAYUR"
+  "districtName": "BIES",
+  "name": "KARANG BAYUR",
+  "postalCode": "24561"
  }
 ]

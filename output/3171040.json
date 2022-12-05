@@ -2,26 +2,36 @@
  {
   "id": 3171040001,
   "districtId": 3171040,
-  "name": "BINTARO"
+  "districtName": "PESANGGRAHAN",
+  "name": "BINTARO",
+  "postalCode": "12330"
  },
  {
   "id": 3171040002,
   "districtId": 3171040,
-  "name": "PESANGGRAHAN"
+  "districtName": "PESANGGRAHAN",
+  "name": "PESANGGRAHAN",
+  "postalCode": "12320"
  },
  {
   "id": 3171040003,
   "districtId": 3171040,
-  "name": "ULUJAMI"
+  "districtName": "PESANGGRAHAN",
+  "name": "ULUJAMI",
+  "postalCode": "12250"
  },
  {
   "id": 3171040004,
   "districtId": 3171040,
-  "name": "PETUKANGAN SELATAN"
+  "districtName": "PESANGGRAHAN",
+  "name": "PETUKANGAN SELATAN",
+  "postalCode": "12270"
  },
  {
   "id": 3171040005,
   "districtId": 3171040,
-  "name": "PETUKANGAN UTARA"
+  "districtName": "PESANGGRAHAN",
+  "name": "PETUKANGAN UTARA",
+  "postalCode": "12260"
  }
 ]

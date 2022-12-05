@@ -2,61 +2,85 @@
  {
   "id": 7405090002,
   "districtId": 7405090,
-  "name": "BORO-BORO R"
+  "districtName": "RANOMEETO",
+  "name": "BORO-BORO R",
+  "postalCode": "93871"
  },
  {
   "id": 7405090003,
   "districtId": 7405090,
-  "name": "RAMBU-RAMBU JAYA"
+  "districtName": "RANOMEETO",
+  "name": "RAMBU-RAMBU JAYA",
+  "postalCode": "93871"
  },
  {
   "id": 7405090005,
   "districtId": 7405090,
-  "name": "AMOITO"
+  "districtName": "RANOMEETO",
+  "name": "AMOITO",
+  "postalCode": "93871"
  },
  {
   "id": 7405090008,
   "districtId": 7405090,
-  "name": "AMBAIPUA"
+  "districtName": "RANOMEETO",
+  "name": "AMBAIPUA",
+  "postalCode": "93871"
  },
  {
   "id": 7405090009,
   "districtId": 7405090,
-  "name": "ONEWILA"
+  "districtName": "RANOMEETO",
+  "name": "ONEWILA",
+  "postalCode": "93871"
  },
  {
   "id": 7405090010,
   "districtId": 7405090,
-  "name": "RANOOHA"
+  "districtName": "RANOMEETO",
+  "name": "RANOOHA",
+  "postalCode": "93871"
  },
  {
   "id": 7405090011,
   "districtId": 7405090,
-  "name": "RANOMEETO"
+  "districtName": "RANOMEETO",
+  "name": "RANOMEETO",
+  "postalCode": "93871"
  },
  {
   "id": 7405090012,
   "districtId": 7405090,
-  "name": "KOTA BANGUN"
+  "districtName": "RANOMEETO",
+  "name": "KOTA BANGUN",
+  "postalCode": "20243"
  },
  {
   "id": 7405090013,
   "districtId": 7405090,
-  "name": "LANGGEA"
+  "districtName": "RANOMEETO",
+  "name": "LANGGEA",
+  "postalCode": "93452"
  },
  {
   "id": 7405090019,
   "districtId": 7405090,
-  "name": "DUDURIA"
+  "districtName": "RANOMEETO",
+  "name": "DUDURIA",
+  "postalCode": "93871"
  },
  {
   "id": 7405090020,
   "districtId": 7405090,
-  "name": "LAIKAAHA"
+  "districtName": "RANOMEETO",
+  "name": "LAIKAAHA",
+  "postalCode": ""
  },
  {
   "id": 7405090021,
   "districtId": 7405090,
-  "name": "AMOITO SIAMA"
+  "districtName": "RANOMEETO",
+  "name": "AMOITO SIAMA",
+  "postalCode": "93871"
  }
 ]

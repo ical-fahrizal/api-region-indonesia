@@ -2,26 +2,36 @@
  {
   "id": 1308041001,
   "districtId": 1308041,
-  "name": "JOPANG MANGANTI"
+  "districtName": "MUNGKA",
+  "name": "JOPANG MANGANTI",
+  "postalCode": "26254"
  },
  {
   "id": 1308041002,
   "districtId": 1308041,
-  "name": "MUNGKA"
+  "districtName": "MUNGKA",
+  "name": "MUNGKA",
+  "postalCode": "26254"
  },
  {
   "id": 1308041003,
   "districtId": 1308041,
-  "name": "TALANG MAUA"
+  "districtName": "MUNGKA",
+  "name": "TALANG MAUA",
+  "postalCode": "26254"
  },
  {
   "id": 1308041004,
   "districtId": 1308041,
-  "name": "SIMPANG KAPUAK"
+  "districtName": "MUNGKA",
+  "name": "SIMPANG KAPUAK",
+  "postalCode": "26254"
  },
  {
   "id": 1308041005,
   "districtId": 1308041,
-  "name": "SUNGAI ANTUAN"
+  "districtName": "MUNGKA",
+  "name": "SUNGAI ANTUAN",
+  "postalCode": "26254"
  }
 ]

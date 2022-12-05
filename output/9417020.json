@@ -2,41 +2,57 @@
  {
   "id": 9417020005,
   "districtId": 9417020,
-  "name": "KABIDING"
+  "districtName": "OKSIBIL",
+  "name": "KABIDING",
+  "postalCode": ""
  },
  {
   "id": 9417020025,
   "districtId": 9417020,
-  "name": "MABILABOL"
+  "districtName": "OKSIBIL",
+  "name": "MABILABOL",
+  "postalCode": "99573"
  },
  {
   "id": 9417020026,
   "districtId": 9417020,
-  "name": "OKMAKOT"
+  "districtName": "OKSIBIL",
+  "name": "OKMAKOT",
+  "postalCode": ""
  },
  {
   "id": 9417020032,
   "districtId": 9417020,
-  "name": "POLSAM"
+  "districtName": "OKSIBIL",
+  "name": "POLSAM",
+  "postalCode": "99573"
  },
  {
   "id": 9417020035,
   "districtId": 9417020,
-  "name": "BANUMDOL"
+  "districtName": "OKSIBIL",
+  "name": "BANUMDOL",
+  "postalCode": ""
  },
  {
   "id": 9417020036,
   "districtId": 9417020,
-  "name": "MOLBIB SILIBIB"
+  "districtName": "OKSIBIL",
+  "name": "MOLBIB SILIBIB",
+  "postalCode": "99573"
  },
  {
   "id": 9417020037,
   "districtId": 9417020,
-  "name": "ALDOM"
+  "districtName": "OKSIBIL",
+  "name": "ALDOM",
+  "postalCode": "99573"
  },
  {
   "id": 9417020038,
   "districtId": 9417020,
-  "name": "KOTDOL"
+  "districtName": "OKSIBIL",
+  "name": "KOTDOL",
+  "postalCode": ""
  }
 ]

@@ -2,126 +2,176 @@
  {
   "id": 1602060001,
   "districtId": 1602060,
-  "name": "BULUH CAWANG"
+  "districtName": "KOTA KAYU AGUNG",
+  "name": "BULUH CAWANG",
+  "postalCode": "30618"
  },
  {
   "id": 1602060002,
   "districtId": 1602060,
-  "name": "BANDING ANYAR"
+  "districtName": "KOTA KAYU AGUNG",
+  "name": "BANDING ANYAR",
+  "postalCode": "30618"
  },
  {
   "id": 1602060003,
   "districtId": 1602060,
-  "name": "MUARA BARU"
+  "districtName": "KOTA KAYU AGUNG",
+  "name": "MUARA BARU",
+  "postalCode": "24661"
  },
  {
   "id": 1602060004,
   "districtId": 1602060,
-  "name": "ANYAR"
+  "districtName": "KOTA KAYU AGUNG",
+  "name": "ANYAR",
+  "postalCode": "32361"
  },
  {
   "id": 1602060005,
   "districtId": 1602060,
-  "name": "LUBUK DALAM"
+  "districtName": "KOTA KAYU AGUNG",
+  "name": "LUBUK DALAM",
+  "postalCode": "28654"
  },
  {
   "id": 1602060006,
   "districtId": 1602060,
-  "name": "KEDATON"
+  "districtName": "KOTA KAYU AGUNG",
+  "name": "KEDATON",
+  "postalCode": "31591"
  },
  {
   "id": 1602060007,
   "districtId": 1602060,
-  "name": "JUA JUA"
+  "districtName": "KOTA KAYU AGUNG",
+  "name": "JUA JUA",
+  "postalCode": "30616"
  },
  {
   "id": 1602060008,
   "districtId": 1602060,
-  "name": "SIDAKERSA"
+  "districtName": "KOTA KAYU AGUNG",
+  "name": "SIDAKERSA",
+  "postalCode": ""
  },
  {
   "id": 1602060009,
   "districtId": 1602060,
-  "name": "KOTA RAYA"
+  "districtName": "KOTA KAYU AGUNG",
+  "name": "KOTA RAYA",
+  "postalCode": "28556"
  },
  {
   "id": 1602060010,
   "districtId": 1602060,
-  "name": "PERIGI"
+  "districtName": "KOTA KAYU AGUNG",
+  "name": "PERIGI",
+  "postalCode": "30618"
  },
  {
   "id": 1602060011,
   "districtId": 1602060,
-  "name": "MANGUN JAYA"
+  "districtName": "KOTA KAYU AGUNG",
+  "name": "MANGUN JAYA",
+  "postalCode": "30752"
  },
  {
   "id": 1602060012,
   "districtId": 1602060,
-  "name": "CINTA RAJA"
+  "districtName": "KOTA KAYU AGUNG",
+  "name": "CINTA RAJA",
+  "postalCode": "24472"
  },
  {
   "id": 1602060013,
   "districtId": 1602060,
-  "name": "CELIKAH"
+  "districtName": "KOTA KAYU AGUNG",
+  "name": "CELIKAH",
+  "postalCode": "30611"
  },
  {
   "id": 1602060014,
   "districtId": 1602060,
-  "name": "PAKU"
+  "districtName": "KOTA KAYU AGUNG",
+  "name": "PAKU",
+  "postalCode": "24165"
  },
  {
   "id": 1602060015,
   "districtId": 1602060,
-  "name": "KAYU AGUNG"
+  "districtName": "KOTA KAYU AGUNG",
+  "name": "KAYU AGUNG",
+  "postalCode": "30618"
  },
  {
   "id": 1602060016,
   "districtId": 1602060,
-  "name": "TANJUNG SERANG"
+  "districtName": "KOTA KAYU AGUNG",
+  "name": "TANJUNG SERANG",
+  "postalCode": "30618"
  },
  {
   "id": 1602060017,
   "districtId": 1602060,
-  "name": "TANJUNG LUBUK"
+  "districtName": "KOTA KAYU AGUNG",
+  "name": "TANJUNG LUBUK",
+  "postalCode": "30862"
  },
  {
   "id": 1602060018,
   "districtId": 1602060,
-  "name": "ARISAN BUNTAL"
+  "districtName": "KOTA KAYU AGUNG",
+  "name": "ARISAN BUNTAL",
+  "postalCode": "30618"
  },
  {
   "id": 1602060019,
   "districtId": 1602060,
-  "name": "SUKADANA"
+  "districtName": "KOTA KAYU AGUNG",
+  "name": "SUKADANA",
+  "postalCode": "30611"
  },
  {
   "id": 1602060020,
   "districtId": 1602060,
-  "name": "SERIGENI LAMA"
+  "districtName": "KOTA KAYU AGUNG",
+  "name": "SERIGENI LAMA",
+  "postalCode": "30618"
  },
  {
   "id": 1602060021,
   "districtId": 1602060,
-  "name": "SERIGENI BARU"
+  "districtName": "KOTA KAYU AGUNG",
+  "name": "SERIGENI BARU",
+  "postalCode": "30618"
  },
  {
   "id": 1602060022,
   "districtId": 1602060,
-  "name": "TELOKO"
+  "districtName": "KOTA KAYU AGUNG",
+  "name": "TELOKO",
+  "postalCode": "30618"
  },
  {
   "id": 1602060023,
   "districtId": 1602060,
-  "name": "KIJANG ULU"
+  "districtName": "KOTA KAYU AGUNG",
+  "name": "KIJANG ULU",
+  "postalCode": "30618"
  },
  {
   "id": 1602060024,
   "districtId": 1602060,
-  "name": "TANJUNG MENANG"
+  "districtName": "KOTA KAYU AGUNG",
+  "name": "TANJUNG MENANG",
+  "postalCode": "30953"
  },
  {
   "id": 1602060025,
   "districtId": 1602060,
-  "name": "TANJUNG RANCING"
+  "districtName": "KOTA KAYU AGUNG",
+  "name": "TANJUNG RANCING",
+  "postalCode": "30618"
  }
 ]

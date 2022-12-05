@@ -2,101 +2,141 @@
  {
   "id": 3307020001,
   "districtId": 3307020,
-  "name": "GADINGSUKUH"
+  "districtName": "KEPIL",
+  "name": "GADINGSUKUH",
+  "postalCode": "56374"
  },
  {
   "id": 3307020002,
   "districtId": 3307020,
-  "name": "BURAT"
+  "districtName": "KEPIL",
+  "name": "BURAT",
+  "postalCode": "56374"
  },
  {
   "id": 3307020003,
   "districtId": 3307020,
-  "name": "GADINGREJO"
+  "districtName": "KEPIL",
+  "name": "GADINGREJO",
+  "postalCode": "59185"
  },
  {
   "id": 3307020005,
   "districtId": 3307020,
-  "name": "TEGES WETAN"
+  "districtName": "KEPIL",
+  "name": "TEGES WETAN",
+  "postalCode": "56374"
  },
  {
   "id": 3307020008,
   "districtId": 3307020,
-  "name": "GONDOWULAN"
+  "districtName": "KEPIL",
+  "name": "GONDOWULAN",
+  "postalCode": "56374"
  },
  {
   "id": 3307020009,
   "districtId": 3307020,
-  "name": "JANGKRIKAN"
+  "districtName": "KEPIL",
+  "name": "JANGKRIKAN",
+  "postalCode": "56374"
  },
  {
   "id": 3307020010,
   "districtId": 3307020,
-  "name": "KEPIL"
+  "districtName": "KEPIL",
+  "name": "KEPIL",
+  "postalCode": "56374"
  },
  {
   "id": 3307020011,
   "districtId": 3307020,
-  "name": "KAPULOGO"
+  "districtName": "KEPIL",
+  "name": "KAPULOGO",
+  "postalCode": "56374"
  },
  {
   "id": 3307020012,
   "districtId": 3307020,
-  "name": "KAGUNGAN"
+  "districtName": "KEPIL",
+  "name": "KAGUNGAN",
+  "postalCode": "35384"
  },
  {
   "id": 3307020013,
   "districtId": 3307020,
-  "name": "RANDUSARI"
+  "districtName": "KEPIL",
+  "name": "RANDUSARI",
+  "postalCode": "45588"
  },
  {
   "id": 3307020014,
   "districtId": 3307020,
-  "name": "REJOSARI"
+  "districtName": "KEPIL",
+  "name": "REJOSARI",
+  "postalCode": "29353"
  },
  {
   "id": 3307020015,
   "districtId": 3307020,
-  "name": "KALIPURU"
+  "districtName": "KEPIL",
+  "name": "KALIPURU",
+  "postalCode": "56374"
  },
  {
   "id": 3307020016,
   "districtId": 3307020,
-  "name": "NGALIAN"
+  "districtName": "KEPIL",
+  "name": "NGALIAN",
+  "postalCode": "56374"
  },
  {
   "id": 3307020017,
   "districtId": 3307020,
-  "name": "TANJUNGANOM"
+  "districtName": "KEPIL",
+  "name": "TANJUNGANOM",
+  "postalCode": "44161"
  },
  {
   "id": 3307020018,
   "districtId": 3307020,
-  "name": "KALIWULUH"
+  "districtName": "KEPIL",
+  "name": "KALIWULUH",
+  "postalCode": "57762"
  },
  {
   "id": 3307020019,
   "districtId": 3307020,
-  "name": "BERAN"
+  "districtName": "KEPIL",
+  "name": "BERAN",
+  "postalCode": "58216"
  },
  {
   "id": 3307020020,
   "districtId": 3307020,
-  "name": "TEGALGOT"
+  "districtName": "KEPIL",
+  "name": "TEGALGOT",
+  "postalCode": "56374"
  },
  {
   "id": 3307020021,
   "districtId": 3307020,
-  "name": "WARANGAN"
+  "districtName": "KEPIL",
+  "name": "WARANGAN",
+  "postalCode": "56374"
  },
  {
   "id": 3307020022,
   "districtId": 3307020,
-  "name": "ROPOH"
+  "districtName": "KEPIL",
+  "name": "ROPOH",
+  "postalCode": "56374"
  },
  {
   "id": 3307020023,
   "districtId": 3307020,
-  "name": "PULOSAREN"
+  "districtName": "KEPIL",
+  "name": "PULOSAREN",
+  "postalCode": "56374"
  }
 ]

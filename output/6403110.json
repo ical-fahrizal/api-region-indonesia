@@ -2,91 +2,127 @@
  {
   "id": 6403110001,
   "districtId": 6403110,
-  "name": "LOA LEPU"
+  "districtName": "TENGGARONG SEBERANG",
+  "name": "LOA LEPU",
+  "postalCode": "75572"
  },
  {
   "id": 6403110002,
   "districtId": 6403110,
-  "name": "TELUK DALAM"
+  "districtName": "TENGGARONG SEBERANG",
+  "name": "TELUK DALAM",
+  "postalCode": "21271"
  },
  {
   "id": 6403110003,
   "districtId": 6403110,
-  "name": "PERJIWA"
+  "districtName": "TENGGARONG SEBERANG",
+  "name": "PERJIWA",
+  "postalCode": "75572"
  },
  {
   "id": 6403110004,
   "districtId": 6403110,
-  "name": "LOA RAYA"
+  "districtName": "TENGGARONG SEBERANG",
+  "name": "LOA RAYA",
+  "postalCode": "75572"
  },
  {
   "id": 6403110005,
   "districtId": 6403110,
-  "name": "LOA ULUNG"
+  "districtName": "TENGGARONG SEBERANG",
+  "name": "LOA ULUNG",
+  "postalCode": "75572"
  },
  {
   "id": 6403110006,
   "districtId": 6403110,
-  "name": "EMBALUT"
+  "districtName": "TENGGARONG SEBERANG",
+  "name": "EMBALUT",
+  "postalCode": "75572"
  },
  {
   "id": 6403110007,
   "districtId": 6403110,
-  "name": "BUKIT RAYA"
+  "districtName": "TENGGARONG SEBERANG",
+  "name": "BUKIT RAYA",
+  "postalCode": "29563"
  },
  {
   "id": 6403110008,
   "districtId": 6403110,
-  "name": "MANUNGGAL JAYA"
+  "districtName": "TENGGARONG SEBERANG",
+  "name": "MANUNGGAL JAYA",
+  "postalCode": "29256"
  },
  {
   "id": 6403110009,
   "districtId": 6403110,
-  "name": "BANGUN REJO"
+  "districtName": "TENGGARONG SEBERANG",
+  "name": "BANGUN REJO",
+  "postalCode": "21454"
  },
  {
   "id": 6403110010,
   "districtId": 6403110,
-  "name": "KERTA BUANA"
+  "districtName": "TENGGARONG SEBERANG",
+  "name": "KERTA BUANA",
+  "postalCode": "72274"
  },
  {
   "id": 6403110011,
   "districtId": 6403110,
-  "name": "SEPARI"
+  "districtName": "TENGGARONG SEBERANG",
+  "name": "SEPARI",
+  "postalCode": "75572"
  },
  {
   "id": 6403110012,
   "districtId": 6403110,
-  "name": "BUKIT PARIAMAN"
+  "districtName": "TENGGARONG SEBERANG",
+  "name": "BUKIT PARIAMAN",
+  "postalCode": "75572"
  },
  {
   "id": 6403110013,
   "districtId": 6403110,
-  "name": "BUANA JAYA"
+  "districtName": "TENGGARONG SEBERANG",
+  "name": "BUANA JAYA",
+  "postalCode": "75572"
  },
  {
   "id": 6403110014,
   "districtId": 6403110,
-  "name": "MULAWARMAN"
+  "districtName": "TENGGARONG SEBERANG",
+  "name": "MULAWARMAN",
+  "postalCode": "75572"
  },
  {
   "id": 6403110015,
   "districtId": 6403110,
-  "name": "LOA PARI"
+  "districtName": "TENGGARONG SEBERANG",
+  "name": "LOA PARI",
+  "postalCode": "75572"
  },
  {
   "id": 6403110016,
   "districtId": 6403110,
-  "name": "SUKAMAJU"
+  "districtName": "TENGGARONG SEBERANG",
+  "name": "SUKAMAJU",
+  "postalCode": "22465"
  },
  {
   "id": 6403110017,
   "districtId": 6403110,
-  "name": "TANJUNG BATU"
+  "districtName": "TENGGARONG SEBERANG",
+  "name": "TANJUNG BATU",
+  "postalCode": "37173"
  },
  {
   "id": 6403110018,
   "districtId": 6403110,
-  "name": "KARANG TUNGGAL"
+  "districtName": "TENGGARONG SEBERANG",
+  "name": "KARANG TUNGGAL",
+  "postalCode": "74355"
  }
 ]

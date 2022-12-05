@@ -2,51 +2,71 @@
  {
   "id": 1504041001,
   "districtId": 1504041,
-  "name": "SUNGKAI"
+  "districtName": "BAJUBANG",
+  "name": "SUNGKAI",
+  "postalCode": "36611"
  },
  {
   "id": 1504041002,
   "districtId": 1504041,
-  "name": "BUNGKU"
+  "districtName": "BAJUBANG",
+  "name": "BUNGKU",
+  "postalCode": "36611"
  },
  {
   "id": 1504041003,
   "districtId": 1504041,
-  "name": "MEKAR JAYA"
+  "districtName": "BAJUBANG",
+  "name": "MEKAR JAYA",
+  "postalCode": "20771"
  },
  {
   "id": 1504041004,
   "districtId": 1504041,
-  "name": "POMPA AIR"
+  "districtName": "BAJUBANG",
+  "name": "POMPA AIR",
+  "postalCode": "28384"
  },
  {
   "id": 1504041005,
   "districtId": 1504041,
-  "name": "LADANG PERIS"
+  "districtName": "BAJUBANG",
+  "name": "LADANG PERIS",
+  "postalCode": "36611"
  },
  {
   "id": 1504041006,
   "districtId": 1504041,
-  "name": "PENEROKAN"
+  "districtName": "BAJUBANG",
+  "name": "PENEROKAN",
+  "postalCode": "36611"
  },
  {
   "id": 1504041007,
   "districtId": 1504041,
-  "name": "BAJUBANG"
+  "districtName": "BAJUBANG",
+  "name": "BAJUBANG",
+  "postalCode": "36611"
  },
  {
   "id": 1504041008,
   "districtId": 1504041,
-  "name": "BATIN"
+  "districtName": "BAJUBANG",
+  "name": "BATIN",
+  "postalCode": "36611"
  },
  {
   "id": 1504041009,
   "districtId": 1504041,
-  "name": "PETAJIN"
+  "districtName": "BAJUBANG",
+  "name": "PETAJIN",
+  "postalCode": ""
  },
  {
   "id": 1504041010,
   "districtId": 1504041,
-  "name": "MEKAR SARI NES"
+  "districtName": "BAJUBANG",
+  "name": "MEKAR SARI NES",
+  "postalCode": ""
  }
 ]

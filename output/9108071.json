@@ -2,26 +2,36 @@
  {
   "id": 9108071001,
   "districtId": 9108071,
-  "name": "YENKAWIR"
+  "districtName": "AYAU",
+  "name": "YENKAWIR",
+  "postalCode": "98481"
  },
  {
   "id": 9108071002,
   "districtId": 9108071,
-  "name": "DOREHKAR"
+  "districtName": "AYAU",
+  "name": "DOREHKAR",
+  "postalCode": ""
  },
  {
   "id": 9108071003,
   "districtId": 9108071,
-  "name": "BOISERAN"
+  "districtName": "AYAU",
+  "name": "BOISERAN",
+  "postalCode": ""
  },
  {
   "id": 9108071004,
   "districtId": 9108071,
-  "name": "RUNI"
+  "districtName": "AYAU",
+  "name": "RUNI",
+  "postalCode": ""
  },
  {
   "id": 9108071005,
   "districtId": 9108071,
-  "name": "YENKANFAN"
+  "districtName": "AYAU",
+  "name": "YENKANFAN",
+  "postalCode": ""
  }
 ]

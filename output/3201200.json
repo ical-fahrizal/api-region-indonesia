@@ -2,71 +2,99 @@
  {
   "id": 3201200001,
   "districtId": 3201200,
-  "name": "TANGKIL"
+  "districtName": "CITEUREUP",
+  "name": "TANGKIL",
+  "postalCode": "37163"
  },
  {
   "id": 3201200002,
   "districtId": 3201200,
-  "name": "HAMBALANG"
+  "districtName": "CITEUREUP",
+  "name": "HAMBALANG",
+  "postalCode": "16810"
  },
  {
   "id": 3201200003,
   "districtId": 3201200,
-  "name": "TAJUR"
+  "districtName": "CITEUREUP",
+  "name": "TAJUR",
+  "postalCode": "35453"
  },
  {
   "id": 3201200004,
   "districtId": 3201200,
-  "name": "PASIR MUKTI"
+  "districtName": "CITEUREUP",
+  "name": "PASIR MUKTI",
+  "postalCode": "16810"
  },
  {
   "id": 3201200005,
   "districtId": 3201200,
-  "name": "SUKAHATI"
+  "districtName": "CITEUREUP",
+  "name": "SUKAHATI",
+  "postalCode": "16913"
  },
  {
   "id": 3201200006,
   "districtId": 3201200,
-  "name": "LEUWINUTUG"
+  "districtName": "CITEUREUP",
+  "name": "LEUWINUTUG",
+  "postalCode": "16810"
  },
  {
   "id": 3201200007,
   "districtId": 3201200,
-  "name": "SANJA"
+  "districtName": "CITEUREUP",
+  "name": "SANJA",
+  "postalCode": "16810"
  },
  {
   "id": 3201200008,
   "districtId": 3201200,
-  "name": "KARANG ASEM BARAT"
+  "districtName": "CITEUREUP",
+  "name": "KARANG ASEM BARAT",
+  "postalCode": "16810"
  },
  {
   "id": 3201200009,
   "districtId": 3201200,
-  "name": "KARANG ASEM TIMUR"
+  "districtName": "CITEUREUP",
+  "name": "KARANG ASEM TIMUR",
+  "postalCode": "16810"
  },
  {
   "id": 3201200010,
   "districtId": 3201200,
-  "name": "TARIKOLOT"
+  "districtName": "CITEUREUP",
+  "name": "TARIKOLOT",
+  "postalCode": "45588"
  },
  {
   "id": 3201200011,
   "districtId": 3201200,
-  "name": "GUNUNG SARI"
+  "districtName": "CITEUREUP",
+  "name": "GUNUNG SARI",
+  "postalCode": "28471"
  },
  {
   "id": 3201200012,
   "districtId": 3201200,
-  "name": "CITEUREUP"
+  "districtName": "CITEUREUP",
+  "name": "CITEUREUP",
+  "postalCode": "40512"
  },
  {
   "id": 3201200013,
   "districtId": 3201200,
-  "name": "PUSPANEGARA"
+  "districtName": "CITEUREUP",
+  "name": "PUSPANEGARA",
+  "postalCode": "16810"
  },
  {
   "id": 3201200014,
   "districtId": 3201200,
-  "name": "PUSPASARI"
+  "districtName": "CITEUREUP",
+  "name": "PUSPASARI",
+  "postalCode": "16810"
  }
 ]

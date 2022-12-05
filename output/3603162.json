@@ -2,41 +2,57 @@
  {
   "id": 3603162001,
   "districtId": 3603162,
-  "name": "BUARAN JATI"
+  "districtName": "SUKADIRI",
+  "name": "BUARAN JATI",
+  "postalCode": "15530"
  },
  {
   "id": 3603162002,
   "districtId": 3603162,
-  "name": "GINTUNG"
+  "districtName": "SUKADIRI",
+  "name": "GINTUNG",
+  "postalCode": "52363"
  },
  {
   "id": 3603162003,
   "districtId": 3603162,
-  "name": "KOSAMBI"
+  "districtName": "SUKADIRI",
+  "name": "KOSAMBI",
+  "postalCode": "41257"
  },
  {
   "id": 3603162004,
   "districtId": 3603162,
-  "name": "MEKAR KONDANG"
+  "districtName": "SUKADIRI",
+  "name": "MEKAR KONDANG",
+  "postalCode": "15530"
  },
  {
   "id": 3603162005,
   "districtId": 3603162,
-  "name": "PEKAYON"
+  "districtName": "SUKADIRI",
+  "name": "PEKAYON",
+  "postalCode": "13710"
  },
  {
   "id": 3603162006,
   "districtId": 3603162,
-  "name": "SUKADIRI"
+  "districtName": "SUKADIRI",
+  "name": "SUKADIRI",
+  "postalCode": "15530"
  },
  {
   "id": 3603162007,
   "districtId": 3603162,
-  "name": "RAWA KIDANG"
+  "districtName": "SUKADIRI",
+  "name": "RAWA KIDANG",
+  "postalCode": "15530"
  },
  {
   "id": 3603162008,
   "districtId": 3603162,
-  "name": "KARANG SERANG"
+  "districtName": "SUKADIRI",
+  "name": "KARANG SERANG",
+  "postalCode": "15530"
  }
 ]

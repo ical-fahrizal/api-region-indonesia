@@ -2,61 +2,85 @@
  {
   "id": 3505080001,
   "districtId": 3505080,
-  "name": "MINGGIRSARI"
+  "districtName": "KANIGORO",
+  "name": "MINGGIRSARI",
+  "postalCode": "66171"
  },
  {
   "id": 3505080002,
   "districtId": 3505080,
-  "name": "GOGODESO"
+  "districtName": "KANIGORO",
+  "name": "GOGODESO",
+  "postalCode": "66171"
  },
  {
   "id": 3505080003,
   "districtId": 3505080,
-  "name": "KARANGSONO"
+  "districtName": "KANIGORO",
+  "name": "KARANGSONO",
+  "postalCode": "58163"
  },
  {
   "id": 3505080004,
   "districtId": 3505080,
-  "name": "SATREYAN"
+  "districtName": "KANIGORO",
+  "name": "SATREYAN",
+  "postalCode": "66171"
  },
  {
   "id": 3505080005,
   "districtId": 3505080,
-  "name": "KANIGORO"
+  "districtName": "KANIGORO",
+  "name": "KANIGORO",
+  "postalCode": "56194"
  },
  {
   "id": 3505080006,
   "districtId": 3505080,
-  "name": "TLOGO"
+  "districtName": "KANIGORO",
+  "name": "TLOGO",
+  "postalCode": "56353"
  },
  {
   "id": 3505080007,
   "districtId": 3505080,
-  "name": "GAPRANG"
+  "districtName": "KANIGORO",
+  "name": "GAPRANG",
+  "postalCode": "66171"
  },
  {
   "id": 3505080008,
   "districtId": 3505080,
-  "name": "JATINOM"
+  "districtName": "KANIGORO",
+  "name": "JATINOM",
+  "postalCode": "57481"
  },
  {
   "id": 3505080009,
   "districtId": 3505080,
-  "name": "KUNINGAN"
+  "districtName": "KANIGORO",
+  "name": "KUNINGAN",
+  "postalCode": "45511"
  },
  {
   "id": 3505080010,
   "districtId": 3505080,
-  "name": "PAPUNGAN"
+  "districtName": "KANIGORO",
+  "name": "PAPUNGAN",
+  "postalCode": "66171"
  },
  {
   "id": 3505080011,
   "districtId": 3505080,
-  "name": "BANGGLE"
+  "districtName": "KANIGORO",
+  "name": "BANGGLE",
+  "postalCode": "66171"
  },
  {
   "id": 3505080012,
   "districtId": 3505080,
-  "name": "SAWENTAR"
+  "districtName": "KANIGORO",
+  "name": "SAWENTAR",
+  "postalCode": "66171"
  }
 ]

@@ -2,116 +2,162 @@
  {
   "id": 1503010001,
   "districtId": 1503010,
-  "name": "SIMPANG NARSO"
+  "districtName": "BATANG ASAI",
+  "name": "SIMPANG NARSO",
+  "postalCode": "37485"
  },
  {
   "id": 1503010002,
   "districtId": 1503010,
-  "name": "BATU EMPANG"
+  "districtName": "BATANG ASAI",
+  "name": "BATU EMPANG",
+  "postalCode": "37485"
  },
  {
   "id": 1503010003,
   "districtId": 1503010,
-  "name": "BATIN PENGAMBANG"
+  "districtName": "BATANG ASAI",
+  "name": "BATIN PENGAMBANG",
+  "postalCode": ""
  },
  {
   "id": 1503010004,
   "districtId": 1503010,
-  "name": "MUARA AIR DUA"
+  "districtName": "BATANG ASAI",
+  "name": "MUARA AIR DUA",
+  "postalCode": ""
  },
  {
   "id": 1503010005,
   "districtId": 1503010,
-  "name": "SUNGAI KERADAK"
+  "districtName": "BATANG ASAI",
+  "name": "SUNGAI KERADAK",
+  "postalCode": "37485"
  },
  {
   "id": 1503010006,
   "districtId": 1503010,
-  "name": "TAMBAK RATU"
+  "districtName": "BATANG ASAI",
+  "name": "TAMBAK RATU",
+  "postalCode": "37485"
  },
  {
   "id": 1503010007,
   "districtId": 1503010,
-  "name": "RANTAU PANJANG"
+  "districtName": "BATANG ASAI",
+  "name": "RANTAU PANJANG",
+  "postalCode": "24476"
  },
  {
   "id": 1503010008,
   "districtId": 1503010,
-  "name": "PEKAN GEDANG"
+  "districtName": "BATANG ASAI",
+  "name": "PEKAN GEDANG",
+  "postalCode": "37485"
  },
  {
   "id": 1503010009,
   "districtId": 1503010,
-  "name": "PULAU SALAK BARU"
+  "districtName": "BATANG ASAI",
+  "name": "PULAU SALAK BARU",
+  "postalCode": "37485"
  },
  {
   "id": 1503010010,
   "districtId": 1503010,
-  "name": "BUKIT KALIMAU ULU"
+  "districtName": "BATANG ASAI",
+  "name": "BUKIT KALIMAU ULU",
+  "postalCode": "37485"
  },
  {
   "id": 1503010011,
   "districtId": 1503010,
-  "name": "RADEN ANOM"
+  "districtName": "BATANG ASAI",
+  "name": "RADEN ANOM",
+  "postalCode": "37485"
  },
  {
   "id": 1503010012,
   "districtId": 1503010,
-  "name": "DATUK NAN DUO"
+  "districtName": "BATANG ASAI",
+  "name": "DATUK NAN DUO",
+  "postalCode": "37485"
  },
  {
   "id": 1503010013,
   "districtId": 1503010,
-  "name": "PADANG JERING"
+  "districtName": "BATANG ASAI",
+  "name": "PADANG JERING",
+  "postalCode": "37485"
  },
  {
   "id": 1503010014,
   "districtId": 1503010,
-  "name": "KASIRO"
+  "districtName": "BATANG ASAI",
+  "name": "KASIRO",
+  "postalCode": "37485"
  },
  {
   "id": 1503010015,
   "districtId": 1503010,
-  "name": "KASIRO ILIR"
+  "districtName": "BATANG ASAI",
+  "name": "KASIRO ILIR",
+  "postalCode": "37485"
  },
  {
   "id": 1503010016,
   "districtId": 1503010,
-  "name": "SUNGAI BEMBAN"
+  "districtName": "BATANG ASAI",
+  "name": "SUNGAI BEMBAN",
+  "postalCode": "37485"
  },
  {
   "id": 1503010017,
   "districtId": 1503010,
-  "name": "SUNGAI BAUNG"
+  "districtName": "BATANG ASAI",
+  "name": "SUNGAI BAUNG",
+  "postalCode": "29351"
  },
  {
   "id": 1503010018,
   "districtId": 1503010,
-  "name": "MUARA CUBAN"
+  "districtName": "BATANG ASAI",
+  "name": "MUARA CUBAN",
+  "postalCode": ""
  },
  {
   "id": 1503010019,
   "districtId": 1503010,
-  "name": "LUBUK BANGKAR"
+  "districtName": "BATANG ASAI",
+  "name": "LUBUK BANGKAR",
+  "postalCode": "37485"
  },
  {
   "id": 1503010020,
   "districtId": 1503010,
-  "name": "MUARA PEMUAT"
+  "districtName": "BATANG ASAI",
+  "name": "MUARA PEMUAT",
+  "postalCode": ""
  },
  {
   "id": 1503010021,
   "districtId": 1503010,
-  "name": "BUKITSULAH"
+  "districtName": "BATANG ASAI",
+  "name": "BUKITSULAH",
+  "postalCode": ""
  },
  {
   "id": 1503010022,
   "districtId": 1503010,
-  "name": "PANIBAN BARU"
+  "districtName": "BATANG ASAI",
+  "name": "PANIBAN BARU",
+  "postalCode": "37485"
  },
  {
   "id": 1503010023,
   "districtId": 1503010,
-  "name": "BUKIT BERANTAI"
+  "districtName": "BATANG ASAI",
+  "name": "BUKIT BERANTAI",
+  "postalCode": "37485"
  }
 ]

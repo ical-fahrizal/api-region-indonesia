@@ -2,71 +2,99 @@
  {
   "id": 7202040001,
   "districtId": 7202040,
-  "name": "BABANG BUYANGGE"
+  "districtName": "KINTOM",
+  "name": "BABANG BUYANGGE",
+  "postalCode": "94761"
  },
  {
   "id": 7202040002,
   "districtId": 7202040,
-  "name": "KALOLOS"
+  "districtName": "KINTOM",
+  "name": "KALOLOS",
+  "postalCode": "94761"
  },
  {
   "id": 7202040003,
   "districtId": 7202040,
-  "name": "TANGKIANG"
+  "districtName": "KINTOM",
+  "name": "TANGKIANG",
+  "postalCode": "94761"
  },
  {
   "id": 7202040004,
   "districtId": 7202040,
-  "name": "PADANG"
+  "districtName": "KINTOM",
+  "name": "PADANG",
+  "postalCode": "23762"
  },
  {
   "id": 7202040005,
   "districtId": 7202040,
-  "name": "MANYULA"
+  "districtName": "KINTOM",
+  "name": "MANYULA",
+  "postalCode": "94761"
  },
  {
   "id": 7202040006,
   "districtId": 7202040,
-  "name": "ULING"
+  "districtName": "KINTOM",
+  "name": "ULING",
+  "postalCode": "94761"
  },
  {
   "id": 7202040007,
   "districtId": 7202040,
-  "name": "KINTOM"
+  "districtName": "KINTOM",
+  "name": "KINTOM",
+  "postalCode": "94761"
  },
  {
   "id": 7202040008,
   "districtId": 7202040,
-  "name": "SAMADOYA"
+  "districtName": "KINTOM",
+  "name": "SAMADOYA",
+  "postalCode": "94761"
  },
  {
   "id": 7202040009,
   "districtId": 7202040,
-  "name": "DIMPALON"
+  "districtName": "KINTOM",
+  "name": "DIMPALON",
+  "postalCode": "94761"
  },
  {
   "id": 7202040010,
   "districtId": 7202040,
-  "name": "SOLAN"
+  "districtName": "KINTOM",
+  "name": "SOLAN",
+  "postalCode": "71574"
  },
  {
   "id": 7202040011,
   "districtId": 7202040,
-  "name": "MENDONO"
+  "districtName": "KINTOM",
+  "name": "MENDONO",
+  "postalCode": "94761"
  },
  {
   "id": 7202040015,
   "districtId": 7202040,
-  "name": "SOLAN BARU"
+  "districtName": "KINTOM",
+  "name": "SOLAN BARU",
+  "postalCode": ""
  },
  {
   "id": 7202040017,
   "districtId": 7202040,
-  "name": "MONDONUN"
+  "districtName": "KINTOM",
+  "name": "MONDONUN",
+  "postalCode": ""
  },
  {
   "id": 7202040019,
   "districtId": 7202040,
-  "name": "DIMPALON BARU"
+  "districtName": "KINTOM",
+  "name": "DIMPALON BARU",
+  "postalCode": ""
  }
 ]

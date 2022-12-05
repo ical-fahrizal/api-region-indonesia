@@ -2,56 +2,78 @@
  {
   "id": 3204150001,
   "districtId": 3204150,
-  "name": "BATUKARUT"
+  "districtName": "ARJASARI",
+  "name": "BATUKARUT",
+  "postalCode": "40379"
  },
  {
   "id": 3204150002,
   "districtId": 3204150,
-  "name": "MANGUNJAYA"
+  "districtName": "ARJASARI",
+  "name": "MANGUNJAYA",
+  "postalCode": "45256"
  },
  {
   "id": 3204150003,
   "districtId": 3204150,
-  "name": "MEKARJAYA"
+  "districtName": "ARJASARI",
+  "name": "MEKARJAYA",
+  "postalCode": "30653"
  },
  {
   "id": 3204150004,
   "districtId": 3204150,
-  "name": "BAROS"
+  "districtName": "ARJASARI",
+  "name": "BAROS",
+  "postalCode": "35611"
  },
  {
   "id": 3204150005,
   "districtId": 3204150,
-  "name": "LEBAKWANGI"
+  "districtName": "ARJASARI",
+  "name": "LEBAKWANGI",
+  "postalCode": "40379"
  },
  {
   "id": 3204150006,
   "districtId": 3204150,
-  "name": "WARGALUYU"
+  "districtName": "ARJASARI",
+  "name": "WARGALUYU",
+  "postalCode": "40379"
  },
  {
   "id": 3204150007,
   "districtId": 3204150,
-  "name": "ARJASARI"
+  "districtName": "ARJASARI",
+  "name": "ARJASARI",
+  "postalCode": "40379"
  },
  {
   "id": 3204150008,
   "districtId": 3204150,
-  "name": "PINGGIRSARI"
+  "districtName": "ARJASARI",
+  "name": "PINGGIRSARI",
+  "postalCode": "40379"
  },
  {
   "id": 3204150009,
   "districtId": 3204150,
-  "name": "PATROLSARI"
+  "districtName": "ARJASARI",
+  "name": "PATROLSARI",
+  "postalCode": "40379"
  },
  {
   "id": 3204150010,
   "districtId": 3204150,
-  "name": "RANCAKOLE"
+  "districtName": "ARJASARI",
+  "name": "RANCAKOLE",
+  "postalCode": "40379"
  },
  {
   "id": 3204150011,
   "districtId": 3204150,
-  "name": "ANCOLMEKAR"
+  "districtName": "ARJASARI",
+  "name": "ANCOLMEKAR",
+  "postalCode": "40379"
  }
 ]

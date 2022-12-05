@@ -2,71 +2,99 @@
  {
   "id": 7602040001,
   "districtId": 7602040,
-  "name": "TUMPILING"
+  "districtName": "WONOMULYO",
+  "name": "TUMPILING",
+  "postalCode": "91352"
  },
  {
   "id": 7602040003,
   "districtId": 7602040,
-  "name": "NEPO"
+  "districtName": "WONOMULYO",
+  "name": "NEPO",
+  "postalCode": "90753"
  },
  {
   "id": 7602040004,
   "districtId": 7602040,
-  "name": "KEBUNSARI"
+  "districtName": "WONOMULYO",
+  "name": "KEBUNSARI",
+  "postalCode": "61271"
  },
  {
   "id": 7602040005,
   "districtId": 7602040,
-  "name": "ARJOSARI"
+  "districtName": "WONOMULYO",
+  "name": "ARJOSARI",
+  "postalCode": "54363"
  },
  {
   "id": 7602040006,
   "districtId": 7602040,
-  "name": "BUMIAYU"
+  "districtName": "WONOMULYO",
+  "name": "BUMIAYU",
+  "postalCode": "31314"
  },
  {
   "id": 7602040007,
   "districtId": 7602040,
-  "name": "BUMI MULYO"
+  "districtName": "WONOMULYO",
+  "name": "BUMI MULYO",
+  "postalCode": "34385"
  },
  {
   "id": 7602040008,
   "districtId": 7602040,
-  "name": "SIDOREJO"
+  "districtName": "WONOMULYO",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 7602040009,
   "districtId": 7602040,
-  "name": "SIDODADI"
+  "districtName": "WONOMULYO",
+  "name": "SIDODADI",
+  "postalCode": "24582"
  },
  {
   "id": 7602040010,
   "districtId": 7602040,
-  "name": "CAMPURJO"
+  "districtName": "WONOMULYO",
+  "name": "CAMPURJO",
+  "postalCode": "62119"
  },
  {
   "id": 7602040014,
   "districtId": 7602040,
-  "name": "SUMBERJO"
+  "districtName": "WONOMULYO",
+  "name": "SUMBERJO",
+  "postalCode": "34396"
  },
  {
   "id": 7602040015,
   "districtId": 7602040,
-  "name": "SUGIH WARAS"
+  "districtName": "WONOMULYO",
+  "name": "SUGIH WARAS",
+  "postalCode": "32274"
  },
  {
   "id": 7602040016,
   "districtId": 7602040,
-  "name": "BANUA BARU"
+  "districtName": "WONOMULYO",
+  "name": "BANUA BARU",
+  "postalCode": "91352"
  },
  {
   "id": 7602040021,
   "districtId": 7602040,
-  "name": "BAKKA-BAKKA"
+  "districtName": "WONOMULYO",
+  "name": "BAKKA-BAKKA",
+  "postalCode": "91352"
  },
  {
   "id": 7602040022,
   "districtId": 7602040,
-  "name": "GALESO"
+  "districtName": "WONOMULYO",
+  "name": "GALESO",
+  "postalCode": ""
  }
 ]

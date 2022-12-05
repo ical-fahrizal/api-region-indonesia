@@ -2,26 +2,36 @@
  {
   "id": 7171053001,
   "districtId": 7171053,
-  "name": "BAILANG"
+  "districtName": "BUNAKEN",
+  "name": "BAILANG",
+  "postalCode": "95231"
  },
  {
   "id": 7171053002,
   "districtId": 7171053,
-  "name": "MOLAS"
+  "districtName": "BUNAKEN",
+  "name": "MOLAS",
+  "postalCode": "95231"
  },
  {
   "id": 7171053003,
   "districtId": 7171053,
-  "name": "MERAS"
+  "districtName": "BUNAKEN",
+  "name": "MERAS",
+  "postalCode": "95231"
  },
  {
   "id": 7171053004,
   "districtId": 7171053,
-  "name": "TONGKEINA"
+  "districtName": "BUNAKEN",
+  "name": "TONGKEINA",
+  "postalCode": ""
  },
  {
   "id": 7171053005,
   "districtId": 7171053,
-  "name": "PANDU"
+  "districtName": "BUNAKEN",
+  "name": "PANDU",
+  "postalCode": "61171"
  }
 ]

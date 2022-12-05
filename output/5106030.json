@@ -2,21 +2,29 @@
  {
   "id": 5106030003,
   "districtId": 5106030,
-  "name": "YANGAPI"
+  "districtName": "TEMBUKU",
+  "name": "YANGAPI",
+  "postalCode": "80671"
  },
  {
   "id": 5106030004,
   "districtId": 5106030,
-  "name": "UNDISAN"
+  "districtName": "TEMBUKU",
+  "name": "UNDISAN",
+  "postalCode": "80671"
  },
  {
   "id": 5106030005,
   "districtId": 5106030,
-  "name": "BANGBANG"
+  "districtName": "TEMBUKU",
+  "name": "BANGBANG",
+  "postalCode": "80671"
  },
  {
   "id": 5106030006,
   "districtId": 5106030,
-  "name": "PENINJOAN"
+  "districtName": "TEMBUKU",
+  "name": "PENINJOAN",
+  "postalCode": "80671"
  }
 ]

@@ -2,76 +2,106 @@
  {
   "id": 3604220001,
   "districtId": 3604220,
-  "name": "LEBAKWANA"
+  "districtName": "KRAMATWATU",
+  "name": "LEBAKWANA",
+  "postalCode": "42161"
  },
  {
   "id": 3604220002,
   "districtId": 3604220,
-  "name": "PELAMUNAN"
+  "districtName": "KRAMATWATU",
+  "name": "PELAMUNAN",
+  "postalCode": "42161"
  },
  {
   "id": 3604220003,
   "districtId": 3604220,
-  "name": "MARGASANA"
+  "districtName": "KRAMATWATU",
+  "name": "MARGASANA",
+  "postalCode": "53174"
  },
  {
   "id": 3604220004,
   "districtId": 3604220,
-  "name": "KRAMATWATU"
+  "districtName": "KRAMATWATU",
+  "name": "KRAMATWATU",
+  "postalCode": "42161"
  },
  {
   "id": 3604220005,
   "districtId": 3604220,
-  "name": "PEJATEN"
+  "districtName": "KRAMATWATU",
+  "name": "PEJATEN",
+  "postalCode": "41356"
  },
  {
   "id": 3604220006,
   "districtId": 3604220,
-  "name": "WANAYASA"
+  "districtName": "KRAMATWATU",
+  "name": "WANAYASA",
+  "postalCode": "45172"
  },
  {
   "id": 3604220007,
   "districtId": 3604220,
-  "name": "HARJATANI"
+  "districtName": "KRAMATWATU",
+  "name": "HARJATANI",
+  "postalCode": "42161"
  },
  {
   "id": 3604220008,
   "districtId": 3604220,
-  "name": "SERDANG"
+  "districtName": "KRAMATWATU",
+  "name": "SERDANG",
+  "postalCode": "24386"
  },
  {
   "id": 3604220009,
   "districtId": 3604220,
-  "name": "TOYOMERTO"
+  "districtName": "KRAMATWATU",
+  "name": "TOYOMERTO",
+  "postalCode": "42161"
  },
  {
   "id": 3604220010,
   "districtId": 3604220,
-  "name": "PEGADINGAN"
+  "districtName": "KRAMATWATU",
+  "name": "PEGADINGAN",
+  "postalCode": "53262"
  },
  {
   "id": 3604220011,
   "districtId": 3604220,
-  "name": "PAMENGKANG"
+  "districtName": "KRAMATWATU",
+  "name": "PAMENGKANG",
+  "postalCode": "45173"
  },
  {
   "id": 3604220012,
   "districtId": 3604220,
-  "name": "TONJONG"
+  "districtName": "KRAMATWATU",
+  "name": "TONJONG",
+  "postalCode": "45414"
  },
  {
   "id": 3604220013,
   "districtId": 3604220,
-  "name": "TERATE"
+  "districtName": "KRAMATWATU",
+  "name": "TERATE",
+  "postalCode": "30652"
  },
  {
   "id": 3604220014,
   "districtId": 3604220,
-  "name": "TELUK TERATE"
+  "districtName": "KRAMATWATU",
+  "name": "TELUK TERATE",
+  "postalCode": "42161"
  },
  {
   "id": 3604220015,
   "districtId": 3604220,
-  "name": "MARGATANI"
+  "districtName": "KRAMATWATU",
+  "name": "MARGATANI",
+  "postalCode": "31665"
  }
 ]

@@ -2,76 +2,106 @@
  {
   "id": 3318020001,
   "districtId": 3318020,
-  "name": "JIMBARAN"
+  "districtName": "KAYEN",
+  "name": "JIMBARAN",
+  "postalCode": "50661"
  },
  {
   "id": 3318020002,
   "districtId": 3318020,
-  "name": "DURENSAWIT"
+  "districtName": "KAYEN",
+  "name": "DURENSAWIT",
+  "postalCode": "59171"
  },
  {
   "id": 3318020005,
   "districtId": 3318020,
-  "name": "PURWOKERTO"
+  "districtName": "KAYEN",
+  "name": "PURWOKERTO",
+  "postalCode": "51371"
  },
  {
   "id": 3318020006,
   "districtId": 3318020,
-  "name": "SUMBERSARI"
+  "districtName": "KAYEN",
+  "name": "SUMBERSARI",
+  "postalCode": "34122"
  },
  {
   "id": 3318020007,
   "districtId": 3318020,
-  "name": "BRATI"
+  "districtName": "KAYEN",
+  "name": "BRATI",
+  "postalCode": "59171"
  },
  {
   "id": 3318020008,
   "districtId": 3318020,
-  "name": "JATIROTO"
+  "districtName": "KAYEN",
+  "name": "JATIROTO",
+  "postalCode": "54474"
  },
  {
   "id": 3318020009,
   "districtId": 3318020,
-  "name": "KAYEN"
+  "districtName": "KAYEN",
+  "name": "KAYEN",
+  "postalCode": "57391"
  },
  {
   "id": 3318020010,
   "districtId": 3318020,
-  "name": "TRIMULYO"
+  "districtName": "KAYEN",
+  "name": "TRIMULYO",
+  "postalCode": "34871"
  },
  {
   "id": 3318020011,
   "districtId": 3318020,
-  "name": "SRIKATON"
+  "districtName": "KAYEN",
+  "name": "SRIKATON",
+  "postalCode": "30975"
  },
  {
   "id": 3318020012,
   "districtId": 3318020,
-  "name": "PASURUHAN"
+  "districtName": "KAYEN",
+  "name": "PASURUHAN",
+  "postalCode": "53281"
  },
  {
   "id": 3318020013,
   "districtId": 3318020,
-  "name": "PESAGI"
+  "districtName": "KAYEN",
+  "name": "PESAGI",
+  "postalCode": "59171"
  },
  {
   "id": 3318020014,
   "districtId": 3318020,
-  "name": "ROGOMULYO"
+  "districtName": "KAYEN",
+  "name": "ROGOMULYO",
+  "postalCode": "50229"
  },
  {
   "id": 3318020015,
   "districtId": 3318020,
-  "name": "TALUN"
+  "districtName": "KAYEN",
+  "name": "TALUN",
+  "postalCode": "40384"
  },
  {
   "id": 3318020016,
   "districtId": 3318020,
-  "name": "BOLOAGUNG"
+  "districtName": "KAYEN",
+  "name": "BOLOAGUNG",
+  "postalCode": "59171"
  },
  {
   "id": 3318020017,
   "districtId": 3318020,
-  "name": "SUNDOLUHUR"
+  "districtName": "KAYEN",
+  "name": "SUNDOLUHUR",
+  "postalCode": "59171"
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 7402090009,
   "districtId": 7402090,
-  "name": "WAKORUMBA"
+  "districtName": "WAKORUMBA SELATAN",
+  "name": "WAKORUMBA",
+  "postalCode": "93671"
  },
  {
   "id": 7402090011,
   "districtId": 7402090,
-  "name": "BHAKEALU"
+  "districtName": "WAKORUMBA SELATAN",
+  "name": "BHAKEALU",
+  "postalCode": ""
  },
  {
   "id": 7402090012,
   "districtId": 7402090,
-  "name": "LABUNIA(PURE)"
+  "districtName": "WAKORUMBA SELATAN",
+  "name": "LABUNIA(PURE)",
+  "postalCode": ""
  },
  {
   "id": 7402090013,
   "districtId": 7402090,
-  "name": "WAMBONA"
+  "districtName": "WAKORUMBA SELATAN",
+  "name": "WAMBONA",
+  "postalCode": "93674"
  },
  {
   "id": 7402090015,
   "districtId": 7402090,
-  "name": "WANDIRI"
+  "districtName": "WAKORUMBA SELATAN",
+  "name": "WANDIRI",
+  "postalCode": ""
  },
  {
   "id": 7402090016,
   "districtId": 7402090,
-  "name": "TOLAKU"
+  "districtName": "WAKORUMBA SELATAN",
+  "name": "TOLAKU",
+  "postalCode": ""
  }
 ]

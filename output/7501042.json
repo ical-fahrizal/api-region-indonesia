@@ -2,46 +2,64 @@
  {
   "id": 7501042001,
   "districtId": 7501042,
-  "name": "BOLIHUTUO"
+  "districtName": "BOTUMOITO",
+  "name": "BOLIHUTUO",
+  "postalCode": "96264"
  },
  {
   "id": 7501042002,
   "districtId": 7501042,
-  "name": "TAPADAA"
+  "districtName": "BOTUMOITO",
+  "name": "TAPADAA",
+  "postalCode": "96264"
  },
  {
   "id": 7501042003,
   "districtId": 7501042,
-  "name": "RUMBIA"
+  "districtName": "BOTUMOITO",
+  "name": "RUMBIA",
+  "postalCode": "95694"
  },
  {
   "id": 7501042004,
   "districtId": 7501042,
-  "name": "HUTAMONU"
+  "districtName": "BOTUMOITO",
+  "name": "HUTAMONU",
+  "postalCode": "96264"
  },
  {
   "id": 7501042005,
   "districtId": 7501042,
-  "name": "BOTUMOITO"
+  "districtName": "BOTUMOITO",
+  "name": "BOTUMOITO",
+  "postalCode": "96264"
  },
  {
   "id": 7501042006,
   "districtId": 7501042,
-  "name": "TUTULO"
+  "districtName": "BOTUMOITO",
+  "name": "TUTULO",
+  "postalCode": "96264"
  },
  {
   "id": 7501042007,
   "districtId": 7501042,
-  "name": "PATOAMEME"
+  "districtName": "BOTUMOITO",
+  "name": "PATOAMEME",
+  "postalCode": "96264"
  },
  {
   "id": 7501042008,
   "districtId": 7501042,
-  "name": "POTANGA"
+  "districtName": "BOTUMOITO",
+  "name": "POTANGA",
+  "postalCode": "96264"
  },
  {
   "id": 7501042009,
   "districtId": 7501042,
-  "name": "DULANGEYA"
+  "districtName": "BOTUMOITO",
+  "name": "DULANGEYA",
+  "postalCode": ""
  }
 ]

@@ -2,76 +2,106 @@
  {
   "id": 6203041001,
   "districtId": 6203041,
-  "name": "TERUSAN RAYA HULU"
+  "districtName": "BATAGUH",
+  "name": "TERUSAN RAYA HULU",
+  "postalCode": ""
  },
  {
   "id": 6203041002,
   "districtId": 6203041,
-  "name": "TERUSAN MULYA"
+  "districtName": "BATAGUH",
+  "name": "TERUSAN MULYA",
+  "postalCode": "73516"
  },
  {
   "id": 6203041003,
   "districtId": 6203041,
-  "name": "TERUSAN KARYA"
+  "districtName": "BATAGUH",
+  "name": "TERUSAN KARYA",
+  "postalCode": "73516"
  },
  {
   "id": 6203041004,
   "districtId": 6203041,
-  "name": "TERUSAN MAKMUR"
+  "districtName": "BATAGUH",
+  "name": "TERUSAN MAKMUR",
+  "postalCode": "73516"
  },
  {
   "id": 6203041005,
   "districtId": 6203041,
-  "name": "TERUSAN RAYA BARAT"
+  "districtName": "BATAGUH",
+  "name": "TERUSAN RAYA BARAT",
+  "postalCode": "73516"
  },
  {
   "id": 6203041006,
   "districtId": 6203041,
-  "name": "TERUSAN BAGUNTAN RAYA"
+  "districtName": "BATAGUH",
+  "name": "TERUSAN BAGUNTAN RAYA",
+  "postalCode": "73516"
  },
  {
   "id": 6203041007,
   "districtId": 6203041,
-  "name": "TERUSAN RAYA"
+  "districtName": "BATAGUH",
+  "name": "TERUSAN RAYA",
+  "postalCode": "73516"
  },
  {
   "id": 6203041008,
   "districtId": 6203041,
-  "name": "BAMBAN RAYA"
+  "districtName": "BATAGUH",
+  "name": "BAMBAN RAYA",
+  "postalCode": "73516"
  },
  {
   "id": 6203041009,
   "districtId": 6203041,
-  "name": "SEI JANGKIT"
+  "districtName": "BATAGUH",
+  "name": "SEI JANGKIT",
+  "postalCode": ""
  },
  {
   "id": 6203041010,
   "districtId": 6203041,
-  "name": "TAMBAN LUAR"
+  "districtName": "BATAGUH",
+  "name": "TAMBAN LUAR",
+  "postalCode": "73516"
  },
  {
   "id": 6203041011,
   "districtId": 6203041,
-  "name": "BANGUN HARJO"
+  "districtName": "BATAGUH",
+  "name": "BANGUN HARJO",
+  "postalCode": "32361"
  },
  {
   "id": 6203041012,
   "districtId": 6203041,
-  "name": "PULAU KUPANG"
+  "districtName": "BATAGUH",
+  "name": "PULAU KUPANG",
+  "postalCode": "73511"
  },
  {
   "id": 6203041013,
   "districtId": 6203041,
-  "name": "SEI LUNUK"
+  "districtName": "BATAGUH",
+  "name": "SEI LUNUK",
+  "postalCode": ""
  },
  {
   "id": 6203041014,
   "districtId": 6203041,
-  "name": "PULAU MAMBULAU"
+  "districtName": "BATAGUH",
+  "name": "PULAU MAMBULAU",
+  "postalCode": "73516"
  },
  {
   "id": 6203041015,
   "districtId": 6203041,
-  "name": "BUDI MUFAKAT"
+  "districtName": "BATAGUH",
+  "name": "BUDI MUFAKAT",
+  "postalCode": "73516"
  }
 ]

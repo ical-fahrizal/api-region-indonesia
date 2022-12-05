@@ -2,71 +2,99 @@
  {
   "id": 3312070001,
   "districtId": 3312070,
-  "name": "HARGOSARI"
+  "districtName": "TIRTOMOYO",
+  "name": "HARGOSARI",
+  "postalCode": "57672"
  },
  {
   "id": 3312070002,
   "districtId": 3312070,
-  "name": "DLEPIH"
+  "districtName": "TIRTOMOYO",
+  "name": "DLEPIH",
+  "postalCode": "57672"
  },
  {
   "id": 3312070003,
   "districtId": 3312070,
-  "name": "WIROKO"
+  "districtName": "TIRTOMOYO",
+  "name": "WIROKO",
+  "postalCode": "57672"
  },
  {
   "id": 3312070004,
   "districtId": 3312070,
-  "name": "SUKOHARJO"
+  "districtName": "TIRTOMOYO",
+  "name": "SUKOHARJO",
+  "postalCode": "32383"
  },
  {
   "id": 3312070005,
   "districtId": 3312070,
-  "name": "HARGOREJO"
+  "districtName": "TIRTOMOYO",
+  "name": "HARGOREJO",
+  "postalCode": "57672"
  },
  {
   "id": 3312070006,
   "districtId": 3312070,
-  "name": "SIDOREJO"
+  "districtName": "TIRTOMOYO",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 3312070007,
   "districtId": 3312070,
-  "name": "GENENGHARJO"
+  "districtName": "TIRTOMOYO",
+  "name": "GENENGHARJO",
+  "postalCode": "57672"
  },
  {
   "id": 3312070008,
   "districtId": 3312070,
-  "name": "GIRIREJO"
+  "districtName": "TIRTOMOYO",
+  "name": "GIRIREJO",
+  "postalCode": "56153"
  },
  {
   "id": 3312070009,
   "districtId": 3312070,
-  "name": "HARGANTORO"
+  "districtName": "TIRTOMOYO",
+  "name": "HARGANTORO",
+  "postalCode": "57672"
  },
  {
   "id": 3312070010,
   "districtId": 3312070,
-  "name": "TIRTOMOYO"
+  "districtName": "TIRTOMOYO",
+  "name": "TIRTOMOYO",
+  "postalCode": "54393"
  },
  {
   "id": 3312070011,
   "districtId": 3312070,
-  "name": "BANYAKPRODO"
+  "districtName": "TIRTOMOYO",
+  "name": "BANYAKPRODO",
+  "postalCode": "57672"
  },
  {
   "id": 3312070012,
   "districtId": 3312070,
-  "name": "NGARJOSARI"
+  "districtName": "TIRTOMOYO",
+  "name": "NGARJOSARI",
+  "postalCode": "57672"
  },
  {
   "id": 3312070013,
   "districtId": 3312070,
-  "name": "SENDANGMULYO"
+  "districtName": "TIRTOMOYO",
+  "name": "SENDANGMULYO",
+  "postalCode": "59255"
  },
  {
   "id": 3312070014,
   "districtId": 3312070,
-  "name": "TANJUNGSARI"
+  "districtName": "TIRTOMOYO",
+  "name": "TANJUNGSARI",
+  "postalCode": "28983"
  }
 ]

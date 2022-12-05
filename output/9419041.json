@@ -2,21 +2,29 @@
  {
   "id": 9419041001,
   "districtId": 9419041,
-  "name": "BORA BORA"
+  "districtName": "ISMARI",
+  "name": "BORA BORA",
+  "postalCode": "99372"
  },
  {
   "id": 9419041002,
   "districtId": 9419041,
-  "name": "TOGONFO / TEMINABOR"
+  "districtName": "ISMARI",
+  "name": "TOGONFO / TEMINABOR",
+  "postalCode": ""
  },
  {
   "id": 9419041003,
   "districtId": 9419041,
-  "name": "WAAF"
+  "districtName": "ISMARI",
+  "name": "WAAF",
+  "postalCode": "99372"
  },
  {
   "id": 9419041004,
   "districtId": 9419041,
-  "name": "SEGAR TOR"
+  "districtName": "ISMARI",
+  "name": "SEGAR TOR",
+  "postalCode": ""
  }
 ]

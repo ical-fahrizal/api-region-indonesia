@@ -2,26 +2,36 @@
  {
   "id": 3518180001,
   "districtId": 3518180,
-  "name": "SUGIHWARAS"
+  "districtName": "NGLUYU",
+  "name": "SUGIHWARAS",
+  "postalCode": "54363"
  },
  {
   "id": 3518180003,
   "districtId": 3518180,
-  "name": "TEMPURAN"
+  "districtName": "NGLUYU",
+  "name": "TEMPURAN",
+  "postalCode": "34172"
  },
  {
   "id": 3518180004,
   "districtId": 3518180,
-  "name": "LENGKONG LOR"
+  "districtName": "NGLUYU",
+  "name": "LENGKONG LOR",
+  "postalCode": "64452"
  },
  {
   "id": 3518180005,
   "districtId": 3518180,
-  "name": "GAMPENG"
+  "districtName": "NGLUYU",
+  "name": "GAMPENG",
+  "postalCode": "64452"
  },
  {
   "id": 3518180006,
   "districtId": 3518180,
-  "name": "BAJANG"
+  "districtName": "NGLUYU",
+  "name": "BAJANG",
+  "postalCode": "63461"
  }
 ]

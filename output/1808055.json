@@ -2,46 +2,64 @@
  {
   "id": 1808055001,
   "districtId": 1808055,
-  "name": "RAWA RAGIL"
+  "districtName": "RAWA PITU",
+  "name": "RAWA RAGIL",
+  "postalCode": "34595"
  },
  {
   "id": 1808055002,
   "districtId": 1808055,
-  "name": "GEDUNG JAYA"
+  "districtName": "RAWA PITU",
+  "name": "GEDUNG JAYA",
+  "postalCode": "34595"
  },
  {
   "id": 1808055003,
   "districtId": 1808055,
-  "name": "DUTO YOSO MULYO"
+  "districtName": "RAWA PITU",
+  "name": "DUTO YOSO MULYO",
+  "postalCode": ""
  },
  {
   "id": 1808055004,
   "districtId": 1808055,
-  "name": "ANDALAS CERMIN"
+  "districtName": "RAWA PITU",
+  "name": "ANDALAS CERMIN",
+  "postalCode": "34595"
  },
  {
   "id": 1808055005,
   "districtId": 1808055,
-  "name": "PANGGUNG MULYO"
+  "districtName": "RAWA PITU",
+  "name": "PANGGUNG MULYO",
+  "postalCode": ""
  },
  {
   "id": 1808055006,
   "districtId": 1808055,
-  "name": "BATANG HARI"
+  "districtName": "RAWA PITU",
+  "name": "BATANG HARI",
+  "postalCode": "32156"
  },
  {
   "id": 1808055007,
   "districtId": 1808055,
-  "name": "SUMBER AGUNG"
+  "districtName": "RAWA PITU",
+  "name": "SUMBER AGUNG",
+  "postalCode": "37353"
  },
  {
   "id": 1808055008,
   "districtId": 1808055,
-  "name": "BUMI SARI"
+  "districtName": "RAWA PITU",
+  "name": "BUMI SARI",
+  "postalCode": "23672"
  },
  {
   "id": 1808055009,
   "districtId": 1808055,
-  "name": "MULYO DADI"
+  "districtName": "RAWA PITU",
+  "name": "MULYO DADI",
+  "postalCode": "34595"
  }
 ]

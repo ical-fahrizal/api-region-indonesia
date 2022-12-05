@@ -2,61 +2,85 @@
  {
   "id": 3212210001,
   "districtId": 3212210,
-  "name": "MANGUNJAYA"
+  "districtName": "ANJATAN",
+  "name": "MANGUNJAYA",
+  "postalCode": "45256"
  },
  {
   "id": 3212210002,
   "districtId": 3212210,
-  "name": "BUGISTUA"
+  "districtName": "ANJATAN",
+  "name": "BUGISTUA",
+  "postalCode": "45256"
  },
  {
   "id": 3212210003,
   "districtId": 3212210,
-  "name": "BUGIS"
+  "districtName": "ANJATAN",
+  "name": "BUGIS",
+  "postalCode": "45256"
  },
  {
   "id": 3212210004,
   "districtId": 3212210,
-  "name": "SALAMDARMA"
+  "districtName": "ANJATAN",
+  "name": "SALAMDARMA",
+  "postalCode": "45256"
  },
  {
   "id": 3212210006,
   "districtId": 3212210,
-  "name": "WANGUK"
+  "districtName": "ANJATAN",
+  "name": "WANGUK",
+  "postalCode": "45256"
  },
  {
   "id": 3212210007,
   "districtId": 3212210,
-  "name": "LEMPUYANG"
+  "districtName": "ANJATAN",
+  "name": "LEMPUYANG",
+  "postalCode": "45256"
  },
  {
   "id": 3212210008,
   "districtId": 3212210,
-  "name": "KOPYAH"
+  "districtName": "ANJATAN",
+  "name": "KOPYAH",
+  "postalCode": "45256"
  },
  {
   "id": 3212210009,
   "districtId": 3212210,
-  "name": "ANJATAN BARU"
+  "districtName": "ANJATAN",
+  "name": "ANJATAN BARU",
+  "postalCode": "45256"
  },
  {
   "id": 3212210010,
   "districtId": 3212210,
-  "name": "ANJATAN"
+  "districtName": "ANJATAN",
+  "name": "ANJATAN",
+  "postalCode": "45256"
  },
  {
   "id": 3212210011,
   "districtId": 3212210,
-  "name": "CILANDAK"
+  "districtName": "ANJATAN",
+  "name": "CILANDAK",
+  "postalCode": "45256"
  },
  {
   "id": 3212210012,
   "districtId": 3212210,
-  "name": "CILANDAK LOR"
+  "districtName": "ANJATAN",
+  "name": "CILANDAK LOR",
+  "postalCode": "45256"
  },
  {
   "id": 3212210013,
   "districtId": 3212210,
-  "name": "ANJATAN UTARA"
+  "districtName": "ANJATAN",
+  "name": "ANJATAN UTARA",
+  "postalCode": "45256"
  }
 ]

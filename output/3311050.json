@@ -2,61 +2,85 @@
  {
   "id": 3311050001,
   "districtId": 3311050,
-  "name": "LAWU"
+  "districtName": "NGUTER",
+  "name": "LAWU",
+  "postalCode": "57571"
  },
  {
   "id": 3311050002,
   "districtId": 3311050,
-  "name": "BARAN"
+  "districtName": "NGUTER",
+  "name": "BARAN",
+  "postalCode": "29873"
  },
  {
   "id": 3311050004,
   "districtId": 3311050,
-  "name": "GUPIT"
+  "districtName": "NGUTER",
+  "name": "GUPIT",
+  "postalCode": "57571"
  },
  {
   "id": 3311050005,
   "districtId": 3311050,
-  "name": "PENGKOL"
+  "districtName": "NGUTER",
+  "name": "PENGKOL",
+  "postalCode": "57692"
  },
  {
   "id": 3311050006,
   "districtId": 3311050,
-  "name": "JANGGLENGAN"
+  "districtName": "NGUTER",
+  "name": "JANGGLENGAN",
+  "postalCode": "57571"
  },
  {
   "id": 3311050007,
   "districtId": 3311050,
-  "name": "TANJUNGREJO"
+  "districtName": "NGUTER",
+  "name": "TANJUNGREJO",
+  "postalCode": "54224"
  },
  {
   "id": 3311050009,
   "districtId": 3311050,
-  "name": "JURON"
+  "districtName": "NGUTER",
+  "name": "JURON",
+  "postalCode": "57571"
  },
  {
   "id": 3311050011,
   "districtId": 3311050,
-  "name": "PLESAN"
+  "districtName": "NGUTER",
+  "name": "PLESAN",
+  "postalCode": "57571"
  },
  {
   "id": 3311050012,
   "districtId": 3311050,
-  "name": "KEDUNGWINONG"
+  "districtName": "NGUTER",
+  "name": "KEDUNGWINONG",
+  "postalCode": "57571"
  },
  {
   "id": 3311050013,
   "districtId": 3311050,
-  "name": "DALEMAN"
+  "districtName": "NGUTER",
+  "name": "DALEMAN",
+  "postalCode": "57571"
  },
  {
   "id": 3311050015,
   "districtId": 3311050,
-  "name": "PONDOK"
+  "districtName": "NGUTER",
+  "name": "PONDOK",
+  "postalCode": "37175"
  },
  {
   "id": 3311050016,
   "districtId": 3311050,
-  "name": "TANJUNG"
+  "districtName": "NGUTER",
+  "name": "TANJUNG",
+  "postalCode": "24562"
  }
 ]

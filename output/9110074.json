@@ -2,21 +2,29 @@
  {
   "id": 9110074001,
   "districtId": 9110074,
-  "name": "CHALIAT"
+  "districtName": "AYAMARU BARAT",
+  "name": "CHALIAT",
+  "postalCode": "98461"
  },
  {
   "id": 9110074002,
   "districtId": 9110074,
-  "name": "SOROAN"
+  "districtName": "AYAMARU BARAT",
+  "name": "SOROAN",
+  "postalCode": ""
  },
  {
   "id": 9110074003,
   "districtId": 9110074,
-  "name": "FANSE"
+  "districtName": "AYAMARU BARAT",
+  "name": "FANSE",
+  "postalCode": "98461"
  },
  {
   "id": 9110074005,
   "districtId": 9110074,
-  "name": "SFACKO"
+  "districtName": "AYAMARU BARAT",
+  "name": "SFACKO",
+  "postalCode": "98461"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 5305025001,
   "districtId": 5305025,
-  "name": "FAENNAKE"
+  "districtName": "BIKOMI UTARA",
+  "name": "FAENNAKE",
+  "postalCode": "85651"
  },
  {
   "id": 5305025002,
   "districtId": 5305025,
-  "name": "BAAS"
+  "districtName": "BIKOMI UTARA",
+  "name": "BAAS",
+  "postalCode": "85651"
  },
  {
   "id": 5305025003,
   "districtId": 5305025,
-  "name": "HAUMENI"
+  "districtName": "BIKOMI UTARA",
+  "name": "HAUMENI",
+  "postalCode": "85651"
  },
  {
   "id": 5305025004,
   "districtId": 5305025,
-  "name": "NAPAN"
+  "districtName": "BIKOMI UTARA",
+  "name": "NAPAN",
+  "postalCode": "85651"
  },
  {
   "id": 5305025006,
   "districtId": 5305025,
-  "name": "SAINONI"
+  "districtName": "BIKOMI UTARA",
+  "name": "SAINONI",
+  "postalCode": "85651"
  },
  {
   "id": 5305025007,
   "districtId": 5305025,
-  "name": "BANAIN"
+  "districtName": "BIKOMI UTARA",
+  "name": "BANAIN",
+  "postalCode": ""
  },
  {
   "id": 5305025008,
   "districtId": 5305025,
-  "name": "BANAIN B"
+  "districtName": "BIKOMI UTARA",
+  "name": "BANAIN B",
+  "postalCode": "85651"
  },
  {
   "id": 5305025009,
   "districtId": 5305025,
-  "name": "BANAIN C"
+  "districtName": "BIKOMI UTARA",
+  "name": "BANAIN C",
+  "postalCode": "85651"
  }
 ]

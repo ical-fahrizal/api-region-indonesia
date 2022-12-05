@@ -2,26 +2,36 @@
  {
   "id": 6104080001,
   "districtId": 6104080,
-  "name": "SEI NIPAH"
+  "districtName": "SIANTAN",
+  "name": "SEI NIPAH",
+  "postalCode": ""
  },
  {
   "id": 6104080002,
   "districtId": 6104080,
-  "name": "JUNGKAT"
+  "districtName": "SIANTAN",
+  "name": "JUNGKAT",
+  "postalCode": "69485"
  },
  {
   "id": 6104080003,
   "districtId": 6104080,
-  "name": "WAJO HILIR"
+  "districtName": "SIANTAN",
+  "name": "WAJO HILIR",
+  "postalCode": "78351"
  },
  {
   "id": 6104080004,
   "districtId": 6104080,
-  "name": "WAJO HULU"
+  "districtName": "SIANTAN",
+  "name": "WAJO HULU",
+  "postalCode": "78351"
  },
  {
   "id": 6104080006,
   "districtId": 6104080,
-  "name": "PENITI LUAR"
+  "districtName": "SIANTAN",
+  "name": "PENITI LUAR",
+  "postalCode": "78351"
  }
 ]

@@ -2,71 +2,99 @@
  {
   "id": 3308080001,
   "districtId": 3308080,
-  "name": "PROGOWATI"
+  "districtName": "MUNGKID",
+  "name": "PROGOWATI",
+  "postalCode": "56512"
  },
  {
   "id": 3308080003,
   "districtId": 3308080,
-  "name": "SAWITAN"
+  "districtName": "MUNGKID",
+  "name": "SAWITAN",
+  "postalCode": "56511"
  },
  {
   "id": 3308080004,
   "districtId": 3308080,
-  "name": "RAMBEANAK"
+  "districtName": "MUNGKID",
+  "name": "RAMBEANAK",
+  "postalCode": "56512"
  },
  {
   "id": 3308080005,
   "districtId": 3308080,
-  "name": "NGRAJEK"
+  "districtName": "MUNGKID",
+  "name": "NGRAJEK",
+  "postalCode": "56512"
  },
  {
   "id": 3308080006,
   "districtId": 3308080,
-  "name": "PABELAN"
+  "districtName": "MUNGKID",
+  "name": "PABELAN",
+  "postalCode": "57169"
  },
  {
   "id": 3308080007,
   "districtId": 3308080,
-  "name": "PAREMONO"
+  "districtName": "MUNGKID",
+  "name": "PAREMONO",
+  "postalCode": "56512"
  },
  {
   "id": 3308080008,
   "districtId": 3308080,
-  "name": "BUMIREJO"
+  "districtName": "MUNGKID",
+  "name": "BUMIREJO",
+  "postalCode": "59185"
  },
  {
   "id": 3308080009,
   "districtId": 3308080,
-  "name": "BLONDO"
+  "districtName": "MUNGKID",
+  "name": "BLONDO",
+  "postalCode": "56512"
  },
  {
   "id": 3308080010,
   "districtId": 3308080,
-  "name": "AMBARTAWANG"
+  "districtName": "MUNGKID",
+  "name": "AMBARTAWANG",
+  "postalCode": "56512"
  },
  {
   "id": 3308080011,
   "districtId": 3308080,
-  "name": "MUNGKID"
+  "districtName": "MUNGKID",
+  "name": "MUNGKID",
+  "postalCode": "56512"
  },
  {
   "id": 3308080012,
   "districtId": 3308080,
-  "name": "BOJONG"
+  "districtName": "MUNGKID",
+  "name": "BOJONG",
+  "postalCode": "34385"
  },
  {
   "id": 3308080013,
   "districtId": 3308080,
-  "name": "PAGERSARI"
+  "districtName": "MUNGKID",
+  "name": "PAGERSARI",
+  "postalCode": "46158"
  },
  {
   "id": 3308080015,
   "districtId": 3308080,
-  "name": "TREKO"
+  "districtName": "MUNGKID",
+  "name": "TREKO",
+  "postalCode": "56512"
  },
  {
   "id": 3308080016,
   "districtId": 3308080,
-  "name": "GONDANG"
+  "districtName": "MUNGKID",
+  "name": "GONDANG",
+  "postalCode": "51255"
  }
 ]

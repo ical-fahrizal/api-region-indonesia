@@ -2,56 +2,78 @@
  {
   "id": 6107180001,
   "districtId": 6107180,
-  "name": "TELAGA SATU"
+  "districtName": "BINJAI HULU",
+  "name": "TELAGA SATU",
+  "postalCode": "78663"
  },
  {
   "id": 6107180002,
   "districtId": 6107180,
-  "name": "TELAGA DUA"
+  "districtName": "BINJAI HULU",
+  "name": "TELAGA DUA",
+  "postalCode": "78663"
  },
  {
   "id": 6107180003,
   "districtId": 6107180,
-  "name": "BINJAI HILIR"
+  "districtName": "BINJAI HULU",
+  "name": "BINJAI HILIR",
+  "postalCode": "78663"
  },
  {
   "id": 6107180004,
   "districtId": 6107180,
-  "name": "DAK JAYA"
+  "districtName": "BINJAI HULU",
+  "name": "DAK JAYA",
+  "postalCode": "78663"
  },
  {
   "id": 6107180005,
   "districtId": 6107180,
-  "name": "AMPAR BEDANG"
+  "districtName": "BINJAI HULU",
+  "name": "AMPAR BEDANG",
+  "postalCode": "78663"
  },
  {
   "id": 6107180006,
   "districtId": 6107180,
-  "name": "MENSIKU"
+  "districtName": "BINJAI HULU",
+  "name": "MENSIKU",
+  "postalCode": "78663"
  },
  {
   "id": 6107180007,
   "districtId": 6107180,
-  "name": "BINJAI HULU"
+  "districtName": "BINJAI HULU",
+  "name": "BINJAI HULU",
+  "postalCode": "78663"
  },
  {
   "id": 6107180008,
   "districtId": 6107180,
-  "name": "SUNGAI RISAP"
+  "districtName": "BINJAI HULU",
+  "name": "SUNGAI RISAP",
+  "postalCode": ""
  },
  {
   "id": 6107180009,
   "districtId": 6107180,
-  "name": "EMPAKA KABIAU RAYA"
+  "districtName": "BINJAI HULU",
+  "name": "EMPAKA KABIAU RAYA",
+  "postalCode": "78663"
  },
  {
   "id": 6107180010,
   "districtId": 6107180,
-  "name": "SUNGAI RISAP MENSIKU BERSATU"
+  "districtName": "BINJAI HULU",
+  "name": "SUNGAI RISAP MENSIKU BERSATU",
+  "postalCode": "78663"
  },
  {
   "id": 6107180011,
   "districtId": 6107180,
-  "name": "SIMBA JAYA"
+  "districtName": "BINJAI HULU",
+  "name": "SIMBA JAYA",
+  "postalCode": ""
  }
 ]

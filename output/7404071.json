@@ -2,96 +2,134 @@
  {
   "id": 7404071001,
   "districtId": 7404071,
-  "name": "LAWULO"
+  "districtName": "SAMATURU",
+  "name": "LAWULO",
+  "postalCode": "93419"
  },
  {
   "id": 7404071002,
   "districtId": 7404071,
-  "name": "SANI SANI"
+  "districtName": "SAMATURU",
+  "name": "SANI SANI",
+  "postalCode": "93915"
  },
  {
   "id": 7404071003,
   "districtId": 7404071,
-  "name": "KALOLOA"
+  "districtName": "SAMATURU",
+  "name": "KALOLOA",
+  "postalCode": "93915"
  },
  {
   "id": 7404071004,
   "districtId": 7404071,
-  "name": "KONAWEHA"
+  "districtName": "SAMATURU",
+  "name": "KONAWEHA",
+  "postalCode": "93915"
  },
  {
   "id": 7404071005,
   "districtId": 7404071,
-  "name": "A W A"
+  "districtName": "SAMATURU",
+  "name": "A W A",
+  "postalCode": ""
  },
  {
   "id": 7404071006,
   "districtId": 7404071,
-  "name": "LAMBOLEMO"
+  "districtName": "SAMATURU",
+  "name": "LAMBOLEMO",
+  "postalCode": "93915"
  },
  {
   "id": 7404071007,
   "districtId": 7404071,
-  "name": "TAMBOLI"
+  "districtName": "SAMATURU",
+  "name": "TAMBOLI",
+  "postalCode": "93915"
  },
  {
   "id": 7404071008,
   "districtId": 7404071,
-  "name": "TOSIBA"
+  "districtName": "SAMATURU",
+  "name": "TOSIBA",
+  "postalCode": "93915"
  },
  {
   "id": 7404071009,
   "districtId": 7404071,
-  "name": "AMOMUTU"
+  "districtName": "SAMATURU",
+  "name": "AMOMUTU",
+  "postalCode": "93915"
  },
  {
   "id": 7404071010,
   "districtId": 7404071,
-  "name": "MALAHA"
+  "districtName": "SAMATURU",
+  "name": "MALAHA",
+  "postalCode": "93915"
  },
  {
   "id": 7404071011,
   "districtId": 7404071,
-  "name": "LATUO"
+  "districtName": "SAMATURU",
+  "name": "LATUO",
+  "postalCode": "93915"
  },
  {
   "id": 7404071012,
   "districtId": 7404071,
-  "name": "WOWA TAMBOLI"
+  "districtName": "SAMATURU",
+  "name": "WOWA TAMBOLI",
+  "postalCode": "93915"
  },
  {
   "id": 7404071013,
   "districtId": 7404071,
-  "name": "TONGANAPO"
+  "districtName": "SAMATURU",
+  "name": "TONGANAPO",
+  "postalCode": "93915"
  },
  {
   "id": 7404071014,
   "districtId": 7404071,
-  "name": "ULU KONAWEHA"
+  "districtName": "SAMATURU",
+  "name": "ULU KONAWEHA",
+  "postalCode": "93915"
  },
  {
   "id": 7404071015,
   "districtId": 7404071,
-  "name": "PUUTAMBOLI"
+  "districtName": "SAMATURU",
+  "name": "PUUTAMBOLI",
+  "postalCode": ""
  },
  {
   "id": 7404071016,
   "districtId": 7404071,
-  "name": "PUU LAWULO"
+  "districtName": "SAMATURU",
+  "name": "PUU LAWULO",
+  "postalCode": ""
  },
  {
   "id": 7404071017,
   "districtId": 7404071,
-  "name": "LIKU"
+  "districtName": "SAMATURU",
+  "name": "LIKU",
+  "postalCode": "74664"
  },
  {
   "id": 7404071018,
   "districtId": 7404071,
-  "name": "MEURA"
+  "districtName": "SAMATURU",
+  "name": "MEURA",
+  "postalCode": ""
  },
  {
   "id": 7404071019,
   "districtId": 7404071,
-  "name": "ULAWENG"
+  "districtName": "SAMATURU",
+  "name": "ULAWENG",
+  "postalCode": ""
  }
 ]

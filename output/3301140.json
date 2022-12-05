@@ -2,76 +2,106 @@
  {
   "id": 3301140001,
   "districtId": 3301140,
-  "name": "MENGANTI"
+  "districtName": "KESUGIHAN",
+  "name": "MENGANTI",
+  "postalCode": "59463"
  },
  {
   "id": 3301140002,
   "districtId": 3301140,
-  "name": "KARANGKANDRI"
+  "districtName": "KESUGIHAN",
+  "name": "KARANGKANDRI",
+  "postalCode": "53274"
  },
  {
   "id": 3301140003,
   "districtId": 3301140,
-  "name": "SLARANG"
+  "districtName": "KESUGIHAN",
+  "name": "SLARANG",
+  "postalCode": "53274"
  },
  {
   "id": 3301140004,
   "districtId": 3301140,
-  "name": "KESUGIHAN KIDUL"
+  "districtName": "KESUGIHAN",
+  "name": "KESUGIHAN KIDUL",
+  "postalCode": "53274"
  },
  {
   "id": 3301140005,
   "districtId": 3301140,
-  "name": "KESUGIHAN"
+  "districtName": "KESUGIHAN",
+  "name": "KESUGIHAN",
+  "postalCode": "35551"
  },
  {
   "id": 3301140006,
   "districtId": 3301140,
-  "name": "KALISABUK"
+  "districtName": "KESUGIHAN",
+  "name": "KALISABUK",
+  "postalCode": "53274"
  },
  {
   "id": 3301140007,
   "districtId": 3301140,
-  "name": "KURIPAN KIDUL"
+  "districtName": "KESUGIHAN",
+  "name": "KURIPAN KIDUL",
+  "postalCode": "53274"
  },
  {
   "id": 3301140008,
   "districtId": 3301140,
-  "name": "KURIPAN"
+  "districtName": "KESUGIHAN",
+  "name": "KURIPAN",
+  "postalCode": "32384"
  },
  {
   "id": 3301140009,
   "districtId": 3301140,
-  "name": "JANGRANA"
+  "districtName": "KESUGIHAN",
+  "name": "JANGRANA",
+  "postalCode": "53274"
  },
  {
   "id": 3301140010,
   "districtId": 3301140,
-  "name": "PLANJAN"
+  "districtName": "KESUGIHAN",
+  "name": "PLANJAN",
+  "postalCode": "53274"
  },
  {
   "id": 3301140011,
   "districtId": 3301140,
-  "name": "DONDONG"
+  "districtName": "KESUGIHAN",
+  "name": "DONDONG",
+  "postalCode": "53274"
  },
  {
   "id": 3301140012,
   "districtId": 3301140,
-  "name": "CIWUNI"
+  "districtName": "KESUGIHAN",
+  "name": "CIWUNI",
+  "postalCode": "53274"
  },
  {
   "id": 3301140013,
   "districtId": 3301140,
-  "name": "KARANGJENGKOL"
+  "districtName": "KESUGIHAN",
+  "name": "KARANGJENGKOL",
+  "postalCode": "53274"
  },
  {
   "id": 3301140015,
   "districtId": 3301140,
-  "name": "PESANGGRAHAN"
+  "districtName": "KESUGIHAN",
+  "name": "PESANGGRAHAN",
+  "postalCode": "12320"
  },
  {
   "id": 3301140016,
   "districtId": 3301140,
-  "name": "BULUPAYUNG"
+  "districtName": "KESUGIHAN",
+  "name": "BULUPAYUNG",
+  "postalCode": "53274"
  }
 ]

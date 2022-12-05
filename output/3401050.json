@@ -2,31 +2,43 @@
  {
   "id": 3401050001,
   "districtId": 3401050,
-  "name": "WAHYUHARJO"
+  "districtName": "LENDAH",
+  "name": "WAHYUHARJO",
+  "postalCode": "55663"
  },
  {
   "id": 3401050002,
   "districtId": 3401050,
-  "name": "BUMIREJO"
+  "districtName": "LENDAH",
+  "name": "BUMIREJO",
+  "postalCode": "59185"
  },
  {
   "id": 3401050003,
   "districtId": 3401050,
-  "name": "JATIREJO"
+  "districtName": "LENDAH",
+  "name": "JATIREJO",
+  "postalCode": "23661"
  },
  {
   "id": 3401050004,
   "districtId": 3401050,
-  "name": "SIDOREJO"
+  "districtName": "LENDAH",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 3401050005,
   "districtId": 3401050,
-  "name": "GULUREJO"
+  "districtName": "LENDAH",
+  "name": "GULUREJO",
+  "postalCode": "55663"
  },
  {
   "id": 3401050006,
   "districtId": 3401050,
-  "name": "NGENTAKREJO"
+  "districtName": "LENDAH",
+  "name": "NGENTAKREJO",
+  "postalCode": "55663"
  }
 ]

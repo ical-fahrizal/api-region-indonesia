@@ -2,26 +2,36 @@
  {
   "id": 1473012001,
   "districtId": 1473012,
-  "name": "BANGSAL ACEH"
+  "districtName": "SUNGAI SEMBILAN",
+  "name": "BANGSAL ACEH",
+  "postalCode": "28826"
  },
  {
   "id": 1473012002,
   "districtId": 1473012,
-  "name": "LUBUK GAUNG"
+  "districtName": "SUNGAI SEMBILAN",
+  "name": "LUBUK GAUNG",
+  "postalCode": "28771"
  },
  {
   "id": 1473012003,
   "districtId": 1473012,
-  "name": "BASILAM BARU"
+  "districtName": "SUNGAI SEMBILAN",
+  "name": "BASILAM BARU",
+  "postalCode": "22773"
  },
  {
   "id": 1473012004,
   "districtId": 1473012,
-  "name": "BATU TERITIP"
+  "districtName": "SUNGAI SEMBILAN",
+  "name": "BATU TERITIP",
+  "postalCode": "28826"
  },
  {
   "id": 1473012005,
   "districtId": 1473012,
-  "name": "TANJUNG PENYEMBAL"
+  "districtName": "SUNGAI SEMBILAN",
+  "name": "TANJUNG PENYEMBAL",
+  "postalCode": "28826"
  }
 ]

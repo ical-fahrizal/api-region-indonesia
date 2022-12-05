@@ -2,91 +2,127 @@
  {
   "id": 5308050001,
   "districtId": 5308050,
-  "name": "BELOBATANG"
+  "districtName": "NUBATUKAN",
+  "name": "BELOBATANG",
+  "postalCode": "86682"
  },
  {
   "id": 5308050002,
   "districtId": 5308050,
-  "name": "UDAK MELOMATA"
+  "districtName": "NUBATUKAN",
+  "name": "UDAK MELOMATA",
+  "postalCode": "86682"
  },
  {
   "id": 5308050003,
   "districtId": 5308050,
-  "name": "BAOLANGU"
+  "districtName": "NUBATUKAN",
+  "name": "BAOLANGU",
+  "postalCode": "86682"
  },
  {
   "id": 5308050004,
   "districtId": 5308050,
-  "name": "NUBA MADO"
+  "districtName": "NUBATUKAN",
+  "name": "NUBA MADO",
+  "postalCode": "86682"
  },
  {
   "id": 5308050005,
   "districtId": 5308050,
-  "name": "PAOBOKOL"
+  "districtName": "NUBATUKAN",
+  "name": "PAOBOKOL",
+  "postalCode": ""
  },
  {
   "id": 5308050006,
   "districtId": 5308050,
-  "name": "WATOKOBU"
+  "districtName": "NUBATUKAN",
+  "name": "WATOKOBU",
+  "postalCode": "86682"
  },
  {
   "id": 5308050007,
   "districtId": 5308050,
-  "name": "WAIJARANG"
+  "districtName": "NUBATUKAN",
+  "name": "WAIJARANG",
+  "postalCode": "86682"
  },
  {
   "id": 5308050008,
   "districtId": 5308050,
-  "name": "LEWOLEBA BARAT"
+  "districtName": "NUBATUKAN",
+  "name": "LEWOLEBA BARAT",
+  "postalCode": "86613"
  },
  {
   "id": 5308050009,
   "districtId": 5308050,
-  "name": "LEWOLEBA UTARA"
+  "districtName": "NUBATUKAN",
+  "name": "LEWOLEBA UTARA",
+  "postalCode": "86612"
  },
  {
   "id": 5308050010,
   "districtId": 5308050,
-  "name": "LEWOLEBA"
+  "districtName": "NUBATUKAN",
+  "name": "LEWOLEBA",
+  "postalCode": "86611"
  },
  {
   "id": 5308050011,
   "districtId": 5308050,
-  "name": "LEWOLEBA TENGAH"
+  "districtName": "NUBATUKAN",
+  "name": "LEWOLEBA TENGAH",
+  "postalCode": "86615"
  },
  {
   "id": 5308050012,
   "districtId": 5308050,
-  "name": "LEWOLEBA TIMUR"
+  "districtName": "NUBATUKAN",
+  "name": "LEWOLEBA TIMUR",
+  "postalCode": "86616"
  },
  {
   "id": 5308050013,
   "districtId": 5308050,
-  "name": "LITEULUMADO"
+  "districtName": "NUBATUKAN",
+  "name": "LITEULUMADO",
+  "postalCode": ""
  },
  {
   "id": 5308050014,
   "districtId": 5308050,
-  "name": "PADA"
+  "districtName": "NUBATUKAN",
+  "name": "PADA",
+  "postalCode": "86682"
  },
  {
   "id": 5308050015,
   "districtId": 5308050,
-  "name": "BAKALEREK"
+  "districtName": "NUBATUKAN",
+  "name": "BAKALEREK",
+  "postalCode": "86682"
  },
  {
   "id": 5308050016,
   "districtId": 5308050,
-  "name": "LEWOLEBA SELATAN"
+  "districtName": "NUBATUKAN",
+  "name": "LEWOLEBA SELATAN",
+  "postalCode": "86682"
  },
  {
   "id": 5308050017,
   "districtId": 5308050,
-  "name": "SELANDORO"
+  "districtName": "NUBATUKAN",
+  "name": "SELANDORO",
+  "postalCode": "86682"
  },
  {
   "id": 5308050018,
   "districtId": 5308050,
-  "name": "BOUR"
+  "districtName": "NUBATUKAN",
+  "name": "BOUR",
+  "postalCode": ""
  }
 ]

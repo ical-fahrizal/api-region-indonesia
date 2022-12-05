@@ -2,81 +2,113 @@
  {
   "id": 1401050020,
   "districtId": 1401050,
-  "name": "PULAU KIJANG"
+  "districtName": "KUANTAN HILIR",
+  "name": "PULAU KIJANG",
+  "postalCode": "29273"
  },
  {
   "id": 1401050021,
   "districtId": 1401050,
-  "name": "BANUARAN"
+  "districtName": "KUANTAN HILIR",
+  "name": "BANUARAN",
+  "postalCode": "25222"
  },
  {
   "id": 1401050022,
   "districtId": 1401050,
-  "name": "KOTO TUO"
+  "districtName": "KUANTAN HILIR",
+  "name": "KOTO TUO",
+  "postalCode": "26271"
  },
  {
   "id": 1401050023,
   "districtId": 1401050,
-  "name": "PASAR USANG BASERAH"
+  "districtName": "KUANTAN HILIR",
+  "name": "PASAR USANG BASERAH",
+  "postalCode": ""
  },
  {
   "id": 1401050024,
   "districtId": 1401050,
-  "name": "PULAU MADINAH"
+  "districtName": "KUANTAN HILIR",
+  "name": "PULAU MADINAH",
+  "postalCode": ""
  },
  {
   "id": 1401050025,
   "districtId": 1401050,
-  "name": "KAMPUNG TENGAH"
+  "districtName": "KUANTAN HILIR",
+  "name": "KAMPUNG TENGAH",
+  "postalCode": "23766"
  },
  {
   "id": 1401050026,
   "districtId": 1401050,
-  "name": "KEPALA PULAU"
+  "districtName": "KUANTAN HILIR",
+  "name": "KEPALA PULAU",
+  "postalCode": "29561"
  },
  {
   "id": 1401050035,
   "districtId": 1401050,
-  "name": "KAMPUNG MEDAN"
+  "districtName": "KUANTAN HILIR",
+  "name": "KAMPUNG MEDAN",
+  "postalCode": "29561"
  },
  {
   "id": 1401050036,
   "districtId": 1401050,
-  "name": "PASAR BARU BASERAH"
+  "districtName": "KUANTAN HILIR",
+  "name": "PASAR BARU BASERAH",
+  "postalCode": ""
  },
  {
   "id": 1401050037,
   "districtId": 1401050,
-  "name": "SIMPANG TANAH LAPANG"
+  "districtName": "KUANTAN HILIR",
+  "name": "SIMPANG TANAH LAPANG",
+  "postalCode": "29561"
  },
  {
   "id": 1401050038,
   "districtId": 1401050,
-  "name": "KAMPUNG MADURA"
+  "districtName": "KUANTAN HILIR",
+  "name": "KAMPUNG MADURA",
+  "postalCode": "29561"
  },
  {
   "id": 1401050039,
   "districtId": 1401050,
-  "name": "RAWANG BONTO"
+  "districtName": "KUANTAN HILIR",
+  "name": "RAWANG BONTO",
+  "postalCode": "29561"
  },
  {
   "id": 1401050040,
   "districtId": 1401050,
-  "name": "DUSUN TUO"
+  "districtName": "KUANTAN HILIR",
+  "name": "DUSUN TUO",
+  "postalCode": "29561"
  },
  {
   "id": 1401050041,
   "districtId": 1401050,
-  "name": "GUNUNG MELINTANG"
+  "districtName": "KUANTAN HILIR",
+  "name": "GUNUNG MELINTANG",
+  "postalCode": ""
  },
  {
   "id": 1401050042,
   "districtId": 1401050,
-  "name": "TERATAK BARU"
+  "districtName": "KUANTAN HILIR",
+  "name": "TERATAK BARU",
+  "postalCode": "29561"
  },
  {
   "id": 1401050043,
   "districtId": 1401050,
-  "name": "SIMPANG PULAU BERALO"
+  "districtName": "KUANTAN HILIR",
+  "name": "SIMPANG PULAU BERALO",
+  "postalCode": ""
  }
 ]

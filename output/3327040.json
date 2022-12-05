@@ -2,76 +2,106 @@
  {
   "id": 3327040001,
   "districtId": 3327040,
-  "name": "TUNDAGAN"
+  "districtName": "WATUKUMPUL",
+  "name": "TUNDAGAN",
+  "postalCode": "52357"
  },
  {
   "id": 3327040002,
   "districtId": 3327040,
-  "name": "TLAGASANA"
+  "districtName": "WATUKUMPUL",
+  "name": "TLAGASANA",
+  "postalCode": "52357"
  },
  {
   "id": 3327040003,
   "districtId": 3327040,
-  "name": "BONGAS"
+  "districtName": "WATUKUMPUL",
+  "name": "BONGAS",
+  "postalCode": "45255"
  },
  {
   "id": 3327040004,
   "districtId": 3327040,
-  "name": "CIKADU"
+  "districtName": "WATUKUMPUL",
+  "name": "CIKADU",
+  "postalCode": "41181"
  },
  {
   "id": 3327040005,
   "districtId": 3327040,
-  "name": "CAWET"
+  "districtName": "WATUKUMPUL",
+  "name": "CAWET",
+  "postalCode": "52357"
  },
  {
   "id": 3327040006,
   "districtId": 3327040,
-  "name": "MEDAYU"
+  "districtName": "WATUKUMPUL",
+  "name": "MEDAYU",
+  "postalCode": "50776"
  },
  {
   "id": 3327040007,
   "districtId": 3327040,
-  "name": "PAGELARAN"
+  "districtName": "WATUKUMPUL",
+  "name": "PAGELARAN",
+  "postalCode": "35376"
  },
  {
   "id": 3327040008,
   "districtId": 3327040,
-  "name": "BODAS"
+  "districtName": "WATUKUMPUL",
+  "name": "BODAS",
+  "postalCode": "45272"
  },
  {
   "id": 3327040009,
   "districtId": 3327040,
-  "name": "JOJOGAN"
+  "districtName": "WATUKUMPUL",
+  "name": "JOJOGAN",
+  "postalCode": "56354"
  },
  {
   "id": 3327040010,
   "districtId": 3327040,
-  "name": "MAJALANGU"
+  "districtName": "WATUKUMPUL",
+  "name": "MAJALANGU",
+  "postalCode": "52357"
  },
  {
   "id": 3327040011,
   "districtId": 3327040,
-  "name": "TAMBI"
+  "districtName": "WATUKUMPUL",
+  "name": "TAMBI",
+  "postalCode": "45281"
  },
  {
   "id": 3327040012,
   "districtId": 3327040,
-  "name": "WATUKUMPUL"
+  "districtName": "WATUKUMPUL",
+  "name": "WATUKUMPUL",
+  "postalCode": "56254"
  },
  {
   "id": 3327040013,
   "districtId": 3327040,
-  "name": "GAPURA"
+  "districtName": "WATUKUMPUL",
+  "name": "GAPURA",
+  "postalCode": "52357"
  },
  {
   "id": 3327040014,
   "districtId": 3327040,
-  "name": "MAJAKERTA"
+  "districtName": "WATUKUMPUL",
+  "name": "MAJAKERTA",
+  "postalCode": "45285"
  },
  {
   "id": 3327040015,
   "districtId": 3327040,
-  "name": "WISNU"
+  "districtName": "WATUKUMPUL",
+  "name": "WISNU",
+  "postalCode": "52357"
  }
 ]

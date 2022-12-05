@@ -2,11 +2,15 @@
  {
   "id": 9108080002,
   "districtId": 9108080,
-  "name": "URBINASOPEN"
+  "districtName": "WAIGEO TIMUR",
+  "name": "URBINASOPEN",
+  "postalCode": "98482"
  },
  {
   "id": 9108080003,
   "districtId": 9108080,
-  "name": "YENBEKAKI"
+  "districtName": "WAIGEO TIMUR",
+  "name": "YENBEKAKI",
+  "postalCode": ""
  }
 ]

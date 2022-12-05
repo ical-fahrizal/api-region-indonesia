@@ -2,46 +2,64 @@
  {
   "id": 7309010001,
   "districtId": 7309010,
-  "name": "SABALANA"
+  "districtName": "LIUKANG TANGAYA",
+  "name": "SABALANA",
+  "postalCode": "90673"
  },
  {
   "id": 7309010002,
   "districtId": 7309010,
-  "name": "BALO BALOANG"
+  "districtName": "LIUKANG TANGAYA",
+  "name": "BALO BALOANG",
+  "postalCode": "90673"
  },
  {
   "id": 7309010003,
   "districtId": 7309010,
-  "name": "SABARU"
+  "districtName": "LIUKANG TANGAYA",
+  "name": "SABARU",
+  "postalCode": "73113"
  },
  {
   "id": 7309010004,
   "districtId": 7309010,
-  "name": "SAPUKA"
+  "districtName": "LIUKANG TANGAYA",
+  "name": "SAPUKA",
+  "postalCode": "90673"
  },
  {
   "id": 7309010005,
   "districtId": 7309010,
-  "name": "TAMPAANG"
+  "districtName": "LIUKANG TANGAYA",
+  "name": "TAMPAANG",
+  "postalCode": "90673"
  },
  {
   "id": 7309010006,
   "districtId": 7309010,
-  "name": "SAILUS"
+  "districtName": "LIUKANG TANGAYA",
+  "name": "SAILUS",
+  "postalCode": "90673"
  },
  {
   "id": 7309010007,
   "districtId": 7309010,
-  "name": "SATANGER"
+  "districtName": "LIUKANG TANGAYA",
+  "name": "SATANGER",
+  "postalCode": "90673"
  },
  {
   "id": 7309010008,
   "districtId": 7309010,
-  "name": "KAPOPOSAN BALI"
+  "districtName": "LIUKANG TANGAYA",
+  "name": "KAPOPOSAN BALI",
+  "postalCode": "90673"
  },
  {
   "id": 7309010009,
   "districtId": 7309010,
-  "name": "POLEONRO"
+  "districtName": "LIUKANG TANGAYA",
+  "name": "POLEONRO",
+  "postalCode": "90954"
  }
 ]

@@ -2,26 +2,36 @@
  {
   "id": 8107014001,
   "districtId": 8107014,
-  "name": "LALASA"
+  "districtName": "PULAU PANJANG",
+  "name": "LALASA",
+  "postalCode": "97599"
  },
  {
   "id": 8107014002,
   "districtId": 8107014,
-  "name": "P. PANJANG"
+  "districtName": "PULAU PANJANG",
+  "name": "P. PANJANG",
+  "postalCode": ""
  },
  {
   "id": 8107014003,
   "districtId": 8107014,
-  "name": "ARGAM"
+  "districtName": "PULAU PANJANG",
+  "name": "ARGAM",
+  "postalCode": "97599"
  },
  {
   "id": 8107014005,
   "districtId": 8107014,
-  "name": "BASARANGGI"
+  "districtName": "PULAU PANJANG",
+  "name": "BASARANGGI",
+  "postalCode": ""
  },
  {
   "id": 8107014006,
   "districtId": 8107014,
-  "name": "MAGAT"
+  "districtName": "PULAU PANJANG",
+  "name": "MAGAT",
+  "postalCode": "97599"
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 9107182001,
   "districtId": 9107182,
-  "name": "SALUK"
+  "districtName": "WEMAK",
+  "name": "SALUK",
+  "postalCode": "98471"
  },
  {
   "id": 9107182002,
   "districtId": 9107182,
-  "name": "KLAWAREN"
+  "districtName": "WEMAK",
+  "name": "KLAWAREN",
+  "postalCode": ""
  },
  {
   "id": 9107182003,
   "districtId": 9107182,
-  "name": "WOLUIN"
+  "districtName": "WEMAK",
+  "name": "WOLUIN",
+  "postalCode": ""
  },
  {
   "id": 9107182004,
   "districtId": 9107182,
-  "name": "KLALIN MOS"
+  "districtName": "WEMAK",
+  "name": "KLALIN MOS",
+  "postalCode": ""
  },
  {
   "id": 9107182005,
   "districtId": 9107182,
-  "name": "KAMLIN"
+  "districtName": "WEMAK",
+  "name": "KAMLIN",
+  "postalCode": ""
  },
  {
   "id": 9107182005,
   "districtId": 9107182,
-  "name": "KWARI"
+  "districtName": "WEMAK",
+  "name": "KWARI",
+  "postalCode": ""
  }
 ]

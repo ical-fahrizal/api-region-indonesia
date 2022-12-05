@@ -2,61 +2,85 @@
  {
   "id": 9430011002,
   "districtId": 9430011,
-  "name": "LELAM"
+  "districtName": "GUPURA",
+  "name": "LELAM",
+  "postalCode": "99555"
  },
  {
   "id": 9430011003,
   "districtId": 9430011,
-  "name": "YANEKO"
+  "districtName": "GUPURA",
+  "name": "YANEKO",
+  "postalCode": "99555"
  },
  {
   "id": 9430011004,
   "districtId": 9430011,
-  "name": "KIMBO"
+  "districtName": "GUPURA",
+  "name": "KIMBO",
+  "postalCode": "99555"
  },
  {
   "id": 9430011007,
   "districtId": 9430011,
-  "name": "TEYIKO"
+  "districtName": "GUPURA",
+  "name": "TEYIKO",
+  "postalCode": ""
  },
  {
   "id": 9430011008,
   "districtId": 9430011,
-  "name": "PENGGIMA"
+  "districtName": "GUPURA",
+  "name": "PENGGIMA",
+  "postalCode": ""
  },
  {
   "id": 9430011009,
   "districtId": 9430011,
-  "name": "MAGELO"
+  "districtName": "GUPURA",
+  "name": "MAGELO",
+  "postalCode": ""
  },
  {
   "id": 9430011010,
   "districtId": 9430011,
-  "name": "KIBINGGA"
+  "districtName": "GUPURA",
+  "name": "KIBINGGA",
+  "postalCode": ""
  },
  {
   "id": 9430011011,
   "districtId": 9430011,
-  "name": "OGOBAKNI"
+  "districtName": "GUPURA",
+  "name": "OGOBAKNI",
+  "postalCode": ""
  },
  {
   "id": 9430011012,
   "districtId": 9430011,
-  "name": "WAPUR"
+  "districtName": "GUPURA",
+  "name": "WAPUR",
+  "postalCode": ""
  },
  {
   "id": 9430011013,
   "districtId": 9430011,
-  "name": "ANDEYOK"
+  "districtName": "GUPURA",
+  "name": "ANDEYOK",
+  "postalCode": ""
  },
  {
   "id": 9430011014,
   "districtId": 9430011,
-  "name": "ONESIA"
+  "districtName": "GUPURA",
+  "name": "ONESIA",
+  "postalCode": ""
  },
  {
   "id": 9430011015,
   "districtId": 9430011,
-  "name": "JILAM"
+  "districtName": "GUPURA",
+  "name": "JILAM",
+  "postalCode": ""
  }
 ]

@@ -2,56 +2,78 @@
  {
   "id": 3604250001,
   "districtId": 3604250,
-  "name": "SUKAJAYA"
+  "districtName": "PONTANG",
+  "name": "SUKAJAYA",
+  "postalCode": "30756"
  },
  {
   "id": 3604250002,
   "districtId": 3604250,
-  "name": "SUKANEGARA"
+  "districtName": "PONTANG",
+  "name": "SUKANEGARA",
+  "postalCode": "32385"
  },
  {
   "id": 3604250007,
   "districtId": 3604250,
-  "name": "KALAPIAN"
+  "districtName": "PONTANG",
+  "name": "KALAPIAN",
+  "postalCode": "42192"
  },
  {
   "id": 3604250008,
   "districtId": 3604250,
-  "name": "KESERANGAN"
+  "districtName": "PONTANG",
+  "name": "KESERANGAN",
+  "postalCode": "42192"
  },
  {
   "id": 3604250009,
   "districtId": 3604250,
-  "name": "PULO KENCANA"
+  "districtName": "PONTANG",
+  "name": "PULO KENCANA",
+  "postalCode": "42192"
  },
  {
   "id": 3604250010,
   "districtId": 3604250,
-  "name": "LINDUK"
+  "districtName": "PONTANG",
+  "name": "LINDUK",
+  "postalCode": "42192"
  },
  {
   "id": 3604250011,
   "districtId": 3604250,
-  "name": "KUBANG PUJI"
+  "districtName": "PONTANG",
+  "name": "KUBANG PUJI",
+  "postalCode": "42192"
  },
  {
   "id": 3604250012,
   "districtId": 3604250,
-  "name": "SINGARAJAN"
+  "districtName": "PONTANG",
+  "name": "SINGARAJAN",
+  "postalCode": "42192"
  },
  {
   "id": 3604250013,
   "districtId": 3604250,
-  "name": "PONTANG"
+  "districtName": "PONTANG",
+  "name": "PONTANG",
+  "postalCode": "68172"
  },
  {
   "id": 3604250014,
   "districtId": 3604250,
-  "name": "WANAYASA"
+  "districtName": "PONTANG",
+  "name": "WANAYASA",
+  "postalCode": "45172"
  },
  {
   "id": 3604250015,
   "districtId": 3604250,
-  "name": "DOMAS"
+  "districtName": "PONTANG",
+  "name": "DOMAS",
+  "postalCode": "57697"
  }
 ]

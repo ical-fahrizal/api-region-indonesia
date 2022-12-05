@@ -2,61 +2,85 @@
  {
   "id": 7211010001,
   "districtId": 7211010,
-  "name": "TOGONG SAGU"
+  "districtName": "BANGKURUNG",
+  "name": "TOGONG SAGU",
+  "postalCode": "94892"
  },
  {
   "id": 7211010002,
   "districtId": 7211010,
-  "name": "KANARI"
+  "districtName": "BANGKURUNG",
+  "name": "KANARI",
+  "postalCode": "94892"
  },
  {
   "id": 7211010003,
   "districtId": 7211010,
-  "name": "TADUNO"
+  "districtName": "BANGKURUNG",
+  "name": "TADUNO",
+  "postalCode": "94892"
  },
  {
   "id": 7211010004,
   "districtId": 7211010,
-  "name": "LANTIBUNG"
+  "districtName": "BANGKURUNG",
+  "name": "LANTIBUNG",
+  "postalCode": "94892"
  },
  {
   "id": 7211010005,
   "districtId": 7211010,
-  "name": "LALONG"
+  "districtName": "BANGKURUNG",
+  "name": "LALONG",
+  "postalCode": "86753"
  },
  {
   "id": 7211010006,
   "districtId": 7211010,
-  "name": "KALUPAPI"
+  "districtName": "BANGKURUNG",
+  "name": "KALUPAPI",
+  "postalCode": "94892"
  },
  {
   "id": 7211010007,
   "districtId": 7211010,
-  "name": "BONE-BONE"
+  "districtName": "BANGKURUNG",
+  "name": "BONE-BONE",
+  "postalCode": "93721"
  },
  {
   "id": 7211010008,
   "districtId": 7211010,
-  "name": "MBELEANG"
+  "districtName": "BANGKURUNG",
+  "name": "MBELEANG",
+  "postalCode": "94892"
  },
  {
   "id": 7211010009,
   "districtId": 7211010,
-  "name": "TABULANG"
+  "districtName": "BANGKURUNG",
+  "name": "TABULANG",
+  "postalCode": "73961"
  },
  {
   "id": 7211010010,
   "districtId": 7211010,
-  "name": "BUNGIN LUEAN"
+  "districtName": "BANGKURUNG",
+  "name": "BUNGIN LUEAN",
+  "postalCode": ""
  },
  {
   "id": 7211010011,
   "districtId": 7211010,
-  "name": "SASABOBOK"
+  "districtName": "BANGKURUNG",
+  "name": "SASABOBOK",
+  "postalCode": "94892"
  },
  {
   "id": 7211010012,
   "districtId": 7211010,
-  "name": "DUNGKEAN"
+  "districtName": "BANGKURUNG",
+  "name": "DUNGKEAN",
+  "postalCode": "94892"
  }
 ]

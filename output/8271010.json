@@ -2,31 +2,43 @@
  {
   "id": 8271010005,
   "districtId": 8271010,
-  "name": "JAMBULA"
+  "districtName": "PULAU TERNATE",
+  "name": "JAMBULA",
+  "postalCode": "97751"
  },
  {
   "id": 8271010006,
   "districtId": 8271010,
-  "name": "KASTELA"
+  "districtName": "PULAU TERNATE",
+  "name": "KASTELA",
+  "postalCode": "97751"
  },
  {
   "id": 8271010007,
   "districtId": 8271010,
-  "name": "FORAMADIAHI"
+  "districtName": "PULAU TERNATE",
+  "name": "FORAMADIAHI",
+  "postalCode": "97751"
  },
  {
   "id": 8271010009,
   "districtId": 8271010,
-  "name": "RUA"
+  "districtName": "PULAU TERNATE",
+  "name": "RUA",
+  "postalCode": "87272"
  },
  {
   "id": 8271010011,
   "districtId": 8271010,
-  "name": "AFE-TADUMA"
+  "districtName": "PULAU TERNATE",
+  "name": "AFE-TADUMA",
+  "postalCode": ""
  },
  {
   "id": 8271010026,
   "districtId": 8271010,
-  "name": "DORPEDU"
+  "districtName": "PULAU TERNATE",
+  "name": "DORPEDU",
+  "postalCode": "97751"
  }
 ]

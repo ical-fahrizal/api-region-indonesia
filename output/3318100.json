@@ -2,141 +2,197 @@
  {
   "id": 3318100001,
   "districtId": 3318100,
-  "name": "PANJUNAN"
+  "districtName": "PATI",
+  "name": "PANJUNAN",
+  "postalCode": "40242"
  },
  {
   "id": 3318100002,
   "districtId": 3318100,
-  "name": "GAJAHMATI"
+  "districtName": "PATI",
+  "name": "GAJAHMATI",
+  "postalCode": "59116"
  },
  {
   "id": 3318100003,
   "districtId": 3318100,
-  "name": "MUSTOKOHARJO"
+  "districtName": "PATI",
+  "name": "MUSTOKOHARJO",
+  "postalCode": "59117"
  },
  {
   "id": 3318100004,
   "districtId": 3318100,
-  "name": "SEMAMPIR"
+  "districtName": "PATI",
+  "name": "SEMAMPIR",
+  "postalCode": "53418"
  },
  {
   "id": 3318100005,
   "districtId": 3318100,
-  "name": "PATI WETAN"
+  "districtName": "PATI",
+  "name": "PATI WETAN",
+  "postalCode": "59115"
  },
  {
   "id": 3318100006,
   "districtId": 3318100,
-  "name": "BLARU"
+  "districtName": "PATI",
+  "name": "BLARU",
+  "postalCode": "59114"
  },
  {
   "id": 3318100007,
   "districtId": 3318100,
-  "name": "PATI KIDUL"
+  "districtName": "PATI",
+  "name": "PATI KIDUL",
+  "postalCode": "59114"
  },
  {
   "id": 3318100008,
   "districtId": 3318100,
-  "name": "PLANGITAN"
+  "districtName": "PATI",
+  "name": "PLANGITAN",
+  "postalCode": "59113"
  },
  {
   "id": 3318100009,
   "districtId": 3318100,
-  "name": "PURI"
+  "districtName": "PATI",
+  "name": "PURI",
+  "postalCode": "59113"
  },
  {
   "id": 3318100010,
   "districtId": 3318100,
-  "name": "WINONG"
+  "districtName": "PATI",
+  "name": "WINONG",
+  "postalCode": "45161"
  },
  {
   "id": 3318100011,
   "districtId": 3318100,
-  "name": "NGARUS"
+  "districtName": "PATI",
+  "name": "NGARUS",
+  "postalCode": "59112"
  },
  {
   "id": 3318100012,
   "districtId": 3318100,
-  "name": "PATI LOR"
+  "districtName": "PATI",
+  "name": "PATI LOR",
+  "postalCode": "59111"
  },
  {
   "id": 3318100013,
   "districtId": 3318100,
-  "name": "PARENGGAN"
+  "districtName": "PATI",
+  "name": "PARENGGAN",
+  "postalCode": "59119"
  },
  {
   "id": 3318100014,
   "districtId": 3318100,
-  "name": "SIDOHARJO"
+  "districtName": "PATI",
+  "name": "SIDOHARJO",
+  "postalCode": "30975"
  },
  {
   "id": 3318100015,
   "districtId": 3318100,
-  "name": "KALIDORO"
+  "districtName": "PATI",
+  "name": "KALIDORO",
+  "postalCode": "59117"
  },
  {
   "id": 3318100016,
   "districtId": 3318100,
-  "name": "SARIREJO"
+  "districtName": "PATI",
+  "name": "SARIREJO",
+  "postalCode": "58262"
  },
  {
   "id": 3318100017,
   "districtId": 3318100,
-  "name": "GERITAN"
+  "districtName": "PATI",
+  "name": "GERITAN",
+  "postalCode": "59119"
  },
  {
   "id": 3318100019,
   "districtId": 3318100,
-  "name": "SUGIHARJO"
+  "districtName": "PATI",
+  "name": "SUGIHARJO",
+  "postalCode": "20372"
  },
  {
   "id": 3318100020,
   "districtId": 3318100,
-  "name": "WIDOROKANDANG"
+  "districtName": "PATI",
+  "name": "WIDOROKANDANG",
+  "postalCode": "59119"
  },
  {
   "id": 3318100021,
   "districtId": 3318100,
-  "name": "PAYANG"
+  "districtName": "PATI",
+  "name": "PAYANG",
+  "postalCode": "59119"
  },
  {
   "id": 3318100022,
   "districtId": 3318100,
-  "name": "KUTOHARJO"
+  "districtName": "PATI",
+  "name": "KUTOHARJO",
+  "postalCode": "51372"
  },
  {
   "id": 3318100023,
   "districtId": 3318100,
-  "name": "SIDOKERTO"
+  "districtName": "PATI",
+  "name": "SIDOKERTO",
+  "postalCode": "34161"
  },
  {
   "id": 3318100024,
   "districtId": 3318100,
-  "name": "MULYOHARJO"
+  "districtName": "PATI",
+  "name": "MULYOHARJO",
+  "postalCode": "59431"
  },
  {
   "id": 3318100025,
   "districtId": 3318100,
-  "name": "TAMBAHARJO"
+  "districtName": "PATI",
+  "name": "TAMBAHARJO",
+  "postalCode": "59119"
  },
  {
   "id": 3318100026,
   "districtId": 3318100,
-  "name": "TAMBAHSARI"
+  "districtName": "PATI",
+  "name": "TAMBAHSARI",
+  "postalCode": "51383"
  },
  {
   "id": 3318100027,
   "districtId": 3318100,
-  "name": "NGEPUNGROJO"
+  "districtName": "PATI",
+  "name": "NGEPUNGROJO",
+  "postalCode": "59119"
  },
  {
   "id": 3318100028,
   "districtId": 3318100,
-  "name": "PURWOREJO"
+  "districtName": "PATI",
+  "name": "PURWOREJO",
+  "postalCode": "23661"
  },
  {
   "id": 3318100029,
   "districtId": 3318100,
-  "name": "SINOMAN"
+  "districtName": "PATI",
+  "name": "SINOMAN",
+  "postalCode": "59119"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 9412040005,
   "districtId": 9412040,
-  "name": "FAKA FUKU"
+  "districtName": "AGIMUGA",
+  "name": "FAKA FUKU",
+  "postalCode": ""
  },
  {
   "id": 9412040007,
   "districtId": 9412040,
-  "name": "KILIARMA"
+  "districtName": "AGIMUGA",
+  "name": "KILIARMA",
+  "postalCode": "99964"
  },
  {
   "id": 9412040008,
   "districtId": 9412040,
-  "name": "AMUNGUN"
+  "districtName": "AGIMUGA",
+  "name": "AMUNGUN",
+  "postalCode": "99964"
  },
  {
   "id": 9412040009,
   "districtId": 9412040,
-  "name": "ARAMSOLKI"
+  "districtName": "AGIMUGA",
+  "name": "ARAMSOLKI",
+  "postalCode": "99964"
  },
  {
   "id": 9412040010,
   "districtId": 9412040,
-  "name": "HINAT UNTUNG"
+  "districtName": "AGIMUGA",
+  "name": "HINAT UNTUNG",
+  "postalCode": ""
  },
  {
   "id": 9412040011,
   "districtId": 9412040,
-  "name": "MASAIMAMO"
+  "districtName": "AGIMUGA",
+  "name": "MASAIMAMO",
+  "postalCode": ""
  },
  {
   "id": 9412040012,
   "districtId": 9412040,
-  "name": "EMKOMA HALAMA"
+  "districtName": "AGIMUGA",
+  "name": "EMKOMA HALAMA",
+  "postalCode": ""
  },
  {
   "id": 9412040013,
   "districtId": 9412040,
-  "name": "EMOGORA"
+  "districtName": "AGIMUGA",
+  "name": "EMOGORA",
+  "postalCode": ""
  }
 ]

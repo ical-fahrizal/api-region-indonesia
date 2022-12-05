@@ -2,56 +2,78 @@
  {
   "id": 9418070001,
   "districtId": 9418070,
-  "name": "TIMORI"
+  "districtName": "GEYA",
+  "name": "TIMORI",
+  "postalCode": "99562"
  },
  {
   "id": 9418070003,
   "districtId": 9418070,
-  "name": "GEYA"
+  "districtName": "GEYA",
+  "name": "GEYA",
+  "postalCode": "99562"
  },
  {
   "id": 9418070004,
   "districtId": 9418070,
-  "name": "ALOBAGA"
+  "districtName": "GEYA",
+  "name": "ALOBAGA",
+  "postalCode": "99562"
  },
  {
   "id": 9418070005,
   "districtId": 9418070,
-  "name": "NAWU"
+  "districtName": "GEYA",
+  "name": "NAWU",
+  "postalCode": "99562"
  },
  {
   "id": 9418070006,
   "districtId": 9418070,
-  "name": "TINAGOGA"
+  "districtName": "GEYA",
+  "name": "TINAGOGA",
+  "postalCode": "99562"
  },
  {
   "id": 9418070007,
   "districtId": 9418070,
-  "name": "WITIPUR"
+  "districtName": "GEYA",
+  "name": "WITIPUR",
+  "postalCode": "99562"
  },
  {
   "id": 9418070009,
   "districtId": 9418070,
-  "name": "WINALO"
+  "districtName": "GEYA",
+  "name": "WINALO",
+  "postalCode": "99562"
  },
  {
   "id": 9418070011,
   "districtId": 9418070,
-  "name": "KIBU"
+  "districtName": "GEYA",
+  "name": "KIBU",
+  "postalCode": "99562"
  },
  {
   "id": 9418070012,
   "districtId": 9418070,
-  "name": "WUNGGILIPUR"
+  "districtName": "GEYA",
+  "name": "WUNGGILIPUR",
+  "postalCode": "99562"
  },
  {
   "id": 9418070013,
   "districtId": 9418070,
-  "name": "WEYAMBI"
+  "districtName": "GEYA",
+  "name": "WEYAMBI",
+  "postalCode": "99562"
  },
  {
   "id": 9418070018,
   "districtId": 9418070,
-  "name": "DIMBARA"
+  "districtName": "GEYA",
+  "name": "DIMBARA",
+  "postalCode": "99562"
  }
 ]

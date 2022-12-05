@@ -2,31 +2,43 @@
  {
   "id": 3403051001,
   "districtId": 3403051,
-  "name": "BALONG"
+  "districtName": "GIRISUBO",
+  "name": "BALONG",
+  "postalCode": "45573"
  },
  {
   "id": 3403051002,
   "districtId": 3403051,
-  "name": "JEPITU"
+  "districtName": "GIRISUBO",
+  "name": "JEPITU",
+  "postalCode": "55883"
  },
  {
   "id": 3403051003,
   "districtId": 3403051,
-  "name": "KARANGAWEN"
+  "districtName": "GIRISUBO",
+  "name": "KARANGAWEN",
+  "postalCode": "59566"
  },
  {
   "id": 3403051004,
   "districtId": 3403051,
-  "name": "TILENG"
+  "districtName": "GIRISUBO",
+  "name": "TILENG",
+  "postalCode": "55883"
  },
  {
   "id": 3403051005,
   "districtId": 3403051,
-  "name": "NGLINDUR"
+  "districtName": "GIRISUBO",
+  "name": "NGLINDUR",
+  "postalCode": "55883"
  },
  {
   "id": 3403051008,
   "districtId": 3403051,
-  "name": "SONGBANYU"
+  "districtName": "GIRISUBO",
+  "name": "SONGBANYU",
+  "postalCode": "55883"
  }
 ]

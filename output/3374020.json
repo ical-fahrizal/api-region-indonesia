@@ -2,81 +2,113 @@
  {
   "id": 3374020001,
   "districtId": 3374020,
-  "name": "GUNUNGPATI"
+  "districtName": "GUNUNG PATI",
+  "name": "GUNUNGPATI",
+  "postalCode": ""
  },
  {
   "id": 3374020002,
   "districtId": 3374020,
-  "name": "PLALANGAN"
+  "districtName": "GUNUNG PATI",
+  "name": "PLALANGAN",
+  "postalCode": "50225"
  },
  {
   "id": 3374020003,
   "districtId": 3374020,
-  "name": "SUMUREJO"
+  "districtName": "GUNUNG PATI",
+  "name": "SUMUREJO",
+  "postalCode": "50226"
  },
  {
   "id": 3374020004,
   "districtId": 3374020,
-  "name": "PAKINTELAN"
+  "districtName": "GUNUNG PATI",
+  "name": "PAKINTELAN",
+  "postalCode": "50227"
  },
  {
   "id": 3374020005,
   "districtId": 3374020,
-  "name": "MANGUNSARI"
+  "districtName": "GUNUNG PATI",
+  "name": "MANGUNSARI",
+  "postalCode": "50227"
  },
  {
   "id": 3374020006,
   "districtId": 3374020,
-  "name": "PATEMON"
+  "districtName": "GUNUNG PATI",
+  "name": "PATEMON",
+  "postalCode": "53362"
  },
  {
   "id": 3374020007,
   "districtId": 3374020,
-  "name": "NGIJO"
+  "districtName": "GUNUNG PATI",
+  "name": "NGIJO",
+  "postalCode": "50228"
  },
  {
   "id": 3374020008,
   "districtId": 3374020,
-  "name": "NONGKOSAWIT"
+  "districtName": "GUNUNG PATI",
+  "name": "NONGKOSAWIT",
+  "postalCode": "50224"
  },
  {
   "id": 3374020009,
   "districtId": 3374020,
-  "name": "CEPOKO"
+  "districtName": "GUNUNG PATI",
+  "name": "CEPOKO",
+  "postalCode": "50223"
  },
  {
   "id": 3374020010,
   "districtId": 3374020,
-  "name": "JATIREJO"
+  "districtName": "GUNUNG PATI",
+  "name": "JATIREJO",
+  "postalCode": "23661"
  },
  {
   "id": 3374020011,
   "districtId": 3374020,
-  "name": "KANDRI"
+  "districtName": "GUNUNG PATI",
+  "name": "KANDRI",
+  "postalCode": "50222"
  },
  {
   "id": 3374020012,
   "districtId": 3374020,
-  "name": "PUNGANGAN"
+  "districtName": "GUNUNG PATI",
+  "name": "PUNGANGAN",
+  "postalCode": "51191"
  },
  {
   "id": 3374020013,
   "districtId": 3374020,
-  "name": "KALISEGORO"
+  "districtName": "GUNUNG PATI",
+  "name": "KALISEGORO",
+  "postalCode": "50229"
  },
  {
   "id": 3374020014,
   "districtId": 3374020,
-  "name": "SEKARAN"
+  "districtName": "GUNUNG PATI",
+  "name": "SEKARAN",
+  "postalCode": "50229"
  },
  {
   "id": 3374020015,
   "districtId": 3374020,
-  "name": "SUKOREJO"
+  "districtName": "GUNUNG PATI",
+  "name": "SUKOREJO",
+  "postalCode": "31551"
  },
  {
   "id": 3374020016,
   "districtId": 3374020,
-  "name": "SADENG"
+  "districtName": "GUNUNG PATI",
+  "name": "SADENG",
+  "postalCode": "16640"
  }
 ]

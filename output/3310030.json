@@ -2,81 +2,113 @@
  {
   "id": 3310030003,
   "districtId": 3310030,
-  "name": "TANJUNGAN"
+  "districtName": "WEDI",
+  "name": "TANJUNGAN",
+  "postalCode": "22395"
  },
  {
   "id": 3310030004,
   "districtId": 3310030,
-  "name": "PASUNG"
+  "districtName": "WEDI",
+  "name": "PASUNG",
+  "postalCode": "57461"
  },
  {
   "id": 3310030005,
   "districtId": 3310030,
-  "name": "BRANGKAL"
+  "districtName": "WEDI",
+  "name": "BRANGKAL",
+  "postalCode": "57274"
  },
  {
   "id": 3310030006,
   "districtId": 3310030,
-  "name": "PACING"
+  "districtName": "WEDI",
+  "name": "PACING",
+  "postalCode": "41374"
  },
  {
   "id": 3310030007,
   "districtId": 3310030,
-  "name": "KADILANGGON"
+  "districtName": "WEDI",
+  "name": "KADILANGGON",
+  "postalCode": "57461"
  },
  {
   "id": 3310030008,
   "districtId": 3310030,
-  "name": "KALIGAYAM"
+  "districtName": "WEDI",
+  "name": "KALIGAYAM",
+  "postalCode": "52463"
  },
  {
   "id": 3310030009,
   "districtId": 3310030,
-  "name": "MELIKAN"
+  "districtName": "WEDI",
+  "name": "MELIKAN",
+  "postalCode": "57461"
  },
  {
   "id": 3310030010,
   "districtId": 3310030,
-  "name": "JIWO WETAN"
+  "districtName": "WEDI",
+  "name": "JIWO WETAN",
+  "postalCode": "57461"
  },
  {
   "id": 3310030011,
   "districtId": 3310030,
-  "name": "KADIBOLO"
+  "districtName": "WEDI",
+  "name": "KADIBOLO",
+  "postalCode": "57461"
  },
  {
   "id": 3310030012,
   "districtId": 3310030,
-  "name": "TROTOK"
+  "districtName": "WEDI",
+  "name": "TROTOK",
+  "postalCode": "57461"
  },
  {
   "id": 3310030014,
   "districtId": 3310030,
-  "name": "SUKOREJO"
+  "districtName": "WEDI",
+  "name": "SUKOREJO",
+  "postalCode": "31551"
  },
  {
   "id": 3310030015,
   "districtId": 3310030,
-  "name": "BIRIT"
+  "districtName": "WEDI",
+  "name": "BIRIT",
+  "postalCode": "57461"
  },
  {
   "id": 3310030016,
   "districtId": 3310030,
-  "name": "PANDES"
+  "districtName": "WEDI",
+  "name": "PANDES",
+  "postalCode": "51352"
  },
  {
   "id": 3310030017,
   "districtId": 3310030,
-  "name": "GADUNGAN"
+  "districtName": "WEDI",
+  "name": "GADUNGAN",
+  "postalCode": "57461"
  },
  {
   "id": 3310030018,
   "districtId": 3310030,
-  "name": "CANAN"
+  "districtName": "WEDI",
+  "name": "CANAN",
+  "postalCode": "57461"
  },
  {
   "id": 3310030019,
   "districtId": 3310030,
-  "name": "KALITENGAH"
+  "districtName": "WEDI",
+  "name": "KALITENGAH",
+  "postalCode": "45153"
  }
 ]

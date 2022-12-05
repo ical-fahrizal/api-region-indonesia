@@ -2,41 +2,57 @@
  {
   "id": 7102094001,
   "districtId": 7102094,
-  "name": "WALANTAKAN"
+  "districtName": "LANGOWAN UTARA",
+  "name": "WALANTAKAN",
+  "postalCode": "95694"
  },
  {
   "id": 7102094002,
   "districtId": 7102094,
-  "name": "TARAITAK"
+  "districtName": "LANGOWAN UTARA",
+  "name": "TARAITAK",
+  "postalCode": "95694"
  },
  {
   "id": 7102094003,
   "districtId": 7102094,
-  "name": "TORAGET"
+  "districtName": "LANGOWAN UTARA",
+  "name": "TORAGET",
+  "postalCode": "95694"
  },
  {
   "id": 7102094004,
   "districtId": 7102094,
-  "name": "KARUMENGA"
+  "districtName": "LANGOWAN UTARA",
+  "name": "KARUMENGA",
+  "postalCode": "95694"
  },
  {
   "id": 7102094005,
   "districtId": 7102094,
-  "name": "TEMPANG"
+  "districtName": "LANGOWAN UTARA",
+  "name": "TEMPANG",
+  "postalCode": ""
  },
  {
   "id": 7102094006,
   "districtId": 7102094,
-  "name": "TEMPANG DUA"
+  "districtName": "LANGOWAN UTARA",
+  "name": "TEMPANG DUA",
+  "postalCode": ""
  },
  {
   "id": 7102094007,
   "districtId": 7102094,
-  "name": "TEMPANG TIGA"
+  "districtName": "LANGOWAN UTARA",
+  "name": "TEMPANG TIGA",
+  "postalCode": ""
  },
  {
   "id": 7102094008,
   "districtId": 7102094,
-  "name": "TARAITAK I"
+  "districtName": "LANGOWAN UTARA",
+  "name": "TARAITAK I",
+  "postalCode": ""
  }
 ]

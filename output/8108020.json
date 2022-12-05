@@ -2,31 +2,43 @@
  {
   "id": 8108020001,
   "districtId": 8108020,
-  "name": "LEKLOOR"
+  "districtName": "PP. TERSELATAN",
+  "name": "LEKLOOR",
+  "postalCode": "97454"
  },
  {
   "id": 8108020002,
   "districtId": 8108020,
-  "name": "OIRATA BARAT"
+  "districtName": "PP. TERSELATAN",
+  "name": "OIRATA BARAT",
+  "postalCode": "97454"
  },
  {
   "id": 8108020003,
   "districtId": 8108020,
-  "name": "OIRATA TIMUR"
+  "districtName": "PP. TERSELATAN",
+  "name": "OIRATA TIMUR",
+  "postalCode": "97454"
  },
  {
   "id": 8108020004,
   "districtId": 8108020,
-  "name": "ABUSUR"
+  "districtName": "PP. TERSELATAN",
+  "name": "ABUSUR",
+  "postalCode": "97454"
  },
  {
   "id": 8108020005,
   "districtId": 8108020,
-  "name": "KOTA LAMA"
+  "districtName": "PP. TERSELATAN",
+  "name": "KOTA LAMA",
+  "postalCode": "28471"
  },
  {
   "id": 8108020006,
   "districtId": 8108020,
-  "name": "WONRELI"
+  "districtName": "PP. TERSELATAN",
+  "name": "WONRELI",
+  "postalCode": "97454"
  }
 ]

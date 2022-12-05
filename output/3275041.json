@@ -2,21 +2,29 @@
  {
   "id": 3275041001,
   "districtId": 3275041,
-  "name": "BOJONG MENTENG"
+  "districtName": "RAWALUMBU",
+  "name": "BOJONG MENTENG",
+  "postalCode": "17117"
  },
  {
   "id": 3275041002,
   "districtId": 3275041,
-  "name": "BOJONG RAWALUMBU"
+  "districtName": "RAWALUMBU",
+  "name": "BOJONG RAWALUMBU",
+  "postalCode": "17116"
  },
  {
   "id": 3275041003,
   "districtId": 3275041,
-  "name": "SEPANJANG JAYA"
+  "districtName": "RAWALUMBU",
+  "name": "SEPANJANG JAYA",
+  "postalCode": "17114"
  },
  {
   "id": 3275041004,
   "districtId": 3275041,
-  "name": "PENGASINAN"
+  "districtName": "RAWALUMBU",
+  "name": "PENGASINAN",
+  "postalCode": "16340"
  }
 ]

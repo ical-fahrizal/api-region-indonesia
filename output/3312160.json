@@ -2,51 +2,71 @@
  {
   "id": 3312160001,
   "districtId": 3312160,
-  "name": "SEMBUKAN"
+  "districtName": "SIDOHARJO",
+  "name": "SEMBUKAN",
+  "postalCode": "57682"
  },
  {
   "id": 3312160003,
   "districtId": 3312160,
-  "name": "TEMPURSARI"
+  "districtName": "SIDOHARJO",
+  "name": "TEMPURSARI",
+  "postalCode": "56191"
  },
  {
   "id": 3312160004,
   "districtId": 3312160,
-  "name": "WIDORO"
+  "districtName": "SIDOHARJO",
+  "name": "WIDORO",
+  "postalCode": "54353"
  },
  {
   "id": 3312160005,
   "districtId": 3312160,
-  "name": "KEBONAGUNG"
+  "districtName": "SIDOHARJO",
+  "name": "KEBONAGUNG",
+  "postalCode": "56151"
  },
  {
   "id": 3312160006,
   "districtId": 3312160,
-  "name": "NGABEYAN"
+  "districtName": "SIDOHARJO",
+  "name": "NGABEYAN",
+  "postalCode": "57475"
  },
  {
   "id": 3312160007,
   "districtId": 3312160,
-  "name": "MOJORENO"
+  "districtName": "SIDOHARJO",
+  "name": "MOJORENO",
+  "postalCode": "57682"
  },
  {
   "id": 3312160009,
   "districtId": 3312160,
-  "name": "KAYULOKO"
+  "districtName": "SIDOHARJO",
+  "name": "KAYULOKO",
+  "postalCode": "57682"
  },
  {
   "id": 3312160010,
   "districtId": 3312160,
-  "name": "KEDUNGGUPIT"
+  "districtName": "SIDOHARJO",
+  "name": "KEDUNGGUPIT",
+  "postalCode": "57682"
  },
  {
   "id": 3312160011,
   "districtId": 3312160,
-  "name": "SIDOHARJO"
+  "districtName": "SIDOHARJO",
+  "name": "SIDOHARJO",
+  "postalCode": "30975"
  },
  {
   "id": 3312160012,
   "districtId": 3312160,
-  "name": "JATINOM"
+  "districtName": "SIDOHARJO",
+  "name": "JATINOM",
+  "postalCode": "57481"
  }
 ]

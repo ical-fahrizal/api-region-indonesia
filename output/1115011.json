@@ -2,56 +2,78 @@
  {
   "id": 1115011001,
   "districtId": 1115011,
-  "name": "KUALA TERIPA"
+  "districtName": "TRIPA MAKMUR",
+  "name": "KUALA TERIPA",
+  "postalCode": ""
  },
  {
   "id": 1115011002,
   "districtId": 1115011,
-  "name": "DRIEN TUJOH"
+  "districtName": "TRIPA MAKMUR",
+  "name": "DRIEN TUJOH",
+  "postalCode": "24188"
  },
  {
   "id": 1115011003,
   "districtId": 1115011,
-  "name": "LUENG KEUBEU JAGAT"
+  "districtName": "TRIPA MAKMUR",
+  "name": "LUENG KEUBEU JAGAT",
+  "postalCode": ""
  },
  {
   "id": 1115011004,
   "districtId": 1115011,
-  "name": "KABU"
+  "districtName": "TRIPA MAKMUR",
+  "name": "KABU",
+  "postalCode": "24453"
  },
  {
   "id": 1115011005,
   "districtId": 1115011,
-  "name": "BABAH LUENG"
+  "districtName": "TRIPA MAKMUR",
+  "name": "BABAH LUENG",
+  "postalCode": "24371"
  },
  {
   "id": 1115011006,
   "districtId": 1115011,
-  "name": "PASI KEUBEU DOM"
+  "districtName": "TRIPA MAKMUR",
+  "name": "PASI KEUBEU DOM",
+  "postalCode": ""
  },
  {
   "id": 1115011007,
   "districtId": 1115011,
-  "name": "NEUBOK YEE PK"
+  "districtName": "TRIPA MAKMUR",
+  "name": "NEUBOK YEE PK",
+  "postalCode": "23662"
  },
  {
   "id": 1115011008,
   "districtId": 1115011,
-  "name": "NEUBOK YEE PP"
+  "districtName": "TRIPA MAKMUR",
+  "name": "NEUBOK YEE PP",
+  "postalCode": "23662"
  },
  {
   "id": 1115011009,
   "districtId": 1115011,
-  "name": "MON DUA"
+  "districtName": "TRIPA MAKMUR",
+  "name": "MON DUA",
+  "postalCode": "23662"
  },
  {
   "id": 1115011010,
   "districtId": 1115011,
-  "name": "PANTON PANGE"
+  "districtName": "TRIPA MAKMUR",
+  "name": "PANTON PANGE",
+  "postalCode": "23662"
  },
  {
   "id": 1115011011,
   "districtId": 1115011,
-  "name": "UJONG KRUENG"
+  "districtName": "TRIPA MAKMUR",
+  "name": "UJONG KRUENG",
+  "postalCode": "23662"
  }
 ]

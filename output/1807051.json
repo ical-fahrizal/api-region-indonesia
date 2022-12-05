@@ -2,46 +2,64 @@
  {
   "id": 1807051001,
   "districtId": 1807051,
-  "name": "PUNJUL AGUNG"
+  "districtName": "BUAY  BAHUGA",
+  "name": "PUNJUL AGUNG",
+  "postalCode": "34767"
  },
  {
   "id": 1807051002,
   "districtId": 1807051,
-  "name": "SUKA AGUNG"
+  "districtName": "BUAY  BAHUGA",
+  "name": "SUKA AGUNG",
+  "postalCode": "34767"
  },
  {
   "id": 1807051003,
   "districtId": 1807051,
-  "name": "SUKA DANA"
+  "districtName": "BUAY  BAHUGA",
+  "name": "SUKA DANA",
+  "postalCode": "31592"
  },
  {
   "id": 1807051004,
   "districtId": 1807051,
-  "name": "SUKABUMI"
+  "districtName": "BUAY  BAHUGA",
+  "name": "SUKABUMI",
+  "postalCode": "32274"
  },
  {
   "id": 1807051005,
   "districtId": 1807051,
-  "name": "BUMI HARJO"
+  "districtName": "BUAY  BAHUGA",
+  "name": "BUMI HARJO",
+  "postalCode": "38361"
  },
  {
   "id": 1807051006,
   "districtId": 1807051,
-  "name": "SRI TUNGGAL"
+  "districtName": "BUAY  BAHUGA",
+  "name": "SRI TUNGGAL",
+  "postalCode": "34767"
  },
  {
   "id": 1807051007,
   "districtId": 1807051,
-  "name": "NUAR MAJU"
+  "districtName": "BUAY  BAHUGA",
+  "name": "NUAR MAJU",
+  "postalCode": "34767"
  },
  {
   "id": 1807051008,
   "districtId": 1807051,
-  "name": "LEBUNG LAWE"
+  "districtName": "BUAY  BAHUGA",
+  "name": "LEBUNG LAWE",
+  "postalCode": "34767"
  },
  {
   "id": 1807051009,
   "districtId": 1807051,
-  "name": "WAY AGUNG"
+  "districtName": "BUAY  BAHUGA",
+  "name": "WAY AGUNG",
+  "postalCode": "34767"
  }
 ]

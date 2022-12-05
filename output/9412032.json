@@ -2,46 +2,64 @@
  {
   "id": 9412032001,
   "districtId": 9412032,
-  "name": "TEMBAGAPURA"
+  "districtName": "TEMBAGAPURA",
+  "name": "TEMBAGAPURA",
+  "postalCode": "99967"
  },
  {
   "id": 9412032002,
   "districtId": 9412032,
-  "name": "WAA"
+  "districtName": "TEMBAGAPURA",
+  "name": "WAA",
+  "postalCode": "99967"
  },
  {
   "id": 9412032003,
   "districtId": 9412032,
-  "name": "ARWANDOP"
+  "districtName": "TEMBAGAPURA",
+  "name": "ARWANDOP",
+  "postalCode": ""
  },
  {
   "id": 9412032004,
   "districtId": 9412032,
-  "name": "TSINGA"
+  "districtName": "TEMBAGAPURA",
+  "name": "TSINGA",
+  "postalCode": ""
  },
  {
   "id": 9412032006,
   "districtId": 9412032,
-  "name": "JAGAMIN"
+  "districtName": "TEMBAGAPURA",
+  "name": "JAGAMIN",
+  "postalCode": "99967"
  },
  {
   "id": 9412032007,
   "districtId": 9412032,
-  "name": "OPITAWAK"
+  "districtName": "TEMBAGAPURA",
+  "name": "OPITAWAK",
+  "postalCode": "99967"
  },
  {
   "id": 9412032008,
   "districtId": 9412032,
-  "name": "DOLININGOKNGIN"
+  "districtName": "TEMBAGAPURA",
+  "name": "DOLININGOKNGIN",
+  "postalCode": "99967"
  },
  {
   "id": 9412032009,
   "districtId": 9412032,
-  "name": "BANIGOGOM"
+  "districtName": "TEMBAGAPURA",
+  "name": "BANIGOGOM",
+  "postalCode": "99967"
  },
  {
   "id": 9412032010,
   "districtId": 9412032,
-  "name": "BANTI II"
+  "districtName": "TEMBAGAPURA",
+  "name": "BANTI II",
+  "postalCode": ""
  }
 ]

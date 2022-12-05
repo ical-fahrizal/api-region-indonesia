@@ -2,46 +2,64 @@
  {
   "id": 9415010020,
   "districtId": 9415010,
-  "name": "SANAPAI"
+  "districtName": "PANTAI KASUARI",
+  "name": "SANAPAI",
+  "postalCode": ""
  },
  {
   "id": 9415010021,
   "districtId": 9415010,
-  "name": "ESEIB"
+  "districtName": "PANTAI KASUARI",
+  "name": "ESEIB",
+  "postalCode": ""
  },
  {
   "id": 9415010022,
   "districtId": 9415010,
-  "name": "BAWOR"
+  "districtName": "PANTAI KASUARI",
+  "name": "BAWOR",
+  "postalCode": "99773"
  },
  {
   "id": 9415010023,
   "districtId": 9415010,
-  "name": "SERAMIT"
+  "districtName": "PANTAI KASUARI",
+  "name": "SERAMIT",
+  "postalCode": ""
  },
  {
   "id": 9415010024,
   "districtId": 9415010,
-  "name": "YAGAMIT"
+  "districtName": "PANTAI KASUARI",
+  "name": "YAGAMIT",
+  "postalCode": "99773"
  },
  {
   "id": 9415010025,
   "districtId": 9415010,
-  "name": "YAHUI"
+  "districtName": "PANTAI KASUARI",
+  "name": "YAHUI",
+  "postalCode": ""
  },
  {
   "id": 9415010026,
   "districtId": 9415010,
-  "name": "KAMUR"
+  "districtName": "PANTAI KASUARI",
+  "name": "KAMUR",
+  "postalCode": "99773"
  },
  {
   "id": 9415010027,
   "districtId": 9415010,
-  "name": "HAINAM"
+  "districtName": "PANTAI KASUARI",
+  "name": "HAINAM",
+  "postalCode": "99773"
  },
  {
   "id": 9415010040,
   "districtId": 9415010,
-  "name": "SARMAFO"
+  "districtName": "PANTAI KASUARI",
+  "name": "SARMAFO",
+  "postalCode": "99773"
  }
 ]

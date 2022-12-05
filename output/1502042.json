@@ -2,36 +2,50 @@
  {
   "id": 1502042001,
   "districtId": 1502042,
-  "name": "MENTAWAK"
+  "districtName": "NALO TANTAN",
+  "name": "MENTAWAK",
+  "postalCode": "37311"
  },
  {
   "id": 1502042002,
   "districtId": 1502042,
-  "name": "SUNGAI ULAK"
+  "districtName": "NALO TANTAN",
+  "name": "SUNGAI ULAK",
+  "postalCode": "37311"
  },
  {
   "id": 1502042003,
   "districtId": 1502042,
-  "name": "AUR BERDURI"
+  "districtName": "NALO TANTAN",
+  "name": "AUR BERDURI",
+  "postalCode": "37311"
  },
  {
   "id": 1502042004,
   "districtId": 1502042,
-  "name": "DANAU"
+  "districtName": "NALO TANTAN",
+  "name": "DANAU",
+  "postalCode": "29561"
  },
  {
   "id": 1502042005,
   "districtId": 1502042,
-  "name": "TELUN"
+  "districtName": "NALO TANTAN",
+  "name": "TELUN",
+  "postalCode": "37311"
  },
  {
   "id": 1502042006,
   "districtId": 1502042,
-  "name": "NALO GEDANG"
+  "districtName": "NALO TANTAN",
+  "name": "NALO GEDANG",
+  "postalCode": "37311"
  },
  {
   "id": 1502042007,
   "districtId": 1502042,
-  "name": "BARU NALO"
+  "districtName": "NALO TANTAN",
+  "name": "BARU NALO",
+  "postalCode": ""
  }
 ]

@@ -2,86 +2,120 @@
  {
   "id": 1212230001,
   "districtId": 1212230,
-  "name": "TELAGA SARI"
+  "districtName": "SUNGGAL",
+  "name": "TELAGA SARI",
+  "postalCode": "20351"
  },
  {
   "id": 1212230002,
   "districtId": 1212230,
-  "name": "SEI MENCIRIM"
+  "districtName": "SUNGGAL",
+  "name": "SEI MENCIRIM",
+  "postalCode": "20354"
  },
  {
   "id": 1212230003,
   "districtId": 1212230,
-  "name": "SUKA MAJU"
+  "districtName": "SUNGGAL",
+  "name": "SUKA MAJU",
+  "postalCode": "24673"
  },
  {
   "id": 1212230004,
   "districtId": 1212230,
-  "name": "SEI BERAS SEKATA"
+  "districtName": "SUNGGAL",
+  "name": "SEI BERAS SEKATA",
+  "postalCode": "20351"
  },
  {
   "id": 1212230005,
   "districtId": 1212230,
-  "name": "TANJUNG SELAMAT"
+  "districtName": "SUNGGAL",
+  "name": "TANJUNG SELAMAT",
+  "postalCode": "21463"
  },
  {
   "id": 1212230006,
   "districtId": 1212230,
-  "name": "SUNGGAL KANAN"
+  "districtName": "SUNGGAL",
+  "name": "SUNGGAL KANAN",
+  "postalCode": ""
  },
  {
   "id": 1212230007,
   "districtId": 1212230,
-  "name": "MEDAN KRIO"
+  "districtName": "SUNGGAL",
+  "name": "MEDAN KRIO",
+  "postalCode": "20351"
  },
  {
   "id": 1212230008,
   "districtId": 1212230,
-  "name": "PAYA GELI"
+  "districtName": "SUNGGAL",
+  "name": "PAYA GELI",
+  "postalCode": "20351"
  },
  {
   "id": 1212230009,
   "districtId": 1212230,
-  "name": "PUJI MULYO"
+  "districtName": "SUNGGAL",
+  "name": "PUJI MULYO",
+  "postalCode": "20351"
  },
  {
   "id": 1212230010,
   "districtId": 1212230,
-  "name": "SEI SEMAYANG"
+  "districtName": "SUNGGAL",
+  "name": "SEI SEMAYANG",
+  "postalCode": "20351"
  },
  {
   "id": 1212230011,
   "districtId": 1212230,
-  "name": "SUMBER MELATI DISKI"
+  "districtName": "SUNGGAL",
+  "name": "SUMBER MELATI DISKI",
+  "postalCode": ""
  },
  {
   "id": 1212230012,
   "districtId": 1212230,
-  "name": "SERBA JADI"
+  "districtName": "SUNGGAL",
+  "name": "SERBA JADI",
+  "postalCode": "23662"
  },
  {
   "id": 1212230013,
   "districtId": 1212230,
-  "name": "MULYOREJO"
+  "districtName": "SUNGGAL",
+  "name": "MULYOREJO",
+  "postalCode": "58315"
  },
  {
   "id": 1212230014,
   "districtId": 1212230,
-  "name": "KAMPUNG LALANG"
+  "districtName": "SUNGGAL",
+  "name": "KAMPUNG LALANG",
+  "postalCode": "20351"
  },
  {
   "id": 1212230015,
   "districtId": 1212230,
-  "name": "PURWODADI"
+  "districtName": "SUNGGAL",
+  "name": "PURWODADI",
+  "postalCode": "24652"
  },
  {
   "id": 1212230016,
   "districtId": 1212230,
-  "name": "TANJUNG GUSTA"
+  "districtName": "SUNGGAL",
+  "name": "TANJUNG GUSTA",
+  "postalCode": "20125"
  },
  {
   "id": 1212230017,
   "districtId": 1212230,
-  "name": "HELVETIA"
+  "districtName": "SUNGGAL",
+  "name": "HELVETIA",
+  "postalCode": "20373"
  }
 ]

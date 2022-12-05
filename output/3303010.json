@@ -2,96 +2,134 @@
  {
   "id": 3303010001,
   "districtId": 3303010,
-  "name": "KEDUNGBENDA"
+  "districtName": "KEMANGKON",
+  "name": "KEDUNGBENDA",
+  "postalCode": "53381"
  },
  {
   "id": 3303010002,
   "districtId": 3303010,
-  "name": "BOKOL"
+  "districtName": "KEMANGKON",
+  "name": "BOKOL",
+  "postalCode": "53381"
  },
  {
   "id": 3303010003,
   "districtId": 3303010,
-  "name": "PLUMUTAN"
+  "districtName": "KEMANGKON",
+  "name": "PLUMUTAN",
+  "postalCode": "50182"
  },
  {
   "id": 3303010004,
   "districtId": 3303010,
-  "name": "MAJATENGAH"
+  "districtName": "KEMANGKON",
+  "name": "MAJATENGAH",
+  "postalCode": "53452"
  },
  {
   "id": 3303010005,
   "districtId": 3303010,
-  "name": "KEDUNGLEGOK"
+  "districtName": "KEMANGKON",
+  "name": "KEDUNGLEGOK",
+  "postalCode": "53381"
  },
  {
   "id": 3303010006,
   "districtId": 3303010,
-  "name": "KEMANGKON"
+  "districtName": "KEMANGKON",
+  "name": "KEMANGKON",
+  "postalCode": "53381"
  },
  {
   "id": 3303010007,
   "districtId": 3303010,
-  "name": "PANICAN"
+  "districtName": "KEMANGKON",
+  "name": "PANICAN",
+  "postalCode": "53381"
  },
  {
   "id": 3303010008,
   "districtId": 3303010,
-  "name": "BAKULAN"
+  "districtName": "KEMANGKON",
+  "name": "BAKULAN",
+  "postalCode": "57362"
  },
  {
   "id": 3303010009,
   "districtId": 3303010,
-  "name": "KARANGKEMIRI"
+  "districtName": "KEMANGKON",
+  "name": "KARANGKEMIRI",
+  "postalCode": "53252"
  },
  {
   "id": 3303010010,
   "districtId": 3303010,
-  "name": "PEGANDEKAN"
+  "districtName": "KEMANGKON",
+  "name": "PEGANDEKAN",
+  "postalCode": "53381"
  },
  {
   "id": 3303010011,
   "districtId": 3303010,
-  "name": "SENON"
+  "districtName": "KEMANGKON",
+  "name": "SENON",
+  "postalCode": "53381"
  },
  {
   "id": 3303010012,
   "districtId": 3303010,
-  "name": "SUMILIR"
+  "districtName": "KEMANGKON",
+  "name": "SUMILIR",
+  "postalCode": "53381"
  },
  {
   "id": 3303010013,
   "districtId": 3303010,
-  "name": "KALIALANG"
+  "districtName": "KEMANGKON",
+  "name": "KALIALANG",
+  "postalCode": "52261"
  },
  {
   "id": 3303010014,
   "districtId": 3303010,
-  "name": "KARANGTENGAH"
+  "districtName": "KEMANGKON",
+  "name": "KARANGTENGAH",
+  "postalCode": "43351"
  },
  {
   "id": 3303010015,
   "districtId": 3303010,
-  "name": "MUNTANG"
+  "districtName": "KEMANGKON",
+  "name": "MUNTANG",
+  "postalCode": "53381"
  },
  {
   "id": 3303010016,
   "districtId": 3303010,
-  "name": "GAMBARSARI"
+  "districtName": "KEMANGKON",
+  "name": "GAMBARSARI",
+  "postalCode": "41252"
  },
  {
   "id": 3303010017,
   "districtId": 3303010,
-  "name": "TOYAREKA"
+  "districtName": "KEMANGKON",
+  "name": "TOYAREKA",
+  "postalCode": "53381"
  },
  {
   "id": 3303010018,
   "districtId": 3303010,
-  "name": "JETIS"
+  "districtName": "KEMANGKON",
+  "name": "JETIS",
+  "postalCode": "57556"
  },
  {
   "id": 3303010019,
   "districtId": 3303010,
-  "name": "MAJASEM"
+  "districtName": "KEMANGKON",
+  "name": "MAJASEM",
+  "postalCode": "53381"
  }
 ]

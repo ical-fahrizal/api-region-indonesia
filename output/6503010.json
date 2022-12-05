@@ -2,26 +2,36 @@
  {
   "id": 6503010001,
   "districtId": 6503010,
-  "name": "BALAYAN ARI"
+  "districtName": "MURUK RIAN",
+  "name": "BALAYAN ARI",
+  "postalCode": ""
  },
  {
   "id": 6503010003,
   "districtId": 6503010,
-  "name": "RIAN"
+  "districtName": "MURUK RIAN",
+  "name": "RIAN",
+  "postalCode": "77152"
  },
  {
   "id": 6503010004,
   "districtId": 6503010,
-  "name": "KAPUAK"
+  "districtName": "MURUK RIAN",
+  "name": "KAPUAK",
+  "postalCode": ""
  },
  {
   "id": 6503010005,
   "districtId": 6503010,
-  "name": "RIAN RAYO"
+  "districtName": "MURUK RIAN",
+  "name": "RIAN RAYO",
+  "postalCode": ""
  },
  {
   "id": 6503010006,
   "districtId": 6503010,
-  "name": "SAPARI"
+  "districtName": "MURUK RIAN",
+  "name": "SAPARI",
+  "postalCode": ""
  }
 ]

@@ -2,181 +2,253 @@
  {
   "id": 1203010056,
   "districtId": 1203010,
-  "name": "SORIK"
+  "districtName": "BATANG ANGKOLA",
+  "name": "SORIK",
+  "postalCode": "22773"
  },
  {
   "id": 1203010057,
   "districtId": 1203010,
-  "name": "PADANG KAHOMBU"
+  "districtName": "BATANG ANGKOLA",
+  "name": "PADANG KAHOMBU",
+  "postalCode": "22773"
  },
  {
   "id": 1203010058,
   "districtId": 1203010,
-  "name": "HUTA PADANG"
+  "districtName": "BATANG ANGKOLA",
+  "name": "HUTA PADANG",
+  "postalCode": "21262"
  },
  {
   "id": 1203010059,
   "districtId": 1203010,
-  "name": "SORI MADINGIN PP"
+  "districtName": "BATANG ANGKOLA",
+  "name": "SORI MADINGIN PP",
+  "postalCode": "22773"
  },
  {
   "id": 1203010061,
   "districtId": 1203010,
-  "name": "HURASE"
+  "districtName": "BATANG ANGKOLA",
+  "name": "HURASE",
+  "postalCode": ""
  },
  {
   "id": 1203010069,
   "districtId": 1203010,
-  "name": "SIGULANG LOSUNG"
+  "districtName": "BATANG ANGKOLA",
+  "name": "SIGULANG LOSUNG",
+  "postalCode": "22773"
  },
  {
   "id": 1203010075,
   "districtId": 1203010,
-  "name": "PASAR LAMA"
+  "districtName": "BATANG ANGKOLA",
+  "name": "PASAR LAMA",
+  "postalCode": "23761"
  },
  {
   "id": 1203010076,
   "districtId": 1203010,
-  "name": "SIGALANGAN"
+  "districtName": "BATANG ANGKOLA",
+  "name": "SIGALANGAN",
+  "postalCode": "22773"
  },
  {
   "id": 1203010079,
   "districtId": 1203010,
-  "name": "JANJI MANAON"
+  "districtName": "BATANG ANGKOLA",
+  "name": "JANJI MANAON",
+  "postalCode": "22773"
  },
  {
   "id": 1203010081,
   "districtId": 1203010,
-  "name": "BARGOT TOPONG"
+  "districtName": "BATANG ANGKOLA",
+  "name": "BARGOT TOPONG",
+  "postalCode": "22773"
  },
  {
   "id": 1203010083,
   "districtId": 1203010,
-  "name": "SIDADI II"
+  "districtName": "BATANG ANGKOLA",
+  "name": "SIDADI II",
+  "postalCode": ""
  },
  {
   "id": 1203010084,
   "districtId": 1203010,
-  "name": "SIDADI I"
+  "districtName": "BATANG ANGKOLA",
+  "name": "SIDADI I",
+  "postalCode": ""
  },
  {
   "id": 1203010087,
   "districtId": 1203010,
-  "name": "JANJI MAULI MT"
+  "districtName": "BATANG ANGKOLA",
+  "name": "JANJI MAULI MT",
+  "postalCode": "22773"
  },
  {
   "id": 1203010088,
   "districtId": 1203010,
-  "name": "MUARA TAIS III"
+  "districtName": "BATANG ANGKOLA",
+  "name": "MUARA TAIS III",
+  "postalCode": "22773"
  },
  {
   "id": 1203010090,
   "districtId": 1203010,
-  "name": "PARGUMBANGAN"
+  "districtName": "BATANG ANGKOLA",
+  "name": "PARGUMBANGAN",
+  "postalCode": "22773"
  },
  {
   "id": 1203010094,
   "districtId": 1203010,
-  "name": "PANGARIBUAN"
+  "districtName": "BATANG ANGKOLA",
+  "name": "PANGARIBUAN",
+  "postalCode": "22651"
  },
  {
   "id": 1203010099,
   "districtId": 1203010,
-  "name": "AEK NAULI"
+  "districtName": "BATANG ANGKOLA",
+  "name": "AEK NAULI",
+  "postalCode": "22773"
  },
  {
   "id": 1203010106,
   "districtId": 1203010,
-  "name": "MUARA TAIS I"
+  "districtName": "BATANG ANGKOLA",
+  "name": "MUARA TAIS I",
+  "postalCode": "22773"
  },
  {
   "id": 1203010107,
   "districtId": 1203010,
-  "name": "BINTUJU"
+  "districtName": "BATANG ANGKOLA",
+  "name": "BINTUJU",
+  "postalCode": "22773"
  },
  {
   "id": 1203010108,
   "districtId": 1203010,
-  "name": "HUTA HOLBUNG"
+  "districtName": "BATANG ANGKOLA",
+  "name": "HUTA HOLBUNG",
+  "postalCode": ""
  },
  {
   "id": 1203010109,
   "districtId": 1203010,
-  "name": "MUARA TAIS II"
+  "districtName": "BATANG ANGKOLA",
+  "name": "MUARA TAIS II",
+  "postalCode": "22773"
  },
  {
   "id": 1203010110,
   "districtId": 1203010,
-  "name": "BASILAM BARU"
+  "districtName": "BATANG ANGKOLA",
+  "name": "BASILAM BARU",
+  "postalCode": "22773"
  },
  {
   "id": 1203010111,
   "districtId": 1203010,
-  "name": "SIPANGKO"
+  "districtName": "BATANG ANGKOLA",
+  "name": "SIPANGKO",
+  "postalCode": "22773"
  },
  {
   "id": 1203010114,
   "districtId": 1203010,
-  "name": "BENTENG HURABA"
+  "districtName": "BATANG ANGKOLA",
+  "name": "BENTENG HURABA",
+  "postalCode": "22773"
  },
  {
   "id": 1203010115,
   "districtId": 1203010,
-  "name": "KELURAHAN PINTU PADANG I"
+  "districtName": "BATANG ANGKOLA",
+  "name": "KELURAHAN PINTU PADANG I",
+  "postalCode": ""
  },
  {
   "id": 1203010116,
   "districtId": 1203010,
-  "name": "KELURAHAN PINTU PADANG II"
+  "districtName": "BATANG ANGKOLA",
+  "name": "KELURAHAN PINTU PADANG II",
+  "postalCode": ""
  },
  {
   "id": 1203010117,
   "districtId": 1203010,
-  "name": "BANGUN PURBA"
+  "districtName": "BATANG ANGKOLA",
+  "name": "BANGUN PURBA",
+  "postalCode": "20581"
  },
  {
   "id": 1203010118,
   "districtId": 1203010,
-  "name": "SITAMPA"
+  "districtName": "BATANG ANGKOLA",
+  "name": "SITAMPA",
+  "postalCode": "22773"
  },
  {
   "id": 1203010119,
   "districtId": 1203010,
-  "name": "PASIR MATOGU"
+  "districtName": "BATANG ANGKOLA",
+  "name": "PASIR MATOGU",
+  "postalCode": ""
  },
  {
   "id": 1203010120,
   "districtId": 1203010,
-  "name": "SIBULELE MUARA"
+  "districtName": "BATANG ANGKOLA",
+  "name": "SIBULELE MUARA",
+  "postalCode": ""
  },
  {
   "id": 1203010121,
   "districtId": 1203010,
-  "name": "AEK GUNUNG"
+  "districtName": "BATANG ANGKOLA",
+  "name": "AEK GUNUNG",
+  "postalCode": "22773"
  },
  {
   "id": 1203010122,
   "districtId": 1203010,
-  "name": "SORIMANAON"
+  "districtName": "BATANG ANGKOLA",
+  "name": "SORIMANAON",
+  "postalCode": ""
  },
  {
   "id": 1203010123,
   "districtId": 1203010,
-  "name": "TATENGGER"
+  "districtName": "BATANG ANGKOLA",
+  "name": "TATENGGER",
+  "postalCode": "22773"
  },
  {
   "id": 1203010124,
   "districtId": 1203010,
-  "name": "MUARA PURBA NAULI"
+  "districtName": "BATANG ANGKOLA",
+  "name": "MUARA PURBA NAULI",
+  "postalCode": ""
  },
  {
   "id": 1203010125,
   "districtId": 1203010,
-  "name": "HUTA TONGA"
+  "districtName": "BATANG ANGKOLA",
+  "name": "HUTA TONGA",
+  "postalCode": "22758"
  },
  {
   "id": 1203010126,
   "districtId": 1203010,
-  "name": "TAHALAK UJUNG GADING"
+  "districtName": "BATANG ANGKOLA",
+  "name": "TAHALAK UJUNG GADING",
+  "postalCode": ""
  }
 ]

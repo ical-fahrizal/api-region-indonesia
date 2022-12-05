@@ -2,36 +2,50 @@
  {
   "id": 3212101001,
   "districtId": 3212101,
-  "name": "KEDOKANBUNDER WETAN"
+  "districtName": "KEDOKAN BUNDER",
+  "name": "KEDOKANBUNDER WETAN",
+  "postalCode": "45283"
  },
  {
   "id": 3212101002,
   "districtId": 3212101,
-  "name": "KAPLONGAN"
+  "districtName": "KEDOKAN BUNDER",
+  "name": "KAPLONGAN",
+  "postalCode": "45283"
  },
  {
   "id": 3212101003,
   "districtId": 3212101,
-  "name": "KEDOKAN AGUNG"
+  "districtName": "KEDOKAN BUNDER",
+  "name": "KEDOKAN AGUNG",
+  "postalCode": "45283"
  },
  {
   "id": 3212101004,
   "districtId": 3212101,
-  "name": "KEDOKANBUNDER"
+  "districtName": "KEDOKAN BUNDER",
+  "name": "KEDOKANBUNDER",
+  "postalCode": "45283"
  },
  {
   "id": 3212101005,
   "districtId": 3212101,
-  "name": "JAYAWINANGUN"
+  "districtName": "KEDOKAN BUNDER",
+  "name": "JAYAWINANGUN",
+  "postalCode": "45283"
  },
  {
   "id": 3212101006,
   "districtId": 3212101,
-  "name": "CANGKINGAN"
+  "districtName": "KEDOKAN BUNDER",
+  "name": "CANGKINGAN",
+  "postalCode": "45283"
  },
  {
   "id": 3212101007,
   "districtId": 3212101,
-  "name": "JAYALAKSANA"
+  "districtName": "KEDOKAN BUNDER",
+  "name": "JAYALAKSANA",
+  "postalCode": "45283"
  }
 ]

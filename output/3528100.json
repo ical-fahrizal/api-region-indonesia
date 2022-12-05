@@ -2,46 +2,64 @@
  {
   "id": 3528100001,
   "districtId": 3528100,
-  "name": "BICORONG"
+  "districtName": "PAKONG",
+  "name": "BICORONG",
+  "postalCode": "69352"
  },
  {
   "id": 3528100002,
   "districtId": 3528100,
-  "name": "KLOMPANG BARAT"
+  "districtName": "PAKONG",
+  "name": "KLOMPANG BARAT",
+  "postalCode": "69352"
  },
  {
   "id": 3528100003,
   "districtId": 3528100,
-  "name": "KLOMPANG TIMUR"
+  "districtName": "PAKONG",
+  "name": "KLOMPANG TIMUR",
+  "postalCode": "69352"
  },
  {
   "id": 3528100004,
   "districtId": 3528100,
-  "name": "BAJANG"
+  "districtName": "PAKONG",
+  "name": "BAJANG",
+  "postalCode": "63461"
  },
  {
   "id": 3528100006,
   "districtId": 3528100,
-  "name": "BANBAN"
+  "districtName": "PAKONG",
+  "name": "BANBAN",
+  "postalCode": "69352"
  },
  {
   "id": 3528100007,
   "districtId": 3528100,
-  "name": "SOMALANG"
+  "districtName": "PAKONG",
+  "name": "SOMALANG",
+  "postalCode": "69352"
  },
  {
   "id": 3528100008,
   "districtId": 3528100,
-  "name": "PALALANG"
+  "districtName": "PAKONG",
+  "name": "PALALANG",
+  "postalCode": "69352"
  },
  {
   "id": 3528100010,
   "districtId": 3528100,
-  "name": "PAKONG"
+  "districtName": "PAKONG",
+  "name": "PAKONG",
+  "postalCode": "69166"
  },
  {
   "id": 3528100011,
   "districtId": 3528100,
-  "name": "BANDUNGAN"
+  "districtName": "PAKONG",
+  "name": "BANDUNGAN",
+  "postalCode": "50614"
  }
 ]

@@ -2,111 +2,155 @@
  {
   "id": 1221010001,
   "districtId": 1221010,
-  "name": "PAGARAN BIRA JAE"
+  "districtName": "SOSOPAN",
+  "name": "PAGARAN BIRA JAE",
+  "postalCode": "22762"
  },
  {
   "id": 1221010002,
   "districtId": 1221010,
-  "name": "PAGARAN BIRA JULU"
+  "districtName": "SOSOPAN",
+  "name": "PAGARAN BIRA JULU",
+  "postalCode": "22762"
  },
  {
   "id": 1221010003,
   "districtId": 1221010,
-  "name": "HUTA BARGOT"
+  "districtName": "SOSOPAN",
+  "name": "HUTA BARGOT",
+  "postalCode": "22755"
  },
  {
   "id": 1221010004,
   "districtId": 1221010,
-  "name": "SIUNDOL JAE"
+  "districtName": "SOSOPAN",
+  "name": "SIUNDOL JAE",
+  "postalCode": "22762"
  },
  {
   "id": 1221010005,
   "districtId": 1221010,
-  "name": "SIUNDOL JULU"
+  "districtName": "SOSOPAN",
+  "name": "SIUNDOL JULU",
+  "postalCode": "22762"
  },
  {
   "id": 1221010006,
   "districtId": 1221010,
-  "name": "SIUNDOL DOLOK"
+  "districtName": "SOSOPAN",
+  "name": "SIUNDOL DOLOK",
+  "postalCode": "22762"
  },
  {
   "id": 1221010007,
   "districtId": 1221010,
-  "name": "HUTA BARU SIUNDOL"
+  "districtName": "SOSOPAN",
+  "name": "HUTA BARU SIUNDOL",
+  "postalCode": "22762"
  },
  {
   "id": 1221010008,
   "districtId": 1221010,
-  "name": "BINANGA TOLU"
+  "districtName": "SOSOPAN",
+  "name": "BINANGA TOLU",
+  "postalCode": "22742"
  },
  {
   "id": 1221010009,
   "districtId": 1221010,
-  "name": "AEK BARGOT"
+  "districtName": "SOSOPAN",
+  "name": "AEK BARGOT",
+  "postalCode": "22753"
  },
  {
   "id": 1221010010,
   "districtId": 1221010,
-  "name": "ULU AER"
+  "districtName": "SOSOPAN",
+  "name": "ULU AER",
+  "postalCode": "22762"
  },
  {
   "id": 1221010011,
   "districtId": 1221010,
-  "name": "HULIM"
+  "districtName": "SOSOPAN",
+  "name": "HULIM",
+  "postalCode": "22762"
  },
  {
   "id": 1221010012,
   "districtId": 1221010,
-  "name": "SIANGGUNAN"
+  "districtName": "SOSOPAN",
+  "name": "SIANGGUNAN",
+  "postalCode": "22738"
  },
  {
   "id": 1221010013,
   "districtId": 1221010,
-  "name": "SIMANINGGIR II (SOSOPAN)"
+  "districtName": "SOSOPAN",
+  "name": "SIMANINGGIR II (SOSOPAN)",
+  "postalCode": ""
  },
  {
   "id": 1221010014,
   "districtId": 1221010,
-  "name": "SIBUAL-BUALI"
+  "districtName": "SOSOPAN",
+  "name": "SIBUAL-BUALI",
+  "postalCode": "22762"
  },
  {
   "id": 1221010015,
   "districtId": 1221010,
-  "name": "SOSOPAN"
+  "districtName": "SOSOPAN",
+  "name": "SOSOPAN",
+  "postalCode": "21464"
  },
  {
   "id": 1221010016,
   "districtId": 1221010,
-  "name": "SIHAPORAS"
+  "districtName": "SOSOPAN",
+  "name": "SIHAPORAS",
+  "postalCode": "21186"
  },
  {
   "id": 1221010017,
   "districtId": 1221010,
-  "name": "SIGALA GALA"
+  "districtName": "SOSOPAN",
+  "name": "SIGALA GALA",
+  "postalCode": "22756"
  },
  {
   "id": 1221010018,
   "districtId": 1221010,
-  "name": "BANUA TONGA"
+  "districtName": "SOSOPAN",
+  "name": "BANUA TONGA",
+  "postalCode": "22763"
  },
  {
   "id": 1221010019,
   "districtId": 1221010,
-  "name": "SOSOPAN JULU"
+  "districtName": "SOSOPAN",
+  "name": "SOSOPAN JULU",
+  "postalCode": "22762"
  },
  {
   "id": 1221010020,
   "districtId": 1221010,
-  "name": "HUTA BARA"
+  "districtName": "SOSOPAN",
+  "name": "HUTA BARA",
+  "postalCode": "22762"
  },
  {
   "id": 1221010021,
   "districtId": 1221010,
-  "name": "HUTA BARU SOSOPAN"
+  "districtName": "SOSOPAN",
+  "name": "HUTA BARU SOSOPAN",
+  "postalCode": "22762"
  },
  {
   "id": 1221010022,
   "districtId": 1221010,
-  "name": "SIMARTOLU"
+  "districtName": "SOSOPAN",
+  "name": "SIMARTOLU",
+  "postalCode": "22762"
  }
 ]

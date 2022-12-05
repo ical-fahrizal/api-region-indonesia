@@ -2,26 +2,36 @@
  {
   "id": 6501020001,
   "districtId": 6501020,
-  "name": "LONG AMPUNG"
+  "districtName": "KAYAN SELATAN",
+  "name": "LONG AMPUNG",
+  "postalCode": "77573"
  },
  {
   "id": 6501020002,
   "districtId": 6501020,
-  "name": "LONG SUNGAI BARANG"
+  "districtName": "KAYAN SELATAN",
+  "name": "LONG SUNGAI BARANG",
+  "postalCode": ""
  },
  {
   "id": 6501020003,
   "districtId": 6501020,
-  "name": "LIDUNG PAYAU"
+  "districtName": "KAYAN SELATAN",
+  "name": "LIDUNG PAYAU",
+  "postalCode": "77573"
  },
  {
   "id": 6501020004,
   "districtId": 6501020,
-  "name": "LONG URO"
+  "districtName": "KAYAN SELATAN",
+  "name": "LONG URO",
+  "postalCode": "77573"
  },
  {
   "id": 6501020005,
   "districtId": 6501020,
-  "name": "METULANG"
+  "districtName": "KAYAN SELATAN",
+  "name": "METULANG",
+  "postalCode": "77573"
  }
 ]

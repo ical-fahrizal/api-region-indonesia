@@ -2,46 +2,64 @@
  {
   "id": 3601071001,
   "districtId": 3601071,
-  "name": "CIPINANG"
+  "districtName": "ANGSANA",
+  "name": "CIPINANG",
+  "postalCode": "13240"
  },
  {
   "id": 3601071002,
   "districtId": 3601071,
-  "name": "KADUBADAK"
+  "districtName": "ANGSANA",
+  "name": "KADUBADAK",
+  "postalCode": "42277"
  },
  {
   "id": 3601071004,
   "districtId": 3601071,
-  "name": "CIKAYAS"
+  "districtName": "ANGSANA",
+  "name": "CIKAYAS",
+  "postalCode": "42277"
  },
  {
   "id": 3601071005,
   "districtId": 3601071,
-  "name": "SUMURLABAN"
+  "districtName": "ANGSANA",
+  "name": "SUMURLABAN",
+  "postalCode": "41357"
  },
  {
   "id": 3601071006,
   "districtId": 3601071,
-  "name": "PADAMULYA"
+  "districtName": "ANGSANA",
+  "name": "PADAMULYA",
+  "postalCode": "46262"
  },
  {
   "id": 3601071007,
   "districtId": 3601071,
-  "name": "PADAHERANG"
+  "districtName": "ANGSANA",
+  "name": "PADAHERANG",
+  "postalCode": "46384"
  },
  {
   "id": 3601071008,
   "districtId": 3601071,
-  "name": "KARANGSARI"
+  "districtName": "ANGSANA",
+  "name": "KARANGSARI",
+  "postalCode": "35376"
  },
  {
   "id": 3601071009,
   "districtId": 3601071,
-  "name": "ANGSANA"
+  "districtName": "ANGSANA",
+  "name": "ANGSANA",
+  "postalCode": "42277"
  },
  {
   "id": 3601071010,
   "districtId": 3601071,
-  "name": "KRAMATMANIK"
+  "districtName": "ANGSANA",
+  "name": "KRAMATMANIK",
+  "postalCode": "42277"
  }
 ]

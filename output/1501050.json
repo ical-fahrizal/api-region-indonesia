@@ -2,101 +2,141 @@
  {
   "id": 1501050001,
   "districtId": 1501050,
-  "name": "KAYUARO AMBAI"
+  "districtName": "SITINJAU LAUT",
+  "name": "KAYUARO AMBAI",
+  "postalCode": "37163"
  },
  {
   "id": 1501050002,
   "districtId": 1501050,
-  "name": "BUNGA TANJUNG"
+  "districtName": "SITINJAU LAUT",
+  "name": "BUNGA TANJUNG",
+  "postalCode": "24782"
  },
  {
   "id": 1501050003,
   "districtId": 1501050,
-  "name": "PONDOK BERINGIN"
+  "districtName": "SITINJAU LAUT",
+  "name": "PONDOK BERINGIN",
+  "postalCode": "37171"
  },
  {
   "id": 1501050005,
   "districtId": 1501050,
-  "name": "SEMERAH"
+  "districtName": "SITINJAU LAUT",
+  "name": "SEMERAH",
+  "postalCode": "37171"
  },
  {
   "id": 1501050006,
   "districtId": 1501050,
-  "name": "SEBUKAR"
+  "districtName": "SITINJAU LAUT",
+  "name": "SEBUKAR",
+  "postalCode": "37171"
  },
  {
   "id": 1501050018,
   "districtId": 1501050,
-  "name": "PENDUNG HILIR"
+  "districtName": "SITINJAU LAUT",
+  "name": "PENDUNG HILIR",
+  "postalCode": "37161"
  },
  {
   "id": 1501050019,
   "districtId": 1501050,
-  "name": "TANJUNG MUDO"
+  "districtName": "SITINJAU LAUT",
+  "name": "TANJUNG MUDO",
+  "postalCode": "37361"
  },
  {
   "id": 1501050020,
   "districtId": 1501050,
-  "name": "PENDUNG TENGAH"
+  "districtName": "SITINJAU LAUT",
+  "name": "PENDUNG TENGAH",
+  "postalCode": "37161"
  },
  {
   "id": 1501050021,
   "districtId": 1501050,
-  "name": "KOTO BARU HIANG"
+  "districtName": "SITINJAU LAUT",
+  "name": "KOTO BARU HIANG",
+  "postalCode": "37171"
  },
  {
   "id": 1501050022,
   "districtId": 1501050,
-  "name": "AMBAI ATAS"
+  "districtName": "SITINJAU LAUT",
+  "name": "AMBAI ATAS",
+  "postalCode": "37171"
  },
  {
   "id": 1501050023,
   "districtId": 1501050,
-  "name": "AMBAI BAWAH"
+  "districtName": "SITINJAU LAUT",
+  "name": "AMBAI BAWAH",
+  "postalCode": "37171"
  },
  {
   "id": 1501050024,
   "districtId": 1501050,
-  "name": "BETUNG KUNING"
+  "districtName": "SITINJAU LAUT",
+  "name": "BETUNG KUNING",
+  "postalCode": "37171"
  },
  {
   "id": 1501050025,
   "districtId": 1501050,
-  "name": "HIANG TINGGI"
+  "districtName": "SITINJAU LAUT",
+  "name": "HIANG TINGGI",
+  "postalCode": "37171"
  },
  {
   "id": 1501050029,
   "districtId": 1501050,
-  "name": "HIANG KARYA"
+  "districtName": "SITINJAU LAUT",
+  "name": "HIANG KARYA",
+  "postalCode": "37171"
  },
  {
   "id": 1501050030,
   "districtId": 1501050,
-  "name": "BARU SEMERAH"
+  "districtName": "SITINJAU LAUT",
+  "name": "BARU SEMERAH",
+  "postalCode": "37171"
  },
  {
   "id": 1501050031,
   "districtId": 1501050,
-  "name": "HIANG LESTARI"
+  "districtName": "SITINJAU LAUT",
+  "name": "HIANG LESTARI",
+  "postalCode": "37171"
  },
  {
   "id": 1501050032,
   "districtId": 1501050,
-  "name": "ANGKASA PURA"
+  "districtName": "SITINJAU LAUT",
+  "name": "ANGKASA PURA",
+  "postalCode": "37171"
  },
  {
   "id": 1501050033,
   "districtId": 1501050,
-  "name": "HIANG SAKTI"
+  "districtName": "SITINJAU LAUT",
+  "name": "HIANG SAKTI",
+  "postalCode": "37171"
  },
  {
   "id": 1501050034,
   "districtId": 1501050,
-  "name": "PENAWAR TINGGI"
+  "districtName": "SITINJAU LAUT",
+  "name": "PENAWAR TINGGI",
+  "postalCode": "37171"
  },
  {
   "id": 1501050035,
   "districtId": 1501050,
-  "name": "KOTO SEKILAN AMBAI"
+  "districtName": "SITINJAU LAUT",
+  "name": "KOTO SEKILAN AMBAI",
+  "postalCode": "37171"
  }
 ]

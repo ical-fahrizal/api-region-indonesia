@@ -2,101 +2,141 @@
  {
   "id": 7101090001,
   "districtId": 7101090,
-  "name": "MARIRI DUA"
+  "districtName": "POIGAR",
+  "name": "MARIRI DUA",
+  "postalCode": ""
  },
  {
   "id": 7101090002,
   "districtId": 7101090,
-  "name": "MARIRI LAMA"
+  "districtName": "POIGAR",
+  "name": "MARIRI LAMA",
+  "postalCode": "95753"
  },
  {
   "id": 7101090003,
   "districtId": 7101090,
-  "name": "MARIRI BARU"
+  "districtName": "POIGAR",
+  "name": "MARIRI BARU",
+  "postalCode": "95753"
  },
  {
   "id": 7101090004,
   "districtId": 7101090,
-  "name": "NONAPAN DUA"
+  "districtName": "POIGAR",
+  "name": "NONAPAN DUA",
+  "postalCode": "95753"
  },
  {
   "id": 7101090005,
   "districtId": 7101090,
-  "name": "NONAPAN SATU"
+  "districtName": "POIGAR",
+  "name": "NONAPAN SATU",
+  "postalCode": "95753"
  },
  {
   "id": 7101090006,
   "districtId": 7101090,
-  "name": "WINERU"
+  "districtName": "POIGAR",
+  "name": "WINERU",
+  "postalCode": "95682"
  },
  {
   "id": 7101090007,
   "districtId": 7101090,
-  "name": "GOGALUMAN"
+  "districtName": "POIGAR",
+  "name": "GOGALUMAN",
+  "postalCode": "95753"
  },
  {
   "id": 7101090008,
   "districtId": 7101090,
-  "name": "TIBERIAS"
+  "districtName": "POIGAR",
+  "name": "TIBERIAS",
+  "postalCode": "95753"
  },
  {
   "id": 7101090009,
   "districtId": 7101090,
-  "name": "POIGAR II"
+  "districtName": "POIGAR",
+  "name": "POIGAR II",
+  "postalCode": "95753"
  },
  {
   "id": 7101090010,
   "districtId": 7101090,
-  "name": "POIGAR"
+  "districtName": "POIGAR",
+  "name": "POIGAR",
+  "postalCode": "95753"
  },
  {
   "id": 7101090011,
   "districtId": 7101090,
-  "name": "POIGAR III"
+  "districtName": "POIGAR",
+  "name": "POIGAR III",
+  "postalCode": "95753"
  },
  {
   "id": 7101090012,
   "districtId": 7101090,
-  "name": "POMOMAN"
+  "districtName": "POIGAR",
+  "name": "POMOMAN",
+  "postalCode": "95753"
  },
  {
   "id": 7101090013,
   "districtId": 7101090,
-  "name": "NANASI"
+  "districtName": "POIGAR",
+  "name": "NANASI",
+  "postalCode": "95753"
  },
  {
   "id": 7101090014,
   "districtId": 7101090,
-  "name": "MONDATONG"
+  "districtName": "POIGAR",
+  "name": "MONDATONG",
+  "postalCode": "95753"
  },
  {
   "id": 7101090015,
   "districtId": 7101090,
-  "name": "MARIRI I"
+  "districtName": "POIGAR",
+  "name": "MARIRI I",
+  "postalCode": ""
  },
  {
   "id": 7101090016,
   "districtId": 7101090,
-  "name": "NONAPAN BARU"
+  "districtName": "POIGAR",
+  "name": "NONAPAN BARU",
+  "postalCode": "95753"
  },
  {
   "id": 7101090017,
   "districtId": 7101090,
-  "name": "NANASI TIMUR"
+  "districtName": "POIGAR",
+  "name": "NANASI TIMUR",
+  "postalCode": "95753"
  },
  {
   "id": 7101090018,
   "districtId": 7101090,
-  "name": "TANJUNG MARIRI"
+  "districtName": "POIGAR",
+  "name": "TANJUNG MARIRI",
+  "postalCode": "95753"
  },
  {
   "id": 7101090019,
   "districtId": 7101090,
-  "name": "NONAPAN"
+  "districtName": "POIGAR",
+  "name": "NONAPAN",
+  "postalCode": "95753"
  },
  {
   "id": 7101090020,
   "districtId": 7101090,
-  "name": "MONDATONG BARU"
+  "districtName": "POIGAR",
+  "name": "MONDATONG BARU",
+  "postalCode": "95753"
  }
 ]

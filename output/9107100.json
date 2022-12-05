@@ -2,46 +2,64 @@
  {
   "id": 9107100005,
   "districtId": 9107100,
-  "name": "ASBAKEN"
+  "districtName": "MAKBON",
+  "name": "ASBAKEN",
+  "postalCode": "98471"
  },
  {
   "id": 9107100006,
   "districtId": 9107100,
-  "name": "MALAUMKARTA"
+  "districtName": "MAKBON",
+  "name": "MALAUMKARTA",
+  "postalCode": "98471"
  },
  {
   "id": 9107100007,
   "districtId": 9107100,
-  "name": "MAKBON"
+  "districtName": "MAKBON",
+  "name": "MAKBON",
+  "postalCode": "98471"
  },
  {
   "id": 9107100008,
   "districtId": 9107100,
-  "name": "BATU LOBANG"
+  "districtName": "MAKBON",
+  "name": "BATU LOBANG",
+  "postalCode": ""
  },
  {
   "id": 9107100009,
   "districtId": 9107100,
-  "name": "BATU LOBANG PANTAI"
+  "districtName": "MAKBON",
+  "name": "BATU LOBANG PANTAI",
+  "postalCode": ""
  },
  {
   "id": 9107100010,
   "districtId": 9107100,
-  "name": "BAINGKETE"
+  "districtName": "MAKBON",
+  "name": "BAINGKETE",
+  "postalCode": ""
  },
  {
   "id": 9107100011,
   "districtId": 9107100,
-  "name": "KUADAS"
+  "districtName": "MAKBON",
+  "name": "KUADAS",
+  "postalCode": ""
  },
  {
   "id": 9107100012,
   "districtId": 9107100,
-  "name": "SAWATUK"
+  "districtName": "MAKBON",
+  "name": "SAWATUK",
+  "postalCode": "98471"
  },
  {
   "id": 9107100013,
   "districtId": 9107100,
-  "name": "TELUK DORE"
+  "districtName": "MAKBON",
+  "name": "TELUK DORE",
+  "postalCode": "98471"
  }
 ]

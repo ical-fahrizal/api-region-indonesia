@@ -2,76 +2,106 @@
  {
   "id": 1607051001,
   "districtId": 1607051,
-  "name": "SEBALIK"
+  "districtName": "TANJUNG LAGO",
+  "name": "SEBALIK",
+  "postalCode": "30961"
  },
  {
   "id": 1607051002,
   "districtId": 1607051,
-  "name": "TANJUNG LAGO"
+  "districtName": "TANJUNG LAGO",
+  "name": "TANJUNG LAGO",
+  "postalCode": "30961"
  },
  {
   "id": 1607051003,
   "districtId": 1607051,
-  "name": "MANGGAR RAYA"
+  "districtName": "TANJUNG LAGO",
+  "name": "MANGGAR RAYA",
+  "postalCode": "30961"
  },
  {
   "id": 1607051004,
   "districtId": 1607051,
-  "name": "BANYU URIP"
+  "districtName": "TANJUNG LAGO",
+  "name": "BANYU URIP",
+  "postalCode": "30961"
  },
  {
   "id": 1607051005,
   "districtId": 1607051,
-  "name": "SUKA DAMAI"
+  "districtName": "TANJUNG LAGO",
+  "name": "SUKA DAMAI",
+  "postalCode": "24472"
  },
  {
   "id": 1607051006,
   "districtId": 1607051,
-  "name": "MUARA SUGIH"
+  "districtName": "TANJUNG LAGO",
+  "name": "MUARA SUGIH",
+  "postalCode": "30961"
  },
  {
   "id": 1607051007,
   "districtId": 1607051,
-  "name": "SUKA TANI"
+  "districtName": "TANJUNG LAGO",
+  "name": "SUKA TANI",
+  "postalCode": "24251"
  },
  {
   "id": 1607051008,
   "districtId": 1607051,
-  "name": "SRI MENANTI"
+  "districtName": "TANJUNG LAGO",
+  "name": "SRI MENANTI",
+  "postalCode": "32265"
  },
  {
   "id": 1607051009,
   "districtId": 1607051,
-  "name": "BANGUN SARI"
+  "districtName": "TANJUNG LAGO",
+  "name": "BANGUN SARI",
+  "postalCode": "24782"
  },
  {
   "id": 1607051010,
   "districtId": 1607051,
-  "name": "SUMBER MEKAR MUKTI"
+  "districtName": "TANJUNG LAGO",
+  "name": "SUMBER MEKAR MUKTI",
+  "postalCode": "30961"
  },
  {
   "id": 1607051011,
   "districtId": 1607051,
-  "name": "KUALA PUNTIAN"
+  "districtName": "TANJUNG LAGO",
+  "name": "KUALA PUNTIAN",
+  "postalCode": "30961"
  },
  {
   "id": 1607051012,
   "districtId": 1607051,
-  "name": "TELANG SARI"
+  "districtName": "TANJUNG LAGO",
+  "name": "TELANG SARI",
+  "postalCode": "30974"
  },
  {
   "id": 1607051013,
   "districtId": 1607051,
-  "name": "MULYA SARI"
+  "districtName": "TANJUNG LAGO",
+  "name": "MULYA SARI",
+  "postalCode": "22774"
  },
  {
   "id": 1607051014,
   "districtId": 1607051,
-  "name": "PURWOSARI"
+  "districtName": "TANJUNG LAGO",
+  "name": "PURWOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 1607051015,
   "districtId": 1607051,
-  "name": "BUNGA KARANG"
+  "districtName": "TANJUNG LAGO",
+  "name": "BUNGA KARANG",
+  "postalCode": "30961"
  }
 ]

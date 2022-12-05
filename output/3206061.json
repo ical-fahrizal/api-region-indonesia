@@ -2,41 +2,57 @@
  {
   "id": 3206061001,
   "districtId": 3206061,
-  "name": "KARYABAKTI"
+  "districtName": "PARUNGPONTENG",
+  "name": "KARYABAKTI",
+  "postalCode": "41354"
  },
  {
   "id": 3206061002,
   "districtId": 3206061,
-  "name": "CIGUNUNG"
+  "districtName": "PARUNGPONTENG",
+  "name": "CIGUNUNG",
+  "postalCode": "46185"
  },
  {
   "id": 3206061003,
   "districtId": 3206061,
-  "name": "CIBUNGUR"
+  "districtName": "PARUNGPONTENG",
+  "name": "CIBUNGUR",
+  "postalCode": "41181"
  },
  {
   "id": 3206061004,
   "districtId": 3206061,
-  "name": "PARUNGPONTENG"
+  "districtName": "PARUNGPONTENG",
+  "name": "PARUNGPONTENG",
+  "postalCode": "46185"
  },
  {
   "id": 3206061005,
   "districtId": 3206061,
-  "name": "GIRIKENCANA"
+  "districtName": "PARUNGPONTENG",
+  "name": "GIRIKENCANA",
+  "postalCode": "46185"
  },
  {
   "id": 3206061006,
   "districtId": 3206061,
-  "name": "BARUMEKAR"
+  "districtName": "PARUNGPONTENG",
+  "name": "BARUMEKAR",
+  "postalCode": "46185"
  },
  {
   "id": 3206061007,
   "districtId": 3206061,
-  "name": "CIBANTENG"
+  "districtName": "PARUNGPONTENG",
+  "name": "CIBANTENG",
+  "postalCode": "16620"
  },
  {
   "id": 3206061008,
   "districtId": 3206061,
-  "name": "BURUJULJAYA"
+  "districtName": "PARUNGPONTENG",
+  "name": "BURUJULJAYA",
+  "postalCode": "46185"
  }
 ]

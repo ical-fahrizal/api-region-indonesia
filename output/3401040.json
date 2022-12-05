@@ -2,36 +2,50 @@
  {
   "id": 3401040001,
   "districtId": 3401040,
-  "name": "KARANG SEWU"
+  "districtName": "GALUR",
+  "name": "KARANG SEWU",
+  "postalCode": "55661"
  },
  {
   "id": 3401040002,
   "districtId": 3401040,
-  "name": "BANARAN"
+  "districtName": "GALUR",
+  "name": "BANARAN",
+  "postalCode": "51281"
  },
  {
   "id": 3401040003,
   "districtId": 3401040,
-  "name": "KRANGGAN"
+  "districtName": "GALUR",
+  "name": "KRANGGAN",
+  "postalCode": "50613"
  },
  {
   "id": 3401040004,
   "districtId": 3401040,
-  "name": "NOMPOREJO"
+  "districtName": "GALUR",
+  "name": "NOMPOREJO",
+  "postalCode": "55661"
  },
  {
   "id": 3401040005,
   "districtId": 3401040,
-  "name": "BROSOT"
+  "districtName": "GALUR",
+  "name": "BROSOT",
+  "postalCode": "55661"
  },
  {
   "id": 3401040006,
   "districtId": 3401040,
-  "name": "PANDOWAN"
+  "districtName": "GALUR",
+  "name": "PANDOWAN",
+  "postalCode": "55661"
  },
  {
   "id": 3401040007,
   "districtId": 3401040,
-  "name": "TIRTA RAHAYU"
+  "districtName": "GALUR",
+  "name": "TIRTA RAHAYU",
+  "postalCode": "55661"
  }
 ]

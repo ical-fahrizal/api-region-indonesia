@@ -2,16 +2,22 @@
  {
   "id": 3402120001,
   "districtId": 3402120,
-  "name": "SITIMULYO"
+  "districtName": "PIYUNGAN",
+  "name": "SITIMULYO",
+  "postalCode": "59183"
  },
  {
   "id": 3402120002,
   "districtId": 3402120,
-  "name": "SRIMULYO"
+  "districtName": "PIYUNGAN",
+  "name": "SRIMULYO",
+  "postalCode": "30975"
  },
  {
   "id": 3402120003,
   "districtId": 3402120,
-  "name": "SRIMARTANI"
+  "districtName": "PIYUNGAN",
+  "name": "SRIMARTANI",
+  "postalCode": "55792"
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 9106021001,
   "districtId": 9106021,
-  "name": "TAPURI"
+  "districtName": "KAIS",
+  "name": "TAPURI",
+  "postalCode": "98455"
  },
  {
   "id": 9106021002,
   "districtId": 9106021,
-  "name": "BENAWA I"
+  "districtName": "KAIS",
+  "name": "BENAWA I",
+  "postalCode": "98455"
  },
  {
   "id": 9106021003,
   "districtId": 9106021,
-  "name": "SUMANO"
+  "districtName": "KAIS",
+  "name": "SUMANO",
+  "postalCode": "98455"
  },
  {
   "id": 9106021004,
   "districtId": 9106021,
-  "name": "KAIS"
+  "districtName": "KAIS",
+  "name": "KAIS",
+  "postalCode": "98455"
  },
  {
   "id": 9106021005,
   "districtId": 9106021,
-  "name": "YAHADIAN"
+  "districtName": "KAIS",
+  "name": "YAHADIAN",
+  "postalCode": "98455"
  },
  {
   "id": 9106021006,
   "districtId": 9106021,
-  "name": "MAKARORO"
+  "districtName": "KAIS",
+  "name": "MAKARORO",
+  "postalCode": "98455"
  }
 ]

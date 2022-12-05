@@ -2,51 +2,71 @@
  {
   "id": 6108210001,
   "districtId": 6108210,
-  "name": "SETULANG"
+  "districtName": "BATANG LUPAR",
+  "name": "SETULANG",
+  "postalCode": "78766"
  },
  {
   "id": 6108210002,
   "districtId": 6108210,
-  "name": "SEPANDAN"
+  "districtName": "BATANG LUPAR",
+  "name": "SEPANDAN",
+  "postalCode": "78766"
  },
  {
   "id": 6108210003,
   "districtId": 6108210,
-  "name": "MELEMBA"
+  "districtName": "BATANG LUPAR",
+  "name": "MELEMBA",
+  "postalCode": "78766"
  },
  {
   "id": 6108210004,
   "districtId": 6108210,
-  "name": "SUNGAI AJUNG"
+  "districtName": "BATANG LUPAR",
+  "name": "SUNGAI AJUNG",
+  "postalCode": ""
  },
  {
   "id": 6108210005,
   "districtId": 6108210,
-  "name": "SUNGAI ABAU"
+  "districtName": "BATANG LUPAR",
+  "name": "SUNGAI ABAU",
+  "postalCode": ""
  },
  {
   "id": 6108210006,
   "districtId": 6108210,
-  "name": "LABIAN"
+  "districtName": "BATANG LUPAR",
+  "name": "LABIAN",
+  "postalCode": "78766"
  },
  {
   "id": 6108210007,
   "districtId": 6108210,
-  "name": "MENSIAU"
+  "districtName": "BATANG LUPAR",
+  "name": "MENSIAU",
+  "postalCode": "78766"
  },
  {
   "id": 6108210008,
   "districtId": 6108210,
-  "name": "SUNGAI SENUNUK"
+  "districtName": "BATANG LUPAR",
+  "name": "SUNGAI SENUNUK",
+  "postalCode": "78766"
  },
  {
   "id": 6108210009,
   "districtId": 6108210,
-  "name": "LANJAK DERAS"
+  "districtName": "BATANG LUPAR",
+  "name": "LANJAK DERAS",
+  "postalCode": "78766"
  },
  {
   "id": 6108210010,
   "districtId": 6108210,
-  "name": "LABIAN IRAANG"
+  "districtName": "BATANG LUPAR",
+  "name": "LABIAN IRAANG",
+  "postalCode": ""
  }
 ]

@@ -2,26 +2,36 @@
  {
   "id": 1210051001,
   "districtId": 1210051,
-  "name": "SILALAHI II"
+  "districtName": "SILAHISABUNGAN",
+  "name": "SILALAHI II",
+  "postalCode": "22281"
  },
  {
   "id": 1210051002,
   "districtId": 1210051,
-  "name": "SILALAHI I"
+  "districtName": "SILAHISABUNGAN",
+  "name": "SILALAHI I",
+  "postalCode": "22281"
  },
  {
   "id": 1210051003,
   "districtId": 1210051,
-  "name": "PAROPO"
+  "districtName": "SILAHISABUNGAN",
+  "name": "PAROPO",
+  "postalCode": "22281"
  },
  {
   "id": 1210051004,
   "districtId": 1210051,
-  "name": "SILALAHI III"
+  "districtName": "SILAHISABUNGAN",
+  "name": "SILALAHI III",
+  "postalCode": "22281"
  },
  {
   "id": 1210051005,
   "districtId": 1210051,
-  "name": "PAROPO I"
+  "districtName": "SILAHISABUNGAN",
+  "name": "PAROPO I",
+  "postalCode": ""
  }
 ]

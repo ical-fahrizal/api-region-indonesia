@@ -2,46 +2,64 @@
  {
   "id": 3313050001,
   "districtId": 3313050,
-  "name": "NGADILUWIH"
+  "districtName": "MATESIH",
+  "name": "NGADILUWIH",
+  "postalCode": "57781"
  },
  {
   "id": 3313050002,
   "districtId": 3313050,
-  "name": "DAWUNG"
+  "districtName": "MATESIH",
+  "name": "DAWUNG",
+  "postalCode": "57256"
  },
  {
   "id": 3313050003,
   "districtId": 3313050,
-  "name": "MATESIH"
+  "districtName": "MATESIH",
+  "name": "MATESIH",
+  "postalCode": "57781"
  },
  {
   "id": 3313050004,
   "districtId": 3313050,
-  "name": "KARANGBANGUN"
+  "districtName": "MATESIH",
+  "name": "KARANGBANGUN",
+  "postalCode": "57783"
  },
  {
   "id": 3313050005,
   "districtId": 3313050,
-  "name": "KORIPAN"
+  "districtName": "MATESIH",
+  "name": "KORIPAN",
+  "postalCode": "57781"
  },
  {
   "id": 3313050006,
   "districtId": 3313050,
-  "name": "GIRILAYU"
+  "districtName": "MATESIH",
+  "name": "GIRILAYU",
+  "postalCode": "57781"
  },
  {
   "id": 3313050007,
   "districtId": 3313050,
-  "name": "PABLENGAN"
+  "districtName": "MATESIH",
+  "name": "PABLENGAN",
+  "postalCode": "57781"
  },
  {
   "id": 3313050008,
   "districtId": 3313050,
-  "name": "PLOSOREJO"
+  "districtName": "MATESIH",
+  "name": "PLOSOREJO",
+  "postalCode": "58253"
  },
  {
   "id": 3313050009,
   "districtId": 3313050,
-  "name": "GANTIWARNO"
+  "districtName": "MATESIH",
+  "name": "GANTIWARNO",
+  "postalCode": "57781"
  }
 ]

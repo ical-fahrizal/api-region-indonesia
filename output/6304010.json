@@ -2,71 +2,99 @@
  {
   "id": 6304010001,
   "districtId": 6304010,
-  "name": "KUALA LUPAK"
+  "districtName": "TABUNGANEN",
+  "name": "KUALA LUPAK",
+  "postalCode": "70567"
  },
  {
   "id": 6304010002,
   "districtId": 6304010,
-  "name": "SUNGAI TELAN BESAR"
+  "districtName": "TABUNGANEN",
+  "name": "SUNGAI TELAN BESAR",
+  "postalCode": ""
  },
  {
   "id": 6304010003,
   "districtId": 6304010,
-  "name": "SUNGAI TELAN KECIL"
+  "districtName": "TABUNGANEN",
+  "name": "SUNGAI TELAN KECIL",
+  "postalCode": ""
  },
  {
   "id": 6304010004,
   "districtId": 6304010,
-  "name": "SUNGAI TELAN MUARA"
+  "districtName": "TABUNGANEN",
+  "name": "SUNGAI TELAN MUARA",
+  "postalCode": ""
  },
  {
   "id": 6304010005,
   "districtId": 6304010,
-  "name": "TABUNGANEN MUARA"
+  "districtName": "TABUNGANEN",
+  "name": "TABUNGANEN MUARA",
+  "postalCode": "70567"
  },
  {
   "id": 6304010006,
   "districtId": 6304010,
-  "name": "TABUNGANEN KECIL"
+  "districtName": "TABUNGANEN",
+  "name": "TABUNGANEN KECIL",
+  "postalCode": "70567"
  },
  {
   "id": 6304010007,
   "districtId": 6304010,
-  "name": "TABUNGANEN TENGAH"
+  "districtName": "TABUNGANEN",
+  "name": "TABUNGANEN TENGAH",
+  "postalCode": "70567"
  },
  {
   "id": 6304010008,
   "districtId": 6304010,
-  "name": "KARYA BARU"
+  "districtName": "TABUNGANEN",
+  "name": "KARYA BARU",
+  "postalCode": "30151"
  },
  {
   "id": 6304010009,
   "districtId": 6304010,
-  "name": "TABUNGANEN PEMURUS"
+  "districtName": "TABUNGANEN",
+  "name": "TABUNGANEN PEMURUS",
+  "postalCode": "70567"
  },
  {
   "id": 6304010010,
   "districtId": 6304010,
-  "name": "TANGGUL REJO"
+  "districtName": "TABUNGANEN",
+  "name": "TANGGUL REJO",
+  "postalCode": "70567"
  },
  {
   "id": 6304010011,
   "districtId": 6304010,
-  "name": "BERINGIN KENCANA"
+  "districtName": "TABUNGANEN",
+  "name": "BERINGIN KENCANA",
+  "postalCode": "35356"
  },
  {
   "id": 6304010012,
   "districtId": 6304010,
-  "name": "SUNGAI TERAS DALAM"
+  "districtName": "TABUNGANEN",
+  "name": "SUNGAI TERAS DALAM",
+  "postalCode": ""
  },
  {
   "id": 6304010013,
   "districtId": 6304010,
-  "name": "SUNGAI TERAS LUAR"
+  "districtName": "TABUNGANEN",
+  "name": "SUNGAI TERAS LUAR",
+  "postalCode": ""
  },
  {
   "id": 6304010014,
   "districtId": 6304010,
-  "name": "SUNGAI JINGAH BESAR"
+  "districtName": "TABUNGANEN",
+  "name": "SUNGAI JINGAH BESAR",
+  "postalCode": ""
  }
 ]

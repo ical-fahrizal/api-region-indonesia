@@ -2,31 +2,43 @@
  {
   "id": 9430092001,
   "districtId": 9430092,
-  "name": "EKAPAME"
+  "districtName": "YILUK",
+  "name": "EKAPAME",
+  "postalCode": "99556"
  },
  {
   "id": 9430092002,
   "districtId": 9430092,
-  "name": "YUGUMABUR"
+  "districtName": "YILUK",
+  "name": "YUGUMABUR",
+  "postalCode": ""
  },
  {
   "id": 9430092003,
   "districtId": 9430092,
-  "name": "ODIKA"
+  "districtName": "YILUK",
+  "name": "ODIKA",
+  "postalCode": "99556"
  },
  {
   "id": 9430092004,
   "districtId": 9430092,
-  "name": "WANOME"
+  "districtName": "YILUK",
+  "name": "WANOME",
+  "postalCode": ""
  },
  {
   "id": 9430092006,
   "districtId": 9430092,
-  "name": "KUBAGALO"
+  "districtName": "YILUK",
+  "name": "KUBAGALO",
+  "postalCode": ""
  },
  {
   "id": 9430092008,
   "districtId": 9430092,
-  "name": "PAPANI"
+  "districtName": "YILUK",
+  "name": "PAPANI",
+  "postalCode": ""
  }
 ]

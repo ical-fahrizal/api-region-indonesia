@@ -2,71 +2,99 @@
  {
   "id": 3514240001,
   "districtId": 3514240,
-  "name": "SANG ANOM"
+  "districtName": "NGULING",
+  "name": "SANG ANOM",
+  "postalCode": "67185"
  },
  {
   "id": 3514240002,
   "districtId": 3514240,
-  "name": "SEBALONG"
+  "districtName": "NGULING",
+  "name": "SEBALONG",
+  "postalCode": "67185"
  },
  {
   "id": 3514240003,
   "districtId": 3514240,
-  "name": "WOT GALIH"
+  "districtName": "NGULING",
+  "name": "WOT GALIH",
+  "postalCode": "67185"
  },
  {
   "id": 3514240004,
   "districtId": 3514240,
-  "name": "WATES TANI"
+  "districtName": "NGULING",
+  "name": "WATES TANI",
+  "postalCode": "67185"
  },
  {
   "id": 3514240005,
   "districtId": 3514240,
-  "name": "SEDARUM"
+  "districtName": "NGULING",
+  "name": "SEDARUM",
+  "postalCode": "67185"
  },
  {
   "id": 3514240006,
   "districtId": 3514240,
-  "name": "DANDANG GENDIS"
+  "districtName": "NGULING",
+  "name": "DANDANG GENDIS",
+  "postalCode": "67185"
  },
  {
   "id": 3514240007,
   "districtId": 3514240,
-  "name": "SUMBER ANYAR"
+  "districtName": "NGULING",
+  "name": "SUMBER ANYAR",
+  "postalCode": "68263"
  },
  {
   "id": 3514240008,
   "districtId": 3514240,
-  "name": "SUDIMULYO"
+  "districtName": "NGULING",
+  "name": "SUDIMULYO",
+  "postalCode": "67185"
  },
  {
   "id": 3514240009,
   "districtId": 3514240,
-  "name": "NGULING"
+  "districtName": "NGULING",
+  "name": "NGULING",
+  "postalCode": "67185"
  },
  {
   "id": 3514240011,
   "districtId": 3514240,
-  "name": "MLATEN"
+  "districtName": "NGULING",
+  "name": "MLATEN",
+  "postalCode": "59583"
  },
  {
   "id": 3514240012,
   "districtId": 3514240,
-  "name": "KEDAWANG"
+  "districtName": "NGULING",
+  "name": "KEDAWANG",
+  "postalCode": "67185"
  },
  {
   "id": 3514240013,
   "districtId": 3514240,
-  "name": "RANDUATI"
+  "districtName": "NGULING",
+  "name": "RANDUATI",
+  "postalCode": "67185"
  },
  {
   "id": 3514240014,
   "districtId": 3514240,
-  "name": "KAPASAN"
+  "districtName": "NGULING",
+  "name": "KAPASAN",
+  "postalCode": "67185"
  },
  {
   "id": 3514240015,
   "districtId": 3514240,
-  "name": "WATUPRAPAT"
+  "districtName": "NGULING",
+  "name": "WATUPRAPAT",
+  "postalCode": "67185"
  }
 ]

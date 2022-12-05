@@ -2,61 +2,85 @@
  {
   "id": 8103142001,
   "districtId": 8103142,
-  "name": "KOBI"
+  "districtName": "SERAM UTARA TIMUR KOBI",
+  "name": "KOBI",
+  "postalCode": "97557"
  },
  {
   "id": 8103142002,
   "districtId": 8103142,
-  "name": "KOBIMUKTI"
+  "districtName": "SERAM UTARA TIMUR KOBI",
+  "name": "KOBIMUKTI",
+  "postalCode": "97557"
  },
  {
   "id": 8103142003,
   "districtId": 8103142,
-  "name": "MANEO RENDAH"
+  "districtName": "SERAM UTARA TIMUR KOBI",
+  "name": "MANEO RENDAH",
+  "postalCode": "97557"
  },
  {
   "id": 8103142004,
   "districtId": 8103142,
-  "name": "LEAWAY"
+  "districtName": "SERAM UTARA TIMUR KOBI",
+  "name": "LEAWAY",
+  "postalCode": ""
  },
  {
   "id": 8103142005,
   "districtId": 8103142,
-  "name": "SAMAL"
+  "districtName": "SERAM UTARA TIMUR KOBI",
+  "name": "SAMAL",
+  "postalCode": ""
  },
  {
   "id": 8103142006,
   "districtId": 8103142,
-  "name": "WAITONIPA"
+  "districtName": "SERAM UTARA TIMUR KOBI",
+  "name": "WAITONIPA",
+  "postalCode": "97557"
  },
  {
   "id": 8103142007,
   "districtId": 8103142,
-  "name": "MOROKAI"
+  "districtName": "SERAM UTARA TIMUR KOBI",
+  "name": "MOROKAI",
+  "postalCode": ""
  },
  {
   "id": 8103142008,
   "districtId": 8103142,
-  "name": "WAIMUSI"
+  "districtName": "SERAM UTARA TIMUR KOBI",
+  "name": "WAIMUSI",
+  "postalCode": "97557"
  },
  {
   "id": 8103142009,
   "districtId": 8103142,
-  "name": "WAI ASIH"
+  "districtName": "SERAM UTARA TIMUR KOBI",
+  "name": "WAI ASIH",
+  "postalCode": ""
  },
  {
   "id": 8103142010,
   "districtId": 8103142,
-  "name": "MARASAHUA"
+  "districtName": "SERAM UTARA TIMUR KOBI",
+  "name": "MARASAHUA",
+  "postalCode": "97557"
  },
  {
   "id": 8103142011,
   "districtId": 8103142,
-  "name": "SARIPUTIH"
+  "districtName": "SERAM UTARA TIMUR KOBI",
+  "name": "SARIPUTIH",
+  "postalCode": "97557"
  },
  {
   "id": 8103142012,
   "districtId": 8103142,
-  "name": "KABAUHARI"
+  "districtName": "SERAM UTARA TIMUR KOBI",
+  "name": "KABAUHARI",
+  "postalCode": ""
  }
 ]

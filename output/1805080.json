@@ -2,51 +2,71 @@
  {
   "id": 1805080006,
   "districtId": 1805080,
-  "name": "ADI JAYA"
+  "districtName": "TERBANGGI BESAR",
+  "name": "ADI JAYA",
+  "postalCode": "36552"
  },
  {
   "id": 1805080008,
   "districtId": 1805080,
-  "name": "YUKUM JAYA"
+  "districtName": "TERBANGGI BESAR",
+  "name": "YUKUM JAYA",
+  "postalCode": "34163"
  },
  {
   "id": 1805080009,
   "districtId": 1805080,
-  "name": "INDRA PUTRA SUBING"
+  "districtName": "TERBANGGI BESAR",
+  "name": "INDRA PUTRA SUBING",
+  "postalCode": "34163"
  },
  {
   "id": 1805080010,
   "districtId": 1805080,
-  "name": "KARANG ENDAH"
+  "districtName": "TERBANGGI BESAR",
+  "name": "KARANG ENDAH",
+  "postalCode": "32121"
  },
  {
   "id": 1805080011,
   "districtId": 1805080,
-  "name": "NAMBAH DADI"
+  "districtName": "TERBANGGI BESAR",
+  "name": "NAMBAH DADI",
+  "postalCode": "34163"
  },
  {
   "id": 1805080012,
   "districtId": 1805080,
-  "name": "ONO HARJO"
+  "districtName": "TERBANGGI BESAR",
+  "name": "ONO HARJO",
+  "postalCode": "34163"
  },
  {
   "id": 1805080013,
   "districtId": 1805080,
-  "name": "TERBANGGI BESAR"
+  "districtName": "TERBANGGI BESAR",
+  "name": "TERBANGGI BESAR",
+  "postalCode": "34169"
  },
  {
   "id": 1805080014,
   "districtId": 1805080,
-  "name": "PONCOWATI"
+  "districtName": "TERBANGGI BESAR",
+  "name": "PONCOWATI",
+  "postalCode": "34163"
  },
  {
   "id": 1805080015,
   "districtId": 1805080,
-  "name": "BANDAR JAYA TIMUR"
+  "districtName": "TERBANGGI BESAR",
+  "name": "BANDAR JAYA TIMUR",
+  "postalCode": "34163"
  },
  {
   "id": 1805080016,
   "districtId": 1805080,
-  "name": "BANDAR JAYA BARAT"
+  "districtName": "TERBANGGI BESAR",
+  "name": "BANDAR JAYA BARAT",
+  "postalCode": "34163"
  }
 ]

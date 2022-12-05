@@ -2,26 +2,36 @@
  {
   "id": 9416043002,
   "districtId": 9416043,
-  "name": "SOBA"
+  "districtName": "SOBA",
+  "name": "SOBA",
+  "postalCode": "85367"
  },
  {
   "id": 9416043003,
   "districtId": 9416043,
-  "name": "HEPINIS"
+  "districtName": "SOBA",
+  "name": "HEPINIS",
+  "postalCode": "99571"
  },
  {
   "id": 9416043004,
   "districtId": 9416043,
-  "name": "AGULUNTIPMU"
+  "districtName": "SOBA",
+  "name": "AGULUNTIPMU",
+  "postalCode": ""
  },
  {
   "id": 9416043005,
   "districtId": 9416043,
-  "name": "NILEN"
+  "districtName": "SOBA",
+  "name": "NILEN",
+  "postalCode": "99571"
  },
  {
   "id": 9416043007,
   "districtId": 9416043,
-  "name": "TANDA"
+  "districtName": "SOBA",
+  "name": "TANDA",
+  "postalCode": "99571"
  }
 ]

@@ -2,56 +2,78 @@
  {
   "id": 3216061001,
   "districtId": 3216061,
-  "name": "WANGUNHARJA"
+  "districtName": "CIKARANG UTARA",
+  "name": "WANGUNHARJA",
+  "postalCode": "17530"
  },
  {
   "id": 3216061002,
   "districtId": 3216061,
-  "name": "HARJAMEKAR"
+  "districtName": "CIKARANG UTARA",
+  "name": "HARJAMEKAR",
+  "postalCode": ""
  },
  {
   "id": 3216061003,
   "districtId": 3216061,
-  "name": "PASIRGOMBONG"
+  "districtName": "CIKARANG UTARA",
+  "name": "PASIRGOMBONG",
+  "postalCode": "42393"
  },
  {
   "id": 3216061004,
   "districtId": 3216061,
-  "name": "MEKARMUKTI"
+  "districtName": "CIKARANG UTARA",
+  "name": "MEKARMUKTI",
+  "postalCode": "45392"
  },
  {
   "id": 3216061005,
   "districtId": 3216061,
-  "name": "SIMPANGAN"
+  "districtName": "CIKARANG UTARA",
+  "name": "SIMPANGAN",
+  "postalCode": "32264"
  },
  {
   "id": 3216061006,
   "districtId": 3216061,
-  "name": "TANJUNGSARI"
+  "districtName": "CIKARANG UTARA",
+  "name": "TANJUNGSARI",
+  "postalCode": "28983"
  },
  {
   "id": 3216061007,
   "districtId": 3216061,
-  "name": "CIKARANG KOTA"
+  "districtName": "CIKARANG UTARA",
+  "name": "CIKARANG KOTA",
+  "postalCode": "17530"
  },
  {
   "id": 3216061008,
   "districtId": 3216061,
-  "name": "KARANGBARU"
+  "districtName": "CIKARANG UTARA",
+  "name": "KARANGBARU",
+  "postalCode": "45583"
  },
  {
   "id": 3216061009,
   "districtId": 3216061,
-  "name": "KARANGASIH"
+  "districtName": "CIKARANG UTARA",
+  "name": "KARANGASIH",
+  "postalCode": "17530"
  },
  {
   "id": 3216061010,
   "districtId": 3216061,
-  "name": "KARANGRAHARJA"
+  "districtName": "CIKARANG UTARA",
+  "name": "KARANGRAHARJA",
+  "postalCode": "17530"
  },
  {
   "id": 3216061011,
   "districtId": 3216061,
-  "name": "WALUYA"
+  "districtName": "CIKARANG UTARA",
+  "name": "WALUYA",
+  "postalCode": "40395"
  }
 ]

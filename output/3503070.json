@@ -2,56 +2,78 @@
  {
   "id": 3503070005,
   "districtId": 3503070,
-  "name": "SUKOWETAN"
+  "districtName": "KARANGAN",
+  "name": "SUKOWETAN",
+  "postalCode": "66361"
  },
  {
   "id": 3503070006,
   "districtId": 3503070,
-  "name": "JATIPRAHU"
+  "districtName": "KARANGAN",
+  "name": "JATIPRAHU",
+  "postalCode": "66361"
  },
  {
   "id": 3503070007,
   "districtId": 3503070,
-  "name": "SUMBERINGIN"
+  "districtName": "KARANGAN",
+  "name": "SUMBERINGIN",
+  "postalCode": "66361"
  },
  {
   "id": 3503070008,
   "districtId": 3503070,
-  "name": "KEDUNGSIGIT"
+  "districtName": "KARANGAN",
+  "name": "KEDUNGSIGIT",
+  "postalCode": "66361"
  },
  {
   "id": 3503070009,
   "districtId": 3503070,
-  "name": "JATI"
+  "districtName": "KARANGAN",
+  "name": "JATI",
+  "postalCode": "20152"
  },
  {
   "id": 3503070013,
   "districtId": 3503070,
-  "name": "KAYEN"
+  "districtName": "KARANGAN",
+  "name": "KAYEN",
+  "postalCode": "57391"
  },
  {
   "id": 3503070014,
   "districtId": 3503070,
-  "name": "KARANGAN"
+  "districtName": "KARANGAN",
+  "name": "KARANGAN",
+  "postalCode": "31131"
  },
  {
   "id": 3503070015,
   "districtId": 3503070,
-  "name": "KERJO"
+  "districtName": "KARANGAN",
+  "name": "KERJO",
+  "postalCode": "66361"
  },
  {
   "id": 3503070016,
   "districtId": 3503070,
-  "name": "SALAMREJO"
+  "districtName": "KARANGAN",
+  "name": "SALAMREJO",
+  "postalCode": "56262"
  },
  {
   "id": 3503070017,
   "districtId": 3503070,
-  "name": "BULUAGUNG"
+  "districtName": "KARANGAN",
+  "name": "BULUAGUNG",
+  "postalCode": "66361"
  },
  {
   "id": 3503070019,
   "districtId": 3503070,
-  "name": "NGENTRONG"
+  "districtName": "KARANGAN",
+  "name": "NGENTRONG",
+  "postalCode": "66272"
  }
 ]

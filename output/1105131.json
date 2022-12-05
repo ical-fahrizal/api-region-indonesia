@@ -2,86 +2,120 @@
  {
   "id": 1105131001,
   "districtId": 1105131,
-  "name": "ASAN RAMPAK"
+  "districtName": "PEUDAWA",
+  "name": "ASAN RAMPAK",
+  "postalCode": "24454"
  },
  {
   "id": 1105131002,
   "districtId": 1105131,
-  "name": "BUKET KUTA"
+  "districtName": "PEUDAWA",
+  "name": "BUKET KUTA",
+  "postalCode": "24454"
  },
  {
   "id": 1105131003,
   "districtId": 1105131,
-  "name": "BLANG KUTA"
+  "districtName": "PEUDAWA",
+  "name": "BLANG KUTA",
+  "postalCode": "24188"
  },
  {
   "id": 1105131004,
   "districtId": 1105131,
-  "name": "ALUE BATEE"
+  "districtName": "PEUDAWA",
+  "name": "ALUE BATEE",
+  "postalCode": "23652"
  },
  {
   "id": 1105131005,
   "districtId": 1105131,
-  "name": "PAYA BILI I"
+  "districtName": "PEUDAWA",
+  "name": "PAYA BILI I",
+  "postalCode": "24454"
  },
  {
   "id": 1105131006,
   "districtId": 1105131,
-  "name": "BLANG BUKET"
+  "districtName": "PEUDAWA",
+  "name": "BLANG BUKET",
+  "postalCode": "24455"
  },
  {
   "id": 1105131007,
   "districtId": 1105131,
-  "name": "KUTA BARO"
+  "districtName": "PEUDAWA",
+  "name": "KUTA BARO",
+  "postalCode": "24261"
  },
  {
   "id": 1105131008,
   "districtId": 1105131,
-  "name": "SEUNEUBOK TEUNGOH"
+  "districtName": "PEUDAWA",
+  "name": "SEUNEUBOK TEUNGOH",
+  "postalCode": "23652"
  },
  {
   "id": 1105131009,
   "districtId": 1105131,
-  "name": "SEUNEUBOK PUNTEUT"
+  "districtName": "PEUDAWA",
+  "name": "SEUNEUBOK PUNTEUT",
+  "postalCode": ""
  },
  {
   "id": 1105131010,
   "districtId": 1105131,
-  "name": "SAMA DUA"
+  "districtName": "PEUDAWA",
+  "name": "SAMA DUA",
+  "postalCode": "24454"
  },
  {
   "id": 1105131011,
   "districtId": 1105131,
-  "name": "KAMPUNG KEUDE"
+  "districtName": "PEUDAWA",
+  "name": "KAMPUNG KEUDE",
+  "postalCode": ""
  },
  {
   "id": 1105131012,
   "districtId": 1105131,
-  "name": "MEUNASAH KRUENG"
+  "districtName": "PEUDAWA",
+  "name": "MEUNASAH KRUENG",
+  "postalCode": "23672"
  },
  {
   "id": 1105131013,
   "districtId": 1105131,
-  "name": "PAYA BILI DUA"
+  "districtName": "PEUDAWA",
+  "name": "PAYA BILI DUA",
+  "postalCode": "24454"
  },
  {
   "id": 1105131014,
   "districtId": 1105131,
-  "name": "PAYA DUA"
+  "districtName": "PEUDAWA",
+  "name": "PAYA DUA",
+  "postalCode": "24376"
  },
  {
   "id": 1105131015,
   "districtId": 1105131,
-  "name": "KAMPUNG KUALA"
+  "districtName": "PEUDAWA",
+  "name": "KAMPUNG KUALA",
+  "postalCode": ""
  },
  {
   "id": 1105131016,
   "districtId": 1105131,
-  "name": "ALUE IE ITAM"
+  "districtName": "PEUDAWA",
+  "name": "ALUE IE ITAM",
+  "postalCode": "24457"
  },
  {
   "id": 1105131017,
   "districtId": 1105131,
-  "name": "MATANG RAYEUK"
+  "districtName": "PEUDAWA",
+  "name": "MATANG RAYEUK",
+  "postalCode": "24454"
  }
 ]

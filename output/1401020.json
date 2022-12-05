@@ -2,71 +2,99 @@
  {
   "id": 1401020001,
   "districtId": 1401020,
-  "name": "PANGKALAN INDARUNG"
+  "districtName": "SINGINGI",
+  "name": "PANGKALAN INDARUNG",
+  "postalCode": "29563"
  },
  {
   "id": 1401020002,
   "districtId": 1401020,
-  "name": "PULAU PADANG"
+  "districtName": "SINGINGI",
+  "name": "PULAU PADANG",
+  "postalCode": "29563"
  },
  {
   "id": 1401020003,
   "districtId": 1401020,
-  "name": "MUARA LEMBU"
+  "districtName": "SINGINGI",
+  "name": "MUARA LEMBU",
+  "postalCode": "29563"
  },
  {
   "id": 1401020004,
   "districtId": 1401020,
-  "name": "LOGAS"
+  "districtName": "SINGINGI",
+  "name": "LOGAS",
+  "postalCode": "29556"
  },
  {
   "id": 1401020005,
   "districtId": 1401020,
-  "name": "SUNGAI BAWANG"
+  "districtName": "SINGINGI",
+  "name": "SUNGAI BAWANG",
+  "postalCode": "29563"
  },
  {
   "id": 1401020006,
   "districtId": 1401020,
-  "name": "AIR MAS"
+  "districtName": "SINGINGI",
+  "name": "AIR MAS",
+  "postalCode": ""
  },
  {
   "id": 1401020007,
   "districtId": 1401020,
-  "name": "SUMBER DATAR"
+  "districtName": "SINGINGI",
+  "name": "SUMBER DATAR",
+  "postalCode": "29563"
  },
  {
   "id": 1401020008,
   "districtId": 1401020,
-  "name": "SUNGAI KERANJI"
+  "districtName": "SINGINGI",
+  "name": "SUNGAI KERANJI",
+  "postalCode": "29563"
  },
  {
   "id": 1401020009,
   "districtId": 1401020,
-  "name": "PASIR EMAS"
+  "districtName": "SINGINGI",
+  "name": "PASIR EMAS",
+  "postalCode": "29252"
  },
  {
   "id": 1401020010,
   "districtId": 1401020,
-  "name": "SUNGAI SIRIH"
+  "districtName": "SINGINGI",
+  "name": "SUNGAI SIRIH",
+  "postalCode": "29563"
  },
  {
   "id": 1401020011,
   "districtId": 1401020,
-  "name": "KEBUN LADO"
+  "districtName": "SINGINGI",
+  "name": "KEBUN LADO",
+  "postalCode": "29563"
  },
  {
   "id": 1401020013,
   "districtId": 1401020,
-  "name": "SUNGAI KUNING"
+  "districtName": "SINGINGI",
+  "name": "SUNGAI KUNING",
+  "postalCode": "29563"
  },
  {
   "id": 1401020014,
   "districtId": 1401020,
-  "name": "PETAI BARU"
+  "districtName": "SINGINGI",
+  "name": "PETAI BARU",
+  "postalCode": "29563"
  },
  {
   "id": 1401020015,
   "districtId": 1401020,
-  "name": "LOGAS HILIR"
+  "districtName": "SINGINGI",
+  "name": "LOGAS HILIR",
+  "postalCode": "29563"
  }
 ]

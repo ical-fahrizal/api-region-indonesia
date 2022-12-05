@@ -2,51 +2,71 @@
  {
   "id": 9426040001,
   "districtId": 9426040,
-  "name": "DAIRI"
+  "districtName": "KIRIHI",
+  "name": "DAIRI",
+  "postalCode": "98263"
  },
  {
   "id": 9426040002,
   "districtId": 9426040,
-  "name": "SPOIRI"
+  "districtName": "KIRIHI",
+  "name": "SPOIRI",
+  "postalCode": "98263"
  },
  {
   "id": 9426040003,
   "districtId": 9426040,
-  "name": "SOOH"
+  "districtName": "KIRIHI",
+  "name": "SOOH",
+  "postalCode": "98263"
  },
  {
   "id": 9426040004,
   "districtId": 9426040,
-  "name": "DIWA"
+  "districtName": "KIRIHI",
+  "name": "DIWA",
+  "postalCode": "98263"
  },
  {
   "id": 9426040005,
   "districtId": 9426040,
-  "name": "KAWARI"
+  "districtName": "KIRIHI",
+  "name": "KAWARI",
+  "postalCode": "98263"
  },
  {
   "id": 9426040006,
   "districtId": 9426040,
-  "name": "KUAISA"
+  "districtName": "KIRIHI",
+  "name": "KUAISA",
+  "postalCode": "98263"
  },
  {
   "id": 9426040007,
   "districtId": 9426040,
-  "name": "FOIDA"
+  "districtName": "KIRIHI",
+  "name": "FOIDA",
+  "postalCode": ""
  },
  {
   "id": 9426040008,
   "districtId": 9426040,
-  "name": "DIROU"
+  "districtName": "KIRIHI",
+  "name": "DIROU",
+  "postalCode": "98263"
  },
  {
   "id": 9426040009,
   "districtId": 9426040,
-  "name": "ANTU ARU"
+  "districtName": "KIRIHI",
+  "name": "ANTU ARU",
+  "postalCode": "98263"
  },
  {
   "id": 9426040010,
   "districtId": 9426040,
-  "name": "WAUKA"
+  "districtName": "KIRIHI",
+  "name": "WAUKA",
+  "postalCode": ""
  }
 ]

@@ -2,51 +2,71 @@
  {
   "id": 9106074001,
   "districtId": 9106074,
-  "name": "KAYABO"
+  "districtName": "SAIFI",
+  "name": "KAYABO",
+  "postalCode": "98454"
  },
  {
   "id": 9106074002,
   "districtId": 9106074,
-  "name": "SAYAL / SEREMUK"
+  "districtName": "SAIFI",
+  "name": "SAYAL / SEREMUK",
+  "postalCode": ""
  },
  {
   "id": 9106074003,
   "districtId": 9106074,
-  "name": "KOMANGGARET"
+  "districtName": "SAIFI",
+  "name": "KOMANGGARET",
+  "postalCode": "98454"
  },
  {
   "id": 9106074004,
   "districtId": 9106074,
-  "name": "MANGGROHOLO"
+  "districtName": "SAIFI",
+  "name": "MANGGROHOLO",
+  "postalCode": "98454"
  },
  {
   "id": 9106074005,
   "districtId": 9106074,
-  "name": "SIRA"
+  "districtName": "SAIFI",
+  "name": "SIRA",
+  "postalCode": "99584"
  },
  {
   "id": 9106074006,
   "districtId": 9106074,
-  "name": "MLASWAT"
+  "districtName": "SAIFI",
+  "name": "MLASWAT",
+  "postalCode": "98454"
  },
  {
   "id": 9106074007,
   "districtId": 9106074,
-  "name": "KWOWOK"
+  "districtName": "SAIFI",
+  "name": "KWOWOK",
+  "postalCode": "98454"
  },
  {
   "id": 9106074008,
   "districtId": 9106074,
-  "name": "SISIR"
+  "districtName": "SAIFI",
+  "name": "SISIR",
+  "postalCode": "65314"
  },
  {
   "id": 9106074009,
   "districtId": 9106074,
-  "name": "KENAYA"
+  "districtName": "SAIFI",
+  "name": "KENAYA",
+  "postalCode": "98454"
  },
  {
   "id": 9106074010,
   "districtId": 9106074,
-  "name": "BOTAIN"
+  "districtName": "SAIFI",
+  "name": "BOTAIN",
+  "postalCode": "98454"
  }
 ]

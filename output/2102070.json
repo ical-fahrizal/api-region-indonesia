@@ -2,36 +2,50 @@
  {
   "id": 2102070001,
   "districtId": 2102070,
-  "name": "PULAU PINANG"
+  "districtName": "TAMBELAN",
+  "name": "PULAU PINANG",
+  "postalCode": "31461"
  },
  {
   "id": 2102070002,
   "districtId": 2102070,
-  "name": "PULAU MENTEBUNG"
+  "districtName": "TAMBELAN",
+  "name": "PULAU MENTEBUNG",
+  "postalCode": "29193"
  },
  {
   "id": 2102070003,
   "districtId": 2102070,
-  "name": "KAMPUNG MELAYU"
+  "districtName": "TAMBELAN",
+  "name": "KAMPUNG MELAYU",
+  "postalCode": "28124"
  },
  {
   "id": 2102070004,
   "districtId": 2102070,
-  "name": "KAMPUNG HILIR"
+  "districtName": "TAMBELAN",
+  "name": "KAMPUNG HILIR",
+  "postalCode": "29781"
  },
  {
   "id": 2102070005,
   "districtId": 2102070,
-  "name": "TELUK SEKUNI"
+  "districtName": "TAMBELAN",
+  "name": "TELUK SEKUNI",
+  "postalCode": "29193"
  },
  {
   "id": 2102070006,
   "districtId": 2102070,
-  "name": "BATU LEPUK"
+  "districtName": "TAMBELAN",
+  "name": "BATU LEPUK",
+  "postalCode": "29193"
  },
  {
   "id": 2102070008,
   "districtId": 2102070,
-  "name": "PENGIKIK"
+  "districtName": "TAMBELAN",
+  "name": "PENGIKIK",
+  "postalCode": "29193"
  }
 ]

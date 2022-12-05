@@ -2,41 +2,57 @@
  {
   "id": 6302030009,
   "districtId": 6302030,
-  "name": "TELUK SIRIH"
+  "districtName": "PULAU LAUT SELATAN",
+  "name": "TELUK SIRIH",
+  "postalCode": "72154"
  },
  {
   "id": 6302030010,
   "districtId": 6302030,
-  "name": "SUNGAI BULAN"
+  "districtName": "PULAU LAUT SELATAN",
+  "name": "SUNGAI BULAN",
+  "postalCode": ""
  },
  {
   "id": 6302030011,
   "districtId": 6302030,
-  "name": "SUNGAI BAHIM"
+  "districtName": "PULAU LAUT SELATAN",
+  "name": "SUNGAI BAHIM",
+  "postalCode": ""
  },
  {
   "id": 6302030012,
   "districtId": 6302030,
-  "name": "ALLE ALLE"
+  "districtName": "PULAU LAUT SELATAN",
+  "name": "ALLE ALLE",
+  "postalCode": "72154"
  },
  {
   "id": 6302030013,
   "districtId": 6302030,
-  "name": "TANJUNG SELOKA"
+  "districtName": "PULAU LAUT SELATAN",
+  "name": "TANJUNG SELOKA",
+  "postalCode": "72154"
  },
  {
   "id": 6302030014,
   "districtId": 6302030,
-  "name": "TANJUNG SERUDUNG"
+  "districtName": "PULAU LAUT SELATAN",
+  "name": "TANJUNG SERUDUNG",
+  "postalCode": "72154"
  },
  {
   "id": 6302030015,
   "districtId": 6302030,
-  "name": "LABUAN MAS"
+  "districtName": "PULAU LAUT SELATAN",
+  "name": "LABUAN MAS",
+  "postalCode": "72154"
  },
  {
   "id": 6302030016,
   "districtId": 6302030,
-  "name": "TANJUNG SELOKA UTARA"
+  "districtName": "PULAU LAUT SELATAN",
+  "name": "TANJUNG SELOKA UTARA",
+  "postalCode": "72154"
  }
 ]

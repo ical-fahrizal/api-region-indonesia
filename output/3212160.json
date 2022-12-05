@@ -2,51 +2,71 @@
  {
   "id": 3212160007,
   "districtId": 3212160,
-  "name": "PANYINDANGAN KULON"
+  "districtName": "SINDANG",
+  "name": "PANYINDANGAN KULON",
+  "postalCode": "45225"
  },
  {
   "id": 3212160008,
   "districtId": 3212160,
-  "name": "RAMBATAN WETAN"
+  "districtName": "SINDANG",
+  "name": "RAMBATAN WETAN",
+  "postalCode": "45221"
  },
  {
   "id": 3212160009,
   "districtId": 3212160,
-  "name": "PANYINDANGAN WETAN"
+  "districtName": "SINDANG",
+  "name": "PANYINDANGAN WETAN",
+  "postalCode": "45225"
  },
  {
   "id": 3212160010,
   "districtId": 3212160,
-  "name": "KENANGA"
+  "districtName": "SINDANG",
+  "name": "KENANGA",
+  "postalCode": "31619"
  },
  {
   "id": 3212160011,
   "districtId": 3212160,
-  "name": "TERUSAN"
+  "districtName": "SINDANG",
+  "name": "TERUSAN",
+  "postalCode": "28471"
  },
  {
   "id": 3212160012,
   "districtId": 3212160,
-  "name": "DERMAYU"
+  "districtName": "SINDANG",
+  "name": "DERMAYU",
+  "postalCode": "38881"
  },
  {
   "id": 3212160013,
   "districtId": 3212160,
-  "name": "SINDANG"
+  "districtName": "SINDANG",
+  "name": "SINDANG",
+  "postalCode": "45466"
  },
  {
   "id": 3212160014,
   "districtId": 3212160,
-  "name": "PENGANJANG"
+  "districtName": "SINDANG",
+  "name": "PENGANJANG",
+  "postalCode": "45221"
  },
  {
   "id": 3212160015,
   "districtId": 3212160,
-  "name": "BABADAN"
+  "districtName": "SINDANG",
+  "name": "BABADAN",
+  "postalCode": "45151"
  },
  {
   "id": 3212160016,
   "districtId": 3212160,
-  "name": "WANANTARA"
+  "districtName": "SINDANG",
+  "name": "WANANTARA",
+  "postalCode": "45227"
  }
 ]

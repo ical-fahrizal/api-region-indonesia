@@ -2,111 +2,155 @@
  {
   "id": 7210060001,
   "districtId": 7210060,
-  "name": "LEMBAN TONGOA"
+  "districtName": "PALOLO",
+  "name": "LEMBAN TONGOA",
+  "postalCode": "94364"
  },
  {
   "id": 7210060002,
   "districtId": 7210060,
-  "name": "UENUNI"
+  "districtName": "PALOLO",
+  "name": "UENUNI",
+  "postalCode": "94364"
  },
  {
   "id": 7210060003,
   "districtId": 7210060,
-  "name": "TONGOA"
+  "districtName": "PALOLO",
+  "name": "TONGOA",
+  "postalCode": "94364"
  },
  {
   "id": 7210060004,
   "districtId": 7210060,
-  "name": "BAHAGIA"
+  "districtName": "PALOLO",
+  "name": "BAHAGIA",
+  "postalCode": "23654"
  },
  {
   "id": 7210060005,
   "districtId": 7210060,
-  "name": "RAHMAT"
+  "districtName": "PALOLO",
+  "name": "RAHMAT",
+  "postalCode": "94364"
  },
  {
   "id": 7210060006,
   "districtId": 7210060,
-  "name": "SEJAHTERA"
+  "districtName": "PALOLO",
+  "name": "SEJAHTERA",
+  "postalCode": "24673"
  },
  {
   "id": 7210060007,
   "districtId": 7210060,
-  "name": "SINTUWU"
+  "districtName": "PALOLO",
+  "name": "SINTUWU",
+  "postalCode": "94364"
  },
  {
   "id": 7210060008,
   "districtId": 7210060,
-  "name": "RANTELEDA"
+  "districtName": "PALOLO",
+  "name": "RANTELEDA",
+  "postalCode": ""
  },
  {
   "id": 7210060009,
   "districtId": 7210060,
-  "name": "TANAH HARAPAN"
+  "districtName": "PALOLO",
+  "name": "TANAH HARAPAN",
+  "postalCode": "38765"
  },
  {
   "id": 7210060010,
   "districtId": 7210060,
-  "name": "BERDIKARI"
+  "districtName": "PALOLO",
+  "name": "BERDIKARI",
+  "postalCode": "23681"
  },
  {
   "id": 7210060011,
   "districtId": 7210060,
-  "name": "REJEKI"
+  "districtName": "PALOLO",
+  "name": "REJEKI",
+  "postalCode": "94364"
  },
  {
   "id": 7210060012,
   "districtId": 7210060,
-  "name": "AMPERA"
+  "districtName": "PALOLO",
+  "name": "AMPERA",
+  "postalCode": "24671"
  },
  {
   "id": 7210060013,
   "districtId": 7210060,
-  "name": "MAKMUR"
+  "districtName": "PALOLO",
+  "name": "MAKMUR",
+  "postalCode": "24562"
  },
  {
   "id": 7210060014,
   "districtId": 7210060,
-  "name": "PETIMBE"
+  "districtName": "PALOLO",
+  "name": "PETIMBE",
+  "postalCode": "94364"
  },
  {
   "id": 7210060015,
   "districtId": 7210060,
-  "name": "KAPIROE"
+  "districtName": "PALOLO",
+  "name": "KAPIROE",
+  "postalCode": "94364"
  },
  {
   "id": 7210060016,
   "districtId": 7210060,
-  "name": "BUNGA"
+  "districtName": "PALOLO",
+  "name": "BUNGA",
+  "postalCode": "23893"
  },
  {
   "id": 7210060017,
   "districtId": 7210060,
-  "name": "BOBO"
+  "districtName": "PALOLO",
+  "name": "BOBO",
+  "postalCode": "94361"
  },
  {
   "id": 7210060018,
   "districtId": 7210060,
-  "name": "BAKU-BAKULU"
+  "districtName": "PALOLO",
+  "name": "BAKU-BAKULU",
+  "postalCode": "94364"
  },
  {
   "id": 7210060019,
   "districtId": 7210060,
-  "name": "SIGIMPU"
+  "districtName": "PALOLO",
+  "name": "SIGIMPU",
+  "postalCode": "94364"
  },
  {
   "id": 7210060020,
   "districtId": 7210060,
-  "name": "KARUNIA"
+  "districtName": "PALOLO",
+  "name": "KARUNIA",
+  "postalCode": ""
  },
  {
   "id": 7210060021,
   "districtId": 7210060,
-  "name": "UE RANI"
+  "districtName": "PALOLO",
+  "name": "UE RANI",
+  "postalCode": ""
  },
  {
   "id": 7210060022,
   "districtId": 7210060,
-  "name": "SARUMANA"
+  "districtName": "PALOLO",
+  "name": "SARUMANA",
+  "postalCode": ""
  }
 ]

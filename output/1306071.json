@@ -2,21 +2,29 @@
  {
   "id": 1306071001,
   "districtId": 1306071,
-  "name": "LIMAU PURUIK"
+  "districtName": "V KOTO TIMUR",
+  "name": "LIMAU PURUIK",
+  "postalCode": "25573"
  },
  {
   "id": 1306071002,
   "districtId": 1306071,
-  "name": "KUDU GANTIANG"
+  "districtName": "V KOTO TIMUR",
+  "name": "KUDU GANTIANG",
+  "postalCode": ""
  },
  {
   "id": 1306071003,
   "districtId": 1306071,
-  "name": "GUNUNG PADANG ALAI"
+  "districtName": "V KOTO TIMUR",
+  "name": "GUNUNG PADANG ALAI",
+  "postalCode": "25573"
  },
  {
   "id": 1306071004,
   "districtId": 1306071,
-  "name": "KUDU GANTIANG BARAT"
+  "districtName": "V KOTO TIMUR",
+  "name": "KUDU GANTIANG BARAT",
+  "postalCode": ""
  }
 ]

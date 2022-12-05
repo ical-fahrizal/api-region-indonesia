@@ -2,36 +2,50 @@
  {
   "id": 1208031007,
   "districtId": 1208031,
-  "name": "SENGON SARI"
+  "districtName": "AEK KUASAN",
+  "name": "SENGON SARI",
+  "postalCode": "21273"
  },
  {
   "id": 1208031008,
   "districtId": 1208031,
-  "name": "LOBU JIUR"
+  "districtName": "AEK KUASAN",
+  "name": "LOBU JIUR",
+  "postalCode": ""
  },
  {
   "id": 1208031009,
   "districtId": 1208031,
-  "name": "AEK LOBA PEKAN"
+  "districtName": "AEK KUASAN",
+  "name": "AEK LOBA PEKAN",
+  "postalCode": "21273"
  },
  {
   "id": 1208031010,
   "districtId": 1208031,
-  "name": "AEK LOBA AFDELING I"
+  "districtName": "AEK KUASAN",
+  "name": "AEK LOBA AFDELING I",
+  "postalCode": "21273"
  },
  {
   "id": 1208031011,
   "districtId": 1208031,
-  "name": "ALANG BONBON"
+  "districtName": "AEK KUASAN",
+  "name": "ALANG BONBON",
+  "postalCode": ""
  },
  {
   "id": 1208031012,
   "districtId": 1208031,
-  "name": "RAWA SARI"
+  "districtName": "AEK KUASAN",
+  "name": "RAWA SARI",
+  "postalCode": "21273"
  },
  {
   "id": 1208031013,
   "districtId": 1208031,
-  "name": "AEK LOBA"
+  "districtName": "AEK KUASAN",
+  "name": "AEK LOBA",
+  "postalCode": "21273"
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 9109081001,
   "districtId": 9109081,
-  "name": "WAUSIN"
+  "districtName": "MAWABUAN",
+  "name": "WAUSIN",
+  "postalCode": ""
  },
  {
   "id": 9109081002,
   "districtId": 9109081,
-  "name": "AFRAWI"
+  "districtName": "MAWABUAN",
+  "name": "AFRAWI",
+  "postalCode": "98372"
  },
  {
   "id": 9109081003,
   "districtId": 9109081,
-  "name": "WUFMANA"
+  "districtName": "MAWABUAN",
+  "name": "WUFMANA",
+  "postalCode": ""
  },
  {
   "id": 9109081004,
   "districtId": 9109081,
-  "name": "ASITI"
+  "districtName": "MAWABUAN",
+  "name": "ASITI",
+  "postalCode": ""
  },
  {
   "id": 9109081005,
   "districtId": 9109081,
-  "name": "BISAUD"
+  "districtName": "MAWABUAN",
+  "name": "BISAUD",
+  "postalCode": ""
  },
  {
   "id": 9109081006,
   "districtId": 9109081,
-  "name": "NISANDAUW"
+  "districtName": "MAWABUAN",
+  "name": "NISANDAUW",
+  "postalCode": ""
  },
  {
   "id": 9109081007,
   "districtId": 9109081,
-  "name": "ATOKWAPI"
+  "districtName": "MAWABUAN",
+  "name": "ATOKWAPI",
+  "postalCode": ""
  }
 ]

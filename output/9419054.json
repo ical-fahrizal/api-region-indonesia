@@ -2,21 +2,29 @@
  {
   "id": 9419054001,
   "districtId": 9419054,
-  "name": "HOLMAFEM"
+  "districtName": "MUARA TOR",
+  "name": "HOLMAFEM",
+  "postalCode": ""
  },
  {
   "id": 9419054002,
   "districtId": 9419054,
-  "name": "EBRAM"
+  "districtName": "MUARA TOR",
+  "name": "EBRAM",
+  "postalCode": "99373"
  },
  {
   "id": 9419054003,
   "districtId": 9419054,
-  "name": "TANJUNG BATU"
+  "districtName": "MUARA TOR",
+  "name": "TANJUNG BATU",
+  "postalCode": "37173"
  },
  {
   "id": 9419054005,
   "districtId": 9419054,
-  "name": "OMTE/KWEPKE"
+  "districtName": "MUARA TOR",
+  "name": "OMTE/KWEPKE",
+  "postalCode": ""
  }
 ]

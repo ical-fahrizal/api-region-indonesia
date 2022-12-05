@@ -2,41 +2,57 @@
  {
   "id": 9416052001,
   "districtId": 9416052,
-  "name": "WEAWEN"
+  "districtName": "SOLOIKMA",
+  "name": "WEAWEN",
+  "postalCode": ""
  },
  {
   "id": 9416052002,
   "districtId": 9416052,
-  "name": "KWELENA"
+  "districtName": "SOLOIKMA",
+  "name": "KWELENA",
+  "postalCode": "99578"
  },
  {
   "id": 9416052003,
   "districtId": 9416052,
-  "name": "BANGA"
+  "districtName": "SOLOIKMA",
+  "name": "BANGA",
+  "postalCode": "95998"
  },
  {
   "id": 9416052004,
   "districtId": 9416052,
-  "name": "MUSAN"
+  "districtName": "SOLOIKMA",
+  "name": "MUSAN",
+  "postalCode": "99578"
  },
  {
   "id": 9416052005,
   "districtId": 9416052,
-  "name": "SALBI"
+  "districtName": "SOLOIKMA",
+  "name": "SALBI",
+  "postalCode": "99578"
  },
  {
   "id": 9416052006,
   "districtId": 9416052,
-  "name": "ERIM"
+  "districtName": "SOLOIKMA",
+  "name": "ERIM",
+  "postalCode": "99578"
  },
  {
   "id": 9416052007,
   "districtId": 9416052,
-  "name": "SINGOKLA"
+  "districtName": "SOLOIKMA",
+  "name": "SINGOKLA",
+  "postalCode": "99578"
  },
  {
   "id": 9416052008,
   "districtId": 9416052,
-  "name": "SOLINE"
+  "districtName": "SOLOIKMA",
+  "name": "SOLINE",
+  "postalCode": "99578"
  }
 ]

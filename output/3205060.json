@@ -2,56 +2,78 @@
  {
   "id": 3205060001,
   "districtId": 3205060,
-  "name": "CIGADOG"
+  "districtName": "CIKELET",
+  "name": "CIGADOG",
+  "postalCode": "44177"
  },
  {
   "id": 3205060002,
   "districtId": 3205060,
-  "name": "CIJAMBE"
+  "districtName": "CIKELET",
+  "name": "CIJAMBE",
+  "postalCode": "41286"
  },
  {
   "id": 3205060003,
   "districtId": 3205060,
-  "name": "CIKELET"
+  "districtName": "CIKELET",
+  "name": "CIKELET",
+  "postalCode": "44177"
  },
  {
   "id": 3205060004,
   "districtId": 3205060,
-  "name": "PAMALAYAN"
+  "districtName": "CIKELET",
+  "name": "PAMALAYAN",
+  "postalCode": "44162"
  },
  {
   "id": 3205060005,
   "districtId": 3205060,
-  "name": "LINGGAMANIK"
+  "districtName": "CIKELET",
+  "name": "LINGGAMANIK",
+  "postalCode": "44177"
  },
  {
   "id": 3205060006,
   "districtId": 3205060,
-  "name": "KARANGSARI"
+  "districtName": "CIKELET",
+  "name": "KARANGSARI",
+  "postalCode": "35376"
  },
  {
   "id": 3205060007,
   "districtId": 3205060,
-  "name": "KERTAMUKTI"
+  "districtName": "CIKELET",
+  "name": "KERTAMUKTI",
+  "postalCode": "41181"
  },
  {
   "id": 3205060008,
   "districtId": 3205060,
-  "name": "CIROYOM"
+  "districtName": "CIKELET",
+  "name": "CIROYOM",
+  "postalCode": "40182"
  },
  {
   "id": 3205060009,
   "districtId": 3205060,
-  "name": "GIRIMUKTI"
+  "districtName": "CIKELET",
+  "name": "GIRIMUKTI",
+  "postalCode": "46475"
  },
  {
   "id": 3205060010,
   "districtId": 3205060,
-  "name": "TIPAR"
+  "districtName": "CIKELET",
+  "name": "TIPAR",
+  "postalCode": "44177"
  },
  {
   "id": 3205060011,
   "districtId": 3205060,
-  "name": "AWASSAGARA"
+  "districtName": "CIKELET",
+  "name": "AWASSAGARA",
+  "postalCode": "44177"
  }
 ]

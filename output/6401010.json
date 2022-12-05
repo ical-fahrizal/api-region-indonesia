@@ -2,46 +2,64 @@
  {
   "id": 6401010009,
   "districtId": 6401010,
-  "name": "SAMURANGAU"
+  "districtName": "BATU SOPANG",
+  "name": "SAMURANGAU",
+  "postalCode": "76252"
  },
  {
   "id": 6401010010,
   "districtId": 6401010,
-  "name": "BUSUI"
+  "districtName": "BATU SOPANG",
+  "name": "BUSUI",
+  "postalCode": "76252"
  },
  {
   "id": 6401010011,
   "districtId": 6401010,
-  "name": "BATU KAJANG"
+  "districtName": "BATU SOPANG",
+  "name": "BATU KAJANG",
+  "postalCode": "77554"
  },
  {
   "id": 6401010012,
   "districtId": 6401010,
-  "name": "LEGAI"
+  "districtName": "BATU SOPANG",
+  "name": "LEGAI",
+  "postalCode": "76252"
  },
  {
   "id": 6401010013,
   "districtId": 6401010,
-  "name": "SUNGAI TERIK"
+  "districtName": "BATU SOPANG",
+  "name": "SUNGAI TERIK",
+  "postalCode": ""
  },
  {
   "id": 6401010014,
   "districtId": 6401010,
-  "name": "KASUNGAI"
+  "districtName": "BATU SOPANG",
+  "name": "KASUNGAI",
+  "postalCode": "76252"
  },
  {
   "id": 6401010015,
   "districtId": 6401010,
-  "name": "RANTAU BUTA"
+  "districtName": "BATU SOPANG",
+  "name": "RANTAU BUTA",
+  "postalCode": "76252"
  },
  {
   "id": 6401010016,
   "districtId": 6401010,
-  "name": "RANTAU LAYUNG"
+  "districtName": "BATU SOPANG",
+  "name": "RANTAU LAYUNG",
+  "postalCode": "76252"
  },
  {
   "id": 6401010017,
   "districtId": 6401010,
-  "name": "SONGKA"
+  "districtName": "BATU SOPANG",
+  "name": "SONGKA",
+  "postalCode": "76252"
  }
 ]

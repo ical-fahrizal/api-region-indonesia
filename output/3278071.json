@@ -2,36 +2,50 @@
  {
   "id": 3278071001,
   "districtId": 3278071,
-  "name": "SUKAMULYA"
+  "districtName": "BUNGURSARI",
+  "name": "SUKAMULYA",
+  "postalCode": "30657"
  },
  {
   "id": 3278071002,
   "districtId": 3278071,
-  "name": "SUKARINDIK"
+  "districtName": "BUNGURSARI",
+  "name": "SUKARINDIK",
+  "postalCode": "46151"
  },
  {
   "id": 3278071003,
   "districtId": 3278071,
-  "name": "BUNGURSARI"
+  "districtName": "BUNGURSARI",
+  "name": "BUNGURSARI",
+  "postalCode": "41181"
  },
  {
   "id": 3278071004,
   "districtId": 3278071,
-  "name": "SUKAJAYA"
+  "districtName": "BUNGURSARI",
+  "name": "SUKAJAYA",
+  "postalCode": "30756"
  },
  {
   "id": 3278071005,
   "districtId": 3278071,
-  "name": "CIBUNIGEULIS"
+  "districtName": "BUNGURSARI",
+  "name": "CIBUNIGEULIS",
+  "postalCode": "46151"
  },
  {
   "id": 3278071006,
   "districtId": 3278071,
-  "name": "BANTARSARI"
+  "districtName": "BUNGURSARI",
+  "name": "BANTARSARI",
+  "postalCode": "46151"
  },
  {
   "id": 3278071007,
   "districtId": 3278071,
-  "name": "SUKALAKSANA"
+  "districtName": "BUNGURSARI",
+  "name": "SUKALAKSANA",
+  "postalCode": "44191"
  }
 ]

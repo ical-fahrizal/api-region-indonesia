@@ -2,66 +2,92 @@
  {
   "id": 1173020008,
   "districtId": 1173020,
-  "name": "LHOK BANIE"
+  "districtName": "LANGSA BARAT",
+  "name": "LHOK BANIE",
+  "postalCode": "24415"
  },
  {
   "id": 1173020009,
   "districtId": 1173020,
-  "name": "PAYA BUJOK TEUNGOH"
+  "districtName": "LANGSA BARAT",
+  "name": "PAYA BUJOK TEUNGOH",
+  "postalCode": "24415"
  },
  {
   "id": 1173020010,
   "districtId": 1173020,
-  "name": "PAYA BUJOK. BEURAMOE"
+  "districtName": "LANGSA BARAT",
+  "name": "PAYA BUJOK. BEURAMOE",
+  "postalCode": ""
  },
  {
   "id": 1173020011,
   "districtId": 1173020,
-  "name": "SIMPANG LHEE"
+  "districtName": "LANGSA BARAT",
+  "name": "SIMPANG LHEE",
+  "postalCode": "24457"
  },
  {
   "id": 1173020012,
   "districtId": 1173020,
-  "name": "SEURIGET"
+  "districtName": "LANGSA BARAT",
+  "name": "SEURIGET",
+  "postalCode": "24415"
  },
  {
   "id": 1173020019,
   "districtId": 1173020,
-  "name": "MATANG SEULIMENG"
+  "districtName": "LANGSA BARAT",
+  "name": "MATANG SEULIMENG",
+  "postalCode": "24413"
  },
  {
   "id": 1173020020,
   "districtId": 1173020,
-  "name": "SUNGAI PAUH"
+  "districtName": "LANGSA BARAT",
+  "name": "SUNGAI PAUH",
+  "postalCode": "24410"
  },
  {
   "id": 1173020021,
   "districtId": 1173020,
-  "name": "KUALA LANGSA"
+  "districtName": "LANGSA BARAT",
+  "name": "KUALA LANGSA",
+  "postalCode": "24410"
  },
  {
   "id": 1173020022,
   "districtId": 1173020,
-  "name": "TELAGA TUJUH"
+  "districtName": "LANGSA BARAT",
+  "name": "TELAGA TUJUH",
+  "postalCode": "24410"
  },
  {
   "id": 1173020023,
   "districtId": 1173020,
-  "name": "SERAMBI INDAH"
+  "districtName": "LANGSA BARAT",
+  "name": "SERAMBI INDAH",
+  "postalCode": "24410"
  },
  {
   "id": 1173020024,
   "districtId": 1173020,
-  "name": "SUNGAI PAUH PUSAKA"
+  "districtName": "LANGSA BARAT",
+  "name": "SUNGAI PAUH PUSAKA",
+  "postalCode": ""
  },
  {
   "id": 1173020025,
   "districtId": 1173020,
-  "name": "SUNGAI PAUH TANJONG"
+  "districtName": "LANGSA BARAT",
+  "name": "SUNGAI PAUH TANJONG",
+  "postalCode": ""
  },
  {
   "id": 1173020026,
   "districtId": 1173020,
-  "name": "SUNGAI PAUH FIRDAUS"
+  "districtName": "LANGSA BARAT",
+  "name": "SUNGAI PAUH FIRDAUS",
+  "postalCode": ""
  }
 ]

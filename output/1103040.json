@@ -2,106 +2,148 @@
  {
   "id": 1103040001,
   "districtId": 1103040,
-  "name": "KEDAI PADANG"
+  "districtName": "KLUET UTARA",
+  "name": "KEDAI PADANG",
+  "postalCode": "23771"
  },
  {
   "id": 1103040002,
   "districtId": 1103040,
-  "name": "PASI KUALA BAU"
+  "districtName": "KLUET UTARA",
+  "name": "PASI KUALA BAU",
+  "postalCode": "23771"
  },
  {
   "id": 1103040003,
   "districtId": 1103040,
-  "name": "SUAQ GERINGGENG"
+  "districtName": "KLUET UTARA",
+  "name": "SUAQ GERINGGENG",
+  "postalCode": ""
  },
  {
   "id": 1103040004,
   "districtId": 1103040,
-  "name": "SIMPANG LHEE"
+  "districtName": "KLUET UTARA",
+  "name": "SIMPANG LHEE",
+  "postalCode": "24457"
  },
  {
   "id": 1103040005,
   "districtId": 1103040,
-  "name": "SIMPANG EMPAT"
+  "districtName": "KLUET UTARA",
+  "name": "SIMPANG EMPAT",
+  "postalCode": "24313"
  },
  {
   "id": 1103040006,
   "districtId": 1103040,
-  "name": "JAMBO MANYANG"
+  "districtName": "KLUET UTARA",
+  "name": "JAMBO MANYANG",
+  "postalCode": "23771"
  },
  {
   "id": 1103040007,
   "districtId": 1103040,
-  "name": "LIMAU PURUT"
+  "districtName": "KLUET UTARA",
+  "name": "LIMAU PURUT",
+  "postalCode": ""
  },
  {
   "id": 1103040008,
   "districtId": 1103040,
-  "name": "PULO KAMBING"
+  "districtName": "KLUET UTARA",
+  "name": "PULO KAMBING",
+  "postalCode": "23771"
  },
  {
   "id": 1103040009,
   "districtId": 1103040,
-  "name": "KAMPUNG PAYA"
+  "districtName": "KLUET UTARA",
+  "name": "KAMPUNG PAYA",
+  "postalCode": "23771"
  },
  {
   "id": 1103040010,
   "districtId": 1103040,
-  "name": "KRUENG BATU"
+  "districtName": "KLUET UTARA",
+  "name": "KRUENG BATU",
+  "postalCode": "23771"
  },
  {
   "id": 1103040011,
   "districtId": 1103040,
-  "name": "GUNONG PULO"
+  "districtName": "KLUET UTARA",
+  "name": "GUNONG PULO",
+  "postalCode": "23652"
  },
  {
   "id": 1103040012,
   "districtId": 1103040,
-  "name": "PULO IE I"
+  "districtName": "KLUET UTARA",
+  "name": "PULO IE I",
+  "postalCode": "23771"
  },
  {
   "id": 1103040013,
   "districtId": 1103040,
-  "name": "KRUENG BATEE"
+  "districtName": "KLUET UTARA",
+  "name": "KRUENG BATEE",
+  "postalCode": "23771"
  },
  {
   "id": 1103040014,
   "districtId": 1103040,
-  "name": "PASI KUALA ASAHAN"
+  "districtName": "KLUET UTARA",
+  "name": "PASI KUALA ASAHAN",
+  "postalCode": "23771"
  },
  {
   "id": 1103040015,
   "districtId": 1103040,
-  "name": "FAJAR HARAPAN"
+  "districtName": "KLUET UTARA",
+  "name": "FAJAR HARAPAN",
+  "postalCode": "23771"
  },
  {
   "id": 1103040036,
   "districtId": 1103040,
-  "name": "KRUENG KLUET"
+  "districtName": "KLUET UTARA",
+  "name": "KRUENG KLUET",
+  "postalCode": "23771"
  },
  {
   "id": 1103040039,
   "districtId": 1103040,
-  "name": "ALUR MAS"
+  "districtName": "KLUET UTARA",
+  "name": "ALUR MAS",
+  "postalCode": "23771"
  },
  {
   "id": 1103040050,
   "districtId": 1103040,
-  "name": "KAMPUNG TINGGI"
+  "districtName": "KLUET UTARA",
+  "name": "KAMPUNG TINGGI",
+  "postalCode": "23771"
  },
  {
   "id": 1103040051,
   "districtId": 1103040,
-  "name": "KAMPUNG RUAK"
+  "districtName": "KLUET UTARA",
+  "name": "KAMPUNG RUAK",
+  "postalCode": "23771"
  },
  {
   "id": 1103040052,
   "districtId": 1103040,
-  "name": "KOTA FAJAR"
+  "districtName": "KLUET UTARA",
+  "name": "KOTA FAJAR",
+  "postalCode": ""
  },
  {
   "id": 1103040053,
   "districtId": 1103040,
-  "name": "GUNUNG PUDUNG"
+  "districtName": "KLUET UTARA",
+  "name": "GUNUNG PUDUNG",
+  "postalCode": "23771"
  }
 ]

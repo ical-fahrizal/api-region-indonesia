@@ -2,21 +2,29 @@
  {
   "id": 9404090009,
   "districtId": 9404090,
-  "name": "MASIPAWA"
+  "districtName": "NAPAN",
+  "name": "MASIPAWA",
+  "postalCode": "98861"
  },
  {
   "id": 9404090010,
   "districtId": 9404090,
-  "name": "NAPAN"
+  "districtName": "NAPAN",
+  "name": "NAPAN",
+  "postalCode": "85651"
  },
  {
   "id": 9404090011,
   "districtId": 9404090,
-  "name": "WEINAMI"
+  "districtName": "NAPAN",
+  "name": "WEINAMI",
+  "postalCode": "98861"
  },
  {
   "id": 9404090012,
   "districtId": 9404090,
-  "name": "MOSAN"
+  "districtName": "NAPAN",
+  "name": "MOSAN",
+  "postalCode": ""
  }
 ]

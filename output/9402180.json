@@ -2,46 +2,64 @@
  {
   "id": 9402180009,
   "districtId": 9402180,
-  "name": "ARABODA"
+  "districtName": "ASOLOGAIMA",
+  "name": "ARABODA",
+  "postalCode": "99554"
  },
  {
   "id": 9402180012,
   "districtId": 9402180,
-  "name": "KIMBIM"
+  "districtName": "ASOLOGAIMA",
+  "name": "KIMBIM",
+  "postalCode": "99554"
  },
  {
   "id": 9402180015,
   "districtId": 9402180,
-  "name": "WALAK"
+  "districtName": "ASOLOGAIMA",
+  "name": "WALAK",
+  "postalCode": "99554"
  },
  {
   "id": 9402180016,
   "districtId": 9402180,
-  "name": "LOGOT"
+  "districtName": "ASOLOGAIMA",
+  "name": "LOGOT",
+  "postalCode": ""
  },
  {
   "id": 9402180029,
   "districtId": 9402180,
-  "name": "MILIGATNEM"
+  "districtName": "ASOLOGAIMA",
+  "name": "MILIGATNEM",
+  "postalCode": "99554"
  },
  {
   "id": 9402180032,
   "districtId": 9402180,
-  "name": "WAWANCA"
+  "districtName": "ASOLOGAIMA",
+  "name": "WAWANCA",
+  "postalCode": "99554"
  },
  {
   "id": 9402180036,
   "districtId": 9402180,
-  "name": "LOKI"
+  "districtName": "ASOLOGAIMA",
+  "name": "LOKI",
+  "postalCode": "99554"
  },
  {
   "id": 9402180037,
   "districtId": 9402180,
-  "name": "KOMBAGWE"
+  "districtName": "ASOLOGAIMA",
+  "name": "KOMBAGWE",
+  "postalCode": "99554"
  },
  {
   "id": 9402180038,
   "districtId": 9402180,
-  "name": "WANGGONOMA"
+  "districtName": "ASOLOGAIMA",
+  "name": "WANGGONOMA",
+  "postalCode": "99554"
  }
 ]

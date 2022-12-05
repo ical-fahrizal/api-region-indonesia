@@ -2,51 +2,71 @@
  {
   "id": 1209011001,
   "districtId": 1209011,
-  "name": "UJUNG SARIBU"
+  "districtName": "PEMATANG SILIMAHUTA",
+  "name": "UJUNG SARIBU",
+  "postalCode": "21167"
  },
  {
   "id": 1209011002,
   "districtId": 1209011,
-  "name": "SILIMAKUTA BARAT"
+  "districtName": "PEMATANG SILIMAHUTA",
+  "name": "SILIMAKUTA BARAT",
+  "postalCode": "21167"
  },
  {
   "id": 1209011003,
   "districtId": 1209011,
-  "name": "SIBORAS"
+  "districtName": "PEMATANG SILIMAHUTA",
+  "name": "SIBORAS",
+  "postalCode": "21167"
  },
  {
   "id": 1209011004,
   "districtId": 1209011,
-  "name": "UJUNG MARIAH"
+  "districtName": "PEMATANG SILIMAHUTA",
+  "name": "UJUNG MARIAH",
+  "postalCode": "21167"
  },
  {
   "id": 1209011005,
   "districtId": 1209011,
-  "name": "MARDINDING"
+  "districtName": "PEMATANG SILIMAHUTA",
+  "name": "MARDINDING",
+  "postalCode": "21167"
  },
  {
   "id": 1209011006,
   "districtId": 1209011,
-  "name": "NAGA SARIBU"
+  "districtName": "PEMATANG SILIMAHUTA",
+  "name": "NAGA SARIBU",
+  "postalCode": "22756"
  },
  {
   "id": 1209011007,
   "districtId": 1209011,
-  "name": "SARIBUJANDI"
+  "districtName": "PEMATANG SILIMAHUTA",
+  "name": "SARIBUJANDI",
+  "postalCode": ""
  },
  {
   "id": 1209011008,
   "districtId": 1209011,
-  "name": "NAGA MARIAH"
+  "districtName": "PEMATANG SILIMAHUTA",
+  "name": "NAGA MARIAH",
+  "postalCode": "21167"
  },
  {
   "id": 1209011009,
   "districtId": 1209011,
-  "name": "BANDAR SARIBU"
+  "districtName": "PEMATANG SILIMAHUTA",
+  "name": "BANDAR SARIBU",
+  "postalCode": ""
  },
  {
   "id": 1209011010,
   "districtId": 1209011,
-  "name": "NAGA BOSAR"
+  "districtName": "PEMATANG SILIMAHUTA",
+  "name": "NAGA BOSAR",
+  "postalCode": ""
  }
 ]

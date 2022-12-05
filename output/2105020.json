@@ -2,21 +2,29 @@
  {
   "id": 2105020001,
   "districtId": 2105020,
-  "name": "ULU MARAS"
+  "districtName": "JEMAJA TIMUR",
+  "name": "ULU MARAS",
+  "postalCode": "29792"
  },
  {
   "id": 2105020002,
   "districtId": 2105020,
-  "name": "KUALA MARAS"
+  "districtName": "JEMAJA TIMUR",
+  "name": "KUALA MARAS",
+  "postalCode": "29792"
  },
  {
   "id": 2105020003,
   "districtId": 2105020,
-  "name": "BUKIT PADI"
+  "districtName": "JEMAJA TIMUR",
+  "name": "BUKIT PADI",
+  "postalCode": "29792"
  },
  {
   "id": 2105020004,
   "districtId": 2105020,
-  "name": "GENTING PULUR"
+  "districtName": "JEMAJA TIMUR",
+  "name": "GENTING PULUR",
+  "postalCode": "29792"
  }
 ]

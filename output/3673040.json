@@ -2,51 +2,71 @@
  {
   "id": 3673040001,
   "districtId": 3673040,
-  "name": "SERANG"
+  "districtName": "SERANG",
+  "name": "SERANG",
+  "postalCode": "17530"
  },
  {
   "id": 3673040002,
   "districtId": 3673040,
-  "name": "CIPARE"
+  "districtName": "SERANG",
+  "name": "CIPARE",
+  "postalCode": "42117"
  },
  {
   "id": 3673040004,
   "districtId": 3673040,
-  "name": "CIMUNCANG"
+  "districtName": "SERANG",
+  "name": "CIMUNCANG",
+  "postalCode": "44113"
  },
  {
   "id": 3673040005,
   "districtId": 3673040,
-  "name": "KOTABARU"
+  "districtName": "SERANG",
+  "name": "KOTABARU",
+  "postalCode": "46196"
  },
  {
   "id": 3673040006,
   "districtId": 3673040,
-  "name": "LONTARBARU"
+  "districtName": "SERANG",
+  "name": "LONTARBARU",
+  "postalCode": "42115"
  },
  {
   "id": 3673040007,
   "districtId": 3673040,
-  "name": "KAGUNGAN"
+  "districtName": "SERANG",
+  "name": "KAGUNGAN",
+  "postalCode": "35384"
  },
  {
   "id": 3673040008,
   "districtId": 3673040,
-  "name": "LOPANG"
+  "districtName": "SERANG",
+  "name": "LOPANG",
+  "postalCode": "62282"
  },
  {
   "id": 3673040010,
   "districtId": 3673040,
-  "name": "KALIGANDU"
+  "districtName": "SERANG",
+  "name": "KALIGANDU",
+  "postalCode": "42116"
  },
  {
   "id": 3673040011,
   "districtId": 3673040,
-  "name": "TERONDOL"
+  "districtName": "SERANG",
+  "name": "TERONDOL",
+  "postalCode": "42119"
  },
  {
   "id": 3673040012,
   "districtId": 3673040,
-  "name": "SUKAWANA"
+  "districtName": "SERANG",
+  "name": "SUKAWANA",
+  "postalCode": "45457"
  }
 ]

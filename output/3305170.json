@@ -2,51 +2,71 @@
  {
   "id": 3305170001,
   "districtId": 3305170,
-  "name": "REDISARI"
+  "districtName": "ROWOKELE",
+  "name": "REDISARI",
+  "postalCode": "54472"
  },
  {
   "id": 3305170002,
   "districtId": 3305170,
-  "name": "KALISARI"
+  "districtName": "ROWOKELE",
+  "name": "KALISARI",
+  "postalCode": "35686"
  },
  {
   "id": 3305170003,
   "districtId": 3305170,
-  "name": "PRINGTUTUL"
+  "districtName": "ROWOKELE",
+  "name": "PRINGTUTUL",
+  "postalCode": "54472"
  },
  {
   "id": 3305170004,
   "districtId": 3305170,
-  "name": "ROWOKELE"
+  "districtName": "ROWOKELE",
+  "name": "ROWOKELE",
+  "postalCode": "54472"
  },
  {
   "id": 3305170005,
   "districtId": 3305170,
-  "name": "BUMIAGUNG"
+  "districtName": "ROWOKELE",
+  "name": "BUMIAGUNG",
+  "postalCode": "30671"
  },
  {
   "id": 3305170006,
   "districtId": 3305170,
-  "name": "JATILUHUR"
+  "districtName": "ROWOKELE",
+  "name": "JATILUHUR",
+  "postalCode": "17425"
  },
  {
   "id": 3305170008,
   "districtId": 3305170,
-  "name": "SUKOMULYO"
+  "districtName": "ROWOKELE",
+  "name": "SUKOMULYO",
+  "postalCode": "32381"
  },
  {
   "id": 3305170009,
   "districtId": 3305170,
-  "name": "GIYANTI"
+  "districtName": "ROWOKELE",
+  "name": "GIYANTI",
+  "postalCode": "56191"
  },
  {
   "id": 3305170010,
   "districtId": 3305170,
-  "name": "WONOHARJO"
+  "districtName": "ROWOKELE",
+  "name": "WONOHARJO",
+  "postalCode": "38655"
  },
  {
   "id": 3305170011,
   "districtId": 3305170,
-  "name": "WAGIRPANDAN"
+  "districtName": "ROWOKELE",
+  "name": "WAGIRPANDAN",
+  "postalCode": "54472"
  }
 ]

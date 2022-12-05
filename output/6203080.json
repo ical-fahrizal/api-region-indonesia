@@ -2,41 +2,57 @@
  {
   "id": 6203080001,
   "districtId": 6203080,
-  "name": "MAMBULAU"
+  "districtName": "KAPUAS HILIR",
+  "name": "MAMBULAU",
+  "postalCode": "73521"
  },
  {
   "id": 6203080002,
   "districtId": 6203080,
-  "name": "HAMPATUNG"
+  "districtName": "KAPUAS HILIR",
+  "name": "HAMPATUNG",
+  "postalCode": "73522"
  },
  {
   "id": 6203080003,
   "districtId": 6203080,
-  "name": "DAHIRANG"
+  "districtName": "KAPUAS HILIR",
+  "name": "DAHIRANG",
+  "postalCode": "73523"
  },
  {
   "id": 6203080004,
   "districtId": 6203080,
-  "name": "BARIMBA"
+  "districtName": "KAPUAS HILIR",
+  "name": "BARIMBA",
+  "postalCode": "73524"
  },
  {
   "id": 6203080005,
   "districtId": 6203080,
-  "name": "SEI PASAH"
+  "districtName": "KAPUAS HILIR",
+  "name": "SEI PASAH",
+  "postalCode": ""
  },
  {
   "id": 6203080006,
   "districtId": 6203080,
-  "name": "BAKUNGIN"
+  "districtName": "KAPUAS HILIR",
+  "name": "BAKUNGIN",
+  "postalCode": "73525"
  },
  {
   "id": 6203080007,
   "districtId": 6203080,
-  "name": "SEI ASAM"
+  "districtName": "KAPUAS HILIR",
+  "name": "SEI ASAM",
+  "postalCode": ""
  },
  {
   "id": 6203080008,
   "districtId": 6203080,
-  "name": "SAKA BATUR"
+  "districtName": "KAPUAS HILIR",
+  "name": "SAKA BATUR",
+  "postalCode": "73525"
  }
 ]

@@ -2,51 +2,71 @@
  {
   "id": 3316070001,
   "districtId": 3316070,
-  "name": "NGLOBO"
+  "districtName": "JIKEN",
+  "name": "NGLOBO",
+  "postalCode": "58372"
  },
  {
   "id": 3316070002,
   "districtId": 3316070,
-  "name": "CABAK"
+  "districtName": "JIKEN",
+  "name": "CABAK",
+  "postalCode": "58372"
  },
  {
   "id": 3316070004,
   "districtId": 3316070,
-  "name": "JANJANG"
+  "districtName": "JIKEN",
+  "name": "JANJANG",
+  "postalCode": "58372"
  },
  {
   "id": 3316070005,
   "districtId": 3316070,
-  "name": "BLEBOH"
+  "districtName": "JIKEN",
+  "name": "BLEBOH",
+  "postalCode": "58372"
  },
  {
   "id": 3316070006,
   "districtId": 3316070,
-  "name": "KETRINGAN"
+  "districtName": "JIKEN",
+  "name": "KETRINGAN",
+  "postalCode": "58372"
  },
  {
   "id": 3316070007,
   "districtId": 3316070,
-  "name": "SINGONEGORO"
+  "districtName": "JIKEN",
+  "name": "SINGONEGORO",
+  "postalCode": "58372"
  },
  {
   "id": 3316070008,
   "districtId": 3316070,
-  "name": "JIKEN"
+  "districtName": "JIKEN",
+  "name": "JIKEN",
+  "postalCode": "58372"
  },
  {
   "id": 3316070009,
   "districtId": 3316070,
-  "name": "GENJAHAN"
+  "districtName": "JIKEN",
+  "name": "GENJAHAN",
+  "postalCode": "58372"
  },
  {
   "id": 3316070010,
   "districtId": 3316070,
-  "name": "JIWOREJO"
+  "districtName": "JIKEN",
+  "name": "JIWOREJO",
+  "postalCode": "58372"
  },
  {
   "id": 3316070011,
   "districtId": 3316070,
-  "name": "BANGOWAN"
+  "districtName": "JIKEN",
+  "name": "BANGOWAN",
+  "postalCode": "58372"
  }
 ]

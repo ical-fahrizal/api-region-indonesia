@@ -2,76 +2,106 @@
  {
   "id": 7409100009,
   "districtId": 7409100,
-  "name": "BONEGUNU(KIOKO)"
+  "districtName": "BONEGUNU",
+  "name": "BONEGUNU(KIOKO)",
+  "postalCode": ""
  },
  {
   "id": 7409100010,
   "districtId": 7409100,
-  "name": "LAANOIPI"
+  "districtName": "BONEGUNU",
+  "name": "LAANOIPI",
+  "postalCode": "93673"
  },
  {
   "id": 7409100011,
   "districtId": 7409100,
-  "name": "WAODE KALOWO"
+  "districtName": "BONEGUNU",
+  "name": "WAODE KALOWO",
+  "postalCode": "93673"
  },
  {
   "id": 7409100012,
   "districtId": 7409100,
-  "name": "BURANGA"
+  "districtName": "BONEGUNU",
+  "name": "BURANGA",
+  "postalCode": "94474"
  },
  {
   "id": 7409100013,
   "districtId": 7409100,
-  "name": "EEN SUMALA"
+  "districtName": "BONEGUNU",
+  "name": "EEN SUMALA",
+  "postalCode": "93673"
  },
  {
   "id": 7409100014,
   "districtId": 7409100,
-  "name": "WAODE ANGKALO"
+  "districtName": "BONEGUNU",
+  "name": "WAODE ANGKALO",
+  "postalCode": "93673"
  },
  {
   "id": 7409100015,
   "districtId": 7409100,
-  "name": "GUNUNG SARI"
+  "districtName": "BONEGUNU",
+  "name": "GUNUNG SARI",
+  "postalCode": "28471"
  },
  {
   "id": 7409100016,
   "districtId": 7409100,
-  "name": "RONTA"
+  "districtName": "BONEGUNU",
+  "name": "RONTA",
+  "postalCode": "94966"
  },
  {
   "id": 7409100017,
   "districtId": 7409100,
-  "name": "KOEPISINO"
+  "districtName": "BONEGUNU",
+  "name": "KOEPISINO",
+  "postalCode": "93673"
  },
  {
   "id": 7409100018,
   "districtId": 7409100,
-  "name": "LANGERE"
+  "districtName": "BONEGUNU",
+  "name": "LANGERE",
+  "postalCode": "93673"
  },
  {
   "id": 7409100019,
   "districtId": 7409100,
-  "name": "KOBORUNO"
+  "districtName": "BONEGUNU",
+  "name": "KOBORUNO",
+  "postalCode": "93673"
  },
  {
   "id": 7409100020,
   "districtId": 7409100,
-  "name": "DAMAI LABORONA"
+  "districtName": "BONEGUNU",
+  "name": "DAMAI LABORONA",
+  "postalCode": "93673"
  },
  {
   "id": 7409100021,
   "districtId": 7409100,
-  "name": "TOTOMBULI"
+  "districtName": "BONEGUNU",
+  "name": "TOTOMBULI",
+  "postalCode": ""
  },
  {
   "id": 7409100022,
   "districtId": 7409100,
-  "name": "NGAPAEA"
+  "districtName": "BONEGUNU",
+  "name": "NGAPAEA",
+  "postalCode": "94975"
  },
  {
   "id": 7409100023,
   "districtId": 7409100,
-  "name": "RANTE GOLA"
+  "districtName": "BONEGUNU",
+  "name": "RANTE GOLA",
+  "postalCode": "93673"
  }
 ]

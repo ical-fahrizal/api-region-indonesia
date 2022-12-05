@@ -2,26 +2,36 @@
  {
   "id": 1502065001,
   "districtId": 1502065,
-  "name": "KOTO BARU"
+  "districtName": "TABIR LINTAS",
+  "name": "KOTO BARU",
+  "postalCode": "27561"
  },
  {
   "id": 1502065002,
   "districtId": 1502065,
-  "name": "SIDO LEGO"
+  "districtName": "TABIR LINTAS",
+  "name": "SIDO LEGO",
+  "postalCode": "37353"
  },
  {
   "id": 1502065003,
   "districtId": 1502065,
-  "name": "TAMBANG BARU"
+  "districtName": "TABIR LINTAS",
+  "name": "TAMBANG BARU",
+  "postalCode": "37353"
  },
  {
   "id": 1502065004,
   "districtId": 1502065,
-  "name": "MENSANGO"
+  "districtName": "TABIR LINTAS",
+  "name": "MENSANGO",
+  "postalCode": ""
  },
  {
   "id": 1502065005,
   "districtId": 1502065,
-  "name": "SIDO HARJO"
+  "districtName": "TABIR LINTAS",
+  "name": "SIDO HARJO",
+  "postalCode": "37353"
  }
 ]

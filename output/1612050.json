@@ -2,76 +2,106 @@
  {
   "id": 1612050001,
   "districtId": 1612050,
-  "name": "TAMBAK"
+  "districtName": "PENUKAL UTARA",
+  "name": "TAMBAK",
+  "postalCode": "29335"
  },
  {
   "id": 1612050002,
   "districtId": 1612050,
-  "name": "SUKA RAMI"
+  "districtName": "PENUKAL UTARA",
+  "name": "SUKA RAMI",
+  "postalCode": "39152"
  },
  {
   "id": 1612050003,
   "districtId": 1612050,
-  "name": "TANJUNG BARU"
+  "districtName": "PENUKAL UTARA",
+  "name": "TANJUNG BARU",
+  "postalCode": "22742"
  },
  {
   "id": 1612050004,
   "districtId": 1612050,
-  "name": "MUARA IKAN"
+  "districtName": "PENUKAL UTARA",
+  "name": "MUARA IKAN",
+  "postalCode": "31315"
  },
  {
   "id": 1612050005,
   "districtId": 1612050,
-  "name": "KOTA BARU"
+  "districtName": "PENUKAL UTARA",
+  "name": "KOTA BARU",
+  "postalCode": "23125"
  },
  {
   "id": 1612050006,
   "districtId": 1612050,
-  "name": "TANDING MARGA"
+  "districtName": "PENUKAL UTARA",
+  "name": "TANDING MARGA",
+  "postalCode": "31315"
  },
  {
   "id": 1612050007,
   "districtId": 1612050,
-  "name": "KARANG TANDING"
+  "districtName": "PENUKAL UTARA",
+  "name": "KARANG TANDING",
+  "postalCode": "31591"
  },
  {
   "id": 1612050008,
   "districtId": 1612050,
-  "name": "LUBUK TAMPUI"
+  "districtName": "PENUKAL UTARA",
+  "name": "LUBUK TAMPUI",
+  "postalCode": "31315"
  },
  {
   "id": 1612050009,
   "districtId": 1612050,
-  "name": "PRABUMENANG"
+  "districtName": "PENUKAL UTARA",
+  "name": "PRABUMENANG",
+  "postalCode": "31315"
  },
  {
   "id": 1612050010,
   "districtId": 1612050,
-  "name": "TEMPIRAI SELATAN"
+  "districtName": "PENUKAL UTARA",
+  "name": "TEMPIRAI SELATAN",
+  "postalCode": "31315"
  },
  {
   "id": 1612050011,
   "districtId": 1612050,
-  "name": "TEMPIRAI UTARA"
+  "districtName": "PENUKAL UTARA",
+  "name": "TEMPIRAI UTARA",
+  "postalCode": "31315"
  },
  {
   "id": 1612050012,
   "districtId": 1612050,
-  "name": "TEMPIRAI TIMUR"
+  "districtName": "PENUKAL UTARA",
+  "name": "TEMPIRAI TIMUR",
+  "postalCode": "31315"
  },
  {
   "id": 1612050013,
   "districtId": 1612050,
-  "name": "TEMPIRAI"
+  "districtName": "PENUKAL UTARA",
+  "name": "TEMPIRAI",
+  "postalCode": "31315"
  },
  {
   "id": 1612050014,
   "districtId": 1612050,
-  "name": "MADU KINCING"
+  "districtName": "PENUKAL UTARA",
+  "name": "MADU KINCING",
+  "postalCode": ""
  },
  {
   "id": 1612050015,
   "districtId": 1612050,
-  "name": "TANDING JAYA"
+  "districtName": "PENUKAL UTARA",
+  "name": "TANDING JAYA",
+  "postalCode": ""
  }
 ]

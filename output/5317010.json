@@ -2,76 +2,106 @@
  {
   "id": 5317010007,
   "districtId": 5317010,
-  "name": "UMBU NGEDO"
+  "districtName": "KODI BANGEDO",
+  "name": "UMBU NGEDO",
+  "postalCode": "87262"
  },
  {
   "id": 5317010008,
   "districtId": 5317010,
-  "name": "WALLA NDIMU"
+  "districtName": "KODI BANGEDO",
+  "name": "WALLA NDIMU",
+  "postalCode": "87262"
  },
  {
   "id": 5317010009,
   "districtId": 5317010,
-  "name": "MATA KAPORE"
+  "districtName": "KODI BANGEDO",
+  "name": "MATA KAPORE",
+  "postalCode": "87262"
  },
  {
   "id": 5317010010,
   "districtId": 5317010,
-  "name": "WAI KADADA"
+  "districtName": "KODI BANGEDO",
+  "name": "WAI KADADA",
+  "postalCode": ""
  },
  {
   "id": 5317010011,
   "districtId": 5317010,
-  "name": "LETE LOKO"
+  "districtName": "KODI BANGEDO",
+  "name": "LETE LOKO",
+  "postalCode": "87262"
  },
  {
   "id": 5317010012,
   "districtId": 5317010,
-  "name": "DINJO"
+  "districtName": "KODI BANGEDO",
+  "name": "DINJO",
+  "postalCode": "87262"
  },
  {
   "id": 5317010013,
   "districtId": 5317010,
-  "name": "RADA LOKO"
+  "districtName": "KODI BANGEDO",
+  "name": "RADA LOKO",
+  "postalCode": "87262"
  },
  {
   "id": 5317010014,
   "districtId": 5317010,
-  "name": "WAIPADDI"
+  "districtName": "KODI BANGEDO",
+  "name": "WAIPADDI",
+  "postalCode": "87262"
  },
  {
   "id": 5317010015,
   "districtId": 5317010,
-  "name": "DELU DEPA"
+  "districtName": "KODI BANGEDO",
+  "name": "DELU DEPA",
+  "postalCode": "87262"
  },
  {
   "id": 5317010016,
   "districtId": 5317010,
-  "name": "MERAKEHE"
+  "districtName": "KODI BANGEDO",
+  "name": "MERAKEHE",
+  "postalCode": ""
  },
  {
   "id": 5317010017,
   "districtId": 5317010,
-  "name": "WAIKANINYO"
+  "districtName": "KODI BANGEDO",
+  "name": "WAIKANINYO",
+  "postalCode": "87262"
  },
  {
   "id": 5317010018,
   "districtId": 5317010,
-  "name": "ANA GOGKA"
+  "districtName": "KODI BANGEDO",
+  "name": "ANA GOGKA",
+  "postalCode": "87262"
  },
  {
   "id": 5317010019,
   "districtId": 5317010,
-  "name": "MALITI BONDO ATE"
+  "districtName": "KODI BANGEDO",
+  "name": "MALITI BONDO ATE",
+  "postalCode": ""
  },
  {
   "id": 5317010020,
   "districtId": 5317010,
-  "name": "ANA LEWE"
+  "districtName": "KODI BANGEDO",
+  "name": "ANA LEWE",
+  "postalCode": ""
  },
  {
   "id": 5317010021,
   "districtId": 5317010,
-  "name": "BONDO BALLA"
+  "districtName": "KODI BANGEDO",
+  "name": "BONDO BALLA",
+  "postalCode": ""
  }
 ]

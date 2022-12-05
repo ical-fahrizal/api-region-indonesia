@@ -2,76 +2,106 @@
  {
   "id": 7311160001,
   "districtId": 7311160,
-  "name": "LILINA AJANGALE"
+  "districtName": "ULAWENG",
+  "name": "LILINA AJANGALE",
+  "postalCode": "92762"
  },
  {
   "id": 7311160002,
   "districtId": 7311160,
-  "name": "TADANG PALIE"
+  "districtName": "ULAWENG",
+  "name": "TADANG PALIE",
+  "postalCode": "91262"
  },
  {
   "id": 7311160003,
   "districtId": 7311160,
-  "name": "CANI SIRENRENG"
+  "districtName": "ULAWENG",
+  "name": "CANI SIRENRENG",
+  "postalCode": "92762"
  },
  {
   "id": 7311160004,
   "districtId": 7311160,
-  "name": "SAPPE WALIE"
+  "districtName": "ULAWENG",
+  "name": "SAPPE WALIE",
+  "postalCode": "92762"
  },
  {
   "id": 7311160005,
   "districtId": 7311160,
-  "name": "MANURUNGE"
+  "districtName": "ULAWENG",
+  "name": "MANURUNGE",
+  "postalCode": "92762"
  },
  {
   "id": 7311160006,
   "districtId": 7311160,
-  "name": "CINNONG"
+  "districtName": "ULAWENG",
+  "name": "CINNONG",
+  "postalCode": "92771"
  },
  {
   "id": 7311160007,
   "districtId": 7311160,
-  "name": "ULAWENG CINNONG"
+  "districtName": "ULAWENG",
+  "name": "ULAWENG CINNONG",
+  "postalCode": "92762"
  },
  {
   "id": 7311160008,
   "districtId": 7311160,
-  "name": "PALLAWA RUKKA"
+  "districtName": "ULAWENG",
+  "name": "PALLAWA RUKKA",
+  "postalCode": "92762"
  },
  {
   "id": 7311160009,
   "districtId": 7311160,
-  "name": "JOMPIE"
+  "districtName": "ULAWENG",
+  "name": "JOMPIE",
+  "postalCode": "92762"
  },
  {
   "id": 7311160010,
   "districtId": 7311160,
-  "name": "LAMAKKARASENG"
+  "districtName": "ULAWENG",
+  "name": "LAMAKKARASENG",
+  "postalCode": "92762"
  },
  {
   "id": 7311160011,
   "districtId": 7311160,
-  "name": "MULA MENREE"
+  "districtName": "ULAWENG",
+  "name": "MULA MENREE",
+  "postalCode": "92762"
  },
  {
   "id": 7311160012,
   "districtId": 7311160,
-  "name": "GALUNG"
+  "districtName": "ULAWENG",
+  "name": "GALUNG",
+  "postalCode": "90711"
  },
  {
   "id": 7311160013,
   "districtId": 7311160,
-  "name": "TEA MALALA"
+  "districtName": "ULAWENG",
+  "name": "TEA MALALA",
+  "postalCode": "92762"
  },
  {
   "id": 7311160014,
   "districtId": 7311160,
-  "name": "TIMUSU"
+  "districtName": "ULAWENG",
+  "name": "TIMUSU",
+  "postalCode": "90861"
  },
  {
   "id": 7311160015,
   "districtId": 7311160,
-  "name": "TEAMUSU"
+  "districtName": "ULAWENG",
+  "name": "TEAMUSU",
+  "postalCode": "92762"
  }
 ]

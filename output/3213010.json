@@ -2,31 +2,43 @@
  {
   "id": 3213010003,
   "districtId": 3213010,
-  "name": "SUKAMANDI"
+  "districtName": "SAGALAHERANG",
+  "name": "SUKAMANDI",
+  "postalCode": "22173"
  },
  {
   "id": 3213010004,
   "districtId": 3213010,
-  "name": "CICADAS"
+  "districtName": "SAGALAHERANG",
+  "name": "CICADAS",
+  "postalCode": "41151"
  },
  {
   "id": 3213010005,
   "districtId": 3213010,
-  "name": "SAGALAHERANG"
+  "districtName": "SAGALAHERANG",
+  "name": "SAGALAHERANG",
+  "postalCode": "46255"
  },
  {
   "id": 3213010006,
   "districtId": 3213010,
-  "name": "DAYEUHKOLOT"
+  "districtName": "SAGALAHERANG",
+  "name": "DAYEUHKOLOT",
+  "postalCode": "40258"
  },
  {
   "id": 3213010012,
   "districtId": 3213010,
-  "name": "SAGALAHERANG KALER"
+  "districtName": "SAGALAHERANG",
+  "name": "SAGALAHERANG KALER",
+  "postalCode": "41282"
  },
  {
   "id": 3213010013,
   "districtId": 3213010,
-  "name": "CURUGAGUNG"
+  "districtName": "SAGALAHERANG",
+  "name": "CURUGAGUNG",
+  "postalCode": "41282"
  }
 ]

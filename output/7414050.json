@@ -2,71 +2,99 @@
  {
   "id": 7414050001,
   "districtId": 7414050,
-  "name": "MADONGKA"
+  "districtName": "LAKUDO",
+  "name": "MADONGKA",
+  "postalCode": "93763"
  },
  {
   "id": 7414050002,
   "districtId": 7414050,
-  "name": "WAARA"
+  "districtName": "LAKUDO",
+  "name": "WAARA",
+  "postalCode": "93763"
  },
  {
   "id": 7414050003,
   "districtId": 7414050,
-  "name": "BONEOGE"
+  "districtName": "LAKUDO",
+  "name": "BONEOGE",
+  "postalCode": "94351"
  },
  {
   "id": 7414050004,
   "districtId": 7414050,
-  "name": "NEPA MEKAR"
+  "districtName": "LAKUDO",
+  "name": "NEPA MEKAR",
+  "postalCode": "93763"
  },
  {
   "id": 7414050005,
   "districtId": 7414050,
-  "name": "GU TIMUR"
+  "districtName": "LAKUDO",
+  "name": "GU TIMUR",
+  "postalCode": ""
  },
  {
   "id": 7414050006,
   "districtId": 7414050,
-  "name": "LAKUDO"
+  "districtName": "LAKUDO",
+  "name": "LAKUDO",
+  "postalCode": "93763"
  },
  {
   "id": 7414050007,
   "districtId": 7414050,
-  "name": "MATAWINE"
+  "districtName": "LAKUDO",
+  "name": "MATAWINE",
+  "postalCode": "93763"
  },
  {
   "id": 7414050008,
   "districtId": 7414050,
-  "name": "MONE"
+  "districtName": "LAKUDO",
+  "name": "MONE",
+  "postalCode": "93763"
  },
  {
   "id": 7414050009,
   "districtId": 7414050,
-  "name": "MOKO"
+  "districtName": "LAKUDO",
+  "name": "MOKO",
+  "postalCode": "93763"
  },
  {
   "id": 7414050010,
   "districtId": 7414050,
-  "name": "WAJOGU"
+  "districtName": "LAKUDO",
+  "name": "WAJOGU",
+  "postalCode": "93763"
  },
  {
   "id": 7414050012,
   "districtId": 7414050,
-  "name": "LOLIBU"
+  "districtName": "LAKUDO",
+  "name": "LOLIBU",
+  "postalCode": "93763"
  },
  {
   "id": 7414050013,
   "districtId": 7414050,
-  "name": "WONGKO LAKUDO"
+  "districtName": "LAKUDO",
+  "name": "WONGKO LAKUDO",
+  "postalCode": "93763"
  },
  {
   "id": 7414050014,
   "districtId": 7414050,
-  "name": "ONE WAARA"
+  "districtName": "LAKUDO",
+  "name": "ONE WAARA",
+  "postalCode": "93763"
  },
  {
   "id": 7414050015,
   "districtId": 7414050,
-  "name": "TELUK LASONGKO"
+  "districtName": "LAKUDO",
+  "name": "TELUK LASONGKO",
+  "postalCode": ""
  }
 ]

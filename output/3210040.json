@@ -2,86 +2,120 @@
  {
   "id": 3210040001,
   "districtId": 3210040,
-  "name": "MARGAMUKTI"
+  "districtName": "TALAGA",
+  "name": "MARGAMUKTI",
+  "postalCode": "45582"
  },
  {
   "id": 3210040002,
   "districtId": 3210040,
-  "name": "CIBEUREUM"
+  "districtName": "TALAGA",
+  "name": "CIBEUREUM",
+  "postalCode": "46313"
  },
  {
   "id": 3210040003,
   "districtId": 3210040,
-  "name": "CIKEUSAL"
+  "districtName": "TALAGA",
+  "name": "CIKEUSAL",
+  "postalCode": "45582"
  },
  {
   "id": 3210040004,
   "districtId": 3210040,
-  "name": "JATIPAMOR"
+  "districtName": "TALAGA",
+  "name": "JATIPAMOR",
+  "postalCode": "45459"
  },
  {
   "id": 3210040005,
   "districtId": 3210040,
-  "name": "CICANIR"
+  "districtName": "TALAGA",
+  "name": "CICANIR",
+  "postalCode": "45463"
  },
  {
   "id": 3210040006,
   "districtId": 3210040,
-  "name": "CAMPAGA"
+  "districtName": "TALAGA",
+  "name": "CAMPAGA",
+  "postalCode": "45463"
  },
  {
   "id": 3210040007,
   "districtId": 3210040,
-  "name": "LAMPUYANG"
+  "districtName": "TALAGA",
+  "name": "LAMPUYANG",
+  "postalCode": "23391"
  },
  {
   "id": 3210040008,
   "districtId": 3210040,
-  "name": "MEKARRAHARJA"
+  "districtName": "TALAGA",
+  "name": "MEKARRAHARJA",
+  "postalCode": "45463"
  },
  {
   "id": 3210040009,
   "districtId": 3210040,
-  "name": "TALAGAKULON"
+  "districtName": "TALAGA",
+  "name": "TALAGAKULON",
+  "postalCode": "45463"
  },
  {
   "id": 3210040010,
   "districtId": 3210040,
-  "name": "TALAGAWETAN"
+  "districtName": "TALAGA",
+  "name": "TALAGAWETAN",
+  "postalCode": "45463"
  },
  {
   "id": 3210040011,
   "districtId": 3210040,
-  "name": "SALADO"
+  "districtName": "TALAGA",
+  "name": "SALADO",
+  "postalCode": "45463"
  },
  {
   "id": 3210040012,
   "districtId": 3210040,
-  "name": "ARGASARI"
+  "districtName": "TALAGA",
+  "name": "ARGASARI",
+  "postalCode": "46122"
  },
  {
   "id": 3210040013,
   "districtId": 3210040,
-  "name": "GUNUNGMANIK"
+  "districtName": "TALAGA",
+  "name": "GUNUNGMANIK",
+  "postalCode": "45565"
  },
  {
   "id": 3210040014,
   "districtId": 3210040,
-  "name": "GANEAS"
+  "districtName": "TALAGA",
+  "name": "GANEAS",
+  "postalCode": "45356"
  },
  {
   "id": 3210040015,
   "districtId": 3210040,
-  "name": "SUKAPERNA"
+  "districtName": "TALAGA",
+  "name": "SUKAPERNA",
+  "postalCode": "45463"
  },
  {
   "id": 3210040016,
   "districtId": 3210040,
-  "name": "KERTARAHAYU"
+  "districtName": "TALAGA",
+  "name": "KERTARAHAYU",
+  "postalCode": "41356"
  },
  {
   "id": 3210040017,
   "districtId": 3210040,
-  "name": "MEKARHURIP"
+  "districtName": "TALAGA",
+  "name": "MEKARHURIP",
+  "postalCode": "44184"
  }
 ]

@@ -2,61 +2,85 @@
  {
   "id": 7202071001,
   "districtId": 7202071,
-  "name": "TANGEBAN"
+  "districtName": "MASAMA",
+  "name": "TANGEBAN",
+  "postalCode": ""
  },
  {
   "id": 7202071002,
   "districtId": 7202071,
-  "name": "TAUGI"
+  "districtName": "MASAMA",
+  "name": "TAUGI",
+  "postalCode": "94772"
  },
  {
   "id": 7202071003,
   "districtId": 7202071,
-  "name": "KOSPA DWATA KARYA"
+  "districtName": "MASAMA",
+  "name": "KOSPA DWATA KARYA",
+  "postalCode": ""
  },
  {
   "id": 7202071004,
   "districtId": 7202071,
-  "name": "SIMPANGAN"
+  "districtName": "MASAMA",
+  "name": "SIMPANGAN",
+  "postalCode": "32264"
  },
  {
   "id": 7202071006,
   "districtId": 7202071,
-  "name": "MINANGANDALA"
+  "districtName": "MASAMA",
+  "name": "MINANGANDALA",
+  "postalCode": "94772"
  },
  {
   "id": 7202071007,
   "districtId": 7202071,
-  "name": "PURWO AGUNG"
+  "districtName": "MASAMA",
+  "name": "PURWO AGUNG",
+  "postalCode": "94772"
  },
  {
   "id": 7202071008,
   "districtId": 7202071,
-  "name": "KEMBANG MERTA"
+  "districtName": "MASAMA",
+  "name": "KEMBANG MERTA",
+  "postalCode": ""
  },
  {
   "id": 7202071009,
   "districtId": 7202071,
-  "name": "TOMPOTIKA MAKMUR"
+  "districtName": "MASAMA",
+  "name": "TOMPOTIKA MAKMUR",
+  "postalCode": "94772"
  },
  {
   "id": 7202071011,
   "districtId": 7202071,
-  "name": "DUATA KARYA"
+  "districtName": "MASAMA",
+  "name": "DUATA KARYA",
+  "postalCode": "94772"
  },
  {
   "id": 7202071012,
   "districtId": 7202071,
-  "name": "CEMERLANG"
+  "districtName": "MASAMA",
+  "name": "CEMERLANG",
+  "postalCode": "94772"
  },
  {
   "id": 7202071013,
   "districtId": 7202071,
-  "name": "PADANGON"
+  "districtName": "MASAMA",
+  "name": "PADANGON",
+  "postalCode": ""
  },
  {
   "id": 7202071014,
   "districtId": 7202071,
-  "name": "RANGA-RANGA"
+  "districtName": "MASAMA",
+  "name": "RANGA-RANGA",
+  "postalCode": ""
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 8206011001,
   "districtId": 8206011,
-  "name": "MABA SANGAJI"
+  "districtName": "KOTA MABA",
+  "name": "MABA SANGAJI",
+  "postalCode": ""
  },
  {
   "id": 8206011002,
   "districtId": 8206011,
-  "name": "SOA GIMALAHA"
+  "districtName": "KOTA MABA",
+  "name": "SOA GIMALAHA",
+  "postalCode": "97862"
  },
  {
   "id": 8206011003,
   "districtId": 8206011,
-  "name": "WAILUKUM"
+  "districtName": "KOTA MABA",
+  "name": "WAILUKUM",
+  "postalCode": "97862"
  },
  {
   "id": 8206011004,
   "districtId": 8206011,
-  "name": "SOA SANGAJI"
+  "districtName": "KOTA MABA",
+  "name": "SOA SANGAJI",
+  "postalCode": "97862"
  },
  {
   "id": 8206011005,
   "districtId": 8206011,
-  "name": "SOA LAIPOH"
+  "districtName": "KOTA MABA",
+  "name": "SOA LAIPOH",
+  "postalCode": "97862"
  },
  {
   "id": 8206011006,
   "districtId": 8206011,
-  "name": "TEWIL"
+  "districtName": "KOTA MABA",
+  "name": "TEWIL",
+  "postalCode": "97862"
  }
 ]

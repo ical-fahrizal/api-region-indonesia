@@ -2,81 +2,113 @@
  {
   "id": 3516120001,
   "districtId": 3516120,
-  "name": "PAKIS"
+  "districtName": "TROWULAN",
+  "name": "PAKIS",
+  "postalCode": "50772"
  },
  {
   "id": 3516120002,
   "districtId": 3516120,
-  "name": "SENTONOREJO"
+  "districtName": "TROWULAN",
+  "name": "SENTONOREJO",
+  "postalCode": "61362"
  },
  {
   "id": 3516120003,
   "districtId": 3516120,
-  "name": "TEMON"
+  "districtName": "TROWULAN",
+  "name": "TEMON",
+  "postalCode": "57673"
  },
  {
   "id": 3516120004,
   "districtId": 3516120,
-  "name": "BELOH"
+  "districtName": "TROWULAN",
+  "name": "BELOH",
+  "postalCode": "61362"
  },
  {
   "id": 3516120005,
   "districtId": 3516120,
-  "name": "DOMAS"
+  "districtName": "TROWULAN",
+  "name": "DOMAS",
+  "postalCode": "57697"
  },
  {
   "id": 3516120006,
   "districtId": 3516120,
-  "name": "JAMBUWOK"
+  "districtName": "TROWULAN",
+  "name": "JAMBUWOK",
+  "postalCode": "61362"
  },
  {
   "id": 3516120007,
   "districtId": 3516120,
-  "name": "WATESUMPAK"
+  "districtName": "TROWULAN",
+  "name": "WATESUMPAK",
+  "postalCode": "61362"
  },
  {
   "id": 3516120008,
   "districtId": 3516120,
-  "name": "JATIPASAR"
+  "districtName": "TROWULAN",
+  "name": "JATIPASAR",
+  "postalCode": "61362"
  },
  {
   "id": 3516120009,
   "districtId": 3516120,
-  "name": "TROWULAN"
+  "districtName": "TROWULAN",
+  "name": "TROWULAN",
+  "postalCode": "61362"
  },
  {
   "id": 3516120010,
   "districtId": 3516120,
-  "name": "BEJIJONG"
+  "districtName": "TROWULAN",
+  "name": "BEJIJONG",
+  "postalCode": "61362"
  },
  {
   "id": 3516120011,
   "districtId": 3516120,
-  "name": "KEJAGAN"
+  "districtName": "TROWULAN",
+  "name": "KEJAGAN",
+  "postalCode": "61362"
  },
  {
   "id": 3516120012,
   "districtId": 3516120,
-  "name": "WONOREJO"
+  "districtName": "TROWULAN",
+  "name": "WONOREJO",
+  "postalCode": "21186"
  },
  {
   "id": 3516120013,
   "districtId": 3516120,
-  "name": "PANGGIH"
+  "districtName": "TROWULAN",
+  "name": "PANGGIH",
+  "postalCode": "61362"
  },
  {
   "id": 3516120014,
   "districtId": 3516120,
-  "name": "TAWANGSARI"
+  "districtName": "TROWULAN",
+  "name": "TAWANGSARI",
+  "postalCode": "45365"
  },
  {
   "id": 3516120015,
   "districtId": 3516120,
-  "name": "BALONGWONO"
+  "districtName": "TROWULAN",
+  "name": "BALONGWONO",
+  "postalCode": "61362"
  },
  {
   "id": 3516120016,
   "districtId": 3516120,
-  "name": "BICAK"
+  "districtName": "TROWULAN",
+  "name": "BICAK",
+  "postalCode": "58256"
  }
 ]

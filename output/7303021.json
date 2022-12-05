@@ -2,46 +2,64 @@
  {
   "id": 7303021001,
   "districtId": 7303021,
-  "name": "ULUGALUNG"
+  "districtName": "EREMERASA",
+  "name": "ULUGALUNG",
+  "postalCode": "92414"
  },
  {
   "id": 7303021002,
   "districtId": 7303021,
-  "name": "MAMAMPANG"
+  "districtName": "EREMERASA",
+  "name": "MAMAMPANG",
+  "postalCode": "92415"
  },
  {
   "id": 7303021003,
   "districtId": 7303021,
-  "name": "MAPPILAWING"
+  "districtName": "EREMERASA",
+  "name": "MAPPILAWING",
+  "postalCode": "92415"
  },
  {
   "id": 7303021004,
   "districtId": 7303021,
-  "name": "LONRONG"
+  "districtName": "EREMERASA",
+  "name": "LONRONG",
+  "postalCode": "92415"
  },
  {
   "id": 7303021005,
   "districtId": 7303021,
-  "name": "BARUA"
+  "districtName": "EREMERASA",
+  "name": "BARUA",
+  "postalCode": "92415"
  },
  {
   "id": 7303021006,
   "districtId": 7303021,
-  "name": "KAMPALA"
+  "districtName": "EREMERASA",
+  "name": "KAMPALA",
+  "postalCode": "92361"
  },
  {
   "id": 7303021007,
   "districtId": 7303021,
-  "name": "PA'BENTENGAN"
+  "districtName": "EREMERASA",
+  "name": "PA'BENTENGAN",
+  "postalCode": ""
  },
  {
   "id": 7303021008,
   "districtId": 7303021,
-  "name": "PARANGLOE"
+  "districtName": "EREMERASA",
+  "name": "PARANGLOE",
+  "postalCode": "90244"
  },
  {
   "id": 7303021009,
   "districtId": 7303021,
-  "name": "PA'BUMBUNGAN"
+  "districtName": "EREMERASA",
+  "name": "PA'BUMBUNGAN",
+  "postalCode": ""
  }
 ]

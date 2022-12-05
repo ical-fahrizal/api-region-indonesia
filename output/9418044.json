@@ -2,51 +2,71 @@
  {
   "id": 9418044001,
   "districtId": 9418044,
-  "name": "GAGULINERI"
+  "districtName": "POGANERI",
+  "name": "GAGULINERI",
+  "postalCode": "99569"
  },
  {
   "id": 9418044002,
   "districtId": 9418044,
-  "name": "TELEKONOK"
+  "districtName": "POGANERI",
+  "name": "TELEKONOK",
+  "postalCode": "99569"
  },
  {
   "id": 9418044003,
   "districtId": 9418044,
-  "name": "KUOKLANGGUNIK"
+  "districtName": "POGANERI",
+  "name": "KUOKLANGGUNIK",
+  "postalCode": "99569"
  },
  {
   "id": 9418044004,
   "districtId": 9418044,
-  "name": "BOGOKILA"
+  "districtName": "POGANERI",
+  "name": "BOGOKILA",
+  "postalCode": "99569"
  },
  {
   "id": 9418044005,
   "districtId": 9418044,
-  "name": "MABUK"
+  "districtName": "POGANERI",
+  "name": "MABUK",
+  "postalCode": "99569"
  },
  {
   "id": 9418044006,
   "districtId": 9418044,
-  "name": "NUGARI"
+  "districtName": "POGANERI",
+  "name": "NUGARI",
+  "postalCode": "99569"
  },
  {
   "id": 9418044007,
   "districtId": 9418044,
-  "name": "GENAGE"
+  "districtName": "POGANERI",
+  "name": "GENAGE",
+  "postalCode": "99569"
  },
  {
   "id": 9418044008,
   "districtId": 9418044,
-  "name": "GINDUGUNIK"
+  "districtName": "POGANERI",
+  "name": "GINDUGUNIK",
+  "postalCode": "99569"
  },
  {
   "id": 9418044009,
   "districtId": 9418044,
-  "name": "TIGIR"
+  "districtName": "POGANERI",
+  "name": "TIGIR",
+  "postalCode": "99562"
  },
  {
   "id": 9418044010,
   "districtId": 9418044,
-  "name": "KONENGGA"
+  "districtName": "POGANERI",
+  "name": "KONENGGA",
+  "postalCode": "99569"
  }
 ]

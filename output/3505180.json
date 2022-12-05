@@ -2,51 +2,71 @@
  {
   "id": 3505180001,
   "districtId": 3505180,
-  "name": "PLOSOARANG"
+  "districtName": "SANANKULON",
+  "name": "PLOSOARANG",
+  "postalCode": "66151"
  },
  {
   "id": 3505180002,
   "districtId": 3505180,
-  "name": "TULISKRIYO"
+  "districtName": "SANANKULON",
+  "name": "TULISKRIYO",
+  "postalCode": "66151"
  },
  {
   "id": 3505180003,
   "districtId": 3505180,
-  "name": "BENDOWULUNG"
+  "districtName": "SANANKULON",
+  "name": "BENDOWULUNG",
+  "postalCode": "66151"
  },
  {
   "id": 3505180004,
   "districtId": 3505180,
-  "name": "PURWOREJO"
+  "districtName": "SANANKULON",
+  "name": "PURWOREJO",
+  "postalCode": "23661"
  },
  {
   "id": 3505180005,
   "districtId": 3505180,
-  "name": "BENDOSARI"
+  "districtName": "SANANKULON",
+  "name": "BENDOSARI",
+  "postalCode": "57528"
  },
  {
   "id": 3505180006,
   "districtId": 3505180,
-  "name": "SANANKULON"
+  "districtName": "SANANKULON",
+  "name": "SANANKULON",
+  "postalCode": "66151"
  },
  {
   "id": 3505180007,
   "districtId": 3505180,
-  "name": "KALIPUCUNG"
+  "districtName": "SANANKULON",
+  "name": "KALIPUCUNG",
+  "postalCode": "66151"
  },
  {
   "id": 3505180009,
   "districtId": 3505180,
-  "name": "SUMBERJO"
+  "districtName": "SANANKULON",
+  "name": "SUMBERJO",
+  "postalCode": "34396"
  },
  {
   "id": 3505180010,
   "districtId": 3505180,
-  "name": "JEDING"
+  "districtName": "SANANKULON",
+  "name": "JEDING",
+  "postalCode": "66151"
  },
  {
   "id": 3505180012,
   "districtId": 3505180,
-  "name": "SUMBERINGIN"
+  "districtName": "SANANKULON",
+  "name": "SUMBERINGIN",
+  "postalCode": "66361"
  }
 ]

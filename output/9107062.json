@@ -2,21 +2,29 @@
  {
   "id": 9107062001,
   "districtId": 9107062,
-  "name": "SELEKOBO"
+  "districtName": "SAENGKEDUK",
+  "name": "SELEKOBO",
+  "postalCode": "98472"
  },
  {
   "id": 9107062004,
   "districtId": 9107062,
-  "name": "KLAMEDE"
+  "districtName": "SAENGKEDUK",
+  "name": "KLAMEDE",
+  "postalCode": ""
  },
  {
   "id": 9107062005,
   "districtId": 9107062,
-  "name": "SAMBATIE"
+  "districtName": "SAENGKEDUK",
+  "name": "SAMBATIE",
+  "postalCode": ""
  },
  {
   "id": 9107062006,
   "districtId": 9107062,
-  "name": "KLAGELE"
+  "districtName": "SAENGKEDUK",
+  "name": "KLAGELE",
+  "postalCode": ""
  }
 ]

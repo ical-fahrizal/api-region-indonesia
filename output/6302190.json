@@ -2,51 +2,71 @@
  {
   "id": 6302190001,
   "districtId": 6302190,
-  "name": "SEPAPAH"
+  "districtName": "SAMPANAHAN",
+  "name": "SEPAPAH",
+  "postalCode": "72166"
  },
  {
   "id": 6302190002,
   "districtId": 6302190,
-  "name": "BANJARSARI"
+  "districtName": "SAMPANAHAN",
+  "name": "BANJARSARI",
+  "postalCode": "35377"
  },
  {
   "id": 6302190003,
   "districtId": 6302190,
-  "name": "SUNGAI BETUNG"
+  "districtName": "SAMPANAHAN",
+  "name": "SUNGAI BETUNG",
+  "postalCode": ""
  },
  {
   "id": 6302190004,
   "districtId": 6302190,
-  "name": "SAMPANAHAN HILIR"
+  "districtName": "SAMPANAHAN",
+  "name": "SAMPANAHAN HILIR",
+  "postalCode": "72166"
  },
  {
   "id": 6302190005,
   "districtId": 6302190,
-  "name": "SUKAMAJU"
+  "districtName": "SAMPANAHAN",
+  "name": "SUKAMAJU",
+  "postalCode": "22465"
  },
  {
   "id": 6302190006,
   "districtId": 6302190,
-  "name": "SAMPANAHAN"
+  "districtName": "SAMPANAHAN",
+  "name": "SAMPANAHAN",
+  "postalCode": "72166"
  },
  {
   "id": 6302190007,
   "districtId": 6302190,
-  "name": "GUNUNG BATU BESAR"
+  "districtName": "SAMPANAHAN",
+  "name": "GUNUNG BATU BESAR",
+  "postalCode": "72166"
  },
  {
   "id": 6302190008,
   "districtId": 6302190,
-  "name": "BASUANG"
+  "districtName": "SAMPANAHAN",
+  "name": "BASUANG",
+  "postalCode": "72166"
  },
  {
   "id": 6302190009,
   "districtId": 6302190,
-  "name": "PAPAAN"
+  "districtName": "SAMPANAHAN",
+  "name": "PAPAAN",
+  "postalCode": "72166"
  },
  {
   "id": 6302190010,
   "districtId": 6302190,
-  "name": "RAMPA MANUNGGUL"
+  "districtName": "SAMPANAHAN",
+  "name": "RAMPA MANUNGGUL",
+  "postalCode": "72166"
  }
 ]

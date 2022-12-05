@@ -2,86 +2,120 @@
  {
   "id": 1505030001,
   "districtId": 1505030,
-  "name": "PUDING"
+  "districtName": "KUMPEH",
+  "name": "PUDING",
+  "postalCode": "36371"
  },
  {
   "id": 1505030002,
   "districtId": 1505030,
-  "name": "PULAU MENTARO"
+  "districtName": "KUMPEH",
+  "name": "PULAU MENTARO",
+  "postalCode": "36371"
  },
  {
   "id": 1505030003,
   "districtId": 1505030,
-  "name": "MEKAR SARI"
+  "districtName": "KUMPEH",
+  "name": "MEKAR SARI",
+  "postalCode": "21261"
  },
  {
   "id": 1505030006,
   "districtId": 1505030,
-  "name": "BETUNG"
+  "districtName": "KUMPEH",
+  "name": "BETUNG",
+  "postalCode": "28382"
  },
  {
   "id": 1505030007,
   "districtId": 1505030,
-  "name": "PEMATANG RAMAN"
+  "districtName": "KUMPEH",
+  "name": "PEMATANG RAMAN",
+  "postalCode": "36371"
  },
  {
   "id": 1505030008,
   "districtId": 1505030,
-  "name": "PETANANG"
+  "districtName": "KUMPEH",
+  "name": "PETANANG",
+  "postalCode": "36371"
  },
  {
   "id": 1505030009,
   "districtId": 1505030,
-  "name": "SUNGAI BUNGUR"
+  "districtName": "KUMPEH",
+  "name": "SUNGAI BUNGUR",
+  "postalCode": "36371"
  },
  {
   "id": 1505030010,
   "districtId": 1505030,
-  "name": "SEPONJEN"
+  "districtName": "KUMPEH",
+  "name": "SEPONJEN",
+  "postalCode": "36371"
  },
  {
   "id": 1505030011,
   "districtId": 1505030,
-  "name": "LONDERANG"
+  "districtName": "KUMPEH",
+  "name": "LONDERANG",
+  "postalCode": ""
  },
  {
   "id": 1505030012,
   "districtId": 1505030,
-  "name": "SOGO"
+  "districtName": "KUMPEH",
+  "name": "SOGO",
+  "postalCode": "36371"
  },
  {
   "id": 1505030013,
   "districtId": 1505030,
-  "name": "RANTAU PANJANG"
+  "districtName": "KUMPEH",
+  "name": "RANTAU PANJANG",
+  "postalCode": "24476"
  },
  {
   "id": 1505030014,
   "districtId": 1505030,
-  "name": "KELURAHAN TANJUNG"
+  "districtName": "KUMPEH",
+  "name": "KELURAHAN TANJUNG",
+  "postalCode": ""
  },
  {
   "id": 1505030015,
   "districtId": 1505030,
-  "name": "GEDONG KARYA"
+  "districtName": "KUMPEH",
+  "name": "GEDONG KARYA",
+  "postalCode": "36371"
  },
  {
   "id": 1505030016,
   "districtId": 1505030,
-  "name": "JEBUS"
+  "districtName": "KUMPEH",
+  "name": "JEBUS",
+  "postalCode": "36371"
  },
  {
   "id": 1505030017,
   "districtId": 1505030,
-  "name": "SUNGAI AUR"
+  "districtName": "KUMPEH",
+  "name": "SUNGAI AUR",
+  "postalCode": "26573"
  },
  {
   "id": 1505030018,
   "districtId": 1505030,
-  "name": "MAJU JAYA"
+  "districtName": "KUMPEH",
+  "name": "MAJU JAYA",
+  "postalCode": "36371"
  },
  {
   "id": 1505030019,
   "districtId": 1505030,
-  "name": "RONDANG"
+  "districtName": "KUMPEH",
+  "name": "RONDANG",
+  "postalCode": "36371"
  }
 ]

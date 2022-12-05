@@ -2,61 +2,85 @@
  {
   "id": 3311030001,
   "districtId": 3311030,
-  "name": "WATUBONANG"
+  "districtName": "TAWANGSARI",
+  "name": "WATUBONANG",
+  "postalCode": "57561"
  },
  {
   "id": 3311030002,
   "districtId": 3311030,
-  "name": "PUNDUNGREJO"
+  "districtName": "TAWANGSARI",
+  "name": "PUNDUNGREJO",
+  "postalCode": "57561"
  },
  {
   "id": 3311030003,
   "districtId": 3311030,
-  "name": "LOROG"
+  "districtName": "TAWANGSARI",
+  "name": "LOROG",
+  "postalCode": "57561"
  },
  {
   "id": 3311030004,
   "districtId": 3311030,
-  "name": "GRAJEGAN"
+  "districtName": "TAWANGSARI",
+  "name": "GRAJEGAN",
+  "postalCode": "57561"
  },
  {
   "id": 3311030005,
   "districtId": 3311030,
-  "name": "KEDUNGJAMBAL"
+  "districtName": "TAWANGSARI",
+  "name": "KEDUNGJAMBAL",
+  "postalCode": "57561"
  },
  {
   "id": 3311030006,
   "districtId": 3311030,
-  "name": "PONOWAREN"
+  "districtName": "TAWANGSARI",
+  "name": "PONOWAREN",
+  "postalCode": "57561"
  },
  {
   "id": 3311030007,
   "districtId": 3311030,
-  "name": "KATEGUHAN"
+  "districtName": "TAWANGSARI",
+  "name": "KATEGUHAN",
+  "postalCode": "57374"
  },
  {
   "id": 3311030008,
   "districtId": 3311030,
-  "name": "DALANGAN"
+  "districtName": "TAWANGSARI",
+  "name": "DALANGAN",
+  "postalCode": "57561"
  },
  {
   "id": 3311030009,
   "districtId": 3311030,
-  "name": "POJOK"
+  "districtName": "TAWANGSARI",
+  "name": "POJOK",
+  "postalCode": "57752"
  },
  {
   "id": 3311030010,
   "districtId": 3311030,
-  "name": "TANGKISAN"
+  "districtName": "TAWANGSARI",
+  "name": "TANGKISAN",
+  "postalCode": "54224"
  },
  {
   "id": 3311030011,
   "districtId": 3311030,
-  "name": "MAJASTO"
+  "districtName": "TAWANGSARI",
+  "name": "MAJASTO",
+  "postalCode": "57561"
  },
  {
   "id": 3311030012,
   "districtId": 3311030,
-  "name": "TAMBAKBOYO"
+  "districtName": "TAWANGSARI",
+  "name": "TAMBAKBOYO",
+  "postalCode": "50612"
  }
 ]

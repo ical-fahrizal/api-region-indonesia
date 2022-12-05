@@ -2,36 +2,50 @@
  {
   "id": 3509130001,
   "districtId": 3509130,
-  "name": "KARANG DUREN"
+  "districtName": "BALUNG",
+  "name": "KARANG DUREN",
+  "postalCode": "68161"
  },
  {
   "id": 3509130002,
   "districtId": 3509130,
-  "name": "KARANG SEMANDING"
+  "districtName": "BALUNG",
+  "name": "KARANG SEMANDING",
+  "postalCode": "68161"
  },
  {
   "id": 3509130004,
   "districtId": 3509130,
-  "name": "BALUNG KULON"
+  "districtName": "BALUNG",
+  "name": "BALUNG KULON",
+  "postalCode": "68161"
  },
  {
   "id": 3509130005,
   "districtId": 3509130,
-  "name": "BALUNG KIDUL"
+  "districtName": "BALUNG",
+  "name": "BALUNG KIDUL",
+  "postalCode": "68161"
  },
  {
   "id": 3509130006,
   "districtId": 3509130,
-  "name": "BALUNG LOR"
+  "districtName": "BALUNG",
+  "name": "BALUNG LOR",
+  "postalCode": "68161"
  },
  {
   "id": 3509130007,
   "districtId": 3509130,
-  "name": "GUMELAR"
+  "districtName": "BALUNG",
+  "name": "GUMELAR",
+  "postalCode": "53165"
  },
  {
   "id": 3509130008,
   "districtId": 3509130,
-  "name": "CURAHLELE"
+  "districtName": "BALUNG",
+  "name": "CURAHLELE",
+  "postalCode": "68161"
  }
 ]

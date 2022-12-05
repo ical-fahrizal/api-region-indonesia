@@ -2,66 +2,92 @@
  {
   "id": 3326150002,
   "districtId": 3326150,
-  "name": "NGALIAN"
+  "districtName": "TIRTO",
+  "name": "NGALIAN",
+  "postalCode": "56374"
  },
  {
   "id": 3326150003,
   "districtId": 3326150,
-  "name": "PANDAN ARUM"
+  "districtName": "TIRTO",
+  "name": "PANDAN ARUM",
+  "postalCode": "51151"
  },
  {
   "id": 3326150004,
   "districtId": 3326150,
-  "name": "KARANGANYAR"
+  "districtName": "TIRTO",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  },
  {
   "id": 3326150005,
   "districtId": 3326150,
-  "name": "SILIREJO"
+  "districtName": "TIRTO",
+  "name": "SILIREJO",
+  "postalCode": "51151"
  },
  {
   "id": 3326150007,
   "districtId": 3326150,
-  "name": "DADIREJO"
+  "districtName": "TIRTO",
+  "name": "DADIREJO",
+  "postalCode": "35686"
  },
  {
   "id": 3326150008,
   "districtId": 3326150,
-  "name": "SIDOREJO"
+  "districtName": "TIRTO",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 3326150010,
   "districtId": 3326150,
-  "name": "TANJUNG"
+  "districtName": "TIRTO",
+  "name": "TANJUNG",
+  "postalCode": "24562"
  },
  {
   "id": 3326150011,
   "districtId": 3326150,
-  "name": "SAMBOREJO"
+  "districtName": "TIRTO",
+  "name": "SAMBOREJO",
+  "postalCode": "51151"
  },
  {
   "id": 3326150012,
   "districtId": 3326150,
-  "name": "PACAR"
+  "districtName": "TIRTO",
+  "name": "PACAR",
+  "postalCode": "59213"
  },
  {
   "id": 3326150013,
   "districtId": 3326150,
-  "name": "KARANGJOMPO"
+  "districtName": "TIRTO",
+  "name": "KARANGJOMPO",
+  "postalCode": "51151"
  },
  {
   "id": 3326150014,
   "districtId": 3326150,
-  "name": "TEGALDOWO"
+  "districtName": "TIRTO",
+  "name": "TEGALDOWO",
+  "postalCode": "57274"
  },
  {
   "id": 3326150015,
   "districtId": 3326150,
-  "name": "MULYOREJO"
+  "districtName": "TIRTO",
+  "name": "MULYOREJO",
+  "postalCode": "58315"
  },
  {
   "id": 3326150016,
   "districtId": 3326150,
-  "name": "JERUKSARI"
+  "districtName": "TIRTO",
+  "name": "JERUKSARI",
+  "postalCode": "51151"
  }
 ]

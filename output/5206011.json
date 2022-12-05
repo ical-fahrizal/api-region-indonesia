@@ -2,21 +2,29 @@
  {
   "id": 5206011002,
   "districtId": 5206011,
-  "name": "PARADOWANE"
+  "districtName": "PARADO",
+  "name": "PARADOWANE",
+  "postalCode": "84172"
  },
  {
   "id": 5206011003,
   "districtId": 5206011,
-  "name": "KUTA"
+  "districtName": "PARADO",
+  "name": "KUTA",
+  "postalCode": "16770"
  },
  {
   "id": 5206011004,
   "districtId": 5206011,
-  "name": "PARADORATO"
+  "districtName": "PARADO",
+  "name": "PARADORATO",
+  "postalCode": "84172"
  },
  {
   "id": 5206011005,
   "districtId": 5206011,
-  "name": "KANCA"
+  "districtName": "PARADO",
+  "name": "KANCA",
+  "postalCode": "84172"
  }
 ]

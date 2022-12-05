@@ -2,76 +2,106 @@
  {
   "id": 1405030011,
   "districtId": 1405030,
-  "name": "TELUK MESJID"
+  "districtName": "SUNGAI APIT",
+  "name": "TELUK MESJID",
+  "postalCode": "28662"
  },
  {
   "id": 1405030012,
   "districtId": 1405030,
-  "name": "PARITI/II"
+  "districtName": "SUNGAI APIT",
+  "name": "PARITI/II",
+  "postalCode": ""
  },
  {
   "id": 1405030013,
   "districtId": 1405030,
-  "name": "SUNGAI APIT"
+  "districtName": "SUNGAI APIT",
+  "name": "SUNGAI APIT",
+  "postalCode": "28662"
  },
  {
   "id": 1405030016,
   "districtId": 1405030,
-  "name": "TANJUNG KURAS"
+  "districtName": "SUNGAI APIT",
+  "name": "TANJUNG KURAS",
+  "postalCode": "28662"
  },
  {
   "id": 1405030017,
   "districtId": 1405030,
-  "name": "SUNGAI KAYU ARA"
+  "districtName": "SUNGAI APIT",
+  "name": "SUNGAI KAYU ARA",
+  "postalCode": "28662"
  },
  {
   "id": 1405030018,
   "districtId": 1405030,
-  "name": "LALANG"
+  "districtName": "SUNGAI APIT",
+  "name": "LALANG",
+  "postalCode": "20127"
  },
  {
   "id": 1405030019,
   "districtId": 1405030,
-  "name": "MENGKAPAN"
+  "districtName": "SUNGAI APIT",
+  "name": "MENGKAPAN",
+  "postalCode": "28662"
  },
  {
   "id": 1405030020,
   "districtId": 1405030,
-  "name": "SUNGAI RAWA"
+  "districtName": "SUNGAI APIT",
+  "name": "SUNGAI RAWA",
+  "postalCode": "29252"
  },
  {
   "id": 1405030021,
   "districtId": 1405030,
-  "name": "PENYENGAT"
+  "districtName": "SUNGAI APIT",
+  "name": "PENYENGAT",
+  "postalCode": "28662"
  },
  {
   "id": 1405030022,
   "districtId": 1405030,
-  "name": "TELUK LANUS"
+  "districtName": "SUNGAI APIT",
+  "name": "TELUK LANUS",
+  "postalCode": "28662"
  },
  {
   "id": 1405030023,
   "districtId": 1405030,
-  "name": "HARAPAN"
+  "districtName": "SUNGAI APIT",
+  "name": "HARAPAN",
+  "postalCode": "22253"
  },
  {
   "id": 1405030027,
   "districtId": 1405030,
-  "name": "TELUK BATIL"
+  "districtName": "SUNGAI APIT",
+  "name": "TELUK BATIL",
+  "postalCode": "28662"
  },
  {
   "id": 1405030028,
   "districtId": 1405030,
-  "name": "BUNSUR"
+  "districtName": "SUNGAI APIT",
+  "name": "BUNSUR",
+  "postalCode": "28662"
  },
  {
   "id": 1405030029,
   "districtId": 1405030,
-  "name": "KAYU ARA PERMAI"
+  "districtName": "SUNGAI APIT",
+  "name": "KAYU ARA PERMAI",
+  "postalCode": "28662"
  },
  {
   "id": 1405030030,
   "districtId": 1405030,
-  "name": "RAWA MEKAR JAYA"
+  "districtName": "SUNGAI APIT",
+  "name": "RAWA MEKAR JAYA",
+  "postalCode": "28662"
  }
 ]

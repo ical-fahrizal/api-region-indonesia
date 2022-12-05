@@ -2,31 +2,43 @@
  {
   "id": 6105010001,
   "districtId": 6105010,
-  "name": "BAGAN ASAM"
+  "districtName": "TOBA",
+  "name": "BAGAN ASAM",
+  "postalCode": "78572"
  },
  {
   "id": 6105010002,
   "districtId": 6105010,
-  "name": "TERAJU BARAT"
+  "districtName": "TOBA",
+  "name": "TERAJU BARAT",
+  "postalCode": ""
  },
  {
   "id": 6105010003,
   "districtId": 6105010,
-  "name": "KAMPUNG BARU"
+  "districtName": "TOBA",
+  "name": "KAMPUNG BARU",
+  "postalCode": "24652"
  },
  {
   "id": 6105010005,
   "districtId": 6105010,
-  "name": "SANSAT"
+  "districtName": "TOBA",
+  "name": "SANSAT",
+  "postalCode": "78572"
  },
  {
   "id": 6105010006,
   "districtId": 6105010,
-  "name": "BALAI BELUNGAI"
+  "districtName": "TOBA",
+  "name": "BALAI BELUNGAI",
+  "postalCode": "78572"
  },
  {
   "id": 6105010007,
   "districtId": 6105010,
-  "name": "BELUNGAI DALAM"
+  "districtName": "TOBA",
+  "name": "BELUNGAI DALAM",
+  "postalCode": "78572"
  }
 ]

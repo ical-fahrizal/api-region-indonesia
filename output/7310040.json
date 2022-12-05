@@ -2,36 +2,50 @@
  {
   "id": 7310040005,
   "districtId": 7310040,
-  "name": "AJAKKANG"
+  "districtName": "SOPPENG RIAJA",
+  "name": "AJAKKANG",
+  "postalCode": "90752"
  },
  {
   "id": 7310040006,
   "districtId": 7310040,
-  "name": "PACCEKKE"
+  "districtName": "SOPPENG RIAJA",
+  "name": "PACCEKKE",
+  "postalCode": "90752"
  },
  {
   "id": 7310040007,
   "districtId": 7310040,
-  "name": "KIRU-KIRU"
+  "districtName": "SOPPENG RIAJA",
+  "name": "KIRU-KIRU",
+  "postalCode": "90752"
  },
  {
   "id": 7310040008,
   "districtId": 7310040,
-  "name": "MANGKOSO"
+  "districtName": "SOPPENG RIAJA",
+  "name": "MANGKOSO",
+  "postalCode": "90752"
  },
  {
   "id": 7310040009,
   "districtId": 7310040,
-  "name": "LAWALLU"
+  "districtName": "SOPPENG RIAJA",
+  "name": "LAWALLU",
+  "postalCode": "90752"
  },
  {
   "id": 7310040010,
   "districtId": 7310040,
-  "name": "SIDDO"
+  "districtName": "SOPPENG RIAJA",
+  "name": "SIDDO",
+  "postalCode": "90752"
  },
  {
   "id": 7310040011,
   "districtId": 7310040,
-  "name": "BATUPUTE"
+  "districtName": "SOPPENG RIAJA",
+  "name": "BATUPUTE",
+  "postalCode": "90752"
  }
 ]

@@ -2,21 +2,29 @@
  {
   "id": 1306090001,
   "districtId": 1306090,
-  "name": "KURANJI HULU"
+  "districtName": "SUNGAI GERINGGING",
+  "name": "KURANJI HULU",
+  "postalCode": "25563"
  },
  {
   "id": 1306090002,
   "districtId": 1306090,
-  "name": "MALAI III KOTO"
+  "districtName": "SUNGAI GERINGGING",
+  "name": "MALAI III KOTO",
+  "postalCode": "25563"
  },
  {
   "id": 1306090003,
   "districtId": 1306090,
-  "name": "BATU GADANG KURANJI HULU"
+  "districtName": "SUNGAI GERINGGING",
+  "name": "BATU GADANG KURANJI HULU",
+  "postalCode": "25563"
  },
  {
   "id": 1306090004,
   "districtId": 1306090,
-  "name": "SUNGAI SIRAH KURANJI HULU"
+  "districtName": "SUNGAI GERINGGING",
+  "name": "SUNGAI SIRAH KURANJI HULU",
+  "postalCode": "25563"
  }
 ]

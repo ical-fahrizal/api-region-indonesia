@@ -2,21 +2,29 @@
  {
   "id": 3272012001,
   "districtId": 3272012,
-  "name": "SINDANGPALAY"
+  "districtName": "CIBEUREUM",
+  "name": "SINDANGPALAY",
+  "postalCode": "43162"
  },
  {
   "id": 3272012002,
   "districtId": 3272012,
-  "name": "LIMUSNUNGGAL"
+  "districtName": "CIBEUREUM",
+  "name": "LIMUSNUNGGAL",
+  "postalCode": "43165"
  },
  {
   "id": 3272012003,
   "districtId": 3272012,
-  "name": "BABAKAN"
+  "districtName": "CIBEUREUM",
+  "name": "BABAKAN",
+  "postalCode": "35675"
  },
  {
   "id": 3272012004,
   "districtId": 3272012,
-  "name": "CIBEUREUM HILIR"
+  "districtName": "CIBEUREUM",
+  "name": "CIBEUREUM HILIR",
+  "postalCode": ""
  }
 ]

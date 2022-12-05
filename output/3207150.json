@@ -2,56 +2,78 @@
  {
   "id": 3207150001,
   "districtId": 3207150,
-  "name": "HANDAPHERANG"
+  "districtName": "CIJEUNGJING",
+  "name": "HANDAPHERANG",
+  "postalCode": "46271"
  },
  {
   "id": 3207150002,
   "districtId": 3207150,
-  "name": "CIHARALANG"
+  "districtName": "CIJEUNGJING",
+  "name": "CIHARALANG",
+  "postalCode": "46271"
  },
  {
   "id": 3207150003,
   "districtId": 3207150,
-  "name": "BOJONGMENGGER"
+  "districtName": "CIJEUNGJING",
+  "name": "BOJONGMENGGER",
+  "postalCode": "46271"
  },
  {
   "id": 3207150004,
   "districtId": 3207150,
-  "name": "KARANGKAMULYAN"
+  "districtName": "CIJEUNGJING",
+  "name": "KARANGKAMULYAN",
+  "postalCode": "45591"
  },
  {
   "id": 3207150005,
   "districtId": 3207150,
-  "name": "KERTABUMI"
+  "districtName": "CIJEUNGJING",
+  "name": "KERTABUMI",
+  "postalCode": "46271"
  },
  {
   "id": 3207150006,
   "districtId": 3207150,
-  "name": "CIJEUNGJING"
+  "districtName": "CIJEUNGJING",
+  "name": "CIJEUNGJING",
+  "postalCode": "46271"
  },
  {
   "id": 3207150007,
   "districtId": 3207150,
-  "name": "PAMALAYAN"
+  "districtName": "CIJEUNGJING",
+  "name": "PAMALAYAN",
+  "postalCode": "44162"
  },
  {
   "id": 3207150008,
   "districtId": 3207150,
-  "name": "DEWASARI"
+  "districtName": "CIJEUNGJING",
+  "name": "DEWASARI",
+  "postalCode": "46271"
  },
  {
   "id": 3207150009,
   "districtId": 3207150,
-  "name": "UTAMA"
+  "districtName": "CIJEUNGJING",
+  "name": "UTAMA",
+  "postalCode": "46271"
  },
  {
   "id": 3207150010,
   "districtId": 3207150,
-  "name": "KERTAHARJA"
+  "districtName": "CIJEUNGJING",
+  "name": "KERTAHARJA",
+  "postalCode": "46271"
  },
  {
   "id": 3207150011,
   "districtId": 3207150,
-  "name": "KARANGANYAR"
+  "districtName": "CIJEUNGJING",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  }
 ]

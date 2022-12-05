@@ -2,51 +2,71 @@
  {
   "id": 3210080001,
   "districtId": 3210080,
-  "name": "KAWUNGHILIR"
+  "districtName": "CIGASONG",
+  "name": "KAWUNGHILIR",
+  "postalCode": "45476"
  },
  {
   "id": 3210080002,
   "districtId": 3210080,
-  "name": "TAJUR"
+  "districtName": "CIGASONG",
+  "name": "TAJUR",
+  "postalCode": "35453"
  },
  {
   "id": 3210080003,
   "districtId": 3210080,
-  "name": "CIGASONG"
+  "districtName": "CIGASONG",
+  "name": "CIGASONG",
+  "postalCode": "45476"
  },
  {
   "id": 3210080004,
   "districtId": 3210080,
-  "name": "SIMPEUREUM"
+  "districtName": "CIGASONG",
+  "name": "SIMPEUREUM",
+  "postalCode": "45476"
  },
  {
   "id": 3210080005,
   "districtId": 3210080,
-  "name": "TENJOLAYAR"
+  "districtName": "CIGASONG",
+  "name": "TENJOLAYAR",
+  "postalCode": "45476"
  },
  {
   "id": 3210080006,
   "districtId": 3210080,
-  "name": "KUTAMANGGU"
+  "districtName": "CIGASONG",
+  "name": "KUTAMANGGU",
+  "postalCode": "45476"
  },
  {
   "id": 3210080007,
   "districtId": 3210080,
-  "name": "CICENANG"
+  "districtName": "CIGASONG",
+  "name": "CICENANG",
+  "postalCode": "45476"
  },
  {
   "id": 3210080008,
   "districtId": 3210080,
-  "name": "BARIBIS"
+  "districtName": "CIGASONG",
+  "name": "BARIBIS",
+  "postalCode": "45476"
  },
  {
   "id": 3210080009,
   "districtId": 3210080,
-  "name": "BATUJAYA"
+  "districtName": "CIGASONG",
+  "name": "BATUJAYA",
+  "postalCode": "41354"
  },
  {
   "id": 3210080010,
   "districtId": 3210080,
-  "name": "KARAYUNAN"
+  "districtName": "CIGASONG",
+  "name": "KARAYUNAN",
+  "postalCode": "45476"
  }
 ]

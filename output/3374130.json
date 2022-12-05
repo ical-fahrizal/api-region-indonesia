@@ -2,71 +2,99 @@
  {
   "id": 3374130002,
   "districtId": 3374130,
-  "name": "KARANGKIDUL"
+  "districtName": "SEMARANG TENGAH",
+  "name": "KARANGKIDUL",
+  "postalCode": "50241"
  },
  {
   "id": 3374130003,
   "districtId": 3374130,
-  "name": "JAGALAN"
+  "districtName": "SEMARANG TENGAH",
+  "name": "JAGALAN",
+  "postalCode": "57162"
  },
  {
   "id": 3374130004,
   "districtId": 3374130,
-  "name": "BRUMBUNGAN"
+  "districtName": "SEMARANG TENGAH",
+  "name": "BRUMBUNGAN",
+  "postalCode": "50135"
  },
  {
   "id": 3374130005,
   "districtId": 3374130,
-  "name": "MIROTO"
+  "districtName": "SEMARANG TENGAH",
+  "name": "MIROTO",
+  "postalCode": "50134"
  },
  {
   "id": 3374130006,
   "districtId": 3374130,
-  "name": "GABAHAN"
+  "districtName": "SEMARANG TENGAH",
+  "name": "GABAHAN",
+  "postalCode": "50135"
  },
  {
   "id": 3374130007,
   "districtId": 3374130,
-  "name": "KRANGGAN"
+  "districtName": "SEMARANG TENGAH",
+  "name": "KRANGGAN",
+  "postalCode": "50613"
  },
  {
   "id": 3374130008,
   "districtId": 3374130,
-  "name": "PURWODINATAN"
+  "districtName": "SEMARANG TENGAH",
+  "name": "PURWODINATAN",
+  "postalCode": "50137"
  },
  {
   "id": 3374130009,
   "districtId": 3374130,
-  "name": "KAUMAN"
+  "districtName": "SEMARANG TENGAH",
+  "name": "KAUMAN",
+  "postalCode": "51215"
  },
  {
   "id": 3374130010,
   "districtId": 3374130,
-  "name": "BANGUNHARJO"
+  "districtName": "SEMARANG TENGAH",
+  "name": "BANGUNHARJO",
+  "postalCode": "50138"
  },
  {
   "id": 3374130011,
   "districtId": 3374130,
-  "name": "KEMBANGSARI"
+  "districtName": "SEMARANG TENGAH",
+  "name": "KEMBANGSARI",
+  "postalCode": "56281"
  },
  {
   "id": 3374130012,
   "districtId": 3374130,
-  "name": "PANDANSARI"
+  "districtName": "SEMARANG TENGAH",
+  "name": "PANDANSARI",
+  "postalCode": "16720"
  },
  {
   "id": 3374130013,
   "districtId": 3374130,
-  "name": "SEKAYU"
+  "districtName": "SEMARANG TENGAH",
+  "name": "SEKAYU",
+  "postalCode": "50132"
  },
  {
   "id": 3374130014,
   "districtId": 3374130,
-  "name": "PENDRIKAN KIDUL"
+  "districtName": "SEMARANG TENGAH",
+  "name": "PENDRIKAN KIDUL",
+  "postalCode": "50131"
  },
  {
   "id": 3374130015,
   "districtId": 3374130,
-  "name": "PENDRIKAN LOR"
+  "districtName": "SEMARANG TENGAH",
+  "name": "PENDRIKAN LOR",
+  "postalCode": "50131"
  }
 ]

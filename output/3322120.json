@@ -2,76 +2,106 @@
  {
   "id": 3322120001,
   "districtId": 3322120,
-  "name": "BRINGIN"
+  "districtName": "BRINGIN",
+  "name": "BRINGIN",
+  "postalCode": "45167"
  },
  {
   "id": 3322120002,
   "districtId": 3322120,
-  "name": "POPONGAN"
+  "districtName": "BRINGIN",
+  "name": "POPONGAN",
+  "postalCode": "54171"
  },
  {
   "id": 3322120003,
   "districtId": 3322120,
-  "name": "PAKIS"
+  "districtName": "BRINGIN",
+  "name": "PAKIS",
+  "postalCode": "50772"
  },
  {
   "id": 3322120004,
   "districtId": 3322120,
-  "name": "LEBAK"
+  "districtName": "BRINGIN",
+  "name": "LEBAK",
+  "postalCode": "50772"
  },
  {
   "id": 3322120005,
   "districtId": 3322120,
-  "name": "BANDING"
+  "districtName": "BRINGIN",
+  "name": "BANDING",
+  "postalCode": "35686"
  },
  {
   "id": 3322120006,
   "districtId": 3322120,
-  "name": "TRUKO"
+  "districtName": "BRINGIN",
+  "name": "TRUKO",
+  "postalCode": "50772"
  },
  {
   "id": 3322120016,
   "districtId": 3322120,
-  "name": "NYEMOH"
+  "districtName": "BRINGIN",
+  "name": "NYEMOH",
+  "postalCode": "50772"
  },
  {
   "id": 3322120017,
   "districtId": 3322120,
-  "name": "TEMPURAN"
+  "districtName": "BRINGIN",
+  "name": "TEMPURAN",
+  "postalCode": "34172"
  },
  {
   "id": 3322120018,
   "districtId": 3322120,
-  "name": "WIRU"
+  "districtName": "BRINGIN",
+  "name": "WIRU",
+  "postalCode": "50772"
  },
  {
   "id": 3322120019,
   "districtId": 3322120,
-  "name": "SENDANG"
+  "districtName": "BRINGIN",
+  "name": "SENDANG",
+  "postalCode": "45283"
  },
  {
   "id": 3322120020,
   "districtId": 3322120,
-  "name": "GOGODALEM"
+  "districtName": "BRINGIN",
+  "name": "GOGODALEM",
+  "postalCode": "50772"
  },
  {
   "id": 3322120022,
   "districtId": 3322120,
-  "name": "KALIKURMO"
+  "districtName": "BRINGIN",
+  "name": "KALIKURMO",
+  "postalCode": "50772"
  },
  {
   "id": 3322120023,
   "districtId": 3322120,
-  "name": "SAMBIREJO"
+  "districtName": "BRINGIN",
+  "name": "SAMBIREJO",
+  "postalCode": "39153"
  },
  {
   "id": 3322120024,
   "districtId": 3322120,
-  "name": "KALIJAMBE"
+  "districtName": "BRINGIN",
+  "name": "KALIJAMBE",
+  "postalCode": "54183"
  },
  {
   "id": 3322120025,
   "districtId": 3322120,
-  "name": "TANJUNG"
+  "districtName": "BRINGIN",
+  "name": "TANJUNG",
+  "postalCode": "24562"
  }
 ]

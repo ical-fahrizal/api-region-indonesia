@@ -2,56 +2,78 @@
  {
   "id": 1508010007,
   "districtId": 1508010,
-  "name": "TUO ILIR"
+  "districtName": "TEBO ILIR",
+  "name": "TUO ILIR",
+  "postalCode": ""
  },
  {
   "id": 1508010008,
   "districtId": 1508010,
-  "name": "TELUK RENDAH PASAR"
+  "districtName": "TEBO ILIR",
+  "name": "TELUK RENDAH PASAR",
+  "postalCode": "37572"
  },
  {
   "id": 1508010009,
   "districtId": 1508010,
-  "name": "TELUK RENDAH ILIR"
+  "districtName": "TEBO ILIR",
+  "name": "TELUK RENDAH ILIR",
+  "postalCode": "37572"
  },
  {
   "id": 1508010010,
   "districtId": 1508010,
-  "name": "TELUK RENDAH ULU"
+  "districtName": "TEBO ILIR",
+  "name": "TELUK RENDAH ULU",
+  "postalCode": "37572"
  },
  {
   "id": 1508010011,
   "districtId": 1508010,
-  "name": "MUARA KETALO"
+  "districtName": "TEBO ILIR",
+  "name": "MUARA KETALO",
+  "postalCode": "37492"
  },
  {
   "id": 1508010012,
   "districtId": 1508010,
-  "name": "KELURAHAN SUNGAI BENGKAL"
+  "districtName": "TEBO ILIR",
+  "name": "KELURAHAN SUNGAI BENGKAL",
+  "postalCode": ""
  },
  {
   "id": 1508010013,
   "districtId": 1508010,
-  "name": "BETUNG BEDARAH TIMUR"
+  "districtName": "TEBO ILIR",
+  "name": "BETUNG BEDARAH TIMUR",
+  "postalCode": "37572"
  },
  {
   "id": 1508010014,
   "districtId": 1508010,
-  "name": "BETUNG BEDARAH BARAT"
+  "districtName": "TEBO ILIR",
+  "name": "BETUNG BEDARAH BARAT",
+  "postalCode": "37572"
  },
  {
   "id": 1508010015,
   "districtId": 1508010,
-  "name": "SUNGAI ARO"
+  "districtName": "TEBO ILIR",
+  "name": "SUNGAI ARO",
+  "postalCode": "37572"
  },
  {
   "id": 1508010016,
   "districtId": 1508010,
-  "name": "KUNANGAN"
+  "districtName": "TEBO ILIR",
+  "name": "KUNANGAN",
+  "postalCode": "36382"
  },
  {
   "id": 1508010018,
   "districtId": 1508010,
-  "name": "SUNGAI BENGKAL BARAT"
+  "districtName": "TEBO ILIR",
+  "name": "SUNGAI BENGKAL BARAT",
+  "postalCode": ""
  }
 ]

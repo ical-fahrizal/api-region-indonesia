@@ -2,46 +2,64 @@
  {
   "id": 1604114001,
   "districtId": 1604114,
-  "name": "TANJUNG AUR"
+  "districtName": "KIKIM TENGAH",
+  "name": "TANJUNG AUR",
+  "postalCode": "37554"
  },
  {
   "id": 1604114002,
   "districtId": 1604114,
-  "name": "SUKARAJA"
+  "districtName": "KIKIM TENGAH",
+  "name": "SUKARAJA",
+  "postalCode": "21256"
  },
  {
   "id": 1604114003,
   "districtId": 1604114,
-  "name": "MASPURA"
+  "districtName": "KIKIM TENGAH",
+  "name": "MASPURA",
+  "postalCode": "31452"
  },
  {
   "id": 1604114004,
   "districtId": 1604114,
-  "name": "SUNGAI LARU"
+  "districtName": "KIKIM TENGAH",
+  "name": "SUNGAI LARU",
+  "postalCode": "31452"
  },
  {
   "id": 1604114005,
   "districtId": 1604114,
-  "name": "TANJUNG BARU"
+  "districtName": "KIKIM TENGAH",
+  "name": "TANJUNG BARU",
+  "postalCode": "22742"
  },
  {
   "id": 1604114006,
   "districtId": 1604114,
-  "name": "MUARA LINGSING"
+  "districtName": "KIKIM TENGAH",
+  "name": "MUARA LINGSING",
+  "postalCode": "31452"
  },
  {
   "id": 1604114007,
   "districtId": 1604114,
-  "name": "KEPALA SIRING"
+  "districtName": "KIKIM TENGAH",
+  "name": "KEPALA SIRING",
+  "postalCode": "31452"
  },
  {
   "id": 1604114008,
   "districtId": 1604114,
-  "name": "BANYUMAS"
+  "districtName": "KIKIM TENGAH",
+  "name": "BANYUMAS",
+  "postalCode": "20811"
  },
  {
   "id": 1604114009,
   "districtId": 1604114,
-  "name": "PURBAMAS"
+  "districtName": "KIKIM TENGAH",
+  "name": "PURBAMAS",
+  "postalCode": "31452"
  }
 ]

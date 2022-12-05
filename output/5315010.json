@@ -2,96 +2,134 @@
  {
   "id": 5315010001,
   "districtId": 5315010,
-  "name": "KOMODO"
+  "districtName": "KOMODO",
+  "name": "KOMODO",
+  "postalCode": "86754"
  },
  {
   "id": 5315010002,
   "districtId": 5315010,
-  "name": "PAPA GARANG"
+  "districtName": "KOMODO",
+  "name": "PAPA GARANG",
+  "postalCode": "86754"
  },
  {
   "id": 5315010003,
   "districtId": 5315010,
-  "name": "PASIR PANJANG"
+  "districtName": "KOMODO",
+  "name": "PASIR PANJANG",
+  "postalCode": "36265"
  },
  {
   "id": 5315010004,
   "districtId": 5315010,
-  "name": "GOLO MORI"
+  "districtName": "KOMODO",
+  "name": "GOLO MORI",
+  "postalCode": "86754"
  },
  {
   "id": 5315010005,
   "districtId": 5315010,
-  "name": "WARLOKA"
+  "districtName": "KOMODO",
+  "name": "WARLOKA",
+  "postalCode": "86754"
  },
  {
   "id": 5315010006,
   "districtId": 5315010,
-  "name": "TIWU NAMPAR"
+  "districtName": "KOMODO",
+  "name": "TIWU NAMPAR",
+  "postalCode": "86754"
  },
  {
   "id": 5315010007,
   "districtId": 5315010,
-  "name": "GOLO PONGKOR"
+  "districtName": "KOMODO",
+  "name": "GOLO PONGKOR",
+  "postalCode": "86754"
  },
  {
   "id": 5315010008,
   "districtId": 5315010,
-  "name": "MACANG TANGGAR"
+  "districtName": "KOMODO",
+  "name": "MACANG TANGGAR",
+  "postalCode": "86754"
  },
  {
   "id": 5315010009,
   "districtId": 5315010,
-  "name": "PASIR PUTIH"
+  "districtName": "KOMODO",
+  "name": "PASIR PUTIH",
+  "postalCode": "24453"
  },
  {
   "id": 5315010010,
   "districtId": 5315010,
-  "name": "GORON TALO"
+  "districtName": "KOMODO",
+  "name": "GORON TALO",
+  "postalCode": ""
  },
  {
   "id": 5315010011,
   "districtId": 5315010,
-  "name": "GOLO BILAS"
+  "districtName": "KOMODO",
+  "name": "GOLO BILAS",
+  "postalCode": "86754"
  },
  {
   "id": 5315010012,
   "districtId": 5315010,
-  "name": "NGGORANG"
+  "districtName": "KOMODO",
+  "name": "NGGORANG",
+  "postalCode": "86754"
  },
  {
   "id": 5315010013,
   "districtId": 5315010,
-  "name": "WATU NGGELEK"
+  "districtName": "KOMODO",
+  "name": "WATU NGGELEK",
+  "postalCode": "86754"
  },
  {
   "id": 5315010023,
   "districtId": 5315010,
-  "name": "WAE KELAMBU"
+  "districtName": "KOMODO",
+  "name": "WAE KELAMBU",
+  "postalCode": "86754"
  },
  {
   "id": 5315010024,
   "districtId": 5315010,
-  "name": "BATU CERMIN"
+  "districtName": "KOMODO",
+  "name": "BATU CERMIN",
+  "postalCode": "86754"
  },
  {
   "id": 5315010025,
   "districtId": 5315010,
-  "name": "LABUAN BAJO"
+  "districtName": "KOMODO",
+  "name": "LABUAN BAJO",
+  "postalCode": "84352"
  },
  {
   "id": 5315010026,
   "districtId": 5315010,
-  "name": "PANTAR"
+  "districtName": "KOMODO",
+  "name": "PANTAR",
+  "postalCode": ""
  },
  {
   "id": 5315010027,
   "districtId": 5315010,
-  "name": "SERAYA MARANU"
+  "districtName": "KOMODO",
+  "name": "SERAYA MARANU",
+  "postalCode": ""
  },
  {
   "id": 5315010028,
   "districtId": 5315010,
-  "name": "COMPANG LONGGO"
+  "districtName": "KOMODO",
+  "name": "COMPANG LONGGO",
+  "postalCode": ""
  }
 ]

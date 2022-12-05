@@ -2,56 +2,78 @@
  {
   "id": 3506060001,
   "districtId": 3506060,
-  "name": "SUMBERJO"
+  "districtName": "KANDAT",
+  "name": "SUMBERJO",
+  "postalCode": "34396"
  },
  {
   "id": 3506060002,
   "districtId": 3506060,
-  "name": "KARANGREJO"
+  "districtName": "KANDAT",
+  "name": "KARANGREJO",
+  "postalCode": "35387"
  },
  {
   "id": 3506060003,
   "districtId": 3506060,
-  "name": "SELOSARI"
+  "districtName": "KANDAT",
+  "name": "SELOSARI",
+  "postalCode": "64173"
  },
  {
   "id": 3506060004,
   "districtId": 3506060,
-  "name": "KANDAT"
+  "districtName": "KANDAT",
+  "name": "KANDAT",
+  "postalCode": "64173"
  },
  {
   "id": 3506060005,
   "districtId": 3506060,
-  "name": "CENDONO"
+  "districtName": "KANDAT",
+  "name": "CENDONO",
+  "postalCode": "59353"
  },
  {
   "id": 3506060006,
   "districtId": 3506060,
-  "name": "RINGINSARI"
+  "districtName": "KANDAT",
+  "name": "RINGINSARI",
+  "postalCode": "64173"
  },
  {
   "id": 3506060007,
   "districtId": 3506060,
-  "name": "TEGALAN"
+  "districtName": "KANDAT",
+  "name": "TEGALAN",
+  "postalCode": "64173"
  },
  {
   "id": 3506060008,
   "districtId": 3506060,
-  "name": "NGLETIH"
+  "districtName": "KANDAT",
+  "name": "NGLETIH",
+  "postalCode": "64137"
  },
  {
   "id": 3506060009,
   "districtId": 3506060,
-  "name": "PURWOREJO"
+  "districtName": "KANDAT",
+  "name": "PURWOREJO",
+  "postalCode": "23661"
  },
  {
   "id": 3506060011,
   "districtId": 3506060,
-  "name": "BLABAK"
+  "districtName": "KANDAT",
+  "name": "BLABAK",
+  "postalCode": "64173"
  },
  {
   "id": 3506060012,
   "districtId": 3506060,
-  "name": "NGRECO"
+  "districtName": "KANDAT",
+  "name": "NGRECO",
+  "postalCode": "57562"
  }
 ]

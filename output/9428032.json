@@ -2,36 +2,50 @@
  {
   "id": 9428032001,
   "districtId": 9428032,
-  "name": "BENSOR"
+  "districtName": "SAWAI",
+  "name": "BENSOR",
+  "postalCode": "98262"
  },
  {
   "id": 9428032002,
   "districtId": 9428032,
-  "name": "SORABI"
+  "districtName": "SAWAI",
+  "name": "SORABI",
+  "postalCode": "98262"
  },
  {
   "id": 9428032003,
   "districtId": 9428032,
-  "name": "POIWAI"
+  "districtName": "SAWAI",
+  "name": "POIWAI",
+  "postalCode": "98262"
  },
  {
   "id": 9428032004,
   "districtId": 9428032,
-  "name": "RAPAMAREI"
+  "districtName": "SAWAI",
+  "name": "RAPAMAREI",
+  "postalCode": "98262"
  },
  {
   "id": 9428032005,
   "districtId": 9428032,
-  "name": "ANASI"
+  "districtName": "SAWAI",
+  "name": "ANASI",
+  "postalCode": "98262"
  },
  {
   "id": 9428032006,
   "districtId": 9428032,
-  "name": "BONOI"
+  "districtName": "SAWAI",
+  "name": "BONOI",
+  "postalCode": "98262"
  },
  {
   "id": 9428032007,
   "districtId": 9428032,
-  "name": "TAMAKURI"
+  "districtName": "SAWAI",
+  "name": "TAMAKURI",
+  "postalCode": "98262"
  }
 ]

@@ -2,86 +2,120 @@
  {
   "id": 3524210002,
   "districtId": 3524210,
-  "name": "KEBALAN KULON"
+  "districtName": "SEKARAN",
+  "name": "KEBALAN KULON",
+  "postalCode": "62261"
  },
  {
   "id": 3524210003,
   "districtId": 3524210,
-  "name": "KUDIKAN"
+  "districtName": "SEKARAN",
+  "name": "KUDIKAN",
+  "postalCode": "62261"
  },
  {
   "id": 3524210004,
   "districtId": 3524210,
-  "name": "MANYAR"
+  "districtName": "SEKARAN",
+  "name": "MANYAR",
+  "postalCode": "62261"
  },
  {
   "id": 3524210005,
   "districtId": 3524210,
-  "name": "TROSONO"
+  "districtName": "SEKARAN",
+  "name": "TROSONO",
+  "postalCode": "63371"
  },
  {
   "id": 3524210006,
   "districtId": 3524210,
-  "name": "LATEK"
+  "districtName": "SEKARAN",
+  "name": "LATEK",
+  "postalCode": "67153"
  },
  {
   "id": 3524210007,
   "districtId": 3524210,
-  "name": "MIRU"
+  "districtName": "SEKARAN",
+  "name": "MIRU",
+  "postalCode": "62261"
  },
  {
   "id": 3524210010,
   "districtId": 3524210,
-  "name": "SIMAN"
+  "districtName": "SEKARAN",
+  "name": "SIMAN",
+  "postalCode": "64293"
  },
  {
   "id": 3524210011,
   "districtId": 3524210,
-  "name": "KEMBANGAN"
+  "districtName": "SEKARAN",
+  "name": "KEMBANGAN",
+  "postalCode": "59511"
  },
  {
   "id": 3524210012,
   "districtId": 3524210,
-  "name": "KARANG"
+  "districtName": "SEKARAN",
+  "name": "KARANG",
+  "postalCode": "58262"
  },
  {
   "id": 3524210014,
   "districtId": 3524210,
-  "name": "PORODESO"
+  "districtName": "SEKARAN",
+  "name": "PORODESO",
+  "postalCode": "62261"
  },
  {
   "id": 3524210015,
   "districtId": 3524210,
-  "name": "MORO"
+  "districtName": "SEKARAN",
+  "name": "MORO",
+  "postalCode": "29663"
  },
  {
   "id": 3524210016,
   "districtId": 3524210,
-  "name": "SEKARAN"
+  "districtName": "SEKARAN",
+  "name": "SEKARAN",
+  "postalCode": "50229"
  },
  {
   "id": 3524210017,
   "districtId": 3524210,
-  "name": "JUGO"
+  "districtName": "SEKARAN",
+  "name": "JUGO",
+  "postalCode": "59454"
  },
  {
   "id": 3524210018,
   "districtId": 3524210,
-  "name": "NGARUM"
+  "districtName": "SEKARAN",
+  "name": "NGARUM",
+  "postalCode": "57252"
  },
  {
   "id": 3524210019,
   "districtId": 3524210,
-  "name": "TITIK"
+  "districtName": "SEKARAN",
+  "name": "TITIK",
+  "postalCode": "62261"
  },
  {
   "id": 3524210020,
   "districtId": 3524210,
-  "name": "KENDAL"
+  "districtName": "SEKARAN",
+  "name": "KENDAL",
+  "postalCode": "45181"
  },
  {
   "id": 3524210021,
   "districtId": 3524210,
-  "name": "KETING"
+  "districtName": "SEKARAN",
+  "name": "KETING",
+  "postalCode": "68168"
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 1608040012,
   "districtId": 1608040,
-  "name": "TANJUNG SARI"
+  "districtName": "SIMPANG",
+  "name": "TANJUNG SARI",
+  "postalCode": "24673"
  },
  {
   "id": 1608040014,
   "districtId": 1608040,
-  "name": "LUBAR"
+  "districtName": "SIMPANG",
+  "name": "LUBAR",
+  "postalCode": "32264"
  },
  {
   "id": 1608040015,
   "districtId": 1608040,
-  "name": "KARANG AGUNG"
+  "districtName": "SIMPANG",
+  "name": "KARANG AGUNG",
+  "postalCode": "31315"
  },
  {
   "id": 1608040016,
   "districtId": 1608040,
-  "name": "SIMPANGAN"
+  "districtName": "SIMPANG",
+  "name": "SIMPANGAN",
+  "postalCode": "32264"
  },
  {
   "id": 1608040017,
   "districtId": 1608040,
-  "name": "BUNGIN CAMPANG"
+  "districtName": "SIMPANG",
+  "name": "BUNGIN CAMPANG",
+  "postalCode": "32264"
  },
  {
   "id": 1608040020,
   "districtId": 1608040,
-  "name": "SIMPANG AGUNG"
+  "districtName": "SIMPANG",
+  "name": "SIMPANG AGUNG",
+  "postalCode": "32264"
  },
  {
   "id": 1608040021,
   "districtId": 1608040,
-  "name": "SINAR MULYO"
+  "districtName": "SIMPANG",
+  "name": "SINAR MULYO",
+  "postalCode": "32264"
  }
 ]

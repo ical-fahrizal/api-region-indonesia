@@ -2,46 +2,64 @@
  {
   "id": 1276040001,
   "districtId": 1276040,
-  "name": "PAHLAWAN"
+  "districtName": "BINJAI UTARA",
+  "name": "PAHLAWAN",
+  "postalCode": "24476"
  },
  {
   "id": 1276040002,
   "districtId": 1276040,
-  "name": "JATINEGARA"
+  "districtName": "BINJAI UTARA",
+  "name": "JATINEGARA",
+  "postalCode": "13930"
  },
  {
   "id": 1276040003,
   "districtId": 1276040,
-  "name": "NANGKA"
+  "districtName": "BINJAI UTARA",
+  "name": "NANGKA",
+  "postalCode": "20742"
  },
  {
   "id": 1276040004,
   "districtId": 1276040,
-  "name": "JATI MAKMUR"
+  "districtName": "BINJAI UTARA",
+  "name": "JATI MAKMUR",
+  "postalCode": "20748"
  },
  {
   "id": 1276040005,
   "districtId": 1276040,
-  "name": "DAMAI"
+  "districtName": "BINJAI UTARA",
+  "name": "DAMAI",
+  "postalCode": "20745"
  },
  {
   "id": 1276040006,
   "districtId": 1276040,
-  "name": "KEBUN LADA"
+  "districtName": "BINJAI UTARA",
+  "name": "KEBUN LADA",
+  "postalCode": "20744"
  },
  {
   "id": 1276040007,
   "districtId": 1276040,
-  "name": "CENGKEH TURI"
+  "districtName": "BINJAI UTARA",
+  "name": "CENGKEH TURI",
+  "postalCode": "20747"
  },
  {
   "id": 1276040008,
   "districtId": 1276040,
-  "name": "JATI KARYA"
+  "districtName": "BINJAI UTARA",
+  "name": "JATI KARYA",
+  "postalCode": "20746"
  },
  {
   "id": 1276040009,
   "districtId": 1276040,
-  "name": "JATI UTOMO"
+  "districtName": "BINJAI UTARA",
+  "name": "JATI UTOMO",
+  "postalCode": "20749"
  }
 ]

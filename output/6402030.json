@@ -2,31 +2,43 @@
  {
   "id": 6402030001,
   "districtId": 6402030,
-  "name": "LOA DERAS"
+  "districtName": "PENYINGGAHAN",
+  "name": "LOA DERAS",
+  "postalCode": "75763"
  },
  {
   "id": 6402030002,
   "districtId": 6402030,
-  "name": "MINTA"
+  "districtName": "PENYINGGAHAN",
+  "name": "MINTA",
+  "postalCode": "75763"
  },
  {
   "id": 6402030003,
   "districtId": 6402030,
-  "name": "PENYINGGAHAN ILIR"
+  "districtName": "PENYINGGAHAN",
+  "name": "PENYINGGAHAN ILIR",
+  "postalCode": "75763"
  },
  {
   "id": 6402030004,
   "districtId": 6402030,
-  "name": "TANJUNG HAUR"
+  "districtName": "PENYINGGAHAN",
+  "name": "TANJUNG HAUR",
+  "postalCode": "75763"
  },
  {
   "id": 6402030005,
   "districtId": 6402030,
-  "name": "PENYINGGAHAN ULU"
+  "districtName": "PENYINGGAHAN",
+  "name": "PENYINGGAHAN ULU",
+  "postalCode": "75763"
  },
  {
   "id": 6402030006,
   "districtId": 6402030,
-  "name": "BAKUNG"
+  "districtName": "PENYINGGAHAN",
+  "name": "BAKUNG",
+  "postalCode": "36382"
  }
 ]

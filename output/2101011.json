@@ -2,21 +2,29 @@
  {
   "id": 2101011001,
   "districtId": 2101011,
-  "name": "TELAGA TUJUH"
+  "districtName": "DURAI",
+  "name": "TELAGA TUJUH",
+  "postalCode": "24410"
  },
  {
   "id": 2101011002,
   "districtId": 2101011,
-  "name": "SANGLAR"
+  "districtName": "DURAI",
+  "name": "SANGLAR",
+  "postalCode": "29273"
  },
  {
   "id": 2101011003,
   "districtId": 2101011,
-  "name": "SEMEMBANG"
+  "districtName": "DURAI",
+  "name": "SEMEMBANG",
+  "postalCode": ""
  },
  {
   "id": 2101011004,
   "districtId": 2101011,
-  "name": "TANJUNG KILANG"
+  "districtName": "DURAI",
+  "name": "TANJUNG KILANG",
+  "postalCode": "29664"
  }
 ]

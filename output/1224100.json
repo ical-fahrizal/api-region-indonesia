@@ -2,46 +2,64 @@
  {
   "id": 1224100001,
   "districtId": 1224100,
-  "name": "FAEKHUNAA"
+  "districtName": "AFULU",
+  "name": "FAEKHUNAA",
+  "postalCode": "22851"
  },
  {
   "id": 1224100002,
   "districtId": 1224100,
-  "name": "SIFAOROASI"
+  "districtName": "AFULU",
+  "name": "SIFAOROASI",
+  "postalCode": "22851"
  },
  {
   "id": 1224100003,
   "districtId": 1224100,
-  "name": "LAURU FADORO"
+  "districtName": "AFULU",
+  "name": "LAURU FADORO",
+  "postalCode": "22851"
  },
  {
   "id": 1224100004,
   "districtId": 1224100,
-  "name": "AFULU"
+  "districtName": "AFULU",
+  "name": "AFULU",
+  "postalCode": "22857"
  },
  {
   "id": 1224100005,
   "districtId": 1224100,
-  "name": "SISOBAHILI"
+  "districtName": "AFULU",
+  "name": "SISOBAHILI",
+  "postalCode": "22851"
  },
  {
   "id": 1224100006,
   "districtId": 1224100,
-  "name": "LAURU LAHEWA"
+  "districtName": "AFULU",
+  "name": "LAURU LAHEWA",
+  "postalCode": "22851"
  },
  {
   "id": 1224100007,
   "districtId": 1224100,
-  "name": "HAREWAKHE"
+  "districtName": "AFULU",
+  "name": "HAREWAKHE",
+  "postalCode": "22851"
  },
  {
   "id": 1224100008,
   "districtId": 1224100,
-  "name": "OMBOLATA AFULU"
+  "districtName": "AFULU",
+  "name": "OMBOLATA AFULU",
+  "postalCode": "22851"
  },
  {
   "id": 1224100009,
   "districtId": 1224100,
-  "name": "LAURU I AFULU"
+  "districtName": "AFULU",
+  "name": "LAURU I AFULU",
+  "postalCode": "22851"
  }
 ]

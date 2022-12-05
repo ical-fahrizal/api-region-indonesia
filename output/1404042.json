@@ -2,46 +2,64 @@
  {
   "id": 1404042001,
   "districtId": 1404042,
-  "name": "KUALA PANDUK"
+  "districtName": "TELUK MERANTI",
+  "name": "KUALA PANDUK",
+  "postalCode": "28353"
  },
  {
   "id": 1404042002,
   "districtId": 1404042,
-  "name": "PETODAAN"
+  "districtName": "TELUK MERANTI",
+  "name": "PETODAAN",
+  "postalCode": "28353"
  },
  {
   "id": 1404042003,
   "districtId": 1404042,
-  "name": "TELUK MERANTI"
+  "districtName": "TELUK MERANTI",
+  "name": "TELUK MERANTI",
+  "postalCode": "28353"
  },
  {
   "id": 1404042004,
   "districtId": 1404042,
-  "name": "PULAU MUDA"
+  "districtName": "TELUK MERANTI",
+  "name": "PULAU MUDA",
+  "postalCode": "28353"
  },
  {
   "id": 1404042005,
   "districtId": 1404042,
-  "name": "PANGKALAN TERAP"
+  "districtName": "TELUK MERANTI",
+  "name": "PANGKALAN TERAP",
+  "postalCode": "28353"
  },
  {
   "id": 1404042006,
   "districtId": 1404042,
-  "name": "TELUK BINJAI"
+  "districtName": "TELUK MERANTI",
+  "name": "TELUK BINJAI",
+  "postalCode": "21474"
  },
  {
   "id": 1404042007,
   "districtId": 1404042,
-  "name": "GAMBUT MUTIARA"
+  "districtName": "TELUK MERANTI",
+  "name": "GAMBUT MUTIARA",
+  "postalCode": "28353"
  },
  {
   "id": 1404042008,
   "districtId": 1404042,
-  "name": "LABUHAN BILIK"
+  "districtName": "TELUK MERANTI",
+  "name": "LABUHAN BILIK",
+  "postalCode": "21472"
  },
  {
   "id": 1404042009,
   "districtId": 1404042,
-  "name": "SEGAMAI"
+  "districtName": "TELUK MERANTI",
+  "name": "SEGAMAI",
+  "postalCode": "28353"
  }
 ]

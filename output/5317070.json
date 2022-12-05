@@ -2,61 +2,85 @@
  {
   "id": 5317070001,
   "districtId": 5317070,
-  "name": "WANO TALLA"
+  "districtName": "WEWEWA UTARA",
+  "name": "WANO TALLA",
+  "postalCode": "87252"
  },
  {
   "id": 5317070002,
   "districtId": 5317070,
-  "name": "WEE PABOBA"
+  "districtName": "WEWEWA UTARA",
+  "name": "WEE PABOBA",
+  "postalCode": "87252"
  },
  {
   "id": 5317070003,
   "districtId": 5317070,
-  "name": "MATALOKO"
+  "districtName": "WEWEWA UTARA",
+  "name": "MATALOKO",
+  "postalCode": "86461"
  },
  {
   "id": 5317070004,
   "districtId": 5317070,
-  "name": "PUU POTTO"
+  "districtName": "WEWEWA UTARA",
+  "name": "PUU POTTO",
+  "postalCode": "87252"
  },
  {
   "id": 5317070005,
   "districtId": 5317070,
-  "name": "WEE NAMBA"
+  "districtName": "WEWEWA UTARA",
+  "name": "WEE NAMBA",
+  "postalCode": "87252"
  },
  {
   "id": 5317070006,
   "districtId": 5317070,
-  "name": "MALI MADA"
+  "districtName": "WEWEWA UTARA",
+  "name": "MALI MADA",
+  "postalCode": "87252"
  },
  {
   "id": 5317070007,
   "districtId": 5317070,
-  "name": "MAWO MALITI"
+  "districtName": "WEWEWA UTARA",
+  "name": "MAWO MALITI",
+  "postalCode": ""
  },
  {
   "id": 5317070008,
   "districtId": 5317070,
-  "name": "JELA MANU"
+  "districtName": "WEWEWA UTARA",
+  "name": "JELA MANU",
+  "postalCode": ""
  },
  {
   "id": 5317070009,
   "districtId": 5317070,
-  "name": "BODO PONDA"
+  "districtName": "WEWEWA UTARA",
+  "name": "BODO PONDA",
+  "postalCode": ""
  },
  {
   "id": 5317070010,
   "districtId": 5317070,
-  "name": "PANDUA TANA"
+  "districtName": "WEWEWA UTARA",
+  "name": "PANDUA TANA",
+  "postalCode": ""
  },
  {
   "id": 5317070011,
   "districtId": 5317070,
-  "name": "ODI PAURATA"
+  "districtName": "WEWEWA UTARA",
+  "name": "ODI PAURATA",
+  "postalCode": ""
  },
  {
   "id": 5317070012,
   "districtId": 5317070,
-  "name": "REDA WANO"
+  "districtName": "WEWEWA UTARA",
+  "name": "REDA WANO",
+  "postalCode": ""
  }
 ]

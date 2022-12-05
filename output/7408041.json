@@ -2,36 +2,50 @@
  {
   "id": 7408041001,
   "districtId": 7408041,
-  "name": "SAPOIHA"
+  "districtName": "WATUNOHU",
+  "name": "SAPOIHA",
+  "postalCode": "93958"
  },
  {
   "id": 7408041002,
   "districtId": 7408041,
-  "name": "WATUNOHU"
+  "districtName": "WATUNOHU",
+  "name": "WATUNOHU",
+  "postalCode": "93958"
  },
  {
   "id": 7408041003,
   "districtId": 7408041,
-  "name": "LAHABARU"
+  "districtName": "WATUNOHU",
+  "name": "LAHABARU",
+  "postalCode": "93958"
  },
  {
   "id": 7408041004,
   "districtId": 7408041,
-  "name": "SARONA"
+  "districtName": "WATUNOHU",
+  "name": "SARONA",
+  "postalCode": ""
  },
  {
   "id": 7408041005,
   "districtId": 7408041,
-  "name": "TAMBUHA"
+  "districtName": "WATUNOHU",
+  "name": "TAMBUHA",
+  "postalCode": "93958"
  },
  {
   "id": 7408041007,
   "districtId": 7408041,
-  "name": "SAMATURU"
+  "districtName": "WATUNOHU",
+  "name": "SAMATURU",
+  "postalCode": "93958"
  },
  {
   "id": 7408041008,
   "districtId": 7408041,
-  "name": "LELEHAO"
+  "districtName": "WATUNOHU",
+  "name": "LELEHAO",
+  "postalCode": ""
  }
 ]

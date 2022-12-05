@@ -2,61 +2,85 @@
  {
   "id": 3325101001,
   "districtId": 3325101,
-  "name": "LAWANGAJI"
+  "districtName": "KANDEMAN",
+  "name": "LAWANGAJI",
+  "postalCode": "51261"
  },
  {
   "id": 3325101002,
   "districtId": 3325101,
-  "name": "KARANGANOM"
+  "districtName": "KANDEMAN",
+  "name": "KARANGANOM",
+  "postalCode": "54264"
  },
  {
   "id": 3325101003,
   "districtId": 3325101,
-  "name": "BOTOLAMBAT"
+  "districtName": "KANDEMAN",
+  "name": "BOTOLAMBAT",
+  "postalCode": "51261"
  },
  {
   "id": 3325101005,
   "districtId": 3325101,
-  "name": "TRAGUNG"
+  "districtName": "KANDEMAN",
+  "name": "TRAGUNG",
+  "postalCode": "51261"
  },
  {
   "id": 3325101006,
   "districtId": 3325101,
-  "name": "TEGALSARI"
+  "districtName": "KANDEMAN",
+  "name": "TEGALSARI",
+  "postalCode": "35372"
  },
  {
   "id": 3325101007,
   "districtId": 3325101,
-  "name": "KANDEMAN"
+  "districtName": "KANDEMAN",
+  "name": "KANDEMAN",
+  "postalCode": "51261"
  },
  {
   "id": 3325101008,
   "districtId": 3325101,
-  "name": "JURAGAN"
+  "districtName": "KANDEMAN",
+  "name": "JURAGAN",
+  "postalCode": "51261"
  },
  {
   "id": 3325101009,
   "districtId": 3325101,
-  "name": "BAKALAN"
+  "districtName": "KANDEMAN",
+  "name": "BAKALAN",
+  "postalCode": "59158"
  },
  {
   "id": 3325101010,
   "districtId": 3325101,
-  "name": "WONOKERSO"
+  "districtName": "KANDEMAN",
+  "name": "WONOKERSO",
+  "postalCode": "51261"
  },
  {
   "id": 3325101011,
   "districtId": 3325101,
-  "name": "KARANGGENENG"
+  "districtName": "KANDEMAN",
+  "name": "KARANGGENENG",
+  "postalCode": "57312"
  },
  {
   "id": 3325101012,
   "districtId": 3325101,
-  "name": "UJUNGNEGORO"
+  "districtName": "KANDEMAN",
+  "name": "UJUNGNEGORO",
+  "postalCode": "51261"
  },
  {
   "id": 3325101013,
   "districtId": 3325101,
-  "name": "DEPOK"
+  "districtName": "KANDEMAN",
+  "name": "DEPOK",
+  "postalCode": "44174"
  }
 ]

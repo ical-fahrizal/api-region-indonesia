@@ -2,26 +2,36 @@
  {
   "id": 6102052001,
   "districtId": 6102052,
-  "name": "SEREN SELIMBAU"
+  "districtName": "LUMAR",
+  "name": "SEREN SELIMBAU",
+  "postalCode": "79283"
  },
  {
   "id": 6102052002,
   "districtId": 6102052,
-  "name": "TIGA BERKAT"
+  "districtName": "LUMAR",
+  "name": "TIGA BERKAT",
+  "postalCode": "79283"
  },
  {
   "id": 6102052003,
   "districtId": 6102052,
-  "name": "MAGMAGAN KARYA"
+  "districtName": "LUMAR",
+  "name": "MAGMAGAN KARYA",
+  "postalCode": "79283"
  },
  {
   "id": 6102052004,
   "districtId": 6102052,
-  "name": "BELIMBING"
+  "districtName": "LUMAR",
+  "name": "BELIMBING",
+  "postalCode": "29355"
  },
  {
   "id": 6102052005,
   "districtId": 6102052,
-  "name": "LAMOLDA"
+  "districtName": "LUMAR",
+  "name": "LAMOLDA",
+  "postalCode": "79283"
  }
 ]

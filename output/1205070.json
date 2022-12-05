@@ -2,96 +2,134 @@
  {
   "id": 1205070001,
   "districtId": 1205070,
-  "name": "PANGURDOTAN"
+  "districtName": "PAHAE JULU",
+  "name": "PANGURDOTAN",
+  "postalCode": "22463"
  },
  {
   "id": 1205070002,
   "districtId": 1205070,
-  "name": "LUMBAN GAOL"
+  "districtName": "PAHAE JULU",
+  "name": "LUMBAN GAOL",
+  "postalCode": "22312"
  },
  {
   "id": 1205070003,
   "districtId": 1205070,
-  "name": "LUMBAN TONGA"
+  "districtName": "PAHAE JULU",
+  "name": "LUMBAN TONGA",
+  "postalCode": "22463"
  },
  {
   "id": 1205070004,
   "districtId": 1205070,
-  "name": "SITOLU AMA"
+  "districtName": "PAHAE JULU",
+  "name": "SITOLU AMA",
+  "postalCode": ""
  },
  {
   "id": 1205070005,
   "districtId": 1205070,
-  "name": "SIMANAMPANG"
+  "districtName": "PAHAE JULU",
+  "name": "SIMANAMPANG",
+  "postalCode": "22463"
  },
  {
   "id": 1205070006,
   "districtId": 1205070,
-  "name": "LOBU PINING"
+  "districtName": "PAHAE JULU",
+  "name": "LOBU PINING",
+  "postalCode": "22463"
  },
  {
   "id": 1205070007,
   "districtId": 1205070,
-  "name": "HUTA BARAT"
+  "districtName": "PAHAE JULU",
+  "name": "HUTA BARAT",
+  "postalCode": "22463"
  },
  {
   "id": 1205070008,
   "districtId": 1205070,
-  "name": "LUMBAN DOLOK"
+  "districtName": "PAHAE JULU",
+  "name": "LUMBAN DOLOK",
+  "postalCode": "22463"
  },
  {
   "id": 1205070009,
   "districtId": 1205070,
-  "name": "SIMARDANGIANG"
+  "districtName": "PAHAE JULU",
+  "name": "SIMARDANGIANG",
+  "postalCode": "22463"
  },
  {
   "id": 1205070010,
   "districtId": 1205070,
-  "name": "SIBAGANDING"
+  "districtName": "PAHAE JULU",
+  "name": "SIBAGANDING",
+  "postalCode": "20581"
  },
  {
   "id": 1205070011,
   "districtId": 1205070,
-  "name": "LUMBAN GARAGA"
+  "districtName": "PAHAE JULU",
+  "name": "LUMBAN GARAGA",
+  "postalCode": "22463"
  },
  {
   "id": 1205070012,
   "districtId": 1205070,
-  "name": "JANJI MATOGU"
+  "districtName": "PAHAE JULU",
+  "name": "JANJI MATOGU",
+  "postalCode": "22977"
  },
  {
   "id": 1205070013,
   "districtId": 1205070,
-  "name": "LUMBAN JAEAN"
+  "districtName": "PAHAE JULU",
+  "name": "LUMBAN JAEAN",
+  "postalCode": "22463"
  },
  {
   "id": 1205070014,
   "districtId": 1205070,
-  "name": "ONAN HASANG"
+  "districtName": "PAHAE JULU",
+  "name": "ONAN HASANG",
+  "postalCode": "22463"
  },
  {
   "id": 1205070015,
   "districtId": 1205070,
-  "name": "PANTIS"
+  "districtName": "PAHAE JULU",
+  "name": "PANTIS",
+  "postalCode": "22463"
  },
  {
   "id": 1205070016,
   "districtId": 1205070,
-  "name": "LONTUNG DOLOK"
+  "districtName": "PAHAE JULU",
+  "name": "LONTUNG DOLOK",
+  "postalCode": "22463"
  },
  {
   "id": 1205070017,
   "districtId": 1205070,
-  "name": "SIMATANIARI"
+  "districtName": "PAHAE JULU",
+  "name": "SIMATANIARI",
+  "postalCode": "22735"
  },
  {
   "id": 1205070018,
   "districtId": 1205070,
-  "name": "SIMASOM TORUAN"
+  "districtName": "PAHAE JULU",
+  "name": "SIMASOM TORUAN",
+  "postalCode": "22463"
  },
  {
   "id": 1205070019,
   "districtId": 1205070,
-  "name": "SIMASOM"
+  "districtName": "PAHAE JULU",
+  "name": "SIMASOM",
+  "postalCode": "22733"
  }
 ]

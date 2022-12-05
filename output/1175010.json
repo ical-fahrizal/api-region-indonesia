@@ -2,86 +2,120 @@
  {
   "id": 1175010001,
   "districtId": 1175010,
-  "name": "BULUH DORI"
+  "districtName": "SIMPANG KIRI",
+  "name": "BULUH DORI",
+  "postalCode": ""
  },
  {
   "id": 1175010002,
   "districtId": 1175010,
-  "name": "PEGAYO"
+  "districtName": "SIMPANG KIRI",
+  "name": "PEGAYO",
+  "postalCode": "24782"
  },
  {
   "id": 1175010003,
   "districtId": 1175010,
-  "name": "SUBULUSSALAM"
+  "districtName": "SIMPANG KIRI",
+  "name": "SUBULUSSALAM",
+  "postalCode": "24782"
  },
  {
   "id": 1175010004,
   "districtId": 1175010,
-  "name": "PASAR PANJANG"
+  "districtName": "SIMPANG KIRI",
+  "name": "PASAR PANJANG",
+  "postalCode": "24782"
  },
  {
   "id": 1175010005,
   "districtId": 1175010,
-  "name": "TANGGA BESI"
+  "districtName": "SIMPANG KIRI",
+  "name": "TANGGA BESI",
+  "postalCode": "24782"
  },
  {
   "id": 1175010006,
   "districtId": 1175010,
-  "name": "KUTA CEPU"
+  "districtName": "SIMPANG KIRI",
+  "name": "KUTA CEPU",
+  "postalCode": "24782"
  },
  {
   "id": 1175010007,
   "districtId": 1175010,
-  "name": "SUKA MAKMUR"
+  "districtName": "SIMPANG KIRI",
+  "name": "SUKA MAKMUR",
+  "postalCode": "24784"
  },
  {
   "id": 1175010008,
   "districtId": 1175010,
-  "name": "SIKELONDANG"
+  "districtName": "SIMPANG KIRI",
+  "name": "SIKELONDANG",
+  "postalCode": ""
  },
  {
   "id": 1175010009,
   "districtId": 1175010,
-  "name": "MUKTI MAKMUR"
+  "districtName": "SIMPANG KIRI",
+  "name": "MUKTI MAKMUR",
+  "postalCode": "24782"
  },
  {
   "id": 1175010010,
   "districtId": 1175010,
-  "name": "SUBULUSSALAM BARAT"
+  "districtName": "SIMPANG KIRI",
+  "name": "SUBULUSSALAM BARAT",
+  "postalCode": "24782"
  },
  {
   "id": 1175010011,
   "districtId": 1175010,
-  "name": "SUBULUSSALAM SELATAN"
+  "districtName": "SIMPANG KIRI",
+  "name": "SUBULUSSALAM SELATAN",
+  "postalCode": "24782"
  },
  {
   "id": 1175010012,
   "districtId": 1175010,
-  "name": "SUBULUSSALAM UTARA"
+  "districtName": "SIMPANG KIRI",
+  "name": "SUBULUSSALAM UTARA",
+  "postalCode": "24782"
  },
  {
   "id": 1175010013,
   "districtId": 1175010,
-  "name": "LAE ORAM"
+  "districtName": "SIMPANG KIRI",
+  "name": "LAE ORAM",
+  "postalCode": ""
  },
  {
   "id": 1175010014,
   "districtId": 1175010,
-  "name": "MAKMUR JAYA"
+  "districtName": "SIMPANG KIRI",
+  "name": "MAKMUR JAYA",
+  "postalCode": "24653"
  },
  {
   "id": 1175010015,
   "districtId": 1175010,
-  "name": "BELEGEN MULIA"
+  "districtName": "SIMPANG KIRI",
+  "name": "BELEGEN MULIA",
+  "postalCode": ""
  },
  {
   "id": 1175010016,
   "districtId": 1175010,
-  "name": "DANAU TRAS"
+  "districtName": "SIMPANG KIRI",
+  "name": "DANAU TRAS",
+  "postalCode": ""
  },
  {
   "id": 1175010017,
   "districtId": 1175010,
-  "name": "SUBULUSSALAM TIMUR"
+  "districtName": "SIMPANG KIRI",
+  "name": "SUBULUSSALAM TIMUR",
+  "postalCode": ""
  }
 ]

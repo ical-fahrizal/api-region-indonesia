@@ -2,31 +2,43 @@
  {
   "id": 8108012001,
   "districtId": 8108012,
-  "name": "ERAY"
+  "districtName": "WETAR UTARA",
+  "name": "ERAY",
+  "postalCode": "97454"
  },
  {
   "id": 8108012002,
   "districtId": 8108012,
-  "name": "NABAR"
+  "districtName": "WETAR UTARA",
+  "name": "NABAR",
+  "postalCode": "97454"
  },
  {
   "id": 8108012003,
   "districtId": 8108012,
-  "name": "ESULIT"
+  "districtName": "WETAR UTARA",
+  "name": "ESULIT",
+  "postalCode": ""
  },
  {
   "id": 8108012004,
   "districtId": 8108012,
-  "name": "NAUMATANG"
+  "districtName": "WETAR UTARA",
+  "name": "NAUMATANG",
+  "postalCode": "97454"
  },
  {
   "id": 8108012005,
   "districtId": 8108012,
-  "name": "LURANG"
+  "districtName": "WETAR UTARA",
+  "name": "LURANG",
+  "postalCode": "97454"
  },
  {
   "id": 8108012006,
   "districtId": 8108012,
-  "name": "UHAK"
+  "districtName": "WETAR UTARA",
+  "name": "UHAK",
+  "postalCode": "97454"
  }
 ]

@@ -2,21 +2,29 @@
  {
   "id": 6504110001,
   "districtId": 6504110,
-  "name": "TANJUNG HARAPAN"
+  "districtName": "NUNUKAN SELATAN",
+  "name": "TANJUNG HARAPAN",
+  "postalCode": "23754"
  },
  {
   "id": 6504110002,
   "districtId": 6504110,
-  "name": "MANSAPA"
+  "districtName": "NUNUKAN SELATAN",
+  "name": "MANSAPA",
+  "postalCode": "77482"
  },
  {
   "id": 6504110003,
   "districtId": 6504110,
-  "name": "NUNUKAN SELATAN"
+  "districtName": "NUNUKAN SELATAN",
+  "name": "NUNUKAN SELATAN",
+  "postalCode": "77482"
  },
  {
   "id": 6504110004,
   "districtId": 6504110,
-  "name": "SELISUN"
+  "districtName": "NUNUKAN SELATAN",
+  "name": "SELISUN",
+  "postalCode": "77482"
  }
 ]

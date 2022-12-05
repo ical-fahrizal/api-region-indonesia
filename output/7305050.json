@@ -2,61 +2,85 @@
  {
   "id": 7305050001,
   "districtId": 7305050,
-  "name": "MANGINDARA"
+  "districtName": "GALESONG SELATAN",
+  "name": "MANGINDARA",
+  "postalCode": "92254"
  },
  {
   "id": 7305050002,
   "districtId": 7305050,
-  "name": "BONTO MARANNU"
+  "districtName": "GALESONG SELATAN",
+  "name": "BONTO MARANNU",
+  "postalCode": "92572"
  },
  {
   "id": 7305050003,
   "districtId": 7305050,
-  "name": "BARAMAMASE"
+  "districtName": "GALESONG SELATAN",
+  "name": "BARAMAMASE",
+  "postalCode": "92254"
  },
  {
   "id": 7305050004,
   "districtId": 7305050,
-  "name": "BONTO KASSI"
+  "districtName": "GALESONG SELATAN",
+  "name": "BONTO KASSI",
+  "postalCode": "92254"
  },
  {
   "id": 7305050005,
   "districtId": 7305050,
-  "name": "SAWAKONG"
+  "districtName": "GALESONG SELATAN",
+  "name": "SAWAKONG",
+  "postalCode": "92254"
  },
  {
   "id": 7305050006,
   "districtId": 7305050,
-  "name": "BENTANG"
+  "districtName": "GALESONG SELATAN",
+  "name": "BENTANG",
+  "postalCode": "94765"
  },
  {
   "id": 7305050007,
   "districtId": 7305050,
-  "name": "BONTOKANANG"
+  "districtName": "GALESONG SELATAN",
+  "name": "BONTOKANANG",
+  "postalCode": "92254"
  },
  {
   "id": 7305050015,
   "districtId": 7305050,
-  "name": "POPO"
+  "districtName": "GALESONG SELATAN",
+  "name": "POPO",
+  "postalCode": "86561"
  },
  {
   "id": 7305050016,
   "districtId": 7305050,
-  "name": "TAROWANG"
+  "districtName": "GALESONG SELATAN",
+  "name": "TAROWANG",
+  "postalCode": "92254"
  },
  {
   "id": 7305050017,
   "districtId": 7305050,
-  "name": "KADATONG"
+  "districtName": "GALESONG SELATAN",
+  "name": "KADATONG",
+  "postalCode": "92254"
  },
  {
   "id": 7305050018,
   "districtId": 7305050,
-  "name": "KALEBENTANG"
+  "districtName": "GALESONG SELATAN",
+  "name": "KALEBENTANG",
+  "postalCode": ""
  },
  {
   "id": 7305050019,
   "districtId": 7305050,
-  "name": "KALUKU BODO"
+  "districtName": "GALESONG SELATAN",
+  "name": "KALUKU BODO",
+  "postalCode": ""
  }
 ]

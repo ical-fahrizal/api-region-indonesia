@@ -2,126 +2,176 @@
  {
   "id": 7405010001,
   "districtId": 7405010,
-  "name": "LANOWULU"
+  "districtName": "TINANGGEA",
+  "name": "LANOWULU",
+  "postalCode": "93885"
  },
  {
   "id": 7405010002,
   "districtId": 7405010,
-  "name": "RORAYA"
+  "districtName": "TINANGGEA",
+  "name": "RORAYA",
+  "postalCode": "93885"
  },
  {
   "id": 7405010005,
   "districtId": 7405010,
-  "name": "TELUTU JAYA"
+  "districtName": "TINANGGEA",
+  "name": "TELUTU JAYA",
+  "postalCode": "93885"
  },
  {
   "id": 7405010006,
   "districtId": 7405010,
-  "name": "LAPOA"
+  "districtName": "TINANGGEA",
+  "name": "LAPOA",
+  "postalCode": "93885"
  },
  {
   "id": 7405010007,
   "districtId": 7405010,
-  "name": "ASINGI"
+  "districtName": "TINANGGEA",
+  "name": "ASINGI",
+  "postalCode": "93885"
  },
  {
   "id": 7405010008,
   "districtId": 7405010,
-  "name": "NGAPAAHA"
+  "districtName": "TINANGGEA",
+  "name": "NGAPAAHA",
+  "postalCode": ""
  },
  {
   "id": 7405010009,
   "districtId": 7405010,
-  "name": "TINANGGEA"
+  "districtName": "TINANGGEA",
+  "name": "TINANGGEA",
+  "postalCode": "93885"
  },
  {
   "id": 7405010010,
   "districtId": 7405010,
-  "name": "BUNGIN PERMAI"
+  "districtName": "TINANGGEA",
+  "name": "BUNGIN PERMAI",
+  "postalCode": "93885"
  },
  {
   "id": 7405010011,
   "districtId": 7405010,
-  "name": "TOROKEKU"
+  "districtName": "TINANGGEA",
+  "name": "TOROKEKU",
+  "postalCode": "93885"
  },
  {
   "id": 7405010012,
   "districtId": 7405010,
-  "name": "LAPULU"
+  "districtName": "TINANGGEA",
+  "name": "LAPULU",
+  "postalCode": "93234"
  },
  {
   "id": 7405010013,
   "districtId": 7405010,
-  "name": "WADONGGO"
+  "districtName": "TINANGGEA",
+  "name": "WADONGGO",
+  "postalCode": ""
  },
  {
   "id": 7405010014,
   "districtId": 7405010,
-  "name": "WATUMELEWE"
+  "districtName": "TINANGGEA",
+  "name": "WATUMELEWE",
+  "postalCode": "93885"
  },
  {
   "id": 7405010015,
   "districtId": 7405010,
-  "name": "MOOLO INDAH"
+  "districtName": "TINANGGEA",
+  "name": "MOOLO INDAH",
+  "postalCode": "93885"
  },
  {
   "id": 7405010016,
   "districtId": 7405010,
-  "name": "LALONGGASU"
+  "districtName": "TINANGGEA",
+  "name": "LALONGGASU",
+  "postalCode": "93885"
  },
  {
   "id": 7405010017,
   "districtId": 7405010,
-  "name": "PALO TAWO"
+  "districtName": "TINANGGEA",
+  "name": "PALO TAWO",
+  "postalCode": "93885"
  },
  {
   "id": 7405010038,
   "districtId": 7405010,
-  "name": "LALOWATU"
+  "districtName": "TINANGGEA",
+  "name": "LALOWATU",
+  "postalCode": ""
  },
  {
   "id": 7405010039,
   "districtId": 7405010,
-  "name": "RAPEA"
+  "districtName": "TINANGGEA",
+  "name": "RAPEA",
+  "postalCode": ""
  },
  {
   "id": 7405010040,
   "districtId": 7405010,
-  "name": "TATANGGE"
+  "districtName": "TINANGGEA",
+  "name": "TATANGGE",
+  "postalCode": "93885"
  },
  {
   "id": 7405010041,
   "districtId": 7405010,
-  "name": "BOMBA-BOMBA"
+  "districtName": "TINANGGEA",
+  "name": "BOMBA-BOMBA",
+  "postalCode": "93885"
  },
  {
   "id": 7405010042,
   "districtId": 7405010,
-  "name": "PONGGOSI"
+  "districtName": "TINANGGEA",
+  "name": "PONGGOSI",
+  "postalCode": ""
  },
  {
   "id": 7405010043,
   "districtId": 7405010,
-  "name": "MATANDAHI"
+  "districtName": "TINANGGEA",
+  "name": "MATANDAHI",
+  "postalCode": "93395"
  },
  {
   "id": 7405010044,
   "districtId": 7405010,
-  "name": "MATAMBAWI"
+  "districtName": "TINANGGEA",
+  "name": "MATAMBAWI",
+  "postalCode": "93885"
  },
  {
   "id": 7405010045,
   "districtId": 7405010,
-  "name": "AKUNI"
+  "districtName": "TINANGGEA",
+  "name": "AKUNI",
+  "postalCode": "93885"
  },
  {
   "id": 7405010046,
   "districtId": 7405010,
-  "name": "WUNDUMBOLO"
+  "districtName": "TINANGGEA",
+  "name": "WUNDUMBOLO",
+  "postalCode": "93885"
  },
  {
   "id": 7405010047,
   "districtId": 7405010,
-  "name": "LASUAI"
+  "districtName": "TINANGGEA",
+  "name": "LASUAI",
+  "postalCode": "93885"
  }
 ]

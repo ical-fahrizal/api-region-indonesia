@@ -2,116 +2,162 @@
  {
   "id": 1206060001,
   "districtId": 1206060,
-  "name": "PINTU BATU"
+  "districtName": "SILAEN",
+  "name": "PINTU BATU",
+  "postalCode": "22382"
  },
  {
   "id": 1206060002,
   "districtId": 1206060,
-  "name": "PARDOMUAN"
+  "districtName": "SILAEN",
+  "name": "PARDOMUAN",
+  "postalCode": "22732"
  },
  {
   "id": 1206060003,
   "districtId": 1206060,
-  "name": "OMBUR"
+  "districtName": "SILAEN",
+  "name": "OMBUR",
+  "postalCode": "22382"
  },
  {
   "id": 1206060004,
   "districtId": 1206060,
-  "name": "PARSAMBILAN"
+  "districtName": "SILAEN",
+  "name": "PARSAMBILAN",
+  "postalCode": "22382"
  },
  {
   "id": 1206060005,
   "districtId": 1206060,
-  "name": "SIGODANG TUA"
+  "districtName": "SILAEN",
+  "name": "SIGODANG TUA",
+  "postalCode": "22382"
  },
  {
   "id": 1206060006,
   "districtId": 1206060,
-  "name": "SINTA DAME"
+  "districtName": "SILAEN",
+  "name": "SINTA DAME",
+  "postalCode": ""
  },
  {
   "id": 1206060007,
   "districtId": 1206060,
-  "name": "NATOLUTALI"
+  "districtName": "SILAEN",
+  "name": "NATOLUTALI",
+  "postalCode": "22382"
  },
  {
   "id": 1206060008,
   "districtId": 1206060,
-  "name": "DALIHAN NATOLU"
+  "districtName": "SILAEN",
+  "name": "DALIHAN NATOLU",
+  "postalCode": "22756"
  },
  {
   "id": 1206060009,
   "districtId": 1206060,
-  "name": "HUTA GURGUR II"
+  "districtName": "SILAEN",
+  "name": "HUTA GURGUR II",
+  "postalCode": "22382"
  },
  {
   "id": 1206060010,
   "districtId": 1206060,
-  "name": "HUTA GURGUR I"
+  "districtName": "SILAEN",
+  "name": "HUTA GURGUR I",
+  "postalCode": "22382"
  },
  {
   "id": 1206060011,
   "districtId": 1206060,
-  "name": "SITORANG I"
+  "districtName": "SILAEN",
+  "name": "SITORANG I",
+  "postalCode": "22382"
  },
  {
   "id": 1206060012,
   "districtId": 1206060,
-  "name": "HUTA NAMORA"
+  "districtName": "SILAEN",
+  "name": "HUTA NAMORA",
+  "postalCode": "22312"
  },
  {
   "id": 1206060021,
   "districtId": 1206060,
-  "name": "SILAEN"
+  "districtName": "SILAEN",
+  "name": "SILAEN",
+  "postalCode": "22382"
  },
  {
   "id": 1206060022,
   "districtId": 1206060,
-  "name": "LUMBAN DOLOK"
+  "districtName": "SILAEN",
+  "name": "LUMBAN DOLOK",
+  "postalCode": "22463"
  },
  {
   "id": 1206060023,
   "districtId": 1206060,
-  "name": "NAPITUPULU"
+  "districtName": "SILAEN",
+  "name": "NAPITUPULU",
+  "postalCode": "22382"
  },
  {
   "id": 1206060024,
   "districtId": 1206060,
-  "name": "HUTAGAOL SIHUJUR"
+  "districtName": "SILAEN",
+  "name": "HUTAGAOL SIHUJUR",
+  "postalCode": "22382"
  },
  {
   "id": 1206060025,
   "districtId": 1206060,
-  "name": "SIBIDE BARAT"
+  "districtName": "SILAEN",
+  "name": "SIBIDE BARAT",
+  "postalCode": "22382"
  },
  {
   "id": 1206060026,
   "districtId": 1206060,
-  "name": "SIBIDE"
+  "districtName": "SILAEN",
+  "name": "SIBIDE",
+  "postalCode": "22382"
  },
  {
   "id": 1206060027,
   "districtId": 1206060,
-  "name": "MERANTI BARAT"
+  "districtName": "SILAEN",
+  "name": "MERANTI BARAT",
+  "postalCode": "22382"
  },
  {
   "id": 1206060028,
   "districtId": 1206060,
-  "name": "SIMANOBAK"
+  "districtName": "SILAEN",
+  "name": "SIMANOBAK",
+  "postalCode": "22382"
  },
  {
   "id": 1206060029,
   "districtId": 1206060,
-  "name": "MARBULANG"
+  "districtName": "SILAEN",
+  "name": "MARBULANG",
+  "postalCode": "22382"
  },
  {
   "id": 1206060030,
   "districtId": 1206060,
-  "name": "SIRINGKIRON"
+  "districtName": "SILAEN",
+  "name": "SIRINGKIRON",
+  "postalCode": "22382"
  },
  {
   "id": 1206060031,
   "districtId": 1206060,
-  "name": "PANINDII"
+  "districtName": "SILAEN",
+  "name": "PANINDII",
+  "postalCode": ""
  }
 ]

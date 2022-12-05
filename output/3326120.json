@@ -2,71 +2,99 @@
  {
   "id": 3326120001,
   "districtId": 3326120,
-  "name": "JETAK KIDUL"
+  "districtName": "WONOPRINGGO",
+  "name": "JETAK KIDUL",
+  "postalCode": "51181"
  },
  {
   "id": 3326120002,
   "districtId": 3326120,
-  "name": "SASTRODIRJAN"
+  "districtName": "WONOPRINGGO",
+  "name": "SASTRODIRJAN",
+  "postalCode": "51181"
  },
  {
   "id": 3326120003,
   "districtId": 3326120,
-  "name": "LEGOK GUNUNG"
+  "districtName": "WONOPRINGGO",
+  "name": "LEGOK GUNUNG",
+  "postalCode": "51181"
  },
  {
   "id": 3326120004,
   "districtId": 3326120,
-  "name": "GALANG PENGAMPON GEDE"
+  "districtName": "WONOPRINGGO",
+  "name": "GALANG PENGAMPON GEDE",
+  "postalCode": "51181"
  },
  {
   "id": 3326120005,
   "districtId": 3326120,
-  "name": "KWAGEAN"
+  "districtName": "WONOPRINGGO",
+  "name": "KWAGEAN",
+  "postalCode": "51181"
  },
  {
   "id": 3326120006,
   "districtId": 3326120,
-  "name": "GETAS"
+  "districtName": "WONOPRINGGO",
+  "name": "GETAS",
+  "postalCode": "51274"
  },
  {
   "id": 3326120007,
   "districtId": 3326120,
-  "name": "ROWOKEMBU"
+  "districtName": "WONOPRINGGO",
+  "name": "ROWOKEMBU",
+  "postalCode": "51181"
  },
  {
   "id": 3326120008,
   "districtId": 3326120,
-  "name": "WONOPRINGGO"
+  "districtName": "WONOPRINGGO",
+  "name": "WONOPRINGGO",
+  "postalCode": "51181"
  },
  {
   "id": 3326120009,
   "districtId": 3326120,
-  "name": "SAMPIH"
+  "districtName": "WONOPRINGGO",
+  "name": "SAMPIH",
+  "postalCode": "45185"
  },
  {
   "id": 3326120010,
   "districtId": 3326120,
-  "name": "GONDANG"
+  "districtName": "WONOPRINGGO",
+  "name": "GONDANG",
+  "postalCode": "51255"
  },
  {
   "id": 3326120011,
   "districtId": 3326120,
-  "name": "WONOREJO"
+  "districtName": "WONOPRINGGO",
+  "name": "WONOREJO",
+  "postalCode": "21186"
  },
  {
   "id": 3326120012,
   "districtId": 3326120,
-  "name": "JETAK LENGKONG"
+  "districtName": "WONOPRINGGO",
+  "name": "JETAK LENGKONG",
+  "postalCode": "51181"
  },
  {
   "id": 3326120013,
   "districtId": 3326120,
-  "name": "PEGADEN TENGAH"
+  "districtName": "WONOPRINGGO",
+  "name": "PEGADEN TENGAH",
+  "postalCode": "51181"
  },
  {
   "id": 3326120014,
   "districtId": 3326120,
-  "name": "SURABAYAN"
+  "districtName": "WONOPRINGGO",
+  "name": "SURABAYAN",
+  "postalCode": "51181"
  }
 ]

@@ -2,26 +2,36 @@
  {
   "id": 7406053001,
   "districtId": 7406053,
-  "name": "LARETE"
+  "districtName": "POLEANG TENGGARA",
+  "name": "LARETE",
+  "postalCode": "93773"
  },
  {
   "id": 7406053002,
   "districtId": 7406053,
-  "name": "TERAPUNG"
+  "districtName": "POLEANG TENGGARA",
+  "name": "TERAPUNG",
+  "postalCode": "93762"
  },
  {
   "id": 7406053003,
   "districtId": 7406053,
-  "name": "LEMO"
+  "districtName": "POLEANG TENGGARA",
+  "name": "LEMO",
+  "postalCode": "15510"
  },
  {
   "id": 7406053004,
   "districtId": 7406053,
-  "name": "LAMOARE"
+  "districtName": "POLEANG TENGGARA",
+  "name": "LAMOARE",
+  "postalCode": "93572"
  },
  {
   "id": 7406053005,
   "districtId": 7406053,
-  "name": "RAMBAHA"
+  "districtName": "POLEANG TENGGARA",
+  "name": "RAMBAHA",
+  "postalCode": ""
  }
 ]

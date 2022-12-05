@@ -2,11 +2,15 @@
  {
   "id": 1312020001,
   "districtId": 1312020,
-  "name": "DESA BARU"
+  "districtName": "RANAH BATAHAN",
+  "name": "DESA BARU",
+  "postalCode": "26366"
  },
  {
   "id": 1312020002,
   "districtId": 1312020,
-  "name": "BATAHAN"
+  "districtName": "RANAH BATAHAN",
+  "name": "BATAHAN",
+  "postalCode": "22994"
  }
 ]

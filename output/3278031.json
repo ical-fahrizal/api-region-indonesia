@@ -2,31 +2,43 @@
  {
   "id": 3278031001,
   "districtId": 3278031,
-  "name": "SUKANAGARA"
+  "districtName": "PURBARATU",
+  "name": "SUKANAGARA",
+  "postalCode": "44174"
  },
  {
   "id": 3278031002,
   "districtId": 3278031,
-  "name": "SUKAMENAK"
+  "districtName": "PURBARATU",
+  "name": "SUKAMENAK",
+  "postalCode": "45464"
  },
  {
   "id": 3278031003,
   "districtId": 3278031,
-  "name": "PURBARATU"
+  "districtName": "PURBARATU",
+  "name": "PURBARATU",
+  "postalCode": "46196"
  },
  {
   "id": 3278031004,
   "districtId": 3278031,
-  "name": "SUKAASIH"
+  "districtName": "PURBARATU",
+  "name": "SUKAASIH",
+  "postalCode": "46196"
  },
  {
   "id": 3278031005,
   "districtId": 3278031,
-  "name": "SUKAJAYA"
+  "districtName": "PURBARATU",
+  "name": "SUKAJAYA",
+  "postalCode": "30756"
  },
  {
   "id": 3278031006,
   "districtId": 3278031,
-  "name": "SINGKUP"
+  "districtName": "PURBARATU",
+  "name": "SINGKUP",
+  "postalCode": "45555"
  }
 ]

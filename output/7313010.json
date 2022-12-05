@@ -2,76 +2,106 @@
  {
   "id": 7313010001,
   "districtId": 7313010,
-  "name": "LIU"
+  "districtName": "SABBANG PARU",
+  "name": "LIU",
+  "postalCode": "90991"
  },
  {
   "id": 7313010002,
   "districtId": 7313010,
-  "name": "TADANGPALIE"
+  "districtName": "SABBANG PARU",
+  "name": "TADANGPALIE",
+  "postalCode": "90961"
  },
  {
   "id": 7313010003,
   "districtId": 7313010,
-  "name": "TALOTENRENG"
+  "districtName": "SABBANG PARU",
+  "name": "TALOTENRENG",
+  "postalCode": ""
  },
  {
   "id": 7313010004,
   "districtId": 7313010,
-  "name": "WALENAE"
+  "districtName": "SABBANG PARU",
+  "name": "WALENAE",
+  "postalCode": ""
  },
  {
   "id": 7313010005,
   "districtId": 7313010,
-  "name": "SALOTENGNGA"
+  "districtName": "SABBANG PARU",
+  "name": "SALOTENGNGA",
+  "postalCode": "90961"
  },
  {
   "id": 7313010006,
   "districtId": 7313010,
-  "name": "B I L A"
+  "districtName": "SABBANG PARU",
+  "name": "B I L A",
+  "postalCode": ""
  },
  {
   "id": 7313010007,
   "districtId": 7313010,
-  "name": "WORONGNGE"
+  "districtName": "SABBANG PARU",
+  "name": "WORONGNGE",
+  "postalCode": "90961"
  },
  {
   "id": 7313010008,
   "districtId": 7313010,
-  "name": "PALLIMAE"
+  "districtName": "SABBANG PARU",
+  "name": "PALLIMAE",
+  "postalCode": "90961"
  },
  {
   "id": 7313010009,
   "districtId": 7313010,
-  "name": "UGI"
+  "districtName": "SABBANG PARU",
+  "name": "UGI",
+  "postalCode": "90961"
  },
  {
   "id": 7313010010,
   "districtId": 7313010,
-  "name": "MALLUSESALO"
+  "districtName": "SABBANG PARU",
+  "name": "MALLUSESALO",
+  "postalCode": "90961"
  },
  {
   "id": 7313010011,
   "districtId": 7313010,
-  "name": "SOMPE"
+  "districtName": "SABBANG PARU",
+  "name": "SOMPE",
+  "postalCode": "90961"
  },
  {
   "id": 7313010012,
   "districtId": 7313010,
-  "name": "WAGE"
+  "districtName": "SABBANG PARU",
+  "name": "WAGE",
+  "postalCode": "61257"
  },
  {
   "id": 7313010013,
   "districtId": 7313010,
-  "name": "PASAKA"
+  "districtName": "SABBANG PARU",
+  "name": "PASAKA",
+  "postalCode": "92767"
  },
  {
   "id": 7313010014,
   "districtId": 7313010,
-  "name": "UJUNGPERO"
+  "districtName": "SABBANG PARU",
+  "name": "UJUNGPERO",
+  "postalCode": "90961"
  },
  {
   "id": 7313010015,
   "districtId": 7313010,
-  "name": "BENTENG LOMPOE"
+  "districtName": "SABBANG PARU",
+  "name": "BENTENG LOMPOE",
+  "postalCode": "90961"
  }
 ]

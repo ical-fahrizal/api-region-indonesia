@@ -2,96 +2,134 @@
  {
   "id": 9411064001,
   "districtId": 9411064,
-  "name": "AMBIT-MBIT"
+  "districtName": "WAEGI",
+  "name": "AMBIT-MBIT",
+  "postalCode": "98916"
  },
  {
   "id": 9411064002,
   "districtId": 9411064,
-  "name": "AGOBAGA"
+  "districtName": "WAEGI",
+  "name": "AGOBAGA",
+  "postalCode": ""
  },
  {
   "id": 9411064003,
   "districtId": 9411064,
-  "name": "ALUKME"
+  "districtName": "WAEGI",
+  "name": "ALUKME",
+  "postalCode": ""
  },
  {
   "id": 9411064004,
   "districtId": 9411064,
-  "name": "ANGGITARI"
+  "districtName": "WAEGI",
+  "name": "ANGGITARI",
+  "postalCode": ""
  },
  {
   "id": 9411064005,
   "districtId": 9411064,
-  "name": "JIBINGGAME"
+  "districtName": "WAEGI",
+  "name": "JIBINGGAME",
+  "postalCode": "98912"
  },
  {
   "id": 9411064006,
   "districtId": 9411064,
-  "name": "NAKOGWE"
+  "districtName": "WAEGI",
+  "name": "NAKOGWE",
+  "postalCode": ""
  },
  {
   "id": 9411064007,
   "districtId": 9411064,
-  "name": "GINILOME"
+  "districtName": "WAEGI",
+  "name": "GINILOME",
+  "postalCode": "98912"
  },
  {
   "id": 9411064008,
   "districtId": 9411064,
-  "name": "YALIBATE"
+  "districtName": "WAEGI",
+  "name": "YALIBATE",
+  "postalCode": "98912"
  },
  {
   "id": 9411064009,
   "districtId": 9411064,
-  "name": "WURUNIKIME"
+  "districtName": "WAEGI",
+  "name": "WURUNIKIME",
+  "postalCode": ""
  },
  {
   "id": 9411064010,
   "districtId": 9411064,
-  "name": "LERAWERA"
+  "districtName": "WAEGI",
+  "name": "LERAWERA",
+  "postalCode": "98912"
  },
  {
   "id": 9411064011,
   "districtId": 9411064,
-  "name": "ANDIRON"
+  "districtName": "WAEGI",
+  "name": "ANDIRON",
+  "postalCode": "98916"
  },
  {
   "id": 9411064012,
   "districtId": 9411064,
-  "name": "TENOMANGGEN"
+  "districtName": "WAEGI",
+  "name": "TENOMANGGEN",
+  "postalCode": "98916"
  },
  {
   "id": 9411064013,
   "districtId": 9411064,
-  "name": "TIRIGOI"
+  "districtName": "WAEGI",
+  "name": "TIRIGOI",
+  "postalCode": "98916"
  },
  {
   "id": 9411064014,
   "districtId": 9411064,
-  "name": "MONDOGONERI"
+  "districtName": "WAEGI",
+  "name": "MONDOGONERI",
+  "postalCode": "98912"
  },
  {
   "id": 9411064015,
   "districtId": 9411064,
-  "name": "TOWOLUK"
+  "districtName": "WAEGI",
+  "name": "TOWOLUK",
+  "postalCode": "98912"
  },
  {
   "id": 9411064016,
   "districtId": 9411064,
-  "name": "TENOLOK"
+  "districtName": "WAEGI",
+  "name": "TENOLOK",
+  "postalCode": "98911"
  },
  {
   "id": 9411064017,
   "districtId": 9411064,
-  "name": "ORILUK"
+  "districtName": "WAEGI",
+  "name": "ORILUK",
+  "postalCode": "98912"
  },
  {
   "id": 9411064018,
   "districtId": 9411064,
-  "name": "PAGARUGOM"
+  "districtName": "WAEGI",
+  "name": "PAGARUGOM",
+  "postalCode": "98912"
  },
  {
   "id": 9411064019,
   "districtId": 9411064,
-  "name": "JIOGOBAK"
+  "districtName": "WAEGI",
+  "name": "JIOGOBAK",
+  "postalCode": ""
  }
 ]

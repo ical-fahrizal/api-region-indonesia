@@ -2,81 +2,113 @@
  {
   "id": 7101023001,
   "districtId": 7101023,
-  "name": "TONOM"
+  "districtName": "DUMOGA TIMUR",
+  "name": "TONOM",
+  "postalCode": "95772"
  },
  {
   "id": 7101023002,
   "districtId": 7101023,
-  "name": "MOGOYUNGGUNG"
+  "districtName": "DUMOGA TIMUR",
+  "name": "MOGOYUNGGUNG",
+  "postalCode": "95772"
  },
  {
   "id": 7101023003,
   "districtId": 7101023,
-  "name": "IMANDI"
+  "districtName": "DUMOGA TIMUR",
+  "name": "IMANDI",
+  "postalCode": "95772"
  },
  {
   "id": 7101023004,
   "districtId": 7101023,
-  "name": "PINONOBATUAN"
+  "districtName": "DUMOGA TIMUR",
+  "name": "PINONOBATUAN",
+  "postalCode": "95772"
  },
  {
   "id": 7101023005,
   "districtId": 7101023,
-  "name": "MODOMANG"
+  "districtName": "DUMOGA TIMUR",
+  "name": "MODOMANG",
+  "postalCode": "95772"
  },
  {
   "id": 7101023006,
   "districtId": 7101023,
-  "name": "DUMOGA"
+  "districtName": "DUMOGA TIMUR",
+  "name": "DUMOGA",
+  "postalCode": "95772"
  },
  {
   "id": 7101023007,
   "districtId": 7101023,
-  "name": "KEMBANG MERTHA"
+  "districtName": "DUMOGA TIMUR",
+  "name": "KEMBANG MERTHA",
+  "postalCode": "95772"
  },
  {
   "id": 7101023017,
   "districtId": 7101023,
-  "name": "DUMOGA II"
+  "districtName": "DUMOGA TIMUR",
+  "name": "DUMOGA II",
+  "postalCode": "95772"
  },
  {
   "id": 7101023018,
   "districtId": 7101023,
-  "name": "PINONOBATUAN BARAT"
+  "districtName": "DUMOGA TIMUR",
+  "name": "PINONOBATUAN BARAT",
+  "postalCode": "95772"
  },
  {
   "id": 7101023019,
   "districtId": 7101023,
-  "name": "MOGOYUNGGUNG II"
+  "districtName": "DUMOGA TIMUR",
+  "name": "MOGOYUNGGUNG II",
+  "postalCode": ""
  },
  {
   "id": 7101023020,
   "districtId": 7101023,
-  "name": "MOGOYUNGGUNG I"
+  "districtName": "DUMOGA TIMUR",
+  "name": "MOGOYUNGGUNG I",
+  "postalCode": ""
  },
  {
   "id": 7101023021,
   "districtId": 7101023,
-  "name": "AMERTHA SARI"
+  "districtName": "DUMOGA TIMUR",
+  "name": "AMERTHA SARI",
+  "postalCode": "95772"
  },
  {
   "id": 7101023022,
   "districtId": 7101023,
-  "name": "AMERTHA BUANA"
+  "districtName": "DUMOGA TIMUR",
+  "name": "AMERTHA BUANA",
+  "postalCode": "95772"
  },
  {
   "id": 7101023023,
   "districtId": 7101023,
-  "name": "KEMBANG SARI"
+  "districtName": "DUMOGA TIMUR",
+  "name": "KEMBANG SARI",
+  "postalCode": "83618"
  },
  {
   "id": 7101023024,
   "districtId": 7101023,
-  "name": "DUMOGA EMPAT"
+  "districtName": "DUMOGA TIMUR",
+  "name": "DUMOGA EMPAT",
+  "postalCode": ""
  },
  {
   "id": 7101023025,
   "districtId": 7101023,
-  "name": "DUMOGA TIGA"
+  "districtName": "DUMOGA TIMUR",
+  "name": "DUMOGA TIGA",
+  "postalCode": ""
  }
 ]

@@ -2,51 +2,71 @@
  {
   "id": 5107020001,
   "districtId": 5107020,
-  "name": "TANGKUP"
+  "districtName": "SIDEMEN",
+  "name": "TANGKUP",
+  "postalCode": "80864"
  },
  {
   "id": 5107020002,
   "districtId": 5107020,
-  "name": "TALIBENG"
+  "districtName": "SIDEMEN",
+  "name": "TALIBENG",
+  "postalCode": "80864"
  },
  {
   "id": 5107020003,
   "districtId": 5107020,
-  "name": "TELAGA TAWANG"
+  "districtName": "SIDEMEN",
+  "name": "TELAGA TAWANG",
+  "postalCode": "80864"
  },
  {
   "id": 5107020004,
   "districtId": 5107020,
-  "name": "SIDEMEN"
+  "districtName": "SIDEMEN",
+  "name": "SIDEMEN",
+  "postalCode": "80864"
  },
  {
   "id": 5107020005,
   "districtId": 5107020,
-  "name": "SINDU WATI"
+  "districtName": "SIDEMEN",
+  "name": "SINDU WATI",
+  "postalCode": "80864"
  },
  {
   "id": 5107020006,
   "districtId": 5107020,
-  "name": "SANGKAN GUNUNG"
+  "districtName": "SIDEMEN",
+  "name": "SANGKAN GUNUNG",
+  "postalCode": "80864"
  },
  {
   "id": 5107020007,
   "districtId": 5107020,
-  "name": "LOKA SARI"
+  "districtName": "SIDEMEN",
+  "name": "LOKA SARI",
+  "postalCode": ""
  },
  {
   "id": 5107020008,
   "districtId": 5107020,
-  "name": "KERTHA BUANA"
+  "districtName": "SIDEMEN",
+  "name": "KERTHA BUANA",
+  "postalCode": "80864"
  },
  {
   "id": 5107020009,
   "districtId": 5107020,
-  "name": "TRI EKA BUANA"
+  "districtName": "SIDEMEN",
+  "name": "TRI EKA BUANA",
+  "postalCode": "80864"
  },
  {
   "id": 5107020010,
   "districtId": 5107020,
-  "name": "WISMA KERTA"
+  "districtName": "SIDEMEN",
+  "name": "WISMA KERTA",
+  "postalCode": "80864"
  }
 ]

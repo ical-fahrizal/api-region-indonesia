@@ -2,41 +2,57 @@
  {
   "id": 3212220001,
   "districtId": 3212220,
-  "name": "BOGOR"
+  "districtName": "SUKRA",
+  "name": "BOGOR",
+  "postalCode": "45257"
  },
  {
   "id": 3212220002,
   "districtId": 3212220,
-  "name": "SUKRA"
+  "districtName": "SUKRA",
+  "name": "SUKRA",
+  "postalCode": "45257"
  },
  {
   "id": 3212220003,
   "districtId": 3212220,
-  "name": "UJUNGGEBANG"
+  "districtName": "SUKRA",
+  "name": "UJUNGGEBANG",
+  "postalCode": "45257"
  },
  {
   "id": 3212220004,
   "districtId": 3212220,
-  "name": "TEGALTAMAN"
+  "districtName": "SUKRA",
+  "name": "TEGALTAMAN",
+  "postalCode": "45257"
  },
  {
   "id": 3212220005,
   "districtId": 3212220,
-  "name": "SUKRAWETAN"
+  "districtName": "SUKRA",
+  "name": "SUKRAWETAN",
+  "postalCode": "45257"
  },
  {
   "id": 3212220006,
   "districtId": 3212220,
-  "name": "SUMURADEM"
+  "districtName": "SUKRA",
+  "name": "SUMURADEM",
+  "postalCode": "45257"
  },
  {
   "id": 3212220007,
   "districtId": 3212220,
-  "name": "SUMURADEM TIMUR"
+  "districtName": "SUKRA",
+  "name": "SUMURADEM TIMUR",
+  "postalCode": "45257"
  },
  {
   "id": 3212220008,
   "districtId": 3212220,
-  "name": "KARANGLAYUNG"
+  "districtName": "SUKRA",
+  "name": "KARANGLAYUNG",
+  "postalCode": "45391"
  }
 ]

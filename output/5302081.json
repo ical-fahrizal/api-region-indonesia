@@ -2,21 +2,29 @@
  {
   "id": 5302081001,
   "districtId": 5302081,
-  "name": "NDAPAYAMI"
+  "districtName": "KANATANG",
+  "name": "NDAPAYAMI",
+  "postalCode": "87153"
  },
  {
   "id": 5302081003,
   "districtId": 5302081,
-  "name": "KUTA"
+  "districtName": "KANATANG",
+  "name": "KUTA",
+  "postalCode": "16770"
  },
  {
   "id": 5302081004,
   "districtId": 5302081,
-  "name": "HAMBA PRAING"
+  "districtName": "KANATANG",
+  "name": "HAMBA PRAING",
+  "postalCode": "87153"
  },
  {
   "id": 5302081005,
   "districtId": 5302081,
-  "name": "MONDU"
+  "districtName": "KANATANG",
+  "name": "MONDU",
+  "postalCode": "87153"
  }
 ]

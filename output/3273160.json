@@ -2,36 +2,50 @@
  {
   "id": 3273160002,
   "districtId": 3273160,
-  "name": "BINONG"
+  "districtName": "BATUNUNGGAL",
+  "name": "BINONG",
+  "postalCode": "40275"
  },
  {
   "id": 3273160003,
   "districtId": 3273160,
-  "name": "KEBON GEDANG"
+  "districtName": "BATUNUNGGAL",
+  "name": "KEBON GEDANG",
+  "postalCode": "40274"
  },
  {
   "id": 3273160004,
   "districtId": 3273160,
-  "name": "MALEER"
+  "districtName": "BATUNUNGGAL",
+  "name": "MALEER",
+  "postalCode": "40274"
  },
  {
   "id": 3273160005,
   "districtId": 3273160,
-  "name": "CIBANGKONG"
+  "districtName": "BATUNUNGGAL",
+  "name": "CIBANGKONG",
+  "postalCode": "40273"
  },
  {
   "id": 3273160006,
   "districtId": 3273160,
-  "name": "SAMOJA"
+  "districtName": "BATUNUNGGAL",
+  "name": "SAMOJA",
+  "postalCode": "40273"
  },
  {
   "id": 3273160007,
   "districtId": 3273160,
-  "name": "KACAPIRING"
+  "districtName": "BATUNUNGGAL",
+  "name": "KACAPIRING",
+  "postalCode": "40271"
  },
  {
   "id": 3273160008,
   "districtId": 3273160,
-  "name": "KEBON WARU"
+  "districtName": "BATUNUNGGAL",
+  "name": "KEBON WARU",
+  "postalCode": ""
  }
 ]

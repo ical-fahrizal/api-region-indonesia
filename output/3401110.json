@@ -2,21 +2,29 @@
  {
   "id": 3401110001,
   "districtId": 3401110,
-  "name": "BANJARARUM"
+  "districtName": "KALIBAWANG",
+  "name": "BANJARARUM",
+  "postalCode": "55672"
  },
  {
   "id": 3401110002,
   "districtId": 3401110,
-  "name": "BANJARASRI"
+  "districtName": "KALIBAWANG",
+  "name": "BANJARASRI",
+  "postalCode": "55672"
  },
  {
   "id": 3401110003,
   "districtId": 3401110,
-  "name": "BANJARHARJO"
+  "districtName": "KALIBAWANG",
+  "name": "BANJARHARJO",
+  "postalCode": "52265"
  },
  {
   "id": 3401110004,
   "districtId": 3401110,
-  "name": "BANJAROYO"
+  "districtName": "KALIBAWANG",
+  "name": "BANJAROYO",
+  "postalCode": "55672"
  }
 ]

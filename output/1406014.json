@@ -2,56 +2,78 @@
  {
   "id": 1406014001,
   "districtId": 1406014,
-  "name": "PENGHIDUPAN"
+  "districtName": "KAMPAR KIRI TENGAH",
+  "name": "PENGHIDUPAN",
+  "postalCode": "28471"
  },
  {
   "id": 1406014002,
   "districtId": 1406014,
-  "name": "SIMALINYANG"
+  "districtName": "KAMPAR KIRI TENGAH",
+  "name": "SIMALINYANG",
+  "postalCode": "28471"
  },
  {
   "id": 1406014003,
   "districtId": 1406014,
-  "name": "MAYANG PONGKAI"
+  "districtName": "KAMPAR KIRI TENGAH",
+  "name": "MAYANG PONGKAI",
+  "postalCode": "28471"
  },
  {
   "id": 1406014004,
   "districtId": 1406014,
-  "name": "LUBUK SAKAI"
+  "districtName": "KAMPAR KIRI TENGAH",
+  "name": "LUBUK SAKAI",
+  "postalCode": "28471"
  },
  {
   "id": 1406014005,
   "districtId": 1406014,
-  "name": "BINA BARU"
+  "districtName": "KAMPAR KIRI TENGAH",
+  "name": "BINA BARU",
+  "postalCode": "28471"
  },
  {
   "id": 1406014006,
   "districtId": 1406014,
-  "name": "HIDUP BARU"
+  "districtName": "KAMPAR KIRI TENGAH",
+  "name": "HIDUP BARU",
+  "postalCode": "28471"
  },
  {
   "id": 1406014007,
   "districtId": 1406014,
-  "name": "KARYA BAKTI"
+  "districtName": "KAMPAR KIRI TENGAH",
+  "name": "KARYA BAKTI",
+  "postalCode": "23893"
  },
  {
   "id": 1406014008,
   "districtId": 1406014,
-  "name": "KOTO DAMAI"
+  "districtName": "KAMPAR KIRI TENGAH",
+  "name": "KOTO DAMAI",
+  "postalCode": "28471"
  },
  {
   "id": 1406014009,
   "districtId": 1406014,
-  "name": "UTAMA KARYA"
+  "districtName": "KAMPAR KIRI TENGAH",
+  "name": "UTAMA KARYA",
+  "postalCode": "28471"
  },
  {
   "id": 1406014010,
   "districtId": 1406014,
-  "name": "BUKIT SAKAI"
+  "districtName": "KAMPAR KIRI TENGAH",
+  "name": "BUKIT SAKAI",
+  "postalCode": "28471"
  },
  {
   "id": 1406014011,
   "districtId": 1406014,
-  "name": "MEKAR JAYA"
+  "districtName": "KAMPAR KIRI TENGAH",
+  "name": "MEKAR JAYA",
+  "postalCode": "20771"
  }
 ]

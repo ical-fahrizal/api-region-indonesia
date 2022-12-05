@@ -2,36 +2,50 @@
  {
   "id": 6208030001,
   "districtId": 6208030,
-  "name": "TANJUNG HANAU"
+  "districtName": "HANAU",
+  "name": "TANJUNG HANAU",
+  "postalCode": ""
  },
  {
   "id": 6208030002,
   "districtId": 6208030,
-  "name": "PARANG BATANG"
+  "districtName": "HANAU",
+  "name": "PARANG BATANG",
+  "postalCode": "74271"
  },
  {
   "id": 6208030003,
   "districtId": 6208030,
-  "name": "BAHAUR"
+  "districtName": "HANAU",
+  "name": "BAHAUR",
+  "postalCode": "74271"
  },
  {
   "id": 6208030004,
   "districtId": 6208030,
-  "name": "PEMBUANG HULU I"
+  "districtName": "HANAU",
+  "name": "PEMBUANG HULU I",
+  "postalCode": "74271"
  },
  {
   "id": 6208030005,
   "districtId": 6208030,
-  "name": "PEMBUANG HULU II"
+  "districtName": "HANAU",
+  "name": "PEMBUANG HULU II",
+  "postalCode": "74271"
  },
  {
   "id": 6208030006,
   "districtId": 6208030,
-  "name": "DERANGGA"
+  "districtName": "HANAU",
+  "name": "DERANGGA",
+  "postalCode": "74271"
  },
  {
   "id": 6208030012,
   "districtId": 6208030,
-  "name": "PARING RAYA"
+  "districtName": "HANAU",
+  "name": "PARING RAYA",
+  "postalCode": "74271"
  }
 ]

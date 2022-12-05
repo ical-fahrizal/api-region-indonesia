@@ -2,36 +2,50 @@
  {
   "id": 7308060008,
   "districtId": 7308060,
-  "name": "CENRANA"
+  "districtName": "CAMBA",
+  "name": "CENRANA",
+  "postalCode": "90562"
  },
  {
   "id": 7308060009,
   "districtId": 7308060,
-  "name": "TIMPUSENG"
+  "districtName": "CAMBA",
+  "name": "TIMPUSENG",
+  "postalCode": "90562"
  },
  {
   "id": 7308060010,
   "districtId": 7308060,
-  "name": "PATTIRO DECENG"
+  "districtName": "CAMBA",
+  "name": "PATTIRO DECENG",
+  "postalCode": "90562"
  },
  {
   "id": 7308060011,
   "districtId": 7308060,
-  "name": "CEMPANIGA"
+  "districtName": "CAMBA",
+  "name": "CEMPANIGA",
+  "postalCode": "92771"
  },
  {
   "id": 7308060012,
   "districtId": 7308060,
-  "name": "SAWARU"
+  "districtName": "CAMBA",
+  "name": "SAWARU",
+  "postalCode": "90562"
  },
  {
   "id": 7308060014,
   "districtId": 7308060,
-  "name": "MARIO PULANA"
+  "districtName": "CAMBA",
+  "name": "MARIO PULANA",
+  "postalCode": "90562"
  },
  {
   "id": 7308060015,
   "districtId": 7308060,
-  "name": "PATTANYAMANG"
+  "districtName": "CAMBA",
+  "name": "PATTANYAMANG",
+  "postalCode": "90562"
  }
 ]

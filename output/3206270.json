@@ -2,51 +2,71 @@
  {
   "id": 3206270007,
   "districtId": 3206270,
-  "name": "CIPACING"
+  "districtName": "PAGERAGEUNG",
+  "name": "CIPACING",
+  "postalCode": "45363"
  },
  {
   "id": 3206270010,
   "districtId": 3206270,
-  "name": "SUKAMAJU"
+  "districtName": "PAGERAGEUNG",
+  "name": "SUKAMAJU",
+  "postalCode": "22465"
  },
  {
   "id": 3206270011,
   "districtId": 3206270,
-  "name": "PAGERSARI"
+  "districtName": "PAGERAGEUNG",
+  "name": "PAGERSARI",
+  "postalCode": "46158"
  },
  {
   "id": 3206270012,
   "districtId": 3206270,
-  "name": "PAGERAGEUNG"
+  "districtName": "PAGERAGEUNG",
+  "name": "PAGERAGEUNG",
+  "postalCode": "46158"
  },
  {
   "id": 3206270013,
   "districtId": 3206270,
-  "name": "SUKADANA"
+  "districtName": "PAGERAGEUNG",
+  "name": "SUKADANA",
+  "postalCode": "30611"
  },
  {
   "id": 3206270014,
   "districtId": 3206270,
-  "name": "PUTERAN"
+  "districtName": "PAGERAGEUNG",
+  "name": "PUTERAN",
+  "postalCode": "40556"
  },
  {
   "id": 3206270015,
   "districtId": 3206270,
-  "name": "TANJUNGKERTA"
+  "districtName": "PAGERAGEUNG",
+  "name": "TANJUNGKERTA",
+  "postalCode": "45584"
  },
  {
   "id": 3206270016,
   "districtId": 3206270,
-  "name": "GURANTENG"
+  "districtName": "PAGERAGEUNG",
+  "name": "GURANTENG",
+  "postalCode": "46158"
  },
  {
   "id": 3206270017,
   "districtId": 3206270,
-  "name": "NANGGEWER"
+  "districtName": "PAGERAGEUNG",
+  "name": "NANGGEWER",
+  "postalCode": "16912"
  },
  {
   "id": 3206270018,
   "districtId": 3206270,
-  "name": "SUKAPADA"
+  "districtName": "PAGERAGEUNG",
+  "name": "SUKAPADA",
+  "postalCode": "40125"
  }
 ]

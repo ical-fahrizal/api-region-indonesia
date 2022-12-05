@@ -2,51 +2,71 @@
  {
   "id": 1409030007,
   "districtId": 1409030,
-  "name": "TELUK MERBAU"
+  "districtName": "KUBU",
+  "name": "TELUK MERBAU",
+  "postalCode": "28671"
  },
  {
   "id": 1409030008,
   "districtId": 1409030,
-  "name": "RANTAU PANJANG KANAN"
+  "districtName": "KUBU",
+  "name": "RANTAU PANJANG KANAN",
+  "postalCode": "28991"
  },
  {
   "id": 1409030009,
   "districtId": 1409030,
-  "name": "SUNGAI KUBU"
+  "districtName": "KUBU",
+  "name": "SUNGAI KUBU",
+  "postalCode": ""
  },
  {
   "id": 1409030010,
   "districtId": 1409030,
-  "name": "TANJUNG LEBAN"
+  "districtName": "KUBU",
+  "name": "TANJUNG LEBAN",
+  "postalCode": "28761"
  },
  {
   "id": 1409030011,
   "districtId": 1409030,
-  "name": "SUNGAI SIGAJAH"
+  "districtName": "KUBU",
+  "name": "SUNGAI SIGAJAH",
+  "postalCode": ""
  },
  {
   "id": 1409030012,
   "districtId": 1409030,
-  "name": "TELUK PIYAI"
+  "districtName": "KUBU",
+  "name": "TELUK PIYAI",
+  "postalCode": "28991"
  },
  {
   "id": 1409030015,
   "districtId": 1409030,
-  "name": "SEI SEGAJAH MAKMUR"
+  "districtName": "KUBU",
+  "name": "SEI SEGAJAH MAKMUR",
+  "postalCode": "28991"
  },
  {
   "id": 1409030016,
   "districtId": 1409030,
-  "name": "SUNGAI KUBU HULU"
+  "districtName": "KUBU",
+  "name": "SUNGAI KUBU HULU",
+  "postalCode": "28991"
  },
  {
   "id": 1409030017,
   "districtId": 1409030,
-  "name": "TELUK PIYAI PESISIR"
+  "districtName": "KUBU",
+  "name": "TELUK PIYAI PESISIR",
+  "postalCode": "28991"
  },
  {
   "id": 1409030018,
   "districtId": 1409030,
-  "name": "SUNGAI SIGAJAH JAYA"
+  "districtName": "KUBU",
+  "name": "SUNGAI SIGAJAH JAYA",
+  "postalCode": ""
  }
 ]

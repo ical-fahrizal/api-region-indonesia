@@ -2,46 +2,64 @@
  {
   "id": 1812010010,
   "districtId": 1812010,
-  "name": "MARGA KENCANA"
+  "districtName": "TULANG BAWANG UDIK",
+  "name": "MARGA KENCANA",
+  "postalCode": "34691"
  },
  {
   "id": 1812010011,
   "districtId": 1812010,
-  "name": "KAGUNGAN RATU"
+  "districtName": "TULANG BAWANG UDIK",
+  "name": "KAGUNGAN RATU",
+  "postalCode": "35353"
  },
  {
   "id": 1812010012,
   "districtId": 1812010,
-  "name": "KARTA RAHARJA"
+  "districtName": "TULANG BAWANG UDIK",
+  "name": "KARTA RAHARJA",
+  "postalCode": "34691"
  },
  {
   "id": 1812010013,
   "districtId": 1812010,
-  "name": "WAY SIDO"
+  "districtName": "TULANG BAWANG UDIK",
+  "name": "WAY SIDO",
+  "postalCode": ""
  },
  {
   "id": 1812010014,
   "districtId": 1812010,
-  "name": "KARTA SARI"
+  "districtName": "TULANG BAWANG UDIK",
+  "name": "KARTA SARI",
+  "postalCode": "34691"
  },
  {
   "id": 1812010015,
   "districtId": 1812010,
-  "name": "KARTA"
+  "districtName": "TULANG BAWANG UDIK",
+  "name": "KARTA",
+  "postalCode": "35384"
  },
  {
   "id": 1812010016,
   "districtId": 1812010,
-  "name": "GUNUNG KATUN MALAY"
+  "districtName": "TULANG BAWANG UDIK",
+  "name": "GUNUNG KATUN MALAY",
+  "postalCode": ""
  },
  {
   "id": 1812010017,
   "districtId": 1812010,
-  "name": "GUNUNG KATUN TANJUNGAN"
+  "districtName": "TULANG BAWANG UDIK",
+  "name": "GUNUNG KATUN TANJUNGAN",
+  "postalCode": "34691"
  },
  {
   "id": 1812010018,
   "districtId": 1812010,
-  "name": "GEDUNG RATU"
+  "districtName": "TULANG BAWANG UDIK",
+  "name": "GEDUNG RATU",
+  "postalCode": "35513"
  }
 ]

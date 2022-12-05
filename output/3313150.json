@@ -2,46 +2,64 @@
  {
   "id": 3313150001,
   "districtId": 3313150,
-  "name": "SEWUREJO"
+  "districtName": "MOJOGEDANG",
+  "name": "SEWUREJO",
+  "postalCode": "57752"
  },
  {
   "id": 3313150002,
   "districtId": 3313150,
-  "name": "NGADIREJO"
+  "districtName": "MOJOGEDANG",
+  "name": "NGADIREJO",
+  "postalCode": "31662"
  },
  {
   "id": 3313150003,
   "districtId": 3313150,
-  "name": "MOJOGEDANG"
+  "districtName": "MOJOGEDANG",
+  "name": "MOJOGEDANG",
+  "postalCode": "57752"
  },
  {
   "id": 3313150004,
   "districtId": 3313150,
-  "name": "POJOK"
+  "districtName": "MOJOGEDANG",
+  "name": "POJOK",
+  "postalCode": "57752"
  },
  {
   "id": 3313150005,
   "districtId": 3313150,
-  "name": "MOJOROTO"
+  "districtName": "MOJOGEDANG",
+  "name": "MOJOROTO",
+  "postalCode": "57752"
  },
  {
   "id": 3313150006,
   "districtId": 3313150,
-  "name": "KALIBOTO"
+  "districtName": "MOJOGEDANG",
+  "name": "KALIBOTO",
+  "postalCode": "54183"
  },
  {
   "id": 3313150007,
   "districtId": 3313150,
-  "name": "BUNTAR"
+  "districtName": "MOJOGEDANG",
+  "name": "BUNTAR",
+  "postalCode": "57752"
  },
  {
   "id": 3313150008,
   "districtId": 3313150,
-  "name": "GEBYOG"
+  "districtName": "MOJOGEDANG",
+  "name": "GEBYOG",
+  "postalCode": "63395"
  },
  {
   "id": 3313150009,
   "districtId": 3313150,
-  "name": "GENTUNGAN"
+  "districtName": "MOJOGEDANG",
+  "name": "GENTUNGAN",
+  "postalCode": "57752"
  }
 ]

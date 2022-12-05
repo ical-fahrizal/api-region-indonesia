@@ -2,51 +2,71 @@
  {
   "id": 1802032001,
   "districtId": 1802032,
-  "name": "WAY HARONG"
+  "districtName": "AIR NANINGAN",
+  "name": "WAY HARONG",
+  "postalCode": "35679"
  },
  {
   "id": 1802032002,
   "districtId": 1802032,
-  "name": "AIR KUBANG"
+  "districtName": "AIR NANINGAN",
+  "name": "AIR KUBANG",
+  "postalCode": "35679"
  },
  {
   "id": 1802032003,
   "districtId": 1802032,
-  "name": "KARANG SARI"
+  "districtName": "AIR NANINGAN",
+  "name": "KARANG SARI",
+  "postalCode": "21174"
  },
  {
   "id": 1802032004,
   "districtId": 1802032,
-  "name": "SIDOMULYO"
+  "districtName": "AIR NANINGAN",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  },
  {
   "id": 1802032005,
   "districtId": 1802032,
-  "name": "AIR NANINGAN"
+  "districtName": "AIR NANINGAN",
+  "name": "AIR NANINGAN",
+  "postalCode": "35679"
  },
  {
   "id": 1802032006,
   "districtId": 1802032,
-  "name": "SINAR JAWA"
+  "districtName": "AIR NANINGAN",
+  "name": "SINAR JAWA",
+  "postalCode": "35679"
  },
  {
   "id": 1802032007,
   "districtId": 1802032,
-  "name": "DATAR LEBUAY"
+  "districtName": "AIR NANINGAN",
+  "name": "DATAR LEBUAY",
+  "postalCode": "35679"
  },
  {
   "id": 1802032008,
   "districtId": 1802032,
-  "name": "BATU TEGI"
+  "districtName": "AIR NANINGAN",
+  "name": "BATU TEGI",
+  "postalCode": ""
  },
  {
   "id": 1802032009,
   "districtId": 1802032,
-  "name": "SINAR SEKAMPUNG"
+  "districtName": "AIR NANINGAN",
+  "name": "SINAR SEKAMPUNG",
+  "postalCode": "35679"
  },
  {
   "id": 1802032010,
   "districtId": 1802032,
-  "name": "MARGO MULYO"
+  "districtName": "AIR NANINGAN",
+  "name": "MARGO MULYO",
+  "postalCode": "32383"
  }
 ]

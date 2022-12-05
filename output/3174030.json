@@ -2,31 +2,43 @@
  {
   "id": 3174030001,
   "districtId": 3174030,
-  "name": "PALMERAH"
+  "districtName": "PALMERAH",
+  "name": "PALMERAH",
+  "postalCode": "11480"
  },
  {
   "id": 3174030002,
   "districtId": 3174030,
-  "name": "SLIPI"
+  "districtName": "PALMERAH",
+  "name": "SLIPI",
+  "postalCode": "11410"
  },
  {
   "id": 3174030003,
   "districtId": 3174030,
-  "name": "KEMANGGISAN"
+  "districtName": "PALMERAH",
+  "name": "KEMANGGISAN",
+  "postalCode": "11480"
  },
  {
   "id": 3174030004,
   "districtId": 3174030,
-  "name": "KOTA BAMBU UTARA"
+  "districtName": "PALMERAH",
+  "name": "KOTA BAMBU UTARA",
+  "postalCode": "11420"
  },
  {
   "id": 3174030005,
   "districtId": 3174030,
-  "name": "KOTA BAMBU SELATAN"
+  "districtName": "PALMERAH",
+  "name": "KOTA BAMBU SELATAN",
+  "postalCode": "11420"
  },
  {
   "id": 3174030006,
   "districtId": 3174030,
-  "name": "JATI PULO"
+  "districtName": "PALMERAH",
+  "name": "JATI PULO",
+  "postalCode": ""
  }
 ]

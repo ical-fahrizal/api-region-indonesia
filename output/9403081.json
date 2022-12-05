@@ -2,31 +2,43 @@
  {
   "id": 9403081001,
   "districtId": 9403081,
-  "name": "PAGAI"
+  "districtName": "AIRU",
+  "name": "PAGAI",
+  "postalCode": "99364"
  },
  {
   "id": 9403081002,
   "districtId": 9403081,
-  "name": "HULU ATAS"
+  "districtName": "AIRU",
+  "name": "HULU ATAS",
+  "postalCode": "99364"
  },
  {
   "id": 9403081003,
   "districtId": 9403081,
-  "name": "AURINA"
+  "districtName": "AIRU",
+  "name": "AURINA",
+  "postalCode": "99364"
  },
  {
   "id": 9403081004,
   "districtId": 9403081,
-  "name": "MUARA NAWA"
+  "districtName": "AIRU",
+  "name": "MUARA NAWA",
+  "postalCode": ""
  },
  {
   "id": 9403081005,
   "districtId": 9403081,
-  "name": "KAMIKARU"
+  "districtName": "AIRU",
+  "name": "KAMIKARU",
+  "postalCode": "99364"
  },
  {
   "id": 9403081006,
   "districtId": 9403081,
-  "name": "NAIRA"
+  "districtName": "AIRU",
+  "name": "NAIRA",
+  "postalCode": "99364"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 8171031001,
   "districtId": 8171031,
-  "name": "LAHA"
+  "districtName": "TELUK AMBON",
+  "name": "LAHA",
+  "postalCode": "97236"
  },
  {
   "id": 8171031002,
   "districtId": 8171031,
-  "name": "TAWIRI"
+  "districtName": "TELUK AMBON",
+  "name": "TAWIRI",
+  "postalCode": "97235"
  },
  {
   "id": 8171031003,
   "districtId": 8171031,
-  "name": "HATIVE BESAR"
+  "districtName": "TELUK AMBON",
+  "name": "HATIVE BESAR",
+  "postalCode": "97234"
  },
  {
   "id": 8171031004,
   "districtId": 8171031,
-  "name": "WAIYAME"
+  "districtName": "TELUK AMBON",
+  "name": "WAIYAME",
+  "postalCode": ""
  },
  {
   "id": 8171031005,
   "districtId": 8171031,
-  "name": "RUMAH TIGA"
+  "districtName": "TELUK AMBON",
+  "name": "RUMAH TIGA",
+  "postalCode": "97234"
  },
  {
   "id": 8171031006,
   "districtId": 8171031,
-  "name": "TIHU"
+  "districtName": "TELUK AMBON",
+  "name": "TIHU",
+  "postalCode": "96585"
  },
  {
   "id": 8171031007,
   "districtId": 8171031,
-  "name": "POKA"
+  "districtName": "TELUK AMBON",
+  "name": "POKA",
+  "postalCode": "97233"
  },
  {
   "id": 8171031008,
   "districtId": 8171031,
-  "name": "HUNUTH/DURIAN PATAH"
+  "districtName": "TELUK AMBON",
+  "name": "HUNUTH/DURIAN PATAH",
+  "postalCode": ""
  }
 ]

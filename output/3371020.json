@@ -2,26 +2,36 @@
  {
   "id": 3371020004,
   "districtId": 3371020,
-  "name": "WATES"
+  "districtName": "MAGELANG UTARA",
+  "name": "WATES",
+  "postalCode": "32273"
  },
  {
   "id": 3371020005,
   "districtId": 3371020,
-  "name": "POTROBANGSAN"
+  "districtName": "MAGELANG UTARA",
+  "name": "POTROBANGSAN",
+  "postalCode": "56116"
  },
  {
   "id": 3371020006,
   "districtId": 3371020,
-  "name": "KEDUNGSARI"
+  "districtName": "MAGELANG UTARA",
+  "name": "KEDUNGSARI",
+  "postalCode": "28123"
  },
  {
   "id": 3371020008,
   "districtId": 3371020,
-  "name": "KRAMAT UTARA"
+  "districtName": "MAGELANG UTARA",
+  "name": "KRAMAT UTARA",
+  "postalCode": "56115"
  },
  {
   "id": 3371020009,
   "districtId": 3371020,
-  "name": "KRAMAT SELATAN"
+  "districtName": "MAGELANG UTARA",
+  "name": "KRAMAT SELATAN",
+  "postalCode": "56115"
  }
 ]

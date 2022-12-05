@@ -2,56 +2,78 @@
  {
   "id": 3206040001,
   "districtId": 3206040,
-  "name": "MARGALUYU"
+  "districtName": "PANCATENGAH",
+  "name": "MARGALUYU",
+  "postalCode": "43263"
  },
  {
   "id": 3206040002,
   "districtId": 3206040,
-  "name": "CIBUNIASIH"
+  "districtName": "PANCATENGAH",
+  "name": "CIBUNIASIH",
+  "postalCode": "46194"
  },
  {
   "id": 3206040003,
   "districtId": 3206040,
-  "name": "PANGLIARAN"
+  "districtName": "PANCATENGAH",
+  "name": "PANGLIARAN",
+  "postalCode": "46194"
  },
  {
   "id": 3206040004,
   "districtId": 3206040,
-  "name": "PANCAWANGI"
+  "districtName": "PANCATENGAH",
+  "name": "PANCAWANGI",
+  "postalCode": "46194"
  },
  {
   "id": 3206040005,
   "districtId": 3206040,
-  "name": "JAYAMUKTI"
+  "districtName": "PANCATENGAH",
+  "name": "JAYAMUKTI",
+  "postalCode": "41374"
  },
  {
   "id": 3206040006,
   "districtId": 3206040,
-  "name": "TONJONG"
+  "districtName": "PANCATENGAH",
+  "name": "TONJONG",
+  "postalCode": "45414"
  },
  {
   "id": 3206040007,
   "districtId": 3206040,
-  "name": "CIBONGAS"
+  "districtName": "PANCATENGAH",
+  "name": "CIBONGAS",
+  "postalCode": "46194"
  },
  {
   "id": 3206040008,
   "districtId": 3206040,
-  "name": "CIKAWUNG"
+  "districtName": "PANCATENGAH",
+  "name": "CIKAWUNG",
+  "postalCode": "46194"
  },
  {
   "id": 3206040009,
   "districtId": 3206040,
-  "name": "TAWANG"
+  "districtName": "PANCATENGAH",
+  "name": "TAWANG",
+  "postalCode": "46194"
  },
  {
   "id": 3206040010,
   "districtId": 3206040,
-  "name": "MEKARSARI"
+  "districtName": "PANCATENGAH",
+  "name": "MEKARSARI",
+  "postalCode": "37482"
  },
  {
   "id": 3206040011,
   "districtId": 3206040,
-  "name": "NEGLASARI"
+  "districtName": "PANCATENGAH",
+  "name": "NEGLASARI",
+  "postalCode": "35452"
  }
 ]

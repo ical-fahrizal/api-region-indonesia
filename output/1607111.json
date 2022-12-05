@@ -2,51 +2,71 @@
  {
   "id": 1607111001,
   "districtId": 1607111,
-  "name": "KARANG BARU"
+  "districtName": "SUMBER MARGA TELANG",
+  "name": "KARANG BARU",
+  "postalCode": "21254"
  },
  {
   "id": 1607111002,
   "districtId": 1607111,
-  "name": "KARANG ANYAR"
+  "districtName": "SUMBER MARGA TELANG",
+  "name": "KARANG ANYAR",
+  "postalCode": "24415"
  },
  {
   "id": 1607111003,
   "districtId": 1607111,
-  "name": "MUARA TELANG MARGA"
+  "districtName": "SUMBER MARGA TELANG",
+  "name": "MUARA TELANG MARGA",
+  "postalCode": ""
  },
  {
   "id": 1607111004,
   "districtId": 1607111,
-  "name": "SRI TIGA"
+  "districtName": "SUMBER MARGA TELANG",
+  "name": "SRI TIGA",
+  "postalCode": "30974"
  },
  {
   "id": 1607111005,
   "districtId": 1607111,
-  "name": "MUARA TELANG"
+  "districtName": "SUMBER MARGA TELANG",
+  "name": "MUARA TELANG",
+  "postalCode": "30974"
  },
  {
   "id": 1607111006,
   "districtId": 1607111,
-  "name": "SUMBER JAYA"
+  "districtName": "SUMBER MARGA TELANG",
+  "name": "SUMBER JAYA",
+  "postalCode": "24553"
  },
  {
   "id": 1607111007,
   "districtId": 1607111,
-  "name": "TERUSAN MUARA"
+  "districtName": "SUMBER MARGA TELANG",
+  "name": "TERUSAN MUARA",
+  "postalCode": "30974"
  },
  {
   "id": 1607111008,
   "districtId": 1607111,
-  "name": "TERUSAN TENGAH"
+  "districtName": "SUMBER MARGA TELANG",
+  "name": "TERUSAN TENGAH",
+  "postalCode": "21261"
  },
  {
   "id": 1607111009,
   "districtId": 1607111,
-  "name": "TERUSAN DALAM"
+  "districtName": "SUMBER MARGA TELANG",
+  "name": "TERUSAN DALAM",
+  "postalCode": "30974"
  },
  {
   "id": 1607111010,
   "districtId": 1607111,
-  "name": "TALANG LUBUK"
+  "districtName": "SUMBER MARGA TELANG",
+  "name": "TALANG LUBUK",
+  "postalCode": "30974"
  }
 ]

@@ -2,66 +2,92 @@
  {
   "id": 7606050001,
   "districtId": 7606050,
-  "name": "KAMBUNONG"
+  "districtName": "KAROSSA",
+  "name": "KAMBUNONG",
+  "postalCode": "91512"
  },
  {
   "id": 7606050002,
   "districtId": 7606050,
-  "name": "TASOKKO"
+  "districtName": "KAROSSA",
+  "name": "TASOKKO",
+  "postalCode": "91512"
  },
  {
   "id": 7606050003,
   "districtId": 7606050,
-  "name": "SALUBIRU"
+  "districtName": "KAROSSA",
+  "name": "SALUBIRU",
+  "postalCode": ""
  },
  {
   "id": 7606050004,
   "districtId": 7606050,
-  "name": "L A R A"
+  "districtName": "KAROSSA",
+  "name": "L A R A",
+  "postalCode": ""
  },
  {
   "id": 7606050005,
   "districtId": 7606050,
-  "name": "SUKAMAJU"
+  "districtName": "KAROSSA",
+  "name": "SUKAMAJU",
+  "postalCode": "22465"
  },
  {
   "id": 7606050006,
   "districtId": 7606050,
-  "name": "LEMBAH HOPO"
+  "districtName": "KAROSSA",
+  "name": "LEMBAH HOPO",
+  "postalCode": "91512"
  },
  {
   "id": 7606050007,
   "districtId": 7606050,
-  "name": "UPT LARA III"
+  "districtName": "KAROSSA",
+  "name": "UPT LARA III",
+  "postalCode": ""
  },
  {
   "id": 7606050008,
   "districtId": 7606050,
-  "name": "KAROSSA"
+  "districtName": "KAROSSA",
+  "name": "KAROSSA",
+  "postalCode": "91512"
  },
  {
   "id": 7606050009,
   "districtId": 7606050,
-  "name": "KAYUCALLA"
+  "districtName": "KAROSSA",
+  "name": "KAYUCALLA",
+  "postalCode": "91512"
  },
  {
   "id": 7606050010,
   "districtId": 7606050,
-  "name": "KADAILA"
+  "districtName": "KAROSSA",
+  "name": "KADAILA",
+  "postalCode": "91512"
  },
  {
   "id": 7606050011,
   "districtId": 7606050,
-  "name": "BENGGAULU"
+  "districtName": "KAROSSA",
+  "name": "BENGGAULU",
+  "postalCode": "91512"
  },
  {
   "id": 7606050012,
   "districtId": 7606050,
-  "name": "MORA IV"
+  "districtName": "KAROSSA",
+  "name": "MORA IV",
+  "postalCode": "91512"
  },
  {
   "id": 7606050013,
   "districtId": 7606050,
-  "name": "SANJANGO"
+  "districtName": "KAROSSA",
+  "name": "SANJANGO",
+  "postalCode": ""
  }
 ]

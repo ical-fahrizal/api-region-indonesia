@@ -2,26 +2,36 @@
  {
   "id": 3471060001,
   "districtId": 3471060,
-  "name": "BACIRO"
+  "districtName": "GONDOKUSUMAN",
+  "name": "BACIRO",
+  "postalCode": "55225"
  },
  {
   "id": 3471060002,
   "districtId": 3471060,
-  "name": "DEMANGAN"
+  "districtName": "GONDOKUSUMAN",
+  "name": "DEMANGAN",
+  "postalCode": "57464"
  },
  {
   "id": 3471060003,
   "districtId": 3471060,
-  "name": "KLITREN"
+  "districtName": "GONDOKUSUMAN",
+  "name": "KLITREN",
+  "postalCode": "55222"
  },
  {
   "id": 3471060004,
   "districtId": 3471060,
-  "name": "KOTABARU"
+  "districtName": "GONDOKUSUMAN",
+  "name": "KOTABARU",
+  "postalCode": "46196"
  },
  {
   "id": 3471060005,
   "districtId": 3471060,
-  "name": "TERBAN"
+  "districtName": "GONDOKUSUMAN",
+  "name": "TERBAN",
+  "postalCode": "59382"
  }
 ]

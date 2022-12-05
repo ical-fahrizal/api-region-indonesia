@@ -2,41 +2,57 @@
  {
   "id": 1502052001,
   "districtId": 1502052,
-  "name": "BUKIT PERENTAK"
+  "districtName": "PANGKALAN JAMBU",
+  "name": "BUKIT PERENTAK",
+  "postalCode": "37361"
  },
  {
   "id": 1502052002,
   "districtId": 1502052,
-  "name": "BARU PANGKALAN JAMBU"
+  "districtName": "PANGKALAN JAMBU",
+  "name": "BARU PANGKALAN JAMBU",
+  "postalCode": "37361"
  },
  {
   "id": 1502052003,
   "districtId": 1502052,
-  "name": "TIGO ALUR PANGKALAN JAMBU"
+  "districtName": "PANGKALAN JAMBU",
+  "name": "TIGO ALUR PANGKALAN JAMBU",
+  "postalCode": ""
  },
  {
   "id": 1502052004,
   "districtId": 1502052,
-  "name": "BIRUN"
+  "districtName": "PANGKALAN JAMBU",
+  "name": "BIRUN",
+  "postalCode": "37361"
  },
  {
   "id": 1502052005,
   "districtId": 1502052,
-  "name": "BUNGA TANJUNG"
+  "districtName": "PANGKALAN JAMBU",
+  "name": "BUNGA TANJUNG",
+  "postalCode": "24782"
  },
  {
   "id": 1502052006,
   "districtId": 1502052,
-  "name": "SUNGAI JERING"
+  "districtName": "PANGKALAN JAMBU",
+  "name": "SUNGAI JERING",
+  "postalCode": "37361"
  },
  {
   "id": 1502052007,
   "districtId": 1502052,
-  "name": "KAMPUNG LIMO"
+  "districtName": "PANGKALAN JAMBU",
+  "name": "KAMPUNG LIMO",
+  "postalCode": "37361"
  },
  {
   "id": 1502052008,
   "districtId": 1502052,
-  "name": "TANJUNG MUDO"
+  "districtName": "PANGKALAN JAMBU",
+  "name": "TANJUNG MUDO",
+  "postalCode": "37361"
  }
 ]

@@ -2,96 +2,134 @@
  {
   "id": 3506170001,
   "districtId": 3506170,
-  "name": "MRANGGEN"
+  "districtName": "PURWOASRI",
+  "name": "MRANGGEN",
+  "postalCode": "57481"
  },
  {
   "id": 3506170002,
   "districtId": 3506170,
-  "name": "PESING"
+  "districtName": "PURWOASRI",
+  "name": "PESING",
+  "postalCode": "64154"
  },
  {
   "id": 3506170003,
   "districtId": 3506170,
-  "name": "JANTOK"
+  "districtName": "PURWOASRI",
+  "name": "JANTOK",
+  "postalCode": "64154"
  },
  {
   "id": 3506170004,
   "districtId": 3506170,
-  "name": "KETAWANG"
+  "districtName": "PURWOASRI",
+  "name": "KETAWANG",
+  "postalCode": "56196"
  },
  {
   "id": 3506170005,
   "districtId": 3506170,
-  "name": "WONOTENGAH"
+  "districtName": "PURWOASRI",
+  "name": "WONOTENGAH",
+  "postalCode": "64154"
  },
  {
   "id": 3506170006,
   "districtId": 3506170,
-  "name": "PURWOASRI"
+  "districtName": "PURWOASRI",
+  "name": "PURWOASRI",
+  "postalCode": "68165"
  },
  {
   "id": 3506170007,
   "districtId": 3506170,
-  "name": "PANDANSARI"
+  "districtName": "PURWOASRI",
+  "name": "PANDANSARI",
+  "postalCode": "16720"
  },
  {
   "id": 3506170008,
   "districtId": 3506170,
-  "name": "BLAWE"
+  "districtName": "PURWOASRI",
+  "name": "BLAWE",
+  "postalCode": "64154"
  },
  {
   "id": 3506170009,
   "districtId": 3506170,
-  "name": "BELOR"
+  "districtName": "PURWOASRI",
+  "name": "BELOR",
+  "postalCode": "58193"
  },
  {
   "id": 3506170012,
   "districtId": 3506170,
-  "name": "PURWODADI"
+  "districtName": "PURWOASRI",
+  "name": "PURWODADI",
+  "postalCode": "24652"
  },
  {
   "id": 3506170014,
   "districtId": 3506170,
-  "name": "KLAMPITAN"
+  "districtName": "PURWOASRI",
+  "name": "KLAMPITAN",
+  "postalCode": "64154"
  },
  {
   "id": 3506170015,
   "districtId": 3506170,
-  "name": "SIDOMULYO"
+  "districtName": "PURWOASRI",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  },
  {
   "id": 3506170016,
   "districtId": 3506170,
-  "name": "SUMBERJO"
+  "districtName": "PURWOASRI",
+  "name": "SUMBERJO",
+  "postalCode": "34396"
  },
  {
   "id": 3506170018,
   "districtId": 3506170,
-  "name": "WOROMARTO"
+  "districtName": "PURWOASRI",
+  "name": "WOROMARTO",
+  "postalCode": "64154"
  },
  {
   "id": 3506170019,
   "districtId": 3506170,
-  "name": "MERJOYO"
+  "districtName": "PURWOASRI",
+  "name": "MERJOYO",
+  "postalCode": "64154"
  },
  {
   "id": 3506170020,
   "districtId": 3506170,
-  "name": "MEKIKIS"
+  "districtName": "PURWOASRI",
+  "name": "MEKIKIS",
+  "postalCode": "64154"
  },
  {
   "id": 3506170021,
   "districtId": 3506170,
-  "name": "KARANGPAKIS"
+  "districtName": "PURWOASRI",
+  "name": "KARANGPAKIS",
+  "postalCode": "53283"
  },
  {
   "id": 3506170022,
   "districtId": 3506170,
-  "name": "DAYU"
+  "districtName": "PURWOASRI",
+  "name": "DAYU",
+  "postalCode": "57188"
  },
  {
   "id": 3506170023,
   "districtId": 3506170,
-  "name": "DAWUHAN"
+  "districtName": "PURWOASRI",
+  "name": "DAWUHAN",
+  "postalCode": "53192"
  }
 ]

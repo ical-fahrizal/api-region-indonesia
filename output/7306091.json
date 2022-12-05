@@ -2,56 +2,78 @@
  {
   "id": 7306091001,
   "districtId": 7306091,
-  "name": "BERUTALLASA"
+  "districtName": "BIRINGBULU",
+  "name": "BERUTALLASA",
+  "postalCode": "90244"
  },
  {
   "id": 7306091002,
   "districtId": 7306091,
-  "name": "PENCONG"
+  "districtName": "BIRINGBULU",
+  "name": "PENCONG",
+  "postalCode": "90244"
  },
  {
   "id": 7306091003,
   "districtId": 7306091,
-  "name": "PARANGLOE"
+  "districtName": "BIRINGBULU",
+  "name": "PARANGLOE",
+  "postalCode": "90244"
  },
  {
   "id": 7306091004,
   "districtId": 7306091,
-  "name": "LEMBANGLOE"
+  "districtName": "BIRINGBULU",
+  "name": "LEMBANGLOE",
+  "postalCode": "90244"
  },
  {
   "id": 7306091005,
   "districtId": 7306091,
-  "name": "TARING"
+  "districtName": "BIRINGBULU",
+  "name": "TARING",
+  "postalCode": "90244"
  },
  {
   "id": 7306091006,
   "districtId": 7306091,
-  "name": "TONRORITA"
+  "districtName": "BIRINGBULU",
+  "name": "TONRORITA",
+  "postalCode": "90244"
  },
  {
   "id": 7306091007,
   "districtId": 7306091,
-  "name": "BORIMASUNGGU"
+  "districtName": "BIRINGBULU",
+  "name": "BORIMASUNGGU",
+  "postalCode": "90244"
  },
  {
   "id": 7306091008,
   "districtId": 7306091,
-  "name": "LAUWA"
+  "districtName": "BIRINGBULU",
+  "name": "LAUWA",
+  "postalCode": "91994"
  },
  {
   "id": 7306091009,
   "districtId": 7306091,
-  "name": "BATURAPPE"
+  "districtName": "BIRINGBULU",
+  "name": "BATURAPPE",
+  "postalCode": "90244"
  },
  {
   "id": 7306091010,
   "districtId": 7306091,
-  "name": "BATUMALONRO"
+  "districtName": "BIRINGBULU",
+  "name": "BATUMALONRO",
+  "postalCode": "90244"
  },
  {
   "id": 7306091011,
   "districtId": 7306091,
-  "name": "JULUKANAYA"
+  "districtName": "BIRINGBULU",
+  "name": "JULUKANAYA",
+  "postalCode": "90244"
  }
 ]

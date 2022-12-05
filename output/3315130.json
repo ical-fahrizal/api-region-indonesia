@@ -2,86 +2,120 @@
  {
   "id": 3315130001,
   "districtId": 3315130,
-  "name": "CANDISARI"
+  "districtName": "PURWODADI",
+  "name": "CANDISARI",
+  "postalCode": "57352"
  },
  {
   "id": 3315130002,
   "districtId": 3315130,
-  "name": "GENUKSURAN"
+  "districtName": "PURWODADI",
+  "name": "GENUKSURAN",
+  "postalCode": "58114"
  },
  {
   "id": 3315130003,
   "districtId": 3315130,
-  "name": "DANYANG"
+  "districtName": "PURWODADI",
+  "name": "DANYANG",
+  "postalCode": "58113"
  },
  {
   "id": 3315130004,
   "districtId": 3315130,
-  "name": "KALONGAN"
+  "districtName": "PURWODADI",
+  "name": "KALONGAN",
+  "postalCode": "58114"
  },
  {
   "id": 3315130005,
   "districtId": 3315130,
-  "name": "NGRAJI"
+  "districtName": "PURWODADI",
+  "name": "NGRAJI",
+  "postalCode": "58114"
  },
  {
   "id": 3315130006,
   "districtId": 3315130,
-  "name": "KANDANGAN"
+  "districtName": "PURWODADI",
+  "name": "KANDANGAN",
+  "postalCode": "21186"
  },
  {
   "id": 3315130007,
   "districtId": 3315130,
-  "name": "NAMBUHAN"
+  "districtName": "PURWODADI",
+  "name": "NAMBUHAN",
+  "postalCode": "58114"
  },
  {
   "id": 3315130008,
   "districtId": 3315130,
-  "name": "WARUKARANGANYAR"
+  "districtName": "PURWODADI",
+  "name": "WARUKARANGANYAR",
+  "postalCode": "58114"
  },
  {
   "id": 3315130009,
   "districtId": 3315130,
-  "name": "NGLOBAR"
+  "districtName": "PURWODADI",
+  "name": "NGLOBAR",
+  "postalCode": "58114"
  },
  {
   "id": 3315130010,
   "districtId": 3315130,
-  "name": "KEDUNGREJO"
+  "districtName": "PURWODADI",
+  "name": "KEDUNGREJO",
+  "postalCode": "57383"
  },
  {
   "id": 3315130011,
   "districtId": 3315130,
-  "name": "KARANGANYAR"
+  "districtName": "PURWODADI",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  },
  {
   "id": 3315130012,
   "districtId": 3315130,
-  "name": "PURWODADI"
+  "districtName": "PURWODADI",
+  "name": "PURWODADI",
+  "postalCode": "24652"
  },
  {
   "id": 3315130013,
   "districtId": 3315130,
-  "name": "KURIPAN"
+  "districtName": "PURWODADI",
+  "name": "KURIPAN",
+  "postalCode": "32384"
  },
  {
   "id": 3315130014,
   "districtId": 3315130,
-  "name": "NGEMBAK"
+  "districtName": "PURWODADI",
+  "name": "NGEMBAK",
+  "postalCode": "58114"
  },
  {
   "id": 3315130015,
   "districtId": 3315130,
-  "name": "CINGKRONG"
+  "districtName": "PURWODADI",
+  "name": "CINGKRONG",
+  "postalCode": "58114"
  },
  {
   "id": 3315130016,
   "districtId": 3315130,
-  "name": "PULOREJO"
+  "districtName": "PURWODADI",
+  "name": "PULOREJO",
+  "postalCode": "58114"
  },
  {
   "id": 3315130017,
   "districtId": 3315130,
-  "name": "PUTAT"
+  "districtName": "PURWODADI",
+  "name": "PUTAT",
+  "postalCode": "28983"
  }
 ]

@@ -2,111 +2,155 @@
  {
   "id": 1110031001,
   "districtId": 1110031,
-  "name": "BALEE DAKA"
+  "districtName": "PEULIMBANG",
+  "name": "BALEE DAKA",
+  "postalCode": "24263"
  },
  {
   "id": 1110031002,
   "districtId": 1110031,
-  "name": "MATANG KULE"
+  "districtName": "PEULIMBANG",
+  "name": "MATANG KULE",
+  "postalCode": ""
  },
  {
   "id": 1110031003,
   "districtId": 1110031,
-  "name": "LANCOK BUNGO"
+  "districtName": "PEULIMBANG",
+  "name": "LANCOK BUNGO",
+  "postalCode": "24263"
  },
  {
   "id": 1110031004,
   "districtId": 1110031,
-  "name": "TEUPIN PANAH"
+  "districtName": "PEULIMBANG",
+  "name": "TEUPIN PANAH",
+  "postalCode": "23681"
  },
  {
   "id": 1110031005,
   "districtId": 1110031,
-  "name": "SEUNEUBOK PUNTI"
+  "districtName": "PEULIMBANG",
+  "name": "SEUNEUBOK PUNTI",
+  "postalCode": "24454"
  },
  {
   "id": 1110031006,
   "districtId": 1110031,
-  "name": "UTEUN RUNGKOM"
+  "districtName": "PEULIMBANG",
+  "name": "UTEUN RUNGKOM",
+  "postalCode": "24263"
  },
  {
   "id": 1110031007,
   "districtId": 1110031,
-  "name": "UTEUN SIKUMBONG"
+  "districtName": "PEULIMBANG",
+  "name": "UTEUN SIKUMBONG",
+  "postalCode": "24263"
  },
  {
   "id": 1110031008,
   "districtId": 1110031,
-  "name": "JAMBO DALAM"
+  "districtName": "PEULIMBANG",
+  "name": "JAMBO DALAM",
+  "postalCode": "24263"
  },
  {
   "id": 1110031009,
   "districtId": 1110031,
-  "name": "PALOH PUPU"
+  "districtName": "PEULIMBANG",
+  "name": "PALOH PUPU",
+  "postalCode": "24263"
  },
  {
   "id": 1110031010,
   "districtId": 1110031,
-  "name": "RAMBONG PAYONG"
+  "districtName": "PEULIMBANG",
+  "name": "RAMBONG PAYONG",
+  "postalCode": "24263"
  },
  {
   "id": 1110031011,
   "districtId": 1110031,
-  "name": "COT GEULUMPANG"
+  "districtName": "PEULIMBANG",
+  "name": "COT GEULUMPANG",
+  "postalCode": "24263"
  },
  {
   "id": 1110031012,
   "districtId": 1110031,
-  "name": "SEUNEUBOK ACEH"
+  "districtName": "PEULIMBANG",
+  "name": "SEUNEUBOK ACEH",
+  "postalCode": "24472"
  },
  {
   "id": 1110031013,
   "districtId": 1110031,
-  "name": "SEUNEUBOK NALAN"
+  "districtName": "PEULIMBANG",
+  "name": "SEUNEUBOK NALAN",
+  "postalCode": "24263"
  },
  {
   "id": 1110031014,
   "districtId": 1110031,
-  "name": "KRUENG BARO"
+  "districtName": "PEULIMBANG",
+  "name": "KRUENG BARO",
+  "postalCode": "24377"
  },
  {
   "id": 1110031015,
   "districtId": 1110031,
-  "name": "KEUDE PLIMBANG"
+  "districtName": "PEULIMBANG",
+  "name": "KEUDE PLIMBANG",
+  "postalCode": "24263"
  },
  {
   "id": 1110031016,
   "districtId": 1110031,
-  "name": "PUUEK"
+  "districtName": "PEULIMBANG",
+  "name": "PUUEK",
+  "postalCode": ""
  },
  {
   "id": 1110031017,
   "districtId": 1110031,
-  "name": "PADANG KASAB"
+  "districtName": "PEULIMBANG",
+  "name": "PADANG KASAB",
+  "postalCode": "24263"
  },
  {
   "id": 1110031018,
   "districtId": 1110031,
-  "name": "SEUNEUBOK SEUMAWE"
+  "districtName": "PEULIMBANG",
+  "name": "SEUNEUBOK SEUMAWE",
+  "postalCode": "24263"
  },
  {
   "id": 1110031019,
   "districtId": 1110031,
-  "name": "SEUNEUBOK PLIMBANG"
+  "districtName": "PEULIMBANG",
+  "name": "SEUNEUBOK PLIMBANG",
+  "postalCode": "24263"
  },
  {
   "id": 1110031020,
   "districtId": 1110031,
-  "name": "SEUNEUBOK TEUNGOH"
+  "districtName": "PEULIMBANG",
+  "name": "SEUNEUBOK TEUNGOH",
+  "postalCode": "23652"
  },
  {
   "id": 1110031021,
   "districtId": 1110031,
-  "name": "GARAB"
+  "districtName": "PEULIMBANG",
+  "name": "GARAB",
+  "postalCode": "24263"
  },
  {
   "id": 1110031022,
   "districtId": 1110031,
-  "name": "KUTA TRIENG"
+  "districtName": "PEULIMBANG",
+  "name": "KUTA TRIENG",
+  "postalCode": "23662"
  }
 ]

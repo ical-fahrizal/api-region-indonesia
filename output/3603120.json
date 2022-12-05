@@ -2,46 +2,64 @@
  {
   "id": 3603120004,
   "districtId": 3603120,
-  "name": "SUKAASIH"
+  "districtName": "PASARKEMIS",
+  "name": "SUKAASIH",
+  "postalCode": "46196"
  },
  {
   "id": 3603120005,
   "districtId": 3603120,
-  "name": "PASAR KEMIS"
+  "districtName": "PASARKEMIS",
+  "name": "PASAR KEMIS",
+  "postalCode": "15560"
  },
  {
   "id": 3603120006,
   "districtId": 3603120,
-  "name": "SUKAMANTRI"
+  "districtName": "PASARKEMIS",
+  "name": "SUKAMANTRI",
+  "postalCode": "46156"
  },
  {
   "id": 3603120007,
   "districtId": 3603120,
-  "name": "KUTA JAYA"
+  "districtName": "PASARKEMIS",
+  "name": "KUTA JAYA",
+  "postalCode": "15560"
  },
  {
   "id": 3603120008,
   "districtId": 3603120,
-  "name": "GELAM JAYA"
+  "districtName": "PASARKEMIS",
+  "name": "GELAM JAYA",
+  "postalCode": "15560"
  },
  {
   "id": 3603120009,
   "districtId": 3603120,
-  "name": "KUTA BARU"
+  "districtName": "PASARKEMIS",
+  "name": "KUTA BARU",
+  "postalCode": "20998"
  },
  {
   "id": 3603120010,
   "districtId": 3603120,
-  "name": "KUTA BUMI"
+  "districtName": "PASARKEMIS",
+  "name": "KUTA BUMI",
+  "postalCode": "15560"
  },
  {
   "id": 3603120011,
   "districtId": 3603120,
-  "name": "PANGADEGAN"
+  "districtName": "PASARKEMIS",
+  "name": "PANGADEGAN",
+  "postalCode": "43266"
  },
  {
   "id": 3603120012,
   "districtId": 3603120,
-  "name": "SINDANG SARI"
+  "districtName": "PASARKEMIS",
+  "name": "SINDANG SARI",
+  "postalCode": "30657"
  }
 ]

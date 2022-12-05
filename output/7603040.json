@@ -2,36 +2,50 @@
  {
   "id": 7603040001,
   "districtId": 7603040,
-  "name": "TABANG"
+  "districtName": "TABANG",
+  "name": "TABANG",
+  "postalCode": "95717"
  },
  {
   "id": 7603040002,
   "districtId": 7603040,
-  "name": "TABANG BARAT"
+  "districtName": "TABANG",
+  "name": "TABANG BARAT",
+  "postalCode": "95882"
  },
  {
   "id": 7603040003,
   "districtId": 7603040,
-  "name": "TADO' KALUA"
+  "districtName": "TABANG",
+  "name": "TADO' KALUA",
+  "postalCode": ""
  },
  {
   "id": 7603040004,
   "districtId": 7603040,
-  "name": "MASUPPU"
+  "districtName": "TABANG",
+  "name": "MASUPPU",
+  "postalCode": ""
  },
  {
   "id": 7603040005,
   "districtId": 7603040,
-  "name": "BAKADISURA"
+  "districtName": "TABANG",
+  "name": "BAKADISURA",
+  "postalCode": "91364"
  },
  {
   "id": 7603040006,
   "districtId": 7603040,
-  "name": "KALAMA'"
+  "districtName": "TABANG",
+  "name": "KALAMA'",
+  "postalCode": ""
  },
  {
   "id": 7603040007,
   "districtId": 7603040,
-  "name": "SALUKONA"
+  "districtName": "TABANG",
+  "name": "SALUKONA",
+  "postalCode": ""
  }
 ]

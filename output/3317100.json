@@ -2,156 +2,218 @@
  {
   "id": 3317100001,
   "districtId": 3317100,
-  "name": "KEDUNGREJO"
+  "districtName": "REMBANG",
+  "name": "KEDUNGREJO",
+  "postalCode": "57383"
  },
  {
   "id": 3317100004,
   "districtId": 3317100,
-  "name": "SRIDADI"
+  "districtName": "REMBANG",
+  "name": "SRIDADI",
+  "postalCode": "36614"
  },
  {
   "id": 3317100005,
   "districtId": 3317100,
-  "name": "PADARAN"
+  "districtName": "REMBANG",
+  "name": "PADARAN",
+  "postalCode": "59219"
  },
  {
   "id": 3317100006,
   "districtId": 3317100,
-  "name": "TLOGOMOJO"
+  "districtName": "REMBANG",
+  "name": "TLOGOMOJO",
+  "postalCode": "59186"
  },
  {
   "id": 3317100007,
   "districtId": 3317100,
-  "name": "KASREMAN"
+  "districtName": "REMBANG",
+  "name": "KASREMAN",
+  "postalCode": "59219"
  },
  {
   "id": 3317100008,
   "districtId": 3317100,
-  "name": "PUNJULHARJO"
+  "districtName": "REMBANG",
+  "name": "PUNJULHARJO",
+  "postalCode": "59219"
  },
  {
   "id": 3317100009,
   "districtId": 3317100,
-  "name": "TRITUNGGAL"
+  "districtName": "REMBANG",
+  "name": "TRITUNGGAL",
+  "postalCode": "59219"
  },
  {
   "id": 3317100010,
   "districtId": 3317100,
-  "name": "PASARBANGGI"
+  "districtName": "REMBANG",
+  "name": "PASARBANGGI",
+  "postalCode": "59219"
  },
  {
   "id": 3317100011,
   "districtId": 3317100,
-  "name": "GEDANGAN"
+  "districtName": "REMBANG",
+  "name": "GEDANGAN",
+  "postalCode": "21264"
  },
  {
   "id": 3317100012,
   "districtId": 3317100,
-  "name": "WETON"
+  "districtName": "REMBANG",
+  "name": "WETON",
+  "postalCode": "59219"
  },
  {
   "id": 3317100013,
   "districtId": 3317100,
-  "name": "NGOTET"
+  "districtName": "REMBANG",
+  "name": "NGOTET",
+  "postalCode": "59219"
  },
  {
   "id": 3317100014,
   "districtId": 3317100,
-  "name": "MONDOTEKO"
+  "districtName": "REMBANG",
+  "name": "MONDOTEKO",
+  "postalCode": "59219"
  },
  {
   "id": 3317100015,
   "districtId": 3317100,
-  "name": "NGADEM"
+  "districtName": "REMBANG",
+  "name": "NGADEM",
+  "postalCode": "59219"
  },
  {
   "id": 3317100016,
   "districtId": 3317100,
-  "name": "KETANGGI"
+  "districtName": "REMBANG",
+  "name": "KETANGGI",
+  "postalCode": "59219"
  },
  {
   "id": 3317100017,
   "districtId": 3317100,
-  "name": "PULO"
+  "districtName": "REMBANG",
+  "name": "PULO",
+  "postalCode": "24188"
  },
  {
   "id": 3317100018,
   "districtId": 3317100,
-  "name": "WARU"
+  "districtName": "REMBANG",
+  "name": "WARU",
+  "postalCode": "45252"
  },
  {
   "id": 3317100019,
   "districtId": 3317100,
-  "name": "MAGERSARI"
+  "districtName": "REMBANG",
+  "name": "MAGERSARI",
+  "postalCode": "56126"
  },
  {
   "id": 3317100020,
   "districtId": 3317100,
-  "name": "GEGUNUNG KULON"
+  "districtName": "REMBANG",
+  "name": "GEGUNUNG KULON",
+  "postalCode": "59213"
  },
  {
   "id": 3317100021,
   "districtId": 3317100,
-  "name": "GEGUNUNG WETAN"
+  "districtName": "REMBANG",
+  "name": "GEGUNUNG WETAN",
+  "postalCode": "59213"
  },
  {
   "id": 3317100022,
   "districtId": 3317100,
-  "name": "PACAR"
+  "districtName": "REMBANG",
+  "name": "PACAR",
+  "postalCode": "59213"
  },
  {
   "id": 3317100023,
   "districtId": 3317100,
-  "name": "TANJUNGSARI"
+  "districtName": "REMBANG",
+  "name": "TANJUNGSARI",
+  "postalCode": "28983"
  },
  {
   "id": 3317100024,
   "districtId": 3317100,
-  "name": "SUMBERJO"
+  "districtName": "REMBANG",
+  "name": "SUMBERJO",
+  "postalCode": "34396"
  },
  {
   "id": 3317100025,
   "districtId": 3317100,
-  "name": "TASIKAGUNG"
+  "districtName": "REMBANG",
+  "name": "TASIKAGUNG",
+  "postalCode": "59212"
  },
  {
   "id": 3317100026,
   "districtId": 3317100,
-  "name": "SAWAHAN"
+  "districtName": "REMBANG",
+  "name": "SAWAHAN",
+  "postalCode": "25121"
  },
  {
   "id": 3317100028,
   "districtId": 3317100,
-  "name": "SIDOWAYAH"
+  "districtName": "REMBANG",
+  "name": "SIDOWAYAH",
+  "postalCode": "59262"
  },
  {
   "id": 3317100029,
   "districtId": 3317100,
-  "name": "KUTOHARJO"
+  "districtName": "REMBANG",
+  "name": "KUTOHARJO",
+  "postalCode": "51372"
  },
  {
   "id": 3317100030,
   "districtId": 3317100,
-  "name": "PANDEAN"
+  "districtName": "REMBANG",
+  "name": "PANDEAN",
+  "postalCode": "56194"
  },
  {
   "id": 3317100031,
   "districtId": 3317100,
-  "name": "SUKOHARJO"
+  "districtName": "REMBANG",
+  "name": "SUKOHARJO",
+  "postalCode": "32383"
  },
  {
   "id": 3317100032,
   "districtId": 3317100,
-  "name": "KABONGAN LOR"
+  "districtName": "REMBANG",
+  "name": "KABONGAN LOR",
+  "postalCode": "59219"
  },
  {
   "id": 3317100033,
   "districtId": 3317100,
-  "name": "KABONGAN KIDUL"
+  "districtName": "REMBANG",
+  "name": "KABONGAN KIDUL",
+  "postalCode": "59218"
  },
  {
   "id": 3317100034,
   "districtId": 3317100,
-  "name": "TIREMAN"
+  "districtName": "REMBANG",
+  "name": "TIREMAN",
+  "postalCode": "59219"
  }
 ]

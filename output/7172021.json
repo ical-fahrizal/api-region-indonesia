@@ -2,36 +2,50 @@
  {
   "id": 7172021001,
   "districtId": 7172021,
-  "name": "PASIRPANJANG"
+  "districtName": "LEMBEH SELATAN",
+  "name": "PASIRPANJANG",
+  "postalCode": "43176"
  },
  {
   "id": 7172021002,
   "districtId": 7172021,
-  "name": "PAUDEAN"
+  "districtName": "LEMBEH SELATAN",
+  "name": "PAUDEAN",
+  "postalCode": "95551"
  },
  {
   "id": 7172021003,
   "districtId": 7172021,
-  "name": "BATULUBANG"
+  "districtName": "LEMBEH SELATAN",
+  "name": "BATULUBANG",
+  "postalCode": "95552"
  },
  {
   "id": 7172021004,
   "districtId": 7172021,
-  "name": "DORBOLAANG"
+  "districtName": "LEMBEH SELATAN",
+  "name": "DORBOLAANG",
+  "postalCode": ""
  },
  {
   "id": 7172021005,
   "districtId": 7172021,
-  "name": "PANCURAN"
+  "districtName": "LEMBEH SELATAN",
+  "name": "PANCURAN",
+  "postalCode": "95556"
  },
  {
   "id": 7172021006,
   "districtId": 7172021,
-  "name": "PAPUSUNGAN"
+  "districtName": "LEMBEH SELATAN",
+  "name": "PAPUSUNGAN",
+  "postalCode": "95554"
  },
  {
   "id": 7172021007,
   "districtId": 7172021,
-  "name": "KELAPA DUA"
+  "districtName": "LEMBEH SELATAN",
+  "name": "KELAPA DUA",
+  "postalCode": "30959"
  }
 ]

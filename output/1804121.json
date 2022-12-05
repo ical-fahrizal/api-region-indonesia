@@ -2,41 +2,57 @@
  {
   "id": 1804121001,
   "districtId": 1804121,
-  "name": "TOTO MULYO"
+  "districtName": "WAY BUNGUR",
+  "name": "TOTO MULYO",
+  "postalCode": "34683"
  },
  {
   "id": 1804121002,
   "districtId": 1804121,
-  "name": "TEGAL OMBO"
+  "districtName": "WAY BUNGUR",
+  "name": "TEGAL OMBO",
+  "postalCode": "34373"
  },
  {
   "id": 1804121003,
   "districtId": 1804121,
-  "name": "TOTO PROJO"
+  "districtName": "WAY BUNGUR",
+  "name": "TOTO PROJO",
+  "postalCode": "34373"
  },
  {
   "id": 1804121004,
   "districtId": 1804121,
-  "name": "TAMAN NEGERI"
+  "districtName": "WAY BUNGUR",
+  "name": "TAMAN NEGERI",
+  "postalCode": "34373"
  },
  {
   "id": 1804121005,
   "districtId": 1804121,
-  "name": "TANJUNG KENCONO"
+  "districtName": "WAY BUNGUR",
+  "name": "TANJUNG KENCONO",
+  "postalCode": "34373"
  },
  {
   "id": 1804121006,
   "districtId": 1804121,
-  "name": "TAMBAH SUBUR"
+  "districtName": "WAY BUNGUR",
+  "name": "TAMBAH SUBUR",
+  "postalCode": "34373"
  },
  {
   "id": 1804121007,
   "districtId": 1804121,
-  "name": "TANJUNG TIRTO"
+  "districtName": "WAY BUNGUR",
+  "name": "TANJUNG TIRTO",
+  "postalCode": "34373"
  },
  {
   "id": 1804121008,
   "districtId": 1804121,
-  "name": "KALI PASIR"
+  "districtName": "WAY BUNGUR",
+  "name": "KALI PASIR",
+  "postalCode": "34373"
  }
 ]

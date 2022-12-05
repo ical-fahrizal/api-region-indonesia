@@ -2,66 +2,92 @@
  {
   "id": 5311052001,
   "districtId": 5311052,
-  "name": "HOBATUWA"
+  "districtName": "LIO TIMUR",
+  "name": "HOBATUWA",
+  "postalCode": ""
  },
  {
   "id": 5311052002,
   "districtId": 5311052,
-  "name": "KEL. WATUNESO"
+  "districtName": "LIO TIMUR",
+  "name": "KEL. WATUNESO",
+  "postalCode": ""
  },
  {
   "id": 5311052003,
   "districtId": 5311052,
-  "name": "WOLOSAMBI"
+  "districtName": "LIO TIMUR",
+  "name": "WOLOSAMBI",
+  "postalCode": "86361"
  },
  {
   "id": 5311052004,
   "districtId": 5311052,
-  "name": "LIABEKE"
+  "districtName": "LIO TIMUR",
+  "name": "LIABEKE",
+  "postalCode": "86361"
  },
  {
   "id": 5311052005,
   "districtId": 5311052,
-  "name": "WOLOLELE A"
+  "districtName": "LIO TIMUR",
+  "name": "WOLOLELE A",
+  "postalCode": ""
  },
  {
   "id": 5311052006,
   "districtId": 5311052,
-  "name": "DETUPERA"
+  "districtName": "LIO TIMUR",
+  "name": "DETUPERA",
+  "postalCode": "86361"
  },
  {
   "id": 5311052007,
   "districtId": 5311052,
-  "name": "WOLOARO"
+  "districtName": "LIO TIMUR",
+  "name": "WOLOARO",
+  "postalCode": ""
  },
  {
   "id": 5311052008,
   "districtId": 5311052,
-  "name": "FATAMARI"
+  "districtName": "LIO TIMUR",
+  "name": "FATAMARI",
+  "postalCode": "86361"
  },
  {
   "id": 5311052009,
   "districtId": 5311052,
-  "name": "TANAROGA"
+  "districtName": "LIO TIMUR",
+  "name": "TANAROGA",
+  "postalCode": "86361"
  },
  {
   "id": 5311052010,
   "districtId": 5311052,
-  "name": "MBEWAWORA"
+  "districtName": "LIO TIMUR",
+  "name": "MBEWAWORA",
+  "postalCode": "86361"
  },
  {
   "id": 5311052011,
   "districtId": 5311052,
-  "name": "RANGGATALO"
+  "districtName": "LIO TIMUR",
+  "name": "RANGGATALO",
+  "postalCode": "86361"
  },
  {
   "id": 5311052012,
   "districtId": 5311052,
-  "name": "NUALIMA"
+  "districtName": "LIO TIMUR",
+  "name": "NUALIMA",
+  "postalCode": ""
  },
  {
   "id": 5311052013,
   "districtId": 5311052,
-  "name": "BU TANALAGU"
+  "districtName": "LIO TIMUR",
+  "name": "BU TANALAGU",
+  "postalCode": "86361"
  }
 ]

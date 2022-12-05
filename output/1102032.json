@@ -2,31 +2,43 @@
  {
   "id": 1102032001,
   "districtId": 1102032,
-  "name": "SITUBAN MAKMUR"
+  "districtName": "DANAU PARIS",
+  "name": "SITUBAN MAKMUR",
+  "postalCode": "24784"
  },
  {
   "id": 1102032002,
   "districtId": 1102032,
-  "name": "LAE BALNO"
+  "districtName": "DANAU PARIS",
+  "name": "LAE BALNO",
+  "postalCode": "24784"
  },
  {
   "id": 1102032003,
   "districtId": 1102032,
-  "name": "SIKORAN"
+  "districtName": "DANAU PARIS",
+  "name": "SIKORAN",
+  "postalCode": "24784"
  },
  {
   "id": 1102032004,
   "districtId": 1102032,
-  "name": "NAPA GALUH"
+  "districtName": "DANAU PARIS",
+  "name": "NAPA GALUH",
+  "postalCode": "24784"
  },
  {
   "id": 1102032005,
   "districtId": 1102032,
-  "name": "BISKANG"
+  "districtName": "DANAU PARIS",
+  "name": "BISKANG",
+  "postalCode": "24784"
  },
  {
   "id": 1102032006,
   "districtId": 1102032,
-  "name": "SITUBUH-TUBUH"
+  "districtName": "DANAU PARIS",
+  "name": "SITUBUH-TUBUH",
+  "postalCode": "24784"
  }
 ]

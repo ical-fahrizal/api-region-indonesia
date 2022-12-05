@@ -2,31 +2,43 @@
  {
   "id": 3172050001,
   "districtId": 3172050,
-  "name": "BALE KAMBANG"
+  "districtName": "KRAMAT JATI",
+  "name": "BALE KAMBANG",
+  "postalCode": ""
  },
  {
   "id": 3172050002,
   "districtId": 3172050,
-  "name": "BATU AMPAR"
+  "districtName": "KRAMAT JATI",
+  "name": "BATU AMPAR",
+  "postalCode": "29274"
  },
  {
   "id": 3172050003,
   "districtId": 3172050,
-  "name": "KAMPUNG TENGAH"
+  "districtName": "KRAMAT JATI",
+  "name": "KAMPUNG TENGAH",
+  "postalCode": "23766"
  },
  {
   "id": 3172050005,
   "districtId": 3172050,
-  "name": "KRAMAT JATI"
+  "districtName": "KRAMAT JATI",
+  "name": "KRAMAT JATI",
+  "postalCode": "13510"
  },
  {
   "id": 3172050006,
   "districtId": 3172050,
-  "name": "CILILITAN"
+  "districtName": "KRAMAT JATI",
+  "name": "CILILITAN",
+  "postalCode": "13640"
  },
  {
   "id": 3172050007,
   "districtId": 3172050,
-  "name": "CAWANG"
+  "districtName": "KRAMAT JATI",
+  "name": "CAWANG",
+  "postalCode": "38882"
  }
 ]

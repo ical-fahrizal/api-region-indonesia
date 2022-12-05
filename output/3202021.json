@@ -2,31 +2,43 @@
  {
   "id": 3202021001,
   "districtId": 3202021,
-  "name": "CARINGIN NUNGGAL"
+  "districtName": "WALURAN",
+  "name": "CARINGIN NUNGGAL",
+  "postalCode": "43175"
  },
  {
   "id": 3202021002,
   "districtId": 3202021,
-  "name": "WALURAN"
+  "districtName": "WALURAN",
+  "name": "WALURAN",
+  "postalCode": "43175"
  },
  {
   "id": 3202021003,
   "districtId": 3202021,
-  "name": "SUKAMUKTI"
+  "districtName": "WALURAN",
+  "name": "SUKAMUKTI",
+  "postalCode": "44191"
  },
  {
   "id": 3202021004,
   "districtId": 3202021,
-  "name": "MEKAR MUKTI"
+  "districtName": "WALURAN",
+  "name": "MEKAR MUKTI",
+  "postalCode": "30974"
  },
  {
   "id": 3202021005,
   "districtId": 3202021,
-  "name": "WALURAN MANDIRI"
+  "districtName": "WALURAN",
+  "name": "WALURAN MANDIRI",
+  "postalCode": "43175"
  },
  {
   "id": 3202021006,
   "districtId": 3202021,
-  "name": "MANGUNJAYA"
+  "districtName": "WALURAN",
+  "name": "MANGUNJAYA",
+  "postalCode": "45256"
  }
 ]

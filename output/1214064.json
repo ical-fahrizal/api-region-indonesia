@@ -2,61 +2,85 @@
  {
   "id": 1214064001,
   "districtId": 1214064,
-  "name": "HILISERANGKAI"
+  "districtName": "IDANOTAE",
+  "name": "HILISERANGKAI",
+  "postalCode": "22873"
  },
  {
   "id": 1214064002,
   "districtId": 1214064,
-  "name": "LAHUSA IDANOTAE"
+  "districtName": "IDANOTAE",
+  "name": "LAHUSA IDANOTAE",
+  "postalCode": ""
  },
  {
   "id": 1214064003,
   "districtId": 1214064,
-  "name": "ORAHUA"
+  "districtName": "IDANOTAE",
+  "name": "ORAHUA",
+  "postalCode": "22876"
  },
  {
   "id": 1214064004,
   "districtId": 1214064,
-  "name": "HILIMBOWO IDANOTAE"
+  "districtName": "IDANOTAE",
+  "name": "HILIMBOWO IDANOTAE",
+  "postalCode": ""
  },
  {
   "id": 1214064005,
   "districtId": 1214064,
-  "name": "SIRAHIA"
+  "districtName": "IDANOTAE",
+  "name": "SIRAHIA",
+  "postalCode": "22873"
  },
  {
   "id": 1214064006,
   "districtId": 1214064,
-  "name": "UMBU IDANOTAE"
+  "districtName": "IDANOTAE",
+  "name": "UMBU IDANOTAE",
+  "postalCode": ""
  },
  {
   "id": 1214064007,
   "districtId": 1214064,
-  "name": "AWONI"
+  "districtName": "IDANOTAE",
+  "name": "AWONI",
+  "postalCode": "22873"
  },
  {
   "id": 1214064008,
   "districtId": 1214064,
-  "name": "HILISALOO"
+  "districtName": "IDANOTAE",
+  "name": "HILISALOO",
+  "postalCode": "22852"
  },
  {
   "id": 1214064009,
   "districtId": 1214064,
-  "name": "BALUMBARUZO ORAHUA"
+  "districtName": "IDANOTAE",
+  "name": "BALUMBARUZO ORAHUA",
+  "postalCode": ""
  },
  {
   "id": 1214064010,
   "districtId": 1214064,
-  "name": "HAREFA ORAHUA"
+  "districtName": "IDANOTAE",
+  "name": "HAREFA ORAHUA",
+  "postalCode": "22873"
  },
  {
   "id": 1214064011,
   "districtId": 1214064,
-  "name": "HILIGABUNGAN"
+  "districtName": "IDANOTAE",
+  "name": "HILIGABUNGAN",
+  "postalCode": "22873"
  },
  {
   "id": 1214064012,
   "districtId": 1214064,
-  "name": "BUHAWA"
+  "districtName": "IDANOTAE",
+  "name": "BUHAWA",
+  "postalCode": "22873"
  }
 ]

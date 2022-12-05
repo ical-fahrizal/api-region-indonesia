@@ -2,41 +2,57 @@
  {
   "id": 5202090002,
   "districtId": 5202090,
-  "name": "PAGUTAN"
+  "districtName": "BATUKLIANG",
+  "name": "PAGUTAN",
+  "postalCode": "57662"
  },
  {
   "id": 5202090003,
   "districtId": 5202090,
-  "name": "BARABALI"
+  "districtName": "BATUKLIANG",
+  "name": "BARABALI",
+  "postalCode": "83552"
  },
  {
   "id": 5202090004,
   "districtId": 5202090,
-  "name": "BUJAK"
+  "districtName": "BATUKLIANG",
+  "name": "BUJAK",
+  "postalCode": "83552"
  },
  {
   "id": 5202090005,
   "districtId": 5202090,
-  "name": "PERESAK"
+  "districtName": "BATUKLIANG",
+  "name": "PERESAK",
+  "postalCode": "83552"
  },
  {
   "id": 5202090006,
   "districtId": 5202090,
-  "name": "MANTANG"
+  "districtName": "BATUKLIANG",
+  "name": "MANTANG",
+  "postalCode": "83552"
  },
  {
   "id": 5202090007,
   "districtId": 5202090,
-  "name": "AIK DAREQ"
+  "districtName": "BATUKLIANG",
+  "name": "AIK DAREQ",
+  "postalCode": ""
  },
  {
   "id": 5202090009,
   "districtId": 5202090,
-  "name": "TAMPAK SIRING"
+  "districtName": "BATUKLIANG",
+  "name": "TAMPAK SIRING",
+  "postalCode": "83552"
  },
  {
   "id": 5202090010,
   "districtId": 5202090,
-  "name": "MEKAR BERSATU"
+  "districtName": "BATUKLIANG",
+  "name": "MEKAR BERSATU",
+  "postalCode": ""
  }
 ]

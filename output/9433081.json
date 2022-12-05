@@ -2,36 +2,50 @@
  {
   "id": 9433081001,
   "districtId": 9433081,
-  "name": "FAISAU"
+  "districtName": "DERVOS",
+  "name": "FAISAU",
+  "postalCode": "98976"
  },
  {
   "id": 9433081002,
   "districtId": 9433081,
-  "name": "KORDEI"
+  "districtName": "DERVOS",
+  "name": "KORDEI",
+  "postalCode": ""
  },
  {
   "id": 9433081003,
   "districtId": 9433081,
-  "name": "TAYAI"
+  "districtName": "DERVOS",
+  "name": "TAYAI",
+  "postalCode": "99377"
  },
  {
   "id": 9433081004,
   "districtId": 9433081,
-  "name": "DUATIA"
+  "districtName": "DERVOS",
+  "name": "DUATIA",
+  "postalCode": ""
  },
  {
   "id": 9433081005,
   "districtId": 9433081,
-  "name": "FOISA"
+  "districtName": "DERVOS",
+  "name": "FOISA",
+  "postalCode": ""
  },
  {
   "id": 9433081006,
   "districtId": 9433081,
-  "name": "FOKRI"
+  "districtName": "DERVOS",
+  "name": "FOKRI",
+  "postalCode": "99377"
  },
  {
   "id": 9433081007,
   "districtId": 9433081,
-  "name": "DERVOS"
+  "districtName": "DERVOS",
+  "name": "DERVOS",
+  "postalCode": ""
  }
 ]

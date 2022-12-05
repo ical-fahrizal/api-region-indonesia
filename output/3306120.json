@@ -2,181 +2,253 @@
  {
   "id": 3306120001,
   "districtId": 3306120,
-  "name": "KROYO KULON"
+  "districtName": "KEMIRI",
+  "name": "KROYO KULON",
+  "postalCode": "54262"
  },
  {
   "id": 3306120002,
   "districtId": 3306120,
-  "name": "WALED"
+  "districtName": "KEMIRI",
+  "name": "WALED",
+  "postalCode": "54262"
  },
  {
   "id": 3306120003,
   "districtId": 3306120,
-  "name": "PAITAN"
+  "districtName": "KEMIRI",
+  "name": "PAITAN",
+  "postalCode": "54262"
  },
  {
   "id": 3306120004,
   "districtId": 3306120,
-  "name": "GEDONG"
+  "districtName": "KEMIRI",
+  "name": "GEDONG",
+  "postalCode": "13760"
  },
  {
   "id": 3306120005,
   "districtId": 3306120,
-  "name": "ROWOBAYEM"
+  "districtName": "KEMIRI",
+  "name": "ROWOBAYEM",
+  "postalCode": "54262"
  },
  {
   "id": 3306120006,
   "districtId": 3306120,
-  "name": "KEMIRI KIDUL"
+  "districtName": "KEMIRI",
+  "name": "KEMIRI KIDUL",
+  "postalCode": "54262"
  },
  {
   "id": 3306120008,
   "districtId": 3306120,
-  "name": "GESIKAN"
+  "districtName": "KEMIRI",
+  "name": "GESIKAN",
+  "postalCode": "57455"
  },
  {
   "id": 3306120009,
   "districtId": 3306120,
-  "name": "REJOSARI"
+  "districtName": "KEMIRI",
+  "name": "REJOSARI",
+  "postalCode": "29353"
  },
  {
   "id": 3306120010,
   "districtId": 3306120,
-  "name": "KROYO LOR"
+  "districtName": "KEMIRI",
+  "name": "KROYO LOR",
+  "postalCode": "54262"
  },
  {
   "id": 3306120011,
   "districtId": 3306120,
-  "name": "KEMIRI LOR"
+  "districtName": "KEMIRI",
+  "name": "KEMIRI LOR",
+  "postalCode": "54262"
  },
  {
   "id": 3306120012,
   "districtId": 3306120,
-  "name": "BEDONO KLUWUNG"
+  "districtName": "KEMIRI",
+  "name": "BEDONO KLUWUNG",
+  "postalCode": "54262"
  },
  {
   "id": 3306120013,
   "districtId": 3306120,
-  "name": "BEDONO PAGERON"
+  "districtName": "KEMIRI",
+  "name": "BEDONO PAGERON",
+  "postalCode": "54262"
  },
  {
   "id": 3306120014,
   "districtId": 3306120,
-  "name": "KARANGDUWUR (BEDONO)"
+  "districtName": "KEMIRI",
+  "name": "KARANGDUWUR (BEDONO)",
+  "postalCode": ""
  },
  {
   "id": 3306120016,
   "districtId": 3306120,
-  "name": "LONING"
+  "districtName": "KEMIRI",
+  "name": "LONING",
+  "postalCode": "54262"
  },
  {
   "id": 3306120017,
   "districtId": 3306120,
-  "name": "WINONG"
+  "districtName": "KEMIRI",
+  "name": "WINONG",
+  "postalCode": "45161"
  },
  {
   "id": 3306120018,
   "districtId": 3306120,
-  "name": "SUTORAGAN"
+  "districtName": "KEMIRI",
+  "name": "SUTORAGAN",
+  "postalCode": "54262"
  },
  {
   "id": 3306120019,
   "districtId": 3306120,
-  "name": "JATIWANGSAN"
+  "districtName": "KEMIRI",
+  "name": "JATIWANGSAN",
+  "postalCode": "54262"
  },
  {
   "id": 3306120021,
   "districtId": 3306120,
-  "name": "KEDUNGLO"
+  "districtName": "KEMIRI",
+  "name": "KEDUNGLO",
+  "postalCode": "54262"
  },
  {
   "id": 3306120022,
   "districtId": 3306120,
-  "name": "SIDODADI"
+  "districtName": "KEMIRI",
+  "name": "SIDODADI",
+  "postalCode": "24582"
  },
  {
   "id": 3306120023,
   "districtId": 3306120,
-  "name": "KALIURIP"
+  "districtName": "KEMIRI",
+  "name": "KALIURIP",
+  "postalCode": "54262"
  },
  {
   "id": 3306120024,
   "districtId": 3306120,
-  "name": "KALIMENENG"
+  "districtName": "KEMIRI",
+  "name": "KALIMENENG",
+  "postalCode": "54262"
  },
  {
   "id": 3306120025,
   "districtId": 3306120,
-  "name": "REJOWINANGUN"
+  "districtName": "KEMIRI",
+  "name": "REJOWINANGUN",
+  "postalCode": "54262"
  },
  {
   "id": 3306120026,
   "districtId": 3306120,
-  "name": "SAMPING"
+  "districtName": "KEMIRI",
+  "name": "SAMPING",
+  "postalCode": "54262"
  },
  {
   "id": 3306120027,
   "districtId": 3306120,
-  "name": "WONOSARI"
+  "districtName": "KEMIRI",
+  "name": "WONOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 3306120028,
   "districtId": 3306120,
-  "name": "KAPITERAN"
+  "districtName": "KEMIRI",
+  "name": "KAPITERAN",
+  "postalCode": "54262"
  },
  {
   "id": 3306120029,
   "districtId": 3306120,
-  "name": "WANUROJO"
+  "districtName": "KEMIRI",
+  "name": "WANUROJO",
+  "postalCode": "54262"
  },
  {
   "id": 3306120030,
   "districtId": 3306120,
-  "name": "SOKOGELAP"
+  "districtName": "KEMIRI",
+  "name": "SOKOGELAP",
+  "postalCode": "54262"
  },
  {
   "id": 3306120031,
   "districtId": 3306120,
-  "name": "KALIGLAGAH"
+  "districtName": "KEMIRI",
+  "name": "KALIGLAGAH",
+  "postalCode": "54262"
  },
  {
   "id": 3306120033,
   "districtId": 3306120,
-  "name": "PURBAYAN"
+  "districtName": "KEMIRI",
+  "name": "PURBAYAN",
+  "postalCode": "57556"
  },
  {
   "id": 3306120034,
   "districtId": 3306120,
-  "name": "KEDUNG POMAHAN KULON"
+  "districtName": "KEMIRI",
+  "name": "KEDUNG POMAHAN KULON",
+  "postalCode": "54262"
  },
  {
   "id": 3306120035,
   "districtId": 3306120,
-  "name": "KARANGLUAS"
+  "districtName": "KEMIRI",
+  "name": "KARANGLUAS",
+  "postalCode": "54262"
  },
  {
   "id": 3306120036,
   "districtId": 3306120,
-  "name": "KEDUNG POMAHAN WETAN"
+  "districtName": "KEMIRI",
+  "name": "KEDUNG POMAHAN WETAN",
+  "postalCode": "54262"
  },
  {
   "id": 3306120037,
   "districtId": 3306120,
-  "name": "WONOSUKO"
+  "districtName": "KEMIRI",
+  "name": "WONOSUKO",
+  "postalCode": "54262"
  },
  {
   "id": 3306120038,
   "districtId": 3306120,
-  "name": "DILEM"
+  "districtName": "KEMIRI",
+  "name": "DILEM",
+  "postalCode": "54262"
  },
  {
   "id": 3306120039,
   "districtId": 3306120,
-  "name": "GIRIJOYO"
+  "districtName": "KEMIRI",
+  "name": "GIRIJOYO",
+  "postalCode": "54262"
  },
  {
   "id": 3306120040,
   "districtId": 3306120,
-  "name": "GIRIMULYO"
+  "districtName": "KEMIRI",
+  "name": "GIRIMULYO",
+  "postalCode": "57693"
  }
 ]

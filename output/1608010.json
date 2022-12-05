@@ -2,76 +2,106 @@
  {
   "id": 1608010001,
   "districtId": 1608010,
-  "name": "KOTA DALAM"
+  "districtName": "MEKAKAU ILIR",
+  "name": "KOTA DALAM",
+  "postalCode": "32276"
  },
  {
   "id": 1608010002,
   "districtId": 1608010,
-  "name": "TELUK AGUNG"
+  "districtName": "MEKAKAU ILIR",
+  "name": "TELUK AGUNG",
+  "postalCode": "32276"
  },
  {
   "id": 1608010003,
   "districtId": 1608010,
-  "name": "TANJUNG BESAR"
+  "districtName": "MEKAKAU ILIR",
+  "name": "TANJUNG BESAR",
+  "postalCode": "32276"
  },
  {
   "id": 1608010004,
   "districtId": 1608010,
-  "name": "PULAU DUKU"
+  "districtName": "MEKAKAU ILIR",
+  "name": "PULAU DUKU",
+  "postalCode": "32276"
  },
  {
   "id": 1608010005,
   "districtId": 1608010,
-  "name": "SINAR MARGA"
+  "districtName": "MEKAKAU ILIR",
+  "name": "SINAR MARGA",
+  "postalCode": "32276"
  },
  {
   "id": 1608010006,
   "districtId": 1608010,
-  "name": "KOTA BARU"
+  "districtName": "MEKAKAU ILIR",
+  "name": "KOTA BARU",
+  "postalCode": "23125"
  },
  {
   "id": 1608010007,
   "districtId": 1608010,
-  "name": "GALANG TINGGI"
+  "districtName": "MEKAKAU ILIR",
+  "name": "GALANG TINGGI",
+  "postalCode": "30953"
  },
  {
   "id": 1608010008,
   "districtId": 1608010,
-  "name": "SUKARAJA"
+  "districtName": "MEKAKAU ILIR",
+  "name": "SUKARAJA",
+  "postalCode": "21256"
  },
  {
   "id": 1608010009,
   "districtId": 1608010,
-  "name": "SRIMENANTI"
+  "districtName": "MEKAKAU ILIR",
+  "name": "SRIMENANTI",
+  "postalCode": "33214"
  },
  {
   "id": 1608010010,
   "districtId": 1608010,
-  "name": "KEPAYANG"
+  "districtName": "MEKAKAU ILIR",
+  "name": "KEPAYANG",
+  "postalCode": "30756"
  },
  {
   "id": 1608010011,
   "districtId": 1608010,
-  "name": "KEMANG BANDUNG"
+  "districtName": "MEKAKAU ILIR",
+  "name": "KEMANG BANDUNG",
+  "postalCode": "32276"
  },
  {
   "id": 1608010012,
   "districtId": 1608010,
-  "name": "SELABUNG BELIMBING JAYA"
+  "districtName": "MEKAKAU ILIR",
+  "name": "SELABUNG BELIMBING JAYA",
+  "postalCode": "32276"
  },
  {
   "id": 1608010013,
   "districtId": 1608010,
-  "name": "AIR BARU"
+  "districtName": "MEKAKAU ILIR",
+  "name": "AIR BARU",
+  "postalCode": "32276"
  },
  {
   "id": 1608010014,
   "districtId": 1608010,
-  "name": "BUNUT"
+  "districtName": "MEKAKAU ILIR",
+  "name": "BUNUT",
+  "postalCode": "22756"
  },
  {
   "id": 1608010015,
   "districtId": 1608010,
-  "name": "PEREAN"
+  "districtName": "MEKAKAU ILIR",
+  "name": "PEREAN",
+  "postalCode": "82191"
  }
 ]

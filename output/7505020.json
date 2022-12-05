@@ -2,91 +2,127 @@
  {
   "id": 7505020008,
   "districtId": 7505020,
-  "name": "PONTOLO"
+  "districtName": "KWANDANG",
+  "name": "PONTOLO",
+  "postalCode": "96252"
  },
  {
   "id": 7505020009,
   "districtId": 7505020,
-  "name": "MOLINGKAPOTO"
+  "districtName": "KWANDANG",
+  "name": "MOLINGKAPOTO",
+  "postalCode": ""
  },
  {
   "id": 7505020010,
   "districtId": 7505020,
-  "name": "MOOTINELO"
+  "districtName": "KWANDANG",
+  "name": "MOOTINELO",
+  "postalCode": "96585"
  },
  {
   "id": 7505020011,
   "districtId": 7505020,
-  "name": "LEBOTO"
+  "districtName": "KWANDANG",
+  "name": "LEBOTO",
+  "postalCode": "96252"
  },
  {
   "id": 7505020012,
   "districtId": 7505020,
-  "name": "BUALEMO"
+  "districtName": "KWANDANG",
+  "name": "BUALEMO",
+  "postalCode": "96252"
  },
  {
   "id": 7505020013,
   "districtId": 7505020,
-  "name": "POSSO"
+  "districtName": "KWANDANG",
+  "name": "POSSO",
+  "postalCode": "96252"
  },
  {
   "id": 7505020014,
   "districtId": 7505020,
-  "name": "BULALO"
+  "districtName": "KWANDANG",
+  "name": "BULALO",
+  "postalCode": "96252"
  },
  {
   "id": 7505020015,
   "districtId": 7505020,
-  "name": "TITIDU"
+  "districtName": "KWANDANG",
+  "name": "TITIDU",
+  "postalCode": "96252"
  },
  {
   "id": 7505020016,
   "districtId": 7505020,
-  "name": "MOLUO"
+  "districtName": "KWANDANG",
+  "name": "MOLUO",
+  "postalCode": "96252"
  },
  {
   "id": 7505020021,
   "districtId": 7505020,
-  "name": "OMBULODATA"
+  "districtName": "KWANDANG",
+  "name": "OMBULODATA",
+  "postalCode": "96252"
  },
  {
   "id": 7505020022,
   "districtId": 7505020,
-  "name": "PONTOLO ATAS"
+  "districtName": "KWANDANG",
+  "name": "PONTOLO ATAS",
+  "postalCode": "96252"
  },
  {
   "id": 7505020023,
   "districtId": 7505020,
-  "name": "BOTUWOMBATO"
+  "districtName": "KWANDANG",
+  "name": "BOTUWOMBATO",
+  "postalCode": ""
  },
  {
   "id": 7505020024,
   "districtId": 7505020,
-  "name": "MOLINGKAPOTO SELATAN"
+  "districtName": "KWANDANG",
+  "name": "MOLINGKAPOTO SELATAN",
+  "postalCode": "96252"
  },
  {
   "id": 7505020025,
   "districtId": 7505020,
-  "name": "BOTUNGOBUNGO"
+  "districtName": "KWANDANG",
+  "name": "BOTUNGOBUNGO",
+  "postalCode": "96252"
  },
  {
   "id": 7505020026,
   "districtId": 7505020,
-  "name": "ALATA KARYA"
+  "districtName": "KWANDANG",
+  "name": "ALATA KARYA",
+  "postalCode": "96252"
  },
  {
   "id": 7505020027,
   "districtId": 7505020,
-  "name": "MASURU"
+  "districtName": "KWANDANG",
+  "name": "MASURU",
+  "postalCode": "96252"
  },
  {
   "id": 7505020028,
   "districtId": 7505020,
-  "name": "CISADANE"
+  "districtName": "KWANDANG",
+  "name": "CISADANE",
+  "postalCode": "96252"
  },
  {
   "id": 7505020029,
   "districtId": 7505020,
-  "name": "KATIALADA"
+  "districtName": "KWANDANG",
+  "name": "KATIALADA",
+  "postalCode": "96252"
  }
 ]

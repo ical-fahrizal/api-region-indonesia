@@ -2,46 +2,64 @@
  {
   "id": 7308030003,
   "districtId": 7308030,
-  "name": "BONTO BAHARI"
+  "districtName": "BONTOA",
+  "name": "BONTO BAHARI",
+  "postalCode": "90554"
  },
  {
   "id": 7308030004,
   "districtId": 7308030,
-  "name": "PAJUKUKANG"
+  "districtName": "BONTOA",
+  "name": "PAJUKUKANG",
+  "postalCode": "90554"
  },
  {
   "id": 7308030005,
   "districtId": 7308030,
-  "name": "TUNIKAMASEANG"
+  "districtName": "BONTOA",
+  "name": "TUNIKAMASEANG",
+  "postalCode": "90554"
  },
  {
   "id": 7308030006,
   "districtId": 7308030,
-  "name": "BONTOA"
+  "districtName": "BONTOA",
+  "name": "BONTOA",
+  "postalCode": "92316"
  },
  {
   "id": 7308030007,
   "districtId": 7308030,
-  "name": "SALENRANG"
+  "districtName": "BONTOA",
+  "name": "SALENRANG",
+  "postalCode": "90554"
  },
  {
   "id": 7308030008,
   "districtId": 7308030,
-  "name": "BONTO LEMPANGAN"
+  "districtName": "BONTOA",
+  "name": "BONTO LEMPANGAN",
+  "postalCode": "90554"
  },
  {
   "id": 7308030009,
   "districtId": 7308030,
-  "name": "MINASA UPA"
+  "districtName": "BONTOA",
+  "name": "MINASA UPA",
+  "postalCode": "90554"
  },
  {
   "id": 7308030010,
   "districtId": 7308030,
-  "name": "TUPABIRING"
+  "districtName": "BONTOA",
+  "name": "TUPABIRING",
+  "postalCode": "90554"
  },
  {
   "id": 7308030011,
   "districtId": 7308030,
-  "name": "AMPEKALE"
+  "districtName": "BONTOA",
+  "name": "AMPEKALE",
+  "postalCode": "90554"
  }
 ]

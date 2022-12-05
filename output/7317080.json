@@ -2,46 +2,64 @@
  {
   "id": 7317080002,
   "districtId": 7317080,
-  "name": "TOMBANG"
+  "districtName": "WALENRANG",
+  "name": "TOMBANG",
+  "postalCode": "94752"
  },
  {
   "id": 7317080003,
   "districtId": 7317080,
-  "name": "BARAMAMASE"
+  "districtName": "WALENRANG",
+  "name": "BARAMAMASE",
+  "postalCode": "92254"
  },
  {
   "id": 7317080015,
   "districtId": 7317080,
-  "name": "HARAPAN"
+  "districtName": "WALENRANG",
+  "name": "HARAPAN",
+  "postalCode": "22253"
  },
  {
   "id": 7317080017,
   "districtId": 7317080,
-  "name": "SARAGI"
+  "districtName": "WALENRANG",
+  "name": "SARAGI",
+  "postalCode": "91951"
  },
  {
   "id": 7317080018,
   "districtId": 7317080,
-  "name": "BULO"
+  "districtName": "WALENRANG",
+  "name": "BULO",
+  "postalCode": "95858"
  },
  {
   "id": 7317080019,
   "districtId": 7317080,
-  "name": "LALONG"
+  "districtName": "WALENRANG",
+  "name": "LALONG",
+  "postalCode": "86753"
  },
  {
   "id": 7317080020,
   "districtId": 7317080,
-  "name": "WALENRANG"
+  "districtName": "WALENRANG",
+  "name": "WALENRANG",
+  "postalCode": "91951"
  },
  {
   "id": 7317080021,
   "districtId": 7317080,
-  "name": "BATUSITANDUK"
+  "districtName": "WALENRANG",
+  "name": "BATUSITANDUK",
+  "postalCode": "91951"
  },
  {
   "id": 7317080022,
   "districtId": 7317080,
-  "name": "KALIBAMAMASE"
+  "districtName": "WALENRANG",
+  "name": "KALIBAMAMASE",
+  "postalCode": "91951"
  }
 ]

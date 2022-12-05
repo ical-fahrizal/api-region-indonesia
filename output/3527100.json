@@ -2,36 +2,50 @@
  {
   "id": 3527100001,
   "districtId": 3527100,
-  "name": "BAPELLE"
+  "districtName": "ROBATAL",
+  "name": "BAPELLE",
+  "postalCode": "69254"
  },
  {
   "id": 3527100010,
   "districtId": 3527100,
-  "name": "ROBATAL"
+  "districtName": "ROBATAL",
+  "name": "ROBATAL",
+  "postalCode": "69254"
  },
  {
   "id": 3527100011,
   "districtId": 3527100,
-  "name": "SAWAH TENGAH"
+  "districtName": "ROBATAL",
+  "name": "SAWAH TENGAH",
+  "postalCode": "69254"
  },
  {
   "id": 3527100012,
   "districtId": 3527100,
-  "name": "TORJUNAN"
+  "districtName": "ROBATAL",
+  "name": "TORJUNAN",
+  "postalCode": "69254"
  },
  {
   "id": 3527100013,
   "districtId": 3527100,
-  "name": "TRAGIH"
+  "districtName": "ROBATAL",
+  "name": "TRAGIH",
+  "postalCode": "69254"
  },
  {
   "id": 3527100015,
   "districtId": 3527100,
-  "name": "GUNUNG RANCAK"
+  "districtName": "ROBATAL",
+  "name": "GUNUNG RANCAK",
+  "postalCode": "69254"
  },
  {
   "id": 3527100016,
   "districtId": 3527100,
-  "name": "PANDIYANGAN"
+  "districtName": "ROBATAL",
+  "name": "PANDIYANGAN",
+  "postalCode": "69254"
  }
 ]

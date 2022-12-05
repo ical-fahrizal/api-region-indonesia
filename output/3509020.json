@@ -2,41 +2,57 @@
  {
   "id": 3509020001,
   "districtId": 3509020,
-  "name": "KEPANJEN"
+  "districtName": "GUMUK MAS",
+  "name": "KEPANJEN",
+  "postalCode": "57471"
  },
  {
   "id": 3509020002,
   "districtId": 3509020,
-  "name": "MAYANGAN"
+  "districtName": "GUMUK MAS",
+  "name": "MAYANGAN",
+  "postalCode": "41254"
  },
  {
   "id": 3509020003,
   "districtId": 3509020,
-  "name": "MENAMPU"
+  "districtName": "GUMUK MAS",
+  "name": "MENAMPU",
+  "postalCode": "68165"
  },
  {
   "id": 3509020004,
   "districtId": 3509020,
-  "name": "BAGOREJO"
+  "districtName": "GUMUK MAS",
+  "name": "BAGOREJO",
+  "postalCode": "68165"
  },
  {
   "id": 3509020005,
   "districtId": 3509020,
-  "name": "GUMUKMAS"
+  "districtName": "GUMUK MAS",
+  "name": "GUMUKMAS",
+  "postalCode": "68165"
  },
  {
   "id": 3509020006,
   "districtId": 3509020,
-  "name": "PURWOASRI"
+  "districtName": "GUMUK MAS",
+  "name": "PURWOASRI",
+  "postalCode": "68165"
  },
  {
   "id": 3509020007,
   "districtId": 3509020,
-  "name": "TEMBOKREJO"
+  "districtName": "GUMUK MAS",
+  "name": "TEMBOKREJO",
+  "postalCode": "68165"
  },
  {
   "id": 3509020008,
   "districtId": 3509020,
-  "name": "KARANGREJO"
+  "districtName": "GUMUK MAS",
+  "name": "KARANGREJO",
+  "postalCode": "35387"
  }
 ]

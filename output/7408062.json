@@ -2,26 +2,36 @@
  {
   "id": 7408062001,
   "districtId": 7408062,
-  "name": "LAWAKI JAYA"
+  "districtName": "TOLALA",
+  "name": "LAWAKI JAYA",
+  "postalCode": "93955"
  },
  {
   "id": 7408062002,
   "districtId": 7408062,
-  "name": "PATIKALA"
+  "districtName": "TOLALA",
+  "name": "PATIKALA",
+  "postalCode": "93955"
  },
  {
   "id": 7408062003,
   "districtId": 7408062,
-  "name": "TOLALA"
+  "districtName": "TOLALA",
+  "name": "TOLALA",
+  "postalCode": "93955"
  },
  {
   "id": 7408062004,
   "districtId": 7408062,
-  "name": "BAHARI"
+  "districtName": "TOLALA",
+  "name": "BAHARI",
+  "postalCode": "94681"
  },
  {
   "id": 7408062006,
   "districtId": 7408062,
-  "name": "LOKA"
+  "districtName": "TOLALA",
+  "name": "LOKA",
+  "postalCode": "92516"
  }
 ]

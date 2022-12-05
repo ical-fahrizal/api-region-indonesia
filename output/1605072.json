@@ -2,56 +2,78 @@
  {
   "id": 1605072001,
   "districtId": 1605072,
-  "name": "AIR BELITI"
+  "districtName": "TUAH NEGERI",
+  "name": "AIR BELITI",
+  "postalCode": "31663"
  },
  {
   "id": 1605072002,
   "districtId": 1605072,
-  "name": "SUKA MULYA"
+  "districtName": "TUAH NEGERI",
+  "name": "SUKA MULYA",
+  "postalCode": "28463"
  },
  {
   "id": 1605072003,
   "districtId": 1605072,
-  "name": "JAYA TUNGGAL"
+  "districtName": "TUAH NEGERI",
+  "name": "JAYA TUNGGAL",
+  "postalCode": "31663"
  },
  {
   "id": 1605072004,
   "districtId": 1605072,
-  "name": "REMAYU"
+  "districtName": "TUAH NEGERI",
+  "name": "REMAYU",
+  "postalCode": "31663"
  },
  {
   "id": 1605072005,
   "districtId": 1605072,
-  "name": "PETUNANG"
+  "districtName": "TUAH NEGERI",
+  "name": "PETUNANG",
+  "postalCode": "31663"
  },
  {
   "id": 1605072006,
   "districtId": 1605072,
-  "name": "JAYA BAKTI"
+  "districtName": "TUAH NEGERI",
+  "name": "JAYA BAKTI",
+  "postalCode": "32362"
  },
  {
   "id": 1605072007,
   "districtId": 1605072,
-  "name": "DHARMA SAKTI"
+  "districtName": "TUAH NEGERI",
+  "name": "DHARMA SAKTI",
+  "postalCode": ""
  },
  {
   "id": 1605072008,
   "districtId": 1605072,
-  "name": "BANPRES"
+  "districtName": "TUAH NEGERI",
+  "name": "BANPRES",
+  "postalCode": "31663"
  },
  {
   "id": 1605072009,
   "districtId": 1605072,
-  "name": "BAMASKO"
+  "districtName": "TUAH NEGERI",
+  "name": "BAMASKO",
+  "postalCode": "31663"
  },
  {
   "id": 1605072010,
   "districtId": 1605072,
-  "name": "LUBUK RUMBAI"
+  "districtName": "TUAH NEGERI",
+  "name": "LUBUK RUMBAI",
+  "postalCode": "31654"
  },
  {
   "id": 1605072011,
   "districtId": 1605072,
-  "name": "LEBAN JAYA"
+  "districtName": "TUAH NEGERI",
+  "name": "LEBAN JAYA",
+  "postalCode": ""
  }
 ]

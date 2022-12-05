@@ -2,21 +2,29 @@
  {
   "id": 9171011001,
   "districtId": 9171011,
-  "name": "DOOM TIMUR"
+  "districtName": "SORONG KEPULAUAN",
+  "name": "DOOM TIMUR",
+  "postalCode": ""
  },
  {
   "id": 9171011002,
   "districtId": 9171011,
-  "name": "DOOM BARAT"
+  "districtName": "SORONG KEPULAUAN",
+  "name": "DOOM BARAT",
+  "postalCode": ""
  },
  {
   "id": 9171011003,
   "districtId": 9171011,
-  "name": "SOOP"
+  "districtName": "SORONG KEPULAUAN",
+  "name": "SOOP",
+  "postalCode": "98413"
  },
  {
   "id": 9171011004,
   "districtId": 9171011,
-  "name": "RAAM"
+  "districtName": "SORONG KEPULAUAN",
+  "name": "RAAM",
+  "postalCode": "98413"
  }
 ]

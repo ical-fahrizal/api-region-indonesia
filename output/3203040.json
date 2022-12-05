@@ -2,56 +2,78 @@
  {
   "id": 3203040001,
   "districtId": 3203040,
-  "name": "CINERANG"
+  "districtName": "NARINGGUL",
+  "name": "CINERANG",
+  "postalCode": "43274"
  },
  {
   "id": 3203040002,
   "districtId": 3203040,
-  "name": "WANGUNJAYA"
+  "districtName": "NARINGGUL",
+  "name": "WANGUNJAYA",
+  "postalCode": "43273"
  },
  {
   "id": 3203040003,
   "districtId": 3203040,
-  "name": "MEKARSARI"
+  "districtName": "NARINGGUL",
+  "name": "MEKARSARI",
+  "postalCode": "37482"
  },
  {
   "id": 3203040004,
   "districtId": 3203040,
-  "name": "WANGUNSARI"
+  "districtName": "NARINGGUL",
+  "name": "WANGUNSARI",
+  "postalCode": "46187"
  },
  {
   "id": 3203040005,
   "districtId": 3203040,
-  "name": "MALATI"
+  "districtName": "NARINGGUL",
+  "name": "MALATI",
+  "postalCode": "43274"
  },
  {
   "id": 3203040006,
   "districtId": 3203040,
-  "name": "SUKAMULYA"
+  "districtName": "NARINGGUL",
+  "name": "SUKAMULYA",
+  "postalCode": "30657"
  },
  {
   "id": 3203040007,
   "districtId": 3203040,
-  "name": "NARINGGUL"
+  "districtName": "NARINGGUL",
+  "name": "NARINGGUL",
+  "postalCode": "43274"
  },
  {
   "id": 3203040008,
   "districtId": 3203040,
-  "name": "WANASARI"
+  "districtName": "NARINGGUL",
+  "name": "WANASARI",
+  "postalCode": "43273"
  },
  {
   "id": 3203040009,
   "districtId": 3203040,
-  "name": "SUKABAKTI"
+  "districtName": "NARINGGUL",
+  "name": "SUKABAKTI",
+  "postalCode": "35594"
  },
  {
   "id": 3203040010,
   "districtId": 3203040,
-  "name": "BALEGEDE"
+  "districtName": "NARINGGUL",
+  "name": "BALEGEDE",
+  "postalCode": "43274"
  },
  {
   "id": 3203040011,
   "districtId": 3203040,
-  "name": "MARGASARI"
+  "districtName": "NARINGGUL",
+  "name": "MARGASARI",
+  "postalCode": "34198"
  }
 ]

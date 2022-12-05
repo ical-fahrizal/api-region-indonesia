@@ -2,16 +2,22 @@
  {
   "id": 1307090001,
   "districtId": 1307090,
-  "name": "GADUT"
+  "districtName": "TILATANG KAMANG",
+  "name": "GADUT",
+  "postalCode": ""
  },
  {
   "id": 1307090002,
   "districtId": 1307090,
-  "name": "KAPAU"
+  "districtName": "TILATANG KAMANG",
+  "name": "KAPAU",
+  "postalCode": "26152"
  },
  {
   "id": 1307090003,
   "districtId": 1307090,
-  "name": "KOTO TANGAH"
+  "districtName": "TILATANG KAMANG",
+  "name": "KOTO TANGAH",
+  "postalCode": "26257"
  }
 ]

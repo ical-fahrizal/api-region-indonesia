@@ -2,71 +2,99 @@
  {
   "id": 6402041001,
   "districtId": 6402041,
-  "name": "LENDIAN LIANG NAYUK"
+  "districtName": "SILUQ NGURAI",
+  "name": "LENDIAN LIANG NAYUK",
+  "postalCode": ""
  },
  {
   "id": 6402041002,
   "districtId": 6402041,
-  "name": "KENDISIQ"
+  "districtName": "SILUQ NGURAI",
+  "name": "KENDISIQ",
+  "postalCode": "75774"
  },
  {
   "id": 6402041003,
   "districtId": 6402041,
-  "name": "PENAWANG"
+  "districtName": "SILUQ NGURAI",
+  "name": "PENAWANG",
+  "postalCode": "75774"
  },
  {
   "id": 6402041004,
   "districtId": 6402041,
-  "name": "RIKONG"
+  "districtName": "SILUQ NGURAI",
+  "name": "RIKONG",
+  "postalCode": "75774"
  },
  {
   "id": 6402041005,
   "districtId": 6402041,
-  "name": "KIAQ"
+  "districtName": "SILUQ NGURAI",
+  "name": "KIAQ",
+  "postalCode": "75774"
  },
  {
   "id": 6402041006,
   "districtId": 6402041,
-  "name": "TENDIQ"
+  "districtName": "SILUQ NGURAI",
+  "name": "TENDIQ",
+  "postalCode": "75774"
  },
  {
   "id": 6402041007,
   "districtId": 6402041,
-  "name": "KENYANYAN"
+  "districtName": "SILUQ NGURAI",
+  "name": "KENYANYAN",
+  "postalCode": "75774"
  },
  {
   "id": 6402041009,
   "districtId": 6402041,
-  "name": "BENTAS"
+  "districtName": "SILUQ NGURAI",
+  "name": "BENTAS",
+  "postalCode": "75774"
  },
  {
   "id": 6402041010,
   "districtId": 6402041,
-  "name": "MUARA KELAWIT"
+  "districtName": "SILUQ NGURAI",
+  "name": "MUARA KELAWIT",
+  "postalCode": "75774"
  },
  {
   "id": 6402041012,
   "districtId": 6402041,
-  "name": "SANSANG"
+  "districtName": "SILUQ NGURAI",
+  "name": "SANSANG",
+  "postalCode": ""
  },
  {
   "id": 6402041013,
   "districtId": 6402041,
-  "name": "KALIQ"
+  "districtName": "SILUQ NGURAI",
+  "name": "KALIQ",
+  "postalCode": "75774"
  },
  {
   "id": 6402041014,
   "districtId": 6402041,
-  "name": "TANA MEA"
+  "districtName": "SILUQ NGURAI",
+  "name": "TANA MEA",
+  "postalCode": ""
  },
  {
   "id": 6402041015,
   "districtId": 6402041,
-  "name": "TEBISAQ"
+  "districtName": "SILUQ NGURAI",
+  "name": "TEBISAQ",
+  "postalCode": "75774"
  },
  {
   "id": 6402041016,
   "districtId": 6402041,
-  "name": "MUARA PONAQ"
+  "districtName": "SILUQ NGURAI",
+  "name": "MUARA PONAQ",
+  "postalCode": "75774"
  }
 ]

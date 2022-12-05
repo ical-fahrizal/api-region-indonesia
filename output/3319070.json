@@ -2,51 +2,71 @@
  {
   "id": 3319070001,
   "districtId": 3319070,
-  "name": "PEGANJARAN"
+  "districtName": "BAE",
+  "name": "PEGANJARAN",
+  "postalCode": "59327"
  },
  {
   "id": 3319070002,
   "districtId": 3319070,
-  "name": "PANJANG"
+  "districtName": "BAE",
+  "name": "PANJANG",
+  "postalCode": "21254"
  },
  {
   "id": 3319070003,
   "districtId": 3319070,
-  "name": "PURWOREJO"
+  "districtName": "BAE",
+  "name": "PURWOREJO",
+  "postalCode": "23661"
  },
  {
   "id": 3319070004,
   "districtId": 3319070,
-  "name": "BACIN"
+  "districtName": "BAE",
+  "name": "BACIN",
+  "postalCode": "59325"
  },
  {
   "id": 3319070005,
   "districtId": 3319070,
-  "name": "PEDAWANG"
+  "districtName": "BAE",
+  "name": "PEDAWANG",
+  "postalCode": "59324"
  },
  {
   "id": 3319070006,
   "districtId": 3319070,
-  "name": "DERSALAM"
+  "districtName": "BAE",
+  "name": "DERSALAM",
+  "postalCode": "59321"
  },
  {
   "id": 3319070007,
   "districtId": 3319070,
-  "name": "NGEMBAL REJO"
+  "districtName": "BAE",
+  "name": "NGEMBAL REJO",
+  "postalCode": ""
  },
  {
   "id": 3319070008,
   "districtId": 3319070,
-  "name": "KARANG BENER"
+  "districtName": "BAE",
+  "name": "KARANG BENER",
+  "postalCode": ""
  },
  {
   "id": 3319070009,
   "districtId": 3319070,
-  "name": "GONDANG MANIS"
+  "districtName": "BAE",
+  "name": "GONDANG MANIS",
+  "postalCode": "61462"
  },
  {
   "id": 3319070010,
   "districtId": 3319070,
-  "name": "BAE"
+  "districtName": "BAE",
+  "name": "BAE",
+  "postalCode": "59327"
  }
 ]

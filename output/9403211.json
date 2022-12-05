@@ -2,21 +2,29 @@
  {
   "id": 9403211001,
   "districtId": 9403211,
-  "name": "YONGSU SAPARI"
+  "districtName": "RAVENIRARA",
+  "name": "YONGSU SAPARI",
+  "postalCode": "99353"
  },
  {
   "id": 9403211002,
   "districtId": 9403211,
-  "name": "YONGSU DOSOYO"
+  "districtName": "RAVENIRARA",
+  "name": "YONGSU DOSOYO",
+  "postalCode": ""
  },
  {
   "id": 9403211003,
   "districtId": 9403211,
-  "name": "ORMUWARI"
+  "districtName": "RAVENIRARA",
+  "name": "ORMUWARI",
+  "postalCode": ""
  },
  {
   "id": 9403211004,
   "districtId": 9403211,
-  "name": "NECHEIBE (NEHIBA / NACHA TAWA)"
+  "districtName": "RAVENIRARA",
+  "name": "NECHEIBE (NEHIBA / NACHA TAWA)",
+  "postalCode": ""
  }
 ]

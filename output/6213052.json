@@ -2,26 +2,36 @@
  {
   "id": 6213052001,
   "districtId": 6213052,
-  "name": "TUMBANG OLONG"
+  "districtName": "UUT MURUNG",
+  "name": "TUMBANG OLONG",
+  "postalCode": "73981"
  },
  {
   "id": 6213052002,
   "districtId": 6213052,
-  "name": "TUMBANG OLONG II"
+  "districtName": "UUT MURUNG",
+  "name": "TUMBANG OLONG II",
+  "postalCode": "73981"
  },
  {
   "id": 6213052003,
   "districtId": 6213052,
-  "name": "KALASIN"
+  "districtName": "UUT MURUNG",
+  "name": "KALASIN",
+  "postalCode": "73981"
  },
  {
   "id": 6213052004,
   "districtId": 6213052,
-  "name": "TUMBANG TUJANG"
+  "districtName": "UUT MURUNG",
+  "name": "TUMBANG TUJANG",
+  "postalCode": "73981"
  },
  {
   "id": 6213052005,
   "districtId": 6213052,
-  "name": "TUMBANG TUPUS"
+  "districtName": "UUT MURUNG",
+  "name": "TUMBANG TUPUS",
+  "postalCode": ""
  }
 ]

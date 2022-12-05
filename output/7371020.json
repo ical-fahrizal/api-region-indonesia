@@ -2,66 +2,92 @@
  {
   "id": 7371020001,
   "districtId": 7371020,
-  "name": "TAMPARANG KEKE"
+  "districtName": "MAMAJANG",
+  "name": "TAMPARANG KEKE",
+  "postalCode": "90134"
  },
  {
   "id": 7371020002,
   "districtId": 7371020,
-  "name": "SAMBUNG JAWA"
+  "districtName": "MAMAJANG",
+  "name": "SAMBUNG JAWA",
+  "postalCode": "90134"
  },
  {
   "id": 7371020003,
   "districtId": 7371020,
-  "name": "KARANG ANYAR"
+  "districtName": "MAMAJANG",
+  "name": "KARANG ANYAR",
+  "postalCode": "24415"
  },
  {
   "id": 7371020004,
   "districtId": 7371020,
-  "name": "BAJI MAPPAKASUNGGU"
+  "districtName": "MAMAJANG",
+  "name": "BAJI MAPPAKASUNGGU",
+  "postalCode": "90131"
  },
  {
   "id": 7371020005,
   "districtId": 7371020,
-  "name": "PA'BATANG"
+  "districtName": "MAMAJANG",
+  "name": "PA'BATANG",
+  "postalCode": ""
  },
  {
   "id": 7371020006,
   "districtId": 7371020,
-  "name": "PARANG"
+  "districtName": "MAMAJANG",
+  "name": "PARANG",
+  "postalCode": "59455"
  },
  {
   "id": 7371020007,
   "districtId": 7371020,
-  "name": "BONTO LEBANG"
+  "districtName": "MAMAJANG",
+  "name": "BONTO LEBANG",
+  "postalCode": "92451"
  },
  {
   "id": 7371020008,
   "districtId": 7371020,
-  "name": "MAMAJANG DALAM"
+  "districtName": "MAMAJANG",
+  "name": "MAMAJANG DALAM",
+  "postalCode": "90135"
  },
  {
   "id": 7371020009,
   "districtId": 7371020,
-  "name": "LABUANG BAJI"
+  "districtName": "MAMAJANG",
+  "name": "LABUANG BAJI",
+  "postalCode": "90132"
  },
  {
   "id": 7371020010,
   "districtId": 7371020,
-  "name": "BONTO BIRAENG"
+  "districtName": "MAMAJANG",
+  "name": "BONTO BIRAENG",
+  "postalCode": "92574"
  },
  {
   "id": 7371020011,
   "districtId": 7371020,
-  "name": "MANDALA"
+  "districtName": "MAMAJANG",
+  "name": "MANDALA",
+  "postalCode": "45652"
  },
  {
   "id": 7371020012,
   "districtId": 7371020,
-  "name": "MARICAYA SELATAN"
+  "districtName": "MAMAJANG",
+  "name": "MARICAYA SELATAN",
+  "postalCode": "90131"
  },
  {
   "id": 7371020013,
   "districtId": 7371020,
-  "name": "MAMAJANG LUAR"
+  "districtName": "MAMAJANG",
+  "name": "MAMAJANG LUAR",
+  "postalCode": "90132"
  }
 ]

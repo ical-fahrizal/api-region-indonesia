@@ -2,81 +2,113 @@
  {
   "id": 6308010006,
   "districtId": 6308010,
-  "name": "SUNGAI NAMANG"
+  "districtName": "DANAU PANGGANG",
+  "name": "SUNGAI NAMANG",
+  "postalCode": ""
  },
  {
   "id": 6308010007,
   "districtId": 6308010,
-  "name": "SUNGAI PANANGAH"
+  "districtName": "DANAU PANGGANG",
+  "name": "SUNGAI PANANGAH",
+  "postalCode": ""
  },
  {
   "id": 6308010008,
   "districtId": 6308010,
-  "name": "SARANG BURUNG"
+  "districtName": "DANAU PANGGANG",
+  "name": "SARANG BURUNG",
+  "postalCode": "36361"
  },
  {
   "id": 6308010009,
   "districtId": 6308010,
-  "name": "TELAGA MAS"
+  "districtName": "DANAU PANGGANG",
+  "name": "TELAGA MAS",
+  "postalCode": "71453"
  },
  {
   "id": 6308010010,
   "districtId": 6308010,
-  "name": "MANARAP HULU"
+  "districtName": "DANAU PANGGANG",
+  "name": "MANARAP HULU",
+  "postalCode": "71453"
  },
  {
   "id": 6308010011,
   "districtId": 6308010,
-  "name": "MANARAP"
+  "districtName": "DANAU PANGGANG",
+  "name": "MANARAP",
+  "postalCode": "71453"
  },
  {
   "id": 6308010012,
   "districtId": 6308010,
-  "name": "LONG KONG"
+  "districtName": "DANAU PANGGANG",
+  "name": "LONG KONG",
+  "postalCode": "71453"
  },
  {
   "id": 6308010013,
   "districtId": 6308010,
-  "name": "BITIN"
+  "districtName": "DANAU PANGGANG",
+  "name": "BITIN",
+  "postalCode": "71453"
  },
  {
   "id": 6308010014,
   "districtId": 6308010,
-  "name": "BARU"
+  "districtName": "DANAU PANGGANG",
+  "name": "BARU",
+  "postalCode": "23764"
  },
  {
   "id": 6308010015,
   "districtId": 6308010,
-  "name": "TELUK MESJID"
+  "districtName": "DANAU PANGGANG",
+  "name": "TELUK MESJID",
+  "postalCode": "28662"
  },
  {
   "id": 6308010016,
   "districtId": 6308010,
-  "name": "DARUSSALAM"
+  "districtName": "DANAU PANGGANG",
+  "name": "DARUSSALAM",
+  "postalCode": "24671"
  },
  {
   "id": 6308010017,
   "districtId": 6308010,
-  "name": "PALUKAHAN"
+  "districtName": "DANAU PANGGANG",
+  "name": "PALUKAHAN",
+  "postalCode": "71453"
  },
  {
   "id": 6308010018,
   "districtId": 6308010,
-  "name": "PANDAMAAN"
+  "districtName": "DANAU PANGGANG",
+  "name": "PANDAMAAN",
+  "postalCode": "71453"
  },
  {
   "id": 6308010019,
   "districtId": 6308010,
-  "name": "DANAU PANGGANG"
+  "districtName": "DANAU PANGGANG",
+  "name": "DANAU PANGGANG",
+  "postalCode": "71453"
  },
  {
   "id": 6308010020,
   "districtId": 6308010,
-  "name": "PARARAIN"
+  "districtName": "DANAU PANGGANG",
+  "name": "PARARAIN",
+  "postalCode": "71453"
  },
  {
   "id": 6308010021,
   "districtId": 6308010,
-  "name": "RINTISAN"
+  "districtName": "DANAU PANGGANG",
+  "name": "RINTISAN",
+  "postalCode": "71453"
  }
 ]

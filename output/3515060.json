@@ -2,91 +2,127 @@
  {
   "id": 3515060001,
   "districtId": 3515060,
-  "name": "RANDEGAN"
+  "districtName": "TANGGULANGIN",
+  "name": "RANDEGAN",
+  "postalCode": "53172"
  },
  {
   "id": 3515060002,
   "districtId": 3515060,
-  "name": "KEDENSARI"
+  "districtName": "TANGGULANGIN",
+  "name": "KEDENSARI",
+  "postalCode": "61272"
  },
  {
   "id": 3515060003,
   "districtId": 3515060,
-  "name": "KALISAMPURNO"
+  "districtName": "TANGGULANGIN",
+  "name": "KALISAMPURNO",
+  "postalCode": "61272"
  },
  {
   "id": 3515060004,
   "districtId": 3515060,
-  "name": "KETAPANG"
+  "districtName": "TANGGULANGIN",
+  "name": "KETAPANG",
+  "postalCode": "35596"
  },
  {
   "id": 3515060005,
   "districtId": 3515060,
-  "name": "KEDUNGBENDO"
+  "districtName": "TANGGULANGIN",
+  "name": "KEDUNGBENDO",
+  "postalCode": "63581"
  },
  {
   "id": 3515060006,
   "districtId": 3515060,
-  "name": "GEMPOLSARI"
+  "districtName": "TANGGULANGIN",
+  "name": "GEMPOLSARI",
+  "postalCode": "40215"
  },
  {
   "id": 3515060008,
   "districtId": 3515060,
-  "name": "PENATARSEWU"
+  "districtName": "TANGGULANGIN",
+  "name": "PENATARSEWU",
+  "postalCode": "61272"
  },
  {
   "id": 3515060009,
   "districtId": 3515060,
-  "name": "BANJARASRI"
+  "districtName": "TANGGULANGIN",
+  "name": "BANJARASRI",
+  "postalCode": "55672"
  },
  {
   "id": 3515060010,
   "districtId": 3515060,
-  "name": "BANJARPANJI"
+  "districtName": "TANGGULANGIN",
+  "name": "BANJARPANJI",
+  "postalCode": ""
  },
  {
   "id": 3515060011,
   "districtId": 3515060,
-  "name": "KEDUNGBANTENG"
+  "districtName": "TANGGULANGIN",
+  "name": "KEDUNGBANTENG",
+  "postalCode": "53152"
  },
  {
   "id": 3515060012,
   "districtId": 3515060,
-  "name": "KALIDAWIR"
+  "districtName": "TANGGULANGIN",
+  "name": "KALIDAWIR",
+  "postalCode": "66281"
  },
  {
   "id": 3515060013,
   "districtId": 3515060,
-  "name": "PUTAT"
+  "districtName": "TANGGULANGIN",
+  "name": "PUTAT",
+  "postalCode": "28983"
  },
  {
   "id": 3515060014,
   "districtId": 3515060,
-  "name": "NGABAN"
+  "districtName": "TANGGULANGIN",
+  "name": "NGABAN",
+  "postalCode": "61272"
  },
  {
   "id": 3515060015,
   "districtId": 3515060,
-  "name": "KALITENGAH"
+  "districtName": "TANGGULANGIN",
+  "name": "KALITENGAH",
+  "postalCode": "45153"
  },
  {
   "id": 3515060016,
   "districtId": 3515060,
-  "name": "KLUDAN"
+  "districtName": "TANGGULANGIN",
+  "name": "KLUDAN",
+  "postalCode": "61272"
  },
  {
   "id": 3515060017,
   "districtId": 3515060,
-  "name": "BORO"
+  "districtName": "TANGGULANGIN",
+  "name": "BORO",
+  "postalCode": "66229"
  },
  {
   "id": 3515060018,
   "districtId": 3515060,
-  "name": "KETEGAN"
+  "districtName": "TANGGULANGIN",
+  "name": "KETEGAN",
+  "postalCode": "67181"
  },
  {
   "id": 3515060019,
   "districtId": 3515060,
-  "name": "GANGGANG PANJANG"
+  "districtName": "TANGGULANGIN",
+  "name": "GANGGANG PANJANG",
+  "postalCode": "61272"
  }
 ]

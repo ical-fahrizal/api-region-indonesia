@@ -2,106 +2,148 @@
  {
   "id": 6402070001,
   "districtId": 6402070,
-  "name": "ENGKUNI PASEK"
+  "districtName": "BARONG TONGKOK",
+  "name": "ENGKUNI PASEK",
+  "postalCode": "75776"
  },
  {
   "id": 6402070002,
   "districtId": 6402070,
-  "name": "MENCIMAI"
+  "districtName": "BARONG TONGKOK",
+  "name": "MENCIMAI",
+  "postalCode": "75776"
  },
  {
   "id": 6402070003,
   "districtId": 6402070,
-  "name": "REJO BASUKI"
+  "districtName": "BARONG TONGKOK",
+  "name": "REJO BASUKI",
+  "postalCode": "34155"
  },
  {
   "id": 6402070004,
   "districtId": 6402070,
-  "name": "SUMBER SARI"
+  "districtName": "BARONG TONGKOK",
+  "name": "SUMBER SARI",
+  "postalCode": "21343"
  },
  {
   "id": 6402070005,
   "districtId": 6402070,
-  "name": "BARONG TONGKOK"
+  "districtName": "BARONG TONGKOK",
+  "name": "BARONG TONGKOK",
+  "postalCode": "75776"
  },
  {
   "id": 6402070006,
   "districtId": 6402070,
-  "name": "PEPAS EHENG"
+  "districtName": "BARONG TONGKOK",
+  "name": "PEPAS EHENG",
+  "postalCode": "75776"
  },
  {
   "id": 6402070008,
   "districtId": 6402070,
-  "name": "JUHAN ASA"
+  "districtName": "BARONG TONGKOK",
+  "name": "JUHAN ASA",
+  "postalCode": "75776"
  },
  {
   "id": 6402070009,
   "districtId": 6402070,
-  "name": "ASA"
+  "districtName": "BARONG TONGKOK",
+  "name": "ASA",
+  "postalCode": "75776"
  },
  {
   "id": 6402070010,
   "districtId": 6402070,
-  "name": "JUAQ ASA"
+  "districtName": "BARONG TONGKOK",
+  "name": "JUAQ ASA",
+  "postalCode": "75776"
  },
  {
   "id": 6402070011,
   "districtId": 6402070,
-  "name": "OMBAU ASA"
+  "districtName": "BARONG TONGKOK",
+  "name": "OMBAU ASA",
+  "postalCode": "75776"
  },
  {
   "id": 6402070012,
   "districtId": 6402070,
-  "name": "NGENYAN ASA"
+  "districtName": "BARONG TONGKOK",
+  "name": "NGENYAN ASA",
+  "postalCode": "75776"
  },
  {
   "id": 6402070013,
   "districtId": 6402070,
-  "name": "GEMUHAN ASA"
+  "districtName": "BARONG TONGKOK",
+  "name": "GEMUHAN ASA",
+  "postalCode": "75776"
  },
  {
   "id": 6402070014,
   "districtId": 6402070,
-  "name": "GELEO BARU"
+  "districtName": "BARONG TONGKOK",
+  "name": "GELEO BARU",
+  "postalCode": "75776"
  },
  {
   "id": 6402070015,
   "districtId": 6402070,
-  "name": "GELEO ASA"
+  "districtName": "BARONG TONGKOK",
+  "name": "GELEO ASA",
+  "postalCode": "75776"
  },
  {
   "id": 6402070016,
   "districtId": 6402070,
-  "name": "ONGKO ASA"
+  "districtName": "BARONG TONGKOK",
+  "name": "ONGKO ASA",
+  "postalCode": "75776"
  },
  {
   "id": 6402070017,
   "districtId": 6402070,
-  "name": "PEPAS ASA"
+  "districtName": "BARONG TONGKOK",
+  "name": "PEPAS ASA",
+  "postalCode": ""
  },
  {
   "id": 6402070024,
   "districtId": 6402070,
-  "name": "MUARA ASA"
+  "districtName": "BARONG TONGKOK",
+  "name": "MUARA ASA",
+  "postalCode": "75776"
  },
  {
   "id": 6402070025,
   "districtId": 6402070,
-  "name": "SENDAWAR"
+  "districtName": "BARONG TONGKOK",
+  "name": "SENDAWAR",
+  "postalCode": "31452"
  },
  {
   "id": 6402070026,
   "districtId": 6402070,
-  "name": "BALOK ASA"
+  "districtName": "BARONG TONGKOK",
+  "name": "BALOK ASA",
+  "postalCode": "75776"
  },
  {
   "id": 6402070027,
   "districtId": 6402070,
-  "name": "SIMPANG RAYA"
+  "districtName": "BARONG TONGKOK",
+  "name": "SIMPANG RAYA",
+  "postalCode": "29563"
  },
  {
   "id": 6402070028,
   "districtId": 6402070,
-  "name": "BELEMPUNG ULAQ"
+  "districtName": "BARONG TONGKOK",
+  "name": "BELEMPUNG ULAQ",
+  "postalCode": "75776"
  }
 ]

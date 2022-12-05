@@ -2,56 +2,78 @@
  {
   "id": 1801053001,
   "districtId": 1801053,
-  "name": "KOTA BESI"
+  "districtName": "BATU BRAK",
+  "name": "KOTA BESI",
+  "postalCode": "34881"
  },
  {
   "id": 1801053002,
   "districtId": 1801053,
-  "name": "CANGGU"
+  "districtName": "BATU BRAK",
+  "name": "CANGGU",
+  "postalCode": "31596"
  },
  {
   "id": 1801053003,
   "districtId": 1801053,
-  "name": "GUNUNG SUGIH"
+  "districtName": "BATU BRAK",
+  "name": "GUNUNG SUGIH",
+  "postalCode": "32386"
  },
  {
   "id": 1801053004,
   "districtId": 1801053,
-  "name": "PEKON BALAK"
+  "districtName": "BATU BRAK",
+  "name": "PEKON BALAK",
+  "postalCode": "34881"
  },
  {
   "id": 1801053005,
   "districtId": 1801053,
-  "name": "SUKABUMI"
+  "districtName": "BATU BRAK",
+  "name": "SUKABUMI",
+  "postalCode": "32274"
  },
  {
   "id": 1801053006,
   "districtId": 1801053,
-  "name": "KEGERINGAN"
+  "districtName": "BATU BRAK",
+  "name": "KEGERINGAN",
+  "postalCode": "34881"
  },
  {
   "id": 1801053007,
   "districtId": 1801053,
-  "name": "NEGERI RATU"
+  "districtName": "BATU BRAK",
+  "name": "NEGERI RATU",
+  "postalCode": "32387"
  },
  {
   "id": 1801053008,
   "districtId": 1801053,
-  "name": "KEMBAHANG"
+  "districtName": "BATU BRAK",
+  "name": "KEMBAHANG",
+  "postalCode": "34881"
  },
  {
   "id": 1801053009,
   "districtId": 1801053,
-  "name": "SUKARAJA"
+  "districtName": "BATU BRAK",
+  "name": "SUKARAJA",
+  "postalCode": "21256"
  },
  {
   "id": 1801053010,
   "districtId": 1801053,
-  "name": "KERANG"
+  "districtName": "BATU BRAK",
+  "name": "KERANG",
+  "postalCode": "34881"
  },
  {
   "id": 1801053011,
   "districtId": 1801053,
-  "name": "TEBA LIYOKH"
+  "districtName": "BATU BRAK",
+  "name": "TEBA LIYOKH",
+  "postalCode": "34881"
  }
 ]

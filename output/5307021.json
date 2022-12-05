@@ -2,36 +2,50 @@
  {
   "id": 5307021001,
   "districtId": 5307021,
-  "name": "LAKATULI"
+  "districtName": "MATARU",
+  "name": "LAKATULI",
+  "postalCode": "85861"
  },
  {
   "id": 5307021002,
   "districtId": 5307021,
-  "name": "MATARU SELATAN"
+  "districtName": "MATARU",
+  "name": "MATARU SELATAN",
+  "postalCode": "85861"
  },
  {
   "id": 5307021003,
   "districtId": 5307021,
-  "name": "KAMAIFUI"
+  "districtName": "MATARU",
+  "name": "KAMAIFUI",
+  "postalCode": "85861"
  },
  {
   "id": 5307021004,
   "districtId": 5307021,
-  "name": "TAMAN MATARU"
+  "districtName": "MATARU",
+  "name": "TAMAN MATARU",
+  "postalCode": "85861"
  },
  {
   "id": 5307021005,
   "districtId": 5307021,
-  "name": "MATARU TIMUR"
+  "districtName": "MATARU",
+  "name": "MATARU TIMUR",
+  "postalCode": "85861"
  },
  {
   "id": 5307021006,
   "districtId": 5307021,
-  "name": "MATARU UTARA"
+  "districtName": "MATARU",
+  "name": "MATARU UTARA",
+  "postalCode": "85861"
  },
  {
   "id": 5307021007,
   "districtId": 5307021,
-  "name": "MATARU BARAT"
+  "districtName": "MATARU",
+  "name": "MATARU BARAT",
+  "postalCode": "85861"
  }
 ]

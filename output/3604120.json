@@ -2,66 +2,92 @@
  {
   "id": 3604120001,
   "districtId": 3604120,
-  "name": "NAMBO UDIK"
+  "districtName": "CIKANDE",
+  "name": "NAMBO UDIK",
+  "postalCode": "42186"
  },
  {
   "id": 3604120002,
   "districtId": 3604120,
-  "name": "SITUTERATE"
+  "districtName": "CIKANDE",
+  "name": "SITUTERATE",
+  "postalCode": "42186"
  },
  {
   "id": 3604120003,
   "districtId": 3604120,
-  "name": "CIKANDE"
+  "districtName": "CIKANDE",
+  "name": "CIKANDE",
+  "postalCode": "41353"
  },
  {
   "id": 3604120004,
   "districtId": 3604120,
-  "name": "LEUWILIMUS"
+  "districtName": "CIKANDE",
+  "name": "LEUWILIMUS",
+  "postalCode": "42186"
  },
  {
   "id": 3604120005,
   "districtId": 3604120,
-  "name": "PARIGI"
+  "districtName": "CIKANDE",
+  "name": "PARIGI",
+  "postalCode": "22756"
  },
  {
   "id": 3604120006,
   "districtId": 3604120,
-  "name": "SONGGOM JAYA"
+  "districtName": "CIKANDE",
+  "name": "SONGGOM JAYA",
+  "postalCode": "42186"
  },
  {
   "id": 3604120007,
   "districtId": 3604120,
-  "name": "KOPER"
+  "districtName": "CIKANDE",
+  "name": "KOPER",
+  "postalCode": "42186"
  },
  {
   "id": 3604120008,
   "districtId": 3604120,
-  "name": "KAMURANG"
+  "districtName": "CIKANDE",
+  "name": "KAMURANG",
+  "postalCode": "43291"
  },
  {
   "id": 3604120009,
   "districtId": 3604120,
-  "name": "BAKUNG"
+  "districtName": "CIKANDE",
+  "name": "BAKUNG",
+  "postalCode": "36382"
  },
  {
   "id": 3604120010,
   "districtId": 3604120,
-  "name": "GEMBOR UDIK"
+  "districtName": "CIKANDE",
+  "name": "GEMBOR UDIK",
+  "postalCode": "42186"
  },
  {
   "id": 3604120011,
   "districtId": 3604120,
-  "name": "JULANG"
+  "districtName": "CIKANDE",
+  "name": "JULANG",
+  "postalCode": "42186"
  },
  {
   "id": 3604120013,
   "districtId": 3604120,
-  "name": "SUKATANI"
+  "districtName": "CIKANDE",
+  "name": "SUKATANI",
+  "postalCode": "41384"
  },
  {
   "id": 3604120014,
   "districtId": 3604120,
-  "name": "CIKANDE PERMAI"
+  "districtName": "CIKANDE",
+  "name": "CIKANDE PERMAI",
+  "postalCode": "42186"
  }
 ]

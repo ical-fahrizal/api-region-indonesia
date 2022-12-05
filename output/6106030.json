@@ -2,51 +2,71 @@
  {
   "id": 6106030009,
   "districtId": 6106030,
-  "name": "KARYA BARU"
+  "districtName": "MARAU",
+  "name": "KARYA BARU",
+  "postalCode": "30151"
  },
  {
   "id": 6106030016,
   "districtId": 6106030,
-  "name": "RUNJAI JAYA"
+  "districtName": "MARAU",
+  "name": "RUNJAI JAYA",
+  "postalCode": "78863"
  },
  {
   "id": 6106030017,
   "districtId": 6106030,
-  "name": "SUKA KARYA"
+  "districtName": "MARAU",
+  "name": "SUKA KARYA",
+  "postalCode": "23891"
  },
  {
   "id": 6106030018,
   "districtId": 6106030,
-  "name": "BELABAN"
+  "districtName": "MARAU",
+  "name": "BELABAN",
+  "postalCode": "78863"
  },
  {
   "id": 6106030019,
   "districtId": 6106030,
-  "name": "RANDAI"
+  "districtName": "MARAU",
+  "name": "RANDAI",
+  "postalCode": "78863"
  },
  {
   "id": 6106030020,
   "districtId": 6106030,
-  "name": "RIAM BATU GADING"
+  "districtName": "MARAU",
+  "name": "RIAM BATU GADING",
+  "postalCode": ""
  },
  {
   "id": 6106030021,
   "districtId": 6106030,
-  "name": "BATU PAYUNG DUA"
+  "districtName": "MARAU",
+  "name": "BATU PAYUNG DUA",
+  "postalCode": ""
  },
  {
   "id": 6106030022,
   "districtId": 6106030,
-  "name": "BANTAN SARI"
+  "districtName": "MARAU",
+  "name": "BANTAN SARI",
+  "postalCode": "28754"
  },
  {
   "id": 6106030023,
   "districtId": 6106030,
-  "name": "PELANJAU JAYA"
+  "districtName": "MARAU",
+  "name": "PELANJAU JAYA",
+  "postalCode": ""
  },
  {
   "id": 6106030024,
   "districtId": 6106030,
-  "name": "RANGKUNG"
+  "districtName": "MARAU",
+  "name": "RANGKUNG",
+  "postalCode": ""
  }
 ]

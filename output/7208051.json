@@ -2,86 +2,120 @@
  {
   "id": 7208051001,
   "districtId": 7208051,
-  "name": "MEPANGA"
+  "districtName": "MEPANGA",
+  "name": "MEPANGA",
+  "postalCode": "94476"
  },
  {
   "id": 7208051003,
   "districtId": 7208051,
-  "name": "KOTARAYA"
+  "districtName": "MEPANGA",
+  "name": "KOTARAYA",
+  "postalCode": "94476"
  },
  {
   "id": 7208051004,
   "districtId": 7208051,
-  "name": "KAYU AGUNG"
+  "districtName": "MEPANGA",
+  "name": "KAYU AGUNG",
+  "postalCode": "30618"
  },
  {
   "id": 7208051005,
   "districtId": 7208051,
-  "name": "BUGIS"
+  "districtName": "MEPANGA",
+  "name": "BUGIS",
+  "postalCode": "45256"
  },
  {
   "id": 7208051006,
   "districtId": 7208051,
-  "name": "OGOTION"
+  "districtName": "MEPANGA",
+  "name": "OGOTION",
+  "postalCode": "94476"
  },
  {
   "id": 7208051007,
   "districtId": 7208051,
-  "name": "SUMBER AGUNG"
+  "districtName": "MEPANGA",
+  "name": "SUMBER AGUNG",
+  "postalCode": "37353"
  },
  {
   "id": 7208051008,
   "districtId": 7208051,
-  "name": "MOUBANG"
+  "districtName": "MEPANGA",
+  "name": "MOUBANG",
+  "postalCode": "94476"
  },
  {
   "id": 7208051009,
   "districtId": 7208051,
-  "name": "OGOBAYAS"
+  "districtName": "MEPANGA",
+  "name": "OGOBAYAS",
+  "postalCode": "94476"
  },
  {
   "id": 7208051010,
   "districtId": 7208051,
-  "name": "KOTARAYA TIMUR"
+  "districtName": "MEPANGA",
+  "name": "KOTARAYA TIMUR",
+  "postalCode": "94476"
  },
  {
   "id": 7208051011,
   "districtId": 7208051,
-  "name": "MALALAN"
+  "districtName": "MEPANGA",
+  "name": "MALALAN",
+  "postalCode": "94479"
  },
  {
   "id": 7208051012,
   "districtId": 7208051,
-  "name": "KOTARAYA SELATAN"
+  "districtName": "MEPANGA",
+  "name": "KOTARAYA SELATAN",
+  "postalCode": ""
  },
  {
   "id": 7208051013,
   "districtId": 7208051,
-  "name": "MARANTI"
+  "districtName": "MEPANGA",
+  "name": "MARANTI",
+  "postalCode": "94479"
  },
  {
   "id": 7208051014,
   "districtId": 7208051,
-  "name": "KOTARAYA BARAT"
+  "districtName": "MEPANGA",
+  "name": "KOTARAYA BARAT",
+  "postalCode": "94479"
  },
  {
   "id": 7208051015,
   "districtId": 7208051,
-  "name": "OGOMOLOS"
+  "districtName": "MEPANGA",
+  "name": "OGOMOLOS",
+  "postalCode": "94479"
  },
  {
   "id": 7208051016,
   "districtId": 7208051,
-  "name": "BUGIS UTARA"
+  "districtName": "MEPANGA",
+  "name": "BUGIS UTARA",
+  "postalCode": ""
  },
  {
   "id": 7208051017,
   "districtId": 7208051,
-  "name": "GURINDA"
+  "districtName": "MEPANGA",
+  "name": "GURINDA",
+  "postalCode": ""
  },
  {
   "id": 7208051018,
   "districtId": 7208051,
-  "name": "KOTARAYA TENGGARA"
+  "districtName": "MEPANGA",
+  "name": "KOTARAYA TENGGARA",
+  "postalCode": ""
  }
 ]

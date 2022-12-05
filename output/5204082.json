@@ -2,36 +2,50 @@
  {
   "id": 5204082001,
   "districtId": 5204082,
-  "name": "PELAT"
+  "districtName": "UNTER IWES",
+  "name": "PELAT",
+  "postalCode": "84316"
  },
  {
   "id": 5204082003,
   "districtId": 5204082,
-  "name": "BOAK"
+  "districtName": "UNTER IWES",
+  "name": "BOAK",
+  "postalCode": "84316"
  },
  {
   "id": 5204082004,
   "districtId": 5204082,
-  "name": "PUNGKA"
+  "districtName": "UNTER IWES",
+  "name": "PUNGKA",
+  "postalCode": "84316"
  },
  {
   "id": 5204082005,
   "districtId": 5204082,
-  "name": "JOROK"
+  "districtName": "UNTER IWES",
+  "name": "JOROK",
+  "postalCode": "84316"
  },
  {
   "id": 5204082006,
   "districtId": 5204082,
-  "name": "KERATO"
+  "districtName": "UNTER IWES",
+  "name": "KERATO",
+  "postalCode": "84316"
  },
  {
   "id": 5204082007,
   "districtId": 5204082,
-  "name": "UMA BERINGIN"
+  "districtName": "UNTER IWES",
+  "name": "UMA BERINGIN",
+  "postalCode": "84316"
  },
  {
   "id": 5204082008,
   "districtId": 5204082,
-  "name": "NIJANG"
+  "districtName": "UNTER IWES",
+  "name": "NIJANG",
+  "postalCode": "84316"
  }
 ]

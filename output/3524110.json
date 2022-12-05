@@ -2,76 +2,106 @@
  {
   "id": 3524110001,
   "districtId": 3524110,
-  "name": "GEMPOLPADING"
+  "districtName": "PUCUK",
+  "name": "GEMPOLPADING",
+  "postalCode": "62257"
  },
  {
   "id": 3524110002,
   "districtId": 3524110,
-  "name": "WANAR"
+  "districtName": "PUCUK",
+  "name": "WANAR",
+  "postalCode": "51272"
  },
  {
   "id": 3524110004,
   "districtId": 3524110,
-  "name": "KESAMBI"
+  "districtName": "PUCUK",
+  "name": "KESAMBI",
+  "postalCode": "45134"
  },
  {
   "id": 3524110005,
   "districtId": 3524110,
-  "name": "WARUKULON"
+  "districtName": "PUCUK",
+  "name": "WARUKULON",
+  "postalCode": "62257"
  },
  {
   "id": 3524110006,
   "districtId": 3524110,
-  "name": "KEDALI"
+  "districtName": "PUCUK",
+  "name": "KEDALI",
+  "postalCode": "62257"
  },
  {
   "id": 3524110007,
   "districtId": 3524110,
-  "name": "SUMBERJO"
+  "districtName": "PUCUK",
+  "name": "SUMBERJO",
+  "postalCode": "34396"
  },
  {
   "id": 3524110008,
   "districtId": 3524110,
-  "name": "TANGGUNGAN"
+  "districtName": "PUCUK",
+  "name": "TANGGUNGAN",
+  "postalCode": "62192"
  },
  {
   "id": 3524110009,
   "districtId": 3524110,
-  "name": "KARANGTINGGIL"
+  "districtName": "PUCUK",
+  "name": "KARANGTINGGIL",
+  "postalCode": "62257"
  },
  {
   "id": 3524110010,
   "districtId": 3524110,
-  "name": "WARUWETAN"
+  "districtName": "PUCUK",
+  "name": "WARUWETAN",
+  "postalCode": "62257"
  },
  {
   "id": 3524110011,
   "districtId": 3524110,
-  "name": "PLOSOSETRO"
+  "districtName": "PUCUK",
+  "name": "PLOSOSETRO",
+  "postalCode": "62257"
  },
  {
   "id": 3524110012,
   "districtId": 3524110,
-  "name": "PAJI"
+  "districtName": "PUCUK",
+  "name": "PAJI",
+  "postalCode": "62257"
  },
  {
   "id": 3524110013,
   "districtId": 3524110,
-  "name": "BABATKUMPUL"
+  "districtName": "PUCUK",
+  "name": "BABATKUMPUL",
+  "postalCode": "62257"
  },
  {
   "id": 3524110015,
   "districtId": 3524110,
-  "name": "NGAMBEG"
+  "districtName": "PUCUK",
+  "name": "NGAMBEG",
+  "postalCode": "62257"
  },
  {
   "id": 3524110016,
   "districtId": 3524110,
-  "name": "PADENGANPLOSO"
+  "districtName": "PUCUK",
+  "name": "PADENGANPLOSO",
+  "postalCode": "62257"
  },
  {
   "id": 3524110017,
   "districtId": 3524110,
-  "name": "BUGOHARJO"
+  "districtName": "PUCUK",
+  "name": "BUGOHARJO",
+  "postalCode": "62257"
  }
 ]

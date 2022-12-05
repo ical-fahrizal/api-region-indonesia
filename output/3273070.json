@@ -2,36 +2,50 @@
  {
   "id": 3273070001,
   "districtId": 3273070,
-  "name": "CIJAGRA"
+  "districtName": "LENGKONG",
+  "name": "CIJAGRA",
+  "postalCode": "40265"
  },
  {
   "id": 3273070002,
   "districtId": 3273070,
-  "name": "TURANGGA"
+  "districtName": "LENGKONG",
+  "name": "TURANGGA",
+  "postalCode": "40264"
  },
  {
   "id": 3273070003,
   "districtId": 3273070,
-  "name": "LINGKAR SELATAN"
+  "districtName": "LENGKONG",
+  "name": "LINGKAR SELATAN",
+  "postalCode": "36139"
  },
  {
   "id": 3273070004,
   "districtId": 3273070,
-  "name": "MALABAR"
+  "districtName": "LENGKONG",
+  "name": "MALABAR",
+  "postalCode": "40262"
  },
  {
   "id": 3273070005,
   "districtId": 3273070,
-  "name": "BURANGRANG"
+  "districtName": "LENGKONG",
+  "name": "BURANGRANG",
+  "postalCode": "40262"
  },
  {
   "id": 3273070006,
   "districtId": 3273070,
-  "name": "CIKAWAO"
+  "districtName": "LENGKONG",
+  "name": "CIKAWAO",
+  "postalCode": "40261"
  },
  {
   "id": 3273070007,
   "districtId": 3273070,
-  "name": "PALEDANG"
+  "districtName": "LENGKONG",
+  "name": "PALEDANG",
+  "postalCode": "16122"
  }
 ]

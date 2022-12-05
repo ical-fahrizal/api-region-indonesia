@@ -2,36 +2,50 @@
  {
   "id": 3218030001,
   "districtId": 3218030,
-  "name": "KERTAJAYA"
+  "districtName": "CIGUGUR",
+  "name": "KERTAJAYA",
+  "postalCode": "45255"
  },
  {
   "id": 3218030002,
   "districtId": 3218030,
-  "name": "BUNISARI"
+  "districtName": "CIGUGUR",
+  "name": "BUNISARI",
+  "postalCode": "43273"
  },
  {
   "id": 3218030003,
   "districtId": 3218030,
-  "name": "CIMINDI"
+  "districtName": "CIGUGUR",
+  "name": "CIMINDI",
+  "postalCode": "46392"
  },
  {
   "id": 3218030004,
   "districtId": 3218030,
-  "name": "CIGUGUR"
+  "districtName": "CIGUGUR",
+  "name": "CIGUGUR",
+  "postalCode": "45552"
  },
  {
   "id": 3218030005,
   "districtId": 3218030,
-  "name": "CAMPAKA"
+  "districtName": "CIGUGUR",
+  "name": "CAMPAKA",
+  "postalCode": "40184"
  },
  {
   "id": 3218030006,
   "districtId": 3218030,
-  "name": "PAGERBUMI"
+  "districtName": "CIGUGUR",
+  "name": "PAGERBUMI",
+  "postalCode": "46392"
  },
  {
   "id": 3218030007,
   "districtId": 3218030,
-  "name": "HARUM MANDALA"
+  "districtName": "CIGUGUR",
+  "name": "HARUM MANDALA",
+  "postalCode": "46392"
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 5208040001,
   "districtId": 5208040,
-  "name": "SANTONG"
+  "districtName": "KAYANGAN",
+  "name": "SANTONG",
+  "postalCode": "83353"
  },
  {
   "id": 5208040002,
   "districtId": 5208040,
-  "name": "PENDUA"
+  "districtName": "KAYANGAN",
+  "name": "PENDUA",
+  "postalCode": "83353"
  },
  {
   "id": 5208040003,
   "districtId": 5208040,
-  "name": "KAYANGAN"
+  "districtName": "KAYANGAN",
+  "name": "KAYANGAN",
+  "postalCode": "61471"
  },
  {
   "id": 5208040004,
   "districtId": 5208040,
-  "name": "DANGIANG"
+  "districtName": "KAYANGAN",
+  "name": "DANGIANG",
+  "postalCode": "44172"
  },
  {
   "id": 5208040005,
   "districtId": 5208040,
-  "name": "SESAIT"
+  "districtName": "KAYANGAN",
+  "name": "SESAIT",
+  "postalCode": "83353"
  },
  {
   "id": 5208040006,
   "districtId": 5208040,
-  "name": "GUMANTAR"
+  "districtName": "KAYANGAN",
+  "name": "GUMANTAR",
+  "postalCode": "83353"
  },
  {
   "id": 5208040008,
   "districtId": 5208040,
-  "name": "SALUT"
+  "districtName": "KAYANGAN",
+  "name": "SALUT",
+  "postalCode": "83353"
  }
 ]

@@ -2,46 +2,64 @@
  {
   "id": 1102043001,
   "districtId": 1102043,
-  "name": "MUARA PEA"
+  "districtName": "KOTA BAHARU",
+  "name": "MUARA PEA",
+  "postalCode": "24784"
  },
  {
   "id": 1102043002,
   "districtId": 1102043,
-  "name": "SUMBER MUKTI"
+  "districtName": "KOTA BAHARU",
+  "name": "SUMBER MUKTI",
+  "postalCode": "24784"
  },
  {
   "id": 1102043003,
   "districtId": 1102043,
-  "name": "LADANG BISIK"
+  "districtName": "KOTA BAHARU",
+  "name": "LADANG BISIK",
+  "postalCode": "24784"
  },
  {
   "id": 1102043004,
   "districtId": 1102043,
-  "name": "SAMAR DUA"
+  "districtName": "KOTA BAHARU",
+  "name": "SAMAR DUA",
+  "postalCode": "24784"
  },
  {
   "id": 1102043005,
   "districtId": 1102043,
-  "name": "BUTAR"
+  "districtName": "KOTA BAHARU",
+  "name": "BUTAR",
+  "postalCode": "24784"
  },
  {
   "id": 1102043006,
   "districtId": 1102043,
-  "name": "MUKTI LINCIR"
+  "districtName": "KOTA BAHARU",
+  "name": "MUKTI LINCIR",
+  "postalCode": "24784"
  },
  {
   "id": 1102043007,
   "districtId": 1102043,
-  "name": "LAPAHAN BUAYA"
+  "districtName": "KOTA BAHARU",
+  "name": "LAPAHAN BUAYA",
+  "postalCode": "24784"
  },
  {
   "id": 1102043008,
   "districtId": 1102043,
-  "name": "LENTONG"
+  "districtName": "KOTA BAHARU",
+  "name": "LENTONG",
+  "postalCode": "24784"
  },
  {
   "id": 1102043009,
   "districtId": 1102043,
-  "name": "DANAU BUNGARA"
+  "districtName": "KOTA BAHARU",
+  "name": "DANAU BUNGARA",
+  "postalCode": "24784"
  }
 ]

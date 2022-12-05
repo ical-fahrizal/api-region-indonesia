@@ -2,36 +2,50 @@
  {
   "id": 7601033002,
   "districtId": 7601033,
-  "name": "ONANG"
+  "districtName": "TUBO SENDANA",
+  "name": "ONANG",
+  "postalCode": ""
  },
  {
   "id": 7601033003,
   "districtId": 7601033,
-  "name": "ONANG UTARA"
+  "districtName": "TUBO SENDANA",
+  "name": "ONANG UTARA",
+  "postalCode": "91452"
  },
  {
   "id": 7601033004,
   "districtId": 7601033,
-  "name": "TUBO SELATAN"
+  "districtName": "TUBO SENDANA",
+  "name": "TUBO SELATAN",
+  "postalCode": "91452"
  },
  {
   "id": 7601033005,
   "districtId": 7601033,
-  "name": "TUBO"
+  "districtName": "TUBO SENDANA",
+  "name": "TUBO",
+  "postalCode": "91452"
  },
  {
   "id": 7601033006,
   "districtId": 7601033,
-  "name": "BONDE-BONDE"
+  "districtName": "TUBO SENDANA",
+  "name": "BONDE-BONDE",
+  "postalCode": ""
  },
  {
   "id": 7601033007,
   "districtId": 7601033,
-  "name": "TUBO TENGAH"
+  "districtName": "TUBO SENDANA",
+  "name": "TUBO TENGAH",
+  "postalCode": "91452"
  },
  {
   "id": 7601033008,
   "districtId": 7601033,
-  "name": "TUBO POANG"
+  "districtName": "TUBO SENDANA",
+  "name": "TUBO POANG",
+  "postalCode": "91452"
  }
 ]

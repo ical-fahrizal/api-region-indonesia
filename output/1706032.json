@@ -2,61 +2,85 @@
  {
   "id": 1706032001,
   "districtId": 1706032,
-  "name": "SUNGAI JERINJING"
+  "districtName": "SELAGAN RAYA",
+  "name": "SUNGAI JERINJING",
+  "postalCode": "38768"
  },
  {
   "id": 1706032002,
   "districtId": 1706032,
-  "name": "PONDOK BARU"
+  "districtName": "SELAGAN RAYA",
+  "name": "PONDOK BARU",
+  "postalCode": "24582"
  },
  {
   "id": 1706032003,
   "districtId": 1706032,
-  "name": "SUNGAI IPUH"
+  "districtName": "SELAGAN RAYA",
+  "name": "SUNGAI IPUH",
+  "postalCode": "38768"
  },
  {
   "id": 1706032004,
   "districtId": 1706032,
-  "name": "SUNGAI GADING"
+  "districtName": "SELAGAN RAYA",
+  "name": "SUNGAI GADING",
+  "postalCode": "38768"
  },
  {
   "id": 1706032005,
   "districtId": 1706032,
-  "name": "SURIAN BUNGKAL"
+  "districtName": "SELAGAN RAYA",
+  "name": "SURIAN BUNGKAL",
+  "postalCode": "38768"
  },
  {
   "id": 1706032006,
   "districtId": 1706032,
-  "name": "LUBUK SAHUNG"
+  "districtName": "SELAGAN RAYA",
+  "name": "LUBUK SAHUNG",
+  "postalCode": "38768"
  },
  {
   "id": 1706032007,
   "districtId": 1706032,
-  "name": "LUBUK BANGKO"
+  "districtName": "SELAGAN RAYA",
+  "name": "LUBUK BANGKO",
+  "postalCode": "38768"
  },
  {
   "id": 1706032008,
   "districtId": 1706032,
-  "name": "TALANG BUAI"
+  "districtName": "SELAGAN RAYA",
+  "name": "TALANG BUAI",
+  "postalCode": "38768"
  },
  {
   "id": 1706032009,
   "districtId": 1706032,
-  "name": "AUR CINA"
+  "districtName": "SELAGAN RAYA",
+  "name": "AUR CINA",
+  "postalCode": "29355"
  },
  {
   "id": 1706032010,
   "districtId": 1706032,
-  "name": "SUNGAI IPUH SATU"
+  "districtName": "SELAGAN RAYA",
+  "name": "SUNGAI IPUH SATU",
+  "postalCode": "38768"
  },
  {
   "id": 1706032011,
   "districtId": 1706032,
-  "name": "SUNGAI IPUH DUA"
+  "districtName": "SELAGAN RAYA",
+  "name": "SUNGAI IPUH DUA",
+  "postalCode": "38768"
  },
  {
   "id": 1706032012,
   "districtId": 1706032,
-  "name": "TALANG MEDAN"
+  "districtName": "SELAGAN RAYA",
+  "name": "TALANG MEDAN",
+  "postalCode": "38768"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 1303110001,
   "districtId": 1303110,
-  "name": "GAUANG"
+  "districtName": "KUBUNG",
+  "name": "GAUANG",
+  "postalCode": "27361"
  },
  {
   "id": 1303110002,
   "districtId": 1303110,
-  "name": "PANYAKALAN"
+  "districtName": "KUBUNG",
+  "name": "PANYAKALAN",
+  "postalCode": "27361"
  },
  {
   "id": 1303110003,
   "districtId": 1303110,
-  "name": "SAOK LAWEH"
+  "districtName": "KUBUNG",
+  "name": "SAOK LAWEH",
+  "postalCode": "27361"
  },
  {
   "id": 1303110004,
   "districtId": 1303110,
-  "name": "TANJUANG BINGKUANG"
+  "districtName": "KUBUNG",
+  "name": "TANJUANG BINGKUANG",
+  "postalCode": ""
  },
  {
   "id": 1303110005,
   "districtId": 1303110,
-  "name": "GANTUANG CIRI"
+  "districtName": "KUBUNG",
+  "name": "GANTUANG CIRI",
+  "postalCode": "27361"
  },
  {
   "id": 1303110006,
   "districtId": 1303110,
-  "name": "KOTO HILALANG"
+  "districtName": "KUBUNG",
+  "name": "KOTO HILALANG",
+  "postalCode": "27361"
  },
  {
   "id": 1303110007,
   "districtId": 1303110,
-  "name": "SELAYO"
+  "districtName": "KUBUNG",
+  "name": "SELAYO",
+  "postalCode": ""
  },
  {
   "id": 1303110008,
   "districtId": 1303110,
-  "name": "KOTO BARU"
+  "districtName": "KUBUNG",
+  "name": "KOTO BARU",
+  "postalCode": "27561"
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 5304042001,
   "districtId": 5304042,
-  "name": "LAKAT"
+  "districtName": "KUATNANA",
+  "name": "LAKAT",
+  "postalCode": "85551"
  },
  {
   "id": 5304042003,
   "districtId": 5304042,
-  "name": "TETAF"
+  "districtName": "KUATNANA",
+  "name": "TETAF",
+  "postalCode": "85551"
  },
  {
   "id": 5304042004,
   "districtId": 5304042,
-  "name": "ENONEONTES"
+  "districtName": "KUATNANA",
+  "name": "ENONEONTES",
+  "postalCode": "85551"
  },
  {
   "id": 5304042005,
   "districtId": 5304042,
-  "name": "NAUKAE"
+  "districtName": "KUATNANA",
+  "name": "NAUKAE",
+  "postalCode": "85551"
  },
  {
   "id": 5304042006,
   "districtId": 5304042,
-  "name": "OOF"
+  "districtName": "KUATNANA",
+  "name": "OOF",
+  "postalCode": "85551"
  },
  {
   "id": 5304042007,
   "districtId": 5304042,
-  "name": "TUBMONAS"
+  "districtName": "KUATNANA",
+  "name": "TUBMONAS",
+  "postalCode": "85551"
  },
  {
   "id": 5304042008,
   "districtId": 5304042,
-  "name": "OE UE"
+  "districtName": "KUATNANA",
+  "name": "OE UE",
+  "postalCode": ""
  }
 ]

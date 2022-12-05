@@ -2,71 +2,99 @@
  {
   "id": 7404070010,
   "districtId": 7404070,
-  "name": "DONGGALA"
+  "districtName": "WOLO",
+  "name": "DONGGALA",
+  "postalCode": "93552"
  },
  {
   "id": 7404070011,
   "districtId": 7404070,
-  "name": "ULU LAPAO-PAO"
+  "districtName": "WOLO",
+  "name": "ULU LAPAO-PAO",
+  "postalCode": "93552"
  },
  {
   "id": 7404070012,
   "districtId": 7404070,
-  "name": "LAPAO-PAO"
+  "districtName": "WOLO",
+  "name": "LAPAO-PAO",
+  "postalCode": "93552"
  },
  {
   "id": 7404070013,
   "districtId": 7404070,
-  "name": "TOLOWE PONRE WARU"
+  "districtName": "WOLO",
+  "name": "TOLOWE PONRE WARU",
+  "postalCode": ""
  },
  {
   "id": 7404070014,
   "districtId": 7404070,
-  "name": "LANGGOMALI"
+  "districtName": "WOLO",
+  "name": "LANGGOMALI",
+  "postalCode": "93552"
  },
  {
   "id": 7404070015,
   "districtId": 7404070,
-  "name": "ULU WOLO"
+  "districtName": "WOLO",
+  "name": "ULU WOLO",
+  "postalCode": "93552"
  },
  {
   "id": 7404070016,
   "districtId": 7404070,
-  "name": "WOLO"
+  "districtName": "WOLO",
+  "name": "WOLO",
+  "postalCode": "58161"
  },
  {
   "id": 7404070017,
   "districtId": 7404070,
-  "name": "LALONAHA"
+  "districtName": "WOLO",
+  "name": "LALONAHA",
+  "postalCode": "93552"
  },
  {
   "id": 7404070018,
   "districtId": 7404070,
-  "name": "L A N A"
+  "districtName": "WOLO",
+  "name": "L A N A",
+  "postalCode": ""
  },
  {
   "id": 7404070024,
   "districtId": 7404070,
-  "name": "MUARA LAPAO PAO"
+  "districtName": "WOLO",
+  "name": "MUARA LAPAO PAO",
+  "postalCode": "93552"
  },
  {
   "id": 7404070025,
   "districtId": 7404070,
-  "name": "LALONGGOPI"
+  "districtName": "WOLO",
+  "name": "LALONGGOPI",
+  "postalCode": "93552"
  },
  {
   "id": 7404070027,
   "districtId": 7404070,
-  "name": "SAMAENRE"
+  "districtName": "WOLO",
+  "name": "SAMAENRE",
+  "postalCode": "92763"
  },
  {
   "id": 7404070028,
   "districtId": 7404070,
-  "name": "IWOIMAPURO"
+  "districtName": "WOLO",
+  "name": "IWOIMAPURO",
+  "postalCode": ""
  },
  {
   "id": 7404070029,
   "districtId": 7404070,
-  "name": "ULU RINA"
+  "districtName": "WOLO",
+  "name": "ULU RINA",
+  "postalCode": ""
  }
 ]

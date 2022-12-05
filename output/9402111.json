@@ -2,46 +2,64 @@
  {
   "id": 9402111004,
   "districtId": 9402111,
-  "name": "ASOLOKOBAL"
+  "districtName": "ASOLOKOBAL",
+  "name": "ASOLOKOBAL",
+  "postalCode": "99511"
  },
  {
   "id": 9402111006,
   "districtId": 9402111,
-  "name": "SINATA"
+  "districtName": "ASOLOKOBAL",
+  "name": "SINATA",
+  "postalCode": "99511"
  },
  {
   "id": 9402111016,
   "districtId": 9402111,
-  "name": "HESATOM"
+  "districtName": "ASOLOKOBAL",
+  "name": "HESATOM",
+  "postalCode": "99511"
  },
  {
   "id": 9402111017,
   "districtId": 9402111,
-  "name": "ASOTAPO"
+  "districtName": "ASOLOKOBAL",
+  "name": "ASOTAPO",
+  "postalCode": "99511"
  },
  {
   "id": 9402111018,
   "districtId": 9402111,
-  "name": "WIAIMA"
+  "districtName": "ASOLOKOBAL",
+  "name": "WIAIMA",
+  "postalCode": "99511"
  },
  {
   "id": 9402111025,
   "districtId": 9402111,
-  "name": "NINABUA"
+  "districtName": "ASOLOKOBAL",
+  "name": "NINABUA",
+  "postalCode": "99511"
  },
  {
   "id": 9402111026,
   "districtId": 9402111,
-  "name": "HELALUWA"
+  "districtName": "ASOLOKOBAL",
+  "name": "HELALUWA",
+  "postalCode": "99511"
  },
  {
   "id": 9402111027,
   "districtId": 9402111,
-  "name": "MULINEKAMA"
+  "districtName": "ASOLOKOBAL",
+  "name": "MULINEKAMA",
+  "postalCode": "99511"
  },
  {
   "id": 9402111028,
   "districtId": 9402111,
-  "name": "YAPEMA"
+  "districtName": "ASOLOKOBAL",
+  "name": "YAPEMA",
+  "postalCode": "99511"
  }
 ]

@@ -2,26 +2,36 @@
  {
   "id": 3509010001,
   "districtId": 3509010,
-  "name": "PASEBAN"
+  "districtName": "KENCONG",
+  "name": "PASEBAN",
+  "postalCode": "37259"
  },
  {
   "id": 3509010002,
   "districtId": 3509010,
-  "name": "CAKRU"
+  "districtName": "KENCONG",
+  "name": "CAKRU",
+  "postalCode": "68167"
  },
  {
   "id": 3509010003,
   "districtId": 3509010,
-  "name": "KRATON"
+  "districtName": "KENCONG",
+  "name": "KRATON",
+  "postalCode": "52112"
  },
  {
   "id": 3509010004,
   "districtId": 3509010,
-  "name": "WONOREJO"
+  "districtName": "KENCONG",
+  "name": "WONOREJO",
+  "postalCode": "21186"
  },
  {
   "id": 3509010005,
   "districtId": 3509010,
-  "name": "KENCONG"
+  "districtName": "KENCONG",
+  "name": "KENCONG",
+  "postalCode": "68167"
  }
 ]

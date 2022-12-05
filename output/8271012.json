@@ -2,31 +2,43 @@
  {
   "id": 8271012001,
   "districtId": 8271012,
-  "name": "PANTAI SAGU"
+  "districtName": "PULAU BATANG DUA",
+  "name": "PANTAI SAGU",
+  "postalCode": "97751"
  },
  {
   "id": 8271012002,
   "districtId": 8271012,
-  "name": "TIFURE"
+  "districtName": "PULAU BATANG DUA",
+  "name": "TIFURE",
+  "postalCode": "97751"
  },
  {
   "id": 8271012003,
   "districtId": 8271012,
-  "name": "LELEWI"
+  "districtName": "PULAU BATANG DUA",
+  "name": "LELEWI",
+  "postalCode": "97783"
  },
  {
   "id": 8271012004,
   "districtId": 8271012,
-  "name": "MAYAU"
+  "districtName": "PULAU BATANG DUA",
+  "name": "MAYAU",
+  "postalCode": "97751"
  },
  {
   "id": 8271012005,
   "districtId": 8271012,
-  "name": "BIDO"
+  "districtName": "PULAU BATANG DUA",
+  "name": "BIDO",
+  "postalCode": "97772"
  },
  {
   "id": 8271012006,
   "districtId": 8271012,
-  "name": "PERUM BERSATU"
+  "districtName": "PULAU BATANG DUA",
+  "name": "PERUM BERSATU",
+  "postalCode": "97751"
  }
 ]

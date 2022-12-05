@@ -2,76 +2,106 @@
  {
   "id": 3502030002,
   "districtId": 3502030,
-  "name": "KORIPAN"
+  "districtName": "BUNGKAL",
+  "name": "KORIPAN",
+  "postalCode": "57781"
  },
  {
   "id": 3502030003,
   "districtId": 3502030,
-  "name": "BEKARE"
+  "districtName": "BUNGKAL",
+  "name": "BEKARE",
+  "postalCode": "63462"
  },
  {
   "id": 3502030004,
   "districtId": 3502030,
-  "name": "NAMBAK"
+  "districtName": "BUNGKAL",
+  "name": "NAMBAK",
+  "postalCode": "63462"
  },
  {
   "id": 3502030005,
   "districtId": 3502030,
-  "name": "KALISAT"
+  "districtName": "BUNGKAL",
+  "name": "KALISAT",
+  "postalCode": "63462"
  },
  {
   "id": 3502030007,
   "districtId": 3502030,
-  "name": "PAGER"
+  "districtName": "BUNGKAL",
+  "name": "PAGER",
+  "postalCode": "50229"
  },
  {
   "id": 3502030008,
   "districtId": 3502030,
-  "name": "BELANG"
+  "districtName": "BUNGKAL",
+  "name": "BELANG",
+  "postalCode": "95997"
  },
  {
   "id": 3502030009,
   "districtId": 3502030,
-  "name": "BUNGKAL"
+  "districtName": "BUNGKAL",
+  "name": "BUNGKAL",
+  "postalCode": "63462"
  },
  {
   "id": 3502030010,
   "districtId": 3502030,
-  "name": "KETONGGO"
+  "districtName": "BUNGKAL",
+  "name": "KETONGGO",
+  "postalCode": "63462"
  },
  {
   "id": 3502030011,
   "districtId": 3502030,
-  "name": "KUNTI"
+  "districtName": "BUNGKAL",
+  "name": "KUNTI",
+  "postalCode": "57384"
  },
  {
   "id": 3502030012,
   "districtId": 3502030,
-  "name": "BANCAR"
+  "districtName": "BUNGKAL",
+  "name": "BANCAR",
+  "postalCode": "53316"
  },
  {
   "id": 3502030013,
   "districtId": 3502030,
-  "name": "PADAS"
+  "districtName": "BUNGKAL",
+  "name": "PADAS",
+  "postalCode": "57475"
  },
  {
   "id": 3502030016,
   "districtId": 3502030,
-  "name": "SAMBILAWANG"
+  "districtName": "BUNGKAL",
+  "name": "SAMBILAWANG",
+  "postalCode": "59153"
  },
  {
   "id": 3502030017,
   "districtId": 3502030,
-  "name": "KWAJON"
+  "districtName": "BUNGKAL",
+  "name": "KWAJON",
+  "postalCode": "63462"
  },
  {
   "id": 3502030018,
   "districtId": 3502030,
-  "name": "BEDIWETAN"
+  "districtName": "BUNGKAL",
+  "name": "BEDIWETAN",
+  "postalCode": ""
  },
  {
   "id": 3502030019,
   "districtId": 3502030,
-  "name": "BEDIKULON"
+  "districtName": "BUNGKAL",
+  "name": "BEDIKULON",
+  "postalCode": ""
  }
 ]

@@ -2,71 +2,99 @@
  {
   "id": 5203040001,
   "districtId": 5203040,
-  "name": "SEMAYA"
+  "districtName": "SIKUR",
+  "name": "SEMAYA",
+  "postalCode": "52353"
  },
  {
   "id": 5203040002,
   "districtId": 5203040,
-  "name": "SIKUR"
+  "districtName": "SIKUR",
+  "name": "SIKUR",
+  "postalCode": "83662"
  },
  {
   "id": 5203040003,
   "districtId": 5203040,
-  "name": "MONTONGBAAN"
+  "districtName": "SIKUR",
+  "name": "MONTONGBAAN",
+  "postalCode": "83662"
  },
  {
   "id": 5203040004,
   "districtId": 5203040,
-  "name": "LOYOK"
+  "districtName": "SIKUR",
+  "name": "LOYOK",
+  "postalCode": "83662"
  },
  {
   "id": 5203040005,
   "districtId": 5203040,
-  "name": "KOTARAJA"
+  "districtName": "SIKUR",
+  "name": "KOTARAJA",
+  "postalCode": "83662"
  },
  {
   "id": 5203040006,
   "districtId": 5203040,
-  "name": "TETEBATU"
+  "districtName": "SIKUR",
+  "name": "TETEBATU",
+  "postalCode": "83662"
  },
  {
   "id": 5203040007,
   "districtId": 5203040,
-  "name": "KEMBANG KUNING"
+  "districtName": "SIKUR",
+  "name": "KEMBANG KUNING",
+  "postalCode": "16710"
  },
  {
   "id": 5203040008,
   "districtId": 5203040,
-  "name": "MONTONGBAAN SELATAN"
+  "districtName": "SIKUR",
+  "name": "MONTONGBAAN SELATAN",
+  "postalCode": ""
  },
  {
   "id": 5203040009,
   "districtId": 5203040,
-  "name": "GELORA"
+  "districtName": "SIKUR",
+  "name": "GELORA",
+  "postalCode": "28992"
  },
  {
   "id": 5203040010,
   "districtId": 5203040,
-  "name": "DARMA SARI"
+  "districtName": "SIKUR",
+  "name": "DARMA SARI",
+  "postalCode": ""
  },
  {
   "id": 5203040011,
   "districtId": 5203040,
-  "name": "TETEBATU SELATAN"
+  "districtName": "SIKUR",
+  "name": "TETEBATU SELATAN",
+  "postalCode": "83662"
  },
  {
   "id": 5203040012,
   "districtId": 5203040,
-  "name": "JERUK MANIS"
+  "districtName": "SIKUR",
+  "name": "JERUK MANIS",
+  "postalCode": "83662"
  },
  {
   "id": 5203040013,
   "districtId": 5203040,
-  "name": "SIKUR SELATAN"
+  "districtName": "SIKUR",
+  "name": "SIKUR SELATAN",
+  "postalCode": "83662"
  },
  {
   "id": 5203040014,
   "districtId": 5203040,
-  "name": "SIKUR BARAT"
+  "districtName": "SIKUR",
+  "name": "SIKUR BARAT",
+  "postalCode": "83662"
  }
 ]

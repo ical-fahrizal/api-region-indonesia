@@ -2,51 +2,71 @@
  {
   "id": 9416018001,
   "districtId": 9416018,
-  "name": "SABIN"
+  "districtName": "WUSAMA",
+  "name": "SABIN",
+  "postalCode": "99572"
  },
  {
   "id": 9416018002,
   "districtId": 9416018,
-  "name": "APDAGMA"
+  "districtName": "WUSAMA",
+  "name": "APDAGMA",
+  "postalCode": ""
  },
  {
   "id": 9416018003,
   "districtId": 9416018,
-  "name": "MUGI"
+  "districtName": "WUSAMA",
+  "name": "MUGI",
+  "postalCode": "99564"
  },
  {
   "id": 9416018004,
   "districtId": 9416018,
-  "name": "HARAP"
+  "districtName": "WUSAMA",
+  "name": "HARAP",
+  "postalCode": "99571"
  },
  {
   "id": 9416018005,
   "districtId": 9416018,
-  "name": "SUOK"
+  "districtName": "WUSAMA",
+  "name": "SUOK",
+  "postalCode": "99571"
  },
  {
   "id": 9416018007,
   "districtId": 9416018,
-  "name": "KOLODOMA"
+  "districtName": "WUSAMA",
+  "name": "KOLODOMA",
+  "postalCode": "99571"
  },
  {
   "id": 9416018008,
   "districtId": 9416018,
-  "name": "SANGATUR"
+  "districtName": "WUSAMA",
+  "name": "SANGATUR",
+  "postalCode": "99571"
  },
  {
   "id": 9416018009,
   "districtId": 9416018,
-  "name": "SOWALING"
+  "districtName": "WUSAMA",
+  "name": "SOWALING",
+  "postalCode": "99571"
  },
  {
   "id": 9416018010,
   "districtId": 9416018,
-  "name": "YEREKAMA"
+  "districtName": "WUSAMA",
+  "name": "YEREKAMA",
+  "postalCode": "99571"
  },
  {
   "id": 9416018011,
   "districtId": 9416018,
-  "name": "WALKUNA"
+  "districtName": "WUSAMA",
+  "name": "WALKUNA",
+  "postalCode": ""
  }
 ]

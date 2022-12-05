@@ -2,61 +2,85 @@
  {
   "id": 9416027001,
   "districtId": 9416027,
-  "name": "KORUPUN"
+  "districtName": "KORUPUN",
+  "name": "KORUPUN",
+  "postalCode": ""
  },
  {
   "id": 9416027002,
   "districtId": 9416027,
-  "name": "DAGI"
+  "districtName": "KORUPUN",
+  "name": "DAGI",
+  "postalCode": "99578"
  },
  {
   "id": 9416027004,
   "districtId": 9416027,
-  "name": "WEMIN"
+  "districtName": "KORUPUN",
+  "name": "WEMIN",
+  "postalCode": "99578"
  },
  {
   "id": 9416027005,
   "districtId": 9416027,
-  "name": "MOROME"
+  "districtName": "KORUPUN",
+  "name": "MOROME",
+  "postalCode": "99578"
  },
  {
   "id": 9416027007,
   "districtId": 9416027,
-  "name": "MOO"
+  "districtName": "KORUPUN",
+  "name": "MOO",
+  "postalCode": "99578"
  },
  {
   "id": 9416027008,
   "districtId": 9416027,
-  "name": "BATKUK"
+  "districtName": "KORUPUN",
+  "name": "BATKUK",
+  "postalCode": "99578"
  },
  {
   "id": 9416027009,
   "districtId": 9416027,
-  "name": "MALDUA"
+  "districtName": "KORUPUN",
+  "name": "MALDUA",
+  "postalCode": "99578"
  },
  {
   "id": 9416027010,
   "districtId": 9416027,
-  "name": "AMDUA"
+  "districtName": "KORUPUN",
+  "name": "AMDUA",
+  "postalCode": "99578"
  },
  {
   "id": 9416027011,
   "districtId": 9416027,
-  "name": "SOMSEK"
+  "districtName": "KORUPUN",
+  "name": "SOMSEK",
+  "postalCode": "99578"
  },
  {
   "id": 9416027012,
   "districtId": 9416027,
-  "name": "BASAL"
+  "districtName": "KORUPUN",
+  "name": "BASAL",
+  "postalCode": "99578"
  },
  {
   "id": 9416027013,
   "districtId": 9416027,
-  "name": "YAMDUA"
+  "districtName": "KORUPUN",
+  "name": "YAMDUA",
+  "postalCode": "99578"
  },
  {
   "id": 9416027014,
   "districtId": 9416027,
-  "name": "DILDAU"
+  "districtName": "KORUPUN",
+  "name": "DILDAU",
+  "postalCode": "99578"
  }
 ]

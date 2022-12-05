@@ -2,41 +2,57 @@
  {
   "id": 5305030001,
   "districtId": 5305030,
-  "name": "MAUBELI"
+  "districtName": "KOTA KEFAMENANU",
+  "name": "MAUBELI",
+  "postalCode": "85617"
  },
  {
   "id": 5305030002,
   "districtId": 5305030,
-  "name": "SASI"
+  "districtName": "KOTA KEFAMENANU",
+  "name": "SASI",
+  "postalCode": "85616"
  },
  {
   "id": 5305030005,
   "districtId": 5305030,
-  "name": "KEFAMENANU SELATAN"
+  "districtName": "KOTA KEFAMENANU",
+  "name": "KEFAMENANU SELATAN",
+  "postalCode": "85613"
  },
  {
   "id": 5305030006,
   "districtId": 5305030,
-  "name": "BENPASI"
+  "districtName": "KOTA KEFAMENANU",
+  "name": "BENPASI",
+  "postalCode": "85613"
  },
  {
   "id": 5305030007,
   "districtId": 5305030,
-  "name": "BANSONE"
+  "districtName": "KOTA KEFAMENANU",
+  "name": "BANSONE",
+  "postalCode": "85615"
  },
  {
   "id": 5305030008,
   "districtId": 5305030,
-  "name": "KEFAMENANU TENGAH"
+  "districtName": "KOTA KEFAMENANU",
+  "name": "KEFAMENANU TENGAH",
+  "postalCode": "85612"
  },
  {
   "id": 5305030009,
   "districtId": 5305030,
-  "name": "APLASI"
+  "districtName": "KOTA KEFAMENANU",
+  "name": "APLASI",
+  "postalCode": "85614"
  },
  {
   "id": 5305030010,
   "districtId": 5305030,
-  "name": "KEFAMENANU UTARA"
+  "districtName": "KOTA KEFAMENANU",
+  "name": "KEFAMENANU UTARA",
+  "postalCode": "85611"
  }
 ]

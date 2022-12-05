@@ -2,31 +2,43 @@
  {
   "id": 5272020001,
   "districtId": 5272020,
-  "name": "LAMPE"
+  "districtName": "RASANAE TIMUR",
+  "name": "LAMPE",
+  "postalCode": "84119"
  },
  {
   "id": 5272020002,
   "districtId": 5272020,
-  "name": "DODU"
+  "districtName": "RASANAE TIMUR",
+  "name": "DODU",
+  "postalCode": "84119"
  },
  {
   "id": 5272020003,
   "districtId": 5272020,
-  "name": "NUNGGA"
+  "districtName": "RASANAE TIMUR",
+  "name": "NUNGGA",
+  "postalCode": "84119"
  },
  {
   "id": 5272020014,
   "districtId": 5272020,
-  "name": "OI FO'O"
+  "districtName": "RASANAE TIMUR",
+  "name": "OI FO'O",
+  "postalCode": ""
  },
  {
   "id": 5272020015,
   "districtId": 5272020,
-  "name": "KODO"
+  "districtName": "RASANAE TIMUR",
+  "name": "KODO",
+  "postalCode": "84119"
  },
  {
   "id": 5272020016,
   "districtId": 5272020,
-  "name": "LELAMASE"
+  "districtName": "RASANAE TIMUR",
+  "name": "LELAMASE",
+  "postalCode": "84119"
  }
 ]

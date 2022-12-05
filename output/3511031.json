@@ -2,41 +2,57 @@
  {
   "id": 3511031002,
   "districtId": 3511031,
-  "name": "PUCANG ANOM"
+  "districtName": "JAMBESARI DARUS SHOLAH",
+  "name": "PUCANG ANOM",
+  "postalCode": "68263"
  },
  {
   "id": 3511031003,
   "districtId": 3511031,
-  "name": "JAMBEANOM"
+  "districtName": "JAMBESARI DARUS SHOLAH",
+  "name": "JAMBEANOM",
+  "postalCode": ""
  },
  {
   "id": 3511031004,
   "districtId": 3511031,
-  "name": "JAMBESARI"
+  "districtName": "JAMBESARI DARUS SHOLAH",
+  "name": "JAMBESARI",
+  "postalCode": "68425"
  },
  {
   "id": 3511031005,
   "districtId": 3511031,
-  "name": "PEJAGAN"
+  "districtName": "JAMBESARI DARUS SHOLAH",
+  "name": "PEJAGAN",
+  "postalCode": "52254"
  },
  {
   "id": 3511031006,
   "districtId": 3511031,
-  "name": "GRUJUGAN LOR"
+  "districtName": "JAMBESARI DARUS SHOLAH",
+  "name": "GRUJUGAN LOR",
+  "postalCode": "68261"
  },
  {
   "id": 3511031007,
   "districtId": 3511031,
-  "name": "TEGALPASIR"
+  "districtName": "JAMBESARI DARUS SHOLAH",
+  "name": "TEGALPASIR",
+  "postalCode": "68263"
  },
  {
   "id": 3511031008,
   "districtId": 3511031,
-  "name": "PENGARANG"
+  "districtName": "JAMBESARI DARUS SHOLAH",
+  "name": "PENGARANG",
+  "postalCode": "68271"
  },
  {
   "id": 3511031010,
   "districtId": 3511031,
-  "name": "SUMBER ANYAR"
+  "districtName": "JAMBESARI DARUS SHOLAH",
+  "name": "SUMBER ANYAR",
+  "postalCode": "68263"
  }
 ]

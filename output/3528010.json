@@ -2,71 +2,99 @@
  {
   "id": 3528010001,
   "districtId": 3528010,
-  "name": "DABUAN"
+  "districtName": "TLANAKAN",
+  "name": "DABUAN",
+  "postalCode": "69371"
  },
  {
   "id": 3528010002,
   "districtId": 3528010,
-  "name": "TERRAK"
+  "districtName": "TLANAKAN",
+  "name": "TERRAK",
+  "postalCode": "69371"
  },
  {
   "id": 3528010003,
   "districtId": 3528010,
-  "name": "MANGNGAR"
+  "districtName": "TLANAKAN",
+  "name": "MANGNGAR",
+  "postalCode": ""
  },
  {
   "id": 3528010004,
   "districtId": 3528010,
-  "name": "BANDARAN"
+  "districtName": "TLANAKAN",
+  "name": "BANDARAN",
+  "postalCode": "67358"
  },
  {
   "id": 3528010005,
   "districtId": 3528010,
-  "name": "KRAMAT"
+  "districtName": "TLANAKAN",
+  "name": "KRAMAT",
+  "postalCode": "10450"
  },
  {
   "id": 3528010006,
   "districtId": 3528010,
-  "name": "AMBAT"
+  "districtName": "TLANAKAN",
+  "name": "AMBAT",
+  "postalCode": "69371"
  },
  {
   "id": 3528010007,
   "districtId": 3528010,
-  "name": "TLANAKAN"
+  "districtName": "TLANAKAN",
+  "name": "TLANAKAN",
+  "postalCode": "69371"
  },
  {
   "id": 3528010008,
   "districtId": 3528010,
-  "name": "BRANTA PASISIR"
+  "districtName": "TLANAKAN",
+  "name": "BRANTA PASISIR",
+  "postalCode": "69371"
  },
  {
   "id": 3528010009,
   "districtId": 3528010,
-  "name": "BRANTA TINGGI"
+  "districtName": "TLANAKAN",
+  "name": "BRANTA TINGGI",
+  "postalCode": "69371"
  },
  {
   "id": 3528010010,
   "districtId": 3528010,
-  "name": "TLESA"
+  "districtName": "TLANAKAN",
+  "name": "TLESA",
+  "postalCode": "69371"
  },
  {
   "id": 3528010011,
   "districtId": 3528010,
-  "name": "LARANGAN TOKOL"
+  "districtName": "TLANAKAN",
+  "name": "LARANGAN TOKOL",
+  "postalCode": "69371"
  },
  {
   "id": 3528010013,
   "districtId": 3528010,
-  "name": "PANGLEGUR"
+  "districtName": "TLANAKAN",
+  "name": "PANGLEGUR",
+  "postalCode": "69371"
  },
  {
   "id": 3528010016,
   "districtId": 3528010,
-  "name": "LARANGAN SLAMPAR"
+  "districtName": "TLANAKAN",
+  "name": "LARANGAN SLAMPAR",
+  "postalCode": "69371"
  },
  {
   "id": 3528010017,
   "districtId": 3528010,
-  "name": "TARO'AN"
+  "districtName": "TLANAKAN",
+  "name": "TARO'AN",
+  "postalCode": ""
  }
 ]

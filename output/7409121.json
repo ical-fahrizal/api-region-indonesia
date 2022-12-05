@@ -2,71 +2,99 @@
  {
   "id": 7409121001,
   "districtId": 7409121,
-  "name": "RAHMAT BARU"
+  "districtName": "KULISUSU BARAT",
+  "name": "RAHMAT BARU",
+  "postalCode": "93672"
  },
  {
   "id": 7409121002,
   "districtId": 7409121,
-  "name": "SOLOY AGUNG"
+  "districtName": "KULISUSU BARAT",
+  "name": "SOLOY AGUNG",
+  "postalCode": ""
  },
  {
   "id": 7409121003,
   "districtId": 7409121,
-  "name": "KOTAWO"
+  "districtName": "KULISUSU BARAT",
+  "name": "KOTAWO",
+  "postalCode": ""
  },
  {
   "id": 7409121004,
   "districtId": 7409121,
-  "name": "BUMI LAPERO"
+  "districtName": "KULISUSU BARAT",
+  "name": "BUMI LAPERO",
+  "postalCode": ""
  },
  {
   "id": 7409121005,
   "districtId": 7409121,
-  "name": "DAMPALA JAYA"
+  "districtName": "KULISUSU BARAT",
+  "name": "DAMPALA JAYA",
+  "postalCode": ""
  },
  {
   "id": 7409121006,
   "districtId": 7409121,
-  "name": "KASULATOMBI"
+  "districtName": "KULISUSU BARAT",
+  "name": "KASULATOMBI",
+  "postalCode": "93672"
  },
  {
   "id": 7409121007,
   "districtId": 7409121,
-  "name": "KARYA BAKTI"
+  "districtName": "KULISUSU BARAT",
+  "name": "KARYA BAKTI",
+  "postalCode": "23893"
  },
  {
   "id": 7409121008,
   "districtId": 7409121,
-  "name": "MARGA KARYA"
+  "districtName": "KULISUSU BARAT",
+  "name": "MARGA KARYA",
+  "postalCode": "84371"
  },
  {
   "id": 7409121009,
   "districtId": 7409121,
-  "name": "LAUKI"
+  "districtName": "KULISUSU BARAT",
+  "name": "LAUKI",
+  "postalCode": "93672"
  },
  {
   "id": 7409121010,
   "districtId": 7409121,
-  "name": "LAMBALE"
+  "districtName": "KULISUSU BARAT",
+  "name": "LAMBALE",
+  "postalCode": "93783"
  },
  {
   "id": 7409121011,
   "districtId": 7409121,
-  "name": "MEKAR JAYA"
+  "districtName": "KULISUSU BARAT",
+  "name": "MEKAR JAYA",
+  "postalCode": "20771"
  },
  {
   "id": 7409121012,
   "districtId": 7409121,
-  "name": "LABULANDA"
+  "districtName": "KULISUSU BARAT",
+  "name": "LABULANDA",
+  "postalCode": "93672"
  },
  {
   "id": 7409121013,
   "districtId": 7409121,
-  "name": "LAPANDEWA"
+  "districtName": "KULISUSU BARAT",
+  "name": "LAPANDEWA",
+  "postalCode": "93672"
  },
  {
   "id": 7409121015,
   "districtId": 7409121,
-  "name": "KARYA MULIA"
+  "districtName": "KULISUSU BARAT",
+  "name": "KARYA MULIA",
+  "postalCode": ""
  }
 ]

@@ -2,46 +2,64 @@
  {
   "id": 7313101001,
   "districtId": 7313101,
-  "name": "LAMATA"
+  "districtName": "GILIRENG",
+  "name": "LAMATA",
+  "postalCode": "90954"
  },
  {
   "id": 7313101002,
   "districtId": 7313101,
-  "name": "POLEONRO"
+  "districtName": "GILIRENG",
+  "name": "POLEONRO",
+  "postalCode": "90954"
  },
  {
   "id": 7313101003,
   "districtId": 7313101,
-  "name": "MAMINASAE"
+  "districtName": "GILIRENG",
+  "name": "MAMINASAE",
+  "postalCode": ""
  },
  {
   "id": 7313101004,
   "districtId": 7313101,
-  "name": "ABBATIRENG"
+  "districtName": "GILIRENG",
+  "name": "ABBATIRENG",
+  "postalCode": "90954"
  },
  {
   "id": 7313101005,
   "districtId": 7313101,
-  "name": "POLEWALIE"
+  "districtName": "GILIRENG",
+  "name": "POLEWALIE",
+  "postalCode": "90954"
  },
  {
   "id": 7313101006,
   "districtId": 7313101,
-  "name": "GILIRENG"
+  "districtName": "GILIRENG",
+  "name": "GILIRENG",
+  "postalCode": "90954"
  },
  {
   "id": 7313101007,
   "districtId": 7313101,
-  "name": "ALAUSALO"
+  "districtName": "GILIRENG",
+  "name": "ALAUSALO",
+  "postalCode": "90954"
  },
  {
   "id": 7313101008,
   "districtId": 7313101,
-  "name": "ARAJANG"
+  "districtName": "GILIRENG",
+  "name": "ARAJANG",
+  "postalCode": "90954"
  },
  {
   "id": 7313101009,
   "districtId": 7313101,
-  "name": "PASELLORENG"
+  "districtName": "GILIRENG",
+  "name": "PASELLORENG",
+  "postalCode": "90954"
  }
 ]

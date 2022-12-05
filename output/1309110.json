@@ -2,16 +2,22 @@
  {
   "id": 1309110001,
   "districtId": 1309110,
-  "name": "PANTI"
+  "districtName": "PANTI",
+  "name": "PANTI",
+  "postalCode": "26352"
  },
  {
   "id": 1309110002,
   "districtId": 1309110,
-  "name": "PANTI SELATAN"
+  "districtName": "PANTI",
+  "name": "PANTI SELATAN",
+  "postalCode": ""
  },
  {
   "id": 1309110003,
   "districtId": 1309110,
-  "name": "PANTI TIMUR"
+  "districtName": "PANTI",
+  "name": "PANTI TIMUR",
+  "postalCode": ""
  }
 ]

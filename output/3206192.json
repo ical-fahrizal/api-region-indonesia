@@ -2,31 +2,43 @@
  {
   "id": 3206192001,
   "districtId": 3206192,
-  "name": "PASIRSALAM"
+  "districtName": "MANGUNREJA",
+  "name": "PASIRSALAM",
+  "postalCode": "46462"
  },
  {
   "id": 3206192002,
   "districtId": 3206192,
-  "name": "SUKALUYU"
+  "districtName": "MANGUNREJA",
+  "name": "SUKALUYU",
+  "postalCode": "40123"
  },
  {
   "id": 3206192003,
   "districtId": 3206192,
-  "name": "SUKASUKUR"
+  "districtName": "MANGUNREJA",
+  "name": "SUKASUKUR",
+  "postalCode": "46153"
  },
  {
   "id": 3206192004,
   "districtId": 3206192,
-  "name": "SALEBU"
+  "districtName": "MANGUNREJA",
+  "name": "SALEBU",
+  "postalCode": "46462"
  },
  {
   "id": 3206192005,
   "districtId": 3206192,
-  "name": "MANGUNREJA"
+  "districtName": "MANGUNREJA",
+  "name": "MANGUNREJA",
+  "postalCode": "46462"
  },
  {
   "id": 3206192006,
   "districtId": 3206192,
-  "name": "MARGAJAYA"
+  "districtName": "MANGUNREJA",
+  "name": "MARGAJAYA",
+  "postalCode": "17141"
  }
 ]

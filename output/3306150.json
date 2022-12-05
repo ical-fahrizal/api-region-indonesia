@@ -2,106 +2,148 @@
  {
   "id": 3306150001,
   "districtId": 3306150,
-  "name": "KALINONGKO"
+  "districtName": "LOANO",
+  "name": "KALINONGKO",
+  "postalCode": "54181"
  },
  {
   "id": 3306150002,
   "districtId": 3306150,
-  "name": "TRIREJO"
+  "districtName": "LOANO",
+  "name": "TRIREJO",
+  "postalCode": "54181"
  },
  {
   "id": 3306150003,
   "districtId": 3306150,
-  "name": "KARANGREJO"
+  "districtName": "LOANO",
+  "name": "KARANGREJO",
+  "postalCode": "35387"
  },
  {
   "id": 3306150004,
   "districtId": 3306150,
-  "name": "KALIKALONG"
+  "districtName": "LOANO",
+  "name": "KALIKALONG",
+  "postalCode": "54181"
  },
  {
   "id": 3306150005,
   "districtId": 3306150,
-  "name": "RIMUN"
+  "districtName": "LOANO",
+  "name": "RIMUN",
+  "postalCode": "54181"
  },
  {
   "id": 3306150006,
   "districtId": 3306150,
-  "name": "TEPANSARI"
+  "districtName": "LOANO",
+  "name": "TEPANSARI",
+  "postalCode": "54181"
  },
  {
   "id": 3306150007,
   "districtId": 3306150,
-  "name": "KALI GLAGAH"
+  "districtName": "LOANO",
+  "name": "KALI GLAGAH",
+  "postalCode": "54181"
  },
  {
   "id": 3306150008,
   "districtId": 3306150,
-  "name": "TRIDADI"
+  "districtName": "LOANO",
+  "name": "TRIDADI",
+  "postalCode": "32362"
  },
  {
   "id": 3306150009,
   "districtId": 3306150,
-  "name": "BANYUASIN SEPARE"
+  "districtName": "LOANO",
+  "name": "BANYUASIN SEPARE",
+  "postalCode": "54181"
  },
  {
   "id": 3306150010,
   "districtId": 3306150,
-  "name": "GUYANGAN"
+  "districtName": "LOANO",
+  "name": "GUYANGAN",
+  "postalCode": "59453"
  },
  {
   "id": 3306150011,
   "districtId": 3306150,
-  "name": "KALISEMO"
+  "districtName": "LOANO",
+  "name": "KALISEMO",
+  "postalCode": "54181"
  },
  {
   "id": 3306150012,
   "districtId": 3306150,
-  "name": "LOANO"
+  "districtName": "LOANO",
+  "name": "LOANO",
+  "postalCode": "54181"
  },
  {
   "id": 3306150013,
   "districtId": 3306150,
-  "name": "JETIS"
+  "districtName": "LOANO",
+  "name": "JETIS",
+  "postalCode": "57556"
  },
  {
   "id": 3306150014,
   "districtId": 3306150,
-  "name": "MARON"
+  "districtName": "LOANO",
+  "name": "MARON",
+  "postalCode": "56353"
  },
  {
   "id": 3306150015,
   "districtId": 3306150,
-  "name": "KEDUNGPOH"
+  "districtName": "LOANO",
+  "name": "KEDUNGPOH",
+  "postalCode": "54181"
  },
  {
   "id": 3306150016,
   "districtId": 3306150,
-  "name": "KEBONGUNUNG"
+  "districtName": "LOANO",
+  "name": "KEBONGUNUNG",
+  "postalCode": "54181"
  },
  {
   "id": 3306150017,
   "districtId": 3306150,
-  "name": "MUDALREJO"
+  "districtName": "LOANO",
+  "name": "MUDALREJO",
+  "postalCode": "54181"
  },
  {
   "id": 3306150018,
   "districtId": 3306150,
-  "name": "KEMEJING"
+  "districtName": "LOANO",
+  "name": "KEMEJING",
+  "postalCode": "54181"
  },
  {
   "id": 3306150019,
   "districtId": 3306150,
-  "name": "BANYUASIN KEMBARAN"
+  "districtName": "LOANO",
+  "name": "BANYUASIN KEMBARAN",
+  "postalCode": "54181"
  },
  {
   "id": 3306150020,
   "districtId": 3306150,
-  "name": "SEDAYU"
+  "districtName": "LOANO",
+  "name": "SEDAYU",
+  "postalCode": "35386"
  },
  {
   "id": 3306150021,
   "districtId": 3306150,
-  "name": "NGARGOSARI"
+  "districtName": "LOANO",
+  "name": "NGARGOSARI",
+  "postalCode": "57352"
  }
 ]

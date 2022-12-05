@@ -2,41 +2,57 @@
  {
   "id": 6403020001,
   "districtId": 6403020,
-  "name": "TELUK DALAM"
+  "districtName": "MUARA JAWA",
+  "name": "TELUK DALAM",
+  "postalCode": "21271"
  },
  {
   "id": 6403020002,
   "districtId": 6403020,
-  "name": "MUARA JAWA ILIR"
+  "districtName": "MUARA JAWA",
+  "name": "MUARA JAWA ILIR",
+  "postalCode": "75263"
  },
  {
   "id": 6403020003,
   "districtId": 6403020,
-  "name": "MUARA JAWA TENGAH"
+  "districtName": "MUARA JAWA",
+  "name": "MUARA JAWA TENGAH",
+  "postalCode": "75264"
  },
  {
   "id": 6403020004,
   "districtId": 6403020,
-  "name": "MUARA JAWA ULU"
+  "districtName": "MUARA JAWA",
+  "name": "MUARA JAWA ULU",
+  "postalCode": "75261"
  },
  {
   "id": 6403020005,
   "districtId": 6403020,
-  "name": "DONDANG"
+  "districtName": "MUARA JAWA",
+  "name": "DONDANG",
+  "postalCode": "75265"
  },
  {
   "id": 6403020006,
   "districtId": 6403020,
-  "name": "TAMAPOLE"
+  "districtName": "MUARA JAWA",
+  "name": "TAMAPOLE",
+  "postalCode": "75266"
  },
  {
   "id": 6403020007,
   "districtId": 6403020,
-  "name": "MUARA KEMBANG"
+  "districtName": "MUARA JAWA",
+  "name": "MUARA KEMBANG",
+  "postalCode": "75267"
  },
  {
   "id": 6403020008,
   "districtId": 6403020,
-  "name": "MUARA JAWA PESISIR"
+  "districtName": "MUARA JAWA",
+  "name": "MUARA JAWA PESISIR",
+  "postalCode": "75263"
  }
 ]

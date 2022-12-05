@@ -2,91 +2,127 @@
  {
   "id": 7403140003,
   "districtId": 7403140,
-  "name": "BELATU"
+  "districtName": "PONDIDAHA",
+  "name": "BELATU",
+  "postalCode": "93463"
  },
  {
   "id": 7403140004,
   "districtId": 7403140,
-  "name": "AHUAWATU"
+  "districtName": "PONDIDAHA",
+  "name": "AHUAWATU",
+  "postalCode": "93463"
  },
  {
   "id": 7403140005,
   "districtId": 7403140,
-  "name": "AMBU ULANU"
+  "districtName": "PONDIDAHA",
+  "name": "AMBU ULANU",
+  "postalCode": ""
  },
  {
   "id": 7403140022,
   "districtId": 7403140,
-  "name": "PUUMBINISI"
+  "districtName": "PONDIDAHA",
+  "name": "PUUMBINISI",
+  "postalCode": "93463"
  },
  {
   "id": 7403140023,
   "districtId": 7403140,
-  "name": "HONGOA"
+  "districtName": "PONDIDAHA",
+  "name": "HONGOA",
+  "postalCode": "93463"
  },
  {
   "id": 7403140024,
   "districtId": 7403140,
-  "name": "MUMUN DOWU"
+  "districtName": "PONDIDAHA",
+  "name": "MUMUN DOWU",
+  "postalCode": ""
  },
  {
   "id": 7403140025,
   "districtId": 7403140,
-  "name": "PONDIDAHA"
+  "districtName": "PONDIDAHA",
+  "name": "PONDIDAHA",
+  "postalCode": "93463"
  },
  {
   "id": 7403140026,
   "districtId": 7403140,
-  "name": "AMESIU"
+  "districtName": "PONDIDAHA",
+  "name": "AMESIU",
+  "postalCode": "93463"
  },
  {
   "id": 7403140027,
   "districtId": 7403140,
-  "name": "WAWOLEMO"
+  "districtName": "PONDIDAHA",
+  "name": "WAWOLEMO",
+  "postalCode": "93463"
  },
  {
   "id": 7403140028,
   "districtId": 7403140,
-  "name": "TIRAWUTA"
+  "districtName": "PONDIDAHA",
+  "name": "TIRAWUTA",
+  "postalCode": "93463"
  },
  {
   "id": 7403140029,
   "districtId": 7403140,
-  "name": "LALOIKA"
+  "districtName": "PONDIDAHA",
+  "name": "LALOIKA",
+  "postalCode": ""
  },
  {
   "id": 7403140030,
   "districtId": 7403140,
-  "name": "LALONGGOTOMI"
+  "districtName": "PONDIDAHA",
+  "name": "LALONGGOTOMI",
+  "postalCode": ""
  },
  {
   "id": 7403140031,
   "districtId": 7403140,
-  "name": "SULEMANDARA"
+  "districtName": "PONDIDAHA",
+  "name": "SULEMANDARA",
+  "postalCode": ""
  },
  {
   "id": 7403140032,
   "districtId": 7403140,
-  "name": "LALODANGGE"
+  "districtName": "PONDIDAHA",
+  "name": "LALODANGGE",
+  "postalCode": ""
  },
  {
   "id": 7403140033,
   "districtId": 7403140,
-  "name": "WONUA MANDARA"
+  "districtName": "PONDIDAHA",
+  "name": "WONUA MANDARA",
+  "postalCode": ""
  },
  {
   "id": 7403140034,
   "districtId": 7403140,
-  "name": "WAWOLAHAMBUTI"
+  "districtName": "PONDIDAHA",
+  "name": "WAWOLAHAMBUTI",
+  "postalCode": ""
  },
  {
   "id": 7403140035,
   "districtId": 7403140,
-  "name": "LAHUNGGUMBI"
+  "districtName": "PONDIDAHA",
+  "name": "LAHUNGGUMBI",
+  "postalCode": ""
  },
  {
   "id": 7403140036,
   "districtId": 7403140,
-  "name": "WONUA MONAPA"
+  "districtName": "PONDIDAHA",
+  "name": "WONUA MONAPA",
+  "postalCode": "93873"
  }
 ]

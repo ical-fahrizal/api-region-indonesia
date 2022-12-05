@@ -2,16 +2,22 @@
  {
   "id": 3471130001,
   "districtId": 3471130,
-  "name": "BUMIJO"
+  "districtName": "JETIS",
+  "name": "BUMIJO",
+  "postalCode": "55231"
  },
  {
   "id": 3471130002,
   "districtId": 3471130,
-  "name": "GOWONGAN"
+  "districtName": "JETIS",
+  "name": "GOWONGAN",
+  "postalCode": "55232"
  },
  {
   "id": 3471130003,
   "districtId": 3471130,
-  "name": "COKRODININGRATAN"
+  "districtName": "JETIS",
+  "name": "COKRODININGRATAN",
+  "postalCode": "55233"
  }
 ]

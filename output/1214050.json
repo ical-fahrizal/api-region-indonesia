@@ -2,116 +2,162 @@
  {
   "id": 1214050001,
   "districtId": 1214050,
-  "name": "GOLAMBANUA I"
+  "districtName": "LAHUSA",
+  "name": "GOLAMBANUA I",
+  "postalCode": "22874"
  },
  {
   "id": 1214050002,
   "districtId": 1214050,
-  "name": "HILISIMAETANO"
+  "districtName": "LAHUSA",
+  "name": "HILISIMAETANO",
+  "postalCode": "22874"
  },
  {
   "id": 1214050003,
   "districtId": 1214050,
-  "name": "BAWOZIHONO"
+  "districtName": "LAHUSA",
+  "name": "BAWOZIHONO",
+  "postalCode": "22874"
  },
  {
   "id": 1214050004,
   "districtId": 1214050,
-  "name": "BAWOOTALUA"
+  "districtName": "LAHUSA",
+  "name": "BAWOOTALUA",
+  "postalCode": "22874"
  },
  {
   "id": 1214050005,
   "districtId": 1214050,
-  "name": "TETEZOU"
+  "districtName": "LAHUSA",
+  "name": "TETEZOU",
+  "postalCode": ""
  },
  {
   "id": 1214050006,
   "districtId": 1214050,
-  "name": "BAWOLATO"
+  "districtName": "LAHUSA",
+  "name": "BAWOLATO",
+  "postalCode": "22874"
  },
  {
   "id": 1214050009,
   "districtId": 1214050,
-  "name": "LAHUSA"
+  "districtName": "LAHUSA",
+  "name": "LAHUSA",
+  "postalCode": "22874"
  },
  {
   "id": 1214050016,
   "districtId": 1214050,
-  "name": "ORAHILI BALAEKHA"
+  "districtName": "LAHUSA",
+  "name": "ORAHILI BALAEKHA",
+  "postalCode": "22874"
  },
  {
   "id": 1214050017,
   "districtId": 1214050,
-  "name": "HILIORUDUA"
+  "districtName": "LAHUSA",
+  "name": "HILIORUDUA",
+  "postalCode": "22874"
  },
  {
   "id": 1214050018,
   "districtId": 1214050,
-  "name": "SINAR BARU DARO-DARO"
+  "districtName": "LAHUSA",
+  "name": "SINAR BARU DARO-DARO",
+  "postalCode": ""
  },
  {
   "id": 1214050019,
   "districtId": 1214050,
-  "name": "HILIABOLATA"
+  "districtName": "LAHUSA",
+  "name": "HILIABOLATA",
+  "postalCode": "22874"
  },
  {
   "id": 1214050020,
   "districtId": 1214050,
-  "name": "SISARAHILILAZA"
+  "districtName": "LAHUSA",
+  "name": "SISARAHILILAZA",
+  "postalCode": ""
  },
  {
   "id": 1214050021,
   "districtId": 1214050,
-  "name": "HARENORO"
+  "districtName": "LAHUSA",
+  "name": "HARENORO",
+  "postalCode": "22874"
  },
  {
   "id": 1214050022,
   "districtId": 1214050,
-  "name": "HILIZOMBOI"
+  "districtName": "LAHUSA",
+  "name": "HILIZOMBOI",
+  "postalCode": "22874"
  },
  {
   "id": 1214050023,
   "districtId": 1214050,
-  "name": "HILIGAMBUKHA"
+  "districtName": "LAHUSA",
+  "name": "HILIGAMBUKHA",
+  "postalCode": "22874"
  },
  {
   "id": 1214050024,
   "districtId": 1214050,
-  "name": "HILIWATEMA"
+  "districtName": "LAHUSA",
+  "name": "HILIWATEMA",
+  "postalCode": "22874"
  },
  {
   "id": 1214050025,
   "districtId": 1214050,
-  "name": "SOBAWAGOLI"
+  "districtName": "LAHUSA",
+  "name": "SOBAWAGOLI",
+  "postalCode": "22874"
  },
  {
   "id": 1214050026,
   "districtId": 1214050,
-  "name": "SINAR BAHO"
+  "districtName": "LAHUSA",
+  "name": "SINAR BAHO",
+  "postalCode": "22874"
  },
  {
   "id": 1214050027,
   "districtId": 1214050,
-  "name": "LAHUSA 1"
+  "districtName": "LAHUSA",
+  "name": "LAHUSA 1",
+  "postalCode": ""
  },
  {
   "id": 1214050028,
   "districtId": 1214050,
-  "name": "HILINAWALO BALAEKHA"
+  "districtName": "LAHUSA",
+  "name": "HILINAWALO BALAEKHA",
+  "postalCode": "22874"
  },
  {
   "id": 1214050029,
   "districtId": 1214050,
-  "name": "OIKHODABALAEKHA"
+  "districtName": "LAHUSA",
+  "name": "OIKHODABALAEKHA",
+  "postalCode": ""
  },
  {
   "id": 1214050030,
   "districtId": 1214050,
-  "name": "ANGORUDUA BALAEKHA"
+  "districtName": "LAHUSA",
+  "name": "ANGORUDUA BALAEKHA",
+  "postalCode": "22874"
  },
  {
   "id": 1214050031,
   "districtId": 1214050,
-  "name": "MOGAE"
+  "districtName": "LAHUSA",
+  "name": "MOGAE",
+  "postalCode": "22874"
  }
 ]

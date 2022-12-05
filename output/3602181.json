@@ -2,36 +2,50 @@
  {
   "id": 3602181001,
   "districtId": 3602181,
-  "name": "CILANGKAP"
+  "districtName": "KALANGANYAR",
+  "name": "CILANGKAP",
+  "postalCode": "13870"
  },
  {
   "id": 3602181002,
   "districtId": 3602181,
-  "name": "PASIR KUPA"
+  "districtName": "KALANGANYAR",
+  "name": "PASIR KUPA",
+  "postalCode": ""
  },
  {
   "id": 3602181003,
   "districtId": 3602181,
-  "name": "AWEH"
+  "districtName": "KALANGANYAR",
+  "name": "AWEH",
+  "postalCode": "42312"
  },
  {
   "id": 3602181004,
   "districtId": 3602181,
-  "name": "SUKAMEKARSARI"
+  "districtName": "KALANGANYAR",
+  "name": "SUKAMEKARSARI",
+  "postalCode": "42312"
  },
  {
   "id": 3602181005,
   "districtId": 3602181,
-  "name": "KALANGANYAR"
+  "districtName": "KALANGANYAR",
+  "name": "KALANGANYAR",
+  "postalCode": "62254"
  },
  {
   "id": 3602181006,
   "districtId": 3602181,
-  "name": "SANGIANG TANJUNG"
+  "districtName": "KALANGANYAR",
+  "name": "SANGIANG TANJUNG",
+  "postalCode": "42312"
  },
  {
   "id": 3602181007,
   "districtId": 3602181,
-  "name": "CIKATAPIS"
+  "districtName": "KALANGANYAR",
+  "name": "CIKATAPIS",
+  "postalCode": "42311"
  }
 ]

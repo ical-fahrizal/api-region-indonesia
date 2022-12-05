@@ -2,46 +2,64 @@
  {
   "id": 7409101001,
   "districtId": 7409101,
-  "name": "M A T A"
+  "districtName": "KAMBOWA",
+  "name": "M A T A",
+  "postalCode": ""
  },
  {
   "id": 7409101002,
   "districtId": 7409101,
-  "name": "KONDE"
+  "districtName": "KAMBOWA",
+  "name": "KONDE",
+  "postalCode": ""
  },
  {
   "id": 7409101003,
   "districtId": 7409101,
-  "name": "LAGUNDI"
+  "districtName": "KAMBOWA",
+  "name": "LAGUNDI",
+  "postalCode": "93673"
  },
  {
   "id": 7409101004,
   "districtId": 7409101,
-  "name": "PONGKOWULU"
+  "districtName": "KAMBOWA",
+  "name": "PONGKOWULU",
+  "postalCode": ""
  },
  {
   "id": 7409101005,
   "districtId": 7409101,
-  "name": "KAMBOWA"
+  "districtName": "KAMBOWA",
+  "name": "KAMBOWA",
+  "postalCode": "93673"
  },
  {
   "id": 7409101006,
   "districtId": 7409101,
-  "name": "MORINDINO"
+  "districtName": "KAMBOWA",
+  "name": "MORINDINO",
+  "postalCode": "93673"
  },
  {
   "id": 7409101007,
   "districtId": 7409101,
-  "name": "LAHUMOKO(TRI MULYA)"
+  "districtName": "KAMBOWA",
+  "name": "LAHUMOKO(TRI MULYA)",
+  "postalCode": ""
  },
  {
   "id": 7409101010,
   "districtId": 7409101,
-  "name": "BALUARA"
+  "districtName": "KAMBOWA",
+  "name": "BALUARA",
+  "postalCode": "93674"
  },
  {
   "id": 7409101011,
   "districtId": 7409101,
-  "name": "BUBU BARAT"
+  "districtName": "KAMBOWA",
+  "name": "BUBU BARAT",
+  "postalCode": "93673"
  }
 ]

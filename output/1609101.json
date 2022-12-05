@@ -2,66 +2,92 @@
  {
   "id": 1609101001,
   "districtId": 1609101,
-  "name": "TANJUNG KUKUH"
+  "districtName": "SEMENDAWAI BARAT",
+  "name": "TANJUNG KUKUH",
+  "postalCode": "32184"
  },
  {
   "id": 1609101002,
   "districtId": 1609101,
-  "name": "BETUNG"
+  "districtName": "SEMENDAWAI BARAT",
+  "name": "BETUNG",
+  "postalCode": "28382"
  },
  {
   "id": 1609101003,
   "districtId": 1609101,
-  "name": "TANJUNG MAS"
+  "districtName": "SEMENDAWAI BARAT",
+  "name": "TANJUNG MAS",
+  "postalCode": "24783"
  },
  {
   "id": 1609101004,
   "districtId": 1609101,
-  "name": "MENANGA BESAR"
+  "districtName": "SEMENDAWAI BARAT",
+  "name": "MENANGA BESAR",
+  "postalCode": "32184"
  },
  {
   "id": 1609101005,
   "districtId": 1609101,
-  "name": "MENANGA TENGAH"
+  "districtName": "SEMENDAWAI BARAT",
+  "name": "MENANGA TENGAH",
+  "postalCode": "32184"
  },
  {
   "id": 1609101006,
   "districtId": 1609101,
-  "name": "KANGKUNG"
+  "districtName": "SEMENDAWAI BARAT",
+  "name": "KANGKUNG",
+  "postalCode": "32184"
  },
  {
   "id": 1609101007,
   "districtId": 1609101,
-  "name": "ADU MANIS"
+  "districtName": "SEMENDAWAI BARAT",
+  "name": "ADU MANIS",
+  "postalCode": "32184"
  },
  {
   "id": 1609101008,
   "districtId": 1609101,
-  "name": "SUKA NEGERI"
+  "districtName": "SEMENDAWAI BARAT",
+  "name": "SUKA NEGERI",
+  "postalCode": "32274"
  },
  {
   "id": 1609101009,
   "districtId": 1609101,
-  "name": "SRI TANJUNG"
+  "districtName": "SEMENDAWAI BARAT",
+  "name": "SRI TANJUNG",
+  "postalCode": "28781"
  },
  {
   "id": 1609101010,
   "districtId": 1609101,
-  "name": "KANGKUNG ILIR"
+  "districtName": "SEMENDAWAI BARAT",
+  "name": "KANGKUNG ILIR",
+  "postalCode": "32184"
  },
  {
   "id": 1609101011,
   "districtId": 1609101,
-  "name": "BETUNG TIMUR"
+  "districtName": "SEMENDAWAI BARAT",
+  "name": "BETUNG TIMUR",
+  "postalCode": "32184"
  },
  {
   "id": 1609101012,
   "districtId": 1609101,
-  "name": "MENANGA SARI"
+  "districtName": "SEMENDAWAI BARAT",
+  "name": "MENANGA SARI",
+  "postalCode": "32184"
  },
  {
   "id": 1609101013,
   "districtId": 1609101,
-  "name": "TANJUNG JAYA"
+  "districtName": "SEMENDAWAI BARAT",
+  "name": "TANJUNG JAYA",
+  "postalCode": "32265"
  }
 ]

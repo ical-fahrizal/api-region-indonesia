@@ -2,26 +2,36 @@
  {
   "id": 7602052002,
   "districtId": 7602052,
-  "name": "ANREAPI"
+  "districtName": "ANREAPI",
+  "name": "ANREAPI",
+  "postalCode": "91315"
  },
  {
   "id": 7602052003,
   "districtId": 7602052,
-  "name": "KELAPA DUA"
+  "districtName": "ANREAPI",
+  "name": "KELAPA DUA",
+  "postalCode": "30959"
  },
  {
   "id": 7602052004,
   "districtId": 7602052,
-  "name": "PAPPANDANGAN"
+  "districtName": "ANREAPI",
+  "name": "PAPPANDANGAN",
+  "postalCode": "91315"
  },
  {
   "id": 7602052005,
   "districtId": 7602052,
-  "name": "DUAMPANUA"
+  "districtName": "ANREAPI",
+  "name": "DUAMPANUA",
+  "postalCode": "91652"
  },
  {
   "id": 7602052006,
   "districtId": 7602052,
-  "name": "KUNYI"
+  "districtName": "ANREAPI",
+  "name": "KUNYI",
+  "postalCode": "91315"
  }
 ]

@@ -2,26 +2,36 @@
  {
   "id": 1671022001,
   "districtId": 1671022,
-  "name": "15 ULU"
+  "districtName": "JAKABARING",
+  "name": "15 ULU",
+  "postalCode": "30257"
  },
  {
   "id": 1671022002,
   "districtId": 1671022,
-  "name": "TUAN KENTANG"
+  "districtName": "JAKABARING",
+  "name": "TUAN KENTANG",
+  "postalCode": "30251"
  },
  {
   "id": 1671022003,
   "districtId": 1671022,
-  "name": "8 ULU"
+  "districtName": "JAKABARING",
+  "name": "8 ULU",
+  "postalCode": "30252"
  },
  {
   "id": 1671022004,
   "districtId": 1671022,
-  "name": "SILABERANTI"
+  "districtName": "JAKABARING",
+  "name": "SILABERANTI",
+  "postalCode": "30251"
  },
  {
   "id": 1671022005,
   "districtId": 1671022,
-  "name": "9/10 ULU"
+  "districtName": "JAKABARING",
+  "name": "9/10 ULU",
+  "postalCode": ""
  }
 ]

@@ -2,21 +2,29 @@
  {
   "id": 9103061001,
   "districtId": 9103061,
-  "name": "WAPRAK"
+  "districtName": "ROSWAR",
+  "name": "WAPRAK",
+  "postalCode": "98361"
  },
  {
   "id": 9103061002,
   "districtId": 9103061,
-  "name": "YOMBER"
+  "districtName": "ROSWAR",
+  "name": "YOMBER",
+  "postalCode": "98361"
  },
  {
   "id": 9103061003,
   "districtId": 9103061,
-  "name": "SYEIWAR"
+  "districtName": "ROSWAR",
+  "name": "SYEIWAR",
+  "postalCode": "98361"
  },
  {
   "id": 9103061004,
   "districtId": 9103061,
-  "name": "NORDIWAR"
+  "districtName": "ROSWAR",
+  "name": "NORDIWAR",
+  "postalCode": "98361"
  }
 ]

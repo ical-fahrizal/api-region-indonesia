@@ -2,31 +2,43 @@
  {
   "id": 1902061001,
   "districtId": 1902061,
-  "name": "PEGANTUNGAN"
+  "districtName": "BADAU",
+  "name": "PEGANTUNGAN",
+  "postalCode": "33451"
  },
  {
   "id": 1902061002,
   "districtId": 1902061,
-  "name": "SUNGAI SAMAK"
+  "districtName": "BADAU",
+  "name": "SUNGAI SAMAK",
+  "postalCode": "33451"
  },
  {
   "id": 1902061004,
   "districtId": 1902061,
-  "name": "BADAU"
+  "districtName": "BADAU",
+  "name": "BADAU",
+  "postalCode": "33451"
  },
  {
   "id": 1902061005,
   "districtId": 1902061,
-  "name": "KACANG BOTOR"
+  "districtName": "BADAU",
+  "name": "KACANG BOTOR",
+  "postalCode": "33451"
  },
  {
   "id": 1902061006,
   "districtId": 1902061,
-  "name": "AIR BATU BUDING"
+  "districtName": "BADAU",
+  "name": "AIR BATU BUDING",
+  "postalCode": ""
  },
  {
   "id": 1902061007,
   "districtId": 1902061,
-  "name": "IBUL"
+  "districtName": "BADAU",
+  "name": "IBUL",
+  "postalCode": "29564"
  }
 ]

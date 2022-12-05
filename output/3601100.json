@@ -2,71 +2,99 @@
  {
   "id": 3601100005,
   "districtId": 3601100,
-  "name": "SUKALANGU"
+  "districtName": "SAKETI",
+  "name": "SUKALANGU",
+  "postalCode": "42273"
  },
  {
   "id": 3601100006,
   "districtId": 3601100,
-  "name": "LANGENSARI"
+  "districtName": "SAKETI",
+  "name": "LANGENSARI",
+  "postalCode": "41259"
  },
  {
   "id": 3601100008,
   "districtId": 3601100,
-  "name": "MAJAU"
+  "districtName": "SAKETI",
+  "name": "MAJAU",
+  "postalCode": "42273"
  },
  {
   "id": 3601100009,
   "districtId": 3601100,
-  "name": "MEDALSARI"
+  "districtName": "SAKETI",
+  "name": "MEDALSARI",
+  "postalCode": "41362"
  },
  {
   "id": 3601100010,
   "districtId": 3601100,
-  "name": "SODONG"
+  "districtName": "SAKETI",
+  "name": "SODONG",
+  "postalCode": "51253"
  },
  {
   "id": 3601100011,
   "districtId": 3601100,
-  "name": "MEKARWANGI"
+  "districtName": "SAKETI",
+  "name": "MEKARWANGI",
+  "postalCode": "45462"
  },
  {
   "id": 3601100012,
   "districtId": 3601100,
-  "name": "CIANDUR"
+  "districtName": "SAKETI",
+  "name": "CIANDUR",
+  "postalCode": "42273"
  },
  {
   "id": 3601100013,
   "districtId": 3601100,
-  "name": "SAKETI"
+  "districtName": "SAKETI",
+  "name": "SAKETI",
+  "postalCode": "42273"
  },
  {
   "id": 3601100014,
   "districtId": 3601100,
-  "name": "KADUDAMPIT"
+  "districtName": "SAKETI",
+  "name": "KADUDAMPIT",
+  "postalCode": "43153"
  },
  {
   "id": 3601100015,
   "districtId": 3601100,
-  "name": "GIRIJAYA"
+  "districtName": "SAKETI",
+  "name": "GIRIJAYA",
+  "postalCode": "46475"
  },
  {
   "id": 3601100016,
   "districtId": 3601100,
-  "name": "WANAGIRI"
+  "districtName": "SAKETI",
+  "name": "WANAGIRI",
+  "postalCode": "42273"
  },
  {
   "id": 3601100017,
   "districtId": 3601100,
-  "name": "PARIGI"
+  "districtName": "SAKETI",
+  "name": "PARIGI",
+  "postalCode": "22756"
  },
  {
   "id": 3601100018,
   "districtId": 3601100,
-  "name": "TALAGASARI"
+  "districtName": "SAKETI",
+  "name": "TALAGASARI",
+  "postalCode": "44172"
  },
  {
   "id": 3601100019,
   "districtId": 3601100,
-  "name": "SINDANGHAYU"
+  "districtName": "SAKETI",
+  "name": "SINDANGHAYU",
+  "postalCode": "46383"
  }
 ]

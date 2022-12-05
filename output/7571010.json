@@ -2,36 +2,50 @@
  {
   "id": 7571010001,
   "districtId": 7571010,
-  "name": "DEMBE I"
+  "districtName": "KOTA BARAT",
+  "name": "DEMBE I",
+  "postalCode": "96131"
  },
  {
   "id": 7571010002,
   "districtId": 7571010,
-  "name": "LEKOBALO"
+  "districtName": "KOTA BARAT",
+  "name": "LEKOBALO",
+  "postalCode": "96131"
  },
  {
   "id": 7571010003,
   "districtId": 7571010,
-  "name": "PILOLODAA"
+  "districtName": "KOTA BARAT",
+  "name": "PILOLODAA",
+  "postalCode": "96132"
  },
  {
   "id": 7571010004,
   "districtId": 7571010,
-  "name": "BULIIDE"
+  "districtName": "KOTA BARAT",
+  "name": "BULIIDE",
+  "postalCode": "96133"
  },
  {
   "id": 7571010005,
   "districtId": 7571010,
-  "name": "TENILO"
+  "districtName": "KOTA BARAT",
+  "name": "TENILO",
+  "postalCode": "96133"
  },
  {
   "id": 7571010006,
   "districtId": 7571010,
-  "name": "MOLOSIPAT W"
+  "districtName": "KOTA BARAT",
+  "name": "MOLOSIPAT W",
+  "postalCode": ""
  },
  {
   "id": 7571010008,
   "districtId": 7571010,
-  "name": "BULADU"
+  "districtName": "KOTA BARAT",
+  "name": "BULADU",
+  "postalCode": "96136"
  }
 ]

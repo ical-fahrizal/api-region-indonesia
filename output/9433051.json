@@ -2,21 +2,29 @@
  {
   "id": 9433051001,
   "districtId": 9433051,
-  "name": "MOLU"
+  "districtName": "KEMBRU",
+  "name": "MOLU",
+  "postalCode": "98973"
  },
  {
   "id": 9433051002,
   "districtId": 9433051,
-  "name": "AGUIT"
+  "districtName": "KEMBRU",
+  "name": "AGUIT",
+  "postalCode": ""
  },
  {
   "id": 9433051004,
   "districtId": 9433051,
-  "name": "BELABA"
+  "districtName": "KEMBRU",
+  "name": "BELABA",
+  "postalCode": ""
  },
  {
   "id": 9433051005,
   "districtId": 9433051,
-  "name": "MAKUMA"
+  "districtName": "KEMBRU",
+  "name": "MAKUMA",
+  "postalCode": ""
  }
 ]

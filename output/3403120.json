@@ -2,26 +2,36 @@
  {
   "id": 3403120001,
   "districtId": 3403120,
-  "name": "NGALANG"
+  "districtName": "GEDANG SARI",
+  "name": "NGALANG",
+  "postalCode": "55863"
  },
  {
   "id": 3403120002,
   "districtId": 3403120,
-  "name": "HARGO MULYO"
+  "districtName": "GEDANG SARI",
+  "name": "HARGO MULYO",
+  "postalCode": "34596"
  },
  {
   "id": 3403120004,
   "districtId": 3403120,
-  "name": "TEGALREJO"
+  "districtName": "GEDANG SARI",
+  "name": "TEGALREJO",
+  "postalCode": "50733"
  },
  {
   "id": 3403120005,
   "districtId": 3403120,
-  "name": "WATU GAJAH"
+  "districtName": "GEDANG SARI",
+  "name": "WATU GAJAH",
+  "postalCode": "55863"
  },
  {
   "id": 3403120006,
   "districtId": 3403120,
-  "name": "SAMPANG"
+  "districtName": "GEDANG SARI",
+  "name": "SAMPANG",
+  "postalCode": "59561"
  }
 ]

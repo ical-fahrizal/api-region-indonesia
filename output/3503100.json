@@ -2,46 +2,64 @@
  {
   "id": 3503100001,
   "districtId": 3503100,
-  "name": "NGADIREJO"
+  "districtName": "POGALAN",
+  "name": "NGADIREJO",
+  "postalCode": "31662"
  },
  {
   "id": 3503100002,
   "districtId": 3503100,
-  "name": "KEDUNGLURAH"
+  "districtName": "POGALAN",
+  "name": "KEDUNGLURAH",
+  "postalCode": "66371"
  },
  {
   "id": 3503100003,
   "districtId": 3503100,
-  "name": "BENDOREJO"
+  "districtName": "POGALAN",
+  "name": "BENDOREJO",
+  "postalCode": "66371"
  },
  {
   "id": 3503100004,
   "districtId": 3503100,
-  "name": "WONOCOYO"
+  "districtName": "POGALAN",
+  "name": "WONOCOYO",
+  "postalCode": "56266"
  },
  {
   "id": 3503100005,
   "districtId": 3503100,
-  "name": "NGETAL"
+  "districtName": "POGALAN",
+  "name": "NGETAL",
+  "postalCode": "66371"
  },
  {
   "id": 3503100006,
   "districtId": 3503100,
-  "name": "NGADIRENGGO"
+  "districtName": "POGALAN",
+  "name": "NGADIRENGGO",
+  "postalCode": "66371"
  },
  {
   "id": 3503100008,
   "districtId": 3503100,
-  "name": "NGULANWETAN"
+  "districtName": "POGALAN",
+  "name": "NGULANWETAN",
+  "postalCode": "66371"
  },
  {
   "id": 3503100009,
   "districtId": 3503100,
-  "name": "NGULANKULON"
+  "districtName": "POGALAN",
+  "name": "NGULANKULON",
+  "postalCode": "66371"
  },
  {
   "id": 3503100010,
   "districtId": 3503100,
-  "name": "POGALAN"
+  "districtName": "POGALAN",
+  "name": "POGALAN",
+  "postalCode": "56193"
  }
 ]

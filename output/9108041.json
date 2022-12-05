@@ -2,16 +2,22 @@
  {
   "id": 9108041001,
   "districtId": 9108041,
-  "name": "WARSAMDIN"
+  "districtName": "TELUK MAYALIBIT",
+  "name": "WARSAMDIN",
+  "postalCode": "98482"
  },
  {
   "id": 9108041003,
   "districtId": 9108041,
-  "name": "LOPINTOL"
+  "districtName": "TELUK MAYALIBIT",
+  "name": "LOPINTOL",
+  "postalCode": "98482"
  },
  {
   "id": 9108041004,
   "districtId": 9108041,
-  "name": "KALITOKO"
+  "districtName": "TELUK MAYALIBIT",
+  "name": "KALITOKO",
+  "postalCode": "98482"
  }
 ]

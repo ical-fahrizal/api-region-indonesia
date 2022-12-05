@@ -2,51 +2,71 @@
  {
   "id": 9408071002,
   "districtId": 9408071,
-  "name": "WOINAP"
+  "districtName": "WONAWA",
+  "name": "WOINAP",
+  "postalCode": "98253"
  },
  {
   "id": 9408071003,
   "districtId": 9408071,
-  "name": "KANAKI"
+  "districtName": "WONAWA",
+  "name": "KANAKI",
+  "postalCode": "98253"
  },
  {
   "id": 9408071004,
   "districtId": 9408071,
-  "name": "DUMANI"
+  "districtName": "WONAWA",
+  "name": "DUMANI",
+  "postalCode": "98253"
  },
  {
   "id": 9408071005,
   "districtId": 9408071,
-  "name": "WOOI"
+  "districtName": "WONAWA",
+  "name": "WOOI",
+  "postalCode": "97792"
  },
  {
   "id": 9408071006,
   "districtId": 9408071,
-  "name": "AIBONDENI"
+  "districtName": "WONAWA",
+  "name": "AIBONDENI",
+  "postalCode": "98253"
  },
  {
   "id": 9408071007,
   "districtId": 9408071,
-  "name": "KAREMONI"
+  "districtName": "WONAWA",
+  "name": "KAREMONI",
+  "postalCode": "98253"
  },
  {
   "id": 9408071008,
   "districtId": 9408071,
-  "name": "REMBAI"
+  "districtName": "WONAWA",
+  "name": "REMBAI",
+  "postalCode": "98253"
  },
  {
   "id": 9408071009,
   "districtId": 9408071,
-  "name": "HAIHOREI"
+  "districtName": "WONAWA",
+  "name": "HAIHOREI",
+  "postalCode": "98253"
  },
  {
   "id": 9408071010,
   "districtId": 9408071,
-  "name": "JAMARIA"
+  "districtName": "WONAWA",
+  "name": "JAMARIA",
+  "postalCode": ""
  },
  {
   "id": 9408071011,
   "districtId": 9408071,
-  "name": "AWADO"
+  "districtName": "WONAWA",
+  "name": "AWADO",
+  "postalCode": "98253"
  }
 ]

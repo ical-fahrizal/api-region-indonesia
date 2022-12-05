@@ -2,36 +2,50 @@
  {
   "id": 1506011001,
   "districtId": 1506011,
-  "name": "BUKIT TEMPURUNG"
+  "districtName": "MENDAHARA ULU",
+  "name": "BUKIT TEMPURUNG",
+  "postalCode": "24475"
  },
  {
   "id": 1506011002,
   "districtId": 1506011,
-  "name": "SUNGAI TOMAN"
+  "districtName": "MENDAHARA ULU",
+  "name": "SUNGAI TOMAN",
+  "postalCode": "36764"
  },
  {
   "id": 1506011003,
   "districtId": 1506011,
-  "name": "SIMPANG TUAN"
+  "districtName": "MENDAHARA ULU",
+  "name": "SIMPANG TUAN",
+  "postalCode": "36764"
  },
  {
   "id": 1506011004,
   "districtId": 1506011,
-  "name": "PEMATANG RAHIM"
+  "districtName": "MENDAHARA ULU",
+  "name": "PEMATANG RAHIM",
+  "postalCode": "36764"
  },
  {
   "id": 1506011005,
   "districtId": 1506011,
-  "name": "SINAR WAJO"
+  "districtName": "MENDAHARA ULU",
+  "name": "SINAR WAJO",
+  "postalCode": "36764"
  },
  {
   "id": 1506011006,
   "districtId": 1506011,
-  "name": "SUNGAI BERAS"
+  "districtName": "MENDAHARA ULU",
+  "name": "SUNGAI BERAS",
+  "postalCode": "36764"
  },
  {
   "id": 1506011007,
   "districtId": 1506011,
-  "name": "MENCOLOK"
+  "districtName": "MENDAHARA ULU",
+  "name": "MENCOLOK",
+  "postalCode": "36764"
  }
 ]

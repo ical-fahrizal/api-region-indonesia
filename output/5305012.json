@@ -2,31 +2,43 @@
  {
   "id": 5305012001,
   "districtId": 5305012,
-  "name": "OELNEKE"
+  "districtName": "MUSI",
+  "name": "OELNEKE",
+  "postalCode": "85661"
  },
  {
   "id": 5305012002,
   "districtId": 5305012,
-  "name": "OETULU"
+  "districtName": "MUSI",
+  "name": "OETULU",
+  "postalCode": "85661"
  },
  {
   "id": 5305012003,
   "districtId": 5305012,
-  "name": "AINAN"
+  "districtName": "MUSI",
+  "name": "AINAN",
+  "postalCode": "85661"
  },
  {
   "id": 5305012004,
   "districtId": 5305012,
-  "name": "OEOLO"
+  "districtName": "MUSI",
+  "name": "OEOLO",
+  "postalCode": "85661"
  },
  {
   "id": 5305012005,
   "districtId": 5305012,
-  "name": "BISAFE"
+  "districtName": "MUSI",
+  "name": "BISAFE",
+  "postalCode": "85661"
  },
  {
   "id": 5305012006,
   "districtId": 5305012,
-  "name": "BATNES"
+  "districtName": "MUSI",
+  "name": "BATNES",
+  "postalCode": "85661"
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 7104021001,
   "districtId": 7104021,
-  "name": "BITUNURIS"
+  "districtName": "SALIBABU",
+  "name": "BITUNURIS",
+  "postalCode": "95871"
  },
  {
   "id": 7104021002,
   "districtId": 7104021,
-  "name": "SALIBABU"
+  "districtName": "SALIBABU",
+  "name": "SALIBABU",
+  "postalCode": "95871"
  },
  {
   "id": 7104021003,
   "districtId": 7104021,
-  "name": "BALANG"
+  "districtName": "SALIBABU",
+  "name": "BALANG",
+  "postalCode": "71662"
  },
  {
   "id": 7104021004,
   "districtId": 7104021,
-  "name": "SALIBABU UTARA"
+  "districtName": "SALIBABU",
+  "name": "SALIBABU UTARA",
+  "postalCode": "95871"
  },
  {
   "id": 7104021005,
   "districtId": 7104021,
-  "name": "DALUM"
+  "districtName": "SALIBABU",
+  "name": "DALUM",
+  "postalCode": "95871"
  },
  {
   "id": 7104021006,
   "districtId": 7104021,
-  "name": "BITUNURIS SELATAN"
+  "districtName": "SALIBABU",
+  "name": "BITUNURIS SELATAN",
+  "postalCode": "95871"
  }
 ]

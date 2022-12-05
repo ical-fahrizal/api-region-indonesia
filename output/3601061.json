@@ -2,41 +2,57 @@
  {
   "id": 3601061001,
   "districtId": 3601061,
-  "name": "CIMANIS"
+  "districtName": "SOBANG",
+  "name": "CIMANIS",
+  "postalCode": "42281"
  },
  {
   "id": 3601061002,
   "districtId": 3601061,
-  "name": "PANGKALAN"
+  "districtName": "SOBANG",
+  "name": "PANGKALAN",
+  "postalCode": "24477"
  },
  {
   "id": 3601061003,
   "districtId": 3601061,
-  "name": "SOBANG"
+  "districtName": "SOBANG",
+  "name": "SOBANG",
+  "postalCode": "42318"
  },
  {
   "id": 3601061004,
   "districtId": 3601061,
-  "name": "KUTAMEKAR"
+  "districtName": "SOBANG",
+  "name": "KUTAMEKAR",
+  "postalCode": "41363"
  },
  {
   "id": 3601061005,
   "districtId": 3601061,
-  "name": "BOJEN"
+  "districtName": "SOBANG",
+  "name": "BOJEN",
+  "postalCode": "42281"
  },
  {
   "id": 3601061006,
   "districtId": 3601061,
-  "name": "KERTARAHARJA"
+  "districtName": "SOBANG",
+  "name": "KERTARAHARJA",
+  "postalCode": "43157"
  },
  {
   "id": 3601061007,
   "districtId": 3601061,
-  "name": "TELUKLADA"
+  "districtName": "SOBANG",
+  "name": "TELUKLADA",
+  "postalCode": "42281"
  },
  {
   "id": 3601061008,
   "districtId": 3601061,
-  "name": "BOJENWETAN"
+  "districtName": "SOBANG",
+  "name": "BOJENWETAN",
+  "postalCode": ""
  }
 ]

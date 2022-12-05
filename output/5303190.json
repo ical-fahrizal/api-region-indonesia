@@ -2,31 +2,43 @@
  {
   "id": 5303190007,
   "districtId": 5303190,
-  "name": "AFOAN"
+  "districtName": "AMFOANG UTARA",
+  "name": "AFOAN",
+  "postalCode": "85365"
  },
  {
   "id": 5303190008,
   "districtId": 5303190,
-  "name": "NAIKLIU"
+  "districtName": "AMFOANG UTARA",
+  "name": "NAIKLIU",
+  "postalCode": "85365"
  },
  {
   "id": 5303190009,
   "districtId": 5303190,
-  "name": "FATUNAUS"
+  "districtName": "AMFOANG UTARA",
+  "name": "FATUNAUS",
+  "postalCode": "85365"
  },
  {
   "id": 5303190010,
   "districtId": 5303190,
-  "name": "KOLABE"
+  "districtName": "AMFOANG UTARA",
+  "name": "KOLABE",
+  "postalCode": "85365"
  },
  {
   "id": 5303190011,
   "districtId": 5303190,
-  "name": "BAKUIN"
+  "districtName": "AMFOANG UTARA",
+  "name": "BAKUIN",
+  "postalCode": "85365"
  },
  {
   "id": 5303190016,
   "districtId": 5303190,
-  "name": "LILMUS"
+  "districtName": "AMFOANG UTARA",
+  "name": "LILMUS",
+  "postalCode": "85365"
  }
 ]

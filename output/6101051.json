@@ -2,46 +2,64 @@
  {
   "id": 6101051001,
   "districtId": 6101051,
-  "name": "JAWAI LAUT"
+  "districtName": "JAWAI SELATAN",
+  "name": "JAWAI LAUT",
+  "postalCode": "79154"
  },
  {
   "id": 6101051002,
   "districtId": 6101051,
-  "name": "JELU AIR"
+  "districtName": "JAWAI SELATAN",
+  "name": "JELU AIR",
+  "postalCode": "79154"
  },
  {
   "id": 6101051003,
   "districtId": 6101051,
-  "name": "SARILABA B"
+  "districtName": "JAWAI SELATAN",
+  "name": "SARILABA B",
+  "postalCode": "79154"
  },
  {
   "id": 6101051004,
   "districtId": 6101051,
-  "name": "SEMPERIUK B"
+  "districtName": "JAWAI SELATAN",
+  "name": "SEMPERIUK B",
+  "postalCode": "79154"
  },
  {
   "id": 6101051005,
   "districtId": 6101051,
-  "name": "SABARAN"
+  "districtName": "JAWAI SELATAN",
+  "name": "SABARAN",
+  "postalCode": "79154"
  },
  {
   "id": 6101051006,
   "districtId": 6101051,
-  "name": "SEMPERIUK A"
+  "districtName": "JAWAI SELATAN",
+  "name": "SEMPERIUK A",
+  "postalCode": "79154"
  },
  {
   "id": 6101051007,
   "districtId": 6101051,
-  "name": "SARILABA A"
+  "districtName": "JAWAI SELATAN",
+  "name": "SARILABA A",
+  "postalCode": "79154"
  },
  {
   "id": 6101051008,
   "districtId": 6101051,
-  "name": "MATANG TERAP"
+  "districtName": "JAWAI SELATAN",
+  "name": "MATANG TERAP",
+  "postalCode": "79154"
  },
  {
   "id": 6101051009,
   "districtId": 6101051,
-  "name": "SUAH API"
+  "districtName": "JAWAI SELATAN",
+  "name": "SUAH API",
+  "postalCode": "79154"
  }
 ]

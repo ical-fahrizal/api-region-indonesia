@@ -2,31 +2,43 @@
  {
   "id": 3510070004,
   "districtId": 3510070,
-  "name": "PURWODADI"
+  "districtName": "GAMBIRAN",
+  "name": "PURWODADI",
+  "postalCode": "24652"
  },
  {
   "id": 3510070005,
   "districtId": 3510070,
-  "name": "JAJAG"
+  "districtName": "GAMBIRAN",
+  "name": "JAJAG",
+  "postalCode": "68486"
  },
  {
   "id": 3510070006,
   "districtId": 3510070,
-  "name": "WRINGIN AGUNG"
+  "districtName": "GAMBIRAN",
+  "name": "WRINGIN AGUNG",
+  "postalCode": "51191"
  },
  {
   "id": 3510070007,
   "districtId": 3510070,
-  "name": "WRINGINREJO"
+  "districtName": "GAMBIRAN",
+  "name": "WRINGINREJO",
+  "postalCode": "68486"
  },
  {
   "id": 3510070008,
   "districtId": 3510070,
-  "name": "YOSOMULYO"
+  "districtName": "GAMBIRAN",
+  "name": "YOSOMULYO",
+  "postalCode": "34111"
  },
  {
   "id": 3510070009,
   "districtId": 3510070,
-  "name": "GAMBIRAN"
+  "districtName": "GAMBIRAN",
+  "name": "GAMBIRAN",
+  "postalCode": "59261"
  }
 ]

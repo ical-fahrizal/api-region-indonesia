@@ -2,51 +2,71 @@
  {
   "id": 7502043001,
   "districtId": 7502043,
-  "name": "BULULI"
+  "districtName": "ASPARAGA",
+  "name": "BULULI",
+  "postalCode": "96214"
  },
  {
   "id": 7502043002,
   "districtId": 7502043,
-  "name": "MOHIYOLO"
+  "districtName": "ASPARAGA",
+  "name": "MOHIYOLO",
+  "postalCode": "96214"
  },
  {
   "id": 7502043003,
   "districtId": 7502043,
-  "name": "KARYA INDAH"
+  "districtName": "ASPARAGA",
+  "name": "KARYA INDAH",
+  "postalCode": "24673"
  },
  {
   "id": 7502043004,
   "districtId": 7502043,
-  "name": "PANGAHU"
+  "districtName": "ASPARAGA",
+  "name": "PANGAHU",
+  "postalCode": "96214"
  },
  {
   "id": 7502043005,
   "districtId": 7502043,
-  "name": "TIOHU"
+  "districtName": "ASPARAGA",
+  "name": "TIOHU",
+  "postalCode": "96214"
  },
  {
   "id": 7502043006,
   "districtId": 7502043,
-  "name": "PRIMA"
+  "districtName": "ASPARAGA",
+  "name": "PRIMA",
+  "postalCode": "96214"
  },
  {
   "id": 7502043007,
   "districtId": 7502043,
-  "name": "KARYA BARU"
+  "districtName": "ASPARAGA",
+  "name": "KARYA BARU",
+  "postalCode": "30151"
  },
  {
   "id": 7502043008,
   "districtId": 7502043,
-  "name": "BONTULA"
+  "districtName": "ASPARAGA",
+  "name": "BONTULA",
+  "postalCode": ""
  },
  {
   "id": 7502043009,
   "districtId": 7502043,
-  "name": "BIHE"
+  "districtName": "ASPARAGA",
+  "name": "BIHE",
+  "postalCode": "96214"
  },
  {
   "id": 7502043010,
   "districtId": 7502043,
-  "name": "OLIMOHULO"
+  "districtName": "ASPARAGA",
+  "name": "OLIMOHULO",
+  "postalCode": "96214"
  }
 ]

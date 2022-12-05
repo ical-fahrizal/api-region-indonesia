@@ -2,36 +2,50 @@
  {
   "id": 7402111004,
   "districtId": 7402111,
-  "name": "POHORUA"
+  "districtName": "MALIGANO",
+  "name": "POHORUA",
+  "postalCode": "93674"
  },
  {
   "id": 7402111005,
   "districtId": 7402111,
-  "name": "LAPOLE"
+  "districtName": "MALIGANO",
+  "name": "LAPOLE",
+  "postalCode": "93674"
  },
  {
   "id": 7402111006,
   "districtId": 7402111,
-  "name": "MALIGANO"
+  "districtName": "MALIGANO",
+  "name": "MALIGANO",
+  "postalCode": "93674"
  },
  {
   "id": 7402111007,
   "districtId": 7402111,
-  "name": "RAIMUNA"
+  "districtName": "MALIGANO",
+  "name": "RAIMUNA",
+  "postalCode": "93674"
  },
  {
   "id": 7402111008,
   "districtId": 7402111,
-  "name": "LATOMPA"
+  "districtName": "MALIGANO",
+  "name": "LATOMPA",
+  "postalCode": "93674"
  },
  {
   "id": 7402111009,
   "districtId": 7402111,
-  "name": "LANGKORONI"
+  "districtName": "MALIGANO",
+  "name": "LANGKORONI",
+  "postalCode": "93674"
  },
  {
   "id": 7402111010,
   "districtId": 7402111,
-  "name": "UPT LANGKORONI"
+  "districtName": "MALIGANO",
+  "name": "UPT LANGKORONI",
+  "postalCode": ""
  }
 ]

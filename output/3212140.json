@@ -2,51 +2,71 @@
  {
   "id": 3212140001,
   "districtId": 3212140,
-  "name": "TEGALSEMBADRA"
+  "districtName": "BALONGAN",
+  "name": "TEGALSEMBADRA",
+  "postalCode": "45285"
  },
  {
   "id": 3212140002,
   "districtId": 3212140,
-  "name": "SUKAREJA"
+  "districtName": "BALONGAN",
+  "name": "SUKAREJA",
+  "postalCode": "45217"
  },
  {
   "id": 3212140003,
   "districtId": 3212140,
-  "name": "SUKAURIP"
+  "districtName": "BALONGAN",
+  "name": "SUKAURIP",
+  "postalCode": "45217"
  },
  {
   "id": 3212140004,
   "districtId": 3212140,
-  "name": "RAWADALEM"
+  "districtName": "BALONGAN",
+  "name": "RAWADALEM",
+  "postalCode": "45217"
  },
  {
   "id": 3212140005,
   "districtId": 3212140,
-  "name": "GELARMENDALA"
+  "districtName": "BALONGAN",
+  "name": "GELARMENDALA",
+  "postalCode": "45285"
  },
  {
   "id": 3212140006,
   "districtId": 3212140,
-  "name": "TEGALURUNG"
+  "districtName": "BALONGAN",
+  "name": "TEGALURUNG",
+  "postalCode": "45217"
  },
  {
   "id": 3212140007,
   "districtId": 3212140,
-  "name": "BALONGAN"
+  "districtName": "BALONGAN",
+  "name": "BALONGAN",
+  "postalCode": "45217"
  },
  {
   "id": 3212140008,
   "districtId": 3212140,
-  "name": "SUDIMAMPIR"
+  "districtName": "BALONGAN",
+  "name": "SUDIMAMPIR",
+  "postalCode": "30862"
  },
  {
   "id": 3212140009,
   "districtId": 3212140,
-  "name": "SUDIMAMPIRLOR"
+  "districtName": "BALONGAN",
+  "name": "SUDIMAMPIRLOR",
+  "postalCode": "45285"
  },
  {
   "id": 3212140010,
   "districtId": 3212140,
-  "name": "MAJAKERTA"
+  "districtName": "BALONGAN",
+  "name": "MAJAKERTA",
+  "postalCode": "45285"
  }
 ]

@@ -2,101 +2,141 @@
  {
   "id": 7311020001,
   "districtId": 7311020,
-  "name": "CAMMILO"
+  "districtName": "KAHU",
+  "name": "CAMMILO",
+  "postalCode": "92767"
  },
  {
   "id": 7311020002,
   "districtId": 7311020,
-  "name": "LALEPO"
+  "districtName": "KAHU",
+  "name": "LALEPO",
+  "postalCode": "92767"
  },
  {
   "id": 7311020003,
   "districtId": 7311020,
-  "name": "PASAKA"
+  "districtName": "KAHU",
+  "name": "PASAKA",
+  "postalCode": "92767"
  },
  {
   "id": 7311020004,
   "districtId": 7311020,
-  "name": "MATTOANGING"
+  "districtName": "KAHU",
+  "name": "MATTOANGING",
+  "postalCode": "92767"
  },
  {
   "id": 7311020005,
   "districtId": 7311020,
-  "name": "NUSA"
+  "districtName": "KAHU",
+  "name": "NUSA",
+  "postalCode": "23657"
  },
  {
   "id": 7311020006,
   "districtId": 7311020,
-  "name": "ARALLAE"
+  "districtName": "KAHU",
+  "name": "ARALLAE",
+  "postalCode": "92767"
  },
  {
   "id": 7311020007,
   "districtId": 7311020,
-  "name": "LABUAJA"
+  "districtName": "KAHU",
+  "name": "LABUAJA",
+  "postalCode": "92754"
  },
  {
   "id": 7311020008,
   "districtId": 7311020,
-  "name": "BALLE"
+  "districtName": "KAHU",
+  "name": "BALLE",
+  "postalCode": "92767"
  },
  {
   "id": 7311020009,
   "districtId": 7311020,
-  "name": "PALATTAE"
+  "districtName": "KAHU",
+  "name": "PALATTAE",
+  "postalCode": "92767"
  },
  {
   "id": 7311020010,
   "districtId": 7311020,
-  "name": "CAKKELA"
+  "districtName": "KAHU",
+  "name": "CAKKELA",
+  "postalCode": "92767"
  },
  {
   "id": 7311020011,
   "districtId": 7311020,
-  "name": "MATAJANG"
+  "districtName": "KAHU",
+  "name": "MATAJANG",
+  "postalCode": "92753"
  },
  {
   "id": 7311020012,
   "districtId": 7311020,
-  "name": "MAGGENRANG"
+  "districtName": "KAHU",
+  "name": "MAGGENRANG",
+  "postalCode": ""
  },
  {
   "id": 7311020013,
   "districtId": 7311020,
-  "name": "CARIMA"
+  "districtName": "KAHU",
+  "name": "CARIMA",
+  "postalCode": "92767"
  },
  {
   "id": 7311020014,
   "districtId": 7311020,
-  "name": "BIRU"
+  "districtName": "KAHU",
+  "name": "BIRU",
+  "postalCode": "22758"
  },
  {
   "id": 7311020015,
   "districtId": 7311020,
-  "name": "CENRANAE"
+  "districtName": "KAHU",
+  "name": "CENRANAE",
+  "postalCode": ""
  },
  {
   "id": 7311020016,
   "districtId": 7311020,
-  "name": "HULO"
+  "districtName": "KAHU",
+  "name": "HULO",
+  "postalCode": "92767"
  },
  {
   "id": 7311020017,
   "districtId": 7311020,
-  "name": "PALAKKA"
+  "districtName": "KAHU",
+  "name": "PALAKKA",
+  "postalCode": "90711"
  },
  {
   "id": 7311020018,
   "districtId": 7311020,
-  "name": "BONTO PADANG"
+  "districtName": "KAHU",
+  "name": "BONTO PADANG",
+  "postalCode": "92767"
  },
  {
   "id": 7311020019,
   "districtId": 7311020,
-  "name": "SANREGO"
+  "districtName": "KAHU",
+  "name": "SANREGO",
+  "postalCode": "92767"
  },
  {
   "id": 7311020020,
   "districtId": 7311020,
-  "name": "TOMPONG PATU"
+  "districtName": "KAHU",
+  "name": "TOMPONG PATU",
+  "postalCode": "92767"
  }
 ]

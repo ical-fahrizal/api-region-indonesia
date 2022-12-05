@@ -2,31 +2,43 @@
  {
   "id": 9101071001,
   "districtId": 9101071,
-  "name": "SIPATNANAM"
+  "districtName": "WARTUTIN",
+  "name": "SIPATNANAM",
+  "postalCode": "98661"
  },
  {
   "id": 9101071002,
   "districtId": 9101071,
-  "name": "SIBORU"
+  "districtName": "WARTUTIN",
+  "name": "SIBORU",
+  "postalCode": "98661"
  },
  {
   "id": 9101071003,
   "districtId": 9101071,
-  "name": "WERABUAN"
+  "districtName": "WARTUTIN",
+  "name": "WERABUAN",
+  "postalCode": "98661"
  },
  {
   "id": 9101071004,
   "districtId": 9101071,
-  "name": "WERPIGAN"
+  "districtName": "WARTUTIN",
+  "name": "WERPIGAN",
+  "postalCode": "98661"
  },
  {
   "id": 9101071005,
   "districtId": 9101071,
-  "name": "WARTUTIN"
+  "districtName": "WARTUTIN",
+  "name": "WARTUTIN",
+  "postalCode": "98661"
  },
  {
   "id": 9101071006,
   "districtId": 9101071,
-  "name": "KAMANDU TETAR"
+  "districtName": "WARTUTIN",
+  "name": "KAMANDU TETAR",
+  "postalCode": ""
  }
 ]

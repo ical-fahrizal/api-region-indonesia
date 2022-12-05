@@ -2,21 +2,29 @@
  {
   "id": 5303133001,
   "districtId": 5303133,
-  "name": "PAKUBAUN"
+  "districtName": "AMARASI TIMUR",
+  "name": "PAKUBAUN",
+  "postalCode": "85367"
  },
  {
   "id": 5303133002,
   "districtId": 5303133,
-  "name": "OEBESI"
+  "districtName": "AMARASI TIMUR",
+  "name": "OEBESI",
+  "postalCode": "85367"
  },
  {
   "id": 5303133003,
   "districtId": 5303133,
-  "name": "RABEKA"
+  "districtName": "AMARASI TIMUR",
+  "name": "RABEKA",
+  "postalCode": "85367"
  },
  {
   "id": 5303133004,
   "districtId": 5303133,
-  "name": "ENORAEN"
+  "districtName": "AMARASI TIMUR",
+  "name": "ENORAEN",
+  "postalCode": "85367"
  }
 ]

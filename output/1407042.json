@@ -2,36 +2,50 @@
  {
   "id": 1407042001,
   "districtId": 1407042,
-  "name": "BANGUN PURBA"
+  "districtName": "BANGUN PURBA",
+  "name": "BANGUN PURBA",
+  "postalCode": "20581"
  },
  {
   "id": 1407042002,
   "districtId": 1407042,
-  "name": "PASIR AGUNG"
+  "districtName": "BANGUN PURBA",
+  "name": "PASIR AGUNG",
+  "postalCode": "28557"
  },
  {
   "id": 1407042003,
   "districtId": 1407042,
-  "name": "PASIR INTAN"
+  "districtName": "BANGUN PURBA",
+  "name": "PASIR INTAN",
+  "postalCode": "28557"
  },
  {
   "id": 1407042004,
   "districtId": 1407042,
-  "name": "RAMBAH JAYA"
+  "districtName": "BANGUN PURBA",
+  "name": "RAMBAH JAYA",
+  "postalCode": "28557"
  },
  {
   "id": 1407042005,
   "districtId": 1407042,
-  "name": "BANGUN PURBA TIMUR JAYA"
+  "districtName": "BANGUN PURBA",
+  "name": "BANGUN PURBA TIMUR JAYA",
+  "postalCode": "28557"
  },
  {
   "id": 1407042006,
   "districtId": 1407042,
-  "name": "BANGUN PURBA BARAT"
+  "districtName": "BANGUN PURBA",
+  "name": "BANGUN PURBA BARAT",
+  "postalCode": "28557"
  },
  {
   "id": 1407042007,
   "districtId": 1407042,
-  "name": "TANGUN"
+  "districtName": "BANGUN PURBA",
+  "name": "TANGUN",
+  "postalCode": "28557"
  }
 ]

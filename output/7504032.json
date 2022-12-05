@@ -2,46 +2,64 @@
  {
   "id": 7504032002,
   "districtId": 7504032,
-  "name": "TULABOLO"
+  "districtName": "SUWAWA TIMUR",
+  "name": "TULABOLO",
+  "postalCode": "96584"
  },
  {
   "id": 7504032003,
   "districtId": 7504032,
-  "name": "DUMBAYABULAN"
+  "districtName": "SUWAWA TIMUR",
+  "name": "DUMBAYABULAN",
+  "postalCode": "96584"
  },
  {
   "id": 7504032004,
   "districtId": 7504032,
-  "name": "TILANGOBULA"
+  "districtName": "SUWAWA TIMUR",
+  "name": "TILANGOBULA",
+  "postalCode": "96584"
  },
  {
   "id": 7504032006,
   "districtId": 7504032,
-  "name": "TULABOLO TIMUR"
+  "districtName": "SUWAWA TIMUR",
+  "name": "TULABOLO TIMUR",
+  "postalCode": "96584"
  },
  {
   "id": 7504032009,
   "districtId": 7504032,
-  "name": "TULABOLO BARAT"
+  "districtName": "SUWAWA TIMUR",
+  "name": "TULABOLO BARAT",
+  "postalCode": "96584"
  },
  {
   "id": 7504032010,
   "districtId": 7504032,
-  "name": "PODUOMA"
+  "districtName": "SUWAWA TIMUR",
+  "name": "PODUOMA",
+  "postalCode": "96584"
  },
  {
   "id": 7504032011,
   "districtId": 7504032,
-  "name": "PANGGULO"
+  "districtName": "SUWAWA TIMUR",
+  "name": "PANGGULO",
+  "postalCode": "96583"
  },
  {
   "id": 7504032012,
   "districtId": 7504032,
-  "name": "TINEMBA"
+  "districtName": "SUWAWA TIMUR",
+  "name": "TINEMBA",
+  "postalCode": ""
  },
  {
   "id": 7504032013,
   "districtId": 7504032,
-  "name": "PANGI"
+  "districtName": "SUWAWA TIMUR",
+  "name": "PANGI",
+  "postalCode": "24783"
  }
 ]

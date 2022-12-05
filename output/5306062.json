@@ -2,21 +2,29 @@
  {
   "id": 5306062001,
   "districtId": 5306062,
-  "name": "FATUKBOT"
+  "districtName": "ATAMBUA SELATAN",
+  "name": "FATUKBOT",
+  "postalCode": "85717"
  },
  {
   "id": 5306062002,
   "districtId": 5306062,
-  "name": "LIDAK"
+  "districtName": "ATAMBUA SELATAN",
+  "name": "LIDAK",
+  "postalCode": "85716"
  },
  {
   "id": 5306062003,
   "districtId": 5306062,
-  "name": "MANUAMAN"
+  "districtName": "ATAMBUA SELATAN",
+  "name": "MANUAMAN",
+  "postalCode": "85718"
  },
  {
   "id": 5306062004,
   "districtId": 5306062,
-  "name": "RINBESI"
+  "districtName": "ATAMBUA SELATAN",
+  "name": "RINBESI",
+  "postalCode": "85718"
  }
 ]

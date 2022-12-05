@@ -2,76 +2,106 @@
  {
   "id": 1203070051,
   "districtId": 1203070,
-  "name": "PARGARUTAN JAE"
+  "districtName": "ANGKOLA TIMUR",
+  "name": "PARGARUTAN JAE",
+  "postalCode": "22733"
  },
  {
   "id": 1203070054,
   "districtId": 1203070,
-  "name": "SIJUNGKANG"
+  "districtName": "ANGKOLA TIMUR",
+  "name": "SIJUNGKANG",
+  "postalCode": "22651"
  },
  {
   "id": 1203070058,
   "districtId": 1203070,
-  "name": "HURABA"
+  "districtName": "ANGKOLA TIMUR",
+  "name": "HURABA",
+  "postalCode": "22733"
  },
  {
   "id": 1203070060,
   "districtId": 1203070,
-  "name": "HUTA GINJANG"
+  "districtName": "ANGKOLA TIMUR",
+  "name": "HUTA GINJANG",
+  "postalCode": "22733"
  },
  {
   "id": 1203070067,
   "districtId": 1203070,
-  "name": "PARGARUTAN JULU"
+  "districtName": "ANGKOLA TIMUR",
+  "name": "PARGARUTAN JULU",
+  "postalCode": "22733"
  },
  {
   "id": 1203070070,
   "districtId": 1203070,
-  "name": "PARGARUTAN TONGA"
+  "districtName": "ANGKOLA TIMUR",
+  "name": "PARGARUTAN TONGA",
+  "postalCode": "22733"
  },
  {
   "id": 1203070076,
   "districtId": 1203070,
-  "name": "PANOMPUAN JAE"
+  "districtName": "ANGKOLA TIMUR",
+  "name": "PANOMPUAN JAE",
+  "postalCode": "22733"
  },
  {
   "id": 1203070080,
   "districtId": 1203070,
-  "name": "LANTOSAN ROGAS"
+  "districtName": "ANGKOLA TIMUR",
+  "name": "LANTOSAN ROGAS",
+  "postalCode": "22733"
  },
  {
   "id": 1203070094,
   "districtId": 1203070,
-  "name": "PASAR PARGARUTAN"
+  "districtName": "ANGKOLA TIMUR",
+  "name": "PASAR PARGARUTAN",
+  "postalCode": "22733"
  },
  {
   "id": 1203070095,
   "districtId": 1203070,
-  "name": "PARGARUTAN DOLOK"
+  "districtName": "ANGKOLA TIMUR",
+  "name": "PARGARUTAN DOLOK",
+  "postalCode": "22733"
  },
  {
   "id": 1203070096,
   "districtId": 1203070,
-  "name": "PAL XI"
+  "districtName": "ANGKOLA TIMUR",
+  "name": "PAL XI",
+  "postalCode": ""
  },
  {
   "id": 1203070097,
   "districtId": 1203070,
-  "name": "MARISI"
+  "districtName": "ANGKOLA TIMUR",
+  "name": "MARISI",
+  "postalCode": "22733"
  },
  {
   "id": 1203070098,
   "districtId": 1203070,
-  "name": "PANOMPUAN"
+  "districtName": "ANGKOLA TIMUR",
+  "name": "PANOMPUAN",
+  "postalCode": "22733"
  },
  {
   "id": 1203070099,
   "districtId": 1203070,
-  "name": "BATANG TURA SIRUMAMBE"
+  "districtName": "ANGKOLA TIMUR",
+  "name": "BATANG TURA SIRUMAMBE",
+  "postalCode": "22733"
  },
  {
   "id": 1203070100,
   "districtId": 1203070,
-  "name": "SANGGAPATI"
+  "districtName": "ANGKOLA TIMUR",
+  "name": "SANGGAPATI",
+  "postalCode": "22733"
  }
 ]

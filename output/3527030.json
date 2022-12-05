@@ -2,91 +2,127 @@
  {
   "id": 3527030001,
   "districtId": 3527030,
-  "name": "PULAU MANDANGIN"
+  "districtName": "SAMPANG",
+  "name": "PULAU MANDANGIN",
+  "postalCode": ""
  },
  {
   "id": 3527030002,
   "districtId": 3527030,
-  "name": "AENG SAREH"
+  "districtName": "SAMPANG",
+  "name": "AENG SAREH",
+  "postalCode": "69216"
  },
  {
   "id": 3527030003,
   "districtId": 3527030,
-  "name": "POLAGAN"
+  "districtName": "SAMPANG",
+  "name": "POLAGAN",
+  "postalCode": "69382"
  },
  {
   "id": 3527030004,
   "districtId": 3527030,
-  "name": "BANYUANYAR"
+  "districtName": "SAMPANG",
+  "name": "BANYUANYAR",
+  "postalCode": "57352"
  },
  {
   "id": 3527030005,
   "districtId": 3527030,
-  "name": "GUNUNG MADDAH"
+  "districtName": "SAMPANG",
+  "name": "GUNUNG MADDAH",
+  "postalCode": "69216"
  },
  {
   "id": 3527030006,
   "districtId": 3527030,
-  "name": "RONG TENGAH"
+  "districtName": "SAMPANG",
+  "name": "RONG TENGAH",
+  "postalCode": "69216"
  },
  {
   "id": 3527030007,
   "districtId": 3527030,
-  "name": "KARANG DALEM"
+  "districtName": "SAMPANG",
+  "name": "KARANG DALEM",
+  "postalCode": "69216"
  },
  {
   "id": 3527030008,
   "districtId": 3527030,
-  "name": "GUNUNG SEKAR"
+  "districtName": "SAMPANG",
+  "name": "GUNUNG SEKAR",
+  "postalCode": "69216"
  },
  {
   "id": 3527030009,
   "districtId": 3527030,
-  "name": "DALPENANG"
+  "districtName": "SAMPANG",
+  "name": "DALPENANG",
+  "postalCode": "69212"
  },
  {
   "id": 3527030010,
   "districtId": 3527030,
-  "name": "PASEYAN"
+  "districtName": "SAMPANG",
+  "name": "PASEYAN",
+  "postalCode": "62362"
  },
  {
   "id": 3527030011,
   "districtId": 3527030,
-  "name": "PANGGUNG"
+  "districtName": "SAMPANG",
+  "name": "PANGGUNG",
+  "postalCode": "59463"
  },
  {
   "id": 3527030012,
   "districtId": 3527030,
-  "name": "BARUH"
+  "districtName": "SAMPANG",
+  "name": "BARUH",
+  "postalCode": "69216"
  },
  {
   "id": 3527030013,
   "districtId": 3527030,
-  "name": "TAMAN SAREH"
+  "districtName": "SAMPANG",
+  "name": "TAMAN SAREH",
+  "postalCode": "69216"
  },
  {
   "id": 3527030014,
   "districtId": 3527030,
-  "name": "PEKALONGAN"
+  "districtName": "SAMPANG",
+  "name": "PEKALONGAN",
+  "postalCode": "39371"
  },
  {
   "id": 3527030015,
   "districtId": 3527030,
-  "name": "TANGGUMONG"
+  "districtName": "SAMPANG",
+  "name": "TANGGUMONG",
+  "postalCode": "69216"
  },
  {
   "id": 3527030016,
   "districtId": 3527030,
-  "name": "KAMONING"
+  "districtName": "SAMPANG",
+  "name": "KAMONING",
+  "postalCode": "69216"
  },
  {
   "id": 3527030017,
   "districtId": 3527030,
-  "name": "BANYUMAS"
+  "districtName": "SAMPANG",
+  "name": "BANYUMAS",
+  "postalCode": "20811"
  },
  {
   "id": 3527030018,
   "districtId": 3527030,
-  "name": "PANGELEN"
+  "districtName": "SAMPANG",
+  "name": "PANGELEN",
+  "postalCode": "69216"
  }
 ]

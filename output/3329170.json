@@ -2,106 +2,148 @@
  {
   "id": 3329170001,
   "districtId": 3329170,
-  "name": "PEMARON"
+  "districtName": "BREBES",
+  "name": "PEMARON",
+  "postalCode": "52219"
  },
  {
   "id": 3329170002,
   "districtId": 3329170,
-  "name": "KALIMATI"
+  "districtName": "BREBES",
+  "name": "KALIMATI",
+  "postalCode": "45555"
  },
  {
   "id": 3329170003,
   "districtId": 3329170,
-  "name": "LEMBARAWA"
+  "districtName": "BREBES",
+  "name": "LEMBARAWA",
+  "postalCode": "52219"
  },
  {
   "id": 3329170004,
   "districtId": 3329170,
-  "name": "KRASAK"
+  "districtName": "BREBES",
+  "name": "KRASAK",
+  "postalCode": "45273"
  },
  {
   "id": 3329170005,
   "districtId": 3329170,
-  "name": "PADASUGIH"
+  "districtName": "BREBES",
+  "name": "PADASUGIH",
+  "postalCode": "52214"
  },
  {
   "id": 3329170006,
   "districtId": 3329170,
-  "name": "WANGANDALEM"
+  "districtName": "BREBES",
+  "name": "WANGANDALEM",
+  "postalCode": "52214"
  },
  {
   "id": 3329170007,
   "districtId": 3329170,
-  "name": "TERLANGU"
+  "districtName": "BREBES",
+  "name": "TERLANGU",
+  "postalCode": "30953"
  },
  {
   "id": 3329170008,
   "districtId": 3329170,
-  "name": "PULOSARI"
+  "districtName": "BREBES",
+  "name": "PULOSARI",
+  "postalCode": "43354"
  },
  {
   "id": 3329170010,
   "districtId": 3329170,
-  "name": "GANDASULI"
+  "districtName": "BREBES",
+  "name": "GANDASULI",
+  "postalCode": "53353"
  },
  {
   "id": 3329170011,
   "districtId": 3329170,
-  "name": "BANJARANYAR"
+  "districtName": "BREBES",
+  "name": "BANJARANYAR",
+  "postalCode": "46383"
  },
  {
   "id": 3329170012,
   "districtId": 3329170,
-  "name": "KALIGANGSA KULON"
+  "districtName": "BREBES",
+  "name": "KALIGANGSA KULON",
+  "postalCode": "52217"
  },
  {
   "id": 3329170013,
   "districtId": 3329170,
-  "name": "KALIGANGSA WETAN"
+  "districtName": "BREBES",
+  "name": "KALIGANGSA WETAN",
+  "postalCode": "52217"
  },
  {
   "id": 3329170014,
   "districtId": 3329170,
-  "name": "RANDUSANGA WETAN"
+  "districtName": "BREBES",
+  "name": "RANDUSANGA WETAN",
+  "postalCode": "52219"
  },
  {
   "id": 3329170015,
   "districtId": 3329170,
-  "name": "RANDUSANGA KULON"
+  "districtName": "BREBES",
+  "name": "RANDUSANGA KULON",
+  "postalCode": "52219"
  },
  {
   "id": 3329170016,
   "districtId": 3329170,
-  "name": "LIMBANGAN WETAN"
+  "districtName": "BREBES",
+  "name": "LIMBANGAN WETAN",
+  "postalCode": "52218"
  },
  {
   "id": 3329170017,
   "districtId": 3329170,
-  "name": "LIMBANGAN KULON"
+  "districtName": "BREBES",
+  "name": "LIMBANGAN KULON",
+  "postalCode": "52219"
  },
  {
   "id": 3329170018,
   "districtId": 3329170,
-  "name": "PASAR BATANG"
+  "districtName": "BREBES",
+  "name": "PASAR BATANG",
+  "postalCode": "34595"
  },
  {
   "id": 3329170019,
   "districtId": 3329170,
-  "name": "SIGAMBIR"
+  "districtName": "BREBES",
+  "name": "SIGAMBIR",
+  "postalCode": "52219"
  },
  {
   "id": 3329170020,
   "districtId": 3329170,
-  "name": "PAGEJUGAN"
+  "districtName": "BREBES",
+  "name": "PAGEJUGAN",
+  "postalCode": "52219"
  },
  {
   "id": 3329170022,
   "districtId": 3329170,
-  "name": "TENGKI"
+  "districtName": "BREBES",
+  "name": "TENGKI",
+  "postalCode": "52219"
  },
  {
   "id": 3329170023,
   "districtId": 3329170,
-  "name": "KALIWLINGI"
+  "districtName": "BREBES",
+  "name": "KALIWLINGI",
+  "postalCode": "52219"
  }
 ]

@@ -2,71 +2,99 @@
  {
   "id": 3208150001,
   "districtId": 3208150,
-  "name": "PAJAMBON"
+  "districtName": "KRAMATMULYA",
+  "name": "PAJAMBON",
+  "postalCode": "45553"
  },
  {
   "id": 3208150002,
   "districtId": 3208150,
-  "name": "RAGAWACANA"
+  "districtName": "KRAMATMULYA",
+  "name": "RAGAWACANA",
+  "postalCode": "45553"
  },
  {
   "id": 3208150003,
   "districtId": 3208150,
-  "name": "CILOWA"
+  "districtName": "KRAMATMULYA",
+  "name": "CILOWA",
+  "postalCode": "45553"
  },
  {
   "id": 3208150005,
   "districtId": 3208150,
-  "name": "GEREBA"
+  "districtName": "KRAMATMULYA",
+  "name": "GEREBA",
+  "postalCode": "46252"
  },
  {
   "id": 3208150007,
   "districtId": 3208150,
-  "name": "CIKUBANGSARI"
+  "districtName": "KRAMATMULYA",
+  "name": "CIKUBANGSARI",
+  "postalCode": "45553"
  },
  {
   "id": 3208150008,
   "districtId": 3208150,
-  "name": "WIDARASARI"
+  "districtName": "KRAMATMULYA",
+  "name": "WIDARASARI",
+  "postalCode": "45553"
  },
  {
   "id": 3208150009,
   "districtId": 3208150,
-  "name": "CILAJA"
+  "districtName": "KRAMATMULYA",
+  "name": "CILAJA",
+  "postalCode": "45553"
  },
  {
   "id": 3208150010,
   "districtId": 3208150,
-  "name": "BOJONG"
+  "districtName": "KRAMATMULYA",
+  "name": "BOJONG",
+  "postalCode": "34385"
  },
  {
   "id": 3208150011,
   "districtId": 3208150,
-  "name": "CIKASO"
+  "districtName": "KRAMATMULYA",
+  "name": "CIKASO",
+  "postalCode": "46383"
  },
  {
   "id": 3208150012,
   "districtId": 3208150,
-  "name": "KRAMATMULYA"
+  "districtName": "KRAMATMULYA",
+  "name": "KRAMATMULYA",
+  "postalCode": ""
  },
  {
   "id": 3208150013,
   "districtId": 3208150,
-  "name": "CIBENTANG"
+  "districtName": "KRAMATMULYA",
+  "name": "CIBENTANG",
+  "postalCode": "16120"
  },
  {
   "id": 3208150014,
   "districtId": 3208150,
-  "name": "GANDASOLI"
+  "districtName": "KRAMATMULYA",
+  "name": "GANDASOLI",
+  "postalCode": "43365"
  },
  {
   "id": 3208150015,
   "districtId": 3208150,
-  "name": "KALAPAGUNUNG"
+  "districtName": "KRAMATMULYA",
+  "name": "KALAPAGUNUNG",
+  "postalCode": "45553"
  },
  {
   "id": 3208150017,
   "districtId": 3208150,
-  "name": "KARANGMANGU"
+  "districtName": "KRAMATMULYA",
+  "name": "KARANGMANGU",
+  "postalCode": "45553"
  }
 ]

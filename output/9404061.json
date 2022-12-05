@@ -2,21 +2,29 @@
  {
   "id": 9404061001,
   "districtId": 9404061,
-  "name": "NAPAN YAUR"
+  "districtName": "TELUK UMAR",
+  "name": "NAPAN YAUR",
+  "postalCode": "98852"
  },
  {
   "id": 9404061002,
   "districtId": 9404061,
-  "name": "BAWEI"
+  "districtName": "TELUK UMAR",
+  "name": "BAWEI",
+  "postalCode": "98171"
  },
  {
   "id": 9404061003,
   "districtId": 9404061,
-  "name": "YERETUAR"
+  "districtName": "TELUK UMAR",
+  "name": "YERETUAR",
+  "postalCode": "98852"
  },
  {
   "id": 9404061004,
   "districtId": 9404061,
-  "name": "GONI"
+  "districtName": "TELUK UMAR",
+  "name": "GONI",
+  "postalCode": "98852"
  }
 ]

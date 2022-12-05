@@ -2,56 +2,78 @@
  {
   "id": 6307030002,
   "districtId": 6307030,
-  "name": "KINDINGAN"
+  "districtName": "HANTAKAN",
+  "name": "KINDINGAN",
+  "postalCode": "71372"
  },
  {
   "id": 6307030003,
   "districtId": 6307030,
-  "name": "HARUYAN DAYAK"
+  "districtName": "HANTAKAN",
+  "name": "HARUYAN DAYAK",
+  "postalCode": "71372"
  },
  {
   "id": 6307030007,
   "districtId": 6307030,
-  "name": "TILAHAN"
+  "districtName": "HANTAKAN",
+  "name": "TILAHAN",
+  "postalCode": "71372"
  },
  {
   "id": 6307030008,
   "districtId": 6307030,
-  "name": "PASTING"
+  "districtName": "HANTAKAN",
+  "name": "PASTING",
+  "postalCode": "71372"
  },
  {
   "id": 6307030009,
   "districtId": 6307030,
-  "name": "BATU TUNGGAL"
+  "districtName": "HANTAKAN",
+  "name": "BATU TUNGGAL",
+  "postalCode": "22753"
  },
  {
   "id": 6307030010,
   "districtId": 6307030,
-  "name": "BULAYAK"
+  "districtName": "HANTAKAN",
+  "name": "BULAYAK",
+  "postalCode": "71372"
  },
  {
   "id": 6307030017,
   "districtId": 6307030,
-  "name": "DATAR AJAB"
+  "districtName": "HANTAKAN",
+  "name": "DATAR AJAB",
+  "postalCode": "71372"
  },
  {
   "id": 6307030018,
   "districtId": 6307030,
-  "name": "ALAT"
+  "districtName": "HANTAKAN",
+  "name": "ALAT",
+  "postalCode": "71372"
  },
  {
   "id": 6307030020,
   "districtId": 6307030,
-  "name": "HANTAKAN"
+  "districtName": "HANTAKAN",
+  "name": "HANTAKAN",
+  "postalCode": "71372"
  },
  {
   "id": 6307030021,
   "districtId": 6307030,
-  "name": "HINAS KANAN"
+  "districtName": "HANTAKAN",
+  "name": "HINAS KANAN",
+  "postalCode": "71372"
  },
  {
   "id": 6307030022,
   "districtId": 6307030,
-  "name": "PATIKALAIN"
+  "districtName": "HANTAKAN",
+  "name": "PATIKALAIN",
+  "postalCode": "71372"
  }
 ]

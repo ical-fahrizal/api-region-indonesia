@@ -2,56 +2,78 @@
  {
   "id": 1304110001,
   "districtId": 1304110,
-  "name": "KUMANIS"
+  "districtName": "SUMPUR KUDUS",
+  "name": "KUMANIS",
+  "postalCode": "27563"
  },
  {
   "id": 1304110002,
   "districtId": 1304110,
-  "name": "TANJUNG BONAI AUR"
+  "districtName": "SUMPUR KUDUS",
+  "name": "TANJUNG BONAI AUR",
+  "postalCode": "27563"
  },
  {
   "id": 1304110003,
   "districtId": 1304110,
-  "name": "SISAWAH"
+  "districtName": "SUMPUR KUDUS",
+  "name": "SISAWAH",
+  "postalCode": "27563"
  },
  {
   "id": 1304110004,
   "districtId": 1304110,
-  "name": "TAMPARUNGO"
+  "districtName": "SUMPUR KUDUS",
+  "name": "TAMPARUNGO",
+  "postalCode": "27563"
  },
  {
   "id": 1304110005,
   "districtId": 1304110,
-  "name": "SUMPUR KUDUS"
+  "districtName": "SUMPUR KUDUS",
+  "name": "SUMPUR KUDUS",
+  "postalCode": "27563"
  },
  {
   "id": 1304110006,
   "districtId": 1304110,
-  "name": "MENGGANTI"
+  "districtName": "SUMPUR KUDUS",
+  "name": "MENGGANTI",
+  "postalCode": ""
  },
  {
   "id": 1304110007,
   "districtId": 1304110,
-  "name": "SEPAKAT SILANTAI"
+  "districtName": "SUMPUR KUDUS",
+  "name": "SEPAKAT SILANTAI",
+  "postalCode": ""
  },
  {
   "id": 1304110008,
   "districtId": 1304110,
-  "name": "UNGGAN"
+  "districtName": "SUMPUR KUDUS",
+  "name": "UNGGAN",
+  "postalCode": "27563"
  },
  {
   "id": 1304110009,
   "districtId": 1304110,
-  "name": "TANJUNG BONAI AUR SELATAN"
+  "districtName": "SUMPUR KUDUS",
+  "name": "TANJUNG BONAI AUR SELATAN",
+  "postalCode": "27563"
  },
  {
   "id": 1304110010,
   "districtId": 1304110,
-  "name": "TANJUANG LABUAH"
+  "districtName": "SUMPUR KUDUS",
+  "name": "TANJUANG LABUAH",
+  "postalCode": "27563"
  },
  {
   "id": 1304110011,
   "districtId": 1304110,
-  "name": "SUMPUR KUDUS SELATAN"
+  "districtName": "SUMPUR KUDUS",
+  "name": "SUMPUR KUDUS SELATAN",
+  "postalCode": "27563"
  }
 ]

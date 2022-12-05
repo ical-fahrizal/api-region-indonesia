@@ -2,26 +2,36 @@
  {
   "id": 7373041001,
   "districtId": 7373041,
-  "name": "BATTANG"
+  "districtName": "WARA BARAT",
+  "name": "BATTANG",
+  "postalCode": "91958"
  },
  {
   "id": 7373041007,
   "districtId": 7373041,
-  "name": "TOMARUNDUNG"
+  "districtName": "WARA BARAT",
+  "name": "TOMARUNDUNG",
+  "postalCode": "91921"
  },
  {
   "id": 7373041008,
   "districtId": 7373041,
-  "name": "BATTANG BARAT"
+  "districtName": "WARA BARAT",
+  "name": "BATTANG BARAT",
+  "postalCode": "91921"
  },
  {
   "id": 7373041009,
   "districtId": 7373041,
-  "name": "LEBANG"
+  "districtName": "WARA BARAT",
+  "name": "LEBANG",
+  "postalCode": "91711"
  },
  {
   "id": 7373041010,
   "districtId": 7373041,
-  "name": "PADANG LAMBE"
+  "districtName": "WARA BARAT",
+  "name": "PADANG LAMBE",
+  "postalCode": "91996"
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 3524010003,
   "districtId": 3524010,
-  "name": "BANGGLE"
+  "districtName": "SUKORAME",
+  "name": "BANGGLE",
+  "postalCode": "66171"
  },
  {
   "id": 3524010004,
   "districtId": 3524010,
-  "name": "MRAGEL"
+  "districtName": "SUKORAME",
+  "name": "MRAGEL",
+  "postalCode": "62276"
  },
  {
   "id": 3524010005,
   "districtId": 3524010,
-  "name": "SUKORAME"
+  "districtName": "SUKORAME",
+  "name": "SUKORAME",
+  "postalCode": "57331"
  },
  {
   "id": 3524010006,
   "districtId": 3524010,
-  "name": "SEWOR"
+  "districtName": "SUKORAME",
+  "name": "SEWOR",
+  "postalCode": "62276"
  },
  {
   "id": 3524010007,
   "districtId": 3524010,
-  "name": "KEDUNGREJO"
+  "districtName": "SUKORAME",
+  "name": "KEDUNGREJO",
+  "postalCode": "57383"
  },
  {
   "id": 3524010008,
   "districtId": 3524010,
-  "name": "WEDORO"
+  "districtName": "SUKORAME",
+  "name": "WEDORO",
+  "postalCode": "58161"
  },
  {
   "id": 3524010009,
   "districtId": 3524010,
-  "name": "PENDOWOKUMPUL"
+  "districtName": "SUKORAME",
+  "name": "PENDOWOKUMPUL",
+  "postalCode": "62276"
  }
 ]

@@ -2,116 +2,162 @@
  {
   "id": 3515160001,
   "districtId": 3515160,
-  "name": "KRAMAT JEGU"
+  "districtName": "TAMAN",
+  "name": "KRAMAT JEGU",
+  "postalCode": "61257"
  },
  {
   "id": 3515160002,
   "districtId": 3515160,
-  "name": "TROSOBO"
+  "districtName": "TAMAN",
+  "name": "TROSOBO",
+  "postalCode": "57376"
  },
  {
   "id": 3515160003,
   "districtId": 3515160,
-  "name": "PERTAPAN MADURETNO"
+  "districtName": "TAMAN",
+  "name": "PERTAPAN MADURETNO",
+  "postalCode": "61257"
  },
  {
   "id": 3515160004,
   "districtId": 3515160,
-  "name": "TANJUNGSARI"
+  "districtName": "TAMAN",
+  "name": "TANJUNGSARI",
+  "postalCode": "28983"
  },
  {
   "id": 3515160005,
   "districtId": 3515160,
-  "name": "SIDODADI"
+  "districtName": "TAMAN",
+  "name": "SIDODADI",
+  "postalCode": "24582"
  },
  {
   "id": 3515160006,
   "districtId": 3515160,
-  "name": "BRINGINBENDO"
+  "districtName": "TAMAN",
+  "name": "BRINGINBENDO",
+  "postalCode": "61257"
  },
  {
   "id": 3515160007,
   "districtId": 3515160,
-  "name": "SAMBI BULU"
+  "districtName": "TAMAN",
+  "name": "SAMBI BULU",
+  "postalCode": "61257"
  },
  {
   "id": 3515160008,
   "districtId": 3515160,
-  "name": "GILANG"
+  "districtName": "TAMAN",
+  "name": "GILANG",
+  "postalCode": "69466"
  },
  {
   "id": 3515160009,
   "districtId": 3515160,
-  "name": "KREMBANGAN"
+  "districtName": "TAMAN",
+  "name": "KREMBANGAN",
+  "postalCode": "55655"
  },
  {
   "id": 3515160010,
   "districtId": 3515160,
-  "name": "TAWANGSARI"
+  "districtName": "TAMAN",
+  "name": "TAWANGSARI",
+  "postalCode": "45365"
  },
  {
   "id": 3515160012,
   "districtId": 3515160,
-  "name": "JEMUNDO"
+  "districtName": "TAMAN",
+  "name": "JEMUNDO",
+  "postalCode": "61257"
  },
  {
   "id": 3515160013,
   "districtId": 3515160,
-  "name": "SADANG"
+  "districtName": "TAMAN",
+  "name": "SADANG",
+  "postalCode": "44115"
  },
  {
   "id": 3515160014,
   "districtId": 3515160,
-  "name": "GELURAN"
+  "districtName": "TAMAN",
+  "name": "GELURAN",
+  "postalCode": "61257"
  },
  {
   "id": 3515160015,
   "districtId": 3515160,
-  "name": "BOHAR"
+  "districtName": "TAMAN",
+  "name": "BOHAR",
+  "postalCode": "61257"
  },
  {
   "id": 3515160016,
   "districtId": 3515160,
-  "name": "WAGE"
+  "districtName": "TAMAN",
+  "name": "WAGE",
+  "postalCode": "61257"
  },
  {
   "id": 3515160017,
   "districtId": 3515160,
-  "name": "KEDUNGTURI"
+  "districtName": "TAMAN",
+  "name": "KEDUNGTURI",
+  "postalCode": "61463"
  },
  {
   "id": 3515160018,
   "districtId": 3515160,
-  "name": "TAMAN"
+  "districtName": "TAMAN",
+  "name": "TAMAN",
+  "postalCode": "52361"
  },
  {
   "id": 3515160019,
   "districtId": 3515160,
-  "name": "KALIJATEN"
+  "districtName": "TAMAN",
+  "name": "KALIJATEN",
+  "postalCode": "61257"
  },
  {
   "id": 3515160020,
   "districtId": 3515160,
-  "name": "NGELOM"
+  "districtName": "TAMAN",
+  "name": "NGELOM",
+  "postalCode": "61257"
  },
  {
   "id": 3515160021,
   "districtId": 3515160,
-  "name": "WONOCOLO"
+  "districtName": "TAMAN",
+  "name": "WONOCOLO",
+  "postalCode": "62164"
  },
  {
   "id": 3515160022,
   "districtId": 3515160,
-  "name": "KETEGAN"
+  "districtName": "TAMAN",
+  "name": "KETEGAN",
+  "postalCode": "67181"
  },
  {
   "id": 3515160023,
   "districtId": 3515160,
-  "name": "BEBEKAN"
+  "districtName": "TAMAN",
+  "name": "BEBEKAN",
+  "postalCode": "61257"
  },
  {
   "id": 3515160024,
   "districtId": 3515160,
-  "name": "SEPANJANG"
+  "districtName": "TAMAN",
+  "name": "SEPANJANG",
+  "postalCode": "57792"
  }
 ]

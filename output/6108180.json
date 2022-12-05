@@ -2,31 +2,43 @@
  {
   "id": 6108180001,
   "districtId": 6108180,
-  "name": "KELING PANGGAU"
+  "districtName": "EMPANANG",
+  "name": "KELING PANGGAU",
+  "postalCode": "78768"
  },
  {
   "id": 6108180002,
   "districtId": 6108180,
-  "name": "BAJAU ANDAI"
+  "districtName": "EMPANANG",
+  "name": "BAJAU ANDAI",
+  "postalCode": "78768"
  },
  {
   "id": 6108180003,
   "districtId": 6108180,
-  "name": "TINTIN PENINJAU"
+  "districtName": "EMPANANG",
+  "name": "TINTIN PENINJAU",
+  "postalCode": "78768"
  },
  {
   "id": 6108180004,
   "districtId": 6108180,
-  "name": "NANGA KANTUK"
+  "districtName": "EMPANANG",
+  "name": "NANGA KANTUK",
+  "postalCode": "78768"
  },
  {
   "id": 6108180005,
   "districtId": 6108180,
-  "name": "KUMANG JAYA"
+  "districtName": "EMPANANG",
+  "name": "KUMANG JAYA",
+  "postalCode": "78768"
  },
  {
   "id": 6108180006,
   "districtId": 6108180,
-  "name": "LAJA SANDANG"
+  "districtName": "EMPANANG",
+  "name": "LAJA SANDANG",
+  "postalCode": "78768"
  }
 ]

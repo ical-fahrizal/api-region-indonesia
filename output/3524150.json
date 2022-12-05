@@ -2,86 +2,120 @@
  {
   "id": 3524150001,
   "districtId": 3524150,
-  "name": "DEKET KULON"
+  "districtName": "DEKET",
+  "name": "DEKET KULON",
+  "postalCode": "62291"
  },
  {
   "id": 3524150002,
   "districtId": 3524150,
-  "name": "DEKET WETAN"
+  "districtName": "DEKET",
+  "name": "DEKET WETAN",
+  "postalCode": "62291"
  },
  {
   "id": 3524150003,
   "districtId": 3524150,
-  "name": "REJOSARI"
+  "districtName": "DEKET",
+  "name": "REJOSARI",
+  "postalCode": "29353"
  },
  {
   "id": 3524150004,
   "districtId": 3524150,
-  "name": "PANDANPANCUR"
+  "districtName": "DEKET",
+  "name": "PANDANPANCUR",
+  "postalCode": "62291"
  },
  {
   "id": 3524150005,
   "districtId": 3524150,
-  "name": "PLOSOBUDEN"
+  "districtName": "DEKET",
+  "name": "PLOSOBUDEN",
+  "postalCode": "62291"
  },
  {
   "id": 3524150006,
   "districtId": 3524150,
-  "name": "SRIRANDE"
+  "districtName": "DEKET",
+  "name": "SRIRANDE",
+  "postalCode": "62291"
  },
  {
   "id": 3524150007,
   "districtId": 3524150,
-  "name": "REJOTENGAH"
+  "districtName": "DEKET",
+  "name": "REJOTENGAH",
+  "postalCode": ""
  },
  {
   "id": 3524150008,
   "districtId": 3524150,
-  "name": "SIDOBINANGUN"
+  "districtName": "DEKET",
+  "name": "SIDOBINANGUN",
+  "postalCode": "62291"
  },
  {
   "id": 3524150009,
   "districtId": 3524150,
-  "name": "SUGIHWARAS"
+  "districtName": "DEKET",
+  "name": "SUGIHWARAS",
+  "postalCode": "54363"
  },
  {
   "id": 3524150010,
   "districtId": 3524150,
-  "name": "SIDOREJO"
+  "districtName": "DEKET",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 3524150011,
   "districtId": 3524150,
-  "name": "DLANGGU"
+  "districtName": "DEKET",
+  "name": "DLANGGU",
+  "postalCode": "62291"
  },
  {
   "id": 3524150012,
   "districtId": 3524150,
-  "name": "DINOYO"
+  "districtName": "DEKET",
+  "name": "DINOYO",
+  "postalCode": "62291"
  },
  {
   "id": 3524150013,
   "districtId": 3524150,
-  "name": "BABATAGUNG"
+  "districtName": "DEKET",
+  "name": "BABATAGUNG",
+  "postalCode": "62291"
  },
  {
   "id": 3524150014,
   "districtId": 3524150,
-  "name": "TUKKERTO"
+  "districtName": "DEKET",
+  "name": "TUKKERTO",
+  "postalCode": "62291"
  },
  {
   "id": 3524150015,
   "districtId": 3524150,
-  "name": "WEDUNI"
+  "districtName": "DEKET",
+  "name": "WEDUNI",
+  "postalCode": "62291"
  },
  {
   "id": 3524150016,
   "districtId": 3524150,
-  "name": "SIDOMULYO"
+  "districtName": "DEKET",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  },
  {
   "id": 3524150017,
   "districtId": 3524150,
-  "name": "LALADAN"
+  "districtName": "DEKET",
+  "name": "LALADAN",
+  "postalCode": "62291"
  }
 ]

@@ -2,21 +2,29 @@
  {
   "id": 1471030001,
   "districtId": 1471030,
-  "name": "RINTIS"
+  "districtName": "LIMAPULUH",
+  "name": "RINTIS",
+  "postalCode": "21461"
  },
  {
   "id": 1471030002,
   "districtId": 1471030,
-  "name": "SEKIP"
+  "districtName": "LIMAPULUH",
+  "name": "SEKIP",
+  "postalCode": "20517"
  },
  {
   "id": 1471030003,
   "districtId": 1471030,
-  "name": "TANJUNG RHU"
+  "districtName": "LIMAPULUH",
+  "name": "TANJUNG RHU",
+  "postalCode": "28143"
  },
  {
   "id": 1471030004,
   "districtId": 1471030,
-  "name": "PESISIR"
+  "districtName": "LIMAPULUH",
+  "name": "PESISIR",
+  "postalCode": "28144"
  }
 ]

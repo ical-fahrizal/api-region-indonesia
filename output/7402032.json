@@ -2,31 +2,43 @@
  {
   "id": 7402032001,
   "districtId": 7402032,
-  "name": "LAGHORIO"
+  "districtName": "KONTUKOWUNA",
+  "name": "LAGHORIO",
+  "postalCode": ""
  },
  {
   "id": 7402032002,
   "districtId": 7402032,
-  "name": "KAFOO-FOO"
+  "districtName": "KONTUKOWUNA",
+  "name": "KAFOO-FOO",
+  "postalCode": ""
  },
  {
   "id": 7402032003,
   "districtId": 7402032,
-  "name": "KONTUKOWUNA"
+  "districtName": "KONTUKOWUNA",
+  "name": "KONTUKOWUNA",
+  "postalCode": ""
  },
  {
   "id": 7402032004,
   "districtId": 7402032,
-  "name": "BAHUTARA"
+  "districtName": "KONTUKOWUNA",
+  "name": "BAHUTARA",
+  "postalCode": "93661"
  },
  {
   "id": 7402032005,
   "districtId": 7402032,
-  "name": "KILAMBIBITO"
+  "districtName": "KONTUKOWUNA",
+  "name": "KILAMBIBITO",
+  "postalCode": "93661"
  },
  {
   "id": 7402032006,
   "districtId": 7402032,
-  "name": "KAROO"
+  "districtName": "KONTUKOWUNA",
+  "name": "KAROO",
+  "postalCode": ""
  }
 ]

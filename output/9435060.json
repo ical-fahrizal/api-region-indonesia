@@ -2,46 +2,64 @@
  {
   "id": 9435060001,
   "districtId": 9435060,
-  "name": "SABISA"
+  "districtName": "WANDAI",
+  "name": "SABISA",
+  "postalCode": "98784"
  },
  {
   "id": 9435060002,
   "districtId": 9435060,
-  "name": "JAE"
+  "districtName": "WANDAI",
+  "name": "JAE",
+  "postalCode": ""
  },
  {
   "id": 9435060003,
   "districtId": 9435060,
-  "name": "DEBASIGA I"
+  "districtName": "WANDAI",
+  "name": "DEBASIGA I",
+  "postalCode": ""
  },
  {
   "id": 9435060004,
   "districtId": 9435060,
-  "name": "DEBASIGA II"
+  "districtName": "WANDAI",
+  "name": "DEBASIGA II",
+  "postalCode": ""
  },
  {
   "id": 9435060005,
   "districtId": 9435060,
-  "name": "ISANDOGA"
+  "districtName": "WANDAI",
+  "name": "ISANDOGA",
+  "postalCode": ""
  },
  {
   "id": 9435060006,
   "districtId": 9435060,
-  "name": "MOGALO"
+  "districtName": "WANDAI",
+  "name": "MOGALO",
+  "postalCode": ""
  },
  {
   "id": 9435060007,
   "districtId": 9435060,
-  "name": "MBUGULO"
+  "districtName": "WANDAI",
+  "name": "MBUGULO",
+  "postalCode": ""
  },
  {
   "id": 9435060008,
   "districtId": 9435060,
-  "name": "DUBASIGA"
+  "districtName": "WANDAI",
+  "name": "DUBASIGA",
+  "postalCode": ""
  },
  {
   "id": 9435060009,
   "districtId": 9435060,
-  "name": "HULAGUPA"
+  "districtName": "WANDAI",
+  "name": "HULAGUPA",
+  "postalCode": ""
  }
 ]

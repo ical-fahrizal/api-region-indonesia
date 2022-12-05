@@ -2,51 +2,71 @@
  {
   "id": 1171040010,
   "districtId": 1171040,
-  "name": "IEMASEN KAYE ADANG"
+  "districtName": "SYIAH KUALA",
+  "name": "IEMASEN KAYE ADANG",
+  "postalCode": "23116"
  },
  {
   "id": 1171040011,
   "districtId": 1171040,
-  "name": "PINEUNG"
+  "districtName": "SYIAH KUALA",
+  "name": "PINEUNG",
+  "postalCode": "23116"
  },
  {
   "id": 1171040012,
   "districtId": 1171040,
-  "name": "LAMGUGOB"
+  "districtName": "SYIAH KUALA",
+  "name": "LAMGUGOB",
+  "postalCode": "23115"
  },
  {
   "id": 1171040013,
   "districtId": 1171040,
-  "name": "KOPELMA DARUSSALAM"
+  "districtName": "SYIAH KUALA",
+  "name": "KOPELMA DARUSSALAM",
+  "postalCode": "23111"
  },
  {
   "id": 1171040014,
   "districtId": 1171040,
-  "name": "RUKOH"
+  "districtName": "SYIAH KUALA",
+  "name": "RUKOH",
+  "postalCode": "23112"
  },
  {
   "id": 1171040015,
   "districtId": 1171040,
-  "name": "JEULINGKE"
+  "districtName": "SYIAH KUALA",
+  "name": "JEULINGKE",
+  "postalCode": "23114"
  },
  {
   "id": 1171040016,
   "districtId": 1171040,
-  "name": "TIBANG"
+  "districtName": "SYIAH KUALA",
+  "name": "TIBANG",
+  "postalCode": "24151"
  },
  {
   "id": 1171040017,
   "districtId": 1171040,
-  "name": "DEAH RAYA"
+  "districtName": "SYIAH KUALA",
+  "name": "DEAH RAYA",
+  "postalCode": "23116"
  },
  {
   "id": 1171040018,
   "districtId": 1171040,
-  "name": "ALUE NAGA"
+  "districtName": "SYIAH KUALA",
+  "name": "ALUE NAGA",
+  "postalCode": "23116"
  },
  {
   "id": 1171040019,
   "districtId": 1171040,
-  "name": "PEURADA"
+  "districtName": "SYIAH KUALA",
+  "name": "PEURADA",
+  "postalCode": ""
  }
 ]

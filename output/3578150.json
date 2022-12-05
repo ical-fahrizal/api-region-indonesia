@@ -2,31 +2,43 @@
  {
   "id": 3578150006,
   "districtId": 3578150,
-  "name": "KARANGPOH"
+  "districtName": "TANDES",
+  "name": "KARANGPOH",
+  "postalCode": "54361"
  },
  {
   "id": 3578150007,
   "districtId": 3578150,
-  "name": "BALONGSARI"
+  "districtName": "TANDES",
+  "name": "BALONGSARI",
+  "postalCode": "41382"
  },
  {
   "id": 3578150009,
   "districtId": 3578150,
-  "name": "MANUKAN WETAN"
+  "districtName": "TANDES",
+  "name": "MANUKAN WETAN",
+  "postalCode": ""
  },
  {
   "id": 3578150010,
   "districtId": 3578150,
-  "name": "MANUKAN KULON"
+  "districtName": "TANDES",
+  "name": "MANUKAN KULON",
+  "postalCode": "60185"
  },
  {
   "id": 3578150011,
   "districtId": 3578150,
-  "name": "BANJAR SUGIHAN"
+  "districtName": "TANDES",
+  "name": "BANJAR SUGIHAN",
+  "postalCode": ""
  },
  {
   "id": 3578150013,
   "districtId": 3578150,
-  "name": "TANDES"
+  "districtName": "TANDES",
+  "name": "TANDES",
+  "postalCode": ""
  }
 ]

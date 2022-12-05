@@ -2,66 +2,92 @@
  {
   "id": 1403080001,
   "districtId": 1403080,
-  "name": "KUALA SEBATU"
+  "districtName": "BATANG TUAKA",
+  "name": "KUALA SEBATU",
+  "postalCode": "29252"
  },
  {
   "id": 1403080002,
   "districtId": 1403080,
-  "name": "SUNGAI RAYA"
+  "districtName": "BATANG TUAKA",
+  "name": "SUNGAI RAYA",
+  "postalCode": "22254"
  },
  {
   "id": 1403080003,
   "districtId": 1403080,
-  "name": "SUNGAI JUNJANGAN"
+  "districtName": "BATANG TUAKA",
+  "name": "SUNGAI JUNJANGAN",
+  "postalCode": "29252"
  },
  {
   "id": 1403080004,
   "districtId": 1403080,
-  "name": "SUNGAI LUAR"
+  "districtName": "BATANG TUAKA",
+  "name": "SUNGAI LUAR",
+  "postalCode": "29252"
  },
  {
   "id": 1403080005,
   "districtId": 1403080,
-  "name": "SUNGAI DUSUN"
+  "districtName": "BATANG TUAKA",
+  "name": "SUNGAI DUSUN",
+  "postalCode": "29252"
  },
  {
   "id": 1403080006,
   "districtId": 1403080,
-  "name": "SUNGAI PIRING"
+  "districtName": "BATANG TUAKA",
+  "name": "SUNGAI PIRING",
+  "postalCode": "29252"
  },
  {
   "id": 1403080007,
   "districtId": 1403080,
-  "name": "TANJUNG SIANTAR"
+  "districtName": "BATANG TUAKA",
+  "name": "TANJUNG SIANTAR",
+  "postalCode": "29252"
  },
  {
   "id": 1403080008,
   "districtId": 1403080,
-  "name": "SUNGAI RAWA"
+  "districtName": "BATANG TUAKA",
+  "name": "SUNGAI RAWA",
+  "postalCode": "29252"
  },
  {
   "id": 1403080009,
   "districtId": 1403080,
-  "name": "SIALANG JAYA"
+  "districtName": "BATANG TUAKA",
+  "name": "SIALANG JAYA",
+  "postalCode": "29252"
  },
  {
   "id": 1403080010,
   "districtId": 1403080,
-  "name": "GEMILANG JAYA"
+  "districtName": "BATANG TUAKA",
+  "name": "GEMILANG JAYA",
+  "postalCode": "29252"
  },
  {
   "id": 1403080011,
   "districtId": 1403080,
-  "name": "TASIK RAYA"
+  "districtName": "BATANG TUAKA",
+  "name": "TASIK RAYA",
+  "postalCode": "29252"
  },
  {
   "id": 1403080012,
   "districtId": 1403080,
-  "name": "PASIR EMAS"
+  "districtName": "BATANG TUAKA",
+  "name": "PASIR EMAS",
+  "postalCode": "29252"
  },
  {
   "id": 1403080013,
   "districtId": 1403080,
-  "name": "SIMPANG JAYA"
+  "districtName": "BATANG TUAKA",
+  "name": "SIMPANG JAYA",
+  "postalCode": "24251"
  }
 ]

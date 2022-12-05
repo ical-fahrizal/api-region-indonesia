@@ -2,51 +2,71 @@
  {
   "id": 3601031001,
   "districtId": 3601031,
-  "name": "CITELUK"
+  "districtName": "CIBITUNG",
+  "name": "CITELUK",
+  "postalCode": "42285"
  },
  {
   "id": 3601031002,
   "districtId": 3601031,
-  "name": "SINDANGKERTA"
+  "districtName": "CIBITUNG",
+  "name": "SINDANGKERTA",
+  "postalCode": "46189"
  },
  {
   "id": 3601031003,
   "districtId": 3601031,
-  "name": "KIARAJANGKUNG"
+  "districtName": "CIBITUNG",
+  "name": "KIARAJANGKUNG",
+  "postalCode": "46155"
  },
  {
   "id": 3601031004,
   "districtId": 3601031,
-  "name": "KUTAKARANG"
+  "districtName": "CIBITUNG",
+  "name": "KUTAKARANG",
+  "postalCode": "42285"
  },
  {
   "id": 3601031005,
   "districtId": 3601031,
-  "name": "CIKIRUH"
+  "districtName": "CIBITUNG",
+  "name": "CIKIRUH",
+  "postalCode": "42285"
  },
  {
   "id": 3601031006,
   "districtId": 3601031,
-  "name": "MALANGNENGAH"
+  "districtName": "CIBITUNG",
+  "name": "MALANGNENGAH",
+  "postalCode": "41167"
  },
  {
   "id": 3601031007,
   "districtId": 3601031,
-  "name": "CIKADU"
+  "districtName": "CIBITUNG",
+  "name": "CIKADU",
+  "postalCode": "41181"
  },
  {
   "id": 3601031008,
   "districtId": 3601031,
-  "name": "MANGLID"
+  "districtName": "CIBITUNG",
+  "name": "MANGLID",
+  "postalCode": "42285"
  },
  {
   "id": 3601031009,
   "districtId": 3601031,
-  "name": "KIARAPAYUNG"
+  "districtName": "CIBITUNG",
+  "name": "KIARAPAYUNG",
+  "postalCode": "41371"
  },
  {
   "id": 3601031010,
   "districtId": 3601031,
-  "name": "CIKALONG"
+  "districtName": "CIBITUNG",
+  "name": "CIKALONG",
+  "postalCode": "40556"
  }
 ]

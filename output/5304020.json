@@ -2,36 +2,50 @@
  {
   "id": 5304020004,
   "districtId": 5304020,
-  "name": "TUASENE"
+  "districtName": "MOLLO SELATAN",
+  "name": "TUASENE",
+  "postalCode": "85561"
  },
  {
   "id": 5304020005,
   "districtId": 5304020,
-  "name": "BILOTO"
+  "districtName": "MOLLO SELATAN",
+  "name": "BILOTO",
+  "postalCode": "85561"
  },
  {
   "id": 5304020006,
   "districtId": 5304020,
-  "name": "BISENE"
+  "districtName": "MOLLO SELATAN",
+  "name": "BISENE",
+  "postalCode": "85561"
  },
  {
   "id": 5304020007,
   "districtId": 5304020,
-  "name": "BIKEKNENO"
+  "districtName": "MOLLO SELATAN",
+  "name": "BIKEKNENO",
+  "postalCode": "85561"
  },
  {
   "id": 5304020008,
   "districtId": 5304020,
-  "name": "KESETNANA"
+  "districtName": "MOLLO SELATAN",
+  "name": "KESETNANA",
+  "postalCode": "85561"
  },
  {
   "id": 5304020009,
   "districtId": 5304020,
-  "name": "OINLASI"
+  "districtName": "MOLLO SELATAN",
+  "name": "OINLASI",
+  "postalCode": "85573"
  },
  {
   "id": 5304020010,
   "districtId": 5304020,
-  "name": "KLANI/NOINBILA"
+  "districtName": "MOLLO SELATAN",
+  "name": "KLANI/NOINBILA",
+  "postalCode": ""
  }
 ]

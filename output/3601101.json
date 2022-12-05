@@ -2,46 +2,64 @@
  {
   "id": 3601101001,
   "districtId": 3601101,
-  "name": "KONDANGJAYA"
+  "districtName": "CISATA",
+  "name": "KONDANGJAYA",
+  "postalCode": "41371"
  },
  {
   "id": 3601101002,
   "districtId": 3601101,
-  "name": "KUBANGKONDANG"
+  "districtName": "CISATA",
+  "name": "KUBANGKONDANG",
+  "postalCode": "42273"
  },
  {
   "id": 3601101003,
   "districtId": 3601101,
-  "name": "CISEREH"
+  "districtName": "CISATA",
+  "name": "CISEREH",
+  "postalCode": "42273"
  },
  {
   "id": 3601101004,
   "districtId": 3601101,
-  "name": "CIBARANI"
+  "districtName": "CISATA",
+  "name": "CIBARANI",
+  "postalCode": "42363"
  },
  {
   "id": 3601101005,
   "districtId": 3601101,
-  "name": "RAWASARI"
+  "districtName": "CISATA",
+  "name": "RAWASARI",
+  "postalCode": "24185"
  },
  {
   "id": 3601101006,
   "districtId": 3601101,
-  "name": "PASIREURIH"
+  "districtName": "CISATA",
+  "name": "PASIREURIH",
+  "postalCode": "16610"
  },
  {
   "id": 3601101007,
   "districtId": 3601101,
-  "name": "KADURONYOK"
+  "districtName": "CISATA",
+  "name": "KADURONYOK",
+  "postalCode": "42273"
  },
  {
   "id": 3601101008,
   "districtId": 3601101,
-  "name": "CIHERANGJAYA"
+  "districtName": "CISATA",
+  "name": "CIHERANGJAYA",
+  "postalCode": "42273"
  },
  {
   "id": 3601101009,
   "districtId": 3601101,
-  "name": "PALEMBANG"
+  "districtName": "CISATA",
+  "name": "PALEMBANG",
+  "postalCode": "42273"
  }
 ]

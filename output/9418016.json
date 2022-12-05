@@ -2,51 +2,71 @@
  {
   "id": 9418016001,
   "districtId": 9418016,
-  "name": "BOGONUK"
+  "districtName": "BOGONUK",
+  "name": "BOGONUK",
+  "postalCode": "99568"
  },
  {
   "id": 9418016002,
   "districtId": 9418016,
-  "name": "ANDOMAK"
+  "districtName": "BOGONUK",
+  "name": "ANDOMAK",
+  "postalCode": "99568"
  },
  {
   "id": 9418016003,
   "districtId": 9418016,
-  "name": "WISMAN"
+  "districtName": "BOGONUK",
+  "name": "WISMAN",
+  "postalCode": "99568"
  },
  {
   "id": 9418016004,
   "districtId": 9418016,
-  "name": "PABA"
+  "districtName": "BOGONUK",
+  "name": "PABA",
+  "postalCode": "99568"
  },
  {
   "id": 9418016005,
   "districtId": 9418016,
-  "name": "EWAN"
+  "districtName": "BOGONUK",
+  "name": "EWAN",
+  "postalCode": "99568"
  },
  {
   "id": 9418016006,
   "districtId": 9418016,
-  "name": "WUMELAK"
+  "districtName": "BOGONUK",
+  "name": "WUMELAK",
+  "postalCode": "99568"
  },
  {
   "id": 9418016007,
   "districtId": 9418016,
-  "name": "WALELO"
+  "districtName": "BOGONUK",
+  "name": "WALELO",
+  "postalCode": "99568"
  },
  {
   "id": 9418016008,
   "districtId": 9418016,
-  "name": "LAURA"
+  "districtName": "BOGONUK",
+  "name": "LAURA",
+  "postalCode": "99568"
  },
  {
   "id": 9418016009,
   "districtId": 9418016,
-  "name": "TALINAMBER"
+  "districtName": "BOGONUK",
+  "name": "TALINAMBER",
+  "postalCode": "99568"
  },
  {
   "id": 9418016010,
   "districtId": 9418016,
-  "name": "ALINDUDA"
+  "districtName": "BOGONUK",
+  "name": "ALINDUDA",
+  "postalCode": ""
  }
 ]

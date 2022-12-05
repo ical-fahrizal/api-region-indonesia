@@ -2,41 +2,57 @@
  {
   "id": 7402081001,
   "districtId": 7402081,
-  "name": "BANGUN SARI"
+  "districtName": "LASALEPA",
+  "name": "BANGUN SARI",
+  "postalCode": "24782"
  },
  {
   "id": 7402081002,
   "districtId": 7402081,
-  "name": "LASALEPA"
+  "districtName": "LASALEPA",
+  "name": "LASALEPA",
+  "postalCode": "93654"
  },
  {
   "id": 7402081003,
   "districtId": 7402081,
-  "name": "PARIDA"
+  "districtName": "LASALEPA",
+  "name": "PARIDA",
+  "postalCode": "93654"
  },
  {
   "id": 7402081004,
   "districtId": 7402081,
-  "name": "LABUNTI"
+  "districtName": "LASALEPA",
+  "name": "LABUNTI",
+  "postalCode": "93654"
  },
  {
   "id": 7402081005,
   "districtId": 7402081,
-  "name": "BONEA"
+  "districtName": "LASALEPA",
+  "name": "BONEA",
+  "postalCode": "92862"
  },
  {
   "id": 7402081006,
   "districtId": 7402081,
-  "name": "LABONE"
+  "districtName": "LASALEPA",
+  "name": "LABONE",
+  "postalCode": "93654"
  },
  {
   "id": 7402081007,
   "districtId": 7402081,
-  "name": "KOMBUNGO"
+  "districtName": "LASALEPA",
+  "name": "KOMBUNGO",
+  "postalCode": "93654"
  },
  {
   "id": 7402081008,
   "districtId": 7402081,
-  "name": "RODA"
+  "districtName": "LASALEPA",
+  "name": "RODA",
+  "postalCode": "93395"
  }
 ]

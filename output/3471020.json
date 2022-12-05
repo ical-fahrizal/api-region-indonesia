@@ -2,16 +2,22 @@
  {
   "id": 3471020001,
   "districtId": 3471020,
-  "name": "PATEHAN"
+  "districtName": "KRATON",
+  "name": "PATEHAN",
+  "postalCode": "55133"
  },
  {
   "id": 3471020002,
   "districtId": 3471020,
-  "name": "PANEMBAHAN"
+  "districtName": "KRATON",
+  "name": "PANEMBAHAN",
+  "postalCode": "45154"
  },
  {
   "id": 3471020003,
   "districtId": 3471020,
-  "name": "KADIPATEN"
+  "districtName": "KRATON",
+  "name": "KADIPATEN",
+  "postalCode": "45452"
  }
 ]

@@ -2,21 +2,29 @@
  {
   "id": 3173040001,
   "districtId": 3173040,
-  "name": "JOHAR BARU"
+  "districtName": "JOHAR BARU",
+  "name": "JOHAR BARU",
+  "postalCode": "10560"
  },
  {
   "id": 3173040002,
   "districtId": 3173040,
-  "name": "KAMPUNG RAWA"
+  "districtName": "JOHAR BARU",
+  "name": "KAMPUNG RAWA",
+  "postalCode": "10550"
  },
  {
   "id": 3173040003,
   "districtId": 3173040,
-  "name": "TANAH TINGGI"
+  "districtName": "JOHAR BARU",
+  "name": "TANAH TINGGI",
+  "postalCode": "21256"
  },
  {
   "id": 3173040004,
   "districtId": 3173040,
-  "name": "GALUR"
+  "districtName": "JOHAR BARU",
+  "name": "GALUR",
+  "postalCode": "10530"
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 7471021001,
   "districtId": 7471021,
-  "name": "BENUA NIRAE"
+  "districtName": "ABELI",
+  "name": "BENUA NIRAE",
+  "postalCode": "93234"
  },
  {
   "id": 7471021002,
   "districtId": 7471021,
-  "name": "PUDAI"
+  "districtName": "ABELI",
+  "name": "PUDAI",
+  "postalCode": ""
  },
  {
   "id": 7471021004,
   "districtId": 7471021,
-  "name": "LAPULU"
+  "districtName": "ABELI",
+  "name": "LAPULU",
+  "postalCode": "93234"
  },
  {
   "id": 7471021005,
   "districtId": 7471021,
-  "name": "ABELI"
+  "districtName": "ABELI",
+  "name": "ABELI",
+  "postalCode": "93234"
  },
  {
   "id": 7471021006,
   "districtId": 7471021,
-  "name": "ANGGOLOMELAI"
+  "districtName": "ABELI",
+  "name": "ANGGOLOMELAI",
+  "postalCode": ""
  },
  {
   "id": 7471021008,
   "districtId": 7471021,
-  "name": "POASIA"
+  "districtName": "ABELI",
+  "name": "POASIA",
+  "postalCode": "93235"
  },
  {
   "id": 7471021009,
   "districtId": 7471021,
-  "name": "TALIA"
+  "districtName": "ABELI",
+  "name": "TALIA",
+  "postalCode": "93235"
  }
 ]

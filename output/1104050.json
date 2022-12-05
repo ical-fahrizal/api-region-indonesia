@@ -2,91 +2,127 @@
  {
   "id": 1104050002,
   "districtId": 1104050,
-  "name": "KAMPUNG BARU"
+  "districtName": "BADAR",
+  "name": "KAMPUNG BARU",
+  "postalCode": "24652"
  },
  {
   "id": 1104050003,
   "districtId": 1104050,
-  "name": "PURWODADI"
+  "districtName": "BADAR",
+  "name": "PURWODADI",
+  "postalCode": "24652"
  },
  {
   "id": 1104050004,
   "districtId": 1104050,
-  "name": "LAWE BEKUNG"
+  "districtName": "BADAR",
+  "name": "LAWE BEKUNG",
+  "postalCode": "24652"
  },
  {
   "id": 1104050005,
   "districtId": 1104050,
-  "name": "SALANG ALAS"
+  "districtName": "BADAR",
+  "name": "SALANG ALAS",
+  "postalCode": "24652"
  },
  {
   "id": 1104050006,
   "districtId": 1104050,
-  "name": "KUTA TINGGI"
+  "districtName": "BADAR",
+  "name": "KUTA TINGGI",
+  "postalCode": "23764"
  },
  {
   "id": 1104050014,
   "districtId": 1104050,
-  "name": "PERANGINAN"
+  "districtName": "BADAR",
+  "name": "PERANGINAN",
+  "postalCode": "24652"
  },
  {
   "id": 1104050015,
   "districtId": 1104050,
-  "name": "KUTA PASIR"
+  "districtName": "BADAR",
+  "name": "KUTA PASIR",
+  "postalCode": ""
  },
  {
   "id": 1104050022,
   "districtId": 1104050,
-  "name": "NATAM"
+  "districtName": "BADAR",
+  "name": "NATAM",
+  "postalCode": "24652"
  },
  {
   "id": 1104050034,
   "districtId": 1104050,
-  "name": "KUMBANG JAYA"
+  "districtName": "BADAR",
+  "name": "KUMBANG JAYA",
+  "postalCode": "24652"
  },
  {
   "id": 1104050035,
   "districtId": 1104050,
-  "name": "KUMBANG INDAH"
+  "districtName": "BADAR",
+  "name": "KUMBANG INDAH",
+  "postalCode": "24652"
  },
  {
   "id": 1104050036,
   "districtId": 1104050,
-  "name": "DELENG MEGAKHE"
+  "districtName": "BADAR",
+  "name": "DELENG MEGAKHE",
+  "postalCode": "24652"
  },
  {
   "id": 1104050037,
   "districtId": 1104050,
-  "name": "LAWE BEKUNG TEMPAHAN"
+  "districtName": "BADAR",
+  "name": "LAWE BEKUNG TEMPAHAN",
+  "postalCode": ""
  },
  {
   "id": 1104050038,
   "districtId": 1104050,
-  "name": "BADAR INDAH"
+  "districtName": "BADAR",
+  "name": "BADAR INDAH",
+  "postalCode": "24652"
  },
  {
   "id": 1104050040,
   "districtId": 1104050,
-  "name": "NATAM BARU"
+  "districtName": "BADAR",
+  "name": "NATAM BARU",
+  "postalCode": "24652"
  },
  {
   "id": 1104050041,
   "districtId": 1104050,
-  "name": "TANAH MERAH"
+  "districtName": "BADAR",
+  "name": "TANAH MERAH",
+  "postalCode": "24652"
  },
  {
   "id": 1104050042,
   "districtId": 1104050,
-  "name": "BATU MBERONG"
+  "districtName": "BADAR",
+  "name": "BATU MBERONG",
+  "postalCode": "24652"
  },
  {
   "id": 1104050043,
   "districtId": 1104050,
-  "name": "LAWE SEKERAH"
+  "districtName": "BADAR",
+  "name": "LAWE SEKERAH",
+  "postalCode": ""
  },
  {
   "id": 1104050044,
   "districtId": 1104050,
-  "name": "TANOH MEGAKHE"
+  "districtName": "BADAR",
+  "name": "TANOH MEGAKHE",
+  "postalCode": "24652"
  }
 ]

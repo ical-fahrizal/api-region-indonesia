@@ -2,66 +2,92 @@
  {
   "id": 5206010005,
   "districtId": 5206010,
-  "name": "TOLOTANGGA"
+  "districtName": "MONTA",
+  "name": "TOLOTANGGA",
+  "postalCode": "84172"
  },
  {
   "id": 5206010006,
   "districtId": 5206010,
-  "name": "SONDO"
+  "districtName": "MONTA",
+  "name": "SONDO",
+  "postalCode": "84172"
  },
  {
   "id": 5206010007,
   "districtId": 5206010,
-  "name": "SIMPASAI"
+  "districtName": "MONTA",
+  "name": "SIMPASAI",
+  "postalCode": "84182"
  },
  {
   "id": 5206010008,
   "districtId": 5206010,
-  "name": "SIE"
+  "districtName": "MONTA",
+  "name": "SIE",
+  "postalCode": "84172"
  },
  {
   "id": 5206010009,
   "districtId": 5206010,
-  "name": "TANGGA"
+  "districtName": "MONTA",
+  "name": "TANGGA",
+  "postalCode": "21274"
  },
  {
   "id": 5206010010,
   "districtId": 5206010,
-  "name": "MONTA"
+  "districtName": "MONTA",
+  "name": "MONTA",
+  "postalCode": "84172"
  },
  {
   "id": 5206010012,
   "districtId": 5206010,
-  "name": "BARALAU"
+  "districtName": "MONTA",
+  "name": "BARALAU",
+  "postalCode": "84172"
  },
  {
   "id": 5206010014,
   "districtId": 5206010,
-  "name": "TOLOUWI"
+  "districtName": "MONTA",
+  "name": "TOLOUWI",
+  "postalCode": "84172"
  },
  {
   "id": 5206010015,
   "districtId": 5206010,
-  "name": "WILLAMACI"
+  "districtName": "MONTA",
+  "name": "WILLAMACI",
+  "postalCode": "84172"
  },
  {
   "id": 5206010016,
   "districtId": 5206010,
-  "name": "PELA"
+  "districtName": "MONTA",
+  "name": "PELA",
+  "postalCode": "84172"
  },
  {
   "id": 5206010017,
   "districtId": 5206010,
-  "name": "TANGGA BARU"
+  "districtName": "MONTA",
+  "name": "TANGGA BARU",
+  "postalCode": "84172"
  },
  {
   "id": 5206010018,
   "districtId": 5206010,
-  "name": "NONTOTERA"
+  "districtName": "MONTA",
+  "name": "NONTOTERA",
+  "postalCode": ""
  },
  {
   "id": 5206010019,
   "districtId": 5206010,
-  "name": "WARO"
+  "districtName": "MONTA",
+  "name": "WARO",
+  "postalCode": ""
  }
 ]

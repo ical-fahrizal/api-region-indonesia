@@ -2,56 +2,78 @@
  {
   "id": 3210021001,
   "districtId": 3210021,
-  "name": "BUNINAGARA"
+  "districtName": "MALAUSMA",
+  "name": "BUNINAGARA",
+  "postalCode": "40911"
  },
  {
   "id": 3210021002,
   "districtId": 3210021,
-  "name": "WERASARI"
+  "districtName": "MALAUSMA",
+  "name": "WERASARI",
+  "postalCode": "45464"
  },
  {
   "id": 3210021003,
   "districtId": 3210021,
-  "name": "MALAUSMA"
+  "districtName": "MALAUSMA",
+  "name": "MALAUSMA",
+  "postalCode": "45464"
  },
  {
   "id": 3210021004,
   "districtId": 3210021,
-  "name": "BANYUSARI"
+  "districtName": "MALAUSMA",
+  "name": "BANYUSARI",
+  "postalCode": "40921"
  },
  {
   "id": 3210021005,
   "districtId": 3210021,
-  "name": "JAGAMULYA"
+  "districtName": "MALAUSMA",
+  "name": "JAGAMULYA",
+  "postalCode": "45464"
  },
  {
   "id": 3210021006,
   "districtId": 3210021,
-  "name": "CIMUNCANG"
+  "districtName": "MALAUSMA",
+  "name": "CIMUNCANG",
+  "postalCode": "44113"
  },
  {
   "id": 3210021007,
   "districtId": 3210021,
-  "name": "CIRANCA"
+  "districtName": "MALAUSMA",
+  "name": "CIRANCA",
+  "postalCode": "45464"
  },
  {
   "id": 3210021008,
   "districtId": 3210021,
-  "name": "LEBAKWANGI"
+  "districtName": "MALAUSMA",
+  "name": "LEBAKWANGI",
+  "postalCode": "40379"
  },
  {
   "id": 3210021009,
   "districtId": 3210021,
-  "name": "SUKADANA"
+  "districtName": "MALAUSMA",
+  "name": "SUKADANA",
+  "postalCode": "30611"
  },
  {
   "id": 3210021010,
   "districtId": 3210021,
-  "name": "GIRIMUKTI"
+  "districtName": "MALAUSMA",
+  "name": "GIRIMUKTI",
+  "postalCode": "46475"
  },
  {
   "id": 3210021011,
   "districtId": 3210021,
-  "name": "KRAMATJAYA"
+  "districtName": "MALAUSMA",
+  "name": "KRAMATJAYA",
+  "postalCode": "42284"
  }
 ]

@@ -2,81 +2,113 @@
  {
   "id": 6211050001,
   "districtId": 6211050,
-  "name": "SARERANGAN"
+  "districtName": "TEWAH",
+  "name": "SARERANGAN",
+  "postalCode": "74552"
  },
  {
   "id": 6211050002,
   "districtId": 6211050,
-  "name": "TUMBANG PAJANGEI"
+  "districtName": "TEWAH",
+  "name": "TUMBANG PAJANGEI",
+  "postalCode": "74552"
  },
  {
   "id": 6211050003,
   "districtId": 6211050,
-  "name": "SUMUR MAS"
+  "districtName": "TEWAH",
+  "name": "SUMUR MAS",
+  "postalCode": "74552"
  },
  {
   "id": 6211050004,
   "districtId": 6211050,
-  "name": "TEWAH"
+  "districtName": "TEWAH",
+  "name": "TEWAH",
+  "postalCode": "74552"
  },
  {
   "id": 6211050005,
   "districtId": 6211050,
-  "name": "KASINTU"
+  "districtName": "TEWAH",
+  "name": "KASINTU",
+  "postalCode": "74552"
  },
  {
   "id": 6211050006,
   "districtId": 6211050,
-  "name": "UPON BATU"
+  "districtName": "TEWAH",
+  "name": "UPON BATU",
+  "postalCode": ""
  },
  {
   "id": 6211050007,
   "districtId": 6211050,
-  "name": "BATU NYIWUH"
+  "districtName": "TEWAH",
+  "name": "BATU NYIWUH",
+  "postalCode": "74552"
  },
  {
   "id": 6211050008,
   "districtId": 6211050,
-  "name": "TUMBANG HABAON"
+  "districtName": "TEWAH",
+  "name": "TUMBANG HABAON",
+  "postalCode": "74552"
  },
  {
   "id": 6211050009,
   "districtId": 6211050,
-  "name": "TANJUNG UNTUNG"
+  "districtName": "TEWAH",
+  "name": "TANJUNG UNTUNG",
+  "postalCode": "74552"
  },
  {
   "id": 6211050010,
   "districtId": 6211050,
-  "name": "SANDUNG TAMBUN"
+  "districtName": "TEWAH",
+  "name": "SANDUNG TAMBUN",
+  "postalCode": "74552"
  },
  {
   "id": 6211050011,
   "districtId": 6211050,
-  "name": "SEI RIANG"
+  "districtName": "TEWAH",
+  "name": "SEI RIANG",
+  "postalCode": ""
  },
  {
   "id": 6211050012,
   "districtId": 6211050,
-  "name": "BATU  NYAPAU"
+  "districtName": "TEWAH",
+  "name": "BATU  NYAPAU",
+  "postalCode": ""
  },
  {
   "id": 6211050013,
   "districtId": 6211050,
-  "name": "RANGAN MIHING"
+  "districtName": "TEWAH",
+  "name": "RANGAN MIHING",
+  "postalCode": "74552"
  },
  {
   "id": 6211050014,
   "districtId": 6211050,
-  "name": "TELUK LAWAH"
+  "districtName": "TEWAH",
+  "name": "TELUK LAWAH",
+  "postalCode": "74552"
  },
  {
   "id": 6211050015,
   "districtId": 6211050,
-  "name": "TAJA URAP"
+  "districtName": "TEWAH",
+  "name": "TAJA URAP",
+  "postalCode": ""
  },
  {
   "id": 6211050016,
   "districtId": 6211050,
-  "name": "KARASON"
+  "districtName": "TEWAH",
+  "name": "KARASON",
+  "postalCode": ""
  }
 ]

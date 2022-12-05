@@ -2,51 +2,71 @@
  {
   "id": 3374070001,
   "districtId": 3374070,
-  "name": "ROWOSARI"
+  "districtName": "TEMBALANG",
+  "name": "ROWOSARI",
+  "postalCode": "54395"
  },
  {
   "id": 3374070003,
   "districtId": 3374070,
-  "name": "KRAMAS"
+  "districtName": "TEMBALANG",
+  "name": "KRAMAS",
+  "postalCode": "50278"
  },
  {
   "id": 3374070004,
   "districtId": 3374070,
-  "name": "TEMBALANG"
+  "districtName": "TEMBALANG",
+  "name": "TEMBALANG",
+  "postalCode": "50275"
  },
  {
   "id": 3374070005,
   "districtId": 3374070,
-  "name": "BULUSAN"
+  "districtName": "TEMBALANG",
+  "name": "BULUSAN",
+  "postalCode": "57464"
  },
  {
   "id": 3374070006,
   "districtId": 3374070,
-  "name": "MANGUNHARJO"
+  "districtName": "TEMBALANG",
+  "name": "MANGUNHARJO",
+  "postalCode": "54363"
  },
  {
   "id": 3374070007,
   "districtId": 3374070,
-  "name": "SENDANGMULYO"
+  "districtName": "TEMBALANG",
+  "name": "SENDANGMULYO",
+  "postalCode": "59255"
  },
  {
   "id": 3374070008,
   "districtId": 3374070,
-  "name": "SAMBIROTO"
+  "districtName": "TEMBALANG",
+  "name": "SAMBIROTO",
+  "postalCode": "59581"
  },
  {
   "id": 3374070009,
   "districtId": 3374070,
-  "name": "JANGLI"
+  "districtName": "TEMBALANG",
+  "name": "JANGLI",
+  "postalCode": "50274"
  },
  {
   "id": 3374070010,
   "districtId": 3374070,
-  "name": "TANDANG"
+  "districtName": "TEMBALANG",
+  "name": "TANDANG",
+  "postalCode": "50274"
  },
  {
   "id": 3374070012,
   "districtId": 3374070,
-  "name": "SENDANGGUWO"
+  "districtName": "TEMBALANG",
+  "name": "SENDANGGUWO",
+  "postalCode": "50273"
  }
 ]

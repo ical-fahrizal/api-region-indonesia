@@ -2,61 +2,85 @@
  {
   "id": 7201062001,
   "districtId": 7201062,
-  "name": "BANGUNEMO"
+  "districtName": "BULAGI UTARA",
+  "name": "BANGUNEMO",
+  "postalCode": "94882"
  },
  {
   "id": 7201062002,
   "districtId": 7201062,
-  "name": "PAISULUNO"
+  "districtName": "BULAGI UTARA",
+  "name": "PAISULUNO",
+  "postalCode": "94882"
  },
  {
   "id": 7201062003,
   "districtId": 7201062,
-  "name": "MONTOP"
+  "districtName": "BULAGI UTARA",
+  "name": "MONTOP",
+  "postalCode": "94882"
  },
  {
   "id": 7201062004,
   "districtId": 7201062,
-  "name": "BOLUBUNG"
+  "districtName": "BULAGI UTARA",
+  "name": "BOLUBUNG",
+  "postalCode": "94882"
  },
  {
   "id": 7201062005,
   "districtId": 7201062,
-  "name": "BAKALINGA"
+  "districtName": "BULAGI UTARA",
+  "name": "BAKALINGA",
+  "postalCode": "94882"
  },
  {
   "id": 7201062006,
   "districtId": 7201062,
-  "name": "SAMBULANGAN"
+  "districtName": "BULAGI UTARA",
+  "name": "SAMBULANGAN",
+  "postalCode": "94882"
  },
  {
   "id": 7201062007,
   "districtId": 7201062,
-  "name": "KOYOBUNGA"
+  "districtName": "BULAGI UTARA",
+  "name": "KOYOBUNGA",
+  "postalCode": "94882"
  },
  {
   "id": 7201062008,
   "districtId": 7201062,
-  "name": "SABANG"
+  "districtName": "BULAGI UTARA",
+  "name": "SABANG",
+  "postalCode": "94882"
  },
  {
   "id": 7201062009,
   "districtId": 7201062,
-  "name": "OMBULI"
+  "districtName": "BULAGI UTARA",
+  "name": "OMBULI",
+  "postalCode": "94882"
  },
  {
   "id": 7201062010,
   "districtId": 7201062,
-  "name": "LUK PANENTENG"
+  "districtName": "BULAGI UTARA",
+  "name": "LUK PANENTENG",
+  "postalCode": "94882"
  },
  {
   "id": 7201062011,
   "districtId": 7201062,
-  "name": "MINANGA"
+  "districtName": "BULAGI UTARA",
+  "name": "MINANGA",
+  "postalCode": "95763"
  },
  {
   "id": 7201062012,
   "districtId": 7201062,
-  "name": "MANDOK"
+  "districtName": "BULAGI UTARA",
+  "name": "MANDOK",
+  "postalCode": "94882"
  }
 ]

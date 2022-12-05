@@ -2,36 +2,50 @@
  {
   "id": 3215200001,
   "districtId": 3215200,
-  "name": "TALAGAJAYA"
+  "districtName": "PAKISJAYA",
+  "name": "TALAGAJAYA",
+  "postalCode": "44172"
  },
  {
   "id": 3215200003,
   "districtId": 3215200,
-  "name": "TANAHBARU"
+  "districtName": "PAKISJAYA",
+  "name": "TANAHBARU",
+  "postalCode": "41355"
  },
  {
   "id": 3215200004,
   "districtId": 3215200,
-  "name": "SOLOKAN"
+  "districtName": "PAKISJAYA",
+  "name": "SOLOKAN",
+  "postalCode": "41355"
  },
  {
   "id": 3215200005,
   "districtId": 3215200,
-  "name": "TANJUNGBUNGIN"
+  "districtName": "PAKISJAYA",
+  "name": "TANJUNGBUNGIN",
+  "postalCode": "41355"
  },
  {
   "id": 3215200006,
   "districtId": 3215200,
-  "name": "TANJUNGMEKAR"
+  "districtName": "PAKISJAYA",
+  "name": "TANJUNGMEKAR",
+  "postalCode": "46175"
  },
  {
   "id": 3215200007,
   "districtId": 3215200,
-  "name": "TANJUNGPAKIS"
+  "districtName": "PAKISJAYA",
+  "name": "TANJUNGPAKIS",
+  "postalCode": "41355"
  },
  {
   "id": 3215200008,
   "districtId": 3215200,
-  "name": "TELUKJAYA"
+  "districtName": "PAKISJAYA",
+  "name": "TELUKJAYA",
+  "postalCode": "41355"
  }
 ]

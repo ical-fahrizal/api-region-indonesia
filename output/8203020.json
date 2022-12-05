@@ -2,56 +2,78 @@
  {
   "id": 8203020015,
   "districtId": 8203020,
-  "name": "WAILAU"
+  "districtName": "SANANA",
+  "name": "WAILAU",
+  "postalCode": "97795"
  },
  {
   "id": 8203020017,
   "districtId": 8203020,
-  "name": "PASTINA"
+  "districtName": "SANANA",
+  "name": "PASTINA",
+  "postalCode": "97795"
  },
  {
   "id": 8203020018,
   "districtId": 8203020,
-  "name": "UMALOYA"
+  "districtName": "SANANA",
+  "name": "UMALOYA",
+  "postalCode": "97795"
  },
  {
   "id": 8203020019,
   "districtId": 8203020,
-  "name": "WAI IPA"
+  "districtName": "SANANA",
+  "name": "WAI IPA",
+  "postalCode": "97795"
  },
  {
   "id": 8203020020,
   "districtId": 8203020,
-  "name": "WAI HAMA"
+  "districtName": "SANANA",
+  "name": "WAI HAMA",
+  "postalCode": ""
  },
  {
   "id": 8203020021,
   "districtId": 8203020,
-  "name": "FOGI"
+  "districtName": "SANANA",
+  "name": "FOGI",
+  "postalCode": "97572"
  },
  {
   "id": 8203020022,
   "districtId": 8203020,
-  "name": "FATCE"
+  "districtName": "SANANA",
+  "name": "FATCE",
+  "postalCode": ""
  },
  {
   "id": 8203020023,
   "districtId": 8203020,
-  "name": "FALAHU"
+  "districtName": "SANANA",
+  "name": "FALAHU",
+  "postalCode": "97795"
  },
  {
   "id": 8203020024,
   "districtId": 8203020,
-  "name": "FAGUDU"
+  "districtName": "SANANA",
+  "name": "FAGUDU",
+  "postalCode": "97795"
  },
  {
   "id": 8203020025,
   "districtId": 8203020,
-  "name": "MANGON"
+  "districtName": "SANANA",
+  "name": "MANGON",
+  "postalCode": "97795"
  },
  {
   "id": 8203020026,
   "districtId": 8203020,
-  "name": "WAIBAU"
+  "districtName": "SANANA",
+  "name": "WAIBAU",
+  "postalCode": "97795"
  }
 ]

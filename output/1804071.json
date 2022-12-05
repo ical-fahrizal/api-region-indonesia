@@ -2,36 +2,50 @@
  {
   "id": 1804071001,
   "districtId": 1804071,
-  "name": "TULUNGPASIK"
+  "districtName": "MATARAM BARU",
+  "name": "TULUNGPASIK",
+  "postalCode": "34199"
  },
  {
   "id": 1804071002,
   "districtId": 1804071,
-  "name": "MANDALA SARI"
+  "districtName": "MATARAM BARU",
+  "name": "MANDALA SARI",
+  "postalCode": "30758"
  },
  {
   "id": 1804071003,
   "districtId": 1804071,
-  "name": "KEBON DAMAR"
+  "districtName": "MATARAM BARU",
+  "name": "KEBON DAMAR",
+  "postalCode": "34199"
  },
  {
   "id": 1804071004,
   "districtId": 1804071,
-  "name": "MATARAM BARU"
+  "districtName": "MATARAM BARU",
+  "name": "MATARAM BARU",
+  "postalCode": "34199"
  },
  {
   "id": 1804071005,
   "districtId": 1804071,
-  "name": "RAJABASA BARU"
+  "districtName": "MATARAM BARU",
+  "name": "RAJABASA BARU",
+  "postalCode": "34199"
  },
  {
   "id": 1804071006,
   "districtId": 1804071,
-  "name": "TELUK DALEM"
+  "districtName": "MATARAM BARU",
+  "name": "TELUK DALEM",
+  "postalCode": "34199"
  },
  {
   "id": 1804071007,
   "districtId": 1804071,
-  "name": "WAI ARANG"
+  "districtName": "MATARAM BARU",
+  "name": "WAI ARANG",
+  "postalCode": ""
  }
 ]

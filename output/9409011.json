@@ -2,46 +2,64 @@
  {
   "id": 9409011001,
   "districtId": 9409011,
-  "name": "WANSRA"
+  "districtName": "ORKERI",
+  "name": "WANSRA",
+  "postalCode": "98172"
  },
  {
   "id": 9409011002,
   "districtId": 9409011,
-  "name": "MASYARA"
+  "districtName": "ORKERI",
+  "name": "MASYARA",
+  "postalCode": "98172"
  },
  {
   "id": 9409011003,
   "districtId": 9409011,
-  "name": "PAKREKI"
+  "districtName": "ORKERI",
+  "name": "PAKREKI",
+  "postalCode": "98172"
  },
  {
   "id": 9409011004,
   "districtId": 9409011,
-  "name": "RAWAR"
+  "districtName": "ORKERI",
+  "name": "RAWAR",
+  "postalCode": "98172"
  },
  {
   "id": 9409011005,
   "districtId": 9409011,
-  "name": "SUPMANDER"
+  "districtName": "ORKERI",
+  "name": "SUPMANDER",
+  "postalCode": "98172"
  },
  {
   "id": 9409011006,
   "districtId": 9409011,
-  "name": "SARIBI"
+  "districtName": "ORKERI",
+  "name": "SARIBI",
+  "postalCode": "98172"
  },
  {
   "id": 9409011007,
   "districtId": 9409011,
-  "name": "YENBEPON"
+  "districtName": "ORKERI",
+  "name": "YENBEPON",
+  "postalCode": ""
  },
  {
   "id": 9409011008,
   "districtId": 9409011,
-  "name": "YENBEBA"
+  "districtName": "ORKERI",
+  "name": "YENBEBA",
+  "postalCode": "98172"
  },
  {
   "id": 9409011009,
   "districtId": 9409011,
-  "name": "MANWOR INDAH"
+  "districtName": "ORKERI",
+  "name": "MANWOR INDAH",
+  "postalCode": "98172"
  }
 ]

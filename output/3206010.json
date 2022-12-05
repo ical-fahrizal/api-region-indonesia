@@ -2,76 +2,106 @@
  {
   "id": 3206010001,
   "districtId": 3206010,
-  "name": "CIHERAS"
+  "districtName": "CIPATUJAH",
+  "name": "CIHERAS",
+  "postalCode": "46189"
  },
  {
   "id": 3206010002,
   "districtId": 3206010,
-  "name": "CIPANAS"
+  "districtName": "CIPATUJAH",
+  "name": "CIPANAS",
+  "postalCode": "43253"
  },
  {
   "id": 3206010003,
   "districtId": 3206010,
-  "name": "CIANDUM"
+  "districtName": "CIPATUJAH",
+  "name": "CIANDUM",
+  "postalCode": "46189"
  },
  {
   "id": 3206010004,
   "districtId": 3206010,
-  "name": "CIPATUJAH"
+  "districtName": "CIPATUJAH",
+  "name": "CIPATUJAH",
+  "postalCode": "46189"
  },
  {
   "id": 3206010005,
   "districtId": 3206010,
-  "name": "SINDANGKERTA"
+  "districtName": "CIPATUJAH",
+  "name": "SINDANGKERTA",
+  "postalCode": "46189"
  },
  {
   "id": 3206010006,
   "districtId": 3206010,
-  "name": "CIKAWUNGADING"
+  "districtName": "CIPATUJAH",
+  "name": "CIKAWUNGADING",
+  "postalCode": "46189"
  },
  {
   "id": 3206010007,
   "districtId": 3206010,
-  "name": "KERTASARI"
+  "districtName": "CIPATUJAH",
+  "name": "KERTASARI",
+  "postalCode": "31658"
  },
  {
   "id": 3206010008,
   "districtId": 3206010,
-  "name": "PADAWARAS"
+  "districtName": "CIPATUJAH",
+  "name": "PADAWARAS",
+  "postalCode": "46189"
  },
  {
   "id": 3206010009,
   "districtId": 3206010,
-  "name": "DARAWATI"
+  "districtName": "CIPATUJAH",
+  "name": "DARAWATI",
+  "postalCode": "46189"
  },
  {
   "id": 3206010010,
   "districtId": 3206010,
-  "name": "BANTARKALONG"
+  "districtName": "CIPATUJAH",
+  "name": "BANTARKALONG",
+  "postalCode": "46187"
  },
  {
   "id": 3206010011,
   "districtId": 3206010,
-  "name": "TOBONGJAYA"
+  "districtName": "CIPATUJAH",
+  "name": "TOBONGJAYA",
+  "postalCode": "46189"
  },
  {
   "id": 3206010012,
   "districtId": 3206010,
-  "name": "NANGELASARI"
+  "districtName": "CIPATUJAH",
+  "name": "NANGELASARI",
+  "postalCode": "46189"
  },
  {
   "id": 3206010013,
   "districtId": 3206010,
-  "name": "NAGROG"
+  "districtName": "CIPATUJAH",
+  "name": "NAGROG",
+  "postalCode": "40395"
  },
  {
   "id": 3206010014,
   "districtId": 3206010,
-  "name": "PAMEUTINGAN"
+  "districtName": "CIPATUJAH",
+  "name": "PAMEUTINGAN",
+  "postalCode": "46189"
  },
  {
   "id": 3206010015,
   "districtId": 3206010,
-  "name": "SUKAHURIP"
+  "districtName": "CIPATUJAH",
+  "name": "SUKAHURIP",
+  "postalCode": "44116"
  }
 ]

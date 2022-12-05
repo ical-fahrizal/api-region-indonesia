@@ -2,36 +2,50 @@
  {
   "id": 6503040001,
   "districtId": 6503040,
-  "name": "SELUDAU"
+  "districtName": "SESAYAP HILIR",
+  "name": "SELUDAU",
+  "postalCode": "77152"
  },
  {
   "id": 6503040002,
   "districtId": 6503040,
-  "name": "SESAYAP"
+  "districtName": "SESAYAP HILIR",
+  "name": "SESAYAP",
+  "postalCode": ""
  },
  {
   "id": 6503040003,
   "districtId": 6503040,
-  "name": "SEPALA DALUNG"
+  "districtName": "SESAYAP HILIR",
+  "name": "SEPALA DALUNG",
+  "postalCode": ""
  },
  {
   "id": 6503040004,
   "districtId": 6503040,
-  "name": "BANDAN BIKIS"
+  "districtName": "SESAYAP HILIR",
+  "name": "BANDAN BIKIS",
+  "postalCode": ""
  },
  {
   "id": 6503040005,
   "districtId": 6503040,
-  "name": "BEBATU"
+  "districtName": "SESAYAP HILIR",
+  "name": "BEBATU",
+  "postalCode": "77152"
  },
  {
   "id": 6503040006,
   "districtId": 6503040,
-  "name": "SENGKONG"
+  "districtName": "SESAYAP HILIR",
+  "name": "SENGKONG",
+  "postalCode": "77152"
  },
  {
   "id": 6503040008,
   "districtId": 6503040,
-  "name": "SESAYAP SELOR"
+  "districtName": "SESAYAP HILIR",
+  "name": "SESAYAP SELOR",
+  "postalCode": ""
  }
 ]

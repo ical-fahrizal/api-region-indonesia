@@ -2,36 +2,50 @@
  {
   "id": 1705040020,
   "districtId": 1705040,
-  "name": "NAPAL"
+  "districtName": "SELUMA",
+  "name": "NAPAL",
+  "postalCode": "30752"
  },
  {
   "id": 1705040021,
   "districtId": 1705040,
-  "name": "TALANG DANTUK"
+  "districtName": "SELUMA",
+  "name": "TALANG DANTUK",
+  "postalCode": "38876"
  },
  {
   "id": 1705040027,
   "districtId": 1705040,
-  "name": "DUSUN BARU"
+  "districtName": "SELUMA",
+  "name": "DUSUN BARU",
+  "postalCode": "37162"
  },
  {
   "id": 1705040028,
   "districtId": 1705040,
-  "name": "TALANG SALING"
+  "districtName": "SELUMA",
+  "name": "TALANG SALING",
+  "postalCode": "38876"
  },
  {
   "id": 1705040029,
   "districtId": 1705040,
-  "name": "LUBUK LINTANG"
+  "districtName": "SELUMA",
+  "name": "LUBUK LINTANG",
+  "postalCode": "38876"
  },
  {
   "id": 1705040030,
   "districtId": 1705040,
-  "name": "PASAR TAIS"
+  "districtName": "SELUMA",
+  "name": "PASAR TAIS",
+  "postalCode": "38876"
  },
  {
   "id": 1705040031,
   "districtId": 1705040,
-  "name": "LUBUK KEBUR"
+  "districtName": "SELUMA",
+  "name": "LUBUK KEBUR",
+  "postalCode": "38876"
  }
 ]

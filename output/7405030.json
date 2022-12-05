@@ -2,81 +2,113 @@
  {
   "id": 7405030011,
   "districtId": 7405030,
-  "name": "MEKAR SARI"
+  "districtName": "PALANGGA",
+  "name": "MEKAR SARI",
+  "postalCode": "21261"
  },
  {
   "id": 7405030012,
   "districtId": 7405030,
-  "name": "WAWOURU"
+  "districtName": "PALANGGA",
+  "name": "WAWOURU",
+  "postalCode": "93883"
  },
  {
   "id": 7405030013,
   "districtId": 7405030,
-  "name": "WAWORAHA"
+  "districtName": "PALANGGA",
+  "name": "WAWORAHA",
+  "postalCode": "93464"
  },
  {
   "id": 7405030014,
   "districtId": 7405030,
-  "name": "ALAKAYA"
+  "districtName": "PALANGGA",
+  "name": "ALAKAYA",
+  "postalCode": "93883"
  },
  {
   "id": 7405030015,
   "districtId": 7405030,
-  "name": "AOSOLE"
+  "districtName": "PALANGGA",
+  "name": "AOSOLE",
+  "postalCode": "93883"
  },
  {
   "id": 7405030016,
   "districtId": 7405030,
-  "name": "ANGGONDARA"
+  "districtName": "PALANGGA",
+  "name": "ANGGONDARA",
+  "postalCode": "93883"
  },
  {
   "id": 7405030017,
   "districtId": 7405030,
-  "name": "ONEMBUTE"
+  "districtName": "PALANGGA",
+  "name": "ONEMBUTE",
+  "postalCode": "93354"
  },
  {
   "id": 7405030018,
   "districtId": 7405030,
-  "name": "EEWA"
+  "districtName": "PALANGGA",
+  "name": "EEWA",
+  "postalCode": "93883"
  },
  {
   "id": 7405030019,
   "districtId": 7405030,
-  "name": "WATUMEREMBE"
+  "districtName": "PALANGGA",
+  "name": "WATUMEREMBE",
+  "postalCode": "93883"
  },
  {
   "id": 7405030020,
   "districtId": 7405030,
-  "name": "WAWONGGURA"
+  "districtName": "PALANGGA",
+  "name": "WAWONGGURA",
+  "postalCode": "93883"
  },
  {
   "id": 7405030021,
   "districtId": 7405030,
-  "name": "KIAEA"
+  "districtName": "PALANGGA",
+  "name": "KIAEA",
+  "postalCode": "93883"
  },
  {
   "id": 7405030022,
   "districtId": 7405030,
-  "name": "PALANGGA"
+  "districtName": "PALANGGA",
+  "name": "PALANGGA",
+  "postalCode": "93659"
  },
  {
   "id": 7405030030,
   "districtId": 7405030,
-  "name": "KAPU JAYA"
+  "districtName": "PALANGGA",
+  "name": "KAPU JAYA",
+  "postalCode": "93883"
  },
  {
   "id": 7405030032,
   "districtId": 7405030,
-  "name": "WATUDEMBA"
+  "districtName": "PALANGGA",
+  "name": "WATUDEMBA",
+  "postalCode": "93883"
  },
  {
   "id": 7405030033,
   "districtId": 7405030,
-  "name": "SANGGI-SANGGI"
+  "districtName": "PALANGGA",
+  "name": "SANGGI-SANGGI",
+  "postalCode": ""
  },
  {
   "id": 7405030034,
   "districtId": 7405030,
-  "name": "WONUA MORINI"
+  "districtName": "PALANGGA",
+  "name": "WONUA MORINI",
+  "postalCode": "93354"
  }
 ]

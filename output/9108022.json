@@ -2,31 +2,43 @@
  {
   "id": 9108022001,
   "districtId": 9108022,
-  "name": "FOLLEY"
+  "districtName": "MISOOL TIMUR",
+  "name": "FOLLEY",
+  "postalCode": "98483"
  },
  {
   "id": 9108022002,
   "districtId": 9108022,
-  "name": "TOMOLOL"
+  "districtName": "MISOOL TIMUR",
+  "name": "TOMOLOL",
+  "postalCode": "98483"
  },
  {
   "id": 9108022004,
   "districtId": 9108022,
-  "name": "USAHA JAYA"
+  "districtName": "MISOOL TIMUR",
+  "name": "USAHA JAYA",
+  "postalCode": "98483"
  },
  {
   "id": 9108022005,
   "districtId": 9108022,
-  "name": "LIMALAS TIMUR"
+  "districtName": "MISOOL TIMUR",
+  "name": "LIMALAS TIMUR",
+  "postalCode": "98483"
  },
  {
   "id": 9108022006,
   "districtId": 9108022,
-  "name": "LIMALAS BARAT"
+  "districtName": "MISOOL TIMUR",
+  "name": "LIMALAS BARAT",
+  "postalCode": "98483"
  },
  {
   "id": 9108022007,
   "districtId": 9108022,
-  "name": "AUDAM"
+  "districtName": "MISOOL TIMUR",
+  "name": "AUDAM",
+  "postalCode": "98483"
  }
 ]

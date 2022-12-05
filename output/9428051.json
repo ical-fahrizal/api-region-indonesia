@@ -2,16 +2,22 @@
  {
   "id": 9428051001,
   "districtId": 9428051,
-  "name": "METAWEJA"
+  "districtName": "IWASO",
+  "name": "METAWEJA",
+  "postalCode": "99376"
  },
  {
   "id": 9428051002,
   "districtId": 9428051,
-  "name": "BABIJA"
+  "districtName": "IWASO",
+  "name": "BABIJA",
+  "postalCode": "99376"
  },
  {
   "id": 9428051003,
   "districtId": 9428051,
-  "name": "SASAWAKWESAR"
+  "districtName": "IWASO",
+  "name": "SASAWAKWESAR",
+  "postalCode": ""
  }
 ]

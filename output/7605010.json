@@ -2,26 +2,36 @@
  {
   "id": 7605010003,
   "districtId": 7605010,
-  "name": "SARUDU"
+  "districtName": "SARUDU",
+  "name": "SARUDU",
+  "postalCode": "91573"
  },
  {
   "id": 7605010004,
   "districtId": 7605010,
-  "name": "KUMASARI"
+  "districtName": "SARUDU",
+  "name": "KUMASARI",
+  "postalCode": "91573"
  },
  {
   "id": 7605010007,
   "districtId": 7605010,
-  "name": "BULU MARIO"
+  "districtName": "SARUDU",
+  "name": "BULU MARIO",
+  "postalCode": "22742"
  },
  {
   "id": 7605010011,
   "districtId": 7605010,
-  "name": "PATIKA"
+  "districtName": "SARUDU",
+  "name": "PATIKA",
+  "postalCode": "91573"
  },
  {
   "id": 7605010012,
   "districtId": 7605010,
-  "name": "DODA"
+  "districtName": "SARUDU",
+  "name": "DODA",
+  "postalCode": "94362"
  }
 ]

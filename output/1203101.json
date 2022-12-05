@@ -2,61 +2,85 @@
  {
   "id": 1203101031,
   "districtId": 1203101,
-  "name": "HURABA"
+  "districtName": "MARANCAR",
+  "name": "HURABA",
+  "postalCode": "22733"
  },
  {
   "id": 1203101041,
   "districtId": 1203101,
-  "name": "GUNUNG BINANGA"
+  "districtName": "MARANCAR",
+  "name": "GUNUNG BINANGA",
+  "postalCode": ""
  },
  {
   "id": 1203101043,
   "districtId": 1203101,
-  "name": "MARANCAR GODANG"
+  "districtName": "MARANCAR",
+  "name": "MARANCAR GODANG",
+  "postalCode": "22738"
  },
  {
   "id": 1203101050,
   "districtId": 1203101,
-  "name": "SIMANINGGIR"
+  "districtName": "MARANCAR",
+  "name": "SIMANINGGIR",
+  "postalCode": "22763"
  },
  {
   "id": 1203101051,
   "districtId": 1203101,
-  "name": "MARANCAR JULU"
+  "districtName": "MARANCAR",
+  "name": "MARANCAR JULU",
+  "postalCode": ""
  },
  {
   "id": 1203101057,
   "districtId": 1203101,
-  "name": "HAU NATAS"
+  "districtName": "MARANCAR",
+  "name": "HAU NATAS",
+  "postalCode": ""
  },
  {
   "id": 1203101066,
   "districtId": 1203101,
-  "name": "AEK NABARA"
+  "districtName": "MARANCAR",
+  "name": "AEK NABARA",
+  "postalCode": "22735"
  },
  {
   "id": 1203101067,
   "districtId": 1203101,
-  "name": "GAPUK TUA"
+  "districtName": "MARANCAR",
+  "name": "GAPUK TUA",
+  "postalCode": "22738"
  },
  {
   "id": 1203101068,
   "districtId": 1203101,
-  "name": "PASAR SEMPURNA"
+  "districtName": "MARANCAR",
+  "name": "PASAR SEMPURNA",
+  "postalCode": "22738"
  },
  {
   "id": 1203101069,
   "districtId": 1203101,
-  "name": "AEK SABAON"
+  "districtName": "MARANCAR",
+  "name": "AEK SABAON",
+  "postalCode": "22738"
  },
  {
   "id": 1203101070,
   "districtId": 1203101,
-  "name": "SUGI"
+  "districtName": "MARANCAR",
+  "name": "SUGI",
+  "postalCode": ""
  },
  {
   "id": 1203101071,
   "districtId": 1203101,
-  "name": "TANJUNG DOLOK"
+  "districtName": "MARANCAR",
+  "name": "TANJUNG DOLOK",
+  "postalCode": "22738"
  }
 ]

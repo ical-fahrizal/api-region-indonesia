@@ -2,21 +2,29 @@
  {
   "id": 2103053001,
   "districtId": 2103053,
-  "name": "CEMAGA"
+  "districtName": "BUNGURAN SELATAN",
+  "name": "CEMAGA",
+  "postalCode": "29783"
  },
  {
   "id": 2103053002,
   "districtId": 2103053,
-  "name": "CEMAGA UTARA"
+  "districtName": "BUNGURAN SELATAN",
+  "name": "CEMAGA UTARA",
+  "postalCode": ""
  },
  {
   "id": 2103053003,
   "districtId": 2103053,
-  "name": "CEMAGA SELATAN"
+  "districtName": "BUNGURAN SELATAN",
+  "name": "CEMAGA SELATAN",
+  "postalCode": ""
  },
  {
   "id": 2103053004,
   "districtId": 2103053,
-  "name": "CEMAGA TENGAH"
+  "districtName": "BUNGURAN SELATAN",
+  "name": "CEMAGA TENGAH",
+  "postalCode": "29783"
  }
 ]

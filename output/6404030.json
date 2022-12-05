@@ -2,36 +2,50 @@
  {
   "id": 6404030001,
   "districtId": 6404030,
-  "name": "SENAMBAH"
+  "districtName": "MUARA BENGKAL",
+  "name": "SENAMBAH",
+  "postalCode": "75654"
  },
  {
   "id": 6404030002,
   "districtId": 6404030,
-  "name": "NGAYAU"
+  "districtName": "MUARA BENGKAL",
+  "name": "NGAYAU",
+  "postalCode": "75654"
  },
  {
   "id": 6404030003,
   "districtId": 6404030,
-  "name": "MUARA BENGKAL ILIR"
+  "districtName": "MUARA BENGKAL",
+  "name": "MUARA BENGKAL ILIR",
+  "postalCode": "75654"
  },
  {
   "id": 6404030004,
   "districtId": 6404030,
-  "name": "MUARA BENGKAL ULU"
+  "districtName": "MUARA BENGKAL",
+  "name": "MUARA BENGKAL ULU",
+  "postalCode": "75654"
  },
  {
   "id": 6404030005,
   "districtId": 6404030,
-  "name": "BENUA BARU"
+  "districtName": "MUARA BENGKAL",
+  "name": "BENUA BARU",
+  "postalCode": "78661"
  },
  {
   "id": 6404030006,
   "districtId": 6404030,
-  "name": "BATU BALAI"
+  "districtName": "MUARA BENGKAL",
+  "name": "BATU BALAI",
+  "postalCode": "75654"
  },
  {
   "id": 6404030007,
   "districtId": 6404030,
-  "name": "MULUPAN"
+  "districtName": "MUARA BENGKAL",
+  "name": "MULUPAN",
+  "postalCode": "75654"
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 1509061001,
   "districtId": 1509061,
-  "name": "TEPIAN DANTO"
+  "districtName": "JUJUHAN ILIR",
+  "name": "TEPIAN DANTO",
+  "postalCode": "37257"
  },
  {
   "id": 1509061002,
   "districtId": 1509061,
-  "name": "AUR GADING"
+  "districtName": "JUJUHAN ILIR",
+  "name": "AUR GADING",
+  "postalCode": "36656"
  },
  {
   "id": 1509061003,
   "districtId": 1509061,
-  "name": "PULAU BATU"
+  "districtName": "JUJUHAN ILIR",
+  "name": "PULAU BATU",
+  "postalCode": "37257"
  },
  {
   "id": 1509061004,
   "districtId": 1509061,
-  "name": "SARI MULYA"
+  "districtName": "JUJUHAN ILIR",
+  "name": "SARI MULYA",
+  "postalCode": "37257"
  },
  {
   "id": 1509061005,
   "districtId": 1509061,
-  "name": "BUKIT SARI"
+  "districtName": "JUJUHAN ILIR",
+  "name": "BUKIT SARI",
+  "postalCode": "24563"
  },
  {
   "id": 1509061006,
   "districtId": 1509061,
-  "name": "LUBUK TENAM"
+  "districtName": "JUJUHAN ILIR",
+  "name": "LUBUK TENAM",
+  "postalCode": "37257"
  },
  {
   "id": 1509061007,
   "districtId": 1509061,
-  "name": "KUAMANG"
+  "districtName": "JUJUHAN ILIR",
+  "name": "KUAMANG",
+  "postalCode": "37257"
  }
 ]

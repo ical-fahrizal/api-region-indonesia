@@ -2,56 +2,78 @@
  {
   "id": 1201081001,
   "districtId": 1201081,
-  "name": "BALODANO"
+  "districtName": "MA U",
+  "name": "BALODANO",
+  "postalCode": "22814"
  },
  {
   "id": 1201081002,
   "districtId": 1201081,
-  "name": "LEWUOGURU II"
+  "districtName": "MA U",
+  "name": "LEWUOGURU II",
+  "postalCode": ""
  },
  {
   "id": 1201081003,
   "districtId": 1201081,
-  "name": "SISARAHILI MA U"
+  "districtName": "MA U",
+  "name": "SISARAHILI MA U",
+  "postalCode": "22852"
  },
  {
   "id": 1201081004,
   "districtId": 1201081,
-  "name": "SIHAREO III"
+  "districtName": "MA U",
+  "name": "SIHAREO III",
+  "postalCode": ""
  },
  {
   "id": 1201081005,
   "districtId": 1201081,
-  "name": "DEKHA"
+  "districtName": "MA U",
+  "name": "DEKHA",
+  "postalCode": "22852"
  },
  {
   "id": 1201081006,
   "districtId": 1201081,
-  "name": "LASARA SIWALUBANUA"
+  "districtName": "MA U",
+  "name": "LASARA SIWALUBANUA",
+  "postalCode": ""
  },
  {
   "id": 1201081007,
   "districtId": 1201081,
-  "name": "TUHEMBERUA"
+  "districtName": "MA U",
+  "name": "TUHEMBERUA",
+  "postalCode": "22867"
  },
  {
   "id": 1201081008,
   "districtId": 1201081,
-  "name": "ATUALUO"
+  "districtName": "MA U",
+  "name": "ATUALUO",
+  "postalCode": "22852"
  },
  {
   "id": 1201081009,
   "districtId": 1201081,
-  "name": "LEWA - LEWA"
+  "districtName": "MA U",
+  "name": "LEWA - LEWA",
+  "postalCode": "22852"
  },
  {
   "id": 1201081010,
   "districtId": 1201081,
-  "name": "SIHAREO III BAWOSALOO BERUA"
+  "districtName": "MA U",
+  "name": "SIHAREO III BAWOSALOO BERUA",
+  "postalCode": ""
  },
  {
   "id": 1201081011,
   "districtId": 1201081,
-  "name": "SIHAREO III HILIBADALU"
+  "districtName": "MA U",
+  "name": "SIHAREO III HILIBADALU",
+  "postalCode": ""
  }
 ]

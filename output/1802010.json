@@ -2,141 +2,197 @@
  {
   "id": 1802010003,
   "districtId": 1802010,
-  "name": "KARANG ANYAR"
+  "districtName": "WONOSOBO",
+  "name": "KARANG ANYAR",
+  "postalCode": "24415"
  },
  {
   "id": 1802010008,
   "districtId": 1802010,
-  "name": "KALIREJO"
+  "districtName": "WONOSOBO",
+  "name": "KALIREJO",
+  "postalCode": "35353"
  },
  {
   "id": 1802010009,
   "districtId": 1802010,
-  "name": "DADIREJO"
+  "districtName": "WONOSOBO",
+  "name": "DADIREJO",
+  "postalCode": "35686"
  },
  {
   "id": 1802010010,
   "districtId": 1802010,
-  "name": "BANYU URIP"
+  "districtName": "WONOSOBO",
+  "name": "BANYU URIP",
+  "postalCode": "30961"
  },
  {
   "id": 1802010011,
   "districtId": 1802010,
-  "name": "WONOSOBO"
+  "districtName": "WONOSOBO",
+  "name": "WONOSOBO",
+  "postalCode": "24581"
  },
  {
   "id": 1802010012,
   "districtId": 1802010,
-  "name": "SOPONYONO"
+  "districtName": "WONOSOBO",
+  "name": "SOPONYONO",
+  "postalCode": "35686"
  },
  {
   "id": 1802010013,
   "districtId": 1802010,
-  "name": "BANDAR KEJADIAN"
+  "districtName": "WONOSOBO",
+  "name": "BANDAR KEJADIAN",
+  "postalCode": "35686"
  },
  {
   "id": 1802010014,
   "districtId": 1802010,
-  "name": "WAY PANAS"
+  "districtName": "WONOSOBO",
+  "name": "WAY PANAS",
+  "postalCode": "35686"
  },
  {
   "id": 1802010015,
   "districtId": 1802010,
-  "name": "SINAR SAUDARA"
+  "districtName": "WONOSOBO",
+  "name": "SINAR SAUDARA",
+  "postalCode": "35686"
  },
  {
   "id": 1802010016,
   "districtId": 1802010,
-  "name": "SRIDADI"
+  "districtName": "WONOSOBO",
+  "name": "SRIDADI",
+  "postalCode": "36614"
  },
  {
   "id": 1802010017,
   "districtId": 1802010,
-  "name": "LAKARAN"
+  "districtName": "WONOSOBO",
+  "name": "LAKARAN",
+  "postalCode": "35686"
  },
  {
   "id": 1802010018,
   "districtId": 1802010,
-  "name": "PADANG RATU"
+  "districtName": "WONOSOBO",
+  "name": "PADANG RATU",
+  "postalCode": "32274"
  },
  {
   "id": 1802010019,
   "districtId": 1802010,
-  "name": "PARDA SUKA"
+  "districtName": "WONOSOBO",
+  "name": "PARDA SUKA",
+  "postalCode": "38965"
  },
  {
   "id": 1802010020,
   "districtId": 1802010,
-  "name": "TANJUNG KURUNG"
+  "districtName": "WONOSOBO",
+  "name": "TANJUNG KURUNG",
+  "postalCode": "31315"
  },
  {
   "id": 1802010021,
   "districtId": 1802010,
-  "name": "PADANG MANIS"
+  "districtName": "WONOSOBO",
+  "name": "PADANG MANIS",
+  "postalCode": "38956"
  },
  {
   "id": 1802010022,
   "districtId": 1802010,
-  "name": "KEJADIAN"
+  "districtName": "WONOSOBO",
+  "name": "KEJADIAN",
+  "postalCode": "34872"
  },
  {
   "id": 1802010023,
   "districtId": 1802010,
-  "name": "DADISARI"
+  "districtName": "WONOSOBO",
+  "name": "DADISARI",
+  "postalCode": "35686"
  },
  {
   "id": 1802010024,
   "districtId": 1802010,
-  "name": "KALISARI"
+  "districtName": "WONOSOBO",
+  "name": "KALISARI",
+  "postalCode": "35686"
  },
  {
   "id": 1802010029,
   "districtId": 1802010,
-  "name": "BANJAR NEGORO"
+  "districtName": "WONOSOBO",
+  "name": "BANJAR NEGORO",
+  "postalCode": "35686"
  },
  {
   "id": 1802010030,
   "districtId": 1802010,
-  "name": "PEKON BALAK"
+  "districtName": "WONOSOBO",
+  "name": "PEKON BALAK",
+  "postalCode": "34881"
  },
  {
   "id": 1802010031,
   "districtId": 1802010,
-  "name": "KUNYAYAN"
+  "districtName": "WONOSOBO",
+  "name": "KUNYAYAN",
+  "postalCode": "35686"
  },
  {
   "id": 1802010032,
   "districtId": 1802010,
-  "name": "BANJARSARI"
+  "districtName": "WONOSOBO",
+  "name": "BANJARSARI",
+  "postalCode": "35377"
  },
  {
   "id": 1802010037,
   "districtId": 1802010,
-  "name": "NEGERI NGARIP"
+  "districtName": "WONOSOBO",
+  "name": "NEGERI NGARIP",
+  "postalCode": "35686"
  },
  {
   "id": 1802010038,
   "districtId": 1802010,
-  "name": "SAMPANG TURUS"
+  "districtName": "WONOSOBO",
+  "name": "SAMPANG TURUS",
+  "postalCode": "35686"
  },
  {
   "id": 1802010039,
   "districtId": 1802010,
-  "name": "WAY LIWOK"
+  "districtName": "WONOSOBO",
+  "name": "WAY LIWOK",
+  "postalCode": "35686"
  },
  {
   "id": 1802010040,
   "districtId": 1802010,
-  "name": "SUMUR TUJUH"
+  "districtName": "WONOSOBO",
+  "name": "SUMUR TUJUH",
+  "postalCode": "35686"
  },
  {
   "id": 1802010041,
   "districtId": 1802010,
-  "name": "DADI MULYO"
+  "districtName": "WONOSOBO",
+  "name": "DADI MULYO",
+  "postalCode": "21212"
  },
  {
   "id": 1802010042,
   "districtId": 1802010,
-  "name": "SRI MELATI"
+  "districtName": "WONOSOBO",
+  "name": "SRI MELATI",
+  "postalCode": "35686"
  }
 ]

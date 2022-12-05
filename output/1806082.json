@@ -2,41 +2,57 @@
  {
   "id": 1806082001,
   "districtId": 1806082,
-  "name": "NEGERI CAMPANG JAYA"
+  "districtName": "SUNGKAI TENGAH",
+  "name": "NEGERI CAMPANG JAYA",
+  "postalCode": "34555"
  },
  {
   "id": 1806082002,
   "districtId": 1806082,
-  "name": "PAMPANG TANGGUK JAYA"
+  "districtName": "SUNGKAI TENGAH",
+  "name": "PAMPANG TANGGUK JAYA",
+  "postalCode": ""
  },
  {
   "id": 1806082003,
   "districtId": 1806082,
-  "name": "RATU JAYA"
+  "districtName": "SUNGKAI TENGAH",
+  "name": "RATU JAYA",
+  "postalCode": "34555"
  },
  {
   "id": 1806082004,
   "districtId": 1806082,
-  "name": "NEGERI GALIH REJO"
+  "districtName": "SUNGKAI TENGAH",
+  "name": "NEGERI GALIH REJO",
+  "postalCode": ""
  },
  {
   "id": 1806082005,
   "districtId": 1806082,
-  "name": "BATU NANGKOP"
+  "districtName": "SUNGKAI TENGAH",
+  "name": "BATU NANGKOP",
+  "postalCode": "34555"
  },
  {
   "id": 1806082006,
   "districtId": 1806082,
-  "name": "MEKAR ASRI"
+  "districtName": "SUNGKAI TENGAH",
+  "name": "MEKAR ASRI",
+  "postalCode": "34761"
  },
  {
   "id": 1806082007,
   "districtId": 1806082,
-  "name": "NEGARA BUMI"
+  "districtName": "SUNGKAI TENGAH",
+  "name": "NEGARA BUMI",
+  "postalCode": "34555"
  },
  {
   "id": 1806082008,
   "districtId": 1806082,
-  "name": "MELUNGUN RATU"
+  "districtName": "SUNGKAI TENGAH",
+  "name": "MELUNGUN RATU",
+  "postalCode": "34555"
  }
 ]

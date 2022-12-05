@@ -2,41 +2,57 @@
  {
   "id": 1673030001,
   "districtId": 1673030,
-  "name": "TANJUNG AGUNG"
+  "districtName": "PAGAR ALAM SELATAN",
+  "name": "TANJUNG AGUNG",
+  "postalCode": "37216"
  },
  {
   "id": 1673030002,
   "districtId": 1673030,
-  "name": "ULU RURAH"
+  "districtName": "PAGAR ALAM SELATAN",
+  "name": "ULU RURAH",
+  "postalCode": ""
  },
  {
   "id": 1673030003,
   "districtId": 1673030,
-  "name": "TUMBAK ULAS"
+  "districtName": "PAGAR ALAM SELATAN",
+  "name": "TUMBAK ULAS",
+  "postalCode": "31526"
  },
  {
   "id": 1673030004,
   "districtId": 1673030,
-  "name": "BASEMAH SERASAN"
+  "districtName": "PAGAR ALAM SELATAN",
+  "name": "BASEMAH SERASAN",
+  "postalCode": ""
  },
  {
   "id": 1673030005,
   "districtId": 1673030,
-  "name": "TEBAT GIRI INDAH"
+  "districtName": "PAGAR ALAM SELATAN",
+  "name": "TEBAT GIRI INDAH",
+  "postalCode": "31526"
  },
  {
   "id": 1673030006,
   "districtId": 1673030,
-  "name": "SIDOREJO"
+  "districtName": "PAGAR ALAM SELATAN",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 1673030007,
   "districtId": 1673030,
-  "name": "NENDAGUNG"
+  "districtName": "PAGAR ALAM SELATAN",
+  "name": "NENDAGUNG",
+  "postalCode": "31527"
  },
  {
   "id": 1673030008,
   "districtId": 1673030,
-  "name": "GUNUNG DEMPO"
+  "districtName": "PAGAR ALAM SELATAN",
+  "name": "GUNUNG DEMPO",
+  "postalCode": "31529"
  }
 ]

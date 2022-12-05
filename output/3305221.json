@@ -2,71 +2,99 @@
  {
   "id": 3305221001,
   "districtId": 3305221,
-  "name": "WIDORO"
+  "districtName": "KARANGSAMBUNG",
+  "name": "WIDORO",
+  "postalCode": "54353"
  },
  {
   "id": 3305221002,
   "districtId": 3305221,
-  "name": "SELING"
+  "districtName": "KARANGSAMBUNG",
+  "name": "SELING",
+  "postalCode": "37353"
  },
  {
   "id": 3305221003,
   "districtId": 3305221,
-  "name": "KEDUNGWARU"
+  "districtName": "KARANGSAMBUNG",
+  "name": "KEDUNGWARU",
+  "postalCode": "54353"
  },
  {
   "id": 3305221004,
   "districtId": 3305221,
-  "name": "PENCIL"
+  "districtName": "KARANGSAMBUNG",
+  "name": "PENCIL",
+  "postalCode": "54353"
  },
  {
   "id": 3305221005,
   "districtId": 3305221,
-  "name": "KALIGENDING"
+  "districtName": "KARANGSAMBUNG",
+  "name": "KALIGENDING",
+  "postalCode": "54353"
  },
  {
   "id": 3305221006,
   "districtId": 3305221,
-  "name": "PLUMBON"
+  "districtName": "KARANGSAMBUNG",
+  "name": "PLUMBON",
+  "postalCode": "45215"
  },
  {
   "id": 3305221007,
   "districtId": 3305221,
-  "name": "PUJOTIRTO"
+  "districtName": "KARANGSAMBUNG",
+  "name": "PUJOTIRTO",
+  "postalCode": "54353"
  },
  {
   "id": 3305221008,
   "districtId": 3305221,
-  "name": "WADASMALANG"
+  "districtName": "KARANGSAMBUNG",
+  "name": "WADASMALANG",
+  "postalCode": "54353"
  },
  {
   "id": 3305221009,
   "districtId": 3305221,
-  "name": "TLEPOK"
+  "districtName": "KARANGSAMBUNG",
+  "name": "TLEPOK",
+  "postalCode": "54353"
  },
  {
   "id": 3305221010,
   "districtId": 3305221,
-  "name": "KALISANA"
+  "districtName": "KARANGSAMBUNG",
+  "name": "KALISANA",
+  "postalCode": "54353"
  },
  {
   "id": 3305221011,
   "districtId": 3305221,
-  "name": "LANGSE"
+  "districtName": "KARANGSAMBUNG",
+  "name": "LANGSE",
+  "postalCode": "54353"
  },
  {
   "id": 3305221012,
   "districtId": 3305221,
-  "name": "BANIORO"
+  "districtName": "KARANGSAMBUNG",
+  "name": "BANIORO",
+  "postalCode": "54353"
  },
  {
   "id": 3305221013,
   "districtId": 3305221,
-  "name": "KARANGSAMBUNG"
+  "districtName": "KARANGSAMBUNG",
+  "name": "KARANGSAMBUNG",
+  "postalCode": "45162"
  },
  {
   "id": 3305221014,
   "districtId": 3305221,
-  "name": "TOTOGAN"
+  "districtName": "KARANGSAMBUNG",
+  "name": "TOTOGAN",
+  "postalCode": "54353"
  }
 ]

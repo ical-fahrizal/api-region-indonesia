@@ -2,26 +2,36 @@
  {
   "id": 7407011001,
   "districtId": 7407011,
-  "name": "SOWA"
+  "districtName": "TOGO BINONGKO",
+  "name": "SOWA",
+  "postalCode": "93794"
  },
  {
   "id": 7407011002,
   "districtId": 7407011,
-  "name": "POPALIA"
+  "districtName": "TOGO BINONGKO",
+  "name": "POPALIA",
+  "postalCode": "93563"
  },
  {
   "id": 7407011003,
   "districtId": 7407011,
-  "name": "OIHU"
+  "districtName": "TOGO BINONGKO",
+  "name": "OIHU",
+  "postalCode": "93794"
  },
  {
   "id": 7407011004,
   "districtId": 7407011,
-  "name": "WALOINDI"
+  "districtName": "TOGO BINONGKO",
+  "name": "WALOINDI",
+  "postalCode": "93794"
  },
  {
   "id": 7407011005,
   "districtId": 7407011,
-  "name": "HAKA"
+  "districtName": "TOGO BINONGKO",
+  "name": "HAKA",
+  "postalCode": "93794"
  }
 ]

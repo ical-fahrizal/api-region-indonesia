@@ -2,76 +2,106 @@
  {
   "id": 3315040001,
   "districtId": 3315040,
-  "name": "DIMORO"
+  "districtName": "TOROH",
+  "name": "DIMORO",
+  "postalCode": "58171"
  },
  {
   "id": 3315040002,
   "districtId": 3315040,
-  "name": "GENENGADAL"
+  "districtName": "TOROH",
+  "name": "GENENGADAL",
+  "postalCode": "58171"
  },
  {
   "id": 3315040003,
   "districtId": 3315040,
-  "name": "SINDUREJO"
+  "districtName": "TOROH",
+  "name": "SINDUREJO",
+  "postalCode": "58171"
  },
  {
   "id": 3315040004,
   "districtId": 3315040,
-  "name": "BANDUNGHARJO"
+  "districtName": "TOROH",
+  "name": "BANDUNGHARJO",
+  "postalCode": "59454"
  },
  {
   "id": 3315040005,
   "districtId": 3315040,
-  "name": "GENENGSARI"
+  "districtName": "TOROH",
+  "name": "GENENGSARI",
+  "postalCode": "57383"
  },
  {
   "id": 3315040007,
   "districtId": 3315040,
-  "name": "NGRANDAH"
+  "districtName": "TOROH",
+  "name": "NGRANDAH",
+  "postalCode": "58171"
  },
  {
   "id": 3315040008,
   "districtId": 3315040,
-  "name": "TUNGGAK"
+  "districtName": "TOROH",
+  "name": "TUNGGAK",
+  "postalCode": "58171"
  },
  {
   "id": 3315040009,
   "districtId": 3315040,
-  "name": "BOLOH"
+  "districtName": "TOROH",
+  "name": "BOLOH",
+  "postalCode": "58171"
  },
  {
   "id": 3315040010,
   "districtId": 3315040,
-  "name": "PLOSOHARJO"
+  "districtName": "TOROH",
+  "name": "PLOSOHARJO",
+  "postalCode": "58171"
  },
  {
   "id": 3315040011,
   "districtId": 3315040,
-  "name": "TAMBIREJO"
+  "districtName": "TOROH",
+  "name": "TAMBIREJO",
+  "postalCode": "59581"
  },
  {
   "id": 3315040012,
   "districtId": 3315040,
-  "name": "DEPOK"
+  "districtName": "TOROH",
+  "name": "DEPOK",
+  "postalCode": "44174"
  },
  {
   "id": 3315040013,
   "districtId": 3315040,
-  "name": "KRANGGANHARJO"
+  "districtName": "TOROH",
+  "name": "KRANGGANHARJO",
+  "postalCode": "58171"
  },
  {
   "id": 3315040014,
   "districtId": 3315040,
-  "name": "SUGIHAN"
+  "districtName": "TOROH",
+  "name": "SUGIHAN",
+  "postalCode": "32272"
  },
  {
   "id": 3315040015,
   "districtId": 3315040,
-  "name": "PILANGPAYUNG"
+  "districtName": "TOROH",
+  "name": "PILANGPAYUNG",
+  "postalCode": "58171"
  },
  {
   "id": 3315040016,
   "districtId": 3315040,
-  "name": "KATONG"
+  "districtName": "TOROH",
+  "name": "KATONG",
+  "postalCode": "58171"
  }
 ]

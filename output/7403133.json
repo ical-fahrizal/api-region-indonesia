@@ -2,61 +2,85 @@
  {
   "id": 7403133001,
   "districtId": 7403133,
-  "name": "TRIMULYA"
+  "districtName": "ONEMBUTE",
+  "name": "TRIMULYA",
+  "postalCode": "78581"
  },
  {
   "id": 7403133002,
   "districtId": 7403133,
-  "name": "NAPOOSI"
+  "districtName": "ONEMBUTE",
+  "name": "NAPOOSI",
+  "postalCode": ""
  },
  {
   "id": 7403133003,
   "districtId": 7403133,
-  "name": "KASUMEIA"
+  "districtName": "ONEMBUTE",
+  "name": "KASUMEIA",
+  "postalCode": "93464"
  },
  {
   "id": 7403133004,
   "districtId": 7403133,
-  "name": "ULU ONEMBUTE"
+  "districtName": "ONEMBUTE",
+  "name": "ULU ONEMBUTE",
+  "postalCode": "93464"
  },
  {
   "id": 7403133005,
   "districtId": 7403133,
-  "name": "ONEMBUTE"
+  "districtName": "ONEMBUTE",
+  "name": "ONEMBUTE",
+  "postalCode": "93354"
  },
  {
   "id": 7403133006,
   "districtId": 7403133,
-  "name": "KUMAPO"
+  "districtName": "ONEMBUTE",
+  "name": "KUMAPO",
+  "postalCode": "93452"
  },
  {
   "id": 7403133007,
   "districtId": 7403133,
-  "name": "SUKA MAJU (ULU MERAKA)"
+  "districtName": "ONEMBUTE",
+  "name": "SUKA MAJU (ULU MERAKA)",
+  "postalCode": ""
  },
  {
   "id": 7403133008,
   "districtId": 7403133,
-  "name": "TAWA PANDERE"
+  "districtName": "ONEMBUTE",
+  "name": "TAWA PANDERE",
+  "postalCode": ""
  },
  {
   "id": 7403133009,
   "districtId": 7403133,
-  "name": "SILEA"
+  "districtName": "ONEMBUTE",
+  "name": "SILEA",
+  "postalCode": "93354"
  },
  {
   "id": 7403133010,
   "districtId": 7403133,
-  "name": "MATAIWOI"
+  "districtName": "ONEMBUTE",
+  "name": "MATAIWOI",
+  "postalCode": "93819"
  },
  {
   "id": 7403133011,
   "districtId": 7403133,
-  "name": "ANA ONEMBUTE"
+  "districtName": "ONEMBUTE",
+  "name": "ANA ONEMBUTE",
+  "postalCode": ""
  },
  {
   "id": 7403133012,
   "districtId": 7403133,
-  "name": "ANGGALOOSI"
+  "districtName": "ONEMBUTE",
+  "name": "ANGGALOOSI",
+  "postalCode": "93573"
  }
 ]

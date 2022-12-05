@@ -2,116 +2,162 @@
  {
   "id": 1408050001,
   "districtId": 1408050,
-  "name": "TELUK LANCAR"
+  "districtName": "BANTAN",
+  "name": "TELUK LANCAR",
+  "postalCode": ""
  },
  {
   "id": 1408050002,
   "districtId": 1408050,
-  "name": "KEMBUNG LUAR"
+  "districtName": "BANTAN",
+  "name": "KEMBUNG LUAR",
+  "postalCode": "28754"
  },
  {
   "id": 1408050003,
   "districtId": 1408050,
-  "name": "TELUK PAMBANG"
+  "districtName": "BANTAN",
+  "name": "TELUK PAMBANG",
+  "postalCode": ""
  },
  {
   "id": 1408050004,
   "districtId": 1408050,
-  "name": "MUNTAI"
+  "districtName": "BANTAN",
+  "name": "MUNTAI",
+  "postalCode": "28754"
  },
  {
   "id": 1408050005,
   "districtId": 1408050,
-  "name": "BANTAN AIR"
+  "districtName": "BANTAN",
+  "name": "BANTAN AIR",
+  "postalCode": "28754"
  },
  {
   "id": 1408050006,
   "districtId": 1408050,
-  "name": "BANTAN TENGAH"
+  "districtName": "BANTAN",
+  "name": "BANTAN TENGAH",
+  "postalCode": "28754"
  },
  {
   "id": 1408050007,
   "districtId": 1408050,
-  "name": "SELAT BARU"
+  "districtName": "BANTAN",
+  "name": "SELAT BARU",
+  "postalCode": "28754"
  },
  {
   "id": 1408050008,
   "districtId": 1408050,
-  "name": "BANTAN TUA"
+  "districtName": "BANTAN",
+  "name": "BANTAN TUA",
+  "postalCode": "28754"
  },
  {
   "id": 1408050009,
   "districtId": 1408050,
-  "name": "JANGKANG"
+  "districtName": "BANTAN",
+  "name": "JANGKANG",
+  "postalCode": "28754"
  },
  {
   "id": 1408050010,
   "districtId": 1408050,
-  "name": "KEMBUNG BARU"
+  "districtName": "BANTAN",
+  "name": "KEMBUNG BARU",
+  "postalCode": "28754"
  },
  {
   "id": 1408050011,
   "districtId": 1408050,
-  "name": "PAMBANG PESISIR"
+  "districtName": "BANTAN",
+  "name": "PAMBANG PESISIR",
+  "postalCode": ""
  },
  {
   "id": 1408050012,
   "districtId": 1408050,
-  "name": "PAMBANG BARU"
+  "districtName": "BANTAN",
+  "name": "PAMBANG BARU",
+  "postalCode": ""
  },
  {
   "id": 1408050013,
   "districtId": 1408050,
-  "name": "SUKA MAJU"
+  "districtName": "BANTAN",
+  "name": "SUKA MAJU",
+  "postalCode": "24673"
  },
  {
   "id": 1408050014,
   "districtId": 1408050,
-  "name": "MUNTAI BARAT"
+  "districtName": "BANTAN",
+  "name": "MUNTAI BARAT",
+  "postalCode": "28754"
  },
  {
   "id": 1408050015,
   "districtId": 1408050,
-  "name": "BANTAN SARI"
+  "districtName": "BANTAN",
+  "name": "BANTAN SARI",
+  "postalCode": "28754"
  },
  {
   "id": 1408050016,
   "districtId": 1408050,
-  "name": "BANTAN TIMUR"
+  "districtName": "BANTAN",
+  "name": "BANTAN TIMUR",
+  "postalCode": "20224"
  },
  {
   "id": 1408050017,
   "districtId": 1408050,
-  "name": "TELUK PAPAL"
+  "districtName": "BANTAN",
+  "name": "TELUK PAPAL",
+  "postalCode": ""
  },
  {
   "id": 1408050018,
   "districtId": 1408050,
-  "name": "ULU PULAU"
+  "districtName": "BANTAN",
+  "name": "ULU PULAU",
+  "postalCode": "28754"
  },
  {
   "id": 1408050019,
   "districtId": 1408050,
-  "name": "MENTAYAN"
+  "districtName": "BANTAN",
+  "name": "MENTAYAN",
+  "postalCode": "28754"
  },
  {
   "id": 1408050020,
   "districtId": 1408050,
-  "name": "RESAM LAPIS"
+  "districtName": "BANTAN",
+  "name": "RESAM LAPIS",
+  "postalCode": "28754"
  },
  {
   "id": 1408050021,
   "districtId": 1408050,
-  "name": "BERANCAH"
+  "districtName": "BANTAN",
+  "name": "BERANCAH",
+  "postalCode": "28754"
  },
  {
   "id": 1408050022,
   "districtId": 1408050,
-  "name": "PASIRAN"
+  "districtName": "BANTAN",
+  "name": "PASIRAN",
+  "postalCode": "20856"
  },
  {
   "id": 1408050023,
   "districtId": 1408050,
-  "name": "DELUK"
+  "districtName": "BANTAN",
+  "name": "DELUK",
+  "postalCode": "28754"
  }
 ]

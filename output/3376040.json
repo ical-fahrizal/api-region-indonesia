@@ -2,36 +2,50 @@
  {
   "id": 3376040001,
   "districtId": 3376040,
-  "name": "KALIGANGSA"
+  "districtName": "MARGADANA",
+  "name": "KALIGANGSA",
+  "postalCode": "52147"
  },
  {
   "id": 3376040002,
   "districtId": 3376040,
-  "name": "KRANDON"
+  "districtName": "MARGADANA",
+  "name": "KRANDON",
+  "postalCode": "59565"
  },
  {
   "id": 3376040003,
   "districtId": 3376040,
-  "name": "CABAWAN"
+  "districtName": "MARGADANA",
+  "name": "CABAWAN",
+  "postalCode": "52147"
  },
  {
   "id": 3376040004,
   "districtId": 3376040,
-  "name": "MARGADANA"
+  "districtName": "MARGADANA",
+  "name": "MARGADANA",
+  "postalCode": "52143"
  },
  {
   "id": 3376040005,
   "districtId": 3376040,
-  "name": "KALINYAMAT KULON"
+  "districtName": "MARGADANA",
+  "name": "KALINYAMAT KULON",
+  "postalCode": "52144"
  },
  {
   "id": 3376040006,
   "districtId": 3376040,
-  "name": "SUMURPANGGANG"
+  "districtName": "MARGADANA",
+  "name": "SUMURPANGGANG",
+  "postalCode": "52141"
  },
  {
   "id": 3376040007,
   "districtId": 3376040,
-  "name": "PESURUNGAN LOR"
+  "districtName": "MARGADANA",
+  "name": "PESURUNGAN LOR",
+  "postalCode": "52147"
  }
 ]

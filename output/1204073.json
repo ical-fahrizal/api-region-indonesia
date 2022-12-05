@@ -2,31 +2,43 @@
  {
   "id": 1204073001,
   "districtId": 1204073,
-  "name": "PANANGGAHAN"
+  "districtName": "BARUS UTARA",
+  "name": "PANANGGAHAN",
+  "postalCode": "22564"
  },
  {
   "id": 1204073002,
   "districtId": 1204073,
-  "name": "PURBA TUA"
+  "districtName": "BARUS UTARA",
+  "name": "PURBA TUA",
+  "postalCode": "22762"
  },
  {
   "id": 1204073003,
   "districtId": 1204073,
-  "name": "HUTAGINJANG"
+  "districtName": "BARUS UTARA",
+  "name": "HUTAGINJANG",
+  "postalCode": "22457"
  },
  {
   "id": 1204073004,
   "districtId": 1204073,
-  "name": "SIHORBO"
+  "districtName": "BARUS UTARA",
+  "name": "SIHORBO",
+  "postalCode": "22564"
  },
  {
   "id": 1204073005,
   "districtId": 1204073,
-  "name": "PARIK SINOMBA"
+  "districtName": "BARUS UTARA",
+  "name": "PARIK SINOMBA",
+  "postalCode": "22564"
  },
  {
   "id": 1204073008,
   "districtId": 1204073,
-  "name": "SIHARBANGAN"
+  "districtName": "BARUS UTARA",
+  "name": "SIHARBANGAN",
+  "postalCode": "22564"
  }
 ]

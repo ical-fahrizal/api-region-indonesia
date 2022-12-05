@@ -2,71 +2,99 @@
  {
   "id": 3301180001,
   "districtId": 3301180,
-  "name": "SIKAMPUH"
+  "districtName": "KROYA",
+  "name": "SIKAMPUH",
+  "postalCode": "53282"
  },
  {
   "id": 3301180002,
   "districtId": 3301180,
-  "name": "KARANGTURI"
+  "districtName": "KROYA",
+  "name": "KARANGTURI",
+  "postalCode": "57455"
  },
  {
   "id": 3301180003,
   "districtId": 3301180,
-  "name": "AYAMALAS"
+  "districtName": "KROYA",
+  "name": "AYAMALAS",
+  "postalCode": "53282"
  },
  {
   "id": 3301180004,
   "districtId": 3301180,
-  "name": "KARANGMANGU"
+  "districtName": "KROYA",
+  "name": "KARANGMANGU",
+  "postalCode": "45553"
  },
  {
   "id": 3301180005,
   "districtId": 3301180,
-  "name": "PUCUNG KIDUL"
+  "districtName": "KROYA",
+  "name": "PUCUNG KIDUL",
+  "postalCode": "53282"
  },
  {
   "id": 3301180006,
   "districtId": 3301180,
-  "name": "MERGAWATI"
+  "districtName": "KROYA",
+  "name": "MERGAWATI",
+  "postalCode": "53282"
  },
  {
   "id": 3301180007,
   "districtId": 3301180,
-  "name": "PUCUNG LOR"
+  "districtName": "KROYA",
+  "name": "PUCUNG LOR",
+  "postalCode": "53282"
  },
  {
   "id": 3301180008,
   "districtId": 3301180,
-  "name": "BAJING"
+  "districtName": "KROYA",
+  "name": "BAJING",
+  "postalCode": "53282"
  },
  {
   "id": 3301180009,
   "districtId": 3301180,
-  "name": "KROYA"
+  "districtName": "KROYA",
+  "name": "KROYA",
+  "postalCode": "45265"
  },
  {
   "id": 3301180010,
   "districtId": 3301180,
-  "name": "PESANGGRAHAN"
+  "districtName": "KROYA",
+  "name": "PESANGGRAHAN",
+  "postalCode": "12320"
  },
  {
   "id": 3301180012,
   "districtId": 3301180,
-  "name": "BAJING KULON"
+  "districtName": "KROYA",
+  "name": "BAJING KULON",
+  "postalCode": "53282"
  },
  {
   "id": 3301180013,
   "districtId": 3301180,
-  "name": "KEDAWUNG"
+  "districtName": "KROYA",
+  "name": "KEDAWUNG",
+  "postalCode": "45153"
  },
  {
   "id": 3301180015,
   "districtId": 3301180,
-  "name": "GENTASARI"
+  "districtName": "KROYA",
+  "name": "GENTASARI",
+  "postalCode": "53282"
  },
  {
   "id": 3301180016,
   "districtId": 3301180,
-  "name": "MUJUR LOR"
+  "districtName": "KROYA",
+  "name": "MUJUR LOR",
+  "postalCode": "53282"
  }
 ]

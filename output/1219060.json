@@ -2,51 +2,71 @@
  {
   "id": 1219060007,
   "districtId": 1219060,
-  "name": "SEI SUKA/DERAS"
+  "districtName": "SEI SUKA",
+  "name": "SEI SUKA/DERAS",
+  "postalCode": ""
  },
  {
   "id": 1219060008,
   "districtId": 1219060,
-  "name": "PERKEBUNAN SIPARE-PARE"
+  "districtName": "SEI SUKA",
+  "name": "PERKEBUNAN SIPARE-PARE",
+  "postalCode": "21257"
  },
  {
   "id": 1219060009,
   "districtId": 1219060,
-  "name": "SIMODONG"
+  "districtName": "SEI SUKA",
+  "name": "SIMODONG",
+  "postalCode": "21257"
  },
  {
   "id": 1219060010,
   "districtId": 1219060,
-  "name": "PEMATANG JERING"
+  "districtName": "SEI SUKA",
+  "name": "PEMATANG JERING",
+  "postalCode": "21257"
  },
  {
   "id": 1219060011,
   "districtId": 1219060,
-  "name": "PEMATANG KUING"
+  "districtName": "SEI SUKA",
+  "name": "PEMATANG KUING",
+  "postalCode": ""
  },
  {
   "id": 1219060012,
   "districtId": 1219060,
-  "name": "KWALA TANJUNG"
+  "districtName": "SEI SUKA",
+  "name": "KWALA TANJUNG",
+  "postalCode": ""
  },
  {
   "id": 1219060013,
   "districtId": 1219060,
-  "name": "KWALA INDAH"
+  "districtName": "SEI SUKA",
+  "name": "KWALA INDAH",
+  "postalCode": ""
  },
  {
   "id": 1219060018,
   "districtId": 1219060,
-  "name": "TANJUNG GADING"
+  "districtName": "SEI SUKA",
+  "name": "TANJUNG GADING",
+  "postalCode": "29352"
  },
  {
   "id": 1219060019,
   "districtId": 1219060,
-  "name": "SIMPANG KOPI"
+  "districtName": "SEI SUKA",
+  "name": "SIMPANG KOPI",
+  "postalCode": "21257"
  },
  {
   "id": 1219060020,
   "districtId": 1219060,
-  "name": "BROHOL"
+  "districtName": "SEI SUKA",
+  "name": "BROHOL",
+  "postalCode": "21257"
  }
 ]

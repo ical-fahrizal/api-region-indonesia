@@ -2,61 +2,85 @@
  {
   "id": 5304030001,
   "districtId": 5304030,
-  "name": "CENDANA"
+  "districtName": "KOTA SOE",
+  "name": "CENDANA",
+  "postalCode": "21417"
  },
  {
   "id": 5304030002,
   "districtId": 5304030,
-  "name": "SO'E"
+  "districtName": "KOTA SOE",
+  "name": "SO'E",
+  "postalCode": ""
  },
  {
   "id": 5304030003,
   "districtId": 5304030,
-  "name": "OEBESA"
+  "districtName": "KOTA SOE",
+  "name": "OEBESA",
+  "postalCode": "85515"
  },
  {
   "id": 5304030004,
   "districtId": 5304030,
-  "name": "KOBEKAMUSA"
+  "districtName": "KOTA SOE",
+  "name": "KOBEKAMUSA",
+  "postalCode": "85515"
  },
  {
   "id": 5304030006,
   "districtId": 5304030,
-  "name": "OEKEFAN"
+  "districtName": "KOTA SOE",
+  "name": "OEKEFAN",
+  "postalCode": "85519"
  },
  {
   "id": 5304030007,
   "districtId": 5304030,
-  "name": "TAUBNENO"
+  "districtName": "KOTA SOE",
+  "name": "TAUBNENO",
+  "postalCode": "85511"
  },
  {
   "id": 5304030008,
   "districtId": 5304030,
-  "name": "KAMPUNG BARU"
+  "districtName": "KOTA SOE",
+  "name": "KAMPUNG BARU",
+  "postalCode": "24652"
  },
  {
   "id": 5304030009,
   "districtId": 5304030,
-  "name": "KARANG SIRI"
+  "districtName": "KOTA SOE",
+  "name": "KARANG SIRI",
+  "postalCode": "85519"
  },
  {
   "id": 5304030010,
   "districtId": 5304030,
-  "name": "NONOHONIS"
+  "districtName": "KOTA SOE",
+  "name": "NONOHONIS",
+  "postalCode": "85517"
  },
  {
   "id": 5304030011,
   "districtId": 5304030,
-  "name": "KOTA BARU"
+  "districtName": "KOTA SOE",
+  "name": "KOTA BARU",
+  "postalCode": "23125"
  },
  {
   "id": 5304030012,
   "districtId": 5304030,
-  "name": "KUATAE"
+  "districtName": "KOTA SOE",
+  "name": "KUATAE",
+  "postalCode": "85519"
  },
  {
   "id": 5304030013,
   "districtId": 5304030,
-  "name": "NOEMETO"
+  "districtName": "KOTA SOE",
+  "name": "NOEMETO",
+  "postalCode": "85519"
  }
 ]

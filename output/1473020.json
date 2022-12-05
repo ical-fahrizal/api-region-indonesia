@@ -2,21 +2,29 @@
  {
   "id": 1473020005,
   "districtId": 1473020,
-  "name": "PANGKALAN SESAI"
+  "districtName": "DUMAI BARAT",
+  "name": "PANGKALAN SESAI",
+  "postalCode": "28824"
  },
  {
   "id": 1473020006,
   "districtId": 1473020,
-  "name": "PURNAMA"
+  "districtName": "DUMAI BARAT",
+  "name": "PURNAMA",
+  "postalCode": "28823"
  },
  {
   "id": 1473020009,
   "districtId": 1473020,
-  "name": "SIMPANG TETAP DARUL IHSAN"
+  "districtName": "DUMAI BARAT",
+  "name": "SIMPANG TETAP DARUL IHSAN",
+  "postalCode": ""
  },
  {
   "id": 1473020010,
   "districtId": 1473020,
-  "name": "BAGAN KELADI"
+  "districtName": "DUMAI BARAT",
+  "name": "BAGAN KELADI",
+  "postalCode": "28821"
  }
 ]

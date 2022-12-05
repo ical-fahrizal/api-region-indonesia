@@ -2,46 +2,64 @@
  {
   "id": 1406051001,
   "districtId": 1406051,
-  "name": "PULAU LAWAS"
+  "districtName": "BANGKINANG",
+  "name": "PULAU LAWAS",
+  "postalCode": "28463"
  },
  {
   "id": 1406051002,
   "districtId": 1406051,
-  "name": "MUARA UWAI"
+  "districtName": "BANGKINANG",
+  "name": "MUARA UWAI",
+  "postalCode": "28463"
  },
  {
   "id": 1406051003,
   "districtId": 1406051,
-  "name": "PULAU"
+  "districtName": "BANGKINANG",
+  "name": "PULAU",
+  "postalCode": "28463"
  },
  {
   "id": 1406051004,
   "districtId": 1406051,
-  "name": "PASIR SIALANG"
+  "districtName": "BANGKINANG",
+  "name": "PASIR SIALANG",
+  "postalCode": "28463"
  },
  {
   "id": 1406051005,
   "districtId": 1406051,
-  "name": "BUKIT SEMBILAN"
+  "districtName": "BANGKINANG",
+  "name": "BUKIT SEMBILAN",
+  "postalCode": "28463"
  },
  {
   "id": 1406051006,
   "districtId": 1406051,
-  "name": "LABOI JAYA"
+  "districtName": "BANGKINANG",
+  "name": "LABOI JAYA",
+  "postalCode": "28463"
  },
  {
   "id": 1406051007,
   "districtId": 1406051,
-  "name": "SUKA MULYA"
+  "districtName": "BANGKINANG",
+  "name": "SUKA MULYA",
+  "postalCode": "28463"
  },
  {
   "id": 1406051008,
   "districtId": 1406051,
-  "name": "BUKIT PAYUNG"
+  "districtName": "BANGKINANG",
+  "name": "BUKIT PAYUNG",
+  "postalCode": "28463"
  },
  {
   "id": 1406051009,
   "districtId": 1406051,
-  "name": "BINUANG"
+  "districtName": "BANGKINANG",
+  "name": "BINUANG",
+  "postalCode": "28463"
  }
 ]

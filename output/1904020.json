@@ -2,41 +2,57 @@
  {
   "id": 1904020006,
   "districtId": 1904020,
-  "name": "TANJUNG GUNUNG"
+  "districtName": "PANGKALAN BARU",
+  "name": "TANJUNG GUNUNG",
+  "postalCode": "22164"
  },
  {
   "id": 1904020008,
   "districtId": 1904020,
-  "name": "AIRMESU"
+  "districtName": "PANGKALAN BARU",
+  "name": "AIRMESU",
+  "postalCode": "33684"
  },
  {
   "id": 1904020010,
   "districtId": 1904020,
-  "name": "MANGKOL"
+  "districtName": "PANGKALAN BARU",
+  "name": "MANGKOL",
+  "postalCode": "33684"
  },
  {
   "id": 1904020012,
   "districtId": 1904020,
-  "name": "PADANG BARU"
+  "districtName": "PANGKALAN BARU",
+  "name": "PADANG BARU",
+  "postalCode": "23761"
  },
  {
   "id": 1904020015,
   "districtId": 1904020,
-  "name": "BATU BELUBANG"
+  "districtName": "PANGKALAN BARU",
+  "name": "BATU BELUBANG",
+  "postalCode": "33684"
  },
  {
   "id": 1904020016,
   "districtId": 1904020,
-  "name": "PEDINDANG"
+  "districtName": "PANGKALAN BARU",
+  "name": "PEDINDANG",
+  "postalCode": ""
  },
  {
   "id": 1904020017,
   "districtId": 1904020,
-  "name": "AIRMESU TIMUR"
+  "districtName": "PANGKALAN BARU",
+  "name": "AIRMESU TIMUR",
+  "postalCode": ""
  },
  {
   "id": 1904020018,
   "districtId": 1904020,
-  "name": "KEBINTIK"
+  "districtName": "PANGKALAN BARU",
+  "name": "KEBINTIK",
+  "postalCode": "33684"
  }
 ]

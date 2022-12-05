@@ -2,46 +2,64 @@
  {
   "id": 1703100001,
   "districtId": 1703100,
-  "name": "AIR PETAI"
+  "districtName": "PUTRI HIJAU",
+  "name": "AIR PETAI",
+  "postalCode": "38326"
  },
  {
   "id": 1703100002,
   "districtId": 1703100,
-  "name": "KARANG PULAU"
+  "districtName": "PUTRI HIJAU",
+  "name": "KARANG PULAU",
+  "postalCode": "38326"
  },
  {
   "id": 1703100003,
   "districtId": 1703100,
-  "name": "KARANG TENGAH"
+  "districtName": "PUTRI HIJAU",
+  "name": "KARANG TENGAH",
+  "postalCode": "20991"
  },
  {
   "id": 1703100004,
   "districtId": 1703100,
-  "name": "AIR MURING"
+  "districtName": "PUTRI HIJAU",
+  "name": "AIR MURING",
+  "postalCode": "38326"
  },
  {
   "id": 1703100005,
   "districtId": 1703100,
-  "name": "PASAR BARU KOTA BANI"
+  "districtName": "PUTRI HIJAU",
+  "name": "PASAR BARU KOTA BANI",
+  "postalCode": "38326"
  },
  {
   "id": 1703100006,
   "districtId": 1703100,
-  "name": "PASAR SEBELAT"
+  "districtName": "PUTRI HIJAU",
+  "name": "PASAR SEBELAT",
+  "postalCode": "38326"
  },
  {
   "id": 1703100007,
   "districtId": 1703100,
-  "name": "TALANG ARAH"
+  "districtName": "PUTRI HIJAU",
+  "name": "TALANG ARAH",
+  "postalCode": "38764"
  },
  {
   "id": 1703100008,
   "districtId": 1703100,
-  "name": "CIPTA MULYA"
+  "districtName": "PUTRI HIJAU",
+  "name": "CIPTA MULYA",
+  "postalCode": "38326"
  },
  {
   "id": 1703100009,
   "districtId": 1703100,
-  "name": "AIR PANDAN"
+  "districtName": "PUTRI HIJAU",
+  "name": "AIR PANDAN",
+  "postalCode": "38326"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 3603181001,
   "districtId": 3603181,
-  "name": "LEBAK WANGI"
+  "districtName": "SEPATAN TIMUR",
+  "name": "LEBAK WANGI",
+  "postalCode": "15520"
  },
  {
   "id": 3603181002,
   "districtId": 3603181,
-  "name": "KEDAUNG BARAT"
+  "districtName": "SEPATAN TIMUR",
+  "name": "KEDAUNG BARAT",
+  "postalCode": "15520"
  },
  {
   "id": 3603181003,
   "districtId": 3603181,
-  "name": "JATI MULYA"
+  "districtName": "SEPATAN TIMUR",
+  "name": "JATI MULYA",
+  "postalCode": "15520"
  },
  {
   "id": 3603181004,
   "districtId": 3603181,
-  "name": "TANAH MERAH"
+  "districtName": "SEPATAN TIMUR",
+  "name": "TANAH MERAH",
+  "postalCode": "24652"
  },
  {
   "id": 3603181005,
   "districtId": 3603181,
-  "name": "SANGIANG"
+  "districtName": "SEPATAN TIMUR",
+  "name": "SANGIANG",
+  "postalCode": "45468"
  },
  {
   "id": 3603181006,
   "districtId": 3603181,
-  "name": "GEMPOL SARI"
+  "districtName": "SEPATAN TIMUR",
+  "name": "GEMPOL SARI",
+  "postalCode": "61272"
  },
  {
   "id": 3603181007,
   "districtId": 3603181,
-  "name": "PONDOK KELOR"
+  "districtName": "SEPATAN TIMUR",
+  "name": "PONDOK KELOR",
+  "postalCode": "67291"
  },
  {
   "id": 3603181008,
   "districtId": 3603181,
-  "name": "KAMPUNG KELOR"
+  "districtName": "SEPATAN TIMUR",
+  "name": "KAMPUNG KELOR",
+  "postalCode": "15520"
  }
 ]

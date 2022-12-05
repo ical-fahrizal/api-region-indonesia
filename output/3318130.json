@@ -2,51 +2,71 @@
  {
   "id": 3318130001,
   "districtId": 3318130,
-  "name": "BERMI"
+  "districtName": "GEMBONG",
+  "name": "BERMI",
+  "postalCode": "59162"
  },
  {
   "id": 3318130003,
   "districtId": 3318130,
-  "name": "SEMIREJO"
+  "districtName": "GEMBONG",
+  "name": "SEMIREJO",
+  "postalCode": "59162"
  },
  {
   "id": 3318130004,
   "districtId": 3318130,
-  "name": "WONOSEKAR"
+  "districtName": "GEMBONG",
+  "name": "WONOSEKAR",
+  "postalCode": "59162"
  },
  {
   "id": 3318130005,
   "districtId": 3318130,
-  "name": "GEMBONG"
+  "districtName": "GEMBONG",
+  "name": "GEMBONG",
+  "postalCode": "53362"
  },
  {
   "id": 3318130006,
   "districtId": 3318130,
-  "name": "PLUKARAN"
+  "districtName": "GEMBONG",
+  "name": "PLUKARAN",
+  "postalCode": "59162"
  },
  {
   "id": 3318130007,
   "districtId": 3318130,
-  "name": "BAGENG"
+  "districtName": "GEMBONG",
+  "name": "BAGENG",
+  "postalCode": "59162"
  },
  {
   "id": 3318130008,
   "districtId": 3318130,
-  "name": "POHGADING"
+  "districtName": "GEMBONG",
+  "name": "POHGADING",
+  "postalCode": "59162"
  },
  {
   "id": 3318130009,
   "districtId": 3318130,
-  "name": "KLAKAH KASIAN"
+  "districtName": "GEMBONG",
+  "name": "KLAKAH KASIAN",
+  "postalCode": "59162"
  },
  {
   "id": 3318130010,
   "districtId": 3318130,
-  "name": "KETANGGAN"
+  "districtName": "GEMBONG",
+  "name": "KETANGGAN",
+  "postalCode": "59162"
  },
  {
   "id": 3318130011,
   "districtId": 3318130,
-  "name": "SITILUHUR"
+  "districtName": "GEMBONG",
+  "name": "SITILUHUR",
+  "postalCode": "59162"
  }
 ]

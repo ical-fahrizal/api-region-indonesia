@@ -2,66 +2,92 @@
  {
   "id": 3315060001,
   "districtId": 3315060,
-  "name": "RANDUREJO"
+  "districtName": "PULOKULON",
+  "name": "RANDUREJO",
+  "postalCode": "58181"
  },
  {
   "id": 3315060002,
   "districtId": 3315060,
-  "name": "MLOWOKARANGTALUN"
+  "districtName": "PULOKULON",
+  "name": "MLOWOKARANGTALUN",
+  "postalCode": "58181"
  },
  {
   "id": 3315060003,
   "districtId": 3315060,
-  "name": "POJOK"
+  "districtName": "PULOKULON",
+  "name": "POJOK",
+  "postalCode": "57752"
  },
  {
   "id": 3315060004,
   "districtId": 3315060,
-  "name": "JATIHARJO"
+  "districtName": "PULOKULON",
+  "name": "JATIHARJO",
+  "postalCode": "57784"
  },
  {
   "id": 3315060005,
   "districtId": 3315060,
-  "name": "SIDOREJO"
+  "districtName": "PULOKULON",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 3315060006,
   "districtId": 3315060,
-  "name": "TUKO"
+  "districtName": "PULOKULON",
+  "name": "TUKO",
+  "postalCode": "58181"
  },
  {
   "id": 3315060007,
   "districtId": 3315060,
-  "name": "PANUNGGALAN"
+  "districtName": "PULOKULON",
+  "name": "PANUNGGALAN",
+  "postalCode": "53393"
  },
  {
   "id": 3315060008,
   "districtId": 3315060,
-  "name": "MANGUNREJO"
+  "districtName": "PULOKULON",
+  "name": "MANGUNREJO",
+  "postalCode": "56163"
  },
  {
   "id": 3315060009,
   "districtId": 3315060,
-  "name": "JETAKSARI"
+  "districtName": "PULOKULON",
+  "name": "JETAKSARI",
+  "postalCode": "58181"
  },
  {
   "id": 3315060010,
   "districtId": 3315060,
-  "name": "PULOKULON"
+  "districtName": "PULOKULON",
+  "name": "PULOKULON",
+  "postalCode": "58181"
  },
  {
   "id": 3315060011,
   "districtId": 3315060,
-  "name": "JAMBON"
+  "districtName": "PULOKULON",
+  "name": "JAMBON",
+  "postalCode": "56283"
  },
  {
   "id": 3315060012,
   "districtId": 3315060,
-  "name": "KARANGHARJO"
+  "districtName": "PULOKULON",
+  "name": "KARANGHARJO",
+  "postalCode": "59273"
  },
  {
   "id": 3315060013,
   "districtId": 3315060,
-  "name": "SEMBUNGHARJO"
+  "districtName": "PULOKULON",
+  "name": "SEMBUNGHARJO",
+  "postalCode": "50116"
  }
 ]

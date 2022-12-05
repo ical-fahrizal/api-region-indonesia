@@ -2,66 +2,92 @@
  {
   "id": 3211060001,
   "districtId": 3211060,
-  "name": "SIRNAMULYA"
+  "districtName": "SUMEDANG UTARA",
+  "name": "SIRNAMULYA",
+  "postalCode": "45321"
  },
  {
   "id": 3211060002,
   "districtId": 3211060,
-  "name": "GIRIMUKTI"
+  "districtName": "SUMEDANG UTARA",
+  "name": "GIRIMUKTI",
+  "postalCode": "46475"
  },
  {
   "id": 3211060003,
   "districtId": 3211060,
-  "name": "MULYASARI"
+  "districtName": "SUMEDANG UTARA",
+  "name": "MULYASARI",
+  "postalCode": "43273"
  },
  {
   "id": 3211060004,
   "districtId": 3211060,
-  "name": "PADASUKA"
+  "districtName": "SUMEDANG UTARA",
+  "name": "PADASUKA",
+  "postalCode": "44185"
  },
  {
   "id": 3211060005,
   "districtId": 3211060,
-  "name": "MARGAMUKTI"
+  "districtName": "SUMEDANG UTARA",
+  "name": "MARGAMUKTI",
+  "postalCode": "45582"
  },
  {
   "id": 3211060006,
   "districtId": 3211060,
-  "name": "MEKARJAYA"
+  "districtName": "SUMEDANG UTARA",
+  "name": "MEKARJAYA",
+  "postalCode": "30653"
  },
  {
   "id": 3211060007,
   "districtId": 3211060,
-  "name": "JATIMULYA"
+  "districtName": "SUMEDANG UTARA",
+  "name": "JATIMULYA",
+  "postalCode": "45595"
  },
  {
   "id": 3211060008,
   "districtId": 3211060,
-  "name": "JATIHURIP"
+  "districtName": "SUMEDANG UTARA",
+  "name": "JATIHURIP",
+  "postalCode": "46153"
  },
  {
   "id": 3211060009,
   "districtId": 3211060,
-  "name": "KEBONJATI"
+  "districtName": "SUMEDANG UTARA",
+  "name": "KEBONJATI",
+  "postalCode": "43112"
  },
  {
   "id": 3211060010,
   "districtId": 3211060,
-  "name": "SITU"
+  "districtName": "SUMEDANG UTARA",
+  "name": "SITU",
+  "postalCode": "41115"
  },
  {
   "id": 3211060011,
   "districtId": 3211060,
-  "name": "KOTAKALER"
+  "districtName": "SUMEDANG UTARA",
+  "name": "KOTAKALER",
+  "postalCode": "45322"
  },
  {
   "id": 3211060012,
   "districtId": 3211060,
-  "name": "TALUN"
+  "districtName": "SUMEDANG UTARA",
+  "name": "TALUN",
+  "postalCode": "40384"
  },
  {
   "id": 3211060013,
   "districtId": 3211060,
-  "name": "RANCAMULYA"
+  "districtName": "SUMEDANG UTARA",
+  "name": "RANCAMULYA",
+  "postalCode": "45263"
  }
 ]

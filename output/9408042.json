@@ -2,56 +2,78 @@
  {
   "id": 9408042001,
   "districtId": 9408042,
-  "name": "WABUAYAR"
+  "districtName": "TELUK AMPIMOI",
+  "name": "WABUAYAR",
+  "postalCode": ""
  },
  {
   "id": 9408042002,
   "districtId": 9408042,
-  "name": "AMPIMOI"
+  "districtName": "TELUK AMPIMOI",
+  "name": "AMPIMOI",
+  "postalCode": "98252"
  },
  {
   "id": 9408042003,
   "districtId": 9408042,
-  "name": "KAROAIPI"
+  "districtName": "TELUK AMPIMOI",
+  "name": "KAROAIPI",
+  "postalCode": ""
  },
  {
   "id": 9408042004,
   "districtId": 9408042,
-  "name": "RANDAWAYA"
+  "districtName": "TELUK AMPIMOI",
+  "name": "RANDAWAYA",
+  "postalCode": "98252"
  },
  {
   "id": 9408042005,
   "districtId": 9408042,
-  "name": "AYARI"
+  "districtName": "TELUK AMPIMOI",
+  "name": "AYARI",
+  "postalCode": "98252"
  },
  {
   "id": 9408042006,
   "districtId": 9408042,
-  "name": "WARIRONI"
+  "districtName": "TELUK AMPIMOI",
+  "name": "WARIRONI",
+  "postalCode": "98252"
  },
  {
   "id": 9408042007,
   "districtId": 9408042,
-  "name": "WAITA"
+  "districtName": "TELUK AMPIMOI",
+  "name": "WAITA",
+  "postalCode": "98252"
  },
  {
   "id": 9408042008,
   "districtId": 9408042,
-  "name": "TAREI"
+  "districtName": "TELUK AMPIMOI",
+  "name": "TAREI",
+  "postalCode": "98252"
  },
  {
   "id": 9408042009,
   "districtId": 9408042,
-  "name": "BARERAIPI"
+  "districtName": "TELUK AMPIMOI",
+  "name": "BARERAIPI",
+  "postalCode": ""
  },
  {
   "id": 9408042010,
   "districtId": 9408042,
-  "name": "SIROMI"
+  "districtName": "TELUK AMPIMOI",
+  "name": "SIROMI",
+  "postalCode": "98252"
  },
  {
   "id": 9408042011,
   "districtId": 9408042,
-  "name": "ARARENI"
+  "districtName": "TELUK AMPIMOI",
+  "name": "ARARENI",
+  "postalCode": "98252"
  }
 ]

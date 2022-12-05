@@ -2,36 +2,50 @@
  {
   "id": 9403200001,
   "districtId": 9403200,
-  "name": "KAMDERA"
+  "districtName": "DEMTA",
+  "name": "KAMDERA",
+  "postalCode": "99354"
  },
  {
   "id": 9403200002,
   "districtId": 9403200,
-  "name": "MUAIF"
+  "districtName": "DEMTA",
+  "name": "MUAIF",
+  "postalCode": "99354"
  },
  {
   "id": 9403200003,
   "districtId": 9403200,
-  "name": "AMBORA"
+  "districtName": "DEMTA",
+  "name": "AMBORA",
+  "postalCode": "99354"
  },
  {
   "id": 9403200004,
   "districtId": 9403200,
-  "name": "YAUGAPSA"
+  "districtName": "DEMTA",
+  "name": "YAUGAPSA",
+  "postalCode": ""
  },
  {
   "id": 9403200005,
   "districtId": 9403200,
-  "name": "DEMTA KOTA"
+  "districtName": "DEMTA",
+  "name": "DEMTA KOTA",
+  "postalCode": "99354"
  },
  {
   "id": 9403200006,
   "districtId": 9403200,
-  "name": "YAKORE"
+  "districtName": "DEMTA",
+  "name": "YAKORE",
+  "postalCode": "99354"
  },
  {
   "id": 9403200007,
   "districtId": 9403200,
-  "name": "MURIS KECIL"
+  "districtName": "DEMTA",
+  "name": "MURIS KECIL",
+  "postalCode": "99354"
  }
 ]

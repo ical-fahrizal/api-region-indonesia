@@ -2,26 +2,36 @@
  {
   "id": 3275060001,
   "districtId": 3275060,
-  "name": "BINTARA JAYA"
+  "districtName": "BEKASI BARAT",
+  "name": "BINTARA JAYA",
+  "postalCode": "17136"
  },
  {
   "id": 3275060002,
   "districtId": 3275060,
-  "name": "BINTARA"
+  "districtName": "BEKASI BARAT",
+  "name": "BINTARA",
+  "postalCode": "17134"
  },
  {
   "id": 3275060003,
   "districtId": 3275060,
-  "name": "KRANJI"
+  "districtName": "BEKASI BARAT",
+  "name": "KRANJI",
+  "postalCode": "17135"
  },
  {
   "id": 3275060005,
   "districtId": 3275060,
-  "name": "KOTA BARU"
+  "districtName": "BEKASI BARAT",
+  "name": "KOTA BARU",
+  "postalCode": "23125"
  },
  {
   "id": 3275060008,
   "districtId": 3275060,
-  "name": "JAKA SAMPURNA"
+  "districtName": "BEKASI BARAT",
+  "name": "JAKA SAMPURNA",
+  "postalCode": "17145"
  }
 ]

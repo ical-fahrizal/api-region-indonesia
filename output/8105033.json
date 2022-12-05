@@ -2,46 +2,64 @@
  {
   "id": 8105033001,
   "districtId": 8105033,
-  "name": "WAIFUAL"
+  "districtName": "SIR-SIR",
+  "name": "WAIFUAL",
+  "postalCode": ""
  },
  {
   "id": 8105033002,
   "districtId": 8105033,
-  "name": "WAFAN"
+  "districtName": "SIR-SIR",
+  "name": "WAFAN",
+  "postalCode": "97664"
  },
  {
   "id": 8105033003,
   "districtId": 8105033,
-  "name": "LANGHALAU"
+  "districtName": "SIR-SIR",
+  "name": "LANGHALAU",
+  "postalCode": "97664"
  },
  {
   "id": 8105033004,
   "districtId": 8105033,
-  "name": "GOMSEY"
+  "districtName": "SIR-SIR",
+  "name": "GOMSEY",
+  "postalCode": "97664"
  },
  {
   "id": 8105033005,
   "districtId": 8105033,
-  "name": "LEITING"
+  "districtName": "SIR-SIR",
+  "name": "LEITING",
+  "postalCode": "97664"
  },
  {
   "id": 8105033006,
   "districtId": 8105033,
-  "name": "BERDEFAN"
+  "districtName": "SIR-SIR",
+  "name": "BERDEFAN",
+  "postalCode": "97664"
  },
  {
   "id": 8105033007,
   "districtId": 8105033,
-  "name": "MOHONGSEL"
+  "districtName": "SIR-SIR",
+  "name": "MOHONGSEL",
+  "postalCode": "97664"
  },
  {
   "id": 8105033008,
   "districtId": 8105033,
-  "name": "KOLAHA"
+  "districtName": "SIR-SIR",
+  "name": "KOLAHA",
+  "postalCode": "97664"
  },
  {
   "id": 8105033009,
   "districtId": 8105033,
-  "name": "GODA GODA"
+  "districtName": "SIR-SIR",
+  "name": "GODA GODA",
+  "postalCode": "97664"
  }
 ]

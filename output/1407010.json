@@ -2,71 +2,99 @@
  {
   "id": 1407010001,
   "districtId": 1407010,
-  "name": "CIPANG KIRI HULU"
+  "districtName": "ROKAN IV KOTO",
+  "name": "CIPANG KIRI HULU",
+  "postalCode": "28555"
  },
  {
   "id": 1407010002,
   "districtId": 1407010,
-  "name": "CIPANG KIRI HILIR"
+  "districtName": "ROKAN IV KOTO",
+  "name": "CIPANG KIRI HILIR",
+  "postalCode": "28555"
  },
  {
   "id": 1407010007,
   "districtId": 1407010,
-  "name": "SIKEBAU JAYA"
+  "districtName": "ROKAN IV KOTO",
+  "name": "SIKEBAU JAYA",
+  "postalCode": "28555"
  },
  {
   "id": 1407010008,
   "districtId": 1407010,
-  "name": "LUBUK BENDAHARA"
+  "districtName": "ROKAN IV KOTO",
+  "name": "LUBUK BENDAHARA",
+  "postalCode": "28555"
  },
  {
   "id": 1407010009,
   "districtId": 1407010,
-  "name": "LUBUK BENDAHARA TIMUR"
+  "districtName": "ROKAN IV KOTO",
+  "name": "LUBUK BENDAHARA TIMUR",
+  "postalCode": "28555"
  },
  {
   "id": 1407010010,
   "districtId": 1407010,
-  "name": "TANJUNG MEDAN"
+  "districtName": "ROKAN IV KOTO",
+  "name": "TANJUNG MEDAN",
+  "postalCode": "21411"
  },
  {
   "id": 1407010011,
   "districtId": 1407010,
-  "name": "ROKAN"
+  "districtName": "ROKAN IV KOTO",
+  "name": "ROKAN",
+  "postalCode": "28555"
  },
  {
   "id": 1407010012,
   "districtId": 1407010,
-  "name": "CIPANG KANAN"
+  "districtName": "ROKAN IV KOTO",
+  "name": "CIPANG KANAN",
+  "postalCode": "28555"
  },
  {
   "id": 1407010013,
   "districtId": 1407010,
-  "name": "ROKAN KOTO RUANG"
+  "districtName": "ROKAN IV KOTO",
+  "name": "ROKAN KOTO RUANG",
+  "postalCode": "28555"
  },
  {
   "id": 1407010014,
   "districtId": 1407010,
-  "name": "ROKAN TIMUR"
+  "districtName": "ROKAN IV KOTO",
+  "name": "ROKAN TIMUR",
+  "postalCode": "28555"
  },
  {
   "id": 1407010015,
   "districtId": 1407010,
-  "name": "TIBAWAN"
+  "districtName": "ROKAN IV KOTO",
+  "name": "TIBAWAN",
+  "postalCode": "28555"
  },
  {
   "id": 1407010016,
   "districtId": 1407010,
-  "name": "LUBUK BETUNG"
+  "districtName": "ROKAN IV KOTO",
+  "name": "LUBUK BETUNG",
+  "postalCode": "28555"
  },
  {
   "id": 1407010017,
   "districtId": 1407010,
-  "name": "ALAHAN"
+  "districtName": "ROKAN IV KOTO",
+  "name": "ALAHAN",
+  "postalCode": "28555"
  },
  {
   "id": 1407010018,
   "districtId": 1407010,
-  "name": "PEMANDANG"
+  "districtName": "ROKAN IV KOTO",
+  "name": "PEMANDANG",
+  "postalCode": "28555"
  }
 ]

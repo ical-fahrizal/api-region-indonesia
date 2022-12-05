@@ -2,26 +2,36 @@
  {
   "id": 2102050003,
   "districtId": 2102050,
-  "name": "LANCANG KUNING"
+  "districtName": "BINTAN UTARA",
+  "name": "LANCANG KUNING",
+  "postalCode": "29152"
  },
  {
   "id": 2102050004,
   "districtId": 2102050,
-  "name": "TANJUNG UBAN SELATAN"
+  "districtName": "BINTAN UTARA",
+  "name": "TANJUNG UBAN SELATAN",
+  "postalCode": "29152"
  },
  {
   "id": 2102050005,
   "districtId": 2102050,
-  "name": "TANJUNG UBAN KOTA"
+  "districtName": "BINTAN UTARA",
+  "name": "TANJUNG UBAN KOTA",
+  "postalCode": "29152"
  },
  {
   "id": 2102050006,
   "districtId": 2102050,
-  "name": "TANJUNG UBAN UTARA"
+  "districtName": "BINTAN UTARA",
+  "name": "TANJUNG UBAN UTARA",
+  "postalCode": "29152"
  },
  {
   "id": 2102050009,
   "districtId": 2102050,
-  "name": "TANJUNG UBAN TIMUR"
+  "districtName": "BINTAN UTARA",
+  "name": "TANJUNG UBAN TIMUR",
+  "postalCode": "29152"
  }
 ]

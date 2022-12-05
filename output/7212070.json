@@ -2,36 +2,50 @@
  {
   "id": 7212070001,
   "districtId": 7212070,
-  "name": "TIWAA"
+  "districtName": "MORI UTARA",
+  "name": "TIWAA",
+  "postalCode": "94965"
  },
  {
   "id": 7212070002,
   "districtId": 7212070,
-  "name": "TABARANO"
+  "districtName": "MORI UTARA",
+  "name": "TABARANO",
+  "postalCode": "94965"
  },
  {
   "id": 7212070003,
   "districtId": 7212070,
-  "name": "WAWONDULA"
+  "districtName": "MORI UTARA",
+  "name": "WAWONDULA",
+  "postalCode": "92982"
  },
  {
   "id": 7212070004,
   "districtId": 7212070,
-  "name": "LEMBONTONARA"
+  "districtName": "MORI UTARA",
+  "name": "LEMBONTONARA",
+  "postalCode": "94965"
  },
  {
   "id": 7212070005,
   "districtId": 7212070,
-  "name": "TAMONJENGI"
+  "districtName": "MORI UTARA",
+  "name": "TAMONJENGI",
+  "postalCode": "94965"
  },
  {
   "id": 7212070006,
   "districtId": 7212070,
-  "name": "MAYUMBA"
+  "districtName": "MORI UTARA",
+  "name": "MAYUMBA",
+  "postalCode": "94965"
  },
  {
   "id": 7212070008,
   "districtId": 7212070,
-  "name": "ERA"
+  "districtName": "MORI UTARA",
+  "name": "ERA",
+  "postalCode": "94965"
  }
 ]

@@ -2,26 +2,36 @@
  {
   "id": 3203111001,
   "districtId": 3203111,
-  "name": "CAMPAKAWARNA"
+  "districtName": "CAMPAKA MULYA",
+  "name": "CAMPAKAWARNA",
+  "postalCode": "43269"
  },
  {
   "id": 3203111002,
   "districtId": 3203111,
-  "name": "CAMPAKAMULYA"
+  "districtName": "CAMPAKA MULYA",
+  "name": "CAMPAKAMULYA",
+  "postalCode": "43269"
  },
  {
   "id": 3203111003,
   "districtId": 3203111,
-  "name": "SUKABUNGAH"
+  "districtName": "CAMPAKA MULYA",
+  "name": "SUKABUNGAH",
+  "postalCode": "17350"
  },
  {
   "id": 3203111004,
   "districtId": 3203111,
-  "name": "CIBANGGALA"
+  "districtName": "CAMPAKA MULYA",
+  "name": "CIBANGGALA",
+  "postalCode": "43269"
  },
  {
   "id": 3203111005,
   "districtId": 3203111,
-  "name": "SUKASIRNA"
+  "districtName": "CAMPAKA MULYA",
+  "name": "SUKASIRNA",
+  "postalCode": "43269"
  }
 ]

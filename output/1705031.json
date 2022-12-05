@@ -2,76 +2,106 @@
  {
   "id": 1705031001,
   "districtId": 1705031,
-  "name": "DUSUN BARU"
+  "districtName": "ILIR TALO",
+  "name": "DUSUN BARU",
+  "postalCode": "37162"
  },
  {
   "id": 1705031002,
   "districtId": 1705031,
-  "name": "PADANG BATU"
+  "districtName": "ILIR TALO",
+  "name": "PADANG BATU",
+  "postalCode": "38887"
  },
  {
   "id": 1705031003,
   "districtId": 1705031,
-  "name": "PENAGO I"
+  "districtName": "ILIR TALO",
+  "name": "PENAGO I",
+  "postalCode": "38887"
  },
  {
   "id": 1705031004,
   "districtId": 1705031,
-  "name": "PENAGO BARU"
+  "districtName": "ILIR TALO",
+  "name": "PENAGO BARU",
+  "postalCode": "38887"
  },
  {
   "id": 1705031005,
   "districtId": 1705031,
-  "name": "RAWA INDAH"
+  "districtName": "ILIR TALO",
+  "name": "RAWA INDAH",
+  "postalCode": "38887"
  },
  {
   "id": 1705031006,
   "districtId": 1705031,
-  "name": "TANAH ABANG"
+  "districtName": "ILIR TALO",
+  "name": "TANAH ABANG",
+  "postalCode": "20585"
  },
  {
   "id": 1705031007,
   "districtId": 1705031,
-  "name": "PENAGO II"
+  "districtName": "ILIR TALO",
+  "name": "PENAGO II",
+  "postalCode": "38887"
  },
  {
   "id": 1705031008,
   "districtId": 1705031,
-  "name": "TALANG KABU"
+  "districtName": "ILIR TALO",
+  "name": "TALANG KABU",
+  "postalCode": "38887"
  },
  {
   "id": 1705031009,
   "districtId": 1705031,
-  "name": "TALANG PANJANG"
+  "districtName": "ILIR TALO",
+  "name": "TALANG PANJANG",
+  "postalCode": "38372"
  },
  {
   "id": 1705031010,
   "districtId": 1705031,
-  "name": "PADANG CEKUR"
+  "districtName": "ILIR TALO",
+  "name": "PADANG CEKUR",
+  "postalCode": "38887"
  },
  {
   "id": 1705031011,
   "districtId": 1705031,
-  "name": "NANTI AGUNG"
+  "districtName": "ILIR TALO",
+  "name": "NANTI AGUNG",
+  "postalCode": "38887"
  },
  {
   "id": 1705031012,
   "districtId": 1705031,
-  "name": "PASAR TALO"
+  "districtName": "ILIR TALO",
+  "name": "PASAR TALO",
+  "postalCode": "38887"
  },
  {
   "id": 1705031013,
   "districtId": 1705031,
-  "name": "MARGO SARI"
+  "districtName": "ILIR TALO",
+  "name": "MARGO SARI",
+  "postalCode": "38887"
  },
  {
   "id": 1705031014,
   "districtId": 1705031,
-  "name": "PALUH TERAP"
+  "districtName": "ILIR TALO",
+  "name": "PALUH TERAP",
+  "postalCode": ""
  },
  {
   "id": 1705031015,
   "districtId": 1705031,
-  "name": "MEKAR SARI"
+  "districtName": "ILIR TALO",
+  "name": "MEKAR SARI",
+  "postalCode": "21261"
  }
 ]

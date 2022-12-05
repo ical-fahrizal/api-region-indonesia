@@ -2,31 +2,43 @@
  {
   "id": 5304072002,
   "districtId": 5304072,
-  "name": "PENE UTARA"
+  "districtName": "OENINO",
+  "name": "PENE UTARA",
+  "postalCode": "85572"
  },
  {
   "id": 5304072003,
   "districtId": 5304072,
-  "name": "NOE NONI"
+  "districtName": "OENINO",
+  "name": "NOE NONI",
+  "postalCode": "85572"
  },
  {
   "id": 5304072004,
   "districtId": 5304072,
-  "name": "HOI"
+  "districtName": "OENINO",
+  "name": "HOI",
+  "postalCode": "85572"
  },
  {
   "id": 5304072005,
   "districtId": 5304072,
-  "name": "NIKI NIKI UN"
+  "districtName": "OENINO",
+  "name": "NIKI NIKI UN",
+  "postalCode": "85572"
  },
  {
   "id": 5304072006,
   "districtId": 5304072,
-  "name": "OENINO"
+  "districtName": "OENINO",
+  "name": "OENINO",
+  "postalCode": "85651"
  },
  {
   "id": 5304072007,
   "districtId": 5304072,
-  "name": "ABI"
+  "districtName": "OENINO",
+  "name": "ABI",
+  "postalCode": "85572"
  }
 ]

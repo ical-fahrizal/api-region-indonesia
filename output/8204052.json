@@ -2,31 +2,43 @@
  {
   "id": 8204052001,
   "districtId": 8204052,
-  "name": "TAWA BACAN BARAT"
+  "districtName": "KASIRUTA TIMUR",
+  "name": "TAWA BACAN BARAT",
+  "postalCode": ""
  },
  {
   "id": 8204052002,
   "districtId": 8204052,
-  "name": "MARITOSU"
+  "districtName": "KASIRUTA TIMUR",
+  "name": "MARITOSU",
+  "postalCode": ""
  },
  {
   "id": 8204052003,
   "districtId": 8204052,
-  "name": "LOLEO JAYA"
+  "districtName": "KASIRUTA TIMUR",
+  "name": "LOLEO JAYA",
+  "postalCode": "97791"
  },
  {
   "id": 8204052004,
   "districtId": 8204052,
-  "name": "KOUBALABALA"
+  "districtName": "KASIRUTA TIMUR",
+  "name": "KOUBALABALA",
+  "postalCode": "97791"
  },
  {
   "id": 8204052005,
   "districtId": 8204052,
-  "name": "LOLEO MEKAR"
+  "districtName": "KASIRUTA TIMUR",
+  "name": "LOLEO MEKAR",
+  "postalCode": ""
  },
  {
   "id": 8204052006,
   "districtId": 8204052,
-  "name": "KASIRUTA DALAM"
+  "districtName": "KASIRUTA TIMUR",
+  "name": "KASIRUTA DALAM",
+  "postalCode": "97791"
  }
 ]

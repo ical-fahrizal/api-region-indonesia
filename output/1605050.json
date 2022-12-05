@@ -2,61 +2,85 @@
  {
   "id": 1605050014,
   "districtId": 1605050,
-  "name": "PEDANG"
+  "districtName": "MUARA BELITI",
+  "name": "PEDANG",
+  "postalCode": ""
  },
  {
   "id": 1605050015,
   "districtId": 1605050,
-  "name": "MUARA BELITI BARU"
+  "districtName": "MUARA BELITI",
+  "name": "MUARA BELITI BARU",
+  "postalCode": "31661"
  },
  {
   "id": 1605050017,
   "districtId": 1605050,
-  "name": "PASAR MUARA BELITI"
+  "districtName": "MUARA BELITI",
+  "name": "PASAR MUARA BELITI",
+  "postalCode": "31661"
  },
  {
   "id": 1605050018,
   "districtId": 1605050,
-  "name": "SURO"
+  "districtName": "MUARA BELITI",
+  "name": "SURO",
+  "postalCode": "53191"
  },
  {
   "id": 1605050019,
   "districtId": 1605050,
-  "name": "BUMI AGUNG"
+  "districtName": "MUARA BELITI",
+  "name": "BUMI AGUNG",
+  "postalCode": "31521"
  },
  {
   "id": 1605050020,
   "districtId": 1605050,
-  "name": "MANA RESMI"
+  "districtName": "MUARA BELITI",
+  "name": "MANA RESMI",
+  "postalCode": "31661"
  },
  {
   "id": 1605050025,
   "districtId": 1605050,
-  "name": "TANAH PERIUK I"
+  "districtName": "MUARA BELITI",
+  "name": "TANAH PERIUK I",
+  "postalCode": "31661"
  },
  {
   "id": 1605050026,
   "districtId": 1605050,
-  "name": "KETUAN JAYA"
+  "districtName": "MUARA BELITI",
+  "name": "KETUAN JAYA",
+  "postalCode": "31661"
  },
  {
   "id": 1605050027,
   "districtId": 1605050,
-  "name": "AIR SATAN"
+  "districtName": "MUARA BELITI",
+  "name": "AIR SATAN",
+  "postalCode": "31661"
  },
  {
   "id": 1605050028,
   "districtId": 1605050,
-  "name": "DURIAN REMUK"
+  "districtName": "MUARA BELITI",
+  "name": "DURIAN REMUK",
+  "postalCode": "31661"
  },
  {
   "id": 1605050029,
   "districtId": 1605050,
-  "name": "SATAN INDAH JAYA"
+  "districtName": "MUARA BELITI",
+  "name": "SATAN INDAH JAYA",
+  "postalCode": "31661"
  },
  {
   "id": 1605050030,
   "districtId": 1605050,
-  "name": "AIR LESING"
+  "districtName": "MUARA BELITI",
+  "name": "AIR LESING",
+  "postalCode": "31661"
  }
 ]

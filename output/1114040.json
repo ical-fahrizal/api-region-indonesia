@@ -2,26 +2,36 @@
  {
   "id": 1114040001,
   "districtId": 1114040,
-  "name": "SRIWIJAYA"
+  "districtName": "KOTA KUALA SIMPANG",
+  "name": "SRIWIJAYA",
+  "postalCode": "24475"
  },
  {
   "id": 1114040002,
   "districtId": 1114040,
-  "name": "KOTA KUALA SIMPANG"
+  "districtName": "KOTA KUALA SIMPANG",
+  "name": "KOTA KUALA SIMPANG",
+  "postalCode": "24475"
  },
  {
   "id": 1114040003,
   "districtId": 1114040,
-  "name": "PERDAMAIAN"
+  "districtName": "KOTA KUALA SIMPANG",
+  "name": "PERDAMAIAN",
+  "postalCode": "24475"
  },
  {
   "id": 1114040004,
   "districtId": 1114040,
-  "name": "BUKIT TEMPURUNG"
+  "districtName": "KOTA KUALA SIMPANG",
+  "name": "BUKIT TEMPURUNG",
+  "postalCode": "24475"
  },
  {
   "id": 1114040005,
   "districtId": 1114040,
-  "name": "KOTA LINTANG"
+  "districtName": "KOTA KUALA SIMPANG",
+  "name": "KOTA LINTANG",
+  "postalCode": "24475"
  }
 ]

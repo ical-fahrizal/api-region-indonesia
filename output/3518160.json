@@ -2,31 +2,43 @@
  {
   "id": 3518160001,
   "districtId": 3518160,
-  "name": "SUDIMOROHARJO"
+  "districtName": "WILANGAN",
+  "name": "SUDIMOROHARJO",
+  "postalCode": "64462"
  },
  {
   "id": 3518160002,
   "districtId": 3518160,
-  "name": "NGADIPIRO"
+  "districtName": "WILANGAN",
+  "name": "NGADIPIRO",
+  "postalCode": "57671"
  },
  {
   "id": 3518160003,
   "districtId": 3518160,
-  "name": "WILANGAN"
+  "districtName": "WILANGAN",
+  "name": "WILANGAN",
+  "postalCode": "63474"
  },
  {
   "id": 3518160004,
   "districtId": 3518160,
-  "name": "MANCON"
+  "districtName": "WILANGAN",
+  "name": "MANCON",
+  "postalCode": "64462"
  },
  {
   "id": 3518160005,
   "districtId": 3518160,
-  "name": "NGUDIKAN"
+  "districtName": "WILANGAN",
+  "name": "NGUDIKAN",
+  "postalCode": "64462"
  },
  {
   "id": 3518160006,
   "districtId": 3518160,
-  "name": "SUKOHARJO"
+  "districtName": "WILANGAN",
+  "name": "SUKOHARJO",
+  "postalCode": "32383"
  }
 ]

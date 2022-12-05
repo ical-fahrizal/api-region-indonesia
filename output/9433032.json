@@ -2,36 +2,50 @@
  {
   "id": 9433032001,
   "districtId": 9433032,
-  "name": "OGNANIM"
+  "districtName": "MABUGI",
+  "name": "OGNANIM",
+  "postalCode": ""
  },
  {
   "id": 9433032003,
   "districtId": 9433032,
-  "name": "POLOGAK"
+  "districtName": "MABUGI",
+  "name": "POLOGAK",
+  "postalCode": ""
  },
  {
   "id": 9433032004,
   "districtId": 9433032,
-  "name": "KABUKI"
+  "districtName": "MABUGI",
+  "name": "KABUKI",
+  "postalCode": ""
  },
  {
   "id": 9433032005,
   "districtId": 9433032,
-  "name": "OGONGKI"
+  "districtName": "MABUGI",
+  "name": "OGONGKI",
+  "postalCode": ""
  },
  {
   "id": 9433032006,
   "districtId": 9433032,
-  "name": "MABUGA"
+  "districtName": "MABUGI",
+  "name": "MABUGA",
+  "postalCode": ""
  },
  {
   "id": 9433032007,
   "districtId": 9433032,
-  "name": "KALEMOGOM"
+  "districtName": "MABUGI",
+  "name": "KALEMOGOM",
+  "postalCode": ""
  },
  {
   "id": 9433032008,
   "districtId": 9433032,
-  "name": "KOEAO"
+  "districtName": "MABUGI",
+  "name": "KOEAO",
+  "postalCode": ""
  }
 ]

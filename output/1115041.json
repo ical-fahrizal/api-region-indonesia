@@ -2,96 +2,134 @@
  {
   "id": 1115041001,
   "districtId": 1115041,
-  "name": "LUENG BARO"
+  "districtName": "SUKA MAKMUE",
+  "name": "LUENG BARO",
+  "postalCode": "24352"
  },
  {
   "id": 1115041002,
   "districtId": 1115041,
-  "name": "ALUE KAMBUEK"
+  "districtName": "SUKA MAKMUE",
+  "name": "ALUE KAMBUEK",
+  "postalCode": ""
  },
  {
   "id": 1115041003,
   "districtId": 1115041,
-  "name": "KUTA PADANG"
+  "districtName": "SUKA MAKMUE",
+  "name": "KUTA PADANG",
+  "postalCode": "23652"
  },
  {
   "id": 1115041004,
   "districtId": 1115041,
-  "name": "SUAK BILI"
+  "districtName": "SUKA MAKMUE",
+  "name": "SUAK BILI",
+  "postalCode": ""
  },
  {
   "id": 1115041005,
   "districtId": 1115041,
-  "name": "MACAH"
+  "districtName": "SUKA MAKMUE",
+  "name": "MACAH",
+  "postalCode": "23671"
  },
  {
   "id": 1115041006,
   "districtId": 1115041,
-  "name": "SEUMAMBEK"
+  "districtName": "SUKA MAKMUE",
+  "name": "SEUMAMBEK",
+  "postalCode": "23671"
  },
  {
   "id": 1115041007,
   "districtId": 1115041,
-  "name": "COT KUTA"
+  "districtName": "SUKA MAKMUE",
+  "name": "COT KUTA",
+  "postalCode": "24261"
  },
  {
   "id": 1115041008,
   "districtId": 1115041,
-  "name": "KABU BLANG SAPEK"
+  "districtName": "SUKA MAKMUE",
+  "name": "KABU BLANG SAPEK",
+  "postalCode": "23671"
  },
  {
   "id": 1115041009,
   "districtId": 1115041,
-  "name": "COT PERADI"
+  "districtName": "SUKA MAKMUE",
+  "name": "COT PERADI",
+  "postalCode": ""
  },
  {
   "id": 1115041010,
   "districtId": 1115041,
-  "name": "BLANG SAPEK"
+  "districtName": "SUKA MAKMUE",
+  "name": "BLANG SAPEK",
+  "postalCode": "23671"
  },
  {
   "id": 1115041011,
   "districtId": 1115041,
-  "name": "LHOK BEUTONG"
+  "districtName": "SUKA MAKMUE",
+  "name": "LHOK BEUTONG",
+  "postalCode": "23671"
  },
  {
   "id": 1115041012,
   "districtId": 1115041,
-  "name": "KAMPONG TEUNGOH"
+  "districtName": "SUKA MAKMUE",
+  "name": "KAMPONG TEUNGOH",
+  "postalCode": ""
  },
  {
   "id": 1115041013,
   "districtId": 1115041,
-  "name": "LHOK RAMEUN"
+  "districtName": "SUKA MAKMUE",
+  "name": "LHOK RAMEUN",
+  "postalCode": "23671"
  },
  {
   "id": 1115041014,
   "districtId": 1115041,
-  "name": "BLANG MULIENG"
+  "districtName": "SUKA MAKMUE",
+  "name": "BLANG MULIENG",
+  "postalCode": "23671"
  },
  {
   "id": 1115041015,
   "districtId": 1115041,
-  "name": "KRAK TAMPAI"
+  "districtName": "SUKA MAKMUE",
+  "name": "KRAK TAMPAI",
+  "postalCode": "23671"
  },
  {
   "id": 1115041016,
   "districtId": 1115041,
-  "name": "MEUREUBO"
+  "districtName": "SUKA MAKMUE",
+  "name": "MEUREUBO",
+  "postalCode": "24357"
  },
  {
   "id": 1115041017,
   "districtId": 1115041,
-  "name": "KUTA BARO BM"
+  "districtName": "SUKA MAKMUE",
+  "name": "KUTA BARO BM",
+  "postalCode": ""
  },
  {
   "id": 1115041018,
   "districtId": 1115041,
-  "name": "ALUE PEUSAJA"
+  "districtName": "SUKA MAKMUE",
+  "name": "ALUE PEUSAJA",
+  "postalCode": "23671"
  },
  {
   "id": 1115041019,
   "districtId": 1115041,
-  "name": "ALUE GAJAH"
+  "districtName": "SUKA MAKMUE",
+  "name": "ALUE GAJAH",
+  "postalCode": "23656"
  }
 ]

@@ -2,56 +2,78 @@
  {
   "id": 7110021001,
   "districtId": 7110021,
-  "name": "PANGIA"
+  "districtName": "HELUMO",
+  "name": "PANGIA",
+  "postalCode": "95774"
  },
  {
   "id": 7110021002,
   "districtId": 7110021,
-  "name": "SOPUTA"
+  "districtName": "HELUMO",
+  "name": "SOPUTA",
+  "postalCode": "95774"
  },
  {
   "id": 7110021003,
   "districtId": 7110021,
-  "name": "SINANDAKA"
+  "districtName": "HELUMO",
+  "name": "SINANDAKA",
+  "postalCode": "95774"
  },
  {
   "id": 7110021004,
   "districtId": 7110021,
-  "name": "BAKIDA"
+  "districtName": "HELUMO",
+  "name": "BAKIDA",
+  "postalCode": "95774"
  },
  {
   "id": 7110021005,
   "districtId": 7110021,
-  "name": "DUMINANGA"
+  "districtName": "HELUMO",
+  "name": "DUMINANGA",
+  "postalCode": "95774"
  },
  {
   "id": 7110021006,
   "districtId": 7110021,
-  "name": "BINIHA"
+  "districtName": "HELUMO",
+  "name": "BINIHA",
+  "postalCode": "95774"
  },
  {
   "id": 7110021007,
   "districtId": 7110021,
-  "name": "BINIHA TIMUR"
+  "districtName": "HELUMO",
+  "name": "BINIHA TIMUR",
+  "postalCode": "95774"
  },
  {
   "id": 7110021008,
   "districtId": 7110021,
-  "name": "MOTOLOHU"
+  "districtName": "HELUMO",
+  "name": "MOTOLOHU",
+  "postalCode": "96469"
  },
  {
   "id": 7110021009,
   "districtId": 7110021,
-  "name": "TRANS PATOA"
+  "districtName": "HELUMO",
+  "name": "TRANS PATOA",
+  "postalCode": ""
  },
  {
   "id": 7110021010,
   "districtId": 7110021,
-  "name": "BINIHA SELATAN"
+  "districtName": "HELUMO",
+  "name": "BINIHA SELATAN",
+  "postalCode": ""
  },
  {
   "id": 7110021011,
   "districtId": 7110021,
-  "name": "HALABOLU"
+  "districtName": "HELUMO",
+  "name": "HALABOLU",
+  "postalCode": ""
  }
 ]

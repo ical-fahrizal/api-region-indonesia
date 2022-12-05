@@ -2,46 +2,64 @@
  {
   "id": 3320110002,
   "districtId": 3320110,
-  "name": "DAMARWULAN"
+  "districtName": "KELING",
+  "name": "DAMARWULAN",
+  "postalCode": "30975"
  },
  {
   "id": 3320110003,
   "districtId": 3320110,
-  "name": "KUNIR"
+  "districtName": "KELING",
+  "name": "KUNIR",
+  "postalCode": "54264"
  },
  {
   "id": 3320110004,
   "districtId": 3320110,
-  "name": "WATUAJI"
+  "districtName": "KELING",
+  "name": "WATUAJI",
+  "postalCode": "59454"
  },
  {
   "id": 3320110006,
   "districtId": 3320110,
-  "name": "TUNAHAN"
+  "districtName": "KELING",
+  "name": "TUNAHAN",
+  "postalCode": "59454"
  },
  {
   "id": 3320110007,
   "districtId": 3320110,
-  "name": "KALIGARANG"
+  "districtName": "KELING",
+  "name": "KALIGARANG",
+  "postalCode": "59454"
  },
  {
   "id": 3320110008,
   "districtId": 3320110,
-  "name": "KELING"
+  "districtName": "KELING",
+  "name": "KELING",
+  "postalCode": "59454"
  },
  {
   "id": 3320110009,
   "districtId": 3320110,
-  "name": "GELANG"
+  "districtName": "KELING",
+  "name": "GELANG",
+  "postalCode": "59454"
  },
  {
   "id": 3320110010,
   "districtId": 3320110,
-  "name": "JLEGONG"
+  "districtName": "KELING",
+  "name": "JLEGONG",
+  "postalCode": "56258"
  },
  {
   "id": 3320110019,
   "districtId": 3320110,
-  "name": "BUMIHARJO"
+  "districtName": "KELING",
+  "name": "BUMIHARJO",
+  "postalCode": "34767"
  }
 ]

@@ -2,91 +2,127 @@
  {
   "id": 3305020001,
   "districtId": 3305020,
-  "name": "KARANGBOLONG"
+  "districtName": "BUAYAN",
+  "name": "KARANGBOLONG",
+  "postalCode": "54474"
  },
  {
   "id": 3305020002,
   "districtId": 3305020,
-  "name": "JLADRI"
+  "districtName": "BUAYAN",
+  "name": "JLADRI",
+  "postalCode": "54474"
  },
  {
   "id": 3305020003,
   "districtId": 3305020,
-  "name": "ADIWARNO"
+  "districtName": "BUAYAN",
+  "name": "ADIWARNO",
+  "postalCode": "54474"
  },
  {
   "id": 3305020004,
   "districtId": 3305020,
-  "name": "RANGKAH"
+  "districtName": "BUAYAN",
+  "name": "RANGKAH",
+  "postalCode": "54474"
  },
  {
   "id": 3305020005,
   "districtId": 3305020,
-  "name": "WONODADI"
+  "districtName": "BUAYAN",
+  "name": "WONODADI",
+  "postalCode": "30959"
  },
  {
   "id": 3305020007,
   "districtId": 3305020,
-  "name": "ROGODADI"
+  "districtName": "BUAYAN",
+  "name": "ROGODADI",
+  "postalCode": "54474"
  },
  {
   "id": 3305020008,
   "districtId": 3305020,
-  "name": "PAKURAN"
+  "districtName": "BUAYAN",
+  "name": "PAKURAN",
+  "postalCode": "54474"
  },
  {
   "id": 3305020009,
   "districtId": 3305020,
-  "name": "BUAYAN"
+  "districtName": "BUAYAN",
+  "name": "BUAYAN",
+  "postalCode": "54474"
  },
  {
   "id": 3305020010,
   "districtId": 3305020,
-  "name": "SIKAYU"
+  "districtName": "BUAYAN",
+  "name": "SIKAYU",
+  "postalCode": "54474"
  },
  {
   "id": 3305020011,
   "districtId": 3305020,
-  "name": "KARANGSARI"
+  "districtName": "BUAYAN",
+  "name": "KARANGSARI",
+  "postalCode": "35376"
  },
  {
   "id": 3305020012,
   "districtId": 3305020,
-  "name": "ROGODONO"
+  "districtName": "BUAYAN",
+  "name": "ROGODONO",
+  "postalCode": "54474"
  },
  {
   "id": 3305020013,
   "districtId": 3305020,
-  "name": "BANYUMUDAL"
+  "districtName": "BUAYAN",
+  "name": "BANYUMUDAL",
+  "postalCode": "54474"
  },
  {
   "id": 3305020015,
   "districtId": 3305020,
-  "name": "NOGORAJI"
+  "districtName": "BUAYAN",
+  "name": "NOGORAJI",
+  "postalCode": "54474"
  },
  {
   "id": 3305020016,
   "districtId": 3305020,
-  "name": "MERGOSONO"
+  "districtName": "BUAYAN",
+  "name": "MERGOSONO",
+  "postalCode": "54474"
  },
  {
   "id": 3305020017,
   "districtId": 3305020,
-  "name": "SEMAMPIR"
+  "districtName": "BUAYAN",
+  "name": "SEMAMPIR",
+  "postalCode": "53418"
  },
  {
   "id": 3305020018,
   "districtId": 3305020,
-  "name": "JOGOMULYO"
+  "districtName": "BUAYAN",
+  "name": "JOGOMULYO",
+  "postalCode": "54474"
  },
  {
   "id": 3305020019,
   "districtId": 3305020,
-  "name": "PURBOWANGI"
+  "districtName": "BUAYAN",
+  "name": "PURBOWANGI",
+  "postalCode": "54474"
  },
  {
   "id": 3305020020,
   "districtId": 3305020,
-  "name": "JATIROTO"
+  "districtName": "BUAYAN",
+  "name": "JATIROTO",
+  "postalCode": "54474"
  }
 ]

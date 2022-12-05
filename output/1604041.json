@@ -2,81 +2,113 @@
  {
   "id": 1604041001,
   "districtId": 1604041,
-  "name": "KARANG LEBAK"
+  "districtName": "MULAK ULU",
+  "name": "KARANG LEBAK",
+  "postalCode": "31453"
  },
  {
   "id": 1604041002,
   "districtId": 1604041,
-  "name": "SUKANANTI"
+  "districtName": "MULAK ULU",
+  "name": "SUKANANTI",
+  "postalCode": "31591"
  },
  {
   "id": 1604041003,
   "districtId": 1604041,
-  "name": "BABATAN"
+  "districtName": "MULAK ULU",
+  "name": "BABATAN",
+  "postalCode": "31593"
  },
  {
   "id": 1604041004,
   "districtId": 1604041,
-  "name": "SENGKUANG"
+  "districtName": "MULAK ULU",
+  "name": "SENGKUANG",
+  "postalCode": "31471"
  },
  {
   "id": 1604041005,
   "districtId": 1604041,
-  "name": "PADANG MASAT"
+  "districtName": "MULAK ULU",
+  "name": "PADANG MASAT",
+  "postalCode": ""
  },
  {
   "id": 1604041006,
   "districtId": 1604041,
-  "name": "PENINDAIAN"
+  "districtName": "MULAK ULU",
+  "name": "PENINDAIAN",
+  "postalCode": "31453"
  },
  {
   "id": 1604041007,
   "districtId": 1604041,
-  "name": "MUARA TIGA"
+  "districtName": "MULAK ULU",
+  "name": "MUARA TIGA",
+  "postalCode": "31453"
  },
  {
   "id": 1604041008,
   "districtId": 1604041,
-  "name": "TEBING TINGGI"
+  "districtName": "MULAK ULU",
+  "name": "TEBING TINGGI",
+  "postalCode": "24477"
  },
  {
   "id": 1604041009,
   "districtId": 1604041,
-  "name": "DATAR BALAM"
+  "districtName": "MULAK ULU",
+  "name": "DATAR BALAM",
+  "postalCode": "31453"
  },
  {
   "id": 1604041010,
   "districtId": 1604041,
-  "name": "PENGENTAAN"
+  "districtName": "MULAK ULU",
+  "name": "PENGENTAAN",
+  "postalCode": "31453"
  },
  {
   "id": 1604041011,
   "districtId": 1604041,
-  "name": "LESUNG BATU"
+  "districtName": "MULAK ULU",
+  "name": "LESUNG BATU",
+  "postalCode": "31593"
  },
  {
   "id": 1604041012,
   "districtId": 1604041,
-  "name": "AIR PUAR"
+  "districtName": "MULAK ULU",
+  "name": "AIR PUAR",
+  "postalCode": "31453"
  },
  {
   "id": 1604041013,
   "districtId": 1604041,
-  "name": "PAJAR BULAN"
+  "districtName": "MULAK ULU",
+  "name": "PAJAR BULAN",
+  "postalCode": "32279"
  },
  {
   "id": 1604041014,
   "districtId": 1604041,
-  "name": "MENGKENANG"
+  "districtName": "MULAK ULU",
+  "name": "MENGKENANG",
+  "postalCode": "31453"
  },
  {
   "id": 1604041015,
   "districtId": 1604041,
-  "name": "LAWANG AGUNG MULAK"
+  "districtName": "MULAK ULU",
+  "name": "LAWANG AGUNG MULAK",
+  "postalCode": "31453"
  },
  {
   "id": 1604041020,
   "districtId": 1604041,
-  "name": "GERAMAT"
+  "districtName": "MULAK ULU",
+  "name": "GERAMAT",
+  "postalCode": "31471"
  }
 ]

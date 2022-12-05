@@ -2,21 +2,29 @@
  {
   "id": 3402170001,
   "districtId": 3402170,
-  "name": "ARGODADI"
+  "districtName": "SEDAYU",
+  "name": "ARGODADI",
+  "postalCode": "55752"
  },
  {
   "id": 3402170002,
   "districtId": 3402170,
-  "name": "ARGOREJO"
+  "districtName": "SEDAYU",
+  "name": "ARGOREJO",
+  "postalCode": "55752"
  },
  {
   "id": 3402170003,
   "districtId": 3402170,
-  "name": "ARGOSARI"
+  "districtName": "SEDAYU",
+  "name": "ARGOSARI",
+  "postalCode": "54473"
  },
  {
   "id": 3402170004,
   "districtId": 3402170,
-  "name": "ARGOMULYO"
+  "districtName": "SEDAYU",
+  "name": "ARGOMULYO",
+  "postalCode": "34766"
  }
 ]

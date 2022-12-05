@@ -2,61 +2,85 @@
  {
   "id": 7415040009,
   "districtId": 7415040,
-  "name": "POGALAMPA"
+  "districtName": "BATAUGA",
+  "name": "POGALAMPA",
+  "postalCode": ""
  },
  {
   "id": 7415040010,
   "districtId": 7415040,
-  "name": "BOLA"
+  "districtName": "BATAUGA",
+  "name": "BOLA",
+  "postalCode": "86171"
  },
  {
   "id": 7415040011,
   "districtId": 7415040,
-  "name": "MAJAPAHIT"
+  "districtName": "BATAUGA",
+  "name": "MAJAPAHIT",
+  "postalCode": "31628"
  },
  {
   "id": 7415040012,
   "districtId": 7415040,
-  "name": "MASIRI"
+  "districtName": "BATAUGA",
+  "name": "MASIRI",
+  "postalCode": "93752"
  },
  {
   "id": 7415040013,
   "districtId": 7415040,
-  "name": "LAOMPO"
+  "districtName": "BATAUGA",
+  "name": "LAOMPO",
+  "postalCode": "93752"
  },
  {
   "id": 7415040014,
   "districtId": 7415040,
-  "name": "BUSOA"
+  "districtName": "BATAUGA",
+  "name": "BUSOA",
+  "postalCode": "93752"
  },
  {
   "id": 7415040015,
   "districtId": 7415040,
-  "name": "LAWELA"
+  "districtName": "BATAUGA",
+  "name": "LAWELA",
+  "postalCode": "93752"
  },
  {
   "id": 7415040016,
   "districtId": 7415040,
-  "name": "LAMPANAIRI"
+  "districtName": "BATAUGA",
+  "name": "LAMPANAIRI",
+  "postalCode": ""
  },
  {
   "id": 7415040017,
   "districtId": 7415040,
-  "name": "LAWELA SELATAN"
+  "districtName": "BATAUGA",
+  "name": "LAWELA SELATAN",
+  "postalCode": "93752"
  },
  {
   "id": 7415040018,
   "districtId": 7415040,
-  "name": "LAKAMBAU"
+  "districtName": "BATAUGA",
+  "name": "LAKAMBAU",
+  "postalCode": "93752"
  },
  {
   "id": 7415040019,
   "districtId": 7415040,
-  "name": "MOLAGINA"
+  "districtName": "BATAUGA",
+  "name": "MOLAGINA",
+  "postalCode": "93752"
  },
  {
   "id": 7415040020,
   "districtId": 7415040,
-  "name": "BANDAR BATAUGA"
+  "districtName": "BATAUGA",
+  "name": "BANDAR BATAUGA",
+  "postalCode": "93752"
  }
 ]

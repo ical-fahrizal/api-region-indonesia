@@ -2,56 +2,78 @@
  {
   "id": 7602011001,
   "districtId": 7602011,
-  "name": "BALANIPA"
+  "districtName": "BALANIPA",
+  "name": "BALANIPA",
+  "postalCode": "91354"
  },
  {
   "id": 7602011002,
   "districtId": 7602011,
-  "name": "TAMMANGALLE"
+  "districtName": "BALANIPA",
+  "name": "TAMMANGALLE",
+  "postalCode": "91354"
  },
  {
   "id": 7602011003,
   "districtId": 7602011,
-  "name": "GALUNG TULU"
+  "districtName": "BALANIPA",
+  "name": "GALUNG TULU",
+  "postalCode": "91354"
  },
  {
   "id": 7602011004,
   "districtId": 7602011,
-  "name": "SABANG SUBIK"
+  "districtName": "BALANIPA",
+  "name": "SABANG SUBIK",
+  "postalCode": "91354"
  },
  {
   "id": 7602011005,
   "districtId": 7602011,
-  "name": "PAMBUSUANG"
+  "districtName": "BALANIPA",
+  "name": "PAMBUSUANG",
+  "postalCode": "91354"
  },
  {
   "id": 7602011006,
   "districtId": 7602011,
-  "name": "BALA"
+  "districtName": "BALANIPA",
+  "name": "BALA",
+  "postalCode": "84152"
  },
  {
   "id": 7602011007,
   "districtId": 7602011,
-  "name": "LEGO"
+  "districtName": "BALANIPA",
+  "name": "LEGO",
+  "postalCode": "91354"
  },
  {
   "id": 7602011008,
   "districtId": 7602011,
-  "name": "LAMBANAN"
+  "districtName": "BALANIPA",
+  "name": "LAMBANAN",
+  "postalCode": "91921"
  },
  {
   "id": 7602011009,
   "districtId": 7602011,
-  "name": "MOSSO"
+  "districtName": "BALANIPA",
+  "name": "MOSSO",
+  "postalCode": "91354"
  },
  {
   "id": 7602011010,
   "districtId": 7602011,
-  "name": "TAMMAJARRA"
+  "districtName": "BALANIPA",
+  "name": "TAMMAJARRA",
+  "postalCode": ""
  },
  {
   "id": 7602011011,
   "districtId": 7602011,
-  "name": "PALLIS"
+  "districtName": "BALANIPA",
+  "name": "PALLIS",
+  "postalCode": "91354"
  }
 ]

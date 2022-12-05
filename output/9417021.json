@@ -2,31 +2,43 @@
  {
   "id": 9417021003,
   "districtId": 9417021,
-  "name": "PEPERA"
+  "districtName": "PEPERA",
+  "name": "PEPERA",
+  "postalCode": "99583"
  },
  {
   "id": 9417021007,
   "districtId": 9417021,
-  "name": "DENOM"
+  "districtName": "PEPERA",
+  "name": "DENOM",
+  "postalCode": "99573"
  },
  {
   "id": 9417021008,
   "districtId": 9417021,
-  "name": "OK TELABE"
+  "districtName": "PEPERA",
+  "name": "OK TELABE",
+  "postalCode": ""
  },
  {
   "id": 9417021009,
   "districtId": 9417021,
-  "name": "WOK BAKON"
+  "districtName": "PEPERA",
+  "name": "WOK BAKON",
+  "postalCode": "99573"
  },
  {
   "id": 9417021010,
   "districtId": 9417021,
-  "name": "OKBONTENAM"
+  "districtName": "PEPERA",
+  "name": "OKBONTENAM",
+  "postalCode": ""
  },
  {
   "id": 9417021011,
   "districtId": 9417021,
-  "name": "BON YAKWOL"
+  "districtName": "PEPERA",
+  "name": "BON YAKWOL",
+  "postalCode": "99573"
  }
 ]

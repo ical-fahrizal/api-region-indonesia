@@ -2,46 +2,64 @@
  {
   "id": 1103031001,
   "districtId": 1103031,
-  "name": "SAPIK"
+  "districtName": "KLUET TIMUR",
+  "name": "SAPIK",
+  "postalCode": "23772"
  },
  {
   "id": 1103031002,
   "districtId": 1103031,
-  "name": "DURIAN KAWAN"
+  "districtName": "KLUET TIMUR",
+  "name": "DURIAN KAWAN",
+  "postalCode": "23772"
  },
  {
   "id": 1103031003,
   "districtId": 1103031,
-  "name": "ALAI"
+  "districtName": "KLUET TIMUR",
+  "name": "ALAI",
+  "postalCode": "23772"
  },
  {
   "id": 1103031004,
   "districtId": 1103031,
-  "name": "PAYA DAPUR"
+  "districtName": "KLUET TIMUR",
+  "name": "PAYA DAPUR",
+  "postalCode": "23772"
  },
  {
   "id": 1103031005,
   "districtId": 1103031,
-  "name": "PUCUK LEMBANG"
+  "districtName": "KLUET TIMUR",
+  "name": "PUCUK LEMBANG",
+  "postalCode": "23772"
  },
  {
   "id": 1103031006,
   "districtId": 1103031,
-  "name": "LAWE BULUH DIDI"
+  "districtName": "KLUET TIMUR",
+  "name": "LAWE BULUH DIDI",
+  "postalCode": "23772"
  },
  {
   "id": 1103031007,
   "districtId": 1103031,
-  "name": "LAWE SAWAH"
+  "districtName": "KLUET TIMUR",
+  "name": "LAWE SAWAH",
+  "postalCode": "23772"
  },
  {
   "id": 1103031008,
   "districtId": 1103031,
-  "name": "PAYA LABA"
+  "districtName": "KLUET TIMUR",
+  "name": "PAYA LABA",
+  "postalCode": "23772"
  },
  {
   "id": 1103031009,
   "districtId": 1103031,
-  "name": "LAWE CIMANOK"
+  "districtName": "KLUET TIMUR",
+  "name": "LAWE CIMANOK",
+  "postalCode": "23772"
  }
 ]

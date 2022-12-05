@@ -2,81 +2,113 @@
  {
   "id": 6108080001,
   "districtId": 6108080,
-  "name": "SUNGAI ULUK"
+  "districtName": "PUTUSSIBAU SELATAN",
+  "name": "SUNGAI ULUK",
+  "postalCode": ""
  },
  {
   "id": 6108080002,
   "districtId": 6108080,
-  "name": "JARAS"
+  "districtName": "PUTUSSIBAU SELATAN",
+  "name": "JARAS",
+  "postalCode": "78752"
  },
  {
   "id": 6108080003,
   "districtId": 6108080,
-  "name": "KEDAMIN HILIR"
+  "districtName": "PUTUSSIBAU SELATAN",
+  "name": "KEDAMIN HILIR",
+  "postalCode": "78714"
  },
  {
   "id": 6108080004,
   "districtId": 6108080,
-  "name": "KEDAMIN HULU"
+  "districtName": "PUTUSSIBAU SELATAN",
+  "name": "KEDAMIN HULU",
+  "postalCode": "78715"
  },
  {
   "id": 6108080005,
   "districtId": 6108080,
-  "name": "MELAPI"
+  "districtName": "PUTUSSIBAU SELATAN",
+  "name": "MELAPI",
+  "postalCode": "78714"
  },
  {
   "id": 6108080006,
   "districtId": 6108080,
-  "name": "TANJUNG JATI"
+  "districtName": "PUTUSSIBAU SELATAN",
+  "name": "TANJUNG JATI",
+  "postalCode": "20761"
  },
  {
   "id": 6108080007,
   "districtId": 6108080,
-  "name": "KEDAMIN DARAT"
+  "districtName": "PUTUSSIBAU SELATAN",
+  "name": "KEDAMIN DARAT",
+  "postalCode": "78714"
  },
  {
   "id": 6108080008,
   "districtId": 6108080,
-  "name": "SAYUT/SIYUT"
+  "districtName": "PUTUSSIBAU SELATAN",
+  "name": "SAYUT/SIYUT",
+  "postalCode": ""
  },
  {
   "id": 6108080009,
   "districtId": 6108080,
-  "name": "SUKA MAJU"
+  "districtName": "PUTUSSIBAU SELATAN",
+  "name": "SUKA MAJU",
+  "postalCode": "24673"
  },
  {
   "id": 6108080010,
   "districtId": 6108080,
-  "name": "CEMPAKA BARU"
+  "districtName": "PUTUSSIBAU SELATAN",
+  "name": "CEMPAKA BARU",
+  "postalCode": "10640"
  },
  {
   "id": 6108080011,
   "districtId": 6108080,
-  "name": "BERINGIN JAYA"
+  "districtName": "PUTUSSIBAU SELATAN",
+  "name": "BERINGIN JAYA",
+  "postalCode": "21464"
  },
  {
   "id": 6108080012,
   "districtId": 6108080,
-  "name": "BUNGAN JAYA"
+  "districtName": "PUTUSSIBAU SELATAN",
+  "name": "BUNGAN JAYA",
+  "postalCode": "78714"
  },
  {
   "id": 6108080013,
   "districtId": 6108080,
-  "name": "TANJUNG LOKANG"
+  "districtName": "PUTUSSIBAU SELATAN",
+  "name": "TANJUNG LOKANG",
+  "postalCode": ""
  },
  {
   "id": 6108080014,
   "districtId": 6108080,
-  "name": "URANG UNSA"
+  "districtName": "PUTUSSIBAU SELATAN",
+  "name": "URANG UNSA",
+  "postalCode": "78714"
  },
  {
   "id": 6108080015,
   "districtId": 6108080,
-  "name": "KEREHO"
+  "districtName": "PUTUSSIBAU SELATAN",
+  "name": "KEREHO",
+  "postalCode": ""
  },
  {
   "id": 6108080016,
   "districtId": 6108080,
-  "name": "INGKO' TAMBE"
+  "districtName": "PUTUSSIBAU SELATAN",
+  "name": "INGKO' TAMBE",
+  "postalCode": ""
  }
 ]

@@ -2,56 +2,78 @@
  {
   "id": 1410051001,
   "districtId": 1410051,
-  "name": "TELUK KETAPANG"
+  "districtName": "PULAU MERBAU",
+  "name": "TELUK KETAPANG",
+  "postalCode": "28752"
  },
  {
   "id": 1410051002,
   "districtId": 1410051,
-  "name": "SEMUKUT"
+  "districtName": "PULAU MERBAU",
+  "name": "SEMUKUT",
+  "postalCode": "28752"
  },
  {
   "id": 1410051003,
   "districtId": 1410051,
-  "name": "CENTAI"
+  "districtName": "PULAU MERBAU",
+  "name": "CENTAI",
+  "postalCode": "28752"
  },
  {
   "id": 1410051004,
   "districtId": 1410051,
-  "name": "TANJUNG BUNGA"
+  "districtName": "PULAU MERBAU",
+  "name": "TANJUNG BUNGA",
+  "postalCode": "22392"
  },
  {
   "id": 1410051005,
   "districtId": 1410051,
-  "name": "RENAK DUNGUN"
+  "districtName": "PULAU MERBAU",
+  "name": "RENAK DUNGUN",
+  "postalCode": "28752"
  },
  {
   "id": 1410051006,
   "districtId": 1410051,
-  "name": "BARAN MELINTANG"
+  "districtName": "PULAU MERBAU",
+  "name": "BARAN MELINTANG",
+  "postalCode": "28752"
  },
  {
   "id": 1410051007,
   "districtId": 1410051,
-  "name": "KUALA MERBAU"
+  "districtName": "PULAU MERBAU",
+  "name": "KUALA MERBAU",
+  "postalCode": "28752"
  },
  {
   "id": 1410051008,
   "districtId": 1410051,
-  "name": "BATANG MERANTI"
+  "districtName": "PULAU MERBAU",
+  "name": "BATANG MERANTI",
+  "postalCode": "28752"
  },
  {
   "id": 1410051009,
   "districtId": 1410051,
-  "name": "PANGKALAN BALAI"
+  "districtName": "PULAU MERBAU",
+  "name": "PANGKALAN BALAI",
+  "postalCode": "28752"
  },
  {
   "id": 1410051010,
   "districtId": 1410051,
-  "name": "PADANG KAMAL"
+  "districtName": "PULAU MERBAU",
+  "name": "PADANG KAMAL",
+  "postalCode": "28752"
  },
  {
   "id": 1410051011,
   "districtId": 1410051,
-  "name": "KETAPANG PERMAI"
+  "districtName": "PULAU MERBAU",
+  "name": "KETAPANG PERMAI",
+  "postalCode": "28752"
  }
 ]

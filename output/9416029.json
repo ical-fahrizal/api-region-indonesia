@@ -2,46 +2,64 @@
  {
   "id": 9416029001,
   "districtId": 9416029,
-  "name": "DEBULA"
+  "districtName": "KWELAMDUA",
+  "name": "DEBULA",
+  "postalCode": "99578"
  },
  {
   "id": 9416029002,
   "districtId": 9416029,
-  "name": "KUBUK DUA"
+  "districtName": "KWELAMDUA",
+  "name": "KUBUK DUA",
+  "postalCode": "99578"
  },
  {
   "id": 9416029003,
   "districtId": 9416029,
-  "name": "BALUK"
+  "districtName": "KWELAMDUA",
+  "name": "BALUK",
+  "postalCode": "63395"
  },
  {
   "id": 9416029004,
   "districtId": 9416029,
-  "name": "KEMLIGIN"
+  "districtName": "KWELAMDUA",
+  "name": "KEMLIGIN",
+  "postalCode": "99578"
  },
  {
   "id": 9416029005,
   "districtId": 9416029,
-  "name": "KWELAMDUA"
+  "districtName": "KWELAMDUA",
+  "name": "KWELAMDUA",
+  "postalCode": ""
  },
  {
   "id": 9416029006,
   "districtId": 9416029,
-  "name": "SENAYOM"
+  "districtName": "KWELAMDUA",
+  "name": "SENAYOM",
+  "postalCode": "99578"
  },
  {
   "id": 9416029008,
   "districtId": 9416029,
-  "name": "OBIS"
+  "districtName": "KWELAMDUA",
+  "name": "OBIS",
+  "postalCode": "99578"
  },
  {
   "id": 9416029009,
   "districtId": 9416029,
-  "name": "YALIDOMON"
+  "districtName": "KWELAMDUA",
+  "name": "YALIDOMON",
+  "postalCode": ""
  },
  {
   "id": 9416029010,
   "districtId": 9416029,
-  "name": "KABULAN"
+  "districtName": "KWELAMDUA",
+  "name": "KABULAN",
+  "postalCode": "99578"
  }
 ]

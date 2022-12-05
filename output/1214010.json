@@ -2,86 +2,120 @@
  {
   "id": 1214010001,
   "districtId": 1214010,
-  "name": "DURU"
+  "districtName": "HIBALA",
+  "name": "DURU",
+  "postalCode": "22881"
  },
  {
   "id": 1214010002,
   "districtId": 1214010,
-  "name": "TUWASO"
+  "districtName": "HIBALA",
+  "name": "TUWASO",
+  "postalCode": "22881"
  },
  {
   "id": 1214010003,
   "districtId": 1214010,
-  "name": "HILIOROMAO"
+  "districtName": "HIBALA",
+  "name": "HILIOROMAO",
+  "postalCode": ""
  },
  {
   "id": 1214010004,
   "districtId": 1214010,
-  "name": "EHO"
+  "districtName": "HIBALA",
+  "name": "EHO",
+  "postalCode": "22881"
  },
  {
   "id": 1214010005,
   "districtId": 1214010,
-  "name": "SIALEMA"
+  "districtName": "HIBALA",
+  "name": "SIALEMA",
+  "postalCode": "22881"
  },
  {
   "id": 1214010006,
   "districtId": 1214010,
-  "name": "BAWONIFAOSO"
+  "districtName": "HIBALA",
+  "name": "BAWONIFAOSO",
+  "postalCode": "22881"
  },
  {
   "id": 1214010007,
   "districtId": 1214010,
-  "name": "HILIANOMBASELA"
+  "districtName": "HIBALA",
+  "name": "HILIANOMBASELA",
+  "postalCode": "22881"
  },
  {
   "id": 1214010008,
   "districtId": 1214010,
-  "name": "LUMBUI MELAYU"
+  "districtName": "HIBALA",
+  "name": "LUMBUI MELAYU",
+  "postalCode": "22881"
  },
  {
   "id": 1214010009,
   "districtId": 1214010,
-  "name": "HILIORUDUA TEBOLO"
+  "districtName": "HIBALA",
+  "name": "HILIORUDUA TEBOLO",
+  "postalCode": ""
  },
  {
   "id": 1214010010,
   "districtId": 1214010,
-  "name": "TEBOLO MELAYU"
+  "districtName": "HIBALA",
+  "name": "TEBOLO MELAYU",
+  "postalCode": "22881"
  },
  {
   "id": 1214010016,
   "districtId": 1214010,
-  "name": "BARUYU SIBOHOU"
+  "districtName": "HIBALA",
+  "name": "BARUYU SIBOHOU",
+  "postalCode": "22881"
  },
  {
   "id": 1214010017,
   "districtId": 1214010,
-  "name": "LUMBUI NIAS"
+  "districtName": "HIBALA",
+  "name": "LUMBUI NIAS",
+  "postalCode": "22881"
  },
  {
   "id": 1214010018,
   "districtId": 1214010,
-  "name": "TANOMOKINO"
+  "districtName": "HIBALA",
+  "name": "TANOMOKINO",
+  "postalCode": ""
  },
  {
   "id": 1214010019,
   "districtId": 1214010,
-  "name": "SEPAKAT"
+  "districtName": "HIBALA",
+  "name": "SEPAKAT",
+  "postalCode": "24562"
  },
  {
   "id": 1214010020,
   "districtId": 1214010,
-  "name": "HILIKANA"
+  "districtName": "HIBALA",
+  "name": "HILIKANA",
+  "postalCode": "22881"
  },
  {
   "id": 1214010021,
   "districtId": 1214010,
-  "name": "BAWOOTANIO OMEGA"
+  "districtName": "HIBALA",
+  "name": "BAWOOTANIO OMEGA",
+  "postalCode": ""
  },
  {
   "id": 1214010022,
   "districtId": 1214010,
-  "name": "HILINIFAESE"
+  "districtName": "HIBALA",
+  "name": "HILINIFAESE",
+  "postalCode": "22881"
  }
 ]

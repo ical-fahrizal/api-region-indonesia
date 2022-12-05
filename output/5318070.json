@@ -2,26 +2,36 @@
  {
   "id": 5318070001,
   "districtId": 5318070,
-  "name": "ANAKOLI"
+  "districtName": "WOLOWAE",
+  "name": "ANAKOLI",
+  "postalCode": "86472"
  },
  {
   "id": 5318070002,
   "districtId": 5318070,
-  "name": "NATATOTO"
+  "districtName": "WOLOWAE",
+  "name": "NATATOTO",
+  "postalCode": "86472"
  },
  {
   "id": 5318070003,
   "districtId": 5318070,
-  "name": "TOTOMALA"
+  "districtName": "WOLOWAE",
+  "name": "TOTOMALA",
+  "postalCode": "86472"
  },
  {
   "id": 5318070004,
   "districtId": 5318070,
-  "name": "TENDATOTO"
+  "districtName": "WOLOWAE",
+  "name": "TENDATOTO",
+  "postalCode": "86472"
  },
  {
   "id": 5318070005,
   "districtId": 5318070,
-  "name": "TENDA KINDE"
+  "districtName": "WOLOWAE",
+  "name": "TENDA KINDE",
+  "postalCode": "86472"
  }
 ]

@@ -2,96 +2,134 @@
  {
   "id": 3302210001,
   "districtId": 3302210,
-  "name": "KARANGGINTUNG"
+  "districtName": "SUMBANG",
+  "name": "KARANGGINTUNG",
+  "postalCode": "53254"
  },
  {
   "id": 3302210002,
   "districtId": 3302210,
-  "name": "TAMBAKSOGRA"
+  "districtName": "SUMBANG",
+  "name": "TAMBAKSOGRA",
+  "postalCode": "53183"
  },
  {
   "id": 3302210003,
   "districtId": 3302210,
-  "name": "KARANGCEGAK"
+  "districtName": "SUMBANG",
+  "name": "KARANGCEGAK",
+  "postalCode": "53361"
  },
  {
   "id": 3302210004,
   "districtId": 3302210,
-  "name": "KARANGTURI"
+  "districtName": "SUMBANG",
+  "name": "KARANGTURI",
+  "postalCode": "57455"
  },
  {
   "id": 3302210005,
   "districtId": 3302210,
-  "name": "SILADO"
+  "districtName": "SUMBANG",
+  "name": "SILADO",
+  "postalCode": "53183"
  },
  {
   "id": 3302210006,
   "districtId": 3302210,
-  "name": "SUSUKAN"
+  "districtName": "SUMBANG",
+  "name": "SUSUKAN",
+  "postalCode": "13750"
  },
  {
   "id": 3302210007,
   "districtId": 3302210,
-  "name": "SUMBANG"
+  "districtName": "SUMBANG",
+  "name": "SUMBANG",
+  "postalCode": "53183"
  },
  {
   "id": 3302210008,
   "districtId": 3302210,
-  "name": "KEBANGGAN"
+  "districtName": "SUMBANG",
+  "name": "KEBANGGAN",
+  "postalCode": "52354"
  },
  {
   "id": 3302210009,
   "districtId": 3302210,
-  "name": "KAWUNGCARANG"
+  "districtName": "SUMBANG",
+  "name": "KAWUNGCARANG",
+  "postalCode": "53183"
  },
  {
   "id": 3302210010,
   "districtId": 3302210,
-  "name": "DATAR"
+  "districtName": "SUMBANG",
+  "name": "DATAR",
+  "postalCode": "37216"
  },
  {
   "id": 3302210011,
   "districtId": 3302210,
-  "name": "BANJARSARI KULON"
+  "districtName": "SUMBANG",
+  "name": "BANJARSARI KULON",
+  "postalCode": "53183"
  },
  {
   "id": 3302210012,
   "districtId": 3302210,
-  "name": "BANJARSARI WETAN"
+  "districtName": "SUMBANG",
+  "name": "BANJARSARI WETAN",
+  "postalCode": "53183"
  },
  {
   "id": 3302210013,
   "districtId": 3302210,
-  "name": "BANTERAN"
+  "districtName": "SUMBANG",
+  "name": "BANTERAN",
+  "postalCode": "53183"
  },
  {
   "id": 3302210014,
   "districtId": 3302210,
-  "name": "CIBEREM"
+  "districtName": "SUMBANG",
+  "name": "CIBEREM",
+  "postalCode": "53183"
  },
  {
   "id": 3302210015,
   "districtId": 3302210,
-  "name": "SIKAPAT"
+  "districtName": "SUMBANG",
+  "name": "SIKAPAT",
+  "postalCode": "53183"
  },
  {
   "id": 3302210016,
   "districtId": 3302210,
-  "name": "GANDATAPA"
+  "districtName": "SUMBANG",
+  "name": "GANDATAPA",
+  "postalCode": "53183"
  },
  {
   "id": 3302210017,
   "districtId": 3302210,
-  "name": "KOTAYASA"
+  "districtName": "SUMBANG",
+  "name": "KOTAYASA",
+  "postalCode": "53183"
  },
  {
   "id": 3302210018,
   "districtId": 3302210,
-  "name": "LIMPAKUWUS"
+  "districtName": "SUMBANG",
+  "name": "LIMPAKUWUS",
+  "postalCode": "53183"
  },
  {
   "id": 3302210019,
   "districtId": 3302210,
-  "name": "KEDUNG MALANG"
+  "districtName": "SUMBANG",
+  "name": "KEDUNG MALANG",
+  "postalCode": "53183"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 3305091001,
   "districtId": 3305091,
-  "name": "PEJENGKOLAN"
+  "districtName": "PADURESO",
+  "name": "PEJENGKOLAN",
+  "postalCode": "54394"
  },
  {
   "id": 3305091002,
   "districtId": 3305091,
-  "name": "BALINGASAL"
+  "districtName": "PADURESO",
+  "name": "BALINGASAL",
+  "postalCode": "54394"
  },
  {
   "id": 3305091004,
   "districtId": 3305091,
-  "name": "KALIJERING"
+  "districtName": "PADURESO",
+  "name": "KALIJERING",
+  "postalCode": "54394"
  },
  {
   "id": 3305091005,
   "districtId": 3305091,
-  "name": "KALIGUBUK"
+  "districtName": "PADURESO",
+  "name": "KALIGUBUK",
+  "postalCode": "54394"
  },
  {
   "id": 3305091006,
   "districtId": 3305091,
-  "name": "SIDOTOTO"
+  "districtName": "PADURESO",
+  "name": "SIDOTOTO",
+  "postalCode": "54394"
  },
  {
   "id": 3305091007,
   "districtId": 3305091,
-  "name": "RAHAYU"
+  "districtName": "PADURESO",
+  "name": "RAHAYU",
+  "postalCode": "40218"
  },
  {
   "id": 3305091008,
   "districtId": 3305091,
-  "name": "SENDANGDALEM"
+  "districtName": "PADURESO",
+  "name": "SENDANGDALEM",
+  "postalCode": "54394"
  },
  {
   "id": 3305091009,
   "districtId": 3305091,
-  "name": "PADURESO"
+  "districtName": "PADURESO",
+  "name": "PADURESO",
+  "postalCode": "56256"
  }
 ]

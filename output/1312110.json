@@ -2,11 +2,15 @@
  {
   "id": 1312110001,
   "districtId": 1312110,
-  "name": "KATIAGAN"
+  "districtName": "KINALI",
+  "name": "KATIAGAN",
+  "postalCode": ""
  },
  {
   "id": 1312110002,
   "districtId": 1312110,
-  "name": "KINALI"
+  "districtName": "KINALI",
+  "name": "KINALI",
+  "postalCode": "22564"
  }
 ]

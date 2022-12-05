@@ -2,56 +2,78 @@
  {
   "id": 3201300001,
   "districtId": 3201300,
-  "name": "JAGABAYA"
+  "districtName": "PARUNG PANJANG",
+  "name": "JAGABAYA",
+  "postalCode": "31452"
  },
  {
   "id": 3201300002,
   "districtId": 3201300,
-  "name": "GOROWONG"
+  "districtName": "PARUNG PANJANG",
+  "name": "GOROWONG",
+  "postalCode": "16360"
  },
  {
   "id": 3201300003,
   "districtId": 3201300,
-  "name": "DAGO"
+  "districtName": "PARUNG PANJANG",
+  "name": "DAGO",
+  "postalCode": "40135"
  },
  {
   "id": 3201300004,
   "districtId": 3201300,
-  "name": "CIKUDA"
+  "districtName": "PARUNG PANJANG",
+  "name": "CIKUDA",
+  "postalCode": "16360"
  },
  {
   "id": 3201300005,
   "districtId": 3201300,
-  "name": "PINGKU"
+  "districtName": "PARUNG PANJANG",
+  "name": "PINGKU",
+  "postalCode": "16360"
  },
  {
   "id": 3201300006,
   "districtId": 3201300,
-  "name": "LUMPANG"
+  "districtName": "PARUNG PANJANG",
+  "name": "LUMPANG",
+  "postalCode": "16360"
  },
  {
   "id": 3201300007,
   "districtId": 3201300,
-  "name": "GINTUNG CILEJET"
+  "districtName": "PARUNG PANJANG",
+  "name": "GINTUNG CILEJET",
+  "postalCode": "16360"
  },
  {
   "id": 3201300008,
   "districtId": 3201300,
-  "name": "JAGABITA"
+  "districtName": "PARUNG PANJANG",
+  "name": "JAGABITA",
+  "postalCode": "16360"
  },
  {
   "id": 3201300009,
   "districtId": 3201300,
-  "name": "CIBUNAR"
+  "districtName": "PARUNG PANJANG",
+  "name": "CIBUNAR",
+  "postalCode": "44185"
  },
  {
   "id": 3201300010,
   "districtId": 3201300,
-  "name": "PARUNG PANJANG"
+  "districtName": "PARUNG PANJANG",
+  "name": "PARUNG PANJANG",
+  "postalCode": ""
  },
  {
   "id": 3201300011,
   "districtId": 3201300,
-  "name": "KABASIRAN"
+  "districtName": "PARUNG PANJANG",
+  "name": "KABASIRAN",
+  "postalCode": "16360"
  }
 ]

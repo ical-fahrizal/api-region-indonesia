@@ -2,46 +2,64 @@
  {
   "id": 1672010001,
   "districtId": 1672010,
-  "name": "RAMBANG SENULING"
+  "districtName": "RAMBANG KAPAK TENGAH",
+  "name": "RAMBANG SENULING",
+  "postalCode": "31132"
  },
  {
   "id": 1672010002,
   "districtId": 1672010,
-  "name": "TANJUNG RAMBANG"
+  "districtName": "RAMBANG KAPAK TENGAH",
+  "name": "TANJUNG RAMBANG",
+  "postalCode": "31131"
  },
  {
   "id": 1672010003,
   "districtId": 1672010,
-  "name": "KARANG BINDU"
+  "districtName": "RAMBANG KAPAK TENGAH",
+  "name": "KARANG BINDU",
+  "postalCode": "31133"
  },
  {
   "id": 1672010005,
   "districtId": 1672010,
-  "name": "KARYA MULYA"
+  "districtName": "RAMBANG KAPAK TENGAH",
+  "name": "KARYA MULYA",
+  "postalCode": "28565"
  },
  {
   "id": 1672010006,
   "districtId": 1672010,
-  "name": "SINAR RAMBANG"
+  "districtName": "RAMBANG KAPAK TENGAH",
+  "name": "SINAR RAMBANG",
+  "postalCode": "31131"
  },
  {
   "id": 1672010007,
   "districtId": 1672010,
-  "name": "JUNGAI"
+  "districtName": "RAMBANG KAPAK TENGAH",
+  "name": "JUNGAI",
+  "postalCode": "31131"
  },
  {
   "id": 1672010008,
   "districtId": 1672010,
-  "name": "TALANG BATU"
+  "districtName": "RAMBANG KAPAK TENGAH",
+  "name": "TALANG BATU",
+  "postalCode": "31131"
  },
  {
   "id": 1672010009,
   "districtId": 1672010,
-  "name": "KARANGAN"
+  "districtName": "RAMBANG KAPAK TENGAH",
+  "name": "KARANGAN",
+  "postalCode": "31131"
  },
  {
   "id": 1672010010,
   "districtId": 1672010,
-  "name": "KEMANG TANDUK"
+  "districtName": "RAMBANG KAPAK TENGAH",
+  "name": "KEMANG TANDUK",
+  "postalCode": ""
  }
 ]

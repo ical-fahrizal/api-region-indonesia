@@ -2,36 +2,50 @@
  {
   "id": 3202082001,
   "districtId": 3202082,
-  "name": "CIMENTENG"
+  "districtName": "CURUGKEMBAR",
+  "name": "CIMENTENG",
+  "postalCode": "43263"
  },
  {
   "id": 3202082002,
   "districtId": 3202082,
-  "name": "CURUGKEMBAR"
+  "districtName": "CURUGKEMBAR",
+  "name": "CURUGKEMBAR",
+  "postalCode": "43182"
  },
  {
   "id": 3202082003,
   "districtId": 3202082,
-  "name": "TANJUNGSARI"
+  "districtName": "CURUGKEMBAR",
+  "name": "TANJUNGSARI",
+  "postalCode": "28983"
  },
  {
   "id": 3202082004,
   "districtId": 3202082,
-  "name": "SINDANGRAJA"
+  "districtName": "CURUGKEMBAR",
+  "name": "SINDANGRAJA",
+  "postalCode": "43182"
  },
  {
   "id": 3202082005,
   "districtId": 3202082,
-  "name": "MEKARTANJUNG"
+  "districtName": "CURUGKEMBAR",
+  "name": "MEKARTANJUNG",
+  "postalCode": "43182"
  },
  {
   "id": 3202082006,
   "districtId": 3202082,
-  "name": "BOJONG TUGU"
+  "districtName": "CURUGKEMBAR",
+  "name": "BOJONG TUGU",
+  "postalCode": "43182"
  },
  {
   "id": 3202082007,
   "districtId": 3202082,
-  "name": "NAGRAKJAYA"
+  "districtName": "CURUGKEMBAR",
+  "name": "NAGRAKJAYA",
+  "postalCode": ""
  }
 ]

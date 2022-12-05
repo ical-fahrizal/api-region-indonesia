@@ -2,91 +2,127 @@
  {
   "id": 3513180001,
   "districtId": 3513180,
-  "name": "SUMBERPOH"
+  "districtName": "MARON",
+  "name": "SUMBERPOH",
+  "postalCode": "67276"
  },
  {
   "id": 3513180002,
   "districtId": 3513180,
-  "name": "SUMBERDAWE"
+  "districtName": "MARON",
+  "name": "SUMBERDAWE",
+  "postalCode": "67276"
  },
  {
   "id": 3513180003,
   "districtId": 3513180,
-  "name": "BRABE"
+  "districtName": "MARON",
+  "name": "BRABE",
+  "postalCode": "67276"
  },
  {
   "id": 3513180004,
   "districtId": 3513180,
-  "name": "MARON KIDUL"
+  "districtName": "MARON",
+  "name": "MARON KIDUL",
+  "postalCode": "67276"
  },
  {
   "id": 3513180005,
   "districtId": 3513180,
-  "name": "GERONGAN"
+  "districtName": "MARON",
+  "name": "GERONGAN",
+  "postalCode": "67151"
  },
  {
   "id": 3513180006,
   "districtId": 3513180,
-  "name": "SATREYAN"
+  "districtName": "MARON",
+  "name": "SATREYAN",
+  "postalCode": "66171"
  },
  {
   "id": 3513180007,
   "districtId": 3513180,
-  "name": "BRANI WETAN"
+  "districtName": "MARON",
+  "name": "BRANI WETAN",
+  "postalCode": "67276"
  },
  {
   "id": 3513180008,
   "districtId": 3513180,
-  "name": "BRANI KULON"
+  "districtName": "MARON",
+  "name": "BRANI KULON",
+  "postalCode": "67276"
  },
  {
   "id": 3513180009,
   "districtId": 3513180,
-  "name": "MARON WETAN"
+  "districtName": "MARON",
+  "name": "MARON WETAN",
+  "postalCode": "67276"
  },
  {
   "id": 3513180010,
   "districtId": 3513180,
-  "name": "MARON KULON"
+  "districtName": "MARON",
+  "name": "MARON KULON",
+  "postalCode": "67276"
  },
  {
   "id": 3513180011,
   "districtId": 3513180,
-  "name": "KEDUNGSARI"
+  "districtName": "MARON",
+  "name": "KEDUNGSARI",
+  "postalCode": "28123"
  },
  {
   "id": 3513180012,
   "districtId": 3513180,
-  "name": "PEGALANGAN KIDUL"
+  "districtName": "MARON",
+  "name": "PEGALANGAN KIDUL",
+  "postalCode": "67276"
  },
  {
   "id": 3513180013,
   "districtId": 3513180,
-  "name": "BRUMBUNGAN KIDUL"
+  "districtName": "MARON",
+  "name": "BRUMBUNGAN KIDUL",
+  "postalCode": "67276"
  },
  {
   "id": 3513180014,
   "districtId": 3513180,
-  "name": "WONOREJO"
+  "districtName": "MARON",
+  "name": "WONOREJO",
+  "postalCode": "21186"
  },
  {
   "id": 3513180015,
   "districtId": 3513180,
-  "name": "PUSPAN"
+  "districtName": "MARON",
+  "name": "PUSPAN",
+  "postalCode": "67276"
  },
  {
   "id": 3513180016,
   "districtId": 3513180,
-  "name": "GANTING WETAN"
+  "districtName": "MARON",
+  "name": "GANTING WETAN",
+  "postalCode": "67276"
  },
  {
   "id": 3513180017,
   "districtId": 3513180,
-  "name": "GANTING KULON"
+  "districtName": "MARON",
+  "name": "GANTING KULON",
+  "postalCode": "67276"
  },
  {
   "id": 3513180018,
   "districtId": 3513180,
-  "name": "SUKO"
+  "districtName": "MARON",
+  "name": "SUKO",
+  "postalCode": "67276"
  }
 ]

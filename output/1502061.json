@@ -2,31 +2,43 @@
  {
   "id": 1502061009,
   "districtId": 1502061,
-  "name": "MUARA JERNIH"
+  "districtName": "TABIR ULU",
+  "name": "MUARA JERNIH",
+  "postalCode": "37356"
  },
  {
   "id": 1502061010,
   "districtId": 1502061,
-  "name": "PULAU ARO"
+  "districtName": "TABIR ULU",
+  "name": "PULAU ARO",
+  "postalCode": "37482"
  },
  {
   "id": 1502061011,
   "districtId": 1502061,
-  "name": "KAPUK"
+  "districtName": "TABIR ULU",
+  "name": "KAPUK",
+  "postalCode": "37356"
  },
  {
   "id": 1502061012,
   "districtId": 1502061,
-  "name": "RANTAU NGARAU"
+  "districtName": "TABIR ULU",
+  "name": "RANTAU NGARAU",
+  "postalCode": ""
  },
  {
   "id": 1502061013,
   "districtId": 1502061,
-  "name": "MUARO SEKETUK"
+  "districtName": "TABIR ULU",
+  "name": "MUARO SEKETUK",
+  "postalCode": ""
  },
  {
   "id": 1502061014,
   "districtId": 1502061,
-  "name": "MEDAN BARU"
+  "districtName": "TABIR ULU",
+  "name": "MEDAN BARU",
+  "postalCode": "37356"
  }
 ]

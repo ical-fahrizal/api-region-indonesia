@@ -2,51 +2,71 @@
  {
   "id": 1902062001,
   "districtId": 1902062,
-  "name": "BATU ITAM"
+  "districtName": "SIJUK",
+  "name": "BATU ITAM",
+  "postalCode": "23711"
  },
  {
   "id": 1902062002,
   "districtId": 1902062,
-  "name": "TERONG"
+  "districtName": "SIJUK",
+  "name": "TERONG",
+  "postalCode": "33414"
  },
  {
   "id": 1902062003,
   "districtId": 1902062,
-  "name": "AIR SERU"
+  "districtName": "SIJUK",
+  "name": "AIR SERU",
+  "postalCode": "33414"
  },
  {
   "id": 1902062004,
   "districtId": 1902062,
-  "name": "AIR SELUMAR"
+  "districtName": "SIJUK",
+  "name": "AIR SELUMAR",
+  "postalCode": "33414"
  },
  {
   "id": 1902062005,
   "districtId": 1902062,
-  "name": "TANJUNG BINGA"
+  "districtName": "SIJUK",
+  "name": "TANJUNG BINGA",
+  "postalCode": "33414"
  },
  {
   "id": 1902062006,
   "districtId": 1902062,
-  "name": "KECIPUT"
+  "districtName": "SIJUK",
+  "name": "KECIPUT",
+  "postalCode": "33414"
  },
  {
   "id": 1902062007,
   "districtId": 1902062,
-  "name": "SIJUK"
+  "districtName": "SIJUK",
+  "name": "SIJUK",
+  "postalCode": "33414"
  },
  {
   "id": 1902062008,
   "districtId": 1902062,
-  "name": "SUNGAI PADANG"
+  "districtName": "SIJUK",
+  "name": "SUNGAI PADANG",
+  "postalCode": "33414"
  },
  {
   "id": 1902062009,
   "districtId": 1902062,
-  "name": "TANJONG TINGGI"
+  "districtName": "SIJUK",
+  "name": "TANJONG TINGGI",
+  "postalCode": "33414"
  },
  {
   "id": 1902062010,
   "districtId": 1902062,
-  "name": "PELEPAK  PUTE"
+  "districtName": "SIJUK",
+  "name": "PELEPAK  PUTE",
+  "postalCode": ""
  }
 ]

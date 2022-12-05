@@ -2,71 +2,99 @@
  {
   "id": 1706031001,
   "districtId": 1706031,
-  "name": "BUMI MULYA"
+  "districtName": "PENARIK",
+  "name": "BUMI MULYA",
+  "postalCode": "29556"
  },
  {
   "id": 1706031002,
   "districtId": 1706031,
-  "name": "PENARIK"
+  "districtName": "PENARIK",
+  "name": "PENARIK",
+  "postalCode": "38768"
  },
  {
   "id": 1706031003,
   "districtId": 1706031,
-  "name": "LUBUK MUKTI"
+  "districtName": "PENARIK",
+  "name": "LUBUK MUKTI",
+  "postalCode": "38768"
  },
  {
   "id": 1706031004,
   "districtId": 1706031,
-  "name": "SUKA MAJU"
+  "districtName": "PENARIK",
+  "name": "SUKA MAJU",
+  "postalCode": "24673"
  },
  {
   "id": 1706031005,
   "districtId": 1706031,
-  "name": "BUKIT MAKMUR"
+  "districtName": "PENARIK",
+  "name": "BUKIT MAKMUR",
+  "postalCode": "24457"
  },
  {
   "id": 1706031006,
   "districtId": 1706031,
-  "name": "SUMBER MULYA"
+  "districtName": "PENARIK",
+  "name": "SUMBER MULYA",
+  "postalCode": "36365"
  },
  {
   "id": 1706031007,
   "districtId": 1706031,
-  "name": "WONOSOBO"
+  "districtName": "PENARIK",
+  "name": "WONOSOBO",
+  "postalCode": "24581"
  },
  {
   "id": 1706031008,
   "districtId": 1706031,
-  "name": "MEKAR MULYA"
+  "districtName": "PENARIK",
+  "name": "MEKAR MULYA",
+  "postalCode": "38768"
  },
  {
   "id": 1706031009,
   "districtId": 1706031,
-  "name": "SIDO MULYO"
+  "districtName": "PENARIK",
+  "name": "SIDO MULYO",
+  "postalCode": "24371"
  },
  {
   "id": 1706031010,
   "districtId": 1706031,
-  "name": "MARGA MUKTI"
+  "districtName": "PENARIK",
+  "name": "MARGA MUKTI",
+  "postalCode": "38768"
  },
  {
   "id": 1706031011,
   "districtId": 1706031,
-  "name": "SIDODADI"
+  "districtName": "PENARIK",
+  "name": "SIDODADI",
+  "postalCode": "24582"
  },
  {
   "id": 1706031012,
   "districtId": 1706031,
-  "name": "MAJU MAKMUR"
+  "districtName": "PENARIK",
+  "name": "MAJU MAKMUR",
+  "postalCode": ""
  },
  {
   "id": 1706031013,
   "districtId": 1706031,
-  "name": "SENDANG MULYO"
+  "districtName": "PENARIK",
+  "name": "SENDANG MULYO",
+  "postalCode": "34174"
  },
  {
   "id": 1706031014,
   "districtId": 1706031,
-  "name": "MARGA MULYA"
+  "districtName": "PENARIK",
+  "name": "MARGA MULYA",
+  "postalCode": "28565"
  }
 ]

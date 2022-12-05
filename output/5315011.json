@@ -2,56 +2,78 @@
  {
   "id": 5315011001,
   "districtId": 5315011,
-  "name": "POTA WANGKA"
+  "districtName": "BOLENG",
+  "name": "POTA WANGKA",
+  "postalCode": "86754"
  },
  {
   "id": 5315011002,
   "districtId": 5315011,
-  "name": "GOLO KETAK"
+  "districtName": "BOLENG",
+  "name": "GOLO KETAK",
+  "postalCode": "86754"
  },
  {
   "id": 5315011003,
   "districtId": 5315011,
-  "name": "MBUIT"
+  "districtName": "BOLENG",
+  "name": "MBUIT",
+  "postalCode": "86754"
  },
  {
   "id": 5315011004,
   "districtId": 5315011,
-  "name": "GOLO LUJANG"
+  "districtName": "BOLENG",
+  "name": "GOLO LUJANG",
+  "postalCode": "86754"
  },
  {
   "id": 5315011005,
   "districtId": 5315011,
-  "name": "SEPANG"
+  "districtName": "BOLENG",
+  "name": "SEPANG",
+  "postalCode": "24655"
  },
  {
   "id": 5315011006,
   "districtId": 5315011,
-  "name": "GOLO SEPANG"
+  "districtName": "BOLENG",
+  "name": "GOLO SEPANG",
+  "postalCode": "86754"
  },
  {
   "id": 5315011007,
   "districtId": 5315011,
-  "name": "TANJUNG PONTIANAK"
+  "districtName": "BOLENG",
+  "name": "TANJUNG PONTIANAK",
+  "postalCode": ""
  },
  {
   "id": 5315011008,
   "districtId": 5315011,
-  "name": "BATU TIGA"
+  "districtName": "BOLENG",
+  "name": "BATU TIGA",
+  "postalCode": "86754"
  },
  {
   "id": 5315011009,
   "districtId": 5315011,
-  "name": "TANJUNG BOLENG"
+  "districtName": "BOLENG",
+  "name": "TANJUNG BOLENG",
+  "postalCode": "86754"
  },
  {
   "id": 5315011010,
   "districtId": 5315011,
-  "name": "GOLO NOBO"
+  "districtName": "BOLENG",
+  "name": "GOLO NOBO",
+  "postalCode": ""
  },
  {
   "id": 5315011011,
   "districtId": 5315011,
-  "name": "BEO SEPANG"
+  "districtName": "BOLENG",
+  "name": "BEO SEPANG",
+  "postalCode": ""
  }
 ]

@@ -2,56 +2,78 @@
  {
   "id": 3315050001,
   "districtId": 3315050,
-  "name": "RAMBAT"
+  "districtName": "GEYER",
+  "name": "RAMBAT",
+  "postalCode": "33366"
  },
  {
   "id": 3315050002,
   "districtId": 3315050,
-  "name": "KALANGBANCAR"
+  "districtName": "GEYER",
+  "name": "KALANGBANCAR",
+  "postalCode": "58172"
  },
  {
   "id": 3315050003,
   "districtId": 3315050,
-  "name": "JUWORO"
+  "districtName": "GEYER",
+  "name": "JUWORO",
+  "postalCode": "58172"
  },
  {
   "id": 3315050004,
   "districtId": 3315050,
-  "name": "MONGGOT"
+  "districtName": "GEYER",
+  "name": "MONGGOT",
+  "postalCode": "58172"
  },
  {
   "id": 3315050005,
   "districtId": 3315050,
-  "name": "NGRANDU"
+  "districtName": "GEYER",
+  "name": "NGRANDU",
+  "postalCode": "58172"
  },
  {
   "id": 3315050006,
   "districtId": 3315050,
-  "name": "BANGSRI"
+  "districtName": "GEYER",
+  "name": "BANGSRI",
+  "postalCode": "59453"
  },
  {
   "id": 3315050007,
   "districtId": 3315050,
-  "name": "KARANG ANYAR"
+  "districtName": "GEYER",
+  "name": "KARANG ANYAR",
+  "postalCode": "24415"
  },
  {
   "id": 3315050008,
   "districtId": 3315050,
-  "name": "ASEMRUDUNG"
+  "districtName": "GEYER",
+  "name": "ASEMRUDUNG",
+  "postalCode": "58172"
  },
  {
   "id": 3315050009,
   "districtId": 3315050,
-  "name": "JAMBANGAN"
+  "districtName": "GEYER",
+  "name": "JAMBANGAN",
+  "postalCode": "51274"
  },
  {
   "id": 3315050011,
   "districtId": 3315050,
-  "name": "LEDOKDAWAN"
+  "districtName": "GEYER",
+  "name": "LEDOKDAWAN",
+  "postalCode": "58172"
  },
  {
   "id": 3315050012,
   "districtId": 3315050,
-  "name": "SOBO"
+  "districtName": "GEYER",
+  "name": "SOBO",
+  "postalCode": "58172"
  }
 ]

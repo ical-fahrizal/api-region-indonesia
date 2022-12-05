@@ -2,66 +2,92 @@
  {
   "id": 1215080001,
   "districtId": 1215080,
-  "name": "AEK NAULI II"
+  "districtName": "POLLUNG",
+  "name": "AEK NAULI II",
+  "postalCode": "22457"
  },
  {
   "id": 1215080003,
   "districtId": 1215080,
-  "name": "AEK NAULI I"
+  "districtName": "POLLUNG",
+  "name": "AEK NAULI I",
+  "postalCode": "22457"
  },
  {
   "id": 1215080004,
   "districtId": 1215080,
-  "name": "PANDUMAAN"
+  "districtName": "POLLUNG",
+  "name": "PANDUMAAN",
+  "postalCode": "22457"
  },
  {
   "id": 1215080005,
   "districtId": 1215080,
-  "name": "SIPITU HUTA"
+  "districtName": "POLLUNG",
+  "name": "SIPITU HUTA",
+  "postalCode": "22457"
  },
  {
   "id": 1215080006,
   "districtId": 1215080,
-  "name": "PARSINGGURAN II"
+  "districtName": "POLLUNG",
+  "name": "PARSINGGURAN II",
+  "postalCode": "22457"
  },
  {
   "id": 1215080007,
   "districtId": 1215080,
-  "name": "POLLUNG"
+  "districtName": "POLLUNG",
+  "name": "POLLUNG",
+  "postalCode": "22457"
  },
  {
   "id": 1215080008,
   "districtId": 1215080,
-  "name": "PARSINGGURAN I"
+  "districtName": "POLLUNG",
+  "name": "PARSINGGURAN I",
+  "postalCode": "22457"
  },
  {
   "id": 1215080009,
   "districtId": 1215080,
-  "name": "RIA RIA"
+  "districtName": "POLLUNG",
+  "name": "RIA RIA",
+  "postalCode": ""
  },
  {
   "id": 1215080010,
   "districtId": 1215080,
-  "name": "HUTA PAUNG"
+  "districtName": "POLLUNG",
+  "name": "HUTA PAUNG",
+  "postalCode": "22457"
  },
  {
   "id": 1215080011,
   "districtId": 1215080,
-  "name": "PANSUR BATU"
+  "districtName": "POLLUNG",
+  "name": "PANSUR BATU",
+  "postalCode": "22461"
  },
  {
   "id": 1215080012,
   "districtId": 1215080,
-  "name": "HUTA JULU"
+  "districtName": "POLLUNG",
+  "name": "HUTA JULU",
+  "postalCode": "22998"
  },
  {
   "id": 1215080013,
   "districtId": 1215080,
-  "name": "PARDOMUAN"
+  "districtName": "POLLUNG",
+  "name": "PARDOMUAN",
+  "postalCode": "22732"
  },
  {
   "id": 1215080014,
   "districtId": 1215080,
-  "name": "HUTAPAUNG UTARA"
+  "districtName": "POLLUNG",
+  "name": "HUTAPAUNG UTARA",
+  "postalCode": ""
  }
 ]

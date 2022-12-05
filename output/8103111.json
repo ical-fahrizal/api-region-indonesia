@@ -2,26 +2,36 @@
  {
   "id": 8103111001,
   "districtId": 8103111,
-  "name": "LARIKE"
+  "districtName": "LEIHITU BARAT",
+  "name": "LARIKE",
+  "postalCode": "97581"
  },
  {
   "id": 8103111002,
   "districtId": 8103111,
-  "name": "WAKASIHU"
+  "districtName": "LEIHITU BARAT",
+  "name": "WAKASIHU",
+  "postalCode": "97581"
  },
  {
   "id": 8103111003,
   "districtId": 8103111,
-  "name": "ALLANG"
+  "districtName": "LEIHITU BARAT",
+  "name": "ALLANG",
+  "postalCode": "97581"
  },
  {
   "id": 8103111004,
   "districtId": 8103111,
-  "name": "LILIBOOY"
+  "districtName": "LEIHITU BARAT",
+  "name": "LILIBOOY",
+  "postalCode": ""
  },
  {
   "id": 8103111005,
   "districtId": 8103111,
-  "name": "HATU"
+  "districtName": "LEIHITU BARAT",
+  "name": "HATU",
+  "postalCode": "97581"
  }
 ]

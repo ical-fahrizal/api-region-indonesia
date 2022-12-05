@@ -2,76 +2,106 @@
  {
   "id": 1810040007,
   "districtId": 1810040,
-  "name": "MARGAKAYA"
+  "districtName": "PRINGSEWU",
+  "name": "MARGAKAYA",
+  "postalCode": "35373"
  },
  {
   "id": 1810040008,
   "districtId": 1810040,
-  "name": "WALUYOJATI"
+  "districtName": "PRINGSEWU",
+  "name": "WALUYOJATI",
+  "postalCode": "35373"
  },
  {
   "id": 1810040009,
   "districtId": 1810040,
-  "name": "PAJAR ESUK"
+  "districtName": "PRINGSEWU",
+  "name": "PAJAR ESUK",
+  "postalCode": ""
  },
  {
   "id": 1810040011,
   "districtId": 1810040,
-  "name": "SIDOHARJO"
+  "districtName": "PRINGSEWU",
+  "name": "SIDOHARJO",
+  "postalCode": "30975"
  },
  {
   "id": 1810040012,
   "districtId": 1810040,
-  "name": "PODOMORO"
+  "districtName": "PRINGSEWU",
+  "name": "PODOMORO",
+  "postalCode": "35373"
  },
  {
   "id": 1810040013,
   "districtId": 1810040,
-  "name": "BUMI ARUM"
+  "districtName": "PRINGSEWU",
+  "name": "BUMI ARUM",
+  "postalCode": "35373"
  },
  {
   "id": 1810040015,
   "districtId": 1810040,
-  "name": "PAJAR AGUNG"
+  "districtName": "PRINGSEWU",
+  "name": "PAJAR AGUNG",
+  "postalCode": ""
  },
  {
   "id": 1810040016,
   "districtId": 1810040,
-  "name": "PRINGSEWU UTARA"
+  "districtName": "PRINGSEWU",
+  "name": "PRINGSEWU UTARA",
+  "postalCode": "35373"
  },
  {
   "id": 1810040017,
   "districtId": 1810040,
-  "name": "PRINGSEWU SELATAN"
+  "districtName": "PRINGSEWU",
+  "name": "PRINGSEWU SELATAN",
+  "postalCode": "35373"
  },
  {
   "id": 1810040018,
   "districtId": 1810040,
-  "name": "PRINGSEWU BARAT"
+  "districtName": "PRINGSEWU",
+  "name": "PRINGSEWU BARAT",
+  "postalCode": "35373"
  },
  {
   "id": 1810040019,
   "districtId": 1810040,
-  "name": "PRINGSEWU TIMUR"
+  "districtName": "PRINGSEWU",
+  "name": "PRINGSEWU TIMUR",
+  "postalCode": "35373"
  },
  {
   "id": 1810040020,
   "districtId": 1810040,
-  "name": "REJOSARI"
+  "districtName": "PRINGSEWU",
+  "name": "REJOSARI",
+  "postalCode": "29353"
  },
  {
   "id": 1810040021,
   "districtId": 1810040,
-  "name": "BUMI AYU"
+  "districtName": "PRINGSEWU",
+  "name": "BUMI AYU",
+  "postalCode": "24553"
  },
  {
   "id": 1810040022,
   "districtId": 1810040,
-  "name": "PODOSARI"
+  "districtName": "PRINGSEWU",
+  "name": "PODOSARI",
+  "postalCode": "35373"
  },
  {
   "id": 1810040023,
   "districtId": 1810040,
-  "name": "FAJAR AGUNG BARAT"
+  "districtName": "PRINGSEWU",
+  "name": "FAJAR AGUNG BARAT",
+  "postalCode": "35373"
  }
 ]

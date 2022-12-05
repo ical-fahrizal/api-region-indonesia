@@ -2,61 +2,85 @@
  {
   "id": 7102172001,
   "districtId": 7102172,
-  "name": "AGOTEY"
+  "districtName": "MANDOLANG",
+  "name": "AGOTEY",
+  "postalCode": "95661"
  },
  {
   "id": 7102172002,
   "districtId": 7102172,
-  "name": "KOHA"
+  "districtName": "MANDOLANG",
+  "name": "KOHA",
+  "postalCode": "95661"
  },
  {
   "id": 7102172003,
   "districtId": 7102172,
-  "name": "TATELI WERU"
+  "districtName": "MANDOLANG",
+  "name": "TATELI WERU",
+  "postalCode": "95661"
  },
  {
   "id": 7102172004,
   "districtId": 7102172,
-  "name": "TATELI"
+  "districtName": "MANDOLANG",
+  "name": "TATELI",
+  "postalCode": "95661"
  },
  {
   "id": 7102172005,
   "districtId": 7102172,
-  "name": "KALASEY DUA"
+  "districtName": "MANDOLANG",
+  "name": "KALASEY DUA",
+  "postalCode": "95661"
  },
  {
   "id": 7102172006,
   "districtId": 7102172,
-  "name": "KALASEY SATU"
+  "districtName": "MANDOLANG",
+  "name": "KALASEY SATU",
+  "postalCode": "95661"
  },
  {
   "id": 7102172007,
   "districtId": 7102172,
-  "name": "TATELI SATU"
+  "districtName": "MANDOLANG",
+  "name": "TATELI SATU",
+  "postalCode": "95661"
  },
  {
   "id": 7102172008,
   "districtId": 7102172,
-  "name": "TATELI DUA"
+  "districtName": "MANDOLANG",
+  "name": "TATELI DUA",
+  "postalCode": "95661"
  },
  {
   "id": 7102172009,
   "districtId": 7102172,
-  "name": "TATELI TIGA"
+  "districtName": "MANDOLANG",
+  "name": "TATELI TIGA",
+  "postalCode": "95661"
  },
  {
   "id": 7102172010,
   "districtId": 7102172,
-  "name": "KOHA TIMUR"
+  "districtName": "MANDOLANG",
+  "name": "KOHA TIMUR",
+  "postalCode": "95661"
  },
  {
   "id": 7102172011,
   "districtId": 7102172,
-  "name": "KOHA BARAT"
+  "districtName": "MANDOLANG",
+  "name": "KOHA BARAT",
+  "postalCode": "95661"
  },
  {
   "id": 7102172012,
   "districtId": 7102172,
-  "name": "KOHA SELATAN"
+  "districtName": "MANDOLANG",
+  "name": "KOHA SELATAN",
+  "postalCode": "95661"
  }
 ]

@@ -2,101 +2,141 @@
  {
   "id": 3517130001,
   "districtId": 3517130,
-  "name": "TUNGGORONO"
+  "districtName": "JOMBANG",
+  "name": "TUNGGORONO",
+  "postalCode": "54212"
  },
  {
   "id": 3517130002,
   "districtId": 3517130,
-  "name": "JABON"
+  "districtName": "JOMBANG",
+  "name": "JABON",
+  "postalCode": "64157"
  },
  {
   "id": 3517130003,
   "districtId": 3517130,
-  "name": "SENGON"
+  "districtName": "JOMBANG",
+  "name": "SENGON",
+  "postalCode": "57454"
  },
  {
   "id": 3517130004,
   "districtId": 3517130,
-  "name": "JOMBATAN"
+  "districtName": "JOMBANG",
+  "name": "JOMBATAN",
+  "postalCode": "61419"
  },
  {
   "id": 3517130005,
   "districtId": 3517130,
-  "name": "PLANDI"
+  "districtName": "JOMBANG",
+  "name": "PLANDI",
+  "postalCode": "54173"
  },
  {
   "id": 3517130006,
   "districtId": 3517130,
-  "name": "KALIWUNGU"
+  "districtName": "JOMBANG",
+  "name": "KALIWUNGU",
+  "postalCode": "52464"
  },
  {
   "id": 3517130007,
   "districtId": 3517130,
-  "name": "JELAKOMBO"
+  "districtName": "JOMBANG",
+  "name": "JELAKOMBO",
+  "postalCode": "61412"
  },
  {
   "id": 3517130008,
   "districtId": 3517130,
-  "name": "KEPANJEN"
+  "districtName": "JOMBANG",
+  "name": "KEPANJEN",
+  "postalCode": "57471"
  },
  {
   "id": 3517130009,
   "districtId": 3517130,
-  "name": "KEPATIHAN"
+  "districtName": "JOMBANG",
+  "name": "KEPATIHAN",
+  "postalCode": "57652"
  },
  {
   "id": 3517130010,
   "districtId": 3517130,
-  "name": "PULO LOR"
+  "districtName": "JOMBANG",
+  "name": "PULO LOR",
+  "postalCode": "61417"
  },
  {
   "id": 3517130011,
   "districtId": 3517130,
-  "name": "DENANYAR"
+  "districtName": "JOMBANG",
+  "name": "DENANYAR",
+  "postalCode": "57261"
  },
  {
   "id": 3517130012,
   "districtId": 3517130,
-  "name": "JOMBANG"
+  "districtName": "JOMBANG",
+  "name": "JOMBANG",
+  "postalCode": "54172"
  },
  {
   "id": 3517130013,
   "districtId": 3517130,
-  "name": "CANDI MULYO"
+  "districtName": "JOMBANG",
+  "name": "CANDI MULYO",
+  "postalCode": "61419"
  },
  {
   "id": 3517130014,
   "districtId": 3517130,
-  "name": "MOJONGAPIT"
+  "districtName": "JOMBANG",
+  "name": "MOJONGAPIT",
+  "postalCode": "61413"
  },
  {
   "id": 3517130015,
   "districtId": 3517130,
-  "name": "DAPUR KEJAMBON"
+  "districtName": "JOMBANG",
+  "name": "DAPUR KEJAMBON",
+  "postalCode": "61419"
  },
  {
   "id": 3517130016,
   "districtId": 3517130,
-  "name": "SAMBONG DUKUH"
+  "districtName": "JOMBANG",
+  "name": "SAMBONG DUKUH",
+  "postalCode": "61419"
  },
  {
   "id": 3517130017,
   "districtId": 3517130,
-  "name": "TAMBAK REJO"
+  "districtName": "JOMBANG",
+  "name": "TAMBAK REJO",
+  "postalCode": "38657"
  },
  {
   "id": 3517130018,
   "districtId": 3517130,
-  "name": "PLOSOGENENG"
+  "districtName": "JOMBANG",
+  "name": "PLOSOGENENG",
+  "postalCode": "61416"
  },
  {
   "id": 3517130019,
   "districtId": 3517130,
-  "name": "BANJAR DOWO"
+  "districtName": "JOMBANG",
+  "name": "BANJAR DOWO",
+  "postalCode": "61419"
  },
  {
   "id": 3517130020,
   "districtId": 3517130,
-  "name": "SUMBERJO"
+  "districtName": "JOMBANG",
+  "name": "SUMBERJO",
+  "postalCode": "34396"
  }
 ]

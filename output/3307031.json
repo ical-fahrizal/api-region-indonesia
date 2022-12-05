@@ -2,36 +2,50 @@
  {
   "id": 3307031001,
   "districtId": 3307031,
-  "name": "MERGOLANGU"
+  "districtName": "KALIBAWANG",
+  "name": "MERGOLANGU",
+  "postalCode": "56373"
  },
  {
   "id": 3307031003,
   "districtId": 3307031,
-  "name": "PENGARENGAN"
+  "districtName": "KALIBAWANG",
+  "name": "PENGARENGAN",
+  "postalCode": "56153"
  },
  {
   "id": 3307031004,
   "districtId": 3307031,
-  "name": "KALIKARUNG"
+  "districtName": "KALIBAWANG",
+  "name": "KALIKARUNG",
+  "postalCode": "56373"
  },
  {
   "id": 3307031005,
   "districtId": 3307031,
-  "name": "KARANGSAMBUNG"
+  "districtName": "KALIBAWANG",
+  "name": "KARANGSAMBUNG",
+  "postalCode": "45162"
  },
  {
   "id": 3307031006,
   "districtId": 3307031,
-  "name": "DEPOK"
+  "districtName": "KALIBAWANG",
+  "name": "DEPOK",
+  "postalCode": "44174"
  },
  {
   "id": 3307031007,
   "districtId": 3307031,
-  "name": "KALIALANG"
+  "districtName": "KALIBAWANG",
+  "name": "KALIALANG",
+  "postalCode": "52261"
  },
  {
   "id": 3307031008,
   "districtId": 3307031,
-  "name": "TEMPUREJO"
+  "districtName": "KALIBAWANG",
+  "name": "TEMPUREJO",
+  "postalCode": "58219"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 3604040001,
   "districtId": 3604040,
-  "name": "TANJUNGSARI"
+  "districtName": "PABUARAN",
+  "name": "TANJUNGSARI",
+  "postalCode": "28983"
  },
  {
   "id": 3604040002,
   "districtId": 3604040,
-  "name": "KADUBEUREUM"
+  "districtName": "PABUARAN",
+  "name": "KADUBEUREUM",
+  "postalCode": "42163"
  },
  {
   "id": 3604040003,
   "districtId": 3604040,
-  "name": "PASANGGRAHAN"
+  "districtName": "PABUARAN",
+  "name": "PASANGGRAHAN",
+  "postalCode": "41164"
  },
  {
   "id": 3604040004,
   "districtId": 3604040,
-  "name": "PABUARAN"
+  "districtName": "PABUARAN",
+  "name": "PABUARAN",
+  "postalCode": "16921"
  },
  {
   "id": 3604040005,
   "districtId": 3604040,
-  "name": "PANCANEGARA"
+  "districtName": "PABUARAN",
+  "name": "PANCANEGARA",
+  "postalCode": "42163"
  },
  {
   "id": 3604040006,
   "districtId": 3604040,
-  "name": "SINDANGHEULA"
+  "districtName": "PABUARAN",
+  "name": "SINDANGHEULA",
+  "postalCode": "52265"
  },
  {
   "id": 3604040007,
   "districtId": 3604040,
-  "name": "SINDANGSARI"
+  "districtName": "PABUARAN",
+  "name": "SINDANGSARI",
+  "postalCode": "46383"
  },
  {
   "id": 3604040008,
   "districtId": 3604040,
-  "name": "TALAGA WARNA"
+  "districtName": "PABUARAN",
+  "name": "TALAGA WARNA",
+  "postalCode": "42163"
  }
 ]

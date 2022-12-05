@@ -2,51 +2,71 @@
  {
   "id": 3604110001,
   "districtId": 3604110,
-  "name": "NANGGUNG"
+  "districtName": "KOPO",
+  "name": "NANGGUNG",
+  "postalCode": "16650"
  },
  {
   "id": 3604110002,
   "districtId": 3604110,
-  "name": "KOPO"
+  "districtName": "KOPO",
+  "name": "KOPO",
+  "postalCode": "40233"
  },
  {
   "id": 3604110003,
   "districtId": 3604110,
-  "name": "MEKARBARU"
+  "districtName": "KOPO",
+  "name": "MEKARBARU",
+  "postalCode": "42178"
  },
  {
   "id": 3604110004,
   "districtId": 3604110,
-  "name": "GARUT"
+  "districtName": "KOPO",
+  "name": "GARUT",
+  "postalCode": "24656"
  },
  {
   "id": 3604110005,
   "districtId": 3604110,
-  "name": "RANCASUMUR"
+  "districtName": "KOPO",
+  "name": "RANCASUMUR",
+  "postalCode": "42178"
  },
  {
   "id": 3604110006,
   "districtId": 3604110,
-  "name": "CIDAHU"
+  "districtName": "KOPO",
+  "name": "CIDAHU",
+  "postalCode": "43172"
  },
  {
   "id": 3604110007,
   "districtId": 3604110,
-  "name": "NYOMPOK"
+  "districtName": "KOPO",
+  "name": "NYOMPOK",
+  "postalCode": "42178"
  },
  {
   "id": 3604110008,
   "districtId": 3604110,
-  "name": "CARENANG UDIK"
+  "districtName": "KOPO",
+  "name": "CARENANG UDIK",
+  "postalCode": "42178"
  },
  {
   "id": 3604110009,
   "districtId": 3604110,
-  "name": "BABAKAN JAYA"
+  "districtName": "KOPO",
+  "name": "BABAKAN JAYA",
+  "postalCode": "42178"
  },
  {
   "id": 3604110010,
   "districtId": 3604110,
-  "name": "GABUS"
+  "districtName": "KOPO",
+  "name": "GABUS",
+  "postalCode": "58183"
  }
 ]

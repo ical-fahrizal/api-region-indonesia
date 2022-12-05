@@ -2,46 +2,64 @@
  {
   "id": 9430082001,
   "districtId": 9430082,
-  "name": "WANGGAGOME"
+  "districtName": "NIKOGWE",
+  "name": "WANGGAGOME",
+  "postalCode": "99567"
  },
  {
   "id": 9430082002,
   "districtId": 9430082,
-  "name": "WULUWA"
+  "districtName": "NIKOGWE",
+  "name": "WULUWA",
+  "postalCode": "99567"
  },
  {
   "id": 9430082003,
   "districtId": 9430082,
-  "name": "LANGGIME"
+  "districtName": "NIKOGWE",
+  "name": "LANGGIME",
+  "postalCode": "99567"
  },
  {
   "id": 9430082004,
   "districtId": 9430082,
-  "name": "KOTORAMBUR"
+  "districtName": "NIKOGWE",
+  "name": "KOTORAMBUR",
+  "postalCode": "99562"
  },
  {
   "id": 9430082005,
   "districtId": 9430082,
-  "name": "WUMBANAKME"
+  "districtName": "NIKOGWE",
+  "name": "WUMBANAKME",
+  "postalCode": ""
  },
  {
   "id": 9430082006,
   "districtId": 9430082,
-  "name": "AMBIME"
+  "districtName": "NIKOGWE",
+  "name": "AMBIME",
+  "postalCode": ""
  },
  {
   "id": 9430082007,
   "districtId": 9430082,
-  "name": "PINDALO"
+  "districtName": "NIKOGWE",
+  "name": "PINDALO",
+  "postalCode": "99556"
  },
  {
   "id": 9430082008,
   "districtId": 9430082,
-  "name": "YIMIRIBAGA"
+  "districtName": "NIKOGWE",
+  "name": "YIMIRIBAGA",
+  "postalCode": ""
  },
  {
   "id": 9430082009,
   "districtId": 9430082,
-  "name": "ELUBAGA"
+  "districtName": "NIKOGWE",
+  "name": "ELUBAGA",
+  "postalCode": ""
  }
 ]

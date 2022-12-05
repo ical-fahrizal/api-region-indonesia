@@ -2,91 +2,127 @@
  {
   "id": 1214041001,
   "districtId": 1214041,
-  "name": "HILITOTAO"
+  "districtName": "ARAMO",
+  "name": "HILITOTAO",
+  "postalCode": ""
  },
  {
   "id": 1214041002,
   "districtId": 1214041,
-  "name": "HILIORODUA"
+  "districtName": "ARAMO",
+  "name": "HILIORODUA",
+  "postalCode": ""
  },
  {
   "id": 1214041003,
   "districtId": 1214041,
-  "name": "HILIAMAUZULA"
+  "districtName": "ARAMO",
+  "name": "HILIAMAUZULA",
+  "postalCode": ""
  },
  {
   "id": 1214041004,
   "districtId": 1214041,
-  "name": "SISOBAMBOWO"
+  "districtName": "ARAMO",
+  "name": "SISOBAMBOWO",
+  "postalCode": "22866"
  },
  {
   "id": 1214041005,
   "districtId": 1214041,
-  "name": "HILIFADOLO"
+  "districtName": "ARAMO",
+  "name": "HILIFADOLO",
+  "postalCode": "22866"
  },
  {
   "id": 1214041006,
   "districtId": 1214041,
-  "name": "ARAMO"
+  "districtName": "ARAMO",
+  "name": "ARAMO",
+  "postalCode": "22866"
  },
  {
   "id": 1214041007,
   "districtId": 1214041,
-  "name": "HILIMAGIAO"
+  "districtName": "ARAMO",
+  "name": "HILIMAGIAO",
+  "postalCode": "22866"
  },
  {
   "id": 1214041008,
   "districtId": 1214041,
-  "name": "HUME"
+  "districtName": "ARAMO",
+  "name": "HUME",
+  "postalCode": "22866"
  },
  {
   "id": 1214041009,
   "districtId": 1214041,
-  "name": "HILIMEJAYA"
+  "districtName": "ARAMO",
+  "name": "HILIMEJAYA",
+  "postalCode": ""
  },
  {
   "id": 1214041010,
   "districtId": 1214041,
-  "name": "DAO-DAO"
+  "districtName": "ARAMO",
+  "name": "DAO-DAO",
+  "postalCode": "22866"
  },
  {
   "id": 1214041011,
   "districtId": 1214041,
-  "name": "SIKHORILAFAU"
+  "districtName": "ARAMO",
+  "name": "SIKHORILAFAU",
+  "postalCode": "22866"
  },
  {
   "id": 1214041012,
   "districtId": 1214041,
-  "name": "HILIMBOWO"
+  "districtName": "ARAMO",
+  "name": "HILIMBOWO",
+  "postalCode": "22866"
  },
  {
   "id": 1214041013,
   "districtId": 1214041,
-  "name": "HILISAWATO"
+  "districtName": "ARAMO",
+  "name": "HILISAWATO",
+  "postalCode": "22866"
  },
  {
   "id": 1214041014,
   "districtId": 1214041,
-  "name": "HILIGAFOA"
+  "districtName": "ARAMO",
+  "name": "HILIGAFOA",
+  "postalCode": "22866"
  },
  {
   "id": 1214041015,
   "districtId": 1214041,
-  "name": "BALOHAO"
+  "districtName": "ARAMO",
+  "name": "BALOHAO",
+  "postalCode": ""
  },
  {
   "id": 1214041016,
   "districtId": 1214041,
-  "name": "HILIADOLOWA"
+  "districtName": "ARAMO",
+  "name": "HILIADOLOWA",
+  "postalCode": "22866"
  },
  {
   "id": 1214041017,
   "districtId": 1214041,
-  "name": "HILIGUMBU"
+  "districtName": "ARAMO",
+  "name": "HILIGUMBU",
+  "postalCode": "22866"
  },
  {
   "id": 1214041018,
   "districtId": 1214041,
-  "name": "BAGOA"
+  "districtName": "ARAMO",
+  "name": "BAGOA",
+  "postalCode": "22866"
  }
 ]

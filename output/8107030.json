@@ -2,46 +2,64 @@
  {
   "id": 8107030007,
   "districtId": 8107030,
-  "name": "BEMO"
+  "districtName": "WERINAMA",
+  "name": "BEMO",
+  "postalCode": "97554"
  },
  {
   "id": 8107030008,
   "districtId": 8107030,
-  "name": "WERINAMA"
+  "districtName": "WERINAMA",
+  "name": "WERINAMA",
+  "postalCode": "97554"
  },
  {
   "id": 8107030009,
   "districtId": 8107030,
-  "name": "HATUMETEN"
+  "districtName": "WERINAMA",
+  "name": "HATUMETEN",
+  "postalCode": ""
  },
  {
   "id": 8107030010,
   "districtId": 8107030,
-  "name": "BATUASA"
+  "districtName": "WERINAMA",
+  "name": "BATUASA",
+  "postalCode": ""
  },
  {
   "id": 8107030017,
   "districtId": 8107030,
-  "name": "TOBO"
+  "districtName": "WERINAMA",
+  "name": "TOBO",
+  "postalCode": "58384"
  },
  {
   "id": 8107030018,
   "districtId": 8107030,
-  "name": "OSONG"
+  "districtName": "WERINAMA",
+  "name": "OSONG",
+  "postalCode": "97554"
  },
  {
   "id": 8107030019,
   "districtId": 8107030,
-  "name": "GUSALAUT"
+  "districtName": "WERINAMA",
+  "name": "GUSALAUT",
+  "postalCode": "97554"
  },
  {
   "id": 8107030021,
   "districtId": 8107030,
-  "name": "BEMO PERAK"
+  "districtName": "WERINAMA",
+  "name": "BEMO PERAK",
+  "postalCode": "97554"
  },
  {
   "id": 8107030022,
   "districtId": 8107030,
-  "name": "FUNA NAIYABA"
+  "districtName": "WERINAMA",
+  "name": "FUNA NAIYABA",
+  "postalCode": ""
  }
 ]

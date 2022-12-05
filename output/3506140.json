@@ -2,41 +2,57 @@
  {
   "id": 3506140001,
   "districtId": 3506140,
-  "name": "SIDOREJO"
+  "districtName": "PARE",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 3506140002,
   "districtId": 3506140,
-  "name": "GEDANGSEWU"
+  "districtName": "PARE",
+  "name": "GEDANGSEWU",
+  "postalCode": "66231"
  },
  {
   "id": 3506140003,
   "districtId": 3506140,
-  "name": "SUMBERBENDO"
+  "districtName": "PARE",
+  "name": "SUMBERBENDO",
+  "postalCode": "62283"
  },
  {
   "id": 3506140004,
   "districtId": 3506140,
-  "name": "DARUNGAN"
+  "districtName": "PARE",
+  "name": "DARUNGAN",
+  "postalCode": "66161"
  },
  {
   "id": 3506140005,
   "districtId": 3506140,
-  "name": "SAMBIREJO"
+  "districtName": "PARE",
+  "name": "SAMBIREJO",
+  "postalCode": "39153"
  },
  {
   "id": 3506140006,
   "districtId": 3506140,
-  "name": "BENDO"
+  "districtName": "PARE",
+  "name": "BENDO",
+  "postalCode": "57378"
  },
  {
   "id": 3506140008,
   "districtId": 3506140,
-  "name": "TULUNGREJO"
+  "districtName": "PARE",
+  "name": "TULUNGREJO",
+  "postalCode": "66275"
  },
  {
   "id": 3506140009,
   "districtId": 3506140,
-  "name": "PARE"
+  "districtName": "PARE",
+  "name": "PARE",
+  "postalCode": "56271"
  }
 ]

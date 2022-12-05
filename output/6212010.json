@@ -2,36 +2,50 @@
  {
   "id": 6212010001,
   "districtId": 6212010,
-  "name": "TANIRAN"
+  "districtName": "BENUA LIMA",
+  "name": "TANIRAN",
+  "postalCode": ""
  },
  {
   "id": 6212010002,
   "districtId": 6212010,
-  "name": "KANDRIS"
+  "districtName": "BENUA LIMA",
+  "name": "KANDRIS",
+  "postalCode": "73661"
  },
  {
   "id": 6212010003,
   "districtId": 6212010,
-  "name": "BANYU LANDAS"
+  "districtName": "BENUA LIMA",
+  "name": "BANYU LANDAS",
+  "postalCode": "73661"
  },
  {
   "id": 6212010004,
   "districtId": 6212010,
-  "name": "BAGOK"
+  "districtName": "BENUA LIMA",
+  "name": "BAGOK",
+  "postalCode": "73661"
  },
  {
   "id": 6212010005,
   "districtId": 6212010,
-  "name": "BAMBAN"
+  "districtName": "BENUA LIMA",
+  "name": "BAMBAN",
+  "postalCode": "59261"
  },
  {
   "id": 6212010006,
   "districtId": 6212010,
-  "name": "TEWAH PUPUH"
+  "districtName": "BENUA LIMA",
+  "name": "TEWAH PUPUH",
+  "postalCode": "73661"
  },
  {
   "id": 6212010007,
   "districtId": 6212010,
-  "name": "GUDANG SENG"
+  "districtName": "BENUA LIMA",
+  "name": "GUDANG SENG",
+  "postalCode": "73661"
  }
 ]

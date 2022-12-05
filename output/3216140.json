@@ -2,41 +2,57 @@
  {
   "id": 3216140001,
   "districtId": 3216140,
-  "name": "JAYABAKTI"
+  "districtName": "CABANGBUNGIN",
+  "name": "JAYABAKTI",
+  "postalCode": "44172"
  },
  {
   "id": 3216140002,
   "districtId": 3216140,
-  "name": "SINDANGJAYA"
+  "districtName": "CABANGBUNGIN",
+  "name": "SINDANGJAYA",
+  "postalCode": "46195"
  },
  {
   "id": 3216140003,
   "districtId": 3216140,
-  "name": "SINDANGSARI"
+  "districtName": "CABANGBUNGIN",
+  "name": "SINDANGSARI",
+  "postalCode": "46383"
  },
  {
   "id": 3216140004,
   "districtId": 3216140,
-  "name": "JAYALAKSANA"
+  "districtName": "CABANGBUNGIN",
+  "name": "JAYALAKSANA",
+  "postalCode": "45283"
  },
  {
   "id": 3216140005,
   "districtId": 3216140,
-  "name": "SETIALAKSANA"
+  "districtName": "CABANGBUNGIN",
+  "name": "SETIALAKSANA",
+  "postalCode": "17720"
  },
  {
   "id": 3216140006,
   "districtId": 3216140,
-  "name": "LENGGAHJAYA"
+  "districtName": "CABANGBUNGIN",
+  "name": "LENGGAHJAYA",
+  "postalCode": ""
  },
  {
   "id": 3216140007,
   "districtId": 3216140,
-  "name": "SETIAJAYA"
+  "districtName": "CABANGBUNGIN",
+  "name": "SETIAJAYA",
+  "postalCode": "46196"
  },
  {
   "id": 3216140008,
   "districtId": 3216140,
-  "name": "LENGGAHSARI"
+  "districtName": "CABANGBUNGIN",
+  "name": "LENGGAHSARI",
+  "postalCode": ""
  }
 ]

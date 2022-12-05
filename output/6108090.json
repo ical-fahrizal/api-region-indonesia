@@ -2,46 +2,64 @@
  {
   "id": 6108090001,
   "districtId": 6108090,
-  "name": "NANGA EMBALOH"
+  "districtName": "EMBALOH HILIR",
+  "name": "NANGA EMBALOH",
+  "postalCode": "78754"
  },
  {
   "id": 6108090002,
   "districtId": 6108090,
-  "name": "KELILING SEMULUNG"
+  "districtName": "EMBALOH HILIR",
+  "name": "KELILING SEMULUNG",
+  "postalCode": "78754"
  },
  {
   "id": 6108090006,
   "districtId": 6108090,
-  "name": "LAWIK"
+  "districtName": "EMBALOH HILIR",
+  "name": "LAWIK",
+  "postalCode": "78754"
  },
  {
   "id": 6108090007,
   "districtId": 6108090,
-  "name": "NANGA LAUK"
+  "districtName": "EMBALOH HILIR",
+  "name": "NANGA LAUK",
+  "postalCode": "78754"
  },
  {
   "id": 6108090008,
   "districtId": 6108090,
-  "name": "NANGA PALIN"
+  "districtName": "EMBALOH HILIR",
+  "name": "NANGA PALIN",
+  "postalCode": "78754"
  },
  {
   "id": 6108090009,
   "districtId": 6108090,
-  "name": "KIRIN NANGKA"
+  "districtName": "EMBALOH HILIR",
+  "name": "KIRIN NANGKA",
+  "postalCode": "78754"
  },
  {
   "id": 6108090010,
   "districtId": 6108090,
-  "name": "PALA PINTAS"
+  "districtName": "EMBALOH HILIR",
+  "name": "PALA PINTAS",
+  "postalCode": "78754"
  },
  {
   "id": 6108090011,
   "districtId": 6108090,
-  "name": "UJUNG BAYUR"
+  "districtName": "EMBALOH HILIR",
+  "name": "UJUNG BAYUR",
+  "postalCode": "78754"
  },
  {
   "id": 6108090012,
   "districtId": 6108090,
-  "name": "BELATUNG"
+  "districtName": "EMBALOH HILIR",
+  "name": "BELATUNG",
+  "postalCode": "32192"
  }
 ]

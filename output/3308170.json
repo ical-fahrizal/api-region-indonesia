@@ -2,101 +2,141 @@
  {
   "id": 3308170001,
   "districtId": 3308170,
-  "name": "PANCURANMAS"
+  "districtName": "SECANG",
+  "name": "PANCURANMAS",
+  "postalCode": "56195"
  },
  {
   "id": 3308170002,
   "districtId": 3308170,
-  "name": "JAMBEWANGI"
+  "districtName": "SECANG",
+  "name": "JAMBEWANGI",
+  "postalCode": "56193"
  },
  {
   "id": 3308170003,
   "districtId": 3308170,
-  "name": "CANDIRETNO"
+  "districtName": "SECANG",
+  "name": "CANDIRETNO",
+  "postalCode": "56195"
  },
  {
   "id": 3308170004,
   "districtId": 3308170,
-  "name": "PIRIKAN"
+  "districtName": "SECANG",
+  "name": "PIRIKAN",
+  "postalCode": "56195"
  },
  {
   "id": 3308170005,
   "districtId": 3308170,
-  "name": "GIRIKULON"
+  "districtName": "SECANG",
+  "name": "GIRIKULON",
+  "postalCode": "56195"
  },
  {
   "id": 3308170006,
   "districtId": 3308170,
-  "name": "DONOMULYO"
+  "districtName": "SECANG",
+  "name": "DONOMULYO",
+  "postalCode": "34182"
  },
  {
   "id": 3308170007,
   "districtId": 3308170,
-  "name": "SIDOMULYO"
+  "districtName": "SECANG",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  },
  {
   "id": 3308170008,
   "districtId": 3308170,
-  "name": "PUCANG"
+  "districtName": "SECANG",
+  "name": "PUCANG",
+  "postalCode": "53471"
  },
  {
   "id": 3308170009,
   "districtId": 3308170,
-  "name": "CANDISARI"
+  "districtName": "SECANG",
+  "name": "CANDISARI",
+  "postalCode": "57352"
  },
  {
   "id": 3308170010,
   "districtId": 3308170,
-  "name": "MADUSARI"
+  "districtName": "SECANG",
+  "name": "MADUSARI",
+  "postalCode": "56195"
  },
  {
   "id": 3308170011,
   "districtId": 3308170,
-  "name": "PAYAMAN"
+  "districtName": "SECANG",
+  "name": "PAYAMAN",
+  "postalCode": "59381"
  },
  {
   "id": 3308170012,
   "districtId": 3308170,
-  "name": "KALIJOSO"
+  "districtName": "SECANG",
+  "name": "KALIJOSO",
+  "postalCode": "56195"
  },
  {
   "id": 3308170013,
   "districtId": 3308170,
-  "name": "NGADIROJO"
+  "districtName": "SECANG",
+  "name": "NGADIROJO",
+  "postalCode": "57352"
  },
  {
   "id": 3308170014,
   "districtId": 3308170,
-  "name": "MADIOCONDRO"
+  "districtName": "SECANG",
+  "name": "MADIOCONDRO",
+  "postalCode": "56195"
  },
  {
   "id": 3308170015,
   "districtId": 3308170,
-  "name": "NGABEAN"
+  "districtName": "SECANG",
+  "name": "NGABEAN",
+  "postalCode": "51381"
  },
  {
   "id": 3308170016,
   "districtId": 3308170,
-  "name": "SECANG"
+  "districtName": "SECANG",
+  "name": "SECANG",
+  "postalCode": "54172"
  },
  {
   "id": 3308170017,
   "districtId": 3308170,
-  "name": "KRINCING"
+  "districtName": "SECANG",
+  "name": "KRINCING",
+  "postalCode": "56195"
  },
  {
   "id": 3308170018,
   "districtId": 3308170,
-  "name": "DONOREJO"
+  "districtName": "SECANG",
+  "name": "DONOREJO",
+  "postalCode": "59517"
  },
  {
   "id": 3308170019,
   "districtId": 3308170,
-  "name": "KARANGKAJEN"
+  "districtName": "SECANG",
+  "name": "KARANGKAJEN",
+  "postalCode": "56195"
  },
  {
   "id": 3308170020,
   "districtId": 3308170,
-  "name": "PURWOSARI"
+  "districtName": "SECANG",
+  "name": "PURWOSARI",
+  "postalCode": "24582"
  }
 ]

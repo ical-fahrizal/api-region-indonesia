@@ -2,31 +2,43 @@
  {
   "id": 9419061001,
   "districtId": 9419061,
-  "name": "SASAWAPECE"
+  "districtName": "APAWER HULU",
+  "name": "SASAWAPECE",
+  "postalCode": "99374"
  },
  {
   "id": 9419061002,
   "districtId": 9419061,
-  "name": "WAMARIRI"
+  "districtName": "APAWER HULU",
+  "name": "WAMARIRI",
+  "postalCode": "99374"
  },
  {
   "id": 9419061003,
   "districtId": 9419061,
-  "name": "AURIMI"
+  "districtName": "APAWER HULU",
+  "name": "AURIMI",
+  "postalCode": "99374"
  },
  {
   "id": 9419061004,
   "districtId": 9419061,
-  "name": "TAMAYA"
+  "districtName": "APAWER HULU",
+  "name": "TAMAYA",
+  "postalCode": "99374"
  },
  {
   "id": 9419061009,
   "districtId": 9419061,
-  "name": "SYURIMANIA"
+  "districtName": "APAWER HULU",
+  "name": "SYURIMANIA",
+  "postalCode": ""
  },
  {
   "id": 9419061011,
   "districtId": 9419061,
-  "name": "KWAPITANIA"
+  "districtName": "APAWER HULU",
+  "name": "KWAPITANIA",
+  "postalCode": ""
  }
 ]

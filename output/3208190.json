@@ -2,51 +2,71 @@
  {
   "id": 3208190001,
   "districtId": 3208190,
-  "name": "CIBUNTU"
+  "districtName": "PASAWAHAN",
+  "name": "CIBUNTU",
+  "postalCode": "40212"
  },
  {
   "id": 3208190002,
   "districtId": 3208190,
-  "name": "PANIIS"
+  "districtName": "PASAWAHAN",
+  "name": "PANIIS",
+  "postalCode": "45461"
  },
  {
   "id": 3208190003,
   "districtId": 3208190,
-  "name": "SINGKUP"
+  "districtName": "PASAWAHAN",
+  "name": "SINGKUP",
+  "postalCode": "45555"
  },
  {
   "id": 3208190004,
   "districtId": 3208190,
-  "name": "CIDAHU"
+  "districtName": "PASAWAHAN",
+  "name": "CIDAHU",
+  "postalCode": "43172"
  },
  {
   "id": 3208190005,
   "districtId": 3208190,
-  "name": "PASAWAHAN"
+  "districtName": "PASAWAHAN",
+  "name": "PASAWAHAN",
+  "postalCode": "46383"
  },
  {
   "id": 3208190006,
   "districtId": 3208190,
-  "name": "PADABEUNGHAR"
+  "districtName": "PASAWAHAN",
+  "name": "PADABEUNGHAR",
+  "postalCode": "43171"
  },
  {
   "id": 3208190007,
   "districtId": 3208190,
-  "name": "KADUELA"
+  "districtName": "PASAWAHAN",
+  "name": "KADUELA",
+  "postalCode": "45559"
  },
  {
   "id": 3208190008,
   "districtId": 3208190,
-  "name": "PADAMATANG"
+  "districtName": "PASAWAHAN",
+  "name": "PADAMATANG",
+  "postalCode": "45559"
  },
  {
   "id": 3208190009,
   "districtId": 3208190,
-  "name": "CIWIRU"
+  "districtName": "PASAWAHAN",
+  "name": "CIWIRU",
+  "postalCode": "45559"
  },
  {
   "id": 3208190010,
   "districtId": 3208190,
-  "name": "CIMARA"
+  "districtName": "PASAWAHAN",
+  "name": "CIMARA",
+  "postalCode": "45588"
  }
 ]

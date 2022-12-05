@@ -2,51 +2,71 @@
  {
   "id": 6202201001,
   "districtId": 6202201,
-  "name": "JATI WARINGIN"
+  "districtName": "TUALAN HULU",
+  "name": "JATI WARINGIN",
+  "postalCode": "15530"
  },
  {
   "id": 6202201002,
   "districtId": 6202201,
-  "name": "CEMPAKA PUTIH"
+  "districtName": "TUALAN HULU",
+  "name": "CEMPAKA PUTIH",
+  "postalCode": "36134"
  },
  {
   "id": 6202201004,
   "districtId": 6202201,
-  "name": "TUMBANG MUJAM"
+  "districtName": "TUALAN HULU",
+  "name": "TUMBANG MUJAM",
+  "postalCode": "74355"
  },
  {
   "id": 6202201005,
   "districtId": 6202201,
-  "name": "BUKIT MAKMUR"
+  "districtName": "TUALAN HULU",
+  "name": "BUKIT MAKMUR",
+  "postalCode": "24457"
  },
  {
   "id": 6202201006,
   "districtId": 6202201,
-  "name": "WONOSARI"
+  "districtName": "TUALAN HULU",
+  "name": "WONOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 6202201007,
   "districtId": 6202201,
-  "name": "MERAH"
+  "districtName": "TUALAN HULU",
+  "name": "MERAH",
+  "postalCode": "74355"
  },
  {
   "id": 6202201008,
   "districtId": 6202201,
-  "name": "DAMAR MAKMUR"
+  "districtName": "TUALAN HULU",
+  "name": "DAMAR MAKMUR",
+  "postalCode": "74355"
  },
  {
   "id": 6202201009,
   "districtId": 6202201,
-  "name": "MEKAR SARI"
+  "districtName": "TUALAN HULU",
+  "name": "MEKAR SARI",
+  "postalCode": "21261"
  },
  {
   "id": 6202201010,
   "districtId": 6202201,
-  "name": "LUWUK SAMPUN"
+  "districtName": "TUALAN HULU",
+  "name": "LUWUK SAMPUN",
+  "postalCode": "74355"
  },
  {
   "id": 6202201011,
   "districtId": 6202201,
-  "name": "TANJUNG JORONG"
+  "districtName": "TUALAN HULU",
+  "name": "TANJUNG JORONG",
+  "postalCode": "74355"
  }
 ]

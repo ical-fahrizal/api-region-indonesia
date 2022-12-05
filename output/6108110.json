@@ -2,76 +2,106 @@
  {
   "id": 6108110001,
   "districtId": 6108110,
-  "name": "SRI WANGI"
+  "districtName": "BOYAN TANJUNG",
+  "name": "SRI WANGI",
+  "postalCode": "34396"
  },
  {
   "id": 6108110002,
   "districtId": 6108110,
-  "name": "NANGA SANGAN"
+  "districtName": "BOYAN TANJUNG",
+  "name": "NANGA SANGAN",
+  "postalCode": "78758"
  },
  {
   "id": 6108110003,
   "districtId": 6108110,
-  "name": "RIAM MENGELAI"
+  "districtName": "BOYAN TANJUNG",
+  "name": "RIAM MENGELAI",
+  "postalCode": "78758"
  },
  {
   "id": 6108110004,
   "districtId": 6108110,
-  "name": "BOYAN TANJUNG"
+  "districtName": "BOYAN TANJUNG",
+  "name": "BOYAN TANJUNG",
+  "postalCode": "78758"
  },
  {
   "id": 6108110005,
   "districtId": 6108110,
-  "name": "NANGA DANAU"
+  "districtName": "BOYAN TANJUNG",
+  "name": "NANGA DANAU",
+  "postalCode": "78758"
  },
  {
   "id": 6108110006,
   "districtId": 6108110,
-  "name": "NANGA BOYAN"
+  "districtName": "BOYAN TANJUNG",
+  "name": "NANGA BOYAN",
+  "postalCode": "78758"
  },
  {
   "id": 6108110007,
   "districtId": 6108110,
-  "name": "NANGA BETUNG"
+  "districtName": "BOYAN TANJUNG",
+  "name": "NANGA BETUNG",
+  "postalCode": "78758"
  },
  {
   "id": 6108110008,
   "districtId": 6108110,
-  "name": "MUJAN"
+  "districtName": "BOYAN TANJUNG",
+  "name": "MUJAN",
+  "postalCode": "78758"
  },
  {
   "id": 6108110009,
   "districtId": 6108110,
-  "name": "NANGA JEMAH"
+  "districtName": "BOYAN TANJUNG",
+  "name": "NANGA JEMAH",
+  "postalCode": "78758"
  },
  {
   "id": 6108110010,
   "districtId": 6108110,
-  "name": "TUBANG JAYA"
+  "districtName": "BOYAN TANJUNG",
+  "name": "TUBANG JAYA",
+  "postalCode": "78758"
  },
  {
   "id": 6108110011,
   "districtId": 6108110,
-  "name": "KARYA MAJU"
+  "districtName": "BOYAN TANJUNG",
+  "name": "KARYA MAJU",
+  "postalCode": "20853"
  },
  {
   "id": 6108110012,
   "districtId": 6108110,
-  "name": "LANDAU MENTAIL"
+  "districtName": "BOYAN TANJUNG",
+  "name": "LANDAU MENTAIL",
+  "postalCode": "78758"
  },
  {
   "id": 6108110013,
   "districtId": 6108110,
-  "name": "DELINTAS KARYA"
+  "districtName": "BOYAN TANJUNG",
+  "name": "DELINTAS KARYA",
+  "postalCode": "78758"
  },
  {
   "id": 6108110015,
   "districtId": 6108110,
-  "name": "NANGA RET"
+  "districtName": "BOYAN TANJUNG",
+  "name": "NANGA RET",
+  "postalCode": "78758"
  },
  {
   "id": 6108110016,
   "districtId": 6108110,
-  "name": "PEMAWAN"
+  "districtName": "BOYAN TANJUNG",
+  "name": "PEMAWAN",
+  "postalCode": "78758"
  }
 ]

@@ -2,71 +2,99 @@
  {
   "id": 1803101001,
   "districtId": 1803101,
-  "name": "RANTAU MINYAK"
+  "districtName": "CANDIPURO",
+  "name": "RANTAU MINYAK",
+  "postalCode": "35356"
  },
  {
   "id": 1803101002,
   "districtId": 1803101,
-  "name": "SIDOASRI"
+  "districtName": "CANDIPURO",
+  "name": "SIDOASRI",
+  "postalCode": "35356"
  },
  {
   "id": 1803101003,
   "districtId": 1803101,
-  "name": "WAY GELAM"
+  "districtName": "CANDIPURO",
+  "name": "WAY GELAM",
+  "postalCode": "35356"
  },
  {
   "id": 1803101004,
   "districtId": 1803101,
-  "name": "CANDIPURO/TITIWANGI"
+  "districtName": "CANDIPURO",
+  "name": "CANDIPURO/TITIWANGI",
+  "postalCode": ""
  },
  {
   "id": 1803101005,
   "districtId": 1803101,
-  "name": "TRIMOMUKTI"
+  "districtName": "CANDIPURO",
+  "name": "TRIMOMUKTI",
+  "postalCode": "35356"
  },
  {
   "id": 1803101006,
   "districtId": 1803101,
-  "name": "BUMI JAYA"
+  "districtName": "CANDIPURO",
+  "name": "BUMI JAYA",
+  "postalCode": "34583"
  },
  {
   "id": 1803101007,
   "districtId": 1803101,
-  "name": "RAWA SELAPAN"
+  "districtName": "CANDIPURO",
+  "name": "RAWA SELAPAN",
+  "postalCode": "35356"
  },
  {
   "id": 1803101008,
   "districtId": 1803101,
-  "name": "SINAR PASEMAH"
+  "districtName": "CANDIPURO",
+  "name": "SINAR PASEMAH",
+  "postalCode": "35356"
  },
  {
   "id": 1803101009,
   "districtId": 1803101,
-  "name": "BERINGIN KENCANA"
+  "districtName": "CANDIPURO",
+  "name": "BERINGIN KENCANA",
+  "postalCode": "35356"
  },
  {
   "id": 1803101010,
   "districtId": 1803101,
-  "name": "BANYUMAS"
+  "districtName": "CANDIPURO",
+  "name": "BANYUMAS",
+  "postalCode": "20811"
  },
  {
   "id": 1803101011,
   "districtId": 1803101,
-  "name": "CINTAMULYA"
+  "districtName": "CANDIPURO",
+  "name": "CINTAMULYA",
+  "postalCode": "35356"
  },
  {
   "id": 1803101012,
   "districtId": 1803101,
-  "name": "SINAR PALEMBANG"
+  "districtName": "CANDIPURO",
+  "name": "SINAR PALEMBANG",
+  "postalCode": "35356"
  },
  {
   "id": 1803101013,
   "districtId": 1803101,
-  "name": "KARYA MULYA SARI"
+  "districtName": "CANDIPURO",
+  "name": "KARYA MULYA SARI",
+  "postalCode": "35356"
  },
  {
   "id": 1803101014,
   "districtId": 1803101,
-  "name": "BATULIMAN INDAH"
+  "districtName": "CANDIPURO",
+  "name": "BATULIMAN INDAH",
+  "postalCode": "35356"
  }
 ]

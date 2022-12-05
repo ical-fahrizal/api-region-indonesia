@@ -2,51 +2,71 @@
  {
   "id": 1813050001,
   "districtId": 1813050,
-  "name": "BUMIWARAS"
+  "districtName": "WAY KRUI",
+  "name": "BUMIWARAS",
+  "postalCode": ""
  },
  {
   "id": 1813050002,
   "districtId": 1813050,
-  "name": "PAJAR BULAN"
+  "districtName": "WAY KRUI",
+  "name": "PAJAR BULAN",
+  "postalCode": "32279"
  },
  {
   "id": 1813050003,
   "districtId": 1813050,
-  "name": "PENGGAWA LIMA"
+  "districtName": "WAY KRUI",
+  "name": "PENGGAWA LIMA",
+  "postalCode": ""
  },
  {
   "id": 1813050004,
   "districtId": 1813050,
-  "name": "PENGGAWA LIMA ILIR"
+  "districtName": "WAY KRUI",
+  "name": "PENGGAWA LIMA ILIR",
+  "postalCode": ""
  },
  {
   "id": 1813050005,
   "districtId": 1813050,
-  "name": "BANJAR AGUNG"
+  "districtName": "WAY KRUI",
+  "name": "BANJAR AGUNG",
+  "postalCode": "32211"
  },
  {
   "id": 1813050006,
   "districtId": 1813050,
-  "name": "SUKA BARU"
+  "districtName": "WAY KRUI",
+  "name": "SUKA BARU",
+  "postalCode": "32387"
  },
  {
   "id": 1813050007,
   "districtId": 1813050,
-  "name": "ULU KRUI"
+  "districtName": "WAY KRUI",
+  "name": "ULU KRUI",
+  "postalCode": "34874"
  },
  {
   "id": 1813050008,
   "districtId": 1813050,
-  "name": "GUNUNG KEMALA"
+  "districtName": "WAY KRUI",
+  "name": "GUNUNG KEMALA",
+  "postalCode": "31122"
  },
  {
   "id": 1813050009,
   "districtId": 1813050,
-  "name": "LABUHAN MANDI"
+  "districtName": "WAY KRUI",
+  "name": "LABUHAN MANDI",
+  "postalCode": ""
  },
  {
   "id": 1813050010,
   "districtId": 1813050,
-  "name": "GUNUNG KEMALA TIMUR"
+  "districtName": "WAY KRUI",
+  "name": "GUNUNG KEMALA TIMUR",
+  "postalCode": "34874"
  }
 ]

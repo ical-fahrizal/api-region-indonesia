@@ -2,61 +2,85 @@
  {
   "id": 1805101001,
   "districtId": 1805101,
-  "name": "UMAN AGUNG"
+  "districtName": "BANDAR MATARAM",
+  "name": "UMAN AGUNG",
+  "postalCode": ""
  },
  {
   "id": 1805101002,
   "districtId": 1805101,
-  "name": "SRI WIJAYA"
+  "districtName": "BANDAR MATARAM",
+  "name": "SRI WIJAYA",
+  "postalCode": ""
  },
  {
   "id": 1805101003,
   "districtId": 1805101,
-  "name": "SENDANG AGUNG MATARAM"
+  "districtName": "BANDAR MATARAM",
+  "name": "SENDANG AGUNG MATARAM",
+  "postalCode": "34169"
  },
  {
   "id": 1805101004,
   "districtId": 1805101,
-  "name": "JATI DATAR MATARAM"
+  "districtName": "BANDAR MATARAM",
+  "name": "JATI DATAR MATARAM",
+  "postalCode": "34169"
  },
  {
   "id": 1805101005,
   "districtId": 1805101,
-  "name": "TERBANGGI MULYA"
+  "districtName": "BANDAR MATARAM",
+  "name": "TERBANGGI MULYA",
+  "postalCode": "34169"
  },
  {
   "id": 1805101006,
   "districtId": 1805101,
-  "name": "TERBANGGI ILIR"
+  "districtName": "BANDAR MATARAM",
+  "name": "TERBANGGI ILIR",
+  "postalCode": ""
  },
  {
   "id": 1805101007,
   "districtId": 1805101,
-  "name": "MATARAM UDIK"
+  "districtName": "BANDAR MATARAM",
+  "name": "MATARAM UDIK",
+  "postalCode": "34169"
  },
  {
   "id": 1805101008,
   "districtId": 1805101,
-  "name": "MATARAM JAYA"
+  "districtName": "BANDAR MATARAM",
+  "name": "MATARAM JAYA",
+  "postalCode": "30681"
  },
  {
   "id": 1805101009,
   "districtId": 1805101,
-  "name": "UPT WAY TERUSAN SP 1"
+  "districtName": "BANDAR MATARAM",
+  "name": "UPT WAY TERUSAN SP 1",
+  "postalCode": ""
  },
  {
   "id": 1805101010,
   "districtId": 1805101,
-  "name": "UPT WAY TERUSAN SP. 2"
+  "districtName": "BANDAR MATARAM",
+  "name": "UPT WAY TERUSAN SP. 2",
+  "postalCode": ""
  },
  {
   "id": 1805101011,
   "districtId": 1805101,
-  "name": "UPT WAY TERUSAN SP.3"
+  "districtName": "BANDAR MATARAM",
+  "name": "UPT WAY TERUSAN SP.3",
+  "postalCode": ""
  },
  {
   "id": 1805101012,
   "districtId": 1805101,
-  "name": "SUMBER REJEKI"
+  "districtName": "BANDAR MATARAM",
+  "name": "SUMBER REJEKI",
+  "postalCode": "30971"
  }
 ]

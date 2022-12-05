@@ -2,81 +2,113 @@
  {
   "id": 3513150001,
   "districtId": 3513150,
-  "name": "KREGENAN"
+  "districtName": "KRAKSAAN",
+  "name": "KREGENAN",
+  "postalCode": ""
  },
  {
   "id": 3513150002,
   "districtId": 3513150,
-  "name": "RONDOKUNING"
+  "districtName": "KRAKSAAN",
+  "name": "RONDOKUNING",
+  "postalCode": "67282"
  },
  {
   "id": 3513150003,
   "districtId": 3513150,
-  "name": "SEMAMPIR"
+  "districtName": "KRAKSAAN",
+  "name": "SEMAMPIR",
+  "postalCode": "53418"
  },
  {
   "id": 3513150005,
   "districtId": 3513150,
-  "name": "SIDOMUKTI"
+  "districtName": "KRAKSAAN",
+  "name": "SIDOMUKTI",
+  "postalCode": "21217"
  },
  {
   "id": 3513150006,
   "districtId": 3513150,
-  "name": "KRAKSAAN WETAN"
+  "districtName": "KRAKSAAN",
+  "name": "KRAKSAAN WETAN",
+  "postalCode": "67282"
  },
  {
   "id": 3513150007,
   "districtId": 3513150,
-  "name": "RANGKANG"
+  "districtName": "KRAKSAAN",
+  "name": "RANGKANG",
+  "postalCode": ""
  },
  {
   "id": 3513150008,
   "districtId": 3513150,
-  "name": "KANDANGJATI KULON"
+  "districtName": "KRAKSAAN",
+  "name": "KANDANGJATI KULON",
+  "postalCode": "67282"
  },
  {
   "id": 3513150009,
   "districtId": 3513150,
-  "name": "KANDANGJATI WETAN"
+  "districtName": "KRAKSAAN",
+  "name": "KANDANGJATI WETAN",
+  "postalCode": "67282"
  },
  {
   "id": 3513150010,
   "districtId": 3513150,
-  "name": "ALASSUMUR KULON"
+  "districtName": "KRAKSAAN",
+  "name": "ALASSUMUR KULON",
+  "postalCode": "67282"
  },
  {
   "id": 3513150012,
   "districtId": 3513150,
-  "name": "TAMANSARI"
+  "districtName": "KRAKSAAN",
+  "name": "TAMANSARI",
+  "postalCode": "35366"
  },
  {
   "id": 3513150013,
   "districtId": 3513150,
-  "name": "ASEMBAKOR"
+  "districtName": "KRAKSAAN",
+  "name": "ASEMBAKOR",
+  "postalCode": "67282"
  },
  {
   "id": 3513150014,
   "districtId": 3513150,
-  "name": "KEBONAGUNG"
+  "districtName": "KRAKSAAN",
+  "name": "KEBONAGUNG",
+  "postalCode": "56151"
  },
  {
   "id": 3513150015,
   "districtId": 3513150,
-  "name": "SIDOPEKSO"
+  "districtName": "KRAKSAAN",
+  "name": "SIDOPEKSO",
+  "postalCode": "67282"
  },
  {
   "id": 3513150016,
   "districtId": 3513150,
-  "name": "PATOKAN"
+  "districtName": "KRAKSAAN",
+  "name": "PATOKAN",
+  "postalCode": "67261"
  },
  {
   "id": 3513150017,
   "districtId": 3513150,
-  "name": "ASEMBAGUS"
+  "districtName": "KRAKSAAN",
+  "name": "ASEMBAGUS",
+  "postalCode": "68373"
  },
  {
   "id": 3513150018,
   "districtId": 3513150,
-  "name": "KALIBUNTU"
+  "districtName": "KRAKSAAN",
+  "name": "KALIBUNTU",
+  "postalCode": "45193"
  }
 ]

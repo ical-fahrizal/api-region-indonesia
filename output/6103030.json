@@ -2,86 +2,120 @@
  {
   "id": 6103030001,
   "districtId": 6103030,
-  "name": "PAK MAYAM"
+  "districtName": "NGABANG",
+  "name": "PAK MAYAM",
+  "postalCode": "79357"
  },
  {
   "id": 6103030007,
   "districtId": 6103030,
-  "name": "SEBIRANG"
+  "districtName": "NGABANG",
+  "name": "SEBIRANG",
+  "postalCode": "79357"
  },
  {
   "id": 6103030008,
   "districtId": 6103030,
-  "name": "AMBOYO SELATAN"
+  "districtName": "NGABANG",
+  "name": "AMBOYO SELATAN",
+  "postalCode": "79357"
  },
  {
   "id": 6103030009,
   "districtId": 6103030,
-  "name": "TEMIANG SAWI"
+  "districtName": "NGABANG",
+  "name": "TEMIANG SAWI",
+  "postalCode": "79357"
  },
  {
   "id": 6103030014,
   "districtId": 6103030,
-  "name": "TEBEDAK"
+  "districtName": "NGABANG",
+  "name": "TEBEDAK",
+  "postalCode": "79357"
  },
  {
   "id": 6103030015,
   "districtId": 6103030,
-  "name": "HILIR TENGAH"
+  "districtName": "NGABANG",
+  "name": "HILIR TENGAH",
+  "postalCode": "79357"
  },
  {
   "id": 6103030016,
   "districtId": 6103030,
-  "name": "HILIR KANTOR"
+  "districtName": "NGABANG",
+  "name": "HILIR KANTOR",
+  "postalCode": "79357"
  },
  {
   "id": 6103030017,
   "districtId": 6103030,
-  "name": "AMBOYO INTI"
+  "districtName": "NGABANG",
+  "name": "AMBOYO INTI",
+  "postalCode": "79357"
  },
  {
   "id": 6103030018,
   "districtId": 6103030,
-  "name": "AMBOYO UTARA"
+  "districtName": "NGABANG",
+  "name": "AMBOYO UTARA",
+  "postalCode": "79357"
  },
  {
   "id": 6103030019,
   "districtId": 6103030,
-  "name": "RAJA"
+  "districtName": "NGABANG",
+  "name": "RAJA",
+  "postalCode": "24472"
  },
  {
   "id": 6103030025,
   "districtId": 6103030,
-  "name": "ENGKADU"
+  "districtName": "NGABANG",
+  "name": "ENGKADU",
+  "postalCode": "79357"
  },
  {
   "id": 6103030026,
   "districtId": 6103030,
-  "name": "AMBARANG"
+  "districtName": "NGABANG",
+  "name": "AMBARANG",
+  "postalCode": "79357"
  },
  {
   "id": 6103030027,
   "districtId": 6103030,
-  "name": "RASAN"
+  "districtName": "NGABANG",
+  "name": "RASAN",
+  "postalCode": "79357"
  },
  {
   "id": 6103030028,
   "districtId": 6103030,
-  "name": "SENGAI KELI"
+  "districtName": "NGABANG",
+  "name": "SENGAI KELI",
+  "postalCode": ""
  },
  {
   "id": 6103030029,
   "districtId": 6103030,
-  "name": "PENYAHO DANGKU"
+  "districtName": "NGABANG",
+  "name": "PENYAHO DANGKU",
+  "postalCode": ""
  },
  {
   "id": 6103030030,
   "districtId": 6103030,
-  "name": "ANTAN RAYAN"
+  "districtName": "NGABANG",
+  "name": "ANTAN RAYAN",
+  "postalCode": "79357"
  },
  {
   "id": 6103030031,
   "districtId": 6103030,
-  "name": "AMANG"
+  "districtName": "NGABANG",
+  "name": "AMANG",
+  "postalCode": "79357"
  }
 ]

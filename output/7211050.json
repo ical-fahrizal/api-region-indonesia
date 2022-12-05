@@ -2,41 +2,57 @@
  {
   "id": 7211050001,
   "districtId": 7211050,
-  "name": "MONSONGAN"
+  "districtName": "BANGGAI TENGAH",
+  "name": "MONSONGAN",
+  "postalCode": "94891"
  },
  {
   "id": 7211050002,
   "districtId": 7211050,
-  "name": "POSOSLALONGO"
+  "districtName": "BANGGAI TENGAH",
+  "name": "POSOSLALONGO",
+  "postalCode": "94891"
  },
  {
   "id": 7211050003,
   "districtId": 7211050,
-  "name": "BADUMPAYAN"
+  "districtName": "BANGGAI TENGAH",
+  "name": "BADUMPAYAN",
+  "postalCode": "94891"
  },
  {
   "id": 7211050004,
   "districtId": 7211050,
-  "name": "TINTINGO"
+  "districtName": "BANGGAI TENGAH",
+  "name": "TINTINGO",
+  "postalCode": "94891"
  },
  {
   "id": 7211050005,
   "districtId": 7211050,
-  "name": "ADEAN"
+  "districtName": "BANGGAI TENGAH",
+  "name": "ADEAN",
+  "postalCode": "94891"
  },
  {
   "id": 7211050006,
   "districtId": 7211050,
-  "name": "MOMINIT"
+  "districtName": "BANGGAI TENGAH",
+  "name": "MOMINIT",
+  "postalCode": "94891"
  },
  {
   "id": 7211050007,
   "districtId": 7211050,
-  "name": "TIMBONG"
+  "districtName": "BANGGAI TENGAH",
+  "name": "TIMBONG",
+  "postalCode": ""
  },
  {
   "id": 7211050008,
   "districtId": 7211050,
-  "name": "GONG-GONG"
+  "districtName": "BANGGAI TENGAH",
+  "name": "GONG-GONG",
+  "postalCode": "94891"
  }
 ]

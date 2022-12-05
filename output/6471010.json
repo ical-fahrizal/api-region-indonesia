@@ -2,36 +2,50 @@
  {
   "id": 6471010006,
   "districtId": 6471010,
-  "name": "GUNUNG BAHAGIA"
+  "districtName": "BALIKPAPAN SELATAN",
+  "name": "GUNUNG BAHAGIA",
+  "postalCode": "76114"
  },
  {
   "id": 6471010007,
   "districtId": 6471010,
-  "name": "SEPINGGAN"
+  "districtName": "BALIKPAPAN SELATAN",
+  "name": "SEPINGGAN",
+  "postalCode": "79453"
  },
  {
   "id": 6471010008,
   "districtId": 6471010,
-  "name": "DAMAI BARU"
+  "districtName": "BALIKPAPAN SELATAN",
+  "name": "DAMAI BARU",
+  "postalCode": "76114"
  },
  {
   "id": 6471010009,
   "districtId": 6471010,
-  "name": "DAMAI BAHAGIA"
+  "districtName": "BALIKPAPAN SELATAN",
+  "name": "DAMAI BAHAGIA",
+  "postalCode": "76114"
  },
  {
   "id": 6471010010,
   "districtId": 6471010,
-  "name": "SUNGAI NANGKA"
+  "districtName": "BALIKPAPAN SELATAN",
+  "name": "SUNGAI NANGKA",
+  "postalCode": "76114"
  },
  {
   "id": 6471010011,
   "districtId": 6471010,
-  "name": "SEPINGGAN RAYA"
+  "districtName": "BALIKPAPAN SELATAN",
+  "name": "SEPINGGAN RAYA",
+  "postalCode": "76115"
  },
  {
   "id": 6471010012,
   "districtId": 6471010,
-  "name": "SEPINGGAN BARU"
+  "districtName": "BALIKPAPAN SELATAN",
+  "name": "SEPINGGAN BARU",
+  "postalCode": "76115"
  }
 ]

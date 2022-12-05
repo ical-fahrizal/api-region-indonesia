@@ -2,31 +2,43 @@
  {
   "id": 1571050001,
   "districtId": 1571050,
-  "name": "PENYENGAT RENDAH"
+  "districtName": "TELANAIPURA",
+  "name": "PENYENGAT RENDAH",
+  "postalCode": "36124"
  },
  {
   "id": 1571050002,
   "districtId": 1571050,
-  "name": "SIMPANG IV SIPIN"
+  "districtName": "TELANAIPURA",
+  "name": "SIMPANG IV SIPIN",
+  "postalCode": ""
  },
  {
   "id": 1571050003,
   "districtId": 1571050,
-  "name": "TELANAIPURA"
+  "districtName": "TELANAIPURA",
+  "name": "TELANAIPURA",
+  "postalCode": "36122"
  },
  {
   "id": 1571050009,
   "districtId": 1571050,
-  "name": "BULURAN KENALI"
+  "districtName": "TELANAIPURA",
+  "name": "BULURAN KENALI",
+  "postalCode": "36123"
  },
  {
   "id": 1571050010,
   "districtId": 1571050,
-  "name": "TELUK KENALI"
+  "districtName": "TELANAIPURA",
+  "name": "TELUK KENALI",
+  "postalCode": "36123"
  },
  {
   "id": 1571050011,
   "districtId": 1571050,
-  "name": "PEMATANG SULUR"
+  "districtName": "TELANAIPURA",
+  "name": "PEMATANG SULUR",
+  "postalCode": "36129"
  }
 ]

@@ -2,26 +2,36 @@
  {
   "id": 3404050001,
   "districtId": 3404050,
-  "name": "BALECATUR"
+  "districtName": "GAMPING",
+  "name": "BALECATUR",
+  "postalCode": "55295"
  },
  {
   "id": 3404050002,
   "districtId": 3404050,
-  "name": "AMBARKETAWANG"
+  "districtName": "GAMPING",
+  "name": "AMBARKETAWANG",
+  "postalCode": "55294"
  },
  {
   "id": 3404050003,
   "districtId": 3404050,
-  "name": "BANYURADEN"
+  "districtName": "GAMPING",
+  "name": "BANYURADEN",
+  "postalCode": "55293"
  },
  {
   "id": 3404050004,
   "districtId": 3404050,
-  "name": "NOGOTIRTO"
+  "districtName": "GAMPING",
+  "name": "NOGOTIRTO",
+  "postalCode": "55592"
  },
  {
   "id": 3404050005,
   "districtId": 3404050,
-  "name": "TRIHANGGO"
+  "districtName": "GAMPING",
+  "name": "TRIHANGGO",
+  "postalCode": "55291"
  }
 ]

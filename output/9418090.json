@@ -2,36 +2,50 @@
  {
   "id": 9418090004,
   "districtId": 9418090,
-  "name": "NUGINI"
+  "districtName": "DUNDU",
+  "name": "NUGINI",
+  "postalCode": "99569"
  },
  {
   "id": 9418090006,
   "districtId": 9418090,
-  "name": "YIKU"
+  "districtName": "DUNDU",
+  "name": "YIKU",
+  "postalCode": "99569"
  },
  {
   "id": 9418090007,
   "districtId": 9418090,
-  "name": "NILOGABU"
+  "districtName": "DUNDU",
+  "name": "NILOGABU",
+  "postalCode": "99569"
  },
  {
   "id": 9418090008,
   "districtId": 9418090,
-  "name": "NAKWI"
+  "districtName": "DUNDU",
+  "name": "NAKWI",
+  "postalCode": "99569"
  },
  {
   "id": 9418090009,
   "districtId": 9418090,
-  "name": "NINI"
+  "districtName": "DUNDU",
+  "name": "NINI",
+  "postalCode": "99568"
  },
  {
   "id": 9418090011,
   "districtId": 9418090,
-  "name": "BIMO"
+  "districtName": "DUNDU",
+  "name": "BIMO",
+  "postalCode": "67292"
  },
  {
   "id": 9418090012,
   "districtId": 9418090,
-  "name": "DUGUNAGEP"
+  "districtName": "DUNDU",
+  "name": "DUGUNAGEP",
+  "postalCode": "99569"
  }
 ]

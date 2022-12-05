@@ -2,21 +2,29 @@
  {
   "id": 1210032001,
   "districtId": 1210032,
-  "name": "SITINJO"
+  "districtName": "SITINJO",
+  "name": "SITINJO",
+  "postalCode": "22219"
  },
  {
   "id": 1210032003,
   "districtId": 1210032,
-  "name": "PANJI DABUTAR"
+  "districtName": "SITINJO",
+  "name": "PANJI DABUTAR",
+  "postalCode": ""
  },
  {
   "id": 1210032012,
   "districtId": 1210032,
-  "name": "SITINJO I"
+  "districtName": "SITINJO",
+  "name": "SITINJO I",
+  "postalCode": "22219"
  },
  {
   "id": 1210032013,
   "districtId": 1210032,
-  "name": "SITINJO II"
+  "districtName": "SITINJO",
+  "name": "SITINJO II",
+  "postalCode": "22219"
  }
 ]

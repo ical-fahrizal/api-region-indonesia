@@ -2,31 +2,43 @@
  {
   "id": 5310042011,
   "districtId": 5310042,
-  "name": "NATARMAGE"
+  "districtName": "WAIBLAMA",
+  "name": "NATARMAGE",
+  "postalCode": "86183"
  },
  {
   "id": 5310042012,
   "districtId": 5310042,
-  "name": "PRUDA"
+  "districtName": "WAIBLAMA",
+  "name": "PRUDA",
+  "postalCode": "86183"
  },
  {
   "id": 5310042013,
   "districtId": 5310042,
-  "name": "WERANG"
+  "districtName": "WAIBLAMA",
+  "name": "WERANG",
+  "postalCode": "86183"
  },
  {
   "id": 5310042014,
   "districtId": 5310042,
-  "name": "TANARAWA"
+  "districtName": "WAIBLAMA",
+  "name": "TANARAWA",
+  "postalCode": "86183"
  },
  {
   "id": 5310042024,
   "districtId": 5310042,
-  "name": "ILINMEDO"
+  "districtName": "WAIBLAMA",
+  "name": "ILINMEDO",
+  "postalCode": "86183"
  },
  {
   "id": 5310042025,
   "districtId": 5310042,
-  "name": "TUA BAO"
+  "districtName": "WAIBLAMA",
+  "name": "TUA BAO",
+  "postalCode": "86183"
  }
 ]

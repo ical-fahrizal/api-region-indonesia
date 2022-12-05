@@ -2,51 +2,71 @@
  {
   "id": 3212030001,
   "districtId": 3212030,
-  "name": "KEDUNGDAWA"
+  "districtName": "GABUSWETAN",
+  "name": "KEDUNGDAWA",
+  "postalCode": "45263"
  },
  {
   "id": 3212030002,
   "districtId": 3212030,
-  "name": "BABAKANJAYA"
+  "districtName": "GABUSWETAN",
+  "name": "BABAKANJAYA",
+  "postalCode": "45263"
  },
  {
   "id": 3212030003,
   "districtId": 3212030,
-  "name": "GABUSKULON"
+  "districtName": "GABUSWETAN",
+  "name": "GABUSKULON",
+  "postalCode": "45263"
  },
  {
   "id": 3212030004,
   "districtId": 3212030,
-  "name": "SEKARMULYA"
+  "districtName": "GABUSWETAN",
+  "name": "SEKARMULYA",
+  "postalCode": "45263"
  },
  {
   "id": 3212030005,
   "districtId": 3212030,
-  "name": "KEDOKANGABUS"
+  "districtName": "GABUSWETAN",
+  "name": "KEDOKANGABUS",
+  "postalCode": "45263"
  },
  {
   "id": 3212030006,
   "districtId": 3212030,
-  "name": "RANCAMULYA"
+  "districtName": "GABUSWETAN",
+  "name": "RANCAMULYA",
+  "postalCode": "45263"
  },
  {
   "id": 3212030007,
   "districtId": 3212030,
-  "name": "RANCAHAN"
+  "districtName": "GABUSWETAN",
+  "name": "RANCAHAN",
+  "postalCode": "45263"
  },
  {
   "id": 3212030008,
   "districtId": 3212030,
-  "name": "GABUSWETAN"
+  "districtName": "GABUSWETAN",
+  "name": "GABUSWETAN",
+  "postalCode": "45263"
  },
  {
   "id": 3212030009,
   "districtId": 3212030,
-  "name": "DRUNTEN WETAN"
+  "districtName": "GABUSWETAN",
+  "name": "DRUNTEN WETAN",
+  "postalCode": "45263"
  },
  {
   "id": 3212030010,
   "districtId": 3212030,
-  "name": "DRUNTEN KULON"
+  "districtName": "GABUSWETAN",
+  "name": "DRUNTEN KULON",
+  "postalCode": "45263"
  }
 ]

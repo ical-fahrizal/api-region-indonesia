@@ -2,51 +2,71 @@
  {
   "id": 1807052001,
   "districtId": 1807052,
-  "name": "TANJUNG DALOM"
+  "districtName": "BUMI AGUNG",
+  "name": "TANJUNG DALOM",
+  "postalCode": ""
  },
  {
   "id": 1807052002,
   "districtId": 1807052,
-  "name": "KARANGAN"
+  "districtName": "BUMI AGUNG",
+  "name": "KARANGAN",
+  "postalCode": "31131"
  },
  {
   "id": 1807052003,
   "districtId": 1807052,
-  "name": "BUMI AGUNG"
+  "districtName": "BUMI AGUNG",
+  "name": "BUMI AGUNG",
+  "postalCode": "31521"
  },
  {
   "id": 1807052004,
   "districtId": 1807052,
-  "name": "MULYO HARJO"
+  "districtName": "BUMI AGUNG",
+  "name": "MULYO HARJO",
+  "postalCode": "31652"
  },
  {
   "id": 1807052005,
   "districtId": 1807052,
-  "name": "WONOHARJO"
+  "districtName": "BUMI AGUNG",
+  "name": "WONOHARJO",
+  "postalCode": "38655"
  },
  {
   "id": 1807052006,
   "districtId": 1807052,
-  "name": "PISANG BARU"
+  "districtName": "BUMI AGUNG",
+  "name": "PISANG BARU",
+  "postalCode": "34763"
  },
  {
   "id": 1807052007,
   "districtId": 1807052,
-  "name": "SRINUMPI"
+  "districtName": "BUMI AGUNG",
+  "name": "SRINUMPI",
+  "postalCode": ""
  },
  {
   "id": 1807052008,
   "districtId": 1807052,
-  "name": "PISANG INDAH"
+  "districtName": "BUMI AGUNG",
+  "name": "PISANG INDAH",
+  "postalCode": "34763"
  },
  {
   "id": 1807052009,
   "districtId": 1807052,
-  "name": "SUKA MAJU"
+  "districtName": "BUMI AGUNG",
+  "name": "SUKA MAJU",
+  "postalCode": "24673"
  },
  {
   "id": 1807052010,
   "districtId": 1807052,
-  "name": "BUMI SAY AGUNG"
+  "districtName": "BUMI AGUNG",
+  "name": "BUMI SAY AGUNG",
+  "postalCode": "34763"
  }
 ]

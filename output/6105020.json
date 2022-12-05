@@ -2,96 +2,134 @@
  {
   "id": 6105020001,
   "districtId": 6105020,
-  "name": "BARU LOMBAK"
+  "districtName": "MELIAU",
+  "name": "BARU LOMBAK",
+  "postalCode": "78571"
  },
  {
   "id": 6105020002,
   "districtId": 6105020,
-  "name": "KUNYIL"
+  "districtName": "MELIAU",
+  "name": "KUNYIL",
+  "postalCode": "78571"
  },
  {
   "id": 6105020003,
   "districtId": 6105020,
-  "name": "PAMPANG DUA"
+  "districtName": "MELIAU",
+  "name": "PAMPANG DUA",
+  "postalCode": "78571"
  },
  {
   "id": 6105020004,
   "districtId": 6105020,
-  "name": "HARAPAN MAKMUR"
+  "districtName": "MELIAU",
+  "name": "HARAPAN MAKMUR",
+  "postalCode": "20773"
  },
  {
   "id": 6105020005,
   "districtId": 6105020,
-  "name": "SUNGAI KEMBAYAU"
+  "districtName": "MELIAU",
+  "name": "SUNGAI KEMBAYAU",
+  "postalCode": ""
  },
  {
   "id": 6105020006,
   "districtId": 6105020,
-  "name": "KUALA ROSAN"
+  "districtName": "MELIAU",
+  "name": "KUALA ROSAN",
+  "postalCode": "78571"
  },
  {
   "id": 6105020007,
   "districtId": 6105020,
-  "name": "KUALA BUAYAN"
+  "districtName": "MELIAU",
+  "name": "KUALA BUAYAN",
+  "postalCode": "78571"
  },
  {
   "id": 6105020008,
   "districtId": 6105020,
-  "name": "BAKTI JAYA"
+  "districtName": "MELIAU",
+  "name": "BAKTI JAYA",
+  "postalCode": "15315"
  },
  {
   "id": 6105020009,
   "districtId": 6105020,
-  "name": "CUPANG"
+  "districtName": "MELIAU",
+  "name": "CUPANG",
+  "postalCode": "45161"
  },
  {
   "id": 6105020010,
   "districtId": 6105020,
-  "name": "MUKTI JAYA"
+  "districtName": "MELIAU",
+  "name": "MUKTI JAYA",
+  "postalCode": "28953"
  },
  {
   "id": 6105020011,
   "districtId": 6105020,
-  "name": "LALANG"
+  "districtName": "MELIAU",
+  "name": "LALANG",
+  "postalCode": "20127"
  },
  {
   "id": 6105020012,
   "districtId": 6105020,
-  "name": "ENGGADAI"
+  "districtName": "MELIAU",
+  "name": "ENGGADAI",
+  "postalCode": "78571"
  },
  {
   "id": 6105020013,
   "districtId": 6105020,
-  "name": "MERANGGAU"
+  "districtName": "MELIAU",
+  "name": "MERANGGAU",
+  "postalCode": "78571"
  },
  {
   "id": 6105020014,
   "districtId": 6105020,
-  "name": "BALAI TINGGI"
+  "districtName": "MELIAU",
+  "name": "BALAI TINGGI",
+  "postalCode": "78571"
  },
  {
   "id": 6105020015,
   "districtId": 6105020,
-  "name": "MELIAU HILIR"
+  "districtName": "MELIAU",
+  "name": "MELIAU HILIR",
+  "postalCode": "78571"
  },
  {
   "id": 6105020016,
   "districtId": 6105020,
-  "name": "MELIAU HULU"
+  "districtName": "MELIAU",
+  "name": "MELIAU HULU",
+  "postalCode": "78571"
  },
  {
   "id": 6105020017,
   "districtId": 6105020,
-  "name": "SUNGAI MAYAM"
+  "districtName": "MELIAU",
+  "name": "SUNGAI MAYAM",
+  "postalCode": ""
  },
  {
   "id": 6105020018,
   "districtId": 6105020,
-  "name": "MELOBOK"
+  "districtName": "MELIAU",
+  "name": "MELOBOK",
+  "postalCode": "78571"
  },
  {
   "id": 6105020019,
   "districtId": 6105020,
-  "name": "MELAWI MAKMUR"
+  "districtName": "MELIAU",
+  "name": "MELAWI MAKMUR",
+  "postalCode": "78571"
  }
 ]

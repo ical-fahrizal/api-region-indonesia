@@ -2,66 +2,92 @@
  {
   "id": 1402040008,
   "districtId": 1402040,
-  "name": "PASIR KERANJI"
+  "districtName": "PASIR PENYU",
+  "name": "PASIR KERANJI",
+  "postalCode": "29352"
  },
  {
   "id": 1402040009,
   "districtId": 1402040,
-  "name": "AIR MOLEK I"
+  "districtName": "PASIR PENYU",
+  "name": "AIR MOLEK I",
+  "postalCode": "29352"
  },
  {
   "id": 1402040010,
   "districtId": 1402040,
-  "name": "CANDIREJO"
+  "districtName": "PASIR PENYU",
+  "name": "CANDIREJO",
+  "postalCode": "51274"
  },
  {
   "id": 1402040011,
   "districtId": 1402040,
-  "name": "AIR MOLEK II"
+  "districtName": "PASIR PENYU",
+  "name": "AIR MOLEK II",
+  "postalCode": "29352"
  },
  {
   "id": 1402040012,
   "districtId": 1402040,
-  "name": "LEMBAH DUSUN GADING"
+  "districtName": "PASIR PENYU",
+  "name": "LEMBAH DUSUN GADING",
+  "postalCode": "29352"
  },
  {
   "id": 1402040013,
   "districtId": 1402040,
-  "name": "PETALONGAN"
+  "districtName": "PASIR PENYU",
+  "name": "PETALONGAN",
+  "postalCode": "29274"
  },
  {
   "id": 1402040018,
   "districtId": 1402040,
-  "name": "KEMBANG HARUM"
+  "districtName": "PASIR PENYU",
+  "name": "KEMBANG HARUM",
+  "postalCode": "29352"
  },
  {
   "id": 1402040019,
   "districtId": 1402040,
-  "name": "BATU GAJAH"
+  "districtName": "PASIR PENYU",
+  "name": "BATU GAJAH",
+  "postalCode": "22983"
  },
  {
   "id": 1402040020,
   "districtId": 1402040,
-  "name": "JATIREJO"
+  "districtName": "PASIR PENYU",
+  "name": "JATIREJO",
+  "postalCode": "23661"
  },
  {
   "id": 1402040021,
   "districtId": 1402040,
-  "name": "SERUMPUN JAYA"
+  "districtName": "PASIR PENYU",
+  "name": "SERUMPUN JAYA",
+  "postalCode": "29352"
  },
  {
   "id": 1402040022,
   "districtId": 1402040,
-  "name": "TANJUNG GADING"
+  "districtName": "PASIR PENYU",
+  "name": "TANJUNG GADING",
+  "postalCode": "29352"
  },
  {
   "id": 1402040023,
   "districtId": 1402040,
-  "name": "SEKAR MAWAR"
+  "districtName": "PASIR PENYU",
+  "name": "SEKAR MAWAR",
+  "postalCode": "29352"
  },
  {
   "id": 1402040024,
   "districtId": 1402040,
-  "name": "TANAH MERAH"
+  "districtName": "PASIR PENYU",
+  "name": "TANAH MERAH",
+  "postalCode": "24652"
  }
 ]

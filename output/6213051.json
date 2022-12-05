@@ -2,36 +2,50 @@
  {
   "id": 6213051001,
   "districtId": 6213051,
-  "name": "MUARA JOLOI I"
+  "districtName": "SERIBU RIAM",
+  "name": "MUARA JOLOI I",
+  "postalCode": "73981"
  },
  {
   "id": 6213051002,
   "districtId": 6213051,
-  "name": "MUARA JOLOI II"
+  "districtName": "SERIBU RIAM",
+  "name": "MUARA JOLOI II",
+  "postalCode": "73981"
  },
  {
   "id": 6213051003,
   "districtId": 6213051,
-  "name": "PARAHAU"
+  "districtName": "SERIBU RIAM",
+  "name": "PARAHAU",
+  "postalCode": "73981"
  },
  {
   "id": 6213051004,
   "districtId": 6213051,
-  "name": "TUMBANG NAAN"
+  "districtName": "SERIBU RIAM",
+  "name": "TUMBANG NAAN",
+  "postalCode": "73981"
  },
  {
   "id": 6213051005,
   "districtId": 6213051,
-  "name": "TUMBANG TOHAN"
+  "districtName": "SERIBU RIAM",
+  "name": "TUMBANG TOHAN",
+  "postalCode": ""
  },
  {
   "id": 6213051006,
   "districtId": 6213051,
-  "name": "TUMBANG JOJANG"
+  "districtName": "SERIBU RIAM",
+  "name": "TUMBANG JOJANG",
+  "postalCode": "73981"
  },
  {
   "id": 6213051007,
   "districtId": 6213051,
-  "name": "TAKAJUNG"
+  "districtName": "SERIBU RIAM",
+  "name": "TAKAJUNG",
+  "postalCode": "73981"
  }
 ]

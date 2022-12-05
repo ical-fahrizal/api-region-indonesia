@@ -2,51 +2,71 @@
  {
   "id": 1805081001,
   "districtId": 1805081,
-  "name": "HARAPAN REJO"
+  "districtName": "SEPUTIH AGUNG",
+  "name": "HARAPAN REJO",
+  "postalCode": "34166"
  },
  {
   "id": 1805081002,
   "districtId": 1805081,
-  "name": "ENDANG REJO"
+  "districtName": "SEPUTIH AGUNG",
+  "name": "ENDANG REJO",
+  "postalCode": "34166"
  },
  {
   "id": 1805081003,
   "districtId": 1805081,
-  "name": "DONO ARUM"
+  "districtName": "SEPUTIH AGUNG",
+  "name": "DONO ARUM",
+  "postalCode": "34166"
  },
  {
   "id": 1805081004,
   "districtId": 1805081,
-  "name": "SIMPANG AGUNG"
+  "districtName": "SEPUTIH AGUNG",
+  "name": "SIMPANG AGUNG",
+  "postalCode": "32264"
  },
  {
   "id": 1805081005,
   "districtId": 1805081,
-  "name": "BUMI KENCANA"
+  "districtName": "SEPUTIH AGUNG",
+  "name": "BUMI KENCANA",
+  "postalCode": "30755"
  },
  {
   "id": 1805081006,
   "districtId": 1805081,
-  "name": "GAYAU SAKTI"
+  "districtName": "SEPUTIH AGUNG",
+  "name": "GAYAU SAKTI",
+  "postalCode": "34166"
  },
  {
   "id": 1805081007,
   "districtId": 1805081,
-  "name": "FAJAR ASRI"
+  "districtName": "SEPUTIH AGUNG",
+  "name": "FAJAR ASRI",
+  "postalCode": "34698"
  },
  {
   "id": 1805081008,
   "districtId": 1805081,
-  "name": "SELUSUBAN"
+  "districtName": "SEPUTIH AGUNG",
+  "name": "SELUSUBAN",
+  "postalCode": "34166"
  },
  {
   "id": 1805081009,
   "districtId": 1805081,
-  "name": "MUJI RAHAYU"
+  "districtName": "SEPUTIH AGUNG",
+  "name": "MUJI RAHAYU",
+  "postalCode": "34166"
  },
  {
   "id": 1805081010,
   "districtId": 1805081,
-  "name": "BUMI MAS"
+  "districtName": "SEPUTIH AGUNG",
+  "name": "BUMI MAS",
+  "postalCode": "34381"
  }
 ]

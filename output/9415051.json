@@ -2,36 +2,50 @@
  {
   "id": 9415051001,
   "districtId": 9415051,
-  "name": "SESAKAM"
+  "districtName": "JETSY",
+  "name": "SESAKAM",
+  "postalCode": ""
  },
  {
   "id": 9415051002,
   "districtId": 9415051,
-  "name": "AMBOREP"
+  "districtName": "JETSY",
+  "name": "AMBOREP",
+  "postalCode": ""
  },
  {
   "id": 9415051004,
   "districtId": 9415051,
-  "name": "PAU"
+  "districtName": "JETSY",
+  "name": "PAU",
+  "postalCode": "86516"
  },
  {
   "id": 9415051005,
   "districtId": 9415051,
-  "name": "AKAMAR"
+  "districtName": "JETSY",
+  "name": "AKAMAR",
+  "postalCode": "99777"
  },
  {
   "id": 9415051006,
   "districtId": 9415051,
-  "name": "BIRAK"
+  "districtName": "JETSY",
+  "name": "BIRAK",
+  "postalCode": "99777"
  },
  {
   "id": 9415051007,
   "districtId": 9415051,
-  "name": "KATEW"
+  "districtName": "JETSY",
+  "name": "KATEW",
+  "postalCode": "99779"
  },
  {
   "id": 9415051008,
   "districtId": 9415051,
-  "name": "DAWER"
+  "districtName": "JETSY",
+  "name": "DAWER",
+  "postalCode": "99779"
  }
 ]

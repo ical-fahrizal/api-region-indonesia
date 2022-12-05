@@ -2,41 +2,57 @@
  {
   "id": 7174040001,
   "districtId": 7174040,
-  "name": "UPAI"
+  "districtName": "KOTAMOBAGU UTARA",
+  "name": "UPAI",
+  "postalCode": "95714"
  },
  {
   "id": 7174040002,
   "districtId": 7174040,
-  "name": "GENGGULANG"
+  "districtName": "KOTAMOBAGU UTARA",
+  "name": "GENGGULANG",
+  "postalCode": "95714"
  },
  {
   "id": 7174040003,
   "districtId": 7174040,
-  "name": "BIGA"
+  "districtName": "KOTAMOBAGU UTARA",
+  "name": "BIGA",
+  "postalCode": "95713"
  },
  {
   "id": 7174040004,
   "districtId": 7174040,
-  "name": "SIA"
+  "districtName": "KOTAMOBAGU UTARA",
+  "name": "SIA",
+  "postalCode": "95714"
  },
  {
   "id": 7174040005,
   "districtId": 7174040,
-  "name": "PONTODON"
+  "districtName": "KOTAMOBAGU UTARA",
+  "name": "PONTODON",
+  "postalCode": "95714"
  },
  {
   "id": 7174040006,
   "districtId": 7174040,
-  "name": "BILALANG II"
+  "districtName": "KOTAMOBAGU UTARA",
+  "name": "BILALANG II",
+  "postalCode": "95714"
  },
  {
   "id": 7174040007,
   "districtId": 7174040,
-  "name": "BILALANG I"
+  "districtName": "KOTAMOBAGU UTARA",
+  "name": "BILALANG I",
+  "postalCode": "95714"
  },
  {
   "id": 7174040008,
   "districtId": 7174040,
-  "name": "PONTODON TIMUR"
+  "districtName": "KOTAMOBAGU UTARA",
+  "name": "PONTODON TIMUR",
+  "postalCode": ""
  }
 ]

@@ -2,111 +2,155 @@
  {
   "id": 1601052001,
   "districtId": 1601052,
-  "name": "BANDAR JAYA"
+  "districtName": "LENGKITI",
+  "name": "BANDAR JAYA",
+  "postalCode": "28771"
  },
  {
   "id": 1601052002,
   "districtId": 1601052,
-  "name": "KARANG ENDAH"
+  "districtName": "LENGKITI",
+  "name": "KARANG ENDAH",
+  "postalCode": "32121"
  },
  {
   "id": 1601052003,
   "districtId": 1601052,
-  "name": "PAJAR BULAN"
+  "districtName": "LENGKITI",
+  "name": "PAJAR BULAN",
+  "postalCode": "32279"
  },
  {
   "id": 1601052004,
   "districtId": 1601052,
-  "name": "PAGAR DEWA"
+  "districtName": "LENGKITI",
+  "name": "PAGAR DEWA",
+  "postalCode": "31626"
  },
  {
   "id": 1601052005,
   "districtId": 1601052,
-  "name": "TANJUNG LENGKAYAP"
+  "districtName": "LENGKITI",
+  "name": "TANJUNG LENGKAYAP",
+  "postalCode": "32158"
  },
  {
   "id": 1601052006,
   "districtId": 1601052,
-  "name": "BUMI KAWA"
+  "districtName": "LENGKITI",
+  "name": "BUMI KAWA",
+  "postalCode": "32158"
  },
  {
   "id": 1601052007,
   "districtId": 1601052,
-  "name": "NEGERI RATU"
+  "districtName": "LENGKITI",
+  "name": "NEGERI RATU",
+  "postalCode": "32387"
  },
  {
   "id": 1601052008,
   "districtId": 1601052,
-  "name": "LUBUK DALAM"
+  "districtName": "LENGKITI",
+  "name": "LUBUK DALAM",
+  "postalCode": "28654"
  },
  {
   "id": 1601052009,
   "districtId": 1601052,
-  "name": "SEGARA KEMBANG"
+  "districtName": "LENGKITI",
+  "name": "SEGARA KEMBANG",
+  "postalCode": "32158"
  },
  {
   "id": 1601052010,
   "districtId": 1601052,
-  "name": "SUKARAJA"
+  "districtName": "LENGKITI",
+  "name": "SUKARAJA",
+  "postalCode": "21256"
  },
  {
   "id": 1601052011,
   "districtId": 1601052,
-  "name": "GEDUNG PAKUAN"
+  "districtName": "LENGKITI",
+  "name": "GEDUNG PAKUAN",
+  "postalCode": ""
  },
  {
   "id": 1601052012,
   "districtId": 1601052,
-  "name": "TUALANG"
+  "districtName": "LENGKITI",
+  "name": "TUALANG",
+  "postalCode": "24372"
  },
  {
   "id": 1601052013,
   "districtId": 1601052,
-  "name": "SUNDAN"
+  "districtName": "LENGKITI",
+  "name": "SUNDAN",
+  "postalCode": "32158"
  },
  {
   "id": 1601052014,
   "districtId": 1601052,
-  "name": "TIHANG"
+  "districtName": "LENGKITI",
+  "name": "TIHANG",
+  "postalCode": "32158"
  },
  {
   "id": 1601052015,
   "districtId": 1601052,
-  "name": "LUBUK HARA"
+  "districtName": "LENGKITI",
+  "name": "LUBUK HARA",
+  "postalCode": "32158"
  },
  {
   "id": 1601052016,
   "districtId": 1601052,
-  "name": "NEGERI AGUNG"
+  "districtName": "LENGKITI",
+  "name": "NEGERI AGUNG",
+  "postalCode": "32367"
  },
  {
   "id": 1601052017,
   "districtId": 1601052,
-  "name": "WAY HELING"
+  "districtName": "LENGKITI",
+  "name": "WAY HELING",
+  "postalCode": "32158"
  },
  {
   "id": 1601052018,
   "districtId": 1601052,
-  "name": "BUNGA TANJUNG"
+  "districtName": "LENGKITI",
+  "name": "BUNGA TANJUNG",
+  "postalCode": "24782"
  },
  {
   "id": 1601052019,
   "districtId": 1601052,
-  "name": "UMPAM"
+  "districtName": "LENGKITI",
+  "name": "UMPAM",
+  "postalCode": ""
  },
  {
   "id": 1601052020,
   "districtId": 1601052,
-  "name": "TANJUNG AGUNG"
+  "districtName": "LENGKITI",
+  "name": "TANJUNG AGUNG",
+  "postalCode": "37216"
  },
  {
   "id": 1601052021,
   "districtId": 1601052,
-  "name": "SIMPANG EMPAT"
+  "districtName": "LENGKITI",
+  "name": "SIMPANG EMPAT",
+  "postalCode": "24313"
  },
  {
   "id": 1601052022,
   "districtId": 1601052,
-  "name": "FAJAR JAYA"
+  "districtName": "LENGKITI",
+  "name": "FAJAR JAYA",
+  "postalCode": "32158"
  }
 ]

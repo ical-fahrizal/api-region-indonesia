@@ -2,46 +2,64 @@
  {
   "id": 7312060001,
   "districtId": 7312060,
-  "name": "PATAMPANUA"
+  "districtName": "MARIO RIAWA",
+  "name": "PATAMPANUA",
+  "postalCode": "90852"
  },
  {
   "id": 7312060002,
   "districtId": 7312060,
-  "name": "PANINCONG"
+  "districtName": "MARIO RIAWA",
+  "name": "PANINCONG",
+  "postalCode": "90852"
  },
  {
   "id": 7312060003,
   "districtId": 7312060,
-  "name": "TELLULIMPOE"
+  "districtName": "MARIO RIAWA",
+  "name": "TELLULIMPOE",
+  "postalCode": "90852"
  },
  {
   "id": 7312060004,
   "districtId": 7312060,
-  "name": "ATTANG SALO"
+  "districtName": "MARIO RIAWA",
+  "name": "ATTANG SALO",
+  "postalCode": "90654"
  },
  {
   "id": 7312060005,
   "districtId": 7312060,
-  "name": "KACA"
+  "districtName": "MARIO RIAWA",
+  "name": "KACA",
+  "postalCode": "90852"
  },
  {
   "id": 7312060006,
   "districtId": 7312060,
-  "name": "LIMPOMAJANG"
+  "districtName": "MARIO RIAWA",
+  "name": "LIMPOMAJANG",
+  "postalCode": "90852"
  },
  {
   "id": 7312060007,
   "districtId": 7312060,
-  "name": "BATU-BATU"
+  "districtName": "MARIO RIAWA",
+  "name": "BATU-BATU",
+  "postalCode": "23891"
  },
  {
   "id": 7312060008,
   "districtId": 7312060,
-  "name": "MANORANG SALO"
+  "districtName": "MARIO RIAWA",
+  "name": "MANORANG SALO",
+  "postalCode": "90852"
  },
  {
   "id": 7312060009,
   "districtId": 7312060,
-  "name": "LARINGGI"
+  "districtName": "MARIO RIAWA",
+  "name": "LARINGGI",
+  "postalCode": "90852"
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 1506041001,
   "districtId": 1506041,
-  "name": "SIMPANG"
+  "districtName": "BERBAK",
+  "name": "SIMPANG",
+  "postalCode": "23773"
  },
  {
   "id": 1506041002,
   "districtId": 1506041,
-  "name": "RAWASARI"
+  "districtName": "BERBAK",
+  "name": "RAWASARI",
+  "postalCode": "24185"
  },
  {
   "id": 1506041003,
   "districtId": 1506041,
-  "name": "RANTAU MAKMUR"
+  "districtName": "BERBAK",
+  "name": "RANTAU MAKMUR",
+  "postalCode": "36572"
  },
  {
   "id": 1506041004,
   "districtId": 1506041,
-  "name": "TELAGA LIMO"
+  "districtName": "BERBAK",
+  "name": "TELAGA LIMO",
+  "postalCode": ""
  },
  {
   "id": 1506041005,
   "districtId": 1506041,
-  "name": "SUNGAI RAMBUT"
+  "districtName": "BERBAK",
+  "name": "SUNGAI RAMBUT",
+  "postalCode": "36572"
  },
  {
   "id": 1506041006,
   "districtId": 1506041,
-  "name": "RANTAU RASAU DESA"
+  "districtName": "BERBAK",
+  "name": "RANTAU RASAU DESA",
+  "postalCode": ""
  }
 ]

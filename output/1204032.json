@@ -2,26 +2,36 @@
  {
   "id": 1204032001,
   "districtId": 1204032,
-  "name": "SIBULUAN NALAMBOK"
+  "districtName": "SARUDIK",
+  "name": "SIBULUAN NALAMBOK",
+  "postalCode": "22616"
  },
  {
   "id": 1204032002,
   "districtId": 1204032,
-  "name": "SIPAN"
+  "districtName": "SARUDIK",
+  "name": "SIPAN",
+  "postalCode": "22616"
  },
  {
   "id": 1204032003,
   "districtId": 1204032,
-  "name": "SARUDIK"
+  "districtName": "SARUDIK",
+  "name": "SARUDIK",
+  "postalCode": "22616"
  },
  {
   "id": 1204032004,
   "districtId": 1204032,
-  "name": "PONDOK BATU"
+  "districtName": "SARUDIK",
+  "name": "PONDOK BATU",
+  "postalCode": "21451"
  },
  {
   "id": 1204032005,
   "districtId": 1204032,
-  "name": "PASIR BIDANG"
+  "districtName": "SARUDIK",
+  "name": "PASIR BIDANG",
+  "postalCode": "22611"
  }
 ]

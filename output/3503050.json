@@ -2,46 +2,64 @@
  {
   "id": 3503050001,
   "districtId": 3503050,
-  "name": "WATUAGUNG"
+  "districtName": "DONGKO",
+  "name": "WATUAGUNG",
+  "postalCode": "57673"
  },
  {
   "id": 3503050002,
   "districtId": 3503050,
-  "name": "PANDEAN"
+  "districtName": "DONGKO",
+  "name": "PANDEAN",
+  "postalCode": "56194"
  },
  {
   "id": 3503050003,
   "districtId": 3503050,
-  "name": "SALAMWATES"
+  "districtName": "DONGKO",
+  "name": "SALAMWATES",
+  "postalCode": "66363"
  },
  {
   "id": 3503050004,
   "districtId": 3503050,
-  "name": "NGERDANI"
+  "districtName": "DONGKO",
+  "name": "NGERDANI",
+  "postalCode": "66363"
  },
  {
   "id": 3503050006,
   "districtId": 3503050,
-  "name": "CAKUL"
+  "districtName": "DONGKO",
+  "name": "CAKUL",
+  "postalCode": "66363"
  },
  {
   "id": 3503050007,
   "districtId": 3503050,
-  "name": "SIKI"
+  "districtName": "DONGKO",
+  "name": "SIKI",
+  "postalCode": "66363"
  },
  {
   "id": 3503050008,
   "districtId": 3503050,
-  "name": "DONGKO"
+  "districtName": "DONGKO",
+  "name": "DONGKO",
+  "postalCode": "66363"
  },
  {
   "id": 3503050009,
   "districtId": 3503050,
-  "name": "SUMBERBENING"
+  "districtName": "DONGKO",
+  "name": "SUMBERBENING",
+  "postalCode": "63152"
  },
  {
   "id": 3503050010,
   "districtId": 3503050,
-  "name": "PRINGAPUS"
+  "districtName": "DONGKO",
+  "name": "PRINGAPUS",
+  "postalCode": "56255"
  }
 ]

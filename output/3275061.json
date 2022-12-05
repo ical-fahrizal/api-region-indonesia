@@ -2,21 +2,29 @@
  {
   "id": 3275061001,
   "districtId": 3275061,
-  "name": "HARAPAN MULYA"
+  "districtName": "MEDAN SATRIA",
+  "name": "HARAPAN MULYA",
+  "postalCode": "10640"
  },
  {
   "id": 3275061002,
   "districtId": 3275061,
-  "name": "KALI BARU"
+  "districtName": "MEDAN SATRIA",
+  "name": "KALI BARU",
+  "postalCode": "14110"
  },
  {
   "id": 3275061003,
   "districtId": 3275061,
-  "name": "MEDAN SATRIA"
+  "districtName": "MEDAN SATRIA",
+  "name": "MEDAN SATRIA",
+  "postalCode": "17132"
  },
  {
   "id": 3275061004,
   "districtId": 3275061,
-  "name": "PEJUANG"
+  "districtName": "MEDAN SATRIA",
+  "name": "PEJUANG",
+  "postalCode": "24671"
  }
 ]

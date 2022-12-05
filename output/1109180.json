@@ -2,226 +2,316 @@
  {
   "id": 1109180001,
   "districtId": 1109180,
-  "name": "BENTAYAN"
+  "districtName": "KEMBANG TANJONG",
+  "name": "BENTAYAN",
+  "postalCode": "24182"
  },
  {
   "id": 1109180002,
   "districtId": 1109180,
-  "name": "MEUNASAH KANDANG"
+  "districtName": "KEMBANG TANJONG",
+  "name": "MEUNASAH KANDANG",
+  "postalCode": "24182"
  },
  {
   "id": 1109180003,
   "districtId": 1109180,
-  "name": "PUUK"
+  "districtName": "KEMBANG TANJONG",
+  "name": "PUUK",
+  "postalCode": "24162"
  },
  {
   "id": 1109180004,
   "districtId": 1109180,
-  "name": "JURONG BALE"
+  "districtName": "KEMBANG TANJONG",
+  "name": "JURONG BALE",
+  "postalCode": "24182"
  },
  {
   "id": 1109180005,
   "districtId": 1109180,
-  "name": "ARON ASAN KUMBANG"
+  "districtName": "KEMBANG TANJONG",
+  "name": "ARON ASAN KUMBANG",
+  "postalCode": "24182"
  },
  {
   "id": 1109180006,
   "districtId": 1109180,
-  "name": "MEUNASAH MESJID"
+  "districtName": "KEMBANG TANJONG",
+  "name": "MEUNASAH MESJID",
+  "postalCode": "24182"
  },
  {
   "id": 1109180007,
   "districtId": 1109180,
-  "name": "MEUNASAH MEE"
+  "districtName": "KEMBANG TANJONG",
+  "name": "MEUNASAH MEE",
+  "postalCode": "24152"
  },
  {
   "id": 1109180008,
   "districtId": 1109180,
-  "name": "MEUNASAH TEUNGOH"
+  "districtName": "KEMBANG TANJONG",
+  "name": "MEUNASAH TEUNGOH",
+  "postalCode": "23672"
  },
  {
   "id": 1109180009,
   "districtId": 1109180,
-  "name": "ASAN"
+  "districtName": "KEMBANG TANJONG",
+  "name": "ASAN",
+  "postalCode": "24182"
  },
  {
   "id": 1109180010,
   "districtId": 1109180,
-  "name": "PANJOU"
+  "districtName": "KEMBANG TANJONG",
+  "name": "PANJOU",
+  "postalCode": "24183"
  },
  {
   "id": 1109180011,
   "districtId": 1109180,
-  "name": "JEUMEURANG"
+  "districtName": "KEMBANG TANJONG",
+  "name": "JEUMEURANG",
+  "postalCode": ""
  },
  {
   "id": 1109180012,
   "districtId": 1109180,
-  "name": "PUSONG"
+  "districtName": "KEMBANG TANJONG",
+  "name": "PUSONG",
+  "postalCode": "24182"
  },
  {
   "id": 1109180013,
   "districtId": 1109180,
-  "name": "PASI LHOK"
+  "districtName": "KEMBANG TANJONG",
+  "name": "PASI LHOK",
+  "postalCode": "24182"
  },
  {
   "id": 1109180014,
   "districtId": 1109180,
-  "name": "KAYEE PANYANG"
+  "districtName": "KEMBANG TANJONG",
+  "name": "KAYEE PANYANG",
+  "postalCode": "24182"
  },
  {
   "id": 1109180015,
   "districtId": 1109180,
-  "name": "TANJONG"
+  "districtName": "KEMBANG TANJONG",
+  "name": "TANJONG",
+  "postalCode": "24472"
  },
  {
   "id": 1109180016,
   "districtId": 1109180,
-  "name": "LAMKAWE"
+  "districtName": "KEMBANG TANJONG",
+  "name": "LAMKAWE",
+  "postalCode": "24182"
  },
  {
   "id": 1109180017,
   "districtId": 1109180,
-  "name": "BLANG CUT"
+  "districtName": "KEMBANG TANJONG",
+  "name": "BLANG CUT",
+  "postalCode": "24375"
  },
  {
   "id": 1109180018,
   "districtId": 1109180,
-  "name": "GEULUMPANG"
+  "districtName": "KEMBANG TANJONG",
+  "name": "GEULUMPANG",
+  "postalCode": "24382"
  },
  {
   "id": 1109180019,
   "districtId": 1109180,
-  "name": "ARON KUTA BARO"
+  "districtName": "KEMBANG TANJONG",
+  "name": "ARON KUTA BARO",
+  "postalCode": "24182"
  },
  {
   "id": 1109180020,
   "districtId": 1109180,
-  "name": "ARAIH"
+  "districtName": "KEMBANG TANJONG",
+  "name": "ARAIH",
+  "postalCode": ""
  },
  {
   "id": 1109180021,
   "districtId": 1109180,
-  "name": "BARAT"
+  "districtName": "KEMBANG TANJONG",
+  "name": "BARAT",
+  "postalCode": "24182"
  },
  {
   "id": 1109180022,
   "districtId": 1109180,
-  "name": "TEUMPEUN"
+  "districtName": "KEMBANG TANJONG",
+  "name": "TEUMPEUN",
+  "postalCode": "24182"
  },
  {
   "id": 1109180023,
   "districtId": 1109180,
-  "name": "REUNG REUNG"
+  "districtName": "KEMBANG TANJONG",
+  "name": "REUNG REUNG",
+  "postalCode": "24182"
  },
  {
   "id": 1109180024,
   "districtId": 1109180,
-  "name": "DAYAH BLANG"
+  "districtName": "KEMBANG TANJONG",
+  "name": "DAYAH BLANG",
+  "postalCode": "24181"
  },
  {
   "id": 1109180025,
   "districtId": 1109180,
-  "name": "CEBREK"
+  "districtName": "KEMBANG TANJONG",
+  "name": "CEBREK",
+  "postalCode": "24182"
  },
  {
   "id": 1109180026,
   "districtId": 1109180,
-  "name": "DAYAH MON ARA"
+  "districtName": "KEMBANG TANJONG",
+  "name": "DAYAH MON ARA",
+  "postalCode": "24262"
  },
  {
   "id": 1109180027,
   "districtId": 1109180,
-  "name": "JURONG MESJID"
+  "districtName": "KEMBANG TANJONG",
+  "name": "JURONG MESJID",
+  "postalCode": "24182"
  },
  {
   "id": 1109180028,
   "districtId": 1109180,
-  "name": "MEUNASAH GANTUNG"
+  "districtName": "KEMBANG TANJONG",
+  "name": "MEUNASAH GANTUNG",
+  "postalCode": "23681"
  },
  {
   "id": 1109180029,
   "districtId": 1109180,
-  "name": "BABAH JURONG"
+  "districtName": "KEMBANG TANJONG",
+  "name": "BABAH JURONG",
+  "postalCode": "24182"
  },
  {
   "id": 1109180030,
   "districtId": 1109180,
-  "name": "MEURAKSA"
+  "districtName": "KEMBANG TANJONG",
+  "name": "MEURAKSA",
+  "postalCode": "24182"
  },
  {
   "id": 1109180031,
   "districtId": 1109180,
-  "name": "ARUSAN"
+  "districtName": "KEMBANG TANJONG",
+  "name": "ARUSAN",
+  "postalCode": "24182"
  },
  {
   "id": 1109180032,
   "districtId": 1109180,
-  "name": "JARENG"
+  "districtName": "KEMBANG TANJONG",
+  "name": "JARENG",
+  "postalCode": ""
  },
  {
   "id": 1109180033,
   "districtId": 1109180,
-  "name": "KEUPULA"
+  "districtName": "KEMBANG TANJONG",
+  "name": "KEUPULA",
+  "postalCode": "24183"
  },
  {
   "id": 1109180034,
   "districtId": 1109180,
-  "name": "KEUREUMBOK"
+  "districtName": "KEMBANG TANJONG",
+  "name": "KEUREUMBOK",
+  "postalCode": ""
  },
  {
   "id": 1109180035,
   "districtId": 1109180,
-  "name": "MATANG KULI"
+  "districtName": "KEMBANG TANJONG",
+  "name": "MATANG KULI",
+  "postalCode": "24182"
  },
  {
   "id": 1109180036,
   "districtId": 1109180,
-  "name": "MEUNASAH MANYANG"
+  "districtName": "KEMBANG TANJONG",
+  "name": "MEUNASAH MANYANG",
+  "postalCode": "23371"
  },
  {
   "id": 1109180037,
   "districtId": 1109180,
-  "name": "MEUNASAH KRUENG"
+  "districtName": "KEMBANG TANJONG",
+  "name": "MEUNASAH KRUENG",
+  "postalCode": "23672"
  },
  {
   "id": 1109180038,
   "districtId": 1109180,
-  "name": "MEUNASAH BARO"
+  "districtName": "KEMBANG TANJONG",
+  "name": "MEUNASAH BARO",
+  "postalCode": "23371"
  },
  {
   "id": 1109180039,
   "districtId": 1109180,
-  "name": "SUKON"
+  "districtName": "KEMBANG TANJONG",
+  "name": "SUKON",
+  "postalCode": "24152"
  },
  {
   "id": 1109180040,
   "districtId": 1109180,
-  "name": "ARA"
+  "districtName": "KEMBANG TANJONG",
+  "name": "ARA",
+  "postalCode": "24184"
  },
  {
   "id": 1109180041,
   "districtId": 1109180,
-  "name": "KRUENG DHOU"
+  "districtName": "KEMBANG TANJONG",
+  "name": "KRUENG DHOU",
+  "postalCode": ""
  },
  {
   "id": 1109180042,
   "districtId": 1109180,
-  "name": "TANJONG KRUENG"
+  "districtName": "KEMBANG TANJONG",
+  "name": "TANJONG KRUENG",
+  "postalCode": "24182"
  },
  {
   "id": 1109180043,
   "districtId": 1109180,
-  "name": "LANCANG"
+  "districtName": "KEMBANG TANJONG",
+  "name": "LANCANG",
+  "postalCode": "24263"
  },
  {
   "id": 1109180044,
   "districtId": 1109180,
-  "name": "KEUDE IE LEUBEUE"
+  "districtName": "KEMBANG TANJONG",
+  "name": "KEUDE IE LEUBEUE",
+  "postalCode": "24182"
  },
  {
   "id": 1109180045,
   "districtId": 1109180,
-  "name": "PASI IE LEUBEUE"
+  "districtName": "KEMBANG TANJONG",
+  "name": "PASI IE LEUBEUE",
+  "postalCode": "24182"
  }
 ]

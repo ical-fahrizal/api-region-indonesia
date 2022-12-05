@@ -2,46 +2,64 @@
  {
   "id": 1406061001,
   "districtId": 1406061,
-  "name": "PULAU RAMBAI"
+  "districtName": "KAMPA",
+  "name": "PULAU RAMBAI",
+  "postalCode": "28461"
  },
  {
   "id": 1406061002,
   "districtId": 1406061,
-  "name": "KAMPAR"
+  "districtName": "KAMPA",
+  "name": "KAMPAR",
+  "postalCode": "28461"
  },
  {
   "id": 1406061003,
   "districtId": 1406061,
-  "name": "KOTO PERAMBAHAN"
+  "districtName": "KAMPA",
+  "name": "KOTO PERAMBAHAN",
+  "postalCode": "28461"
  },
  {
   "id": 1406061004,
   "districtId": 1406061,
-  "name": "PULAU BIRANDANG"
+  "districtName": "KAMPA",
+  "name": "PULAU BIRANDANG",
+  "postalCode": "28461"
  },
  {
   "id": 1406061005,
   "districtId": 1406061,
-  "name": "SUNGAI PUTIH"
+  "districtName": "KAMPA",
+  "name": "SUNGAI PUTIH",
+  "postalCode": "37311"
  },
  {
   "id": 1406061006,
   "districtId": 1406061,
-  "name": "DELI MAKMUR"
+  "districtName": "KAMPA",
+  "name": "DELI MAKMUR",
+  "postalCode": "28461"
  },
  {
   "id": 1406061007,
   "districtId": 1406061,
-  "name": "SUNGAI TARAP"
+  "districtName": "KAMPA",
+  "name": "SUNGAI TARAP",
+  "postalCode": "28461"
  },
  {
   "id": 1406061008,
   "districtId": 1406061,
-  "name": "TANJUNG BUNGO"
+  "districtName": "KAMPA",
+  "name": "TANJUNG BUNGO",
+  "postalCode": "28461"
  },
  {
   "id": 1406061009,
   "districtId": 1406061,
-  "name": "SAWAH BARU"
+  "districtName": "KAMPA",
+  "name": "SAWAH BARU",
+  "postalCode": "28461"
  }
 ]

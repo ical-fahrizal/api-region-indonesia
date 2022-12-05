@@ -2,71 +2,99 @@
  {
   "id": 3316020001,
   "districtId": 3316020,
-  "name": "TLOGOTUWUNG"
+  "districtName": "RANDUBLATUNG",
+  "name": "TLOGOTUWUNG",
+  "postalCode": "58382"
  },
  {
   "id": 3316020002,
   "districtId": 3316020,
-  "name": "BODEH"
+  "districtName": "RANDUBLATUNG",
+  "name": "BODEH",
+  "postalCode": "52365"
  },
  {
   "id": 3316020003,
   "districtId": 3316020,
-  "name": "GEMBYUNGAN"
+  "districtName": "RANDUBLATUNG",
+  "name": "GEMBYUNGAN",
+  "postalCode": "58382"
  },
  {
   "id": 3316020004,
   "districtId": 3316020,
-  "name": "SAMBONGWANGAN"
+  "districtName": "RANDUBLATUNG",
+  "name": "SAMBONGWANGAN",
+  "postalCode": "58382"
  },
  {
   "id": 3316020005,
   "districtId": 3316020,
-  "name": "RANDUBLATUNG"
+  "districtName": "RANDUBLATUNG",
+  "name": "RANDUBLATUNG",
+  "postalCode": "58382"
  },
  {
   "id": 3316020006,
   "districtId": 3316020,
-  "name": "PILANG"
+  "districtName": "RANDUBLATUNG",
+  "name": "PILANG",
+  "postalCode": "57282"
  },
  {
   "id": 3316020008,
   "districtId": 3316020,
-  "name": "SUMBERJO"
+  "districtName": "RANDUBLATUNG",
+  "name": "SUMBERJO",
+  "postalCode": "34396"
  },
  {
   "id": 3316020009,
   "districtId": 3316020,
-  "name": "KUTUKAN"
+  "districtName": "RANDUBLATUNG",
+  "name": "KUTUKAN",
+  "postalCode": "58382"
  },
  {
   "id": 3316020010,
   "districtId": 3316020,
-  "name": "KALISARI"
+  "districtName": "RANDUBLATUNG",
+  "name": "KALISARI",
+  "postalCode": "35686"
  },
  {
   "id": 3316020011,
   "districtId": 3316020,
-  "name": "KEDIREN"
+  "districtName": "RANDUBLATUNG",
+  "name": "KEDIREN",
+  "postalCode": "58382"
  },
  {
   "id": 3316020013,
   "districtId": 3316020,
-  "name": "KADENGAN"
+  "districtName": "RANDUBLATUNG",
+  "name": "KADENGAN",
+  "postalCode": "58382"
  },
  {
   "id": 3316020015,
   "districtId": 3316020,
-  "name": "PLOSOREJO"
+  "districtName": "RANDUBLATUNG",
+  "name": "PLOSOREJO",
+  "postalCode": "58253"
  },
  {
   "id": 3316020017,
   "districtId": 3316020,
-  "name": "TANGGEL"
+  "districtName": "RANDUBLATUNG",
+  "name": "TANGGEL",
+  "postalCode": "58382"
  },
  {
   "id": 3316020018,
   "districtId": 3316020,
-  "name": "NGLIRON"
+  "districtName": "RANDUBLATUNG",
+  "name": "NGLIRON",
+  "postalCode": "58382"
  }
 ]

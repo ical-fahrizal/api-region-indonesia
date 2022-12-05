@@ -2,36 +2,50 @@
  {
   "id": 7402070018,
   "districtId": 7402070,
-  "name": "RAHA I"
+  "districtName": "KATOBU",
+  "name": "RAHA I",
+  "postalCode": "93611"
  },
  {
   "id": 7402070019,
   "districtId": 7402070,
-  "name": "LAENDE"
+  "districtName": "KATOBU",
+  "name": "LAENDE",
+  "postalCode": "93611"
  },
  {
   "id": 7402070020,
   "districtId": 7402070,
-  "name": "FOO KUNI"
+  "districtName": "KATOBU",
+  "name": "FOO KUNI",
+  "postalCode": ""
  },
  {
   "id": 7402070021,
   "districtId": 7402070,
-  "name": "WATONEA"
+  "districtName": "KATOBU",
+  "name": "WATONEA",
+  "postalCode": "93615"
  },
  {
   "id": 7402070022,
   "districtId": 7402070,
-  "name": "RAHA  II"
+  "districtName": "KATOBU",
+  "name": "RAHA  II",
+  "postalCode": ""
  },
  {
   "id": 7402070024,
   "districtId": 7402070,
-  "name": "WAMPONIKI"
+  "districtName": "KATOBU",
+  "name": "WAMPONIKI",
+  "postalCode": "93611"
  },
  {
   "id": 7402070025,
   "districtId": 7402070,
-  "name": "RAHA III"
+  "districtName": "KATOBU",
+  "name": "RAHA III",
+  "postalCode": "93613"
  }
 ]

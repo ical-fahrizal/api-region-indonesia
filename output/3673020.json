@@ -2,66 +2,92 @@
  {
   "id": 3673020001,
   "districtId": 3673020,
-  "name": "NYAPAH"
+  "districtName": "WALANTAKA",
+  "name": "NYAPAH",
+  "postalCode": "42183"
  },
  {
   "id": 3673020002,
   "districtId": 3673020,
-  "name": "LEBAKWANGI"
+  "districtName": "WALANTAKA",
+  "name": "LEBAKWANGI",
+  "postalCode": "40379"
  },
  {
   "id": 3673020003,
   "districtId": 3673020,
-  "name": "CIGOONG"
+  "districtName": "WALANTAKA",
+  "name": "CIGOONG",
+  "postalCode": "42183"
  },
  {
   "id": 3673020004,
   "districtId": 3673020,
-  "name": "TEGALSARI"
+  "districtName": "WALANTAKA",
+  "name": "TEGALSARI",
+  "postalCode": "35372"
  },
  {
   "id": 3673020005,
   "districtId": 3673020,
-  "name": "PASULUHAN"
+  "districtName": "WALANTAKA",
+  "name": "PASULUHAN",
+  "postalCode": "42183"
  },
  {
   "id": 3673020006,
   "districtId": 3673020,
-  "name": "PABUARAN"
+  "districtName": "WALANTAKA",
+  "name": "PABUARAN",
+  "postalCode": "16921"
  },
  {
   "id": 3673020007,
   "districtId": 3673020,
-  "name": "WALANTAKA"
+  "districtName": "WALANTAKA",
+  "name": "WALANTAKA",
+  "postalCode": "42183"
  },
  {
   "id": 3673020008,
   "districtId": 3673020,
-  "name": "PENGAMPELAN"
+  "districtName": "WALANTAKA",
+  "name": "PENGAMPELAN",
+  "postalCode": "42183"
  },
  {
   "id": 3673020009,
   "districtId": 3673020,
-  "name": "PIPITAN"
+  "districtName": "WALANTAKA",
+  "name": "PIPITAN",
+  "postalCode": "42183"
  },
  {
   "id": 3673020010,
   "districtId": 3673020,
-  "name": "KIARA"
+  "districtName": "WALANTAKA",
+  "name": "KIARA",
+  "postalCode": "41384"
  },
  {
   "id": 3673020011,
   "districtId": 3673020,
-  "name": "PAGERAGUNG"
+  "districtName": "WALANTAKA",
+  "name": "PAGERAGUNG",
+  "postalCode": "42183"
  },
  {
   "id": 3673020012,
   "districtId": 3673020,
-  "name": "KALODRAN"
+  "districtName": "WALANTAKA",
+  "name": "KALODRAN",
+  "postalCode": ""
  },
  {
   "id": 3673020014,
   "districtId": 3673020,
-  "name": "TERITIH"
+  "districtName": "WALANTAKA",
+  "name": "TERITIH",
+  "postalCode": "42183"
  }
 ]

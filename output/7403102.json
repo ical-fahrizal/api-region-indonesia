@@ -2,76 +2,106 @@
  {
   "id": 7403102001,
   "districtId": 7403102,
-  "name": "ULU POHARA"
+  "districtName": "BESULUTU",
+  "name": "ULU POHARA",
+  "postalCode": ""
  },
  {
   "id": 7403102002,
   "districtId": 7403102,
-  "name": "AMOSILU"
+  "districtName": "BESULUTU",
+  "name": "AMOSILU",
+  "postalCode": "93354"
  },
  {
   "id": 7403102003,
   "districtId": 7403102,
-  "name": "RANOMOLUA"
+  "districtName": "BESULUTU",
+  "name": "RANOMOLUA",
+  "postalCode": "93354"
  },
  {
   "id": 7403102004,
   "districtId": 7403102,
-  "name": "LAWONUA"
+  "districtName": "BESULUTU",
+  "name": "LAWONUA",
+  "postalCode": "93354"
  },
  {
   "id": 7403102005,
   "districtId": 7403102,
-  "name": "ASUNDE"
+  "districtName": "BESULUTU",
+  "name": "ASUNDE",
+  "postalCode": "93354"
  },
  {
   "id": 7403102006,
   "districtId": 7403102,
-  "name": "ANDOMESINGGO"
+  "districtName": "BESULUTU",
+  "name": "ANDOMESINGGO",
+  "postalCode": "93354"
  },
  {
   "id": 7403102008,
   "districtId": 7403102,
-  "name": "ONEMBUTE"
+  "districtName": "BESULUTU",
+  "name": "ONEMBUTE",
+  "postalCode": "93354"
  },
  {
   "id": 7403102009,
   "districtId": 7403102,
-  "name": "LABELA"
+  "districtName": "BESULUTU",
+  "name": "LABELA",
+  "postalCode": "93354"
  },
  {
   "id": 7403102010,
   "districtId": 7403102,
-  "name": "SILEA"
+  "districtName": "BESULUTU",
+  "name": "SILEA",
+  "postalCode": "93354"
  },
  {
   "id": 7403102011,
   "districtId": 7403102,
-  "name": "LALOUMERA"
+  "districtName": "BESULUTU",
+  "name": "LALOUMERA",
+  "postalCode": "93354"
  },
  {
   "id": 7403102012,
   "districtId": 7403102,
-  "name": "PUULOWARU"
+  "districtName": "BESULUTU",
+  "name": "PUULOWARU",
+  "postalCode": ""
  },
  {
   "id": 7403102013,
   "districtId": 7403102,
-  "name": "PUUNDOHO"
+  "districtName": "BESULUTU",
+  "name": "PUUNDOHO",
+  "postalCode": "93819"
  },
  {
   "id": 7403102014,
   "districtId": 7403102,
-  "name": "PUUNGGALUKU"
+  "districtName": "BESULUTU",
+  "name": "PUUNGGALUKU",
+  "postalCode": ""
  },
  {
   "id": 7403102015,
   "districtId": 7403102,
-  "name": "WAWORAHA"
+  "districtName": "BESULUTU",
+  "name": "WAWORAHA",
+  "postalCode": "93464"
  },
  {
   "id": 7403102016,
   "districtId": 7403102,
-  "name": "WATUMOLOMBA"
+  "districtName": "BESULUTU",
+  "name": "WATUMOLOMBA",
+  "postalCode": ""
  }
 ]

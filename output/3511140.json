@@ -2,41 +2,57 @@
  {
   "id": 3511140001,
   "districtId": 3511140,
-  "name": "KARANGANYAR"
+  "districtName": "TEGALAMPEL",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  },
  {
   "id": 3511140002,
   "districtId": 3511140,
-  "name": "SEKARPUTIH"
+  "districtName": "TEGALAMPEL",
+  "name": "SEKARPUTIH",
+  "postalCode": "61173"
  },
  {
   "id": 3511140003,
   "districtId": 3511140,
-  "name": "TEGALAMPEL"
+  "districtName": "TEGALAMPEL",
+  "name": "TEGALAMPEL",
+  "postalCode": "57464"
  },
  {
   "id": 3511140011,
   "districtId": 3511140,
-  "name": "MANDIRO"
+  "districtName": "TEGALAMPEL",
+  "name": "MANDIRO",
+  "postalCode": "68291"
  },
  {
   "id": 3511140012,
   "districtId": 3511140,
-  "name": "TANGGULANGIN"
+  "districtName": "TEGALAMPEL",
+  "name": "TANGGULANGIN",
+  "postalCode": "57691"
  },
  {
   "id": 3511140013,
   "districtId": 3511140,
-  "name": "KLABANG"
+  "districtName": "TEGALAMPEL",
+  "name": "KLABANG",
+  "postalCode": "68284"
  },
  {
   "id": 3511140014,
   "districtId": 3511140,
-  "name": "KLABANG AGUNG"
+  "districtName": "TEGALAMPEL",
+  "name": "KLABANG AGUNG",
+  "postalCode": "68291"
  },
  {
   "id": 3511140015,
   "districtId": 3511140,
-  "name": "PURNAMA"
+  "districtName": "TEGALAMPEL",
+  "name": "PURNAMA",
+  "postalCode": "28823"
  }
 ]

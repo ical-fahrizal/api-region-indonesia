@@ -2,51 +2,71 @@
  {
   "id": 7317090006,
   "districtId": 7317090,
-  "name": "PADANG KALUA"
+  "districtName": "LAMASI",
+  "name": "PADANG KALUA",
+  "postalCode": "91991"
  },
  {
   "id": 7317090007,
   "districtId": 7317090,
-  "name": "WIWITAN"
+  "districtName": "LAMASI",
+  "name": "WIWITAN",
+  "postalCode": "91952"
  },
  {
   "id": 7317090008,
   "districtId": 7317090,
-  "name": "LAMASI"
+  "districtName": "LAMASI",
+  "name": "LAMASI",
+  "postalCode": "91952"
  },
  {
   "id": 7317090013,
   "districtId": 7317090,
-  "name": "SALU JAMBU"
+  "districtName": "LAMASI",
+  "name": "SALU JAMBU",
+  "postalCode": "91952"
  },
  {
   "id": 7317090014,
   "districtId": 7317090,
-  "name": "AWO GADING"
+  "districtName": "LAMASI",
+  "name": "AWO GADING",
+  "postalCode": "91952"
  },
  {
   "id": 7317090015,
   "districtId": 7317090,
-  "name": "SETIAREJO"
+  "districtName": "LAMASI",
+  "name": "SETIAREJO",
+  "postalCode": "91952"
  },
  {
   "id": 7317090016,
   "districtId": 7317090,
-  "name": "SE'PON"
+  "districtName": "LAMASI",
+  "name": "SE'PON",
+  "postalCode": ""
  },
  {
   "id": 7317090017,
   "districtId": 7317090,
-  "name": "PONGSAMELUNG"
+  "districtName": "LAMASI",
+  "name": "PONGSAMELUNG",
+  "postalCode": "91952"
  },
  {
   "id": 7317090018,
   "districtId": 7317090,
-  "name": "TO'PONGO"
+  "districtName": "LAMASI",
+  "name": "TO'PONGO",
+  "postalCode": ""
  },
  {
   "id": 7317090019,
   "districtId": 7317090,
-  "name": "WIWITAN TIMUR"
+  "districtName": "LAMASI",
+  "name": "WIWITAN TIMUR",
+  "postalCode": ""
  }
 ]

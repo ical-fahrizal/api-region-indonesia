@@ -2,31 +2,43 @@
  {
   "id": 3202300001,
   "districtId": 3202300,
-  "name": "MEKARJAYA"
+  "districtName": "KABANDUNGAN",
+  "name": "MEKARJAYA",
+  "postalCode": "30653"
  },
  {
   "id": 3202300002,
   "districtId": 3202300,
-  "name": "TUGUBANDUNG"
+  "districtName": "KABANDUNGAN",
+  "name": "TUGUBANDUNG",
+  "postalCode": "43368"
  },
  {
   "id": 3202300003,
   "districtId": 3202300,
-  "name": "KABANDUNGAN"
+  "districtName": "KABANDUNGAN",
+  "name": "KABANDUNGAN",
+  "postalCode": "43368"
  },
  {
   "id": 3202300004,
   "districtId": 3202300,
-  "name": "CIPEUTEUY"
+  "districtName": "KABANDUNGAN",
+  "name": "CIPEUTEUY",
+  "postalCode": "45372"
  },
  {
   "id": 3202300005,
   "districtId": 3202300,
-  "name": "CIHAMERANG"
+  "districtName": "KABANDUNGAN",
+  "name": "CIHAMERANG",
+  "postalCode": "43368"
  },
  {
   "id": 3202300006,
   "districtId": 3202300,
-  "name": "CIANAGA"
+  "districtName": "KABANDUNGAN",
+  "name": "CIANAGA",
+  "postalCode": "43368"
  }
 ]

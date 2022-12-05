@@ -2,26 +2,36 @@
  {
   "id": 5307063001,
   "districtId": 5307063,
-  "name": "TALWAI"
+  "districtName": "LEMBUR",
+  "name": "TALWAI",
+  "postalCode": "85871"
  },
  {
   "id": 5307063002,
   "districtId": 5307063,
-  "name": "WAIMI"
+  "districtName": "LEMBUR",
+  "name": "WAIMI",
+  "postalCode": "85871"
  },
  {
   "id": 5307063003,
   "districtId": 5307063,
-  "name": "T A S I"
+  "districtName": "LEMBUR",
+  "name": "T A S I",
+  "postalCode": ""
  },
  {
   "id": 5307063005,
   "districtId": 5307063,
-  "name": "LEMBUR TIMUR"
+  "districtName": "LEMBUR",
+  "name": "LEMBUR TIMUR",
+  "postalCode": "85871"
  },
  {
   "id": 5307063006,
   "districtId": 5307063,
-  "name": "LUBA"
+  "districtName": "LEMBUR",
+  "name": "LUBA",
+  "postalCode": "85871"
  }
 ]

@@ -2,21 +2,29 @@
  {
   "id": 3278080001,
   "districtId": 3278080,
-  "name": "PANGLAYUNGAN"
+  "districtName": "CIPEDES",
+  "name": "PANGLAYUNGAN",
+  "postalCode": "46134"
  },
  {
   "id": 3278080002,
   "districtId": 3278080,
-  "name": "CIPEDES"
+  "districtName": "CIPEDES",
+  "name": "CIPEDES",
+  "postalCode": "45565"
  },
  {
   "id": 3278080003,
   "districtId": 3278080,
-  "name": "NAGARASARI"
+  "districtName": "CIPEDES",
+  "name": "NAGARASARI",
+  "postalCode": "46132"
  },
  {
   "id": 3278080004,
   "districtId": 3278080,
-  "name": "SUKAMANAH"
+  "districtName": "CIPEDES",
+  "name": "SUKAMANAH",
+  "postalCode": "43273"
  }
 ]

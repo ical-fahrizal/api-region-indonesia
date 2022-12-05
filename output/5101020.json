@@ -2,56 +2,78 @@
  {
   "id": 5101020002,
   "districtId": 5101020,
-  "name": "TEGAL BADENG BARAT"
+  "districtName": "NEGARA",
+  "name": "TEGAL BADENG BARAT",
+  "postalCode": "82218"
  },
  {
   "id": 5101020003,
   "districtId": 5101020,
-  "name": "TEGAL BADENG TIMUR"
+  "districtName": "NEGARA",
+  "name": "TEGAL BADENG TIMUR",
+  "postalCode": "82218"
  },
  {
   "id": 5101020004,
   "districtId": 5101020,
-  "name": "PENGAMBENGAN"
+  "districtName": "NEGARA",
+  "name": "PENGAMBENGAN",
+  "postalCode": "82218"
  },
  {
   "id": 5101020012,
   "districtId": 5101020,
-  "name": "LOLOAN BARAT"
+  "districtName": "NEGARA",
+  "name": "LOLOAN BARAT",
+  "postalCode": "82215"
  },
  {
   "id": 5101020013,
   "districtId": 5101020,
-  "name": "LELATENG"
+  "districtName": "NEGARA",
+  "name": "LELATENG",
+  "postalCode": "82214"
  },
  {
   "id": 5101020014,
   "districtId": 5101020,
-  "name": "BANJAR TENGAH"
+  "districtName": "NEGARA",
+  "name": "BANJAR TENGAH",
+  "postalCode": "82213"
  },
  {
   "id": 5101020015,
   "districtId": 5101020,
-  "name": "BALUK"
+  "districtName": "NEGARA",
+  "name": "BALUK",
+  "postalCode": "63395"
  },
  {
   "id": 5101020016,
   "districtId": 5101020,
-  "name": "BANYUBIRU"
+  "districtName": "NEGARA",
+  "name": "BANYUBIRU",
+  "postalCode": "50664"
  },
  {
   "id": 5101020017,
   "districtId": 5101020,
-  "name": "KALIAKAH"
+  "districtName": "NEGARA",
+  "name": "KALIAKAH",
+  "postalCode": "82218"
  },
  {
   "id": 5101020018,
   "districtId": 5101020,
-  "name": "BERANGBANG"
+  "districtName": "NEGARA",
+  "name": "BERANGBANG",
+  "postalCode": "82218"
  },
  {
   "id": 5101020019,
   "districtId": 5101020,
-  "name": "BALER BALE AGUNG"
+  "districtName": "NEGARA",
+  "name": "BALER BALE AGUNG",
+  "postalCode": "82212"
  }
 ]

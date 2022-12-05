@@ -2,41 +2,57 @@
  {
   "id": 6105070001,
   "districtId": 6105070,
-  "name": "INGGIS"
+  "districtName": "MUKOK",
+  "name": "INGGIS",
+  "postalCode": "78581"
  },
  {
   "id": 6105070002,
   "districtId": 6105070,
-  "name": "SEMANGGIS RAYA"
+  "districtName": "MUKOK",
+  "name": "SEMANGGIS RAYA",
+  "postalCode": "78581"
  },
  {
   "id": 6105070003,
   "districtId": 6105070,
-  "name": "SEMUNTAI"
+  "districtName": "MUKOK",
+  "name": "SEMUNTAI",
+  "postalCode": "78652"
  },
  {
   "id": 6105070005,
   "districtId": 6105070,
-  "name": "ENGKODE"
+  "districtName": "MUKOK",
+  "name": "ENGKODE",
+  "postalCode": "78581"
  },
  {
   "id": 6105070006,
   "districtId": 6105070,
-  "name": "SEI MAWANG"
+  "districtName": "MUKOK",
+  "name": "SEI MAWANG",
+  "postalCode": ""
  },
  {
   "id": 6105070007,
   "districtId": 6105070,
-  "name": "TRIMULYA"
+  "districtName": "MUKOK",
+  "name": "TRIMULYA",
+  "postalCode": "78581"
  },
  {
   "id": 6105070008,
   "districtId": 6105070,
-  "name": "LAYAK OMANG"
+  "districtName": "MUKOK",
+  "name": "LAYAK OMANG",
+  "postalCode": "78581"
  },
  {
   "id": 6105070009,
   "districtId": 6105070,
-  "name": "SERAMBAI JAYA"
+  "districtName": "MUKOK",
+  "name": "SERAMBAI JAYA",
+  "postalCode": "78581"
  }
 ]

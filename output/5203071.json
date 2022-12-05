@@ -2,56 +2,78 @@
  {
   "id": 5203071001,
   "districtId": 5203071,
-  "name": "PENEDAGANDOR"
+  "districtName": "LABUHAN HAJI",
+  "name": "PENEDAGANDOR",
+  "postalCode": "83617"
  },
  {
   "id": 5203071002,
   "districtId": 5203071,
-  "name": "LABUHAN HAJI"
+  "districtName": "LABUHAN HAJI",
+  "name": "LABUHAN HAJI",
+  "postalCode": "83616"
  },
  {
   "id": 5203071003,
   "districtId": 5203071,
-  "name": "TEROS"
+  "districtName": "LABUHAN HAJI",
+  "name": "TEROS",
+  "postalCode": "83614"
  },
  {
   "id": 5203071004,
   "districtId": 5203071,
-  "name": "TANJUNG"
+  "districtName": "LABUHAN HAJI",
+  "name": "TANJUNG",
+  "postalCode": "24562"
  },
  {
   "id": 5203071005,
   "districtId": 5203071,
-  "name": "SURYA WANGI"
+  "districtName": "LABUHAN HAJI",
+  "name": "SURYA WANGI",
+  "postalCode": "83616"
  },
  {
   "id": 5203071006,
   "districtId": 5203071,
-  "name": "IJOBALIT"
+  "districtName": "LABUHAN HAJI",
+  "name": "IJOBALIT",
+  "postalCode": "83615"
  },
  {
   "id": 5203071007,
   "districtId": 5203071,
-  "name": "KORLEKO"
+  "districtName": "LABUHAN HAJI",
+  "name": "KORLEKO",
+  "postalCode": "83615"
  },
  {
   "id": 5203071008,
   "districtId": 5203071,
-  "name": "KERTA SARI"
+  "districtName": "LABUHAN HAJI",
+  "name": "KERTA SARI",
+  "postalCode": "78653"
  },
  {
   "id": 5203071009,
   "districtId": 5203071,
-  "name": "BANJAR SARI"
+  "districtName": "LABUHAN HAJI",
+  "name": "BANJAR SARI",
+  "postalCode": "31471"
  },
  {
   "id": 5203071010,
   "districtId": 5203071,
-  "name": "TIRTANADI"
+  "districtName": "LABUHAN HAJI",
+  "name": "TIRTANADI",
+  "postalCode": "83615"
  },
  {
   "id": 5203071011,
   "districtId": 5203071,
-  "name": "KORLEKO SELATAN"
+  "districtName": "LABUHAN HAJI",
+  "name": "KORLEKO SELATAN",
+  "postalCode": "83615"
  }
 ]

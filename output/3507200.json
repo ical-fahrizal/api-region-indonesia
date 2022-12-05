@@ -2,26 +2,36 @@
  {
   "id": 3507200002,
   "districtId": 3507200,
-  "name": "PLANDI"
+  "districtName": "WONOSARI",
+  "name": "PLANDI",
+  "postalCode": "54173"
  },
  {
   "id": 3507200003,
   "districtId": 3507200,
-  "name": "PLAOSAN"
+  "districtName": "WONOSARI",
+  "name": "PLAOSAN",
+  "postalCode": "59157"
  },
  {
   "id": 3507200004,
   "districtId": 3507200,
-  "name": "KEBOBANG"
+  "districtName": "WONOSARI",
+  "name": "KEBOBANG",
+  "postalCode": "65164"
  },
  {
   "id": 3507200005,
   "districtId": 3507200,
-  "name": "BANGELAN"
+  "districtName": "WONOSARI",
+  "name": "BANGELAN",
+  "postalCode": "65164"
  },
  {
   "id": 3507200008,
   "districtId": 3507200,
-  "name": "WONOSARI"
+  "districtName": "WONOSARI",
+  "name": "WONOSARI",
+  "postalCode": "24582"
  }
 ]

@@ -2,46 +2,64 @@
  {
   "id": 5206091001,
   "districtId": 5206091,
-  "name": "LABUHAN KANANGA"
+  "districtName": "TAMBORA",
+  "name": "LABUHAN KANANGA",
+  "postalCode": "84191"
  },
  {
   "id": 5206091002,
   "districtId": 5206091,
-  "name": "KAWINDA NAE"
+  "districtName": "TAMBORA",
+  "name": "KAWINDA NAE",
+  "postalCode": "84191"
  },
  {
   "id": 5206091003,
   "districtId": 5206091,
-  "name": "OI PANIHI"
+  "districtName": "TAMBORA",
+  "name": "OI PANIHI",
+  "postalCode": "84191"
  },
  {
   "id": 5206091004,
   "districtId": 5206091,
-  "name": "KAWINDA TOI"
+  "districtName": "TAMBORA",
+  "name": "KAWINDA TOI",
+  "postalCode": "84191"
  },
  {
   "id": 5206091005,
   "districtId": 5206091,
-  "name": "RASABOU"
+  "districtName": "TAMBORA",
+  "name": "RASABOU",
+  "postalCode": "84161"
  },
  {
   "id": 5206091009,
   "districtId": 5206091,
-  "name": "OI BURA"
+  "districtName": "TAMBORA",
+  "name": "OI BURA",
+  "postalCode": "84191"
  },
  {
   "id": 5206091010,
   "districtId": 5206091,
-  "name": "UPT SORI PANIHI SP5"
+  "districtName": "TAMBORA",
+  "name": "UPT SORI PANIHI SP5",
+  "postalCode": ""
  },
  {
   "id": 5206091011,
   "districtId": 5206091,
-  "name": "OI KATUPA"
+  "districtName": "TAMBORA",
+  "name": "OI KATUPA",
+  "postalCode": ""
  },
  {
   "id": 5206091012,
   "districtId": 5206091,
-  "name": "UPT SORI PANIHI II SP 6"
+  "districtName": "TAMBORA",
+  "name": "UPT SORI PANIHI II SP 6",
+  "postalCode": ""
  }
 ]

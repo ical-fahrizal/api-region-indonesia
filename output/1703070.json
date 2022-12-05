@@ -2,66 +2,92 @@
  {
   "id": 1703070001,
   "districtId": 1703070,
-  "name": "PASAR LAIS"
+  "districtName": "LAIS",
+  "name": "PASAR LAIS",
+  "postalCode": "38653"
  },
  {
   "id": 1703070002,
   "districtId": 1703070,
-  "name": "PAL TIGA PULUH"
+  "districtName": "LAIS",
+  "name": "PAL TIGA PULUH",
+  "postalCode": "38653"
  },
  {
   "id": 1703070003,
   "districtId": 1703070,
-  "name": "JAGO BAYO"
+  "districtName": "LAIS",
+  "name": "JAGO BAYO",
+  "postalCode": "38653"
  },
  {
   "id": 1703070004,
   "districtId": 1703070,
-  "name": "LUBUK LESUNG"
+  "districtName": "LAIS",
+  "name": "LUBUK LESUNG",
+  "postalCode": "38653"
  },
  {
   "id": 1703070005,
   "districtId": 1703070,
-  "name": "DUSUN RAJA"
+  "districtName": "LAIS",
+  "name": "DUSUN RAJA",
+  "postalCode": "38361"
  },
  {
   "id": 1703070006,
   "districtId": 1703070,
-  "name": "DURIAN DAUN"
+  "districtName": "LAIS",
+  "name": "DURIAN DAUN",
+  "postalCode": "30958"
  },
  {
   "id": 1703070007,
   "districtId": 1703070,
-  "name": "AIR PADANG"
+  "districtName": "LAIS",
+  "name": "AIR PADANG",
+  "postalCode": "38653"
  },
  {
   "id": 1703070008,
   "districtId": 1703070,
-  "name": "DATAR LEBAR"
+  "districtName": "LAIS",
+  "name": "DATAR LEBAR",
+  "postalCode": "31355"
  },
  {
   "id": 1703070010,
   "districtId": 1703070,
-  "name": "TALANG RASAU"
+  "districtName": "LAIS",
+  "name": "TALANG RASAU",
+  "postalCode": "38653"
  },
  {
   "id": 1703070011,
   "districtId": 1703070,
-  "name": "LUBUK GEDANG"
+  "districtName": "LAIS",
+  "name": "LUBUK GEDANG",
+  "postalCode": "38653"
  },
  {
   "id": 1703070012,
   "districtId": 1703070,
-  "name": "SUKA LANGU"
+  "districtName": "LAIS",
+  "name": "SUKA LANGU",
+  "postalCode": "38653"
  },
  {
   "id": 1703070026,
   "districtId": 1703070,
-  "name": "TABA BARU"
+  "districtName": "LAIS",
+  "name": "TABA BARU",
+  "postalCode": "31619"
  },
  {
   "id": 1703070027,
   "districtId": 1703070,
-  "name": "KALBANG"
+  "districtName": "LAIS",
+  "name": "KALBANG",
+  "postalCode": "38653"
  }
 ]

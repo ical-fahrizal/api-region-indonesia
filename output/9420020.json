@@ -2,26 +2,36 @@
  {
   "id": 9420020001,
   "districtId": 9420020,
-  "name": "MOLOF"
+  "districtName": "SENGGI",
+  "name": "MOLOF",
+  "postalCode": "99465"
  },
  {
   "id": 9420020003,
   "districtId": 9420020,
-  "name": "WARLEF"
+  "districtName": "SENGGI",
+  "name": "WARLEF",
+  "postalCode": "99465"
  },
  {
   "id": 9420020005,
   "districtId": 9420020,
-  "name": "WOSLAY"
+  "districtName": "SENGGI",
+  "name": "WOSLAY",
+  "postalCode": "99465"
  },
  {
   "id": 9420020007,
   "districtId": 9420020,
-  "name": "WALEY"
+  "districtName": "SENGGI",
+  "name": "WALEY",
+  "postalCode": ""
  },
  {
   "id": 9420020008,
   "districtId": 9420020,
-  "name": "NAMLA"
+  "districtName": "SENGGI",
+  "name": "NAMLA",
+  "postalCode": ""
  }
 ]

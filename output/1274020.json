@@ -2,36 +2,50 @@
  {
   "id": 1274020005,
   "districtId": 1274020,
-  "name": "RANTAU LABAN"
+  "districtName": "RAMBUTAN",
+  "name": "RANTAU LABAN",
+  "postalCode": "20614"
  },
  {
   "id": 1274020008,
   "districtId": 1274020,
-  "name": "SRI PADANG"
+  "districtName": "RAMBUTAN",
+  "name": "SRI PADANG",
+  "postalCode": "20616"
  },
  {
   "id": 1274020009,
   "districtId": 1274020,
-  "name": "KARYA JAYA"
+  "districtName": "RAMBUTAN",
+  "name": "KARYA JAYA",
+  "postalCode": "20611"
  },
  {
   "id": 1274020010,
   "districtId": 1274020,
-  "name": "LALANG"
+  "districtName": "RAMBUTAN",
+  "name": "LALANG",
+  "postalCode": "20127"
  },
  {
   "id": 1274020011,
   "districtId": 1274020,
-  "name": "TANJUNG MARULAK"
+  "districtName": "RAMBUTAN",
+  "name": "TANJUNG MARULAK",
+  "postalCode": "22753"
  },
  {
   "id": 1274020012,
   "districtId": 1274020,
-  "name": "TANJUNG MARULAK HILIR"
+  "districtName": "RAMBUTAN",
+  "name": "TANJUNG MARULAK HILIR",
+  "postalCode": "20616"
  },
  {
   "id": 1274020013,
   "districtId": 1274020,
-  "name": "MEKAR SENTOSA"
+  "districtName": "RAMBUTAN",
+  "name": "MEKAR SENTOSA",
+  "postalCode": "20616"
  }
 ]

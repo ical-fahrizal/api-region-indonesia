@@ -2,106 +2,148 @@
  {
   "id": 3525120001,
   "districtId": 3525120,
-  "name": "SIDOMUKTI"
+  "districtName": "BUNGAH",
+  "name": "SIDOMUKTI",
+  "postalCode": "21217"
  },
  {
   "id": 3525120002,
   "districtId": 3525120,
-  "name": "MOJOPUROGEDE"
+  "districtName": "BUNGAH",
+  "name": "MOJOPUROGEDE",
+  "postalCode": ""
  },
  {
   "id": 3525120003,
   "districtId": 3525120,
-  "name": "MOJOPURO WETAN"
+  "districtName": "BUNGAH",
+  "name": "MOJOPURO WETAN",
+  "postalCode": "61152"
  },
  {
   "id": 3525120004,
   "districtId": 3525120,
-  "name": "MELIRANG"
+  "districtName": "BUNGAH",
+  "name": "MELIRANG",
+  "postalCode": "61152"
  },
  {
   "id": 3525120005,
   "districtId": 3525120,
-  "name": "SIDOREJO"
+  "districtName": "BUNGAH",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 3525120006,
   "districtId": 3525120,
-  "name": "MASANGAN"
+  "districtName": "BUNGAH",
+  "name": "MASANGAN",
+  "postalCode": "67153"
  },
  {
   "id": 3525120007,
   "districtId": 3525120,
-  "name": "SUKOWATI"
+  "districtName": "BUNGAH",
+  "name": "SUKOWATI",
+  "postalCode": "61152"
  },
  {
   "id": 3525120008,
   "districtId": 3525120,
-  "name": "BUNGAH"
+  "districtName": "BUNGAH",
+  "name": "BUNGAH",
+  "postalCode": "61152"
  },
  {
   "id": 3525120009,
   "districtId": 3525120,
-  "name": "SUKOREJO"
+  "districtName": "BUNGAH",
+  "name": "SUKOREJO",
+  "postalCode": "31551"
  },
  {
   "id": 3525120010,
   "districtId": 3525120,
-  "name": "BEDANTEN"
+  "districtName": "BUNGAH",
+  "name": "BEDANTEN",
+  "postalCode": "61152"
  },
  {
   "id": 3525120011,
   "districtId": 3525120,
-  "name": "WATUAGUNG"
+  "districtName": "BUNGAH",
+  "name": "WATUAGUNG",
+  "postalCode": "57673"
  },
  {
   "id": 3525120012,
   "districtId": 3525120,
-  "name": "KRAMAT"
+  "districtName": "BUNGAH",
+  "name": "KRAMAT",
+  "postalCode": "10450"
  },
  {
   "id": 3525120013,
   "districtId": 3525120,
-  "name": "TAJUNG WIDORO"
+  "districtName": "BUNGAH",
+  "name": "TAJUNG WIDORO",
+  "postalCode": "61152"
  },
  {
   "id": 3525120014,
   "districtId": 3525120,
-  "name": "SUNGONLEGOWO"
+  "districtName": "BUNGAH",
+  "name": "SUNGONLEGOWO",
+  "postalCode": "61152"
  },
  {
   "id": 3525120015,
   "districtId": 3525120,
-  "name": "INDRODELIK"
+  "districtName": "BUNGAH",
+  "name": "INDRODELIK",
+  "postalCode": "61152"
  },
  {
   "id": 3525120016,
   "districtId": 3525120,
-  "name": "KISIK"
+  "districtName": "BUNGAH",
+  "name": "KISIK",
+  "postalCode": "61152"
  },
  {
   "id": 3525120017,
   "districtId": 3525120,
-  "name": "ABAR-ABIR"
+  "districtName": "BUNGAH",
+  "name": "ABAR-ABIR",
+  "postalCode": "61152"
  },
  {
   "id": 3525120018,
   "districtId": 3525120,
-  "name": "SIDOKUMPUL"
+  "districtName": "BUNGAH",
+  "name": "SIDOKUMPUL",
+  "postalCode": "59565"
  },
  {
   "id": 3525120019,
   "districtId": 3525120,
-  "name": "RACIWETAN"
+  "districtName": "BUNGAH",
+  "name": "RACIWETAN",
+  "postalCode": "61152"
  },
  {
   "id": 3525120020,
   "districtId": 3525120,
-  "name": "PEGUNDAN"
+  "districtName": "BUNGAH",
+  "name": "PEGUNDAN",
+  "postalCode": "52362"
  },
  {
   "id": 3525120021,
   "districtId": 3525120,
-  "name": "KEMANGI"
+  "districtName": "BUNGAH",
+  "name": "KEMANGI",
+  "postalCode": "61152"
  }
 ]

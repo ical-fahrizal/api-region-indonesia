@@ -2,76 +2,106 @@
  {
   "id": 1108101001,
   "districtId": 1108101,
-  "name": "LEUBOK BATEE"
+  "districtName": "KUTA MALAKA",
+  "name": "LEUBOK BATEE",
+  "postalCode": ""
  },
  {
   "id": 1108101002,
   "districtId": 1108101,
-  "name": "LEUBOK BUNI"
+  "districtName": "KUTA MALAKA",
+  "name": "LEUBOK BUNI",
+  "postalCode": ""
  },
  {
   "id": 1108101003,
   "districtId": 1108101,
-  "name": "BUGHU"
+  "districtName": "KUTA MALAKA",
+  "name": "BUGHU",
+  "postalCode": "23363"
  },
  {
   "id": 1108101004,
   "districtId": 1108101,
-  "name": "TEU DAYAH"
+  "districtName": "KUTA MALAKA",
+  "name": "TEU DAYAH",
+  "postalCode": ""
  },
  {
   "id": 1108101005,
   "districtId": 1108101,
-  "name": "LAM ARA TUNONG"
+  "districtName": "KUTA MALAKA",
+  "name": "LAM ARA TUNONG",
+  "postalCode": "23363"
  },
  {
   "id": 1108101006,
   "districtId": 1108101,
-  "name": "LAM ARA EUNGKIT"
+  "districtName": "KUTA MALAKA",
+  "name": "LAM ARA EUNGKIT",
+  "postalCode": ""
  },
  {
   "id": 1108101007,
   "districtId": 1108101,
-  "name": "LAM ARA CUT"
+  "districtName": "KUTA MALAKA",
+  "name": "LAM ARA CUT",
+  "postalCode": "23363"
  },
  {
   "id": 1108101008,
   "districtId": 1108101,
-  "name": "LEUPUNG CUT"
+  "districtName": "KUTA MALAKA",
+  "name": "LEUPUNG CUT",
+  "postalCode": "23363"
  },
  {
   "id": 1108101009,
   "districtId": 1108101,
-  "name": "TUMBO BARO"
+  "districtName": "KUTA MALAKA",
+  "name": "TUMBO BARO",
+  "postalCode": "23363"
  },
  {
   "id": 1108101010,
   "districtId": 1108101,
-  "name": "LAMBARO SAMAHANI"
+  "districtName": "KUTA MALAKA",
+  "name": "LAMBARO SAMAHANI",
+  "postalCode": "23363"
  },
  {
   "id": 1108101011,
   "districtId": 1108101,
-  "name": "LEUPUNG RIWAT"
+  "districtName": "KUTA MALAKA",
+  "name": "LEUPUNG RIWAT",
+  "postalCode": "23363"
  },
  {
   "id": 1108101012,
   "districtId": 1108101,
-  "name": "LEUPUNG RAYEUK"
+  "districtName": "KUTA MALAKA",
+  "name": "LEUPUNG RAYEUK",
+  "postalCode": "23363"
  },
  {
   "id": 1108101013,
   "districtId": 1108101,
-  "name": "REULEUNG GLUMPANG"
+  "districtName": "KUTA MALAKA",
+  "name": "REULEUNG GLUMPANG",
+  "postalCode": ""
  },
  {
   "id": 1108101014,
   "districtId": 1108101,
-  "name": "REULEUNG KARIENG"
+  "districtName": "KUTA MALAKA",
+  "name": "REULEUNG KARIENG",
+  "postalCode": "23363"
  },
  {
   "id": 1108101015,
   "districtId": 1108101,
-  "name": "LAMSITEH COT"
+  "districtName": "KUTA MALAKA",
+  "name": "LAMSITEH COT",
+  "postalCode": "23363"
  }
 ]

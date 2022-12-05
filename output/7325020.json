@@ -2,81 +2,113 @@
  {
   "id": 7325020001,
   "districtId": 7325020,
-  "name": "LERA"
+  "districtName": "WOTU",
+  "name": "LERA",
+  "postalCode": "92971"
  },
  {
   "id": 7325020002,
   "districtId": 7325020,
-  "name": "BAWALIPU"
+  "districtName": "WOTU",
+  "name": "BAWALIPU",
+  "postalCode": "92971"
  },
  {
   "id": 7325020003,
   "districtId": 7325020,
-  "name": "LAMPENAI"
+  "districtName": "WOTU",
+  "name": "LAMPENAI",
+  "postalCode": "92971"
  },
  {
   "id": 7325020004,
   "districtId": 7325020,
-  "name": "BAHARI"
+  "districtName": "WOTU",
+  "name": "BAHARI",
+  "postalCode": "94681"
  },
  {
   "id": 7325020005,
   "districtId": 7325020,
-  "name": "KALAENA"
+  "districtName": "WOTU",
+  "name": "KALAENA",
+  "postalCode": "92971"
  },
  {
   "id": 7325020006,
   "districtId": 7325020,
-  "name": "KOROMBUA"
+  "districtName": "WOTU",
+  "name": "KOROMBUA",
+  "postalCode": "92971"
  },
  {
   "id": 7325020007,
   "districtId": 7325020,
-  "name": "KANAWATU"
+  "districtName": "WOTU",
+  "name": "KANAWATU",
+  "postalCode": "92971"
  },
  {
   "id": 7325020008,
   "districtId": 7325020,
-  "name": "MARAMBA"
+  "districtName": "WOTU",
+  "name": "MARAMBA",
+  "postalCode": "92971"
  },
  {
   "id": 7325020009,
   "districtId": 7325020,
-  "name": "TARENGGE"
+  "districtName": "WOTU",
+  "name": "TARENGGE",
+  "postalCode": "92971"
  },
  {
   "id": 7325020010,
   "districtId": 7325020,
-  "name": "CENDANA HIJAU"
+  "districtName": "WOTU",
+  "name": "CENDANA HIJAU",
+  "postalCode": "92971"
  },
  {
   "id": 7325020011,
   "districtId": 7325020,
-  "name": "BALO BALO"
+  "districtName": "WOTU",
+  "name": "BALO BALO",
+  "postalCode": ""
  },
  {
   "id": 7325020012,
   "districtId": 7325020,
-  "name": "PEPURO BARAT"
+  "districtName": "WOTU",
+  "name": "PEPURO BARAT",
+  "postalCode": "92971"
  },
  {
   "id": 7325020013,
   "districtId": 7325020,
-  "name": "RINJANI"
+  "districtName": "WOTU",
+  "name": "RINJANI",
+  "postalCode": "92971"
  },
  {
   "id": 7325020014,
   "districtId": 7325020,
-  "name": "MADANI"
+  "districtName": "WOTU",
+  "name": "MADANI",
+  "postalCode": "29273"
  },
  {
   "id": 7325020015,
   "districtId": 7325020,
-  "name": "TARENGGE TIMUR"
+  "districtName": "WOTU",
+  "name": "TARENGGE TIMUR",
+  "postalCode": "92971"
  },
  {
   "id": 7325020016,
   "districtId": 7325020,
-  "name": "TABAROGE"
+  "districtName": "WOTU",
+  "name": "TABAROGE",
+  "postalCode": "92971"
  }
 ]

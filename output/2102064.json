@@ -2,21 +2,29 @@
  {
   "id": 2102064001,
   "districtId": 2102064,
-  "name": "TOAPAYA UTARA"
+  "districtName": "TOAPAYA",
+  "name": "TOAPAYA UTARA",
+  "postalCode": "29151"
  },
  {
   "id": 2102064002,
   "districtId": 2102064,
-  "name": "TOAPAYA"
+  "districtName": "TOAPAYA",
+  "name": "TOAPAYA",
+  "postalCode": "29151"
  },
  {
   "id": 2102064003,
   "districtId": 2102064,
-  "name": "TOAPAYA ASRI"
+  "districtName": "TOAPAYA",
+  "name": "TOAPAYA ASRI",
+  "postalCode": "29151"
  },
  {
   "id": 2102064004,
   "districtId": 2102064,
-  "name": "TOAPAYA SELATAN"
+  "districtName": "TOAPAYA",
+  "name": "TOAPAYA SELATAN",
+  "postalCode": "29151"
  }
 ]

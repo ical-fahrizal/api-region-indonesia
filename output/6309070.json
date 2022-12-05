@@ -2,51 +2,71 @@
  {
   "id": 6309070001,
   "districtId": 6309070,
-  "name": "SULINGAN"
+  "districtName": "MURUNG PUDAK",
+  "name": "SULINGAN",
+  "postalCode": "71571"
  },
  {
   "id": 6309070002,
   "districtId": 6309070,
-  "name": "PEMBATAAN"
+  "districtName": "MURUNG PUDAK",
+  "name": "PEMBATAAN",
+  "postalCode": "71571"
  },
  {
   "id": 6309070003,
   "districtId": 6309070,
-  "name": "MABUUN"
+  "districtName": "MURUNG PUDAK",
+  "name": "MABUUN",
+  "postalCode": "71571"
  },
  {
   "id": 6309070004,
   "districtId": 6309070,
-  "name": "MABURAI"
+  "districtName": "MURUNG PUDAK",
+  "name": "MABURAI",
+  "postalCode": "71571"
  },
  {
   "id": 6309070005,
   "districtId": 6309070,
-  "name": "BELIMBING RAYA"
+  "districtName": "MURUNG PUDAK",
+  "name": "BELIMBING RAYA",
+  "postalCode": "71571"
  },
  {
   "id": 6309070006,
   "districtId": 6309070,
-  "name": "BELIMBING"
+  "districtName": "MURUNG PUDAK",
+  "name": "BELIMBING",
+  "postalCode": "29355"
  },
  {
   "id": 6309070007,
   "districtId": 6309070,
-  "name": "KAPAR"
+  "districtName": "MURUNG PUDAK",
+  "name": "KAPAR",
+  "postalCode": "26567"
  },
  {
   "id": 6309070009,
   "districtId": 6309070,
-  "name": "MASUKAU"
+  "districtName": "MURUNG PUDAK",
+  "name": "MASUKAU",
+  "postalCode": "71571"
  },
  {
   "id": 6309070012,
   "districtId": 6309070,
-  "name": "KASIAU"
+  "districtName": "MURUNG PUDAK",
+  "name": "KASIAU",
+  "postalCode": "71571"
  },
  {
   "id": 6309070013,
   "districtId": 6309070,
-  "name": "KASIAU RAYA"
+  "districtName": "MURUNG PUDAK",
+  "name": "KASIAU RAYA",
+  "postalCode": "71571"
  }
 ]

@@ -2,21 +2,29 @@
  {
   "id": 7171054001,
   "districtId": 7171054,
-  "name": "BUNAKEN"
+  "districtName": "BUNAKEN KEPULAUAN",
+  "name": "BUNAKEN",
+  "postalCode": "95246"
  },
  {
   "id": 7171054002,
   "districtId": 7171054,
-  "name": "ALUNG BANUA"
+  "districtName": "BUNAKEN KEPULAUAN",
+  "name": "ALUNG BANUA",
+  "postalCode": "95231"
  },
  {
   "id": 7171054003,
   "districtId": 7171054,
-  "name": "MANADO TUA SATU"
+  "districtName": "BUNAKEN KEPULAUAN",
+  "name": "MANADO TUA SATU",
+  "postalCode": "95231"
  },
  {
   "id": 7171054004,
   "districtId": 7171054,
-  "name": "MANADO TUA DUA"
+  "districtName": "BUNAKEN KEPULAUAN",
+  "name": "MANADO TUA DUA",
+  "postalCode": "95231"
  }
 ]

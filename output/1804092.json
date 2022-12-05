@@ -2,66 +2,92 @@
  {
   "id": 1804092001,
   "districtId": 1804092,
-  "name": "GUNUNG TIGA"
+  "districtName": "BATANGHARI NUBAN",
+  "name": "GUNUNG TIGA",
+  "postalCode": "32211"
  },
  {
   "id": 1804092002,
   "districtId": 1804092,
-  "name": "SUKACARI"
+  "districtName": "BATANGHARI NUBAN",
+  "name": "SUKACARI",
+  "postalCode": "34372"
  },
  {
   "id": 1804092003,
   "districtId": 1804092,
-  "name": "NEGARA RATU"
+  "districtName": "BATANGHARI NUBAN",
+  "name": "NEGARA RATU",
+  "postalCode": "34372"
  },
  {
   "id": 1804092004,
   "districtId": 1804092,
-  "name": "BUMI JAWA"
+  "districtName": "BATANGHARI NUBAN",
+  "name": "BUMI JAWA",
+  "postalCode": "34372"
  },
  {
   "id": 1804092005,
   "districtId": 1804092,
-  "name": "GEDUNG DALAM"
+  "districtName": "BATANGHARI NUBAN",
+  "name": "GEDUNG DALAM",
+  "postalCode": "34372"
  },
  {
   "id": 1804092006,
   "districtId": 1804092,
-  "name": "SUKARAJA NUBAN"
+  "districtName": "BATANGHARI NUBAN",
+  "name": "SUKARAJA NUBAN",
+  "postalCode": "34372"
  },
  {
   "id": 1804092007,
   "districtId": 1804092,
-  "name": "TRISNO MULYO"
+  "districtName": "BATANGHARI NUBAN",
+  "name": "TRISNO MULYO",
+  "postalCode": "34372"
  },
  {
   "id": 1804092008,
   "districtId": 1804092,
-  "name": "CEMPAKA NUBAN"
+  "districtName": "BATANGHARI NUBAN",
+  "name": "CEMPAKA NUBAN",
+  "postalCode": "34372"
  },
  {
   "id": 1804092009,
   "districtId": 1804092,
-  "name": "KEDATON II (DUA)"
+  "districtName": "BATANGHARI NUBAN",
+  "name": "KEDATON II (DUA)",
+  "postalCode": "34372"
  },
  {
   "id": 1804092010,
   "districtId": 1804092,
-  "name": "KEDATON INDUK"
+  "districtName": "BATANGHARI NUBAN",
+  "name": "KEDATON INDUK",
+  "postalCode": "34372"
  },
  {
   "id": 1804092011,
   "districtId": 1804092,
-  "name": "KEDATON I (SATU)"
+  "districtName": "BATANGHARI NUBAN",
+  "name": "KEDATON I (SATU)",
+  "postalCode": "34372"
  },
  {
   "id": 1804092012,
   "districtId": 1804092,
-  "name": "TULUNG BALAK"
+  "districtName": "BATANGHARI NUBAN",
+  "name": "TULUNG BALAK",
+  "postalCode": "34372"
  },
  {
   "id": 1804092013,
   "districtId": 1804092,
-  "name": "PURWOSARI"
+  "districtName": "BATANGHARI NUBAN",
+  "name": "PURWOSARI",
+  "postalCode": "24582"
  }
 ]

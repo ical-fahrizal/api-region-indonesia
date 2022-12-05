@@ -2,31 +2,43 @@
  {
   "id": 3210170001,
   "districtId": 3210170,
-  "name": "LIANGJULANG"
+  "districtName": "KADIPATEN",
+  "name": "LIANGJULANG",
+  "postalCode": "45452"
  },
  {
   "id": 3210170003,
   "districtId": 3210170,
-  "name": "CIPAKU"
+  "districtName": "KADIPATEN",
+  "name": "CIPAKU",
+  "postalCode": "16133"
  },
  {
   "id": 3210170004,
   "districtId": 3210170,
-  "name": "KADIPATEN"
+  "districtName": "KADIPATEN",
+  "name": "KADIPATEN",
+  "postalCode": "45452"
  },
  {
   "id": 3210170005,
   "districtId": 3210170,
-  "name": "BABAKAN ANYAR"
+  "districtName": "KADIPATEN",
+  "name": "BABAKAN ANYAR",
+  "postalCode": "45452"
  },
  {
   "id": 3210170006,
   "districtId": 3210170,
-  "name": "KARANGSAMBUNG"
+  "districtName": "KADIPATEN",
+  "name": "KARANGSAMBUNG",
+  "postalCode": "45162"
  },
  {
   "id": 3210170007,
   "districtId": 3210170,
-  "name": "PAGANDON"
+  "districtName": "KADIPATEN",
+  "name": "PAGANDON",
+  "postalCode": "45452"
  }
 ]

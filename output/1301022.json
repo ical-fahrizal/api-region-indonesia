@@ -2,31 +2,43 @@
  {
   "id": 1301022001,
   "districtId": 1301022,
-  "name": "BETUMONGA"
+  "districtName": "SIPORA UTARA",
+  "name": "BETUMONGA",
+  "postalCode": "25391"
  },
  {
   "id": 1301022002,
   "districtId": 1301022,
-  "name": "GOISOOINAN"
+  "districtName": "SIPORA UTARA",
+  "name": "GOISOOINAN",
+  "postalCode": ""
  },
  {
   "id": 1301022003,
   "districtId": 1301022,
-  "name": "BUKIT PAMEWA"
+  "districtName": "SIPORA UTARA",
+  "name": "BUKIT PAMEWA",
+  "postalCode": "25392"
  },
  {
   "id": 1301022004,
   "districtId": 1301022,
-  "name": "SIPORA JAYA"
+  "districtName": "SIPORA UTARA",
+  "name": "SIPORA JAYA",
+  "postalCode": "25392"
  },
  {
   "id": 1301022005,
   "districtId": 1301022,
-  "name": "SIDO MAKMUR"
+  "districtName": "SIPORA UTARA",
+  "name": "SIDO MAKMUR",
+  "postalCode": "20772"
  },
  {
   "id": 1301022006,
   "districtId": 1301022,
-  "name": "TUAPEJAT"
+  "districtName": "SIPORA UTARA",
+  "name": "TUAPEJAT",
+  "postalCode": "25392"
  }
 ]

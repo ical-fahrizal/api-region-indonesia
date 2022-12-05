@@ -2,41 +2,57 @@
  {
   "id": 3209191004,
   "districtId": 3209191,
-  "name": "JAMBLANG"
+  "districtName": "JAMBLANG",
+  "name": "JAMBLANG",
+  "postalCode": "45156"
  },
  {
   "id": 3209191005,
   "districtId": 3209191,
-  "name": "SITIWINANGUN"
+  "districtName": "JAMBLANG",
+  "name": "SITIWINANGUN",
+  "postalCode": "45156"
  },
  {
   "id": 3209191006,
   "districtId": 3209191,
-  "name": "WANGUNHARJA"
+  "districtName": "JAMBLANG",
+  "name": "WANGUNHARJA",
+  "postalCode": "17530"
  },
  {
   "id": 3209191014,
   "districtId": 3209191,
-  "name": "BOJONG WETAN"
+  "districtName": "JAMBLANG",
+  "name": "BOJONG WETAN",
+  "postalCode": "45156"
  },
  {
   "id": 3209191015,
   "districtId": 3209191,
-  "name": "BOJONG LOR"
+  "districtName": "JAMBLANG",
+  "name": "BOJONG LOR",
+  "postalCode": "45156"
  },
  {
   "id": 3209191016,
   "districtId": 3209191,
-  "name": "ORIMALANG"
+  "districtName": "JAMBLANG",
+  "name": "ORIMALANG",
+  "postalCode": "45156"
  },
  {
   "id": 3209191017,
   "districtId": 3209191,
-  "name": "BAKUNG KIDUL"
+  "districtName": "JAMBLANG",
+  "name": "BAKUNG KIDUL",
+  "postalCode": "45156"
  },
  {
   "id": 3209191018,
   "districtId": 3209191,
-  "name": "BAKUNG LOR"
+  "districtName": "JAMBLANG",
+  "name": "BAKUNG LOR",
+  "postalCode": "45156"
  }
 ]

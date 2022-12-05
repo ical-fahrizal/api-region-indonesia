@@ -2,11 +2,15 @@
  {
   "id": 1309123001,
   "districtId": 1309123,
-  "name": "MUARO SEI LOLO"
+  "districtName": "MAPAT TUNGGUL SELATAN",
+  "name": "MUARO SEI LOLO",
+  "postalCode": ""
  },
  {
   "id": 1309123002,
   "districtId": 1309123,
-  "name": "SILAYANG"
+  "districtName": "MAPAT TUNGGUL SELATAN",
+  "name": "SILAYANG",
+  "postalCode": "26353"
  }
 ]

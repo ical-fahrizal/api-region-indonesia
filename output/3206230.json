@@ -2,66 +2,92 @@
  {
   "id": 3206230001,
   "districtId": 3206230,
-  "name": "SANTANAMEKAR"
+  "districtName": "CISAYONG",
+  "name": "SANTANAMEKAR",
+  "postalCode": "46153"
  },
  {
   "id": 3206230002,
   "districtId": 3206230,
-  "name": "CISAYONG"
+  "districtName": "CISAYONG",
+  "name": "CISAYONG",
+  "postalCode": "46153"
  },
  {
   "id": 3206230003,
   "districtId": 3206230,
-  "name": "SUKAJADI"
+  "districtName": "CISAYONG",
+  "name": "SUKAJADI",
+  "postalCode": "24472"
  },
  {
   "id": 3206230004,
   "districtId": 3206230,
-  "name": "SUKASUKUR"
+  "districtName": "CISAYONG",
+  "name": "SUKASUKUR",
+  "postalCode": "46153"
  },
  {
   "id": 3206230005,
   "districtId": 3206230,
-  "name": "JATIHURIP"
+  "districtName": "CISAYONG",
+  "name": "JATIHURIP",
+  "postalCode": "46153"
  },
  {
   "id": 3206230006,
   "districtId": 3206230,
-  "name": "SUKARAHARJA"
+  "districtName": "CISAYONG",
+  "name": "SUKARAHARJA",
+  "postalCode": "43262"
  },
  {
   "id": 3206230007,
   "districtId": 3206230,
-  "name": "MEKARWANGI"
+  "districtName": "CISAYONG",
+  "name": "MEKARWANGI",
+  "postalCode": "45462"
  },
  {
   "id": 3206230008,
   "districtId": 3206230,
-  "name": "NUSAWANGI"
+  "districtName": "CISAYONG",
+  "name": "NUSAWANGI",
+  "postalCode": "46153"
  },
  {
   "id": 3206230009,
   "districtId": 3206230,
-  "name": "CIKADU"
+  "districtName": "CISAYONG",
+  "name": "CIKADU",
+  "postalCode": "41181"
  },
  {
   "id": 3206230010,
   "districtId": 3206230,
-  "name": "PURWASARI"
+  "districtName": "CISAYONG",
+  "name": "PURWASARI",
+  "postalCode": "37252"
  },
  {
   "id": 3206230011,
   "districtId": 3206230,
-  "name": "CILEULEUS"
+  "districtName": "CISAYONG",
+  "name": "CILEULEUS",
+  "postalCode": "46153"
  },
  {
   "id": 3206230013,
   "districtId": 3206230,
-  "name": "SUKASETIA"
+  "districtName": "CISAYONG",
+  "name": "SUKASETIA",
+  "postalCode": "46262"
  },
  {
   "id": 3206230014,
   "districtId": 3206230,
-  "name": "SUKAMUKTI"
+  "districtName": "CISAYONG",
+  "name": "SUKAMUKTI",
+  "postalCode": "44191"
  }
 ]

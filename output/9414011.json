@@ -2,56 +2,78 @@
  {
   "id": 9414011001,
   "districtId": 9414011,
-  "name": "KABE"
+  "districtName": "MINYAMUR",
+  "name": "KABE",
+  "postalCode": "99872"
  },
  {
   "id": 9414011002,
   "districtId": 9414011,
-  "name": "SUMUR AMAN"
+  "districtName": "MINYAMUR",
+  "name": "SUMUR AMAN",
+  "postalCode": "99872"
  },
  {
   "id": 9414011003,
   "districtId": 9414011,
-  "name": "KOFAR"
+  "districtName": "MINYAMUR",
+  "name": "KOFAR",
+  "postalCode": "99872"
  },
  {
   "id": 9414011004,
   "districtId": 9414011,
-  "name": "KOMRU"
+  "districtName": "MINYAMUR",
+  "name": "KOMRU",
+  "postalCode": "99872"
  },
  {
   "id": 9414011006,
   "districtId": 9414011,
-  "name": "TARAGAE"
+  "districtName": "MINYAMUR",
+  "name": "TARAGAE",
+  "postalCode": ""
  },
  {
   "id": 9414011007,
   "districtId": 9414011,
-  "name": "UPIN"
+  "districtName": "MINYAMUR",
+  "name": "UPIN",
+  "postalCode": "99872"
  },
  {
   "id": 9414011008,
   "districtId": 9414011,
-  "name": "KHAUMI"
+  "districtName": "MINYAMUR",
+  "name": "KHAUMI",
+  "postalCode": ""
  },
  {
   "id": 9414011009,
   "districtId": 9414011,
-  "name": "ATTI"
+  "districtName": "MINYAMUR",
+  "name": "ATTI",
+  "postalCode": ""
  },
  {
   "id": 9414011010,
   "districtId": 9414011,
-  "name": "KAYAGAE"
+  "districtName": "MINYAMUR",
+  "name": "KAYAGAE",
+  "postalCode": ""
  },
  {
   "id": 9414011011,
   "districtId": 9414011,
-  "name": "PANO"
+  "districtName": "MINYAMUR",
+  "name": "PANO",
+  "postalCode": "99872"
  },
  {
   "id": 9414011012,
   "districtId": 9414011,
-  "name": "KOGIR"
+  "districtName": "MINYAMUR",
+  "name": "KOGIR",
+  "postalCode": "99872"
  }
 ]

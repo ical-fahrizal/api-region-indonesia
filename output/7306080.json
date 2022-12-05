@@ -2,36 +2,50 @@
  {
   "id": 7306080003,
   "districtId": 7306080,
-  "name": "BISSOLORO"
+  "districtName": "BUNGAYA",
+  "name": "BISSOLORO",
+  "postalCode": "92176"
  },
  {
   "id": 7306080004,
   "districtId": 7306080,
-  "name": "BUAKKANG"
+  "districtName": "BUNGAYA",
+  "name": "BUAKKANG",
+  "postalCode": "92176"
  },
  {
   "id": 7306080005,
   "districtId": 7306080,
-  "name": "BONTOMANAI"
+  "districtName": "BUNGAYA",
+  "name": "BONTOMANAI",
+  "postalCode": "92152"
  },
  {
   "id": 7306080006,
   "districtId": 7306080,
-  "name": "SAPAYA"
+  "districtName": "BUNGAYA",
+  "name": "SAPAYA",
+  "postalCode": "92176"
  },
  {
   "id": 7306080015,
   "districtId": 7306080,
-  "name": "RANNALOE"
+  "districtName": "BUNGAYA",
+  "name": "RANNALOE",
+  "postalCode": "92176"
  },
  {
   "id": 7306080016,
   "districtId": 7306080,
-  "name": "MANGEMPANG"
+  "districtName": "BUNGAYA",
+  "name": "MANGEMPANG",
+  "postalCode": "90712"
  },
  {
   "id": 7306080017,
   "districtId": 7306080,
-  "name": "JENEBATU"
+  "districtName": "BUNGAYA",
+  "name": "JENEBATU",
+  "postalCode": "92176"
  }
 ]

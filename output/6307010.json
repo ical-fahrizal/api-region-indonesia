@@ -2,86 +2,120 @@
  {
   "id": 6307010001,
   "districtId": 6307010,
-  "name": "PANGAMBAU HILIR LUAR"
+  "districtName": "HARUYAN",
+  "name": "PANGAMBAU HILIR LUAR",
+  "postalCode": "71363"
  },
  {
   "id": 6307010003,
   "districtId": 6307010,
-  "name": "PENGAMBAU HILIR DALAM"
+  "districtName": "HARUYAN",
+  "name": "PENGAMBAU HILIR DALAM",
+  "postalCode": "71363"
  },
  {
   "id": 6307010004,
   "districtId": 6307010,
-  "name": "TABAT PADANG"
+  "districtName": "HARUYAN",
+  "name": "TABAT PADANG",
+  "postalCode": "71363"
  },
  {
   "id": 6307010005,
   "districtId": 6307010,
-  "name": "LOKBUNTAR"
+  "districtName": "HARUYAN",
+  "name": "LOKBUNTAR",
+  "postalCode": "71363"
  },
  {
   "id": 6307010007,
   "districtId": 6307010,
-  "name": "PENGAMBAU HULU"
+  "districtName": "HARUYAN",
+  "name": "PENGAMBAU HULU",
+  "postalCode": "71363"
  },
  {
   "id": 6307010009,
   "districtId": 6307010,
-  "name": "SUNGAI HARANG"
+  "districtName": "HARUYAN",
+  "name": "SUNGAI HARANG",
+  "postalCode": ""
  },
  {
   "id": 6307010012,
   "districtId": 6307010,
-  "name": "BATU PANGGUNG"
+  "districtName": "HARUYAN",
+  "name": "BATU PANGGUNG",
+  "postalCode": "71363"
  },
  {
   "id": 6307010014,
   "districtId": 6307010,
-  "name": "HAPULANG"
+  "districtName": "HARUYAN",
+  "name": "HAPULANG",
+  "postalCode": "71363"
  },
  {
   "id": 6307010015,
   "districtId": 6307010,
-  "name": "MANGUNANG"
+  "districtName": "HARUYAN",
+  "name": "MANGUNANG",
+  "postalCode": "71363"
  },
  {
   "id": 6307010016,
   "districtId": 6307010,
-  "name": "MANGUNANG SEBERANG"
+  "districtName": "HARUYAN",
+  "name": "MANGUNANG SEBERANG",
+  "postalCode": "71363"
  },
  {
   "id": 6307010019,
   "districtId": 6307010,
-  "name": "HARUYAN SEBERANG"
+  "districtName": "HARUYAN",
+  "name": "HARUYAN SEBERANG",
+  "postalCode": "71363"
  },
  {
   "id": 6307010021,
   "districtId": 6307010,
-  "name": "HARUYAN"
+  "districtName": "HARUYAN",
+  "name": "HARUYAN",
+  "postalCode": "71363"
  },
  {
   "id": 6307010022,
   "districtId": 6307010,
-  "name": "ANDANG"
+  "districtName": "HARUYAN",
+  "name": "ANDANG",
+  "postalCode": "71363"
  },
  {
   "id": 6307010024,
   "districtId": 6307010,
-  "name": "TELUK MESJID"
+  "districtName": "HARUYAN",
+  "name": "TELUK MESJID",
+  "postalCode": "28662"
  },
  {
   "id": 6307010028,
   "districtId": 6307010,
-  "name": "BARIKIN"
+  "districtName": "HARUYAN",
+  "name": "BARIKIN",
+  "postalCode": "71363"
  },
  {
   "id": 6307010030,
   "districtId": 6307010,
-  "name": "PANGGUNG"
+  "districtName": "HARUYAN",
+  "name": "PANGGUNG",
+  "postalCode": "59463"
  },
  {
   "id": 6307010032,
   "districtId": 6307010,
-  "name": "PANDANU"
+  "districtName": "HARUYAN",
+  "name": "PANDANU",
+  "postalCode": "71363"
  }
 ]

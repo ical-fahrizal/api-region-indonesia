@@ -2,31 +2,43 @@
  {
   "id": 1275090001,
   "districtId": 1275090,
-  "name": "TITI RANTAI"
+  "districtName": "MEDAN BARU",
+  "name": "TITI RANTAI",
+  "postalCode": ""
  },
  {
   "id": 1275090002,
   "districtId": 1275090,
-  "name": "PADANG BULAN"
+  "districtName": "MEDAN BARU",
+  "name": "PADANG BULAN",
+  "postalCode": "22994"
  },
  {
   "id": 1275090003,
   "districtId": 1275090,
-  "name": "MERDEKA"
+  "districtName": "MEDAN BARU",
+  "name": "MERDEKA",
+  "postalCode": "20154"
  },
  {
   "id": 1275090004,
   "districtId": 1275090,
-  "name": "D A R A T"
+  "districtName": "MEDAN BARU",
+  "name": "D A R A T",
+  "postalCode": ""
  },
  {
   "id": 1275090005,
   "districtId": 1275090,
-  "name": "BABURA"
+  "districtName": "MEDAN BARU",
+  "name": "BABURA",
+  "postalCode": "20154"
  },
  {
   "id": 1275090006,
   "districtId": 1275090,
-  "name": "PETISAH HULU"
+  "districtName": "MEDAN BARU",
+  "name": "PETISAH HULU",
+  "postalCode": "20153"
  }
 ]

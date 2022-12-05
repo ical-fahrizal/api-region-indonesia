@@ -2,41 +2,57 @@
  {
   "id": 3529200001,
   "districtId": 3529200,
-  "name": "SOKARAME PASESER"
+  "districtName": "NONGGUNONG",
+  "name": "SOKARAME PASESER",
+  "postalCode": "69484"
  },
  {
   "id": 3529200002,
   "districtId": 3529200,
-  "name": "SOKARAME TIMUR"
+  "districtName": "NONGGUNONG",
+  "name": "SOKARAME TIMUR",
+  "postalCode": "69484"
  },
  {
   "id": 3529200003,
   "districtId": 3529200,
-  "name": "TANAHMERAH"
+  "districtName": "NONGGUNONG",
+  "name": "TANAHMERAH",
+  "postalCode": "69484"
  },
  {
   "id": 3529200004,
   "districtId": 3529200,
-  "name": "SOMBER"
+  "districtName": "NONGGUNONG",
+  "name": "SOMBER",
+  "postalCode": "69484"
  },
  {
   "id": 3529200005,
   "districtId": 3529200,
-  "name": "SONOK"
+  "districtName": "NONGGUNONG",
+  "name": "SONOK",
+  "postalCode": "69484"
  },
  {
   "id": 3529200006,
   "districtId": 3529200,
-  "name": "NONGGUNONG"
+  "districtName": "NONGGUNONG",
+  "name": "NONGGUNONG",
+  "postalCode": "69484"
  },
  {
   "id": 3529200007,
   "districtId": 3529200,
-  "name": "ROSONG"
+  "districtName": "NONGGUNONG",
+  "name": "ROSONG",
+  "postalCode": "69484"
  },
  {
   "id": 3529200008,
   "districtId": 3529200,
-  "name": "TALAGA"
+  "districtName": "NONGGUNONG",
+  "name": "TALAGA",
+  "postalCode": "43154"
  }
 ]

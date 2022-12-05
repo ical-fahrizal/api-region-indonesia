@@ -2,36 +2,50 @@
  {
   "id": 1408022001,
   "districtId": 1408022,
-  "name": "PARIT I API API"
+  "districtName": "BANDAR LAKSAMANA",
+  "name": "PARIT I API API",
+  "postalCode": "28761"
  },
  {
   "id": 1408022002,
   "districtId": 1408022,
-  "name": "TEMIANG"
+  "districtName": "BANDAR LAKSAMANA",
+  "name": "TEMIANG",
+  "postalCode": "28761"
  },
  {
   "id": 1408022003,
   "districtId": 1408022,
-  "name": "API API"
+  "districtName": "BANDAR LAKSAMANA",
+  "name": "API API",
+  "postalCode": "28761"
  },
  {
   "id": 1408022004,
   "districtId": 1408022,
-  "name": "TENGGAYUN"
+  "districtName": "BANDAR LAKSAMANA",
+  "name": "TENGGAYUN",
+  "postalCode": "28761"
  },
  {
   "id": 1408022005,
   "districtId": 1408022,
-  "name": "SEPAHAT"
+  "districtName": "BANDAR LAKSAMANA",
+  "name": "SEPAHAT",
+  "postalCode": "28761"
  },
  {
   "id": 1408022006,
   "districtId": 1408022,
-  "name": "BUKIT KERIKIL"
+  "districtName": "BANDAR LAKSAMANA",
+  "name": "BUKIT KERIKIL",
+  "postalCode": "28761"
  },
  {
   "id": 1408022007,
   "districtId": 1408022,
-  "name": "TANJUNG LEBAN"
+  "districtName": "BANDAR LAKSAMANA",
+  "name": "TANJUNG LEBAN",
+  "postalCode": "28761"
  }
 ]

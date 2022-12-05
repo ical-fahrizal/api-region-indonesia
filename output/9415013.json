@@ -2,56 +2,78 @@
  {
   "id": 9415013002,
   "districtId": 9415013,
-  "name": "TAREO"
+  "districtName": "SAFAN",
+  "name": "TAREO",
+  "postalCode": ""
  },
  {
   "id": 9415013003,
   "districtId": 9415013,
-  "name": "SEMENDORO"
+  "districtName": "SAFAN",
+  "name": "SEMENDORO",
+  "postalCode": ""
  },
  {
   "id": 9415013004,
   "districtId": 9415013,
-  "name": "SAMAN"
+  "districtName": "SAFAN",
+  "name": "SAMAN",
+  "postalCode": "99773"
  },
  {
   "id": 9415013005,
   "districtId": 9415013,
-  "name": "AWORKET"
+  "districtName": "SAFAN",
+  "name": "AWORKET",
+  "postalCode": ""
  },
  {
   "id": 9415013006,
   "districtId": 9415013,
-  "name": "PRIMAPUN"
+  "districtName": "SAFAN",
+  "name": "PRIMAPUN",
+  "postalCode": ""
  },
  {
   "id": 9415013007,
   "districtId": 9415013,
-  "name": "KAIRIN"
+  "districtName": "SAFAN",
+  "name": "KAIRIN",
+  "postalCode": ""
  },
  {
   "id": 9415013008,
   "districtId": 9415013,
-  "name": "BAYUN"
+  "districtName": "SAFAN",
+  "name": "BAYUN",
+  "postalCode": "99773"
  },
  {
   "id": 9415013009,
   "districtId": 9415013,
-  "name": "SANTAMBOR"
+  "districtName": "SAFAN",
+  "name": "SANTAMBOR",
+  "postalCode": ""
  },
  {
   "id": 9415013010,
   "districtId": 9415013,
-  "name": "YAPTAMBOR"
+  "districtName": "SAFAN",
+  "name": "YAPTAMBOR",
+  "postalCode": "99773"
  },
  {
   "id": 9415013011,
   "districtId": 9415013,
-  "name": "SIMSAGAR"
+  "districtName": "SAFAN",
+  "name": "SIMSAGAR",
+  "postalCode": "99773"
  },
  {
   "id": 9415013012,
   "districtId": 9415013,
-  "name": "ITERSOK"
+  "districtName": "SAFAN",
+  "name": "ITERSOK",
+  "postalCode": ""
  }
 ]

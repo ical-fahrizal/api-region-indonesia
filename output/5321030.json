@@ -2,66 +2,92 @@
  {
   "id": 5321030001,
   "districtId": 5321030,
-  "name": "TAABA"
+  "districtName": "WELIMAN",
+  "name": "TAABA",
+  "postalCode": "85763"
  },
  {
   "id": 5321030002,
   "districtId": 5321030,
-  "name": "LEUNKLOT"
+  "districtName": "WELIMAN",
+  "name": "LEUNKLOT",
+  "postalCode": "85763"
  },
  {
   "id": 5321030003,
   "districtId": 5321030,
-  "name": "UMALAWAIN"
+  "districtName": "WELIMAN",
+  "name": "UMALAWAIN",
+  "postalCode": "85763"
  },
  {
   "id": 5321030004,
   "districtId": 5321030,
-  "name": "BONETASEA"
+  "districtName": "WELIMAN",
+  "name": "BONETASEA",
+  "postalCode": ""
  },
  {
   "id": 5321030005,
   "districtId": 5321030,
-  "name": "HAUKLARAN"
+  "districtName": "WELIMAN",
+  "name": "HAUKLARAN",
+  "postalCode": ""
  },
  {
   "id": 5321030006,
   "districtId": 5321030,
-  "name": "LAKULO"
+  "districtName": "WELIMAN",
+  "name": "LAKULO",
+  "postalCode": "85763"
  },
  {
   "id": 5321030007,
   "districtId": 5321030,
-  "name": "KLESELEON"
+  "districtName": "WELIMAN",
+  "name": "KLESELEON",
+  "postalCode": "85763"
  },
  {
   "id": 5321030008,
   "districtId": 5321030,
-  "name": "LALETEN"
+  "districtName": "WELIMAN",
+  "name": "LALETEN",
+  "postalCode": "85763"
  },
  {
   "id": 5321030010,
   "districtId": 5321030,
-  "name": "HAITIMUK"
+  "districtName": "WELIMAN",
+  "name": "HAITIMUK",
+  "postalCode": "85763"
  },
  {
   "id": 5321030011,
   "districtId": 5321030,
-  "name": "ANGKAES"
+  "districtName": "WELIMAN",
+  "name": "ANGKAES",
+  "postalCode": "85763"
  },
  {
   "id": 5321030012,
   "districtId": 5321030,
-  "name": "WEDEROK"
+  "districtName": "WELIMAN",
+  "name": "WEDEROK",
+  "postalCode": "85763"
  },
  {
   "id": 5321030013,
   "districtId": 5321030,
-  "name": "LAMUDUR"
+  "districtName": "WELIMAN",
+  "name": "LAMUDUR",
+  "postalCode": "85763"
  },
  {
   "id": 5321030014,
   "districtId": 5321030,
-  "name": "FOREKMODOK"
+  "districtName": "WELIMAN",
+  "name": "FOREKMODOK",
+  "postalCode": "85763"
  }
 ]

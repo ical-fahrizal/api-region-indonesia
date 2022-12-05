@@ -2,91 +2,127 @@
  {
   "id": 1109111001,
   "districtId": 1109111,
-  "name": "PAKO"
+  "districtName": "KEUMALA",
+  "name": "PAKO",
+  "postalCode": ""
  },
  {
   "id": 1109111002,
   "districtId": 1109111,
-  "name": "TUNONG"
+  "districtName": "KEUMALA",
+  "name": "TUNONG",
+  "postalCode": "24375"
  },
  {
   "id": 1109111003,
   "districtId": 1109111,
-  "name": "PULO CAHI"
+  "districtName": "KEUMALA",
+  "name": "PULO CAHI",
+  "postalCode": ""
  },
  {
   "id": 1109111004,
   "districtId": 1109111,
-  "name": "PULO SEUPENG"
+  "districtName": "KEUMALA",
+  "name": "PULO SEUPENG",
+  "postalCode": "24165"
  },
  {
   "id": 1109111005,
   "districtId": 1109111,
-  "name": "PAPEUEN NICAH"
+  "districtName": "KEUMALA",
+  "name": "PAPEUEN NICAH",
+  "postalCode": "24165"
  },
  {
   "id": 1109111006,
   "districtId": 1109111,
-  "name": "UGADENG"
+  "districtName": "KEUMALA",
+  "name": "UGADENG",
+  "postalCode": ""
  },
  {
   "id": 1109111007,
   "districtId": 1109111,
-  "name": "KUMBANG"
+  "districtName": "KEUMALA",
+  "name": "KUMBANG",
+  "postalCode": "24162"
  },
  {
   "id": 1109111008,
   "districtId": 1109111,
-  "name": "SAGOE"
+  "districtName": "KEUMALA",
+  "name": "SAGOE",
+  "postalCode": "24184"
  },
  {
   "id": 1109111009,
   "districtId": 1109111,
-  "name": "DAYAH KEUMALA"
+  "districtName": "KEUMALA",
+  "name": "DAYAH KEUMALA",
+  "postalCode": "24165"
  },
  {
   "id": 1109111010,
   "districtId": 1109111,
-  "name": "RHENG"
+  "districtName": "KEUMALA",
+  "name": "RHENG",
+  "postalCode": "24165"
  },
  {
   "id": 1109111011,
   "districtId": 1109111,
-  "name": "MESJID NICAH"
+  "districtName": "KEUMALA",
+  "name": "MESJID NICAH",
+  "postalCode": "24165"
  },
  {
   "id": 1109111012,
   "districtId": 1109111,
-  "name": "ASAN NICAH"
+  "districtName": "KEUMALA",
+  "name": "ASAN NICAH",
+  "postalCode": "24165"
  },
  {
   "id": 1109111013,
   "districtId": 1109111,
-  "name": "PALOH TEUNGOH"
+  "districtName": "KEUMALA",
+  "name": "PALOH TEUNGOH",
+  "postalCode": "24165"
  },
  {
   "id": 1109111014,
   "districtId": 1109111,
-  "name": "JIJIEM"
+  "districtName": "KEUMALA",
+  "name": "JIJIEM",
+  "postalCode": "24184"
  },
  {
   "id": 1109111015,
   "districtId": 1109111,
-  "name": "COT KREH"
+  "districtName": "KEUMALA",
+  "name": "COT KREH",
+  "postalCode": "24165"
  },
  {
   "id": 1109111016,
   "districtId": 1109111,
-  "name": "PULO BARO"
+  "districtName": "KEUMALA",
+  "name": "PULO BARO",
+  "postalCode": "24165"
  },
  {
   "id": 1109111017,
   "districtId": 1109111,
-  "name": "COT NURAN"
+  "districtName": "KEUMALA",
+  "name": "COT NURAN",
+  "postalCode": "24165"
  },
  {
   "id": 1109111018,
   "districtId": 1109111,
-  "name": "PULO PANTE"
+  "districtName": "KEUMALA",
+  "name": "PULO PANTE",
+  "postalCode": "24165"
  }
 ]

@@ -2,71 +2,99 @@
  {
   "id": 1212040001,
   "districtId": 1212040,
-  "name": "SUKA MAKMUR"
+  "districtName": "KUTALIMBARU",
+  "name": "SUKA MAKMUR",
+  "postalCode": "24784"
  },
  {
   "id": 1212040002,
   "districtId": 1212040,
-  "name": "PERPANDEN"
+  "districtName": "KUTALIMBARU",
+  "name": "PERPANDEN",
+  "postalCode": "20354"
  },
  {
   "id": 1212040003,
   "districtId": 1212040,
-  "name": "NAMO MIRIK"
+  "districtName": "KUTALIMBARU",
+  "name": "NAMO MIRIK",
+  "postalCode": "20354"
  },
  {
   "id": 1212040004,
   "districtId": 1212040,
-  "name": "SUKA DAME"
+  "districtName": "KUTALIMBARU",
+  "name": "SUKA DAME",
+  "postalCode": "22733"
  },
  {
   "id": 1212040005,
   "districtId": 1212040,
-  "name": "KWALA LAU BICIK"
+  "districtName": "KUTALIMBARU",
+  "name": "KWALA LAU BICIK",
+  "postalCode": ""
  },
  {
   "id": 1212040006,
   "districtId": 1212040,
-  "name": "PASAR X"
+  "districtName": "KUTALIMBARU",
+  "name": "PASAR X",
+  "postalCode": "20354"
  },
  {
   "id": 1212040007,
   "districtId": 1212040,
-  "name": "SAMPE CITA"
+  "districtName": "KUTALIMBARU",
+  "name": "SAMPE CITA",
+  "postalCode": ""
  },
  {
   "id": 1212040008,
   "districtId": 1212040,
-  "name": "KUTALIMBARU"
+  "districtName": "KUTALIMBARU",
+  "name": "KUTALIMBARU",
+  "postalCode": ""
  },
  {
   "id": 1212040009,
   "districtId": 1212040,
-  "name": "SUKA RENDE"
+  "districtName": "KUTALIMBARU",
+  "name": "SUKA RENDE",
+  "postalCode": "20354"
  },
  {
   "id": 1212040010,
   "districtId": 1212040,
-  "name": "LAU BAKERI"
+  "districtName": "KUTALIMBARU",
+  "name": "LAU BAKERI",
+  "postalCode": "20354"
  },
  {
   "id": 1212040011,
   "districtId": 1212040,
-  "name": "SILEBO LEBO"
+  "districtName": "KUTALIMBARU",
+  "name": "SILEBO LEBO",
+  "postalCode": "20354"
  },
  {
   "id": 1212040012,
   "districtId": 1212040,
-  "name": "SAWIT REJO"
+  "districtName": "KUTALIMBARU",
+  "name": "SAWIT REJO",
+  "postalCode": "20354"
  },
  {
   "id": 1212040013,
   "districtId": 1212040,
-  "name": "SEI MENCIRIM"
+  "districtName": "KUTALIMBARU",
+  "name": "SEI MENCIRIM",
+  "postalCode": "20354"
  },
  {
   "id": 1212040014,
   "districtId": 1212040,
-  "name": "NAMO RUBE JULU"
+  "districtName": "KUTALIMBARU",
+  "name": "NAMO RUBE JULU",
+  "postalCode": "20354"
  }
 ]

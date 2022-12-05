@@ -2,31 +2,43 @@
  {
   "id": 2171051001,
   "districtId": 2171051,
-  "name": "TAMAN BALOI"
+  "districtName": "BATAM KOTA",
+  "name": "TAMAN BALOI",
+  "postalCode": "29432"
  },
  {
   "id": 2171051002,
   "districtId": 2171051,
-  "name": "BALOI PERMAI"
+  "districtName": "BATAM KOTA",
+  "name": "BALOI PERMAI",
+  "postalCode": "29431"
  },
  {
   "id": 2171051003,
   "districtId": 2171051,
-  "name": "BELIAN"
+  "districtName": "BATAM KOTA",
+  "name": "BELIAN",
+  "postalCode": "29464"
  },
  {
   "id": 2171051004,
   "districtId": 2171051,
-  "name": "TELUK TERING"
+  "districtName": "BATAM KOTA",
+  "name": "TELUK TERING",
+  "postalCode": "29461"
  },
  {
   "id": 2171051005,
   "districtId": 2171051,
-  "name": "SUNGAI PANAS"
+  "districtName": "BATAM KOTA",
+  "name": "SUNGAI PANAS",
+  "postalCode": "29433"
  },
  {
   "id": 2171051006,
   "districtId": 2171051,
-  "name": "SUKAJADI"
+  "districtName": "BATAM KOTA",
+  "name": "SUKAJADI",
+  "postalCode": "24472"
  }
 ]

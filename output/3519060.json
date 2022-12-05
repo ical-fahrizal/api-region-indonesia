@@ -2,36 +2,50 @@
  {
   "id": 3519060001,
   "districtId": 3519060,
-  "name": "BODAG"
+  "districtName": "KARE",
+  "name": "BODAG",
+  "postalCode": "63182"
  },
  {
   "id": 3519060003,
   "districtId": 3519060,
-  "name": "KARE"
+  "districtName": "KARE",
+  "name": "KARE",
+  "postalCode": "63182"
  },
  {
   "id": 3519060004,
   "districtId": 3519060,
-  "name": "BOLO"
+  "districtName": "KARE",
+  "name": "BOLO",
+  "postalCode": "59517"
  },
  {
   "id": 3519060005,
   "districtId": 3519060,
-  "name": "KUWIRAN"
+  "districtName": "KARE",
+  "name": "KUWIRAN",
+  "postalCode": "57373"
  },
  {
   "id": 3519060006,
   "districtId": 3519060,
-  "name": "RANDUALAS"
+  "districtName": "KARE",
+  "name": "RANDUALAS",
+  "postalCode": "63182"
  },
  {
   "id": 3519060007,
   "districtId": 3519060,
-  "name": "CERMO"
+  "districtName": "KARE",
+  "name": "CERMO",
+  "postalCode": "57376"
  },
  {
   "id": 3519060008,
   "districtId": 3519060,
-  "name": "MORANG"
+  "districtName": "KARE",
+  "name": "MORANG",
+  "postalCode": "22762"
  }
 ]

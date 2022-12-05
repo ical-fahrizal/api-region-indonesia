@@ -2,36 +2,50 @@
  {
   "id": 1805090001,
   "districtId": 1805090,
-  "name": "GUNUNG AGUNG"
+  "districtName": "TERUSAN NUNYAI",
+  "name": "GUNUNG AGUNG",
+  "postalCode": "31471"
  },
  {
   "id": 1805090002,
   "districtId": 1805090,
-  "name": "BANDAR AGUNG"
+  "districtName": "TERUSAN NUNYAI",
+  "name": "BANDAR AGUNG",
+  "postalCode": "31414"
  },
  {
   "id": 1805090003,
   "districtId": 1805090,
-  "name": "BANDAR SAKTI"
+  "districtName": "TERUSAN NUNYAI",
+  "name": "BANDAR SAKTI",
+  "postalCode": "20613"
  },
  {
   "id": 1805090004,
   "districtId": 1805090,
-  "name": "TANJUNG ANOM"
+  "districtName": "TERUSAN NUNYAI",
+  "name": "TANJUNG ANOM",
+  "postalCode": "20353"
  },
  {
   "id": 1805090005,
   "districtId": 1805090,
-  "name": "GUNUNG BATIN BARU"
+  "districtName": "TERUSAN NUNYAI",
+  "name": "GUNUNG BATIN BARU",
+  "postalCode": "34167"
  },
  {
   "id": 1805090006,
   "districtId": 1805090,
-  "name": "GUNUNG BATIN UDIK"
+  "districtName": "TERUSAN NUNYAI",
+  "name": "GUNUNG BATIN UDIK",
+  "postalCode": "34167"
  },
  {
   "id": 1805090007,
   "districtId": 1805090,
-  "name": "GUNUNG BATIN ILIR"
+  "districtName": "TERUSAN NUNYAI",
+  "name": "GUNUNG BATIN ILIR",
+  "postalCode": "34167"
  }
 ]

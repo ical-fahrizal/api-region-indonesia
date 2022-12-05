@@ -2,31 +2,43 @@
  {
   "id": 3303131001,
   "districtId": 3303131,
-  "name": "SIRANDU"
+  "districtName": "KARANGJAMBU",
+  "name": "SIRANDU",
+  "postalCode": "53357"
  },
  {
   "id": 3303131002,
   "districtId": 3303131,
-  "name": "PURBASARI"
+  "districtName": "KARANGJAMBU",
+  "name": "PURBASARI",
+  "postalCode": "53357"
  },
  {
   "id": 3303131003,
   "districtId": 3303131,
-  "name": "KARANGJAMBU"
+  "districtName": "KARANGJAMBU",
+  "name": "KARANGJAMBU",
+  "postalCode": "52464"
  },
  {
   "id": 3303131004,
   "districtId": 3303131,
-  "name": "SANGUWATANG"
+  "districtName": "KARANGJAMBU",
+  "name": "SANGUWATANG",
+  "postalCode": "53357"
  },
  {
   "id": 3303131005,
   "districtId": 3303131,
-  "name": "JINGKANG"
+  "districtName": "KARANGJAMBU",
+  "name": "JINGKANG",
+  "postalCode": "45354"
  },
  {
   "id": 3303131006,
   "districtId": 3303131,
-  "name": "DANASARI"
+  "districtName": "KARANGJAMBU",
+  "name": "DANASARI",
+  "postalCode": "46386"
  }
 ]

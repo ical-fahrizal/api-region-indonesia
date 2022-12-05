@@ -2,41 +2,57 @@
  {
   "id": 7101083001,
   "districtId": 7101083,
-  "name": "BILALANG III"
+  "districtName": "BILALANG",
+  "name": "BILALANG III",
+  "postalCode": "95751"
  },
  {
   "id": 7101083002,
   "districtId": 7101083,
-  "name": "BILALANG IV"
+  "districtName": "BILALANG",
+  "name": "BILALANG IV",
+  "postalCode": "95751"
  },
  {
   "id": 7101083003,
   "districtId": 7101083,
-  "name": "TUDUAOG BARU"
+  "districtName": "BILALANG",
+  "name": "TUDUAOG BARU",
+  "postalCode": "95751"
  },
  {
   "id": 7101083004,
   "districtId": 7101083,
-  "name": "TUDUAOG"
+  "districtName": "BILALANG",
+  "name": "TUDUAOG",
+  "postalCode": "95751"
  },
  {
   "id": 7101083005,
   "districtId": 7101083,
-  "name": "KOLINGANGAAN"
+  "districtName": "BILALANG",
+  "name": "KOLINGANGAAN",
+  "postalCode": "95751"
  },
  {
   "id": 7101083006,
   "districtId": 7101083,
-  "name": "BILALANG III UTARA"
+  "districtName": "BILALANG",
+  "name": "BILALANG III UTARA",
+  "postalCode": "95751"
  },
  {
   "id": 7101083007,
   "districtId": 7101083,
-  "name": "BILALANG BARU"
+  "districtName": "BILALANG",
+  "name": "BILALANG BARU",
+  "postalCode": "95751"
  },
  {
   "id": 7101083008,
   "districtId": 7101083,
-  "name": "APADO"
+  "districtName": "BILALANG",
+  "name": "APADO",
+  "postalCode": ""
  }
 ]

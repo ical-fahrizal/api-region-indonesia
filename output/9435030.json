@@ -2,41 +2,57 @@
  {
   "id": 9435030001,
   "districtId": 9435030,
-  "name": "SANABA"
+  "districtName": "HITADIPA",
+  "name": "SANABA",
+  "postalCode": ""
  },
  {
   "id": 9435030004,
   "districtId": 9435030,
-  "name": "KULAPA"
+  "districtName": "HITADIPA",
+  "name": "KULAPA",
+  "postalCode": "98768"
  },
  {
   "id": 9435030005,
   "districtId": 9435030,
-  "name": "WABUI"
+  "districtName": "HITADIPA",
+  "name": "WABUI",
+  "postalCode": "98768"
  },
  {
   "id": 9435030006,
   "districtId": 9435030,
-  "name": "SOAGAMA"
+  "districtName": "HITADIPA",
+  "name": "SOAGAMA",
+  "postalCode": "98768"
  },
  {
   "id": 9435030007,
   "districtId": 9435030,
-  "name": "HITADIPA"
+  "districtName": "HITADIPA",
+  "name": "HITADIPA",
+  "postalCode": "98768"
  },
  {
   "id": 9435030008,
   "districtId": 9435030,
-  "name": "DANGGOMBA"
+  "districtName": "HITADIPA",
+  "name": "DANGGOMBA",
+  "postalCode": "98768"
  },
  {
   "id": 9435030009,
   "districtId": 9435030,
-  "name": "BALAIMAI"
+  "districtName": "HITADIPA",
+  "name": "BALAIMAI",
+  "postalCode": ""
  },
  {
   "id": 9435030010,
   "districtId": 9435030,
-  "name": "PUGISIGA"
+  "districtName": "HITADIPA",
+  "name": "PUGISIGA",
+  "postalCode": ""
  }
 ]

@@ -2,51 +2,71 @@
  {
   "id": 7404072001,
   "districtId": 7404072,
-  "name": "ULU KALO"
+  "districtName": "IWOIMENDAA",
+  "name": "ULU KALO",
+  "postalCode": "93552"
  },
  {
   "id": 7404072002,
   "districtId": 7404072,
-  "name": "IWOIMENDAA"
+  "districtName": "IWOIMENDAA",
+  "name": "IWOIMENDAA",
+  "postalCode": ""
  },
  {
   "id": 7404072003,
   "districtId": 7404072,
-  "name": "LASIROKU"
+  "districtName": "IWOIMENDAA",
+  "name": "LASIROKU",
+  "postalCode": "93552"
  },
  {
   "id": 7404072004,
   "districtId": 7404072,
-  "name": "LADAHAI"
+  "districtName": "IWOIMENDAA",
+  "name": "LADAHAI",
+  "postalCode": "93552"
  },
  {
   "id": 7404072005,
   "districtId": 7404072,
-  "name": "TAMBORASI"
+  "districtName": "IWOIMENDAA",
+  "name": "TAMBORASI",
+  "postalCode": "93552"
  },
  {
   "id": 7404072006,
   "districtId": 7404072,
-  "name": "LAMBOPINI"
+  "districtName": "IWOIMENDAA",
+  "name": "LAMBOPINI",
+  "postalCode": "93552"
  },
  {
   "id": 7404072007,
   "districtId": 7404072,
-  "name": "WONUA LAKU"
+  "districtName": "IWOIMENDAA",
+  "name": "WONUA LAKU",
+  "postalCode": ""
  },
  {
   "id": 7404072008,
   "districtId": 7404072,
-  "name": "LANDOULA"
+  "districtName": "IWOIMENDAA",
+  "name": "LANDOULA",
+  "postalCode": ""
  },
  {
   "id": 7404072009,
   "districtId": 7404072,
-  "name": "WATUMELEWE"
+  "districtName": "IWOIMENDAA",
+  "name": "WATUMELEWE",
+  "postalCode": "93885"
  },
  {
   "id": 7404072010,
   "districtId": 7404072,
-  "name": "LAWOLIA"
+  "districtName": "IWOIMENDAA",
+  "name": "LAWOLIA",
+  "postalCode": ""
  }
 ]

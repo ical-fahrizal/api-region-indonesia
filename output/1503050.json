@@ -2,71 +2,99 @@
  {
   "id": 1503050001,
   "districtId": 1503050,
-  "name": "SEKO BESAR"
+  "districtName": "PAUH",
+  "name": "SEKO BESAR",
+  "postalCode": "37491"
  },
  {
   "id": 1503050002,
   "districtId": 1503050,
-  "name": "TAMAN BANDUNG"
+  "districtName": "PAUH",
+  "name": "TAMAN BANDUNG",
+  "postalCode": "37491"
  },
  {
   "id": 1503050003,
   "districtId": 1503050,
-  "name": "SEPINTUN"
+  "districtName": "PAUH",
+  "name": "SEPINTUN",
+  "postalCode": "37491"
  },
  {
   "id": 1503050004,
   "districtId": 1503050,
-  "name": "LAMBAN SIGATAL"
+  "districtName": "PAUH",
+  "name": "LAMBAN SIGATAL",
+  "postalCode": "37491"
  },
  {
   "id": 1503050005,
   "districtId": 1503050,
-  "name": "LUBUK NAPAL"
+  "districtName": "PAUH",
+  "name": "LUBUK NAPAL",
+  "postalCode": "28565"
  },
  {
   "id": 1503050006,
   "districtId": 1503050,
-  "name": "PANGIDARAN"
+  "districtName": "PAUH",
+  "name": "PANGIDARAN",
+  "postalCode": ""
  },
  {
   "id": 1503050007,
   "districtId": 1503050,
-  "name": "KARANG MENDAPO"
+  "districtName": "PAUH",
+  "name": "KARANG MENDAPO",
+  "postalCode": "37491"
  },
  {
   "id": 1503050008,
   "districtId": 1503050,
-  "name": "BATU AMPAR"
+  "districtName": "PAUH",
+  "name": "BATU AMPAR",
+  "postalCode": "29274"
  },
  {
   "id": 1503050009,
   "districtId": 1503050,
-  "name": "BATU KUCING"
+  "districtName": "PAUH",
+  "name": "BATU KUCING",
+  "postalCode": "37491"
  },
  {
   "id": 1503050010,
   "districtId": 1503050,
-  "name": "PAUH"
+  "districtName": "PAUH",
+  "name": "PAUH",
+  "postalCode": "28559"
  },
  {
   "id": 1503050011,
   "districtId": 1503050,
-  "name": "SEMARAN"
+  "districtName": "PAUH",
+  "name": "SEMARAN",
+  "postalCode": "37491"
  },
  {
   "id": 1503050013,
   "districtId": 1503050,
-  "name": "KASANG MELINTANG"
+  "districtName": "PAUH",
+  "name": "KASANG MELINTANG",
+  "postalCode": "37491"
  },
  {
   "id": 1503050014,
   "districtId": 1503050,
-  "name": "PANGKAL BULIAN"
+  "districtName": "PAUH",
+  "name": "PANGKAL BULIAN",
+  "postalCode": "37491"
  },
  {
   "id": 1503050015,
   "districtId": 1503050,
-  "name": "DANAUSERDANG"
+  "districtName": "PAUH",
+  "name": "DANAUSERDANG",
+  "postalCode": ""
  }
 ]

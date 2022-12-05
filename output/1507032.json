@@ -2,41 +2,57 @@
  {
   "id": 1507032001,
   "districtId": 1507032,
-  "name": "TELUK PULAI RAYA"
+  "districtName": "SEBERANG KOTA",
+  "name": "TELUK PULAI RAYA",
+  "postalCode": "36514"
  },
  {
   "id": 1507032002,
   "districtId": 1507032,
-  "name": "TUNGKAL V"
+  "districtName": "SEBERANG KOTA",
+  "name": "TUNGKAL V",
+  "postalCode": ""
  },
  {
   "id": 1507032003,
   "districtId": 1507032,
-  "name": "TUNGKAL IV DESA"
+  "districtName": "SEBERANG KOTA",
+  "name": "TUNGKAL IV DESA",
+  "postalCode": ""
  },
  {
   "id": 1507032004,
   "districtId": 1507032,
-  "name": "KUALA BARU"
+  "districtName": "SEBERANG KOTA",
+  "name": "KUALA BARU",
+  "postalCode": "23891"
  },
  {
   "id": 1507032005,
   "districtId": 1507032,
-  "name": "KUALA KAHAR"
+  "districtName": "SEBERANG KOTA",
+  "name": "KUALA KAHAR",
+  "postalCode": "36511"
  },
  {
   "id": 1507032006,
   "districtId": 1507032,
-  "name": "HARAPAN JAYA"
+  "districtName": "SEBERANG KOTA",
+  "name": "HARAPAN JAYA",
+  "postalCode": "20773"
  },
  {
   "id": 1507032007,
   "districtId": 1507032,
-  "name": "MEKAR ALAM"
+  "districtName": "SEBERANG KOTA",
+  "name": "MEKAR ALAM",
+  "postalCode": "36511"
  },
  {
   "id": 1507032008,
   "districtId": 1507032,
-  "name": "MUARA SEBERANG"
+  "districtName": "SEBERANG KOTA",
+  "name": "MUARA SEBERANG",
+  "postalCode": "36511"
  }
 ]

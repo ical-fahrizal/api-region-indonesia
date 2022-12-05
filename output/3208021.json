@@ -2,41 +2,57 @@
  {
   "id": 3208021001,
   "districtId": 3208021,
-  "name": "HAURKUNING"
+  "districtName": "NUSAHERANG",
+  "name": "HAURKUNING",
+  "postalCode": "45563"
  },
  {
   "id": 3208021002,
   "districtId": 3208021,
-  "name": "KERTAYUGA"
+  "districtName": "NUSAHERANG",
+  "name": "KERTAYUGA",
+  "postalCode": "45563"
  },
  {
   "id": 3208021003,
   "districtId": 3208021,
-  "name": "WINDUSARI"
+  "districtName": "NUSAHERANG",
+  "name": "WINDUSARI",
+  "postalCode": "32385"
  },
  {
   "id": 3208021004,
   "districtId": 3208021,
-  "name": "NUSAHERANG"
+  "districtName": "NUSAHERANG",
+  "name": "NUSAHERANG",
+  "postalCode": "45563"
  },
  {
   "id": 3208021005,
   "districtId": 3208021,
-  "name": "KERTAWIRAMA"
+  "districtName": "NUSAHERANG",
+  "name": "KERTAWIRAMA",
+  "postalCode": "45563"
  },
  {
   "id": 3208021006,
   "districtId": 3208021,
-  "name": "CIKADU"
+  "districtName": "NUSAHERANG",
+  "name": "CIKADU",
+  "postalCode": "41181"
  },
  {
   "id": 3208021007,
   "districtId": 3208021,
-  "name": "JAMBAR"
+  "districtName": "NUSAHERANG",
+  "name": "JAMBAR",
+  "postalCode": "45563"
  },
  {
   "id": 3208021008,
   "districtId": 3208021,
-  "name": "CIASIH"
+  "districtName": "NUSAHERANG",
+  "name": "CIASIH",
+  "postalCode": "45563"
  }
 ]

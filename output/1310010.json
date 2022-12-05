@@ -2,21 +2,29 @@
  {
   "id": 1310010001,
   "districtId": 1310010,
-  "name": "LUBUK GADANG"
+  "districtName": "SANGIR",
+  "name": "LUBUK GADANG",
+  "postalCode": "27778"
  },
  {
   "id": 1310010002,
   "districtId": 1310010,
-  "name": "LUBUK GADANG TIMUR"
+  "districtName": "SANGIR",
+  "name": "LUBUK GADANG TIMUR",
+  "postalCode": "27778"
  },
  {
   "id": 1310010003,
   "districtId": 1310010,
-  "name": "LUBUK GADANG SELATAN"
+  "districtName": "SANGIR",
+  "name": "LUBUK GADANG SELATAN",
+  "postalCode": "27778"
  },
  {
   "id": 1310010004,
   "districtId": 1310010,
-  "name": "LUBUK GADANG UTARA"
+  "districtName": "SANGIR",
+  "name": "LUBUK GADANG UTARA",
+  "postalCode": "27778"
  }
 ]

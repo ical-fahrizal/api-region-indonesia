@@ -2,46 +2,64 @@
  {
   "id": 7402072001,
   "districtId": 7402072,
-  "name": "BANGGAI"
+  "districtName": "DURUKA",
+  "name": "BANGGAI",
+  "postalCode": "93659"
  },
  {
   "id": 7402072002,
   "districtId": 7402072,
-  "name": "LASUNAPA"
+  "districtName": "DURUKA",
+  "name": "LASUNAPA",
+  "postalCode": "93659"
  },
  {
   "id": 7402072003,
   "districtId": 7402072,
-  "name": "GHONSUME"
+  "districtName": "DURUKA",
+  "name": "GHONSUME",
+  "postalCode": "93659"
  },
  {
   "id": 7402072004,
   "districtId": 7402072,
-  "name": "WAPUNTO"
+  "districtName": "DURUKA",
+  "name": "WAPUNTO",
+  "postalCode": "93618"
  },
  {
   "id": 7402072005,
   "districtId": 7402072,
-  "name": "GHONE BHALANO"
+  "districtName": "DURUKA",
+  "name": "GHONE BHALANO",
+  "postalCode": ""
  },
  {
   "id": 7402072006,
   "districtId": 7402072,
-  "name": "LAGASA"
+  "districtName": "DURUKA",
+  "name": "LAGASA",
+  "postalCode": "93659"
  },
  {
   "id": 7402072007,
   "districtId": 7402072,
-  "name": "PALANGGA"
+  "districtName": "DURUKA",
+  "name": "PALANGGA",
+  "postalCode": "93659"
  },
  {
   "id": 7402072008,
   "districtId": 7402072,
-  "name": "LONGKIDA"
+  "districtName": "DURUKA",
+  "name": "LONGKIDA",
+  "postalCode": ""
  },
  {
   "id": 7402072009,
   "districtId": 7402072,
-  "name": "WABAHARA"
+  "districtName": "DURUKA",
+  "name": "WABAHARA",
+  "postalCode": ""
  }
 ]

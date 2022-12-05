@@ -2,46 +2,64 @@
  {
   "id": 3403150001,
   "districtId": 3403150,
-  "name": "KALITEKUK"
+  "districtName": "SEMIN",
+  "name": "KALITEKUK",
+  "postalCode": "55854"
  },
  {
   "id": 3403150002,
   "districtId": 3403150,
-  "name": "KEMEJING"
+  "districtName": "SEMIN",
+  "name": "KEMEJING",
+  "postalCode": "54181"
  },
  {
   "id": 3403150003,
   "districtId": 3403150,
-  "name": "SEMIN"
+  "districtName": "SEMIN",
+  "name": "SEMIN",
+  "postalCode": "57671"
  },
  {
   "id": 3403150004,
   "districtId": 3403150,
-  "name": "PUNDUNG SARI"
+  "districtName": "SEMIN",
+  "name": "PUNDUNG SARI",
+  "postalCode": "55854"
  },
  {
   "id": 3403150005,
   "districtId": 3403150,
-  "name": "KARANG SARI"
+  "districtName": "SEMIN",
+  "name": "KARANG SARI",
+  "postalCode": "21174"
  },
  {
   "id": 3403150006,
   "districtId": 3403150,
-  "name": "REJOSARI"
+  "districtName": "SEMIN",
+  "name": "REJOSARI",
+  "postalCode": "29353"
  },
  {
   "id": 3403150007,
   "districtId": 3403150,
-  "name": "BULUREJO"
+  "districtName": "SEMIN",
+  "name": "BULUREJO",
+  "postalCode": "35372"
  },
  {
   "id": 3403150009,
   "districtId": 3403150,
-  "name": "SUMBERREJO"
+  "districtName": "SEMIN",
+  "name": "SUMBERREJO",
+  "postalCode": "59184"
  },
  {
   "id": 3403150010,
   "districtId": 3403150,
-  "name": "CANDI REJO"
+  "districtName": "SEMIN",
+  "name": "CANDI REJO",
+  "postalCode": "20358"
  }
 ]

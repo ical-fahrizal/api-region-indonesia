@@ -2,76 +2,106 @@
  {
   "id": 1205180007,
   "districtId": 1205180,
-  "name": "HUTA LONTUNG"
+  "districtName": "MUARA",
+  "name": "HUTA LONTUNG",
+  "postalCode": "22476"
  },
  {
   "id": 1205180008,
   "districtId": 1205180,
-  "name": "BARIBA NIAEK"
+  "districtName": "MUARA",
+  "name": "BARIBA NIAEK",
+  "postalCode": "22476"
  },
  {
   "id": 1205180009,
   "districtId": 1205180,
-  "name": "SILALI TORUAN"
+  "districtName": "MUARA",
+  "name": "SILALI TORUAN",
+  "postalCode": "22476"
  },
  {
   "id": 1205180010,
   "districtId": 1205180,
-  "name": "HUTANA GODANG"
+  "districtName": "MUARA",
+  "name": "HUTANA GODANG",
+  "postalCode": ""
  },
  {
   "id": 1205180011,
   "districtId": 1205180,
-  "name": "UNTE MUNGKUR"
+  "districtName": "MUARA",
+  "name": "UNTE MUNGKUR",
+  "postalCode": "22476"
  },
  {
   "id": 1205180012,
   "districtId": 1205180,
-  "name": "BATU BINUMBUN"
+  "districtName": "MUARA",
+  "name": "BATU BINUMBUN",
+  "postalCode": "22476"
  },
  {
   "id": 1205180013,
   "districtId": 1205180,
-  "name": "SIMATUPANG"
+  "districtName": "MUARA",
+  "name": "SIMATUPANG",
+  "postalCode": "22476"
  },
  {
   "id": 1205180014,
   "districtId": 1205180,
-  "name": "ARITONANG"
+  "districtName": "MUARA",
+  "name": "ARITONANG",
+  "postalCode": "22476"
  },
  {
   "id": 1205180015,
   "districtId": 1205180,
-  "name": "DOLOK MARTUMBUR"
+  "districtName": "MUARA",
+  "name": "DOLOK MARTUMBUR",
+  "postalCode": "22476"
  },
  {
   "id": 1205180016,
   "districtId": 1205180,
-  "name": "SITANGGOR"
+  "districtName": "MUARA",
+  "name": "SITANGGOR",
+  "postalCode": "22476"
  },
  {
   "id": 1205180017,
   "districtId": 1205180,
-  "name": "HUTA GINJANG"
+  "districtName": "MUARA",
+  "name": "HUTA GINJANG",
+  "postalCode": "22733"
  },
  {
   "id": 1205180018,
   "districtId": 1205180,
-  "name": "SILANDO"
+  "districtName": "MUARA",
+  "name": "SILANDO",
+  "postalCode": "22476"
  },
  {
   "id": 1205180019,
   "districtId": 1205180,
-  "name": "PAPANDE"
+  "districtName": "MUARA",
+  "name": "PAPANDE",
+  "postalCode": "22476"
  },
  {
   "id": 1205180020,
   "districtId": 1205180,
-  "name": "SIBANDANG"
+  "districtName": "MUARA",
+  "name": "SIBANDANG",
+  "postalCode": "22476"
  },
  {
   "id": 1205180021,
   "districtId": 1205180,
-  "name": "SAMPURAN"
+  "districtName": "MUARA",
+  "name": "SAMPURAN",
+  "postalCode": "22476"
  }
 ]

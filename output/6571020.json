@@ -2,26 +2,36 @@
  {
   "id": 6571020001,
   "districtId": 6571020,
-  "name": "SELUMIT PANTAI"
+  "districtName": "TARAKAN TENGAH",
+  "name": "SELUMIT PANTAI",
+  "postalCode": "77113"
  },
  {
   "id": 6571020002,
   "districtId": 6571020,
-  "name": "SELUMIT"
+  "districtName": "TARAKAN TENGAH",
+  "name": "SELUMIT",
+  "postalCode": "77113"
  },
  {
   "id": 6571020003,
   "districtId": 6571020,
-  "name": "SEBENGKOK"
+  "districtName": "TARAKAN TENGAH",
+  "name": "SEBENGKOK",
+  "postalCode": "77114"
  },
  {
   "id": 6571020004,
   "districtId": 6571020,
-  "name": "PAMUSIAN"
+  "districtName": "TARAKAN TENGAH",
+  "name": "PAMUSIAN",
+  "postalCode": "77113"
  },
  {
   "id": 6571020005,
   "districtId": 6571020,
-  "name": "KAMPUNG SATU SKIP"
+  "districtName": "TARAKAN TENGAH",
+  "name": "KAMPUNG SATU SKIP",
+  "postalCode": ""
  }
 ]

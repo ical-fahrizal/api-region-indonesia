@@ -2,81 +2,113 @@
  {
   "id": 1809040001,
   "districtId": 1809040,
-  "name": "GUNUNGREJO"
+  "districtName": "WAY LIMA",
+  "name": "GUNUNGREJO",
+  "postalCode": "35367"
  },
  {
   "id": 1809040002,
   "districtId": 1809040,
-  "name": "CIMANUK"
+  "districtName": "WAY LIMA",
+  "name": "CIMANUK",
+  "postalCode": "35367"
  },
  {
   "id": 1809040003,
   "districtId": 1809040,
-  "name": "SUKAMANDI"
+  "districtName": "WAY LIMA",
+  "name": "SUKAMANDI",
+  "postalCode": "22173"
  },
  {
   "id": 1809040004,
   "districtId": 1809040,
-  "name": "WAY HARONG"
+  "districtName": "WAY LIMA",
+  "name": "WAY HARONG",
+  "postalCode": "35679"
  },
  {
   "id": 1809040005,
   "districtId": 1809040,
-  "name": "MARGODADI"
+  "districtName": "WAY LIMA",
+  "name": "MARGODADI",
+  "postalCode": "32386"
  },
  {
   "id": 1809040006,
   "districtId": 1809040,
-  "name": "TANJUNG AGUNG"
+  "districtName": "WAY LIMA",
+  "name": "TANJUNG AGUNG",
+  "postalCode": "37216"
  },
  {
   "id": 1809040007,
   "districtId": 1809040,
-  "name": "KOTADALAM"
+  "districtName": "WAY LIMA",
+  "name": "KOTADALAM",
+  "postalCode": "35367"
  },
  {
   "id": 1809040008,
   "districtId": 1809040,
-  "name": "BATURAJA"
+  "districtName": "WAY LIMA",
+  "name": "BATURAJA",
+  "postalCode": "35367"
  },
  {
   "id": 1809040009,
   "districtId": 1809040,
-  "name": "SINDANG GARUT"
+  "districtName": "WAY LIMA",
+  "name": "SINDANG GARUT",
+  "postalCode": "35367"
  },
  {
   "id": 1809040010,
   "districtId": 1809040,
-  "name": "SIDODADI"
+  "districtName": "WAY LIMA",
+  "name": "SIDODADI",
+  "postalCode": "24582"
  },
  {
   "id": 1809040011,
   "districtId": 1809040,
-  "name": "GEDUNG DALAM"
+  "districtName": "WAY LIMA",
+  "name": "GEDUNG DALAM",
+  "postalCode": "34372"
  },
  {
   "id": 1809040012,
   "districtId": 1809040,
-  "name": "PEKONDOH"
+  "districtName": "WAY LIMA",
+  "name": "PEKONDOH",
+  "postalCode": "35683"
  },
  {
   "id": 1809040013,
   "districtId": 1809040,
-  "name": "PEKONDOH GEDUNG"
+  "districtName": "WAY LIMA",
+  "name": "PEKONDOH GEDUNG",
+  "postalCode": "35367"
  },
  {
   "id": 1809040014,
   "districtId": 1809040,
-  "name": "BANJAR NEGERI"
+  "districtName": "WAY LIMA",
+  "name": "BANJAR NEGERI",
+  "postalCode": "35683"
  },
  {
   "id": 1809040015,
   "districtId": 1809040,
-  "name": "PADANG MANIS"
+  "districtName": "WAY LIMA",
+  "name": "PADANG MANIS",
+  "postalCode": "38956"
  },
  {
   "id": 1809040016,
   "districtId": 1809040,
-  "name": "PAGUYUBAN"
+  "districtName": "WAY LIMA",
+  "name": "PAGUYUBAN",
+  "postalCode": ""
  }
 ]

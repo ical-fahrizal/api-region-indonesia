@@ -2,56 +2,78 @@
  {
   "id": 3328170001,
   "districtId": 3328170,
-  "name": "KARANGWULUH"
+  "districtName": "SURADADI",
+  "name": "KARANGWULUH",
+  "postalCode": "54212"
  },
  {
   "id": 3328170002,
   "districtId": 3328170,
-  "name": "GEMBONGDADI"
+  "districtName": "SURADADI",
+  "name": "GEMBONGDADI",
+  "postalCode": "52182"
  },
  {
   "id": 3328170003,
   "districtId": 3328170,
-  "name": "KARANGMULYA"
+  "districtName": "SURADADI",
+  "name": "KARANGMULYA",
+  "postalCode": "17356"
  },
  {
   "id": 3328170004,
   "districtId": 3328170,
-  "name": "HARJASARI"
+  "districtName": "SURADADI",
+  "name": "HARJASARI",
+  "postalCode": "16138"
  },
  {
   "id": 3328170005,
   "districtId": 3328170,
-  "name": "KERTASARI"
+  "districtName": "SURADADI",
+  "name": "KERTASARI",
+  "postalCode": "31658"
  },
  {
   "id": 3328170006,
   "districtId": 3328170,
-  "name": "JATIMULYA"
+  "districtName": "SURADADI",
+  "name": "JATIMULYA",
+  "postalCode": "45595"
  },
  {
   "id": 3328170007,
   "districtId": 3328170,
-  "name": "JATIBOGOR"
+  "districtName": "SURADADI",
+  "name": "JATIBOGOR",
+  "postalCode": "52182"
  },
  {
   "id": 3328170008,
   "districtId": 3328170,
-  "name": "SIDOHARJO"
+  "districtName": "SURADADI",
+  "name": "SIDOHARJO",
+  "postalCode": "30975"
  },
  {
   "id": 3328170009,
   "districtId": 3328170,
-  "name": "PURWAHAMBA"
+  "districtName": "SURADADI",
+  "name": "PURWAHAMBA",
+  "postalCode": "52182"
  },
  {
   "id": 3328170010,
   "districtId": 3328170,
-  "name": "SURADADI"
+  "districtName": "SURADADI",
+  "name": "SURADADI",
+  "postalCode": "52182"
  },
  {
   "id": 3328170011,
   "districtId": 3328170,
-  "name": "BOJONGSANA"
+  "districtName": "SURADADI",
+  "name": "BOJONGSANA",
+  "postalCode": "52182"
  }
 ]

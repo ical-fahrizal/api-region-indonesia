@@ -2,76 +2,106 @@
  {
   "id": 1505010024,
   "districtId": 1505010,
-  "name": "SUKA DAMAI"
+  "districtName": "MESTONG",
+  "name": "SUKA DAMAI",
+  "postalCode": "24472"
  },
  {
   "id": 1505010025,
   "districtId": 1505010,
-  "name": "IBRU"
+  "districtName": "MESTONG",
+  "name": "IBRU",
+  "postalCode": "36364"
  },
  {
   "id": 1505010026,
   "districtId": 1505010,
-  "name": "NYOGAN"
+  "districtName": "MESTONG",
+  "name": "NYOGAN",
+  "postalCode": "36364"
  },
  {
   "id": 1505010027,
   "districtId": 1505010,
-  "name": "PELEMPANG"
+  "districtName": "MESTONG",
+  "name": "PELEMPANG",
+  "postalCode": "36364"
  },
  {
   "id": 1505010029,
   "districtId": 1505010,
-  "name": "KM.39 TANJUNG PAUH"
+  "districtName": "MESTONG",
+  "name": "KM.39 TANJUNG PAUH",
+  "postalCode": ""
  },
  {
   "id": 1505010030,
   "districtId": 1505010,
-  "name": "BARU"
+  "districtName": "MESTONG",
+  "name": "BARU",
+  "postalCode": "23764"
  },
  {
   "id": 1505010031,
   "districtId": 1505010,
-  "name": "TANJUNG PAUH 32"
+  "districtName": "MESTONG",
+  "name": "TANJUNG PAUH 32",
+  "postalCode": ""
  },
  {
   "id": 1505010032,
   "districtId": 1505010,
-  "name": "KELURAHAN TEMPINO"
+  "districtName": "MESTONG",
+  "name": "KELURAHAN TEMPINO",
+  "postalCode": ""
  },
  {
   "id": 1505010033,
   "districtId": 1505010,
-  "name": "NAGA SARI"
+  "districtName": "MESTONG",
+  "name": "NAGA SARI",
+  "postalCode": "36364"
  },
  {
   "id": 1505010034,
   "districtId": 1505010,
-  "name": "SEBAPO"
+  "districtName": "MESTONG",
+  "name": "SEBAPO",
+  "postalCode": "36364"
  },
  {
   "id": 1505010035,
   "districtId": 1505010,
-  "name": "SUNGAI LANDAI"
+  "districtName": "MESTONG",
+  "name": "SUNGAI LANDAI",
+  "postalCode": "36364"
  },
  {
   "id": 1505010040,
   "districtId": 1505010,
-  "name": "SUKA MAJU"
+  "districtName": "MESTONG",
+  "name": "SUKA MAJU",
+  "postalCode": "24673"
  },
  {
   "id": 1505010041,
   "districtId": 1505010,
-  "name": "PONDOK MEJA"
+  "districtName": "MESTONG",
+  "name": "PONDOK MEJA",
+  "postalCode": "36364"
  },
  {
   "id": 1505010042,
   "districtId": 1505010,
-  "name": "MUARO SEBAPO"
+  "districtName": "MESTONG",
+  "name": "MUARO SEBAPO",
+  "postalCode": "36364"
  },
  {
   "id": 1505010043,
   "districtId": 1505010,
-  "name": "TANJUNG PAUH TALANG PELITA"
+  "districtName": "MESTONG",
+  "name": "TANJUNG PAUH TALANG PELITA",
+  "postalCode": ""
  }
 ]

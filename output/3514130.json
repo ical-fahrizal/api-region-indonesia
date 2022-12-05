@@ -2,71 +2,99 @@
  {
   "id": 3514130001,
   "districtId": 3514130,
-  "name": "WONOSUNYO"
+  "districtName": "GEMPOL",
+  "name": "WONOSUNYO",
+  "postalCode": "67155"
  },
  {
   "id": 3514130002,
   "districtId": 3514130,
-  "name": "SUMBER SUKO"
+  "districtName": "GEMPOL",
+  "name": "SUMBER SUKO",
+  "postalCode": "32382"
  },
  {
   "id": 3514130003,
   "districtId": 3514130,
-  "name": "WONOSARI"
+  "districtName": "GEMPOL",
+  "name": "WONOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 3514130004,
   "districtId": 3514130,
-  "name": "KEPULUNGAN"
+  "districtName": "GEMPOL",
+  "name": "KEPULUNGAN",
+  "postalCode": "67155"
  },
  {
   "id": 3514130005,
   "districtId": 3514130,
-  "name": "RANDUPITU"
+  "districtName": "GEMPOL",
+  "name": "RANDUPITU",
+  "postalCode": "67155"
  },
  {
   "id": 3514130006,
   "districtId": 3514130,
-  "name": "NGERONG"
+  "districtName": "GEMPOL",
+  "name": "NGERONG",
+  "postalCode": "67155"
  },
  {
   "id": 3514130008,
   "districtId": 3514130,
-  "name": "KARANGREJO"
+  "districtName": "GEMPOL",
+  "name": "KARANGREJO",
+  "postalCode": "35387"
  },
  {
   "id": 3514130009,
   "districtId": 3514130,
-  "name": "BULUSARI"
+  "districtName": "GEMPOL",
+  "name": "BULUSARI",
+  "postalCode": "34161"
  },
  {
   "id": 3514130010,
   "districtId": 3514130,
-  "name": "WATUKOSEK"
+  "districtName": "GEMPOL",
+  "name": "WATUKOSEK",
+  "postalCode": "67155"
  },
  {
   "id": 3514130011,
   "districtId": 3514130,
-  "name": "CARAT"
+  "districtName": "GEMPOL",
+  "name": "CARAT",
+  "postalCode": "67155"
  },
  {
   "id": 3514130012,
   "districtId": 3514130,
-  "name": "KEJAPANAN"
+  "districtName": "GEMPOL",
+  "name": "KEJAPANAN",
+  "postalCode": "67155"
  },
  {
   "id": 3514130013,
   "districtId": 3514130,
-  "name": "WINONG"
+  "districtName": "GEMPOL",
+  "name": "WINONG",
+  "postalCode": "45161"
  },
  {
   "id": 3514130014,
   "districtId": 3514130,
-  "name": "LEGOK"
+  "districtName": "GEMPOL",
+  "name": "LEGOK",
+  "postalCode": "36121"
  },
  {
   "id": 3514130015,
   "districtId": 3514130,
-  "name": "GEMPOL"
+  "districtName": "GEMPOL",
+  "name": "GEMPOL",
+  "postalCode": "41374"
  }
 ]

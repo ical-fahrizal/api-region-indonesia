@@ -2,81 +2,113 @@
  {
   "id": 3315020002,
   "districtId": 3315020,
-  "name": "KETRO"
+  "districtName": "KARANGRAYUNG",
+  "name": "KETRO",
+  "postalCode": "58163"
  },
  {
   "id": 3315020003,
   "districtId": 3315020,
-  "name": "SENDANGHARJO"
+  "districtName": "KARANGRAYUNG",
+  "name": "SENDANGHARJO",
+  "postalCode": "58219"
  },
  {
   "id": 3315020004,
   "districtId": 3315020,
-  "name": "KARANGANYAR"
+  "districtName": "KARANGRAYUNG",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  },
  {
   "id": 3315020005,
   "districtId": 3315020,
-  "name": "PARAKAN"
+  "districtName": "KARANGRAYUNG",
+  "name": "PARAKAN",
+  "postalCode": "16610"
  },
  {
   "id": 3315020006,
   "districtId": 3315020,
-  "name": "NAMPU"
+  "districtName": "KARANGRAYUNG",
+  "name": "NAMPU",
+  "postalCode": "58163"
  },
  {
   "id": 3315020007,
   "districtId": 3315020,
-  "name": "KARANGSONO"
+  "districtName": "KARANGRAYUNG",
+  "name": "KARANGSONO",
+  "postalCode": "58163"
  },
  {
   "id": 3315020008,
   "districtId": 3315020,
-  "name": "JETIS"
+  "districtName": "KARANGRAYUNG",
+  "name": "JETIS",
+  "postalCode": "57556"
  },
  {
   "id": 3315020009,
   "districtId": 3315020,
-  "name": "TELAWAH"
+  "districtName": "KARANGRAYUNG",
+  "name": "TELAWAH",
+  "postalCode": "58163"
  },
  {
   "id": 3315020011,
   "districtId": 3315020,
-  "name": "MANGIN"
+  "districtName": "KARANGRAYUNG",
+  "name": "MANGIN",
+  "postalCode": "58163"
  },
  {
   "id": 3315020012,
   "districtId": 3315020,
-  "name": "SUMBERJOSARI"
+  "districtName": "KARANGRAYUNG",
+  "name": "SUMBERJOSARI",
+  "postalCode": ""
  },
  {
   "id": 3315020013,
   "districtId": 3315020,
-  "name": "MOJOAGUNG"
+  "districtName": "KARANGRAYUNG",
+  "name": "MOJOAGUNG",
+  "postalCode": "58163"
  },
  {
   "id": 3315020014,
   "districtId": 3315020,
-  "name": "PANGKALAN"
+  "districtName": "KARANGRAYUNG",
+  "name": "PANGKALAN",
+  "postalCode": "24477"
  },
  {
   "id": 3315020015,
   "districtId": 3315020,
-  "name": "RAWOH"
+  "districtName": "KARANGRAYUNG",
+  "name": "RAWOH",
+  "postalCode": "58163"
  },
  {
   "id": 3315020017,
   "districtId": 3315020,
-  "name": "TERMAS"
+  "districtName": "KARANGRAYUNG",
+  "name": "TERMAS",
+  "postalCode": "58163"
  },
  {
   "id": 3315020018,
   "districtId": 3315020,
-  "name": "PUTATNGANTEN"
+  "districtName": "KARANGRAYUNG",
+  "name": "PUTATNGANTEN",
+  "postalCode": "58163"
  },
  {
   "id": 3315020019,
   "districtId": 3315020,
-  "name": "TEMUREJO"
+  "districtName": "KARANGRAYUNG",
+  "name": "TEMUREJO",
+  "postalCode": "58219"
  }
 ]

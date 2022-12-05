@@ -2,26 +2,36 @@
  {
   "id": 1571060001,
   "districtId": 1571060,
-  "name": "PASIR PANJANG"
+  "districtName": "DANAU TELUK",
+  "name": "PASIR PANJANG",
+  "postalCode": "36265"
  },
  {
   "id": 1571060002,
   "districtId": 1571060,
-  "name": "TANJUNG RADEN"
+  "districtName": "DANAU TELUK",
+  "name": "TANJUNG RADEN",
+  "postalCode": "36264"
  },
  {
   "id": 1571060003,
   "districtId": 1571060,
-  "name": "TANJUNG PASIR"
+  "districtName": "DANAU TELUK",
+  "name": "TANJUNG PASIR",
+  "postalCode": "21457"
  },
  {
   "id": 1571060004,
   "districtId": 1571060,
-  "name": "OLAK KEMANG"
+  "districtName": "DANAU TELUK",
+  "name": "OLAK KEMANG",
+  "postalCode": "36262"
  },
  {
   "id": 1571060005,
   "districtId": 1571060,
-  "name": "ULU GEDONG"
+  "districtName": "DANAU TELUK",
+  "name": "ULU GEDONG",
+  "postalCode": "36261"
  }
 ]

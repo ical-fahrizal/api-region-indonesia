@@ -2,61 +2,85 @@
  {
   "id": 1813040001,
   "districtId": 1813040,
-  "name": "TEMBAKAK WAY SINDI"
+  "districtName": "KARYA PENGGAWA",
+  "name": "TEMBAKAK WAY SINDI",
+  "postalCode": ""
  },
  {
   "id": 1813040002,
   "districtId": 1813040,
-  "name": "WAY SINDI UTARA"
+  "districtName": "KARYA PENGGAWA",
+  "name": "WAY SINDI UTARA",
+  "postalCode": "34878"
  },
  {
   "id": 1813040003,
   "districtId": 1813040,
-  "name": "ASAHAN WAY SINDI"
+  "districtName": "KARYA PENGGAWA",
+  "name": "ASAHAN WAY SINDI",
+  "postalCode": "34878"
  },
  {
   "id": 1813040004,
   "districtId": 1813040,
-  "name": "WAY SINDI HANUAN"
+  "districtName": "KARYA PENGGAWA",
+  "name": "WAY SINDI HANUAN",
+  "postalCode": "34878"
  },
  {
   "id": 1813040005,
   "districtId": 1813040,
-  "name": "WAY SINDI"
+  "districtName": "KARYA PENGGAWA",
+  "name": "WAY SINDI",
+  "postalCode": "34878"
  },
  {
   "id": 1813040006,
   "districtId": 1813040,
-  "name": "KEBUAYAN"
+  "districtName": "KARYA PENGGAWA",
+  "name": "KEBUAYAN",
+  "postalCode": "34878"
  },
  {
   "id": 1813040007,
   "districtId": 1813040,
-  "name": "WAY NUKAK"
+  "districtName": "KARYA PENGGAWA",
+  "name": "WAY NUKAK",
+  "postalCode": "34878"
  },
  {
   "id": 1813040008,
   "districtId": 1813040,
-  "name": "LAAY"
+  "districtName": "KARYA PENGGAWA",
+  "name": "LAAY",
+  "postalCode": "34878"
  },
  {
   "id": 1813040009,
   "districtId": 1813040,
-  "name": "PENGGAWA LIMA ULU"
+  "districtName": "KARYA PENGGAWA",
+  "name": "PENGGAWA LIMA ULU",
+  "postalCode": ""
  },
  {
   "id": 1813040010,
   "districtId": 1813040,
-  "name": "PENENGAHAN"
+  "districtName": "KARYA PENGGAWA",
+  "name": "PENENGAHAN",
+  "postalCode": "34878"
  },
  {
   "id": 1813040011,
   "districtId": 1813040,
-  "name": "PENGGAWA LIMA TENGAH"
+  "districtName": "KARYA PENGGAWA",
+  "name": "PENGGAWA LIMA TENGAH",
+  "postalCode": ""
  },
  {
   "id": 1813040012,
   "districtId": 1813040,
-  "name": "MENYANCANG"
+  "districtName": "KARYA PENGGAWA",
+  "name": "MENYANCANG",
+  "postalCode": "34878"
  }
 ]

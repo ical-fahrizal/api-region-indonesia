@@ -2,16 +2,22 @@
  {
   "id": 2103042001,
   "districtId": 2103042,
-  "name": "AIR PAYANG"
+  "districtName": "PULAU LAUT",
+  "name": "AIR PAYANG",
+  "postalCode": "29783"
  },
  {
   "id": 2103042002,
   "districtId": 2103042,
-  "name": "TANJUNG PALA"
+  "districtName": "PULAU LAUT",
+  "name": "TANJUNG PALA",
+  "postalCode": "29783"
  },
  {
   "id": 2103042003,
   "districtId": 2103042,
-  "name": "KADUR"
+  "districtName": "PULAU LAUT",
+  "name": "KADUR",
+  "postalCode": "28781"
  }
 ]

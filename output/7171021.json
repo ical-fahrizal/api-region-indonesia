@@ -2,46 +2,64 @@
  {
   "id": 7171021001,
   "districtId": 7171021,
-  "name": "KAROMBASAN UTARA"
+  "districtName": "WANEA",
+  "name": "KAROMBASAN UTARA",
+  "postalCode": "95117"
  },
  {
   "id": 7171021002,
   "districtId": 7171021,
-  "name": "KAROMBASAN SELATAN"
+  "districtName": "WANEA",
+  "name": "KAROMBASAN SELATAN",
+  "postalCode": "95117"
  },
  {
   "id": 7171021003,
   "districtId": 7171021,
-  "name": "RANOTANA WERU"
+  "districtName": "WANEA",
+  "name": "RANOTANA WERU",
+  "postalCode": "95118"
  },
  {
   "id": 7171021004,
   "districtId": 7171021,
-  "name": "PAKOWA"
+  "districtName": "WANEA",
+  "name": "PAKOWA",
+  "postalCode": "95119"
  },
  {
   "id": 7171021005,
   "districtId": 7171021,
-  "name": "BUMI NYIUR"
+  "districtName": "WANEA",
+  "name": "BUMI NYIUR",
+  "postalCode": "95117"
  },
  {
   "id": 7171021006,
   "districtId": 7171021,
-  "name": "TELING ATAS"
+  "districtName": "WANEA",
+  "name": "TELING ATAS",
+  "postalCode": "95119"
  },
  {
   "id": 7171021007,
   "districtId": 7171021,
-  "name": "WANEA"
+  "districtName": "WANEA",
+  "name": "WANEA",
+  "postalCode": "95117"
  },
  {
   "id": 7171021008,
   "districtId": 7171021,
-  "name": "TANJUNG BATU"
+  "districtName": "WANEA",
+  "name": "TANJUNG BATU",
+  "postalCode": "37173"
  },
  {
   "id": 7171021009,
   "districtId": 7171021,
-  "name": "TINGKULU"
+  "districtName": "WANEA",
+  "name": "TINGKULU",
+  "postalCode": "95117"
  }
 ]

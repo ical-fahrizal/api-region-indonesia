@@ -2,51 +2,71 @@
  {
   "id": 1373030001,
   "districtId": 1373030,
-  "name": "LUMINDAI"
+  "districtName": "BARANGIN",
+  "name": "LUMINDAI",
+  "postalCode": "27421"
  },
  {
   "id": 1373030002,
   "districtId": 1373030,
-  "name": "BALAI BATU SANDARAN"
+  "districtName": "BARANGIN",
+  "name": "BALAI BATU SANDARAN",
+  "postalCode": "27422"
  },
  {
   "id": 1373030003,
   "districtId": 1373030,
-  "name": "SARINGAN"
+  "districtName": "BARANGIN",
+  "name": "SARINGAN",
+  "postalCode": "27421"
  },
  {
   "id": 1373030004,
   "districtId": 1373030,
-  "name": "LUBANG PANJANG"
+  "districtName": "BARANGIN",
+  "name": "LUBANG PANJANG",
+  "postalCode": "27424"
  },
  {
   "id": 1373030005,
   "districtId": 1373030,
-  "name": "DURIAN I"
+  "districtName": "BARANGIN",
+  "name": "DURIAN I",
+  "postalCode": "27425"
  },
  {
   "id": 1373030006,
   "districtId": 1373030,
-  "name": "DURIAN II"
+  "districtName": "BARANGIN",
+  "name": "DURIAN II",
+  "postalCode": "27425"
  },
  {
   "id": 1373030007,
   "districtId": 1373030,
-  "name": "TALAGO GUNUNG"
+  "districtName": "BARANGIN",
+  "name": "TALAGO GUNUNG",
+  "postalCode": ""
  },
  {
   "id": 1373030008,
   "districtId": 1373030,
-  "name": "SANTUR"
+  "districtName": "BARANGIN",
+  "name": "SANTUR",
+  "postalCode": ""
  },
  {
   "id": 1373030009,
   "districtId": 1373030,
-  "name": "KOLOK MUDIK"
+  "districtName": "BARANGIN",
+  "name": "KOLOK MUDIK",
+  "postalCode": ""
  },
  {
   "id": 1373030010,
   "districtId": 1373030,
-  "name": "KOLOK NAN TUO"
+  "districtName": "BARANGIN",
+  "name": "KOLOK NAN TUO",
+  "postalCode": "27427"
  }
 ]

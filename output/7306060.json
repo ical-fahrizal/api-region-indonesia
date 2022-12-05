@@ -2,36 +2,50 @@
  {
   "id": 7306060005,
   "districtId": 7306060,
-  "name": "LONJOBOKO"
+  "districtName": "PARANGLOE",
+  "name": "LONJOBOKO",
+  "postalCode": "92173"
  },
  {
   "id": 7306060006,
   "districtId": 7306060,
-  "name": "BORISALLO"
+  "districtName": "PARANGLOE",
+  "name": "BORISALLO",
+  "postalCode": ""
  },
  {
   "id": 7306060007,
   "districtId": 7306060,
-  "name": "LANNA"
+  "districtName": "PARANGLOE",
+  "name": "LANNA",
+  "postalCode": "92173"
  },
  {
   "id": 7306060008,
   "districtId": 7306060,
-  "name": "BONTOPARANG"
+  "districtName": "PARANGLOE",
+  "name": "BONTOPARANG",
+  "postalCode": "92261"
  },
  {
   "id": 7306060009,
   "districtId": 7306060,
-  "name": "BELAPUNRANGA"
+  "districtName": "PARANGLOE",
+  "name": "BELAPUNRANGA",
+  "postalCode": "92173"
  },
  {
   "id": 7306060010,
   "districtId": 7306060,
-  "name": "BONTOKASSI"
+  "districtName": "PARANGLOE",
+  "name": "BONTOKASSI",
+  "postalCode": "92173"
  },
  {
   "id": 7306060011,
   "districtId": 7306060,
-  "name": "BELABORI"
+  "districtName": "PARANGLOE",
+  "name": "BELABORI",
+  "postalCode": "92173"
  }
 ]

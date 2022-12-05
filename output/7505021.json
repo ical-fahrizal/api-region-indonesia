@@ -2,51 +2,71 @@
  {
   "id": 7505021001,
   "districtId": 7505021,
-  "name": "DAMBALO"
+  "districtName": "TOMILITO",
+  "name": "DAMBALO",
+  "postalCode": "96467"
  },
  {
   "id": 7505021002,
   "districtId": 7505021,
-  "name": "MOLANTADU"
+  "districtName": "TOMILITO",
+  "name": "MOLANTADU",
+  "postalCode": "96252"
  },
  {
   "id": 7505021003,
   "districtId": 7505021,
-  "name": "TANJUNG KARANG"
+  "districtName": "TOMILITO",
+  "name": "TANJUNG KARANG",
+  "postalCode": "24476"
  },
  {
   "id": 7505021004,
   "districtId": 7505021,
-  "name": "JEMBATAN MERAH"
+  "districtName": "TOMILITO",
+  "name": "JEMBATAN MERAH",
+  "postalCode": "71281"
  },
  {
   "id": 7505021005,
   "districtId": 7505021,
-  "name": "LEYAO"
+  "districtName": "TOMILITO",
+  "name": "LEYAO",
+  "postalCode": "96252"
  },
  {
   "id": 7505021006,
   "districtId": 7505021,
-  "name": "MILANGO"
+  "districtName": "TOMILITO",
+  "name": "MILANGO",
+  "postalCode": "96252"
  },
  {
   "id": 7505021007,
   "districtId": 7505021,
-  "name": "BUBODE"
+  "districtName": "TOMILITO",
+  "name": "BUBODE",
+  "postalCode": "96252"
  },
  {
   "id": 7505021008,
   "districtId": 7505021,
-  "name": "BULANGO RAYA"
+  "districtName": "TOMILITO",
+  "name": "BULANGO RAYA",
+  "postalCode": "96252"
  },
  {
   "id": 7505021009,
   "districtId": 7505021,
-  "name": "HUIDU MELITO"
+  "districtName": "TOMILITO",
+  "name": "HUIDU MELITO",
+  "postalCode": "96252"
  },
  {
   "id": 7505021010,
   "districtId": 7505021,
-  "name": "MUTIARA LAUT"
+  "districtName": "TOMILITO",
+  "name": "MUTIARA LAUT",
+  "postalCode": "96252"
  }
 ]

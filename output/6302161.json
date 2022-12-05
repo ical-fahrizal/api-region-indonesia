@@ -2,31 +2,43 @@
  {
   "id": 6302161001,
   "districtId": 6302161,
-  "name": "BATANG KULUR"
+  "districtName": "KELUMPANG BARAT",
+  "name": "BATANG KULUR",
+  "postalCode": "72164"
  },
  {
   "id": 6302161002,
   "districtId": 6302161,
-  "name": "BUNGKUKAN"
+  "districtName": "KELUMPANG BARAT",
+  "name": "BUNGKUKAN",
+  "postalCode": "72164"
  },
  {
   "id": 6302161003,
   "districtId": 6302161,
-  "name": "SIAYUH"
+  "districtName": "KELUMPANG BARAT",
+  "name": "SIAYUH",
+  "postalCode": ""
  },
  {
   "id": 6302161004,
   "districtId": 6302161,
-  "name": "TANJUNG SARI"
+  "districtName": "KELUMPANG BARAT",
+  "name": "TANJUNG SARI",
+  "postalCode": "24673"
  },
  {
   "id": 6302161005,
   "districtId": 6302161,
-  "name": "MAGALAU HILIR"
+  "districtName": "KELUMPANG BARAT",
+  "name": "MAGALAU HILIR",
+  "postalCode": "72167"
  },
  {
   "id": 6302161006,
   "districtId": 6302161,
-  "name": "MAGALAU HULU"
+  "districtName": "KELUMPANG BARAT",
+  "name": "MAGALAU HULU",
+  "postalCode": "72167"
  }
 ]

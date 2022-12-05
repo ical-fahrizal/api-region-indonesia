@@ -2,56 +2,78 @@
  {
   "id": 7403184001,
   "districtId": 7403184,
-  "name": "ATODOPI"
+  "districtName": "PADANGGUNI",
+  "name": "ATODOPI",
+  "postalCode": ""
  },
  {
   "id": 7403184002,
   "districtId": 7403184,
-  "name": "MATAHORI"
+  "districtName": "PADANGGUNI",
+  "name": "MATAHORI",
+  "postalCode": ""
  },
  {
   "id": 7403184003,
   "districtId": 7403184,
-  "name": "SAMBAOSU"
+  "districtName": "PADANGGUNI",
+  "name": "SAMBAOSU",
+  "postalCode": "93452"
  },
  {
   "id": 7403184004,
   "districtId": 7403184,
-  "name": "MATANGGORAI"
+  "districtName": "PADANGGUNI",
+  "name": "MATANGGORAI",
+  "postalCode": "93452"
  },
  {
   "id": 7403184005,
   "districtId": 7403184,
-  "name": "ALOSIKA"
+  "districtName": "PADANGGUNI",
+  "name": "ALOSIKA",
+  "postalCode": "93452"
  },
  {
   "id": 7403184006,
   "districtId": 7403184,
-  "name": "MEKAR JAYA"
+  "districtName": "PADANGGUNI",
+  "name": "MEKAR JAYA",
+  "postalCode": "20771"
  },
  {
   "id": 7403184007,
   "districtId": 7403184,
-  "name": "LANGGEA"
+  "districtName": "PADANGGUNI",
+  "name": "LANGGEA",
+  "postalCode": "93452"
  },
  {
   "id": 7403184008,
   "districtId": 7403184,
-  "name": "ALEUTI"
+  "districtName": "PADANGGUNI",
+  "name": "ALEUTI",
+  "postalCode": "93452"
  },
  {
   "id": 7403184009,
   "districtId": 7403184,
-  "name": "GARUDA"
+  "districtName": "PADANGGUNI",
+  "name": "GARUDA",
+  "postalCode": "40184"
  },
  {
   "id": 7403184010,
   "districtId": 7403184,
-  "name": "PADANGGUNI"
+  "districtName": "PADANGGUNI",
+  "name": "PADANGGUNI",
+  "postalCode": "93452"
  },
  {
   "id": 7403184011,
   "districtId": 7403184,
-  "name": "PADANG MEKAR"
+  "districtName": "PADANGGUNI",
+  "name": "PADANG MEKAR",
+  "postalCode": "93452"
  }
 ]

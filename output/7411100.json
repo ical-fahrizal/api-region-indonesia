@@ -2,61 +2,85 @@
  {
   "id": 7411100001,
   "districtId": 7411100,
-  "name": "WEAMO"
+  "districtName": "TINONDO",
+  "name": "WEAMO",
+  "postalCode": "93571"
  },
  {
   "id": 7411100002,
   "districtId": 7411100,
-  "name": "TINENGI"
+  "districtName": "TINONDO",
+  "name": "TINENGI",
+  "postalCode": ""
  },
  {
   "id": 7411100003,
   "districtId": 7411100,
-  "name": "LAMUNDE"
+  "districtName": "TINONDO",
+  "name": "LAMUNDE",
+  "postalCode": "93571"
  },
  {
   "id": 7411100004,
   "districtId": 7411100,
-  "name": "TALATA"
+  "districtName": "TINONDO",
+  "name": "TALATA",
+  "postalCode": "93571"
  },
  {
   "id": 7411100005,
   "districtId": 7411100,
-  "name": "IWOIMEA"
+  "districtName": "TINONDO",
+  "name": "IWOIMEA",
+  "postalCode": ""
  },
  {
   "id": 7411100006,
   "districtId": 7411100,
-  "name": "TAWAROMBADAKA"
+  "districtName": "TINONDO",
+  "name": "TAWAROMBADAKA",
+  "postalCode": "93571"
  },
  {
   "id": 7411100007,
   "districtId": 7411100,
-  "name": "SOLEWATU"
+  "districtName": "TINONDO",
+  "name": "SOLEWATU",
+  "postalCode": "93571"
  },
  {
   "id": 7411100008,
   "districtId": 7411100,
-  "name": "TAWA-TAWARO"
+  "districtName": "TINONDO",
+  "name": "TAWA-TAWARO",
+  "postalCode": ""
  },
  {
   "id": 7411100009,
   "districtId": 7411100,
-  "name": "AMBAPA"
+  "districtName": "TINONDO",
+  "name": "AMBAPA",
+  "postalCode": "93571"
  },
  {
   "id": 7411100010,
   "districtId": 7411100,
-  "name": "TUTUWI"
+  "districtName": "TINONDO",
+  "name": "TUTUWI",
+  "postalCode": ""
  },
  {
   "id": 7411100011,
   "districtId": 7411100,
-  "name": "SINGGERE"
+  "districtName": "TINONDO",
+  "name": "SINGGERE",
+  "postalCode": ""
  },
  {
   "id": 7411100012,
   "districtId": 7411100,
-  "name": "AMERORO"
+  "districtName": "TINONDO",
+  "name": "AMERORO",
+  "postalCode": "93571"
  }
 ]

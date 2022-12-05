@@ -2,56 +2,78 @@
  {
   "id": 3326030001,
   "districtId": 3326030,
-  "name": "TEMBELANG GUNUNG"
+  "districtName": "LEBAKBARANG",
+  "name": "TEMBELANG GUNUNG",
+  "postalCode": "51183"
  },
  {
   "id": 3326030002,
   "districtId": 3326030,
-  "name": "PAMUTUH"
+  "districtName": "LEBAKBARANG",
+  "name": "PAMUTUH",
+  "postalCode": "51183"
  },
  {
   "id": 3326030003,
   "districtId": 3326030,
-  "name": "DEPOK"
+  "districtName": "LEBAKBARANG",
+  "name": "DEPOK",
+  "postalCode": "44174"
  },
  {
   "id": 3326030004,
   "districtId": 3326030,
-  "name": "WONOSIDO"
+  "districtName": "LEBAKBARANG",
+  "name": "WONOSIDO",
+  "postalCode": "51183"
  },
  {
   "id": 3326030005,
   "districtId": 3326030,
-  "name": "TIMBANGSARI"
+  "districtName": "LEBAKBARANG",
+  "name": "TIMBANGSARI",
+  "postalCode": "51183"
  },
  {
   "id": 3326030006,
   "districtId": 3326030,
-  "name": "SIDOMULYO"
+  "districtName": "LEBAKBARANG",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  },
  {
   "id": 3326030007,
   "districtId": 3326030,
-  "name": "KUTOREMBET"
+  "districtName": "LEBAKBARANG",
+  "name": "KUTOREMBET",
+  "postalCode": "51183"
  },
  {
   "id": 3326030008,
   "districtId": 3326030,
-  "name": "LEBAKBARANG"
+  "districtName": "LEBAKBARANG",
+  "name": "LEBAKBARANG",
+  "postalCode": "51183"
  },
  {
   "id": 3326030009,
   "districtId": 3326030,
-  "name": "KAPUNDUTAN"
+  "districtName": "LEBAKBARANG",
+  "name": "KAPUNDUTAN",
+  "postalCode": "51183"
  },
  {
   "id": 3326030010,
   "districtId": 3326030,
-  "name": "BANTAR KULON"
+  "districtName": "LEBAKBARANG",
+  "name": "BANTAR KULON",
+  "postalCode": "51183"
  },
  {
   "id": 3326030011,
   "districtId": 3326030,
-  "name": "MENDOLO"
+  "districtName": "LEBAKBARANG",
+  "name": "MENDOLO",
+  "postalCode": "51183"
  }
 ]

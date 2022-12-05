@@ -2,21 +2,29 @@
  {
   "id": 1671071001,
   "districtId": 1671071,
-  "name": "LEBONG GAJAH"
+  "districtName": "SEMATANG BORANG",
+  "name": "LEBONG GAJAH",
+  "postalCode": ""
  },
  {
   "id": 1671071002,
   "districtId": 1671071,
-  "name": "SRIMULYO"
+  "districtName": "SEMATANG BORANG",
+  "name": "SRIMULYO",
+  "postalCode": "30975"
  },
  {
   "id": 1671071003,
   "districtId": 1671071,
-  "name": "SUKA MULYA"
+  "districtName": "SEMATANG BORANG",
+  "name": "SUKA MULYA",
+  "postalCode": "28463"
  },
  {
   "id": 1671071004,
   "districtId": 1671071,
-  "name": "KARYA MULYA"
+  "districtName": "SEMATANG BORANG",
+  "name": "KARYA MULYA",
+  "postalCode": "28565"
  }
 ]

@@ -2,161 +2,225 @@
  {
   "id": 7202060001,
   "districtId": 7202060,
-  "name": "BALOA DODA"
+  "districtName": "PAGIMANA",
+  "name": "BALOA DODA",
+  "postalCode": ""
  },
  {
   "id": 7202060002,
   "districtId": 7202060,
-  "name": "ASAAN"
+  "districtName": "PAGIMANA",
+  "name": "ASAAN",
+  "postalCode": "94752"
  },
  {
   "id": 7202060011,
   "districtId": 7202060,
-  "name": "PAKOWA"
+  "districtName": "PAGIMANA",
+  "name": "PAKOWA",
+  "postalCode": "95119"
  },
  {
   "id": 7202060012,
   "districtId": 7202060,
-  "name": "LAMO"
+  "districtName": "PAGIMANA",
+  "name": "LAMO",
+  "postalCode": "94762"
  },
  {
   "id": 7202060013,
   "districtId": 7202060,
-  "name": "NAIN"
+  "districtName": "PAGIMANA",
+  "name": "NAIN",
+  "postalCode": "95376"
  },
  {
   "id": 7202060014,
   "districtId": 7202060,
-  "name": "PINAPUAN"
+  "districtName": "PAGIMANA",
+  "name": "PINAPUAN",
+  "postalCode": "94752"
  },
  {
   "id": 7202060015,
   "districtId": 7202060,
-  "name": "SINAMPANGNYO"
+  "districtName": "PAGIMANA",
+  "name": "SINAMPANGNYO",
+  "postalCode": "94752"
  },
  {
   "id": 7202060016,
   "districtId": 7202060,
-  "name": "HOHUDONGAN"
+  "districtName": "PAGIMANA",
+  "name": "HOHUDONGAN",
+  "postalCode": "94752"
  },
  {
   "id": 7202060017,
   "districtId": 7202060,
-  "name": "TONGKONUNUK"
+  "districtName": "PAGIMANA",
+  "name": "TONGKONUNUK",
+  "postalCode": "94752"
  },
  {
   "id": 7202060018,
   "districtId": 7202060,
-  "name": "JAYA BAKTI"
+  "districtName": "PAGIMANA",
+  "name": "JAYA BAKTI",
+  "postalCode": "32362"
  },
  {
   "id": 7202060019,
   "districtId": 7202060,
-  "name": "PAGIMANA"
+  "districtName": "PAGIMANA",
+  "name": "PAGIMANA",
+  "postalCode": "94752"
  },
  {
   "id": 7202060020,
   "districtId": 7202060,
-  "name": "BASABUNGAN"
+  "districtName": "PAGIMANA",
+  "name": "BASABUNGAN",
+  "postalCode": "94752"
  },
  {
   "id": 7202060021,
   "districtId": 7202060,
-  "name": "PISOU"
+  "districtName": "PAGIMANA",
+  "name": "PISOU",
+  "postalCode": "94752"
  },
  {
   "id": 7202060022,
   "districtId": 7202060,
-  "name": "LAMBANGAN"
+  "districtName": "PAGIMANA",
+  "name": "LAMBANGAN",
+  "postalCode": "59372"
  },
  {
   "id": 7202060023,
   "districtId": 7202060,
-  "name": "SEPAK"
+  "districtName": "PAGIMANA",
+  "name": "SEPAK",
+  "postalCode": "94752"
  },
  {
   "id": 7202060024,
   "districtId": 7202060,
-  "name": "TALOYON"
+  "districtName": "PAGIMANA",
+  "name": "TALOYON",
+  "postalCode": "94752"
  },
  {
   "id": 7202060025,
   "districtId": 7202060,
-  "name": "UWEDAKA"
+  "districtName": "PAGIMANA",
+  "name": "UWEDAKA",
+  "postalCode": "94752"
  },
  {
   "id": 7202060026,
   "districtId": 7202060,
-  "name": "TINTINGAN"
+  "districtName": "PAGIMANA",
+  "name": "TINTINGAN",
+  "postalCode": "94773"
  },
  {
   "id": 7202060027,
   "districtId": 7202060,
-  "name": "BUNGAWON"
+  "districtName": "PAGIMANA",
+  "name": "BUNGAWON",
+  "postalCode": "94752"
  },
  {
   "id": 7202060028,
   "districtId": 7202060,
-  "name": "HUHAK"
+  "districtName": "PAGIMANA",
+  "name": "HUHAK",
+  "postalCode": "94753"
  },
  {
   "id": 7202060029,
   "districtId": 7202060,
-  "name": "POH"
+  "districtName": "PAGIMANA",
+  "name": "POH",
+  "postalCode": "94752"
  },
  {
   "id": 7202060030,
   "districtId": 7202060,
-  "name": "TOIPAN"
+  "districtName": "PAGIMANA",
+  "name": "TOIPAN",
+  "postalCode": "94752"
  },
  {
   "id": 7202060031,
   "districtId": 7202060,
-  "name": "SIUNA"
+  "districtName": "PAGIMANA",
+  "name": "SIUNA",
+  "postalCode": "94752"
  },
  {
   "id": 7202060032,
   "districtId": 7202060,
-  "name": "BAJO POAT"
+  "districtName": "PAGIMANA",
+  "name": "BAJO POAT",
+  "postalCode": "94752"
  },
  {
   "id": 7202060033,
   "districtId": 7202060,
-  "name": "BALAI GONDI"
+  "districtName": "PAGIMANA",
+  "name": "BALAI GONDI",
+  "postalCode": "94752"
  },
  {
   "id": 7202060034,
   "districtId": 7202060,
-  "name": "TAMPE"
+  "districtName": "PAGIMANA",
+  "name": "TAMPE",
+  "postalCode": "94752"
  },
  {
   "id": 7202060035,
   "districtId": 7202060,
-  "name": "GOMUO"
+  "districtName": "PAGIMANA",
+  "name": "GOMUO",
+  "postalCode": "94752"
  },
  {
   "id": 7202060037,
   "districtId": 7202060,
-  "name": "SAMMA JATEM"
+  "districtName": "PAGIMANA",
+  "name": "SAMMA JATEM",
+  "postalCode": ""
  },
  {
   "id": 7202060038,
   "districtId": 7202060,
-  "name": "BONDAT"
+  "districtName": "PAGIMANA",
+  "name": "BONDAT",
+  "postalCode": "94752"
  },
  {
   "id": 7202060041,
   "districtId": 7202060,
-  "name": "AMPERA"
+  "districtName": "PAGIMANA",
+  "name": "AMPERA",
+  "postalCode": "24671"
  },
  {
   "id": 7202060043,
   "districtId": 7202060,
-  "name": "TOMBANG"
+  "districtName": "PAGIMANA",
+  "name": "TOMBANG",
+  "postalCode": "94752"
  },
  {
   "id": 7202060044,
   "districtId": 7202060,
-  "name": "DONGKALAN"
+  "districtName": "PAGIMANA",
+  "name": "DONGKALAN",
+  "postalCode": "94975"
  }
 ]

@@ -2,56 +2,78 @@
  {
   "id": 6202110005,
   "districtId": 6202110,
-  "name": "PALANGAN"
+  "districtName": "KOTA BESI",
+  "name": "PALANGAN",
+  "postalCode": "68372"
  },
  {
   "id": 6202110006,
   "districtId": 6202110,
-  "name": "HANJALIPAN"
+  "districtName": "KOTA BESI",
+  "name": "HANJALIPAN",
+  "postalCode": "74353"
  },
  {
   "id": 6202110007,
   "districtId": 6202110,
-  "name": "SIMPUR"
+  "districtName": "KOTA BESI",
+  "name": "SIMPUR",
+  "postalCode": "24582"
  },
  {
   "id": 6202110008,
   "districtId": 6202110,
-  "name": "PAMALIAN"
+  "districtName": "KOTA BESI",
+  "name": "PAMALIAN",
+  "postalCode": "74353"
  },
  {
   "id": 6202110009,
   "districtId": 6202110,
-  "name": "CAMBA"
+  "districtName": "KOTA BESI",
+  "name": "CAMBA",
+  "postalCode": "74353"
  },
  {
   "id": 6202110010,
   "districtId": 6202110,
-  "name": "KANDAN"
+  "districtName": "KOTA BESI",
+  "name": "KANDAN",
+  "postalCode": "74353"
  },
  {
   "id": 6202110011,
   "districtId": 6202110,
-  "name": "KOTA BESI HULU"
+  "districtName": "KOTA BESI",
+  "name": "KOTA BESI HULU",
+  "postalCode": "74353"
  },
  {
   "id": 6202110012,
   "districtId": 6202110,
-  "name": "KOTA BESI HILIR"
+  "districtName": "KOTA BESI",
+  "name": "KOTA BESI HILIR",
+  "postalCode": "74353"
  },
  {
   "id": 6202110014,
   "districtId": 6202110,
-  "name": "BAJARUM"
+  "districtName": "KOTA BESI",
+  "name": "BAJARUM",
+  "postalCode": "74353"
  },
  {
   "id": 6202110015,
   "districtId": 6202110,
-  "name": "RASAU TUMBUH"
+  "districtName": "KOTA BESI",
+  "name": "RASAU TUMBUH",
+  "postalCode": "74353"
  },
  {
   "id": 6202110016,
   "districtId": 6202110,
-  "name": "SOREN"
+  "districtName": "KOTA BESI",
+  "name": "SOREN",
+  "postalCode": "29282"
  }
 ]

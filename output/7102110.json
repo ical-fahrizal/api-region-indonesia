@@ -2,46 +2,64 @@
  {
   "id": 7102110004,
   "districtId": 7102110,
-  "name": "KAMANGA"
+  "districtName": "TOMPASO",
+  "name": "KAMANGA",
+  "postalCode": "95693"
  },
  {
   "id": 7102110006,
   "districtId": 7102110,
-  "name": "LIBA"
+  "districtName": "TOMPASO",
+  "name": "LIBA",
+  "postalCode": "95693"
  },
  {
   "id": 7102110007,
   "districtId": 7102110,
-  "name": "SENDANGAN II"
+  "districtName": "TOMPASO",
+  "name": "SENDANGAN II",
+  "postalCode": ""
  },
  {
   "id": 7102110008,
   "districtId": 7102110,
-  "name": "TALIKURAN"
+  "districtName": "TOMPASO",
+  "name": "TALIKURAN",
+  "postalCode": "95682"
  },
  {
   "id": 7102110010,
   "districtId": 7102110,
-  "name": "TEMPOK"
+  "districtName": "TOMPASO",
+  "name": "TEMPOK",
+  "postalCode": "95693"
  },
  {
   "id": 7102110011,
   "districtId": 7102110,
-  "name": "TOLOK"
+  "districtName": "TOMPASO",
+  "name": "TOLOK",
+  "postalCode": "79364"
  },
  {
   "id": 7102110013,
   "districtId": 7102110,
-  "name": "KAMANGA SATU"
+  "districtName": "TOMPASO",
+  "name": "KAMANGA SATU",
+  "postalCode": ""
  },
  {
   "id": 7102110018,
   "districtId": 7102110,
-  "name": "TEMPOK SELATAN"
+  "districtName": "TOMPASO",
+  "name": "TEMPOK SELATAN",
+  "postalCode": "95693"
  },
  {
   "id": 7102110019,
   "districtId": 7102110,
-  "name": "TOLOK SATU"
+  "districtName": "TOMPASO",
+  "name": "TOLOK SATU",
+  "postalCode": "95693"
  }
 ]

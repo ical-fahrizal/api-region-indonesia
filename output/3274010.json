@@ -2,26 +2,36 @@
  {
   "id": 3274010001,
   "districtId": 3274010,
-  "name": "ARGASUNYA"
+  "districtName": "HARJAMUKTI",
+  "name": "ARGASUNYA",
+  "postalCode": "45145"
  },
  {
   "id": 3274010002,
   "districtId": 3274010,
-  "name": "KALIJAGA"
+  "districtName": "HARJAMUKTI",
+  "name": "KALIJAGA",
+  "postalCode": "45144"
  },
  {
   "id": 3274010003,
   "districtId": 3274010,
-  "name": "HARJAMUKTI"
+  "districtName": "HARJAMUKTI",
+  "name": "HARJAMUKTI",
+  "postalCode": "16454"
  },
  {
   "id": 3274010004,
   "districtId": 3274010,
-  "name": "KECAPI"
+  "districtName": "HARJAMUKTI",
+  "name": "KECAPI",
+  "postalCode": "35551"
  },
  {
   "id": 3274010005,
   "districtId": 3274010,
-  "name": "LARANGAN"
+  "districtName": "HARJAMUKTI",
+  "name": "LARANGAN",
+  "postalCode": "45141"
  }
 ]

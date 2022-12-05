@@ -2,66 +2,92 @@
  {
   "id": 6304080001,
   "districtId": 6304080,
-  "name": "RANGGA SURYA"
+  "districtName": "BELAWANG",
+  "name": "RANGGA SURYA",
+  "postalCode": "70563"
  },
  {
   "id": 6304080002,
   "districtId": 6304080,
-  "name": "KARANG BUAH"
+  "districtName": "BELAWANG",
+  "name": "KARANG BUAH",
+  "postalCode": "35683"
  },
  {
   "id": 6304080003,
   "districtId": 6304080,
-  "name": "KARANG DUKUH"
+  "districtName": "BELAWANG",
+  "name": "KARANG DUKUH",
+  "postalCode": "70563"
  },
  {
   "id": 6304080004,
   "districtId": 6304080,
-  "name": "SAMUDA"
+  "districtName": "BELAWANG",
+  "name": "SAMUDA",
+  "postalCode": "70563"
  },
  {
   "id": 6304080005,
   "districtId": 6304080,
-  "name": "MURUNG KERAMAT"
+  "districtName": "BELAWANG",
+  "name": "MURUNG KERAMAT",
+  "postalCode": "73512"
  },
  {
   "id": 6304080006,
   "districtId": 6304080,
-  "name": "SUNGAI SELUANG PASAR"
+  "districtName": "BELAWANG",
+  "name": "SUNGAI SELUANG PASAR",
+  "postalCode": ""
  },
  {
   "id": 6304080007,
   "districtId": 6304080,
-  "name": "SUNGAI SELUANG"
+  "districtName": "BELAWANG",
+  "name": "SUNGAI SELUANG",
+  "postalCode": ""
  },
  {
   "id": 6304080008,
   "districtId": 6304080,
-  "name": "BINAAN BARU"
+  "districtName": "BELAWANG",
+  "name": "BINAAN BARU",
+  "postalCode": "70563"
  },
  {
   "id": 6304080009,
   "districtId": 6304080,
-  "name": "BELAWANG"
+  "districtName": "BELAWANG",
+  "name": "BELAWANG",
+  "postalCode": "73593"
  },
  {
   "id": 6304080010,
   "districtId": 6304080,
-  "name": "PARIMATA"
+  "districtName": "BELAWANG",
+  "name": "PARIMATA",
+  "postalCode": "70563"
  },
  {
   "id": 6304080011,
   "districtId": 6304080,
-  "name": "PATIH SALERA"
+  "districtName": "BELAWANG",
+  "name": "PATIH SALERA",
+  "postalCode": "70563"
  },
  {
   "id": 6304080012,
   "districtId": 6304080,
-  "name": "BAMBANGIN"
+  "districtName": "BELAWANG",
+  "name": "BAMBANGIN",
+  "postalCode": "70563"
  },
  {
   "id": 6304080013,
   "districtId": 6304080,
-  "name": "SUKARAMAI"
+  "districtName": "BELAWANG",
+  "name": "SUKARAMAI",
+  "postalCode": "23243"
  }
 ]

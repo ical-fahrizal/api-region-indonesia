@@ -2,31 +2,43 @@
  {
   "id": 7104020005,
   "districtId": 7104020,
-  "name": "LIRUNG"
+  "districtName": "LIRUNG",
+  "name": "LIRUNG",
+  "postalCode": "95871"
  },
  {
   "id": 7104020008,
   "districtId": 7104020,
-  "name": "MUSI"
+  "districtName": "LIRUNG",
+  "name": "MUSI",
+  "postalCode": "81155"
  },
  {
   "id": 7104020011,
   "districtId": 7104020,
-  "name": "LIRUNG I"
+  "districtName": "LIRUNG",
+  "name": "LIRUNG I",
+  "postalCode": "95871"
  },
  {
   "id": 7104020012,
   "districtId": 7104020,
-  "name": "TALOLANG"
+  "districtName": "LIRUNG",
+  "name": "TALOLANG",
+  "postalCode": "95871"
  },
  {
   "id": 7104020014,
   "districtId": 7104020,
-  "name": "LIRUNG MATANE"
+  "districtName": "LIRUNG",
+  "name": "LIRUNG MATANE",
+  "postalCode": "95871"
  },
  {
   "id": 7104020019,
   "districtId": 7104020,
-  "name": "SEREH I"
+  "districtName": "LIRUNG",
+  "name": "SEREH I",
+  "postalCode": "95871"
  }
 ]

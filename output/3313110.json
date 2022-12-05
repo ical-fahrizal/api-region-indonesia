@@ -2,36 +2,50 @@
  {
   "id": 3313110001,
   "districtId": 3313110,
-  "name": "SURUHKALANG"
+  "districtName": "JATEN",
+  "name": "SURUHKALANG",
+  "postalCode": "57731"
  },
  {
   "id": 3313110002,
   "districtId": 3313110,
-  "name": "JATI"
+  "districtName": "JATEN",
+  "name": "JATI",
+  "postalCode": "20152"
  },
  {
   "id": 3313110003,
   "districtId": 3313110,
-  "name": "JATEN"
+  "districtName": "JATEN",
+  "name": "JATEN",
+  "postalCode": "57731"
  },
  {
   "id": 3313110004,
   "districtId": 3313110,
-  "name": "DAGEN"
+  "districtName": "JATEN",
+  "name": "DAGEN",
+  "postalCode": "57731"
  },
  {
   "id": 3313110005,
   "districtId": 3313110,
-  "name": "NGRINGO"
+  "districtName": "JATEN",
+  "name": "NGRINGO",
+  "postalCode": "57731"
  },
  {
   "id": 3313110006,
   "districtId": 3313110,
-  "name": "JETIS"
+  "districtName": "JATEN",
+  "name": "JETIS",
+  "postalCode": "57556"
  },
  {
   "id": 3313110007,
   "districtId": 3313110,
-  "name": "SROYO"
+  "districtName": "JATEN",
+  "name": "SROYO",
+  "postalCode": "57731"
  }
 ]

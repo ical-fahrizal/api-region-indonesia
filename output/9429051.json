@@ -2,81 +2,113 @@
  {
   "id": 9429051001,
   "districtId": 9429051,
-  "name": "YAL"
+  "districtName": "YAL",
+  "name": "YAL",
+  "postalCode": "99571"
  },
  {
   "id": 9429051002,
   "districtId": 9429051,
-  "name": "PALPAM"
+  "districtName": "YAL",
+  "name": "PALPAM",
+  "postalCode": "99571"
  },
  {
   "id": 9429051003,
   "districtId": 9429051,
-  "name": "SITBODO"
+  "districtName": "YAL",
+  "name": "SITBODO",
+  "postalCode": ""
  },
  {
   "id": 9429051004,
   "districtId": 9429051,
-  "name": "DIRINGGAMA"
+  "districtName": "YAL",
+  "name": "DIRINGGAMA",
+  "postalCode": "99571"
  },
  {
   "id": 9429051007,
   "districtId": 9429051,
-  "name": "YABA"
+  "districtName": "YAL",
+  "name": "YABA",
+  "postalCode": "97791"
  },
  {
   "id": 9429051008,
   "districtId": 9429051,
-  "name": "DENGPA"
+  "districtName": "YAL",
+  "name": "DENGPA",
+  "postalCode": "99571"
  },
  {
   "id": 9429051009,
   "districtId": 9429051,
-  "name": "GIRIMNAK"
+  "districtName": "YAL",
+  "name": "GIRIMNAK",
+  "postalCode": "99571"
  },
  {
   "id": 9429051010,
   "districtId": 9429051,
-  "name": "LAMBULE"
+  "districtName": "YAL",
+  "name": "LAMBULE",
+  "postalCode": "99571"
  },
  {
   "id": 9429051011,
   "districtId": 9429051,
-  "name": "SUJUMBODO"
+  "districtName": "YAL",
+  "name": "SUJUMBODO",
+  "postalCode": ""
  },
  {
   "id": 9429051012,
   "districtId": 9429051,
-  "name": "SUWELAMA"
+  "districtName": "YAL",
+  "name": "SUWELAMA",
+  "postalCode": ""
  },
  {
   "id": 9429051013,
   "districtId": 9429051,
-  "name": "GULAREM"
+  "districtName": "YAL",
+  "name": "GULAREM",
+  "postalCode": "99571"
  },
  {
   "id": 9429051015,
   "districtId": 9429051,
-  "name": "YIMOGI"
+  "districtName": "YAL",
+  "name": "YIMOGI",
+  "postalCode": "99571"
  },
  {
   "id": 9429051016,
   "districtId": 9429051,
-  "name": "SAMBA"
+  "districtName": "YAL",
+  "name": "SAMBA",
+  "postalCode": "99571"
  },
  {
   "id": 9429051017,
   "districtId": 9429051,
-  "name": "MUGIAREM"
+  "districtName": "YAL",
+  "name": "MUGIAREM",
+  "postalCode": "99571"
  },
  {
   "id": 9429051018,
   "districtId": 9429051,
-  "name": "DANGENPEM"
+  "districtName": "YAL",
+  "name": "DANGENPEM",
+  "postalCode": "99571"
  },
  {
   "id": 9429051020,
   "districtId": 9429051,
-  "name": "UNDO"
+  "districtName": "YAL",
+  "name": "UNDO",
+  "postalCode": "99571"
  }
 ]

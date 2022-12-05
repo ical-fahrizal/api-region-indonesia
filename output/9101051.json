@@ -2,36 +2,50 @@
  {
   "id": 9101051001,
   "districtId": 9101051,
-  "name": "ANTALISA"
+  "districtName": "KARAS",
+  "name": "ANTALISA",
+  "postalCode": "98662"
  },
  {
   "id": 9101051002,
   "districtId": 9101051,
-  "name": "MAS"
+  "districtName": "KARAS",
+  "name": "MAS",
+  "postalCode": "80571"
  },
  {
   "id": 9101051003,
   "districtId": 9101051,
-  "name": "TUBIRWASAK"
+  "districtName": "KARAS",
+  "name": "TUBIRWASAK",
+  "postalCode": ""
  },
  {
   "id": 9101051004,
   "districtId": 9101051,
-  "name": "TARAK"
+  "districtName": "KARAS",
+  "name": "TARAK",
+  "postalCode": "98662"
  },
  {
   "id": 9101051005,
   "districtId": 9101051,
-  "name": "FAUR"
+  "districtName": "KARAS",
+  "name": "FAUR",
+  "postalCode": "98662"
  },
  {
   "id": 9101051006,
   "districtId": 9101051,
-  "name": "MALAKULI"
+  "districtName": "KARAS",
+  "name": "MALAKULI",
+  "postalCode": ""
  },
  {
   "id": 9101051007,
   "districtId": 9101051,
-  "name": "KIABA"
+  "districtName": "KARAS",
+  "name": "KIABA",
+  "postalCode": "98662"
  }
 ]

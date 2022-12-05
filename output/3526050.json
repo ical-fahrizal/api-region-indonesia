@@ -2,96 +2,134 @@
  {
   "id": 3526050001,
   "districtId": 3526050,
-  "name": "GIGIR"
+  "districtName": "BLEGA",
+  "name": "GIGIR",
+  "postalCode": "69174"
  },
  {
   "id": 3526050002,
   "districtId": 3526050,
-  "name": "KO'OLAN"
+  "districtName": "BLEGA",
+  "name": "KO'OLAN",
+  "postalCode": ""
  },
  {
   "id": 3526050003,
   "districtId": 3526050,
-  "name": "PANGERAN GEDUNGAN"
+  "districtName": "BLEGA",
+  "name": "PANGERAN GEDUNGAN",
+  "postalCode": ""
  },
  {
   "id": 3526050004,
   "districtId": 3526050,
-  "name": "PANJALINAN"
+  "districtName": "BLEGA",
+  "name": "PANJALINAN",
+  "postalCode": "69174"
  },
  {
   "id": 3526050005,
   "districtId": 3526050,
-  "name": "ROSEP"
+  "districtName": "BLEGA",
+  "name": "ROSEP",
+  "postalCode": "69174"
  },
  {
   "id": 3526050006,
   "districtId": 3526050,
-  "name": "KAMPAO"
+  "districtName": "BLEGA",
+  "name": "KAMPAO",
+  "postalCode": "69174"
  },
  {
   "id": 3526050007,
   "districtId": 3526050,
-  "name": "LOMBANG LAOK"
+  "districtName": "BLEGA",
+  "name": "LOMBANG LAOK",
+  "postalCode": "69174"
  },
  {
   "id": 3526050008,
   "districtId": 3526050,
-  "name": "LOMBANG DAYA"
+  "districtName": "BLEGA",
+  "name": "LOMBANG DAYA",
+  "postalCode": "69174"
  },
  {
   "id": 3526050009,
   "districtId": 3526050,
-  "name": "KARPOTE"
+  "districtName": "BLEGA",
+  "name": "KARPOTE",
+  "postalCode": "69174"
  },
  {
   "id": 3526050010,
   "districtId": 3526050,
-  "name": "BLEGAOLOH"
+  "districtName": "BLEGA",
+  "name": "BLEGAOLOH",
+  "postalCode": "69174"
  },
  {
   "id": 3526050011,
   "districtId": 3526050,
-  "name": "KARANG GAYAM"
+  "districtName": "BLEGA",
+  "name": "KARANG GAYAM",
+  "postalCode": "69174"
  },
  {
   "id": 3526050012,
   "districtId": 3526050,
-  "name": "LOMAER"
+  "districtName": "BLEGA",
+  "name": "LOMAER",
+  "postalCode": "69174"
  },
  {
   "id": 3526050013,
   "districtId": 3526050,
-  "name": "BATES"
+  "districtName": "BLEGA",
+  "name": "BATES",
+  "postalCode": "69174"
  },
  {
   "id": 3526050014,
   "districtId": 3526050,
-  "name": "KARANG PANASAN"
+  "districtName": "BLEGA",
+  "name": "KARANG PANASAN",
+  "postalCode": "69174"
  },
  {
   "id": 3526050015,
   "districtId": 3526050,
-  "name": "KARANGNANGKA"
+  "districtName": "BLEGA",
+  "name": "KARANGNANGKA",
+  "postalCode": "53281"
  },
  {
   "id": 3526050016,
   "districtId": 3526050,
-  "name": "BLEGA"
+  "districtName": "BLEGA",
+  "name": "BLEGA",
+  "postalCode": "69174"
  },
  {
   "id": 3526050017,
   "districtId": 3526050,
-  "name": "NYOR MANIS"
+  "districtName": "BLEGA",
+  "name": "NYOR MANIS",
+  "postalCode": ""
  },
  {
   "id": 3526050018,
   "districtId": 3526050,
-  "name": "ALASRAJA"
+  "districtName": "BLEGA",
+  "name": "ALASRAJA",
+  "postalCode": "69174"
  },
  {
   "id": 3526050019,
   "districtId": 3526050,
-  "name": "KAJAN"
+  "districtName": "BLEGA",
+  "name": "KAJAN",
+  "postalCode": "69174"
  }
 ]

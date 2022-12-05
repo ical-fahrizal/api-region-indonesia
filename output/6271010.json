@@ -2,31 +2,43 @@
  {
   "id": 6271010004,
   "districtId": 6271010,
-  "name": "PAHANDUT"
+  "districtName": "PAHANDUT",
+  "name": "PAHANDUT",
+  "postalCode": "73111"
  },
  {
   "id": 6271010005,
   "districtId": 6271010,
-  "name": "PANARUNG"
+  "districtName": "PAHANDUT",
+  "name": "PANARUNG",
+  "postalCode": "73564"
  },
  {
   "id": 6271010006,
   "districtId": 6271010,
-  "name": "LANGKAI"
+  "districtName": "PAHANDUT",
+  "name": "LANGKAI",
+  "postalCode": "28671"
  },
  {
   "id": 6271010009,
   "districtId": 6271010,
-  "name": "TUMBANG RUNGAN"
+  "districtName": "PAHANDUT",
+  "name": "TUMBANG RUNGAN",
+  "postalCode": "73111"
  },
  {
   "id": 6271010010,
   "districtId": 6271010,
-  "name": "TANJUNG PINANG"
+  "districtName": "PAHANDUT",
+  "name": "TANJUNG PINANG",
+  "postalCode": "36146"
  },
  {
   "id": 6271010011,
   "districtId": 6271010,
-  "name": "PAHANDUT SEBERANG"
+  "districtName": "PAHANDUT",
+  "name": "PAHANDUT SEBERANG",
+  "postalCode": "73111"
  }
 ]

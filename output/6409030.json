@@ -2,101 +2,141 @@
  {
   "id": 6409030001,
   "districtId": 6409030,
-  "name": "TANJUNG TENGAH"
+  "districtName": "PENAJAM",
+  "name": "TANJUNG TENGAH",
+  "postalCode": "72153"
  },
  {
   "id": 6409030002,
   "districtId": 6409030,
-  "name": "SALOLOANG"
+  "districtName": "PENAJAM",
+  "name": "SALOLOANG",
+  "postalCode": "76143"
  },
  {
   "id": 6409030004,
   "districtId": 6409030,
-  "name": "GIRI MUKTI"
+  "districtName": "PENAJAM",
+  "name": "GIRI MUKTI",
+  "postalCode": "76141"
  },
  {
   "id": 6409030005,
   "districtId": 6409030,
-  "name": "LAWE LAWE"
+  "districtName": "PENAJAM",
+  "name": "LAWE LAWE",
+  "postalCode": "76142"
  },
  {
   "id": 6409030006,
   "districtId": 6409030,
-  "name": "PEJALA"
+  "districtName": "PENAJAM",
+  "name": "PEJALA",
+  "postalCode": "72273"
  },
  {
   "id": 6409030007,
   "districtId": 6409030,
-  "name": "KAMPUNG BARU"
+  "districtName": "PENAJAM",
+  "name": "KAMPUNG BARU",
+  "postalCode": "24652"
  },
  {
   "id": 6409030009,
   "districtId": 6409030,
-  "name": "SUNGAI PARIT"
+  "districtName": "PENAJAM",
+  "name": "SUNGAI PARIT",
+  "postalCode": ""
  },
  {
   "id": 6409030010,
   "districtId": 6409030,
-  "name": "NIPAH NIPAH"
+  "districtName": "PENAJAM",
+  "name": "NIPAH NIPAH",
+  "postalCode": "76142"
  },
  {
   "id": 6409030011,
   "districtId": 6409030,
-  "name": "NENANG"
+  "districtName": "PENAJAM",
+  "name": "NENANG",
+  "postalCode": "76141"
  },
  {
   "id": 6409030013,
   "districtId": 6409030,
-  "name": "PENAJAM"
+  "districtName": "PENAJAM",
+  "name": "PENAJAM",
+  "postalCode": "76141"
  },
  {
   "id": 6409030014,
   "districtId": 6409030,
-  "name": "BULU MINUNG"
+  "districtName": "PENAJAM",
+  "name": "BULU MINUNG",
+  "postalCode": "76144"
  },
  {
   "id": 6409030015,
   "districtId": 6409030,
-  "name": "SOTEK"
+  "districtName": "PENAJAM",
+  "name": "SOTEK",
+  "postalCode": "76144"
  },
  {
   "id": 6409030016,
   "districtId": 6409030,
-  "name": "SEPAN"
+  "districtName": "PENAJAM",
+  "name": "SEPAN",
+  "postalCode": "76145"
  },
  {
   "id": 6409030017,
   "districtId": 6409030,
-  "name": "RIKO"
+  "districtName": "PENAJAM",
+  "name": "RIKO",
+  "postalCode": "76145"
  },
  {
   "id": 6409030018,
   "districtId": 6409030,
-  "name": "PANTAI LANGO"
+  "districtName": "PENAJAM",
+  "name": "PANTAI LANGO",
+  "postalCode": "76146"
  },
  {
   "id": 6409030019,
   "districtId": 6409030,
-  "name": "GERSIK"
+  "districtName": "PENAJAM",
+  "name": "GERSIK",
+  "postalCode": "79286"
  },
  {
   "id": 6409030020,
   "districtId": 6409030,
-  "name": "JENEBORA"
+  "districtName": "PENAJAM",
+  "name": "JENEBORA",
+  "postalCode": "76146"
  },
  {
   "id": 6409030021,
   "districtId": 6409030,
-  "name": "BUKIT SUBUR"
+  "districtName": "PENAJAM",
+  "name": "BUKIT SUBUR",
+  "postalCode": "36365"
  },
  {
   "id": 6409030022,
   "districtId": 6409030,
-  "name": "SIDOREJO"
+  "districtName": "PENAJAM",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 6409030023,
   "districtId": 6409030,
-  "name": "GIRIPURWA"
+  "districtName": "PENAJAM",
+  "name": "GIRIPURWA",
+  "postalCode": "76143"
  }
 ]

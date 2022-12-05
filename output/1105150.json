@@ -2,156 +2,218 @@
  {
   "id": 1105150001,
   "districtId": 1105150,
-  "name": "ALUE SIWAH SERDANG"
+  "districtName": "NURUSSALAM",
+  "name": "ALUE SIWAH SERDANG",
+  "postalCode": "24456"
  },
  {
   "id": 1105150002,
   "districtId": 1105150,
-  "name": "GAMPONG LHEE"
+  "districtName": "NURUSSALAM",
+  "name": "GAMPONG LHEE",
+  "postalCode": "24456"
  },
  {
   "id": 1105150003,
   "districtId": 1105150,
-  "name": "BEURANDANG"
+  "districtName": "NURUSSALAM",
+  "name": "BEURANDANG",
+  "postalCode": "24456"
  },
  {
   "id": 1105150005,
   "districtId": 1105150,
-  "name": "SEUNEUBOK RAMBONG"
+  "districtName": "NURUSSALAM",
+  "name": "SEUNEUBOK RAMBONG",
+  "postalCode": "24454"
  },
  {
   "id": 1105150006,
   "districtId": 1105150,
-  "name": "GAMPUNG JALAN"
+  "districtName": "NURUSSALAM",
+  "name": "GAMPUNG JALAN",
+  "postalCode": ""
  },
  {
   "id": 1105150008,
   "districtId": 1105150,
-  "name": "BUKET MEURAK"
+  "districtName": "NURUSSALAM",
+  "name": "BUKET MEURAK",
+  "postalCode": "24456"
  },
  {
   "id": 1105150009,
   "districtId": 1105150,
-  "name": "SEUNEUBOK DALAM"
+  "districtName": "NURUSSALAM",
+  "name": "SEUNEUBOK DALAM",
+  "postalCode": "24456"
  },
  {
   "id": 1105150010,
   "districtId": 1105150,
-  "name": "KAMPUNG MESJID"
+  "districtName": "NURUSSALAM",
+  "name": "KAMPUNG MESJID",
+  "postalCode": "21474"
  },
  {
   "id": 1105150011,
   "districtId": 1105150,
-  "name": "PAYA ENJEE"
+  "districtName": "NURUSSALAM",
+  "name": "PAYA ENJEE",
+  "postalCode": "24456"
  },
  {
   "id": 1105150012,
   "districtId": 1105150,
-  "name": "SEULEUMAK MUDA"
+  "districtName": "NURUSSALAM",
+  "name": "SEULEUMAK MUDA",
+  "postalCode": "24456"
  },
  {
   "id": 1105150013,
   "districtId": 1105150,
-  "name": "COT ASAN"
+  "districtName": "NURUSSALAM",
+  "name": "COT ASAN",
+  "postalCode": "24382"
  },
  {
   "id": 1105150014,
   "districtId": 1105150,
-  "name": "BUKET PANYANG"
+  "districtName": "NURUSSALAM",
+  "name": "BUKET PANYANG",
+  "postalCode": "24457"
  },
  {
   "id": 1105150023,
   "districtId": 1105150,
-  "name": "BUKET PANJOU"
+  "districtName": "NURUSSALAM",
+  "name": "BUKET PANJOU",
+  "postalCode": "24456"
  },
  {
   "id": 1105150024,
   "districtId": 1105150,
-  "name": "MATANG PANYANG"
+  "districtName": "NURUSSALAM",
+  "name": "MATANG PANYANG",
+  "postalCode": "24392"
  },
  {
   "id": 1105150025,
   "districtId": 1105150,
-  "name": "MEUNASAH HAGU"
+  "districtName": "NURUSSALAM",
+  "name": "MEUNASAH HAGU",
+  "postalCode": "24392"
  },
  {
   "id": 1105150026,
   "districtId": 1105150,
-  "name": "MATANG KUNYET"
+  "districtName": "NURUSSALAM",
+  "name": "MATANG KUNYET",
+  "postalCode": "24456"
  },
  {
   "id": 1105150027,
   "districtId": 1105150,
-  "name": "MATANG NEUHEUN"
+  "districtName": "NURUSSALAM",
+  "name": "MATANG NEUHEUN",
+  "postalCode": "24456"
  },
  {
   "id": 1105150028,
   "districtId": 1105150,
-  "name": "TEUPIN PUKAT"
+  "districtName": "NURUSSALAM",
+  "name": "TEUPIN PUKAT",
+  "postalCode": "24456"
  },
  {
   "id": 1105150029,
   "districtId": 1105150,
-  "name": "PULO-U"
+  "districtName": "NURUSSALAM",
+  "name": "PULO-U",
+  "postalCode": ""
  },
  {
   "id": 1105150030,
   "districtId": 1105150,
-  "name": "MATANG SEULEUMAK"
+  "districtName": "NURUSSALAM",
+  "name": "MATANG SEULEUMAK",
+  "postalCode": "24456"
  },
  {
   "id": 1105150031,
   "districtId": 1105150,
-  "name": "BANTAYAN"
+  "districtName": "NURUSSALAM",
+  "name": "BANTAYAN",
+  "postalCode": "24394"
  },
  {
   "id": 1105150032,
   "districtId": 1105150,
-  "name": "BLANG PANJOU"
+  "districtName": "NURUSSALAM",
+  "name": "BLANG PANJOU",
+  "postalCode": "24456"
  },
  {
   "id": 1105150034,
   "districtId": 1105150,
-  "name": "SEUMATANG ARON"
+  "districtName": "NURUSSALAM",
+  "name": "SEUMATANG ARON",
+  "postalCode": "24456"
  },
  {
   "id": 1105150035,
   "districtId": 1105150,
-  "name": "MEUDANG ARA"
+  "districtName": "NURUSSALAM",
+  "name": "MEUDANG ARA",
+  "postalCode": "24392"
  },
  {
   "id": 1105150036,
   "districtId": 1105150,
-  "name": "MEUNASAH TEUNGOH"
+  "districtName": "NURUSSALAM",
+  "name": "MEUNASAH TEUNGOH",
+  "postalCode": "23672"
  },
  {
   "id": 1105150037,
   "districtId": 1105150,
-  "name": "KAMPUNG KEUDE BAGOK DUA"
+  "districtName": "NURUSSALAM",
+  "name": "KAMPUNG KEUDE BAGOK DUA",
+  "postalCode": ""
  },
  {
   "id": 1105150038,
   "districtId": 1105150,
-  "name": "KAMPUNG KEUDE BAGOK SA"
+  "districtName": "NURUSSALAM",
+  "name": "KAMPUNG KEUDE BAGOK SA",
+  "postalCode": ""
  },
  {
   "id": 1105150039,
   "districtId": 1105150,
-  "name": "KUALA BAGOK"
+  "districtName": "NURUSSALAM",
+  "name": "KUALA BAGOK",
+  "postalCode": "24456"
  },
  {
   "id": 1105150040,
   "districtId": 1105150,
-  "name": "ASAN TANJUNG"
+  "districtName": "NURUSSALAM",
+  "name": "ASAN TANJUNG",
+  "postalCode": ""
  },
  {
   "id": 1105150041,
   "districtId": 1105150,
-  "name": "BAROH BUGENG"
+  "districtName": "NURUSSALAM",
+  "name": "BAROH BUGENG",
+  "postalCode": "24456"
  },
  {
   "id": 1105150042,
   "districtId": 1105150,
-  "name": "PEULAWI"
+  "districtName": "NURUSSALAM",
+  "name": "PEULAWI",
+  "postalCode": "24456"
  }
 ]

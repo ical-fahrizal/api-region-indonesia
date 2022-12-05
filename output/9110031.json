@@ -2,26 +2,36 @@
  {
   "id": 9110031001,
   "districtId": 9110031,
-  "name": "WOMBA"
+  "districtName": "AIFAT TIMUR SELATAN",
+  "name": "WOMBA",
+  "postalCode": "98463"
  },
  {
   "id": 9110031002,
   "districtId": 9110031,
-  "name": "WINUNI"
+  "districtName": "AIFAT TIMUR SELATAN",
+  "name": "WINUNI",
+  "postalCode": "98463"
  },
  {
   "id": 9110031003,
   "districtId": 9110031,
-  "name": "WARBA"
+  "districtName": "AIFAT TIMUR SELATAN",
+  "name": "WARBA",
+  "postalCode": "98463"
  },
  {
   "id": 9110031004,
   "districtId": 9110031,
-  "name": "WARMU"
+  "districtName": "AIFAT TIMUR SELATAN",
+  "name": "WARMU",
+  "postalCode": ""
  },
  {
   "id": 9110031005,
   "districtId": 9110031,
-  "name": "MAKIRI"
+  "districtName": "AIFAT TIMUR SELATAN",
+  "name": "MAKIRI",
+  "postalCode": "98463"
  }
 ]

@@ -2,21 +2,29 @@
  {
   "id": 5314041001,
   "districtId": 5314041,
-  "name": "INAOE"
+  "districtName": "ROTE SELATAN",
+  "name": "INAOE",
+  "postalCode": "85972"
  },
  {
   "id": 5314041002,
   "districtId": 5314041,
-  "name": "DODAEK"
+  "districtName": "ROTE SELATAN",
+  "name": "DODAEK",
+  "postalCode": "85972"
  },
  {
   "id": 5314041003,
   "districtId": 5314041,
-  "name": "TEBOLE"
+  "districtName": "ROTE SELATAN",
+  "name": "TEBOLE",
+  "postalCode": "85972"
  },
  {
   "id": 5314041004,
   "districtId": 5314041,
-  "name": "DALEHOLU"
+  "districtName": "ROTE SELATAN",
+  "name": "DALEHOLU",
+  "postalCode": "85972"
  }
 ]

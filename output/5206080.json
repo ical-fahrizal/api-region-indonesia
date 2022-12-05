@@ -2,46 +2,64 @@
  {
   "id": 5206080001,
   "districtId": 5206080,
-  "name": "RORA"
+  "districtName": "DONGGO",
+  "name": "RORA",
+  "postalCode": "84162"
  },
  {
   "id": 5206080002,
   "districtId": 5206080,
-  "name": "PALAMA"
+  "districtName": "DONGGO",
+  "name": "PALAMA",
+  "postalCode": "84162"
  },
  {
   "id": 5206080003,
   "districtId": 5206080,
-  "name": "MBAWA"
+  "districtName": "DONGGO",
+  "name": "MBAWA",
+  "postalCode": "84162"
  },
  {
   "id": 5206080004,
   "districtId": 5206080,
-  "name": "O'O"
+  "districtName": "DONGGO",
+  "name": "O'O",
+  "postalCode": ""
  },
  {
   "id": 5206080005,
   "districtId": 5206080,
-  "name": "DORIDUNGGA"
+  "districtName": "DONGGO",
+  "name": "DORIDUNGGA",
+  "postalCode": "84162"
  },
  {
   "id": 5206080008,
   "districtId": 5206080,
-  "name": "KALA"
+  "districtName": "DONGGO",
+  "name": "KALA",
+  "postalCode": "84162"
  },
  {
   "id": 5206080012,
   "districtId": 5206080,
-  "name": "BUMI PAJO"
+  "districtName": "DONGGO",
+  "name": "BUMI PAJO",
+  "postalCode": "84162"
  },
  {
   "id": 5206080013,
   "districtId": 5206080,
-  "name": "MPILI"
+  "districtName": "DONGGO",
+  "name": "MPILI",
+  "postalCode": "84162"
  },
  {
   "id": 5206080014,
   "districtId": 5206080,
-  "name": "NDANO NAE"
+  "districtName": "DONGGO",
+  "name": "NDANO NAE",
+  "postalCode": ""
  }
 ]

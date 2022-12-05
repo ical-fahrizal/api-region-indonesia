@@ -2,41 +2,57 @@
  {
   "id": 1408031001,
   "districtId": 1408031,
-  "name": "TITI AKAR"
+  "districtName": "RUPAT UTARA",
+  "name": "TITI AKAR",
+  "postalCode": "28781"
  },
  {
   "id": 1408031002,
   "districtId": 1408031,
-  "name": "TANJUNG MEDANG"
+  "districtName": "RUPAT UTARA",
+  "name": "TANJUNG MEDANG",
+  "postalCode": "29565"
  },
  {
   "id": 1408031003,
   "districtId": 1408031,
-  "name": "TELUK RHU"
+  "districtName": "RUPAT UTARA",
+  "name": "TELUK RHU",
+  "postalCode": "28781"
  },
  {
   "id": 1408031004,
   "districtId": 1408031,
-  "name": "TANJUNG PUNAK"
+  "districtName": "RUPAT UTARA",
+  "name": "TANJUNG PUNAK",
+  "postalCode": "28781"
  },
  {
   "id": 1408031005,
   "districtId": 1408031,
-  "name": "KADUR"
+  "districtName": "RUPAT UTARA",
+  "name": "KADUR",
+  "postalCode": "28781"
  },
  {
   "id": 1408031006,
   "districtId": 1408031,
-  "name": "HUTAN AYU"
+  "districtName": "RUPAT UTARA",
+  "name": "HUTAN AYU",
+  "postalCode": "28781"
  },
  {
   "id": 1408031007,
   "districtId": 1408031,
-  "name": "SUKADAMAI"
+  "districtName": "RUPAT UTARA",
+  "name": "SUKADAMAI",
+  "postalCode": "24373"
  },
  {
   "id": 1408031008,
   "districtId": 1408031,
-  "name": "PUTRI SEMBILAN"
+  "districtName": "RUPAT UTARA",
+  "name": "PUTRI SEMBILAN",
+  "postalCode": ""
  }
 ]

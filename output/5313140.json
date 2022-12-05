@@ -2,51 +2,71 @@
  {
   "id": 5313140007,
   "districtId": 5313140,
-  "name": "WATU TANGO"
+  "districtName": "REOK",
+  "name": "WATU TANGO",
+  "postalCode": "86592"
  },
  {
   "id": 5313140008,
   "districtId": 5313140,
-  "name": "BAJAK"
+  "districtName": "REOK",
+  "name": "BAJAK",
+  "postalCode": "86592"
  },
  {
   "id": 5313140009,
   "districtId": 5313140,
-  "name": "RUIS"
+  "districtName": "REOK",
+  "name": "RUIS",
+  "postalCode": "86592"
  },
  {
   "id": 5313140010,
   "districtId": 5313140,
-  "name": "MATA AIR"
+  "districtName": "REOK",
+  "name": "MATA AIR",
+  "postalCode": "85361"
  },
  {
   "id": 5313140011,
   "districtId": 5313140,
-  "name": "SALAMA"
+  "districtName": "REOK",
+  "name": "SALAMA",
+  "postalCode": "86592"
  },
  {
   "id": 5313140012,
   "districtId": 5313140,
-  "name": "REO"
+  "districtName": "REOK",
+  "name": "REO",
+  "postalCode": "86592"
  },
  {
   "id": 5313140013,
   "districtId": 5313140,
-  "name": "BARU"
+  "districtName": "REOK",
+  "name": "BARU",
+  "postalCode": "23764"
  },
  {
   "id": 5313140014,
   "districtId": 5313140,
-  "name": "WANGKUNG"
+  "districtName": "REOK",
+  "name": "WANGKUNG",
+  "postalCode": "86592"
  },
  {
   "id": 5313140015,
   "districtId": 5313140,
-  "name": "ROBEK"
+  "districtName": "REOK",
+  "name": "ROBEK",
+  "postalCode": "86592"
  },
  {
   "id": 5313140016,
   "districtId": 5313140,
-  "name": "WATU BAUR"
+  "districtName": "REOK",
+  "name": "WATU BAUR",
+  "postalCode": "86592"
  }
 ]

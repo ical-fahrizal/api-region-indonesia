@@ -2,81 +2,113 @@
  {
   "id": 1810060002,
   "districtId": 1810060,
-  "name": "SINAR BARU"
+  "districtName": "SUKOHARJO",
+  "name": "SINAR BARU",
+  "postalCode": "22874"
  },
  {
   "id": 1810060003,
   "districtId": 1810060,
-  "name": "SUKOHARJO I"
+  "districtName": "SUKOHARJO",
+  "name": "SUKOHARJO I",
+  "postalCode": "35674"
  },
  {
   "id": 1810060004,
   "districtId": 1810060,
-  "name": "SUKOHARJO II"
+  "districtName": "SUKOHARJO",
+  "name": "SUKOHARJO II",
+  "postalCode": "35674"
  },
  {
   "id": 1810060005,
   "districtId": 1810060,
-  "name": "SUKOHARJO IV"
+  "districtName": "SUKOHARJO",
+  "name": "SUKOHARJO IV",
+  "postalCode": "35674"
  },
  {
   "id": 1810060006,
   "districtId": 1810060,
-  "name": "PANGGUNG REJO"
+  "districtName": "SUKOHARJO",
+  "name": "PANGGUNG REJO",
+  "postalCode": "34696"
  },
  {
   "id": 1810060007,
   "districtId": 1810060,
-  "name": "PANDANSARI"
+  "districtName": "SUKOHARJO",
+  "name": "PANDANSARI",
+  "postalCode": "16720"
  },
  {
   "id": 1810060008,
   "districtId": 1810060,
-  "name": "PANDAN SURAT"
+  "districtName": "SUKOHARJO",
+  "name": "PANDAN SURAT",
+  "postalCode": "35674"
  },
  {
   "id": 1810060009,
   "districtId": 1810060,
-  "name": "SUKOHARJO III"
+  "districtName": "SUKOHARJO",
+  "name": "SUKOHARJO III",
+  "postalCode": "35674"
  },
  {
   "id": 1810060010,
   "districtId": 1810060,
-  "name": "KEPUTRAN"
+  "districtName": "SUKOHARJO",
+  "name": "KEPUTRAN",
+  "postalCode": "35674"
  },
  {
   "id": 1810060011,
   "districtId": 1810060,
-  "name": "SUKOYOSO"
+  "districtName": "SUKOHARJO",
+  "name": "SUKOYOSO",
+  "postalCode": "35674"
  },
  {
   "id": 1810060012,
   "districtId": 1810060,
-  "name": "SILIWANGI"
+  "districtName": "SUKOHARJO",
+  "name": "SILIWANGI",
+  "postalCode": "37482"
  },
  {
   "id": 1810060022,
   "districtId": 1810060,
-  "name": "WARINGINSARI BARAT"
+  "districtName": "SUKOHARJO",
+  "name": "WARINGINSARI BARAT",
+  "postalCode": ""
  },
  {
   "id": 1810060023,
   "districtId": 1810060,
-  "name": "PANDANSARI SELATAN"
+  "districtName": "SUKOHARJO",
+  "name": "PANDANSARI SELATAN",
+  "postalCode": ""
  },
  {
   "id": 1810060024,
   "districtId": 1810060,
-  "name": "SINAR BARU TIMUR"
+  "districtName": "SUKOHARJO",
+  "name": "SINAR BARU TIMUR",
+  "postalCode": "35674"
  },
  {
   "id": 1810060025,
   "districtId": 1810060,
-  "name": "PANGGUNG REJO UTARA"
+  "districtName": "SUKOHARJO",
+  "name": "PANGGUNG REJO UTARA",
+  "postalCode": "35674"
  },
  {
   "id": 1810060026,
   "districtId": 1810060,
-  "name": "SUKOHARJO III BARAT"
+  "districtName": "SUKOHARJO",
+  "name": "SUKOHARJO III BARAT",
+  "postalCode": "35674"
  }
 ]

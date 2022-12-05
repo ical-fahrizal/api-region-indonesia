@@ -2,21 +2,29 @@
  {
   "id": 1473011001,
   "districtId": 1473011,
-  "name": "PELINTUNG"
+  "districtName": "MEDANG KAMPAI",
+  "name": "PELINTUNG",
+  "postalCode": "28825"
  },
  {
   "id": 1473011002,
   "districtId": 1473011,
-  "name": "GUNTUNG"
+  "districtName": "MEDANG KAMPAI",
+  "name": "GUNTUNG",
+  "postalCode": "21255"
  },
  {
   "id": 1473011003,
   "districtId": 1473011,
-  "name": "TELUK MAKMUR"
+  "districtName": "MEDANG KAMPAI",
+  "name": "TELUK MAKMUR",
+  "postalCode": "28825"
  },
  {
   "id": 1473011004,
   "districtId": 1473011,
-  "name": "MUNDAM"
+  "districtName": "MEDANG KAMPAI",
+  "name": "MUNDAM",
+  "postalCode": "28825"
  }
 ]

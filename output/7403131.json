@@ -2,96 +2,134 @@
  {
   "id": 7403131001,
   "districtId": 7403131,
-  "name": "BARUGA"
+  "districtName": "UEPAI",
+  "name": "BARUGA",
+  "postalCode": "94563"
  },
  {
   "id": 7403131002,
   "districtId": 7403131,
-  "name": "LANGGOMEA"
+  "districtName": "UEPAI",
+  "name": "LANGGOMEA",
+  "postalCode": "93464"
  },
  {
   "id": 7403131003,
   "districtId": 7403131,
-  "name": "MATAHOALU"
+  "districtName": "UEPAI",
+  "name": "MATAHOALU",
+  "postalCode": "93464"
  },
  {
   "id": 7403131004,
   "districtId": 7403131,
-  "name": "TAWAROTEBOTA"
+  "districtName": "UEPAI",
+  "name": "TAWAROTEBOTA",
+  "postalCode": "93464"
  },
  {
   "id": 7403131005,
   "districtId": 7403131,
-  "name": "TAWAMELEWE"
+  "districtName": "UEPAI",
+  "name": "TAWAMELEWE",
+  "postalCode": "93464"
  },
  {
   "id": 7403131006,
   "districtId": 7403131,
-  "name": "UEPAI"
+  "districtName": "UEPAI",
+  "name": "UEPAI",
+  "postalCode": "93464"
  },
  {
   "id": 7403131007,
   "districtId": 7403131,
-  "name": "AMERORO"
+  "districtName": "UEPAI",
+  "name": "AMERORO",
+  "postalCode": "93571"
  },
  {
   "id": 7403131008,
   "districtId": 7403131,
-  "name": "AMAROA"
+  "districtName": "UEPAI",
+  "name": "AMAROA",
+  "postalCode": "93464"
  },
  {
   "id": 7403131009,
   "districtId": 7403131,
-  "name": "R A W U A"
+  "districtName": "UEPAI",
+  "name": "R A W U A",
+  "postalCode": ""
  },
  {
   "id": 7403131010,
   "districtId": 7403131,
-  "name": "ANGGOPIU"
+  "districtName": "UEPAI",
+  "name": "ANGGOPIU",
+  "postalCode": "93464"
  },
  {
   "id": 7403131011,
   "districtId": 7403131,
-  "name": "OLO-OLOHO"
+  "districtName": "UEPAI",
+  "name": "OLO-OLOHO",
+  "postalCode": ""
  },
  {
   "id": 7403131012,
   "districtId": 7403131,
-  "name": "HUMBOTO"
+  "districtName": "UEPAI",
+  "name": "HUMBOTO",
+  "postalCode": ""
  },
  {
   "id": 7403131013,
   "districtId": 7403131,
-  "name": "KASAEDA"
+  "districtName": "UEPAI",
+  "name": "KASAEDA",
+  "postalCode": ""
  },
  {
   "id": 7403131014,
   "districtId": 7403131,
-  "name": "TANGGONDIPO"
+  "districtName": "UEPAI",
+  "name": "TANGGONDIPO",
+  "postalCode": ""
  },
  {
   "id": 7403131015,
   "districtId": 7403131,
-  "name": "TAMESANDI"
+  "districtName": "UEPAI",
+  "name": "TAMESANDI",
+  "postalCode": ""
  },
  {
   "id": 7403131016,
   "districtId": 7403131,
-  "name": "MOOREHE"
+  "districtName": "UEPAI",
+  "name": "MOOREHE",
+  "postalCode": ""
  },
  {
   "id": 7403131017,
   "districtId": 7403131,
-  "name": "ANGGAWO"
+  "districtName": "UEPAI",
+  "name": "ANGGAWO",
+  "postalCode": ""
  },
  {
   "id": 7403131018,
   "districtId": 7403131,
-  "name": "PUURODA JAYA"
+  "districtName": "UEPAI",
+  "name": "PUURODA JAYA",
+  "postalCode": ""
  },
  {
   "id": 7403131019,
   "districtId": 7403131,
-  "name": "PANGGULAWU"
+  "districtName": "UEPAI",
+  "name": "PANGGULAWU",
+  "postalCode": ""
  }
 ]

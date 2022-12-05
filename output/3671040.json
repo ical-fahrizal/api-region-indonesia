@@ -2,31 +2,43 @@
  {
   "id": 3671040001,
   "districtId": 3671040,
-  "name": "MANIS JAYA"
+  "districtName": "JATI UWUNG",
+  "name": "MANIS JAYA",
+  "postalCode": "15136"
  },
  {
   "id": 3671040002,
   "districtId": 3671040,
-  "name": "JATAKE"
+  "districtName": "JATI UWUNG",
+  "name": "JATAKE",
+  "postalCode": "15136"
  },
  {
   "id": 3671040003,
   "districtId": 3671040,
-  "name": "GANDASARI"
+  "districtName": "JATI UWUNG",
+  "name": "GANDASARI",
+  "postalCode": "17530"
  },
  {
   "id": 3671040010,
   "districtId": 3671040,
-  "name": "KRONCONG"
+  "districtName": "JATI UWUNG",
+  "name": "KRONCONG",
+  "postalCode": ""
  },
  {
   "id": 3671040011,
   "districtId": 3671040,
-  "name": "ALAM JAYA"
+  "districtName": "JATI UWUNG",
+  "name": "ALAM JAYA",
+  "postalCode": "24553"
  },
  {
   "id": 3671040012,
   "districtId": 3671040,
-  "name": "PASIR JAYA"
+  "districtName": "JATI UWUNG",
+  "name": "PASIR JAYA",
+  "postalCode": "28557"
  }
 ]

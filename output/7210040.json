@@ -2,26 +2,36 @@
  {
   "id": 7210040001,
   "districtId": 7210040,
-  "name": "PURO'O"
+  "districtName": "LINDU",
+  "name": "PURO'O",
+  "postalCode": ""
  },
  {
   "id": 7210040002,
   "districtId": 7210040,
-  "name": "LANGKO"
+  "districtName": "LINDU",
+  "name": "LANGKO",
+  "postalCode": "83554"
  },
  {
   "id": 7210040003,
   "districtId": 7210040,
-  "name": "TOMADO"
+  "districtName": "LINDU",
+  "name": "TOMADO",
+  "postalCode": "94363"
  },
  {
   "id": 7210040004,
   "districtId": 7210040,
-  "name": "ANCA"
+  "districtName": "LINDU",
+  "name": "ANCA",
+  "postalCode": "94363"
  },
  {
   "id": 7210040005,
   "districtId": 7210040,
-  "name": "OLU"
+  "districtName": "LINDU",
+  "name": "OLU",
+  "postalCode": ""
  }
 ]

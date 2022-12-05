@@ -2,66 +2,92 @@
  {
   "id": 3507060001,
   "districtId": 3507060,
-  "name": "SITIARJO"
+  "districtName": "SUMBERMANJING",
+  "name": "SITIARJO",
+  "postalCode": "65176"
  },
  {
   "id": 3507060002,
   "districtId": 3507060,
-  "name": "TAMBAKREJO"
+  "districtName": "SUMBERMANJING",
+  "name": "TAMBAKREJO",
+  "postalCode": "54391"
  },
  {
   "id": 3507060003,
   "districtId": 3507060,
-  "name": "KEDUNGBANTENG"
+  "districtName": "SUMBERMANJING",
+  "name": "KEDUNGBANTENG",
+  "postalCode": "53152"
  },
  {
   "id": 3507060004,
   "districtId": 3507060,
-  "name": "TAMBAKASRI"
+  "districtName": "SUMBERMANJING",
+  "name": "TAMBAKASRI",
+  "postalCode": "65172"
  },
  {
   "id": 3507060005,
   "districtId": 3507060,
-  "name": "TEGALREJO"
+  "districtName": "SUMBERMANJING",
+  "name": "TEGALREJO",
+  "postalCode": "50733"
  },
  {
   "id": 3507060006,
   "districtId": 3507060,
-  "name": "RINGINKEMBAR"
+  "districtName": "SUMBERMANJING",
+  "name": "RINGINKEMBAR",
+  "postalCode": "65176"
  },
  {
   "id": 3507060007,
   "districtId": 3507060,
-  "name": "SUMBERAGUNG"
+  "districtName": "SUMBERMANJING",
+  "name": "SUMBERAGUNG",
+  "postalCode": "35452"
  },
  {
   "id": 3507060008,
   "districtId": 3507060,
-  "name": "HARJOKUNCARAN"
+  "districtName": "SUMBERMANJING",
+  "name": "HARJOKUNCARAN",
+  "postalCode": "65176"
  },
  {
   "id": 3507060009,
   "districtId": 3507060,
-  "name": "ARGOTIRTO"
+  "districtName": "SUMBERMANJING",
+  "name": "ARGOTIRTO",
+  "postalCode": "65176"
  },
  {
   "id": 3507060010,
   "districtId": 3507060,
-  "name": "RINGINSARI"
+  "districtName": "SUMBERMANJING",
+  "name": "RINGINSARI",
+  "postalCode": "64173"
  },
  {
   "id": 3507060012,
   "districtId": 3507060,
-  "name": "SUMBERMANJING WETAN"
+  "districtName": "SUMBERMANJING",
+  "name": "SUMBERMANJING WETAN",
+  "postalCode": "65176"
  },
  {
   "id": 3507060014,
   "districtId": 3507060,
-  "name": "SEKARBANYU"
+  "districtName": "SUMBERMANJING",
+  "name": "SEKARBANYU",
+  "postalCode": "65176"
  },
  {
   "id": 3507060015,
   "districtId": 3507060,
-  "name": "SIDOASRI"
+  "districtName": "SUMBERMANJING",
+  "name": "SIDOASRI",
+  "postalCode": "35356"
  }
 ]

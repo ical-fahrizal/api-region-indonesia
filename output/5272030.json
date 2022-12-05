@@ -2,21 +2,29 @@
  {
   "id": 5272030001,
   "districtId": 5272030,
-  "name": "MELAYU"
+  "districtName": "ASAKOTA",
+  "name": "MELAYU",
+  "postalCode": "21144"
  },
  {
   "id": 5272030002,
   "districtId": 5272030,
-  "name": "JATIWANGI"
+  "districtName": "ASAKOTA",
+  "name": "JATIWANGI",
+  "postalCode": "17530"
  },
  {
   "id": 5272030003,
   "districtId": 5272030,
-  "name": "JATIBARU"
+  "districtName": "ASAKOTA",
+  "name": "JATIBARU",
+  "postalCode": "35361"
  },
  {
   "id": 5272030004,
   "districtId": 5272030,
-  "name": "KOLO"
+  "districtName": "ASAKOTA",
+  "name": "KOLO",
+  "postalCode": "84119"
  }
 ]

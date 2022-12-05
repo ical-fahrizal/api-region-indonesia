@@ -2,66 +2,92 @@
  {
   "id": 7302040001,
   "districtId": 7302040,
-  "name": "CARAMMING"
+  "districtName": "BONTOTIRO",
+  "name": "CARAMMING",
+  "postalCode": "92572"
  },
  {
   "id": 7302040002,
   "districtId": 7302040,
-  "name": "PAKUBALAHO"
+  "districtName": "BONTOTIRO",
+  "name": "PAKUBALAHO",
+  "postalCode": "92572"
  },
  {
   "id": 7302040003,
   "districtId": 7302040,
-  "name": "TRITIRO"
+  "districtName": "BONTOTIRO",
+  "name": "TRITIRO",
+  "postalCode": "92572"
  },
  {
   "id": 7302040004,
   "districtId": 7302040,
-  "name": "EKATIRO"
+  "districtName": "BONTOTIRO",
+  "name": "EKATIRO",
+  "postalCode": "92572"
  },
  {
   "id": 7302040005,
   "districtId": 7302040,
-  "name": "BUHUNG BUNDANG"
+  "districtName": "BONTOTIRO",
+  "name": "BUHUNG BUNDANG",
+  "postalCode": "92572"
  },
  {
   "id": 7302040006,
   "districtId": 7302040,
-  "name": "DWI TIRO"
+  "districtName": "BONTOTIRO",
+  "name": "DWI TIRO",
+  "postalCode": "92572"
  },
  {
   "id": 7302040007,
   "districtId": 7302040,
-  "name": "BONTO BULAENG"
+  "districtName": "BONTOTIRO",
+  "name": "BONTO BULAENG",
+  "postalCode": "92572"
  },
  {
   "id": 7302040008,
   "districtId": 7302040,
-  "name": "BATANG"
+  "districtName": "BONTOTIRO",
+  "name": "BATANG",
+  "postalCode": "92572"
  },
  {
   "id": 7302040009,
   "districtId": 7302040,
-  "name": "TAMALANREA"
+  "districtName": "BONTOTIRO",
+  "name": "TAMALANREA",
+  "postalCode": "92854"
  },
  {
   "id": 7302040010,
   "districtId": 7302040,
-  "name": "BONTO TANGNGA"
+  "districtName": "BONTOTIRO",
+  "name": "BONTO TANGNGA",
+  "postalCode": "92572"
  },
  {
   "id": 7302040011,
   "districtId": 7302040,
-  "name": "BONTU MARANNU"
+  "districtName": "BONTOTIRO",
+  "name": "BONTU MARANNU",
+  "postalCode": ""
  },
  {
   "id": 7302040012,
   "districtId": 7302040,
-  "name": "BONTO BARUA"
+  "districtName": "BONTOTIRO",
+  "name": "BONTO BARUA",
+  "postalCode": "92572"
  },
  {
   "id": 7302040013,
   "districtId": 7302040,
-  "name": "LAMANDA"
+  "districtName": "BONTOTIRO",
+  "name": "LAMANDA",
+  "postalCode": "92572"
  }
 ]

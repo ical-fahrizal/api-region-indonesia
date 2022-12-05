@@ -2,21 +2,29 @@
  {
   "id": 2171061001,
   "districtId": 2171061,
-  "name": "TANJUNG UNCANG"
+  "districtName": "BATU AJI",
+  "name": "TANJUNG UNCANG",
+  "postalCode": "29424"
  },
  {
   "id": 2171061002,
   "districtId": 2171061,
-  "name": "BUKIT TEMPAYAN"
+  "districtName": "BATU AJI",
+  "name": "BUKIT TEMPAYAN",
+  "postalCode": "29438"
  },
  {
   "id": 2171061003,
   "districtId": 2171061,
-  "name": "BULIANG"
+  "districtName": "BATU AJI",
+  "name": "BULIANG",
+  "postalCode": "29438"
  },
  {
   "id": 2171061004,
   "districtId": 2171061,
-  "name": "KIBING"
+  "districtName": "BATU AJI",
+  "name": "KIBING",
+  "postalCode": "29422"
  }
 ]

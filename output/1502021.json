@@ -2,76 +2,106 @@
  {
   "id": 1502021001,
   "districtId": 1502021,
-  "name": "TANJUNG DALAM"
+  "districtName": "LEMBAH MASURAI",
+  "name": "TANJUNG DALAM",
+  "postalCode": "37372"
  },
  {
   "id": 1502021002,
   "districtId": 1502021,
-  "name": "MUARA PANGI"
+  "districtName": "LEMBAH MASURAI",
+  "name": "MUARA PANGI",
+  "postalCode": "37372"
  },
  {
   "id": 1502021003,
   "districtId": 1502021,
-  "name": "RANTAU JERING"
+  "districtName": "LEMBAH MASURAI",
+  "name": "RANTAU JERING",
+  "postalCode": "37372"
  },
  {
   "id": 1502021004,
   "districtId": 1502021,
-  "name": "NILO DINGIN"
+  "districtName": "LEMBAH MASURAI",
+  "name": "NILO DINGIN",
+  "postalCode": "37372"
  },
  {
   "id": 1502021005,
   "districtId": 1502021,
-  "name": "TANJUNG BERUGO"
+  "districtName": "LEMBAH MASURAI",
+  "name": "TANJUNG BERUGO",
+  "postalCode": "37372"
  },
  {
   "id": 1502021006,
   "districtId": 1502021,
-  "name": "DUSUN TUO"
+  "districtName": "LEMBAH MASURAI",
+  "name": "DUSUN TUO",
+  "postalCode": "29561"
  },
  {
   "id": 1502021007,
   "districtId": 1502021,
-  "name": "KOTO RAMI"
+  "districtName": "LEMBAH MASURAI",
+  "name": "KOTO RAMI",
+  "postalCode": "37372"
  },
  {
   "id": 1502021008,
   "districtId": 1502021,
-  "name": "PASAR MASURAI"
+  "districtName": "LEMBAH MASURAI",
+  "name": "PASAR MASURAI",
+  "postalCode": "37372"
  },
  {
   "id": 1502021009,
   "districtId": 1502021,
-  "name": "RANCAN"
+  "districtName": "LEMBAH MASURAI",
+  "name": "RANCAN",
+  "postalCode": "37372"
  },
  {
   "id": 1502021010,
   "districtId": 1502021,
-  "name": "MUARA LENGAYO"
+  "districtName": "LEMBAH MASURAI",
+  "name": "MUARA LENGAYO",
+  "postalCode": "37372"
  },
  {
   "id": 1502021011,
   "districtId": 1502021,
-  "name": "SUNGAI LALANG"
+  "districtName": "LEMBAH MASURAI",
+  "name": "SUNGAI LALANG",
+  "postalCode": "37372"
  },
  {
   "id": 1502021012,
   "districtId": 1502021,
-  "name": "TALANG ASAL"
+  "districtName": "LEMBAH MASURAI",
+  "name": "TALANG ASAL",
+  "postalCode": "37372"
  },
  {
   "id": 1502021013,
   "districtId": 1502021,
-  "name": "MUARA KELUKUP"
+  "districtName": "LEMBAH MASURAI",
+  "name": "MUARA KELUKUP",
+  "postalCode": "37372"
  },
  {
   "id": 1502021014,
   "districtId": 1502021,
-  "name": "TALANG PARUH"
+  "districtName": "LEMBAH MASURAI",
+  "name": "TALANG PARUH",
+  "postalCode": "37372"
  },
  {
   "id": 1502021015,
   "districtId": 1502021,
-  "name": "DURIAN MUKUT"
+  "districtName": "LEMBAH MASURAI",
+  "name": "DURIAN MUKUT",
+  "postalCode": "37372"
  }
 ]

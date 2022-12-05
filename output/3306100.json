@@ -2,186 +2,260 @@
  {
   "id": 3306100001,
   "districtId": 3306100,
-  "name": "MANGUNJAYAN"
+  "districtName": "BUTUH",
+  "name": "MANGUNJAYAN",
+  "postalCode": "54264"
  },
  {
   "id": 3306100002,
   "districtId": 3306100,
-  "name": "KEDUNGMULYO"
+  "districtName": "BUTUH",
+  "name": "KEDUNGMULYO",
+  "postalCode": "54264"
  },
  {
   "id": 3306100003,
   "districtId": 3306100,
-  "name": "SIDOMULYO"
+  "districtName": "BUTUH",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  },
  {
   "id": 3306100004,
   "districtId": 3306100,
-  "name": "SUMBERSARI"
+  "districtName": "BUTUH",
+  "name": "SUMBERSARI",
+  "postalCode": "34122"
  },
  {
   "id": 3306100005,
   "districtId": 3306100,
-  "name": "LANGENREJO"
+  "districtName": "BUTUH",
+  "name": "LANGENREJO",
+  "postalCode": "54264"
  },
  {
   "id": 3306100006,
   "districtId": 3306100,
-  "name": "TAMANSARI"
+  "districtName": "BUTUH",
+  "name": "TAMANSARI",
+  "postalCode": "35366"
  },
  {
   "id": 3306100007,
   "districtId": 3306100,
-  "name": "WARENG"
+  "districtName": "BUTUH",
+  "name": "WARENG",
+  "postalCode": "54264"
  },
  {
   "id": 3306100009,
   "districtId": 3306100,
-  "name": "ROWODADI"
+  "districtName": "BUTUH",
+  "name": "ROWODADI",
+  "postalCode": "32361"
  },
  {
   "id": 3306100010,
   "districtId": 3306100,
-  "name": "KEDUNGSARI"
+  "districtName": "BUTUH",
+  "name": "KEDUNGSARI",
+  "postalCode": "28123"
  },
  {
   "id": 3306100011,
   "districtId": 3306100,
-  "name": "TANJUNGANOM"
+  "districtName": "BUTUH",
+  "name": "TANJUNGANOM",
+  "postalCode": "44161"
  },
  {
   "id": 3306100012,
   "districtId": 3306100,
-  "name": "KARANGANOM"
+  "districtName": "BUTUH",
+  "name": "KARANGANOM",
+  "postalCode": "54264"
  },
  {
   "id": 3306100013,
   "districtId": 3306100,
-  "name": "WONODADI"
+  "districtName": "BUTUH",
+  "name": "WONODADI",
+  "postalCode": "30959"
  },
  {
   "id": 3306100014,
   "districtId": 3306100,
-  "name": "SRUWOH DUKUH"
+  "districtName": "BUTUH",
+  "name": "SRUWOH DUKUH",
+  "postalCode": "54264"
  },
  {
   "id": 3306100015,
   "districtId": 3306100,
-  "name": "KEDUNGSRI"
+  "districtName": "BUTUH",
+  "name": "KEDUNGSRI",
+  "postalCode": "54264"
  },
  {
   "id": 3306100016,
   "districtId": 3306100,
-  "name": "KEDUNGAGUNG"
+  "districtName": "BUTUH",
+  "name": "KEDUNGAGUNG",
+  "postalCode": "54264"
  },
  {
   "id": 3306100017,
   "districtId": 3306100,
-  "name": "SRUWOHREJO"
+  "districtName": "BUTUH",
+  "name": "SRUWOHREJO",
+  "postalCode": "54264"
  },
  {
   "id": 3306100018,
   "districtId": 3306100,
-  "name": "LUGUREJO"
+  "districtName": "BUTUH",
+  "name": "LUGUREJO",
+  "postalCode": "54264"
  },
  {
   "id": 3306100019,
   "districtId": 3306100,
-  "name": "KUNIR"
+  "districtName": "BUTUH",
+  "name": "KUNIR",
+  "postalCode": "54264"
  },
  {
   "id": 3306100020,
   "districtId": 3306100,
-  "name": "WONOREJO WETAN"
+  "districtName": "BUTUH",
+  "name": "WONOREJO WETAN",
+  "postalCode": "54264"
  },
  {
   "id": 3306100021,
   "districtId": 3306100,
-  "name": "WONOREJO KULON"
+  "districtName": "BUTUH",
+  "name": "WONOREJO KULON",
+  "postalCode": "54264"
  },
  {
   "id": 3306100022,
   "districtId": 3306100,
-  "name": "KUNIREJO KULON"
+  "districtName": "BUTUH",
+  "name": "KUNIREJO KULON",
+  "postalCode": "54264"
  },
  {
   "id": 3306100023,
   "districtId": 3306100,
-  "name": "KUNIREJO WETAN"
+  "districtName": "BUTUH",
+  "name": "KUNIREJO WETAN",
+  "postalCode": "54264"
  },
  {
   "id": 3306100024,
   "districtId": 3306100,
-  "name": "LUBANG DUKUH"
+  "districtName": "BUTUH",
+  "name": "LUBANG DUKUH",
+  "postalCode": "54264"
  },
  {
   "id": 3306100025,
   "districtId": 3306100,
-  "name": "TLOGOREJO"
+  "districtName": "BUTUH",
+  "name": "TLOGOREJO",
+  "postalCode": "54395"
  },
  {
   "id": 3306100026,
   "districtId": 3306100,
-  "name": "POLOMARTO"
+  "districtName": "BUTUH",
+  "name": "POLOMARTO",
+  "postalCode": "54264"
  },
  {
   "id": 3306100027,
   "districtId": 3306100,
-  "name": "WIRONATAN"
+  "districtName": "BUTUH",
+  "name": "WIRONATAN",
+  "postalCode": "54264"
  },
  {
   "id": 3306100029,
   "districtId": 3306100,
-  "name": "TEGALGONDO"
+  "districtName": "BUTUH",
+  "name": "TEGALGONDO",
+  "postalCode": "54264"
  },
  {
   "id": 3306100030,
   "districtId": 3306100,
-  "name": "LUBANG INDANGAN"
+  "districtName": "BUTUH",
+  "name": "LUBANG INDANGAN",
+  "postalCode": "54264"
  },
  {
   "id": 3306100031,
   "districtId": 3306100,
-  "name": "LUBANG LOR"
+  "districtName": "BUTUH",
+  "name": "LUBANG LOR",
+  "postalCode": "54264"
  },
  {
   "id": 3306100032,
   "districtId": 3306100,
-  "name": "LUBANG KIDUL"
+  "districtName": "BUTUH",
+  "name": "LUBANG KIDUL",
+  "postalCode": "54264"
  },
  {
   "id": 3306100033,
   "districtId": 3306100,
-  "name": "LUBANG SAMPANG"
+  "districtName": "BUTUH",
+  "name": "LUBANG SAMPANG",
+  "postalCode": "54264"
  },
  {
   "id": 3306100035,
   "districtId": 3306100,
-  "name": "BINANGUN"
+  "districtName": "BUTUH",
+  "name": "BINANGUN",
+  "postalCode": "46316"
  },
  {
   "id": 3306100036,
   "districtId": 3306100,
-  "name": "PANGGELDLANGGU"
+  "districtName": "BUTUH",
+  "name": "PANGGELDLANGGU",
+  "postalCode": "54264"
  },
  {
   "id": 3306100037,
   "districtId": 3306100,
-  "name": "DLANGU"
+  "districtName": "BUTUH",
+  "name": "DLANGU",
+  "postalCode": "54264"
  },
  {
   "id": 3306100039,
   "districtId": 3306100,
-  "name": "ANDONG"
+  "districtName": "BUTUH",
+  "name": "ANDONG",
+  "postalCode": "57384"
  },
  {
   "id": 3306100040,
   "districtId": 3306100,
-  "name": "KALIWATUKRANGGAN"
+  "districtName": "BUTUH",
+  "name": "KALIWATUKRANGGAN",
+  "postalCode": "54264"
  },
  {
   "id": 3306100041,
   "districtId": 3306100,
-  "name": "KALIWATUBUMI"
+  "districtName": "BUTUH",
+  "name": "KALIWATUBUMI",
+  "postalCode": "54264"
  }
 ]

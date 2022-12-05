@@ -2,26 +2,36 @@
  {
   "id": 7402112001,
   "districtId": 7402112,
-  "name": "BALUARA"
+  "districtName": "BATUKARA",
+  "name": "BALUARA",
+  "postalCode": "93674"
  },
  {
   "id": 7402112002,
   "districtId": 7402112,
-  "name": "MOOLO"
+  "districtName": "BATUKARA",
+  "name": "MOOLO",
+  "postalCode": "93674"
  },
  {
   "id": 7402112003,
   "districtId": 7402112,
-  "name": "LANOBAKE"
+  "districtName": "BATUKARA",
+  "name": "LANOBAKE",
+  "postalCode": ""
  },
  {
   "id": 7402112004,
   "districtId": 7402112,
-  "name": "BONE-BONE"
+  "districtName": "BATUKARA",
+  "name": "BONE-BONE",
+  "postalCode": "93721"
  },
  {
   "id": 7402112005,
   "districtId": 7402112,
-  "name": "TANGKENO"
+  "districtName": "BATUKARA",
+  "name": "TANGKENO",
+  "postalCode": "93783"
  }
 ]

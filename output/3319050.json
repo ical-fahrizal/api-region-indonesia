@@ -2,46 +2,64 @@
  {
   "id": 3319050001,
   "districtId": 3319050,
-  "name": "GULANG"
+  "districtName": "MEJOBO",
+  "name": "GULANG",
+  "postalCode": "59381"
  },
  {
   "id": 3319050002,
   "districtId": 3319050,
-  "name": "JEPANG"
+  "districtName": "MEJOBO",
+  "name": "JEPANG",
+  "postalCode": "59381"
  },
  {
   "id": 3319050003,
   "districtId": 3319050,
-  "name": "PAYAMAN"
+  "districtName": "MEJOBO",
+  "name": "PAYAMAN",
+  "postalCode": "59381"
  },
  {
   "id": 3319050004,
   "districtId": 3319050,
-  "name": "KIRIG"
+  "districtName": "MEJOBO",
+  "name": "KIRIG",
+  "postalCode": "59381"
  },
  {
   "id": 3319050006,
   "districtId": 3319050,
-  "name": "KESAMBI"
+  "districtName": "MEJOBO",
+  "name": "KESAMBI",
+  "postalCode": "45134"
  },
  {
   "id": 3319050007,
   "districtId": 3319050,
-  "name": "JOJO"
+  "districtName": "MEJOBO",
+  "name": "JOJO",
+  "postalCode": "24173"
  },
  {
   "id": 3319050008,
   "districtId": 3319050,
-  "name": "HADIWARNO"
+  "districtName": "MEJOBO",
+  "name": "HADIWARNO",
+  "postalCode": "59381"
  },
  {
   "id": 3319050009,
   "districtId": 3319050,
-  "name": "MEJOBO"
+  "districtName": "MEJOBO",
+  "name": "MEJOBO",
+  "postalCode": "59381"
  },
  {
   "id": 3319050010,
   "districtId": 3319050,
-  "name": "GOLANTEPUS"
+  "districtName": "MEJOBO",
+  "name": "GOLANTEPUS",
+  "postalCode": "59381"
  }
 ]

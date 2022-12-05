@@ -2,66 +2,92 @@
  {
   "id": 3210020009,
   "districtId": 3210020,
-  "name": "SINDANGHURIP"
+  "districtName": "BANTARUJEG",
+  "name": "SINDANGHURIP",
+  "postalCode": "45464"
  },
  {
   "id": 3210020010,
   "districtId": 3210020,
-  "name": "CIPEUNDEUY"
+  "districtName": "BANTARUJEG",
+  "name": "CIPEUNDEUY",
+  "postalCode": "45464"
  },
  {
   "id": 3210020012,
   "districtId": 3210020,
-  "name": "CIMANGGUHILIR"
+  "districtName": "BANTARUJEG",
+  "name": "CIMANGGUHILIR",
+  "postalCode": "45464"
  },
  {
   "id": 3210020013,
   "districtId": 3210020,
-  "name": "SALAWANGI"
+  "districtName": "BANTARUJEG",
+  "name": "SALAWANGI",
+  "postalCode": "45464"
  },
  {
   "id": 3210020014,
   "districtId": 3210020,
-  "name": "SILIHWANGI"
+  "districtName": "BANTARUJEG",
+  "name": "SILIHWANGI",
+  "postalCode": "45464"
  },
  {
   "id": 3210020015,
   "districtId": 3210020,
-  "name": "WADOWETAN"
+  "districtName": "BANTARUJEG",
+  "name": "WADOWETAN",
+  "postalCode": "45464"
  },
  {
   "id": 3210020016,
   "districtId": 3210020,
-  "name": "BANTARUJEG"
+  "districtName": "BANTARUJEG",
+  "name": "BANTARUJEG",
+  "postalCode": "45464"
  },
  {
   "id": 3210020017,
   "districtId": 3210020,
-  "name": "BABAKANSARI"
+  "districtName": "BANTARUJEG",
+  "name": "BABAKANSARI",
+  "postalCode": "45464"
  },
  {
   "id": 3210020018,
   "districtId": 3210020,
-  "name": "GUNUNGLARANG"
+  "districtName": "BANTARUJEG",
+  "name": "GUNUNGLARANG",
+  "postalCode": "45464"
  },
  {
   "id": 3210020019,
   "districtId": 3210020,
-  "name": "CIKIDANG"
+  "districtName": "BANTARUJEG",
+  "name": "CIKIDANG",
+  "postalCode": "45464"
  },
  {
   "id": 3210020020,
   "districtId": 3210020,
-  "name": "CINAMBO"
+  "districtName": "BANTARUJEG",
+  "name": "CINAMBO",
+  "postalCode": "45464"
  },
  {
   "id": 3210020021,
   "districtId": 3210020,
-  "name": "HAURGEULIS"
+  "districtName": "BANTARUJEG",
+  "name": "HAURGEULIS",
+  "postalCode": "45464"
  },
  {
   "id": 3210020022,
   "districtId": 3210020,
-  "name": "SUKAMENAK"
+  "districtName": "BANTARUJEG",
+  "name": "SUKAMENAK",
+  "postalCode": "45464"
  }
 ]

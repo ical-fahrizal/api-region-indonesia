@@ -2,41 +2,57 @@
  {
   "id": 5203031002,
   "districtId": 5203031,
-  "name": "KILANG"
+  "districtName": "MONTONG GADING",
+  "name": "KILANG",
+  "postalCode": "83663"
  },
  {
   "id": 5203031003,
   "districtId": 5203031,
-  "name": "MONTONG BETOK"
+  "districtName": "MONTONG GADING",
+  "name": "MONTONG BETOK",
+  "postalCode": "83663"
  },
  {
   "id": 5203031004,
   "districtId": 5203031,
-  "name": "PRINGGAJURANG"
+  "districtName": "MONTONG GADING",
+  "name": "PRINGGAJURANG",
+  "postalCode": ""
  },
  {
   "id": 5203031005,
   "districtId": 5203031,
-  "name": "PERIAN"
+  "districtName": "MONTONG GADING",
+  "name": "PERIAN",
+  "postalCode": "83663"
  },
  {
   "id": 5203031006,
   "districtId": 5203031,
-  "name": "JENGGIK UTARA"
+  "districtName": "MONTONG GADING",
+  "name": "JENGGIK UTARA",
+  "postalCode": "83663"
  },
  {
   "id": 5203031007,
   "districtId": 5203031,
-  "name": "PESANGGRAHAN"
+  "districtName": "MONTONG GADING",
+  "name": "PESANGGRAHAN",
+  "postalCode": "12320"
  },
  {
   "id": 5203031008,
   "districtId": 5203031,
-  "name": "PRINGGAJURANG UTARA"
+  "districtName": "MONTONG GADING",
+  "name": "PRINGGAJURANG UTARA",
+  "postalCode": "83663"
  },
  {
   "id": 5203031009,
   "districtId": 5203031,
-  "name": "LENDANG BELO"
+  "districtName": "MONTONG GADING",
+  "name": "LENDANG BELO",
+  "postalCode": "83663"
  }
 ]

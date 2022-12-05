@@ -2,46 +2,64 @@
  {
   "id": 6106032001,
   "districtId": 6106032,
-  "name": "MEMBULUH BARU"
+  "districtName": "AIR UPAS",
+  "name": "MEMBULUH BARU",
+  "postalCode": "78863"
  },
  {
   "id": 6106032002,
   "districtId": 6106032,
-  "name": "GAHANG"
+  "districtName": "AIR UPAS",
+  "name": "GAHANG",
+  "postalCode": "78863"
  },
  {
   "id": 6106032003,
   "districtId": 6106032,
-  "name": "AIR UPAS"
+  "districtName": "AIR UPAS",
+  "name": "AIR UPAS",
+  "postalCode": "78863"
  },
  {
   "id": 6106032004,
   "districtId": 6106032,
-  "name": "AIR DURIAN JAYA"
+  "districtName": "AIR UPAS",
+  "name": "AIR DURIAN JAYA",
+  "postalCode": "78863"
  },
  {
   "id": 6106032005,
   "districtId": 6106032,
-  "name": "SARI BEKAYAS"
+  "districtName": "AIR UPAS",
+  "name": "SARI BEKAYAS",
+  "postalCode": "78863"
  },
  {
   "id": 6106032006,
   "districtId": 6106032,
-  "name": "BANDA SARI"
+  "districtName": "AIR UPAS",
+  "name": "BANDA SARI",
+  "postalCode": "78863"
  },
  {
   "id": 6106032007,
   "districtId": 6106032,
-  "name": "SUKARIA"
+  "districtName": "AIR UPAS",
+  "name": "SUKARIA",
+  "postalCode": "78863"
  },
  {
   "id": 6106032008,
   "districtId": 6106032,
-  "name": "HARAPAN BARU"
+  "districtName": "AIR UPAS",
+  "name": "HARAPAN BARU",
+  "postalCode": "24786"
  },
  {
   "id": 6106032009,
   "districtId": 6106032,
-  "name": "MEKAR JAYA"
+  "districtName": "AIR UPAS",
+  "name": "MEKAR JAYA",
+  "postalCode": "20771"
  }
 ]

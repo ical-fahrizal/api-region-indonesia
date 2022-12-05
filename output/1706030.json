@@ -2,41 +2,57 @@
  {
   "id": 1706030012,
   "districtId": 1706030,
-  "name": "TERAS TERUNJAM"
+  "districtName": "TERAS TERUNJAM",
+  "name": "TERAS TERUNJAM",
+  "postalCode": "38768"
  },
  {
   "id": 1706030013,
   "districtId": 1706030,
-  "name": "SETIA BUDI"
+  "districtName": "TERAS TERUNJAM",
+  "name": "SETIA BUDI",
+  "postalCode": "38768"
  },
  {
   "id": 1706030014,
   "districtId": 1706030,
-  "name": "PONDOK KOPI"
+  "districtName": "TERAS TERUNJAM",
+  "name": "PONDOK KOPI",
+  "postalCode": "38768"
  },
  {
   "id": 1706030015,
   "districtId": 1706030,
-  "name": "TUNGGAL JAYA"
+  "districtName": "TERAS TERUNJAM",
+  "name": "TUNGGAL JAYA",
+  "postalCode": "38768"
  },
  {
   "id": 1706030022,
   "districtId": 1706030,
-  "name": "MEKAR JAYA"
+  "districtName": "TERAS TERUNJAM",
+  "name": "MEKAR JAYA",
+  "postalCode": "20771"
  },
  {
   "id": 1706030023,
   "districtId": 1706030,
-  "name": "KARANG JAYA"
+  "districtName": "TERAS TERUNJAM",
+  "name": "KARANG JAYA",
+  "postalCode": "32383"
  },
  {
   "id": 1706030024,
   "districtId": 1706030,
-  "name": "TERUNTUNG"
+  "districtName": "TERAS TERUNJAM",
+  "name": "TERUNTUNG",
+  "postalCode": "38768"
  },
  {
   "id": 1706030025,
   "districtId": 1706030,
-  "name": "TELANG KUNING"
+  "districtName": "TERAS TERUNJAM",
+  "name": "TELANG KUNING",
+  "postalCode": ""
  }
 ]

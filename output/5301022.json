@@ -2,71 +2,99 @@
  {
   "id": 5301022001,
   "districtId": 5301022,
-  "name": "HOBA WAWI"
+  "districtName": "WANOKAKA",
+  "name": "HOBA WAWI",
+  "postalCode": "87272"
  },
  {
   "id": 5301022002,
   "districtId": 5301022,
-  "name": "RUA"
+  "districtName": "WANOKAKA",
+  "name": "RUA",
+  "postalCode": "87272"
  },
  {
   "id": 5301022003,
   "districtId": 5301022,
-  "name": "PAHOLA"
+  "districtName": "WANOKAKA",
+  "name": "PAHOLA",
+  "postalCode": "87272"
  },
  {
   "id": 5301022004,
   "districtId": 5301022,
-  "name": "WAI HURA"
+  "districtName": "WANOKAKA",
+  "name": "WAI HURA",
+  "postalCode": "87272"
  },
  {
   "id": 5301022005,
   "districtId": 5301022,
-  "name": "BALI LOKU"
+  "districtName": "WANOKAKA",
+  "name": "BALI LOKU",
+  "postalCode": "87272"
  },
  {
   "id": 5301022006,
   "districtId": 5301022,
-  "name": "HUPU MADA"
+  "districtName": "WANOKAKA",
+  "name": "HUPU MADA",
+  "postalCode": "87272"
  },
  {
   "id": 5301022007,
   "districtId": 5301022,
-  "name": "KATIKU LOKU"
+  "districtName": "WANOKAKA",
+  "name": "KATIKU LOKU",
+  "postalCode": "87272"
  },
  {
   "id": 5301022008,
   "districtId": 5301022,
-  "name": "TARA MANU"
+  "districtName": "WANOKAKA",
+  "name": "TARA MANU",
+  "postalCode": "87272"
  },
  {
   "id": 5301022009,
   "districtId": 5301022,
-  "name": "PRAI BAKUL"
+  "districtName": "WANOKAKA",
+  "name": "PRAI BAKUL",
+  "postalCode": "87152"
  },
  {
   "id": 5301022010,
   "districtId": 5301022,
-  "name": "MAMODU"
+  "districtName": "WANOKAKA",
+  "name": "MAMODU",
+  "postalCode": "87272"
  },
  {
   "id": 5301022011,
   "districtId": 5301022,
-  "name": "REWA RARA"
+  "districtName": "WANOKAKA",
+  "name": "REWA RARA",
+  "postalCode": "87272"
  },
  {
   "id": 5301022012,
   "districtId": 5301022,
-  "name": "ANA WOLU"
+  "districtName": "WANOKAKA",
+  "name": "ANA WOLU",
+  "postalCode": "87272"
  },
  {
   "id": 5301022013,
   "districtId": 5301022,
-  "name": "WEI MANGOMA"
+  "districtName": "WANOKAKA",
+  "name": "WEI MANGOMA",
+  "postalCode": "87272"
  },
  {
   "id": 5301022014,
   "districtId": 5301022,
-  "name": "PARI RARA"
+  "districtName": "WANOKAKA",
+  "name": "PARI RARA",
+  "postalCode": "87272"
  }
 ]

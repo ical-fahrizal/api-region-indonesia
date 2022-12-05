@@ -2,61 +2,85 @@
  {
   "id": 5206051002,
   "districtId": 5206051,
-  "name": "LAJU"
+  "districtName": "LANGGUDU",
+  "name": "LAJU",
+  "postalCode": "84181"
  },
  {
   "id": 5206051004,
   "districtId": 5206051,
-  "name": "DORO O'O"
+  "districtName": "LANGGUDU",
+  "name": "DORO O'O",
+  "postalCode": ""
  },
  {
   "id": 5206051006,
   "districtId": 5206051,
-  "name": "WAWORADA"
+  "districtName": "LANGGUDU",
+  "name": "WAWORADA",
+  "postalCode": "84181"
  },
  {
   "id": 5206051007,
   "districtId": 5206051,
-  "name": "KAWUWU"
+  "districtName": "LANGGUDU",
+  "name": "KAWUWU",
+  "postalCode": "84181"
  },
  {
   "id": 5206051008,
   "districtId": 5206051,
-  "name": "KARUMBU"
+  "districtName": "LANGGUDU",
+  "name": "KARUMBU",
+  "postalCode": "84181"
  },
  {
   "id": 5206051009,
   "districtId": 5206051,
-  "name": "KALODU"
+  "districtName": "LANGGUDU",
+  "name": "KALODU",
+  "postalCode": "84181"
  },
  {
   "id": 5206051011,
   "districtId": 5206051,
-  "name": "KANGGA"
+  "districtName": "LANGGUDU",
+  "name": "KANGGA",
+  "postalCode": "84181"
  },
  {
   "id": 5206051012,
   "districtId": 5206051,
-  "name": "KARAMPI"
+  "districtName": "LANGGUDU",
+  "name": "KARAMPI",
+  "postalCode": "84181"
  },
  {
   "id": 5206051013,
   "districtId": 5206051,
-  "name": "WADU RUKA"
+  "districtName": "LANGGUDU",
+  "name": "WADU RUKA",
+  "postalCode": "84181"
  },
  {
   "id": 5206051015,
   "districtId": 5206051,
-  "name": "ROMPO"
+  "districtName": "LANGGUDU",
+  "name": "ROMPO",
+  "postalCode": "84181"
  },
  {
   "id": 5206051016,
   "districtId": 5206051,
-  "name": "SAMBANE"
+  "districtName": "LANGGUDU",
+  "name": "SAMBANE",
+  "postalCode": ""
  },
  {
   "id": 5206051017,
   "districtId": 5206051,
-  "name": "SARAE RUMA"
+  "districtName": "LANGGUDU",
+  "name": "SARAE RUMA",
+  "postalCode": ""
  }
 ]

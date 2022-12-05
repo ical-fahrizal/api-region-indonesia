@@ -2,51 +2,71 @@
  {
   "id": 7202081001,
   "districtId": 7202081,
-  "name": "TOMBOS"
+  "districtName": "BALANTAK SELATAN",
+  "name": "TOMBOS",
+  "postalCode": "94773"
  },
  {
   "id": 7202081002,
   "districtId": 7202081,
-  "name": "TINTINGON"
+  "districtName": "BALANTAK SELATAN",
+  "name": "TINTINGON",
+  "postalCode": ""
  },
  {
   "id": 7202081003,
   "districtId": 7202081,
-  "name": "BOOY"
+  "districtName": "BALANTAK SELATAN",
+  "name": "BOOY",
+  "postalCode": "94773"
  },
  {
   "id": 7202081005,
   "districtId": 7202081,
-  "name": "DONDO"
+  "districtName": "BALANTAK SELATAN",
+  "name": "DONDO",
+  "postalCode": "94683"
  },
  {
   "id": 7202081006,
   "districtId": 7202081,
-  "name": "RESARNA"
+  "districtName": "BALANTAK SELATAN",
+  "name": "RESARNA",
+  "postalCode": "94773"
  },
  {
   "id": 7202081007,
   "districtId": 7202081,
-  "name": "GIWANG"
+  "districtName": "BALANTAK SELATAN",
+  "name": "GIWANG",
+  "postalCode": "94773"
  },
  {
   "id": 7202081008,
   "districtId": 7202081,
-  "name": "GORONTALO"
+  "districtName": "BALANTAK SELATAN",
+  "name": "GORONTALO",
+  "postalCode": "86754"
  },
  {
   "id": 7202081009,
   "districtId": 7202081,
-  "name": "TONGKE"
+  "districtName": "BALANTAK SELATAN",
+  "name": "TONGKE",
+  "postalCode": "94773"
  },
  {
   "id": 7202081010,
   "districtId": 7202081,
-  "name": "POYANG"
+  "districtName": "BALANTAK SELATAN",
+  "name": "POYANG",
+  "postalCode": "94773"
  },
  {
   "id": 7202081011,
   "districtId": 7202081,
-  "name": "TANGGAWAS"
+  "districtName": "BALANTAK SELATAN",
+  "name": "TANGGAWAS",
+  "postalCode": "94773"
  }
 ]

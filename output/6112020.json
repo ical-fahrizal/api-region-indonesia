@@ -2,51 +2,71 @@
  {
   "id": 6112020001,
   "districtId": 6112020,
-  "name": "SUNGAI DUNGUN"
+  "districtName": "TERENTANG",
+  "name": "SUNGAI DUNGUN",
+  "postalCode": "36555"
  },
  {
   "id": 6112020002,
   "districtId": 6112020,
-  "name": "TERENTANG HULU"
+  "districtName": "TERENTANG",
+  "name": "TERENTANG HULU",
+  "postalCode": "78392"
  },
  {
   "id": 6112020003,
   "districtId": 6112020,
-  "name": "TELUK BAYUR"
+  "districtName": "TERENTANG",
+  "name": "TELUK BAYUR",
+  "postalCode": "29783"
  },
  {
   "id": 6112020004,
   "districtId": 6112020,
-  "name": "TELUK EMPENING"
+  "districtName": "TERENTANG",
+  "name": "TELUK EMPENING",
+  "postalCode": "78392"
  },
  {
   "id": 6112020005,
   "districtId": 6112020,
-  "name": "TERENTANG HILIR"
+  "districtName": "TERENTANG",
+  "name": "TERENTANG HILIR",
+  "postalCode": "78392"
  },
  {
   "id": 6112020006,
   "districtId": 6112020,
-  "name": "SUNGAI RADAK I"
+  "districtName": "TERENTANG",
+  "name": "SUNGAI RADAK I",
+  "postalCode": ""
  },
  {
   "id": 6112020007,
   "districtId": 6112020,
-  "name": "SUNGAI RADAK II"
+  "districtName": "TERENTANG",
+  "name": "SUNGAI RADAK II",
+  "postalCode": ""
  },
  {
   "id": 6112020008,
   "districtId": 6112020,
-  "name": "PERMATA"
+  "districtName": "TERENTANG",
+  "name": "PERMATA",
+  "postalCode": "78392"
  },
  {
   "id": 6112020009,
   "districtId": 6112020,
-  "name": "BETUAH"
+  "districtName": "TERENTANG",
+  "name": "BETUAH",
+  "postalCode": "78392"
  },
  {
   "id": 6112020010,
   "districtId": 6112020,
-  "name": "RADAK BARU"
+  "districtName": "TERENTANG",
+  "name": "RADAK BARU",
+  "postalCode": ""
  }
 ]

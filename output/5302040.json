@@ -2,36 +2,50 @@
  {
   "id": 5302040010,
   "districtId": 5302040,
-  "name": "KURUWAKI"
+  "districtName": "PAHUNGA LODU",
+  "name": "KURUWAKI",
+  "postalCode": "87182"
  },
  {
   "id": 5302040011,
   "districtId": 5302040,
-  "name": "PAMBURU"
+  "districtName": "PAHUNGA LODU",
+  "name": "PAMBURU",
+  "postalCode": "87182"
  },
  {
   "id": 5302040012,
   "districtId": 5302040,
-  "name": "KALIUDA"
+  "districtName": "PAHUNGA LODU",
+  "name": "KALIUDA",
+  "postalCode": "87182"
  },
  {
   "id": 5302040013,
   "districtId": 5302040,
-  "name": "TANAMANANG"
+  "districtName": "PAHUNGA LODU",
+  "name": "TANAMANANG",
+  "postalCode": "87182"
  },
  {
   "id": 5302040014,
   "districtId": 5302040,
-  "name": "TAMMA"
+  "districtName": "PAHUNGA LODU",
+  "name": "TAMMA",
+  "postalCode": "87182"
  },
  {
   "id": 5302040015,
   "districtId": 5302040,
-  "name": "LAMBAKARA"
+  "districtName": "PAHUNGA LODU",
+  "name": "LAMBAKARA",
+  "postalCode": "87182"
  },
  {
   "id": 5302040017,
   "districtId": 5302040,
-  "name": "PALANGGAI"
+  "districtName": "PAHUNGA LODU",
+  "name": "PALANGGAI",
+  "postalCode": "87182"
  }
 ]

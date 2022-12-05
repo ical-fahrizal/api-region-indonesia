@@ -2,31 +2,43 @@
  {
   "id": 1209050001,
   "districtId": 1209050,
-  "name": "SIPANGAN BOLON"
+  "districtName": "GIRSANG SIPANGAN BOLON",
+  "name": "SIPANGAN BOLON",
+  "postalCode": "21174"
  },
  {
   "id": 1209050002,
   "districtId": 1209050,
-  "name": "GIRSANG"
+  "districtName": "GIRSANG SIPANGAN BOLON",
+  "name": "GIRSANG",
+  "postalCode": "21174"
  },
  {
   "id": 1209050003,
   "districtId": 1209050,
-  "name": "PARAPAT"
+  "districtName": "GIRSANG SIPANGAN BOLON",
+  "name": "PARAPAT",
+  "postalCode": "21174"
  },
  {
   "id": 1209050004,
   "districtId": 1209050,
-  "name": "TIGA RAJA"
+  "districtName": "GIRSANG SIPANGAN BOLON",
+  "name": "TIGA RAJA",
+  "postalCode": "21174"
  },
  {
   "id": 1209050005,
   "districtId": 1209050,
-  "name": "SIBAGANDING"
+  "districtName": "GIRSANG SIPANGAN BOLON",
+  "name": "SIBAGANDING",
+  "postalCode": "20581"
  },
  {
   "id": 1209050006,
   "districtId": 1209050,
-  "name": "SIPANGAN BOLON MEKAR"
+  "districtName": "GIRSANG SIPANGAN BOLON",
+  "name": "SIPANGAN BOLON MEKAR",
+  "postalCode": ""
  }
 ]

@@ -2,51 +2,71 @@
  {
   "id": 8102012001,
   "districtId": 8102012,
-  "name": "OHOIDERTUTU"
+  "districtName": "KEI KECIL BARAT",
+  "name": "OHOIDERTUTU",
+  "postalCode": "97615"
  },
  {
   "id": 8102012002,
   "districtId": 8102012,
-  "name": "MADWAER"
+  "districtName": "KEI KECIL BARAT",
+  "name": "MADWAER",
+  "postalCode": ""
  },
  {
   "id": 8102012003,
   "districtId": 8102012,
-  "name": "SOMLAIN"
+  "districtName": "KEI KECIL BARAT",
+  "name": "SOMLAIN",
+  "postalCode": "97615"
  },
  {
   "id": 8102012004,
   "districtId": 8102012,
-  "name": "OHOIREN"
+  "districtName": "KEI KECIL BARAT",
+  "name": "OHOIREN",
+  "postalCode": "97615"
  },
  {
   "id": 8102012005,
   "districtId": 8102012,
-  "name": "OHOIRA"
+  "districtName": "KEI KECIL BARAT",
+  "name": "OHOIRA",
+  "postalCode": "97615"
  },
  {
   "id": 8102012006,
   "districtId": 8102012,
-  "name": "UR PULAU"
+  "districtName": "KEI KECIL BARAT",
+  "name": "UR PULAU",
+  "postalCode": "97615"
  },
  {
   "id": 8102012007,
   "districtId": 8102012,
-  "name": "TANIMBAR KEI"
+  "districtName": "KEI KECIL BARAT",
+  "name": "TANIMBAR KEI",
+  "postalCode": "97615"
  },
  {
   "id": 8102012008,
   "districtId": 8102012,
-  "name": "WARBAL"
+  "districtName": "KEI KECIL BARAT",
+  "name": "WARBAL",
+  "postalCode": "97615"
  },
  {
   "id": 8102012009,
   "districtId": 8102012,
-  "name": "OHOIDERTOM"
+  "districtName": "KEI KECIL BARAT",
+  "name": "OHOIDERTOM",
+  "postalCode": "97615"
  },
  {
   "id": 8102012010,
   "districtId": 8102012,
-  "name": "YATWAV"
+  "districtName": "KEI KECIL BARAT",
+  "name": "YATWAV",
+  "postalCode": "97615"
  }
 ]

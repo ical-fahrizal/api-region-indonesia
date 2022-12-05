@@ -2,91 +2,127 @@
  {
   "id": 3523180001,
   "districtId": 3523180,
-  "name": "KARANGTENGAH"
+  "districtName": "JATIROGO",
+  "name": "KARANGTENGAH",
+  "postalCode": "43351"
  },
  {
   "id": 3523180002,
   "districtId": 3523180,
-  "name": "JOMBOK"
+  "districtName": "JATIROGO",
+  "name": "JOMBOK",
+  "postalCode": "62362"
  },
  {
   "id": 3523180003,
   "districtId": 3523180,
-  "name": "WOTSOGO"
+  "districtName": "JATIROGO",
+  "name": "WOTSOGO",
+  "postalCode": "62362"
  },
  {
   "id": 3523180004,
   "districtId": 3523180,
-  "name": "SIDOMULYO"
+  "districtName": "JATIROGO",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  },
  {
   "id": 3523180005,
   "districtId": 3523180,
-  "name": "JATIKLABANG"
+  "districtName": "JATIROGO",
+  "name": "JATIKLABANG",
+  "postalCode": "62362"
  },
  {
   "id": 3523180006,
   "districtId": 3523180,
-  "name": "DINGIL"
+  "districtName": "JATIROGO",
+  "name": "DINGIL",
+  "postalCode": "62362"
  },
  {
   "id": 3523180007,
   "districtId": 3523180,
-  "name": "DEMIT"
+  "districtName": "JATIROGO",
+  "name": "DEMIT",
+  "postalCode": "62362"
  },
  {
   "id": 3523180008,
   "districtId": 3523180,
-  "name": "SUGIHAN"
+  "districtName": "JATIROGO",
+  "name": "SUGIHAN",
+  "postalCode": "32272"
  },
  {
   "id": 3523180009,
   "districtId": 3523180,
-  "name": "SADANG"
+  "districtName": "JATIROGO",
+  "name": "SADANG",
+  "postalCode": "44115"
  },
  {
   "id": 3523180010,
   "districtId": 3523180,
-  "name": "BADER"
+  "districtName": "JATIROGO",
+  "name": "BADER",
+  "postalCode": "63174"
  },
  {
   "id": 3523180011,
   "districtId": 3523180,
-  "name": "PASEYAN"
+  "districtName": "JATIROGO",
+  "name": "PASEYAN",
+  "postalCode": "62362"
  },
  {
   "id": 3523180012,
   "districtId": 3523180,
-  "name": "KEBONHARJO"
+  "districtName": "JATIROGO",
+  "name": "KEBONHARJO",
+  "postalCode": "51351"
  },
  {
   "id": 3523180013,
   "districtId": 3523180,
-  "name": "WANGI"
+  "districtName": "JATIROGO",
+  "name": "WANGI",
+  "postalCode": "62362"
  },
  {
   "id": 3523180014,
   "districtId": 3523180,
-  "name": "KETODAN"
+  "districtName": "JATIROGO",
+  "name": "KETODAN",
+  "postalCode": "62362"
  },
  {
   "id": 3523180015,
   "districtId": 3523180,
-  "name": "BESOWO"
+  "districtName": "JATIROGO",
+  "name": "BESOWO",
+  "postalCode": "62362"
  },
  {
   "id": 3523180016,
   "districtId": 3523180,
-  "name": "NGEPON"
+  "districtName": "JATIROGO",
+  "name": "NGEPON",
+  "postalCode": "62362"
  },
  {
   "id": 3523180017,
   "districtId": 3523180,
-  "name": "KEDUNGMAKAM"
+  "districtName": "JATIROGO",
+  "name": "KEDUNGMAKAM",
+  "postalCode": "62362"
  },
  {
   "id": 3523180018,
   "districtId": 3523180,
-  "name": "SEKARAN"
+  "districtName": "JATIROGO",
+  "name": "SEKARAN",
+  "postalCode": "50229"
  }
 ]

@@ -2,21 +2,29 @@
  {
   "id": 3578140001,
   "districtId": 3578140,
-  "name": "BANGKINGAN"
+  "districtName": "LAKARSANTRI",
+  "name": "BANGKINGAN",
+  "postalCode": ""
  },
  {
   "id": 3578140003,
   "districtId": 3578140,
-  "name": "LIDAH WETAN"
+  "districtName": "LAKARSANTRI",
+  "name": "LIDAH WETAN",
+  "postalCode": "60213"
  },
  {
   "id": 3578140004,
   "districtId": 3578140,
-  "name": "LIDAH KULON"
+  "districtName": "LAKARSANTRI",
+  "name": "LIDAH KULON",
+  "postalCode": "60213"
  },
  {
   "id": 3578140006,
   "districtId": 3578140,
-  "name": "LAKARSANTRI"
+  "districtName": "LAKARSANTRI",
+  "name": "LAKARSANTRI",
+  "postalCode": ""
  }
 ]

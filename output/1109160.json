@@ -2,246 +2,344 @@
  {
   "id": 1109160001,
   "districtId": 1109160,
-  "name": "TUHA SUWIEK"
+  "districtName": "INDRAJAYA",
+  "name": "TUHA SUWIEK",
+  "postalCode": "24171"
  },
  {
   "id": 1109160002,
   "districtId": 1109160,
-  "name": "MESJID SUWIEK"
+  "districtName": "INDRAJAYA",
+  "name": "MESJID SUWIEK",
+  "postalCode": "24171"
  },
  {
   "id": 1109160003,
   "districtId": 1109160,
-  "name": "TEUNGOH SUWIEK"
+  "districtName": "INDRAJAYA",
+  "name": "TEUNGOH SUWIEK",
+  "postalCode": "24171"
  },
  {
   "id": 1109160004,
   "districtId": 1109160,
-  "name": "BEUREUDEUP"
+  "districtName": "INDRAJAYA",
+  "name": "BEUREUDEUP",
+  "postalCode": "24171"
  },
  {
   "id": 1109160005,
   "districtId": 1109160,
-  "name": "SUKON ULGA"
+  "districtName": "INDRAJAYA",
+  "name": "SUKON ULGA",
+  "postalCode": ""
  },
  {
   "id": 1109160006,
   "districtId": 1109160,
-  "name": "PEUTOE"
+  "districtName": "INDRAJAYA",
+  "name": "PEUTOE",
+  "postalCode": ""
  },
  {
   "id": 1109160007,
   "districtId": 1109160,
-  "name": "GLEE GAPUI"
+  "districtName": "INDRAJAYA",
+  "name": "GLEE GAPUI",
+  "postalCode": "24171"
  },
  {
   "id": 1109160008,
   "districtId": 1109160,
-  "name": "MESJID ULGA"
+  "districtName": "INDRAJAYA",
+  "name": "MESJID ULGA",
+  "postalCode": ""
  },
  {
   "id": 1109160009,
   "districtId": 1109160,
-  "name": "BLANG RAPAI"
+  "districtName": "INDRAJAYA",
+  "name": "BLANG RAPAI",
+  "postalCode": ""
  },
  {
   "id": 1109160010,
   "districtId": 1109160,
-  "name": "BALEE BAROH GAPUI"
+  "districtName": "INDRAJAYA",
+  "name": "BALEE BAROH GAPUI",
+  "postalCode": "24171"
  },
  {
   "id": 1109160011,
   "districtId": 1109160,
-  "name": "NEULOP II"
+  "districtName": "INDRAJAYA",
+  "name": "NEULOP II",
+  "postalCode": "24171"
  },
  {
   "id": 1109160012,
   "districtId": 1109160,
-  "name": "BARO GAPUI"
+  "districtName": "INDRAJAYA",
+  "name": "BARO GAPUI",
+  "postalCode": "24171"
  },
  {
   "id": 1109160013,
   "districtId": 1109160,
-  "name": "MESJID DIJIEM"
+  "districtName": "INDRAJAYA",
+  "name": "MESJID DIJIEM",
+  "postalCode": "24171"
  },
  {
   "id": 1109160014,
   "districtId": 1109160,
-  "name": "GUCI"
+  "districtName": "INDRAJAYA",
+  "name": "GUCI",
+  "postalCode": "24171"
  },
  {
   "id": 1109160015,
   "districtId": 1109160,
-  "name": "WAKEUEH"
+  "districtName": "INDRAJAYA",
+  "name": "WAKEUEH",
+  "postalCode": "24171"
  },
  {
   "id": 1109160016,
   "districtId": 1109160,
-  "name": "DAYAH BIE"
+  "districtName": "INDRAJAYA",
+  "name": "DAYAH BIE",
+  "postalCode": "24171"
  },
  {
   "id": 1109160017,
   "districtId": 1109160,
-  "name": "JURONG"
+  "districtName": "INDRAJAYA",
+  "name": "JURONG",
+  "postalCode": "24172"
  },
  {
   "id": 1109160018,
   "districtId": 1109160,
-  "name": "BARO BLUEK"
+  "districtName": "INDRAJAYA",
+  "name": "BARO BLUEK",
+  "postalCode": "24171"
  },
  {
   "id": 1109160019,
   "districtId": 1109160,
-  "name": "RUMIA"
+  "districtName": "INDRAJAYA",
+  "name": "RUMIA",
+  "postalCode": "24171"
  },
  {
   "id": 1109160020,
   "districtId": 1109160,
-  "name": "KEUTAPANG"
+  "districtName": "INDRAJAYA",
+  "name": "KEUTAPANG",
+  "postalCode": "24171"
  },
  {
   "id": 1109160021,
   "districtId": 1109160,
-  "name": "COT SEUKEE"
+  "districtName": "INDRAJAYA",
+  "name": "COT SEUKEE",
+  "postalCode": "24171"
  },
  {
   "id": 1109160022,
   "districtId": 1109160,
-  "name": "DRIEN"
+  "districtName": "INDRAJAYA",
+  "name": "DRIEN",
+  "postalCode": "24171"
  },
  {
   "id": 1109160023,
   "districtId": 1109160,
-  "name": "BALE BAROH BLUEK"
+  "districtName": "INDRAJAYA",
+  "name": "BALE BAROH BLUEK",
+  "postalCode": ""
  },
  {
   "id": 1109160024,
   "districtId": 1109160,
-  "name": "TEUNGOH BLANG"
+  "districtName": "INDRAJAYA",
+  "name": "TEUNGOH BLANG",
+  "postalCode": "24171"
  },
  {
   "id": 1109160025,
   "districtId": 1109160,
-  "name": "MEULAYU"
+  "districtName": "INDRAJAYA",
+  "name": "MEULAYU",
+  "postalCode": "24171"
  },
  {
   "id": 1109160026,
   "districtId": 1109160,
-  "name": "SUKON TUNGKOP"
+  "districtName": "INDRAJAYA",
+  "name": "SUKON TUNGKOP",
+  "postalCode": "24171"
  },
  {
   "id": 1109160027,
   "districtId": 1109160,
-  "name": "KEUBANG"
+  "districtName": "INDRAJAYA",
+  "name": "KEUBANG",
+  "postalCode": "24171"
  },
  {
   "id": 1109160028,
   "districtId": 1109160,
-  "name": "GAROT CUT"
+  "districtName": "INDRAJAYA",
+  "name": "GAROT CUT",
+  "postalCode": "24171"
  },
  {
   "id": 1109160029,
   "districtId": 1109160,
-  "name": "RAWA TUNGKOP"
+  "districtName": "INDRAJAYA",
+  "name": "RAWA TUNGKOP",
+  "postalCode": "24171"
  },
  {
   "id": 1109160030,
   "districtId": 1109160,
-  "name": "MESJID TUNGKOP"
+  "districtName": "INDRAJAYA",
+  "name": "MESJID TUNGKOP",
+  "postalCode": "24171"
  },
  {
   "id": 1109160031,
   "districtId": 1109160,
-  "name": "LAMREUNEUNG"
+  "districtName": "INDRAJAYA",
+  "name": "LAMREUNEUNG",
+  "postalCode": "24171"
  },
  {
   "id": 1109160032,
   "districtId": 1109160,
-  "name": "LAMKABU"
+  "districtName": "INDRAJAYA",
+  "name": "LAMKABU",
+  "postalCode": "24171"
  },
  {
   "id": 1109160033,
   "districtId": 1109160,
-  "name": "MESJID BARO"
+  "districtName": "INDRAJAYA",
+  "name": "MESJID BARO",
+  "postalCode": "24171"
  },
  {
   "id": 1109160034,
   "districtId": 1109160,
-  "name": "TAMPIENG BAROH"
+  "districtName": "INDRAJAYA",
+  "name": "TAMPIENG BAROH",
+  "postalCode": "24171"
  },
  {
   "id": 1109160035,
   "districtId": 1109160,
-  "name": "DAYAH CALEUE"
+  "districtName": "INDRAJAYA",
+  "name": "DAYAH CALEUE",
+  "postalCode": "24171"
  },
  {
   "id": 1109160036,
   "districtId": 1109160,
-  "name": "TAMPIENG TUNONG"
+  "districtName": "INDRAJAYA",
+  "name": "TAMPIENG TUNONG",
+  "postalCode": ""
  },
  {
   "id": 1109160037,
   "districtId": 1109160,
-  "name": "ULEE BIRAH"
+  "districtName": "INDRAJAYA",
+  "name": "ULEE BIRAH",
+  "postalCode": "24171"
  },
  {
   "id": 1109160038,
   "districtId": 1109160,
-  "name": "BLANG LHOK KAJU"
+  "districtName": "INDRAJAYA",
+  "name": "BLANG LHOK KAJU",
+  "postalCode": "24171"
  },
  {
   "id": 1109160039,
   "districtId": 1109160,
-  "name": "BARO JRUEK"
+  "districtName": "INDRAJAYA",
+  "name": "BARO JRUEK",
+  "postalCode": "24171"
  },
  {
   "id": 1109160040,
   "districtId": 1109160,
-  "name": "MESJID LAM UJONG"
+  "districtName": "INDRAJAYA",
+  "name": "MESJID LAM UJONG",
+  "postalCode": "24171"
  },
  {
   "id": 1109160041,
   "districtId": 1109160,
-  "name": "TUNGKOP CUT"
+  "districtName": "INDRAJAYA",
+  "name": "TUNGKOP CUT",
+  "postalCode": "24171"
  },
  {
   "id": 1109160042,
   "districtId": 1109160,
-  "name": "DAYAH MUARA GAROT"
+  "districtName": "INDRAJAYA",
+  "name": "DAYAH MUARA GAROT",
+  "postalCode": "24171"
  },
  {
   "id": 1109160043,
   "districtId": 1109160,
-  "name": "BLANG GAROT"
+  "districtName": "INDRAJAYA",
+  "name": "BLANG GAROT",
+  "postalCode": "24171"
  },
  {
   "id": 1109160044,
   "districtId": 1109160,
-  "name": "PULO GAMPONG U"
+  "districtName": "INDRAJAYA",
+  "name": "PULO GAMPONG U",
+  "postalCode": "24171"
  },
  {
   "id": 1109160045,
   "districtId": 1109160,
-  "name": "DAYAH KEURAKO"
+  "districtName": "INDRAJAYA",
+  "name": "DAYAH KEURAKO",
+  "postalCode": "24171"
  },
  {
   "id": 1109160046,
   "districtId": 1109160,
-  "name": "YUB MEE"
+  "districtName": "INDRAJAYA",
+  "name": "YUB MEE",
+  "postalCode": "24171"
  },
  {
   "id": 1109160047,
   "districtId": 1109160,
-  "name": "RAYA LHOK KAJU"
+  "districtName": "INDRAJAYA",
+  "name": "RAYA LHOK KAJU",
+  "postalCode": "24171"
  },
  {
   "id": 1109160048,
   "districtId": 1109160,
-  "name": "PANTE GAROT"
+  "districtName": "INDRAJAYA",
+  "name": "PANTE GAROT",
+  "postalCode": "24171"
  },
  {
   "id": 1109160049,
   "districtId": 1109160,
-  "name": "PANTE LHOK KAJU"
+  "districtName": "INDRAJAYA",
+  "name": "PANTE LHOK KAJU",
+  "postalCode": "24171"
  }
 ]

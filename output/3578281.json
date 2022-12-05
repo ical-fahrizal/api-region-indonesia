@@ -2,21 +2,29 @@
  {
   "id": 3578281001,
   "districtId": 3578281,
-  "name": "BABAT JERAWAT"
+  "districtName": "PAKAL",
+  "name": "BABAT JERAWAT",
+  "postalCode": "60197"
  },
  {
   "id": 3578281002,
   "districtId": 3578281,
-  "name": "PAKAL"
+  "districtName": "PAKAL",
+  "name": "PAKAL",
+  "postalCode": "60196"
  },
  {
   "id": 3578281003,
   "districtId": 3578281,
-  "name": "BENOWO"
+  "districtName": "PAKAL",
+  "name": "BENOWO",
+  "postalCode": "54183"
  },
  {
   "id": 3578281004,
   "districtId": 3578281,
-  "name": "SUMBERREJO"
+  "districtName": "PAKAL",
+  "name": "SUMBERREJO",
+  "postalCode": "59184"
  }
 ]

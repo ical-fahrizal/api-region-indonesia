@@ -2,26 +2,36 @@
  {
   "id": 5103010001,
   "districtId": 5103010,
-  "name": "PECATU"
+  "districtName": "KUTA SELATAN",
+  "name": "PECATU",
+  "postalCode": "80361"
  },
  {
   "id": 5103010002,
   "districtId": 5103010,
-  "name": "UNGASAN"
+  "districtName": "KUTA SELATAN",
+  "name": "UNGASAN",
+  "postalCode": "80361"
  },
  {
   "id": 5103010004,
   "districtId": 5103010,
-  "name": "BENOA"
+  "districtName": "KUTA SELATAN",
+  "name": "BENOA",
+  "postalCode": "80361"
  },
  {
   "id": 5103010005,
   "districtId": 5103010,
-  "name": "TANJUNG BENOA"
+  "districtName": "KUTA SELATAN",
+  "name": "TANJUNG BENOA",
+  "postalCode": "80361"
  },
  {
   "id": 5103010006,
   "districtId": 5103010,
-  "name": "JIMBARAN"
+  "districtName": "KUTA SELATAN",
+  "name": "JIMBARAN",
+  "postalCode": "50661"
  }
 ]

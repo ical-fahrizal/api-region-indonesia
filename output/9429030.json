@@ -2,16 +2,22 @@
  {
   "id": 9429030001,
   "districtId": 9429030,
-  "name": "GESELEMA"
+  "districtName": "GESELMA",
+  "name": "GESELEMA",
+  "postalCode": ""
  },
  {
   "id": 9429030005,
   "districtId": 9429030,
-  "name": "TALEM"
+  "districtName": "GESELMA",
+  "name": "TALEM",
+  "postalCode": "99564"
  },
  {
   "id": 9429030006,
   "districtId": 9429030,
-  "name": "KOSOLPEM"
+  "districtName": "GESELMA",
+  "name": "KOSOLPEM",
+  "postalCode": "99564"
  }
 ]

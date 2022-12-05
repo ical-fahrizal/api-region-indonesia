@@ -2,51 +2,71 @@
  {
   "id": 1803121001,
   "districtId": 1803121,
-  "name": "BAKTI RASA"
+  "districtName": "SRAGI",
+  "name": "BAKTI RASA",
+  "postalCode": "35597"
  },
  {
   "id": 1803121002,
   "districtId": 1803121,
-  "name": "SUKAPURA"
+  "districtName": "SRAGI",
+  "name": "SUKAPURA",
+  "postalCode": "35597"
  },
  {
   "id": 1803121003,
   "districtId": 1803121,
-  "name": "MANDALASARI"
+  "districtName": "SRAGI",
+  "name": "MANDALASARI",
+  "postalCode": "35597"
  },
  {
   "id": 1803121004,
   "districtId": 1803121,
-  "name": "SUMBER SARI"
+  "districtName": "SRAGI",
+  "name": "SUMBER SARI",
+  "postalCode": "21343"
  },
  {
   "id": 1803121005,
   "districtId": 1803121,
-  "name": "MARGAJASA"
+  "districtName": "SRAGI",
+  "name": "MARGAJASA",
+  "postalCode": "35597"
  },
  {
   "id": 1803121006,
   "districtId": 1803121,
-  "name": "KEDAUNG"
+  "districtName": "SRAGI",
+  "name": "KEDAUNG",
+  "postalCode": "35158"
  },
  {
   "id": 1803121007,
   "districtId": 1803121,
-  "name": "SUMBER AGUNG"
+  "districtName": "SRAGI",
+  "name": "SUMBER AGUNG",
+  "postalCode": "37353"
  },
  {
   "id": 1803121008,
   "districtId": 1803121,
-  "name": "KUALA SEKAMPUNG"
+  "districtName": "SRAGI",
+  "name": "KUALA SEKAMPUNG",
+  "postalCode": "35597"
  },
  {
   "id": 1803121009,
   "districtId": 1803121,
-  "name": "BANDAR AGUNG"
+  "districtName": "SRAGI",
+  "name": "BANDAR AGUNG",
+  "postalCode": "31414"
  },
  {
   "id": 1803121010,
   "districtId": 1803121,
-  "name": "MARGASARI"
+  "districtName": "SRAGI",
+  "name": "MARGASARI",
+  "postalCode": "34198"
  }
 ]

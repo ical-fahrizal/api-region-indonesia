@@ -2,76 +2,106 @@
  {
   "id": 7210030001,
   "districtId": 7210030,
-  "name": "SIWONGI"
+  "districtName": "KULAWI",
+  "name": "SIWONGI",
+  "postalCode": "94363"
  },
  {
   "id": 7210030002,
   "districtId": 7210030,
-  "name": "BANGGAIBA"
+  "districtName": "KULAWI",
+  "name": "BANGGAIBA",
+  "postalCode": "94363"
  },
  {
   "id": 7210030003,
   "districtId": 7210030,
-  "name": "RANTEWULU"
+  "districtName": "KULAWI",
+  "name": "RANTEWULU",
+  "postalCode": "94363"
  },
  {
   "id": 7210030004,
   "districtId": 7210030,
-  "name": "TOWULU"
+  "districtName": "KULAWI",
+  "name": "TOWULU",
+  "postalCode": "94363"
  },
  {
   "id": 7210030005,
   "districtId": 7210030,
-  "name": "WINATU"
+  "districtName": "KULAWI",
+  "name": "WINATU",
+  "postalCode": "94363"
  },
  {
   "id": 7210030006,
   "districtId": 7210030,
-  "name": "LONCA"
+  "districtName": "KULAWI",
+  "name": "LONCA",
+  "postalCode": "94363"
  },
  {
   "id": 7210030007,
   "districtId": 7210030,
-  "name": "BOLADANGKO"
+  "districtName": "KULAWI",
+  "name": "BOLADANGKO",
+  "postalCode": "94363"
  },
  {
   "id": 7210030008,
   "districtId": 7210030,
-  "name": "TANGKULOWI"
+  "districtName": "KULAWI",
+  "name": "TANGKULOWI",
+  "postalCode": "94363"
  },
  {
   "id": 7210030009,
   "districtId": 7210030,
-  "name": "SALUA"
+  "districtName": "KULAWI",
+  "name": "SALUA",
+  "postalCode": "94363"
  },
  {
   "id": 7210030010,
   "districtId": 7210030,
-  "name": "NAMO"
+  "districtName": "KULAWI",
+  "name": "NAMO",
+  "postalCode": "94363"
  },
  {
   "id": 7210030011,
   "districtId": 7210030,
-  "name": "BOLAPAPU"
+  "districtName": "KULAWI",
+  "name": "BOLAPAPU",
+  "postalCode": "94363"
  },
  {
   "id": 7210030013,
   "districtId": 7210030,
-  "name": "MATAUE"
+  "districtName": "KULAWI",
+  "name": "MATAUE",
+  "postalCode": "94363"
  },
  {
   "id": 7210030014,
   "districtId": 7210030,
-  "name": "TORO"
+  "districtName": "KULAWI",
+  "name": "TORO",
+  "postalCode": "94363"
  },
  {
   "id": 7210030015,
   "districtId": 7210030,
-  "name": "POLEROA MAKUHI"
+  "districtName": "KULAWI",
+  "name": "POLEROA MAKUHI",
+  "postalCode": ""
  },
  {
   "id": 7210030016,
   "districtId": 7210030,
-  "name": "MARENA"
+  "districtName": "KULAWI",
+  "name": "MARENA",
+  "postalCode": ""
  }
 ]

@@ -2,66 +2,92 @@
  {
   "id": 3210120001,
   "districtId": 3210120,
-  "name": "PARAKAN"
+  "districtName": "LEUWIMUNDING",
+  "name": "PARAKAN",
+  "postalCode": "16610"
  },
  {
   "id": 3210120002,
   "districtId": 3210120,
-  "name": "LAME"
+  "districtName": "LEUWIMUNDING",
+  "name": "LAME",
+  "postalCode": "45473"
  },
  {
   "id": 3210120003,
   "districtId": 3210120,
-  "name": "MINDI"
+  "districtName": "LEUWIMUNDING",
+  "name": "MINDI",
+  "postalCode": "45473"
  },
  {
   "id": 3210120004,
   "districtId": 3210120,
-  "name": "RAJAWANGI"
+  "districtName": "LEUWIMUNDING",
+  "name": "RAJAWANGI",
+  "postalCode": "45473"
  },
  {
   "id": 3210120005,
   "districtId": 3210120,
-  "name": "LEUWIKUJANG"
+  "districtName": "LEUWIMUNDING",
+  "name": "LEUWIKUJANG",
+  "postalCode": "45473"
  },
  {
   "id": 3210120006,
   "districtId": 3210120,
-  "name": "NANGGERANG"
+  "districtName": "LEUWIMUNDING",
+  "name": "NANGGERANG",
+  "postalCode": "41253"
  },
  {
   "id": 3210120007,
   "districtId": 3210120,
-  "name": "PATUANAN"
+  "districtName": "LEUWIMUNDING",
+  "name": "PATUANAN",
+  "postalCode": "45473"
  },
  {
   "id": 3210120008,
   "districtId": 3210120,
-  "name": "TANJUNGSARI"
+  "districtName": "LEUWIMUNDING",
+  "name": "TANJUNGSARI",
+  "postalCode": "28983"
  },
  {
   "id": 3210120009,
   "districtId": 3210120,
-  "name": "KARANGASEM"
+  "districtName": "LEUWIMUNDING",
+  "name": "KARANGASEM",
+  "postalCode": "45186"
  },
  {
   "id": 3210120011,
   "districtId": 3210120,
-  "name": "CIPARAY"
+  "districtName": "LEUWIMUNDING",
+  "name": "CIPARAY",
+  "postalCode": "46352"
  },
  {
   "id": 3210120012,
   "districtId": 3210120,
-  "name": "LEUWIMUNDING"
+  "districtName": "LEUWIMUNDING",
+  "name": "LEUWIMUNDING",
+  "postalCode": "45473"
  },
  {
   "id": 3210120013,
   "districtId": 3210120,
-  "name": "MIRAT"
+  "districtName": "LEUWIMUNDING",
+  "name": "MIRAT",
+  "postalCode": "45473"
  },
  {
   "id": 3210120014,
   "districtId": 3210120,
-  "name": "PARUNGJAYA"
+  "districtName": "LEUWIMUNDING",
+  "name": "PARUNGJAYA",
+  "postalCode": "45473"
  }
 ]

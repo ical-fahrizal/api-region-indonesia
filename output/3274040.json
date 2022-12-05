@@ -2,26 +2,36 @@
  {
   "id": 3274040001,
   "districtId": 3274040,
-  "name": "KARYAMULYA"
+  "districtName": "KESAMBI",
+  "name": "KARYAMULYA",
+  "postalCode": "41354"
  },
  {
   "id": 3274040002,
   "districtId": 3274040,
-  "name": "SUNYARAGI"
+  "districtName": "KESAMBI",
+  "name": "SUNYARAGI",
+  "postalCode": "45132"
  },
  {
   "id": 3274040003,
   "districtId": 3274040,
-  "name": "DRAJAT"
+  "districtName": "KESAMBI",
+  "name": "DRAJAT",
+  "postalCode": "45133"
  },
  {
   "id": 3274040004,
   "districtId": 3274040,
-  "name": "KESAMBI"
+  "districtName": "KESAMBI",
+  "name": "KESAMBI",
+  "postalCode": "45134"
  },
  {
   "id": 3274040005,
   "districtId": 3274040,
-  "name": "PEKIRINGAN"
+  "districtName": "KESAMBI",
+  "name": "PEKIRINGAN",
+  "postalCode": "45131"
  }
 ]

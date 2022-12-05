@@ -2,46 +2,64 @@
  {
   "id": 1204031001,
   "districtId": 1204031,
-  "name": "SIPANGE"
+  "districtName": "TUKKA",
+  "name": "SIPANGE",
+  "postalCode": "22617"
  },
  {
   "id": 1204031002,
   "districtId": 1204031,
-  "name": "HUTANABOLON"
+  "districtName": "TUKKA",
+  "name": "HUTANABOLON",
+  "postalCode": ""
  },
  {
   "id": 1204031003,
   "districtId": 1204031,
-  "name": "SIGIRING GIRING"
+  "districtName": "TUKKA",
+  "name": "SIGIRING GIRING",
+  "postalCode": "22617"
  },
  {
   "id": 1204031004,
   "districtId": 1204031,
-  "name": "SAIT KALANGAN II"
+  "districtName": "TUKKA",
+  "name": "SAIT KALANGAN II",
+  "postalCode": ""
  },
  {
   "id": 1204031005,
   "districtId": 1204031,
-  "name": "AEK BONTAR"
+  "districtName": "TUKKA",
+  "name": "AEK BONTAR",
+  "postalCode": "22617"
  },
  {
   "id": 1204031006,
   "districtId": 1204031,
-  "name": "TAPIAN NAULI/SAURMANGGITA"
+  "districtName": "TUKKA",
+  "name": "TAPIAN NAULI/SAURMANGGITA",
+  "postalCode": ""
  },
  {
   "id": 1204031007,
   "districtId": 1204031,
-  "name": "BONALUMBAN"
+  "districtName": "TUKKA",
+  "name": "BONALUMBAN",
+  "postalCode": ""
  },
  {
   "id": 1204031008,
   "districtId": 1204031,
-  "name": "TUKKA"
+  "districtName": "TUKKA",
+  "name": "TUKKA",
+  "postalCode": "22617"
  },
  {
   "id": 1204031009,
   "districtId": 1204031,
-  "name": "AEK TOLANG INDUK"
+  "districtName": "TUKKA",
+  "name": "AEK TOLANG INDUK",
+  "postalCode": ""
  }
 ]

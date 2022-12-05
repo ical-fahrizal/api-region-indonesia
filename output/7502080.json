@@ -2,41 +2,57 @@
  {
   "id": 7502080011,
   "districtId": 7502080,
-  "name": "BULILA"
+  "districtName": "TELAGA",
+  "name": "BULILA",
+  "postalCode": "96181"
  },
  {
   "id": 7502080014,
   "districtId": 7502080,
-  "name": "MONGOLATO"
+  "districtName": "TELAGA",
+  "name": "MONGOLATO",
+  "postalCode": "96181"
  },
  {
   "id": 7502080016,
   "districtId": 7502080,
-  "name": "HULAWA"
+  "districtName": "TELAGA",
+  "name": "HULAWA",
+  "postalCode": "96266"
  },
  {
   "id": 7502080017,
   "districtId": 7502080,
-  "name": "PILOHAYANGA"
+  "districtName": "TELAGA",
+  "name": "PILOHAYANGA",
+  "postalCode": "96181"
  },
  {
   "id": 7502080027,
   "districtId": 7502080,
-  "name": "DULAMAYO SELATAN"
+  "districtName": "TELAGA",
+  "name": "DULAMAYO SELATAN",
+  "postalCode": "96181"
  },
  {
   "id": 7502080028,
   "districtId": 7502080,
-  "name": "DULAMAYO BARAT"
+  "districtName": "TELAGA",
+  "name": "DULAMAYO BARAT",
+  "postalCode": "96181"
  },
  {
   "id": 7502080029,
   "districtId": 7502080,
-  "name": "PILOHAYANGA BARAT"
+  "districtName": "TELAGA",
+  "name": "PILOHAYANGA BARAT",
+  "postalCode": "96181"
  },
  {
   "id": 7502080030,
   "districtId": 7502080,
-  "name": "DOLUHUPA"
+  "districtName": "TELAGA",
+  "name": "DOLUHUPA",
+  "postalCode": ""
  }
 ]

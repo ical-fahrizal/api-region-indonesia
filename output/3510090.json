@@ -2,31 +2,43 @@
  {
   "id": 3510090001,
   "districtId": 3510090,
-  "name": "KEBONREJO"
+  "districtName": "KALIBARU",
+  "name": "KEBONREJO",
+  "postalCode": "58253"
  },
  {
   "id": 3510090002,
   "districtId": 3510090,
-  "name": "KALIBARU MANIS"
+  "districtName": "KALIBARU",
+  "name": "KALIBARU MANIS",
+  "postalCode": "68467"
  },
  {
   "id": 3510090003,
   "districtId": 3510090,
-  "name": "BANYUANYAR"
+  "districtName": "KALIBARU",
+  "name": "BANYUANYAR",
+  "postalCode": "57352"
  },
  {
   "id": 3510090004,
   "districtId": 3510090,
-  "name": "KALIBARU KULON"
+  "districtName": "KALIBARU",
+  "name": "KALIBARU KULON",
+  "postalCode": "68467"
  },
  {
   "id": 3510090005,
   "districtId": 3510090,
-  "name": "KALIBARU WETAN"
+  "districtName": "KALIBARU",
+  "name": "KALIBARU WETAN",
+  "postalCode": "68467"
  },
  {
   "id": 3510090006,
   "districtId": 3510090,
-  "name": "KAJARHARJO"
+  "districtName": "KALIBARU",
+  "name": "KAJARHARJO",
+  "postalCode": "68467"
  }
 ]

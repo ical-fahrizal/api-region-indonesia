@@ -2,51 +2,71 @@
  {
   "id": 3510121001,
   "districtId": 3510121,
-  "name": "KALIGUNG"
+  "districtName": "BLIMBINGSARI",
+  "name": "KALIGUNG",
+  "postalCode": "68462"
  },
  {
   "id": 3510121002,
   "districtId": 3510121,
-  "name": "KARANGREJO"
+  "districtName": "BLIMBINGSARI",
+  "name": "KARANGREJO",
+  "postalCode": "35387"
  },
  {
   "id": 3510121003,
   "districtId": 3510121,
-  "name": "BOMO"
+  "districtName": "BLIMBINGSARI",
+  "name": "BOMO",
+  "postalCode": "63553"
  },
  {
   "id": 3510121004,
   "districtId": 3510121,
-  "name": "GINTANGAN"
+  "districtName": "BLIMBINGSARI",
+  "name": "GINTANGAN",
+  "postalCode": "68462"
  },
  {
   "id": 3510121005,
   "districtId": 3510121,
-  "name": "KAOTAN"
+  "districtName": "BLIMBINGSARI",
+  "name": "KAOTAN",
+  "postalCode": "68462"
  },
  {
   "id": 3510121006,
   "districtId": 3510121,
-  "name": "WATU KEBO"
+  "districtName": "BLIMBINGSARI",
+  "name": "WATU KEBO",
+  "postalCode": "68462"
  },
  {
   "id": 3510121007,
   "districtId": 3510121,
-  "name": "PATOMAN"
+  "districtName": "BLIMBINGSARI",
+  "name": "PATOMAN",
+  "postalCode": "35376"
  },
  {
   "id": 3510121008,
   "districtId": 3510121,
-  "name": "BLIMBING SARI"
+  "districtName": "BLIMBINGSARI",
+  "name": "BLIMBING SARI",
+  "postalCode": "68462"
  },
  {
   "id": 3510121009,
   "districtId": 3510121,
-  "name": "BADEAN"
+  "districtName": "BLIMBINGSARI",
+  "name": "BADEAN",
+  "postalCode": "68154"
  },
  {
   "id": 3510121010,
   "districtId": 3510121,
-  "name": "SUKOJATI"
+  "districtName": "BLIMBINGSARI",
+  "name": "SUKOJATI",
+  "postalCode": "68461"
  }
 ]

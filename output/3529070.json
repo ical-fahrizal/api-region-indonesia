@@ -2,81 +2,113 @@
  {
   "id": 3529070005,
   "districtId": 3529070,
-  "name": "KOLOR"
+  "districtName": "KOTA SUMENEP",
+  "name": "KOLOR",
+  "postalCode": "69417"
  },
  {
   "id": 3529070006,
   "districtId": 3529070,
-  "name": "PABIAN"
+  "districtName": "KOTA SUMENEP",
+  "name": "PABIAN",
+  "postalCode": "69491"
  },
  {
   "id": 3529070007,
   "districtId": 3529070,
-  "name": "MARENGAN DAYA"
+  "districtName": "KOTA SUMENEP",
+  "name": "MARENGAN DAYA",
+  "postalCode": "69417"
  },
  {
   "id": 3529070008,
   "districtId": 3529070,
-  "name": "KACONGAN"
+  "districtName": "KOTA SUMENEP",
+  "name": "KACONGAN",
+  "postalCode": "69417"
  },
  {
   "id": 3529070009,
   "districtId": 3529070,
-  "name": "PABERASAN"
+  "districtName": "KOTA SUMENEP",
+  "name": "PABERASAN",
+  "postalCode": "53273"
  },
  {
   "id": 3529070010,
   "districtId": 3529070,
-  "name": "PARSANGA"
+  "districtName": "KOTA SUMENEP",
+  "name": "PARSANGA",
+  "postalCode": "69417"
  },
  {
   "id": 3529070011,
   "districtId": 3529070,
-  "name": "BANGKAL"
+  "districtName": "KOTA SUMENEP",
+  "name": "BANGKAL",
+  "postalCode": "53281"
  },
  {
   "id": 3529070012,
   "districtId": 3529070,
-  "name": "PANGARANGAN"
+  "districtName": "KOTA SUMENEP",
+  "name": "PANGARANGAN",
+  "postalCode": "69412"
  },
  {
   "id": 3529070013,
   "districtId": 3529070,
-  "name": "KEPANJIN"
+  "districtName": "KOTA SUMENEP",
+  "name": "KEPANJIN",
+  "postalCode": "69415"
  },
  {
   "id": 3529070014,
   "districtId": 3529070,
-  "name": "PAJAGALAN"
+  "districtName": "KOTA SUMENEP",
+  "name": "PAJAGALAN",
+  "postalCode": "69416"
  },
  {
   "id": 3529070015,
   "districtId": 3529070,
-  "name": "BANGSELOK"
+  "districtName": "KOTA SUMENEP",
+  "name": "BANGSELOK",
+  "postalCode": "69416"
  },
  {
   "id": 3529070016,
   "districtId": 3529070,
-  "name": "KARANGDUAK"
+  "districtName": "KOTA SUMENEP",
+  "name": "KARANGDUAK",
+  "postalCode": "69417"
  },
  {
   "id": 3529070017,
   "districtId": 3529070,
-  "name": "PANDIAN"
+  "districtName": "KOTA SUMENEP",
+  "name": "PANDIAN",
+  "postalCode": "69414"
  },
  {
   "id": 3529070018,
   "districtId": 3529070,
-  "name": "PAMOLOKAN"
+  "districtName": "KOTA SUMENEP",
+  "name": "PAMOLOKAN",
+  "postalCode": "69412"
  },
  {
   "id": 3529070019,
   "districtId": 3529070,
-  "name": "KEBUNAN"
+  "districtName": "KOTA SUMENEP",
+  "name": "KEBUNAN",
+  "postalCode": "69417"
  },
  {
   "id": 3529070020,
   "districtId": 3529070,
-  "name": "KEBUNAGUNG"
+  "districtName": "KOTA SUMENEP",
+  "name": "KEBUNAGUNG",
+  "postalCode": "62162"
  }
 ]

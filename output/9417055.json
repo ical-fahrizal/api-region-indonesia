@@ -2,61 +2,85 @@
  {
   "id": 9417055001,
   "districtId": 9417055,
-  "name": "OKMA"
+  "districtName": "OKSAMOL",
+  "name": "OKMA",
+  "postalCode": "99574"
  },
  {
   "id": 9417055002,
   "districtId": 9417055,
-  "name": "PAUNE"
+  "districtName": "OKSAMOL",
+  "name": "PAUNE",
+  "postalCode": "99574"
  },
  {
   "id": 9417055003,
   "districtId": 9417055,
-  "name": "TINIBIL"
+  "districtName": "OKSAMOL",
+  "name": "TINIBIL",
+  "postalCode": "99574"
  },
  {
   "id": 9417055004,
   "districtId": 9417055,
-  "name": "OKTAE"
+  "districtName": "OKSAMOL",
+  "name": "OKTAE",
+  "postalCode": "99574"
  },
  {
   "id": 9417055005,
   "districtId": 9417055,
-  "name": "OKDILAN"
+  "districtName": "OKSAMOL",
+  "name": "OKDILAN",
+  "postalCode": ""
  },
  {
   "id": 9417055006,
   "districtId": 9417055,
-  "name": "AUTPAHIT"
+  "districtName": "OKSAMOL",
+  "name": "AUTPAHIT",
+  "postalCode": ""
  },
  {
   "id": 9417055007,
   "districtId": 9417055,
-  "name": "TOMKA"
+  "districtName": "OKSAMOL",
+  "name": "TOMKA",
+  "postalCode": "99574"
  },
  {
   "id": 9417055008,
   "districtId": 9417055,
-  "name": "OKPA"
+  "districtName": "OKSAMOL",
+  "name": "OKPA",
+  "postalCode": "99574"
  },
  {
   "id": 9417055009,
   "districtId": 9417055,
-  "name": "OKHAHA"
+  "districtName": "OKSAMOL",
+  "name": "OKHAHA",
+  "postalCode": ""
  },
  {
   "id": 9417055010,
   "districtId": 9417055,
-  "name": "HONKUDING"
+  "districtName": "OKSAMOL",
+  "name": "HONKUDING",
+  "postalCode": "99574"
  },
  {
   "id": 9417055011,
   "districtId": 9417055,
-  "name": "BOMDING"
+  "districtName": "OKSAMOL",
+  "name": "BOMDING",
+  "postalCode": "99574"
  },
  {
   "id": 9417055012,
   "districtId": 9417055,
-  "name": "OKDUNAN"
+  "districtName": "OKSAMOL",
+  "name": "OKDUNAN",
+  "postalCode": ""
  }
 ]

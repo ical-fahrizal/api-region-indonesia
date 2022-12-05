@@ -2,76 +2,106 @@
  {
   "id": 1601091001,
   "districtId": 1601091,
-  "name": "MERBAU"
+  "districtName": "LUBUK BATANG",
+  "name": "MERBAU",
+  "postalCode": "28383"
  },
  {
   "id": 1601091002,
   "districtId": 1601091,
-  "name": "GUNUNG MERAKSA"
+  "districtName": "LUBUK BATANG",
+  "name": "GUNUNG MERAKSA",
+  "postalCode": "32192"
  },
  {
   "id": 1601091003,
   "districtId": 1601091,
-  "name": "KURUP"
+  "districtName": "LUBUK BATANG",
+  "name": "KURUP",
+  "postalCode": "32192"
  },
  {
   "id": 1601091004,
   "districtId": 1601091,
-  "name": "BANU AYU"
+  "districtName": "LUBUK BATANG",
+  "name": "BANU AYU",
+  "postalCode": "32192"
  },
  {
   "id": 1601091006,
   "districtId": 1601091,
-  "name": "TANJUNG DALAM"
+  "districtName": "LUBUK BATANG",
+  "name": "TANJUNG DALAM",
+  "postalCode": "37372"
  },
  {
   "id": 1601091007,
   "districtId": 1601091,
-  "name": "LUBUK BATANG BARU"
+  "districtName": "LUBUK BATANG",
+  "name": "LUBUK BATANG BARU",
+  "postalCode": "32192"
  },
  {
   "id": 1601091008,
   "districtId": 1601091,
-  "name": "LUBUK BATANG LAMA"
+  "districtName": "LUBUK BATANG",
+  "name": "LUBUK BATANG LAMA",
+  "postalCode": "32192"
  },
  {
   "id": 1601091010,
   "districtId": 1601091,
-  "name": "BELATUNG"
+  "districtName": "LUBUK BATANG",
+  "name": "BELATUNG",
+  "postalCode": "32192"
  },
  {
   "id": 1601091011,
   "districtId": 1601091,
-  "name": "KARTA MULIA"
+  "districtName": "LUBUK BATANG",
+  "name": "KARTA MULIA",
+  "postalCode": "32192"
  },
  {
   "id": 1601091012,
   "districtId": 1601091,
-  "name": "MARKISA"
+  "districtName": "LUBUK BATANG",
+  "name": "MARKISA",
+  "postalCode": "32192"
  },
  {
   "id": 1601091013,
   "districtId": 1601091,
-  "name": "LUNGGAIAN BARU/AIR WAL"
+  "districtName": "LUBUK BATANG",
+  "name": "LUNGGAIAN BARU/AIR WAL",
+  "postalCode": ""
  },
  {
   "id": 1601091014,
   "districtId": 1601091,
-  "name": "LUNGGAIAN"
+  "districtName": "LUBUK BATANG",
+  "name": "LUNGGAIAN",
+  "postalCode": "32192"
  },
  {
   "id": 1601091015,
   "districtId": 1601091,
-  "name": "TANJUNG MANGGUS"
+  "districtName": "LUBUK BATANG",
+  "name": "TANJUNG MANGGUS",
+  "postalCode": "32192"
  },
  {
   "id": 1601091016,
   "districtId": 1601091,
-  "name": "BANDAR AGUNG"
+  "districtName": "LUBUK BATANG",
+  "name": "BANDAR AGUNG",
+  "postalCode": "31414"
  },
  {
   "id": 1601091017,
   "districtId": 1601091,
-  "name": "SUMBER BAHAGIA"
+  "districtName": "LUBUK BATANG",
+  "name": "SUMBER BAHAGIA",
+  "postalCode": "34156"
  }
 ]

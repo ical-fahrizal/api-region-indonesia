@@ -2,21 +2,29 @@
  {
   "id": 3205111001,
   "districtId": 3205111,
-  "name": "CISANGKAL"
+  "districtName": "CIHURIP",
+  "name": "CISANGKAL",
+  "postalCode": "44173"
  },
  {
   "id": 3205111002,
   "districtId": 3205111,
-  "name": "JAYAMUKTI"
+  "districtName": "CIHURIP",
+  "name": "JAYAMUKTI",
+  "postalCode": "41374"
  },
  {
   "id": 3205111003,
   "districtId": 3205111,
-  "name": "CIHURIP"
+  "districtName": "CIHURIP",
+  "name": "CIHURIP",
+  "postalCode": "44173"
  },
  {
   "id": 3205111004,
   "districtId": 3205111,
-  "name": "MEKARWANGI"
+  "districtName": "CIHURIP",
+  "name": "MEKARWANGI",
+  "postalCode": "45462"
  }
 ]

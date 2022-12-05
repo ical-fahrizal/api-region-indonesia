@@ -2,36 +2,50 @@
  {
   "id": 6111040001,
   "districtId": 6111040,
-  "name": "SUNGAI PADUAN"
+  "districtName": "TELUK BATANG",
+  "name": "SUNGAI PADUAN",
+  "postalCode": ""
  },
  {
   "id": 6111040002,
   "districtId": 6111040,
-  "name": "ALUR BANDUNG"
+  "districtName": "TELUK BATANG",
+  "name": "ALUR BANDUNG",
+  "postalCode": "78856"
  },
  {
   "id": 6111040003,
   "districtId": 6111040,
-  "name": "TELUK BATANG"
+  "districtName": "TELUK BATANG",
+  "name": "TELUK BATANG",
+  "postalCode": "78856"
  },
  {
   "id": 6111040004,
   "districtId": 6111040,
-  "name": "MAS BANGUN"
+  "districtName": "TELUK BATANG",
+  "name": "MAS BANGUN",
+  "postalCode": "78856"
  },
  {
   "id": 6111040005,
   "districtId": 6111040,
-  "name": "BANYU ABANG"
+  "districtName": "TELUK BATANG",
+  "name": "BANYU ABANG",
+  "postalCode": "78856"
  },
  {
   "id": 6111040006,
   "districtId": 6111040,
-  "name": "TELUK BATANG UTARA"
+  "districtName": "TELUK BATANG",
+  "name": "TELUK BATANG UTARA",
+  "postalCode": "78856"
  },
  {
   "id": 6111040007,
   "districtId": 6111040,
-  "name": "TELUK BATANG SELATAN"
+  "districtName": "TELUK BATANG",
+  "name": "TELUK BATANG SELATAN",
+  "postalCode": "78856"
  }
 ]

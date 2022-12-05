@@ -2,261 +2,365 @@
  {
   "id": 1110040001,
   "districtId": 1110040,
-  "name": "BLANG RANGKULUH"
+  "districtName": "PEUDADA",
+  "name": "BLANG RANGKULUH",
+  "postalCode": "24262"
  },
  {
   "id": 1110040002,
   "districtId": 1110040,
-  "name": "ALUE SIJUEK"
+  "districtName": "PEUDADA",
+  "name": "ALUE SIJUEK",
+  "postalCode": "24262"
  },
  {
   "id": 1110040003,
   "districtId": 1110040,
-  "name": "BUKET PAYA"
+  "districtName": "PEUDADA",
+  "name": "BUKET PAYA",
+  "postalCode": "24471"
  },
  {
   "id": 1110040004,
   "districtId": 1110040,
-  "name": "DAYAH MON ARA"
+  "districtName": "PEUDADA",
+  "name": "DAYAH MON ARA",
+  "postalCode": "24262"
  },
  {
   "id": 1110040005,
   "districtId": 1110040,
-  "name": "PULO ARA"
+  "districtName": "PEUDADA",
+  "name": "PULO ARA",
+  "postalCode": "24262"
  },
  {
   "id": 1110040006,
   "districtId": 1110040,
-  "name": "COT LAOT"
+  "districtName": "PEUDADA",
+  "name": "COT LAOT",
+  "postalCode": "24262"
  },
  {
   "id": 1110040007,
   "districtId": 1110040,
-  "name": "MEUNASAH BUNGO"
+  "districtName": "PEUDADA",
+  "name": "MEUNASAH BUNGO",
+  "postalCode": "24262"
  },
  {
   "id": 1110040008,
   "districtId": 1110040,
-  "name": "PAYA BUNOT"
+  "districtName": "PEUDADA",
+  "name": "PAYA BUNOT",
+  "postalCode": "24262"
  },
  {
   "id": 1110040009,
   "districtId": 1110040,
-  "name": "COT KEUTAPANG"
+  "districtName": "PEUDADA",
+  "name": "COT KEUTAPANG",
+  "postalCode": "24251"
  },
  {
   "id": 1110040010,
   "districtId": 1110040,
-  "name": "LAWANG"
+  "districtName": "PEUDADA",
+  "name": "LAWANG",
+  "postalCode": "24386"
  },
  {
   "id": 1110040011,
   "districtId": 1110040,
-  "name": "HAGU"
+  "districtName": "PEUDADA",
+  "name": "HAGU",
+  "postalCode": "24386"
  },
  {
   "id": 1110040012,
   "districtId": 1110040,
-  "name": "MEUNASAH KRUENG"
+  "districtName": "PEUDADA",
+  "name": "MEUNASAH KRUENG",
+  "postalCode": "23672"
  },
  {
   "id": 1110040013,
   "districtId": 1110040,
-  "name": "MEUNASAH RABO"
+  "districtName": "PEUDADA",
+  "name": "MEUNASAH RABO",
+  "postalCode": "24262"
  },
  {
   "id": 1110040014,
   "districtId": 1110040,
-  "name": "MEUNASAH TAMBO"
+  "districtName": "PEUDADA",
+  "name": "MEUNASAH TAMBO",
+  "postalCode": "24263"
  },
  {
   "id": 1110040015,
   "districtId": 1110040,
-  "name": "MEUNASAH BAROH"
+  "districtName": "PEUDADA",
+  "name": "MEUNASAH BAROH",
+  "postalCode": "24262"
  },
  {
   "id": 1110040016,
   "districtId": 1110040,
-  "name": "BLANG MATANG"
+  "districtName": "PEUDADA",
+  "name": "BLANG MATANG",
+  "postalCode": "24262"
  },
  {
   "id": 1110040017,
   "districtId": 1110040,
-  "name": "MEUNASAH TUNONG"
+  "districtName": "PEUDADA",
+  "name": "MEUNASAH TUNONG",
+  "postalCode": "24458"
  },
  {
   "id": 1110040018,
   "districtId": 1110040,
-  "name": "MEUNASAH ALUE"
+  "districtName": "PEUDADA",
+  "name": "MEUNASAH ALUE",
+  "postalCode": "24263"
  },
  {
   "id": 1110040019,
   "districtId": 1110040,
-  "name": "BLANG BATI"
+  "districtName": "PEUDADA",
+  "name": "BLANG BATI",
+  "postalCode": "24262"
  },
  {
   "id": 1110040020,
   "districtId": 1110040,
-  "name": "KEUDE ALUE RHEING"
+  "districtName": "PEUDADA",
+  "name": "KEUDE ALUE RHEING",
+  "postalCode": "24262"
  },
  {
   "id": 1110040021,
   "districtId": 1110040,
-  "name": "PULO LAWANG"
+  "districtName": "PEUDADA",
+  "name": "PULO LAWANG",
+  "postalCode": "24251"
  },
  {
   "id": 1110040022,
   "districtId": 1110040,
-  "name": "KARIENG"
+  "districtName": "PEUDADA",
+  "name": "KARIENG",
+  "postalCode": "24152"
  },
  {
   "id": 1110040023,
   "districtId": 1110040,
-  "name": "BLANG GLUMPANG"
+  "districtName": "PEUDADA",
+  "name": "BLANG GLUMPANG",
+  "postalCode": "24262"
  },
  {
   "id": 1110040024,
   "districtId": 1110040,
-  "name": "MEUNASAH MESJID"
+  "districtName": "PEUDADA",
+  "name": "MEUNASAH MESJID",
+  "postalCode": "24182"
  },
  {
   "id": 1110040025,
   "districtId": 1110040,
-  "name": "MEUNASAH CUT"
+  "districtName": "PEUDADA",
+  "name": "MEUNASAH CUT",
+  "postalCode": "23353"
  },
  {
   "id": 1110040026,
   "districtId": 1110040,
-  "name": "MATANG REULEUT"
+  "districtName": "PEUDADA",
+  "name": "MATANG REULEUT",
+  "postalCode": "24262"
  },
  {
   "id": 1110040027,
   "districtId": 1110040,
-  "name": "MEUNASAH PULO"
+  "districtName": "PEUDADA",
+  "name": "MEUNASAH PULO",
+  "postalCode": "24262"
  },
  {
   "id": 1110040028,
   "districtId": 1110040,
-  "name": "ARA BUNGONG"
+  "districtName": "PEUDADA",
+  "name": "ARA BUNGONG",
+  "postalCode": "24262"
  },
  {
   "id": 1110040029,
   "districtId": 1110040,
-  "name": "GAROT"
+  "districtName": "PEUDADA",
+  "name": "GAROT",
+  "postalCode": "24263"
  },
  {
   "id": 1110040030,
   "districtId": 1110040,
-  "name": "BLANG BEURURU"
+  "districtName": "PEUDADA",
+  "name": "BLANG BEURURU",
+  "postalCode": "24262"
  },
  {
   "id": 1110040031,
   "districtId": 1110040,
-  "name": "JABET"
+  "districtName": "PEUDADA",
+  "name": "JABET",
+  "postalCode": "24262"
  },
  {
   "id": 1110040032,
   "districtId": 1110040,
-  "name": "SAWANG"
+  "districtName": "PEUDADA",
+  "name": "SAWANG",
+  "postalCode": "24184"
  },
  {
   "id": 1110040033,
   "districtId": 1110040,
-  "name": "BLANG KUBU"
+  "districtName": "PEUDADA",
+  "name": "BLANG KUBU",
+  "postalCode": "24356"
  },
  {
   "id": 1110040034,
   "districtId": 1110040,
-  "name": "MATANG PASI"
+  "districtName": "PEUDADA",
+  "name": "MATANG PASI",
+  "postalCode": "24262"
  },
  {
   "id": 1110040035,
   "districtId": 1110040,
-  "name": "KUKUE"
+  "districtName": "PEUDADA",
+  "name": "KUKUE",
+  "postalCode": "24262"
  },
  {
   "id": 1110040036,
   "districtId": 1110040,
-  "name": "MEUNASAH BLANG"
+  "districtName": "PEUDADA",
+  "name": "MEUNASAH BLANG",
+  "postalCode": "24455"
  },
  {
   "id": 1110040037,
   "districtId": 1110040,
-  "name": "GAMPONG BARO"
+  "districtName": "PEUDADA",
+  "name": "GAMPONG BARO",
+  "postalCode": "24454"
  },
  {
   "id": 1110040038,
   "districtId": 1110040,
-  "name": "GAMPONG PAYA"
+  "districtName": "PEUDADA",
+  "name": "GAMPONG PAYA",
+  "postalCode": "24385"
  },
  {
   "id": 1110040039,
   "districtId": 1110040,
-  "name": "SEUNEUBOK PAYA"
+  "districtName": "PEUDADA",
+  "name": "SEUNEUBOK PAYA",
+  "postalCode": "24262"
  },
  {
   "id": 1110040040,
   "districtId": 1110040,
-  "name": "MEUNASAH TEUNGOH"
+  "districtName": "PEUDADA",
+  "name": "MEUNASAH TEUNGOH",
+  "postalCode": "23672"
  },
  {
   "id": 1110040041,
   "districtId": 1110040,
-  "name": "CALOK"
+  "districtName": "PEUDADA",
+  "name": "CALOK",
+  "postalCode": "24262"
  },
  {
   "id": 1110040042,
   "districtId": 1110040,
-  "name": "TANJONG SEULAMAT"
+  "districtName": "PEUDADA",
+  "name": "TANJONG SEULAMAT",
+  "postalCode": "23373"
  },
  {
   "id": 1110040043,
   "districtId": 1110040,
-  "name": "JABA"
+  "districtName": "PEUDADA",
+  "name": "JABA",
+  "postalCode": "24262"
  },
  {
   "id": 1110040044,
   "districtId": 1110040,
-  "name": "COT KRUET"
+  "districtName": "PEUDADA",
+  "name": "COT KRUET",
+  "postalCode": "24357"
  },
  {
   "id": 1110040045,
   "districtId": 1110040,
-  "name": "ALUE KEUTAPANG"
+  "districtName": "PEUDADA",
+  "name": "ALUE KEUTAPANG",
+  "postalCode": "24392"
  },
  {
   "id": 1110040046,
   "districtId": 1110040,
-  "name": "ALUE GANDAI"
+  "districtName": "PEUDADA",
+  "name": "ALUE GANDAI",
+  "postalCode": "24262"
  },
  {
   "id": 1110040047,
   "districtId": 1110040,
-  "name": "TGK.DI BATHON"
+  "districtName": "PEUDADA",
+  "name": "TGK.DI BATHON",
+  "postalCode": ""
  },
  {
   "id": 1110040048,
   "districtId": 1110040,
-  "name": "PAYA BARAT"
+  "districtName": "PEUDADA",
+  "name": "PAYA BARAT",
+  "postalCode": "24262"
  },
  {
   "id": 1110040049,
   "districtId": 1110040,
-  "name": "GAMPONG MULIA"
+  "districtName": "PEUDADA",
+  "name": "GAMPONG MULIA",
+  "postalCode": ""
  },
  {
   "id": 1110040050,
   "districtId": 1110040,
-  "name": "NEUBOK NALEUNG"
+  "districtName": "PEUDADA",
+  "name": "NEUBOK NALEUNG",
+  "postalCode": "24262"
  },
  {
   "id": 1110040051,
   "districtId": 1110040,
-  "name": "PAYA TIMU"
+  "districtName": "PEUDADA",
+  "name": "PAYA TIMU",
+  "postalCode": ""
  },
  {
   "id": 1110040052,
   "districtId": 1110040,
-  "name": "PINTO RIMBA"
+  "districtName": "PEUDADA",
+  "name": "PINTO RIMBA",
+  "postalCode": "24262"
  }
 ]

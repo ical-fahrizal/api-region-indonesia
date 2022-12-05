@@ -2,31 +2,43 @@
  {
   "id": 7471023001,
   "districtId": 7471023,
-  "name": "TOBIMEITA"
+  "districtName": "NAMBO",
+  "name": "TOBIMEITA",
+  "postalCode": "93237"
  },
  {
   "id": 7471023002,
   "districtId": 7471023,
-  "name": "PETOAHA"
+  "districtName": "NAMBO",
+  "name": "PETOAHA",
+  "postalCode": "93236"
  },
  {
   "id": 7471023003,
   "districtId": 7471023,
-  "name": "NAMBO"
+  "districtName": "NAMBO",
+  "name": "NAMBO",
+  "postalCode": "16710"
  },
  {
   "id": 7471023004,
   "districtId": 7471023,
-  "name": "SAMBULI"
+  "districtName": "NAMBO",
+  "name": "SAMBULI",
+  "postalCode": "93238"
  },
  {
   "id": 7471023005,
   "districtId": 7471023,
-  "name": "TONDONGGEU"
+  "districtName": "NAMBO",
+  "name": "TONDONGGEU",
+  "postalCode": "93238"
  },
  {
   "id": 7471023006,
   "districtId": 7471023,
-  "name": "BUNGKUTOKO"
+  "districtName": "NAMBO",
+  "name": "BUNGKUTOKO",
+  "postalCode": "93234"
  }
 ]

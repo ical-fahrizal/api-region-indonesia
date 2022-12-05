@@ -2,86 +2,120 @@
  {
   "id": 3529170001,
   "districtId": 3529170,
-  "name": "POJA"
+  "districtName": "GAPURA",
+  "name": "POJA",
+  "postalCode": "69472"
  },
  {
   "id": 3529170002,
   "districtId": 3529170,
-  "name": "BERAJI"
+  "districtName": "GAPURA",
+  "name": "BERAJI",
+  "postalCode": "69472"
  },
  {
   "id": 3529170003,
   "districtId": 3529170,
-  "name": "KARANG BUDI"
+  "districtName": "GAPURA",
+  "name": "KARANG BUDI",
+  "postalCode": "69472"
  },
  {
   "id": 3529170004,
   "districtId": 3529170,
-  "name": "BABAN"
+  "districtName": "GAPURA",
+  "name": "BABAN",
+  "postalCode": "69472"
  },
  {
   "id": 3529170005,
   "districtId": 3529170,
-  "name": "BATUDINDING"
+  "districtName": "GAPURA",
+  "name": "BATUDINDING",
+  "postalCode": "69472"
  },
  {
   "id": 3529170006,
   "districtId": 3529170,
-  "name": "BANJAR BARAT"
+  "districtName": "GAPURA",
+  "name": "BANJAR BARAT",
+  "postalCode": "69472"
  },
  {
   "id": 3529170007,
   "districtId": 3529170,
-  "name": "BANJAR TIMUR"
+  "districtName": "GAPURA",
+  "name": "BANJAR TIMUR",
+  "postalCode": "69472"
  },
  {
   "id": 3529170008,
   "districtId": 3529170,
-  "name": "PALOKLOAN"
+  "districtName": "GAPURA",
+  "name": "PALOKLOAN",
+  "postalCode": ""
  },
  {
   "id": 3529170009,
   "districtId": 3529170,
-  "name": "PANAGAN"
+  "districtName": "GAPURA",
+  "name": "PANAGAN",
+  "postalCode": "69472"
  },
  {
   "id": 3529170010,
   "districtId": 3529170,
-  "name": "GAPURA BARAT"
+  "districtName": "GAPURA",
+  "name": "GAPURA BARAT",
+  "postalCode": "69472"
  },
  {
   "id": 3529170011,
   "districtId": 3529170,
-  "name": "GERSIK PUTIH"
+  "districtName": "GAPURA",
+  "name": "GERSIK PUTIH",
+  "postalCode": "69472"
  },
  {
   "id": 3529170012,
   "districtId": 3529170,
-  "name": "GAPURA TENGAH"
+  "districtName": "GAPURA",
+  "name": "GAPURA TENGAH",
+  "postalCode": "69472"
  },
  {
   "id": 3529170013,
   "districtId": 3529170,
-  "name": "MANDALA"
+  "districtName": "GAPURA",
+  "name": "MANDALA",
+  "postalCode": "45652"
  },
  {
   "id": 3529170014,
   "districtId": 3529170,
-  "name": "GAPURA TIMUR"
+  "districtName": "GAPURA",
+  "name": "GAPURA TIMUR",
+  "postalCode": "69472"
  },
  {
   "id": 3529170015,
   "districtId": 3529170,
-  "name": "ANDULANG"
+  "districtName": "GAPURA",
+  "name": "ANDULANG",
+  "postalCode": "69472"
  },
  {
   "id": 3529170016,
   "districtId": 3529170,
-  "name": "LONGOS"
+  "districtName": "GAPURA",
+  "name": "LONGOS",
+  "postalCode": "69472"
  },
  {
   "id": 3529170017,
   "districtId": 3529170,
-  "name": "GRUJUGAN"
+  "districtName": "GAPURA",
+  "name": "GRUJUGAN",
+  "postalCode": "53194"
  }
 ]

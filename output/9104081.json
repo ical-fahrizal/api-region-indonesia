@@ -2,46 +2,64 @@
  {
   "id": 9104081001,
   "districtId": 9104081,
-  "name": "MEYADO"
+  "districtName": "MEYADO",
+  "name": "MEYADO",
+  "postalCode": ""
  },
  {
   "id": 9104081002,
   "districtId": 9104081,
-  "name": "BARMA"
+  "districtName": "MEYADO",
+  "name": "BARMA",
+  "postalCode": "98365"
  },
  {
   "id": 9104081003,
   "districtId": 9104081,
-  "name": "BARMA BARU / STEKOOL 2"
+  "districtName": "MEYADO",
+  "name": "BARMA BARU / STEKOOL 2",
+  "postalCode": ""
  },
  {
   "id": 9104081004,
   "districtId": 9104081,
-  "name": "VESCO DAMNEM / STENKOOL 3"
+  "districtName": "MEYADO",
+  "name": "VESCO DAMNEM / STENKOOL 3",
+  "postalCode": ""
  },
  {
   "id": 9104081005,
   "districtId": 9104081,
-  "name": "MEYADO II"
+  "districtName": "MEYADO",
+  "name": "MEYADO II",
+  "postalCode": ""
  },
  {
   "id": 9104081006,
   "districtId": 9104081,
-  "name": "DAGU"
+  "districtName": "MEYADO",
+  "name": "DAGU",
+  "postalCode": ""
  },
  {
   "id": 9104081007,
   "districtId": 9104081,
-  "name": "KAIBUR"
+  "districtName": "MEYADO",
+  "name": "KAIBUR",
+  "postalCode": ""
  },
  {
   "id": 9104081008,
   "districtId": 9104081,
-  "name": "MANOFI"
+  "districtName": "MEYADO",
+  "name": "MANOFI",
+  "postalCode": ""
  },
  {
   "id": 9104081009,
   "districtId": 9104081,
-  "name": "KALI HITAM"
+  "districtName": "MEYADO",
+  "name": "KALI HITAM",
+  "postalCode": ""
  }
 ]

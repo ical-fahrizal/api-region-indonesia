@@ -2,76 +2,106 @@
  {
   "id": 7207030006,
   "districtId": 7207030,
-  "name": "POONGAN"
+  "districtName": "BOKAT",
+  "name": "POONGAN",
+  "postalCode": "94566"
  },
  {
   "id": 7207030007,
   "districtId": 7207030,
-  "name": "TAYADUN"
+  "districtName": "BOKAT",
+  "name": "TAYADUN",
+  "postalCode": "94566"
  },
  {
   "id": 7207030008,
   "districtId": 7207030,
-  "name": "BONGO"
+  "districtName": "BOKAT",
+  "name": "BONGO",
+  "postalCode": "94566"
  },
  {
   "id": 7207030009,
   "districtId": 7207030,
-  "name": "BOKAT IV"
+  "districtName": "BOKAT",
+  "name": "BOKAT IV",
+  "postalCode": "94566"
  },
  {
   "id": 7207030010,
   "districtId": 7207030,
-  "name": "DOULAN"
+  "districtName": "BOKAT",
+  "name": "DOULAN",
+  "postalCode": "94566"
  },
  {
   "id": 7207030015,
   "districtId": 7207030,
-  "name": "KODOLAGON"
+  "districtName": "BOKAT",
+  "name": "KODOLAGON",
+  "postalCode": "94566"
  },
  {
   "id": 7207030016,
   "districtId": 7207030,
-  "name": "BOKAT"
+  "districtName": "BOKAT",
+  "name": "BOKAT",
+  "postalCode": "94566"
  },
  {
   "id": 7207030017,
   "districtId": 7207030,
-  "name": "KANTANAN"
+  "districtName": "BOKAT",
+  "name": "KANTANAN",
+  "postalCode": "94564"
  },
  {
   "id": 7207030018,
   "districtId": 7207030,
-  "name": "NEGERI LAMA"
+  "districtName": "BOKAT",
+  "name": "NEGERI LAMA",
+  "postalCode": "21471"
  },
  {
   "id": 7207030019,
   "districtId": 7207030,
-  "name": "TIKOPO"
+  "districtName": "BOKAT",
+  "name": "TIKOPO",
+  "postalCode": "94564"
  },
  {
   "id": 7207030020,
   "districtId": 7207030,
-  "name": "DUWAMAYO"
+  "districtName": "BOKAT",
+  "name": "DUWAMAYO",
+  "postalCode": ""
  },
  {
   "id": 7207030021,
   "districtId": 7207030,
-  "name": "BUTUKAN"
+  "districtName": "BOKAT",
+  "name": "BUTUKAN",
+  "postalCode": "94564"
  },
  {
   "id": 7207030022,
   "districtId": 7207030,
-  "name": "TANG"
+  "districtName": "BOKAT",
+  "name": "TANG",
+  "postalCode": "94564"
  },
  {
   "id": 7207030023,
   "districtId": 7207030,
-  "name": "BUKAMOG"
+  "districtName": "BOKAT",
+  "name": "BUKAMOG",
+  "postalCode": "94564"
  },
  {
   "id": 7207030024,
   "districtId": 7207030,
-  "name": "LANGUDON"
+  "districtName": "BOKAT",
+  "name": "LANGUDON",
+  "postalCode": "94564"
  }
 ]

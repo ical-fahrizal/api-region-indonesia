@@ -2,31 +2,43 @@
  {
   "id": 3502061001,
   "districtId": 3502061,
-  "name": "BANJARJO"
+  "districtName": "PUDAK",
+  "name": "BANJARJO",
+  "postalCode": "65167"
  },
  {
   "id": 3502061002,
   "districtId": 3502061,
-  "name": "PUDAK WETAN"
+  "districtName": "PUDAK",
+  "name": "PUDAK WETAN",
+  "postalCode": ""
  },
  {
   "id": 3502061003,
   "districtId": 3502061,
-  "name": "PUDAK KULON"
+  "districtName": "PUDAK",
+  "name": "PUDAK KULON",
+  "postalCode": ""
  },
  {
   "id": 3502061004,
   "districtId": 3502061,
-  "name": "KRISIK"
+  "districtName": "PUDAK",
+  "name": "KRISIK",
+  "postalCode": "66187"
  },
  {
   "id": 3502061005,
   "districtId": 3502061,
-  "name": "TAMBANG"
+  "districtName": "PUDAK",
+  "name": "TAMBANG",
+  "postalCode": "25651"
  },
  {
   "id": 3502061006,
   "districtId": 3502061,
-  "name": "BARENG"
+  "districtName": "PUDAK",
+  "name": "BARENG",
+  "postalCode": "57414"
  }
 ]

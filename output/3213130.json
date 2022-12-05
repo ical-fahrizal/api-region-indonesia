@@ -2,46 +2,64 @@
  {
   "id": 3213130001,
   "districtId": 3213130,
-  "name": "KAUNGANTEN"
+  "districtName": "CIKAUM",
+  "name": "KAUNGANTEN",
+  "postalCode": "41253"
  },
  {
   "id": 3213130002,
   "districtId": 3213130,
-  "name": "SINDANGSARI"
+  "districtName": "CIKAUM",
+  "name": "SINDANGSARI",
+  "postalCode": "46383"
  },
  {
   "id": 3213130003,
   "districtId": 3213130,
-  "name": "CIKAUM TIMUR"
+  "districtName": "CIKAUM",
+  "name": "CIKAUM TIMUR",
+  "postalCode": "41253"
  },
  {
   "id": 3213130004,
   "districtId": 3213130,
-  "name": "CIKAUM BARAT"
+  "districtName": "CIKAUM",
+  "name": "CIKAUM BARAT",
+  "postalCode": "41253"
  },
  {
   "id": 3213130005,
   "districtId": 3213130,
-  "name": "PASIRMUNCANG"
+  "districtName": "CIKAUM",
+  "name": "PASIRMUNCANG",
+  "postalCode": "41253"
  },
  {
   "id": 3213130006,
   "districtId": 3213130,
-  "name": "GANDASARI"
+  "districtName": "CIKAUM",
+  "name": "GANDASARI",
+  "postalCode": "17530"
  },
  {
   "id": 3213130007,
   "districtId": 3213130,
-  "name": "MEKARSARI"
+  "districtName": "CIKAUM",
+  "name": "MEKARSARI",
+  "postalCode": "37482"
  },
  {
   "id": 3213130008,
   "districtId": 3213130,
-  "name": "TANJUNGSARI BARAT"
+  "districtName": "CIKAUM",
+  "name": "TANJUNGSARI BARAT",
+  "postalCode": "41253"
  },
  {
   "id": 3213130009,
   "districtId": 3213130,
-  "name": "TANJUNGSARI TIMUR"
+  "districtName": "CIKAUM",
+  "name": "TANJUNGSARI TIMUR",
+  "postalCode": "41253"
  }
 ]

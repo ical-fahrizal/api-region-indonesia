@@ -2,31 +2,43 @@
  {
   "id": 7318010015,
   "districtId": 7318010,
-  "name": "LEMBANG MAPPA"
+  "districtName": "BONGGAKARADENG",
+  "name": "LEMBANG MAPPA",
+  "postalCode": ""
  },
  {
   "id": 7318010025,
   "districtId": 7318010,
-  "name": "LEMBANG BAU"
+  "districtName": "BONGGAKARADENG",
+  "name": "LEMBANG BAU",
+  "postalCode": ""
  },
  {
   "id": 7318010027,
   "districtId": 7318010,
-  "name": "LEMBANG BUA KAYU"
+  "districtName": "BONGGAKARADENG",
+  "name": "LEMBANG BUA KAYU",
+  "postalCode": ""
  },
  {
   "id": 7318010029,
   "districtId": 7318010,
-  "name": "LEMBANG POTON"
+  "districtName": "BONGGAKARADENG",
+  "name": "LEMBANG POTON",
+  "postalCode": ""
  },
  {
   "id": 7318010030,
   "districtId": 7318010,
-  "name": "KELURAHAN  RATTE BUTTU"
+  "districtName": "BONGGAKARADENG",
+  "name": "KELURAHAN  RATTE BUTTU",
+  "postalCode": ""
  },
  {
   "id": 7318010031,
   "districtId": 7318010,
-  "name": "LEMBANG BAU SELATAN"
+  "districtName": "BONGGAKARADENG",
+  "name": "LEMBANG BAU SELATAN",
+  "postalCode": ""
  }
 ]

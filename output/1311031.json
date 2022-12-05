@@ -2,26 +2,36 @@
  {
   "id": 1311031001,
   "districtId": 1311031,
-  "name": "PANYUBARANGAN"
+  "districtName": "TIMPEH",
+  "name": "PANYUBARANGAN",
+  "postalCode": ""
  },
  {
   "id": 1311031002,
   "districtId": 1311031,
-  "name": "TABEK"
+  "districtName": "TIMPEH",
+  "name": "TABEK",
+  "postalCode": "27264"
  },
  {
   "id": 1311031003,
   "districtId": 1311031,
-  "name": "TIMPEH"
+  "districtName": "TIMPEH",
+  "name": "TIMPEH",
+  "postalCode": "27678"
  },
  {
   "id": 1311031004,
   "districtId": 1311031,
-  "name": "TARATAK TINGGI"
+  "districtName": "TIMPEH",
+  "name": "TARATAK TINGGI",
+  "postalCode": "27678"
  },
  {
   "id": 1311031005,
   "districtId": 1311031,
-  "name": "RANAH PALABI"
+  "districtName": "TIMPEH",
+  "name": "RANAH PALABI",
+  "postalCode": "27678"
  }
 ]

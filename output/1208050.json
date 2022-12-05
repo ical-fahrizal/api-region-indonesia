@@ -2,41 +2,57 @@
  {
   "id": 1208050001,
   "districtId": 1208050,
-  "name": "KAPIAS BATU VIII"
+  "districtName": "TANJUNG BALAI",
+  "name": "KAPIAS BATU VIII",
+  "postalCode": "21352"
  },
  {
   "id": 1208050002,
   "districtId": 1208050,
-  "name": "PEMATANG SUNGAI BARU"
+  "districtName": "TANJUNG BALAI",
+  "name": "PEMATANG SUNGAI BARU",
+  "postalCode": ""
  },
  {
   "id": 1208050003,
   "districtId": 1208050,
-  "name": "SEI APUNG JAYA"
+  "districtName": "TANJUNG BALAI",
+  "name": "SEI APUNG JAYA",
+  "postalCode": ""
  },
  {
   "id": 1208050004,
   "districtId": 1208050,
-  "name": "SUNGAI APUNG"
+  "districtName": "TANJUNG BALAI",
+  "name": "SUNGAI APUNG",
+  "postalCode": ""
  },
  {
   "id": 1208050005,
   "districtId": 1208050,
-  "name": "ASAHAN MATI"
+  "districtName": "TANJUNG BALAI",
+  "name": "ASAHAN MATI",
+  "postalCode": "21352"
  },
  {
   "id": 1208050006,
   "districtId": 1208050,
-  "name": "BAGAN ASAHAN BARU"
+  "districtName": "TANJUNG BALAI",
+  "name": "BAGAN ASAHAN BARU",
+  "postalCode": "21352"
  },
  {
   "id": 1208050007,
   "districtId": 1208050,
-  "name": "BAGAN ASAHAN PEKAN"
+  "districtName": "TANJUNG BALAI",
+  "name": "BAGAN ASAHAN PEKAN",
+  "postalCode": "21352"
  },
  {
   "id": 1208050008,
   "districtId": 1208050,
-  "name": "BAGAN ASAHAN"
+  "districtName": "TANJUNG BALAI",
+  "name": "BAGAN ASAHAN",
+  "postalCode": "21352"
  }
 ]

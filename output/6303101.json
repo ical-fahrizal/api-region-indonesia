@@ -2,36 +2,50 @@
  {
   "id": 6303101001,
   "districtId": 6303101,
-  "name": "MADUREJO"
+  "districtName": "SAMBUNG MAKMUR",
+  "name": "MADUREJO",
+  "postalCode": "54383"
  },
  {
   "id": 6303101002,
   "districtId": 6303101,
-  "name": "BATU TANAM"
+  "districtName": "SAMBUNG MAKMUR",
+  "name": "BATU TANAM",
+  "postalCode": "70674"
  },
  {
   "id": 6303101003,
   "districtId": 6303101,
-  "name": "GUNUNG BATU"
+  "districtName": "SAMBUNG MAKMUR",
+  "name": "GUNUNG BATU",
+  "postalCode": "32384"
  },
  {
   "id": 6303101004,
   "districtId": 6303101,
-  "name": "BALIANGIN"
+  "districtName": "SAMBUNG MAKMUR",
+  "name": "BALIANGIN",
+  "postalCode": "70674"
  },
  {
   "id": 6303101005,
   "districtId": 6303101,
-  "name": "BATANG BANYU"
+  "districtName": "SAMBUNG MAKMUR",
+  "name": "BATANG BANYU",
+  "postalCode": "71553"
  },
  {
   "id": 6303101006,
   "districtId": 6303101,
-  "name": "SUNGAI LURUS"
+  "districtName": "SAMBUNG MAKMUR",
+  "name": "SUNGAI LURUS",
+  "postalCode": ""
  },
  {
   "id": 6303101007,
   "districtId": 6303101,
-  "name": "PASAR BARU"
+  "districtName": "SAMBUNG MAKMUR",
+  "name": "PASAR BARU",
+  "postalCode": "22163"
  }
 ]

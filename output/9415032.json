@@ -2,16 +2,22 @@
  {
   "id": 9415032003,
   "districtId": 9415032,
-  "name": "COMORO"
+  "districtName": "AYIP",
+  "name": "COMORO",
+  "postalCode": "99776"
  },
  {
   "id": 9415032005,
   "districtId": 9415032,
-  "name": "KAWET"
+  "districtName": "AYIP",
+  "name": "KAWET",
+  "postalCode": "99776"
  },
  {
   "id": 9415032006,
   "districtId": 9415032,
-  "name": "MAUSI"
+  "districtName": "AYIP",
+  "name": "MAUSI",
+  "postalCode": "99776"
  }
 ]

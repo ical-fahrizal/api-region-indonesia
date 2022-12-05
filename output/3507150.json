@@ -2,51 +2,71 @@
  {
   "id": 3507150001,
   "districtId": 3507150,
-  "name": "KANIGORO"
+  "districtName": "PAGELARAN",
+  "name": "KANIGORO",
+  "postalCode": "56194"
  },
  {
   "id": 3507150002,
   "districtId": 3507150,
-  "name": "BALEARJO"
+  "districtName": "PAGELARAN",
+  "name": "BALEARJO",
+  "postalCode": "65174"
  },
  {
   "id": 3507150003,
   "districtId": 3507150,
-  "name": "KADEMANGAN"
+  "districtName": "PAGELARAN",
+  "name": "KADEMANGAN",
+  "postalCode": "36361"
  },
  {
   "id": 3507150004,
   "districtId": 3507150,
-  "name": "SUWARU"
+  "districtName": "PAGELARAN",
+  "name": "SUWARU",
+  "postalCode": "66274"
  },
  {
   "id": 3507150005,
   "districtId": 3507150,
-  "name": "CLUMPRIT"
+  "districtName": "PAGELARAN",
+  "name": "CLUMPRIT",
+  "postalCode": "65174"
  },
  {
   "id": 3507150006,
   "districtId": 3507150,
-  "name": "SIDOREJO"
+  "districtName": "PAGELARAN",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 3507150007,
   "districtId": 3507150,
-  "name": "PAGELARAN"
+  "districtName": "PAGELARAN",
+  "name": "PAGELARAN",
+  "postalCode": "35376"
  },
  {
   "id": 3507150008,
   "districtId": 3507150,
-  "name": "BANJAREJO"
+  "districtName": "PAGELARAN",
+  "name": "BANJAREJO",
+  "postalCode": "35373"
  },
  {
   "id": 3507150009,
   "districtId": 3507150,
-  "name": "BRONGKAL"
+  "districtName": "PAGELARAN",
+  "name": "BRONGKAL",
+  "postalCode": "65174"
  },
  {
   "id": 3507150010,
   "districtId": 3507150,
-  "name": "KARANGSUKO"
+  "districtName": "PAGELARAN",
+  "name": "KARANGSUKO",
+  "postalCode": "65174"
  }
 ]

@@ -2,81 +2,113 @@
  {
   "id": 3304090001,
   "districtId": 3304090,
-  "name": "JENGGAWUR"
+  "districtName": "BANJARMANGU",
+  "name": "JENGGAWUR",
+  "postalCode": "53452"
  },
  {
   "id": 3304090002,
   "districtId": 3304090,
-  "name": "BANJARKULON"
+  "districtName": "BANJARMANGU",
+  "name": "BANJARKULON",
+  "postalCode": "53452"
  },
  {
   "id": 3304090003,
   "districtId": 3304090,
-  "name": "BANJARMANGU"
+  "districtName": "BANJARMANGU",
+  "name": "BANJARMANGU",
+  "postalCode": "53452"
  },
  {
   "id": 3304090004,
   "districtId": 3304090,
-  "name": "REJASARI"
+  "districtName": "BANJARMANGU",
+  "name": "REJASARI",
+  "postalCode": "46344"
  },
  {
   "id": 3304090006,
   "districtId": 3304090,
-  "name": "GRIPIT"
+  "districtName": "BANJARMANGU",
+  "name": "GRIPIT",
+  "postalCode": "53452"
  },
  {
   "id": 3304090007,
   "districtId": 3304090,
-  "name": "SIGEBLOG"
+  "districtName": "BANJARMANGU",
+  "name": "SIGEBLOG",
+  "postalCode": "53452"
  },
  {
   "id": 3304090008,
   "districtId": 3304090,
-  "name": "PASEH"
+  "districtName": "BANJARMANGU",
+  "name": "PASEH",
+  "postalCode": "24251"
  },
  {
   "id": 3304090009,
   "districtId": 3304090,
-  "name": "SIPEDANG"
+  "districtName": "BANJARMANGU",
+  "name": "SIPEDANG",
+  "postalCode": "53452"
  },
  {
   "id": 3304090010,
   "districtId": 3304090,
-  "name": "PEKANDANGAN"
+  "districtName": "BANJARMANGU",
+  "name": "PEKANDANGAN",
+  "postalCode": "34176"
  },
  {
   "id": 3304090011,
   "districtId": 3304090,
-  "name": "KENDAGA"
+  "districtName": "BANJARMANGU",
+  "name": "KENDAGA",
+  "postalCode": "53452"
  },
  {
   "id": 3304090012,
   "districtId": 3304090,
-  "name": "KALILUNJAR"
+  "districtName": "BANJARMANGU",
+  "name": "KALILUNJAR",
+  "postalCode": "53452"
  },
  {
   "id": 3304090013,
   "districtId": 3304090,
-  "name": "SIJERUK"
+  "districtName": "BANJARMANGU",
+  "name": "SIJERUK",
+  "postalCode": "53452"
  },
  {
   "id": 3304090014,
   "districtId": 3304090,
-  "name": "PRENDENGAN"
+  "districtName": "BANJARMANGU",
+  "name": "PRENDENGAN",
+  "postalCode": "53452"
  },
  {
   "id": 3304090015,
   "districtId": 3304090,
-  "name": "MAJATENGAH"
+  "districtName": "BANJARMANGU",
+  "name": "MAJATENGAH",
+  "postalCode": "53452"
  },
  {
   "id": 3304090016,
   "districtId": 3304090,
-  "name": "BEJI"
+  "districtName": "BANJARMANGU",
+  "name": "BEJI",
+  "postalCode": "16421"
  },
  {
   "id": 3304090017,
   "districtId": 3304090,
-  "name": "SIJENGGUNG"
+  "districtName": "BANJARMANGU",
+  "name": "SIJENGGUNG",
+  "postalCode": "53452"
  }
 ]

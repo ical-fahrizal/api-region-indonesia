@@ -2,66 +2,92 @@
  {
   "id": 1208160001,
   "districtId": 1208160,
-  "name": "SEI RENGGAS"
+  "districtName": "KISARAN BARAT",
+  "name": "SEI RENGGAS",
+  "postalCode": "21213"
  },
  {
   "id": 1208160002,
   "districtId": 1208160,
-  "name": "SENDANG SARI"
+  "districtName": "KISARAN BARAT",
+  "name": "SENDANG SARI",
+  "postalCode": "21218"
  },
  {
   "id": 1208160003,
   "districtId": 1208160,
-  "name": "KISARAN BARAT"
+  "districtName": "KISARAN BARAT",
+  "name": "KISARAN BARAT",
+  "postalCode": "21214"
  },
  {
   "id": 1208160004,
   "districtId": 1208160,
-  "name": "TEGAL SARI"
+  "districtName": "KISARAN BARAT",
+  "name": "TEGAL SARI",
+  "postalCode": "23681"
  },
  {
   "id": 1208160005,
   "districtId": 1208160,
-  "name": "TEBING KISARAN"
+  "districtName": "KISARAN BARAT",
+  "name": "TEBING KISARAN",
+  "postalCode": "21215"
  },
  {
   "id": 1208160006,
   "districtId": 1208160,
-  "name": "KISARAN KOTA"
+  "districtName": "KISARAN BARAT",
+  "name": "KISARAN KOTA",
+  "postalCode": "21215"
  },
  {
   "id": 1208160007,
   "districtId": 1208160,
-  "name": "KISARAN BARU"
+  "districtName": "KISARAN BARAT",
+  "name": "KISARAN BARU",
+  "postalCode": "21216"
  },
  {
   "id": 1208160008,
   "districtId": 1208160,
-  "name": "MEKAR BARU"
+  "districtName": "KISARAN BARAT",
+  "name": "MEKAR BARU",
+  "postalCode": "21216"
  },
  {
   "id": 1208160009,
   "districtId": 1208160,
-  "name": "SIDODADI"
+  "districtName": "KISARAN BARAT",
+  "name": "SIDODADI",
+  "postalCode": "24582"
  },
  {
   "id": 1208160010,
   "districtId": 1208160,
-  "name": "DADI MULYO"
+  "districtName": "KISARAN BARAT",
+  "name": "DADI MULYO",
+  "postalCode": "21212"
  },
  {
   "id": 1208160011,
   "districtId": 1208160,
-  "name": "SIDOMUKTI"
+  "districtName": "KISARAN BARAT",
+  "name": "SIDOMUKTI",
+  "postalCode": "21217"
  },
  {
   "id": 1208160012,
   "districtId": 1208160,
-  "name": "BUNUT"
+  "districtName": "KISARAN BARAT",
+  "name": "BUNUT",
+  "postalCode": "22756"
  },
  {
   "id": 1208160013,
   "districtId": 1208160,
-  "name": "BUNUT BARAT"
+  "districtName": "KISARAN BARAT",
+  "name": "BUNUT BARAT",
+  "postalCode": "21211"
  }
 ]

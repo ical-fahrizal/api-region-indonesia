@@ -2,26 +2,36 @@
  {
   "id": 3671042001,
   "districtId": 3671042,
-  "name": "GEMBOR"
+  "districtName": "PERIUK",
+  "name": "GEMBOR",
+  "postalCode": "41252"
  },
  {
   "id": 3671042002,
   "districtId": 3671042,
-  "name": "GEBANG RAYA"
+  "districtName": "PERIUK",
+  "name": "GEBANG RAYA",
+  "postalCode": "15132"
  },
  {
   "id": 3671042003,
   "districtId": 3671042,
-  "name": "SANGIANG JAYA"
+  "districtName": "PERIUK",
+  "name": "SANGIANG JAYA",
+  "postalCode": "42361"
  },
  {
   "id": 3671042004,
   "districtId": 3671042,
-  "name": "PERIUK"
+  "districtName": "PERIUK",
+  "name": "PERIUK",
+  "postalCode": "15131"
  },
  {
   "id": 3671042005,
   "districtId": 3671042,
-  "name": "PERIUK JAYA"
+  "districtName": "PERIUK",
+  "name": "PERIUK JAYA",
+  "postalCode": "15131"
  }
 ]

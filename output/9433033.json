@@ -2,56 +2,78 @@
  {
   "id": 9433033001,
   "districtId": 9433033,
-  "name": "PINAPA"
+  "districtName": "OMUKIA",
+  "name": "PINAPA",
+  "postalCode": "98972"
  },
  {
   "id": 9433033003,
   "districtId": 9433033,
-  "name": "KUNGA"
+  "districtName": "OMUKIA",
+  "name": "KUNGA",
+  "postalCode": ""
  },
  {
   "id": 9433033005,
   "districtId": 9433033,
-  "name": "EROMAGE"
+  "districtName": "OMUKIA",
+  "name": "EROMAGE",
+  "postalCode": ""
  },
  {
   "id": 9433033006,
   "districtId": 9433033,
-  "name": "NINGGIBOME"
+  "districtName": "OMUKIA",
+  "name": "NINGGIBOME",
+  "postalCode": ""
  },
  {
   "id": 9433033007,
   "districtId": 9433033,
-  "name": "ONDUGURA"
+  "districtName": "OMUKIA",
+  "name": "ONDUGURA",
+  "postalCode": ""
  },
  {
   "id": 9433033008,
   "districtId": 9433033,
-  "name": "MANGGUME"
+  "districtName": "OMUKIA",
+  "name": "MANGGUME",
+  "postalCode": ""
  },
  {
   "id": 9433033010,
   "districtId": 9433033,
-  "name": "AMINGGARU"
+  "districtName": "OMUKIA",
+  "name": "AMINGGARU",
+  "postalCode": ""
  },
  {
   "id": 9433033011,
   "districtId": 9433033,
-  "name": "DOMAOA"
+  "districtName": "OMUKIA",
+  "name": "DOMAOA",
+  "postalCode": ""
  },
  {
   "id": 9433033012,
   "districtId": 9433033,
-  "name": "PUNGTRAMA"
+  "districtName": "OMUKIA",
+  "name": "PUNGTRAMA",
+  "postalCode": ""
  },
  {
   "id": 9433033013,
   "districtId": 9433033,
-  "name": "BALAMAGALAMA"
+  "districtName": "OMUKIA",
+  "name": "BALAMAGALAMA",
+  "postalCode": ""
  },
  {
   "id": 9433033014,
   "districtId": 9433033,
-  "name": "AWILKINOP"
+  "districtName": "OMUKIA",
+  "name": "AWILKINOP",
+  "postalCode": ""
  }
 ]

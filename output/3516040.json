@@ -2,56 +2,78 @@
  {
   "id": 3516040001,
   "districtId": 3516040,
-  "name": "KETAPANRAME"
+  "districtName": "TRAWAS",
+  "name": "KETAPANRAME",
+  "postalCode": "61375"
  },
  {
   "id": 3516040002,
   "districtId": 3516040,
-  "name": "TRAWAS"
+  "districtName": "TRAWAS",
+  "name": "TRAWAS",
+  "postalCode": "61375"
  },
  {
   "id": 3516040003,
   "districtId": 3516040,
-  "name": "SELOTAPAK"
+  "districtName": "TRAWAS",
+  "name": "SELOTAPAK",
+  "postalCode": "61375"
  },
  {
   "id": 3516040004,
   "districtId": 3516040,
-  "name": "TAMIAJENG"
+  "districtName": "TRAWAS",
+  "name": "TAMIAJENG",
+  "postalCode": "61375"
  },
  {
   "id": 3516040005,
   "districtId": 3516040,
-  "name": "KESIMAN"
+  "districtName": "TRAWAS",
+  "name": "KESIMAN",
+  "postalCode": "61375"
  },
  {
   "id": 3516040006,
   "districtId": 3516040,
-  "name": "BELIK"
+  "districtName": "TRAWAS",
+  "name": "BELIK",
+  "postalCode": "52356"
  },
  {
   "id": 3516040008,
   "districtId": 3516040,
-  "name": "PENANGGUNGAN"
+  "districtName": "TRAWAS",
+  "name": "PENANGGUNGAN",
+  "postalCode": "32278"
  },
  {
   "id": 3516040009,
   "districtId": 3516040,
-  "name": "KEDUNGUDI"
+  "districtName": "TRAWAS",
+  "name": "KEDUNGUDI",
+  "postalCode": "61375"
  },
  {
   "id": 3516040010,
   "districtId": 3516040,
-  "name": "SUKOSARI"
+  "districtName": "TRAWAS",
+  "name": "SUKOSARI",
+  "postalCode": "32382"
  },
  {
   "id": 3516040011,
   "districtId": 3516040,
-  "name": "JATIJEJER"
+  "districtName": "TRAWAS",
+  "name": "JATIJEJER",
+  "postalCode": "61375"
  },
  {
   "id": 3516040013,
   "districtId": 3516040,
-  "name": "SELOLIMAN"
+  "districtName": "TRAWAS",
+  "name": "SELOLIMAN",
+  "postalCode": "61375"
  }
 ]

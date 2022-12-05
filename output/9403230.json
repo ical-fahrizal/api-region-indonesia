@@ -2,46 +2,64 @@
  {
   "id": 9403230006,
   "districtId": 9403230,
-  "name": "HOBONG"
+  "districtName": "SENTANI",
+  "name": "HOBONG",
+  "postalCode": "99352"
  },
  {
   "id": 9403230007,
   "districtId": 9403230,
-  "name": "IFALE / AJAU"
+  "districtName": "SENTANI",
+  "name": "IFALE / AJAU",
+  "postalCode": ""
  },
  {
   "id": 9403230008,
   "districtId": 9403230,
-  "name": "YOBOY / KEHUSA / KEHIRAN"
+  "districtName": "SENTANI",
+  "name": "YOBOY / KEHUSA / KEHIRAN",
+  "postalCode": ""
  },
  {
   "id": 9403230009,
   "districtId": 9403230,
-  "name": "DOBONSOLO"
+  "districtName": "SENTANI",
+  "name": "DOBONSOLO",
+  "postalCode": "99352"
  },
  {
   "id": 9403230010,
   "districtId": 9403230,
-  "name": "YOBEH"
+  "districtName": "SENTANI",
+  "name": "YOBEH",
+  "postalCode": "99352"
  },
  {
   "id": 9403230011,
   "districtId": 9403230,
-  "name": "IFAR BESAR"
+  "districtName": "SENTANI",
+  "name": "IFAR BESAR",
+  "postalCode": "99352"
  },
  {
   "id": 9403230012,
   "districtId": 9403230,
-  "name": "SENTANI KOTA"
+  "districtName": "SENTANI",
+  "name": "SENTANI KOTA",
+  "postalCode": "99352"
  },
  {
   "id": 9403230014,
   "districtId": 9403230,
-  "name": "HINEKOMBE"
+  "districtName": "SENTANI",
+  "name": "HINEKOMBE",
+  "postalCode": "99352"
  },
  {
   "id": 9403230015,
   "districtId": 9403230,
-  "name": "YAHIM"
+  "districtName": "SENTANI",
+  "name": "YAHIM",
+  "postalCode": ""
  }
 ]

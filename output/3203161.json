@@ -2,41 +2,57 @@
  {
   "id": 3203161001,
   "districtId": 3203161,
-  "name": "CIHEA"
+  "districtName": "HAURWANGI",
+  "name": "CIHEA",
+  "postalCode": "43283"
  },
  {
   "id": 3203161002,
   "districtId": 3203161,
-  "name": "SUKATANI"
+  "districtName": "HAURWANGI",
+  "name": "SUKATANI",
+  "postalCode": "41384"
  },
  {
   "id": 3203161003,
   "districtId": 3203161,
-  "name": "RAMASARI"
+  "districtName": "HAURWANGI",
+  "name": "RAMASARI",
+  "postalCode": "43283"
  },
  {
   "id": 3203161004,
   "districtId": 3203161,
-  "name": "HAURWANGI"
+  "districtName": "HAURWANGI",
+  "name": "HAURWANGI",
+  "postalCode": "43283"
  },
  {
   "id": 3203161005,
   "districtId": 3203161,
-  "name": "KERTASARI"
+  "districtName": "HAURWANGI",
+  "name": "KERTASARI",
+  "postalCode": "31658"
  },
  {
   "id": 3203161006,
   "districtId": 3203161,
-  "name": "KERTAMUKTI"
+  "districtName": "HAURWANGI",
+  "name": "KERTAMUKTI",
+  "postalCode": "41181"
  },
  {
   "id": 3203161007,
   "districtId": 3203161,
-  "name": "CIPEUYEUM"
+  "districtName": "HAURWANGI",
+  "name": "CIPEUYEUM",
+  "postalCode": "43282"
  },
  {
   "id": 3203161008,
   "districtId": 3203161,
-  "name": "MEKARWANGI"
+  "districtName": "HAURWANGI",
+  "name": "MEKARWANGI",
+  "postalCode": "45462"
  }
 ]

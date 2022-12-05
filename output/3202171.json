@@ -2,26 +2,36 @@
  {
   "id": 3202171001,
   "districtId": 3202171,
-  "name": "SASAGARAN"
+  "districtName": "KEBONPEDES",
+  "name": "SASAGARAN",
+  "postalCode": "43194"
  },
  {
   "id": 3202171002,
   "districtId": 3202171,
-  "name": "JAMBENENGGANG"
+  "districtName": "KEBONPEDES",
+  "name": "JAMBENENGGANG",
+  "postalCode": "43194"
  },
  {
   "id": 3202171003,
   "districtId": 3202171,
-  "name": "CIKARET"
+  "districtName": "KEBONPEDES",
+  "name": "CIKARET",
+  "postalCode": "16132"
  },
  {
   "id": 3202171004,
   "districtId": 3202171,
-  "name": "KEBONPEDES"
+  "districtName": "KEBONPEDES",
+  "name": "KEBONPEDES",
+  "postalCode": "43194"
  },
  {
   "id": 3202171005,
   "districtId": 3202171,
-  "name": "BOJONGSAWAH"
+  "districtName": "KEBONPEDES",
+  "name": "BOJONGSAWAH",
+  "postalCode": "43194"
  }
 ]

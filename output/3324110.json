@@ -2,81 +2,113 @@
  {
   "id": 3324110003,
   "districtId": 3324110,
-  "name": "SOJOMERTO"
+  "districtName": "GEMUH",
+  "name": "SOJOMERTO",
+  "postalCode": "51356"
  },
  {
   "id": 3324110004,
   "districtId": 3324110,
-  "name": "TRIHARJO"
+  "districtName": "GEMUH",
+  "name": "TRIHARJO",
+  "postalCode": "35357"
  },
  {
   "id": 3324110005,
   "districtId": 3324110,
-  "name": "CEPOKOMULYO"
+  "districtName": "GEMUH",
+  "name": "CEPOKOMULYO",
+  "postalCode": "51356"
  },
  {
   "id": 3324110012,
   "districtId": 3324110,
-  "name": "GALIH"
+  "districtName": "GEMUH",
+  "name": "GALIH",
+  "postalCode": "51356"
  },
  {
   "id": 3324110013,
   "districtId": 3324110,
-  "name": "PAMRIYAN"
+  "districtName": "GEMUH",
+  "name": "PAMRIYAN",
+  "postalCode": "51356"
  },
  {
   "id": 3324110018,
   "districtId": 3324110,
-  "name": "JENARSARI"
+  "districtName": "GEMUH",
+  "name": "JENARSARI",
+  "postalCode": "51356"
  },
  {
   "id": 3324110019,
   "districtId": 3324110,
-  "name": "PONCOREJO"
+  "districtName": "GEMUH",
+  "name": "PONCOREJO",
+  "postalCode": "35451"
  },
  {
   "id": 3324110020,
   "districtId": 3324110,
-  "name": "GEBANG"
+  "districtName": "GEMUH",
+  "name": "GEBANG",
+  "postalCode": "35451"
  },
  {
   "id": 3324110021,
   "districtId": 3324110,
-  "name": "KROMPAAN"
+  "districtName": "GEMUH",
+  "name": "KROMPAAN",
+  "postalCode": "51356"
  },
  {
   "id": 3324110022,
   "districtId": 3324110,
-  "name": "SEDAYU"
+  "districtName": "GEMUH",
+  "name": "SEDAYU",
+  "postalCode": "35386"
  },
  {
   "id": 3324110023,
   "districtId": 3324110,
-  "name": "GEMUHBLANTEN"
+  "districtName": "GEMUH",
+  "name": "GEMUHBLANTEN",
+  "postalCode": "51356"
  },
  {
   "id": 3324110024,
   "districtId": 3324110,
-  "name": "TAMANGEDE"
+  "districtName": "GEMUH",
+  "name": "TAMANGEDE",
+  "postalCode": "51356"
  },
  {
   "id": 3324110025,
   "districtId": 3324110,
-  "name": "LUMANSARI"
+  "districtName": "GEMUH",
+  "name": "LUMANSARI",
+  "postalCode": "51356"
  },
  {
   "id": 3324110026,
   "districtId": 3324110,
-  "name": "JOHOREJO"
+  "districtName": "GEMUH",
+  "name": "JOHOREJO",
+  "postalCode": "51356"
  },
  {
   "id": 3324110027,
   "districtId": 3324110,
-  "name": "TLAHAB"
+  "districtName": "GEMUH",
+  "name": "TLAHAB",
+  "postalCode": "51356"
  },
  {
   "id": 3324110028,
   "districtId": 3324110,
-  "name": "PUCANGREJO"
+  "districtName": "GEMUH",
+  "name": "PUCANGREJO",
+  "postalCode": "51356"
  }
 ]

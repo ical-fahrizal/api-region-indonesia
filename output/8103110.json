@@ -2,51 +2,71 @@
  {
   "id": 8103110004,
   "districtId": 8103110,
-  "name": "ASSILULU"
+  "districtName": "LEIHITU",
+  "name": "ASSILULU",
+  "postalCode": ""
  },
  {
   "id": 8103110008,
   "districtId": 8103110,
-  "name": "NEGERI LIMA"
+  "districtName": "LEIHITU",
+  "name": "NEGERI LIMA",
+  "postalCode": "97581"
  },
  {
   "id": 8103110009,
   "districtId": 8103110,
-  "name": "SEITH"
+  "districtName": "LEIHITU",
+  "name": "SEITH",
+  "postalCode": "97581"
  },
  {
   "id": 8103110010,
   "districtId": 8103110,
-  "name": "KAITETU"
+  "districtName": "LEIHITU",
+  "name": "KAITETU",
+  "postalCode": "97581"
  },
  {
   "id": 8103110011,
   "districtId": 8103110,
-  "name": "HILA"
+  "districtName": "LEIHITU",
+  "name": "HILA",
+  "postalCode": "97454"
  },
  {
   "id": 8103110012,
   "districtId": 8103110,
-  "name": "WAKAL"
+  "districtName": "LEIHITU",
+  "name": "WAKAL",
+  "postalCode": "97581"
  },
  {
   "id": 8103110013,
   "districtId": 8103110,
-  "name": "HITULAMA"
+  "districtName": "LEIHITU",
+  "name": "HITULAMA",
+  "postalCode": ""
  },
  {
   "id": 8103110014,
   "districtId": 8103110,
-  "name": "HITUMESING"
+  "districtName": "LEIHITU",
+  "name": "HITUMESING",
+  "postalCode": ""
  },
  {
   "id": 8103110015,
   "districtId": 8103110,
-  "name": "MAMALA"
+  "districtName": "LEIHITU",
+  "name": "MAMALA",
+  "postalCode": "97581"
  },
  {
   "id": 8103110016,
   "districtId": 8103110,
-  "name": "MORELLA"
+  "districtName": "LEIHITU",
+  "name": "MORELLA",
+  "postalCode": ""
  }
 ]

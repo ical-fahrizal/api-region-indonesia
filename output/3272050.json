@@ -2,31 +2,43 @@
  {
   "id": 3272050001,
   "districtId": 3272050,
-  "name": "GUNUNG PARANG"
+  "districtName": "CIKOLE",
+  "name": "GUNUNG PARANG",
+  "postalCode": "43111"
  },
  {
   "id": 3272050002,
   "districtId": 3272050,
-  "name": "KEBONJATI"
+  "districtName": "CIKOLE",
+  "name": "KEBONJATI",
+  "postalCode": "43112"
  },
  {
   "id": 3272050003,
   "districtId": 3272050,
-  "name": "CIKOLE"
+  "districtName": "CIKOLE",
+  "name": "CIKOLE",
+  "postalCode": "43113"
  },
  {
   "id": 3272050004,
   "districtId": 3272050,
-  "name": "SELABATU"
+  "districtName": "CIKOLE",
+  "name": "SELABATU",
+  "postalCode": "43114"
  },
  {
   "id": 3272050005,
   "districtId": 3272050,
-  "name": "CISARUA"
+  "districtName": "CIKOLE",
+  "name": "CISARUA",
+  "postalCode": "43115"
  },
  {
   "id": 3272050006,
   "districtId": 3272050,
-  "name": "SUBANGJAYA"
+  "districtName": "CIKOLE",
+  "name": "SUBANGJAYA",
+  "postalCode": "43116"
  }
 ]

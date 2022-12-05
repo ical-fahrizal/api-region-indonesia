@@ -2,36 +2,50 @@
  {
   "id": 5371031001,
   "districtId": 5371031,
-  "name": "BAKUNASE"
+  "districtName": "KOTA RAJA",
+  "name": "BAKUNASE",
+  "postalCode": "85116"
  },
  {
   "id": 5371031002,
   "districtId": 5371031,
-  "name": "BAKUNASE II"
+  "districtName": "KOTA RAJA",
+  "name": "BAKUNASE II",
+  "postalCode": ""
  },
  {
   "id": 5371031003,
   "districtId": 5371031,
-  "name": "AIR NONA"
+  "districtName": "KOTA RAJA",
+  "name": "AIR NONA",
+  "postalCode": "85119"
  },
  {
   "id": 5371031004,
   "districtId": 5371031,
-  "name": "NAIKOTEN I"
+  "districtName": "KOTA RAJA",
+  "name": "NAIKOTEN I",
+  "postalCode": ""
  },
  {
   "id": 5371031005,
   "districtId": 5371031,
-  "name": "NAIKOTEN II"
+  "districtName": "KOTA RAJA",
+  "name": "NAIKOTEN II",
+  "postalCode": ""
  },
  {
   "id": 5371031006,
   "districtId": 5371031,
-  "name": "KUANINO"
+  "districtName": "KOTA RAJA",
+  "name": "KUANINO",
+  "postalCode": "85119"
  },
  {
   "id": 5371031008,
   "districtId": 5371031,
-  "name": "FONTEIN"
+  "districtName": "KOTA RAJA",
+  "name": "FONTEIN",
+  "postalCode": "85112"
  }
 ]

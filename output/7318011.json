@@ -2,31 +2,43 @@
  {
   "id": 7318011004,
   "districtId": 7318011,
-  "name": "LEMBANG SIMBUANG"
+  "districtName": "SIMBUANG",
+  "name": "LEMBANG SIMBUANG",
+  "postalCode": ""
  },
  {
   "id": 7318011005,
   "districtId": 7318011,
-  "name": "KELURAHAN SIMA"
+  "districtName": "SIMBUANG",
+  "name": "KELURAHAN SIMA",
+  "postalCode": ""
  },
  {
   "id": 7318011006,
   "districtId": 7318011,
-  "name": "LEMBANG PONG BEMBE"
+  "districtName": "SIMBUANG",
+  "name": "LEMBANG PONG BEMBE",
+  "postalCode": ""
  },
  {
   "id": 7318011010,
   "districtId": 7318011,
-  "name": "LEMBANG SIMBUANG BATUALLU"
+  "districtName": "SIMBUANG",
+  "name": "LEMBANG SIMBUANG BATUALLU",
+  "postalCode": ""
  },
  {
   "id": 7318011011,
   "districtId": 7318011,
-  "name": "LEMBANG MAKKADO"
+  "districtName": "SIMBUANG",
+  "name": "LEMBANG MAKKADO",
+  "postalCode": ""
  },
  {
   "id": 7318011012,
   "districtId": 7318011,
-  "name": "LEMBANG PUANG BEMBE MESAKADA"
+  "districtName": "SIMBUANG",
+  "name": "LEMBANG PUANG BEMBE MESAKADA",
+  "postalCode": ""
  }
 ]

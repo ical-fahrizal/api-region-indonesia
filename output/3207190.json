@@ -2,56 +2,78 @@
  {
   "id": 3207190001,
   "districtId": 3207190,
-  "name": "TANJUNGSUKUR"
+  "districtName": "RAJADESA",
+  "name": "TANJUNGSUKUR",
+  "postalCode": "46254"
  },
  {
   "id": 3207190002,
   "districtId": 3207190,
-  "name": "TANJUNGSARI"
+  "districtName": "RAJADESA",
+  "name": "TANJUNGSARI",
+  "postalCode": "28983"
  },
  {
   "id": 3207190003,
   "districtId": 3207190,
-  "name": "TANJUNGJAYA"
+  "districtName": "RAJADESA",
+  "name": "TANJUNGJAYA",
+  "postalCode": "35613"
  },
  {
   "id": 3207190004,
   "districtId": 3207190,
-  "name": "RAJADESA"
+  "districtName": "RAJADESA",
+  "name": "RAJADESA",
+  "postalCode": "46254"
  },
  {
   "id": 3207190005,
   "districtId": 3207190,
-  "name": "SIRNABAYA"
+  "districtName": "RAJADESA",
+  "name": "SIRNABAYA",
+  "postalCode": "46254"
  },
  {
   "id": 3207190006,
   "districtId": 3207190,
-  "name": "SIRNAJAYA"
+  "districtName": "RAJADESA",
+  "name": "SIRNAJAYA",
+  "postalCode": "44163"
  },
  {
   "id": 3207190007,
   "districtId": 3207190,
-  "name": "PURWARAJA"
+  "districtName": "RAJADESA",
+  "name": "PURWARAJA",
+  "postalCode": "46254"
  },
  {
   "id": 3207190008,
   "districtId": 3207190,
-  "name": "ANDAPRAJA"
+  "districtName": "RAJADESA",
+  "name": "ANDAPRAJA",
+  "postalCode": "46254"
  },
  {
   "id": 3207190009,
   "districtId": 3207190,
-  "name": "SUKAHARJA"
+  "districtName": "RAJADESA",
+  "name": "SUKAHARJA",
+  "postalCode": "45587"
  },
  {
   "id": 3207190010,
   "districtId": 3207190,
-  "name": "TIGAHERANG"
+  "districtName": "RAJADESA",
+  "name": "TIGAHERANG",
+  "postalCode": "46254"
  },
  {
   "id": 3207190011,
   "districtId": 3207190,
-  "name": "SUKAJAYA"
+  "districtName": "RAJADESA",
+  "name": "SUKAJAYA",
+  "postalCode": "30756"
  }
 ]

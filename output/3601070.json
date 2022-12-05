@@ -2,41 +2,57 @@
  {
   "id": 3601070003,
   "districtId": 3601070,
-  "name": "LEBAK"
+  "districtName": "MUNJUL",
+  "name": "LEBAK",
+  "postalCode": "50772"
  },
  {
   "id": 3601070004,
   "districtId": 3601070,
-  "name": "GUNUNGBATU"
+  "districtName": "MUNJUL",
+  "name": "GUNUNGBATU",
+  "postalCode": "16118"
  },
  {
   "id": 3601070005,
   "districtId": 3601070,
-  "name": "PANACARAN"
+  "districtName": "MUNJUL",
+  "name": "PANACARAN",
+  "postalCode": "42276"
  },
  {
   "id": 3601070006,
   "districtId": 3601070,
-  "name": "CURUGLANGLANG"
+  "districtName": "MUNJUL",
+  "name": "CURUGLANGLANG",
+  "postalCode": "42276"
  },
  {
   "id": 3601070008,
   "districtId": 3601070,
-  "name": "CIBITUNG"
+  "districtName": "MUNJUL",
+  "name": "CIBITUNG",
+  "postalCode": "45392"
  },
  {
   "id": 3601070018,
   "districtId": 3601070,
-  "name": "KOTADUKUH"
+  "districtName": "MUNJUL",
+  "name": "KOTADUKUH",
+  "postalCode": "42276"
  },
  {
   "id": 3601070019,
   "districtId": 3601070,
-  "name": "PASANGGRAHAN"
+  "districtName": "MUNJUL",
+  "name": "PASANGGRAHAN",
+  "postalCode": "41164"
  },
  {
   "id": 3601070020,
   "districtId": 3601070,
-  "name": "SUKASABA"
+  "districtName": "MUNJUL",
+  "name": "SUKASABA",
+  "postalCode": "42276"
  }
 ]

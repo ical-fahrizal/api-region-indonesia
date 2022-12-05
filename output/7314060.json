@@ -2,61 +2,85 @@
  {
   "id": 7314060001,
   "districtId": 7314060,
-  "name": "TAKKALASI"
+  "districtName": "MARITENGNGAE",
+  "name": "TAKKALASI",
+  "postalCode": "90762"
  },
  {
   "id": 7314060002,
   "districtId": 7314060,
-  "name": "ALLAKUANG"
+  "districtName": "MARITENGNGAE",
+  "name": "ALLAKUANG",
+  "postalCode": "91611"
  },
  {
   "id": 7314060003,
   "districtId": 7314060,
-  "name": "TANETE"
+  "districtName": "MARITENGNGAE",
+  "name": "TANETE",
+  "postalCode": "91752"
  },
  {
   "id": 7314060004,
   "districtId": 7314060,
-  "name": "LAUTANG BENTENG"
+  "districtName": "MARITENGNGAE",
+  "name": "LAUTANG BENTENG",
+  "postalCode": "91611"
  },
  {
   "id": 7314060005,
   "districtId": 7314060,
-  "name": "RIJANG PITTU"
+  "districtName": "MARITENGNGAE",
+  "name": "RIJANG PITTU",
+  "postalCode": "91611"
  },
  {
   "id": 7314060006,
   "districtId": 7314060,
-  "name": "LAKESSI"
+  "districtName": "MARITENGNGAE",
+  "name": "LAKESSI",
+  "postalCode": "91611"
  },
  {
   "id": 7314060007,
   "districtId": 7314060,
-  "name": "PANGKAJENE"
+  "districtName": "MARITENGNGAE",
+  "name": "PANGKAJENE",
+  "postalCode": "91611"
  },
  {
   "id": 7314060008,
   "districtId": 7314060,
-  "name": "WALA"
+  "districtName": "MARITENGNGAE",
+  "name": "WALA",
+  "postalCode": "91611"
  },
  {
   "id": 7314060009,
   "districtId": 7314060,
-  "name": "MAJJELLING"
+  "districtName": "MARITENGNGAE",
+  "name": "MAJJELLING",
+  "postalCode": "91611"
  },
  {
   "id": 7314060010,
   "districtId": 7314060,
-  "name": "MAJELLING WATANG"
+  "districtName": "MARITENGNGAE",
+  "name": "MAJELLING WATANG",
+  "postalCode": "91611"
  },
  {
   "id": 7314060011,
   "districtId": 7314060,
-  "name": "SEREANG"
+  "districtName": "MARITENGNGAE",
+  "name": "SEREANG",
+  "postalCode": "91615"
  },
  {
   "id": 7314060012,
   "districtId": 7314060,
-  "name": "KANIE"
+  "districtName": "MARITENGNGAE",
+  "name": "KANIE",
+  "postalCode": "91611"
  }
 ]

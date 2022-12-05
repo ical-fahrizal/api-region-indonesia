@@ -2,131 +2,183 @@
  {
   "id": 3528060001,
   "districtId": 3528060,
-  "name": "GRO'OM"
+  "districtName": "PROPPO",
+  "name": "GRO'OM",
+  "postalCode": ""
  },
  {
   "id": 3528060002,
   "districtId": 3528060,
-  "name": "BATUKALANGAN"
+  "districtName": "PROPPO",
+  "name": "BATUKALANGAN",
+  "postalCode": ""
  },
  {
   "id": 3528060003,
   "districtId": 3528060,
-  "name": "CANDIBURUNG"
+  "districtName": "PROPPO",
+  "name": "CANDIBURUNG",
+  "postalCode": ""
  },
  {
   "id": 3528060004,
   "districtId": 3528060,
-  "name": "TOKET"
+  "districtName": "PROPPO",
+  "name": "TOKET",
+  "postalCode": "69363"
  },
  {
   "id": 3528060005,
   "districtId": 3528060,
-  "name": "KARANGANYAR"
+  "districtName": "PROPPO",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  },
  {
   "id": 3528060006,
   "districtId": 3528060,
-  "name": "SAMIRAN"
+  "districtName": "PROPPO",
+  "name": "SAMIRAN",
+  "postalCode": "57363"
  },
  {
   "id": 3528060007,
   "districtId": 3528060,
-  "name": "PANGTONGGAL"
+  "districtName": "PROPPO",
+  "name": "PANGTONGGAL",
+  "postalCode": "69363"
  },
  {
   "id": 3528060008,
   "districtId": 3528060,
-  "name": "SRAMBAH"
+  "districtName": "PROPPO",
+  "name": "SRAMBAH",
+  "postalCode": "69363"
  },
  {
   "id": 3528060009,
   "districtId": 3528060,
-  "name": "BADUNG"
+  "districtName": "PROPPO",
+  "name": "BADUNG",
+  "postalCode": "69363"
  },
  {
   "id": 3528060010,
   "districtId": 3528060,
-  "name": "TATTANGOH"
+  "districtName": "PROPPO",
+  "name": "TATTANGOH",
+  "postalCode": "69363"
  },
  {
   "id": 3528060011,
   "districtId": 3528060,
-  "name": "PANGBATOK"
+  "districtName": "PROPPO",
+  "name": "PANGBATOK",
+  "postalCode": "69363"
  },
  {
   "id": 3528060012,
   "districtId": 3528060,
-  "name": "PANAGUAN"
+  "districtName": "PROPPO",
+  "name": "PANAGUAN",
+  "postalCode": "69383"
  },
  {
   "id": 3528060013,
   "districtId": 3528060,
-  "name": "CAMPOR"
+  "districtName": "PROPPO",
+  "name": "CAMPOR",
+  "postalCode": "69152"
  },
  {
   "id": 3528060014,
   "districtId": 3528060,
-  "name": "JAMBRINGIN"
+  "districtName": "PROPPO",
+  "name": "JAMBRINGIN",
+  "postalCode": "69363"
  },
  {
   "id": 3528060015,
   "districtId": 3528060,
-  "name": "PROPPO"
+  "districtName": "PROPPO",
+  "name": "PROPPO",
+  "postalCode": "69363"
  },
  {
   "id": 3528060016,
   "districtId": 3528060,
-  "name": "MAPPER"
+  "districtName": "PROPPO",
+  "name": "MAPPER",
+  "postalCode": "69363"
  },
  {
   "id": 3528060017,
   "districtId": 3528060,
-  "name": "PANGLEMAH"
+  "districtName": "PROPPO",
+  "name": "PANGLEMAH",
+  "postalCode": "69363"
  },
  {
   "id": 3528060018,
   "districtId": 3528060,
-  "name": "BILLA'AN"
+  "districtName": "PROPPO",
+  "name": "BILLA'AN",
+  "postalCode": ""
  },
  {
   "id": 3528060019,
   "districtId": 3528060,
-  "name": "TLANGOH"
+  "districtName": "PROPPO",
+  "name": "TLANGOH",
+  "postalCode": "69363"
  },
  {
   "id": 3528060020,
   "districtId": 3528060,
-  "name": "KODIK"
+  "districtName": "PROPPO",
+  "name": "KODIK",
+  "postalCode": "69363"
  },
  {
   "id": 3528060022,
   "districtId": 3528060,
-  "name": "SAMATAN"
+  "districtName": "PROPPO",
+  "name": "SAMATAN",
+  "postalCode": "69363"
  },
  {
   "id": 3528060023,
   "districtId": 3528060,
-  "name": "KLAMPAR"
+  "districtName": "PROPPO",
+  "name": "KLAMPAR",
+  "postalCode": "69363"
  },
  {
   "id": 3528060024,
   "districtId": 3528060,
-  "name": "RANG PERANG LAOK"
+  "districtName": "PROPPO",
+  "name": "RANG PERANG LAOK",
+  "postalCode": "69363"
  },
  {
   "id": 3528060025,
   "districtId": 3528060,
-  "name": "PANGURAYAN"
+  "districtName": "PROPPO",
+  "name": "PANGURAYAN",
+  "postalCode": "69363"
  },
  {
   "id": 3528060026,
   "districtId": 3528060,
-  "name": "BANYUBULU"
+  "districtName": "PROPPO",
+  "name": "BANYUBULU",
+  "postalCode": ""
  },
  {
   "id": 3528060027,
   "districtId": 3528060,
-  "name": "RANG PERANG DAYA"
+  "districtName": "PROPPO",
+  "name": "RANG PERANG DAYA",
+  "postalCode": "69363"
  }
 ]

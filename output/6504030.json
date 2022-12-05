@@ -2,241 +2,337 @@
  {
   "id": 6504030001,
   "districtId": 6504030,
-  "name": "PAYANG"
+  "districtName": "LUMBIS OGONG",
+  "name": "PAYANG",
+  "postalCode": "59119"
  },
  {
   "id": 6504030002,
   "districtId": 6504030,
-  "name": "SUYADON"
+  "districtName": "LUMBIS OGONG",
+  "name": "SUYADON",
+  "postalCode": "77457"
  },
  {
   "id": 6504030003,
   "districtId": 6504030,
-  "name": "TUKULON"
+  "districtName": "LUMBIS OGONG",
+  "name": "TUKULON",
+  "postalCode": ""
  },
  {
   "id": 6504030004,
   "districtId": 6504030,
-  "name": "BULU MENGELOM"
+  "districtName": "LUMBIS OGONG",
+  "name": "BULU MENGELOM",
+  "postalCode": "77457"
  },
  {
   "id": 6504030005,
   "districtId": 6504030,
-  "name": "BATUNG"
+  "districtName": "LUMBIS OGONG",
+  "name": "BATUNG",
+  "postalCode": "71191"
  },
  {
   "id": 6504030006,
   "districtId": 6504030,
-  "name": "UBEL SULOK"
+  "districtName": "LUMBIS OGONG",
+  "name": "UBEL SULOK",
+  "postalCode": "77457"
  },
  {
   "id": 6504030007,
   "districtId": 6504030,
-  "name": "UBEL ALUNG"
+  "districtName": "LUMBIS OGONG",
+  "name": "UBEL ALUNG",
+  "postalCode": ""
  },
  {
   "id": 6504030008,
   "districtId": 6504030,
-  "name": "NAN SAPAN"
+  "districtName": "LUMBIS OGONG",
+  "name": "NAN SAPAN",
+  "postalCode": "77457"
  },
  {
   "id": 6504030009,
   "districtId": 6504030,
-  "name": "SEDALIT"
+  "districtName": "LUMBIS OGONG",
+  "name": "SEDALIT",
+  "postalCode": "77457"
  },
  {
   "id": 6504030010,
   "districtId": 6504030,
-  "name": "TAMBALANG HILIR"
+  "districtName": "LUMBIS OGONG",
+  "name": "TAMBALANG HILIR",
+  "postalCode": "77457"
  },
  {
   "id": 6504030011,
   "districtId": 6504030,
-  "name": "PALUAN"
+  "districtName": "LUMBIS OGONG",
+  "name": "PALUAN",
+  "postalCode": "77457"
  },
  {
   "id": 6504030013,
   "districtId": 6504030,
-  "name": "LONG BULU"
+  "districtName": "LUMBIS OGONG",
+  "name": "LONG BULU",
+  "postalCode": "77457"
  },
  {
   "id": 6504030014,
   "districtId": 6504030,
-  "name": "KALAM BUKU"
+  "districtName": "LUMBIS OGONG",
+  "name": "KALAM BUKU",
+  "postalCode": "77457"
  },
  {
   "id": 6504030015,
   "districtId": 6504030,
-  "name": "TADUNGUS"
+  "districtName": "LUMBIS OGONG",
+  "name": "TADUNGUS",
+  "postalCode": ""
  },
  {
   "id": 6504030016,
   "districtId": 6504030,
-  "name": "SEMATA"
+  "districtName": "LUMBIS OGONG",
+  "name": "SEMATA",
+  "postalCode": "79465"
  },
  {
   "id": 6504030017,
   "districtId": 6504030,
-  "name": "LINSAYUNG"
+  "districtName": "LUMBIS OGONG",
+  "name": "LINSAYUNG",
+  "postalCode": "77457"
  },
  {
   "id": 6504030018,
   "districtId": 6504030,
-  "name": "SALAN"
+  "districtName": "LUMBIS OGONG",
+  "name": "SALAN",
+  "postalCode": "77457"
  },
  {
   "id": 6504030019,
   "districtId": 6504030,
-  "name": "SUNGOI"
+  "districtName": "LUMBIS OGONG",
+  "name": "SUNGOI",
+  "postalCode": "77457"
  },
  {
   "id": 6504030020,
   "districtId": 6504030,
-  "name": "SINAMPALA I"
+  "districtName": "LUMBIS OGONG",
+  "name": "SINAMPALA I",
+  "postalCode": ""
  },
  {
   "id": 6504030021,
   "districtId": 6504030,
-  "name": "SAMUNTI"
+  "districtName": "LUMBIS OGONG",
+  "name": "SAMUNTI",
+  "postalCode": "77457"
  },
  {
   "id": 6504030022,
   "districtId": 6504030,
-  "name": "SINAMPALA II"
+  "districtName": "LUMBIS OGONG",
+  "name": "SINAMPALA II",
+  "postalCode": ""
  },
  {
   "id": 6504030023,
   "districtId": 6504030,
-  "name": "LIMPAKON"
+  "districtName": "LUMBIS OGONG",
+  "name": "LIMPAKON",
+  "postalCode": "77457"
  },
  {
   "id": 6504030024,
   "districtId": 6504030,
-  "name": "LABUK"
+  "districtName": "LUMBIS OGONG",
+  "name": "LABUK",
+  "postalCode": "77457"
  },
  {
   "id": 6504030025,
   "districtId": 6504030,
-  "name": "SUMENTOBOL"
+  "districtName": "LUMBIS OGONG",
+  "name": "SUMENTOBOL",
+  "postalCode": "77457"
  },
  {
   "id": 6504030026,
   "districtId": 6504030,
-  "name": "SANAL"
+  "districtName": "LUMBIS OGONG",
+  "name": "SANAL",
+  "postalCode": "77457"
  },
  {
   "id": 6504030027,
   "districtId": 6504030,
-  "name": "TUMATALAS"
+  "districtName": "LUMBIS OGONG",
+  "name": "TUMATALAS",
+  "postalCode": "77457"
  },
  {
   "id": 6504030028,
   "districtId": 6504030,
-  "name": "NANTUKIDAN"
+  "districtName": "LUMBIS OGONG",
+  "name": "NANTUKIDAN",
+  "postalCode": "77457"
  },
  {
   "id": 6504030029,
   "districtId": 6504030,
-  "name": "LABANG"
+  "districtName": "LUMBIS OGONG",
+  "name": "LABANG",
+  "postalCode": "69163"
  },
  {
   "id": 6504030030,
   "districtId": 6504030,
-  "name": "SUMANTIPAL"
+  "districtName": "LUMBIS OGONG",
+  "name": "SUMANTIPAL",
+  "postalCode": "77457"
  },
  {
   "id": 6504030031,
   "districtId": 6504030,
-  "name": "NGAWOL"
+  "districtName": "LUMBIS OGONG",
+  "name": "NGAWOL",
+  "postalCode": "77457"
  },
  {
   "id": 6504030032,
   "districtId": 6504030,
-  "name": "BULU LAUN HILIR"
+  "districtName": "LUMBIS OGONG",
+  "name": "BULU LAUN HILIR",
+  "postalCode": "77457"
  },
  {
   "id": 6504030033,
   "districtId": 6504030,
-  "name": "LAGAS"
+  "districtName": "LUMBIS OGONG",
+  "name": "LAGAS",
+  "postalCode": "77457"
  },
  {
   "id": 6504030034,
   "districtId": 6504030,
-  "name": "TANTALUJUK"
+  "districtName": "LUMBIS OGONG",
+  "name": "TANTALUJUK",
+  "postalCode": "77457"
  },
  {
   "id": 6504030035,
   "districtId": 6504030,
-  "name": "PANAS"
+  "districtName": "LUMBIS OGONG",
+  "name": "PANAS",
+  "postalCode": "77457"
  },
  {
   "id": 6504030036,
   "districtId": 6504030,
-  "name": "KUYO"
+  "districtName": "LUMBIS OGONG",
+  "name": "KUYO",
+  "postalCode": "77457"
  },
  {
   "id": 6504030037,
   "districtId": 6504030,
-  "name": "BOKOK"
+  "districtName": "LUMBIS OGONG",
+  "name": "BOKOK",
+  "postalCode": "77457"
  },
  {
   "id": 6504030038,
   "districtId": 6504030,
-  "name": "TAMBALANG HULU"
+  "districtName": "LUMBIS OGONG",
+  "name": "TAMBALANG HULU",
+  "postalCode": ""
  },
  {
   "id": 6504030039,
   "districtId": 6504030,
-  "name": "LANGGASON"
+  "districtName": "LUMBIS OGONG",
+  "name": "LANGGASON",
+  "postalCode": "77457"
  },
  {
   "id": 6504030040,
   "districtId": 6504030,
-  "name": "SIBALU"
+  "districtName": "LUMBIS OGONG",
+  "name": "SIBALU",
+  "postalCode": "77457"
  },
  {
   "id": 6504030041,
   "districtId": 6504030,
-  "name": "MAMASIN"
+  "districtName": "LUMBIS OGONG",
+  "name": "MAMASIN",
+  "postalCode": ""
  },
  {
   "id": 6504030042,
   "districtId": 6504030,
-  "name": "DUYAN"
+  "districtName": "LUMBIS OGONG",
+  "name": "DUYAN",
+  "postalCode": "77457"
  },
  {
   "id": 6504030043,
   "districtId": 6504030,
-  "name": "TAU LUMBIS"
+  "districtName": "LUMBIS OGONG",
+  "name": "TAU LUMBIS",
+  "postalCode": "77457"
  },
  {
   "id": 6504030044,
   "districtId": 6504030,
-  "name": "KABUNGALOR"
+  "districtName": "LUMBIS OGONG",
+  "name": "KABUNGALOR",
+  "postalCode": "77457"
  },
  {
   "id": 6504030045,
   "districtId": 6504030,
-  "name": "TETAGAS"
+  "districtName": "LUMBIS OGONG",
+  "name": "TETAGAS",
+  "postalCode": "77457"
  },
  {
   "id": 6504030046,
   "districtId": 6504030,
-  "name": "BULU LAUN HULU"
+  "districtName": "LUMBIS OGONG",
+  "name": "BULU LAUN HULU",
+  "postalCode": "77457"
  },
  {
   "id": 6504030047,
   "districtId": 6504030,
-  "name": "TANTU LIBING"
+  "districtName": "LUMBIS OGONG",
+  "name": "TANTU LIBING",
+  "postalCode": "77457"
  },
  {
   "id": 6504030048,
   "districtId": 6504030,
-  "name": "KALISUN"
+  "districtName": "LUMBIS OGONG",
+  "name": "KALISUN",
+  "postalCode": "77457"
  },
  {
   "id": 6504030049,
   "districtId": 6504030,
-  "name": "LEPAGA"
+  "districtName": "LUMBIS OGONG",
+  "name": "LEPAGA",
+  "postalCode": "77457"
  }
 ]

@@ -2,21 +2,29 @@
  {
   "id": 6206011001,
   "districtId": 6206011,
-  "name": "SUNGAI DAMAR"
+  "districtName": "PANTAI LUNCI",
+  "name": "SUNGAI DAMAR",
+  "postalCode": ""
  },
  {
   "id": 6206011002,
   "districtId": 6206011,
-  "name": "SUNGAI TABUK"
+  "districtName": "PANTAI LUNCI",
+  "name": "SUNGAI TABUK",
+  "postalCode": ""
  },
  {
   "id": 6206011003,
   "districtId": 6206011,
-  "name": "SUNGAI CABANG BARAT"
+  "districtName": "PANTAI LUNCI",
+  "name": "SUNGAI CABANG BARAT",
+  "postalCode": ""
  },
  {
   "id": 6206011004,
   "districtId": 6206011,
-  "name": "SUNGAI PASIR"
+  "districtName": "PANTAI LUNCI",
+  "name": "SUNGAI PASIR",
+  "postalCode": "30658"
  }
 ]

@@ -2,26 +2,36 @@
  {
   "id": 3601181001,
   "districtId": 3601181,
-  "name": "SUKARATU"
+  "districtName": "MAJASARI",
+  "name": "SUKARATU",
+  "postalCode": "35551"
  },
  {
   "id": 3601181002,
   "districtId": 3601181,
-  "name": "KARATON"
+  "districtName": "MAJASARI",
+  "name": "KARATON",
+  "postalCode": "42211"
  },
  {
   "id": 3601181003,
   "districtId": 3601181,
-  "name": "CILAJA"
+  "districtName": "MAJASARI",
+  "name": "CILAJA",
+  "postalCode": "45553"
  },
  {
   "id": 3601181004,
   "districtId": 3601181,
-  "name": "SARUNI"
+  "districtName": "MAJASARI",
+  "name": "SARUNI",
+  "postalCode": "42216"
  },
  {
   "id": 3601181005,
   "districtId": 3601181,
-  "name": "PAGERBATU"
+  "districtName": "MAJASARI",
+  "name": "PAGERBATU",
+  "postalCode": "42215"
  }
 ]

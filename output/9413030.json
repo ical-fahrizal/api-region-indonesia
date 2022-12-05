@@ -2,26 +2,36 @@
  {
   "id": 9413030004,
   "districtId": 9413030,
-  "name": "AMPERA"
+  "districtName": "MANDOBO",
+  "name": "AMPERA",
+  "postalCode": "24671"
  },
  {
   "id": 9413030005,
   "districtId": 9413030,
-  "name": "PERSATUAN"
+  "districtName": "MANDOBO",
+  "name": "PERSATUAN",
+  "postalCode": "21273"
  },
  {
   "id": 9413030006,
   "districtId": 9413030,
-  "name": "MAWAN"
+  "districtName": "MANDOBO",
+  "name": "MAWAN",
+  "postalCode": "78759"
  },
  {
   "id": 9413030007,
   "districtId": 9413030,
-  "name": "SOKANGGO"
+  "districtName": "MANDOBO",
+  "name": "SOKANGGO",
+  "postalCode": ""
  },
  {
   "id": 9413030008,
   "districtId": 9413030,
-  "name": "MARIAM"
+  "districtName": "MANDOBO",
+  "name": "MARIAM",
+  "postalCode": "99663"
  }
 ]

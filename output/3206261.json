@@ -2,31 +2,43 @@
  {
   "id": 3206261001,
   "districtId": 3206261,
-  "name": "PAMOYANAN"
+  "districtName": "KADIPATEN",
+  "name": "PAMOYANAN",
+  "postalCode": "16136"
  },
  {
   "id": 3206261002,
   "districtId": 3206261,
-  "name": "BUNIASIH"
+  "districtName": "KADIPATEN",
+  "name": "BUNIASIH",
+  "postalCode": "46156"
  },
  {
   "id": 3206261003,
   "districtId": 3206261,
-  "name": "MEKARSARI"
+  "districtName": "KADIPATEN",
+  "name": "MEKARSARI",
+  "postalCode": "37482"
  },
  {
   "id": 3206261004,
   "districtId": 3206261,
-  "name": "DIRGAHAYU"
+  "districtName": "KADIPATEN",
+  "name": "DIRGAHAYU",
+  "postalCode": "46156"
  },
  {
   "id": 3206261005,
   "districtId": 3206261,
-  "name": "CIBAHAYU"
+  "districtName": "KADIPATEN",
+  "name": "CIBAHAYU",
+  "postalCode": "46156"
  },
  {
   "id": 3206261006,
   "districtId": 3206261,
-  "name": "KADIPATEN"
+  "districtName": "KADIPATEN",
+  "name": "KADIPATEN",
+  "postalCode": "45452"
  }
 ]

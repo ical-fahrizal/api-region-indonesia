@@ -2,46 +2,64 @@
  {
   "id": 5321060001,
   "districtId": 5321060,
-  "name": "MANUMUTIN SILOLE"
+  "districtName": "SASITA MEAN",
+  "name": "MANUMUTIN SILOLE",
+  "postalCode": "85765"
  },
  {
   "id": 5321060002,
   "districtId": 5321060,
-  "name": "FATUARUIN"
+  "districtName": "SASITA MEAN",
+  "name": "FATUARUIN",
+  "postalCode": "85765"
  },
  {
   "id": 5321060003,
   "districtId": 5321060,
-  "name": "BUILARAN"
+  "districtName": "SASITA MEAN",
+  "name": "BUILARAN",
+  "postalCode": "85765"
  },
  {
   "id": 5321060004,
   "districtId": 5321060,
-  "name": "NAIBONE"
+  "districtName": "SASITA MEAN",
+  "name": "NAIBONE",
+  "postalCode": "85765"
  },
  {
   "id": 5321060005,
   "districtId": 5321060,
-  "name": "BEANENO"
+  "districtName": "SASITA MEAN",
+  "name": "BEANENO",
+  "postalCode": "85765"
  },
  {
   "id": 5321060006,
   "districtId": 5321060,
-  "name": "MANULEA"
+  "districtName": "SASITA MEAN",
+  "name": "MANULEA",
+  "postalCode": "85765"
  },
  {
   "id": 5321060007,
   "districtId": 5321060,
-  "name": "UMUTNANA"
+  "districtName": "SASITA MEAN",
+  "name": "UMUTNANA",
+  "postalCode": "85765"
  },
  {
   "id": 5321060008,
   "districtId": 5321060,
-  "name": "AS MANULEA"
+  "districtName": "SASITA MEAN",
+  "name": "AS MANULEA",
+  "postalCode": "85765"
  },
  {
   "id": 5321060009,
   "districtId": 5321060,
-  "name": "NAISAU"
+  "districtName": "SASITA MEAN",
+  "name": "NAISAU",
+  "postalCode": "85765"
  }
 ]

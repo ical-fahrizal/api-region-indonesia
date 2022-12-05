@@ -2,66 +2,92 @@
  {
   "id": 1708030001,
   "districtId": 1708030,
-  "name": "BENUANG GALING"
+  "districtName": "SEBERANG MUSI",
+  "name": "BENUANG GALING",
+  "postalCode": "39374"
  },
  {
   "id": 1708030002,
   "districtId": 1708030,
-  "name": "AIR SELIMANG"
+  "districtName": "SEBERANG MUSI",
+  "name": "AIR SELIMANG",
+  "postalCode": "39374"
  },
  {
   "id": 1708030003,
   "districtId": 1708030,
-  "name": "TEBAT LAUT"
+  "districtName": "SEBERANG MUSI",
+  "name": "TEBAT LAUT",
+  "postalCode": "39374"
  },
  {
   "id": 1708030004,
   "districtId": 1708030,
-  "name": "TABA PADANG"
+  "districtName": "SEBERANG MUSI",
+  "name": "TABA PADANG",
+  "postalCode": "39182"
  },
  {
   "id": 1708030005,
   "districtId": 1708030,
-  "name": "LUBUK SAHUNG"
+  "districtName": "SEBERANG MUSI",
+  "name": "LUBUK SAHUNG",
+  "postalCode": "38768"
  },
  {
   "id": 1708030006,
   "districtId": 1708030,
-  "name": "TEMDAK"
+  "districtName": "SEBERANG MUSI",
+  "name": "TEMDAK",
+  "postalCode": ""
  },
  {
   "id": 1708030007,
   "districtId": 1708030,
-  "name": "KANDANG"
+  "districtName": "SEBERANG MUSI",
+  "name": "KANDANG",
+  "postalCode": "23352"
  },
  {
   "id": 1708030008,
   "districtId": 1708030,
-  "name": "CIREBON BARU"
+  "districtName": "SEBERANG MUSI",
+  "name": "CIREBON BARU",
+  "postalCode": ""
  },
  {
   "id": 1708030009,
   "districtId": 1708030,
-  "name": "TALANG GELOMPOK"
+  "districtName": "SEBERANG MUSI",
+  "name": "TALANG GELOMPOK",
+  "postalCode": "39373"
  },
  {
   "id": 1708030010,
   "districtId": 1708030,
-  "name": "AIR PESI"
+  "districtName": "SEBERANG MUSI",
+  "name": "AIR PESI",
+  "postalCode": "39373"
  },
  {
   "id": 1708030011,
   "districtId": 1708030,
-  "name": "TALANG BABATAN"
+  "districtName": "SEBERANG MUSI",
+  "name": "TALANG BABATAN",
+  "postalCode": "39373"
  },
  {
   "id": 1708030012,
   "districtId": 1708030,
-  "name": "BAYUNG"
+  "districtName": "SEBERANG MUSI",
+  "name": "BAYUNG",
+  "postalCode": "39373"
  },
  {
   "id": 1708030013,
   "districtId": 1708030,
-  "name": "SUNGAI JERNIH"
+  "districtName": "SEBERANG MUSI",
+  "name": "SUNGAI JERNIH",
+  "postalCode": "37163"
  }
 ]

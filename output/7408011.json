@@ -2,36 +2,50 @@
  {
   "id": 7408011001,
   "districtId": 7408011,
-  "name": "LAPASI-PASI"
+  "districtName": "LAMBAI",
+  "name": "LAPASI-PASI",
+  "postalCode": "93956"
  },
  {
   "id": 7408011002,
   "districtId": 7408011,
-  "name": "LAMBAI"
+  "districtName": "LAMBAI",
+  "name": "LAMBAI",
+  "postalCode": "93956"
  },
  {
   "id": 7408011003,
   "districtId": 7408011,
-  "name": "LATAWARO"
+  "districtName": "LAMBAI",
+  "name": "LATAWARO",
+  "postalCode": "93956"
  },
  {
   "id": 7408011004,
   "districtId": 7408011,
-  "name": "RAODA"
+  "districtName": "LAMBAI",
+  "name": "RAODA",
+  "postalCode": "93956"
  },
  {
   "id": 7408011005,
   "districtId": 7408011,
-  "name": "WOISE"
+  "districtName": "LAMBAI",
+  "name": "WOISE",
+  "postalCode": "93956"
  },
  {
   "id": 7408011006,
   "districtId": 7408011,
-  "name": "WOITOMBO"
+  "districtName": "LAMBAI",
+  "name": "WOITOMBO",
+  "postalCode": "93956"
  },
  {
   "id": 7408011007,
   "districtId": 7408011,
-  "name": "TEBONGEANO"
+  "districtName": "LAMBAI",
+  "name": "TEBONGEANO",
+  "postalCode": ""
  }
 ]

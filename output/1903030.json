@@ -2,36 +2,50 @@
  {
   "id": 1903030001,
   "districtId": 1903030,
-  "name": "BELOLAUT"
+  "districtName": "MENTOK",
+  "name": "BELOLAUT",
+  "postalCode": "33351"
  },
  {
   "id": 1903030004,
   "districtId": 1903030,
-  "name": "AIR BELO"
+  "districtName": "MENTOK",
+  "name": "AIR BELO",
+  "postalCode": "33351"
  },
  {
   "id": 1903030005,
   "districtId": 1903030,
-  "name": "SUNGAI BARU"
+  "districtName": "MENTOK",
+  "name": "SUNGAI BARU",
+  "postalCode": "29282"
  },
  {
   "id": 1903030006,
   "districtId": 1903030,
-  "name": "SUNGAI DAENG"
+  "districtName": "MENTOK",
+  "name": "SUNGAI DAENG",
+  "postalCode": "33313"
  },
  {
   "id": 1903030007,
   "districtId": 1903030,
-  "name": "TANJUNG"
+  "districtName": "MENTOK",
+  "name": "TANJUNG",
+  "postalCode": "24562"
  },
  {
   "id": 1903030008,
   "districtId": 1903030,
-  "name": "AIR PUTIH"
+  "districtName": "MENTOK",
+  "name": "AIR PUTIH",
+  "postalCode": "21264"
  },
  {
   "id": 1903030009,
   "districtId": 1903030,
-  "name": "AIRLIMAU"
+  "districtName": "MENTOK",
+  "name": "AIRLIMAU",
+  "postalCode": ""
  }
 ]

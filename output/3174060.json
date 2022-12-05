@@ -2,36 +2,50 @@
  {
   "id": 3174060002,
   "districtId": 3174060,
-  "name": "MAPHAR"
+  "districtName": "TAMAN SARI",
+  "name": "MAPHAR",
+  "postalCode": "11160"
  },
  {
   "id": 3174060003,
   "districtId": 3174060,
-  "name": "TAMAN SARI"
+  "districtName": "TAMAN SARI",
+  "name": "TAMAN SARI",
+  "postalCode": "21264"
  },
  {
   "id": 3174060004,
   "districtId": 3174060,
-  "name": "TANGKI"
+  "districtName": "TAMAN SARI",
+  "name": "TANGKI",
+  "postalCode": "11170"
  },
  {
   "id": 3174060005,
   "districtId": 3174060,
-  "name": "MANGGA BESAR"
+  "districtName": "TAMAN SARI",
+  "name": "MANGGA BESAR",
+  "postalCode": "31125"
  },
  {
   "id": 3174060006,
   "districtId": 3174060,
-  "name": "KEAGUNGAN"
+  "districtName": "TAMAN SARI",
+  "name": "KEAGUNGAN",
+  "postalCode": "34879"
  },
  {
   "id": 3174060007,
   "districtId": 3174060,
-  "name": "GLODOK"
+  "districtName": "TAMAN SARI",
+  "name": "GLODOK",
+  "postalCode": "11120"
  },
  {
   "id": 3174060008,
   "districtId": 3174060,
-  "name": "PINANGSIA"
+  "districtName": "TAMAN SARI",
+  "name": "PINANGSIA",
+  "postalCode": "11110"
  }
 ]

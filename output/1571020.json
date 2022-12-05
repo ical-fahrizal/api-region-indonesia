@@ -2,26 +2,36 @@
  {
   "id": 1571020003,
   "districtId": 1571020,
-  "name": "PASIR PUTIH"
+  "districtName": "JAMBI SELATAN",
+  "name": "PASIR PUTIH",
+  "postalCode": "24453"
  },
  {
   "id": 1571020004,
   "districtId": 1571020,
-  "name": "WIJAYA PURA"
+  "districtName": "JAMBI SELATAN",
+  "name": "WIJAYA PURA",
+  "postalCode": "36131"
  },
  {
   "id": 1571020005,
   "districtId": 1571020,
-  "name": "PAKUAN BARU"
+  "districtName": "JAMBI SELATAN",
+  "name": "PAKUAN BARU",
+  "postalCode": "36132"
  },
  {
   "id": 1571020006,
   "districtId": 1571020,
-  "name": "TAMBAK SARI"
+  "districtName": "JAMBI SELATAN",
+  "name": "TAMBAK SARI",
+  "postalCode": "36139"
  },
  {
   "id": 1571020007,
   "districtId": 1571020,
-  "name": "THE HOK"
+  "districtName": "JAMBI SELATAN",
+  "name": "THE HOK",
+  "postalCode": "36138"
  }
 ]

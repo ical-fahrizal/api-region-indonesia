@@ -2,91 +2,127 @@
  {
   "id": 8109020001,
   "districtId": 8109020,
-  "name": "WAEMULANG"
+  "districtName": "LEKSULA",
+  "name": "WAEMULANG",
+  "postalCode": "97573"
  },
  {
   "id": 8109020002,
   "districtId": 8109020,
-  "name": "WAETUREN"
+  "districtName": "LEKSULA",
+  "name": "WAETUREN",
+  "postalCode": "97573"
  },
  {
   "id": 8109020003,
   "districtId": 8109020,
-  "name": "WAEHAKA"
+  "districtName": "LEKSULA",
+  "name": "WAEHAKA",
+  "postalCode": "97573"
  },
  {
   "id": 8109020004,
   "districtId": 8109020,
-  "name": "WAEMALA"
+  "districtName": "LEKSULA",
+  "name": "WAEMALA",
+  "postalCode": "97573"
  },
  {
   "id": 8109020005,
   "districtId": 8109020,
-  "name": "EWIRI"
+  "districtName": "LEKSULA",
+  "name": "EWIRI",
+  "postalCode": ""
  },
  {
   "id": 8109020006,
   "districtId": 8109020,
-  "name": "TIFU"
+  "districtName": "LEKSULA",
+  "name": "TIFU",
+  "postalCode": "97573"
  },
  {
   "id": 8109020007,
   "districtId": 8109020,
-  "name": "MEPA"
+  "districtName": "LEKSULA",
+  "name": "MEPA",
+  "postalCode": "97573"
  },
  {
   "id": 8109020008,
   "districtId": 8109020,
-  "name": "LEKSULA"
+  "districtName": "LEKSULA",
+  "name": "LEKSULA",
+  "postalCode": "97573"
  },
  {
   "id": 8109020009,
   "districtId": 8109020,
-  "name": "NALBESSY"
+  "districtName": "LEKSULA",
+  "name": "NALBESSY",
+  "postalCode": "97573"
  },
  {
   "id": 8109020010,
   "districtId": 8109020,
-  "name": "KASE"
+  "districtName": "LEKSULA",
+  "name": "KASE",
+  "postalCode": "97573"
  },
  {
   "id": 8109020015,
   "districtId": 8109020,
-  "name": "SLEALALE"
+  "districtName": "LEKSULA",
+  "name": "SLEALALE",
+  "postalCode": "97573"
  },
  {
   "id": 8109020017,
   "districtId": 8109020,
-  "name": "NEATH"
+  "districtName": "LEKSULA",
+  "name": "NEATH",
+  "postalCode": "97573"
  },
  {
   "id": 8109020018,
   "districtId": 8109020,
-  "name": "LIANG"
+  "districtName": "LEKSULA",
+  "name": "LIANG",
+  "postalCode": "77457"
  },
  {
   "id": 8109020021,
   "districtId": 8109020,
-  "name": "WALUN HELAT"
+  "districtName": "LEKSULA",
+  "name": "WALUN HELAT",
+  "postalCode": ""
  },
  {
   "id": 8109020022,
   "districtId": 8109020,
-  "name": "GRAHWAEN"
+  "districtName": "LEKSULA",
+  "name": "GRAHWAEN",
+  "postalCode": "97573"
  },
  {
   "id": 8109020024,
   "districtId": 8109020,
-  "name": "WAEWALI"
+  "districtName": "LEKSULA",
+  "name": "WAEWALI",
+  "postalCode": ""
  },
  {
   "id": 8109020025,
   "districtId": 8109020,
-  "name": "WAHA OLON"
+  "districtName": "LEKSULA",
+  "name": "WAHA OLON",
+  "postalCode": ""
  },
  {
   "id": 8109020029,
   "districtId": 8109020,
-  "name": "WAENAMA OLON"
+  "districtName": "LEKSULA",
+  "name": "WAENAMA OLON",
+  "postalCode": ""
  }
 ]

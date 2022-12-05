@@ -2,76 +2,106 @@
  {
   "id": 8109030001,
   "districtId": 8109030,
-  "name": "WAMKANA"
+  "districtName": "NAMROLE",
+  "name": "WAMKANA",
+  "postalCode": "97573"
  },
  {
   "id": 8109030002,
   "districtId": 8109030,
-  "name": "WAENALUT"
+  "districtName": "NAMROLE",
+  "name": "WAENALUT",
+  "postalCode": "97573"
  },
  {
   "id": 8109030003,
   "districtId": 8109030,
-  "name": "LEKTAMA"
+  "districtName": "NAMROLE",
+  "name": "LEKTAMA",
+  "postalCode": "97573"
  },
  {
   "id": 8109030004,
   "districtId": 8109030,
-  "name": "FATMITE"
+  "districtName": "NAMROLE",
+  "name": "FATMITE",
+  "postalCode": "97573"
  },
  {
   "id": 8109030007,
   "districtId": 8109030,
-  "name": "OKI  LAMA"
+  "districtName": "NAMROLE",
+  "name": "OKI  LAMA",
+  "postalCode": ""
  },
  {
   "id": 8109030008,
   "districtId": 8109030,
-  "name": "OKI BARU"
+  "districtName": "NAMROLE",
+  "name": "OKI BARU",
+  "postalCode": "97573"
  },
  {
   "id": 8109030009,
   "districtId": 8109030,
-  "name": "LABUANG"
+  "districtName": "NAMROLE",
+  "name": "LABUANG",
+  "postalCode": "91412"
  },
  {
   "id": 8109030010,
   "districtId": 8109030,
-  "name": "WALI"
+  "districtName": "NAMROLE",
+  "name": "WALI",
+  "postalCode": "86514"
  },
  {
   "id": 8109030011,
   "districtId": 8109030,
-  "name": "BATU TULIS"
+  "districtName": "NAMROLE",
+  "name": "BATU TULIS",
+  "postalCode": "97573"
  },
  {
   "id": 8109030012,
   "districtId": 8109030,
-  "name": "WAEFUSI"
+  "districtName": "NAMROLE",
+  "name": "WAEFUSI",
+  "postalCode": "97573"
  },
  {
   "id": 8109030013,
   "districtId": 8109030,
-  "name": "KAMLANGLALE"
+  "districtName": "NAMROLE",
+  "name": "KAMLANGLALE",
+  "postalCode": "97573"
  },
  {
   "id": 8109030014,
   "districtId": 8109030,
-  "name": "NAMRINAT"
+  "districtName": "NAMROLE",
+  "name": "NAMRINAT",
+  "postalCode": "97573"
  },
  {
   "id": 8109030015,
   "districtId": 8109030,
-  "name": "WAENONO"
+  "districtName": "NAMROLE",
+  "name": "WAENONO",
+  "postalCode": "97573"
  },
  {
   "id": 8109030016,
   "districtId": 8109030,
-  "name": "TIKBARI"
+  "districtName": "NAMROLE",
+  "name": "TIKBARI",
+  "postalCode": ""
  },
  {
   "id": 8109030017,
   "districtId": 8109030,
-  "name": "MASNANA"
+  "districtName": "NAMROLE",
+  "name": "MASNANA",
+  "postalCode": "97573"
  }
 ]

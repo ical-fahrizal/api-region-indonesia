@@ -2,71 +2,99 @@
  {
   "id": 7502070005,
   "districtId": 7502070,
-  "name": "TENILO"
+  "districtName": "LIMBOTO",
+  "name": "TENILO",
+  "postalCode": "96133"
  },
  {
   "id": 7502070006,
   "districtId": 7502070,
-  "name": "BOLIHUANGGA"
+  "districtName": "LIMBOTO",
+  "name": "BOLIHUANGGA",
+  "postalCode": "96218"
  },
  {
   "id": 7502070007,
   "districtId": 7502070,
-  "name": "HUNGGALUWA"
+  "districtName": "LIMBOTO",
+  "name": "HUNGGALUWA",
+  "postalCode": "96219"
  },
  {
   "id": 7502070008,
   "districtId": 7502070,
-  "name": "KAYUBULAN"
+  "districtName": "LIMBOTO",
+  "name": "KAYUBULAN",
+  "postalCode": "96272"
  },
  {
   "id": 7502070009,
   "districtId": 7502070,
-  "name": "HEPUHULAWA"
+  "districtName": "LIMBOTO",
+  "name": "HEPUHULAWA",
+  "postalCode": "96212"
  },
  {
   "id": 7502070010,
   "districtId": 7502070,
-  "name": "DUTULANAA"
+  "districtName": "LIMBOTO",
+  "name": "DUTULANAA",
+  "postalCode": "96213"
  },
  {
   "id": 7502070011,
   "districtId": 7502070,
-  "name": "HUTUO"
+  "districtName": "LIMBOTO",
+  "name": "HUTUO",
+  "postalCode": "96213"
  },
  {
   "id": 7502070012,
   "districtId": 7502070,
-  "name": "BULOTA"
+  "districtName": "LIMBOTO",
+  "name": "BULOTA",
+  "postalCode": "96213"
  },
  {
   "id": 7502070013,
   "districtId": 7502070,
-  "name": "MALAHU"
+  "districtName": "LIMBOTO",
+  "name": "MALAHU",
+  "postalCode": "96211"
  },
  {
   "id": 7502070014,
   "districtId": 7502070,
-  "name": "BIYONGA"
+  "districtName": "LIMBOTO",
+  "name": "BIYONGA",
+  "postalCode": "96212"
  },
  {
   "id": 7502070015,
   "districtId": 7502070,
-  "name": "BONGOHULAWA"
+  "districtName": "LIMBOTO",
+  "name": "BONGOHULAWA",
+  "postalCode": "96214"
  },
  {
   "id": 7502070016,
   "districtId": 7502070,
-  "name": "KAYUMERAH"
+  "districtName": "LIMBOTO",
+  "name": "KAYUMERAH",
+  "postalCode": "96271"
  },
  {
   "id": 7502070017,
   "districtId": 7502070,
-  "name": "POLOHUNGO"
+  "districtName": "LIMBOTO",
+  "name": "POLOHUNGO",
+  "postalCode": "96263"
  },
  {
   "id": 7502070018,
   "districtId": 7502070,
-  "name": "TILIHUWA"
+  "districtName": "LIMBOTO",
+  "name": "TILIHUWA",
+  "postalCode": ""
  }
 ]

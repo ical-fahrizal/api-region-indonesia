@@ -2,66 +2,92 @@
  {
   "id": 1408012001,
   "districtId": 1408012,
-  "name": "BULUH MANIS"
+  "districtName": "BATHIN SOLAPAN",
+  "name": "BULUH MANIS",
+  "postalCode": "28784"
  },
  {
   "id": 1408012002,
   "districtId": 1408012,
-  "name": "PETANI"
+  "districtName": "BATHIN SOLAPAN",
+  "name": "PETANI",
+  "postalCode": "28383"
  },
  {
   "id": 1408012003,
   "districtId": 1408012,
-  "name": "TAMBUSAI BATANG DUI"
+  "districtName": "BATHIN SOLAPAN",
+  "name": "TAMBUSAI BATANG DUI",
+  "postalCode": "28784"
  },
  {
   "id": 1408012004,
   "districtId": 1408012,
-  "name": "SIMPANG PADANG"
+  "districtName": "BATHIN SOLAPAN",
+  "name": "SIMPANG PADANG",
+  "postalCode": "28784"
  },
  {
   "id": 1408012005,
   "districtId": 1408012,
-  "name": "PEMATANG OBO"
+  "districtName": "BATHIN SOLAPAN",
+  "name": "PEMATANG OBO",
+  "postalCode": "28784"
  },
  {
   "id": 1408012006,
   "districtId": 1408012,
-  "name": "BALAI MAKAM"
+  "districtName": "BATHIN SOLAPAN",
+  "name": "BALAI MAKAM",
+  "postalCode": "28784"
  },
  {
   "id": 1408012007,
   "districtId": 1408012,
-  "name": "AIR KULIM"
+  "districtName": "BATHIN SOLAPAN",
+  "name": "AIR KULIM",
+  "postalCode": "28784"
  },
  {
   "id": 1408012008,
   "districtId": 1408012,
-  "name": "BONCAH MAHANG"
+  "districtName": "BATHIN SOLAPAN",
+  "name": "BONCAH MAHANG",
+  "postalCode": "28784"
  },
  {
   "id": 1408012009,
   "districtId": 1408012,
-  "name": "SEBANGAR"
+  "districtName": "BATHIN SOLAPAN",
+  "name": "SEBANGAR",
+  "postalCode": "28784"
  },
  {
   "id": 1408012010,
   "districtId": 1408012,
-  "name": "PAMESI"
+  "districtName": "BATHIN SOLAPAN",
+  "name": "PAMESI",
+  "postalCode": "28784"
  },
  {
   "id": 1408012011,
   "districtId": 1408012,
-  "name": "BUMBUNG"
+  "districtName": "BATHIN SOLAPAN",
+  "name": "BUMBUNG",
+  "postalCode": "28784"
  },
  {
   "id": 1408012012,
   "districtId": 1408012,
-  "name": "KESUMBO AMPAI"
+  "districtName": "BATHIN SOLAPAN",
+  "name": "KESUMBO AMPAI",
+  "postalCode": ""
  },
  {
   "id": 1408012013,
   "districtId": 1408012,
-  "name": "BATHIN SOBANGA"
+  "districtName": "BATHIN SOLAPAN",
+  "name": "BATHIN SOBANGA",
+  "postalCode": "28784"
  }
 ]

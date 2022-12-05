@@ -2,61 +2,85 @@
  {
   "id": 3302100001,
   "districtId": 3302100,
-  "name": "SROWOT"
+  "districtName": "KALIBAGOR",
+  "name": "SROWOT",
+  "postalCode": "53191"
  },
  {
   "id": 3302100002,
   "districtId": 3302100,
-  "name": "SURO"
+  "districtName": "KALIBAGOR",
+  "name": "SURO",
+  "postalCode": "53191"
  },
  {
   "id": 3302100003,
   "districtId": 3302100,
-  "name": "KALIORI"
+  "districtName": "KALIBAGOR",
+  "name": "KALIORI",
+  "postalCode": "53191"
  },
  {
   "id": 3302100004,
   "districtId": 3302100,
-  "name": "WLAHAR WETAN"
+  "districtName": "KALIBAGOR",
+  "name": "WLAHAR WETAN",
+  "postalCode": "53191"
  },
  {
   "id": 3302100005,
   "districtId": 3302100,
-  "name": "PEKAJA"
+  "districtName": "KALIBAGOR",
+  "name": "PEKAJA",
+  "postalCode": "53191"
  },
  {
   "id": 3302100006,
   "districtId": 3302100,
-  "name": "KARANGDADAP"
+  "districtName": "KALIBAGOR",
+  "name": "KARANGDADAP",
+  "postalCode": "53191"
  },
  {
   "id": 3302100007,
   "districtId": 3302100,
-  "name": "KALIBAGOR"
+  "districtName": "KALIBAGOR",
+  "name": "KALIBAGOR",
+  "postalCode": "53191"
  },
  {
   "id": 3302100008,
   "districtId": 3302100,
-  "name": "PAJERUKAN"
+  "districtName": "KALIBAGOR",
+  "name": "PAJERUKAN",
+  "postalCode": ""
  },
  {
   "id": 3302100009,
   "districtId": 3302100,
-  "name": "PETIR"
+  "districtName": "KALIBAGOR",
+  "name": "PETIR",
+  "postalCode": "16680"
  },
  {
   "id": 3302100010,
   "districtId": 3302100,
-  "name": "KALICUPAK KIDUL"
+  "districtName": "KALIBAGOR",
+  "name": "KALICUPAK KIDUL",
+  "postalCode": ""
  },
  {
   "id": 3302100011,
   "districtId": 3302100,
-  "name": "KALICUPAK LOR"
+  "districtName": "KALIBAGOR",
+  "name": "KALICUPAK LOR",
+  "postalCode": ""
  },
  {
   "id": 3302100012,
   "districtId": 3302100,
-  "name": "KALISOGRA WETAN"
+  "districtName": "KALIBAGOR",
+  "name": "KALISOGRA WETAN",
+  "postalCode": "53191"
  }
 ]

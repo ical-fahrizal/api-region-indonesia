@@ -2,26 +2,36 @@
  {
   "id": 1872021001,
   "districtId": 1872021,
-  "name": "TEJOSARI"
+  "districtName": "METRO TIMUR",
+  "name": "TEJOSARI",
+  "postalCode": "56194"
  },
  {
   "id": 1872021002,
   "districtId": 1872021,
-  "name": "TEJOAGUNG"
+  "districtName": "METRO TIMUR",
+  "name": "TEJOAGUNG",
+  "postalCode": ""
  },
  {
   "id": 1872021003,
   "districtId": 1872021,
-  "name": "IRINGMULYO"
+  "districtName": "METRO TIMUR",
+  "name": "IRINGMULYO",
+  "postalCode": "34112"
  },
  {
   "id": 1872021004,
   "districtId": 1872021,
-  "name": "YOSOREJO"
+  "districtName": "METRO TIMUR",
+  "name": "YOSOREJO",
+  "postalCode": "34112"
  },
  {
   "id": 1872021005,
   "districtId": 1872021,
-  "name": "YOSODADI"
+  "districtName": "METRO TIMUR",
+  "name": "YOSODADI",
+  "postalCode": "34111"
  }
 ]

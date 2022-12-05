@@ -2,36 +2,50 @@
  {
   "id": 8204081001,
   "districtId": 8204081,
-  "name": "DOWORA"
+  "districtName": "GANE BARAT SELATAN",
+  "name": "DOWORA",
+  "postalCode": "97782"
  },
  {
   "id": 8204081003,
   "districtId": 8204081,
-  "name": "YAMLY"
+  "districtName": "GANE BARAT SELATAN",
+  "name": "YAMLY",
+  "postalCode": "97782"
  },
  {
   "id": 8204081004,
   "districtId": 8204081,
-  "name": "GANE DALAM"
+  "districtName": "GANE BARAT SELATAN",
+  "name": "GANE DALAM",
+  "postalCode": "97782"
  },
  {
   "id": 8204081005,
   "districtId": 8204081,
-  "name": "JIBUBU"
+  "districtName": "GANE BARAT SELATAN",
+  "name": "JIBUBU",
+  "postalCode": "97782"
  },
  {
   "id": 8204081006,
   "districtId": 8204081,
-  "name": "AWIS"
+  "districtName": "GANE BARAT SELATAN",
+  "name": "AWIS",
+  "postalCode": "97782"
  },
  {
   "id": 8204081007,
   "districtId": 8204081,
-  "name": "PASI PALELE"
+  "districtName": "GANE BARAT SELATAN",
+  "name": "PASI PALELE",
+  "postalCode": "97782"
  },
  {
   "id": 8204081008,
   "districtId": 8204081,
-  "name": "TAWA"
+  "districtName": "GANE BARAT SELATAN",
+  "name": "TAWA",
+  "postalCode": "97791"
  }
 ]

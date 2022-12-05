@@ -2,56 +2,78 @@
  {
   "id": 3511040001,
   "districtId": 3511040,
-  "name": "SUKOKERTO"
+  "districtName": "PUJER",
+  "name": "SUKOKERTO",
+  "postalCode": "67281"
  },
  {
   "id": 3511040002,
   "districtId": 3511040,
-  "name": "SUKOWONO"
+  "districtName": "PUJER",
+  "name": "SUKOWONO",
+  "postalCode": "31665"
  },
  {
   "id": 3511040003,
   "districtId": 3511040,
-  "name": "MASKUNING WETAN"
+  "districtName": "PUJER",
+  "name": "MASKUNING WETAN",
+  "postalCode": "68271"
  },
  {
   "id": 3511040004,
   "districtId": 3511040,
-  "name": "MASKUNING KULON"
+  "districtName": "PUJER",
+  "name": "MASKUNING KULON",
+  "postalCode": "68271"
  },
  {
   "id": 3511040005,
   "districtId": 3511040,
-  "name": "ALASSUMUR"
+  "districtName": "PUJER",
+  "name": "ALASSUMUR",
+  "postalCode": "68271"
  },
  {
   "id": 3511040007,
   "districtId": 3511040,
-  "name": "MENGOK"
+  "districtName": "PUJER",
+  "name": "MENGOK",
+  "postalCode": "68271"
  },
  {
   "id": 3511040008,
   "districtId": 3511040,
-  "name": "KEJAYAN"
+  "districtName": "PUJER",
+  "name": "KEJAYAN",
+  "postalCode": "67172"
  },
  {
   "id": 3511040009,
   "districtId": 3511040,
-  "name": "MANGLI"
+  "districtName": "PUJER",
+  "name": "MANGLI",
+  "postalCode": "56153"
  },
  {
   "id": 3511040010,
   "districtId": 3511040,
-  "name": "RANDUCANGKRING"
+  "districtName": "PUJER",
+  "name": "RANDUCANGKRING",
+  "postalCode": "68271"
  },
  {
   "id": 3511040011,
   "districtId": 3511040,
-  "name": "PADASAN"
+  "districtName": "PUJER",
+  "name": "PADASAN",
+  "postalCode": "62356"
  },
  {
   "id": 3511040012,
   "districtId": 3511040,
-  "name": "SUKODONO"
+  "districtName": "PUJER",
+  "name": "SUKODONO",
+  "postalCode": "59552"
  }
 ]

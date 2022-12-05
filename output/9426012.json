@@ -2,61 +2,85 @@
  {
   "id": 9426012001,
   "districtId": 9426012,
-  "name": "KEMON JAYA SP V"
+  "districtName": "UREI FAISEI",
+  "name": "KEMON JAYA SP V",
+  "postalCode": ""
  },
  {
   "id": 9426012002,
   "districtId": 9426012,
-  "name": "MAMBUI"
+  "districtName": "UREI FAISEI",
+  "name": "MAMBUI",
+  "postalCode": "98261"
  },
  {
   "id": 9426012003,
   "districtId": 9426012,
-  "name": "UREI FAISEI TIGA"
+  "districtName": "UREI FAISEI",
+  "name": "UREI FAISEI TIGA",
+  "postalCode": ""
  },
  {
   "id": 9426012004,
   "districtId": 9426012,
-  "name": "UREI FAISEI DUA"
+  "districtName": "UREI FAISEI",
+  "name": "UREI FAISEI DUA",
+  "postalCode": ""
  },
  {
   "id": 9426012005,
   "districtId": 9426012,
-  "name": "NUBUAI"
+  "districtName": "UREI FAISEI",
+  "name": "NUBUAI",
+  "postalCode": "98261"
  },
  {
   "id": 9426012006,
   "districtId": 9426012,
-  "name": "APAINABO"
+  "districtName": "UREI FAISEI",
+  "name": "APAINABO",
+  "postalCode": "98261"
  },
  {
   "id": 9426012007,
   "districtId": 9426012,
-  "name": "UREI FAISEI SATU/SANGGEI"
+  "districtName": "UREI FAISEI",
+  "name": "UREI FAISEI SATU/SANGGEI",
+  "postalCode": ""
  },
  {
   "id": 9426012008,
   "districtId": 9426012,
-  "name": "USAIWA"
+  "districtName": "UREI FAISEI",
+  "name": "USAIWA",
+  "postalCode": "98261"
  },
  {
   "id": 9426012009,
   "districtId": 9426012,
-  "name": "RONGGAIWA"
+  "districtName": "UREI FAISEI",
+  "name": "RONGGAIWA",
+  "postalCode": "98261"
  },
  {
   "id": 9426012010,
   "districtId": 9426012,
-  "name": "PARADOI"
+  "districtName": "UREI FAISEI",
+  "name": "PARADOI",
+  "postalCode": "98261"
  },
  {
   "id": 9426012011,
   "districtId": 9426012,
-  "name": "GHOYUI"
+  "districtName": "UREI FAISEI",
+  "name": "GHOYUI",
+  "postalCode": "98261"
  },
  {
   "id": 9426012012,
   "districtId": 9426012,
-  "name": "RORISI"
+  "districtName": "UREI FAISEI",
+  "name": "RORISI",
+  "postalCode": "98261"
  }
 ]

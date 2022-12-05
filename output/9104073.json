@@ -2,31 +2,43 @@
  {
   "id": 9104073001,
   "districtId": 9104073,
-  "name": "WERIAGAR"
+  "districtName": "WERIAGAR",
+  "name": "WERIAGAR",
+  "postalCode": "98365"
  },
  {
   "id": 9104073002,
   "districtId": 9104073,
-  "name": "MOGOTIRA"
+  "districtName": "WERIAGAR",
+  "name": "MOGOTIRA",
+  "postalCode": ""
  },
  {
   "id": 9104073003,
   "districtId": 9104073,
-  "name": "WERIAGAR BARU"
+  "districtName": "WERIAGAR",
+  "name": "WERIAGAR BARU",
+  "postalCode": "98365"
  },
  {
   "id": 9104073004,
   "districtId": 9104073,
-  "name": "WERIAGAR UTARA"
+  "districtName": "WERIAGAR",
+  "name": "WERIAGAR UTARA",
+  "postalCode": "98365"
  },
  {
   "id": 9104073005,
   "districtId": 9104073,
-  "name": "TUANAKIN"
+  "districtName": "WERIAGAR",
+  "name": "TUANAKIN",
+  "postalCode": ""
  },
  {
   "id": 9104073006,
   "districtId": 9104073,
-  "name": "WERIAGAR SELATAN"
+  "districtName": "WERIAGAR",
+  "name": "WERIAGAR SELATAN",
+  "postalCode": ""
  }
 ]

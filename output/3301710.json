@@ -2,26 +2,36 @@
  {
   "id": 3301710001,
   "districtId": 3301710,
-  "name": "TAMBAKREJA"
+  "districtName": "CILACAP SELATAN",
+  "name": "TAMBAKREJA",
+  "postalCode": "46385"
  },
  {
   "id": 3301710002,
   "districtId": 3301710,
-  "name": "TEGALREJO"
+  "districtName": "CILACAP SELATAN",
+  "name": "TEGALREJO",
+  "postalCode": "50733"
  },
  {
   "id": 3301710003,
   "districtId": 3301710,
-  "name": "SIDAKAYA"
+  "districtName": "CILACAP SELATAN",
+  "name": "SIDAKAYA",
+  "postalCode": "53212"
  },
  {
   "id": 3301710004,
   "districtId": 3301710,
-  "name": "CILACAP"
+  "districtName": "CILACAP SELATAN",
+  "name": "CILACAP",
+  "postalCode": "53211"
  },
  {
   "id": 3301710005,
   "districtId": 3301710,
-  "name": "TEGALKAMULYAN"
+  "districtName": "CILACAP SELATAN",
+  "name": "TEGALKAMULYAN",
+  "postalCode": "53215"
  }
 ]

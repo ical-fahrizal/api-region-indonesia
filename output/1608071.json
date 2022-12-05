@@ -2,46 +2,64 @@
  {
   "id": 1608071001,
   "districtId": 1608071,
-  "name": "PENANGGUNGAN"
+  "districtName": "RUNJUNG AGUNG",
+  "name": "PENANGGUNGAN",
+  "postalCode": "32278"
  },
  {
   "id": 1608071002,
   "districtId": 1608071,
-  "name": "TANJUNG KURUNG"
+  "districtName": "RUNJUNG AGUNG",
+  "name": "TANJUNG KURUNG",
+  "postalCode": "31315"
  },
  {
   "id": 1608071003,
   "districtId": 1608071,
-  "name": "BUMI GENAP"
+  "districtName": "RUNJUNG AGUNG",
+  "name": "BUMI GENAP",
+  "postalCode": "32278"
  },
  {
   "id": 1608071004,
   "districtId": 1608071,
-  "name": "GEDUNG NYAWA"
+  "districtName": "RUNJUNG AGUNG",
+  "name": "GEDUNG NYAWA",
+  "postalCode": "32278"
  },
  {
   "id": 1608071005,
   "districtId": 1608071,
-  "name": "GEDUNG WANI"
+  "districtName": "RUNJUNG AGUNG",
+  "name": "GEDUNG WANI",
+  "postalCode": "32278"
  },
  {
   "id": 1608071006,
   "districtId": 1608071,
-  "name": "SURA"
+  "districtName": "RUNJUNG AGUNG",
+  "name": "SURA",
+  "postalCode": "32278"
  },
  {
   "id": 1608071007,
   "districtId": 1608071,
-  "name": "MERPANG"
+  "districtName": "RUNJUNG AGUNG",
+  "name": "MERPANG",
+  "postalCode": "32278"
  },
  {
   "id": 1608071008,
   "districtId": 1608071,
-  "name": "KARANG ENDAH"
+  "districtName": "RUNJUNG AGUNG",
+  "name": "KARANG ENDAH",
+  "postalCode": "32121"
  },
  {
   "id": 1608071009,
   "districtId": 1608071,
-  "name": "AIR BARU"
+  "districtName": "RUNJUNG AGUNG",
+  "name": "AIR BARU",
+  "postalCode": "32276"
  }
 ]

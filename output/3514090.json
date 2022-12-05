@@ -2,76 +2,106 @@
  {
   "id": 3514090001,
   "districtId": 3514090,
-  "name": "SEKAR MOJO"
+  "districtName": "PURWOSARI",
+  "name": "SEKAR MOJO",
+  "postalCode": "67162"
  },
  {
   "id": 3514090002,
   "districtId": 3514090,
-  "name": "TEJOWANGI"
+  "districtName": "PURWOSARI",
+  "name": "TEJOWANGI",
+  "postalCode": "67162"
  },
  {
   "id": 3514090003,
   "districtId": 3514090,
-  "name": "KERTOSARI"
+  "districtName": "PURWOSARI",
+  "name": "KERTOSARI",
+  "postalCode": "31668"
  },
  {
   "id": 3514090004,
   "districtId": 3514090,
-  "name": "MARTOPURO"
+  "districtName": "PURWOSARI",
+  "name": "MARTOPURO",
+  "postalCode": "67162"
  },
  {
   "id": 3514090005,
   "districtId": 3514090,
-  "name": "PURWOSARI"
+  "districtName": "PURWOSARI",
+  "name": "PURWOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 3514090006,
   "districtId": 3514090,
-  "name": "SUMBER REJO"
+  "districtName": "PURWOSARI",
+  "name": "SUMBER REJO",
+  "postalCode": "21255"
  },
  {
   "id": 3514090007,
   "districtId": 3514090,
-  "name": "PAGER"
+  "districtName": "PURWOSARI",
+  "name": "PAGER",
+  "postalCode": "50229"
  },
  {
   "id": 3514090008,
   "districtId": 3514090,
-  "name": "CENDONO"
+  "districtName": "PURWOSARI",
+  "name": "CENDONO",
+  "postalCode": "59353"
  },
  {
   "id": 3514090009,
   "districtId": 3514090,
-  "name": "KARANG REJO"
+  "districtName": "PURWOSARI",
+  "name": "KARANG REJO",
+  "postalCode": "24581"
  },
  {
   "id": 3514090010,
   "districtId": 3514090,
-  "name": "SUMBER SUKO"
+  "districtName": "PURWOSARI",
+  "name": "SUMBER SUKO",
+  "postalCode": "32382"
  },
  {
   "id": 3514090011,
   "districtId": 3514090,
-  "name": "SENGON AGUNG"
+  "districtName": "PURWOSARI",
+  "name": "SENGON AGUNG",
+  "postalCode": "67162"
  },
  {
   "id": 3514090012,
   "districtId": 3514090,
-  "name": "BAKALAN"
+  "districtName": "PURWOSARI",
+  "name": "BAKALAN",
+  "postalCode": "59158"
  },
  {
   "id": 3514090013,
   "districtId": 3514090,
-  "name": "SUKODERMO"
+  "districtName": "PURWOSARI",
+  "name": "SUKODERMO",
+  "postalCode": "67162"
  },
  {
   "id": 3514090014,
   "districtId": 3514090,
-  "name": "PUCANGSARI"
+  "districtName": "PURWOSARI",
+  "name": "PUCANGSARI",
+  "postalCode": "67162"
  },
  {
   "id": 3514090015,
   "districtId": 3514090,
-  "name": "KAYOMAN"
+  "districtName": "PURWOSARI",
+  "name": "KAYOMAN",
+  "postalCode": "67162"
  }
 ]

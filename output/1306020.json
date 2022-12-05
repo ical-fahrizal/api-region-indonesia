@@ -2,46 +2,64 @@
  {
   "id": 1306020001,
   "districtId": 1306020,
-  "name": "LUBUK ALUNG"
+  "districtName": "LUBUK ALUNG",
+  "name": "LUBUK ALUNG",
+  "postalCode": "25581"
  },
  {
   "id": 1306020002,
   "districtId": 1306020,
-  "name": "AIE TAJUN LUBUK ALUNG"
+  "districtName": "LUBUK ALUNG",
+  "name": "AIE TAJUN LUBUK ALUNG",
+  "postalCode": "25581"
  },
  {
   "id": 1306020003,
   "districtId": 1306020,
-  "name": "SIKABU LUBUK ALUNG"
+  "districtName": "LUBUK ALUNG",
+  "name": "SIKABU LUBUK ALUNG",
+  "postalCode": "25581"
  },
  {
   "id": 1306020004,
   "districtId": 1306020,
-  "name": "PASIE LAWEH LUBUK ALUNG"
+  "districtName": "LUBUK ALUNG",
+  "name": "PASIE LAWEH LUBUK ALUNG",
+  "postalCode": "25581"
  },
  {
   "id": 1306020005,
   "districtId": 1306020,
-  "name": "PUNGGUNG KASIAK LUBUK ALUNG"
+  "districtName": "LUBUK ALUNG",
+  "name": "PUNGGUNG KASIAK LUBUK ALUNG",
+  "postalCode": ""
  },
  {
   "id": 1306020006,
   "districtId": 1306020,
-  "name": "BALAH HILIA LUBUK ALUNG"
+  "districtName": "LUBUK ALUNG",
+  "name": "BALAH HILIA LUBUK ALUNG",
+  "postalCode": ""
  },
  {
   "id": 1306020007,
   "districtId": 1306020,
-  "name": "SUNGAI ABANG LUBUK ALUNG"
+  "districtName": "LUBUK ALUNG",
+  "name": "SUNGAI ABANG LUBUK ALUNG",
+  "postalCode": ""
  },
  {
   "id": 1306020008,
   "districtId": 1306020,
-  "name": "SINGGULING LUBUK ALUNG"
+  "districtName": "LUBUK ALUNG",
+  "name": "SINGGULING LUBUK ALUNG",
+  "postalCode": ""
  },
  {
   "id": 1306020009,
   "districtId": 1306020,
-  "name": "SALIBUTAN LUBUK ALUNG"
+  "districtName": "LUBUK ALUNG",
+  "name": "SALIBUTAN LUBUK ALUNG",
+  "postalCode": ""
  }
 ]

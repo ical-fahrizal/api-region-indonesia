@@ -2,91 +2,127 @@
  {
   "id": 9414040001,
   "districtId": 9414040,
-  "name": "PAGAI"
+  "districtName": "HAJU",
+  "name": "PAGAI",
+  "postalCode": "99364"
  },
  {
   "id": 9414040003,
   "districtId": 9414040,
-  "name": "ARARE"
+  "districtName": "HAJU",
+  "name": "ARARE",
+  "postalCode": "99881"
  },
  {
   "id": 9414040004,
   "districtId": 9414040,
-  "name": "KATAGE"
+  "districtName": "HAJU",
+  "name": "KATAGE",
+  "postalCode": "99881"
  },
  {
   "id": 9414040005,
   "districtId": 9414040,
-  "name": "YAGATSU"
+  "districtName": "HAJU",
+  "name": "YAGATSU",
+  "postalCode": "99881"
  },
  {
   "id": 9414040006,
   "districtId": 9414040,
-  "name": "SOGOPHE"
+  "districtName": "HAJU",
+  "name": "SOGOPHE",
+  "postalCode": "99881"
  },
  {
   "id": 9414040007,
   "districtId": 9414040,
-  "name": "WIYAGE"
+  "districtName": "HAJU",
+  "name": "WIYAGE",
+  "postalCode": "99881"
  },
  {
   "id": 9414040008,
   "districtId": 9414040,
-  "name": "TSEMTAIPIM"
+  "districtName": "HAJU",
+  "name": "TSEMTAIPIM",
+  "postalCode": ""
  },
  {
   "id": 9414040009,
   "districtId": 9414040,
-  "name": "AMAGATSU"
+  "districtName": "HAJU",
+  "name": "AMAGATSU",
+  "postalCode": "99881"
  },
  {
   "id": 9414040010,
   "districtId": 9414040,
-  "name": "ATSIPIM"
+  "districtName": "HAJU",
+  "name": "ATSIPIM",
+  "postalCode": "99881"
  },
  {
   "id": 9414040011,
   "districtId": 9414040,
-  "name": "OKOR"
+  "districtName": "HAJU",
+  "name": "OKOR",
+  "postalCode": ""
  },
  {
   "id": 9414040012,
   "districtId": 9414040,
-  "name": "WAROGOM"
+  "districtName": "HAJU",
+  "name": "WAROGOM",
+  "postalCode": "99881"
  },
  {
   "id": 9414040013,
   "districtId": 9414040,
-  "name": "GAIRIPIM"
+  "districtName": "HAJU",
+  "name": "GAIRIPIM",
+  "postalCode": "99881"
  },
  {
   "id": 9414040014,
   "districtId": 9414040,
-  "name": "KAIBUSENE"
+  "districtName": "HAJU",
+  "name": "KAIBUSENE",
+  "postalCode": "99881"
  },
  {
   "id": 9414040015,
   "districtId": 9414040,
-  "name": "KASIMA"
+  "districtName": "HAJU",
+  "name": "KASIMA",
+  "postalCode": "99881"
  },
  {
   "id": 9414040016,
   "districtId": 9414040,
-  "name": "KAIBU"
+  "districtName": "HAJU",
+  "name": "KAIBU",
+  "postalCode": "99881"
  },
  {
   "id": 9414040017,
   "districtId": 9414040,
-  "name": "AMENDA"
+  "districtName": "HAJU",
+  "name": "AMENDA",
+  "postalCode": "99881"
  },
  {
   "id": 9414040018,
   "districtId": 9414040,
-  "name": "A M U R O"
+  "districtName": "HAJU",
+  "name": "A M U R O",
+  "postalCode": ""
  },
  {
   "id": 9414040019,
   "districtId": 9414040,
-  "name": "MANI"
+  "districtName": "HAJU",
+  "name": "MANI",
+  "postalCode": "99881"
  }
 ]

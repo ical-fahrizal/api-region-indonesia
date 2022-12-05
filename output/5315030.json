@@ -2,76 +2,106 @@
  {
   "id": 5315030011,
   "districtId": 5315030,
-  "name": "TANGGE"
+  "districtName": "LEMBOR",
+  "name": "TANGGE",
+  "postalCode": "86753"
  },
  {
   "id": 5315030012,
   "districtId": 5315030,
-  "name": "SIRU"
+  "districtName": "LEMBOR",
+  "name": "SIRU",
+  "postalCode": "86753"
  },
  {
   "id": 5315030013,
   "districtId": 5315030,
-  "name": "WAE WAKO"
+  "districtName": "LEMBOR",
+  "name": "WAE WAKO",
+  "postalCode": "86753"
  },
  {
   "id": 5315030014,
   "districtId": 5315030,
-  "name": "POCO RUTANG"
+  "districtName": "LEMBOR",
+  "name": "POCO RUTANG",
+  "postalCode": "86753"
  },
  {
   "id": 5315030015,
   "districtId": 5315030,
-  "name": "DALENG"
+  "districtName": "LEMBOR",
+  "name": "DALENG",
+  "postalCode": "86753"
  },
  {
   "id": 5315030016,
   "districtId": 5315030,
-  "name": "PONG MAJOK"
+  "districtName": "LEMBOR",
+  "name": "PONG MAJOK",
+  "postalCode": "86753"
  },
  {
   "id": 5315030017,
   "districtId": 5315030,
-  "name": "NGANCAR"
+  "districtName": "LEMBOR",
+  "name": "NGANCAR",
+  "postalCode": "57675"
  },
  {
   "id": 5315030018,
   "districtId": 5315030,
-  "name": "PONTO ARA"
+  "districtName": "LEMBOR",
+  "name": "PONTO ARA",
+  "postalCode": "86753"
  },
  {
   "id": 5315030019,
   "districtId": 5315030,
-  "name": "WAE BANGKA"
+  "districtName": "LEMBOR",
+  "name": "WAE BANGKA",
+  "postalCode": "86753"
  },
  {
   "id": 5315030020,
   "districtId": 5315030,
-  "name": "WAE KANTA"
+  "districtName": "LEMBOR",
+  "name": "WAE KANTA",
+  "postalCode": "86753"
  },
  {
   "id": 5315030021,
   "districtId": 5315030,
-  "name": "PONDO"
+  "districtName": "LEMBOR",
+  "name": "PONDO",
+  "postalCode": "86753"
  },
  {
   "id": 5315030022,
   "districtId": 5315030,
-  "name": "POCO DEDENG"
+  "districtName": "LEMBOR",
+  "name": "POCO DEDENG",
+  "postalCode": ""
  },
  {
   "id": 5315030023,
   "districtId": 5315030,
-  "name": "GOLO NDEWENG"
+  "districtName": "LEMBOR",
+  "name": "GOLO NDEWENG",
+  "postalCode": ""
  },
  {
   "id": 5315030024,
   "districtId": 5315030,
-  "name": "LIANG SOLA"
+  "districtName": "LEMBOR",
+  "name": "LIANG SOLA",
+  "postalCode": ""
  },
  {
   "id": 5315030025,
   "districtId": 5315030,
-  "name": "WAE MOWOL"
+  "districtName": "LEMBOR",
+  "name": "WAE MOWOL",
+  "postalCode": ""
  }
 ]

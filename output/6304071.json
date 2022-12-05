@@ -2,36 +2,50 @@
  {
   "id": 6304071001,
   "districtId": 6304071,
-  "name": "CAHAYA BARU"
+  "districtName": "JEJANGKIT",
+  "name": "CAHAYA BARU",
+  "postalCode": "29254"
  },
  {
   "id": 6304071002,
   "districtId": 6304071,
-  "name": "SAMPURNA"
+  "districtName": "JEJANGKIT",
+  "name": "SAMPURNA",
+  "postalCode": "70581"
  },
  {
   "id": 6304071003,
   "districtId": 6304071,
-  "name": "BAHANDANG"
+  "districtName": "JEJANGKIT",
+  "name": "BAHANDANG",
+  "postalCode": "70581"
  },
  {
   "id": 6304071004,
   "districtId": 6304071,
-  "name": "JEJANGKIT MUARA"
+  "districtName": "JEJANGKIT",
+  "name": "JEJANGKIT MUARA",
+  "postalCode": "70581"
  },
  {
   "id": 6304071005,
   "districtId": 6304071,
-  "name": "JEJANGKIT PASAR"
+  "districtName": "JEJANGKIT",
+  "name": "JEJANGKIT PASAR",
+  "postalCode": "70581"
  },
  {
   "id": 6304071006,
   "districtId": 6304071,
-  "name": "JEJANGKIT BARAT"
+  "districtName": "JEJANGKIT",
+  "name": "JEJANGKIT BARAT",
+  "postalCode": "70581"
  },
  {
   "id": 6304071007,
   "districtId": 6304071,
-  "name": "JEJANGKIT TIMUR"
+  "districtName": "JEJANGKIT",
+  "name": "JEJANGKIT TIMUR",
+  "postalCode": "70581"
  }
 ]

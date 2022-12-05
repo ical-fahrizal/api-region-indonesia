@@ -2,36 +2,50 @@
  {
   "id": 9412034001,
   "districtId": 9412034,
-  "name": "LIMAU ASRI"
+  "districtName": "IWAKA",
+  "name": "LIMAU ASRI",
+  "postalCode": "99910"
  },
  {
   "id": 9412034002,
   "districtId": 9412034,
-  "name": "LIMAU ASRI BARAT"
+  "districtName": "IWAKA",
+  "name": "LIMAU ASRI BARAT",
+  "postalCode": ""
  },
  {
   "id": 9412034003,
   "districtId": 9412034,
-  "name": "WANGIRJA"
+  "districtName": "IWAKA",
+  "name": "WANGIRJA",
+  "postalCode": "99910"
  },
  {
   "id": 9412034004,
   "districtId": 9412034,
-  "name": "IWAKA"
+  "districtName": "IWAKA",
+  "name": "IWAKA",
+  "postalCode": "99968"
  },
  {
   "id": 9412034005,
   "districtId": 9412034,
-  "name": "NAENA MUKTIPURA"
+  "districtName": "IWAKA",
+  "name": "NAENA MUKTIPURA",
+  "postalCode": "99968"
  },
  {
   "id": 9412034006,
   "districtId": 9412034,
-  "name": "MULIA KENCANA"
+  "districtName": "IWAKA",
+  "name": "MULIA KENCANA",
+  "postalCode": "99968"
  },
  {
   "id": 9412034007,
   "districtId": 9412034,
-  "name": "PIGAPU"
+  "districtName": "IWAKA",
+  "name": "PIGAPU",
+  "postalCode": "99963"
  }
 ]

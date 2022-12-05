@@ -2,21 +2,29 @@
  {
   "id": 8208080001,
   "districtId": 8208080,
-  "name": "KASANGO"
+  "districtName": "TALIABU BARAT LAUT",
+  "name": "KASANGO",
+  "postalCode": ""
  },
  {
   "id": 8208080002,
   "districtId": 8208080,
-  "name": "BERINGIN JAYA"
+  "districtName": "TALIABU BARAT LAUT",
+  "name": "BERINGIN JAYA",
+  "postalCode": "21464"
  },
  {
   "id": 8208080003,
   "districtId": 8208080,
-  "name": "SALATI"
+  "districtName": "TALIABU BARAT LAUT",
+  "name": "SALATI",
+  "postalCode": "97794"
  },
  {
   "id": 8208080004,
   "districtId": 8208080,
-  "name": "ONE MAY"
+  "districtName": "TALIABU BARAT LAUT",
+  "name": "ONE MAY",
+  "postalCode": ""
  }
 ]

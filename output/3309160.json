@@ -2,71 +2,99 @@
  {
   "id": 3309160002,
   "districtId": 3309160,
-  "name": "GONDANGRAWE"
+  "districtName": "ANDONG",
+  "name": "GONDANGRAWE",
+  "postalCode": ""
  },
  {
   "id": 3309160003,
   "districtId": 3309160,
-  "name": "PAKEL"
+  "districtName": "ANDONG",
+  "name": "PAKEL",
+  "postalCode": "57384"
  },
  {
   "id": 3309160004,
   "districtId": 3309160,
-  "name": "SENGGRONG"
+  "districtName": "ANDONG",
+  "name": "SENGGRONG",
+  "postalCode": "57384"
  },
  {
   "id": 3309160005,
   "districtId": 3309160,
-  "name": "MOJO"
+  "districtName": "ANDONG",
+  "name": "MOJO",
+  "postalCode": "57384"
  },
  {
   "id": 3309160006,
   "districtId": 3309160,
-  "name": "BEJI"
+  "districtName": "ANDONG",
+  "name": "BEJI",
+  "postalCode": "16421"
  },
  {
   "id": 3309160007,
   "districtId": 3309160,
-  "name": "ANDONG"
+  "districtName": "ANDONG",
+  "name": "ANDONG",
+  "postalCode": "57384"
  },
  {
   "id": 3309160008,
   "districtId": 3309160,
-  "name": "KACANGAN"
+  "districtName": "ANDONG",
+  "name": "KACANGAN",
+  "postalCode": "57384"
  },
  {
   "id": 3309160009,
   "districtId": 3309160,
-  "name": "KEDUNGDOWO"
+  "districtName": "ANDONG",
+  "name": "KEDUNGDOWO",
+  "postalCode": "57384"
  },
  {
   "id": 3309160010,
   "districtId": 3309160,
-  "name": "PRANGGONG"
+  "districtName": "ANDONG",
+  "name": "PRANGGONG",
+  "postalCode": "45365"
  },
  {
   "id": 3309160011,
   "districtId": 3309160,
-  "name": "PAKANG"
+  "districtName": "ANDONG",
+  "name": "PAKANG",
+  "postalCode": "57384"
  },
  {
   "id": 3309160013,
   "districtId": 3309160,
-  "name": "KADIPATEN"
+  "districtName": "ANDONG",
+  "name": "KADIPATEN",
+  "postalCode": "45452"
  },
  {
   "id": 3309160014,
   "districtId": 3309160,
-  "name": "SEMAWUNG"
+  "districtName": "ANDONG",
+  "name": "SEMAWUNG",
+  "postalCode": "57384"
  },
  {
   "id": 3309160015,
   "districtId": 3309160,
-  "name": "KUNTI"
+  "districtName": "ANDONG",
+  "name": "KUNTI",
+  "postalCode": "57384"
  },
  {
   "id": 3309160016,
   "districtId": 3309160,
-  "name": "PELEMREJO"
+  "districtName": "ANDONG",
+  "name": "PELEMREJO",
+  "postalCode": "57384"
  }
 ]

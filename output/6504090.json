@@ -2,21 +2,29 @@
  {
   "id": 6504090001,
   "districtId": 6504090,
-  "name": "TABUR LESTARI"
+  "districtName": "SEI MENGGARIS",
+  "name": "TABUR LESTARI",
+  "postalCode": "77482"
  },
  {
   "id": 6504090002,
   "districtId": 6504090,
-  "name": "SAMAENRE SEMAJA"
+  "districtName": "SEI MENGGARIS",
+  "name": "SAMAENRE SEMAJA",
+  "postalCode": "77482"
  },
  {
   "id": 6504090003,
   "districtId": 6504090,
-  "name": "SRI NANTI"
+  "districtName": "SEI MENGGARIS",
+  "name": "SRI NANTI",
+  "postalCode": ""
  },
  {
   "id": 6504090004,
   "districtId": 6504090,
-  "name": "SEKADUYAN TAKA"
+  "districtName": "SEI MENGGARIS",
+  "name": "SEKADUYAN TAKA",
+  "postalCode": "77482"
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 9416045001,
   "districtId": 9416045,
-  "name": "YOGOSEM"
+  "districtName": "YOGOSEM",
+  "name": "YOGOSEM",
+  "postalCode": "99571"
  },
  {
   "id": 9416045002,
   "districtId": 9416045,
-  "name": "KIROMA"
+  "districtName": "YOGOSEM",
+  "name": "KIROMA",
+  "postalCode": "99571"
  },
  {
   "id": 9416045003,
   "districtId": 9416045,
-  "name": "SOGASIO"
+  "districtName": "YOGOSEM",
+  "name": "SOGASIO",
+  "postalCode": "99571"
  },
  {
   "id": 9416045004,
   "districtId": 9416045,
-  "name": "SAIKAMA"
+  "districtName": "YOGOSEM",
+  "name": "SAIKAMA",
+  "postalCode": "99571"
  },
  {
   "id": 9416045005,
   "districtId": 9416045,
-  "name": "HOKOLEKMA"
+  "districtName": "YOGOSEM",
+  "name": "HOKOLEKMA",
+  "postalCode": "99571"
  },
  {
   "id": 9416045006,
   "districtId": 9416045,
-  "name": "ESAHAPUK"
+  "districtName": "YOGOSEM",
+  "name": "ESAHAPUK",
+  "postalCode": "99571"
  },
  {
   "id": 9416045007,
   "districtId": 9416045,
-  "name": "MESAHAPUT"
+  "districtName": "YOGOSEM",
+  "name": "MESAHAPUT",
+  "postalCode": "99571"
  }
 ]

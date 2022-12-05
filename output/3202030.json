@@ -2,61 +2,85 @@
  {
   "id": 3202030001,
   "districtId": 3202030,
-  "name": "PASIRIPIS"
+  "districtName": "SURADE",
+  "name": "PASIRIPIS",
+  "postalCode": "45457"
  },
  {
   "id": 3202030002,
   "districtId": 3202030,
-  "name": "BUNIWANGI"
+  "districtName": "SURADE",
+  "name": "BUNIWANGI",
+  "postalCode": "43197"
  },
  {
   "id": 3202030003,
   "districtId": 3202030,
-  "name": "CIPEUNDEUY"
+  "districtName": "SURADE",
+  "name": "CIPEUNDEUY",
+  "postalCode": "45464"
  },
  {
   "id": 3202030004,
   "districtId": 3202030,
-  "name": "GUNUNG SUNGGING"
+  "districtName": "SURADE",
+  "name": "GUNUNG SUNGGING",
+  "postalCode": "43179"
  },
  {
   "id": 3202030011,
   "districtId": 3202030,
-  "name": "CITANGLAR"
+  "districtName": "SURADE",
+  "name": "CITANGLAR",
+  "postalCode": "43179"
  },
  {
   "id": 3202030012,
   "districtId": 3202030,
-  "name": "JAGAMUKTI"
+  "districtName": "SURADE",
+  "name": "JAGAMUKTI",
+  "postalCode": "43179"
  },
  {
   "id": 3202030013,
   "districtId": 3202030,
-  "name": "SURADE"
+  "districtName": "SURADE",
+  "name": "SURADE",
+  "postalCode": ""
  },
  {
   "id": 3202030014,
   "districtId": 3202030,
-  "name": "KADALEMAN"
+  "districtName": "SURADE",
+  "name": "KADALEMAN",
+  "postalCode": "43179"
  },
  {
   "id": 3202030015,
   "districtId": 3202030,
-  "name": "WANASARI"
+  "districtName": "SURADE",
+  "name": "WANASARI",
+  "postalCode": "43273"
  },
  {
   "id": 3202030016,
   "districtId": 3202030,
-  "name": "SIRNASARI"
+  "districtName": "SURADE",
+  "name": "SIRNASARI",
+  "postalCode": "45376"
  },
  {
   "id": 3202030017,
   "districtId": 3202030,
-  "name": "SUKATANI"
+  "districtName": "SURADE",
+  "name": "SUKATANI",
+  "postalCode": "41384"
  },
  {
   "id": 3202030018,
   "districtId": 3202030,
-  "name": "KADEMANGAN"
+  "districtName": "SURADE",
+  "name": "KADEMANGAN",
+  "postalCode": "36361"
  }
 ]

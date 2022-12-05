@@ -2,106 +2,148 @@
  {
   "id": 1811040001,
   "districtId": 1811040,
-  "name": "MUARA TENANG"
+  "districtName": "TANJUNG RAYA",
+  "name": "MUARA TENANG",
+  "postalCode": "31356"
  },
  {
   "id": 1811040002,
   "districtId": 1811040,
-  "name": "BRABASAN"
+  "districtName": "TANJUNG RAYA",
+  "name": "BRABASAN",
+  "postalCode": "34598"
  },
  {
   "id": 1811040003,
   "districtId": 1811040,
-  "name": "GEDUNG RAM"
+  "districtName": "TANJUNG RAYA",
+  "name": "GEDUNG RAM",
+  "postalCode": "34598"
  },
  {
   "id": 1811040004,
   "districtId": 1811040,
-  "name": "MEKAR SARI"
+  "districtName": "TANJUNG RAYA",
+  "name": "MEKAR SARI",
+  "postalCode": "21261"
  },
  {
   "id": 1811040005,
   "districtId": 1811040,
-  "name": "SINAR LAGA"
+  "districtName": "TANJUNG RAYA",
+  "name": "SINAR LAGA",
+  "postalCode": "34598"
  },
  {
   "id": 1811040006,
   "districtId": 1811040,
-  "name": "WIRA JAYA"
+  "districtName": "TANJUNG RAYA",
+  "name": "WIRA JAYA",
+  "postalCode": "34598"
  },
  {
   "id": 1811040007,
   "districtId": 1811040,
-  "name": "BANGUN JAYA"
+  "districtName": "TANJUNG RAYA",
+  "name": "BANGUN JAYA",
+  "postalCode": "28558"
  },
  {
   "id": 1811040008,
   "districtId": 1811040,
-  "name": "BUJUNG BURING"
+  "districtName": "TANJUNG RAYA",
+  "name": "BUJUNG BURING",
+  "postalCode": "34598"
  },
  {
   "id": 1811040009,
   "districtId": 1811040,
-  "name": "HARAPAN MUKTI"
+  "districtName": "TANJUNG RAYA",
+  "name": "HARAPAN MUKTI",
+  "postalCode": "34598"
  },
  {
   "id": 1811040010,
   "districtId": 1811040,
-  "name": "TRI KARYA MULYA"
+  "districtName": "TANJUNG RAYA",
+  "name": "TRI KARYA MULYA",
+  "postalCode": "34598"
  },
  {
   "id": 1811040011,
   "districtId": 1811040,
-  "name": "TANJUNG SARI"
+  "districtName": "TANJUNG RAYA",
+  "name": "TANJUNG SARI",
+  "postalCode": "24673"
  },
  {
   "id": 1811040012,
   "districtId": 1811040,
-  "name": "KAGUNGAN DALAM"
+  "districtName": "TANJUNG RAYA",
+  "name": "KAGUNGAN DALAM",
+  "postalCode": "34598"
  },
  {
   "id": 1811040013,
   "districtId": 1811040,
-  "name": "SRI TANJUNG"
+  "districtName": "TANJUNG RAYA",
+  "name": "SRI TANJUNG",
+  "postalCode": "28781"
  },
  {
   "id": 1811040014,
   "districtId": 1811040,
-  "name": "BERASAN MAKMUR"
+  "districtName": "TANJUNG RAYA",
+  "name": "BERASAN MAKMUR",
+  "postalCode": ""
  },
  {
   "id": 1811040015,
   "districtId": 1811040,
-  "name": "MEKAR JAYA"
+  "districtName": "TANJUNG RAYA",
+  "name": "MEKAR JAYA",
+  "postalCode": "20771"
  },
  {
   "id": 1811040016,
   "districtId": 1811040,
-  "name": "GEDUNG MULYA"
+  "districtName": "TANJUNG RAYA",
+  "name": "GEDUNG MULYA",
+  "postalCode": ""
  },
  {
   "id": 1811040017,
   "districtId": 1811040,
-  "name": "TANJUNG HARAPAN"
+  "districtName": "TANJUNG RAYA",
+  "name": "TANJUNG HARAPAN",
+  "postalCode": "23754"
  },
  {
   "id": 1811040018,
   "districtId": 1811040,
-  "name": "MUARA TENANG TIMUR"
+  "districtName": "TANJUNG RAYA",
+  "name": "MUARA TENANG TIMUR",
+  "postalCode": ""
  },
  {
   "id": 1811040019,
   "districtId": 1811040,
-  "name": "SRIWIJAYA"
+  "districtName": "TANJUNG RAYA",
+  "name": "SRIWIJAYA",
+  "postalCode": "24475"
  },
  {
   "id": 1811040020,
   "districtId": 1811040,
-  "name": "MUKTI JAYA"
+  "districtName": "TANJUNG RAYA",
+  "name": "MUKTI JAYA",
+  "postalCode": "28953"
  },
  {
   "id": 1811040021,
   "districtId": 1811040,
-  "name": "BUJUNG BURING BARU"
+  "districtName": "TANJUNG RAYA",
+  "name": "BUJUNG BURING BARU",
+  "postalCode": ""
  }
 ]

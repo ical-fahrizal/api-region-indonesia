@@ -2,26 +2,36 @@
  {
   "id": 6172020001,
   "districtId": 6172020,
-  "name": "PAJINTAN"
+  "districtName": "SINGKAWANG TIMUR",
+  "name": "PAJINTAN",
+  "postalCode": "79251"
  },
  {
   "id": 6172020002,
   "districtId": 6172020,
-  "name": "SANGGAU KULOR"
+  "districtName": "SINGKAWANG TIMUR",
+  "name": "SANGGAU KULOR",
+  "postalCode": ""
  },
  {
   "id": 6172020003,
   "districtId": 6172020,
-  "name": "BAGAK SAHWA"
+  "districtName": "SINGKAWANG TIMUR",
+  "name": "BAGAK SAHWA",
+  "postalCode": "79251"
  },
  {
   "id": 6172020004,
   "districtId": 6172020,
-  "name": "NYARUNGKOP"
+  "districtName": "SINGKAWANG TIMUR",
+  "name": "NYARUNGKOP",
+  "postalCode": "79251"
  },
  {
   "id": 6172020005,
   "districtId": 6172020,
-  "name": "MAYASOPA"
+  "districtName": "SINGKAWANG TIMUR",
+  "name": "MAYASOPA",
+  "postalCode": "79251"
  }
 ]

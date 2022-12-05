@@ -2,81 +2,113 @@
  {
   "id": 7108090009,
   "districtId": 7108090,
-  "name": "BAHU"
+  "districtName": "SIAU TIMUR",
+  "name": "BAHU",
+  "postalCode": "95115"
  },
  {
   "id": 7108090010,
   "districtId": 7108090,
-  "name": "AKESIMBEKA"
+  "districtName": "SIAU TIMUR",
+  "name": "AKESIMBEKA",
+  "postalCode": "95861"
  },
  {
   "id": 7108090011,
   "districtId": 7108090,
-  "name": "BEBALI"
+  "districtName": "SIAU TIMUR",
+  "name": "BEBALI",
+  "postalCode": "95861"
  },
  {
   "id": 7108090012,
   "districtId": 7108090,
-  "name": "TARORANE"
+  "districtName": "SIAU TIMUR",
+  "name": "TARORANE",
+  "postalCode": "95861"
  },
  {
   "id": 7108090013,
   "districtId": 7108090,
-  "name": "TATEHADENG"
+  "districtName": "SIAU TIMUR",
+  "name": "TATEHADENG",
+  "postalCode": ""
  },
  {
   "id": 7108090014,
   "districtId": 7108090,
-  "name": "DAME"
+  "districtName": "SIAU TIMUR",
+  "name": "DAME",
+  "postalCode": "20991"
  },
  {
   "id": 7108090015,
   "districtId": 7108090,
-  "name": "KARALUNG"
+  "districtName": "SIAU TIMUR",
+  "name": "KARALUNG",
+  "postalCode": "95861"
  },
  {
   "id": 7108090016,
   "districtId": 7108090,
-  "name": "BUISE"
+  "districtName": "SIAU TIMUR",
+  "name": "BUISE",
+  "postalCode": "95861"
  },
  {
   "id": 7108090017,
   "districtId": 7108090,
-  "name": "KANANG"
+  "districtName": "SIAU TIMUR",
+  "name": "KANANG",
+  "postalCode": "95861"
  },
  {
   "id": 7108090018,
   "districtId": 7108090,
-  "name": "LIA"
+  "districtName": "SIAU TIMUR",
+  "name": "LIA",
+  "postalCode": "86561"
  },
  {
   "id": 7108090019,
   "districtId": 7108090,
-  "name": "DEAHE"
+  "districtName": "SIAU TIMUR",
+  "name": "DEAHE",
+  "postalCode": ""
  },
  {
   "id": 7108090020,
   "districtId": 7108090,
-  "name": "APELAWO"
+  "districtName": "SIAU TIMUR",
+  "name": "APELAWO",
+  "postalCode": "95861"
  },
  {
   "id": 7108090021,
   "districtId": 7108090,
-  "name": "BUKIDE"
+  "districtName": "SIAU TIMUR",
+  "name": "BUKIDE",
+  "postalCode": "95856"
  },
  {
   "id": 7108090022,
   "districtId": 7108090,
-  "name": "DAME I"
+  "districtName": "SIAU TIMUR",
+  "name": "DAME I",
+  "postalCode": "95861"
  },
  {
   "id": 7108090023,
   "districtId": 7108090,
-  "name": "KARALUNG I"
+  "districtName": "SIAU TIMUR",
+  "name": "KARALUNG I",
+  "postalCode": ""
  },
  {
   "id": 7108090024,
   "districtId": 7108090,
-  "name": "LIA I"
+  "districtName": "SIAU TIMUR",
+  "name": "LIA I",
+  "postalCode": ""
  }
 ]

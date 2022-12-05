@@ -2,46 +2,64 @@
  {
   "id": 7208032001,
   "districtId": 7208032,
-  "name": "TOMOLI"
+  "districtName": "TORIBULU",
+  "name": "TOMOLI",
+  "postalCode": "94474"
  },
  {
   "id": 7208032002,
   "districtId": 7208032,
-  "name": "SINGURA"
+  "districtName": "TORIBULU",
+  "name": "SINGURA",
+  "postalCode": "94474"
  },
  {
   "id": 7208032003,
   "districtId": 7208032,
-  "name": "TORIBULU"
+  "districtName": "TORIBULU",
+  "name": "TORIBULU",
+  "postalCode": "94474"
  },
  {
   "id": 7208032004,
   "districtId": 7208032,
-  "name": "SIENJO"
+  "districtName": "TORIBULU",
+  "name": "SIENJO",
+  "postalCode": "94474"
  },
  {
   "id": 7208032005,
   "districtId": 7208032,
-  "name": "PINOTU"
+  "districtName": "TORIBULU",
+  "name": "PINOTU",
+  "postalCode": "94474"
  },
  {
   "id": 7208032006,
   "districtId": 7208032,
-  "name": "TOMOLI SELATAN"
+  "districtName": "TORIBULU",
+  "name": "TOMOLI SELATAN",
+  "postalCode": ""
  },
  {
   "id": 7208032007,
   "districtId": 7208032,
-  "name": "SIBALAGO"
+  "districtName": "TORIBULU",
+  "name": "SIBALAGO",
+  "postalCode": ""
  },
  {
   "id": 7208032008,
   "districtId": 7208032,
-  "name": "TOMOLI UTARA"
+  "districtName": "TORIBULU",
+  "name": "TOMOLI UTARA",
+  "postalCode": "94474"
  },
  {
   "id": 7208032009,
   "districtId": 7208032,
-  "name": "TORIBULU SELATAN"
+  "districtName": "TORIBULU",
+  "name": "TORIBULU SELATAN",
+  "postalCode": "94474"
  }
 ]

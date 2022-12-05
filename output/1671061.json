@@ -2,26 +2,36 @@
  {
   "id": 1671061001,
   "districtId": 1671061,
-  "name": "SEI LAIS"
+  "districtName": "KALIDONI",
+  "name": "SEI LAIS",
+  "postalCode": "30119"
  },
  {
   "id": 1671061002,
   "districtId": 1671061,
-  "name": "SEI SELINCAH"
+  "districtName": "KALIDONI",
+  "name": "SEI SELINCAH",
+  "postalCode": "30119"
  },
  {
   "id": 1671061003,
   "districtId": 1671061,
-  "name": "SEI SELAYUR"
+  "districtName": "KALIDONI",
+  "name": "SEI SELAYUR",
+  "postalCode": "30119"
  },
  {
   "id": 1671061004,
   "districtId": 1671061,
-  "name": "KALIDONI"
+  "districtName": "KALIDONI",
+  "name": "KALIDONI",
+  "postalCode": "30119"
  },
  {
   "id": 1671061005,
   "districtId": 1671061,
-  "name": "BUKIT SANGKAL"
+  "districtName": "KALIDONI",
+  "name": "BUKIT SANGKAL",
+  "postalCode": "30114"
  }
 ]

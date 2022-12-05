@@ -2,71 +2,99 @@
  {
   "id": 5206030001,
   "districtId": 5206030,
-  "name": "KELI"
+  "districtName": "WOHA",
+  "name": "KELI",
+  "postalCode": "84171"
  },
  {
   "id": 5206030002,
   "districtId": 5206030,
-  "name": "TENGA"
+  "districtName": "WOHA",
+  "name": "TENGA",
+  "postalCode": "84171"
  },
  {
   "id": 5206030003,
   "districtId": 5206030,
-  "name": "NARU"
+  "districtName": "WOHA",
+  "name": "NARU",
+  "postalCode": "84182"
  },
  {
   "id": 5206030004,
   "districtId": 5206030,
-  "name": "NISA"
+  "districtName": "WOHA",
+  "name": "NISA",
+  "postalCode": "84171"
  },
  {
   "id": 5206030006,
   "districtId": 5206030,
-  "name": "RABAKODO"
+  "districtName": "WOHA",
+  "name": "RABAKODO",
+  "postalCode": "84171"
  },
  {
   "id": 5206030007,
   "districtId": 5206030,
-  "name": "SAMILI"
+  "districtName": "WOHA",
+  "name": "SAMILI",
+  "postalCode": "84171"
  },
  {
   "id": 5206030008,
   "districtId": 5206030,
-  "name": "KALAMPA"
+  "districtName": "WOHA",
+  "name": "KALAMPA",
+  "postalCode": "84171"
  },
  {
   "id": 5206030009,
   "districtId": 5206030,
-  "name": "RISA"
+  "districtName": "WOHA",
+  "name": "RISA",
+  "postalCode": "84171"
  },
  {
   "id": 5206030010,
   "districtId": 5206030,
-  "name": "PANDAI"
+  "districtName": "WOHA",
+  "name": "PANDAI",
+  "postalCode": "84171"
  },
  {
   "id": 5206030011,
   "districtId": 5206030,
-  "name": "DONGGOBOLO"
+  "districtName": "WOHA",
+  "name": "DONGGOBOLO",
+  "postalCode": "84171"
  },
  {
   "id": 5206030012,
   "districtId": 5206030,
-  "name": "DADIBOU"
+  "districtName": "WOHA",
+  "name": "DADIBOU",
+  "postalCode": "84171"
  },
  {
   "id": 5206030013,
   "districtId": 5206030,
-  "name": "TALABIU"
+  "districtName": "WOHA",
+  "name": "TALABIU",
+  "postalCode": "84171"
  },
  {
   "id": 5206030014,
   "districtId": 5206030,
-  "name": "WADU WANI"
+  "districtName": "WOHA",
+  "name": "WADU WANI",
+  "postalCode": ""
  },
  {
   "id": 5206030015,
   "districtId": 5206030,
-  "name": "PENAPALI"
+  "districtName": "WOHA",
+  "name": "PENAPALI",
+  "postalCode": "84171"
  }
 ]

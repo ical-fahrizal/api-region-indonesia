@@ -2,81 +2,113 @@
  {
   "id": 1211060001,
   "districtId": 1211060,
-  "name": "POLA TEBU"
+  "districtName": "KUTA BULUH",
+  "name": "POLA TEBU",
+  "postalCode": "22155"
  },
  {
   "id": 1211060002,
   "districtId": 1211060,
-  "name": "GUNUNG MERIAH"
+  "districtName": "KUTA BULUH",
+  "name": "GUNUNG MERIAH",
+  "postalCode": "20583"
  },
  {
   "id": 1211060003,
   "districtId": 1211060,
-  "name": "NEGERI JAHE"
+  "districtName": "KUTA BULUH",
+  "name": "NEGERI JAHE",
+  "postalCode": "22155"
  },
  {
   "id": 1211060004,
   "districtId": 1211060,
-  "name": "BUAH RAYA"
+  "districtName": "KUTA BULUH",
+  "name": "BUAH RAYA",
+  "postalCode": "22155"
  },
  {
   "id": 1211060005,
   "districtId": 1211060,
-  "name": "BINTANG MERIAH"
+  "districtName": "KUTA BULUH",
+  "name": "BINTANG MERIAH",
+  "postalCode": "20372"
  },
  {
   "id": 1211060006,
   "districtId": 1211060,
-  "name": "SIABANG ABANG"
+  "districtName": "KUTA BULUH",
+  "name": "SIABANG ABANG",
+  "postalCode": "22155"
  },
  {
   "id": 1211060007,
   "districtId": 1211060,
-  "name": "JINABUN"
+  "districtName": "KUTA BULUH",
+  "name": "JINABUN",
+  "postalCode": "22155"
  },
  {
   "id": 1211060008,
   "districtId": 1211060,
-  "name": "KUTA BULUH"
+  "districtName": "KUTA BULUH",
+  "name": "KUTA BULUH",
+  "postalCode": "22155"
  },
  {
   "id": 1211060009,
   "districtId": 1211060,
-  "name": "LAU BULUH"
+  "districtName": "KUTA BULUH",
+  "name": "LAU BULUH",
+  "postalCode": "22155"
  },
  {
   "id": 1211060010,
   "districtId": 1211060,
-  "name": "KUTA MALE"
+  "districtName": "KUTA BULUH",
+  "name": "KUTA MALE",
+  "postalCode": "22155"
  },
  {
   "id": 1211060011,
   "districtId": 1211060,
-  "name": "UJUNG DELENG"
+  "districtName": "KUTA BULUH",
+  "name": "UJUNG DELENG",
+  "postalCode": "22155"
  },
  {
   "id": 1211060012,
   "districtId": 1211060,
-  "name": "TANJUNG MERAHE"
+  "districtName": "KUTA BULUH",
+  "name": "TANJUNG MERAHE",
+  "postalCode": "22155"
  },
  {
   "id": 1211060013,
   "districtId": 1211060,
-  "name": "LIANG MERDEKA"
+  "districtName": "KUTA BULUH",
+  "name": "LIANG MERDEKA",
+  "postalCode": "22155"
  },
  {
   "id": 1211060014,
   "districtId": 1211060,
-  "name": "RIH TENGAH"
+  "districtName": "KUTA BULUH",
+  "name": "RIH TENGAH",
+  "postalCode": "22155"
  },
  {
   "id": 1211060015,
   "districtId": 1211060,
-  "name": "MBURIDI"
+  "districtName": "KUTA BULUH",
+  "name": "MBURIDI",
+  "postalCode": ""
  },
  {
   "id": 1211060016,
   "districtId": 1211060,
-  "name": "KUTA BULUH GUGUNG"
+  "districtName": "KUTA BULUH",
+  "name": "KUTA BULUH GUGUNG",
+  "postalCode": "22155"
  }
 ]

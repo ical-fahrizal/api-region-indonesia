@@ -2,101 +2,141 @@
  {
   "id": 7405101001,
   "districtId": 7405101,
-  "name": "WUURA"
+  "districtName": "MOWILA",
+  "name": "WUURA",
+  "postalCode": "93873"
  },
  {
   "id": 7405101002,
   "districtId": 7405101,
-  "name": "LAMOLORI"
+  "districtName": "MOWILA",
+  "name": "LAMOLORI",
+  "postalCode": ""
  },
  {
   "id": 7405101003,
   "districtId": 7405101,
-  "name": "RAKAWUTA"
+  "districtName": "MOWILA",
+  "name": "RAKAWUTA",
+  "postalCode": "93873"
  },
  {
   "id": 7405101004,
   "districtId": 7405101,
-  "name": "TOLUWONUA"
+  "districtName": "MOWILA",
+  "name": "TOLUWONUA",
+  "postalCode": "93873"
  },
  {
   "id": 7405101005,
   "districtId": 7405101,
-  "name": "MOWILA"
+  "districtName": "MOWILA",
+  "name": "MOWILA",
+  "postalCode": "93873"
  },
  {
   "id": 7405101006,
   "districtId": 7405101,
-  "name": "PUDAHOA"
+  "districtName": "MOWILA",
+  "name": "PUDAHOA",
+  "postalCode": ""
  },
  {
   "id": 7405101007,
   "districtId": 7405101,
-  "name": "PUWEHUKO"
+  "districtName": "MOWILA",
+  "name": "PUWEHUKO",
+  "postalCode": "93873"
  },
  {
   "id": 7405101008,
   "districtId": 7405101,
-  "name": "KONDOANO"
+  "districtName": "MOWILA",
+  "name": "KONDOANO",
+  "postalCode": "93873"
  },
  {
   "id": 7405101009,
   "districtId": 7405101,
-  "name": "MULYA SARI"
+  "districtName": "MOWILA",
+  "name": "MULYA SARI",
+  "postalCode": "22774"
  },
  {
   "id": 7405101010,
   "districtId": 7405101,
-  "name": "MONAPA"
+  "districtName": "MOWILA",
+  "name": "MONAPA",
+  "postalCode": "93873"
  },
  {
   "id": 7405101011,
   "districtId": 7405101,
-  "name": "RANO MBAYASA"
+  "districtName": "MOWILA",
+  "name": "RANO MBAYASA",
+  "postalCode": "93873"
  },
  {
   "id": 7405101012,
   "districtId": 7405101,
-  "name": "PUNGGULAHI"
+  "districtName": "MOWILA",
+  "name": "PUNGGULAHI",
+  "postalCode": "93352"
  },
  {
   "id": 7405101013,
   "districtId": 7405101,
-  "name": "RANO AOPA"
+  "districtName": "MOWILA",
+  "name": "RANO AOPA",
+  "postalCode": "93873"
  },
  {
   "id": 7405101014,
   "districtId": 7405101,
-  "name": "LALOSINGI"
+  "districtName": "MOWILA",
+  "name": "LALOSINGI",
+  "postalCode": "93572"
  },
  {
   "id": 7405101015,
   "districtId": 7405101,
-  "name": "MATAIWOI"
+  "districtName": "MOWILA",
+  "name": "MATAIWOI",
+  "postalCode": "93819"
  },
  {
   "id": 7405101016,
   "districtId": 7405101,
-  "name": "WONUA KONGGA"
+  "districtName": "MOWILA",
+  "name": "WONUA KONGGA",
+  "postalCode": "93881"
  },
  {
   "id": 7405101017,
   "districtId": 7405101,
-  "name": "LAMEBARA"
+  "districtName": "MOWILA",
+  "name": "LAMEBARA",
+  "postalCode": ""
  },
  {
   "id": 7405101018,
   "districtId": 7405101,
-  "name": "WONUA SARI"
+  "districtName": "MOWILA",
+  "name": "WONUA SARI",
+  "postalCode": "93873"
  },
  {
   "id": 7405101019,
   "districtId": 7405101,
-  "name": "TETESINGI"
+  "districtName": "MOWILA",
+  "name": "TETESINGI",
+  "postalCode": "93873"
  },
  {
   "id": 7405101020,
   "districtId": 7405101,
-  "name": "WONUA MONAPA"
+  "districtName": "MOWILA",
+  "name": "WONUA MONAPA",
+  "postalCode": "93873"
  }
 ]

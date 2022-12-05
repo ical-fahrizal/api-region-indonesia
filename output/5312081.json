@@ -2,51 +2,71 @@
  {
   "id": 5312081001,
   "districtId": 5312081,
-  "name": "WOLOMEZE"
+  "districtName": "RIUNG BARAT",
+  "name": "WOLOMEZE",
+  "postalCode": "86419"
  },
  {
   "id": 5312081002,
   "districtId": 5312081,
-  "name": "RIA"
+  "districtName": "RIUNG BARAT",
+  "name": "RIA",
+  "postalCode": "86419"
  },
  {
   "id": 5312081003,
   "districtId": 5312081,
-  "name": "LANAMAI"
+  "districtName": "RIUNG BARAT",
+  "name": "LANAMAI",
+  "postalCode": "86419"
  },
  {
   "id": 5312081004,
   "districtId": 5312081,
-  "name": "BENTENG TAWA"
+  "districtName": "RIUNG BARAT",
+  "name": "BENTENG TAWA",
+  "postalCode": "86419"
  },
  {
   "id": 5312081005,
   "districtId": 5312081,
-  "name": "NGARA"
+  "districtName": "RIUNG BARAT",
+  "name": "NGARA",
+  "postalCode": "86419"
  },
  {
   "id": 5312081006,
   "districtId": 5312081,
-  "name": "RIA I"
+  "districtName": "RIUNG BARAT",
+  "name": "RIA I",
+  "postalCode": "86419"
  },
  {
   "id": 5312081007,
   "districtId": 5312081,
-  "name": "WOLOMEZE I"
+  "districtName": "RIUNG BARAT",
+  "name": "WOLOMEZE I",
+  "postalCode": "86419"
  },
  {
   "id": 5312081008,
   "districtId": 5312081,
-  "name": "LANAMAI I"
+  "districtName": "RIUNG BARAT",
+  "name": "LANAMAI I",
+  "postalCode": "86419"
  },
  {
   "id": 5312081009,
   "districtId": 5312081,
-  "name": "BENTENG TAWA I"
+  "districtName": "RIUNG BARAT",
+  "name": "BENTENG TAWA I",
+  "postalCode": "86419"
  },
  {
   "id": 5312081010,
   "districtId": 5312081,
-  "name": "WOLOMEZE II"
+  "districtName": "RIUNG BARAT",
+  "name": "WOLOMEZE II",
+  "postalCode": ""
  }
 ]

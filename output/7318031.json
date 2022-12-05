@@ -2,26 +2,36 @@
  {
   "id": 7318031001,
   "districtId": 7318031,
-  "name": "LEMBANG BATUALU SELATAN"
+  "districtName": "SANGALA SELATAN",
+  "name": "LEMBANG BATUALU SELATAN",
+  "postalCode": ""
  },
  {
   "id": 7318031002,
   "districtId": 7318031,
-  "name": "LEMBANG BATUALU"
+  "districtName": "SANGALA SELATAN",
+  "name": "LEMBANG BATUALU",
+  "postalCode": ""
  },
  {
   "id": 7318031003,
   "districtId": 7318031,
-  "name": "KELURAHAN RANTE ALANG"
+  "districtName": "SANGALA SELATAN",
+  "name": "KELURAHAN RANTE ALANG",
+  "postalCode": ""
  },
  {
   "id": 7318031004,
   "districtId": 7318031,
-  "name": "LEMBANG TOKESAN"
+  "districtName": "SANGALA SELATAN",
+  "name": "LEMBANG TOKESAN",
+  "postalCode": ""
  },
  {
   "id": 7318031005,
   "districtId": 7318031,
-  "name": "LEMBANG RARU SIBUNUAN"
+  "districtName": "SANGALA SELATAN",
+  "name": "LEMBANG RARU SIBUNUAN",
+  "postalCode": ""
  }
 ]

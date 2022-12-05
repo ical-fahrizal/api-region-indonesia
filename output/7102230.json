@@ -2,41 +2,57 @@
  {
   "id": 7102230001,
   "districtId": 7102230,
-  "name": "TELAP"
+  "districtName": "ERIS",
+  "name": "TELAP",
+  "postalCode": "95683"
  },
  {
   "id": 7102230002,
   "districtId": 7102230,
-  "name": "WATUMEA"
+  "districtName": "ERIS",
+  "name": "WATUMEA",
+  "postalCode": "95683"
  },
  {
   "id": 7102230003,
   "districtId": 7102230,
-  "name": "ERIS"
+  "districtName": "ERIS",
+  "name": "ERIS",
+  "postalCode": "95683"
  },
  {
   "id": 7102230004,
   "districtId": 7102230,
-  "name": "MAUMBI"
+  "districtName": "ERIS",
+  "name": "MAUMBI",
+  "postalCode": "95683"
  },
  {
   "id": 7102230005,
   "districtId": 7102230,
-  "name": "TANDENGAN"
+  "districtName": "ERIS",
+  "name": "TANDENGAN",
+  "postalCode": "95683"
  },
  {
   "id": 7102230006,
   "districtId": 7102230,
-  "name": "RANOMERUT"
+  "districtName": "ERIS",
+  "name": "RANOMERUT",
+  "postalCode": "95683"
  },
  {
   "id": 7102230007,
   "districtId": 7102230,
-  "name": "TOULIANG OKI"
+  "districtName": "ERIS",
+  "name": "TOULIANG OKI",
+  "postalCode": "95683"
  },
  {
   "id": 7102230008,
   "districtId": 7102230,
-  "name": "TANDENGAN SATU"
+  "districtName": "ERIS",
+  "name": "TANDENGAN SATU",
+  "postalCode": "95683"
  }
 ]

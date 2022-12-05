@@ -2,66 +2,92 @@
  {
   "id": 1217020001,
   "districtId": 1217020,
-  "name": "PARTUNGKO NAGINJANG"
+  "districtName": "HARIAN",
+  "name": "PARTUNGKO NAGINJANG",
+  "postalCode": "22391"
  },
  {
   "id": 1217020004,
   "districtId": 1217020,
-  "name": "SIPARMAHAN"
+  "districtName": "HARIAN",
+  "name": "SIPARMAHAN",
+  "postalCode": "22391"
  },
  {
   "id": 1217020005,
   "districtId": 1217020,
-  "name": "DOLOK RAJA"
+  "districtName": "HARIAN",
+  "name": "DOLOK RAJA",
+  "postalCode": "22391"
  },
  {
   "id": 1217020006,
   "districtId": 1217020,
-  "name": "SAMPUR TOBA"
+  "districtName": "HARIAN",
+  "name": "SAMPUR TOBA",
+  "postalCode": "22391"
  },
  {
   "id": 1217020007,
   "districtId": 1217020,
-  "name": "HARIARA POHAN"
+  "districtName": "HARIAN",
+  "name": "HARIARA POHAN",
+  "postalCode": "22391"
  },
  {
   "id": 1217020008,
   "districtId": 1217020,
-  "name": "JANJI MARTAHAN"
+  "districtName": "HARIAN",
+  "name": "JANJI MARTAHAN",
+  "postalCode": "22391"
  },
  {
   "id": 1217020009,
   "districtId": 1217020,
-  "name": "TURPUK SIHOTANG"
+  "districtName": "HARIAN",
+  "name": "TURPUK SIHOTANG",
+  "postalCode": "22391"
  },
  {
   "id": 1217020010,
   "districtId": 1217020,
-  "name": "SOSOR DOLOK"
+  "districtName": "HARIAN",
+  "name": "SOSOR DOLOK",
+  "postalCode": "22391"
  },
  {
   "id": 1217020011,
   "districtId": 1217020,
-  "name": "TURPUK SAGALA"
+  "districtName": "HARIAN",
+  "name": "TURPUK SAGALA",
+  "postalCode": "22391"
  },
  {
   "id": 1217020012,
   "districtId": 1217020,
-  "name": "TURPUK MALAU"
+  "districtName": "HARIAN",
+  "name": "TURPUK MALAU",
+  "postalCode": "22391"
  },
  {
   "id": 1217020013,
   "districtId": 1217020,
-  "name": "TURPUK LIMBONG"
+  "districtName": "HARIAN",
+  "name": "TURPUK LIMBONG",
+  "postalCode": "22391"
  },
  {
   "id": 1217020014,
   "districtId": 1217020,
-  "name": "HUTAGALUNG"
+  "districtName": "HARIAN",
+  "name": "HUTAGALUNG",
+  "postalCode": ""
  },
  {
   "id": 1217020015,
   "districtId": 1217020,
-  "name": "HARIARAPINTU"
+  "districtName": "HARIAN",
+  "name": "HARIARAPINTU",
+  "postalCode": ""
  }
 ]

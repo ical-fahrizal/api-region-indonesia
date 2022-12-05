@@ -2,46 +2,64 @@
  {
   "id": 9416059001,
   "districtId": 9416059,
-  "name": "MEMBAHAM"
+  "districtName": "UBALIHI",
+  "name": "MEMBAHAM",
+  "postalCode": ""
  },
  {
   "id": 9416059002,
   "districtId": 9416059,
-  "name": "HERIKY"
+  "districtName": "UBALIHI",
+  "name": "HERIKY",
+  "postalCode": ""
  },
  {
   "id": 9416059003,
   "districtId": 9416059,
-  "name": "TALAMBELA"
+  "districtName": "UBALIHI",
+  "name": "TALAMBELA",
+  "postalCode": ""
  },
  {
   "id": 9416059004,
   "districtId": 9416059,
-  "name": "WISOMI"
+  "districtName": "UBALIHI",
+  "name": "WISOMI",
+  "postalCode": ""
  },
  {
   "id": 9416059005,
   "districtId": 9416059,
-  "name": "WANAM"
+  "districtName": "UBALIHI",
+  "name": "WANAM",
+  "postalCode": "99655"
  },
  {
   "id": 9416059007,
   "districtId": 9416059,
-  "name": "UBALIHION"
+  "districtName": "UBALIHI",
+  "name": "UBALIHION",
+  "postalCode": "99582"
  },
  {
   "id": 9416059008,
   "districtId": 9416059,
-  "name": "WALAHAN"
+  "districtName": "UBALIHI",
+  "name": "WALAHAN",
+  "postalCode": "99582"
  },
  {
   "id": 9416059009,
   "districtId": 9416059,
-  "name": "SALAKMA"
+  "districtName": "UBALIHI",
+  "name": "SALAKMA",
+  "postalCode": "99582"
  },
  {
   "id": 9416059010,
   "districtId": 9416059,
-  "name": "SAMIYUL"
+  "districtName": "UBALIHI",
+  "name": "SAMIYUL",
+  "postalCode": "99582"
  }
 ]

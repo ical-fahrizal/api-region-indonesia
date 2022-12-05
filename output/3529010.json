@@ -2,71 +2,99 @@
  {
   "id": 3529010001,
   "districtId": 3529010,
-  "name": "KADUARA TIMUR"
+  "districtName": "PRAGAAN",
+  "name": "KADUARA TIMUR",
+  "postalCode": "69465"
  },
  {
   "id": 3529010002,
   "districtId": 3529010,
-  "name": "SENDANG"
+  "districtName": "PRAGAAN",
+  "name": "SENDANG",
+  "postalCode": "45283"
  },
  {
   "id": 3529010003,
   "districtId": 3529010,
-  "name": "ROMBASAN"
+  "districtName": "PRAGAAN",
+  "name": "ROMBASAN",
+  "postalCode": "69465"
  },
  {
   "id": 3529010004,
   "districtId": 3529010,
-  "name": "SENTOL LAOK"
+  "districtName": "PRAGAAN",
+  "name": "SENTOL LAOK",
+  "postalCode": "69465"
  },
  {
   "id": 3529010005,
   "districtId": 3529010,
-  "name": "LARANGAN PERENG"
+  "districtName": "PRAGAAN",
+  "name": "LARANGAN PERENG",
+  "postalCode": "69465"
  },
  {
   "id": 3529010006,
   "districtId": 3529010,
-  "name": "SENTOL DAYA"
+  "districtName": "PRAGAAN",
+  "name": "SENTOL DAYA",
+  "postalCode": "69465"
  },
  {
   "id": 3529010007,
   "districtId": 3529010,
-  "name": "PAKAMBAN DAYA"
+  "districtName": "PRAGAAN",
+  "name": "PAKAMBAN DAYA",
+  "postalCode": "69465"
  },
  {
   "id": 3529010008,
   "districtId": 3529010,
-  "name": "PAKAMBAN LAOK"
+  "districtName": "PRAGAAN",
+  "name": "PAKAMBAN LAOK",
+  "postalCode": "69465"
  },
  {
   "id": 3529010009,
   "districtId": 3529010,
-  "name": "JADDUNG"
+  "districtName": "PRAGAAN",
+  "name": "JADDUNG",
+  "postalCode": "69465"
  },
  {
   "id": 3529010010,
   "districtId": 3529010,
-  "name": "PRAGAAN LAOK"
+  "districtName": "PRAGAAN",
+  "name": "PRAGAAN LAOK",
+  "postalCode": "69465"
  },
  {
   "id": 3529010011,
   "districtId": 3529010,
-  "name": "PRAGAAN DAYA"
+  "districtName": "PRAGAAN",
+  "name": "PRAGAAN DAYA",
+  "postalCode": "69465"
  },
  {
   "id": 3529010012,
   "districtId": 3529010,
-  "name": "PRENDUAN"
+  "districtName": "PRAGAAN",
+  "name": "PRENDUAN",
+  "postalCode": "69465"
  },
  {
   "id": 3529010013,
   "districtId": 3529010,
-  "name": "AENGPANAS"
+  "districtName": "PRAGAAN",
+  "name": "AENGPANAS",
+  "postalCode": "69465"
  },
  {
   "id": 3529010014,
   "districtId": 3529010,
-  "name": "KARDULUK"
+  "districtName": "PRAGAAN",
+  "name": "KARDULUK",
+  "postalCode": "69465"
  }
 ]

@@ -2,61 +2,85 @@
  {
   "id": 1508020001,
   "districtId": 1508020,
-  "name": "ABURAN BATANG TEBO"
+  "districtName": "TEBO TENGAH",
+  "name": "ABURAN BATANG TEBO",
+  "postalCode": "37571"
  },
  {
   "id": 1508020002,
   "districtId": 1508020,
-  "name": "KELURAHAN MUARA TEBO"
+  "districtName": "TEBO TENGAH",
+  "name": "KELURAHAN MUARA TEBO",
+  "postalCode": ""
  },
  {
   "id": 1508020003,
   "districtId": 1508020,
-  "name": "MANGUN JAYO"
+  "districtName": "TEBO TENGAH",
+  "name": "MANGUN JAYO",
+  "postalCode": "37216"
  },
  {
   "id": 1508020004,
   "districtId": 1508020,
-  "name": "TENGAH ULU"
+  "districtName": "TEBO TENGAH",
+  "name": "TENGAH ULU",
+  "postalCode": "37571"
  },
  {
   "id": 1508020005,
   "districtId": 1508020,
-  "name": "TELUK PANDAK"
+  "districtName": "TEBO TENGAH",
+  "name": "TELUK PANDAK",
+  "postalCode": "37263"
  },
  {
   "id": 1508020006,
   "districtId": 1508020,
-  "name": "SEMABU"
+  "districtName": "TEBO TENGAH",
+  "name": "SEMABU",
+  "postalCode": "37571"
  },
  {
   "id": 1508020007,
   "districtId": 1508020,
-  "name": "KANDANG"
+  "districtName": "TEBO TENGAH",
+  "name": "KANDANG",
+  "postalCode": "23352"
  },
  {
   "id": 1508020010,
   "districtId": 1508020,
-  "name": "BEDARO RAMPAK"
+  "districtName": "TEBO TENGAH",
+  "name": "BEDARO RAMPAK",
+  "postalCode": "37571"
  },
  {
   "id": 1508020011,
   "districtId": 1508020,
-  "name": "KELURAHAN TEBING TINGGI"
+  "districtName": "TEBO TENGAH",
+  "name": "KELURAHAN TEBING TINGGI",
+  "postalCode": ""
  },
  {
   "id": 1508020012,
   "districtId": 1508020,
-  "name": "SUNGAI ALAI"
+  "districtName": "TEBO TENGAH",
+  "name": "SUNGAI ALAI",
+  "postalCode": "37571"
  },
  {
   "id": 1508020019,
   "districtId": 1508020,
-  "name": "PELAYANG"
+  "districtName": "TEBO TENGAH",
+  "name": "PELAYANG",
+  "postalCode": "37255"
  },
  {
   "id": 1508020020,
   "districtId": 1508020,
-  "name": "SUNGAI KERUH"
+  "districtName": "TEBO TENGAH",
+  "name": "SUNGAI KERUH",
+  "postalCode": "37571"
  }
 ]

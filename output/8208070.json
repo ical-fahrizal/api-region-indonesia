@@ -2,21 +2,29 @@
  {
   "id": 8208070002,
   "districtId": 8208070,
-  "name": "LANGGANU"
+  "districtName": "LEDE",
+  "name": "LANGGANU",
+  "postalCode": "97793"
  },
  {
   "id": 8208070003,
   "districtId": 8208070,
-  "name": "BALOHANG"
+  "districtName": "LEDE",
+  "name": "BALOHANG",
+  "postalCode": ""
  },
  {
   "id": 8208070004,
   "districtId": 8208070,
-  "name": "TOLONG"
+  "districtName": "LEDE",
+  "name": "TOLONG",
+  "postalCode": "97793"
  },
  {
   "id": 8208070005,
   "districtId": 8208070,
-  "name": "TODOLI"
+  "districtName": "LEDE",
+  "name": "TODOLI",
+  "postalCode": "97793"
  }
 ]

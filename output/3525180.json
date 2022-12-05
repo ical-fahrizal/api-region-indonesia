@@ -2,56 +2,78 @@
  {
   "id": 3525180001,
   "districtId": 3525180,
-  "name": "TELUK JATIDAWANG"
+  "districtName": "TAMBAK",
+  "name": "TELUK JATIDAWANG",
+  "postalCode": "61182"
  },
  {
   "id": 3525180002,
   "districtId": 3525180,
-  "name": "GELAM"
+  "districtName": "TAMBAK",
+  "name": "GELAM",
+  "postalCode": "61271"
  },
  {
   "id": 3525180003,
   "districtId": 3525180,
-  "name": "SUKAONENG"
+  "districtName": "TAMBAK",
+  "name": "SUKAONENG",
+  "postalCode": "61182"
  },
  {
   "id": 3525180004,
   "districtId": 3525180,
-  "name": "KELOMPANGGUBUG"
+  "districtName": "TAMBAK",
+  "name": "KELOMPANGGUBUG",
+  "postalCode": ""
  },
  {
   "id": 3525180005,
   "districtId": 3525180,
-  "name": "SUKALELA"
+  "districtName": "TAMBAK",
+  "name": "SUKALELA",
+  "postalCode": "61182"
  },
  {
   "id": 3525180006,
   "districtId": 3525180,
-  "name": "PEKALONGAN"
+  "districtName": "TAMBAK",
+  "name": "PEKALONGAN",
+  "postalCode": "39371"
  },
  {
   "id": 3525180007,
   "districtId": 3525180,
-  "name": "TAMBAK"
+  "districtName": "TAMBAK",
+  "name": "TAMBAK",
+  "postalCode": "29335"
  },
  {
   "id": 3525180009,
   "districtId": 3525180,
-  "name": "TANJUNGORI"
+  "districtName": "TAMBAK",
+  "name": "TANJUNGORI",
+  "postalCode": "61182"
  },
  {
   "id": 3525180010,
   "districtId": 3525180,
-  "name": "PAROMAAN"
+  "districtName": "TAMBAK",
+  "name": "PAROMAAN",
+  "postalCode": ""
  },
  {
   "id": 3525180011,
   "districtId": 3525180,
-  "name": "DIPONGGO"
+  "districtName": "TAMBAK",
+  "name": "DIPONGGO",
+  "postalCode": "61182"
  },
  {
   "id": 3525180013,
   "districtId": 3525180,
-  "name": "KEPUH LEGUNDI"
+  "districtName": "TAMBAK",
+  "name": "KEPUH LEGUNDI",
+  "postalCode": "61182"
  }
 ]

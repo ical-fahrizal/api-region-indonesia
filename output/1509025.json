@@ -2,41 +2,57 @@
  {
   "id": 1509025001,
   "districtId": 1509025,
-  "name": "KELURAHAN MANGGIS"
+  "districtName": "BATHIN III",
+  "name": "KELURAHAN MANGGIS",
+  "postalCode": ""
  },
  {
   "id": 1509025002,
   "districtId": 1509025,
-  "name": "KELURAHAN SUNGAI BINJAI"
+  "districtName": "BATHIN III",
+  "name": "KELURAHAN SUNGAI BINJAI",
+  "postalCode": ""
  },
  {
   "id": 1509025003,
   "districtId": 1509025,
-  "name": "KELURAHAN BUNGO TAMAN AGUNG"
+  "districtName": "BATHIN III",
+  "name": "KELURAHAN BUNGO TAMAN AGUNG",
+  "postalCode": ""
  },
  {
   "id": 1509025004,
   "districtId": 1509025,
-  "name": "PURWO BAKTI"
+  "districtName": "BATHIN III",
+  "name": "PURWO BAKTI",
+  "postalCode": "37211"
  },
  {
   "id": 1509025005,
   "districtId": 1509025,
-  "name": "AIR GEMURUH"
+  "districtName": "BATHIN III",
+  "name": "AIR GEMURUH",
+  "postalCode": "37211"
  },
  {
   "id": 1509025006,
   "districtId": 1509025,
-  "name": "TELUK PANJANG"
+  "districtName": "BATHIN III",
+  "name": "TELUK PANJANG",
+  "postalCode": "37211"
  },
  {
   "id": 1509025007,
   "districtId": 1509025,
-  "name": "LUBUK BENTENG"
+  "districtName": "BATHIN III",
+  "name": "LUBUK BENTENG",
+  "postalCode": "37211"
  },
  {
   "id": 1509025008,
   "districtId": 1509025,
-  "name": "SARANA JAYA"
+  "districtName": "BATHIN III",
+  "name": "SARANA JAYA",
+  "postalCode": "37211"
  }
 ]

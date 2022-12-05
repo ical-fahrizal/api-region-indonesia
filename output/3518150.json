@@ -2,91 +2,127 @@
  {
   "id": 3518150001,
   "districtId": 3518150,
-  "name": "BALONGREJO"
+  "districtName": "BAGOR",
+  "name": "BALONGREJO",
+  "postalCode": "58253"
  },
  {
   "id": 3518150002,
   "districtId": 3518150,
-  "name": "GIRIREJO"
+  "districtName": "BAGOR",
+  "name": "GIRIREJO",
+  "postalCode": "56153"
  },
  {
   "id": 3518150004,
   "districtId": 3518150,
-  "name": "SEKAR PUTIH"
+  "districtName": "BAGOR",
+  "name": "SEKAR PUTIH",
+  "postalCode": "64461"
  },
  {
   "id": 3518150005,
   "districtId": 3518150,
-  "name": "BUDURAN"
+  "districtName": "BAGOR",
+  "name": "BUDURAN",
+  "postalCode": "69151"
  },
  {
   "id": 3518150007,
   "districtId": 3518150,
-  "name": "BAGOR KULON"
+  "districtName": "BAGOR",
+  "name": "BAGOR KULON",
+  "postalCode": "64461"
  },
  {
   "id": 3518150008,
   "districtId": 3518150,
-  "name": "PETAK"
+  "districtName": "BAGOR",
+  "name": "PETAK",
+  "postalCode": "64461"
  },
  {
   "id": 3518150009,
   "districtId": 3518150,
-  "name": "PARON"
+  "districtName": "BAGOR",
+  "name": "PARON",
+  "postalCode": "64461"
  },
  {
   "id": 3518150010,
   "districtId": 3518150,
-  "name": "KARANG TENGAH"
+  "districtName": "BAGOR",
+  "name": "KARANG TENGAH",
+  "postalCode": "20991"
  },
  {
   "id": 3518150011,
   "districtId": 3518150,
-  "name": "SELOREJO"
+  "districtName": "BAGOR",
+  "name": "SELOREJO",
+  "postalCode": "57683"
  },
  {
   "id": 3518150012,
   "districtId": 3518150,
-  "name": "GANDU"
+  "districtName": "BAGOR",
+  "name": "GANDU",
+  "postalCode": "45453"
  },
  {
   "id": 3518150013,
   "districtId": 3518150,
-  "name": "GUYANGAN"
+  "districtName": "BAGOR",
+  "name": "GUYANGAN",
+  "postalCode": "59453"
  },
  {
   "id": 3518150014,
   "districtId": 3518150,
-  "name": "KEDONDONG"
+  "districtName": "BAGOR",
+  "name": "KEDONDONG",
+  "postalCode": "32191"
  },
  {
   "id": 3518150015,
   "districtId": 3518150,
-  "name": "SUGIH WARAS"
+  "districtName": "BAGOR",
+  "name": "SUGIH WARAS",
+  "postalCode": "32274"
  },
  {
   "id": 3518150016,
   "districtId": 3518150,
-  "name": "KUTOREJO"
+  "districtName": "BAGOR",
+  "name": "KUTOREJO",
+  "postalCode": "51161"
  },
  {
   "id": 3518150017,
   "districtId": 3518150,
-  "name": "KEREP KIDUL"
+  "districtName": "BAGOR",
+  "name": "KEREP KIDUL",
+  "postalCode": "64461"
  },
  {
   "id": 3518150019,
   "districtId": 3518150,
-  "name": "KENDAL REJO"
+  "districtName": "BAGOR",
+  "name": "KENDAL REJO",
+  "postalCode": "64461"
  },
  {
   "id": 3518150020,
   "districtId": 3518150,
-  "name": "BANARAN KULON"
+  "districtName": "BAGOR",
+  "name": "BANARAN KULON",
+  "postalCode": "64461"
  },
  {
   "id": 3518150021,
   "districtId": 3518150,
-  "name": "BANARAN WETAN"
+  "districtName": "BAGOR",
+  "name": "BANARAN WETAN",
+  "postalCode": "64461"
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 7209082001,
   "districtId": 7209082,
-  "name": "KABALUTAN"
+  "districtName": "TALATAKO",
+  "name": "KABALUTAN",
+  "postalCode": "94692"
  },
  {
   "id": 7209082002,
   "districtId": 7209082,
-  "name": "PAUTU"
+  "districtName": "TALATAKO",
+  "name": "PAUTU",
+  "postalCode": "94692"
  },
  {
   "id": 7209082003,
   "districtId": 7209082,
-  "name": "KALIA"
+  "districtName": "TALATAKO",
+  "name": "KALIA",
+  "postalCode": "94692"
  },
  {
   "id": 7209082004,
   "districtId": 7209082,
-  "name": "TUMOTOK"
+  "districtName": "TALATAKO",
+  "name": "TUMOTOK",
+  "postalCode": "94692"
  },
  {
   "id": 7209082005,
   "districtId": 7209082,
-  "name": "MALENGE"
+  "districtName": "TALATAKO",
+  "name": "MALENGE",
+  "postalCode": "94692"
  },
  {
   "id": 7209082014,
   "districtId": 7209082,
-  "name": "KADODA"
+  "districtName": "TALATAKO",
+  "name": "KADODA",
+  "postalCode": "94692"
  }
 ]

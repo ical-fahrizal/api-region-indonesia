@@ -2,61 +2,85 @@
  {
   "id": 1405021001,
   "districtId": 1405021,
-  "name": "KERINCI KIRI"
+  "districtName": "KERINCI KANAN",
+  "name": "KERINCI KIRI",
+  "postalCode": "28654"
  },
  {
   "id": 1405021003,
   "districtId": 1405021,
-  "name": "BUKIT AGUNG"
+  "districtName": "KERINCI KANAN",
+  "name": "BUKIT AGUNG",
+  "postalCode": "28654"
  },
  {
   "id": 1405021004,
   "districtId": 1405021,
-  "name": "KUMBARA UTAMA"
+  "districtName": "KERINCI KANAN",
+  "name": "KUMBARA UTAMA",
+  "postalCode": "28654"
  },
  {
   "id": 1405021005,
   "districtId": 1405021,
-  "name": "BUKIT HARAPAN"
+  "districtName": "KERINCI KANAN",
+  "name": "BUKIT HARAPAN",
+  "postalCode": "24784"
  },
  {
   "id": 1405021006,
   "districtId": 1405021,
-  "name": "BUANA BHAKTI"
+  "districtName": "KERINCI KANAN",
+  "name": "BUANA BHAKTI",
+  "postalCode": ""
  },
  {
   "id": 1405021007,
   "districtId": 1405021,
-  "name": "KERINCI KANAN"
+  "districtName": "KERINCI KANAN",
+  "name": "KERINCI KANAN",
+  "postalCode": "28654"
  },
  {
   "id": 1405021008,
   "districtId": 1405021,
-  "name": "SIMPANG PERAK JAYA"
+  "districtName": "KERINCI KANAN",
+  "name": "SIMPANG PERAK JAYA",
+  "postalCode": "28654"
  },
  {
   "id": 1405021009,
   "districtId": 1405021,
-  "name": "GABUNG MAKMUR"
+  "districtName": "KERINCI KANAN",
+  "name": "GABUNG MAKMUR",
+  "postalCode": "28654"
  },
  {
   "id": 1405021010,
   "districtId": 1405021,
-  "name": "JATI MULIA"
+  "districtName": "KERINCI KANAN",
+  "name": "JATI MULIA",
+  "postalCode": "21253"
  },
  {
   "id": 1405021011,
   "districtId": 1405021,
-  "name": "BUATAN BARU"
+  "districtName": "KERINCI KANAN",
+  "name": "BUATAN BARU",
+  "postalCode": "28654"
  },
  {
   "id": 1405021012,
   "districtId": 1405021,
-  "name": "SEMINAI"
+  "districtName": "KERINCI KANAN",
+  "name": "SEMINAI",
+  "postalCode": "28654"
  },
  {
   "id": 1405021013,
   "districtId": 1405021,
-  "name": "DELIMA JAYA"
+  "districtName": "KERINCI KANAN",
+  "name": "DELIMA JAYA",
+  "postalCode": "28654"
  }
 ]

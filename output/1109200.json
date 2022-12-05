@@ -2,76 +2,106 @@
  {
   "id": 1109200001,
   "districtId": 1109200,
-  "name": "TANJONG KRUENG"
+  "districtName": "KOTA SIGLI",
+  "name": "TANJONG KRUENG",
+  "postalCode": "24182"
  },
  {
   "id": 1109200002,
   "districtId": 1109200,
-  "name": "MNS PEUKAN"
+  "districtName": "KOTA SIGLI",
+  "name": "MNS PEUKAN",
+  "postalCode": ""
  },
  {
   "id": 1109200003,
   "districtId": 1109200,
-  "name": "GAMPONG ASAN"
+  "districtName": "KOTA SIGLI",
+  "name": "GAMPONG ASAN",
+  "postalCode": ""
  },
  {
   "id": 1109200004,
   "districtId": 1109200,
-  "name": "BLANG ASAN"
+  "districtName": "KOTA SIGLI",
+  "name": "BLANG ASAN",
+  "postalCode": "24111"
  },
  {
   "id": 1109200005,
   "districtId": 1109200,
-  "name": "BLOK SAWAH"
+  "districtName": "KOTA SIGLI",
+  "name": "BLOK SAWAH",
+  "postalCode": "24114"
  },
  {
   "id": 1109200006,
   "districtId": 1109200,
-  "name": "PANTE TEUNGOH"
+  "districtName": "KOTA SIGLI",
+  "name": "PANTE TEUNGOH",
+  "postalCode": "24114"
  },
  {
   "id": 1109200007,
   "districtId": 1109200,
-  "name": "KRAMAT DALAM"
+  "districtName": "KOTA SIGLI",
+  "name": "KRAMAT DALAM",
+  "postalCode": ""
  },
  {
   "id": 1109200008,
   "districtId": 1109200,
-  "name": "KRAMAT LUAR"
+  "districtName": "KOTA SIGLI",
+  "name": "KRAMAT LUAR",
+  "postalCode": ""
  },
  {
   "id": 1109200009,
   "districtId": 1109200,
-  "name": "LAMPOH KRUENG"
+  "districtName": "KOTA SIGLI",
+  "name": "LAMPOH KRUENG",
+  "postalCode": "24119"
  },
  {
   "id": 1109200010,
   "districtId": 1109200,
-  "name": "PASI PEUKAN BARO"
+  "districtName": "KOTA SIGLI",
+  "name": "PASI PEUKAN BARO",
+  "postalCode": "24113"
  },
  {
   "id": 1109200011,
   "districtId": 1109200,
-  "name": "PASI RAWA"
+  "districtName": "KOTA SIGLI",
+  "name": "PASI RAWA",
+  "postalCode": "24116"
  },
  {
   "id": 1109200012,
   "districtId": 1109200,
-  "name": "KUALA PIDIE"
+  "districtName": "KOTA SIGLI",
+  "name": "KUALA PIDIE",
+  "postalCode": "24112"
  },
  {
   "id": 1109200013,
   "districtId": 1109200,
-  "name": "BLOK BENGKEL"
+  "districtName": "KOTA SIGLI",
+  "name": "BLOK BENGKEL",
+  "postalCode": "24118"
  },
  {
   "id": 1109200014,
   "districtId": 1109200,
-  "name": "BENTENG"
+  "districtName": "KOTA SIGLI",
+  "name": "BENTENG",
+  "postalCode": "24452"
  },
  {
   "id": 1109200015,
   "districtId": 1109200,
-  "name": "BLANG PASEH"
+  "districtName": "KOTA SIGLI",
+  "name": "BLANG PASEH",
+  "postalCode": "24119"
  }
 ]

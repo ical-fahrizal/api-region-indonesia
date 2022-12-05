@@ -2,61 +2,85 @@
  {
   "id": 3303030001,
   "districtId": 3303030,
-  "name": "BANDINGAN"
+  "districtName": "KEJOBONG",
+  "name": "BANDINGAN",
+  "postalCode": "53471"
  },
  {
   "id": 3303030002,
   "districtId": 3303030,
-  "name": "LAMUK"
+  "districtName": "KEJOBONG",
+  "name": "LAMUK",
+  "postalCode": "56372"
  },
  {
   "id": 3303030003,
   "districtId": 3303030,
-  "name": "SOKANEGARA"
+  "districtName": "KEJOBONG",
+  "name": "SOKANEGARA",
+  "postalCode": "53392"
  },
  {
   "id": 3303030004,
   "districtId": 3303030,
-  "name": "GUMIWANG"
+  "districtName": "KEJOBONG",
+  "name": "GUMIWANG",
+  "postalCode": "53392"
  },
  {
   "id": 3303030006,
   "districtId": 3303030,
-  "name": "NANGKASAWIT"
+  "districtName": "KEJOBONG",
+  "name": "NANGKASAWIT",
+  "postalCode": "53392"
  },
  {
   "id": 3303030007,
   "districtId": 3303030,
-  "name": "PANDANSARI"
+  "districtName": "KEJOBONG",
+  "name": "PANDANSARI",
+  "postalCode": "16720"
  },
  {
   "id": 3303030008,
   "districtId": 3303030,
-  "name": "KEJOBONG"
+  "districtName": "KEJOBONG",
+  "name": "KEJOBONG",
+  "postalCode": "53392"
  },
  {
   "id": 3303030009,
   "districtId": 3303030,
-  "name": "LANGGAR"
+  "districtName": "KEJOBONG",
+  "name": "LANGGAR",
+  "postalCode": "53392"
  },
  {
   "id": 3303030010,
   "districtId": 3303030,
-  "name": "TIMBANG"
+  "districtName": "KEJOBONG",
+  "name": "TIMBANG",
+  "postalCode": "45556"
  },
  {
   "id": 3303030011,
   "districtId": 3303030,
-  "name": "NANGKOD"
+  "districtName": "KEJOBONG",
+  "name": "NANGKOD",
+  "postalCode": "53392"
  },
  {
   "id": 3303030012,
   "districtId": 3303030,
-  "name": "KEDARPAN"
+  "districtName": "KEJOBONG",
+  "name": "KEDARPAN",
+  "postalCode": "53392"
  },
  {
   "id": 3303030013,
   "districtId": 3303030,
-  "name": "PANGEMPON"
+  "districtName": "KEJOBONG",
+  "name": "PANGEMPON",
+  "postalCode": "51274"
  }
 ]

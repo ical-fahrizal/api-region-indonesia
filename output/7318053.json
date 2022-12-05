@@ -2,41 +2,57 @@
  {
   "id": 7318053001,
   "districtId": 7318053,
-  "name": "LEMBANG BELAU"
+  "districtName": "MASANDA",
+  "name": "LEMBANG BELAU",
+  "postalCode": ""
  },
  {
   "id": 7318053002,
   "districtId": 7318053,
-  "name": "LEMBANG PAKU"
+  "districtName": "MASANDA",
+  "name": "LEMBANG PAKU",
+  "postalCode": ""
  },
  {
   "id": 7318053003,
   "districtId": 7318053,
-  "name": "LEMBANG SESE SALU"
+  "districtName": "MASANDA",
+  "name": "LEMBANG SESE SALU",
+  "postalCode": ""
  },
  {
   "id": 7318053004,
   "districtId": 7318053,
-  "name": "LEMBANG RATTE"
+  "districtName": "MASANDA",
+  "name": "LEMBANG RATTE",
+  "postalCode": ""
  },
  {
   "id": 7318053005,
   "districtId": 7318053,
-  "name": "LEMBANG PONDINGAO"
+  "districtName": "MASANDA",
+  "name": "LEMBANG PONDINGAO",
+  "postalCode": ""
  },
  {
   "id": 7318053006,
   "districtId": 7318053,
-  "name": "LEMBANG BELAU UTARA"
+  "districtName": "MASANDA",
+  "name": "LEMBANG BELAU UTARA",
+  "postalCode": ""
  },
  {
   "id": 7318053007,
   "districtId": 7318053,
-  "name": "LEMBANG PALIORONG"
+  "districtName": "MASANDA",
+  "name": "LEMBANG PALIORONG",
+  "postalCode": ""
  },
  {
   "id": 7318053008,
   "districtId": 7318053,
-  "name": "LEMBANG KADUNDUNG"
+  "districtName": "MASANDA",
+  "name": "LEMBANG KADUNDUNG",
+  "postalCode": ""
  }
 ]

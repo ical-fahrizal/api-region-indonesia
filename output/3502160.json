@@ -2,91 +2,127 @@
  {
   "id": 3502160001,
   "districtId": 3502160,
-  "name": "MOROSARI"
+  "districtName": "SUKOREJO",
+  "name": "MOROSARI",
+  "postalCode": "63453"
  },
  {
   "id": 3502160002,
   "districtId": 3502160,
-  "name": "SRAGI"
+  "districtName": "SUKOREJO",
+  "name": "SRAGI",
+  "postalCode": "51155"
  },
  {
   "id": 3502160003,
   "districtId": 3502160,
-  "name": "KALIMALANG"
+  "districtName": "SUKOREJO",
+  "name": "KALIMALANG",
+  "postalCode": "63453"
  },
  {
   "id": 3502160004,
   "districtId": 3502160,
-  "name": "KARANGLOLOR"
+  "districtName": "SUKOREJO",
+  "name": "KARANGLOLOR",
+  "postalCode": ""
  },
  {
   "id": 3502160005,
   "districtId": 3502160,
-  "name": "GANDUKEPUH"
+  "districtName": "SUKOREJO",
+  "name": "GANDUKEPUH",
+  "postalCode": "63453"
  },
  {
   "id": 3502160006,
   "districtId": 3502160,
-  "name": "NAMBANGREJO"
+  "districtName": "SUKOREJO",
+  "name": "NAMBANGREJO",
+  "postalCode": "63453"
  },
  {
   "id": 3502160007,
   "districtId": 3502160,
-  "name": "LENGKONG"
+  "districtName": "SUKOREJO",
+  "name": "LENGKONG",
+  "postalCode": "24415"
  },
  {
   "id": 3502160008,
   "districtId": 3502160,
-  "name": "GOLAN"
+  "districtName": "SUKOREJO",
+  "name": "GOLAN",
+  "postalCode": "63162"
  },
  {
   "id": 3502160009,
   "districtId": 3502160,
-  "name": "BANGUNREJO"
+  "districtName": "SUKOREJO",
+  "name": "BANGUNREJO",
+  "postalCode": "59261"
  },
  {
   "id": 3502160010,
   "districtId": 3502160,
-  "name": "SUKOREJO"
+  "districtName": "SUKOREJO",
+  "name": "SUKOREJO",
+  "postalCode": "31551"
  },
  {
   "id": 3502160011,
   "districtId": 3502160,
-  "name": "NAMPAN"
+  "districtName": "SUKOREJO",
+  "name": "NAMPAN",
+  "postalCode": "63453"
  },
  {
   "id": 3502160012,
   "districtId": 3502160,
-  "name": "KRANGGAN"
+  "districtName": "SUKOREJO",
+  "name": "KRANGGAN",
+  "postalCode": "50613"
  },
  {
   "id": 3502160013,
   "districtId": 3502160,
-  "name": "GELANGLOR"
+  "districtName": "SUKOREJO",
+  "name": "GELANGLOR",
+  "postalCode": "63453"
  },
  {
   "id": 3502160014,
   "districtId": 3502160,
-  "name": "SIDOREJO"
+  "districtName": "SUKOREJO",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 3502160015,
   "districtId": 3502160,
-  "name": "GEGERAN"
+  "districtName": "SUKOREJO",
+  "name": "GEGERAN",
+  "postalCode": "63581"
  },
  {
   "id": 3502160016,
   "districtId": 3502160,
-  "name": "PRAJEGAN"
+  "districtName": "SUKOREJO",
+  "name": "PRAJEGAN",
+  "postalCode": "63453"
  },
  {
   "id": 3502160017,
   "districtId": 3502160,
-  "name": "SERANGAN"
+  "districtName": "SUKOREJO",
+  "name": "SERANGAN",
+  "postalCode": "59552"
  },
  {
   "id": 3502160018,
   "districtId": 3502160,
-  "name": "KEDUNG BANTENG"
+  "districtName": "SUKOREJO",
+  "name": "KEDUNG BANTENG",
+  "postalCode": "52472"
  }
 ]

@@ -2,101 +2,141 @@
  {
   "id": 3529080001,
   "districtId": 3529080,
-  "name": "BILAPORA REBA"
+  "districtName": "LENTENG",
+  "name": "BILAPORA REBA",
+  "postalCode": "69461"
  },
  {
   "id": 3529080002,
   "districtId": 3529080,
-  "name": "MONCEK BARAT"
+  "districtName": "LENTENG",
+  "name": "MONCEK BARAT",
+  "postalCode": "69461"
  },
  {
   "id": 3529080003,
   "districtId": 3529080,
-  "name": "MONCEK TENGAH"
+  "districtName": "LENTENG",
+  "name": "MONCEK TENGAH",
+  "postalCode": "69461"
  },
  {
   "id": 3529080004,
   "districtId": 3529080,
-  "name": "MONCEK TIMUR"
+  "districtName": "LENTENG",
+  "name": "MONCEK TIMUR",
+  "postalCode": "69461"
  },
  {
   "id": 3529080005,
   "districtId": 3529080,
-  "name": "BANARESEP BARAT"
+  "districtName": "LENTENG",
+  "name": "BANARESEP BARAT",
+  "postalCode": "69461"
  },
  {
   "id": 3529080006,
   "districtId": 3529080,
-  "name": "LEMBUNG BARAT"
+  "districtName": "LENTENG",
+  "name": "LEMBUNG BARAT",
+  "postalCode": "69461"
  },
  {
   "id": 3529080007,
   "districtId": 3529080,
-  "name": "LEMBUNG TIMUR"
+  "districtName": "LENTENG",
+  "name": "LEMBUNG TIMUR",
+  "postalCode": "69461"
  },
  {
   "id": 3529080008,
   "districtId": 3529080,
-  "name": "BANARESEP TIMUR"
+  "districtName": "LENTENG",
+  "name": "BANARESEP TIMUR",
+  "postalCode": "69461"
  },
  {
   "id": 3529080009,
   "districtId": 3529080,
-  "name": "KAMBINGAN BARAT"
+  "districtName": "LENTENG",
+  "name": "KAMBINGAN BARAT",
+  "postalCode": "69461"
  },
  {
   "id": 3529080010,
   "districtId": 3529080,
-  "name": "TAROGAN"
+  "districtName": "LENTENG",
+  "name": "TAROGAN",
+  "postalCode": "69461"
  },
  {
   "id": 3529080011,
   "districtId": 3529080,
-  "name": "POREH"
+  "districtName": "LENTENG",
+  "name": "POREH",
+  "postalCode": "69254"
  },
  {
   "id": 3529080012,
   "districtId": 3529080,
-  "name": "CANGKRENG"
+  "districtName": "LENTENG",
+  "name": "CANGKRENG",
+  "postalCode": "69461"
  },
  {
   "id": 3529080013,
   "districtId": 3529080,
-  "name": "MEDELAN"
+  "districtName": "LENTENG",
+  "name": "MEDELAN",
+  "postalCode": "69461"
  },
  {
   "id": 3529080014,
   "districtId": 3529080,
-  "name": "SENDIR"
+  "districtName": "LENTENG",
+  "name": "SENDIR",
+  "postalCode": "69461"
  },
  {
   "id": 3529080015,
   "districtId": 3529080,
-  "name": "DARAMESTA"
+  "districtName": "LENTENG",
+  "name": "DARAMESTA",
+  "postalCode": "69461"
  },
  {
   "id": 3529080016,
   "districtId": 3529080,
-  "name": "JAMBU"
+  "districtName": "LENTENG",
+  "name": "JAMBU",
+  "postalCode": "20998"
  },
  {
   "id": 3529080017,
   "districtId": 3529080,
-  "name": "ELLAK DAYA"
+  "districtName": "LENTENG",
+  "name": "ELLAK DAYA",
+  "postalCode": "69461"
  },
  {
   "id": 3529080018,
   "districtId": 3529080,
-  "name": "ELLAK LAOK"
+  "districtName": "LENTENG",
+  "name": "ELLAK LAOK",
+  "postalCode": "69461"
  },
  {
   "id": 3529080019,
   "districtId": 3529080,
-  "name": "LENTENG TIMUR"
+  "districtName": "LENTENG",
+  "name": "LENTENG TIMUR",
+  "postalCode": "69461"
  },
  {
   "id": 3529080020,
   "districtId": 3529080,
-  "name": "LENTENG BARAT"
+  "districtName": "LENTENG",
+  "name": "LENTENG BARAT",
+  "postalCode": "69461"
  }
 ]

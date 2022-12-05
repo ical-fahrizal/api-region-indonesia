@@ -2,76 +2,106 @@
  {
   "id": 3317010001,
   "districtId": 3317010,
-  "name": "RONGGOMULYO"
+  "districtName": "SUMBER",
+  "name": "RONGGOMULYO",
+  "postalCode": "59253"
  },
  {
   "id": 3317010002,
   "districtId": 3317010,
-  "name": "LOGEDE"
+  "districtName": "SUMBER",
+  "name": "LOGEDE",
+  "postalCode": "57483"
  },
  {
   "id": 3317010003,
   "districtId": 3317010,
-  "name": "PELEMSARI"
+  "districtName": "SUMBER",
+  "name": "PELEMSARI",
+  "postalCode": "59253"
  },
  {
   "id": 3317010004,
   "districtId": 3317010,
-  "name": "LOGUNG"
+  "districtName": "SUMBER",
+  "name": "LOGUNG",
+  "postalCode": "59253"
  },
  {
   "id": 3317010005,
   "districtId": 3317010,
-  "name": "KRIKILAN"
+  "districtName": "SUMBER",
+  "name": "KRIKILAN",
+  "postalCode": "57462"
  },
  {
   "id": 3317010007,
   "districtId": 3317010,
-  "name": "JATIHADI"
+  "districtName": "SUMBER",
+  "name": "JATIHADI",
+  "postalCode": "59253"
  },
  {
   "id": 3317010008,
   "districtId": 3317010,
-  "name": "POLBAYEM"
+  "districtName": "SUMBER",
+  "name": "POLBAYEM",
+  "postalCode": "59253"
  },
  {
   "id": 3317010010,
   "districtId": 3317010,
-  "name": "JADI"
+  "districtName": "SUMBER",
+  "name": "JADI",
+  "postalCode": "59253"
  },
  {
   "id": 3317010011,
   "districtId": 3317010,
-  "name": "GRAWAN"
+  "districtName": "SUMBER",
+  "name": "GRAWAN",
+  "postalCode": "59253"
  },
  {
   "id": 3317010012,
   "districtId": 3317010,
-  "name": "RANDUAGUNG"
+  "districtName": "SUMBER",
+  "name": "RANDUAGUNG",
+  "postalCode": "59253"
  },
  {
   "id": 3317010013,
   "districtId": 3317010,
-  "name": "SUKOREJO"
+  "districtName": "SUMBER",
+  "name": "SUKOREJO",
+  "postalCode": "31551"
  },
  {
   "id": 3317010014,
   "districtId": 3317010,
-  "name": "TLOGOTUNGGAL"
+  "districtName": "SUMBER",
+  "name": "TLOGOTUNGGAL",
+  "postalCode": "59253"
  },
  {
   "id": 3317010015,
   "districtId": 3317010,
-  "name": "BOGOREJO"
+  "districtName": "SUMBER",
+  "name": "BOGOREJO",
+  "postalCode": "35366"
  },
  {
   "id": 3317010017,
   "districtId": 3317010,
-  "name": "KEDUNGASEM"
+  "districtName": "SUMBER",
+  "name": "KEDUNGASEM",
+  "postalCode": "59253"
  },
  {
   "id": 3317010018,
   "districtId": 3317010,
-  "name": "SEKARSARI"
+  "districtName": "SUMBER",
+  "name": "SEKARSARI",
+  "postalCode": "43185"
  }
 ]

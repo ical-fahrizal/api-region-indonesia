@@ -2,56 +2,78 @@
  {
   "id": 9417050008,
   "districtId": 9417050,
-  "name": "BERUSAHA"
+  "districtName": "KIWIROK",
+  "name": "BERUSAHA",
+  "postalCode": "99574"
  },
  {
   "id": 9417050009,
   "districtId": 9417050,
-  "name": "OKNANGGUL"
+  "districtName": "KIWIROK",
+  "name": "OKNANGGUL",
+  "postalCode": "99574"
  },
  {
   "id": 9417050015,
   "districtId": 9417050,
-  "name": "PELEBIB"
+  "districtName": "KIWIROK",
+  "name": "PELEBIB",
+  "postalCode": "99574"
  },
  {
   "id": 9417050016,
   "districtId": 9417050,
-  "name": "KIWI"
+  "districtName": "KIWIROK",
+  "name": "KIWI",
+  "postalCode": "99574"
  },
  {
   "id": 9417050017,
   "districtId": 9417050,
-  "name": "KUKIHIL"
+  "districtName": "KIWIROK",
+  "name": "KUKIHIL",
+  "postalCode": "99574"
  },
  {
   "id": 9417050020,
   "districtId": 9417050,
-  "name": "SOPAMIKMA"
+  "districtName": "KIWIROK",
+  "name": "SOPAMIKMA",
+  "postalCode": "99574"
  },
  {
   "id": 9417050021,
   "districtId": 9417050,
-  "name": "LOLIM"
+  "districtName": "KIWIROK",
+  "name": "LOLIM",
+  "postalCode": "99574"
  },
  {
   "id": 9417050022,
   "districtId": 9417050,
-  "name": "ASUA"
+  "districtName": "KIWIROK",
+  "name": "ASUA",
+  "postalCode": "99574"
  },
  {
   "id": 9417050023,
   "districtId": 9417050,
-  "name": "MANGOLDOKI"
+  "districtName": "KIWIROK",
+  "name": "MANGOLDOKI",
+  "postalCode": "99574"
  },
  {
   "id": 9417050025,
   "districtId": 9417050,
-  "name": "POMDING"
+  "districtName": "KIWIROK",
+  "name": "POMDING",
+  "postalCode": "99574"
  },
  {
   "id": 9417050026,
   "districtId": 9417050,
-  "name": "DIIP"
+  "districtName": "KIWIROK",
+  "name": "DIIP",
+  "postalCode": "99574"
  }
 ]

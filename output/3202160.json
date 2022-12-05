@@ -2,36 +2,50 @@
  {
   "id": 3202160001,
   "districtId": 3202160,
-  "name": "CIENGANG"
+  "districtName": "GEGER BITUNG",
+  "name": "CIENGANG",
+  "postalCode": "43197"
  },
  {
   "id": 3202160002,
   "districtId": 3202160,
-  "name": "SUKAMANAH"
+  "districtName": "GEGER BITUNG",
+  "name": "SUKAMANAH",
+  "postalCode": "43273"
  },
  {
   "id": 3202160003,
   "districtId": 3202160,
-  "name": "GEGERBITUNG"
+  "districtName": "GEGER BITUNG",
+  "name": "GEGERBITUNG",
+  "postalCode": "43197"
  },
  {
   "id": 3202160004,
   "districtId": 3202160,
-  "name": "CIJUREY"
+  "districtName": "GEGER BITUNG",
+  "name": "CIJUREY",
+  "postalCode": "43197"
  },
  {
   "id": 3202160005,
   "districtId": 3202160,
-  "name": "KARANGJAYA"
+  "districtName": "GEGER BITUNG",
+  "name": "KARANGJAYA",
+  "postalCode": "43197"
  },
  {
   "id": 3202160006,
   "districtId": 3202160,
-  "name": "BUNIWANGI"
+  "districtName": "GEGER BITUNG",
+  "name": "BUNIWANGI",
+  "postalCode": "43197"
  },
  {
   "id": 3202160007,
   "districtId": 3202160,
-  "name": "CARINGIN"
+  "districtName": "GEGER BITUNG",
+  "name": "CARINGIN",
+  "postalCode": "40212"
  }
 ]

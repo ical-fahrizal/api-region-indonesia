@@ -2,21 +2,29 @@
  {
   "id": 2101034004,
   "districtId": 2101034,
-  "name": "PASIR PANJANG"
+  "districtName": "MERAL BARAT",
+  "name": "PASIR PANJANG",
+  "postalCode": "36265"
  },
  {
   "id": 2101034005,
   "districtId": 2101034,
-  "name": "PANGKE"
+  "districtName": "MERAL BARAT",
+  "name": "PANGKE",
+  "postalCode": "29664"
  },
  {
   "id": 2101034007,
   "districtId": 2101034,
-  "name": "DARUSALAM"
+  "districtName": "MERAL BARAT",
+  "name": "DARUSALAM",
+  "postalCode": ""
  },
  {
   "id": 2101034009,
   "districtId": 2101034,
-  "name": "PANGKE BARAT"
+  "districtName": "MERAL BARAT",
+  "name": "PANGKE BARAT",
+  "postalCode": "29664"
  }
 ]

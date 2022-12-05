@@ -2,51 +2,71 @@
  {
   "id": 8204080011,
   "districtId": 8204080,
-  "name": "LEMO LEMO"
+  "districtName": "GANE BARAT",
+  "name": "LEMO LEMO",
+  "postalCode": "97782"
  },
  {
   "id": 8204080012,
   "districtId": 8204080,
-  "name": "PAPACEDA"
+  "districtName": "GANE BARAT",
+  "name": "PAPACEDA",
+  "postalCode": "97782"
  },
  {
   "id": 8204080013,
   "districtId": 8204080,
-  "name": "OHA"
+  "districtName": "GANE BARAT",
+  "name": "OHA",
+  "postalCode": "97782"
  },
  {
   "id": 8204080014,
   "districtId": 8204080,
-  "name": "BALITATA"
+  "districtName": "GANE BARAT",
+  "name": "BALITATA",
+  "postalCode": "97782"
  },
  {
   "id": 8204080015,
   "districtId": 8204080,
-  "name": "SAKETA"
+  "districtName": "GANE BARAT",
+  "name": "SAKETA",
+  "postalCode": "97782"
  },
  {
   "id": 8204080016,
   "districtId": 8204080,
-  "name": "CANGO"
+  "districtName": "GANE BARAT",
+  "name": "CANGO",
+  "postalCode": "97782"
  },
  {
   "id": 8204080017,
   "districtId": 8204080,
-  "name": "KOITITI"
+  "districtName": "GANE BARAT",
+  "name": "KOITITI",
+  "postalCode": "97782"
  },
  {
   "id": 8204080018,
   "districtId": 8204080,
-  "name": "DORO"
+  "districtName": "GANE BARAT",
+  "name": "DORO",
+  "postalCode": "51191"
  },
  {
   "id": 8204080034,
   "districtId": 8204080,
-  "name": "TABAMASA"
+  "districtName": "GANE BARAT",
+  "name": "TABAMASA",
+  "postalCode": "97782"
  },
  {
   "id": 8204080035,
   "districtId": 8204080,
-  "name": "BUMI RAHMAT"
+  "districtName": "GANE BARAT",
+  "name": "BUMI RAHMAT",
+  "postalCode": "97782"
  }
 ]

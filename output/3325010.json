@@ -2,76 +2,106 @@
  {
   "id": 3325010001,
   "districtId": 3325010,
-  "name": "SILURAH"
+  "districtName": "WONOTUNGGAL",
+  "name": "SILURAH",
+  "postalCode": "51253"
  },
  {
   "id": 3325010002,
   "districtId": 3325010,
-  "name": "SODONG"
+  "districtName": "WONOTUNGGAL",
+  "name": "SODONG",
+  "postalCode": "51253"
  },
  {
   "id": 3325010003,
   "districtId": 3325010,
-  "name": "GRINGGINGSARI"
+  "districtName": "WONOTUNGGAL",
+  "name": "GRINGGINGSARI",
+  "postalCode": "51253"
  },
  {
   "id": 3325010004,
   "districtId": 3325010,
-  "name": "KEDUNGMALANG"
+  "districtName": "WONOTUNGGAL",
+  "name": "KEDUNGMALANG",
+  "postalCode": "59463"
  },
  {
   "id": 3325010005,
   "districtId": 3325010,
-  "name": "SENDANG"
+  "districtName": "WONOTUNGGAL",
+  "name": "SENDANG",
+  "postalCode": "45283"
  },
  {
   "id": 3325010006,
   "districtId": 3325010,
-  "name": "WONOTUNGGAL"
+  "districtName": "WONOTUNGGAL",
+  "name": "WONOTUNGGAL",
+  "postalCode": "51253"
  },
  {
   "id": 3325010007,
   "districtId": 3325010,
-  "name": "BROKOH"
+  "districtName": "WONOTUNGGAL",
+  "name": "BROKOH",
+  "postalCode": "51253"
  },
  {
   "id": 3325010008,
   "districtId": 3325010,
-  "name": "WATES"
+  "districtName": "WONOTUNGGAL",
+  "name": "WATES",
+  "postalCode": "32273"
  },
  {
   "id": 3325010009,
   "districtId": 3325010,
-  "name": "BRAYO"
+  "districtName": "WONOTUNGGAL",
+  "name": "BRAYO",
+  "postalCode": "51253"
  },
  {
   "id": 3325010010,
   "districtId": 3325010,
-  "name": "KEMLIGI"
+  "districtName": "WONOTUNGGAL",
+  "name": "KEMLIGI",
+  "postalCode": "51253"
  },
  {
   "id": 3325010011,
   "districtId": 3325010,
-  "name": "SIGAYAM"
+  "districtName": "WONOTUNGGAL",
+  "name": "SIGAYAM",
+  "postalCode": "51253"
  },
  {
   "id": 3325010012,
   "districtId": 3325010,
-  "name": "KREYO"
+  "districtName": "WONOTUNGGAL",
+  "name": "KREYO",
+  "postalCode": "45156"
  },
  {
   "id": 3325010013,
   "districtId": 3325010,
-  "name": "SIWATU"
+  "districtName": "WONOTUNGGAL",
+  "name": "SIWATU",
+  "postalCode": "51253"
  },
  {
   "id": 3325010014,
   "districtId": 3325010,
-  "name": "DRINGO"
+  "districtName": "WONOTUNGGAL",
+  "name": "DRINGO",
+  "postalCode": "58256"
  },
  {
   "id": 3325010015,
   "districtId": 3325010,
-  "name": "PENANGKAN"
+  "districtName": "WONOTUNGGAL",
+  "name": "PENANGKAN",
+  "postalCode": "51253"
  }
 ]

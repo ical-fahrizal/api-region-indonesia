@@ -2,111 +2,155 @@
  {
   "id": 3305080001,
   "districtId": 3305080,
-  "name": "MIRITPETIKUSAN"
+  "districtName": "MIRIT",
+  "name": "MIRITPETIKUSAN",
+  "postalCode": "54395"
  },
  {
   "id": 3305080002,
   "districtId": 3305080,
-  "name": "TLOGODEPOK"
+  "districtName": "MIRIT",
+  "name": "TLOGODEPOK",
+  "postalCode": "54395"
  },
  {
   "id": 3305080003,
   "districtId": 3305080,
-  "name": "MIRIT"
+  "districtName": "MIRIT",
+  "name": "MIRIT",
+  "postalCode": "54395"
  },
  {
   "id": 3305080004,
   "districtId": 3305080,
-  "name": "TLOGOPRAGOTO"
+  "districtName": "MIRIT",
+  "name": "TLOGOPRAGOTO",
+  "postalCode": "54395"
  },
  {
   "id": 3305080005,
   "districtId": 3305080,
-  "name": "LEMBUPURWO"
+  "districtName": "MIRIT",
+  "name": "LEMBUPURWO",
+  "postalCode": "54395"
  },
  {
   "id": 3305080006,
   "districtId": 3305080,
-  "name": "WIROMARTAN"
+  "districtName": "MIRIT",
+  "name": "WIROMARTAN",
+  "postalCode": "54395"
  },
  {
   "id": 3305080007,
   "districtId": 3305080,
-  "name": "ROWO"
+  "districtName": "MIRIT",
+  "name": "ROWO",
+  "postalCode": "56281"
  },
  {
   "id": 3305080008,
   "districtId": 3305080,
-  "name": "SINGOYUDAN"
+  "districtName": "MIRIT",
+  "name": "SINGOYUDAN",
+  "postalCode": "54395"
  },
  {
   "id": 3305080009,
   "districtId": 3305080,
-  "name": "WERGONAYAN"
+  "districtName": "MIRIT",
+  "name": "WERGONAYAN",
+  "postalCode": "54395"
  },
  {
   "id": 3305080010,
   "districtId": 3305080,
-  "name": "SELOTUMPENG"
+  "districtName": "MIRIT",
+  "name": "SELOTUMPENG",
+  "postalCode": "54395"
  },
  {
   "id": 3305080011,
   "districtId": 3305080,
-  "name": "SITIBENTAR"
+  "districtName": "MIRIT",
+  "name": "SITIBENTAR",
+  "postalCode": "54395"
  },
  {
   "id": 3305080012,
   "districtId": 3305080,
-  "name": "KARANGGEDE"
+  "districtName": "MIRIT",
+  "name": "KARANGGEDE",
+  "postalCode": "54395"
  },
  {
   "id": 3305080013,
   "districtId": 3305080,
-  "name": "KERTODESO"
+  "districtName": "MIRIT",
+  "name": "KERTODESO",
+  "postalCode": "54395"
  },
  {
   "id": 3305080014,
   "districtId": 3305080,
-  "name": "PATUKREJOMULYO"
+  "districtName": "MIRIT",
+  "name": "PATUKREJOMULYO",
+  "postalCode": "54395"
  },
  {
   "id": 3305080015,
   "districtId": 3305080,
-  "name": "PATUKGAWEMULYO"
+  "districtName": "MIRIT",
+  "name": "PATUKGAWEMULYO",
+  "postalCode": "54395"
  },
  {
   "id": 3305080024,
   "districtId": 3305080,
-  "name": "MANGUNRANAN"
+  "districtName": "MIRIT",
+  "name": "MANGUNRANAN",
+  "postalCode": "54395"
  },
  {
   "id": 3305080025,
   "districtId": 3305080,
-  "name": "PEKUTAN"
+  "districtName": "MIRIT",
+  "name": "PEKUTAN",
+  "postalCode": "54224"
  },
  {
   "id": 3305080026,
   "districtId": 3305080,
-  "name": "WIROGATEN"
+  "districtName": "MIRIT",
+  "name": "WIROGATEN",
+  "postalCode": "54395"
  },
  {
   "id": 3305080027,
   "districtId": 3305080,
-  "name": "WINONG"
+  "districtName": "MIRIT",
+  "name": "WINONG",
+  "postalCode": "45161"
  },
  {
   "id": 3305080028,
   "districtId": 3305080,
-  "name": "NGABEAN"
+  "districtName": "MIRIT",
+  "name": "NGABEAN",
+  "postalCode": "51381"
  },
  {
   "id": 3305080032,
   "districtId": 3305080,
-  "name": "SARWOGADUNG"
+  "districtName": "MIRIT",
+  "name": "SARWOGADUNG",
+  "postalCode": "54395"
  },
  {
   "id": 3305080033,
   "districtId": 3305080,
-  "name": "KRUBUNGAN"
+  "districtName": "MIRIT",
+  "name": "KRUBUNGAN",
+  "postalCode": "54395"
  }
 ]

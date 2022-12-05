@@ -2,81 +2,113 @@
  {
   "id": 3327060001,
   "districtId": 3327060,
-  "name": "SUMURKIDANG"
+  "districtName": "BANTARBOLANG",
+  "name": "SUMURKIDANG",
+  "postalCode": "52352"
  },
  {
   "id": 3327060002,
   "districtId": 3327060,
-  "name": "WANARATA"
+  "districtName": "BANTARBOLANG",
+  "name": "WANARATA",
+  "postalCode": "52352"
  },
  {
   "id": 3327060003,
   "districtId": 3327060,
-  "name": "PEDAGUNG"
+  "districtName": "BANTARBOLANG",
+  "name": "PEDAGUNG",
+  "postalCode": "52352"
  },
  {
   "id": 3327060005,
   "districtId": 3327060,
-  "name": "BANJARSARI"
+  "districtName": "BANTARBOLANG",
+  "name": "BANJARSARI",
+  "postalCode": "35377"
  },
  {
   "id": 3327060006,
   "districtId": 3327060,
-  "name": "PEGIRINGAN"
+  "districtName": "BANTARBOLANG",
+  "name": "PEGIRINGAN",
+  "postalCode": "52352"
  },
  {
   "id": 3327060007,
   "districtId": 3327060,
-  "name": "KARANGANYAR"
+  "districtName": "BANTARBOLANG",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  },
  {
   "id": 3327060008,
   "districtId": 3327060,
-  "name": "PURANA"
+  "districtName": "BANTARBOLANG",
+  "name": "PURANA",
+  "postalCode": "52352"
  },
  {
   "id": 3327060009,
   "districtId": 3327060,
-  "name": "PABUARAN"
+  "districtName": "BANTARBOLANG",
+  "name": "PABUARAN",
+  "postalCode": "16921"
  },
  {
   "id": 3327060010,
   "districtId": 3327060,
-  "name": "SARWODADI"
+  "districtName": "BANTARBOLANG",
+  "name": "SARWODADI",
+  "postalCode": "52352"
  },
  {
   "id": 3327060011,
   "districtId": 3327060,
-  "name": "BANTARBOLANG"
+  "districtName": "BANTARBOLANG",
+  "name": "BANTARBOLANG",
+  "postalCode": "52352"
  },
  {
   "id": 3327060012,
   "districtId": 3327060,
-  "name": "SAMBENG"
+  "districtName": "BANTARBOLANG",
+  "name": "SAMBENG",
+  "postalCode": "45151"
  },
  {
   "id": 3327060013,
   "districtId": 3327060,
-  "name": "GLANDANG"
+  "districtName": "BANTARBOLANG",
+  "name": "GLANDANG",
+  "postalCode": "52352"
  },
  {
   "id": 3327060014,
   "districtId": 3327060,
-  "name": "KUTA"
+  "districtName": "BANTARBOLANG",
+  "name": "KUTA",
+  "postalCode": "16770"
  },
  {
   "id": 3327060015,
   "districtId": 3327060,
-  "name": "KEBON GEDE"
+  "districtName": "BANTARBOLANG",
+  "name": "KEBON GEDE",
+  "postalCode": "52352"
  },
  {
   "id": 3327060016,
   "districtId": 3327060,
-  "name": "PAGUYANGAN"
+  "districtName": "BANTARBOLANG",
+  "name": "PAGUYANGAN",
+  "postalCode": "52352"
  },
  {
   "id": 3327060017,
   "districtId": 3327060,
-  "name": "LENGGERONG"
+  "districtName": "BANTARBOLANG",
+  "name": "LENGGERONG",
+  "postalCode": "52352"
  }
 ]

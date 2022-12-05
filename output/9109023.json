@@ -2,26 +2,36 @@
  {
   "id": 9109023001,
   "districtId": 9109023,
-  "name": "TABAMSERE"
+  "districtName": "WILHEM ROUMBOUTS",
+  "name": "TABAMSERE",
+  "postalCode": "98473"
  },
  {
   "id": 9109023002,
   "districtId": 9109023,
-  "name": "SAYAM"
+  "districtName": "WILHEM ROUMBOUTS",
+  "name": "SAYAM",
+  "postalCode": ""
  },
  {
   "id": 9109023003,
   "districtId": 9109023,
-  "name": "ESYUOM"
+  "districtName": "WILHEM ROUMBOUTS",
+  "name": "ESYUOM",
+  "postalCode": ""
  },
  {
   "id": 9109023004,
   "districtId": 9109023,
-  "name": "ATAF/MAFAT"
+  "districtName": "WILHEM ROUMBOUTS",
+  "name": "ATAF/MAFAT",
+  "postalCode": ""
  },
  {
   "id": 9109023005,
   "districtId": 9109023,
-  "name": "SIAKWA"
+  "districtName": "WILHEM ROUMBOUTS",
+  "name": "SIAKWA",
+  "postalCode": "98473"
  }
 ]

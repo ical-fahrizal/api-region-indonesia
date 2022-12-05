@@ -2,61 +2,85 @@
  {
   "id": 3324010001,
   "districtId": 3324010,
-  "name": "BLUMAH"
+  "districtName": "PLANTUNGAN",
+  "name": "BLUMAH",
+  "postalCode": "51362"
  },
  {
   "id": 3324010002,
   "districtId": 3324010,
-  "name": "TLOGOPAYUNG"
+  "districtName": "PLANTUNGAN",
+  "name": "TLOGOPAYUNG",
+  "postalCode": "51362"
  },
  {
   "id": 3324010003,
   "districtId": 3324010,
-  "name": "KEDITEN"
+  "districtName": "PLANTUNGAN",
+  "name": "KEDITEN",
+  "postalCode": "51362"
  },
  {
   "id": 3324010004,
   "districtId": 3324010,
-  "name": "WONODADI"
+  "districtName": "PLANTUNGAN",
+  "name": "WONODADI",
+  "postalCode": "30959"
  },
  {
   "id": 3324010005,
   "districtId": 3324010,
-  "name": "MANGGUNGMANGU"
+  "districtName": "PLANTUNGAN",
+  "name": "MANGGUNGMANGU",
+  "postalCode": "51362"
  },
  {
   "id": 3324010006,
   "districtId": 3324010,
-  "name": "TIRTOMULYO"
+  "districtName": "PLANTUNGAN",
+  "name": "TIRTOMULYO",
+  "postalCode": "51362"
  },
  {
   "id": 3324010007,
   "districtId": 3324010,
-  "name": "JURANGAGUNG"
+  "districtName": "PLANTUNGAN",
+  "name": "JURANGAGUNG",
+  "postalCode": "51362"
  },
  {
   "id": 3324010008,
   "districtId": 3324010,
-  "name": "KARANGANYAR"
+  "districtName": "PLANTUNGAN",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  },
  {
   "id": 3324010009,
   "districtId": 3324010,
-  "name": "JATI"
+  "districtName": "PLANTUNGAN",
+  "name": "JATI",
+  "postalCode": "20152"
  },
  {
   "id": 3324010010,
   "districtId": 3324010,
-  "name": "BENDOSARI"
+  "districtName": "PLANTUNGAN",
+  "name": "BENDOSARI",
+  "postalCode": "57528"
  },
  {
   "id": 3324010011,
   "districtId": 3324010,
-  "name": "WADAS"
+  "districtName": "PLANTUNGAN",
+  "name": "WADAS",
+  "postalCode": "41361"
  },
  {
   "id": 3324010012,
   "districtId": 3324010,
-  "name": "MOJOAGUNG"
+  "districtName": "PLANTUNGAN",
+  "name": "MOJOAGUNG",
+  "postalCode": "58163"
  }
 ]

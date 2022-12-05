@@ -2,31 +2,43 @@
  {
   "id": 3572010002,
   "districtId": 3572010,
-  "name": "KARANGSARI"
+  "districtName": "SUKOREJO",
+  "name": "KARANGSARI",
+  "postalCode": "35376"
  },
  {
   "id": 3572010003,
   "districtId": 3572010,
-  "name": "TURI"
+  "districtName": "SUKOREJO",
+  "name": "TURI",
+  "postalCode": "63473"
  },
  {
   "id": 3572010004,
   "districtId": 3572010,
-  "name": "BLITAR"
+  "districtName": "SUKOREJO",
+  "name": "BLITAR",
+  "postalCode": "53482"
  },
  {
   "id": 3572010005,
   "districtId": 3572010,
-  "name": "SUKOREJO"
+  "districtName": "SUKOREJO",
+  "name": "SUKOREJO",
+  "postalCode": "31551"
  },
  {
   "id": 3572010006,
   "districtId": 3572010,
-  "name": "PAKUNDEN"
+  "districtName": "SUKOREJO",
+  "name": "PAKUNDEN",
+  "postalCode": "56485"
  },
  {
   "id": 3572010007,
   "districtId": 3572010,
-  "name": "TANJUNGSARI"
+  "districtName": "SUKOREJO",
+  "name": "TANJUNGSARI",
+  "postalCode": "28983"
  }
 ]

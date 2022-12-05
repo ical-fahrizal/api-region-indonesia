@@ -2,56 +2,78 @@
  {
   "id": 7102220001,
   "districtId": 7102220,
-  "name": "KALEOSAN"
+  "districtName": "LEMBEAN TIMUR",
+  "name": "KALEOSAN",
+  "postalCode": "95378"
  },
  {
   "id": 7102220002,
   "districtId": 7102220,
-  "name": "KAROR"
+  "districtName": "LEMBEAN TIMUR",
+  "name": "KAROR",
+  "postalCode": "95683"
  },
  {
   "id": 7102220003,
   "districtId": 7102220,
-  "name": "WATULANEY"
+  "districtName": "LEMBEAN TIMUR",
+  "name": "WATULANEY",
+  "postalCode": "95683"
  },
  {
   "id": 7102220004,
   "districtId": 7102220,
-  "name": "KAYUROYA"
+  "districtName": "LEMBEAN TIMUR",
+  "name": "KAYUROYA",
+  "postalCode": "95683"
  },
  {
   "id": 7102220005,
   "districtId": 7102220,
-  "name": "ATEP OKI"
+  "districtName": "LEMBEAN TIMUR",
+  "name": "ATEP OKI",
+  "postalCode": "95683"
  },
  {
   "id": 7102220006,
   "districtId": 7102220,
-  "name": "KAPATARAN"
+  "districtName": "LEMBEAN TIMUR",
+  "name": "KAPATARAN",
+  "postalCode": "95683"
  },
  {
   "id": 7102220007,
   "districtId": 7102220,
-  "name": "SERETAN"
+  "districtName": "LEMBEAN TIMUR",
+  "name": "SERETAN",
+  "postalCode": "95683"
  },
  {
   "id": 7102220008,
   "districtId": 7102220,
-  "name": "PARENTEK"
+  "districtName": "LEMBEAN TIMUR",
+  "name": "PARENTEK",
+  "postalCode": "95683"
  },
  {
   "id": 7102220009,
   "districtId": 7102220,
-  "name": "KAPATARAN SATU"
+  "districtName": "LEMBEAN TIMUR",
+  "name": "KAPATARAN SATU",
+  "postalCode": "95683"
  },
  {
   "id": 7102220010,
   "districtId": 7102220,
-  "name": "SERETAN TIMU"
+  "districtName": "LEMBEAN TIMUR",
+  "name": "SERETAN TIMU",
+  "postalCode": ""
  },
  {
   "id": 7102220011,
   "districtId": 7102220,
-  "name": "WATULANEY AMIAN"
+  "districtName": "LEMBEAN TIMUR",
+  "name": "WATULANEY AMIAN",
+  "postalCode": "95683"
  }
 ]

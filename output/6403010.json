@@ -2,116 +2,162 @@
  {
   "id": 6403010001,
   "districtId": 6403010,
-  "name": "SEI MERDEKA"
+  "districtName": "SEMBOJA",
+  "name": "SEI MERDEKA",
+  "postalCode": "21472"
  },
  {
   "id": 6403010002,
   "districtId": 6403010,
-  "name": "SALOK API DARAT"
+  "districtName": "SEMBOJA",
+  "name": "SALOK API DARAT",
+  "postalCode": "75271"
  },
  {
   "id": 6403010003,
   "districtId": 6403010,
-  "name": "TANI BAKTI"
+  "districtName": "SEMBOJA",
+  "name": "TANI BAKTI",
+  "postalCode": "75391"
  },
  {
   "id": 6403010004,
   "districtId": 6403010,
-  "name": "SALOK API LAUT"
+  "districtName": "SEMBOJA",
+  "name": "SALOK API LAUT",
+  "postalCode": "75271"
  },
  {
   "id": 6403010005,
   "districtId": 6403010,
-  "name": "AMBARAWANG DARAT"
+  "districtName": "SEMBOJA",
+  "name": "AMBARAWANG DARAT",
+  "postalCode": "75274"
  },
  {
   "id": 6403010006,
   "districtId": 6403010,
-  "name": "ARGOSARI"
+  "districtName": "SEMBOJA",
+  "name": "ARGOSARI",
+  "postalCode": "54473"
  },
  {
   "id": 6403010007,
   "districtId": 6403010,
-  "name": "AMBARAWANG LAUT"
+  "districtName": "SEMBOJA",
+  "name": "AMBARAWANG LAUT",
+  "postalCode": "75274"
  },
  {
   "id": 6403010008,
   "districtId": 6403010,
-  "name": "MARGOMULYO"
+  "districtName": "SEMBOJA",
+  "name": "MARGOMULYO",
+  "postalCode": "35679"
  },
  {
   "id": 6403010009,
   "districtId": 6403010,
-  "name": "KARYA JAYA"
+  "districtName": "SEMBOJA",
+  "name": "KARYA JAYA",
+  "postalCode": "20611"
  },
  {
   "id": 6403010010,
   "districtId": 6403010,
-  "name": "TANJUNG HARAPAN"
+  "districtName": "SEMBOJA",
+  "name": "TANJUNG HARAPAN",
+  "postalCode": "23754"
  },
  {
   "id": 6403010011,
   "districtId": 6403010,
-  "name": "WONOTIRTO"
+  "districtName": "SEMBOJA",
+  "name": "WONOTIRTO",
+  "postalCode": "56253"
  },
  {
   "id": 6403010012,
   "districtId": 6403010,
-  "name": "SUNGAI SELUANG"
+  "districtName": "SEMBOJA",
+  "name": "SUNGAI SELUANG",
+  "postalCode": ""
  },
  {
   "id": 6403010013,
   "districtId": 6403010,
-  "name": "BUKIT RAYA"
+  "districtName": "SEMBOJA",
+  "name": "BUKIT RAYA",
+  "postalCode": "29563"
  },
  {
   "id": 6403010014,
   "districtId": 6403010,
-  "name": "BERINGIN AGUNG"
+  "districtName": "SEMBOJA",
+  "name": "BERINGIN AGUNG",
+  "postalCode": "30975"
  },
  {
   "id": 6403010015,
   "districtId": 6403010,
-  "name": "SAMBOJA KUALA"
+  "districtName": "SEMBOJA",
+  "name": "SAMBOJA KUALA",
+  "postalCode": "75277"
  },
  {
   "id": 6403010016,
   "districtId": 6403010,
-  "name": "SANIPAH"
+  "districtName": "SEMBOJA",
+  "name": "SANIPAH",
+  "postalCode": "75271"
  },
  {
   "id": 6403010017,
   "districtId": 6403010,
-  "name": "HANDIL BARU"
+  "districtName": "SEMBOJA",
+  "name": "HANDIL BARU",
+  "postalCode": "70655"
  },
  {
   "id": 6403010018,
   "districtId": 6403010,
-  "name": "MUARA SEMBILANG"
+  "districtName": "SEMBOJA",
+  "name": "MUARA SEMBILANG",
+  "postalCode": "75279"
  },
  {
   "id": 6403010019,
   "districtId": 6403010,
-  "name": "BUKIT MERDEKA"
+  "districtName": "SEMBOJA",
+  "name": "BUKIT MERDEKA",
+  "postalCode": "24673"
  },
  {
   "id": 6403010020,
   "districtId": 6403010,
-  "name": "KARYA MERDEKA"
+  "districtName": "SEMBOJA",
+  "name": "KARYA MERDEKA",
+  "postalCode": "75271"
  },
  {
   "id": 6403010021,
   "districtId": 6403010,
-  "name": "TELUK PEMEDAS"
+  "districtName": "SEMBOJA",
+  "name": "TELUK PEMEDAS",
+  "postalCode": "75271"
  },
  {
   "id": 6403010022,
   "districtId": 6403010,
-  "name": "KAMPUNG LAMA"
+  "districtName": "SEMBOJA",
+  "name": "KAMPUNG LAMA",
+  "postalCode": "20859"
  },
  {
   "id": 6403010023,
   "districtId": 6403010,
-  "name": "HANDIL BARU DARAT"
+  "districtName": "SEMBOJA",
+  "name": "HANDIL BARU DARAT",
+  "postalCode": "75276"
  }
 ]

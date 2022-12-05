@@ -2,56 +2,78 @@
  {
   "id": 7403091001,
   "districtId": 7403091,
-  "name": "BATU GONG"
+  "districtName": "LALONGGASUMEETO",
+  "name": "BATU GONG",
+  "postalCode": ""
  },
  {
   "id": 7403091002,
   "districtId": 7403091,
-  "name": "WATUNGGARANDU"
+  "districtName": "LALONGGASUMEETO",
+  "name": "WATUNGGARANDU",
+  "postalCode": "93351"
  },
  {
   "id": 7403091003,
   "districtId": 7403091,
-  "name": "TOOLA  WAWO"
+  "districtName": "LALONGGASUMEETO",
+  "name": "TOOLA  WAWO",
+  "postalCode": ""
  },
  {
   "id": 7403091004,
   "districtId": 7403091,
-  "name": "LALONGGASUMEETO"
+  "districtName": "LALONGGASUMEETO",
+  "name": "LALONGGASUMEETO",
+  "postalCode": ""
  },
  {
   "id": 7403091005,
   "districtId": 7403091,
-  "name": "BUMI INDAH"
+  "districtName": "LALONGGASUMEETO",
+  "name": "BUMI INDAH",
+  "postalCode": "93351"
  },
  {
   "id": 7403091006,
   "districtId": 7403091,
-  "name": "PUUWONUA"
+  "districtName": "LALONGGASUMEETO",
+  "name": "PUUWONUA",
+  "postalCode": "93353"
  },
  {
   "id": 7403091007,
   "districtId": 7403091,
-  "name": "LALOMBODA"
+  "districtName": "LALONGGASUMEETO",
+  "name": "LALOMBODA",
+  "postalCode": ""
  },
  {
   "id": 7403091008,
   "districtId": 7403091,
-  "name": "RAPAMBINOPAKA"
+  "districtName": "LALONGGASUMEETO",
+  "name": "RAPAMBINOPAKA",
+  "postalCode": "93351"
  },
  {
   "id": 7403091009,
   "districtId": 7403091,
-  "name": "NII TANASA"
+  "districtName": "LALONGGASUMEETO",
+  "name": "NII TANASA",
+  "postalCode": "93351"
  },
  {
   "id": 7403091010,
   "districtId": 7403091,
-  "name": "TOLI-TOLI"
+  "districtName": "LALONGGASUMEETO",
+  "name": "TOLI-TOLI",
+  "postalCode": "93783"
  },
  {
   "id": 7403091011,
   "districtId": 7403091,
-  "name": "WAWOBUNGI"
+  "districtName": "LALONGGASUMEETO",
+  "name": "WAWOBUNGI",
+  "postalCode": "93351"
  }
 ]

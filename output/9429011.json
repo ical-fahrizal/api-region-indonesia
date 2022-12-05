@@ -2,41 +2,57 @@
  {
   "id": 9429011001,
   "districtId": 9429011,
-  "name": "GUNIA"
+  "districtName": "MOBA",
+  "name": "GUNIA",
+  "postalCode": ""
  },
  {
   "id": 9429011002,
   "districtId": 9429011,
-  "name": "KWEGONO"
+  "districtName": "MOBA",
+  "name": "KWEGONO",
+  "postalCode": "99565"
  },
  {
   "id": 9429011003,
   "districtId": 9429011,
-  "name": "YERETMA"
+  "districtName": "MOBA",
+  "name": "YERETMA",
+  "postalCode": "99565"
  },
  {
   "id": 9429011004,
   "districtId": 9429011,
-  "name": "ANGGULPA"
+  "districtName": "MOBA",
+  "name": "ANGGULPA",
+  "postalCode": "99565"
  },
  {
   "id": 9429011005,
   "districtId": 9429011,
-  "name": "MOBA DUA"
+  "districtName": "MOBA",
+  "name": "MOBA DUA",
+  "postalCode": "99565"
  },
  {
   "id": 9429011006,
   "districtId": 9429011,
-  "name": "LANGPANG"
+  "districtName": "MOBA",
+  "name": "LANGPANG",
+  "postalCode": "99565"
  },
  {
   "id": 9429011007,
   "districtId": 9429011,
-  "name": "PIJAMA"
+  "districtName": "MOBA",
+  "name": "PIJAMA",
+  "postalCode": "99565"
  },
  {
   "id": 9429011008,
   "districtId": 9429011,
-  "name": "MOBA"
+  "districtName": "MOBA",
+  "name": "MOBA",
+  "postalCode": "99565"
  }
 ]

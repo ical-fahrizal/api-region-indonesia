@@ -2,136 +2,190 @@
  {
   "id": 1118060001,
   "districtId": 1118060,
-  "name": "PANTON RAYA"
+  "districtName": "TRIENGGADENG",
+  "name": "PANTON RAYA",
+  "postalCode": "23764"
  },
  {
   "id": 1118060002,
   "districtId": 1118060,
-  "name": "PEULANDOK TUNONG"
+  "districtName": "TRIENGGADENG",
+  "name": "PEULANDOK TUNONG",
+  "postalCode": "24185"
  },
  {
   "id": 1118060003,
   "districtId": 1118060,
-  "name": "PEULANDOK TEUNGOH"
+  "districtName": "TRIENGGADENG",
+  "name": "PEULANDOK TEUNGOH",
+  "postalCode": "24185"
  },
  {
   "id": 1118060004,
   "districtId": 1118060,
-  "name": "BULOH"
+  "districtName": "TRIENGGADENG",
+  "name": "BULOH",
+  "postalCode": "24162"
  },
  {
   "id": 1118060005,
   "districtId": 1118060,
-  "name": "DAYAH UJONG BAROH"
+  "districtName": "TRIENGGADENG",
+  "name": "DAYAH UJONG BAROH",
+  "postalCode": "24185"
  },
  {
   "id": 1118060006,
   "districtId": 1118060,
-  "name": "MATANG"
+  "districtName": "TRIENGGADENG",
+  "name": "MATANG",
+  "postalCode": "24457"
  },
  {
   "id": 1118060007,
   "districtId": 1118060,
-  "name": "DEE"
+  "districtName": "TRIENGGADENG",
+  "name": "DEE",
+  "postalCode": ""
  },
  {
   "id": 1118060008,
   "districtId": 1118060,
-  "name": "DEAH TEUMANAH"
+  "districtName": "TRIENGGADENG",
+  "name": "DEAH TEUMANAH",
+  "postalCode": ""
  },
  {
   "id": 1118060009,
   "districtId": 1118060,
-  "name": "TAMPUI"
+  "districtName": "TRIENGGADENG",
+  "name": "TAMPUI",
+  "postalCode": "24185"
  },
  {
   "id": 1118060010,
   "districtId": 1118060,
-  "name": "REUSEB"
+  "districtName": "TRIENGGADENG",
+  "name": "REUSEB",
+  "postalCode": "24185"
  },
  {
   "id": 1118060011,
   "districtId": 1118060,
-  "name": "MESJID PEUDEUEK BAROH"
+  "districtName": "TRIENGGADENG",
+  "name": "MESJID PEUDEUEK BAROH",
+  "postalCode": ""
  },
  {
   "id": 1118060012,
   "districtId": 1118060,
-  "name": "TUHA"
+  "districtName": "TRIENGGADENG",
+  "name": "TUHA",
+  "postalCode": "24152"
  },
  {
   "id": 1118060013,
   "districtId": 1118060,
-  "name": "PAYA"
+  "districtName": "TRIENGGADENG",
+  "name": "PAYA",
+  "postalCode": "24152"
  },
  {
   "id": 1118060014,
   "districtId": 1118060,
-  "name": "MESJID TRIENGGADENG"
+  "districtName": "TRIENGGADENG",
+  "name": "MESJID TRIENGGADENG",
+  "postalCode": "24185"
  },
  {
   "id": 1118060015,
   "districtId": 1118060,
-  "name": "TUENG KLUET"
+  "districtName": "TRIENGGADENG",
+  "name": "TUENG KLUET",
+  "postalCode": ""
  },
  {
   "id": 1118060016,
   "districtId": 1118060,
-  "name": "MEE PANGWA"
+  "districtName": "TRIENGGADENG",
+  "name": "MEE PANGWA",
+  "postalCode": ""
  },
  {
   "id": 1118060017,
   "districtId": 1118060,
-  "name": "RAWASARI"
+  "districtName": "TRIENGGADENG",
+  "name": "RAWASARI",
+  "postalCode": "24185"
  },
  {
   "id": 1118060018,
   "districtId": 1118060,
-  "name": "COT MAKASO"
+  "districtName": "TRIENGGADENG",
+  "name": "COT MAKASO",
+  "postalCode": "24185"
  },
  {
   "id": 1118060019,
   "districtId": 1118060,
-  "name": "KUTA"
+  "districtName": "TRIENGGADENG",
+  "name": "KUTA",
+  "postalCode": "16770"
  },
  {
   "id": 1118060020,
   "districtId": 1118060,
-  "name": "MEUCAT"
+  "districtName": "TRIENGGADENG",
+  "name": "MEUCAT",
+  "postalCode": "24152"
  },
  {
   "id": 1118060021,
   "districtId": 1118060,
-  "name": "DEAH PANGWA"
+  "districtName": "TRIENGGADENG",
+  "name": "DEAH PANGWA",
+  "postalCode": ""
  },
  {
   "id": 1118060022,
   "districtId": 1118060,
-  "name": "COT LHEUE RHEUNG"
+  "districtName": "TRIENGGADENG",
+  "name": "COT LHEUE RHEUNG",
+  "postalCode": ""
  },
  {
   "id": 1118060023,
   "districtId": 1118060,
-  "name": "MEUE"
+  "districtName": "TRIENGGADENG",
+  "name": "MEUE",
+  "postalCode": "24185"
  },
  {
   "id": 1118060024,
   "districtId": 1118060,
-  "name": "KEUDE"
+  "districtName": "TRIENGGADENG",
+  "name": "KEUDE",
+  "postalCode": ""
  },
  {
   "id": 1118060025,
   "districtId": 1118060,
-  "name": "RAYA"
+  "districtName": "TRIENGGADENG",
+  "name": "RAYA",
+  "postalCode": "24162"
  },
  {
   "id": 1118060026,
   "districtId": 1118060,
-  "name": "MEE PEUDUEK"
+  "districtName": "TRIENGGADENG",
+  "name": "MEE PEUDUEK",
+  "postalCode": ""
  },
  {
   "id": 1118060027,
   "districtId": 1118060,
-  "name": "SAGOE"
+  "districtName": "TRIENGGADENG",
+  "name": "SAGOE",
+  "postalCode": "24184"
  }
 ]

@@ -2,26 +2,36 @@
  {
   "id": 1404012001,
   "districtId": 1404012,
-  "name": "SIMPANG BERINGIN"
+  "districtName": "BANDAR SEIKIJANG",
+  "name": "SIMPANG BERINGIN",
+  "postalCode": "28383"
  },
  {
   "id": 1404012002,
   "districtId": 1404012,
-  "name": "SEKIJANG"
+  "districtName": "BANDAR SEIKIJANG",
+  "name": "SEKIJANG",
+  "postalCode": ""
  },
  {
   "id": 1404012003,
   "districtId": 1404012,
-  "name": "LUBUK OGUNG"
+  "districtName": "BANDAR SEIKIJANG",
+  "name": "LUBUK OGUNG",
+  "postalCode": "28383"
  },
  {
   "id": 1404012004,
   "districtId": 1404012,
-  "name": "MUDA SETIA"
+  "districtName": "BANDAR SEIKIJANG",
+  "name": "MUDA SETIA",
+  "postalCode": "28383"
  },
  {
   "id": 1404012005,
   "districtId": 1404012,
-  "name": "KIYAP JAYA"
+  "districtName": "BANDAR SEIKIJANG",
+  "name": "KIYAP JAYA",
+  "postalCode": ""
  }
 ]

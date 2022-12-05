@@ -2,56 +2,78 @@
  {
   "id": 3573050001,
   "districtId": 3573050,
-  "name": "MERJOSARI"
+  "districtName": "LOWOKWARU",
+  "name": "MERJOSARI",
+  "postalCode": "65144"
  },
  {
   "id": 3573050002,
   "districtId": 3573050,
-  "name": "DINOYO"
+  "districtName": "LOWOKWARU",
+  "name": "DINOYO",
+  "postalCode": "62291"
  },
  {
   "id": 3573050003,
   "districtId": 3573050,
-  "name": "SUMBERSARI"
+  "districtName": "LOWOKWARU",
+  "name": "SUMBERSARI",
+  "postalCode": "34122"
  },
  {
   "id": 3573050004,
   "districtId": 3573050,
-  "name": "KETAWANGGEDE"
+  "districtName": "LOWOKWARU",
+  "name": "KETAWANGGEDE",
+  "postalCode": "65145"
  },
  {
   "id": 3573050005,
   "districtId": 3573050,
-  "name": "JATIMULYO"
+  "districtName": "LOWOKWARU",
+  "name": "JATIMULYO",
+  "postalCode": "35365"
  },
  {
   "id": 3573050006,
   "districtId": 3573050,
-  "name": "LOWOKWARU"
+  "districtName": "LOWOKWARU",
+  "name": "LOWOKWARU",
+  "postalCode": "65141"
  },
  {
   "id": 3573050007,
   "districtId": 3573050,
-  "name": "TULUSREJO"
+  "districtName": "LOWOKWARU",
+  "name": "TULUSREJO",
+  "postalCode": "54265"
  },
  {
   "id": 3573050008,
   "districtId": 3573050,
-  "name": "MOJOLANGU"
+  "districtName": "LOWOKWARU",
+  "name": "MOJOLANGU",
+  "postalCode": "65142"
  },
  {
   "id": 3573050009,
   "districtId": 3573050,
-  "name": "TUNJUNGSEKAR"
+  "districtName": "LOWOKWARU",
+  "name": "TUNJUNGSEKAR",
+  "postalCode": "65142"
  },
  {
   "id": 3573050010,
   "districtId": 3573050,
-  "name": "TASIKMADU"
+  "districtName": "LOWOKWARU",
+  "name": "TASIKMADU",
+  "postalCode": "54263"
  },
  {
   "id": 3573050012,
   "districtId": 3573050,
-  "name": "TLOGOMAS"
+  "districtName": "LOWOKWARU",
+  "name": "TLOGOMAS",
+  "postalCode": "65144"
  }
 ]

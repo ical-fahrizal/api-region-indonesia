@@ -2,46 +2,64 @@
  {
   "id": 7312020002,
   "districtId": 7312020,
-  "name": "LALABATA RILAU"
+  "districtName": "LALABATA",
+  "name": "LALABATA RILAU",
+  "postalCode": "90812"
  },
  {
   "id": 7312020003,
   "districtId": 7312020,
-  "name": "BOTTO"
+  "districtName": "LALABATA",
+  "name": "BOTTO",
+  "postalCode": "90811"
  },
  {
   "id": 7312020004,
   "districtId": 7312020,
-  "name": "LEMBA"
+  "districtName": "LALABATA",
+  "name": "LEMBA",
+  "postalCode": "90811"
  },
  {
   "id": 7312020005,
   "districtId": 7312020,
-  "name": "BILA"
+  "districtName": "LALABATA",
+  "name": "BILA",
+  "postalCode": "81172"
  },
  {
   "id": 7312020006,
   "districtId": 7312020,
-  "name": "MATTABULU"
+  "districtName": "LALABATA",
+  "name": "MATTABULU",
+  "postalCode": "90811"
  },
  {
   "id": 7312020007,
   "districtId": 7312020,
-  "name": "OMPO"
+  "districtName": "LALABATA",
+  "name": "OMPO",
+  "postalCode": "90813"
  },
  {
   "id": 7312020008,
   "districtId": 7312020,
-  "name": "LAPAJUNG"
+  "districtName": "LALABATA",
+  "name": "LAPAJUNG",
+  "postalCode": "90811"
  },
  {
   "id": 7312020009,
   "districtId": 7312020,
-  "name": "MACCILE"
+  "districtName": "LALABATA",
+  "name": "MACCILE",
+  "postalCode": "90814"
  },
  {
   "id": 7312020010,
   "districtId": 7312020,
-  "name": "SALO KARAJA"
+  "districtName": "LALABATA",
+  "name": "SALO KARAJA",
+  "postalCode": "90814"
  }
 ]

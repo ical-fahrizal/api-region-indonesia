@@ -2,61 +2,85 @@
  {
   "id": 5312011001,
   "districtId": 5312011,
-  "name": "DARIWALI"
+  "districtName": "JEREBUU",
+  "name": "DARIWALI",
+  "postalCode": "86452"
  },
  {
   "id": 5312011002,
   "districtId": 5312011,
-  "name": "NARUWOLO"
+  "districtName": "JEREBUU",
+  "name": "NARUWOLO",
+  "postalCode": "86452"
  },
  {
   "id": 5312011003,
   "districtId": 5312011,
-  "name": "TIWORIWU"
+  "districtName": "JEREBUU",
+  "name": "TIWORIWU",
+  "postalCode": "86452"
  },
  {
   "id": 5312011004,
   "districtId": 5312011,
-  "name": "WATUMANU"
+  "districtName": "JEREBUU",
+  "name": "WATUMANU",
+  "postalCode": "86452"
  },
  {
   "id": 5312011005,
   "districtId": 5312011,
-  "name": "NENOWEA"
+  "districtName": "JEREBUU",
+  "name": "NENOWEA",
+  "postalCode": "86452"
  },
  {
   "id": 5312011007,
   "districtId": 5312011,
-  "name": "NARUWOLO I"
+  "districtName": "JEREBUU",
+  "name": "NARUWOLO I",
+  "postalCode": "86452"
  },
  {
   "id": 5312011008,
   "districtId": 5312011,
-  "name": "NARUWOLO II"
+  "districtName": "JEREBUU",
+  "name": "NARUWOLO II",
+  "postalCode": "86452"
  },
  {
   "id": 5312011009,
   "districtId": 5312011,
-  "name": "DARIWALI I"
+  "districtName": "JEREBUU",
+  "name": "DARIWALI I",
+  "postalCode": ""
  },
  {
   "id": 5312011010,
   "districtId": 5312011,
-  "name": "NIO LEWA"
+  "districtName": "JEREBUU",
+  "name": "NIO LEWA",
+  "postalCode": "86452"
  },
  {
   "id": 5312011011,
   "districtId": 5312011,
-  "name": "TIWORIWU I"
+  "districtName": "JEREBUU",
+  "name": "TIWORIWU I",
+  "postalCode": "86452"
  },
  {
   "id": 5312011012,
   "districtId": 5312011,
-  "name": "TIWORIWU II"
+  "districtName": "JEREBUU",
+  "name": "TIWORIWU II",
+  "postalCode": "86452"
  },
  {
   "id": 5312011013,
   "districtId": 5312011,
-  "name": "BATAJAWA"
+  "districtName": "JEREBUU",
+  "name": "BATAJAWA",
+  "postalCode": "86452"
  }
 ]

@@ -2,56 +2,78 @@
  {
   "id": 9408050008,
   "districtId": 9408050,
-  "name": "WADAPI"
+  "districtName": "ANGKAISERA",
+  "name": "WADAPI",
+  "postalCode": "98255"
  },
  {
   "id": 9408050009,
   "districtId": 9408050,
-  "name": "WAWUTI"
+  "districtName": "ANGKAISERA",
+  "name": "WAWUTI",
+  "postalCode": "98255"
  },
  {
   "id": 9408050010,
   "districtId": 9408050,
-  "name": "KAINUI I"
+  "districtName": "ANGKAISERA",
+  "name": "KAINUI I",
+  "postalCode": "98255"
  },
  {
   "id": 9408050011,
   "districtId": 9408050,
-  "name": "KAINUI II"
+  "districtName": "ANGKAISERA",
+  "name": "KAINUI II",
+  "postalCode": "98255"
  },
  {
   "id": 9408050012,
   "districtId": 9408050,
-  "name": "RANSARNONI"
+  "districtName": "ANGKAISERA",
+  "name": "RANSARNONI",
+  "postalCode": ""
  },
  {
   "id": 9408050013,
   "districtId": 9408050,
-  "name": "AITIRI"
+  "districtName": "ANGKAISERA",
+  "name": "AITIRI",
+  "postalCode": "98255"
  },
  {
   "id": 9408050014,
   "districtId": 9408050,
-  "name": "MENAWI"
+  "districtName": "ANGKAISERA",
+  "name": "MENAWI",
+  "postalCode": "98255"
  },
  {
   "id": 9408050015,
   "districtId": 9408050,
-  "name": "ROIPI"
+  "districtName": "ANGKAISERA",
+  "name": "ROIPI",
+  "postalCode": "98255"
  },
  {
   "id": 9408050024,
   "districtId": 9408050,
-  "name": "WANAMPOMPI"
+  "districtName": "ANGKAISERA",
+  "name": "WANAMPOMPI",
+  "postalCode": "98255"
  },
  {
   "id": 9408050025,
   "districtId": 9408050,
-  "name": "ROIPI II"
+  "districtName": "ANGKAISERA",
+  "name": "ROIPI II",
+  "postalCode": ""
  },
  {
   "id": 9408050026,
   "districtId": 9408050,
-  "name": "MANANAYAM"
+  "districtName": "ANGKAISERA",
+  "name": "MANANAYAM",
+  "postalCode": "98255"
  }
 ]

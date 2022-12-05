@@ -2,86 +2,120 @@
  {
   "id": 3303050001,
   "districtId": 3303050,
-  "name": "LAMONGAN"
+  "districtName": "KALIGONDANG",
+  "name": "LAMONGAN",
+  "postalCode": "53391"
  },
  {
   "id": 3303050002,
   "districtId": 3303050,
-  "name": "TEJASARI"
+  "districtName": "KALIGONDANG",
+  "name": "TEJASARI",
+  "postalCode": "53391"
  },
  {
   "id": 3303050003,
   "districtId": 3303050,
-  "name": "CILAPAR"
+  "districtName": "KALIGONDANG",
+  "name": "CILAPAR",
+  "postalCode": "53391"
  },
  {
   "id": 3303050004,
   "districtId": 3303050,
-  "name": "PENOLIH"
+  "districtName": "KALIGONDANG",
+  "name": "PENOLIH",
+  "postalCode": "53391"
  },
  {
   "id": 3303050005,
   "districtId": 3303050,
-  "name": "SINDURAJA"
+  "districtName": "KALIGONDANG",
+  "name": "SINDURAJA",
+  "postalCode": "53391"
  },
  {
   "id": 3303050006,
   "districtId": 3303050,
-  "name": "SELAKAMBANG"
+  "districtName": "KALIGONDANG",
+  "name": "SELAKAMBANG",
+  "postalCode": "53391"
  },
  {
   "id": 3303050007,
   "districtId": 3303050,
-  "name": "SELANEGARA"
+  "districtName": "KALIGONDANG",
+  "name": "SELANEGARA",
+  "postalCode": "53391"
  },
  {
   "id": 3303050008,
   "districtId": 3303050,
-  "name": "KALIGONDANG"
+  "districtName": "KALIGONDANG",
+  "name": "KALIGONDANG",
+  "postalCode": "53391"
  },
  {
   "id": 3303050010,
   "districtId": 3303050,
-  "name": "SEMPOR LOR"
+  "districtName": "KALIGONDANG",
+  "name": "SEMPOR LOR",
+  "postalCode": "53391"
  },
  {
   "id": 3303050011,
   "districtId": 3303050,
-  "name": "PENARUBAN"
+  "districtName": "KALIGONDANG",
+  "name": "PENARUBAN",
+  "postalCode": "53382"
  },
  {
   "id": 3303050012,
   "districtId": 3303050,
-  "name": "KALIKAJAR"
+  "districtName": "KALIGONDANG",
+  "name": "KALIKAJAR",
+  "postalCode": "53391"
  },
  {
   "id": 3303050013,
   "districtId": 3303050,
-  "name": "KEMBARAN WETAN"
+  "districtName": "KALIGONDANG",
+  "name": "KEMBARAN WETAN",
+  "postalCode": "53391"
  },
  {
   "id": 3303050014,
   "districtId": 3303050,
-  "name": "SLINGA"
+  "districtName": "KALIGONDANG",
+  "name": "SLINGA",
+  "postalCode": "53391"
  },
  {
   "id": 3303050015,
   "districtId": 3303050,
-  "name": "ARENAN"
+  "districtName": "KALIGONDANG",
+  "name": "ARENAN",
+  "postalCode": "53391"
  },
  {
   "id": 3303050016,
   "districtId": 3303050,
-  "name": "SIDANEGARA"
+  "districtName": "KALIGONDANG",
+  "name": "SIDANEGARA",
+  "postalCode": "53223"
  },
  {
   "id": 3303050017,
   "districtId": 3303050,
-  "name": "PAGERANDONG"
+  "districtName": "KALIGONDANG",
+  "name": "PAGERANDONG",
+  "postalCode": "53391"
  },
  {
   "id": 3303050018,
   "districtId": 3303050,
-  "name": "SIDAREJA"
+  "districtName": "KALIGONDANG",
+  "name": "SIDAREJA",
+  "postalCode": "54392"
  }
 ]

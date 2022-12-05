@@ -2,46 +2,64 @@
  {
   "id": 3528130001,
   "districtId": 3528130,
-  "name": "SANA TENGAH"
+  "districtName": "PASEAN",
+  "name": "SANA TENGAH",
+  "postalCode": "69356"
  },
  {
   "id": 3528130002,
   "districtId": 3528130,
-  "name": "SANA DAJA"
+  "districtName": "PASEAN",
+  "name": "SANA DAJA",
+  "postalCode": "69356"
  },
  {
   "id": 3528130003,
   "districtId": 3528130,
-  "name": "DEMPO BARAT"
+  "districtName": "PASEAN",
+  "name": "DEMPO BARAT",
+  "postalCode": "69356"
  },
  {
   "id": 3528130004,
   "districtId": 3528130,
-  "name": "DEMPO TIMUR"
+  "districtName": "PASEAN",
+  "name": "DEMPO TIMUR",
+  "postalCode": "69356"
  },
  {
   "id": 3528130005,
   "districtId": 3528130,
-  "name": "BINDANG"
+  "districtName": "PASEAN",
+  "name": "BINDANG",
+  "postalCode": "69356"
  },
  {
   "id": 3528130006,
   "districtId": 3528130,
-  "name": "BATUKERBUY"
+  "districtName": "PASEAN",
+  "name": "BATUKERBUY",
+  "postalCode": "69356"
  },
  {
   "id": 3528130007,
   "districtId": 3528130,
-  "name": "TLONTORAJA"
+  "districtName": "PASEAN",
+  "name": "TLONTORAJA",
+  "postalCode": "69356"
  },
  {
   "id": 3528130008,
   "districtId": 3528130,
-  "name": "TAGANGSER DAJA"
+  "districtName": "PASEAN",
+  "name": "TAGANGSER DAJA",
+  "postalCode": ""
  },
  {
   "id": 3528130009,
   "districtId": 3528130,
-  "name": "SOTABAR"
+  "districtName": "PASEAN",
+  "name": "SOTABAR",
+  "postalCode": ""
  }
 ]

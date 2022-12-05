@@ -2,26 +2,36 @@
  {
   "id": 8103100001,
   "districtId": 8103100,
-  "name": "SULI"
+  "districtName": "SALAHUTU",
+  "name": "SULI",
+  "postalCode": "94473"
  },
  {
   "id": 8103100002,
   "districtId": 8103100,
-  "name": "TIAL"
+  "districtName": "SALAHUTU",
+  "name": "TIAL",
+  "postalCode": "97582"
  },
  {
   "id": 8103100003,
   "districtId": 8103100,
-  "name": "TENGAH-TENGAH"
+  "districtName": "SALAHUTU",
+  "name": "TENGAH-TENGAH",
+  "postalCode": "97582"
  },
  {
   "id": 8103100005,
   "districtId": 8103100,
-  "name": "WAAI"
+  "districtName": "SALAHUTU",
+  "name": "WAAI",
+  "postalCode": "97582"
  },
  {
   "id": 8103100006,
   "districtId": 8103100,
-  "name": "LIANG"
+  "districtName": "SALAHUTU",
+  "name": "LIANG",
+  "postalCode": "77457"
  }
 ]

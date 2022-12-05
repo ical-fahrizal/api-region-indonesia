@@ -2,36 +2,50 @@
  {
   "id": 3279010001,
   "districtId": 3279010,
-  "name": "SITUBATU"
+  "districtName": "BANJAR",
+  "name": "SITUBATU",
+  "postalCode": "46314"
  },
  {
   "id": 3279010002,
   "districtId": 3279010,
-  "name": "NEGLASARI"
+  "districtName": "BANJAR",
+  "name": "NEGLASARI",
+  "postalCode": "35452"
  },
  {
   "id": 3279010003,
   "districtId": 3279010,
-  "name": "CIBEUREUM"
+  "districtName": "BANJAR",
+  "name": "CIBEUREUM",
+  "postalCode": "46313"
  },
  {
   "id": 3279010004,
   "districtId": 3279010,
-  "name": "BALOKANG"
+  "districtName": "BANJAR",
+  "name": "BALOKANG",
+  "postalCode": "46312"
  },
  {
   "id": 3279010005,
   "districtId": 3279010,
-  "name": "BANJAR"
+  "districtName": "BANJAR",
+  "name": "BANJAR",
+  "postalCode": "21263"
  },
  {
   "id": 3279010006,
   "districtId": 3279010,
-  "name": "MEKARSARI"
+  "districtName": "BANJAR",
+  "name": "MEKARSARI",
+  "postalCode": "37482"
  },
  {
   "id": 3279010007,
   "districtId": 3279010,
-  "name": "JAJAWAR"
+  "districtName": "BANJAR",
+  "name": "JAJAWAR",
+  "postalCode": "46317"
  }
 ]

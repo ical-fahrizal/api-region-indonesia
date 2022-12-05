@@ -2,41 +2,57 @@
  {
   "id": 3603141001,
   "districtId": 3603141,
-  "name": "KANDA WATI"
+  "districtName": "GUNUNG KALER",
+  "name": "KANDA WATI",
+  "postalCode": "15620"
  },
  {
   "id": 3603141002,
   "districtId": 3603141,
-  "name": "CIBETOK"
+  "districtName": "GUNUNG KALER",
+  "name": "CIBETOK",
+  "postalCode": "15620"
  },
  {
   "id": 3603141003,
   "districtId": 3603141,
-  "name": "TAMIANG"
+  "districtName": "GUNUNG KALER",
+  "name": "TAMIANG",
+  "postalCode": "22742"
  },
  {
   "id": 3603141004,
   "districtId": 3603141,
-  "name": "CIPAEH"
+  "districtName": "GUNUNG KALER",
+  "name": "CIPAEH",
+  "postalCode": "15620"
  },
  {
   "id": 3603141006,
   "districtId": 3603141,
-  "name": "ONYAM"
+  "districtName": "GUNUNG KALER",
+  "name": "ONYAM",
+  "postalCode": "15620"
  },
  {
   "id": 3603141007,
   "districtId": 3603141,
-  "name": "GUNUNG KALER"
+  "districtName": "GUNUNG KALER",
+  "name": "GUNUNG KALER",
+  "postalCode": "15620"
  },
  {
   "id": 3603141008,
   "districtId": 3603141,
-  "name": "SIDOKO"
+  "districtName": "GUNUNG KALER",
+  "name": "SIDOKO",
+  "postalCode": "15620"
  },
  {
   "id": 3603141009,
   "districtId": 3603141,
-  "name": "RANCA GEDE"
+  "districtName": "GUNUNG KALER",
+  "name": "RANCA GEDE",
+  "postalCode": "15620"
  }
 ]

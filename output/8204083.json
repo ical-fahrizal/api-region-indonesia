@@ -2,36 +2,50 @@
  {
   "id": 8204083001,
   "districtId": 8204083,
-  "name": "GONONE"
+  "districtName": "KEPULAUAN JORONGA",
+  "name": "GONONE",
+  "postalCode": "97782"
  },
  {
   "id": 8204083002,
   "districtId": 8204083,
-  "name": "PULAU GALA"
+  "districtName": "KEPULAUAN JORONGA",
+  "name": "PULAU GALA",
+  "postalCode": "97782"
  },
  {
   "id": 8204083003,
   "districtId": 8204083,
-  "name": "TAWABI"
+  "districtName": "KEPULAUAN JORONGA",
+  "name": "TAWABI",
+  "postalCode": "97791"
  },
  {
   "id": 8204083004,
   "districtId": 8204083,
-  "name": "KUKUPANG"
+  "districtName": "KEPULAUAN JORONGA",
+  "name": "KUKUPANG",
+  "postalCode": "97782"
  },
  {
   "id": 8204083005,
   "districtId": 8204083,
-  "name": "KURUNGA"
+  "districtName": "KEPULAUAN JORONGA",
+  "name": "KURUNGA",
+  "postalCode": "97782"
  },
  {
   "id": 8204083006,
   "districtId": 8204083,
-  "name": "YOMEN"
+  "districtName": "KEPULAUAN JORONGA",
+  "name": "YOMEN",
+  "postalCode": "97782"
  },
  {
   "id": 8204083007,
   "districtId": 8204083,
-  "name": "LIBOBA HIJRAH"
+  "districtName": "KEPULAUAN JORONGA",
+  "name": "LIBOBA HIJRAH",
+  "postalCode": "97782"
  }
 ]

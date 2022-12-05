@@ -2,26 +2,36 @@
  {
   "id": 3509280001,
   "districtId": 3509280,
-  "name": "PANDUMAN"
+  "districtName": "JELBUK",
+  "name": "PANDUMAN",
+  "postalCode": "21156"
  },
  {
   "id": 3509280003,
   "districtId": 3509280,
-  "name": "SUKOWIRYO"
+  "districtName": "JELBUK",
+  "name": "SUKOWIRYO",
+  "postalCode": "68219"
  },
  {
   "id": 3509280004,
   "districtId": 3509280,
-  "name": "SUGER KIDUL"
+  "districtName": "JELBUK",
+  "name": "SUGER KIDUL",
+  "postalCode": "68192"
  },
  {
   "id": 3509280005,
   "districtId": 3509280,
-  "name": "SUKO JEMBER"
+  "districtName": "JELBUK",
+  "name": "SUKO JEMBER",
+  "postalCode": "68192"
  },
  {
   "id": 3509280006,
   "districtId": 3509280,
-  "name": "SUCO PANGEPOK"
+  "districtName": "JELBUK",
+  "name": "SUCO PANGEPOK",
+  "postalCode": "68192"
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 9427010007,
   "districtId": 9427010,
-  "name": "DIDIABOLO"
+  "districtName": "SUPIORI SELATAN",
+  "name": "DIDIABOLO",
+  "postalCode": "98161"
  },
  {
   "id": 9427010008,
   "districtId": 9427010,
-  "name": "ODORI"
+  "districtName": "SUPIORI SELATAN",
+  "name": "ODORI",
+  "postalCode": "98161"
  },
  {
   "id": 9427010009,
   "districtId": 9427010,
-  "name": "FANINDI"
+  "districtName": "SUPIORI SELATAN",
+  "name": "FANINDI",
+  "postalCode": "98161"
  },
  {
   "id": 9427010018,
   "districtId": 9427010,
-  "name": "AWAKI"
+  "districtName": "SUPIORI SELATAN",
+  "name": "AWAKI",
+  "postalCode": "98161"
  },
  {
   "id": 9427010019,
   "districtId": 9427010,
-  "name": "WARBEFONDI"
+  "districtName": "SUPIORI SELATAN",
+  "name": "WARBEFONDI",
+  "postalCode": ""
  },
  {
   "id": 9427010020,
   "districtId": 9427010,
-  "name": "MARYAIDORI"
+  "districtName": "SUPIORI SELATAN",
+  "name": "MARYAIDORI",
+  "postalCode": "98161"
  }
 ]

@@ -2,46 +2,64 @@
  {
   "id": 3517170001,
   "districtId": 3517170,
-  "name": "SIDOKATON"
+  "districtName": "KUDU",
+  "name": "SIDOKATON",
+  "postalCode": "35378"
  },
  {
   "id": 3517170002,
   "districtId": 3517170,
-  "name": "TAPEN"
+  "districtName": "KUDU",
+  "name": "TAPEN",
+  "postalCode": "54263"
  },
  {
   "id": 3517170003,
   "districtId": 3517170,
-  "name": "BAKALANRAYUNG"
+  "districtName": "KUDU",
+  "name": "BAKALANRAYUNG",
+  "postalCode": "61454"
  },
  {
   "id": 3517170004,
   "districtId": 3517170,
-  "name": "RANDUWATANG"
+  "districtName": "KUDU",
+  "name": "RANDUWATANG",
+  "postalCode": "61454"
  },
  {
   "id": 3517170007,
   "districtId": 3517170,
-  "name": "KUDUBANJAR"
+  "districtName": "KUDU",
+  "name": "KUDUBANJAR",
+  "postalCode": "61454"
  },
  {
   "id": 3517170013,
   "districtId": 3517170,
-  "name": "MADE"
+  "districtName": "KUDU",
+  "name": "MADE",
+  "postalCode": "57694"
  },
  {
   "id": 3517170014,
   "districtId": 3517170,
-  "name": "KEPUHREJO"
+  "districtName": "KUDU",
+  "name": "KEPUHREJO",
+  "postalCode": "64182"
  },
  {
   "id": 3517170015,
   "districtId": 3517170,
-  "name": "BENDUNGAN"
+  "districtName": "KUDU",
+  "name": "BENDUNGAN",
+  "postalCode": "16720"
  },
  {
   "id": 3517170016,
   "districtId": 3517170,
-  "name": "KATEMAS"
+  "districtName": "KUDU",
+  "name": "KATEMAS",
+  "postalCode": "62282"
  }
 ]

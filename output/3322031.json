@@ -2,51 +2,71 @@
  {
   "id": 3322031001,
   "districtId": 3322031,
-  "name": "SIWAL"
+  "districtName": "KALIWUNGU",
+  "name": "SIWAL",
+  "postalCode": "57556"
  },
  {
   "id": 3322031002,
   "districtId": 3322031,
-  "name": "PAGER"
+  "districtName": "KALIWUNGU",
+  "name": "PAGER",
+  "postalCode": "50229"
  },
  {
   "id": 3322031003,
   "districtId": 3322031,
-  "name": "UDANWUH"
+  "districtName": "KALIWUNGU",
+  "name": "UDANWUH",
+  "postalCode": "50229"
  },
  {
   "id": 3322031005,
   "districtId": 3322031,
-  "name": "PAPRINGAN"
+  "districtName": "KALIWUNGU",
+  "name": "PAPRINGAN",
+  "postalCode": "53192"
  },
  {
   "id": 3322031006,
   "districtId": 3322031,
-  "name": "KRADENAN"
+  "districtName": "KALIWUNGU",
+  "name": "KRADENAN",
+  "postalCode": "54392"
  },
  {
   "id": 3322031007,
   "districtId": 3322031,
-  "name": "KALIWUNGU"
+  "districtName": "KALIWUNGU",
+  "name": "KALIWUNGU",
+  "postalCode": "52464"
  },
  {
   "id": 3322031008,
   "districtId": 3322031,
-  "name": "MUKIRAN"
+  "districtName": "KALIWUNGU",
+  "name": "MUKIRAN",
+  "postalCode": "50229"
  },
  {
   "id": 3322031009,
   "districtId": 3322031,
-  "name": "PAYUNGAN"
+  "districtName": "KALIWUNGU",
+  "name": "PAYUNGAN",
+  "postalCode": "50229"
  },
  {
   "id": 3322031010,
   "districtId": 3322031,
-  "name": "JETIS"
+  "districtName": "KALIWUNGU",
+  "name": "JETIS",
+  "postalCode": "57556"
  },
  {
   "id": 3322031011,
   "districtId": 3322031,
-  "name": "ROGOMULYO"
+  "districtName": "KALIWUNGU",
+  "name": "ROGOMULYO",
+  "postalCode": "50229"
  }
 ]

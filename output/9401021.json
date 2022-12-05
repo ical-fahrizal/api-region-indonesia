@@ -2,31 +2,43 @@
  {
   "id": 9401021001,
   "districtId": 9401021,
-  "name": "WAMAL"
+  "districtName": "TUBANG",
+  "name": "WAMAL",
+  "postalCode": "99654"
  },
  {
   "id": 9401021002,
   "districtId": 9401021,
-  "name": "DOKIB"
+  "districtName": "TUBANG",
+  "name": "DOKIB",
+  "postalCode": "99654"
  },
  {
   "id": 9401021003,
   "districtId": 9401021,
-  "name": "YOWIED"
+  "districtName": "TUBANG",
+  "name": "YOWIED",
+  "postalCode": ""
  },
  {
   "id": 9401021004,
   "districtId": 9401021,
-  "name": "WELBUTI"
+  "districtName": "TUBANG",
+  "name": "WELBUTI",
+  "postalCode": "99654"
  },
  {
   "id": 9401021005,
   "districtId": 9401021,
-  "name": "DODALIM"
+  "districtName": "TUBANG",
+  "name": "DODALIM",
+  "postalCode": "99654"
  },
  {
   "id": 9401021006,
   "districtId": 9401021,
-  "name": "WOBOYO"
+  "districtName": "TUBANG",
+  "name": "WOBOYO",
+  "postalCode": "99654"
  }
 ]

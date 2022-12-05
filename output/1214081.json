@@ -2,51 +2,71 @@
  {
   "id": 1214081001,
   "districtId": 1214081,
-  "name": "BAWOSALOO DAO DAO"
+  "districtName": "HILIMEGAI",
+  "name": "BAWOSALOO DAO DAO",
+  "postalCode": ""
  },
  {
   "id": 1214081002,
   "districtId": 1214081,
-  "name": "TOGIZITA"
+  "districtName": "HILIMEGAI",
+  "name": "TOGIZITA",
+  "postalCode": "22864"
  },
  {
   "id": 1214081003,
   "districtId": 1214081,
-  "name": "TUHOOWO"
+  "districtName": "HILIMEGAI",
+  "name": "TUHOOWO",
+  "postalCode": ""
  },
  {
   "id": 1214081004,
   "districtId": 1214081,
-  "name": "SOLEDUA"
+  "districtName": "HILIMEGAI",
+  "name": "SOLEDUA",
+  "postalCode": "22864"
  },
  {
   "id": 1214081005,
   "districtId": 1214081,
-  "name": "DAO-DAO SOWO"
+  "districtName": "HILIMEGAI",
+  "name": "DAO-DAO SOWO",
+  "postalCode": "22864"
  },
  {
   "id": 1214081007,
   "districtId": 1214081,
-  "name": "HILITOESE"
+  "districtName": "HILIMEGAI",
+  "name": "HILITOESE",
+  "postalCode": "22864"
  },
  {
   "id": 1214081008,
   "districtId": 1214081,
-  "name": "HILIADULO"
+  "districtName": "HILIMEGAI",
+  "name": "HILIADULO",
+  "postalCode": "22864"
  },
  {
   "id": 1214081009,
   "districtId": 1214081,
-  "name": "TOGIZITA I"
+  "districtName": "HILIMEGAI",
+  "name": "TOGIZITA I",
+  "postalCode": ""
  },
  {
   "id": 1214081010,
   "districtId": 1214081,
-  "name": "SOLEDUA I"
+  "districtName": "HILIMEGAI",
+  "name": "SOLEDUA I",
+  "postalCode": ""
  },
  {
   "id": 1214081011,
   "districtId": 1214081,
-  "name": "SOLEDUA II"
+  "districtName": "HILIMEGAI",
+  "name": "SOLEDUA II",
+  "postalCode": ""
  }
 ]

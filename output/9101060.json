@@ -2,21 +2,29 @@
  {
   "id": 9101060008,
   "districtId": 9101060,
-  "name": "FAK FAK SELATAN"
+  "districtName": "FAKFAK",
+  "name": "FAK FAK SELATAN",
+  "postalCode": "98611"
  },
  {
   "id": 9101060009,
   "districtId": 9101060,
-  "name": "FAK FAK UTARA"
+  "districtName": "FAKFAK",
+  "name": "FAK FAK UTARA",
+  "postalCode": "98611"
  },
  {
   "id": 9101060013,
   "districtId": 9101060,
-  "name": "WRIKAPAL"
+  "districtName": "FAKFAK",
+  "name": "WRIKAPAL",
+  "postalCode": "98611"
  },
  {
   "id": 9101060021,
   "districtId": 9101060,
-  "name": "LUSI PERI"
+  "districtName": "FAKFAK",
+  "name": "LUSI PERI",
+  "postalCode": "98611"
  }
 ]

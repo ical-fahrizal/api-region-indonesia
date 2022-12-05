@@ -2,71 +2,99 @@
  {
   "id": 3320050001,
   "districtId": 3320050,
-  "name": "DORANG"
+  "districtName": "NALUMSARI",
+  "name": "DORANG",
+  "postalCode": "59466"
  },
  {
   "id": 3320050002,
   "districtId": 3320050,
-  "name": "BLIMBINGREJO"
+  "districtName": "NALUMSARI",
+  "name": "BLIMBINGREJO",
+  "postalCode": "59466"
  },
  {
   "id": 3320050003,
   "districtId": 3320050,
-  "name": "TUNGGULPANDEAN"
+  "districtName": "NALUMSARI",
+  "name": "TUNGGULPANDEAN",
+  "postalCode": "59466"
  },
  {
   "id": 3320050004,
   "districtId": 3320050,
-  "name": "PRINGTULIS"
+  "districtName": "NALUMSARI",
+  "name": "PRINGTULIS",
+  "postalCode": "59466"
  },
  {
   "id": 3320050005,
   "districtId": 3320050,
-  "name": "JATISARI"
+  "districtName": "NALUMSARI",
+  "name": "JATISARI",
+  "postalCode": "32362"
  },
  {
   "id": 3320050006,
   "districtId": 3320050,
-  "name": "GEMIRING KIDUL"
+  "districtName": "NALUMSARI",
+  "name": "GEMIRING KIDUL",
+  "postalCode": "59466"
  },
  {
   "id": 3320050007,
   "districtId": 3320050,
-  "name": "GEMIRING LOR"
+  "districtName": "NALUMSARI",
+  "name": "GEMIRING LOR",
+  "postalCode": "59466"
  },
  {
   "id": 3320050008,
   "districtId": 3320050,
-  "name": "NALUMSARI"
+  "districtName": "NALUMSARI",
+  "name": "NALUMSARI",
+  "postalCode": "59466"
  },
  {
   "id": 3320050009,
   "districtId": 3320050,
-  "name": "TRITIS"
+  "districtName": "NALUMSARI",
+  "name": "TRITIS",
+  "postalCode": "59466"
  },
  {
   "id": 3320050010,
   "districtId": 3320050,
-  "name": "DAREN"
+  "districtName": "NALUMSARI",
+  "name": "DAREN",
+  "postalCode": "59466"
  },
  {
   "id": 3320050011,
   "districtId": 3320050,
-  "name": "KARANGNONGKO"
+  "districtName": "NALUMSARI",
+  "name": "KARANGNONGKO",
+  "postalCode": "57322"
  },
  {
   "id": 3320050013,
   "districtId": 3320050,
-  "name": "BENDANPETE"
+  "districtName": "NALUMSARI",
+  "name": "BENDANPETE",
+  "postalCode": "59466"
  },
  {
   "id": 3320050014,
   "districtId": 3320050,
-  "name": "MURYOLOBO"
+  "districtName": "NALUMSARI",
+  "name": "MURYOLOBO",
+  "postalCode": "59466"
  },
  {
   "id": 3320050015,
   "districtId": 3320050,
-  "name": "BATEGEDE"
+  "districtName": "NALUMSARI",
+  "name": "BATEGEDE",
+  "postalCode": "59466"
  }
 ]

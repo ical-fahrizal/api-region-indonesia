@@ -2,71 +2,99 @@
  {
   "id": 8204060004,
   "districtId": 8204060,
-  "name": "LIGUA"
+  "districtName": "KAYOA",
+  "name": "LIGUA",
+  "postalCode": "97781"
  },
  {
   "id": 8204060005,
   "districtId": 8204060,
-  "name": "KIDA"
+  "districtName": "KAYOA",
+  "name": "KIDA",
+  "postalCode": "97781"
  },
  {
   "id": 8204060006,
   "districtId": 8204060,
-  "name": "BULI"
+  "districtName": "KAYOA",
+  "name": "BULI",
+  "postalCode": "97781"
  },
  {
   "id": 8204060011,
   "districtId": 8204060,
-  "name": "LELEI"
+  "districtName": "KAYOA",
+  "name": "LELEI",
+  "postalCode": "97781"
  },
  {
   "id": 8204060012,
   "districtId": 8204060,
-  "name": "TALIMAU"
+  "districtName": "KAYOA",
+  "name": "TALIMAU",
+  "postalCode": "97781"
  },
  {
   "id": 8204060013,
   "districtId": 8204060,
-  "name": "TAWABI"
+  "districtName": "KAYOA",
+  "name": "TAWABI",
+  "postalCode": "97791"
  },
  {
   "id": 8204060015,
   "districtId": 8204060,
-  "name": "GURUAPIN"
+  "districtName": "KAYOA",
+  "name": "GURUAPIN",
+  "postalCode": "97781"
  },
  {
   "id": 8204060016,
   "districtId": 8204060,
-  "name": "BAJO"
+  "districtName": "KAYOA",
+  "name": "BAJO",
+  "postalCode": "58381"
  },
  {
   "id": 8204060017,
   "districtId": 8204060,
-  "name": "GUNANGE"
+  "districtName": "KAYOA",
+  "name": "GUNANGE",
+  "postalCode": "97781"
  },
  {
   "id": 8204060019,
   "districtId": 8204060,
-  "name": "KARAMAT"
+  "districtName": "KAYOA",
+  "name": "KARAMAT",
+  "postalCode": "43122"
  },
  {
   "id": 8204060024,
   "districtId": 8204060,
-  "name": "LAIGOMA"
+  "districtName": "KAYOA",
+  "name": "LAIGOMA",
+  "postalCode": "97781"
  },
  {
   "id": 8204060025,
   "districtId": 8204060,
-  "name": "GAFI"
+  "districtName": "KAYOA",
+  "name": "GAFI",
+  "postalCode": "97781"
  },
  {
   "id": 8204060026,
   "districtId": 8204060,
-  "name": "SIKO"
+  "districtName": "KAYOA",
+  "name": "SIKO",
+  "postalCode": "97781"
  },
  {
   "id": 8204060027,
   "districtId": 8204060,
-  "name": "DOROLAMO"
+  "districtName": "KAYOA",
+  "name": "DOROLAMO",
+  "postalCode": "97781"
  }
 ]

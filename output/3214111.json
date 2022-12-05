@@ -2,51 +2,71 @@
  {
   "id": 3214111001,
   "districtId": 3214111,
-  "name": "WANAWALI"
+  "districtName": "CIBATU",
+  "name": "WANAWALI",
+  "postalCode": "41181"
  },
  {
   "id": 3214111002,
   "districtId": 3214111,
-  "name": "CIKADU"
+  "districtName": "CIBATU",
+  "name": "CIKADU",
+  "postalCode": "41181"
  },
  {
   "id": 3214111003,
   "districtId": 3214111,
-  "name": "CIBUKAMANAH"
+  "districtName": "CIBATU",
+  "name": "CIBUKAMANAH",
+  "postalCode": "41181"
  },
  {
   "id": 3214111004,
   "districtId": 3214111,
-  "name": "CIRANGKONG"
+  "districtName": "CIBATU",
+  "name": "CIRANGKONG",
+  "postalCode": "41181"
  },
  {
   "id": 3214111005,
   "districtId": 3214111,
-  "name": "CIPANCUR"
+  "districtName": "CIBATU",
+  "name": "CIPANCUR",
+  "postalCode": "41181"
  },
  {
   "id": 3214111006,
   "districtId": 3214111,
-  "name": "CIPINANG"
+  "districtName": "CIBATU",
+  "name": "CIPINANG",
+  "postalCode": "13240"
  },
  {
   "id": 3214111007,
   "districtId": 3214111,
-  "name": "CIPARUNGSARI"
+  "districtName": "CIBATU",
+  "name": "CIPARUNGSARI",
+  "postalCode": "41181"
  },
  {
   "id": 3214111008,
   "districtId": 3214111,
-  "name": "KARYAMEKAR"
+  "districtName": "CIBATU",
+  "name": "KARYAMEKAR",
+  "postalCode": "41181"
  },
  {
   "id": 3214111009,
   "districtId": 3214111,
-  "name": "CIBATU"
+  "districtName": "CIBATU",
+  "name": "CIBATU",
+  "postalCode": "44185"
  },
  {
   "id": 3214111010,
   "districtId": 3214111,
-  "name": "CILANDAK"
+  "districtName": "CIBATU",
+  "name": "CILANDAK",
+  "postalCode": "45256"
  }
 ]

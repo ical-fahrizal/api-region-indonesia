@@ -2,56 +2,78 @@
  {
   "id": 3309110001,
   "districtId": 3309110,
-  "name": "NGARGOREJO"
+  "districtName": "NGEMPLAK",
+  "name": "NGARGOREJO",
+  "postalCode": "57375"
  },
  {
   "id": 3309110002,
   "districtId": 3309110,
-  "name": "SOBOKERTO"
+  "districtName": "NGEMPLAK",
+  "name": "SOBOKERTO",
+  "postalCode": "57375"
  },
  {
   "id": 3309110004,
   "districtId": 3309110,
-  "name": "GAGAKSIPAT"
+  "districtName": "NGEMPLAK",
+  "name": "GAGAKSIPAT",
+  "postalCode": "57375"
  },
  {
   "id": 3309110005,
   "districtId": 3309110,
-  "name": "DONOHUDAN"
+  "districtName": "NGEMPLAK",
+  "name": "DONOHUDAN",
+  "postalCode": "57375"
  },
  {
   "id": 3309110006,
   "districtId": 3309110,
-  "name": "SAWAHAN"
+  "districtName": "NGEMPLAK",
+  "name": "SAWAHAN",
+  "postalCode": "25121"
  },
  {
   "id": 3309110007,
   "districtId": 3309110,
-  "name": "PANDEYAN"
+  "districtName": "NGEMPLAK",
+  "name": "PANDEYAN",
+  "postalCode": "57552"
  },
  {
   "id": 3309110008,
   "districtId": 3309110,
-  "name": "KISMOYOSO"
+  "districtName": "NGEMPLAK",
+  "name": "KISMOYOSO",
+  "postalCode": ""
  },
  {
   "id": 3309110009,
   "districtId": 3309110,
-  "name": "DIBAL"
+  "districtName": "NGEMPLAK",
+  "name": "DIBAL",
+  "postalCode": "57375"
  },
  {
   "id": 3309110010,
   "districtId": 3309110,
-  "name": "SINDON"
+  "districtName": "NGEMPLAK",
+  "name": "SINDON",
+  "postalCode": "57375"
  },
  {
   "id": 3309110011,
   "districtId": 3309110,
-  "name": "MANGGUNG"
+  "districtName": "NGEMPLAK",
+  "name": "MANGGUNG",
+  "postalCode": "57375"
  },
  {
   "id": 3309110012,
   "districtId": 3309110,
-  "name": "GIRIROTO"
+  "districtName": "NGEMPLAK",
+  "name": "GIRIROTO",
+  "postalCode": "57375"
  }
 ]

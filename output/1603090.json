@@ -2,116 +2,162 @@
  {
   "id": 1603090001,
   "districtId": 1603090,
-  "name": "KARANG ENDAH SELATAN"
+  "districtName": "GELUMBANG",
+  "name": "KARANG ENDAH SELATAN",
+  "postalCode": "31171"
  },
  {
   "id": 1603090002,
   "districtId": 1603090,
-  "name": "KARANG ENDAH"
+  "districtName": "GELUMBANG",
+  "name": "KARANG ENDAH",
+  "postalCode": "32121"
  },
  {
   "id": 1603090003,
   "districtId": 1603090,
-  "name": "TAMBANGAN KELEKAR"
+  "districtName": "GELUMBANG",
+  "name": "TAMBANGAN KELEKAR",
+  "postalCode": "31171"
  },
  {
   "id": 1603090004,
   "districtId": 1603090,
-  "name": "SIGAM"
+  "districtName": "GELUMBANG",
+  "name": "SIGAM",
+  "postalCode": "31171"
  },
  {
   "id": 1603090005,
   "districtId": 1603090,
-  "name": "MIDAR"
+  "districtName": "GELUMBANG",
+  "name": "MIDAR",
+  "postalCode": "31171"
  },
  {
   "id": 1603090006,
   "districtId": 1603090,
-  "name": "JAMBU"
+  "districtName": "GELUMBANG",
+  "name": "JAMBU",
+  "postalCode": "20998"
  },
  {
   "id": 1603090007,
   "districtId": 1603090,
-  "name": "GAUNG TELANG"
+  "districtName": "GELUMBANG",
+  "name": "GAUNG TELANG",
+  "postalCode": "31171"
  },
  {
   "id": 1603090008,
   "districtId": 1603090,
-  "name": "MELILIAN"
+  "districtName": "GELUMBANG",
+  "name": "MELILIAN",
+  "postalCode": ""
  },
  {
   "id": 1603090009,
   "districtId": 1603090,
-  "name": "PEDATARAN"
+  "districtName": "GELUMBANG",
+  "name": "PEDATARAN",
+  "postalCode": "31171"
  },
  {
   "id": 1603090010,
   "districtId": 1603090,
-  "name": "SEBAU"
+  "districtName": "GELUMBANG",
+  "name": "SEBAU",
+  "postalCode": "31171"
  },
  {
   "id": 1603090011,
   "districtId": 1603090,
-  "name": "PAYA BAKAL"
+  "districtName": "GELUMBANG",
+  "name": "PAYA BAKAL",
+  "postalCode": ""
  },
  {
   "id": 1603090012,
   "districtId": 1603090,
-  "name": "GELUMBANG"
+  "districtName": "GELUMBANG",
+  "name": "GELUMBANG",
+  "postalCode": "31171"
  },
  {
   "id": 1603090013,
   "districtId": 1603090,
-  "name": "TALANG TALING"
+  "districtName": "GELUMBANG",
+  "name": "TALANG TALING",
+  "postalCode": "31171"
  },
  {
   "id": 1603090014,
   "districtId": 1603090,
-  "name": "PINANG BANJAR"
+  "districtName": "GELUMBANG",
+  "name": "PINANG BANJAR",
+  "postalCode": "31171"
  },
  {
   "id": 1603090015,
   "districtId": 1603090,
-  "name": "SEGAYAM"
+  "districtName": "GELUMBANG",
+  "name": "SEGAYAM",
+  "postalCode": "31171"
  },
  {
   "id": 1603090016,
   "districtId": 1603090,
-  "name": "PUTAK"
+  "districtName": "GELUMBANG",
+  "name": "PUTAK",
+  "postalCode": "31171"
  },
  {
   "id": 1603090017,
   "districtId": 1603090,
-  "name": "SUKA MENANG"
+  "districtName": "GELUMBANG",
+  "name": "SUKA MENANG",
+  "postalCode": "31171"
  },
  {
   "id": 1603090018,
   "districtId": 1603090,
-  "name": "BITIS"
+  "districtName": "GELUMBANG",
+  "name": "BITIS",
+  "postalCode": "31171"
  },
  {
   "id": 1603090019,
   "districtId": 1603090,
-  "name": "GUMAI"
+  "districtName": "GELUMBANG",
+  "name": "GUMAI",
+  "postalCode": "31171"
  },
  {
   "id": 1603090020,
   "districtId": 1603090,
-  "name": "SUKA JAYA"
+  "districtName": "GELUMBANG",
+  "name": "SUKA JAYA",
+  "postalCode": "24784"
  },
  {
   "id": 1603090021,
   "districtId": 1603090,
-  "name": "KARTAMULIA"
+  "districtName": "GELUMBANG",
+  "name": "KARTAMULIA",
+  "postalCode": ""
  },
  {
   "id": 1603090022,
   "districtId": 1603090,
-  "name": "TELUK LIMAU"
+  "districtName": "GELUMBANG",
+  "name": "TELUK LIMAU",
+  "postalCode": "31171"
  },
  {
   "id": 1603090023,
   "districtId": 1603090,
-  "name": "BETUNG"
+  "districtName": "GELUMBANG",
+  "name": "BETUNG",
+  "postalCode": "28382"
  }
 ]

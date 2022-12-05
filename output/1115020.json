@@ -2,86 +2,120 @@
  {
   "id": 1115020017,
   "districtId": 1115020,
-  "name": "UJONG FATIHAH"
+  "districtName": "KUALA",
+  "name": "UJONG FATIHAH",
+  "postalCode": "23661"
  },
  {
   "id": 1115020018,
   "districtId": 1115020,
-  "name": "BLANG TEUNGOH"
+  "districtName": "KUALA",
+  "name": "BLANG TEUNGOH",
+  "postalCode": "23661"
  },
  {
   "id": 1115020019,
   "districtId": 1115020,
-  "name": "COT KUMBANG"
+  "districtName": "KUALA",
+  "name": "COT KUMBANG",
+  "postalCode": "23652"
  },
  {
   "id": 1115020020,
   "districtId": 1115020,
-  "name": "BLANG BINTANG"
+  "districtName": "KUALA",
+  "name": "BLANG BINTANG",
+  "postalCode": "23661"
  },
  {
   "id": 1115020021,
   "districtId": 1115020,
-  "name": "UJONG PADANG"
+  "districtName": "KUALA",
+  "name": "UJONG PADANG",
+  "postalCode": "23661"
  },
  {
   "id": 1115020022,
   "districtId": 1115020,
-  "name": "JOKJA"
+  "districtName": "KUALA",
+  "name": "JOKJA",
+  "postalCode": ""
  },
  {
   "id": 1115020023,
   "districtId": 1115020,
-  "name": "LAWA BATU"
+  "districtName": "KUALA",
+  "name": "LAWA BATU",
+  "postalCode": "23661"
  },
  {
   "id": 1115020026,
   "districtId": 1115020,
-  "name": "PURWOREJO"
+  "districtName": "KUALA",
+  "name": "PURWOREJO",
+  "postalCode": "23661"
  },
  {
   "id": 1115020038,
   "districtId": 1115020,
-  "name": "PULO IE"
+  "districtName": "KUALA",
+  "name": "PULO IE",
+  "postalCode": "23662"
  },
  {
   "id": 1115020039,
   "districtId": 1115020,
-  "name": "UJONG SIKUNENG"
+  "districtName": "KUALA",
+  "name": "UJONG SIKUNENG",
+  "postalCode": "23661"
  },
  {
   "id": 1115020040,
   "districtId": 1115020,
-  "name": "BLANG BARO"
+  "districtName": "KUALA",
+  "name": "BLANG BARO",
+  "postalCode": "24184"
  },
  {
   "id": 1115020041,
   "districtId": 1115020,
-  "name": "BLANG MUKO"
+  "districtName": "KUALA",
+  "name": "BLANG MUKO",
+  "postalCode": "23661"
  },
  {
   "id": 1115020042,
   "districtId": 1115020,
-  "name": "SIMPANG PEUT"
+  "districtName": "KUALA",
+  "name": "SIMPANG PEUT",
+  "postalCode": "23652"
  },
  {
   "id": 1115020043,
   "districtId": 1115020,
-  "name": "KUTA MAKMUR"
+  "districtName": "KUALA",
+  "name": "KUTA MAKMUR",
+  "postalCode": "23764"
  },
  {
   "id": 1115020044,
   "districtId": 1115020,
-  "name": "GUNONG REUBO"
+  "districtName": "KUALA",
+  "name": "GUNONG REUBO",
+  "postalCode": "23661"
  },
  {
   "id": 1115020045,
   "districtId": 1115020,
-  "name": "UJONG PASI"
+  "districtName": "KUALA",
+  "name": "UJONG PASI",
+  "postalCode": "23661"
  },
  {
   "id": 1115020046,
   "districtId": 1115020,
-  "name": "ALUE IE MAMEH"
+  "districtName": "KUALA",
+  "name": "ALUE IE MAMEH",
+  "postalCode": "23661"
  }
 ]

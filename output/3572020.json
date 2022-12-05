@@ -2,31 +2,43 @@
  {
   "id": 3572020001,
   "districtId": 3572020,
-  "name": "KEPANJENKIDUL"
+  "districtName": "KEPANJENKIDUL",
+  "name": "KEPANJENKIDUL",
+  "postalCode": ""
  },
  {
   "id": 3572020002,
   "districtId": 3572020,
-  "name": "KEPANJENLOR"
+  "districtName": "KEPANJENKIDUL",
+  "name": "KEPANJENLOR",
+  "postalCode": ""
  },
  {
   "id": 3572020003,
   "districtId": 3572020,
-  "name": "KAUMAN"
+  "districtName": "KEPANJENKIDUL",
+  "name": "KAUMAN",
+  "postalCode": "51215"
  },
  {
   "id": 3572020004,
   "districtId": 3572020,
-  "name": "BENDO"
+  "districtName": "KEPANJENKIDUL",
+  "name": "BENDO",
+  "postalCode": "57378"
  },
  {
   "id": 3572020005,
   "districtId": 3572020,
-  "name": "TANGGUNG"
+  "districtName": "KEPANJENKIDUL",
+  "name": "TANGGUNG",
+  "postalCode": "66272"
  },
  {
   "id": 3572020007,
   "districtId": 3572020,
-  "name": "NGADIREJO"
+  "districtName": "KEPANJENKIDUL",
+  "name": "NGADIREJO",
+  "postalCode": "31662"
  }
 ]

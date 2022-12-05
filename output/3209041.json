@@ -2,66 +2,92 @@
  {
   "id": 3209041001,
   "districtId": 3209041,
-  "name": "DOMPYONG KULON"
+  "districtName": "GEBANG",
+  "name": "DOMPYONG KULON",
+  "postalCode": "45191"
  },
  {
   "id": 3209041002,
   "districtId": 3209041,
-  "name": "DOMPYONG WETAN"
+  "districtName": "GEBANG",
+  "name": "DOMPYONG WETAN",
+  "postalCode": "45191"
  },
  {
   "id": 3209041003,
   "districtId": 3209041,
-  "name": "KALIMEKAR"
+  "districtName": "GEBANG",
+  "name": "KALIMEKAR",
+  "postalCode": "45191"
  },
  {
   "id": 3209041004,
   "districtId": 3209041,
-  "name": "KALIMARO"
+  "districtName": "GEBANG",
+  "name": "KALIMARO",
+  "postalCode": "45191"
  },
  {
   "id": 3209041005,
   "districtId": 3209041,
-  "name": "GAGASARI"
+  "districtName": "GEBANG",
+  "name": "GAGASARI",
+  "postalCode": "45191"
  },
  {
   "id": 3209041006,
   "districtId": 3209041,
-  "name": "KALIPASUNG"
+  "districtName": "GEBANG",
+  "name": "KALIPASUNG",
+  "postalCode": "45191"
  },
  {
   "id": 3209041007,
   "districtId": 3209041,
-  "name": "GEBANG KULON"
+  "districtName": "GEBANG",
+  "name": "GEBANG KULON",
+  "postalCode": "45191"
  },
  {
   "id": 3209041008,
   "districtId": 3209041,
-  "name": "GEBANG"
+  "districtName": "GEBANG",
+  "name": "GEBANG",
+  "postalCode": "35451"
  },
  {
   "id": 3209041009,
   "districtId": 3209041,
-  "name": "GEBANG UDIK"
+  "districtName": "GEBANG",
+  "name": "GEBANG UDIK",
+  "postalCode": ""
  },
  {
   "id": 3209041010,
   "districtId": 3209041,
-  "name": "GEBANG ILIR"
+  "districtName": "GEBANG",
+  "name": "GEBANG ILIR",
+  "postalCode": ""
  },
  {
   "id": 3209041011,
   "districtId": 3209041,
-  "name": "GEBANG MEKAR"
+  "districtName": "GEBANG",
+  "name": "GEBANG MEKAR",
+  "postalCode": ""
  },
  {
   "id": 3209041012,
   "districtId": 3209041,
-  "name": "PELAYANGAN"
+  "districtName": "GEBANG",
+  "name": "PELAYANGAN",
+  "postalCode": "36653"
  },
  {
   "id": 3209041013,
   "districtId": 3209041,
-  "name": "MELAKASARI"
+  "districtName": "GEBANG",
+  "name": "MELAKASARI",
+  "postalCode": "45191"
  }
 ]

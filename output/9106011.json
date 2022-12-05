@@ -2,31 +2,43 @@
  {
   "id": 9106011001,
   "districtId": 9106011,
-  "name": "MUGIM"
+  "districtName": "METEMANI",
+  "name": "MUGIM",
+  "postalCode": "98455"
  },
  {
   "id": 9106011002,
   "districtId": 9106011,
-  "name": "NUSA"
+  "districtName": "METEMANI",
+  "name": "NUSA",
+  "postalCode": "23657"
  },
  {
   "id": 9106011003,
   "districtId": 9106011,
-  "name": "SAGA"
+  "districtName": "METEMANI",
+  "name": "SAGA",
+  "postalCode": "15610"
  },
  {
   "id": 9106011004,
   "districtId": 9106011,
-  "name": "PURAGI"
+  "districtName": "METEMANI",
+  "name": "PURAGI",
+  "postalCode": "98455"
  },
  {
   "id": 9106011005,
   "districtId": 9106011,
-  "name": "TAWANGGIRE"
+  "districtName": "METEMANI",
+  "name": "TAWANGGIRE",
+  "postalCode": "98455"
  },
  {
   "id": 9106011006,
   "districtId": 9106011,
-  "name": "BEDARE"
+  "districtName": "METEMANI",
+  "name": "BEDARE",
+  "postalCode": "98455"
  }
 ]

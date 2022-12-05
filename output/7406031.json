@@ -2,56 +2,78 @@
  {
   "id": 7406031001,
   "districtId": 7406031,
-  "name": "LIANO"
+  "districtName": "MATA OLEO",
+  "name": "LIANO",
+  "postalCode": "93771"
  },
  {
   "id": 7406031002,
   "districtId": 7406031,
-  "name": "POMONTORO"
+  "districtName": "MATA OLEO",
+  "name": "POMONTORO",
+  "postalCode": ""
  },
  {
   "id": 7406031003,
   "districtId": 7406031,
-  "name": "HAMBAWA"
+  "districtName": "MATA OLEO",
+  "name": "HAMBAWA",
+  "postalCode": "22851"
  },
  {
   "id": 7406031004,
   "districtId": 7406031,
-  "name": "PULAU TAMBAKO"
+  "districtName": "MATA OLEO",
+  "name": "PULAU TAMBAKO",
+  "postalCode": "93771"
  },
  {
   "id": 7406031005,
   "districtId": 7406031,
-  "name": "LORA"
+  "districtName": "MATA OLEO",
+  "name": "LORA",
+  "postalCode": "93771"
  },
  {
   "id": 7406031006,
   "districtId": 7406031,
-  "name": "TOLI-TOLI"
+  "districtName": "MATA OLEO",
+  "name": "TOLI-TOLI",
+  "postalCode": "93783"
  },
  {
   "id": 7406031007,
   "districtId": 7406031,
-  "name": "BATU SEMPE INDAH"
+  "districtName": "MATA OLEO",
+  "name": "BATU SEMPE INDAH",
+  "postalCode": ""
  },
  {
   "id": 7406031008,
   "districtId": 7406031,
-  "name": "LALOA"
+  "districtName": "MATA OLEO",
+  "name": "LALOA",
+  "postalCode": "93771"
  },
  {
   "id": 7406031009,
   "districtId": 7406031,
-  "name": "MAWAR"
+  "districtName": "MATA OLEO",
+  "name": "MAWAR",
+  "postalCode": "85881"
  },
  {
   "id": 7406031010,
   "districtId": 7406031,
-  "name": "TAJUNCU"
+  "districtName": "MATA OLEO",
+  "name": "TAJUNCU",
+  "postalCode": "93771"
  },
  {
   "id": 7406031011,
   "districtId": 7406031,
-  "name": "PUU WAEYA"
+  "districtName": "MATA OLEO",
+  "name": "PUU WAEYA",
+  "postalCode": ""
  }
 ]

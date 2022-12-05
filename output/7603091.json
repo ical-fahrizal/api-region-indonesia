@@ -2,56 +2,78 @@
  {
   "id": 7603091001,
   "districtId": 7603091,
-  "name": "ARALLE TIMUR"
+  "districtName": "BUNTU MALANGKA",
+  "name": "ARALLE TIMUR",
+  "postalCode": "91373"
  },
  {
   "id": 7603091002,
   "districtId": 7603091,
-  "name": "SALUTAMBUN TIMUR"
+  "districtName": "BUNTU MALANGKA",
+  "name": "SALUTAMBUN TIMUR",
+  "postalCode": ""
  },
  {
   "id": 7603091003,
   "districtId": 7603091,
-  "name": "SALUTAMBUN"
+  "districtName": "BUNTU MALANGKA",
+  "name": "SALUTAMBUN",
+  "postalCode": "91373"
  },
  {
   "id": 7603091004,
   "districtId": 7603091,
-  "name": "KEBANGA"
+  "districtName": "BUNTU MALANGKA",
+  "name": "KEBANGA",
+  "postalCode": "91373"
  },
  {
   "id": 7603091005,
   "districtId": 7603091,
-  "name": "SALUTAMBUN BARAT"
+  "districtName": "BUNTU MALANGKA",
+  "name": "SALUTAMBUN BARAT",
+  "postalCode": ""
  },
  {
   "id": 7603091006,
   "districtId": 7603091,
-  "name": "KABAE"
+  "districtName": "BUNTU MALANGKA",
+  "name": "KABAE",
+  "postalCode": "91373"
  },
  {
   "id": 7603091007,
   "districtId": 7603091,
-  "name": "SALURINDUK"
+  "districtName": "BUNTU MALANGKA",
+  "name": "SALURINDUK",
+  "postalCode": ""
  },
  {
   "id": 7603091008,
   "districtId": 7603091,
-  "name": "PENATANGAN"
+  "districtName": "BUNTU MALANGKA",
+  "name": "PENATANGAN",
+  "postalCode": ""
  },
  {
   "id": 7603091009,
   "districtId": 7603091,
-  "name": "BUNTU MALANGKA"
+  "districtName": "BUNTU MALANGKA",
+  "name": "BUNTU MALANGKA",
+  "postalCode": "91373"
  },
  {
   "id": 7603091010,
   "districtId": 7603091,
-  "name": "RANTEBERANG"
+  "districtName": "BUNTU MALANGKA",
+  "name": "RANTEBERANG",
+  "postalCode": ""
  },
  {
   "id": 7603091011,
   "districtId": 7603091,
-  "name": "TAORA"
+  "districtName": "BUNTU MALANGKA",
+  "name": "TAORA",
+  "postalCode": "91373"
  }
 ]

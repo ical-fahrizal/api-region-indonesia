@@ -2,66 +2,92 @@
  {
   "id": 1704051001,
   "districtId": 1704051,
-  "name": "NUSUK"
+  "districtName": "SEMIDANG GUMAY",
+  "name": "NUSUK",
+  "postalCode": "38962"
  },
  {
   "id": 1704051002,
   "districtId": 1704051,
-  "name": "TANJUNG HARAPAN"
+  "districtName": "SEMIDANG GUMAY",
+  "name": "TANJUNG HARAPAN",
+  "postalCode": "23754"
  },
  {
   "id": 1704051003,
   "districtId": 1704051,
-  "name": "AWAT MATA"
+  "districtName": "SEMIDANG GUMAY",
+  "name": "AWAT MATA",
+  "postalCode": "38962"
  },
  {
   "id": 1704051004,
   "districtId": 1704051,
-  "name": "SUKA MERINDU"
+  "districtName": "SEMIDANG GUMAY",
+  "name": "SUKA MERINDU",
+  "postalCode": "31452"
  },
  {
   "id": 1704051005,
   "districtId": 1704051,
-  "name": "MENTIRING I"
+  "districtName": "SEMIDANG GUMAY",
+  "name": "MENTIRING I",
+  "postalCode": ""
  },
  {
   "id": 1704051006,
   "districtId": 1704051,
-  "name": "LUBUK GUNG"
+  "districtName": "SEMIDANG GUMAY",
+  "name": "LUBUK GUNG",
+  "postalCode": "38962"
  },
  {
   "id": 1704051007,
   "districtId": 1704051,
-  "name": "CAHAYA BATHIN"
+  "districtName": "SEMIDANG GUMAY",
+  "name": "CAHAYA BATHIN",
+  "postalCode": ""
  },
  {
   "id": 1704051008,
   "districtId": 1704051,
-  "name": "GUNUNG TIGA I"
+  "districtName": "SEMIDANG GUMAY",
+  "name": "GUNUNG TIGA I",
+  "postalCode": ""
  },
  {
   "id": 1704051009,
   "districtId": 1704051,
-  "name": "KARANG DAPO"
+  "districtName": "SEMIDANG GUMAY",
+  "name": "KARANG DAPO",
+  "postalCode": "32191"
  },
  {
   "id": 1704051010,
   "districtId": 1704051,
-  "name": "BUNGA MELUR"
+  "districtName": "SEMIDANG GUMAY",
+  "name": "BUNGA MELUR",
+  "postalCode": "38962"
  },
  {
   "id": 1704051012,
   "districtId": 1704051,
-  "name": "GUNUNG TIGA II"
+  "districtName": "SEMIDANG GUMAY",
+  "name": "GUNUNG TIGA II",
+  "postalCode": "38962"
  },
  {
   "id": 1704051013,
   "districtId": 1704051,
-  "name": "PADANG PANJANG"
+  "districtName": "SEMIDANG GUMAY",
+  "name": "PADANG PANJANG",
+  "postalCode": "23765"
  },
  {
   "id": 1704051015,
   "districtId": 1704051,
-  "name": "MASRIA BARU"
+  "districtName": "SEMIDANG GUMAY",
+  "name": "MASRIA BARU",
+  "postalCode": "38962"
  }
 ]

@@ -2,66 +2,92 @@
  {
   "id": 5311061005,
   "districtId": 5311061,
-  "name": "HANGALANDE"
+  "districtName": "KOTABARU",
+  "name": "HANGALANDE",
+  "postalCode": "86111"
  },
  {
   "id": 5311061006,
   "districtId": 5311061,
-  "name": "TOU TIMUR"
+  "districtName": "KOTABARU",
+  "name": "TOU TIMUR",
+  "postalCode": "86111"
  },
  {
   "id": 5311061007,
   "districtId": 5311061,
-  "name": "TOU"
+  "districtName": "KOTABARU",
+  "name": "TOU",
+  "postalCode": "86111"
  },
  {
   "id": 5311061008,
   "districtId": 5311061,
-  "name": "NIOPANDA"
+  "districtName": "KOTABARU",
+  "name": "NIOPANDA",
+  "postalCode": "86111"
  },
  {
   "id": 5311061009,
   "districtId": 5311061,
-  "name": "LOBONIKI"
+  "districtName": "KOTABARU",
+  "name": "LOBONIKI",
+  "postalCode": "86111"
  },
  {
   "id": 5311061010,
   "districtId": 5311061,
-  "name": "NDONDO"
+  "districtName": "KOTABARU",
+  "name": "NDONDO",
+  "postalCode": "86111"
  },
  {
   "id": 5311061011,
   "districtId": 5311061,
-  "name": "KOTABARU"
+  "districtName": "KOTABARU",
+  "name": "KOTABARU",
+  "postalCode": "46196"
  },
  {
   "id": 5311061012,
   "districtId": 5311061,
-  "name": "LISELANDE"
+  "districtName": "KOTABARU",
+  "name": "LISELANDE",
+  "postalCode": "86111"
  },
  {
   "id": 5311061013,
   "districtId": 5311061,
-  "name": "TOU BARAT"
+  "districtName": "KOTABARU",
+  "name": "TOU BARAT",
+  "postalCode": "86111"
  },
  {
   "id": 5311061014,
   "districtId": 5311061,
-  "name": "RANGALAKA"
+  "districtName": "KOTABARU",
+  "name": "RANGALAKA",
+  "postalCode": "86111"
  },
  {
   "id": 5311061015,
   "districtId": 5311061,
-  "name": "PISE"
+  "districtName": "KOTABARU",
+  "name": "PISE",
+  "postalCode": ""
  },
  {
   "id": 5311061016,
   "districtId": 5311061,
-  "name": "NUANAGA"
+  "districtName": "KOTABARU",
+  "name": "NUANAGA",
+  "postalCode": ""
  },
  {
   "id": 5311061017,
   "districtId": 5311061,
-  "name": "NEOTONDA"
+  "districtName": "KOTABARU",
+  "name": "NEOTONDA",
+  "postalCode": ""
  }
 ]

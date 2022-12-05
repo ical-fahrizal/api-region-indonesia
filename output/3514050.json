@@ -2,61 +2,85 @@
  {
   "id": 3514050001,
   "districtId": 3514050,
-  "name": "WONOREJO"
+  "districtName": "LUMBANG",
+  "name": "WONOREJO",
+  "postalCode": "21186"
  },
  {
   "id": 3514050002,
   "districtId": 3514050,
-  "name": "KRONTO"
+  "districtName": "LUMBANG",
+  "name": "KRONTO",
+  "postalCode": "67183"
  },
  {
   "id": 3514050003,
   "districtId": 3514050,
-  "name": "PANCUR"
+  "districtName": "LUMBANG",
+  "name": "PANCUR",
+  "postalCode": "29274"
  },
  {
   "id": 3514050004,
   "districtId": 3514050,
-  "name": "KARANG ASEM"
+  "districtName": "LUMBANG",
+  "name": "KARANG ASEM",
+  "postalCode": "30959"
  },
  {
   "id": 3514050005,
   "districtId": 3514050,
-  "name": "CUKURGULING"
+  "districtName": "LUMBANG",
+  "name": "CUKURGULING",
+  "postalCode": "67183"
  },
  {
   "id": 3514050006,
   "districtId": 3514050,
-  "name": "LUMBANG"
+  "districtName": "LUMBANG",
+  "name": "LUMBANG",
+  "postalCode": "67183"
  },
  {
   "id": 3514050007,
   "districtId": 3514050,
-  "name": "BULUKANDANG"
+  "districtName": "LUMBANG",
+  "name": "BULUKANDANG",
+  "postalCode": "67183"
  },
  {
   "id": 3514050008,
   "districtId": 3514050,
-  "name": "KARANG JATI"
+  "districtName": "LUMBANG",
+  "name": "KARANG JATI",
+  "postalCode": "67183"
  },
  {
   "id": 3514050009,
   "districtId": 3514050,
-  "name": "WATULUMBUNG"
+  "districtName": "LUMBANG",
+  "name": "WATULUMBUNG",
+  "postalCode": "67183"
  },
  {
   "id": 3514050010,
   "districtId": 3514050,
-  "name": "PANDITAN"
+  "districtName": "LUMBANG",
+  "name": "PANDITAN",
+  "postalCode": "67183"
  },
  {
   "id": 3514050011,
   "districtId": 3514050,
-  "name": "BANJARIMBO"
+  "districtName": "LUMBANG",
+  "name": "BANJARIMBO",
+  "postalCode": "67183"
  },
  {
   "id": 3514050012,
   "districtId": 3514050,
-  "name": "WELULANG"
+  "districtName": "LUMBANG",
+  "name": "WELULANG",
+  "postalCode": "67183"
  }
 ]

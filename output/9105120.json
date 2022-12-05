@@ -2,81 +2,113 @@
  {
   "id": 9105120002,
   "districtId": 9105120,
-  "name": "WASEKI INDAH"
+  "districtName": "PRAFI",
+  "name": "WASEKI INDAH",
+  "postalCode": ""
  },
  {
   "id": 9105120003,
   "districtId": 9105120,
-  "name": "WASEKI"
+  "districtName": "PRAFI",
+  "name": "WASEKI",
+  "postalCode": ""
  },
  {
   "id": 9105120004,
   "districtId": 9105120,
-  "name": "AIMASI/SP III AIMASI"
+  "districtName": "PRAFI",
+  "name": "AIMASI/SP III AIMASI",
+  "postalCode": ""
  },
  {
   "id": 9105120005,
   "districtId": 9105120,
-  "name": "UDAPI HILIR"
+  "districtName": "PRAFI",
+  "name": "UDAPI HILIR",
+  "postalCode": ""
  },
  {
   "id": 9105120006,
   "districtId": 9105120,
-  "name": "DESAY"
+  "districtName": "PRAFI",
+  "name": "DESAY",
+  "postalCode": "98356"
  },
  {
   "id": 9105120007,
   "districtId": 9105120,
-  "name": "PRAFI MULIA"
+  "districtName": "PRAFI",
+  "name": "PRAFI MULIA",
+  "postalCode": ""
  },
  {
   "id": 9105120008,
   "districtId": 9105120,
-  "name": "INGKWOISI"
+  "districtName": "PRAFI",
+  "name": "INGKWOISI",
+  "postalCode": ""
  },
  {
   "id": 9105120009,
   "districtId": 9105120,
-  "name": "UMBUI"
+  "districtName": "PRAFI",
+  "name": "UMBUI",
+  "postalCode": ""
  },
  {
   "id": 9105120010,
   "districtId": 9105120,
-  "name": "BOGOR"
+  "districtName": "PRAFI",
+  "name": "BOGOR",
+  "postalCode": "45257"
  },
  {
   "id": 9105120011,
   "districtId": 9105120,
-  "name": "KALI AMIN"
+  "districtName": "PRAFI",
+  "name": "KALI AMIN",
+  "postalCode": "98356"
  },
  {
   "id": 9105120012,
   "districtId": 9105120,
-  "name": "OYEHEK BRIK"
+  "districtName": "PRAFI",
+  "name": "OYEHEK BRIK",
+  "postalCode": ""
  },
  {
   "id": 9105120013,
   "districtId": 9105120,
-  "name": "KRENUI"
+  "districtName": "PRAFI",
+  "name": "KRENUI",
+  "postalCode": ""
  },
  {
   "id": 9105120014,
   "districtId": 9105120,
-  "name": "SOMI"
+  "districtName": "PRAFI",
+  "name": "SOMI",
+  "postalCode": "22871"
  },
  {
   "id": 9105120015,
   "districtId": 9105120,
-  "name": "MATOA"
+  "districtName": "PRAFI",
+  "name": "MATOA",
+  "postalCode": ""
  },
  {
   "id": 9105120016,
   "districtId": 9105120,
-  "name": "LISMAUNGU"
+  "districtName": "PRAFI",
+  "name": "LISMAUNGU",
+  "postalCode": ""
  },
  {
   "id": 9105120017,
   "districtId": 9105120,
-  "name": "JOUBEN"
+  "districtName": "PRAFI",
+  "name": "JOUBEN",
+  "postalCode": ""
  }
 ]

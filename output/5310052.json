@@ -2,41 +2,57 @@
  {
   "id": 5310052001,
   "districtId": 5310052,
-  "name": "TEKAIKU"
+  "districtName": "KANGAE",
+  "name": "TEKAIKU",
+  "postalCode": "86181"
  },
  {
   "id": 5310052003,
   "districtId": 5310052,
-  "name": "BLATATATIN"
+  "districtName": "KANGAE",
+  "name": "BLATATATIN",
+  "postalCode": "86181"
  },
  {
   "id": 5310052004,
   "districtId": 5310052,
-  "name": "KOKOWAHOR"
+  "districtName": "KANGAE",
+  "name": "KOKOWAHOR",
+  "postalCode": "86181"
  },
  {
   "id": 5310052015,
   "districtId": 5310052,
-  "name": "WATUMILOK"
+  "districtName": "KANGAE",
+  "name": "WATUMILOK",
+  "postalCode": "86181"
  },
  {
   "id": 5310052016,
   "districtId": 5310052,
-  "name": "TANADUEN"
+  "districtName": "KANGAE",
+  "name": "TANADUEN",
+  "postalCode": "86181"
  },
  {
   "id": 5310052017,
   "districtId": 5310052,
-  "name": "WATULIWUNG"
+  "districtName": "KANGAE",
+  "name": "WATULIWUNG",
+  "postalCode": "86181"
  },
  {
   "id": 5310052018,
   "districtId": 5310052,
-  "name": "HABI"
+  "districtName": "KANGAE",
+  "name": "HABI",
+  "postalCode": "86181"
  },
  {
   "id": 5310052019,
   "districtId": 5310052,
-  "name": "LANGIR"
+  "districtName": "KANGAE",
+  "name": "LANGIR",
+  "postalCode": "29783"
  }
 ]

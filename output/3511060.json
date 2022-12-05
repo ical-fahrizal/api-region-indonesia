@@ -2,21 +2,29 @@
  {
   "id": 3511060001,
   "districtId": 3511060,
-  "name": "PECALONGAN"
+  "districtName": "SUKOSARI",
+  "name": "PECALONGAN",
+  "postalCode": "68287"
  },
  {
   "id": 3511060006,
   "districtId": 3511060,
-  "name": "NOGOSARI"
+  "districtName": "SUKOSARI",
+  "name": "NOGOSARI",
+  "postalCode": "63572"
  },
  {
   "id": 3511060007,
   "districtId": 3511060,
-  "name": "SUKOSARI LOR"
+  "districtName": "SUKOSARI",
+  "name": "SUKOSARI LOR",
+  "postalCode": "68287"
  },
  {
   "id": 3511060008,
   "districtId": 3511060,
-  "name": "KERANG"
+  "districtName": "SUKOSARI",
+  "name": "KERANG",
+  "postalCode": "34881"
  }
 ]

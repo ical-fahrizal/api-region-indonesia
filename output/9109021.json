@@ -2,26 +2,36 @@
  {
   "id": 9109021001,
   "districtId": 9109021,
-  "name": "AYIAMANE"
+  "districtName": "MIYAH SELATAN",
+  "name": "AYIAMANE",
+  "postalCode": "98473"
  },
  {
   "id": 9109021003,
   "districtId": 9109021,
-  "name": "MAWOR"
+  "districtName": "MIYAH SELATAN",
+  "name": "MAWOR",
+  "postalCode": "98473"
  },
  {
   "id": 9109021004,
   "districtId": 9109021,
-  "name": "HEWI"
+  "districtName": "MIYAH SELATAN",
+  "name": "HEWI",
+  "postalCode": ""
  },
  {
   "id": 9109021005,
   "districtId": 9109021,
-  "name": "SAHAE"
+  "districtName": "MIYAH SELATAN",
+  "name": "SAHAE",
+  "postalCode": ""
  },
  {
   "id": 9109021007,
   "districtId": 9109021,
-  "name": "WHISMER"
+  "districtName": "MIYAH SELATAN",
+  "name": "WHISMER",
+  "postalCode": ""
  }
 ]

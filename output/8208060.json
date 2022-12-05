@@ -2,81 +2,113 @@
  {
   "id": 8208060002,
   "districtId": 8208060,
-  "name": "NATANG KUNING"
+  "districtName": "TALIABU UTARA",
+  "name": "NATANG KUNING",
+  "postalCode": "97793"
  },
  {
   "id": 8208060004,
   "districtId": 8208060,
-  "name": "PADANG"
+  "districtName": "TALIABU UTARA",
+  "name": "PADANG",
+  "postalCode": "23762"
  },
  {
   "id": 8208060005,
   "districtId": 8208060,
-  "name": "TIKONG"
+  "districtName": "TALIABU UTARA",
+  "name": "TIKONG",
+  "postalCode": "97794"
  },
  {
   "id": 8208060006,
   "districtId": 8208060,
-  "name": "SAHU"
+  "districtName": "TALIABU UTARA",
+  "name": "SAHU",
+  "postalCode": "97794"
  },
  {
   "id": 8208060007,
   "districtId": 8208060,
-  "name": "AIR BULAN"
+  "districtName": "TALIABU UTARA",
+  "name": "AIR BULAN",
+  "postalCode": "97794"
  },
  {
   "id": 8208060008,
   "districtId": 8208060,
-  "name": "NUNCA"
+  "districtName": "TALIABU UTARA",
+  "name": "NUNCA",
+  "postalCode": "97794"
  },
  {
   "id": 8208060009,
   "districtId": 8208060,
-  "name": "MINTON"
+  "districtName": "TALIABU UTARA",
+  "name": "MINTON",
+  "postalCode": "97794"
  },
  {
   "id": 8208060010,
   "districtId": 8208060,
-  "name": "GELA"
+  "districtName": "TALIABU UTARA",
+  "name": "GELA",
+  "postalCode": "97794"
  },
  {
   "id": 8208060011,
   "districtId": 8208060,
-  "name": "LONDON"
+  "districtName": "TALIABU UTARA",
+  "name": "LONDON",
+  "postalCode": ""
  },
  {
   "id": 8208060013,
   "districtId": 8208060,
-  "name": "HAI"
+  "districtName": "TALIABU UTARA",
+  "name": "HAI",
+  "postalCode": "97794"
  },
  {
   "id": 8208060014,
   "districtId": 8208060,
-  "name": "AIR KALIMAT"
+  "districtName": "TALIABU UTARA",
+  "name": "AIR KALIMAT",
+  "postalCode": "97794"
  },
  {
   "id": 8208060015,
   "districtId": 8208060,
-  "name": "JORJOGA"
+  "districtName": "TALIABU UTARA",
+  "name": "JORJOGA",
+  "postalCode": "97794"
  },
  {
   "id": 8208060016,
   "districtId": 8208060,
-  "name": "TANJUNG UNA"
+  "districtName": "TALIABU UTARA",
+  "name": "TANJUNG UNA",
+  "postalCode": "97794"
  },
  {
   "id": 8208060017,
   "districtId": 8208060,
-  "name": "MANANGA"
+  "districtName": "TALIABU UTARA",
+  "name": "MANANGA",
+  "postalCode": "97794"
  },
  {
   "id": 8208060018,
   "districtId": 8208060,
-  "name": "WAHE"
+  "districtName": "TALIABU UTARA",
+  "name": "WAHE",
+  "postalCode": "99582"
  },
  {
   "id": 8208060019,
   "districtId": 8208060,
-  "name": "MBONO"
+  "districtName": "TALIABU UTARA",
+  "name": "MBONO",
+  "postalCode": "97794"
  }
 ]

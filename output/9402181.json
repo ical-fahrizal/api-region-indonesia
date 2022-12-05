@@ -2,51 +2,71 @@
  {
   "id": 9402181001,
   "districtId": 9402181,
-  "name": "SIAPMA"
+  "districtName": "MUSATFAK",
+  "name": "SIAPMA",
+  "postalCode": "99554"
  },
  {
   "id": 9402181002,
   "districtId": 9402181,
-  "name": "ELABUKAMA"
+  "districtName": "MUSATFAK",
+  "name": "ELABUKAMA",
+  "postalCode": "99554"
  },
  {
   "id": 9402181003,
   "districtId": 9402181,
-  "name": "TEMIA"
+  "districtName": "MUSATFAK",
+  "name": "TEMIA",
+  "postalCode": "99554"
  },
  {
   "id": 9402181004,
   "districtId": 9402181,
-  "name": "ANEGERA"
+  "districtName": "MUSATFAK",
+  "name": "ANEGERA",
+  "postalCode": ""
  },
  {
   "id": 9402181005,
   "districtId": 9402181,
-  "name": "MULUPALEK"
+  "districtName": "MUSATFAK",
+  "name": "MULUPALEK",
+  "postalCode": "99554"
  },
  {
   "id": 9402181006,
   "districtId": 9402181,
-  "name": "PUMASILI"
+  "districtName": "MUSATFAK",
+  "name": "PUMASILI",
+  "postalCode": "99554"
  },
  {
   "id": 9402181007,
   "districtId": 9402181,
-  "name": "KOSIHAVE"
+  "districtName": "MUSATFAK",
+  "name": "KOSIHAVE",
+  "postalCode": "99554"
  },
  {
   "id": 9402181008,
   "districtId": 9402181,
-  "name": "HAMUHI"
+  "districtName": "MUSATFAK",
+  "name": "HAMUHI",
+  "postalCode": "99554"
  },
  {
   "id": 9402181009,
   "districtId": 9402181,
-  "name": "YUMUGIMA"
+  "districtName": "MUSATFAK",
+  "name": "YUMUGIMA",
+  "postalCode": "99554"
  },
  {
   "id": 9402181010,
   "districtId": 9402181,
-  "name": "ABULUKMO"
+  "districtName": "MUSATFAK",
+  "name": "ABULUKMO",
+  "postalCode": "99554"
  }
 ]

@@ -2,46 +2,64 @@
  {
   "id": 6304030001,
   "districtId": 6304030,
-  "name": "TAMBAN RAYA"
+  "districtName": "MEKAR SARI",
+  "name": "TAMBAN RAYA",
+  "postalCode": "70568"
  },
  {
   "id": 6304030002,
   "districtId": 6304030,
-  "name": "TAMBAN RAYA BARU"
+  "districtName": "MEKAR SARI",
+  "name": "TAMBAN RAYA BARU",
+  "postalCode": "70568"
  },
  {
   "id": 6304030003,
   "districtId": 6304030,
-  "name": "KARANG MEKAR"
+  "districtName": "MEKAR SARI",
+  "name": "KARANG MEKAR",
+  "postalCode": "17540"
  },
  {
   "id": 6304030004,
   "districtId": 6304030,
-  "name": "INDAH SARI"
+  "districtName": "MEKAR SARI",
+  "name": "INDAH SARI",
+  "postalCode": "70568"
  },
  {
   "id": 6304030005,
   "districtId": 6304030,
-  "name": "MEKAR SARI"
+  "districtName": "MEKAR SARI",
+  "name": "MEKAR SARI",
+  "postalCode": "21261"
  },
  {
   "id": 6304030006,
   "districtId": 6304030,
-  "name": "TINGGIRAN DARAT"
+  "districtName": "MEKAR SARI",
+  "name": "TINGGIRAN DARAT",
+  "postalCode": "70568"
  },
  {
   "id": 6304030007,
   "districtId": 6304030,
-  "name": "JELAPAT II"
+  "districtName": "MEKAR SARI",
+  "name": "JELAPAT II",
+  "postalCode": "70568"
  },
  {
   "id": 6304030008,
   "districtId": 6304030,
-  "name": "TINGGIRAN TENGAH"
+  "districtName": "MEKAR SARI",
+  "name": "TINGGIRAN TENGAH",
+  "postalCode": "70568"
  },
  {
   "id": 6304030009,
   "districtId": 6304030,
-  "name": "TINGGIRAN BARU"
+  "districtName": "MEKAR SARI",
+  "name": "TINGGIRAN BARU",
+  "postalCode": "70568"
  }
 ]

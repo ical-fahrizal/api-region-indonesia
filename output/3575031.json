@@ -2,61 +2,85 @@
  {
   "id": 3575031001,
   "districtId": 3575031,
-  "name": "PETAMANAN"
+  "districtName": "PANGGUNGREJO",
+  "name": "PETAMANAN",
+  "postalCode": "67126"
  },
  {
   "id": 3575031003,
   "districtId": 3575031,
-  "name": "BUGULLOR"
+  "districtName": "PANGGUNGREJO",
+  "name": "BUGULLOR",
+  "postalCode": ""
  },
  {
   "id": 3575031004,
   "districtId": 3575031,
-  "name": "KANDANGSAPI"
+  "districtName": "PANGGUNGREJO",
+  "name": "KANDANGSAPI",
+  "postalCode": "42395"
  },
  {
   "id": 3575031005,
   "districtId": 3575031,
-  "name": "BANGILAN"
+  "districtName": "PANGGUNGREJO",
+  "name": "BANGILAN",
+  "postalCode": "62364"
  },
  {
   "id": 3575031006,
   "districtId": 3575031,
-  "name": "KEBONSARI"
+  "districtName": "PANGGUNGREJO",
+  "name": "KEBONSARI",
+  "postalCode": "56553"
  },
  {
   "id": 3575031007,
   "districtId": 3575031,
-  "name": "KARANGANYAR"
+  "districtName": "PANGGUNGREJO",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  },
  {
   "id": 3575031008,
   "districtId": 3575031,
-  "name": "TRAJENG"
+  "districtName": "PANGGUNGREJO",
+  "name": "TRAJENG",
+  "postalCode": "67132"
  },
  {
   "id": 3575031009,
   "districtId": 3575031,
-  "name": "MAYANGAN"
+  "districtName": "PANGGUNGREJO",
+  "name": "MAYANGAN",
+  "postalCode": "41254"
  },
  {
   "id": 3575031010,
   "districtId": 3575031,
-  "name": "MANDARANREJO"
+  "districtName": "PANGGUNGREJO",
+  "name": "MANDARANREJO",
+  "postalCode": "67123"
  },
  {
   "id": 3575031011,
   "districtId": 3575031,
-  "name": "PANGGUNGREJO"
+  "districtName": "PANGGUNGREJO",
+  "name": "PANGGUNGREJO",
+  "postalCode": "66261"
  },
  {
   "id": 3575031012,
   "districtId": 3575031,
-  "name": "NGEMPLAKREJO"
+  "districtName": "PANGGUNGREJO",
+  "name": "NGEMPLAKREJO",
+  "postalCode": "59261"
  },
  {
   "id": 3575031013,
   "districtId": 3575031,
-  "name": "TAMBAAN"
+  "districtName": "PANGGUNGREJO",
+  "name": "TAMBAAN",
+  "postalCode": "69281"
  }
 ]

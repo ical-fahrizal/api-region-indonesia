@@ -2,21 +2,29 @@
  {
   "id": 3275030001,
   "districtId": 3275030,
-  "name": "CIKETINGUDIK"
+  "districtName": "BANTARGEBANG",
+  "name": "CIKETINGUDIK",
+  "postalCode": ""
  },
  {
   "id": 3275030002,
   "districtId": 3275030,
-  "name": "SUMUR BATU"
+  "districtName": "BANTARGEBANG",
+  "name": "SUMUR BATU",
+  "postalCode": "35214"
  },
  {
   "id": 3275030003,
   "districtId": 3275030,
-  "name": "CIKIWUL"
+  "districtName": "BANTARGEBANG",
+  "name": "CIKIWUL",
+  "postalCode": "17152"
  },
  {
   "id": 3275030004,
   "districtId": 3275030,
-  "name": "BANTARGEBANG"
+  "districtName": "BANTARGEBANG",
+  "name": "BANTARGEBANG",
+  "postalCode": ""
  }
 ]

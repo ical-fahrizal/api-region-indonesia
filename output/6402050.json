@@ -2,41 +2,57 @@
  {
   "id": 6402050010,
   "districtId": 6402050,
-  "name": "MUARA BEGAI"
+  "districtName": "MUARA LAWA",
+  "name": "MUARA BEGAI",
+  "postalCode": "75775"
  },
  {
   "id": 6402050011,
   "districtId": 6402050,
-  "name": "LOTAQ"
+  "districtName": "MUARA LAWA",
+  "name": "LOTAQ",
+  "postalCode": ""
  },
  {
   "id": 6402050012,
   "districtId": 6402050,
-  "name": "PAYANG"
+  "districtName": "MUARA LAWA",
+  "name": "PAYANG",
+  "postalCode": "59119"
  },
  {
   "id": 6402050013,
   "districtId": 6402050,
-  "name": "CEMPEDAS"
+  "districtName": "MUARA LAWA",
+  "name": "CEMPEDAS",
+  "postalCode": "75775"
  },
  {
   "id": 6402050014,
   "districtId": 6402050,
-  "name": "DINGIN"
+  "districtName": "MUARA LAWA",
+  "name": "DINGIN",
+  "postalCode": "75775"
  },
  {
   "id": 6402050015,
   "districtId": 6402050,
-  "name": "MUARA LAWA"
+  "districtName": "MUARA LAWA",
+  "name": "MUARA LAWA",
+  "postalCode": "75775"
  },
  {
   "id": 6402050016,
   "districtId": 6402050,
-  "name": "LAMBING"
+  "districtName": "MUARA LAWA",
+  "name": "LAMBING",
+  "postalCode": "75775"
  },
  {
   "id": 6402050017,
   "districtId": 6402050,
-  "name": "BENGGERIS"
+  "districtName": "MUARA LAWA",
+  "name": "BENGGERIS",
+  "postalCode": "75775"
  }
 ]

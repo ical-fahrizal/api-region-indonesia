@@ -2,56 +2,78 @@
  {
   "id": 7412060001,
   "districtId": 7412060,
-  "name": "RAWA INDAH"
+  "districtName": "WAWONII TENGAH",
+  "name": "RAWA INDAH",
+  "postalCode": "38887"
  },
  {
   "id": 7412060002,
   "districtId": 7412060,
-  "name": "LAMPEAPI"
+  "districtName": "WAWONII TENGAH",
+  "name": "LAMPEAPI",
+  "postalCode": "93393"
  },
  {
   "id": 7412060004,
   "districtId": 7412060,
-  "name": "LAMPEAPI BARU"
+  "districtName": "WAWONII TENGAH",
+  "name": "LAMPEAPI BARU",
+  "postalCode": ""
  },
  {
   "id": 7412060005,
   "districtId": 7412060,
-  "name": "LAMONGUPA"
+  "districtName": "WAWONII TENGAH",
+  "name": "LAMONGUPA",
+  "postalCode": "93393"
  },
  {
   "id": 7412060006,
   "districtId": 7412060,
-  "name": "MEKAR SARI"
+  "districtName": "WAWONII TENGAH",
+  "name": "MEKAR SARI",
+  "postalCode": "21261"
  },
  {
   "id": 7412060007,
   "districtId": 7412060,
-  "name": "WAWOINDAH"
+  "districtName": "WAWONII TENGAH",
+  "name": "WAWOINDAH",
+  "postalCode": ""
  },
  {
   "id": 7412060008,
   "districtId": 7412060,
-  "name": "UPT. BATUMEA/TUMBU-TUMBU JAYA"
+  "districtName": "WAWONII TENGAH",
+  "name": "UPT. BATUMEA/TUMBU-TUMBU JAYA",
+  "postalCode": ""
  },
  {
   "id": 7412060009,
   "districtId": 7412060,
-  "name": "MOROBEA"
+  "districtName": "WAWONII TENGAH",
+  "name": "MOROBEA",
+  "postalCode": "93393"
  },
  {
   "id": 7412060010,
   "districtId": 7412060,
-  "name": "BATUMEA"
+  "districtName": "WAWONII TENGAH",
+  "name": "BATUMEA",
+  "postalCode": "93393"
  },
  {
   "id": 7412060011,
   "districtId": 7412060,
-  "name": "BAHO PULU WULU"
+  "districtName": "WAWONII TENGAH",
+  "name": "BAHO PULU WULU",
+  "postalCode": ""
  },
  {
   "id": 7412060012,
   "districtId": 7412060,
-  "name": "PUURAU"
+  "districtName": "WAWONII TENGAH",
+  "name": "PUURAU",
+  "postalCode": "93958"
  }
 ]

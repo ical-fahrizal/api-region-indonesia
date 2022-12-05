@@ -2,41 +2,57 @@
  {
   "id": 9408062001,
   "districtId": 9408062,
-  "name": "MARIADEI"
+  "districtName": "ANATAUREI",
+  "name": "MARIADEI",
+  "postalCode": ""
  },
  {
   "id": 9408062002,
   "districtId": 9408062,
-  "name": "WARARI"
+  "districtName": "ANATAUREI",
+  "name": "WARARI",
+  "postalCode": "98211"
  },
  {
   "id": 9408062003,
   "districtId": 9408062,
-  "name": "ANATAUREI"
+  "districtName": "ANATAUREI",
+  "name": "ANATAUREI",
+  "postalCode": ""
  },
  {
   "id": 9408062004,
   "districtId": 9408062,
-  "name": "MANTEMBU"
+  "districtName": "ANATAUREI",
+  "name": "MANTEMBU",
+  "postalCode": "98211"
  },
  {
   "id": 9408062005,
   "districtId": 9408062,
-  "name": "FAMBOAMAN"
+  "districtName": "ANATAUREI",
+  "name": "FAMBOAMAN",
+  "postalCode": ""
  },
  {
   "id": 9408062006,
   "districtId": 9408062,
-  "name": "YAPAN"
+  "districtName": "ANATAUREI",
+  "name": "YAPAN",
+  "postalCode": "98215"
  },
  {
   "id": 9408062007,
   "districtId": 9408062,
-  "name": "KETUAPI"
+  "districtName": "ANATAUREI",
+  "name": "KETUAPI",
+  "postalCode": "98215"
  },
  {
   "id": 9408062008,
   "districtId": 9408062,
-  "name": "KANDOWARIRA"
+  "districtName": "ANATAUREI",
+  "name": "KANDOWARIRA",
+  "postalCode": "98215"
  }
 ]

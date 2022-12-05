@@ -2,46 +2,64 @@
  {
   "id": 3322152001,
   "districtId": 3322152,
-  "name": "BEJI"
+  "districtName": "UNGARAN TIMUR",
+  "name": "BEJI",
+  "postalCode": "16421"
  },
  {
   "id": 3322152002,
   "districtId": 3322152,
-  "name": "LEYANGAN"
+  "districtName": "UNGARAN TIMUR",
+  "name": "LEYANGAN",
+  "postalCode": "58161"
  },
  {
   "id": 3322152003,
   "districtId": 3322152,
-  "name": "KALONGAN"
+  "districtName": "UNGARAN TIMUR",
+  "name": "KALONGAN",
+  "postalCode": "58114"
  },
  {
   "id": 3322152004,
   "districtId": 3322152,
-  "name": "KAWENGEN"
+  "districtName": "UNGARAN TIMUR",
+  "name": "KAWENGEN",
+  "postalCode": "50519"
  },
  {
   "id": 3322152005,
   "districtId": 3322152,
-  "name": "KALIKAYEN"
+  "districtName": "UNGARAN TIMUR",
+  "name": "KALIKAYEN",
+  "postalCode": "50519"
  },
  {
   "id": 3322152007,
   "districtId": 3322152,
-  "name": "SUSUKAN"
+  "districtName": "UNGARAN TIMUR",
+  "name": "SUSUKAN",
+  "postalCode": "13750"
  },
  {
   "id": 3322152008,
   "districtId": 3322152,
-  "name": "KALIREJO"
+  "districtName": "UNGARAN TIMUR",
+  "name": "KALIREJO",
+  "postalCode": "35353"
  },
  {
   "id": 3322152009,
   "districtId": 3322152,
-  "name": "SIDOMULYO"
+  "districtName": "UNGARAN TIMUR",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  },
  {
   "id": 3322152010,
   "districtId": 3322152,
-  "name": "GEDANGANAK"
+  "districtName": "UNGARAN TIMUR",
+  "name": "GEDANGANAK",
+  "postalCode": "50519"
  }
 ]

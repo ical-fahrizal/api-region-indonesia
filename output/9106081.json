@@ -2,11 +2,15 @@
  {
   "id": 9106081001,
   "districtId": 9106081,
-  "name": "PASIR PUTIH"
+  "districtName": "FOKOUR",
+  "name": "PASIR PUTIH",
+  "postalCode": "24453"
  },
  {
   "id": 9106081004,
   "districtId": 9106081,
-  "name": "WONDUM"
+  "districtName": "FOKOUR",
+  "name": "WONDUM",
+  "postalCode": ""
  }
 ]

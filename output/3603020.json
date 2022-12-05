@@ -2,66 +2,92 @@
  {
   "id": 3603020001,
   "districtId": 3603020,
-  "name": "CILELES"
+  "districtName": "TIGARAKSA",
+  "name": "CILELES",
+  "postalCode": "45363"
  },
  {
   "id": 3603020002,
   "districtId": 3603020,
-  "name": "BANTAR PANJANG"
+  "districtName": "TIGARAKSA",
+  "name": "BANTAR PANJANG",
+  "postalCode": "42175"
  },
  {
   "id": 3603020003,
   "districtId": 3603020,
-  "name": "SODONG"
+  "districtName": "TIGARAKSA",
+  "name": "SODONG",
+  "postalCode": "51253"
  },
  {
   "id": 3603020004,
   "districtId": 3603020,
-  "name": "TAPOS"
+  "districtName": "TIGARAKSA",
+  "name": "TAPOS",
+  "postalCode": "16457"
  },
  {
   "id": 3603020013,
   "districtId": 3603020,
-  "name": "MARGA SARI"
+  "districtName": "TIGARAKSA",
+  "name": "MARGA SARI",
+  "postalCode": "34683"
  },
  {
   "id": 3603020014,
   "districtId": 3603020,
-  "name": "KADU AGUNG"
+  "districtName": "TIGARAKSA",
+  "name": "KADU AGUNG",
+  "postalCode": "42163"
  },
  {
   "id": 3603020015,
   "districtId": 3603020,
-  "name": "MATA GARA"
+  "districtName": "TIGARAKSA",
+  "name": "MATA GARA",
+  "postalCode": "15720"
  },
  {
   "id": 3603020016,
   "districtId": 3603020,
-  "name": "TIGARAKSA"
+  "districtName": "TIGARAKSA",
+  "name": "TIGARAKSA",
+  "postalCode": "15720"
  },
  {
   "id": 3603020018,
   "districtId": 3603020,
-  "name": "TEGALSARI"
+  "districtName": "TIGARAKSA",
+  "name": "TEGALSARI",
+  "postalCode": "35372"
  },
  {
   "id": 3603020019,
   "districtId": 3603020,
-  "name": "PEMATANG"
+  "districtName": "TIGARAKSA",
+  "name": "PEMATANG",
+  "postalCode": "21454"
  },
  {
   "id": 3603020020,
   "districtId": 3603020,
-  "name": "PASIR NANGKA"
+  "districtName": "TIGARAKSA",
+  "name": "PASIR NANGKA",
+  "postalCode": "15720"
  },
  {
   "id": 3603020021,
   "districtId": 3603020,
-  "name": "CISEREH"
+  "districtName": "TIGARAKSA",
+  "name": "CISEREH",
+  "postalCode": "42273"
  },
  {
   "id": 3603020022,
   "districtId": 3603020,
-  "name": "PASIR BOLANG"
+  "districtName": "TIGARAKSA",
+  "name": "PASIR BOLANG",
+  "postalCode": "15720"
  }
 ]

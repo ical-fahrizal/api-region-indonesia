@@ -2,66 +2,92 @@
  {
   "id": 3212080007,
   "districtId": 3212080,
-  "name": "TULUNGAGUNG"
+  "districtName": "KERTASEMAYA",
+  "name": "TULUNGAGUNG",
+  "postalCode": "45274"
  },
  {
   "id": 3212080008,
   "districtId": 3212080,
-  "name": "JENGKOK"
+  "districtName": "KERTASEMAYA",
+  "name": "JENGKOK",
+  "postalCode": "45274"
  },
  {
   "id": 3212080009,
   "districtId": 3212080,
-  "name": "TEGALWIRANGRONG"
+  "districtName": "KERTASEMAYA",
+  "name": "TEGALWIRANGRONG",
+  "postalCode": "45274"
  },
  {
   "id": 3212080010,
   "districtId": 3212080,
-  "name": "MANGUNTARA"
+  "districtName": "KERTASEMAYA",
+  "name": "MANGUNTARA",
+  "postalCode": "45274"
  },
  {
   "id": 3212080011,
   "districtId": 3212080,
-  "name": "JAMBE"
+  "districtName": "KERTASEMAYA",
+  "name": "JAMBE",
+  "postalCode": "45274"
  },
  {
   "id": 3212080012,
   "districtId": 3212080,
-  "name": "LEMAHAYU"
+  "districtName": "KERTASEMAYA",
+  "name": "LEMAHAYU",
+  "postalCode": "45274"
  },
  {
   "id": 3212080013,
   "districtId": 3212080,
-  "name": "TENAJAR KIDUL"
+  "districtName": "KERTASEMAYA",
+  "name": "TENAJAR KIDUL",
+  "postalCode": "45274"
  },
  {
   "id": 3212080014,
   "districtId": 3212080,
-  "name": "KERTASEMAYA"
+  "districtName": "KERTASEMAYA",
+  "name": "KERTASEMAYA",
+  "postalCode": "45274"
  },
  {
   "id": 3212080015,
   "districtId": 3212080,
-  "name": "KLIWED"
+  "districtName": "KERTASEMAYA",
+  "name": "KLIWED",
+  "postalCode": "45274"
  },
  {
   "id": 3212080016,
   "districtId": 3212080,
-  "name": "TENAJAR"
+  "districtName": "KERTASEMAYA",
+  "name": "TENAJAR",
+  "postalCode": "45274"
  },
  {
   "id": 3212080017,
   "districtId": 3212080,
-  "name": "LARANGANJAMBE"
+  "districtName": "KERTASEMAYA",
+  "name": "LARANGANJAMBE",
+  "postalCode": "45274"
  },
  {
   "id": 3212080018,
   "districtId": 3212080,
-  "name": "TENAJAR LOR"
+  "districtName": "KERTASEMAYA",
+  "name": "TENAJAR LOR",
+  "postalCode": "45274"
  },
  {
   "id": 3212080019,
   "districtId": 3212080,
-  "name": "SUKAWERA"
+  "districtName": "KERTASEMAYA",
+  "name": "SUKAWERA",
+  "postalCode": "45274"
  }
 ]

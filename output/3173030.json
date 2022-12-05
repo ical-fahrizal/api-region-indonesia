@@ -2,21 +2,29 @@
  {
   "id": 3173030001,
   "districtId": 3173030,
-  "name": "KENARI"
+  "districtName": "SENEN",
+  "name": "KENARI",
+  "postalCode": "10430"
  },
  {
   "id": 3173030002,
   "districtId": 3173030,
-  "name": "PASEBAN"
+  "districtName": "SENEN",
+  "name": "PASEBAN",
+  "postalCode": "37259"
  },
  {
   "id": 3173030003,
   "districtId": 3173030,
-  "name": "KRAMAT"
+  "districtName": "SENEN",
+  "name": "KRAMAT",
+  "postalCode": "10450"
  },
  {
   "id": 3173030004,
   "districtId": 3173030,
-  "name": "KWITANG"
+  "districtName": "SENEN",
+  "name": "KWITANG",
+  "postalCode": "10420"
  }
 ]

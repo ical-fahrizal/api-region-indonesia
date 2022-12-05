@@ -2,31 +2,43 @@
  {
   "id": 3578070001,
   "districtId": 3578070,
-  "name": "RUNGKUT KIDUL"
+  "districtName": "RUNGKUT",
+  "name": "RUNGKUT KIDUL",
+  "postalCode": "60293"
  },
  {
   "id": 3578070002,
   "districtId": 3578070,
-  "name": "MEDOKAN AYU"
+  "districtName": "RUNGKUT",
+  "name": "MEDOKAN AYU",
+  "postalCode": "60295"
  },
  {
   "id": 3578070003,
   "districtId": 3578070,
-  "name": "WONOREJO"
+  "districtName": "RUNGKUT",
+  "name": "WONOREJO",
+  "postalCode": "21186"
  },
  {
   "id": 3578070004,
   "districtId": 3578070,
-  "name": "PENJARINGAN SARI"
+  "districtName": "RUNGKUT",
+  "name": "PENJARINGAN SARI",
+  "postalCode": "60297"
  },
  {
   "id": 3578070005,
   "districtId": 3578070,
-  "name": "KEDUNG BARUK"
+  "districtName": "RUNGKUT",
+  "name": "KEDUNG BARUK",
+  "postalCode": "60298"
  },
  {
   "id": 3578070006,
   "districtId": 3578070,
-  "name": "KALI RUNGKUT"
+  "districtName": "RUNGKUT",
+  "name": "KALI RUNGKUT",
+  "postalCode": "60293"
  }
 ]

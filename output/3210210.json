@@ -2,76 +2,106 @@
  {
   "id": 3210210001,
   "districtId": 3210210,
-  "name": "SUMBERJAYA"
+  "districtName": "SUMBERJAYA",
+  "name": "SUMBERJAYA",
+  "postalCode": "46262"
  },
  {
   "id": 3210210002,
   "districtId": 3210210,
-  "name": "GARAWANGI"
+  "districtName": "SUMBERJAYA",
+  "name": "GARAWANGI",
+  "postalCode": "45571"
  },
  {
   "id": 3210210003,
   "districtId": 3210210,
-  "name": "BANJARAN"
+  "districtName": "SUMBERJAYA",
+  "name": "BANJARAN",
+  "postalCode": "35451"
  },
  {
   "id": 3210210004,
   "districtId": 3210210,
-  "name": "SEPAT"
+  "districtName": "SUMBERJAYA",
+  "name": "SEPAT",
+  "postalCode": "45455"
  },
  {
   "id": 3210210005,
   "districtId": 3210210,
-  "name": "PANINGKIRAN"
+  "districtName": "SUMBERJAYA",
+  "name": "PANINGKIRAN",
+  "postalCode": "45455"
  },
  {
   "id": 3210210006,
   "districtId": 3210210,
-  "name": "PARAPATAN"
+  "districtName": "SUMBERJAYA",
+  "name": "PARAPATAN",
+  "postalCode": "41261"
  },
  {
   "id": 3210210007,
   "districtId": 3210210,
-  "name": "PANJALIN KIDUL"
+  "districtName": "SUMBERJAYA",
+  "name": "PANJALIN KIDUL",
+  "postalCode": "45455"
  },
  {
   "id": 3210210008,
   "districtId": 3210210,
-  "name": "RANCAPUTAT"
+  "districtName": "SUMBERJAYA",
+  "name": "RANCAPUTAT",
+  "postalCode": "45455"
  },
  {
   "id": 3210210009,
   "districtId": 3210210,
-  "name": "BONGAS WETAN"
+  "districtName": "SUMBERJAYA",
+  "name": "BONGAS WETAN",
+  "postalCode": "45455"
  },
  {
   "id": 3210210010,
   "districtId": 3210210,
-  "name": "BONGAS KULON"
+  "districtName": "SUMBERJAYA",
+  "name": "BONGAS KULON",
+  "postalCode": "45455"
  },
  {
   "id": 3210210011,
   "districtId": 3210210,
-  "name": "PANJALIN LOR"
+  "districtName": "SUMBERJAYA",
+  "name": "PANJALIN LOR",
+  "postalCode": "45455"
  },
  {
   "id": 3210210012,
   "districtId": 3210210,
-  "name": "CIDENOK"
+  "districtName": "SUMBERJAYA",
+  "name": "CIDENOK",
+  "postalCode": "45455"
  },
  {
   "id": 3210210013,
   "districtId": 3210210,
-  "name": "LOJI KOBONG"
+  "districtName": "SUMBERJAYA",
+  "name": "LOJI KOBONG",
+  "postalCode": "45455"
  },
  {
   "id": 3210210014,
   "districtId": 3210210,
-  "name": "GELOKMULYA"
+  "districtName": "SUMBERJAYA",
+  "name": "GELOKMULYA",
+  "postalCode": ""
  },
  {
   "id": 3210210015,
   "districtId": 3210210,
-  "name": "PANCAKSUJI"
+  "districtName": "SUMBERJAYA",
+  "name": "PANCAKSUJI",
+  "postalCode": "45455"
  }
 ]

@@ -2,46 +2,64 @@
  {
   "id": 1801061001,
   "districtId": 1801061,
-  "name": "TAMBAK JAYA"
+  "districtName": "WAY TENONG",
+  "name": "TAMBAK JAYA",
+  "postalCode": "34884"
  },
  {
   "id": 1801061002,
   "districtId": 1801061,
-  "name": "PADANG TAMBAK"
+  "districtName": "WAY TENONG",
+  "name": "PADANG TAMBAK",
+  "postalCode": "38382"
  },
  {
   "id": 1801061003,
   "districtId": 1801061,
-  "name": "SUKARAJA"
+  "districtName": "WAY TENONG",
+  "name": "SUKARAJA",
+  "postalCode": "21256"
  },
  {
   "id": 1801061004,
   "districtId": 1801061,
-  "name": "SUKANANTI"
+  "districtName": "WAY TENONG",
+  "name": "SUKANANTI",
+  "postalCode": "31591"
  },
  {
   "id": 1801061007,
   "districtId": 1801061,
-  "name": "TANJUNG RAYA"
+  "districtName": "WAY TENONG",
+  "name": "TANJUNG RAYA",
+  "postalCode": "23891"
  },
  {
   "id": 1801061011,
   "districtId": 1801061,
-  "name": "MUTAR ALAM"
+  "districtName": "WAY TENONG",
+  "name": "MUTAR ALAM",
+  "postalCode": "34884"
  },
  {
   "id": 1801061012,
   "districtId": 1801061,
-  "name": "KARANG AGUNG"
+  "districtName": "WAY TENONG",
+  "name": "KARANG AGUNG",
+  "postalCode": "31315"
  },
  {
   "id": 1801061013,
   "districtId": 1801061,
-  "name": "PURA LAKSANA"
+  "districtName": "WAY TENONG",
+  "name": "PURA LAKSANA",
+  "postalCode": "34884"
  },
  {
   "id": 1801061014,
   "districtId": 1801061,
-  "name": "FAJAR BULAN"
+  "districtName": "WAY TENONG",
+  "name": "FAJAR BULAN",
+  "postalCode": ""
  }
 ]

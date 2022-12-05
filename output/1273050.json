@@ -2,36 +2,50 @@
  {
   "id": 1273050001,
   "districtId": 1273050,
-  "name": "KEBUN SAYUR"
+  "districtName": "SIANTAR TIMUR",
+  "name": "KEBUN SAYUR",
+  "postalCode": "21134"
  },
  {
   "id": 1273050002,
   "districtId": 1273050,
-  "name": "TOMUAN"
+  "districtName": "SIANTAR TIMUR",
+  "name": "TOMUAN",
+  "postalCode": "21133"
  },
  {
   "id": 1273050003,
   "districtId": 1273050,
-  "name": "PAHLAWAN"
+  "districtName": "SIANTAR TIMUR",
+  "name": "PAHLAWAN",
+  "postalCode": "24476"
  },
  {
   "id": 1273050004,
   "districtId": 1273050,
-  "name": "SIOPAT SUHU"
+  "districtName": "SIANTAR TIMUR",
+  "name": "SIOPAT SUHU",
+  "postalCode": "21139"
  },
  {
   "id": 1273050005,
   "districtId": 1273050,
-  "name": "MERDEKA"
+  "districtName": "SIANTAR TIMUR",
+  "name": "MERDEKA",
+  "postalCode": "20154"
  },
  {
   "id": 1273050006,
   "districtId": 1273050,
-  "name": "PARDOMUAN"
+  "districtName": "SIANTAR TIMUR",
+  "name": "PARDOMUAN",
+  "postalCode": "22732"
  },
  {
   "id": 1273050007,
   "districtId": 1273050,
-  "name": "ASUHAN"
+  "districtName": "SIANTAR TIMUR",
+  "name": "ASUHAN",
+  "postalCode": "21136"
  }
 ]

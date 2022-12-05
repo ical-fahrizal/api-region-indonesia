@@ -2,26 +2,36 @@
  {
   "id": 3502200001,
   "districtId": 3502200,
-  "name": "NGROGUNG"
+  "districtName": "NGEBEL",
+  "name": "NGROGUNG",
+  "postalCode": "63493"
  },
  {
   "id": 3502200002,
   "districtId": 3502200,
-  "name": "SAHANG"
+  "districtName": "NGEBEL",
+  "name": "SAHANG",
+  "postalCode": "63493"
  },
  {
   "id": 3502200003,
   "districtId": 3502200,
-  "name": "WAGIRLOR"
+  "districtName": "NGEBEL",
+  "name": "WAGIRLOR",
+  "postalCode": ""
  },
  {
   "id": 3502200004,
   "districtId": 3502200,
-  "name": "TALUN"
+  "districtName": "NGEBEL",
+  "name": "TALUN",
+  "postalCode": "40384"
  },
  {
   "id": 3502200005,
   "districtId": 3502200,
-  "name": "GONDOWIDO"
+  "districtName": "NGEBEL",
+  "name": "GONDOWIDO",
+  "postalCode": "63493"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 7203022001,
   "districtId": 7203022,
-  "name": "WERE EA"
+  "districtName": "BUNGKU PESISIR",
+  "name": "WERE EA",
+  "postalCode": ""
  },
  {
   "id": 7203022002,
   "districtId": 7203022,
-  "name": "SAMBALAGI"
+  "districtName": "BUNGKU PESISIR",
+  "name": "SAMBALAGI",
+  "postalCode": "94974"
  },
  {
   "id": 7203022003,
   "districtId": 7203022,
-  "name": "LAROENAI"
+  "districtName": "BUNGKU PESISIR",
+  "name": "LAROENAI",
+  "postalCode": "94974"
  },
  {
   "id": 7203022005,
   "districtId": 7203022,
-  "name": "TORETE"
+  "districtName": "BUNGKU PESISIR",
+  "name": "TORETE",
+  "postalCode": "94974"
  },
  {
   "id": 7203022006,
   "districtId": 7203022,
-  "name": "LAFEU"
+  "districtName": "BUNGKU PESISIR",
+  "name": "LAFEU",
+  "postalCode": "94974"
  },
  {
   "id": 7203022007,
   "districtId": 7203022,
-  "name": "TANDA OLEO"
+  "districtName": "BUNGKU PESISIR",
+  "name": "TANDA OLEO",
+  "postalCode": ""
  },
  {
   "id": 7203022008,
   "districtId": 7203022,
-  "name": "ONE ETE"
+  "districtName": "BUNGKU PESISIR",
+  "name": "ONE ETE",
+  "postalCode": "94974"
  },
  {
   "id": 7203022009,
   "districtId": 7203022,
-  "name": "TANGOFA"
+  "districtName": "BUNGKU PESISIR",
+  "name": "TANGOFA",
+  "postalCode": "94974"
  }
 ]

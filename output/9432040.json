@@ -2,206 +2,288 @@
  {
   "id": 9432040002,
   "districtId": 9432040,
-  "name": "HONITA"
+  "districtName": "ELELIM",
+  "name": "HONITA",
+  "postalCode": "99584"
  },
  {
   "id": 9432040003,
   "districtId": 9432040,
-  "name": "ALIUS"
+  "districtName": "ELELIM",
+  "name": "ALIUS",
+  "postalCode": ""
  },
  {
   "id": 9432040004,
   "districtId": 9432040,
-  "name": "YABEMA"
+  "districtName": "ELELIM",
+  "name": "YABEMA",
+  "postalCode": "99584"
  },
  {
   "id": 9432040006,
   "districtId": 9432040,
-  "name": "WALKEP"
+  "districtName": "ELELIM",
+  "name": "WALKEP",
+  "postalCode": "99584"
  },
  {
   "id": 9432040007,
   "districtId": 9432040,
-  "name": "PANGKIK"
+  "districtName": "ELELIM",
+  "name": "PANGKIK",
+  "postalCode": "99584"
  },
  {
   "id": 9432040008,
   "districtId": 9432040,
-  "name": "MARIBU"
+  "districtName": "ELELIM",
+  "name": "MARIBU",
+  "postalCode": "99584"
  },
  {
   "id": 9432040009,
   "districtId": 9432040,
-  "name": "YAKIKMA"
+  "districtName": "ELELIM",
+  "name": "YAKIKMA",
+  "postalCode": "99584"
  },
  {
   "id": 9432040010,
   "districtId": 9432040,
-  "name": "ULO"
+  "districtName": "ELELIM",
+  "name": "ULO",
+  "postalCode": "92752"
  },
  {
   "id": 9432040011,
   "districtId": 9432040,
-  "name": "SIRA"
+  "districtName": "ELELIM",
+  "name": "SIRA",
+  "postalCode": "99584"
  },
  {
   "id": 9432040012,
   "districtId": 9432040,
-  "name": "OHOBAM"
+  "districtName": "ELELIM",
+  "name": "OHOBAM",
+  "postalCode": "99584"
  },
  {
   "id": 9432040013,
   "districtId": 9432040,
-  "name": "ELELIM SATU"
+  "districtName": "ELELIM",
+  "name": "ELELIM SATU",
+  "postalCode": "99584"
  },
  {
   "id": 9432040016,
   "districtId": 9432040,
-  "name": "TANABASI"
+  "districtName": "ELELIM",
+  "name": "TANABASI",
+  "postalCode": "99584"
  },
  {
   "id": 9432040017,
   "districtId": 9432040,
-  "name": "HOLANI"
+  "districtName": "ELELIM",
+  "name": "HOLANI",
+  "postalCode": "99584"
  },
  {
   "id": 9432040019,
   "districtId": 9432040,
-  "name": "HESMAT"
+  "districtName": "ELELIM",
+  "name": "HESMAT",
+  "postalCode": "99584"
  },
  {
   "id": 9432040020,
   "districtId": 9432040,
-  "name": "MOLINGGI"
+  "districtName": "ELELIM",
+  "name": "MOLINGGI",
+  "postalCode": "99584"
  },
  {
   "id": 9432040021,
   "districtId": 9432040,
-  "name": "WEREKMA"
+  "districtName": "ELELIM",
+  "name": "WEREKMA",
+  "postalCode": "99584"
  },
  {
   "id": 9432040022,
   "districtId": 9432040,
-  "name": "EMON"
+  "districtName": "ELELIM",
+  "name": "EMON",
+  "postalCode": "99584"
  },
  {
   "id": 9432040023,
   "districtId": 9432040,
-  "name": "KWIKMA"
+  "districtName": "ELELIM",
+  "name": "KWIKMA",
+  "postalCode": "99584"
  },
  {
   "id": 9432040024,
   "districtId": 9432040,
-  "name": "WAGAGU"
+  "districtName": "ELELIM",
+  "name": "WAGAGU",
+  "postalCode": "99584"
  },
  {
   "id": 9432040025,
   "districtId": 9432040,
-  "name": "SOWI"
+  "districtName": "ELELIM",
+  "name": "SOWI",
+  "postalCode": "99584"
  },
  {
   "id": 9432040026,
   "districtId": 9432040,
-  "name": "SIPSON"
+  "districtName": "ELELIM",
+  "name": "SIPSON",
+  "postalCode": "99584"
  },
  {
   "id": 9432040027,
   "districtId": 9432040,
-  "name": "SIPSOI"
+  "districtName": "ELELIM",
+  "name": "SIPSOI",
+  "postalCode": "99584"
  },
  {
   "id": 9432040029,
   "districtId": 9432040,
-  "name": "OHONIAM"
+  "districtName": "ELELIM",
+  "name": "OHONIAM",
+  "postalCode": "99584"
  },
  {
   "id": 9432040030,
   "districtId": 9432040,
-  "name": "SUBUIRUINGGAMA"
+  "districtName": "ELELIM",
+  "name": "SUBUIRUINGGAMA",
+  "postalCode": "99584"
  },
  {
   "id": 9432040031,
   "districtId": 9432040,
-  "name": "DUWONG"
+  "districtName": "ELELIM",
+  "name": "DUWONG",
+  "postalCode": "99584"
  },
  {
   "id": 9432040035,
   "districtId": 9432040,
-  "name": "MOMONHUSI"
+  "districtName": "ELELIM",
+  "name": "MOMONHUSI",
+  "postalCode": "99584"
  },
  {
   "id": 9432040036,
   "districtId": 9432040,
-  "name": "HELABU"
+  "districtName": "ELELIM",
+  "name": "HELABU",
+  "postalCode": "99584"
  },
  {
   "id": 9432040037,
   "districtId": 9432040,
-  "name": "PUNGKAHIIK"
+  "districtName": "ELELIM",
+  "name": "PUNGKAHIIK",
+  "postalCode": ""
  },
  {
   "id": 9432040038,
   "districtId": 9432040,
-  "name": "WARA"
+  "districtName": "ELELIM",
+  "name": "WARA",
+  "postalCode": "91994"
  },
  {
   "id": 9432040039,
   "districtId": 9432040,
-  "name": "HOBAKMA"
+  "districtName": "ELELIM",
+  "name": "HOBAKMA",
+  "postalCode": "99584"
  },
  {
   "id": 9432040040,
   "districtId": 9432040,
-  "name": "WASUA"
+  "districtName": "ELELIM",
+  "name": "WASUA",
+  "postalCode": "99584"
  },
  {
   "id": 9432040041,
   "districtId": 9432040,
-  "name": "WARIKMA"
+  "districtName": "ELELIM",
+  "name": "WARIKMA",
+  "postalCode": "99584"
  },
  {
   "id": 9432040042,
   "districtId": 9432040,
-  "name": "LAPORA"
+  "districtName": "ELELIM",
+  "name": "LAPORA",
+  "postalCode": "99584"
  },
  {
   "id": 9432040043,
   "districtId": 9432040,
-  "name": "ISILA"
+  "districtName": "ELELIM",
+  "name": "ISILA",
+  "postalCode": "99584"
  },
  {
   "id": 9432040044,
   "districtId": 9432040,
-  "name": "HABIYEAMBUT"
+  "districtName": "ELELIM",
+  "name": "HABIYEAMBUT",
+  "postalCode": "99584"
  },
  {
   "id": 9432040045,
   "districtId": 9432040,
-  "name": "KERON"
+  "districtName": "ELELIM",
+  "name": "KERON",
+  "postalCode": "99584"
  },
  {
   "id": 9432040046,
   "districtId": 9432040,
-  "name": "PASIMBOLO"
+  "districtName": "ELELIM",
+  "name": "PASIMBOLO",
+  "postalCode": "99584"
  },
  {
   "id": 9432040047,
   "districtId": 9432040,
-  "name": "WEKOLANI"
+  "districtName": "ELELIM",
+  "name": "WEKOLANI",
+  "postalCode": ""
  },
  {
   "id": 9432040048,
   "districtId": 9432040,
-  "name": "FIMA"
+  "districtName": "ELELIM",
+  "name": "FIMA",
+  "postalCode": ""
  },
  {
   "id": 9432040049,
   "districtId": 9432040,
-  "name": "KALAK"
+  "districtName": "ELELIM",
+  "name": "KALAK",
+  "postalCode": "63554"
  },
  {
   "id": 9432040050,
   "districtId": 9432040,
-  "name": "SOHI"
+  "districtName": "ELELIM",
+  "name": "SOHI",
+  "postalCode": "99587"
  }
 ]

@@ -2,76 +2,106 @@
  {
   "id": 7415030006,
   "districtId": 7415030,
-  "name": "BANGUN"
+  "districtName": "SAMPOLAWA",
+  "name": "BANGUN",
+  "postalCode": "21174"
  },
  {
   "id": 7415030007,
   "districtId": 7415030,
-  "name": "WAWOANGI"
+  "districtName": "SAMPOLAWA",
+  "name": "WAWOANGI",
+  "postalCode": "93753"
  },
  {
   "id": 7415030008,
   "districtId": 7415030,
-  "name": "KATILOMBU"
+  "districtName": "SAMPOLAWA",
+  "name": "KATILOMBU",
+  "postalCode": "93753"
  },
  {
   "id": 7415030009,
   "districtId": 7415030,
-  "name": "JAYABAKTI"
+  "districtName": "SAMPOLAWA",
+  "name": "JAYABAKTI",
+  "postalCode": "44172"
  },
  {
   "id": 7415030010,
   "districtId": 7415030,
-  "name": "TIRA"
+  "districtName": "SAMPOLAWA",
+  "name": "TIRA",
+  "postalCode": "93753"
  },
  {
   "id": 7415030011,
   "districtId": 7415030,
-  "name": "BAHARI"
+  "districtName": "SAMPOLAWA",
+  "name": "BAHARI",
+  "postalCode": "94681"
  },
  {
   "id": 7415030013,
   "districtId": 7415030,
-  "name": "GERAK MAKMUR"
+  "districtName": "SAMPOLAWA",
+  "name": "GERAK MAKMUR",
+  "postalCode": "93753"
  },
  {
   "id": 7415030020,
   "districtId": 7415030,
-  "name": "TODOMBULU"
+  "districtName": "SAMPOLAWA",
+  "name": "TODOMBULU",
+  "postalCode": "93753"
  },
  {
   "id": 7415030021,
   "districtId": 7415030,
-  "name": "SANDANG PANGAN"
+  "districtName": "SAMPOLAWA",
+  "name": "SANDANG PANGAN",
+  "postalCode": "93753"
  },
  {
   "id": 7415030022,
   "districtId": 7415030,
-  "name": "HENDEA"
+  "districtName": "SAMPOLAWA",
+  "name": "HENDEA",
+  "postalCode": "93753"
  },
  {
   "id": 7415030023,
   "districtId": 7415030,
-  "name": "LIPUMANGAU"
+  "districtName": "SAMPOLAWA",
+  "name": "LIPUMANGAU",
+  "postalCode": "93753"
  },
  {
   "id": 7415030024,
   "districtId": 7415030,
-  "name": "WATIGINANDA"
+  "districtName": "SAMPOLAWA",
+  "name": "WATIGINANDA",
+  "postalCode": "93753"
  },
  {
   "id": 7415030025,
   "districtId": 7415030,
-  "name": "BAHARI II"
+  "districtName": "SAMPOLAWA",
+  "name": "BAHARI II",
+  "postalCode": ""
  },
  {
   "id": 7415030026,
   "districtId": 7415030,
-  "name": "BAHARI III"
+  "districtName": "SAMPOLAWA",
+  "name": "BAHARI III",
+  "postalCode": ""
  },
  {
   "id": 7415030027,
   "districtId": 7415030,
-  "name": "WINDU MAKMUR"
+  "districtName": "SAMPOLAWA",
+  "name": "WINDU MAKMUR",
+  "postalCode": "93753"
  }
 ]

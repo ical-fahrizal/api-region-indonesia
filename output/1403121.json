@@ -2,81 +2,113 @@
  {
   "id": 1403121001,
   "districtId": 1403121,
-  "name": "TANJUNG SIMPANG"
+  "districtName": "PELANGIRAN",
+  "name": "TANJUNG SIMPANG",
+  "postalCode": "29255"
  },
  {
   "id": 1403121002,
   "districtId": 1403121,
-  "name": "SIMPANG KATEMAN"
+  "districtName": "PELANGIRAN",
+  "name": "SIMPANG KATEMAN",
+  "postalCode": "29255"
  },
  {
   "id": 1403121003,
   "districtId": 1403121,
-  "name": "PELANGIRAN"
+  "districtName": "PELANGIRAN",
+  "name": "PELANGIRAN",
+  "postalCode": "29255"
  },
  {
   "id": 1403121004,
   "districtId": 1403121,
-  "name": "ROTAN SEMELUR"
+  "districtName": "PELANGIRAN",
+  "name": "ROTAN SEMELUR",
+  "postalCode": "29255"
  },
  {
   "id": 1403121005,
   "districtId": 1403121,
-  "name": "BAUNG REJO JAYA"
+  "districtName": "PELANGIRAN",
+  "name": "BAUNG REJO JAYA",
+  "postalCode": ""
  },
  {
   "id": 1403121006,
   "districtId": 1403121,
-  "name": "TAGAGIRI TAMA JAYA"
+  "districtName": "PELANGIRAN",
+  "name": "TAGAGIRI TAMA JAYA",
+  "postalCode": "29255"
  },
  {
   "id": 1403121007,
   "districtId": 1403121,
-  "name": "PINANG JAYA"
+  "districtName": "PELANGIRAN",
+  "name": "PINANG JAYA",
+  "postalCode": "29255"
  },
  {
   "id": 1403121008,
   "districtId": 1403121,
-  "name": "WONOSARI"
+  "districtName": "PELANGIRAN",
+  "name": "WONOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 1403121009,
   "districtId": 1403121,
-  "name": "TEGAL REJO JAYA"
+  "districtName": "PELANGIRAN",
+  "name": "TEGAL REJO JAYA",
+  "postalCode": ""
  },
  {
   "id": 1403121010,
   "districtId": 1403121,
-  "name": "INTAN MULYA JAYA"
+  "districtName": "PELANGIRAN",
+  "name": "INTAN MULYA JAYA",
+  "postalCode": ""
  },
  {
   "id": 1403121011,
   "districtId": 1403121,
-  "name": "SAKA PALAS JAYA"
+  "districtName": "PELANGIRAN",
+  "name": "SAKA PALAS JAYA",
+  "postalCode": "29255"
  },
  {
   "id": 1403121012,
   "districtId": 1403121,
-  "name": "CATUR KARYA"
+  "districtName": "PELANGIRAN",
+  "name": "CATUR KARYA",
+  "postalCode": "29255"
  },
  {
   "id": 1403121013,
   "districtId": 1403121,
-  "name": "BAGAN JAYA"
+  "districtName": "PELANGIRAN",
+  "name": "BAGAN JAYA",
+  "postalCode": "29272"
  },
  {
   "id": 1403121014,
   "districtId": 1403121,
-  "name": "TELUK BUNIAN"
+  "districtName": "PELANGIRAN",
+  "name": "TELUK BUNIAN",
+  "postalCode": "29255"
  },
  {
   "id": 1403121015,
   "districtId": 1403121,
-  "name": "HIDAYAH"
+  "districtName": "PELANGIRAN",
+  "name": "HIDAYAH",
+  "postalCode": "29255"
  },
  {
   "id": 1403121016,
   "districtId": 1403121,
-  "name": "TERUSAN BERINGIN JAYA"
+  "districtName": "PELANGIRAN",
+  "name": "TERUSAN BERINGIN JAYA",
+  "postalCode": "29255"
  }
 ]

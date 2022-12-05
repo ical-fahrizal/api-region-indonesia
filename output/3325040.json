@@ -2,86 +2,120 @@
  {
   "id": 3325040001,
   "districtId": 3325040,
-  "name": "PACET"
+  "districtName": "REBAN",
+  "name": "PACET",
+  "postalCode": "51273"
  },
  {
   "id": 3325040002,
   "districtId": 3325040,
-  "name": "MOJOTENGAH"
+  "districtName": "REBAN",
+  "name": "MOJOTENGAH",
+  "postalCode": "56252"
  },
  {
   "id": 3325040003,
   "districtId": 3325040,
-  "name": "CABLIKAN"
+  "districtName": "REBAN",
+  "name": "CABLIKAN",
+  "postalCode": "51273"
  },
  {
   "id": 3325040004,
   "districtId": 3325040,
-  "name": "NGROTO"
+  "districtName": "REBAN",
+  "name": "NGROTO",
+  "postalCode": "58314"
  },
  {
   "id": 3325040005,
   "districtId": 3325040,
-  "name": "NGADIREJO"
+  "districtName": "REBAN",
+  "name": "NGADIREJO",
+  "postalCode": "31662"
  },
  {
   "id": 3325040006,
   "districtId": 3325040,
-  "name": "REBAN"
+  "districtName": "REBAN",
+  "name": "REBAN",
+  "postalCode": "51273"
  },
  {
   "id": 3325040007,
   "districtId": 3325040,
-  "name": "TAMBAKBOYO"
+  "districtName": "REBAN",
+  "name": "TAMBAKBOYO",
+  "postalCode": "50612"
  },
  {
   "id": 3325040008,
   "districtId": 3325040,
-  "name": "ADINUSO"
+  "districtName": "REBAN",
+  "name": "ADINUSO",
+  "postalCode": "51273"
  },
  {
   "id": 3325040011,
   "districtId": 3325040,
-  "name": "PADOMASAN"
+  "districtName": "REBAN",
+  "name": "PADOMASAN",
+  "postalCode": "51273"
  },
  {
   "id": 3325040012,
   "districtId": 3325040,
-  "name": "SEMAMPIR"
+  "districtName": "REBAN",
+  "name": "SEMAMPIR",
+  "postalCode": "53418"
  },
  {
   "id": 3325040013,
   "districtId": 3325040,
-  "name": "WONOSOBO"
+  "districtName": "REBAN",
+  "name": "WONOSOBO",
+  "postalCode": "24581"
  },
  {
   "id": 3325040014,
   "districtId": 3325040,
-  "name": "SOJOMERTO"
+  "districtName": "REBAN",
+  "name": "SOJOMERTO",
+  "postalCode": "51356"
  },
  {
   "id": 3325040015,
   "districtId": 3325040,
-  "name": "KARANGANYAR"
+  "districtName": "REBAN",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  },
  {
   "id": 3325040016,
   "districtId": 3325040,
-  "name": "POLODORO"
+  "districtName": "REBAN",
+  "name": "POLODORO",
+  "postalCode": "51273"
  },
  {
   "id": 3325040017,
   "districtId": 3325040,
-  "name": "KALISARI"
+  "districtName": "REBAN",
+  "name": "KALISARI",
+  "postalCode": "35686"
  },
  {
   "id": 3325040018,
   "districtId": 3325040,
-  "name": "SUKOMANGLI"
+  "districtName": "REBAN",
+  "name": "SUKOMANGLI",
+  "postalCode": "51364"
  },
  {
   "id": 3325040022,
   "districtId": 3325040,
-  "name": "WONOROJO"
+  "districtName": "REBAN",
+  "name": "WONOROJO",
+  "postalCode": "51255"
  }
 ]

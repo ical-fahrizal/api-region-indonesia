@@ -2,86 +2,120 @@
  {
   "id": 5318030002,
   "districtId": 5318030,
-  "name": "PODENURA"
+  "districtName": "NANGARORO",
+  "name": "PODENURA",
+  "postalCode": "86464"
  },
  {
   "id": 5318030003,
   "districtId": 5318030,
-  "name": "TONGGO"
+  "districtName": "NANGARORO",
+  "name": "TONGGO",
+  "postalCode": "86464"
  },
  {
   "id": 5318030004,
   "districtId": 5318030,
-  "name": "RITI"
+  "districtName": "NANGARORO",
+  "name": "RITI",
+  "postalCode": "86464"
  },
  {
   "id": 5318030007,
   "districtId": 5318030,
-  "name": "WOKODEKORORO"
+  "districtName": "NANGARORO",
+  "name": "WOKODEKORORO",
+  "postalCode": "86464"
  },
  {
   "id": 5318030008,
   "districtId": 5318030,
-  "name": "DEGALEA"
+  "districtName": "NANGARORO",
+  "name": "DEGALEA",
+  "postalCode": "86464"
  },
  {
   "id": 5318030009,
   "districtId": 5318030,
-  "name": "KOTAKEO"
+  "districtName": "NANGARORO",
+  "name": "KOTAKEO",
+  "postalCode": "86464"
  },
  {
   "id": 5318030010,
   "districtId": 5318030,
-  "name": "PAGOMOGO"
+  "districtName": "NANGARORO",
+  "name": "PAGOMOGO",
+  "postalCode": "86464"
  },
  {
   "id": 5318030011,
   "districtId": 5318030,
-  "name": "NANGARORO"
+  "districtName": "NANGARORO",
+  "name": "NANGARORO",
+  "postalCode": "86464"
  },
  {
   "id": 5318030012,
   "districtId": 5318030,
-  "name": "NATAUTE"
+  "districtName": "NANGARORO",
+  "name": "NATAUTE",
+  "postalCode": "86464"
  },
  {
   "id": 5318030013,
   "districtId": 5318030,
-  "name": "UTETOTO"
+  "districtName": "NANGARORO",
+  "name": "UTETOTO",
+  "postalCode": "86464"
  },
  {
   "id": 5318030014,
   "districtId": 5318030,
-  "name": "BIDOA"
+  "districtName": "NANGARORO",
+  "name": "BIDOA",
+  "postalCode": "86464"
  },
  {
   "id": 5318030016,
   "districtId": 5318030,
-  "name": "WOEDOA"
+  "districtName": "NANGARORO",
+  "name": "WOEDOA",
+  "postalCode": "86464"
  },
  {
   "id": 5318030018,
   "districtId": 5318030,
-  "name": "WOEWUTU"
+  "districtName": "NANGARORO",
+  "name": "WOEWUTU",
+  "postalCode": "86464"
  },
  {
   "id": 5318030019,
   "districtId": 5318030,
-  "name": "WOKOWOE"
+  "districtName": "NANGARORO",
+  "name": "WOKOWOE",
+  "postalCode": "86464"
  },
  {
   "id": 5318030020,
   "districtId": 5318030,
-  "name": "KOTAKEO I"
+  "districtName": "NANGARORO",
+  "name": "KOTAKEO I",
+  "postalCode": ""
  },
  {
   "id": 5318030021,
   "districtId": 5318030,
-  "name": "KOTAKEO II"
+  "districtName": "NANGARORO",
+  "name": "KOTAKEO II",
+  "postalCode": ""
  },
  {
   "id": 5318030022,
   "districtId": 5318030,
-  "name": "ODAUTE"
+  "districtName": "NANGARORO",
+  "name": "ODAUTE",
+  "postalCode": ""
  }
 ]

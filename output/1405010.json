@@ -2,26 +2,36 @@
  {
   "id": 1405010005,
   "districtId": 1405010,
-  "name": "MANDI ANGIN"
+  "districtName": "MINAS",
+  "name": "MANDI ANGIN",
+  "postalCode": "28685"
  },
  {
   "id": 1405010006,
   "districtId": 1405010,
-  "name": "MINAS BARAT"
+  "districtName": "MINAS",
+  "name": "MINAS BARAT",
+  "postalCode": "28685"
  },
  {
   "id": 1405010007,
   "districtId": 1405010,
-  "name": "RANTAU BERTUAH"
+  "districtName": "MINAS",
+  "name": "RANTAU BERTUAH",
+  "postalCode": "28685"
  },
  {
   "id": 1405010008,
   "districtId": 1405010,
-  "name": "MINAS TIMUR"
+  "districtName": "MINAS",
+  "name": "MINAS TIMUR",
+  "postalCode": "28685"
  },
  {
   "id": 1405010009,
   "districtId": 1405010,
-  "name": "MINAS JAYA"
+  "districtName": "MINAS",
+  "name": "MINAS JAYA",
+  "postalCode": "28685"
  }
 ]

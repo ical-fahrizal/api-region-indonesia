@@ -2,56 +2,78 @@
  {
   "id": 7305010001,
   "districtId": 7305010,
-  "name": "PUNAGA"
+  "districtName": "MANGARA BOMBANG",
+  "name": "PUNAGA",
+  "postalCode": "92261"
  },
  {
   "id": 7305010002,
   "districtId": 7305010,
-  "name": "LAIKANG"
+  "districtName": "MANGARA BOMBANG",
+  "name": "LAIKANG",
+  "postalCode": "92574"
  },
  {
   "id": 7305010003,
   "districtId": 7305010,
-  "name": "CIKOWANG"
+  "districtName": "MANGARA BOMBANG",
+  "name": "CIKOWANG",
+  "postalCode": "92261"
  },
  {
   "id": 7305010004,
   "districtId": 7305010,
-  "name": "PATTOPPAKANG"
+  "districtName": "MANGARA BOMBANG",
+  "name": "PATTOPPAKANG",
+  "postalCode": "92261"
  },
  {
   "id": 7305010005,
   "districtId": 7305010,
-  "name": "BONTOPARANG"
+  "districtName": "MANGARA BOMBANG",
+  "name": "BONTOPARANG",
+  "postalCode": "92261"
  },
  {
   "id": 7305010006,
   "districtId": 7305010,
-  "name": "PANYANGKALANG"
+  "districtName": "MANGARA BOMBANG",
+  "name": "PANYANGKALANG",
+  "postalCode": "92152"
  },
  {
   "id": 7305010007,
   "districtId": 7305010,
-  "name": "BONTOMANAI"
+  "districtName": "MANGARA BOMBANG",
+  "name": "BONTOMANAI",
+  "postalCode": "92152"
  },
  {
   "id": 7305010008,
   "districtId": 7305010,
-  "name": "LAKATONG"
+  "districtName": "MANGARA BOMBANG",
+  "name": "LAKATONG",
+  "postalCode": "92261"
  },
  {
   "id": 7305010009,
   "districtId": 7305010,
-  "name": "TOPEJAWA"
+  "districtName": "MANGARA BOMBANG",
+  "name": "TOPEJAWA",
+  "postalCode": "92261"
  },
  {
   "id": 7305010010,
   "districtId": 7305010,
-  "name": "BANGGAE"
+  "districtName": "MANGARA BOMBANG",
+  "name": "BANGGAE",
+  "postalCode": "92261"
  },
  {
   "id": 7305010011,
   "districtId": 7305010,
-  "name": "MANGADU"
+  "districtName": "MANGARA BOMBANG",
+  "name": "MANGADU",
+  "postalCode": "92261"
  }
 ]

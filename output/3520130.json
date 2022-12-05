@@ -2,66 +2,92 @@
  {
   "id": 3520130001,
   "districtId": 3520130,
-  "name": "BANJAREJO"
+  "districtName": "BARAT",
+  "name": "BANJAREJO",
+  "postalCode": "35373"
  },
  {
   "id": 3520130002,
   "districtId": 3520130,
-  "name": "PURWODADI"
+  "districtName": "BARAT",
+  "name": "PURWODADI",
+  "postalCode": "24652"
  },
  {
   "id": 3520130003,
   "districtId": 3520130,
-  "name": "KARANGSONO"
+  "districtName": "BARAT",
+  "name": "KARANGSONO",
+  "postalCode": "58163"
  },
  {
   "id": 3520130004,
   "districtId": 3520130,
-  "name": "BOGOREJO"
+  "districtName": "BARAT",
+  "name": "BOGOREJO",
+  "postalCode": "35366"
  },
  {
   "id": 3520130005,
   "districtId": 3520130,
-  "name": "TEBON"
+  "districtName": "BARAT",
+  "name": "TEBON",
+  "postalCode": "63395"
  },
  {
   "id": 3520130006,
   "districtId": 3520130,
-  "name": "MANJUNG"
+  "districtName": "BARAT",
+  "name": "MANJUNG",
+  "postalCode": "57466"
  },
  {
   "id": 3520130007,
   "districtId": 3520130,
-  "name": "PANGGUNG"
+  "districtName": "BARAT",
+  "name": "PANGGUNG",
+  "postalCode": "59463"
  },
  {
   "id": 3520130008,
   "districtId": 3520130,
-  "name": "KLAGEN"
+  "districtName": "BARAT",
+  "name": "KLAGEN",
+  "postalCode": "58381"
  },
  {
   "id": 3520130014,
   "districtId": 3520130,
-  "name": "BANGUNASRI"
+  "districtName": "BARAT",
+  "name": "BANGUNASRI",
+  "postalCode": "63395"
  },
  {
   "id": 3520130015,
   "districtId": 3520130,
-  "name": "BLARAN"
+  "districtName": "BARAT",
+  "name": "BLARAN",
+  "postalCode": "63395"
  },
  {
   "id": 3520130016,
   "districtId": 3520130,
-  "name": "MANGGE"
+  "districtName": "BARAT",
+  "name": "MANGGE",
+  "postalCode": "63395"
  },
  {
   "id": 3520130017,
   "districtId": 3520130,
-  "name": "JONGGRANG"
+  "districtName": "BARAT",
+  "name": "JONGGRANG",
+  "postalCode": "63395"
  },
  {
   "id": 3520130023,
   "districtId": 3520130,
-  "name": "REJOMULYO"
+  "districtName": "BARAT",
+  "name": "REJOMULYO",
+  "postalCode": "35365"
  }
 ]

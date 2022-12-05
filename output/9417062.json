@@ -2,21 +2,29 @@
  {
   "id": 9417062001,
   "districtId": 9417062,
-  "name": "MOT"
+  "districtName": "MOFINOP",
+  "name": "MOT",
+  "postalCode": ""
  },
  {
   "id": 9417062002,
   "districtId": 9417062,
-  "name": "MUARA ASBI"
+  "districtName": "MOFINOP",
+  "name": "MUARA ASBI",
+  "postalCode": "99576"
  },
  {
   "id": 9417062003,
   "districtId": 9417062,
-  "name": "MILKI"
+  "districtName": "MOFINOP",
+  "name": "MILKI",
+  "postalCode": "99576"
  },
  {
   "id": 9417062005,
   "districtId": 9417062,
-  "name": "TUAL"
+  "districtName": "MOFINOP",
+  "name": "TUAL",
+  "postalCode": "97611"
  }
 ]

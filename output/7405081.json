@@ -2,41 +2,57 @@
  {
   "id": 7405081001,
   "districtId": 7405081,
-  "name": "LELEKAA"
+  "districtName": "WOLASI",
+  "name": "LELEKAA",
+  "postalCode": ""
  },
  {
   "id": 7405081002,
   "districtId": 7405081,
-  "name": "AMOITO JAYA"
+  "districtName": "WOLASI",
+  "name": "AMOITO JAYA",
+  "postalCode": "93874"
  },
  {
   "id": 7405081003,
   "districtId": 7405081,
-  "name": "AOMA"
+  "districtName": "WOLASI",
+  "name": "AOMA",
+  "postalCode": "93874"
  },
  {
   "id": 7405081004,
   "districtId": 7405081,
-  "name": "WOLASI"
+  "districtName": "WOLASI",
+  "name": "WOLASI",
+  "postalCode": "93874"
  },
  {
   "id": 7405081005,
   "districtId": 7405081,
-  "name": "RANOWILA"
+  "districtName": "WOLASI",
+  "name": "RANOWILA",
+  "postalCode": "93874"
  },
  {
   "id": 7405081006,
   "districtId": 7405081,
-  "name": "AUNUPE"
+  "districtName": "WOLASI",
+  "name": "AUNUPE",
+  "postalCode": "93874"
  },
  {
   "id": 7405081007,
   "districtId": 7405081,
-  "name": "AMBESOKOA"
+  "districtName": "WOLASI",
+  "name": "AMBESOKOA",
+  "postalCode": ""
  },
  {
   "id": 7405081008,
   "districtId": 7405081,
-  "name": "MATA WOLASI"
+  "districtName": "WOLASI",
+  "name": "MATA WOLASI",
+  "postalCode": ""
  }
 ]

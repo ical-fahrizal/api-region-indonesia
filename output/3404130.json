@@ -2,26 +2,36 @@
  {
   "id": 3404130001,
   "districtId": 3404130,
-  "name": "CATUR HARJO"
+  "districtName": "SLEMAN",
+  "name": "CATUR HARJO",
+  "postalCode": "55515"
  },
  {
   "id": 3404130002,
   "districtId": 3404130,
-  "name": "TRIHARJO"
+  "districtName": "SLEMAN",
+  "name": "TRIHARJO",
+  "postalCode": "35357"
  },
  {
   "id": 3404130003,
   "districtId": 3404130,
-  "name": "TRIDADI"
+  "districtName": "SLEMAN",
+  "name": "TRIDADI",
+  "postalCode": "32362"
  },
  {
   "id": 3404130004,
   "districtId": 3404130,
-  "name": "PANDOWO HARJO"
+  "districtName": "SLEMAN",
+  "name": "PANDOWO HARJO",
+  "postalCode": "55512"
  },
  {
   "id": 3404130005,
   "districtId": 3404130,
-  "name": "TRI MULYO"
+  "districtName": "SLEMAN",
+  "name": "TRI MULYO",
+  "postalCode": "55513"
  }
 ]

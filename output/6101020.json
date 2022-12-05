@@ -2,36 +2,50 @@
  {
   "id": 6101020011,
   "districtId": 6101020,
-  "name": "PERAPAKAN"
+  "districtName": "PEMANGKAT",
+  "name": "PERAPAKAN",
+  "postalCode": "79453"
  },
  {
   "id": 6101020013,
   "districtId": 6101020,
-  "name": "HARAPAN"
+  "districtName": "PEMANGKAT",
+  "name": "HARAPAN",
+  "postalCode": "22253"
  },
  {
   "id": 6101020014,
   "districtId": 6101020,
-  "name": "PENJAJAP"
+  "districtName": "PEMANGKAT",
+  "name": "PENJAJAP",
+  "postalCode": "79453"
  },
  {
   "id": 6101020015,
   "districtId": 6101020,
-  "name": "PEMANGKAT KOTA"
+  "districtName": "PEMANGKAT",
+  "name": "PEMANGKAT KOTA",
+  "postalCode": "79453"
  },
  {
   "id": 6101020016,
   "districtId": 6101020,
-  "name": "SEBATUAN"
+  "districtName": "PEMANGKAT",
+  "name": "SEBATUAN",
+  "postalCode": ""
  },
  {
   "id": 6101020017,
   "districtId": 6101020,
-  "name": "GUGAH SEJAHTERA"
+  "districtName": "PEMANGKAT",
+  "name": "GUGAH SEJAHTERA",
+  "postalCode": ""
  },
  {
   "id": 6101020018,
   "districtId": 6101020,
-  "name": "LONAM"
+  "districtName": "PEMANGKAT",
+  "name": "LONAM",
+  "postalCode": ""
  }
 ]

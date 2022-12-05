@@ -2,66 +2,92 @@
  {
   "id": 7204031001,
   "districtId": 7204031,
-  "name": "MASEWE"
+  "districtName": "PAMONA TIMUR",
+  "name": "MASEWE",
+  "postalCode": ""
  },
  {
   "id": 7204031002,
   "districtId": 7204031,
-  "name": "PANCASILA I"
+  "districtName": "PAMONA TIMUR",
+  "name": "PANCASILA I",
+  "postalCode": ""
  },
  {
   "id": 7204031003,
   "districtId": 7204031,
-  "name": "OLUMOKUNDE"
+  "districtName": "PAMONA TIMUR",
+  "name": "OLUMOKUNDE",
+  "postalCode": "94664"
  },
  {
   "id": 7204031004,
   "districtId": 7204031,
-  "name": "KAMBA"
+  "districtName": "PAMONA TIMUR",
+  "name": "KAMBA",
+  "postalCode": "94664"
  },
  {
   "id": 7204031005,
   "districtId": 7204031,
-  "name": "PETIRO"
+  "districtName": "PAMONA TIMUR",
+  "name": "PETIRO",
+  "postalCode": "94664"
  },
  {
   "id": 7204031006,
   "districtId": 7204031,
-  "name": "TARIPA"
+  "districtName": "PAMONA TIMUR",
+  "name": "TARIPA",
+  "postalCode": "94664"
  },
  {
   "id": 7204031007,
   "districtId": 7204031,
-  "name": "TIU"
+  "districtName": "PAMONA TIMUR",
+  "name": "TIU",
+  "postalCode": "94663"
  },
  {
   "id": 7204031008,
   "districtId": 7204031,
-  "name": "POLEGANYARA"
+  "districtName": "PAMONA TIMUR",
+  "name": "POLEGANYARA",
+  "postalCode": "94663"
  },
  {
   "id": 7204031009,
   "districtId": 7204031,
-  "name": "OMPO DIDIRI"
+  "districtName": "PAMONA TIMUR",
+  "name": "OMPO DIDIRI",
+  "postalCode": ""
  },
  {
   "id": 7204031010,
   "districtId": 7204031,
-  "name": "KELEI"
+  "districtName": "PAMONA TIMUR",
+  "name": "KELEI",
+  "postalCode": "94663"
  },
  {
   "id": 7204031011,
   "districtId": 7204031,
-  "name": "MATIALEMBA"
+  "districtName": "PAMONA TIMUR",
+  "name": "MATIALEMBA",
+  "postalCode": "94663"
  },
  {
   "id": 7204031012,
   "districtId": 7204031,
-  "name": "KANCUU"
+  "districtName": "PAMONA TIMUR",
+  "name": "KANCUU",
+  "postalCode": "94663"
  },
  {
   "id": 7204031013,
   "districtId": 7204031,
-  "name": "MAGAPU"
+  "districtName": "PAMONA TIMUR",
+  "name": "MAGAPU",
+  "postalCode": ""
  }
 ]

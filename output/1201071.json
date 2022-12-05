@@ -2,56 +2,78 @@
  {
   "id": 1201071001,
   "districtId": 1201071,
-  "name": "TUHEMBUASI"
+  "districtName": "SOGAEADU",
+  "name": "TUHEMBUASI",
+  "postalCode": "22871"
  },
  {
   "id": 1201071002,
   "districtId": 1201071,
-  "name": "HILIBADALU"
+  "districtName": "SOGAEADU",
+  "name": "HILIBADALU",
+  "postalCode": "22871"
  },
  {
   "id": 1201071003,
   "districtId": 1201071,
-  "name": "LAURI"
+  "districtName": "SOGAEADU",
+  "name": "LAURI",
+  "postalCode": "22871"
  },
  {
   "id": 1201071004,
   "districtId": 1201071,
-  "name": "HILIMBANA"
+  "districtName": "SOGAEADU",
+  "name": "HILIMBANA",
+  "postalCode": "22871"
  },
  {
   "id": 1201071005,
   "districtId": 1201071,
-  "name": "SAETAGARAMBA"
+  "districtName": "SOGAEADU",
+  "name": "SAETAGARAMBA",
+  "postalCode": ""
  },
  {
   "id": 1201071006,
   "districtId": 1201071,
-  "name": "SOGAEADU"
+  "districtName": "SOGAEADU",
+  "name": "SOGAEADU",
+  "postalCode": "22871"
  },
  {
   "id": 1201071007,
   "districtId": 1201071,
-  "name": "BARUZO"
+  "districtName": "SOGAEADU",
+  "name": "BARUZO",
+  "postalCode": "22872"
  },
  {
   "id": 1201071008,
   "districtId": 1201071,
-  "name": "TULUMBAHO"
+  "districtName": "SOGAEADU",
+  "name": "TULUMBAHO",
+  "postalCode": "22871"
  },
  {
   "id": 1201071009,
   "districtId": 1201071,
-  "name": "SIHAREO SOGAEADU"
+  "districtName": "SOGAEADU",
+  "name": "SIHAREO SOGAEADU",
+  "postalCode": "22871"
  },
  {
   "id": 1201071010,
   "districtId": 1201071,
-  "name": "WEA-WEA"
+  "districtName": "SOGAEADU",
+  "name": "WEA-WEA",
+  "postalCode": "22871"
  },
  {
   "id": 1201071011,
   "districtId": 1201071,
-  "name": "SISARAHILI SOGEADU"
+  "districtName": "SOGAEADU",
+  "name": "SISARAHILI SOGEADU",
+  "postalCode": "22871"
  }
 ]

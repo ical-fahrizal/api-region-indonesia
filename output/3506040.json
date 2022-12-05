@@ -2,71 +2,99 @@
  {
   "id": 3506040001,
   "districtId": 3506040,
-  "name": "SETONOREJO"
+  "districtName": "KRAS",
+  "name": "SETONOREJO",
+  "postalCode": "64172"
  },
  {
   "id": 3506040002,
   "districtId": 3506040,
-  "name": "PELAS"
+  "districtName": "KRAS",
+  "name": "PELAS",
+  "postalCode": "64172"
  },
  {
   "id": 3506040004,
   "districtId": 3506040,
-  "name": "REJOMULYO"
+  "districtName": "KRAS",
+  "name": "REJOMULYO",
+  "postalCode": "35365"
  },
  {
   "id": 3506040005,
   "districtId": 3506040,
-  "name": "MOJOSARI"
+  "districtName": "KRAS",
+  "name": "MOJOSARI",
+  "postalCode": "56265"
  },
  {
   "id": 3506040007,
   "districtId": 3506040,
-  "name": "JABANG"
+  "districtName": "KRAS",
+  "name": "JABANG",
+  "postalCode": "64172"
  },
  {
   "id": 3506040008,
   "districtId": 3506040,
-  "name": "KARANGTALUN"
+  "districtName": "KRAS",
+  "name": "KARANGTALUN",
+  "postalCode": "58253"
  },
  {
   "id": 3506040009,
   "districtId": 3506040,
-  "name": "NYAWANGAN"
+  "districtName": "KRAS",
+  "name": "NYAWANGAN",
+  "postalCode": "64172"
  },
  {
   "id": 3506040010,
   "districtId": 3506040,
-  "name": "KRAS"
+  "districtName": "KRAS",
+  "name": "KRAS",
+  "postalCode": "64172"
  },
  {
   "id": 3506040011,
   "districtId": 3506040,
-  "name": "BENDOSARI"
+  "districtName": "KRAS",
+  "name": "BENDOSARI",
+  "postalCode": "57528"
  },
  {
   "id": 3506040012,
   "districtId": 3506040,
-  "name": "KRANDANG"
+  "districtName": "KRAS",
+  "name": "KRANDANG",
+  "postalCode": "64172"
  },
  {
   "id": 3506040013,
   "districtId": 3506040,
-  "name": "KANIGORO"
+  "districtName": "KRAS",
+  "name": "KANIGORO",
+  "postalCode": "56194"
  },
  {
   "id": 3506040014,
   "districtId": 3506040,
-  "name": "BANJARANYAR"
+  "districtName": "KRAS",
+  "name": "BANJARANYAR",
+  "postalCode": "46383"
  },
  {
   "id": 3506040015,
   "districtId": 3506040,
-  "name": "PURWODADI"
+  "districtName": "KRAS",
+  "name": "PURWODADI",
+  "postalCode": "24652"
  },
  {
   "id": 3506040016,
   "districtId": 3506040,
-  "name": "JAMBEAN"
+  "districtName": "KRAS",
+  "name": "JAMBEAN",
+  "postalCode": "64172"
  }
 ]

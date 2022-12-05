@@ -2,46 +2,64 @@
  {
   "id": 5303141001,
   "districtId": 5303141,
-  "name": "PATHAU"
+  "districtName": "AMABI OEFETO TIMUR",
+  "name": "PATHAU",
+  "postalCode": "85363"
  },
  {
   "id": 5303141003,
   "districtId": 5303141,
-  "name": "OEMOLO"
+  "districtName": "AMABI OEFETO TIMUR",
+  "name": "OEMOLO",
+  "postalCode": "85363"
  },
  {
   "id": 5303141004,
   "districtId": 5303141,
-  "name": "OEMOFA"
+  "districtName": "AMABI OEFETO TIMUR",
+  "name": "OEMOFA",
+  "postalCode": "85363"
  },
  {
   "id": 5303141005,
   "districtId": 5303141,
-  "name": "SEKI"
+  "districtName": "AMABI OEFETO TIMUR",
+  "name": "SEKI",
+  "postalCode": "85363"
  },
  {
   "id": 5303141006,
   "districtId": 5303141,
-  "name": "NUNMAFO"
+  "districtName": "AMABI OEFETO TIMUR",
+  "name": "NUNMAFO",
+  "postalCode": "85363"
  },
  {
   "id": 5303141007,
   "districtId": 5303141,
-  "name": "OENUNUTONO"
+  "districtName": "AMABI OEFETO TIMUR",
+  "name": "OENUNUTONO",
+  "postalCode": ""
  },
  {
   "id": 5303141008,
   "districtId": 5303141,
-  "name": "OENIKO"
+  "districtName": "AMABI OEFETO TIMUR",
+  "name": "OENIKO",
+  "postalCode": "85363"
  },
  {
   "id": 5303141009,
   "districtId": 5303141,
-  "name": "ENOLANAN"
+  "districtName": "AMABI OEFETO TIMUR",
+  "name": "ENOLANAN",
+  "postalCode": "85363"
  },
  {
   "id": 5303141010,
   "districtId": 5303141,
-  "name": "OENAUNU"
+  "districtName": "AMABI OEFETO TIMUR",
+  "name": "OENAUNU",
+  "postalCode": "85363"
  }
 ]

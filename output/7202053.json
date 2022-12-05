@@ -2,46 +2,64 @@
  {
   "id": 7202053002,
   "districtId": 7202053,
-  "name": "MAAHAS"
+  "districtName": "LUWUK SELATAN",
+  "name": "MAAHAS",
+  "postalCode": "94717"
  },
  {
   "id": 7202053003,
   "districtId": 7202053,
-  "name": "SIMPONG"
+  "districtName": "LUWUK SELATAN",
+  "name": "SIMPONG",
+  "postalCode": "94717"
  },
  {
   "id": 7202053004,
   "districtId": 7202053,
-  "name": "HANGA-HANGA"
+  "districtName": "LUWUK SELATAN",
+  "name": "HANGA-HANGA",
+  "postalCode": ""
  },
  {
   "id": 7202053005,
   "districtId": 7202053,
-  "name": "TANJUNG TUWIS"
+  "districtName": "LUWUK SELATAN",
+  "name": "TANJUNG TUWIS",
+  "postalCode": "94717"
  },
  {
   "id": 7202053006,
   "districtId": 7202053,
-  "name": "BUKIT MAMBUAL"
+  "districtName": "LUWUK SELATAN",
+  "name": "BUKIT MAMBUAL",
+  "postalCode": ""
  },
  {
   "id": 7202053007,
   "districtId": 7202053,
-  "name": "TOMBANG PERMAI"
+  "districtName": "LUWUK SELATAN",
+  "name": "TOMBANG PERMAI",
+  "postalCode": "94717"
  },
  {
   "id": 7202053008,
   "districtId": 7202053,
-  "name": "KOMPO"
+  "districtName": "LUWUK SELATAN",
+  "name": "KOMPO",
+  "postalCode": "94717"
  },
  {
   "id": 7202053009,
   "districtId": 7202053,
-  "name": "JOLE"
+  "districtName": "LUWUK SELATAN",
+  "name": "JOLE",
+  "postalCode": "94717"
  },
  {
   "id": 7202053010,
   "districtId": 7202053,
-  "name": "HANGA-HANGA PERMAI"
+  "districtName": "LUWUK SELATAN",
+  "name": "HANGA-HANGA PERMAI",
+  "postalCode": "94717"
  }
 ]

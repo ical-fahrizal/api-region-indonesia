@@ -2,31 +2,43 @@
  {
   "id": 1208041001,
   "districtId": 1208041,
-  "name": "SEI KEPAYANG KIRI"
+  "districtName": "SEI KEPAYANG BARAT",
+  "name": "SEI KEPAYANG KIRI",
+  "postalCode": "21381"
  },
  {
   "id": 1208041002,
   "districtId": 1208041,
-  "name": "SEI LENDIR"
+  "districtName": "SEI KEPAYANG BARAT",
+  "name": "SEI LENDIR",
+  "postalCode": "21381"
  },
  {
   "id": 1208041003,
   "districtId": 1208041,
-  "name": "SEI TUALANG PANDAU"
+  "districtName": "SEI KEPAYANG BARAT",
+  "name": "SEI TUALANG PANDAU",
+  "postalCode": "21381"
  },
  {
   "id": 1208041004,
   "districtId": 1208041,
-  "name": "SEI SERINDAN"
+  "districtName": "SEI KEPAYANG BARAT",
+  "name": "SEI SERINDAN",
+  "postalCode": "21381"
  },
  {
   "id": 1208041005,
   "districtId": 1208041,
-  "name": "SEI JAWI JAWI"
+  "districtName": "SEI KEPAYANG BARAT",
+  "name": "SEI JAWI JAWI",
+  "postalCode": ""
  },
  {
   "id": 1208041006,
   "districtId": 1208041,
-  "name": "SEI NANGKA"
+  "districtName": "SEI KEPAYANG BARAT",
+  "name": "SEI NANGKA",
+  "postalCode": "21381"
  }
 ]

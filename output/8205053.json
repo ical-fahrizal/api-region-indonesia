@@ -2,56 +2,78 @@
  {
   "id": 8205053001,
   "districtId": 8205053,
-  "name": "LIMAU"
+  "districtName": "GALELA UTARA",
+  "name": "LIMAU",
+  "postalCode": "30953"
  },
  {
   "id": 8205053002,
   "districtId": 8205053,
-  "name": "LALONGA"
+  "districtName": "GALELA UTARA",
+  "name": "LALONGA",
+  "postalCode": "97761"
  },
  {
   "id": 8205053003,
   "districtId": 8205053,
-  "name": "BOBI SINGO"
+  "districtName": "GALELA UTARA",
+  "name": "BOBI SINGO",
+  "postalCode": "97761"
  },
  {
   "id": 8205053004,
   "districtId": 8205053,
-  "name": "DODOWO"
+  "districtName": "GALELA UTARA",
+  "name": "DODOWO",
+  "postalCode": "97761"
  },
  {
   "id": 8205053005,
   "districtId": 8205053,
-  "name": "SALIMULI"
+  "districtName": "GALELA UTARA",
+  "name": "SALIMULI",
+  "postalCode": "97761"
  },
  {
   "id": 8205053006,
   "districtId": 8205053,
-  "name": "TUTUMALOLEO"
+  "districtName": "GALELA UTARA",
+  "name": "TUTUMALOLEO",
+  "postalCode": "97761"
  },
  {
   "id": 8205053007,
   "districtId": 8205053,
-  "name": "TOGASA"
+  "districtName": "GALELA UTARA",
+  "name": "TOGASA",
+  "postalCode": "97761"
  },
  {
   "id": 8205053008,
   "districtId": 8205053,
-  "name": "SALUTA"
+  "districtName": "GALELA UTARA",
+  "name": "SALUTA",
+  "postalCode": "97761"
  },
  {
   "id": 8205053009,
   "districtId": 8205053,
-  "name": "PELITA"
+  "districtName": "GALELA UTARA",
+  "name": "PELITA",
+  "postalCode": "20621"
  },
  {
   "id": 8205053010,
   "districtId": 8205053,
-  "name": "BERINGIN JAYA"
+  "districtName": "GALELA UTARA",
+  "name": "BERINGIN JAYA",
+  "postalCode": "21464"
  },
  {
   "id": 8205053012,
   "districtId": 8205053,
-  "name": "JERE TUA"
+  "districtName": "GALELA UTARA",
+  "name": "JERE TUA",
+  "postalCode": "97761"
  }
 ]

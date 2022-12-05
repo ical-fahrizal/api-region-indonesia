@@ -2,26 +2,36 @@
  {
   "id": 5304013001,
   "districtId": 5304013,
-  "name": "NOEBESI"
+  "districtName": "NUNBENA",
+  "name": "NOEBESI",
+  "postalCode": "85561"
  },
  {
   "id": 5304013002,
   "districtId": 5304013,
-  "name": "LILIANA"
+  "districtName": "NUNBENA",
+  "name": "LILIANA",
+  "postalCode": "85561"
  },
  {
   "id": 5304013003,
   "districtId": 5304013,
-  "name": "NUNBENA"
+  "districtName": "NUNBENA",
+  "name": "NUNBENA",
+  "postalCode": "85575"
  },
  {
   "id": 5304013004,
   "districtId": 5304013,
-  "name": "TANEOTOP"
+  "districtName": "NUNBENA",
+  "name": "TANEOTOP",
+  "postalCode": ""
  },
  {
   "id": 5304013005,
   "districtId": 5304013,
-  "name": "FETOMONE"
+  "districtName": "NUNBENA",
+  "name": "FETOMONE",
+  "postalCode": ""
  }
 ]

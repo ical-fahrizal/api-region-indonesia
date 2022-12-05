@@ -2,46 +2,64 @@
  {
   "id": 1806061001,
   "districtId": 1806061,
-  "name": "BANDAR ABUNG"
+  "districtName": "ABUNG SURAKARTA",
+  "name": "BANDAR ABUNG",
+  "postalCode": ""
  },
  {
   "id": 1806061002,
   "districtId": 1806061,
-  "name": "BANGUN SARI"
+  "districtName": "ABUNG SURAKARTA",
+  "name": "BANGUN SARI",
+  "postalCode": "24782"
  },
  {
   "id": 1806061003,
   "districtId": 1806061,
-  "name": "TATA KARYA"
+  "districtName": "ABUNG SURAKARTA",
+  "name": "TATA KARYA",
+  "postalCode": "34581"
  },
  {
   "id": 1806061004,
   "districtId": 1806061,
-  "name": "SUKOHARJO"
+  "districtName": "ABUNG SURAKARTA",
+  "name": "SUKOHARJO",
+  "postalCode": "32383"
  },
  {
   "id": 1806061005,
   "districtId": 1806061,
-  "name": "BUMI RESTU"
+  "districtName": "ABUNG SURAKARTA",
+  "name": "BUMI RESTU",
+  "postalCode": "34581"
  },
  {
   "id": 1806061006,
   "districtId": 1806061,
-  "name": "BUMI RAHARJA"
+  "districtName": "ABUNG SURAKARTA",
+  "name": "BUMI RAHARJA",
+  "postalCode": "34581"
  },
  {
   "id": 1806061007,
   "districtId": 1806061,
-  "name": "PURBA SAKTI"
+  "districtName": "ABUNG SURAKARTA",
+  "name": "PURBA SAKTI",
+  "postalCode": "34581"
  },
  {
   "id": 1806061008,
   "districtId": 1806061,
-  "name": "BANDAR SAKTI"
+  "districtName": "ABUNG SURAKARTA",
+  "name": "BANDAR SAKTI",
+  "postalCode": "20613"
  },
  {
   "id": 1806061009,
   "districtId": 1806061,
-  "name": "KARYA SAKTI"
+  "districtName": "ABUNG SURAKARTA",
+  "name": "KARYA SAKTI",
+  "postalCode": "31663"
  }
 ]

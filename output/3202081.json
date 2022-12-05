@@ -2,31 +2,43 @@
  {
   "id": 3202081001,
   "districtId": 3202081,
-  "name": "HEGARMULYA"
+  "districtName": "CIDADAP",
+  "name": "HEGARMULYA",
+  "postalCode": "43183"
  },
  {
   "id": 3202081002,
   "districtId": 3202081,
-  "name": "CIDADAP"
+  "districtName": "CIDADAP",
+  "name": "CIDADAP",
+  "postalCode": "43263"
  },
  {
   "id": 3202081003,
   "districtId": 3202081,
-  "name": "PADASENANG"
+  "districtName": "CIDADAP",
+  "name": "PADASENANG",
+  "postalCode": "43183"
  },
  {
   "id": 3202081004,
   "districtId": 3202081,
-  "name": "BANJARSARI"
+  "districtName": "CIDADAP",
+  "name": "BANJARSARI",
+  "postalCode": "35377"
  },
  {
   "id": 3202081005,
   "districtId": 3202081,
-  "name": "TENJOLAUT"
+  "districtName": "CIDADAP",
+  "name": "TENJOLAUT",
+  "postalCode": "43183"
  },
  {
   "id": 3202081006,
   "districtId": 3202081,
-  "name": "MEKARTANI"
+  "districtName": "CIDADAP",
+  "name": "MEKARTANI",
+  "postalCode": "43183"
  }
 ]

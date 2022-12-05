@@ -2,51 +2,71 @@
  {
   "id": 1605051001,
   "districtId": 1605051,
-  "name": "RANTAU SERIK"
+  "districtName": "TIANG PUMPUNG KEPUNGUT",
+  "name": "RANTAU SERIK",
+  "postalCode": ""
  },
  {
   "id": 1605051002,
   "districtId": 1605051,
-  "name": "KEBUR"
+  "districtName": "TIANG PUMPUNG KEPUNGUT",
+  "name": "KEBUR",
+  "postalCode": "31471"
  },
  {
   "id": 1605051003,
   "districtId": 1605051,
-  "name": "LUBUK BESAR"
+  "districtName": "TIANG PUMPUNG KEPUNGUT",
+  "name": "LUBUK BESAR",
+  "postalCode": "21255"
  },
  {
   "id": 1605051004,
   "districtId": 1605051,
-  "name": "BATU BANDUNG"
+  "districtName": "TIANG PUMPUNG KEPUNGUT",
+  "name": "BATU BANDUNG",
+  "postalCode": "31661"
  },
  {
   "id": 1605051005,
   "districtId": 1605051,
-  "name": "MUARA KATI BARU I"
+  "districtName": "TIANG PUMPUNG KEPUNGUT",
+  "name": "MUARA KATI BARU I",
+  "postalCode": "31661"
  },
  {
   "id": 1605051006,
   "districtId": 1605051,
-  "name": "MUARA KATI BARU II"
+  "districtName": "TIANG PUMPUNG KEPUNGUT",
+  "name": "MUARA KATI BARU II",
+  "postalCode": "31661"
  },
  {
   "id": 1605051007,
   "districtId": 1605051,
-  "name": "MUARA KATI LAMA"
+  "districtName": "TIANG PUMPUNG KEPUNGUT",
+  "name": "MUARA KATI LAMA",
+  "postalCode": "31661"
  },
  {
   "id": 1605051008,
   "districtId": 1605051,
-  "name": "RANTAU BINGIN"
+  "districtName": "TIANG PUMPUNG KEPUNGUT",
+  "name": "RANTAU BINGIN",
+  "postalCode": "31661"
  },
  {
   "id": 1605051009,
   "districtId": 1605051,
-  "name": "SIMPANG GEGAS TEMUAN"
+  "districtName": "TIANG PUMPUNG KEPUNGUT",
+  "name": "SIMPANG GEGAS TEMUAN",
+  "postalCode": "31661"
  },
  {
   "id": 1605051010,
   "districtId": 1605051,
-  "name": "KEBUR JAYA"
+  "districtName": "TIANG PUMPUNG KEPUNGUT",
+  "name": "KEBUR JAYA",
+  "postalCode": ""
  }
 ]

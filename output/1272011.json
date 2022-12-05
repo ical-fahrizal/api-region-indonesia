@@ -2,26 +2,36 @@
  {
   "id": 1272011001,
   "districtId": 1272011,
-  "name": "BUNGA TANJUNG"
+  "districtName": "DATUK BANDAR TIMUR",
+  "name": "BUNGA TANJUNG",
+  "postalCode": "24782"
  },
  {
   "id": 1272011002,
   "districtId": 1272011,
-  "name": "SELAT LANCANG"
+  "districtName": "DATUK BANDAR TIMUR",
+  "name": "SELAT LANCANG",
+  "postalCode": "21364"
  },
  {
   "id": 1272011003,
   "districtId": 1272011,
-  "name": "SELAT TANJUNG MEDAN"
+  "districtName": "DATUK BANDAR TIMUR",
+  "name": "SELAT TANJUNG MEDAN",
+  "postalCode": "21364"
  },
  {
   "id": 1272011004,
   "districtId": 1272011,
-  "name": "SEMULA JADI"
+  "districtName": "DATUK BANDAR TIMUR",
+  "name": "SEMULA JADI",
+  "postalCode": "21365"
  },
  {
   "id": 1272011005,
   "districtId": 1272011,
-  "name": "PULAU SIMARDAN"
+  "districtName": "DATUK BANDAR TIMUR",
+  "name": "PULAU SIMARDAN",
+  "postalCode": "21366"
  }
 ]

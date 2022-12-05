@@ -2,31 +2,43 @@
  {
   "id": 3522041001,
   "districtId": 3522041,
-  "name": "MIYONO"
+  "districtName": "SEKAR",
+  "name": "MIYONO",
+  "postalCode": "62167"
  },
  {
   "id": 3522041002,
   "districtId": 3522041,
-  "name": "SEKAR"
+  "districtName": "SEKAR",
+  "name": "SEKAR",
+  "postalCode": "63554"
  },
  {
   "id": 3522041003,
   "districtId": 3522041,
-  "name": "KLINO"
+  "districtName": "SEKAR",
+  "name": "KLINO",
+  "postalCode": "62167"
  },
  {
   "id": 3522041004,
   "districtId": 3522041,
-  "name": "DELING"
+  "districtName": "SEKAR",
+  "name": "DELING",
+  "postalCode": "30659"
  },
  {
   "id": 3522041005,
   "districtId": 3522041,
-  "name": "BARENG"
+  "districtName": "SEKAR",
+  "name": "BARENG",
+  "postalCode": "57414"
  },
  {
   "id": 3522041006,
   "districtId": 3522041,
-  "name": "BOBOL"
+  "districtName": "SEKAR",
+  "name": "BOBOL",
+  "postalCode": "62167"
  }
 ]

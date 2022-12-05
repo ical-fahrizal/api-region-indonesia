@@ -2,51 +2,71 @@
  {
   "id": 3201271001,
   "districtId": 3201271,
-  "name": "CISARUA"
+  "districtName": "SUKAJAYA",
+  "name": "CISARUA",
+  "postalCode": "43115"
  },
  {
   "id": 3201271002,
   "districtId": 3201271,
-  "name": "KIARASARI"
+  "districtName": "SUKAJAYA",
+  "name": "KIARASARI",
+  "postalCode": "41258"
  },
  {
   "id": 3201271003,
   "districtId": 3201271,
-  "name": "KIARAPANDAK"
+  "districtName": "SUKAJAYA",
+  "name": "KIARAPANDAK",
+  "postalCode": ""
  },
  {
   "id": 3201271004,
   "districtId": 3201271,
-  "name": "HARKATJAYA"
+  "districtName": "SUKAJAYA",
+  "name": "HARKATJAYA",
+  "postalCode": "16660"
  },
  {
   "id": 3201271005,
   "districtId": 3201271,
-  "name": "SUKAJAYA"
+  "districtName": "SUKAJAYA",
+  "name": "SUKAJAYA",
+  "postalCode": "30756"
  },
  {
   "id": 3201271006,
   "districtId": 3201271,
-  "name": "SIPAYUNG"
+  "districtName": "SUKAJAYA",
+  "name": "SIPAYUNG",
+  "postalCode": "16660"
  },
  {
   "id": 3201271007,
   "districtId": 3201271,
-  "name": "SUKAMULIH"
+  "districtName": "SUKAJAYA",
+  "name": "SUKAMULIH",
+  "postalCode": "46465"
  },
  {
   "id": 3201271008,
   "districtId": 3201271,
-  "name": "PASIR MADANG"
+  "districtName": "SUKAJAYA",
+  "name": "PASIR MADANG",
+  "postalCode": "16660"
  },
  {
   "id": 3201271009,
   "districtId": 3201271,
-  "name": "CILEUKSA"
+  "districtName": "SUKAJAYA",
+  "name": "CILEUKSA",
+  "postalCode": "16660"
  },
  {
   "id": 3201271011,
   "districtId": 3201271,
-  "name": "JAYARAHARJA"
+  "districtName": "SUKAJAYA",
+  "name": "JAYARAHARJA",
+  "postalCode": "16660"
  }
 ]

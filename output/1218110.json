@@ -2,61 +2,85 @@
  {
   "id": 1218110001,
   "districtId": 1218110,
-  "name": "UJUNG RAMBUNG"
+  "districtName": "PANTAI CERMIN",
+  "name": "UJUNG RAMBUNG",
+  "postalCode": "20987"
  },
  {
   "id": 1218110002,
   "districtId": 1218110,
-  "name": "CELAWAN"
+  "districtName": "PANTAI CERMIN",
+  "name": "CELAWAN",
+  "postalCode": "20987"
  },
  {
   "id": 1218110003,
   "districtId": 1218110,
-  "name": "BESAR 2 TERJUN"
+  "districtName": "PANTAI CERMIN",
+  "name": "BESAR 2 TERJUN",
+  "postalCode": "20987"
  },
  {
   "id": 1218110004,
   "districtId": 1218110,
-  "name": "SEMENTARA"
+  "districtName": "PANTAI CERMIN",
+  "name": "SEMENTARA",
+  "postalCode": "20987"
  },
  {
   "id": 1218110005,
   "districtId": 1218110,
-  "name": "ARA PAYUNG"
+  "districtName": "PANTAI CERMIN",
+  "name": "ARA PAYUNG",
+  "postalCode": "20987"
  },
  {
   "id": 1218110006,
   "districtId": 1218110,
-  "name": "PEMATANG KASIH"
+  "districtName": "PANTAI CERMIN",
+  "name": "PEMATANG KASIH",
+  "postalCode": "20987"
  },
  {
   "id": 1218110007,
   "districtId": 1218110,
-  "name": "NAGA KISAR"
+  "districtName": "PANTAI CERMIN",
+  "name": "NAGA KISAR",
+  "postalCode": "20987"
  },
  {
   "id": 1218110008,
   "districtId": 1218110,
-  "name": "LUBUK SABAN"
+  "districtName": "PANTAI CERMIN",
+  "name": "LUBUK SABAN",
+  "postalCode": "20987"
  },
  {
   "id": 1218110009,
   "districtId": 1218110,
-  "name": "KUALA LAMA"
+  "districtName": "PANTAI CERMIN",
+  "name": "KUALA LAMA",
+  "postalCode": "20987"
  },
  {
   "id": 1218110010,
   "districtId": 1218110,
-  "name": "PANTAI CERMIN KIRI"
+  "districtName": "PANTAI CERMIN",
+  "name": "PANTAI CERMIN KIRI",
+  "postalCode": "20987"
  },
  {
   "id": 1218110011,
   "districtId": 1218110,
-  "name": "PANTAI CERMIN KANAN"
+  "districtName": "PANTAI CERMIN",
+  "name": "PANTAI CERMIN KANAN",
+  "postalCode": "20987"
  },
  {
   "id": 1218110012,
   "districtId": 1218110,
-  "name": "KOTA PARI"
+  "districtName": "PANTAI CERMIN",
+  "name": "KOTA PARI",
+  "postalCode": "20987"
  }
 ]

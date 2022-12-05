@@ -2,66 +2,92 @@
  {
   "id": 3526110001,
   "districtId": 3526110,
-  "name": "UJUNG PIRING"
+  "districtName": "BANGKALAN",
+  "name": "UJUNG PIRING",
+  "postalCode": "69118"
  },
  {
   "id": 3526110002,
   "districtId": 3526110,
-  "name": "SEMBILANGAN"
+  "districtName": "BANGKALAN",
+  "name": "SEMBILANGAN",
+  "postalCode": "69118"
  },
  {
   "id": 3526110003,
   "districtId": 3526110,
-  "name": "KRAMAT"
+  "districtName": "BANGKALAN",
+  "name": "KRAMAT",
+  "postalCode": "10450"
  },
  {
   "id": 3526110004,
   "districtId": 3526110,
-  "name": "MERTAJASAH"
+  "districtName": "BANGKALAN",
+  "name": "MERTAJASAH",
+  "postalCode": ""
  },
  {
   "id": 3526110005,
   "districtId": 3526110,
-  "name": "MLAJAH"
+  "districtName": "BANGKALAN",
+  "name": "MLAJAH",
+  "postalCode": "69116"
  },
  {
   "id": 3526110006,
   "districtId": 3526110,
-  "name": "KEMAYORAN"
+  "districtName": "BANGKALAN",
+  "name": "KEMAYORAN",
+  "postalCode": "10620"
  },
  {
   "id": 3526110007,
   "districtId": 3526110,
-  "name": "PANGERANAN"
+  "districtName": "BANGKALAN",
+  "name": "PANGERANAN",
+  "postalCode": "69115"
  },
  {
   "id": 3526110008,
   "districtId": 3526110,
-  "name": "DEMANGAN"
+  "districtName": "BANGKALAN",
+  "name": "DEMANGAN",
+  "postalCode": "57464"
  },
  {
   "id": 3526110009,
   "districtId": 3526110,
-  "name": "KRATON"
+  "districtName": "BANGKALAN",
+  "name": "KRATON",
+  "postalCode": "52112"
  },
  {
   "id": 3526110010,
   "districtId": 3526110,
-  "name": "PEJAGAN"
+  "districtName": "BANGKALAN",
+  "name": "PEJAGAN",
+  "postalCode": "52254"
  },
  {
   "id": 3526110011,
   "districtId": 3526110,
-  "name": "BANCARAN"
+  "districtName": "BANGKALAN",
+  "name": "BANCARAN",
+  "postalCode": "69112"
  },
  {
   "id": 3526110012,
   "districtId": 3526110,
-  "name": "SABIYAN"
+  "districtName": "BANGKALAN",
+  "name": "SABIYAN",
+  "postalCode": "69113"
  },
  {
   "id": 3526110013,
   "districtId": 3526110,
-  "name": "GEBANG"
+  "districtName": "BANGKALAN",
+  "name": "GEBANG",
+  "postalCode": "35451"
  }
 ]

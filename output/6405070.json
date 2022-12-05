@@ -2,56 +2,78 @@
  {
   "id": 6405070004,
   "districtId": 6405070,
-  "name": "TASUK"
+  "districtName": "GUNUNG TABUR",
+  "name": "TASUK",
+  "postalCode": "77352"
  },
  {
   "id": 6405070005,
   "districtId": 6405070,
-  "name": "BIRANG"
+  "districtName": "GUNUNG TABUR",
+  "name": "BIRANG",
+  "postalCode": "77352"
  },
  {
   "id": 6405070006,
   "districtId": 6405070,
-  "name": "GUNUNG TABUR"
+  "districtName": "GUNUNG TABUR",
+  "name": "GUNUNG TABUR",
+  "postalCode": "77352"
  },
  {
   "id": 6405070007,
   "districtId": 6405070,
-  "name": "MALUANG"
+  "districtName": "GUNUNG TABUR",
+  "name": "MALUANG",
+  "postalCode": "77352"
  },
  {
   "id": 6405070008,
   "districtId": 6405070,
-  "name": "SAMBURAKAT"
+  "districtName": "GUNUNG TABUR",
+  "name": "SAMBURAKAT",
+  "postalCode": "77352"
  },
  {
   "id": 6405070009,
   "districtId": 6405070,
-  "name": "SAMBAKUNGAN"
+  "districtName": "GUNUNG TABUR",
+  "name": "SAMBAKUNGAN",
+  "postalCode": "77352"
  },
  {
   "id": 6405070010,
   "districtId": 6405070,
-  "name": "MELATI JAYA"
+  "districtName": "GUNUNG TABUR",
+  "name": "MELATI JAYA",
+  "postalCode": "32185"
  },
  {
   "id": 6405070011,
   "districtId": 6405070,
-  "name": "MERANCANG ULU"
+  "districtName": "GUNUNG TABUR",
+  "name": "MERANCANG ULU",
+  "postalCode": "77352"
  },
  {
   "id": 6405070012,
   "districtId": 6405070,
-  "name": "PULAU BESING"
+  "districtName": "GUNUNG TABUR",
+  "name": "PULAU BESING",
+  "postalCode": "77352"
  },
  {
   "id": 6405070013,
   "districtId": 6405070,
-  "name": "MERANCANG ILIR"
+  "districtName": "GUNUNG TABUR",
+  "name": "MERANCANG ILIR",
+  "postalCode": "77352"
  },
  {
   "id": 6405070015,
   "districtId": 6405070,
-  "name": "BATU-BATU"
+  "districtName": "GUNUNG TABUR",
+  "name": "BATU-BATU",
+  "postalCode": "23891"
  }
 ]

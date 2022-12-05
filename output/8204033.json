@@ -2,46 +2,64 @@
  {
   "id": 8204033001,
   "districtId": 8204033,
-  "name": "GANDASULI"
+  "districtName": "BACAN SELATAN",
+  "name": "GANDASULI",
+  "postalCode": "53353"
  },
  {
   "id": 8204033002,
   "districtId": 8204033,
-  "name": "KUPAL"
+  "districtName": "BACAN SELATAN",
+  "name": "KUPAL",
+  "postalCode": "97791"
  },
  {
   "id": 8204033003,
   "districtId": 8204033,
-  "name": "SAWADAI"
+  "districtName": "BACAN SELATAN",
+  "name": "SAWADAI",
+  "postalCode": "97791"
  },
  {
   "id": 8204033005,
   "districtId": 8204033,
-  "name": "TUAKONA"
+  "districtName": "BACAN SELATAN",
+  "name": "TUAKONA",
+  "postalCode": ""
  },
  {
   "id": 8204033006,
   "districtId": 8204033,
-  "name": "PANAMBUANG"
+  "districtName": "BACAN SELATAN",
+  "name": "PANAMBUANG",
+  "postalCode": ""
  },
  {
   "id": 8204033007,
   "districtId": 8204033,
-  "name": "MANDAONG"
+  "districtName": "BACAN SELATAN",
+  "name": "MANDAONG",
+  "postalCode": ""
  },
  {
   "id": 8204033008,
   "districtId": 8204033,
-  "name": "TEMBAL"
+  "districtName": "BACAN SELATAN",
+  "name": "TEMBAL",
+  "postalCode": "97791"
  },
  {
   "id": 8204033009,
   "districtId": 8204033,
-  "name": "KAMPUNG MAKIAN"
+  "districtName": "BACAN SELATAN",
+  "name": "KAMPUNG MAKIAN",
+  "postalCode": ""
  },
  {
   "id": 8204033010,
   "districtId": 8204033,
-  "name": "PAPALOANG"
+  "districtName": "BACAN SELATAN",
+  "name": "PAPALOANG",
+  "postalCode": "97791"
  }
 ]

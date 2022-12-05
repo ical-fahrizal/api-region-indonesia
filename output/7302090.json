@@ -2,66 +2,92 @@
  {
   "id": 7302090001,
   "districtId": 7302090,
-  "name": "BALIBO"
+  "districtName": "KINDANG",
+  "name": "BALIBO",
+  "postalCode": "92517"
  },
  {
   "id": 7302090002,
   "districtId": 7302090,
-  "name": "MATTIROWALIE"
+  "districtName": "KINDANG",
+  "name": "MATTIROWALIE",
+  "postalCode": "92517"
  },
  {
   "id": 7302090003,
   "districtId": 7302090,
-  "name": "BENTENG PALIOI"
+  "districtName": "KINDANG",
+  "name": "BENTENG PALIOI",
+  "postalCode": "92517"
  },
  {
   "id": 7302090004,
   "districtId": 7302090,
-  "name": "GARUNTUNGAN"
+  "districtName": "KINDANG",
+  "name": "GARUNTUNGAN",
+  "postalCode": "92517"
  },
  {
   "id": 7302090005,
   "districtId": 7302090,
-  "name": "ANRIHUA"
+  "districtName": "KINDANG",
+  "name": "ANRIHUA",
+  "postalCode": "92517"
  },
  {
   "id": 7302090006,
   "districtId": 7302090,
-  "name": "BORONG RAPPOA"
+  "districtName": "KINDANG",
+  "name": "BORONG RAPPOA",
+  "postalCode": "92517"
  },
  {
   "id": 7302090007,
   "districtId": 7302090,
-  "name": "TAMAONA"
+  "districtName": "KINDANG",
+  "name": "TAMAONA",
+  "postalCode": "92517"
  },
  {
   "id": 7302090008,
   "districtId": 7302090,
-  "name": "KINDANG"
+  "districtName": "KINDANG",
+  "name": "KINDANG",
+  "postalCode": "92517"
  },
  {
   "id": 7302090009,
   "districtId": 7302090,
-  "name": "ORO GADING"
+  "districtName": "KINDANG",
+  "name": "ORO GADING",
+  "postalCode": "92517"
  },
  {
   "id": 7302090010,
   "districtId": 7302090,
-  "name": "SOPA"
+  "districtName": "KINDANG",
+  "name": "SOPA",
+  "postalCode": "92517"
  },
  {
   "id": 7302090011,
   "districtId": 7302090,
-  "name": "SOMBA PALIOI"
+  "districtName": "KINDANG",
+  "name": "SOMBA PALIOI",
+  "postalCode": ""
  },
  {
   "id": 7302090012,
   "districtId": 7302090,
-  "name": "SIPAENRE"
+  "districtName": "KINDANG",
+  "name": "SIPAENRE",
+  "postalCode": "92517"
  },
  {
   "id": 7302090013,
   "districtId": 7302090,
-  "name": "KAHAYA"
+  "districtName": "KINDANG",
+  "name": "KAHAYA",
+  "postalCode": ""
  }
 ]

@@ -2,21 +2,29 @@
  {
   "id": 5303132001,
   "districtId": 5303132,
-  "name": "SAHRAEN"
+  "districtName": "AMARASI SELATAN",
+  "name": "SAHRAEN",
+  "postalCode": "85367"
  },
  {
   "id": 5303132002,
   "districtId": 5303132,
-  "name": "RETRAEN"
+  "districtName": "AMARASI SELATAN",
+  "name": "RETRAEN",
+  "postalCode": "85367"
  },
  {
   "id": 5303132003,
   "districtId": 5303132,
-  "name": "BURAEN"
+  "districtName": "AMARASI SELATAN",
+  "name": "BURAEN",
+  "postalCode": "85367"
  },
  {
   "id": 5303132005,
   "districtId": 5303132,
-  "name": "SONRAEN"
+  "districtName": "AMARASI SELATAN",
+  "name": "SONRAEN",
+  "postalCode": "85367"
  }
 ]

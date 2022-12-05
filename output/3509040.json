@@ -2,36 +2,50 @@
  {
   "id": 3509040001,
   "districtId": 3509040,
-  "name": "LOJEJER"
+  "districtName": "WULUHAN",
+  "name": "LOJEJER",
+  "postalCode": "68162"
  },
  {
   "id": 3509040002,
   "districtId": 3509040,
-  "name": "AMPEL"
+  "districtName": "WULUHAN",
+  "name": "AMPEL",
+  "postalCode": "45456"
  },
  {
   "id": 3509040003,
   "districtId": 3509040,
-  "name": "TANJUNG REJO"
+  "districtName": "WULUHAN",
+  "name": "TANJUNG REJO",
+  "postalCode": "20122"
  },
  {
   "id": 3509040004,
   "districtId": 3509040,
-  "name": "KESILIR"
+  "districtName": "WULUHAN",
+  "name": "KESILIR",
+  "postalCode": "68488"
  },
  {
   "id": 3509040005,
   "districtId": 3509040,
-  "name": "DUKUH DEMPOK"
+  "districtName": "WULUHAN",
+  "name": "DUKUH DEMPOK",
+  "postalCode": "68162"
  },
  {
   "id": 3509040006,
   "districtId": 3509040,
-  "name": "TAMANSARI"
+  "districtName": "WULUHAN",
+  "name": "TAMANSARI",
+  "postalCode": "35366"
  },
  {
   "id": 3509040007,
   "districtId": 3509040,
-  "name": "GLUNDENGAN"
+  "districtName": "WULUHAN",
+  "name": "GLUNDENGAN",
+  "postalCode": "68162"
  }
 ]

@@ -2,51 +2,71 @@
  {
   "id": 3329150001,
   "districtId": 3329150,
-  "name": "SONGGOM"
+  "districtName": "SONGGOM",
+  "name": "SONGGOM",
+  "postalCode": "43261"
  },
  {
   "id": 3329150002,
   "districtId": 3329150,
-  "name": "SONGGOM LOR"
+  "districtName": "SONGGOM",
+  "name": "SONGGOM LOR",
+  "postalCode": "52266"
  },
  {
   "id": 3329150003,
   "districtId": 3329150,
-  "name": "GEGERKUNCI"
+  "districtName": "SONGGOM",
+  "name": "GEGERKUNCI",
+  "postalCode": "52266"
  },
  {
   "id": 3329150004,
   "districtId": 3329150,
-  "name": "JATIMAKMUR"
+  "districtName": "SONGGOM",
+  "name": "JATIMAKMUR",
+  "postalCode": "17413"
  },
  {
   "id": 3329150005,
   "districtId": 3329150,
-  "name": "JATIROKEH"
+  "districtName": "SONGGOM",
+  "name": "JATIROKEH",
+  "postalCode": "52266"
  },
  {
   "id": 3329150006,
   "districtId": 3329150,
-  "name": "CENANG"
+  "districtName": "SONGGOM",
+  "name": "CENANG",
+  "postalCode": "52266"
  },
  {
   "id": 3329150007,
   "districtId": 3329150,
-  "name": "WANATAWANG"
+  "districtName": "SONGGOM",
+  "name": "WANATAWANG",
+  "postalCode": "52266"
  },
  {
   "id": 3329150008,
   "districtId": 3329150,
-  "name": "WANACALA"
+  "districtName": "SONGGOM",
+  "name": "WANACALA",
+  "postalCode": "52266"
  },
  {
   "id": 3329150009,
   "districtId": 3329150,
-  "name": "KARANGSEMBUNG"
+  "districtName": "SONGGOM",
+  "name": "KARANGSEMBUNG",
+  "postalCode": "46175"
  },
  {
   "id": 3329150010,
   "districtId": 3329150,
-  "name": "DUKUHMAJA"
+  "districtName": "SONGGOM",
+  "name": "DUKUHMAJA",
+  "postalCode": "45581"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 3325081001,
   "districtId": 3325081,
-  "name": "DLIMAS"
+  "districtName": "BANYUPUTIH",
+  "name": "DLIMAS",
+  "postalCode": "51271"
  },
  {
   "id": 3325081003,
   "districtId": 3325081,
-  "name": "BANYUPUTIH"
+  "districtName": "BANYUPUTIH",
+  "name": "BANYUPUTIH",
+  "postalCode": "51271"
  },
  {
   "id": 3325081004,
   "districtId": 3325081,
-  "name": "KALIBALIK"
+  "districtName": "BANYUPUTIH",
+  "name": "KALIBALIK",
+  "postalCode": "51271"
  },
  {
   "id": 3325081005,
   "districtId": 3325081,
-  "name": "KALANGSONO"
+  "districtName": "BANYUPUTIH",
+  "name": "KALANGSONO",
+  "postalCode": "51271"
  },
  {
   "id": 3325081007,
   "districtId": 3325081,
-  "name": "BANARAN"
+  "districtName": "BANYUPUTIH",
+  "name": "BANARAN",
+  "postalCode": "51281"
  },
  {
   "id": 3325081008,
   "districtId": 3325081,
-  "name": "TIMBANG"
+  "districtName": "BANYUPUTIH",
+  "name": "TIMBANG",
+  "postalCode": "45556"
  },
  {
   "id": 3325081009,
   "districtId": 3325081,
-  "name": "PENUNDAN"
+  "districtName": "BANYUPUTIH",
+  "name": "PENUNDAN",
+  "postalCode": "51281"
  },
  {
   "id": 3325081011,
   "districtId": 3325081,
-  "name": "KEDAWUNG"
+  "districtName": "BANYUPUTIH",
+  "name": "KEDAWUNG",
+  "postalCode": "45153"
  }
 ]

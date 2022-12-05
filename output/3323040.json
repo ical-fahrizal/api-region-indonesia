@@ -2,61 +2,85 @@
  {
   "id": 3323040012,
   "districtId": 3323040,
-  "name": "WONOKERSO"
+  "districtName": "TEMBARAK",
+  "name": "WONOKERSO",
+  "postalCode": "51261"
  },
  {
   "id": 3323040013,
   "districtId": 3323040,
-  "name": "TEMBARAK"
+  "districtName": "TEMBARAK",
+  "name": "TEMBARAK",
+  "postalCode": "56261"
  },
  {
   "id": 3323040014,
   "districtId": 3323040,
-  "name": "MENGGORO"
+  "districtName": "TEMBARAK",
+  "name": "MENGGORO",
+  "postalCode": "56261"
  },
  {
   "id": 3323040015,
   "districtId": 3323040,
-  "name": "PURWODADI"
+  "districtName": "TEMBARAK",
+  "name": "PURWODADI",
+  "postalCode": "24652"
  },
  {
   "id": 3323040017,
   "districtId": 3323040,
-  "name": "KEMLOKO"
+  "districtName": "TEMBARAK",
+  "name": "KEMLOKO",
+  "postalCode": "58162"
  },
  {
   "id": 3323040018,
   "districtId": 3323040,
-  "name": "TAWANGSARI"
+  "districtName": "TEMBARAK",
+  "name": "TAWANGSARI",
+  "postalCode": "45365"
  },
  {
   "id": 3323040020,
   "districtId": 3323040,
-  "name": "BOTOPUTIH"
+  "districtName": "TEMBARAK",
+  "name": "BOTOPUTIH",
+  "postalCode": "56261"
  },
  {
   "id": 3323040021,
   "districtId": 3323040,
-  "name": "GANDU"
+  "districtName": "TEMBARAK",
+  "name": "GANDU",
+  "postalCode": "45453"
  },
  {
   "id": 3323040023,
   "districtId": 3323040,
-  "name": "BANARAN"
+  "districtName": "TEMBARAK",
+  "name": "BANARAN",
+  "postalCode": "51281"
  },
  {
   "id": 3323040026,
   "districtId": 3323040,
-  "name": "DRONO"
+  "districtName": "TEMBARAK",
+  "name": "DRONO",
+  "postalCode": "57466"
  },
  {
   "id": 3323040027,
   "districtId": 3323040,
-  "name": "KRAJAN"
+  "districtName": "TEMBARAK",
+  "name": "KRAJAN",
+  "postalCode": "57557"
  },
  {
   "id": 3323040028,
   "districtId": 3323040,
-  "name": "JRAGAN"
+  "districtName": "TEMBARAK",
+  "name": "JRAGAN",
+  "postalCode": "56261"
  }
 ]

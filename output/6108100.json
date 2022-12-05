@@ -2,51 +2,71 @@
  {
   "id": 6108100002,
   "districtId": 6108100,
-  "name": "NANGA TUAN"
+  "districtName": "BUNUT HILIR",
+  "name": "NANGA TUAN",
+  "postalCode": "78761"
  },
  {
   "id": 6108100004,
   "districtId": 6108100,
-  "name": "BUNUT HILIR"
+  "districtName": "BUNUT HILIR",
+  "name": "BUNUT HILIR",
+  "postalCode": "78761"
  },
  {
   "id": 6108100005,
   "districtId": 6108100,
-  "name": "TELUK AUR"
+  "districtName": "BUNUT HILIR",
+  "name": "TELUK AUR",
+  "postalCode": "28565"
  },
  {
   "id": 6108100006,
   "districtId": 6108100,
-  "name": "UJUNG PANDANG"
+  "districtName": "BUNUT HILIR",
+  "name": "UJUNG PANDANG",
+  "postalCode": "78761"
  },
  {
   "id": 6108100007,
   "districtId": 6108100,
-  "name": "EMPANGAU"
+  "districtName": "BUNUT HILIR",
+  "name": "EMPANGAU",
+  "postalCode": "78761"
  },
  {
   "id": 6108100008,
   "districtId": 6108100,
-  "name": "TEMBANG"
+  "districtName": "BUNUT HILIR",
+  "name": "TEMBANG",
+  "postalCode": "78761"
  },
  {
   "id": 6108100009,
   "districtId": 6108100,
-  "name": "BUNUT TENGAH"
+  "districtName": "BUNUT HILIR",
+  "name": "BUNUT TENGAH",
+  "postalCode": "78761"
  },
  {
   "id": 6108100010,
   "districtId": 6108100,
-  "name": "ENTIBAB"
+  "districtName": "BUNUT HILIR",
+  "name": "ENTIBAB",
+  "postalCode": "78761"
  },
  {
   "id": 6108100011,
   "districtId": 6108100,
-  "name": "KAPUAS RAYA"
+  "districtName": "BUNUT HILIR",
+  "name": "KAPUAS RAYA",
+  "postalCode": "78761"
  },
  {
   "id": 6108100012,
   "districtId": 6108100,
-  "name": "EMPANGAU HILIR"
+  "districtName": "BUNUT HILIR",
+  "name": "EMPANGAU HILIR",
+  "postalCode": "78761"
  }
 ]

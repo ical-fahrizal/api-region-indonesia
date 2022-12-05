@@ -2,21 +2,29 @@
  {
   "id": 3578020001,
   "districtId": 3578020,
-  "name": "PAGESANGAN"
+  "districtName": "JAMBANGAN",
+  "name": "PAGESANGAN",
+  "postalCode": "60233"
  },
  {
   "id": 3578020002,
   "districtId": 3578020,
-  "name": "KEBONSARI"
+  "districtName": "JAMBANGAN",
+  "name": "KEBONSARI",
+  "postalCode": "56553"
  },
  {
   "id": 3578020003,
   "districtId": 3578020,
-  "name": "JAMBANGAN"
+  "districtName": "JAMBANGAN",
+  "name": "JAMBANGAN",
+  "postalCode": "51274"
  },
  {
   "id": 3578020004,
   "districtId": 3578020,
-  "name": "KARAH"
+  "districtName": "JAMBANGAN",
+  "name": "KARAH",
+  "postalCode": "60232"
  }
 ]

@@ -2,26 +2,36 @@
  {
   "id": 9429042001,
   "districtId": 9429042,
-  "name": "PARO"
+  "districtName": "PARO",
+  "name": "PARO",
+  "postalCode": "99564"
  },
  {
   "id": 9429042002,
   "districtId": 9429042,
-  "name": "LOMBRIK"
+  "districtName": "PARO",
+  "name": "LOMBRIK",
+  "postalCode": "99564"
  },
  {
   "id": 9429042003,
   "districtId": 9429042,
-  "name": "ANIMAREM"
+  "districtName": "PARO",
+  "name": "ANIMAREM",
+  "postalCode": "99564"
  },
  {
   "id": 9429042004,
   "districtId": 9429042,
-  "name": "TAWELMA"
+  "districtName": "PARO",
+  "name": "TAWELMA",
+  "postalCode": "99564"
  },
  {
   "id": 9429042005,
   "districtId": 9429042,
-  "name": "LOARABA"
+  "districtName": "PARO",
+  "name": "LOARABA",
+  "postalCode": "99564"
  }
 ]

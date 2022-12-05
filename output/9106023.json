@@ -2,31 +2,43 @@
  {
   "id": 9106023001,
   "districtId": 9106023,
-  "name": "MOGATEMIN"
+  "districtName": "KAIS DARAT",
+  "name": "MOGATEMIN",
+  "postalCode": ""
  },
  {
   "id": 9106023002,
   "districtId": 9106023,
-  "name": "ONIMSEFA"
+  "districtName": "KAIS DARAT",
+  "name": "ONIMSEFA",
+  "postalCode": "98455"
  },
  {
   "id": 9106023003,
   "districtId": 9106023,
-  "name": "SIRANGGO"
+  "districtName": "KAIS DARAT",
+  "name": "SIRANGGO",
+  "postalCode": "98455"
  },
  {
   "id": 9106023004,
   "districtId": 9106023,
-  "name": "IKANA"
+  "districtName": "KAIS DARAT",
+  "name": "IKANA",
+  "postalCode": "98455"
  },
  {
   "id": 9106023005,
   "districtId": 9106023,
-  "name": "MUKAMAT"
+  "districtName": "KAIS DARAT",
+  "name": "MUKAMAT",
+  "postalCode": "98455"
  },
  {
   "id": 9106023006,
   "districtId": 9106023,
-  "name": "HAIMARAN"
+  "districtName": "KAIS DARAT",
+  "name": "HAIMARAN",
+  "postalCode": ""
  }
 ]

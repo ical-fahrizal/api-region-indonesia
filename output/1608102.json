@@ -2,46 +2,64 @@
  {
   "id": 1608102001,
   "districtId": 1608102,
-  "name": "CUKOH NAU"
+  "districtName": "SUNGAI ARE",
+  "name": "CUKOH NAU",
+  "postalCode": ""
  },
  {
   "id": 1608102002,
   "districtId": 1608102,
-  "name": "PECAH PINGGAN"
+  "districtName": "SUNGAI ARE",
+  "name": "PECAH PINGGAN",
+  "postalCode": "32273"
  },
  {
   "id": 1608102003,
   "districtId": 1608102,
-  "name": "UJAN MAS"
+  "districtName": "SUNGAI ARE",
+  "name": "UJAN MAS",
+  "postalCode": "32155"
  },
  {
   "id": 1608102004,
   "districtId": 1608102,
-  "name": "PULAU KEMUNING"
+  "districtName": "SUNGAI ARE",
+  "name": "PULAU KEMUNING",
+  "postalCode": "32273"
  },
  {
   "id": 1608102005,
   "districtId": 1608102,
-  "name": "TANAH PILIH"
+  "districtName": "SUNGAI ARE",
+  "name": "TANAH PILIH",
+  "postalCode": "30971"
  },
  {
   "id": 1608102006,
   "districtId": 1608102,
-  "name": "GUNTUNG JAYA"
+  "districtName": "SUNGAI ARE",
+  "name": "GUNTUNG JAYA",
+  "postalCode": "32273"
  },
  {
   "id": 1608102007,
   "districtId": 1608102,
-  "name": "SIMPANG LUAS"
+  "districtName": "SUNGAI ARE",
+  "name": "SIMPANG LUAS",
+  "postalCode": "32273"
  },
  {
   "id": 1608102008,
   "districtId": 1608102,
-  "name": "SEBAJA"
+  "districtName": "SUNGAI ARE",
+  "name": "SEBAJA",
+  "postalCode": "32273"
  },
  {
   "id": 1608102009,
   "districtId": 1608102,
-  "name": "SADAU JAYA"
+  "districtName": "SUNGAI ARE",
+  "name": "SADAU JAYA",
+  "postalCode": "32273"
  }
 ]

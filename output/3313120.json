@@ -2,56 +2,78 @@
  {
   "id": 3313120001,
   "districtId": 3313120,
-  "name": "NGASEM"
+  "districtName": "COLOMADU",
+  "name": "NGASEM",
+  "postalCode": "59461"
  },
  {
   "id": 3313120002,
   "districtId": 3313120,
-  "name": "BOLON"
+  "districtName": "COLOMADU",
+  "name": "BOLON",
+  "postalCode": "57178"
  },
  {
   "id": 3313120003,
   "districtId": 3313120,
-  "name": "MALANGJIWAN"
+  "districtName": "COLOMADU",
+  "name": "MALANGJIWAN",
+  "postalCode": "57177"
  },
  {
   "id": 3313120004,
   "districtId": 3313120,
-  "name": "PAULAN"
+  "districtName": "COLOMADU",
+  "name": "PAULAN",
+  "postalCode": "57176"
  },
  {
   "id": 3313120005,
   "districtId": 3313120,
-  "name": "GAJAHAN"
+  "districtName": "COLOMADU",
+  "name": "GAJAHAN",
+  "postalCode": "57176"
  },
  {
   "id": 3313120006,
   "districtId": 3313120,
-  "name": "BLULUKAN"
+  "districtName": "COLOMADU",
+  "name": "BLULUKAN",
+  "postalCode": "57174"
  },
  {
   "id": 3313120007,
   "districtId": 3313120,
-  "name": "GAWANAN"
+  "districtName": "COLOMADU",
+  "name": "GAWANAN",
+  "postalCode": "57175"
  },
  {
   "id": 3313120008,
   "districtId": 3313120,
-  "name": "GEDONGAN"
+  "districtName": "COLOMADU",
+  "name": "GEDONGAN",
+  "postalCode": "57556"
  },
  {
   "id": 3313120009,
   "districtId": 3313120,
-  "name": "TOHUDAN"
+  "districtName": "COLOMADU",
+  "name": "TOHUDAN",
+  "postalCode": "57173"
  },
  {
   "id": 3313120010,
   "districtId": 3313120,
-  "name": "BATURAN"
+  "districtName": "COLOMADU",
+  "name": "BATURAN",
+  "postalCode": "57171"
  },
  {
   "id": 3313120011,
   "districtId": 3313120,
-  "name": "KLODRAN"
+  "districtName": "COLOMADU",
+  "name": "KLODRAN",
+  "postalCode": "57172"
  }
 ]

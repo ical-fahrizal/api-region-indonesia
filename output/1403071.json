@@ -2,61 +2,85 @@
  {
   "id": 1403071001,
   "districtId": 1403071,
-  "name": "BAYAS JAYA"
+  "districtName": "KEMPAS",
+  "name": "BAYAS JAYA",
+  "postalCode": "29261"
  },
  {
   "id": 1403071002,
   "districtId": 1403071,
-  "name": "PEKAN TUA"
+  "districtName": "KEMPAS",
+  "name": "PEKAN TUA",
+  "postalCode": "29261"
  },
  {
   "id": 1403071003,
   "districtId": 1403071,
-  "name": "KEMPAS JAYA"
+  "districtName": "KEMPAS",
+  "name": "KEMPAS JAYA",
+  "postalCode": "29261"
  },
  {
   "id": 1403071004,
   "districtId": 1403071,
-  "name": "SUNGAI ARA"
+  "districtName": "KEMPAS",
+  "name": "SUNGAI ARA",
+  "postalCode": "28353"
  },
  {
   "id": 1403071005,
   "districtId": 1403071,
-  "name": "HARAPAN TANI"
+  "districtName": "KEMPAS",
+  "name": "HARAPAN TANI",
+  "postalCode": "29261"
  },
  {
   "id": 1403071006,
   "districtId": 1403071,
-  "name": "KARYA TANI"
+  "districtName": "KEMPAS",
+  "name": "KARYA TANI",
+  "postalCode": "29261"
  },
  {
   "id": 1403071007,
   "districtId": 1403071,
-  "name": "RUMBAI JAYA"
+  "districtName": "KEMPAS",
+  "name": "RUMBAI JAYA",
+  "postalCode": "29261"
  },
  {
   "id": 1403071008,
   "districtId": 1403071,
-  "name": "SUNGAI GANTANG"
+  "districtName": "KEMPAS",
+  "name": "SUNGAI GANTANG",
+  "postalCode": "29261"
  },
  {
   "id": 1403071009,
   "districtId": 1403071,
-  "name": "SUNGAI RABIT"
+  "districtName": "KEMPAS",
+  "name": "SUNGAI RABIT",
+  "postalCode": "29261"
  },
  {
   "id": 1403071010,
   "districtId": 1403071,
-  "name": "KERTA JAYA"
+  "districtName": "KEMPAS",
+  "name": "KERTA JAYA",
+  "postalCode": "29261"
  },
  {
   "id": 1403071011,
   "districtId": 1403071,
-  "name": "KULIM JAYA"
+  "districtName": "KEMPAS",
+  "name": "KULIM JAYA",
+  "postalCode": "29261"
  },
  {
   "id": 1403071012,
   "districtId": 1403071,
-  "name": "DANAU PULAI INDAH"
+  "districtName": "KEMPAS",
+  "name": "DANAU PULAI INDAH",
+  "postalCode": "29261"
  }
 ]

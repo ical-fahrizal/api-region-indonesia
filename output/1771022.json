@@ -2,46 +2,64 @@
  {
   "id": 1771022001,
   "districtId": 1771022,
-  "name": "ANGGUT BAWAH"
+  "districtName": "RATU SAMBAN",
+  "name": "ANGGUT BAWAH",
+  "postalCode": "38223"
  },
  {
   "id": 1771022002,
   "districtId": 1771022,
-  "name": "PENURUNAN"
+  "districtName": "RATU SAMBAN",
+  "name": "PENURUNAN",
+  "postalCode": "38223"
  },
  {
   "id": 1771022003,
   "districtId": 1771022,
-  "name": "PADANG JATI"
+  "districtName": "RATU SAMBAN",
+  "name": "PADANG JATI",
+  "postalCode": "38961"
  },
  {
   "id": 1771022004,
   "districtId": 1771022,
-  "name": "BELAKANG PONDOK"
+  "districtName": "RATU SAMBAN",
+  "name": "BELAKANG PONDOK",
+  "postalCode": "25211"
  },
  {
   "id": 1771022005,
   "districtId": 1771022,
-  "name": "PENGANTUNGAN"
+  "districtName": "RATU SAMBAN",
+  "name": "PENGANTUNGAN",
+  "postalCode": ""
  },
  {
   "id": 1771022006,
   "districtId": 1771022,
-  "name": "KEBUN DAHRI"
+  "districtName": "RATU SAMBAN",
+  "name": "KEBUN DAHRI",
+  "postalCode": "38221"
  },
  {
   "id": 1771022007,
   "districtId": 1771022,
-  "name": "KEBUN GERAND"
+  "districtName": "RATU SAMBAN",
+  "name": "KEBUN GERAND",
+  "postalCode": ""
  },
  {
   "id": 1771022008,
   "districtId": 1771022,
-  "name": "ANGGUT ATAS"
+  "districtName": "RATU SAMBAN",
+  "name": "ANGGUT ATAS",
+  "postalCode": "38222"
  },
  {
   "id": 1771022009,
   "districtId": 1771022,
-  "name": "ANGGUT DALAM"
+  "districtName": "RATU SAMBAN",
+  "name": "ANGGUT DALAM",
+  "postalCode": "38222"
  }
 ]

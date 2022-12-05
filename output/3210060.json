@@ -2,91 +2,127 @@
  {
   "id": 3210060001,
   "districtId": 3210060,
-  "name": "CIHAUR"
+  "districtName": "MAJA",
+  "name": "CIHAUR",
+  "postalCode": "45591"
  },
  {
   "id": 3210060002,
   "districtId": 3210060,
-  "name": "WANAHAYU"
+  "districtName": "MAJA",
+  "name": "WANAHAYU",
+  "postalCode": "45461"
  },
  {
   "id": 3210060003,
   "districtId": 3210060,
-  "name": "CENGAL"
+  "districtName": "MAJA",
+  "name": "CENGAL",
+  "postalCode": "30658"
  },
  {
   "id": 3210060004,
   "districtId": 3210060,
-  "name": "ANGGRAWATI"
+  "districtName": "MAJA",
+  "name": "ANGGRAWATI",
+  "postalCode": "45461"
  },
  {
   "id": 3210060005,
   "districtId": 3210060,
-  "name": "CIPICUNG"
+  "districtName": "MAJA",
+  "name": "CIPICUNG",
+  "postalCode": "44191"
  },
  {
   "id": 3210060006,
   "districtId": 3210060,
-  "name": "MALONGPONG"
+  "districtName": "MAJA",
+  "name": "MALONGPONG",
+  "postalCode": "45461"
  },
  {
   "id": 3210060007,
   "districtId": 3210060,
-  "name": "TEGALSARI"
+  "districtName": "MAJA",
+  "name": "TEGALSARI",
+  "postalCode": "35372"
  },
  {
   "id": 3210060008,
   "districtId": 3210060,
-  "name": "MAJA SELATAN"
+  "districtName": "MAJA",
+  "name": "MAJA SELATAN",
+  "postalCode": "45461"
  },
  {
   "id": 3210060009,
   "districtId": 3210060,
-  "name": "MAJA UTARA"
+  "districtName": "MAJA",
+  "name": "MAJA UTARA",
+  "postalCode": "45461"
  },
  {
   "id": 3210060010,
   "districtId": 3210060,
-  "name": "PASANGGRAHAN"
+  "districtName": "MAJA",
+  "name": "PASANGGRAHAN",
+  "postalCode": "41164"
  },
  {
   "id": 3210060011,
   "districtId": 3210060,
-  "name": "CIEURIH"
+  "districtName": "MAJA",
+  "name": "CIEURIH",
+  "postalCode": "45595"
  },
  {
   "id": 3210060012,
   "districtId": 3210060,
-  "name": "KERTABASUKI"
+  "districtName": "MAJA",
+  "name": "KERTABASUKI",
+  "postalCode": "45461"
  },
  {
   "id": 3210060013,
   "districtId": 3210060,
-  "name": "SINDANGKERTA"
+  "districtName": "MAJA",
+  "name": "SINDANGKERTA",
+  "postalCode": "46189"
  },
  {
   "id": 3210060014,
   "districtId": 3210060,
-  "name": "BANJARAN"
+  "districtName": "MAJA",
+  "name": "BANJARAN",
+  "postalCode": "35451"
  },
  {
   "id": 3210060015,
   "districtId": 3210060,
-  "name": "PANIIS"
+  "districtName": "MAJA",
+  "name": "PANIIS",
+  "postalCode": "45461"
  },
  {
   "id": 3210060016,
   "districtId": 3210060,
-  "name": "CICALUNG"
+  "districtName": "MAJA",
+  "name": "CICALUNG",
+  "postalCode": "45461"
  },
  {
   "id": 3210060017,
   "districtId": 3210060,
-  "name": "PAGERAJI"
+  "districtName": "MAJA",
+  "name": "PAGERAJI",
+  "postalCode": "45461"
  },
  {
   "id": 3210060018,
   "districtId": 3210060,
-  "name": "NUNUK BARU"
+  "districtName": "MAJA",
+  "name": "NUNUK BARU",
+  "postalCode": "45461"
  }
 ]

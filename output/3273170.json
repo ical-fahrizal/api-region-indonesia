@@ -2,21 +2,29 @@
  {
   "id": 3273170001,
   "districtId": 3273170,
-  "name": "BRAGA"
+  "districtName": "SUMUR BANDUNG",
+  "name": "BRAGA",
+  "postalCode": "40111"
  },
  {
   "id": 3273170002,
   "districtId": 3273170,
-  "name": "KEBON PISANG"
+  "districtName": "SUMUR BANDUNG",
+  "name": "KEBON PISANG",
+  "postalCode": "40112"
  },
  {
   "id": 3273170003,
   "districtId": 3273170,
-  "name": "MERDEKA"
+  "districtName": "SUMUR BANDUNG",
+  "name": "MERDEKA",
+  "postalCode": "20154"
  },
  {
   "id": 3273170004,
   "districtId": 3273170,
-  "name": "BABAKAN CIAMIS"
+  "districtName": "SUMUR BANDUNG",
+  "name": "BABAKAN CIAMIS",
+  "postalCode": "40117"
  }
 ]

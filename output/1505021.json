@@ -2,76 +2,106 @@
  {
   "id": 1505021001,
   "districtId": 1505021,
-  "name": "PETALING JAYA"
+  "districtName": "SUNGAI GELAM",
+  "name": "PETALING JAYA",
+  "postalCode": "36373"
  },
  {
   "id": 1505021002,
   "districtId": 1505021,
-  "name": "SUMBER AGUNG"
+  "districtName": "SUNGAI GELAM",
+  "name": "SUMBER AGUNG",
+  "postalCode": "37353"
  },
  {
   "id": 1505021003,
   "districtId": 1505021,
-  "name": "LADANG PANJANG"
+  "districtName": "SUNGAI GELAM",
+  "name": "LADANG PANJANG",
+  "postalCode": "26353"
  },
  {
   "id": 1505021004,
   "districtId": 1505021,
-  "name": "TALANG BELIDO"
+  "districtName": "SUNGAI GELAM",
+  "name": "TALANG BELIDO",
+  "postalCode": "36364"
  },
  {
   "id": 1505021005,
   "districtId": 1505021,
-  "name": "TALANG KERINCI"
+  "districtName": "SUNGAI GELAM",
+  "name": "TALANG KERINCI",
+  "postalCode": "36364"
  },
  {
   "id": 1505021006,
   "districtId": 1505021,
-  "name": "KEBON SEMBILAN"
+  "districtName": "SUNGAI GELAM",
+  "name": "KEBON SEMBILAN",
+  "postalCode": ""
  },
  {
   "id": 1505021007,
   "districtId": 1505021,
-  "name": "SUNGAI GELAM"
+  "districtName": "SUNGAI GELAM",
+  "name": "SUNGAI GELAM",
+  "postalCode": "36373"
  },
  {
   "id": 1505021008,
   "districtId": 1505021,
-  "name": "PARIT"
+  "districtName": "SUNGAI GELAM",
+  "name": "PARIT",
+  "postalCode": "36373"
  },
  {
   "id": 1505021009,
   "districtId": 1505021,
-  "name": "TANGKIT BARU"
+  "districtName": "SUNGAI GELAM",
+  "name": "TANGKIT BARU",
+  "postalCode": "36373"
  },
  {
   "id": 1505021010,
   "districtId": 1505021,
-  "name": "TANGKIT"
+  "districtName": "SUNGAI GELAM",
+  "name": "TANGKIT",
+  "postalCode": "36373"
  },
  {
   "id": 1505021011,
   "districtId": 1505021,
-  "name": "MINGKUNG JAYA"
+  "districtName": "SUNGAI GELAM",
+  "name": "MINGKUNG JAYA",
+  "postalCode": ""
  },
  {
   "id": 1505021012,
   "districtId": 1505021,
-  "name": "TRIMULYA"
+  "districtName": "SUNGAI GELAM",
+  "name": "TRIMULYA",
+  "postalCode": "78581"
  },
  {
   "id": 1505021013,
   "districtId": 1505021,
-  "name": "MEKAR JAYA"
+  "districtName": "SUNGAI GELAM",
+  "name": "MEKAR JAYA",
+  "postalCode": "20771"
  },
  {
   "id": 1505021014,
   "districtId": 1505021,
-  "name": "GAMBUT JAYA"
+  "districtName": "SUNGAI GELAM",
+  "name": "GAMBUT JAYA",
+  "postalCode": ""
  },
  {
   "id": 1505021015,
   "districtId": 1505021,
-  "name": "SIDO MUKTI"
+  "districtName": "SUNGAI GELAM",
+  "name": "SIDO MUKTI",
+  "postalCode": "36763"
  }
 ]

@@ -2,56 +2,78 @@
  {
   "id": 7104051001,
   "districtId": 7104051,
-  "name": "TUABATU"
+  "districtName": "TAMPA NA'MMA",
+  "name": "TUABATU",
+  "postalCode": "95882"
  },
  {
   "id": 7104051002,
   "districtId": 7104051,
-  "name": "BINALANG"
+  "districtName": "TAMPA NA'MMA",
+  "name": "BINALANG",
+  "postalCode": "95882"
  },
  {
   "id": 7104051003,
   "districtId": 7104051,
-  "name": "RIUNG"
+  "districtName": "TAMPA NA'MMA",
+  "name": "RIUNG",
+  "postalCode": "86591"
  },
  {
   "id": 7104051004,
   "districtId": 7104051,
-  "name": "DAPALAN"
+  "districtName": "TAMPA NA'MMA",
+  "name": "DAPALAN",
+  "postalCode": "95882"
  },
  {
   "id": 7104051005,
   "districtId": 7104051,
-  "name": "AMAT"
+  "districtName": "TAMPA NA'MMA",
+  "name": "AMAT",
+  "postalCode": ""
  },
  {
   "id": 7104051006,
   "districtId": 7104051,
-  "name": "GANALO"
+  "districtName": "TAMPA NA'MMA",
+  "name": "GANALO",
+  "postalCode": "95882"
  },
  {
   "id": 7104051007,
   "districtId": 7104051,
-  "name": "DAPIHE"
+  "districtName": "TAMPA NA'MMA",
+  "name": "DAPIHE",
+  "postalCode": "95882"
  },
  {
   "id": 7104051008,
   "districtId": 7104051,
-  "name": "TUABATU BARAT"
+  "districtName": "TAMPA NA'MMA",
+  "name": "TUABATU BARAT",
+  "postalCode": "95882"
  },
  {
   "id": 7104051009,
   "districtId": 7104051,
-  "name": "BINALANG SELATAN"
+  "districtName": "TAMPA NA'MMA",
+  "name": "BINALANG SELATAN",
+  "postalCode": ""
  },
  {
   "id": 7104051010,
   "districtId": 7104051,
-  "name": "RIUNG UTARA"
+  "districtName": "TAMPA NA'MMA",
+  "name": "RIUNG UTARA",
+  "postalCode": "95882"
  },
  {
   "id": 7104051011,
   "districtId": 7104051,
-  "name": "AMAT SELATAN"
+  "districtName": "TAMPA NA'MMA",
+  "name": "AMAT SELATAN",
+  "postalCode": ""
  }
 ]

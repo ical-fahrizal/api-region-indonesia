@@ -2,26 +2,36 @@
  {
   "id": 1571011001,
   "districtId": 1571011,
-  "name": "KENALI BESAR"
+  "districtName": "ALAM BARAJO",
+  "name": "KENALI BESAR",
+  "postalCode": "36129"
  },
  {
   "id": 1571011002,
   "districtId": 1571011,
-  "name": "RAWA SARI"
+  "districtName": "ALAM BARAJO",
+  "name": "RAWA SARI",
+  "postalCode": "21273"
  },
  {
   "id": 1571011003,
   "districtId": 1571011,
-  "name": "BAGAN PETE"
+  "districtName": "ALAM BARAJO",
+  "name": "BAGAN PETE",
+  "postalCode": "36129"
  },
  {
   "id": 1571011004,
   "districtId": 1571011,
-  "name": "BELIUNG"
+  "districtName": "ALAM BARAJO",
+  "name": "BELIUNG",
+  "postalCode": ""
  },
  {
   "id": 1571011005,
   "districtId": 1571011,
-  "name": "MAYANG MANGURAI"
+  "districtName": "ALAM BARAJO",
+  "name": "MAYANG MANGURAI",
+  "postalCode": "36129"
  }
 ]

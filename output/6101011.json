@@ -2,21 +2,29 @@
  {
   "id": 6101011001,
   "districtId": 6101011,
-  "name": "GELIK"
+  "districtName": "SELAKAU TIMUR",
+  "name": "GELIK",
+  "postalCode": "79452"
  },
  {
   "id": 6101011002,
   "districtId": 6101011,
-  "name": "SERANGGAM"
+  "districtName": "SELAKAU TIMUR",
+  "name": "SERANGGAM",
+  "postalCode": "79452"
  },
  {
   "id": 6101011003,
   "districtId": 6101011,
-  "name": "SELAKAU TUA"
+  "districtName": "SELAKAU TIMUR",
+  "name": "SELAKAU TUA",
+  "postalCode": "79452"
  },
  {
   "id": 6101011004,
   "districtId": 6101011,
-  "name": "BUDUK SEMPADANG"
+  "districtName": "SELAKAU TIMUR",
+  "name": "BUDUK SEMPADANG",
+  "postalCode": "79452"
  }
 ]

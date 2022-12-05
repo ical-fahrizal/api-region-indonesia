@@ -2,66 +2,92 @@
  {
   "id": 5105020001,
   "districtId": 5105020,
-  "name": "NEGARI"
+  "districtName": "BANJARANGKAN",
+  "name": "NEGARI",
+  "postalCode": "80752"
  },
  {
   "id": 5105020002,
   "districtId": 5105020,
-  "name": "TAKMUNG"
+  "districtName": "BANJARANGKAN",
+  "name": "TAKMUNG",
+  "postalCode": "80752"
  },
  {
   "id": 5105020003,
   "districtId": 5105020,
-  "name": "BANJARANGKAN"
+  "districtName": "BANJARANGKAN",
+  "name": "BANJARANGKAN",
+  "postalCode": "80752"
  },
  {
   "id": 5105020004,
   "districtId": 5105020,
-  "name": "TUSAN"
+  "districtName": "BANJARANGKAN",
+  "name": "TUSAN",
+  "postalCode": "80752"
  },
  {
   "id": 5105020005,
   "districtId": 5105020,
-  "name": "BAKAS"
+  "districtName": "BANJARANGKAN",
+  "name": "BAKAS",
+  "postalCode": "80752"
  },
  {
   "id": 5105020006,
   "districtId": 5105020,
-  "name": "GETAKAN"
+  "districtName": "BANJARANGKAN",
+  "name": "GETAKAN",
+  "postalCode": "80752"
  },
  {
   "id": 5105020007,
   "districtId": 5105020,
-  "name": "TIHINGAN"
+  "districtName": "BANJARANGKAN",
+  "name": "TIHINGAN",
+  "postalCode": "80752"
  },
  {
   "id": 5105020008,
   "districtId": 5105020,
-  "name": "AAN"
+  "districtName": "BANJARANGKAN",
+  "name": "AAN",
+  "postalCode": "80752"
  },
  {
   "id": 5105020009,
   "districtId": 5105020,
-  "name": "NYALIAN"
+  "districtName": "BANJARANGKAN",
+  "name": "NYALIAN",
+  "postalCode": "80752"
  },
  {
   "id": 5105020010,
   "districtId": 5105020,
-  "name": "BUNGBUNGAN"
+  "districtName": "BANJARANGKAN",
+  "name": "BUNGBUNGAN",
+  "postalCode": "69466"
  },
  {
   "id": 5105020011,
   "districtId": 5105020,
-  "name": "TIMUHUN"
+  "districtName": "BANJARANGKAN",
+  "name": "TIMUHUN",
+  "postalCode": "80752"
  },
  {
   "id": 5105020012,
   "districtId": 5105020,
-  "name": "NYANGLAN"
+  "districtName": "BANJARANGKAN",
+  "name": "NYANGLAN",
+  "postalCode": "80752"
  },
  {
   "id": 5105020013,
   "districtId": 5105020,
-  "name": "TOHPATI"
+  "districtName": "BANJARANGKAN",
+  "name": "TOHPATI",
+  "postalCode": "80752"
  }
 ]

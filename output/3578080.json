@@ -2,36 +2,50 @@
  {
   "id": 3578080001,
   "districtId": 3578080,
-  "name": "NGIDEN JANGKUNGAN"
+  "districtName": "SUKOLILO",
+  "name": "NGIDEN JANGKUNGAN",
+  "postalCode": ""
  },
  {
   "id": 3578080002,
   "districtId": 3578080,
-  "name": "SEMOLOWARU"
+  "districtName": "SUKOLILO",
+  "name": "SEMOLOWARU",
+  "postalCode": "60119"
  },
  {
   "id": 3578080003,
   "districtId": 3578080,
-  "name": "MEDOKAN SEMAMPIR"
+  "districtName": "SUKOLILO",
+  "name": "MEDOKAN SEMAMPIR",
+  "postalCode": "60119"
  },
  {
   "id": 3578080004,
   "districtId": 3578080,
-  "name": "KEPUTIH"
+  "districtName": "SUKOLILO",
+  "name": "KEPUTIH",
+  "postalCode": "60111"
  },
  {
   "id": 3578080005,
   "districtId": 3578080,
-  "name": "GEBANG PUTIH"
+  "districtName": "SUKOLILO",
+  "name": "GEBANG PUTIH",
+  "postalCode": "60117"
  },
  {
   "id": 3578080006,
   "districtId": 3578080,
-  "name": "KLAMPIS NGASEM"
+  "districtName": "SUKOLILO",
+  "name": "KLAMPIS NGASEM",
+  "postalCode": "60117"
  },
  {
   "id": 3578080007,
   "districtId": 3578080,
-  "name": "MENUR PUMPUNGAN"
+  "districtName": "SUKOLILO",
+  "name": "MENUR PUMPUNGAN",
+  "postalCode": "60118"
  }
 ]

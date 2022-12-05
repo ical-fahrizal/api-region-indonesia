@@ -2,31 +2,43 @@
  {
   "id": 3602121001,
   "districtId": 3602121,
-  "name": "LEBAKGEDONG"
+  "districtName": "LEBAKGEDONG",
+  "name": "LEBAKGEDONG",
+  "postalCode": "42372"
  },
  {
   "id": 3602121002,
   "districtId": 3602121,
-  "name": "LEBAKSITU"
+  "districtName": "LEBAKGEDONG",
+  "name": "LEBAKSITU",
+  "postalCode": "42372"
  },
  {
   "id": 3602121003,
   "districtId": 3602121,
-  "name": "CILADAEUN"
+  "districtName": "LEBAKGEDONG",
+  "name": "CILADAEUN",
+  "postalCode": "42372"
  },
  {
   "id": 3602121004,
   "districtId": 3602121,
-  "name": "BANJARSARI"
+  "districtName": "LEBAKGEDONG",
+  "name": "BANJARSARI",
+  "postalCode": "35377"
  },
  {
   "id": 3602121005,
   "districtId": 3602121,
-  "name": "LEBAKSANGKA"
+  "districtName": "LEBAKGEDONG",
+  "name": "LEBAKSANGKA",
+  "postalCode": "42372"
  },
  {
   "id": 3602121006,
   "districtId": 3602121,
-  "name": "BANJAR IRIGASI"
+  "districtName": "LEBAKGEDONG",
+  "name": "BANJAR IRIGASI",
+  "postalCode": "42372"
  }
 ]

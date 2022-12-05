@@ -2,106 +2,148 @@
  {
   "id": 7316010001,
   "districtId": 7316010,
-  "name": "PATONDON SALU"
+  "districtName": "MAIWA",
+  "name": "PATONDON SALU",
+  "postalCode": "91761"
  },
  {
   "id": 7316010002,
   "districtId": 7316010,
-  "name": "SALO DUA"
+  "districtName": "MAIWA",
+  "name": "SALO DUA",
+  "postalCode": "91761"
  },
  {
   "id": 7316010003,
   "districtId": 7316010,
-  "name": "BOIYA"
+  "districtName": "MAIWA",
+  "name": "BOIYA",
+  "postalCode": "91761"
  },
  {
   "id": 7316010005,
   "districtId": 7316010,
-  "name": "BANGKALA"
+  "districtName": "MAIWA",
+  "name": "BANGKALA",
+  "postalCode": "91761"
  },
  {
   "id": 7316010006,
   "districtId": 7316010,
-  "name": "MENGKAWANI"
+  "districtName": "MAIWA",
+  "name": "MENGKAWANI",
+  "postalCode": ""
  },
  {
   "id": 7316010007,
   "districtId": 7316010,
-  "name": "BOTO MALANGGA"
+  "districtName": "MAIWA",
+  "name": "BOTO MALANGGA",
+  "postalCode": "91761"
  },
  {
   "id": 7316010008,
   "districtId": 7316010,
-  "name": "BATU MILA"
+  "districtName": "MAIWA",
+  "name": "BATU MILA",
+  "postalCode": "91761"
  },
  {
   "id": 7316010009,
   "districtId": 7316010,
-  "name": "PUNCAK HARAPAN"
+  "districtName": "MAIWA",
+  "name": "PUNCAK HARAPAN",
+  "postalCode": "71154"
  },
  {
   "id": 7316010010,
   "districtId": 7316010,
-  "name": "TAPONG"
+  "districtName": "MAIWA",
+  "name": "TAPONG",
+  "postalCode": "91761"
  },
  {
   "id": 7316010013,
   "districtId": 7316010,
-  "name": "PALAKKA"
+  "districtName": "MAIWA",
+  "name": "PALAKKA",
+  "postalCode": "90711"
  },
  {
   "id": 7316010014,
   "districtId": 7316010,
-  "name": "PASANG"
+  "districtName": "MAIWA",
+  "name": "PASANG",
+  "postalCode": "91862"
  },
  {
   "id": 7316010015,
   "districtId": 7316010,
-  "name": "BARINGIN"
+  "districtName": "MAIWA",
+  "name": "BARINGIN",
+  "postalCode": "22456"
  },
  {
   "id": 7316010016,
   "districtId": 7316010,
-  "name": "LEBANI"
+  "districtName": "MAIWA",
+  "name": "LEBANI",
+  "postalCode": "91994"
  },
  {
   "id": 7316010017,
   "districtId": 7316010,
-  "name": "MATAJANG"
+  "districtName": "MAIWA",
+  "name": "MATAJANG",
+  "postalCode": "92753"
  },
  {
   "id": 7316010018,
   "districtId": 7316010,
-  "name": "LIMBUANG"
+  "districtName": "MAIWA",
+  "name": "LIMBUANG",
+  "postalCode": "91761"
  },
  {
   "id": 7316010019,
   "districtId": 7316010,
-  "name": "ONGKO"
+  "districtName": "MAIWA",
+  "name": "ONGKO",
+  "postalCode": "84384"
  },
  {
   "id": 7316010020,
   "districtId": 7316010,
-  "name": "PARIWANG"
+  "districtName": "MAIWA",
+  "name": "PARIWANG",
+  "postalCode": "91761"
  },
  {
   "id": 7316010021,
   "districtId": 7316010,
-  "name": "KALUPPANG"
+  "districtName": "MAIWA",
+  "name": "KALUPPANG",
+  "postalCode": "91761"
  },
  {
   "id": 7316010022,
   "districtId": 7316010,
-  "name": "PALADDANG"
+  "districtName": "MAIWA",
+  "name": "PALADDANG",
+  "postalCode": ""
  },
  {
   "id": 7316010023,
   "districtId": 7316010,
-  "name": "LABUKU"
+  "districtName": "MAIWA",
+  "name": "LABUKU",
+  "postalCode": "91761"
  },
  {
   "id": 7316010024,
   "districtId": 7316010,
-  "name": "TANETE"
+  "districtName": "MAIWA",
+  "name": "TANETE",
+  "postalCode": "91752"
  }
 ]

@@ -2,46 +2,64 @@
  {
   "id": 1808050001,
   "districtId": 1808050,
-  "name": "BUJUNG TENUK"
+  "districtName": "MENGGALA",
+  "name": "BUJUNG TENUK",
+  "postalCode": "34613"
  },
  {
   "id": 1808050002,
   "districtId": 1808050,
-  "name": "ASTRA KSETRA"
+  "districtName": "MENGGALA",
+  "name": "ASTRA KSETRA",
+  "postalCode": ""
  },
  {
   "id": 1808050005,
   "districtId": 1808050,
-  "name": "UJUNG GUNUNG ILIR"
+  "districtName": "MENGGALA",
+  "name": "UJUNG GUNUNG ILIR",
+  "postalCode": "34614"
  },
  {
   "id": 1808050012,
   "districtId": 1808050,
-  "name": "MENGGALA SELATAN"
+  "districtName": "MENGGALA",
+  "name": "MENGGALA SELATAN",
+  "postalCode": "34611"
  },
  {
   "id": 1808050013,
   "districtId": 1808050,
-  "name": "UJUNG GUNUNG"
+  "districtName": "MENGGALA",
+  "name": "UJUNG GUNUNG",
+  "postalCode": "34611"
  },
  {
   "id": 1808050014,
   "districtId": 1808050,
-  "name": "MENGGALA TENGAH"
+  "districtName": "MENGGALA",
+  "name": "MENGGALA TENGAH",
+  "postalCode": "34611"
  },
  {
   "id": 1808050015,
   "districtId": 1808050,
-  "name": "MENGGALA KOTA"
+  "districtName": "MENGGALA",
+  "name": "MENGGALA KOTA",
+  "postalCode": "34611"
  },
  {
   "id": 1808050016,
   "districtId": 1808050,
-  "name": "KAGUNGAN RAHAYU"
+  "districtName": "MENGGALA",
+  "name": "KAGUNGAN RAHAYU",
+  "postalCode": "34613"
  },
  {
   "id": 1808050017,
   "districtId": 1808050,
-  "name": "TIUH TOHOU"
+  "districtName": "MENGGALA",
+  "name": "TIUH TOHOU",
+  "postalCode": ""
  }
 ]

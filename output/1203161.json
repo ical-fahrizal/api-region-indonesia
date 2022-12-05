@@ -2,61 +2,85 @@
  {
   "id": 1203161037,
   "districtId": 1203161,
-  "name": "TAPUS GODANG"
+  "districtName": "AEK BILAH",
+  "name": "TAPUS GODANG",
+  "postalCode": "22758"
  },
  {
   "id": 1203161045,
   "districtId": 1203161,
-  "name": "LOBUTAYAS"
+  "districtName": "AEK BILAH",
+  "name": "LOBUTAYAS",
+  "postalCode": ""
  },
  {
   "id": 1203161070,
   "districtId": 1203161,
-  "name": "SIGOLANG"
+  "districtName": "AEK BILAH",
+  "name": "SIGOLANG",
+  "postalCode": "22758"
  },
  {
   "id": 1203161071,
   "districtId": 1203161,
-  "name": "BIRU"
+  "districtName": "AEK BILAH",
+  "name": "BIRU",
+  "postalCode": "22758"
  },
  {
   "id": 1203161080,
   "districtId": 1203161,
-  "name": "SIHULAMBU"
+  "districtName": "AEK BILAH",
+  "name": "SIHULAMBU",
+  "postalCode": "22758"
  },
  {
   "id": 1203161091,
   "districtId": 1203161,
-  "name": "AEK URAT"
+  "districtName": "AEK BILAH",
+  "name": "AEK URAT",
+  "postalCode": "22758"
  },
  {
   "id": 1203161092,
   "districtId": 1203161,
-  "name": "HUTA BARU"
+  "districtName": "AEK BILAH",
+  "name": "HUTA BARU",
+  "postalCode": "22758"
  },
  {
   "id": 1203161093,
   "districtId": 1203161,
-  "name": "AEK LATONG"
+  "districtName": "AEK BILAH",
+  "name": "AEK LATONG",
+  "postalCode": "22758"
  },
  {
   "id": 1203161094,
   "districtId": 1203161,
-  "name": "TAPUS SIPAGABU"
+  "districtName": "AEK BILAH",
+  "name": "TAPUS SIPAGABU",
+  "postalCode": "22758"
  },
  {
   "id": 1203161095,
   "districtId": 1203161,
-  "name": "TOLANG"
+  "districtName": "AEK BILAH",
+  "name": "TOLANG",
+  "postalCode": "22758"
  },
  {
   "id": 1203161096,
   "districtId": 1203161,
-  "name": "SILANGKITANG"
+  "districtName": "AEK BILAH",
+  "name": "SILANGKITANG",
+  "postalCode": "22758"
  },
  {
   "id": 1203161097,
   "districtId": 1203161,
-  "name": "GORAHUT"
+  "districtName": "AEK BILAH",
+  "name": "GORAHUT",
+  "postalCode": ""
  }
 ]

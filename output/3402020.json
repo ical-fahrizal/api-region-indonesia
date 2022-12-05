@@ -2,21 +2,29 @@
  {
   "id": 3402020001,
   "districtId": 3402020,
-  "name": "GADINGSARI"
+  "districtName": "SANDEN",
+  "name": "GADINGSARI",
+  "postalCode": "55763"
  },
  {
   "id": 3402020002,
   "districtId": 3402020,
-  "name": "GADINGHARJO"
+  "districtName": "SANDEN",
+  "name": "GADINGHARJO",
+  "postalCode": "55763"
  },
  {
   "id": 3402020003,
   "districtId": 3402020,
-  "name": "SRIGADING"
+  "districtName": "SANDEN",
+  "name": "SRIGADING",
+  "postalCode": "58254"
  },
  {
   "id": 3402020004,
   "districtId": 3402020,
-  "name": "MURTIGADING"
+  "districtName": "SANDEN",
+  "name": "MURTIGADING",
+  "postalCode": "55763"
  }
 ]

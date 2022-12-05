@@ -2,61 +2,85 @@
  {
   "id": 3519140001,
   "districtId": 3519140,
-  "name": "KANUNG"
+  "districtName": "SAWAHAN",
+  "name": "KANUNG",
+  "postalCode": "63162"
  },
  {
   "id": 3519140002,
   "districtId": 3519140,
-  "name": "SIDOMULYO"
+  "districtName": "SAWAHAN",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  },
  {
   "id": 3519140003,
   "districtId": 3519140,
-  "name": "REJOSARI"
+  "districtName": "SAWAHAN",
+  "name": "REJOSARI",
+  "postalCode": "29353"
  },
  {
   "id": 3519140004,
   "districtId": 3519140,
-  "name": "BAKUR"
+  "districtName": "SAWAHAN",
+  "name": "BAKUR",
+  "postalCode": "63162"
  },
  {
   "id": 3519140005,
   "districtId": 3519140,
-  "name": "PUCANGREJO"
+  "districtName": "SAWAHAN",
+  "name": "PUCANGREJO",
+  "postalCode": "51356"
  },
  {
   "id": 3519140006,
   "districtId": 3519140,
-  "name": "KROKEH"
+  "districtName": "SAWAHAN",
+  "name": "KROKEH",
+  "postalCode": "63162"
  },
  {
   "id": 3519140007,
   "districtId": 3519140,
-  "name": "LEBAKAYU"
+  "districtName": "SAWAHAN",
+  "name": "LEBAKAYU",
+  "postalCode": "63162"
  },
  {
   "id": 3519140008,
   "districtId": 3519140,
-  "name": "GOLAN"
+  "districtName": "SAWAHAN",
+  "name": "GOLAN",
+  "postalCode": "63162"
  },
  {
   "id": 3519140009,
   "districtId": 3519140,
-  "name": "CABEAN"
+  "districtName": "SAWAHAN",
+  "name": "CABEAN",
+  "postalCode": "59255"
  },
  {
   "id": 3519140010,
   "districtId": 3519140,
-  "name": "SAWAHAN"
+  "districtName": "SAWAHAN",
+  "name": "SAWAHAN",
+  "postalCode": "25121"
  },
  {
   "id": 3519140012,
   "districtId": 3519140,
-  "name": "KAJANG"
+  "districtName": "SAWAHAN",
+  "name": "KAJANG",
+  "postalCode": "63162"
  },
  {
   "id": 3519140013,
   "districtId": 3519140,
-  "name": "KLUMPIT"
+  "districtName": "SAWAHAN",
+  "name": "KLUMPIT",
+  "postalCode": "59333"
  }
 ]

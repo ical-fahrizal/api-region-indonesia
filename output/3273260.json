@@ -2,11 +2,15 @@
  {
   "id": 3273260001,
   "districtId": 3273260,
-  "name": "HEGARMANAH"
+  "districtName": "CIDADAP",
+  "name": "HEGARMANAH",
+  "postalCode": "41151"
  },
  {
   "id": 3273260002,
   "districtId": 3273260,
-  "name": "CIUMBULEUIT"
+  "districtName": "CIDADAP",
+  "name": "CIUMBULEUIT",
+  "postalCode": "40142"
  }
 ]

@@ -2,111 +2,155 @@
  {
   "id": 1701050001,
   "districtId": 1701050,
-  "name": "MUARA PULUTAN"
+  "districtName": "SEGINIM",
+  "name": "MUARA PULUTAN",
+  "postalCode": "38552"
  },
  {
   "id": 1701050002,
   "districtId": 1701050,
-  "name": "MUARA PAYANG"
+  "districtName": "SEGINIM",
+  "name": "MUARA PAYANG",
+  "postalCode": "32279"
  },
  {
   "id": 1701050003,
   "districtId": 1701050,
-  "name": "DURIAN SEGINIM"
+  "districtName": "SEGINIM",
+  "name": "DURIAN SEGINIM",
+  "postalCode": "38552"
  },
  {
   "id": 1701050004,
   "districtId": 1701050,
-  "name": "BANDING AGUNG"
+  "districtName": "SEGINIM",
+  "name": "BANDING AGUNG",
+  "postalCode": "32274"
  },
  {
   "id": 1701050005,
   "districtId": 1701050,
-  "name": "PAJAR BULAN"
+  "districtName": "SEGINIM",
+  "name": "PAJAR BULAN",
+  "postalCode": "32279"
  },
  {
   "id": 1701050006,
   "districtId": 1701050,
-  "name": "PADANG LEBAR"
+  "districtName": "SEGINIM",
+  "name": "PADANG LEBAR",
+  "postalCode": "38571"
  },
  {
   "id": 1701050007,
   "districtId": 1701050,
-  "name": "DUSUN TENGAH"
+  "districtName": "SEGINIM",
+  "name": "DUSUN TENGAH",
+  "postalCode": "32272"
  },
  {
   "id": 1701050008,
   "districtId": 1701050,
-  "name": "PADANG SIRING"
+  "districtName": "SEGINIM",
+  "name": "PADANG SIRING",
+  "postalCode": "38382"
  },
  {
   "id": 1701050009,
   "districtId": 1701050,
-  "name": "TANJUNG MENANG"
+  "districtName": "SEGINIM",
+  "name": "TANJUNG MENANG",
+  "postalCode": "30953"
  },
  {
   "id": 1701050010,
   "districtId": 1701050,
-  "name": "GUNUNG AYU"
+  "districtName": "SEGINIM",
+  "name": "GUNUNG AYU",
+  "postalCode": "31581"
  },
  {
   "id": 1701050011,
   "districtId": 1701050,
-  "name": "KOTA BUMI BARU"
+  "districtName": "SEGINIM",
+  "name": "KOTA BUMI BARU",
+  "postalCode": "38552"
  },
  {
   "id": 1701050012,
   "districtId": 1701050,
-  "name": "SINDANG BULAN"
+  "districtName": "SEGINIM",
+  "name": "SINDANG BULAN",
+  "postalCode": "38552"
  },
  {
   "id": 1701050013,
   "districtId": 1701050,
-  "name": "SUKARAJA"
+  "districtName": "SEGINIM",
+  "name": "SUKARAJA",
+  "postalCode": "21256"
  },
  {
   "id": 1701050014,
   "districtId": 1701050,
-  "name": "PASAR BARU"
+  "districtName": "SEGINIM",
+  "name": "PASAR BARU",
+  "postalCode": "22163"
  },
  {
   "id": 1701050015,
   "districtId": 1701050,
-  "name": "DARAT SAWAH"
+  "districtName": "SEGINIM",
+  "name": "DARAT SAWAH",
+  "postalCode": "38955"
  },
  {
   "id": 1701050016,
   "districtId": 1701050,
-  "name": "KOTA AGUNG"
+  "districtName": "SEGINIM",
+  "name": "KOTA AGUNG",
+  "postalCode": "31462"
  },
  {
   "id": 1701050017,
   "districtId": 1701050,
-  "name": "MUARA DANAU"
+  "districtName": "SEGINIM",
+  "name": "MUARA DANAU",
+  "postalCode": "37482"
  },
  {
   "id": 1701050018,
   "districtId": 1701050,
-  "name": "BABATAN ILIR"
+  "districtName": "SEGINIM",
+  "name": "BABATAN ILIR",
+  "postalCode": "38552"
  },
  {
   "id": 1701050019,
   "districtId": 1701050,
-  "name": "BABATAN ULU"
+  "districtName": "SEGINIM",
+  "name": "BABATAN ULU",
+  "postalCode": "38552"
  },
  {
   "id": 1701050020,
   "districtId": 1701050,
-  "name": "TANJUNG AGUNG"
+  "districtName": "SEGINIM",
+  "name": "TANJUNG AGUNG",
+  "postalCode": "37216"
  },
  {
   "id": 1701050021,
   "districtId": 1701050,
-  "name": "DUSUN BARU"
+  "districtName": "SEGINIM",
+  "name": "DUSUN BARU",
+  "postalCode": "37162"
  },
  {
   "id": 1701050022,
   "districtId": 1701050,
-  "name": "DARAT SAWAH ULU"
+  "districtName": "SEGINIM",
+  "name": "DARAT SAWAH ULU",
+  "postalCode": ""
  }
 ]

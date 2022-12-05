@@ -2,66 +2,92 @@
  {
   "id": 3526160001,
   "districtId": 3526160,
-  "name": "PLANGGIRAN"
+  "districtName": "TANJUNGBUMI",
+  "name": "PLANGGIRAN",
+  "postalCode": "69156"
  },
  {
   "id": 3526160002,
   "districtId": 3526160,
-  "name": "TAGUNGGUH"
+  "districtName": "TANJUNGBUMI",
+  "name": "TAGUNGGUH",
+  "postalCode": "69156"
  },
  {
   "id": 3526160003,
   "districtId": 3526160,
-  "name": "BANDANG DAYA"
+  "districtName": "TANJUNGBUMI",
+  "name": "BANDANG DAYA",
+  "postalCode": ""
  },
  {
   "id": 3526160005,
   "districtId": 3526160,
-  "name": "LARANGAN TIMUR"
+  "districtName": "TANJUNGBUMI",
+  "name": "LARANGAN TIMUR",
+  "postalCode": "69156"
  },
  {
   "id": 3526160006,
   "districtId": 3526160,
-  "name": "TAMBAK POCOK"
+  "districtName": "TANJUNGBUMI",
+  "name": "TAMBAK POCOK",
+  "postalCode": "69156"
  },
  {
   "id": 3526160007,
   "districtId": 3526160,
-  "name": "BUMI ANYAR"
+  "districtName": "TANJUNGBUMI",
+  "name": "BUMI ANYAR",
+  "postalCode": "69156"
  },
  {
   "id": 3526160008,
   "districtId": 3526160,
-  "name": "PASESEH"
+  "districtName": "TANJUNGBUMI",
+  "name": "PASESEH",
+  "postalCode": "69156"
  },
  {
   "id": 3526160009,
   "districtId": 3526160,
-  "name": "TELAGA BIRU"
+  "districtName": "TANJUNGBUMI",
+  "name": "TELAGA BIRU",
+  "postalCode": "70119"
  },
  {
   "id": 3526160010,
   "districtId": 3526160,
-  "name": "TANJUNG BUMI"
+  "districtName": "TANJUNGBUMI",
+  "name": "TANJUNG BUMI",
+  "postalCode": "69156"
  },
  {
   "id": 3526160011,
   "districtId": 3526160,
-  "name": "MACAJAH"
+  "districtName": "TANJUNGBUMI",
+  "name": "MACAJAH",
+  "postalCode": "69156"
  },
  {
   "id": 3526160012,
   "districtId": 3526160,
-  "name": "TLANGOH"
+  "districtName": "TANJUNGBUMI",
+  "name": "TLANGOH",
+  "postalCode": "69363"
  },
  {
   "id": 3526160013,
   "districtId": 3526160,
-  "name": "BANYU SANGKAH"
+  "districtName": "TANJUNGBUMI",
+  "name": "BANYU SANGKAH",
+  "postalCode": "69156"
  },
  {
   "id": 3526160014,
   "districtId": 3526160,
-  "name": "AENGTABAR"
+  "districtName": "TANJUNGBUMI",
+  "name": "AENGTABAR",
+  "postalCode": ""
  }
 ]

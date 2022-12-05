@@ -2,71 +2,99 @@
  {
   "id": 7205041001,
   "districtId": 7205041,
-  "name": "TOWIORA"
+  "districtName": "RIO PAKAVA",
+  "name": "TOWIORA",
+  "postalCode": ""
  },
  {
   "id": 7205041002,
   "districtId": 7205041,
-  "name": "MINTI MAKMUR"
+  "districtName": "RIO PAKAVA",
+  "name": "MINTI MAKMUR",
+  "postalCode": "94362"
  },
  {
   "id": 7205041003,
   "districtId": 7205041,
-  "name": "POLANTO JAYA"
+  "districtName": "RIO PAKAVA",
+  "name": "POLANTO JAYA",
+  "postalCode": "94362"
  },
  {
   "id": 7205041004,
   "districtId": 7205041,
-  "name": "TINAUKA"
+  "districtName": "RIO PAKAVA",
+  "name": "TINAUKA",
+  "postalCode": "94362"
  },
  {
   "id": 7205041005,
   "districtId": 7205041,
-  "name": "LALUNDU"
+  "districtName": "RIO PAKAVA",
+  "name": "LALUNDU",
+  "postalCode": "94362"
  },
  {
   "id": 7205041006,
   "districtId": 7205041,
-  "name": "POLANDO JAYA"
+  "districtName": "RIO PAKAVA",
+  "name": "POLANDO JAYA",
+  "postalCode": "94362"
  },
  {
   "id": 7205041007,
   "districtId": 7205041,
-  "name": "RIO MUKTI"
+  "districtName": "RIO PAKAVA",
+  "name": "RIO MUKTI",
+  "postalCode": "94362"
  },
  {
   "id": 7205041008,
   "districtId": 7205041,
-  "name": "PANCA MUKTI"
+  "districtName": "RIO PAKAVA",
+  "name": "PANCA MUKTI",
+  "postalCode": "28992"
  },
  {
   "id": 7205041009,
   "districtId": 7205041,
-  "name": "PANTOLOBETE"
+  "districtName": "RIO PAKAVA",
+  "name": "PANTOLOBETE",
+  "postalCode": ""
  },
  {
   "id": 7205041010,
   "districtId": 7205041,
-  "name": "BONEMARAWA"
+  "districtName": "RIO PAKAVA",
+  "name": "BONEMARAWA",
+  "postalCode": "94362"
  },
  {
   "id": 7205041011,
   "districtId": 7205041,
-  "name": "PAKAVA"
+  "districtName": "RIO PAKAVA",
+  "name": "PAKAVA",
+  "postalCode": ""
  },
  {
   "id": 7205041012,
   "districtId": 7205041,
-  "name": "NGOVI"
+  "districtName": "RIO PAKAVA",
+  "name": "NGOVI",
+  "postalCode": ""
  },
  {
   "id": 7205041013,
   "districtId": 7205041,
-  "name": "BUKIT INDAH"
+  "districtName": "RIO PAKAVA",
+  "name": "BUKIT INDAH",
+  "postalCode": "29352"
  },
  {
   "id": 7205041014,
   "districtId": 7205041,
-  "name": "MBULAWA"
+  "districtName": "RIO PAKAVA",
+  "name": "MBULAWA",
+  "postalCode": ""
  }
 ]

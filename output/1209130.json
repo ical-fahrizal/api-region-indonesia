@@ -2,71 +2,99 @@
  {
   "id": 1209130001,
   "districtId": 1209130,
-  "name": "BAH TONANG"
+  "districtName": "RAYA KAHEAN",
+  "name": "BAH TONANG",
+  "postalCode": "21156"
  },
  {
   "id": 1209130002,
   "districtId": 1209130,
-  "name": "SAMBOSAR RAYA"
+  "districtName": "RAYA KAHEAN",
+  "name": "SAMBOSAR RAYA",
+  "postalCode": "21156"
  },
  {
   "id": 1209130003,
   "districtId": 1209130,
-  "name": "BANGUN RAYA"
+  "districtName": "RAYA KAHEAN",
+  "name": "BANGUN RAYA",
+  "postalCode": "22763"
  },
  {
   "id": 1209130004,
   "districtId": 1209130,
-  "name": "SINDAR RAYA"
+  "districtName": "RAYA KAHEAN",
+  "name": "SINDAR RAYA",
+  "postalCode": "21156"
  },
  {
   "id": 1209130005,
   "districtId": 1209130,
-  "name": "AMBOROKAN PANE RAYA"
+  "districtName": "RAYA KAHEAN",
+  "name": "AMBOROKAN PANE RAYA",
+  "postalCode": "21156"
  },
  {
   "id": 1209130006,
   "districtId": 1209130,
-  "name": "PANDUMAN"
+  "districtName": "RAYA KAHEAN",
+  "name": "PANDUMAN",
+  "postalCode": "21156"
  },
  {
   "id": 1209130007,
   "districtId": 1209130,
-  "name": "BAH BULIAN"
+  "districtName": "RAYA KAHEAN",
+  "name": "BAH BULIAN",
+  "postalCode": "21156"
  },
  {
   "id": 1209130008,
   "districtId": 1209130,
-  "name": "DURIAN BAGGAL"
+  "districtName": "RAYA KAHEAN",
+  "name": "DURIAN BAGGAL",
+  "postalCode": ""
  },
  {
   "id": 1209130009,
   "districtId": 1209130,
-  "name": "SORBA DOLOG"
+  "districtName": "RAYA KAHEAN",
+  "name": "SORBA DOLOG",
+  "postalCode": "21156"
  },
  {
   "id": 1209130010,
   "districtId": 1209130,
-  "name": "PULI BUAH"
+  "districtName": "RAYA KAHEAN",
+  "name": "PULI BUAH",
+  "postalCode": "21156"
  },
  {
   "id": 1209130011,
   "districtId": 1209130,
-  "name": "GUNUNG DATAS"
+  "districtName": "RAYA KAHEAN",
+  "name": "GUNUNG DATAS",
+  "postalCode": "21156"
  },
  {
   "id": 1209130012,
   "districtId": 1209130,
-  "name": "BANJARAN"
+  "districtName": "RAYA KAHEAN",
+  "name": "BANJARAN",
+  "postalCode": "35451"
  },
  {
   "id": 1209130013,
   "districtId": 1209130,
-  "name": "MARUBUN SIBORAS"
+  "districtName": "RAYA KAHEAN",
+  "name": "MARUBUN SIBORAS",
+  "postalCode": ""
  },
  {
   "id": 1209130014,
   "districtId": 1209130,
-  "name": "BANU RAYA"
+  "districtName": "RAYA KAHEAN",
+  "name": "BANU RAYA",
+  "postalCode": ""
  }
 ]

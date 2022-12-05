@@ -2,91 +2,127 @@
  {
   "id": 3327100001,
   "districtId": 3327100,
-  "name": "KENDALSARI"
+  "districtName": "PETARUKAN",
+  "name": "KENDALSARI",
+  "postalCode": "57484"
  },
  {
   "id": 3327100002,
   "districtId": 3327100,
-  "name": "WIDODAREN"
+  "districtName": "PETARUKAN",
+  "name": "WIDODAREN",
+  "postalCode": "52362"
  },
  {
   "id": 3327100003,
   "districtId": 3327100,
-  "name": "KARANGASEM"
+  "districtName": "PETARUKAN",
+  "name": "KARANGASEM",
+  "postalCode": "45186"
  },
  {
   "id": 3327100004,
   "districtId": 3327100,
-  "name": "PETANJUNGAN"
+  "districtName": "PETARUKAN",
+  "name": "PETANJUNGAN",
+  "postalCode": "52362"
  },
  {
   "id": 3327100005,
   "districtId": 3327100,
-  "name": "SIRANGKANG"
+  "districtName": "PETARUKAN",
+  "name": "SIRANGKANG",
+  "postalCode": "52362"
  },
  {
   "id": 3327100006,
   "districtId": 3327100,
-  "name": "ISER"
+  "districtName": "PETARUKAN",
+  "name": "ISER",
+  "postalCode": "52362"
  },
  {
   "id": 3327100007,
   "districtId": 3327100,
-  "name": "SERANG"
+  "districtName": "PETARUKAN",
+  "name": "SERANG",
+  "postalCode": "17530"
  },
  {
   "id": 3327100008,
   "districtId": 3327100,
-  "name": "PETARUKAN"
+  "districtName": "PETARUKAN",
+  "name": "PETARUKAN",
+  "postalCode": "52362"
  },
  {
   "id": 3327100009,
   "districtId": 3327100,
-  "name": "KALIRANDU"
+  "districtName": "PETARUKAN",
+  "name": "KALIRANDU",
+  "postalCode": "52362"
  },
  {
   "id": 3327100011,
   "districtId": 3327100,
-  "name": "PANJUNAN"
+  "districtName": "PETARUKAN",
+  "name": "PANJUNAN",
+  "postalCode": "40242"
  },
  {
   "id": 3327100012,
   "districtId": 3327100,
-  "name": "TEMUIRENG"
+  "districtName": "PETARUKAN",
+  "name": "TEMUIRENG",
+  "postalCode": "57481"
  },
  {
   "id": 3327100013,
   "districtId": 3327100,
-  "name": "PEGUNDAN"
+  "districtName": "PETARUKAN",
+  "name": "PEGUNDAN",
+  "postalCode": "52362"
  },
  {
   "id": 3327100015,
   "districtId": 3327100,
-  "name": "TEGALMLATI"
+  "districtName": "PETARUKAN",
+  "name": "TEGALMLATI",
+  "postalCode": "52362"
  },
  {
   "id": 3327100016,
   "districtId": 3327100,
-  "name": "LONING"
+  "districtName": "PETARUKAN",
+  "name": "LONING",
+  "postalCode": "54262"
  },
  {
   "id": 3327100017,
   "districtId": 3327100,
-  "name": "NYAMPLUNG SARI"
+  "districtName": "PETARUKAN",
+  "name": "NYAMPLUNG SARI",
+  "postalCode": "52362"
  },
  {
   "id": 3327100018,
   "districtId": 3327100,
-  "name": "KLAREYAN"
+  "districtName": "PETARUKAN",
+  "name": "KLAREYAN",
+  "postalCode": "52362"
  },
  {
   "id": 3327100019,
   "districtId": 3327100,
-  "name": "KENDALDOYONG"
+  "districtName": "PETARUKAN",
+  "name": "KENDALDOYONG",
+  "postalCode": "52362"
  },
  {
   "id": 3327100020,
   "districtId": 3327100,
-  "name": "KENDALREJO"
+  "districtName": "PETARUKAN",
+  "name": "KENDALREJO",
+  "postalCode": "52362"
  }
 ]

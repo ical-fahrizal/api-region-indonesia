@@ -2,36 +2,50 @@
  {
   "id": 8203041001,
   "districtId": 8203041,
-  "name": "FALABISAHAYA"
+  "districtName": "MANGOLI UTARA",
+  "name": "FALABISAHAYA",
+  "postalCode": "97793"
  },
  {
   "id": 8203041002,
   "districtId": 8203041,
-  "name": "MADAPUHI"
+  "districtName": "MANGOLI UTARA",
+  "name": "MADAPUHI",
+  "postalCode": ""
  },
  {
   "id": 8203041003,
   "districtId": 8203041,
-  "name": "PASTABULU"
+  "districtName": "MANGOLI UTARA",
+  "name": "PASTABULU",
+  "postalCode": "97793"
  },
  {
   "id": 8203041004,
   "districtId": 8203041,
-  "name": "MODAPIA"
+  "districtName": "MANGOLI UTARA",
+  "name": "MODAPIA",
+  "postalCode": "97793"
  },
  {
   "id": 8203041005,
   "districtId": 8203041,
-  "name": "MINALULI"
+  "districtName": "MANGOLI UTARA",
+  "name": "MINALULI",
+  "postalCode": "97793"
  },
  {
   "id": 8203041006,
   "districtId": 8203041,
-  "name": "SANIAHAYA"
+  "districtName": "MANGOLI UTARA",
+  "name": "SANIAHAYA",
+  "postalCode": "97793"
  },
  {
   "id": 8203041007,
   "districtId": 8203041,
-  "name": "MADAPUHI TRANS"
+  "districtName": "MANGOLI UTARA",
+  "name": "MADAPUHI TRANS",
+  "postalCode": ""
  }
 ]

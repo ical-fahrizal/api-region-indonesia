@@ -2,71 +2,99 @@
  {
   "id": 5315032001,
   "districtId": 5315032,
-  "name": "NANGA BERE"
+  "districtName": "LEMBOR SELATAN",
+  "name": "NANGA BERE",
+  "postalCode": "86753"
  },
  {
   "id": 5315032002,
   "districtId": 5315032,
-  "name": "BENTENG DEWA"
+  "districtName": "LEMBOR SELATAN",
+  "name": "BENTENG DEWA",
+  "postalCode": "86753"
  },
  {
   "id": 5315032003,
   "districtId": 5315032,
-  "name": "NANGA LILI"
+  "districtName": "LEMBOR SELATAN",
+  "name": "NANGA LILI",
+  "postalCode": "86753"
  },
  {
   "id": 5315032004,
   "districtId": 5315032,
-  "name": "REPI"
+  "districtName": "LEMBOR SELATAN",
+  "name": "REPI",
+  "postalCode": "86753"
  },
  {
   "id": 5315032005,
   "districtId": 5315032,
-  "name": "WATU WAJA"
+  "districtName": "LEMBOR SELATAN",
+  "name": "WATU WAJA",
+  "postalCode": "86753"
  },
  {
   "id": 5315032007,
   "districtId": 5315032,
-  "name": "MUNTING"
+  "districtName": "LEMBOR SELATAN",
+  "name": "MUNTING",
+  "postalCode": "86753"
  },
  {
   "id": 5315032008,
   "districtId": 5315032,
-  "name": "LALONG"
+  "districtName": "LEMBOR SELATAN",
+  "name": "LALONG",
+  "postalCode": "86753"
  },
  {
   "id": 5315032009,
   "districtId": 5315032,
-  "name": "KAKOR"
+  "districtName": "LEMBOR SELATAN",
+  "name": "KAKOR",
+  "postalCode": "86753"
  },
  {
   "id": 5315032010,
   "districtId": 5315032,
-  "name": "WAE MOSE"
+  "districtName": "LEMBOR SELATAN",
+  "name": "WAE MOSE",
+  "postalCode": "86753"
  },
  {
   "id": 5315032011,
   "districtId": 5315032,
-  "name": "WATU TIRI"
+  "districtName": "LEMBOR SELATAN",
+  "name": "WATU TIRI",
+  "postalCode": ""
  },
  {
   "id": 5315032012,
   "districtId": 5315032,
-  "name": "BENTENG TADO"
+  "districtName": "LEMBOR SELATAN",
+  "name": "BENTENG TADO",
+  "postalCode": ""
  },
  {
   "id": 5315032013,
   "districtId": 5315032,
-  "name": "WATU RAMBUNG"
+  "districtName": "LEMBOR SELATAN",
+  "name": "WATU RAMBUNG",
+  "postalCode": ""
  },
  {
   "id": 5315032014,
   "districtId": 5315032,
-  "name": "LENDONG"
+  "districtName": "LEMBOR SELATAN",
+  "name": "LENDONG",
+  "postalCode": ""
  },
  {
   "id": 5315032015,
   "districtId": 5315032,
-  "name": "MODO"
+  "districtName": "LEMBOR SELATAN",
+  "name": "MODO",
+  "postalCode": "94564"
  }
 ]

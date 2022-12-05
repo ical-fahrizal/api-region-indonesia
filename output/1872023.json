@@ -2,21 +2,29 @@
  {
   "id": 1872023001,
   "districtId": 1872023,
-  "name": "BANJARSARI"
+  "districtName": "METRO UTARA",
+  "name": "BANJARSARI",
+  "postalCode": "35377"
  },
  {
   "id": 1872023002,
   "districtId": 1872023,
-  "name": "PURWOSARI"
+  "districtName": "METRO UTARA",
+  "name": "PURWOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 1872023003,
   "districtId": 1872023,
-  "name": "PURWOASRI"
+  "districtName": "METRO UTARA",
+  "name": "PURWOASRI",
+  "postalCode": "68165"
  },
  {
   "id": 1872023004,
   "districtId": 1872023,
-  "name": "KARANGREJO"
+  "districtName": "METRO UTARA",
+  "name": "KARANGREJO",
+  "postalCode": "35387"
  }
 ]

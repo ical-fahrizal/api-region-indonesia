@@ -2,51 +2,71 @@
  {
   "id": 3305111001,
   "districtId": 3305111,
-  "name": "JATIPURUS"
+  "districtName": "PONCOWARNO",
+  "name": "JATIPURUS",
+  "postalCode": "54393"
  },
  {
   "id": 3305111003,
   "districtId": 3305111,
-  "name": "BLATER"
+  "districtName": "PONCOWARNO",
+  "name": "BLATER",
+  "postalCode": "53371"
  },
  {
   "id": 3305111004,
   "districtId": 3305111,
-  "name": "PONCOWARNO"
+  "districtName": "PONCOWARNO",
+  "name": "PONCOWARNO",
+  "postalCode": "54393"
  },
  {
   "id": 3305111005,
   "districtId": 3305111,
-  "name": "TEGALREJO"
+  "districtName": "PONCOWARNO",
+  "name": "TEGALREJO",
+  "postalCode": "50733"
  },
  {
   "id": 3305111006,
   "districtId": 3305111,
-  "name": "JEMBANGAN"
+  "districtName": "PONCOWARNO",
+  "name": "JEMBANGAN",
+  "postalCode": "59186"
  },
  {
   "id": 3305111007,
   "districtId": 3305111,
-  "name": "KEDUNGDOWO"
+  "districtName": "PONCOWARNO",
+  "name": "KEDUNGDOWO",
+  "postalCode": "57384"
  },
  {
   "id": 3305111008,
   "districtId": 3305111,
-  "name": "KARANGTENGAH"
+  "districtName": "PONCOWARNO",
+  "name": "KARANGTENGAH",
+  "postalCode": "43351"
  },
  {
   "id": 3305111009,
   "districtId": 3305111,
-  "name": "TIRTOMOYO"
+  "districtName": "PONCOWARNO",
+  "name": "TIRTOMOYO",
+  "postalCode": "54393"
  },
  {
   "id": 3305111010,
   "districtId": 3305111,
-  "name": "SOKA"
+  "districtName": "PONCOWARNO",
+  "name": "SOKA",
+  "postalCode": "51274"
  },
  {
   "id": 3305111011,
   "districtId": 3305111,
-  "name": "KEBAPANGAN"
+  "districtName": "PONCOWARNO",
+  "name": "KEBAPANGAN",
+  "postalCode": "54393"
  }
 ]

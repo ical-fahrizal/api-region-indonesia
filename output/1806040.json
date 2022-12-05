@@ -2,66 +2,92 @@
  {
   "id": 1806040006,
   "districtId": 1806040,
-  "name": "TALANG BOJONG"
+  "districtName": "KOTABUMI",
+  "name": "TALANG BOJONG",
+  "postalCode": "34511"
  },
  {
   "id": 1806040011,
   "districtId": 1806040,
-  "name": "KOTA GAPURA"
+  "districtName": "KOTABUMI",
+  "name": "KOTA GAPURA",
+  "postalCode": "34511"
  },
  {
   "id": 1806040013,
   "districtId": 1806040,
-  "name": "CEMPEDAK"
+  "districtName": "KOTABUMI",
+  "name": "CEMPEDAK",
+  "postalCode": "34516"
  },
  {
   "id": 1806040014,
   "districtId": 1806040,
-  "name": "SRIBASUKI"
+  "districtName": "KOTABUMI",
+  "name": "SRIBASUKI",
+  "postalCode": "34515"
  },
  {
   "id": 1806040015,
   "districtId": 1806040,
-  "name": "REJOSARI"
+  "districtName": "KOTABUMI",
+  "name": "REJOSARI",
+  "postalCode": "29353"
  },
  {
   "id": 1806040016,
   "districtId": 1806040,
-  "name": "KOTABUMI TENGAH"
+  "districtName": "KOTABUMI",
+  "name": "KOTABUMI TENGAH",
+  "postalCode": "34516"
  },
  {
   "id": 1806040017,
   "districtId": 1806040,
-  "name": "KOTABUMI ILIR"
+  "districtName": "KOTABUMI",
+  "name": "KOTABUMI ILIR",
+  "postalCode": "34517"
  },
  {
   "id": 1806040018,
   "districtId": 1806040,
-  "name": "KOTABUMI PASAR"
+  "districtName": "KOTABUMI",
+  "name": "KOTABUMI PASAR",
+  "postalCode": "34518"
  },
  {
   "id": 1806040019,
   "districtId": 1806040,
-  "name": "KOTABUMI UDIK"
+  "districtName": "KOTABUMI",
+  "name": "KOTABUMI UDIK",
+  "postalCode": "34518"
  },
  {
   "id": 1806040020,
   "districtId": 1806040,
-  "name": "SINDANG SARI"
+  "districtName": "KOTABUMI",
+  "name": "SINDANG SARI",
+  "postalCode": "30657"
  },
  {
   "id": 1806040027,
   "districtId": 1806040,
-  "name": "KOTABUMI TENGAH BARAT"
+  "districtName": "KOTABUMI",
+  "name": "KOTABUMI TENGAH BARAT",
+  "postalCode": "34516"
  },
  {
   "id": 1806040028,
   "districtId": 1806040,
-  "name": "BOJONG BARAT"
+  "districtName": "KOTABUMI",
+  "name": "BOJONG BARAT",
+  "postalCode": "34511"
  },
  {
   "id": 1806040029,
   "districtId": 1806040,
-  "name": "SUMBER ARUM"
+  "districtName": "KOTABUMI",
+  "name": "SUMBER ARUM",
+  "postalCode": "34511"
  }
 ]

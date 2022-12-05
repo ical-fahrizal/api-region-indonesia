@@ -2,51 +2,71 @@
  {
   "id": 7210150001,
   "districtId": 7210150,
-  "name": "RONDINGO"
+  "districtName": "KINOVARO",
+  "name": "RONDINGO",
+  "postalCode": "94362"
  },
  {
   "id": 7210150002,
   "districtId": 7210150,
-  "name": "POBOLOBIA"
+  "districtName": "KINOVARO",
+  "name": "POBOLOBIA",
+  "postalCode": ""
  },
  {
   "id": 7210150003,
   "districtId": 7210150,
-  "name": "UWEMANJE"
+  "districtName": "KINOVARO",
+  "name": "UWEMANJE",
+  "postalCode": "94362"
  },
  {
   "id": 7210150004,
   "districtId": 7210150,
-  "name": "PORAME"
+  "districtName": "KINOVARO",
+  "name": "PORAME",
+  "postalCode": "94362"
  },
  {
   "id": 7210150005,
   "districtId": 7210150,
-  "name": "BALANE"
+  "districtName": "KINOVARO",
+  "name": "BALANE",
+  "postalCode": "95855"
  },
  {
   "id": 7210150006,
   "districtId": 7210150,
-  "name": "DODA"
+  "districtName": "KINOVARO",
+  "name": "DODA",
+  "postalCode": "94362"
  },
  {
   "id": 7210150007,
   "districtId": 7210150,
-  "name": "DAENGGUNE"
+  "districtName": "KINOVARO",
+  "name": "DAENGGUNE",
+  "postalCode": "94362"
  },
  {
   "id": 7210150008,
   "districtId": 7210150,
-  "name": "KANUNA"
+  "districtName": "KINOVARO",
+  "name": "KANUNA",
+  "postalCode": "94362"
  },
  {
   "id": 7210150009,
   "districtId": 7210150,
-  "name": "KALORA"
+  "districtName": "KINOVARO",
+  "name": "KALORA",
+  "postalCode": "94362"
  },
  {
   "id": 7210150010,
   "districtId": 7210150,
-  "name": "KAYUMPIA"
+  "districtName": "KINOVARO",
+  "name": "KAYUMPIA",
+  "postalCode": ""
  }
 ]

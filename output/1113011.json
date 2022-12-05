@@ -2,51 +2,71 @@
  {
   "id": 1113011001,
   "districtId": 1113011,
-  "name": "PENOSAN"
+  "districtName": "BLANG JERANGO",
+  "name": "PENOSAN",
+  "postalCode": "24655"
  },
  {
   "id": 1113011002,
   "districtId": 1113011,
-  "name": "PENOSAN SEPAKAT"
+  "districtName": "BLANG JERANGO",
+  "name": "PENOSAN SEPAKAT",
+  "postalCode": "24655"
  },
  {
   "id": 1113011003,
   "districtId": 1113011,
-  "name": "GEGARANG"
+  "districtName": "BLANG JERANGO",
+  "name": "GEGARANG",
+  "postalCode": "24571"
  },
  {
   "id": 1113011004,
   "districtId": 1113011,
-  "name": "PEPARIK GAIB"
+  "districtName": "BLANG JERANGO",
+  "name": "PEPARIK GAIB",
+  "postalCode": "24655"
  },
  {
   "id": 1113011005,
   "districtId": 1113011,
-  "name": "TINGKEM"
+  "districtName": "BLANG JERANGO",
+  "name": "TINGKEM",
+  "postalCode": "24655"
  },
  {
   "id": 1113011006,
   "districtId": 1113011,
-  "name": "SEKUELEN"
+  "districtName": "BLANG JERANGO",
+  "name": "SEKUELEN",
+  "postalCode": "24655"
  },
  {
   "id": 1113011007,
   "districtId": 1113011,
-  "name": "AKUL"
+  "districtName": "BLANG JERANGO",
+  "name": "AKUL",
+  "postalCode": "24655"
  },
  {
   "id": 1113011008,
   "districtId": 1113011,
-  "name": "KETUKAH"
+  "districtName": "BLANG JERANGO",
+  "name": "KETUKAH",
+  "postalCode": "24655"
  },
  {
   "id": 1113011009,
   "districtId": 1113011,
-  "name": "BLANG JERANGO"
+  "districtName": "BLANG JERANGO",
+  "name": "BLANG JERANGO",
+  "postalCode": "24655"
  },
  {
   "id": 1113011010,
   "districtId": 1113011,
-  "name": "PEPARIK DEKAT"
+  "districtName": "BLANG JERANGO",
+  "name": "PEPARIK DEKAT",
+  "postalCode": "24655"
  }
 ]

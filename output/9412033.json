@@ -2,36 +2,50 @@
  {
   "id": 9412033001,
   "districtId": 9412033,
-  "name": "KAMORO JAYA"
+  "districtName": "WANIA",
+  "name": "KAMORO JAYA",
+  "postalCode": "99910"
  },
  {
   "id": 9412033002,
   "districtId": 9412033,
-  "name": "MONOKAU JAYA"
+  "districtName": "WANIA",
+  "name": "MONOKAU JAYA",
+  "postalCode": ""
  },
  {
   "id": 9412033003,
   "districtId": 9412033,
-  "name": "WONOSARI JAYA"
+  "districtName": "WANIA",
+  "name": "WONOSARI JAYA",
+  "postalCode": "99910"
  },
  {
   "id": 9412033004,
   "districtId": 9412033,
-  "name": "MANDIRI JAYA"
+  "districtName": "WANIA",
+  "name": "MANDIRI JAYA",
+  "postalCode": "78656"
  },
  {
   "id": 9412033005,
   "districtId": 9412033,
-  "name": "INAUGA"
+  "districtName": "WANIA",
+  "name": "INAUGA",
+  "postalCode": ""
  },
  {
   "id": 9412033006,
   "districtId": 9412033,
-  "name": "NAWARIPI"
+  "districtName": "WANIA",
+  "name": "NAWARIPI",
+  "postalCode": "99910"
  },
  {
   "id": 9412033007,
   "districtId": 9412033,
-  "name": "KADUN JAYA"
+  "districtName": "WANIA",
+  "name": "KADUN JAYA",
+  "postalCode": "99963"
  }
 ]

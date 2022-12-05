@@ -2,71 +2,99 @@
  {
   "id": 7409122001,
   "districtId": 7409122,
-  "name": "ULUNAMBO"
+  "districtName": "KULISUSU UTARA",
+  "name": "ULUNAMBO",
+  "postalCode": "94975"
  },
  {
   "id": 7409122002,
   "districtId": 7409122,
-  "name": "WAODE BURI"
+  "districtName": "KULISUSU UTARA",
+  "name": "WAODE BURI",
+  "postalCode": "93672"
  },
  {
   "id": 7409122003,
   "districtId": 7409122,
-  "name": "LELAMO"
+  "districtName": "KULISUSU UTARA",
+  "name": "LELAMO",
+  "postalCode": "93672"
  },
  {
   "id": 7409122004,
   "districtId": 7409122,
-  "name": "PETETEAA"
+  "districtName": "KULISUSU UTARA",
+  "name": "PETETEAA",
+  "postalCode": "93672"
  },
  {
   "id": 7409122005,
   "districtId": 7409122,
-  "name": "PEBAOA"
+  "districtName": "KULISUSU UTARA",
+  "name": "PEBAOA",
+  "postalCode": "93672"
  },
  {
   "id": 7409122006,
   "districtId": 7409122,
-  "name": "LANOSANGIA"
+  "districtName": "KULISUSU UTARA",
+  "name": "LANOSANGIA",
+  "postalCode": ""
  },
  {
   "id": 7409122007,
   "districtId": 7409122,
-  "name": "LAMOAHI"
+  "districtName": "KULISUSU UTARA",
+  "name": "LAMOAHI",
+  "postalCode": "93672"
  },
  {
   "id": 7409122008,
   "districtId": 7409122,
-  "name": "TORUMBIA"
+  "districtName": "KULISUSU UTARA",
+  "name": "TORUMBIA",
+  "postalCode": ""
  },
  {
   "id": 7409122009,
   "districtId": 7409122,
-  "name": "KUROLABU"
+  "districtName": "KULISUSU UTARA",
+  "name": "KUROLABU",
+  "postalCode": "93672"
  },
  {
   "id": 7409122010,
   "districtId": 7409122,
-  "name": "EERINERE"
+  "districtName": "KULISUSU UTARA",
+  "name": "EERINERE",
+  "postalCode": ""
  },
  {
   "id": 7409122011,
   "districtId": 7409122,
-  "name": "WAMBOULE"
+  "districtName": "KULISUSU UTARA",
+  "name": "WAMBOULE",
+  "postalCode": "93672"
  },
  {
   "id": 7409122013,
   "districtId": 7409122,
-  "name": "LABELETE"
+  "districtName": "KULISUSU UTARA",
+  "name": "LABELETE",
+  "postalCode": "93672"
  },
  {
   "id": 7409122014,
   "districtId": 7409122,
-  "name": "WOWONGA JAYA"
+  "districtName": "KULISUSU UTARA",
+  "name": "WOWONGA JAYA",
+  "postalCode": "93672"
  },
  {
   "id": 7409122015,
   "districtId": 7409122,
-  "name": "BIRA"
+  "districtName": "KULISUSU UTARA",
+  "name": "BIRA",
+  "postalCode": "95857"
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 9414022001,
   "districtId": 9414022,
-  "name": "HOMILIKIA"
+  "districtName": "SYAHCAME",
+  "name": "HOMILIKIA",
+  "postalCode": ""
  },
  {
   "id": 9414022002,
   "districtId": 9414022,
-  "name": "KOBETA"
+  "districtName": "SYAHCAME",
+  "name": "KOBETA",
+  "postalCode": "99853"
  },
  {
   "id": 9414022003,
   "districtId": 9414022,
-  "name": "ASSET"
+  "districtName": "SYAHCAME",
+  "name": "ASSET",
+  "postalCode": "99853"
  },
  {
   "id": 9414022004,
   "districtId": 9414022,
-  "name": "OSSO"
+  "districtName": "SYAHCAME",
+  "name": "OSSO",
+  "postalCode": "99662"
  },
  {
   "id": 9414022005,
   "districtId": 9414022,
-  "name": "BOSMA"
+  "districtName": "SYAHCAME",
+  "name": "BOSMA",
+  "postalCode": "99853"
  },
  {
   "id": 9414022006,
   "districtId": 9414022,
-  "name": "OGOTO"
+  "districtName": "SYAHCAME",
+  "name": "OGOTO",
+  "postalCode": ""
  }
 ]

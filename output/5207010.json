@@ -2,41 +2,57 @@
  {
   "id": 5207010001,
   "districtId": 5207010,
-  "name": "SEKONGKANG BAWAH"
+  "districtName": "SEKONGKANG",
+  "name": "SEKONGKANG BAWAH",
+  "postalCode": "84457"
  },
  {
   "id": 5207010002,
   "districtId": 5207010,
-  "name": "SEKONGKANG ATAS"
+  "districtName": "SEKONGKANG",
+  "name": "SEKONGKANG ATAS",
+  "postalCode": "84457"
  },
  {
   "id": 5207010003,
   "districtId": 5207010,
-  "name": "TONGO"
+  "districtName": "SEKONGKANG",
+  "name": "TONGO",
+  "postalCode": "84457"
  },
  {
   "id": 5207010004,
   "districtId": 5207010,
-  "name": "AI KANGKUNG"
+  "districtName": "SEKONGKANG",
+  "name": "AI KANGKUNG",
+  "postalCode": "84457"
  },
  {
   "id": 5207010005,
   "districtId": 5207010,
-  "name": "TATAR"
+  "districtName": "SEKONGKANG",
+  "name": "TATAR",
+  "postalCode": "84457"
  },
  {
   "id": 5207010006,
   "districtId": 5207010,
-  "name": "TALONANG BARU"
+  "districtName": "SEKONGKANG",
+  "name": "TALONANG BARU",
+  "postalCode": ""
  },
  {
   "id": 5207010007,
   "districtId": 5207010,
-  "name": "KEMUNING"
+  "districtName": "SEKONGKANG",
+  "name": "KEMUNING",
+  "postalCode": "36514"
  },
  {
   "id": 5207010008,
   "districtId": 5207010,
-  "name": "UPT TONGO II SP.2"
+  "districtName": "SEKONGKANG",
+  "name": "UPT TONGO II SP.2",
+  "postalCode": ""
  }
 ]

@@ -2,51 +2,71 @@
  {
   "id": 7412030001,
   "districtId": 7412030,
-  "name": "PUURAU"
+  "districtName": "WAWONII TIMUR LAUT",
+  "name": "PUURAU",
+  "postalCode": "93958"
  },
  {
   "id": 7412030002,
   "districtId": 7412030,
-  "name": "MATA DIMBA"
+  "districtName": "WAWONII TIMUR LAUT",
+  "name": "MATA DIMBA",
+  "postalCode": "93393"
  },
  {
   "id": 7412030003,
   "districtId": 7412030,
-  "name": "DIMBA"
+  "districtName": "WAWONII TIMUR LAUT",
+  "name": "DIMBA",
+  "postalCode": "93393"
  },
  {
   "id": 7412030004,
   "districtId": 7412030,
-  "name": "PATANDE"
+  "districtName": "WAWONII TIMUR LAUT",
+  "name": "PATANDE",
+  "postalCode": "93393"
  },
  {
   "id": 7412030005,
   "districtId": 7412030,
-  "name": "LADIANTA"
+  "districtName": "WAWONII TIMUR LAUT",
+  "name": "LADIANTA",
+  "postalCode": "93393"
  },
  {
   "id": 7412030006,
   "districtId": 7412030,
-  "name": "TANGKOMBUNO"
+  "districtName": "WAWONII TIMUR LAUT",
+  "name": "TANGKOMBUNO",
+  "postalCode": "93393"
  },
  {
   "id": 7412030007,
   "districtId": 7412030,
-  "name": "BAHO BUBU"
+  "districtName": "WAWONII TIMUR LAUT",
+  "name": "BAHO BUBU",
+  "postalCode": "93393"
  },
  {
   "id": 7412030008,
   "districtId": 7412030,
-  "name": "NOKO"
+  "districtName": "WAWONII TIMUR LAUT",
+  "name": "NOKO",
+  "postalCode": "93393"
  },
  {
   "id": 7412030009,
   "districtId": 7412030,
-  "name": "BANGUN MEKAR"
+  "districtName": "WAWONII TIMUR LAUT",
+  "name": "BANGUN MEKAR",
+  "postalCode": "93393"
  },
  {
   "id": 7412030010,
   "districtId": 7412030,
-  "name": "WATUONDO"
+  "districtName": "WAWONII TIMUR LAUT",
+  "name": "WATUONDO",
+  "postalCode": ""
  }
 ]

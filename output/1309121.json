@@ -2,11 +2,15 @@
  {
   "id": 1309121001,
   "districtId": 1309121,
-  "name": "TARUANG-TARUANG"
+  "districtName": "RAO",
+  "name": "TARUANG-TARUANG",
+  "postalCode": ""
  },
  {
   "id": 1309121002,
   "districtId": 1309121,
-  "name": "PADANG MANTINGGI"
+  "districtName": "RAO",
+  "name": "PADANG MANTINGGI",
+  "postalCode": ""
  }
 ]

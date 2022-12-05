@@ -2,51 +2,71 @@
  {
   "id": 3507310001,
   "districtId": 3507310,
-  "name": "BENDOSARI"
+  "districtName": "PUJON",
+  "name": "BENDOSARI",
+  "postalCode": "57528"
  },
  {
   "id": 3507310002,
   "districtId": 3507310,
-  "name": "SUKOMULYO"
+  "districtName": "PUJON",
+  "name": "SUKOMULYO",
+  "postalCode": "32381"
  },
  {
   "id": 3507310003,
   "districtId": 3507310,
-  "name": "PUJON KIDUL"
+  "districtName": "PUJON",
+  "name": "PUJON KIDUL",
+  "postalCode": "65391"
  },
  {
   "id": 3507310004,
   "districtId": 3507310,
-  "name": "PANDESARI"
+  "districtName": "PUJON",
+  "name": "PANDESARI",
+  "postalCode": "65391"
  },
  {
   "id": 3507310005,
   "districtId": 3507310,
-  "name": "PUJON LOR"
+  "districtName": "PUJON",
+  "name": "PUJON LOR",
+  "postalCode": "65391"
  },
  {
   "id": 3507310006,
   "districtId": 3507310,
-  "name": "NGROTO"
+  "districtName": "PUJON",
+  "name": "NGROTO",
+  "postalCode": "58314"
  },
  {
   "id": 3507310007,
   "districtId": 3507310,
-  "name": "NGABAB"
+  "districtName": "PUJON",
+  "name": "NGABAB",
+  "postalCode": "65391"
  },
  {
   "id": 3507310008,
   "districtId": 3507310,
-  "name": "TAWANGSARI"
+  "districtName": "PUJON",
+  "name": "TAWANGSARI",
+  "postalCode": "45365"
  },
  {
   "id": 3507310009,
   "districtId": 3507310,
-  "name": "MADIREDO"
+  "districtName": "PUJON",
+  "name": "MADIREDO",
+  "postalCode": "65391"
  },
  {
   "id": 3507310010,
   "districtId": 3507310,
-  "name": "WIYUREJO"
+  "districtName": "PUJON",
+  "name": "WIYUREJO",
+  "postalCode": "65391"
  }
 ]

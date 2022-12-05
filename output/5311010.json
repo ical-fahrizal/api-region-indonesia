@@ -2,146 +2,204 @@
  {
   "id": 5311010001,
   "districtId": 5311010,
-  "name": "ONDOREA"
+  "districtName": "NANGAPANDA",
+  "name": "ONDOREA",
+  "postalCode": "86352"
  },
  {
   "id": 5311010002,
   "districtId": 5311010,
-  "name": "KEL. NDORUREA"
+  "districtName": "NANGAPANDA",
+  "name": "KEL. NDORUREA",
+  "postalCode": ""
  },
  {
   "id": 5311010003,
   "districtId": 5311010,
-  "name": "ZOZOZEA"
+  "districtName": "NANGAPANDA",
+  "name": "ZOZOZEA",
+  "postalCode": "86352"
  },
  {
   "id": 5311010004,
   "districtId": 5311010,
-  "name": "NGGOREA"
+  "districtName": "NANGAPANDA",
+  "name": "NGGOREA",
+  "postalCode": "86352"
  },
  {
   "id": 5311010005,
   "districtId": 5311010,
-  "name": "RAPORENDU"
+  "districtName": "NANGAPANDA",
+  "name": "RAPORENDU",
+  "postalCode": "86352"
  },
  {
   "id": 5311010006,
   "districtId": 5311010,
-  "name": "RAPOWAWO"
+  "districtName": "NANGAPANDA",
+  "name": "RAPOWAWO",
+  "postalCode": "86352"
  },
  {
   "id": 5311010007,
   "districtId": 5311010,
-  "name": "BHERAMARI"
+  "districtName": "NANGAPANDA",
+  "name": "BHERAMARI",
+  "postalCode": "86352"
  },
  {
   "id": 5311010008,
   "districtId": 5311010,
-  "name": "KERIREA"
+  "districtName": "NANGAPANDA",
+  "name": "KERIREA",
+  "postalCode": "86352"
  },
  {
   "id": 5311010009,
   "districtId": 5311010,
-  "name": "TENDAREA"
+  "districtName": "NANGAPANDA",
+  "name": "TENDAREA",
+  "postalCode": "86352"
  },
  {
   "id": 5311010010,
   "districtId": 5311010,
-  "name": "WATUMITE"
+  "districtName": "NANGAPANDA",
+  "name": "WATUMITE",
+  "postalCode": "86352"
  },
  {
   "id": 5311010011,
   "districtId": 5311010,
-  "name": "TENDAMBEPA"
+  "districtName": "NANGAPANDA",
+  "name": "TENDAMBEPA",
+  "postalCode": "86352"
  },
  {
   "id": 5311010012,
   "districtId": 5311010,
-  "name": "ONDOREA BARAT"
+  "districtName": "NANGAPANDA",
+  "name": "ONDOREA BARAT",
+  "postalCode": "86352"
  },
  {
   "id": 5311010013,
   "districtId": 5311010,
-  "name": "TIWE REA"
+  "districtName": "NANGAPANDA",
+  "name": "TIWE REA",
+  "postalCode": ""
  },
  {
   "id": 5311010014,
   "districtId": 5311010,
-  "name": "NDORUREA I"
+  "districtName": "NANGAPANDA",
+  "name": "NDORUREA I",
+  "postalCode": "86352"
  },
  {
   "id": 5311010015,
   "districtId": 5311010,
-  "name": "NDETUREA"
+  "districtName": "NANGAPANDA",
+  "name": "NDETUREA",
+  "postalCode": "86352"
  },
  {
   "id": 5311010016,
   "districtId": 5311010,
-  "name": "SANGGARHORHO"
+  "districtName": "NANGAPANDA",
+  "name": "SANGGARHORHO",
+  "postalCode": "86352"
  },
  {
   "id": 5311010017,
   "districtId": 5311010,
-  "name": "PENGGAJAWA"
+  "districtName": "NANGAPANDA",
+  "name": "PENGGAJAWA",
+  "postalCode": "86352"
  },
  {
   "id": 5311010018,
   "districtId": 5311010,
-  "name": "JEGHARANGGA"
+  "districtName": "NANGAPANDA",
+  "name": "JEGHARANGGA",
+  "postalCode": ""
  },
  {
   "id": 5311010019,
   "districtId": 5311010,
-  "name": "UZU ZOZO"
+  "districtName": "NANGAPANDA",
+  "name": "UZU ZOZO",
+  "postalCode": ""
  },
  {
   "id": 5311010020,
   "districtId": 5311010,
-  "name": "EMBUZOZO"
+  "districtName": "NANGAPANDA",
+  "name": "EMBUZOZO",
+  "postalCode": "86352"
  },
  {
   "id": 5311010021,
   "districtId": 5311010,
-  "name": "ANARAJA"
+  "districtName": "NANGAPANDA",
+  "name": "ANARAJA",
+  "postalCode": "86352"
  },
  {
   "id": 5311010022,
   "districtId": 5311010,
-  "name": "KEKANDERE"
+  "districtName": "NANGAPANDA",
+  "name": "KEKANDERE",
+  "postalCode": "86352"
  },
  {
   "id": 5311010023,
   "districtId": 5311010,
-  "name": "TANAZOZO"
+  "districtName": "NANGAPANDA",
+  "name": "TANAZOZO",
+  "postalCode": "86352"
  },
  {
   "id": 5311010024,
   "districtId": 5311010,
-  "name": "JEMBUREA"
+  "districtName": "NANGAPANDA",
+  "name": "JEMBUREA",
+  "postalCode": "86352"
  },
  {
   "id": 5311010025,
   "districtId": 5311010,
-  "name": "TIMBAZIA"
+  "districtName": "NANGAPANDA",
+  "name": "TIMBAZIA",
+  "postalCode": ""
  },
  {
   "id": 5311010026,
   "districtId": 5311010,
-  "name": "ROMAREA"
+  "districtName": "NANGAPANDA",
+  "name": "ROMAREA",
+  "postalCode": "86352"
  },
  {
   "id": 5311010027,
   "districtId": 5311010,
-  "name": "MBOBHENGA"
+  "districtName": "NANGAPANDA",
+  "name": "MBOBHENGA",
+  "postalCode": "86352"
  },
  {
   "id": 5311010028,
   "districtId": 5311010,
-  "name": "MALAWARU"
+  "districtName": "NANGAPANDA",
+  "name": "MALAWARU",
+  "postalCode": "86352"
  },
  {
   "id": 5311010029,
   "districtId": 5311010,
-  "name": "TENDA ONDO"
+  "districtName": "NANGAPANDA",
+  "name": "TENDA ONDO",
+  "postalCode": "86352"
  }
 ]

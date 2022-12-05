@@ -2,66 +2,92 @@
  {
   "id": 3302190001,
   "districtId": 3302190,
-  "name": "KEDUNGBANTENG"
+  "districtName": "KEDUNG BANTENG",
+  "name": "KEDUNGBANTENG",
+  "postalCode": "53152"
  },
  {
   "id": 3302190002,
   "districtId": 3302190,
-  "name": "KEBOCORAN"
+  "districtName": "KEDUNG BANTENG",
+  "name": "KEBOCORAN",
+  "postalCode": "53152"
  },
  {
   "id": 3302190003,
   "districtId": 3302190,
-  "name": "KARANGSALAM KIDUL"
+  "districtName": "KEDUNG BANTENG",
+  "name": "KARANGSALAM KIDUL",
+  "postalCode": "53152"
  },
  {
   "id": 3302190004,
   "districtId": 3302190,
-  "name": "BEJI"
+  "districtName": "KEDUNG BANTENG",
+  "name": "BEJI",
+  "postalCode": "16421"
  },
  {
   "id": 3302190005,
   "districtId": 3302190,
-  "name": "KARANGNANGKA"
+  "districtName": "KEDUNG BANTENG",
+  "name": "KARANGNANGKA",
+  "postalCode": "53281"
  },
  {
   "id": 3302190006,
   "districtId": 3302190,
-  "name": "KENITEN"
+  "districtName": "KEDUNG BANTENG",
+  "name": "KENITEN",
+  "postalCode": "53152"
  },
  {
   "id": 3302190007,
   "districtId": 3302190,
-  "name": "DAWUHAN WETAN"
+  "districtName": "KEDUNG BANTENG",
+  "name": "DAWUHAN WETAN",
+  "postalCode": "53152"
  },
  {
   "id": 3302190008,
   "districtId": 3302190,
-  "name": "DAWUHAN KULON"
+  "districtName": "KEDUNG BANTENG",
+  "name": "DAWUHAN KULON",
+  "postalCode": "53152"
  },
  {
   "id": 3302190009,
   "districtId": 3302190,
-  "name": "BASEH"
+  "districtName": "KEDUNG BANTENG",
+  "name": "BASEH",
+  "postalCode": "53152"
  },
  {
   "id": 3302190010,
   "districtId": 3302190,
-  "name": "KALISALAK"
+  "districtName": "KEDUNG BANTENG",
+  "name": "KALISALAK",
+  "postalCode": "51216"
  },
  {
   "id": 3302190011,
   "districtId": 3302190,
-  "name": "WINDUJAYA"
+  "districtName": "KEDUNG BANTENG",
+  "name": "WINDUJAYA",
+  "postalCode": "45189"
  },
  {
   "id": 3302190012,
   "districtId": 3302190,
-  "name": "KALIKESUR"
+  "districtName": "KEDUNG BANTENG",
+  "name": "KALIKESUR",
+  "postalCode": "53152"
  },
  {
   "id": 3302190013,
   "districtId": 3302190,
-  "name": "KUTALIMAN"
+  "districtName": "KEDUNG BANTENG",
+  "name": "KUTALIMAN",
+  "postalCode": "53152"
  }
 ]

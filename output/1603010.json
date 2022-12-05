@@ -2,51 +2,71 @@
  {
   "id": 1603010001,
   "districtId": 1603010,
-  "name": "PENINDAIAN"
+  "districtName": "SEMENDO DARAT LAUT",
+  "name": "PENINDAIAN",
+  "postalCode": "31453"
  },
  {
   "id": 1603010002,
   "districtId": 1603010,
-  "name": "BABATAN"
+  "districtName": "SEMENDO DARAT LAUT",
+  "name": "BABATAN",
+  "postalCode": "31593"
  },
  {
   "id": 1603010003,
   "districtId": 1603010,
-  "name": "MUARA DUA"
+  "districtName": "SEMENDO DARAT LAUT",
+  "name": "MUARA DUA",
+  "postalCode": "28771"
  },
  {
   "id": 1603010004,
   "districtId": 1603010,
-  "name": "PULAU PANGGUNG"
+  "districtName": "SEMENDO DARAT LAUT",
+  "name": "PULAU PANGGUNG",
+  "postalCode": "32279"
  },
  {
   "id": 1603010005,
   "districtId": 1603010,
-  "name": "MUARA DANAU"
+  "districtName": "SEMENDO DARAT LAUT",
+  "name": "MUARA DANAU",
+  "postalCode": "37482"
  },
  {
   "id": 1603010006,
   "districtId": 1603010,
-  "name": "PENYANDINGAN"
+  "districtName": "SEMENDO DARAT LAUT",
+  "name": "PENYANDINGAN",
+  "postalCode": "30862"
  },
  {
   "id": 1603010007,
   "districtId": 1603010,
-  "name": "TANAH ABANG"
+  "districtName": "SEMENDO DARAT LAUT",
+  "name": "TANAH ABANG",
+  "postalCode": "20585"
  },
  {
   "id": 1603010008,
   "districtId": 1603010,
-  "name": "KARYA NYATA"
+  "districtName": "SEMENDO DARAT LAUT",
+  "name": "KARYA NYATA",
+  "postalCode": "31356"
  },
  {
   "id": 1603010009,
   "districtId": 1603010,
-  "name": "PAGAR AGUNG"
+  "districtName": "SEMENDO DARAT LAUT",
+  "name": "PAGAR AGUNG",
+  "postalCode": "31417"
  },
  {
   "id": 1603010010,
   "districtId": 1603010,
-  "name": "PERAPAU"
+  "districtName": "SEMENDO DARAT LAUT",
+  "name": "PERAPAU",
+  "postalCode": "31356"
  }
 ]

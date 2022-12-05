@@ -2,41 +2,57 @@
  {
   "id": 7406021001,
   "districtId": 7406021,
-  "name": "TANGKENO"
+  "districtName": "KABAENA TENGAH",
+  "name": "TANGKENO",
+  "postalCode": "93783"
  },
  {
   "id": 7406021002,
   "districtId": 7406021,
-  "name": "ENANO"
+  "districtName": "KABAENA TENGAH",
+  "name": "ENANO",
+  "postalCode": "93783"
  },
  {
   "id": 7406021003,
   "districtId": 7406021,
-  "name": "ULUNGKURA"
+  "districtName": "KABAENA TENGAH",
+  "name": "ULUNGKURA",
+  "postalCode": "93783"
  },
  {
   "id": 7406021004,
   "districtId": 7406021,
-  "name": "LENGORA"
+  "districtName": "KABAENA TENGAH",
+  "name": "LENGORA",
+  "postalCode": "93783"
  },
  {
   "id": 7406021005,
   "districtId": 7406021,
-  "name": "LENGORA SELATAN"
+  "districtName": "KABAENA TENGAH",
+  "name": "LENGORA SELATAN",
+  "postalCode": "93783"
  },
  {
   "id": 7406021006,
   "districtId": 7406021,
-  "name": "LENGORA PANTAI"
+  "districtName": "KABAENA TENGAH",
+  "name": "LENGORA PANTAI",
+  "postalCode": "93783"
  },
  {
   "id": 7406021007,
   "districtId": 7406021,
-  "name": "LAMONGGI"
+  "districtName": "KABAENA TENGAH",
+  "name": "LAMONGGI",
+  "postalCode": "93783"
  },
  {
   "id": 7406021008,
   "districtId": 7406021,
-  "name": "UPT LENGORA PANTAI"
+  "districtName": "KABAENA TENGAH",
+  "name": "UPT LENGORA PANTAI",
+  "postalCode": ""
  }
 ]

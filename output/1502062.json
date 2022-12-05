@@ -2,41 +2,57 @@
  {
   "id": 1502062001,
   "districtId": 1502062,
-  "name": "SINAR GADING"
+  "districtName": "TABIR SELATAN",
+  "name": "SINAR GADING",
+  "postalCode": "37354"
  },
  {
   "id": 1502062002,
   "districtId": 1502062,
-  "name": "MUARA DELANG"
+  "districtName": "TABIR SELATAN",
+  "name": "MUARA DELANG",
+  "postalCode": "37354"
  },
  {
   "id": 1502062003,
   "districtId": 1502062,
-  "name": "SUNGAI SAHUT"
+  "districtName": "TABIR SELATAN",
+  "name": "SUNGAI SAHUT",
+  "postalCode": "37354"
  },
  {
   "id": 1502062004,
   "districtId": 1502062,
-  "name": "BUNGA ANTOI"
+  "districtName": "TABIR SELATAN",
+  "name": "BUNGA ANTOI",
+  "postalCode": "37354"
  },
  {
   "id": 1502062005,
   "districtId": 1502062,
-  "name": "RAWA JAYA"
+  "districtName": "TABIR SELATAN",
+  "name": "RAWA JAYA",
+  "postalCode": "37354"
  },
  {
   "id": 1502062006,
   "districtId": 1502062,
-  "name": "BUNGA TANJUNG"
+  "districtName": "TABIR SELATAN",
+  "name": "BUNGA TANJUNG",
+  "postalCode": "24782"
  },
  {
   "id": 1502062007,
   "districtId": 1502062,
-  "name": "GADING JAYA"
+  "districtName": "TABIR SELATAN",
+  "name": "GADING JAYA",
+  "postalCode": "37354"
  },
  {
   "id": 1502062008,
   "districtId": 1502062,
-  "name": "MEKAR JAYA"
+  "districtName": "TABIR SELATAN",
+  "name": "MEKAR JAYA",
+  "postalCode": "20771"
  }
 ]

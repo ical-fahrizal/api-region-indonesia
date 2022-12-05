@@ -2,21 +2,29 @@
  {
   "id": 9429013001,
   "districtId": 9429013,
-  "name": "NANGGOAL"
+  "districtName": "KORA",
+  "name": "NANGGOAL",
+  "postalCode": "99565"
  },
  {
   "id": 9429013002,
   "districtId": 9429013,
-  "name": "KORA"
+  "districtName": "KORA",
+  "name": "KORA",
+  "postalCode": "99565"
  },
  {
   "id": 9429013003,
   "districtId": 9429013,
-  "name": "WENAM"
+  "districtName": "KORA",
+  "name": "WENAM",
+  "postalCode": "99565"
  },
  {
   "id": 9429013005,
   "districtId": 9429013,
-  "name": "BRUTNAI"
+  "districtName": "KORA",
+  "name": "BRUTNAI",
+  "postalCode": "99565"
  }
 ]

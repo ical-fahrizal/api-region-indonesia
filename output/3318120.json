@@ -2,91 +2,127 @@
  {
   "id": 3318120001,
   "districtId": 3318120,
-  "name": "JAMBEAN KIDUL"
+  "districtName": "MARGOREJO",
+  "name": "JAMBEAN KIDUL",
+  "postalCode": "59163"
  },
  {
   "id": 3318120002,
   "districtId": 3318120,
-  "name": "WANGUNREJO"
+  "districtName": "MARGOREJO",
+  "name": "WANGUNREJO",
+  "postalCode": "54171"
  },
  {
   "id": 3318120003,
   "districtId": 3318120,
-  "name": "BUMIREJO"
+  "districtName": "MARGOREJO",
+  "name": "BUMIREJO",
+  "postalCode": "59185"
  },
  {
   "id": 3318120004,
   "districtId": 3318120,
-  "name": "SOKOKULON"
+  "districtName": "MARGOREJO",
+  "name": "SOKOKULON",
+  "postalCode": "59163"
  },
  {
   "id": 3318120005,
   "districtId": 3318120,
-  "name": "JIMBARAN"
+  "districtName": "MARGOREJO",
+  "name": "JIMBARAN",
+  "postalCode": "50661"
  },
  {
   "id": 3318120006,
   "districtId": 3318120,
-  "name": "NGAWEN"
+  "districtName": "MARGOREJO",
+  "name": "NGAWEN",
+  "postalCode": "59157"
  },
  {
   "id": 3318120007,
   "districtId": 3318120,
-  "name": "MARGOREJO"
+  "districtName": "MARGOREJO",
+  "name": "MARGOREJO",
+  "postalCode": "32386"
  },
  {
   "id": 3318120008,
   "districtId": 3318120,
-  "name": "PENAMBUHAN"
+  "districtName": "MARGOREJO",
+  "name": "PENAMBUHAN",
+  "postalCode": "59163"
  },
  {
   "id": 3318120009,
   "districtId": 3318120,
-  "name": "LANGENHARJO"
+  "districtName": "MARGOREJO",
+  "name": "LANGENHARJO",
+  "postalCode": "57552"
  },
  {
   "id": 3318120010,
   "districtId": 3318120,
-  "name": "DADIREJO"
+  "districtName": "MARGOREJO",
+  "name": "DADIREJO",
+  "postalCode": "35686"
  },
  {
   "id": 3318120011,
   "districtId": 3318120,
-  "name": "SUKOHARJO"
+  "districtName": "MARGOREJO",
+  "name": "SUKOHARJO",
+  "postalCode": "32383"
  },
  {
   "id": 3318120012,
   "districtId": 3318120,
-  "name": "BADEGAN"
+  "districtName": "MARGOREJO",
+  "name": "BADEGAN",
+  "postalCode": "59163"
  },
  {
   "id": 3318120013,
   "districtId": 3318120,
-  "name": "PEGANDAN"
+  "districtName": "MARGOREJO",
+  "name": "PEGANDAN",
+  "postalCode": "59163"
  },
  {
   "id": 3318120014,
   "districtId": 3318120,
-  "name": "SUKOBUBUK"
+  "districtName": "MARGOREJO",
+  "name": "SUKOBUBUK",
+  "postalCode": "59163"
  },
  {
   "id": 3318120015,
   "districtId": 3318120,
-  "name": "BANYUURIP"
+  "districtName": "MARGOREJO",
+  "name": "BANYUURIP",
+  "postalCode": "59263"
  },
  {
   "id": 3318120016,
   "districtId": 3318120,
-  "name": "LANGSE"
+  "districtName": "MARGOREJO",
+  "name": "LANGSE",
+  "postalCode": "54353"
  },
  {
   "id": 3318120017,
   "districtId": 3318120,
-  "name": "METARAMAN"
+  "districtName": "MARGOREJO",
+  "name": "METARAMAN",
+  "postalCode": "59163"
  },
  {
   "id": 3318120018,
   "districtId": 3318120,
-  "name": "MUKTIHARJO"
+  "districtName": "MARGOREJO",
+  "name": "MUKTIHARJO",
+  "postalCode": "59163"
  }
 ]

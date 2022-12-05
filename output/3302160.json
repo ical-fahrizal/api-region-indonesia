@@ -2,76 +2,106 @@
  {
   "id": 3302160001,
   "districtId": 3302160,
-  "name": "CIBANGKONG"
+  "districtName": "PEKUNCEN",
+  "name": "CIBANGKONG",
+  "postalCode": "40273"
  },
  {
   "id": 3302160002,
   "districtId": 3302160,
-  "name": "PETAHUNAN"
+  "districtName": "PEKUNCEN",
+  "name": "PETAHUNAN",
+  "postalCode": "53164"
  },
  {
   "id": 3302160003,
   "districtId": 3302160,
-  "name": "SEMEDO"
+  "districtName": "PEKUNCEN",
+  "name": "SEMEDO",
+  "postalCode": "52472"
  },
  {
   "id": 3302160004,
   "districtId": 3302160,
-  "name": "CIKAWUNG"
+  "districtName": "PEKUNCEN",
+  "name": "CIKAWUNG",
+  "postalCode": "46194"
  },
  {
   "id": 3302160005,
   "districtId": 3302160,
-  "name": "KARANGKLESEM"
+  "districtName": "PEKUNCEN",
+  "name": "KARANGKLESEM",
+  "postalCode": "53361"
  },
  {
   "id": 3302160006,
   "districtId": 3302160,
-  "name": "CANDINEGARA"
+  "districtName": "PEKUNCEN",
+  "name": "CANDINEGARA",
+  "postalCode": "53164"
  },
  {
   "id": 3302160007,
   "districtId": 3302160,
-  "name": "CIKEMBULAN"
+  "districtName": "PEKUNCEN",
+  "name": "CIKEMBULAN",
+  "postalCode": "44153"
  },
  {
   "id": 3302160008,
   "districtId": 3302160,
-  "name": "TUMIYANG"
+  "districtName": "PEKUNCEN",
+  "name": "TUMIYANG",
+  "postalCode": "53172"
  },
  {
   "id": 3302160009,
   "districtId": 3302160,
-  "name": "GLEMPANG"
+  "districtName": "PEKUNCEN",
+  "name": "GLEMPANG",
+  "postalCode": "53473"
  },
  {
   "id": 3302160011,
   "districtId": 3302160,
-  "name": "PASIRAMAN LOR"
+  "districtName": "PEKUNCEN",
+  "name": "PASIRAMAN LOR",
+  "postalCode": "53164"
  },
  {
   "id": 3302160012,
   "districtId": 3302160,
-  "name": "PASIRAMAN KIDUL"
+  "districtName": "PEKUNCEN",
+  "name": "PASIRAMAN KIDUL",
+  "postalCode": "53164"
  },
  {
   "id": 3302160013,
   "districtId": 3302160,
-  "name": "BANJARANYAR"
+  "districtName": "PEKUNCEN",
+  "name": "BANJARANYAR",
+  "postalCode": "46383"
  },
  {
   "id": 3302160014,
   "districtId": 3302160,
-  "name": "KARANGKEMIRI"
+  "districtName": "PEKUNCEN",
+  "name": "KARANGKEMIRI",
+  "postalCode": "53252"
  },
  {
   "id": 3302160015,
   "districtId": 3302160,
-  "name": "KRANGGAN"
+  "districtName": "PEKUNCEN",
+  "name": "KRANGGAN",
+  "postalCode": "50613"
  },
  {
   "id": 3302160016,
   "districtId": 3302160,
-  "name": "KRAJAN"
+  "districtName": "PEKUNCEN",
+  "name": "KRAJAN",
+  "postalCode": "57557"
  }
 ]

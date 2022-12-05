@@ -2,41 +2,57 @@
  {
   "id": 5205050009,
   "districtId": 5205050,
-  "name": "TA'A"
+  "districtName": "KEMPO",
+  "name": "TA'A",
+  "postalCode": ""
  },
  {
   "id": 5205050010,
   "districtId": 5205050,
-  "name": "KEMPO"
+  "districtName": "KEMPO",
+  "name": "KEMPO",
+  "postalCode": "84261"
  },
  {
   "id": 5205050011,
   "districtId": 5205050,
-  "name": "SORO"
+  "districtName": "KEMPO",
+  "name": "SORO",
+  "postalCode": "84261"
  },
  {
   "id": 5205050012,
   "districtId": 5205050,
-  "name": "KONTE"
+  "districtName": "KEMPO",
+  "name": "KONTE",
+  "postalCode": "84261"
  },
  {
   "id": 5205050013,
   "districtId": 5205050,
-  "name": "SO NGGAJAH"
+  "districtName": "KEMPO",
+  "name": "SO NGGAJAH",
+  "postalCode": ""
  },
  {
   "id": 5205050014,
   "districtId": 5205050,
-  "name": "TOLO KALO"
+  "districtName": "KEMPO",
+  "name": "TOLO KALO",
+  "postalCode": "84261"
  },
  {
   "id": 5205050015,
   "districtId": 5205050,
-  "name": "DORO KOBO"
+  "districtName": "KEMPO",
+  "name": "DORO KOBO",
+  "postalCode": "84261"
  },
  {
   "id": 5205050016,
   "districtId": 5205050,
-  "name": "PERSIAPAN SORO BARAT"
+  "districtName": "KEMPO",
+  "name": "PERSIAPAN SORO BARAT",
+  "postalCode": ""
  }
 ]

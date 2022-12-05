@@ -2,41 +2,57 @@
  {
   "id": 9418043003,
   "districtId": 9418043,
-  "name": "PANAGA"
+  "districtName": "PANAGA",
+  "name": "PANAGA",
+  "postalCode": "99569"
  },
  {
   "id": 9418043004,
   "districtId": 9418043,
-  "name": "IBUNUH"
+  "districtName": "PANAGA",
+  "name": "IBUNUH",
+  "postalCode": "99569"
  },
  {
   "id": 9418043006,
   "districtId": 9418043,
-  "name": "SIAK"
+  "districtName": "PANAGA",
+  "name": "SIAK",
+  "postalCode": "99569"
  },
  {
   "id": 9418043007,
   "districtId": 9418043,
-  "name": "ERAGANI SATU"
+  "districtName": "PANAGA",
+  "name": "ERAGANI SATU",
+  "postalCode": ""
  },
  {
   "id": 9418043009,
   "districtId": 9418043,
-  "name": "SAKSI MELER"
+  "districtName": "PANAGA",
+  "name": "SAKSI MELER",
+  "postalCode": ""
  },
  {
   "id": 9418043010,
   "districtId": 9418043,
-  "name": "KUTIOM"
+  "districtName": "PANAGA",
+  "name": "KUTIOM",
+  "postalCode": "99569"
  },
  {
   "id": 9418043014,
   "districtId": 9418043,
-  "name": "POIDO"
+  "districtName": "PANAGA",
+  "name": "POIDO",
+  "postalCode": ""
  },
  {
   "id": 9418043016,
   "districtId": 9418043,
-  "name": "YANDONO"
+  "districtName": "PANAGA",
+  "name": "YANDONO",
+  "postalCode": "99569"
  }
 ]

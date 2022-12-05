@@ -2,46 +2,64 @@
  {
   "id": 9430037001,
   "districtId": 9430037,
-  "name": "BONOM"
+  "districtName": "LANNYNA",
+  "name": "BONOM",
+  "postalCode": "99555"
  },
  {
   "id": 9430037002,
   "districtId": 9430037,
-  "name": "LAURAPAGA"
+  "districtName": "LANNYNA",
+  "name": "LAURAPAGA",
+  "postalCode": ""
  },
  {
   "id": 9430037003,
   "districtId": 9430037,
-  "name": "BAWI"
+  "districtName": "LANNYNA",
+  "name": "BAWI",
+  "postalCode": "99562"
  },
  {
   "id": 9430037004,
   "districtId": 9430037,
-  "name": "OGIN"
+  "districtName": "LANNYNA",
+  "name": "OGIN",
+  "postalCode": ""
  },
  {
   "id": 9430037006,
   "districtId": 9430037,
-  "name": "YUGIMBO"
+  "districtName": "LANNYNA",
+  "name": "YUGIMBO",
+  "postalCode": ""
  },
  {
   "id": 9430037008,
   "districtId": 9430037,
-  "name": "KUWANOM"
+  "districtName": "LANNYNA",
+  "name": "KUWANOM",
+  "postalCode": "99567"
  },
  {
   "id": 9430037009,
   "districtId": 9430037,
-  "name": "KUWOGE"
+  "districtName": "LANNYNA",
+  "name": "KUWOGE",
+  "postalCode": ""
  },
  {
   "id": 9430037010,
   "districtId": 9430037,
-  "name": "UWAGAMBUR"
+  "districtName": "LANNYNA",
+  "name": "UWAGAMBUR",
+  "postalCode": ""
  },
  {
   "id": 9430037011,
   "districtId": 9430037,
-  "name": "LAGAME"
+  "districtName": "LANNYNA",
+  "name": "LAGAME",
+  "postalCode": ""
  }
 ]

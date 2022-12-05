@@ -2,101 +2,141 @@
  {
   "id": 1211030001,
   "districtId": 1211030,
-  "name": "LAU KAPUR"
+  "districtName": "TIGA BINANGA",
+  "name": "LAU KAPUR",
+  "postalCode": "22162"
  },
  {
   "id": 1211030002,
   "districtId": 1211030,
-  "name": "KEM KEM"
+  "districtName": "TIGA BINANGA",
+  "name": "KEM KEM",
+  "postalCode": "22162"
  },
  {
   "id": 1211030003,
   "districtId": 1211030,
-  "name": "GUNUNG"
+  "districtName": "TIGA BINANGA",
+  "name": "GUNUNG",
+  "postalCode": "22162"
  },
  {
   "id": 1211030004,
   "districtId": 1211030,
-  "name": "SIMPANG PERGENDANGEN"
+  "districtName": "TIGA BINANGA",
+  "name": "SIMPANG PERGENDANGEN",
+  "postalCode": ""
  },
  {
   "id": 1211030005,
   "districtId": 1211030,
-  "name": "PERGENDANGEN"
+  "districtName": "TIGA BINANGA",
+  "name": "PERGENDANGEN",
+  "postalCode": "22162"
  },
  {
   "id": 1211030006,
   "districtId": 1211030,
-  "name": "TIGABINANGA"
+  "districtName": "TIGA BINANGA",
+  "name": "TIGABINANGA",
+  "postalCode": ""
  },
  {
   "id": 1211030007,
   "districtId": 1211030,
-  "name": "KUTA GALOH"
+  "districtName": "TIGA BINANGA",
+  "name": "KUTA GALOH",
+  "postalCode": ""
  },
  {
   "id": 1211030008,
   "districtId": 1211030,
-  "name": "KUTA RAYA"
+  "districtName": "TIGA BINANGA",
+  "name": "KUTA RAYA",
+  "postalCode": "22162"
  },
  {
   "id": 1211030009,
   "districtId": 1211030,
-  "name": "BUNGA BARU"
+  "districtName": "TIGA BINANGA",
+  "name": "BUNGA BARU",
+  "postalCode": "22162"
  },
  {
   "id": 1211030010,
   "districtId": 1211030,
-  "name": "PERTUMBUKEN"
+  "districtName": "TIGA BINANGA",
+  "name": "PERTUMBUKEN",
+  "postalCode": "22172"
  },
  {
   "id": 1211030011,
   "districtId": 1211030,
-  "name": "KUALA"
+  "districtName": "TIGA BINANGA",
+  "name": "KUALA",
+  "postalCode": "24375"
  },
  {
   "id": 1211030012,
   "districtId": 1211030,
-  "name": "KUTA BUARA"
+  "districtName": "TIGA BINANGA",
+  "name": "KUTA BUARA",
+  "postalCode": "22162"
  },
  {
   "id": 1211030013,
   "districtId": 1211030,
-  "name": "SIMOLAP"
+  "districtName": "TIGA BINANGA",
+  "name": "SIMOLAP",
+  "postalCode": "22162"
  },
  {
   "id": 1211030014,
   "districtId": 1211030,
-  "name": "KUTA BANGUN"
+  "districtName": "TIGA BINANGA",
+  "name": "KUTA BANGUN",
+  "postalCode": "22162"
  },
  {
   "id": 1211030015,
   "districtId": 1211030,
-  "name": "SUKAJULU"
+  "districtName": "TIGA BINANGA",
+  "name": "SUKAJULU",
+  "postalCode": "22172"
  },
  {
   "id": 1211030016,
   "districtId": 1211030,
-  "name": "KUTAMBARU PUNTI"
+  "districtName": "TIGA BINANGA",
+  "name": "KUTAMBARU PUNTI",
+  "postalCode": ""
  },
  {
   "id": 1211030017,
   "districtId": 1211030,
-  "name": "KUTA GERAT"
+  "districtName": "TIGA BINANGA",
+  "name": "KUTA GERAT",
+  "postalCode": "22162"
  },
  {
   "id": 1211030018,
   "districtId": 1211030,
-  "name": "LIMANG"
+  "districtName": "TIGA BINANGA",
+  "name": "LIMANG",
+  "postalCode": "22162"
  },
  {
   "id": 1211030019,
   "districtId": 1211030,
-  "name": "PERBESI"
+  "districtName": "TIGA BINANGA",
+  "name": "PERBESI",
+  "postalCode": "22162"
  },
  {
   "id": 1211030020,
   "districtId": 1211030,
-  "name": "BATUMAMAK"
+  "districtName": "TIGA BINANGA",
+  "name": "BATUMAMAK",
+  "postalCode": ""
  }
 ]

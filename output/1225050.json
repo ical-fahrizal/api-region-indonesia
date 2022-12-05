@@ -2,61 +2,85 @@
  {
   "id": 1225050001,
   "districtId": 1225050,
-  "name": "HILIMAYO"
+  "districtName": "MANDREHE UTARA",
+  "name": "HILIMAYO",
+  "postalCode": ""
  },
  {
   "id": 1225050002,
   "districtId": 1225050,
-  "name": "HIAMBANUA"
+  "districtName": "MANDREHE UTARA",
+  "name": "HIAMBANUA",
+  "postalCode": "22814"
  },
  {
   "id": 1225050003,
   "districtId": 1225050,
-  "name": "BALODANO"
+  "districtName": "MANDREHE UTARA",
+  "name": "BALODANO",
+  "postalCode": "22814"
  },
  {
   "id": 1225050004,
   "districtId": 1225050,
-  "name": "TARAHOSO"
+  "districtName": "MANDREHE UTARA",
+  "name": "TARAHOSO",
+  "postalCode": "22814"
  },
  {
   "id": 1225050005,
   "districtId": 1225050,
-  "name": "ONONAMOLO II"
+  "districtName": "MANDREHE UTARA",
+  "name": "ONONAMOLO II",
+  "postalCode": "22811"
  },
  {
   "id": 1225050006,
   "districtId": 1225050,
-  "name": "HILIMBARUZO"
+  "districtName": "MANDREHE UTARA",
+  "name": "HILIMBARUZO",
+  "postalCode": "22811"
  },
  {
   "id": 1225050007,
   "districtId": 1225050,
-  "name": "ONONAMOLO I"
+  "districtName": "MANDREHE UTARA",
+  "name": "ONONAMOLO I",
+  "postalCode": "22814"
  },
  {
   "id": 1225050008,
   "districtId": 1225050,
-  "name": "SIHAREO"
+  "districtName": "MANDREHE UTARA",
+  "name": "SIHAREO",
+  "postalCode": "22814"
  },
  {
   "id": 1225050009,
   "districtId": 1225050,
-  "name": "LOLOMBOLI"
+  "districtName": "MANDREHE UTARA",
+  "name": "LOLOMBOLI",
+  "postalCode": "22851"
  },
  {
   "id": 1225050010,
   "districtId": 1225050,
-  "name": "LAHAGU"
+  "districtName": "MANDREHE UTARA",
+  "name": "LAHAGU",
+  "postalCode": "22814"
  },
  {
   "id": 1225050011,
   "districtId": 1225050,
-  "name": "TARAHA"
+  "districtName": "MANDREHE UTARA",
+  "name": "TARAHA",
+  "postalCode": "22814"
  },
  {
   "id": 1225050012,
   "districtId": 1225050,
-  "name": "HILIMBOWO"
+  "districtName": "MANDREHE UTARA",
+  "name": "HILIMBOWO",
+  "postalCode": "22866"
  }
 ]

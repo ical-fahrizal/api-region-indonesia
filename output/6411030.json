@@ -2,56 +2,78 @@
  {
   "id": 6411030001,
   "districtId": 6411030,
-  "name": "LONG HURAI"
+  "districtName": "LONG BAGUN",
+  "name": "LONG HURAI",
+  "postalCode": "75767"
  },
  {
   "id": 6411030002,
   "districtId": 6411030,
-  "name": "RUKUN DAMAI"
+  "districtName": "LONG BAGUN",
+  "name": "RUKUN DAMAI",
+  "postalCode": "75767"
  },
  {
   "id": 6411030003,
   "districtId": 6411030,
-  "name": "LONG MERAH"
+  "districtName": "LONG BAGUN",
+  "name": "LONG MERAH",
+  "postalCode": "75767"
  },
  {
   "id": 6411030004,
   "districtId": 6411030,
-  "name": "MAMAHAK ILIR"
+  "districtName": "LONG BAGUN",
+  "name": "MAMAHAK ILIR",
+  "postalCode": "75767"
  },
  {
   "id": 6411030005,
   "districtId": 6411030,
-  "name": "MAMAHAK ULU"
+  "districtName": "LONG BAGUN",
+  "name": "MAMAHAK ULU",
+  "postalCode": "75767"
  },
  {
   "id": 6411030006,
   "districtId": 6411030,
-  "name": "LONG MELAHAM"
+  "districtName": "LONG BAGUN",
+  "name": "LONG MELAHAM",
+  "postalCode": "75767"
  },
  {
   "id": 6411030007,
   "districtId": 6411030,
-  "name": "UJOH BILANG"
+  "districtName": "LONG BAGUN",
+  "name": "UJOH BILANG",
+  "postalCode": "75767"
  },
  {
   "id": 6411030008,
   "districtId": 6411030,
-  "name": "BATU MAJANG"
+  "districtName": "LONG BAGUN",
+  "name": "BATU MAJANG",
+  "postalCode": "75767"
  },
  {
   "id": 6411030009,
   "districtId": 6411030,
-  "name": "BATOQ KELO"
+  "districtName": "LONG BAGUN",
+  "name": "BATOQ KELO",
+  "postalCode": ""
  },
  {
   "id": 6411030010,
   "districtId": 6411030,
-  "name": "LONG BAGUN ULU"
+  "districtName": "LONG BAGUN",
+  "name": "LONG BAGUN ULU",
+  "postalCode": "75767"
  },
  {
   "id": 6411030011,
   "districtId": 6411030,
-  "name": "LONG BAGUN ILIR"
+  "districtName": "LONG BAGUN",
+  "name": "LONG BAGUN ILIR",
+  "postalCode": "75767"
  }
 ]

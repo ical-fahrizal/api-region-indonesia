@@ -2,41 +2,57 @@
  {
   "id": 3524020001,
   "districtId": 3524020,
-  "name": "BANJARGONDANG"
+  "districtName": "BLULUK",
+  "name": "BANJARGONDANG",
+  "postalCode": "62274"
  },
  {
   "id": 3524020002,
   "districtId": 3524020,
-  "name": "CANGKRING"
+  "districtName": "BLULUK",
+  "name": "CANGKRING",
+  "postalCode": "45258"
  },
  {
   "id": 3524020003,
   "districtId": 3524020,
-  "name": "KUWUREJO"
+  "districtName": "BLULUK",
+  "name": "KUWUREJO",
+  "postalCode": "54212"
  },
  {
   "id": 3524020004,
   "districtId": 3524020,
-  "name": "SONGOWARENG"
+  "districtName": "BLULUK",
+  "name": "SONGOWARENG",
+  "postalCode": "62274"
  },
  {
   "id": 3524020005,
   "districtId": 3524020,
-  "name": "SUMBERBANJAR"
+  "districtName": "BLULUK",
+  "name": "SUMBERBANJAR",
+  "postalCode": "62274"
  },
  {
   "id": 3524020006,
   "districtId": 3524020,
-  "name": "PRIMPEN"
+  "districtName": "BLULUK",
+  "name": "PRIMPEN",
+  "postalCode": "62274"
  },
  {
   "id": 3524020007,
   "districtId": 3524020,
-  "name": "BRONJONG"
+  "districtName": "BLULUK",
+  "name": "BRONJONG",
+  "postalCode": "62274"
  },
  {
   "id": 3524020009,
   "districtId": 3524020,
-  "name": "TALUNREJO"
+  "districtName": "BLULUK",
+  "name": "TALUNREJO",
+  "postalCode": "62274"
  }
 ]

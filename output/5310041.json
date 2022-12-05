@@ -2,41 +2,57 @@
  {
   "id": 5310041001,
   "districtId": 5310041,
-  "name": "POGON"
+  "districtName": "WAIGETE",
+  "name": "POGON",
+  "postalCode": "86183"
  },
  {
   "id": 5310041002,
   "districtId": 5310041,
-  "name": "AIBURA"
+  "districtName": "WAIGETE",
+  "name": "AIBURA",
+  "postalCode": "86183"
  },
  {
   "id": 5310041003,
   "districtId": 5310041,
-  "name": "WAIRBLELER"
+  "districtName": "WAIGETE",
+  "name": "WAIRBLELER",
+  "postalCode": "86183"
  },
  {
   "id": 5310041004,
   "districtId": 5310041,
-  "name": "HODER"
+  "districtName": "WAIGETE",
+  "name": "HODER",
+  "postalCode": "86183"
  },
  {
   "id": 5310041005,
   "districtId": 5310041,
-  "name": "EGON"
+  "districtName": "WAIGETE",
+  "name": "EGON",
+  "postalCode": "86183"
  },
  {
   "id": 5310041006,
   "districtId": 5310041,
-  "name": "NANGATOBONG"
+  "districtName": "WAIGETE",
+  "name": "NANGATOBONG",
+  "postalCode": "86183"
  },
  {
   "id": 5310041007,
   "districtId": 5310041,
-  "name": "WAIRTERANG"
+  "districtName": "WAIGETE",
+  "name": "WAIRTERANG",
+  "postalCode": "86183"
  },
  {
   "id": 5310041008,
   "districtId": 5310041,
-  "name": "WATUDIRAN"
+  "districtName": "WAIGETE",
+  "name": "WATUDIRAN",
+  "postalCode": "86183"
  }
 ]

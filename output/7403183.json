@@ -2,41 +2,57 @@
  {
   "id": 7403183001,
   "districtId": 7403183,
-  "name": "LASADA"
+  "districtName": "ASINUA",
+  "name": "LASADA",
+  "postalCode": "93452"
  },
  {
   "id": 7403183002,
   "districtId": 7403183,
-  "name": "AWUA JAYA"
+  "districtName": "ASINUA",
+  "name": "AWUA JAYA",
+  "postalCode": "93452"
  },
  {
   "id": 7403183004,
   "districtId": 7403183,
-  "name": "ASINUA JAYA"
+  "districtName": "ASINUA",
+  "name": "ASINUA JAYA",
+  "postalCode": "93452"
  },
  {
   "id": 7403183005,
   "districtId": 7403183,
-  "name": "AMBONDIA"
+  "districtName": "ASINUA",
+  "name": "AMBONDIA",
+  "postalCode": ""
  },
  {
   "id": 7403183006,
   "districtId": 7403183,
-  "name": "ANGOHI"
+  "districtName": "ASINUA",
+  "name": "ANGOHI",
+  "postalCode": "93452"
  },
  {
   "id": 7403183007,
   "districtId": 7403183,
-  "name": "AWUA SARI"
+  "districtName": "ASINUA",
+  "name": "AWUA SARI",
+  "postalCode": "93452"
  },
  {
   "id": 7403183008,
   "districtId": 7403183,
-  "name": "ASIPAKO"
+  "districtName": "ASINUA",
+  "name": "ASIPAKO",
+  "postalCode": "93452"
  },
  {
   "id": 7403183009,
   "districtId": 7403183,
-  "name": "UPT ASINUA JAYA"
+  "districtName": "ASINUA",
+  "name": "UPT ASINUA JAYA",
+  "postalCode": ""
  }
 ]

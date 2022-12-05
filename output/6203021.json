@@ -2,51 +2,71 @@
  {
   "id": 6203021001,
   "districtId": 6203021,
-  "name": "BANDAR RAYA"
+  "districtName": "TAMBAN CATUR",
+  "name": "BANDAR RAYA",
+  "postalCode": "73583"
  },
  {
   "id": 6203021002,
   "districtId": 6203021,
-  "name": "TAMBAN BARU MEKAR"
+  "districtName": "TAMBAN CATUR",
+  "name": "TAMBAN BARU MEKAR",
+  "postalCode": "73583"
  },
  {
   "id": 6203021003,
   "districtId": 6203021,
-  "name": "TAMBAN BARU TIMUR"
+  "districtName": "TAMBAN CATUR",
+  "name": "TAMBAN BARU TIMUR",
+  "postalCode": "73583"
  },
  {
   "id": 6203021004,
   "districtId": 6203021,
-  "name": "TAMBAN BARU TENGAH"
+  "districtName": "TAMBAN CATUR",
+  "name": "TAMBAN BARU TENGAH",
+  "postalCode": "73583"
  },
  {
   "id": 6203021005,
   "districtId": 6203021,
-  "name": "SIDOREJO"
+  "districtName": "TAMBAN CATUR",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 6203021006,
   "districtId": 6203021,
-  "name": "WARNA SARI"
+  "districtName": "TAMBAN CATUR",
+  "name": "WARNA SARI",
+  "postalCode": "73583"
  },
  {
   "id": 6203021007,
   "districtId": 6203021,
-  "name": "SIDO MULYO"
+  "districtName": "TAMBAN CATUR",
+  "name": "SIDO MULYO",
+  "postalCode": "24371"
  },
  {
   "id": 6203021008,
   "districtId": 6203021,
-  "name": "BANDAR MEKAR"
+  "districtName": "TAMBAN CATUR",
+  "name": "BANDAR MEKAR",
+  "postalCode": "73583"
  },
  {
   "id": 6203021009,
   "districtId": 6203021,
-  "name": "TAMBAN MAKMUR"
+  "districtName": "TAMBAN CATUR",
+  "name": "TAMBAN MAKMUR",
+  "postalCode": ""
  },
  {
   "id": 6203021010,
   "districtId": 6203021,
-  "name": "TAMBAN JAYA"
+  "districtName": "TAMBAN CATUR",
+  "name": "TAMBAN JAYA",
+  "postalCode": ""
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 1613010001,
   "districtId": 1613010,
-  "name": "KUTO TANJUNG"
+  "districtName": "ULU RAWAS",
+  "name": "KUTO TANJUNG",
+  "postalCode": "31669"
  },
  {
   "id": 1613010002,
   "districtId": 1613010,
-  "name": "NAPAL LICIN"
+  "districtName": "ULU RAWAS",
+  "name": "NAPAL LICIN",
+  "postalCode": "31669"
  },
  {
   "id": 1613010003,
   "districtId": 1613010,
-  "name": "SOSOKAN"
+  "districtName": "ULU RAWAS",
+  "name": "SOSOKAN",
+  "postalCode": "31669"
  },
  {
   "id": 1613010004,
   "districtId": 1613010,
-  "name": "MUARA KULAM"
+  "districtName": "ULU RAWAS",
+  "name": "MUARA KULAM",
+  "postalCode": "31669"
  },
  {
   "id": 1613010005,
   "districtId": 1613010,
-  "name": "MUARA KUIS"
+  "districtName": "ULU RAWAS",
+  "name": "MUARA KUIS",
+  "postalCode": "31669"
  },
  {
   "id": 1613010006,
   "districtId": 1613010,
-  "name": "PULAU KIDAK"
+  "districtName": "ULU RAWAS",
+  "name": "PULAU KIDAK",
+  "postalCode": "31669"
  },
  {
   "id": 1613010007,
   "districtId": 1613010,
-  "name": "JANGKAT"
+  "districtName": "ULU RAWAS",
+  "name": "JANGKAT",
+  "postalCode": "31669"
  }
 ]

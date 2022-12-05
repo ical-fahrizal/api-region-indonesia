@@ -2,21 +2,29 @@
  {
   "id": 9111010001,
   "districtId": 9111010,
-  "name": "KAPRUS"
+  "districtName": "TAHOTA",
+  "name": "KAPRUS",
+  "postalCode": "98361"
  },
  {
   "id": 9111010002,
   "districtId": 9111010,
-  "name": "REYOB"
+  "districtName": "TAHOTA",
+  "name": "REYOB",
+  "postalCode": "98355"
  },
  {
   "id": 9111010003,
   "districtId": 9111010,
-  "name": "SEIMEBA"
+  "districtName": "TAHOTA",
+  "name": "SEIMEBA",
+  "postalCode": "98355"
  },
  {
   "id": 9111010004,
   "districtId": 9111010,
-  "name": "YERMATUM"
+  "districtName": "TAHOTA",
+  "name": "YERMATUM",
+  "postalCode": "98355"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 7308040007,
   "districtId": 7308040,
-  "name": "KALABBIRANG"
+  "districtName": "BANTIMURUNG",
+  "name": "KALABBIRANG",
+  "postalCode": "90561"
  },
  {
   "id": 7308040008,
   "districtId": 7308040,
-  "name": "MINASA BAJI"
+  "districtName": "BANTIMURUNG",
+  "name": "MINASA BAJI",
+  "postalCode": "90561"
  },
  {
   "id": 7308040009,
   "districtId": 7308040,
-  "name": "ALATENGAE"
+  "districtName": "BANTIMURUNG",
+  "name": "ALATENGAE",
+  "postalCode": "90561"
  },
  {
   "id": 7308040010,
   "districtId": 7308040,
-  "name": "MATTOANGIN"
+  "districtName": "BANTIMURUNG",
+  "name": "MATTOANGIN",
+  "postalCode": "90561"
  },
  {
   "id": 7308040011,
   "districtId": 7308040,
-  "name": "MANGELORENG"
+  "districtName": "BANTIMURUNG",
+  "name": "MANGELORENG",
+  "postalCode": "90561"
  },
  {
   "id": 7308040012,
   "districtId": 7308040,
-  "name": "LEANG-LEANG"
+  "districtName": "BANTIMURUNG",
+  "name": "LEANG-LEANG",
+  "postalCode": "90561"
  },
  {
   "id": 7308040013,
   "districtId": 7308040,
-  "name": "TUKAMASEA"
+  "districtName": "BANTIMURUNG",
+  "name": "TUKAMASEA",
+  "postalCode": "90561"
  },
  {
   "id": 7308040014,
   "districtId": 7308040,
-  "name": "BARUGA"
+  "districtName": "BANTIMURUNG",
+  "name": "BARUGA",
+  "postalCode": "94563"
  }
 ]

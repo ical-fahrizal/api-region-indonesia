@@ -2,81 +2,113 @@
  {
   "id": 3519120001,
   "districtId": 3519120,
-  "name": "GARON"
+  "districtName": "BALEREJO",
+  "name": "GARON",
+  "postalCode": "63152"
  },
  {
   "id": 3519120002,
   "districtId": 3519120,
-  "name": "BALEREJO"
+  "districtName": "BALEREJO",
+  "name": "BALEREJO",
+  "postalCode": "59573"
  },
  {
   "id": 3519120003,
   "districtId": 3519120,
-  "name": "KEBONAGUNG"
+  "districtName": "BALEREJO",
+  "name": "KEBONAGUNG",
+  "postalCode": "56151"
  },
  {
   "id": 3519120004,
   "districtId": 3519120,
-  "name": "GADING"
+  "districtName": "BALEREJO",
+  "name": "GADING",
+  "postalCode": "22755"
  },
  {
   "id": 3519120006,
   "districtId": 3519120,
-  "name": "SUMBERBENING"
+  "districtName": "BALEREJO",
+  "name": "SUMBERBENING",
+  "postalCode": "63152"
  },
  {
   "id": 3519120007,
   "districtId": 3519120,
-  "name": "BULAKREJO"
+  "districtName": "BALEREJO",
+  "name": "BULAKREJO",
+  "postalCode": "57551"
  },
  {
   "id": 3519120008,
   "districtId": 3519120,
-  "name": "TAPELAN"
+  "districtName": "BALEREJO",
+  "name": "TAPELAN",
+  "postalCode": "63152"
  },
  {
   "id": 3519120009,
   "districtId": 3519120,
-  "name": "BABADAN LOR"
+  "districtName": "BALEREJO",
+  "name": "BABADAN LOR",
+  "postalCode": "63152"
  },
  {
   "id": 3519120010,
   "districtId": 3519120,
-  "name": "WARUREJO"
+  "districtName": "BALEREJO",
+  "name": "WARUREJO",
+  "postalCode": "63152"
  },
  {
   "id": 3519120011,
   "districtId": 3519120,
-  "name": "KEDUNGJATI"
+  "districtName": "BALEREJO",
+  "name": "KEDUNGJATI",
+  "postalCode": "53382"
  },
  {
   "id": 3519120012,
   "districtId": 3519120,
-  "name": "GLONGGONG"
+  "districtName": "BALEREJO",
+  "name": "GLONGGONG",
+  "postalCode": "57254"
  },
  {
   "id": 3519120013,
   "districtId": 3519120,
-  "name": "SOGO"
+  "districtName": "BALEREJO",
+  "name": "SOGO",
+  "postalCode": "36371"
  },
  {
   "id": 3519120014,
   "districtId": 3519120,
-  "name": "BANARAN"
+  "districtName": "BALEREJO",
+  "name": "BANARAN",
+  "postalCode": "51281"
  },
  {
   "id": 3519120015,
   "districtId": 3519120,
-  "name": "KEDUNGREJO"
+  "districtName": "BALEREJO",
+  "name": "KEDUNGREJO",
+  "postalCode": "57383"
  },
  {
   "id": 3519120017,
   "districtId": 3519120,
-  "name": "PACINAN"
+  "districtName": "BALEREJO",
+  "name": "PACINAN",
+  "postalCode": "63152"
  },
  {
   "id": 3519120018,
   "districtId": 3519120,
-  "name": "SIMO"
+  "districtName": "BALEREJO",
+  "name": "SIMO",
+  "postalCode": "58182"
  }
 ]

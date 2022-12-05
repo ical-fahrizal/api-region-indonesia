@@ -2,71 +2,99 @@
  {
   "id": 6301090001,
   "districtId": 6301090,
-  "name": "PANDANSARI"
+  "districtName": "KINTAP",
+  "name": "PANDANSARI",
+  "postalCode": "16720"
  },
  {
   "id": 6301090002,
   "districtId": 6301090,
-  "name": "SALAMAN"
+  "districtName": "KINTAP",
+  "name": "SALAMAN",
+  "postalCode": "56162"
  },
  {
   "id": 6301090003,
   "districtId": 6301090,
-  "name": "KINTAPURA"
+  "districtName": "KINTAP",
+  "name": "KINTAPURA",
+  "postalCode": ""
  },
  {
   "id": 6301090004,
   "districtId": 6301090,
-  "name": "PASIR PUTIH"
+  "districtName": "KINTAP",
+  "name": "PASIR PUTIH",
+  "postalCode": "24453"
  },
  {
   "id": 6301090005,
   "districtId": 6301090,
-  "name": "KINTAP KECIL"
+  "districtName": "KINTAP",
+  "name": "KINTAP KECIL",
+  "postalCode": "70883"
  },
  {
   "id": 6301090006,
   "districtId": 6301090,
-  "name": "KINTAP"
+  "districtName": "KINTAP",
+  "name": "KINTAP",
+  "postalCode": "70883"
  },
  {
   "id": 6301090007,
   "districtId": 6301090,
-  "name": "MUARA KINTAP"
+  "districtName": "KINTAP",
+  "name": "MUARA KINTAP",
+  "postalCode": "70883"
  },
  {
   "id": 6301090008,
   "districtId": 6301090,
-  "name": "BUKIT MULIA"
+  "districtName": "KINTAP",
+  "name": "BUKIT MULIA",
+  "postalCode": "70883"
  },
  {
   "id": 6301090009,
   "districtId": 6301090,
-  "name": "SUMBER JAYA"
+  "districtName": "KINTAP",
+  "name": "SUMBER JAYA",
+  "postalCode": "24553"
  },
  {
   "id": 6301090010,
   "districtId": 6301090,
-  "name": "KEBUN RAYA"
+  "districtName": "KINTAP",
+  "name": "KEBUN RAYA",
+  "postalCode": "70883"
  },
  {
   "id": 6301090011,
   "districtId": 6301090,
-  "name": "MEKAR SARI"
+  "districtName": "KINTAP",
+  "name": "MEKAR SARI",
+  "postalCode": "21261"
  },
  {
   "id": 6301090012,
   "districtId": 6301090,
-  "name": "SEBAMBAN BARU"
+  "districtName": "KINTAP",
+  "name": "SEBAMBAN BARU",
+  "postalCode": "70883"
  },
  {
   "id": 6301090013,
   "districtId": 6301090,
-  "name": "SUNGAI CUKA"
+  "districtName": "KINTAP",
+  "name": "SUNGAI CUKA",
+  "postalCode": ""
  },
  {
   "id": 6301090014,
   "districtId": 6301090,
-  "name": "RIAM ADUNGAN"
+  "districtName": "KINTAP",
+  "name": "RIAM ADUNGAN",
+  "postalCode": "70883"
  }
 ]

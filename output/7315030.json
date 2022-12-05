@@ -2,46 +2,64 @@
  {
   "id": 7315030001,
   "districtId": 7315030,
-  "name": "MAKKAWARU"
+  "districtName": "MATTIRO BULU",
+  "name": "MAKKAWARU",
+  "postalCode": "91271"
  },
  {
   "id": 7315030002,
   "districtId": 7315030,
-  "name": "ALITTA"
+  "districtName": "MATTIRO BULU",
+  "name": "ALITTA",
+  "postalCode": "91271"
  },
  {
   "id": 7315030003,
   "districtId": 7315030,
-  "name": "PANNANRANG"
+  "districtName": "MATTIRO BULU",
+  "name": "PANNANRANG",
+  "postalCode": ""
  },
  {
   "id": 7315030004,
   "districtId": 7315030,
-  "name": "PADAIDI"
+  "districtName": "MATTIRO BULU",
+  "name": "PADAIDI",
+  "postalCode": "77483"
  },
  {
   "id": 7315030005,
   "districtId": 7315030,
-  "name": "MANARANG"
+  "districtName": "MATTIRO BULU",
+  "name": "MANARANG",
+  "postalCode": "91271"
  },
  {
   "id": 7315030006,
   "districtId": 7315030,
-  "name": "PADAELO"
+  "districtName": "MATTIRO BULU",
+  "name": "PADAELO",
+  "postalCode": "92776"
  },
  {
   "id": 7315030007,
   "districtId": 7315030,
-  "name": "PADAKKALAWA"
+  "districtName": "MATTIRO BULU",
+  "name": "PADAKKALAWA",
+  "postalCode": "91271"
  },
  {
   "id": 7315030008,
   "districtId": 7315030,
-  "name": "MARANNU"
+  "districtName": "MATTIRO BULU",
+  "name": "MARANNU",
+  "postalCode": "92965"
  },
  {
   "id": 7315030009,
   "districtId": 7315030,
-  "name": "BUNGA"
+  "districtName": "MATTIRO BULU",
+  "name": "BUNGA",
+  "postalCode": "23893"
  }
 ]

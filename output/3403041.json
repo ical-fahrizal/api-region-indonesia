@@ -2,26 +2,36 @@
  {
   "id": 3403041001,
   "districtId": 3403041,
-  "name": "KEMADANG"
+  "districtName": "TANJUNGSARI",
+  "name": "KEMADANG",
+  "postalCode": "55881"
  },
  {
   "id": 3403041002,
   "districtId": 3403041,
-  "name": "KEMIRI"
+  "districtName": "TANJUNGSARI",
+  "name": "KEMIRI",
+  "postalCode": "41352"
  },
  {
   "id": 3403041003,
   "districtId": 3403041,
-  "name": "BANJAREJO"
+  "districtName": "TANJUNGSARI",
+  "name": "BANJAREJO",
+  "postalCode": "35373"
  },
  {
   "id": 3403041004,
   "districtId": 3403041,
-  "name": "NGESTIREJO"
+  "districtName": "TANJUNGSARI",
+  "name": "NGESTIREJO",
+  "postalCode": "55881"
  },
  {
   "id": 3403041005,
   "districtId": 3403041,
-  "name": "HARGOSARI"
+  "districtName": "TANJUNGSARI",
+  "name": "HARGOSARI",
+  "postalCode": "57672"
  }
 ]

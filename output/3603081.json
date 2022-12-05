@@ -2,31 +2,43 @@
  {
   "id": 3603081001,
   "districtId": 3603081,
-  "name": "MEKARWANGI"
+  "districtName": "CISAUK",
+  "name": "MEKARWANGI",
+  "postalCode": "45462"
  },
  {
   "id": 3603081002,
   "districtId": 3603081,
-  "name": "DANGDANG"
+  "districtName": "CISAUK",
+  "name": "DANGDANG",
+  "postalCode": "15342"
  },
  {
   "id": 3603081003,
   "districtId": 3603081,
-  "name": "SURADITA"
+  "districtName": "CISAUK",
+  "name": "SURADITA",
+  "postalCode": "15343"
  },
  {
   "id": 3603081004,
   "districtId": 3603081,
-  "name": "CISAUK"
+  "districtName": "CISAUK",
+  "name": "CISAUK",
+  "postalCode": "15341"
  },
  {
   "id": 3603081005,
   "districtId": 3603081,
-  "name": "SAMPORA"
+  "districtName": "CISAUK",
+  "name": "SAMPORA",
+  "postalCode": "43367"
  },
  {
   "id": 3603081006,
   "districtId": 3603081,
-  "name": "CIBOGO"
+  "districtName": "CISAUK",
+  "name": "CIBOGO",
+  "postalCode": "41285"
  }
 ]

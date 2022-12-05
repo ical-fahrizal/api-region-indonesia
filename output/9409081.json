@@ -2,56 +2,78 @@
  {
   "id": 9409081001,
   "districtId": 9409081,
-  "name": "MAKUKER"
+  "districtName": "ANDEY",
+  "name": "MAKUKER",
+  "postalCode": ""
  },
  {
   "id": 9409081002,
   "districtId": 9409081,
-  "name": "WOUNA"
+  "districtName": "ANDEY",
+  "name": "WOUNA",
+  "postalCode": "98157"
  },
  {
   "id": 9409081003,
   "districtId": 9409081,
-  "name": "RODIFU"
+  "districtName": "ANDEY",
+  "name": "RODIFU",
+  "postalCode": "98153"
  },
  {
   "id": 9409081004,
   "districtId": 9409081,
-  "name": "WARBINSI"
+  "districtName": "ANDEY",
+  "name": "WARBINSI",
+  "postalCode": "98153"
  },
  {
   "id": 9409081005,
   "districtId": 9409081,
-  "name": "WONABRAIDI"
+  "districtName": "ANDEY",
+  "name": "WONABRAIDI",
+  "postalCode": "98153"
  },
  {
   "id": 9409081006,
   "districtId": 9409081,
-  "name": "RUMBIN"
+  "districtName": "ANDEY",
+  "name": "RUMBIN",
+  "postalCode": "98153"
  },
  {
   "id": 9409081007,
   "districtId": 9409081,
-  "name": "WODU"
+  "districtName": "ANDEY",
+  "name": "WODU",
+  "postalCode": "98153"
  },
  {
   "id": 9409081009,
   "districtId": 9409081,
-  "name": "FAKNIKDI"
+  "districtName": "ANDEY",
+  "name": "FAKNIKDI",
+  "postalCode": "98153"
  },
  {
   "id": 9409081010,
   "districtId": 9409081,
-  "name": "ARMNU"
+  "districtName": "ANDEY",
+  "name": "ARMNU",
+  "postalCode": "98153"
  },
  {
   "id": 9409081011,
   "districtId": 9409081,
-  "name": "DASDO"
+  "districtName": "ANDEY",
+  "name": "DASDO",
+  "postalCode": "98153"
  },
  {
   "id": 9409081012,
   "districtId": 9409081,
-  "name": "MAMORBO"
+  "districtName": "ANDEY",
+  "name": "MAMORBO",
+  "postalCode": "98153"
  }
 ]

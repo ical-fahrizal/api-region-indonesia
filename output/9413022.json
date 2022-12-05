@@ -2,21 +2,29 @@
  {
   "id": 9413022002,
   "districtId": 9413022,
-  "name": "AMUAN"
+  "districtName": "KOMBUT",
+  "name": "AMUAN",
+  "postalCode": "99662"
  },
  {
   "id": 9413022003,
   "districtId": 9413022,
-  "name": "MOKBIRAN"
+  "districtName": "KOMBUT",
+  "name": "MOKBIRAN",
+  "postalCode": "99662"
  },
  {
   "id": 9413022004,
   "districtId": 9413022,
-  "name": "KAWANGTET"
+  "districtName": "KOMBUT",
+  "name": "KAWANGTET",
+  "postalCode": "99662"
  },
  {
   "id": 9413022005,
   "districtId": 9413022,
-  "name": "KOMBUT"
+  "districtName": "KOMBUT",
+  "name": "KOMBUT",
+  "postalCode": ""
  }
 ]

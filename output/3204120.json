@@ -2,56 +2,78 @@
  {
   "id": 3204120001,
   "districtId": 3204120,
-  "name": "NEGLASARI"
+  "districtName": "MAJALAYA",
+  "name": "NEGLASARI",
+  "postalCode": "35452"
  },
  {
   "id": 3204120002,
   "districtId": 3204120,
-  "name": "WANGISAGARA"
+  "districtName": "MAJALAYA",
+  "name": "WANGISAGARA",
+  "postalCode": "40382"
  },
  {
   "id": 3204120003,
   "districtId": 3204120,
-  "name": "PADAMULYA"
+  "districtName": "MAJALAYA",
+  "name": "PADAMULYA",
+  "postalCode": "46262"
  },
  {
   "id": 3204120004,
   "districtId": 3204120,
-  "name": "SUKAMUKTI"
+  "districtName": "MAJALAYA",
+  "name": "SUKAMUKTI",
+  "postalCode": "44191"
  },
  {
   "id": 3204120005,
   "districtId": 3204120,
-  "name": "PADAULUN"
+  "districtName": "MAJALAYA",
+  "name": "PADAULUN",
+  "postalCode": "40382"
  },
  {
   "id": 3204120006,
   "districtId": 3204120,
-  "name": "BIRU"
+  "districtName": "MAJALAYA",
+  "name": "BIRU",
+  "postalCode": "22758"
  },
  {
   "id": 3204120007,
   "districtId": 3204120,
-  "name": "SUKAMAJU"
+  "districtName": "MAJALAYA",
+  "name": "SUKAMAJU",
+  "postalCode": "22465"
  },
  {
   "id": 3204120008,
   "districtId": 3204120,
-  "name": "MAJASETRA"
+  "districtName": "MAJALAYA",
+  "name": "MAJASETRA",
+  "postalCode": "40382"
  },
  {
   "id": 3204120009,
   "districtId": 3204120,
-  "name": "MAJALAYA"
+  "districtName": "MAJALAYA",
+  "name": "MAJALAYA",
+  "postalCode": "43291"
  },
  {
   "id": 3204120010,
   "districtId": 3204120,
-  "name": "MAJAKERTA"
+  "districtName": "MAJALAYA",
+  "name": "MAJAKERTA",
+  "postalCode": "45285"
  },
  {
   "id": 3204120011,
   "districtId": 3204120,
-  "name": "BOJONG"
+  "districtName": "MAJALAYA",
+  "name": "BOJONG",
+  "postalCode": "34385"
  }
 ]

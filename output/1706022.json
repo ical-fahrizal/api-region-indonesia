@@ -2,66 +2,92 @@
  {
   "id": 1706022001,
   "districtId": 1706022,
-  "name": "PASAR BANTAL"
+  "districtName": "TERAMANG JAYA",
+  "name": "PASAR BANTAL",
+  "postalCode": "38766"
  },
  {
   "id": 1706022002,
   "districtId": 1706022,
-  "name": "TERAMANG JAYA"
+  "districtName": "TERAMANG JAYA",
+  "name": "TERAMANG JAYA",
+  "postalCode": "38766"
  },
  {
   "id": 1706022003,
   "districtId": 1706022,
-  "name": "NENGGALO"
+  "districtName": "TERAMANG JAYA",
+  "name": "NENGGALO",
+  "postalCode": "38766"
  },
  {
   "id": 1706022004,
   "districtId": 1706022,
-  "name": "PONDOK BARU"
+  "districtName": "TERAMANG JAYA",
+  "name": "PONDOK BARU",
+  "postalCode": "24582"
  },
  {
   "id": 1706022005,
   "districtId": 1706022,
-  "name": "BUNGA TANJUNG"
+  "districtName": "TERAMANG JAYA",
+  "name": "BUNGA TANJUNG",
+  "postalCode": "24782"
  },
  {
   "id": 1706022006,
   "districtId": 1706022,
-  "name": "SIDO MAKMUR"
+  "districtName": "TERAMANG JAYA",
+  "name": "SIDO MAKMUR",
+  "postalCode": "20772"
  },
  {
   "id": 1706022007,
   "districtId": 1706022,
-  "name": "LUBUK SELANDAK"
+  "districtName": "TERAMANG JAYA",
+  "name": "LUBUK SELANDAK",
+  "postalCode": "38766"
  },
  {
   "id": 1706022008,
   "districtId": 1706022,
-  "name": "BANDAR JAYA"
+  "districtName": "TERAMANG JAYA",
+  "name": "BANDAR JAYA",
+  "postalCode": "28771"
  },
  {
   "id": 1706022009,
   "districtId": 1706022,
-  "name": "MANDI ANGIN JAYA"
+  "districtName": "TERAMANG JAYA",
+  "name": "MANDI ANGIN JAYA",
+  "postalCode": "38766"
  },
  {
   "id": 1706022010,
   "districtId": 1706022,
-  "name": "NELAN INDAH"
+  "districtName": "TERAMANG JAYA",
+  "name": "NELAN INDAH",
+  "postalCode": "38766"
  },
  {
   "id": 1706022011,
   "districtId": 1706022,
-  "name": "PERNYAH"
+  "districtName": "TERAMANG JAYA",
+  "name": "PERNYAH",
+  "postalCode": "38766"
  },
  {
   "id": 1706022012,
   "districtId": 1706022,
-  "name": "BATU EJUNG"
+  "districtName": "TERAMANG JAYA",
+  "name": "BATU EJUNG",
+  "postalCode": "38766"
  },
  {
   "id": 1706022013,
   "districtId": 1706022,
-  "name": "BRANGAN MULYA"
+  "districtName": "TERAMANG JAYA",
+  "name": "BRANGAN MULYA",
+  "postalCode": "38766"
  }
 ]

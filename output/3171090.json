@@ -2,36 +2,50 @@
  {
   "id": 3171090001,
   "districtId": 3171090,
-  "name": "MENTENG DALAM"
+  "districtName": "TEBET",
+  "name": "MENTENG DALAM",
+  "postalCode": "12870"
  },
  {
   "id": 3171090002,
   "districtId": 3171090,
-  "name": "TEBET BARAT"
+  "districtName": "TEBET",
+  "name": "TEBET BARAT",
+  "postalCode": "12810"
  },
  {
   "id": 3171090003,
   "districtId": 3171090,
-  "name": "TEBET TIMUR"
+  "districtName": "TEBET",
+  "name": "TEBET TIMUR",
+  "postalCode": "12820"
  },
  {
   "id": 3171090004,
   "districtId": 3171090,
-  "name": "KEBON BARU"
+  "districtName": "TEBET",
+  "name": "KEBON BARU",
+  "postalCode": "12830"
  },
  {
   "id": 3171090005,
   "districtId": 3171090,
-  "name": "BUKIT DURI"
+  "districtName": "TEBET",
+  "name": "BUKIT DURI",
+  "postalCode": "12840"
  },
  {
   "id": 3171090006,
   "districtId": 3171090,
-  "name": "MANGGARAI SELATAN"
+  "districtName": "TEBET",
+  "name": "MANGGARAI SELATAN",
+  "postalCode": "12860"
  },
  {
   "id": 3171090007,
   "districtId": 3171090,
-  "name": "MANGGARAI"
+  "districtName": "TEBET",
+  "name": "MANGGARAI",
+  "postalCode": "12850"
  }
 ]

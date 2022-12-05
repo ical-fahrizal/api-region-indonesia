@@ -2,56 +2,78 @@
  {
   "id": 3511080001,
   "districtId": 3511080,
-  "name": "LOMBOK KULON"
+  "districtName": "WONOSARI",
+  "name": "LOMBOK KULON",
+  "postalCode": "68282"
  },
  {
   "id": 3511080002,
   "districtId": 3511080,
-  "name": "LOMBOK WETAN"
+  "districtName": "WONOSARI",
+  "name": "LOMBOK WETAN",
+  "postalCode": "68282"
  },
  {
   "id": 3511080004,
   "districtId": 3511080,
-  "name": "JUMPONG"
+  "districtName": "WONOSARI",
+  "name": "JUMPONG",
+  "postalCode": "68282"
  },
  {
   "id": 3511080005,
   "districtId": 3511080,
-  "name": "TANGSIL WETAN"
+  "districtName": "WONOSARI",
+  "name": "TANGSIL WETAN",
+  "postalCode": "68282"
  },
  {
   "id": 3511080006,
   "districtId": 3511080,
-  "name": "PASAREJO"
+  "districtName": "WONOSARI",
+  "name": "PASAREJO",
+  "postalCode": "68282"
  },
  {
   "id": 3511080007,
   "districtId": 3511080,
-  "name": "BENDOARUM"
+  "districtName": "WONOSARI",
+  "name": "BENDOARUM",
+  "postalCode": "68282"
  },
  {
   "id": 3511080008,
   "districtId": 3511080,
-  "name": "KAPURAN"
+  "districtName": "WONOSARI",
+  "name": "KAPURAN",
+  "postalCode": "63455"
  },
  {
   "id": 3511080009,
   "districtId": 3511080,
-  "name": "SUMBERKALONG"
+  "districtName": "WONOSARI",
+  "name": "SUMBERKALONG",
+  "postalCode": "68282"
  },
  {
   "id": 3511080010,
   "districtId": 3511080,
-  "name": "TRAKTAKAN"
+  "districtName": "WONOSARI",
+  "name": "TRAKTAKAN",
+  "postalCode": "68282"
  },
  {
   "id": 3511080011,
   "districtId": 3511080,
-  "name": "WONOSARI"
+  "districtName": "WONOSARI",
+  "name": "WONOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 3511080012,
   "districtId": 3511080,
-  "name": "PELALANGAN"
+  "districtName": "WONOSARI",
+  "name": "PELALANGAN",
+  "postalCode": "68286"
  }
 ]

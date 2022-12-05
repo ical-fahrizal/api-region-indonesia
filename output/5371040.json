@@ -2,26 +2,36 @@
  {
   "id": 5371040011,
   "districtId": 5371040,
-  "name": "KELAPA LIMA"
+  "districtName": "KELAPA LIMA",
+  "name": "KELAPA LIMA",
+  "postalCode": "85228"
  },
  {
   "id": 5371040012,
   "districtId": 5371040,
-  "name": "OESAPA"
+  "districtName": "KELAPA LIMA",
+  "name": "OESAPA",
+  "postalCode": "85228"
  },
  {
   "id": 5371040013,
   "districtId": 5371040,
-  "name": "OESAPA BARAT"
+  "districtName": "KELAPA LIMA",
+  "name": "OESAPA BARAT",
+  "postalCode": "85228"
  },
  {
   "id": 5371040014,
   "districtId": 5371040,
-  "name": "OESAPA SELATAN"
+  "districtName": "KELAPA LIMA",
+  "name": "OESAPA SELATAN",
+  "postalCode": "85228"
  },
  {
   "id": 5371040015,
   "districtId": 5371040,
-  "name": "LASIANA"
+  "districtName": "KELAPA LIMA",
+  "name": "LASIANA",
+  "postalCode": "85228"
  }
 ]

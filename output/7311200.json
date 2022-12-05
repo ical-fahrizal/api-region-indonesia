@@ -2,71 +2,99 @@
  {
   "id": 7311200001,
   "districtId": 7311200,
-  "name": "AMALI RIATTANG"
+  "districtName": "AMALI",
+  "name": "AMALI RIATTANG",
+  "postalCode": "92755"
  },
  {
   "id": 7311200002,
   "districtId": 7311200,
-  "name": "LILI RIATTANG"
+  "districtName": "AMALI",
+  "name": "LILI RIATTANG",
+  "postalCode": "92755"
  },
  {
   "id": 7311200003,
   "districtId": 7311200,
-  "name": "MATTARO PURAE"
+  "districtName": "AMALI",
+  "name": "MATTARO PURAE",
+  "postalCode": "92755"
  },
  {
   "id": 7311200004,
   "districtId": 7311200,
-  "name": "TOCINNONG"
+  "districtName": "AMALI",
+  "name": "TOCINNONG",
+  "postalCode": "92755"
  },
  {
   "id": 7311200005,
   "districtId": 7311200,
-  "name": "WAEMPUBBUE"
+  "districtName": "AMALI",
+  "name": "WAEMPUBBUE",
+  "postalCode": "92755"
  },
  {
   "id": 7311200006,
   "districtId": 7311200,
-  "name": "WAEMPUTTANGE"
+  "districtName": "AMALI",
+  "name": "WAEMPUTTANGE",
+  "postalCode": "92755"
  },
  {
   "id": 7311200007,
   "districtId": 7311200,
-  "name": "BILA"
+  "districtName": "AMALI",
+  "name": "BILA",
+  "postalCode": "81172"
  },
  {
   "id": 7311200008,
   "districtId": 7311200,
-  "name": "ULAWENG RIAJA"
+  "districtName": "AMALI",
+  "name": "ULAWENG RIAJA",
+  "postalCode": "92755"
  },
  {
   "id": 7311200009,
   "districtId": 7311200,
-  "name": "MAMPOTU"
+  "districtName": "AMALI",
+  "name": "MAMPOTU",
+  "postalCode": "92755"
  },
  {
   "id": 7311200010,
   "districtId": 7311200,
-  "name": "TA'CIPONG"
+  "districtName": "AMALI",
+  "name": "TA'CIPONG",
+  "postalCode": ""
  },
  {
   "id": 7311200011,
   "districtId": 7311200,
-  "name": "WELLULANG"
+  "districtName": "AMALI",
+  "name": "WELLULANG",
+  "postalCode": "92755"
  },
  {
   "id": 7311200012,
   "districtId": 7311200,
-  "name": "AJANG LALENG"
+  "districtName": "AMALI",
+  "name": "AJANG LALENG",
+  "postalCode": "92755"
  },
  {
   "id": 7311200013,
   "districtId": 7311200,
-  "name": "TASSIPI"
+  "districtName": "AMALI",
+  "name": "TASSIPI",
+  "postalCode": "92755"
  },
  {
   "id": 7311200015,
   "districtId": 7311200,
-  "name": "LAPONRONG"
+  "districtName": "AMALI",
+  "name": "LAPONRONG",
+  "postalCode": "92755"
  }
 ]

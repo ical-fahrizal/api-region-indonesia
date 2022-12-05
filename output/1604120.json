@@ -2,146 +2,204 @@
  {
   "id": 1604120026,
   "districtId": 1604120,
-  "name": "PAGAR AGUNG"
+  "districtName": "LAHAT",
+  "name": "PAGAR AGUNG",
+  "postalCode": "31417"
  },
  {
   "id": 1604120027,
   "districtId": 1604120,
-  "name": "PAGAR SARI"
+  "districtName": "LAHAT",
+  "name": "PAGAR SARI",
+  "postalCode": "31419"
  },
  {
   "id": 1604120028,
   "districtId": 1604120,
-  "name": "PAGAR NEGARA"
+  "districtName": "LAHAT",
+  "name": "PAGAR NEGARA",
+  "postalCode": "31419"
  },
  {
   "id": 1604120029,
   "districtId": 1604120,
-  "name": "KOTA BARU"
+  "districtName": "LAHAT",
+  "name": "KOTA BARU",
+  "postalCode": "23125"
  },
  {
   "id": 1604120030,
   "districtId": 1604120,
-  "name": "BANDAR AGUNG"
+  "districtName": "LAHAT",
+  "name": "BANDAR AGUNG",
+  "postalCode": "31414"
  },
  {
   "id": 1604120031,
   "districtId": 1604120,
-  "name": "PASAR LAMA"
+  "districtName": "LAHAT",
+  "name": "PASAR LAMA",
+  "postalCode": "23761"
  },
  {
   "id": 1604120033,
   "districtId": 1604120,
-  "name": "RD. PJKA LAHAT"
+  "districtName": "LAHAT",
+  "name": "RD. PJKA LAHAT",
+  "postalCode": ""
  },
  {
   "id": 1604120034,
   "districtId": 1604120,
-  "name": "GUNUNG GAJAH"
+  "districtName": "LAHAT",
+  "name": "GUNUNG GAJAH",
+  "postalCode": "31418"
  },
  {
   "id": 1604120035,
   "districtId": 1604120,
-  "name": "LAHAT TENGAH"
+  "districtName": "LAHAT",
+  "name": "LAHAT TENGAH",
+  "postalCode": "31419"
  },
  {
   "id": 1604120036,
   "districtId": 1604120,
-  "name": "SUKANEGARA"
+  "districtName": "LAHAT",
+  "name": "SUKANEGARA",
+  "postalCode": "32385"
  },
  {
   "id": 1604120037,
   "districtId": 1604120,
-  "name": "SELAWI"
+  "districtName": "LAHAT",
+  "name": "SELAWI",
+  "postalCode": "31419"
  },
  {
   "id": 1604120039,
   "districtId": 1604120,
-  "name": "PASAR BARU"
+  "districtName": "LAHAT",
+  "name": "PASAR BARU",
+  "postalCode": "22163"
  },
  {
   "id": 1604120040,
   "districtId": 1604120,
-  "name": "PASAR BAWAH"
+  "districtName": "LAHAT",
+  "name": "PASAR BAWAH",
+  "postalCode": "31412"
  },
  {
   "id": 1604120043,
   "districtId": 1604120,
-  "name": "KOTA JAYA"
+  "districtName": "LAHAT",
+  "name": "KOTA JAYA",
+  "postalCode": "31412"
  },
  {
   "id": 1604120044,
   "districtId": 1604120,
-  "name": "KOTA NEGARA"
+  "districtName": "LAHAT",
+  "name": "KOTA NEGARA",
+  "postalCode": "31414"
  },
  {
   "id": 1604120045,
   "districtId": 1604120,
-  "name": "RD. PJKA BANDAR AGUNG"
+  "districtName": "LAHAT",
+  "name": "RD. PJKA BANDAR AGUNG",
+  "postalCode": ""
  },
  {
   "id": 1604120049,
   "districtId": 1604120,
-  "name": "MANGGUL"
+  "districtName": "LAHAT",
+  "name": "MANGGUL",
+  "postalCode": "31419"
  },
  {
   "id": 1604120050,
   "districtId": 1604120,
-  "name": "ULAK LEBAR"
+  "districtName": "LAHAT",
+  "name": "ULAK LEBAR",
+  "postalCode": "31419"
  },
  {
   "id": 1604120051,
   "districtId": 1604120,
-  "name": "PADANG LENGKUAS"
+  "districtName": "LAHAT",
+  "name": "PADANG LENGKUAS",
+  "postalCode": "31419"
  },
  {
   "id": 1604120052,
   "districtId": 1604120,
-  "name": "KOTA RAYA"
+  "districtName": "LAHAT",
+  "name": "KOTA RAYA",
+  "postalCode": "28556"
  },
  {
   "id": 1604120053,
   "districtId": 1604120,
-  "name": "KEBAN"
+  "districtName": "LAHAT",
+  "name": "KEBAN",
+  "postalCode": "31419"
  },
  {
   "id": 1604120054,
   "districtId": 1604120,
-  "name": "SENABING"
+  "districtName": "LAHAT",
+  "name": "SENABING",
+  "postalCode": "31419"
  },
  {
   "id": 1604120055,
   "districtId": 1604120,
-  "name": "MAKARTITAMA"
+  "districtName": "LAHAT",
+  "name": "MAKARTITAMA",
+  "postalCode": "31419"
  },
  {
   "id": 1604120056,
   "districtId": 1604120,
-  "name": "ULAK MAS"
+  "districtName": "LAHAT",
+  "name": "ULAK MAS",
+  "postalCode": "31419"
  },
  {
   "id": 1604120057,
   "districtId": 1604120,
-  "name": "SARI BUNGA MAS"
+  "districtName": "LAHAT",
+  "name": "SARI BUNGA MAS",
+  "postalCode": "31419"
  },
  {
   "id": 1604120058,
   "districtId": 1604120,
-  "name": "GIRIMULIYA"
+  "districtName": "LAHAT",
+  "name": "GIRIMULIYA",
+  "postalCode": "31419"
  },
  {
   "id": 1604120059,
   "districtId": 1604120,
-  "name": "BANDAR JAYA"
+  "districtName": "LAHAT",
+  "name": "BANDAR JAYA",
+  "postalCode": "28771"
  },
  {
   "id": 1604120060,
   "districtId": 1604120,
-  "name": "TALANG JAWA SELATAN"
+  "districtName": "LAHAT",
+  "name": "TALANG JAWA SELATAN",
+  "postalCode": "31416"
  },
  {
   "id": 1604120061,
   "districtId": 1604120,
-  "name": "TALANG JAWA UTARA"
+  "districtName": "LAHAT",
+  "name": "TALANG JAWA UTARA",
+  "postalCode": "31416"
  }
 ]

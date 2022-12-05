@@ -2,56 +2,78 @@
  {
   "id": 3525150002,
   "districtId": 3525150,
-  "name": "SERAH"
+  "districtName": "PANCENG",
+  "name": "SERAH",
+  "postalCode": "61156"
  },
  {
   "id": 3525150003,
   "districtId": 3525150,
-  "name": "SUKODONO"
+  "districtName": "PANCENG",
+  "name": "SUKODONO",
+  "postalCode": "59552"
  },
  {
   "id": 3525150005,
   "districtId": 3525150,
-  "name": "WOTAN"
+  "districtName": "PANCENG",
+  "name": "WOTAN",
+  "postalCode": "59172"
  },
  {
   "id": 3525150006,
   "districtId": 3525150,
-  "name": "DOUDO"
+  "districtName": "PANCENG",
+  "name": "DOUDO",
+  "postalCode": "61156"
  },
  {
   "id": 3525150007,
   "districtId": 3525150,
-  "name": "SUROWITI"
+  "districtName": "PANCENG",
+  "name": "SUROWITI",
+  "postalCode": "61156"
  },
  {
   "id": 3525150008,
   "districtId": 3525150,
-  "name": "SIWALAN"
+  "districtName": "PANCENG",
+  "name": "SIWALAN",
+  "postalCode": "50162"
  },
  {
   "id": 3525150009,
   "districtId": 3525150,
-  "name": "KETANEN"
+  "districtName": "PANCENG",
+  "name": "KETANEN",
+  "postalCode": "59153"
  },
  {
   "id": 3525150010,
   "districtId": 3525150,
-  "name": "PANTENAN"
+  "districtName": "PANCENG",
+  "name": "PANTENAN",
+  "postalCode": "61156"
  },
  {
   "id": 3525150012,
   "districtId": 3525150,
-  "name": "DALEGAN"
+  "districtName": "PANCENG",
+  "name": "DALEGAN",
+  "postalCode": "61156"
  },
  {
   "id": 3525150013,
   "districtId": 3525150,
-  "name": "CAMPUREJO"
+  "districtName": "PANCENG",
+  "name": "CAMPUREJO",
+  "postalCode": "51381"
  },
  {
   "id": 3525150014,
   "districtId": 3525150,
-  "name": "BANYUTENGAH"
+  "districtName": "PANCENG",
+  "name": "BANYUTENGAH",
+  "postalCode": "61156"
  }
 ]

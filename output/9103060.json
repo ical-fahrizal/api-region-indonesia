@@ -2,21 +2,29 @@
  {
   "id": 9103060001,
   "districtId": 9103060,
-  "name": "SABUBAR"
+  "districtName": "WAMESA",
+  "name": "SABUBAR",
+  "postalCode": "98361"
  },
  {
   "id": 9103060004,
   "districtId": 9103060,
-  "name": "KARUAN"
+  "districtName": "WAMESA",
+  "name": "KARUAN",
+  "postalCode": "98361"
  },
  {
   "id": 9103060005,
   "districtId": 9103060,
-  "name": "AMBUAR"
+  "districtName": "WAMESA",
+  "name": "AMBUAR",
+  "postalCode": "98361"
  },
  {
   "id": 9103060006,
   "districtId": 9103060,
-  "name": "YARPATE"
+  "districtName": "WAMESA",
+  "name": "YARPATE",
+  "postalCode": "98361"
  }
 ]

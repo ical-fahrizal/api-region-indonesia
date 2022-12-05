@@ -2,36 +2,50 @@
  {
   "id": 9101082006,
   "districtId": 9101082,
-  "name": "KRAMONGMONGGA"
+  "districtName": "KRAMONGMONGGA",
+  "name": "KRAMONGMONGGA",
+  "postalCode": "98652"
  },
  {
   "id": 9101082008,
   "districtId": 9101082,
-  "name": "KWAMKWAMUR"
+  "districtName": "KRAMONGMONGGA",
+  "name": "KWAMKWAMUR",
+  "postalCode": "98652"
  },
  {
   "id": 9101082010,
   "districtId": 9101082,
-  "name": "MAMUR"
+  "districtName": "KRAMONGMONGGA",
+  "name": "MAMUR",
+  "postalCode": "97597"
  },
  {
   "id": 9101082011,
   "districtId": 9101082,
-  "name": "PIKPIK"
+  "districtName": "KRAMONGMONGGA",
+  "name": "PIKPIK",
+  "postalCode": "98652"
  },
  {
   "id": 9101082012,
   "districtId": 9101082,
-  "name": "BAHBADAN"
+  "districtName": "KRAMONGMONGGA",
+  "name": "BAHBADAN",
+  "postalCode": "98652"
  },
  {
   "id": 9101082013,
   "districtId": 9101082,
-  "name": "WARGEP"
+  "districtName": "KRAMONGMONGGA",
+  "name": "WARGEP",
+  "postalCode": "98652"
  },
  {
   "id": 9101082016,
   "districtId": 9101082,
-  "name": "GEWAB"
+  "districtName": "KRAMONGMONGGA",
+  "name": "GEWAB",
+  "postalCode": "98652"
  }
 ]

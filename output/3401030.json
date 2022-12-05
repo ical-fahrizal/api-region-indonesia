@@ -2,41 +2,57 @@
  {
   "id": 3401030001,
   "districtId": 3401030,
-  "name": "GARONGAN"
+  "districtName": "PANJATAN",
+  "name": "GARONGAN",
+  "postalCode": "55655"
  },
  {
   "id": 3401030004,
   "districtId": 3401030,
-  "name": "KANOMAN"
+  "districtName": "PANJATAN",
+  "name": "KANOMAN",
+  "postalCode": "35386"
  },
  {
   "id": 3401030005,
   "districtId": 3401030,
-  "name": "DEPOK"
+  "districtName": "PANJATAN",
+  "name": "DEPOK",
+  "postalCode": "44174"
  },
  {
   "id": 3401030006,
   "districtId": 3401030,
-  "name": "BOJONG"
+  "districtName": "PANJATAN",
+  "name": "BOJONG",
+  "postalCode": "34385"
  },
  {
   "id": 3401030007,
   "districtId": 3401030,
-  "name": "TAYUBAN"
+  "districtName": "PANJATAN",
+  "name": "TAYUBAN",
+  "postalCode": "55655"
  },
  {
   "id": 3401030008,
   "districtId": 3401030,
-  "name": "GOTAKAN"
+  "districtName": "PANJATAN",
+  "name": "GOTAKAN",
+  "postalCode": "55655"
  },
  {
   "id": 3401030009,
   "districtId": 3401030,
-  "name": "PANJATAN"
+  "districtName": "PANJATAN",
+  "name": "PANJATAN",
+  "postalCode": "54364"
  },
  {
   "id": 3401030011,
   "districtId": 3401030,
-  "name": "KREMBANGAN"
+  "districtName": "PANJATAN",
+  "name": "KREMBANGAN",
+  "postalCode": "55655"
  }
 ]

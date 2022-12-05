@@ -2,76 +2,106 @@
  {
   "id": 9106070008,
   "districtId": 9106070,
-  "name": "WERSAR"
+  "districtName": "TEMINABUAN",
+  "name": "WERSAR",
+  "postalCode": "98454"
  },
  {
   "id": 9106070014,
   "districtId": 9106070,
-  "name": "SERIBAUW"
+  "districtName": "TEMINABUAN",
+  "name": "SERIBAUW",
+  "postalCode": ""
  },
  {
   "id": 9106070015,
   "districtId": 9106070,
-  "name": "KOHOIN"
+  "districtName": "TEMINABUAN",
+  "name": "KOHOIN",
+  "postalCode": "98454"
  },
  {
   "id": 9106070016,
   "districtId": 9106070,
-  "name": "AIBOBOR"
+  "districtName": "TEMINABUAN",
+  "name": "AIBOBOR",
+  "postalCode": "98454"
  },
  {
   "id": 9106070017,
   "districtId": 9106070,
-  "name": "WEHALI"
+  "districtName": "TEMINABUAN",
+  "name": "WEHALI",
+  "postalCode": "85762"
  },
  {
   "id": 9106070018,
   "districtId": 9106070,
-  "name": "KAIBUS"
+  "districtName": "TEMINABUAN",
+  "name": "KAIBUS",
+  "postalCode": "98454"
  },
  {
   "id": 9106070019,
   "districtId": 9106070,
-  "name": "WERMIT"
+  "districtName": "TEMINABUAN",
+  "name": "WERMIT",
+  "postalCode": "98454"
  },
  {
   "id": 9106070021,
   "districtId": 9106070,
-  "name": "TAPIRI"
+  "districtName": "TEMINABUAN",
+  "name": "TAPIRI",
+  "postalCode": "98454"
  },
  {
   "id": 9106070022,
   "districtId": 9106070,
-  "name": "TEGIROLO"
+  "districtName": "TEMINABUAN",
+  "name": "TEGIROLO",
+  "postalCode": "98454"
  },
  {
   "id": 9106070023,
   "districtId": 9106070,
-  "name": "GOROLO"
+  "districtName": "TEMINABUAN",
+  "name": "GOROLO",
+  "postalCode": "98454"
  },
  {
   "id": 9106070024,
   "districtId": 9106070,
-  "name": "MAGIS"
+  "districtName": "TEMINABUAN",
+  "name": "MAGIS",
+  "postalCode": "98454"
  },
  {
   "id": 9106070025,
   "districtId": 9106070,
-  "name": "NAMRO"
+  "districtName": "TEMINABUAN",
+  "name": "NAMRO",
+  "postalCode": ""
  },
  {
   "id": 9106070026,
   "districtId": 9106070,
-  "name": "SAYOLO"
+  "districtName": "TEMINABUAN",
+  "name": "SAYOLO",
+  "postalCode": ""
  },
  {
   "id": 9106070027,
   "districtId": 9106070,
-  "name": "WERNAS"
+  "districtName": "TEMINABUAN",
+  "name": "WERNAS",
+  "postalCode": "98454"
  },
  {
   "id": 9106070029,
   "districtId": 9106070,
-  "name": "ANNY"
+  "districtName": "TEMINABUAN",
+  "name": "ANNY",
+  "postalCode": ""
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 6403120001,
   "districtId": 6403120,
-  "name": "SEPATIN"
+  "districtName": "ANGGANA",
+  "name": "SEPATIN",
+  "postalCode": "75381"
  },
  {
   "id": 6403120002,
   "districtId": 6403120,
-  "name": "MUARA PANTUAN"
+  "districtName": "ANGGANA",
+  "name": "MUARA PANTUAN",
+  "postalCode": "75381"
  },
  {
   "id": 6403120003,
   "districtId": 6403120,
-  "name": "TANI BARU"
+  "districtName": "ANGGANA",
+  "name": "TANI BARU",
+  "postalCode": "75381"
  },
  {
   "id": 6403120004,
   "districtId": 6403120,
-  "name": "KUTAI LAMA"
+  "districtName": "ANGGANA",
+  "name": "KUTAI LAMA",
+  "postalCode": "75381"
  },
  {
   "id": 6403120005,
   "districtId": 6403120,
-  "name": "ANGGANA"
+  "districtName": "ANGGANA",
+  "name": "ANGGANA",
+  "postalCode": "75381"
  },
  {
   "id": 6403120006,
   "districtId": 6403120,
-  "name": "SUNGAI MERIAM"
+  "districtName": "ANGGANA",
+  "name": "SUNGAI MERIAM",
+  "postalCode": ""
  },
  {
   "id": 6403120007,
   "districtId": 6403120,
-  "name": "SIDOMULYO"
+  "districtName": "ANGGANA",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  },
  {
   "id": 6403120008,
   "districtId": 6403120,
-  "name": "HANDIL TERUSAN"
+  "districtName": "ANGGANA",
+  "name": "HANDIL TERUSAN",
+  "postalCode": "75381"
  }
 ]

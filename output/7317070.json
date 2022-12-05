@@ -2,71 +2,99 @@
  {
   "id": 7317070001,
   "districtId": 7317070,
-  "name": "LARE-LARE"
+  "districtName": "BUA",
+  "name": "LARE-LARE",
+  "postalCode": "91991"
  },
  {
   "id": 7317070002,
   "districtId": 7317070,
-  "name": "KARANG-KARANGAN"
+  "districtName": "BUA",
+  "name": "KARANG-KARANGAN",
+  "postalCode": "91991"
  },
  {
   "id": 7317070003,
   "districtId": 7317070,
-  "name": "LENGKONG"
+  "districtName": "BUA",
+  "name": "LENGKONG",
+  "postalCode": "24415"
  },
  {
   "id": 7317070004,
   "districtId": 7317070,
-  "name": "RAJA"
+  "districtName": "BUA",
+  "name": "RAJA",
+  "postalCode": "24472"
  },
  {
   "id": 7317070005,
   "districtId": 7317070,
-  "name": "PAMMESAKANG"
+  "districtName": "BUA",
+  "name": "PAMMESAKANG",
+  "postalCode": ""
  },
  {
   "id": 7317070007,
   "districtId": 7317070,
-  "name": "BUKIT HARAPAN"
+  "districtName": "BUA",
+  "name": "BUKIT HARAPAN",
+  "postalCode": "24784"
  },
  {
   "id": 7317070008,
   "districtId": 7317070,
-  "name": "POSI"
+  "districtName": "BUA",
+  "name": "POSI",
+  "postalCode": "91991"
  },
  {
   "id": 7317070009,
   "districtId": 7317070,
-  "name": "TIROMANDA"
+  "districtName": "BUA",
+  "name": "TIROMANDA",
+  "postalCode": "91991"
  },
  {
   "id": 7317070010,
   "districtId": 7317070,
-  "name": "TANA RIGELLA"
+  "districtName": "BUA",
+  "name": "TANA RIGELLA",
+  "postalCode": ""
  },
  {
   "id": 7317070011,
   "districtId": 7317070,
-  "name": "SAKTI"
+  "districtName": "BUA",
+  "name": "SAKTI",
+  "postalCode": "80771"
  },
  {
   "id": 7317070012,
   "districtId": 7317070,
-  "name": "BAROWA"
+  "districtName": "BUA",
+  "name": "BAROWA",
+  "postalCode": "91991"
  },
  {
   "id": 7317070013,
   "districtId": 7317070,
-  "name": "PADANG KALUA"
+  "districtName": "BUA",
+  "name": "PADANG KALUA",
+  "postalCode": "91991"
  },
  {
   "id": 7317070014,
   "districtId": 7317070,
-  "name": "TODDOPULI"
+  "districtName": "BUA",
+  "name": "TODDOPULI",
+  "postalCode": "91991"
  },
  {
   "id": 7317070015,
   "districtId": 7317070,
-  "name": "PABBARESSENG"
+  "districtName": "BUA",
+  "name": "PABBARESSENG",
+  "postalCode": "91991"
  }
 ]

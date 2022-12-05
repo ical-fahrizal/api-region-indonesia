@@ -2,76 +2,106 @@
  {
   "id": 3507250001,
   "districtId": 3507250,
-  "name": "SEKARPURO"
+  "districtName": "PAKIS",
+  "name": "SEKARPURO",
+  "postalCode": "65154"
  },
  {
   "id": 3507250002,
   "districtId": 3507250,
-  "name": "AMPELDENTO"
+  "districtName": "PAKIS",
+  "name": "AMPELDENTO",
+  "postalCode": "65152"
  },
  {
   "id": 3507250003,
   "districtId": 3507250,
-  "name": "SUMBERKRADENAN"
+  "districtName": "PAKIS",
+  "name": "SUMBERKRADENAN",
+  "postalCode": "65154"
  },
  {
   "id": 3507250004,
   "districtId": 3507250,
-  "name": "KEDUNGREJO"
+  "districtName": "PAKIS",
+  "name": "KEDUNGREJO",
+  "postalCode": "57383"
  },
  {
   "id": 3507250005,
   "districtId": 3507250,
-  "name": "BANJARREJO"
+  "districtName": "PAKIS",
+  "name": "BANJARREJO",
+  "postalCode": "62272"
  },
  {
   "id": 3507250006,
   "districtId": 3507250,
-  "name": "PUCANG SONGO"
+  "districtName": "PAKIS",
+  "name": "PUCANG SONGO",
+  "postalCode": "65154"
  },
  {
   "id": 3507250007,
   "districtId": 3507250,
-  "name": "SUKOANYAR"
+  "districtName": "PAKIS",
+  "name": "SUKOANYAR",
+  "postalCode": "61171"
  },
  {
   "id": 3507250008,
   "districtId": 3507250,
-  "name": "SUMBERPASIR"
+  "districtName": "PAKIS",
+  "name": "SUMBERPASIR",
+  "postalCode": "65154"
  },
  {
   "id": 3507250009,
   "districtId": 3507250,
-  "name": "PAKISKEMBAR"
+  "districtName": "PAKIS",
+  "name": "PAKISKEMBAR",
+  "postalCode": "65154"
  },
  {
   "id": 3507250010,
   "districtId": 3507250,
-  "name": "PAKISJAJAR"
+  "districtName": "PAKIS",
+  "name": "PAKISJAJAR",
+  "postalCode": "65154"
  },
  {
   "id": 3507250011,
   "districtId": 3507250,
-  "name": "BUNUTWETAN"
+  "districtName": "PAKIS",
+  "name": "BUNUTWETAN",
+  "postalCode": "65154"
  },
  {
   "id": 3507250012,
   "districtId": 3507250,
-  "name": "ASRIKATON"
+  "districtName": "PAKIS",
+  "name": "ASRIKATON",
+  "postalCode": "65154"
  },
  {
   "id": 3507250013,
   "districtId": 3507250,
-  "name": "SAPTORENGGO"
+  "districtName": "PAKIS",
+  "name": "SAPTORENGGO",
+  "postalCode": "65154"
  },
  {
   "id": 3507250014,
   "districtId": 3507250,
-  "name": "MANGLIAWAN"
+  "districtName": "PAKIS",
+  "name": "MANGLIAWAN",
+  "postalCode": "65154"
  },
  {
   "id": 3507250015,
   "districtId": 3507250,
-  "name": "TIRTOMOYO"
+  "districtName": "PAKIS",
+  "name": "TIRTOMOYO",
+  "postalCode": "54393"
  }
 ]

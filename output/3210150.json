@@ -2,51 +2,71 @@
  {
   "id": 3210150011,
   "districtId": 3210150,
-  "name": "BOJONGCIDERES"
+  "districtName": "DAWUAN",
+  "name": "BOJONGCIDERES",
+  "postalCode": "45453"
  },
  {
   "id": 3210150012,
   "districtId": 3210150,
-  "name": "DAWUAN"
+  "districtName": "DAWUAN",
+  "name": "DAWUAN",
+  "postalCode": "45453"
  },
  {
   "id": 3210150014,
   "districtId": 3210150,
-  "name": "GANDU"
+  "districtName": "DAWUAN",
+  "name": "GANDU",
+  "postalCode": "45453"
  },
  {
   "id": 3210150015,
   "districtId": 3210150,
-  "name": "SINARJATI"
+  "districtName": "DAWUAN",
+  "name": "SINARJATI",
+  "postalCode": "45453"
  },
  {
   "id": 3210150016,
   "districtId": 3210150,
-  "name": "BATURUYUK"
+  "districtName": "DAWUAN",
+  "name": "BATURUYUK",
+  "postalCode": "45453"
  },
  {
   "id": 3210150017,
   "districtId": 3210150,
-  "name": "MANDAPA"
+  "districtName": "DAWUAN",
+  "name": "MANDAPA",
+  "postalCode": "45453"
  },
  {
   "id": 3210150018,
   "districtId": 3210150,
-  "name": "BALIDA"
+  "districtName": "DAWUAN",
+  "name": "BALIDA",
+  "postalCode": "45453"
  },
  {
   "id": 3210150019,
   "districtId": 3210150,
-  "name": "PASIRMALATI"
+  "districtName": "DAWUAN",
+  "name": "PASIRMALATI",
+  "postalCode": "45453"
  },
  {
   "id": 3210150020,
   "districtId": 3210150,
-  "name": "KARANGANYAR"
+  "districtName": "DAWUAN",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  },
  {
   "id": 3210150021,
   "districtId": 3210150,
-  "name": "SALAWANA"
+  "districtName": "DAWUAN",
+  "name": "SALAWANA",
+  "postalCode": "45453"
  }
 ]

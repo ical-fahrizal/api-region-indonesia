@@ -2,41 +2,57 @@
  {
   "id": 3507290001,
   "districtId": 3507290,
-  "name": "TEGALGONDO"
+  "districtName": "KARANGPLOSO",
+  "name": "TEGALGONDO",
+  "postalCode": "54264"
  },
  {
   "id": 3507290002,
   "districtId": 3507290,
-  "name": "KEPUHARJO"
+  "districtName": "KARANGPLOSO",
+  "name": "KEPUHARJO",
+  "postalCode": "65152"
  },
  {
   "id": 3507290004,
   "districtId": 3507290,
-  "name": "NGIJO"
+  "districtName": "KARANGPLOSO",
+  "name": "NGIJO",
+  "postalCode": "50228"
  },
  {
   "id": 3507290005,
   "districtId": 3507290,
-  "name": "AMPELDENTO"
+  "districtName": "KARANGPLOSO",
+  "name": "AMPELDENTO",
+  "postalCode": "65152"
  },
  {
   "id": 3507290006,
   "districtId": 3507290,
-  "name": "GIRIMOYO"
+  "districtName": "KARANGPLOSO",
+  "name": "GIRIMOYO",
+  "postalCode": "65152"
  },
  {
   "id": 3507290007,
   "districtId": 3507290,
-  "name": "BOCEK"
+  "districtName": "KARANGPLOSO",
+  "name": "BOCEK",
+  "postalCode": "65152"
  },
  {
   "id": 3507290008,
   "districtId": 3507290,
-  "name": "DONOWARIH"
+  "districtName": "KARANGPLOSO",
+  "name": "DONOWARIH",
+  "postalCode": "65152"
  },
  {
   "id": 3507290009,
   "districtId": 3507290,
-  "name": "TAWANGARGO"
+  "districtName": "KARANGPLOSO",
+  "name": "TAWANGARGO",
+  "postalCode": "65152"
  }
 ]

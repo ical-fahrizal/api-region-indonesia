@@ -2,61 +2,85 @@
  {
   "id": 1902010001,
   "districtId": 1902010,
-  "name": "PULAU SELIU"
+  "districtName": "MEMBALONG",
+  "name": "PULAU SELIU",
+  "postalCode": "33452"
  },
  {
   "id": 1902010002,
   "districtId": 1902010,
-  "name": "MEMBALONG"
+  "districtName": "MEMBALONG",
+  "name": "MEMBALONG",
+  "postalCode": "33452"
  },
  {
   "id": 1902010003,
   "districtId": 1902010,
-  "name": "MENTIGI"
+  "districtName": "MEMBALONG",
+  "name": "MENTIGI",
+  "postalCode": "33452"
  },
  {
   "id": 1902010004,
   "districtId": 1902010,
-  "name": "TANJUNG RUSA"
+  "districtName": "MEMBALONG",
+  "name": "TANJUNG RUSA",
+  "postalCode": "33452"
  },
  {
   "id": 1902010005,
   "districtId": 1902010,
-  "name": "KEMBIRI"
+  "districtName": "MEMBALONG",
+  "name": "KEMBIRI",
+  "postalCode": "33452"
  },
  {
   "id": 1902010006,
   "districtId": 1902010,
-  "name": "PERPAT"
+  "districtName": "MEMBALONG",
+  "name": "PERPAT",
+  "postalCode": "33452"
  },
  {
   "id": 1902010007,
   "districtId": 1902010,
-  "name": "LASSAR"
+  "districtName": "MEMBALONG",
+  "name": "LASSAR",
+  "postalCode": "33452"
  },
  {
   "id": 1902010008,
   "districtId": 1902010,
-  "name": "SIMPANG RUSA"
+  "districtName": "MEMBALONG",
+  "name": "SIMPANG RUSA",
+  "postalCode": "33452"
  },
  {
   "id": 1902010009,
   "districtId": 1902010,
-  "name": "BANTAN"
+  "districtName": "MEMBALONG",
+  "name": "BANTAN",
+  "postalCode": "23671"
  },
  {
   "id": 1902010010,
   "districtId": 1902010,
-  "name": "PULAU SUMEDANG"
+  "districtName": "MEMBALONG",
+  "name": "PULAU SUMEDANG",
+  "postalCode": "33452"
  },
  {
   "id": 1902010011,
   "districtId": 1902010,
-  "name": "GUNUNG RITING"
+  "districtName": "MEMBALONG",
+  "name": "GUNUNG RITING",
+  "postalCode": "33452"
  },
  {
   "id": 1902010012,
   "districtId": 1902010,
-  "name": "PADANG KANDIS"
+  "districtName": "MEMBALONG",
+  "name": "PADANG KANDIS",
+  "postalCode": "33452"
  }
 ]

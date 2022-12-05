@@ -2,106 +2,148 @@
  {
   "id": 1803120001,
   "districtId": 1803120,
-  "name": "TANJUNG SARI"
+  "districtName": "PALAS",
+  "name": "TANJUNG SARI",
+  "postalCode": "24673"
  },
  {
   "id": 1803120002,
   "districtId": 1803120,
-  "name": "BANGUNAN"
+  "districtName": "PALAS",
+  "name": "BANGUNAN",
+  "postalCode": "35594"
  },
  {
   "id": 1803120003,
   "districtId": 1803120,
-  "name": "SUKARAJA"
+  "districtName": "PALAS",
+  "name": "SUKARAJA",
+  "postalCode": "21256"
  },
  {
   "id": 1803120004,
   "districtId": 1803120,
-  "name": "SUKA MULYA"
+  "districtName": "PALAS",
+  "name": "SUKA MULYA",
+  "postalCode": "28463"
  },
  {
   "id": 1803120005,
   "districtId": 1803120,
-  "name": "SUKABAKTI"
+  "districtName": "PALAS",
+  "name": "SUKABAKTI",
+  "postalCode": "35594"
  },
  {
   "id": 1803120015,
   "districtId": 1803120,
-  "name": "PALAS PASEMAH"
+  "districtName": "PALAS",
+  "name": "PALAS PASEMAH",
+  "postalCode": "35594"
  },
  {
   "id": 1803120016,
   "districtId": 1803120,
-  "name": "PALAS JAYA"
+  "districtName": "PALAS",
+  "name": "PALAS JAYA",
+  "postalCode": "35594"
  },
  {
   "id": 1803120017,
   "districtId": 1803120,
-  "name": "PULAU TENGAH"
+  "districtName": "PALAS",
+  "name": "PULAU TENGAH",
+  "postalCode": "37372"
  },
  {
   "id": 1803120018,
   "districtId": 1803120,
-  "name": "BANDAN HURIP"
+  "districtName": "PALAS",
+  "name": "BANDAN HURIP",
+  "postalCode": "35594"
  },
  {
   "id": 1803120019,
   "districtId": 1803120,
-  "name": "PALAS AJI"
+  "districtName": "PALAS",
+  "name": "PALAS AJI",
+  "postalCode": "35594"
  },
  {
   "id": 1803120020,
   "districtId": 1803120,
-  "name": "REJO MULYO"
+  "districtName": "PALAS",
+  "name": "REJO MULYO",
+  "postalCode": "32383"
  },
  {
   "id": 1803120021,
   "districtId": 1803120,
-  "name": "BALI AGUNG"
+  "districtName": "PALAS",
+  "name": "BALI AGUNG",
+  "postalCode": "35594"
  },
  {
   "id": 1803120022,
   "districtId": 1803120,
-  "name": "BUMI DAYA"
+  "districtName": "PALAS",
+  "name": "BUMI DAYA",
+  "postalCode": "35594"
  },
  {
   "id": 1803120023,
   "districtId": 1803120,
-  "name": "BUMI RESTU"
+  "districtName": "PALAS",
+  "name": "BUMI RESTU",
+  "postalCode": "34581"
  },
  {
   "id": 1803120024,
   "districtId": 1803120,
-  "name": "TANJUNG JAYA"
+  "districtName": "PALAS",
+  "name": "TANJUNG JAYA",
+  "postalCode": "32265"
  },
  {
   "id": 1803120025,
   "districtId": 1803120,
-  "name": "BUMI ASIH"
+  "districtName": "PALAS",
+  "name": "BUMI ASIH",
+  "postalCode": "35594"
  },
  {
   "id": 1803120026,
   "districtId": 1803120,
-  "name": "MEKAR MULYA"
+  "districtName": "PALAS",
+  "name": "MEKAR MULYA",
+  "postalCode": "38768"
  },
  {
   "id": 1803120027,
   "districtId": 1803120,
-  "name": "PEMATANG BARU"
+  "districtName": "PALAS",
+  "name": "PEMATANG BARU",
+  "postalCode": "35594"
  },
  {
   "id": 1803120028,
   "districtId": 1803120,
-  "name": "KALI REJO"
+  "districtName": "PALAS",
+  "name": "KALI REJO",
+  "postalCode": "34174"
  },
  {
   "id": 1803120029,
   "districtId": 1803120,
-  "name": "BUMI ASRI"
+  "districtName": "PALAS",
+  "name": "BUMI ASRI",
+  "postalCode": "35594"
  },
  {
   "id": 1803120030,
   "districtId": 1803120,
-  "name": "PULAU JAYA"
+  "districtName": "PALAS",
+  "name": "PULAU JAYA",
+  "postalCode": "35594"
  }
 ]

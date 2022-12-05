@@ -2,41 +2,57 @@
  {
   "id": 9107112001,
   "districtId": 9107112,
-  "name": "MLAWES"
+  "districtName": "KLABOT",
+  "name": "MLAWES",
+  "postalCode": "98453"
  },
  {
   "id": 9107112002,
   "districtId": 9107112,
-  "name": "MALAT"
+  "districtName": "KLABOT",
+  "name": "MALAT",
+  "postalCode": "95883"
  },
  {
   "id": 9107112003,
   "districtId": 9107112,
-  "name": "KLABOT"
+  "districtName": "KLABOT",
+  "name": "KLABOT",
+  "postalCode": "98453"
  },
  {
   "id": 9107112004,
   "districtId": 9107112,
-  "name": "INDIWI"
+  "districtName": "KLABOT",
+  "name": "INDIWI",
+  "postalCode": "98453"
  },
  {
   "id": 9107112009,
   "districtId": 9107112,
-  "name": "WARKTI"
+  "districtName": "KLABOT",
+  "name": "WARKTI",
+  "postalCode": ""
  },
  {
   "id": 9107112010,
   "districtId": 9107112,
-  "name": "SOMIR"
+  "districtName": "KLABOT",
+  "name": "SOMIR",
+  "postalCode": ""
  },
  {
   "id": 9107112011,
   "districtId": 9107112,
-  "name": "KLANOLO"
+  "districtName": "KLABOT",
+  "name": "KLANOLO",
+  "postalCode": ""
  },
  {
   "id": 9107112012,
   "districtId": 9107112,
-  "name": "MLASFA"
+  "districtName": "KLABOT",
+  "name": "MLASFA",
+  "postalCode": ""
  }
 ]

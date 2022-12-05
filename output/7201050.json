@@ -2,81 +2,113 @@
  {
   "id": 7201050001,
   "districtId": 7201050,
-  "name": "MAMULUSAN"
+  "districtName": "LIANG",
+  "name": "MAMULUSAN",
+  "postalCode": "94883"
  },
  {
   "id": 7201050002,
   "districtId": 7201050,
-  "name": "KINANDAL"
+  "districtName": "LIANG",
+  "name": "KINANDAL",
+  "postalCode": ""
  },
  {
   "id": 7201050003,
   "districtId": 7201050,
-  "name": "TOMBONIKI"
+  "districtName": "LIANG",
+  "name": "TOMBONIKI",
+  "postalCode": "94883"
  },
  {
   "id": 7201050006,
   "districtId": 7201050,
-  "name": "OKUMEL"
+  "districtName": "LIANG",
+  "name": "OKUMEL",
+  "postalCode": "94883"
  },
  {
   "id": 7201050007,
   "districtId": 7201050,
-  "name": "POPIDOLON"
+  "districtName": "LIANG",
+  "name": "POPIDOLON",
+  "postalCode": "94883"
  },
  {
   "id": 7201050008,
   "districtId": 7201050,
-  "name": "TANGKOP"
+  "districtName": "LIANG",
+  "name": "TANGKOP",
+  "postalCode": "94883"
  },
  {
   "id": 7201050009,
   "districtId": 7201050,
-  "name": "BINUNTULI"
+  "districtName": "LIANG",
+  "name": "BINUNTULI",
+  "postalCode": "94883"
  },
  {
   "id": 7201050010,
   "districtId": 7201050,
-  "name": "SALEATI"
+  "districtName": "LIANG",
+  "name": "SALEATI",
+  "postalCode": "94883"
  },
  {
   "id": 7201050011,
   "districtId": 7201050,
-  "name": "BAJO"
+  "districtName": "LIANG",
+  "name": "BAJO",
+  "postalCode": "58381"
  },
  {
   "id": 7201050012,
   "districtId": 7201050,
-  "name": "LIANG"
+  "districtName": "LIANG",
+  "name": "LIANG",
+  "postalCode": "77457"
  },
  {
   "id": 7201050014,
   "districtId": 7201050,
-  "name": "BALAYON"
+  "districtName": "LIANG",
+  "name": "BALAYON",
+  "postalCode": "94883"
  },
  {
   "id": 7201050015,
   "districtId": 7201050,
-  "name": "BASOSOL"
+  "districtName": "LIANG",
+  "name": "BASOSOL",
+  "postalCode": "94883"
  },
  {
   "id": 7201050016,
   "districtId": 7201050,
-  "name": "BOYOMOUTE"
+  "districtName": "LIANG",
+  "name": "BOYOMOUTE",
+  "postalCode": "94883"
  },
  {
   "id": 7201050019,
   "districtId": 7201050,
-  "name": "APAL"
+  "districtName": "LIANG",
+  "name": "APAL",
+  "postalCode": "94881"
  },
  {
   "id": 7201050020,
   "districtId": 7201050,
-  "name": "SELEKAN"
+  "districtName": "LIANG",
+  "name": "SELEKAN",
+  "postalCode": "94883"
  },
  {
   "id": 7201050021,
   "districtId": 7201050,
-  "name": "LOOLONG"
+  "districtName": "LIANG",
+  "name": "LOOLONG",
+  "postalCode": "94883"
  }
 ]

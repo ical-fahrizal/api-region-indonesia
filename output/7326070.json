@@ -2,21 +2,29 @@
  {
   "id": 7326070001,
   "districtId": 7326070,
-  "name": "LEMBANG TONDON"
+  "districtName": "TONDON",
+  "name": "LEMBANG TONDON",
+  "postalCode": ""
  },
  {
   "id": 7326070002,
   "districtId": 7326070,
-  "name": "LEMBANG TONDON MATALLO"
+  "districtName": "TONDON",
+  "name": "LEMBANG TONDON MATALLO",
+  "postalCode": ""
  },
  {
   "id": 7326070003,
   "districtId": 7326070,
-  "name": "LEMBANG TONDON LANGI"
+  "districtName": "TONDON",
+  "name": "LEMBANG TONDON LANGI",
+  "postalCode": ""
  },
  {
   "id": 7326070004,
   "districtId": 7326070,
-  "name": "LEMBANG TONDON SIBA'TA"
+  "districtName": "TONDON",
+  "name": "LEMBANG TONDON SIBA'TA",
+  "postalCode": ""
  }
 ]

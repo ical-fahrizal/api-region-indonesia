@@ -2,26 +2,36 @@
  {
   "id": 7318012001,
   "districtId": 7318012,
-  "name": "LEMBANG RANO"
+  "districtName": "RANO",
+  "name": "LEMBANG RANO",
+  "postalCode": ""
  },
  {
   "id": 7318012002,
   "districtId": 7318012,
-  "name": "LEMBANG RUMANDAN"
+  "districtName": "RANO",
+  "name": "LEMBANG RUMANDAN",
+  "postalCode": ""
  },
  {
   "id": 7318012003,
   "districtId": 7318012,
-  "name": "LEMBANG RANO TIMUR"
+  "districtName": "RANO",
+  "name": "LEMBANG RANO TIMUR",
+  "postalCode": ""
  },
  {
   "id": 7318012004,
   "districtId": 7318012,
-  "name": "LEMBANG RANO TENGAH"
+  "districtName": "RANO",
+  "name": "LEMBANG RANO TENGAH",
+  "postalCode": ""
  },
  {
   "id": 7318012005,
   "districtId": 7318012,
-  "name": "LEMBANG RANO UTARA"
+  "districtName": "RANO",
+  "name": "LEMBANG RANO UTARA",
+  "postalCode": ""
  }
 ]

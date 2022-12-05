@@ -2,66 +2,92 @@
  {
   "id": 3315100001,
   "districtId": 3315100,
-  "name": "SAMBIREJO"
+  "districtName": "WIROSARI",
+  "name": "SAMBIREJO",
+  "postalCode": "39153"
  },
  {
   "id": 3315100002,
   "districtId": 3315100,
-  "name": "TANJUNGREJO"
+  "districtName": "WIROSARI",
+  "name": "TANJUNGREJO",
+  "postalCode": "54224"
  },
  {
   "id": 3315100004,
   "districtId": 3315100,
-  "name": "TAMBAHREJO"
+  "districtName": "WIROSARI",
+  "name": "TAMBAHREJO",
+  "postalCode": "51254"
  },
  {
   "id": 3315100005,
   "districtId": 3315100,
-  "name": "KROPAK"
+  "districtName": "WIROSARI",
+  "name": "KROPAK",
+  "postalCode": "59181"
  },
  {
   "id": 3315100006,
   "districtId": 3315100,
-  "name": "KALIREJO"
+  "districtName": "WIROSARI",
+  "name": "KALIREJO",
+  "postalCode": "35353"
  },
  {
   "id": 3315100007,
   "districtId": 3315100,
-  "name": "DAPURNO"
+  "districtName": "WIROSARI",
+  "name": "DAPURNO",
+  "postalCode": "58192"
  },
  {
   "id": 3315100008,
   "districtId": 3315100,
-  "name": "MOJOREBO"
+  "districtName": "WIROSARI",
+  "name": "MOJOREBO",
+  "postalCode": "58192"
  },
  {
   "id": 3315100009,
   "districtId": 3315100,
-  "name": "WIROSARI"
+  "districtName": "WIROSARI",
+  "name": "WIROSARI",
+  "postalCode": "51364"
  },
  {
   "id": 3315100010,
   "districtId": 3315100,
-  "name": "GEDANGAN"
+  "districtName": "WIROSARI",
+  "name": "GEDANGAN",
+  "postalCode": "21264"
  },
  {
   "id": 3315100011,
   "districtId": 3315100,
-  "name": "TAMBAKSELO"
+  "districtName": "WIROSARI",
+  "name": "TAMBAKSELO",
+  "postalCode": "58192"
  },
  {
   "id": 3315100012,
   "districtId": 3315100,
-  "name": "KARANGASEM"
+  "districtName": "WIROSARI",
+  "name": "KARANGASEM",
+  "postalCode": "45186"
  },
  {
   "id": 3315100013,
   "districtId": 3315100,
-  "name": "DOKORO"
+  "districtName": "WIROSARI",
+  "name": "DOKORO",
+  "postalCode": "58192"
  },
  {
   "id": 3315100014,
   "districtId": 3315100,
-  "name": "TEGALREJO"
+  "districtName": "WIROSARI",
+  "name": "TEGALREJO",
+  "postalCode": "50733"
  }
 ]

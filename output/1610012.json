@@ -2,51 +2,71 @@
  {
   "id": 1610012001,
   "districtId": 1610012,
-  "name": "ULAK KEMBAHANG"
+  "districtName": "LUBUK KELIAT",
+  "name": "ULAK KEMBAHANG",
+  "postalCode": "30868"
  },
  {
   "id": 1610012002,
   "districtId": 1610012,
-  "name": "LUBUK KELIAT"
+  "districtName": "LUBUK KELIAT",
+  "name": "LUBUK KELIAT",
+  "postalCode": "30868"
  },
  {
   "id": 1610012003,
   "districtId": 1610012,
-  "name": "EMBACANG"
+  "districtName": "LUBUK KELIAT",
+  "name": "EMBACANG",
+  "postalCode": "30868"
  },
  {
   "id": 1610012004,
   "districtId": 1610012,
-  "name": "BETUNG I"
+  "districtName": "LUBUK KELIAT",
+  "name": "BETUNG I",
+  "postalCode": "30868"
  },
  {
   "id": 1610012005,
   "districtId": 1610012,
-  "name": "KASIH RAJA"
+  "districtName": "LUBUK KELIAT",
+  "name": "KASIH RAJA",
+  "postalCode": "30868"
  },
  {
   "id": 1610012006,
   "districtId": 1610012,
-  "name": "TALANG TENGAH"
+  "districtName": "LUBUK KELIAT",
+  "name": "TALANG TENGAH",
+  "postalCode": "38375"
  },
  {
   "id": 1610012007,
   "districtId": 1610012,
-  "name": "KETIAU"
+  "districtName": "LUBUK KELIAT",
+  "name": "KETIAU",
+  "postalCode": "30868"
  },
  {
   "id": 1610012008,
   "districtId": 1610012,
-  "name": "BETUNG II"
+  "districtName": "LUBUK KELIAT",
+  "name": "BETUNG II",
+  "postalCode": "30868"
  },
  {
   "id": 1610012009,
   "districtId": 1610012,
-  "name": "PAYALINGKUNG"
+  "districtName": "LUBUK KELIAT",
+  "name": "PAYALINGKUNG",
+  "postalCode": "30868"
  },
  {
   "id": 1610012010,
   "districtId": 1610012,
-  "name": "TALANG TENGAH LAUT"
+  "districtName": "LUBUK KELIAT",
+  "name": "TALANG TENGAH LAUT",
+  "postalCode": "30868"
  }
 ]

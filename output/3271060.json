@@ -2,56 +2,78 @@
  {
   "id": 3271060001,
   "districtId": 3271060,
-  "name": "KEDUNGWARINGIN"
+  "districtName": "TANAH SEREAL",
+  "name": "KEDUNGWARINGIN",
+  "postalCode": "17540"
  },
  {
   "id": 3271060002,
   "districtId": 3271060,
-  "name": "KEDUNGJAYA"
+  "districtName": "TANAH SEREAL",
+  "name": "KEDUNGJAYA",
+  "postalCode": "17610"
  },
  {
   "id": 3271060003,
   "districtId": 3271060,
-  "name": "KEBONPEDES"
+  "districtName": "TANAH SEREAL",
+  "name": "KEBONPEDES",
+  "postalCode": "43194"
  },
  {
   "id": 3271060004,
   "districtId": 3271060,
-  "name": "TANAHSAREAL"
+  "districtName": "TANAH SEREAL",
+  "name": "TANAHSAREAL",
+  "postalCode": ""
  },
  {
   "id": 3271060005,
   "districtId": 3271060,
-  "name": "KEDUNGBADAK"
+  "districtName": "TANAH SEREAL",
+  "name": "KEDUNGBADAK",
+  "postalCode": ""
  },
  {
   "id": 3271060006,
   "districtId": 3271060,
-  "name": "SUKARESMI"
+  "districtName": "TANAH SEREAL",
+  "name": "SUKARESMI",
+  "postalCode": "17530"
  },
  {
   "id": 3271060007,
   "districtId": 3271060,
-  "name": "SUKADAMAI"
+  "districtName": "TANAH SEREAL",
+  "name": "SUKADAMAI",
+  "postalCode": "24373"
  },
  {
   "id": 3271060008,
   "districtId": 3271060,
-  "name": "CIBADAK"
+  "districtName": "TANAH SEREAL",
+  "name": "CIBADAK",
+  "postalCode": "40241"
  },
  {
   "id": 3271060009,
   "districtId": 3271060,
-  "name": "KAYUMANIS"
+  "districtName": "TANAH SEREAL",
+  "name": "KAYUMANIS",
+  "postalCode": "16169"
  },
  {
   "id": 3271060010,
   "districtId": 3271060,
-  "name": "MEKARWANGI"
+  "districtName": "TANAH SEREAL",
+  "name": "MEKARWANGI",
+  "postalCode": "45462"
  },
  {
   "id": 3271060011,
   "districtId": 3271060,
-  "name": "KENCANA"
+  "districtName": "TANAH SEREAL",
+  "name": "KENCANA",
+  "postalCode": "28992"
  }
 ]

@@ -2,56 +2,78 @@
  {
   "id": 3207280001,
   "districtId": 3207280,
-  "name": "SINDANGSARI"
+  "districtName": "KAWALI",
+  "name": "SINDANGSARI",
+  "postalCode": "46383"
  },
  {
   "id": 3207280002,
   "districtId": 3207280,
-  "name": "KAWALI"
+  "districtName": "KAWALI",
+  "name": "KAWALI",
+  "postalCode": "46253"
  },
  {
   "id": 3207280003,
   "districtId": 3207280,
-  "name": "KARANGPAWITAN"
+  "districtName": "KAWALI",
+  "name": "KARANGPAWITAN",
+  "postalCode": "44182"
  },
  {
   "id": 3207280004,
   "districtId": 3207280,
-  "name": "KAWALIMUKTI"
+  "districtName": "KAWALI",
+  "name": "KAWALIMUKTI",
+  "postalCode": "46253"
  },
  {
   "id": 3207280005,
   "districtId": 3207280,
-  "name": "TALAGASARI"
+  "districtName": "KAWALI",
+  "name": "TALAGASARI",
+  "postalCode": "44172"
  },
  {
   "id": 3207280006,
   "districtId": 3207280,
-  "name": "SELASARI"
+  "districtName": "KAWALI",
+  "name": "SELASARI",
+  "postalCode": "46253"
  },
  {
   "id": 3207280007,
   "districtId": 3207280,
-  "name": "MARGAMULYA"
+  "districtName": "KAWALI",
+  "name": "MARGAMULYA",
+  "postalCode": "45255"
  },
  {
   "id": 3207280008,
   "districtId": 3207280,
-  "name": "WINDURAJA"
+  "districtName": "KAWALI",
+  "name": "WINDURAJA",
+  "postalCode": "46253"
  },
  {
   "id": 3207280009,
   "districtId": 3207280,
-  "name": "PURWASARI"
+  "districtName": "KAWALI",
+  "name": "PURWASARI",
+  "postalCode": "37252"
  },
  {
   "id": 3207280010,
   "districtId": 3207280,
-  "name": "CITEUREUP"
+  "districtName": "KAWALI",
+  "name": "CITEUREUP",
+  "postalCode": "40512"
  },
  {
   "id": 3207280011,
   "districtId": 3207280,
-  "name": "LINGGAPURA"
+  "districtName": "KAWALI",
+  "name": "LINGGAPURA",
+  "postalCode": "46253"
  }
 ]

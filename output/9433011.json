@@ -2,31 +2,43 @@
  {
   "id": 9433011002,
   "districtId": 9433011,
-  "name": "WENGGENAMBUT"
+  "districtName": "LAMBEWI",
+  "name": "WENGGENAMBUT",
+  "postalCode": "99564"
  },
  {
   "id": 9433011003,
   "districtId": 9433011,
-  "name": "WANOMBUT"
+  "districtName": "LAMBEWI",
+  "name": "WANOMBUT",
+  "postalCode": ""
  },
  {
   "id": 9433011004,
   "districtId": 9433011,
-  "name": "TENAWI"
+  "districtName": "LAMBEWI",
+  "name": "TENAWI",
+  "postalCode": ""
  },
  {
   "id": 9433011005,
   "districtId": 9433011,
-  "name": "WAMIRU"
+  "districtName": "LAMBEWI",
+  "name": "WAMIRU",
+  "postalCode": ""
  },
  {
   "id": 9433011006,
   "districtId": 9433011,
-  "name": "PUMBANAK"
+  "districtName": "LAMBEWI",
+  "name": "PUMBANAK",
+  "postalCode": ""
  },
  {
   "id": 9433011007,
   "districtId": 9433011,
-  "name": "PILUWOLU"
+  "districtName": "LAMBEWI",
+  "name": "PILUWOLU",
+  "postalCode": ""
  }
 ]

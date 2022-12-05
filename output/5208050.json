@@ -2,46 +2,64 @@
  {
   "id": 5208050001,
   "districtId": 5208050,
-  "name": "MUMBUL SARI"
+  "districtName": "BAYAN",
+  "name": "MUMBUL SARI",
+  "postalCode": "83354"
  },
  {
   "id": 5208050002,
   "districtId": 5208050,
-  "name": "AKAR AKAR"
+  "districtName": "BAYAN",
+  "name": "AKAR AKAR",
+  "postalCode": "83354"
  },
  {
   "id": 5208050003,
   "districtId": 5208050,
-  "name": "SUKADANA"
+  "districtName": "BAYAN",
+  "name": "SUKADANA",
+  "postalCode": "30611"
  },
  {
   "id": 5208050004,
   "districtId": 5208050,
-  "name": "ANYAR"
+  "districtName": "BAYAN",
+  "name": "ANYAR",
+  "postalCode": "32361"
  },
  {
   "id": 5208050005,
   "districtId": 5208050,
-  "name": "SENARU"
+  "districtName": "BAYAN",
+  "name": "SENARU",
+  "postalCode": "83354"
  },
  {
   "id": 5208050006,
   "districtId": 5208050,
-  "name": "BAYAN"
+  "districtName": "BAYAN",
+  "name": "BAYAN",
+  "postalCode": "54224"
  },
  {
   "id": 5208050007,
   "districtId": 5208050,
-  "name": "KARANG BAJO"
+  "districtName": "BAYAN",
+  "name": "KARANG BAJO",
+  "postalCode": "83354"
  },
  {
   "id": 5208050008,
   "districtId": 5208050,
-  "name": "LOLOAN"
+  "districtName": "BAYAN",
+  "name": "LOLOAN",
+  "postalCode": "83354"
  },
  {
   "id": 5208050009,
   "districtId": 5208050,
-  "name": "SAMBIK ELEN"
+  "districtName": "BAYAN",
+  "name": "SAMBIK ELEN",
+  "postalCode": "83354"
  }
 ]

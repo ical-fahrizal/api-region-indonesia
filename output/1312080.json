@@ -2,16 +2,22 @@
  {
   "id": 1312080001,
   "districtId": 1312080,
-  "name": "LINGKUANG AUA"
+  "districtName": "PASAMAN",
+  "name": "LINGKUANG AUA",
+  "postalCode": "26566"
  },
  {
   "id": 1312080002,
   "districtId": 1312080,
-  "name": "AUA KUNIANG"
+  "districtName": "PASAMAN",
+  "name": "AUA KUNIANG",
+  "postalCode": "26566"
  },
  {
   "id": 1312080003,
   "districtId": 1312080,
-  "name": "AIA GADANG"
+  "districtName": "PASAMAN",
+  "name": "AIA GADANG",
+  "postalCode": "26566"
  }
 ]

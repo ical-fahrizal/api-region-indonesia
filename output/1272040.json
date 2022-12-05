@@ -2,26 +2,36 @@
  {
   "id": 1272040001,
   "districtId": 1272040,
-  "name": "PASAR BARU"
+  "districtName": "SEI TUALANG RASO",
+  "name": "PASAR BARU",
+  "postalCode": "22163"
  },
  {
   "id": 1272040002,
   "districtId": 1272040,
-  "name": "KERAMAT KUBAH"
+  "districtName": "SEI TUALANG RASO",
+  "name": "KERAMAT KUBAH",
+  "postalCode": "21344"
  },
  {
   "id": 1272040003,
   "districtId": 1272040,
-  "name": "SUMBER SARI"
+  "districtName": "SEI TUALANG RASO",
+  "name": "SUMBER SARI",
+  "postalCode": "21343"
  },
  {
   "id": 1272040004,
   "districtId": 1272040,
-  "name": "MUARA SENTOSA"
+  "districtName": "SEI TUALANG RASO",
+  "name": "MUARA SENTOSA",
+  "postalCode": "21342"
  },
  {
   "id": 1272040005,
   "districtId": 1272040,
-  "name": "SEI RAJA"
+  "districtName": "SEI TUALANG RASO",
+  "name": "SEI RAJA",
+  "postalCode": "21258"
  }
 ]

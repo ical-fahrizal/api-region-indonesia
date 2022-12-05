@@ -2,36 +2,50 @@
  {
   "id": 3206120001,
   "districtId": 3206120,
-  "name": "CIKEUSAL"
+  "districtName": "TANJUNGJAYA",
+  "name": "CIKEUSAL",
+  "postalCode": "45582"
  },
  {
   "id": 3206120002,
   "districtId": 3206120,
-  "name": "SUKANAGARA"
+  "districtName": "TANJUNGJAYA",
+  "name": "SUKANAGARA",
+  "postalCode": "44174"
  },
  {
   "id": 3206120003,
   "districtId": 3206120,
-  "name": "SUKASENANG"
+  "districtName": "TANJUNGJAYA",
+  "name": "SUKASENANG",
+  "postalCode": "44191"
  },
  {
   "id": 3206120004,
   "districtId": 3206120,
-  "name": "TANJUNGJAYA"
+  "districtName": "TANJUNGJAYA",
+  "name": "TANJUNGJAYA",
+  "postalCode": "35613"
  },
  {
   "id": 3206120005,
   "districtId": 3206120,
-  "name": "CINTAJAYA"
+  "districtName": "TANJUNGJAYA",
+  "name": "CINTAJAYA",
+  "postalCode": "45377"
  },
  {
   "id": 3206120006,
   "districtId": 3206120,
-  "name": "CIBALANARIK"
+  "districtName": "TANJUNGJAYA",
+  "name": "CIBALANARIK",
+  "postalCode": "46184"
  },
  {
   "id": 3206120007,
   "districtId": 3206120,
-  "name": "CILOLOHAN"
+  "districtName": "TANJUNGJAYA",
+  "name": "CILOLOHAN",
+  "postalCode": "46184"
  }
 ]

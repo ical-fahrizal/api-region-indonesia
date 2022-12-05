@@ -2,61 +2,85 @@
  {
   "id": 3311110001,
   "districtId": 3311110,
-  "name": "SANGGUNG"
+  "districtName": "GATAK",
+  "name": "SANGGUNG",
+  "postalCode": "57557"
  },
  {
   "id": 3311110002,
   "districtId": 3311110,
-  "name": "KAGOKAN"
+  "districtName": "GATAK",
+  "name": "KAGOKAN",
+  "postalCode": "57557"
  },
  {
   "id": 3311110003,
   "districtId": 3311110,
-  "name": "BLIMBING"
+  "districtName": "GATAK",
+  "name": "BLIMBING",
+  "postalCode": "52364"
  },
  {
   "id": 3311110004,
   "districtId": 3311110,
-  "name": "KRAJAN"
+  "districtName": "GATAK",
+  "name": "KRAJAN",
+  "postalCode": "57557"
  },
  {
   "id": 3311110006,
   "districtId": 3311110,
-  "name": "JATI"
+  "districtName": "GATAK",
+  "name": "JATI",
+  "postalCode": "20152"
  },
  {
   "id": 3311110007,
   "districtId": 3311110,
-  "name": "TROSEMI"
+  "districtName": "GATAK",
+  "name": "TROSEMI",
+  "postalCode": "57557"
  },
  {
   "id": 3311110008,
   "districtId": 3311110,
-  "name": "LUWANG"
+  "districtName": "GATAK",
+  "name": "LUWANG",
+  "postalCode": "57557"
  },
  {
   "id": 3311110009,
   "districtId": 3311110,
-  "name": "KLASEMAN"
+  "districtName": "GATAK",
+  "name": "KLASEMAN",
+  "postalCode": "57557"
  },
  {
   "id": 3311110011,
   "districtId": 3311110,
-  "name": "SRATEN"
+  "districtName": "GATAK",
+  "name": "SRATEN",
+  "postalCode": "57557"
  },
  {
   "id": 3311110012,
   "districtId": 3311110,
-  "name": "WIRONANGGAN"
+  "districtName": "GATAK",
+  "name": "WIRONANGGAN",
+  "postalCode": "57557"
  },
  {
   "id": 3311110013,
   "districtId": 3311110,
-  "name": "TRANGSAN"
+  "districtName": "GATAK",
+  "name": "TRANGSAN",
+  "postalCode": "57557"
  },
  {
   "id": 3311110014,
   "districtId": 3311110,
-  "name": "MAYANG"
+  "districtName": "GATAK",
+  "name": "MAYANG",
+  "postalCode": "21183"
  }
 ]

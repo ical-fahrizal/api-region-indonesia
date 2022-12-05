@@ -2,81 +2,113 @@
  {
   "id": 3203190001,
   "districtId": 3203190,
-  "name": "SUKAMANAH"
+  "districtName": "KARANGTENGAH",
+  "name": "SUKAMANAH",
+  "postalCode": "43273"
  },
  {
   "id": 3203190002,
   "districtId": 3203190,
-  "name": "SINDANGASIH"
+  "districtName": "KARANGTENGAH",
+  "name": "SINDANGASIH",
+  "postalCode": "46383"
  },
  {
   "id": 3203190003,
   "districtId": 3203190,
-  "name": "LANGENSARI"
+  "districtName": "KARANGTENGAH",
+  "name": "LANGENSARI",
+  "postalCode": "41259"
  },
  {
   "id": 3203190004,
   "districtId": 3203190,
-  "name": "SUKASARI"
+  "districtName": "KARANGTENGAH",
+  "name": "SUKASARI",
+  "postalCode": "20986"
  },
  {
   "id": 3203190005,
   "districtId": 3203190,
-  "name": "MALEBER"
+  "districtName": "KARANGTENGAH",
+  "name": "MALEBER",
+  "postalCode": "46214"
  },
  {
   "id": 3203190006,
   "districtId": 3203190,
-  "name": "SABANDAR"
+  "districtName": "KARANGTENGAH",
+  "name": "SABANDAR",
+  "postalCode": "43281"
  },
  {
   "id": 3203190007,
   "districtId": 3203190,
-  "name": "BOJONG"
+  "districtName": "KARANGTENGAH",
+  "name": "BOJONG",
+  "postalCode": "34385"
  },
  {
   "id": 3203190008,
   "districtId": 3203190,
-  "name": "HEGARMANAH"
+  "districtName": "KARANGTENGAH",
+  "name": "HEGARMANAH",
+  "postalCode": "41151"
  },
  {
   "id": 3203190009,
   "districtId": 3203190,
-  "name": "BABAKANCARINGIN"
+  "districtName": "KARANGTENGAH",
+  "name": "BABAKANCARINGIN",
+  "postalCode": "43281"
  },
  {
   "id": 3203190010,
   "districtId": 3203190,
-  "name": "CIHERANG"
+  "districtName": "KARANGTENGAH",
+  "name": "CIHERANG",
+  "postalCode": "35379"
  },
  {
   "id": 3203190011,
   "districtId": 3203190,
-  "name": "SUKAJADI"
+  "districtName": "KARANGTENGAH",
+  "name": "SUKAJADI",
+  "postalCode": "24472"
  },
  {
   "id": 3203190012,
   "districtId": 3203190,
-  "name": "SUKASARANA"
+  "districtName": "KARANGTENGAH",
+  "name": "SUKASARANA",
+  "postalCode": "43281"
  },
  {
   "id": 3203190013,
   "districtId": 3203190,
-  "name": "SUKAMANTRI"
+  "districtName": "KARANGTENGAH",
+  "name": "SUKAMANTRI",
+  "postalCode": "46156"
  },
  {
   "id": 3203190014,
   "districtId": 3203190,
-  "name": "SUKAMULYA"
+  "districtName": "KARANGTENGAH",
+  "name": "SUKAMULYA",
+  "postalCode": "30657"
  },
  {
   "id": 3203190015,
   "districtId": 3203190,
-  "name": "SINDANGLAKA"
+  "districtName": "KARANGTENGAH",
+  "name": "SINDANGLAKA",
+  "postalCode": "43281"
  },
  {
   "id": 3203190016,
   "districtId": 3203190,
-  "name": "SUKATARIS"
+  "districtName": "KARANGTENGAH",
+  "name": "SUKATARIS",
+  "postalCode": "43281"
  }
 ]

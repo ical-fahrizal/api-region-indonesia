@@ -2,61 +2,85 @@
  {
   "id": 1706011001,
   "districtId": 1706011,
-  "name": "AIR RAMI"
+  "districtName": "AIR RAMI",
+  "name": "AIR RAMI",
+  "postalCode": "38764"
  },
  {
   "id": 1706011002,
   "districtId": 1706011,
-  "name": "RAMI MULIA"
+  "districtName": "AIR RAMI",
+  "name": "RAMI MULIA",
+  "postalCode": "38764"
  },
  {
   "id": 1706011003,
   "districtId": 1706011,
-  "name": "MEKAR JAYA"
+  "districtName": "AIR RAMI",
+  "name": "MEKAR JAYA",
+  "postalCode": "20771"
  },
  {
   "id": 1706011004,
   "districtId": 1706011,
-  "name": "DUSUN PULAU"
+  "districtName": "AIR RAMI",
+  "name": "DUSUN PULAU",
+  "postalCode": "38764"
  },
  {
   "id": 1706011005,
   "districtId": 1706011,
-  "name": "TALANG RIO"
+  "districtName": "AIR RAMI",
+  "name": "TALANG RIO",
+  "postalCode": "38764"
  },
  {
   "id": 1706011006,
   "districtId": 1706011,
-  "name": "ARGA JAYA"
+  "districtName": "AIR RAMI",
+  "name": "ARGA JAYA",
+  "postalCode": "38764"
  },
  {
   "id": 1706011007,
   "districtId": 1706011,
-  "name": "IPUH II/CE SP IV /MAKMUR JAYA"
+  "districtName": "AIR RAMI",
+  "name": "IPUH II/CE SP IV /MAKMUR JAYA",
+  "postalCode": ""
  },
  {
   "id": 1706011008,
   "districtId": 1706011,
-  "name": "MARGA MULIA"
+  "districtName": "AIR RAMI",
+  "name": "MARGA MULIA",
+  "postalCode": "31452"
  },
  {
   "id": 1706011009,
   "districtId": 1706011,
-  "name": "BUKIT HARAPAN"
+  "districtName": "AIR RAMI",
+  "name": "BUKIT HARAPAN",
+  "postalCode": "24784"
  },
  {
   "id": 1706011010,
   "districtId": 1706011,
-  "name": "TIRTA KENCANA"
+  "districtName": "AIR RAMI",
+  "name": "TIRTA KENCANA",
+  "postalCode": "30972"
  },
  {
   "id": 1706011011,
   "districtId": 1706011,
-  "name": "BUKIT MULYA"
+  "districtName": "AIR RAMI",
+  "name": "BUKIT MULYA",
+  "postalCode": "36365"
  },
  {
   "id": 1706011012,
   "districtId": 1706011,
-  "name": "CINTA ASIH"
+  "districtName": "AIR RAMI",
+  "name": "CINTA ASIH",
+  "postalCode": "38764"
  }
 ]

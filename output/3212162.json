@@ -2,31 +2,43 @@
  {
   "id": 3212162001,
   "districtId": 3212162,
-  "name": "PAGIRIKAN"
+  "districtName": "PASEKAN",
+  "name": "PAGIRIKAN",
+  "postalCode": "45227"
  },
  {
   "id": 3212162002,
   "districtId": 3212162,
-  "name": "PASEKAN"
+  "districtName": "PASEKAN",
+  "name": "PASEKAN",
+  "postalCode": "45228"
  },
  {
   "id": 3212162003,
   "districtId": 3212162,
-  "name": "BRONDONG"
+  "districtName": "PASEKAN",
+  "name": "BRONDONG",
+  "postalCode": "45219"
  },
  {
   "id": 3212162004,
   "districtId": 3212162,
-  "name": "PABEANILIR"
+  "districtName": "PASEKAN",
+  "name": "PABEANILIR",
+  "postalCode": "45219"
  },
  {
   "id": 3212162005,
   "districtId": 3212162,
-  "name": "TOTORAN"
+  "districtName": "PASEKAN",
+  "name": "TOTORAN",
+  "postalCode": "45229"
  },
  {
   "id": 3212162006,
   "districtId": 3212162,
-  "name": "KARANGANYAR"
+  "districtName": "PASEKAN",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  }
 ]

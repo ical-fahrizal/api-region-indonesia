@@ -2,46 +2,64 @@
  {
   "id": 7110030001,
   "districtId": 7110030,
-  "name": "LINAWAN"
+  "districtName": "PINOLOSIAN",
+  "name": "LINAWAN",
+  "postalCode": "95775"
  },
  {
   "id": 7110030002,
   "districtId": 7110030,
-  "name": "LINAWAN I"
+  "districtName": "PINOLOSIAN",
+  "name": "LINAWAN I",
+  "postalCode": "95775"
  },
  {
   "id": 7110030004,
   "districtId": 7110030,
-  "name": "ILOMATA"
+  "districtName": "PINOLOSIAN",
+  "name": "ILOMATA",
+  "postalCode": "95775"
  },
  {
   "id": 7110030005,
   "districtId": 7110030,
-  "name": "PINOLOSIAN SELATAN"
+  "districtName": "PINOLOSIAN",
+  "name": "PINOLOSIAN SELATAN",
+  "postalCode": "95775"
  },
  {
   "id": 7110030006,
   "districtId": 7110030,
-  "name": "PINOLOSIAN"
+  "districtName": "PINOLOSIAN",
+  "name": "PINOLOSIAN",
+  "postalCode": "95775"
  },
  {
   "id": 7110030007,
   "districtId": 7110030,
-  "name": "TOLOTOYON"
+  "districtName": "PINOLOSIAN",
+  "name": "TOLOTOYON",
+  "postalCode": "95775"
  },
  {
   "id": 7110030008,
   "districtId": 7110030,
-  "name": "KOMBOT"
+  "districtName": "PINOLOSIAN",
+  "name": "KOMBOT",
+  "postalCode": "95775"
  },
  {
   "id": 7110030009,
   "districtId": 7110030,
-  "name": "LUNGKAP"
+  "districtName": "PINOLOSIAN",
+  "name": "LUNGKAP",
+  "postalCode": "95775"
  },
  {
   "id": 7110030010,
   "districtId": 7110030,
-  "name": "KOMBOT TIMUR"
+  "districtName": "PINOLOSIAN",
+  "name": "KOMBOT TIMUR",
+  "postalCode": ""
  }
 ]

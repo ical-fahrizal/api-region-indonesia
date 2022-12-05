@@ -2,61 +2,85 @@
  {
   "id": 8206042001,
   "districtId": 8206042,
-  "name": "SOSOLAT"
+  "districtName": "MABA UTARA",
+  "name": "SOSOLAT",
+  "postalCode": "97862"
  },
  {
   "id": 8206042002,
   "districtId": 8206042,
-  "name": "LOLASITA"
+  "districtName": "MABA UTARA",
+  "name": "LOLASITA",
+  "postalCode": "97862"
  },
  {
   "id": 8206042003,
   "districtId": 8206042,
-  "name": "DOROSAGO"
+  "districtName": "MABA UTARA",
+  "name": "DOROSAGO",
+  "postalCode": ""
  },
  {
   "id": 8206042004,
   "districtId": 8206042,
-  "name": "WASILEO"
+  "districtName": "MABA UTARA",
+  "name": "WASILEO",
+  "postalCode": "97862"
  },
  {
   "id": 8206042005,
   "districtId": 8206042,
-  "name": "PATLIAN"
+  "districtName": "MABA UTARA",
+  "name": "PATLIAN",
+  "postalCode": ""
  },
  {
   "id": 8206042006,
   "districtId": 8206042,
-  "name": "PUMLANGA"
+  "districtName": "MABA UTARA",
+  "name": "PUMLANGA",
+  "postalCode": "97862"
  },
  {
   "id": 8206042007,
   "districtId": 8206042,
-  "name": "JARA JARA"
+  "districtName": "MABA UTARA",
+  "name": "JARA JARA",
+  "postalCode": ""
  },
  {
   "id": 8206042008,
   "districtId": 8206042,
-  "name": "UPT PATLIAN SP I"
+  "districtName": "MABA UTARA",
+  "name": "UPT PATLIAN SP I",
+  "postalCode": ""
  },
  {
   "id": 8206042009,
   "districtId": 8206042,
-  "name": "UPT PATLIAN SP II"
+  "districtName": "MABA UTARA",
+  "name": "UPT PATLIAN SP II",
+  "postalCode": ""
  },
  {
   "id": 8206042010,
   "districtId": 8206042,
-  "name": "LILI"
+  "districtName": "MABA UTARA",
+  "name": "LILI",
+  "postalCode": "97862"
  },
  {
   "id": 8206042011,
   "districtId": 8206042,
-  "name": "DOROMOI"
+  "districtName": "MABA UTARA",
+  "name": "DOROMOI",
+  "postalCode": "97862"
  },
  {
   "id": 8206042012,
   "districtId": 8206042,
-  "name": "PATLEAN JAYA"
+  "districtName": "MABA UTARA",
+  "name": "PATLEAN JAYA",
+  "postalCode": "97862"
  }
 ]

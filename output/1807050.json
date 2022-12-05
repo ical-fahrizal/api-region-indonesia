@@ -2,56 +2,78 @@
  {
   "id": 1807050002,
   "districtId": 1807050,
-  "name": "GIRI HARJO"
+  "districtName": "BAHUGA",
+  "name": "GIRI HARJO",
+  "postalCode": "34763"
  },
  {
   "id": 1807050003,
   "districtId": 1807050,
-  "name": "TULANG BAWANG"
+  "districtName": "BAHUGA",
+  "name": "TULANG BAWANG",
+  "postalCode": "32387"
  },
  {
   "id": 1807050004,
   "districtId": 1807050,
-  "name": "MESIR UDIK"
+  "districtName": "BAHUGA",
+  "name": "MESIR UDIK",
+  "postalCode": "34763"
  },
  {
   "id": 1807050005,
   "districtId": 1807050,
-  "name": "MESIR ILIR"
+  "districtName": "BAHUGA",
+  "name": "MESIR ILIR",
+  "postalCode": "34763"
  },
  {
   "id": 1807050020,
   "districtId": 1807050,
-  "name": "BUMI AGUNG WATAS"
+  "districtName": "BAHUGA",
+  "name": "BUMI AGUNG WATAS",
+  "postalCode": ""
  },
  {
   "id": 1807050021,
   "districtId": 1807050,
-  "name": "SERDANG KURING"
+  "districtName": "BAHUGA",
+  "name": "SERDANG KURING",
+  "postalCode": "34763"
  },
  {
   "id": 1807050022,
   "districtId": 1807050,
-  "name": "SAPTO RENGGO"
+  "districtName": "BAHUGA",
+  "name": "SAPTO RENGGO",
+  "postalCode": "34763"
  },
  {
   "id": 1807050023,
   "districtId": 1807050,
-  "name": "BUMI AGUNG"
+  "districtName": "BAHUGA",
+  "name": "BUMI AGUNG",
+  "postalCode": "31521"
  },
  {
   "id": 1807050024,
   "districtId": 1807050,
-  "name": "MEKAR JAYA"
+  "districtName": "BAHUGA",
+  "name": "MEKAR JAYA",
+  "postalCode": "20771"
  },
  {
   "id": 1807050025,
   "districtId": 1807050,
-  "name": "KOTA DEWA"
+  "districtName": "BAHUGA",
+  "name": "KOTA DEWA",
+  "postalCode": ""
  },
  {
   "id": 1807050026,
   "districtId": 1807050,
-  "name": "DEWA AGUNG"
+  "districtName": "BAHUGA",
+  "name": "DEWA AGUNG",
+  "postalCode": ""
  }
 ]

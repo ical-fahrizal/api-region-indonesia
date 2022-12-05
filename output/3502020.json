@@ -2,101 +2,141 @@
  {
   "id": 3502020001,
   "districtId": 3502020,
-  "name": "TUGUREJO"
+  "districtName": "SLAHUNG",
+  "name": "TUGUREJO",
+  "postalCode": "39373"
  },
  {
   "id": 3502020002,
   "districtId": 3502020,
-  "name": "SENEPO"
+  "districtName": "SLAHUNG",
+  "name": "SENEPO",
+  "postalCode": "63463"
  },
  {
   "id": 3502020003,
   "districtId": 3502020,
-  "name": "SLAHUNG"
+  "districtName": "SLAHUNG",
+  "name": "SLAHUNG",
+  "postalCode": "63463"
  },
  {
   "id": 3502020004,
   "districtId": 3502020,
-  "name": "CALUK"
+  "districtName": "SLAHUNG",
+  "name": "CALUK",
+  "postalCode": "63463"
  },
  {
   "id": 3502020005,
   "districtId": 3502020,
-  "name": "BROTO"
+  "districtName": "SLAHUNG",
+  "name": "BROTO",
+  "postalCode": "63463"
  },
  {
   "id": 3502020006,
   "districtId": 3502020,
-  "name": "MENGGARE"
+  "districtName": "SLAHUNG",
+  "name": "MENGGARE",
+  "postalCode": "63463"
  },
  {
   "id": 3502020007,
   "districtId": 3502020,
-  "name": "KAMBENG"
+  "districtName": "SLAHUNG",
+  "name": "KAMBENG",
+  "postalCode": "63463"
  },
  {
   "id": 3502020008,
   "districtId": 3502020,
-  "name": "WATES"
+  "districtName": "SLAHUNG",
+  "name": "WATES",
+  "postalCode": "32273"
  },
  {
   "id": 3502020009,
   "districtId": 3502020,
-  "name": "NGILO-ILO"
+  "districtName": "SLAHUNG",
+  "name": "NGILO-ILO",
+  "postalCode": "63463"
  },
  {
   "id": 3502020010,
   "districtId": 3502020,
-  "name": "DURI"
+  "districtName": "SLAHUNG",
+  "name": "DURI",
+  "postalCode": "63463"
  },
  {
   "id": 3502020011,
   "districtId": 3502020,
-  "name": "NGLONING"
+  "districtName": "SLAHUNG",
+  "name": "NGLONING",
+  "postalCode": "63463"
  },
  {
   "id": 3502020012,
   "districtId": 3502020,
-  "name": "PLANCUNGAN"
+  "districtName": "SLAHUNG",
+  "name": "PLANCUNGAN",
+  "postalCode": "63463"
  },
  {
   "id": 3502020014,
   "districtId": 3502020,
-  "name": "GALAK"
+  "districtName": "SLAHUNG",
+  "name": "GALAK",
+  "postalCode": "63463"
  },
  {
   "id": 3502020016,
   "districtId": 3502020,
-  "name": "SIMO"
+  "districtName": "SLAHUNG",
+  "name": "SIMO",
+  "postalCode": "58182"
  },
  {
   "id": 3502020017,
   "districtId": 3502020,
-  "name": "CRABAK"
+  "districtName": "SLAHUNG",
+  "name": "CRABAK",
+  "postalCode": "63463"
  },
  {
   "id": 3502020018,
   "districtId": 3502020,
-  "name": "MOJOPITU"
+  "districtName": "SLAHUNG",
+  "name": "MOJOPITU",
+  "postalCode": "63463"
  },
  {
   "id": 3502020019,
   "districtId": 3502020,
-  "name": "GUNDIK"
+  "districtName": "SLAHUNG",
+  "name": "GUNDIK",
+  "postalCode": "63463"
  },
  {
   "id": 3502020020,
   "districtId": 3502020,
-  "name": "NAILAN"
+  "districtName": "SLAHUNG",
+  "name": "NAILAN",
+  "postalCode": "63463"
  },
  {
   "id": 3502020021,
   "districtId": 3502020,
-  "name": "GOMBANG"
+  "districtName": "SLAHUNG",
+  "name": "GOMBANG",
+  "postalCode": "45155"
  },
  {
   "id": 3502020022,
   "districtId": 3502020,
-  "name": "JANTI"
+  "districtName": "SLAHUNG",
+  "name": "JANTI",
+  "postalCode": "57474"
  }
 ]

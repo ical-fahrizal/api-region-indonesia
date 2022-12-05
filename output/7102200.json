@@ -2,56 +2,78 @@
  {
   "id": 7102200001,
   "districtId": 7102200,
-  "name": "PULUTAN"
+  "districtName": "REMBOKEN",
+  "name": "PULUTAN",
+  "postalCode": "54172"
  },
  {
   "id": 7102200002,
   "districtId": 7102200,
-  "name": "SINUIAN"
+  "districtName": "REMBOKEN",
+  "name": "SINUIAN",
+  "postalCode": "95681"
  },
  {
   "id": 7102200003,
   "districtId": 7102200,
-  "name": "KAIMA"
+  "districtName": "REMBOKEN",
+  "name": "KAIMA",
+  "postalCode": "95372"
  },
  {
   "id": 7102200004,
   "districtId": 7102200,
-  "name": "PAREPEY"
+  "districtName": "REMBOKEN",
+  "name": "PAREPEY",
+  "postalCode": ""
  },
  {
   "id": 7102200005,
   "districtId": 7102200,
-  "name": "KASURATAN"
+  "districtName": "REMBOKEN",
+  "name": "KASURATAN",
+  "postalCode": "95681"
  },
  {
   "id": 7102200006,
   "districtId": 7102200,
-  "name": "SENDANGAN"
+  "districtName": "REMBOKEN",
+  "name": "SENDANGAN",
+  "postalCode": "95682"
  },
  {
   "id": 7102200007,
   "districtId": 7102200,
-  "name": "TIMU"
+  "districtName": "REMBOKEN",
+  "name": "TIMU",
+  "postalCode": "84161"
  },
  {
   "id": 7102200008,
   "districtId": 7102200,
-  "name": "TAMPUSU"
+  "districtName": "REMBOKEN",
+  "name": "TAMPUSU",
+  "postalCode": "95681"
  },
  {
   "id": 7102200009,
   "districtId": 7102200,
-  "name": "TALIKURAN"
+  "districtName": "REMBOKEN",
+  "name": "TALIKURAN",
+  "postalCode": "95682"
  },
  {
   "id": 7102200010,
   "districtId": 7102200,
-  "name": "PASLATEN"
+  "districtName": "REMBOKEN",
+  "name": "PASLATEN",
+  "postalCode": "95682"
  },
  {
   "id": 7102200011,
   "districtId": 7102200,
-  "name": "LELEKO"
+  "districtName": "REMBOKEN",
+  "name": "LELEKO",
+  "postalCode": "95681"
  }
 ]

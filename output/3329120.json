@@ -2,56 +2,78 @@
  {
   "id": 3329120001,
   "districtId": 3329120,
-  "name": "KRADENAN"
+  "districtName": "KERSANA",
+  "name": "KRADENAN",
+  "postalCode": "54392"
  },
  {
   "id": 3329120002,
   "districtId": 3329120,
-  "name": "SINDANGJAYA"
+  "districtName": "KERSANA",
+  "name": "SINDANGJAYA",
+  "postalCode": "46195"
  },
  {
   "id": 3329120004,
   "districtId": 3329120,
-  "name": "KUBANGPARI"
+  "districtName": "KERSANA",
+  "name": "KUBANGPARI",
+  "postalCode": "52264"
  },
  {
   "id": 3329120005,
   "districtId": 3329120,
-  "name": "CIKANDANG"
+  "districtName": "KERSANA",
+  "name": "CIKANDANG",
+  "postalCode": "44171"
  },
  {
   "id": 3329120006,
   "districtId": 3329120,
-  "name": "CIGEDOG"
+  "districtName": "KERSANA",
+  "name": "CIGEDOG",
+  "postalCode": "52264"
  },
  {
   "id": 3329120007,
   "districtId": 3329120,
-  "name": "CIAMPEL"
+  "districtName": "KERSANA",
+  "name": "CIAMPEL",
+  "postalCode": "52264"
  },
  {
   "id": 3329120008,
   "districtId": 3329120,
-  "name": "JAGAPURA"
+  "districtName": "KERSANA",
+  "name": "JAGAPURA",
+  "postalCode": "52264"
  },
  {
   "id": 3329120009,
   "districtId": 3329120,
-  "name": "KERSANA"
+  "districtName": "KERSANA",
+  "name": "KERSANA",
+  "postalCode": "52264"
  },
  {
   "id": 3329120011,
   "districtId": 3329120,
-  "name": "KRAMATSAMPANG"
+  "districtName": "KERSANA",
+  "name": "KRAMATSAMPANG",
+  "postalCode": "52264"
  },
  {
   "id": 3329120012,
   "districtId": 3329120,
-  "name": "LIMBANGAN"
+  "districtName": "KERSANA",
+  "name": "LIMBANGAN",
+  "postalCode": "45282"
  },
  {
   "id": 3329120013,
   "districtId": 3329120,
-  "name": "SUTAMAJA"
+  "districtName": "KERSANA",
+  "name": "SUTAMAJA",
+  "postalCode": "52264"
  }
 ]

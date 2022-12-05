@@ -2,56 +2,78 @@
  {
   "id": 3209130006,
   "districtId": 3209130,
-  "name": "CILUKRAK"
+  "districtName": "PALIMANAN",
+  "name": "CILUKRAK",
+  "postalCode": "45161"
  },
  {
   "id": 3209130007,
   "districtId": 3209130,
-  "name": "BALERANTE"
+  "districtName": "PALIMANAN",
+  "name": "BALERANTE",
+  "postalCode": "45161"
  },
  {
   "id": 3209130008,
   "districtId": 3209130,
-  "name": "PANONGAN"
+  "districtName": "PALIMANAN",
+  "name": "PANONGAN",
+  "postalCode": "45458"
  },
  {
   "id": 3209130009,
   "districtId": 3209130,
-  "name": "BEBERAN"
+  "districtName": "PALIMANAN",
+  "name": "BEBERAN",
+  "postalCode": "45161"
  },
  {
   "id": 3209130010,
   "districtId": 3209130,
-  "name": "SEMPLO"
+  "districtName": "PALIMANAN",
+  "name": "SEMPLO",
+  "postalCode": "45161"
  },
  {
   "id": 3209130011,
   "districtId": 3209130,
-  "name": "PALIMANAN TIMUR"
+  "districtName": "PALIMANAN",
+  "name": "PALIMANAN TIMUR",
+  "postalCode": "45161"
  },
  {
   "id": 3209130014,
   "districtId": 3209130,
-  "name": "PEGAGAN"
+  "districtName": "PALIMANAN",
+  "name": "PEGAGAN",
+  "postalCode": "45253"
  },
  {
   "id": 3209130015,
   "districtId": 3209130,
-  "name": "LUNGBENDA"
+  "districtName": "PALIMANAN",
+  "name": "LUNGBENDA",
+  "postalCode": "45161"
  },
  {
   "id": 3209130016,
   "districtId": 3209130,
-  "name": "CIAWI"
+  "districtName": "PALIMANAN",
+  "name": "CIAWI",
+  "postalCode": "16720"
  },
  {
   "id": 3209130017,
   "districtId": 3209130,
-  "name": "CENGKUANG"
+  "districtName": "PALIMANAN",
+  "name": "CENGKUANG",
+  "postalCode": "45161"
  },
  {
   "id": 3209130018,
   "districtId": 3209130,
-  "name": "TEGALKARANG"
+  "districtName": "PALIMANAN",
+  "name": "TEGALKARANG",
+  "postalCode": "45161"
  }
 ]

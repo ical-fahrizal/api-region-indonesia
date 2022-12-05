@@ -2,46 +2,64 @@
  {
   "id": 1802042001,
   "districtId": 1802042,
-  "name": "GISTING ATAS"
+  "districtName": "GISTING",
+  "name": "GISTING ATAS",
+  "postalCode": "35378"
  },
  {
   "id": 1802042002,
   "districtId": 1802042,
-  "name": "GISTING BAWAH"
+  "districtName": "GISTING",
+  "name": "GISTING BAWAH",
+  "postalCode": "35378"
  },
  {
   "id": 1802042003,
   "districtId": 1802042,
-  "name": "PURWODADI"
+  "districtName": "GISTING",
+  "name": "PURWODADI",
+  "postalCode": "24652"
  },
  {
   "id": 1802042004,
   "districtId": 1802042,
-  "name": "KUTA DALOM"
+  "districtName": "GISTING",
+  "name": "KUTA DALOM",
+  "postalCode": ""
  },
  {
   "id": 1802042005,
   "districtId": 1802042,
-  "name": "BANJARMANIS"
+  "districtName": "GISTING",
+  "name": "BANJARMANIS",
+  "postalCode": "35378"
  },
  {
   "id": 1802042006,
   "districtId": 1802042,
-  "name": "CAMPANG"
+  "districtName": "GISTING",
+  "name": "CAMPANG",
+  "postalCode": "35378"
  },
  {
   "id": 1802042007,
   "districtId": 1802042,
-  "name": "SIDOKATON"
+  "districtName": "GISTING",
+  "name": "SIDOKATON",
+  "postalCode": "35378"
  },
  {
   "id": 1802042008,
   "districtId": 1802042,
-  "name": "LANBAUW"
+  "districtName": "GISTING",
+  "name": "LANBAUW",
+  "postalCode": ""
  },
  {
   "id": 1802042009,
   "districtId": 1802042,
-  "name": "GISTING PERMAI"
+  "districtName": "GISTING",
+  "name": "GISTING PERMAI",
+  "postalCode": "35378"
  }
 ]

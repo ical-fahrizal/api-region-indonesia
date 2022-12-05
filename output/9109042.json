@@ -2,36 +2,50 @@
  {
   "id": 9109042001,
   "districtId": 9109042,
-  "name": "SYUAU"
+  "districtName": "KWESEFO",
+  "name": "SYUAU",
+  "postalCode": "98473"
  },
  {
   "id": 9109042002,
   "districtId": 9109042,
-  "name": "BATDE"
+  "districtName": "KWESEFO",
+  "name": "BATDE",
+  "postalCode": ""
  },
  {
   "id": 9109042003,
   "districtId": 9109042,
-  "name": "KWESEFO"
+  "districtName": "KWESEFO",
+  "name": "KWESEFO",
+  "postalCode": ""
  },
  {
   "id": 9109042004,
   "districtId": 9109042,
-  "name": "KRANFOTSU"
+  "districtName": "KWESEFO",
+  "name": "KRANFOTSU",
+  "postalCode": "98473"
  },
  {
   "id": 9109042005,
   "districtId": 9109042,
-  "name": "BAO"
+  "districtName": "KWESEFO",
+  "name": "BAO",
+  "postalCode": ""
  },
  {
   "id": 9109042006,
   "districtId": 9109042,
-  "name": "SYUMBI"
+  "districtName": "KWESEFO",
+  "name": "SYUMBI",
+  "postalCode": ""
  },
  {
   "id": 9109042007,
   "districtId": 9109042,
-  "name": "JOKBUJOKER"
+  "districtName": "KWESEFO",
+  "name": "JOKBUJOKER",
+  "postalCode": ""
  }
 ]

@@ -2,11 +2,15 @@
  {
   "id": 9429023001,
   "districtId": 9429023,
-  "name": "WENDAMA"
+  "districtName": "EMBETPEM",
+  "name": "WENDAMA",
+  "postalCode": "99565"
  },
  {
   "id": 9429023003,
   "districtId": 9429023,
-  "name": "YENAI"
+  "districtName": "EMBETPEM",
+  "name": "YENAI",
+  "postalCode": "99565"
  }
 ]

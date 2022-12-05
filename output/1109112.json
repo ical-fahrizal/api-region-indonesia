@@ -2,66 +2,92 @@
  {
   "id": 1109112001,
   "districtId": 1109112,
-  "name": "ALUE"
+  "districtName": "TITEUE",
+  "name": "ALUE",
+  "postalCode": "24184"
  },
  {
   "id": 1109112002,
   "districtId": 1109112,
-  "name": "BLANG THO"
+  "districtName": "TITEUE",
+  "name": "BLANG THO",
+  "postalCode": "24165"
  },
  {
   "id": 1109112003,
   "districtId": 1109112,
-  "name": "ASAN TONGPEUDENG"
+  "districtName": "TITEUE",
+  "name": "ASAN TONGPEUDENG",
+  "postalCode": ""
  },
  {
   "id": 1109112004,
   "districtId": 1109112,
-  "name": "MESJID TONGPEUDENG"
+  "districtName": "TITEUE",
+  "name": "MESJID TONGPEUDENG",
+  "postalCode": ""
  },
  {
   "id": 1109112005,
   "districtId": 1109112,
-  "name": "PULO LOIH"
+  "districtName": "TITEUE",
+  "name": "PULO LOIH",
+  "postalCode": ""
  },
  {
   "id": 1109112006,
   "districtId": 1109112,
-  "name": "PULO RAYA"
+  "districtName": "TITEUE",
+  "name": "PULO RAYA",
+  "postalCode": "23656"
  },
  {
   "id": 1109112007,
   "districtId": 1109112,
-  "name": "PALOH NALEUNG"
+  "districtName": "TITEUE",
+  "name": "PALOH NALEUNG",
+  "postalCode": ""
  },
  {
   "id": 1109112008,
   "districtId": 1109112,
-  "name": "DAYAH MENARA"
+  "districtName": "TITEUE",
+  "name": "DAYAH MENARA",
+  "postalCode": "24165"
  },
  {
   "id": 1109112009,
   "districtId": 1109112,
-  "name": "PANTE SIREN"
+  "districtName": "TITEUE",
+  "name": "PANTE SIREN",
+  "postalCode": "24165"
  },
  {
   "id": 1109112010,
   "districtId": 1109112,
-  "name": "UKE"
+  "districtName": "TITEUE",
+  "name": "UKE",
+  "postalCode": ""
  },
  {
   "id": 1109112011,
   "districtId": 1109112,
-  "name": "PANTE KULU"
+  "districtName": "TITEUE",
+  "name": "PANTE KULU",
+  "postalCode": "24165"
  },
  {
   "id": 1109112012,
   "districtId": 1109112,
-  "name": "CUT"
+  "districtName": "TITEUE",
+  "name": "CUT",
+  "postalCode": "24161"
  },
  {
   "id": 1109112013,
   "districtId": 1109112,
-  "name": "LINGKOK"
+  "districtName": "TITEUE",
+  "name": "LINGKOK",
+  "postalCode": "24164"
  }
 ]

@@ -2,56 +2,78 @@
  {
   "id": 7204030002,
   "districtId": 7204030,
-  "name": "TONUSU"
+  "districtName": "PAMONA PUSALEMBA",
+  "name": "TONUSU",
+  "postalCode": "94663"
  },
  {
   "id": 7204030003,
   "districtId": 7204030,
-  "name": "MAYAKELI"
+  "districtName": "PAMONA PUSALEMBA",
+  "name": "MAYAKELI",
+  "postalCode": "94663"
  },
  {
   "id": 7204030004,
   "districtId": 7204030,
-  "name": "BUYUMPONDOLI"
+  "districtName": "PAMONA PUSALEMBA",
+  "name": "BUYUMPONDOLI",
+  "postalCode": "94663"
  },
  {
   "id": 7204030005,
   "districtId": 7204030,
-  "name": "PAMONA"
+  "districtName": "PAMONA PUSALEMBA",
+  "name": "PAMONA",
+  "postalCode": "94663"
  },
  {
   "id": 7204030008,
   "districtId": 7204030,
-  "name": "TENTENA"
+  "districtName": "PAMONA PUSALEMBA",
+  "name": "TENTENA",
+  "postalCode": "94663"
  },
  {
   "id": 7204030009,
   "districtId": 7204030,
-  "name": "SANGELE"
+  "districtName": "PAMONA PUSALEMBA",
+  "name": "SANGELE",
+  "postalCode": "94663"
  },
  {
   "id": 7204030010,
   "districtId": 7204030,
-  "name": "PEURA"
+  "districtName": "PAMONA PUSALEMBA",
+  "name": "PEURA",
+  "postalCode": "94663"
  },
  {
   "id": 7204030011,
   "districtId": 7204030,
-  "name": "DULUMAI"
+  "districtName": "PAMONA PUSALEMBA",
+  "name": "DULUMAI",
+  "postalCode": "94663"
  },
  {
   "id": 7204030030,
   "districtId": 7204030,
-  "name": "LEBONI"
+  "districtName": "PAMONA PUSALEMBA",
+  "name": "LEBONI",
+  "postalCode": "94663"
  },
  {
   "id": 7204030031,
   "districtId": 7204030,
-  "name": "SOE"
+  "districtName": "PAMONA PUSALEMBA",
+  "name": "SOE",
+  "postalCode": "94663"
  },
  {
   "id": 7204030032,
   "districtId": 7204030,
-  "name": "WERA"
+  "districtName": "PAMONA PUSALEMBA",
+  "name": "WERA",
+  "postalCode": ""
  }
 ]

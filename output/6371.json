@@ -2,26 +2,31 @@
  {
   "id": 6371010,
   "regencieId": 6371,
+  "regencieName": "KOTA BANJARMASIN",
   "name": "BANJARMASIN SELATAN"
  },
  {
   "id": 6371020,
   "regencieId": 6371,
+  "regencieName": "KOTA BANJARMASIN",
   "name": "BANJARMASIN TIMUR"
  },
  {
   "id": 6371030,
   "regencieId": 6371,
+  "regencieName": "KOTA BANJARMASIN",
   "name": "BANJARMASIN BARAT"
  },
  {
   "id": 6371031,
   "regencieId": 6371,
+  "regencieName": "KOTA BANJARMASIN",
   "name": "BANJARMASIN TENGAH"
  },
  {
   "id": 6371040,
   "regencieId": 6371,
+  "regencieName": "KOTA BANJARMASIN",
   "name": "BANJARMASIN UTARA"
  }
 ]

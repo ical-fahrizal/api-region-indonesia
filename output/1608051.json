@@ -2,56 +2,78 @@
  {
   "id": 1608051002,
   "districtId": 1608051,
-  "name": "PELAWI"
+  "districtName": "BUAY RAWAN",
+  "name": "PELAWI",
+  "postalCode": "32211"
  },
  {
   "id": 1608051003,
   "districtId": 1608051,
-  "name": "BENDI"
+  "districtName": "BUAY RAWAN",
+  "name": "BENDI",
+  "postalCode": "32211"
  },
  {
   "id": 1608051004,
   "districtId": 1608051,
-  "name": "GUNUNG CAHYA"
+  "districtName": "BUAY RAWAN",
+  "name": "GUNUNG CAHYA",
+  "postalCode": "32211"
  },
  {
   "id": 1608051005,
   "districtId": 1608051,
-  "name": "RUOS"
+  "districtName": "BUAY RAWAN",
+  "name": "RUOS",
+  "postalCode": "32211"
  },
  {
   "id": 1608051006,
   "districtId": 1608051,
-  "name": "BUMI JAYA"
+  "districtName": "BUAY RAWAN",
+  "name": "BUMI JAYA",
+  "postalCode": "34583"
  },
  {
   "id": 1608051007,
   "districtId": 1608051,
-  "name": "BANJAR AGUNG"
+  "districtName": "BUAY RAWAN",
+  "name": "BANJAR AGUNG",
+  "postalCode": "32211"
  },
  {
   "id": 1608051008,
   "districtId": 1608051,
-  "name": "SUKAJAYA"
+  "districtName": "BUAY RAWAN",
+  "name": "SUKAJAYA",
+  "postalCode": "30756"
  },
  {
   "id": 1608051009,
   "districtId": 1608051,
-  "name": "RANTAU PANJANG"
+  "districtName": "BUAY RAWAN",
+  "name": "RANTAU PANJANG",
+  "postalCode": "24476"
  },
  {
   "id": 1608051010,
   "districtId": 1608051,
-  "name": "PEKUWOLAN"
+  "districtName": "BUAY RAWAN",
+  "name": "PEKUWOLAN",
+  "postalCode": ""
  },
  {
   "id": 1608051011,
   "districtId": 1608051,
-  "name": "MAJAR"
+  "districtName": "BUAY RAWAN",
+  "name": "MAJAR",
+  "postalCode": "32211"
  },
  {
   "id": 1608051012,
   "districtId": 1608051,
-  "name": "BUMI AGUNG JAYA"
+  "districtName": "BUAY RAWAN",
+  "name": "BUMI AGUNG JAYA",
+  "postalCode": "32211"
  }
 ]

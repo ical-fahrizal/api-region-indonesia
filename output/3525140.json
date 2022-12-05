@@ -2,121 +2,169 @@
  {
   "id": 3525140001,
   "districtId": 3525140,
-  "name": "SAWO"
+  "districtName": "DUKUN",
+  "name": "SAWO",
+  "postalCode": "22852"
  },
  {
   "id": 3525140002,
   "districtId": 3525140,
-  "name": "KARANGCANGKRING"
+  "districtName": "DUKUN",
+  "name": "KARANGCANGKRING",
+  "postalCode": "61155"
  },
  {
   "id": 3525140003,
   "districtId": 3525140,
-  "name": "GEDONGKEDOAN"
+  "districtName": "DUKUN",
+  "name": "GEDONGKEDOAN",
+  "postalCode": "61155"
  },
  {
   "id": 3525140004,
   "districtId": 3525140,
-  "name": "BULANGAN"
+  "districtName": "DUKUN",
+  "name": "BULANGAN",
+  "postalCode": "61155"
  },
  {
   "id": 3525140005,
   "districtId": 3525140,
-  "name": "WONOKERTO"
+  "districtName": "DUKUN",
+  "name": "WONOKERTO",
+  "postalCode": "31662"
  },
  {
   "id": 3525140006,
   "districtId": 3525140,
-  "name": "BANGERAN"
+  "districtName": "DUKUN",
+  "name": "BANGERAN",
+  "postalCode": "61354"
  },
  {
   "id": 3525140007,
   "districtId": 3525140,
-  "name": "TIREMENGGAL"
+  "districtName": "DUKUN",
+  "name": "TIREMENGGAL",
+  "postalCode": "61155"
  },
  {
   "id": 3525140008,
   "districtId": 3525140,
-  "name": "LOWAYU"
+  "districtName": "DUKUN",
+  "name": "LOWAYU",
+  "postalCode": "61155"
  },
  {
   "id": 3525140009,
   "districtId": 3525140,
-  "name": "PETIYIN TUNGGAL"
+  "districtName": "DUKUN",
+  "name": "PETIYIN TUNGGAL",
+  "postalCode": "61155"
  },
  {
   "id": 3525140011,
   "districtId": 3525140,
-  "name": "DUKUH KEMBAR"
+  "districtName": "DUKUN",
+  "name": "DUKUH KEMBAR",
+  "postalCode": "61155"
  },
  {
   "id": 3525140012,
   "districtId": 3525140,
-  "name": "MADUMULYOREJO"
+  "districtName": "DUKUN",
+  "name": "MADUMULYOREJO",
+  "postalCode": "61155"
  },
  {
   "id": 3525140013,
   "districtId": 3525140,
-  "name": "MENTARAS"
+  "districtName": "DUKUN",
+  "name": "MENTARAS",
+  "postalCode": "61155"
  },
  {
   "id": 3525140014,
   "districtId": 3525140,
-  "name": "MOJOPETUNG"
+  "districtName": "DUKUN",
+  "name": "MOJOPETUNG",
+  "postalCode": "61155"
  },
  {
   "id": 3525140015,
   "districtId": 3525140,
-  "name": "BARON"
+  "districtName": "DUKUN",
+  "name": "BARON",
+  "postalCode": "64394"
  },
  {
   "id": 3525140017,
   "districtId": 3525140,
-  "name": "IMA AN"
+  "districtName": "DUKUN",
+  "name": "IMA AN",
+  "postalCode": ""
  },
  {
   "id": 3525140018,
   "districtId": 3525140,
-  "name": "SEKARGADUNG"
+  "districtName": "DUKUN",
+  "name": "SEKARGADUNG",
+  "postalCode": "61155"
  },
  {
   "id": 3525140019,
   "districtId": 3525140,
-  "name": "BABAKBAWO"
+  "districtName": "DUKUN",
+  "name": "BABAKBAWO",
+  "postalCode": "61155"
  },
  {
   "id": 3525140020,
   "districtId": 3525140,
-  "name": "BABAKSARI"
+  "districtName": "DUKUN",
+  "name": "BABAKSARI",
+  "postalCode": "61155"
  },
  {
   "id": 3525140021,
   "districtId": 3525140,
-  "name": "SAMBOGUNUNG"
+  "districtName": "DUKUN",
+  "name": "SAMBOGUNUNG",
+  "postalCode": "61155"
  },
  {
   "id": 3525140022,
   "districtId": 3525140,
-  "name": "KALIREJO"
+  "districtName": "DUKUN",
+  "name": "KALIREJO",
+  "postalCode": "35353"
  },
  {
   "id": 3525140023,
   "districtId": 3525140,
-  "name": "SEMBUNGAN KIDUL"
+  "districtName": "DUKUN",
+  "name": "SEMBUNGAN KIDUL",
+  "postalCode": "61155"
  },
  {
   "id": 3525140024,
   "districtId": 3525140,
-  "name": "SEMBUNG ANYAR"
+  "districtName": "DUKUN",
+  "name": "SEMBUNG ANYAR",
+  "postalCode": "61155"
  },
  {
   "id": 3525140025,
   "districtId": 3525140,
-  "name": "DUKUNANYAR"
+  "districtName": "DUKUN",
+  "name": "DUKUNANYAR",
+  "postalCode": "61155"
  },
  {
   "id": 3525140026,
   "districtId": 3525140,
-  "name": "PADANG BANDUNG"
+  "districtName": "DUKUN",
+  "name": "PADANG BANDUNG",
+  "postalCode": "61155"
  }
 ]

@@ -2,61 +2,85 @@
  {
   "id": 3514140001,
   "districtId": 3514140,
-  "name": "BAUJENG"
+  "districtName": "BEJI",
+  "name": "BAUJENG",
+  "postalCode": "67154"
  },
  {
   "id": 3514140004,
   "districtId": 3514140,
-  "name": "SIDOWAYAH"
+  "districtName": "BEJI",
+  "name": "SIDOWAYAH",
+  "postalCode": "59262"
  },
  {
   "id": 3514140005,
   "districtId": 3514140,
-  "name": "GAJAHBENDO"
+  "districtName": "BEJI",
+  "name": "GAJAHBENDO",
+  "postalCode": "67154"
  },
  {
   "id": 3514140006,
   "districtId": 3514140,
-  "name": "BEJI"
+  "districtName": "BEJI",
+  "name": "BEJI",
+  "postalCode": "16421"
  },
  {
   "id": 3514140007,
   "districtId": 3514140,
-  "name": "GUNUNG SARI"
+  "districtName": "BEJI",
+  "name": "GUNUNG SARI",
+  "postalCode": "28471"
  },
  {
   "id": 3514140008,
   "districtId": 3514140,
-  "name": "WONOKOYO"
+  "districtName": "BEJI",
+  "name": "WONOKOYO",
+  "postalCode": "67154"
  },
  {
   "id": 3514140009,
   "districtId": 3514140,
-  "name": "GUNUNG GANGSIR"
+  "districtName": "BEJI",
+  "name": "GUNUNG GANGSIR",
+  "postalCode": "67154"
  },
  {
   "id": 3514140010,
   "districtId": 3514140,
-  "name": "CANGKRING MALANG"
+  "districtName": "BEJI",
+  "name": "CANGKRING MALANG",
+  "postalCode": "67154"
  },
  {
   "id": 3514140011,
   "districtId": 3514140,
-  "name": "KEDUNG RINGIN"
+  "districtName": "BEJI",
+  "name": "KEDUNG RINGIN",
+  "postalCode": "34387"
  },
  {
   "id": 3514140012,
   "districtId": 3514140,
-  "name": "PAGAK"
+  "districtName": "BEJI",
+  "name": "PAGAK",
+  "postalCode": "54172"
  },
  {
   "id": 3514140013,
   "districtId": 3514140,
-  "name": "KEDUNG BOTO"
+  "districtName": "BEJI",
+  "name": "KEDUNG BOTO",
+  "postalCode": "67154"
  },
  {
   "id": 3514140014,
   "districtId": 3514140,
-  "name": "GLANGGANG"
+  "districtName": "BEJI",
+  "name": "GLANGGANG",
+  "postalCode": "67154"
  }
 ]

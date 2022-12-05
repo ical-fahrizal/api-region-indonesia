@@ -2,26 +2,36 @@
  {
   "id": 3207200001,
   "districtId": 3207200,
-  "name": "CIPARIGI"
+  "districtName": "SUKADANA",
+  "name": "CIPARIGI",
+  "postalCode": "16157"
  },
  {
   "id": 3207200003,
   "districtId": 3207200,
-  "name": "MARGAHARJA"
+  "districtName": "SUKADANA",
+  "name": "MARGAHARJA",
+  "postalCode": "46272"
  },
  {
   "id": 3207200004,
   "districtId": 3207200,
-  "name": "MARGAJAYA"
+  "districtName": "SUKADANA",
+  "name": "MARGAJAYA",
+  "postalCode": "17141"
  },
  {
   "id": 3207200005,
   "districtId": 3207200,
-  "name": "SUKADANA"
+  "districtName": "SUKADANA",
+  "name": "SUKADANA",
+  "postalCode": "30611"
  },
  {
   "id": 3207200006,
   "districtId": 3207200,
-  "name": "SALAKARIA"
+  "districtName": "SUKADANA",
+  "name": "SALAKARIA",
+  "postalCode": "46272"
  }
 ]

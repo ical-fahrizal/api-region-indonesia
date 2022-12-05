@@ -2,196 +2,274 @@
  {
   "id": 6107110001,
   "districtId": 6107110,
-  "name": "NANGA PARI"
+  "districtName": "SEPAUK",
+  "name": "NANGA PARI",
+  "postalCode": "78662"
  },
  {
   "id": 6107110002,
   "districtId": 6107110,
-  "name": "BERNAYAU"
+  "districtName": "SEPAUK",
+  "name": "BERNAYAU",
+  "postalCode": "78662"
  },
  {
   "id": 6107110003,
   "districtId": 6107110,
-  "name": "SINAR PEKAYAU"
+  "districtName": "SEPAUK",
+  "name": "SINAR PEKAYAU",
+  "postalCode": "78662"
  },
  {
   "id": 6107110004,
   "districtId": 6107110,
-  "name": "SEKUBANG"
+  "districtName": "SEPAUK",
+  "name": "SEKUBANG",
+  "postalCode": "78662"
  },
  {
   "id": 6107110005,
   "districtId": 6107110,
-  "name": "NANGA LIBAU"
+  "districtName": "SEPAUK",
+  "name": "NANGA LIBAU",
+  "postalCode": "78662"
  },
  {
   "id": 6107110006,
   "districtId": 6107110,
-  "name": "SEKUJAM TIMBAI"
+  "districtName": "SEPAUK",
+  "name": "SEKUJAM TIMBAI",
+  "postalCode": "78662"
  },
  {
   "id": 6107110007,
   "districtId": 6107110,
-  "name": "SEMUNTAI"
+  "districtName": "SEPAUK",
+  "name": "SEMUNTAI",
+  "postalCode": "78652"
  },
  {
   "id": 6107110008,
   "districtId": 6107110,
-  "name": "SIRANG SETAMBANG"
+  "districtName": "SEPAUK",
+  "name": "SIRANG SETAMBANG",
+  "postalCode": "78662"
  },
  {
   "id": 6107110009,
   "districtId": 6107110,
-  "name": "MAIT HILIR"
+  "districtName": "SEPAUK",
+  "name": "MAIT HILIR",
+  "postalCode": "78662"
  },
  {
   "id": 6107110010,
   "districtId": 6107110,
-  "name": "LENGKENAT"
+  "districtName": "SEPAUK",
+  "name": "LENGKENAT",
+  "postalCode": "78662"
  },
  {
   "id": 6107110011,
   "districtId": 6107110,
-  "name": "MANIS RAYA"
+  "districtName": "SEPAUK",
+  "name": "MANIS RAYA",
+  "postalCode": "78662"
  },
  {
   "id": 6107110012,
   "districtId": 6107110,
-  "name": "KENYAUK"
+  "districtName": "SEPAUK",
+  "name": "KENYAUK",
+  "postalCode": "78662"
  },
  {
   "id": 6107110013,
   "districtId": 6107110,
-  "name": "NANGA SEPAUK"
+  "districtName": "SEPAUK",
+  "name": "NANGA SEPAUK",
+  "postalCode": "78662"
  },
  {
   "id": 6107110014,
   "districtId": 6107110,
-  "name": "TANJUNG RIA"
+  "districtName": "SEPAUK",
+  "name": "TANJUNG RIA",
+  "postalCode": "78662"
  },
  {
   "id": 6107110015,
   "districtId": 6107110,
-  "name": "TEMIANG KAPUAS"
+  "districtName": "SEPAUK",
+  "name": "TEMIANG KAPUAS",
+  "postalCode": "78662"
  },
  {
   "id": 6107110016,
   "districtId": 6107110,
-  "name": "ENSABANG"
+  "districtName": "SEPAUK",
+  "name": "ENSABANG",
+  "postalCode": "78662"
  },
  {
   "id": 6107110017,
   "districtId": 6107110,
-  "name": "BULUH KUNING"
+  "districtName": "SEPAUK",
+  "name": "BULUH KUNING",
+  "postalCode": "78662"
  },
  {
   "id": 6107110018,
   "districtId": 6107110,
-  "name": "TEMAWANG MUNTAI"
+  "districtName": "SEPAUK",
+  "name": "TEMAWANG MUNTAI",
+  "postalCode": "78662"
  },
  {
   "id": 6107110019,
   "districtId": 6107110,
-  "name": "TAWANG SARI"
+  "districtName": "SEPAUK",
+  "name": "TAWANG SARI",
+  "postalCode": "66182"
  },
  {
   "id": 6107110020,
   "districtId": 6107110,
-  "name": "GERNIS JAYA"
+  "districtName": "SEPAUK",
+  "name": "GERNIS JAYA",
+  "postalCode": "78662"
  },
  {
   "id": 6107110021,
   "districtId": 6107110,
-  "name": "PAOH BENUA"
+  "districtName": "SEPAUK",
+  "name": "PAOH BENUA",
+  "postalCode": "78662"
  },
  {
   "id": 6107110022,
   "districtId": 6107110,
-  "name": "BEDAYAN"
+  "districtName": "SEPAUK",
+  "name": "BEDAYAN",
+  "postalCode": "78662"
  },
  {
   "id": 6107110023,
   "districtId": 6107110,
-  "name": "TANJUNG HULU"
+  "districtName": "SEPAUK",
+  "name": "TANJUNG HULU",
+  "postalCode": "78137"
  },
  {
   "id": 6107110024,
   "districtId": 6107110,
-  "name": "SUNGAI RAYA"
+  "districtName": "SEPAUK",
+  "name": "SUNGAI RAYA",
+  "postalCode": "22254"
  },
  {
   "id": 6107110025,
   "districtId": 6107110,
-  "name": "LANDAU PANJANG"
+  "districtName": "SEPAUK",
+  "name": "LANDAU PANJANG",
+  "postalCode": "78662"
  },
  {
   "id": 6107110026,
   "districtId": 6107110,
-  "name": "BANGUN"
+  "districtName": "SEPAUK",
+  "name": "BANGUN",
+  "postalCode": "21174"
  },
  {
   "id": 6107110027,
   "districtId": 6107110,
-  "name": "SUKAU BERSATU"
+  "districtName": "SEPAUK",
+  "name": "SUKAU BERSATU",
+  "postalCode": "78662"
  },
  {
   "id": 6107110028,
   "districtId": 6107110,
-  "name": "KEMANTAN"
+  "districtName": "SEPAUK",
+  "name": "KEMANTAN",
+  "postalCode": "78662"
  },
  {
   "id": 6107110029,
   "districtId": 6107110,
-  "name": "PENINSUNG"
+  "districtName": "SEPAUK",
+  "name": "PENINSUNG",
+  "postalCode": "78662"
  },
  {
   "id": 6107110031,
   "districtId": 6107110,
-  "name": "TEMAWANG BULAI"
+  "districtName": "SEPAUK",
+  "name": "TEMAWANG BULAI",
+  "postalCode": "78662"
  },
  {
   "id": 6107110032,
   "districtId": 6107110,
-  "name": "SUNGAI SEGAK"
+  "districtName": "SEPAUK",
+  "name": "SUNGAI SEGAK",
+  "postalCode": "78662"
  },
  {
   "id": 6107110033,
   "districtId": 6107110,
-  "name": "TANJUNG BALAI"
+  "districtName": "SEPAUK",
+  "name": "TANJUNG BALAI",
+  "postalCode": "29661"
  },
  {
   "id": 6107110034,
   "districtId": 6107110,
-  "name": "SINAR HARAPAN"
+  "districtName": "SEPAUK",
+  "name": "SINAR HARAPAN",
+  "postalCode": "30756"
  },
  {
   "id": 6107110035,
   "districtId": 6107110,
-  "name": "RIAM KEMPADIK"
+  "districtName": "SEPAUK",
+  "name": "RIAM KEMPADIK",
+  "postalCode": ""
  },
  {
   "id": 6107110036,
   "districtId": 6107110,
-  "name": "NANGA LAYUNG"
+  "districtName": "SEPAUK",
+  "name": "NANGA LAYUNG",
+  "postalCode": ""
  },
  {
   "id": 6107110037,
   "districtId": 6107110,
-  "name": "LIMAU BAKTI"
+  "districtName": "SEPAUK",
+  "name": "LIMAU BAKTI",
+  "postalCode": ""
  },
  {
   "id": 6107110038,
   "districtId": 6107110,
-  "name": "TANJUNG MAWANG"
+  "districtName": "SEPAUK",
+  "name": "TANJUNG MAWANG",
+  "postalCode": ""
  },
  {
   "id": 6107110039,
   "districtId": 6107110,
-  "name": "BUNGKONG BARU"
+  "districtName": "SEPAUK",
+  "name": "BUNGKONG BARU",
+  "postalCode": ""
  },
  {
   "id": 6107110040,
   "districtId": 6107110,
-  "name": "SUNGAI JAUNG"
+  "districtName": "SEPAUK",
+  "name": "SUNGAI JAUNG",
+  "postalCode": ""
  }
 ]

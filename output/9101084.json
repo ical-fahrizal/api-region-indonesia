@@ -2,26 +2,36 @@
  {
   "id": 9101084001,
   "districtId": 9101084,
-  "name": "ANDAMATA"
+  "districtName": "ARGUNI",
+  "name": "ANDAMATA",
+  "postalCode": "98652"
  },
  {
   "id": 9101084002,
   "districtId": 9101084,
-  "name": "ARGUNI"
+  "districtName": "ARGUNI",
+  "name": "ARGUNI",
+  "postalCode": "98652"
  },
  {
   "id": 9101084003,
   "districtId": 9101084,
-  "name": "FIOR"
+  "districtName": "ARGUNI",
+  "name": "FIOR",
+  "postalCode": "98652"
  },
  {
   "id": 9101084004,
   "districtId": 9101084,
-  "name": "PORIR"
+  "districtName": "ARGUNI",
+  "name": "PORIR",
+  "postalCode": ""
  },
  {
   "id": 9101084005,
   "districtId": 9101084,
-  "name": "ARGUNI BARAT"
+  "districtName": "ARGUNI",
+  "name": "ARGUNI BARAT",
+  "postalCode": ""
  }
 ]

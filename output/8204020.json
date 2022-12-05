@@ -2,46 +2,64 @@
  {
   "id": 8204020008,
   "districtId": 8204020,
-  "name": "ANGGAI"
+  "districtName": "OBI",
+  "name": "ANGGAI",
+  "postalCode": "97792"
  },
  {
   "id": 8204020009,
   "districtId": 8204020,
-  "name": "SAMBIKI"
+  "districtName": "OBI",
+  "name": "SAMBIKI",
+  "postalCode": "97771"
  },
  {
   "id": 8204020011,
   "districtId": 8204020,
-  "name": "JIKOTAMO"
+  "districtName": "OBI",
+  "name": "JIKOTAMO",
+  "postalCode": "97792"
  },
  {
   "id": 8204020013,
   "districtId": 8204020,
-  "name": "LAIWUI"
+  "districtName": "OBI",
+  "name": "LAIWUI",
+  "postalCode": "97792"
  },
  {
   "id": 8204020014,
   "districtId": 8204020,
-  "name": "BUTON"
+  "districtName": "OBI",
+  "name": "BUTON",
+  "postalCode": "94974"
  },
  {
   "id": 8204020015,
   "districtId": 8204020,
-  "name": "BARU"
+  "districtName": "OBI",
+  "name": "BARU",
+  "postalCode": "23764"
  },
  {
   "id": 8204020016,
   "districtId": 8204020,
-  "name": "AKEGULA"
+  "districtName": "OBI",
+  "name": "AKEGULA",
+  "postalCode": "97792"
  },
  {
   "id": 8204020021,
   "districtId": 8204020,
-  "name": "KAWASI"
+  "districtName": "OBI",
+  "name": "KAWASI",
+  "postalCode": "97792"
  },
  {
   "id": 8204020022,
   "districtId": 8204020,
-  "name": "AIR MANGGA"
+  "districtName": "OBI",
+  "name": "AIR MANGGA",
+  "postalCode": ""
  }
 ]

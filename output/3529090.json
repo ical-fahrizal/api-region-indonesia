@@ -2,71 +2,99 @@
  {
   "id": 3529090001,
   "districtId": 3529090,
-  "name": "KETAWANG PAREBAAN"
+  "districtName": "GANDING",
+  "name": "KETAWANG PAREBAAN",
+  "postalCode": "69462"
  },
  {
   "id": 3529090002,
   "districtId": 3529090,
-  "name": "BATAAL BARAT"
+  "districtName": "GANDING",
+  "name": "BATAAL BARAT",
+  "postalCode": "69462"
  },
  {
   "id": 3529090003,
   "districtId": 3529090,
-  "name": "BATAAL TIMUR"
+  "districtName": "GANDING",
+  "name": "BATAAL TIMUR",
+  "postalCode": "69462"
  },
  {
   "id": 3529090004,
   "districtId": 3529090,
-  "name": "ROMBIYA BARAT"
+  "districtName": "GANDING",
+  "name": "ROMBIYA BARAT",
+  "postalCode": "69462"
  },
  {
   "id": 3529090005,
   "districtId": 3529090,
-  "name": "ROMBIYA TIMUR"
+  "districtName": "GANDING",
+  "name": "ROMBIYA TIMUR",
+  "postalCode": "69462"
  },
  {
   "id": 3529090006,
   "districtId": 3529090,
-  "name": "TALAGA"
+  "districtName": "GANDING",
+  "name": "TALAGA",
+  "postalCode": "43154"
  },
  {
   "id": 3529090007,
   "districtId": 3529090,
-  "name": "BILAPORA BARAT"
+  "districtName": "GANDING",
+  "name": "BILAPORA BARAT",
+  "postalCode": "69462"
  },
  {
   "id": 3529090008,
   "districtId": 3529090,
-  "name": "BILAPORA TIMUR"
+  "districtName": "GANDING",
+  "name": "BILAPORA TIMUR",
+  "postalCode": "69462"
  },
  {
   "id": 3529090009,
   "districtId": 3529090,
-  "name": "GANDING"
+  "districtName": "GANDING",
+  "name": "GANDING",
+  "postalCode": "69462"
  },
  {
   "id": 3529090010,
   "districtId": 3529090,
-  "name": "GADU TIMUR"
+  "districtName": "GANDING",
+  "name": "GADU TIMUR",
+  "postalCode": "69462"
  },
  {
   "id": 3529090011,
   "districtId": 3529090,
-  "name": "GADU BARAT"
+  "districtName": "GANDING",
+  "name": "GADU BARAT",
+  "postalCode": "69462"
  },
  {
   "id": 3529090012,
   "districtId": 3529090,
-  "name": "KETAWANG LARANGAN"
+  "districtName": "GANDING",
+  "name": "KETAWANG LARANGAN",
+  "postalCode": "69462"
  },
  {
   "id": 3529090013,
   "districtId": 3529090,
-  "name": "KETAWANG DALEMAN"
+  "districtName": "GANDING",
+  "name": "KETAWANG DALEMAN",
+  "postalCode": "69462"
  },
  {
   "id": 3529090014,
   "districtId": 3529090,
-  "name": "KETAWANG KARAY"
+  "districtName": "GANDING",
+  "name": "KETAWANG KARAY",
+  "postalCode": "69462"
  }
 ]

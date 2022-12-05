@@ -2,51 +2,71 @@
  {
   "id": 9418040001,
   "districtId": 9418040,
-  "name": "NUGARI"
+  "districtName": "KEMBU",
+  "name": "NUGARI",
+  "postalCode": "99569"
  },
  {
   "id": 9418040006,
   "districtId": 9418040,
-  "name": "MAMIT"
+  "districtName": "KEMBU",
+  "name": "MAMIT",
+  "postalCode": "99569"
  },
  {
   "id": 9418040012,
   "districtId": 9418040,
-  "name": "YOWO"
+  "districtName": "KEMBU",
+  "name": "YOWO",
+  "postalCode": "99569"
  },
  {
   "id": 9418040013,
   "districtId": 9418040,
-  "name": "TIOGA"
+  "districtName": "KEMBU",
+  "name": "TIOGA",
+  "postalCode": "99569"
  },
  {
   "id": 9418040030,
   "districtId": 9418040,
-  "name": "KOBON"
+  "districtName": "KEMBU",
+  "name": "KOBON",
+  "postalCode": "99569"
  },
  {
   "id": 9418040034,
   "districtId": 9418040,
-  "name": "KABORI"
+  "districtName": "KEMBU",
+  "name": "KABORI",
+  "postalCode": "99569"
  },
  {
   "id": 9418040035,
   "districtId": 9418040,
-  "name": "GENANI"
+  "districtName": "KEMBU",
+  "name": "GENANI",
+  "postalCode": "99569"
  },
  {
   "id": 9418040036,
   "districtId": 9418040,
-  "name": "WULINAGA"
+  "districtName": "KEMBU",
+  "name": "WULINAGA",
+  "postalCode": "99569"
  },
  {
   "id": 9418040038,
   "districtId": 9418040,
-  "name": "AWORERA"
+  "districtName": "KEMBU",
+  "name": "AWORERA",
+  "postalCode": "99569"
  },
  {
   "id": 9418040040,
   "districtId": 9418040,
-  "name": "AGIMDEK"
+  "districtName": "KEMBU",
+  "name": "AGIMDEK",
+  "postalCode": "99569"
  }
 ]

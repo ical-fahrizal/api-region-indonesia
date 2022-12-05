@@ -2,41 +2,57 @@
  {
   "id": 9106071006,
   "districtId": 9106071,
-  "name": "WOLOIN"
+  "districtName": "SEREMUK",
+  "name": "WOLOIN",
+  "postalCode": "98454"
  },
  {
   "id": 9106071007,
   "districtId": 9106071,
-  "name": "HAHA"
+  "districtName": "SEREMUK",
+  "name": "HAHA",
+  "postalCode": "98454"
  },
  {
   "id": 9106071008,
   "districtId": 9106071,
-  "name": "TOFOT"
+  "districtName": "SEREMUK",
+  "name": "TOFOT",
+  "postalCode": "98454"
  },
  {
   "id": 9106071013,
   "districtId": 9106071,
-  "name": "KLAUGIN"
+  "districtName": "SEREMUK",
+  "name": "KLAUGIN",
+  "postalCode": ""
  },
  {
   "id": 9106071014,
   "districtId": 9106071,
-  "name": "SRER SEMBRA"
+  "districtName": "SEREMUK",
+  "name": "SRER SEMBRA",
+  "postalCode": ""
  },
  {
   "id": 9106071015,
   "districtId": 9106071,
-  "name": "SBIR"
+  "districtName": "SEREMUK",
+  "name": "SBIR",
+  "postalCode": "98454"
  },
  {
   "id": 9106071016,
   "districtId": 9106071,
-  "name": "KAMARO"
+  "districtName": "SEREMUK",
+  "name": "KAMARO",
+  "postalCode": "98454"
  },
  {
   "id": 9106071017,
   "districtId": 9106071,
-  "name": "KAKAS"
+  "districtName": "SEREMUK",
+  "name": "KAKAS",
+  "postalCode": "98454"
  }
 ]

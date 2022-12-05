@@ -2,51 +2,71 @@
  {
   "id": 3528090001,
   "districtId": 3528090,
-  "name": "PAMAROH"
+  "districtName": "KADUR",
+  "name": "PAMAROH",
+  "postalCode": "69355"
  },
  {
   "id": 3528090002,
   "districtId": 3528090,
-  "name": "PAMOROH"
+  "districtName": "KADUR",
+  "name": "PAMOROH",
+  "postalCode": "69355"
  },
  {
   "id": 3528090003,
   "districtId": 3528090,
-  "name": "BANGKES"
+  "districtName": "KADUR",
+  "name": "BANGKES",
+  "postalCode": "69355"
  },
  {
   "id": 3528090004,
   "districtId": 3528090,
-  "name": "KADUR"
+  "districtName": "KADUR",
+  "name": "KADUR",
+  "postalCode": "28781"
  },
  {
   "id": 3528090005,
   "districtId": 3528090,
-  "name": "BUNGBARUH"
+  "districtName": "KADUR",
+  "name": "BUNGBARUH",
+  "postalCode": "69355"
  },
  {
   "id": 3528090006,
   "districtId": 3528090,
-  "name": "SOKOLELAH"
+  "districtName": "KADUR",
+  "name": "SOKOLELAH",
+  "postalCode": "69355"
  },
  {
   "id": 3528090007,
   "districtId": 3528090,
-  "name": "GAGAH"
+  "districtName": "KADUR",
+  "name": "GAGAH",
+  "postalCode": "69355"
  },
  {
   "id": 3528090008,
   "districtId": 3528090,
-  "name": "KERTAGENA LAOK"
+  "districtName": "KADUR",
+  "name": "KERTAGENA LAOK",
+  "postalCode": "69355"
  },
  {
   "id": 3528090009,
   "districtId": 3528090,
-  "name": "KERTAGENA TENGAH"
+  "districtName": "KADUR",
+  "name": "KERTAGENA TENGAH",
+  "postalCode": "69355"
  },
  {
   "id": 3528090010,
   "districtId": 3528090,
-  "name": "KERTAGENA DAYA"
+  "districtName": "KADUR",
+  "name": "KERTAGENA DAYA",
+  "postalCode": "69355"
  }
 ]

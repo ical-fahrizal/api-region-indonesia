@@ -2,21 +2,29 @@
  {
   "id": 9402228001,
   "districtId": 9402228,
-  "name": "TELEGAWI"
+  "districtName": "KORAGI",
+  "name": "TELEGAWI",
+  "postalCode": ""
  },
  {
   "id": 9402228002,
   "districtId": 9402228,
-  "name": "TENONDEK"
+  "districtName": "KORAGI",
+  "name": "TENONDEK",
+  "postalCode": "99557"
  },
  {
   "id": 9402228003,
   "districtId": 9402228,
-  "name": "KORAGIGA"
+  "districtName": "KORAGI",
+  "name": "KORAGIGA",
+  "postalCode": ""
  },
  {
   "id": 9402228005,
   "districtId": 9402228,
-  "name": "TAGIBAGA"
+  "districtName": "KORAGI",
+  "name": "TAGIBAGA",
+  "postalCode": "99557"
  }
 ]

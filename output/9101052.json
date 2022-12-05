@@ -2,46 +2,64 @@
  {
   "id": 9101052001,
   "districtId": 9101052,
-  "name": "WASERAT"
+  "districtName": "FAKFAK TIMUR TENGAH",
+  "name": "WASERAT",
+  "postalCode": "98662"
  },
  {
   "id": 9101052002,
   "districtId": 9101052,
-  "name": "KALAMANUK"
+  "districtName": "FAKFAK TIMUR TENGAH",
+  "name": "KALAMANUK",
+  "postalCode": "98662"
  },
  {
   "id": 9101052003,
   "districtId": 9101052,
-  "name": "KOTAM"
+  "districtName": "FAKFAK TIMUR TENGAH",
+  "name": "KOTAM",
+  "postalCode": "73671"
  },
  {
   "id": 9101052004,
   "districtId": 9101052,
-  "name": "KWAMA"
+  "districtName": "FAKFAK TIMUR TENGAH",
+  "name": "KWAMA",
+  "postalCode": "98662"
  },
  {
   "id": 9101052005,
   "districtId": 9101052,
-  "name": "WAYATI"
+  "districtName": "FAKFAK TIMUR TENGAH",
+  "name": "WAYATI",
+  "postalCode": "98662"
  },
  {
   "id": 9101052006,
   "districtId": 9101052,
-  "name": "WAYATI TIMUR"
+  "districtName": "FAKFAK TIMUR TENGAH",
+  "name": "WAYATI TIMUR",
+  "postalCode": "98662"
  },
  {
   "id": 9101052007,
   "districtId": 9101052,
-  "name": "WAYATI BARAT"
+  "districtName": "FAKFAK TIMUR TENGAH",
+  "name": "WAYATI BARAT",
+  "postalCode": ""
  },
  {
   "id": 9101052010,
   "districtId": 9101052,
-  "name": "WAMBAR"
+  "districtName": "FAKFAK TIMUR TENGAH",
+  "name": "WAMBAR",
+  "postalCode": ""
  },
  {
   "id": 9101052011,
   "districtId": 9101052,
-  "name": "WAMBAR TIMUR"
+  "districtName": "FAKFAK TIMUR TENGAH",
+  "name": "WAMBAR TIMUR",
+  "postalCode": ""
  }
 ]

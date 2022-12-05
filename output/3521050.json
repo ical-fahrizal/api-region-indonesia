@@ -2,56 +2,78 @@
  {
   "id": 3521050005,
   "districtId": 3521050,
-  "name": "KERAS WETAN"
+  "districtName": "GENENG",
+  "name": "KERAS WETAN",
+  "postalCode": "63271"
  },
  {
   "id": 3521050006,
   "districtId": 3521050,
-  "name": "KENITEN"
+  "districtName": "GENENG",
+  "name": "KENITEN",
+  "postalCode": "53152"
  },
  {
   "id": 3521050007,
   "districtId": 3521050,
-  "name": "TAMBAKROMO"
+  "districtName": "GENENG",
+  "name": "TAMBAKROMO",
+  "postalCode": "58315"
  },
  {
   "id": 3521050009,
   "districtId": 3521050,
-  "name": "TEPAS"
+  "districtName": "GENENG",
+  "name": "TEPAS",
+  "postalCode": "63271"
  },
  {
   "id": 3521050011,
   "districtId": 3521050,
-  "name": "SIDOREJO"
+  "districtName": "GENENG",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 3521050012,
   "districtId": 3521050,
-  "name": "BADERAN"
+  "districtName": "GENENG",
+  "name": "BADERAN",
+  "postalCode": "63271"
  },
  {
   "id": 3521050013,
   "districtId": 3521050,
-  "name": "KLAMPISAN"
+  "districtName": "GENENG",
+  "name": "KLAMPISAN",
+  "postalCode": "63271"
  },
  {
   "id": 3521050014,
   "districtId": 3521050,
-  "name": "KASREMAN"
+  "districtName": "GENENG",
+  "name": "KASREMAN",
+  "postalCode": "59219"
  },
  {
   "id": 3521050015,
   "districtId": 3521050,
-  "name": "KERSIKAN"
+  "districtName": "GENENG",
+  "name": "KERSIKAN",
+  "postalCode": "67153"
  },
  {
   "id": 3521050017,
   "districtId": 3521050,
-  "name": "KLITIK"
+  "districtName": "GENENG",
+  "name": "KLITIK",
+  "postalCode": "63271"
  },
  {
   "id": 3521050018,
   "districtId": 3521050,
-  "name": "KERSOHARJO"
+  "districtName": "GENENG",
+  "name": "KERSOHARJO",
+  "postalCode": "63271"
  }
 ]

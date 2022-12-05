@@ -2,81 +2,113 @@
  {
   "id": 3303120001,
   "districtId": 3303120,
-  "name": "GANDASULI"
+  "districtName": "BOBOTSARI",
+  "name": "GANDASULI",
+  "postalCode": "53353"
  },
  {
   "id": 3303120002,
   "districtId": 3303120,
-  "name": "KALAPACUNG"
+  "districtName": "BOBOTSARI",
+  "name": "KALAPACUNG",
+  "postalCode": "53353"
  },
  {
   "id": 3303120003,
   "districtId": 3303120,
-  "name": "KARANGMALANG"
+  "districtName": "BOBOTSARI",
+  "name": "KARANGMALANG",
+  "postalCode": "45213"
  },
  {
   "id": 3303120004,
   "districtId": 3303120,
-  "name": "BANJARSARI"
+  "districtName": "BOBOTSARI",
+  "name": "BANJARSARI",
+  "postalCode": "35377"
  },
  {
   "id": 3303120005,
   "districtId": 3303120,
-  "name": "MAJAPURA"
+  "districtName": "BOBOTSARI",
+  "name": "MAJAPURA",
+  "postalCode": "53353"
  },
  {
   "id": 3303120006,
   "districtId": 3303120,
-  "name": "BOBOTSARI"
+  "districtName": "BOBOTSARI",
+  "name": "BOBOTSARI",
+  "postalCode": "53353"
  },
  {
   "id": 3303120007,
   "districtId": 3303120,
-  "name": "KARANGDUREN"
+  "districtName": "BOBOTSARI",
+  "name": "KARANGDUREN",
+  "postalCode": "53353"
  },
  {
   "id": 3303120008,
   "districtId": 3303120,
-  "name": "PAKUNCEN"
+  "districtName": "BOBOTSARI",
+  "name": "PAKUNCEN",
+  "postalCode": "53353"
  },
  {
   "id": 3303120009,
   "districtId": 3303120,
-  "name": "KARANGTALUN"
+  "districtName": "BOBOTSARI",
+  "name": "KARANGTALUN",
+  "postalCode": "58253"
  },
  {
   "id": 3303120010,
   "districtId": 3303120,
-  "name": "GUNUNGKARANG"
+  "districtName": "BOBOTSARI",
+  "name": "GUNUNGKARANG",
+  "postalCode": "53353"
  },
  {
   "id": 3303120011,
   "districtId": 3303120,
-  "name": "TALAGENING"
+  "districtName": "BOBOTSARI",
+  "name": "TALAGENING",
+  "postalCode": "53353"
  },
  {
   "id": 3303120012,
   "districtId": 3303120,
-  "name": "TLAGAYASA"
+  "districtName": "BOBOTSARI",
+  "name": "TLAGAYASA",
+  "postalCode": "53353"
  },
  {
   "id": 3303120013,
   "districtId": 3303120,
-  "name": "DAGAN"
+  "districtName": "BOBOTSARI",
+  "name": "DAGAN",
+  "postalCode": "53353"
  },
  {
   "id": 3303120015,
   "districtId": 3303120,
-  "name": "LIMBASARI"
+  "districtName": "BOBOTSARI",
+  "name": "LIMBASARI",
+  "postalCode": "53353"
  },
  {
   "id": 3303120016,
   "districtId": 3303120,
-  "name": "PALUMBUNGAN"
+  "districtName": "BOBOTSARI",
+  "name": "PALUMBUNGAN",
+  "postalCode": ""
  },
  {
   "id": 3303120017,
   "districtId": 3303120,
-  "name": "PALUMBUNGAN WETAN"
+  "districtName": "BOBOTSARI",
+  "name": "PALUMBUNGAN WETAN",
+  "postalCode": "53353"
  }
 ]

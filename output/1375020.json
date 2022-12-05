@@ -2,46 +2,64 @@
  {
   "id": 1375020001,
   "districtId": 1375020,
-  "name": "PULAI ANAK AIR"
+  "districtName": "MANDIANGIN KOTO SELAYAN",
+  "name": "PULAI ANAK AIR",
+  "postalCode": "26125"
  },
  {
   "id": 1375020002,
   "districtId": 1375020,
-  "name": "KOTO SELAYAN"
+  "districtName": "MANDIANGIN KOTO SELAYAN",
+  "name": "KOTO SELAYAN",
+  "postalCode": "26126"
  },
  {
   "id": 1375020003,
   "districtId": 1375020,
-  "name": "GAREGEH"
+  "districtName": "MANDIANGIN KOTO SELAYAN",
+  "name": "GAREGEH",
+  "postalCode": "26127"
  },
  {
   "id": 1375020004,
   "districtId": 1375020,
-  "name": "MANGGIS GANTING"
+  "districtName": "MANDIANGIN KOTO SELAYAN",
+  "name": "MANGGIS GANTING",
+  "postalCode": "26129"
  },
  {
   "id": 1375020005,
   "districtId": 1375020,
-  "name": "CAMPAGO IPUH"
+  "districtName": "MANDIANGIN KOTO SELAYAN",
+  "name": "CAMPAGO IPUH",
+  "postalCode": "26121"
  },
  {
   "id": 1375020006,
   "districtId": 1375020,
-  "name": "PUHUN TEMBOK"
+  "districtName": "MANDIANGIN KOTO SELAYAN",
+  "name": "PUHUN TEMBOK",
+  "postalCode": "26124"
  },
  {
   "id": 1375020007,
   "districtId": 1375020,
-  "name": "PUHUN PINTU KABUN"
+  "districtName": "MANDIANGIN KOTO SELAYAN",
+  "name": "PUHUN PINTU KABUN",
+  "postalCode": "26123"
  },
  {
   "id": 1375020008,
   "districtId": 1375020,
-  "name": "KUBU GULAI BANCAH"
+  "districtName": "MANDIANGIN KOTO SELAYAN",
+  "name": "KUBU GULAI BANCAH",
+  "postalCode": "26122"
  },
  {
   "id": 1375020009,
   "districtId": 1375020,
-  "name": "CAMPAGO GUGUK BULEK"
+  "districtName": "MANDIANGIN KOTO SELAYAN",
+  "name": "CAMPAGO GUGUK BULEK",
+  "postalCode": "26128"
  }
 ]

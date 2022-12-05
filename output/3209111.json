@@ -2,56 +2,78 @@
  {
   "id": 3209111001,
   "districtId": 3209111,
-  "name": "SAMPIRAN"
+  "districtName": "TALUN",
+  "name": "SAMPIRAN",
+  "postalCode": "45171"
  },
  {
   "id": 3209111002,
   "districtId": 3209111,
-  "name": "CIPERNA"
+  "districtName": "TALUN",
+  "name": "CIPERNA",
+  "postalCode": "45171"
  },
  {
   "id": 3209111003,
   "districtId": 3209111,
-  "name": "KECOMBERAN"
+  "districtName": "TALUN",
+  "name": "KECOMBERAN",
+  "postalCode": "45171"
  },
  {
   "id": 3209111004,
   "districtId": 3209111,
-  "name": "CIREBON GIRANG"
+  "districtName": "TALUN",
+  "name": "CIREBON GIRANG",
+  "postalCode": ""
  },
  {
   "id": 3209111005,
   "districtId": 3209111,
-  "name": "KERANDON"
+  "districtName": "TALUN",
+  "name": "KERANDON",
+  "postalCode": "45171"
  },
  {
   "id": 3209111006,
   "districtId": 3209111,
-  "name": "WANASABA KIDUL"
+  "districtName": "TALUN",
+  "name": "WANASABA KIDUL",
+  "postalCode": "45171"
  },
  {
   "id": 3209111007,
   "districtId": 3209111,
-  "name": "WANASABA LOR"
+  "districtName": "TALUN",
+  "name": "WANASABA LOR",
+  "postalCode": "45171"
  },
  {
   "id": 3209111012,
   "districtId": 3209111,
-  "name": "CEMPAKA"
+  "districtName": "TALUN",
+  "name": "CEMPAKA",
+  "postalCode": "37152"
  },
  {
   "id": 3209111013,
   "districtId": 3209111,
-  "name": "KEPONGPONGAN"
+  "districtName": "TALUN",
+  "name": "KEPONGPONGAN",
+  "postalCode": "45171"
  },
  {
   "id": 3209111014,
   "districtId": 3209111,
-  "name": "KUBANG"
+  "districtName": "TALUN",
+  "name": "KUBANG",
+  "postalCode": "26253"
  },
  {
   "id": 3209111015,
   "districtId": 3209111,
-  "name": "SARWADADI"
+  "districtName": "TALUN",
+  "name": "SARWADADI",
+  "postalCode": "45171"
  }
 ]

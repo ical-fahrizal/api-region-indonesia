@@ -2,26 +2,36 @@
  {
   "id": 3273030001,
   "districtId": 3273030,
-  "name": "KOPO"
+  "districtName": "BOJONGLOA KALER",
+  "name": "KOPO",
+  "postalCode": "40233"
  },
  {
   "id": 3273030002,
   "districtId": 3273030,
-  "name": "SUKA ASIH"
+  "districtName": "BOJONGLOA KALER",
+  "name": "SUKA ASIH",
+  "postalCode": "40231"
  },
  {
   "id": 3273030003,
   "districtId": 3273030,
-  "name": "BABAKAN ASIH"
+  "districtName": "BOJONGLOA KALER",
+  "name": "BABAKAN ASIH",
+  "postalCode": "40232"
  },
  {
   "id": 3273030004,
   "districtId": 3273030,
-  "name": "BABAKAN TAROGONG"
+  "districtName": "BOJONGLOA KALER",
+  "name": "BABAKAN TAROGONG",
+  "postalCode": "40232"
  },
  {
   "id": 3273030005,
   "districtId": 3273030,
-  "name": "JAMIKA"
+  "districtName": "BOJONGLOA KALER",
+  "name": "JAMIKA",
+  "postalCode": "40231"
  }
 ]

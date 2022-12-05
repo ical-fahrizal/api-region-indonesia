@@ -2,41 +2,57 @@
  {
   "id": 7110040001,
   "districtId": 7110040,
-  "name": "MATAINDO"
+  "districtName": "PINOLOSIAN TENGAH",
+  "name": "MATAINDO",
+  "postalCode": "95775"
  },
  {
   "id": 7110040002,
   "districtId": 7110040,
-  "name": "TOROSIK"
+  "districtName": "PINOLOSIAN TENGAH",
+  "name": "TOROSIK",
+  "postalCode": "95775"
  },
  {
   "id": 7110040003,
   "districtId": 7110040,
-  "name": "ADOW SELATAN"
+  "districtName": "PINOLOSIAN TENGAH",
+  "name": "ADOW SELATAN",
+  "postalCode": "95775"
  },
  {
   "id": 7110040004,
   "districtId": 7110040,
-  "name": "ADOW"
+  "districtName": "PINOLOSIAN TENGAH",
+  "name": "ADOW",
+  "postalCode": "95775"
  },
  {
   "id": 7110040005,
   "districtId": 7110040,
-  "name": "TOBAYAGAN"
+  "districtName": "PINOLOSIAN TENGAH",
+  "name": "TOBAYAGAN",
+  "postalCode": "95775"
  },
  {
   "id": 7110040006,
   "districtId": 7110040,
-  "name": "DEAGA"
+  "districtName": "PINOLOSIAN TENGAH",
+  "name": "DEAGA",
+  "postalCode": "95775"
  },
  {
   "id": 7110040007,
   "districtId": 7110040,
-  "name": "TOBAYAGAN SELATAN"
+  "districtName": "PINOLOSIAN TENGAH",
+  "name": "TOBAYAGAN SELATAN",
+  "postalCode": ""
  },
  {
   "id": 7110040008,
   "districtId": 7110040,
-  "name": "MATAINDO UTARA"
+  "districtName": "PINOLOSIAN TENGAH",
+  "name": "MATAINDO UTARA",
+  "postalCode": ""
  }
 ]

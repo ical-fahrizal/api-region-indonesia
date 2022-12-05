@@ -2,41 +2,57 @@
  {
   "id": 3215112001,
   "districtId": 3215112,
-  "name": "ADIARSA TIMUR"
+  "districtName": "KARAWANG TIMUR",
+  "name": "ADIARSA TIMUR",
+  "postalCode": "41314"
  },
  {
   "id": 3215112002,
   "districtId": 3215112,
-  "name": "WARUNGBAMBU"
+  "districtName": "KARAWANG TIMUR",
+  "name": "WARUNGBAMBU",
+  "postalCode": "41371"
  },
  {
   "id": 3215112003,
   "districtId": 3215112,
-  "name": "KONDANGJAYA"
+  "districtName": "KARAWANG TIMUR",
+  "name": "KONDANGJAYA",
+  "postalCode": "41371"
  },
  {
   "id": 3215112004,
   "districtId": 3215112,
-  "name": "MARGASARI"
+  "districtName": "KARAWANG TIMUR",
+  "name": "MARGASARI",
+  "postalCode": "34198"
  },
  {
   "id": 3215112005,
   "districtId": 3215112,
-  "name": "KARAWANG WETAN"
+  "districtName": "KARAWANG TIMUR",
+  "name": "KARAWANG WETAN",
+  "postalCode": "41314"
  },
  {
   "id": 3215112006,
   "districtId": 3215112,
-  "name": "PALUMBONSARI"
+  "districtName": "KARAWANG TIMUR",
+  "name": "PALUMBONSARI",
+  "postalCode": "41314"
  },
  {
   "id": 3215112007,
   "districtId": 3215112,
-  "name": "PALAWAD"
+  "districtName": "KARAWANG TIMUR",
+  "name": "PALAWAD",
+  "postalCode": "41314"
  },
  {
   "id": 3215112008,
   "districtId": 3215112,
-  "name": "TEGALSAWAH"
+  "districtName": "KARAWANG TIMUR",
+  "name": "TEGALSAWAH",
+  "postalCode": "41314"
  }
 ]

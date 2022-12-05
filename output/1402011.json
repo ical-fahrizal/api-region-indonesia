@@ -2,51 +2,71 @@
  {
   "id": 1402011001,
   "districtId": 1402011,
-  "name": "PUNTI KAYU"
+  "districtName": "BATANG PERANAP",
+  "name": "PUNTI KAYU",
+  "postalCode": ""
  },
  {
   "id": 1402011002,
   "districtId": 1402011,
-  "name": "PEMATANG"
+  "districtName": "BATANG PERANAP",
+  "name": "PEMATANG",
+  "postalCode": "21454"
  },
  {
   "id": 1402011003,
   "districtId": 1402011,
-  "name": "PESAJIAN"
+  "districtName": "BATANG PERANAP",
+  "name": "PESAJIAN",
+  "postalCode": "29354"
  },
  {
   "id": 1402011004,
   "districtId": 1402011,
-  "name": "SELUNAK"
+  "districtName": "BATANG PERANAP",
+  "name": "SELUNAK",
+  "postalCode": "29354"
  },
  {
   "id": 1402011005,
   "districtId": 1402011,
-  "name": "PEMATANG BENTENG"
+  "districtName": "BATANG PERANAP",
+  "name": "PEMATANG BENTENG",
+  "postalCode": "29354"
  },
  {
   "id": 1402011006,
   "districtId": 1402011,
-  "name": "SUKA MAJU"
+  "districtName": "BATANG PERANAP",
+  "name": "SUKA MAJU",
+  "postalCode": "24673"
  },
  {
   "id": 1402011007,
   "districtId": 1402011,
-  "name": "SENCANO JAYA"
+  "districtName": "BATANG PERANAP",
+  "name": "SENCANO JAYA",
+  "postalCode": "29354"
  },
  {
   "id": 1402011008,
   "districtId": 1402011,
-  "name": "SUNGAI AUR"
+  "districtName": "BATANG PERANAP",
+  "name": "SUNGAI AUR",
+  "postalCode": "26573"
  },
  {
   "id": 1402011009,
   "districtId": 1402011,
-  "name": "PELADANGAN"
+  "districtName": "BATANG PERANAP",
+  "name": "PELADANGAN",
+  "postalCode": "29354"
  },
  {
   "id": 1402011010,
   "districtId": 1402011,
-  "name": "KOTO TUO"
+  "districtName": "BATANG PERANAP",
+  "name": "KOTO TUO",
+  "postalCode": "26271"
  }
 ]

@@ -2,66 +2,92 @@
  {
   "id": 3524140001,
   "districtId": 3524140,
-  "name": "KELORARUM"
+  "districtName": "TIKUNG",
+  "name": "KELORARUM",
+  "postalCode": "62281"
  },
  {
   "id": 3524140002,
   "districtId": 3524140,
-  "name": "SOKO"
+  "districtName": "TIKUNG",
+  "name": "SOKO",
+  "postalCode": "54174"
  },
  {
   "id": 3524140003,
   "districtId": 3524140,
-  "name": "BALONGWANGI"
+  "districtName": "TIKUNG",
+  "name": "BALONGWANGI",
+  "postalCode": "62281"
  },
  {
   "id": 3524140004,
   "districtId": 3524140,
-  "name": "WONOKROMO"
+  "districtName": "TIKUNG",
+  "name": "WONOKROMO",
+  "postalCode": "54352"
  },
  {
   "id": 3524140005,
   "districtId": 3524140,
-  "name": "TAKERANKLATING"
+  "districtName": "TIKUNG",
+  "name": "TAKERANKLATING",
+  "postalCode": "62281"
  },
  {
   "id": 3524140006,
   "districtId": 3524140,
-  "name": "BOTOPUTIH"
+  "districtName": "TIKUNG",
+  "name": "BOTOPUTIH",
+  "postalCode": "56261"
  },
  {
   "id": 3524140013,
   "districtId": 3524140,
-  "name": "DUKUHAGUNG"
+  "districtName": "TIKUNG",
+  "name": "DUKUHAGUNG",
+  "postalCode": "62281"
  },
  {
   "id": 3524140014,
   "districtId": 3524140,
-  "name": "PENGUMBULANADI"
+  "districtName": "TIKUNG",
+  "name": "PENGUMBULANADI",
+  "postalCode": "62281"
  },
  {
   "id": 3524140015,
   "districtId": 3524140,
-  "name": "BAKALANPULE"
+  "districtName": "TIKUNG",
+  "name": "BAKALANPULE",
+  "postalCode": "62281"
  },
  {
   "id": 3524140016,
   "districtId": 3524140,
-  "name": "GUMININGREJO"
+  "districtName": "TIKUNG",
+  "name": "GUMININGREJO",
+  "postalCode": "62281"
  },
  {
   "id": 3524140017,
   "districtId": 3524140,
-  "name": "JOTOSANUR"
+  "districtName": "TIKUNG",
+  "name": "JOTOSANUR",
+  "postalCode": "62281"
  },
  {
   "id": 3524140018,
   "districtId": 3524140,
-  "name": "JATIREJO"
+  "districtName": "TIKUNG",
+  "name": "JATIREJO",
+  "postalCode": "23661"
  },
  {
   "id": 3524140019,
   "districtId": 3524140,
-  "name": "TAMBAKRIGADUNG"
+  "districtName": "TIKUNG",
+  "name": "TAMBAKRIGADUNG",
+  "postalCode": "62281"
  }
 ]

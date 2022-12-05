@@ -2,86 +2,120 @@
  {
   "id": 3320010001,
   "districtId": 3320010,
-  "name": "KEDUNGMALANG"
+  "districtName": "KEDUNG",
+  "name": "KEDUNGMALANG",
+  "postalCode": "59463"
  },
  {
   "id": 3320010002,
   "districtId": 3320010,
-  "name": "KALIANYAR"
+  "districtName": "KEDUNG",
+  "name": "KALIANYAR",
+  "postalCode": "45284"
  },
  {
   "id": 3320010003,
   "districtId": 3320010,
-  "name": "KARANGAJI"
+  "districtName": "KEDUNG",
+  "name": "KARANGAJI",
+  "postalCode": "59463"
  },
  {
   "id": 3320010004,
   "districtId": 3320010,
-  "name": "TEDUNAN"
+  "districtName": "KEDUNG",
+  "name": "TEDUNAN",
+  "postalCode": "38875"
  },
  {
   "id": 3320010005,
   "districtId": 3320010,
-  "name": "SOWAN LOR"
+  "districtName": "KEDUNG",
+  "name": "SOWAN LOR",
+  "postalCode": "59463"
  },
  {
   "id": 3320010006,
   "districtId": 3320010,
-  "name": "JONDANG"
+  "districtName": "KEDUNG",
+  "name": "JONDANG",
+  "postalCode": "59463"
  },
  {
   "id": 3320010007,
   "districtId": 3320010,
-  "name": "WANUSOBO"
+  "districtName": "KEDUNG",
+  "name": "WANUSOBO",
+  "postalCode": "59463"
  },
  {
   "id": 3320010008,
   "districtId": 3320010,
-  "name": "SOWAN KIDUL"
+  "districtName": "KEDUNG",
+  "name": "SOWAN KIDUL",
+  "postalCode": "59463"
  },
  {
   "id": 3320010009,
   "districtId": 3320010,
-  "name": "SURODADI"
+  "districtName": "KEDUNG",
+  "name": "SURODADI",
+  "postalCode": "31662"
  },
  {
   "id": 3320010010,
   "districtId": 3320010,
-  "name": "PANGGUNG"
+  "districtName": "KEDUNG",
+  "name": "PANGGUNG",
+  "postalCode": "59463"
  },
  {
   "id": 3320010011,
   "districtId": 3320010,
-  "name": "BULAKBARU"
+  "districtName": "KEDUNG",
+  "name": "BULAKBARU",
+  "postalCode": "59463"
  },
  {
   "id": 3320010013,
   "districtId": 3320010,
-  "name": "DONGOS"
+  "districtName": "KEDUNG",
+  "name": "DONGOS",
+  "postalCode": "59463"
  },
  {
   "id": 3320010014,
   "districtId": 3320010,
-  "name": "MENGANTI"
+  "districtName": "KEDUNG",
+  "name": "MENGANTI",
+  "postalCode": "59463"
  },
  {
   "id": 3320010015,
   "districtId": 3320010,
-  "name": "KERSO"
+  "districtName": "KEDUNG",
+  "name": "KERSO",
+  "postalCode": "59463"
  },
  {
   "id": 3320010016,
   "districtId": 3320010,
-  "name": "TANGGULTLARE"
+  "districtName": "KEDUNG",
+  "name": "TANGGULTLARE",
+  "postalCode": "59463"
  },
  {
   "id": 3320010017,
   "districtId": 3320010,
-  "name": "RAU"
+  "districtName": "KEDUNG",
+  "name": "RAU",
+  "postalCode": "59463"
  },
  {
   "id": 3320010018,
   "districtId": 3320010,
-  "name": "SUKOSONO"
+  "districtName": "KEDUNG",
+  "name": "SUKOSONO",
+  "postalCode": "59463"
  }
 ]

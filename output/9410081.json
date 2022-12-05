@@ -2,16 +2,22 @@
  {
   "id": 9410081001,
   "districtId": 9410081,
-  "name": "IKOTU / BUA"
+  "districtName": "SIRIWO",
+  "name": "IKOTU / BUA",
+  "postalCode": ""
  },
  {
   "id": 9410081002,
   "districtId": 9410081,
-  "name": "SIRIWO"
+  "districtName": "SIRIWO",
+  "name": "SIRIWO",
+  "postalCode": ""
  },
  {
   "id": 9410081003,
   "districtId": 9410081,
-  "name": "KEPI / TODIA"
+  "districtName": "SIRIWO",
+  "name": "KEPI / TODIA",
+  "postalCode": ""
  }
 ]

@@ -2,46 +2,64 @@
  {
   "id": 1171041001,
   "districtId": 1171041,
-  "name": "PANGO RAYA"
+  "districtName": "ULEE KARENG",
+  "name": "PANGO RAYA",
+  "postalCode": "23119"
  },
  {
   "id": 1171041002,
   "districtId": 1171041,
-  "name": "PANGO DEAH"
+  "districtName": "ULEE KARENG",
+  "name": "PANGO DEAH",
+  "postalCode": "23119"
  },
  {
   "id": 1171041003,
   "districtId": 1171041,
-  "name": "ILIE"
+  "districtName": "ULEE KARENG",
+  "name": "ILIE",
+  "postalCode": "23119"
  },
  {
   "id": 1171041004,
   "districtId": 1171041,
-  "name": "LAMTEH"
+  "districtName": "ULEE KARENG",
+  "name": "LAMTEH",
+  "postalCode": "23351"
  },
  {
   "id": 1171041005,
   "districtId": 1171041,
-  "name": "LAMGLUMPANG"
+  "districtName": "ULEE KARENG",
+  "name": "LAMGLUMPANG",
+  "postalCode": "23117"
  },
  {
   "id": 1171041006,
   "districtId": 1171041,
-  "name": "CEURIH"
+  "districtName": "ULEE KARENG",
+  "name": "CEURIH",
+  "postalCode": "23117"
  },
  {
   "id": 1171041007,
   "districtId": 1171041,
-  "name": "IEMASEN ULEE KARENG"
+  "districtName": "ULEE KARENG",
+  "name": "IEMASEN ULEE KARENG",
+  "postalCode": "23117"
  },
  {
   "id": 1171041008,
   "districtId": 1171041,
-  "name": "DOY"
+  "districtName": "ULEE KARENG",
+  "name": "DOY",
+  "postalCode": ""
  },
  {
   "id": 1171041009,
   "districtId": 1171041,
-  "name": "LAMBHUK"
+  "districtName": "ULEE KARENG",
+  "name": "LAMBHUK",
+  "postalCode": "23118"
  }
 ]

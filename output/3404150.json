@@ -2,21 +2,29 @@
  {
   "id": 3404150001,
   "districtId": 3404150,
-  "name": "BANGUN KERTO"
+  "districtName": "TURI",
+  "name": "BANGUN KERTO",
+  "postalCode": "55551"
  },
  {
   "id": 3404150002,
   "districtId": 3404150,
-  "name": "DONOKERTO"
+  "districtName": "TURI",
+  "name": "DONOKERTO",
+  "postalCode": "55551"
  },
  {
   "id": 3404150003,
   "districtId": 3404150,
-  "name": "GIRI KERTO"
+  "districtName": "TURI",
+  "name": "GIRI KERTO",
+  "postalCode": "55551"
  },
  {
   "id": 3404150004,
   "districtId": 3404150,
-  "name": "WONO KERTO"
+  "districtName": "TURI",
+  "name": "WONO KERTO",
+  "postalCode": "55551"
  }
 ]

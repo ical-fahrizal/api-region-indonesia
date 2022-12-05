@@ -2,46 +2,64 @@
  {
   "id": 3202170011,
   "districtId": 3202170,
-  "name": "SELAWANGI"
+  "districtName": "SUKARAJA",
+  "name": "SELAWANGI",
+  "postalCode": "46465"
  },
  {
   "id": 3202170012,
   "districtId": 3202170,
-  "name": "PASIRHALANG"
+  "districtName": "SUKARAJA",
+  "name": "PASIRHALANG",
+  "postalCode": "40551"
  },
  {
   "id": 3202170013,
   "districtId": 3202170,
-  "name": "SUKARAJA"
+  "districtName": "SUKARAJA",
+  "name": "SUKARAJA",
+  "postalCode": "21256"
  },
  {
   "id": 3202170014,
   "districtId": 3202170,
-  "name": "SUKAMEKAR"
+  "districtName": "SUKARAJA",
+  "name": "SUKAMEKAR",
+  "postalCode": "43271"
  },
  {
   "id": 3202170015,
   "districtId": 3202170,
-  "name": "CISARUA"
+  "districtName": "SUKARAJA",
+  "name": "CISARUA",
+  "postalCode": "43115"
  },
  {
   "id": 3202170016,
   "districtId": 3202170,
-  "name": "LIMBANGAN"
+  "districtName": "SUKARAJA",
+  "name": "LIMBANGAN",
+  "postalCode": "45282"
  },
  {
   "id": 3202170017,
   "districtId": 3202170,
-  "name": "LANGENSARI"
+  "districtName": "SUKARAJA",
+  "name": "LANGENSARI",
+  "postalCode": "41259"
  },
  {
   "id": 3202170018,
   "districtId": 3202170,
-  "name": "SELAAWI"
+  "districtName": "SUKARAJA",
+  "name": "SELAAWI",
+  "postalCode": "41172"
  },
  {
   "id": 3202170021,
   "districtId": 3202170,
-  "name": "MARGALUYU"
+  "districtName": "SUKARAJA",
+  "name": "MARGALUYU",
+  "postalCode": "43263"
  }
 ]

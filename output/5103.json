@@ -2,31 +2,37 @@
  {
   "id": 5103010,
   "regencieId": 5103,
+  "regencieName": "KABUPATEN BADUNG",
   "name": "KUTA SELATAN"
  },
  {
   "id": 5103020,
   "regencieId": 5103,
+  "regencieName": "KABUPATEN BADUNG",
   "name": "KUTA"
  },
  {
   "id": 5103030,
   "regencieId": 5103,
+  "regencieName": "KABUPATEN BADUNG",
   "name": "KUTA UTARA"
  },
  {
   "id": 5103040,
   "regencieId": 5103,
+  "regencieName": "KABUPATEN BADUNG",
   "name": "MENGWI"
  },
  {
   "id": 5103050,
   "regencieId": 5103,
+  "regencieName": "KABUPATEN BADUNG",
   "name": "ABIANSEMAL"
  },
  {
   "id": 5103060,
   "regencieId": 5103,
+  "regencieName": "KABUPATEN BADUNG",
   "name": "PETANG"
  }
 ]

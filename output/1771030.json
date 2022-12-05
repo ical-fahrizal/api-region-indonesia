@@ -2,66 +2,92 @@
  {
   "id": 1771030001,
   "districtId": 1771030,
-  "name": "KEBUN KELING"
+  "districtName": "TELUK SEGARA",
+  "name": "KEBUN KELING",
+  "postalCode": "38116"
  },
  {
   "id": 1771030004,
   "districtId": 1771030,
-  "name": "MALABERO"
+  "districtName": "TELUK SEGARA",
+  "name": "MALABERO",
+  "postalCode": ""
  },
  {
   "id": 1771030005,
   "districtId": 1771030,
-  "name": "SUMUR MELELE"
+  "districtName": "TELUK SEGARA",
+  "name": "SUMUR MELELE",
+  "postalCode": ""
  },
  {
   "id": 1771030006,
   "districtId": 1771030,
-  "name": "PASAR BERKAS"
+  "districtName": "TELUK SEGARA",
+  "name": "PASAR BERKAS",
+  "postalCode": ""
  },
  {
   "id": 1771030007,
   "districtId": 1771030,
-  "name": "PASAR BARU"
+  "districtName": "TELUK SEGARA",
+  "name": "PASAR BARU",
+  "postalCode": "22163"
  },
  {
   "id": 1771030008,
   "districtId": 1771030,
-  "name": "PASAR JITRA"
+  "districtName": "TELUK SEGARA",
+  "name": "PASAR JITRA",
+  "postalCode": ""
  },
  {
   "id": 1771030009,
   "districtId": 1771030,
-  "name": "PASAR MELINTANG"
+  "districtName": "TELUK SEGARA",
+  "name": "PASAR MELINTANG",
+  "postalCode": "20518"
  },
  {
   "id": 1771030011,
   "districtId": 1771030,
-  "name": "PONDOK BESI"
+  "districtName": "TELUK SEGARA",
+  "name": "PONDOK BESI",
+  "postalCode": "38117"
  },
  {
   "id": 1771030012,
   "districtId": 1771030,
-  "name": "KEBUN ROS"
+  "districtName": "TELUK SEGARA",
+  "name": "KEBUN ROS",
+  "postalCode": ""
  },
  {
   "id": 1771030013,
   "districtId": 1771030,
-  "name": "PINTU BATU"
+  "districtName": "TELUK SEGARA",
+  "name": "PINTU BATU",
+  "postalCode": "22382"
  },
  {
   "id": 1771030014,
   "districtId": 1771030,
-  "name": "TENGAH PADANG"
+  "districtName": "TELUK SEGARA",
+  "name": "TENGAH PADANG",
+  "postalCode": "38385"
  },
  {
   "id": 1771030015,
   "districtId": 1771030,
-  "name": "BAJAK"
+  "districtName": "TELUK SEGARA",
+  "name": "BAJAK",
+  "postalCode": "86592"
  },
  {
   "id": 1771030016,
   "districtId": 1771030,
-  "name": "KAMPUNG BALI"
+  "districtName": "TELUK SEGARA",
+  "name": "KAMPUNG BALI",
+  "postalCode": "38119"
  }
 ]

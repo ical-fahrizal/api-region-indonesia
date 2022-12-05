@@ -2,46 +2,64 @@
  {
   "id": 3314160001,
   "districtId": 3314160,
-  "name": "SONO"
+  "districtName": "MONDOKAN",
+  "name": "SONO",
+  "postalCode": "57271"
  },
  {
   "id": 3314160002,
   "districtId": 3314160,
-  "name": "TEMPELREJO"
+  "districtName": "MONDOKAN",
+  "name": "TEMPELREJO",
+  "postalCode": "57271"
  },
  {
   "id": 3314160003,
   "districtId": 3314160,
-  "name": "TROMBOL"
+  "districtName": "MONDOKAN",
+  "name": "TROMBOL",
+  "postalCode": "57271"
  },
  {
   "id": 3314160004,
   "districtId": 3314160,
-  "name": "JEKANI"
+  "districtName": "MONDOKAN",
+  "name": "JEKANI",
+  "postalCode": "57271"
  },
  {
   "id": 3314160005,
   "districtId": 3314160,
-  "name": "PARE"
+  "districtName": "MONDOKAN",
+  "name": "PARE",
+  "postalCode": "56271"
  },
  {
   "id": 3314160006,
   "districtId": 3314160,
-  "name": "KEDAWUNG"
+  "districtName": "MONDOKAN",
+  "name": "KEDAWUNG",
+  "postalCode": "45153"
  },
  {
   "id": 3314160007,
   "districtId": 3314160,
-  "name": "JAMBANGAN"
+  "districtName": "MONDOKAN",
+  "name": "JAMBANGAN",
+  "postalCode": "51274"
  },
  {
   "id": 3314160008,
   "districtId": 3314160,
-  "name": "GEMANTAR"
+  "districtName": "MONDOKAN",
+  "name": "GEMANTAR",
+  "postalCode": "57782"
  },
  {
   "id": 3314160009,
   "districtId": 3314160,
-  "name": "SUMBEREJO"
+  "districtName": "MONDOKAN",
+  "name": "SUMBEREJO",
+  "postalCode": "20551"
  }
 ]

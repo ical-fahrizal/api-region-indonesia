@@ -2,36 +2,50 @@
  {
   "id": 1804072001,
   "districtId": 1804072,
-  "name": "WARINGIN JAYA"
+  "districtName": "BANDAR SRIBAWONO",
+  "name": "WARINGIN JAYA",
+  "postalCode": "34389"
  },
  {
   "id": 1804072002,
   "districtId": 1804072,
-  "name": "SRI BAWONO"
+  "districtName": "BANDAR SRIBAWONO",
+  "name": "SRI BAWONO",
+  "postalCode": "34179"
  },
  {
   "id": 1804072003,
   "districtId": 1804072,
-  "name": "SRI MENANTI"
+  "districtName": "BANDAR SRIBAWONO",
+  "name": "SRI MENANTI",
+  "postalCode": "32265"
  },
  {
   "id": 1804072004,
   "districtId": 1804072,
-  "name": "SRI PENDOWO"
+  "districtName": "BANDAR SRIBAWONO",
+  "name": "SRI PENDOWO",
+  "postalCode": "34389"
  },
  {
   "id": 1804072005,
   "districtId": 1804072,
-  "name": "BANDAR AGUNG"
+  "districtName": "BANDAR SRIBAWONO",
+  "name": "BANDAR AGUNG",
+  "postalCode": "31414"
  },
  {
   "id": 1804072006,
   "districtId": 1804072,
-  "name": "SADAR SRIWIJAYA"
+  "districtName": "BANDAR SRIBAWONO",
+  "name": "SADAR SRIWIJAYA",
+  "postalCode": "34389"
  },
  {
   "id": 1804072007,
   "districtId": 1804072,
-  "name": "MEKAR JAYA"
+  "districtName": "BANDAR SRIBAWONO",
+  "name": "MEKAR JAYA",
+  "postalCode": "20771"
  }
 ]

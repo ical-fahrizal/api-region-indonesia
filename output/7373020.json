@@ -2,31 +2,43 @@
  {
   "id": 7373020003,
   "districtId": 7373020,
-  "name": "AMASSANGAN"
+  "districtName": "WARA",
+  "name": "AMASSANGAN",
+  "postalCode": "91922"
  },
  {
   "id": 7373020004,
   "districtId": 7373020,
-  "name": "TOMPOTIKKA"
+  "districtName": "WARA",
+  "name": "TOMPOTIKKA",
+  "postalCode": ""
  },
  {
   "id": 7373020005,
   "districtId": 7373020,
-  "name": "LAGALIGO"
+  "districtName": "WARA",
+  "name": "LAGALIGO",
+  "postalCode": "91921"
  },
  {
   "id": 7373020006,
   "districtId": 7373020,
-  "name": "BOTING"
+  "districtName": "WARA",
+  "name": "BOTING",
+  "postalCode": "91923"
  },
  {
   "id": 7373020007,
   "districtId": 7373020,
-  "name": "DANGERAKKO"
+  "districtName": "WARA",
+  "name": "DANGERAKKO",
+  "postalCode": ""
  },
  {
   "id": 7373020008,
   "districtId": 7373020,
-  "name": "PAJALESANG"
+  "districtName": "WARA",
+  "name": "PAJALESANG",
+  "postalCode": "90871"
  }
 ]

@@ -2,26 +2,36 @@
  {
   "id": 1803132001,
   "districtId": 1803132,
-  "name": "TOTOHARJO"
+  "districtName": "BAKAUHENI",
+  "name": "TOTOHARJO",
+  "postalCode": "35592"
  },
  {
   "id": 1803132002,
   "districtId": 1803132,
-  "name": "KELAWI"
+  "districtName": "BAKAUHENI",
+  "name": "KELAWI",
+  "postalCode": "35592"
  },
  {
   "id": 1803132003,
   "districtId": 1803132,
-  "name": "BAKAUHENI"
+  "districtName": "BAKAUHENI",
+  "name": "BAKAUHENI",
+  "postalCode": "35592"
  },
  {
   "id": 1803132004,
   "districtId": 1803132,
-  "name": "HATA"
+  "districtName": "BAKAUHENI",
+  "name": "HATA",
+  "postalCode": ""
  },
  {
   "id": 1803132005,
   "districtId": 1803132,
-  "name": "SEMANAK"
+  "districtName": "BAKAUHENI",
+  "name": "SEMANAK",
+  "postalCode": "35592"
  }
 ]

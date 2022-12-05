@@ -2,46 +2,64 @@
  {
   "id": 3213171001,
   "districtId": 3213171,
-  "name": "TANJUNGRASA"
+  "districtName": "TAMBAKDAHAN",
+  "name": "TANJUNGRASA",
+  "postalCode": "41253"
  },
  {
   "id": 3213171002,
   "districtId": 3213171,
-  "name": "WANAJAYA"
+  "districtName": "TAMBAKDAHAN",
+  "name": "WANAJAYA",
+  "postalCode": "17520"
  },
  {
   "id": 3213171003,
   "districtId": 3213171,
-  "name": "GARDUMUKTI"
+  "districtName": "TAMBAKDAHAN",
+  "name": "GARDUMUKTI",
+  "postalCode": "41253"
  },
  {
   "id": 3213171004,
   "districtId": 3213171,
-  "name": "MARIUK"
+  "districtName": "TAMBAKDAHAN",
+  "name": "MARIUK",
+  "postalCode": "41253"
  },
  {
   "id": 3213171005,
   "districtId": 3213171,
-  "name": "KERTAJAYA"
+  "districtName": "TAMBAKDAHAN",
+  "name": "KERTAJAYA",
+  "postalCode": "45255"
  },
  {
   "id": 3213171006,
   "districtId": 3213171,
-  "name": "TAMBAKDAHAN"
+  "districtName": "TAMBAKDAHAN",
+  "name": "TAMBAKDAHAN",
+  "postalCode": "41253"
  },
  {
   "id": 3213171007,
   "districtId": 3213171,
-  "name": "BOJONGKEDING"
+  "districtName": "TAMBAKDAHAN",
+  "name": "BOJONGKEDING",
+  "postalCode": "41253"
  },
  {
   "id": 3213171008,
   "districtId": 3213171,
-  "name": "BOJONEGARA"
+  "districtName": "TAMBAKDAHAN",
+  "name": "BOJONEGARA",
+  "postalCode": "41253"
  },
  {
   "id": 3213171009,
   "districtId": 3213171,
-  "name": "RANCAUDIK"
+  "districtName": "TAMBAKDAHAN",
+  "name": "RANCAUDIK",
+  "postalCode": "41253"
  }
 ]

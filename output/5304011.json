@@ -2,26 +2,36 @@
  {
   "id": 5304011004,
   "districtId": 5304011,
-  "name": "FATUMNASI"
+  "districtName": "FATUMNASI",
+  "name": "FATUMNASI",
+  "postalCode": "85561"
  },
  {
   "id": 5304011007,
   "districtId": 5304011,
-  "name": "NENAS"
+  "districtName": "FATUMNASI",
+  "name": "NENAS",
+  "postalCode": "85561"
  },
  {
   "id": 5304011008,
   "districtId": 5304011,
-  "name": "NUAPIN"
+  "districtName": "FATUMNASI",
+  "name": "NUAPIN",
+  "postalCode": "85561"
  },
  {
   "id": 5304011009,
   "districtId": 5304011,
-  "name": "KUANOEL"
+  "districtName": "FATUMNASI",
+  "name": "KUANOEL",
+  "postalCode": "85561"
  },
  {
   "id": 5304011010,
   "districtId": 5304011,
-  "name": "MUTIS"
+  "districtName": "FATUMNASI",
+  "name": "MUTIS",
+  "postalCode": "85561"
  }
 ]

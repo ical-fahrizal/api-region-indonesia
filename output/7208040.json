@@ -2,76 +2,106 @@
  {
   "id": 7208040008,
   "districtId": 7208040,
-  "name": "BAINAA"
+  "districtName": "TINOMBO",
+  "name": "BAINAA",
+  "postalCode": "94475"
  },
  {
   "id": 7208040009,
   "districtId": 7208040,
-  "name": "DONGKAS"
+  "districtName": "TINOMBO",
+  "name": "DONGKAS",
+  "postalCode": "94475"
  },
  {
   "id": 7208040010,
   "districtId": 7208040,
-  "name": "TINOMBO"
+  "districtName": "TINOMBO",
+  "name": "TINOMBO",
+  "postalCode": "94475"
  },
  {
   "id": 7208040011,
   "districtId": 7208040,
-  "name": "LOMBOK"
+  "districtName": "TINOMBO",
+  "name": "LOMBOK",
+  "postalCode": "34879"
  },
  {
   "id": 7208040012,
   "districtId": 7208040,
-  "name": "DUSUNAN"
+  "districtName": "TINOMBO",
+  "name": "DUSUNAN",
+  "postalCode": "94475"
  },
  {
   "id": 7208040013,
   "districtId": 7208040,
-  "name": "TIBU"
+  "districtName": "TINOMBO",
+  "name": "TIBU",
+  "postalCode": "94475"
  },
  {
   "id": 7208040017,
   "districtId": 7208040,
-  "name": "BAINAA BARAT"
+  "districtName": "TINOMBO",
+  "name": "BAINAA BARAT",
+  "postalCode": "94475"
  },
  {
   "id": 7208040019,
   "districtId": 7208040,
-  "name": "OGOALAS"
+  "districtName": "TINOMBO",
+  "name": "OGOALAS",
+  "postalCode": "94475"
  },
  {
   "id": 7208040020,
   "districtId": 7208040,
-  "name": "LOMBOK BARAT"
+  "districtName": "TINOMBO",
+  "name": "LOMBOK BARAT",
+  "postalCode": "94475"
  },
  {
   "id": 7208040025,
   "districtId": 7208040,
-  "name": "SILABIA"
+  "districtName": "TINOMBO",
+  "name": "SILABIA",
+  "postalCode": "94475"
  },
  {
   "id": 7208040026,
   "districtId": 7208040,
-  "name": "SIAVU"
+  "districtName": "TINOMBO",
+  "name": "SIAVU",
+  "postalCode": "94475"
  },
  {
   "id": 7208040027,
   "districtId": 7208040,
-  "name": "AMBASON MEKAR"
+  "districtName": "TINOMBO",
+  "name": "AMBASON MEKAR",
+  "postalCode": "94475"
  },
  {
   "id": 7208040028,
   "districtId": 7208040,
-  "name": "PATINGKE"
+  "districtName": "TINOMBO",
+  "name": "PATINGKE",
+  "postalCode": "94475"
  },
  {
   "id": 7208040029,
   "districtId": 7208040,
-  "name": "DUSUNAN BARAT"
+  "districtName": "TINOMBO",
+  "name": "DUSUNAN BARAT",
+  "postalCode": "94475"
  },
  {
   "id": 7208040030,
   "districtId": 7208040,
-  "name": "TAIPAOBAL"
+  "districtName": "TINOMBO",
+  "name": "TAIPAOBAL",
+  "postalCode": ""
  }
 ]

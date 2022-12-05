@@ -2,56 +2,78 @@
  {
   "id": 9411068001,
   "districtId": 9411068,
-  "name": "ANDUGIR"
+  "districtName": "TAGANOMBAK",
+  "name": "ANDUGIR",
+  "postalCode": ""
  },
  {
   "id": 9411068002,
   "districtId": 9411068,
-  "name": "MUARA MIGUNI"
+  "districtName": "TAGANOMBAK",
+  "name": "MUARA MIGUNI",
+  "postalCode": ""
  },
  {
   "id": 9411068003,
   "districtId": 9411068,
-  "name": "GUNA"
+  "districtName": "TAGANOMBAK",
+  "name": "GUNA",
+  "postalCode": "98915"
  },
  {
   "id": 9411068004,
   "districtId": 9411068,
-  "name": "MANDURA"
+  "districtName": "TAGANOMBAK",
+  "name": "MANDURA",
+  "postalCode": "98915"
  },
  {
   "id": 9411068005,
   "districtId": 9411068,
-  "name": "LUGUBAGO"
+  "districtName": "TAGANOMBAK",
+  "name": "LUGUBAGO",
+  "postalCode": "98915"
  },
  {
   "id": 9411068006,
   "districtId": 9411068,
-  "name": "WUMBIRI"
+  "districtName": "TAGANOMBAK",
+  "name": "WUMBIRI",
+  "postalCode": "98915"
  },
  {
   "id": 9411068007,
   "districtId": 9411068,
-  "name": "PEREYA"
+  "districtName": "TAGANOMBAK",
+  "name": "PEREYA",
+  "postalCode": "98916"
  },
  {
   "id": 9411068008,
   "districtId": 9411068,
-  "name": "GINIMANGGEN"
+  "districtName": "TAGANOMBAK",
+  "name": "GINIMANGGEN",
+  "postalCode": ""
  },
  {
   "id": 9411068009,
   "districtId": 9411068,
-  "name": "LAWORAGE"
+  "districtName": "TAGANOMBAK",
+  "name": "LAWORAGE",
+  "postalCode": ""
  },
  {
   "id": 9411068010,
   "districtId": 9411068,
-  "name": "ABILI"
+  "districtName": "TAGANOMBAK",
+  "name": "ABILI",
+  "postalCode": ""
  },
  {
   "id": 9411068011,
   "districtId": 9411068,
-  "name": "LUGOBAGO"
+  "districtName": "TAGANOMBAK",
+  "name": "LUGOBAGO",
+  "postalCode": ""
  }
 ]

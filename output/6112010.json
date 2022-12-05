@@ -2,76 +2,106 @@
  {
   "id": 6112010001,
   "districtId": 6112010,
-  "name": "TANJUNG HARAPAN"
+  "districtName": "BATU AMPAR",
+  "name": "TANJUNG HARAPAN",
+  "postalCode": "23754"
  },
  {
   "id": 6112010002,
   "districtId": 6112010,
-  "name": "AMBARAWA"
+  "districtName": "BATU AMPAR",
+  "name": "AMBARAWA",
+  "postalCode": "35376"
  },
  {
   "id": 6112010003,
   "districtId": 6112010,
-  "name": "SUNGAI JAWI"
+  "districtName": "BATU AMPAR",
+  "name": "SUNGAI JAWI",
+  "postalCode": ""
  },
  {
   "id": 6112010004,
   "districtId": 6112010,
-  "name": "SUNGAI BESAR"
+  "districtName": "BATU AMPAR",
+  "name": "SUNGAI BESAR",
+  "postalCode": "29874"
  },
  {
   "id": 6112010005,
   "districtId": 6112010,
-  "name": "TASIK MALAYA"
+  "districtName": "BATU AMPAR",
+  "name": "TASIK MALAYA",
+  "postalCode": "78385"
  },
  {
   "id": 6112010006,
   "districtId": 6112010,
-  "name": "PADANG TIKAR I"
+  "districtName": "BATU AMPAR",
+  "name": "PADANG TIKAR I",
+  "postalCode": "78385"
  },
  {
   "id": 6112010007,
   "districtId": 6112010,
-  "name": "PADANG TIKAR II"
+  "districtName": "BATU AMPAR",
+  "name": "PADANG TIKAR II",
+  "postalCode": "78385"
  },
  {
   "id": 6112010008,
   "districtId": 6112010,
-  "name": "NIPAH PANJANG"
+  "districtName": "BATU AMPAR",
+  "name": "NIPAH PANJANG",
+  "postalCode": "78385"
  },
  {
   "id": 6112010009,
   "districtId": 6112010,
-  "name": "TELUK NIBUNG"
+  "districtName": "BATU AMPAR",
+  "name": "TELUK NIBUNG",
+  "postalCode": "24791"
  },
  {
   "id": 6112010010,
   "districtId": 6112010,
-  "name": "BATU AMPAR"
+  "districtName": "BATU AMPAR",
+  "name": "BATU AMPAR",
+  "postalCode": "29274"
  },
  {
   "id": 6112010011,
   "districtId": 6112010,
-  "name": "UPT SEI KERAWANG"
+  "districtName": "BATU AMPAR",
+  "name": "UPT SEI KERAWANG",
+  "postalCode": ""
  },
  {
   "id": 6112010012,
   "districtId": 6112010,
-  "name": "SUMBER AGUNG"
+  "districtName": "BATU AMPAR",
+  "name": "SUMBER AGUNG",
+  "postalCode": "37353"
  },
  {
   "id": 6112010013,
   "districtId": 6112010,
-  "name": "MUARA TIGA"
+  "districtName": "BATU AMPAR",
+  "name": "MUARA TIGA",
+  "postalCode": "31453"
  },
  {
   "id": 6112010014,
   "districtId": 6112010,
-  "name": "TANJUNG BERINGIN"
+  "districtName": "BATU AMPAR",
+  "name": "TANJUNG BERINGIN",
+  "postalCode": "22161"
  },
  {
   "id": 6112010015,
   "districtId": 6112010,
-  "name": "MEDAN MAS"
+  "districtName": "BATU AMPAR",
+  "name": "MEDAN MAS",
+  "postalCode": ""
  }
 ]

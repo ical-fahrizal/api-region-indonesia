@@ -2,101 +2,141 @@
  {
   "id": 1605080001,
   "districtId": 1605080,
-  "name": "PIAN RAYA"
+  "districtName": "MUARA LAKITAN",
+  "name": "PIAN RAYA",
+  "postalCode": ""
  },
  {
   "id": 1605080002,
   "districtId": 1605080,
-  "name": "BUMI MAKMUR"
+  "districtName": "MUARA LAKITAN",
+  "name": "BUMI MAKMUR",
+  "postalCode": "30681"
  },
  {
   "id": 1605080003,
   "districtId": 1605080,
-  "name": "SP V TRI ANGGUNJAYA"
+  "districtName": "MUARA LAKITAN",
+  "name": "SP V TRI ANGGUNJAYA",
+  "postalCode": ""
  },
  {
   "id": 1605080004,
   "districtId": 1605080,
-  "name": "HARAPAN MAKMUR"
+  "districtName": "MUARA LAKITAN",
+  "name": "HARAPAN MAKMUR",
+  "postalCode": "20773"
  },
  {
   "id": 1605080005,
   "districtId": 1605080,
-  "name": "MUKTI KARYA"
+  "districtName": "MUARA LAKITAN",
+  "name": "MUKTI KARYA",
+  "postalCode": "30681"
  },
  {
   "id": 1605080006,
   "districtId": 1605080,
-  "name": "SINDANG LAYA"
+  "districtName": "MUARA LAKITAN",
+  "name": "SINDANG LAYA",
+  "postalCode": ""
  },
  {
   "id": 1605080007,
   "districtId": 1605080,
-  "name": "SEMANGUS"
+  "districtName": "MUARA LAKITAN",
+  "name": "SEMANGUS",
+  "postalCode": "31666"
  },
  {
   "id": 1605080008,
   "districtId": 1605080,
-  "name": "PENDINGAN"
+  "districtName": "MUARA LAKITAN",
+  "name": "PENDINGAN",
+  "postalCode": "31666"
  },
  {
   "id": 1605080009,
   "districtId": 1605080,
-  "name": "ANYAR"
+  "districtName": "MUARA LAKITAN",
+  "name": "ANYAR",
+  "postalCode": "32361"
  },
  {
   "id": 1605080010,
   "districtId": 1605080,
-  "name": "MUARA RENGAS"
+  "districtName": "MUARA LAKITAN",
+  "name": "MUARA RENGAS",
+  "postalCode": "31666"
  },
  {
   "id": 1605080011,
   "districtId": 1605080,
-  "name": "SUNGAI PINANG"
+  "districtName": "MUARA LAKITAN",
+  "name": "SUNGAI PINANG",
+  "postalCode": "25654"
  },
  {
   "id": 1605080012,
   "districtId": 1605080,
-  "name": "SEMETEH"
+  "districtName": "MUARA LAKITAN",
+  "name": "SEMETEH",
+  "postalCode": "31666"
  },
  {
   "id": 1605080013,
   "districtId": 1605080,
-  "name": "LUBUK PANDAN"
+  "districtName": "MUARA LAKITAN",
+  "name": "LUBUK PANDAN",
+  "postalCode": "25584"
  },
  {
   "id": 1605080014,
   "districtId": 1605080,
-  "name": "MUARA LAKITAN"
+  "districtName": "MUARA LAKITAN",
+  "name": "MUARA LAKITAN",
+  "postalCode": "31666"
  },
  {
   "id": 1605080015,
   "districtId": 1605080,
-  "name": "PRABUMULIH I"
+  "districtName": "MUARA LAKITAN",
+  "name": "PRABUMULIH I",
+  "postalCode": "31666"
  },
  {
   "id": 1605080016,
   "districtId": 1605080,
-  "name": "PRABUMULIH II"
+  "districtName": "MUARA LAKITAN",
+  "name": "PRABUMULIH II",
+  "postalCode": "31666"
  },
  {
   "id": 1605080017,
   "districtId": 1605080,
-  "name": "PELITA JAYA"
+  "districtName": "MUARA LAKITAN",
+  "name": "PELITA JAYA",
+  "postalCode": "32362"
  },
  {
   "id": 1605080018,
   "districtId": 1605080,
-  "name": "SIDO MULYO"
+  "districtName": "MUARA LAKITAN",
+  "name": "SIDO MULYO",
+  "postalCode": "24371"
  },
  {
   "id": 1605080019,
   "districtId": 1605080,
-  "name": "MARGA BARU"
+  "districtName": "MUARA LAKITAN",
+  "name": "MARGA BARU",
+  "postalCode": "31666"
  },
  {
   "id": 1605080020,
   "districtId": 1605080,
-  "name": "SEMANGUS BARU"
+  "districtName": "MUARA LAKITAN",
+  "name": "SEMANGUS BARU",
+  "postalCode": "31666"
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 1223080001,
   "districtId": 1223080,
-  "name": "AIR HITAM"
+  "districtName": "KUALUH LEIDONG",
+  "name": "AIR HITAM",
+  "postalCode": "20856"
  },
  {
   "id": 1223080002,
   "districtId": 1223080,
-  "name": "TELUK PULAI DALAM"
+  "districtName": "KUALUH LEIDONG",
+  "name": "TELUK PULAI DALAM",
+  "postalCode": "21475"
  },
  {
   "id": 1223080003,
   "districtId": 1223080,
-  "name": "TELUK PULAI LUAR"
+  "districtName": "KUALUH LEIDONG",
+  "name": "TELUK PULAI LUAR",
+  "postalCode": "21475"
  },
  {
   "id": 1223080004,
   "districtId": 1223080,
-  "name": "KELAPA SEBATANG"
+  "districtName": "KUALUH LEIDONG",
+  "name": "KELAPA SEBATANG",
+  "postalCode": "21475"
  },
  {
   "id": 1223080005,
   "districtId": 1223080,
-  "name": "PANGKALAN LUNANG"
+  "districtName": "KUALUH LEIDONG",
+  "name": "PANGKALAN LUNANG",
+  "postalCode": "21475"
  },
  {
   "id": 1223080006,
   "districtId": 1223080,
-  "name": "TANJUNG LEIDONG"
+  "districtName": "KUALUH LEIDONG",
+  "name": "TANJUNG LEIDONG",
+  "postalCode": "21475"
  },
  {
   "id": 1223080007,
   "districtId": 1223080,
-  "name": "SIMANDULANG"
+  "districtName": "KUALUH LEIDONG",
+  "name": "SIMANDULANG",
+  "postalCode": "21475"
  }
 ]

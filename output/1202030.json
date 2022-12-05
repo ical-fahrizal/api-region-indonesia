@@ -2,181 +2,253 @@
  {
   "id": 1202030004,
   "districtId": 1202030,
-  "name": "TOBANG"
+  "districtName": "KOTANOPAN",
+  "name": "TOBANG",
+  "postalCode": "22994"
  },
  {
   "id": 1202030005,
   "districtId": 1202030,
-  "name": "BOTUNG"
+  "districtName": "KOTANOPAN",
+  "name": "BOTUNG",
+  "postalCode": "22742"
  },
  {
   "id": 1202030010,
   "districtId": 1202030,
-  "name": "MUARA BOTUNG"
+  "districtName": "KOTANOPAN",
+  "name": "MUARA BOTUNG",
+  "postalCode": "22994"
  },
  {
   "id": 1202030014,
   "districtId": 1202030,
-  "name": "HUTARIMBARU SM"
+  "districtName": "KOTANOPAN",
+  "name": "HUTARIMBARU SM",
+  "postalCode": ""
  },
  {
   "id": 1202030015,
   "districtId": 1202030,
-  "name": "HUTA PUNGKUT JULU"
+  "districtName": "KOTANOPAN",
+  "name": "HUTA PUNGKUT JULU",
+  "postalCode": "22994"
  },
  {
   "id": 1202030016,
   "districtId": 1202030,
-  "name": "HUTA PUNGKUT TONGA"
+  "districtName": "KOTANOPAN",
+  "name": "HUTA PUNGKUT TONGA",
+  "postalCode": "22994"
  },
  {
   "id": 1202030017,
   "districtId": 1202030,
-  "name": "USOR TOLANG"
+  "districtName": "KOTANOPAN",
+  "name": "USOR TOLANG",
+  "postalCode": "22994"
  },
  {
   "id": 1202030018,
   "districtId": 1202030,
-  "name": "HUTA PUNGKUT JAE"
+  "districtName": "KOTANOPAN",
+  "name": "HUTA PUNGKUT JAE",
+  "postalCode": "22994"
  },
  {
   "id": 1202030019,
   "districtId": 1202030,
-  "name": "TAMIANG"
+  "districtName": "KOTANOPAN",
+  "name": "TAMIANG",
+  "postalCode": "22742"
  },
  {
   "id": 1202030020,
   "districtId": 1202030,
-  "name": "PATIALO"
+  "districtName": "KOTANOPAN",
+  "name": "PATIALO",
+  "postalCode": "22994"
  },
  {
   "id": 1202030021,
   "districtId": 1202030,
-  "name": "HUTA DANGKA"
+  "districtName": "KOTANOPAN",
+  "name": "HUTA DANGKA",
+  "postalCode": "22994"
  },
  {
   "id": 1202030022,
   "districtId": 1202030,
-  "name": "MUARA PUNGKUT"
+  "districtName": "KOTANOPAN",
+  "name": "MUARA PUNGKUT",
+  "postalCode": "22994"
  },
  {
   "id": 1202030023,
   "districtId": 1202030,
-  "name": "MANAMBIN"
+  "districtName": "KOTANOPAN",
+  "name": "MANAMBIN",
+  "postalCode": "22994"
  },
  {
   "id": 1202030025,
   "districtId": 1202030,
-  "name": "PAGAR GUNUNG"
+  "districtName": "KOTANOPAN",
+  "name": "PAGAR GUNUNG",
+  "postalCode": "22753"
  },
  {
   "id": 1202030026,
   "districtId": 1202030,
-  "name": "BATAHAN"
+  "districtName": "KOTANOPAN",
+  "name": "BATAHAN",
+  "postalCode": "22994"
  },
  {
   "id": 1202030027,
   "districtId": 1202030,
-  "name": "SIBIO-BIO"
+  "districtName": "KOTANOPAN",
+  "name": "SIBIO-BIO",
+  "postalCode": "22756"
  },
  {
   "id": 1202030028,
   "districtId": 1202030,
-  "name": "UJUNG MARISI"
+  "districtName": "KOTANOPAN",
+  "name": "UJUNG MARISI",
+  "postalCode": "22994"
  },
  {
   "id": 1202030029,
   "districtId": 1202030,
-  "name": "GUNUNG TUA MS"
+  "districtName": "KOTANOPAN",
+  "name": "GUNUNG TUA MS",
+  "postalCode": "22994"
  },
  {
   "id": 1202030030,
   "districtId": 1202030,
-  "name": "PADANG BULAN"
+  "districtName": "KOTANOPAN",
+  "name": "PADANG BULAN",
+  "postalCode": "22994"
  },
  {
   "id": 1202030031,
   "districtId": 1202030,
-  "name": "MUARA SIAMBAK"
+  "districtName": "KOTANOPAN",
+  "name": "MUARA SIAMBAK",
+  "postalCode": "22994"
  },
  {
   "id": 1202030032,
   "districtId": 1202030,
-  "name": "SIMANDOLAM"
+  "districtName": "KOTANOPAN",
+  "name": "SIMANDOLAM",
+  "postalCode": ""
  },
  {
   "id": 1202030033,
   "districtId": 1202030,
-  "name": "MUARAPOTAN"
+  "districtName": "KOTANOPAN",
+  "name": "MUARAPOTAN",
+  "postalCode": ""
  },
  {
   "id": 1202030035,
   "districtId": 1202030,
-  "name": "TOMBANG BUSTAK"
+  "districtName": "KOTANOPAN",
+  "name": "TOMBANG BUSTAK",
+  "postalCode": ""
  },
  {
   "id": 1202030036,
   "districtId": 1202030,
-  "name": "HUTA BARINGIN TB"
+  "districtName": "KOTANOPAN",
+  "name": "HUTA BARINGIN TB",
+  "postalCode": "22994"
  },
  {
   "id": 1202030037,
   "districtId": 1202030,
-  "name": "GADING BAIN"
+  "districtName": "KOTANOPAN",
+  "name": "GADING BAIN",
+  "postalCode": "22994"
  },
  {
   "id": 1202030038,
   "districtId": 1202030,
-  "name": "SIMPANG TOLANG JULU"
+  "districtName": "KOTANOPAN",
+  "name": "SIMPANG TOLANG JULU",
+  "postalCode": "22994"
  },
  {
   "id": 1202030039,
   "districtId": 1202030,
-  "name": "HUTA PULI"
+  "districtName": "KOTANOPAN",
+  "name": "HUTA PULI",
+  "postalCode": "22994"
  },
  {
   "id": 1202030040,
   "districtId": 1202030,
-  "name": "SOPO SORIK"
+  "districtName": "KOTANOPAN",
+  "name": "SOPO SORIK",
+  "postalCode": "22978"
  },
  {
   "id": 1202030045,
   "districtId": 1202030,
-  "name": "SIMPANG TOLANG JAE"
+  "districtName": "KOTANOPAN",
+  "name": "SIMPANG TOLANG JAE",
+  "postalCode": "22994"
  },
  {
   "id": 1202030046,
   "districtId": 1202030,
-  "name": "SAYUR MAINCAT"
+  "districtName": "KOTANOPAN",
+  "name": "SAYUR MAINCAT",
+  "postalCode": "22978"
  },
  {
   "id": 1202030047,
   "districtId": 1202030,
-  "name": "PASAR KOTANOPAN"
+  "districtName": "KOTANOPAN",
+  "name": "PASAR KOTANOPAN",
+  "postalCode": "22994"
  },
  {
   "id": 1202030048,
   "districtId": 1202030,
-  "name": "SINGENGU JULU"
+  "districtName": "KOTANOPAN",
+  "name": "SINGENGU JULU",
+  "postalCode": "22994"
  },
  {
   "id": 1202030049,
   "districtId": 1202030,
-  "name": "SINGENGU JAE"
+  "districtName": "KOTANOPAN",
+  "name": "SINGENGU JAE",
+  "postalCode": "22994"
  },
  {
   "id": 1202030050,
   "districtId": 1202030,
-  "name": "HUTA PADANG SM"
+  "districtName": "KOTANOPAN",
+  "name": "HUTA PADANG SM",
+  "postalCode": "22994"
  },
  {
   "id": 1202030051,
   "districtId": 1202030,
-  "name": "GUNUNG TUA SM"
+  "districtName": "KOTANOPAN",
+  "name": "GUNUNG TUA SM",
+  "postalCode": "22994"
  },
  {
   "id": 1202030052,
   "districtId": 1202030,
-  "name": "SABA DOLOK"
+  "districtName": "KOTANOPAN",
+  "name": "SABA DOLOK",
+  "postalCode": "22994"
  }
 ]

@@ -2,56 +2,78 @@
  {
   "id": 1901130010,
   "districtId": 1901130,
-  "name": "RIDING PANJANG"
+  "districtName": "BELINYU",
+  "name": "RIDING PANJANG",
+  "postalCode": "33253"
  },
  {
   "id": 1901130011,
   "districtId": 1901130,
-  "name": "GUNUNG MUDA"
+  "districtName": "BELINYU",
+  "name": "GUNUNG MUDA",
+  "postalCode": "33253"
  },
  {
   "id": 1901130012,
   "districtId": 1901130,
-  "name": "KUTO PANJI"
+  "districtName": "BELINYU",
+  "name": "KUTO PANJI",
+  "postalCode": "33253"
  },
  {
   "id": 1901130013,
   "districtId": 1901130,
-  "name": "AIR JUKUNG"
+  "districtName": "BELINYU",
+  "name": "AIR JUKUNG",
+  "postalCode": "33253"
  },
  {
   "id": 1901130014,
   "districtId": 1901130,
-  "name": "BUKIT KETOK"
+  "districtName": "BELINYU",
+  "name": "BUKIT KETOK",
+  "postalCode": "33253"
  },
  {
   "id": 1901130015,
   "districtId": 1901130,
-  "name": "BINTET"
+  "districtName": "BELINYU",
+  "name": "BINTET",
+  "postalCode": "33253"
  },
  {
   "id": 1901130016,
   "districtId": 1901130,
-  "name": "GUNUNG PELAWAN"
+  "districtName": "BELINYU",
+  "name": "GUNUNG PELAWAN",
+  "postalCode": "33253"
  },
  {
   "id": 1901130017,
   "districtId": 1901130,
-  "name": "BELINYU"
+  "districtName": "BELINYU",
+  "name": "BELINYU",
+  "postalCode": ""
  },
  {
   "id": 1901130018,
   "districtId": 1901130,
-  "name": "MANTUNG"
+  "districtName": "BELINYU",
+  "name": "MANTUNG",
+  "postalCode": ""
  },
  {
   "id": 1901130019,
   "districtId": 1901130,
-  "name": "AIR ASAM"
+  "districtName": "BELINYU",
+  "name": "AIR ASAM",
+  "postalCode": ""
  },
  {
   "id": 1901130020,
   "districtId": 1901130,
-  "name": "REMODONG INDAH"
+  "districtName": "BELINYU",
+  "name": "REMODONG INDAH",
+  "postalCode": ""
  }
 ]

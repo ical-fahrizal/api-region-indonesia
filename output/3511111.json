@@ -2,41 +2,57 @@
  {
   "id": 3511111001,
   "districtId": 3511111,
-  "name": "GADINGSARI"
+  "districtName": "BINAKAL",
+  "name": "GADINGSARI",
+  "postalCode": "55763"
  },
  {
   "id": 3511111002,
   "districtId": 3511111,
-  "name": "BINAKAL"
+  "districtName": "BINAKAL",
+  "name": "BINAKAL",
+  "postalCode": "68251"
  },
  {
   "id": 3511111003,
   "districtId": 3511111,
-  "name": "SUMBER WARU"
+  "districtName": "BINAKAL",
+  "name": "SUMBER WARU",
+  "postalCode": "69353"
  },
  {
   "id": 3511111004,
   "districtId": 3511111,
-  "name": "KEMBANGAN"
+  "districtName": "BINAKAL",
+  "name": "KEMBANGAN",
+  "postalCode": "59511"
  },
  {
   "id": 3511111005,
   "districtId": 3511111,
-  "name": "BARATAN"
+  "districtName": "BINAKAL",
+  "name": "BARATAN",
+  "postalCode": "68251"
  },
  {
   "id": 3511111006,
   "districtId": 3511111,
-  "name": "JERUK SOKSOK"
+  "districtName": "BINAKAL",
+  "name": "JERUK SOKSOK",
+  "postalCode": ""
  },
  {
   "id": 3511111007,
   "districtId": 3511111,
-  "name": "BENDELAN"
+  "districtName": "BINAKAL",
+  "name": "BENDELAN",
+  "postalCode": "68251"
  },
  {
   "id": 3511111008,
   "districtId": 3511111,
-  "name": "SUMBER TENGAH"
+  "districtName": "BINAKAL",
+  "name": "SUMBER TENGAH",
+  "postalCode": ""
  }
 ]

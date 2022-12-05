@@ -2,56 +2,78 @@
  {
   "id": 3218010001,
   "districtId": 3218010,
-  "name": "KERTAMUKTI"
+  "districtName": "CIMERAK",
+  "name": "KERTAMUKTI",
+  "postalCode": "41181"
  },
  {
   "id": 3218010002,
   "districtId": 3218010,
-  "name": "CIPARANTI"
+  "districtName": "CIMERAK",
+  "name": "CIPARANTI",
+  "postalCode": "46395"
  },
  {
   "id": 3218010003,
   "districtId": 3218010,
-  "name": "LEGOKJAWA"
+  "districtName": "CIMERAK",
+  "name": "LEGOKJAWA",
+  "postalCode": "46395"
  },
  {
   "id": 3218010004,
   "districtId": 3218010,
-  "name": "MASAWAH"
+  "districtName": "CIMERAK",
+  "name": "MASAWAH",
+  "postalCode": "46395"
  },
  {
   "id": 3218010005,
   "districtId": 3218010,
-  "name": "BATUMALANG"
+  "districtName": "CIMERAK",
+  "name": "BATUMALANG",
+  "postalCode": "46395"
  },
  {
   "id": 3218010006,
   "districtId": 3218010,
-  "name": "CIMERAK"
+  "districtName": "CIMERAK",
+  "name": "CIMERAK",
+  "postalCode": "46395"
  },
  {
   "id": 3218010007,
   "districtId": 3218010,
-  "name": "LIMUSGEDE"
+  "districtName": "CIMERAK",
+  "name": "LIMUSGEDE",
+  "postalCode": "46395"
  },
  {
   "id": 3218010008,
   "districtId": 3218010,
-  "name": "KERTAHARJA"
+  "districtName": "CIMERAK",
+  "name": "KERTAHARJA",
+  "postalCode": "46271"
  },
  {
   "id": 3218010009,
   "districtId": 3218010,
-  "name": "MEKARSARI"
+  "districtName": "CIMERAK",
+  "name": "MEKARSARI",
+  "postalCode": "37482"
  },
  {
   "id": 3218010010,
   "districtId": 3218010,
-  "name": "SINDANGSARI"
+  "districtName": "CIMERAK",
+  "name": "SINDANGSARI",
+  "postalCode": "46383"
  },
  {
   "id": 3218010011,
   "districtId": 3218010,
-  "name": "SUKAJAYA"
+  "districtName": "CIMERAK",
+  "name": "SUKAJAYA",
+  "postalCode": "30756"
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 1601083001,
   "districtId": 1601083,
-  "name": "KEMALA JAYA"
+  "districtName": "MUARA JAYA",
+  "name": "KEMALA JAYA",
+  "postalCode": "32155"
  },
  {
   "id": 1601083002,
   "districtId": 1601083,
-  "name": "LONTAR"
+  "districtName": "MUARA JAYA",
+  "name": "LONTAR",
+  "postalCode": "32155"
  },
  {
   "id": 1601083003,
   "districtId": 1601083,
-  "name": "LUBUK TUPAK"
+  "districtName": "MUARA JAYA",
+  "name": "LUBUK TUPAK",
+  "postalCode": "32155"
  },
  {
   "id": 1601083004,
   "districtId": 1601083,
-  "name": "BERINGIN"
+  "districtName": "MUARA JAYA",
+  "name": "BERINGIN",
+  "postalCode": "20552"
  },
  {
   "id": 1601083005,
   "districtId": 1601083,
-  "name": "MUARA SAEH"
+  "districtName": "MUARA JAYA",
+  "name": "MUARA SAEH",
+  "postalCode": "32155"
  },
  {
   "id": 1601083006,
   "districtId": 1601083,
-  "name": "SURAU"
+  "districtName": "MUARA JAYA",
+  "name": "SURAU",
+  "postalCode": "32155"
  },
  {
   "id": 1601083007,
   "districtId": 1601083,
-  "name": "KARANG LANTANG"
+  "districtName": "MUARA JAYA",
+  "name": "KARANG LANTANG",
+  "postalCode": "32155"
  }
 ]

@@ -2,71 +2,99 @@
  {
   "id": 6108030001,
   "districtId": 6108030,
-  "name": "PARANG"
+  "districtName": "HULU GURUNG",
+  "name": "PARANG",
+  "postalCode": "59455"
  },
  {
   "id": 6108030002,
   "districtId": 6108030,
-  "name": "LUBUK ANTUK"
+  "districtName": "HULU GURUNG",
+  "name": "LUBUK ANTUK",
+  "postalCode": "78764"
  },
  {
   "id": 6108030003,
   "districtId": 6108030,
-  "name": "NANGA TEPUAI"
+  "districtName": "HULU GURUNG",
+  "name": "NANGA TEPUAI",
+  "postalCode": "78764"
  },
  {
   "id": 6108030004,
   "districtId": 6108030,
-  "name": "LANDAU KUMPANG"
+  "districtName": "HULU GURUNG",
+  "name": "LANDAU KUMPANG",
+  "postalCode": "78764"
  },
  {
   "id": 6108030005,
   "districtId": 6108030,
-  "name": "NANGA YEN"
+  "districtName": "HULU GURUNG",
+  "name": "NANGA YEN",
+  "postalCode": "78764"
  },
  {
   "id": 6108030006,
   "districtId": 6108030,
-  "name": "BERINGIN"
+  "districtName": "HULU GURUNG",
+  "name": "BERINGIN",
+  "postalCode": "20552"
  },
  {
   "id": 6108030007,
   "districtId": 6108030,
-  "name": "BUGANG"
+  "districtName": "HULU GURUNG",
+  "name": "BUGANG",
+  "postalCode": "78764"
  },
  {
   "id": 6108030008,
   "districtId": 6108030,
-  "name": "MENTAWIT"
+  "districtName": "HULU GURUNG",
+  "name": "MENTAWIT",
+  "postalCode": "78764"
  },
  {
   "id": 6108030009,
   "districtId": 6108030,
-  "name": "TANI MAKMUR"
+  "districtName": "HULU GURUNG",
+  "name": "TANI MAKMUR",
+  "postalCode": "78764"
  },
  {
   "id": 6108030010,
   "districtId": 6108030,
-  "name": "SIMPANG SENARA"
+  "districtName": "HULU GURUNG",
+  "name": "SIMPANG SENARA",
+  "postalCode": "78764"
  },
  {
   "id": 6108030011,
   "districtId": 6108030,
-  "name": "KELAKAR"
+  "districtName": "HULU GURUNG",
+  "name": "KELAKAR",
+  "postalCode": "78764"
  },
  {
   "id": 6108030012,
   "districtId": 6108030,
-  "name": "SEJAHTERA MANDIRI"
+  "districtName": "HULU GURUNG",
+  "name": "SEJAHTERA MANDIRI",
+  "postalCode": "78764"
  },
  {
   "id": 6108030014,
   "districtId": 6108030,
-  "name": "TUNAS MUDA"
+  "districtName": "HULU GURUNG",
+  "name": "TUNAS MUDA",
+  "postalCode": "78764"
  },
  {
   "id": 6108030015,
   "districtId": 6108030,
-  "name": "KARYA MANDIRI"
+  "districtName": "HULU GURUNG",
+  "name": "KARYA MANDIRI",
+  "postalCode": "78764"
  }
 ]

@@ -2,21 +2,29 @@
  {
   "id": 1409013001,
   "districtId": 1409013,
-  "name": "SEKAPAS"
+  "districtName": "RANTAU KOPAR",
+  "name": "SEKAPAS",
+  "postalCode": "28983"
  },
  {
   "id": 1409013002,
   "districtId": 1409013,
-  "name": "BAGAN CEMPEDAK"
+  "districtName": "RANTAU KOPAR",
+  "name": "BAGAN CEMPEDAK",
+  "postalCode": "28983"
  },
  {
   "id": 1409013003,
   "districtId": 1409013,
-  "name": "RANTAU KOPAR"
+  "districtName": "RANTAU KOPAR",
+  "name": "RANTAU KOPAR",
+  "postalCode": "28983"
  },
  {
   "id": 1409013004,
   "districtId": 1409013,
-  "name": "SUNGAI RANGAU"
+  "districtName": "RANTAU KOPAR",
+  "name": "SUNGAI RANGAU",
+  "postalCode": ""
  }
 ]

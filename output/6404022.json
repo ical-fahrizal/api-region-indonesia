@@ -2,36 +2,50 @@
  {
   "id": 6404022001,
   "districtId": 6404022,
-  "name": "SIDOMULYO"
+  "districtName": "KONGBENG",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  },
  {
   "id": 6404022002,
   "districtId": 6404022,
-  "name": "SRI PANTUN"
+  "districtName": "KONGBENG",
+  "name": "SRI PANTUN",
+  "postalCode": "75555"
  },
  {
   "id": 6404022003,
   "districtId": 6404022,
-  "name": "KONGBENG INDAH"
+  "districtName": "KONGBENG",
+  "name": "KONGBENG INDAH",
+  "postalCode": "75555"
  },
  {
   "id": 6404022004,
   "districtId": 6404022,
-  "name": "SUKA MAJU"
+  "districtName": "KONGBENG",
+  "name": "SUKA MAJU",
+  "postalCode": "24673"
  },
  {
   "id": 6404022005,
   "districtId": 6404022,
-  "name": "MARGA MULIA"
+  "districtName": "KONGBENG",
+  "name": "MARGA MULIA",
+  "postalCode": "31452"
  },
  {
   "id": 6404022006,
   "districtId": 6404022,
-  "name": "MAKMUR JAYA"
+  "districtName": "KONGBENG",
+  "name": "MAKMUR JAYA",
+  "postalCode": "24653"
  },
  {
   "id": 6404022007,
   "districtId": 6404022,
-  "name": "MIAU BARU"
+  "districtName": "KONGBENG",
+  "name": "MIAU BARU",
+  "postalCode": "75555"
  }
 ]

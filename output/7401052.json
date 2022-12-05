@@ -2,56 +2,78 @@
  {
   "id": 7401052001,
   "districtId": 7401052,
-  "name": "WALOMPO"
+  "districtName": "SIONTAPINA",
+  "name": "WALOMPO",
+  "postalCode": "93756"
  },
  {
   "id": 7401052002,
   "districtId": 7401052,
-  "name": "MATANAUWE"
+  "districtName": "SIONTAPINA",
+  "name": "MATANAUWE",
+  "postalCode": "93756"
  },
  {
   "id": 7401052003,
   "districtId": 7401052,
-  "name": "SAMPUABALO"
+  "districtName": "SIONTAPINA",
+  "name": "SAMPUABALO",
+  "postalCode": "93756"
  },
  {
   "id": 7401052004,
   "districtId": 7401052,
-  "name": "KURAA"
+  "districtName": "SIONTAPINA",
+  "name": "KURAA",
+  "postalCode": "93756"
  },
  {
   "id": 7401052005,
   "districtId": 7401052,
-  "name": "KUMBEWAHA"
+  "districtName": "SIONTAPINA",
+  "name": "KUMBEWAHA",
+  "postalCode": "93756"
  },
  {
   "id": 7401052006,
   "districtId": 7401052,
-  "name": "SUMBER SARI"
+  "districtName": "SIONTAPINA",
+  "name": "SUMBER SARI",
+  "postalCode": "21343"
  },
  {
   "id": 7401052007,
   "districtId": 7401052,
-  "name": "LABUANDIRI"
+  "districtName": "SIONTAPINA",
+  "name": "LABUANDIRI",
+  "postalCode": "93756"
  },
  {
   "id": 7401052008,
   "districtId": 7401052,
-  "name": "KARYA"
+  "districtName": "SIONTAPINA",
+  "name": "KARYA",
+  "postalCode": "22455"
  },
  {
   "id": 7401052009,
   "districtId": 7401052,
-  "name": "MANURU"
+  "districtName": "SIONTAPINA",
+  "name": "MANURU",
+  "postalCode": "93756"
  },
  {
   "id": 7401052010,
   "districtId": 7401052,
-  "name": "BAHARI MAKMUR"
+  "districtName": "SIONTAPINA",
+  "name": "BAHARI MAKMUR",
+  "postalCode": "94771"
  },
  {
   "id": 7401052011,
   "districtId": 7401052,
-  "name": "GUNUNG JAYA"
+  "districtName": "SIONTAPINA",
+  "name": "GUNUNG JAYA",
+  "postalCode": "52275"
  }
 ]

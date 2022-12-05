@@ -2,66 +2,92 @@
  {
   "id": 5205030001,
   "districtId": 5205030,
-  "name": "RIWO"
+  "districtName": "WOJA",
+  "name": "RIWO",
+  "postalCode": "84251"
  },
  {
   "id": 5205030002,
   "districtId": 5205030,
-  "name": "MADAPRAMA"
+  "districtName": "WOJA",
+  "name": "MADAPRAMA",
+  "postalCode": "84251"
  },
  {
   "id": 5205030003,
   "districtId": 5205030,
-  "name": "BARA"
+  "districtName": "WOJA",
+  "name": "BARA",
+  "postalCode": "22741"
  },
  {
   "id": 5205030004,
   "districtId": 5205030,
-  "name": "NOWA"
+  "districtName": "WOJA",
+  "name": "NOWA",
+  "postalCode": "84251"
  },
  {
   "id": 5205030005,
   "districtId": 5205030,
-  "name": "WAWONDURU"
+  "districtName": "WOJA",
+  "name": "WAWONDURU",
+  "postalCode": "84251"
  },
  {
   "id": 5205030006,
   "districtId": 5205030,
-  "name": "MATUA"
+  "districtName": "WOJA",
+  "name": "MATUA",
+  "postalCode": "84251"
  },
  {
   "id": 5205030007,
   "districtId": 5205030,
-  "name": "MONTABARU"
+  "districtName": "WOJA",
+  "name": "MONTABARU",
+  "postalCode": "84219"
  },
  {
   "id": 5205030008,
   "districtId": 5205030,
-  "name": "KANDAI DUA"
+  "districtName": "WOJA",
+  "name": "KANDAI DUA",
+  "postalCode": "84218"
  },
  {
   "id": 5205030009,
   "districtId": 5205030,
-  "name": "SIMPASAI"
+  "districtName": "WOJA",
+  "name": "SIMPASAI",
+  "postalCode": "84182"
  },
  {
   "id": 5205030010,
   "districtId": 5205030,
-  "name": "SANEO"
+  "districtName": "WOJA",
+  "name": "SANEO",
+  "postalCode": "84251"
  },
  {
   "id": 5205030012,
   "districtId": 5205030,
-  "name": "BAKAJAYA"
+  "districtName": "WOJA",
+  "name": "BAKAJAYA",
+  "postalCode": ""
  },
  {
   "id": 5205030013,
   "districtId": 5205030,
-  "name": "PERSIAPAN RABABAKA"
+  "districtName": "WOJA",
+  "name": "PERSIAPAN RABABAKA",
+  "postalCode": ""
  },
  {
   "id": 5205030014,
   "districtId": 5205030,
-  "name": "SERAKAPI"
+  "districtName": "WOJA",
+  "name": "SERAKAPI",
+  "postalCode": ""
  }
 ]

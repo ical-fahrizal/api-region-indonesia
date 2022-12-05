@@ -2,31 +2,43 @@
  {
   "id": 1771010003,
   "districtId": 1771010,
-  "name": "BETUNGAN"
+  "districtName": "SELEBAR",
+  "name": "BETUNGAN",
+  "postalCode": "38553"
  },
  {
   "id": 1771010004,
   "districtId": 1771010,
-  "name": "PEKAN SABTU"
+  "districtName": "SELEBAR",
+  "name": "PEKAN SABTU",
+  "postalCode": "38213"
  },
  {
   "id": 1771010005,
   "districtId": 1771010,
-  "name": "SUKA RAMI"
+  "districtName": "SELEBAR",
+  "name": "SUKA RAMI",
+  "postalCode": "39152"
  },
  {
   "id": 1771010006,
   "districtId": 1771010,
-  "name": "PAGAR DEWA"
+  "districtName": "SELEBAR",
+  "name": "PAGAR DEWA",
+  "postalCode": "31626"
  },
  {
   "id": 1771010007,
   "districtId": 1771010,
-  "name": "BUMIAYU"
+  "districtName": "SELEBAR",
+  "name": "BUMIAYU",
+  "postalCode": "31314"
  },
  {
   "id": 1771010008,
   "districtId": 1771010,
-  "name": "SUMUR DEWA"
+  "districtName": "SELEBAR",
+  "name": "SUMUR DEWA",
+  "postalCode": "38216"
  }
 ]

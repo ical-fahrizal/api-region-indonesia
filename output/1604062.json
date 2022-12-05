@@ -2,36 +2,50 @@
  {
   "id": 1604062001,
   "districtId": 1604062,
-  "name": "MUARA PAYANG"
+  "districtName": "MUARA PAYANG",
+  "name": "MUARA PAYANG",
+  "postalCode": "32279"
  },
  {
   "id": 1604062002,
   "districtId": 1604062,
-  "name": "MUARA GELUMPAI"
+  "districtName": "MUARA PAYANG",
+  "name": "MUARA GELUMPAI",
+  "postalCode": "31591"
  },
  {
   "id": 1604062003,
   "districtId": 1604062,
-  "name": "TALANG TINGGI"
+  "districtName": "MUARA PAYANG",
+  "name": "TALANG TINGGI",
+  "postalCode": "37162"
  },
  {
   "id": 1604062004,
   "districtId": 1604062,
-  "name": "LAWANG AGUNG LAMA"
+  "districtName": "MUARA PAYANG",
+  "name": "LAWANG AGUNG LAMA",
+  "postalCode": "31591"
  },
  {
   "id": 1604062005,
   "districtId": 1604062,
-  "name": "LAWANG AGUNG BARU"
+  "districtName": "MUARA PAYANG",
+  "name": "LAWANG AGUNG BARU",
+  "postalCode": "31591"
  },
  {
   "id": 1604062006,
   "districtId": 1604062,
-  "name": "MUARA JAUH"
+  "districtName": "MUARA PAYANG",
+  "name": "MUARA JAUH",
+  "postalCode": "31591"
  },
  {
   "id": 1604062007,
   "districtId": 1604062,
-  "name": "BANDU AGUNG"
+  "districtName": "MUARA PAYANG",
+  "name": "BANDU AGUNG",
+  "postalCode": "31591"
  }
 ]

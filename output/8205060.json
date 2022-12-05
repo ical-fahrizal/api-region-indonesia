@@ -2,81 +2,113 @@
  {
   "id": 8205060001,
   "districtId": 8205060,
-  "name": "APULEA"
+  "districtName": "LOLODA UTARA",
+  "name": "APULEA",
+  "postalCode": "97755"
  },
  {
   "id": 8205060002,
   "districtId": 8205060,
-  "name": "ASIMIRO"
+  "districtName": "LOLODA UTARA",
+  "name": "ASIMIRO",
+  "postalCode": ""
  },
  {
   "id": 8205060003,
   "districtId": 8205060,
-  "name": "DOTIA"
+  "districtName": "LOLODA UTARA",
+  "name": "DOTIA",
+  "postalCode": ""
  },
  {
   "id": 8205060004,
   "districtId": 8205060,
-  "name": "NGAJAM"
+  "districtName": "LOLODA UTARA",
+  "name": "NGAJAM",
+  "postalCode": "97755"
  },
  {
   "id": 8205060005,
   "districtId": 8205060,
-  "name": "DORUME"
+  "districtName": "LOLODA UTARA",
+  "name": "DORUME",
+  "postalCode": "97755"
  },
  {
   "id": 8205060006,
   "districtId": 8205060,
-  "name": "KAILUPA"
+  "districtName": "LOLODA UTARA",
+  "name": "KAILUPA",
+  "postalCode": "97755"
  },
  {
   "id": 8205060007,
   "districtId": 8205060,
-  "name": "GISIK"
+  "districtName": "LOLODA UTARA",
+  "name": "GISIK",
+  "postalCode": "97755"
  },
  {
   "id": 8205060008,
   "districtId": 8205060,
-  "name": "KAPA KAPA"
+  "districtName": "LOLODA UTARA",
+  "name": "KAPA KAPA",
+  "postalCode": "97755"
  },
  {
   "id": 8205060009,
   "districtId": 8205060,
-  "name": "POCAO"
+  "districtName": "LOLODA UTARA",
+  "name": "POCAO",
+  "postalCode": "97755"
  },
  {
   "id": 8205060010,
   "districtId": 8205060,
-  "name": "TATE"
+  "districtName": "LOLODA UTARA",
+  "name": "TATE",
+  "postalCode": "97755"
  },
  {
   "id": 8205060012,
   "districtId": 8205060,
-  "name": "POSI POSI"
+  "districtName": "LOLODA UTARA",
+  "name": "POSI POSI",
+  "postalCode": "97782"
  },
  {
   "id": 8205060013,
   "districtId": 8205060,
-  "name": "MOMOJIU"
+  "districtName": "LOLODA UTARA",
+  "name": "MOMOJIU",
+  "postalCode": "97755"
  },
  {
   "id": 8205060014,
   "districtId": 8205060,
-  "name": "WORIMOI"
+  "districtName": "LOLODA UTARA",
+  "name": "WORIMOI",
+  "postalCode": ""
  },
  {
   "id": 8205060015,
   "districtId": 8205060,
-  "name": "GALAO"
+  "districtName": "LOLODA UTARA",
+  "name": "GALAO",
+  "postalCode": "97755"
  },
  {
   "id": 8205060017,
   "districtId": 8205060,
-  "name": "PODOL"
+  "districtName": "LOLODA UTARA",
+  "name": "PODOL",
+  "postalCode": "97754"
  },
  {
   "id": 8205060018,
   "districtId": 8205060,
-  "name": "IGO"
+  "districtName": "LOLODA UTARA",
+  "name": "IGO",
+  "postalCode": "97755"
  }
 ]

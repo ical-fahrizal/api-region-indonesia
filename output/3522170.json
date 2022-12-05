@@ -2,56 +2,78 @@
  {
   "id": 3522170001,
   "districtId": 3522170,
-  "name": "KANDANGAN"
+  "districtName": "TRUCUK",
+  "name": "KANDANGAN",
+  "postalCode": "21186"
  },
  {
   "id": 3522170002,
   "districtId": 3522170,
-  "name": "SUMBANG TIMUN"
+  "districtName": "TRUCUK",
+  "name": "SUMBANG TIMUN",
+  "postalCode": "62155"
  },
  {
   "id": 3522170003,
   "districtId": 3522170,
-  "name": "KANTEN"
+  "districtName": "TRUCUK",
+  "name": "KANTEN",
+  "postalCode": "62155"
  },
  {
   "id": 3522170004,
   "districtId": 3522170,
-  "name": "PAGERWESI"
+  "districtName": "TRUCUK",
+  "name": "PAGERWESI",
+  "postalCode": "62155"
  },
  {
   "id": 3522170005,
   "districtId": 3522170,
-  "name": "PADANG"
+  "districtName": "TRUCUK",
+  "name": "PADANG",
+  "postalCode": "23762"
  },
  {
   "id": 3522170006,
   "districtId": 3522170,
-  "name": "SUMBERREJO"
+  "districtName": "TRUCUK",
+  "name": "SUMBERREJO",
+  "postalCode": "59184"
  },
  {
   "id": 3522170007,
   "districtId": 3522170,
-  "name": "MORI"
+  "districtName": "TRUCUK",
+  "name": "MORI",
+  "postalCode": "62155"
  },
  {
   "id": 3522170008,
   "districtId": 3522170,
-  "name": "TULUNGREJO"
+  "districtName": "TRUCUK",
+  "name": "TULUNGREJO",
+  "postalCode": "66275"
  },
  {
   "id": 3522170010,
   "districtId": 3522170,
-  "name": "GUYANGAN"
+  "districtName": "TRUCUK",
+  "name": "GUYANGAN",
+  "postalCode": "59453"
  },
  {
   "id": 3522170011,
   "districtId": 3522170,
-  "name": "SRANAK"
+  "districtName": "TRUCUK",
+  "name": "SRANAK",
+  "postalCode": "62155"
  },
  {
   "id": 3522170012,
   "districtId": 3522170,
-  "name": "BANJARSARI"
+  "districtName": "TRUCUK",
+  "name": "BANJARSARI",
+  "postalCode": "35377"
  }
 ]

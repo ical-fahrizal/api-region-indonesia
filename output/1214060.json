@@ -2,56 +2,78 @@
  {
   "id": 1214060013,
   "districtId": 1214060,
-  "name": "LAWA LAWA LUO GOMO"
+  "districtName": "GOMO",
+  "name": "LAWA LAWA LUO GOMO",
+  "postalCode": ""
  },
  {
   "id": 1214060014,
   "districtId": 1214060,
-  "name": "SIFOROASI GOMO"
+  "districtName": "GOMO",
+  "name": "SIFOROASI GOMO",
+  "postalCode": ""
  },
  {
   "id": 1214060015,
   "districtId": 1214060,
-  "name": "ORAHILI GOMO"
+  "districtName": "GOMO",
+  "name": "ORAHILI GOMO",
+  "postalCode": "22873"
  },
  {
   "id": 1214060018,
   "districtId": 1214060,
-  "name": "LOLOSONI"
+  "districtName": "GOMO",
+  "name": "LOLOSONI",
+  "postalCode": "22873"
  },
  {
   "id": 1214060019,
   "districtId": 1214060,
-  "name": "HILIANAA GOMO"
+  "districtName": "GOMO",
+  "name": "HILIANAA GOMO",
+  "postalCode": "22873"
  },
  {
   "id": 1214060021,
   "districtId": 1214060,
-  "name": "DOLI DOLI"
+  "districtName": "GOMO",
+  "name": "DOLI DOLI",
+  "postalCode": ""
  },
  {
   "id": 1214060032,
   "districtId": 1214060,
-  "name": "SUKA MAJU MOHILI"
+  "districtName": "GOMO",
+  "name": "SUKA MAJU MOHILI",
+  "postalCode": "22873"
  },
  {
   "id": 1214060036,
   "districtId": 1214060,
-  "name": "TANONIKOO"
+  "districtName": "GOMO",
+  "name": "TANONIKOO",
+  "postalCode": ""
  },
  {
   "id": 1214060037,
   "districtId": 1214060,
-  "name": "ORAHILI SIBOHOU"
+  "districtName": "GOMO",
+  "name": "ORAHILI SIBOHOU",
+  "postalCode": "22873"
  },
  {
   "id": 1214060038,
   "districtId": 1214060,
-  "name": "UMBU ORAHUA"
+  "districtName": "GOMO",
+  "name": "UMBU ORAHUA",
+  "postalCode": "22873"
  },
  {
   "id": 1214060039,
   "districtId": 1214060,
-  "name": "GUNUNG GABUNGAN"
+  "districtName": "GOMO",
+  "name": "GUNUNG GABUNGAN",
+  "postalCode": ""
  }
 ]

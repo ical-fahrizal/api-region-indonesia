@@ -2,21 +2,29 @@
  {
   "id": 7373011001,
   "districtId": 7373011,
-  "name": "PURANGI"
+  "districtName": "SENDANA",
+  "name": "PURANGI",
+  "postalCode": "91959"
  },
  {
   "id": 7373011005,
   "districtId": 7373011,
-  "name": "MAWA"
+  "districtName": "SENDANA",
+  "name": "MAWA",
+  "postalCode": "91925"
  },
  {
   "id": 7373011006,
   "districtId": 7373011,
-  "name": "PETA"
+  "districtName": "SENDANA",
+  "name": "PETA",
+  "postalCode": "91959"
  },
  {
   "id": 7373011007,
   "districtId": 7373011,
-  "name": "SENDANA"
+  "districtName": "SENDANA",
+  "name": "SENDANA",
+  "postalCode": "91959"
  }
 ]

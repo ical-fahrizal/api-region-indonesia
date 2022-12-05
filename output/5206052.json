@@ -2,31 +2,43 @@
  {
   "id": 5206052001,
   "districtId": 5206052,
-  "name": "SAMBORI"
+  "districtName": "LAMBITU",
+  "name": "SAMBORI",
+  "postalCode": "84181"
  },
  {
   "id": 5206052002,
   "districtId": 5206052,
-  "name": "KABORO"
+  "districtName": "LAMBITU",
+  "name": "KABORO",
+  "postalCode": ""
  },
  {
   "id": 5206052003,
   "districtId": 5206052,
-  "name": "KUTA"
+  "districtName": "LAMBITU",
+  "name": "KUTA",
+  "postalCode": "16770"
  },
  {
   "id": 5206052004,
   "districtId": 5206052,
-  "name": "TETA"
+  "districtName": "LAMBITU",
+  "name": "TETA",
+  "postalCode": "84181"
  },
  {
   "id": 5206052005,
   "districtId": 5206052,
-  "name": "KAOWA"
+  "districtName": "LAMBITU",
+  "name": "KAOWA",
+  "postalCode": "84181"
  },
  {
   "id": 5206052006,
   "districtId": 5206052,
-  "name": "LONDU"
+  "districtName": "LAMBITU",
+  "name": "LONDU",
+  "postalCode": ""
  }
 ]

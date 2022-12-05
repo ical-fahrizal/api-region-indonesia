@@ -2,51 +2,71 @@
  {
   "id": 7209051005,
   "districtId": 7209051,
-  "name": "UENTANAGA ATAS"
+  "districtName": "RATOLINDO",
+  "name": "UENTANAGA ATAS",
+  "postalCode": "94683"
  },
  {
   "id": 7209051006,
   "districtId": 7209051,
-  "name": "SUMOLI"
+  "districtName": "RATOLINDO",
+  "name": "SUMOLI",
+  "postalCode": "94683"
  },
  {
   "id": 7209051007,
   "districtId": 7209051,
-  "name": "UENTANAGA BAWAH"
+  "districtName": "RATOLINDO",
+  "name": "UENTANAGA BAWAH",
+  "postalCode": "94683"
  },
  {
   "id": 7209051008,
   "districtId": 7209051,
-  "name": "DONDO"
+  "districtName": "RATOLINDO",
+  "name": "DONDO",
+  "postalCode": "94683"
  },
  {
   "id": 7209051009,
   "districtId": 7209051,
-  "name": "LABUAN"
+  "districtName": "RATOLINDO",
+  "name": "LABUAN",
+  "postalCode": "34874"
  },
  {
   "id": 7209051011,
   "districtId": 7209051,
-  "name": "SABULIRA TOBA"
+  "districtName": "RATOLINDO",
+  "name": "SABULIRA TOBA",
+  "postalCode": "94683"
  },
  {
   "id": 7209051016,
   "districtId": 7209051,
-  "name": "UEMALINGKU"
+  "districtName": "RATOLINDO",
+  "name": "UEMALINGKU",
+  "postalCode": ""
  },
  {
   "id": 7209051018,
   "districtId": 7209051,
-  "name": "PATINGKO"
+  "districtName": "RATOLINDO",
+  "name": "PATINGKO",
+  "postalCode": "94683"
  },
  {
   "id": 7209051019,
   "districtId": 7209051,
-  "name": "MUARA TOBA"
+  "districtName": "RATOLINDO",
+  "name": "MUARA TOBA",
+  "postalCode": "94683"
  },
  {
   "id": 7209051020,
   "districtId": 7209051,
-  "name": "DONDO BARAT"
+  "districtName": "RATOLINDO",
+  "name": "DONDO BARAT",
+  "postalCode": "94683"
  }
 ]

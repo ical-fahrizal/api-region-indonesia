@@ -2,46 +2,64 @@
  {
   "id": 9415060001,
   "districtId": 9415060,
-  "name": "BERITEN"
+  "districtName": "AGATS",
+  "name": "BERITEN",
+  "postalCode": ""
  },
  {
   "id": 9415060004,
   "districtId": 9415060,
-  "name": "YOMOTH"
+  "districtName": "AGATS",
+  "name": "YOMOTH",
+  "postalCode": ""
  },
  {
   "id": 9415060005,
   "districtId": 9415060,
-  "name": "ASUWETSY"
+  "districtName": "AGATS",
+  "name": "ASUWETSY",
+  "postalCode": "99777"
  },
  {
   "id": 9415060006,
   "districtId": 9415060,
-  "name": "BIS AGATS"
+  "districtName": "AGATS",
+  "name": "BIS AGATS",
+  "postalCode": "99777"
  },
  {
   "id": 9415060007,
   "districtId": 9415060,
-  "name": "BISMAM"
+  "districtName": "AGATS",
+  "name": "BISMAM",
+  "postalCode": ""
  },
  {
   "id": 9415060010,
   "districtId": 9415060,
-  "name": "MBAIT"
+  "districtName": "AGATS",
+  "name": "MBAIT",
+  "postalCode": "99777"
  },
  {
   "id": 9415060011,
   "districtId": 9415060,
-  "name": "BOU"
+  "districtName": "AGATS",
+  "name": "BOU",
+  "postalCode": "94356"
  },
  {
   "id": 9415060012,
   "districtId": 9415060,
-  "name": "KAYE"
+  "districtName": "AGATS",
+  "name": "KAYE",
+  "postalCode": "99777"
  },
  {
   "id": 9415060014,
   "districtId": 9415060,
-  "name": "SAW"
+  "districtName": "AGATS",
+  "name": "SAW",
+  "postalCode": "99777"
  }
 ]

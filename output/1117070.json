@@ -2,136 +2,190 @@
  {
   "id": 1117070001,
   "districtId": 1117070,
-  "name": "PANTAN TENGAH JAYA"
+  "districtName": "PERMATA",
+  "name": "PANTAN TENGAH JAYA",
+  "postalCode": "24582"
  },
  {
   "id": 1117070002,
   "districtId": 1117070,
-  "name": "BENER PEPANYI"
+  "districtName": "PERMATA",
+  "name": "BENER PEPANYI",
+  "postalCode": "24582"
  },
  {
   "id": 1117070003,
   "districtId": 1117070,
-  "name": "BINTANG BENER"
+  "districtName": "PERMATA",
+  "name": "BINTANG BENER",
+  "postalCode": "24652"
  },
  {
   "id": 1117070004,
   "districtId": 1117070,
-  "name": "BINTANG PERMATA"
+  "districtName": "PERMATA",
+  "name": "BINTANG PERMATA",
+  "postalCode": "24582"
  },
  {
   "id": 1117070005,
   "districtId": 1117070,
-  "name": "BUNTUL PETERI"
+  "districtName": "PERMATA",
+  "name": "BUNTUL PETERI",
+  "postalCode": ""
  },
  {
   "id": 1117070006,
   "districtId": 1117070,
-  "name": "GELAMPANG"
+  "districtName": "PERMATA",
+  "name": "GELAMPANG",
+  "postalCode": ""
  },
  {
   "id": 1117070007,
   "districtId": 1117070,
-  "name": "SENI ANTARA"
+  "districtName": "PERMATA",
+  "name": "SENI ANTARA",
+  "postalCode": "24582"
  },
  {
   "id": 1117070008,
   "districtId": 1117070,
-  "name": "WEH TENANG UKEN"
+  "districtName": "PERMATA",
+  "name": "WEH TENANG UKEN",
+  "postalCode": ""
  },
  {
   "id": 1117070009,
   "districtId": 1117070,
-  "name": "DARUL AMAN"
+  "districtName": "PERMATA",
+  "name": "DARUL AMAN",
+  "postalCode": "24373"
  },
  {
   "id": 1117070010,
   "districtId": 1117070,
-  "name": "PENOSAN JAYA"
+  "districtName": "PERMATA",
+  "name": "PENOSAN JAYA",
+  "postalCode": "24582"
  },
  {
   "id": 1117070011,
   "districtId": 1117070,
-  "name": "RAMUNG JAYA"
+  "districtName": "PERMATA",
+  "name": "RAMUNG JAYA",
+  "postalCode": "24582"
  },
  {
   "id": 1117070012,
   "districtId": 1117070,
-  "name": "TEMAS MUMANANG"
+  "districtName": "PERMATA",
+  "name": "TEMAS MUMANANG",
+  "postalCode": "24582"
  },
  {
   "id": 1117070013,
   "districtId": 1117070,
-  "name": "WEH TENANG TUA"
+  "districtName": "PERMATA",
+  "name": "WEH TENANG TUA",
+  "postalCode": ""
  },
  {
   "id": 1117070014,
   "districtId": 1117070,
-  "name": "AYU ARA"
+  "districtName": "PERMATA",
+  "name": "AYU ARA",
+  "postalCode": "24582"
  },
  {
   "id": 1117070015,
   "districtId": 1117070,
-  "name": "BALE MUSARA"
+  "districtName": "PERMATA",
+  "name": "BALE MUSARA",
+  "postalCode": "24582"
  },
  {
   "id": 1117070016,
   "districtId": 1117070,
-  "name": "BALE PURNAMA"
+  "districtName": "PERMATA",
+  "name": "BALE PURNAMA",
+  "postalCode": "24582"
  },
  {
   "id": 1117070017,
   "districtId": 1117070,
-  "name": "BURNI PASE"
+  "districtName": "PERMATA",
+  "name": "BURNI PASE",
+  "postalCode": "24582"
  },
  {
   "id": 1117070018,
   "districtId": 1117070,
-  "name": "KEPIES"
+  "districtName": "PERMATA",
+  "name": "KEPIES",
+  "postalCode": ""
  },
  {
   "id": 1117070019,
   "districtId": 1117070,
-  "name": "RIKIT MUSARA"
+  "districtName": "PERMATA",
+  "name": "RIKIT MUSARA",
+  "postalCode": "24582"
  },
  {
   "id": 1117070020,
   "districtId": 1117070,
-  "name": "CEDING AYU"
+  "districtName": "PERMATA",
+  "name": "CEDING AYU",
+  "postalCode": "24582"
  },
  {
   "id": 1117070021,
   "districtId": 1117070,
-  "name": "JUNGKE GAJAH"
+  "districtName": "PERMATA",
+  "name": "JUNGKE GAJAH",
+  "postalCode": ""
  },
  {
   "id": 1117070022,
   "districtId": 1117070,
-  "name": "JELOBOK"
+  "districtName": "PERMATA",
+  "name": "JELOBOK",
+  "postalCode": "24582"
  },
  {
   "id": 1117070023,
   "districtId": 1117070,
-  "name": "PEMANGO"
+  "districtName": "PERMATA",
+  "name": "PEMANGO",
+  "postalCode": ""
  },
  {
   "id": 1117070024,
   "districtId": 1117070,
-  "name": "SUKU SARA TANGKE"
+  "districtName": "PERMATA",
+  "name": "SUKU SARA TANGKE",
+  "postalCode": "24582"
  },
  {
   "id": 1117070025,
   "districtId": 1117070,
-  "name": "TAWAR BENGI"
+  "districtName": "PERMATA",
+  "name": "TAWAR BENGI",
+  "postalCode": "24582"
  },
  {
   "id": 1117070026,
   "districtId": 1117070,
-  "name": "UNING SEJUK"
+  "districtName": "PERMATA",
+  "name": "UNING SEJUK",
+  "postalCode": "24582"
  },
  {
   "id": 1117070027,
   "districtId": 1117070,
-  "name": "TIMUR JAYA"
+  "districtName": "PERMATA",
+  "name": "TIMUR JAYA",
+  "postalCode": "24582"
  }
 ]

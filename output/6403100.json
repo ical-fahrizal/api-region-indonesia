@@ -2,66 +2,92 @@
  {
   "id": 6403100001,
   "districtId": 6403100,
-  "name": "SELERONG"
+  "districtName": "SEBULU",
+  "name": "SELERONG",
+  "postalCode": "76253"
  },
  {
   "id": 6403100002,
   "districtId": 6403100,
-  "name": "TANJUNG HARAPAN"
+  "districtName": "SEBULU",
+  "name": "TANJUNG HARAPAN",
+  "postalCode": "23754"
  },
  {
   "id": 6403100003,
   "districtId": 6403100,
-  "name": "BELORO"
+  "districtName": "SEBULU",
+  "name": "BELORO",
+  "postalCode": "75552"
  },
  {
   "id": 6403100005,
   "districtId": 6403100,
-  "name": "MANUNGGAL DAYA"
+  "districtName": "SEBULU",
+  "name": "MANUNGGAL DAYA",
+  "postalCode": "75552"
  },
  {
   "id": 6403100006,
   "districtId": 6403100,
-  "name": "SUMBER SARI"
+  "districtName": "SEBULU",
+  "name": "SUMBER SARI",
+  "postalCode": "21343"
  },
  {
   "id": 6403100007,
   "districtId": 6403100,
-  "name": "SEBULU ILIR"
+  "districtName": "SEBULU",
+  "name": "SEBULU ILIR",
+  "postalCode": "75552"
  },
  {
   "id": 6403100008,
   "districtId": 6403100,
-  "name": "SEGIHAN"
+  "districtName": "SEBULU",
+  "name": "SEGIHAN",
+  "postalCode": "75552"
  },
  {
   "id": 6403100009,
   "districtId": 6403100,
-  "name": "GIRI AGUNG"
+  "districtName": "SEBULU",
+  "name": "GIRI AGUNG",
+  "postalCode": "75552"
  },
  {
   "id": 6403100010,
   "districtId": 6403100,
-  "name": "SENONI"
+  "districtName": "SEBULU",
+  "name": "SENONI",
+  "postalCode": "75552"
  },
  {
   "id": 6403100011,
   "districtId": 6403100,
-  "name": "SEBULU MODERN"
+  "districtName": "SEBULU",
+  "name": "SEBULU MODERN",
+  "postalCode": "75552"
  },
  {
   "id": 6403100012,
   "districtId": 6403100,
-  "name": "LEKAQ KIDAU"
+  "districtName": "SEBULU",
+  "name": "LEKAQ KIDAU",
+  "postalCode": ""
  },
  {
   "id": 6403100013,
   "districtId": 6403100,
-  "name": "SANGGULAN"
+  "districtName": "SEBULU",
+  "name": "SANGGULAN",
+  "postalCode": "75552"
  },
  {
   "id": 6403100014,
   "districtId": 6403100,
-  "name": "MEKAR JAYA"
+  "districtName": "SEBULU",
+  "name": "MEKAR JAYA",
+  "postalCode": "20771"
  }
 ]

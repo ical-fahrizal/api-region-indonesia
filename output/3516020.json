@@ -2,86 +2,120 @@
  {
   "id": 3516020001,
   "districtId": 3516020,
-  "name": "NGEMBAT"
+  "districtName": "GONDANG",
+  "name": "NGEMBAT",
+  "postalCode": "61372"
  },
  {
   "id": 3516020002,
   "districtId": 3516020,
-  "name": "JATIDUKUH"
+  "districtName": "GONDANG",
+  "name": "JATIDUKUH",
+  "postalCode": "61372"
  },
  {
   "id": 3516020003,
   "districtId": 3516020,
-  "name": "KALIKATIR"
+  "districtName": "GONDANG",
+  "name": "KALIKATIR",
+  "postalCode": "61372"
  },
  {
   "id": 3516020004,
   "districtId": 3516020,
-  "name": "DILEM"
+  "districtName": "GONDANG",
+  "name": "DILEM",
+  "postalCode": "54262"
  },
  {
   "id": 3516020005,
   "districtId": 3516020,
-  "name": "BEGAGANLIMO"
+  "districtName": "GONDANG",
+  "name": "BEGAGANLIMO",
+  "postalCode": "61372"
  },
  {
   "id": 3516020007,
   "districtId": 3516020,
-  "name": "KEMASANTANI"
+  "districtName": "GONDANG",
+  "name": "KEMASANTANI",
+  "postalCode": "61372"
  },
  {
   "id": 3516020008,
   "districtId": 3516020,
-  "name": "PADI"
+  "districtName": "GONDANG",
+  "name": "PADI",
+  "postalCode": "61372"
  },
  {
   "id": 3516020009,
   "districtId": 3516020,
-  "name": "CENTONG"
+  "districtName": "GONDANG",
+  "name": "CENTONG",
+  "postalCode": "61372"
  },
  {
   "id": 3516020010,
   "districtId": 3516020,
-  "name": "BAKALAN"
+  "districtName": "GONDANG",
+  "name": "BAKALAN",
+  "postalCode": "59158"
  },
  {
   "id": 3516020011,
   "districtId": 3516020,
-  "name": "GONDANG"
+  "districtName": "GONDANG",
+  "name": "GONDANG",
+  "postalCode": "51255"
  },
  {
   "id": 3516020012,
   "districtId": 3516020,
-  "name": "PUGERAN"
+  "districtName": "GONDANG",
+  "name": "PUGERAN",
+  "postalCode": "57464"
  },
  {
   "id": 3516020013,
   "districtId": 3516020,
-  "name": "KEBONTUNGGUL"
+  "districtName": "GONDANG",
+  "name": "KEBONTUNGGUL",
+  "postalCode": "61372"
  },
  {
   "id": 3516020014,
   "districtId": 3516020,
-  "name": "WONOPLOSO"
+  "districtName": "GONDANG",
+  "name": "WONOPLOSO",
+  "postalCode": "61372"
  },
  {
   "id": 3516020015,
   "districtId": 3516020,
-  "name": "POHJEJER"
+  "districtName": "GONDANG",
+  "name": "POHJEJER",
+  "postalCode": "61372"
  },
  {
   "id": 3516020016,
   "districtId": 3516020,
-  "name": "BENING"
+  "districtName": "GONDANG",
+  "name": "BENING",
+  "postalCode": "61372"
  },
  {
   "id": 3516020017,
   "districtId": 3516020,
-  "name": "KARANGKUTEN"
+  "districtName": "GONDANG",
+  "name": "KARANGKUTEN",
+  "postalCode": "61372"
  },
  {
   "id": 3516020018,
   "districtId": 3516020,
-  "name": "TAWAR"
+  "districtName": "GONDANG",
+  "name": "TAWAR",
+  "postalCode": "61372"
  }
 ]

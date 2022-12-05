@@ -2,41 +2,57 @@
  {
   "id": 3404140001,
   "districtId": 3404140,
-  "name": "BANYU REJO"
+  "districtName": "TEMPEL",
+  "name": "BANYU REJO",
+  "postalCode": "55552"
  },
  {
   "id": 3404140002,
   "districtId": 3404140,
-  "name": "TAMBAK REJO"
+  "districtName": "TEMPEL",
+  "name": "TAMBAK REJO",
+  "postalCode": "38657"
  },
  {
   "id": 3404140003,
   "districtId": 3404140,
-  "name": "SUMBER REJO"
+  "districtName": "TEMPEL",
+  "name": "SUMBER REJO",
+  "postalCode": "21255"
  },
  {
   "id": 3404140004,
   "districtId": 3404140,
-  "name": "PONDOK REJO"
+  "districtName": "TEMPEL",
+  "name": "PONDOK REJO",
+  "postalCode": "55552"
  },
  {
   "id": 3404140005,
   "districtId": 3404140,
-  "name": "MORO REJO"
+  "districtName": "TEMPEL",
+  "name": "MORO REJO",
+  "postalCode": "55552"
  },
  {
   "id": 3404140006,
   "districtId": 3404140,
-  "name": "MARGO REJO"
+  "districtName": "TEMPEL",
+  "name": "MARGO REJO",
+  "postalCode": "35365"
  },
  {
   "id": 3404140007,
   "districtId": 3404140,
-  "name": "LUMBUNG REJO"
+  "districtName": "TEMPEL",
+  "name": "LUMBUNG REJO",
+  "postalCode": "55552"
  },
  {
   "id": 3404140008,
   "districtId": 3404140,
-  "name": "MERDIKO REJO"
+  "districtName": "TEMPEL",
+  "name": "MERDIKO REJO",
+  "postalCode": "55552"
  }
 ]

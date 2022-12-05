@@ -2,16 +2,22 @@
  {
   "id": 3404070001,
   "districtId": 3404070,
-  "name": "CATUR TUNGGAL"
+  "districtName": "DEPOK",
+  "name": "CATUR TUNGGAL",
+  "postalCode": "30681"
  },
  {
   "id": 3404070002,
   "districtId": 3404070,
-  "name": "MAGUWOHARJO"
+  "districtName": "DEPOK",
+  "name": "MAGUWOHARJO",
+  "postalCode": "55282"
  },
  {
   "id": 3404070003,
   "districtId": 3404070,
-  "name": "CONDONG CATUR"
+  "districtName": "DEPOK",
+  "name": "CONDONG CATUR",
+  "postalCode": "55283"
  }
 ]

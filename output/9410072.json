@@ -2,11 +2,15 @@
  {
   "id": 9410072001,
   "districtId": 9410072,
-  "name": "DETA"
+  "districtName": "AWEIDA",
+  "name": "DETA",
+  "postalCode": "98766"
  },
  {
   "id": 9410072002,
   "districtId": 9410072,
-  "name": "TUGUWAI"
+  "districtName": "AWEIDA",
+  "name": "TUGUWAI",
+  "postalCode": "98766"
  }
 ]

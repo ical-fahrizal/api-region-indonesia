@@ -2,51 +2,71 @@
  {
   "id": 6205061001,
   "districtId": 6205061,
-  "name": "NIHAN HILIR"
+  "districtName": "LAHEI BARAT",
+  "name": "NIHAN HILIR",
+  "postalCode": "73852"
  },
  {
   "id": 6205061002,
   "districtId": 6205061,
-  "name": "NIHAN HULU"
+  "districtName": "LAHEI BARAT",
+  "name": "NIHAN HULU",
+  "postalCode": "73852"
  },
  {
   "id": 6205061003,
   "districtId": 6205061,
-  "name": "LUWE HILIR"
+  "districtName": "LAHEI BARAT",
+  "name": "LUWE HILIR",
+  "postalCode": "73852"
  },
  {
   "id": 6205061005,
   "districtId": 6205061,
-  "name": "JANGKANG BARU"
+  "districtName": "LAHEI BARAT",
+  "name": "JANGKANG BARU",
+  "postalCode": "73852"
  },
  {
   "id": 6205061006,
   "districtId": 6205061,
-  "name": "JANGKANG LAMA"
+  "districtName": "LAHEI BARAT",
+  "name": "JANGKANG LAMA",
+  "postalCode": "73852"
  },
  {
   "id": 6205061007,
   "districtId": 6205061,
-  "name": "PAPAR PUJUNG"
+  "districtName": "LAHEI BARAT",
+  "name": "PAPAR PUJUNG",
+  "postalCode": "73852"
  },
  {
   "id": 6205061008,
   "districtId": 6205061,
-  "name": "TELUK MALEWAI"
+  "districtName": "LAHEI BARAT",
+  "name": "TELUK MALEWAI",
+  "postalCode": "73852"
  },
  {
   "id": 6205061009,
   "districtId": 6205061,
-  "name": "BENAO HILIR"
+  "districtName": "LAHEI BARAT",
+  "name": "BENAO HILIR",
+  "postalCode": "73852"
  },
  {
   "id": 6205061010,
   "districtId": 6205061,
-  "name": "BENAO HULU"
+  "districtName": "LAHEI BARAT",
+  "name": "BENAO HULU",
+  "postalCode": "73852"
  },
  {
   "id": 6205061011,
   "districtId": 6205061,
-  "name": "KARAMUAN"
+  "districtName": "LAHEI BARAT",
+  "name": "KARAMUAN",
+  "postalCode": "73852"
  }
 ]

@@ -2,56 +2,78 @@
  {
   "id": 1405023001,
   "districtId": 1405023,
-  "name": "SUKA MULIA"
+  "districtName": "DAYUN",
+  "name": "SUKA MULIA",
+  "postalCode": "23662"
  },
  {
   "id": 1405023002,
   "districtId": 1405023,
-  "name": "BUANA MAKMUR"
+  "districtName": "DAYUN",
+  "name": "BUANA MAKMUR",
+  "postalCode": "28671"
  },
  {
   "id": 1405023003,
   "districtId": 1405023,
-  "name": "PANGKALAN MAKMUR"
+  "districtName": "DAYUN",
+  "name": "PANGKALAN MAKMUR",
+  "postalCode": "28671"
  },
  {
   "id": 1405023004,
   "districtId": 1405023,
-  "name": "BANJAR SEMINAI"
+  "districtName": "DAYUN",
+  "name": "BANJAR SEMINAI",
+  "postalCode": "28671"
  },
  {
   "id": 1405023005,
   "districtId": 1405023,
-  "name": "TELUK MERBAU"
+  "districtName": "DAYUN",
+  "name": "TELUK MERBAU",
+  "postalCode": "28671"
  },
  {
   "id": 1405023006,
   "districtId": 1405023,
-  "name": "SAWIT PERMAI"
+  "districtName": "DAYUN",
+  "name": "SAWIT PERMAI",
+  "postalCode": "28671"
  },
  {
   "id": 1405023007,
   "districtId": 1405023,
-  "name": "SIALANG SAKTI"
+  "districtName": "DAYUN",
+  "name": "SIALANG SAKTI",
+  "postalCode": "28671"
  },
  {
   "id": 1405023008,
   "districtId": 1405023,
-  "name": "MERANGKAI"
+  "districtName": "DAYUN",
+  "name": "MERANGKAI",
+  "postalCode": "28671"
  },
  {
   "id": 1405023009,
   "districtId": 1405023,
-  "name": "BERUMBUNG BARU"
+  "districtName": "DAYUN",
+  "name": "BERUMBUNG BARU",
+  "postalCode": ""
  },
  {
   "id": 1405023010,
   "districtId": 1405023,
-  "name": "LUBUK TILAN"
+  "districtName": "DAYUN",
+  "name": "LUBUK TILAN",
+  "postalCode": "28671"
  },
  {
   "id": 1405023011,
   "districtId": 1405023,
-  "name": "DAYUN"
+  "districtName": "DAYUN",
+  "name": "DAYUN",
+  "postalCode": "28671"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 9411055001,
   "districtId": 9411055,
-  "name": "KARUBATE"
+  "districtName": "MUARA",
+  "name": "KARUBATE",
+  "postalCode": "98911"
  },
  {
   "id": 9411055002,
   "districtId": 9411055,
-  "name": "KULIRIK"
+  "districtName": "MUARA",
+  "name": "KULIRIK",
+  "postalCode": "98911"
  },
  {
   "id": 9411055003,
   "districtId": 9411055,
-  "name": "DOLINGGOBAK"
+  "districtName": "MUARA",
+  "name": "DOLINGGOBAK",
+  "postalCode": ""
  },
  {
   "id": 9411055004,
   "districtId": 9411055,
-  "name": "YALINGGUA"
+  "districtName": "MUARA",
+  "name": "YALINGGUA",
+  "postalCode": "98911"
  },
  {
   "id": 9411055005,
   "districtId": 9411055,
-  "name": "MUARA"
+  "districtName": "MUARA",
+  "name": "MUARA",
+  "postalCode": "41259"
  },
  {
   "id": 9411055006,
   "districtId": 9411055,
-  "name": "TALILOME"
+  "districtName": "MUARA",
+  "name": "TALILOME",
+  "postalCode": "98911"
  },
  {
   "id": 9411055007,
   "districtId": 9411055,
-  "name": "DOLIGOBAK"
+  "districtName": "MUARA",
+  "name": "DOLIGOBAK",
+  "postalCode": "98911"
  },
  {
   "id": 9411055008,
   "districtId": 9411055,
-  "name": "YAMBIDUGUM"
+  "districtName": "MUARA",
+  "name": "YAMBIDUGUM",
+  "postalCode": ""
  }
 ]

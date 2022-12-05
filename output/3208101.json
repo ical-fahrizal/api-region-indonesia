@@ -2,51 +2,71 @@
  {
   "id": 3208101001,
   "districtId": 3208101,
-  "name": "MUNCANGELA"
+  "districtName": "CIPICUNG",
+  "name": "MUNCANGELA",
+  "postalCode": "45592"
  },
  {
   "id": 3208101002,
   "districtId": 3208101,
-  "name": "KAROYA"
+  "districtName": "CIPICUNG",
+  "name": "KAROYA",
+  "postalCode": "45592"
  },
  {
   "id": 3208101003,
   "districtId": 3208101,
-  "name": "SUSUKAN"
+  "districtName": "CIPICUNG",
+  "name": "SUSUKAN",
+  "postalCode": "13750"
  },
  {
   "id": 3208101004,
   "districtId": 3208101,
-  "name": "SUKAMUKTI"
+  "districtName": "CIPICUNG",
+  "name": "SUKAMUKTI",
+  "postalCode": "44191"
  },
  {
   "id": 3208101005,
   "districtId": 3208101,
-  "name": "CIPICUNG"
+  "districtName": "CIPICUNG",
+  "name": "CIPICUNG",
+  "postalCode": "44191"
  },
  {
   "id": 3208101006,
   "districtId": 3208101,
-  "name": "MEKARSARI"
+  "districtName": "CIPICUNG",
+  "name": "MEKARSARI",
+  "postalCode": "37482"
  },
  {
   "id": 3208101007,
   "districtId": 3208101,
-  "name": "CIMARANTEN"
+  "districtName": "CIPICUNG",
+  "name": "CIMARANTEN",
+  "postalCode": "45592"
  },
  {
   "id": 3208101008,
   "districtId": 3208101,
-  "name": "PAMULIHAN"
+  "districtName": "CIPICUNG",
+  "name": "PAMULIHAN",
+  "postalCode": "45592"
  },
  {
   "id": 3208101009,
   "districtId": 3208101,
-  "name": "SALAREUMA"
+  "districtName": "CIPICUNG",
+  "name": "SALAREUMA",
+  "postalCode": "45592"
  },
  {
   "id": 3208101010,
   "districtId": 3208101,
-  "name": "SUGANANGAN"
+  "districtName": "CIPICUNG",
+  "name": "SUGANANGAN",
+  "postalCode": "45592"
  }
 ]

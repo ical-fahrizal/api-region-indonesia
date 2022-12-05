@@ -2,61 +2,85 @@
  {
   "id": 1173021001,
   "districtId": 1173021,
-  "name": "TIMBANG LANGSA"
+  "districtName": "LANGSA BARO",
+  "name": "TIMBANG LANGSA",
+  "postalCode": "24415"
  },
  {
   "id": 1173021002,
   "districtId": 1173021,
-  "name": "ALUE DUA"
+  "districtName": "LANGSA BARO",
+  "name": "ALUE DUA",
+  "postalCode": "24394"
  },
  {
   "id": 1173021003,
   "districtId": 1173021,
-  "name": "BIREM PUNTONG"
+  "districtName": "LANGSA BARO",
+  "name": "BIREM PUNTONG",
+  "postalCode": "24415"
  },
  {
   "id": 1173021004,
   "districtId": 1173021,
-  "name": "PAYA BUJOK SEULEUMAK"
+  "districtName": "LANGSA BARO",
+  "name": "PAYA BUJOK SEULEUMAK",
+  "postalCode": ""
  },
  {
   "id": 1173021005,
   "districtId": 1173021,
-  "name": "PONDOK KELAPA"
+  "districtName": "LANGSA BARO",
+  "name": "PONDOK KELAPA",
+  "postalCode": "24415"
  },
  {
   "id": 1173021006,
   "districtId": 1173021,
-  "name": "KARANG ANYAR"
+  "districtName": "LANGSA BARO",
+  "name": "KARANG ANYAR",
+  "postalCode": "24415"
  },
  {
   "id": 1173021007,
   "districtId": 1173021,
-  "name": "PAYA BUJOK TUNONG"
+  "districtName": "LANGSA BARO",
+  "name": "PAYA BUJOK TUNONG",
+  "postalCode": ""
  },
  {
   "id": 1173021008,
   "districtId": 1173021,
-  "name": "GEUDUBANG JAWA"
+  "districtName": "LANGSA BARO",
+  "name": "GEUDUBANG JAWA",
+  "postalCode": "24415"
  },
  {
   "id": 1173021009,
   "districtId": 1173021,
-  "name": "GEUDUBANG ACEH"
+  "districtName": "LANGSA BARO",
+  "name": "GEUDUBANG ACEH",
+  "postalCode": ""
  },
  {
   "id": 1173021010,
   "districtId": 1173021,
-  "name": "ALUE DUA BAKARAN BATEE"
+  "districtName": "LANGSA BARO",
+  "name": "ALUE DUA BAKARAN BATEE",
+  "postalCode": ""
  },
  {
   "id": 1173021011,
   "districtId": 1173021,
-  "name": "LENGKONG"
+  "districtName": "LANGSA BARO",
+  "name": "LENGKONG",
+  "postalCode": "24415"
  },
  {
   "id": 1173021012,
   "districtId": 1173021,
-  "name": "SUKAJADI MAKMUR"
+  "districtName": "LANGSA BARO",
+  "name": "SUKAJADI MAKMUR",
+  "postalCode": ""
  }
 ]

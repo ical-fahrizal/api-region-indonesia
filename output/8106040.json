@@ -2,86 +2,120 @@
  {
   "id": 8106040001,
   "districtId": 8106040,
-  "name": "RUMAHSOAL"
+  "districtName": "TANIWEL",
+  "name": "RUMAHSOAL",
+  "postalCode": "97561"
  },
  {
   "id": 8106040002,
   "districtId": 8106040,
-  "name": "LOHIA SAPALEWA"
+  "districtName": "TANIWEL",
+  "name": "LOHIA SAPALEWA",
+  "postalCode": "97561"
  },
  {
   "id": 8106040003,
   "districtId": 8106040,
-  "name": "LATURAKE"
+  "districtName": "TANIWEL",
+  "name": "LATURAKE",
+  "postalCode": "97561"
  },
  {
   "id": 8106040004,
   "districtId": 8106040,
-  "name": "BURIA"
+  "districtName": "TANIWEL",
+  "name": "BURIA",
+  "postalCode": "97561"
  },
  {
   "id": 8106040005,
   "districtId": 8106040,
-  "name": "RIRING"
+  "districtName": "TANIWEL",
+  "name": "RIRING",
+  "postalCode": "97561"
  },
  {
   "id": 8106040006,
   "districtId": 8106040,
-  "name": "NINIARI"
+  "districtName": "TANIWEL",
+  "name": "NINIARI",
+  "postalCode": "97561"
  },
  {
   "id": 8106040007,
   "districtId": 8106040,
-  "name": "MORNATEN"
+  "districtName": "TANIWEL",
+  "name": "MORNATEN",
+  "postalCode": ""
  },
  {
   "id": 8106040008,
   "districtId": 8106040,
-  "name": "NIKULUKAN"
+  "districtName": "TANIWEL",
+  "name": "NIKULUKAN",
+  "postalCode": "97561"
  },
  {
   "id": 8106040009,
   "districtId": 8106040,
-  "name": "NIWELEHU"
+  "districtName": "TANIWEL",
+  "name": "NIWELEHU",
+  "postalCode": "97561"
  },
  {
   "id": 8106040010,
   "districtId": 8106040,
-  "name": "NUNIALI"
+  "districtName": "TANIWEL",
+  "name": "NUNIALI",
+  "postalCode": "97561"
  },
  {
   "id": 8106040011,
   "districtId": 8106040,
-  "name": "LISABATA"
+  "districtName": "TANIWEL",
+  "name": "LISABATA",
+  "postalCode": ""
  },
  {
   "id": 8106040012,
   "districtId": 8106040,
-  "name": "WAKOLO"
+  "districtName": "TANIWEL",
+  "name": "WAKOLO",
+  "postalCode": "97561"
  },
  {
   "id": 8106040013,
   "districtId": 8106040,
-  "name": "PATAHUWE"
+  "districtName": "TANIWEL",
+  "name": "PATAHUWE",
+  "postalCode": "97561"
  },
  {
   "id": 8106040014,
   "districtId": 8106040,
-  "name": "TANIWEL"
+  "districtName": "TANIWEL",
+  "name": "TANIWEL",
+  "postalCode": "97561"
  },
  {
   "id": 8106040017,
   "districtId": 8106040,
-  "name": "KASIE"
+  "districtName": "TANIWEL",
+  "name": "KASIE",
+  "postalCode": ""
  },
  {
   "id": 8106040018,
   "districtId": 8106040,
-  "name": "NUKUHAY"
+  "districtName": "TANIWEL",
+  "name": "NUKUHAY",
+  "postalCode": ""
  },
  {
   "id": 8106040019,
   "districtId": 8106040,
-  "name": "PASINALO"
+  "districtName": "TANIWEL",
+  "name": "PASINALO",
+  "postalCode": "97561"
  }
 ]

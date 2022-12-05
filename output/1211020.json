@@ -2,76 +2,106 @@
  {
   "id": 1211020001,
   "districtId": 1211020,
-  "name": "LAU PERANGGUNAN"
+  "districtName": "LAUBALENG",
+  "name": "LAU PERANGGUNAN",
+  "postalCode": ""
  },
  {
   "id": 1211020002,
   "districtId": 1211020,
-  "name": "DURIN RUGUN"
+  "districtName": "LAUBALENG",
+  "name": "DURIN RUGUN",
+  "postalCode": "22164"
  },
  {
   "id": 1211020003,
   "districtId": 1211020,
-  "name": "KINANGKONG"
+  "districtName": "LAUBALENG",
+  "name": "KINANGKONG",
+  "postalCode": "22164"
  },
  {
   "id": 1211020004,
   "districtId": 1211020,
-  "name": "LAU PERADEP"
+  "districtName": "LAUBALENG",
+  "name": "LAU PERADEP",
+  "postalCode": "22164"
  },
  {
   "id": 1211020005,
   "districtId": 1211020,
-  "name": "LAUBALENG"
+  "districtName": "LAUBALENG",
+  "name": "LAUBALENG",
+  "postalCode": ""
  },
  {
   "id": 1211020006,
   "districtId": 1211020,
-  "name": "TANJUNG GUNUNG"
+  "districtName": "LAUBALENG",
+  "name": "TANJUNG GUNUNG",
+  "postalCode": "22164"
  },
  {
   "id": 1211020007,
   "districtId": 1211020,
-  "name": "KUTAMBELIN"
+  "districtName": "LAUBALENG",
+  "name": "KUTAMBELIN",
+  "postalCode": "22163"
  },
  {
   "id": 1211020008,
   "districtId": 1211020,
-  "name": "MARTELU"
+  "districtName": "LAUBALENG",
+  "name": "MARTELU",
+  "postalCode": "22164"
  },
  {
   "id": 1211020009,
   "districtId": 1211020,
-  "name": "LINGGA MUDA"
+  "districtName": "LAUBALENG",
+  "name": "LINGGA MUDA",
+  "postalCode": "22164"
  },
  {
   "id": 1211020010,
   "districtId": 1211020,
-  "name": "MBAL-MBAL PETARUM"
+  "districtName": "LAUBALENG",
+  "name": "MBAL-MBAL PETARUM",
+  "postalCode": "22164"
  },
  {
   "id": 1211020011,
   "districtId": 1211020,
-  "name": "PERBULAN"
+  "districtName": "LAUBALENG",
+  "name": "PERBULAN",
+  "postalCode": "22164"
  },
  {
   "id": 1211020012,
   "districtId": 1211020,
-  "name": "BULUH PANCUR"
+  "districtName": "LAUBALENG",
+  "name": "BULUH PANCUR",
+  "postalCode": "22163"
  },
  {
   "id": 1211020013,
   "districtId": 1211020,
-  "name": "RAMBAH TAMPU"
+  "districtName": "LAUBALENG",
+  "name": "RAMBAH TAMPU",
+  "postalCode": "22164"
  },
  {
   "id": 1211020014,
   "districtId": 1211020,
-  "name": "BATU RONGKAM"
+  "districtName": "LAUBALENG",
+  "name": "BATU RONGKAM",
+  "postalCode": ""
  },
  {
   "id": 1211020015,
   "districtId": 1211020,
-  "name": "PINTU ANGIN"
+  "districtName": "LAUBALENG",
+  "name": "PINTU ANGIN",
+  "postalCode": ""
  }
 ]

@@ -2,56 +2,78 @@
  {
   "id": 6209111001,
   "districtId": 6209111,
-  "name": "TUMBANG KATAEI"
+  "districtName": "BUKIT RAYA",
+  "name": "TUMBANG KATAEI",
+  "postalCode": "74457"
  },
  {
   "id": 6209111002,
   "districtId": 6209111,
-  "name": "TUMBANG DAHUEI"
+  "districtName": "BUKIT RAYA",
+  "name": "TUMBANG DAHUEI",
+  "postalCode": "74457"
  },
  {
   "id": 6209111003,
   "districtId": 6209111,
-  "name": "RANTAU PANDAN"
+  "districtName": "BUKIT RAYA",
+  "name": "RANTAU PANDAN",
+  "postalCode": "37261"
  },
  {
   "id": 6209111004,
   "districtId": 6209111,
-  "name": "TUMBANG GAEI"
+  "districtName": "BUKIT RAYA",
+  "name": "TUMBANG GAEI",
+  "postalCode": "74457"
  },
  {
   "id": 6209111005,
   "districtId": 6209111,
-  "name": "PENDA NANGE"
+  "districtName": "BUKIT RAYA",
+  "name": "PENDA NANGE",
+  "postalCode": "74457"
  },
  {
   "id": 6209111006,
   "districtId": 6209111,
-  "name": "RANGAN RONDAN"
+  "districtName": "BUKIT RAYA",
+  "name": "RANGAN RONDAN",
+  "postalCode": ""
  },
  {
   "id": 6209111007,
   "districtId": 6209111,
-  "name": "RANGAN BAHEKANG"
+  "districtName": "BUKIT RAYA",
+  "name": "RANGAN BAHEKANG",
+  "postalCode": "74457"
  },
  {
   "id": 6209111008,
   "districtId": 6209111,
-  "name": "TUMBANG KAJAMEI"
+  "districtName": "BUKIT RAYA",
+  "name": "TUMBANG KAJAMEI",
+  "postalCode": "74457"
  },
  {
   "id": 6209111009,
   "districtId": 6209111,
-  "name": "TUMBANG KARUEI"
+  "districtName": "BUKIT RAYA",
+  "name": "TUMBANG KARUEI",
+  "postalCode": "74457"
  },
  {
   "id": 6209111010,
   "districtId": 6209111,
-  "name": "TANJUNG BATIK"
+  "districtName": "BUKIT RAYA",
+  "name": "TANJUNG BATIK",
+  "postalCode": "74457"
  },
  {
   "id": 6209111011,
   "districtId": 6209111,
-  "name": "TUMBANG KABURAI"
+  "districtName": "BUKIT RAYA",
+  "name": "TUMBANG KABURAI",
+  "postalCode": "74457"
  }
 ]

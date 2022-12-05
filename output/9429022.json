@@ -2,16 +2,22 @@
  {
   "id": 9429022002,
   "districtId": 9429022,
-  "name": "BANGGABAEK"
+  "districtName": "KREPKURI",
+  "name": "BANGGABAEK",
+  "postalCode": ""
  },
  {
   "id": 9429022003,
   "districtId": 9429022,
-  "name": "ALGURU"
+  "districtName": "KREPKURI",
+  "name": "ALGURU",
+  "postalCode": "99565"
  },
  {
   "id": 9429022005,
   "districtId": 9429022,
-  "name": "SAGAPUSATU"
+  "districtName": "KREPKURI",
+  "name": "SAGAPUSATU",
+  "postalCode": "99565"
  }
 ]

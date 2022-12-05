@@ -2,41 +2,57 @@
  {
   "id": 1804063001,
   "districtId": 1804063,
-  "name": "BUNGKUK"
+  "districtName": "MARGA SEKAMPUNG",
+  "name": "BUNGKUK",
+  "postalCode": "34384"
  },
  {
   "id": 1804063002,
   "districtId": 1804063,
-  "name": "GIRI MULYO"
+  "districtName": "MARGA SEKAMPUNG",
+  "name": "GIRI MULYO",
+  "postalCode": "37163"
  },
  {
   "id": 1804063003,
   "districtId": 1804063,
-  "name": "GUNUNG MAS"
+  "districtName": "MARGA SEKAMPUNG",
+  "name": "GUNUNG MAS",
+  "postalCode": "32382"
  },
  {
   "id": 1804063004,
   "districtId": 1804063,
-  "name": "BATU BADAK"
+  "districtName": "MARGA SEKAMPUNG",
+  "name": "BATU BADAK",
+  "postalCode": "34384"
  },
  {
   "id": 1804063005,
   "districtId": 1804063,
-  "name": "PENIANGAN"
+  "districtName": "MARGA SEKAMPUNG",
+  "name": "PENIANGAN",
+  "postalCode": "34384"
  },
  {
   "id": 1804063006,
   "districtId": 1804063,
-  "name": "PURWOSARI"
+  "districtName": "MARGA SEKAMPUNG",
+  "name": "PURWOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 1804063007,
   "districtId": 1804063,
-  "name": "GUNUNG RAYA"
+  "districtName": "MARGA SEKAMPUNG",
+  "name": "GUNUNG RAYA",
+  "postalCode": "31581"
  },
  {
   "id": 1804063008,
   "districtId": 1804063,
-  "name": "BUKIT RAYA"
+  "districtName": "MARGA SEKAMPUNG",
+  "name": "BUKIT RAYA",
+  "postalCode": "29563"
  }
 ]

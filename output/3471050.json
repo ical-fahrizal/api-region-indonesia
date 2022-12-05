@@ -2,16 +2,22 @@
  {
   "id": 3471050001,
   "districtId": 3471050,
-  "name": "PRENGGAN"
+  "districtName": "KOTAGEDE",
+  "name": "PRENGGAN",
+  "postalCode": "55172"
  },
  {
   "id": 3471050002,
   "districtId": 3471050,
-  "name": "PURBAYAN"
+  "districtName": "KOTAGEDE",
+  "name": "PURBAYAN",
+  "postalCode": "57556"
  },
  {
   "id": 3471050003,
   "districtId": 3471050,
-  "name": "REJOWINANGUN"
+  "districtName": "KOTAGEDE",
+  "name": "REJOWINANGUN",
+  "postalCode": "54262"
  }
 ]

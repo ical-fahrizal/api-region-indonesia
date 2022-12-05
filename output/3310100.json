@@ -2,66 +2,92 @@
  {
   "id": 3310100001,
   "districtId": 3310100,
-  "name": "TASKOMBANG"
+  "districtName": "MANISRENGGO",
+  "name": "TASKOMBANG",
+  "postalCode": "57485"
  },
  {
   "id": 3310100002,
   "districtId": 3310100,
-  "name": "SOLODIRAN"
+  "districtName": "MANISRENGGO",
+  "name": "SOLODIRAN",
+  "postalCode": "57485"
  },
  {
   "id": 3310100003,
   "districtId": 3310100,
-  "name": "NANGSRI"
+  "districtName": "MANISRENGGO",
+  "name": "NANGSRI",
+  "postalCode": "57762"
  },
  {
   "id": 3310100004,
   "districtId": 3310100,
-  "name": "BORANGAN"
+  "districtName": "MANISRENGGO",
+  "name": "BORANGAN",
+  "postalCode": "57485"
  },
  {
   "id": 3310100005,
   "districtId": 3310100,
-  "name": "BARUKAN"
+  "districtName": "MANISRENGGO",
+  "name": "BARUKAN",
+  "postalCode": "57485"
  },
  {
   "id": 3310100006,
   "districtId": 3310100,
-  "name": "TANJUNGSARI"
+  "districtName": "MANISRENGGO",
+  "name": "TANJUNGSARI",
+  "postalCode": "28983"
  },
  {
   "id": 3310100007,
   "districtId": 3310100,
-  "name": "KRANGGAN"
+  "districtName": "MANISRENGGO",
+  "name": "KRANGGAN",
+  "postalCode": "50613"
  },
  {
   "id": 3310100009,
   "districtId": 3310100,
-  "name": "KEBONALAS"
+  "districtName": "MANISRENGGO",
+  "name": "KEBONALAS",
+  "postalCode": "57485"
  },
  {
   "id": 3310100010,
   "districtId": 3310100,
-  "name": "BENDAN"
+  "districtName": "MANISRENGGO",
+  "name": "BENDAN",
+  "postalCode": "57373"
  },
  {
   "id": 3310100011,
   "districtId": 3310100,
-  "name": "TIJAYAN"
+  "districtName": "MANISRENGGO",
+  "name": "TIJAYAN",
+  "postalCode": "57485"
  },
  {
   "id": 3310100012,
   "districtId": 3310100,
-  "name": "SUKORINI"
+  "districtName": "MANISRENGGO",
+  "name": "SUKORINI",
+  "postalCode": "57485"
  },
  {
   "id": 3310100014,
   "districtId": 3310100,
-  "name": "NGEMPLAK SENENG"
+  "districtName": "MANISRENGGO",
+  "name": "NGEMPLAK SENENG",
+  "postalCode": "57485"
  },
  {
   "id": 3310100015,
   "districtId": 3310100,
-  "name": "SAPEN"
+  "districtName": "MANISRENGGO",
+  "name": "SAPEN",
+  "postalCode": "57485"
  }
 ]

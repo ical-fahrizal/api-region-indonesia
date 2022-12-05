@@ -2,21 +2,29 @@
  {
   "id": 7603071001,
   "districtId": 7603071,
-  "name": "TAWALIAN TIMUR"
+  "districtName": "TAWALIAN",
+  "name": "TAWALIAN TIMUR",
+  "postalCode": "91365"
  },
  {
   "id": 7603071002,
   "districtId": 7603071,
-  "name": "KARIANGO"
+  "districtName": "TAWALIAN",
+  "name": "KARIANGO",
+  "postalCode": "92965"
  },
  {
   "id": 7603071003,
   "districtId": 7603071,
-  "name": "TAWALIAN"
+  "districtName": "TAWALIAN",
+  "name": "TAWALIAN",
+  "postalCode": "91365"
  },
  {
   "id": 7603071004,
   "districtId": 7603071,
-  "name": "RANTETANGNGA"
+  "districtName": "TAWALIAN",
+  "name": "RANTETANGNGA",
+  "postalCode": ""
  }
 ]

@@ -2,61 +2,85 @@
  {
   "id": 7411030001,
   "districtId": 7411030,
-  "name": "WUNDUBITE"
+  "districtName": "POLI-POLIA",
+  "name": "WUNDUBITE",
+  "postalCode": ""
  },
  {
   "id": 7411030002,
   "districtId": 7411030,
-  "name": "PUUNDOKULO"
+  "districtName": "POLI-POLIA",
+  "name": "PUUNDOKULO",
+  "postalCode": ""
  },
  {
   "id": 7411030003,
   "districtId": 7411030,
-  "name": "HAKAMBOLOLI"
+  "districtName": "POLI-POLIA",
+  "name": "HAKAMBOLOLI",
+  "postalCode": ""
  },
  {
   "id": 7411030004,
   "districtId": 7411030,
-  "name": "ANDOWENGGA"
+  "districtName": "POLI-POLIA",
+  "name": "ANDOWENGGA",
+  "postalCode": "93573"
  },
  {
   "id": 7411030005,
   "districtId": 7411030,
-  "name": "TAOSU"
+  "districtName": "POLI-POLIA",
+  "name": "TAOSU",
+  "postalCode": "93573"
  },
  {
   "id": 7411030006,
   "districtId": 7411030,
-  "name": "PANGI-PANGI"
+  "districtName": "POLI-POLIA",
+  "name": "PANGI-PANGI",
+  "postalCode": "93573"
  },
  {
   "id": 7411030007,
   "districtId": 7411030,
-  "name": "POLI POLIA"
+  "districtName": "POLI-POLIA",
+  "name": "POLI POLIA",
+  "postalCode": "93573"
  },
  {
   "id": 7411030008,
   "districtId": 7411030,
-  "name": "INOTU MEWAO"
+  "districtName": "POLI-POLIA",
+  "name": "INOTU MEWAO",
+  "postalCode": ""
  },
  {
   "id": 7411030009,
   "districtId": 7411030,
-  "name": "TOKAI"
+  "districtName": "POLI-POLIA",
+  "name": "TOKAI",
+  "postalCode": "93573"
  },
  {
   "id": 7411030010,
   "districtId": 7411030,
-  "name": "WIA-WIA"
+  "districtName": "POLI-POLIA",
+  "name": "WIA-WIA",
+  "postalCode": "93774"
  },
  {
   "id": 7411030011,
   "districtId": 7411030,
-  "name": "POLEMAJU JAYA"
+  "districtName": "POLI-POLIA",
+  "name": "POLEMAJU JAYA",
+  "postalCode": "93573"
  },
  {
   "id": 7411030012,
   "districtId": 7411030,
-  "name": "POLENGA JAYA"
+  "districtName": "POLI-POLIA",
+  "name": "POLENGA JAYA",
+  "postalCode": "93573"
  }
 ]

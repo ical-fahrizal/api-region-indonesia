@@ -2,26 +2,36 @@
  {
   "id": 3207291001,
   "districtId": 3207291,
-  "name": "TENGGERRAHARJA"
+  "districtName": "SUKAMANTRI",
+  "name": "TENGGERRAHARJA",
+  "postalCode": "46264"
  },
  {
   "id": 3207291002,
   "districtId": 3207291,
-  "name": "SUKAMANTRI"
+  "districtName": "SUKAMANTRI",
+  "name": "SUKAMANTRI",
+  "postalCode": "46156"
  },
  {
   "id": 3207291003,
   "districtId": 3207291,
-  "name": "CIBEUREUM"
+  "districtName": "SUKAMANTRI",
+  "name": "CIBEUREUM",
+  "postalCode": "46313"
  },
  {
   "id": 3207291004,
   "districtId": 3207291,
-  "name": "SINDANGLAYA"
+  "districtName": "SUKAMANTRI",
+  "name": "SINDANGLAYA",
+  "postalCode": "40195"
  },
  {
   "id": 3207291005,
   "districtId": 3207291,
-  "name": "MEKARWANGI"
+  "districtName": "SUKAMANTRI",
+  "name": "MEKARWANGI",
+  "postalCode": "45462"
  }
 ]

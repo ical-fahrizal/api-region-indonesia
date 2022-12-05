@@ -2,41 +2,57 @@
  {
   "id": 3213031001,
   "districtId": 3213031,
-  "name": "PASANGGRAHAN"
+  "districtName": "KASOMALANG",
+  "name": "PASANGGRAHAN",
+  "postalCode": "41164"
  },
  {
   "id": 3213031002,
   "districtId": 3213031,
-  "name": "SINDANGSARI"
+  "districtName": "KASOMALANG",
+  "name": "SINDANGSARI",
+  "postalCode": "46383"
  },
  {
   "id": 3213031003,
   "districtId": 3213031,
-  "name": "BOJONGLOA"
+  "districtName": "KASOMALANG",
+  "name": "BOJONGLOA",
+  "postalCode": "45392"
  },
  {
   "id": 3213031004,
   "districtId": 3213031,
-  "name": "TENJOLAYA"
+  "districtName": "KASOMALANG",
+  "name": "TENJOLAYA",
+  "postalCode": "40395"
  },
  {
   "id": 3213031005,
   "districtId": 3213031,
-  "name": "SUKAMELANG"
+  "districtName": "KASOMALANG",
+  "name": "SUKAMELANG",
+  "postalCode": "41283"
  },
  {
   "id": 3213031006,
   "districtId": 3213031,
-  "name": "KASOMALANG WETAN"
+  "districtName": "KASOMALANG",
+  "name": "KASOMALANG WETAN",
+  "postalCode": "41281"
  },
  {
   "id": 3213031007,
   "districtId": 3213031,
-  "name": "KASOMALANG KULON"
+  "districtName": "KASOMALANG",
+  "name": "KASOMALANG KULON",
+  "postalCode": "41281"
  },
  {
   "id": 3213031008,
   "districtId": 3213031,
-  "name": "CIMANGLID"
+  "districtName": "KASOMALANG",
+  "name": "CIMANGLID",
+  "postalCode": "41281"
  }
 ]

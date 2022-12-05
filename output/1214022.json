@@ -2,31 +2,43 @@
  {
   "id": 1214022001,
   "districtId": 1214022,
-  "name": "GONDIA"
+  "districtName": "SIMUK",
+  "name": "GONDIA",
+  "postalCode": "22881"
  },
  {
   "id": 1214022002,
   "districtId": 1214022,
-  "name": "MAUFA"
+  "districtName": "SIMUK",
+  "name": "MAUFA",
+  "postalCode": "22881"
  },
  {
   "id": 1214022003,
   "districtId": 1214022,
-  "name": "GOBO BARU"
+  "districtName": "SIMUK",
+  "name": "GOBO BARU",
+  "postalCode": "22881"
  },
  {
   "id": 1214022004,
   "districtId": 1214022,
-  "name": "GOBO"
+  "districtName": "SIMUK",
+  "name": "GOBO",
+  "postalCode": "22881"
  },
  {
   "id": 1214022005,
   "districtId": 1214022,
-  "name": "SILINA"
+  "districtName": "SIMUK",
+  "name": "SILINA",
+  "postalCode": "22881"
  },
  {
   "id": 1214022006,
   "districtId": 1214022,
-  "name": "SILINA BARU"
+  "districtName": "SIMUK",
+  "name": "SILINA BARU",
+  "postalCode": "22881"
  }
 ]

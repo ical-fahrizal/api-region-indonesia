@@ -2,51 +2,71 @@
  {
   "id": 7111041001,
   "districtId": 7111041,
-  "name": "MOAT"
+  "districtName": "MOOAT",
+  "name": "MOAT",
+  "postalCode": ""
  },
  {
   "id": 7111041002,
   "districtId": 7111041,
-  "name": "BONGKUDAI SELATAN"
+  "districtName": "MOOAT",
+  "name": "BONGKUDAI SELATAN",
+  "postalCode": "95781"
  },
  {
   "id": 7111041003,
   "districtId": 7111041,
-  "name": "BONGKUDAI BARU"
+  "districtName": "MOOAT",
+  "name": "BONGKUDAI BARU",
+  "postalCode": "95781"
  },
  {
   "id": 7111041004,
   "districtId": 7111041,
-  "name": "BONGKUDAI UTARA"
+  "districtName": "MOOAT",
+  "name": "BONGKUDAI UTARA",
+  "postalCode": "95781"
  },
  {
   "id": 7111041005,
   "districtId": 7111041,
-  "name": "BONGKUDAI TIMUR"
+  "districtName": "MOOAT",
+  "name": "BONGKUDAI TIMUR",
+  "postalCode": "95781"
  },
  {
   "id": 7111041006,
   "districtId": 7111041,
-  "name": "GUAAN"
+  "districtName": "MOOAT",
+  "name": "GUAAN",
+  "postalCode": "95781"
  },
  {
   "id": 7111041007,
   "districtId": 7111041,
-  "name": "MOTOTOMPIAAN"
+  "districtName": "MOOAT",
+  "name": "MOTOTOMPIAAN",
+  "postalCode": ""
  },
  {
   "id": 7111041008,
   "districtId": 7111041,
-  "name": "MOKITOMPIA"
+  "districtName": "MOOAT",
+  "name": "MOKITOMPIA",
+  "postalCode": "95781"
  },
  {
   "id": 7111041009,
   "districtId": 7111041,
-  "name": "KOKAPOY"
+  "districtName": "MOOAT",
+  "name": "KOKAPOY",
+  "postalCode": ""
  },
  {
   "id": 7111041010,
   "districtId": 7111041,
-  "name": "KOKAPOY TIMUR"
+  "districtName": "MOOAT",
+  "name": "KOKAPOY TIMUR",
+  "postalCode": ""
  }
 ]

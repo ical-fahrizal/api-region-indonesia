@@ -2,71 +2,99 @@
  {
   "id": 6307020005,
   "districtId": 6307020,
-  "name": "MURUNG A"
+  "districtName": "BATU BENAWA",
+  "name": "MURUNG A",
+  "postalCode": "71371"
  },
  {
   "id": 6307020009,
   "districtId": 6307020,
-  "name": "PAGAT"
+  "districtName": "BATU BENAWA",
+  "name": "PAGAT",
+  "postalCode": "71371"
  },
  {
   "id": 6307020010,
   "districtId": 6307020,
-  "name": "HALIAU"
+  "districtName": "BATU BENAWA",
+  "name": "HALIAU",
+  "postalCode": "71371"
  },
  {
   "id": 6307020011,
   "districtId": 6307020,
-  "name": "BARU"
+  "districtName": "BATU BENAWA",
+  "name": "BARU",
+  "postalCode": "23764"
  },
  {
   "id": 6307020013,
   "districtId": 6307020,
-  "name": "ALUAN MATI"
+  "districtName": "BATU BENAWA",
+  "name": "ALUAN MATI",
+  "postalCode": "71371"
  },
  {
   "id": 6307020015,
   "districtId": 6307020,
-  "name": "ALUAN SUMUR"
+  "districtName": "BATU BENAWA",
+  "name": "ALUAN SUMUR",
+  "postalCode": "71371"
  },
  {
   "id": 6307020017,
   "districtId": 6307020,
-  "name": "KALI BARU"
+  "districtName": "BATU BENAWA",
+  "name": "KALI BARU",
+  "postalCode": "14110"
  },
  {
   "id": 6307020018,
   "districtId": 6307020,
-  "name": "LAYUH"
+  "districtName": "BATU BENAWA",
+  "name": "LAYUH",
+  "postalCode": "71371"
  },
  {
   "id": 6307020020,
   "districtId": 6307020,
-  "name": "KAHAKAN"
+  "districtName": "BATU BENAWA",
+  "name": "KAHAKAN",
+  "postalCode": "71371"
  },
  {
   "id": 6307020024,
   "districtId": 6307020,
-  "name": "BAKTI"
+  "districtName": "BATU BENAWA",
+  "name": "BAKTI",
+  "postalCode": "71371"
  },
  {
   "id": 6307020026,
   "districtId": 6307020,
-  "name": "ALUAN BESAR"
+  "districtName": "BATU BENAWA",
+  "name": "ALUAN BESAR",
+  "postalCode": "71371"
  },
  {
   "id": 6307020028,
   "districtId": 6307020,
-  "name": "PAYA BESAR"
+  "districtName": "BATU BENAWA",
+  "name": "PAYA BESAR",
+  "postalCode": "30664"
  },
  {
   "id": 6307020029,
   "districtId": 6307020,
-  "name": "PANTAI BATUNG"
+  "districtName": "BATU BENAWA",
+  "name": "PANTAI BATUNG",
+  "postalCode": "71371"
  },
  {
   "id": 6307020030,
   "districtId": 6307020,
-  "name": "ALUAN"
+  "districtName": "BATU BENAWA",
+  "name": "ALUAN",
+  "postalCode": "71371"
  }
 ]

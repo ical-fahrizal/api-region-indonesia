@@ -2,46 +2,64 @@
  {
   "id": 1706021001,
   "districtId": 1706021,
-  "name": "PADANG GADING"
+  "districtName": "SUNGAI RUMBAI",
+  "name": "PADANG GADING",
+  "postalCode": "38766"
  },
  {
   "id": 1706021002,
   "districtId": 1706021,
-  "name": "RETAK MUDIK"
+  "districtName": "SUNGAI RUMBAI",
+  "name": "RETAK MUDIK",
+  "postalCode": "38766"
  },
  {
   "id": 1706021003,
   "districtId": 1706021,
-  "name": "MEKAR SARI"
+  "districtName": "SUNGAI RUMBAI",
+  "name": "MEKAR SARI",
+  "postalCode": "21261"
  },
  {
   "id": 1706021004,
   "districtId": 1706021,
-  "name": "GAJAH MATI"
+  "districtName": "SUNGAI RUMBAI",
+  "name": "GAJAH MATI",
+  "postalCode": "30755"
  },
  {
   "id": 1706021005,
   "districtId": 1706021,
-  "name": "SUMBER MAKMUR"
+  "districtName": "SUNGAI RUMBAI",
+  "name": "SUMBER MAKMUR",
+  "postalCode": "23662"
  },
  {
   "id": 1706021006,
   "districtId": 1706021,
-  "name": "TALANG GADING"
+  "districtName": "SUNGAI RUMBAI",
+  "name": "TALANG GADING",
+  "postalCode": "38766"
  },
  {
   "id": 1706021007,
   "districtId": 1706021,
-  "name": "SIDODADI"
+  "districtName": "SUNGAI RUMBAI",
+  "name": "SIDODADI",
+  "postalCode": "24582"
  },
  {
   "id": 1706021008,
   "districtId": 1706021,
-  "name": "GADING JAYA"
+  "districtName": "SUNGAI RUMBAI",
+  "name": "GADING JAYA",
+  "postalCode": "37354"
  },
  {
   "id": 1706021009,
   "districtId": 1706021,
-  "name": "BANJAR SARI"
+  "districtName": "SUNGAI RUMBAI",
+  "name": "BANJAR SARI",
+  "postalCode": "31471"
  }
 ]

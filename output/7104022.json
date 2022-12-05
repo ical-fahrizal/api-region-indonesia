@@ -2,26 +2,36 @@
  {
   "id": 7104022001,
   "districtId": 7104022,
-  "name": "ALUDE"
+  "districtName": "KALONGAN",
+  "name": "ALUDE",
+  "postalCode": "95871"
  },
  {
   "id": 7104022002,
   "districtId": 7104022,
-  "name": "KALONGAN"
+  "districtName": "KALONGAN",
+  "name": "KALONGAN",
+  "postalCode": "58114"
  },
  {
   "id": 7104022003,
   "districtId": 7104022,
-  "name": "KALONGAN SELATAN"
+  "districtName": "KALONGAN",
+  "name": "KALONGAN SELATAN",
+  "postalCode": "95871"
  },
  {
   "id": 7104022004,
   "districtId": 7104022,
-  "name": "KALONGAN UTARA"
+  "districtName": "KALONGAN",
+  "name": "KALONGAN UTARA",
+  "postalCode": "95871"
  },
  {
   "id": 7104022005,
   "districtId": 7104022,
-  "name": "MUSI I"
+  "districtName": "KALONGAN",
+  "name": "MUSI I",
+  "postalCode": "95871"
  }
 ]

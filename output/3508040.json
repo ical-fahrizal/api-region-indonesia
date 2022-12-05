@@ -2,46 +2,64 @@
  {
   "id": 3508040001,
   "districtId": 3508040,
-  "name": "GONDORUSO"
+  "districtName": "PASIRIAN",
+  "name": "GONDORUSO",
+  "postalCode": "67372"
  },
  {
   "id": 3508040002,
   "districtId": 3508040,
-  "name": "KALIBENDO"
+  "districtName": "PASIRIAN",
+  "name": "KALIBENDO",
+  "postalCode": "67372"
  },
  {
   "id": 3508040003,
   "districtId": 3508040,
-  "name": "BADES"
+  "districtName": "PASIRIAN",
+  "name": "BADES",
+  "postalCode": "67372"
  },
  {
   "id": 3508040004,
   "districtId": 3508040,
-  "name": "BAGO"
+  "districtName": "PASIRIAN",
+  "name": "BAGO",
+  "postalCode": "58182"
  },
  {
   "id": 3508040005,
   "districtId": 3508040,
-  "name": "SELOK AWAR AWAR"
+  "districtName": "PASIRIAN",
+  "name": "SELOK AWAR AWAR",
+  "postalCode": "67372"
  },
  {
   "id": 3508040006,
   "districtId": 3508040,
-  "name": "CONDRO"
+  "districtName": "PASIRIAN",
+  "name": "CONDRO",
+  "postalCode": "67372"
  },
  {
   "id": 3508040007,
   "districtId": 3508040,
-  "name": "MADUREJO"
+  "districtName": "PASIRIAN",
+  "name": "MADUREJO",
+  "postalCode": "54383"
  },
  {
   "id": 3508040008,
   "districtId": 3508040,
-  "name": "PASIRIAN"
+  "districtName": "PASIRIAN",
+  "name": "PASIRIAN",
+  "postalCode": "67372"
  },
  {
   "id": 3508040011,
   "districtId": 3508040,
-  "name": "SELOK ANYAR"
+  "districtName": "PASIRIAN",
+  "name": "SELOK ANYAR",
+  "postalCode": "67372"
  }
 ]

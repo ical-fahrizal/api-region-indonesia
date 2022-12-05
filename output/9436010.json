@@ -2,26 +2,36 @@
  {
   "id": 9436010001,
   "districtId": 9436010,
-  "name": "KOMAUTO"
+  "districtName": "KAPIRAYA",
+  "name": "KOMAUTO",
+  "postalCode": ""
  },
  {
   "id": 9436010002,
   "districtId": 9436010,
-  "name": "MOGODAGI"
+  "districtName": "KAPIRAYA",
+  "name": "MOGODAGI",
+  "postalCode": ""
  },
  {
   "id": 9436010003,
   "districtId": 9436010,
-  "name": "YAMOUWITINA"
+  "districtName": "KAPIRAYA",
+  "name": "YAMOUWITINA",
+  "postalCode": ""
  },
  {
   "id": 9436010004,
   "districtId": 9436010,
-  "name": "IDEEGO"
+  "districtName": "KAPIRAYA",
+  "name": "IDEEGO",
+  "postalCode": ""
  },
  {
   "id": 9436010005,
   "districtId": 9436010,
-  "name": "UWE ONAGEI"
+  "districtName": "KAPIRAYA",
+  "name": "UWE ONAGEI",
+  "postalCode": ""
  }
 ]

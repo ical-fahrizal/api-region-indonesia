@@ -2,31 +2,43 @@
  {
   "id": 3278070005,
   "districtId": 3278070,
-  "name": "PANYINGKIRAN"
+  "districtName": "INDIHIANG",
+  "name": "PANYINGKIRAN",
+  "postalCode": "46211"
  },
  {
   "id": 3278070006,
   "districtId": 3278070,
-  "name": "PARAKANNYASAG"
+  "districtName": "INDIHIANG",
+  "name": "PARAKANNYASAG",
+  "postalCode": "46151"
  },
  {
   "id": 3278070007,
   "districtId": 3278070,
-  "name": "SIRNAGALIH"
+  "districtName": "INDIHIANG",
+  "name": "SIRNAGALIH",
+  "postalCode": "35387"
  },
  {
   "id": 3278070008,
   "districtId": 3278070,
-  "name": "INDIHIANG"
+  "districtName": "INDIHIANG",
+  "name": "INDIHIANG",
+  "postalCode": "46151"
  },
  {
   "id": 3278070012,
   "districtId": 3278070,
-  "name": "SUKAMAJUKIDUL"
+  "districtName": "INDIHIANG",
+  "name": "SUKAMAJUKIDUL",
+  "postalCode": "46151"
  },
  {
   "id": 3278070013,
   "districtId": 3278070,
-  "name": "SUKAMAJUKALER"
+  "districtName": "INDIHIANG",
+  "name": "SUKAMAJUKALER",
+  "postalCode": "46151"
  }
 ]

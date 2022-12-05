@@ -2,41 +2,57 @@
  {
   "id": 3209201001,
   "districtId": 3209201,
-  "name": "KALIANYAR"
+  "districtName": "PANGURAGAN",
+  "name": "KALIANYAR",
+  "postalCode": "45284"
  },
  {
   "id": 3209201002,
   "districtId": 3209201,
-  "name": "PANGURAGAN KULON"
+  "districtName": "PANGURAGAN",
+  "name": "PANGURAGAN KULON",
+  "postalCode": "45163"
  },
  {
   "id": 3209201003,
   "districtId": 3209201,
-  "name": "PANGURAGAN WETAN"
+  "districtName": "PANGURAGAN",
+  "name": "PANGURAGAN WETAN",
+  "postalCode": "45163"
  },
  {
   "id": 3209201004,
   "districtId": 3209201,
-  "name": "PANGURAGAN LOR"
+  "districtName": "PANGURAGAN",
+  "name": "PANGURAGAN LOR",
+  "postalCode": "45163"
  },
  {
   "id": 3209201005,
   "districtId": 3209201,
-  "name": "PANGURAGAN"
+  "districtName": "PANGURAGAN",
+  "name": "PANGURAGAN",
+  "postalCode": "45163"
  },
  {
   "id": 3209201007,
   "districtId": 3209201,
-  "name": "LEMAHTAMBA"
+  "districtName": "PANGURAGAN",
+  "name": "LEMAHTAMBA",
+  "postalCode": "45163"
  },
  {
   "id": 3209201008,
   "districtId": 3209201,
-  "name": "KARANGANYAR"
+  "districtName": "PANGURAGAN",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  },
  {
   "id": 3209201009,
   "districtId": 3209201,
-  "name": "KROYA"
+  "districtName": "PANGURAGAN",
+  "name": "KROYA",
+  "postalCode": "45265"
  }
 ]

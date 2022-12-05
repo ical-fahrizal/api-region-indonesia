@@ -2,26 +2,36 @@
  {
   "id": 9413046002,
   "districtId": 9413046,
-  "name": "WANGGEMALO"
+  "districtName": "KOMBAY",
+  "name": "WANGGEMALO",
+  "postalCode": "99664"
  },
  {
   "id": 9413046003,
   "districtId": 9413046,
-  "name": "DEMA"
+  "districtName": "KOMBAY",
+  "name": "DEMA",
+  "postalCode": "78353"
  },
  {
   "id": 9413046004,
   "districtId": 9413046,
-  "name": "UGO"
+  "districtName": "KOMBAY",
+  "name": "UGO",
+  "postalCode": "99664"
  },
  {
   "id": 9413046005,
   "districtId": 9413046,
-  "name": "YAFUFLA"
+  "districtName": "KOMBAY",
+  "name": "YAFUFLA",
+  "postalCode": "99664"
  },
  {
   "id": 9413046006,
   "districtId": 9413046,
-  "name": "SINIMBURU"
+  "districtName": "KOMBAY",
+  "name": "SINIMBURU",
+  "postalCode": "99664"
  }
 ]

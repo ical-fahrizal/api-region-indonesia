@@ -2,61 +2,85 @@
  {
   "id": 9418041002,
   "districtId": 9418041,
-  "name": "GUALO"
+  "districtName": "WINA",
+  "name": "GUALO",
+  "postalCode": "99569"
  },
  {
   "id": 9418041003,
   "districtId": 9418041,
-  "name": "DIMBUGUL"
+  "districtName": "WINA",
+  "name": "DIMBUGUL",
+  "postalCode": ""
  },
  {
   "id": 9418041005,
   "districtId": 9418041,
-  "name": "YOGWEME"
+  "districtName": "WINA",
+  "name": "YOGWEME",
+  "postalCode": "99569"
  },
  {
   "id": 9418041007,
   "districtId": 9418041,
-  "name": "WINA"
+  "districtName": "WINA",
+  "name": "WINA",
+  "postalCode": "99569"
  },
  {
   "id": 9418041008,
   "districtId": 9418041,
-  "name": "YUGUMENGGA"
+  "districtName": "WINA",
+  "name": "YUGUMENGGA",
+  "postalCode": "99569"
  },
  {
   "id": 9418041009,
   "districtId": 9418041,
-  "name": "WARIRU"
+  "districtName": "WINA",
+  "name": "WARIRU",
+  "postalCode": "98914"
  },
  {
   "id": 9418041011,
   "districtId": 9418041,
-  "name": "AKIMA"
+  "districtName": "WINA",
+  "name": "AKIMA",
+  "postalCode": "99569"
  },
  {
   "id": 9418041012,
   "districtId": 9418041,
-  "name": "MALELA"
+  "districtName": "WINA",
+  "name": "MALELA",
+  "postalCode": "91996"
  },
  {
   "id": 9418041013,
   "districtId": 9418041,
-  "name": "NAKWIL"
+  "districtName": "WINA",
+  "name": "NAKWIL",
+  "postalCode": "99569"
  },
  {
   "id": 9418041014,
   "districtId": 9418041,
-  "name": "FINAI"
+  "districtName": "WINA",
+  "name": "FINAI",
+  "postalCode": "99569"
  },
  {
   "id": 9418041015,
   "districtId": 9418041,
-  "name": "HOLANDIA"
+  "districtName": "WINA",
+  "name": "HOLANDIA",
+  "postalCode": "99569"
  },
  {
   "id": 9418041016,
   "districtId": 9418041,
-  "name": "TAWI"
+  "districtName": "WINA",
+  "name": "TAWI",
+  "postalCode": "99569"
  }
 ]

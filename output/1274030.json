@@ -2,36 +2,50 @@
  {
   "id": 1274030001,
   "districtId": 1274030,
-  "name": "BAGELEN"
+  "districtName": "PADANG HILIR",
+  "name": "BAGELEN",
+  "postalCode": "20634"
  },
  {
   "id": 1274030002,
   "districtId": 1274030,
-  "name": "TEBING TINGGI"
+  "districtName": "PADANG HILIR",
+  "name": "TEBING TINGGI",
+  "postalCode": "24477"
  },
  {
   "id": 1274030005,
   "districtId": 1274030,
-  "name": "TAMBANGAN"
+  "districtName": "PADANG HILIR",
+  "name": "TAMBANGAN",
+  "postalCode": "20631"
  },
  {
   "id": 1274030006,
   "districtId": 1274030,
-  "name": "SATRIA"
+  "districtName": "PADANG HILIR",
+  "name": "SATRIA",
+  "postalCode": "20714"
  },
  {
   "id": 1274030007,
   "districtId": 1274030,
-  "name": "DEBLOD SUNDORO"
+  "districtName": "PADANG HILIR",
+  "name": "DEBLOD SUNDORO",
+  "postalCode": "20636"
  },
  {
   "id": 1274030008,
   "districtId": 1274030,
-  "name": "DAMAR SARI"
+  "districtName": "PADANG HILIR",
+  "name": "DAMAR SARI",
+  "postalCode": "20636"
  },
  {
   "id": 1274030009,
   "districtId": 1274030,
-  "name": "TAMBANGAN HULU"
+  "districtName": "PADANG HILIR",
+  "name": "TAMBANGAN HULU",
+  "postalCode": "20636"
  }
 ]

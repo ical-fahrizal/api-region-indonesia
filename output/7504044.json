@@ -2,46 +2,64 @@
  {
   "id": 7504044001,
   "districtId": 7504044,
-  "name": "KAIDUNDU"
+  "districtName": "BULAWA",
+  "name": "KAIDUNDU",
+  "postalCode": "96585"
  },
  {
   "id": 7504044002,
   "districtId": 7504044,
-  "name": "MAMUNGAA"
+  "districtName": "BULAWA",
+  "name": "MAMUNGAA",
+  "postalCode": "96585"
  },
  {
   "id": 7504044003,
   "districtId": 7504044,
-  "name": "KAIDUNDU BARAT"
+  "districtName": "BULAWA",
+  "name": "KAIDUNDU BARAT",
+  "postalCode": "96585"
  },
  {
   "id": 7504044004,
   "districtId": 7504044,
-  "name": "MOPUYA"
+  "districtName": "BULAWA",
+  "name": "MOPUYA",
+  "postalCode": "96585"
  },
  {
   "id": 7504044005,
   "districtId": 7504044,
-  "name": "PINOMONTIGA"
+  "districtName": "BULAWA",
+  "name": "PINOMONTIGA",
+  "postalCode": ""
  },
  {
   "id": 7504044006,
   "districtId": 7504044,
-  "name": "DUNGGILATA"
+  "districtName": "BULAWA",
+  "name": "DUNGGILATA",
+  "postalCode": ""
  },
  {
   "id": 7504044007,
   "districtId": 7504044,
-  "name": "MAMUNGAA TIMUR"
+  "districtName": "BULAWA",
+  "name": "MAMUNGAA TIMUR",
+  "postalCode": "96585"
  },
  {
   "id": 7504044008,
   "districtId": 7504044,
-  "name": "BUKIT HIJAU"
+  "districtName": "BULAWA",
+  "name": "BUKIT HIJAU",
+  "postalCode": "96585"
  },
  {
   "id": 7504044009,
   "districtId": 7504044,
-  "name": "PATOA"
+  "districtName": "BULAWA",
+  "name": "PATOA",
+  "postalCode": "96585"
  }
 ]

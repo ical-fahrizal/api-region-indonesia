@@ -2,31 +2,43 @@
  {
   "id": 9103041001,
   "districtId": 9103041,
-  "name": "MENARBU"
+  "districtName": "ROON",
+  "name": "MENARBU",
+  "postalCode": "98362"
  },
  {
   "id": 9103041002,
   "districtId": 9103041,
-  "name": "SARIAY"
+  "districtName": "ROON",
+  "name": "SARIAY",
+  "postalCode": "98362"
  },
  {
   "id": 9103041003,
   "districtId": 9103041,
-  "name": "NIAB"
+  "districtName": "ROON",
+  "name": "NIAB",
+  "postalCode": "98362"
  },
  {
   "id": 9103041004,
   "districtId": 9103041,
-  "name": "INDAY"
+  "districtName": "ROON",
+  "name": "INDAY",
+  "postalCode": "98362"
  },
  {
   "id": 9103041005,
   "districtId": 9103041,
-  "name": "SYABES"
+  "districtName": "ROON",
+  "name": "SYABES",
+  "postalCode": "98155"
  },
  {
   "id": 9103041006,
   "districtId": 9103041,
-  "name": "MENA"
+  "districtName": "ROON",
+  "name": "MENA",
+  "postalCode": "98362"
  }
 ]

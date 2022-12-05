@@ -2,31 +2,43 @@
  {
   "id": 9430031001,
   "districtId": 9430031,
-  "name": "YAKOBAK"
+  "districtName": "NOGI",
+  "name": "YAKOBAK",
+  "postalCode": ""
  },
  {
   "id": 9430031004,
   "districtId": 9430031,
-  "name": "WIMOLOME"
+  "districtName": "NOGI",
+  "name": "WIMOLOME",
+  "postalCode": ""
  },
  {
   "id": 9430031005,
   "districtId": 9430031,
-  "name": "WENEOGUN"
+  "districtName": "NOGI",
+  "name": "WENEOGUN",
+  "postalCode": ""
  },
  {
   "id": 9430031006,
   "districtId": 9430031,
-  "name": "LIBUNGGA"
+  "districtName": "NOGI",
+  "name": "LIBUNGGA",
+  "postalCode": ""
  },
  {
   "id": 9430031007,
   "districtId": 9430031,
-  "name": "UMOM"
+  "districtName": "NOGI",
+  "name": "UMOM",
+  "postalCode": ""
  },
  {
   "id": 9430031008,
   "districtId": 9430031,
-  "name": "BERANGWI"
+  "districtName": "NOGI",
+  "name": "BERANGWI",
+  "postalCode": ""
  }
 ]

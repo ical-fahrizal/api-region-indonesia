@@ -2,76 +2,106 @@
  {
   "id": 3505190001,
   "districtId": 3505190,
-  "name": "BENDO"
+  "districtName": "PONGGOK",
+  "name": "BENDO",
+  "postalCode": "57378"
  },
  {
   "id": 3505190002,
   "districtId": 3505190,
-  "name": "JATILENGGER"
+  "districtName": "PONGGOK",
+  "name": "JATILENGGER",
+  "postalCode": "66153"
  },
  {
   "id": 3505190003,
   "districtId": 3505190,
-  "name": "MALIRAN"
+  "districtName": "PONGGOK",
+  "name": "MALIRAN",
+  "postalCode": "66153"
  },
  {
   "id": 3505190004,
   "districtId": 3505190,
-  "name": "KAWEDUSAN"
+  "districtName": "PONGGOK",
+  "name": "KAWEDUSAN",
+  "postalCode": "54317"
  },
  {
   "id": 3505190005,
   "districtId": 3505190,
-  "name": "LANGON"
+  "districtName": "PONGGOK",
+  "name": "LANGON",
+  "postalCode": "59425"
  },
  {
   "id": 3505190006,
   "districtId": 3505190,
-  "name": "DADAPLANGU"
+  "districtName": "PONGGOK",
+  "name": "DADAPLANGU",
+  "postalCode": "66153"
  },
  {
   "id": 3505190007,
   "districtId": 3505190,
-  "name": "KEBONDUREN"
+  "districtName": "PONGGOK",
+  "name": "KEBONDUREN",
+  "postalCode": "66153"
  },
  {
   "id": 3505190008,
   "districtId": 3505190,
-  "name": "POJOK"
+  "districtName": "PONGGOK",
+  "name": "POJOK",
+  "postalCode": "57752"
  },
  {
   "id": 3505190009,
   "districtId": 3505190,
-  "name": "PONGGOK"
+  "districtName": "PONGGOK",
+  "name": "PONGGOK",
+  "postalCode": "57474"
  },
  {
   "id": 3505190010,
   "districtId": 3505190,
-  "name": "KARANGBENDO"
+  "districtName": "PONGGOK",
+  "name": "KARANGBENDO",
+  "postalCode": "66153"
  },
  {
   "id": 3505190011,
   "districtId": 3505190,
-  "name": "CANDIREJO"
+  "districtName": "PONGGOK",
+  "name": "CANDIREJO",
+  "postalCode": "51274"
  },
  {
   "id": 3505190012,
   "districtId": 3505190,
-  "name": "BACEM"
+  "districtName": "PONGGOK",
+  "name": "BACEM",
+  "postalCode": "58253"
  },
  {
   "id": 3505190013,
   "districtId": 3505190,
-  "name": "RINGINANYAR"
+  "districtName": "PONGGOK",
+  "name": "RINGINANYAR",
+  "postalCode": "66153"
  },
  {
   "id": 3505190014,
   "districtId": 3505190,
-  "name": "GEMBONGAN"
+  "districtName": "PONGGOK",
+  "name": "GEMBONGAN",
+  "postalCode": "45191"
  },
  {
   "id": 3505190015,
   "districtId": 3505190,
-  "name": "SIDOREJO"
+  "districtName": "PONGGOK",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  }
 ]

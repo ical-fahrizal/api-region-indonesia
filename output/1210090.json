@@ -2,51 +2,71 @@
  {
   "id": 1210090001,
   "districtId": 1210090,
-  "name": "LAE ITAM"
+  "districtName": "SIEMPAT NEMPU HILIR",
+  "name": "LAE ITAM",
+  "postalCode": "22263"
  },
  {
   "id": 1210090002,
   "districtId": 1210090,
-  "name": "PARDOMUAN"
+  "districtName": "SIEMPAT NEMPU HILIR",
+  "name": "PARDOMUAN",
+  "postalCode": "22732"
  },
  {
   "id": 1210090003,
   "districtId": 1210090,
-  "name": "JAMBUR INDONESIA"
+  "districtName": "SIEMPAT NEMPU HILIR",
+  "name": "JAMBUR INDONESIA",
+  "postalCode": "22263"
  },
  {
   "id": 1210090004,
   "districtId": 1210090,
-  "name": "SIMUNGUN"
+  "districtName": "SIEMPAT NEMPU HILIR",
+  "name": "SIMUNGUN",
+  "postalCode": "22263"
  },
  {
   "id": 1210090005,
   "districtId": 1210090,
-  "name": "J A N J I"
+  "districtName": "SIEMPAT NEMPU HILIR",
+  "name": "J A N J I",
+  "postalCode": ""
  },
  {
   "id": 1210090006,
   "districtId": 1210090,
-  "name": "LAE MARKELANG"
+  "districtName": "SIEMPAT NEMPU HILIR",
+  "name": "LAE MARKELANG",
+  "postalCode": "22263"
  },
  {
   "id": 1210090007,
   "districtId": 1210090,
-  "name": "LAE LUHUNG"
+  "districtName": "SIEMPAT NEMPU HILIR",
+  "name": "LAE LUHUNG",
+  "postalCode": "22263"
  },
  {
   "id": 1210090008,
   "districtId": 1210090,
-  "name": "SOPO BUTAR"
+  "districtName": "SIEMPAT NEMPU HILIR",
+  "name": "SOPO BUTAR",
+  "postalCode": ""
  },
  {
   "id": 1210090009,
   "districtId": 1210090,
-  "name": "LAE SERING"
+  "districtName": "SIEMPAT NEMPU HILIR",
+  "name": "LAE SERING",
+  "postalCode": ""
  },
  {
   "id": 1210090010,
   "districtId": 1210090,
-  "name": "LAE HAPORAS"
+  "districtName": "SIEMPAT NEMPU HILIR",
+  "name": "LAE HAPORAS",
+  "postalCode": ""
  }
 ]

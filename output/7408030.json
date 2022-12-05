@@ -2,61 +2,85 @@
  {
   "id": 7408030001,
   "districtId": 7408030,
-  "name": "KALU KALUKU"
+  "districtName": "KODEOHA",
+  "name": "KALU KALUKU",
+  "postalCode": ""
  },
  {
   "id": 7408030002,
   "districtId": 7408030,
-  "name": "AWO"
+  "districtName": "KODEOHA",
+  "name": "AWO",
+  "postalCode": "94683"
  },
  {
   "id": 7408030003,
   "districtId": 7408030,
-  "name": "LAMETUNA"
+  "districtName": "KODEOHA",
+  "name": "LAMETUNA",
+  "postalCode": "93957"
  },
  {
   "id": 7408030004,
   "districtId": 7408030,
-  "name": "MALA MALA"
+  "districtName": "KODEOHA",
+  "name": "MALA MALA",
+  "postalCode": ""
  },
  {
   "id": 7408030005,
   "districtId": 7408030,
-  "name": "JABAL NUR"
+  "districtName": "KODEOHA",
+  "name": "JABAL NUR",
+  "postalCode": "93957"
  },
  {
   "id": 7408030006,
   "districtId": 7408030,
-  "name": "KOROHA"
+  "districtName": "KODEOHA",
+  "name": "KOROHA",
+  "postalCode": "93957"
  },
  {
   "id": 7408030007,
   "districtId": 7408030,
-  "name": "JABAL KUBIS"
+  "districtName": "KODEOHA",
+  "name": "JABAL KUBIS",
+  "postalCode": "93957"
  },
  {
   "id": 7408030008,
   "districtId": 7408030,
-  "name": "KAMISI"
+  "districtName": "KODEOHA",
+  "name": "KAMISI",
+  "postalCode": "93957"
  },
  {
   "id": 7408030009,
   "districtId": 7408030,
-  "name": "MEETO"
+  "districtName": "KODEOHA",
+  "name": "MEETO",
+  "postalCode": "93957"
  },
  {
   "id": 7408030014,
   "districtId": 7408030,
-  "name": "SAWANGAOHA"
+  "districtName": "KODEOHA",
+  "name": "SAWANGAOHA",
+  "postalCode": ""
  },
  {
   "id": 7408030017,
   "districtId": 7408030,
-  "name": "DELANG-DELANG"
+  "districtName": "KODEOHA",
+  "name": "DELANG-DELANG",
+  "postalCode": ""
  },
  {
   "id": 7408030018,
   "districtId": 7408030,
-  "name": "AINANI TAJRIANI"
+  "districtName": "KODEOHA",
+  "name": "AINANI TAJRIANI",
+  "postalCode": "93955"
  }
 ]

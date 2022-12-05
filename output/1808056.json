@@ -2,46 +2,64 @@
  {
   "id": 1808056001,
   "districtId": 1808056,
-  "name": "BATU AMPAR"
+  "districtName": "GEDUNG AJI BARU",
+  "name": "BATU AMPAR",
+  "postalCode": "29274"
  },
  {
   "id": 1808056002,
   "districtId": 1808056,
-  "name": "SUKA BHAKTI"
+  "districtName": "GEDUNG AJI BARU",
+  "name": "SUKA BHAKTI",
+  "postalCode": "34595"
  },
  {
   "id": 1808056003,
   "districtId": 1808056,
-  "name": "SIDO MUKTI"
+  "districtName": "GEDUNG AJI BARU",
+  "name": "SIDO MUKTI",
+  "postalCode": "36763"
  },
  {
   "id": 1808056004,
   "districtId": 1808056,
-  "name": "MAKARTI TAMA"
+  "districtName": "GEDUNG AJI BARU",
+  "name": "MAKARTI TAMA",
+  "postalCode": "32191"
  },
  {
   "id": 1808056005,
   "districtId": 1808056,
-  "name": "SETIA TAMA"
+  "districtName": "GEDUNG AJI BARU",
+  "name": "SETIA TAMA",
+  "postalCode": "34595"
  },
  {
   "id": 1808056006,
   "districtId": 1808056,
-  "name": "MESIR DWI JAYA"
+  "districtName": "GEDUNG AJI BARU",
+  "name": "MESIR DWI JAYA",
+  "postalCode": "34595"
  },
  {
   "id": 1808056007,
   "districtId": 1808056,
-  "name": "SUMBER JAYA"
+  "districtName": "GEDUNG AJI BARU",
+  "name": "SUMBER JAYA",
+  "postalCode": "24553"
  },
  {
   "id": 1808056008,
   "districtId": 1808056,
-  "name": "MEKAR ASRI"
+  "districtName": "GEDUNG AJI BARU",
+  "name": "MEKAR ASRI",
+  "postalCode": "34761"
  },
  {
   "id": 1808056009,
   "districtId": 1808056,
-  "name": "SIDOMEKAR"
+  "districtName": "GEDUNG AJI BARU",
+  "name": "SIDOMEKAR",
+  "postalCode": "35452"
  }
 ]

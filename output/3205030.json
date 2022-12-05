@@ -2,66 +2,92 @@
  {
   "id": 3205030001,
   "districtId": 3205030,
-  "name": "SINARJAYA"
+  "districtName": "BUNGBULANG",
+  "name": "SINARJAYA",
+  "postalCode": "44165"
  },
  {
   "id": 3205030005,
   "districtId": 3205030,
-  "name": "TEGALEGA"
+  "districtName": "BUNGBULANG",
+  "name": "TEGALEGA",
+  "postalCode": "44165"
  },
  {
   "id": 3205030006,
   "districtId": 3205030,
-  "name": "WANGUNJAYA"
+  "districtName": "BUNGBULANG",
+  "name": "WANGUNJAYA",
+  "postalCode": "43273"
  },
  {
   "id": 3205030007,
   "districtId": 3205030,
-  "name": "MEKARJAYA"
+  "districtName": "BUNGBULANG",
+  "name": "MEKARJAYA",
+  "postalCode": "30653"
  },
  {
   "id": 3205030008,
   "districtId": 3205030,
-  "name": "HANJUANG"
+  "districtName": "BUNGBULANG",
+  "name": "HANJUANG",
+  "postalCode": "44165"
  },
  {
   "id": 3205030009,
   "districtId": 3205030,
-  "name": "MARGALAKSANA"
+  "districtName": "BUNGBULANG",
+  "name": "MARGALAKSANA",
+  "postalCode": "44165"
  },
  {
   "id": 3205030010,
   "districtId": 3205030,
-  "name": "GUNAMEKAR"
+  "districtName": "BUNGBULANG",
+  "name": "GUNAMEKAR",
+  "postalCode": "44165"
  },
  {
   "id": 3205030011,
   "districtId": 3205030,
-  "name": "BUNGBULANG"
+  "districtName": "BUNGBULANG",
+  "name": "BUNGBULANG",
+  "postalCode": "44165"
  },
  {
   "id": 3205030012,
   "districtId": 3205030,
-  "name": "CIHIKEU"
+  "districtName": "BUNGBULANG",
+  "name": "CIHIKEU",
+  "postalCode": "44165"
  },
  {
   "id": 3205030013,
   "districtId": 3205030,
-  "name": "BOJONG"
+  "districtName": "BUNGBULANG",
+  "name": "BOJONG",
+  "postalCode": "34385"
  },
  {
   "id": 3205030014,
   "districtId": 3205030,
-  "name": "MEKARBAKTI"
+  "districtName": "BUNGBULANG",
+  "name": "MEKARBAKTI",
+  "postalCode": "44165"
  },
  {
   "id": 3205030015,
   "districtId": 3205030,
-  "name": "GUNUNG JAMPANG"
+  "districtName": "BUNGBULANG",
+  "name": "GUNUNG JAMPANG",
+  "postalCode": "44165"
  },
  {
   "id": 3205030016,
   "districtId": 3205030,
-  "name": "HEGARMANAH"
+  "districtName": "BUNGBULANG",
+  "name": "HEGARMANAH",
+  "postalCode": "41151"
  }
 ]

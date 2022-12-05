@@ -2,21 +2,29 @@
  {
   "id": 3273121001,
   "districtId": 3273121,
-  "name": "CISARANTEN WETAN"
+  "districtName": "CINAMBO",
+  "name": "CISARANTEN WETAN",
+  "postalCode": "40294"
  },
  {
   "id": 3273121002,
   "districtId": 3273121,
-  "name": "BABAKAN PENGHULU"
+  "districtName": "CINAMBO",
+  "name": "BABAKAN PENGHULU",
+  "postalCode": "40294"
  },
  {
   "id": 3273121003,
   "districtId": 3273121,
-  "name": "PAKEMITAN"
+  "districtName": "CINAMBO",
+  "name": "PAKEMITAN",
+  "postalCode": "46156"
  },
  {
   "id": 3273121004,
   "districtId": 3273121,
-  "name": "SUKAMULYA"
+  "districtName": "CINAMBO",
+  "name": "SUKAMULYA",
+  "postalCode": "30657"
  }
 ]

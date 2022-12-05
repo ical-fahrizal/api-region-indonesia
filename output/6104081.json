@@ -2,31 +2,43 @@
  {
   "id": 6104081001,
   "districtId": 6104081,
-  "name": "PENITI DALAM I"
+  "districtName": "SEGEDONG",
+  "name": "PENITI DALAM I",
+  "postalCode": ""
  },
  {
   "id": 6104081002,
   "districtId": 6104081,
-  "name": "SEI BURUNG"
+  "districtName": "SEGEDONG",
+  "name": "SEI BURUNG",
+  "postalCode": ""
  },
  {
   "id": 6104081003,
   "districtId": 6104081,
-  "name": "SEI PURUN BESAR"
+  "districtName": "SEGEDONG",
+  "name": "SEI PURUN BESAR",
+  "postalCode": ""
  },
  {
   "id": 6104081004,
   "districtId": 6104081,
-  "name": "PARIT BUGIS"
+  "districtName": "SEGEDONG",
+  "name": "PARIT BUGIS",
+  "postalCode": "78351"
  },
  {
   "id": 6104081005,
   "districtId": 6104081,
-  "name": "PENITI BESAR"
+  "districtName": "SEGEDONG",
+  "name": "PENITI BESAR",
+  "postalCode": "78351"
  },
  {
   "id": 6104081006,
   "districtId": 6104081,
-  "name": "PENITI DALAM II"
+  "districtName": "SEGEDONG",
+  "name": "PENITI DALAM II",
+  "postalCode": ""
  }
 ]

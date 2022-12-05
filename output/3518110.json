@@ -2,51 +2,71 @@
  {
   "id": 3518110001,
   "districtId": 3518110,
-  "name": "SAMBIROTO"
+  "districtName": "BARON",
+  "name": "SAMBIROTO",
+  "postalCode": "59581"
  },
  {
   "id": 3518110002,
   "districtId": 3518110,
-  "name": "GEBANG KEREP"
+  "districtName": "BARON",
+  "name": "GEBANG KEREP",
+  "postalCode": "64394"
  },
  {
   "id": 3518110003,
   "districtId": 3518110,
-  "name": "BARON"
+  "districtName": "BARON",
+  "name": "BARON",
+  "postalCode": "64394"
  },
  {
   "id": 3518110004,
   "districtId": 3518110,
-  "name": "WAUNG"
+  "districtName": "BARON",
+  "name": "WAUNG",
+  "postalCode": "64394"
  },
  {
   "id": 3518110005,
   "districtId": 3518110,
-  "name": "KEMLOKOLEGI"
+  "districtName": "BARON",
+  "name": "KEMLOKOLEGI",
+  "postalCode": "64394"
  },
  {
   "id": 3518110006,
   "districtId": 3518110,
-  "name": "KEMADUH"
+  "districtName": "BARON",
+  "name": "KEMADUH",
+  "postalCode": "64394"
  },
  {
   "id": 3518110007,
   "districtId": 3518110,
-  "name": "GARU"
+  "districtName": "BARON",
+  "name": "GARU",
+  "postalCode": "64394"
  },
  {
   "id": 3518110009,
   "districtId": 3518110,
-  "name": "JAMBI"
+  "districtName": "BARON",
+  "name": "JAMBI",
+  "postalCode": "64394"
  },
  {
   "id": 3518110010,
   "districtId": 3518110,
-  "name": "MABUNG"
+  "districtName": "BARON",
+  "name": "MABUNG",
+  "postalCode": "64394"
  },
  {
   "id": 3518110011,
   "districtId": 3518110,
-  "name": "KATERBAN"
+  "districtName": "BARON",
+  "name": "KATERBAN",
+  "postalCode": "54214"
  }
 ]

@@ -2,101 +2,141 @@
  {
   "id": 3524190001,
   "districtId": 3524190,
-  "name": "PUCANGRO"
+  "districtName": "KALITENGAH",
+  "name": "PUCANGRO",
+  "postalCode": "61463"
  },
  {
   "id": 3524190002,
   "districtId": 3524190,
-  "name": "PUCANGTELU"
+  "districtName": "KALITENGAH",
+  "name": "PUCANGTELU",
+  "postalCode": "62255"
  },
  {
   "id": 3524190003,
   "districtId": 3524190,
-  "name": "SOMOSARI"
+  "districtName": "KALITENGAH",
+  "name": "SOMOSARI",
+  "postalCode": "59461"
  },
  {
   "id": 3524190004,
   "districtId": 3524190,
-  "name": "JELAKCATUR"
+  "districtName": "KALITENGAH",
+  "name": "JELAKCATUR",
+  "postalCode": "62255"
  },
  {
   "id": 3524190005,
   "districtId": 3524190,
-  "name": "TIWET"
+  "districtName": "KALITENGAH",
+  "name": "TIWET",
+  "postalCode": "62255"
  },
  {
   "id": 3524190006,
   "districtId": 3524190,
-  "name": "BLAJO"
+  "districtName": "KALITENGAH",
+  "name": "BLAJO",
+  "postalCode": "62255"
  },
  {
   "id": 3524190007,
   "districtId": 3524190,
-  "name": "GAMBUHAN"
+  "districtName": "KALITENGAH",
+  "name": "GAMBUHAN",
+  "postalCode": "52355"
  },
  {
   "id": 3524190008,
   "districtId": 3524190,
-  "name": "BOJOASRI"
+  "districtName": "KALITENGAH",
+  "name": "BOJOASRI",
+  "postalCode": "62255"
  },
  {
   "id": 3524190009,
   "districtId": 3524190,
-  "name": "CLURING"
+  "districtName": "KALITENGAH",
+  "name": "CLURING",
+  "postalCode": "68482"
  },
  {
   "id": 3524190010,
   "districtId": 3524190,
-  "name": "LUKREJO"
+  "districtName": "KALITENGAH",
+  "name": "LUKREJO",
+  "postalCode": "62255"
  },
  {
   "id": 3524190011,
   "districtId": 3524190,
-  "name": "MUNGLI"
+  "districtName": "KALITENGAH",
+  "name": "MUNGLI",
+  "postalCode": "62255"
  },
  {
   "id": 3524190012,
   "districtId": 3524190,
-  "name": "DIBE"
+  "districtName": "KALITENGAH",
+  "name": "DIBE",
+  "postalCode": "62255"
  },
  {
   "id": 3524190013,
   "districtId": 3524190,
-  "name": "PENGANGSALAN"
+  "districtName": "KALITENGAH",
+  "name": "PENGANGSALAN",
+  "postalCode": "62255"
  },
  {
   "id": 3524190014,
   "districtId": 3524190,
-  "name": "BUTUNGAN"
+  "districtName": "KALITENGAH",
+  "name": "BUTUNGAN",
+  "postalCode": "62255"
  },
  {
   "id": 3524190015,
   "districtId": 3524190,
-  "name": "KALITENGAH"
+  "districtName": "KALITENGAH",
+  "name": "KALITENGAH",
+  "postalCode": "45153"
  },
  {
   "id": 3524190016,
   "districtId": 3524190,
-  "name": "KEDIREN"
+  "districtName": "KALITENGAH",
+  "name": "KEDIREN",
+  "postalCode": "58382"
  },
  {
   "id": 3524190017,
   "districtId": 3524190,
-  "name": "KULURAN"
+  "districtName": "KALITENGAH",
+  "name": "KULURAN",
+  "postalCode": "62255"
  },
  {
   "id": 3524190018,
   "districtId": 3524190,
-  "name": "CANDITUNGGAL"
+  "districtName": "KALITENGAH",
+  "name": "CANDITUNGGAL",
+  "postalCode": "62255"
  },
  {
   "id": 3524190019,
   "districtId": 3524190,
-  "name": "SUGIHWARAS"
+  "districtName": "KALITENGAH",
+  "name": "SUGIHWARAS",
+  "postalCode": "54363"
  },
  {
   "id": 3524190020,
   "districtId": 3524190,
-  "name": "TUNJUNGMEKAR"
+  "districtName": "KALITENGAH",
+  "name": "TUNJUNGMEKAR",
+  "postalCode": "62255"
  }
 ]

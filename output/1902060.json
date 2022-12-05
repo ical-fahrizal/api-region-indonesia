@@ -2,81 +2,113 @@
  {
   "id": 1902060007,
   "districtId": 1902060,
-  "name": "BULUH TUMBANG"
+  "districtName": "TANJUNG PANDAN",
+  "name": "BULUH TUMBANG",
+  "postalCode": "33411"
  },
  {
   "id": 1902060008,
   "districtId": 1902060,
-  "name": "PERAWAS"
+  "districtName": "TANJUNG PANDAN",
+  "name": "PERAWAS",
+  "postalCode": "33413"
  },
  {
   "id": 1902060009,
   "districtId": 1902060,
-  "name": "LESUNG BATANG"
+  "districtName": "TANJUNG PANDAN",
+  "name": "LESUNG BATANG",
+  "postalCode": "33411"
  },
  {
   "id": 1902060010,
   "districtId": 1902060,
-  "name": "PANGKALLALANG"
+  "districtName": "TANJUNG PANDAN",
+  "name": "PANGKALLALANG",
+  "postalCode": ""
  },
  {
   "id": 1902060011,
   "districtId": 1902060,
-  "name": "DUKONG"
+  "districtName": "TANJUNG PANDAN",
+  "name": "DUKONG",
+  "postalCode": "33561"
  },
  {
   "id": 1902060012,
   "districtId": 1902060,
-  "name": "JURU SEBERANG"
+  "districtName": "TANJUNG PANDAN",
+  "name": "JURU SEBERANG",
+  "postalCode": "33417"
  },
  {
   "id": 1902060013,
   "districtId": 1902060,
-  "name": "KOTA"
+  "districtName": "TANJUNG PANDAN",
+  "name": "KOTA",
+  "postalCode": ""
  },
  {
   "id": 1902060014,
   "districtId": 1902060,
-  "name": "PARIT"
+  "districtName": "TANJUNG PANDAN",
+  "name": "PARIT",
+  "postalCode": "36373"
  },
  {
   "id": 1902060015,
   "districtId": 1902060,
-  "name": "TANJUNG PENDAM"
+  "districtName": "TANJUNG PANDAN",
+  "name": "TANJUNG PENDAM",
+  "postalCode": "33411"
  },
  {
   "id": 1902060016,
   "districtId": 1902060,
-  "name": "AIR SAGA"
+  "districtName": "TANJUNG PANDAN",
+  "name": "AIR SAGA",
+  "postalCode": "33415"
  },
  {
   "id": 1902060017,
   "districtId": 1902060,
-  "name": "PAAL SATU"
+  "districtName": "TANJUNG PANDAN",
+  "name": "PAAL SATU",
+  "postalCode": "33414"
  },
  {
   "id": 1902060018,
   "districtId": 1902060,
-  "name": "AIR MERBAU"
+  "districtName": "TANJUNG PANDAN",
+  "name": "AIR MERBAU",
+  "postalCode": "33411"
  },
  {
   "id": 1902060019,
   "districtId": 1902060,
-  "name": "AIK KETEKOK"
+  "districtName": "TANJUNG PANDAN",
+  "name": "AIK KETEKOK",
+  "postalCode": "33411"
  },
  {
   "id": 1902060020,
   "districtId": 1902060,
-  "name": "AIK RAYAK"
+  "districtName": "TANJUNG PANDAN",
+  "name": "AIK RAYAK",
+  "postalCode": "33413"
  },
  {
   "id": 1902060021,
   "districtId": 1902060,
-  "name": "AIK PELEMPANG JAYA"
+  "districtName": "TANJUNG PANDAN",
+  "name": "AIK PELEMPANG JAYA",
+  "postalCode": ""
  },
  {
   "id": 1902060022,
   "districtId": 1902060,
-  "name": "KAMPONG DAMAI"
+  "districtName": "TANJUNG PANDAN",
+  "name": "KAMPONG DAMAI",
+  "postalCode": ""
  }
 ]

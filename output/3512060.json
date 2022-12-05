@@ -2,36 +2,50 @@
  {
   "id": 3512060001,
   "districtId": 3512060,
-  "name": "SELOMUKTI"
+  "districtName": "MLANDINGAN",
+  "name": "SELOMUKTI",
+  "postalCode": "68353"
  },
  {
   "id": 3512060002,
   "districtId": 3512060,
-  "name": "SUMBER PINANG"
+  "districtName": "MLANDINGAN",
+  "name": "SUMBER PINANG",
+  "postalCode": "68353"
  },
  {
   "id": 3512060003,
   "districtId": 3512060,
-  "name": "ALAS BAYUR"
+  "districtName": "MLANDINGAN",
+  "name": "ALAS BAYUR",
+  "postalCode": "68353"
  },
  {
   "id": 3512060004,
   "districtId": 3512060,
-  "name": "SUMBERANYAR"
+  "districtName": "MLANDINGAN",
+  "name": "SUMBERANYAR",
+  "postalCode": "68374"
  },
  {
   "id": 3512060005,
   "districtId": 3512060,
-  "name": "CAMPOAN"
+  "districtName": "MLANDINGAN",
+  "name": "CAMPOAN",
+  "postalCode": "68353"
  },
  {
   "id": 3512060006,
   "districtId": 3512060,
-  "name": "TREBUNGAN"
+  "districtName": "MLANDINGAN",
+  "name": "TREBUNGAN",
+  "postalCode": "68363"
  },
  {
   "id": 3512060007,
   "districtId": 3512060,
-  "name": "MLANDINGAN KULON"
+  "districtName": "MLANDINGAN",
+  "name": "MLANDINGAN KULON",
+  "postalCode": "68353"
  }
 ]

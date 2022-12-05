@@ -2,46 +2,64 @@
  {
   "id": 6205050001,
   "districtId": 6205050,
-  "name": "LEMO I"
+  "districtName": "TEWEH TENGAH",
+  "name": "LEMO I",
+  "postalCode": "73814"
  },
  {
   "id": 6205050010,
   "districtId": 6205050,
-  "name": "LEMO II"
+  "districtName": "TEWEH TENGAH",
+  "name": "LEMO II",
+  "postalCode": "73814"
  },
  {
   "id": 6205050012,
   "districtId": 6205050,
-  "name": "LANJAS"
+  "districtName": "TEWEH TENGAH",
+  "name": "LANJAS",
+  "postalCode": "73812"
  },
  {
   "id": 6205050013,
   "districtId": 6205050,
-  "name": "MELAYU"
+  "districtName": "TEWEH TENGAH",
+  "name": "MELAYU",
+  "postalCode": "21144"
  },
  {
   "id": 6205050017,
   "districtId": 6205050,
-  "name": "RIMBA SARI"
+  "districtName": "TEWEH TENGAH",
+  "name": "RIMBA SARI",
+  "postalCode": "73814"
  },
  {
   "id": 6205050018,
   "districtId": 6205050,
-  "name": "SEI RAHAYU I"
+  "districtName": "TEWEH TENGAH",
+  "name": "SEI RAHAYU I",
+  "postalCode": ""
  },
  {
   "id": 6205050022,
   "districtId": 6205050,
-  "name": "SEI RAHAYU II"
+  "districtName": "TEWEH TENGAH",
+  "name": "SEI RAHAYU II",
+  "postalCode": ""
  },
  {
   "id": 6205050023,
   "districtId": 6205050,
-  "name": "BERINGIN RAYA"
+  "districtName": "TEWEH TENGAH",
+  "name": "BERINGIN RAYA",
+  "postalCode": "38121"
  },
  {
   "id": 6205050027,
   "districtId": 6205050,
-  "name": "DATAI NIRUI"
+  "districtName": "TEWEH TENGAH",
+  "name": "DATAI NIRUI",
+  "postalCode": "73814"
  }
 ]

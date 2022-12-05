@@ -2,36 +2,50 @@
  {
   "id": 6209091001,
   "districtId": 6209091,
-  "name": "TUMBANG BARAOI"
+  "districtName": "PETAK MALAI",
+  "name": "TUMBANG BARAOI",
+  "postalCode": "74455"
  },
  {
   "id": 6209091002,
   "districtId": 6209091,
-  "name": "BATU TUKAN"
+  "districtName": "PETAK MALAI",
+  "name": "BATU TUKAN",
+  "postalCode": "74455"
  },
  {
   "id": 6209091003,
   "districtId": 6209091,
-  "name": "TUMBANG TANGOI"
+  "districtName": "PETAK MALAI",
+  "name": "TUMBANG TANGOI",
+  "postalCode": ""
  },
  {
   "id": 6209091004,
   "districtId": 6209091,
-  "name": "TUMBANG JALA"
+  "districtName": "PETAK MALAI",
+  "name": "TUMBANG JALA",
+  "postalCode": "74455"
  },
  {
   "id": 6209091005,
   "districtId": 6209091,
-  "name": "BATU BADAK"
+  "districtName": "PETAK MALAI",
+  "name": "BATU BADAK",
+  "postalCode": "34384"
  },
  {
   "id": 6209091006,
   "districtId": 6209091,
-  "name": "NUSA KUTAU"
+  "districtName": "PETAK MALAI",
+  "name": "NUSA KUTAU",
+  "postalCode": "74455"
  },
  {
   "id": 6209091007,
   "districtId": 6209091,
-  "name": "TUMBANG HABANGOI"
+  "districtName": "PETAK MALAI",
+  "name": "TUMBANG HABANGOI",
+  "postalCode": ""
  }
 ]

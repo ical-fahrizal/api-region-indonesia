@@ -2,26 +2,36 @@
  {
   "id": 1208101001,
   "districtId": 1208101,
-  "name": "LUBUK PALAS"
+  "districtName": "SILAU LAUT",
+  "name": "LUBUK PALAS",
+  "postalCode": "21263"
  },
  {
   "id": 1208101002,
   "districtId": 1208101,
-  "name": "SILO BARU"
+  "districtName": "SILAU LAUT",
+  "name": "SILO BARU",
+  "postalCode": "21263"
  },
  {
   "id": 1208101003,
   "districtId": 1208101,
-  "name": "SILO BONTO"
+  "districtName": "SILAU LAUT",
+  "name": "SILO BONTO",
+  "postalCode": "21263"
  },
  {
   "id": 1208101004,
   "districtId": 1208101,
-  "name": "SILO LAMA"
+  "districtName": "SILAU LAUT",
+  "name": "SILO LAMA",
+  "postalCode": "21263"
  },
  {
   "id": 1208101005,
   "districtId": 1208101,
-  "name": "BANGUN SARI"
+  "districtName": "SILAU LAUT",
+  "name": "BANGUN SARI",
+  "postalCode": "24782"
  }
 ]

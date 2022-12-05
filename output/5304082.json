@@ -2,31 +2,43 @@
  {
   "id": 5304082001,
   "districtId": 5304082,
-  "name": "FATUKOPA"
+  "districtName": "FATUKOPA",
+  "name": "FATUKOPA",
+  "postalCode": "85572"
  },
  {
   "id": 5304082002,
   "districtId": 5304082,
-  "name": "BESNAM"
+  "districtName": "FATUKOPA",
+  "name": "BESNAM",
+  "postalCode": "85572"
  },
  {
   "id": 5304082003,
   "districtId": 5304082,
-  "name": "TAEBONE"
+  "districtName": "FATUKOPA",
+  "name": "TAEBONE",
+  "postalCode": "85572"
  },
  {
   "id": 5304082005,
   "districtId": 5304082,
-  "name": "NIFULINAH"
+  "districtName": "FATUKOPA",
+  "name": "NIFULINAH",
+  "postalCode": "85572"
  },
  {
   "id": 5304082006,
   "districtId": 5304082,
-  "name": "ELO"
+  "districtName": "FATUKOPA",
+  "name": "ELO",
+  "postalCode": "97652"
  },
  {
   "id": 5304082007,
   "districtId": 5304082,
-  "name": "KIKI"
+  "districtName": "FATUKOPA",
+  "name": "KIKI",
+  "postalCode": "85572"
  }
 ]

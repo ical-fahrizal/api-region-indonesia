@@ -2,41 +2,57 @@
  {
   "id": 1306030001,
   "districtId": 1306030,
-  "name": "TAPAKIS"
+  "districtName": "ULAKAN TAPAKIS",
+  "name": "TAPAKIS",
+  "postalCode": ""
  },
  {
   "id": 1306030002,
   "districtId": 1306030,
-  "name": "ULAKAN"
+  "districtName": "ULAKAN TAPAKIS",
+  "name": "ULAKAN",
+  "postalCode": "25572"
  },
  {
   "id": 1306030003,
   "districtId": 1306030,
-  "name": "SEULAYAT ULAKAN"
+  "districtName": "ULAKAN TAPAKIS",
+  "name": "SEULAYAT ULAKAN",
+  "postalCode": ""
  },
  {
   "id": 1306030004,
   "districtId": 1306030,
-  "name": "SUNGAI GIMBA ULAKAN"
+  "districtName": "ULAKAN TAPAKIS",
+  "name": "SUNGAI GIMBA ULAKAN",
+  "postalCode": ""
  },
  {
   "id": 1306030005,
   "districtId": 1306030,
-  "name": "MANGGOPOH PALAK GADANG ULAKAN"
+  "districtName": "ULAKAN TAPAKIS",
+  "name": "MANGGOPOH PALAK GADANG ULAKAN",
+  "postalCode": ""
  },
  {
   "id": 1306030006,
   "districtId": 1306030,
-  "name": "SANDI ULAKAN"
+  "districtName": "ULAKAN TAPAKIS",
+  "name": "SANDI ULAKAN",
+  "postalCode": ""
  },
  {
   "id": 1306030007,
   "districtId": 1306030,
-  "name": "KAMPUANG GALAPUANG ULAKAN"
+  "districtName": "ULAKAN TAPAKIS",
+  "name": "KAMPUANG GALAPUANG ULAKAN",
+  "postalCode": ""
  },
  {
   "id": 1306030008,
   "districtId": 1306030,
-  "name": "PADANG TOBOH ULAKAN"
+  "districtName": "ULAKAN TAPAKIS",
+  "name": "PADANG TOBOH ULAKAN",
+  "postalCode": ""
  }
 ]

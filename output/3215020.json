@@ -2,36 +2,50 @@
  {
   "id": 3215020001,
   "districtId": 3215020,
-  "name": "TEGALEGA"
+  "districtName": "CIAMPEL",
+  "name": "TEGALEGA",
+  "postalCode": "44165"
  },
  {
   "id": 3215020002,
   "districtId": 3215020,
-  "name": "MULYASEJATI"
+  "districtName": "CIAMPEL",
+  "name": "MULYASEJATI",
+  "postalCode": "41363"
  },
  {
   "id": 3215020003,
   "districtId": 3215020,
-  "name": "MULYASARI"
+  "districtName": "CIAMPEL",
+  "name": "MULYASARI",
+  "postalCode": "43273"
  },
  {
   "id": 3215020004,
   "districtId": 3215020,
-  "name": "KUTANEGARA"
+  "districtName": "CIAMPEL",
+  "name": "KUTANEGARA",
+  "postalCode": "41363"
  },
  {
   "id": 3215020005,
   "districtId": 3215020,
-  "name": "KUTAPOHACI"
+  "districtName": "CIAMPEL",
+  "name": "KUTAPOHACI",
+  "postalCode": "41363"
  },
  {
   "id": 3215020006,
   "districtId": 3215020,
-  "name": "KUTAMEKAR"
+  "districtName": "CIAMPEL",
+  "name": "KUTAMEKAR",
+  "postalCode": "41363"
  },
  {
   "id": 3215020007,
   "districtId": 3215020,
-  "name": "PARUNGMULYA"
+  "districtName": "CIAMPEL",
+  "name": "PARUNGMULYA",
+  "postalCode": "41363"
  }
 ]

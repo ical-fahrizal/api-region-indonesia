@@ -2,61 +2,85 @@
  {
   "id": 1371040003,
   "districtId": 1371040,
-  "name": "AIR MANIS"
+  "districtName": "PADANG SELATAN",
+  "name": "AIR MANIS",
+  "postalCode": ""
  },
  {
   "id": 1371040008,
   "districtId": 1371040,
-  "name": "BUKIK GADO GADO"
+  "districtName": "PADANG SELATAN",
+  "name": "BUKIK GADO GADO",
+  "postalCode": ""
  },
  {
   "id": 1371040010,
   "districtId": 1371040,
-  "name": "BATANG ARAU"
+  "districtName": "PADANG SELATAN",
+  "name": "BATANG ARAU",
+  "postalCode": "25215"
  },
  {
   "id": 1371040011,
   "districtId": 1371040,
-  "name": "SEBERANG PALINGGAM"
+  "districtName": "PADANG SELATAN",
+  "name": "SEBERANG PALINGGAM",
+  "postalCode": "25215"
  },
  {
   "id": 1371040016,
   "districtId": 1371040,
-  "name": "PASA GADANG"
+  "districtName": "PADANG SELATAN",
+  "name": "PASA GADANG",
+  "postalCode": ""
  },
  {
   "id": 1371040021,
   "districtId": 1371040,
-  "name": "BELAKANG PONDOK"
+  "districtName": "PADANG SELATAN",
+  "name": "BELAKANG PONDOK",
+  "postalCode": "25211"
  },
  {
   "id": 1371040024,
   "districtId": 1371040,
-  "name": "ALANG LAWEH"
+  "districtName": "PADANG SELATAN",
+  "name": "ALANG LAWEH",
+  "postalCode": "25211"
  },
  {
   "id": 1371040025,
   "districtId": 1371040,
-  "name": "TALUAK BAYUA"
+  "districtName": "PADANG SELATAN",
+  "name": "TALUAK BAYUA",
+  "postalCode": ""
  },
  {
   "id": 1371040026,
   "districtId": 1371040,
-  "name": "RAWANG"
+  "districtName": "PADANG SELATAN",
+  "name": "RAWANG",
+  "postalCode": "25216"
  },
  {
   "id": 1371040027,
   "districtId": 1371040,
-  "name": "MATO AIE"
+  "districtName": "PADANG SELATAN",
+  "name": "MATO AIE",
+  "postalCode": ""
  },
  {
   "id": 1371040028,
   "districtId": 1371040,
-  "name": "SEBERANG PADANG"
+  "districtName": "PADANG SELATAN",
+  "name": "SEBERANG PADANG",
+  "postalCode": "25214"
  },
  {
   "id": 1371040029,
   "districtId": 1371040,
-  "name": "RANAH PARAK RUMBIO"
+  "districtName": "PADANG SELATAN",
+  "name": "RANAH PARAK RUMBIO",
+  "postalCode": "25212"
  }
 ]

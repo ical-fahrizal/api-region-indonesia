@@ -2,36 +2,50 @@
  {
   "id": 3203221001,
   "districtId": 3203221,
-  "name": "SINDANGJAYA"
+  "districtName": "CIPANAS",
+  "name": "SINDANGJAYA",
+  "postalCode": "46195"
  },
  {
   "id": 3203221002,
   "districtId": 3203221,
-  "name": "CIPANAS"
+  "districtName": "CIPANAS",
+  "name": "CIPANAS",
+  "postalCode": "43253"
  },
  {
   "id": 3203221003,
   "districtId": 3203221,
-  "name": "SINDANGLAYA"
+  "districtName": "CIPANAS",
+  "name": "SINDANGLAYA",
+  "postalCode": "40195"
  },
  {
   "id": 3203221004,
   "districtId": 3203221,
-  "name": "PALASARI"
+  "districtName": "CIPANAS",
+  "name": "PALASARI",
+  "postalCode": "41251"
  },
  {
   "id": 3203221005,
   "districtId": 3203221,
-  "name": "CIMACAN"
+  "districtName": "CIPANAS",
+  "name": "CIMACAN",
+  "postalCode": "43253"
  },
  {
   "id": 3203221006,
   "districtId": 3203221,
-  "name": "CILOTO"
+  "districtName": "CIPANAS",
+  "name": "CILOTO",
+  "postalCode": "43253"
  },
  {
   "id": 3203221007,
   "districtId": 3203221,
-  "name": "BATULAWANG"
+  "districtName": "CIPANAS",
+  "name": "BATULAWANG",
+  "postalCode": "43271"
  }
 ]

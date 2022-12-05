@@ -2,31 +2,43 @@
  {
   "id": 9419032001,
   "districtId": 9419032,
-  "name": "TARAWASI"
+  "districtName": "BONGGO TIMUR",
+  "name": "TARAWASI",
+  "postalCode": ""
  },
  {
   "id": 9419032002,
   "districtId": 9419032,
-  "name": "MAWESDAY"
+  "districtName": "BONGGO TIMUR",
+  "name": "MAWESDAY",
+  "postalCode": "99355"
  },
  {
   "id": 9419032003,
   "districtId": 9419032,
-  "name": "KAPTIAU"
+  "districtName": "BONGGO TIMUR",
+  "name": "KAPTIAU",
+  "postalCode": "99355"
  },
  {
   "id": 9419032006,
   "districtId": 9419032,
-  "name": "TAMARSARI"
+  "districtName": "BONGGO TIMUR",
+  "name": "TAMARSARI",
+  "postalCode": ""
  },
  {
   "id": 9419032007,
   "districtId": 9419032,
-  "name": "MAWESMUKTI"
+  "districtName": "BONGGO TIMUR",
+  "name": "MAWESMUKTI",
+  "postalCode": ""
  },
  {
   "id": 9419032008,
   "districtId": 9419032,
-  "name": "GWINJAYA"
+  "districtName": "BONGGO TIMUR",
+  "name": "GWINJAYA",
+  "postalCode": ""
  }
 ]

@@ -2,66 +2,92 @@
  {
   "id": 7603100001,
   "districtId": 7603100,
-  "name": "LAKAHANG"
+  "districtName": "TABULAHAN",
+  "name": "LAKAHANG",
+  "postalCode": "91372"
  },
  {
   "id": 7603100002,
   "districtId": 7603100,
-  "name": "PERIANGAN"
+  "districtName": "TABULAHAN",
+  "name": "PERIANGAN",
+  "postalCode": "78876"
  },
  {
   "id": 7603100003,
   "districtId": 7603100,
-  "name": "MALATIRO"
+  "districtName": "TABULAHAN",
+  "name": "MALATIRO",
+  "postalCode": "91372"
  },
  {
   "id": 7603100004,
   "districtId": 7603100,
-  "name": "TABULAHAN"
+  "districtName": "TABULAHAN",
+  "name": "TABULAHAN",
+  "postalCode": "91372"
  },
  {
   "id": 7603100005,
   "districtId": 7603100,
-  "name": "SALULEANG"
+  "districtName": "TABULAHAN",
+  "name": "SALULEANG",
+  "postalCode": "91372"
  },
  {
   "id": 7603100007,
   "districtId": 7603100,
-  "name": "TAMPAK KURRA"
+  "districtName": "TABULAHAN",
+  "name": "TAMPAK KURRA",
+  "postalCode": "91372"
  },
  {
   "id": 7603100008,
   "districtId": 7603100,
-  "name": "GANDANG DEWATA"
+  "districtName": "TABULAHAN",
+  "name": "GANDANG DEWATA",
+  "postalCode": "91372"
  },
  {
   "id": 7603100009,
   "districtId": 7603100,
-  "name": "BURANA"
+  "districtName": "TABULAHAN",
+  "name": "BURANA",
+  "postalCode": "91372"
  },
  {
   "id": 7603100010,
   "districtId": 7603100,
-  "name": "SALUBAKKA"
+  "districtName": "TABULAHAN",
+  "name": "SALUBAKKA",
+  "postalCode": "91372"
  },
  {
   "id": 7603100011,
   "districtId": 7603100,
-  "name": "PANGANDARAN"
+  "districtName": "TABULAHAN",
+  "name": "PANGANDARAN",
+  "postalCode": "46396"
  },
  {
   "id": 7603100012,
   "districtId": 7603100,
-  "name": "LAKAHANG UTAMA"
+  "districtName": "TABULAHAN",
+  "name": "LAKAHANG UTAMA",
+  "postalCode": ""
  },
  {
   "id": 7603100013,
   "districtId": 7603100,
-  "name": "TALOPAK"
+  "districtName": "TABULAHAN",
+  "name": "TALOPAK",
+  "postalCode": ""
  },
  {
   "id": 7603100014,
   "districtId": 7603100,
-  "name": "TIMORO"
+  "districtName": "TABULAHAN",
+  "name": "TIMORO",
+  "postalCode": ""
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 7205082001,
   "districtId": 7205082,
-  "name": "POWELUA"
+  "districtName": "BANAWA TENGAH",
+  "name": "POWELUA",
+  "postalCode": "94351"
  },
  {
   "id": 7205082002,
   "districtId": 7205082,
-  "name": "LUMBUDOLO"
+  "districtName": "BANAWA TENGAH",
+  "name": "LUMBUDOLO",
+  "postalCode": "94351"
  },
  {
   "id": 7205082003,
   "districtId": 7205082,
-  "name": "SALUBOMBA"
+  "districtName": "BANAWA TENGAH",
+  "name": "SALUBOMBA",
+  "postalCode": "94351"
  },
  {
   "id": 7205082004,
   "districtId": 7205082,
-  "name": "TOWALE"
+  "districtName": "BANAWA TENGAH",
+  "name": "TOWALE",
+  "postalCode": "94351"
  },
  {
   "id": 7205082005,
   "districtId": 7205082,
-  "name": "LIMBORO"
+  "districtName": "BANAWA TENGAH",
+  "name": "LIMBORO",
+  "postalCode": "94351"
  },
  {
   "id": 7205082006,
   "districtId": 7205082,
-  "name": "KOLA-KOLA"
+  "districtName": "BANAWA TENGAH",
+  "name": "KOLA-KOLA",
+  "postalCode": "94351"
  },
  {
   "id": 7205082007,
   "districtId": 7205082,
-  "name": "MEKAR BARU"
+  "districtName": "BANAWA TENGAH",
+  "name": "MEKAR BARU",
+  "postalCode": "21216"
  },
  {
   "id": 7205082008,
   "districtId": 7205082,
-  "name": "LAMPO"
+  "districtName": "BANAWA TENGAH",
+  "name": "LAMPO",
+  "postalCode": "94351"
  }
 ]

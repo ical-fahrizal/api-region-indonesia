@@ -2,81 +2,113 @@
  {
   "id": 7107010001,
   "districtId": 7107010,
-  "name": "SANGTOMBOLANG"
+  "districtName": "SANGKUB",
+  "name": "SANGTOMBOLANG",
+  "postalCode": "95762"
  },
  {
   "id": 7107010002,
   "districtId": 7107010,
-  "name": "SAMPIRO"
+  "districtName": "SANGKUB",
+  "name": "SAMPIRO",
+  "postalCode": "95762"
  },
  {
   "id": 7107010003,
   "districtId": 7107010,
-  "name": "SANGKUB I"
+  "districtName": "SANGKUB",
+  "name": "SANGKUB I",
+  "postalCode": ""
  },
  {
   "id": 7107010004,
   "districtId": 7107010,
-  "name": "SANGKUB II"
+  "districtName": "SANGKUB",
+  "name": "SANGKUB II",
+  "postalCode": ""
  },
  {
   "id": 7107010005,
   "districtId": 7107010,
-  "name": "SANGKUB III"
+  "districtName": "SANGKUB",
+  "name": "SANGKUB III",
+  "postalCode": ""
  },
  {
   "id": 7107010006,
   "districtId": 7107010,
-  "name": "TOMBOLANGO"
+  "districtName": "SANGKUB",
+  "name": "TOMBOLANGO",
+  "postalCode": "95762"
  },
  {
   "id": 7107010007,
   "districtId": 7107010,
-  "name": "BUSISINGO"
+  "districtName": "SANGKUB",
+  "name": "BUSISINGO",
+  "postalCode": "95762"
  },
  {
   "id": 7107010008,
   "districtId": 7107010,
-  "name": "PANGKUSA"
+  "districtName": "SANGKUB",
+  "name": "PANGKUSA",
+  "postalCode": "95762"
  },
  {
   "id": 7107010009,
   "districtId": 7107010,
-  "name": "SIDODADI"
+  "districtName": "SANGKUB",
+  "name": "SIDODADI",
+  "postalCode": "24582"
  },
  {
   "id": 7107010010,
   "districtId": 7107010,
-  "name": "BUSISINGO UTARA"
+  "districtName": "SANGKUB",
+  "name": "BUSISINGO UTARA",
+  "postalCode": "95762"
  },
  {
   "id": 7107010011,
   "districtId": 7107010,
-  "name": "SANGKUB IV"
+  "districtName": "SANGKUB",
+  "name": "SANGKUB IV",
+  "postalCode": ""
  },
  {
   "id": 7107010012,
   "districtId": 7107010,
-  "name": "APENG SEMBEKA"
+  "districtName": "SANGKUB",
+  "name": "APENG SEMBEKA",
+  "postalCode": "95811"
  },
  {
   "id": 7107010013,
   "districtId": 7107010,
-  "name": "SANGKUB TIMUR"
+  "districtName": "SANGKUB",
+  "name": "SANGKUB TIMUR",
+  "postalCode": "95762"
  },
  {
   "id": 7107010014,
   "districtId": 7107010,
-  "name": "MONOMPIA"
+  "districtName": "SANGKUB",
+  "name": "MONOMPIA",
+  "postalCode": "95762"
  },
  {
   "id": 7107010015,
   "districtId": 7107010,
-  "name": "SUKA MAKMUR"
+  "districtName": "SANGKUB",
+  "name": "SUKA MAKMUR",
+  "postalCode": "24784"
  },
  {
   "id": 7107010016,
   "districtId": 7107010,
-  "name": "MOKUSATO"
+  "districtName": "SANGKUB",
+  "name": "MOKUSATO",
+  "postalCode": "95762"
  }
 ]

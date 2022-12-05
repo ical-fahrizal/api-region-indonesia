@@ -2,106 +2,148 @@
  {
   "id": 3515170001,
   "districtId": 3515170,
-  "name": "TROPODO"
+  "districtName": "KRIAN",
+  "name": "TROPODO",
+  "postalCode": "61262"
  },
  {
   "id": 3515170002,
   "districtId": 3515170,
-  "name": "SEDENGAN MIJEN"
+  "districtName": "KRIAN",
+  "name": "SEDENGAN MIJEN",
+  "postalCode": "61262"
  },
  {
   "id": 3515170003,
   "districtId": 3515170,
-  "name": "KATRUNGAN"
+  "districtName": "KRIAN",
+  "name": "KATRUNGAN",
+  "postalCode": ""
  },
  {
   "id": 3515170004,
   "districtId": 3515170,
-  "name": "JERUK GAMPING"
+  "districtName": "KRIAN",
+  "name": "JERUK GAMPING",
+  "postalCode": "61262"
  },
  {
   "id": 3515170005,
   "districtId": 3515170,
-  "name": "GAMPING"
+  "districtName": "KRIAN",
+  "name": "GAMPING",
+  "postalCode": "66272"
  },
  {
   "id": 3515170006,
   "districtId": 3515170,
-  "name": "TERIK"
+  "districtName": "KRIAN",
+  "name": "TERIK",
+  "postalCode": "61262"
  },
  {
   "id": 3515170007,
   "districtId": 3515170,
-  "name": "JUNWANGI"
+  "districtName": "KRIAN",
+  "name": "JUNWANGI",
+  "postalCode": "61262"
  },
  {
   "id": 3515170008,
   "districtId": 3515170,
-  "name": "TERUNG KULON"
+  "districtName": "KRIAN",
+  "name": "TERUNG KULON",
+  "postalCode": "61262"
  },
  {
   "id": 3515170009,
   "districtId": 3515170,
-  "name": "TERUNG WETAN"
+  "districtName": "KRIAN",
+  "name": "TERUNG WETAN",
+  "postalCode": "61262"
  },
  {
   "id": 3515170010,
   "districtId": 3515170,
-  "name": "JATIKALANG"
+  "districtName": "KRIAN",
+  "name": "JATIKALANG",
+  "postalCode": "61262"
  },
  {
   "id": 3515170011,
   "districtId": 3515170,
-  "name": "KEBOHARAN"
+  "districtName": "KRIAN",
+  "name": "KEBOHARAN",
+  "postalCode": "61262"
  },
  {
   "id": 3515170012,
   "districtId": 3515170,
-  "name": "PONOKAWAN"
+  "districtName": "KRIAN",
+  "name": "PONOKAWAN",
+  "postalCode": "61262"
  },
  {
   "id": 3515170013,
   "districtId": 3515170,
-  "name": "KEMASAN"
+  "districtName": "KRIAN",
+  "name": "KEMASAN",
+  "postalCode": "51156"
  },
  {
   "id": 3515170014,
   "districtId": 3515170,
-  "name": "SIDOMOJO"
+  "districtName": "KRIAN",
+  "name": "SIDOMOJO",
+  "postalCode": "61262"
  },
  {
   "id": 3515170015,
   "districtId": 3515170,
-  "name": "TAMBAK KEMERAKAN"
+  "districtName": "KRIAN",
+  "name": "TAMBAK KEMERAKAN",
+  "postalCode": "61262"
  },
  {
   "id": 3515170016,
   "districtId": 3515170,
-  "name": "KRIAN"
+  "districtName": "KRIAN",
+  "name": "KRIAN",
+  "postalCode": "61262"
  },
  {
   "id": 3515170017,
   "districtId": 3515170,
-  "name": "KRATON"
+  "districtName": "KRIAN",
+  "name": "KRATON",
+  "postalCode": "52112"
  },
  {
   "id": 3515170018,
   "districtId": 3515170,
-  "name": "SIDOMULYO"
+  "districtName": "KRIAN",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  },
  {
   "id": 3515170020,
   "districtId": 3515170,
-  "name": "WATUGOLONG"
+  "districtName": "KRIAN",
+  "name": "WATUGOLONG",
+  "postalCode": "61262"
  },
  {
   "id": 3515170021,
   "districtId": 3515170,
-  "name": "BARENGKRAJAN"
+  "districtName": "KRIAN",
+  "name": "BARENGKRAJAN",
+  "postalCode": "61262"
  },
  {
   "id": 3515170022,
   "districtId": 3515170,
-  "name": "SIDOREJO"
+  "districtName": "KRIAN",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  }
 ]

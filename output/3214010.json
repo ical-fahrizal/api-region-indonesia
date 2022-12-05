@@ -2,46 +2,64 @@
  {
   "id": 3214010006,
   "districtId": 3214010,
-  "name": "JATIMEKAR"
+  "districtName": "JATILUHUR",
+  "name": "JATIMEKAR",
+  "postalCode": "40558"
  },
  {
   "id": 3214010007,
   "districtId": 3214010,
-  "name": "CIKAOBANDUNG"
+  "districtName": "JATILUHUR",
+  "name": "CIKAOBANDUNG",
+  "postalCode": "41152"
  },
  {
   "id": 3214010008,
   "districtId": 3214010,
-  "name": "JATILUHUR"
+  "districtName": "JATILUHUR",
+  "name": "JATILUHUR",
+  "postalCode": "17425"
  },
  {
   "id": 3214010009,
   "districtId": 3214010,
-  "name": "CILEGONG"
+  "districtName": "JATILUHUR",
+  "name": "CILEGONG",
+  "postalCode": "41152"
  },
  {
   "id": 3214010010,
   "districtId": 3214010,
-  "name": "KEMBANGKUNING"
+  "districtName": "JATILUHUR",
+  "name": "KEMBANGKUNING",
+  "postalCode": "41152"
  },
  {
   "id": 3214010011,
   "districtId": 3214010,
-  "name": "CIBINONG"
+  "districtName": "JATILUHUR",
+  "name": "CIBINONG",
+  "postalCode": "16911"
  },
  {
   "id": 3214010015,
   "districtId": 3214010,
-  "name": "PARAKANLIMA"
+  "districtName": "JATILUHUR",
+  "name": "PARAKANLIMA",
+  "postalCode": "43157"
  },
  {
   "id": 3214010016,
   "districtId": 3214010,
-  "name": "CISALADA"
+  "districtName": "JATILUHUR",
+  "name": "CISALADA",
+  "postalCode": "16110"
  },
  {
   "id": 3214010017,
   "districtId": 3214010,
-  "name": "MEKARGALIH"
+  "districtName": "JATILUHUR",
+  "name": "MEKARGALIH",
+  "postalCode": "43291"
  }
 ]

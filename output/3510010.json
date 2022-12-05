@@ -2,26 +2,36 @@
  {
   "id": 3510010001,
   "districtId": 3510010,
-  "name": "SARONGAN"
+  "districtName": "PESANGGARAN",
+  "name": "SARONGAN",
+  "postalCode": "68488"
  },
  {
   "id": 3510010002,
   "districtId": 3510010,
-  "name": "KANDANGAN"
+  "districtName": "PESANGGARAN",
+  "name": "KANDANGAN",
+  "postalCode": "21186"
  },
  {
   "id": 3510010003,
   "districtId": 3510010,
-  "name": "SUMBERAGUNG"
+  "districtName": "PESANGGARAN",
+  "name": "SUMBERAGUNG",
+  "postalCode": "35452"
  },
  {
   "id": 3510010004,
   "districtId": 3510010,
-  "name": "PESANGGARAN"
+  "districtName": "PESANGGARAN",
+  "name": "PESANGGARAN",
+  "postalCode": "68488"
  },
  {
   "id": 3510010009,
   "districtId": 3510010,
-  "name": "SUMBERMULYO"
+  "districtName": "PESANGGARAN",
+  "name": "SUMBERMULYO",
+  "postalCode": "59255"
  }
 ]

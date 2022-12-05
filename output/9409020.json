@@ -2,46 +2,64 @@
  {
   "id": 9409020010,
   "districtId": 9409020,
-  "name": "YENBURWO"
+  "districtName": "NUMFOR TIMUR",
+  "name": "YENBURWO",
+  "postalCode": "98171"
  },
  {
   "id": 9409020011,
   "districtId": 9409020,
-  "name": "KORNASOREN"
+  "districtName": "NUMFOR TIMUR",
+  "name": "KORNASOREN",
+  "postalCode": "98171"
  },
  {
   "id": 9409020014,
   "districtId": 9409020,
-  "name": "RARSIBO"
+  "districtName": "NUMFOR TIMUR",
+  "name": "RARSIBO",
+  "postalCode": "98171"
  },
  {
   "id": 9409020015,
   "districtId": 9409020,
-  "name": "ASARYENDI"
+  "districtName": "NUMFOR TIMUR",
+  "name": "ASARYENDI",
+  "postalCode": "98154"
  },
  {
   "id": 9409020016,
   "districtId": 9409020,
-  "name": "YENMANU"
+  "districtName": "NUMFOR TIMUR",
+  "name": "YENMANU",
+  "postalCode": ""
  },
  {
   "id": 9409020017,
   "districtId": 9409020,
-  "name": "FYEPURI"
+  "districtName": "NUMFOR TIMUR",
+  "name": "FYEPURI",
+  "postalCode": ""
  },
  {
   "id": 9409020018,
   "districtId": 9409020,
-  "name": "INDAIBORI"
+  "districtName": "NUMFOR TIMUR",
+  "name": "INDAIBORI",
+  "postalCode": "98171"
  },
  {
   "id": 9409020019,
   "districtId": 9409020,
-  "name": "BARKORI"
+  "districtName": "NUMFOR TIMUR",
+  "name": "BARKORI",
+  "postalCode": "98171"
  },
  {
   "id": 9409020020,
   "districtId": 9409020,
-  "name": "ASAIBORI"
+  "districtName": "NUMFOR TIMUR",
+  "name": "ASAIBORI",
+  "postalCode": "98171"
  }
 ]

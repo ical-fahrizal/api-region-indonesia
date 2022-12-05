@@ -2,36 +2,50 @@
  {
   "id": 3209210004,
   "districtId": 3209210,
-  "name": "CIWARINGIN"
+  "districtName": "CIWARINGIN",
+  "name": "CIWARINGIN",
+  "postalCode": "16124"
  },
  {
   "id": 3209210005,
   "districtId": 3209210,
-  "name": "BABAKAN"
+  "districtName": "CIWARINGIN",
+  "name": "BABAKAN",
+  "postalCode": "35675"
  },
  {
   "id": 3209210007,
   "districtId": 3209210,
-  "name": "GINTUNGRANJENG"
+  "districtName": "CIWARINGIN",
+  "name": "GINTUNGRANJENG",
+  "postalCode": "45167"
  },
  {
   "id": 3209210008,
   "districtId": 3209210,
-  "name": "GINTUNG KIDUL"
+  "districtName": "CIWARINGIN",
+  "name": "GINTUNG KIDUL",
+  "postalCode": "45167"
  },
  {
   "id": 3209210009,
   "districtId": 3209210,
-  "name": "GINTUNG TENGAH"
+  "districtName": "CIWARINGIN",
+  "name": "GINTUNG TENGAH",
+  "postalCode": "45167"
  },
  {
   "id": 3209210010,
   "districtId": 3209210,
-  "name": "BRINGIN"
+  "districtName": "CIWARINGIN",
+  "name": "BRINGIN",
+  "postalCode": "45167"
  },
  {
   "id": 3209210011,
   "districtId": 3209210,
-  "name": "GALAGAMBA"
+  "districtName": "CIWARINGIN",
+  "name": "GALAGAMBA",
+  "postalCode": "45167"
  }
 ]

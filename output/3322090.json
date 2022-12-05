@@ -2,66 +2,92 @@
  {
   "id": 3322090001,
   "districtId": 3322090,
-  "name": "KEBONAGUNG"
+  "districtName": "SUMOWONO",
+  "name": "KEBONAGUNG",
+  "postalCode": "56151"
  },
  {
   "id": 3322090002,
   "districtId": 3322090,
-  "name": "NGADIKERSO"
+  "districtName": "SUMOWONO",
+  "name": "NGADIKERSO",
+  "postalCode": "56373"
  },
  {
   "id": 3322090003,
   "districtId": 3322090,
-  "name": "LANJAN"
+  "districtName": "SUMOWONO",
+  "name": "LANJAN",
+  "postalCode": "45252"
  },
  {
   "id": 3322090004,
   "districtId": 3322090,
-  "name": "CANDIGARON"
+  "districtName": "SUMOWONO",
+  "name": "CANDIGARON",
+  "postalCode": "50662"
  },
  {
   "id": 3322090005,
   "districtId": 3322090,
-  "name": "KEMITIR"
+  "districtName": "SUMOWONO",
+  "name": "KEMITIR",
+  "postalCode": "50662"
  },
  {
   "id": 3322090006,
   "districtId": 3322090,
-  "name": "TRAYU"
+  "districtName": "SUMOWONO",
+  "name": "TRAYU",
+  "postalCode": "57373"
  },
  {
   "id": 3322090007,
   "districtId": 3322090,
-  "name": "SUMOWONO"
+  "districtName": "SUMOWONO",
+  "name": "SUMOWONO",
+  "postalCode": "50662"
  },
  {
   "id": 3322090008,
   "districtId": 3322090,
-  "name": "JUBELAN"
+  "districtName": "SUMOWONO",
+  "name": "JUBELAN",
+  "postalCode": "50662"
  },
  {
   "id": 3322090010,
   "districtId": 3322090,
-  "name": "MENDONGAN"
+  "districtName": "SUMOWONO",
+  "name": "MENDONGAN",
+  "postalCode": "50662"
  },
  {
   "id": 3322090011,
   "districtId": 3322090,
-  "name": "LOSARI"
+  "districtName": "SUMOWONO",
+  "name": "LOSARI",
+  "postalCode": "52364"
  },
  {
   "id": 3322090012,
   "districtId": 3322090,
-  "name": "KEMAWI"
+  "districtName": "SUMOWONO",
+  "name": "KEMAWI",
+  "postalCode": "53193"
  },
  {
   "id": 3322090013,
   "districtId": 3322090,
-  "name": "PIYANGGANG"
+  "districtName": "SUMOWONO",
+  "name": "PIYANGGANG",
+  "postalCode": "50662"
  },
  {
   "id": 3322090014,
   "districtId": 3322090,
-  "name": "PLEDOKAN"
+  "districtName": "SUMOWONO",
+  "name": "PLEDOKAN",
+  "postalCode": "50662"
  }
 ]

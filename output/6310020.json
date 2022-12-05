@@ -2,86 +2,120 @@
  {
   "id": 6310020001,
   "districtId": 6310020,
-  "name": "SEBAMBAN BARU"
+  "districtName": "SUNGAI LOBAN",
+  "name": "SEBAMBAN BARU",
+  "postalCode": "70883"
  },
  {
   "id": 6310020002,
   "districtId": 6310020,
-  "name": "SEBAMBAN LAMA"
+  "districtName": "SUNGAI LOBAN",
+  "name": "SEBAMBAN LAMA",
+  "postalCode": "72274"
  },
  {
   "id": 6310020003,
   "districtId": 6310020,
-  "name": "DWI MARGA UTAMA"
+  "districtName": "SUNGAI LOBAN",
+  "name": "DWI MARGA UTAMA",
+  "postalCode": "72274"
  },
  {
   "id": 6310020004,
   "districtId": 6310020,
-  "name": "SUNGAI DUA LAUT"
+  "districtName": "SUNGAI LOBAN",
+  "name": "SUNGAI DUA LAUT",
+  "postalCode": ""
  },
  {
   "id": 6310020005,
   "districtId": 6310020,
-  "name": "SUNGAI LOBAN"
+  "districtName": "SUNGAI LOBAN",
+  "name": "SUNGAI LOBAN",
+  "postalCode": ""
  },
  {
   "id": 6310020006,
   "districtId": 6310020,
-  "name": "MARGA MULYA"
+  "districtName": "SUNGAI LOBAN",
+  "name": "MARGA MULYA",
+  "postalCode": "28565"
  },
  {
   "id": 6310020007,
   "districtId": 6310020,
-  "name": "SARI MULYA"
+  "districtName": "SUNGAI LOBAN",
+  "name": "SARI MULYA",
+  "postalCode": "37257"
  },
  {
   "id": 6310020008,
   "districtId": 6310020,
-  "name": "TRI MULYA"
+  "districtName": "SUNGAI LOBAN",
+  "name": "TRI MULYA",
+  "postalCode": "72274"
  },
  {
   "id": 6310020009,
   "districtId": 6310020,
-  "name": "KERTA BUANA"
+  "districtName": "SUNGAI LOBAN",
+  "name": "KERTA BUANA",
+  "postalCode": "72274"
  },
  {
   "id": 6310020010,
   "districtId": 6310020,
-  "name": "TRI MARTANI"
+  "districtName": "SUNGAI LOBAN",
+  "name": "TRI MARTANI",
+  "postalCode": "72274"
  },
  {
   "id": 6310020011,
   "districtId": 6310020,
-  "name": "BATU MERANTI"
+  "districtName": "SUNGAI LOBAN",
+  "name": "BATU MERANTI",
+  "postalCode": "72274"
  },
  {
   "id": 6310020012,
   "districtId": 6310020,
-  "name": "SARI UTAMA"
+  "districtName": "SUNGAI LOBAN",
+  "name": "SARI UTAMA",
+  "postalCode": "72274"
  },
  {
   "id": 6310020013,
   "districtId": 6310020,
-  "name": "DAMAR INDAH"
+  "districtName": "SUNGAI LOBAN",
+  "name": "DAMAR INDAH",
+  "postalCode": "72274"
  },
  {
   "id": 6310020014,
   "districtId": 6310020,
-  "name": "SUMBER SARI"
+  "districtName": "SUNGAI LOBAN",
+  "name": "SUMBER SARI",
+  "postalCode": "21343"
  },
  {
   "id": 6310020015,
   "districtId": 6310020,
-  "name": "BIDURI BERSUJUD"
+  "districtName": "SUNGAI LOBAN",
+  "name": "BIDURI BERSUJUD",
+  "postalCode": "72274"
  },
  {
   "id": 6310020016,
   "districtId": 6310020,
-  "name": "WANASARI"
+  "districtName": "SUNGAI LOBAN",
+  "name": "WANASARI",
+  "postalCode": "43273"
  },
  {
   "id": 6310020017,
   "districtId": 6310020,
-  "name": "SUMBER MAKMUR"
+  "districtName": "SUNGAI LOBAN",
+  "name": "SUMBER MAKMUR",
+  "postalCode": "23662"
  }
 ]

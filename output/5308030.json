@@ -2,86 +2,120 @@
  {
   "id": 5308030001,
   "districtId": 5308030,
-  "name": "KOLONTOBO"
+  "districtName": "ILE APE",
+  "name": "KOLONTOBO",
+  "postalCode": "86683"
  },
  {
   "id": 5308030002,
   "districtId": 5308030,
-  "name": "LARANWUNTUN"
+  "districtName": "ILE APE",
+  "name": "LARANWUNTUN",
+  "postalCode": "86683"
  },
  {
   "id": 5308030003,
   "districtId": 5308030,
-  "name": "MURUONA"
+  "districtName": "ILE APE",
+  "name": "MURUONA",
+  "postalCode": "86683"
  },
  {
   "id": 5308030004,
   "districtId": 5308030,
-  "name": "WATODIRI"
+  "districtName": "ILE APE",
+  "name": "WATODIRI",
+  "postalCode": "86683"
  },
  {
   "id": 5308030013,
   "districtId": 5308030,
-  "name": "NAPASABOK"
+  "districtName": "ILE APE",
+  "name": "NAPASABOK",
+  "postalCode": "86683"
  },
  {
   "id": 5308030014,
   "districtId": 5308030,
-  "name": "BUNGAMUDA"
+  "districtName": "ILE APE",
+  "name": "BUNGAMUDA",
+  "postalCode": "86683"
  },
  {
   "id": 5308030015,
   "districtId": 5308030,
-  "name": "AMAKAKA"
+  "districtName": "ILE APE",
+  "name": "AMAKAKA",
+  "postalCode": "86683"
  },
  {
   "id": 5308030016,
   "districtId": 5308030,
-  "name": "TANJUNG BATU"
+  "districtName": "ILE APE",
+  "name": "TANJUNG BATU",
+  "postalCode": "37173"
  },
  {
   "id": 5308030017,
   "districtId": 5308030,
-  "name": "PETUNTAWA"
+  "districtName": "ILE APE",
+  "name": "PETUNTAWA",
+  "postalCode": "86683"
  },
  {
   "id": 5308030018,
   "districtId": 5308030,
-  "name": "WAOWALA"
+  "districtName": "ILE APE",
+  "name": "WAOWALA",
+  "postalCode": "86683"
  },
  {
   "id": 5308030019,
   "districtId": 5308030,
-  "name": "TAGAWITI"
+  "districtName": "ILE APE",
+  "name": "TAGAWITI",
+  "postalCode": "86683"
  },
  {
   "id": 5308030020,
   "districtId": 5308030,
-  "name": "DULITUKAN"
+  "districtName": "ILE APE",
+  "name": "DULITUKAN",
+  "postalCode": "86683"
  },
  {
   "id": 5308030021,
   "districtId": 5308030,
-  "name": "KOLIPADAN"
+  "districtName": "ILE APE",
+  "name": "KOLIPADAN",
+  "postalCode": "86683"
  },
  {
   "id": 5308030022,
   "districtId": 5308030,
-  "name": "PALILOLON"
+  "districtName": "ILE APE",
+  "name": "PALILOLON",
+  "postalCode": ""
  },
  {
   "id": 5308030023,
   "districtId": 5308030,
-  "name": "LAMAWARA"
+  "districtName": "ILE APE",
+  "name": "LAMAWARA",
+  "postalCode": "86683"
  },
  {
   "id": 5308030024,
   "districtId": 5308030,
-  "name": "BEUTARAN"
+  "districtName": "ILE APE",
+  "name": "BEUTARAN",
+  "postalCode": "86683"
  },
  {
   "id": 5308030025,
   "districtId": 5308030,
-  "name": "RIANGBAO"
+  "districtName": "ILE APE",
+  "name": "RIANGBAO",
+  "postalCode": ""
  }
 ]

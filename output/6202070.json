@@ -2,36 +2,50 @@
  {
   "id": 6202070001,
   "districtId": 6202070,
-  "name": "PONDOK DAMAR"
+  "districtName": "MENTAYA HILIR UTARA",
+  "name": "PONDOK DAMAR",
+  "postalCode": "74361"
  },
  {
   "id": 6202070002,
   "districtId": 6202070,
-  "name": "NATAI BARU"
+  "districtName": "MENTAYA HILIR UTARA",
+  "name": "NATAI BARU",
+  "postalCode": "74117"
  },
  {
   "id": 6202070003,
   "districtId": 6202070,
-  "name": "BAGENDANG TENGAH"
+  "districtName": "MENTAYA HILIR UTARA",
+  "name": "BAGENDANG TENGAH",
+  "postalCode": "74361"
  },
  {
   "id": 6202070004,
   "districtId": 6202070,
-  "name": "BAGENDANG HILIR"
+  "districtName": "MENTAYA HILIR UTARA",
+  "name": "BAGENDANG HILIR",
+  "postalCode": "74361"
  },
  {
   "id": 6202070005,
   "districtId": 6202070,
-  "name": "BAGENDANG HULU"
+  "districtName": "MENTAYA HILIR UTARA",
+  "name": "BAGENDANG HULU",
+  "postalCode": "74361"
  },
  {
   "id": 6202070006,
   "districtId": 6202070,
-  "name": "SUMBER MAKMUR"
+  "districtName": "MENTAYA HILIR UTARA",
+  "name": "SUMBER MAKMUR",
+  "postalCode": "23662"
  },
  {
   "id": 6202070007,
   "districtId": 6202070,
-  "name": "BAGENDANG HILIR PERMAI"
+  "districtName": "MENTAYA HILIR UTARA",
+  "name": "BAGENDANG HILIR PERMAI",
+  "postalCode": ""
  }
 ]

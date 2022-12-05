@@ -2,36 +2,50 @@
  {
   "id": 3209021001,
   "districtId": 3209021,
-  "name": "SUKADANA"
+  "districtName": "PABUARAN",
+  "name": "SUKADANA",
+  "postalCode": "30611"
  },
  {
   "id": 3209021002,
   "districtId": 3209021,
-  "name": "PABUARAN KIDUL"
+  "districtName": "PABUARAN",
+  "name": "PABUARAN KIDUL",
+  "postalCode": "45188"
  },
  {
   "id": 3209021003,
   "districtId": 3209021,
-  "name": "PABUARAN WETAN"
+  "districtName": "PABUARAN",
+  "name": "PABUARAN WETAN",
+  "postalCode": "45188"
  },
  {
   "id": 3209021004,
   "districtId": 3209021,
-  "name": "PABUARAN LOR"
+  "districtName": "PABUARAN",
+  "name": "PABUARAN LOR",
+  "postalCode": "45188"
  },
  {
   "id": 3209021005,
   "districtId": 3209021,
-  "name": "JATIRENGGANG"
+  "districtName": "PABUARAN",
+  "name": "JATIRENGGANG",
+  "postalCode": "45188"
  },
  {
   "id": 3209021006,
   "districtId": 3209021,
-  "name": "HULUBANTENG"
+  "districtName": "PABUARAN",
+  "name": "HULUBANTENG",
+  "postalCode": "45188"
  },
  {
   "id": 3209021007,
   "districtId": 3209021,
-  "name": "HULUBANTENG LOR"
+  "districtName": "PABUARAN",
+  "name": "HULUBANTENG LOR",
+  "postalCode": "45188"
  }
 ]

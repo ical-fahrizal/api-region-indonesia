@@ -2,76 +2,106 @@
  {
   "id": 7201060001,
   "districtId": 7201060,
-  "name": "TOLO"
+  "districtName": "BULAGI",
+  "name": "TOLO",
+  "postalCode": "94882"
  },
  {
   "id": 7201060002,
   "districtId": 7201060,
-  "name": "LALANDAY"
+  "districtName": "BULAGI",
+  "name": "LALANDAY",
+  "postalCode": "94882"
  },
  {
   "id": 7201060003,
   "districtId": 7201060,
-  "name": "MONTOMISAN"
+  "districtName": "BULAGI",
+  "name": "MONTOMISAN",
+  "postalCode": "94882"
  },
  {
   "id": 7201060004,
   "districtId": 7201060,
-  "name": "SOSOM"
+  "districtName": "BULAGI",
+  "name": "SOSOM",
+  "postalCode": "94882"
  },
  {
   "id": 7201060005,
   "districtId": 7201060,
-  "name": "ALUL"
+  "districtName": "BULAGI",
+  "name": "ALUL",
+  "postalCode": "94882"
  },
  {
   "id": 7201060006,
   "districtId": 7201060,
-  "name": "BULAGI SATU"
+  "districtName": "BULAGI",
+  "name": "BULAGI SATU",
+  "postalCode": "94882"
  },
  {
   "id": 7201060007,
   "districtId": 7201060,
-  "name": "BULAGI DUA"
+  "districtName": "BULAGI",
+  "name": "BULAGI DUA",
+  "postalCode": "94882"
  },
  {
   "id": 7201060008,
   "districtId": 7201060,
-  "name": "BOLOY"
+  "districtName": "BULAGI",
+  "name": "BOLOY",
+  "postalCode": ""
  },
  {
   "id": 7201060010,
   "districtId": 7201060,
-  "name": "OLUNO"
+  "districtName": "BULAGI",
+  "name": "OLUNO",
+  "postalCode": "94882"
  },
  {
   "id": 7201060011,
   "districtId": 7201060,
-  "name": "SUMONDUNG"
+  "districtName": "BULAGI",
+  "name": "SUMONDUNG",
+  "postalCode": "94882"
  },
  {
   "id": 7201060012,
   "districtId": 7201060,
-  "name": "PELING SEASA"
+  "districtName": "BULAGI",
+  "name": "PELING SEASA",
+  "postalCode": "94882"
  },
  {
   "id": 7201060013,
   "districtId": 7201060,
-  "name": "KOMBA-KOMBA"
+  "districtName": "BULAGI",
+  "name": "KOMBA-KOMBA",
+  "postalCode": "94882"
  },
  {
   "id": 7201060014,
   "districtId": 7201060,
-  "name": "KAMBAL"
+  "districtName": "BULAGI",
+  "name": "KAMBAL",
+  "postalCode": "94882"
  },
  {
   "id": 7201060015,
   "districtId": 7201060,
-  "name": "TOOLON"
+  "districtName": "BULAGI",
+  "name": "TOOLON",
+  "postalCode": "94882"
  },
  {
   "id": 7201060016,
   "districtId": 7201060,
-  "name": "KAYUBET"
+  "districtName": "BULAGI",
+  "name": "KAYUBET",
+  "postalCode": "94882"
  }
 ]

@@ -2,86 +2,120 @@
  {
   "id": 1613040001,
   "districtId": 1613040,
-  "name": "BATU GAJAH"
+  "districtName": "RUPIT",
+  "name": "BATU GAJAH",
+  "postalCode": "22983"
  },
  {
   "id": 1613040002,
   "districtId": 1613040,
-  "name": "TANJUNG BERINGIN"
+  "districtName": "RUPIT",
+  "name": "TANJUNG BERINGIN",
+  "postalCode": "22161"
  },
  {
   "id": 1613040003,
   "districtId": 1613040,
-  "name": "NOMAN"
+  "districtName": "RUPIT",
+  "name": "NOMAN",
+  "postalCode": "31654"
  },
  {
   "id": 1613040004,
   "districtId": 1613040,
-  "name": "NOMAN BARU"
+  "districtName": "RUPIT",
+  "name": "NOMAN BARU",
+  "postalCode": "31654"
  },
  {
   "id": 1613040005,
   "districtId": 1613040,
-  "name": "BATU GAJAH BARU"
+  "districtName": "RUPIT",
+  "name": "BATU GAJAH BARU",
+  "postalCode": "31654"
  },
  {
   "id": 1613040006,
   "districtId": 1613040,
-  "name": "MAUR BARU"
+  "districtName": "RUPIT",
+  "name": "MAUR BARU",
+  "postalCode": "31654"
  },
  {
   "id": 1613040007,
   "districtId": 1613040,
-  "name": "MAUR LAMA"
+  "districtName": "RUPIT",
+  "name": "MAUR LAMA",
+  "postalCode": "31654"
  },
  {
   "id": 1613040008,
   "districtId": 1613040,
-  "name": "BINGIN RUPIT"
+  "districtName": "RUPIT",
+  "name": "BINGIN RUPIT",
+  "postalCode": ""
  },
  {
   "id": 1613040009,
   "districtId": 1613040,
-  "name": "BERINGIN JAYA"
+  "districtName": "RUPIT",
+  "name": "BERINGIN JAYA",
+  "postalCode": "21464"
  },
  {
   "id": 1613040010,
   "districtId": 1613040,
-  "name": "MUARA RUPIT"
+  "districtName": "RUPIT",
+  "name": "MUARA RUPIT",
+  "postalCode": "31654"
  },
  {
   "id": 1613040011,
   "districtId": 1613040,
-  "name": "KARANG ANYAR"
+  "districtName": "RUPIT",
+  "name": "KARANG ANYAR",
+  "postalCode": "24415"
  },
  {
   "id": 1613040012,
   "districtId": 1613040,
-  "name": "KARANG WARU"
+  "districtName": "RUPIT",
+  "name": "KARANG WARU",
+  "postalCode": "30752"
  },
  {
   "id": 1613040013,
   "districtId": 1613040,
-  "name": "LAWANG AGUNG"
+  "districtName": "RUPIT",
+  "name": "LAWANG AGUNG",
+  "postalCode": "37111"
  },
  {
   "id": 1613040014,
   "districtId": 1613040,
-  "name": "LUBUK RUMBAI"
+  "districtName": "RUPIT",
+  "name": "LUBUK RUMBAI",
+  "postalCode": "31654"
  },
  {
   "id": 1613040015,
   "districtId": 1613040,
-  "name": "LUBUK RUMBAI BARU"
+  "districtName": "RUPIT",
+  "name": "LUBUK RUMBAI BARU",
+  "postalCode": "31654"
  },
  {
   "id": 1613040016,
   "districtId": 1613040,
-  "name": "SUNGAI JERNIH"
+  "districtName": "RUPIT",
+  "name": "SUNGAI JERNIH",
+  "postalCode": "37163"
  },
  {
   "id": 1613040017,
   "districtId": 1613040,
-  "name": "PANTAI"
+  "districtName": "RUPIT",
+  "name": "PANTAI",
+  "postalCode": "29564"
  }
 ]

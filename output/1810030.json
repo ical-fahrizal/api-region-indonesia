@@ -2,111 +2,155 @@
  {
   "id": 1810030001,
   "districtId": 1810030,
-  "name": "CANDI RETNO"
+  "districtName": "PAGELARAN",
+  "name": "CANDI RETNO",
+  "postalCode": "35376"
  },
  {
   "id": 1810030002,
   "districtId": 1810030,
-  "name": "TANJUNG DALAM"
+  "districtName": "PAGELARAN",
+  "name": "TANJUNG DALAM",
+  "postalCode": "37372"
  },
  {
   "id": 1810030003,
   "districtId": 1810030,
-  "name": "WAY NGISOM"
+  "districtName": "PAGELARAN",
+  "name": "WAY NGISOM",
+  "postalCode": "35376"
  },
  {
   "id": 1810030004,
   "districtId": 1810030,
-  "name": "KARANGSARI"
+  "districtName": "PAGELARAN",
+  "name": "KARANGSARI",
+  "postalCode": "35376"
  },
  {
   "id": 1810030005,
   "districtId": 1810030,
-  "name": "GUMUK MAS"
+  "districtName": "PAGELARAN",
+  "name": "GUMUK MAS",
+  "postalCode": "35376"
  },
  {
   "id": 1810030006,
   "districtId": 1810030,
-  "name": "PATOMAN"
+  "districtName": "PAGELARAN",
+  "name": "PATOMAN",
+  "postalCode": "35376"
  },
  {
   "id": 1810030007,
   "districtId": 1810030,
-  "name": "PAGELARAN"
+  "districtName": "PAGELARAN",
+  "name": "PAGELARAN",
+  "postalCode": "35376"
  },
  {
   "id": 1810030008,
   "districtId": 1810030,
-  "name": "SUKARATU"
+  "districtName": "PAGELARAN",
+  "name": "SUKARATU",
+  "postalCode": "35551"
  },
  {
   "id": 1810030009,
   "districtId": 1810030,
-  "name": "SUKAWANGI"
+  "districtName": "PAGELARAN",
+  "name": "SUKAWANGI",
+  "postalCode": "35376"
  },
  {
   "id": 1810030010,
   "districtId": 1810030,
-  "name": "LUGUSARI"
+  "districtName": "PAGELARAN",
+  "name": "LUGUSARI",
+  "postalCode": "35375"
  },
  {
   "id": 1810030011,
   "districtId": 1810030,
-  "name": "PANUTAN"
+  "districtName": "PAGELARAN",
+  "name": "PANUTAN",
+  "postalCode": "35376"
  },
  {
   "id": 1810030012,
   "districtId": 1810030,
-  "name": "BUMI RATU"
+  "districtName": "PAGELARAN",
+  "name": "BUMI RATU",
+  "postalCode": "34764"
  },
  {
   "id": 1810030019,
   "districtId": 1810030,
-  "name": "GEMAH RIPAH"
+  "districtName": "PAGELARAN",
+  "name": "GEMAH RIPAH",
+  "postalCode": "35376"
  },
  {
   "id": 1810030020,
   "districtId": 1810030,
-  "name": "PAMENANG"
+  "districtName": "PAGELARAN",
+  "name": "PAMENANG",
+  "postalCode": "37352"
  },
  {
   "id": 1810030023,
   "districtId": 1810030,
-  "name": "PASIR UKIR"
+  "districtName": "PAGELARAN",
+  "name": "PASIR UKIR",
+  "postalCode": "35376"
  },
  {
   "id": 1810030024,
   "districtId": 1810030,
-  "name": "GUMUK REJO"
+  "districtName": "PAGELARAN",
+  "name": "GUMUK REJO",
+  "postalCode": "35376"
  },
  {
   "id": 1810030027,
   "districtId": 1810030,
-  "name": "PUJI HARJO"
+  "districtName": "PAGELARAN",
+  "name": "PUJI HARJO",
+  "postalCode": "35376"
  },
  {
   "id": 1810030028,
   "districtId": 1810030,
-  "name": "PADANG REJO"
+  "districtName": "PAGELARAN",
+  "name": "PADANG REJO",
+  "postalCode": "30962"
  },
  {
   "id": 1810030029,
   "districtId": 1810030,
-  "name": "SIDODADI"
+  "districtName": "PAGELARAN",
+  "name": "SIDODADI",
+  "postalCode": "24582"
  },
  {
   "id": 1810030030,
   "districtId": 1810030,
-  "name": "SUMBER REJO"
+  "districtName": "PAGELARAN",
+  "name": "SUMBER REJO",
+  "postalCode": "21255"
  },
  {
   "id": 1810030031,
   "districtId": 1810030,
-  "name": "GANJARAN"
+  "districtName": "PAGELARAN",
+  "name": "GANJARAN",
+  "postalCode": "35376"
  },
  {
   "id": 1810030032,
   "districtId": 1810030,
-  "name": "BUMI REJO"
+  "districtName": "PAGELARAN",
+  "name": "BUMI REJO",
+  "postalCode": "31665"
  }
 ]

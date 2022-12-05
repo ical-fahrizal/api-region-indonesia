@@ -2,76 +2,106 @@
  {
   "id": 6307070001,
   "districtId": 6307070,
-  "name": "PAHALATAN"
+  "districtName": "LABUAN AMAS UTARA",
+  "name": "PAHALATAN",
+  "postalCode": "71362"
  },
  {
   "id": 6307070003,
   "districtId": 6307070,
-  "name": "PERUMAHAN"
+  "districtName": "LABUAN AMAS UTARA",
+  "name": "PERUMAHAN",
+  "postalCode": ""
  },
  {
   "id": 6307070004,
   "districtId": 6307070,
-  "name": "KADUNDUNG"
+  "districtName": "LABUAN AMAS UTARA",
+  "name": "KADUNDUNG",
+  "postalCode": "71362"
  },
  {
   "id": 6307070006,
   "districtId": 6307070,
-  "name": "KASARANGAN"
+  "districtName": "LABUAN AMAS UTARA",
+  "name": "KASARANGAN",
+  "postalCode": "71362"
  },
  {
   "id": 6307070007,
   "districtId": 6307070,
-  "name": "PEMANGKIH SEBERANG"
+  "districtName": "LABUAN AMAS UTARA",
+  "name": "PEMANGKIH SEBERANG",
+  "postalCode": "71362"
  },
  {
   "id": 6307070010,
   "districtId": 6307070,
-  "name": "TABAT"
+  "districtName": "LABUAN AMAS UTARA",
+  "name": "TABAT",
+  "postalCode": "71362"
  },
  {
   "id": 6307070013,
   "districtId": 6307070,
-  "name": "MANTAAS"
+  "districtName": "LABUAN AMAS UTARA",
+  "name": "MANTAAS",
+  "postalCode": "71362"
  },
  {
   "id": 6307070015,
   "districtId": 6307070,
-  "name": "RANTAU BUJUR"
+  "districtName": "LABUAN AMAS UTARA",
+  "name": "RANTAU BUJUR",
+  "postalCode": "70671"
  },
  {
   "id": 6307070017,
   "districtId": 6307070,
-  "name": "BINJAI PIRUA"
+  "districtName": "LABUAN AMAS UTARA",
+  "name": "BINJAI PIRUA",
+  "postalCode": "71362"
  },
  {
   "id": 6307070019,
   "districtId": 6307070,
-  "name": "BINJAI PEMANGKIH"
+  "districtName": "LABUAN AMAS UTARA",
+  "name": "BINJAI PEMANGKIH",
+  "postalCode": "71362"
  },
  {
   "id": 6307070023,
   "districtId": 6307070,
-  "name": "PEMANGKIH"
+  "districtName": "LABUAN AMAS UTARA",
+  "name": "PEMANGKIH",
+  "postalCode": "71362"
  },
  {
   "id": 6307070026,
   "districtId": 6307070,
-  "name": "RANTAU KEMINTING"
+  "districtName": "LABUAN AMAS UTARA",
+  "name": "RANTAU KEMINTING",
+  "postalCode": ""
  },
  {
   "id": 6307070027,
   "districtId": 6307070,
-  "name": "BANUA KUPANG"
+  "districtName": "LABUAN AMAS UTARA",
+  "name": "BANUA KUPANG",
+  "postalCode": "71362"
  },
  {
   "id": 6307070031,
   "districtId": 6307070,
-  "name": "SUNGAI BULUH"
+  "districtName": "LABUAN AMAS UTARA",
+  "name": "SUNGAI BULUH",
+  "postalCode": "25586"
  },
  {
   "id": 6307070033,
   "districtId": 6307070,
-  "name": "SAMHURANG"
+  "districtName": "LABUAN AMAS UTARA",
+  "name": "SAMHURANG",
+  "postalCode": ""
  }
 ]

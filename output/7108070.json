@@ -2,56 +2,78 @@
  {
   "id": 7108070006,
   "districtId": 7108070,
-  "name": "PELINGSAWANG"
+  "districtName": "SIAU BARAT",
+  "name": "PELINGSAWANG",
+  "postalCode": "95862"
  },
  {
   "id": 7108070007,
   "districtId": 7108070,
-  "name": "PELING"
+  "districtName": "SIAU BARAT",
+  "name": "PELING",
+  "postalCode": "95862"
  },
  {
   "id": 7108070008,
   "districtId": 7108070,
-  "name": "PASENG"
+  "districtName": "SIAU BARAT",
+  "name": "PASENG",
+  "postalCode": "95862"
  },
  {
   "id": 7108070009,
   "districtId": 7108070,
-  "name": "PANIKI"
+  "districtName": "SIAU BARAT",
+  "name": "PANIKI",
+  "postalCode": "95862"
  },
  {
   "id": 7108070013,
   "districtId": 7108070,
-  "name": "ONDONG"
+  "districtName": "SIAU BARAT",
+  "name": "ONDONG",
+  "postalCode": "95862"
  },
  {
   "id": 7108070014,
   "districtId": 7108070,
-  "name": "KANAWONG"
+  "districtName": "SIAU BARAT",
+  "name": "KANAWONG",
+  "postalCode": "95862"
  },
  {
   "id": 7108070015,
   "districtId": 7108070,
-  "name": "LEHI"
+  "districtName": "SIAU BARAT",
+  "name": "LEHI",
+  "postalCode": "95862"
  },
  {
   "id": 7108070022,
   "districtId": 7108070,
-  "name": "MAKALEHI"
+  "districtName": "SIAU BARAT",
+  "name": "MAKALEHI",
+  "postalCode": "95862"
  },
  {
   "id": 7108070023,
   "districtId": 7108070,
-  "name": "BUMBIHA"
+  "districtName": "SIAU BARAT",
+  "name": "BUMBIHA",
+  "postalCode": "95862"
  },
  {
   "id": 7108070025,
   "districtId": 7108070,
-  "name": "MAKALEHI TIMUR"
+  "districtName": "SIAU BARAT",
+  "name": "MAKALEHI TIMUR",
+  "postalCode": "95862"
  },
  {
   "id": 7108070026,
   "districtId": 7108070,
-  "name": "MAKALEHI UTARA"
+  "districtName": "SIAU BARAT",
+  "name": "MAKALEHI UTARA",
+  "postalCode": "95862"
  }
 ]

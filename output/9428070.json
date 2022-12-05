@@ -2,31 +2,43 @@
  {
   "id": 9428070001,
   "districtId": 9428070,
-  "name": "TAIYAI"
+  "districtName": "ROFAER",
+  "name": "TAIYAI",
+  "postalCode": ""
  },
  {
   "id": 9428070002,
   "districtId": 9428070,
-  "name": "BARERI"
+  "districtName": "ROFAER",
+  "name": "BARERI",
+  "postalCode": "99377"
  },
  {
   "id": 9428070003,
   "districtId": 9428070,
-  "name": "KAYI / KAY SETA"
+  "districtName": "ROFAER",
+  "name": "KAYI / KAY SETA",
+  "postalCode": ""
  },
  {
   "id": 9428070004,
   "districtId": 9428070,
-  "name": "SIKARI"
+  "districtName": "ROFAER",
+  "name": "SIKARI",
+  "postalCode": "99377"
  },
  {
   "id": 9428070005,
   "districtId": 9428070,
-  "name": "FONA"
+  "districtName": "ROFAER",
+  "name": "FONA",
+  "postalCode": "99377"
  },
  {
   "id": 9428070006,
   "districtId": 9428070,
-  "name": "HAYA"
+  "districtName": "ROFAER",
+  "name": "HAYA",
+  "postalCode": "97553"
  }
 ]

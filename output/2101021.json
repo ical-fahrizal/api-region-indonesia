@@ -2,26 +2,36 @@
  {
   "id": 2101021001,
   "districtId": 2101021,
-  "name": "SUNGAI UNGAR UTARA"
+  "districtName": "KUNDUR UTARA",
+  "name": "SUNGAI UNGAR UTARA",
+  "postalCode": ""
  },
  {
   "id": 2101021005,
   "districtId": 2101021,
-  "name": "TANJUNG BERLIAN KOTA"
+  "districtName": "KUNDUR UTARA",
+  "name": "TANJUNG BERLIAN KOTA",
+  "postalCode": ""
  },
  {
   "id": 2101021006,
   "districtId": 2101021,
-  "name": "TELUK RADANG"
+  "districtName": "KUNDUR UTARA",
+  "name": "TELUK RADANG",
+  "postalCode": "29662"
  },
  {
   "id": 2101021007,
   "districtId": 2101021,
-  "name": "TANJUNG BERLIAN BARAT"
+  "districtName": "KUNDUR UTARA",
+  "name": "TANJUNG BERLIAN BARAT",
+  "postalCode": ""
  },
  {
   "id": 2101021008,
   "districtId": 2101021,
-  "name": "PERAYUN"
+  "districtName": "KUNDUR UTARA",
+  "name": "PERAYUN",
+  "postalCode": "29662"
  }
 ]

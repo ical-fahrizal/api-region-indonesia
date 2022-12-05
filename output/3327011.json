@@ -2,26 +2,36 @@
  {
   "id": 3327011001,
   "districtId": 3327011,
-  "name": "PAKEMBARAN"
+  "districtName": "WARUNGPRING",
+  "name": "PAKEMBARAN",
+  "postalCode": "52415"
  },
  {
   "id": 3327011002,
   "districtId": 3327011,
-  "name": "WARUNGPRING"
+  "districtName": "WARUNGPRING",
+  "name": "WARUNGPRING",
+  "postalCode": "52354"
  },
  {
   "id": 3327011003,
   "districtId": 3327011,
-  "name": "KARANGDAWA"
+  "districtName": "WARUNGPRING",
+  "name": "KARANGDAWA",
+  "postalCode": "52463"
  },
  {
   "id": 3327011004,
   "districtId": 3327011,
-  "name": "DATAR"
+  "districtName": "WARUNGPRING",
+  "name": "DATAR",
+  "postalCode": "37216"
  },
  {
   "id": 3327011005,
   "districtId": 3327011,
-  "name": "CIBUYUR"
+  "districtName": "WARUNGPRING",
+  "name": "CIBUYUR",
+  "postalCode": "52354"
  }
 ]

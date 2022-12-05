@@ -2,76 +2,106 @@
  {
   "id": 1202054001,
   "districtId": 1202054,
-  "name": "TEBING TINGGI"
+  "districtName": "PANYABUNGAN TIMUR",
+  "name": "TEBING TINGGI",
+  "postalCode": "24477"
  },
  {
   "id": 1202054002,
   "districtId": 1202054,
-  "name": "HUTA RIMBARU"
+  "districtName": "PANYABUNGAN TIMUR",
+  "name": "HUTA RIMBARU",
+  "postalCode": ""
  },
  {
   "id": 1202054003,
   "districtId": 1202054,
-  "name": "GUNUNG BARINGIN"
+  "districtName": "PANYABUNGAN TIMUR",
+  "name": "GUNUNG BARINGIN",
+  "postalCode": "22732"
  },
  {
   "id": 1202054004,
   "districtId": 1202054,
-  "name": "TANJUNG"
+  "districtName": "PANYABUNGAN TIMUR",
+  "name": "TANJUNG",
+  "postalCode": "24562"
  },
  {
   "id": 1202054005,
   "districtId": 1202054,
-  "name": "AEK NABARA"
+  "districtName": "PANYABUNGAN TIMUR",
+  "name": "AEK NABARA",
+  "postalCode": "22735"
  },
  {
   "id": 1202054006,
   "districtId": 1202054,
-  "name": "PAGUR"
+  "districtName": "PANYABUNGAN TIMUR",
+  "name": "PAGUR",
+  "postalCode": "22912"
  },
  {
   "id": 1202054007,
   "districtId": 1202054,
-  "name": "RANTO NATAS"
+  "districtName": "PANYABUNGAN TIMUR",
+  "name": "RANTO NATAS",
+  "postalCode": "22912"
  },
  {
   "id": 1202054008,
   "districtId": 1202054,
-  "name": "PARDOMUAN"
+  "districtName": "PANYABUNGAN TIMUR",
+  "name": "PARDOMUAN",
+  "postalCode": "22732"
  },
  {
   "id": 1202054009,
   "districtId": 1202054,
-  "name": "SIRANGKAP"
+  "districtName": "PANYABUNGAN TIMUR",
+  "name": "SIRANGKAP",
+  "postalCode": "22912"
  },
  {
   "id": 1202054010,
   "districtId": 1202054,
-  "name": "HUTA TINGGI"
+  "districtName": "PANYABUNGAN TIMUR",
+  "name": "HUTA TINGGI",
+  "postalCode": "22392"
  },
  {
   "id": 1202054011,
   "districtId": 1202054,
-  "name": "HUTA BANGUN"
+  "districtName": "PANYABUNGAN TIMUR",
+  "name": "HUTA BANGUN",
+  "postalCode": "22977"
  },
  {
   "id": 1202054012,
   "districtId": 1202054,
-  "name": "PARMOMPANG"
+  "districtName": "PANYABUNGAN TIMUR",
+  "name": "PARMOMPANG",
+  "postalCode": "22912"
  },
  {
   "id": 1202054013,
   "districtId": 1202054,
-  "name": "TANJUNG JULU"
+  "districtName": "PANYABUNGAN TIMUR",
+  "name": "TANJUNG JULU",
+  "postalCode": "22912"
  },
  {
   "id": 1202054014,
   "districtId": 1202054,
-  "name": "BANJAR LANCAT"
+  "districtName": "PANYABUNGAN TIMUR",
+  "name": "BANJAR LANCAT",
+  "postalCode": "22912"
  },
  {
   "id": 1202054015,
   "districtId": 1202054,
-  "name": "PADANG LARU"
+  "districtName": "PANYABUNGAN TIMUR",
+  "name": "PADANG LARU",
+  "postalCode": "22912"
  }
 ]

@@ -2,76 +2,106 @@
  {
   "id": 3320030001,
   "districtId": 3320030,
-  "name": "UJUNGPANDAN"
+  "districtName": "WELAHAN",
+  "name": "UJUNGPANDAN",
+  "postalCode": "59464"
  },
  {
   "id": 3320030002,
   "districtId": 3320030,
-  "name": "KARANGANYAR"
+  "districtName": "WELAHAN",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  },
  {
   "id": 3320030003,
   "districtId": 3320030,
-  "name": "GUWOSOBOKERTO"
+  "districtName": "WELAHAN",
+  "name": "GUWOSOBOKERTO",
+  "postalCode": "59464"
  },
  {
   "id": 3320030004,
   "districtId": 3320030,
-  "name": "KEDUNGSARIMULYO"
+  "districtName": "WELAHAN",
+  "name": "KEDUNGSARIMULYO",
+  "postalCode": "59464"
  },
  {
   "id": 3320030005,
   "districtId": 3320030,
-  "name": "BUGO"
+  "districtName": "WELAHAN",
+  "name": "BUGO",
+  "postalCode": "59464"
  },
  {
   "id": 3320030006,
   "districtId": 3320030,
-  "name": "WELAHAN"
+  "districtName": "WELAHAN",
+  "name": "WELAHAN",
+  "postalCode": "59464"
  },
  {
   "id": 3320030007,
   "districtId": 3320030,
-  "name": "GEDANGAN"
+  "districtName": "WELAHAN",
+  "name": "GEDANGAN",
+  "postalCode": "21264"
  },
  {
   "id": 3320030008,
   "districtId": 3320030,
-  "name": "KETILENGSINGOLELO"
+  "districtName": "WELAHAN",
+  "name": "KETILENGSINGOLELO",
+  "postalCode": "59464"
  },
  {
   "id": 3320030009,
   "districtId": 3320030,
-  "name": "KALIPUCANG WETAN"
+  "districtName": "WELAHAN",
+  "name": "KALIPUCANG WETAN",
+  "postalCode": "51216"
  },
  {
   "id": 3320030010,
   "districtId": 3320030,
-  "name": "KALIPUCANG KULON"
+  "districtName": "WELAHAN",
+  "name": "KALIPUCANG KULON",
+  "postalCode": "51216"
  },
  {
   "id": 3320030011,
   "districtId": 3320030,
-  "name": "GIDANGELO"
+  "districtName": "WELAHAN",
+  "name": "GIDANGELO",
+  "postalCode": "59464"
  },
  {
   "id": 3320030012,
   "districtId": 3320030,
-  "name": "KENDENGSIDIALIT"
+  "districtName": "WELAHAN",
+  "name": "KENDENGSIDIALIT",
+  "postalCode": "59464"
  },
  {
   "id": 3320030013,
   "districtId": 3320030,
-  "name": "SIDIGEDE"
+  "districtName": "WELAHAN",
+  "name": "SIDIGEDE",
+  "postalCode": "59464"
  },
  {
   "id": 3320030014,
   "districtId": 3320030,
-  "name": "TELUKWETAN"
+  "districtName": "WELAHAN",
+  "name": "TELUKWETAN",
+  "postalCode": "59464"
  },
  {
   "id": 3320030015,
   "districtId": 3320030,
-  "name": "BRANTAKSEKARJATI"
+  "districtName": "WELAHAN",
+  "name": "BRANTAKSEKARJATI",
+  "postalCode": "59464"
  }
 ]

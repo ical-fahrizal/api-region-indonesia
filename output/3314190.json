@@ -2,31 +2,43 @@
  {
   "id": 3314190001,
   "districtId": 3314190,
-  "name": "KATELAN"
+  "districtName": "TANGEN",
+  "name": "KATELAN",
+  "postalCode": "57261"
  },
  {
   "id": 3314190003,
   "districtId": 3314190,
-  "name": "JEKAWAL"
+  "districtName": "TANGEN",
+  "name": "JEKAWAL",
+  "postalCode": "57261"
  },
  {
   "id": 3314190004,
   "districtId": 3314190,
-  "name": "GALEH"
+  "districtName": "TANGEN",
+  "name": "GALEH",
+  "postalCode": "57261"
  },
  {
   "id": 3314190005,
   "districtId": 3314190,
-  "name": "NGROMBO"
+  "districtName": "TANGEN",
+  "name": "NGROMBO",
+  "postalCode": "57556"
  },
  {
   "id": 3314190006,
   "districtId": 3314190,
-  "name": "SIGIT"
+  "districtName": "TANGEN",
+  "name": "SIGIT",
+  "postalCode": "57261"
  },
  {
   "id": 3314190007,
   "districtId": 3314190,
-  "name": "DENANYAR"
+  "districtName": "TANGEN",
+  "name": "DENANYAR",
+  "postalCode": "57261"
  }
 ]

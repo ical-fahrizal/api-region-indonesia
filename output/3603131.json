@@ -2,41 +2,57 @@
  {
   "id": 3603131001,
   "districtId": 3603131,
-  "name": "JAYANTI"
+  "districtName": "JAYANTI",
+  "name": "JAYANTI",
+  "postalCode": "43364"
  },
  {
   "id": 3603131002,
   "districtId": 3603131,
-  "name": "PASIR MUNCANG"
+  "districtName": "JAYANTI",
+  "name": "PASIR MUNCANG",
+  "postalCode": "16730"
  },
  {
   "id": 3603131003,
   "districtId": 3603131,
-  "name": "SUMUR BANDUNG"
+  "districtName": "JAYANTI",
+  "name": "SUMUR BANDUNG",
+  "postalCode": "34396"
  },
  {
   "id": 3603131004,
   "districtId": 3603131,
-  "name": "CIKANDE"
+  "districtName": "JAYANTI",
+  "name": "CIKANDE",
+  "postalCode": "41353"
  },
  {
   "id": 3603131005,
   "districtId": 3603131,
-  "name": "PASIR GINTUNG"
+  "districtName": "JAYANTI",
+  "name": "PASIR GINTUNG",
+  "postalCode": "35113"
  },
  {
   "id": 3603131006,
   "districtId": 3603131,
-  "name": "PANGKAT"
+  "districtName": "JAYANTI",
+  "name": "PANGKAT",
+  "postalCode": "22994"
  },
  {
   "id": 3603131007,
   "districtId": 3603131,
-  "name": "DANG DEUR"
+  "districtName": "JAYANTI",
+  "name": "DANG DEUR",
+  "postalCode": "15610"
  },
  {
   "id": 3603131008,
   "districtId": 3603131,
-  "name": "PABUARAN"
+  "districtName": "JAYANTI",
+  "name": "PABUARAN",
+  "postalCode": "16921"
  }
 ]

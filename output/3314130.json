@@ -2,66 +2,92 @@
  {
   "id": 3314130001,
   "districtId": 3314130,
-  "name": "KALORAN"
+  "districtName": "GEMOLONG",
+  "name": "KALORAN",
+  "postalCode": "57274"
  },
  {
   "id": 3314130002,
   "districtId": 3314130,
-  "name": "NGEMBAT PADAS"
+  "districtName": "GEMOLONG",
+  "name": "NGEMBAT PADAS",
+  "postalCode": "57274"
  },
  {
   "id": 3314130003,
   "districtId": 3314130,
-  "name": "KRAGILAN"
+  "districtName": "GEMOLONG",
+  "name": "KRAGILAN",
+  "postalCode": "57455"
  },
  {
   "id": 3314130004,
   "districtId": 3314130,
-  "name": "BRANGKAL"
+  "districtName": "GEMOLONG",
+  "name": "BRANGKAL",
+  "postalCode": "57274"
  },
  {
   "id": 3314130005,
   "districtId": 3314130,
-  "name": "JATIBATUR"
+  "districtName": "GEMOLONG",
+  "name": "JATIBATUR",
+  "postalCode": "57274"
  },
  {
   "id": 3314130006,
   "districtId": 3314130,
-  "name": "PELEMAN"
+  "districtName": "GEMOLONG",
+  "name": "PELEMAN",
+  "postalCode": "57274"
  },
  {
   "id": 3314130008,
   "districtId": 3314130,
-  "name": "TEGALDOWO"
+  "districtName": "GEMOLONG",
+  "name": "TEGALDOWO",
+  "postalCode": "57274"
  },
  {
   "id": 3314130009,
   "districtId": 3314130,
-  "name": "GEMOLONG"
+  "districtName": "GEMOLONG",
+  "name": "GEMOLONG",
+  "postalCode": "57274"
  },
  {
   "id": 3314130010,
   "districtId": 3314130,
-  "name": "KWANGEN"
+  "districtName": "GEMOLONG",
+  "name": "KWANGEN",
+  "postalCode": "57274"
  },
  {
   "id": 3314130011,
   "districtId": 3314130,
-  "name": "PURWOREJO"
+  "districtName": "GEMOLONG",
+  "name": "PURWOREJO",
+  "postalCode": "23661"
  },
  {
   "id": 3314130012,
   "districtId": 3314130,
-  "name": "JENALAS"
+  "districtName": "GEMOLONG",
+  "name": "JENALAS",
+  "postalCode": "57274"
  },
  {
   "id": 3314130013,
   "districtId": 3314130,
-  "name": "KALANGAN"
+  "districtName": "GEMOLONG",
+  "name": "KALANGAN",
+  "postalCode": "22616"
  },
  {
   "id": 3314130014,
   "districtId": 3314130,
-  "name": "NGANTI"
+  "districtName": "GEMOLONG",
+  "name": "NGANTI",
+  "postalCode": "30759"
  }
 ]

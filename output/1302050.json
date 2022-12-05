@@ -2,51 +2,71 @@
  {
   "id": 1302050001,
   "districtId": 1302050,
-  "name": "SUNGAI TUNU"
+  "districtName": "RANAH PESISIR",
+  "name": "SUNGAI TUNU",
+  "postalCode": "25666"
  },
  {
   "id": 1302050002,
   "districtId": 1302050,
-  "name": "PALANGAI"
+  "districtName": "RANAH PESISIR",
+  "name": "PALANGAI",
+  "postalCode": ""
  },
  {
   "id": 1302050003,
   "districtId": 1302050,
-  "name": "SUNGAI TUNU BARAT"
+  "districtName": "RANAH PESISIR",
+  "name": "SUNGAI TUNU BARAT",
+  "postalCode": ""
  },
  {
   "id": 1302050004,
   "districtId": 1302050,
-  "name": "SUNGAI TUNU UTARA"
+  "districtName": "RANAH PESISIR",
+  "name": "SUNGAI TUNU UTARA",
+  "postalCode": ""
  },
  {
   "id": 1302050005,
   "districtId": 1302050,
-  "name": "NYIUR MELAMBAI PELANGAI"
+  "districtName": "RANAH PESISIR",
+  "name": "NYIUR MELAMBAI PELANGAI",
+  "postalCode": ""
  },
  {
   "id": 1302050006,
   "districtId": 1302050,
-  "name": "PELANGAI KACIAK"
+  "districtName": "RANAH PESISIR",
+  "name": "PELANGAI KACIAK",
+  "postalCode": "25666"
  },
  {
   "id": 1302050007,
   "districtId": 1302050,
-  "name": "PELANGAI GADANG"
+  "districtName": "RANAH PESISIR",
+  "name": "PELANGAI GADANG",
+  "postalCode": ""
  },
  {
   "id": 1302050008,
   "districtId": 1302050,
-  "name": "KOTO VIII PELANGAI"
+  "districtName": "RANAH PESISIR",
+  "name": "KOTO VIII PELANGAI",
+  "postalCode": "25666"
  },
  {
   "id": 1302050009,
   "districtId": 1302050,
-  "name": "PASIA PELANGAI"
+  "districtName": "RANAH PESISIR",
+  "name": "PASIA PELANGAI",
+  "postalCode": ""
  },
  {
   "id": 1302050010,
   "districtId": 1302050,
-  "name": "SUNGAI LIKU PELANGAI"
+  "districtName": "RANAH PESISIR",
+  "name": "SUNGAI LIKU PELANGAI",
+  "postalCode": ""
  }
 ]

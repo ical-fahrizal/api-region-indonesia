@@ -2,61 +2,85 @@
  {
   "id": 1702041001,
   "districtId": 1702041,
-  "name": "BARU MANIS"
+  "districtName": "BERMANI ULU",
+  "name": "BARU MANIS",
+  "postalCode": "39152"
  },
  {
   "id": 1702041002,
   "districtId": 1702041,
-  "name": "AIR PIKAT"
+  "districtName": "BERMANI ULU",
+  "name": "AIR PIKAT",
+  "postalCode": "39152"
  },
  {
   "id": 1702041003,
   "districtId": 1702041,
-  "name": "TEBAT TENONG DALAM"
+  "districtName": "BERMANI ULU",
+  "name": "TEBAT TENONG DALAM",
+  "postalCode": "39152"
  },
  {
   "id": 1702041004,
   "districtId": 1702041,
-  "name": "SUKA RAMI"
+  "districtName": "BERMANI ULU",
+  "name": "SUKA RAMI",
+  "postalCode": "39152"
  },
  {
   "id": 1702041007,
   "districtId": 1702041,
-  "name": "PAGAR GUNUNG"
+  "districtName": "BERMANI ULU",
+  "name": "PAGAR GUNUNG",
+  "postalCode": "22753"
  },
  {
   "id": 1702041008,
   "districtId": 1702041,
-  "name": "AIR MUNDU"
+  "districtName": "BERMANI ULU",
+  "name": "AIR MUNDU",
+  "postalCode": "39152"
  },
  {
   "id": 1702041009,
   "districtId": 1702041,
-  "name": "KAMPUNG SAJAD"
+  "districtName": "BERMANI ULU",
+  "name": "KAMPUNG SAJAD",
+  "postalCode": "39152"
  },
  {
   "id": 1702041010,
   "districtId": 1702041,
-  "name": "SENTRAL BARU"
+  "districtName": "BERMANI ULU",
+  "name": "SENTRAL BARU",
+  "postalCode": "39152"
  },
  {
   "id": 1702041011,
   "districtId": 1702041,
-  "name": "KAMPUNG MELAYU"
+  "districtName": "BERMANI ULU",
+  "name": "KAMPUNG MELAYU",
+  "postalCode": "28124"
  },
  {
   "id": 1702041013,
   "districtId": 1702041,
-  "name": "SELAMAT SUDIARJO"
+  "districtName": "BERMANI ULU",
+  "name": "SELAMAT SUDIARJO",
+  "postalCode": "39152"
  },
  {
   "id": 1702041014,
   "districtId": 1702041,
-  "name": "PURWODADI"
+  "districtName": "BERMANI ULU",
+  "name": "PURWODADI",
+  "postalCode": "24652"
  },
  {
   "id": 1702041015,
   "districtId": 1702041,
-  "name": "TEBAT PULAU"
+  "districtName": "BERMANI ULU",
+  "name": "TEBAT PULAU",
+  "postalCode": "39152"
  }
 ]

@@ -2,61 +2,85 @@
  {
   "id": 5311060016,
   "districtId": 5311060,
-  "name": "RANOKOLO SELATAN"
+  "districtName": "MAUROLE",
+  "name": "RANOKOLO SELATAN",
+  "postalCode": "86381"
  },
  {
   "id": 5311060017,
   "districtId": 5311060,
-  "name": "RANOKOLO"
+  "districtName": "MAUROLE",
+  "name": "RANOKOLO",
+  "postalCode": ""
  },
  {
   "id": 5311060018,
   "districtId": 5311060,
-  "name": "KELIWUMBU"
+  "districtName": "MAUROLE",
+  "name": "KELIWUMBU",
+  "postalCode": "86381"
  },
  {
   "id": 5311060019,
   "districtId": 5311060,
-  "name": "MAUSAMBI"
+  "districtName": "MAUROLE",
+  "name": "MAUSAMBI",
+  "postalCode": "86381"
  },
  {
   "id": 5311060020,
   "districtId": 5311060,
-  "name": "MAUROLE"
+  "districtName": "MAUROLE",
+  "name": "MAUROLE",
+  "postalCode": "86381"
  },
  {
   "id": 5311060021,
   "districtId": 5311060,
-  "name": "WATUKAMBA"
+  "districtName": "MAUROLE",
+  "name": "WATUKAMBA",
+  "postalCode": "86381"
  },
  {
   "id": 5311060022,
   "districtId": 5311060,
-  "name": "AEWORA"
+  "districtName": "MAUROLE",
+  "name": "AEWORA",
+  "postalCode": "86381"
  },
  {
   "id": 5311060023,
   "districtId": 5311060,
-  "name": "OTOGEDU"
+  "districtName": "MAUROLE",
+  "name": "OTOGEDU",
+  "postalCode": "86381"
  },
  {
   "id": 5311060025,
   "districtId": 5311060,
-  "name": "WOLOAU"
+  "districtName": "MAUROLE",
+  "name": "WOLOAU",
+  "postalCode": "86381"
  },
  {
   "id": 5311060026,
   "districtId": 5311060,
-  "name": "ULUDALA"
+  "districtName": "MAUROLE",
+  "name": "ULUDALA",
+  "postalCode": "86381"
  },
  {
   "id": 5311060027,
   "districtId": 5311060,
-  "name": "NIRANUSA"
+  "districtName": "MAUROLE",
+  "name": "NIRANUSA",
+  "postalCode": "86381"
  },
  {
   "id": 5311060028,
   "districtId": 5311060,
-  "name": "NGALUKOJA"
+  "districtName": "MAUROLE",
+  "name": "NGALUKOJA",
+  "postalCode": "86381"
  }
 ]

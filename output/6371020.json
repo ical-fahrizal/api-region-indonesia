@@ -2,46 +2,64 @@
  {
   "id": 6371020001,
   "districtId": 6371020,
-  "name": "PEKAPURAN RAYA"
+  "districtName": "BANJARMASIN TIMUR",
+  "name": "PEKAPURAN RAYA",
+  "postalCode": "70234"
  },
  {
   "id": 6371020002,
   "districtId": 6371020,
-  "name": "KARANG MEKAR"
+  "districtName": "BANJARMASIN TIMUR",
+  "name": "KARANG MEKAR",
+  "postalCode": "17540"
  },
  {
   "id": 6371020003,
   "districtId": 6371020,
-  "name": "KEBUN BUNGA"
+  "districtName": "BANJARMASIN TIMUR",
+  "name": "KEBUN BUNGA",
+  "postalCode": "30151"
  },
  {
   "id": 6371020004,
   "districtId": 6371020,
-  "name": "SUNGAI LULUT"
+  "districtName": "BANJARMASIN TIMUR",
+  "name": "SUNGAI LULUT",
+  "postalCode": ""
  },
  {
   "id": 6371020005,
   "districtId": 6371020,
-  "name": "KURIPAN"
+  "districtName": "BANJARMASIN TIMUR",
+  "name": "KURIPAN",
+  "postalCode": "32384"
  },
  {
   "id": 6371020011,
   "districtId": 6371020,
-  "name": "SUNGAI BILU"
+  "districtName": "BANJARMASIN TIMUR",
+  "name": "SUNGAI BILU",
+  "postalCode": ""
  },
  {
   "id": 6371020012,
   "districtId": 6371020,
-  "name": "PENGAMBANGAN"
+  "districtName": "BANJARMASIN TIMUR",
+  "name": "PENGAMBANGAN",
+  "postalCode": "70237"
  },
  {
   "id": 6371020013,
   "districtId": 6371020,
-  "name": "BENUA ANYAR"
+  "districtName": "BANJARMASIN TIMUR",
+  "name": "BENUA ANYAR",
+  "postalCode": "70513"
  },
  {
   "id": 6371020014,
   "districtId": 6371020,
-  "name": "PEMURUS LUAR"
+  "districtName": "BANJARMASIN TIMUR",
+  "name": "PEMURUS LUAR",
+  "postalCode": "70236"
  }
 ]

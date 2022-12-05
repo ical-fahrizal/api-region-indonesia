@@ -2,31 +2,43 @@
  {
   "id": 3207260001,
   "districtId": 3207260,
-  "name": "CINTANAGARA"
+  "districtName": "JATINAGARA",
+  "name": "CINTANAGARA",
+  "postalCode": "44116"
  },
  {
   "id": 3207260002,
   "districtId": 3207260,
-  "name": "BAYASARI"
+  "districtName": "JATINAGARA",
+  "name": "BAYASARI",
+  "postalCode": "46273"
  },
  {
   "id": 3207260003,
   "districtId": 3207260,
-  "name": "JATINAGARA"
+  "districtName": "JATINAGARA",
+  "name": "JATINAGARA",
+  "postalCode": "46273"
  },
  {
   "id": 3207260004,
   "districtId": 3207260,
-  "name": "DAYEUHLUHUR"
+  "districtName": "JATINAGARA",
+  "name": "DAYEUHLUHUR",
+  "postalCode": "46273"
  },
  {
   "id": 3207260005,
   "districtId": 3207260,
-  "name": "SUKANAGARA"
+  "districtName": "JATINAGARA",
+  "name": "SUKANAGARA",
+  "postalCode": "44174"
  },
  {
   "id": 3207260006,
   "districtId": 3207260,
-  "name": "MULYASARI"
+  "districtName": "JATINAGARA",
+  "name": "MULYASARI",
+  "postalCode": "43273"
  }
 ]

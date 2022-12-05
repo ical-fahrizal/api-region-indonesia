@@ -2,31 +2,43 @@
  {
   "id": 3217071001,
   "districtId": 3217071,
-  "name": "BOJONGHALEUANG"
+  "districtName": "SAGULING",
+  "name": "BOJONGHALEUANG",
+  "postalCode": "40561"
  },
  {
   "id": 3217071002,
   "districtId": 3217071,
-  "name": "CIKANDE"
+  "districtName": "SAGULING",
+  "name": "CIKANDE",
+  "postalCode": "41353"
  },
  {
   "id": 3217071003,
   "districtId": 3217071,
-  "name": "GIRIMUKTI"
+  "districtName": "SAGULING",
+  "name": "GIRIMUKTI",
+  "postalCode": "46475"
  },
  {
   "id": 3217071004,
   "districtId": 3217071,
-  "name": "CIPANGERAN"
+  "districtName": "SAGULING",
+  "name": "CIPANGERAN",
+  "postalCode": "40561"
  },
  {
   "id": 3217071005,
   "districtId": 3217071,
-  "name": "JATI"
+  "districtName": "SAGULING",
+  "name": "JATI",
+  "postalCode": "20152"
  },
  {
   "id": 3217071006,
   "districtId": 3217071,
-  "name": "SAGULING"
+  "districtName": "SAGULING",
+  "name": "SAGULING",
+  "postalCode": "46274"
  }
 ]

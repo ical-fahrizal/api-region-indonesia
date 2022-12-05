@@ -2,41 +2,57 @@
  {
   "id": 3518010001,
   "districtId": 3518010,
-  "name": "NGLIMAN"
+  "districtName": "SAWAHAN",
+  "name": "NGLIMAN",
+  "postalCode": "64475"
  },
  {
   "id": 3518010002,
   "districtId": 3518010,
-  "name": "BARENG"
+  "districtName": "SAWAHAN",
+  "name": "BARENG",
+  "postalCode": "57414"
  },
  {
   "id": 3518010003,
   "districtId": 3518010,
-  "name": "SAWAHAN"
+  "districtName": "SAWAHAN",
+  "name": "SAWAHAN",
+  "postalCode": "25121"
  },
  {
   "id": 3518010004,
   "districtId": 3518010,
-  "name": "BENDOLO"
+  "districtName": "SAWAHAN",
+  "name": "BENDOLO",
+  "postalCode": "64475"
  },
  {
   "id": 3518010006,
   "districtId": 3518010,
-  "name": "SIDOREJO"
+  "districtName": "SAWAHAN",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 3518010007,
   "districtId": 3518010,
-  "name": "MARGOPATUT"
+  "districtName": "SAWAHAN",
+  "name": "MARGOPATUT",
+  "postalCode": "64475"
  },
  {
   "id": 3518010008,
   "districtId": 3518010,
-  "name": "SIWALAN"
+  "districtName": "SAWAHAN",
+  "name": "SIWALAN",
+  "postalCode": "50162"
  },
  {
   "id": 3518010009,
   "districtId": 3518010,
-  "name": "KEBON AGUNG"
+  "districtName": "SAWAHAN",
+  "name": "KEBON AGUNG",
+  "postalCode": "32156"
  }
 ]

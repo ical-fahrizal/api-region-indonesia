@@ -2,36 +2,50 @@
  {
   "id": 1771031001,
   "districtId": 1771031,
-  "name": "SURABAYA"
+  "districtName": "SUNGAI SERUT",
+  "name": "SURABAYA",
+  "postalCode": "32274"
  },
  {
   "id": 1771031002,
   "districtId": 1771031,
-  "name": "SEMARANG"
+  "districtName": "SUNGAI SERUT",
+  "name": "SEMARANG",
+  "postalCode": "38119"
  },
  {
   "id": 1771031003,
   "districtId": 1771031,
-  "name": "TANJUNG JAYA"
+  "districtName": "SUNGAI SERUT",
+  "name": "TANJUNG JAYA",
+  "postalCode": "32265"
  },
  {
   "id": 1771031004,
   "districtId": 1771031,
-  "name": "TANJUNG AGUNG"
+  "districtName": "SUNGAI SERUT",
+  "name": "TANJUNG AGUNG",
+  "postalCode": "37216"
  },
  {
   "id": 1771031005,
   "districtId": 1771031,
-  "name": "SUKA MERINDU"
+  "districtName": "SUNGAI SERUT",
+  "name": "SUKA MERINDU",
+  "postalCode": "31452"
  },
  {
   "id": 1771031006,
   "districtId": 1771031,
-  "name": "KAMPUNG KELAWI"
+  "districtName": "SUNGAI SERUT",
+  "name": "KAMPUNG KELAWI",
+  "postalCode": ""
  },
  {
   "id": 1771031007,
   "districtId": 1771031,
-  "name": "PASAR BENGKULU"
+  "districtName": "SUNGAI SERUT",
+  "name": "PASAR BENGKULU",
+  "postalCode": "38119"
  }
 ]

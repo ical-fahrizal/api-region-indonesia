@@ -2,21 +2,29 @@
  {
   "id": 1310050001,
   "districtId": 1310050,
-  "name": "PAKAN RABAA"
+  "districtName": "KOTO PARIK GADANG DIATEH",
+  "name": "PAKAN RABAA",
+  "postalCode": "27775"
  },
  {
   "id": 1310050002,
   "districtId": 1310050,
-  "name": "PAKAN RABAA TIMUR"
+  "districtName": "KOTO PARIK GADANG DIATEH",
+  "name": "PAKAN RABAA TIMUR",
+  "postalCode": "27775"
  },
  {
   "id": 1310050003,
   "districtId": 1310050,
-  "name": "PAKAN RABAA UTARA"
+  "districtName": "KOTO PARIK GADANG DIATEH",
+  "name": "PAKAN RABAA UTARA",
+  "postalCode": "27775"
  },
  {
   "id": 1310050004,
   "districtId": 1310050,
-  "name": "PAKAN RABAA TENGAH"
+  "districtName": "KOTO PARIK GADANG DIATEH",
+  "name": "PAKAN RABAA TENGAH",
+  "postalCode": "27775"
  }
 ]

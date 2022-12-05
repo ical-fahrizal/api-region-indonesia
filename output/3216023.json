@@ -2,36 +2,50 @@
  {
   "id": 3216023001,
   "districtId": 3216023,
-  "name": "SUKASEJATI"
+  "districtName": "CIKARANG SELATAN",
+  "name": "SUKASEJATI",
+  "postalCode": "17530"
  },
  {
   "id": 3216023002,
   "districtId": 3216023,
-  "name": "CIANTRA"
+  "districtName": "CIKARANG SELATAN",
+  "name": "CIANTRA",
+  "postalCode": "17530"
  },
  {
   "id": 3216023003,
   "districtId": 3216023,
-  "name": "SUKADAMI"
+  "districtName": "CIKARANG SELATAN",
+  "name": "SUKADAMI",
+  "postalCode": "17530"
  },
  {
   "id": 3216023004,
   "districtId": 3216023,
-  "name": "SERANG"
+  "districtName": "CIKARANG SELATAN",
+  "name": "SERANG",
+  "postalCode": "17530"
  },
  {
   "id": 3216023005,
   "districtId": 3216023,
-  "name": "SUKARESMI"
+  "districtName": "CIKARANG SELATAN",
+  "name": "SUKARESMI",
+  "postalCode": "17530"
  },
  {
   "id": 3216023006,
   "districtId": 3216023,
-  "name": "CIBATU"
+  "districtName": "CIKARANG SELATAN",
+  "name": "CIBATU",
+  "postalCode": "44185"
  },
  {
   "id": 3216023007,
   "districtId": 3216023,
-  "name": "PASIRSARI"
+  "districtName": "CIKARANG SELATAN",
+  "name": "PASIRSARI",
+  "postalCode": "17530"
  }
 ]

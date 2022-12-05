@@ -2,31 +2,43 @@
  {
   "id": 1502022001,
   "districtId": 1502022,
-  "name": "SEKANCING"
+  "districtName": "TIANG PUMPUNG",
+  "name": "SEKANCING",
+  "postalCode": ""
  },
  {
   "id": 1502022002,
   "districtId": 1502022,
-  "name": "BERINGIN SANGGUL"
+  "districtName": "TIANG PUMPUNG",
+  "name": "BERINGIN SANGGUL",
+  "postalCode": "37371"
  },
  {
   "id": 1502022003,
   "districtId": 1502022,
-  "name": "RANTAU LIMAU KAPAS"
+  "districtName": "TIANG PUMPUNG",
+  "name": "RANTAU LIMAU KAPAS",
+  "postalCode": "37353"
  },
  {
   "id": 1502022004,
   "districtId": 1502022,
-  "name": "SEKANCING ILIR"
+  "districtName": "TIANG PUMPUNG",
+  "name": "SEKANCING ILIR",
+  "postalCode": "37371"
  },
  {
   "id": 1502022005,
   "districtId": 1502022,
-  "name": "BARU BUKIT PUNJUNG"
+  "districtName": "TIANG PUMPUNG",
+  "name": "BARU BUKIT PUNJUNG",
+  "postalCode": ""
  },
  {
   "id": 1502022006,
   "districtId": 1502022,
-  "name": "BARU SUNGAI SAKAI"
+  "districtName": "TIANG PUMPUNG",
+  "name": "BARU SUNGAI SAKAI",
+  "postalCode": ""
  }
 ]

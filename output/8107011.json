@@ -2,91 +2,127 @@
  {
   "id": 8107011002,
   "districtId": 8107011,
-  "name": "TAMHER WARAT"
+  "districtName": "WAKATE",
+  "name": "TAMHER WARAT",
+  "postalCode": ""
  },
  {
   "id": 8107011003,
   "districtId": 8107011,
-  "name": "KELANGAN"
+  "districtName": "WAKATE",
+  "name": "KELANGAN",
+  "postalCode": "97595"
  },
  {
   "id": 8107011004,
   "districtId": 8107011,
-  "name": "TAMHER TIMUR"
+  "districtName": "WAKATE",
+  "name": "TAMHER TIMUR",
+  "postalCode": "97595"
  },
  {
   "id": 8107011005,
   "districtId": 8107011,
-  "name": "AMAR LAUT"
+  "districtName": "WAKATE",
+  "name": "AMAR LAUT",
+  "postalCode": "97595"
  },
  {
   "id": 8107011006,
   "districtId": 8107011,
-  "name": "UTTA"
+  "districtName": "WAKATE",
+  "name": "UTTA",
+  "postalCode": ""
  },
  {
   "id": 8107011007,
   "districtId": 8107011,
-  "name": "LAHEMA"
+  "districtName": "WAKATE",
+  "name": "LAHEMA",
+  "postalCode": "97595"
  },
  {
   "id": 8107011008,
   "districtId": 8107011,
-  "name": "EFFA"
+  "districtName": "WAKATE",
+  "name": "EFFA",
+  "postalCode": ""
  },
  {
   "id": 8107011009,
   "districtId": 8107011,
-  "name": "ILILI"
+  "districtName": "WAKATE",
+  "name": "ILILI",
+  "postalCode": "97595"
  },
  {
   "id": 8107011010,
   "districtId": 8107011,
-  "name": "TANAH BARU"
+  "districtName": "WAKATE",
+  "name": "TANAH BARU",
+  "postalCode": "24673"
  },
  {
   "id": 8107011011,
   "districtId": 8107011,
-  "name": "GULIAR"
+  "districtName": "WAKATE",
+  "name": "GULIAR",
+  "postalCode": "97595"
  },
  {
   "id": 8107011021,
   "districtId": 8107011,
-  "name": "KELDOR"
+  "districtName": "WAKATE",
+  "name": "KELDOR",
+  "postalCode": "97595"
  },
  {
   "id": 8107011022,
   "districtId": 8107011,
-  "name": "WUNNIN ELDEDORA"
+  "districtName": "WAKATE",
+  "name": "WUNNIN ELDEDORA",
+  "postalCode": ""
  },
  {
   "id": 8107011023,
   "districtId": 8107011,
-  "name": "KARLOMIN"
+  "districtName": "WAKATE",
+  "name": "KARLOMIN",
+  "postalCode": "97595"
  },
  {
   "id": 8107011024,
   "districtId": 8107011,
-  "name": "OTADEMAN"
+  "districtName": "WAKATE",
+  "name": "OTADEMAN",
+  "postalCode": "97595"
  },
  {
   "id": 8107011025,
   "districtId": 8107011,
-  "name": "RUMA DURUN"
+  "districtName": "WAKATE",
+  "name": "RUMA DURUN",
+  "postalCode": ""
  },
  {
   "id": 8107011026,
   "districtId": 8107011,
-  "name": "TANA SOA"
+  "districtName": "WAKATE",
+  "name": "TANA SOA",
+  "postalCode": ""
  },
  {
   "id": 8107011027,
   "districtId": 8107011,
-  "name": "KILBUTAK"
+  "districtName": "WAKATE",
+  "name": "KILBUTAK",
+  "postalCode": ""
  },
  {
   "id": 8107011028,
   "districtId": 8107011,
-  "name": "KURWARA"
+  "districtName": "WAKATE",
+  "name": "KURWARA",
+  "postalCode": ""
  }
 ]

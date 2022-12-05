@@ -2,41 +2,57 @@
  {
   "id": 3208071001,
   "districtId": 3208071,
-  "name": "CIMARA"
+  "districtName": "CIBEUREUM",
+  "name": "CIMARA",
+  "postalCode": "45588"
  },
  {
   "id": 3208071002,
   "districtId": 3208071,
-  "name": "KAWUNGSARI"
+  "districtName": "CIBEUREUM",
+  "name": "KAWUNGSARI",
+  "postalCode": "45588"
  },
  {
   "id": 3208071003,
   "districtId": 3208071,
-  "name": "SUKARAPIH"
+  "districtName": "CIBEUREUM",
+  "name": "SUKARAPIH",
+  "postalCode": "45588"
  },
  {
   "id": 3208071004,
   "districtId": 3208071,
-  "name": "SUMURWIRU"
+  "districtName": "CIBEUREUM",
+  "name": "SUMURWIRU",
+  "postalCode": "45588"
  },
  {
   "id": 3208071005,
   "districtId": 3208071,
-  "name": "CIBEUREUM"
+  "districtName": "CIBEUREUM",
+  "name": "CIBEUREUM",
+  "postalCode": "46313"
  },
  {
   "id": 3208071006,
   "districtId": 3208071,
-  "name": "RANDUSARI"
+  "districtName": "CIBEUREUM",
+  "name": "RANDUSARI",
+  "postalCode": "45588"
  },
  {
   "id": 3208071007,
   "districtId": 3208071,
-  "name": "SUKADANA"
+  "districtName": "CIBEUREUM",
+  "name": "SUKADANA",
+  "postalCode": "30611"
  },
  {
   "id": 3208071008,
   "districtId": 3208071,
-  "name": "TARIKOLOT"
+  "districtName": "CIBEUREUM",
+  "name": "TARIKOLOT",
+  "postalCode": "45588"
  }
 ]

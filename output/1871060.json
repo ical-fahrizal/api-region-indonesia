@@ -2,36 +2,50 @@
  {
   "id": 1871060001,
   "districtId": 1871060,
-  "name": "DURIAN PAYUNG"
+  "districtName": "TANJUNG KARANG PUSAT",
+  "name": "DURIAN PAYUNG",
+  "postalCode": "35116"
  },
  {
   "id": 1871060002,
   "districtId": 1871060,
-  "name": "GOTONG ROYONG"
+  "districtName": "TANJUNG KARANG PUSAT",
+  "name": "GOTONG ROYONG",
+  "postalCode": "35119"
  },
  {
   "id": 1871060005,
   "districtId": 1871060,
-  "name": "PALAPA"
+  "districtName": "TANJUNG KARANG PUSAT",
+  "name": "PALAPA",
+  "postalCode": "35116"
  },
  {
   "id": 1871060006,
   "districtId": 1871060,
-  "name": "KALIAWI"
+  "districtName": "TANJUNG KARANG PUSAT",
+  "name": "KALIAWI",
+  "postalCode": "34769"
  },
  {
   "id": 1871060007,
   "districtId": 1871060,
-  "name": "KELAPA TIGA"
+  "districtName": "TANJUNG KARANG PUSAT",
+  "name": "KELAPA TIGA",
+  "postalCode": "35111"
  },
  {
   "id": 1871060010,
   "districtId": 1871060,
-  "name": "PASIR GINTUNG"
+  "districtName": "TANJUNG KARANG PUSAT",
+  "name": "PASIR GINTUNG",
+  "postalCode": "35113"
  },
  {
   "id": 1871060013,
   "districtId": 1871060,
-  "name": "KALIAWI PERSADA"
+  "districtName": "TANJUNG KARANG PUSAT",
+  "name": "KALIAWI PERSADA",
+  "postalCode": "35115"
  }
 ]

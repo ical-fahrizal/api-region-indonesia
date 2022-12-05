@@ -2,61 +2,85 @@
  {
   "id": 6211060005,
   "districtId": 6211060,
-  "name": "TUMBANG HAMPUTUNG"
+  "districtName": "KAHAYAN HULU UTARA",
+  "name": "TUMBANG HAMPUTUNG",
+  "postalCode": "74553"
  },
  {
   "id": 6211060006,
   "districtId": 6211060,
-  "name": "BATU TANGKUI"
+  "districtName": "KAHAYAN HULU UTARA",
+  "name": "BATU TANGKUI",
+  "postalCode": "74553"
  },
  {
   "id": 6211060007,
   "districtId": 6211060,
-  "name": "TUMBANG PASANGON"
+  "districtName": "KAHAYAN HULU UTARA",
+  "name": "TUMBANG PASANGON",
+  "postalCode": "74553"
  },
  {
   "id": 6211060008,
   "districtId": 6211060,
-  "name": "TUMBANG MIRI"
+  "districtName": "KAHAYAN HULU UTARA",
+  "name": "TUMBANG MIRI",
+  "postalCode": "74553"
  },
  {
   "id": 6211060009,
   "districtId": 6211060,
-  "name": "DANDANG"
+  "districtName": "KAHAYAN HULU UTARA",
+  "name": "DANDANG",
+  "postalCode": "67292"
  },
  {
   "id": 6211060010,
   "districtId": 6211060,
-  "name": "PENDA RANGAS"
+  "districtName": "KAHAYAN HULU UTARA",
+  "name": "PENDA RANGAS",
+  "postalCode": "74553"
  },
  {
   "id": 6211060011,
   "districtId": 6211060,
-  "name": "TUMBANG TAJUNGAN"
+  "districtName": "KAHAYAN HULU UTARA",
+  "name": "TUMBANG TAJUNGAN",
+  "postalCode": "74553"
  },
  {
   "id": 6211060012,
   "districtId": 6211060,
-  "name": "TUMBANG TAKAOI"
+  "districtName": "KAHAYAN HULU UTARA",
+  "name": "TUMBANG TAKAOI",
+  "postalCode": ""
  },
  {
   "id": 6211060015,
   "districtId": 6211060,
-  "name": "TUMBANG KORIK"
+  "districtName": "KAHAYAN HULU UTARA",
+  "name": "TUMBANG KORIK",
+  "postalCode": ""
  },
  {
   "id": 6211060016,
   "districtId": 6211060,
-  "name": "TUMBANG SIAN"
+  "districtName": "KAHAYAN HULU UTARA",
+  "name": "TUMBANG SIAN",
+  "postalCode": "74553"
  },
  {
   "id": 6211060019,
   "districtId": 6211060,
-  "name": "TUMBANG PONYOI"
+  "districtName": "KAHAYAN HULU UTARA",
+  "name": "TUMBANG PONYOI",
+  "postalCode": "74553"
  },
  {
   "id": 6211060020,
   "districtId": 6211060,
-  "name": "TELUK KENDURI"
+  "districtName": "KAHAYAN HULU UTARA",
+  "name": "TELUK KENDURI",
+  "postalCode": ""
  }
 ]

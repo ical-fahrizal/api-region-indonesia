@@ -2,71 +2,99 @@
  {
   "id": 8271030006,
   "districtId": 8271030,
-  "name": "SOA SIO"
+  "districtName": "TERNATE UTARA",
+  "name": "SOA SIO",
+  "postalCode": "97761"
  },
  {
   "id": 8271030007,
   "districtId": 8271030,
-  "name": "SOA"
+  "districtName": "TERNATE UTARA",
+  "name": "SOA",
+  "postalCode": "97725"
  },
  {
   "id": 8271030008,
   "districtId": 8271030,
-  "name": "SALERO"
+  "districtName": "TERNATE UTARA",
+  "name": "SALERO",
+  "postalCode": "97725"
  },
  {
   "id": 8271030009,
   "districtId": 8271030,
-  "name": "KASTURIAN"
+  "districtName": "TERNATE UTARA",
+  "name": "KASTURIAN",
+  "postalCode": "97726"
  },
  {
   "id": 8271030011,
   "districtId": 8271030,
-  "name": "TOBOLEU"
+  "districtName": "TERNATE UTARA",
+  "name": "TOBOLEU",
+  "postalCode": "97726"
  },
  {
   "id": 8271030012,
   "districtId": 8271030,
-  "name": "SANGAJI"
+  "districtName": "TERNATE UTARA",
+  "name": "SANGAJI",
+  "postalCode": "97727"
  },
  {
   "id": 8271030013,
   "districtId": 8271030,
-  "name": "DUFA DUFA"
+  "districtName": "TERNATE UTARA",
+  "name": "DUFA DUFA",
+  "postalCode": "97727"
  },
  {
   "id": 8271030014,
   "districtId": 8271030,
-  "name": "TAFURE"
+  "districtName": "TERNATE UTARA",
+  "name": "TAFURE",
+  "postalCode": "97728"
  },
  {
   "id": 8271030015,
   "districtId": 8271030,
-  "name": "TABAM"
+  "districtName": "TERNATE UTARA",
+  "name": "TABAM",
+  "postalCode": "97728"
  },
  {
   "id": 8271030016,
   "districtId": 8271030,
-  "name": "SANGO"
+  "districtName": "TERNATE UTARA",
+  "name": "SANGO",
+  "postalCode": "23657"
  },
  {
   "id": 8271030017,
   "districtId": 8271030,
-  "name": "TARAU"
+  "districtName": "TERNATE UTARA",
+  "name": "TARAU",
+  "postalCode": "97751"
  },
  {
   "id": 8271030018,
   "districtId": 8271030,
-  "name": "SANGAJI UTARA"
+  "districtName": "TERNATE UTARA",
+  "name": "SANGAJI UTARA",
+  "postalCode": "97751"
  },
  {
   "id": 8271030019,
   "districtId": 8271030,
-  "name": "AKEHUDA"
+  "districtName": "TERNATE UTARA",
+  "name": "AKEHUDA",
+  "postalCode": "97751"
  },
  {
   "id": 8271030020,
   "districtId": 8271030,
-  "name": "TUBO"
+  "districtName": "TERNATE UTARA",
+  "name": "TUBO",
+  "postalCode": "91452"
  }
 ]

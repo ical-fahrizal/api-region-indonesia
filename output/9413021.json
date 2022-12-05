@@ -2,26 +2,36 @@
  {
   "id": 9413021001,
   "districtId": 9413021,
-  "name": "AUTRIOP"
+  "districtName": "INIYANDIT",
+  "name": "AUTRIOP",
+  "postalCode": "99662"
  },
  {
   "id": 9413021002,
   "districtId": 9413021,
-  "name": "OGENATAN"
+  "districtName": "INIYANDIT",
+  "name": "OGENATAN",
+  "postalCode": ""
  },
  {
   "id": 9413021003,
   "districtId": 9413021,
-  "name": "LANGGOAN"
+  "districtName": "INIYANDIT",
+  "name": "LANGGOAN",
+  "postalCode": "99662"
  },
  {
   "id": 9413021004,
   "districtId": 9413021,
-  "name": "WARIK TOOP"
+  "districtName": "INIYANDIT",
+  "name": "WARIK TOOP",
+  "postalCode": ""
  },
  {
   "id": 9413021005,
   "districtId": 9413021,
-  "name": "TETOP"
+  "districtName": "INIYANDIT",
+  "name": "TETOP",
+  "postalCode": "99662"
  }
 ]

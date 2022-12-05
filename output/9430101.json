@@ -2,36 +2,50 @@
  {
   "id": 9430101001,
   "districtId": 9430101,
-  "name": "LUALO"
+  "districtName": "MUARA",
+  "name": "LUALO",
+  "postalCode": "99556"
  },
  {
   "id": 9430101002,
   "districtId": 9430101,
-  "name": "MUARA"
+  "districtName": "MUARA",
+  "name": "MUARA",
+  "postalCode": "41259"
  },
  {
   "id": 9430101003,
   "districtId": 9430101,
-  "name": "GIPURA"
+  "districtName": "MUARA",
+  "name": "GIPURA",
+  "postalCode": "99556"
  },
  {
   "id": 9430101005,
   "districtId": 9430101,
-  "name": "ABUA"
+  "districtName": "MUARA",
+  "name": "ABUA",
+  "postalCode": "99556"
  },
  {
   "id": 9430101006,
   "districtId": 9430101,
-  "name": "BOGANGI"
+  "districtName": "MUARA",
+  "name": "BOGANGI",
+  "postalCode": ""
  },
  {
   "id": 9430101008,
   "districtId": 9430101,
-  "name": "WIYAPUR"
+  "districtName": "MUARA",
+  "name": "WIYAPUR",
+  "postalCode": ""
  },
  {
   "id": 9430101010,
   "districtId": 9430101,
-  "name": "GOLOME"
+  "districtName": "MUARA",
+  "name": "GOLOME",
+  "postalCode": ""
  }
 ]

@@ -2,76 +2,106 @@
  {
   "id": 1813080001,
   "districtId": 1813080,
-  "name": "MARANG"
+  "districtName": "PESISIR SELATAN",
+  "name": "MARANG",
+  "postalCode": "34875"
  },
  {
   "id": 1813080002,
   "districtId": 1813080,
-  "name": "TANJUNG RAYA"
+  "districtName": "PESISIR SELATAN",
+  "name": "TANJUNG RAYA",
+  "postalCode": "23891"
  },
  {
   "id": 1813080003,
   "districtId": 1813080,
-  "name": "BANGUN NEGARA"
+  "districtName": "PESISIR SELATAN",
+  "name": "BANGUN NEGARA",
+  "postalCode": "34875"
  },
  {
   "id": 1813080004,
   "districtId": 1813080,
-  "name": "WAY JAMBU"
+  "districtName": "PESISIR SELATAN",
+  "name": "WAY JAMBU",
+  "postalCode": "34875"
  },
  {
   "id": 1813080005,
   "districtId": 1813080,
-  "name": "PAKU NEGARA"
+  "districtName": "PESISIR SELATAN",
+  "name": "PAKU NEGARA",
+  "postalCode": "34875"
  },
  {
   "id": 1813080006,
   "districtId": 1813080,
-  "name": "ULOK MANIK"
+  "districtName": "PESISIR SELATAN",
+  "name": "ULOK MANIK",
+  "postalCode": "34875"
  },
  {
   "id": 1813080007,
   "districtId": 1813080,
-  "name": "BIHA"
+  "districtName": "PESISIR SELATAN",
+  "name": "BIHA",
+  "postalCode": "34875"
  },
  {
   "id": 1813080008,
   "districtId": 1813080,
-  "name": "TANJUNG SETIA"
+  "districtName": "PESISIR SELATAN",
+  "name": "TANJUNG SETIA",
+  "postalCode": "32274"
  },
  {
   "id": 1813080009,
   "districtId": 1813080,
-  "name": "SUMUR JAYA"
+  "districtName": "PESISIR SELATAN",
+  "name": "SUMUR JAYA",
+  "postalCode": "34871"
  },
  {
   "id": 1813080010,
   "districtId": 1813080,
-  "name": "PAGAR DALAM"
+  "districtName": "PESISIR SELATAN",
+  "name": "PAGAR DALAM",
+  "postalCode": "34877"
  },
  {
   "id": 1813080011,
   "districtId": 1813080,
-  "name": "TANJUNG JATI"
+  "districtName": "PESISIR SELATAN",
+  "name": "TANJUNG JATI",
+  "postalCode": "20761"
  },
  {
   "id": 1813080012,
   "districtId": 1813080,
-  "name": "PELITA JAYA"
+  "districtName": "PESISIR SELATAN",
+  "name": "PELITA JAYA",
+  "postalCode": "32362"
  },
  {
   "id": 1813080013,
   "districtId": 1813080,
-  "name": "SUKARAME"
+  "districtName": "PESISIR SELATAN",
+  "name": "SUKARAME",
+  "postalCode": "24357"
  },
  {
   "id": 1813080014,
   "districtId": 1813080,
-  "name": "NEGERI RATU TENUMBANG"
+  "districtName": "PESISIR SELATAN",
+  "name": "NEGERI RATU TENUMBANG",
+  "postalCode": "34875"
  },
  {
   "id": 1813080015,
   "districtId": 1813080,
-  "name": "TULUNG BAMBAN"
+  "districtName": "PESISIR SELATAN",
+  "name": "TULUNG BAMBAN",
+  "postalCode": "34875"
  }
 ]

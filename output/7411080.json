@@ -2,26 +2,36 @@
  {
   "id": 7411080001,
   "districtId": 7411080,
-  "name": "WESALO"
+  "districtName": "LALOLAE",
+  "name": "WESALO",
+  "postalCode": "93572"
  },
  {
   "id": 7411080002,
   "districtId": 7411080,
-  "name": "LALOLAE"
+  "districtName": "LALOLAE",
+  "name": "LALOLAE",
+  "postalCode": "93572"
  },
  {
   "id": 7411080003,
   "districtId": 7411080,
-  "name": "KEISIO"
+  "districtName": "LALOLAE",
+  "name": "KEISIO",
+  "postalCode": "93572"
  },
  {
   "id": 7411080004,
   "districtId": 7411080,
-  "name": "LALOSINGI"
+  "districtName": "LALOLAE",
+  "name": "LALOSINGI",
+  "postalCode": "93572"
  },
  {
   "id": 7411080005,
   "districtId": 7411080,
-  "name": "TALODO"
+  "districtName": "LALOLAE",
+  "name": "TALODO",
+  "postalCode": "93572"
  }
 ]

@@ -2,26 +2,36 @@
  {
   "id": 3206072001,
   "districtId": 3206072,
-  "name": "BOJONGSARI"
+  "districtName": "CULAMEGA",
+  "name": "BOJONGSARI",
+  "postalCode": "40288"
  },
  {
   "id": 3206072002,
   "districtId": 3206072,
-  "name": "CINTABODAS"
+  "districtName": "CULAMEGA",
+  "name": "CINTABODAS",
+  "postalCode": "46188"
  },
  {
   "id": 3206072003,
   "districtId": 3206072,
-  "name": "CIKUYA"
+  "districtName": "CULAMEGA",
+  "name": "CIKUYA",
+  "postalCode": "40395"
  },
  {
   "id": 3206072004,
   "districtId": 3206072,
-  "name": "CIPICUNG"
+  "districtName": "CULAMEGA",
+  "name": "CIPICUNG",
+  "postalCode": "44191"
  },
  {
   "id": 3206072005,
   "districtId": 3206072,
-  "name": "MEKARLAKSANA"
+  "districtName": "CULAMEGA",
+  "name": "MEKARLAKSANA",
+  "postalCode": "43284"
  }
 ]

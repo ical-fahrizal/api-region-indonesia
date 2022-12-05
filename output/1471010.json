@@ -2,46 +2,64 @@
  {
   "id": 1471010001,
   "districtId": 1471010,
-  "name": "SIMPANG BARU"
+  "districtName": "TAMPAN",
+  "name": "SIMPANG BARU",
+  "postalCode": "28293"
  },
  {
   "id": 1471010005,
   "districtId": 1471010,
-  "name": "SIDOMULYO BARAT"
+  "districtName": "TAMPAN",
+  "name": "SIDOMULYO BARAT",
+  "postalCode": "28294"
  },
  {
   "id": 1471010007,
   "districtId": 1471010,
-  "name": "TUAH KARYA"
+  "districtName": "TAMPAN",
+  "name": "TUAH KARYA",
+  "postalCode": "28291"
  },
  {
   "id": 1471010008,
   "districtId": 1471010,
-  "name": "DELIMA"
+  "districtName": "TAMPAN",
+  "name": "DELIMA",
+  "postalCode": "28291"
  },
  {
   "id": 1471010009,
   "districtId": 1471010,
-  "name": "TUAH MADANI"
+  "districtName": "TAMPAN",
+  "name": "TUAH MADANI",
+  "postalCode": ""
  },
  {
   "id": 1471010010,
   "districtId": 1471010,
-  "name": "SIALANG MUNGGU"
+  "districtName": "TAMPAN",
+  "name": "SIALANG MUNGGU",
+  "postalCode": ""
  },
  {
   "id": 1471010011,
   "districtId": 1471010,
-  "name": "TOBEK GODANG"
+  "districtName": "TAMPAN",
+  "name": "TOBEK GODANG",
+  "postalCode": ""
  },
  {
   "id": 1471010012,
   "districtId": 1471010,
-  "name": "BINA WIDYA"
+  "districtName": "TAMPAN",
+  "name": "BINA WIDYA",
+  "postalCode": ""
  },
  {
   "id": 1471010013,
   "districtId": 1471010,
-  "name": "AIR PUTIH"
+  "districtName": "TAMPAN",
+  "name": "AIR PUTIH",
+  "postalCode": "21264"
  }
 ]

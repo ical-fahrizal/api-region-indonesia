@@ -2,46 +2,64 @@
  {
   "id": 8108070001,
   "districtId": 8108070,
-  "name": "TELA"
+  "districtName": "PP. BABAR",
+  "name": "TELA",
+  "postalCode": "97452"
  },
  {
   "id": 8108070002,
   "districtId": 8108070,
-  "name": "IMROING"
+  "districtName": "PP. BABAR",
+  "name": "IMROING",
+  "postalCode": "97452"
  },
  {
   "id": 8108070003,
   "districtId": 8108070,
-  "name": "TEPA"
+  "districtName": "PP. BABAR",
+  "name": "TEPA",
+  "postalCode": "97452"
  },
  {
   "id": 8108070004,
   "districtId": 8108070,
-  "name": "LETSIARA"
+  "districtName": "PP. BABAR",
+  "name": "LETSIARA",
+  "postalCode": "97452"
  },
  {
   "id": 8108070005,
   "districtId": 8108070,
-  "name": "MANUWUI"
+  "districtName": "PP. BABAR",
+  "name": "MANUWUI",
+  "postalCode": ""
  },
  {
   "id": 8108070006,
   "districtId": 8108070,
-  "name": "HERTUTI"
+  "districtName": "PP. BABAR",
+  "name": "HERTUTI",
+  "postalCode": "97452"
  },
  {
   "id": 8108070007,
   "districtId": 8108070,
-  "name": "LEWAH"
+  "districtName": "PP. BABAR",
+  "name": "LEWAH",
+  "postalCode": "97452"
  },
  {
   "id": 8108070008,
   "districtId": 8108070,
-  "name": "SINAIRUSI"
+  "districtName": "PP. BABAR",
+  "name": "SINAIRUSI",
+  "postalCode": "97452"
  },
  {
   "id": 8108070009,
   "districtId": 8108070,
-  "name": "YALTUBUNG"
+  "districtName": "PP. BABAR",
+  "name": "YALTUBUNG",
+  "postalCode": "97452"
  }
 ]

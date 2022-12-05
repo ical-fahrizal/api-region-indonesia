@@ -2,61 +2,85 @@
  {
   "id": 1402042001,
   "districtId": 1402042,
-  "name": "KELAWAT"
+  "districtName": "SUNGAI LALA",
+  "name": "KELAWAT",
+  "postalCode": "29363"
  },
  {
   "id": 1402042002,
   "districtId": 1402042,
-  "name": "PERKEBUNAN  SUNGAI LALA"
+  "districtName": "SUNGAI LALA",
+  "name": "PERKEBUNAN  SUNGAI LALA",
+  "postalCode": ""
  },
  {
   "id": 1402042003,
   "districtId": 1402042,
-  "name": "KUALA LALA"
+  "districtName": "SUNGAI LALA",
+  "name": "KUALA LALA",
+  "postalCode": "29363"
  },
  {
   "id": 1402042004,
   "districtId": 1402042,
-  "name": "PASIR BATU MANDI"
+  "districtName": "SUNGAI LALA",
+  "name": "PASIR BATU MANDI",
+  "postalCode": "29363"
  },
  {
   "id": 1402042005,
   "districtId": 1402042,
-  "name": "PASIR SELABAU"
+  "districtName": "SUNGAI LALA",
+  "name": "PASIR SELABAU",
+  "postalCode": "29363"
  },
  {
   "id": 1402042006,
   "districtId": 1402042,
-  "name": "PASIR BONGKAL"
+  "districtName": "SUNGAI LALA",
+  "name": "PASIR BONGKAL",
+  "postalCode": "29363"
  },
  {
   "id": 1402042007,
   "districtId": 1402042,
-  "name": "PERKEBUNAN SUNGAI PARIT"
+  "districtName": "SUNGAI LALA",
+  "name": "PERKEBUNAN SUNGAI PARIT",
+  "postalCode": ""
  },
  {
   "id": 1402042008,
   "districtId": 1402042,
-  "name": "MORONG"
+  "districtName": "SUNGAI LALA",
+  "name": "MORONG",
+  "postalCode": "29363"
  },
  {
   "id": 1402042009,
   "districtId": 1402042,
-  "name": "SUNGAI LALA"
+  "districtName": "SUNGAI LALA",
+  "name": "SUNGAI LALA",
+  "postalCode": "29363"
  },
  {
   "id": 1402042010,
   "districtId": 1402042,
-  "name": "PASIR KELAMPAIAN"
+  "districtName": "SUNGAI LALA",
+  "name": "PASIR KELAMPAIAN",
+  "postalCode": "29363"
  },
  {
   "id": 1402042011,
   "districtId": 1402042,
-  "name": "TANJUNG DANAU"
+  "districtName": "SUNGAI LALA",
+  "name": "TANJUNG DANAU",
+  "postalCode": "29363"
  },
  {
   "id": 1402042012,
   "districtId": 1402042,
-  "name": "SUNGAI AIR PUTIH"
+  "districtName": "SUNGAI LALA",
+  "name": "SUNGAI AIR PUTIH",
+  "postalCode": "29363"
  }
 ]

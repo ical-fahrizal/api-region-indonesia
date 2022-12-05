@@ -2,131 +2,183 @@
  {
   "id": 1212200001,
   "districtId": 1212200,
-  "name": "MEDAN SINEMBAH"
+  "districtName": "TANJUNG MORAWA",
+  "name": "MEDAN SINEMBAH",
+  "postalCode": "20362"
  },
  {
   "id": 1212200002,
   "districtId": 1212200,
-  "name": "BANDAR LABUHAN"
+  "districtName": "TANJUNG MORAWA",
+  "name": "BANDAR LABUHAN",
+  "postalCode": "20362"
  },
  {
   "id": 1212200003,
   "districtId": 1212200,
-  "name": "BANGUN REJO"
+  "districtName": "TANJUNG MORAWA",
+  "name": "BANGUN REJO",
+  "postalCode": "21454"
  },
  {
   "id": 1212200004,
   "districtId": 1212200,
-  "name": "AEK PANCUR"
+  "districtName": "TANJUNG MORAWA",
+  "name": "AEK PANCUR",
+  "postalCode": "20362"
  },
  {
   "id": 1212200005,
   "districtId": 1212200,
-  "name": "NAGA TIMBUL"
+  "districtName": "TANJUNG MORAWA",
+  "name": "NAGA TIMBUL",
+  "postalCode": "24673"
  },
  {
   "id": 1212200006,
   "districtId": 1212200,
-  "name": "LENGAU SERPANG"
+  "districtName": "TANJUNG MORAWA",
+  "name": "LENGAU SERPANG",
+  "postalCode": "20362"
  },
  {
   "id": 1212200007,
   "districtId": 1212200,
-  "name": "SEI MERAH"
+  "districtName": "TANJUNG MORAWA",
+  "name": "SEI MERAH",
+  "postalCode": ""
  },
  {
   "id": 1212200008,
   "districtId": 1212200,
-  "name": "DAGANG KERAWAN"
+  "districtName": "TANJUNG MORAWA",
+  "name": "DAGANG KERAWAN",
+  "postalCode": ""
  },
  {
   "id": 1212200009,
   "districtId": 1212200,
-  "name": "TANJUNG MORAWA PEKAN"
+  "districtName": "TANJUNG MORAWA",
+  "name": "TANJUNG MORAWA PEKAN",
+  "postalCode": ""
  },
  {
   "id": 1212200010,
   "districtId": 1212200,
-  "name": "TANJUNG MORAWA A"
+  "districtName": "TANJUNG MORAWA",
+  "name": "TANJUNG MORAWA A",
+  "postalCode": "20362"
  },
  {
   "id": 1212200011,
   "districtId": 1212200,
-  "name": "LIMAU MANIS"
+  "districtName": "TANJUNG MORAWA",
+  "name": "LIMAU MANIS",
+  "postalCode": "22998"
  },
  {
   "id": 1212200012,
   "districtId": 1212200,
-  "name": "UJUNG SERDANG"
+  "districtName": "TANJUNG MORAWA",
+  "name": "UJUNG SERDANG",
+  "postalCode": "20362"
  },
  {
   "id": 1212200013,
   "districtId": 1212200,
-  "name": "BANGUN SARI"
+  "districtName": "TANJUNG MORAWA",
+  "name": "BANGUN SARI",
+  "postalCode": "24782"
  },
  {
   "id": 1212200014,
   "districtId": 1212200,
-  "name": "BANGUN SARI BARU"
+  "districtName": "TANJUNG MORAWA",
+  "name": "BANGUN SARI BARU",
+  "postalCode": "20362"
  },
  {
   "id": 1212200015,
   "districtId": 1212200,
-  "name": "BUNTU BEDIMBAR"
+  "districtName": "TANJUNG MORAWA",
+  "name": "BUNTU BEDIMBAR",
+  "postalCode": ""
  },
  {
   "id": 1212200016,
   "districtId": 1212200,
-  "name": "TELAGA SARI"
+  "districtName": "TANJUNG MORAWA",
+  "name": "TELAGA SARI",
+  "postalCode": "20351"
  },
  {
   "id": 1212200017,
   "districtId": 1212200,
-  "name": "DAGANG KELAMBIR"
+  "districtName": "TANJUNG MORAWA",
+  "name": "DAGANG KELAMBIR",
+  "postalCode": "20362"
  },
  {
   "id": 1212200018,
   "districtId": 1212200,
-  "name": "TANJUNG MORAWA B"
+  "districtName": "TANJUNG MORAWA",
+  "name": "TANJUNG MORAWA B",
+  "postalCode": "20362"
  },
  {
   "id": 1212200019,
   "districtId": 1212200,
-  "name": "TANJUNG BARU"
+  "districtName": "TANJUNG MORAWA",
+  "name": "TANJUNG BARU",
+  "postalCode": "22742"
  },
  {
   "id": 1212200020,
   "districtId": 1212200,
-  "name": "PUNDEN REJO"
+  "districtName": "TANJUNG MORAWA",
+  "name": "PUNDEN REJO",
+  "postalCode": "20362"
  },
  {
   "id": 1212200021,
   "districtId": 1212200,
-  "name": "TANJUNG MULIA"
+  "districtName": "TANJUNG MORAWA",
+  "name": "TANJUNG MULIA",
+  "postalCode": "20854"
  },
  {
   "id": 1212200022,
   "districtId": 1212200,
-  "name": "PERDAMAIAN"
+  "districtName": "TANJUNG MORAWA",
+  "name": "PERDAMAIAN",
+  "postalCode": "24475"
  },
  {
   "id": 1212200023,
   "districtId": 1212200,
-  "name": "WONO SARI"
+  "districtName": "TANJUNG MORAWA",
+  "name": "WONO SARI",
+  "postalCode": "24478"
  },
  {
   "id": 1212200024,
   "districtId": 1212200,
-  "name": "DALU 10 A"
+  "districtName": "TANJUNG MORAWA",
+  "name": "DALU 10 A",
+  "postalCode": ""
  },
  {
   "id": 1212200025,
   "districtId": 1212200,
-  "name": "DALU 10 B"
+  "districtName": "TANJUNG MORAWA",
+  "name": "DALU 10 B",
+  "postalCode": ""
  },
  {
   "id": 1212200026,
   "districtId": 1212200,
-  "name": "PENARA KEBUN"
+  "districtName": "TANJUNG MORAWA",
+  "name": "PENARA KEBUN",
+  "postalCode": ""
  }
 ]

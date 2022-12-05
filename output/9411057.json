@@ -2,46 +2,64 @@
  {
   "id": 9411057002,
   "districtId": 9411057,
-  "name": "YAGONIK"
+  "districtName": "GURAGE",
+  "name": "YAGONIK",
+  "postalCode": ""
  },
  {
   "id": 9411057003,
   "districtId": 9411057,
-  "name": "TIRU"
+  "districtName": "GURAGE",
+  "name": "TIRU",
+  "postalCode": ""
  },
  {
   "id": 9411057004,
   "districtId": 9411057,
-  "name": "LULAME"
+  "districtName": "GURAGE",
+  "name": "LULAME",
+  "postalCode": "98911"
  },
  {
   "id": 9411057005,
   "districtId": 9411057,
-  "name": "YARMUKUM"
+  "districtName": "GURAGE",
+  "name": "YARMUKUM",
+  "postalCode": "98912"
  },
  {
   "id": 9411057006,
   "districtId": 9411057,
-  "name": "PILIA"
+  "districtName": "GURAGE",
+  "name": "PILIA",
+  "postalCode": "98912"
  },
  {
   "id": 9411057007,
   "districtId": 9411057,
-  "name": "YANIRUK"
+  "districtName": "GURAGE",
+  "name": "YANIRUK",
+  "postalCode": "98912"
  },
  {
   "id": 9411057009,
   "districtId": 9411057,
-  "name": "TUKWI"
+  "districtName": "GURAGE",
+  "name": "TUKWI",
+  "postalCode": "98913"
  },
  {
   "id": 9411057010,
   "districtId": 9411057,
-  "name": "YOGORINI"
+  "districtName": "GURAGE",
+  "name": "YOGORINI",
+  "postalCode": "98912"
  },
  {
   "id": 9411057011,
   "districtId": 9411057,
-  "name": "NALIME"
+  "districtName": "GURAGE",
+  "name": "NALIME",
+  "postalCode": ""
  }
 ]

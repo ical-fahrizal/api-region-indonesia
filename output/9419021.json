@@ -2,41 +2,57 @@
  {
   "id": 9419021004,
   "districtId": 9419021,
-  "name": "DABE"
+  "districtName": "PANTAI TIMUR BAGIAN BARAT",
+  "name": "DABE",
+  "postalCode": "99371"
  },
  {
   "id": 9419021006,
   "districtId": 9419021,
-  "name": "VINYABOR"
+  "districtName": "PANTAI TIMUR BAGIAN BARAT",
+  "name": "VINYABOR",
+  "postalCode": "99371"
  },
  {
   "id": 9419021007,
   "districtId": 9419021,
-  "name": "DABE II"
+  "districtName": "PANTAI TIMUR BAGIAN BARAT",
+  "name": "DABE II",
+  "postalCode": "99371"
  },
  {
   "id": 9419021008,
   "districtId": 9419021,
-  "name": "FITO"
+  "districtName": "PANTAI TIMUR BAGIAN BARAT",
+  "name": "FITO",
+  "postalCode": "99371"
  },
  {
   "id": 9419021009,
   "districtId": 9419021,
-  "name": "NENGKE II / NENGKE BARU"
+  "districtName": "PANTAI TIMUR BAGIAN BARAT",
+  "name": "NENGKE II / NENGKE BARU",
+  "postalCode": ""
  },
  {
   "id": 9419021014,
   "districtId": 9419021,
-  "name": "ARTIBE"
+  "districtName": "PANTAI TIMUR BAGIAN BARAT",
+  "name": "ARTIBE",
+  "postalCode": ""
  },
  {
   "id": 9419021017,
   "districtId": 9419021,
-  "name": "BURTIN / ASSYAF"
+  "districtName": "PANTAI TIMUR BAGIAN BARAT",
+  "name": "BURTIN / ASSYAF",
+  "postalCode": ""
  },
  {
   "id": 9419021018,
   "districtId": 9419021,
-  "name": "TAKAR III / KWENTOR"
+  "districtName": "PANTAI TIMUR BAGIAN BARAT",
+  "name": "TAKAR III / KWENTOR",
+  "postalCode": ""
  }
 ]

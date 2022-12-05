@@ -2,31 +2,43 @@
  {
   "id": 1771023001,
   "districtId": 1771023,
-  "name": "JEMBATAN KECIL"
+  "districtName": "SINGARAN PATI",
+  "name": "JEMBATAN KECIL",
+  "postalCode": "38224"
  },
  {
   "id": 1771023002,
   "districtId": 1771023,
-  "name": "PANORAMA"
+  "districtName": "SINGARAN PATI",
+  "name": "PANORAMA",
+  "postalCode": "38226"
  },
  {
   "id": 1771023003,
   "districtId": 1771023,
-  "name": "LINGKAR TIMUR"
+  "districtName": "SINGARAN PATI",
+  "name": "LINGKAR TIMUR",
+  "postalCode": "38221"
  },
  {
   "id": 1771023004,
   "districtId": 1771023,
-  "name": "TIMUR INDAH"
+  "districtName": "SINGARAN PATI",
+  "name": "TIMUR INDAH",
+  "postalCode": "38221"
  },
  {
   "id": 1771023005,
   "districtId": 1771023,
-  "name": "PADANG NANGKA"
+  "districtName": "SINGARAN PATI",
+  "name": "PADANG NANGKA",
+  "postalCode": "38221"
  },
  {
   "id": 1771023006,
   "districtId": 1771023,
-  "name": "DUSUN BESAR"
+  "districtName": "SINGARAN PATI",
+  "name": "DUSUN BESAR",
+  "postalCode": "38229"
  }
 ]

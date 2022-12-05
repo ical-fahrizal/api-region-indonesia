@@ -2,41 +2,57 @@
  {
   "id": 8202041001,
   "districtId": 8202041,
-  "name": "UMERA"
+  "districtName": "PULAU GEBE",
+  "name": "UMERA",
+  "postalCode": "97854"
  },
  {
   "id": 8202041002,
   "districtId": 8202041,
-  "name": "SANAFI"
+  "districtName": "PULAU GEBE",
+  "name": "SANAFI",
+  "postalCode": "97854"
  },
  {
   "id": 8202041003,
   "districtId": 8202041,
-  "name": "KACEPI"
+  "districtName": "PULAU GEBE",
+  "name": "KACEPI",
+  "postalCode": "97854"
  },
  {
   "id": 8202041004,
   "districtId": 8202041,
-  "name": "KAPALEO"
+  "districtName": "PULAU GEBE",
+  "name": "KAPALEO",
+  "postalCode": "97854"
  },
  {
   "id": 8202041005,
   "districtId": 8202041,
-  "name": "UMIYAL"
+  "districtName": "PULAU GEBE",
+  "name": "UMIYAL",
+  "postalCode": "97854"
  },
  {
   "id": 8202041006,
   "districtId": 8202041,
-  "name": "SONOF KACEPO"
+  "districtName": "PULAU GEBE",
+  "name": "SONOF KACEPO",
+  "postalCode": "97854"
  },
  {
   "id": 8202041007,
   "districtId": 8202041,
-  "name": "ELFANUN"
+  "districtName": "PULAU GEBE",
+  "name": "ELFANUN",
+  "postalCode": "97854"
  },
  {
   "id": 8202041008,
   "districtId": 8202041,
-  "name": "YAM"
+  "districtName": "PULAU GEBE",
+  "name": "YAM",
+  "postalCode": ""
  }
 ]

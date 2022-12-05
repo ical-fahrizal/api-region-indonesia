@@ -2,31 +2,43 @@
  {
   "id": 1273011001,
   "districtId": 1273011,
-  "name": "SIMARIMBUN"
+  "districtName": "SIANTAR MARIMBUN",
+  "name": "SIMARIMBUN",
+  "postalCode": "21129"
  },
  {
   "id": 1273011002,
   "districtId": 1273011,
-  "name": "NAGA HUTA"
+  "districtName": "SIANTAR MARIMBUN",
+  "name": "NAGA HUTA",
+  "postalCode": ""
  },
  {
   "id": 1273011003,
   "districtId": 1273011,
-  "name": "PEMATANG MARIHAT"
+  "districtName": "SIANTAR MARIMBUN",
+  "name": "PEMATANG MARIHAT",
+  "postalCode": "21127"
  },
  {
   "id": 1273011004,
   "districtId": 1273011,
-  "name": "TONG MARIMBUN"
+  "districtName": "SIANTAR MARIMBUN",
+  "name": "TONG MARIMBUN",
+  "postalCode": "21129"
  },
  {
   "id": 1273011005,
   "districtId": 1273011,
-  "name": "NAGAHUTA TIMUR"
+  "districtName": "SIANTAR MARIMBUN",
+  "name": "NAGAHUTA TIMUR",
+  "postalCode": ""
  },
  {
   "id": 1273011006,
   "districtId": 1273011,
-  "name": "MARIHAT JAYA"
+  "districtName": "SIANTAR MARIMBUN",
+  "name": "MARIHAT JAYA",
+  "postalCode": "21128"
  }
 ]

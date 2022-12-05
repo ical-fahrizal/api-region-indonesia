@@ -2,61 +2,85 @@
  {
   "id": 3206160007,
   "districtId": 3206160,
-  "name": "BATUSUMUR"
+  "districtName": "MANONJAYA",
+  "name": "BATUSUMUR",
+  "postalCode": "46197"
  },
  {
   "id": 3206160008,
   "districtId": 3206160,
-  "name": "CIHAUR"
+  "districtName": "MANONJAYA",
+  "name": "CIHAUR",
+  "postalCode": "45591"
  },
  {
   "id": 3206160009,
   "districtId": 3206160,
-  "name": "PASIRPANJANG"
+  "districtName": "MANONJAYA",
+  "name": "PASIRPANJANG",
+  "postalCode": "43176"
  },
  {
   "id": 3206160010,
   "districtId": 3206160,
-  "name": "KALIMANGGIS"
+  "districtName": "MANONJAYA",
+  "name": "KALIMANGGIS",
+  "postalCode": "46197"
  },
  {
   "id": 3206160011,
   "districtId": 3206160,
-  "name": "CIBEBER"
+  "districtName": "MANONJAYA",
+  "name": "CIBEBER",
+  "postalCode": "46195"
  },
  {
   "id": 3206160012,
   "districtId": 3206160,
-  "name": "GUNAJAYA"
+  "districtName": "MANONJAYA",
+  "name": "GUNAJAYA",
+  "postalCode": "46197"
  },
  {
   "id": 3206160013,
   "districtId": 3206160,
-  "name": "MARGAHAYU"
+  "districtName": "MANONJAYA",
+  "name": "MARGAHAYU",
+  "postalCode": "17113"
  },
  {
   "id": 3206160014,
   "districtId": 3206160,
-  "name": "KAMULYAN"
+  "districtName": "MANONJAYA",
+  "name": "KAMULYAN",
+  "postalCode": "46197"
  },
  {
   "id": 3206160015,
   "districtId": 3206160,
-  "name": "MANONJAYA"
+  "districtName": "MANONJAYA",
+  "name": "MANONJAYA",
+  "postalCode": "46197"
  },
  {
   "id": 3206160016,
   "districtId": 3206160,
-  "name": "MARGALUYU"
+  "districtName": "MANONJAYA",
+  "name": "MARGALUYU",
+  "postalCode": "43263"
  },
  {
   "id": 3206160017,
   "districtId": 3206160,
-  "name": "CILANGKAP"
+  "districtName": "MANONJAYA",
+  "name": "CILANGKAP",
+  "postalCode": "13870"
  },
  {
   "id": 3206160018,
   "districtId": 3206160,
-  "name": "PASIRBATANG"
+  "districtName": "MANONJAYA",
+  "name": "PASIRBATANG",
+  "postalCode": "46197"
  }
 ]

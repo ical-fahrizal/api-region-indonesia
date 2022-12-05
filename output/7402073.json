@@ -2,21 +2,29 @@
  {
   "id": 7402073001,
   "districtId": 7402073,
-  "name": "WAWESA"
+  "districtName": "BATALAIWORU",
+  "name": "WAWESA",
+  "postalCode": "93614"
  },
  {
   "id": 7402073002,
   "districtId": 7402073,
-  "name": "LAIWORU"
+  "districtName": "BATALAIWORU",
+  "name": "LAIWORU",
+  "postalCode": "93614"
  },
  {
   "id": 7402073003,
   "districtId": 7402073,
-  "name": "WAKORAMBU"
+  "districtName": "BATALAIWORU",
+  "name": "WAKORAMBU",
+  "postalCode": "93614"
  },
  {
   "id": 7402073004,
   "districtId": 7402073,
-  "name": "SIDODADI"
+  "districtName": "BATALAIWORU",
+  "name": "SIDODADI",
+  "postalCode": "24582"
  }
 ]

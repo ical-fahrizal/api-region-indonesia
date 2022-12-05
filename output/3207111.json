@@ -2,46 +2,64 @@
  {
   "id": 3207111001,
   "districtId": 3207111,
-  "name": "KUTAWARINGIN"
+  "districtName": "PURWADADI",
+  "name": "KUTAWARINGIN",
+  "postalCode": "40911"
  },
  {
   "id": 3207111002,
   "districtId": 3207111,
-  "name": "BANTARDAWA"
+  "districtName": "PURWADADI",
+  "name": "BANTARDAWA",
+  "postalCode": "46385"
  },
  {
   "id": 3207111003,
   "districtId": 3207111,
-  "name": "PASIRLAWANG"
+  "districtName": "PURWADADI",
+  "name": "PASIRLAWANG",
+  "postalCode": "46385"
  },
  {
   "id": 3207111004,
   "districtId": 3207111,
-  "name": "PURWADADI"
+  "districtName": "PURWADADI",
+  "name": "PURWADADI",
+  "postalCode": "46385"
  },
  {
   "id": 3207111005,
   "districtId": 3207111,
-  "name": "PURWAJAYA"
+  "districtName": "PURWADADI",
+  "name": "PURWAJAYA",
+  "postalCode": "34682"
  },
  {
   "id": 3207111006,
   "districtId": 3207111,
-  "name": "SIDARAHAYU"
+  "districtName": "PURWADADI",
+  "name": "SIDARAHAYU",
+  "postalCode": "46385"
  },
  {
   "id": 3207111007,
   "districtId": 3207111,
-  "name": "KARANGPANINGAL"
+  "districtName": "PURWADADI",
+  "name": "KARANGPANINGAL",
+  "postalCode": "46255"
  },
  {
   "id": 3207111008,
   "districtId": 3207111,
-  "name": "SUKAMULYA"
+  "districtName": "PURWADADI",
+  "name": "SUKAMULYA",
+  "postalCode": "30657"
  },
  {
   "id": 3207111009,
   "districtId": 3207111,
-  "name": "PADARINGAN"
+  "districtName": "PURWADADI",
+  "name": "PADARINGAN",
+  "postalCode": "46385"
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 3273040001,
   "districtId": 3273040,
-  "name": "CIBADUYUT KIDUL"
+  "districtName": "BOJONGLOA KIDUL",
+  "name": "CIBADUYUT KIDUL",
+  "postalCode": "40239"
  },
  {
   "id": 3273040002,
   "districtId": 3273040,
-  "name": "CIBADUYUT WETAN"
+  "districtName": "BOJONGLOA KIDUL",
+  "name": "CIBADUYUT WETAN",
+  "postalCode": "40238"
  },
  {
   "id": 3273040003,
   "districtId": 3273040,
-  "name": "MEKAR WANGI"
+  "districtName": "BOJONGLOA KIDUL",
+  "name": "MEKAR WANGI",
+  "postalCode": "30681"
  },
  {
   "id": 3273040004,
   "districtId": 3273040,
-  "name": "CIBADUYUT"
+  "districtName": "BOJONGLOA KIDUL",
+  "name": "CIBADUYUT",
+  "postalCode": "40236"
  },
  {
   "id": 3273040005,
   "districtId": 3273040,
-  "name": "KEBON LEGA"
+  "districtName": "BOJONGLOA KIDUL",
+  "name": "KEBON LEGA",
+  "postalCode": "40235"
  },
  {
   "id": 3273040006,
   "districtId": 3273040,
-  "name": "SITUSAEUR"
+  "districtName": "BOJONGLOA KIDUL",
+  "name": "SITUSAEUR",
+  "postalCode": "40234"
  }
 ]

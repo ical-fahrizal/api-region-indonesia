@@ -2,36 +2,50 @@
  {
   "id": 7408010005,
   "districtId": 7408010,
-  "name": "RANTE BARU"
+  "districtName": "RANTEANGIN",
+  "name": "RANTE BARU",
+  "postalCode": "93956"
  },
  {
   "id": 7408010006,
   "districtId": 7408010,
-  "name": "RANTEANGIN"
+  "districtName": "RANTEANGIN",
+  "name": "RANTEANGIN",
+  "postalCode": ""
  },
  {
   "id": 7408010007,
   "districtId": 7408010,
-  "name": "POHU"
+  "districtName": "RANTEANGIN",
+  "name": "POHU",
+  "postalCode": "93956"
  },
  {
   "id": 7408010008,
   "districtId": 7408010,
-  "name": "TOROTUO"
+  "districtName": "RANTEANGIN",
+  "name": "TOROTUO",
+  "postalCode": ""
  },
  {
   "id": 7408010016,
   "districtId": 7408010,
-  "name": "LAWEKARA"
+  "districtName": "RANTEANGIN",
+  "name": "LAWEKARA",
+  "postalCode": "93956"
  },
  {
   "id": 7408010017,
   "districtId": 7408010,
-  "name": "LANDOLIA"
+  "districtName": "RANTEANGIN",
+  "name": "LANDOLIA",
+  "postalCode": "93956"
  },
  {
   "id": 7408010018,
   "districtId": 7408010,
-  "name": "MAROKO"
+  "districtName": "RANTEANGIN",
+  "name": "MAROKO",
+  "postalCode": "44176"
  }
 ]

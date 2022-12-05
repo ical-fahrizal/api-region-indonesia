@@ -2,11 +2,15 @@
  {
   "id": 1303140001,
   "districtId": 1303140,
-  "name": "MUARO PINGAI"
+  "districtName": "JUNJUNG SIRIH",
+  "name": "MUARO PINGAI",
+  "postalCode": "27388"
  },
  {
   "id": 1303140002,
   "districtId": 1303140,
-  "name": "PANINGGAHAN"
+  "districtName": "JUNJUNG SIRIH",
+  "name": "PANINGGAHAN",
+  "postalCode": "27388"
  }
 ]

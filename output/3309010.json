@@ -2,41 +2,57 @@
  {
   "id": 3309010001,
   "districtId": 3309010,
-  "name": "TLOGOLELE"
+  "districtName": "SELO",
+  "name": "TLOGOLELE",
+  "postalCode": "57363"
  },
  {
   "id": 3309010002,
   "districtId": 3309010,
-  "name": "KLAKAH"
+  "districtName": "SELO",
+  "name": "KLAKAH",
+  "postalCode": "57363"
  },
  {
   "id": 3309010003,
   "districtId": 3309010,
-  "name": "JRAKAH"
+  "districtName": "SELO",
+  "name": "JRAKAH",
+  "postalCode": "54224"
  },
  {
   "id": 3309010004,
   "districtId": 3309010,
-  "name": "LENCOH"
+  "districtName": "SELO",
+  "name": "LENCOH",
+  "postalCode": "57363"
  },
  {
   "id": 3309010005,
   "districtId": 3309010,
-  "name": "SUROTELENG"
+  "districtName": "SELO",
+  "name": "SUROTELENG",
+  "postalCode": "57363"
  },
  {
   "id": 3309010006,
   "districtId": 3309010,
-  "name": "SAMIRAN"
+  "districtName": "SELO",
+  "name": "SAMIRAN",
+  "postalCode": "57363"
  },
  {
   "id": 3309010007,
   "districtId": 3309010,
-  "name": "SELO"
+  "districtName": "SELO",
+  "name": "SELO",
+  "postalCode": "51364"
  },
  {
   "id": 3309010008,
   "districtId": 3309010,
-  "name": "TARUBATANG"
+  "districtName": "SELO",
+  "name": "TARUBATANG",
+  "postalCode": "57363"
  }
 ]

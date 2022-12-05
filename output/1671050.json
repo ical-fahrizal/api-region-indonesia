@@ -2,56 +2,78 @@
  {
   "id": 1671050001,
   "districtId": 1671050,
-  "name": "18 ILIR"
+  "districtName": "ILIR TIMUR I",
+  "name": "18 ILIR",
+  "postalCode": "30121"
  },
  {
   "id": 1671050002,
   "districtId": 1671050,
-  "name": "16 ILIR"
+  "districtName": "ILIR TIMUR I",
+  "name": "16 ILIR",
+  "postalCode": "30122"
  },
  {
   "id": 1671050003,
   "districtId": 1671050,
-  "name": "13 ILIR"
+  "districtName": "ILIR TIMUR I",
+  "name": "13 ILIR",
+  "postalCode": "30123"
  },
  {
   "id": 1671050004,
   "districtId": 1671050,
-  "name": "14 ILIR"
+  "districtName": "ILIR TIMUR I",
+  "name": "14 ILIR",
+  "postalCode": "30124"
  },
  {
   "id": 1671050005,
   "districtId": 1671050,
-  "name": "15 ILIR"
+  "districtName": "ILIR TIMUR I",
+  "name": "15 ILIR",
+  "postalCode": "30124"
  },
  {
   "id": 1671050006,
   "districtId": 1671050,
-  "name": "17 ILIR"
+  "districtName": "ILIR TIMUR I",
+  "name": "17 ILIR",
+  "postalCode": "30125"
  },
  {
   "id": 1671050007,
   "districtId": 1671050,
-  "name": "KEPANDEAN BARU"
+  "districtName": "ILIR TIMUR I",
+  "name": "KEPANDEAN BARU",
+  "postalCode": "30125"
  },
  {
   "id": 1671050008,
   "districtId": 1671050,
-  "name": "20 ILIR I"
+  "districtName": "ILIR TIMUR I",
+  "name": "20 ILIR I",
+  "postalCode": "30126"
  },
  {
   "id": 1671050009,
   "districtId": 1671050,
-  "name": "SEI PANGERAN"
+  "districtName": "ILIR TIMUR I",
+  "name": "SEI PANGERAN",
+  "postalCode": "30121"
  },
  {
   "id": 1671050011,
   "districtId": 1671050,
-  "name": "20 ILIR III"
+  "districtName": "ILIR TIMUR I",
+  "name": "20 ILIR III",
+  "postalCode": "30129"
  },
  {
   "id": 1671050017,
   "districtId": 1671050,
-  "name": "20 ILIR IV"
+  "districtName": "ILIR TIMUR I",
+  "name": "20 ILIR IV",
+  "postalCode": "30128"
  }
 ]

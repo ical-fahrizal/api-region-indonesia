@@ -2,71 +2,99 @@
  {
   "id": 3203030001,
   "districtId": 3203030,
-  "name": "KARYABAKTI"
+  "districtName": "CIDAUN",
+  "name": "KARYABAKTI",
+  "postalCode": "41354"
  },
  {
   "id": 3203030002,
   "districtId": 3203030,
-  "name": "SUKAPURA"
+  "districtName": "CIDAUN",
+  "name": "SUKAPURA",
+  "postalCode": "35597"
  },
  {
   "id": 3203030003,
   "districtId": 3203030,
-  "name": "CISALAK"
+  "districtName": "CIDAUN",
+  "name": "CISALAK",
+  "postalCode": "43262"
  },
  {
   "id": 3203030004,
   "districtId": 3203030,
-  "name": "JAYAPURA"
+  "districtName": "CIDAUN",
+  "name": "JAYAPURA",
+  "postalCode": "32381"
  },
  {
   "id": 3203030005,
   "districtId": 3203030,
-  "name": "KERTAJADI"
+  "districtName": "CIDAUN",
+  "name": "KERTAJADI",
+  "postalCode": "43275"
  },
  {
   "id": 3203030006,
   "districtId": 3203030,
-  "name": "CIDAMAR"
+  "districtName": "CIDAUN",
+  "name": "CIDAMAR",
+  "postalCode": "43275"
  },
  {
   "id": 3203030007,
   "districtId": 3203030,
-  "name": "KARANGWANGI"
+  "districtName": "CIDAUN",
+  "name": "KARANGWANGI",
+  "postalCode": "41253"
  },
  {
   "id": 3203030008,
   "districtId": 3203030,
-  "name": "CIMARAGANG"
+  "districtName": "CIDAUN",
+  "name": "CIMARAGANG",
+  "postalCode": "43275"
  },
  {
   "id": 3203030009,
   "districtId": 3203030,
-  "name": "GELARPAWITAN"
+  "districtName": "CIDAUN",
+  "name": "GELARPAWITAN",
+  "postalCode": "43275"
  },
  {
   "id": 3203030010,
   "districtId": 3203030,
-  "name": "NEGLASARI"
+  "districtName": "CIDAUN",
+  "name": "NEGLASARI",
+  "postalCode": "35452"
  },
  {
   "id": 3203030011,
   "districtId": 3203030,
-  "name": "CIBULUH"
+  "districtName": "CIDAUN",
+  "name": "CIBULUH",
+  "postalCode": "16151"
  },
  {
   "id": 3203030012,
   "districtId": 3203030,
-  "name": "PUNCAKBARU"
+  "districtName": "CIDAUN",
+  "name": "PUNCAKBARU",
+  "postalCode": "43275"
  },
  {
   "id": 3203030013,
   "districtId": 3203030,
-  "name": "MEKARJAYA"
+  "districtName": "CIDAUN",
+  "name": "MEKARJAYA",
+  "postalCode": "30653"
  },
  {
   "id": 3203030014,
   "districtId": 3203030,
-  "name": "GELARWANGI"
+  "districtName": "CIDAUN",
+  "name": "GELARWANGI",
+  "postalCode": "43275"
  }
 ]

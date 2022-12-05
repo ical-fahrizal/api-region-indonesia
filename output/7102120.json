@@ -2,51 +2,71 @@
  {
   "id": 7102120010,
   "districtId": 7102120,
-  "name": "SENDANGAN TENGAH"
+  "districtName": "KAWANGKOAN",
+  "name": "SENDANGAN TENGAH",
+  "postalCode": "95692"
  },
  {
   "id": 7102120012,
   "districtId": 7102120,
-  "name": "KINALI"
+  "districtName": "KAWANGKOAN",
+  "name": "KINALI",
+  "postalCode": "22564"
  },
  {
   "id": 7102120013,
   "districtId": 7102120,
-  "name": "TONDEGESAN"
+  "districtName": "KAWANGKOAN",
+  "name": "TONDEGESAN",
+  "postalCode": "95692"
  },
  {
   "id": 7102120015,
   "districtId": 7102120,
-  "name": "KANONANG TIGA"
+  "districtName": "KAWANGKOAN",
+  "name": "KANONANG TIGA",
+  "postalCode": "95692"
  },
  {
   "id": 7102120025,
   "districtId": 7102120,
-  "name": "SENDANGAN SELATAN"
+  "districtName": "KAWANGKOAN",
+  "name": "SENDANGAN SELATAN",
+  "postalCode": "95692"
  },
  {
   "id": 7102120026,
   "districtId": 7102120,
-  "name": "SENDANGAN"
+  "districtName": "KAWANGKOAN",
+  "name": "SENDANGAN",
+  "postalCode": "95682"
  },
  {
   "id": 7102120027,
   "districtId": 7102120,
-  "name": "UNER SATU"
+  "districtName": "KAWANGKOAN",
+  "name": "UNER SATU",
+  "postalCode": "95692"
  },
  {
   "id": 7102120028,
   "districtId": 7102120,
-  "name": "KINALI SATU"
+  "districtName": "KAWANGKOAN",
+  "name": "KINALI SATU",
+  "postalCode": "95692"
  },
  {
   "id": 7102120029,
   "districtId": 7102120,
-  "name": "TONDEGESAN SATU"
+  "districtName": "KAWANGKOAN",
+  "name": "TONDEGESAN SATU",
+  "postalCode": ""
  },
  {
   "id": 7102120030,
   "districtId": 7102120,
-  "name": "TONDEGESAN DUA"
+  "districtName": "KAWANGKOAN",
+  "name": "TONDEGESAN DUA",
+  "postalCode": ""
  }
 ]

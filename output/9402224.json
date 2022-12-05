@@ -2,26 +2,36 @@
  {
   "id": 9402224004,
   "districtId": 9402224,
-  "name": "TANAH MERAH"
+  "districtName": "MOLAGALOME",
+  "name": "TANAH MERAH",
+  "postalCode": "24652"
  },
  {
   "id": 9402224005,
   "districtId": 9402224,
-  "name": "TOWAGAME"
+  "districtName": "MOLAGALOME",
+  "name": "TOWAGAME",
+  "postalCode": "99557"
  },
  {
   "id": 9402224006,
   "districtId": 9402224,
-  "name": "MOLAGALOME"
+  "districtName": "MOLAGALOME",
+  "name": "MOLAGALOME",
+  "postalCode": "99557"
  },
  {
   "id": 9402224007,
   "districtId": 9402224,
-  "name": "KWIGILUK"
+  "districtName": "MOLAGALOME",
+  "name": "KWIGILUK",
+  "postalCode": "99557"
  },
  {
   "id": 9402224009,
   "districtId": 9402224,
-  "name": "OKWA"
+  "districtName": "MOLAGALOME",
+  "name": "OKWA",
+  "postalCode": "99557"
  }
 ]

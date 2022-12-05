@@ -2,146 +2,204 @@
  {
   "id": 1112040001,
   "districtId": 1112040,
-  "name": "KEDAI SUSOH"
+  "districtName": "SUSOH",
+  "name": "KEDAI SUSOH",
+  "postalCode": "23765"
  },
  {
   "id": 1112040002,
   "districtId": 1112040,
-  "name": "PANJANG BARU"
+  "districtName": "SUSOH",
+  "name": "PANJANG BARU",
+  "postalCode": "23765"
  },
  {
   "id": 1112040003,
   "districtId": 1112040,
-  "name": "KEDAI PALAK KERAMBIL"
+  "districtName": "SUSOH",
+  "name": "KEDAI PALAK KERAMBIL",
+  "postalCode": "23765"
  },
  {
   "id": 1112040004,
   "districtId": 1112040,
-  "name": "LADANG"
+  "districtName": "SUSOH",
+  "name": "LADANG",
+  "postalCode": "23765"
  },
  {
   "id": 1112040005,
   "districtId": 1112040,
-  "name": "PADANG PANJANG"
+  "districtName": "SUSOH",
+  "name": "PADANG PANJANG",
+  "postalCode": "23765"
  },
  {
   "id": 1112040006,
   "districtId": 1112040,
-  "name": "RUBEK MEUPAYONG"
+  "districtName": "SUSOH",
+  "name": "RUBEK MEUPAYONG",
+  "postalCode": "23765"
  },
  {
   "id": 1112040007,
   "districtId": 1112040,
-  "name": "COT MANCANG"
+  "districtName": "SUSOH",
+  "name": "COT MANCANG",
+  "postalCode": "23362"
  },
  {
   "id": 1112040008,
   "districtId": 1112040,
-  "name": "LAMPOH DRIEN"
+  "districtName": "SUSOH",
+  "name": "LAMPOH DRIEN",
+  "postalCode": "23765"
  },
  {
   "id": 1112040009,
   "districtId": 1112040,
-  "name": "MEUNASAH"
+  "districtName": "SUSOH",
+  "name": "MEUNASAH",
+  "postalCode": "24182"
  },
  {
   "id": 1112040010,
   "districtId": 1112040,
-  "name": "BLANG DALAM"
+  "districtName": "SUSOH",
+  "name": "BLANG DALAM",
+  "postalCode": "23767"
  },
  {
   "id": 1112040011,
   "districtId": 1112040,
-  "name": "PALAK HULU"
+  "districtName": "SUSOH",
+  "name": "PALAK HULU",
+  "postalCode": "23765"
  },
  {
   "id": 1112040012,
   "districtId": 1112040,
-  "name": "PALAK HILIR"
+  "districtName": "SUSOH",
+  "name": "PALAK HILIR",
+  "postalCode": "23765"
  },
  {
   "id": 1112040013,
   "districtId": 1112040,
-  "name": "RUMAH DUA LAPIS"
+  "districtName": "SUSOH",
+  "name": "RUMAH DUA LAPIS",
+  "postalCode": "23765"
  },
  {
   "id": 1112040014,
   "districtId": 1112040,
-  "name": "DURIAN JANGEK"
+  "districtName": "SUSOH",
+  "name": "DURIAN JANGEK",
+  "postalCode": "23765"
  },
  {
   "id": 1112040015,
   "districtId": 1112040,
-  "name": "BAHARU"
+  "districtName": "SUSOH",
+  "name": "BAHARU",
+  "postalCode": "23764"
  },
  {
   "id": 1112040016,
   "districtId": 1112040,
-  "name": "PINANG"
+  "districtName": "SUSOH",
+  "name": "PINANG",
+  "postalCode": "23765"
  },
  {
   "id": 1112040017,
   "districtId": 1112040,
-  "name": "RUMAH PANJANG"
+  "districtName": "SUSOH",
+  "name": "RUMAH PANJANG",
+  "postalCode": "23765"
  },
  {
   "id": 1112040018,
   "districtId": 1112040,
-  "name": "PADANG BARU"
+  "districtName": "SUSOH",
+  "name": "PADANG BARU",
+  "postalCode": "23761"
  },
  {
   "id": 1112040019,
   "districtId": 1112040,
-  "name": "PULAU KAYU"
+  "districtName": "SUSOH",
+  "name": "PULAU KAYU",
+  "postalCode": "23765"
  },
  {
   "id": 1112040020,
   "districtId": 1112040,
-  "name": "UJUNG PADANG"
+  "districtName": "SUSOH",
+  "name": "UJUNG PADANG",
+  "postalCode": "23773"
  },
  {
   "id": 1112040021,
   "districtId": 1112040,
-  "name": "PAWOH"
+  "districtName": "SUSOH",
+  "name": "PAWOH",
+  "postalCode": "23761"
  },
  {
   "id": 1112040022,
   "districtId": 1112040,
-  "name": "BARAT"
+  "districtName": "SUSOH",
+  "name": "BARAT",
+  "postalCode": "24182"
  },
  {
   "id": 1112040023,
   "districtId": 1112040,
-  "name": "DURIAN RAMPAK"
+  "districtName": "SUSOH",
+  "name": "DURIAN RAMPAK",
+  "postalCode": "23765"
  },
  {
   "id": 1112040024,
   "districtId": 1112040,
-  "name": "PANTAI PERAK"
+  "districtName": "SUSOH",
+  "name": "PANTAI PERAK",
+  "postalCode": "23765"
  },
  {
   "id": 1112040025,
   "districtId": 1112040,
-  "name": "PADANG HILIR"
+  "districtName": "SUSOH",
+  "name": "PADANG HILIR",
+  "postalCode": "23765"
  },
  {
   "id": 1112040026,
   "districtId": 1112040,
-  "name": "GADANG"
+  "districtName": "SUSOH",
+  "name": "GADANG",
+  "postalCode": "23752"
  },
  {
   "id": 1112040027,
   "districtId": 1112040,
-  "name": "TANGAH"
+  "districtName": "SUSOH",
+  "name": "TANGAH",
+  "postalCode": "23765"
  },
  {
   "id": 1112040028,
   "districtId": 1112040,
-  "name": "KEPALA BANDAR"
+  "districtName": "SUSOH",
+  "name": "KEPALA BANDAR",
+  "postalCode": "23765"
  },
  {
   "id": 1112040029,
   "districtId": 1112040,
-  "name": "GEULIMA JAYA"
+  "districtName": "SUSOH",
+  "name": "GEULIMA JAYA",
+  "postalCode": ""
  }
 ]

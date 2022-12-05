@@ -2,31 +2,43 @@
  {
   "id": 1301040003,
   "districtId": 1301040,
-  "name": "SIRILOGUI"
+  "districtName": "SIBERUT UTARA",
+  "name": "SIRILOGUI",
+  "postalCode": "25394"
  },
  {
   "id": 1301040004,
   "districtId": 1301040,
-  "name": "MUARA SIKABALUAN"
+  "districtName": "SIBERUT UTARA",
+  "name": "MUARA SIKABALUAN",
+  "postalCode": ""
  },
  {
   "id": 1301040005,
   "districtId": 1301040,
-  "name": "MONGAN POULA"
+  "districtName": "SIBERUT UTARA",
+  "name": "MONGAN POULA",
+  "postalCode": ""
  },
  {
   "id": 1301040006,
   "districtId": 1301040,
-  "name": "SOTBOYAK"
+  "districtName": "SIBERUT UTARA",
+  "name": "SOTBOYAK",
+  "postalCode": "25394"
  },
  {
   "id": 1301040007,
   "districtId": 1301040,
-  "name": "BOJAKAN"
+  "districtName": "SIBERUT UTARA",
+  "name": "BOJAKAN",
+  "postalCode": "25394"
  },
  {
   "id": 1301040009,
   "districtId": 1301040,
-  "name": "MALANCAN"
+  "districtName": "SIBERUT UTARA",
+  "name": "MALANCAN",
+  "postalCode": ""
  }
 ]

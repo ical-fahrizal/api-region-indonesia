@@ -2,81 +2,113 @@
  {
   "id": 1101030001,
   "districtId": 1101030,
-  "name": "DIHIT"
+  "districtName": "SIMEULUE TENGAH",
+  "name": "DIHIT",
+  "postalCode": "23894"
  },
  {
   "id": 1101030002,
   "districtId": 1101030,
-  "name": "LAUKE"
+  "districtName": "SIMEULUE TENGAH",
+  "name": "LAUKE",
+  "postalCode": "23894"
  },
  {
   "id": 1101030003,
   "districtId": 1101030,
-  "name": "LAMBAYA"
+  "districtName": "SIMEULUE TENGAH",
+  "name": "LAMBAYA",
+  "postalCode": "23894"
  },
  {
   "id": 1101030004,
   "districtId": 1101030,
-  "name": "LAKUBANG"
+  "districtName": "SIMEULUE TENGAH",
+  "name": "LAKUBANG",
+  "postalCode": "23894"
  },
  {
   "id": 1101030005,
   "districtId": 1101030,
-  "name": "KAMPUNG AIE"
+  "districtName": "SIMEULUE TENGAH",
+  "name": "KAMPUNG AIE",
+  "postalCode": "23894"
  },
  {
   "id": 1101030006,
   "districtId": 1101030,
-  "name": "LAUREE"
+  "districtName": "SIMEULUE TENGAH",
+  "name": "LAUREE",
+  "postalCode": ""
  },
  {
   "id": 1101030007,
   "districtId": 1101030,
-  "name": "LATITIK"
+  "districtName": "SIMEULUE TENGAH",
+  "name": "LATITIK",
+  "postalCode": "23894"
  },
  {
   "id": 1101030008,
   "districtId": 1101030,
-  "name": "LAMAYANG"
+  "districtName": "SIMEULUE TENGAH",
+  "name": "LAMAYANG",
+  "postalCode": "23894"
  },
  {
   "id": 1101030009,
   "districtId": 1101030,
-  "name": "WEL WEL"
+  "districtName": "SIMEULUE TENGAH",
+  "name": "WEL WEL",
+  "postalCode": "23894"
  },
  {
   "id": 1101030020,
   "districtId": 1101030,
-  "name": "SITUFA JAYA"
+  "districtName": "SIMEULUE TENGAH",
+  "name": "SITUFA JAYA",
+  "postalCode": "23894"
  },
  {
   "id": 1101030021,
   "districtId": 1101030,
-  "name": "PUTRA JAYA"
+  "districtName": "SIMEULUE TENGAH",
+  "name": "PUTRA JAYA",
+  "postalCode": "23894"
  },
  {
   "id": 1101030022,
   "districtId": 1101030,
-  "name": "LUAN SORIP"
+  "districtName": "SIMEULUE TENGAH",
+  "name": "LUAN SORIP",
+  "postalCode": "23894"
  },
  {
   "id": 1101030023,
   "districtId": 1101030,
-  "name": "SUAK BARU"
+  "districtName": "SIMEULUE TENGAH",
+  "name": "SUAK BARU",
+  "postalCode": "23894"
  },
  {
   "id": 1101030024,
   "districtId": 1101030,
-  "name": "SEBBE"
+  "districtName": "SIMEULUE TENGAH",
+  "name": "SEBBE",
+  "postalCode": "23894"
  },
  {
   "id": 1101030025,
   "districtId": 1101030,
-  "name": "KUTA BARU"
+  "districtName": "SIMEULUE TENGAH",
+  "name": "KUTA BARU",
+  "postalCode": "20998"
  },
  {
   "id": 1101030026,
   "districtId": 1101030,
-  "name": "WEL LANGKOM"
+  "districtName": "SIMEULUE TENGAH",
+  "name": "WEL LANGKOM",
+  "postalCode": ""
  }
 ]

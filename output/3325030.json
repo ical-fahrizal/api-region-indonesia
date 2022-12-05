@@ -2,86 +2,120 @@
  {
   "id": 3325030001,
   "districtId": 3325030,
-  "name": "GERLANG"
+  "districtName": "BLADO",
+  "name": "GERLANG",
+  "postalCode": "51255"
  },
  {
   "id": 3325030002,
   "districtId": 3325030,
-  "name": "KALITENGAH"
+  "districtName": "BLADO",
+  "name": "KALITENGAH",
+  "postalCode": "45153"
  },
  {
   "id": 3325030003,
   "districtId": 3325030,
-  "name": "KEMBANGLANGIT"
+  "districtName": "BLADO",
+  "name": "KEMBANGLANGIT",
+  "postalCode": "51255"
  },
  {
   "id": 3325030004,
   "districtId": 3325030,
-  "name": "GONDANG"
+  "districtName": "BLADO",
+  "name": "GONDANG",
+  "postalCode": "51255"
  },
  {
   "id": 3325030005,
   "districtId": 3325030,
-  "name": "BISMO"
+  "districtName": "BLADO",
+  "name": "BISMO",
+  "postalCode": "51255"
  },
  {
   "id": 3325030007,
   "districtId": 3325030,
-  "name": "KALISARI"
+  "districtName": "BLADO",
+  "name": "KALISARI",
+  "postalCode": "35686"
  },
  {
   "id": 3325030009,
   "districtId": 3325030,
-  "name": "BESANI"
+  "districtName": "BLADO",
+  "name": "BESANI",
+  "postalCode": "51255"
  },
  {
   "id": 3325030010,
   "districtId": 3325030,
-  "name": "WONOBODRO"
+  "districtName": "BLADO",
+  "name": "WONOBODRO",
+  "postalCode": "51255"
  },
  {
   "id": 3325030011,
   "districtId": 3325030,
-  "name": "BAWANG"
+  "districtName": "BLADO",
+  "name": "BAWANG",
+  "postalCode": "21168"
  },
  {
   "id": 3325030012,
   "districtId": 3325030,
-  "name": "PESANTREN"
+  "districtName": "BLADO",
+  "name": "PESANTREN",
+  "postalCode": "51255"
  },
  {
   "id": 3325030013,
   "districtId": 3325030,
-  "name": "KAMBANGAN"
+  "districtName": "BLADO",
+  "name": "KAMBANGAN",
+  "postalCode": "54261"
  },
  {
   "id": 3325030014,
   "districtId": 3325030,
-  "name": "KEPUTON"
+  "districtName": "BLADO",
+  "name": "KEPUTON",
+  "postalCode": "51255"
  },
  {
   "id": 3325030015,
   "districtId": 3325030,
-  "name": "BLADO"
+  "districtName": "BLADO",
+  "name": "BLADO",
+  "postalCode": "51255"
  },
  {
   "id": 3325030016,
   "districtId": 3325030,
-  "name": "COKRO"
+  "districtName": "BLADO",
+  "name": "COKRO",
+  "postalCode": "51255"
  },
  {
   "id": 3325030020,
   "districtId": 3325030,
-  "name": "KALIPANCUR"
+  "districtName": "BLADO",
+  "name": "KALIPANCUR",
+  "postalCode": "51255"
  },
  {
   "id": 3325030021,
   "districtId": 3325030,
-  "name": "SELOPAJANG BARAT"
+  "districtName": "BLADO",
+  "name": "SELOPAJANG BARAT",
+  "postalCode": "51255"
  },
  {
   "id": 3325030022,
   "districtId": 3325030,
-  "name": "SELOPAJANG TIMUR"
+  "districtName": "BLADO",
+  "name": "SELOPAJANG TIMUR",
+  "postalCode": "51255"
  }
 ]

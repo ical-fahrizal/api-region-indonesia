@@ -2,36 +2,50 @@
  {
   "id": 1673020001,
   "districtId": 1673020,
-  "name": "BURUNG DINANG"
+  "districtName": "DEMPO UTARA",
+  "name": "BURUNG DINANG",
+  "postalCode": "31521"
  },
  {
   "id": 1673020002,
   "districtId": 1673020,
-  "name": "MUARA SIBAN"
+  "districtName": "DEMPO UTARA",
+  "name": "MUARA SIBAN",
+  "postalCode": "31521"
  },
  {
   "id": 1673020003,
   "districtId": 1673020,
-  "name": "REBA TINGGI"
+  "districtName": "DEMPO UTARA",
+  "name": "REBA TINGGI",
+  "postalCode": "31521"
  },
  {
   "id": 1673020004,
   "districtId": 1673020,
-  "name": "JANGKAR MAS"
+  "districtName": "DEMPO UTARA",
+  "name": "JANGKAR MAS",
+  "postalCode": "31521"
  },
  {
   "id": 1673020005,
   "districtId": 1673020,
-  "name": "PAGAR WANGI"
+  "districtName": "DEMPO UTARA",
+  "name": "PAGAR WANGI",
+  "postalCode": "31515"
  },
  {
   "id": 1673020006,
   "districtId": 1673020,
-  "name": "BUMI AGUNG"
+  "districtName": "DEMPO UTARA",
+  "name": "BUMI AGUNG",
+  "postalCode": "31521"
  },
  {
   "id": 1673020007,
   "districtId": 1673020,
-  "name": "AGUNG LAWANGAN"
+  "districtName": "DEMPO UTARA",
+  "name": "AGUNG LAWANGAN",
+  "postalCode": "31521"
  }
 ]

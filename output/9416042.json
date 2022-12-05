@@ -2,51 +2,71 @@
  {
   "id": 9416042001,
   "districtId": 9416042,
-  "name": "TANGMA"
+  "districtName": "TANGMA",
+  "name": "TANGMA",
+  "postalCode": "99571"
  },
  {
   "id": 9416042002,
   "districtId": 9416042,
-  "name": "WAMAREK"
+  "districtName": "TANGMA",
+  "name": "WAMAREK",
+  "postalCode": "99571"
  },
  {
   "id": 9416042003,
   "districtId": 9416042,
-  "name": "HIPELA"
+  "districtName": "TANGMA",
+  "name": "HIPELA",
+  "postalCode": "99571"
  },
  {
   "id": 9416042004,
   "districtId": 9416042,
-  "name": "HUEWI"
+  "districtName": "TANGMA",
+  "name": "HUEWI",
+  "postalCode": "99571"
  },
  {
   "id": 9416042005,
   "districtId": 9416042,
-  "name": "PUNNO"
+  "districtName": "TANGMA",
+  "name": "PUNNO",
+  "postalCode": "99571"
  },
  {
   "id": 9416042006,
   "districtId": 9416042,
-  "name": "SIMEKA"
+  "districtName": "TANGMA",
+  "name": "SIMEKA",
+  "postalCode": "99571"
  },
  {
   "id": 9416042007,
   "districtId": 9416042,
-  "name": "YELEAS"
+  "districtName": "TANGMA",
+  "name": "YELEAS",
+  "postalCode": "99571"
  },
  {
   "id": 9416042008,
   "districtId": 9416042,
-  "name": "ALELENG"
+  "districtName": "TANGMA",
+  "name": "ALELENG",
+  "postalCode": "99571"
  },
  {
   "id": 9416042009,
   "districtId": 9416042,
-  "name": "YALIMO"
+  "districtName": "TANGMA",
+  "name": "YALIMO",
+  "postalCode": "99571"
  },
  {
   "id": 9416042010,
   "districtId": 9416042,
-  "name": "HELO"
+  "districtName": "TANGMA",
+  "name": "HELO",
+  "postalCode": "99571"
  }
 ]

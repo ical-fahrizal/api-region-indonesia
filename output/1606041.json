@@ -2,76 +2,106 @@
  {
   "id": 1606041001,
   "districtId": 1606041,
-  "name": "DANAU CALA"
+  "districtName": "LAIS",
+  "name": "DANAU CALA",
+  "postalCode": "30757"
  },
  {
   "id": 1606041002,
   "districtId": 1606041,
-  "name": "RANTAU KEROYA"
+  "districtName": "LAIS",
+  "name": "RANTAU KEROYA",
+  "postalCode": "30757"
  },
  {
   "id": 1606041003,
   "districtId": 1606041,
-  "name": "TELUK KIJING I"
+  "districtName": "LAIS",
+  "name": "TELUK KIJING I",
+  "postalCode": "30757"
  },
  {
   "id": 1606041004,
   "districtId": 1606041,
-  "name": "TANJUNG AGUNG BARAT"
+  "districtName": "LAIS",
+  "name": "TANJUNG AGUNG BARAT",
+  "postalCode": "30757"
  },
  {
   "id": 1606041005,
   "districtId": 1606041,
-  "name": "TANJUNG AGUNG TIMUR"
+  "districtName": "LAIS",
+  "name": "TANJUNG AGUNG TIMUR",
+  "postalCode": "30757"
  },
  {
   "id": 1606041006,
   "districtId": 1606041,
-  "name": "TANJUNG AGUNG UTARA"
+  "districtName": "LAIS",
+  "name": "TANJUNG AGUNG UTARA",
+  "postalCode": "30757"
  },
  {
   "id": 1606041007,
   "districtId": 1606041,
-  "name": "PURWOSARI"
+  "districtName": "LAIS",
+  "name": "PURWOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 1606041008,
   "districtId": 1606041,
-  "name": "TELUK KIJING III"
+  "districtName": "LAIS",
+  "name": "TELUK KIJING III",
+  "postalCode": "30757"
  },
  {
   "id": 1606041009,
   "districtId": 1606041,
-  "name": "TELUK KIJING II"
+  "districtName": "LAIS",
+  "name": "TELUK KIJING II",
+  "postalCode": "30757"
  },
  {
   "id": 1606041010,
   "districtId": 1606041,
-  "name": "PETALING"
+  "districtName": "LAIS",
+  "name": "PETALING",
+  "postalCode": "30953"
  },
  {
   "id": 1606041011,
   "districtId": 1606041,
-  "name": "LAIS"
+  "districtName": "LAIS",
+  "name": "LAIS",
+  "postalCode": "30757"
  },
  {
   "id": 1606041012,
   "districtId": 1606041,
-  "name": "TELUK"
+  "districtName": "LAIS",
+  "name": "TELUK",
+  "postalCode": "20855"
  },
  {
   "id": 1606041013,
   "districtId": 1606041,
-  "name": "EPIL"
+  "districtName": "LAIS",
+  "name": "EPIL",
+  "postalCode": "30757"
  },
  {
   "id": 1606041014,
   "districtId": 1606041,
-  "name": "TANJUNG AGUNG SELATAN"
+  "districtName": "LAIS",
+  "name": "TANJUNG AGUNG SELATAN",
+  "postalCode": "30757"
  },
  {
   "id": 1606041015,
   "districtId": 1606041,
-  "name": "LAIS UTARA"
+  "districtName": "LAIS",
+  "name": "LAIS UTARA",
+  "postalCode": ""
  }
 ]

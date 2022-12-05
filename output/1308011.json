@@ -2,36 +2,50 @@
  {
   "id": 1308011001,
   "districtId": 1308011,
-  "name": "KOTO TANGAH BATU HAMPA"
+  "districtName": "AKABILURU",
+  "name": "KOTO TANGAH BATU HAMPA",
+  "postalCode": "26252"
  },
  {
   "id": 1308011002,
   "districtId": 1308011,
-  "name": "BATU HAMPA"
+  "districtName": "AKABILURU",
+  "name": "BATU HAMPA",
+  "postalCode": "26252"
  },
  {
   "id": 1308011003,
   "districtId": 1308011,
-  "name": "SARIAK LAWEH"
+  "districtName": "AKABILURU",
+  "name": "SARIAK LAWEH",
+  "postalCode": "26252"
  },
  {
   "id": 1308011004,
   "districtId": 1308011,
-  "name": "SUNGAI BALANTIAK"
+  "districtName": "AKABILURU",
+  "name": "SUNGAI BALANTIAK",
+  "postalCode": ""
  },
  {
   "id": 1308011005,
   "districtId": 1308011,
-  "name": "SUAYAN"
+  "districtName": "AKABILURU",
+  "name": "SUAYAN",
+  "postalCode": "26252"
  },
  {
   "id": 1308011006,
   "districtId": 1308011,
-  "name": "PAUAH SANGIK"
+  "districtName": "AKABILURU",
+  "name": "PAUAH SANGIK",
+  "postalCode": ""
  },
  {
   "id": 1308011007,
   "districtId": 1308011,
-  "name": "DURIAN GADANG"
+  "districtName": "AKABILURU",
+  "name": "DURIAN GADANG",
+  "postalCode": "26252"
  }
 ]

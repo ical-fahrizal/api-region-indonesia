@@ -2,36 +2,50 @@
  {
   "id": 1871091005,
   "districtId": 1871091,
-  "name": "SUKABUMI INDAH"
+  "districtName": "SUKABUMI",
+  "name": "SUKABUMI INDAH",
+  "postalCode": "35132"
  },
  {
   "id": 1871091006,
   "districtId": 1871091,
-  "name": "SUKABUMI"
+  "districtName": "SUKABUMI",
+  "name": "SUKABUMI",
+  "postalCode": "32274"
  },
  {
   "id": 1871091007,
   "districtId": 1871091,
-  "name": "NUSANTARA PERMAI"
+  "districtName": "SUKABUMI",
+  "name": "NUSANTARA PERMAI",
+  "postalCode": "35122"
  },
  {
   "id": 1871091008,
   "districtId": 1871091,
-  "name": "CAMPANG RAYA"
+  "districtName": "SUKABUMI",
+  "name": "CAMPANG RAYA",
+  "postalCode": "35122"
  },
  {
   "id": 1871091009,
   "districtId": 1871091,
-  "name": "CAMPANG JAYA"
+  "districtName": "SUKABUMI",
+  "name": "CAMPANG JAYA",
+  "postalCode": "32272"
  },
  {
   "id": 1871091010,
   "districtId": 1871091,
-  "name": "WAY GUBAK"
+  "districtName": "SUKABUMI",
+  "name": "WAY GUBAK",
+  "postalCode": "35244"
  },
  {
   "id": 1871091011,
   "districtId": 1871091,
-  "name": "WAY LAGA"
+  "districtName": "SUKABUMI",
+  "name": "WAY LAGA",
+  "postalCode": "35245"
  }
 ]

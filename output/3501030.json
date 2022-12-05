@@ -2,61 +2,85 @@
  {
   "id": 3501030001,
   "districtId": 3501030,
-  "name": "WATU KARUNG"
+  "districtName": "PRINGKUKU",
+  "name": "WATU KARUNG",
+  "postalCode": "63552"
  },
  {
   "id": 3501030002,
   "districtId": 3501030,
-  "name": "DERSONO"
+  "districtName": "PRINGKUKU",
+  "name": "DERSONO",
+  "postalCode": "63552"
  },
  {
   "id": 3501030003,
   "districtId": 3501030,
-  "name": "SUGIHWARAS"
+  "districtName": "PRINGKUKU",
+  "name": "SUGIHWARAS",
+  "postalCode": "54363"
  },
  {
   "id": 3501030004,
   "districtId": 3501030,
-  "name": "JLUBANG"
+  "districtName": "PRINGKUKU",
+  "name": "JLUBANG",
+  "postalCode": "63552"
  },
  {
   "id": 3501030005,
   "districtId": 3501030,
-  "name": "CANDI"
+  "districtName": "PRINGKUKU",
+  "name": "CANDI",
+  "postalCode": "37263"
  },
  {
   "id": 3501030006,
   "districtId": 3501030,
-  "name": "POKO"
+  "districtName": "PRINGKUKU",
+  "name": "POKO",
+  "postalCode": "63456"
  },
  {
   "id": 3501030007,
   "districtId": 3501030,
-  "name": "DADAPAN"
+  "districtName": "PRINGKUKU",
+  "name": "DADAPAN",
+  "postalCode": "35374"
  },
  {
   "id": 3501030008,
   "districtId": 3501030,
-  "name": "PRINGKUKU"
+  "districtName": "PRINGKUKU",
+  "name": "PRINGKUKU",
+  "postalCode": "63552"
  },
  {
   "id": 3501030009,
   "districtId": 3501030,
-  "name": "SOBO"
+  "districtName": "PRINGKUKU",
+  "name": "SOBO",
+  "postalCode": "58172"
  },
  {
   "id": 3501030010,
   "districtId": 3501030,
-  "name": "NGADIREJAN"
+  "districtName": "PRINGKUKU",
+  "name": "NGADIREJAN",
+  "postalCode": "63552"
  },
  {
   "id": 3501030011,
   "districtId": 3501030,
-  "name": "GLINGGANGAN"
+  "districtName": "PRINGKUKU",
+  "name": "GLINGGANGAN",
+  "postalCode": "63552"
  },
  {
   "id": 3501030013,
   "districtId": 3501030,
-  "name": "TAMANASRI"
+  "districtName": "PRINGKUKU",
+  "name": "TAMANASRI",
+  "postalCode": "65183"
  }
 ]

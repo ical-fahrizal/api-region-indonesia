@@ -2,146 +2,204 @@
  {
   "id": 5108060001,
   "districtId": 5108060,
-  "name": "KALIBUKBUK"
+  "districtName": "BULELENG",
+  "name": "KALIBUKBUK",
+  "postalCode": "81119"
  },
  {
   "id": 5108060002,
   "districtId": 5108060,
-  "name": "ANTURAN"
+  "districtName": "BULELENG",
+  "name": "ANTURAN",
+  "postalCode": "81119"
  },
  {
   "id": 5108060003,
   "districtId": 5108060,
-  "name": "TUKADMUNGGA"
+  "districtName": "BULELENG",
+  "name": "TUKADMUNGGA",
+  "postalCode": "81119"
  },
  {
   "id": 5108060004,
   "districtId": 5108060,
-  "name": "PEMARON"
+  "districtName": "BULELENG",
+  "name": "PEMARON",
+  "postalCode": "52219"
  },
  {
   "id": 5108060005,
   "districtId": 5108060,
-  "name": "BAKTISERAGA"
+  "districtName": "BULELENG",
+  "name": "BAKTISERAGA",
+  "postalCode": ""
  },
  {
   "id": 5108060006,
   "districtId": 5108060,
-  "name": "BANYUASRI"
+  "districtName": "BULELENG",
+  "name": "BANYUASRI",
+  "postalCode": "81116"
  },
  {
   "id": 5108060007,
   "districtId": 5108060,
-  "name": "BANJAR TEGAL"
+  "districtName": "BULELENG",
+  "name": "BANJAR TEGAL",
+  "postalCode": "81117"
  },
  {
   "id": 5108060008,
   "districtId": 5108060,
-  "name": "PAKET AGUNG"
+  "districtName": "BULELENG",
+  "name": "PAKET AGUNG",
+  "postalCode": "81118"
  },
  {
   "id": 5108060009,
   "districtId": 5108060,
-  "name": "BERATAN"
+  "districtName": "BULELENG",
+  "name": "BERATAN",
+  "postalCode": "81119"
  },
  {
   "id": 5108060010,
   "districtId": 5108060,
-  "name": "LILIGUNDI"
+  "districtName": "BULELENG",
+  "name": "LILIGUNDI",
+  "postalCode": "81119"
  },
  {
   "id": 5108060011,
   "districtId": 5108060,
-  "name": "KAMPUNG SINGARAJA"
+  "districtName": "BULELENG",
+  "name": "KAMPUNG SINGARAJA",
+  "postalCode": "81111"
  },
  {
   "id": 5108060012,
   "districtId": 5108060,
-  "name": "KENDRAN"
+  "districtName": "BULELENG",
+  "name": "KENDRAN",
+  "postalCode": "81112"
  },
  {
   "id": 5108060013,
   "districtId": 5108060,
-  "name": "ASTINA"
+  "districtName": "BULELENG",
+  "name": "ASTINA",
+  "postalCode": "81112"
  },
  {
   "id": 5108060014,
   "districtId": 5108060,
-  "name": "BANJAR JAWA"
+  "districtName": "BULELENG",
+  "name": "BANJAR JAWA",
+  "postalCode": "81113"
  },
  {
   "id": 5108060015,
   "districtId": 5108060,
-  "name": "BANJAR BALI"
+  "districtName": "BULELENG",
+  "name": "BANJAR BALI",
+  "postalCode": "81113"
  },
  {
   "id": 5108060016,
   "districtId": 5108060,
-  "name": "KAMPUNG KAJANAN"
+  "districtName": "BULELENG",
+  "name": "KAMPUNG KAJANAN",
+  "postalCode": "81114"
  },
  {
   "id": 5108060017,
   "districtId": 5108060,
-  "name": "KALIUNTU"
+  "districtName": "BULELENG",
+  "name": "KALIUNTU",
+  "postalCode": "62352"
  },
  {
   "id": 5108060018,
   "districtId": 5108060,
-  "name": "KAMPUNG ANYAR"
+  "districtName": "BULELENG",
+  "name": "KAMPUNG ANYAR",
+  "postalCode": "81115"
  },
  {
   "id": 5108060019,
   "districtId": 5108060,
-  "name": "KAMPUNG BUGIS"
+  "districtName": "BULELENG",
+  "name": "KAMPUNG BUGIS",
+  "postalCode": "29115"
  },
  {
   "id": 5108060020,
   "districtId": 5108060,
-  "name": "KAMPUNG BARU"
+  "districtName": "BULELENG",
+  "name": "KAMPUNG BARU",
+  "postalCode": "24652"
  },
  {
   "id": 5108060021,
   "districtId": 5108060,
-  "name": "BANYUNING"
+  "districtName": "BULELENG",
+  "name": "BANYUNING",
+  "postalCode": "81119"
  },
  {
   "id": 5108060022,
   "districtId": 5108060,
-  "name": "PENARUKAN"
+  "districtName": "BULELENG",
+  "name": "PENARUKAN",
+  "postalCode": "52194"
  },
  {
   "id": 5108060023,
   "districtId": 5108060,
-  "name": "JINENGDALEM"
+  "districtName": "BULELENG",
+  "name": "JINENGDALEM",
+  "postalCode": "81119"
  },
  {
   "id": 5108060024,
   "districtId": 5108060,
-  "name": "PENGLATAN"
+  "districtName": "BULELENG",
+  "name": "PENGLATAN",
+  "postalCode": "81119"
  },
  {
   "id": 5108060025,
   "districtId": 5108060,
-  "name": "PETANDAKAN"
+  "districtName": "BULELENG",
+  "name": "PETANDAKAN",
+  "postalCode": "81119"
  },
  {
   "id": 5108060026,
   "districtId": 5108060,
-  "name": "SARI MEKAR"
+  "districtName": "BULELENG",
+  "name": "SARI MEKAR",
+  "postalCode": "81119"
  },
  {
   "id": 5108060027,
   "districtId": 5108060,
-  "name": "NAGASEPAHA"
+  "districtName": "BULELENG",
+  "name": "NAGASEPAHA",
+  "postalCode": "81119"
  },
  {
   "id": 5108060028,
   "districtId": 5108060,
-  "name": "ALASANGKER"
+  "districtName": "BULELENG",
+  "name": "ALASANGKER",
+  "postalCode": "81119"
  },
  {
   "id": 5108060029,
   "districtId": 5108060,
-  "name": "POH BERGONG"
+  "districtName": "BULELENG",
+  "name": "POH BERGONG",
+  "postalCode": "81119"
  }
 ]

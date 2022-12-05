@@ -2,51 +2,71 @@
  {
   "id": 6106052002,
   "districtId": 6106052,
-  "name": "SUKA MULYA"
+  "districtName": "SUNGAI MELAYU RAYAK",
+  "name": "SUKA MULYA",
+  "postalCode": "28463"
  },
  {
   "id": 6106052003,
   "districtId": 6106052,
-  "name": "SUNGAI MELAYU BARU"
+  "districtName": "SUNGAI MELAYU RAYAK",
+  "name": "SUNGAI MELAYU BARU",
+  "postalCode": ""
  },
  {
   "id": 6106052004,
   "districtId": 6106052,
-  "name": "BERINGIN JAYA"
+  "districtName": "SUNGAI MELAYU RAYAK",
+  "name": "BERINGIN JAYA",
+  "postalCode": "21464"
  },
  {
   "id": 6106052005,
   "districtId": 6106052,
-  "name": "PIANSAK"
+  "districtName": "SUNGAI MELAYU RAYAK",
+  "name": "PIANSAK",
+  "postalCode": "78874"
  },
  {
   "id": 6106052006,
   "districtId": 6106052,
-  "name": "JAIRAN JAYA"
+  "districtName": "SUNGAI MELAYU RAYAK",
+  "name": "JAIRAN JAYA",
+  "postalCode": "78874"
  },
  {
   "id": 6106052007,
   "districtId": 6106052,
-  "name": "KARYA MUKTI"
+  "districtName": "SUNGAI MELAYU RAYAK",
+  "name": "KARYA MUKTI",
+  "postalCode": "28953"
  },
  {
   "id": 6106052008,
   "districtId": 6106052,
-  "name": "SUNGAI MELAYU JAYA"
+  "districtName": "SUNGAI MELAYU RAYAK",
+  "name": "SUNGAI MELAYU JAYA",
+  "postalCode": ""
  },
  {
   "id": 6106052009,
   "districtId": 6106052,
-  "name": "SEI MELAYU"
+  "districtName": "SUNGAI MELAYU RAYAK",
+  "name": "SEI MELAYU",
+  "postalCode": ""
  },
  {
   "id": 6106052010,
   "districtId": 6106052,
-  "name": "MEKAR JAYA"
+  "districtName": "SUNGAI MELAYU RAYAK",
+  "name": "MEKAR JAYA",
+  "postalCode": "20771"
  },
  {
   "id": 6106052011,
   "districtId": 6106052,
-  "name": "MAKMUR ABADI"
+  "districtName": "SUNGAI MELAYU RAYAK",
+  "name": "MAKMUR ABADI",
+  "postalCode": "78874"
  }
 ]

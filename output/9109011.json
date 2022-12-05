@@ -2,21 +2,29 @@
  {
   "id": 9109011001,
   "districtId": 9109011,
-  "name": "IOF"
+  "districtName": "SYUJAK",
+  "name": "IOF",
+  "postalCode": "98473"
  },
  {
   "id": 9109011002,
   "districtId": 9109011,
-  "name": "BANSO"
+  "districtName": "SYUJAK",
+  "name": "BANSO",
+  "postalCode": "98473"
  },
  {
   "id": 9109011004,
   "districtId": 9109011,
-  "name": "SYUJAK"
+  "districtName": "SYUJAK",
+  "name": "SYUJAK",
+  "postalCode": ""
  },
  {
   "id": 9109011005,
   "districtId": 9109011,
-  "name": "REFANE"
+  "districtName": "SYUJAK",
+  "name": "REFANE",
+  "postalCode": ""
  }
 ]

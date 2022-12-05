@@ -2,36 +2,50 @@
  {
   "id": 9416022001,
   "districtId": 9416022,
-  "name": "WANIM"
+  "districtName": "LOLAT",
+  "name": "WANIM",
+  "postalCode": "99578"
  },
  {
   "id": 9416022002,
   "districtId": 9416022,
-  "name": "LOLAT"
+  "districtName": "LOLAT",
+  "name": "LOLAT",
+  "postalCode": "99578"
  },
  {
   "id": 9416022004,
   "districtId": 9416022,
-  "name": "SERAHAK"
+  "districtName": "LOLAT",
+  "name": "SERAHAK",
+  "postalCode": "99578"
  },
  {
   "id": 9416022005,
   "districtId": 9416022,
-  "name": "WEBILE"
+  "districtName": "LOLAT",
+  "name": "WEBILE",
+  "postalCode": "99578"
  },
  {
   "id": 9416022006,
   "districtId": 9416022,
-  "name": "DINGGILA"
+  "districtName": "LOLAT",
+  "name": "DINGGILA",
+  "postalCode": "99578"
  },
  {
   "id": 9416022007,
   "districtId": 9416022,
-  "name": "ESALEK"
+  "districtName": "LOLAT",
+  "name": "ESALEK",
+  "postalCode": "99578"
  },
  {
   "id": 9416022008,
   "districtId": 9416022,
-  "name": "DENEMA"
+  "districtName": "LOLAT",
+  "name": "DENEMA",
+  "postalCode": "99578"
  }
 ]

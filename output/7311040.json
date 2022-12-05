@@ -2,36 +2,50 @@
  {
   "id": 7311040002,
   "districtId": 7311040,
-  "name": "GATTARENG"
+  "districtName": "SALOMEKKO",
+  "name": "GATTARENG",
+  "postalCode": "92561"
  },
  {
   "id": 7311040003,
   "districtId": 7311040,
-  "name": "ULU BALANG"
+  "districtName": "SALOMEKKO",
+  "name": "ULU BALANG",
+  "postalCode": "92775"
  },
  {
   "id": 7311040004,
   "districtId": 7311040,
-  "name": "TEBBA"
+  "districtName": "SALOMEKKO",
+  "name": "TEBBA",
+  "postalCode": "92775"
  },
  {
   "id": 7311040005,
   "districtId": 7311040,
-  "name": "MAPPATOBA"
+  "districtName": "SALOMEKKO",
+  "name": "MAPPATOBA",
+  "postalCode": "92775"
  },
  {
   "id": 7311040006,
   "districtId": 7311040,
-  "name": "MALIMONGENG"
+  "districtName": "SALOMEKKO",
+  "name": "MALIMONGENG",
+  "postalCode": "92775"
  },
  {
   "id": 7311040007,
   "districtId": 7311040,
-  "name": "MANERA"
+  "districtName": "SALOMEKKO",
+  "name": "MANERA",
+  "postalCode": "92775"
  },
  {
   "id": 7311040008,
   "districtId": 7311040,
-  "name": "PANCAITANA"
+  "districtName": "SALOMEKKO",
+  "name": "PANCAITANA",
+  "postalCode": "92775"
  }
 ]

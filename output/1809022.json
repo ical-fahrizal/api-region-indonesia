@@ -2,51 +2,71 @@
  {
   "id": 1809022001,
   "districtId": 1809022,
-  "name": "SUMBER JAYA"
+  "districtName": "WAY RATAI",
+  "name": "SUMBER JAYA",
+  "postalCode": "24553"
  },
  {
   "id": 1809022002,
   "districtId": 1809022,
-  "name": "BUNUT SEBERANG"
+  "districtName": "WAY RATAI",
+  "name": "BUNUT SEBERANG",
+  "postalCode": "21264"
  },
  {
   "id": 1809022003,
   "districtId": 1809022,
-  "name": "CERINGIN ASRI"
+  "districtName": "WAY RATAI",
+  "name": "CERINGIN ASRI",
+  "postalCode": ""
  },
  {
   "id": 1809022004,
   "districtId": 1809022,
-  "name": "PONCOREJO"
+  "districtName": "WAY RATAI",
+  "name": "PONCOREJO",
+  "postalCode": "35451"
  },
  {
   "id": 1809022005,
   "districtId": 1809022,
-  "name": "GUNUNG REJO"
+  "districtName": "WAY RATAI",
+  "name": "GUNUNG REJO",
+  "postalCode": "35451"
  },
  {
   "id": 1809022006,
   "districtId": 1809022,
-  "name": "MULYOSARI"
+  "districtName": "WAY RATAI",
+  "name": "MULYOSARI",
+  "postalCode": "34125"
  },
  {
   "id": 1809022007,
   "districtId": 1809022,
-  "name": "WATES WAY RATAI"
+  "districtName": "WAY RATAI",
+  "name": "WATES WAY RATAI",
+  "postalCode": "35451"
  },
  {
   "id": 1809022008,
   "districtId": 1809022,
-  "name": "BUNUT"
+  "districtName": "WAY RATAI",
+  "name": "BUNUT",
+  "postalCode": "22756"
  },
  {
   "id": 1809022009,
   "districtId": 1809022,
-  "name": "PESAWARAN INDAH"
+  "districtName": "WAY RATAI",
+  "name": "PESAWARAN INDAH",
+  "postalCode": "35451"
  },
  {
   "id": 1809022010,
   "districtId": 1809022,
-  "name": "HARAPAN JAYA"
+  "districtName": "WAY RATAI",
+  "name": "HARAPAN JAYA",
+  "postalCode": "20773"
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 7315041001,
   "districtId": 7315041,
-  "name": "BENTENG SAWITTO"
+  "districtName": "PALETEANG",
+  "name": "BENTENG SAWITTO",
+  "postalCode": "91215"
  },
  {
   "id": 7315041002,
   "districtId": 7315041,
-  "name": "LALENG BATA"
+  "districtName": "PALETEANG",
+  "name": "LALENG BATA",
+  "postalCode": "91215"
  },
  {
   "id": 7315041003,
   "districtId": 7315041,
-  "name": "TEMMASSARANGNGE"
+  "districtName": "PALETEANG",
+  "name": "TEMMASSARANGNGE",
+  "postalCode": "91213"
  },
  {
   "id": 7315041004,
   "districtId": 7315041,
-  "name": "PACONGANG"
+  "districtName": "PALETEANG",
+  "name": "PACONGANG",
+  "postalCode": "91215"
  },
  {
   "id": 7315041005,
   "districtId": 7315041,
-  "name": "MACINNAE"
+  "districtName": "PALETEANG",
+  "name": "MACINNAE",
+  "postalCode": "91214"
  },
  {
   "id": 7315041006,
   "districtId": 7315041,
-  "name": "MAMMINASAE"
+  "districtName": "PALETEANG",
+  "name": "MAMMINASAE",
+  "postalCode": "92764"
  }
 ]

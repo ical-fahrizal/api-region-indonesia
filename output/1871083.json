@@ -2,31 +2,43 @@
  {
   "id": 1871083006,
   "districtId": 1871083,
-  "name": "LABUHAN RATU"
+  "districtName": "LABUHAN RATU",
+  "name": "LABUHAN RATU",
+  "postalCode": "35142"
  },
  {
   "id": 1871083009,
   "districtId": 1871083,
-  "name": "KAMPUNG BARU"
+  "districtName": "LABUHAN RATU",
+  "name": "KAMPUNG BARU",
+  "postalCode": "24652"
  },
  {
   "id": 1871083013,
   "districtId": 1871083,
-  "name": "SEPANG JAYA"
+  "districtName": "LABUHAN RATU",
+  "name": "SEPANG JAYA",
+  "postalCode": "35148"
  },
  {
   "id": 1871083014,
   "districtId": 1871083,
-  "name": "LABUHAN RATU RAYA"
+  "districtName": "LABUHAN RATU",
+  "name": "LABUHAN RATU RAYA",
+  "postalCode": "35142"
  },
  {
   "id": 1871083015,
   "districtId": 1871083,
-  "name": "KOTA SEPANG"
+  "districtName": "LABUHAN RATU",
+  "name": "KOTA SEPANG",
+  "postalCode": "35148"
  },
  {
   "id": 1871083017,
   "districtId": 1871083,
-  "name": "KAMPUNG BARU RAYA"
+  "districtName": "LABUHAN RATU",
+  "name": "KAMPUNG BARU RAYA",
+  "postalCode": "35149"
  }
 ]

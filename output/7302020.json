@@ -2,41 +2,57 @@
  {
   "id": 7302020001,
   "districtId": 7302020,
-  "name": "BINTARORE"
+  "districtName": "UJUNG BULU",
+  "name": "BINTARORE",
+  "postalCode": "92514"
  },
  {
   "id": 7302020002,
   "districtId": 7302020,
-  "name": "KASIMPURENG"
+  "districtName": "UJUNG BULU",
+  "name": "KASIMPURENG",
+  "postalCode": "92511"
  },
  {
   "id": 7302020003,
   "districtId": 7302020,
-  "name": "TANAH KONGKONG"
+  "districtName": "UJUNG BULU",
+  "name": "TANAH KONGKONG",
+  "postalCode": "92513"
  },
  {
   "id": 7302020004,
   "districtId": 7302020,
-  "name": "L O K A"
+  "districtName": "UJUNG BULU",
+  "name": "L O K A",
+  "postalCode": ""
  },
  {
   "id": 7302020006,
   "districtId": 7302020,
-  "name": "TERANG-TERANG"
+  "districtName": "UJUNG BULU",
+  "name": "TERANG-TERANG",
+  "postalCode": "92511"
  },
  {
   "id": 7302020007,
   "districtId": 7302020,
-  "name": "CAILE"
+  "districtName": "UJUNG BULU",
+  "name": "CAILE",
+  "postalCode": "92517"
  },
  {
   "id": 7302020008,
   "districtId": 7302020,
-  "name": "KALUMEME"
+  "districtName": "UJUNG BULU",
+  "name": "KALUMEME",
+  "postalCode": "92518"
  },
  {
   "id": 7302020009,
   "districtId": 7302020,
-  "name": "ELA-ELA"
+  "districtName": "UJUNG BULU",
+  "name": "ELA-ELA",
+  "postalCode": "92511"
  }
 ]

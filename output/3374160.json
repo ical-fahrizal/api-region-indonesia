@@ -2,51 +2,71 @@
  {
   "id": 3374160001,
   "districtId": 3374160,
-  "name": "PODOREJO"
+  "districtName": "NGALIYAN",
+  "name": "PODOREJO",
+  "postalCode": "50187"
  },
  {
   "id": 3374160002,
   "districtId": 3374160,
-  "name": "WATES"
+  "districtName": "NGALIYAN",
+  "name": "WATES",
+  "postalCode": "32273"
  },
  {
   "id": 3374160003,
   "districtId": 3374160,
-  "name": "BRINGIN"
+  "districtName": "NGALIYAN",
+  "name": "BRINGIN",
+  "postalCode": "45167"
  },
  {
   "id": 3374160004,
   "districtId": 3374160,
-  "name": "NGALIYAN"
+  "districtName": "NGALIYAN",
+  "name": "NGALIYAN",
+  "postalCode": "56258"
  },
  {
   "id": 3374160005,
   "districtId": 3374160,
-  "name": "BAMBANKEREP"
+  "districtName": "NGALIYAN",
+  "name": "BAMBANKEREP",
+  "postalCode": "50211"
  },
  {
   "id": 3374160006,
   "districtId": 3374160,
-  "name": "KALIPANCUR"
+  "districtName": "NGALIYAN",
+  "name": "KALIPANCUR",
+  "postalCode": "51255"
  },
  {
   "id": 3374160007,
   "districtId": 3374160,
-  "name": "PURWOYOSO"
+  "districtName": "NGALIYAN",
+  "name": "PURWOYOSO",
+  "postalCode": "50184"
  },
  {
   "id": 3374160008,
   "districtId": 3374160,
-  "name": "TAMBAKAJI"
+  "districtName": "NGALIYAN",
+  "name": "TAMBAKAJI",
+  "postalCode": "50185"
  },
  {
   "id": 3374160009,
   "districtId": 3374160,
-  "name": "GONDORIYO"
+  "districtName": "NGALIYAN",
+  "name": "GONDORIYO",
+  "postalCode": "50187"
  },
  {
   "id": 3374160010,
   "districtId": 3374160,
-  "name": "WONOSARI"
+  "districtName": "NGALIYAN",
+  "name": "WONOSARI",
+  "postalCode": "24582"
  }
 ]

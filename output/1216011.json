@@ -2,51 +2,71 @@
  {
   "id": 1216011001,
   "districtId": 1216011,
-  "name": "KABAN TENGAH"
+  "districtName": "SITELLU TALI URANG JEHE",
+  "name": "KABAN TENGAH",
+  "postalCode": "22272"
  },
  {
   "id": 1216011002,
   "districtId": 1216011,
-  "name": "BANDAR BARU"
+  "districtName": "SITELLU TALI URANG JEHE",
+  "name": "BANDAR BARU",
+  "postalCode": "24472"
  },
  {
   "id": 1216011003,
   "districtId": 1216011,
-  "name": "TANJUNG MERIAH"
+  "districtName": "SITELLU TALI URANG JEHE",
+  "name": "TANJUNG MERIAH",
+  "postalCode": "22272"
  },
  {
   "id": 1216011004,
   "districtId": 1216011,
-  "name": "TANJUNG MULIA"
+  "districtName": "SITELLU TALI URANG JEHE",
+  "name": "TANJUNG MULIA",
+  "postalCode": "20854"
  },
  {
   "id": 1216011005,
   "districtId": 1216011,
-  "name": "SIMBERUNA"
+  "districtName": "SITELLU TALI URANG JEHE",
+  "name": "SIMBERUNA",
+  "postalCode": "22272"
  },
  {
   "id": 1216011006,
   "districtId": 1216011,
-  "name": "PEROLIHEN"
+  "districtName": "SITELLU TALI URANG JEHE",
+  "name": "PEROLIHEN",
+  "postalCode": "22272"
  },
  {
   "id": 1216011007,
   "districtId": 1216011,
-  "name": "MAHOLIDA"
+  "districtName": "SITELLU TALI URANG JEHE",
+  "name": "MAHOLIDA",
+  "postalCode": "22272"
  },
  {
   "id": 1216011008,
   "districtId": 1216011,
-  "name": "PERJAGA"
+  "districtName": "SITELLU TALI URANG JEHE",
+  "name": "PERJAGA",
+  "postalCode": "22272"
  },
  {
   "id": 1216011009,
   "districtId": 1216011,
-  "name": "MALUM"
+  "districtName": "SITELLU TALI URANG JEHE",
+  "name": "MALUM",
+  "postalCode": "22272"
  },
  {
   "id": 1216011010,
   "districtId": 1216011,
-  "name": "MBINALUN"
+  "districtName": "SITELLU TALI URANG JEHE",
+  "name": "MBINALUN",
+  "postalCode": "22272"
  }
 ]

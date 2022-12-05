@@ -2,21 +2,29 @@
  {
   "id": 9171010003,
   "districtId": 9171010,
-  "name": "RUFEI"
+  "districtName": "SORONG BARAT",
+  "name": "RUFEI",
+  "postalCode": "98412"
  },
  {
   "id": 9171010006,
   "districtId": 9171010,
-  "name": "KLAWASI"
+  "districtName": "SORONG BARAT",
+  "name": "KLAWASI",
+  "postalCode": "98411"
  },
  {
   "id": 9171010008,
   "districtId": 9171010,
-  "name": "PAL PUTIH"
+  "districtName": "SORONG BARAT",
+  "name": "PAL PUTIH",
+  "postalCode": ""
  },
  {
   "id": 9171010010,
   "districtId": 9171010,
-  "name": "PUNCAK CENDRAWASIH"
+  "districtName": "SORONG BARAT",
+  "name": "PUNCAK CENDRAWASIH",
+  "postalCode": ""
  }
 ]

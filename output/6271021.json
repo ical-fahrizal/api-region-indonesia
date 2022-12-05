@@ -2,36 +2,50 @@
  {
   "id": 6271021001,
   "districtId": 6271021,
-  "name": "PETUK BUKIT"
+  "districtName": "RAKUMPIT",
+  "name": "PETUK BUKIT",
+  "postalCode": "73227"
  },
  {
   "id": 6271021002,
   "districtId": 6271021,
-  "name": "PAGER"
+  "districtName": "RAKUMPIT",
+  "name": "PAGER",
+  "postalCode": "50229"
  },
  {
   "id": 6271021003,
   "districtId": 6271021,
-  "name": "PANJEHANG"
+  "districtName": "RAKUMPIT",
+  "name": "PANJEHANG",
+  "postalCode": "73228"
  },
  {
   "id": 6271021004,
   "districtId": 6271021,
-  "name": "GAUNG BARU"
+  "districtName": "RAKUMPIT",
+  "name": "GAUNG BARU",
+  "postalCode": "73229"
  },
  {
   "id": 6271021005,
   "districtId": 6271021,
-  "name": "PETUK BARUNAI"
+  "districtName": "RAKUMPIT",
+  "name": "PETUK BARUNAI",
+  "postalCode": ""
  },
  {
   "id": 6271021006,
   "districtId": 6271021,
-  "name": "MUNGKU BARU"
+  "districtName": "RAKUMPIT",
+  "name": "MUNGKU BARU",
+  "postalCode": "73229"
  },
  {
   "id": 6271021007,
   "districtId": 6271021,
-  "name": "BUKIT SUA"
+  "districtName": "RAKUMPIT",
+  "name": "BUKIT SUA",
+  "postalCode": "73229"
  }
 ]

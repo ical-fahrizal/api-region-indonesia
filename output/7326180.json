@@ -2,21 +2,29 @@
  {
   "id": 7326180001,
   "districtId": 7326180,
-  "name": "LEMBANG BATU LOTONG"
+  "districtName": "AWAN RANTE KARUA",
+  "name": "LEMBANG BATU LOTONG",
+  "postalCode": ""
  },
  {
   "id": 7326180002,
   "districtId": 7326180,
-  "name": "LEMBANG AWAN"
+  "districtName": "AWAN RANTE KARUA",
+  "name": "LEMBANG AWAN",
+  "postalCode": ""
  },
  {
   "id": 7326180003,
   "districtId": 7326180,
-  "name": "LEMBANG LONDONG BIANG"
+  "districtName": "AWAN RANTE KARUA",
+  "name": "LEMBANG LONDONG BIANG",
+  "postalCode": ""
  },
  {
   "id": 7326180004,
   "districtId": 7326180,
-  "name": "LEMBANG BUNTU KARUA"
+  "districtName": "AWAN RANTE KARUA",
+  "name": "LEMBANG BUNTU KARUA",
+  "postalCode": ""
  }
 ]

@@ -2,86 +2,120 @@
  {
   "id": 9416044002,
   "districtId": 9416044,
-  "name": "SEIMA"
+  "districtName": "MUGI",
+  "name": "SEIMA",
+  "postalCode": "99571"
  },
  {
   "id": 9416044003,
   "districtId": 9416044,
-  "name": "YUARIMA"
+  "districtName": "MUGI",
+  "name": "YUARIMA",
+  "postalCode": "99571"
  },
  {
   "id": 9416044004,
   "districtId": 9416044,
-  "name": "KOSIHUN"
+  "districtName": "MUGI",
+  "name": "KOSIHUN",
+  "postalCode": "99571"
  },
  {
   "id": 9416044005,
   "districtId": 9416044,
-  "name": "HUNENIMA"
+  "districtName": "MUGI",
+  "name": "HUNENIMA",
+  "postalCode": "99571"
  },
  {
   "id": 9416044006,
   "districtId": 9416044,
-  "name": "TOGOLUK"
+  "districtName": "MUGI",
+  "name": "TOGOLUK",
+  "postalCode": "99571"
  },
  {
   "id": 9416044007,
   "districtId": 9416044,
-  "name": "HENDANG"
+  "districtName": "MUGI",
+  "name": "HENDANG",
+  "postalCode": ""
  },
  {
   "id": 9416044008,
   "districtId": 9416044,
-  "name": "HERWAE"
+  "districtName": "MUGI",
+  "name": "HERWAE",
+  "postalCode": ""
  },
  {
   "id": 9416044010,
   "districtId": 9416044,
-  "name": "WUSAGASEM"
+  "districtName": "MUGI",
+  "name": "WUSAGASEM",
+  "postalCode": "99571"
  },
  {
   "id": 9416044011,
   "districtId": 9416044,
-  "name": "ITLAY WOPI"
+  "districtName": "MUGI",
+  "name": "ITLAY WOPI",
+  "postalCode": "99571"
  },
  {
   "id": 9416044012,
   "districtId": 9416044,
-  "name": "ILOKOMO"
+  "districtName": "MUGI",
+  "name": "ILOKOMO",
+  "postalCode": "99571"
  },
  {
   "id": 9416044013,
   "districtId": 9416044,
-  "name": "HULESI"
+  "districtName": "MUGI",
+  "name": "HULESI",
+  "postalCode": "99571"
  },
  {
   "id": 9416044014,
   "districtId": 9416044,
-  "name": "WANESI"
+  "districtName": "MUGI",
+  "name": "WANESI",
+  "postalCode": "99571"
  },
  {
   "id": 9416044015,
   "districtId": 9416044,
-  "name": "PANYOKE"
+  "districtName": "MUGI",
+  "name": "PANYOKE",
+  "postalCode": "99571"
  },
  {
   "id": 9416044016,
   "districtId": 9416044,
-  "name": "NYIKINEN"
+  "districtName": "MUGI",
+  "name": "NYIKINEN",
+  "postalCode": "99571"
  },
  {
   "id": 9416044017,
   "districtId": 9416044,
-  "name": "WESANGMA"
+  "districtName": "MUGI",
+  "name": "WESANGMA",
+  "postalCode": "99571"
  },
  {
   "id": 9416044018,
   "districtId": 9416044,
-  "name": "OLOMISANG"
+  "districtName": "MUGI",
+  "name": "OLOMISANG",
+  "postalCode": "99571"
  },
  {
   "id": 9416044019,
   "districtId": 9416044,
-  "name": "WEMASILI"
+  "districtName": "MUGI",
+  "name": "WEMASILI",
+  "postalCode": "99571"
  }
 ]

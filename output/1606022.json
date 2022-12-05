@@ -2,76 +2,106 @@
  {
   "id": 1606022001,
   "districtId": 1606022,
-  "name": "BANGUN HARJO (SP6,8)"
+  "districtName": "PLAKAT TINGGI",
+  "name": "BANGUN HARJO (SP6,8)",
+  "postalCode": ""
  },
  {
   "id": 1606022002,
   "districtId": 1606022,
-  "name": "SUKAMAJU (SP5,7)"
+  "districtName": "PLAKAT TINGGI",
+  "name": "SUKAMAJU (SP5,7)",
+  "postalCode": ""
  },
  {
   "id": 1606022003,
   "districtId": 1606022,
-  "name": "SUKA MAKMUR"
+  "districtName": "PLAKAT TINGGI",
+  "name": "SUKA MAKMUR",
+  "postalCode": "24784"
  },
  {
   "id": 1606022004,
   "districtId": 1606022,
-  "name": "SUKA DAMAI (SP2,4)"
+  "districtName": "PLAKAT TINGGI",
+  "name": "SUKA DAMAI (SP2,4)",
+  "postalCode": ""
  },
  {
   "id": 1606022005,
   "districtId": 1606022,
-  "name": "SIDO MUKTI (SP1,3)"
+  "districtName": "PLAKAT TINGGI",
+  "name": "SIDO MUKTI (SP1,3)",
+  "postalCode": ""
  },
  {
   "id": 1606022006,
   "districtId": 1606022,
-  "name": "SUKAJAYA (SP.3)"
+  "districtName": "PLAKAT TINGGI",
+  "name": "SUKAJAYA (SP.3)",
+  "postalCode": ""
  },
  {
   "id": 1606022007,
   "districtId": 1606022,
-  "name": "SIDORAHAYU (B1,2)"
+  "districtName": "PLAKAT TINGGI",
+  "name": "SIDORAHAYU (B1,2)",
+  "postalCode": ""
  },
  {
   "id": 1606022008,
   "districtId": 1606022,
-  "name": "BUKIT INDAH (B3)"
+  "districtName": "PLAKAT TINGGI",
+  "name": "BUKIT INDAH (B3)",
+  "postalCode": ""
  },
  {
   "id": 1606022009,
   "districtId": 1606022,
-  "name": "AIR PUTIH ULU (C1,2)"
+  "districtName": "PLAKAT TINGGI",
+  "name": "AIR PUTIH ULU (C1,2)",
+  "postalCode": ""
  },
  {
   "id": 1606022010,
   "districtId": 1606022,
-  "name": "CINTA KARYA (C3)"
+  "districtName": "PLAKAT TINGGI",
+  "name": "CINTA KARYA (C3)",
+  "postalCode": ""
  },
  {
   "id": 1606022011,
   "districtId": 1606022,
-  "name": "SIALANG AGUNG (CII)"
+  "districtName": "PLAKAT TINGGI",
+  "name": "SIALANG AGUNG (CII)",
+  "postalCode": ""
  },
  {
   "id": 1606022012,
   "districtId": 1606022,
-  "name": "WARGA MULYA (B4)"
+  "districtName": "PLAKAT TINGGI",
+  "name": "WARGA MULYA (B4)",
+  "postalCode": ""
  },
  {
   "id": 1606022013,
   "districtId": 1606022,
-  "name": "TANJUNG KAPUTRAN (B5)"
+  "districtName": "PLAKAT TINGGI",
+  "name": "TANJUNG KAPUTRAN (B5)",
+  "postalCode": ""
  },
  {
   "id": 1606022014,
   "districtId": 1606022,
-  "name": "AIR PUTIH ILIR"
+  "districtName": "PLAKAT TINGGI",
+  "name": "AIR PUTIH ILIR",
+  "postalCode": "30758"
  },
  {
   "id": 1606022015,
   "districtId": 1606022,
-  "name": "SUMBER REZEKI"
+  "districtName": "PLAKAT TINGGI",
+  "name": "SUMBER REZEKI",
+  "postalCode": "93563"
  }
 ]

@@ -2,71 +2,99 @@
  {
   "id": 9411063001,
   "districtId": 9411063,
-  "name": "YAMONERI"
+  "districtName": "YAMONERI",
+  "name": "YAMONERI",
+  "postalCode": "98916"
  },
  {
   "id": 9411063002,
   "districtId": 9411063,
-  "name": "GUMAWI"
+  "districtName": "YAMONERI",
+  "name": "GUMAWI",
+  "postalCode": "98916"
  },
  {
   "id": 9411063003,
   "districtId": 9411063,
-  "name": "DIGOLOME"
+  "districtName": "YAMONERI",
+  "name": "DIGOLOME",
+  "postalCode": ""
  },
  {
   "id": 9411063004,
   "districtId": 9411063,
-  "name": "NGGINIGUM"
+  "districtName": "YAMONERI",
+  "name": "NGGINIGUM",
+  "postalCode": "98916"
  },
  {
   "id": 9411063006,
   "districtId": 9411063,
-  "name": "JIMBENERI"
+  "districtName": "YAMONERI",
+  "name": "JIMBENERI",
+  "postalCode": ""
  },
  {
   "id": 9411063007,
   "districtId": 9411063,
-  "name": "ABERIAMBUT"
+  "districtName": "YAMONERI",
+  "name": "ABERIAMBUT",
+  "postalCode": "98916"
  },
  {
   "id": 9411063008,
   "districtId": 9411063,
-  "name": "KOBARAK"
+  "districtName": "YAMONERI",
+  "name": "KOBARAK",
+  "postalCode": "98916"
  },
  {
   "id": 9411063009,
   "districtId": 9411063,
-  "name": "WUGIWAGI"
+  "districtName": "YAMONERI",
+  "name": "WUGIWAGI",
+  "postalCode": "98916"
  },
  {
   "id": 9411063010,
   "districtId": 9411063,
-  "name": "YAGALUK"
+  "districtName": "YAMONERI",
+  "name": "YAGALUK",
+  "postalCode": "98916"
  },
  {
   "id": 9411063011,
   "districtId": 9411063,
-  "name": "MOULO"
+  "districtName": "YAMONERI",
+  "name": "MOULO",
+  "postalCode": "98916"
  },
  {
   "id": 9411063012,
   "districtId": 9411063,
-  "name": "JIMBANIME"
+  "districtName": "YAMONERI",
+  "name": "JIMBANIME",
+  "postalCode": "98916"
  },
  {
   "id": 9411063013,
   "districtId": 9411063,
-  "name": "JIGOLOK"
+  "districtName": "YAMONERI",
+  "name": "JIGOLOK",
+  "postalCode": ""
  },
  {
   "id": 9411063014,
   "districtId": 9411063,
-  "name": "JIGELO"
+  "districtName": "YAMONERI",
+  "name": "JIGELO",
+  "postalCode": "98916"
  },
  {
   "id": 9411063015,
   "districtId": 9411063,
-  "name": "PIYAPIGI"
+  "districtName": "YAMONERI",
+  "name": "PIYAPIGI",
+  "postalCode": "98916"
  }
 ]

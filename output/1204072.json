@@ -2,71 +2,99 @@
  {
   "id": 1204072001,
   "districtId": 1204072,
-  "name": "LADANG TENGAH"
+  "districtName": "ANDAM DEWI",
+  "name": "LADANG TENGAH",
+  "postalCode": "22651"
  },
  {
   "id": 1204072002,
   "districtId": 1204072,
-  "name": "URATAN"
+  "districtName": "ANDAM DEWI",
+  "name": "URATAN",
+  "postalCode": "22651"
  },
  {
   "id": 1204072003,
   "districtId": 1204072,
-  "name": "LOBU TUA"
+  "districtName": "ANDAM DEWI",
+  "name": "LOBU TUA",
+  "postalCode": "22651"
  },
  {
   "id": 1204072004,
   "districtId": 1204072,
-  "name": "BONDAR SIHUDON II"
+  "districtName": "ANDAM DEWI",
+  "name": "BONDAR SIHUDON II",
+  "postalCode": "22651"
  },
  {
   "id": 1204072005,
   "districtId": 1204072,
-  "name": "BONDAR SIHUDON I"
+  "districtName": "ANDAM DEWI",
+  "name": "BONDAR SIHUDON I",
+  "postalCode": "22651"
  },
  {
   "id": 1204072006,
   "districtId": 1204072,
-  "name": "RINA BOLAK"
+  "districtName": "ANDAM DEWI",
+  "name": "RINA BOLAK",
+  "postalCode": ""
  },
  {
   "id": 1204072007,
   "districtId": 1204072,
-  "name": "SOSOR GONTING"
+  "districtName": "ANDAM DEWI",
+  "name": "SOSOR GONTING",
+  "postalCode": "22651"
  },
  {
   "id": 1204072008,
   "districtId": 1204072,
-  "name": "SIRAMI RAMIAN"
+  "districtName": "ANDAM DEWI",
+  "name": "SIRAMI RAMIAN",
+  "postalCode": "22651"
  },
  {
   "id": 1204072009,
   "districtId": 1204072,
-  "name": "PANGARIBUAN"
+  "districtName": "ANDAM DEWI",
+  "name": "PANGARIBUAN",
+  "postalCode": "22651"
  },
  {
   "id": 1204072010,
   "districtId": 1204072,
-  "name": "SIJUNGKANG"
+  "districtName": "ANDAM DEWI",
+  "name": "SIJUNGKANG",
+  "postalCode": "22651"
  },
  {
   "id": 1204072011,
   "districtId": 1204072,
-  "name": "SOGAR"
+  "districtName": "ANDAM DEWI",
+  "name": "SOGAR",
+  "postalCode": "22651"
  },
  {
   "id": 1204072012,
   "districtId": 1204072,
-  "name": "SIGOLANG"
+  "districtName": "ANDAM DEWI",
+  "name": "SIGOLANG",
+  "postalCode": "22758"
  },
  {
   "id": 1204072013,
   "districtId": 1204072,
-  "name": "SITIRIS TIRIS"
+  "districtName": "ANDAM DEWI",
+  "name": "SITIRIS TIRIS",
+  "postalCode": ""
  },
  {
   "id": 1204072014,
   "districtId": 1204072,
-  "name": "SAWAH LAMO"
+  "districtName": "ANDAM DEWI",
+  "name": "SAWAH LAMO",
+  "postalCode": "22651"
  }
 ]

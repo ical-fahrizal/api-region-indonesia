@@ -2,26 +2,36 @@
  {
   "id": 9412021001,
   "districtId": 9412021,
-  "name": "KEAKWA"
+  "districtName": "MIMIKA TENGAH",
+  "name": "KEAKWA",
+  "postalCode": "99972"
  },
  {
   "id": 9412021002,
   "districtId": 9412021,
-  "name": "TIWAKA"
+  "districtName": "MIMIKA TENGAH",
+  "name": "TIWAKA",
+  "postalCode": "99972"
  },
  {
   "id": 9412021003,
   "districtId": 9412021,
-  "name": "ATUKA"
+  "districtName": "MIMIKA TENGAH",
+  "name": "ATUKA",
+  "postalCode": "99972"
  },
  {
   "id": 9412021004,
   "districtId": 9412021,
-  "name": "AIKAWAPUKA"
+  "districtName": "MIMIKA TENGAH",
+  "name": "AIKAWAPUKA",
+  "postalCode": "99972"
  },
  {
   "id": 9412021005,
   "districtId": 9412021,
-  "name": "KAMORA"
+  "districtName": "MIMIKA TENGAH",
+  "name": "KAMORA",
+  "postalCode": "99972"
  }
 ]

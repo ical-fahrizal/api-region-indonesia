@@ -2,31 +2,43 @@
  {
   "id": 5103030001,
   "districtId": 5103030,
-  "name": "KEROBOKAN KELOD"
+  "districtName": "KUTA UTARA",
+  "name": "KEROBOKAN KELOD",
+  "postalCode": "80361"
  },
  {
   "id": 5103030002,
   "districtId": 5103030,
-  "name": "KEROBOKAN"
+  "districtName": "KUTA UTARA",
+  "name": "KEROBOKAN",
+  "postalCode": "80361"
  },
  {
   "id": 5103030003,
   "districtId": 5103030,
-  "name": "KEROBOKAN KAJA"
+  "districtName": "KUTA UTARA",
+  "name": "KEROBOKAN KAJA",
+  "postalCode": "80361"
  },
  {
   "id": 5103030004,
   "districtId": 5103030,
-  "name": "TIBUBENENG"
+  "districtName": "KUTA UTARA",
+  "name": "TIBUBENENG",
+  "postalCode": "80361"
  },
  {
   "id": 5103030005,
   "districtId": 5103030,
-  "name": "CANGGU"
+  "districtName": "KUTA UTARA",
+  "name": "CANGGU",
+  "postalCode": "31596"
  },
  {
   "id": 5103030006,
   "districtId": 5103030,
-  "name": "DALUNG"
+  "districtName": "KUTA UTARA",
+  "name": "DALUNG",
+  "postalCode": "42127"
  }
 ]

@@ -2,86 +2,120 @@
  {
   "id": 7202011001,
   "districtId": 7202011,
-  "name": "LEMBAH KRAMAT"
+  "districtName": "TOILI BARAT",
+  "name": "LEMBAH KRAMAT",
+  "postalCode": "94765"
  },
  {
   "id": 7202011002,
   "districtId": 7202011,
-  "name": "GUNUNG KRAMAT"
+  "districtName": "TOILI BARAT",
+  "name": "GUNUNG KRAMAT",
+  "postalCode": "34581"
  },
  {
   "id": 7202011003,
   "districtId": 7202011,
-  "name": "RATA"
+  "districtName": "TOILI BARAT",
+  "name": "RATA",
+  "postalCode": "94765"
  },
  {
   "id": 7202011004,
   "districtId": 7202011,
-  "name": "BONE BAE"
+  "districtName": "TOILI BARAT",
+  "name": "BONE BAE",
+  "postalCode": ""
  },
  {
   "id": 7202011005,
   "districtId": 7202011,
-  "name": "PASIR LAMBA"
+  "districtName": "TOILI BARAT",
+  "name": "PASIR LAMBA",
+  "postalCode": "94765"
  },
  {
   "id": 7202011006,
   "districtId": 7202011,
-  "name": "MANTAWA"
+  "districtName": "TOILI BARAT",
+  "name": "MANTAWA",
+  "postalCode": "94765"
  },
  {
   "id": 7202011007,
   "districtId": 7202011,
-  "name": "KARYA MAKMUR"
+  "districtName": "TOILI BARAT",
+  "name": "KARYA MAKMUR",
+  "postalCode": "32385"
  },
  {
   "id": 7202011008,
   "districtId": 7202011,
-  "name": "MAKAPA"
+  "districtName": "TOILI BARAT",
+  "name": "MAKAPA",
+  "postalCode": "94765"
  },
  {
   "id": 7202011009,
   "districtId": 7202011,
-  "name": "BUMI HARAPAN"
+  "districtName": "TOILI BARAT",
+  "name": "BUMI HARAPAN",
+  "postalCode": "30673"
  },
  {
   "id": 7202011010,
   "districtId": 7202011,
-  "name": "BUKIT MAKARTI"
+  "districtName": "TOILI BARAT",
+  "name": "BUKIT MAKARTI",
+  "postalCode": "24385"
  },
  {
   "id": 7202011011,
   "districtId": 7202011,
-  "name": "SINDANG SARI"
+  "districtName": "TOILI BARAT",
+  "name": "SINDANG SARI",
+  "postalCode": "30657"
  },
  {
   "id": 7202011012,
   "districtId": 7202011,
-  "name": "KAMI WANGI"
+  "districtName": "TOILI BARAT",
+  "name": "KAMI WANGI",
+  "postalCode": "94765"
  },
  {
   "id": 7202011013,
   "districtId": 7202011,
-  "name": "DONGIN"
+  "districtName": "TOILI BARAT",
+  "name": "DONGIN",
+  "postalCode": "94765"
  },
  {
   "id": 7202011014,
   "districtId": 7202011,
-  "name": "PANDAN WANGI"
+  "districtName": "TOILI BARAT",
+  "name": "PANDAN WANGI",
+  "postalCode": "29354"
  },
  {
   "id": 7202011015,
   "districtId": 7202011,
-  "name": "UWELOLU"
+  "districtName": "TOILI BARAT",
+  "name": "UWELOLU",
+  "postalCode": "94765"
  },
  {
   "id": 7202011016,
   "districtId": 7202011,
-  "name": "MEKAR SARI"
+  "districtName": "TOILI BARAT",
+  "name": "MEKAR SARI",
+  "postalCode": "21261"
  },
  {
   "id": 7202011017,
   "districtId": 7202011,
-  "name": "MEKAR JAYA"
+  "districtName": "TOILI BARAT",
+  "name": "MEKAR JAYA",
+  "postalCode": "20771"
  }
 ]

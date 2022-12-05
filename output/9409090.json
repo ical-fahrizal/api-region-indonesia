@@ -2,101 +2,141 @@
  {
   "id": 9409090004,
   "districtId": 9409090,
-  "name": "MARUR"
+  "districtName": "WARSA",
+  "name": "MARUR",
+  "postalCode": "98157"
  },
  {
   "id": 9409090005,
   "districtId": 9409090,
-  "name": "DIANO"
+  "districtName": "WARSA",
+  "name": "DIANO",
+  "postalCode": "98157"
  },
  {
   "id": 9409090006,
   "districtId": 9409090,
-  "name": "SAWAY"
+  "districtName": "WARSA",
+  "name": "SAWAY",
+  "postalCode": "98157"
  },
  {
   "id": 9409090007,
   "districtId": 9409090,
-  "name": "AMAN"
+  "districtName": "WARSA",
+  "name": "AMAN",
+  "postalCode": "98157"
  },
  {
   "id": 9409090008,
   "districtId": 9409090,
-  "name": "YERUBOY"
+  "districtName": "WARSA",
+  "name": "YERUBOY",
+  "postalCode": "98157"
  },
  {
   "id": 9409090009,
   "districtId": 9409090,
-  "name": "AMMOY"
+  "districtName": "WARSA",
+  "name": "AMMOY",
+  "postalCode": "98157"
  },
  {
   "id": 9409090010,
   "districtId": 9409090,
-  "name": "INSWANBESI"
+  "districtName": "WARSA",
+  "name": "INSWANBESI",
+  "postalCode": "98157"
  },
  {
   "id": 9409090011,
   "districtId": 9409090,
-  "name": "KOYOMI"
+  "districtName": "WARSA",
+  "name": "KOYOMI",
+  "postalCode": "98157"
  },
  {
   "id": 9409090012,
   "districtId": 9409090,
-  "name": "WASANI"
+  "districtName": "WARSA",
+  "name": "WASANI",
+  "postalCode": "98157"
  },
  {
   "id": 9409090017,
   "districtId": 9409090,
-  "name": "KARUIBERIK"
+  "districtName": "WARSA",
+  "name": "KARUIBERIK",
+  "postalCode": "98157"
  },
  {
   "id": 9409090018,
   "districtId": 9409090,
-  "name": "KOMBOY"
+  "districtName": "WARSA",
+  "name": "KOMBOY",
+  "postalCode": "98157"
  },
  {
   "id": 9409090020,
   "districtId": 9409090,
-  "name": "INSWANBESI SUP"
+  "districtName": "WARSA",
+  "name": "INSWANBESI SUP",
+  "postalCode": "98157"
  },
  {
   "id": 9409090021,
   "districtId": 9409090,
-  "name": "INYOBI"
+  "districtName": "WARSA",
+  "name": "INYOBI",
+  "postalCode": "98157"
  },
  {
   "id": 9409090022,
   "districtId": 9409090,
-  "name": "WARAWAF"
+  "districtName": "WARSA",
+  "name": "WARAWAF",
+  "postalCode": "98157"
  },
  {
   "id": 9409090023,
   "districtId": 9409090,
-  "name": "WIR INSOS"
+  "districtName": "WARSA",
+  "name": "WIR INSOS",
+  "postalCode": "98157"
  },
  {
   "id": 9409090024,
   "districtId": 9409090,
-  "name": "BIAWER"
+  "districtName": "WARSA",
+  "name": "BIAWER",
+  "postalCode": "98157"
  },
  {
   "id": 9409090025,
   "districtId": 9409090,
-  "name": "WANIRI"
+  "districtName": "WARSA",
+  "name": "WANIRI",
+  "postalCode": ""
  },
  {
   "id": 9409090026,
   "districtId": 9409090,
-  "name": "IMBARI"
+  "districtName": "WARSA",
+  "name": "IMBARI",
+  "postalCode": "98157"
  },
  {
   "id": 9409090027,
   "districtId": 9409090,
-  "name": "MANBEORI"
+  "districtName": "WARSA",
+  "name": "MANBEORI",
+  "postalCode": "98157"
  },
  {
   "id": 9409090028,
   "districtId": 9409090,
-  "name": "MAMFIAS"
+  "districtName": "WARSA",
+  "name": "MAMFIAS",
+  "postalCode": "98157"
  }
 ]

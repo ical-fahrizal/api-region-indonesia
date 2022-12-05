@@ -2,41 +2,57 @@
  {
   "id": 3320091001,
   "districtId": 3320091,
-  "name": "LEBAK"
+  "districtName": "PAKIS AJI",
+  "name": "LEBAK",
+  "postalCode": "50772"
  },
  {
   "id": 3320091002,
   "districtId": 3320091,
-  "name": "BULUNGAN"
+  "districtName": "PAKIS AJI",
+  "name": "BULUNGAN",
+  "postalCode": "59452"
  },
  {
   "id": 3320091003,
   "districtId": 3320091,
-  "name": "SUWAWAL TIMUR"
+  "districtName": "PAKIS AJI",
+  "name": "SUWAWAL TIMUR",
+  "postalCode": "59452"
  },
  {
   "id": 3320091004,
   "districtId": 3320091,
-  "name": "KAWAK"
+  "districtName": "PAKIS AJI",
+  "name": "KAWAK",
+  "postalCode": "59452"
  },
  {
   "id": 3320091005,
   "districtId": 3320091,
-  "name": "TANJUNG"
+  "districtName": "PAKIS AJI",
+  "name": "TANJUNG",
+  "postalCode": "24562"
  },
  {
   "id": 3320091006,
   "districtId": 3320091,
-  "name": "PLAJAN"
+  "districtName": "PAKIS AJI",
+  "name": "PLAJAN",
+  "postalCode": "59452"
  },
  {
   "id": 3320091007,
   "districtId": 3320091,
-  "name": "SLAGI"
+  "districtName": "PAKIS AJI",
+  "name": "SLAGI",
+  "postalCode": "59452"
  },
  {
   "id": 3320091008,
   "districtId": 3320091,
-  "name": "MAMBAK"
+  "districtName": "PAKIS AJI",
+  "name": "MAMBAK",
+  "postalCode": "59452"
  }
 ]

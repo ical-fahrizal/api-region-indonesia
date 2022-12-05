@@ -2,116 +2,162 @@
  {
   "id": 1105180003,
   "districtId": 1105180,
-  "name": "MATANG WENG"
+  "districtName": "SIMPANG ULIM",
+  "name": "MATANG WENG",
+  "postalCode": "24458"
  },
  {
   "id": 1105180005,
   "districtId": 1105180,
-  "name": "ALUE MULIENG"
+  "districtName": "SIMPANG ULIM",
+  "name": "ALUE MULIENG",
+  "postalCode": "24458"
  },
  {
   "id": 1105180009,
   "districtId": 1105180,
-  "name": "PUCOK ALUE BARAT"
+  "districtName": "SIMPANG ULIM",
+  "name": "PUCOK ALUE BARAT",
+  "postalCode": "24458"
  },
  {
   "id": 1105180010,
   "districtId": 1105180,
-  "name": "PUCOK ALUE SATU"
+  "districtName": "SIMPANG ULIM",
+  "name": "PUCOK ALUE SATU",
+  "postalCode": "24458"
  },
  {
   "id": 1105180011,
   "districtId": 1105180,
-  "name": "MATANG KUMBANG"
+  "districtName": "SIMPANG ULIM",
+  "name": "MATANG KUMBANG",
+  "postalCode": "24392"
  },
  {
   "id": 1105180012,
   "districtId": 1105180,
-  "name": "TITI BAROEH"
+  "districtName": "SIMPANG ULIM",
+  "name": "TITI BAROEH",
+  "postalCode": ""
  },
  {
   "id": 1105180013,
   "districtId": 1105180,
-  "name": "ARA KUNDO"
+  "districtName": "SIMPANG ULIM",
+  "name": "ARA KUNDO",
+  "postalCode": "24458"
  },
  {
   "id": 1105180014,
   "districtId": 1105180,
-  "name": "ALUE BULOH DUA"
+  "districtName": "SIMPANG ULIM",
+  "name": "ALUE BULOH DUA",
+  "postalCode": "24458"
  },
  {
   "id": 1105180015,
   "districtId": 1105180,
-  "name": "MATANG RAYEUK"
+  "districtName": "SIMPANG ULIM",
+  "name": "MATANG RAYEUK",
+  "postalCode": "24454"
  },
  {
   "id": 1105180016,
   "districtId": 1105180,
-  "name": "TEUPIN BREUH"
+  "districtName": "SIMPANG ULIM",
+  "name": "TEUPIN BREUH",
+  "postalCode": "24458"
  },
  {
   "id": 1105180017,
   "districtId": 1105180,
-  "name": "BLANG ME"
+  "districtName": "SIMPANG ULIM",
+  "name": "BLANG ME",
+  "postalCode": "24251"
  },
  {
   "id": 1105180018,
   "districtId": 1105180,
-  "name": "PUCOK ALUE DUA"
+  "districtName": "SIMPANG ULIM",
+  "name": "PUCOK ALUE DUA",
+  "postalCode": "24458"
  },
  {
   "id": 1105180019,
   "districtId": 1105180,
-  "name": "PEULALU"
+  "districtName": "SIMPANG ULIM",
+  "name": "PEULALU",
+  "postalCode": "24458"
  },
  {
   "id": 1105180023,
   "districtId": 1105180,
-  "name": "ALUE BULOH SATU"
+  "districtName": "SIMPANG ULIM",
+  "name": "ALUE BULOH SATU",
+  "postalCode": "24458"
  },
  {
   "id": 1105180024,
   "districtId": 1105180,
-  "name": "KUALA SIMPANG ULIM"
+  "districtName": "SIMPANG ULIM",
+  "name": "KUALA SIMPANG ULIM",
+  "postalCode": "24458"
  },
  {
   "id": 1105180025,
   "districtId": 1105180,
-  "name": "KAMPONG BARO"
+  "districtName": "SIMPANG ULIM",
+  "name": "KAMPONG BARO",
+  "postalCode": "24262"
  },
  {
   "id": 1105180026,
   "districtId": 1105180,
-  "name": "NICAH AWE"
+  "districtName": "SIMPANG ULIM",
+  "name": "NICAH AWE",
+  "postalCode": "24458"
  },
  {
   "id": 1105180027,
   "districtId": 1105180,
-  "name": "BANTAYAN"
+  "districtName": "SIMPANG ULIM",
+  "name": "BANTAYAN",
+  "postalCode": "24394"
  },
  {
   "id": 1105180028,
   "districtId": 1105180,
-  "name": "KEUDE TUHA"
+  "districtName": "SIMPANG ULIM",
+  "name": "KEUDE TUHA",
+  "postalCode": "24458"
  },
  {
   "id": 1105180030,
   "districtId": 1105180,
-  "name": "GAMPONG BLANG"
+  "districtName": "SIMPANG ULIM",
+  "name": "GAMPONG BLANG",
+  "postalCode": "23373"
  },
  {
   "id": 1105180031,
   "districtId": 1105180,
-  "name": "LAMPUH RAYEUK"
+  "districtName": "SIMPANG ULIM",
+  "name": "LAMPUH RAYEUK",
+  "postalCode": "24458"
  },
  {
   "id": 1105180033,
   "districtId": 1105180,
-  "name": "TEUPIN MAMPLAM"
+  "districtName": "SIMPANG ULIM",
+  "name": "TEUPIN MAMPLAM",
+  "postalCode": "24458"
  },
  {
   "id": 1105180034,
   "districtId": 1105180,
-  "name": "MATANG SEUPENG"
+  "districtName": "SIMPANG ULIM",
+  "name": "MATANG SEUPENG",
+  "postalCode": "24458"
  }
 ]

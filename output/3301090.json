@@ -2,36 +2,50 @@
  {
   "id": 3301090001,
   "districtId": 3301090,
-  "name": "RAWAAPU"
+  "districtName": "PATIMUAN",
+  "name": "RAWAAPU",
+  "postalCode": "53264"
  },
  {
   "id": 3301090002,
   "districtId": 3301090,
-  "name": "SIDAMUKTI"
+  "districtName": "PATIMUAN",
+  "name": "SIDAMUKTI",
+  "postalCode": "45411"
  },
  {
   "id": 3301090003,
   "districtId": 3301090,
-  "name": "PURWODADI"
+  "districtName": "PATIMUAN",
+  "name": "PURWODADI",
+  "postalCode": "24652"
  },
  {
   "id": 3301090004,
   "districtId": 3301090,
-  "name": "CIMRUTU"
+  "districtName": "PATIMUAN",
+  "name": "CIMRUTU",
+  "postalCode": "53264"
  },
  {
   "id": 3301090005,
   "districtId": 3301090,
-  "name": "PATIMUAN"
+  "districtName": "PATIMUAN",
+  "name": "PATIMUAN",
+  "postalCode": "53264"
  },
  {
   "id": 3301090006,
   "districtId": 3301090,
-  "name": "CINYAWANG"
+  "districtName": "PATIMUAN",
+  "name": "CINYAWANG",
+  "postalCode": "53264"
  },
  {
   "id": 3301090007,
   "districtId": 3301090,
-  "name": "BULUPAYUNG"
+  "districtName": "PATIMUAN",
+  "name": "BULUPAYUNG",
+  "postalCode": "53274"
  }
 ]

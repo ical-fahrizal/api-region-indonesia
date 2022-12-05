@@ -2,41 +2,57 @@
  {
   "id": 3503060001,
   "districtId": 3503060,
-  "name": "SIDOMULYO"
+  "districtName": "PULE",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  },
  {
   "id": 3503060003,
   "districtId": 3503060,
-  "name": "JOHO"
+  "districtName": "PULE",
+  "name": "JOHO",
+  "postalCode": "54363"
  },
  {
   "id": 3503060004,
   "districtId": 3503060,
-  "name": "KEMBANGAN"
+  "districtName": "PULE",
+  "name": "KEMBANGAN",
+  "postalCode": "59511"
  },
  {
   "id": 3503060005,
   "districtId": 3503060,
-  "name": "PAKEL"
+  "districtName": "PULE",
+  "name": "PAKEL",
+  "postalCode": "57384"
  },
  {
   "id": 3503060007,
   "districtId": 3503060,
-  "name": "JOMBOK"
+  "districtName": "PULE",
+  "name": "JOMBOK",
+  "postalCode": "62362"
  },
  {
   "id": 3503060008,
   "districtId": 3503060,
-  "name": "TANGGARAN"
+  "districtName": "PULE",
+  "name": "TANGGARAN",
+  "postalCode": "66362"
  },
  {
   "id": 3503060009,
   "districtId": 3503060,
-  "name": "KARANGANYAR"
+  "districtName": "PULE",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  },
  {
   "id": 3503060010,
   "districtId": 3503060,
-  "name": "SUKOKIDUL"
+  "districtName": "PULE",
+  "name": "SUKOKIDUL",
+  "postalCode": "66362"
  }
 ]

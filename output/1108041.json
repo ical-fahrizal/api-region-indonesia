@@ -2,66 +2,92 @@
  {
   "id": 1108041001,
   "districtId": 1108041,
-  "name": "JANTHO BARU"
+  "districtName": "KOTA JANTHO",
+  "name": "JANTHO BARU",
+  "postalCode": "23917"
  },
  {
   "id": 1108041002,
   "districtId": 1108041,
-  "name": "WEU"
+  "districtName": "KOTA JANTHO",
+  "name": "WEU",
+  "postalCode": "23917"
  },
  {
   "id": 1108041003,
   "districtId": 1108041,
-  "name": "AWEEK"
+  "districtName": "KOTA JANTHO",
+  "name": "AWEEK",
+  "postalCode": ""
  },
  {
   "id": 1108041004,
   "districtId": 1108041,
-  "name": "BUENG"
+  "districtName": "KOTA JANTHO",
+  "name": "BUENG",
+  "postalCode": ""
  },
  {
   "id": 1108041005,
   "districtId": 1108041,
-  "name": "JALIN"
+  "districtName": "KOTA JANTHO",
+  "name": "JALIN",
+  "postalCode": "23915"
  },
  {
   "id": 1108041006,
   "districtId": 1108041,
-  "name": "SUKA TANI"
+  "districtName": "KOTA JANTHO",
+  "name": "SUKA TANI",
+  "postalCode": "24251"
  },
  {
   "id": 1108041007,
   "districtId": 1108041,
-  "name": "DATA CUT"
+  "districtName": "KOTA JANTHO",
+  "name": "DATA CUT",
+  "postalCode": "23917"
  },
  {
   "id": 1108041008,
   "districtId": 1108041,
-  "name": "JANTHO"
+  "districtName": "KOTA JANTHO",
+  "name": "JANTHO",
+  "postalCode": "23912"
  },
  {
   "id": 1108041009,
   "districtId": 1108041,
-  "name": "BARUEH"
+  "districtName": "KOTA JANTHO",
+  "name": "BARUEH",
+  "postalCode": "23911"
  },
  {
   "id": 1108041010,
   "districtId": 1108041,
-  "name": "JANTHO MAKMUR"
+  "districtName": "KOTA JANTHO",
+  "name": "JANTHO MAKMUR",
+  "postalCode": "23917"
  },
  {
   "id": 1108041011,
   "districtId": 1108041,
-  "name": "BUKIT MEUSARA"
+  "districtName": "KOTA JANTHO",
+  "name": "BUKIT MEUSARA",
+  "postalCode": "23919"
  },
  {
   "id": 1108041012,
   "districtId": 1108041,
-  "name": "TEUREUBEH"
+  "districtName": "KOTA JANTHO",
+  "name": "TEUREUBEH",
+  "postalCode": "23913"
  },
  {
   "id": 1108041013,
   "districtId": 1108041,
-  "name": "CUCUM"
+  "districtName": "KOTA JANTHO",
+  "name": "CUCUM",
+  "postalCode": "23918"
  }
 ]

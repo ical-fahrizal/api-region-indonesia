@@ -2,96 +2,134 @@
  {
   "id": 3527050001,
   "districtId": 3527050,
-  "name": "KEBUN SAREH"
+  "districtName": "OMBEN",
+  "name": "KEBUN SAREH",
+  "postalCode": "69291"
  },
  {
   "id": 3527050002,
   "districtId": 3527050,
-  "name": "KARANG NANGGER"
+  "districtName": "OMBEN",
+  "name": "KARANG NANGGER",
+  "postalCode": "69291"
  },
  {
   "id": 3527050003,
   "districtId": 3527050,
-  "name": "NAPOLAOK"
+  "districtName": "OMBEN",
+  "name": "NAPOLAOK",
+  "postalCode": ""
  },
  {
   "id": 3527050004,
   "districtId": 3527050,
-  "name": "ASTAPAH"
+  "districtName": "OMBEN",
+  "name": "ASTAPAH",
+  "postalCode": "69291"
  },
  {
   "id": 3527050005,
   "districtId": 3527050,
-  "name": "GERSEMPAL"
+  "districtName": "OMBEN",
+  "name": "GERSEMPAL",
+  "postalCode": "69291"
  },
  {
   "id": 3527050007,
   "districtId": 3527050,
-  "name": "MADULANG"
+  "districtName": "OMBEN",
+  "name": "MADULANG",
+  "postalCode": "69291"
  },
  {
   "id": 3527050008,
   "districtId": 3527050,
-  "name": "KAMONDUNG"
+  "districtName": "OMBEN",
+  "name": "KAMONDUNG",
+  "postalCode": "69291"
  },
  {
   "id": 3527050009,
   "districtId": 3527050,
-  "name": "TAMBAK"
+  "districtName": "OMBEN",
+  "name": "TAMBAK",
+  "postalCode": "29335"
  },
  {
   "id": 3527050010,
   "districtId": 3527050,
-  "name": "TEMORAN"
+  "districtName": "OMBEN",
+  "name": "TEMORAN",
+  "postalCode": "69291"
  },
  {
   "id": 3527050011,
   "districtId": 3527050,
-  "name": "OMBEN"
+  "districtName": "OMBEN",
+  "name": "OMBEN",
+  "postalCode": "69291"
  },
  {
   "id": 3527050012,
   "districtId": 3527050,
-  "name": "SOGIYAN"
+  "districtName": "OMBEN",
+  "name": "SOGIYAN",
+  "postalCode": ""
  },
  {
   "id": 3527050013,
   "districtId": 3527050,
-  "name": "NAPO DAYA"
+  "districtName": "OMBEN",
+  "name": "NAPO DAYA",
+  "postalCode": ""
  },
  {
   "id": 3527050014,
   "districtId": 3527050,
-  "name": "JRANGOAN"
+  "districtName": "OMBEN",
+  "name": "JRANGOAN",
+  "postalCode": ""
  },
  {
   "id": 3527050015,
   "districtId": 3527050,
-  "name": "ANGSOKAH"
+  "districtName": "OMBEN",
+  "name": "ANGSOKAH",
+  "postalCode": "69291"
  },
  {
   "id": 3527050016,
   "districtId": 3527050,
-  "name": "RAPALAOK"
+  "districtName": "OMBEN",
+  "name": "RAPALAOK",
+  "postalCode": ""
  },
  {
   "id": 3527050017,
   "districtId": 3527050,
-  "name": "RONGDALEM"
+  "districtName": "OMBEN",
+  "name": "RONGDALEM",
+  "postalCode": ""
  },
  {
   "id": 3527050018,
   "districtId": 3527050,
-  "name": "PANDAN"
+  "districtName": "OMBEN",
+  "name": "PANDAN",
+  "postalCode": "22611"
  },
  {
   "id": 3527050019,
   "districtId": 3527050,
-  "name": "RAPA DAYA"
+  "districtName": "OMBEN",
+  "name": "RAPA DAYA",
+  "postalCode": "69291"
  },
  {
   "id": 3527050020,
   "districtId": 3527050,
-  "name": "KARANG GAYAM"
+  "districtName": "OMBEN",
+  "name": "KARANG GAYAM",
+  "postalCode": "69174"
  }
 ]

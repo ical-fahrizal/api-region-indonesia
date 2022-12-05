@@ -2,46 +2,64 @@
  {
   "id": 3209181001,
   "districtId": 3209181,
-  "name": "SURANENGGALA KULON"
+  "districtName": "SURANENGGALA",
+  "name": "SURANENGGALA KULON",
+  "postalCode": "45152"
  },
  {
   "id": 3209181002,
   "districtId": 3209181,
-  "name": "SURAKARTA"
+  "districtName": "SURANENGGALA",
+  "name": "SURAKARTA",
+  "postalCode": "34583"
  },
  {
   "id": 3209181003,
   "districtId": 3209181,
-  "name": "KERATON"
+  "districtName": "SURANENGGALA",
+  "name": "KERATON",
+  "postalCode": "45152"
  },
  {
   "id": 3209181004,
   "districtId": 3209181,
-  "name": "PURWAWINANGUN"
+  "districtName": "SURANENGGALA",
+  "name": "PURWAWINANGUN",
+  "postalCode": "45512"
  },
  {
   "id": 3209181005,
   "districtId": 3209181,
-  "name": "MUARA"
+  "districtName": "SURANENGGALA",
+  "name": "MUARA",
+  "postalCode": "41259"
  },
  {
   "id": 3209181006,
   "districtId": 3209181,
-  "name": "KARANGREJA"
+  "districtName": "SURANENGGALA",
+  "name": "KARANGREJA",
+  "postalCode": "17710"
  },
  {
   "id": 3209181007,
   "districtId": 3209181,
-  "name": "SURANENGGALA KIDUL"
+  "districtName": "SURANENGGALA",
+  "name": "SURANENGGALA KIDUL",
+  "postalCode": "45152"
  },
  {
   "id": 3209181008,
   "districtId": 3209181,
-  "name": "SURANENGGALA LOR"
+  "districtName": "SURANENGGALA",
+  "name": "SURANENGGALA LOR",
+  "postalCode": "45152"
  },
  {
   "id": 3209181009,
   "districtId": 3209181,
-  "name": "SURANENGGALA"
+  "districtName": "SURANENGGALA",
+  "name": "SURANENGGALA",
+  "postalCode": "45152"
  }
 ]

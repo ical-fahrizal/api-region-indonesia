@@ -2,56 +2,78 @@
  {
   "id": 7307060001,
   "districtId": 7307060,
-  "name": "KOMPANG"
+  "districtName": "SINJAI TENGAH",
+  "name": "KOMPANG",
+  "postalCode": "92652"
  },
  {
   "id": 7307060002,
   "districtId": 7307060,
-  "name": "SAOTANRE"
+  "districtName": "SINJAI TENGAH",
+  "name": "SAOTANRE",
+  "postalCode": "92652"
  },
  {
   "id": 7307060003,
   "districtId": 7307060,
-  "name": "BARU"
+  "districtName": "SINJAI TENGAH",
+  "name": "BARU",
+  "postalCode": "23764"
  },
  {
   "id": 7307060004,
   "districtId": 7307060,
-  "name": "SAOTENGNGA"
+  "districtName": "SINJAI TENGAH",
+  "name": "SAOTENGNGA",
+  "postalCode": "92652"
  },
  {
   "id": 7307060005,
   "districtId": 7307060,
-  "name": "PATTONGKO"
+  "districtName": "SINJAI TENGAH",
+  "name": "PATTONGKO",
+  "postalCode": "92652"
  },
  {
   "id": 7307060006,
   "districtId": 7307060,
-  "name": "BONTO"
+  "districtName": "SINJAI TENGAH",
+  "name": "BONTO",
+  "postalCode": "91752"
  },
  {
   "id": 7307060007,
   "districtId": 7307060,
-  "name": "SAOHIRING"
+  "districtName": "SINJAI TENGAH",
+  "name": "SAOHIRING",
+  "postalCode": "92652"
  },
  {
   "id": 7307060008,
   "districtId": 7307060,
-  "name": "KANRUNG"
+  "districtName": "SINJAI TENGAH",
+  "name": "KANRUNG",
+  "postalCode": "92652"
  },
  {
   "id": 7307060009,
   "districtId": 7307060,
-  "name": "SAMAENRE"
+  "districtName": "SINJAI TENGAH",
+  "name": "SAMAENRE",
+  "postalCode": "92763"
  },
  {
   "id": 7307060010,
   "districtId": 7307060,
-  "name": "MATTUNRENG TELLUE"
+  "districtName": "SINJAI TENGAH",
+  "name": "MATTUNRENG TELLUE",
+  "postalCode": "92652"
  },
  {
   "id": 7307060011,
   "districtId": 7307060,
-  "name": "GANTARANG"
+  "districtName": "SINJAI TENGAH",
+  "name": "GANTARANG",
+  "postalCode": "92371"
  }
 ]

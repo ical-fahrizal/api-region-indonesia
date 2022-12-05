@@ -2,56 +2,78 @@
  {
   "id": 1212290001,
   "districtId": 1212290,
-  "name": "TUMPATAN"
+  "districtName": "BERINGIN",
+  "name": "TUMPATAN",
+  "postalCode": "20552"
  },
  {
   "id": 1212290002,
   "districtId": 1212290,
-  "name": "EMPLASMEN KUALA NAMU"
+  "districtName": "BERINGIN",
+  "name": "EMPLASMEN KUALA NAMU",
+  "postalCode": "20552"
  },
  {
   "id": 1212290003,
   "districtId": 1212290,
-  "name": "SIDODADI RAMUNIA"
+  "districtName": "BERINGIN",
+  "name": "SIDODADI RAMUNIA",
+  "postalCode": ""
  },
  {
   "id": 1212290004,
   "districtId": 1212290,
-  "name": "PASAR LIMA KEBUN KELAPA"
+  "districtName": "BERINGIN",
+  "name": "PASAR LIMA KEBUN KELAPA",
+  "postalCode": "20552"
  },
  {
   "id": 1212290005,
   "districtId": 1212290,
-  "name": "ARAS KABU"
+  "districtName": "BERINGIN",
+  "name": "ARAS KABU",
+  "postalCode": "20552"
  },
  {
   "id": 1212290006,
   "districtId": 1212290,
-  "name": "SERDANG"
+  "districtName": "BERINGIN",
+  "name": "SERDANG",
+  "postalCode": "24386"
  },
  {
   "id": 1212290007,
   "districtId": 1212290,
-  "name": "SIDOURIP"
+  "districtName": "BERINGIN",
+  "name": "SIDOURIP",
+  "postalCode": "20552"
  },
  {
   "id": 1212290008,
   "districtId": 1212290,
-  "name": "PASAR ENAM KUALA NAMU"
+  "districtName": "BERINGIN",
+  "name": "PASAR ENAM KUALA NAMU",
+  "postalCode": "20552"
  },
  {
   "id": 1212290009,
   "districtId": 1212290,
-  "name": "KARANG ANYAR"
+  "districtName": "BERINGIN",
+  "name": "KARANG ANYAR",
+  "postalCode": "24415"
  },
  {
   "id": 1212290010,
   "districtId": 1212290,
-  "name": "BERINGIN"
+  "districtName": "BERINGIN",
+  "name": "BERINGIN",
+  "postalCode": "20552"
  },
  {
   "id": 1212290011,
   "districtId": 1212290,
-  "name": "SIDOARJO DUA RAMUNIA"
+  "districtName": "BERINGIN",
+  "name": "SIDOARJO DUA RAMUNIA",
+  "postalCode": "20552"
  }
 ]

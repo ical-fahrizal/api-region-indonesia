@@ -2,41 +2,57 @@
  {
   "id": 5306080007,
   "districtId": 5306080,
-  "name": "MAUDEMU"
+  "districtName": "LAMAKNEN",
+  "name": "MAUDEMU",
+  "postalCode": "85772"
  },
  {
   "id": 5306080008,
   "districtId": 5306080,
-  "name": "DIRUN"
+  "districtName": "LAMAKNEN",
+  "name": "DIRUN",
+  "postalCode": "85772"
  },
  {
   "id": 5306080009,
   "districtId": 5306080,
-  "name": "LEOWALU"
+  "districtName": "LAMAKNEN",
+  "name": "LEOWALU",
+  "postalCode": "85772"
  },
  {
   "id": 5306080010,
   "districtId": 5306080,
-  "name": "DUARATO"
+  "districtName": "LAMAKNEN",
+  "name": "DUARATO",
+  "postalCode": "85772"
  },
  {
   "id": 5306080012,
   "districtId": 5306080,
-  "name": "KEWAR"
+  "districtName": "LAMAKNEN",
+  "name": "KEWAR",
+  "postalCode": "85772"
  },
  {
   "id": 5306080013,
   "districtId": 5306080,
-  "name": "MAHUITAS"
+  "districtName": "LAMAKNEN",
+  "name": "MAHUITAS",
+  "postalCode": "85772"
  },
  {
   "id": 5306080014,
   "districtId": 5306080,
-  "name": "MAKIR"
+  "districtName": "LAMAKNEN",
+  "name": "MAKIR",
+  "postalCode": "85772"
  },
  {
   "id": 5306080015,
   "districtId": 5306080,
-  "name": "LAMAK SENULU"
+  "districtName": "LAMAKNEN",
+  "name": "LAMAK SENULU",
+  "postalCode": ""
  }
 ]

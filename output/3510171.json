@@ -2,31 +2,43 @@
  {
   "id": 3510171001,
   "districtId": 3510171,
-  "name": "PAKEL"
+  "districtName": "LICIN",
+  "name": "PAKEL",
+  "postalCode": "57384"
  },
  {
   "id": 3510171002,
   "districtId": 3510171,
-  "name": "KLUNCING"
+  "districtName": "LICIN",
+  "name": "KLUNCING",
+  "postalCode": "68454"
  },
  {
   "id": 3510171003,
   "districtId": 3510171,
-  "name": "SEGOBANG"
+  "districtName": "LICIN",
+  "name": "SEGOBANG",
+  "postalCode": "68454"
  },
  {
   "id": 3510171006,
   "districtId": 3510171,
-  "name": "BANJAR"
+  "districtName": "LICIN",
+  "name": "BANJAR",
+  "postalCode": "21263"
  },
  {
   "id": 3510171007,
   "districtId": 3510171,
-  "name": "LICIN"
+  "districtName": "LICIN",
+  "name": "LICIN",
+  "postalCode": "45353"
  },
  {
   "id": 3510171008,
   "districtId": 3510171,
-  "name": "TAMANSARI"
+  "districtName": "LICIN",
+  "name": "TAMANSARI",
+  "postalCode": "35366"
  }
 ]

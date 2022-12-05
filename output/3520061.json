@@ -2,51 +2,71 @@
  {
   "id": 3520061001,
   "districtId": 3520061,
-  "name": "SELOTINATAH"
+  "districtName": "NGARIBOYO",
+  "name": "SELOTINATAH",
+  "postalCode": "63351"
  },
  {
   "id": 3520061003,
   "districtId": 3520061,
-  "name": "BANYUDONO"
+  "districtName": "NGARIBOYO",
+  "name": "BANYUDONO",
+  "postalCode": "57373"
  },
  {
   "id": 3520061004,
   "districtId": 3520061,
-  "name": "BANJARPANJANG"
+  "districtName": "NGARIBOYO",
+  "name": "BANJARPANJANG",
+  "postalCode": "63351"
  },
  {
   "id": 3520061005,
   "districtId": 3520061,
-  "name": "BANJAREJO"
+  "districtName": "NGARIBOYO",
+  "name": "BANJAREJO",
+  "postalCode": "35373"
  },
  {
   "id": 3520061006,
   "districtId": 3520061,
-  "name": "MOJOPURNO"
+  "districtName": "NGARIBOYO",
+  "name": "MOJOPURNO",
+  "postalCode": "63361"
  },
  {
   "id": 3520061007,
   "districtId": 3520061,
-  "name": "BALEGONDO"
+  "districtName": "NGARIBOYO",
+  "name": "BALEGONDO",
+  "postalCode": "63351"
  },
  {
   "id": 3520061008,
   "districtId": 3520061,
-  "name": "NGARIBOYO"
+  "districtName": "NGARIBOYO",
+  "name": "NGARIBOYO",
+  "postalCode": "63351"
  },
  {
   "id": 3520061009,
   "districtId": 3520061,
-  "name": "BALEASRI"
+  "districtName": "NGARIBOYO",
+  "name": "BALEASRI",
+  "postalCode": "63351"
  },
  {
   "id": 3520061011,
   "districtId": 3520061,
-  "name": "SELOPANGGUNG"
+  "districtName": "NGARIBOYO",
+  "name": "SELOPANGGUNG",
+  "postalCode": "63351"
  },
  {
   "id": 3520061012,
   "districtId": 3520061,
-  "name": "BANGSRI"
+  "districtName": "NGARIBOYO",
+  "name": "BANGSRI",
+  "postalCode": "59453"
  }
 ]

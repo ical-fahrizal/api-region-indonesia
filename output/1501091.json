@@ -2,66 +2,92 @@
  {
   "id": 1501091001,
   "districtId": 1501091,
-  "name": "SUNGAI RUMPUN"
+  "districtName": "GUNUNG TUJUH",
+  "name": "SUNGAI RUMPUN",
+  "postalCode": "37163"
  },
  {
   "id": 1501091002,
   "districtId": 1501091,
-  "name": "BENGKOLAN DUA"
+  "districtName": "GUNUNG TUJUH",
+  "name": "BENGKOLAN DUA",
+  "postalCode": "37163"
  },
  {
   "id": 1501091003,
   "districtId": 1501091,
-  "name": "SUNGAI SIKAI"
+  "districtName": "GUNUNG TUJUH",
+  "name": "SUNGAI SIKAI",
+  "postalCode": "37163"
  },
  {
   "id": 1501091004,
   "districtId": 1501091,
-  "name": "TANGKIL"
+  "districtName": "GUNUNG TUJUH",
+  "name": "TANGKIL",
+  "postalCode": "37163"
  },
  {
   "id": 1501091005,
   "districtId": 1501091,
-  "name": "BUMBUN DURI"
+  "districtName": "GUNUNG TUJUH",
+  "name": "BUMBUN DURI",
+  "postalCode": "37163"
  },
  {
   "id": 1501091006,
   "districtId": 1501091,
-  "name": "JERNIH JAYA"
+  "districtName": "GUNUNG TUJUH",
+  "name": "JERNIH JAYA",
+  "postalCode": "37163"
  },
  {
   "id": 1501091007,
   "districtId": 1501091,
-  "name": "LUBUK PAUH"
+  "districtName": "GUNUNG TUJUH",
+  "name": "LUBUK PAUH",
+  "postalCode": "37163"
  },
  {
   "id": 1501091008,
   "districtId": 1501091,
-  "name": "PELOMPEK"
+  "districtName": "GUNUNG TUJUH",
+  "name": "PELOMPEK",
+  "postalCode": "37163"
  },
  {
   "id": 1501091009,
   "districtId": 1501091,
-  "name": "TELUN BERASAP"
+  "districtName": "GUNUNG TUJUH",
+  "name": "TELUN BERASAP",
+  "postalCode": "37163"
  },
  {
   "id": 1501091010,
   "districtId": 1501091,
-  "name": "PESISIR BUKIT"
+  "districtName": "GUNUNG TUJUH",
+  "name": "PESISIR BUKIT",
+  "postalCode": "37163"
  },
  {
   "id": 1501091011,
   "districtId": 1501091,
-  "name": "PAUH TINGGI"
+  "districtName": "GUNUNG TUJUH",
+  "name": "PAUH TINGGI",
+  "postalCode": "37163"
  },
  {
   "id": 1501091012,
   "districtId": 1501091,
-  "name": "PELOMPEK PASAR BARU"
+  "districtName": "GUNUNG TUJUH",
+  "name": "PELOMPEK PASAR BARU",
+  "postalCode": "37163"
  },
  {
   "id": 1501091013,
   "districtId": 1501091,
-  "name": "SUNGAI JERNIH"
+  "districtName": "GUNUNG TUJUH",
+  "name": "SUNGAI JERNIH",
+  "postalCode": "37163"
  }
 ]

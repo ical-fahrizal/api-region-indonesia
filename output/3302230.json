@@ -2,91 +2,127 @@
  {
   "id": 3302230001,
   "districtId": 3302230,
-  "name": "KALIKIDANG"
+  "districtName": "SOKARAJA",
+  "name": "KALIKIDANG",
+  "postalCode": "53181"
  },
  {
   "id": 3302230002,
   "districtId": 3302230,
-  "name": "SOKARAJA TENGAH"
+  "districtName": "SOKARAJA",
+  "name": "SOKARAJA TENGAH",
+  "postalCode": "53181"
  },
  {
   "id": 3302230003,
   "districtId": 3302230,
-  "name": "SOKARAJA KIDUL"
+  "districtName": "SOKARAJA",
+  "name": "SOKARAJA KIDUL",
+  "postalCode": "53181"
  },
  {
   "id": 3302230004,
   "districtId": 3302230,
-  "name": "SOKARAJA WETAN"
+  "districtName": "SOKARAJA",
+  "name": "SOKARAJA WETAN",
+  "postalCode": "53181"
  },
  {
   "id": 3302230005,
   "districtId": 3302230,
-  "name": "KLAHANG"
+  "districtName": "SOKARAJA",
+  "name": "KLAHANG",
+  "postalCode": "53181"
  },
  {
   "id": 3302230006,
   "districtId": 3302230,
-  "name": "BANJARSARI KIDUL"
+  "districtName": "SOKARAJA",
+  "name": "BANJARSARI KIDUL",
+  "postalCode": "53181"
  },
  {
   "id": 3302230007,
   "districtId": 3302230,
-  "name": "JOMPO KULON"
+  "districtName": "SOKARAJA",
+  "name": "JOMPO KULON",
+  "postalCode": "53181"
  },
  {
   "id": 3302230008,
   "districtId": 3302230,
-  "name": "BANJARANYAR"
+  "districtName": "SOKARAJA",
+  "name": "BANJARANYAR",
+  "postalCode": "46383"
  },
  {
   "id": 3302230009,
   "districtId": 3302230,
-  "name": "LEMBERANG"
+  "districtName": "SOKARAJA",
+  "name": "LEMBERANG",
+  "postalCode": "53181"
  },
  {
   "id": 3302230010,
   "districtId": 3302230,
-  "name": "KARANGDUREN"
+  "districtName": "SOKARAJA",
+  "name": "KARANGDUREN",
+  "postalCode": "53353"
  },
  {
   "id": 3302230011,
   "districtId": 3302230,
-  "name": "SOKARAJA LOR"
+  "districtName": "SOKARAJA",
+  "name": "SOKARAJA LOR",
+  "postalCode": "53181"
  },
  {
   "id": 3302230012,
   "districtId": 3302230,
-  "name": "KEDONDONG"
+  "districtName": "SOKARAJA",
+  "name": "KEDONDONG",
+  "postalCode": "32191"
  },
  {
   "id": 3302230013,
   "districtId": 3302230,
-  "name": "PAMIJEN"
+  "districtName": "SOKARAJA",
+  "name": "PAMIJEN",
+  "postalCode": "53151"
  },
  {
   "id": 3302230014,
   "districtId": 3302230,
-  "name": "SOKARAJA KULON"
+  "districtName": "SOKARAJA",
+  "name": "SOKARAJA KULON",
+  "postalCode": "53181"
  },
  {
   "id": 3302230015,
   "districtId": 3302230,
-  "name": "KARANGKEDAWUNG"
+  "districtName": "SOKARAJA",
+  "name": "KARANGKEDAWUNG",
+  "postalCode": "53181"
  },
  {
   "id": 3302230016,
   "districtId": 3302230,
-  "name": "WIRADADI"
+  "districtName": "SOKARAJA",
+  "name": "WIRADADI",
+  "postalCode": "53181"
  },
  {
   "id": 3302230017,
   "districtId": 3302230,
-  "name": "KARANGNANAS"
+  "districtName": "SOKARAJA",
+  "name": "KARANGNANAS",
+  "postalCode": "53181"
  },
  {
   "id": 3302230018,
   "districtId": 3302230,
-  "name": "KARANGRAU"
+  "districtName": "SOKARAJA",
+  "name": "KARANGRAU",
+  "postalCode": "53192"
  }
 ]

@@ -2,46 +2,64 @@
  {
   "id": 7173020001,
   "districtId": 7173020,
-  "name": "MATANI TIGA"
+  "districtName": "TOMOHON TENGAH",
+  "name": "MATANI TIGA",
+  "postalCode": "95443"
  },
  {
   "id": 7173020002,
   "districtId": 7173020,
-  "name": "MATANI DUA"
+  "districtName": "TOMOHON TENGAH",
+  "name": "MATANI DUA",
+  "postalCode": "95444"
  },
  {
   "id": 7173020003,
   "districtId": 7173020,
-  "name": "MATANI SATU"
+  "districtName": "TOMOHON TENGAH",
+  "name": "MATANI SATU",
+  "postalCode": "95445"
  },
  {
   "id": 7173020005,
   "districtId": 7173020,
-  "name": "KOLONGAN"
+  "districtName": "TOMOHON TENGAH",
+  "name": "KOLONGAN",
+  "postalCode": "95378"
  },
  {
   "id": 7173020011,
   "districtId": 7173020,
-  "name": "KAMASI"
+  "districtName": "TOMOHON TENGAH",
+  "name": "KAMASI",
+  "postalCode": "95442"
  },
  {
   "id": 7173020016,
   "districtId": 7173020,
-  "name": "TALETE SATU"
+  "districtName": "TOMOHON TENGAH",
+  "name": "TALETE SATU",
+  "postalCode": "95441"
  },
  {
   "id": 7173020017,
   "districtId": 7173020,
-  "name": "TALETE DUA"
+  "districtName": "TOMOHON TENGAH",
+  "name": "TALETE DUA",
+  "postalCode": "95441"
  },
  {
   "id": 7173020018,
   "districtId": 7173020,
-  "name": "KOLONGAN SATU"
+  "districtName": "TOMOHON TENGAH",
+  "name": "KOLONGAN SATU",
+  "postalCode": "95441"
  },
  {
   "id": 7173020019,
   "districtId": 7173020,
-  "name": "KAMASI SATU"
+  "districtName": "TOMOHON TENGAH",
+  "name": "KAMASI SATU",
+  "postalCode": "95441"
  }
 ]

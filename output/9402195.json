@@ -2,36 +2,50 @@
  {
   "id": 9402195002,
   "districtId": 9402195,
-  "name": "AIKIMA"
+  "districtName": "PISUGI",
+  "name": "AIKIMA",
+  "postalCode": "99552"
  },
  {
   "id": 9402195003,
   "districtId": 9402195,
-  "name": "OKOLOMA"
+  "districtName": "PISUGI",
+  "name": "OKOLOMA",
+  "postalCode": ""
  },
  {
   "id": 9402195004,
   "districtId": 9402195,
-  "name": "PABUMA"
+  "districtName": "PISUGI",
+  "name": "PABUMA",
+  "postalCode": "99552"
  },
  {
   "id": 9402195020,
   "districtId": 9402195,
-  "name": "WARA"
+  "districtName": "PISUGI",
+  "name": "WARA",
+  "postalCode": "91994"
  },
  {
   "id": 9402195021,
   "districtId": 9402195,
-  "name": "PIKHE"
+  "districtName": "PISUGI",
+  "name": "PIKHE",
+  "postalCode": "99552"
  },
  {
   "id": 9402195022,
   "districtId": 9402195,
-  "name": "AKIAPUT"
+  "districtName": "PISUGI",
+  "name": "AKIAPUT",
+  "postalCode": "99552"
  },
  {
   "id": 9402195023,
   "districtId": 9402195,
-  "name": "SUROBA"
+  "districtName": "PISUGI",
+  "name": "SUROBA",
+  "postalCode": "99552"
  }
 ]

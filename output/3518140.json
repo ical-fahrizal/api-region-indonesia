@@ -2,76 +2,106 @@
  {
   "id": 3518140001,
   "districtId": 3518140,
-  "name": "JATIREJO"
+  "districtName": "NGANJUK",
+  "name": "JATIREJO",
+  "postalCode": "23661"
  },
  {
   "id": 3518140002,
   "districtId": 3518140,
-  "name": "PLOSO"
+  "districtName": "NGANJUK",
+  "name": "PLOSO",
+  "postalCode": "59348"
  },
  {
   "id": 3518140003,
   "districtId": 3518140,
-  "name": "KRAMAT"
+  "districtName": "NGANJUK",
+  "name": "KRAMAT",
+  "postalCode": "10450"
  },
  {
   "id": 3518140004,
   "districtId": 3518140,
-  "name": "PAYAMAN"
+  "districtName": "NGANJUK",
+  "name": "PAYAMAN",
+  "postalCode": "59381"
  },
  {
   "id": 3518140005,
   "districtId": 3518140,
-  "name": "KARTOHARJO"
+  "districtName": "NGANJUK",
+  "name": "KARTOHARJO",
+  "postalCode": "56196"
  },
  {
   "id": 3518140006,
   "districtId": 3518140,
-  "name": "CANGKRINGAN"
+  "districtName": "NGANJUK",
+  "name": "CANGKRINGAN",
+  "postalCode": "57373"
  },
  {
   "id": 3518140007,
   "districtId": 3518140,
-  "name": "BOGO"
+  "districtName": "NGANJUK",
+  "name": "BOGO",
+  "postalCode": "62181"
  },
  {
   "id": 3518140008,
   "districtId": 3518140,
-  "name": "KAUMAN"
+  "districtName": "NGANJUK",
+  "name": "KAUMAN",
+  "postalCode": "51215"
  },
  {
   "id": 3518140009,
   "districtId": 3518140,
-  "name": "GANUNG KIDUL"
+  "districtName": "NGANJUK",
+  "name": "GANUNG KIDUL",
+  "postalCode": "64419"
  },
  {
   "id": 3518140010,
   "districtId": 3518140,
-  "name": "MANGUN DIKARAN"
+  "districtName": "NGANJUK",
+  "name": "MANGUN DIKARAN",
+  "postalCode": "64419"
  },
  {
   "id": 3518140011,
   "districtId": 3518140,
-  "name": "WERUNGOTOK"
+  "districtName": "NGANJUK",
+  "name": "WERUNGOTOK",
+  "postalCode": "64419"
  },
  {
   "id": 3518140012,
   "districtId": 3518140,
-  "name": "BEGADUNG"
+  "districtName": "NGANJUK",
+  "name": "BEGADUNG",
+  "postalCode": "64413"
  },
  {
   "id": 3518140013,
   "districtId": 3518140,
-  "name": "RINGIN ANOM"
+  "districtName": "NGANJUK",
+  "name": "RINGIN ANOM",
+  "postalCode": "63284"
  },
  {
   "id": 3518140014,
   "districtId": 3518140,
-  "name": "KEDUNG DOWO"
+  "districtName": "NGANJUK",
+  "name": "KEDUNG DOWO",
+  "postalCode": "68371"
  },
  {
   "id": 3518140015,
   "districtId": 3518140,
-  "name": "BALONG PACUL"
+  "districtName": "NGANJUK",
+  "name": "BALONG PACUL",
+  "postalCode": "64419"
  }
 ]

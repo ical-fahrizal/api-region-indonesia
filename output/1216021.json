@@ -2,31 +2,43 @@
  {
   "id": 1216021001,
   "districtId": 1216021,
-  "name": "MAHALA"
+  "districtName": "TINADA",
+  "name": "MAHALA",
+  "postalCode": "22272"
  },
  {
   "id": 1216021002,
   "districtId": 1216021,
-  "name": "TINADA"
+  "districtName": "TINADA",
+  "name": "TINADA",
+  "postalCode": "22272"
  },
  {
   "id": 1216021003,
   "districtId": 1216021,
-  "name": "SILIMAKUTA"
+  "districtName": "TINADA",
+  "name": "SILIMAKUTA",
+  "postalCode": "21167"
  },
  {
   "id": 1216021004,
   "districtId": 1216021,
-  "name": "KUTA BABO"
+  "districtName": "TINADA",
+  "name": "KUTA BABO",
+  "postalCode": "22272"
  },
  {
   "id": 1216021005,
   "districtId": 1216021,
-  "name": "PRONGIL"
+  "districtName": "TINADA",
+  "name": "PRONGIL",
+  "postalCode": "22272"
  },
  {
   "id": 1216021006,
   "districtId": 1216021,
-  "name": "BULUH TELLANG"
+  "districtName": "TINADA",
+  "name": "BULUH TELLANG",
+  "postalCode": "22272"
  }
 ]

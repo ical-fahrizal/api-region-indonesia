@@ -2,66 +2,92 @@
  {
   "id": 1610011001,
   "districtId": 1610011,
-  "name": "IBUL DALAM"
+  "districtName": "RAMBANG KUANG",
+  "name": "IBUL DALAM",
+  "postalCode": "30869"
  },
  {
   "id": 1610011002,
   "districtId": 1610011,
-  "name": "BERINGIN DALAM"
+  "districtName": "RAMBANG KUANG",
+  "name": "BERINGIN DALAM",
+  "postalCode": "30869"
  },
  {
   "id": 1610011003,
   "districtId": 1610011,
-  "name": "KUANG DALAM BARAT"
+  "districtName": "RAMBANG KUANG",
+  "name": "KUANG DALAM BARAT",
+  "postalCode": "30869"
  },
  {
   "id": 1610011004,
   "districtId": 1610011,
-  "name": "LUBUK TUNGGAL"
+  "districtName": "RAMBANG KUANG",
+  "name": "LUBUK TUNGGAL",
+  "postalCode": "30869"
  },
  {
   "id": 1610011005,
   "districtId": 1610011,
-  "name": "ULAK SEGARA"
+  "districtName": "RAMBANG KUANG",
+  "name": "ULAK SEGARA",
+  "postalCode": "30869"
  },
  {
   "id": 1610011006,
   "districtId": 1610011,
-  "name": "TAMBANG RAMBANG"
+  "districtName": "RAMBANG KUANG",
+  "name": "TAMBANG RAMBANG",
+  "postalCode": "30869"
  },
  {
   "id": 1610011007,
   "districtId": 1610011,
-  "name": "TANGAI"
+  "districtName": "RAMBANG KUANG",
+  "name": "TANGAI",
+  "postalCode": ""
  },
  {
   "id": 1610011008,
   "districtId": 1610011,
-  "name": "TANJUNG MIRING"
+  "districtName": "RAMBANG KUANG",
+  "name": "TANJUNG MIRING",
+  "postalCode": "30869"
  },
  {
   "id": 1610011009,
   "districtId": 1610011,
-  "name": "KAYU ARA"
+  "districtName": "RAMBANG KUANG",
+  "name": "KAYU ARA",
+  "postalCode": "28755"
  },
  {
   "id": 1610011010,
   "districtId": 1610011,
-  "name": "TANJUNG BULAN"
+  "districtName": "RAMBANG KUANG",
+  "name": "TANJUNG BULAN",
+  "postalCode": "32361"
  },
  {
   "id": 1610011011,
   "districtId": 1610011,
-  "name": "SUNUR"
+  "districtName": "RAMBANG KUANG",
+  "name": "SUNUR",
+  "postalCode": "30869"
  },
  {
   "id": 1610011012,
   "districtId": 1610011,
-  "name": "KUANG DALAM TIMUR"
+  "districtName": "RAMBANG KUANG",
+  "name": "KUANG DALAM TIMUR",
+  "postalCode": "30869"
  },
  {
   "id": 1610011013,
   "districtId": 1610011,
-  "name": "SUKANANTI"
+  "districtName": "RAMBANG KUANG",
+  "name": "SUKANANTI",
+  "postalCode": "31591"
  }
 ]

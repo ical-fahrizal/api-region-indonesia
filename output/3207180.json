@@ -2,66 +2,92 @@
  {
   "id": 3207180001,
   "districtId": 3207180,
-  "name": "KARANGPARI"
+  "districtName": "RANCAH",
+  "name": "KARANGPARI",
+  "postalCode": "46387"
  },
  {
   "id": 3207180002,
   "districtId": 3207180,
-  "name": "BOJONGGEDANG"
+  "districtName": "RANCAH",
+  "name": "BOJONGGEDANG",
+  "postalCode": "46387"
  },
  {
   "id": 3207180003,
   "districtId": 3207180,
-  "name": "CISONTROL"
+  "districtName": "RANCAH",
+  "name": "CISONTROL",
+  "postalCode": "46387"
  },
  {
   "id": 3207180004,
   "districtId": 3207180,
-  "name": "CILEUNGSIR"
+  "districtName": "RANCAH",
+  "name": "CILEUNGSIR",
+  "postalCode": "46387"
  },
  {
   "id": 3207180005,
   "districtId": 3207180,
-  "name": "KIARAPAYUNG"
+  "districtName": "RANCAH",
+  "name": "KIARAPAYUNG",
+  "postalCode": "41371"
  },
  {
   "id": 3207180006,
   "districtId": 3207180,
-  "name": "KAWUNGLARANG"
+  "districtName": "RANCAH",
+  "name": "KAWUNGLARANG",
+  "postalCode": "46387"
  },
  {
   "id": 3207180007,
   "districtId": 3207180,
-  "name": "RANCAH"
+  "districtName": "RANCAH",
+  "name": "RANCAH",
+  "postalCode": "46387"
  },
  {
   "id": 3207180008,
   "districtId": 3207180,
-  "name": "SITUMANDALA"
+  "districtName": "RANCAH",
+  "name": "SITUMANDALA",
+  "postalCode": "46387"
  },
  {
   "id": 3207180009,
   "districtId": 3207180,
-  "name": "PATAKAHARJA"
+  "districtName": "RANCAH",
+  "name": "PATAKAHARJA",
+  "postalCode": "46387"
  },
  {
   "id": 3207180010,
   "districtId": 3207180,
-  "name": "DADIHARJA"
+  "districtName": "RANCAH",
+  "name": "DADIHARJA",
+  "postalCode": "46387"
  },
  {
   "id": 3207180011,
   "districtId": 3207180,
-  "name": "JANGALAHARJA"
+  "districtName": "RANCAH",
+  "name": "JANGALAHARJA",
+  "postalCode": "46387"
  },
  {
   "id": 3207180012,
   "districtId": 3207180,
-  "name": "GIRIHARJA"
+  "districtName": "RANCAH",
+  "name": "GIRIHARJA",
+  "postalCode": "46387"
  },
  {
   "id": 3207180013,
   "districtId": 3207180,
-  "name": "WANGUNSARI"
+  "districtName": "RANCAH",
+  "name": "WANGUNSARI",
+  "postalCode": "46187"
  }
 ]

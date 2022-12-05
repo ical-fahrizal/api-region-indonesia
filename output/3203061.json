@@ -2,46 +2,64 @@
  {
   "id": 3203061001,
   "districtId": 3203061,
-  "name": "MEKARMULYA"
+  "districtName": "PASIRKUDA",
+  "name": "MEKARMULYA",
+  "postalCode": "45571"
  },
  {
   "id": 3203061002,
   "districtId": 3203061,
-  "name": "KUBANG"
+  "districtName": "PASIRKUDA",
+  "name": "KUBANG",
+  "postalCode": "26253"
  },
  {
   "id": 3203061003,
   "districtId": 3203061,
-  "name": "GIRIJAYA"
+  "districtName": "PASIRKUDA",
+  "name": "GIRIJAYA",
+  "postalCode": "46475"
  },
  {
   "id": 3203061004,
   "districtId": 3203061,
-  "name": "GIRIMUKTI"
+  "districtName": "PASIRKUDA",
+  "name": "GIRIMUKTI",
+  "postalCode": "46475"
  },
  {
   "id": 3203061005,
   "districtId": 3203061,
-  "name": "SIMPANG"
+  "districtName": "PASIRKUDA",
+  "name": "SIMPANG",
+  "postalCode": "23773"
  },
  {
   "id": 3203061006,
   "districtId": 3203061,
-  "name": "KALIBARU"
+  "districtName": "PASIRKUDA",
+  "name": "KALIBARU",
+  "postalCode": "16414"
  },
  {
   "id": 3203061007,
   "districtId": 3203061,
-  "name": "PUSAKAJAYA"
+  "districtName": "PASIRKUDA",
+  "name": "PUSAKAJAYA",
+  "postalCode": "43266"
  },
  {
   "id": 3203061008,
   "districtId": 3203061,
-  "name": "KARANGJAYA"
+  "districtName": "PASIRKUDA",
+  "name": "KARANGJAYA",
+  "postalCode": "43197"
  },
  {
   "id": 3203061009,
   "districtId": 3203061,
-  "name": "PADAMULYA"
+  "districtName": "PASIRKUDA",
+  "name": "PADAMULYA",
+  "postalCode": "46262"
  }
 ]

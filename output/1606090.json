@@ -2,76 +2,106 @@
  {
   "id": 1606090007,
   "districtId": 1606090,
-  "name": "SUNGAI LILIN"
+  "districtName": "SUNGAI LILIN",
+  "name": "SUNGAI LILIN",
+  "postalCode": "37263"
  },
  {
   "id": 1606090018,
   "districtId": 1606090,
-  "name": "SUMBER REJEKI"
+  "districtName": "SUNGAI LILIN",
+  "name": "SUMBER REJEKI",
+  "postalCode": "30971"
  },
  {
   "id": 1606090019,
   "districtId": 1606090,
-  "name": "SUKADAMAI BARU"
+  "districtName": "SUNGAI LILIN",
+  "name": "SUKADAMAI BARU",
+  "postalCode": "30755"
  },
  {
   "id": 1606090020,
   "districtId": 1606090,
-  "name": "CINTA DAMAI"
+  "districtName": "SUNGAI LILIN",
+  "name": "CINTA DAMAI",
+  "postalCode": "24673"
  },
  {
   "id": 1606090021,
   "districtId": 1606090,
-  "name": "BERLIAN MAKMUR"
+  "districtName": "SUNGAI LILIN",
+  "name": "BERLIAN MAKMUR",
+  "postalCode": "30755"
  },
  {
   "id": 1606090022,
   "districtId": 1606090,
-  "name": "SRIGUNUNG"
+  "districtName": "SUNGAI LILIN",
+  "name": "SRIGUNUNG",
+  "postalCode": "30755"
  },
  {
   "id": 1606090023,
   "districtId": 1606090,
-  "name": "BUMI KENCANA"
+  "districtName": "SUNGAI LILIN",
+  "name": "BUMI KENCANA",
+  "postalCode": "30755"
  },
  {
   "id": 1606090024,
   "districtId": 1606090,
-  "name": "PANCA TUNGGAL"
+  "districtName": "SUNGAI LILIN",
+  "name": "PANCA TUNGGAL",
+  "postalCode": "32382"
  },
  {
   "id": 1606090025,
   "districtId": 1606090,
-  "name": "MULYOREJO"
+  "districtName": "SUNGAI LILIN",
+  "name": "MULYOREJO",
+  "postalCode": "58315"
  },
  {
   "id": 1606090026,
   "districtId": 1606090,
-  "name": "LINGGO SARI"
+  "districtName": "SUNGAI LILIN",
+  "name": "LINGGO SARI",
+  "postalCode": "30755"
  },
  {
   "id": 1606090027,
   "districtId": 1606090,
-  "name": "NUSA SERASAN"
+  "districtName": "SUNGAI LILIN",
+  "name": "NUSA SERASAN",
+  "postalCode": "30755"
  },
  {
   "id": 1606090028,
   "districtId": 1606090,
-  "name": "PINANG BANJAR"
+  "districtName": "SUNGAI LILIN",
+  "name": "PINANG BANJAR",
+  "postalCode": "31171"
  },
  {
   "id": 1606090029,
   "districtId": 1606090,
-  "name": "MEKAR JADI"
+  "districtName": "SUNGAI LILIN",
+  "name": "MEKAR JADI",
+  "postalCode": "30755"
  },
  {
   "id": 1606090035,
   "districtId": 1606090,
-  "name": "BUKIT JAYA"
+  "districtName": "SUNGAI LILIN",
+  "name": "BUKIT JAYA",
+  "postalCode": "23615"
  },
  {
   "id": 1606090036,
   "districtId": 1606090,
-  "name": "SUNGAI LILIN JAYA"
+  "districtName": "SUNGAI LILIN",
+  "name": "SUNGAI LILIN JAYA",
+  "postalCode": "30755"
  }
 ]

@@ -2,66 +2,92 @@
  {
   "id": 1606020026,
   "districtId": 1606020,
-  "name": "KASMARAN"
+  "districtName": "BABAT TOMAN",
+  "name": "KASMARAN",
+  "postalCode": "30752"
  },
  {
   "id": 1606020027,
   "districtId": 1606020,
-  "name": "TOMAN"
+  "districtName": "BABAT TOMAN",
+  "name": "TOMAN",
+  "postalCode": "30752"
  },
  {
   "id": 1606020028,
   "districtId": 1606020,
-  "name": "BABAT"
+  "districtName": "BABAT TOMAN",
+  "name": "BABAT",
+  "postalCode": "30752"
  },
  {
   "id": 1606020029,
   "districtId": 1606020,
-  "name": "MANGUN JAYA"
+  "districtName": "BABAT TOMAN",
+  "name": "MANGUN JAYA",
+  "postalCode": "30752"
  },
  {
   "id": 1606020030,
   "districtId": 1606020,
-  "name": "MUARA PUNJUNG"
+  "districtName": "BABAT TOMAN",
+  "name": "MUARA PUNJUNG",
+  "postalCode": "30752"
  },
  {
   "id": 1606020031,
   "districtId": 1606020,
-  "name": "BERUGA"
+  "districtName": "BABAT TOMAN",
+  "name": "BERUGA",
+  "postalCode": ""
  },
  {
   "id": 1606020032,
   "districtId": 1606020,
-  "name": "SUGIWARAS"
+  "districtName": "BABAT TOMAN",
+  "name": "SUGIWARAS",
+  "postalCode": "30752"
  },
  {
   "id": 1606020033,
   "districtId": 1606020,
-  "name": "SUGI RAYA"
+  "districtName": "BABAT TOMAN",
+  "name": "SUGI RAYA",
+  "postalCode": "30752"
  },
  {
   "id": 1606020034,
   "districtId": 1606020,
-  "name": "SEREKA"
+  "districtName": "BABAT TOMAN",
+  "name": "SEREKA",
+  "postalCode": "30752"
  },
  {
   "id": 1606020035,
   "districtId": 1606020,
-  "name": "SRI MULYO"
+  "districtName": "BABAT TOMAN",
+  "name": "SRI MULYO",
+  "postalCode": "30752"
  },
  {
   "id": 1606020036,
   "districtId": 1606020,
-  "name": "SUNGAI ANGIT"
+  "districtName": "BABAT TOMAN",
+  "name": "SUNGAI ANGIT",
+  "postalCode": "30752"
  },
  {
   "id": 1606020037,
   "districtId": 1606020,
-  "name": "BANGUN SARI"
+  "districtName": "BABAT TOMAN",
+  "name": "BANGUN SARI",
+  "postalCode": "24782"
  },
  {
   "id": 1606020038,
   "districtId": 1606020,
-  "name": "PANGKALAN JAYA"
+  "districtName": "BABAT TOMAN",
+  "name": "PANGKALAN JAYA",
+  "postalCode": ""
  }
 ]

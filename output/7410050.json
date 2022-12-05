@@ -2,96 +2,134 @@
  {
   "id": 7410050008,
   "districtId": 7410050,
-  "name": "WANGGUDU"
+  "districtName": "ASERA",
+  "name": "WANGGUDU",
+  "postalCode": "93353"
  },
  {
   "id": 7410050009,
   "districtId": 7410050,
-  "name": "TANGGULURI"
+  "districtName": "ASERA",
+  "name": "TANGGULURI",
+  "postalCode": ""
  },
  {
   "id": 7410050010,
   "districtId": 7410050,
-  "name": "WUNDUHAKA"
+  "districtName": "ASERA",
+  "name": "WUNDUHAKA",
+  "postalCode": "93353"
  },
  {
   "id": 7410050011,
   "districtId": 7410050,
-  "name": "WANGGUDU RAYA"
+  "districtName": "ASERA",
+  "name": "WANGGUDU RAYA",
+  "postalCode": ""
  },
  {
   "id": 7410050012,
   "districtId": 7410050,
-  "name": "WALALINDU"
+  "districtName": "ASERA",
+  "name": "WALALINDU",
+  "postalCode": "93353"
  },
  {
   "id": 7410050013,
   "districtId": 7410050,
-  "name": "TAPUWATU"
+  "districtName": "ASERA",
+  "name": "TAPUWATU",
+  "postalCode": "93353"
  },
  {
   "id": 7410050014,
   "districtId": 7410050,
-  "name": "WALASOLO"
+  "districtName": "ASERA",
+  "name": "WALASOLO",
+  "postalCode": "93353"
  },
  {
   "id": 7410050015,
   "districtId": 7410050,
-  "name": "A S E R A"
+  "districtName": "ASERA",
+  "name": "A S E R A",
+  "postalCode": ""
  },
  {
   "id": 7410050016,
   "districtId": 7410050,
-  "name": "AMOROME"
+  "districtName": "ASERA",
+  "name": "AMOROME",
+  "postalCode": ""
  },
  {
   "id": 7410050017,
   "districtId": 7410050,
-  "name": "ASEMI NUNULAI"
+  "districtName": "ASERA",
+  "name": "ASEMI NUNULAI",
+  "postalCode": ""
  },
  {
   "id": 7410050018,
   "districtId": 7410050,
-  "name": "WAWOLIMBUE"
+  "districtName": "ASERA",
+  "name": "WAWOLIMBUE",
+  "postalCode": "93353"
  },
  {
   "id": 7410050049,
   "districtId": 7410050,
-  "name": "LONGEO UTAMA"
+  "districtName": "ASERA",
+  "name": "LONGEO UTAMA",
+  "postalCode": ""
  },
  {
   "id": 7410050050,
   "districtId": 7410050,
-  "name": "PUUNGGOMOSI"
+  "districtName": "ASERA",
+  "name": "PUUNGGOMOSI",
+  "postalCode": "93353"
  },
  {
   "id": 7410050051,
   "districtId": 7410050,
-  "name": "PUUWANGGUDU"
+  "districtName": "ASERA",
+  "name": "PUUWANGGUDU",
+  "postalCode": "93353"
  },
  {
   "id": 7410050052,
   "districtId": 7410050,
-  "name": "KOTA MULIA"
+  "districtName": "ASERA",
+  "name": "KOTA MULIA",
+  "postalCode": ""
  },
  {
   "id": 7410050053,
   "districtId": 7410050,
-  "name": "AMOROME UTAMA"
+  "districtName": "ASERA",
+  "name": "AMOROME UTAMA",
+  "postalCode": "93353"
  },
  {
   "id": 7410050054,
   "districtId": 7410050,
-  "name": "OHEO TRANS"
+  "districtName": "ASERA",
+  "name": "OHEO TRANS",
+  "postalCode": ""
  },
  {
   "id": 7410050055,
   "districtId": 7410050,
-  "name": "ALA WANGGUDU"
+  "districtName": "ASERA",
+  "name": "ALA WANGGUDU",
+  "postalCode": ""
  },
  {
   "id": 7410050056,
   "districtId": 7410050,
-  "name": "ANDEDAO"
+  "districtName": "ASERA",
+  "name": "ANDEDAO",
+  "postalCode": ""
  }
 ]

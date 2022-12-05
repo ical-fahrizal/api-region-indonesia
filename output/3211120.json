@@ -2,41 +2,57 @@
  {
   "id": 3211120003,
   "districtId": 3211120,
-  "name": "CIPELES"
+  "districtName": "TOMO",
+  "name": "CIPELES",
+  "postalCode": "45382"
  },
  {
   "id": 3211120004,
   "districtId": 3211120,
-  "name": "DARMAWANGI"
+  "districtName": "TOMO",
+  "name": "DARMAWANGI",
+  "postalCode": "45382"
  },
  {
   "id": 3211120005,
   "districtId": 3211120,
-  "name": "JEMBARWANGI"
+  "districtName": "TOMO",
+  "name": "JEMBARWANGI",
+  "postalCode": "45382"
  },
  {
   "id": 3211120006,
   "districtId": 3211120,
-  "name": "MARONGGE"
+  "districtName": "TOMO",
+  "name": "MARONGGE",
+  "postalCode": "45382"
  },
  {
   "id": 3211120007,
   "districtId": 3211120,
-  "name": "TOLENGAS"
+  "districtName": "TOMO",
+  "name": "TOLENGAS",
+  "postalCode": "45382"
  },
  {
   "id": 3211120008,
   "districtId": 3211120,
-  "name": "TOMO"
+  "districtName": "TOMO",
+  "name": "TOMO",
+  "postalCode": "45382"
  },
  {
   "id": 3211120009,
   "districtId": 3211120,
-  "name": "KARYAMUKTI"
+  "districtName": "TOMO",
+  "name": "KARYAMUKTI",
+  "postalCode": "36655"
  },
  {
   "id": 3211120011,
   "districtId": 3211120,
-  "name": "MEKARWANGI"
+  "districtName": "TOMO",
+  "name": "MEKARWANGI",
+  "postalCode": "45462"
  }
 ]

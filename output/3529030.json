@@ -2,66 +2,92 @@
  {
   "id": 3529030001,
   "districtId": 3529030,
-  "name": "AENGTONGTONG"
+  "districtName": "SARONGGI",
+  "name": "AENGTONGTONG",
+  "postalCode": "69467"
  },
  {
   "id": 3529030003,
   "districtId": 3529030,
-  "name": "SARONGGI"
+  "districtName": "SARONGGI",
+  "name": "SARONGGI",
+  "postalCode": "69467"
  },
  {
   "id": 3529030004,
   "districtId": 3529030,
-  "name": "TANAH MERAH"
+  "districtName": "SARONGGI",
+  "name": "TANAH MERAH",
+  "postalCode": "24652"
  },
  {
   "id": 3529030005,
   "districtId": 3529030,
-  "name": "LANGSAR"
+  "districtName": "SARONGGI",
+  "name": "LANGSAR",
+  "postalCode": "69467"
  },
  {
   "id": 3529030006,
   "districtId": 3529030,
-  "name": "PAGARBATU"
+  "districtName": "SARONGGI",
+  "name": "PAGARBATU",
+  "postalCode": "69467"
  },
  {
   "id": 3529030007,
   "districtId": 3529030,
-  "name": "TANJUNG"
+  "districtName": "SARONGGI",
+  "name": "TANJUNG",
+  "postalCode": "24562"
  },
  {
   "id": 3529030008,
   "districtId": 3529030,
-  "name": "KEBUNDADAP TIMUR"
+  "districtName": "SARONGGI",
+  "name": "KEBUNDADAP TIMUR",
+  "postalCode": "69467"
  },
  {
   "id": 3529030009,
   "districtId": 3529030,
-  "name": "KEBUNDADAP BARAT"
+  "districtName": "SARONGGI",
+  "name": "KEBUNDADAP BARAT",
+  "postalCode": "69467"
  },
  {
   "id": 3529030010,
   "districtId": 3529030,
-  "name": "SAROKA"
+  "districtName": "SARONGGI",
+  "name": "SAROKA",
+  "postalCode": "69467"
  },
  {
   "id": 3529030011,
   "districtId": 3529030,
-  "name": "NAMBAKOR"
+  "districtName": "SARONGGI",
+  "name": "NAMBAKOR",
+  "postalCode": "69467"
  },
  {
   "id": 3529030012,
   "districtId": 3529030,
-  "name": "MUANGAN"
+  "districtName": "SARONGGI",
+  "name": "MUANGAN",
+  "postalCode": "69467"
  },
  {
   "id": 3529030013,
   "districtId": 3529030,
-  "name": "TALANG"
+  "districtName": "SARONGGI",
+  "name": "TALANG",
+  "postalCode": "27365"
  },
  {
   "id": 3529030014,
   "districtId": 3529030,
-  "name": "KAMBINGAN TIMUR"
+  "districtName": "SARONGGI",
+  "name": "KAMBINGAN TIMUR",
+  "postalCode": "69467"
  }
 ]

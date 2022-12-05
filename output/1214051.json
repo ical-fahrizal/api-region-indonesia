@@ -2,56 +2,78 @@
  {
   "id": 1214051001,
   "districtId": 1214051,
-  "name": "HILIZANUWO"
+  "districtName": "SIDUAORI",
+  "name": "HILIZANUWO",
+  "postalCode": "22874"
  },
  {
   "id": 1214051002,
   "districtId": 1214051,
-  "name": "MONDROWE"
+  "districtName": "SIDUAORI",
+  "name": "MONDROWE",
+  "postalCode": "22874"
  },
  {
   "id": 1214051003,
   "districtId": 1214051,
-  "name": "HILIDOHONA"
+  "districtName": "SIDUAORI",
+  "name": "HILIDOHONA",
+  "postalCode": "22874"
  },
  {
   "id": 1214051004,
   "districtId": 1214051,
-  "name": "HILILAORA"
+  "districtName": "SIDUAORI",
+  "name": "HILILAORA",
+  "postalCode": "22874"
  },
  {
   "id": 1214051005,
   "districtId": 1214051,
-  "name": "ULU IDANODUO"
+  "districtName": "SIDUAORI",
+  "name": "ULU IDANODUO",
+  "postalCode": ""
  },
  {
   "id": 1214051006,
   "districtId": 1214051,
-  "name": "NAAI"
+  "districtName": "SIDUAORI",
+  "name": "NAAI",
+  "postalCode": ""
  },
  {
   "id": 1214051007,
   "districtId": 1214051,
-  "name": "TALUZUSUA"
+  "districtName": "SIDUAORI",
+  "name": "TALUZUSUA",
+  "postalCode": "22874"
  },
  {
   "id": 1214051008,
   "districtId": 1214051,
-  "name": "HILISAOOTO"
+  "districtName": "SIDUAORI",
+  "name": "HILISAOOTO",
+  "postalCode": ""
  },
  {
   "id": 1214051010,
   "districtId": 1214051,
-  "name": "UMBUSOHAHAU"
+  "districtName": "SIDUAORI",
+  "name": "UMBUSOHAHAU",
+  "postalCode": ""
  },
  {
   "id": 1214051011,
   "districtId": 1214051,
-  "name": "OLANORI"
+  "districtName": "SIDUAORI",
+  "name": "OLANORI",
+  "postalCode": "22874"
  },
  {
   "id": 1214051012,
   "districtId": 1214051,
-  "name": "HOYA"
+  "districtName": "SIDUAORI",
+  "name": "HOYA",
+  "postalCode": "22874"
  }
 ]

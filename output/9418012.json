@@ -2,56 +2,78 @@
  {
   "id": 9418012001,
   "districtId": 9418012,
-  "name": "NABUNAGE"
+  "districtName": "NABUNAGE",
+  "name": "NABUNAGE",
+  "postalCode": "99568"
  },
  {
   "id": 9418012002,
   "districtId": 9418012,
-  "name": "KUTIME"
+  "districtName": "NABUNAGE",
+  "name": "KUTIME",
+  "postalCode": "99568"
  },
  {
   "id": 9418012003,
   "districtId": 9418012,
-  "name": "KUPARA"
+  "districtName": "NABUNAGE",
+  "name": "KUPARA",
+  "postalCode": "99568"
  },
  {
   "id": 9418012006,
   "districtId": 9418012,
-  "name": "KUMBO"
+  "districtName": "NABUNAGE",
+  "name": "KUMBO",
+  "postalCode": "59264"
  },
  {
   "id": 9418012008,
   "districtId": 9418012,
-  "name": "TIMBINDELO"
+  "districtName": "NABUNAGE",
+  "name": "TIMBINDELO",
+  "postalCode": "99568"
  },
  {
   "id": 9418012011,
   "districtId": 9418012,
-  "name": "YEKITO"
+  "districtName": "NABUNAGE",
+  "name": "YEKITO",
+  "postalCode": ""
  },
  {
   "id": 9418012012,
   "districtId": 9418012,
-  "name": "MISSA"
+  "districtName": "NABUNAGE",
+  "name": "MISSA",
+  "postalCode": "99568"
  },
  {
   "id": 9418012013,
   "districtId": 9418012,
-  "name": "LOGI LOME"
+  "districtName": "NABUNAGE",
+  "name": "LOGI LOME",
+  "postalCode": ""
  },
  {
   "id": 9418012014,
   "districtId": 9418012,
-  "name": "WEWO"
+  "districtName": "NABUNAGE",
+  "name": "WEWO",
+  "postalCode": "86561"
  },
  {
   "id": 9418012015,
   "districtId": 9418012,
-  "name": "GENINGGA"
+  "districtName": "NABUNAGE",
+  "name": "GENINGGA",
+  "postalCode": "99568"
  },
  {
   "id": 9418012016,
   "districtId": 9418012,
-  "name": "KIMILO"
+  "districtName": "NABUNAGE",
+  "name": "KIMILO",
+  "postalCode": "99568"
  }
 ]

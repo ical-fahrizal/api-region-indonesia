@@ -2,61 +2,85 @@
  {
   "id": 8205011001,
   "districtId": 8205011,
-  "name": "PASIR PUTIH"
+  "districtName": "KAO TELUK",
+  "name": "PASIR PUTIH",
+  "postalCode": "24453"
  },
  {
   "id": 8205011002,
   "districtId": 8205011,
-  "name": "BOBANEIGO"
+  "districtName": "KAO TELUK",
+  "name": "BOBANEIGO",
+  "postalCode": ""
  },
  {
   "id": 8205011003,
   "districtId": 8205011,
-  "name": "TETEWANG"
+  "districtName": "KAO TELUK",
+  "name": "TETEWANG",
+  "postalCode": "97752"
  },
  {
   "id": 8205011004,
   "districtId": 8205011,
-  "name": "AKELAMO KAO"
+  "districtName": "KAO TELUK",
+  "name": "AKELAMO KAO",
+  "postalCode": ""
  },
  {
   "id": 8205011005,
   "districtId": 8205011,
-  "name": "GAMSUNGI"
+  "districtName": "KAO TELUK",
+  "name": "GAMSUNGI",
+  "postalCode": "97754"
  },
  {
   "id": 8205011007,
   "districtId": 8205011,
-  "name": "TIOWOR"
+  "districtName": "KAO TELUK",
+  "name": "TIOWOR",
+  "postalCode": "97764"
  },
  {
   "id": 8205011008,
   "districtId": 8205011,
-  "name": "TABANOMA"
+  "districtName": "KAO TELUK",
+  "name": "TABANOMA",
+  "postalCode": ""
  },
  {
   "id": 8205011009,
   "districtId": 8205011,
-  "name": "KUNTUM MEKAR"
+  "districtName": "KAO TELUK",
+  "name": "KUNTUM MEKAR",
+  "postalCode": "97764"
  },
  {
   "id": 8205011010,
   "districtId": 8205011,
-  "name": "BARUMADEHE"
+  "districtName": "KAO TELUK",
+  "name": "BARUMADEHE",
+  "postalCode": "97764"
  },
  {
   "id": 8205011011,
   "districtId": 8205011,
-  "name": "MAKAELING"
+  "districtName": "KAO TELUK",
+  "name": "MAKAELING",
+  "postalCode": "97764"
  },
  {
   "id": 8205011012,
   "districtId": 8205011,
-  "name": "TOIGO"
+  "districtName": "KAO TELUK",
+  "name": "TOIGO",
+  "postalCode": ""
  },
  {
   "id": 8205011013,
   "districtId": 8205011,
-  "name": "AKELAMO KAO CIBOK"
+  "districtName": "KAO TELUK",
+  "name": "AKELAMO KAO CIBOK",
+  "postalCode": ""
  }
 ]

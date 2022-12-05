@@ -2,46 +2,64 @@
  {
   "id": 7322051004,
   "districtId": 7322051,
-  "name": "RAMPOANG"
+  "districtName": "TANA LILI",
+  "name": "RAMPOANG",
+  "postalCode": "91914"
  },
  {
   "id": 7322051005,
   "districtId": 7322051,
-  "name": "KARONDANG"
+  "districtName": "TANA LILI",
+  "name": "KARONDANG",
+  "postalCode": "91966"
  },
  {
   "id": 7322051007,
   "districtId": 7322051,
-  "name": "POREANG"
+  "districtName": "TANA LILI",
+  "name": "POREANG",
+  "postalCode": "91966"
  },
  {
   "id": 7322051008,
   "districtId": 7322051,
-  "name": "BUNGADIDI"
+  "districtName": "TANA LILI",
+  "name": "BUNGADIDI",
+  "postalCode": "91966"
  },
  {
   "id": 7322051009,
   "districtId": 7322051,
-  "name": "BUNGAPATI"
+  "districtName": "TANA LILI",
+  "name": "BUNGAPATI",
+  "postalCode": "91966"
  },
  {
   "id": 7322051010,
   "districtId": 7322051,
-  "name": "SUMBERDADI"
+  "districtName": "TANA LILI",
+  "name": "SUMBERDADI",
+  "postalCode": "66163"
  },
  {
   "id": 7322051011,
   "districtId": 7322051,
-  "name": "SIDOBINANGUN"
+  "districtName": "TANA LILI",
+  "name": "SIDOBINANGUN",
+  "postalCode": "62291"
  },
  {
   "id": 7322051012,
   "districtId": 7322051,
-  "name": "PATILA"
+  "districtName": "TANA LILI",
+  "name": "PATILA",
+  "postalCode": "90971"
  },
  {
   "id": 7322051013,
   "districtId": 7322051,
-  "name": "SIDOMAKMUR"
+  "districtName": "TANA LILI",
+  "name": "SIDOMAKMUR",
+  "postalCode": "31452"
  }
 ]

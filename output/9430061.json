@@ -2,31 +2,43 @@
  {
   "id": 9430061002,
   "districtId": 9430061,
-  "name": "WABIRAGI"
+  "districtName": "MELAGAI",
+  "name": "WABIRAGI",
+  "postalCode": "99563"
  },
  {
   "id": 9430061003,
   "districtId": 9430061,
-  "name": "NOMBOME"
+  "districtName": "MELAGAI",
+  "name": "NOMBOME",
+  "postalCode": ""
  },
  {
   "id": 9430061005,
   "districtId": 9430061,
-  "name": "WUNABUNGGU"
+  "districtName": "MELAGAI",
+  "name": "WUNABUNGGU",
+  "postalCode": ""
  },
  {
   "id": 9430061006,
   "districtId": 9430061,
-  "name": "GILO"
+  "districtName": "MELAGAI",
+  "name": "GILO",
+  "postalCode": "99568"
  },
  {
   "id": 9430061007,
   "districtId": 9430061,
-  "name": "KEWAGI"
+  "districtName": "MELAGAI",
+  "name": "KEWAGI",
+  "postalCode": ""
  },
  {
   "id": 9430061008,
   "districtId": 9430061,
-  "name": "NUMBOKAWI"
+  "districtName": "MELAGAI",
+  "name": "NUMBOKAWI",
+  "postalCode": ""
  }
 ]

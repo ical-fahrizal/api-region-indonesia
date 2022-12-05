@@ -2,41 +2,57 @@
  {
   "id": 3401020001,
   "districtId": 3401020,
-  "name": "KARANG WUNI"
+  "districtName": "WATES",
+  "name": "KARANG WUNI",
+  "postalCode": "55651"
  },
  {
   "id": 3401020002,
   "districtId": 3401020,
-  "name": "SOGAN"
+  "districtName": "WATES",
+  "name": "SOGAN",
+  "postalCode": "55651"
  },
  {
   "id": 3401020003,
   "districtId": 3401020,
-  "name": "KULWARU"
+  "districtName": "WATES",
+  "name": "KULWARU",
+  "postalCode": "55651"
  },
  {
   "id": 3401020004,
   "districtId": 3401020,
-  "name": "NGESTIHARJO"
+  "districtName": "WATES",
+  "name": "NGESTIHARJO",
+  "postalCode": "55182"
  },
  {
   "id": 3401020005,
   "districtId": 3401020,
-  "name": "TRIHARJO"
+  "districtName": "WATES",
+  "name": "TRIHARJO",
+  "postalCode": "35357"
  },
  {
   "id": 3401020006,
   "districtId": 3401020,
-  "name": "BENDUNGAN"
+  "districtName": "WATES",
+  "name": "BENDUNGAN",
+  "postalCode": "16720"
  },
  {
   "id": 3401020007,
   "districtId": 3401020,
-  "name": "GIRI PENI"
+  "districtName": "WATES",
+  "name": "GIRI PENI",
+  "postalCode": "55651"
  },
  {
   "id": 3401020008,
   "districtId": 3401020,
-  "name": "WATES"
+  "districtName": "WATES",
+  "name": "WATES",
+  "postalCode": "32273"
  }
 ]

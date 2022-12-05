@@ -2,21 +2,29 @@
  {
   "id": 9171024001,
   "districtId": 9171024,
-  "name": "KLASAMAN"
+  "districtName": "KLAURUNG",
+  "name": "KLASAMAN",
+  "postalCode": "98417"
  },
  {
   "id": 9171024002,
   "districtId": 9171024,
-  "name": "KLABLIM"
+  "districtName": "KLAURUNG",
+  "name": "KLABLIM",
+  "postalCode": "98414"
  },
  {
   "id": 9171024003,
   "districtId": 9171024,
-  "name": "GIWU"
+  "districtName": "KLAURUNG",
+  "name": "GIWU",
+  "postalCode": "98418"
  },
  {
   "id": 9171024004,
   "districtId": 9171024,
-  "name": "KALASUAT"
+  "districtName": "KLAURUNG",
+  "name": "KALASUAT",
+  "postalCode": ""
  }
 ]

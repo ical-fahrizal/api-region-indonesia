@@ -2,41 +2,57 @@
  {
   "id": 3313170002,
   "districtId": 3313170,
-  "name": "ANGGRASMANIS"
+  "districtName": "JENAWI",
+  "name": "ANGGRASMANIS",
+  "postalCode": "57794"
  },
  {
   "id": 3313170003,
   "districtId": 3313170,
-  "name": "JENAWI"
+  "districtName": "JENAWI",
+  "name": "JENAWI",
+  "postalCode": "57794"
  },
  {
   "id": 3313170004,
   "districtId": 3313170,
-  "name": "TRENGGULI"
+  "districtName": "JENAWI",
+  "name": "TRENGGULI",
+  "postalCode": "57794"
  },
  {
   "id": 3313170005,
   "districtId": 3313170,
-  "name": "SIDOMUKTI"
+  "districtName": "JENAWI",
+  "name": "SIDOMUKTI",
+  "postalCode": "21217"
  },
  {
   "id": 3313170006,
   "districtId": 3313170,
-  "name": "BALONG"
+  "districtName": "JENAWI",
+  "name": "BALONG",
+  "postalCode": "45573"
  },
  {
   "id": 3313170007,
   "districtId": 3313170,
-  "name": "SELOROMO"
+  "districtName": "JENAWI",
+  "name": "SELOROMO",
+  "postalCode": "57794"
  },
  {
   "id": 3313170008,
   "districtId": 3313170,
-  "name": "MENJING"
+  "districtName": "JENAWI",
+  "name": "MENJING",
+  "postalCode": "57794"
  },
  {
   "id": 3313170009,
   "districtId": 3313170,
-  "name": "LEMPONG"
+  "districtName": "JENAWI",
+  "name": "LEMPONG",
+  "postalCode": "57794"
  }
 ]

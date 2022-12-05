@@ -2,56 +2,78 @@
  {
   "id": 7371110004,
   "districtId": 7371110,
-  "name": "PACCERAKANG"
+  "districtName": "BIRING KANAYA",
+  "name": "PACCERAKANG",
+  "postalCode": "90241"
  },
  {
   "id": 7371110005,
   "districtId": 7371110,
-  "name": "DAYA"
+  "districtName": "BIRING KANAYA",
+  "name": "DAYA",
+  "postalCode": "90241"
  },
  {
   "id": 7371110009,
   "districtId": 7371110,
-  "name": "P A I"
+  "districtName": "BIRING KANAYA",
+  "name": "P A I",
+  "postalCode": ""
  },
  {
   "id": 7371110010,
   "districtId": 7371110,
-  "name": "SUDIANG RAYA"
+  "districtName": "BIRING KANAYA",
+  "name": "SUDIANG RAYA",
+  "postalCode": "90242"
  },
  {
   "id": 7371110011,
   "districtId": 7371110,
-  "name": "SUDIANG"
+  "districtName": "BIRING KANAYA",
+  "name": "SUDIANG",
+  "postalCode": "90242"
  },
  {
   "id": 7371110012,
   "districtId": 7371110,
-  "name": "BULUROKENG"
+  "districtName": "BIRING KANAYA",
+  "name": "BULUROKENG",
+  "postalCode": ""
  },
  {
   "id": 7371110013,
   "districtId": 7371110,
-  "name": "UNTIA"
+  "districtName": "BIRING KANAYA",
+  "name": "UNTIA",
+  "postalCode": "90241"
  },
  {
   "id": 7371110014,
   "districtId": 7371110,
-  "name": "BERUA"
+  "districtName": "BIRING KANAYA",
+  "name": "BERUA",
+  "postalCode": "22816"
  },
  {
   "id": 7371110015,
   "districtId": 7371110,
-  "name": "KATIMBANG"
+  "districtName": "BIRING KANAYA",
+  "name": "KATIMBANG",
+  "postalCode": "91352"
  },
  {
   "id": 7371110016,
   "districtId": 7371110,
-  "name": "BAKUNG"
+  "districtName": "BIRING KANAYA",
+  "name": "BAKUNG",
+  "postalCode": "36382"
  },
  {
   "id": 7371110017,
   "districtId": 7371110,
-  "name": "LAIKANG"
+  "districtName": "BIRING KANAYA",
+  "name": "LAIKANG",
+  "postalCode": "92574"
  }
 ]

@@ -2,66 +2,92 @@
  {
   "id": 8208010001,
   "districtId": 8208010,
-  "name": "PANCORAN"
+  "districtName": "TALIABU BARAT",
+  "name": "PANCORAN",
+  "postalCode": "12780"
  },
  {
   "id": 8208010002,
   "districtId": 8208010,
-  "name": "TALLO"
+  "districtName": "TALIABU BARAT",
+  "name": "TALLO",
+  "postalCode": "90212"
  },
  {
   "id": 8208010003,
   "districtId": 8208010,
-  "name": "RATAHAYA"
+  "districtName": "TALIABU BARAT",
+  "name": "RATAHAYA",
+  "postalCode": ""
  },
  {
   "id": 8208010004,
   "districtId": 8208010,
-  "name": "WAYO"
+  "districtName": "TALIABU BARAT",
+  "name": "WAYO",
+  "postalCode": "97794"
  },
  {
   "id": 8208010006,
   "districtId": 8208010,
-  "name": "BOBONG"
+  "districtName": "TALIABU BARAT",
+  "name": "BOBONG",
+  "postalCode": "97794"
  },
  {
   "id": 8208010007,
   "districtId": 8208010,
-  "name": "MARANTI JAYA"
+  "districtName": "TALIABU BARAT",
+  "name": "MARANTI JAYA",
+  "postalCode": "97794"
  },
  {
   "id": 8208010008,
   "districtId": 8208010,
-  "name": "KILONG"
+  "districtName": "TALIABU BARAT",
+  "name": "KILONG",
+  "postalCode": ""
  },
  {
   "id": 8208010009,
   "districtId": 8208010,
-  "name": "KARAMAT"
+  "districtName": "TALIABU BARAT",
+  "name": "KARAMAT",
+  "postalCode": "43122"
  },
  {
   "id": 8208010010,
   "districtId": 8208010,
-  "name": "HOLBOTA"
+  "districtName": "TALIABU BARAT",
+  "name": "HOLBOTA",
+  "postalCode": "97794"
  },
  {
   "id": 8208010011,
   "districtId": 8208010,
-  "name": "KAWALO"
+  "districtName": "TALIABU BARAT",
+  "name": "KAWALO",
+  "postalCode": "97794"
  },
  {
   "id": 8208010012,
   "districtId": 8208010,
-  "name": "WOYO"
+  "districtName": "TALIABU BARAT",
+  "name": "WOYO",
+  "postalCode": ""
  },
  {
   "id": 8208010013,
   "districtId": 8208010,
-  "name": "LOHOBUBA"
+  "districtName": "TALIABU BARAT",
+  "name": "LOHOBUBA",
+  "postalCode": ""
  },
  {
   "id": 8208010014,
   "districtId": 8208010,
-  "name": "LIMBO"
+  "districtName": "TALIABU BARAT",
+  "name": "LIMBO",
+  "postalCode": "97794"
  }
 ]

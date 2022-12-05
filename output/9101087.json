@@ -2,46 +2,64 @@
  {
   "id": 9101087001,
   "districtId": 9101087,
-  "name": "RANGKENDAK"
+  "districtName": "KAYAUNI",
+  "name": "RANGKENDAK",
+  "postalCode": "98652"
  },
  {
   "id": 9101087002,
   "districtId": 9101087,
-  "name": "HAMORKOKMA"
+  "districtName": "KAYAUNI",
+  "name": "HAMORKOKMA",
+  "postalCode": ""
  },
  {
   "id": 9101087003,
   "districtId": 9101087,
-  "name": "KUAGAS"
+  "districtName": "KAYAUNI",
+  "name": "KUAGAS",
+  "postalCode": "98652"
  },
  {
   "id": 9101087004,
   "districtId": 9101087,
-  "name": "KAYUNI"
+  "districtName": "KAYAUNI",
+  "name": "KAYUNI",
+  "postalCode": "98652"
  },
  {
   "id": 9101087005,
   "districtId": 9101087,
-  "name": "UBADARI"
+  "districtName": "KAYAUNI",
+  "name": "UBADARI",
+  "postalCode": "98652"
  },
  {
   "id": 9101087006,
   "districtId": 9101087,
-  "name": "KABURBUR"
+  "districtName": "KAYAUNI",
+  "name": "KABURBUR",
+  "postalCode": "98652"
  },
  {
   "id": 9101087007,
   "districtId": 9101087,
-  "name": "MANANMUR/RANGKENDAK II"
+  "districtName": "KAYAUNI",
+  "name": "MANANMUR/RANGKENDAK II",
+  "postalCode": ""
  },
  {
   "id": 9101087008,
   "districtId": 9101087,
-  "name": "PATTUKAR"
+  "districtName": "KAYAUNI",
+  "name": "PATTUKAR",
+  "postalCode": "98652"
  },
  {
   "id": 9101087009,
   "districtId": 9101087,
-  "name": "WARPA"
+  "districtName": "KAYAUNI",
+  "name": "WARPA",
+  "postalCode": ""
  }
 ]

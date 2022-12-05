@@ -2,66 +2,92 @@
  {
   "id": 3511130001,
   "districtId": 3511130,
-  "name": "AMBULU"
+  "districtName": "WRINGIN",
+  "name": "AMBULU",
+  "postalCode": "45192"
  },
  {
   "id": 3511130002,
   "districtId": 3511130,
-  "name": "BUKOR"
+  "districtName": "WRINGIN",
+  "name": "BUKOR",
+  "postalCode": "68252"
  },
  {
   "id": 3511130003,
   "districtId": 3511130,
-  "name": "SUMBERMALANG"
+  "districtName": "WRINGIN",
+  "name": "SUMBERMALANG",
+  "postalCode": "68252"
  },
  {
   "id": 3511130004,
   "districtId": 3511130,
-  "name": "JAMBEWUNGU"
+  "districtName": "WRINGIN",
+  "name": "JAMBEWUNGU",
+  "postalCode": "68252"
  },
  {
   "id": 3511130005,
   "districtId": 3511130,
-  "name": "GUBRIH"
+  "districtName": "WRINGIN",
+  "name": "GUBRIH",
+  "postalCode": "68252"
  },
  {
   "id": 3511130006,
   "districtId": 3511130,
-  "name": "AMPELAN"
+  "districtName": "WRINGIN",
+  "name": "AMPELAN",
+  "postalCode": "68252"
  },
  {
   "id": 3511130007,
   "districtId": 3511130,
-  "name": "BANYUWULU"
+  "districtName": "WRINGIN",
+  "name": "BANYUWULU",
+  "postalCode": "68252"
  },
  {
   "id": 3511130008,
   "districtId": 3511130,
-  "name": "JATITAMBAN"
+  "districtName": "WRINGIN",
+  "name": "JATITAMBAN",
+  "postalCode": "68252"
  },
  {
   "id": 3511130009,
   "districtId": 3511130,
-  "name": "JATISARI"
+  "districtName": "WRINGIN",
+  "name": "JATISARI",
+  "postalCode": "32362"
  },
  {
   "id": 3511130010,
   "districtId": 3511130,
-  "name": "GLINGSERAN"
+  "districtName": "WRINGIN",
+  "name": "GLINGSERAN",
+  "postalCode": "68252"
  },
  {
   "id": 3511130011,
   "districtId": 3511130,
-  "name": "BANYUPUTIH"
+  "districtName": "WRINGIN",
+  "name": "BANYUPUTIH",
+  "postalCode": "51271"
  },
  {
   "id": 3511130012,
   "districtId": 3511130,
-  "name": "WRINGIN"
+  "districtName": "WRINGIN",
+  "name": "WRINGIN",
+  "postalCode": "68252"
  },
  {
   "id": 3511130013,
   "districtId": 3511130,
-  "name": "SUMBERCANTING"
+  "districtName": "WRINGIN",
+  "name": "SUMBERCANTING",
+  "postalCode": "68284"
  }
 ]

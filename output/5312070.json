@@ -2,56 +2,78 @@
  {
   "id": 5312070006,
   "districtId": 5312070,
-  "name": "WAEWEA"
+  "districtName": "BAJAWA UTARA",
+  "name": "WAEWEA",
+  "postalCode": "86413"
  },
  {
   "id": 5312070007,
   "districtId": 5312070,
-  "name": "ULUWAE"
+  "districtName": "BAJAWA UTARA",
+  "name": "ULUWAE",
+  "postalCode": "86413"
  },
  {
   "id": 5312070008,
   "districtId": 5312070,
-  "name": "INELIKA"
+  "districtName": "BAJAWA UTARA",
+  "name": "INELIKA",
+  "postalCode": "86413"
  },
  {
   "id": 5312070017,
   "districtId": 5312070,
-  "name": "WOLOLIKA"
+  "districtName": "BAJAWA UTARA",
+  "name": "WOLOLIKA",
+  "postalCode": "86413"
  },
  {
   "id": 5312070018,
   "districtId": 5312070,
-  "name": "INEGENA"
+  "districtName": "BAJAWA UTARA",
+  "name": "INEGENA",
+  "postalCode": "86413"
  },
  {
   "id": 5312070019,
   "districtId": 5312070,
-  "name": "WATUKAPU"
+  "districtName": "BAJAWA UTARA",
+  "name": "WATUKAPU",
+  "postalCode": "86413"
  },
  {
   "id": 5312070020,
   "districtId": 5312070,
-  "name": "NABELENA"
+  "districtName": "BAJAWA UTARA",
+  "name": "NABELENA",
+  "postalCode": "86413"
  },
  {
   "id": 5312070021,
   "districtId": 5312070,
-  "name": "ULUWAE I"
+  "districtName": "BAJAWA UTARA",
+  "name": "ULUWAE I",
+  "postalCode": "86413"
  },
  {
   "id": 5312070022,
   "districtId": 5312070,
-  "name": "ULUWAE II"
+  "districtName": "BAJAWA UTARA",
+  "name": "ULUWAE II",
+  "postalCode": "86413"
  },
  {
   "id": 5312070023,
   "districtId": 5312070,
-  "name": "GENAMERE"
+  "districtName": "BAJAWA UTARA",
+  "name": "GENAMERE",
+  "postalCode": "86413"
  },
  {
   "id": 5312070024,
   "districtId": 5312070,
-  "name": "TURA MURI"
+  "districtName": "BAJAWA UTARA",
+  "name": "TURA MURI",
+  "postalCode": "86413"
  }
 ]

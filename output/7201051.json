@@ -2,51 +2,71 @@
  {
   "id": 7201051001,
   "districtId": 7201051,
-  "name": "TOLULOS"
+  "districtName": "PELING TENGAH",
+  "name": "TOLULOS",
+  "postalCode": "94883"
  },
  {
   "id": 7201051002,
   "districtId": 7201051,
-  "name": "POPISI"
+  "districtName": "PELING TENGAH",
+  "name": "POPISI",
+  "postalCode": "94891"
  },
  {
   "id": 7201051003,
   "districtId": 7201051,
-  "name": "LABIBI"
+  "districtName": "PELING TENGAH",
+  "name": "LABIBI",
+  "postalCode": "94883"
  },
  {
   "id": 7201051005,
   "districtId": 7201051,
-  "name": "TOMBOS"
+  "districtName": "PELING TENGAH",
+  "name": "TOMBOS",
+  "postalCode": "94773"
  },
  {
   "id": 7201051006,
   "districtId": 7201051,
-  "name": "ALAKASING"
+  "districtName": "PELING TENGAH",
+  "name": "ALAKASING",
+  "postalCode": "94883"
  },
  {
   "id": 7201051007,
   "districtId": 7201051,
-  "name": "PATUKUKI"
+  "districtName": "PELING TENGAH",
+  "name": "PATUKUKI",
+  "postalCode": "94883"
  },
  {
   "id": 7201051008,
   "districtId": 7201051,
-  "name": "KOYOBUNGA"
+  "districtName": "PELING TENGAH",
+  "name": "KOYOBUNGA",
+  "postalCode": "94882"
  },
  {
   "id": 7201051009,
   "districtId": 7201051,
-  "name": "KOLAK"
+  "districtName": "PELING TENGAH",
+  "name": "KOLAK",
+  "postalCode": "94883"
  },
  {
   "id": 7201051010,
   "districtId": 7201051,
-  "name": "BALOMBONG"
+  "districtName": "PELING TENGAH",
+  "name": "BALOMBONG",
+  "postalCode": "94883"
  },
  {
   "id": 7201051011,
   "districtId": 7201051,
-  "name": "TUNGGALING"
+  "districtName": "PELING TENGAH",
+  "name": "TUNGGALING",
+  "postalCode": "94883"
  }
 ]

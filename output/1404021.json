@@ -2,61 +2,85 @@
  {
   "id": 1404021001,
   "districtId": 1404021,
-  "name": "SILIKUAN HULU"
+  "districtName": "UKUI",
+  "name": "SILIKUAN HULU",
+  "postalCode": "28382"
  },
  {
   "id": 1404021002,
   "districtId": 1404021,
-  "name": "LUBUK KEMBANG SARI"
+  "districtName": "UKUI",
+  "name": "LUBUK KEMBANG SARI",
+  "postalCode": "28382"
  },
  {
   "id": 1404021003,
   "districtId": 1404021,
-  "name": "LUBUK KEMBANG BUNGA"
+  "districtName": "UKUI",
+  "name": "LUBUK KEMBANG BUNGA",
+  "postalCode": "28382"
  },
  {
   "id": 1404021004,
   "districtId": 1404021,
-  "name": "AIR HITAM"
+  "districtName": "UKUI",
+  "name": "AIR HITAM",
+  "postalCode": "20856"
  },
  {
   "id": 1404021005,
   "districtId": 1404021,
-  "name": "KAMPUNG BARU"
+  "districtName": "UKUI",
+  "name": "KAMPUNG BARU",
+  "postalCode": "24652"
  },
  {
   "id": 1404021006,
   "districtId": 1404021,
-  "name": "UKUI SATU"
+  "districtName": "UKUI",
+  "name": "UKUI SATU",
+  "postalCode": ""
  },
  {
   "id": 1404021007,
   "districtId": 1404021,
-  "name": "UKUI DUA"
+  "districtName": "UKUI",
+  "name": "UKUI DUA",
+  "postalCode": ""
  },
  {
   "id": 1404021008,
   "districtId": 1404021,
-  "name": "BUKIT GAJAH"
+  "districtName": "UKUI",
+  "name": "BUKIT GAJAH",
+  "postalCode": "28382"
  },
  {
   "id": 1404021009,
   "districtId": 1404021,
-  "name": "BUKIT JAYA"
+  "districtName": "UKUI",
+  "name": "BUKIT JAYA",
+  "postalCode": "23615"
  },
  {
   "id": 1404021010,
   "districtId": 1404021,
-  "name": "AIR EMAS"
+  "districtName": "UKUI",
+  "name": "AIR EMAS",
+  "postalCode": "28382"
  },
  {
   "id": 1404021011,
   "districtId": 1404021,
-  "name": "TRI MULYA JAYA"
+  "districtName": "UKUI",
+  "name": "TRI MULYA JAYA",
+  "postalCode": "28382"
  },
  {
   "id": 1404021012,
   "districtId": 1404021,
-  "name": "BAGAN LIMAU"
+  "districtName": "UKUI",
+  "name": "BAGAN LIMAU",
+  "postalCode": "28382"
  }
 ]

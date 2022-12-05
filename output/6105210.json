@@ -2,51 +2,71 @@
  {
   "id": 6105210001,
   "districtId": 6105210,
-  "name": "SOTOK"
+  "districtName": "SEKAYAM",
+  "name": "SOTOK",
+  "postalCode": "78556"
  },
  {
   "id": 6105210002,
   "districtId": 6105210,
-  "name": "PENGADANG"
+  "districtName": "SEKAYAM",
+  "name": "PENGADANG",
+  "postalCode": "83582"
  },
  {
   "id": 6105210003,
   "districtId": 6105210,
-  "name": "KENAMAN"
+  "districtName": "SEKAYAM",
+  "name": "KENAMAN",
+  "postalCode": "78556"
  },
  {
   "id": 6105210004,
   "districtId": 6105210,
-  "name": "RAUT MUARA"
+  "districtName": "SEKAYAM",
+  "name": "RAUT MUARA",
+  "postalCode": "78556"
  },
  {
   "id": 6105210005,
   "districtId": 6105210,
-  "name": "ENGKAHAN"
+  "districtName": "SEKAYAM",
+  "name": "ENGKAHAN",
+  "postalCode": "78556"
  },
  {
   "id": 6105210006,
   "districtId": 6105210,
-  "name": "BALAI KARANGAN"
+  "districtName": "SEKAYAM",
+  "name": "BALAI KARANGAN",
+  "postalCode": "78556"
  },
  {
   "id": 6105210007,
   "districtId": 6105210,
-  "name": "BUNGKANG"
+  "districtName": "SEKAYAM",
+  "name": "BUNGKANG",
+  "postalCode": "78556"
  },
  {
   "id": 6105210008,
   "districtId": 6105210,
-  "name": "LUBUK SABUK"
+  "districtName": "SEKAYAM",
+  "name": "LUBUK SABUK",
+  "postalCode": "78556"
  },
  {
   "id": 6105210009,
   "districtId": 6105210,
-  "name": "MALENGGANG"
+  "districtName": "SEKAYAM",
+  "name": "MALENGGANG",
+  "postalCode": "78556"
  },
  {
   "id": 6105210010,
   "districtId": 6105210,
-  "name": "SEI TEKAM"
+  "districtName": "SEKAYAM",
+  "name": "SEI TEKAM",
+  "postalCode": ""
  }
 ]

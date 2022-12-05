@@ -2,51 +2,71 @@
  {
   "id": 3526100001,
   "districtId": 3526100,
-  "name": "JUNGANYAR"
+  "districtName": "SOCAH",
+  "name": "JUNGANYAR",
+  "postalCode": "69161"
  },
  {
   "id": 3526100002,
   "districtId": 3526100,
-  "name": "SOCAH"
+  "districtName": "SOCAH",
+  "name": "SOCAH",
+  "postalCode": "69161"
  },
  {
   "id": 3526100004,
   "districtId": 3526100,
-  "name": "JADDIH"
+  "districtName": "SOCAH",
+  "name": "JADDIH",
+  "postalCode": "69161"
  },
  {
   "id": 3526100005,
   "districtId": 3526100,
-  "name": "SANGGRA AGUNG"
+  "districtName": "SOCAH",
+  "name": "SANGGRA AGUNG",
+  "postalCode": ""
  },
  {
   "id": 3526100006,
   "districtId": 3526100,
-  "name": "PARSEH"
+  "districtName": "SOCAH",
+  "name": "PARSEH",
+  "postalCode": "69161"
  },
  {
   "id": 3526100007,
   "districtId": 3526100,
-  "name": "BILAPORAH"
+  "districtName": "SOCAH",
+  "name": "BILAPORAH",
+  "postalCode": "69161"
  },
  {
   "id": 3526100008,
   "districtId": 3526100,
-  "name": "KELEYAN"
+  "districtName": "SOCAH",
+  "name": "KELEYAN",
+  "postalCode": "69161"
  },
  {
   "id": 3526100009,
   "districtId": 3526100,
-  "name": "PETAONAN"
+  "districtName": "SOCAH",
+  "name": "PETAONAN",
+  "postalCode": "69161"
  },
  {
   "id": 3526100010,
   "districtId": 3526100,
-  "name": "DAKIRING"
+  "districtName": "SOCAH",
+  "name": "DAKIRING",
+  "postalCode": "69161"
  },
  {
   "id": 3526100011,
   "districtId": 3526100,
-  "name": "PERNAJUH"
+  "districtName": "SOCAH",
+  "name": "PERNAJUH",
+  "postalCode": "69161"
  }
 ]

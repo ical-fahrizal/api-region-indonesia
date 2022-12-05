@@ -2,46 +2,64 @@
  {
   "id": 3201080010,
   "districtId": 3201080,
-  "name": "WARUNG MENTENG"
+  "districtName": "CIJERUK",
+  "name": "WARUNG MENTENG",
+  "postalCode": "16740"
  },
  {
   "id": 3201080011,
   "districtId": 3201080,
-  "name": "CIJERUK"
+  "districtName": "CIJERUK",
+  "name": "CIJERUK",
+  "postalCode": "16740"
  },
  {
   "id": 3201080012,
   "districtId": 3201080,
-  "name": "CIPELANG"
+  "districtName": "CIJERUK",
+  "name": "CIPELANG",
+  "postalCode": "16740"
  },
  {
   "id": 3201080013,
   "districtId": 3201080,
-  "name": "CIBALUNG"
+  "districtName": "CIJERUK",
+  "name": "CIBALUNG",
+  "postalCode": "16740"
  },
  {
   "id": 3201080014,
   "districtId": 3201080,
-  "name": "CIPICUNG"
+  "districtName": "CIJERUK",
+  "name": "CIPICUNG",
+  "postalCode": "44191"
  },
  {
   "id": 3201080015,
   "districtId": 3201080,
-  "name": "TANJUNG SARI"
+  "districtName": "CIJERUK",
+  "name": "TANJUNG SARI",
+  "postalCode": "24673"
  },
  {
   "id": 3201080016,
   "districtId": 3201080,
-  "name": "TAJUR HALANG"
+  "districtName": "CIJERUK",
+  "name": "TAJUR HALANG",
+  "postalCode": "16740"
  },
  {
   "id": 3201080017,
   "districtId": 3201080,
-  "name": "PALASARI"
+  "districtName": "CIJERUK",
+  "name": "PALASARI",
+  "postalCode": "41251"
  },
  {
   "id": 3201080018,
   "districtId": 3201080,
-  "name": "SUKAHARJA"
+  "districtName": "CIJERUK",
+  "name": "SUKAHARJA",
+  "postalCode": "45587"
  }
 ]

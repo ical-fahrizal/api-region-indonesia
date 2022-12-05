@@ -2,61 +2,85 @@
  {
   "id": 3301130002,
   "districtId": 3301130,
-  "name": "TRITIH WETAN"
+  "districtName": "JERUKLEGI",
+  "name": "TRITIH WETAN",
+  "postalCode": "53252"
  },
  {
   "id": 3301130003,
   "districtId": 3301130,
-  "name": "TRITIH LOR"
+  "districtName": "JERUKLEGI",
+  "name": "TRITIH LOR",
+  "postalCode": "53252"
  },
  {
   "id": 3301130004,
   "districtId": 3301130,
-  "name": "SUMINGKIR"
+  "districtName": "JERUKLEGI",
+  "name": "SUMINGKIR",
+  "postalCode": "53252"
  },
  {
   "id": 3301130005,
   "districtId": 3301130,
-  "name": "JERUKLEGI WETAN"
+  "districtName": "JERUKLEGI",
+  "name": "JERUKLEGI WETAN",
+  "postalCode": "53252"
  },
  {
   "id": 3301130006,
   "districtId": 3301130,
-  "name": "JERUKLEGI KULON"
+  "districtName": "JERUKLEGI",
+  "name": "JERUKLEGI KULON",
+  "postalCode": "53252"
  },
  {
   "id": 3301130007,
   "districtId": 3301130,
-  "name": "SAWANGAN"
+  "districtName": "JERUKLEGI",
+  "name": "SAWANGAN",
+  "postalCode": "41272"
  },
  {
   "id": 3301130008,
   "districtId": 3301130,
-  "name": "CILIBANG"
+  "districtName": "JERUKLEGI",
+  "name": "CILIBANG",
+  "postalCode": "53252"
  },
  {
   "id": 3301130009,
   "districtId": 3301130,
-  "name": "MENDALA"
+  "districtName": "JERUKLEGI",
+  "name": "MENDALA",
+  "postalCode": "32191"
  },
  {
   "id": 3301130010,
   "districtId": 3301130,
-  "name": "KARANGKEMIRI"
+  "districtName": "JERUKLEGI",
+  "name": "KARANGKEMIRI",
+  "postalCode": "53252"
  },
  {
   "id": 3301130011,
   "districtId": 3301130,
-  "name": "JAMBUSARI"
+  "districtName": "JERUKLEGI",
+  "name": "JAMBUSARI",
+  "postalCode": "53252"
  },
  {
   "id": 3301130012,
   "districtId": 3301130,
-  "name": "PRAPAGAN"
+  "districtName": "JERUKLEGI",
+  "name": "PRAPAGAN",
+  "postalCode": "53252"
  },
  {
   "id": 3301130013,
   "districtId": 3301130,
-  "name": "CITEPUS"
+  "districtName": "JERUKLEGI",
+  "name": "CITEPUS",
+  "postalCode": "43365"
  }
 ]

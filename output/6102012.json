@@ -2,26 +2,36 @@
  {
   "id": 6102012001,
   "districtId": 6102012,
-  "name": "RUKMAJAYA"
+  "districtName": "SUNGAI RAYA KEPULAUAN",
+  "name": "RUKMAJAYA",
+  "postalCode": ""
  },
  {
   "id": 6102012002,
   "districtId": 6102012,
-  "name": "SUNGAI KERAN"
+  "districtName": "SUNGAI RAYA KEPULAUAN",
+  "name": "SUNGAI KERAN",
+  "postalCode": ""
  },
  {
   "id": 6102012003,
   "districtId": 6102012,
-  "name": "SUNGAI RAYA"
+  "districtName": "SUNGAI RAYA KEPULAUAN",
+  "name": "SUNGAI RAYA",
+  "postalCode": "22254"
  },
  {
   "id": 6102012004,
   "districtId": 6102012,
-  "name": "KARIMUNTING"
+  "districtName": "SUNGAI RAYA KEPULAUAN",
+  "name": "KARIMUNTING",
+  "postalCode": "79271"
  },
  {
   "id": 6102012005,
   "districtId": 6102012,
-  "name": "PULAU LEMUKUTAN"
+  "districtName": "SUNGAI RAYA KEPULAUAN",
+  "name": "PULAU LEMUKUTAN",
+  "postalCode": "79271"
  }
 ]

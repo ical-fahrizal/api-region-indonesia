@@ -2,46 +2,64 @@
  {
   "id": 7414030004,
   "districtId": 7414030,
-  "name": "WATORUMBE"
+  "districtName": "MAWASANGKA TENGAH",
+  "name": "WATORUMBE",
+  "postalCode": ""
  },
  {
   "id": 7414030005,
   "districtId": 7414030,
-  "name": "MORIKANA"
+  "districtName": "MAWASANGKA TENGAH",
+  "name": "MORIKANA",
+  "postalCode": "93762"
  },
  {
   "id": 7414030015,
   "districtId": 7414030,
-  "name": "LANTONGAU"
+  "districtName": "MAWASANGKA TENGAH",
+  "name": "LANTONGAU",
+  "postalCode": "93762"
  },
  {
   "id": 7414030016,
   "districtId": 7414030,
-  "name": "LAKORUA"
+  "districtName": "MAWASANGKA TENGAH",
+  "name": "LAKORUA",
+  "postalCode": ""
  },
  {
   "id": 7414030017,
   "districtId": 7414030,
-  "name": "LANTO"
+  "districtName": "MAWASANGKA TENGAH",
+  "name": "LANTO",
+  "postalCode": "93721"
  },
  {
   "id": 7414030018,
   "districtId": 7414030,
-  "name": "LALIBO"
+  "districtName": "MAWASANGKA TENGAH",
+  "name": "LALIBO",
+  "postalCode": "93762"
  },
  {
   "id": 7414030026,
   "districtId": 7414030,
-  "name": "LANGKOMU"
+  "districtName": "MAWASANGKA TENGAH",
+  "name": "LANGKOMU",
+  "postalCode": "93762"
  },
  {
   "id": 7414030027,
   "districtId": 7414030,
-  "name": "WATORUMBE BATA"
+  "districtName": "MAWASANGKA TENGAH",
+  "name": "WATORUMBE BATA",
+  "postalCode": ""
  },
  {
   "id": 7414030028,
   "districtId": 7414030,
-  "name": "KATUKOBARI"
+  "districtName": "MAWASANGKA TENGAH",
+  "name": "KATUKOBARI",
+  "postalCode": "93762"
  }
 ]

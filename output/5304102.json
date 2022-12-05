@@ -2,41 +2,57 @@
  {
   "id": 5304102001,
   "districtId": 5304102,
-  "name": "OP"
+  "districtName": "NUNKOLO",
+  "name": "OP",
+  "postalCode": "85573"
  },
  {
   "id": 5304102002,
   "districtId": 5304102,
-  "name": "SAENAM"
+  "districtName": "NUNKOLO",
+  "name": "SAENAM",
+  "postalCode": "85661"
  },
  {
   "id": 5304102003,
   "districtId": 5304102,
-  "name": "SAHAN"
+  "districtName": "NUNKOLO",
+  "name": "SAHAN",
+  "postalCode": "85573"
  },
  {
   "id": 5304102004,
   "districtId": 5304102,
-  "name": "NENOAT"
+  "districtName": "NUNKOLO",
+  "name": "NENOAT",
+  "postalCode": "85573"
  },
  {
   "id": 5304102005,
   "districtId": 5304102,
-  "name": "NUNKOLO"
+  "districtName": "NUNKOLO",
+  "name": "NUNKOLO",
+  "postalCode": "85573"
  },
  {
   "id": 5304102006,
   "districtId": 5304102,
-  "name": "HOINENO"
+  "districtName": "NUNKOLO",
+  "name": "HOINENO",
+  "postalCode": "85573"
  },
  {
   "id": 5304102007,
   "districtId": 5304102,
-  "name": "FAT"
+  "districtName": "NUNKOLO",
+  "name": "FAT",
+  "postalCode": "85573"
  },
  {
   "id": 5304102009,
   "districtId": 5304102,
-  "name": "HAUMENI"
+  "districtName": "NUNKOLO",
+  "name": "HAUMENI",
+  "postalCode": "85651"
  }
 ]

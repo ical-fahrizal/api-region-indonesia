@@ -2,26 +2,36 @@
  {
   "id": 9415014001,
   "districtId": 9415014,
-  "name": "SOHOMANE"
+  "districtName": "AWYU",
+  "name": "SOHOMANE",
+  "postalCode": "99773"
  },
  {
   "id": 9415014002,
   "districtId": 9415014,
-  "name": "SUAGAI"
+  "districtName": "AWYU",
+  "name": "SUAGAI",
+  "postalCode": ""
  },
  {
   "id": 9415014004,
   "districtId": 9415014,
-  "name": "SAGARE"
+  "districtName": "AWYU",
+  "name": "SAGARE",
+  "postalCode": "99776"
  },
  {
   "id": 9415014005,
   "districtId": 9415014,
-  "name": "YEFUWAGI"
+  "districtName": "AWYU",
+  "name": "YEFUWAGI",
+  "postalCode": ""
  },
  {
   "id": 9415014006,
   "districtId": 9415014,
-  "name": "WAGI"
+  "districtName": "AWYU",
+  "name": "WAGI",
+  "postalCode": "99776"
  }
 ]

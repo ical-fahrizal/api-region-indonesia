@@ -2,51 +2,71 @@
  {
   "id": 6301010001,
   "districtId": 6301010,
-  "name": "BATAKAN"
+  "districtName": "PANYIPATAN",
+  "name": "BATAKAN",
+  "postalCode": "70871"
  },
  {
   "id": 6301010002,
   "districtId": 6301010,
-  "name": "TANJUNG DEWA"
+  "districtName": "PANYIPATAN",
+  "name": "TANJUNG DEWA",
+  "postalCode": "70871"
  },
  {
   "id": 6301010003,
   "districtId": 6301010,
-  "name": "KANDANGAN LAMA"
+  "districtName": "PANYIPATAN",
+  "name": "KANDANGAN LAMA",
+  "postalCode": "70871"
  },
  {
   "id": 6301010004,
   "districtId": 6301010,
-  "name": "BATU TUNGKU"
+  "districtName": "PANYIPATAN",
+  "name": "BATU TUNGKU",
+  "postalCode": "70871"
  },
  {
   "id": 6301010005,
   "districtId": 6301010,
-  "name": "KURINGKIT"
+  "districtName": "PANYIPATAN",
+  "name": "KURINGKIT",
+  "postalCode": "70871"
  },
  {
   "id": 6301010006,
   "districtId": 6301010,
-  "name": "BUMI ASIH"
+  "districtName": "PANYIPATAN",
+  "name": "BUMI ASIH",
+  "postalCode": "35594"
  },
  {
   "id": 6301010007,
   "districtId": 6301010,
-  "name": "BATU MULYA"
+  "districtName": "PANYIPATAN",
+  "name": "BATU MULYA",
+  "postalCode": "70871"
  },
  {
   "id": 6301010008,
   "districtId": 6301010,
-  "name": "SUKA RAMAH"
+  "districtName": "PANYIPATAN",
+  "name": "SUKA RAMAH",
+  "postalCode": "70871"
  },
  {
   "id": 6301010009,
   "districtId": 6301010,
-  "name": "PANYIPATAN"
+  "districtName": "PANYIPATAN",
+  "name": "PANYIPATAN",
+  "postalCode": "70871"
  },
  {
   "id": 6301010010,
   "districtId": 6301010,
-  "name": "KANDANGAN BARU"
+  "districtName": "PANYIPATAN",
+  "name": "KANDANGAN BARU",
+  "postalCode": "70871"
  }
 ]

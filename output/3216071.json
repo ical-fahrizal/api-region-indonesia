@@ -2,56 +2,78 @@
  {
   "id": 3216071001,
   "districtId": 3216071,
-  "name": "TELAJUNG"
+  "districtName": "CIKARANG BARAT",
+  "name": "TELAJUNG",
+  "postalCode": "17530"
  },
  {
   "id": 3216071002,
   "districtId": 3216071,
-  "name": "CIKEDOKAN"
+  "districtName": "CIKARANG BARAT",
+  "name": "CIKEDOKAN",
+  "postalCode": "44162"
  },
  {
   "id": 3216071003,
   "districtId": 3216071,
-  "name": "JATIWANGI"
+  "districtName": "CIKARANG BARAT",
+  "name": "JATIWANGI",
+  "postalCode": "17530"
  },
  {
   "id": 3216071004,
   "districtId": 3216071,
-  "name": "MEKARWANGI"
+  "districtName": "CIKARANG BARAT",
+  "name": "MEKARWANGI",
+  "postalCode": "45462"
  },
  {
   "id": 3216071005,
   "districtId": 3216071,
-  "name": "GANDAMEKAR"
+  "districtName": "CIKARANG BARAT",
+  "name": "GANDAMEKAR",
+  "postalCode": "17530"
  },
  {
   "id": 3216071006,
   "districtId": 3216071,
-  "name": "DANAUINDAH"
+  "districtName": "CIKARANG BARAT",
+  "name": "DANAUINDAH",
+  "postalCode": ""
  },
  {
   "id": 3216071007,
   "districtId": 3216071,
-  "name": "GANDASARI"
+  "districtName": "CIKARANG BARAT",
+  "name": "GANDASARI",
+  "postalCode": "17530"
  },
  {
   "id": 3216071008,
   "districtId": 3216071,
-  "name": "SUKADANAU"
+  "districtName": "CIKARANG BARAT",
+  "name": "SUKADANAU",
+  "postalCode": "17530"
  },
  {
   "id": 3216071009,
   "districtId": 3216071,
-  "name": "TELAGA ASIH"
+  "districtName": "CIKARANG BARAT",
+  "name": "TELAGA ASIH",
+  "postalCode": "17530"
  },
  {
   "id": 3216071010,
   "districtId": 3216071,
-  "name": "TELAGAMURNI"
+  "districtName": "CIKARANG BARAT",
+  "name": "TELAGAMURNI",
+  "postalCode": ""
  },
  {
   "id": 3216071011,
   "districtId": 3216071,
-  "name": "KALIJAYA"
+  "districtName": "CIKARANG BARAT",
+  "name": "KALIJAYA",
+  "postalCode": "46383"
  }
 ]

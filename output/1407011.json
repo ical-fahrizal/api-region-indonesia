@@ -2,26 +2,36 @@
  {
   "id": 1407011001,
   "districtId": 1407011,
-  "name": "PENDALIAN"
+  "districtName": "PENDALIAN IV KOTO",
+  "name": "PENDALIAN",
+  "postalCode": "28555"
  },
  {
   "id": 1407011002,
   "districtId": 1407011,
-  "name": "BENGKOLAN SALAK"
+  "districtName": "PENDALIAN IV KOTO",
+  "name": "BENGKOLAN SALAK",
+  "postalCode": "28555"
  },
  {
   "id": 1407011003,
   "districtId": 1407011,
-  "name": "SULIGI"
+  "districtName": "PENDALIAN IV KOTO",
+  "name": "SULIGI",
+  "postalCode": "28555"
  },
  {
   "id": 1407011004,
   "districtId": 1407011,
-  "name": "AIR PANAS"
+  "districtName": "PENDALIAN IV KOTO",
+  "name": "AIR PANAS",
+  "postalCode": "28555"
  },
  {
   "id": 1407011005,
   "districtId": 1407011,
-  "name": "SUNGAI KANDIS"
+  "districtName": "PENDALIAN IV KOTO",
+  "name": "SUNGAI KANDIS",
+  "postalCode": ""
  }
 ]

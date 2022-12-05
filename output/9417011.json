@@ -2,36 +2,50 @@
  {
   "id": 9417011001,
   "districtId": 9417011,
-  "name": "TARANGOP"
+  "districtName": "KAWOR",
+  "name": "TARANGOP",
+  "postalCode": ""
  },
  {
   "id": 9417011002,
   "districtId": 9417011,
-  "name": "ARINTAP"
+  "districtName": "KAWOR",
+  "name": "ARINTAP",
+  "postalCode": "99575"
  },
  {
   "id": 9417011004,
   "districtId": 9417011,
-  "name": "SAKUP"
+  "districtName": "KAWOR",
+  "name": "SAKUP",
+  "postalCode": "99575"
  },
  {
   "id": 9417011005,
   "districtId": 9417011,
-  "name": "NANUM"
+  "districtName": "KAWOR",
+  "name": "NANUM",
+  "postalCode": "99575"
  },
  {
   "id": 9417011006,
   "districtId": 9417011,
-  "name": "KAWOR"
+  "districtName": "KAWOR",
+  "name": "KAWOR",
+  "postalCode": "99575"
  },
  {
   "id": 9417011007,
   "districtId": 9417011,
-  "name": "ATER"
+  "districtName": "KAWOR",
+  "name": "ATER",
+  "postalCode": "99575"
  },
  {
   "id": 9417011008,
   "districtId": 9417011,
-  "name": "UMDING"
+  "districtName": "KAWOR",
+  "name": "UMDING",
+  "postalCode": "99575"
  }
 ]

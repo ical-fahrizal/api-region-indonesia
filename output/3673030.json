@@ -2,41 +2,57 @@
  {
   "id": 3673030001,
   "districtId": 3673030,
-  "name": "GELAM"
+  "districtName": "CIPOCOK JAYA",
+  "name": "GELAM",
+  "postalCode": "61271"
  },
  {
   "id": 3673030002,
   "districtId": 3673030,
-  "name": "DALUNG"
+  "districtName": "CIPOCOK JAYA",
+  "name": "DALUNG",
+  "postalCode": "42127"
  },
  {
   "id": 3673030003,
   "districtId": 3673030,
-  "name": "TEMBONG"
+  "districtName": "CIPOCOK JAYA",
+  "name": "TEMBONG",
+  "postalCode": "45571"
  },
  {
   "id": 3673030004,
   "districtId": 3673030,
-  "name": "KARUNDANG"
+  "districtName": "CIPOCOK JAYA",
+  "name": "KARUNDANG",
+  "postalCode": "42125"
  },
  {
   "id": 3673030005,
   "districtId": 3673030,
-  "name": "CIPOCOK JAYA"
+  "districtName": "CIPOCOK JAYA",
+  "name": "CIPOCOK JAYA",
+  "postalCode": "42121"
  },
  {
   "id": 3673030006,
   "districtId": 3673030,
-  "name": "BANJARSARI"
+  "districtName": "CIPOCOK JAYA",
+  "name": "BANJARSARI",
+  "postalCode": "35377"
  },
  {
   "id": 3673030007,
   "districtId": 3673030,
-  "name": "BANJARAGUNG"
+  "districtName": "CIPOCOK JAYA",
+  "name": "BANJARAGUNG",
+  "postalCode": "56163"
  },
  {
   "id": 3673030008,
   "districtId": 3673030,
-  "name": "PANANCANGAN"
+  "districtName": "CIPOCOK JAYA",
+  "name": "PANANCANGAN",
+  "postalCode": "42357"
  }
 ]

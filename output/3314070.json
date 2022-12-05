@@ -2,41 +2,57 @@
  {
   "id": 3314070001,
   "districtId": 3314070,
-  "name": "KARANGANYAR"
+  "districtName": "SAMBUNG MACAN",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  },
  {
   "id": 3314070002,
   "districtId": 3314070,
-  "name": "TOYOGO"
+  "districtName": "SAMBUNG MACAN",
+  "name": "TOYOGO",
+  "postalCode": "57253"
  },
  {
   "id": 3314070003,
   "districtId": 3314070,
-  "name": "BANYUURIP"
+  "districtName": "SAMBUNG MACAN",
+  "name": "BANYUURIP",
+  "postalCode": "59263"
  },
  {
   "id": 3314070004,
   "districtId": 3314070,
-  "name": "GRINGGING"
+  "districtName": "SAMBUNG MACAN",
+  "name": "GRINGGING",
+  "postalCode": "57253"
  },
  {
   "id": 3314070005,
   "districtId": 3314070,
-  "name": "BANARAN"
+  "districtName": "SAMBUNG MACAN",
+  "name": "BANARAN",
+  "postalCode": "51281"
  },
  {
   "id": 3314070006,
   "districtId": 3314070,
-  "name": "SAMBUNGMACAN"
+  "districtName": "SAMBUNG MACAN",
+  "name": "SAMBUNGMACAN",
+  "postalCode": "57253"
  },
  {
   "id": 3314070007,
   "districtId": 3314070,
-  "name": "BEDORO"
+  "districtName": "SAMBUNG MACAN",
+  "name": "BEDORO",
+  "postalCode": "57253"
  },
  {
   "id": 3314070008,
   "districtId": 3314070,
-  "name": "PLUMBON"
+  "districtName": "SAMBUNG MACAN",
+  "name": "PLUMBON",
+  "postalCode": "45215"
  }
 ]

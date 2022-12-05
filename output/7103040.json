@@ -2,66 +2,92 @@
  {
   "id": 7103040005,
   "districtId": 7103040,
-  "name": "BEBALANG"
+  "districtName": "MANGANITU SELATAN",
+  "name": "BEBALANG",
+  "postalCode": "80614"
  },
  {
   "id": 7103040006,
   "districtId": 7103040,
-  "name": "BATUNDERANG"
+  "districtName": "MANGANITU SELATAN",
+  "name": "BATUNDERANG",
+  "postalCode": "95854"
  },
  {
   "id": 7103040007,
   "districtId": 7103040,
-  "name": "NGALIPAENG DUA"
+  "districtName": "MANGANITU SELATAN",
+  "name": "NGALIPAENG DUA",
+  "postalCode": ""
  },
  {
   "id": 7103040008,
   "districtId": 7103040,
-  "name": "NGALIPAENG SATU"
+  "districtName": "MANGANITU SELATAN",
+  "name": "NGALIPAENG SATU",
+  "postalCode": ""
  },
  {
   "id": 7103040009,
   "districtId": 7103040,
-  "name": "SOWAENG"
+  "districtName": "MANGANITU SELATAN",
+  "name": "SOWAENG",
+  "postalCode": ""
  },
  {
   "id": 7103040010,
   "districtId": 7103040,
-  "name": "LAPANGO"
+  "districtName": "MANGANITU SELATAN",
+  "name": "LAPANGO",
+  "postalCode": "95854"
  },
  {
   "id": 7103040011,
   "districtId": 7103040,
-  "name": "LAINE"
+  "districtName": "MANGANITU SELATAN",
+  "name": "LAINE",
+  "postalCode": "95854"
  },
  {
   "id": 7103040012,
   "districtId": 7103040,
-  "name": "KALUWATU"
+  "districtName": "MANGANITU SELATAN",
+  "name": "KALUWATU",
+  "postalCode": "95854"
  },
  {
   "id": 7103040013,
   "districtId": 7103040,
-  "name": "MAWIRA"
+  "districtName": "MANGANITU SELATAN",
+  "name": "MAWIRA",
+  "postalCode": "95854"
  },
  {
   "id": 7103040014,
   "districtId": 7103040,
-  "name": "LAPEPAHE"
+  "districtName": "MANGANITU SELATAN",
+  "name": "LAPEPAHE",
+  "postalCode": "95854"
  },
  {
   "id": 7103040015,
   "districtId": 7103040,
-  "name": "PINDANG"
+  "districtName": "MANGANITU SELATAN",
+  "name": "PINDANG",
+  "postalCode": "95854"
  },
  {
   "id": 7103040016,
   "districtId": 7103040,
-  "name": "LEHIMI TARIANG"
+  "districtName": "MANGANITU SELATAN",
+  "name": "LEHIMI TARIANG",
+  "postalCode": "95854"
  },
  {
   "id": 7103040017,
   "districtId": 7103040,
-  "name": "LAPANGO I"
+  "districtName": "MANGANITU SELATAN",
+  "name": "LAPANGO I",
+  "postalCode": "95854"
  }
 ]

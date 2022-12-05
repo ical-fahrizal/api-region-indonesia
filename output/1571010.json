@@ -2,26 +2,36 @@
  {
   "id": 1571010003,
   "districtId": 1571010,
-  "name": "SIMPANG III SIPIN"
+  "districtName": "KOTA BARU",
+  "name": "SIMPANG III SIPIN",
+  "postalCode": ""
  },
  {
   "id": 1571010004,
   "districtId": 1571010,
-  "name": "SUKA KARYA"
+  "districtName": "KOTA BARU",
+  "name": "SUKA KARYA",
+  "postalCode": "23891"
  },
  {
   "id": 1571010005,
   "districtId": 1571010,
-  "name": "KENALI ASAM BAWAH"
+  "districtName": "KOTA BARU",
+  "name": "KENALI ASAM BAWAH",
+  "postalCode": "36128"
  },
  {
   "id": 1571010006,
   "districtId": 1571010,
-  "name": "KENALI ASAM ATAS"
+  "districtName": "KOTA BARU",
+  "name": "KENALI ASAM ATAS",
+  "postalCode": "36128"
  },
  {
   "id": 1571010007,
   "districtId": 1571010,
-  "name": "PAAL LIMA"
+  "districtName": "KOTA BARU",
+  "name": "PAAL LIMA",
+  "postalCode": "36128"
  }
 ]

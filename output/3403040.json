@@ -2,16 +2,22 @@
  {
   "id": 3403040005,
   "districtId": 3403040,
-  "name": "SIDOHARJO"
+  "districtName": "TEPUS",
+  "name": "SIDOHARJO",
+  "postalCode": "30975"
  },
  {
   "id": 3403040007,
   "districtId": 3403040,
-  "name": "PURWODADI"
+  "districtName": "TEPUS",
+  "name": "PURWODADI",
+  "postalCode": "24652"
  },
  {
   "id": 3403040008,
   "districtId": 3403040,
-  "name": "GIRIPANGGUNG"
+  "districtName": "TEPUS",
+  "name": "GIRIPANGGUNG",
+  "postalCode": "55881"
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 1804073001,
   "districtId": 1804073,
-  "name": "SIDOMAKMUR"
+  "districtName": "MELINTING",
+  "name": "SIDOMAKMUR",
+  "postalCode": "31452"
  },
  {
   "id": 1804073002,
   "districtId": 1804073,
-  "name": "TANJUNG AJI"
+  "districtName": "MELINTING",
+  "name": "TANJUNG AJI",
+  "postalCode": "34377"
  },
  {
   "id": 1804073003,
   "districtId": 1804073,
-  "name": "TEBING"
+  "districtName": "MELINTING",
+  "name": "TEBING",
+  "postalCode": "34377"
  },
  {
   "id": 1804073004,
   "districtId": 1804073,
-  "name": "WANA"
+  "districtName": "MELINTING",
+  "name": "WANA",
+  "postalCode": "34377"
  },
  {
   "id": 1804073005,
   "districtId": 1804073,
-  "name": "SUMBERHADI"
+  "districtName": "MELINTING",
+  "name": "SUMBERHADI",
+  "postalCode": "34377"
  },
  {
   "id": 1804073006,
   "districtId": 1804073,
-  "name": "ITIK RENDAI"
+  "districtName": "MELINTING",
+  "name": "ITIK RENDAI",
+  "postalCode": ""
  }
 ]

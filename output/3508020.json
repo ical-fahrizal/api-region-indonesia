@@ -2,31 +2,43 @@
  {
   "id": 3508020001,
   "districtId": 3508020,
-  "name": "SIDOMULYO"
+  "districtName": "PRONOJIWO",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  },
  {
   "id": 3508020002,
   "districtId": 3508020,
-  "name": "PRONOJIWO"
+  "districtName": "PRONOJIWO",
+  "name": "PRONOJIWO",
+  "postalCode": "67374"
  },
  {
   "id": 3508020003,
   "districtId": 3508020,
-  "name": "TAMANAYU"
+  "districtName": "PRONOJIWO",
+  "name": "TAMANAYU",
+  "postalCode": "67374"
  },
  {
   "id": 3508020004,
   "districtId": 3508020,
-  "name": "SUMBERURIP"
+  "districtName": "PRONOJIWO",
+  "name": "SUMBERURIP",
+  "postalCode": "17710"
  },
  {
   "id": 3508020005,
   "districtId": 3508020,
-  "name": "ORO ORO OMBO"
+  "districtName": "PRONOJIWO",
+  "name": "ORO ORO OMBO",
+  "postalCode": "63119"
  },
  {
   "id": 3508020006,
   "districtId": 3508020,
-  "name": "SUPITURANG"
+  "districtName": "PRONOJIWO",
+  "name": "SUPITURANG",
+  "postalCode": "67374"
  }
 ]

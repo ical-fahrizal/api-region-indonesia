@@ -2,76 +2,106 @@
  {
   "id": 5315021001,
   "districtId": 5315021,
-  "name": "LIANG NDARA"
+  "districtName": "MBELILING",
+  "name": "LIANG NDARA",
+  "postalCode": "86757"
  },
  {
   "id": 5315021002,
   "districtId": 5315021,
-  "name": "TONDONG BELANG"
+  "districtName": "MBELILING",
+  "name": "TONDONG BELANG",
+  "postalCode": ""
  },
  {
   "id": 5315021003,
   "districtId": 5315021,
-  "name": "CUNCA LOLOS"
+  "districtName": "MBELILING",
+  "name": "CUNCA LOLOS",
+  "postalCode": "86757"
  },
  {
   "id": 5315021004,
   "districtId": 5315021,
-  "name": "GOLO DAMU"
+  "districtName": "MBELILING",
+  "name": "GOLO DAMU",
+  "postalCode": "86757"
  },
  {
   "id": 5315021005,
   "districtId": 5315021,
-  "name": "GOLO DESAT"
+  "districtName": "MBELILING",
+  "name": "GOLO DESAT",
+  "postalCode": "86757"
  },
  {
   "id": 5315021006,
   "districtId": 5315021,
-  "name": "KEMPO"
+  "districtName": "MBELILING",
+  "name": "KEMPO",
+  "postalCode": "84261"
  },
  {
   "id": 5315021007,
   "districtId": 5315021,
-  "name": "GOLO TANTONG"
+  "districtName": "MBELILING",
+  "name": "GOLO TANTONG",
+  "postalCode": "86757"
  },
  {
   "id": 5315021008,
   "districtId": 5315021,
-  "name": "WAE JARE"
+  "districtName": "MBELILING",
+  "name": "WAE JARE",
+  "postalCode": "86757"
  },
  {
   "id": 5315021009,
   "districtId": 5315021,
-  "name": "WATU WANGKA"
+  "districtName": "MBELILING",
+  "name": "WATU WANGKA",
+  "postalCode": "86757"
  },
  {
   "id": 5315021010,
   "districtId": 5315021,
-  "name": "GOLO SEMBEA"
+  "districtName": "MBELILING",
+  "name": "GOLO SEMBEA",
+  "postalCode": "86757"
  },
  {
   "id": 5315021011,
   "districtId": 5315021,
-  "name": "GOLO NDOAL"
+  "districtName": "MBELILING",
+  "name": "GOLO NDOAL",
+  "postalCode": "86757"
  },
  {
   "id": 5315021012,
   "districtId": 5315021,
-  "name": "TIWU RIWUNG"
+  "districtName": "MBELILING",
+  "name": "TIWU RIWUNG",
+  "postalCode": ""
  },
  {
   "id": 5315021013,
   "districtId": 5315021,
-  "name": "CUNCA WULANG"
+  "districtName": "MBELILING",
+  "name": "CUNCA WULANG",
+  "postalCode": "86757"
  },
  {
   "id": 5315021014,
   "districtId": 5315021,
-  "name": "COMPANG LIANG NDARA"
+  "districtName": "MBELILING",
+  "name": "COMPANG LIANG NDARA",
+  "postalCode": ""
  },
  {
   "id": 5315021015,
   "districtId": 5315021,
-  "name": "WATU GALANG"
+  "districtName": "MBELILING",
+  "name": "WATU GALANG",
+  "postalCode": ""
  }
 ]

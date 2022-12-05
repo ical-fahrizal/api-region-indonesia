@@ -2,116 +2,162 @@
  {
   "id": 7409120001,
   "districtId": 7409120,
-  "name": "BONELIPU"
+  "districtName": "KULISUSU",
+  "name": "BONELIPU",
+  "postalCode": "93672"
  },
  {
   "id": 7409120002,
   "districtId": 7409120,
-  "name": "LEMO"
+  "districtName": "KULISUSU",
+  "name": "LEMO",
+  "postalCode": "15510"
  },
  {
   "id": 7409120003,
   "districtId": 7409120,
-  "name": "R O M B O"
+  "districtName": "KULISUSU",
+  "name": "R O M B O",
+  "postalCode": ""
  },
  {
   "id": 7409120004,
   "districtId": 7409120,
-  "name": "LINSOWU"
+  "districtName": "KULISUSU",
+  "name": "LINSOWU",
+  "postalCode": "93672"
  },
  {
   "id": 7409120005,
   "districtId": 7409120,
-  "name": "LAKONEA"
+  "districtName": "KULISUSU",
+  "name": "LAKONEA",
+  "postalCode": "93672"
  },
  {
   "id": 7409120006,
   "districtId": 7409120,
-  "name": "LIPU"
+  "districtName": "KULISUSU",
+  "name": "LIPU",
+  "postalCode": "93721"
  },
  {
   "id": 7409120007,
   "districtId": 7409120,
-  "name": "BANGKUDU"
+  "districtName": "KULISUSU",
+  "name": "BANGKUDU",
+  "postalCode": ""
  },
  {
   "id": 7409120008,
   "districtId": 7409120,
-  "name": "L O J I"
+  "districtName": "KULISUSU",
+  "name": "L O J I",
+  "postalCode": ""
  },
  {
   "id": 7409120009,
   "districtId": 7409120,
-  "name": "KALIBU"
+  "districtName": "KULISUSU",
+  "name": "KALIBU",
+  "postalCode": "93672"
  },
  {
   "id": 7409120010,
   "districtId": 7409120,
-  "name": "EELAHAJI"
+  "districtName": "KULISUSU",
+  "name": "EELAHAJI",
+  "postalCode": "93672"
  },
  {
   "id": 7409120011,
   "districtId": 7409120,
-  "name": "JAMPAKA"
+  "districtName": "KULISUSU",
+  "name": "JAMPAKA",
+  "postalCode": "93672"
  },
  {
   "id": 7409120012,
   "districtId": 7409120,
-  "name": "TOMOAHI"
+  "districtName": "KULISUSU",
+  "name": "TOMOAHI",
+  "postalCode": "93672"
  },
  {
   "id": 7409120017,
   "districtId": 7409120,
-  "name": "WACULAEA"
+  "districtName": "KULISUSU",
+  "name": "WACULAEA",
+  "postalCode": "93672"
  },
  {
   "id": 7409120018,
   "districtId": 7409120,
-  "name": "TRI WACU-WACU"
+  "districtName": "KULISUSU",
+  "name": "TRI WACU-WACU",
+  "postalCode": "93672"
  },
  {
   "id": 7409120019,
   "districtId": 7409120,
-  "name": "MALALANDA"
+  "districtName": "KULISUSU",
+  "name": "MALALANDA",
+  "postalCode": "93672"
  },
  {
   "id": 7409120020,
   "districtId": 7409120,
-  "name": "LANTAGI"
+  "districtName": "KULISUSU",
+  "name": "LANTAGI",
+  "postalCode": "93672"
  },
  {
   "id": 7409120021,
   "districtId": 7409120,
-  "name": "LEMO EA"
+  "districtName": "KULISUSU",
+  "name": "LEMO EA",
+  "postalCode": "93672"
  },
  {
   "id": 7409120022,
   "districtId": 7409120,
-  "name": "WASALABOSE"
+  "districtName": "KULISUSU",
+  "name": "WASALABOSE",
+  "postalCode": "93672"
  },
  {
   "id": 7409120023,
   "districtId": 7409120,
-  "name": "BANU-BANUA JAYA"
+  "districtName": "KULISUSU",
+  "name": "BANU-BANUA JAYA",
+  "postalCode": "93672"
  },
  {
   "id": 7409120024,
   "districtId": 7409120,
-  "name": "WANDAKA"
+  "districtName": "KULISUSU",
+  "name": "WANDAKA",
+  "postalCode": "93672"
  },
  {
   "id": 7409120025,
   "districtId": 7409120,
-  "name": "SARAEA"
+  "districtName": "KULISUSU",
+  "name": "SARAEA",
+  "postalCode": ""
  },
  {
   "id": 7409120026,
   "districtId": 7409120,
-  "name": "KADACUA"
+  "districtName": "KULISUSU",
+  "name": "KADACUA",
+  "postalCode": "93672"
  },
  {
   "id": 7409120027,
   "districtId": 7409120,
-  "name": "LAANGKE"
+  "districtName": "KULISUSU",
+  "name": "LAANGKE",
+  "postalCode": "93672"
  }
 ]

@@ -2,51 +2,71 @@
  {
   "id": 3508130001,
   "districtId": 3508130,
-  "name": "KLANTING"
+  "districtName": "SUKODONO",
+  "name": "KLANTING",
+  "postalCode": "67352"
  },
  {
   "id": 3508130002,
   "districtId": 3508130,
-  "name": "KEBONAGUNG"
+  "districtName": "SUKODONO",
+  "name": "KEBONAGUNG",
+  "postalCode": "56151"
  },
  {
   "id": 3508130003,
   "districtId": 3508130,
-  "name": "KARANGSARI"
+  "districtName": "SUKODONO",
+  "name": "KARANGSARI",
+  "postalCode": "35376"
  },
  {
   "id": 3508130004,
   "districtId": 3508130,
-  "name": "DAWUHAN LOR"
+  "districtName": "SUKODONO",
+  "name": "DAWUHAN LOR",
+  "postalCode": "67352"
  },
  {
   "id": 3508130005,
   "districtId": 3508130,
-  "name": "KUTORENON"
+  "districtName": "SUKODONO",
+  "name": "KUTORENON",
+  "postalCode": "67352"
  },
  {
   "id": 3508130006,
   "districtId": 3508130,
-  "name": "SELOKBESUKI"
+  "districtName": "SUKODONO",
+  "name": "SELOKBESUKI",
+  "postalCode": "67352"
  },
  {
   "id": 3508130007,
   "districtId": 3508130,
-  "name": "SUMBEREJO"
+  "districtName": "SUKODONO",
+  "name": "SUMBEREJO",
+  "postalCode": "20551"
  },
  {
   "id": 3508130008,
   "districtId": 3508130,
-  "name": "URANGGANTUNG"
+  "districtName": "SUKODONO",
+  "name": "URANGGANTUNG",
+  "postalCode": "67352"
  },
  {
   "id": 3508130009,
   "districtId": 3508130,
-  "name": "SELOKGONDANG"
+  "districtName": "SUKODONO",
+  "name": "SELOKGONDANG",
+  "postalCode": "67352"
  },
  {
   "id": 3508130010,
   "districtId": 3508130,
-  "name": "BONDOYUDO"
+  "districtName": "SUKODONO",
+  "name": "BONDOYUDO",
+  "postalCode": "67352"
  }
 ]

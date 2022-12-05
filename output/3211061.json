@@ -2,41 +2,57 @@
  {
   "id": 3211061001,
   "districtId": 3211061,
-  "name": "CIKONDANG"
+  "districtName": "GANEAS",
+  "name": "CIKONDANG",
+  "postalCode": "43283"
  },
  {
   "id": 3211061002,
   "districtId": 3211061,
-  "name": "TANJUNGHURIP"
+  "districtName": "GANEAS",
+  "name": "TANJUNGHURIP",
+  "postalCode": "45356"
  },
  {
   "id": 3211061003,
   "districtId": 3211061,
-  "name": "DAYEUH LUHUR"
+  "districtName": "GANEAS",
+  "name": "DAYEUH LUHUR",
+  "postalCode": "45356"
  },
  {
   "id": 3211061004,
   "districtId": 3211061,
-  "name": "CIKONENG"
+  "districtName": "GANEAS",
+  "name": "CIKONENG",
+  "postalCode": "46261"
  },
  {
   "id": 3211061005,
   "districtId": 3211061,
-  "name": "SUKAWENING"
+  "districtName": "GANEAS",
+  "name": "SUKAWENING",
+  "postalCode": "46252"
  },
  {
   "id": 3211061006,
   "districtId": 3211061,
-  "name": "GANEAS"
+  "districtName": "GANEAS",
+  "name": "GANEAS",
+  "postalCode": "45356"
  },
  {
   "id": 3211061007,
   "districtId": 3211061,
-  "name": "SUKALUYU"
+  "districtName": "GANEAS",
+  "name": "SUKALUYU",
+  "postalCode": "40123"
  },
  {
   "id": 3211061008,
   "districtId": 3211061,
-  "name": "CIKONENG KULON"
+  "districtName": "GANEAS",
+  "name": "CIKONENG KULON",
+  "postalCode": ""
  }
 ]

@@ -2,86 +2,120 @@
  {
   "id": 3522210001,
   "districtId": 3522210,
-  "name": "DUKUH LOR"
+  "districtName": "MALO",
+  "name": "DUKUH LOR",
+  "postalCode": "62153"
  },
  {
   "id": 3522210002,
   "districtId": 3522210,
-  "name": "KACANGAN"
+  "districtName": "MALO",
+  "name": "KACANGAN",
+  "postalCode": "57384"
  },
  {
   "id": 3522210003,
   "districtId": 3522210,
-  "name": "KEMIRI"
+  "districtName": "MALO",
+  "name": "KEMIRI",
+  "postalCode": "41352"
  },
  {
   "id": 3522210004,
   "districtId": 3522210,
-  "name": "PETAK"
+  "districtName": "MALO",
+  "name": "PETAK",
+  "postalCode": "64461"
  },
  {
   "id": 3522210005,
   "districtId": 3522210,
-  "name": "KLITEH"
+  "districtName": "MALO",
+  "name": "KLITEH",
+  "postalCode": "62153"
  },
  {
   "id": 3522210006,
   "districtId": 3522210,
-  "name": "SUDAH"
+  "districtName": "MALO",
+  "name": "SUDAH",
+  "postalCode": "62153"
  },
  {
   "id": 3522210008,
   "districtId": 3522210,
-  "name": "TAMBAKROMO"
+  "districtName": "MALO",
+  "name": "TAMBAKROMO",
+  "postalCode": "58315"
  },
  {
   "id": 3522210009,
   "districtId": 3522210,
-  "name": "SUMBEREJO"
+  "districtName": "MALO",
+  "name": "SUMBEREJO",
+  "postalCode": "20551"
  },
  {
   "id": 3522210010,
   "districtId": 3522210,
-  "name": "TINAWUN"
+  "districtName": "MALO",
+  "name": "TINAWUN",
+  "postalCode": "62153"
  },
  {
   "id": 3522210011,
   "districtId": 3522210,
-  "name": "BANARAN"
+  "districtName": "MALO",
+  "name": "BANARAN",
+  "postalCode": "51281"
  },
  {
   "id": 3522210012,
   "districtId": 3522210,
-  "name": "KEDUNGREJO"
+  "districtName": "MALO",
+  "name": "KEDUNGREJO",
+  "postalCode": "57383"
  },
  {
   "id": 3522210013,
   "districtId": 3522210,
-  "name": "KETILENG"
+  "districtName": "MALO",
+  "name": "KETILENG",
+  "postalCode": "52181"
  },
  {
   "id": 3522210015,
   "districtId": 3522210,
-  "name": "MALO"
+  "districtName": "MALO",
+  "name": "MALO",
+  "postalCode": "62153"
  },
  {
   "id": 3522210016,
   "districtId": 3522210,
-  "name": "SUKOREJO"
+  "districtName": "MALO",
+  "name": "SUKOREJO",
+  "postalCode": "31551"
  },
  {
   "id": 3522210018,
   "districtId": 3522210,
-  "name": "SEMLARAN"
+  "districtName": "MALO",
+  "name": "SEMLARAN",
+  "postalCode": "62153"
  },
  {
   "id": 3522210019,
   "districtId": 3522210,
-  "name": "TANGGIR"
+  "districtName": "MALO",
+  "name": "TANGGIR",
+  "postalCode": "62153"
  },
  {
   "id": 3522210020,
   "districtId": 3522210,
-  "name": "TULUNGAGUNG"
+  "districtName": "MALO",
+  "name": "TULUNGAGUNG",
+  "postalCode": "45274"
  }
 ]

@@ -2,86 +2,120 @@
  {
   "id": 1409020001,
   "districtId": 1409020,
-  "name": "BAHTERA MAKMUR"
+  "districtName": "BAGAN SINEMBAH",
+  "name": "BAHTERA MAKMUR",
+  "postalCode": "28992"
  },
  {
   "id": 1409020002,
   "districtId": 1409020,
-  "name": "GELORA"
+  "districtName": "BAGAN SINEMBAH",
+  "name": "GELORA",
+  "postalCode": "28992"
  },
  {
   "id": 1409020003,
   "districtId": 1409020,
-  "name": "PELITA"
+  "districtName": "BAGAN SINEMBAH",
+  "name": "PELITA",
+  "postalCode": "20621"
  },
  {
   "id": 1409020014,
   "districtId": 1409020,
-  "name": "BAGAN BATU"
+  "districtName": "BAGAN SINEMBAH",
+  "name": "BAGAN BATU",
+  "postalCode": "28992"
  },
  {
   "id": 1409020015,
   "districtId": 1409020,
-  "name": "SUKA MAJU"
+  "districtName": "BAGAN SINEMBAH",
+  "name": "SUKA MAJU",
+  "postalCode": "24673"
  },
  {
   "id": 1409020016,
   "districtId": 1409020,
-  "name": "BAGAN MANUNGGAL"
+  "districtName": "BAGAN SINEMBAH",
+  "name": "BAGAN MANUNGGAL",
+  "postalCode": "28992"
  },
  {
   "id": 1409020017,
   "districtId": 1409020,
-  "name": "BAGAN SAPTA PERMAI"
+  "districtName": "BAGAN SINEMBAH",
+  "name": "BAGAN SAPTA PERMAI",
+  "postalCode": "28992"
  },
  {
   "id": 1409020018,
   "districtId": 1409020,
-  "name": "BAKTI MAKMUR"
+  "districtName": "BAGAN SINEMBAH",
+  "name": "BAKTI MAKMUR",
+  "postalCode": "28992"
  },
  {
   "id": 1409020021,
   "districtId": 1409020,
-  "name": "JAYA AGUNG"
+  "districtName": "BAGAN SINEMBAH",
+  "name": "JAYA AGUNG",
+  "postalCode": "28992"
  },
  {
   "id": 1409020022,
   "districtId": 1409020,
-  "name": "MERANTI MAKMUR"
+  "districtName": "BAGAN SINEMBAH",
+  "name": "MERANTI MAKMUR",
+  "postalCode": "28992"
  },
  {
   "id": 1409020025,
   "districtId": 1409020,
-  "name": "BAYANGKARA JAYA"
+  "districtName": "BAGAN SINEMBAH",
+  "name": "BAYANGKARA JAYA",
+  "postalCode": ""
  },
  {
   "id": 1409020031,
   "districtId": 1409020,
-  "name": "BAHTERA MAKMUR KOTA"
+  "districtName": "BAGAN SINEMBAH",
+  "name": "BAHTERA MAKMUR KOTA",
+  "postalCode": "28992"
  },
  {
   "id": 1409020032,
   "districtId": 1409020,
-  "name": "BAGAN BATU KOTA"
+  "districtName": "BAGAN SINEMBAH",
+  "name": "BAGAN BATU KOTA",
+  "postalCode": "28992"
  },
  {
   "id": 1409020035,
   "districtId": 1409020,
-  "name": "BAGAN BATU BARAT"
+  "districtName": "BAGAN SINEMBAH",
+  "name": "BAGAN BATU BARAT",
+  "postalCode": ""
  },
  {
   "id": 1409020036,
   "districtId": 1409020,
-  "name": "JADI MAKMUR"
+  "districtName": "BAGAN SINEMBAH",
+  "name": "JADI MAKMUR",
+  "postalCode": ""
  },
  {
   "id": 1409020037,
   "districtId": 1409020,
-  "name": "MURINI MAKMUR"
+  "districtName": "BAGAN SINEMBAH",
+  "name": "MURINI MAKMUR",
+  "postalCode": ""
  },
  {
   "id": 1409020038,
   "districtId": 1409020,
-  "name": "BAKTI JAYA"
+  "districtName": "BAGAN SINEMBAH",
+  "name": "BAKTI JAYA",
+  "postalCode": "15315"
  }
 ]

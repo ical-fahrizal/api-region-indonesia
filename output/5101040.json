@@ -2,41 +2,57 @@
  {
   "id": 5101040001,
   "districtId": 5101040,
-  "name": "MEDEWI"
+  "districtName": "PEKUTATAN",
+  "name": "MEDEWI",
+  "postalCode": "82262"
  },
  {
   "id": 5101040002,
   "districtId": 5101040,
-  "name": "PULUKAN"
+  "districtName": "PEKUTATAN",
+  "name": "PULUKAN",
+  "postalCode": "82262"
  },
  {
   "id": 5101040003,
   "districtId": 5101040,
-  "name": "PEKUTATAN"
+  "districtName": "PEKUTATAN",
+  "name": "PEKUTATAN",
+  "postalCode": "82262"
  },
  {
   "id": 5101040004,
   "districtId": 5101040,
-  "name": "PANGYANGAN"
+  "districtName": "PEKUTATAN",
+  "name": "PANGYANGAN",
+  "postalCode": "82262"
  },
  {
   "id": 5101040005,
   "districtId": 5101040,
-  "name": "GUMBRIH"
+  "districtName": "PEKUTATAN",
+  "name": "GUMBRIH",
+  "postalCode": "82262"
  },
  {
   "id": 5101040006,
   "districtId": 5101040,
-  "name": "PENGERAGOAN"
+  "districtName": "PEKUTATAN",
+  "name": "PENGERAGOAN",
+  "postalCode": ""
  },
  {
   "id": 5101040007,
   "districtId": 5101040,
-  "name": "ASAHDUREN"
+  "districtName": "PEKUTATAN",
+  "name": "ASAHDUREN",
+  "postalCode": "82262"
  },
  {
   "id": 5101040008,
   "districtId": 5101040,
-  "name": "MANGGISSARI"
+  "districtName": "PEKUTATAN",
+  "name": "MANGGISSARI",
+  "postalCode": "82262"
  }
 ]

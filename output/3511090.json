@@ -2,61 +2,85 @@
  {
   "id": 3511090001,
   "districtId": 3511090,
-  "name": "KONCER KIDUL"
+  "districtName": "TENGGARANG",
+  "name": "KONCER KIDUL",
+  "postalCode": "68281"
  },
  {
   "id": 3511090002,
   "districtId": 3511090,
-  "name": "SUMBERSALAM"
+  "districtName": "TENGGARANG",
+  "name": "SUMBERSALAM",
+  "postalCode": "68281"
  },
  {
   "id": 3511090003,
   "districtId": 3511090,
-  "name": "PEKALANGAN"
+  "districtName": "TENGGARANG",
+  "name": "PEKALANGAN",
+  "postalCode": "45118"
  },
  {
   "id": 3511090004,
   "districtId": 3511090,
-  "name": "KASEMEK"
+  "districtName": "TENGGARANG",
+  "name": "KASEMEK",
+  "postalCode": ""
  },
  {
   "id": 3511090005,
   "districtId": 3511090,
-  "name": "LOJAJAR"
+  "districtName": "TENGGARANG",
+  "name": "LOJAJAR",
+  "postalCode": "68281"
  },
  {
   "id": 3511090006,
   "districtId": 3511090,
-  "name": "KAJAR"
+  "districtName": "TENGGARANG",
+  "name": "KAJAR",
+  "postalCode": "59353"
  },
  {
   "id": 3511090007,
   "districtId": 3511090,
-  "name": "BATAAN"
+  "districtName": "TENGGARANG",
+  "name": "BATAAN",
+  "postalCode": "68281"
  },
  {
   "id": 3511090008,
   "districtId": 3511090,
-  "name": "GEBANG"
+  "districtName": "TENGGARANG",
+  "name": "GEBANG",
+  "postalCode": "35451"
  },
  {
   "id": 3511090009,
   "districtId": 3511090,
-  "name": "DAWUHAN"
+  "districtName": "TENGGARANG",
+  "name": "DAWUHAN",
+  "postalCode": "53192"
  },
  {
   "id": 3511090010,
   "districtId": 3511090,
-  "name": "TENGGARANG"
+  "districtName": "TENGGARANG",
+  "name": "TENGGARANG",
+  "postalCode": "68281"
  },
  {
   "id": 3511090011,
   "districtId": 3511090,
-  "name": "TANGSIL KULON"
+  "districtName": "TENGGARANG",
+  "name": "TANGSIL KULON",
+  "postalCode": "68281"
  },
  {
   "id": 3511090012,
   "districtId": 3511090,
-  "name": "KONCER DARUL AMAN"
+  "districtName": "TENGGARANG",
+  "name": "KONCER DARUL AMAN",
+  "postalCode": ""
  }
 ]

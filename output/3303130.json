@@ -2,36 +2,50 @@
  {
   "id": 3303130001,
   "districtId": 3303130,
-  "name": "SERANG"
+  "districtName": "KARANGREJA",
+  "name": "SERANG",
+  "postalCode": "17530"
  },
  {
   "id": 3303130002,
   "districtId": 3303130,
-  "name": "KUTABAWA"
+  "districtName": "KARANGREJA",
+  "name": "KUTABAWA",
+  "postalCode": "53357"
  },
  {
   "id": 3303130003,
   "districtId": 3303130,
-  "name": "SIWARAK"
+  "districtName": "KARANGREJA",
+  "name": "SIWARAK",
+  "postalCode": "53357"
  },
  {
   "id": 3303130004,
   "districtId": 3303130,
-  "name": "TLAHAB LOR"
+  "districtName": "KARANGREJA",
+  "name": "TLAHAB LOR",
+  "postalCode": "53357"
  },
  {
   "id": 3303130005,
   "districtId": 3303130,
-  "name": "TLAHAB KIDUL"
+  "districtName": "KARANGREJA",
+  "name": "TLAHAB KIDUL",
+  "postalCode": "53357"
  },
  {
   "id": 3303130006,
   "districtId": 3303130,
-  "name": "KARANGREJA"
+  "districtName": "KARANGREJA",
+  "name": "KARANGREJA",
+  "postalCode": "17710"
  },
  {
   "id": 3303130007,
   "districtId": 3303130,
-  "name": "GONDANG"
+  "districtName": "KARANGREJA",
+  "name": "GONDANG",
+  "postalCode": "51255"
  }
 ]

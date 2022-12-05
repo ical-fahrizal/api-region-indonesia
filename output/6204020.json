@@ -2,51 +2,71 @@
  {
   "id": 6204020001,
   "districtId": 6204020,
-  "name": "SUNGAI JAYA"
+  "districtName": "DUSUN HILIR",
+  "name": "SUNGAI JAYA",
+  "postalCode": ""
  },
  {
   "id": 6204020002,
   "districtId": 6204020,
-  "name": "MAHAJANDAU"
+  "districtName": "DUSUN HILIR",
+  "name": "MAHAJANDAU",
+  "postalCode": ""
  },
  {
   "id": 6204020003,
   "districtId": 6204020,
-  "name": "MENGKATIP"
+  "districtName": "DUSUN HILIR",
+  "name": "MENGKATIP",
+  "postalCode": "73762"
  },
  {
   "id": 6204020004,
   "districtId": 6204020,
-  "name": "KALANIS"
+  "districtName": "DUSUN HILIR",
+  "name": "KALANIS",
+  "postalCode": "73762"
  },
  {
   "id": 6204020005,
   "districtId": 6204020,
-  "name": "LEHAI"
+  "districtName": "DUSUN HILIR",
+  "name": "LEHAI",
+  "postalCode": "73762"
  },
  {
   "id": 6204020006,
   "districtId": 6204020,
-  "name": "DAMPARAN"
+  "districtName": "DUSUN HILIR",
+  "name": "DAMPARAN",
+  "postalCode": "73762"
  },
  {
   "id": 6204020007,
   "districtId": 6204020,
-  "name": "TELUK TIMBAU"
+  "districtName": "DUSUN HILIR",
+  "name": "TELUK TIMBAU",
+  "postalCode": "73762"
  },
  {
   "id": 6204020008,
   "districtId": 6204020,
-  "name": "BATILAP"
+  "districtName": "DUSUN HILIR",
+  "name": "BATILAP",
+  "postalCode": "73762"
  },
  {
   "id": 6204020009,
   "districtId": 6204020,
-  "name": "BATAMPANG"
+  "districtName": "DUSUN HILIR",
+  "name": "BATAMPANG",
+  "postalCode": "73762"
  },
  {
   "id": 6204020010,
   "districtId": 6204020,
-  "name": "MANGKATIR"
+  "districtName": "DUSUN HILIR",
+  "name": "MANGKATIR",
+  "postalCode": "73762"
  }
 ]

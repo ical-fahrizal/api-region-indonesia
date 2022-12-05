@@ -2,56 +2,78 @@
  {
   "id": 9429034002,
   "districtId": 9429034,
-  "name": "MEBOROK"
+  "districtName": "MEBOROK",
+  "name": "MEBOROK",
+  "postalCode": "99564"
  },
  {
   "id": 9429034004,
   "districtId": 9429034,
-  "name": "NGENAMBA"
+  "districtName": "MEBOROK",
+  "name": "NGENAMBA",
+  "postalCode": "99564"
  },
  {
   "id": 9429034005,
   "districtId": 9429034,
-  "name": "NARUGUM"
+  "districtName": "MEBOROK",
+  "name": "NARUGUM",
+  "postalCode": "99564"
  },
  {
   "id": 9429034006,
   "districtId": 9429034,
-  "name": "EREGENMANGGE"
+  "districtName": "MEBOROK",
+  "name": "EREGENMANGGE",
+  "postalCode": ""
  },
  {
   "id": 9429034007,
   "districtId": 9429034,
-  "name": "TALPAM"
+  "districtName": "MEBOROK",
+  "name": "TALPAM",
+  "postalCode": "99564"
  },
  {
   "id": 9429034008,
   "districtId": 9429034,
-  "name": "APTAM"
+  "districtName": "MEBOROK",
+  "name": "APTAM",
+  "postalCode": "99564"
  },
  {
   "id": 9429034009,
   "districtId": 9429034,
-  "name": "SIGNIMAREM"
+  "districtName": "MEBOROK",
+  "name": "SIGNIMAREM",
+  "postalCode": ""
  },
  {
   "id": 9429034010,
   "districtId": 9429034,
-  "name": "BONE"
+  "districtName": "MEBOROK",
+  "name": "BONE",
+  "postalCode": "85571"
  },
  {
   "id": 9429034011,
   "districtId": 9429034,
-  "name": "OLONMU"
+  "districtName": "MEBOROK",
+  "name": "OLONMU",
+  "postalCode": ""
  },
  {
   "id": 9429034012,
   "districtId": 9429034,
-  "name": "SABIEM"
+  "districtName": "MEBOROK",
+  "name": "SABIEM",
+  "postalCode": "99564"
  },
  {
   "id": 9429034014,
   "districtId": 9429034,
-  "name": "LUMURAK"
+  "districtName": "MEBOROK",
+  "name": "LUMURAK",
+  "postalCode": ""
  }
 ]

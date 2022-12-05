@@ -2,61 +2,85 @@
  {
   "id": 1406080004,
   "districtId": 1406080,
-  "name": "BULUH NIPIS"
+  "districtName": "SIAK HULU",
+  "name": "BULUH NIPIS",
+  "postalCode": "28452"
  },
  {
   "id": 1406080005,
   "districtId": 1406080,
-  "name": "PANGKALAN BARU"
+  "districtName": "SIAK HULU",
+  "name": "PANGKALAN BARU",
+  "postalCode": "28452"
  },
  {
   "id": 1406080006,
   "districtId": 1406080,
-  "name": "BULUH CINA"
+  "districtName": "SIAK HULU",
+  "name": "BULUH CINA",
+  "postalCode": "28452"
  },
  {
   "id": 1406080007,
   "districtId": 1406080,
-  "name": "LUBUK SIAM"
+  "districtName": "SIAK HULU",
+  "name": "LUBUK SIAM",
+  "postalCode": "28452"
  },
  {
   "id": 1406080009,
   "districtId": 1406080,
-  "name": "TERATAK BULUH"
+  "districtName": "SIAK HULU",
+  "name": "TERATAK BULUH",
+  "postalCode": "28452"
  },
  {
   "id": 1406080010,
   "districtId": 1406080,
-  "name": "DESA BARU"
+  "districtName": "SIAK HULU",
+  "name": "DESA BARU",
+  "postalCode": "26366"
  },
  {
   "id": 1406080011,
   "districtId": 1406080,
-  "name": "TANAH MERAH"
+  "districtName": "SIAK HULU",
+  "name": "TANAH MERAH",
+  "postalCode": "24652"
  },
  {
   "id": 1406080012,
   "districtId": 1406080,
-  "name": "PANDAU JAYA"
+  "districtName": "SIAK HULU",
+  "name": "PANDAU JAYA",
+  "postalCode": "28452"
  },
  {
   "id": 1406080013,
   "districtId": 1406080,
-  "name": "PANGKALAN SERIK"
+  "districtName": "SIAK HULU",
+  "name": "PANGKALAN SERIK",
+  "postalCode": "28452"
  },
  {
   "id": 1406080014,
   "districtId": 1406080,
-  "name": "KEPAU JAYA"
+  "districtName": "SIAK HULU",
+  "name": "KEPAU JAYA",
+  "postalCode": "28452"
  },
  {
   "id": 1406080015,
   "districtId": 1406080,
-  "name": "TANJUNG BALAM"
+  "districtName": "SIAK HULU",
+  "name": "TANJUNG BALAM",
+  "postalCode": "28452"
  },
  {
   "id": 1406080016,
   "districtId": 1406080,
-  "name": "KUBANG JAYA"
+  "districtName": "SIAK HULU",
+  "name": "KUBANG JAYA",
+  "postalCode": "28452"
  }
 ]

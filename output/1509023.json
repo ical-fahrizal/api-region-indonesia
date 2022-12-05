@@ -2,26 +2,36 @@
  {
   "id": 1509023001,
   "districtId": 1509023,
-  "name": "KELURAHAN SUNGAI KERJAN"
+  "districtName": "BUNGO DANI",
+  "name": "KELURAHAN SUNGAI KERJAN",
+  "postalCode": ""
  },
  {
   "id": 1509023002,
   "districtId": 1509023,
-  "name": "SUNGAI ARANG"
+  "districtName": "BUNGO DANI",
+  "name": "SUNGAI ARANG",
+  "postalCode": "37211"
  },
  {
   "id": 1509023003,
   "districtId": 1509023,
-  "name": "TALANG PANTAI"
+  "districtName": "BUNGO DANI",
+  "name": "TALANG PANTAI",
+  "postalCode": "37211"
  },
  {
   "id": 1509023004,
   "districtId": 1509023,
-  "name": "KELURAHAN SUNGAI  PINANG"
+  "districtName": "BUNGO DANI",
+  "name": "KELURAHAN SUNGAI  PINANG",
+  "postalCode": ""
  },
  {
   "id": 1509023005,
   "districtId": 1509023,
-  "name": "PULAU PEKAN"
+  "districtName": "BUNGO DANI",
+  "name": "PULAU PEKAN",
+  "postalCode": "37211"
  }
 ]

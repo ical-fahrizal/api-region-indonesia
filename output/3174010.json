@@ -2,26 +2,36 @@
  {
   "id": 3174010001,
   "districtId": 3174010,
-  "name": "JOGLO"
+  "districtName": "KEMBANGAN",
+  "name": "JOGLO",
+  "postalCode": "11640"
  },
  {
   "id": 3174010003,
   "districtId": 3174010,
-  "name": "MERUYA SELATAN"
+  "districtName": "KEMBANGAN",
+  "name": "MERUYA SELATAN",
+  "postalCode": ""
  },
  {
   "id": 3174010004,
   "districtId": 3174010,
-  "name": "MERUYA UTARA"
+  "districtName": "KEMBANGAN",
+  "name": "MERUYA UTARA",
+  "postalCode": ""
  },
  {
   "id": 3174010005,
   "districtId": 3174010,
-  "name": "KEMBANGAN SELATAN"
+  "districtName": "KEMBANGAN",
+  "name": "KEMBANGAN SELATAN",
+  "postalCode": "11610"
  },
  {
   "id": 3174010006,
   "districtId": 3174010,
-  "name": "KEMBANGAN UTARA"
+  "districtName": "KEMBANGAN",
+  "name": "KEMBANGAN UTARA",
+  "postalCode": "11610"
  }
 ]

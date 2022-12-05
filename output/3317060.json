@@ -2,106 +2,148 @@
  {
   "id": 3317060001,
   "districtId": 3317060,
-  "name": "NGULAHAN"
+  "districtName": "SEDAN",
+  "name": "NGULAHAN",
+  "postalCode": "59264"
  },
  {
   "id": 3317060002,
   "districtId": 3317060,
-  "name": "PACING"
+  "districtName": "SEDAN",
+  "name": "PACING",
+  "postalCode": "41374"
  },
  {
   "id": 3317060003,
   "districtId": 3317060,
-  "name": "KARAS"
+  "districtName": "SEDAN",
+  "name": "KARAS",
+  "postalCode": "59264"
  },
  {
   "id": 3317060004,
   "districtId": 3317060,
-  "name": "MOJOSARI"
+  "districtName": "SEDAN",
+  "name": "MOJOSARI",
+  "postalCode": "56265"
  },
  {
   "id": 3317060005,
   "districtId": 3317060,
-  "name": "GESIKAN"
+  "districtName": "SEDAN",
+  "name": "GESIKAN",
+  "postalCode": "57455"
  },
  {
   "id": 3317060006,
   "districtId": 3317060,
-  "name": "SAMBIROTO"
+  "districtName": "SEDAN",
+  "name": "SAMBIROTO",
+  "postalCode": "59581"
  },
  {
   "id": 3317060007,
   "districtId": 3317060,
-  "name": "SEDAN"
+  "districtName": "SEDAN",
+  "name": "SEDAN",
+  "postalCode": "59264"
  },
  {
   "id": 3317060008,
   "districtId": 3317060,
-  "name": "KARANGASEM"
+  "districtName": "SEDAN",
+  "name": "KARANGASEM",
+  "postalCode": "45186"
  },
  {
   "id": 3317060009,
   "districtId": 3317060,
-  "name": "SIDOREJO"
+  "districtName": "SEDAN",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 3317060010,
   "districtId": 3317060,
-  "name": "SIDOMULYO"
+  "districtName": "SEDAN",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  },
  {
   "id": 3317060011,
   "districtId": 3317060,
-  "name": "KEDUNGRINGIN"
+  "districtName": "SEDAN",
+  "name": "KEDUNGRINGIN",
+  "postalCode": "59264"
  },
  {
   "id": 3317060012,
   "districtId": 3317060,
-  "name": "GANDRIROJO"
+  "districtName": "SEDAN",
+  "name": "GANDRIROJO",
+  "postalCode": "59264"
  },
  {
   "id": 3317060013,
   "districtId": 3317060,
-  "name": "CANDIMULYO"
+  "districtName": "SEDAN",
+  "name": "CANDIMULYO",
+  "postalCode": "56191"
  },
  {
   "id": 3317060014,
   "districtId": 3317060,
-  "name": "LEMAHPUTIH"
+  "districtName": "SEDAN",
+  "name": "LEMAHPUTIH",
+  "postalCode": "58153"
  },
  {
   "id": 3317060015,
   "districtId": 3317060,
-  "name": "KUMBO"
+  "districtName": "SEDAN",
+  "name": "KUMBO",
+  "postalCode": "59264"
  },
  {
   "id": 3317060016,
   "districtId": 3317060,
-  "name": "DADAPAN"
+  "districtName": "SEDAN",
+  "name": "DADAPAN",
+  "postalCode": "35374"
  },
  {
   "id": 3317060017,
   "districtId": 3317060,
-  "name": "SAMBONG"
+  "districtName": "SEDAN",
+  "name": "SAMBONG",
+  "postalCode": "51212"
  },
  {
   "id": 3317060018,
   "districtId": 3317060,
-  "name": "BOGOREJO"
+  "districtName": "SEDAN",
+  "name": "BOGOREJO",
+  "postalCode": "35366"
  },
  {
   "id": 3317060019,
   "districtId": 3317060,
-  "name": "KENONGO"
+  "districtName": "SEDAN",
+  "name": "KENONGO",
+  "postalCode": "59264"
  },
  {
   "id": 3317060020,
   "districtId": 3317060,
-  "name": "JAMBEYAN"
+  "districtName": "SEDAN",
+  "name": "JAMBEYAN",
+  "postalCode": "57475"
  },
  {
   "id": 3317060021,
   "districtId": 3317060,
-  "name": "MENORO"
+  "districtName": "SEDAN",
+  "name": "MENORO",
+  "postalCode": "59264"
  }
 ]

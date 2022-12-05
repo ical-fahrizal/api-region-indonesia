@@ -2,31 +2,43 @@
  {
   "id": 7403153001,
   "districtId": 7403153,
-  "name": "KARANDU"
+  "districtName": "ANGGOTOA",
+  "name": "KARANDU",
+  "postalCode": "93461"
  },
  {
   "id": 7403153002,
   "districtId": 7403153,
-  "name": "NARIO INDAH"
+  "districtName": "ANGGOTOA",
+  "name": "NARIO INDAH",
+  "postalCode": "93461"
  },
  {
   "id": 7403153003,
   "districtId": 7403153,
-  "name": "KORUMBA"
+  "districtName": "ANGGOTOA",
+  "name": "KORUMBA",
+  "postalCode": "93111"
  },
  {
   "id": 7403153004,
   "districtId": 7403153,
-  "name": "ANALAHUMBUTI"
+  "districtName": "ANGGOTOA",
+  "name": "ANALAHUMBUTI",
+  "postalCode": "93461"
  },
  {
   "id": 7403153005,
   "districtId": 7403153,
-  "name": "ANGGOTOA"
+  "districtName": "ANGGOTOA",
+  "name": "ANGGOTOA",
+  "postalCode": "93461"
  },
  {
   "id": 7403153006,
   "districtId": 7403153,
-  "name": "KUKULURI"
+  "districtName": "ANGGOTOA",
+  "name": "KUKULURI",
+  "postalCode": ""
  }
 ]

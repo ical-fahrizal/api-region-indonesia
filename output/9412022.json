@@ -2,26 +2,36 @@
  {
   "id": 9412022001,
   "districtId": 9412022,
-  "name": "FANAMO"
+  "districtName": "MIMIKA TIMUR JAUH",
+  "name": "FANAMO",
+  "postalCode": "99971"
  },
  {
   "id": 9412022002,
   "districtId": 9412022,
-  "name": "OHOTYA"
+  "districtName": "MIMIKA TIMUR JAUH",
+  "name": "OHOTYA",
+  "postalCode": "99971"
  },
  {
   "id": 9412022003,
   "districtId": 9412022,
-  "name": "OMAWITA"
+  "districtName": "MIMIKA TIMUR JAUH",
+  "name": "OMAWITA",
+  "postalCode": "99971"
  },
  {
   "id": 9412022004,
   "districtId": 9412022,
-  "name": "AMAMAPARE"
+  "districtName": "MIMIKA TIMUR JAUH",
+  "name": "AMAMAPARE",
+  "postalCode": "99971"
  },
  {
   "id": 9412022005,
   "districtId": 9412022,
-  "name": "AYUKA"
+  "districtName": "MIMIKA TIMUR JAUH",
+  "name": "AYUKA",
+  "postalCode": "99971"
  }
 ]

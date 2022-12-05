@@ -2,41 +2,57 @@
  {
   "id": 1210101001,
   "districtId": 1210101,
-  "name": "BUKIT LAU KERSIK"
+  "districtName": "GUNUNG SITEMBER",
+  "name": "BUKIT LAU KERSIK",
+  "postalCode": "22251"
  },
  {
   "id": 1210101002,
   "districtId": 1210101,
-  "name": "GUNUNG SITEMBER"
+  "districtName": "GUNUNG SITEMBER",
+  "name": "GUNUNG SITEMBER",
+  "postalCode": "22251"
  },
  {
   "id": 1210101003,
   "districtId": 1210101,
-  "name": "BATU GUNGUN"
+  "districtName": "GUNUNG SITEMBER",
+  "name": "BATU GUNGUN",
+  "postalCode": ""
  },
  {
   "id": 1210101004,
   "districtId": 1210101,
-  "name": "GUNDALING"
+  "districtName": "GUNUNG SITEMBER",
+  "name": "GUNDALING",
+  "postalCode": "22251"
  },
  {
   "id": 1210101005,
   "districtId": 1210101,
-  "name": "RANTE BESI"
+  "districtName": "GUNUNG SITEMBER",
+  "name": "RANTE BESI",
+  "postalCode": "22251"
  },
  {
   "id": 1210101006,
   "districtId": 1210101,
-  "name": "KENDIT LIANG"
+  "districtName": "GUNUNG SITEMBER",
+  "name": "KENDIT LIANG",
+  "postalCode": "22251"
  },
  {
   "id": 1210101007,
   "districtId": 1210101,
-  "name": "LAU LEBAH"
+  "districtName": "GUNUNG SITEMBER",
+  "name": "LAU LEBAH",
+  "postalCode": "22251"
  },
  {
   "id": 1210101008,
   "districtId": 1210101,
-  "name": "TUPAK RAJA"
+  "districtName": "GUNUNG SITEMBER",
+  "name": "TUPAK RAJA",
+  "postalCode": "22251"
  }
 ]

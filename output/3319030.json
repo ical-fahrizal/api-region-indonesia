@@ -2,71 +2,99 @@
  {
   "id": 3319030001,
   "districtId": 3319030,
-  "name": "TANJUNG KARANG"
+  "districtName": "JATI",
+  "name": "TANJUNG KARANG",
+  "postalCode": "24476"
  },
  {
   "id": 3319030002,
   "districtId": 3319030,
-  "name": "JETIS KAPUAN"
+  "districtName": "JATI",
+  "name": "JETIS KAPUAN",
+  "postalCode": "59349"
  },
  {
   "id": 3319030003,
   "districtId": 3319030,
-  "name": "LORAM KULON"
+  "districtName": "JATI",
+  "name": "LORAM KULON",
+  "postalCode": "59344"
  },
  {
   "id": 3319030004,
   "districtId": 3319030,
-  "name": "JATI WETAN"
+  "districtName": "JATI",
+  "name": "JATI WETAN",
+  "postalCode": "59346"
  },
  {
   "id": 3319030005,
   "districtId": 3319030,
-  "name": "JATI KULON"
+  "districtName": "JATI",
+  "name": "JATI KULON",
+  "postalCode": "59347"
  },
  {
   "id": 3319030006,
   "districtId": 3319030,
-  "name": "PASURUHAN LOR"
+  "districtName": "JATI",
+  "name": "PASURUHAN LOR",
+  "postalCode": "59349"
  },
  {
   "id": 3319030007,
   "districtId": 3319030,
-  "name": "PASURUHAN KIDUL"
+  "districtName": "JATI",
+  "name": "PASURUHAN KIDUL",
+  "postalCode": "59349"
  },
  {
   "id": 3319030008,
   "districtId": 3319030,
-  "name": "PLOSO"
+  "districtName": "JATI",
+  "name": "PLOSO",
+  "postalCode": "59348"
  },
  {
   "id": 3319030009,
   "districtId": 3319030,
-  "name": "GETAS PEJATEN"
+  "districtName": "JATI",
+  "name": "GETAS PEJATEN",
+  "postalCode": "59343"
  },
  {
   "id": 3319030010,
   "districtId": 3319030,
-  "name": "LORAM WETAN"
+  "districtName": "JATI",
+  "name": "LORAM WETAN",
+  "postalCode": "59344"
  },
  {
   "id": 3319030011,
   "districtId": 3319030,
-  "name": "JEPANG PAKIS"
+  "districtName": "JATI",
+  "name": "JEPANG PAKIS",
+  "postalCode": ""
  },
  {
   "id": 3319030012,
   "districtId": 3319030,
-  "name": "MEGAWON"
+  "districtName": "JATI",
+  "name": "MEGAWON",
+  "postalCode": "59342"
  },
  {
   "id": 3319030013,
   "districtId": 3319030,
-  "name": "TUMPANG KRASAK"
+  "districtName": "JATI",
+  "name": "TUMPANG KRASAK",
+  "postalCode": "59349"
  },
  {
   "id": 3319030014,
   "districtId": 3319030,
-  "name": "NGEMBAL KULON"
+  "districtName": "JATI",
+  "name": "NGEMBAL KULON",
+  "postalCode": "59341"
  }
 ]

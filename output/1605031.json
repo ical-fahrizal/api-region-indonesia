@@ -2,61 +2,85 @@
  {
   "id": 1605031001,
   "districtId": 1605031,
-  "name": "SELANGIT"
+  "districtName": "SELANGIT",
+  "name": "SELANGIT",
+  "postalCode": "31625"
  },
  {
   "id": 1605031002,
   "districtId": 1605031,
-  "name": "TABA REMANIK"
+  "districtName": "SELANGIT",
+  "name": "TABA REMANIK",
+  "postalCode": "31625"
  },
  {
   "id": 1605031003,
   "districtId": 1605031,
-  "name": "TABA TENGAH"
+  "districtName": "SELANGIT",
+  "name": "TABA TENGAH",
+  "postalCode": "31625"
  },
  {
   "id": 1605031004,
   "districtId": 1605031,
-  "name": "TABA RENAH"
+  "districtName": "SELANGIT",
+  "name": "TABA RENAH",
+  "postalCode": "31625"
  },
  {
   "id": 1605031005,
   "districtId": 1605031,
-  "name": "PRABU MENANG"
+  "districtName": "SELANGIT",
+  "name": "PRABU MENANG",
+  "postalCode": "31173"
  },
  {
   "id": 1605031006,
   "districtId": 1605031,
-  "name": "TABA GINDO"
+  "districtName": "SELANGIT",
+  "name": "TABA GINDO",
+  "postalCode": "31625"
  },
  {
   "id": 1605031007,
   "districtId": 1605031,
-  "name": "MUARA NILAU"
+  "districtName": "SELANGIT",
+  "name": "MUARA NILAU",
+  "postalCode": "31625"
  },
  {
   "id": 1605031008,
   "districtId": 1605031,
-  "name": "KARANG PANGGUNG"
+  "districtName": "SELANGIT",
+  "name": "KARANG PANGGUNG",
+  "postalCode": "31625"
  },
  {
   "id": 1605031009,
   "districtId": 1605031,
-  "name": "BATU GANE"
+  "districtName": "SELANGIT",
+  "name": "BATU GANE",
+  "postalCode": "31625"
  },
  {
   "id": 1605031010,
   "districtId": 1605031,
-  "name": "NAPAL MELINTANG"
+  "districtName": "SELANGIT",
+  "name": "NAPAL MELINTANG",
+  "postalCode": "37382"
  },
  {
   "id": 1605031011,
   "districtId": 1605031,
-  "name": "LUBUK NGIN"
+  "districtName": "SELANGIT",
+  "name": "LUBUK NGIN",
+  "postalCode": "31625"
  },
  {
   "id": 1605031012,
   "districtId": 1605031,
-  "name": "LUBUK NGIN BARU"
+  "districtName": "SELANGIT",
+  "name": "LUBUK NGIN BARU",
+  "postalCode": "31625"
  }
 ]

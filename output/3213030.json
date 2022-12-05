@@ -2,46 +2,64 @@
  {
   "id": 3213030001,
   "districtId": 3213030,
-  "name": "CUPUNAGARA"
+  "districtName": "CISALAK",
+  "name": "CUPUNAGARA",
+  "postalCode": "41283"
  },
  {
   "id": 3213030002,
   "districtId": 3213030,
-  "name": "CIMANGGU"
+  "districtName": "CISALAK",
+  "name": "CIMANGGU",
+  "postalCode": "43262"
  },
  {
   "id": 3213030003,
   "districtId": 3213030,
-  "name": "GARDUSAYANG"
+  "districtName": "CISALAK",
+  "name": "GARDUSAYANG",
+  "postalCode": "41283"
  },
  {
   "id": 3213030004,
   "districtId": 3213030,
-  "name": "MAYANG"
+  "districtName": "CISALAK",
+  "name": "MAYANG",
+  "postalCode": "21183"
  },
  {
   "id": 3213030005,
   "districtId": 3213030,
-  "name": "SUKAKERTI"
+  "districtName": "CISALAK",
+  "name": "SUKAKERTI",
+  "postalCode": "41283"
  },
  {
   "id": 3213030008,
   "districtId": 3213030,
-  "name": "DARMAGA"
+  "districtName": "CISALAK",
+  "name": "DARMAGA",
+  "postalCode": "41283"
  },
  {
   "id": 3213030009,
   "districtId": 3213030,
-  "name": "CISALAK"
+  "districtName": "CISALAK",
+  "name": "CISALAK",
+  "postalCode": "43262"
  },
  {
   "id": 3213030010,
   "districtId": 3213030,
-  "name": "CIGADOG"
+  "districtName": "CISALAK",
+  "name": "CIGADOG",
+  "postalCode": "44177"
  },
  {
   "id": 3213030014,
   "districtId": 3213030,
-  "name": "PAKUHAJI"
+  "districtName": "CISALAK",
+  "name": "PAKUHAJI",
+  "postalCode": "41283"
  }
 ]

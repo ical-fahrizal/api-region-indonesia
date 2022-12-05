@@ -2,61 +2,85 @@
  {
   "id": 3311040002,
   "districtId": 3311040,
-  "name": "BANMATI"
+  "districtName": "SUKOHARJO",
+  "name": "BANMATI",
+  "postalCode": "57551"
  },
  {
   "id": 3311040003,
   "districtId": 3311040,
-  "name": "MANDAN"
+  "districtName": "SUKOHARJO",
+  "name": "MANDAN",
+  "postalCode": "57516"
  },
  {
   "id": 3311040004,
   "districtId": 3311040,
-  "name": "BEGAJAH"
+  "districtName": "SUKOHARJO",
+  "name": "BEGAJAH",
+  "postalCode": "57551"
  },
  {
   "id": 3311040005,
   "districtId": 3311040,
-  "name": "GAYAM"
+  "districtName": "SUKOHARJO",
+  "name": "GAYAM",
+  "postalCode": "35592"
  },
  {
   "id": 3311040006,
   "districtId": 3311040,
-  "name": "JOHO"
+  "districtName": "SUKOHARJO",
+  "name": "JOHO",
+  "postalCode": "54363"
  },
  {
   "id": 3311040007,
   "districtId": 3311040,
-  "name": "JETIS"
+  "districtName": "SUKOHARJO",
+  "name": "JETIS",
+  "postalCode": "57556"
  },
  {
   "id": 3311040008,
   "districtId": 3311040,
-  "name": "COMBONGAN"
+  "districtName": "SUKOHARJO",
+  "name": "COMBONGAN",
+  "postalCode": "57519"
  },
  {
   "id": 3311040009,
   "districtId": 3311040,
-  "name": "KRIWEN"
+  "districtName": "SUKOHARJO",
+  "name": "KRIWEN",
+  "postalCode": "57551"
  },
  {
   "id": 3311040010,
   "districtId": 3311040,
-  "name": "BULAKAN"
+  "districtName": "SUKOHARJO",
+  "name": "BULAKAN",
+  "postalCode": "52356"
  },
  {
   "id": 3311040012,
   "districtId": 3311040,
-  "name": "SUKOHARJO"
+  "districtName": "SUKOHARJO",
+  "name": "SUKOHARJO",
+  "postalCode": "32383"
  },
  {
   "id": 3311040013,
   "districtId": 3311040,
-  "name": "BULAKREJO"
+  "districtName": "SUKOHARJO",
+  "name": "BULAKREJO",
+  "postalCode": "57551"
  },
  {
   "id": 3311040014,
   "districtId": 3311040,
-  "name": "SONOREJO"
+  "districtName": "SUKOHARJO",
+  "name": "SONOREJO",
+  "postalCode": "58213"
  }
 ]

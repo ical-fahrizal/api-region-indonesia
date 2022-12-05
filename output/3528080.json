@@ -2,66 +2,92 @@
  {
   "id": 3528080001,
   "districtId": 3528080,
-  "name": "PLAKPAK"
+  "districtName": "PEGANTENAN",
+  "name": "PLAKPAK",
+  "postalCode": "69361"
  },
  {
   "id": 3528080002,
   "districtId": 3528080,
-  "name": "BULANGAN HAJI"
+  "districtName": "PEGANTENAN",
+  "name": "BULANGAN HAJI",
+  "postalCode": "69361"
  },
  {
   "id": 3528080003,
   "districtId": 3528080,
-  "name": "TALAGAH"
+  "districtName": "PEGANTENAN",
+  "name": "TALAGAH",
+  "postalCode": ""
  },
  {
   "id": 3528080004,
   "districtId": 3528080,
-  "name": "BULANGAN TIMUR"
+  "districtName": "PEGANTENAN",
+  "name": "BULANGAN TIMUR",
+  "postalCode": "69361"
  },
  {
   "id": 3528080005,
   "districtId": 3528080,
-  "name": "BULANGAN BRANTA"
+  "districtName": "PEGANTENAN",
+  "name": "BULANGAN BRANTA",
+  "postalCode": "69361"
  },
  {
   "id": 3528080006,
   "districtId": 3528080,
-  "name": "BULANGAN BARAT"
+  "districtName": "PEGANTENAN",
+  "name": "BULANGAN BARAT",
+  "postalCode": "69361"
  },
  {
   "id": 3528080007,
   "districtId": 3528080,
-  "name": "PALESANGGAR"
+  "districtName": "PEGANTENAN",
+  "name": "PALESANGGAR",
+  "postalCode": "69361"
  },
  {
   "id": 3528080008,
   "districtId": 3528080,
-  "name": "PEGANTENAN"
+  "districtName": "PEGANTENAN",
+  "name": "PEGANTENAN",
+  "postalCode": ""
  },
  {
   "id": 3528080009,
   "districtId": 3528080,
-  "name": "TEBUL TIMUR"
+  "districtName": "PEGANTENAN",
+  "name": "TEBUL TIMUR",
+  "postalCode": "69361"
  },
  {
   "id": 3528080010,
   "districtId": 3528080,
-  "name": "TEBUL BARAT"
+  "districtName": "PEGANTENAN",
+  "name": "TEBUL BARAT",
+  "postalCode": "69361"
  },
  {
   "id": 3528080011,
   "districtId": 3528080,
-  "name": "AMBENDER"
+  "districtName": "PEGANTENAN",
+  "name": "AMBENDER",
+  "postalCode": "69361"
  },
  {
   "id": 3528080012,
   "districtId": 3528080,
-  "name": "PASANGGAR"
+  "districtName": "PEGANTENAN",
+  "name": "PASANGGAR",
+  "postalCode": "69361"
  },
  {
   "id": 3528080013,
   "districtId": 3528080,
-  "name": "TANJUNG"
+  "districtName": "PEGANTENAN",
+  "name": "TANJUNG",
+  "postalCode": "24562"
  }
 ]

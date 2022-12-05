@@ -2,46 +2,64 @@
  {
   "id": 9408081001,
   "districtId": 9408081,
-  "name": "WAISANI"
+  "districtName": "WINDESI",
+  "name": "WAISANI",
+  "postalCode": "98254"
  },
  {
   "id": 9408081002,
   "districtId": 9408081,
-  "name": "MUNGGUI"
+  "districtName": "WINDESI",
+  "name": "MUNGGUI",
+  "postalCode": "98254"
  },
  {
   "id": 9408081003,
   "districtId": 9408081,
-  "name": "ASAI"
+  "districtName": "WINDESI",
+  "name": "ASAI",
+  "postalCode": "98254"
  },
  {
   "id": 9408081004,
   "districtId": 9408081,
-  "name": "WINDESI"
+  "districtName": "WINDESI",
+  "name": "WINDESI",
+  "postalCode": "98254"
  },
  {
   "id": 9408081005,
   "districtId": 9408081,
-  "name": "SARUMAN"
+  "districtName": "WINDESI",
+  "name": "SARUMAN",
+  "postalCode": "98254"
  },
  {
   "id": 9408081006,
   "districtId": 9408081,
-  "name": "KAONDA"
+  "districtName": "WINDESI",
+  "name": "KAONDA",
+  "postalCode": "98253"
  },
  {
   "id": 9408081007,
   "districtId": 9408081,
-  "name": "KARAWI"
+  "districtName": "WINDESI",
+  "name": "KARAWI",
+  "postalCode": "98252"
  },
  {
   "id": 9408081008,
   "districtId": 9408081,
-  "name": "ROSBORI"
+  "districtName": "WINDESI",
+  "name": "ROSBORI",
+  "postalCode": "98254"
  },
  {
   "id": 9408081009,
   "districtId": 9408081,
-  "name": "ARYOBU"
+  "districtName": "WINDESI",
+  "name": "ARYOBU",
+  "postalCode": "98254"
  }
 ]

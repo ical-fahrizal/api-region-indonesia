@@ -2,26 +2,36 @@
  {
   "id": 9428060003,
   "districtId": 9428060,
-  "name": "KUSTRA"
+  "districtName": "MAMBERAMO TENGAH TIMUR",
+  "name": "KUSTRA",
+  "postalCode": "99376"
  },
  {
   "id": 9428060004,
   "districtId": 9428060,
-  "name": "NOYADI"
+  "districtName": "MAMBERAMO TENGAH TIMUR",
+  "name": "NOYADI",
+  "postalCode": "99376"
  },
  {
   "id": 9428060005,
   "districtId": 9428060,
-  "name": "OBOGOI"
+  "districtName": "MAMBERAMO TENGAH TIMUR",
+  "name": "OBOGOI",
+  "postalCode": ""
  },
  {
   "id": 9428060006,
   "districtId": 9428060,
-  "name": "TUWAO"
+  "districtName": "MAMBERAMO TENGAH TIMUR",
+  "name": "TUWAO",
+  "postalCode": ""
  },
  {
   "id": 9428060007,
   "districtId": 9428060,
-  "name": "WAKEYADI"
+  "districtName": "MAMBERAMO TENGAH TIMUR",
+  "name": "WAKEYADI",
+  "postalCode": "99376"
  }
 ]

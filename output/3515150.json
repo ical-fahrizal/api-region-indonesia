@@ -2,61 +2,85 @@
  {
   "id": 3515150001,
   "districtId": 3515150,
-  "name": "GANTING"
+  "districtName": "GEDANGAN",
+  "name": "GANTING",
+  "postalCode": "23891"
  },
  {
   "id": 3515150002,
   "districtId": 3515150,
-  "name": "KARANGBONG"
+  "districtName": "GEDANGAN",
+  "name": "KARANGBONG",
+  "postalCode": "61254"
  },
  {
   "id": 3515150004,
   "districtId": 3515150,
-  "name": "KRAGAN"
+  "districtName": "GEDANGAN",
+  "name": "KRAGAN",
+  "postalCode": "57188"
  },
  {
   "id": 3515150007,
   "districtId": 3515150,
-  "name": "SRUNI"
+  "districtName": "GEDANGAN",
+  "name": "SRUNI",
+  "postalCode": "57331"
  },
  {
   "id": 3515150008,
   "districtId": 3515150,
-  "name": "KEBOANANOM"
+  "districtName": "GEDANGAN",
+  "name": "KEBOANANOM",
+  "postalCode": "61254"
  },
  {
   "id": 3515150009,
   "districtId": 3515150,
-  "name": "KEBOANSIKEP"
+  "districtName": "GEDANGAN",
+  "name": "KEBOANSIKEP",
+  "postalCode": "61254"
  },
  {
   "id": 3515150010,
   "districtId": 3515150,
-  "name": "GEDANGAN"
+  "districtName": "GEDANGAN",
+  "name": "GEDANGAN",
+  "postalCode": "21264"
  },
  {
   "id": 3515150011,
   "districtId": 3515150,
-  "name": "KETAJEN"
+  "districtName": "GEDANGAN",
+  "name": "KETAJEN",
+  "postalCode": "61254"
  },
  {
   "id": 3515150012,
   "districtId": 3515150,
-  "name": "WEDI"
+  "districtName": "GEDANGAN",
+  "name": "WEDI",
+  "postalCode": "61254"
  },
  {
   "id": 3515150013,
   "districtId": 3515150,
-  "name": "SEMAMBUNG"
+  "districtName": "GEDANGAN",
+  "name": "SEMAMBUNG",
+  "postalCode": "61254"
  },
  {
   "id": 3515150014,
   "districtId": 3515150,
-  "name": "SAWOTRATAP"
+  "districtName": "GEDANGAN",
+  "name": "SAWOTRATAP",
+  "postalCode": "61254"
  },
  {
   "id": 3515150015,
   "districtId": 3515150,
-  "name": "BANGAH"
+  "districtName": "GEDANGAN",
+  "name": "BANGAH",
+  "postalCode": "61254"
  }
 ]

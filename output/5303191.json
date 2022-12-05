@@ -2,31 +2,43 @@
  {
   "id": 5303191001,
   "districtId": 5303191,
-  "name": "SAUKIBE"
+  "districtName": "AMFOANG BARAT LAUT",
+  "name": "SAUKIBE",
+  "postalCode": "85364"
  },
  {
   "id": 5303191002,
   "districtId": 5303191,
-  "name": "FAUMES"
+  "districtName": "AMFOANG BARAT LAUT",
+  "name": "FAUMES",
+  "postalCode": "85364"
  },
  {
   "id": 5303191003,
   "districtId": 5303191,
-  "name": "TIMAU"
+  "districtName": "AMFOANG BARAT LAUT",
+  "name": "TIMAU",
+  "postalCode": "85364"
  },
  {
   "id": 5303191004,
   "districtId": 5303191,
-  "name": "HONUK"
+  "districtName": "AMFOANG BARAT LAUT",
+  "name": "HONUK",
+  "postalCode": "85364"
  },
  {
   "id": 5303191005,
   "districtId": 5303191,
-  "name": "OELFATU"
+  "districtName": "AMFOANG BARAT LAUT",
+  "name": "OELFATU",
+  "postalCode": "85364"
  },
  {
   "id": 5303191006,
   "districtId": 5303191,
-  "name": "SOLIU"
+  "districtName": "AMFOANG BARAT LAUT",
+  "name": "SOLIU",
+  "postalCode": "85364"
  }
 ]

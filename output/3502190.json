@@ -2,86 +2,120 @@
  {
   "id": 3502190001,
   "districtId": 3502190,
-  "name": "MRICAN"
+  "districtName": "JENANGAN",
+  "name": "MRICAN",
+  "postalCode": "51155"
  },
  {
   "id": 3502190002,
   "districtId": 3502190,
-  "name": "SINGOSAREN"
+  "districtName": "JENANGAN",
+  "name": "SINGOSAREN",
+  "postalCode": "55193"
  },
  {
   "id": 3502190003,
   "districtId": 3502190,
-  "name": "SETONO"
+  "districtName": "JENANGAN",
+  "name": "SETONO",
+  "postalCode": "63492"
  },
  {
   "id": 3502190004,
   "districtId": 3502190,
-  "name": "PLALANGAN"
+  "districtName": "JENANGAN",
+  "name": "PLALANGAN",
+  "postalCode": "50225"
  },
  {
   "id": 3502190005,
   "districtId": 3502190,
-  "name": "NGRUPIT"
+  "districtName": "JENANGAN",
+  "name": "NGRUPIT",
+  "postalCode": "63492"
  },
  {
   "id": 3502190006,
   "districtId": 3502190,
-  "name": "SEDAH"
+  "districtName": "JENANGAN",
+  "name": "SEDAH",
+  "postalCode": "63492"
  },
  {
   "id": 3502190007,
   "districtId": 3502190,
-  "name": "PINTU"
+  "districtName": "JENANGAN",
+  "name": "PINTU",
+  "postalCode": "63492"
  },
  {
   "id": 3502190008,
   "districtId": 3502190,
-  "name": "PANJENG"
+  "districtName": "JENANGAN",
+  "name": "PANJENG",
+  "postalCode": "63492"
  },
  {
   "id": 3502190009,
   "districtId": 3502190,
-  "name": "JIMBE"
+  "districtName": "JENANGAN",
+  "name": "JIMBE",
+  "postalCode": "63492"
  },
  {
   "id": 3502190010,
   "districtId": 3502190,
-  "name": "JENANGAN"
+  "districtName": "JENANGAN",
+  "name": "JENANGAN",
+  "postalCode": "63492"
  },
  {
   "id": 3502190011,
   "districtId": 3502190,
-  "name": "SRATEN"
+  "districtName": "JENANGAN",
+  "name": "SRATEN",
+  "postalCode": "57557"
  },
  {
   "id": 3502190012,
   "districtId": 3502190,
-  "name": "KEMIRI"
+  "districtName": "JENANGAN",
+  "name": "KEMIRI",
+  "postalCode": "41352"
  },
  {
   "id": 3502190013,
   "districtId": 3502190,
-  "name": "SEMANDING"
+  "districtName": "JENANGAN",
+  "name": "SEMANDING",
+  "postalCode": "32155"
  },
  {
   "id": 3502190014,
   "districtId": 3502190,
-  "name": "TANJUNG SARI"
+  "districtName": "JENANGAN",
+  "name": "TANJUNG SARI",
+  "postalCode": "24673"
  },
  {
   "id": 3502190015,
   "districtId": 3502190,
-  "name": "NGLAYANG"
+  "districtName": "JENANGAN",
+  "name": "NGLAYANG",
+  "postalCode": "63492"
  },
  {
   "id": 3502190016,
   "districtId": 3502190,
-  "name": "PARINGAN"
+  "districtName": "JENANGAN",
+  "name": "PARINGAN",
+  "postalCode": "63492"
  },
  {
   "id": 3502190017,
   "districtId": 3502190,
-  "name": "WATES"
+  "districtName": "JENANGAN",
+  "name": "WATES",
+  "postalCode": "32273"
  }
 ]

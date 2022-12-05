@@ -2,36 +2,50 @@
  {
   "id": 8103081001,
   "districtId": 8103081,
-  "name": "TITAWAAI"
+  "districtName": "NUSALAUT",
+  "name": "TITAWAAI",
+  "postalCode": ""
  },
  {
   "id": 8103081002,
   "districtId": 8103081,
-  "name": "ABUBU"
+  "districtName": "NUSALAUT",
+  "name": "ABUBU",
+  "postalCode": "97511"
  },
  {
   "id": 8103081003,
   "districtId": 8103081,
-  "name": "AKOON"
+  "districtName": "NUSALAUT",
+  "name": "AKOON",
+  "postalCode": "97511"
  },
  {
   "id": 8103081004,
   "districtId": 8103081,
-  "name": "AMETH"
+  "districtName": "NUSALAUT",
+  "name": "AMETH",
+  "postalCode": "97511"
  },
  {
   "id": 8103081005,
   "districtId": 8103081,
-  "name": "NALAHIA"
+  "districtName": "NUSALAUT",
+  "name": "NALAHIA",
+  "postalCode": "97511"
  },
  {
   "id": 8103081006,
   "districtId": 8103081,
-  "name": "SILA"
+  "districtName": "NUSALAUT",
+  "name": "SILA",
+  "postalCode": "97511"
  },
  {
   "id": 8103081007,
   "districtId": 8103081,
-  "name": "LEINITU"
+  "districtName": "NUSALAUT",
+  "name": "LEINITU",
+  "postalCode": "97511"
  }
 ]

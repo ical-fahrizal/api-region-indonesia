@@ -2,46 +2,64 @@
  {
   "id": 1204011001,
   "districtId": 1204011,
-  "name": "SITARDAS"
+  "districtName": "BADIRI",
+  "name": "SITARDAS",
+  "postalCode": "22654"
  },
  {
   "id": 1204011002,
   "districtId": 1204011,
-  "name": "JAGO-JAGO"
+  "districtName": "BADIRI",
+  "name": "JAGO-JAGO",
+  "postalCode": ""
  },
  {
   "id": 1204011003,
   "districtId": 1204011,
-  "name": "HUTABALANG"
+  "districtName": "BADIRI",
+  "name": "HUTABALANG",
+  "postalCode": "22654"
  },
  {
   "id": 1204011004,
   "districtId": 1204011,
-  "name": "LOPIAN"
+  "districtName": "BADIRI",
+  "name": "LOPIAN",
+  "postalCode": "22654"
  },
  {
   "id": 1204011005,
   "districtId": 1204011,
-  "name": "AEK HORSIK"
+  "districtName": "BADIRI",
+  "name": "AEK HORSIK",
+  "postalCode": "22654"
  },
  {
   "id": 1204011006,
   "districtId": 1204011,
-  "name": "KEBUN PISANG"
+  "districtName": "BADIRI",
+  "name": "KEBUN PISANG",
+  "postalCode": "22654"
  },
  {
   "id": 1204011007,
   "districtId": 1204011,
-  "name": "GUNUNG KELAMBU"
+  "districtName": "BADIRI",
+  "name": "GUNUNG KELAMBU",
+  "postalCode": "22654"
  },
  {
   "id": 1204011008,
   "districtId": 1204011,
-  "name": "LUBUK AMPOLU"
+  "districtName": "BADIRI",
+  "name": "LUBUK AMPOLU",
+  "postalCode": "22654"
  },
  {
   "id": 1204011009,
   "districtId": 1204011,
-  "name": "PAGARAN HONAS"
+  "districtName": "BADIRI",
+  "name": "PAGARAN HONAS",
+  "postalCode": "22654"
  }
 ]

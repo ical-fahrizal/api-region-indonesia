@@ -2,46 +2,64 @@
  {
   "id": 7105130001,
   "districtId": 7105130,
-  "name": "TUMPAAN"
+  "districtName": "TUMPAAN",
+  "name": "TUMPAAN",
+  "postalCode": "95682"
  },
  {
   "id": 7105130002,
   "districtId": 7105130,
-  "name": "TUMPAAN SATU"
+  "districtName": "TUMPAAN",
+  "name": "TUMPAAN SATU",
+  "postalCode": "95352"
  },
  {
   "id": 7105130003,
   "districtId": 7105130,
-  "name": "MATANI"
+  "districtName": "TUMPAAN",
+  "name": "MATANI",
+  "postalCode": "95352"
  },
  {
   "id": 7105130004,
   "districtId": 7105130,
-  "name": "POPONTOLEN"
+  "districtName": "TUMPAAN",
+  "name": "POPONTOLEN",
+  "postalCode": "95352"
  },
  {
   "id": 7105130005,
   "districtId": 7105130,
-  "name": "LELEMA"
+  "districtName": "TUMPAAN",
+  "name": "LELEMA",
+  "postalCode": "95352"
  },
  {
   "id": 7105130006,
   "districtId": 7105130,
-  "name": "TANGKUNEY"
+  "districtName": "TUMPAAN",
+  "name": "TANGKUNEY",
+  "postalCode": "95352"
  },
  {
   "id": 7105130008,
   "districtId": 7105130,
-  "name": "TUMPAAN BARU"
+  "districtName": "TUMPAAN",
+  "name": "TUMPAAN BARU",
+  "postalCode": "95352"
  },
  {
   "id": 7105130009,
   "districtId": 7105130,
-  "name": "TUMPAAN DUA"
+  "districtName": "TUMPAAN",
+  "name": "TUMPAAN DUA",
+  "postalCode": "95352"
  },
  {
   "id": 7105130010,
   "districtId": 7105130,
-  "name": "MATANI SATU"
+  "districtName": "TUMPAAN",
+  "name": "MATANI SATU",
+  "postalCode": "95445"
  }
 ]

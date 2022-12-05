@@ -2,26 +2,36 @@
  {
   "id": 3510150002,
   "districtId": 3510150,
-  "name": "TEGALARUM"
+  "districtName": "SEMPU",
+  "name": "TEGALARUM",
+  "postalCode": "56413"
  },
  {
   "id": 3510150003,
   "districtId": 3510150,
-  "name": "JAMBEWANGI"
+  "districtName": "SEMPU",
+  "name": "JAMBEWANGI",
+  "postalCode": "56193"
  },
  {
   "id": 3510150004,
   "districtId": 3510150,
-  "name": "TEMUASRI"
+  "districtName": "SEMPU",
+  "name": "TEMUASRI",
+  "postalCode": "68468"
  },
  {
   "id": 3510150005,
   "districtId": 3510150,
-  "name": "KARANGSARI"
+  "districtName": "SEMPU",
+  "name": "KARANGSARI",
+  "postalCode": "35376"
  },
  {
   "id": 3510150007,
   "districtId": 3510150,
-  "name": "GENDOH"
+  "districtName": "SEMPU",
+  "name": "GENDOH",
+  "postalCode": "68468"
  }
 ]

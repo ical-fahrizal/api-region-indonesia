@@ -2,31 +2,43 @@
  {
   "id": 1671040001,
   "districtId": 1671040,
-  "name": "BUKIT LAMA"
+  "districtName": "ILIR BARAT I",
+  "name": "BUKIT LAMA",
+  "postalCode": "30139"
  },
  {
   "id": 1671040002,
   "districtId": 1671040,
-  "name": "26 ILIR I"
+  "districtName": "ILIR BARAT I",
+  "name": "26 ILIR I",
+  "postalCode": ""
  },
  {
   "id": 1671040009,
   "districtId": 1671040,
-  "name": "LOROK PAKJO"
+  "districtName": "ILIR BARAT I",
+  "name": "LOROK PAKJO",
+  "postalCode": "30137"
  },
  {
   "id": 1671040010,
   "districtId": 1671040,
-  "name": "DEMANG LEBAR DAUN"
+  "districtName": "ILIR BARAT I",
+  "name": "DEMANG LEBAR DAUN",
+  "postalCode": "30131"
  },
  {
   "id": 1671040011,
   "districtId": 1671040,
-  "name": "BUKIT BARU"
+  "districtName": "ILIR BARAT I",
+  "name": "BUKIT BARU",
+  "postalCode": "30131"
  },
  {
   "id": 1671040012,
   "districtId": 1671040,
-  "name": "SIRING AGUNG"
+  "districtName": "ILIR BARAT I",
+  "name": "SIRING AGUNG",
+  "postalCode": "30138"
  }
 ]

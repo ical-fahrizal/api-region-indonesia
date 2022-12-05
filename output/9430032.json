@@ -2,41 +2,57 @@
  {
   "id": 9430032001,
   "districtId": 9430032,
-  "name": "MOKONI"
+  "districtName": "MOKONI",
+  "name": "MOKONI",
+  "postalCode": "99563"
  },
  {
   "id": 9430032002,
   "districtId": 9430032,
-  "name": "GUNINGGAME"
+  "districtName": "MOKONI",
+  "name": "GUNINGGAME",
+  "postalCode": "99563"
  },
  {
   "id": 9430032003,
   "districtId": 9430032,
-  "name": "NAME"
+  "districtName": "MOKONI",
+  "name": "NAME",
+  "postalCode": "99563"
  },
  {
   "id": 9430032004,
   "districtId": 9430032,
-  "name": "BIGIPURA"
+  "districtName": "MOKONI",
+  "name": "BIGIPURA",
+  "postalCode": ""
  },
  {
   "id": 9430032005,
   "districtId": 9430032,
-  "name": "WAKUMALO"
+  "districtName": "MOKONI",
+  "name": "WAKUMALO",
+  "postalCode": ""
  },
  {
   "id": 9430032006,
   "districtId": 9430032,
-  "name": "YANGGELOME"
+  "districtName": "MOKONI",
+  "name": "YANGGELOME",
+  "postalCode": ""
  },
  {
   "id": 9430032007,
   "districtId": 9430032,
-  "name": "BUMALOME"
+  "districtName": "MOKONI",
+  "name": "BUMALOME",
+  "postalCode": ""
  },
  {
   "id": 9430032008,
   "districtId": 9430032,
-  "name": "POPOME"
+  "districtName": "MOKONI",
+  "name": "POPOME",
+  "postalCode": "99563"
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 9430090004,
   "districtId": 9430090,
-  "name": "PIRAWUN"
+  "districtName": "GAMELIA",
+  "name": "PIRAWUN",
+  "postalCode": "99556"
  },
  {
   "id": 9430090005,
   "districtId": 9430090,
-  "name": "GAMELIA"
+  "districtName": "GAMELIA",
+  "name": "GAMELIA",
+  "postalCode": "99556"
  },
  {
   "id": 9430090007,
   "districtId": 9430090,
-  "name": "GAWIWARAK"
+  "districtName": "GAMELIA",
+  "name": "GAWIWARAK",
+  "postalCode": ""
  },
  {
   "id": 9430090008,
   "districtId": 9430090,
-  "name": "MEYAGALE"
+  "districtName": "GAMELIA",
+  "name": "MEYAGALE",
+  "postalCode": ""
  },
  {
   "id": 9430090009,
   "districtId": 9430090,
-  "name": "WULAIPAS"
+  "districtName": "GAMELIA",
+  "name": "WULAIPAS",
+  "postalCode": ""
  },
  {
   "id": 9430090010,
   "districtId": 9430090,
-  "name": "GUNAGEWAK"
+  "districtName": "GAMELIA",
+  "name": "GUNAGEWAK",
+  "postalCode": ""
  }
 ]

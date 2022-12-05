@@ -2,41 +2,57 @@
  {
   "id": 9430012001,
   "districtId": 9430012,
-  "name": "KELOYAK"
+  "districtName": "KOLAWA",
+  "name": "KELOYAK",
+  "postalCode": ""
  },
  {
   "id": 9430012002,
   "districtId": 9430012,
-  "name": "WANUGA"
+  "districtName": "KOLAWA",
+  "name": "WANUGA",
+  "postalCode": "99555"
  },
  {
   "id": 9430012003,
   "districtId": 9430012,
-  "name": "LABORA"
+  "districtName": "KOLAWA",
+  "name": "LABORA",
+  "postalCode": "99555"
  },
  {
   "id": 9430012004,
   "districtId": 9430012,
-  "name": "KONDENA"
+  "districtName": "KOLAWA",
+  "name": "KONDENA",
+  "postalCode": "99555"
  },
  {
   "id": 9430012005,
   "districtId": 9430012,
-  "name": "KOLUNGGU"
+  "districtName": "KOLAWA",
+  "name": "KOLUNGGU",
+  "postalCode": ""
  },
  {
   "id": 9430012006,
   "districtId": 9430012,
-  "name": "YAGARIKME"
+  "districtName": "KOLAWA",
+  "name": "YAGARIKME",
+  "postalCode": ""
  },
  {
   "id": 9430012007,
   "districtId": 9430012,
-  "name": "AMBENA"
+  "districtName": "KOLAWA",
+  "name": "AMBENA",
+  "postalCode": "99561"
  },
  {
   "id": 9430012008,
   "districtId": 9430012,
-  "name": "TIMOTIUS"
+  "districtName": "KOLAWA",
+  "name": "TIMOTIUS",
+  "postalCode": ""
  }
 ]

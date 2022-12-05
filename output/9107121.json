@@ -2,36 +2,50 @@
  {
   "id": 9107121001,
   "districtId": 9107121,
-  "name": "MAKOTYAMSA"
+  "districtName": "MAYAMUK",
+  "name": "MAKOTYAMSA",
+  "postalCode": "98451"
  },
  {
   "id": 9107121002,
   "districtId": 9107121,
-  "name": "MAKBALIM"
+  "districtName": "MAYAMUK",
+  "name": "MAKBALIM",
+  "postalCode": "98451"
  },
  {
   "id": 9107121003,
   "districtId": 9107121,
-  "name": "YEFLIO"
+  "districtName": "MAYAMUK",
+  "name": "YEFLIO",
+  "postalCode": ""
  },
  {
   "id": 9107121004,
   "districtId": 9107121,
-  "name": "MAKBUSUN"
+  "districtName": "MAYAMUK",
+  "name": "MAKBUSUN",
+  "postalCode": ""
  },
  {
   "id": 9107121005,
   "districtId": 9107121,
-  "name": "ARAR"
+  "districtName": "MAYAMUK",
+  "name": "ARAR",
+  "postalCode": "98451"
  },
  {
   "id": 9107121006,
   "districtId": 9107121,
-  "name": "KLAIN"
+  "districtName": "MAYAMUK",
+  "name": "KLAIN",
+  "postalCode": ""
  },
  {
   "id": 9107121007,
   "districtId": 9107121,
-  "name": "KLASMELEK"
+  "districtName": "MAYAMUK",
+  "name": "KLASMELEK",
+  "postalCode": "98451"
  }
 ]

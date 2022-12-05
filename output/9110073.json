@@ -2,16 +2,22 @@
  {
   "id": 9110073001,
   "districtId": 9110073,
-  "name": "FIANE"
+  "districtName": "AYAMARU TENGAH",
+  "name": "FIANE",
+  "postalCode": "98461"
  },
  {
   "id": 9110073002,
   "districtId": 9110073,
-  "name": "KARTAPURA"
+  "districtName": "AYAMARU TENGAH",
+  "name": "KARTAPURA",
+  "postalCode": "98461"
  },
  {
   "id": 9110073004,
   "districtId": 9110073,
-  "name": "ISME"
+  "districtName": "AYAMARU TENGAH",
+  "name": "ISME",
+  "postalCode": "98461"
  }
 ]

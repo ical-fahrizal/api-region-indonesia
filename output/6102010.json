@@ -2,26 +2,36 @@
  {
   "id": 6102010001,
   "districtId": 6102010,
-  "name": "SUNGAI DURI"
+  "districtName": "SUNGAI RAYA",
+  "name": "SUNGAI DURI",
+  "postalCode": ""
  },
  {
   "id": 6102010002,
   "districtId": 6102010,
-  "name": "SUNGAI JAGA A"
+  "districtName": "SUNGAI RAYA",
+  "name": "SUNGAI JAGA A",
+  "postalCode": ""
  },
  {
   "id": 6102010003,
   "districtId": 6102010,
-  "name": "SUNGAI JAGA B"
+  "districtName": "SUNGAI RAYA",
+  "name": "SUNGAI JAGA B",
+  "postalCode": ""
  },
  {
   "id": 6102010006,
   "districtId": 6102010,
-  "name": "SUNGAI PANGKALAN I"
+  "districtName": "SUNGAI RAYA",
+  "name": "SUNGAI PANGKALAN I",
+  "postalCode": ""
  },
  {
   "id": 6102010007,
   "districtId": 6102010,
-  "name": "SUNGAI PANGKALAN II"
+  "districtName": "SUNGAI RAYA",
+  "name": "SUNGAI PANGKALAN II",
+  "postalCode": ""
  }
 ]

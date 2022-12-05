@@ -2,91 +2,127 @@
  {
   "id": 3205140001,
   "districtId": 3205140,
-  "name": "SUKAMURNI"
+  "districtName": "CILAWU",
+  "name": "SUKAMURNI",
+  "postalCode": "44181"
  },
  {
   "id": 3205140002,
   "districtId": 3205140,
-  "name": "SUKAMAJU"
+  "districtName": "CILAWU",
+  "name": "SUKAMAJU",
+  "postalCode": "22465"
  },
  {
   "id": 3205140003,
   "districtId": 3205140,
-  "name": "SUKATANI"
+  "districtName": "CILAWU",
+  "name": "SUKATANI",
+  "postalCode": "41384"
  },
  {
   "id": 3205140004,
   "districtId": 3205140,
-  "name": "MEKARSARI"
+  "districtName": "CILAWU",
+  "name": "MEKARSARI",
+  "postalCode": "37482"
  },
  {
   "id": 3205140005,
   "districtId": 3205140,
-  "name": "DAYEUHMANGGUNG"
+  "districtName": "CILAWU",
+  "name": "DAYEUHMANGGUNG",
+  "postalCode": "44181"
  },
  {
   "id": 3205140006,
   "districtId": 3205140,
-  "name": "KARYAMEKAR"
+  "districtName": "CILAWU",
+  "name": "KARYAMEKAR",
+  "postalCode": "41181"
  },
  {
   "id": 3205140007,
   "districtId": 3205140,
-  "name": "CILAWU"
+  "districtName": "CILAWU",
+  "name": "CILAWU",
+  "postalCode": "44181"
  },
  {
   "id": 3205140008,
   "districtId": 3205140,
-  "name": "PASANGGRAHAN"
+  "districtName": "CILAWU",
+  "name": "PASANGGRAHAN",
+  "postalCode": "41164"
  },
  {
   "id": 3205140009,
   "districtId": 3205140,
-  "name": "MARGALAKSANA"
+  "districtName": "CILAWU",
+  "name": "MARGALAKSANA",
+  "postalCode": "44165"
  },
  {
   "id": 3205140010,
   "districtId": 3205140,
-  "name": "DAWUNGSARI"
+  "districtName": "CILAWU",
+  "name": "DAWUNGSARI",
+  "postalCode": "44181"
  },
  {
   "id": 3205140011,
   "districtId": 3205140,
-  "name": "DANGIANG"
+  "districtName": "CILAWU",
+  "name": "DANGIANG",
+  "postalCode": "44172"
  },
  {
   "id": 3205140012,
   "districtId": 3205140,
-  "name": "SUKAMUKTI"
+  "districtName": "CILAWU",
+  "name": "SUKAMUKTI",
+  "postalCode": "44191"
  },
  {
   "id": 3205140013,
   "districtId": 3205140,
-  "name": "MEKARMUKTI"
+  "districtName": "CILAWU",
+  "name": "MEKARMUKTI",
+  "postalCode": "45392"
  },
  {
   "id": 3205140014,
   "districtId": 3205140,
-  "name": "SUKAHATI"
+  "districtName": "CILAWU",
+  "name": "SUKAHATI",
+  "postalCode": "16913"
  },
  {
   "id": 3205140015,
   "districtId": 3205140,
-  "name": "MANGKURAYAT"
+  "districtName": "CILAWU",
+  "name": "MANGKURAYAT",
+  "postalCode": "44181"
  },
  {
   "id": 3205140016,
   "districtId": 3205140,
-  "name": "DESAKOLOT"
+  "districtName": "CILAWU",
+  "name": "DESAKOLOT",
+  "postalCode": "44181"
  },
  {
   "id": 3205140017,
   "districtId": 3205140,
-  "name": "NGAMPLANG"
+  "districtName": "CILAWU",
+  "name": "NGAMPLANG",
+  "postalCode": "44181"
  },
  {
   "id": 3205140018,
   "districtId": 3205140,
-  "name": "NGAMPLANGSARI"
+  "districtName": "CILAWU",
+  "name": "NGAMPLANGSARI",
+  "postalCode": "44181"
  }
 ]

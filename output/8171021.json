@@ -2,41 +2,57 @@
  {
   "id": 8171021001,
   "districtId": 8171021,
-  "name": "NAKU"
+  "districtName": "LEITIMUR SELATAN",
+  "name": "NAKU",
+  "postalCode": "85682"
  },
  {
   "id": 8171021002,
   "districtId": 8171021,
-  "name": "KILANG"
+  "districtName": "LEITIMUR SELATAN",
+  "name": "KILANG",
+  "postalCode": "83663"
  },
  {
   "id": 8171021003,
   "districtId": 8171021,
-  "name": "HUKURILA"
+  "districtName": "LEITIMUR SELATAN",
+  "name": "HUKURILA",
+  "postalCode": "97129"
  },
  {
   "id": 8171021004,
   "districtId": 8171021,
-  "name": "EMA"
+  "districtName": "LEITIMUR SELATAN",
+  "name": "EMA",
+  "postalCode": "97129"
  },
  {
   "id": 8171021005,
   "districtId": 8171021,
-  "name": "HATALAE"
+  "districtName": "LEITIMUR SELATAN",
+  "name": "HATALAE",
+  "postalCode": ""
  },
  {
   "id": 8171021006,
   "districtId": 8171021,
-  "name": "HUTUMURI"
+  "districtName": "LEITIMUR SELATAN",
+  "name": "HUTUMURI",
+  "postalCode": "97237"
  },
  {
   "id": 8171021007,
   "districtId": 8171021,
-  "name": "RUTONG"
+  "districtName": "LEITIMUR SELATAN",
+  "name": "RUTONG",
+  "postalCode": "97237"
  },
  {
   "id": 8171021008,
   "districtId": 8171021,
-  "name": "LEAHARI"
+  "districtName": "LEITIMUR SELATAN",
+  "name": "LEAHARI",
+  "postalCode": "97237"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 1905010006,
   "districtId": 1905010,
-  "name": "IRAT"
+  "districtName": "PAYUNG",
+  "name": "IRAT",
+  "postalCode": "33778"
  },
  {
   "id": 1905010007,
   "districtId": 1905010,
-  "name": "SENGIR"
+  "districtName": "PAYUNG",
+  "name": "SENGIR",
+  "postalCode": "33778"
  },
  {
   "id": 1905010008,
   "districtId": 1905010,
-  "name": "PAYUNG"
+  "districtName": "PAYUNG",
+  "name": "PAYUNG",
+  "postalCode": "24582"
  },
  {
   "id": 1905010009,
   "districtId": 1905010,
-  "name": "NADUNG"
+  "districtName": "PAYUNG",
+  "name": "NADUNG",
+  "postalCode": "33778"
  },
  {
   "id": 1905010010,
   "districtId": 1905010,
-  "name": "RANGGUNG"
+  "districtName": "PAYUNG",
+  "name": "RANGGUNG",
+  "postalCode": "33778"
  },
  {
   "id": 1905010017,
   "districtId": 1905010,
-  "name": "PANGKALBULUH"
+  "districtName": "PAYUNG",
+  "name": "PANGKALBULUH",
+  "postalCode": "33778"
  },
  {
   "id": 1905010018,
   "districtId": 1905010,
-  "name": "MALIK"
+  "districtName": "PAYUNG",
+  "name": "MALIK",
+  "postalCode": "33778"
  },
  {
   "id": 1905010020,
   "districtId": 1905010,
-  "name": "PAKU"
+  "districtName": "PAYUNG",
+  "name": "PAKU",
+  "postalCode": "24165"
  }
 ]

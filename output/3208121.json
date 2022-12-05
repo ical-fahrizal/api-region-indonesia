@@ -2,61 +2,85 @@
  {
   "id": 3208121001,
   "districtId": 3208121,
-  "name": "KERTAUNGARAN"
+  "districtName": "SINDANGAGUNG",
+  "name": "KERTAUNGARAN",
+  "postalCode": "45573"
  },
  {
   "id": 3208121002,
   "districtId": 3208121,
-  "name": "KADUAGUNG"
+  "districtName": "SINDANGAGUNG",
+  "name": "KADUAGUNG",
+  "postalCode": "45584"
  },
  {
   "id": 3208121003,
   "districtId": 3208121,
-  "name": "SINDANGSARI"
+  "districtName": "SINDANGAGUNG",
+  "name": "SINDANGSARI",
+  "postalCode": "46383"
  },
  {
   "id": 3208121004,
   "districtId": 3208121,
-  "name": "KERTAWANGUNAN"
+  "districtName": "SINDANGAGUNG",
+  "name": "KERTAWANGUNAN",
+  "postalCode": "45573"
  },
  {
   "id": 3208121005,
   "districtId": 3208121,
-  "name": "SINDANGAGUNG"
+  "districtName": "SINDANGAGUNG",
+  "name": "SINDANGAGUNG",
+  "postalCode": "45573"
  },
  {
   "id": 3208121006,
   "districtId": 3208121,
-  "name": "BALONG"
+  "districtName": "SINDANGAGUNG",
+  "name": "BALONG",
+  "postalCode": "45573"
  },
  {
   "id": 3208121007,
   "districtId": 3208121,
-  "name": "MEKARMUKTI"
+  "districtName": "SINDANGAGUNG",
+  "name": "MEKARMUKTI",
+  "postalCode": "45392"
  },
  {
   "id": 3208121008,
   "districtId": 3208121,
-  "name": "KERTAYASA"
+  "districtName": "SINDANGAGUNG",
+  "name": "KERTAYASA",
+  "postalCode": "46394"
  },
  {
   "id": 3208121009,
   "districtId": 3208121,
-  "name": "TIRTAWANGUNAN"
+  "districtName": "SINDANGAGUNG",
+  "name": "TIRTAWANGUNAN",
+  "postalCode": "45573"
  },
  {
   "id": 3208121010,
   "districtId": 3208121,
-  "name": "BABAKANREUMA"
+  "districtName": "SINDANGAGUNG",
+  "name": "BABAKANREUMA",
+  "postalCode": "45573"
  },
  {
   "id": 3208121011,
   "districtId": 3208121,
-  "name": "DUKUHLOR"
+  "districtName": "SINDANGAGUNG",
+  "name": "DUKUHLOR",
+  "postalCode": "45573"
  },
  {
   "id": 3208121012,
   "districtId": 3208121,
-  "name": "TARAJU"
+  "districtName": "SINDANGAGUNG",
+  "name": "TARAJU",
+  "postalCode": "45573"
  }
 ]

@@ -2,61 +2,85 @@
  {
   "id": 6504080001,
   "districtId": 6504080,
-  "name": "BELATIKAN"
+  "districtName": "TULIN ONSOI",
+  "name": "BELATIKAN",
+  "postalCode": ""
  },
  {
   "id": 6504080002,
   "districtId": 6504080,
-  "name": "NAPUTI"
+  "districtName": "TULIN ONSOI",
+  "name": "NAPUTI",
+  "postalCode": "77482"
  },
  {
   "id": 6504080003,
   "districtId": 6504080,
-  "name": "TAU BARU"
+  "districtName": "TULIN ONSOI",
+  "name": "TAU BARU",
+  "postalCode": "77482"
  },
  {
   "id": 6504080004,
   "districtId": 6504080,
-  "name": "TINAMPAK II"
+  "districtName": "TULIN ONSOI",
+  "name": "TINAMPAK II",
+  "postalCode": "77482"
  },
  {
   "id": 6504080005,
   "districtId": 6504080,
-  "name": "TINAMPAK I"
+  "districtName": "TULIN ONSOI",
+  "name": "TINAMPAK I",
+  "postalCode": "77482"
  },
  {
   "id": 6504080006,
   "districtId": 6504080,
-  "name": "SALANG"
+  "districtName": "TULIN ONSOI",
+  "name": "SALANG",
+  "postalCode": "77482"
  },
  {
   "id": 6504080007,
   "districtId": 6504080,
-  "name": "TEMBALANG"
+  "districtName": "TULIN ONSOI",
+  "name": "TEMBALANG",
+  "postalCode": "50275"
  },
  {
   "id": 6504080008,
   "districtId": 6504080,
-  "name": "KALUN SAYAN"
+  "districtName": "TULIN ONSOI",
+  "name": "KALUN SAYAN",
+  "postalCode": ""
  },
  {
   "id": 6504080009,
   "districtId": 6504080,
-  "name": "SEKIKILAN"
+  "districtName": "TULIN ONSOI",
+  "name": "SEKIKILAN",
+  "postalCode": "77482"
  },
  {
   "id": 6504080010,
   "districtId": 6504080,
-  "name": "SEMUNAD"
+  "districtName": "TULIN ONSOI",
+  "name": "SEMUNAD",
+  "postalCode": "77482"
  },
  {
   "id": 6504080011,
   "districtId": 6504080,
-  "name": "SANUR"
+  "districtName": "TULIN ONSOI",
+  "name": "SANUR",
+  "postalCode": "80228"
  },
  {
   "id": 6504080012,
   "districtId": 6504080,
-  "name": "MAKMUR"
+  "districtName": "TULIN ONSOI",
+  "name": "MAKMUR",
+  "postalCode": "24562"
  }
 ]

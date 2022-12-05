@@ -2,51 +2,71 @@
  {
   "id": 7325040001,
   "districtId": 7325040,
-  "name": "MALIWOWO"
+  "districtName": "ANGKONA",
+  "name": "MALIWOWO",
+  "postalCode": "92985"
  },
  {
   "id": 7325040002,
   "districtId": 7325040,
-  "name": "TAMPINNA"
+  "districtName": "ANGKONA",
+  "name": "TAMPINNA",
+  "postalCode": "92985"
  },
  {
   "id": 7325040003,
   "districtId": 7325040,
-  "name": "LAMAETO"
+  "districtName": "ANGKONA",
+  "name": "LAMAETO",
+  "postalCode": "92985"
  },
  {
   "id": 7325040004,
   "districtId": 7325040,
-  "name": "SOLO"
+  "districtName": "ANGKONA",
+  "name": "SOLO",
+  "postalCode": "86462"
  },
  {
   "id": 7325040005,
   "districtId": 7325040,
-  "name": "TAWAKUA"
+  "districtName": "ANGKONA",
+  "name": "TAWAKUA",
+  "postalCode": "92985"
  },
  {
   "id": 7325040006,
   "districtId": 7325040,
-  "name": "BALIREJO"
+  "districtName": "ANGKONA",
+  "name": "BALIREJO",
+  "postalCode": "92985"
  },
  {
   "id": 7325040007,
   "districtId": 7325040,
-  "name": "MANTADULU"
+  "districtName": "ANGKONA",
+  "name": "MANTADULU",
+  "postalCode": "92985"
  },
  {
   "id": 7325040008,
   "districtId": 7325040,
-  "name": "TARIPA"
+  "districtName": "ANGKONA",
+  "name": "TARIPA",
+  "postalCode": "94664"
  },
  {
   "id": 7325040009,
   "districtId": 7325040,
-  "name": "WATANGPANUA"
+  "districtName": "ANGKONA",
+  "name": "WATANGPANUA",
+  "postalCode": "92985"
  },
  {
   "id": 7325040010,
   "districtId": 7325040,
-  "name": "WANASARI"
+  "districtName": "ANGKONA",
+  "name": "WANASARI",
+  "postalCode": "43273"
  }
 ]

@@ -2,56 +2,78 @@
  {
   "id": 1111041001,
   "districtId": 1111041,
-  "name": "SUKA DAMAI"
+  "districtName": "GEUREUDONG PASE",
+  "name": "SUKA DAMAI",
+  "postalCode": "24472"
  },
  {
   "id": 1111041002,
   "districtId": 1111041,
-  "name": "PULO MEURIA"
+  "districtName": "GEUREUDONG PASE",
+  "name": "PULO MEURIA",
+  "postalCode": "24373"
  },
  {
   "id": 1111041003,
   "districtId": 1111041,
-  "name": "KRUENG MBANG"
+  "districtName": "GEUREUDONG PASE",
+  "name": "KRUENG MBANG",
+  "postalCode": "24373"
  },
  {
   "id": 1111041004,
   "districtId": 1111041,
-  "name": "DAYAH SEUPENG"
+  "districtName": "GEUREUDONG PASE",
+  "name": "DAYAH SEUPENG",
+  "postalCode": "24373"
  },
  {
   "id": 1111041005,
   "districtId": 1111041,
-  "name": "URAM JALAN"
+  "districtName": "GEUREUDONG PASE",
+  "name": "URAM JALAN",
+  "postalCode": "24458"
  },
  {
   "id": 1111041006,
   "districtId": 1111041,
-  "name": "PEUDARI"
+  "districtName": "GEUREUDONG PASE",
+  "name": "PEUDARI",
+  "postalCode": "24373"
  },
  {
   "id": 1111041007,
   "districtId": 1111041,
-  "name": "RAYEUK JAWA"
+  "districtName": "GEUREUDONG PASE",
+  "name": "RAYEUK JAWA",
+  "postalCode": "24373"
  },
  {
   "id": 1111041008,
   "districtId": 1111041,
-  "name": "DARUSSALAM"
+  "districtName": "GEUREUDONG PASE",
+  "name": "DARUSSALAM",
+  "postalCode": "24671"
  },
  {
   "id": 1111041009,
   "districtId": 1111041,
-  "name": "ALUE AWE"
+  "districtName": "GEUREUDONG PASE",
+  "name": "ALUE AWE",
+  "postalCode": "24373"
  },
  {
   "id": 1111041010,
   "districtId": 1111041,
-  "name": "LHOK ASAN"
+  "districtName": "GEUREUDONG PASE",
+  "name": "LHOK ASAN",
+  "postalCode": "24373"
  },
  {
   "id": 1111041011,
   "districtId": 1111041,
-  "name": "DARUL AMAN"
+  "districtName": "GEUREUDONG PASE",
+  "name": "DARUL AMAN",
+  "postalCode": "24373"
  }
 ]

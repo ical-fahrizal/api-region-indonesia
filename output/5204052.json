@@ -2,31 +2,43 @@
  {
   "id": 5204052001,
   "districtId": 5204052,
-  "name": "PULAU KAUNG"
+  "districtName": "BUER",
+  "name": "PULAU KAUNG",
+  "postalCode": "84353"
  },
  {
   "id": 5204052002,
   "districtId": 5204052,
-  "name": "TARUSA"
+  "districtName": "BUER",
+  "name": "TARUSA",
+  "postalCode": "84353"
  },
  {
   "id": 5204052003,
   "districtId": 5204052,
-  "name": "JURU MAPIN"
+  "districtName": "BUER",
+  "name": "JURU MAPIN",
+  "postalCode": "84353"
  },
  {
   "id": 5204052004,
   "districtId": 5204052,
-  "name": "KALABESO"
+  "districtName": "BUER",
+  "name": "KALABESO",
+  "postalCode": "84353"
  },
  {
   "id": 5204052005,
   "districtId": 5204052,
-  "name": "LABUHAN BURUNG"
+  "districtName": "BUER",
+  "name": "LABUHAN BURUNG",
+  "postalCode": "84353"
  },
  {
   "id": 5204052006,
   "districtId": 5204052,
-  "name": "BUIN BARU"
+  "districtName": "BUER",
+  "name": "BUIN BARU",
+  "postalCode": "84353"
  }
 ]

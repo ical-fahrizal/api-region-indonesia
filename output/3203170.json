@@ -2,46 +2,64 @@
  {
   "id": 3203170004,
   "districtId": 3203170,
-  "name": "KARANGWANGI"
+  "districtName": "CIRANJANG",
+  "name": "KARANGWANGI",
+  "postalCode": "41253"
  },
  {
   "id": 3203170005,
   "districtId": 3203170,
-  "name": "GUNUNGSARI"
+  "districtName": "CIRANJANG",
+  "name": "GUNUNGSARI",
+  "postalCode": "35368"
  },
  {
   "id": 3203170006,
   "districtId": 3203170,
-  "name": "KERTAJAYA"
+  "districtName": "CIRANJANG",
+  "name": "KERTAJAYA",
+  "postalCode": "45255"
  },
  {
   "id": 3203170007,
   "districtId": 3203170,
-  "name": "SINDANGJAYA"
+  "districtName": "CIRANJANG",
+  "name": "SINDANGJAYA",
+  "postalCode": "46195"
  },
  {
   "id": 3203170008,
   "districtId": 3203170,
-  "name": "SINDANGSARI"
+  "districtName": "CIRANJANG",
+  "name": "SINDANGSARI",
+  "postalCode": "46383"
  },
  {
   "id": 3203170009,
   "districtId": 3203170,
-  "name": "CIBIUK"
+  "districtName": "CIRANJANG",
+  "name": "CIBIUK",
+  "postalCode": "43282"
  },
  {
   "id": 3203170010,
   "districtId": 3203170,
-  "name": "MEKARGALIH"
+  "districtName": "CIRANJANG",
+  "name": "MEKARGALIH",
+  "postalCode": "43291"
  },
  {
   "id": 3203170011,
   "districtId": 3203170,
-  "name": "CIRANJANG"
+  "districtName": "CIRANJANG",
+  "name": "CIRANJANG",
+  "postalCode": "43282"
  },
  {
   "id": 3203170012,
   "districtId": 3203170,
-  "name": "NANGGALAMEKAR"
+  "districtName": "CIRANJANG",
+  "name": "NANGGALAMEKAR",
+  "postalCode": "43282"
  }
 ]

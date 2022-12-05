@@ -2,51 +2,71 @@
  {
   "id": 1611071001,
   "districtId": 1611071,
-  "name": "LUBUK KELUMPANG"
+  "districtName": "SALING",
+  "name": "LUBUK KELUMPANG",
+  "postalCode": "31453"
  },
  {
   "id": 1611071002,
   "districtId": 1611071,
-  "name": "SAWAH"
+  "districtName": "SALING",
+  "name": "SAWAH",
+  "postalCode": "28461"
  },
  {
   "id": 1611071003,
   "districtId": 1611071,
-  "name": "TANJUNG NING SIMPANG"
+  "districtName": "SALING",
+  "name": "TANJUNG NING SIMPANG",
+  "postalCode": "31453"
  },
  {
   "id": 1611071004,
   "districtId": 1611071,
-  "name": "TANJUNG NING JAYA"
+  "districtName": "SALING",
+  "name": "TANJUNG NING JAYA",
+  "postalCode": "31453"
  },
  {
   "id": 1611071005,
   "districtId": 1611071,
-  "name": "TANJUNG NING LAMA"
+  "districtName": "SALING",
+  "name": "TANJUNG NING LAMA",
+  "postalCode": "31453"
  },
  {
   "id": 1611071006,
   "districtId": 1611071,
-  "name": "TANJUNG NING TENGAH"
+  "districtName": "SALING",
+  "name": "TANJUNG NING TENGAH",
+  "postalCode": "31453"
  },
  {
   "id": 1611071007,
   "districtId": 1611071,
-  "name": "KEBON"
+  "districtName": "SALING",
+  "name": "KEBON",
+  "postalCode": "31453"
  },
  {
   "id": 1611071008,
   "districtId": 1611071,
-  "name": "SUKA KAYA"
+  "districtName": "SALING",
+  "name": "SUKA KAYA",
+  "postalCode": "31453"
  },
  {
   "id": 1611071009,
   "districtId": 1611071,
-  "name": "TABA"
+  "districtName": "SALING",
+  "name": "TABA",
+  "postalCode": "31453"
  },
  {
   "id": 1611071010,
   "districtId": 1611071,
-  "name": "MUARA SALING"
+  "districtName": "SALING",
+  "name": "MUARA SALING",
+  "postalCode": "31453"
  }
 ]

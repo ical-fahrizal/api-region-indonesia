@@ -2,56 +2,78 @@
  {
   "id": 6411020001,
   "districtId": 6411020,
-  "name": "LUTAN"
+  "districtName": "LONG HUBUNG",
+  "name": "LUTAN",
+  "postalCode": "75779"
  },
  {
   "id": 6411020002,
   "districtId": 6411020,
-  "name": "MEMAHAK TEBOQ"
+  "districtName": "LONG HUBUNG",
+  "name": "MEMAHAK TEBOQ",
+  "postalCode": "75779"
  },
  {
   "id": 6411020003,
   "districtId": 6411020,
-  "name": "SIRAU"
+  "districtName": "LONG HUBUNG",
+  "name": "SIRAU",
+  "postalCode": "53355"
  },
  {
   "id": 6411020004,
   "districtId": 6411020,
-  "name": "MATA LIBAQ"
+  "districtName": "LONG HUBUNG",
+  "name": "MATA LIBAQ",
+  "postalCode": "75779"
  },
  {
   "id": 6411020005,
   "districtId": 6411020,
-  "name": "DATAH BILANG ILIR"
+  "districtName": "LONG HUBUNG",
+  "name": "DATAH BILANG ILIR",
+  "postalCode": "75779"
  },
  {
   "id": 6411020006,
   "districtId": 6411020,
-  "name": "DATAH BILANG ULU"
+  "districtName": "LONG HUBUNG",
+  "name": "DATAH BILANG ULU",
+  "postalCode": "75779"
  },
  {
   "id": 6411020007,
   "districtId": 6411020,
-  "name": "DATAH BILANG BARU"
+  "districtName": "LONG HUBUNG",
+  "name": "DATAH BILANG BARU",
+  "postalCode": "75779"
  },
  {
   "id": 6411020008,
   "districtId": 6411020,
-  "name": "LONG HUBUNG"
+  "districtName": "LONG HUBUNG",
+  "name": "LONG HUBUNG",
+  "postalCode": "75779"
  },
  {
   "id": 6411020009,
   "districtId": 6411020,
-  "name": "WANA PARIQ"
+  "districtName": "LONG HUBUNG",
+  "name": "WANA PARIQ",
+  "postalCode": "75779"
  },
  {
   "id": 6411020010,
   "districtId": 6411020,
-  "name": "TRI PARIQ MAKMUR"
+  "districtName": "LONG HUBUNG",
+  "name": "TRI PARIQ MAKMUR",
+  "postalCode": ""
  },
  {
   "id": 6411020011,
   "districtId": 6411020,
-  "name": "LONG HUBUNG ULU"
+  "districtName": "LONG HUBUNG",
+  "name": "LONG HUBUNG ULU",
+  "postalCode": ""
  }
 ]

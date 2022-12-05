@@ -2,26 +2,36 @@
  {
   "id": 1311021001,
   "districtId": 1311021,
-  "name": "PADUKUAN"
+  "districtName": "KOTO SALAK",
+  "name": "PADUKUAN",
+  "postalCode": "27681"
  },
  {
   "id": 1311021002,
   "districtId": 1311021,
-  "name": "PULAU MAINAN"
+  "districtName": "KOTO SALAK",
+  "name": "PULAU MAINAN",
+  "postalCode": "27681"
  },
  {
   "id": 1311021003,
   "districtId": 1311021,
-  "name": "SIMALIDU"
+  "districtName": "KOTO SALAK",
+  "name": "SIMALIDU",
+  "postalCode": "27681"
  },
  {
   "id": 1311021004,
   "districtId": 1311021,
-  "name": "KOTO SALAK"
+  "districtName": "KOTO SALAK",
+  "name": "KOTO SALAK",
+  "postalCode": "27681"
  },
  {
   "id": 1311021005,
   "districtId": 1311021,
-  "name": "AMPALU"
+  "districtName": "KOTO SALAK",
+  "name": "AMPALU",
+  "postalCode": "27681"
  }
 ]

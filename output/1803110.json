@@ -2,146 +2,204 @@
  {
   "id": 1803110016,
   "districtId": 1803110,
-  "name": "JONDONG"
+  "districtName": "KALIANDA",
+  "name": "JONDONG",
+  "postalCode": "35551"
  },
  {
   "id": 1803110017,
   "districtId": 1803110,
-  "name": "TENGKUJUH"
+  "districtName": "KALIANDA",
+  "name": "TENGKUJUH",
+  "postalCode": "35551"
  },
  {
   "id": 1803110018,
   "districtId": 1803110,
-  "name": "PAUH TANJUNG IMAN"
+  "districtName": "KALIANDA",
+  "name": "PAUH TANJUNG IMAN",
+  "postalCode": "35551"
  },
  {
   "id": 1803110019,
   "districtId": 1803110,
-  "name": "MAJA"
+  "districtName": "KALIANDA",
+  "name": "MAJA",
+  "postalCode": "35551"
  },
  {
   "id": 1803110020,
   "districtId": 1803110,
-  "name": "BUMI AGUNG"
+  "districtName": "KALIANDA",
+  "name": "BUMI AGUNG",
+  "postalCode": "31521"
  },
  {
   "id": 1803110021,
   "districtId": 1803110,
-  "name": "KALIANDA"
+  "districtName": "KALIANDA",
+  "name": "KALIANDA",
+  "postalCode": "35551"
  },
  {
   "id": 1803110022,
   "districtId": 1803110,
-  "name": "SUMUR KUMBANG"
+  "districtName": "KALIANDA",
+  "name": "SUMUR KUMBANG",
+  "postalCode": ""
  },
  {
   "id": 1803110023,
   "districtId": 1803110,
-  "name": "BUAH BERAK"
+  "districtName": "KALIANDA",
+  "name": "BUAH BERAK",
+  "postalCode": "35551"
  },
  {
   "id": 1803110024,
   "districtId": 1803110,
-  "name": "KESUGIHAN"
+  "districtName": "KALIANDA",
+  "name": "KESUGIHAN",
+  "postalCode": "35551"
  },
  {
   "id": 1803110025,
   "districtId": 1803110,
-  "name": "PEMATANG"
+  "districtName": "KALIANDA",
+  "name": "PEMATANG",
+  "postalCode": "21454"
  },
  {
   "id": 1803110026,
   "districtId": 1803110,
-  "name": "KECAPI"
+  "districtName": "KALIANDA",
+  "name": "KECAPI",
+  "postalCode": "35551"
  },
  {
   "id": 1803110027,
   "districtId": 1803110,
-  "name": "BABULANG"
+  "districtName": "KALIANDA",
+  "name": "BABULANG",
+  "postalCode": "35551"
  },
  {
   "id": 1803110028,
   "districtId": 1803110,
-  "name": "SUKARATU"
+  "districtName": "KALIANDA",
+  "name": "SUKARATU",
+  "postalCode": "35551"
  },
  {
   "id": 1803110029,
   "districtId": 1803110,
-  "name": "PALEMBAPANG"
+  "districtName": "KALIANDA",
+  "name": "PALEMBAPANG",
+  "postalCode": "35551"
  },
  {
   "id": 1803110030,
   "districtId": 1803110,
-  "name": "TAJIMALELA"
+  "districtName": "KALIANDA",
+  "name": "TAJIMALELA",
+  "postalCode": "35551"
  },
  {
   "id": 1803110031,
   "districtId": 1803110,
-  "name": "MARGA CATUR"
+  "districtName": "KALIANDA",
+  "name": "MARGA CATUR",
+  "postalCode": "35551"
  },
  {
   "id": 1803110032,
   "districtId": 1803110,
-  "name": "SUKA TANI"
+  "districtName": "KALIANDA",
+  "name": "SUKA TANI",
+  "postalCode": "24251"
  },
  {
   "id": 1803110033,
   "districtId": 1803110,
-  "name": "CANGGU"
+  "districtName": "KALIANDA",
+  "name": "CANGGU",
+  "postalCode": "31596"
  },
  {
   "id": 1803110034,
   "districtId": 1803110,
-  "name": "KEDATON"
+  "districtName": "KALIANDA",
+  "name": "KEDATON",
+  "postalCode": "31591"
  },
  {
   "id": 1803110035,
   "districtId": 1803110,
-  "name": "WAY URANG"
+  "districtName": "KALIANDA",
+  "name": "WAY URANG",
+  "postalCode": "35451"
  },
  {
   "id": 1803110036,
   "districtId": 1803110,
-  "name": "MERAK BELANTUNG"
+  "districtName": "KALIANDA",
+  "name": "MERAK BELANTUNG",
+  "postalCode": "35551"
  },
  {
   "id": 1803110037,
   "districtId": 1803110,
-  "name": "GUNUNG TERANG"
+  "districtName": "KALIANDA",
+  "name": "GUNUNG TERANG",
+  "postalCode": "32277"
  },
  {
   "id": 1803110038,
   "districtId": 1803110,
-  "name": "MUNJUK SEMPURNA"
+  "districtName": "KALIANDA",
+  "name": "MUNJUK SEMPURNA",
+  "postalCode": "35551"
  },
  {
   "id": 1803110039,
   "districtId": 1803110,
-  "name": "BULOK"
+  "districtName": "KALIANDA",
+  "name": "BULOK",
+  "postalCode": "35551"
  },
  {
   "id": 1803110040,
   "districtId": 1803110,
-  "name": "AGOM"
+  "districtName": "KALIANDA",
+  "name": "AGOM",
+  "postalCode": "35551"
  },
  {
   "id": 1803110041,
   "districtId": 1803110,
-  "name": "NEGERI PANDAN"
+  "districtName": "KALIANDA",
+  "name": "NEGERI PANDAN",
+  "postalCode": "35551"
  },
  {
   "id": 1803110042,
   "districtId": 1803110,
-  "name": "TAMAN AGUNG"
+  "districtName": "KALIANDA",
+  "name": "TAMAN AGUNG",
+  "postalCode": "32386"
  },
  {
   "id": 1803110043,
   "districtId": 1803110,
-  "name": "WAI LUBUK"
+  "districtName": "KALIANDA",
+  "name": "WAI LUBUK",
+  "postalCode": "35551"
  },
  {
   "id": 1803110044,
   "districtId": 1803110,
-  "name": "HARA BANJAR MANIS"
+  "districtName": "KALIANDA",
+  "name": "HARA BANJAR MANIS",
+  "postalCode": "35551"
  }
 ]

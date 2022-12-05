@@ -2,46 +2,64 @@
  {
   "id": 6310050001,
   "districtId": 6310050,
-  "name": "SEGUMBANG"
+  "districtName": "BATU LICIN",
+  "name": "SEGUMBANG",
+  "postalCode": "72211"
  },
  {
   "id": 6310050002,
   "districtId": 6310050,
-  "name": "GUNUNG TINGGI"
+  "districtName": "BATU LICIN",
+  "name": "GUNUNG TINGGI",
+  "postalCode": "20353"
  },
  {
   "id": 6310050003,
   "districtId": 6310050,
-  "name": "KERSIK PUTIH"
+  "districtName": "BATU LICIN",
+  "name": "KERSIK PUTIH",
+  "postalCode": "72215"
  },
  {
   "id": 6310050004,
   "districtId": 6310050,
-  "name": "BATULICIN"
+  "districtName": "BATU LICIN",
+  "name": "BATULICIN",
+  "postalCode": "72271"
  },
  {
   "id": 6310050006,
   "districtId": 6310050,
-  "name": "MAJU MAKMUR"
+  "districtName": "BATU LICIN",
+  "name": "MAJU MAKMUR",
+  "postalCode": ""
  },
  {
   "id": 6310050007,
   "districtId": 6310050,
-  "name": "DANAU INDAH"
+  "districtName": "BATU LICIN",
+  "name": "DANAU INDAH",
+  "postalCode": "17530"
  },
  {
   "id": 6310050008,
   "districtId": 6310050,
-  "name": "POLEWALI MARAJAE"
+  "districtName": "BATU LICIN",
+  "name": "POLEWALI MARAJAE",
+  "postalCode": "72218"
  },
  {
   "id": 6310050009,
   "districtId": 6310050,
-  "name": "MAJU BERSAMA"
+  "districtName": "BATU LICIN",
+  "name": "MAJU BERSAMA",
+  "postalCode": "73552"
  },
  {
   "id": 6310050010,
   "districtId": 6310050,
-  "name": "SUKAMAJU"
+  "districtName": "BATU LICIN",
+  "name": "SUKAMAJU",
+  "postalCode": "22465"
  }
 ]

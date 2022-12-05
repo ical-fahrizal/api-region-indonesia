@@ -2,31 +2,43 @@
  {
   "id": 9101050006,
   "districtId": 9101050,
-  "name": "TUNAS GAIN"
+  "districtName": "FAKFAK TIMUR",
+  "name": "TUNAS GAIN",
+  "postalCode": "98662"
  },
  {
   "id": 9101050007,
   "districtId": 9101050,
-  "name": "URAT"
+  "districtName": "FAKFAK TIMUR",
+  "name": "URAT",
+  "postalCode": "98662"
  },
  {
   "id": 9101050008,
   "districtId": 9101050,
-  "name": "SANGGRAM"
+  "districtName": "FAKFAK TIMUR",
+  "name": "SANGGRAM",
+  "postalCode": "98662"
  },
  {
   "id": 9101050016,
   "districtId": 9101050,
-  "name": "WERI"
+  "districtName": "FAKFAK TIMUR",
+  "name": "WERI",
+  "postalCode": "86219"
  },
  {
   "id": 9101050017,
   "districtId": 9101050,
-  "name": "KIRIA BISA"
+  "districtName": "FAKFAK TIMUR",
+  "name": "KIRIA BISA",
+  "postalCode": ""
  },
  {
   "id": 9101050018,
   "districtId": 9101050,
-  "name": "SAHAREI"
+  "districtName": "FAKFAK TIMUR",
+  "name": "SAHAREI",
+  "postalCode": "98662"
  }
 ]

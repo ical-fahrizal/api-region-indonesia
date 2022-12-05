@@ -2,51 +2,71 @@
  {
   "id": 5305022001,
   "districtId": 5305022,
-  "name": "MAURISU"
+  "districtName": "BIKOMI SELATAN",
+  "name": "MAURISU",
+  "postalCode": "85651"
  },
  {
   "id": 5305022002,
   "districtId": 5305022,
-  "name": "NAIOLA"
+  "districtName": "BIKOMI SELATAN",
+  "name": "NAIOLA",
+  "postalCode": "85651"
  },
  {
   "id": 5305022003,
   "districtId": 5305022,
-  "name": "OETALUS"
+  "districtName": "BIKOMI SELATAN",
+  "name": "OETALUS",
+  "postalCode": "85651"
  },
  {
   "id": 5305022004,
   "districtId": 5305022,
-  "name": "OELAMI"
+  "districtName": "BIKOMI SELATAN",
+  "name": "OELAMI",
+  "postalCode": "85651"
  },
  {
   "id": 5305022005,
   "districtId": 5305022,
-  "name": "KIUSILI"
+  "districtName": "BIKOMI SELATAN",
+  "name": "KIUSILI",
+  "postalCode": "85651"
  },
  {
   "id": 5305022006,
   "districtId": 5305022,
-  "name": "MAURISU UTARA"
+  "districtName": "BIKOMI SELATAN",
+  "name": "MAURISU UTARA",
+  "postalCode": "85651"
  },
  {
   "id": 5305022007,
   "districtId": 5305022,
-  "name": "MAURISU SELATAN"
+  "districtName": "BIKOMI SELATAN",
+  "name": "MAURISU SELATAN",
+  "postalCode": "85651"
  },
  {
   "id": 5305022008,
   "districtId": 5305022,
-  "name": "TUBLOPO"
+  "districtName": "BIKOMI SELATAN",
+  "name": "TUBLOPO",
+  "postalCode": "85617"
  },
  {
   "id": 5305022009,
   "districtId": 5305022,
-  "name": "MAURISU TENGAH"
+  "districtName": "BIKOMI SELATAN",
+  "name": "MAURISU TENGAH",
+  "postalCode": ""
  },
  {
   "id": 5305022010,
   "districtId": 5305022,
-  "name": "NAIOLA TIMUR"
+  "districtName": "BIKOMI SELATAN",
+  "name": "NAIOLA TIMUR",
+  "postalCode": ""
  }
 ]

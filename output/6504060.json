@@ -2,46 +2,64 @@
  {
   "id": 6504060001,
   "districtId": 6504060,
-  "name": "BUTAS BAGU"
+  "districtName": "SEMBAKUNG",
+  "name": "BUTAS BAGU",
+  "postalCode": "77453"
  },
  {
   "id": 6504060002,
   "districtId": 6504060,
-  "name": "LABUK"
+  "districtName": "SEMBAKUNG",
+  "name": "LABUK",
+  "postalCode": "77457"
  },
  {
   "id": 6504060003,
   "districtId": 6504060,
-  "name": "PAGAR"
+  "districtName": "SEMBAKUNG",
+  "name": "PAGAR",
+  "postalCode": "38886"
  },
  {
   "id": 6504060005,
   "districtId": 6504060,
-  "name": "MANUK BUNGKUL"
+  "districtName": "SEMBAKUNG",
+  "name": "MANUK BUNGKUL",
+  "postalCode": "77453"
  },
  {
   "id": 6504060006,
   "districtId": 6504060,
-  "name": "ATAP"
+  "districtName": "SEMBAKUNG",
+  "name": "ATAP",
+  "postalCode": "77453"
  },
  {
   "id": 6504060007,
   "districtId": 6504060,
-  "name": "LUBAKAN"
+  "districtName": "SEMBAKUNG",
+  "name": "LUBAKAN",
+  "postalCode": "77453"
  },
  {
   "id": 6504060008,
   "districtId": 6504060,
-  "name": "TAGUL"
+  "districtName": "SEMBAKUNG",
+  "name": "TAGUL",
+  "postalCode": "77453"
  },
  {
   "id": 6504060009,
   "districtId": 6504060,
-  "name": "PLAJU"
+  "districtName": "SEMBAKUNG",
+  "name": "PLAJU",
+  "postalCode": ""
  },
  {
   "id": 6504060010,
   "districtId": 6504060,
-  "name": "TEPIAN"
+  "districtName": "SEMBAKUNG",
+  "name": "TEPIAN",
+  "postalCode": "77453"
  }
 ]

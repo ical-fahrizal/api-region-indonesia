@@ -2,26 +2,36 @@
  {
   "id": 8204092001,
   "districtId": 8204092,
-  "name": "GANE LUAR"
+  "districtName": "GANE TIMUR SELATAN",
+  "name": "GANE LUAR",
+  "postalCode": "97783"
  },
  {
   "id": 8204092002,
   "districtId": 8204092,
-  "name": "RANGA RANGA"
+  "districtName": "GANE TIMUR SELATAN",
+  "name": "RANGA RANGA",
+  "postalCode": "97783"
  },
  {
   "id": 8204092003,
   "districtId": 8204092,
-  "name": "KUWO"
+  "districtName": "GANE TIMUR SELATAN",
+  "name": "KUWO",
+  "postalCode": "97783"
  },
  {
   "id": 8204092004,
   "districtId": 8204092,
-  "name": "SAWAT"
+  "districtName": "GANE TIMUR SELATAN",
+  "name": "SAWAT",
+  "postalCode": "97783"
  },
  {
   "id": 8204092005,
   "districtId": 8204092,
-  "name": "GAIMU"
+  "districtName": "GANE TIMUR SELATAN",
+  "name": "GAIMU",
+  "postalCode": "97783"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 1405020042,
   "districtId": 1405020,
-  "name": "LANGKAI"
+  "districtName": "SIAK",
+  "name": "LANGKAI",
+  "postalCode": "28671"
  },
  {
   "id": 1405020043,
   "districtId": 1405020,
-  "name": "KAMPUNG DALAM"
+  "districtName": "SIAK",
+  "name": "KAMPUNG DALAM",
+  "postalCode": "21451"
  },
  {
   "id": 1405020046,
   "districtId": 1405020,
-  "name": "KAMPUNG REMPAK"
+  "districtName": "SIAK",
+  "name": "KAMPUNG REMPAK",
+  "postalCode": "28671"
  },
  {
   "id": 1405020047,
   "districtId": 1405020,
-  "name": "TUMANG"
+  "districtName": "SIAK",
+  "name": "TUMANG",
+  "postalCode": "28671"
  },
  {
   "id": 1405020049,
   "districtId": 1405020,
-  "name": "MEREMPAN HULU"
+  "districtName": "SIAK",
+  "name": "MEREMPAN HULU",
+  "postalCode": "28671"
  },
  {
   "id": 1405020050,
   "districtId": 1405020,
-  "name": "RAWANG AIR PUTIH"
+  "districtName": "SIAK",
+  "name": "RAWANG AIR PUTIH",
+  "postalCode": "28671"
  },
  {
   "id": 1405020051,
   "districtId": 1405020,
-  "name": "SUAK LANJUT"
+  "districtName": "SIAK",
+  "name": "SUAK LANJUT",
+  "postalCode": "28671"
  },
  {
   "id": 1405020052,
   "districtId": 1405020,
-  "name": "BUANTAN BESAR"
+  "districtName": "SIAK",
+  "name": "BUANTAN BESAR",
+  "postalCode": "28671"
  }
 ]

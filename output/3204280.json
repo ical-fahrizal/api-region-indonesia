@@ -2,31 +2,43 @@
  {
   "id": 3204280001,
   "districtId": 3204280,
-  "name": "BOJONGSARI"
+  "districtName": "BOJONGSOANG",
+  "name": "BOJONGSARI",
+  "postalCode": "40288"
  },
  {
   "id": 3204280002,
   "districtId": 3204280,
-  "name": "BOJONGSOANG"
+  "districtName": "BOJONGSOANG",
+  "name": "BOJONGSOANG",
+  "postalCode": "40288"
  },
  {
   "id": 3204280003,
   "districtId": 3204280,
-  "name": "LENGKONG"
+  "districtName": "BOJONGSOANG",
+  "name": "LENGKONG",
+  "postalCode": "24415"
  },
  {
   "id": 3204280004,
   "districtId": 3204280,
-  "name": "CIPAGALO"
+  "districtName": "BOJONGSOANG",
+  "name": "CIPAGALO",
+  "postalCode": "40287"
  },
  {
   "id": 3204280005,
   "districtId": 3204280,
-  "name": "BUAHBATU"
+  "districtName": "BOJONGSOANG",
+  "name": "BUAHBATU",
+  "postalCode": "40287"
  },
  {
   "id": 3204280006,
   "districtId": 3204280,
-  "name": "TEGALLUAR"
+  "districtName": "BOJONGSOANG",
+  "name": "TEGALLUAR",
+  "postalCode": "40287"
  }
 ]

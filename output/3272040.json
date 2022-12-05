@@ -2,16 +2,22 @@
  {
   "id": 3272040001,
   "districtId": 3272040,
-  "name": "KARANG TENGAH"
+  "districtName": "GUNUNG PUYUH",
+  "name": "KARANG TENGAH",
+  "postalCode": "20991"
  },
  {
   "id": 3272040003,
   "districtId": 3272040,
-  "name": "SRIWIDARI"
+  "districtName": "GUNUNG PUYUH",
+  "name": "SRIWIDARI",
+  "postalCode": ""
  },
  {
   "id": 3272040004,
   "districtId": 3272040,
-  "name": "KARAMAT"
+  "districtName": "GUNUNG PUYUH",
+  "name": "KARAMAT",
+  "postalCode": "43122"
  }
 ]

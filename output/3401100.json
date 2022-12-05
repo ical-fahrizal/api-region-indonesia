@@ -2,31 +2,43 @@
  {
   "id": 3401100001,
   "districtId": 3401100,
-  "name": "BANYUROTO"
+  "districtName": "NANGGULAN",
+  "name": "BANYUROTO",
+  "postalCode": "54363"
  },
  {
   "id": 3401100002,
   "districtId": 3401100,
-  "name": "DONOMULYO"
+  "districtName": "NANGGULAN",
+  "name": "DONOMULYO",
+  "postalCode": "34182"
  },
  {
   "id": 3401100003,
   "districtId": 3401100,
-  "name": "WIJIMULYO"
+  "districtName": "NANGGULAN",
+  "name": "WIJIMULYO",
+  "postalCode": "55671"
  },
  {
   "id": 3401100004,
   "districtId": 3401100,
-  "name": "TANJUNGHARJO"
+  "districtName": "NANGGULAN",
+  "name": "TANJUNGHARJO",
+  "postalCode": "58193"
  },
  {
   "id": 3401100005,
   "districtId": 3401100,
-  "name": "JATI SARONO"
+  "districtName": "NANGGULAN",
+  "name": "JATI SARONO",
+  "postalCode": "55671"
  },
  {
   "id": 3401100006,
   "districtId": 3401100,
-  "name": "KEMBANG"
+  "districtName": "NANGGULAN",
+  "name": "KEMBANG",
+  "postalCode": "57352"
  }
 ]

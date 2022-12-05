@@ -2,66 +2,92 @@
  {
   "id": 3309150001,
   "districtId": 3309150,
-  "name": "TANJUNG"
+  "districtName": "KLEGO",
+  "name": "TANJUNG",
+  "postalCode": "24562"
  },
  {
   "id": 3309150002,
   "districtId": 3309150,
-  "name": "SENDANGREJO"
+  "districtName": "KLEGO",
+  "name": "SENDANGREJO",
+  "postalCode": "57673"
  },
  {
   "id": 3309150003,
   "districtId": 3309150,
-  "name": "KALANGAN"
+  "districtName": "KLEGO",
+  "name": "KALANGAN",
+  "postalCode": "22616"
  },
  {
   "id": 3309150004,
   "districtId": 3309150,
-  "name": "SANGGE"
+  "districtName": "KLEGO",
+  "name": "SANGGE",
+  "postalCode": "57385"
  },
  {
   "id": 3309150005,
   "districtId": 3309150,
-  "name": "JATEN"
+  "districtName": "KLEGO",
+  "name": "JATEN",
+  "postalCode": "57731"
  },
  {
   "id": 3309150006,
   "districtId": 3309150,
-  "name": "BLUMBANG"
+  "districtName": "KLEGO",
+  "name": "BLUMBANG",
+  "postalCode": "57385"
  },
  {
   "id": 3309150007,
   "districtId": 3309150,
-  "name": "BADE"
+  "districtName": "KLEGO",
+  "name": "BADE",
+  "postalCode": "57385"
  },
  {
   "id": 3309150008,
   "districtId": 3309150,
-  "name": "KLEGO"
+  "districtName": "KLEGO",
+  "name": "KLEGO",
+  "postalCode": "57385"
  },
  {
   "id": 3309150009,
   "districtId": 3309150,
-  "name": "GONDANGLEGI"
+  "districtName": "KLEGO",
+  "name": "GONDANGLEGI",
+  "postalCode": "54392"
  },
  {
   "id": 3309150010,
   "districtId": 3309150,
-  "name": "KARANGGATAK"
+  "districtName": "KLEGO",
+  "name": "KARANGGATAK",
+  "postalCode": "57385"
  },
  {
   "id": 3309150011,
   "districtId": 3309150,
-  "name": "BANYUURIP"
+  "districtName": "KLEGO",
+  "name": "BANYUURIP",
+  "postalCode": "59263"
  },
  {
   "id": 3309150012,
   "districtId": 3309150,
-  "name": "SUMBERAGUNG"
+  "districtName": "KLEGO",
+  "name": "SUMBERAGUNG",
+  "postalCode": "35452"
  },
  {
   "id": 3309150013,
   "districtId": 3309150,
-  "name": "KARANGMOJO"
+  "districtName": "KLEGO",
+  "name": "KARANGMOJO",
+  "postalCode": "54365"
  }
 ]

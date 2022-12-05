@@ -2,46 +2,64 @@
  {
   "id": 1402043001,
   "districtId": 1402043,
-  "name": "SEI BERAS-BERAS"
+  "districtName": "LUBUK BATU JAYA",
+  "name": "SEI BERAS-BERAS",
+  "postalCode": "29352"
  },
  {
   "id": 1402043002,
   "districtId": 1402043,
-  "name": "SEI BEBERAS HILIR"
+  "districtName": "LUBUK BATU JAYA",
+  "name": "SEI BEBERAS HILIR",
+  "postalCode": ""
  },
  {
   "id": 1402043003,
   "districtId": 1402043,
-  "name": "PONDOK GELUGUR"
+  "districtName": "LUBUK BATU JAYA",
+  "name": "PONDOK GELUGUR",
+  "postalCode": "29352"
  },
  {
   "id": 1402043004,
   "districtId": 1402043,
-  "name": "RIMPIAN"
+  "districtName": "LUBUK BATU JAYA",
+  "name": "RIMPIAN",
+  "postalCode": "29352"
  },
  {
   "id": 1402043005,
   "districtId": 1402043,
-  "name": "LUBUK BATU TINGGAL"
+  "districtName": "LUBUK BATU JAYA",
+  "name": "LUBUK BATU TINGGAL",
+  "postalCode": "29352"
  },
  {
   "id": 1402043027,
   "districtId": 1402043,
-  "name": "KULIM JAYA"
+  "districtName": "LUBUK BATU JAYA",
+  "name": "KULIM JAYA",
+  "postalCode": "29261"
  },
  {
   "id": 1402043029,
   "districtId": 1402043,
-  "name": "TASIK JUANG"
+  "districtName": "LUBUK BATU JAYA",
+  "name": "TASIK JUANG",
+  "postalCode": "29352"
  },
  {
   "id": 1402043030,
   "districtId": 1402043,
-  "name": "PONTIAN MEKAR"
+  "districtName": "LUBUK BATU JAYA",
+  "name": "PONTIAN MEKAR",
+  "postalCode": "29352"
  },
  {
   "id": 1402043031,
   "districtId": 1402043,
-  "name": "AIR PUTIH"
+  "districtName": "LUBUK BATU JAYA",
+  "name": "AIR PUTIH",
+  "postalCode": "21264"
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 1202082001,
   "districtId": 1202082,
-  "name": "BANUA RAKYAT"
+  "districtName": "NAGA JUANG",
+  "name": "BANUA RAKYAT",
+  "postalCode": "22977"
  },
  {
   "id": 1202082002,
   "districtId": 1202082,
-  "name": "HUMBANG I"
+  "districtName": "NAGA JUANG",
+  "name": "HUMBANG I",
+  "postalCode": "22977"
  },
  {
   "id": 1202082003,
   "districtId": 1202082,
-  "name": "SAYUR MATUA"
+  "districtName": "NAGA JUANG",
+  "name": "SAYUR MATUA",
+  "postalCode": "22755"
  },
  {
   "id": 1202082004,
   "districtId": 1202082,
-  "name": "TARUTUNG PANJANG"
+  "districtName": "NAGA JUANG",
+  "name": "TARUTUNG PANJANG",
+  "postalCode": ""
  },
  {
   "id": 1202082005,
   "districtId": 1202082,
-  "name": "TAMBISKI"
+  "districtName": "NAGA JUANG",
+  "name": "TAMBISKI",
+  "postalCode": "22977"
  },
  {
   "id": 1202082006,
   "districtId": 1202082,
-  "name": "SIMANOSOR"
+  "districtName": "NAGA JUANG",
+  "name": "SIMANOSOR",
+  "postalCode": "22756"
  },
  {
   "id": 1202082007,
   "districtId": 1202082,
-  "name": "TAMBISKI NAULI"
+  "districtName": "NAGA JUANG",
+  "name": "TAMBISKI NAULI",
+  "postalCode": ""
  }
 ]

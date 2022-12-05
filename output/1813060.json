@@ -2,41 +2,57 @@
  {
   "id": 1813060001,
   "districtId": 1813060,
-  "name": "WAY REDAK"
+  "districtName": "PESISIR TENGAH",
+  "name": "WAY REDAK",
+  "postalCode": "34874"
  },
  {
   "id": 1813060002,
   "districtId": 1813060,
-  "name": "SERAY"
+  "districtName": "PESISIR TENGAH",
+  "name": "SERAY",
+  "postalCode": ""
  },
  {
   "id": 1813060003,
   "districtId": 1813060,
-  "name": "RAWAS"
+  "districtName": "PESISIR TENGAH",
+  "name": "RAWAS",
+  "postalCode": "34874"
  },
  {
   "id": 1813060004,
   "districtId": 1813060,
-  "name": "KAMPUNG JAWA"
+  "districtName": "PESISIR TENGAH",
+  "name": "KAMPUNG JAWA",
+  "postalCode": "24655"
  },
  {
   "id": 1813060005,
   "districtId": 1813060,
-  "name": "PASAR KRUI"
+  "districtName": "PESISIR TENGAH",
+  "name": "PASAR KRUI",
+  "postalCode": "34874"
  },
  {
   "id": 1813060006,
   "districtId": 1813060,
-  "name": "PASAR KOTA KRUI"
+  "districtName": "PESISIR TENGAH",
+  "name": "PASAR KOTA KRUI",
+  "postalCode": ""
  },
  {
   "id": 1813060007,
   "districtId": 1813060,
-  "name": "SUKANEGARA"
+  "districtName": "PESISIR TENGAH",
+  "name": "SUKANEGARA",
+  "postalCode": "32385"
  },
  {
   "id": 1813060008,
   "districtId": 1813060,
-  "name": "PAHMUNGAN"
+  "districtName": "PESISIR TENGAH",
+  "name": "PAHMUNGAN",
+  "postalCode": "34874"
  }
 ]

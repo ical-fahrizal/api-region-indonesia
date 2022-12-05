@@ -2,116 +2,162 @@
  {
   "id": 1104023001,
   "districtId": 1104023,
-  "name": "NAGA TIMBUL"
+  "districtName": "LEUSER",
+  "name": "NAGA TIMBUL",
+  "postalCode": "24673"
  },
  {
   "id": 1104023002,
   "districtId": 1104023,
-  "name": "GUNUNG PAK-PAK"
+  "districtName": "LEUSER",
+  "name": "GUNUNG PAK-PAK",
+  "postalCode": "24673"
  },
  {
   "id": 1104023003,
   "districtId": 1104023,
-  "name": "BUNBUN ALAS"
+  "districtName": "LEUSER",
+  "name": "BUNBUN ALAS",
+  "postalCode": "24673"
  },
  {
   "id": 1104023004,
   "districtId": 1104023,
-  "name": "TANJUNG SARI"
+  "districtName": "LEUSER",
+  "name": "TANJUNG SARI",
+  "postalCode": "24673"
  },
  {
   "id": 1104023005,
   "districtId": 1104023,
-  "name": "BINTANG ALGA MUSARA"
+  "districtName": "LEUSER",
+  "name": "BINTANG ALGA MUSARA",
+  "postalCode": "24673"
  },
  {
   "id": 1104023006,
   "districtId": 1104023,
-  "name": "BUKIT BINTANG INDAH"
+  "districtName": "LEUSER",
+  "name": "BUKIT BINTANG INDAH",
+  "postalCode": "24673"
  },
  {
   "id": 1104023007,
   "districtId": 1104023,
-  "name": "SUKA DAMAI"
+  "districtName": "LEUSER",
+  "name": "SUKA DAMAI",
+  "postalCode": "24472"
  },
  {
   "id": 1104023008,
   "districtId": 1104023,
-  "name": "SEPAKAT"
+  "districtName": "LEUSER",
+  "name": "SEPAKAT",
+  "postalCode": "24562"
  },
  {
   "id": 1104023009,
   "districtId": 1104023,
-  "name": "PUNCE NALI"
+  "districtName": "LEUSER",
+  "name": "PUNCE NALI",
+  "postalCode": "24673"
  },
  {
   "id": 1104023010,
   "districtId": 1104023,
-  "name": "SADE ATE"
+  "districtName": "LEUSER",
+  "name": "SADE ATE",
+  "postalCode": "24673"
  },
  {
   "id": 1104023011,
   "districtId": 1104023,
-  "name": "ARIH MEJILAI"
+  "districtName": "LEUSER",
+  "name": "ARIH MEJILAI",
+  "postalCode": ""
  },
  {
   "id": 1104023012,
   "districtId": 1104023,
-  "name": "UKHAT PESELUK"
+  "districtName": "LEUSER",
+  "name": "UKHAT PESELUK",
+  "postalCode": "24673"
  },
  {
   "id": 1104023013,
   "districtId": 1104023,
-  "name": "TUNAS MUDE"
+  "districtName": "LEUSER",
+  "name": "TUNAS MUDE",
+  "postalCode": "24673"
  },
  {
   "id": 1104023014,
   "districtId": 1104023,
-  "name": "GAYE SENDAH"
+  "districtName": "LEUSER",
+  "name": "GAYE SENDAH",
+  "postalCode": "24673"
  },
  {
   "id": 1104023015,
   "districtId": 1104023,
-  "name": "KUTE HAKHAPEN"
+  "districtName": "LEUSER",
+  "name": "KUTE HAKHAPEN",
+  "postalCode": ""
  },
  {
   "id": 1104023016,
   "districtId": 1104023,
-  "name": "TUAH KERINE"
+  "districtName": "LEUSER",
+  "name": "TUAH KERINE",
+  "postalCode": ""
  },
  {
   "id": 1104023017,
   "districtId": 1104023,
-  "name": "LAWE SEKHAKUT"
+  "districtName": "LEUSER",
+  "name": "LAWE SEKHAKUT",
+  "postalCode": "24673"
  },
  {
   "id": 1104023018,
   "districtId": 1104023,
-  "name": "BUN BUN INDAH"
+  "districtName": "LEUSER",
+  "name": "BUN BUN INDAH",
+  "postalCode": ""
  },
  {
   "id": 1104023019,
   "districtId": 1104023,
-  "name": "LAUT TAWAR"
+  "districtName": "LEUSER",
+  "name": "LAUT TAWAR",
+  "postalCode": "24673"
  },
  {
   "id": 1104023020,
   "districtId": 1104023,
-  "name": "KANE MENDE"
+  "districtName": "LEUSER",
+  "name": "KANE MENDE",
+  "postalCode": "24673"
  },
  {
   "id": 1104023021,
   "districtId": 1104023,
-  "name": "KOMPAS"
+  "districtName": "LEUSER",
+  "name": "KOMPAS",
+  "postalCode": "24673"
  },
  {
   "id": 1104023022,
   "districtId": 1104023,
-  "name": "BUKIT MERIAH"
+  "districtName": "LEUSER",
+  "name": "BUKIT MERIAH",
+  "postalCode": ""
  },
  {
   "id": 1104023023,
   "districtId": 1104023,
-  "name": "PERMATA MUSARA"
+  "districtName": "LEUSER",
+  "name": "PERMATA MUSARA",
+  "postalCode": "24673"
  }
 ]

@@ -2,21 +2,29 @@
  {
   "id": 1102011001,
   "districtId": 1102011,
-  "name": "ASANTOLA"
+  "districtName": "PULAU BANYAK BARAT",
+  "name": "ASANTOLA",
+  "postalCode": "24791"
  },
  {
   "id": 1102011002,
   "districtId": 1102011,
-  "name": "UJUNG SIALIT"
+  "districtName": "PULAU BANYAK BARAT",
+  "name": "UJUNG SIALIT",
+  "postalCode": "24791"
  },
  {
   "id": 1102011003,
   "districtId": 1102011,
-  "name": "HALOBAN"
+  "districtName": "PULAU BANYAK BARAT",
+  "name": "HALOBAN",
+  "postalCode": "24791"
  },
  {
   "id": 1102011004,
   "districtId": 1102011,
-  "name": "SUKA MAKMUR"
+  "districtName": "PULAU BANYAK BARAT",
+  "name": "SUKA MAKMUR",
+  "postalCode": "24784"
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 6402051002,
   "districtId": 6402051,
-  "name": "RANDA EMPAS"
+  "districtName": "BENTIAN BESAR",
+  "name": "RANDA EMPAS",
+  "postalCode": "75778"
  },
  {
   "id": 6402051004,
   "districtId": 6402051,
-  "name": "SAMBUNG"
+  "districtName": "BENTIAN BESAR",
+  "name": "SAMBUNG",
+  "postalCode": "59581"
  },
  {
   "id": 6402051005,
   "districtId": 6402051,
-  "name": "JELMU SIBAK"
+  "districtName": "BENTIAN BESAR",
+  "name": "JELMU SIBAK",
+  "postalCode": "75778"
  },
  {
   "id": 6402051006,
   "districtId": 6402051,
-  "name": "ANAN JAYA"
+  "districtName": "BENTIAN BESAR",
+  "name": "ANAN JAYA",
+  "postalCode": "75778"
  },
  {
   "id": 6402051007,
   "districtId": 6402051,
-  "name": "SUAKONG"
+  "districtName": "BENTIAN BESAR",
+  "name": "SUAKONG",
+  "postalCode": "75778"
  },
  {
   "id": 6402051008,
   "districtId": 6402051,
-  "name": "DILANG PUTI"
+  "districtName": "BENTIAN BESAR",
+  "name": "DILANG PUTI",
+  "postalCode": "75778"
  },
  {
   "id": 6402051009,
   "districtId": 6402051,
-  "name": "PENARUNG"
+  "districtName": "BENTIAN BESAR",
+  "name": "PENARUNG",
+  "postalCode": "75778"
  }
 ]

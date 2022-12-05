@@ -2,51 +2,71 @@
  {
   "id": 3204190002,
   "districtId": 3204190,
-  "name": "SADU"
+  "districtName": "SOREANG",
+  "name": "SADU",
+  "postalCode": "31652"
  },
  {
   "id": 3204190003,
   "districtId": 3204190,
-  "name": "SUKAJADI"
+  "districtName": "SOREANG",
+  "name": "SUKAJADI",
+  "postalCode": "24472"
  },
  {
   "id": 3204190004,
   "districtId": 3204190,
-  "name": "SUKANAGARA"
+  "districtName": "SOREANG",
+  "name": "SUKANAGARA",
+  "postalCode": "44174"
  },
  {
   "id": 3204190005,
   "districtId": 3204190,
-  "name": "PANYIRAPAN"
+  "districtName": "SOREANG",
+  "name": "PANYIRAPAN",
+  "postalCode": "40915"
  },
  {
   "id": 3204190006,
   "districtId": 3204190,
-  "name": "KARAMATMULYA"
+  "districtName": "SOREANG",
+  "name": "KARAMATMULYA",
+  "postalCode": "45553"
  },
  {
   "id": 3204190007,
   "districtId": 3204190,
-  "name": "SOREANG"
+  "districtName": "SOREANG",
+  "name": "SOREANG",
+  "postalCode": "40911"
  },
  {
   "id": 3204190008,
   "districtId": 3204190,
-  "name": "PAMEKARAN"
+  "districtName": "SOREANG",
+  "name": "PAMEKARAN",
+  "postalCode": "41374"
  },
  {
   "id": 3204190019,
   "districtId": 3204190,
-  "name": "PARUNGSERAB"
+  "districtName": "SOREANG",
+  "name": "PARUNGSERAB",
+  "postalCode": "40914"
  },
  {
   "id": 3204190020,
   "districtId": 3204190,
-  "name": "SEKARWANGI"
+  "districtName": "SOREANG",
+  "name": "SEKARWANGI",
+  "postalCode": "45392"
  },
  {
   "id": 3204190021,
   "districtId": 3204190,
-  "name": "CINGCIN"
+  "districtName": "SOREANG",
+  "name": "CINGCIN",
+  "postalCode": "40914"
  }
 ]

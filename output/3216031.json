@@ -2,31 +2,43 @@
  {
   "id": 3216031001,
   "districtId": 3216031,
-  "name": "KARANGINDAH"
+  "districtName": "BOJONGMANGU",
+  "name": "KARANGINDAH",
+  "postalCode": "17350"
  },
  {
   "id": 3216031002,
   "districtId": 3216031,
-  "name": "KARANGMULYA"
+  "districtName": "BOJONGMANGU",
+  "name": "KARANGMULYA",
+  "postalCode": "17356"
  },
  {
   "id": 3216031003,
   "districtId": 3216031,
-  "name": "BOJONGMANGU"
+  "districtName": "BOJONGMANGU",
+  "name": "BOJONGMANGU",
+  "postalCode": ""
  },
  {
   "id": 3216031004,
   "districtId": 3216031,
-  "name": "MEDALKRISNA"
+  "districtName": "BOJONGMANGU",
+  "name": "MEDALKRISNA",
+  "postalCode": "17350"
  },
  {
   "id": 3216031005,
   "districtId": 3216031,
-  "name": "SUKAMUKTI"
+  "districtName": "BOJONGMANGU",
+  "name": "SUKAMUKTI",
+  "postalCode": "44191"
  },
  {
   "id": 3216031006,
   "districtId": 3216031,
-  "name": "SUKABUNGAH"
+  "districtName": "BOJONGMANGU",
+  "name": "SUKABUNGAH",
+  "postalCode": "17350"
  }
 ]

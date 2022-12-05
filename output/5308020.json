@@ -2,71 +2,99 @@
  {
   "id": 5308020004,
   "districtId": 5308020,
-  "name": "LUSILAME"
+  "districtName": "ATADEI",
+  "name": "LUSILAME",
+  "postalCode": "86685"
  },
  {
   "id": 5308020007,
   "districtId": 5308020,
-  "name": "DULIR"
+  "districtName": "ATADEI",
+  "name": "DULIR",
+  "postalCode": "86685"
  },
  {
   "id": 5308020009,
   "districtId": 5308020,
-  "name": "ATAKORE"
+  "districtName": "ATADEI",
+  "name": "ATAKORE",
+  "postalCode": "86685"
  },
  {
   "id": 5308020010,
   "districtId": 5308020,
-  "name": "NUBAHAERAKA"
+  "districtName": "ATADEI",
+  "name": "NUBAHAERAKA",
+  "postalCode": "86685"
  },
  {
   "id": 5308020011,
   "districtId": 5308020,
-  "name": "LEBAATA"
+  "districtName": "ATADEI",
+  "name": "LEBAATA",
+  "postalCode": "86685"
  },
  {
   "id": 5308020012,
   "districtId": 5308020,
-  "name": "ILE KERBAU"
+  "districtName": "ATADEI",
+  "name": "ILE KERBAU",
+  "postalCode": "86685"
  },
  {
   "id": 5308020013,
   "districtId": 5308020,
-  "name": "DORI PEWUT"
+  "districtName": "ATADEI",
+  "name": "DORI PEWUT",
+  "postalCode": "86685"
  },
  {
   "id": 5308020014,
   "districtId": 5308020,
-  "name": "ILE KIMOK"
+  "districtName": "ATADEI",
+  "name": "ILE KIMOK",
+  "postalCode": "86685"
  },
  {
   "id": 5308020015,
   "districtId": 5308020,
-  "name": "TUBUK RAJAN"
+  "districtName": "ATADEI",
+  "name": "TUBUK RAJAN",
+  "postalCode": "86685"
  },
  {
   "id": 5308020016,
   "districtId": 5308020,
-  "name": "KATAKEJA"
+  "districtName": "ATADEI",
+  "name": "KATAKEJA",
+  "postalCode": "86685"
  },
  {
   "id": 5308020017,
   "districtId": 5308020,
-  "name": "NUBA ATALOJO"
+  "districtName": "ATADEI",
+  "name": "NUBA ATALOJO",
+  "postalCode": "86685"
  },
  {
   "id": 5308020018,
   "districtId": 5308020,
-  "name": "NOGO DONI"
+  "districtName": "ATADEI",
+  "name": "NOGO DONI",
+  "postalCode": "86685"
  },
  {
   "id": 5308020021,
   "districtId": 5308020,
-  "name": "LEWOGROMA"
+  "districtName": "ATADEI",
+  "name": "LEWOGROMA",
+  "postalCode": "86685"
  },
  {
   "id": 5308020022,
   "districtId": 5308020,
-  "name": "NUBABOLI"
+  "districtName": "ATADEI",
+  "name": "NUBABOLI",
+  "postalCode": "86685"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 3208031001,
   "districtId": 3208031,
-  "name": "TUNDAGAN"
+  "districtName": "HANTARA",
+  "name": "TUNDAGAN",
+  "postalCode": "52357"
  },
  {
   "id": 3208031002,
   "districtId": 3208031,
-  "name": "BUNIGEULIS"
+  "districtName": "HANTARA",
+  "name": "BUNIGEULIS",
+  "postalCode": "45556"
  },
  {
   "id": 3208031003,
   "districtId": 3208031,
-  "name": "HANTARA"
+  "districtName": "HANTARA",
+  "name": "HANTARA",
+  "postalCode": "45564"
  },
  {
   "id": 3208031004,
   "districtId": 3208031,
-  "name": "CIKONDANG"
+  "districtName": "HANTARA",
+  "name": "CIKONDANG",
+  "postalCode": "43283"
  },
  {
   "id": 3208031005,
   "districtId": 3208031,
-  "name": "PASIRAGUNG"
+  "districtName": "HANTARA",
+  "name": "PASIRAGUNG",
+  "postalCode": "45564"
  },
  {
   "id": 3208031006,
   "districtId": 3208031,
-  "name": "CITAPEN"
+  "districtName": "HANTARA",
+  "name": "CITAPEN",
+  "postalCode": "16720"
  },
  {
   "id": 3208031007,
   "districtId": 3208031,
-  "name": "PAKAPASAN HILIR"
+  "districtName": "HANTARA",
+  "name": "PAKAPASAN HILIR",
+  "postalCode": "45564"
  },
  {
   "id": 3208031008,
   "districtId": 3208031,
-  "name": "PAKAPASAN GIRANG"
+  "districtName": "HANTARA",
+  "name": "PAKAPASAN GIRANG",
+  "postalCode": "45564"
  }
 ]

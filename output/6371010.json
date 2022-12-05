@@ -2,61 +2,85 @@
  {
   "id": 6371010001,
   "districtId": 6371010,
-  "name": "MANTUIL"
+  "districtName": "BANJARMASIN SELATAN",
+  "name": "MANTUIL",
+  "postalCode": "70244"
  },
  {
   "id": 6371010003,
   "districtId": 6371010,
-  "name": "KELAYAN SELATAN"
+  "districtName": "BANJARMASIN SELATAN",
+  "name": "KELAYAN SELATAN",
+  "postalCode": "70246"
  },
  {
   "id": 6371010004,
   "districtId": 6371010,
-  "name": "KELAYAN TIMUR"
+  "districtName": "BANJARMASIN SELATAN",
+  "name": "KELAYAN TIMUR",
+  "postalCode": "70247"
  },
  {
   "id": 6371010005,
   "districtId": 6371010,
-  "name": "TANJUNG PAGAR"
+  "districtName": "BANJARMASIN SELATAN",
+  "name": "TANJUNG PAGAR",
+  "postalCode": "70247"
  },
  {
   "id": 6371010006,
   "districtId": 6371010,
-  "name": "PEMURUS DALAM"
+  "districtName": "BANJARMASIN SELATAN",
+  "name": "PEMURUS DALAM",
+  "postalCode": "70248"
  },
  {
   "id": 6371010008,
   "districtId": 6371010,
-  "name": "PEMURUS BARU"
+  "districtName": "BANJARMASIN SELATAN",
+  "name": "PEMURUS BARU",
+  "postalCode": "70249"
  },
  {
   "id": 6371010009,
   "districtId": 6371010,
-  "name": "MURUNG RAYA"
+  "districtName": "BANJARMASIN SELATAN",
+  "name": "MURUNG RAYA",
+  "postalCode": "70513"
  },
  {
   "id": 6371010010,
   "districtId": 6371010,
-  "name": "KELAYAN DALAM"
+  "districtName": "BANJARMASIN SELATAN",
+  "name": "KELAYAN DALAM",
+  "postalCode": "70242"
  },
  {
   "id": 6371010011,
   "districtId": 6371010,
-  "name": "KELAYAN TENGAH"
+  "districtName": "BANJARMASIN SELATAN",
+  "name": "KELAYAN TENGAH",
+  "postalCode": "70242"
  },
  {
   "id": 6371010012,
   "districtId": 6371010,
-  "name": "PEKAUMAN"
+  "districtName": "BANJARMASIN SELATAN",
+  "name": "PEKAUMAN",
+  "postalCode": "52255"
  },
  {
   "id": 6371010013,
   "districtId": 6371010,
-  "name": "KELAYAN BARAT"
+  "districtName": "BANJARMASIN SELATAN",
+  "name": "KELAYAN BARAT",
+  "postalCode": "70241"
  },
  {
   "id": 6371010014,
   "districtId": 6371010,
-  "name": "BASIRIH SELATAN"
+  "districtName": "BANJARMASIN SELATAN",
+  "name": "BASIRIH SELATAN",
+  "postalCode": "70245"
  }
 ]

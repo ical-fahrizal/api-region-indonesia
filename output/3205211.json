@@ -2,36 +2,50 @@
  {
   "id": 3205211001,
   "districtId": 3205211,
-  "name": "LINGGAMUKTI"
+  "districtName": "SUCINARAJA",
+  "name": "LINGGAMUKTI",
+  "postalCode": "41163"
  },
  {
   "id": 3205211002,
   "districtId": 3205211,
-  "name": "SUKALAKSANA"
+  "districtName": "SUCINARAJA",
+  "name": "SUKALAKSANA",
+  "postalCode": "44191"
  },
  {
   "id": 3205211003,
   "districtId": 3205211,
-  "name": "CIGADOG"
+  "districtName": "SUCINARAJA",
+  "name": "CIGADOG",
+  "postalCode": "44177"
  },
  {
   "id": 3205211004,
   "districtId": 3205211,
-  "name": "TENJONAGARA"
+  "districtName": "SUCINARAJA",
+  "name": "TENJONAGARA",
+  "postalCode": "46463"
  },
  {
   "id": 3205211005,
   "districtId": 3205211,
-  "name": "SUKARATU"
+  "districtName": "SUCINARAJA",
+  "name": "SUKARATU",
+  "postalCode": "35551"
  },
  {
   "id": 3205211006,
   "districtId": 3205211,
-  "name": "TEGALPANJANG"
+  "districtName": "SUCINARAJA",
+  "name": "TEGALPANJANG",
+  "postalCode": "43193"
  },
  {
   "id": 3205211007,
   "districtId": 3205211,
-  "name": "SADANG"
+  "districtName": "SUCINARAJA",
+  "name": "SADANG",
+  "postalCode": "44115"
  }
 ]

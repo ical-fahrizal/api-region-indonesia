@@ -2,31 +2,43 @@
  {
   "id": 1376011001,
   "districtId": 1376011,
-  "name": "BALAI PANJANG"
+  "districtName": "PAYAKUMBUH SELATAN",
+  "name": "BALAI PANJANG",
+  "postalCode": "26262"
  },
  {
   "id": 1376011002,
   "districtId": 1376011,
-  "name": "LIMBUKAN"
+  "districtName": "PAYAKUMBUH SELATAN",
+  "name": "LIMBUKAN",
+  "postalCode": "26227"
  },
  {
   "id": 1376011004,
   "districtId": 1376011,
-  "name": "PADANG KARAMBIA"
+  "districtName": "PAYAKUMBUH SELATAN",
+  "name": "PADANG KARAMBIA",
+  "postalCode": ""
  },
  {
   "id": 1376011010,
   "districtId": 1376011,
-  "name": "KOTOTUO LIMOKAMPUANG"
+  "districtName": "PAYAKUMBUH SELATAN",
+  "name": "KOTOTUO LIMOKAMPUANG",
+  "postalCode": ""
  },
  {
   "id": 1376011011,
   "districtId": 1376011,
-  "name": "KAPALO KOTO AMPANGAN"
+  "districtName": "PAYAKUMBUH SELATAN",
+  "name": "KAPALO KOTO AMPANGAN",
+  "postalCode": ""
  },
  {
   "id": 1376011012,
   "districtId": 1376011,
-  "name": "SAWAHPADANG AUA KUNIANG"
+  "districtName": "PAYAKUMBUH SELATAN",
+  "name": "SAWAHPADANG AUA KUNIANG",
+  "postalCode": ""
  }
 ]

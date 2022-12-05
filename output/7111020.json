@@ -2,51 +2,71 @@
  {
   "id": 7111020001,
   "districtId": 7111020,
-  "name": "DODAP"
+  "districtName": "TUTUYAN",
+  "name": "DODAP",
+  "postalCode": "95782"
  },
  {
   "id": 7111020002,
   "districtId": 7111020,
-  "name": "DODAP PANTAI"
+  "districtName": "TUTUYAN",
+  "name": "DODAP PANTAI",
+  "postalCode": "95782"
  },
  {
   "id": 7111020003,
   "districtId": 7111020,
-  "name": "TOGID"
+  "districtName": "TUTUYAN",
+  "name": "TOGID",
+  "postalCode": "95782"
  },
  {
   "id": 7111020004,
   "districtId": 7111020,
-  "name": "TUTUYAN II"
+  "districtName": "TUTUYAN",
+  "name": "TUTUYAN II",
+  "postalCode": "95782"
  },
  {
   "id": 7111020005,
   "districtId": 7111020,
-  "name": "TUTUYAN"
+  "districtName": "TUTUYAN",
+  "name": "TUTUYAN",
+  "postalCode": "95782"
  },
  {
   "id": 7111020006,
   "districtId": 7111020,
-  "name": "TUTUYAN III"
+  "districtName": "TUTUYAN",
+  "name": "TUTUYAN III",
+  "postalCode": "95782"
  },
  {
   "id": 7111020007,
   "districtId": 7111020,
-  "name": "TOMBOLIKAT SELATAN"
+  "districtName": "TUTUYAN",
+  "name": "TOMBOLIKAT SELATAN",
+  "postalCode": "95782"
  },
  {
   "id": 7111020008,
   "districtId": 7111020,
-  "name": "TOMBOLIKAT"
+  "districtName": "TUTUYAN",
+  "name": "TOMBOLIKAT",
+  "postalCode": "95782"
  },
  {
   "id": 7111020009,
   "districtId": 7111020,
-  "name": "KAYUMOYONDI"
+  "districtName": "TUTUYAN",
+  "name": "KAYUMOYONDI",
+  "postalCode": "95782"
  },
  {
   "id": 7111020010,
   "districtId": 7111020,
-  "name": "DODAP MIKASA"
+  "districtName": "TUTUYAN",
+  "name": "DODAP MIKASA",
+  "postalCode": ""
  }
 ]

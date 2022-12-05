@@ -2,51 +2,71 @@
  {
   "id": 3201161001,
   "districtId": 3201161,
-  "name": "CIBADAK"
+  "districtName": "TANJUNGSARI",
+  "name": "CIBADAK",
+  "postalCode": "40241"
  },
  {
   "id": 3201161002,
   "districtId": 3201161,
-  "name": "TANJUNG SARI"
+  "districtName": "TANJUNGSARI",
+  "name": "TANJUNG SARI",
+  "postalCode": "24673"
  },
  {
   "id": 3201161003,
   "districtId": 3201161,
-  "name": "SINARSARI"
+  "districtName": "TANJUNGSARI",
+  "name": "SINARSARI",
+  "postalCode": ""
  },
  {
   "id": 3201161004,
   "districtId": 3201161,
-  "name": "SINARRASA"
+  "districtName": "TANJUNGSARI",
+  "name": "SINARRASA",
+  "postalCode": ""
  },
  {
   "id": 3201161005,
   "districtId": 3201161,
-  "name": "BUANAJAYA"
+  "districtName": "TANJUNGSARI",
+  "name": "BUANAJAYA",
+  "postalCode": "16840"
  },
  {
   "id": 3201161006,
   "districtId": 3201161,
-  "name": "ANTAJAYA"
+  "districtName": "TANJUNGSARI",
+  "name": "ANTAJAYA",
+  "postalCode": "16840"
  },
  {
   "id": 3201161007,
   "districtId": 3201161,
-  "name": "PASIR TANJUNG"
+  "districtName": "TANJUNGSARI",
+  "name": "PASIR TANJUNG",
+  "postalCode": "16840"
  },
  {
   "id": 3201161008,
   "districtId": 3201161,
-  "name": "TANJUNG RASA"
+  "districtName": "TANJUNGSARI",
+  "name": "TANJUNG RASA",
+  "postalCode": ""
  },
  {
   "id": 3201161009,
   "districtId": 3201161,
-  "name": "SUKARASA"
+  "districtName": "TANJUNGSARI",
+  "name": "SUKARASA",
+  "postalCode": "45562"
  },
  {
   "id": 3201161010,
   "districtId": 3201161,
-  "name": "SELAWANGI"
+  "districtName": "TANJUNGSARI",
+  "name": "SELAWANGI",
+  "postalCode": "46465"
  }
 ]

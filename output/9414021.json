@@ -2,36 +2,50 @@
  {
   "id": 9414021002,
   "districtId": 9414021,
-  "name": "SAHAPIKIA"
+  "districtName": "VENAHA",
+  "name": "SAHAPIKIA",
+  "postalCode": ""
  },
  {
   "id": 9414021006,
   "districtId": 9414021,
-  "name": "YIBIN"
+  "districtName": "VENAHA",
+  "name": "YIBIN",
+  "postalCode": "99853"
  },
  {
   "id": 9414021007,
   "districtId": 9414021,
-  "name": "HARAPAN"
+  "districtName": "VENAHA",
+  "name": "HARAPAN",
+  "postalCode": "22253"
  },
  {
   "id": 9414021008,
   "districtId": 9414021,
-  "name": "PIES"
+  "districtName": "VENAHA",
+  "name": "PIES",
+  "postalCode": ""
  },
  {
   "id": 9414021010,
   "districtId": 9414021,
-  "name": "MOPIO"
+  "districtName": "VENAHA",
+  "name": "MOPIO",
+  "postalCode": "99853"
  },
  {
   "id": 9414021011,
   "districtId": 9414021,
-  "name": "SIEN"
+  "districtName": "VENAHA",
+  "name": "SIEN",
+  "postalCode": "99586"
  },
  {
   "id": 9414021014,
   "districtId": 9414021,
-  "name": "GETIYO"
+  "districtName": "VENAHA",
+  "name": "GETIYO",
+  "postalCode": "99853"
  }
 ]

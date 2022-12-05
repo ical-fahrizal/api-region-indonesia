@@ -2,41 +2,57 @@
  {
   "id": 9428050001,
   "districtId": 9428050,
-  "name": "DANAU BIRA"
+  "districtName": "MAMBERAMO TENGAH",
+  "name": "DANAU BIRA",
+  "postalCode": "99376"
  },
  {
   "id": 9428050002,
   "districtId": 9428050,
-  "name": "BURMESO"
+  "districtName": "MAMBERAMO TENGAH",
+  "name": "BURMESO",
+  "postalCode": "99376"
  },
  {
   "id": 9428050004,
   "districtId": 9428050,
-  "name": "KASONAWEJA"
+  "districtName": "MAMBERAMO TENGAH",
+  "name": "KASONAWEJA",
+  "postalCode": "99376"
  },
  {
   "id": 9428050005,
   "districtId": 9428050,
-  "name": "NAMUNAWEJA"
+  "districtName": "MAMBERAMO TENGAH",
+  "name": "NAMUNAWEJA",
+  "postalCode": "99376"
  },
  {
   "id": 9428050006,
   "districtId": 9428050,
-  "name": "ANGGRESO"
+  "districtName": "MAMBERAMO TENGAH",
+  "name": "ANGGRESO",
+  "postalCode": "99376"
  },
  {
   "id": 9428050011,
   "districtId": 9428050,
-  "name": "MARINE VALEN"
+  "districtName": "MAMBERAMO TENGAH",
+  "name": "MARINE VALEN",
+  "postalCode": ""
  },
  {
   "id": 9428050017,
   "districtId": 9428050,
-  "name": "KWERBA"
+  "districtName": "MAMBERAMO TENGAH",
+  "name": "KWERBA",
+  "postalCode": "99376"
  },
  {
   "id": 9428050018,
   "districtId": 9428050,
-  "name": "MUARAMAREI"
+  "districtName": "MAMBERAMO TENGAH",
+  "name": "MUARAMAREI",
+  "postalCode": ""
  }
 ]

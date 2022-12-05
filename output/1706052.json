@@ -2,51 +2,71 @@
  {
   "id": 1706052001,
   "districtId": 1706052,
-  "name": "PONDOK TENGAH"
+  "districtName": "V KOTO",
+  "name": "PONDOK TENGAH",
+  "postalCode": "20986"
  },
  {
   "id": 1706052002,
   "districtId": 1706052,
-  "name": "SUNGAI LINTANG"
+  "districtName": "V KOTO",
+  "name": "SUNGAI LINTANG",
+  "postalCode": "37163"
  },
  {
   "id": 1706052003,
   "districtId": 1706052,
-  "name": "TALANG PETAI"
+  "districtName": "V KOTO",
+  "name": "TALANG PETAI",
+  "postalCode": "38767"
  },
  {
   "id": 1706052004,
   "districtId": 1706052,
-  "name": "LALANG LUAS"
+  "districtName": "V KOTO",
+  "name": "LALANG LUAS",
+  "postalCode": "38767"
  },
  {
   "id": 1706052005,
   "districtId": 1706052,
-  "name": "RASNO"
+  "districtName": "V KOTO",
+  "name": "RASNO",
+  "postalCode": "38767"
  },
  {
   "id": 1706052006,
   "districtId": 1706052,
-  "name": "PONDOK PANJANG"
+  "districtName": "V KOTO",
+  "name": "PONDOK PANJANG",
+  "postalCode": "38767"
  },
  {
   "id": 1706052007,
   "districtId": 1706052,
-  "name": "TALANG SAKTI"
+  "districtName": "V KOTO",
+  "name": "TALANG SAKTI",
+  "postalCode": "39263"
  },
  {
   "id": 1706052008,
   "districtId": 1706052,
-  "name": "TALANG SEPAKAT"
+  "districtName": "V KOTO",
+  "name": "TALANG SEPAKAT",
+  "postalCode": "38767"
  },
  {
   "id": 1706052009,
   "districtId": 1706052,
-  "name": "LUBUK CABAU"
+  "districtName": "V KOTO",
+  "name": "LUBUK CABAU",
+  "postalCode": "38767"
  },
  {
   "id": 1706052010,
   "districtId": 1706052,
-  "name": "SUNGAI RENGAS"
+  "districtName": "V KOTO",
+  "name": "SUNGAI RENGAS",
+  "postalCode": "38767"
  }
 ]

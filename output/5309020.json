@@ -2,81 +2,113 @@
  {
   "id": 5309020008,
   "districtId": 5309020,
-  "name": "KOLAKA"
+  "districtName": "TANJUNG BUNGA",
+  "name": "KOLAKA",
+  "postalCode": "86252"
  },
  {
   "id": 5309020009,
   "districtId": 5309020,
-  "name": "LEWOBUNGA"
+  "districtName": "TANJUNG BUNGA",
+  "name": "LEWOBUNGA",
+  "postalCode": "86261"
  },
  {
   "id": 5309020010,
   "districtId": 5309020,
-  "name": "SINAMALAKA"
+  "districtName": "TANJUNG BUNGA",
+  "name": "SINAMALAKA",
+  "postalCode": "86252"
  },
  {
   "id": 5309020011,
   "districtId": 5309020,
-  "name": "RATU LODONG"
+  "districtName": "TANJUNG BUNGA",
+  "name": "RATU LODONG",
+  "postalCode": "86252"
  },
  {
   "id": 5309020012,
   "districtId": 5309020,
-  "name": "SINA HADIGALA"
+  "districtName": "TANJUNG BUNGA",
+  "name": "SINA HADIGALA",
+  "postalCode": "86252"
  },
  {
   "id": 5309020013,
   "districtId": 5309020,
-  "name": "BANDONA"
+  "districtName": "TANJUNG BUNGA",
+  "name": "BANDONA",
+  "postalCode": "86252"
  },
  {
   "id": 5309020014,
   "districtId": 5309020,
-  "name": "BAHINGA"
+  "districtName": "TANJUNG BUNGA",
+  "name": "BAHINGA",
+  "postalCode": "86252"
  },
  {
   "id": 5309020015,
   "districtId": 5309020,
-  "name": "WAIBAO"
+  "districtName": "TANJUNG BUNGA",
+  "name": "WAIBAO",
+  "postalCode": "86252"
  },
  {
   "id": 5309020016,
   "districtId": 5309020,
-  "name": "NUSANIPA"
+  "districtName": "TANJUNG BUNGA",
+  "name": "NUSANIPA",
+  "postalCode": "86252"
  },
  {
   "id": 5309020017,
   "districtId": 5309020,
-  "name": "LAMATUTU"
+  "districtName": "TANJUNG BUNGA",
+  "name": "LAMATUTU",
+  "postalCode": "86252"
  },
  {
   "id": 5309020018,
   "districtId": 5309020,
-  "name": "LATON LIWO"
+  "districtName": "TANJUNG BUNGA",
+  "name": "LATON LIWO",
+  "postalCode": "86252"
  },
  {
   "id": 5309020019,
   "districtId": 5309020,
-  "name": "PATISIRAWALANG"
+  "districtName": "TANJUNG BUNGA",
+  "name": "PATISIRAWALANG",
+  "postalCode": "86252"
  },
  {
   "id": 5309020020,
   "districtId": 5309020,
-  "name": "GEKENG DERAN"
+  "districtName": "TANJUNG BUNGA",
+  "name": "GEKENG DERAN",
+  "postalCode": ""
  },
  {
   "id": 5309020021,
   "districtId": 5309020,
-  "name": "ARAN SINA"
+  "districtName": "TANJUNG BUNGA",
+  "name": "ARAN SINA",
+  "postalCode": ""
  },
  {
   "id": 5309020022,
   "districtId": 5309020,
-  "name": "LAMANABI"
+  "districtName": "TANJUNG BUNGA",
+  "name": "LAMANABI",
+  "postalCode": "86252"
  },
  {
   "id": 5309020023,
   "districtId": 5309020,
-  "name": "LATON LIWO II"
+  "districtName": "TANJUNG BUNGA",
+  "name": "LATON LIWO II",
+  "postalCode": ""
  }
 ]

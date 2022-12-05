@@ -2,21 +2,29 @@
  {
   "id": 6404040012,
   "districtId": 6404040,
-  "name": "SANGATTA UTARA"
+  "districtName": "SANGATTA UTARA",
+  "name": "SANGATTA UTARA",
+  "postalCode": "75683"
  },
  {
   "id": 6404040016,
   "districtId": 6404040,
-  "name": "TELUK LINGGA"
+  "districtName": "SANGATTA UTARA",
+  "name": "TELUK LINGGA",
+  "postalCode": "75683"
  },
  {
   "id": 6404040017,
   "districtId": 6404040,
-  "name": "SINGA GEMBARA"
+  "districtName": "SANGATTA UTARA",
+  "name": "SINGA GEMBARA",
+  "postalCode": "75683"
  },
  {
   "id": 6404040018,
   "districtId": 6404040,
-  "name": "SWARGA BARA"
+  "districtName": "SANGATTA UTARA",
+  "name": "SWARGA BARA",
+  "postalCode": "75683"
  }
 ]

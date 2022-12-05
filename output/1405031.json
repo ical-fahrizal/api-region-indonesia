@@ -2,51 +2,71 @@
  {
   "id": 1405031001,
   "districtId": 1405031,
-  "name": "JAYA PURA"
+  "districtName": "BUNGA RAYA",
+  "name": "JAYA PURA",
+  "postalCode": "28763"
  },
  {
   "id": 1405031007,
   "districtId": 1405031,
-  "name": "BUNGA RAYA"
+  "districtName": "BUNGA RAYA",
+  "name": "BUNGA RAYA",
+  "postalCode": "28763"
  },
  {
   "id": 1405031008,
   "districtId": 1405031,
-  "name": "JATI BARU"
+  "districtName": "BUNGA RAYA",
+  "name": "JATI BARU",
+  "postalCode": "25129"
  },
  {
   "id": 1405031011,
   "districtId": 1405031,
-  "name": "BUANTAN LESTARI"
+  "districtName": "BUNGA RAYA",
+  "name": "BUANTAN LESTARI",
+  "postalCode": ""
  },
  {
   "id": 1405031012,
   "districtId": 1405031,
-  "name": "TUAH INDRAPURA"
+  "districtName": "BUNGA RAYA",
+  "name": "TUAH INDRAPURA",
+  "postalCode": "28763"
  },
  {
   "id": 1405031013,
   "districtId": 1405031,
-  "name": "KEMUNING MUDA"
+  "districtName": "BUNGA RAYA",
+  "name": "KEMUNING MUDA",
+  "postalCode": "28763"
  },
  {
   "id": 1405031014,
   "districtId": 1405031,
-  "name": "LANGSAT PERMAI"
+  "districtName": "BUNGA RAYA",
+  "name": "LANGSAT PERMAI",
+  "postalCode": "28763"
  },
  {
   "id": 1405031015,
   "districtId": 1405031,
-  "name": "SUAK MERAMBAI"
+  "districtName": "BUNGA RAYA",
+  "name": "SUAK MERAMBAI",
+  "postalCode": "28763"
  },
  {
   "id": 1405031016,
   "districtId": 1405031,
-  "name": "DAYANG SURI"
+  "districtName": "BUNGA RAYA",
+  "name": "DAYANG SURI",
+  "postalCode": ""
  },
  {
   "id": 1405031017,
   "districtId": 1405031,
-  "name": "TEMUSAI"
+  "districtName": "BUNGA RAYA",
+  "name": "TEMUSAI",
+  "postalCode": "28763"
  }
 ]

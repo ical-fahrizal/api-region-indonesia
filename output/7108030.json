@@ -2,66 +2,92 @@
  {
   "id": 7108030005,
   "districtId": 7108030,
-  "name": "LAINGPATEHI"
+  "districtName": "TAGULANDANG",
+  "name": "LAINGPATEHI",
+  "postalCode": "95863"
  },
  {
   "id": 7108030007,
   "districtId": 7108030,
-  "name": "BAHOI"
+  "districtName": "TAGULANDANG",
+  "name": "BAHOI",
+  "postalCode": "95377"
  },
  {
   "id": 7108030008,
   "districtId": 7108030,
-  "name": "MAHANGIANG"
+  "districtName": "TAGULANDANG",
+  "name": "MAHANGIANG",
+  "postalCode": "95863"
  },
  {
   "id": 7108030009,
   "districtId": 7108030,
-  "name": "TULUSAN"
+  "districtName": "TAGULANDANG",
+  "name": "TULUSAN",
+  "postalCode": ""
  },
  {
   "id": 7108030010,
   "districtId": 7108030,
-  "name": "HAASI"
+  "districtName": "TAGULANDANG",
+  "name": "HAASI",
+  "postalCode": "95863"
  },
  {
   "id": 7108030021,
   "districtId": 7108030,
-  "name": "BOTO"
+  "districtName": "TAGULANDANG",
+  "name": "BOTO",
+  "postalCode": "50182"
  },
  {
   "id": 7108030022,
   "districtId": 7108030,
-  "name": "BALEHUMARA"
+  "districtName": "TAGULANDANG",
+  "name": "BALEHUMARA",
+  "postalCode": "95863"
  },
  {
   "id": 7108030023,
   "districtId": 7108030,
-  "name": "LESAH"
+  "districtName": "TAGULANDANG",
+  "name": "LESAH",
+  "postalCode": "95863"
  },
  {
   "id": 7108030025,
   "districtId": 7108030,
-  "name": "MOHONSAWANG"
+  "districtName": "TAGULANDANG",
+  "name": "MOHONSAWANG",
+  "postalCode": "95863"
  },
  {
   "id": 7108030026,
   "districtId": 7108030,
-  "name": "APENGSALA"
+  "districtName": "TAGULANDANG",
+  "name": "APENGSALA",
+  "postalCode": "95863"
  },
  {
   "id": 7108030027,
   "districtId": 7108030,
-  "name": "LESAH RENDE"
+  "districtName": "TAGULANDANG",
+  "name": "LESAH RENDE",
+  "postalCode": "95863"
  },
  {
   "id": 7108030028,
   "districtId": 7108030,
-  "name": "BARANGKAA PEHE"
+  "districtName": "TAGULANDANG",
+  "name": "BARANGKAA PEHE",
+  "postalCode": ""
  },
  {
   "id": 7108030029,
   "districtId": 7108030,
-  "name": "PAHIAMA"
+  "districtName": "TAGULANDANG",
+  "name": "PAHIAMA",
+  "postalCode": "95863"
  }
 ]

@@ -2,66 +2,92 @@
  {
   "id": 3603200001,
   "districtId": 3603200,
-  "name": "BOJONG RENGED"
+  "districtName": "TELUKNAGA",
+  "name": "BOJONG RENGED",
+  "postalCode": "15510"
  },
  {
   "id": 3603200002,
   "districtId": 3603200,
-  "name": "KEBON CAU"
+  "districtName": "TELUKNAGA",
+  "name": "KEBON CAU",
+  "postalCode": "45383"
  },
  {
   "id": 3603200003,
   "districtId": 3603200,
-  "name": "TELUK NAGA"
+  "districtName": "TELUKNAGA",
+  "name": "TELUK NAGA",
+  "postalCode": "15510"
  },
  {
   "id": 3603200004,
   "districtId": 3603200,
-  "name": "BABAKAN ASEM"
+  "districtName": "TELUKNAGA",
+  "name": "BABAKAN ASEM",
+  "postalCode": "45391"
  },
  {
   "id": 3603200005,
   "districtId": 3603200,
-  "name": "KAMPUNG MELAYU TIMUR"
+  "districtName": "TELUKNAGA",
+  "name": "KAMPUNG MELAYU TIMUR",
+  "postalCode": "15510"
  },
  {
   "id": 3603200006,
   "districtId": 3603200,
-  "name": "KAMPUNG MELAYU BARAT"
+  "districtName": "TELUKNAGA",
+  "name": "KAMPUNG MELAYU BARAT",
+  "postalCode": "15510"
  },
  {
   "id": 3603200007,
   "districtId": 3603200,
-  "name": "KAMPUNG BESAR"
+  "districtName": "TELUKNAGA",
+  "name": "KAMPUNG BESAR",
+  "postalCode": "15510"
  },
  {
   "id": 3603200008,
   "districtId": 3603200,
-  "name": "L E M O"
+  "districtName": "TELUKNAGA",
+  "name": "L E M O",
+  "postalCode": ""
  },
  {
   "id": 3603200009,
   "districtId": 3603200,
-  "name": "TEGAL ANGUS"
+  "districtName": "TELUKNAGA",
+  "name": "TEGAL ANGUS",
+  "postalCode": "15510"
  },
  {
   "id": 3603200010,
   "districtId": 3603200,
-  "name": "PANGKALAN"
+  "districtName": "TELUKNAGA",
+  "name": "PANGKALAN",
+  "postalCode": "24477"
  },
  {
   "id": 3603200011,
   "districtId": 3603200,
-  "name": "TANJUNG BURUNG"
+  "districtName": "TELUKNAGA",
+  "name": "TANJUNG BURUNG",
+  "postalCode": "15510"
  },
  {
   "id": 3603200012,
   "districtId": 3603200,
-  "name": "TANJUNG PASIR"
+  "districtName": "TELUKNAGA",
+  "name": "TANJUNG PASIR",
+  "postalCode": "21457"
  },
  {
   "id": 3603200013,
   "districtId": 3603200,
-  "name": "MUARA"
+  "districtName": "TELUKNAGA",
+  "name": "MUARA",
+  "postalCode": "41259"
  }
 ]

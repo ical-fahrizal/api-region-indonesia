@@ -2,56 +2,78 @@
  {
   "id": 6108120001,
   "districtId": 6108120,
-  "name": "PERMATA"
+  "districtName": "PENGKADAN",
+  "name": "PERMATA",
+  "postalCode": "78392"
  },
  {
   "id": 6108120002,
   "districtId": 6108120,
-  "name": "MARTA DANA"
+  "districtName": "PENGKADAN",
+  "name": "MARTA DANA",
+  "postalCode": ""
  },
  {
   "id": 6108120003,
   "districtId": 6108120,
-  "name": "RIAM PANJANG"
+  "districtName": "PENGKADAN",
+  "name": "RIAM PANJANG",
+  "postalCode": "78694"
  },
  {
   "id": 6108120004,
   "districtId": 6108120,
-  "name": "BUAK LIMBANG"
+  "districtName": "PENGKADAN",
+  "name": "BUAK LIMBANG",
+  "postalCode": "78759"
  },
  {
   "id": 6108120005,
   "districtId": 6108120,
-  "name": "MAWAN"
+  "districtName": "PENGKADAN",
+  "name": "MAWAN",
+  "postalCode": "78759"
  },
  {
   "id": 6108120006,
   "districtId": 6108120,
-  "name": "KERANGAN PANJANG"
+  "districtName": "PENGKADAN",
+  "name": "KERANGAN PANJANG",
+  "postalCode": "78759"
  },
  {
   "id": 6108120007,
   "districtId": 6108120,
-  "name": "HULU PENGKADAN"
+  "districtName": "PENGKADAN",
+  "name": "HULU PENGKADAN",
+  "postalCode": "78759"
  },
  {
   "id": 6108120008,
   "districtId": 6108120,
-  "name": "PINANG LAKA"
+  "districtName": "PENGKADAN",
+  "name": "PINANG LAKA",
+  "postalCode": "78759"
  },
  {
   "id": 6108120009,
   "districtId": 6108120,
-  "name": "SASAN"
+  "districtName": "PENGKADAN",
+  "name": "SASAN",
+  "postalCode": "78759"
  },
  {
   "id": 6108120010,
   "districtId": 6108120,
-  "name": "PENGKADAN HILIR"
+  "districtName": "PENGKADAN",
+  "name": "PENGKADAN HILIR",
+  "postalCode": "78759"
  },
  {
   "id": 6108120011,
   "districtId": 6108120,
-  "name": "SIRA JAYA"
+  "districtName": "PENGKADAN",
+  "name": "SIRA JAYA",
+  "postalCode": "78759"
  }
 ]

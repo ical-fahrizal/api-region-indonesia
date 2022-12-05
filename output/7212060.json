@@ -2,51 +2,71 @@
  {
   "id": 7212060001,
   "districtId": 7212060,
-  "name": "MOLEONO"
+  "districtName": "PETASIA BARAT",
+  "name": "MOLEONO",
+  "postalCode": "94971"
  },
  {
   "id": 7212060002,
   "districtId": 7212060,
-  "name": "ONEPUTE"
+  "districtName": "PETASIA BARAT",
+  "name": "ONEPUTE",
+  "postalCode": "94971"
  },
  {
   "id": 7212060003,
   "districtId": 7212060,
-  "name": "MONDOWE"
+  "districtName": "PETASIA BARAT",
+  "name": "MONDOWE",
+  "postalCode": "94971"
  },
  {
   "id": 7212060004,
   "districtId": 7212060,
-  "name": "TADAKU JAYA"
+  "districtName": "PETASIA BARAT",
+  "name": "TADAKU JAYA",
+  "postalCode": "94971"
  },
  {
   "id": 7212060005,
   "districtId": 7212060,
-  "name": "SAMPALOWO"
+  "districtName": "PETASIA BARAT",
+  "name": "SAMPALOWO",
+  "postalCode": "94971"
  },
  {
   "id": 7212060006,
   "districtId": 7212060,
-  "name": "MARALEE"
+  "districtName": "PETASIA BARAT",
+  "name": "MARALEE",
+  "postalCode": "94971"
  },
  {
   "id": 7212060007,
   "districtId": 7212060,
-  "name": "TOGO MULYO"
+  "districtName": "PETASIA BARAT",
+  "name": "TOGO MULYO",
+  "postalCode": "94971"
  },
  {
   "id": 7212060008,
   "districtId": 7212060,
-  "name": "TIU"
+  "districtName": "PETASIA BARAT",
+  "name": "TIU",
+  "postalCode": "94663"
  },
  {
   "id": 7212060009,
   "districtId": 7212060,
-  "name": "ULU LAA"
+  "districtName": "PETASIA BARAT",
+  "name": "ULU LAA",
+  "postalCode": "94971"
  },
  {
   "id": 7212060010,
   "districtId": 7212060,
-  "name": "TONTOWEA"
+  "districtName": "PETASIA BARAT",
+  "name": "TONTOWEA",
+  "postalCode": "94971"
  }
 ]

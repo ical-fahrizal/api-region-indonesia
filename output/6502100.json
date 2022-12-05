@@ -2,16 +2,22 @@
  {
   "id": 6502100001,
   "districtId": 6502100,
-  "name": "BUNYU BARAT"
+  "districtName": "BUNYU",
+  "name": "BUNYU BARAT",
+  "postalCode": ""
  },
  {
   "id": 6502100002,
   "districtId": 6502100,
-  "name": "BUNYU SELATAN"
+  "districtName": "BUNYU",
+  "name": "BUNYU SELATAN",
+  "postalCode": ""
  },
  {
   "id": 6502100003,
   "districtId": 6502100,
-  "name": "BUNYU TIMUR"
+  "districtName": "BUNYU",
+  "name": "BUNYU TIMUR",
+  "postalCode": ""
  }
 ]

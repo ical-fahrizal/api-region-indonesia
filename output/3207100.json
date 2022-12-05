@@ -2,61 +2,85 @@
  {
   "id": 3207100009,
   "districtId": 3207100,
-  "name": "SUKASARI"
+  "districtName": "BANJARSARI",
+  "name": "SUKASARI",
+  "postalCode": "20986"
  },
  {
   "id": 3207100011,
   "districtId": 3207100,
-  "name": "KAWASEN"
+  "districtName": "BANJARSARI",
+  "name": "KAWASEN",
+  "postalCode": "46383"
  },
  {
   "id": 3207100012,
   "districtId": 3207100,
-  "name": "CIBADAK"
+  "districtName": "BANJARSARI",
+  "name": "CIBADAK",
+  "postalCode": "40241"
  },
  {
   "id": 3207100013,
   "districtId": 3207100,
-  "name": "BANJARSARI"
+  "districtName": "BANJARSARI",
+  "name": "BANJARSARI",
+  "postalCode": "35377"
  },
  {
   "id": 3207100014,
   "districtId": 3207100,
-  "name": "SINDANGSARI"
+  "districtName": "BANJARSARI",
+  "name": "SINDANGSARI",
+  "postalCode": "46383"
  },
  {
   "id": 3207100015,
   "districtId": 3207100,
-  "name": "SINDANGHAYU"
+  "districtName": "BANJARSARI",
+  "name": "SINDANGHAYU",
+  "postalCode": "46383"
  },
  {
   "id": 3207100016,
   "districtId": 3207100,
-  "name": "SINDANGASIH"
+  "districtName": "BANJARSARI",
+  "name": "SINDANGASIH",
+  "postalCode": "46383"
  },
  {
   "id": 3207100017,
   "districtId": 3207100,
-  "name": "PURWASARI"
+  "districtName": "BANJARSARI",
+  "name": "PURWASARI",
+  "postalCode": "37252"
  },
  {
   "id": 3207100018,
   "districtId": 3207100,
-  "name": "CIHERANG"
+  "districtName": "BANJARSARI",
+  "name": "CIHERANG",
+  "postalCode": "35379"
  },
  {
   "id": 3207100019,
   "districtId": 3207100,
-  "name": "RATAWANGI"
+  "districtName": "BANJARSARI",
+  "name": "RATAWANGI",
+  "postalCode": "46383"
  },
  {
   "id": 3207100020,
   "districtId": 3207100,
-  "name": "CICAPAR"
+  "districtName": "BANJARSARI",
+  "name": "CICAPAR",
+  "postalCode": "46383"
  },
  {
   "id": 3207100021,
   "districtId": 3207100,
-  "name": "CIULU"
+  "districtName": "BANJARSARI",
+  "name": "CIULU",
+  "postalCode": "46383"
  }
 ]

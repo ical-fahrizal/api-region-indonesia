@@ -2,51 +2,71 @@
  {
   "id": 7203021002,
   "districtId": 7203021,
-  "name": "PADABAHO"
+  "districtName": "BAHODOPI",
+  "name": "PADABAHO",
+  "postalCode": "94974"
  },
  {
   "id": 7203021003,
   "districtId": 7203021,
-  "name": "MAKARTI JAYA"
+  "districtName": "BAHODOPI",
+  "name": "MAKARTI JAYA",
+  "postalCode": "23662"
  },
  {
   "id": 7203021004,
   "districtId": 7203021,
-  "name": "LABOTA"
+  "districtName": "BAHODOPI",
+  "name": "LABOTA",
+  "postalCode": "94974"
  },
  {
   "id": 7203021005,
   "districtId": 7203021,
-  "name": "FATUFIA"
+  "districtName": "BAHODOPI",
+  "name": "FATUFIA",
+  "postalCode": "94974"
  },
  {
   "id": 7203021006,
   "districtId": 7203021,
-  "name": "KEUREA"
+  "districtName": "BAHODOPI",
+  "name": "KEUREA",
+  "postalCode": "94974"
  },
  {
   "id": 7203021007,
   "districtId": 7203021,
-  "name": "BAHOMAKMUR"
+  "districtName": "BAHODOPI",
+  "name": "BAHOMAKMUR",
+  "postalCode": "94974"
  },
  {
   "id": 7203021008,
   "districtId": 7203021,
-  "name": "BAHODOPI"
+  "districtName": "BAHODOPI",
+  "name": "BAHODOPI",
+  "postalCode": "94974"
  },
  {
   "id": 7203021009,
   "districtId": 7203021,
-  "name": "LALAMPU"
+  "districtName": "BAHODOPI",
+  "name": "LALAMPU",
+  "postalCode": "94974"
  },
  {
   "id": 7203021010,
   "districtId": 7203021,
-  "name": "SIUMBATU"
+  "districtName": "BAHODOPI",
+  "name": "SIUMBATU",
+  "postalCode": "94974"
  },
  {
   "id": 7203021011,
   "districtId": 7203021,
-  "name": "DAMPALA"
+  "districtName": "BAHODOPI",
+  "name": "DAMPALA",
+  "postalCode": "94974"
  }
 ]

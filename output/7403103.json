@@ -2,76 +2,106 @@
  {
   "id": 7403103001,
   "districtId": 7403103,
-  "name": "LAMENDORA"
+  "districtName": "KAPOIALA",
+  "name": "LAMENDORA",
+  "postalCode": "93354"
  },
  {
   "id": 7403103002,
   "districtId": 7403103,
-  "name": "KAPOI ALA"
+  "districtName": "KAPOIALA",
+  "name": "KAPOI ALA",
+  "postalCode": ""
  },
  {
   "id": 7403103003,
   "districtId": 7403103,
-  "name": "SAMBARAASI"
+  "districtName": "KAPOIALA",
+  "name": "SAMBARAASI",
+  "postalCode": "93354"
  },
  {
   "id": 7403103004,
   "districtId": 7403103,
-  "name": "LABOTOY"
+  "districtName": "KAPOIALA",
+  "name": "LABOTOY",
+  "postalCode": "93354"
  },
  {
   "id": 7403103005,
   "districtId": 7403103,
-  "name": "PEREOA"
+  "districtName": "KAPOIALA",
+  "name": "PEREOA",
+  "postalCode": ""
  },
  {
   "id": 7403103006,
   "districtId": 7403103,
-  "name": "LALIMBUE"
+  "districtName": "KAPOIALA",
+  "name": "LALIMBUE",
+  "postalCode": "93354"
  },
  {
   "id": 7403103007,
   "districtId": 7403103,
-  "name": "MUARA SAMPARA"
+  "districtName": "KAPOIALA",
+  "name": "MUARA SAMPARA",
+  "postalCode": "93354"
  },
  {
   "id": 7403103008,
   "districtId": 7403103,
-  "name": "ULU LALIMBUE"
+  "districtName": "KAPOIALA",
+  "name": "ULU LALIMBUE",
+  "postalCode": "93354"
  },
  {
   "id": 7403103009,
   "districtId": 7403103,
-  "name": "LALIMBUE JAYA"
+  "districtName": "KAPOIALA",
+  "name": "LALIMBUE JAYA",
+  "postalCode": "93354"
  },
  {
   "id": 7403103010,
   "districtId": 7403103,
-  "name": "TANI INDAH"
+  "districtName": "KAPOIALA",
+  "name": "TANI INDAH",
+  "postalCode": "93354"
  },
  {
   "id": 7403103011,
   "districtId": 7403103,
-  "name": "TOMBAWATU"
+  "districtName": "KAPOIALA",
+  "name": "TOMBAWATU",
+  "postalCode": "93354"
  },
  {
   "id": 7403103012,
   "districtId": 7403103,
-  "name": "KAPOIALA BARU"
+  "districtName": "KAPOIALA",
+  "name": "KAPOIALA BARU",
+  "postalCode": "93354"
  },
  {
   "id": 7403103013,
   "districtId": 7403103,
-  "name": "LABOTOY JAYA"
+  "districtName": "KAPOIALA",
+  "name": "LABOTOY JAYA",
+  "postalCode": ""
  },
  {
   "id": 7403103014,
   "districtId": 7403103,
-  "name": "LALONGGOMUNO"
+  "districtName": "KAPOIALA",
+  "name": "LALONGGOMUNO",
+  "postalCode": ""
  },
  {
   "id": 7403103015,
   "districtId": 7403103,
-  "name": "LABOTA"
+  "districtName": "KAPOIALA",
+  "name": "LABOTA",
+  "postalCode": "94974"
  }
 ]

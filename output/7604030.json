@@ -2,66 +2,92 @@
  {
   "id": 7604030001,
   "districtId": 7604030,
-  "name": "BEBANGA"
+  "districtName": "KALUKKU",
+  "name": "BEBANGA",
+  "postalCode": "91561"
  },
  {
   "id": 7604030002,
   "districtId": 7604030,
-  "name": "SINYONYOI"
+  "districtName": "KALUKKU",
+  "name": "SINYONYOI",
+  "postalCode": "91561"
  },
  {
   "id": 7604030003,
   "districtId": 7604030,
-  "name": "K E A N G"
+  "districtName": "KALUKKU",
+  "name": "K E A N G",
+  "postalCode": ""
  },
  {
   "id": 7604030004,
   "districtId": 7604030,
-  "name": "SONDOANG"
+  "districtName": "KALUKKU",
+  "name": "SONDOANG",
+  "postalCode": "91561"
  },
  {
   "id": 7604030005,
   "districtId": 7604030,
-  "name": "KALUKKU"
+  "districtName": "KALUKKU",
+  "name": "KALUKKU",
+  "postalCode": "91561"
  },
  {
   "id": 7604030007,
   "districtId": 7604030,
-  "name": "KABULOANG"
+  "districtName": "KALUKKU",
+  "name": "KABULOANG",
+  "postalCode": "91561"
  },
  {
   "id": 7604030008,
   "districtId": 7604030,
-  "name": "BELANG-BELANG"
+  "districtName": "KALUKKU",
+  "name": "BELANG-BELANG",
+  "postalCode": "91561"
  },
  {
   "id": 7604030009,
   "districtId": 7604030,
-  "name": "POKKANG"
+  "districtName": "KALUKKU",
+  "name": "POKKANG",
+  "postalCode": "91561"
  },
  {
   "id": 7604030010,
   "districtId": 7604030,
-  "name": "GULILING"
+  "districtName": "KALUKKU",
+  "name": "GULILING",
+  "postalCode": "91561"
  },
  {
   "id": 7604030011,
   "districtId": 7604030,
-  "name": "UHAIMATE"
+  "districtName": "KALUKKU",
+  "name": "UHAIMATE",
+  "postalCode": "91561"
  },
  {
   "id": 7604030012,
   "districtId": 7604030,
-  "name": "KALUKKU BARAT"
+  "districtName": "KALUKKU",
+  "name": "KALUKKU BARAT",
+  "postalCode": "91561"
  },
  {
   "id": 7604030013,
   "districtId": 7604030,
-  "name": "PAMMULUKANG"
+  "districtName": "KALUKKU",
+  "name": "PAMMULUKANG",
+  "postalCode": "91561"
  },
  {
   "id": 7604030014,
   "districtId": 7604030,
-  "name": "SINYONYOI SELATAN"
+  "districtName": "KALUKKU",
+  "name": "SINYONYOI SELATAN",
+  "postalCode": ""
  }
 ]

@@ -2,46 +2,64 @@
  {
   "id": 1674032001,
   "districtId": 1674032,
-  "name": "MESAT JAYA"
+  "districtName": "LUBUK LINGGAU TIMUR II",
+  "name": "MESAT JAYA",
+  "postalCode": "31624"
  },
  {
   "id": 1674032002,
   "districtId": 1674032,
-  "name": "MESAT SENI"
+  "districtName": "LUBUK LINGGAU TIMUR II",
+  "name": "MESAT SENI",
+  "postalCode": "31628"
  },
  {
   "id": 1674032003,
   "districtId": 1674032,
-  "name": "JAWA KANAN"
+  "districtName": "LUBUK LINGGAU TIMUR II",
+  "name": "JAWA KANAN",
+  "postalCode": "31621"
  },
  {
   "id": 1674032004,
   "districtId": 1674032,
-  "name": "JAWA KANAN SS"
+  "districtName": "LUBUK LINGGAU TIMUR II",
+  "name": "JAWA KANAN SS",
+  "postalCode": "31621"
  },
  {
   "id": 1674032005,
   "districtId": 1674032,
-  "name": "JAWA KIRI"
+  "districtName": "LUBUK LINGGAU TIMUR II",
+  "name": "JAWA KIRI",
+  "postalCode": "31622"
  },
  {
   "id": 1674032006,
   "districtId": 1674032,
-  "name": "WIRA KARYA"
+  "districtName": "LUBUK LINGGAU TIMUR II",
+  "name": "WIRA KARYA",
+  "postalCode": "31628"
  },
  {
   "id": 1674032007,
   "districtId": 1674032,
-  "name": "DEMPO"
+  "districtName": "LUBUK LINGGAU TIMUR II",
+  "name": "DEMPO",
+  "postalCode": "31628"
  },
  {
   "id": 1674032008,
   "districtId": 1674032,
-  "name": "KARYA BHAKTI"
+  "districtName": "LUBUK LINGGAU TIMUR II",
+  "name": "KARYA BHAKTI",
+  "postalCode": "79211"
  },
  {
   "id": 1674032009,
   "districtId": 1674032,
-  "name": "CEREME TABA"
+  "districtName": "LUBUK LINGGAU TIMUR II",
+  "name": "CEREME TABA",
+  "postalCode": "31628"
  }
 ]

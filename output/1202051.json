@@ -2,56 +2,78 @@
  {
   "id": 1202051001,
   "districtId": 1202051,
-  "name": "HAYU RAJA"
+  "districtName": "PANYABUNGAN SELATAN",
+  "name": "HAYU RAJA",
+  "postalCode": ""
  },
  {
   "id": 1202051002,
   "districtId": 1202051,
-  "name": "KAYU LAUT"
+  "districtName": "PANYABUNGAN SELATAN",
+  "name": "KAYU LAUT",
+  "postalCode": "22952"
  },
  {
   "id": 1202051003,
   "districtId": 1202051,
-  "name": "TANO BATO"
+  "districtName": "PANYABUNGAN SELATAN",
+  "name": "TANO BATO",
+  "postalCode": "22763"
  },
  {
   "id": 1202051004,
   "districtId": 1202051,
-  "name": "ROBURAN LOMBANG"
+  "districtName": "PANYABUNGAN SELATAN",
+  "name": "ROBURAN LOMBANG",
+  "postalCode": "22952"
  },
  {
   "id": 1202051005,
   "districtId": 1202051,
-  "name": "ROBURAN DOLOK"
+  "districtName": "PANYABUNGAN SELATAN",
+  "name": "ROBURAN DOLOK",
+  "postalCode": "22952"
  },
  {
   "id": 1202051006,
   "districtId": 1202051,
-  "name": "LUMBAN DOLOK"
+  "districtName": "PANYABUNGAN SELATAN",
+  "name": "LUMBAN DOLOK",
+  "postalCode": "22463"
  },
  {
   "id": 1202051007,
   "districtId": 1202051,
-  "name": "HUTA RAJA"
+  "districtName": "PANYABUNGAN SELATAN",
+  "name": "HUTA RAJA",
+  "postalCode": "22738"
  },
  {
   "id": 1202051008,
   "districtId": 1202051,
-  "name": "HUTAIMBARU"
+  "districtName": "PANYABUNGAN SELATAN",
+  "name": "HUTAIMBARU",
+  "postalCode": "22753"
  },
  {
   "id": 1202051009,
   "districtId": 1202051,
-  "name": "AEK NGALI"
+  "districtName": "PANYABUNGAN SELATAN",
+  "name": "AEK NGALI",
+  "postalCode": "22952"
  },
  {
   "id": 1202051010,
   "districtId": 1202051,
-  "name": "HUTA JULU"
+  "districtName": "PANYABUNGAN SELATAN",
+  "name": "HUTA JULU",
+  "postalCode": "22998"
  },
  {
   "id": 1202051011,
   "districtId": 1202051,
-  "name": "PAGARAN GALA-GALA"
+  "districtName": "PANYABUNGAN SELATAN",
+  "name": "PAGARAN GALA-GALA",
+  "postalCode": "22952"
  }
 ]

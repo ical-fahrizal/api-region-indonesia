@@ -2,36 +2,50 @@
  {
   "id": 7504010006,
   "districtId": 7504010,
-  "name": "TALULOBUTU"
+  "districtName": "TAPA",
+  "name": "TALULOBUTU",
+  "postalCode": "96582"
  },
  {
   "id": 7504010007,
   "districtId": 7504010,
-  "name": "TALUMOPATU"
+  "districtName": "TAPA",
+  "name": "TALUMOPATU",
+  "postalCode": "96127"
  },
  {
   "id": 7504010008,
   "districtId": 7504010,
-  "name": "DUNGGALA"
+  "districtName": "TAPA",
+  "name": "DUNGGALA",
+  "postalCode": "96271"
  },
  {
   "id": 7504010010,
   "districtId": 7504010,
-  "name": "LANGGE"
+  "districtName": "TAPA",
+  "name": "LANGGE",
+  "postalCode": "93792"
  },
  {
   "id": 7504010011,
   "districtId": 7504010,
-  "name": "TALULOBUTU SELATAN"
+  "districtName": "TAPA",
+  "name": "TALULOBUTU SELATAN",
+  "postalCode": "96582"
  },
  {
   "id": 7504010012,
   "districtId": 7504010,
-  "name": "KRAMAT"
+  "districtName": "TAPA",
+  "name": "KRAMAT",
+  "postalCode": "10450"
  },
  {
   "id": 7504010013,
   "districtId": 7504010,
-  "name": "MERANTI"
+  "districtName": "TAPA",
+  "name": "MERANTI",
+  "postalCode": "24673"
  }
 ]

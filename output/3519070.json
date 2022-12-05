@@ -2,36 +2,50 @@
  {
   "id": 3519070001,
   "districtId": 3519070,
-  "name": "BATOK"
+  "districtName": "GEMARANG",
+  "name": "BATOK",
+  "postalCode": "16370"
  },
  {
   "id": 3519070002,
   "districtId": 3519070,
-  "name": "DURENAN"
+  "districtName": "GEMARANG",
+  "name": "DURENAN",
+  "postalCode": "66381"
  },
  {
   "id": 3519070003,
   "districtId": 3519070,
-  "name": "WINONG"
+  "districtName": "GEMARANG",
+  "name": "WINONG",
+  "postalCode": "45161"
  },
  {
   "id": 3519070004,
   "districtId": 3519070,
-  "name": "TAWANGREJO"
+  "districtName": "GEMARANG",
+  "name": "TAWANGREJO",
+  "postalCode": "57462"
  },
  {
   "id": 3519070005,
   "districtId": 3519070,
-  "name": "GEMARANG"
+  "districtName": "GEMARANG",
+  "name": "GEMARANG",
+  "postalCode": "63156"
  },
  {
   "id": 3519070006,
   "districtId": 3519070,
-  "name": "SEBAYI"
+  "districtName": "GEMARANG",
+  "name": "SEBAYI",
+  "postalCode": "63156"
  },
  {
   "id": 3519070007,
   "districtId": 3519070,
-  "name": "NAMPU"
+  "districtName": "GEMARANG",
+  "name": "NAMPU",
+  "postalCode": "58163"
  }
 ]

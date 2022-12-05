@@ -2,56 +2,78 @@
  {
   "id": 3529230001,
   "districtId": 3529230,
-  "name": "SABUNTAN"
+  "districtName": "SAPEKEN",
+  "name": "SABUNTAN",
+  "postalCode": "69493"
  },
  {
   "id": 3529230002,
   "districtId": 3529230,
-  "name": "PALIAT"
+  "districtName": "SAPEKEN",
+  "name": "PALIAT",
+  "postalCode": "69493"
  },
  {
   "id": 3529230003,
   "districtId": 3529230,
-  "name": "SAPEKEN"
+  "districtName": "SAPEKEN",
+  "name": "SAPEKEN",
+  "postalCode": "69493"
  },
  {
   "id": 3529230004,
   "districtId": 3529230,
-  "name": "SASIIL"
+  "districtName": "SAPEKEN",
+  "name": "SASIIL",
+  "postalCode": ""
  },
  {
   "id": 3529230005,
   "districtId": 3529230,
-  "name": "SEPANJANG"
+  "districtName": "SAPEKEN",
+  "name": "SEPANJANG",
+  "postalCode": "57792"
  },
  {
   "id": 3529230006,
   "districtId": 3529230,
-  "name": "TANJUNGKIAOK"
+  "districtName": "SAPEKEN",
+  "name": "TANJUNGKIAOK",
+  "postalCode": "69493"
  },
  {
   "id": 3529230007,
   "districtId": 3529230,
-  "name": "PAGERUNGAN KECIL"
+  "districtName": "SAPEKEN",
+  "name": "PAGERUNGAN KECIL",
+  "postalCode": "69493"
  },
  {
   "id": 3529230008,
   "districtId": 3529230,
-  "name": "PAGERUNGAN BESAR"
+  "districtName": "SAPEKEN",
+  "name": "PAGERUNGAN BESAR",
+  "postalCode": "69493"
  },
  {
   "id": 3529230009,
   "districtId": 3529230,
-  "name": "SAKALA"
+  "districtName": "SAPEKEN",
+  "name": "SAKALA",
+  "postalCode": "69493"
  },
  {
   "id": 3529230010,
   "districtId": 3529230,
-  "name": "SADULANG"
+  "districtName": "SAPEKEN",
+  "name": "SADULANG",
+  "postalCode": ""
  },
  {
   "id": 3529230011,
   "districtId": 3529230,
-  "name": "SAUR SAEBUS"
+  "districtName": "SAPEKEN",
+  "name": "SAUR SAEBUS",
+  "postalCode": ""
  }
 ]

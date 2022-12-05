@@ -2,76 +2,106 @@
  {
   "id": 1501011001,
   "districtId": 1501011,
-  "name": "PASAR KERMAN"
+  "districtName": "BUKIT KERMAN",
+  "name": "PASAR KERMAN",
+  "postalCode": "37174"
  },
  {
   "id": 1501011002,
   "districtId": 1501011,
-  "name": "LOLO HILIR"
+  "districtName": "BUKIT KERMAN",
+  "name": "LOLO HILIR",
+  "postalCode": "37174"
  },
  {
   "id": 1501011003,
   "districtId": 1501011,
-  "name": "LOLO GEDANG"
+  "districtName": "BUKIT KERMAN",
+  "name": "LOLO GEDANG",
+  "postalCode": "37174"
  },
  {
   "id": 1501011004,
   "districtId": 1501011,
-  "name": "LOLO KECIL"
+  "districtName": "BUKIT KERMAN",
+  "name": "LOLO KECIL",
+  "postalCode": "37174"
  },
  {
   "id": 1501011005,
   "districtId": 1501011,
-  "name": "TALANG KEMUNING"
+  "districtName": "BUKIT KERMAN",
+  "name": "TALANG KEMUNING",
+  "postalCode": "37174"
  },
  {
   "id": 1501011006,
   "districtId": 1501011,
-  "name": "TANJUNG SYAM"
+  "districtName": "BUKIT KERMAN",
+  "name": "TANJUNG SYAM",
+  "postalCode": "37174"
  },
  {
   "id": 1501011007,
   "districtId": 1501011,
-  "name": "BINTANG MARAK"
+  "districtName": "BUKIT KERMAN",
+  "name": "BINTANG MARAK",
+  "postalCode": "37174"
  },
  {
   "id": 1501011008,
   "districtId": 1501011,
-  "name": "PULAU SANGKAR"
+  "districtName": "BUKIT KERMAN",
+  "name": "PULAU SANGKAR",
+  "postalCode": ""
  },
  {
   "id": 1501011009,
   "districtId": 1501011,
-  "name": "PONDOK"
+  "districtName": "BUKIT KERMAN",
+  "name": "PONDOK",
+  "postalCode": "37175"
  },
  {
   "id": 1501011010,
   "districtId": 1501011,
-  "name": "MUAK"
+  "districtName": "BUKIT KERMAN",
+  "name": "MUAK",
+  "postalCode": "37175"
  },
  {
   "id": 1501011011,
   "districtId": 1501011,
-  "name": "PULAU PANDAN"
+  "districtName": "BUKIT KERMAN",
+  "name": "PULAU PANDAN",
+  "postalCode": "37382"
  },
  {
   "id": 1501011012,
   "districtId": 1501011,
-  "name": "PENGASI LAMA"
+  "districtName": "BUKIT KERMAN",
+  "name": "PENGASI LAMA",
+  "postalCode": "37175"
  },
  {
   "id": 1501011013,
   "districtId": 1501011,
-  "name": "KARANG PANDAN"
+  "districtName": "BUKIT KERMAN",
+  "name": "KARANG PANDAN",
+  "postalCode": "37175"
  },
  {
   "id": 1501011014,
   "districtId": 1501011,
-  "name": "PENGASI BARU"
+  "districtName": "BUKIT KERMAN",
+  "name": "PENGASI BARU",
+  "postalCode": "37175"
  },
  {
   "id": 1501011015,
   "districtId": 1501011,
-  "name": "MUARO LULO"
+  "districtName": "BUKIT KERMAN",
+  "name": "MUARO LULO",
+  "postalCode": "37174"
  }
 ]

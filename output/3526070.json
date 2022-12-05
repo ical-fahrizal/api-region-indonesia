@@ -2,101 +2,141 @@
  {
   "id": 3526070001,
   "districtId": 3526070,
-  "name": "PEKADAN"
+  "districtName": "GALIS",
+  "name": "PEKADAN",
+  "postalCode": "69173"
  },
  {
   "id": 3526070002,
   "districtId": 3526070,
-  "name": "KAJUANAK"
+  "districtName": "GALIS",
+  "name": "KAJUANAK",
+  "postalCode": "69173"
  },
  {
   "id": 3526070003,
   "districtId": 3526070,
-  "name": "PATERONGAN"
+  "districtName": "GALIS",
+  "name": "PATERONGAN",
+  "postalCode": "69173"
  },
  {
   "id": 3526070004,
   "districtId": 3526070,
-  "name": "GALIS"
+  "districtName": "GALIS",
+  "name": "GALIS",
+  "postalCode": "69173"
  },
  {
   "id": 3526070005,
   "districtId": 3526070,
-  "name": "PAKA'AN LAOK"
+  "districtName": "GALIS",
+  "name": "PAKA'AN LAOK",
+  "postalCode": ""
  },
  {
   "id": 3526070006,
   "districtId": 3526070,
-  "name": "KRANGGAN TIMUR"
+  "districtName": "GALIS",
+  "name": "KRANGGAN TIMUR",
+  "postalCode": "69173"
  },
  {
   "id": 3526070007,
   "districtId": 3526070,
-  "name": "SEPARAH"
+  "districtName": "GALIS",
+  "name": "SEPARAH",
+  "postalCode": "69173"
  },
  {
   "id": 3526070008,
   "districtId": 3526070,
-  "name": "PAKA'AN DAYA"
+  "districtName": "GALIS",
+  "name": "PAKA'AN DAYA",
+  "postalCode": ""
  },
  {
   "id": 3526070009,
   "districtId": 3526070,
-  "name": "LONGKEK"
+  "districtName": "GALIS",
+  "name": "LONGKEK",
+  "postalCode": "69173"
  },
  {
   "id": 3526070010,
   "districtId": 3526070,
-  "name": "BANYUBUNIH"
+  "districtName": "GALIS",
+  "name": "BANYUBUNIH",
+  "postalCode": "69173"
  },
  {
   "id": 3526070011,
   "districtId": 3526070,
-  "name": "DALEMAN"
+  "districtName": "GALIS",
+  "name": "DALEMAN",
+  "postalCode": "57571"
  },
  {
   "id": 3526070012,
   "districtId": 3526070,
-  "name": "TELLOK"
+  "districtName": "GALIS",
+  "name": "TELLOK",
+  "postalCode": "69173"
  },
  {
   "id": 3526070013,
   "districtId": 3526070,
-  "name": "BLATERAN"
+  "districtName": "GALIS",
+  "name": "BLATERAN",
+  "postalCode": ""
  },
  {
   "id": 3526070015,
   "districtId": 3526070,
-  "name": "TLAGAH"
+  "districtName": "GALIS",
+  "name": "TLAGAH",
+  "postalCode": "69263"
  },
  {
   "id": 3526070016,
   "districtId": 3526070,
-  "name": "LANTEK TIMUR"
+  "districtName": "GALIS",
+  "name": "LANTEK TIMUR",
+  "postalCode": ""
  },
  {
   "id": 3526070017,
   "districtId": 3526070,
-  "name": "LANTEK BARAT"
+  "districtName": "GALIS",
+  "name": "LANTEK BARAT",
+  "postalCode": "69173"
  },
  {
   "id": 3526070018,
   "districtId": 3526070,
-  "name": "BANJAR"
+  "districtName": "GALIS",
+  "name": "BANJAR",
+  "postalCode": "21263"
  },
  {
   "id": 3526070019,
   "districtId": 3526070,
-  "name": "BANGPENDAH"
+  "districtName": "GALIS",
+  "name": "BANGPENDAH",
+  "postalCode": "69173"
  },
  {
   "id": 3526070020,
   "districtId": 3526070,
-  "name": "SADAH"
+  "districtName": "GALIS",
+  "name": "SADAH",
+  "postalCode": "69173"
  },
  {
   "id": 3526070021,
   "districtId": 3526070,
-  "name": "SORPA"
+  "districtName": "GALIS",
+  "name": "SORPA",
+  "postalCode": "69173"
  }
 ]

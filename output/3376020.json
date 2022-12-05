@@ -2,26 +2,36 @@
  {
   "id": 3376020001,
   "districtId": 3376020,
-  "name": "KEJAMBON"
+  "districtName": "TEGAL TIMUR",
+  "name": "KEJAMBON",
+  "postalCode": "52361"
  },
  {
   "id": 3376020002,
   "districtId": 3376020,
-  "name": "SLEROK"
+  "districtName": "TEGAL TIMUR",
+  "name": "SLEROK",
+  "postalCode": "52125"
  },
  {
   "id": 3376020003,
   "districtId": 3376020,
-  "name": "PANGGUNG"
+  "districtName": "TEGAL TIMUR",
+  "name": "PANGGUNG",
+  "postalCode": "59463"
  },
  {
   "id": 3376020004,
   "districtId": 3376020,
-  "name": "MANGKUKUSUMAN"
+  "districtName": "TEGAL TIMUR",
+  "name": "MANGKUKUSUMAN",
+  "postalCode": "52123"
  },
  {
   "id": 3376020005,
   "districtId": 3376020,
-  "name": "MINTARAGEN"
+  "districtName": "TEGAL TIMUR",
+  "name": "MINTARAGEN",
+  "postalCode": "52121"
  }
 ]

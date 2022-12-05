@@ -2,46 +2,64 @@
  {
   "id": 3213220001,
   "districtId": 3213220,
-  "name": "CILAMAYA HILIR"
+  "districtName": "BLANAKAN",
+  "name": "CILAMAYA HILIR",
+  "postalCode": "41259"
  },
  {
   "id": 3213220002,
   "districtId": 3213220,
-  "name": "CILAMAYA GIRANG"
+  "districtName": "BLANAKAN",
+  "name": "CILAMAYA GIRANG",
+  "postalCode": "41259"
  },
  {
   "id": 3213220003,
   "districtId": 3213220,
-  "name": "RAWAMEKAR"
+  "districtName": "BLANAKAN",
+  "name": "RAWAMEKAR",
+  "postalCode": "41259"
  },
  {
   "id": 3213220004,
   "districtId": 3213220,
-  "name": "RAWAMENENG"
+  "districtName": "BLANAKAN",
+  "name": "RAWAMENENG",
+  "postalCode": "41259"
  },
  {
   "id": 3213220005,
   "districtId": 3213220,
-  "name": "JAYAMUKTI"
+  "districtName": "BLANAKAN",
+  "name": "JAYAMUKTI",
+  "postalCode": "41374"
  },
  {
   "id": 3213220006,
   "districtId": 3213220,
-  "name": "BLANAKAN"
+  "districtName": "BLANAKAN",
+  "name": "BLANAKAN",
+  "postalCode": "41259"
  },
  {
   "id": 3213220007,
   "districtId": 3213220,
-  "name": "LANGENSARI"
+  "districtName": "BLANAKAN",
+  "name": "LANGENSARI",
+  "postalCode": "41259"
  },
  {
   "id": 3213220008,
   "districtId": 3213220,
-  "name": "MUARA"
+  "districtName": "BLANAKAN",
+  "name": "MUARA",
+  "postalCode": "41259"
  },
  {
   "id": 3213220009,
   "districtId": 3213220,
-  "name": "TANJUNGTIGA"
+  "districtName": "BLANAKAN",
+  "name": "TANJUNGTIGA",
+  "postalCode": "41259"
  }
 ]

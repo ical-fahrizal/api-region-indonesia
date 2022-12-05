@@ -2,101 +2,141 @@
  {
   "id": 8103140009,
   "districtId": 8103140,
-  "name": "HUAULU"
+  "districtName": "SERAM UTARA",
+  "name": "HUAULU",
+  "postalCode": "97557"
  },
  {
   "id": 8103140010,
   "districtId": 8103140,
-  "name": "SAWAI"
+  "districtName": "SERAM UTARA",
+  "name": "SAWAI",
+  "postalCode": "97557"
  },
  {
   "id": 8103140011,
   "districtId": 8103140,
-  "name": "MANUSELA"
+  "districtName": "SERAM UTARA",
+  "name": "MANUSELA",
+  "postalCode": "97557"
  },
  {
   "id": 8103140012,
   "districtId": 8103140,
-  "name": "KANIKE"
+  "districtName": "SERAM UTARA",
+  "name": "KANIKE",
+  "postalCode": ""
  },
  {
   "id": 8103140013,
   "districtId": 8103140,
-  "name": "ROHO"
+  "districtName": "SERAM UTARA",
+  "name": "ROHO",
+  "postalCode": "86692"
  },
  {
   "id": 8103140014,
   "districtId": 8103140,
-  "name": "RUMAHSOKAT"
+  "districtName": "SERAM UTARA",
+  "name": "RUMAHSOKAT",
+  "postalCode": ""
  },
  {
   "id": 8103140015,
   "districtId": 8103140,
-  "name": "WAHAI"
+  "districtName": "SERAM UTARA",
+  "name": "WAHAI",
+  "postalCode": "97557"
  },
  {
   "id": 8103140016,
   "districtId": 8103140,
-  "name": "AIR BESAR"
+  "districtName": "SERAM UTARA",
+  "name": "AIR BESAR",
+  "postalCode": "97557"
  },
  {
   "id": 8103140017,
   "districtId": 8103140,
-  "name": "PASAHARI"
+  "districtName": "SERAM UTARA",
+  "name": "PASAHARI",
+  "postalCode": "97557"
  },
  {
   "id": 8103140018,
   "districtId": 8103140,
-  "name": "KALOA"
+  "districtName": "SERAM UTARA",
+  "name": "KALOA",
+  "postalCode": "97557"
  },
  {
   "id": 8103140039,
   "districtId": 8103140,
-  "name": "MALAKU"
+  "districtName": "SERAM UTARA",
+  "name": "MALAKU",
+  "postalCode": "97557"
  },
  {
   "id": 8103140041,
   "districtId": 8103140,
-  "name": "BESI"
+  "districtName": "SERAM UTARA",
+  "name": "BESI",
+  "postalCode": "97557"
  },
  {
   "id": 8103140042,
   "districtId": 8103140,
-  "name": "MARAINA"
+  "districtName": "SERAM UTARA",
+  "name": "MARAINA",
+  "postalCode": ""
  },
  {
   "id": 8103140043,
   "districtId": 8103140,
-  "name": "SOLEA"
+  "districtName": "SERAM UTARA",
+  "name": "SOLEA",
+  "postalCode": "97561"
  },
  {
   "id": 8103140044,
   "districtId": 8103140,
-  "name": "SIATELE"
+  "districtName": "SERAM UTARA",
+  "name": "SIATELE",
+  "postalCode": ""
  },
  {
   "id": 8103140045,
   "districtId": 8103140,
-  "name": "ELEMATA"
+  "districtName": "SERAM UTARA",
+  "name": "ELEMATA",
+  "postalCode": ""
  },
  {
   "id": 8103140046,
   "districtId": 8103140,
-  "name": "HATUOLO"
+  "districtName": "SERAM UTARA",
+  "name": "HATUOLO",
+  "postalCode": ""
  },
  {
   "id": 8103140047,
   "districtId": 8103140,
-  "name": "MASIHULAN"
+  "districtName": "SERAM UTARA",
+  "name": "MASIHULAN",
+  "postalCode": ""
  },
  {
   "id": 8103140048,
   "districtId": 8103140,
-  "name": "OPING"
+  "districtName": "SERAM UTARA",
+  "name": "OPING",
+  "postalCode": ""
  },
  {
   "id": 8103140049,
   "districtId": 8103140,
-  "name": "OLONG"
+  "districtName": "SERAM UTARA",
+  "name": "OLONG",
+  "postalCode": ""
  }
 ]

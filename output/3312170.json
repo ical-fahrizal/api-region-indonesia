@@ -2,71 +2,99 @@
  {
   "id": 3312170001,
   "districtId": 3312170,
-  "name": "PINGKUK"
+  "districtName": "JATIROTO",
+  "name": "PINGKUK",
+  "postalCode": "57692"
  },
  {
   "id": 3312170002,
   "districtId": 3312170,
-  "name": "NGELO"
+  "districtName": "JATIROTO",
+  "name": "NGELO",
+  "postalCode": "58313"
  },
  {
   "id": 3312170003,
   "districtId": 3312170,
-  "name": "DAWUNGAN"
+  "districtName": "JATIROTO",
+  "name": "DAWUNGAN",
+  "postalCode": "57692"
  },
  {
   "id": 3312170004,
   "districtId": 3312170,
-  "name": "BRENGGOLO"
+  "districtName": "JATIROTO",
+  "name": "BRENGGOLO",
+  "postalCode": "57692"
  },
  {
   "id": 3312170005,
   "districtId": 3312170,
-  "name": "BOTO"
+  "districtName": "JATIROTO",
+  "name": "BOTO",
+  "postalCode": "50182"
  },
  {
   "id": 3312170006,
   "districtId": 3312170,
-  "name": "GUNO"
+  "districtName": "JATIROTO",
+  "name": "GUNO",
+  "postalCode": "57692"
  },
  {
   "id": 3312170007,
   "districtId": 3312170,
-  "name": "PENGKOL"
+  "districtName": "JATIROTO",
+  "name": "PENGKOL",
+  "postalCode": "57692"
  },
  {
   "id": 3312170008,
   "districtId": 3312170,
-  "name": "CANGKRING"
+  "districtName": "JATIROTO",
+  "name": "CANGKRING",
+  "postalCode": "45258"
  },
  {
   "id": 3312170009,
   "districtId": 3312170,
-  "name": "SANGGRONG"
+  "districtName": "JATIROTO",
+  "name": "SANGGRONG",
+  "postalCode": "57692"
  },
  {
   "id": 3312170010,
   "districtId": 3312170,
-  "name": "PESIDO"
+  "districtName": "JATIROTO",
+  "name": "PESIDO",
+  "postalCode": "57692"
  },
  {
   "id": 3312170011,
   "districtId": 3312170,
-  "name": "MOJOPURA"
+  "districtName": "JATIROTO",
+  "name": "MOJOPURA",
+  "postalCode": "57692"
  },
  {
   "id": 3312170012,
   "districtId": 3312170,
-  "name": "JATIREJO"
+  "districtName": "JATIROTO",
+  "name": "JATIREJO",
+  "postalCode": "23661"
  },
  {
   "id": 3312170013,
   "districtId": 3312170,
-  "name": "JATIROTO"
+  "districtName": "JATIROTO",
+  "name": "JATIROTO",
+  "postalCode": "54474"
  },
  {
   "id": 3312170015,
   "districtId": 3312170,
-  "name": "SUGIHAN"
+  "districtName": "JATIROTO",
+  "name": "SUGIHAN",
+  "postalCode": "32272"
  }
 ]

@@ -2,51 +2,71 @@
  {
   "id": 9412035001,
   "districtId": 9412035,
-  "name": "HARAPAN"
+  "districtName": "KWAMKI NARAMA",
+  "name": "HARAPAN",
+  "postalCode": "22253"
  },
  {
   "id": 9412035002,
   "districtId": 9412035,
-  "name": "MEKURIMA"
+  "districtName": "KWAMKI NARAMA",
+  "name": "MEKURIMA",
+  "postalCode": ""
  },
  {
   "id": 9412035003,
   "districtId": 9412035,
-  "name": "LANDUM MEKAR"
+  "districtName": "KWAMKI NARAMA",
+  "name": "LANDUM MEKAR",
+  "postalCode": ""
  },
  {
   "id": 9412035004,
   "districtId": 9412035,
-  "name": "OLAROA"
+  "districtName": "KWAMKI NARAMA",
+  "name": "OLAROA",
+  "postalCode": ""
  },
  {
   "id": 9412035005,
   "districtId": 9412035,
-  "name": "BINTANG LIMA"
+  "districtName": "KWAMKI NARAMA",
+  "name": "BINTANG LIMA",
+  "postalCode": ""
  },
  {
   "id": 9412035006,
   "districtId": 9412035,
-  "name": "DAMAI"
+  "districtName": "KWAMKI NARAMA",
+  "name": "DAMAI",
+  "postalCode": "20745"
  },
  {
   "id": 9412035007,
   "districtId": 9412035,
-  "name": "WALANI"
+  "districtName": "KWAMKI NARAMA",
+  "name": "WALANI",
+  "postalCode": ""
  },
  {
   "id": 9412035008,
   "districtId": 9412035,
-  "name": "AMOLE"
+  "districtName": "KWAMKI NARAMA",
+  "name": "AMOLE",
+  "postalCode": ""
  },
  {
   "id": 9412035009,
   "districtId": 9412035,
-  "name": "LAMOPI"
+  "districtName": "KWAMKI NARAMA",
+  "name": "LAMOPI",
+  "postalCode": ""
  },
  {
   "id": 9412035010,
   "districtId": 9412035,
-  "name": "TUNAS MATOA"
+  "districtName": "KWAMKI NARAMA",
+  "name": "TUNAS MATOA",
+  "postalCode": ""
  }
 ]

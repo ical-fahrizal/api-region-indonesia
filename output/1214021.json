@@ -2,51 +2,71 @@
  {
   "id": 1214021001,
   "districtId": 1214021,
-  "name": "MAHANG LABARA"
+  "districtName": "PULAU-PULAU BATU TIMUR",
+  "name": "MAHANG LABARA",
+  "postalCode": "22881"
  },
  {
   "id": 1214021002,
   "districtId": 1214021,
-  "name": "ADAM"
+  "districtName": "PULAU-PULAU BATU TIMUR",
+  "name": "ADAM",
+  "postalCode": "22881"
  },
  {
   "id": 1214021003,
   "districtId": 1214021,
-  "name": "BAIS"
+  "districtName": "PULAU-PULAU BATU TIMUR",
+  "name": "BAIS",
+  "postalCode": "22881"
  },
  {
   "id": 1214021004,
   "districtId": 1214021,
-  "name": "LAMBAK"
+  "districtName": "PULAU-PULAU BATU TIMUR",
+  "name": "LAMBAK",
+  "postalCode": "22881"
  },
  {
   "id": 1214021005,
   "districtId": 1214021,
-  "name": "LABUAN RIMA"
+  "districtName": "PULAU-PULAU BATU TIMUR",
+  "name": "LABUAN RIMA",
+  "postalCode": "22881"
  },
  {
   "id": 1214021006,
   "districtId": 1214021,
-  "name": "LABUAN HIU"
+  "districtName": "PULAU-PULAU BATU TIMUR",
+  "name": "LABUAN HIU",
+  "postalCode": ""
  },
  {
   "id": 1214021007,
   "districtId": 1214021,
-  "name": "LABUAN BAJAU"
+  "districtName": "PULAU-PULAU BATU TIMUR",
+  "name": "LABUAN BAJAU",
+  "postalCode": "22881"
  },
  {
   "id": 1214021008,
   "districtId": 1214021,
-  "name": "LABARA"
+  "districtName": "PULAU-PULAU BATU TIMUR",
+  "name": "LABARA",
+  "postalCode": "22881"
  },
  {
   "id": 1214021009,
   "districtId": 1214021,
-  "name": "BAIS BARU"
+  "districtName": "PULAU-PULAU BATU TIMUR",
+  "name": "BAIS BARU",
+  "postalCode": "22881"
  },
  {
   "id": 1214021010,
   "districtId": 1214021,
-  "name": "LABUAN RIMA BARU"
+  "districtName": "PULAU-PULAU BATU TIMUR",
+  "name": "LABUAN RIMA BARU",
+  "postalCode": "22881"
  }
 ]

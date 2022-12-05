@@ -2,51 +2,71 @@
  {
   "id": 9415021001,
   "districtId": 9415021,
-  "name": "PIRAMAT"
+  "districtName": "ASWI",
+  "name": "PIRAMAT",
+  "postalCode": "99782"
  },
  {
   "id": 9415021002,
   "districtId": 9415021,
-  "name": "BAWOS"
+  "districtName": "ASWI",
+  "name": "BAWOS",
+  "postalCode": "99782"
  },
  {
   "id": 9415021003,
   "districtId": 9415021,
-  "name": "BAGAIR"
+  "districtName": "ASWI",
+  "name": "BAGAIR",
+  "postalCode": "99782"
  },
  {
   "id": 9415021004,
   "districtId": 9415021,
-  "name": "TAURO"
+  "districtName": "ASWI",
+  "name": "TAURO",
+  "postalCode": "97752"
  },
  {
   "id": 9415021005,
   "districtId": 9415021,
-  "name": "KAGAS"
+  "districtName": "ASWI",
+  "name": "KAGAS",
+  "postalCode": "99782"
  },
  {
   "id": 9415021006,
   "districtId": 9415021,
-  "name": "WIYAR"
+  "districtName": "ASWI",
+  "name": "WIYAR",
+  "postalCode": "99782"
  },
  {
   "id": 9415021007,
   "districtId": 9415021,
-  "name": "AMAITA"
+  "districtName": "ASWI",
+  "name": "AMAITA",
+  "postalCode": "99782"
  },
  {
   "id": 9415021008,
   "districtId": 9415021,
-  "name": "AKAN TAPAK"
+  "districtName": "ASWI",
+  "name": "AKAN TAPAK",
+  "postalCode": "99782"
  },
  {
   "id": 9415021009,
   "districtId": 9415021,
-  "name": "MAPANE"
+  "districtName": "ASWI",
+  "name": "MAPANE",
+  "postalCode": "94652"
  },
  {
   "id": 9415021010,
   "districtId": 9415021,
-  "name": "AINAMSATO"
+  "districtName": "ASWI",
+  "name": "AINAMSATO",
+  "postalCode": "99782"
  }
 ]

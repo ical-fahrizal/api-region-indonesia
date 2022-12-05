@@ -2,26 +2,36 @@
  {
   "id": 6171010002,
   "districtId": 6171010,
-  "name": "BENUA MELAYU LAUT"
+  "districtName": "PONTIANAK SELATAN",
+  "name": "BENUA MELAYU LAUT",
+  "postalCode": "78123"
  },
  {
   "id": 6171010003,
   "districtId": 6171010,
-  "name": "BENUA MELAYU DARAT"
+  "districtName": "PONTIANAK SELATAN",
+  "name": "BENUA MELAYU DARAT",
+  "postalCode": "78122"
  },
  {
   "id": 6171010004,
   "districtId": 6171010,
-  "name": "PARIT TOKAYA"
+  "districtName": "PONTIANAK SELATAN",
+  "name": "PARIT TOKAYA",
+  "postalCode": "78121"
  },
  {
   "id": 6171010005,
   "districtId": 6171010,
-  "name": "AKCAYA"
+  "districtName": "PONTIANAK SELATAN",
+  "name": "AKCAYA",
+  "postalCode": "78121"
  },
  {
   "id": 6171010006,
   "districtId": 6171010,
-  "name": "KOTA BARU"
+  "districtName": "PONTIANAK SELATAN",
+  "name": "KOTA BARU",
+  "postalCode": "23125"
  }
 ]

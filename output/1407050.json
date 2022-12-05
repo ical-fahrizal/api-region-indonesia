@@ -2,61 +2,85 @@
  {
   "id": 1407050001,
   "districtId": 1407050,
-  "name": "TAMBUSAI BARAT"
+  "districtName": "TAMBUSAI",
+  "name": "TAMBUSAI BARAT",
+  "postalCode": "28558"
  },
  {
   "id": 1407050002,
   "districtId": 1407050,
-  "name": "SUNGAI KUMANGO"
+  "districtName": "TAMBUSAI",
+  "name": "SUNGAI KUMANGO",
+  "postalCode": "28558"
  },
  {
   "id": 1407050003,
   "districtId": 1407050,
-  "name": "BATAS"
+  "districtName": "TAMBUSAI",
+  "name": "BATAS",
+  "postalCode": "28558"
  },
  {
   "id": 1407050004,
   "districtId": 1407050,
-  "name": "TALI KUMAIN"
+  "districtName": "TAMBUSAI",
+  "name": "TALI KUMAIN",
+  "postalCode": "28558"
  },
  {
   "id": 1407050005,
   "districtId": 1407050,
-  "name": "TAMBUSAI TENGAH"
+  "districtName": "TAMBUSAI",
+  "name": "TAMBUSAI TENGAH",
+  "postalCode": "28558"
  },
  {
   "id": 1407050006,
   "districtId": 1407050,
-  "name": "RANTAU PANJANG"
+  "districtName": "TAMBUSAI",
+  "name": "RANTAU PANJANG",
+  "postalCode": "24476"
  },
  {
   "id": 1407050007,
   "districtId": 1407050,
-  "name": "SIALANG RINDANG"
+  "districtName": "TAMBUSAI",
+  "name": "SIALANG RINDANG",
+  "postalCode": "28558"
  },
  {
   "id": 1407050008,
   "districtId": 1407050,
-  "name": "TAMBUSAI TIMUR"
+  "districtName": "TAMBUSAI",
+  "name": "TAMBUSAI TIMUR",
+  "postalCode": "28558"
  },
  {
   "id": 1407050009,
   "districtId": 1407050,
-  "name": "SUKAMAJU"
+  "districtName": "TAMBUSAI",
+  "name": "SUKAMAJU",
+  "postalCode": "22465"
  },
  {
   "id": 1407050015,
   "districtId": 1407050,
-  "name": "BATANG KUMU"
+  "districtName": "TAMBUSAI",
+  "name": "BATANG KUMU",
+  "postalCode": "28558"
  },
  {
   "id": 1407050016,
   "districtId": 1407050,
-  "name": "TINGKOK"
+  "districtName": "TAMBUSAI",
+  "name": "TINGKOK",
+  "postalCode": "28558"
  },
  {
   "id": 1407050017,
   "districtId": 1407050,
-  "name": "LUBUK SOTING"
+  "districtName": "TAMBUSAI",
+  "name": "LUBUK SOTING",
+  "postalCode": "28558"
  }
 ]

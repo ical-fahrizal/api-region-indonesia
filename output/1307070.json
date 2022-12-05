@@ -2,36 +2,50 @@
  {
   "id": 1307070001,
   "districtId": 1307070,
-  "name": "BATU TABA"
+  "districtName": "AMPEK ANGKEK",
+  "name": "BATU TABA",
+  "postalCode": "27265"
  },
  {
   "id": 1307070002,
   "districtId": 1307070,
-  "name": "PASIA"
+  "districtName": "AMPEK ANGKEK",
+  "name": "PASIA",
+  "postalCode": "26191"
  },
  {
   "id": 1307070003,
   "districtId": 1307070,
-  "name": "BALAI GURAH"
+  "districtName": "AMPEK ANGKEK",
+  "name": "BALAI GURAH",
+  "postalCode": "26191"
  },
  {
   "id": 1307070004,
   "districtId": 1307070,
-  "name": "AMPANG GADANG"
+  "districtName": "AMPEK ANGKEK",
+  "name": "AMPANG GADANG",
+  "postalCode": "26191"
  },
  {
   "id": 1307070005,
   "districtId": 1307070,
-  "name": "BIARO GADANG"
+  "districtName": "AMPEK ANGKEK",
+  "name": "BIARO GADANG",
+  "postalCode": "26191"
  },
  {
   "id": 1307070006,
   "districtId": 1307070,
-  "name": "LAMBAH"
+  "districtName": "AMPEK ANGKEK",
+  "name": "LAMBAH",
+  "postalCode": "26191"
  },
  {
   "id": 1307070007,
   "districtId": 1307070,
-  "name": "PANAMPUANG"
+  "districtName": "AMPEK ANGKEK",
+  "name": "PANAMPUANG",
+  "postalCode": ""
  }
 ]

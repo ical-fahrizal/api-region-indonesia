@@ -2,71 +2,99 @@
  {
   "id": 1224020001,
   "districtId": 1224020,
-  "name": "BITAYA"
+  "districtName": "ALASA",
+  "name": "BITAYA",
+  "postalCode": "22861"
  },
  {
   "id": 1224020002,
   "districtId": 1224020,
-  "name": "LAHEMBOHO"
+  "districtName": "ALASA",
+  "name": "LAHEMBOHO",
+  "postalCode": "22861"
  },
  {
   "id": 1224020003,
   "districtId": 1224020,
-  "name": "HILISEBUA SIWALUBANUA"
+  "districtName": "ALASA",
+  "name": "HILISEBUA SIWALUBANUA",
+  "postalCode": ""
  },
  {
   "id": 1224020004,
   "districtId": 1224020,
-  "name": "ANAOMA"
+  "districtName": "ALASA",
+  "name": "ANAOMA",
+  "postalCode": "22861"
  },
  {
   "id": 1224020005,
   "districtId": 1224020,
-  "name": "DAHANA TUGALAOYO"
+  "districtName": "ALASA",
+  "name": "DAHANA TUGALAOYO",
+  "postalCode": ""
  },
  {
   "id": 1224020006,
   "districtId": 1224020,
-  "name": "LOLOANA A"
+  "districtName": "ALASA",
+  "name": "LOLOANA A",
+  "postalCode": ""
  },
  {
   "id": 1224020007,
   "districtId": 1224020,
-  "name": "FULOLO"
+  "districtName": "ALASA",
+  "name": "FULOLO",
+  "postalCode": "22861"
  },
  {
   "id": 1224020008,
   "districtId": 1224020,
-  "name": "OMBOLATA"
+  "districtName": "ALASA",
+  "name": "OMBOLATA",
+  "postalCode": "22861"
  },
  {
   "id": 1224020009,
   "districtId": 1224020,
-  "name": "BANUA SIBOHOU I"
+  "districtName": "ALASA",
+  "name": "BANUA SIBOHOU I",
+  "postalCode": "22861"
  },
  {
   "id": 1224020010,
   "districtId": 1224020,
-  "name": "BANUA SIBOHOU II"
+  "districtName": "ALASA",
+  "name": "BANUA SIBOHOU II",
+  "postalCode": "22861"
  },
  {
   "id": 1224020011,
   "districtId": 1224020,
-  "name": "DAHANA ALASA"
+  "districtName": "ALASA",
+  "name": "DAHANA ALASA",
+  "postalCode": "22861"
  },
  {
   "id": 1224020012,
   "districtId": 1224020,
-  "name": "ONONAMOLO ALASA"
+  "districtName": "ALASA",
+  "name": "ONONAMOLO ALASA",
+  "postalCode": "22861"
  },
  {
   "id": 1224020013,
   "districtId": 1224020,
-  "name": "HILIGAWONI"
+  "districtName": "ALASA",
+  "name": "HILIGAWONI",
+  "postalCode": "22861"
  },
  {
   "id": 1224020014,
   "districtId": 1224020,
-  "name": "ONONAMOLO TUMULA"
+  "districtName": "ALASA",
+  "name": "ONONAMOLO TUMULA",
+  "postalCode": "22861"
  }
 ]

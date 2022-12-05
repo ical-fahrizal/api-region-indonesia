@@ -2,21 +2,29 @@
  {
   "id": 9171026001,
   "districtId": 9171026,
-  "name": "KAMPUNG BARU"
+  "districtName": "SORONG KOTA",
+  "name": "KAMPUNG BARU",
+  "postalCode": "24652"
  },
  {
   "id": 9171026002,
   "districtId": 9171026,
-  "name": "KLAKUBLIK"
+  "districtName": "SORONG KOTA",
+  "name": "KLAKUBLIK",
+  "postalCode": "98414"
  },
  {
   "id": 9171026003,
   "districtId": 9171026,
-  "name": "KLASUUR"
+  "districtName": "SORONG KOTA",
+  "name": "KLASUUR",
+  "postalCode": "98414"
  },
  {
   "id": 9171026004,
   "districtId": 9171026,
-  "name": "KLABALA"
+  "districtName": "SORONG KOTA",
+  "name": "KLABALA",
+  "postalCode": "98412"
  }
 ]

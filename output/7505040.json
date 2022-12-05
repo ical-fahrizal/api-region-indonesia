@@ -2,56 +2,78 @@
  {
   "id": 7505040009,
   "districtId": 7505040,
-  "name": "BULOILA"
+  "districtName": "SUMALATA",
+  "name": "BULOILA",
+  "postalCode": "96254"
  },
  {
   "id": 7505040010,
   "districtId": 7505040,
-  "name": "BULONTIO BARAT"
+  "districtName": "SUMALATA",
+  "name": "BULONTIO BARAT",
+  "postalCode": "96254"
  },
  {
   "id": 7505040011,
   "districtId": 7505040,
-  "name": "BULONTIO TIMUR"
+  "districtName": "SUMALATA",
+  "name": "BULONTIO TIMUR",
+  "postalCode": "96254"
  },
  {
   "id": 7505040016,
   "districtId": 7505040,
-  "name": "KIKIA"
+  "districtName": "SUMALATA",
+  "name": "KIKIA",
+  "postalCode": "96254"
  },
  {
   "id": 7505040017,
   "districtId": 7505040,
-  "name": "KASIA"
+  "districtName": "SUMALATA",
+  "name": "KASIA",
+  "postalCode": "96254"
  },
  {
   "id": 7505040019,
   "districtId": 7505040,
-  "name": "LELATO"
+  "districtName": "SUMALATA",
+  "name": "LELATO",
+  "postalCode": "96254"
  },
  {
   "id": 7505040020,
   "districtId": 7505040,
-  "name": "TUMBA"
+  "districtName": "SUMALATA",
+  "name": "TUMBA",
+  "postalCode": "22565"
  },
  {
   "id": 7505040021,
   "districtId": 7505040,
-  "name": "MEBONGO"
+  "districtName": "SUMALATA",
+  "name": "MEBONGO",
+  "postalCode": "96254"
  },
  {
   "id": 7505040022,
   "districtId": 7505040,
-  "name": "PULOHENTI"
+  "districtName": "SUMALATA",
+  "name": "PULOHENTI",
+  "postalCode": "96254"
  },
  {
   "id": 7505040023,
   "districtId": 7505040,
-  "name": "HUTAKALO"
+  "districtName": "SUMALATA",
+  "name": "HUTAKALO",
+  "postalCode": "96254"
  },
  {
   "id": 7505040028,
   "districtId": 7505040,
-  "name": "PUNCAK MANDIRI"
+  "districtName": "SUMALATA",
+  "name": "PUNCAK MANDIRI",
+  "postalCode": "96254"
  }
 ]

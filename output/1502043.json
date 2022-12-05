@@ -2,51 +2,71 @@
  {
   "id": 1502043001,
   "districtId": 1502043,
-  "name": "PULAU BARU"
+  "districtName": "BATANG MASUMAI",
+  "name": "PULAU BARU",
+  "postalCode": "37311"
  },
  {
   "id": 1502043002,
   "districtId": 1502043,
-  "name": "RANTAU ALAI"
+  "districtName": "BATANG MASUMAI",
+  "name": "RANTAU ALAI",
+  "postalCode": "37311"
  },
  {
   "id": 1502043003,
   "districtId": 1502043,
-  "name": "LUBUK GAUNG"
+  "districtName": "BATANG MASUMAI",
+  "name": "LUBUK GAUNG",
+  "postalCode": "28771"
  },
  {
   "id": 1502043004,
   "districtId": 1502043,
-  "name": "TITIAN TERAS"
+  "districtName": "BATANG MASUMAI",
+  "name": "TITIAN TERAS",
+  "postalCode": "37311"
  },
  {
   "id": 1502043005,
   "districtId": 1502043,
-  "name": "SALAM BUKU"
+  "districtName": "BATANG MASUMAI",
+  "name": "SALAM BUKU",
+  "postalCode": "37311"
  },
  {
   "id": 1502043006,
   "districtId": 1502043,
-  "name": "KEDERASAN PANJANG"
+  "districtName": "BATANG MASUMAI",
+  "name": "KEDERASAN PANJANG",
+  "postalCode": "37311"
  },
  {
   "id": 1502043007,
   "districtId": 1502043,
-  "name": "PULAU LAYANG"
+  "districtName": "BATANG MASUMAI",
+  "name": "PULAU LAYANG",
+  "postalCode": "37311"
  },
  {
   "id": 1502043008,
   "districtId": 1502043,
-  "name": "PELANGKI"
+  "districtName": "BATANG MASUMAI",
+  "name": "PELANGKI",
+  "postalCode": "37311"
  },
  {
   "id": 1502043009,
   "districtId": 1502043,
-  "name": "NIBUNG"
+  "districtName": "BATANG MASUMAI",
+  "name": "NIBUNG",
+  "postalCode": "34388"
  },
  {
   "id": 1502043010,
   "districtId": 1502043,
-  "name": "TAMBANG BESI"
+  "districtName": "BATANG MASUMAI",
+  "name": "TAMBANG BESI",
+  "postalCode": "37311"
  }
 ]

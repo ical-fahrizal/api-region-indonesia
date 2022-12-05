@@ -2,26 +2,36 @@
  {
   "id": 9419053002,
   "districtId": 9419053,
-  "name": "BAGAISERWAR"
+  "districtName": "SOBEY",
+  "name": "BAGAISERWAR",
+  "postalCode": "99373"
  },
  {
   "id": 9419053003,
   "districtId": 9419053,
-  "name": "NANOT"
+  "districtName": "SOBEY",
+  "name": "NANOT",
+  "postalCode": ""
  },
  {
   "id": 9419053004,
   "districtId": 9419053,
-  "name": "BAGAISERWAR II"
+  "districtName": "SOBEY",
+  "name": "BAGAISERWAR II",
+  "postalCode": ""
  },
  {
   "id": 9419053005,
   "districtId": 9419053,
-  "name": "SUMSAR"
+  "districtName": "SOBEY",
+  "name": "SUMSAR",
+  "postalCode": ""
  },
  {
   "id": 9419053006,
   "districtId": 9419053,
-  "name": "RORENA"
+  "districtName": "SOBEY",
+  "name": "RORENA",
+  "postalCode": ""
  }
 ]

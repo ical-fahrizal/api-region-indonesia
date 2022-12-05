@@ -2,61 +2,85 @@
  {
   "id": 3320021001,
   "districtId": 3320021,
-  "name": "BATUKALI"
+  "districtName": "KALINYAMATAN",
+  "name": "BATUKALI",
+  "postalCode": "59462"
  },
  {
   "id": 3320021002,
   "districtId": 3320021,
-  "name": "BANDUNGREJO"
+  "districtName": "KALINYAMATAN",
+  "name": "BANDUNGREJO",
+  "postalCode": "54222"
  },
  {
   "id": 3320021003,
   "districtId": 3320021,
-  "name": "MANYARGADING"
+  "districtName": "KALINYAMATAN",
+  "name": "MANYARGADING",
+  "postalCode": "59462"
  },
  {
   "id": 3320021004,
   "districtId": 3320021,
-  "name": "ROBAYAN"
+  "districtName": "KALINYAMATAN",
+  "name": "ROBAYAN",
+  "postalCode": "59462"
  },
  {
   "id": 3320021005,
   "districtId": 3320021,
-  "name": "BAKALAN"
+  "districtName": "KALINYAMATAN",
+  "name": "BAKALAN",
+  "postalCode": "59158"
  },
  {
   "id": 3320021006,
   "districtId": 3320021,
-  "name": "KRIYAN"
+  "districtName": "KALINYAMATAN",
+  "name": "KRIYAN",
+  "postalCode": "59462"
  },
  {
   "id": 3320021007,
   "districtId": 3320021,
-  "name": "PURWOGONDO"
+  "districtName": "KALINYAMATAN",
+  "name": "PURWOGONDO",
+  "postalCode": "51381"
  },
  {
   "id": 3320021008,
   "districtId": 3320021,
-  "name": "SENDANG"
+  "districtName": "KALINYAMATAN",
+  "name": "SENDANG",
+  "postalCode": "45283"
  },
  {
   "id": 3320021009,
   "districtId": 3320021,
-  "name": "MARGOYOSO"
+  "districtName": "KALINYAMATAN",
+  "name": "MARGOYOSO",
+  "postalCode": "31665"
  },
  {
   "id": 3320021010,
   "districtId": 3320021,
-  "name": "BANYUPUTIH"
+  "districtName": "KALINYAMATAN",
+  "name": "BANYUPUTIH",
+  "postalCode": "51271"
  },
  {
   "id": 3320021011,
   "districtId": 3320021,
-  "name": "PENDOSAWALAN"
+  "districtName": "KALINYAMATAN",
+  "name": "PENDOSAWALAN",
+  "postalCode": "59462"
  },
  {
   "id": 3320021012,
   "districtId": 3320021,
-  "name": "DAMARJATI"
+  "districtName": "KALINYAMATAN",
+  "name": "DAMARJATI",
+  "postalCode": "59462"
  }
 ]

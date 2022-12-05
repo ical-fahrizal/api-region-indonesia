@@ -2,26 +2,36 @@
  {
   "id": 7504013001,
   "districtId": 7504013,
-  "name": "BULOTALANGI"
+  "districtName": "BULANGO TIMUR",
+  "name": "BULOTALANGI",
+  "postalCode": "96582"
  },
  {
   "id": 7504013002,
   "districtId": 7504013,
-  "name": "BULOTALANGI BARAT"
+  "districtName": "BULANGO TIMUR",
+  "name": "BULOTALANGI BARAT",
+  "postalCode": "96582"
  },
  {
   "id": 7504013003,
   "districtId": 7504013,
-  "name": "BULOTALANGI TIMUR"
+  "districtName": "BULANGO TIMUR",
+  "name": "BULOTALANGI TIMUR",
+  "postalCode": "96582"
  },
  {
   "id": 7504013004,
   "districtId": 7504013,
-  "name": "TOLUWAYA"
+  "districtName": "BULANGO TIMUR",
+  "name": "TOLUWAYA",
+  "postalCode": ""
  },
  {
   "id": 7504013005,
   "districtId": 7504013,
-  "name": "POPODU"
+  "districtName": "BULANGO TIMUR",
+  "name": "POPODU",
+  "postalCode": "95774"
  }
 ]

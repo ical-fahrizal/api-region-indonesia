@@ -2,56 +2,78 @@
  {
   "id": 9429052001,
   "districtId": 9429052,
-  "name": "MAM"
+  "districtName": "MAM",
+  "name": "MAM",
+  "postalCode": "99571"
  },
  {
   "id": 9429052003,
   "districtId": 9429052,
-  "name": "WOLMBAM"
+  "districtName": "MAM",
+  "name": "WOLMBAM",
+  "postalCode": "99571"
  },
  {
   "id": 9429052004,
   "districtId": 9429052,
-  "name": "WANDUAMA"
+  "districtName": "MAM",
+  "name": "WANDUAMA",
+  "postalCode": "99571"
  },
  {
   "id": 9429052006,
   "districtId": 9429052,
-  "name": "LAKDA"
+  "districtName": "MAM",
+  "name": "LAKDA",
+  "postalCode": "99571"
  },
  {
   "id": 9429052007,
   "districtId": 9429052,
-  "name": "YEBANDUI"
+  "districtName": "MAM",
+  "name": "YEBANDUI",
+  "postalCode": "99571"
  },
  {
   "id": 9429052008,
   "districtId": 9429052,
-  "name": "LARUID"
+  "districtName": "MAM",
+  "name": "LARUID",
+  "postalCode": "99571"
  },
  {
   "id": 9429052009,
   "districtId": 9429052,
-  "name": "DENDAMBA"
+  "districtName": "MAM",
+  "name": "DENDAMBA",
+  "postalCode": "99571"
  },
  {
   "id": 9429052010,
   "districtId": 9429052,
-  "name": "KIBIAREM"
+  "districtName": "MAM",
+  "name": "KIBIAREM",
+  "postalCode": ""
  },
  {
   "id": 9429052011,
   "districtId": 9429052,
-  "name": "PAPUAREM"
+  "districtName": "MAM",
+  "name": "PAPUAREM",
+  "postalCode": ""
  },
  {
   "id": 9429052012,
   "districtId": 9429052,
-  "name": "KIBO"
+  "districtName": "MAM",
+  "name": "KIBO",
+  "postalCode": "99571"
  },
  {
   "id": 9429052014,
   "districtId": 9429052,
-  "name": "DARAKMA"
+  "districtName": "MAM",
+  "name": "DARAKMA",
+  "postalCode": "99571"
  }
 ]

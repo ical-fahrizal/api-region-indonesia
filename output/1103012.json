@@ -2,51 +2,71 @@
  {
   "id": 1103012001,
   "districtId": 1103012,
-  "name": "LHOK RAYA"
+  "districtName": "TRUMON TENGAH",
+  "name": "LHOK RAYA",
+  "postalCode": "23774"
  },
  {
   "id": 1103012002,
   "districtId": 1103012,
-  "name": "IE JEUREUNEH"
+  "districtName": "TRUMON TENGAH",
+  "name": "IE JEUREUNEH",
+  "postalCode": "23774"
  },
  {
   "id": 1103012003,
   "districtId": 1103012,
-  "name": "NACA"
+  "districtName": "TRUMON TENGAH",
+  "name": "NACA",
+  "postalCode": "23774"
  },
  {
   "id": 1103012004,
   "districtId": 1103012,
-  "name": "COT BAYU"
+  "districtName": "TRUMON TENGAH",
+  "name": "COT BAYU",
+  "postalCode": "23363"
  },
  {
   "id": 1103012005,
   "districtId": 1103012,
-  "name": "JAMBO PAPEUN"
+  "districtName": "TRUMON TENGAH",
+  "name": "JAMBO PAPEUN",
+  "postalCode": "23754"
  },
  {
   "id": 1103012006,
   "districtId": 1103012,
-  "name": "LADANG RIMBA"
+  "districtName": "TRUMON TENGAH",
+  "name": "LADANG RIMBA",
+  "postalCode": "23773"
  },
  {
   "id": 1103012007,
   "districtId": 1103012,
-  "name": "PULO PAYA"
+  "districtName": "TRUMON TENGAH",
+  "name": "PULO PAYA",
+  "postalCode": "23774"
  },
  {
   "id": 1103012008,
   "districtId": 1103012,
-  "name": "KRUENG BATEE"
+  "districtName": "TRUMON TENGAH",
+  "name": "KRUENG BATEE",
+  "postalCode": "23771"
  },
  {
   "id": 1103012009,
   "districtId": 1103012,
-  "name": "KAMPONG TEUNGOH"
+  "districtName": "TRUMON TENGAH",
+  "name": "KAMPONG TEUNGOH",
+  "postalCode": ""
  },
  {
   "id": 1103012010,
   "districtId": 1103012,
-  "name": "GUNONG KAPHO"
+  "districtName": "TRUMON TENGAH",
+  "name": "GUNONG KAPHO",
+  "postalCode": ""
  }
 ]

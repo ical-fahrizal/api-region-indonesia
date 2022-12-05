@@ -2,21 +2,29 @@
  {
   "id": 9108021001,
   "districtId": 9108021,
-  "name": "TOLOBI"
+  "districtName": "KOFIAU",
+  "name": "TOLOBI",
+  "postalCode": ""
  },
  {
   "id": 9108021002,
   "districtId": 9108021,
-  "name": "BALAL"
+  "districtName": "KOFIAU",
+  "name": "BALAL",
+  "postalCode": ""
  },
  {
   "id": 9108021004,
   "districtId": 9108021,
-  "name": "MIKIRAN"
+  "districtName": "KOFIAU",
+  "name": "MIKIRAN",
+  "postalCode": "98483"
  },
  {
   "id": 9108021005,
   "districtId": 9108021,
-  "name": "AWAT"
+  "districtName": "KOFIAU",
+  "name": "AWAT",
+  "postalCode": "98483"
  }
 ]

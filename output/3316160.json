@@ -2,116 +2,162 @@
  {
   "id": 3316160001,
   "districtId": 3316160,
-  "name": "PELEMSENGIR"
+  "districtName": "TODANAN",
+  "name": "PELEMSENGIR",
+  "postalCode": "58256"
  },
  {
   "id": 3316160002,
   "districtId": 3316160,
-  "name": "PRIGI"
+  "districtName": "TODANAN",
+  "name": "PRIGI",
+  "postalCode": "59583"
  },
  {
   "id": 3316160003,
   "districtId": 3316160,
-  "name": "SAMBENG"
+  "districtName": "TODANAN",
+  "name": "SAMBENG",
+  "postalCode": "45151"
  },
  {
   "id": 3316160004,
   "districtId": 3316160,
-  "name": "TINAPAN"
+  "districtName": "TODANAN",
+  "name": "TINAPAN",
+  "postalCode": "58256"
  },
  {
   "id": 3316160006,
   "districtId": 3316160,
-  "name": "SONOKULON"
+  "districtName": "TODANAN",
+  "name": "SONOKULON",
+  "postalCode": "58256"
  },
  {
   "id": 3316160008,
   "districtId": 3316160,
-  "name": "KACANGAN"
+  "districtName": "TODANAN",
+  "name": "KACANGAN",
+  "postalCode": "57384"
  },
  {
   "id": 3316160009,
   "districtId": 3316160,
-  "name": "BICAK"
+  "districtName": "TODANAN",
+  "name": "BICAK",
+  "postalCode": "58256"
  },
  {
   "id": 3316160010,
   "districtId": 3316160,
-  "name": "SENDANG"
+  "districtName": "TODANAN",
+  "name": "SENDANG",
+  "postalCode": "45283"
  },
  {
   "id": 3316160011,
   "districtId": 3316160,
-  "name": "WUKIRSARI"
+  "districtName": "TODANAN",
+  "name": "WUKIRSARI",
+  "postalCode": "59174"
  },
  {
   "id": 3316160012,
   "districtId": 3316160,
-  "name": "KARANGANYAR"
+  "districtName": "TODANAN",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  },
  {
   "id": 3316160013,
   "districtId": 3316160,
-  "name": "TODANAN"
+  "districtName": "TODANAN",
+  "name": "TODANAN",
+  "postalCode": "58256"
  },
  {
   "id": 3316160014,
   "districtId": 3316160,
-  "name": "KETILENG"
+  "districtName": "TODANAN",
+  "name": "KETILENG",
+  "postalCode": "52181"
  },
  {
   "id": 3316160015,
   "districtId": 3316160,
-  "name": "COKROWATI"
+  "districtName": "TODANAN",
+  "name": "COKROWATI",
+  "postalCode": "58256"
  },
  {
   "id": 3316160016,
   "districtId": 3316160,
-  "name": "KAJENGAN"
+  "districtName": "TODANAN",
+  "name": "KAJENGAN",
+  "postalCode": "58256"
  },
  {
   "id": 3316160017,
   "districtId": 3316160,
-  "name": "GUNUNGAN"
+  "districtName": "TODANAN",
+  "name": "GUNUNGAN",
+  "postalCode": "57662"
  },
  {
   "id": 3316160018,
   "districtId": 3316160,
-  "name": "DRINGO"
+  "districtName": "TODANAN",
+  "name": "DRINGO",
+  "postalCode": "58256"
  },
  {
   "id": 3316160019,
   "districtId": 3316160,
-  "name": "DALANGAN"
+  "districtName": "TODANAN",
+  "name": "DALANGAN",
+  "postalCode": "57561"
  },
  {
   "id": 3316160020,
   "districtId": 3316160,
-  "name": "CANDI"
+  "districtName": "TODANAN",
+  "name": "CANDI",
+  "postalCode": "37263"
  },
  {
   "id": 3316160021,
   "districtId": 3316160,
-  "name": "GONDORIYO"
+  "districtName": "TODANAN",
+  "name": "GONDORIYO",
+  "postalCode": "50187"
  },
  {
   "id": 3316160022,
   "districtId": 3316160,
-  "name": "KEMBANG"
+  "districtName": "TODANAN",
+  "name": "KEMBANG",
+  "postalCode": "57352"
  },
  {
   "id": 3316160023,
   "districtId": 3316160,
-  "name": "BEDINGIN"
+  "districtName": "TODANAN",
+  "name": "BEDINGIN",
+  "postalCode": "58256"
  },
  {
   "id": 3316160024,
   "districtId": 3316160,
-  "name": "LEDOK"
+  "districtName": "TODANAN",
+  "name": "LEDOK",
+  "postalCode": "50732"
  },
  {
   "id": 3316160025,
   "districtId": 3316160,
-  "name": "KEDUNGBACIN"
+  "districtName": "TODANAN",
+  "name": "KEDUNGBACIN",
+  "postalCode": "58256"
  }
 ]

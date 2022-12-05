@@ -2,36 +2,50 @@
  {
   "id": 7304011001,
   "districtId": 7304011,
-  "name": "GARASSIKANG"
+  "districtName": "BANGKALA BARAT",
+  "name": "GARASSIKANG",
+  "postalCode": "92352"
  },
  {
   "id": 7304011002,
   "districtId": 7304011,
-  "name": "BANRIMANURUNG"
+  "districtName": "BANGKALA BARAT",
+  "name": "BANRIMANURUNG",
+  "postalCode": "92352"
  },
  {
   "id": 7304011003,
   "districtId": 7304011,
-  "name": "PATTIRO"
+  "districtName": "BANGKALA BARAT",
+  "name": "PATTIRO",
+  "postalCode": "92352"
  },
  {
   "id": 7304011005,
   "districtId": 7304011,
-  "name": "BULUJAYA"
+  "districtName": "BANGKALA BARAT",
+  "name": "BULUJAYA",
+  "postalCode": "92352"
  },
  {
   "id": 7304011006,
   "districtId": 7304011,
-  "name": "BARANA"
+  "districtName": "BANGKALA BARAT",
+  "name": "BARANA",
+  "postalCode": "92352"
  },
  {
   "id": 7304011007,
   "districtId": 7304011,
-  "name": "BEROANGING"
+  "districtName": "BANGKALA BARAT",
+  "name": "BEROANGING",
+  "postalCode": "92352"
  },
  {
   "id": 7304011008,
   "districtId": 7304011,
-  "name": "PAPPALLUANG"
+  "districtName": "BANGKALA BARAT",
+  "name": "PAPPALLUANG",
+  "postalCode": "92352"
  }
 ]

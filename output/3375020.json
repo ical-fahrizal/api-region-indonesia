@@ -2,36 +2,50 @@
  {
   "id": 3375020007,
   "districtId": 3375020,
-  "name": "KAUMAN"
+  "districtName": "PEKALONGAN TIMUR",
+  "name": "KAUMAN",
+  "postalCode": "51215"
  },
  {
   "id": 3375020010,
   "districtId": 3375020,
-  "name": "PONCOL"
+  "districtName": "PEKALONGAN TIMUR",
+  "name": "PONCOL",
+  "postalCode": "51122"
  },
  {
   "id": 3375020011,
   "districtId": 3375020,
-  "name": "KLEGO"
+  "districtName": "PEKALONGAN TIMUR",
+  "name": "KLEGO",
+  "postalCode": "57385"
  },
  {
   "id": 3375020013,
   "districtId": 3375020,
-  "name": "GAMER"
+  "districtName": "PEKALONGAN TIMUR",
+  "name": "GAMER",
+  "postalCode": "51123"
  },
  {
   "id": 3375020014,
   "districtId": 3375020,
-  "name": "NOYONTAANSARI"
+  "districtName": "PEKALONGAN TIMUR",
+  "name": "NOYONTAANSARI",
+  "postalCode": ""
  },
  {
   "id": 3375020015,
   "districtId": 3375020,
-  "name": "SETONO"
+  "districtName": "PEKALONGAN TIMUR",
+  "name": "SETONO",
+  "postalCode": "63492"
  },
  {
   "id": 3375020016,
   "districtId": 3375020,
-  "name": "KALI BAROS"
+  "districtName": "PEKALONGAN TIMUR",
+  "name": "KALI BAROS",
+  "postalCode": ""
  }
 ]

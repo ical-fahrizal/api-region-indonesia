@@ -2,51 +2,71 @@
  {
   "id": 6302130001,
   "districtId": 6302130,
-  "name": "MANGKIRANA"
+  "districtName": "KELUMPANG HULU",
+  "name": "MANGKIRANA",
+  "postalCode": "72162"
  },
  {
   "id": 6302130002,
   "districtId": 6302130,
-  "name": "CANTUNG KIRI HILIR"
+  "districtName": "KELUMPANG HULU",
+  "name": "CANTUNG KIRI HILIR",
+  "postalCode": "72162"
  },
  {
   "id": 6302130003,
   "districtId": 6302130,
-  "name": "BANUA LAWAS"
+  "districtName": "KELUMPANG HULU",
+  "name": "BANUA LAWAS",
+  "postalCode": "71553"
  },
  {
   "id": 6302130004,
   "districtId": 6302130,
-  "name": "SIDOMULYO"
+  "districtName": "KELUMPANG HULU",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  },
  {
   "id": 6302130005,
   "districtId": 6302130,
-  "name": "KARANG PAYAU"
+  "districtName": "KELUMPANG HULU",
+  "name": "KARANG PAYAU",
+  "postalCode": "72162"
  },
  {
   "id": 6302130006,
   "districtId": 6302130,
-  "name": "SUNGAI KUPANG"
+  "districtName": "KELUMPANG HULU",
+  "name": "SUNGAI KUPANG",
+  "postalCode": ""
  },
  {
   "id": 6302130007,
   "districtId": 6302130,
-  "name": "BANGKALAN MELAYU"
+  "districtName": "KELUMPANG HULU",
+  "name": "BANGKALAN MELAYU",
+  "postalCode": ""
  },
  {
   "id": 6302130008,
   "districtId": 6302130,
-  "name": "KARANG LIWAR"
+  "districtName": "KELUMPANG HULU",
+  "name": "KARANG LIWAR",
+  "postalCode": "72162"
  },
  {
   "id": 6302130009,
   "districtId": 6302130,
-  "name": "BANGKALAN DAYAK"
+  "districtName": "KELUMPANG HULU",
+  "name": "BANGKALAN DAYAK",
+  "postalCode": ""
  },
  {
   "id": 6302130010,
   "districtId": 6302130,
-  "name": "LABURAN"
+  "districtName": "KELUMPANG HULU",
+  "name": "LABURAN",
+  "postalCode": "72162"
  }
 ]

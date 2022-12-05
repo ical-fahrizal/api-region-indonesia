@@ -2,71 +2,99 @@
  {
   "id": 7306010008,
   "districtId": 7306010,
-  "name": "MANJAPAI"
+  "districtName": "BONTONOMPO",
+  "name": "MANJAPAI",
+  "postalCode": "92153"
  },
  {
   "id": 7306010010,
   "districtId": 7306010,
-  "name": "BAREMBENG"
+  "districtName": "BONTONOMPO",
+  "name": "BAREMBENG",
+  "postalCode": "92153"
  },
  {
   "id": 7306010011,
   "districtId": 7306010,
-  "name": "BONTOLANGKASA SELATAN"
+  "districtName": "BONTONOMPO",
+  "name": "BONTOLANGKASA SELATAN",
+  "postalCode": "92153"
  },
  {
   "id": 7306010012,
   "districtId": 7306010,
-  "name": "BONTOLANGKASA UTARA"
+  "districtName": "BONTONOMPO",
+  "name": "BONTOLANGKASA UTARA",
+  "postalCode": "92153"
  },
  {
   "id": 7306010013,
   "districtId": 7306010,
-  "name": "KALASERENA"
+  "districtName": "BONTONOMPO",
+  "name": "KALASERENA",
+  "postalCode": "92153"
  },
  {
   "id": 7306010014,
   "districtId": 7306010,
-  "name": "TAMALLAYANG"
+  "districtName": "BONTONOMPO",
+  "name": "TAMALLAYANG",
+  "postalCode": "92153"
  },
  {
   "id": 7306010015,
   "districtId": 7306010,
-  "name": "BONTONOMPO"
+  "districtName": "BONTONOMPO",
+  "name": "BONTONOMPO",
+  "postalCode": "92153"
  },
  {
   "id": 7306010016,
   "districtId": 7306010,
-  "name": "BONTOBIRAENG UTARA"
+  "districtName": "BONTONOMPO",
+  "name": "BONTOBIRAENG UTARA",
+  "postalCode": ""
  },
  {
   "id": 7306010017,
   "districtId": 7306010,
-  "name": "ROMANGLASA"
+  "districtName": "BONTONOMPO",
+  "name": "ROMANGLASA",
+  "postalCode": "92153"
  },
  {
   "id": 7306010018,
   "districtId": 7306010,
-  "name": "KALEBAREMBENG"
+  "districtName": "BONTONOMPO",
+  "name": "KALEBAREMBENG",
+  "postalCode": "92153"
  },
  {
   "id": 7306010019,
   "districtId": 7306010,
-  "name": "KATANGKA"
+  "districtName": "BONTONOMPO",
+  "name": "KATANGKA",
+  "postalCode": "92153"
  },
  {
   "id": 7306010020,
   "districtId": 7306010,
-  "name": "BATEGULUNG"
+  "districtName": "BONTONOMPO",
+  "name": "BATEGULUNG",
+  "postalCode": "92153"
  },
  {
   "id": 7306010021,
   "districtId": 7306010,
-  "name": "BONTOBIRAENG SELATAN"
+  "districtName": "BONTONOMPO",
+  "name": "BONTOBIRAENG SELATAN",
+  "postalCode": "92153"
  },
  {
   "id": 7306010022,
   "districtId": 7306010,
-  "name": "BULOGADING"
+  "districtName": "BONTONOMPO",
+  "name": "BULOGADING",
+  "postalCode": "92153"
  }
 ]

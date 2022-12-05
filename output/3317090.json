@@ -2,111 +2,155 @@
  {
   "id": 3317090002,
   "districtId": 3317090,
-  "name": "MAGUAN"
+  "districtName": "KALIORI",
+  "name": "MAGUAN",
+  "postalCode": "59252"
  },
  {
   "id": 3317090003,
   "districtId": 3317090,
-  "name": "SIDOMULYO"
+  "districtName": "KALIORI",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  },
  {
   "id": 3317090004,
   "districtId": 3317090,
-  "name": "WIROTO"
+  "districtName": "KALIORI",
+  "name": "WIROTO",
+  "postalCode": "59252"
  },
  {
   "id": 3317090005,
   "districtId": 3317090,
-  "name": "BANGGI"
+  "districtName": "KALIORI",
+  "name": "BANGGI",
+  "postalCode": "59252"
  },
  {
   "id": 3317090006,
   "districtId": 3317090,
-  "name": "KUANGSAN"
+  "districtName": "KALIORI",
+  "name": "KUANGSAN",
+  "postalCode": "59252"
  },
  {
   "id": 3317090007,
   "districtId": 3317090,
-  "name": "GUNUNGSARI"
+  "districtName": "KALIORI",
+  "name": "GUNUNGSARI",
+  "postalCode": "35368"
  },
  {
   "id": 3317090008,
   "districtId": 3317090,
-  "name": "SENDANGAGUNG"
+  "districtName": "KALIORI",
+  "name": "SENDANGAGUNG",
+  "postalCode": "57675"
  },
  {
   "id": 3317090009,
   "districtId": 3317090,
-  "name": "KARANGSEKAR"
+  "districtName": "KALIORI",
+  "name": "KARANGSEKAR",
+  "postalCode": "59252"
  },
  {
   "id": 3317090010,
   "districtId": 3317090,
-  "name": "BABADAN"
+  "districtName": "KALIORI",
+  "name": "BABADAN",
+  "postalCode": "45151"
  },
  {
   "id": 3317090011,
   "districtId": 3317090,
-  "name": "PENGKOL"
+  "districtName": "KALIORI",
+  "name": "PENGKOL",
+  "postalCode": "57692"
  },
  {
   "id": 3317090012,
   "districtId": 3317090,
-  "name": "SAMBIYAN"
+  "districtName": "KALIORI",
+  "name": "SAMBIYAN",
+  "postalCode": "59252"
  },
  {
   "id": 3317090013,
   "districtId": 3317090,
-  "name": "MOJOREMBUN"
+  "districtName": "KALIORI",
+  "name": "MOJOREMBUN",
+  "postalCode": "59252"
  },
  {
   "id": 3317090014,
   "districtId": 3317090,
-  "name": "TUNGGULSARI"
+  "districtName": "KALIORI",
+  "name": "TUNGGULSARI",
+  "postalCode": "51371"
  },
  {
   "id": 3317090015,
   "districtId": 3317090,
-  "name": "TAMBAKAGUNG"
+  "districtName": "KALIORI",
+  "name": "TAMBAKAGUNG",
+  "postalCode": "59252"
  },
  {
   "id": 3317090016,
   "districtId": 3317090,
-  "name": "MOJOWARNO"
+  "districtName": "KALIORI",
+  "name": "MOJOWARNO",
+  "postalCode": "59252"
  },
  {
   "id": 3317090017,
   "districtId": 3317090,
-  "name": "DRESI KULON"
+  "districtName": "KALIORI",
+  "name": "DRESI KULON",
+  "postalCode": "59252"
  },
  {
   "id": 3317090018,
   "districtId": 3317090,
-  "name": "DRESI WETAN"
+  "districtName": "KALIORI",
+  "name": "DRESI WETAN",
+  "postalCode": "59252"
  },
  {
   "id": 3317090019,
   "districtId": 3317090,
-  "name": "TASIKHARJO"
+  "districtName": "KALIORI",
+  "name": "TASIKHARJO",
+  "postalCode": "59252"
  },
  {
   "id": 3317090020,
   "districtId": 3317090,
-  "name": "PURWOREJO"
+  "districtName": "KALIORI",
+  "name": "PURWOREJO",
+  "postalCode": "23661"
  },
  {
   "id": 3317090021,
   "districtId": 3317090,
-  "name": "BOGOHARJO"
+  "districtName": "KALIORI",
+  "name": "BOGOHARJO",
+  "postalCode": "59252"
  },
  {
   "id": 3317090022,
   "districtId": 3317090,
-  "name": "BANYUDONO"
+  "districtName": "KALIORI",
+  "name": "BANYUDONO",
+  "postalCode": "57373"
  },
  {
   "id": 3317090023,
   "districtId": 3317090,
-  "name": "PANTIHARJO"
+  "districtName": "KALIORI",
+  "name": "PANTIHARJO",
+  "postalCode": "59252"
  }
 ]

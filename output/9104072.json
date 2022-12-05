@@ -2,56 +2,78 @@
  {
   "id": 9104072001,
   "districtId": 9104072,
-  "name": "SEBYAR REJOSARI"
+  "districtName": "TOMU",
+  "name": "SEBYAR REJOSARI",
+  "postalCode": ""
  },
  {
   "id": 9104072002,
   "districtId": 9104072,
-  "name": "TOMU"
+  "districtName": "TOMU",
+  "name": "TOMU",
+  "postalCode": "98365"
  },
  {
   "id": 9104072003,
   "districtId": 9104072,
-  "name": "TAROI"
+  "districtName": "TOMU",
+  "name": "TAROI",
+  "postalCode": ""
  },
  {
   "id": 9104072004,
   "districtId": 9104072,
-  "name": "EKAM"
+  "districtName": "TOMU",
+  "name": "EKAM",
+  "postalCode": "98365"
  },
  {
   "id": 9104072005,
   "districtId": 9104072,
-  "name": "WANAGIR"
+  "districtName": "TOMU",
+  "name": "WANAGIR",
+  "postalCode": ""
  },
  {
   "id": 9104072006,
   "districtId": 9104072,
-  "name": "AYUT"
+  "districtName": "TOMU",
+  "name": "AYUT",
+  "postalCode": ""
  },
  {
   "id": 9104072007,
   "districtId": 9104072,
-  "name": "ADUR"
+  "districtName": "TOMU",
+  "name": "ADUR",
+  "postalCode": ""
  },
  {
   "id": 9104072008,
   "districtId": 9104072,
-  "name": "SORONDAUN"
+  "districtName": "TOMU",
+  "name": "SORONDAUN",
+  "postalCode": ""
  },
  {
   "id": 9104072009,
   "districtId": 9104072,
-  "name": "PERA-PERA"
+  "districtName": "TOMU",
+  "name": "PERA-PERA",
+  "postalCode": ""
  },
  {
   "id": 9104072010,
   "districtId": 9104072,
-  "name": "TAMBANUA"
+  "districtName": "TOMU",
+  "name": "TAMBANUA",
+  "postalCode": ""
  },
  {
   "id": 9104072011,
   "districtId": 9104072,
-  "name": "TOTITRA"
+  "districtName": "TOMU",
+  "name": "TOTITRA",
+  "postalCode": ""
  }
 ]

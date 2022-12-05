@@ -2,76 +2,106 @@
  {
   "id": 1604121001,
   "districtId": 1604121,
-  "name": "SUGI WARAS"
+  "districtName": "GUMAY TALANG",
+  "name": "SUGI WARAS",
+  "postalCode": "31453"
  },
  {
   "id": 1604121002,
   "districtId": 1604121,
-  "name": "TANJUNG PERIUK"
+  "districtName": "GUMAY TALANG",
+  "name": "TANJUNG PERIUK",
+  "postalCode": "31419"
  },
  {
   "id": 1604121003,
   "districtId": 1604121,
-  "name": "TANJUNG KARANGAN"
+  "districtName": "GUMAY TALANG",
+  "name": "TANJUNG KARANGAN",
+  "postalCode": "31419"
  },
  {
   "id": 1604121004,
   "districtId": 1604121,
-  "name": "MUARA TANDI"
+  "districtName": "GUMAY TALANG",
+  "name": "MUARA TANDI",
+  "postalCode": "31419"
  },
  {
   "id": 1604121005,
   "districtId": 1604121,
-  "name": "DARMO"
+  "districtName": "GUMAY TALANG",
+  "name": "DARMO",
+  "postalCode": "31419"
  },
  {
   "id": 1604121006,
   "districtId": 1604121,
-  "name": "ENDIKAT ILIR"
+  "districtName": "GUMAY TALANG",
+  "name": "ENDIKAT ILIR",
+  "postalCode": "31419"
  },
  {
   "id": 1604121007,
   "districtId": 1604121,
-  "name": "TANJUNG BARU"
+  "districtName": "GUMAY TALANG",
+  "name": "TANJUNG BARU",
+  "postalCode": "22742"
  },
  {
   "id": 1604121008,
   "districtId": 1604121,
-  "name": "NGALAM BARU"
+  "districtName": "GUMAY TALANG",
+  "name": "NGALAM BARU",
+  "postalCode": "31419"
  },
  {
   "id": 1604121009,
   "districtId": 1604121,
-  "name": "MANDI ANGIN"
+  "districtName": "GUMAY TALANG",
+  "name": "MANDI ANGIN",
+  "postalCode": "28685"
  },
  {
   "id": 1604121010,
   "districtId": 1604121,
-  "name": "TANJUNG DALAM"
+  "districtName": "GUMAY TALANG",
+  "name": "TANJUNG DALAM",
+  "postalCode": "37372"
  },
  {
   "id": 1604121011,
   "districtId": 1604121,
-  "name": "TANAH PILIH"
+  "districtName": "GUMAY TALANG",
+  "name": "TANAH PILIH",
+  "postalCode": "30971"
  },
  {
   "id": 1604121012,
   "districtId": 1604121,
-  "name": "TANJUNG BERINGIN"
+  "districtName": "GUMAY TALANG",
+  "name": "TANJUNG BERINGIN",
+  "postalCode": "22161"
  },
  {
   "id": 1604121013,
   "districtId": 1604121,
-  "name": "BATAY"
+  "districtName": "GUMAY TALANG",
+  "name": "BATAY",
+  "postalCode": "31419"
  },
  {
   "id": 1604121014,
   "districtId": 1604121,
-  "name": "SUKARAMI"
+  "districtName": "GUMAY TALANG",
+  "name": "SUKARAMI",
+  "postalCode": "32382"
  },
  {
   "id": 1604121015,
   "districtId": 1604121,
-  "name": "SUKA MAKMUR"
+  "districtName": "GUMAY TALANG",
+  "name": "SUKA MAKMUR",
+  "postalCode": "24784"
  }
 ]

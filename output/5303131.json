@@ -2,41 +2,57 @@
  {
   "id": 5303131001,
   "districtId": 5303131,
-  "name": "NEKBAUN"
+  "districtName": "AMARASI BARAT",
+  "name": "NEKBAUN",
+  "postalCode": "85367"
  },
  {
   "id": 5303131002,
   "districtId": 5303131,
-  "name": "MERBAUN"
+  "districtName": "AMARASI BARAT",
+  "name": "MERBAUN",
+  "postalCode": "85367"
  },
  {
   "id": 5303131003,
   "districtId": 5303131,
-  "name": "ERBAUN"
+  "districtName": "AMARASI BARAT",
+  "name": "ERBAUN",
+  "postalCode": "85367"
  },
  {
   "id": 5303131004,
   "districtId": 5303131,
-  "name": "TEUNBAUN"
+  "districtName": "AMARASI BARAT",
+  "name": "TEUNBAUN",
+  "postalCode": "85367"
  },
  {
   "id": 5303131005,
   "districtId": 5303131,
-  "name": "TUNBAUN"
+  "districtName": "AMARASI BARAT",
+  "name": "TUNBAUN",
+  "postalCode": "85367"
  },
  {
   "id": 5303131006,
   "districtId": 5303131,
-  "name": "SOBA"
+  "districtName": "AMARASI BARAT",
+  "name": "SOBA",
+  "postalCode": "85367"
  },
  {
   "id": 5303131007,
   "districtId": 5303131,
-  "name": "NIUKBAUN"
+  "districtName": "AMARASI BARAT",
+  "name": "NIUKBAUN",
+  "postalCode": "85367"
  },
  {
   "id": 5303131008,
   "districtId": 5303131,
-  "name": "TOOBAUN"
+  "districtName": "AMARASI BARAT",
+  "name": "TOOBAUN",
+  "postalCode": "85367"
  }
 ]

@@ -2,66 +2,92 @@
  {
   "id": 1108061001,
   "districtId": 1108061,
-  "name": "BLANG KRUENG"
+  "districtName": "BAITUSSALAM",
+  "name": "BLANG KRUENG",
+  "postalCode": "23373"
  },
  {
   "id": 1108061002,
   "districtId": 1108061,
-  "name": "BAET"
+  "districtName": "BAITUSSALAM",
+  "name": "BAET",
+  "postalCode": "23373"
  },
  {
   "id": 1108061003,
   "districtId": 1108061,
-  "name": "CADEK"
+  "districtName": "BAITUSSALAM",
+  "name": "CADEK",
+  "postalCode": "23373"
  },
  {
   "id": 1108061004,
   "districtId": 1108061,
-  "name": "KAJHU"
+  "districtName": "BAITUSSALAM",
+  "name": "KAJHU",
+  "postalCode": "23373"
  },
  {
   "id": 1108061005,
   "districtId": 1108061,
-  "name": "COT PAYA"
+  "districtName": "BAITUSSALAM",
+  "name": "COT PAYA",
+  "postalCode": "23373"
  },
  {
   "id": 1108061006,
   "districtId": 1108061,
-  "name": "LAMBADA LHOK"
+  "districtName": "BAITUSSALAM",
+  "name": "LAMBADA LHOK",
+  "postalCode": ""
  },
  {
   "id": 1108061007,
   "districtId": 1108061,
-  "name": "KLIENG COT ARON"
+  "districtName": "BAITUSSALAM",
+  "name": "KLIENG COT ARON",
+  "postalCode": "23373"
  },
  {
   "id": 1108061008,
   "districtId": 1108061,
-  "name": "MIRUEK LAMREUDEUP"
+  "districtName": "BAITUSSALAM",
+  "name": "MIRUEK LAMREUDEUP",
+  "postalCode": ""
  },
  {
   "id": 1108061009,
   "districtId": 1108061,
-  "name": "KLIENG MEURIA"
+  "districtName": "BAITUSSALAM",
+  "name": "KLIENG MEURIA",
+  "postalCode": "23373"
  },
  {
   "id": 1108061010,
   "districtId": 1108061,
-  "name": "LAMPINEUNG"
+  "districtName": "BAITUSSALAM",
+  "name": "LAMPINEUNG",
+  "postalCode": "23373"
  },
  {
   "id": 1108061011,
   "districtId": 1108061,
-  "name": "LAM ASAN"
+  "districtName": "BAITUSSALAM",
+  "name": "LAM ASAN",
+  "postalCode": "23373"
  },
  {
   "id": 1108061012,
   "districtId": 1108061,
-  "name": "LABUY"
+  "districtName": "BAITUSSALAM",
+  "name": "LABUY",
+  "postalCode": ""
  },
  {
   "id": 1108061013,
   "districtId": 1108061,
-  "name": "LAM UJONG"
+  "districtName": "BAITUSSALAM",
+  "name": "LAM UJONG",
+  "postalCode": "23373"
  }
 ]

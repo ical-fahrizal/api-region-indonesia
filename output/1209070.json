@@ -2,76 +2,106 @@
  {
   "id": 1209070001,
   "districtId": 1209070,
-  "name": "DOLOK PARMONANGAN"
+  "districtName": "DOLOK PANRIBUAN",
+  "name": "DOLOK PARMONANGAN",
+  "postalCode": "21184"
  },
  {
   "id": 1209070002,
   "districtId": 1209070,
-  "name": "NEGERI DOLOK"
+  "districtName": "DOLOK PANRIBUAN",
+  "name": "NEGERI DOLOK",
+  "postalCode": "21173"
  },
  {
   "id": 1209070003,
   "districtId": 1209070,
-  "name": "GUNUNG MARIAH"
+  "districtName": "DOLOK PANRIBUAN",
+  "name": "GUNUNG MARIAH",
+  "postalCode": "21173"
  },
  {
   "id": 1209070004,
   "districtId": 1209070,
-  "name": "MARIHAT DOLOK"
+  "districtName": "DOLOK PANRIBUAN",
+  "name": "MARIHAT DOLOK",
+  "postalCode": "20984"
  },
  {
   "id": 1209070005,
   "districtId": 1209070,
-  "name": "MARIHAT RAJA"
+  "districtName": "DOLOK PANRIBUAN",
+  "name": "MARIHAT RAJA",
+  "postalCode": "21173"
  },
  {
   "id": 1209070006,
   "districtId": 1209070,
-  "name": "TIGA DOLOK"
+  "districtName": "DOLOK PANRIBUAN",
+  "name": "TIGA DOLOK",
+  "postalCode": "21173"
  },
  {
   "id": 1209070007,
   "districtId": 1209070,
-  "name": "BANDAR DOLOK"
+  "districtName": "DOLOK PANRIBUAN",
+  "name": "BANDAR DOLOK",
+  "postalCode": "21173"
  },
  {
   "id": 1209070008,
   "districtId": 1209070,
-  "name": "DOLOK TOMUAN"
+  "districtName": "DOLOK PANRIBUAN",
+  "name": "DOLOK TOMUAN",
+  "postalCode": "21173"
  },
  {
   "id": 1209070009,
   "districtId": 1209070,
-  "name": "UJUNG BONDAR"
+  "districtName": "DOLOK PANRIBUAN",
+  "name": "UJUNG BONDAR",
+  "postalCode": "21173"
  },
  {
   "id": 1209070010,
   "districtId": 1209070,
-  "name": "SIATASAN"
+  "districtName": "DOLOK PANRIBUAN",
+  "name": "SIATASAN",
+  "postalCode": "21173"
  },
  {
   "id": 1209070011,
   "districtId": 1209070,
-  "name": "PONDOK BULUH"
+  "districtName": "DOLOK PANRIBUAN",
+  "name": "PONDOK BULUH",
+  "postalCode": "21173"
  },
  {
   "id": 1209070012,
   "districtId": 1209070,
-  "name": "MARIHAT PONDOK"
+  "districtName": "DOLOK PANRIBUAN",
+  "name": "MARIHAT PONDOK",
+  "postalCode": "21173"
  },
  {
   "id": 1209070013,
   "districtId": 1209070,
-  "name": "MARIHAT MARSADA"
+  "districtName": "DOLOK PANRIBUAN",
+  "name": "MARIHAT MARSADA",
+  "postalCode": "21173"
  },
  {
   "id": 1209070014,
   "districtId": 1209070,
-  "name": "LUMBAN GORAT"
+  "districtName": "DOLOK PANRIBUAN",
+  "name": "LUMBAN GORAT",
+  "postalCode": "22312"
  },
  {
   "id": 1209070015,
   "districtId": 1209070,
-  "name": "PALIANAOPAT"
+  "districtName": "DOLOK PANRIBUAN",
+  "name": "PALIANAOPAT",
+  "postalCode": ""
  }
 ]

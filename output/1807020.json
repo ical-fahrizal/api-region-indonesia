@@ -2,111 +2,155 @@
  {
   "id": 1807020014,
   "districtId": 1807020,
-  "name": "BANJAR MASIN"
+  "districtName": "BARADATU",
+  "name": "BANJAR MASIN",
+  "postalCode": "35682"
  },
  {
   "id": 1807020015,
   "districtId": 1807020,
-  "name": "BANJAR AGUNG"
+  "districtName": "BARADATU",
+  "name": "BANJAR AGUNG",
+  "postalCode": "32211"
  },
  {
   "id": 1807020016,
   "districtId": 1807020,
-  "name": "BANJAR MULIA"
+  "districtName": "BARADATU",
+  "name": "BANJAR MULIA",
+  "postalCode": ""
  },
  {
   "id": 1807020017,
   "districtId": 1807020,
-  "name": "BANJAR BARU"
+  "districtName": "BARADATU",
+  "name": "BANJAR BARU",
+  "postalCode": "34761"
  },
  {
   "id": 1807020018,
   "districtId": 1807020,
-  "name": "BANJAR NEGARA"
+  "districtName": "BARADATU",
+  "name": "BANJAR NEGARA",
+  "postalCode": "31419"
  },
  {
   "id": 1807020019,
   "districtId": 1807020,
-  "name": "BANJAR SETIA"
+  "districtName": "BARADATU",
+  "name": "BANJAR SETIA",
+  "postalCode": "34761"
  },
  {
   "id": 1807020020,
   "districtId": 1807020,
-  "name": "MEKAR ASRI"
+  "districtName": "BARADATU",
+  "name": "MEKAR ASRI",
+  "postalCode": "34761"
  },
  {
   "id": 1807020021,
   "districtId": 1807020,
-  "name": "TIUH BALAK"
+  "districtName": "BARADATU",
+  "name": "TIUH BALAK",
+  "postalCode": "34761"
  },
  {
   "id": 1807020022,
   "districtId": 1807020,
-  "name": "CAMPUR ASRI"
+  "districtName": "BARADATU",
+  "name": "CAMPUR ASRI",
+  "postalCode": "34761"
  },
  {
   "id": 1807020023,
   "districtId": 1807020,
-  "name": "GEDUNG REJO"
+  "districtName": "BARADATU",
+  "name": "GEDUNG REJO",
+  "postalCode": "32382"
  },
  {
   "id": 1807020024,
   "districtId": 1807020,
-  "name": "TAMAN ASRI"
+  "districtName": "BARADATU",
+  "name": "TAMAN ASRI",
+  "postalCode": "32386"
  },
  {
   "id": 1807020025,
   "districtId": 1807020,
-  "name": "TIUH BALAK PASAR"
+  "districtName": "BARADATU",
+  "name": "TIUH BALAK PASAR",
+  "postalCode": "34761"
  },
  {
   "id": 1807020026,
   "districtId": 1807020,
-  "name": "SETIA NEGARA"
+  "districtName": "BARADATU",
+  "name": "SETIA NEGARA",
+  "postalCode": "21137"
  },
  {
   "id": 1807020027,
   "districtId": 1807020,
-  "name": "BHAKTI NEGARA"
+  "districtName": "BARADATU",
+  "name": "BHAKTI NEGARA",
+  "postalCode": "34762"
  },
  {
   "id": 1807020028,
   "districtId": 1807020,
-  "name": "TIUH BALAK I"
+  "districtName": "BARADATU",
+  "name": "TIUH BALAK I",
+  "postalCode": "34761"
  },
  {
   "id": 1807020029,
   "districtId": 1807020,
-  "name": "GEDUNG PAKUON"
+  "districtName": "BARADATU",
+  "name": "GEDUNG PAKUON",
+  "postalCode": "34761"
  },
  {
   "id": 1807020030,
   "districtId": 1807020,
-  "name": "CUGAH"
+  "districtName": "BARADATU",
+  "name": "CUGAH",
+  "postalCode": "34761"
  },
  {
   "id": 1807020031,
   "districtId": 1807020,
-  "name": "BUMI MERAPI"
+  "districtName": "BARADATU",
+  "name": "BUMI MERAPI",
+  "postalCode": "34761"
  },
  {
   "id": 1807020032,
   "districtId": 1807020,
-  "name": "BUMI REJO"
+  "districtName": "BARADATU",
+  "name": "BUMI REJO",
+  "postalCode": "31665"
  },
  {
   "id": 1807020033,
   "districtId": 1807020,
-  "name": "BANJAR SARI"
+  "districtName": "BARADATU",
+  "name": "BANJAR SARI",
+  "postalCode": "31471"
  },
  {
   "id": 1807020034,
   "districtId": 1807020,
-  "name": "SUKOSARI"
+  "districtName": "BARADATU",
+  "name": "SUKOSARI",
+  "postalCode": "32382"
  },
  {
   "id": 1807020038,
   "districtId": 1807020,
-  "name": "GUNUNG KATUN"
+  "districtName": "BARADATU",
+  "name": "GUNUNG KATUN",
+  "postalCode": "34761"
  }
 ]

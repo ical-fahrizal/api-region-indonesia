@@ -2,36 +2,50 @@
  {
   "id": 3671012001,
   "districtId": 3671012,
-  "name": "PEDURENAN"
+  "districtName": "KARANG TENGAH",
+  "name": "PEDURENAN",
+  "postalCode": ""
  },
  {
   "id": 3671012002,
   "districtId": 3671012,
-  "name": "PONDOK PUCUNG"
+  "districtName": "KARANG TENGAH",
+  "name": "PONDOK PUCUNG",
+  "postalCode": "15158"
  },
  {
   "id": 3671012003,
   "districtId": 3671012,
-  "name": "KARANG TENGAH"
+  "districtName": "KARANG TENGAH",
+  "name": "KARANG TENGAH",
+  "postalCode": "20991"
  },
  {
   "id": 3671012004,
   "districtId": 3671012,
-  "name": "KARANG TIMUR"
+  "districtName": "KARANG TENGAH",
+  "name": "KARANG TIMUR",
+  "postalCode": "15157"
  },
  {
   "id": 3671012005,
   "districtId": 3671012,
-  "name": "KARANG MULYA"
+  "districtName": "KARANG TENGAH",
+  "name": "KARANG MULYA",
+  "postalCode": "32185"
  },
  {
   "id": 3671012006,
   "districtId": 3671012,
-  "name": "PARUNG JAYA"
+  "districtName": "KARANG TENGAH",
+  "name": "PARUNG JAYA",
+  "postalCode": "15159"
  },
  {
   "id": 3671012007,
   "districtId": 3671012,
-  "name": "PONDOK BAHAR"
+  "districtName": "KARANG TENGAH",
+  "name": "PONDOK BAHAR",
+  "postalCode": "15159"
  }
 ]

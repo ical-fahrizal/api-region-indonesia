@@ -2,41 +2,57 @@
  {
   "id": 3326040001,
   "districtId": 3326040,
-  "name": "SIMEGO"
+  "districtName": "PETUNGKRIONO",
+  "name": "SIMEGO",
+  "postalCode": "51193"
  },
  {
   "id": 3326040002,
   "districtId": 3326040,
-  "name": "SONGGODADI"
+  "districtName": "PETUNGKRIONO",
+  "name": "SONGGODADI",
+  "postalCode": "51193"
  },
  {
   "id": 3326040003,
   "districtId": 3326040,
-  "name": "CURUGMUNCAR"
+  "districtName": "PETUNGKRIONO",
+  "name": "CURUGMUNCAR",
+  "postalCode": "51193"
  },
  {
   "id": 3326040005,
   "districtId": 3326040,
-  "name": "TLOGOHENDRO"
+  "districtName": "PETUNGKRIONO",
+  "name": "TLOGOHENDRO",
+  "postalCode": "51193"
  },
  {
   "id": 3326040006,
   "districtId": 3326040,
-  "name": "YOSOREJO"
+  "districtName": "PETUNGKRIONO",
+  "name": "YOSOREJO",
+  "postalCode": "34112"
  },
  {
   "id": 3326040007,
   "districtId": 3326040,
-  "name": "TLOGOPAKIS"
+  "districtName": "PETUNGKRIONO",
+  "name": "TLOGOPAKIS",
+  "postalCode": "51193"
  },
  {
   "id": 3326040008,
   "districtId": 3326040,
-  "name": "KASIMPAR"
+  "districtName": "PETUNGKRIONO",
+  "name": "KASIMPAR",
+  "postalCode": "51193"
  },
  {
   "id": 3326040009,
   "districtId": 3326040,
-  "name": "KAYUPURING"
+  "districtName": "PETUNGKRIONO",
+  "name": "KAYUPURING",
+  "postalCode": "51193"
  }
 ]

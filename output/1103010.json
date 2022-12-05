@@ -2,61 +2,85 @@
  {
   "id": 1103010001,
   "districtId": 1103010,
-  "name": "KUTA PADANG"
+  "districtName": "TRUMON",
+  "name": "KUTA PADANG",
+  "postalCode": "23652"
  },
  {
   "id": 1103010002,
   "districtId": 1103010,
-  "name": "RAKET"
+  "districtName": "TRUMON",
+  "name": "RAKET",
+  "postalCode": "23774"
  },
  {
   "id": 1103010003,
   "districtId": 1103010,
-  "name": "GAMPONG TENGAH"
+  "districtName": "TRUMON",
+  "name": "GAMPONG TENGAH",
+  "postalCode": ""
  },
  {
   "id": 1103010004,
   "districtId": 1103010,
-  "name": "TEPIN TINGGI"
+  "districtName": "TRUMON",
+  "name": "TEPIN TINGGI",
+  "postalCode": ""
  },
  {
   "id": 1103010005,
   "districtId": 1103010,
-  "name": "IE MEUDAMA"
+  "districtName": "TRUMON",
+  "name": "IE MEUDAMA",
+  "postalCode": "23774"
  },
  {
   "id": 1103010009,
   "districtId": 1103010,
-  "name": "UJONG TAN0H"
+  "districtName": "TRUMON",
+  "name": "UJONG TAN0H",
+  "postalCode": ""
  },
  {
   "id": 1103010010,
   "districtId": 1103010,
-  "name": "KEUDE TRUMON"
+  "districtName": "TRUMON",
+  "name": "KEUDE TRUMON",
+  "postalCode": "23774"
  },
  {
   "id": 1103010011,
   "districtId": 1103010,
-  "name": "KUTA BARU"
+  "districtName": "TRUMON",
+  "name": "KUTA BARU",
+  "postalCode": "20998"
  },
  {
   "id": 1103010012,
   "districtId": 1103010,
-  "name": "SINGLENG"
+  "districtName": "TRUMON",
+  "name": "SINGLENG",
+  "postalCode": ""
  },
  {
   "id": 1103010013,
   "districtId": 1103010,
-  "name": "PANTON BILI"
+  "districtName": "TRUMON",
+  "name": "PANTON BILI",
+  "postalCode": "24263"
  },
  {
   "id": 1103010027,
   "districtId": 1103010,
-  "name": "UPT II PD HARAPAN"
+  "districtName": "TRUMON",
+  "name": "UPT II PD HARAPAN",
+  "postalCode": ""
  },
  {
   "id": 1103010030,
   "districtId": 1103010,
-  "name": "SEUNABOK JAYA (EX UPT V)"
+  "districtName": "TRUMON",
+  "name": "SEUNABOK JAYA (EX UPT V)",
+  "postalCode": ""
  }
 ]

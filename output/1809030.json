@@ -2,61 +2,85 @@
  {
   "id": 1809030010,
   "districtId": 1809030,
-  "name": "SUKAMAJU"
+  "districtName": "KEDONDONG",
+  "name": "SUKAMAJU",
+  "postalCode": "22465"
  },
  {
   "id": 1809030011,
   "districtId": 1809030,
-  "name": "WAYKEPAYANG"
+  "districtName": "KEDONDONG",
+  "name": "WAYKEPAYANG",
+  "postalCode": ""
  },
  {
   "id": 1809030012,
   "districtId": 1809030,
-  "name": "KEDONDONG"
+  "districtName": "KEDONDONG",
+  "name": "KEDONDONG",
+  "postalCode": "32191"
  },
  {
   "id": 1809030013,
   "districtId": 1809030,
-  "name": "SINAR HARAPAN"
+  "districtName": "KEDONDONG",
+  "name": "SINAR HARAPAN",
+  "postalCode": "30756"
  },
  {
   "id": 1809030014,
   "districtId": 1809030,
-  "name": "TEMPEL REJO"
+  "districtName": "KEDONDONG",
+  "name": "TEMPEL REJO",
+  "postalCode": "39124"
  },
  {
   "id": 1809030015,
   "districtId": 1809030,
-  "name": "PASAR BARU"
+  "districtName": "KEDONDONG",
+  "name": "PASAR BARU",
+  "postalCode": "22163"
  },
  {
   "id": 1809030016,
   "districtId": 1809030,
-  "name": "KERTA SANA"
+  "districtName": "KEDONDONG",
+  "name": "KERTA SANA",
+  "postalCode": "35368"
  },
  {
   "id": 1809030017,
   "districtId": 1809030,
-  "name": "GUNUNG SUGIH"
+  "districtName": "KEDONDONG",
+  "name": "GUNUNG SUGIH",
+  "postalCode": "32386"
  },
  {
   "id": 1809030032,
   "districtId": 1809030,
-  "name": "BABAKAN LOA"
+  "districtName": "KEDONDONG",
+  "name": "BABAKAN LOA",
+  "postalCode": "35368"
  },
  {
   "id": 1809030033,
   "districtId": 1809030,
-  "name": "PESAWARAN"
+  "districtName": "KEDONDONG",
+  "name": "PESAWARAN",
+  "postalCode": "35368"
  },
  {
   "id": 1809030034,
   "districtId": 1809030,
-  "name": "TEBAJAWA"
+  "districtName": "KEDONDONG",
+  "name": "TEBAJAWA",
+  "postalCode": "35368"
  },
  {
   "id": 1809030035,
   "districtId": 1809030,
-  "name": "HARAPAN JAYA"
+  "districtName": "KEDONDONG",
+  "name": "HARAPAN JAYA",
+  "postalCode": "20773"
  }
 ]

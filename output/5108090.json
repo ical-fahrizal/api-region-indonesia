@@ -2,46 +2,64 @@
  {
   "id": 5108090001,
   "districtId": 5108090,
-  "name": "SEMBIRAN"
+  "districtName": "TEJAKULA",
+  "name": "SEMBIRAN",
+  "postalCode": "81173"
  },
  {
   "id": 5108090002,
   "districtId": 5108090,
-  "name": "PACUNG"
+  "districtName": "TEJAKULA",
+  "name": "PACUNG",
+  "postalCode": "81173"
  },
  {
   "id": 5108090003,
   "districtId": 5108090,
-  "name": "JULAH"
+  "districtName": "TEJAKULA",
+  "name": "JULAH",
+  "postalCode": "81173"
  },
  {
   "id": 5108090004,
   "districtId": 5108090,
-  "name": "BONDALEM"
+  "districtName": "TEJAKULA",
+  "name": "BONDALEM",
+  "postalCode": "81173"
  },
  {
   "id": 5108090005,
   "districtId": 5108090,
-  "name": "MADENAN"
+  "districtName": "TEJAKULA",
+  "name": "MADENAN",
+  "postalCode": "81173"
  },
  {
   "id": 5108090006,
   "districtId": 5108090,
-  "name": "TEJAKULA"
+  "districtName": "TEJAKULA",
+  "name": "TEJAKULA",
+  "postalCode": "81173"
  },
  {
   "id": 5108090008,
   "districtId": 5108090,
-  "name": "PENUKTUKAN"
+  "districtName": "TEJAKULA",
+  "name": "PENUKTUKAN",
+  "postalCode": "81173"
  },
  {
   "id": 5108090009,
   "districtId": 5108090,
-  "name": "SAMBIRENTENG"
+  "districtName": "TEJAKULA",
+  "name": "SAMBIRENTENG",
+  "postalCode": "81173"
  },
  {
   "id": 5108090010,
   "districtId": 5108090,
-  "name": "TEMBOK"
+  "districtName": "TEJAKULA",
+  "name": "TEMBOK",
+  "postalCode": "51271"
  }
 ]

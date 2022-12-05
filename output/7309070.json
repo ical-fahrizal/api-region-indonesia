@@ -2,61 +2,85 @@
  {
   "id": 7309070001,
   "districtId": 7309070,
-  "name": "BORIMASUNGGU"
+  "districtName": "LABAKKANG",
+  "name": "BORIMASUNGGU",
+  "postalCode": "90244"
  },
  {
   "id": 7309070002,
   "districtId": 7309070,
-  "name": "MANGALLEKANA"
+  "districtName": "LABAKKANG",
+  "name": "MANGALLEKANA",
+  "postalCode": "90653"
  },
  {
   "id": 7309070003,
   "districtId": 7309070,
-  "name": "BATARA"
+  "districtName": "LABAKKANG",
+  "name": "BATARA",
+  "postalCode": "90653"
  },
  {
   "id": 7309070004,
   "districtId": 7309070,
-  "name": "TARAWEANG"
+  "districtName": "LABAKKANG",
+  "name": "TARAWEANG",
+  "postalCode": "90653"
  },
  {
   "id": 7309070005,
   "districtId": 7309070,
-  "name": "BARA BATU"
+  "districtName": "LABAKKANG",
+  "name": "BARA BATU",
+  "postalCode": "22755"
  },
  {
   "id": 7309070006,
   "districtId": 7309070,
-  "name": "KASSI LOE"
+  "districtName": "LABAKKANG",
+  "name": "KASSI LOE",
+  "postalCode": "90653"
  },
  {
   "id": 7309070007,
   "districtId": 7309070,
-  "name": "PATALLASSANG"
+  "districtName": "LABAKKANG",
+  "name": "PATALLASSANG",
+  "postalCode": "90653"
  },
  {
   "id": 7309070008,
   "districtId": 7309070,
-  "name": "LABAKKANG"
+  "districtName": "LABAKKANG",
+  "name": "LABAKKANG",
+  "postalCode": "90653"
  },
  {
   "id": 7309070009,
   "districtId": 7309070,
-  "name": "PUNDATA BAJI"
+  "districtName": "LABAKKANG",
+  "name": "PUNDATA BAJI",
+  "postalCode": "90653"
  },
  {
   "id": 7309070010,
   "districtId": 7309070,
-  "name": "BONTO MANAI"
+  "districtName": "LABAKKANG",
+  "name": "BONTO MANAI",
+  "postalCode": "92451"
  },
  {
   "id": 7309070011,
   "districtId": 7309070,
-  "name": "MANAKKU"
+  "districtName": "LABAKKANG",
+  "name": "MANAKKU",
+  "postalCode": "90653"
  },
  {
   "id": 7309070013,
   "districtId": 7309070,
-  "name": "KANAUNGAN"
+  "districtName": "LABAKKANG",
+  "name": "KANAUNGAN",
+  "postalCode": "90653"
  }
 ]

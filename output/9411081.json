@@ -2,46 +2,64 @@
  {
   "id": 9411081001,
   "districtId": 9411081,
-  "name": "WURAMBURU"
+  "districtName": "LUMO",
+  "name": "WURAMBURU",
+  "postalCode": "98918"
  },
  {
   "id": 9411081002,
   "districtId": 9411081,
-  "name": "GILIBE"
+  "districtName": "LUMO",
+  "name": "GILIBE",
+  "postalCode": "98918"
  },
  {
   "id": 9411081003,
   "districtId": 9411081,
-  "name": "TIGIR"
+  "districtName": "LUMO",
+  "name": "TIGIR",
+  "postalCode": "99562"
  },
  {
   "id": 9411081004,
   "districtId": 9411081,
-  "name": "WULUMA"
+  "districtName": "LUMO",
+  "name": "WULUMA",
+  "postalCode": ""
  },
  {
   "id": 9411081005,
   "districtId": 9411081,
-  "name": "NINGGINERI"
+  "districtName": "LUMO",
+  "name": "NINGGINERI",
+  "postalCode": "98918"
  },
  {
   "id": 9411081006,
   "districtId": 9411081,
-  "name": "WURABAK"
+  "districtName": "LUMO",
+  "name": "WURABAK",
+  "postalCode": "98918"
  },
  {
   "id": 9411081007,
   "districtId": 9411081,
-  "name": "LUMO"
+  "districtName": "LUMO",
+  "name": "LUMO",
+  "postalCode": "98918"
  },
  {
   "id": 9411081008,
   "districtId": 9411081,
-  "name": "GILUME"
+  "districtName": "LUMO",
+  "name": "GILUME",
+  "postalCode": ""
  },
  {
   "id": 9411081009,
   "districtId": 9411081,
-  "name": "KILILUMO"
+  "districtName": "LUMO",
+  "name": "KILILUMO",
+  "postalCode": "98918"
  }
 ]

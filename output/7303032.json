@@ -2,31 +2,43 @@
  {
   "id": 7303032001,
   "districtId": 7303032,
-  "name": "TANAHLOE"
+  "districtName": "GANTARANGKEKE",
+  "name": "TANAHLOE",
+  "postalCode": "92461"
  },
  {
   "id": 7303032002,
   "districtId": 7303032,
-  "name": "TOMBOLO"
+  "districtName": "GANTARANGKEKE",
+  "name": "TOMBOLO",
+  "postalCode": "92461"
  },
  {
   "id": 7303032003,
   "districtId": 7303032,
-  "name": "LAYOA"
+  "districtName": "GANTARANGKEKE",
+  "name": "LAYOA",
+  "postalCode": "92461"
  },
  {
   "id": 7303032004,
   "districtId": 7303032,
-  "name": "BAJIMINASA"
+  "districtName": "GANTARANGKEKE",
+  "name": "BAJIMINASA",
+  "postalCode": "92461"
  },
  {
   "id": 7303032005,
   "districtId": 7303032,
-  "name": "KALOLING"
+  "districtName": "GANTARANGKEKE",
+  "name": "KALOLING",
+  "postalCode": "92461"
  },
  {
   "id": 7303032006,
   "districtId": 7303032,
-  "name": "GANTARANGKEKE"
+  "districtName": "GANTARANGKEKE",
+  "name": "GANTARANGKEKE",
+  "postalCode": "92461"
  }
 ]

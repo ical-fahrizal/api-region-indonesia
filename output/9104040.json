@@ -2,31 +2,43 @@
  {
   "id": 9104040001,
   "districtId": 9104040,
-  "name": "WAMESA II / IDOR"
+  "districtName": "WAMESA",
+  "name": "WAMESA II / IDOR",
+  "postalCode": ""
  },
  {
   "id": 9104040002,
   "districtId": 9104040,
-  "name": "YENSEI"
+  "districtName": "WAMESA",
+  "name": "YENSEI",
+  "postalCode": ""
  },
  {
   "id": 9104040003,
   "districtId": 9104040,
-  "name": "WAMESA I / YAKATI"
+  "districtName": "WAMESA",
+  "name": "WAMESA I / YAKATI",
+  "postalCode": ""
  },
  {
   "id": 9104040004,
   "districtId": 9104040,
-  "name": "MAMURANU"
+  "districtName": "WAMESA",
+  "name": "MAMURANU",
+  "postalCode": "98364"
  },
  {
   "id": 9104040005,
   "districtId": 9104040,
-  "name": "WASARI"
+  "districtName": "WAMESA",
+  "name": "WASARI",
+  "postalCode": ""
  },
  {
   "id": 9104040006,
   "districtId": 9104040,
-  "name": "ANAKASI"
+  "districtName": "WAMESA",
+  "name": "ANAKASI",
+  "postalCode": ""
  }
 ]

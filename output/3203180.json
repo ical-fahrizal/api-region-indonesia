@@ -2,61 +2,85 @@
  {
   "id": 3203180001,
   "districtId": 3203180,
-  "name": "MEKARJAYA"
+  "districtName": "MANDE",
+  "name": "MEKARJAYA",
+  "postalCode": "30653"
  },
  {
   "id": 3203180002,
   "districtId": 3203180,
-  "name": "LEUWIKOJA"
+  "districtName": "MANDE",
+  "name": "LEUWIKOJA",
+  "postalCode": "43292"
  },
  {
   "id": 3203180003,
   "districtId": 3203180,
-  "name": "KUTAWARINGIN"
+  "districtName": "MANDE",
+  "name": "KUTAWARINGIN",
+  "postalCode": "40911"
  },
  {
   "id": 3203180004,
   "districtId": 3203180,
-  "name": "SUKAMANAH"
+  "districtName": "MANDE",
+  "name": "SUKAMANAH",
+  "postalCode": "43273"
  },
  {
   "id": 3203180005,
   "districtId": 3203180,
-  "name": "CIANDAM"
+  "districtName": "MANDE",
+  "name": "CIANDAM",
+  "postalCode": "43292"
  },
  {
   "id": 3203180006,
   "districtId": 3203180,
-  "name": "JAMALI"
+  "districtName": "MANDE",
+  "name": "JAMALI",
+  "postalCode": "43292"
  },
  {
   "id": 3203180007,
   "districtId": 3203180,
-  "name": "KADEMANGAN"
+  "districtName": "MANDE",
+  "name": "KADEMANGAN",
+  "postalCode": "36361"
  },
  {
   "id": 3203180008,
   "districtId": 3203180,
-  "name": "MULYASARI"
+  "districtName": "MANDE",
+  "name": "MULYASARI",
+  "postalCode": "43273"
  },
  {
   "id": 3203180009,
   "districtId": 3203180,
-  "name": "BOBOJONG"
+  "districtName": "MANDE",
+  "name": "BOBOJONG",
+  "postalCode": "43292"
  },
  {
   "id": 3203180010,
   "districtId": 3203180,
-  "name": "CIKIDANGBAYABANG"
+  "districtName": "MANDE",
+  "name": "CIKIDANGBAYABANG",
+  "postalCode": "43292"
  },
  {
   "id": 3203180011,
   "districtId": 3203180,
-  "name": "MURNISARI"
+  "districtName": "MANDE",
+  "name": "MURNISARI",
+  "postalCode": "43292"
  },
  {
   "id": 3203180012,
   "districtId": 3203180,
-  "name": "MANDE"
+  "districtName": "MANDE",
+  "name": "MANDE",
+  "postalCode": "43292"
  }
 ]

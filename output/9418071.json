@@ -2,51 +2,71 @@
  {
   "id": 9418071001,
   "districtId": 9418071,
-  "name": "TINA"
+  "districtName": "WENAM",
+  "name": "TINA",
+  "postalCode": "99562"
  },
  {
   "id": 9418071002,
   "districtId": 9418071,
-  "name": "MILI"
+  "districtName": "WENAM",
+  "name": "MILI",
+  "postalCode": "99562"
  },
  {
   "id": 9418071003,
   "districtId": 9418071,
-  "name": "TELALOME"
+  "districtName": "WENAM",
+  "name": "TELALOME",
+  "postalCode": ""
  },
  {
   "id": 9418071004,
   "districtId": 9418071,
-  "name": "MILINERI"
+  "districtName": "WENAM",
+  "name": "MILINERI",
+  "postalCode": "98915"
  },
  {
   "id": 9418071005,
   "districtId": 9418071,
-  "name": "BAGANAGAPURA"
+  "districtName": "WENAM",
+  "name": "BAGANAGAPURA",
+  "postalCode": ""
  },
  {
   "id": 9418071006,
   "districtId": 9418071,
-  "name": "GAYARAI"
+  "districtName": "WENAM",
+  "name": "GAYARAI",
+  "postalCode": ""
  },
  {
   "id": 9418071007,
   "districtId": 9418071,
-  "name": "KOPENAWI"
+  "districtName": "WENAM",
+  "name": "KOPENAWI",
+  "postalCode": ""
  },
  {
   "id": 9418071008,
   "districtId": 9418071,
-  "name": "BANGGERI"
+  "districtName": "WENAM",
+  "name": "BANGGERI",
+  "postalCode": "99562"
  },
  {
   "id": 9418071009,
   "districtId": 9418071,
-  "name": "IGARI"
+  "districtName": "WENAM",
+  "name": "IGARI",
+  "postalCode": "99562"
  },
  {
   "id": 9418071010,
   "districtId": 9418071,
-  "name": "WUNGGI"
+  "districtName": "WENAM",
+  "name": "WUNGGI",
+  "postalCode": "99562"
  }
 ]

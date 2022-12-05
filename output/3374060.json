@@ -2,36 +2,50 @@
  {
   "id": 3374060001,
   "districtId": 3374060,
-  "name": "JATINGALEH"
+  "districtName": "CANDISARI",
+  "name": "JATINGALEH",
+  "postalCode": "50254"
  },
  {
   "id": 3374060002,
   "districtId": 3374060,
-  "name": "KARANGANYAR GUNUNG"
+  "districtName": "CANDISARI",
+  "name": "KARANGANYAR GUNUNG",
+  "postalCode": "50255"
  },
  {
   "id": 3374060003,
   "districtId": 3374060,
-  "name": "JOMBLANG"
+  "districtName": "CANDISARI",
+  "name": "JOMBLANG",
+  "postalCode": "50256"
  },
  {
   "id": 3374060004,
   "districtId": 3374060,
-  "name": "CANDI"
+  "districtName": "CANDISARI",
+  "name": "CANDI",
+  "postalCode": "37263"
  },
  {
   "id": 3374060005,
   "districtId": 3374060,
-  "name": "KALIWIRU"
+  "districtName": "CANDISARI",
+  "name": "KALIWIRU",
+  "postalCode": "50253"
  },
  {
   "id": 3374060006,
   "districtId": 3374060,
-  "name": "WONOTINGAL"
+  "districtName": "CANDISARI",
+  "name": "WONOTINGAL",
+  "postalCode": "50252"
  },
  {
   "id": 3374060007,
   "districtId": 3374060,
-  "name": "TEGALSARI"
+  "districtName": "CANDISARI",
+  "name": "TEGALSARI",
+  "postalCode": "35372"
  }
 ]

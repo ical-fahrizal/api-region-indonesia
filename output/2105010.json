@@ -2,41 +2,57 @@
  {
   "id": 2105010004,
   "districtId": 2105010,
-  "name": "MAMPOK"
+  "districtName": "JEMAJA",
+  "name": "MAMPOK",
+  "postalCode": "29792"
  },
  {
   "id": 2105010006,
   "districtId": 2105010,
-  "name": "REWAK"
+  "districtName": "JEMAJA",
+  "name": "REWAK",
+  "postalCode": "29792"
  },
  {
   "id": 2105010007,
   "districtId": 2105010,
-  "name": "KERAMUT"
+  "districtName": "JEMAJA",
+  "name": "KERAMUT",
+  "postalCode": "29792"
  },
  {
   "id": 2105010008,
   "districtId": 2105010,
-  "name": "IMPOL"
+  "districtName": "JEMAJA",
+  "name": "IMPOL",
+  "postalCode": "29792"
  },
  {
   "id": 2105010009,
   "districtId": 2105010,
-  "name": "AIR BIRU"
+  "districtName": "JEMAJA",
+  "name": "AIR BIRU",
+  "postalCode": "29792"
  },
  {
   "id": 2105010010,
   "districtId": 2105010,
-  "name": "SUNGGAK"
+  "districtName": "JEMAJA",
+  "name": "SUNGGAK",
+  "postalCode": "29792"
  },
  {
   "id": 2105010011,
   "districtId": 2105010,
-  "name": "BATU BERAPIT"
+  "districtName": "JEMAJA",
+  "name": "BATU BERAPIT",
+  "postalCode": "29792"
  },
  {
   "id": 2105010012,
   "districtId": 2105010,
-  "name": "LANDAK"
+  "districtName": "JEMAJA",
+  "name": "LANDAK",
+  "postalCode": "29792"
  }
 ]

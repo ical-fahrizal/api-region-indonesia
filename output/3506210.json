@@ -2,46 +2,64 @@
  {
   "id": 3506210001,
   "districtId": 3506210,
-  "name": "PARANG"
+  "districtName": "BANYAKAN",
+  "name": "PARANG",
+  "postalCode": "59455"
  },
  {
   "id": 3506210002,
   "districtId": 3506210,
-  "name": "TIRON"
+  "districtName": "BANYAKAN",
+  "name": "TIRON",
+  "postalCode": "64157"
  },
  {
   "id": 3506210003,
   "districtId": 3506210,
-  "name": "MANYARAN"
+  "districtName": "BANYAKAN",
+  "name": "MANYARAN",
+  "postalCode": "57381"
  },
  {
   "id": 3506210004,
   "districtId": 3506210,
-  "name": "JATIREJO"
+  "districtName": "BANYAKAN",
+  "name": "JATIREJO",
+  "postalCode": "23661"
  },
  {
   "id": 3506210005,
   "districtId": 3506210,
-  "name": "BANYAKAN"
+  "districtName": "BANYAKAN",
+  "name": "BANYAKAN",
+  "postalCode": "64157"
  },
  {
   "id": 3506210006,
   "districtId": 3506210,
-  "name": "MARON"
+  "districtName": "BANYAKAN",
+  "name": "MARON",
+  "postalCode": "56353"
  },
  {
   "id": 3506210007,
   "districtId": 3506210,
-  "name": "JABON"
+  "districtName": "BANYAKAN",
+  "name": "JABON",
+  "postalCode": "64157"
  },
  {
   "id": 3506210008,
   "districtId": 3506210,
-  "name": "NGABLAK"
+  "districtName": "BANYAKAN",
+  "name": "NGABLAK",
+  "postalCode": "59157"
  },
  {
   "id": 3506210009,
   "districtId": 3506210,
-  "name": "SENDANG"
+  "districtName": "BANYAKAN",
+  "name": "SENDANG",
+  "postalCode": "45283"
  }
 ]

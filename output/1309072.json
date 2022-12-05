@@ -2,11 +2,15 @@
  {
   "id": 1309072001,
   "districtId": 1309072,
-  "name": "ALAHAN MATI"
+  "districtName": "SIMPANG ALAHAN MATI",
+  "name": "ALAHAN MATI",
+  "postalCode": "26381"
  },
  {
   "id": 1309072002,
   "districtId": 1309072,
-  "name": "SIMPANG"
+  "districtName": "SIMPANG ALAHAN MATI",
+  "name": "SIMPANG",
+  "postalCode": "23773"
  }
 ]

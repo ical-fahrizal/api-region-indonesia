@@ -2,51 +2,71 @@
  {
   "id": 1219061001,
   "districtId": 1219061,
-  "name": "TANJUNG PRAPAT"
+  "districtName": "LAUT TADOR",
+  "name": "TANJUNG PRAPAT",
+  "postalCode": ""
  },
  {
   "id": 1219061002,
   "districtId": 1219061,
-  "name": "LAUT TADOR"
+  "districtName": "LAUT TADOR",
+  "name": "LAUT TADOR",
+  "postalCode": "21257"
  },
  {
   "id": 1219061003,
   "districtId": 1219061,
-  "name": "PERKEBUNAN TANJUNG KASAU"
+  "districtName": "LAUT TADOR",
+  "name": "PERKEBUNAN TANJUNG KASAU",
+  "postalCode": "21257"
  },
  {
   "id": 1219061004,
   "districtId": 1219061,
-  "name": "TANJUNG KASAU"
+  "districtName": "LAUT TADOR",
+  "name": "TANJUNG KASAU",
+  "postalCode": "21257"
  },
  {
   "id": 1219061005,
   "districtId": 1219061,
-  "name": "TANJUNG SERI"
+  "districtName": "LAUT TADOR",
+  "name": "TANJUNG SERI",
+  "postalCode": "21257"
  },
  {
   "id": 1219061006,
   "districtId": 1219061,
-  "name": "SEI SIMUJUR"
+  "districtName": "LAUT TADOR",
+  "name": "SEI SIMUJUR",
+  "postalCode": "21257"
  },
  {
   "id": 1219061007,
   "districtId": 1219061,
-  "name": "PELANGGIRAN LAUT TADOR"
+  "districtName": "LAUT TADOR",
+  "name": "PELANGGIRAN LAUT TADOR",
+  "postalCode": "21257"
  },
  {
   "id": 1219061008,
   "districtId": 1219061,
-  "name": "DWI SRI"
+  "districtName": "LAUT TADOR",
+  "name": "DWI SRI",
+  "postalCode": "21257"
  },
  {
   "id": 1219061009,
   "districtId": 1219061,
-  "name": "MEKAR SARI"
+  "districtName": "LAUT TADOR",
+  "name": "MEKAR SARI",
+  "postalCode": "21261"
  },
  {
   "id": 1219061010,
   "districtId": 1219061,
-  "name": "KANDANGAN"
+  "districtName": "LAUT TADOR",
+  "name": "KANDANGAN",
+  "postalCode": "21186"
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 1406021001,
   "districtId": 1406021,
-  "name": "TANJUNG"
+  "districtName": "KOTO KAMPAR HULU",
+  "name": "TANJUNG",
+  "postalCode": "24562"
  },
  {
   "id": 1406021002,
   "districtId": 1406021,
-  "name": "TABING"
+  "districtName": "KOTO KAMPAR HULU",
+  "name": "TABING",
+  "postalCode": "28453"
  },
  {
   "id": 1406021003,
   "districtId": 1406021,
-  "name": "PONGKAI"
+  "districtName": "KOTO KAMPAR HULU",
+  "name": "PONGKAI",
+  "postalCode": "28453"
  },
  {
   "id": 1406021004,
   "districtId": 1406021,
-  "name": "GUNUNG MALELO"
+  "districtName": "KOTO KAMPAR HULU",
+  "name": "GUNUNG MALELO",
+  "postalCode": "28453"
  },
  {
   "id": 1406021005,
   "districtId": 1406021,
-  "name": "SIBIRUANG"
+  "districtName": "KOTO KAMPAR HULU",
+  "name": "SIBIRUANG",
+  "postalCode": ""
  },
  {
   "id": 1406021006,
   "districtId": 1406021,
-  "name": "BANDUR PICAK"
+  "districtName": "KOTO KAMPAR HULU",
+  "name": "BANDUR PICAK",
+  "postalCode": "28453"
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 6106051001,
   "districtId": 6106051,
-  "name": "LALANG PANJANG"
+  "districtName": "PEMAHAN",
+  "name": "LALANG PANJANG",
+  "postalCode": "78874"
  },
  {
   "id": 6106051002,
   "districtId": 6106051,
-  "name": "PEBIHINGAN"
+  "districtName": "PEMAHAN",
+  "name": "PEBIHINGAN",
+  "postalCode": "78874"
  },
  {
   "id": 6106051003,
   "districtId": 6106051,
-  "name": "SEMAYOK BARU"
+  "districtName": "PEMAHAN",
+  "name": "SEMAYOK BARU",
+  "postalCode": "78874"
  },
  {
   "id": 6106051004,
   "districtId": 6106051,
-  "name": "MUARA GERUNGGANG"
+  "districtName": "PEMAHAN",
+  "name": "MUARA GERUNGGANG",
+  "postalCode": "78874"
  },
  {
   "id": 6106051005,
   "districtId": 6106051,
-  "name": "USAHA BARU"
+  "districtName": "PEMAHAN",
+  "name": "USAHA BARU",
+  "postalCode": "78874"
  },
  {
   "id": 6106051006,
   "districtId": 6106051,
-  "name": "KERTA BARU"
+  "districtName": "PEMAHAN",
+  "name": "KERTA BARU",
+  "postalCode": ""
  },
  {
   "id": 6106051007,
   "districtId": 6106051,
-  "name": "MUARA SEMAYOK"
+  "districtName": "PEMAHAN",
+  "name": "MUARA SEMAYOK",
+  "postalCode": ""
  }
 ]

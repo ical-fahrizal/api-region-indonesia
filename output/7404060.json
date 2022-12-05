@@ -2,36 +2,50 @@
  {
   "id": 7404060008,
   "districtId": 7404060,
-  "name": "WATULIANDU"
+  "districtName": "KOLAKA",
+  "name": "WATULIANDU",
+  "postalCode": "93515"
  },
  {
   "id": 7404060009,
   "districtId": 7404060,
-  "name": "LAMOKATO"
+  "districtName": "KOLAKA",
+  "name": "LAMOKATO",
+  "postalCode": "93511"
  },
  {
   "id": 7404060010,
   "districtId": 7404060,
-  "name": "LALOEHA"
+  "districtName": "KOLAKA",
+  "name": "LALOEHA",
+  "postalCode": "93511"
  },
  {
   "id": 7404060011,
   "districtId": 7404060,
-  "name": "TAHOA"
+  "districtName": "KOLAKA",
+  "name": "TAHOA",
+  "postalCode": "93511"
  },
  {
   "id": 7404060012,
   "districtId": 7404060,
-  "name": "BALANDETE"
+  "districtName": "KOLAKA",
+  "name": "BALANDETE",
+  "postalCode": "93517"
  },
  {
   "id": 7404060013,
   "districtId": 7404060,
-  "name": "LALOMBAA"
+  "districtName": "KOLAKA",
+  "name": "LALOMBAA",
+  "postalCode": "93518"
  },
  {
   "id": 7404060014,
   "districtId": 7404060,
-  "name": "SABILAMBO"
+  "districtName": "KOLAKA",
+  "name": "SABILAMBO",
+  "postalCode": "93519"
  }
 ]

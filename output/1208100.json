@@ -2,36 +2,50 @@
  {
   "id": 1208100001,
   "districtId": 1208100,
-  "name": "BINJAI SERBANGAN"
+  "districtName": "AIR JOMAN",
+  "name": "BINJAI SERBANGAN",
+  "postalCode": "21263"
  },
  {
   "id": 1208100002,
   "districtId": 1208100,
-  "name": "AIR JOMAN"
+  "districtName": "AIR JOMAN",
+  "name": "AIR JOMAN",
+  "postalCode": "21263"
  },
  {
   "id": 1208100003,
   "districtId": 1208100,
-  "name": "AIR JOMAN BARU"
+  "districtName": "AIR JOMAN",
+  "name": "AIR JOMAN BARU",
+  "postalCode": "21263"
  },
  {
   "id": 1208100004,
   "districtId": 1208100,
-  "name": "PUNGGULAN"
+  "districtName": "AIR JOMAN",
+  "name": "PUNGGULAN",
+  "postalCode": "21263"
  },
  {
   "id": 1208100005,
   "districtId": 1208100,
-  "name": "PASAR LEMBU"
+  "districtName": "AIR JOMAN",
+  "name": "PASAR LEMBU",
+  "postalCode": "21263"
  },
  {
   "id": 1208100007,
   "districtId": 1208100,
-  "name": "BANJAR"
+  "districtName": "AIR JOMAN",
+  "name": "BANJAR",
+  "postalCode": "21263"
  },
  {
   "id": 1208100008,
   "districtId": 1208100,
-  "name": "SUBUR"
+  "districtName": "AIR JOMAN",
+  "name": "SUBUR",
+  "postalCode": "21263"
  }
 ]

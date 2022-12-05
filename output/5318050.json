@@ -2,36 +2,50 @@
  {
   "id": 5318050001,
   "districtId": 5318050,
-  "name": "RENDUTENOE"
+  "districtName": "AESESA SELATAN",
+  "name": "RENDUTENOE",
+  "postalCode": "86472"
  },
  {
   "id": 5318050002,
   "districtId": 5318050,
-  "name": "LANGEDHAWE"
+  "districtName": "AESESA SELATAN",
+  "name": "LANGEDHAWE",
+  "postalCode": "86472"
  },
  {
   "id": 5318050003,
   "districtId": 5318050,
-  "name": "TENGATIBA"
+  "districtName": "AESESA SELATAN",
+  "name": "TENGATIBA",
+  "postalCode": "86472"
  },
  {
   "id": 5318050004,
   "districtId": 5318050,
-  "name": "RENDUWAWO"
+  "districtName": "AESESA SELATAN",
+  "name": "RENDUWAWO",
+  "postalCode": "86472"
  },
  {
   "id": 5318050005,
   "districtId": 5318050,
-  "name": "RENDU BUTOWE"
+  "districtName": "AESESA SELATAN",
+  "name": "RENDU BUTOWE",
+  "postalCode": "86472"
  },
  {
   "id": 5318050006,
   "districtId": 5318050,
-  "name": "WAJOMARA"
+  "districtName": "AESESA SELATAN",
+  "name": "WAJOMARA",
+  "postalCode": "86472"
  },
  {
   "id": 5318050007,
   "districtId": 5318050,
-  "name": "RENDUTUTUBADHA"
+  "districtName": "AESESA SELATAN",
+  "name": "RENDUTUTUBADHA",
+  "postalCode": ""
  }
 ]

@@ -2,76 +2,106 @@
  {
   "id": 7315070001,
   "districtId": 7315070,
-  "name": "BABA BINANGA"
+  "districtName": "DUAMPANUA",
+  "name": "BABA BINANGA",
+  "postalCode": "91253"
  },
  {
   "id": 7315070002,
   "districtId": 7315070,
-  "name": "PARIA"
+  "districtName": "DUAMPANUA",
+  "name": "PARIA",
+  "postalCode": "94479"
  },
  {
   "id": 7315070003,
   "districtId": 7315070,
-  "name": "TATAE"
+  "districtName": "DUAMPANUA",
+  "name": "TATAE",
+  "postalCode": "91253"
  },
  {
   "id": 7315070004,
   "districtId": 7315070,
-  "name": "KALIANG"
+  "districtName": "DUAMPANUA",
+  "name": "KALIANG",
+  "postalCode": "91253"
  },
  {
   "id": 7315070005,
   "districtId": 7315070,
-  "name": "PEKKABATA"
+  "districtName": "DUAMPANUA",
+  "name": "PEKKABATA",
+  "postalCode": "91253"
  },
  {
   "id": 7315070006,
   "districtId": 7315070,
-  "name": "KATOMPORANG"
+  "districtName": "DUAMPANUA",
+  "name": "KATOMPORANG",
+  "postalCode": "91253"
  },
  {
   "id": 7315070007,
   "districtId": 7315070,
-  "name": "KABALLANGANG"
+  "districtName": "DUAMPANUA",
+  "name": "KABALLANGANG",
+  "postalCode": "91253"
  },
  {
   "id": 7315070008,
   "districtId": 7315070,
-  "name": "MASSEWAE"
+  "districtName": "DUAMPANUA",
+  "name": "MASSEWAE",
+  "postalCode": "91253"
  },
  {
   "id": 7315070011,
   "districtId": 7315070,
-  "name": "LAMPA"
+  "districtName": "DUAMPANUA",
+  "name": "LAMPA",
+  "postalCode": "94891"
  },
  {
   "id": 7315070012,
   "districtId": 7315070,
-  "name": "BITTOENG"
+  "districtName": "DUAMPANUA",
+  "name": "BITTOENG",
+  "postalCode": "91253"
  },
  {
   "id": 7315070013,
   "districtId": 7315070,
-  "name": "DATA"
+  "districtName": "DUAMPANUA",
+  "name": "DATA",
+  "postalCode": "91253"
  },
  {
   "id": 7315070014,
   "districtId": 7315070,
-  "name": "MARONENG"
+  "districtName": "DUAMPANUA",
+  "name": "MARONENG",
+  "postalCode": "91253"
  },
  {
   "id": 7315070015,
   "districtId": 7315070,
-  "name": "BUNGI"
+  "districtName": "DUAMPANUA",
+  "name": "BUNGI",
+  "postalCode": "91253"
  },
  {
   "id": 7315070016,
   "districtId": 7315070,
-  "name": "BUTTU SAWE"
+  "districtName": "DUAMPANUA",
+  "name": "BUTTU SAWE",
+  "postalCode": ""
  },
  {
   "id": 7315070017,
   "districtId": 7315070,
-  "name": "BARUGAE"
+  "districtName": "DUAMPANUA",
+  "name": "BARUGAE",
+  "postalCode": "92552"
  }
 ]

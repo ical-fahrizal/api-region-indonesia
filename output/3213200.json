@@ -2,36 +2,50 @@
  {
   "id": 3213200009,
   "districtId": 3213200,
-  "name": "PUSAKARATU"
+  "districtName": "PUSAKANAGARA",
+  "name": "PUSAKARATU",
+  "postalCode": "41255"
  },
  {
   "id": 3213200010,
   "districtId": 3213200,
-  "name": "GEMPOL"
+  "districtName": "PUSAKANAGARA",
+  "name": "GEMPOL",
+  "postalCode": "41374"
  },
  {
   "id": 3213200011,
   "districtId": 3213200,
-  "name": "KALENTAMBO"
+  "districtName": "PUSAKANAGARA",
+  "name": "KALENTAMBO",
+  "postalCode": "41255"
  },
  {
   "id": 3213200012,
   "districtId": 3213200,
-  "name": "KOTASARI"
+  "districtName": "PUSAKANAGARA",
+  "name": "KOTASARI",
+  "postalCode": "41255"
  },
  {
   "id": 3213200013,
   "districtId": 3213200,
-  "name": "RANCADAKA"
+  "districtName": "PUSAKANAGARA",
+  "name": "RANCADAKA",
+  "postalCode": "41255"
  },
  {
   "id": 3213200014,
   "districtId": 3213200,
-  "name": "PATIMBAN"
+  "districtName": "PUSAKANAGARA",
+  "name": "PATIMBAN",
+  "postalCode": "41255"
  },
  {
   "id": 3213200015,
   "districtId": 3213200,
-  "name": "MUNDUSARI"
+  "districtName": "PUSAKANAGARA",
+  "name": "MUNDUSARI",
+  "postalCode": "41255"
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 7503041001,
   "districtId": 7503041,
-  "name": "MALANGO"
+  "districtName": "TALUDITI",
+  "name": "MALANGO",
+  "postalCode": "91831"
  },
  {
   "id": 7503041002,
   "districtId": 7503041,
-  "name": "PANCA KARSA I"
+  "districtName": "TALUDITI",
+  "name": "PANCA KARSA I",
+  "postalCode": "96469"
  },
  {
   "id": 7503041003,
   "districtId": 7503041,
-  "name": "PANCA KARSA II"
+  "districtName": "TALUDITI",
+  "name": "PANCA KARSA II",
+  "postalCode": "96469"
  },
  {
   "id": 7503041004,
   "districtId": 7503041,
-  "name": "KALIMAS"
+  "districtName": "TALUDITI",
+  "name": "KALIMAS",
+  "postalCode": "52353"
  },
  {
   "id": 7503041005,
   "districtId": 7503041,
-  "name": "MEKARTI JAYA"
+  "districtName": "TALUDITI",
+  "name": "MEKARTI JAYA",
+  "postalCode": "31453"
  },
  {
   "id": 7503041006,
   "districtId": 7503041,
-  "name": "PUNCAK JAYA"
+  "districtName": "TALUDITI",
+  "name": "PUNCAK JAYA",
+  "postalCode": ""
  },
  {
   "id": 7503041007,
   "districtId": 7503041,
-  "name": "TIRTO ASRI"
+  "districtName": "TALUDITI",
+  "name": "TIRTO ASRI",
+  "postalCode": "96469"
  }
 ]

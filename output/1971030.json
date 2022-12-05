@@ -2,26 +2,36 @@
  {
   "id": 1971030006,
   "districtId": 1971030,
-  "name": "AMPUI"
+  "districtName": "PANGKAL BALAM",
+  "name": "AMPUI",
+  "postalCode": "33113"
  },
  {
   "id": 1971030009,
   "districtId": 1971030,
-  "name": "LONTONG PANCUR"
+  "districtName": "PANGKAL BALAM",
+  "name": "LONTONG PANCUR",
+  "postalCode": "33115"
  },
  {
   "id": 1971030010,
   "districtId": 1971030,
-  "name": "PASIR GARAM"
+  "districtName": "PANGKAL BALAM",
+  "name": "PASIR GARAM",
+  "postalCode": "33115"
  },
  {
   "id": 1971030015,
   "districtId": 1971030,
-  "name": "REJOSARI"
+  "districtName": "PANGKAL BALAM",
+  "name": "REJOSARI",
+  "postalCode": "29353"
  },
  {
   "id": 1971030016,
   "districtId": 1971030,
-  "name": "KETAPANG"
+  "districtName": "PANGKAL BALAM",
+  "name": "KETAPANG",
+  "postalCode": "35596"
  }
 ]

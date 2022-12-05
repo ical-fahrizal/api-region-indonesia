@@ -2,71 +2,99 @@
  {
   "id": 7102170002,
   "districtId": 7102170,
-  "name": "WAREMBUNGAN"
+  "districtName": "PINELENG",
+  "name": "WAREMBUNGAN",
+  "postalCode": "95661"
  },
  {
   "id": 7102170003,
   "districtId": 7102170,
-  "name": "PINELENG DUA"
+  "districtName": "PINELENG",
+  "name": "PINELENG DUA",
+  "postalCode": "95661"
  },
  {
   "id": 7102170004,
   "districtId": 7102170,
-  "name": "KALI"
+  "districtName": "PINELENG",
+  "name": "KALI",
+  "postalCode": "38611"
  },
  {
   "id": 7102170011,
   "districtId": 7102170,
-  "name": "PINELENG SATU"
+  "districtName": "PINELENG",
+  "name": "PINELENG SATU",
+  "postalCode": "95661"
  },
  {
   "id": 7102170012,
   "districtId": 7102170,
-  "name": "SEA"
+  "districtName": "PINELENG",
+  "name": "SEA",
+  "postalCode": "95661"
  },
  {
   "id": 7102170018,
   "districtId": 7102170,
-  "name": "SEA I"
+  "districtName": "PINELENG",
+  "name": "SEA I",
+  "postalCode": "95661"
  },
  {
   "id": 7102170019,
   "districtId": 7102170,
-  "name": "SEA II"
+  "districtName": "PINELENG",
+  "name": "SEA II",
+  "postalCode": "95661"
  },
  {
   "id": 7102170020,
   "districtId": 7102170,
-  "name": "WINANGUN ATAS"
+  "districtName": "PINELENG",
+  "name": "WINANGUN ATAS",
+  "postalCode": "95661"
  },
  {
   "id": 7102170027,
   "districtId": 7102170,
-  "name": "SEA MITRA"
+  "districtName": "PINELENG",
+  "name": "SEA MITRA",
+  "postalCode": "95661"
  },
  {
   "id": 7102170028,
   "districtId": 7102170,
-  "name": "SEA TUMPENGAN"
+  "districtName": "PINELENG",
+  "name": "SEA TUMPENGAN",
+  "postalCode": "95661"
  },
  {
   "id": 7102170029,
   "districtId": 7102170,
-  "name": "PINELENG DUA INDAH"
+  "districtName": "PINELENG",
+  "name": "PINELENG DUA INDAH",
+  "postalCode": "95661"
  },
  {
   "id": 7102170030,
   "districtId": 7102170,
-  "name": "LOTTA"
+  "districtName": "PINELENG",
+  "name": "LOTTA",
+  "postalCode": "95661"
  },
  {
   "id": 7102170031,
   "districtId": 7102170,
-  "name": "PINELENG SATU TIMUR"
+  "districtName": "PINELENG",
+  "name": "PINELENG SATU TIMUR",
+  "postalCode": "95661"
  },
  {
   "id": 7102170032,
   "districtId": 7102170,
-  "name": "KALI SELATAN"
+  "districtName": "PINELENG",
+  "name": "KALI SELATAN",
+  "postalCode": "95661"
  }
 ]

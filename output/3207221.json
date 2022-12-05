@@ -2,41 +2,57 @@
  {
   "id": 3207221001,
   "districtId": 3207221,
-  "name": "SUKAMANAH"
+  "districtName": "SINDANGKASIH",
+  "name": "SUKAMANAH",
+  "postalCode": "43273"
  },
  {
   "id": 3207221002,
   "districtId": 3207221,
-  "name": "SUKARAJA"
+  "districtName": "SINDANGKASIH",
+  "name": "SUKARAJA",
+  "postalCode": "21256"
  },
  {
   "id": 3207221003,
   "districtId": 3207221,
-  "name": "BUDIHARJA"
+  "districtName": "SINDANGKASIH",
+  "name": "BUDIHARJA",
+  "postalCode": "40562"
  },
  {
   "id": 3207221004,
   "districtId": 3207221,
-  "name": "BUDIASIH"
+  "districtName": "SINDANGKASIH",
+  "name": "BUDIASIH",
+  "postalCode": "46268"
  },
  {
   "id": 3207221006,
   "districtId": 3207221,
-  "name": "SINDANGKASIH"
+  "districtName": "SINDANGKASIH",
+  "name": "SINDANGKASIH",
+  "postalCode": "45172"
  },
  {
   "id": 3207221007,
   "districtId": 3207221,
-  "name": "SUKASENANG"
+  "districtName": "SINDANGKASIH",
+  "name": "SUKASENANG",
+  "postalCode": "44191"
  },
  {
   "id": 3207221008,
   "districtId": 3207221,
-  "name": "SUKARESIK"
+  "districtName": "SINDANGKASIH",
+  "name": "SUKARESIK",
+  "postalCode": "46365"
  },
  {
   "id": 3207221009,
   "districtId": 3207221,
-  "name": "WANASIGRA"
+  "districtName": "SINDANGKASIH",
+  "name": "WANASIGRA",
+  "postalCode": "46268"
  }
 ]

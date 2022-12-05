@@ -2,46 +2,64 @@
  {
   "id": 9418127001,
   "districtId": 9418127,
-  "name": "PEKALEME"
+  "districtName": "YUKO",
+  "name": "PEKALEME",
+  "postalCode": "99569"
  },
  {
   "id": 9418127002,
   "districtId": 9418127,
-  "name": "TALEME"
+  "districtName": "YUKO",
+  "name": "TALEME",
+  "postalCode": ""
  },
  {
   "id": 9418127003,
   "districtId": 9418127,
-  "name": "GIKO"
+  "districtName": "YUKO",
+  "name": "GIKO",
+  "postalCode": "99569"
  },
  {
   "id": 9418127005,
   "districtId": 9418127,
-  "name": "KOTORAMBUR"
+  "districtName": "YUKO",
+  "name": "KOTORAMBUR",
+  "postalCode": "99562"
  },
  {
   "id": 9418127006,
   "districtId": 9418127,
-  "name": "MINAGAME"
+  "districtName": "YUKO",
+  "name": "MINAGAME",
+  "postalCode": "99562"
  },
  {
   "id": 9418127007,
   "districtId": 9418127,
-  "name": "KARU"
+  "districtName": "YUKO",
+  "name": "KARU",
+  "postalCode": "99569"
  },
  {
   "id": 9418127008,
   "districtId": 9418127,
-  "name": "TABUH"
+  "districtName": "YUKO",
+  "name": "TABUH",
+  "postalCode": "99569"
  },
  {
   "id": 9418127009,
   "districtId": 9418127,
-  "name": "GWAK DUGUNIK"
+  "districtName": "YUKO",
+  "name": "GWAK DUGUNIK",
+  "postalCode": "99569"
  },
  {
   "id": 9418127011,
   "districtId": 9418127,
-  "name": "AMBIRIK"
+  "districtName": "YUKO",
+  "name": "AMBIRIK",
+  "postalCode": "99569"
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 7207012001,
   "districtId": 7207012,
-  "name": "LAMAKAN"
+  "districtName": "KARAMAT",
+  "name": "LAMAKAN",
+  "postalCode": "94563"
  },
  {
   "id": 7207012002,
   "districtId": 7207012,
-  "name": "BUSAK II"
+  "districtName": "KARAMAT",
+  "name": "BUSAK II",
+  "postalCode": "94563"
  },
  {
   "id": 7207012003,
   "districtId": 7207012,
-  "name": "BUSAK I"
+  "districtName": "KARAMAT",
+  "name": "BUSAK I",
+  "postalCode": "94563"
  },
  {
   "id": 7207012004,
   "districtId": 7207012,
-  "name": "MONANO"
+  "districtName": "KARAMAT",
+  "name": "MONANO",
+  "postalCode": "94563"
  },
  {
   "id": 7207012005,
   "districtId": 7207012,
-  "name": "BARUGA"
+  "districtName": "KARAMAT",
+  "name": "BARUGA",
+  "postalCode": "94563"
  },
  {
   "id": 7207012006,
   "districtId": 7207012,
-  "name": "MENDAAN"
+  "districtName": "KARAMAT",
+  "name": "MENDAAN",
+  "postalCode": "94563"
  },
  {
   "id": 7207012007,
   "districtId": 7207012,
-  "name": "MOKUPO"
+  "districtName": "KARAMAT",
+  "name": "MOKUPO",
+  "postalCode": "94563"
  }
 ]

@@ -2,21 +2,29 @@
  {
   "id": 7505022001,
   "districtId": 7505022,
-  "name": "PONELO"
+  "districtName": "PONELO KEPULAUAN",
+  "name": "PONELO",
+  "postalCode": "96252"
  },
  {
   "id": 7505022002,
   "districtId": 7505022,
-  "name": "OTIOLA"
+  "districtName": "PONELO KEPULAUAN",
+  "name": "OTIOLA",
+  "postalCode": "96252"
  },
  {
   "id": 7505022003,
   "districtId": 7505022,
-  "name": "TIHENGO"
+  "districtName": "PONELO KEPULAUAN",
+  "name": "TIHENGO",
+  "postalCode": "96252"
  },
  {
   "id": 7505022004,
   "districtId": 7505022,
-  "name": "MALAMBE"
+  "districtName": "PONELO KEPULAUAN",
+  "name": "MALAMBE",
+  "postalCode": "96252"
  }
 ]

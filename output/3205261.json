@@ -2,31 +2,43 @@
  {
   "id": 3205261001,
   "districtId": 3205261,
-  "name": "SUKAMAJU"
+  "districtName": "KERSAMANAH",
+  "name": "SUKAMAJU",
+  "postalCode": "22465"
  },
  {
   "id": 3205261002,
   "districtId": 3205261,
-  "name": "GIRIJAYA"
+  "districtName": "KERSAMANAH",
+  "name": "GIRIJAYA",
+  "postalCode": "46475"
  },
  {
   "id": 3205261003,
   "districtId": 3205261,
-  "name": "KERSAMANAH"
+  "districtName": "KERSAMANAH",
+  "name": "KERSAMANAH",
+  "postalCode": "44185"
  },
  {
   "id": 3205261004,
   "districtId": 3205261,
-  "name": "NANJUNGJAYA"
+  "districtName": "KERSAMANAH",
+  "name": "NANJUNGJAYA",
+  "postalCode": "44185"
  },
  {
   "id": 3205261005,
   "districtId": 3205261,
-  "name": "SUKAMERANG"
+  "districtName": "KERSAMANAH",
+  "name": "SUKAMERANG",
+  "postalCode": "44185"
  },
  {
   "id": 3205261006,
   "districtId": 3205261,
-  "name": "MEKARRAYA"
+  "districtName": "KERSAMANAH",
+  "name": "MEKARRAYA",
+  "postalCode": "44185"
  }
 ]

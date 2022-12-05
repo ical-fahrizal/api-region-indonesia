@@ -2,36 +2,50 @@
  {
   "id": 3674040001,
   "districtId": 3674040,
-  "name": "SARUA"
+  "districtName": "CIPUTAT",
+  "name": "SARUA",
+  "postalCode": ""
  },
  {
   "id": 3674040002,
   "districtId": 3674040,
-  "name": "JOMBANG"
+  "districtName": "CIPUTAT",
+  "name": "JOMBANG",
+  "postalCode": "54172"
  },
  {
   "id": 3674040003,
   "districtId": 3674040,
-  "name": "SAWAH BARU"
+  "districtName": "CIPUTAT",
+  "name": "SAWAH BARU",
+  "postalCode": "28461"
  },
  {
   "id": 3674040004,
   "districtId": 3674040,
-  "name": "SARUA INDAH"
+  "districtName": "CIPUTAT",
+  "name": "SARUA INDAH",
+  "postalCode": "15414"
  },
  {
   "id": 3674040005,
   "districtId": 3674040,
-  "name": "SAWAH"
+  "districtName": "CIPUTAT",
+  "name": "SAWAH",
+  "postalCode": "28461"
  },
  {
   "id": 3674040006,
   "districtId": 3674040,
-  "name": "CIPUTAT"
+  "districtName": "CIPUTAT",
+  "name": "CIPUTAT",
+  "postalCode": "45591"
  },
  {
   "id": 3674040007,
   "districtId": 3674040,
-  "name": "CIPAYUNG"
+  "districtName": "CIPUTAT",
+  "name": "CIPAYUNG",
+  "postalCode": "13840"
  }
 ]

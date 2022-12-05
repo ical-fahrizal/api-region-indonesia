@@ -2,81 +2,113 @@
  {
   "id": 3211080003,
   "districtId": 3211080,
-  "name": "NEGLASARI"
+  "districtName": "DARMARAJA",
+  "name": "NEGLASARI",
+  "postalCode": "35452"
  },
  {
   "id": 3211080004,
   "districtId": 3211080,
-  "name": "SUKAMENAK"
+  "districtName": "DARMARAJA",
+  "name": "SUKAMENAK",
+  "postalCode": "45464"
  },
  {
   "id": 3211080005,
   "districtId": 3211080,
-  "name": "JATIBUNGUR"
+  "districtName": "DARMARAJA",
+  "name": "JATIBUNGUR",
+  "postalCode": "45372"
  },
  {
   "id": 3211080006,
   "districtId": 3211080,
-  "name": "DARMAJAYA"
+  "districtName": "DARMARAJA",
+  "name": "DARMAJAYA",
+  "postalCode": "45372"
  },
  {
   "id": 3211080007,
   "districtId": 3211080,
-  "name": "DARMARAJA"
+  "districtName": "DARMARAJA",
+  "name": "DARMARAJA",
+  "postalCode": "45372"
  },
  {
   "id": 3211080008,
   "districtId": 3211080,
-  "name": "CIPEUTEUY"
+  "districtName": "DARMARAJA",
+  "name": "CIPEUTEUY",
+  "postalCode": "45372"
  },
  {
   "id": 3211080011,
   "districtId": 3211080,
-  "name": "CIKEUSI"
+  "districtName": "DARMARAJA",
+  "name": "CIKEUSI",
+  "postalCode": "45372"
  },
  {
   "id": 3211080012,
   "districtId": 3211080,
-  "name": "CIEUNTEUNG"
+  "districtName": "DARMARAJA",
+  "name": "CIEUNTEUNG",
+  "postalCode": "45372"
  },
  {
   "id": 3211080013,
   "districtId": 3211080,
-  "name": "TARUNAJAYA"
+  "districtName": "DARMARAJA",
+  "name": "TARUNAJAYA",
+  "postalCode": "45372"
  },
  {
   "id": 3211080014,
   "districtId": 3211080,
-  "name": "SUKARATU"
+  "districtName": "DARMARAJA",
+  "name": "SUKARATU",
+  "postalCode": "35551"
  },
  {
   "id": 3211080015,
   "districtId": 3211080,
-  "name": "LEUWIHIDEUNG"
+  "districtName": "DARMARAJA",
+  "name": "LEUWIHIDEUNG",
+  "postalCode": "45372"
  },
  {
   "id": 3211080016,
   "districtId": 3211080,
-  "name": "CIBOGO"
+  "districtName": "DARMARAJA",
+  "name": "CIBOGO",
+  "postalCode": "41285"
  },
  {
   "id": 3211080017,
   "districtId": 3211080,
-  "name": "CIPAKU"
+  "districtName": "DARMARAJA",
+  "name": "CIPAKU",
+  "postalCode": "16133"
  },
  {
   "id": 3211080018,
   "districtId": 3211080,
-  "name": "KARANG PAKUAN"
+  "districtName": "DARMARAJA",
+  "name": "KARANG PAKUAN",
+  "postalCode": "45372"
  },
  {
   "id": 3211080019,
   "districtId": 3211080,
-  "name": "PAKU ALAM"
+  "districtName": "DARMARAJA",
+  "name": "PAKU ALAM",
+  "postalCode": "45372"
  },
  {
   "id": 3211080020,
   "districtId": 3211080,
-  "name": "RANGGON"
+  "districtName": "DARMARAJA",
+  "name": "RANGGON",
+  "postalCode": "45372"
  }
 ]

@@ -2,261 +2,365 @@
  {
   "id": 1109190001,
   "districtId": 1109190,
-  "name": "RAYA PAYA"
+  "districtName": "SIMPANG TIGA",
+  "name": "RAYA PAYA",
+  "postalCode": ""
  },
  {
   "id": 1109190002,
   "districtId": 1109190,
-  "name": "MESJID BUNGIE"
+  "districtName": "SIMPANG TIGA",
+  "name": "MESJID BUNGIE",
+  "postalCode": "24181"
  },
  {
   "id": 1109190003,
   "districtId": 1109190,
-  "name": "LILIEP"
+  "districtName": "SIMPANG TIGA",
+  "name": "LILIEP",
+  "postalCode": ""
  },
  {
   "id": 1109190004,
   "districtId": 1109190,
-  "name": "UJONG BAROH"
+  "districtName": "SIMPANG TIGA",
+  "name": "UJONG BAROH",
+  "postalCode": "23615"
  },
  {
   "id": 1109190005,
   "districtId": 1109190,
-  "name": "SEUK CUKOK"
+  "districtName": "SIMPANG TIGA",
+  "name": "SEUK CUKOK",
+  "postalCode": "24181"
  },
  {
   "id": 1109190006,
   "districtId": 1109190,
-  "name": "PULO TU"
+  "districtName": "SIMPANG TIGA",
+  "name": "PULO TU",
+  "postalCode": "24181"
  },
  {
   "id": 1109190007,
   "districtId": 1109190,
-  "name": "PALOH TOK DUE"
+  "districtName": "SIMPANG TIGA",
+  "name": "PALOH TOK DUE",
+  "postalCode": ""
  },
  {
   "id": 1109190008,
   "districtId": 1109190,
-  "name": "MEUNASAH JUERONG"
+  "districtName": "SIMPANG TIGA",
+  "name": "MEUNASAH JUERONG",
+  "postalCode": ""
  },
  {
   "id": 1109190009,
   "districtId": 1109190,
-  "name": "KAMPUNG BLANG"
+  "districtName": "SIMPANG TIGA",
+  "name": "KAMPUNG BLANG",
+  "postalCode": "23362"
  },
  {
   "id": 1109190010,
   "districtId": 1109190,
-  "name": "KULAM BARO"
+  "districtName": "SIMPANG TIGA",
+  "name": "KULAM BARO",
+  "postalCode": "24181"
  },
  {
   "id": 1109190011,
   "districtId": 1109190,
-  "name": "LINGGONG SAGOE"
+  "districtName": "SIMPANG TIGA",
+  "name": "LINGGONG SAGOE",
+  "postalCode": "24181"
  },
  {
   "id": 1109190012,
   "districtId": 1109190,
-  "name": "BLANG LEUEN"
+  "districtName": "SIMPANG TIGA",
+  "name": "BLANG LEUEN",
+  "postalCode": "24181"
  },
  {
   "id": 1109190013,
   "districtId": 1109190,
-  "name": "MESJID TUNGUE"
+  "districtName": "SIMPANG TIGA",
+  "name": "MESJID TUNGUE",
+  "postalCode": "24181"
  },
  {
   "id": 1109190014,
   "districtId": 1109190,
-  "name": "ULEE BARAT"
+  "districtName": "SIMPANG TIGA",
+  "name": "ULEE BARAT",
+  "postalCode": "24181"
  },
  {
   "id": 1109190015,
   "districtId": 1109190,
-  "name": "EMPEH"
+  "districtName": "SIMPANG TIGA",
+  "name": "EMPEH",
+  "postalCode": "24173"
  },
  {
   "id": 1109190016,
   "districtId": 1109190,
-  "name": "PADANG"
+  "districtName": "SIMPANG TIGA",
+  "name": "PADANG",
+  "postalCode": "23762"
  },
  {
   "id": 1109190017,
   "districtId": 1109190,
-  "name": "DAYAH BLANG"
+  "districtName": "SIMPANG TIGA",
+  "name": "DAYAH BLANG",
+  "postalCode": "24181"
  },
  {
   "id": 1109190018,
   "districtId": 1109190,
-  "name": "TEUNGOH MANGKI"
+  "districtName": "SIMPANG TIGA",
+  "name": "TEUNGOH MANGKI",
+  "postalCode": "24181"
  },
  {
   "id": 1109190019,
   "districtId": 1109190,
-  "name": "DAYAH BLANG CUT"
+  "districtName": "SIMPANG TIGA",
+  "name": "DAYAH BLANG CUT",
+  "postalCode": "24181"
  },
  {
   "id": 1109190020,
   "districtId": 1109190,
-  "name": "NIEN"
+  "districtName": "SIMPANG TIGA",
+  "name": "NIEN",
+  "postalCode": "24181"
  },
  {
   "id": 1109190021,
   "districtId": 1109190,
-  "name": "CURUCOK TIMUR"
+  "districtName": "SIMPANG TIGA",
+  "name": "CURUCOK TIMUR",
+  "postalCode": "24181"
  },
  {
   "id": 1109190022,
   "districtId": 1109190,
-  "name": "JAJA TUNONG"
+  "districtName": "SIMPANG TIGA",
+  "name": "JAJA TUNONG",
+  "postalCode": "24181"
  },
  {
   "id": 1109190023,
   "districtId": 1109190,
-  "name": "UJONG GAMPONG"
+  "districtName": "SIMPANG TIGA",
+  "name": "UJONG GAMPONG",
+  "postalCode": "24181"
  },
  {
   "id": 1109190024,
   "districtId": 1109190,
-  "name": "LHEUE"
+  "districtName": "SIMPANG TIGA",
+  "name": "LHEUE",
+  "postalCode": "24181"
  },
  {
   "id": 1109190025,
   "districtId": 1109190,
-  "name": "JAJA BAROH"
+  "districtName": "SIMPANG TIGA",
+  "name": "JAJA BAROH",
+  "postalCode": "24181"
  },
  {
   "id": 1109190026,
   "districtId": 1109190,
-  "name": "PULO RAYA"
+  "districtName": "SIMPANG TIGA",
+  "name": "PULO RAYA",
+  "postalCode": "23656"
  },
  {
   "id": 1109190027,
   "districtId": 1109190,
-  "name": "CURUCOK BARAT"
+  "districtName": "SIMPANG TIGA",
+  "name": "CURUCOK BARAT",
+  "postalCode": "24181"
  },
  {
   "id": 1109190028,
   "districtId": 1109190,
-  "name": "CURUCOK SAGOE"
+  "districtName": "SIMPANG TIGA",
+  "name": "CURUCOK SAGOE",
+  "postalCode": "24181"
  },
  {
   "id": 1109190029,
   "districtId": 1109190,
-  "name": "COT ARA"
+  "districtName": "SIMPANG TIGA",
+  "name": "COT ARA",
+  "postalCode": "24392"
  },
  {
   "id": 1109190030,
   "districtId": 1109190,
-  "name": "MADIKA"
+  "districtName": "SIMPANG TIGA",
+  "name": "MADIKA",
+  "postalCode": "24181"
  },
  {
   "id": 1109190031,
   "districtId": 1109190,
-  "name": "SAGOE"
+  "districtName": "SIMPANG TIGA",
+  "name": "SAGOE",
+  "postalCode": "24184"
  },
  {
   "id": 1109190032,
   "districtId": 1109190,
-  "name": "BUNIEN"
+  "districtName": "SIMPANG TIGA",
+  "name": "BUNIEN",
+  "postalCode": "24181"
  },
  {
   "id": 1109190033,
   "districtId": 1109190,
-  "name": "COT PALEUE"
+  "districtName": "SIMPANG TIGA",
+  "name": "COT PALEUE",
+  "postalCode": "24181"
  },
  {
   "id": 1109190034,
   "districtId": 1109190,
-  "name": "RAYA PALEUE"
+  "districtName": "SIMPANG TIGA",
+  "name": "RAYA PALEUE",
+  "postalCode": "24181"
  },
  {
   "id": 1109190035,
   "districtId": 1109190,
-  "name": "PANTE"
+  "districtName": "SIMPANG TIGA",
+  "name": "PANTE",
+  "postalCode": "24382"
  },
  {
   "id": 1109190036,
   "districtId": 1109190,
-  "name": "PULO BLANG"
+  "districtName": "SIMPANG TIGA",
+  "name": "PULO BLANG",
+  "postalCode": "24455"
  },
  {
   "id": 1109190037,
   "districtId": 1109190,
-  "name": "GONG"
+  "districtName": "SIMPANG TIGA",
+  "name": "GONG",
+  "postalCode": ""
  },
  {
   "id": 1109190038,
   "districtId": 1109190,
-  "name": "MESJID GIGIENG"
+  "districtName": "SIMPANG TIGA",
+  "name": "MESJID GIGIENG",
+  "postalCode": "24181"
  },
  {
   "id": 1109190039,
   "districtId": 1109190,
-  "name": "COT JAJA"
+  "districtName": "SIMPANG TIGA",
+  "name": "COT JAJA",
+  "postalCode": "24181"
  },
  {
   "id": 1109190040,
   "districtId": 1109190,
-  "name": "PEUKAN TUHA"
+  "districtName": "SIMPANG TIGA",
+  "name": "PEUKAN TUHA",
+  "postalCode": "24181"
  },
  {
   "id": 1109190041,
   "districtId": 1109190,
-  "name": "PULO GAJAH MATE"
+  "districtName": "SIMPANG TIGA",
+  "name": "PULO GAJAH MATE",
+  "postalCode": "24183"
  },
  {
   "id": 1109190042,
   "districtId": 1109190,
-  "name": "MEUNASAH BLANG"
+  "districtName": "SIMPANG TIGA",
+  "name": "MEUNASAH BLANG",
+  "postalCode": "24455"
  },
  {
   "id": 1109190043,
   "districtId": 1109190,
-  "name": "MAMPLAM"
+  "districtName": "SIMPANG TIGA",
+  "name": "MAMPLAM",
+  "postalCode": "24183"
  },
  {
   "id": 1109190044,
   "districtId": 1109190,
-  "name": "LAMBIDENG"
+  "districtName": "SIMPANG TIGA",
+  "name": "LAMBIDENG",
+  "postalCode": "24181"
  },
  {
   "id": 1109190045,
   "districtId": 1109190,
-  "name": "SEUKEE"
+  "districtName": "SIMPANG TIGA",
+  "name": "SEUKEE",
+  "postalCode": "24183"
  },
  {
   "id": 1109190046,
   "districtId": 1109190,
-  "name": "MEUNASAH LHEE"
+  "districtName": "SIMPANG TIGA",
+  "name": "MEUNASAH LHEE",
+  "postalCode": "24181"
  },
  {
   "id": 1109190047,
   "districtId": 1109190,
-  "name": "MANTAK RAYA"
+  "districtName": "SIMPANG TIGA",
+  "name": "MANTAK RAYA",
+  "postalCode": "24181"
  },
  {
   "id": 1109190048,
   "districtId": 1109190,
-  "name": "DAYAH LAMPOH AWE"
+  "districtName": "SIMPANG TIGA",
+  "name": "DAYAH LAMPOH AWE",
+  "postalCode": "24181"
  },
  {
   "id": 1109190049,
   "districtId": 1109190,
-  "name": "KUPULA"
+  "districtName": "SIMPANG TIGA",
+  "name": "KUPULA",
+  "postalCode": "24181"
  },
  {
   "id": 1109190050,
   "districtId": 1109190,
-  "name": "SUKON"
+  "districtName": "SIMPANG TIGA",
+  "name": "SUKON",
+  "postalCode": "24152"
  },
  {
   "id": 1109190051,
   "districtId": 1109190,
-  "name": "CEBREK"
+  "districtName": "SIMPANG TIGA",
+  "name": "CEBREK",
+  "postalCode": "24182"
  },
  {
   "id": 1109190052,
   "districtId": 1109190,
-  "name": "PEUKAN SOET"
+  "districtName": "SIMPANG TIGA",
+  "name": "PEUKAN SOET",
+  "postalCode": ""
  }
 ]

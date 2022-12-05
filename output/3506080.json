@@ -2,46 +2,64 @@
  {
   "id": 3506080001,
   "districtId": 3506080,
-  "name": "BEDALI"
+  "districtName": "NGANCAR",
+  "name": "BEDALI",
+  "postalCode": "65215"
  },
  {
   "id": 3506080002,
   "districtId": 3506080,
-  "name": "MARGOURIP"
+  "districtName": "NGANCAR",
+  "name": "MARGOURIP",
+  "postalCode": "64291"
  },
  {
   "id": 3506080003,
   "districtId": 3506080,
-  "name": "MANGGIS"
+  "districtName": "NGANCAR",
+  "name": "MANGGIS",
+  "postalCode": "22742"
  },
  {
   "id": 3506080005,
   "districtId": 3506080,
-  "name": "SUGIHWARAS"
+  "districtName": "NGANCAR",
+  "name": "SUGIHWARAS",
+  "postalCode": "54363"
  },
  {
   "id": 3506080006,
   "districtId": 3506080,
-  "name": "NGANCAR"
+  "districtName": "NGANCAR",
+  "name": "NGANCAR",
+  "postalCode": "57675"
  },
  {
   "id": 3506080007,
   "districtId": 3506080,
-  "name": "PANDANTOYO"
+  "districtName": "NGANCAR",
+  "name": "PANDANTOYO",
+  "postalCode": "64291"
  },
  {
   "id": 3506080008,
   "districtId": 3506080,
-  "name": "KUNJANG"
+  "districtName": "NGANCAR",
+  "name": "KUNJANG",
+  "postalCode": "64156"
  },
  {
   "id": 3506080009,
   "districtId": 3506080,
-  "name": "JAGUL"
+  "districtName": "NGANCAR",
+  "name": "JAGUL",
+  "postalCode": "64291"
  },
  {
   "id": 3506080010,
   "districtId": 3506080,
-  "name": "BABADAN"
+  "districtName": "NGANCAR",
+  "name": "BABADAN",
+  "postalCode": "45151"
  }
 ]

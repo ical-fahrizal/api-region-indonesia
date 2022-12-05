@@ -2,71 +2,99 @@
  {
   "id": 3604050001,
   "districtId": 3604050,
-  "name": "SUKACAI"
+  "districtName": "BAROS",
+  "name": "SUKACAI",
+  "postalCode": "42173"
  },
  {
   "id": 3604050002,
   "districtId": 3604050,
-  "name": "SUKAMENAK"
+  "districtName": "BAROS",
+  "name": "SUKAMENAK",
+  "postalCode": "45464"
  },
  {
   "id": 3604050003,
   "districtId": 3604050,
-  "name": "TEJAMARI"
+  "districtName": "BAROS",
+  "name": "TEJAMARI",
+  "postalCode": "42173"
  },
  {
   "id": 3604050004,
   "districtId": 3604050,
-  "name": "PANYIRAPAN"
+  "districtName": "BAROS",
+  "name": "PANYIRAPAN",
+  "postalCode": "40915"
  },
  {
   "id": 3604050005,
   "districtId": 3604050,
-  "name": "TAMANSARI"
+  "districtName": "BAROS",
+  "name": "TAMANSARI",
+  "postalCode": "35366"
  },
  {
   "id": 3604050006,
   "districtId": 3604050,
-  "name": "SINDANGMANDI"
+  "districtName": "BAROS",
+  "name": "SINDANGMANDI",
+  "postalCode": "42166"
  },
  {
   "id": 3604050007,
   "districtId": 3604050,
-  "name": "CURUG AGUNG"
+  "districtName": "BAROS",
+  "name": "CURUG AGUNG",
+  "postalCode": "42173"
  },
  {
   "id": 3604050008,
   "districtId": 3604050,
-  "name": "SUKAMANAH"
+  "districtName": "BAROS",
+  "name": "SUKAMANAH",
+  "postalCode": "43273"
  },
  {
   "id": 3604050009,
   "districtId": 3604050,
-  "name": "PADASUKA"
+  "districtName": "BAROS",
+  "name": "PADASUKA",
+  "postalCode": "44185"
  },
  {
   "id": 3604050010,
   "districtId": 3604050,
-  "name": "SINARMUKTI"
+  "districtName": "BAROS",
+  "name": "SINARMUKTI",
+  "postalCode": "42173"
  },
  {
   "id": 3604050011,
   "districtId": 3604050,
-  "name": "SIDAMUKTI"
+  "districtName": "BAROS",
+  "name": "SIDAMUKTI",
+  "postalCode": "45411"
  },
  {
   "id": 3604050012,
   "districtId": 3604050,
-  "name": "BAROS"
+  "districtName": "BAROS",
+  "name": "BAROS",
+  "postalCode": "35611"
  },
  {
   "id": 3604050013,
   "districtId": 3604050,
-  "name": "CISALAM"
+  "districtName": "BAROS",
+  "name": "CISALAM",
+  "postalCode": "42173"
  },
  {
   "id": 3604050014,
   "districtId": 3604050,
-  "name": "SUKA INDAH"
+  "districtName": "BAROS",
+  "name": "SUKA INDAH",
+  "postalCode": "42173"
  }
 ]

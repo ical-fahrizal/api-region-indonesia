@@ -2,26 +2,36 @@
  {
   "id": 7406013001,
   "districtId": 7406013,
-  "name": "SIKELI"
+  "districtName": "KABAENA BARAT",
+  "name": "SIKELI",
+  "postalCode": "93781"
  },
  {
   "id": 7406013002,
   "districtId": 7406013,
-  "name": "BALIARA"
+  "districtName": "KABAENA BARAT",
+  "name": "BALIARA",
+  "postalCode": "94471"
  },
  {
   "id": 7406013003,
   "districtId": 7406013,
-  "name": "RAHANTARI"
+  "districtName": "KABAENA BARAT",
+  "name": "RAHANTARI",
+  "postalCode": "93781"
  },
  {
   "id": 7406013004,
   "districtId": 7406013,
-  "name": "BALIARA KEPULAUAN"
+  "districtName": "KABAENA BARAT",
+  "name": "BALIARA KEPULAUAN",
+  "postalCode": "93781"
  },
  {
   "id": 7406013005,
   "districtId": 7406013,
-  "name": "BALIARA SELATAN"
+  "districtName": "KABAENA BARAT",
+  "name": "BALIARA SELATAN",
+  "postalCode": "93781"
  }
 ]

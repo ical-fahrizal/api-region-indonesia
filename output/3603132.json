@@ -2,41 +2,57 @@
  {
   "id": 3603132001,
   "districtId": 3603132,
-  "name": "KUBANG"
+  "districtName": "SUKAMULYA",
+  "name": "KUBANG",
+  "postalCode": "26253"
  },
  {
   "id": 3603132002,
   "districtId": 3603132,
-  "name": "PARAHU"
+  "districtName": "SUKAMULYA",
+  "name": "PARAHU",
+  "postalCode": "15610"
  },
  {
   "id": 3603132003,
   "districtId": 3603132,
-  "name": "SUKA MULYA"
+  "districtName": "SUKAMULYA",
+  "name": "SUKA MULYA",
+  "postalCode": "28463"
  },
  {
   "id": 3603132004,
   "districtId": 3603132,
-  "name": "KALI ASIN"
+  "districtName": "SUKAMULYA",
+  "name": "KALI ASIN",
+  "postalCode": "35361"
  },
  {
   "id": 3603132005,
   "districtId": 3603132,
-  "name": "MERAK"
+  "districtName": "SUKAMULYA",
+  "name": "MERAK",
+  "postalCode": "59573"
  },
  {
   "id": 3603132006,
   "districtId": 3603132,
-  "name": "BUNAR"
+  "districtName": "SUKAMULYA",
+  "name": "BUNAR",
+  "postalCode": "16660"
  },
  {
   "id": 3603132007,
   "districtId": 3603132,
-  "name": "BENDA"
+  "districtName": "SUKAMULYA",
+  "name": "BENDA",
+  "postalCode": "43359"
  },
  {
   "id": 3603132008,
   "districtId": 3603132,
-  "name": "BUNI AYU"
+  "districtName": "SUKAMULYA",
+  "name": "BUNI AYU",
+  "postalCode": "15610"
  }
 ]

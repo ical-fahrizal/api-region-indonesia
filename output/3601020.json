@@ -2,56 +2,78 @@
  {
   "id": 3601020001,
   "districtId": 3601020,
-  "name": "RANCAPINANG"
+  "districtName": "CIMANGGU",
+  "name": "RANCAPINANG",
+  "postalCode": "42284"
  },
  {
   "id": 3601020002,
   "districtId": 3601020,
-  "name": "CIBADAK"
+  "districtName": "CIMANGGU",
+  "name": "CIBADAK",
+  "postalCode": "40241"
  },
  {
   "id": 3601020003,
   "districtId": 3601020,
-  "name": "BATUHIDEUNG"
+  "districtName": "CIMANGGU",
+  "name": "BATUHIDEUNG",
+  "postalCode": "42284"
  },
  {
   "id": 3601020005,
   "districtId": 3601020,
-  "name": "KRAMATJAYA"
+  "districtName": "CIMANGGU",
+  "name": "KRAMATJAYA",
+  "postalCode": "42284"
  },
  {
   "id": 3601020006,
   "districtId": 3601020,
-  "name": "MANGKUALAM"
+  "districtName": "CIMANGGU",
+  "name": "MANGKUALAM",
+  "postalCode": "42284"
  },
  {
   "id": 3601020007,
   "districtId": 3601020,
-  "name": "PADASUKA"
+  "districtName": "CIMANGGU",
+  "name": "PADASUKA",
+  "postalCode": "44185"
  },
  {
   "id": 3601020008,
   "districtId": 3601020,
-  "name": "CIBURIAL"
+  "districtName": "CIMANGGU",
+  "name": "CIBURIAL",
+  "postalCode": "43271"
  },
  {
   "id": 3601020009,
   "districtId": 3601020,
-  "name": "WARINGINKURUNG"
+  "districtName": "CIMANGGU",
+  "name": "WARINGINKURUNG",
+  "postalCode": "42284"
  },
  {
   "id": 3601020010,
   "districtId": 3601020,
-  "name": "CIJARALANG"
+  "districtName": "CIMANGGU",
+  "name": "CIJARALANG",
+  "postalCode": "42284"
  },
  {
   "id": 3601020011,
   "districtId": 3601020,
-  "name": "CIMANGGU"
+  "districtName": "CIMANGGU",
+  "name": "CIMANGGU",
+  "postalCode": "43262"
  },
  {
   "id": 3601020012,
   "districtId": 3601020,
-  "name": "TANGKILSARI"
+  "districtName": "CIMANGGU",
+  "name": "TANGKILSARI",
+  "postalCode": "65172"
  }
 ]

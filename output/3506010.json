@@ -2,96 +2,134 @@
  {
   "id": 3506010002,
   "districtId": 3506010,
-  "name": "NGADI"
+  "districtName": "MOJO",
+  "name": "NGADI",
+  "postalCode": "64162"
  },
  {
   "id": 3506010003,
   "districtId": 3506010,
-  "name": "KRANDING"
+  "districtName": "MOJO",
+  "name": "KRANDING",
+  "postalCode": "64162"
  },
  {
   "id": 3506010004,
   "districtId": 3506010,
-  "name": "MAESAN"
+  "districtName": "MOJO",
+  "name": "MAESAN",
+  "postalCode": "68262"
  },
  {
   "id": 3506010005,
   "districtId": 3506010,
-  "name": "PONGGOK"
+  "districtName": "MOJO",
+  "name": "PONGGOK",
+  "postalCode": "57474"
  },
  {
   "id": 3506010006,
   "districtId": 3506010,
-  "name": "PETUNGROTO"
+  "districtName": "MOJO",
+  "name": "PETUNGROTO",
+  "postalCode": "64162"
  },
  {
   "id": 3506010007,
   "districtId": 3506010,
-  "name": "PAMONGAN"
+  "districtName": "MOJO",
+  "name": "PAMONGAN",
+  "postalCode": "59565"
  },
  {
   "id": 3506010008,
   "districtId": 3506010,
-  "name": "KEDAWUNG"
+  "districtName": "MOJO",
+  "name": "KEDAWUNG",
+  "postalCode": "45153"
  },
  {
   "id": 3506010009,
   "districtId": 3506010,
-  "name": "PLOSO"
+  "districtName": "MOJO",
+  "name": "PLOSO",
+  "postalCode": "59348"
  },
  {
   "id": 3506010010,
   "districtId": 3506010,
-  "name": "TAMBIBENDO"
+  "districtName": "MOJO",
+  "name": "TAMBIBENDO",
+  "postalCode": "64162"
  },
  {
   "id": 3506010011,
   "districtId": 3506010,
-  "name": "KRATON"
+  "districtName": "MOJO",
+  "name": "KRATON",
+  "postalCode": "52112"
  },
  {
   "id": 3506010012,
   "districtId": 3506010,
-  "name": "BLIMBING"
+  "districtName": "MOJO",
+  "name": "BLIMBING",
+  "postalCode": "52364"
  },
  {
   "id": 3506010013,
   "districtId": 3506010,
-  "name": "JUGO"
+  "districtName": "MOJO",
+  "name": "JUGO",
+  "postalCode": "59454"
  },
  {
   "id": 3506010014,
   "districtId": 3506010,
-  "name": "MOJO"
+  "districtName": "MOJO",
+  "name": "MOJO",
+  "postalCode": "57384"
  },
  {
   "id": 3506010015,
   "districtId": 3506010,
-  "name": "MLATI"
+  "districtName": "MOJO",
+  "name": "MLATI",
+  "postalCode": "63581"
  },
  {
   "id": 3506010016,
   "districtId": 3506010,
-  "name": "SURAT"
+  "districtName": "MOJO",
+  "name": "SURAT",
+  "postalCode": "64162"
  },
  {
   "id": 3506010017,
   "districtId": 3506010,
-  "name": "SUKOANYAR"
+  "districtName": "MOJO",
+  "name": "SUKOANYAR",
+  "postalCode": "61171"
  },
  {
   "id": 3506010018,
   "districtId": 3506010,
-  "name": "KENITEN"
+  "districtName": "MOJO",
+  "name": "KENITEN",
+  "postalCode": "53152"
  },
  {
   "id": 3506010019,
   "districtId": 3506010,
-  "name": "MONDO"
+  "districtName": "MOJO",
+  "name": "MONDO",
+  "postalCode": "64162"
  },
  {
   "id": 3506010020,
   "districtId": 3506010,
-  "name": "PETOK"
+  "districtName": "MOJO",
+  "name": "PETOK",
+  "postalCode": "64162"
  }
 ]

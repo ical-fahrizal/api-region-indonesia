@@ -2,86 +2,120 @@
  {
   "id": 1212070001,
   "districtId": 1212070,
-  "name": "MARDINDING JULU"
+  "districtName": "BIRU-BIRU",
+  "name": "MARDINDING JULU",
+  "postalCode": ""
  },
  {
   "id": 1212070002,
   "districtId": 1212070,
-  "name": "PENEN"
+  "districtName": "BIRU-BIRU",
+  "name": "PENEN",
+  "postalCode": "20358"
  },
  {
   "id": 1212070003,
   "districtId": 1212070,
-  "name": "PER RIA RIA"
+  "districtName": "BIRU-BIRU",
+  "name": "PER RIA RIA",
+  "postalCode": "20358"
  },
  {
   "id": 1212070004,
   "districtId": 1212070,
-  "name": "SARI LABA JAHE"
+  "districtName": "BIRU-BIRU",
+  "name": "SARI LABA JAHE",
+  "postalCode": "20358"
  },
  {
   "id": 1212070005,
   "districtId": 1212070,
-  "name": "BIRU BIRU"
+  "districtName": "BIRU-BIRU",
+  "name": "BIRU BIRU",
+  "postalCode": ""
  },
  {
   "id": 1212070006,
   "districtId": 1212070,
-  "name": "KUALA DEKAH"
+  "districtName": "BIRU-BIRU",
+  "name": "KUALA DEKAH",
+  "postalCode": "20358"
  },
  {
   "id": 1212070007,
   "districtId": 1212070,
-  "name": "RUMAH GERAT"
+  "districtName": "BIRU-BIRU",
+  "name": "RUMAH GERAT",
+  "postalCode": "20358"
  },
  {
   "id": 1212070008,
   "districtId": 1212070,
-  "name": "TANJUNG SENA"
+  "districtName": "BIRU-BIRU",
+  "name": "TANJUNG SENA",
+  "postalCode": "20358"
  },
  {
   "id": 1212070009,
   "districtId": 1212070,
-  "name": "KUTA MULYO"
+  "districtName": "BIRU-BIRU",
+  "name": "KUTA MULYO",
+  "postalCode": "20358"
  },
  {
   "id": 1212070010,
   "districtId": 1212070,
-  "name": "MBARUAI"
+  "districtName": "BIRU-BIRU",
+  "name": "MBARUAI",
+  "postalCode": ""
  },
  {
   "id": 1212070011,
   "districtId": 1212070,
-  "name": "NAMO TUALANG"
+  "districtName": "BIRU-BIRU",
+  "name": "NAMO TUALANG",
+  "postalCode": "20358"
  },
  {
   "id": 1212070012,
   "districtId": 1212070,
-  "name": "KAMPUNG SELAMAT"
+  "districtName": "BIRU-BIRU",
+  "name": "KAMPUNG SELAMAT",
+  "postalCode": ""
  },
  {
   "id": 1212070013,
   "districtId": 1212070,
-  "name": "SIDODADI"
+  "districtName": "BIRU-BIRU",
+  "name": "SIDODADI",
+  "postalCode": "24582"
  },
  {
   "id": 1212070014,
   "districtId": 1212070,
-  "name": "NAMO SURO BARU"
+  "districtName": "BIRU-BIRU",
+  "name": "NAMO SURO BARU",
+  "postalCode": "20358"
  },
  {
   "id": 1212070015,
   "districtId": 1212070,
-  "name": "AJI BAHO"
+  "districtName": "BIRU-BIRU",
+  "name": "AJI BAHO",
+  "postalCode": "20358"
  },
  {
   "id": 1212070016,
   "districtId": 1212070,
-  "name": "CANDI REJO"
+  "districtName": "BIRU-BIRU",
+  "name": "CANDI REJO",
+  "postalCode": "20358"
  },
  {
   "id": 1212070017,
   "districtId": 1212070,
-  "name": "SIDOMULYO"
+  "districtName": "BIRU-BIRU",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  }
 ]

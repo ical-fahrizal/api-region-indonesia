@@ -2,21 +2,29 @@
  {
   "id": 1109011001,
   "districtId": 1109011,
-  "name": "MANE"
+  "districtName": "MANE",
+  "name": "MANE",
+  "postalCode": "24186"
  },
  {
   "id": 1109011002,
   "districtId": 1109011,
-  "name": "TURUE CUT"
+  "districtName": "MANE",
+  "name": "TURUE CUT",
+  "postalCode": "24186"
  },
  {
   "id": 1109011003,
   "districtId": 1109011,
-  "name": "LUTUENG"
+  "districtName": "MANE",
+  "name": "LUTUENG",
+  "postalCode": ""
  },
  {
   "id": 1109011004,
   "districtId": 1109011,
-  "name": "BLANG DALAM"
+  "districtName": "MANE",
+  "name": "BLANG DALAM",
+  "postalCode": "23767"
  }
 ]

@@ -2,56 +2,78 @@
  {
   "id": 1210040001,
   "districtId": 1210040,
-  "name": "PARBULUAN II"
+  "districtName": "PARBULUAN",
+  "name": "PARBULUAN II",
+  "postalCode": "22282"
  },
  {
   "id": 1210040002,
   "districtId": 1210040,
-  "name": "PARBULUAN I"
+  "districtName": "PARBULUAN",
+  "name": "PARBULUAN I",
+  "postalCode": "22282"
  },
  {
   "id": 1210040003,
   "districtId": 1210040,
-  "name": "PARBULUAN V"
+  "districtName": "PARBULUAN",
+  "name": "PARBULUAN V",
+  "postalCode": "22282"
  },
  {
   "id": 1210040004,
   "districtId": 1210040,
-  "name": "PARBULUAN III"
+  "districtName": "PARBULUAN",
+  "name": "PARBULUAN III",
+  "postalCode": "22282"
  },
  {
   "id": 1210040005,
   "districtId": 1210040,
-  "name": "PARBULUAN IV"
+  "districtName": "PARBULUAN",
+  "name": "PARBULUAN IV",
+  "postalCode": "22282"
  },
  {
   "id": 1210040006,
   "districtId": 1210040,
-  "name": "PARBULUAN VI"
+  "districtName": "PARBULUAN",
+  "name": "PARBULUAN VI",
+  "postalCode": "22282"
  },
  {
   "id": 1210040007,
   "districtId": 1210040,
-  "name": "LAE HOLE"
+  "districtName": "PARBULUAN",
+  "name": "LAE HOLE",
+  "postalCode": "22282"
  },
  {
   "id": 1210040008,
   "districtId": 1210040,
-  "name": "B A N G U N"
+  "districtName": "PARBULUAN",
+  "name": "B A N G U N",
+  "postalCode": ""
  },
  {
   "id": 1210040009,
   "districtId": 1210040,
-  "name": "LAE HOLE I"
+  "districtName": "PARBULUAN",
+  "name": "LAE HOLE I",
+  "postalCode": ""
  },
  {
   "id": 1210040010,
   "districtId": 1210040,
-  "name": "LAE HOLE II"
+  "districtName": "PARBULUAN",
+  "name": "LAE HOLE II",
+  "postalCode": ""
  },
  {
   "id": 1210040011,
   "districtId": 1210040,
-  "name": "BANGUN I"
+  "districtName": "PARBULUAN",
+  "name": "BANGUN I",
+  "postalCode": ""
  }
 ]

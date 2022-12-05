@@ -2,41 +2,57 @@
  {
   "id": 1804061001,
   "districtId": 1804061,
-  "name": "SUMUR KUCING"
+  "districtName": "PASIR SAKTI",
+  "name": "SUMUR KUCING",
+  "postalCode": "34387"
  },
  {
   "id": 1804061002,
   "districtId": 1804061,
-  "name": "LABUHAN RATU"
+  "districtName": "PASIR SAKTI",
+  "name": "LABUHAN RATU",
+  "postalCode": "35142"
  },
  {
   "id": 1804061003,
   "districtId": 1804061,
-  "name": "KEDUNG RINGIN"
+  "districtName": "PASIR SAKTI",
+  "name": "KEDUNG RINGIN",
+  "postalCode": "34387"
  },
  {
   "id": 1804061004,
   "districtId": 1804061,
-  "name": "REJO MULYO"
+  "districtName": "PASIR SAKTI",
+  "name": "REJO MULYO",
+  "postalCode": "32383"
  },
  {
   "id": 1804061005,
   "districtId": 1804061,
-  "name": "PURWOREJO"
+  "districtName": "PASIR SAKTI",
+  "name": "PURWOREJO",
+  "postalCode": "23661"
  },
  {
   "id": 1804061006,
   "districtId": 1804061,
-  "name": "MULYO SARI"
+  "districtName": "PASIR SAKTI",
+  "name": "MULYO SARI",
+  "postalCode": "31657"
  },
  {
   "id": 1804061007,
   "districtId": 1804061,
-  "name": "PASIR SAKTI"
+  "districtName": "PASIR SAKTI",
+  "name": "PASIR SAKTI",
+  "postalCode": "34387"
  },
  {
   "id": 1804061008,
   "districtId": 1804061,
-  "name": "MEKAR SARI"
+  "districtName": "PASIR SAKTI",
+  "name": "MEKAR SARI",
+  "postalCode": "21261"
  }
 ]

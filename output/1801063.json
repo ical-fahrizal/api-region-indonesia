@@ -2,51 +2,71 @@
  {
   "id": 1801063001,
   "districtId": 1801063,
-  "name": "PURA JAYA"
+  "districtName": "KEBUN TEBU",
+  "name": "PURA JAYA",
+  "postalCode": ""
  },
  {
   "id": 1801063002,
   "districtId": 1801063,
-  "name": "PURA WIWITAN"
+  "districtName": "KEBUN TEBU",
+  "name": "PURA WIWITAN",
+  "postalCode": ""
  },
  {
   "id": 1801063003,
   "districtId": 1801063,
-  "name": "TRIBUDI SYUKUR"
+  "districtName": "KEBUN TEBU",
+  "name": "TRIBUDI SYUKUR",
+  "postalCode": ""
  },
  {
   "id": 1801063004,
   "districtId": 1801063,
-  "name": "MUARA JAYA I"
+  "districtName": "KEBUN TEBU",
+  "name": "MUARA JAYA I",
+  "postalCode": ""
  },
  {
   "id": 1801063005,
   "districtId": 1801063,
-  "name": "MUARA JAYA II"
+  "districtName": "KEBUN TEBU",
+  "name": "MUARA JAYA II",
+  "postalCode": ""
  },
  {
   "id": 1801063006,
   "districtId": 1801063,
-  "name": "TRIBUDI MAKMUR"
+  "districtName": "KEBUN TEBU",
+  "name": "TRIBUDI MAKMUR",
+  "postalCode": "34871"
  },
  {
   "id": 1801063007,
   "districtId": 1801063,
-  "name": "TUGU MULYA"
+  "districtName": "KEBUN TEBU",
+  "name": "TUGU MULYA",
+  "postalCode": "34871"
  },
  {
   "id": 1801063008,
   "districtId": 1801063,
-  "name": "CIPTA MULYA"
+  "districtName": "KEBUN TEBU",
+  "name": "CIPTA MULYA",
+  "postalCode": "38326"
  },
  {
   "id": 1801063009,
   "districtId": 1801063,
-  "name": "MUARA BARU"
+  "districtName": "KEBUN TEBU",
+  "name": "MUARA BARU",
+  "postalCode": "24661"
  },
  {
   "id": 1801063010,
   "districtId": 1801063,
-  "name": "SINAR LUAS"
+  "districtName": "KEBUN TEBU",
+  "name": "SINAR LUAS",
+  "postalCode": "34173"
  }
 ]

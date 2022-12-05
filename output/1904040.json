@@ -2,41 +2,57 @@
  {
   "id": 1904040001,
   "districtId": 1904040,
-  "name": "SUNGKAP"
+  "districtName": "SIMPANG KATIS",
+  "name": "SUNGKAP",
+  "postalCode": "33674"
  },
  {
   "id": 1904040002,
   "districtId": 1904040,
-  "name": "CELUAK"
+  "districtName": "SIMPANG KATIS",
+  "name": "CELUAK",
+  "postalCode": "33674"
  },
  {
   "id": 1904040004,
   "districtId": 1904040,
-  "name": "SIMPANG KATIS"
+  "districtName": "SIMPANG KATIS",
+  "name": "SIMPANG KATIS",
+  "postalCode": "33674"
  },
  {
   "id": 1904040006,
   "districtId": 1904040,
-  "name": "BERUAS"
+  "districtName": "SIMPANG KATIS",
+  "name": "BERUAS",
+  "postalCode": "33364"
  },
  {
   "id": 1904040007,
   "districtId": 1904040,
-  "name": "TERAK"
+  "districtName": "SIMPANG KATIS",
+  "name": "TERAK",
+  "postalCode": "33674"
  },
  {
   "id": 1904040008,
   "districtId": 1904040,
-  "name": "PASIR GARAM"
+  "districtName": "SIMPANG KATIS",
+  "name": "PASIR GARAM",
+  "postalCode": "33115"
  },
  {
   "id": 1904040009,
   "districtId": 1904040,
-  "name": "PINANG SEBATANG"
+  "districtName": "SIMPANG KATIS",
+  "name": "PINANG SEBATANG",
+  "postalCode": "28772"
  },
  {
   "id": 1904040010,
   "districtId": 1904040,
-  "name": "KATIS"
+  "districtName": "SIMPANG KATIS",
+  "name": "KATIS",
+  "postalCode": "33674"
  }
 ]

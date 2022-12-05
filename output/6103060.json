@@ -2,36 +2,50 @@
  {
   "id": 6103060001,
   "districtId": 6103060,
-  "name": "LAMOANAK"
+  "districtName": "MENJALIN",
+  "name": "LAMOANAK",
+  "postalCode": ""
  },
  {
   "id": 6103060002,
   "districtId": 6103060,
-  "name": "BENGKAWE"
+  "districtName": "MENJALIN",
+  "name": "BENGKAWE",
+  "postalCode": "79362"
  },
  {
   "id": 6103060003,
   "districtId": 6103060,
-  "name": "MENJALIN"
+  "districtName": "MENJALIN",
+  "name": "MENJALIN",
+  "postalCode": "79362"
  },
  {
   "id": 6103060004,
   "districtId": 6103060,
-  "name": "SEPAHAT"
+  "districtName": "MENJALIN",
+  "name": "SEPAHAT",
+  "postalCode": "28761"
  },
  {
   "id": 6103060005,
   "districtId": 6103060,
-  "name": "RABA"
+  "districtName": "MENJALIN",
+  "name": "RABA",
+  "postalCode": "84181"
  },
  {
   "id": 6103060006,
   "districtId": 6103060,
-  "name": "NANGKA"
+  "districtName": "MENJALIN",
+  "name": "NANGKA",
+  "postalCode": "20742"
  },
  {
   "id": 6103060008,
   "districtId": 6103060,
-  "name": "TEMPOAK"
+  "districtName": "MENJALIN",
+  "name": "TEMPOAK",
+  "postalCode": "79362"
  }
 ]

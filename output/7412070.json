@@ -2,61 +2,85 @@
  {
   "id": 7412070001,
   "districtId": 7412070,
-  "name": "BUKIT PERMAI"
+  "districtName": "WAWONII BARAT",
+  "name": "BUKIT PERMAI",
+  "postalCode": "93393"
  },
  {
   "id": 7412070002,
   "districtId": 7412070,
-  "name": "MATA BAHO"
+  "districtName": "WAWONII BARAT",
+  "name": "MATA BAHO",
+  "postalCode": "93393"
  },
  {
   "id": 7412070003,
   "districtId": 7412070,
-  "name": "LAMOLUO"
+  "districtName": "WAWONII BARAT",
+  "name": "LAMOLUO",
+  "postalCode": ""
  },
  {
   "id": 7412070004,
   "districtId": 7412070,
-  "name": "MATA LANGARA"
+  "districtName": "WAWONII BARAT",
+  "name": "MATA LANGARA",
+  "postalCode": ""
  },
  {
   "id": 7412070005,
   "districtId": 7412070,
-  "name": "LANGARA IWAWO"
+  "districtName": "WAWONII BARAT",
+  "name": "LANGARA IWAWO",
+  "postalCode": "93393"
  },
  {
   "id": 7412070006,
   "districtId": 7412070,
-  "name": "LANGARA LAUT"
+  "districtName": "WAWONII BARAT",
+  "name": "LANGARA LAUT",
+  "postalCode": "93393"
  },
  {
   "id": 7412070007,
   "districtId": 7412070,
-  "name": "LANGARA INDAH"
+  "districtName": "WAWONII BARAT",
+  "name": "LANGARA INDAH",
+  "postalCode": "93393"
  },
  {
   "id": 7412070008,
   "districtId": 7412070,
-  "name": "LANGARA BAJO"
+  "districtName": "WAWONII BARAT",
+  "name": "LANGARA BAJO",
+  "postalCode": "93393"
  },
  {
   "id": 7412070009,
   "districtId": 7412070,
-  "name": "WAWOBILI"
+  "districtName": "WAWONII BARAT",
+  "name": "WAWOBILI",
+  "postalCode": "93393"
  },
  {
   "id": 7412070010,
   "districtId": 7412070,
-  "name": "WAWOLAA"
+  "districtName": "WAWONII BARAT",
+  "name": "WAWOLAA",
+  "postalCode": "93393"
  },
  {
   "id": 7412070011,
   "districtId": 7412070,
-  "name": "LANOWATU"
+  "districtName": "WAWONII BARAT",
+  "name": "LANOWATU",
+  "postalCode": ""
  },
  {
   "id": 7412070012,
   "districtId": 7412070,
-  "name": "PASIR PUTIH"
+  "districtName": "WAWONII BARAT",
+  "name": "PASIR PUTIH",
+  "postalCode": "24453"
  }
 ]

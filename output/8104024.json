@@ -2,26 +2,36 @@
  {
   "id": 8104024001,
   "districtId": 8104024,
-  "name": "KAKI AIR"
+  "districtName": "TELUK KAIELY",
+  "name": "KAKI AIR",
+  "postalCode": "97574"
  },
  {
   "id": 8104024002,
   "districtId": 8104024,
-  "name": "KAYELI"
+  "districtName": "TELUK KAIELY",
+  "name": "KAYELI",
+  "postalCode": ""
  },
  {
   "id": 8104024003,
   "districtId": 8104024,
-  "name": "MASARETE"
+  "districtName": "TELUK KAIELY",
+  "name": "MASARETE",
+  "postalCode": "97574"
  },
  {
   "id": 8104024004,
   "districtId": 8104024,
-  "name": "WAELAPIA"
+  "districtName": "TELUK KAIELY",
+  "name": "WAELAPIA",
+  "postalCode": "97574"
  },
  {
   "id": 8104024005,
   "districtId": 8104024,
-  "name": "SEITH"
+  "districtName": "TELUK KAIELY",
+  "name": "SEITH",
+  "postalCode": "97581"
  }
 ]

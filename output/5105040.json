@@ -2,61 +2,85 @@
  {
   "id": 5105040001,
   "districtId": 5105040,
-  "name": "KUSAMBA"
+  "districtName": "DAWAN",
+  "name": "KUSAMBA",
+  "postalCode": "80761"
  },
  {
   "id": 5105040002,
   "districtId": 5105040,
-  "name": "KAMPUNG KUSAMBA"
+  "districtName": "DAWAN",
+  "name": "KAMPUNG KUSAMBA",
+  "postalCode": "80761"
  },
  {
   "id": 5105040003,
   "districtId": 5105040,
-  "name": "PESINGGAHAN"
+  "districtName": "DAWAN",
+  "name": "PESINGGAHAN",
+  "postalCode": "80761"
  },
  {
   "id": 5105040004,
   "districtId": 5105040,
-  "name": "DAWAN KLOD"
+  "districtName": "DAWAN",
+  "name": "DAWAN KLOD",
+  "postalCode": "80761"
  },
  {
   "id": 5105040005,
   "districtId": 5105040,
-  "name": "GUNAKSA"
+  "districtName": "DAWAN",
+  "name": "GUNAKSA",
+  "postalCode": "80761"
  },
  {
   "id": 5105040006,
   "districtId": 5105040,
-  "name": "SAMPALAN KLOD"
+  "districtName": "DAWAN",
+  "name": "SAMPALAN KLOD",
+  "postalCode": "80761"
  },
  {
   "id": 5105040007,
   "districtId": 5105040,
-  "name": "SAMPALAN TENGAH"
+  "districtName": "DAWAN",
+  "name": "SAMPALAN TENGAH",
+  "postalCode": "80761"
  },
  {
   "id": 5105040008,
   "districtId": 5105040,
-  "name": "SULANG"
+  "districtName": "DAWAN",
+  "name": "SULANG",
+  "postalCode": "59254"
  },
  {
   "id": 5105040009,
   "districtId": 5105040,
-  "name": "PAKSEBALI"
+  "districtName": "DAWAN",
+  "name": "PAKSEBALI",
+  "postalCode": "80761"
  },
  {
   "id": 5105040010,
   "districtId": 5105040,
-  "name": "DAWAN KALER"
+  "districtName": "DAWAN",
+  "name": "DAWAN KALER",
+  "postalCode": "80761"
  },
  {
   "id": 5105040011,
   "districtId": 5105040,
-  "name": "PIKAT"
+  "districtName": "DAWAN",
+  "name": "PIKAT",
+  "postalCode": "80761"
  },
  {
   "id": 5105040012,
   "districtId": 5105040,
-  "name": "BESAN"
+  "districtName": "DAWAN",
+  "name": "BESAN",
+  "postalCode": "80761"
  }
 ]

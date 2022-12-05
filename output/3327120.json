@@ -2,81 +2,113 @@
  {
   "id": 3327120001,
   "districtId": 3327120,
-  "name": "TUMBAL"
+  "districtName": "COMAL",
+  "name": "TUMBAL",
+  "postalCode": "52363"
  },
  {
   "id": 3327120002,
   "districtId": 3327120,
-  "name": "PECANGAKAN"
+  "districtName": "COMAL",
+  "name": "PECANGAKAN",
+  "postalCode": "52194"
  },
  {
   "id": 3327120003,
   "districtId": 3327120,
-  "name": "SIKAYU"
+  "districtName": "COMAL",
+  "name": "SIKAYU",
+  "postalCode": "54474"
  },
  {
   "id": 3327120004,
   "districtId": 3327120,
-  "name": "PURWOSARI"
+  "districtName": "COMAL",
+  "name": "PURWOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 3327120005,
   "districtId": 3327120,
-  "name": "PURWOHARJO"
+  "districtName": "COMAL",
+  "name": "PURWOHARJO",
+  "postalCode": "52363"
  },
  {
   "id": 3327120006,
   "districtId": 3327120,
-  "name": "KAUMAN"
+  "districtName": "COMAL",
+  "name": "KAUMAN",
+  "postalCode": "51215"
  },
  {
   "id": 3327120007,
   "districtId": 3327120,
-  "name": "SIDOREJO"
+  "districtName": "COMAL",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 3327120008,
   "districtId": 3327120,
-  "name": "LOWA"
+  "districtName": "COMAL",
+  "name": "LOWA",
+  "postalCode": "52363"
  },
  {
   "id": 3327120009,
   "districtId": 3327120,
-  "name": "AMBOKULON"
+  "districtName": "COMAL",
+  "name": "AMBOKULON",
+  "postalCode": "52363"
  },
  {
   "id": 3327120011,
   "districtId": 3327120,
-  "name": "GINTUNG"
+  "districtName": "COMAL",
+  "name": "GINTUNG",
+  "postalCode": "52363"
  },
  {
   "id": 3327120012,
   "districtId": 3327120,
-  "name": "GANDU"
+  "districtName": "COMAL",
+  "name": "GANDU",
+  "postalCode": "45453"
  },
  {
   "id": 3327120013,
   "districtId": 3327120,
-  "name": "SARWODADI"
+  "districtName": "COMAL",
+  "name": "SARWODADI",
+  "postalCode": "52352"
  },
  {
   "id": 3327120014,
   "districtId": 3327120,
-  "name": "SUSUKAN"
+  "districtName": "COMAL",
+  "name": "SUSUKAN",
+  "postalCode": "13750"
  },
  {
   "id": 3327120016,
   "districtId": 3327120,
-  "name": "WONOKROMO"
+  "districtName": "COMAL",
+  "name": "WONOKROMO",
+  "postalCode": "54352"
  },
  {
   "id": 3327120017,
   "districtId": 3327120,
-  "name": "KEBOJONGAN"
+  "districtName": "COMAL",
+  "name": "KEBOJONGAN",
+  "postalCode": "52363"
  },
  {
   "id": 3327120018,
   "districtId": 3327120,
-  "name": "KANDANG"
+  "districtName": "COMAL",
+  "name": "KANDANG",
+  "postalCode": "23352"
  }
 ]

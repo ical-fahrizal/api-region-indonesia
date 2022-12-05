@@ -2,46 +2,64 @@
  {
   "id": 3215150001,
   "districtId": 3215150,
-  "name": "KALANGSARI"
+  "districtName": "RENGASDENGKLOK",
+  "name": "KALANGSARI",
+  "postalCode": "41352"
  },
  {
   "id": 3215150002,
   "districtId": 3215150,
-  "name": "KALANGSURIA"
+  "districtName": "RENGASDENGKLOK",
+  "name": "KALANGSURIA",
+  "postalCode": "41352"
  },
  {
   "id": 3215150003,
   "districtId": 3215150,
-  "name": "KARYASARI"
+  "districtName": "RENGASDENGKLOK",
+  "name": "KARYASARI",
+  "postalCode": "44191"
  },
  {
   "id": 3215150004,
   "districtId": 3215150,
-  "name": "DUKUHKARYA"
+  "districtName": "RENGASDENGKLOK",
+  "name": "DUKUHKARYA",
+  "postalCode": "41352"
  },
  {
   "id": 3215150005,
   "districtId": 3215150,
-  "name": "AMANSARI"
+  "districtName": "RENGASDENGKLOK",
+  "name": "AMANSARI",
+  "postalCode": "41352"
  },
  {
   "id": 3215150006,
   "districtId": 3215150,
-  "name": "RENGASDENGKLOK SELATAN"
+  "districtName": "RENGASDENGKLOK",
+  "name": "RENGASDENGKLOK SELATAN",
+  "postalCode": "41352"
  },
  {
   "id": 3215150007,
   "districtId": 3215150,
-  "name": "RENGASDENGKLOK UTARA"
+  "districtName": "RENGASDENGKLOK",
+  "name": "RENGASDENGKLOK UTARA",
+  "postalCode": "41352"
  },
  {
   "id": 3215150008,
   "districtId": 3215150,
-  "name": "KERTASARI"
+  "districtName": "RENGASDENGKLOK",
+  "name": "KERTASARI",
+  "postalCode": "31658"
  },
  {
   "id": 3215150009,
   "districtId": 3215150,
-  "name": "DEWISARI"
+  "districtName": "RENGASDENGKLOK",
+  "name": "DEWISARI",
+  "postalCode": "41352"
  }
 ]

@@ -2,311 +2,435 @@
  {
   "id": 1220040015,
   "districtId": 1220040,
-  "name": "SIBATANG KAYU"
+  "districtName": "PADANG BOLAK",
+  "name": "SIBATANG KAYU",
+  "postalCode": "22753"
  },
  {
   "id": 1220040031,
   "districtId": 1220040,
-  "name": "BUKIT RAYA SERDANG"
+  "districtName": "PADANG BOLAK",
+  "name": "BUKIT RAYA SERDANG",
+  "postalCode": ""
  },
  {
   "id": 1220040035,
   "districtId": 1220040,
-  "name": "SIGAMA UJUNG GADING"
+  "districtName": "PADANG BOLAK",
+  "name": "SIGAMA UJUNG GADING",
+  "postalCode": "22753"
  },
  {
   "id": 1220040036,
   "districtId": 1220040,
-  "name": "AEK SUHAT"
+  "districtName": "PADANG BOLAK",
+  "name": "AEK SUHAT",
+  "postalCode": "22753"
  },
  {
   "id": 1220040040,
   "districtId": 1220040,
-  "name": "PADANG GARUGUR"
+  "districtName": "PADANG BOLAK",
+  "name": "PADANG GARUGUR",
+  "postalCode": "22755"
  },
  {
   "id": 1220040041,
   "districtId": 1220040,
-  "name": "SIGAMA"
+  "districtName": "PADANG BOLAK",
+  "name": "SIGAMA",
+  "postalCode": "22753"
  },
  {
   "id": 1220040042,
   "districtId": 1220040,
-  "name": "SIMANOSOR"
+  "districtName": "PADANG BOLAK",
+  "name": "SIMANOSOR",
+  "postalCode": "22756"
  },
  {
   "id": 1220040043,
   "districtId": 1220040,
-  "name": "PARLIMBATAN"
+  "districtName": "PADANG BOLAK",
+  "name": "PARLIMBATAN",
+  "postalCode": "22753"
  },
  {
   "id": 1220040044,
   "districtId": 1220040,
-  "name": "GUNUNG MANAON II"
+  "districtName": "PADANG BOLAK",
+  "name": "GUNUNG MANAON II",
+  "postalCode": "22753"
  },
  {
   "id": 1220040060,
   "districtId": 1220040,
-  "name": "SABA SITAHUL TAHUL"
+  "districtName": "PADANG BOLAK",
+  "name": "SABA SITAHUL TAHUL",
+  "postalCode": "22753"
  },
  {
   "id": 1220040061,
   "districtId": 1220040,
-  "name": "SABA BANGUNAN"
+  "districtName": "PADANG BOLAK",
+  "name": "SABA BANGUNAN",
+  "postalCode": "22756"
  },
  {
   "id": 1220040062,
   "districtId": 1220040,
-  "name": "GUNUNG TUA JAE"
+  "districtName": "PADANG BOLAK",
+  "name": "GUNUNG TUA JAE",
+  "postalCode": "22753"
  },
  {
   "id": 1220040063,
   "districtId": 1220040,
-  "name": "GUNUNG TUA TONGA"
+  "districtName": "PADANG BOLAK",
+  "name": "GUNUNG TUA TONGA",
+  "postalCode": "22753"
  },
  {
   "id": 1220040064,
   "districtId": 1220040,
-  "name": "PASAR GUNUNG TUA"
+  "districtName": "PADANG BOLAK",
+  "name": "PASAR GUNUNG TUA",
+  "postalCode": "22753"
  },
  {
   "id": 1220040065,
   "districtId": 1220040,
-  "name": "SOSOPAN"
+  "districtName": "PADANG BOLAK",
+  "name": "SOSOPAN",
+  "postalCode": "21464"
  },
  {
   "id": 1220040066,
   "districtId": 1220040,
-  "name": "HAMBIRI"
+  "districtName": "PADANG BOLAK",
+  "name": "HAMBIRI",
+  "postalCode": ""
  },
  {
   "id": 1220040067,
   "districtId": 1220040,
-  "name": "SIDINGKAT"
+  "districtName": "PADANG BOLAK",
+  "name": "SIDINGKAT",
+  "postalCode": ""
  },
  {
   "id": 1220040068,
   "districtId": 1220040,
-  "name": "BATU TAMBUN"
+  "districtName": "PADANG BOLAK",
+  "name": "BATU TAMBUN",
+  "postalCode": "22753"
  },
  {
   "id": 1220040069,
   "districtId": 1220040,
-  "name": "BATU SUNDUNG"
+  "districtName": "PADANG BOLAK",
+  "name": "BATU SUNDUNG",
+  "postalCode": "22755"
  },
  {
   "id": 1220040070,
   "districtId": 1220040,
-  "name": "GARONGGANG"
+  "districtName": "PADANG BOLAK",
+  "name": "GARONGGANG",
+  "postalCode": "22753"
  },
  {
   "id": 1220040071,
   "districtId": 1220040,
-  "name": "NABONGGAL"
+  "districtName": "PADANG BOLAK",
+  "name": "NABONGGAL",
+  "postalCode": "22756"
  },
  {
   "id": 1220040072,
   "districtId": 1220040,
-  "name": "SAMPURAN"
+  "districtName": "PADANG BOLAK",
+  "name": "SAMPURAN",
+  "postalCode": "22476"
  },
  {
   "id": 1220040073,
   "districtId": 1220040,
-  "name": "HAJORAN"
+  "districtName": "PADANG BOLAK",
+  "name": "HAJORAN",
+  "postalCode": "22753"
  },
  {
   "id": 1220040074,
   "districtId": 1220040,
-  "name": "TANJUNG SIRAM"
+  "districtName": "PADANG BOLAK",
+  "name": "TANJUNG SIRAM",
+  "postalCode": ""
  },
  {
   "id": 1220040075,
   "districtId": 1220040,
-  "name": "GAROGA"
+  "districtName": "PADANG BOLAK",
+  "name": "GAROGA",
+  "postalCode": "22738"
  },
  {
   "id": 1220040076,
   "districtId": 1220040,
-  "name": "PAGARAN SIKKAM"
+  "districtName": "PADANG BOLAK",
+  "name": "PAGARAN SIKKAM",
+  "postalCode": ""
  },
  {
   "id": 1220040077,
   "districtId": 1220040,
-  "name": "PAGARAN TONGA"
+  "districtName": "PADANG BOLAK",
+  "name": "PAGARAN TONGA",
+  "postalCode": "22753"
  },
  {
   "id": 1220040078,
   "districtId": 1220040,
-  "name": "GUNUNG TUA JULU"
+  "districtName": "PADANG BOLAK",
+  "name": "GUNUNG TUA JULU",
+  "postalCode": "22762"
  },
  {
   "id": 1220040079,
   "districtId": 1220040,
-  "name": "GUNUNG TUA BARU"
+  "districtName": "PADANG BOLAK",
+  "name": "GUNUNG TUA BARU",
+  "postalCode": "22753"
  },
  {
   "id": 1220040080,
   "districtId": 1220040,
-  "name": "BATANG BARUHAR JULU"
+  "districtName": "PADANG BOLAK",
+  "name": "BATANG BARUHAR JULU",
+  "postalCode": "22753"
  },
  {
   "id": 1220040081,
   "districtId": 1220040,
-  "name": "BATANG BARUHAR JAE"
+  "districtName": "PADANG BOLAK",
+  "name": "BATANG BARUHAR JAE",
+  "postalCode": "22753"
  },
  {
   "id": 1220040082,
   "districtId": 1220040,
-  "name": "HUTA LOMBANG"
+  "districtName": "PADANG BOLAK",
+  "name": "HUTA LOMBANG",
+  "postalCode": "22763"
  },
  {
   "id": 1220040083,
   "districtId": 1220040,
-  "name": "PURBA SINOMBA"
+  "districtName": "PADANG BOLAK",
+  "name": "PURBA SINOMBA",
+  "postalCode": "22753"
  },
  {
   "id": 1220040084,
   "districtId": 1220040,
-  "name": "SIBAGASI"
+  "districtName": "PADANG BOLAK",
+  "name": "SIBAGASI",
+  "postalCode": "22753"
  },
  {
   "id": 1220040085,
   "districtId": 1220040,
-  "name": "SUNGE DURIAN"
+  "districtName": "PADANG BOLAK",
+  "name": "SUNGE DURIAN",
+  "postalCode": "22753"
  },
  {
   "id": 1220040086,
   "districtId": 1220040,
-  "name": "SUNGE OROSAN"
+  "districtName": "PADANG BOLAK",
+  "name": "SUNGE OROSAN",
+  "postalCode": "22753"
  },
  {
   "id": 1220040087,
   "districtId": 1220040,
-  "name": "LUBUK TOROP"
+  "districtName": "PADANG BOLAK",
+  "name": "LUBUK TOROP",
+  "postalCode": "22753"
  },
  {
   "id": 1220040088,
   "districtId": 1220040,
-  "name": "LIANG ASONA"
+  "districtName": "PADANG BOLAK",
+  "name": "LIANG ASONA",
+  "postalCode": ""
  },
  {
   "id": 1220040089,
   "districtId": 1220040,
-  "name": "SIMANDIANGIN DOLOK"
+  "districtName": "PADANG BOLAK",
+  "name": "SIMANDIANGIN DOLOK",
+  "postalCode": ""
  },
  {
   "id": 1220040090,
   "districtId": 1220040,
-  "name": "SIMANDIANGIN LOMBANG"
+  "districtName": "PADANG BOLAK",
+  "name": "SIMANDIANGIN LOMBANG",
+  "postalCode": ""
  },
  {
   "id": 1220040091,
   "districtId": 1220040,
-  "name": "HUTAIMBARU II"
+  "districtName": "PADANG BOLAK",
+  "name": "HUTAIMBARU II",
+  "postalCode": "22753"
  },
  {
   "id": 1220040092,
   "districtId": 1220040,
-  "name": "PURBA TUA"
+  "districtName": "PADANG BOLAK",
+  "name": "PURBA TUA",
+  "postalCode": "22762"
  },
  {
   "id": 1220040093,
   "districtId": 1220040,
-  "name": "TANJUNG MARULAK"
+  "districtName": "PADANG BOLAK",
+  "name": "TANJUNG MARULAK",
+  "postalCode": "22753"
  },
  {
   "id": 1220040094,
   "districtId": 1220040,
-  "name": "SIOMBOB"
+  "districtName": "PADANG BOLAK",
+  "name": "SIOMBOB",
+  "postalCode": "22753"
  },
  {
   "id": 1220040095,
   "districtId": 1220040,
-  "name": "AMBASANG NATIGOR"
+  "districtName": "PADANG BOLAK",
+  "name": "AMBASANG NATIGOR",
+  "postalCode": "22753"
  },
  {
   "id": 1220040096,
   "districtId": 1220040,
-  "name": "AEK GAMBIR"
+  "districtName": "PADANG BOLAK",
+  "name": "AEK GAMBIR",
+  "postalCode": "22654"
  },
  {
   "id": 1220040097,
   "districtId": 1220040,
-  "name": "NAPA GADUNG LAUT"
+  "districtName": "PADANG BOLAK",
+  "name": "NAPA GADUNG LAUT",
+  "postalCode": "22753"
  },
  {
   "id": 1220040098,
   "districtId": 1220040,
-  "name": "RAMPA JULU"
+  "districtName": "PADANG BOLAK",
+  "name": "RAMPA JULU",
+  "postalCode": "22753"
  },
  {
   "id": 1220040099,
   "districtId": 1220040,
-  "name": "RAMPA JAE"
+  "districtName": "PADANG BOLAK",
+  "name": "RAMPA JAE",
+  "postalCode": "22753"
  },
  {
   "id": 1220040100,
   "districtId": 1220040,
-  "name": "SIGIMBAL"
+  "districtName": "PADANG BOLAK",
+  "name": "SIGIMBAL",
+  "postalCode": "22753"
  },
  {
   "id": 1220040101,
   "districtId": 1220040,
-  "name": "MANANTI (MARENTI)"
+  "districtName": "PADANG BOLAK",
+  "name": "MANANTI (MARENTI)",
+  "postalCode": "22753"
  },
  {
   "id": 1220040102,
   "districtId": 1220040,
-  "name": "PARAN PADANG"
+  "districtName": "PADANG BOLAK",
+  "name": "PARAN PADANG",
+  "postalCode": "22747"
  },
  {
   "id": 1220040103,
   "districtId": 1220040,
-  "name": "RAHUNING JAE"
+  "districtName": "PADANG BOLAK",
+  "name": "RAHUNING JAE",
+  "postalCode": ""
  },
  {
   "id": 1220040104,
   "districtId": 1220040,
-  "name": "BOTUNG"
+  "districtName": "PADANG BOLAK",
+  "name": "BOTUNG",
+  "postalCode": "22742"
  },
  {
   "id": 1220040105,
   "districtId": 1220040,
-  "name": "DOLOK SAE"
+  "districtName": "PADANG BOLAK",
+  "name": "DOLOK SAE",
+  "postalCode": "22753"
  },
  {
   "id": 1220040106,
   "districtId": 1220040,
-  "name": "SIHAPAS HAPAS"
+  "districtName": "PADANG BOLAK",
+  "name": "SIHAPAS HAPAS",
+  "postalCode": "22753"
  },
  {
   "id": 1220040107,
   "districtId": 1220040,
-  "name": "BATU MAMAK"
+  "districtName": "PADANG BOLAK",
+  "name": "BATU MAMAK",
+  "postalCode": "22762"
  },
  {
   "id": 1220040108,
   "districtId": 1220040,
-  "name": "LOSUNG BATU"
+  "districtName": "PADANG BOLAK",
+  "name": "LOSUNG BATU",
+  "postalCode": "22753"
  },
  {
   "id": 1220040109,
   "districtId": 1220040,
-  "name": "SUNGE TOLANG"
+  "districtName": "PADANG BOLAK",
+  "name": "SUNGE TOLANG",
+  "postalCode": "22753"
  },
  {
   "id": 1220040110,
   "districtId": 1220040,
-  "name": "SIMASI"
+  "districtName": "PADANG BOLAK",
+  "name": "SIMASI",
+  "postalCode": "22753"
  },
  {
   "id": 1220040114,
   "districtId": 1220040,
-  "name": "AEK JANGKANG"
+  "districtName": "PADANG BOLAK",
+  "name": "AEK JANGKANG",
+  "postalCode": "22753"
  },
  {
   "id": 1220040115,
   "districtId": 1220040,
-  "name": "SIMBOLON"
+  "districtName": "PADANG BOLAK",
+  "name": "SIMBOLON",
+  "postalCode": "22753"
  }
 ]

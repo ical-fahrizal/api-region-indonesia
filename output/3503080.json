@@ -2,56 +2,78 @@
  {
   "id": 3503080001,
   "districtId": 3503080,
-  "name": "NGRAYUNG"
+  "districtName": "GANDUSARI",
+  "name": "NGRAYUNG",
+  "postalCode": "66372"
  },
  {
   "id": 3503080002,
   "districtId": 3503080,
-  "name": "JAJAR"
+  "districtName": "GANDUSARI",
+  "name": "JAJAR",
+  "postalCode": "57144"
  },
  {
   "id": 3503080003,
   "districtId": 3503080,
-  "name": "WONOREJO"
+  "districtName": "GANDUSARI",
+  "name": "WONOREJO",
+  "postalCode": "21186"
  },
  {
   "id": 3503080004,
   "districtId": 3503080,
-  "name": "SUKOREJO"
+  "districtName": "GANDUSARI",
+  "name": "SUKOREJO",
+  "postalCode": "31551"
  },
  {
   "id": 3503080005,
   "districtId": 3503080,
-  "name": "GANDUSARI"
+  "districtName": "GANDUSARI",
+  "name": "GANDUSARI",
+  "postalCode": "56151"
  },
  {
   "id": 3503080006,
   "districtId": 3503080,
-  "name": "WONOANTI"
+  "districtName": "GANDUSARI",
+  "name": "WONOANTI",
+  "postalCode": "66372"
  },
  {
   "id": 3503080007,
   "districtId": 3503080,
-  "name": "WIDORO"
+  "districtName": "GANDUSARI",
+  "name": "WIDORO",
+  "postalCode": "54353"
  },
  {
   "id": 3503080008,
   "districtId": 3503080,
-  "name": "KARANGANYAR"
+  "districtName": "GANDUSARI",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  },
  {
   "id": 3503080009,
   "districtId": 3503080,
-  "name": "MELIS"
+  "districtName": "GANDUSARI",
+  "name": "MELIS",
+  "postalCode": "66372"
  },
  {
   "id": 3503080010,
   "districtId": 3503080,
-  "name": "KRANDEGAN"
+  "districtName": "GANDUSARI",
+  "name": "KRANDEGAN",
+  "postalCode": "53414"
  },
  {
   "id": 3503080011,
   "districtId": 3503080,
-  "name": "SUKORAME"
+  "districtName": "GANDUSARI",
+  "name": "SUKORAME",
+  "postalCode": "57331"
  }
 ]

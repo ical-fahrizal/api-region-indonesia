@@ -2,76 +2,106 @@
  {
   "id": 3513100001,
   "districtId": 3513100,
-  "name": "CONDONG"
+  "districtName": "GADING",
+  "name": "CONDONG",
+  "postalCode": "32381"
  },
  {
   "id": 3513100002,
   "districtId": 3513100,
-  "name": "JURANGJERO"
+  "districtName": "GADING",
+  "name": "JURANGJERO",
+  "postalCode": "58262"
  },
  {
   "id": 3513100003,
   "districtId": 3513100,
-  "name": "RANUWURUNG"
+  "districtName": "GADING",
+  "name": "RANUWURUNG",
+  "postalCode": "67292"
  },
  {
   "id": 3513100004,
   "districtId": 3513100,
-  "name": "GADINGWETAN"
+  "districtName": "GADING",
+  "name": "GADINGWETAN",
+  "postalCode": ""
  },
  {
   "id": 3513100005,
   "districtId": 3513100,
-  "name": "BULUPANDAK"
+  "districtName": "GADING",
+  "name": "BULUPANDAK",
+  "postalCode": "67292"
  },
  {
   "id": 3513100009,
   "districtId": 3513100,
-  "name": "BETEKTAMAN"
+  "districtName": "GADING",
+  "name": "BETEKTAMAN",
+  "postalCode": ""
  },
  {
   "id": 3513100010,
   "districtId": 3513100,
-  "name": "BATUR"
+  "districtName": "GADING",
+  "name": "BATUR",
+  "postalCode": "53456"
  },
  {
   "id": 3513100012,
   "districtId": 3513100,
-  "name": "DANDANG"
+  "districtName": "GADING",
+  "name": "DANDANG",
+  "postalCode": "67292"
  },
  {
   "id": 3513100013,
   "districtId": 3513100,
-  "name": "KERTOSONO"
+  "districtName": "GADING",
+  "name": "KERTOSONO",
+  "postalCode": "31665"
  },
  {
   "id": 3513100014,
   "districtId": 3513100,
-  "name": "PRASI"
+  "districtName": "GADING",
+  "name": "PRASI",
+  "postalCode": "67292"
  },
  {
   "id": 3513100015,
   "districtId": 3513100,
-  "name": "NOGOSAREN"
+  "districtName": "GADING",
+  "name": "NOGOSAREN",
+  "postalCode": "50774"
  },
  {
   "id": 3513100016,
   "districtId": 3513100,
-  "name": "WANGKAL"
+  "districtName": "GADING",
+  "name": "WANGKAL",
+  "postalCode": "67292"
  },
  {
   "id": 3513100017,
   "districtId": 3513100,
-  "name": "MOJOLEGI"
+  "districtName": "GADING",
+  "name": "MOJOLEGI",
+  "postalCode": "57372"
  },
  {
   "id": 3513100018,
   "districtId": 3513100,
-  "name": "KALIACAR"
+  "districtName": "GADING",
+  "name": "KALIACAR",
+  "postalCode": "67292"
  },
  {
   "id": 3513100019,
   "districtId": 3513100,
-  "name": "SUMBERSECANG"
+  "districtName": "GADING",
+  "name": "SUMBERSECANG",
+  "postalCode": "67292"
  }
 ]

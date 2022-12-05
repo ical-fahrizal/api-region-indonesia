@@ -2,46 +2,64 @@
  {
   "id": 1218011001,
   "districtId": 1218011,
-  "name": "PAMAH"
+  "districtName": "SILINDA",
+  "name": "PAMAH",
+  "postalCode": "20984"
  },
  {
   "id": 1218011002,
   "districtId": 1218011,
-  "name": "TAREAN"
+  "districtName": "SILINDA",
+  "name": "TAREAN",
+  "postalCode": "20984"
  },
  {
   "id": 1218011003,
   "districtId": 1218011,
-  "name": "TAPAK MERIAH"
+  "districtName": "SILINDA",
+  "name": "TAPAK MERIAH",
+  "postalCode": "20984"
  },
  {
   "id": 1218011004,
   "districtId": 1218011,
-  "name": "PAGAR MANIK"
+  "districtName": "SILINDA",
+  "name": "PAGAR MANIK",
+  "postalCode": "20984"
  },
  {
   "id": 1218011005,
   "districtId": 1218011,
-  "name": "SILINDA"
+  "districtName": "SILINDA",
+  "name": "SILINDA",
+  "postalCode": "20984"
  },
  {
   "id": 1218011006,
   "districtId": 1218011,
-  "name": "DAMAK GELUGUR"
+  "districtName": "SILINDA",
+  "name": "DAMAK GELUGUR",
+  "postalCode": ""
  },
  {
   "id": 1218011007,
   "districtId": 1218011,
-  "name": "KULASAR"
+  "districtName": "SILINDA",
+  "name": "KULASAR",
+  "postalCode": "20984"
  },
  {
   "id": 1218011008,
   "districtId": 1218011,
-  "name": "SUNGAI BUAYA"
+  "districtName": "SILINDA",
+  "name": "SUNGAI BUAYA",
+  "postalCode": "20984"
  },
  {
   "id": 1218011009,
   "districtId": 1218011,
-  "name": "BATU MASAGI"
+  "districtName": "SILINDA",
+  "name": "BATU MASAGI",
+  "postalCode": "20984"
  }
 ]

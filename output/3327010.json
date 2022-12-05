@@ -2,51 +2,71 @@
  {
   "id": 3327010001,
   "districtId": 3327010,
-  "name": "PLAKARAN"
+  "districtName": "MOGA",
+  "name": "PLAKARAN",
+  "postalCode": "52354"
  },
  {
   "id": 3327010002,
   "districtId": 3327010,
-  "name": "MANDIRAJA"
+  "districtName": "MOGA",
+  "name": "MANDIRAJA",
+  "postalCode": "52354"
  },
  {
   "id": 3327010003,
   "districtId": 3327010,
-  "name": "WALANGSANGA"
+  "districtName": "MOGA",
+  "name": "WALANGSANGA",
+  "postalCode": "52354"
  },
  {
   "id": 3327010004,
   "districtId": 3327010,
-  "name": "SIMA"
+  "districtName": "MOGA",
+  "name": "SIMA",
+  "postalCode": "52354"
  },
  {
   "id": 3327010005,
   "districtId": 3327010,
-  "name": "BANYUMUDAL"
+  "districtName": "MOGA",
+  "name": "BANYUMUDAL",
+  "postalCode": "54474"
  },
  {
   "id": 3327010006,
   "districtId": 3327010,
-  "name": "MOGA"
+  "districtName": "MOGA",
+  "name": "MOGA",
+  "postalCode": "52354"
  },
  {
   "id": 3327010007,
   "districtId": 3327010,
-  "name": "WANGKELANG"
+  "districtName": "MOGA",
+  "name": "WANGKELANG",
+  "postalCode": "45467"
  },
  {
   "id": 3327010008,
   "districtId": 3327010,
-  "name": "KEBANGGAN"
+  "districtName": "MOGA",
+  "name": "KEBANGGAN",
+  "postalCode": "52354"
  },
  {
   "id": 3327010009,
   "districtId": 3327010,
-  "name": "PEPEDAN"
+  "districtName": "MOGA",
+  "name": "PEPEDAN",
+  "postalCode": "52192"
  },
  {
   "id": 3327010010,
   "districtId": 3327010,
-  "name": "GENDOWANG"
+  "districtName": "MOGA",
+  "name": "GENDOWANG",
+  "postalCode": "52354"
  }
 ]

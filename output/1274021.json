@@ -2,36 +2,50 @@
  {
   "id": 1274021001,
   "districtId": 1274021,
-  "name": "BULIAN"
+  "districtName": "BAJENIS",
+  "name": "BULIAN",
+  "postalCode": "20612"
  },
  {
   "id": 1274021002,
   "districtId": 1274021,
-  "name": "PELITA"
+  "districtName": "BAJENIS",
+  "name": "PELITA",
+  "postalCode": "20621"
  },
  {
   "id": 1274021003,
   "districtId": 1274021,
-  "name": "DURIAN"
+  "districtName": "BAJENIS",
+  "name": "DURIAN",
+  "postalCode": "20621"
  },
  {
   "id": 1274021004,
   "districtId": 1274021,
-  "name": "BANDAR SAKTI"
+  "districtName": "BAJENIS",
+  "name": "BANDAR SAKTI",
+  "postalCode": "20613"
  },
  {
   "id": 1274021005,
   "districtId": 1274021,
-  "name": "TELUK KARANG"
+  "districtName": "BAJENIS",
+  "name": "TELUK KARANG",
+  "postalCode": "20612"
  },
  {
   "id": 1274021006,
   "districtId": 1274021,
-  "name": "PINANG MANCUNG"
+  "districtName": "BAJENIS",
+  "name": "PINANG MANCUNG",
+  "postalCode": "20612"
  },
  {
   "id": 1274021007,
   "districtId": 1274021,
-  "name": "BEROHOL"
+  "districtName": "BAJENIS",
+  "name": "BEROHOL",
+  "postalCode": "20611"
  }
 ]

@@ -2,71 +2,99 @@
  {
   "id": 3603190001,
   "districtId": 3603190,
-  "name": "BUNISARI"
+  "districtName": "PAKUHAJI",
+  "name": "BUNISARI",
+  "postalCode": "43273"
  },
  {
   "id": 3603190002,
   "districtId": 3603190,
-  "name": "RAWA BONI"
+  "districtName": "PAKUHAJI",
+  "name": "RAWA BONI",
+  "postalCode": "15570"
  },
  {
   "id": 3603190003,
   "districtId": 3603190,
-  "name": "KIARA PAYUNG"
+  "districtName": "PAKUHAJI",
+  "name": "KIARA PAYUNG",
+  "postalCode": "15570"
  },
  {
   "id": 3603190004,
   "districtId": 3603190,
-  "name": "GAGA"
+  "districtName": "PAKUHAJI",
+  "name": "GAGA",
+  "postalCode": "15154"
  },
  {
   "id": 3603190005,
   "districtId": 3603190,
-  "name": "LAKSANA"
+  "districtName": "PAKUHAJI",
+  "name": "LAKSANA",
+  "postalCode": "23122"
  },
  {
   "id": 3603190006,
   "districtId": 3603190,
-  "name": "BUARAN BAMBU"
+  "districtName": "PAKUHAJI",
+  "name": "BUARAN BAMBU",
+  "postalCode": "15570"
  },
  {
   "id": 3603190007,
   "districtId": 3603190,
-  "name": "PAKU HAJI"
+  "districtName": "PAKUHAJI",
+  "name": "PAKU HAJI",
+  "postalCode": "38375"
  },
  {
   "id": 3603190008,
   "districtId": 3603190,
-  "name": "PAKU ALAM"
+  "districtName": "PAKUHAJI",
+  "name": "PAKU ALAM",
+  "postalCode": "45372"
  },
  {
   "id": 3603190009,
   "districtId": 3603190,
-  "name": "BUARAN MANGGA"
+  "districtName": "PAKUHAJI",
+  "name": "BUARAN MANGGA",
+  "postalCode": "15570"
  },
  {
   "id": 3603190010,
   "districtId": 3603190,
-  "name": "SURYA BAHARI"
+  "districtName": "PAKUHAJI",
+  "name": "SURYA BAHARI",
+  "postalCode": "15570"
  },
  {
   "id": 3603190011,
   "districtId": 3603190,
-  "name": "SUKAWALI"
+  "districtName": "PAKUHAJI",
+  "name": "SUKAWALI",
+  "postalCode": "15570"
  },
  {
   "id": 3603190012,
   "districtId": 3603190,
-  "name": "KRAMAT"
+  "districtName": "PAKUHAJI",
+  "name": "KRAMAT",
+  "postalCode": "10450"
  },
  {
   "id": 3603190013,
   "districtId": 3603190,
-  "name": "KALIBARU"
+  "districtName": "PAKUHAJI",
+  "name": "KALIBARU",
+  "postalCode": "16414"
  },
  {
   "id": 3603190014,
   "districtId": 3603190,
-  "name": "KOHOD"
+  "districtName": "PAKUHAJI",
+  "name": "KOHOD",
+  "postalCode": "15570"
  }
 ]

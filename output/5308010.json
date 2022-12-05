@@ -2,91 +2,127 @@
  {
   "id": 5308010001,
   "districtId": 5308010,
-  "name": "PASIR PUTIH"
+  "districtName": "NAGAWUTUNG",
+  "name": "PASIR PUTIH",
+  "postalCode": "24453"
  },
  {
   "id": 5308010002,
   "districtId": 5308010,
-  "name": "LOLONG"
+  "districtName": "NAGAWUTUNG",
+  "name": "LOLONG",
+  "postalCode": "51182"
  },
  {
   "id": 5308010003,
   "districtId": 5308010,
-  "name": "BABOKERONG"
+  "districtName": "NAGAWUTUNG",
+  "name": "BABOKERONG",
+  "postalCode": "86684"
  },
  {
   "id": 5308010004,
   "districtId": 5308010,
-  "name": "DUAWUTUN"
+  "districtName": "NAGAWUTUNG",
+  "name": "DUAWUTUN",
+  "postalCode": "86684"
  },
  {
   "id": 5308010005,
   "districtId": 5308010,
-  "name": "WUAKERONG"
+  "districtName": "NAGAWUTUNG",
+  "name": "WUAKERONG",
+  "postalCode": "86684"
  },
  {
   "id": 5308010006,
   "districtId": 5308010,
-  "name": "PENIKENE"
+  "districtName": "NAGAWUTUNG",
+  "name": "PENIKENE",
+  "postalCode": "86684"
  },
  {
   "id": 5308010007,
   "districtId": 5308010,
-  "name": "ATAWAI"
+  "districtName": "NAGAWUTUNG",
+  "name": "ATAWAI",
+  "postalCode": "86684"
  },
  {
   "id": 5308010008,
   "districtId": 5308010,
-  "name": "LUSIDUAWUTUN"
+  "districtName": "NAGAWUTUNG",
+  "name": "LUSIDUAWUTUN",
+  "postalCode": "86684"
  },
  {
   "id": 5308010016,
   "districtId": 5308010,
-  "name": "BELABAJA"
+  "districtName": "NAGAWUTUNG",
+  "name": "BELABAJA",
+  "postalCode": "86684"
  },
  {
   "id": 5308010017,
   "districtId": 5308010,
-  "name": "LABALIMUT"
+  "districtName": "NAGAWUTUNG",
+  "name": "LABALIMUT",
+  "postalCode": "86684"
  },
  {
   "id": 5308010018,
   "districtId": 5308010,
-  "name": "ILE BOLI"
+  "districtName": "NAGAWUTUNG",
+  "name": "ILE BOLI",
+  "postalCode": "86684"
  },
  {
   "id": 5308010019,
   "districtId": 5308010,
-  "name": "BAOBOLAK"
+  "districtName": "NAGAWUTUNG",
+  "name": "BAOBOLAK",
+  "postalCode": "86684"
  },
  {
   "id": 5308010020,
   "districtId": 5308010,
-  "name": "TEWAOWUTUNG"
+  "districtName": "NAGAWUTUNG",
+  "name": "TEWAOWUTUNG",
+  "postalCode": "86684"
  },
  {
   "id": 5308010021,
   "districtId": 5308010,
-  "name": "BOLIBEAN"
+  "districtName": "NAGAWUTUNG",
+  "name": "BOLIBEAN",
+  "postalCode": ""
  },
  {
   "id": 5308010022,
   "districtId": 5308010,
-  "name": "RIA BAO"
+  "districtName": "NAGAWUTUNG",
+  "name": "RIA BAO",
+  "postalCode": ""
  },
  {
   "id": 5308010023,
   "districtId": 5308010,
-  "name": "IDALOLONG"
+  "districtName": "NAGAWUTUNG",
+  "name": "IDALOLONG",
+  "postalCode": ""
  },
  {
   "id": 5308010024,
   "districtId": 5308010,
-  "name": "WARAWATUNG"
+  "districtName": "NAGAWUTUNG",
+  "name": "WARAWATUNG",
+  "postalCode": ""
  },
  {
   "id": 5308010025,
   "districtId": 5308010,
-  "name": "LIWULAGANG"
+  "districtName": "NAGAWUTUNG",
+  "name": "LIWULAGANG",
+  "postalCode": ""
  }
 ]

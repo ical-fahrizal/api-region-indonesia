@@ -2,66 +2,92 @@
  {
   "id": 1407060004,
   "districtId": 1407060,
-  "name": "KEPENUHAN TENGAH"
+  "districtName": "KEPENUHAN",
+  "name": "KEPENUHAN TENGAH",
+  "postalCode": "28559"
  },
  {
   "id": 1407060005,
   "districtId": 1407060,
-  "name": "KEPENUHAN BARAT"
+  "districtName": "KEPENUHAN",
+  "name": "KEPENUHAN BARAT",
+  "postalCode": "28559"
  },
  {
   "id": 1407060006,
   "districtId": 1407060,
-  "name": "KEPENUHAN RAYA"
+  "districtName": "KEPENUHAN",
+  "name": "KEPENUHAN RAYA",
+  "postalCode": "28559"
  },
  {
   "id": 1407060007,
   "districtId": 1407060,
-  "name": "KEPENUHAN BARU"
+  "districtName": "KEPENUHAN",
+  "name": "KEPENUHAN BARU",
+  "postalCode": "28559"
  },
  {
   "id": 1407060008,
   "districtId": 1407060,
-  "name": "UPT SP III KOTO TENGAH/KEPENUHAN MAKMUR"
+  "districtName": "KEPENUHAN",
+  "name": "UPT SP III KOTO TENGAH/KEPENUHAN MAKMUR",
+  "postalCode": ""
  },
  {
   "id": 1407060009,
   "districtId": 1407060,
-  "name": "KEPENUHAN TIMUR"
+  "districtName": "KEPENUHAN",
+  "name": "KEPENUHAN TIMUR",
+  "postalCode": ""
  },
  {
   "id": 1407060010,
   "districtId": 1407060,
-  "name": "KEPENUHAN HILIR"
+  "districtName": "KEPENUHAN",
+  "name": "KEPENUHAN HILIR",
+  "postalCode": "28559"
  },
  {
   "id": 1407060011,
   "districtId": 1407060,
-  "name": "UPT SP IV KOTO TENGAH/KEPENUHAN SEJATI"
+  "districtName": "KEPENUHAN",
+  "name": "UPT SP IV KOTO TENGAH/KEPENUHAN SEJATI",
+  "postalCode": ""
  },
  {
   "id": 1407060012,
   "districtId": 1407060,
-  "name": "KEPENUHAN SEI MANDIAN"
+  "districtName": "KEPENUHAN",
+  "name": "KEPENUHAN SEI MANDIAN",
+  "postalCode": ""
  },
  {
   "id": 1407060013,
   "districtId": 1407060,
-  "name": "ULAK PATIAN"
+  "districtName": "KEPENUHAN",
+  "name": "ULAK PATIAN",
+  "postalCode": "28559"
  },
  {
   "id": 1407060016,
   "districtId": 1407060,
-  "name": "RANTAU BINUANG SAKTI"
+  "districtName": "KEPENUHAN",
+  "name": "RANTAU BINUANG SAKTI",
+  "postalCode": "28559"
  },
  {
   "id": 1407060017,
   "districtId": 1407060,
-  "name": "KEPENUHAN BARAT MULYA"
+  "districtName": "KEPENUHAN",
+  "name": "KEPENUHAN BARAT MULYA",
+  "postalCode": "28559"
  },
  {
   "id": 1407060018,
   "districtId": 1407060,
-  "name": "KEPENUHAN BARAT SUNGAI ROKAN JAYA"
+  "districtName": "KEPENUHAN",
+  "name": "KEPENUHAN BARAT SUNGAI ROKAN JAYA",
+  "postalCode": ""
  }
 ]

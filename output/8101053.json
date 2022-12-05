@@ -2,26 +2,36 @@
  {
   "id": 8101053001,
   "districtId": 8101053,
-  "name": "WATURU"
+  "districtName": "NIRUNMAS",
+  "name": "WATURU",
+  "postalCode": "97463"
  },
  {
   "id": 8101053002,
   "districtId": 8101053,
-  "name": "TUTUKEMBONG"
+  "districtName": "NIRUNMAS",
+  "name": "TUTUKEMBONG",
+  "postalCode": "97463"
  },
  {
   "id": 8101053003,
   "districtId": 8101053,
-  "name": "MANGLUSI"
+  "districtName": "NIRUNMAS",
+  "name": "MANGLUSI",
+  "postalCode": "97463"
  },
  {
   "id": 8101053004,
   "districtId": 8101053,
-  "name": "ARMA"
+  "districtName": "NIRUNMAS",
+  "name": "ARMA",
+  "postalCode": "97463"
  },
  {
   "id": 8101053005,
   "districtId": 8101053,
-  "name": "WATMURI"
+  "districtName": "NIRUNMAS",
+  "name": "WATMURI",
+  "postalCode": "97463"
  }
 ]

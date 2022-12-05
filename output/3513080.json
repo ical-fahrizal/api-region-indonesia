@@ -2,81 +2,113 @@
  {
   "id": 3513080001,
   "districtId": 3513080,
-  "name": "TLOGOSARI"
+  "districtName": "TIRIS",
+  "name": "TLOGOSARI",
+  "postalCode": "54473"
  },
  {
   "id": 3513080002,
   "districtId": 3513080,
-  "name": "ANDUNGSARI"
+  "districtName": "TIRIS",
+  "name": "ANDUNGSARI",
+  "postalCode": "68253"
  },
  {
   "id": 3513080003,
   "districtId": 3513080,
-  "name": "TLOGOARGO"
+  "districtName": "TIRIS",
+  "name": "TLOGOARGO",
+  "postalCode": "67287"
  },
  {
   "id": 3513080004,
   "districtId": 3513080,
-  "name": "ANDUNGBIRU"
+  "districtName": "TIRIS",
+  "name": "ANDUNGBIRU",
+  "postalCode": ""
  },
  {
   "id": 3513080005,
   "districtId": 3513080,
-  "name": "TIRIS"
+  "districtName": "TIRIS",
+  "name": "TIRIS",
+  "postalCode": "67287"
  },
  {
   "id": 3513080006,
   "districtId": 3513080,
-  "name": "RANUAGUNG"
+  "districtName": "TIRIS",
+  "name": "RANUAGUNG",
+  "postalCode": "67287"
  },
  {
   "id": 3513080007,
   "districtId": 3513080,
-  "name": "SEGARAN"
+  "districtName": "TIRIS",
+  "name": "SEGARAN",
+  "postalCode": "41354"
  },
  {
   "id": 3513080008,
   "districtId": 3513080,
-  "name": "RANUGEDANG"
+  "districtName": "TIRIS",
+  "name": "RANUGEDANG",
+  "postalCode": "67287"
  },
  {
   "id": 3513080009,
   "districtId": 3513080,
-  "name": "JANGKANG"
+  "districtName": "TIRIS",
+  "name": "JANGKANG",
+  "postalCode": "28754"
  },
  {
   "id": 3513080010,
   "districtId": 3513080,
-  "name": "WEDUSAN"
+  "districtName": "TIRIS",
+  "name": "WEDUSAN",
+  "postalCode": "59158"
  },
  {
   "id": 3513080011,
   "districtId": 3513080,
-  "name": "RACEK"
+  "districtName": "TIRIS",
+  "name": "RACEK",
+  "postalCode": "67287"
  },
  {
   "id": 3513080012,
   "districtId": 3513080,
-  "name": "PESAWAHAN"
+  "districtName": "TIRIS",
+  "name": "PESAWAHAN",
+  "postalCode": "35223"
  },
  {
   "id": 3513080013,
   "districtId": 3513080,
-  "name": "PEDAGANGAN"
+  "districtName": "TIRIS",
+  "name": "PEDAGANGAN",
+  "postalCode": "52451"
  },
  {
   "id": 3513080014,
   "districtId": 3513080,
-  "name": "REJING"
+  "districtName": "TIRIS",
+  "name": "REJING",
+  "postalCode": ""
  },
  {
   "id": 3513080015,
   "districtId": 3513080,
-  "name": "TEGALWATU"
+  "districtName": "TIRIS",
+  "name": "TEGALWATU",
+  "postalCode": "67287"
  },
  {
   "id": 3513080016,
   "districtId": 3513080,
-  "name": "TULUPARI"
+  "districtName": "TIRIS",
+  "name": "TULUPARI",
+  "postalCode": "67287"
  }
 ]

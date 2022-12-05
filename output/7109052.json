@@ -2,51 +2,71 @@
  {
   "id": 7109052001,
   "districtId": 7109052,
-  "name": "KUYANGA"
+  "districtName": "TOMBATU UTARA",
+  "name": "KUYANGA",
+  "postalCode": "95996"
  },
  {
   "id": 7109052002,
   "districtId": 7109052,
-  "name": "KUYANGA SATU"
+  "districtName": "TOMBATU UTARA",
+  "name": "KUYANGA SATU",
+  "postalCode": "95996"
  },
  {
   "id": 7109052003,
   "districtId": 7109052,
-  "name": "TOMBATU DUA"
+  "districtName": "TOMBATU UTARA",
+  "name": "TOMBATU DUA",
+  "postalCode": "95996"
  },
  {
   "id": 7109052004,
   "districtId": 7109052,
-  "name": "TOMBATU DUA UTARA"
+  "districtName": "TOMBATU UTARA",
+  "name": "TOMBATU DUA UTARA",
+  "postalCode": "95996"
  },
  {
   "id": 7109052005,
   "districtId": 7109052,
-  "name": "TOMBATU DUA BARAT"
+  "districtName": "TOMBATU UTARA",
+  "name": "TOMBATU DUA BARAT",
+  "postalCode": "95996"
  },
  {
   "id": 7109052006,
   "districtId": 7109052,
-  "name": "TOMBATU DUA TENGAH"
+  "districtName": "TOMBATU UTARA",
+  "name": "TOMBATU DUA TENGAH",
+  "postalCode": "95996"
  },
  {
   "id": 7109052007,
   "districtId": 7109052,
-  "name": "TOMBATU TIGA"
+  "districtName": "TOMBATU UTARA",
+  "name": "TOMBATU TIGA",
+  "postalCode": "95996"
  },
  {
   "id": 7109052008,
   "districtId": 7109052,
-  "name": "TOMBATU TIGA TENGAH"
+  "districtName": "TOMBATU UTARA",
+  "name": "TOMBATU TIGA TENGAH",
+  "postalCode": "95996"
  },
  {
   "id": 7109052009,
   "districtId": 7109052,
-  "name": "WINORANGIAN"
+  "districtName": "TOMBATU UTARA",
+  "name": "WINORANGIAN",
+  "postalCode": "95996"
  },
  {
   "id": 7109052010,
   "districtId": 7109052,
-  "name": "WINORANGIAN SATU"
+  "districtName": "TOMBATU UTARA",
+  "name": "WINORANGIAN SATU",
+  "postalCode": "95996"
  }
 ]

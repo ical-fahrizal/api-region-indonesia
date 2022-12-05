@@ -2,26 +2,36 @@
  {
   "id": 3272011001,
   "districtId": 3272011,
-  "name": "LEMBURSITU"
+  "districtName": "LEMBURSITU",
+  "name": "LEMBURSITU",
+  "postalCode": "43169"
  },
  {
   "id": 3272011002,
   "districtId": 3272011,
-  "name": "SITUMEKAR"
+  "districtName": "LEMBURSITU",
+  "name": "SITUMEKAR",
+  "postalCode": "45363"
  },
  {
   "id": 3272011003,
   "districtId": 3272011,
-  "name": "CIPANENGAH"
+  "districtName": "LEMBURSITU",
+  "name": "CIPANENGAH",
+  "postalCode": "43353"
  },
  {
   "id": 3272011004,
   "districtId": 3272011,
-  "name": "CIKUNDUL"
+  "districtName": "LEMBURSITU",
+  "name": "CIKUNDUL",
+  "postalCode": "43168"
  },
  {
   "id": 3272011005,
   "districtId": 3272011,
-  "name": "SINDANGSARI"
+  "districtName": "LEMBURSITU",
+  "name": "SINDANGSARI",
+  "postalCode": "46383"
  }
 ]

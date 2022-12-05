@@ -2,61 +2,85 @@
  {
   "id": 6301020001,
   "districtId": 6301020,
-  "name": "KUALA TAMBANGAN"
+  "districtName": "TAKISUNG",
+  "name": "KUALA TAMBANGAN",
+  "postalCode": "70861"
  },
  {
   "id": 6301020002,
   "districtId": 6301020,
-  "name": "TELAGA LANGSAT"
+  "districtName": "TAKISUNG",
+  "name": "TELAGA LANGSAT",
+  "postalCode": "70861"
  },
  {
   "id": 6301020003,
   "districtId": 6301020,
-  "name": "TAKISUNG"
+  "districtName": "TAKISUNG",
+  "name": "TAKISUNG",
+  "postalCode": "70861"
  },
  {
   "id": 6301020004,
   "districtId": 6301020,
-  "name": "GUNUNG MAKMUR"
+  "districtName": "TAKISUNG",
+  "name": "GUNUNG MAKMUR",
+  "postalCode": "74352"
  },
  {
   "id": 6301020005,
   "districtId": 6301020,
-  "name": "SUMBER MAKMUR"
+  "districtName": "TAKISUNG",
+  "name": "SUMBER MAKMUR",
+  "postalCode": "23662"
  },
  {
   "id": 6301020006,
   "districtId": 6301020,
-  "name": "BENUA TENGAH"
+  "districtName": "TAKISUNG",
+  "name": "BENUA TENGAH",
+  "postalCode": "70861"
  },
  {
   "id": 6301020007,
   "districtId": 6301020,
-  "name": "BENUA LAWAS"
+  "districtName": "TAKISUNG",
+  "name": "BENUA LAWAS",
+  "postalCode": "70861"
  },
  {
   "id": 6301020008,
   "districtId": 6301020,
-  "name": "RANGGANG"
+  "districtName": "TAKISUNG",
+  "name": "RANGGANG",
+  "postalCode": "70861"
  },
  {
   "id": 6301020009,
   "districtId": 6301020,
-  "name": "BATILAI"
+  "districtName": "TAKISUNG",
+  "name": "BATILAI",
+  "postalCode": "70861"
  },
  {
   "id": 6301020010,
   "districtId": 6301020,
-  "name": "RANGGANG DALAM"
+  "districtName": "TAKISUNG",
+  "name": "RANGGANG DALAM",
+  "postalCode": "70861"
  },
  {
   "id": 6301020011,
   "districtId": 6301020,
-  "name": "PEGATAN BESAR"
+  "districtName": "TAKISUNG",
+  "name": "PEGATAN BESAR",
+  "postalCode": "70861"
  },
  {
   "id": 6301020012,
   "districtId": 6301020,
-  "name": "TABANIO"
+  "districtName": "TAKISUNG",
+  "name": "TABANIO",
+  "postalCode": "70861"
  }
 ]

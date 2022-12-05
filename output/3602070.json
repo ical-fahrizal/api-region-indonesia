@@ -2,56 +2,78 @@
  {
   "id": 3602070001,
   "districtId": 3602070,
-  "name": "MEKARJAYA"
+  "districtName": "CILELES",
+  "name": "MEKARJAYA",
+  "postalCode": "30653"
  },
  {
   "id": 3602070002,
   "districtId": 3602070,
-  "name": "PASINDANGAN"
+  "districtName": "CILELES",
+  "name": "PASINDANGAN",
+  "postalCode": "45151"
  },
  {
   "id": 3602070003,
   "districtId": 3602070,
-  "name": "KUJANGSARI"
+  "districtName": "CILELES",
+  "name": "KUJANGSARI",
+  "postalCode": "40287"
  },
  {
   "id": 3602070004,
   "districtId": 3602070,
-  "name": "PARUNGKUJANG"
+  "districtName": "CILELES",
+  "name": "PARUNGKUJANG",
+  "postalCode": "42353"
  },
  {
   "id": 3602070005,
   "districtId": 3602070,
-  "name": "CIKAREO"
+  "districtName": "CILELES",
+  "name": "CIKAREO",
+  "postalCode": "42353"
  },
  {
   "id": 3602070006,
   "districtId": 3602070,
-  "name": "CILELES"
+  "districtName": "CILELES",
+  "name": "CILELES",
+  "postalCode": "45363"
  },
  {
   "id": 3602070007,
   "districtId": 3602070,
-  "name": "MARGAMULYA"
+  "districtName": "CILELES",
+  "name": "MARGAMULYA",
+  "postalCode": "45255"
  },
  {
   "id": 3602070008,
   "districtId": 3602070,
-  "name": "CIPADANG"
+  "districtName": "CILELES",
+  "name": "CIPADANG",
+  "postalCode": "35366"
  },
  {
   "id": 3602070009,
   "districtId": 3602070,
-  "name": "DAROYON"
+  "districtName": "CILELES",
+  "name": "DAROYON",
+  "postalCode": "42353"
  },
  {
   "id": 3602070010,
   "districtId": 3602070,
-  "name": "PRABUGANTUNGAN"
+  "districtName": "CILELES",
+  "name": "PRABUGANTUNGAN",
+  "postalCode": "42353"
  },
  {
   "id": 3602070012,
   "districtId": 3602070,
-  "name": "BANJARSARI"
+  "districtName": "CILELES",
+  "name": "BANJARSARI",
+  "postalCode": "35377"
  }
 ]

@@ -2,91 +2,127 @@
  {
   "id": 1112010015,
   "districtId": 1112010,
-  "name": "TENGAH"
+  "districtName": "MANGGENG",
+  "name": "TENGAH",
+  "postalCode": "23752"
  },
  {
   "id": 1112010016,
   "districtId": 1112010,
-  "name": "PADANG"
+  "districtName": "MANGGENG",
+  "name": "PADANG",
+  "postalCode": "23762"
  },
  {
   "id": 1112010017,
   "districtId": 1112010,
-  "name": "KEDAI"
+  "districtName": "MANGGENG",
+  "name": "KEDAI",
+  "postalCode": ""
  },
  {
   "id": 1112010018,
   "districtId": 1112010,
-  "name": "PAYA"
+  "districtName": "MANGGENG",
+  "name": "PAYA",
+  "postalCode": "24152"
  },
  {
   "id": 1112010019,
   "districtId": 1112010,
-  "name": "SEUNALOP"
+  "districtName": "MANGGENG",
+  "name": "SEUNALOP",
+  "postalCode": ""
  },
  {
   "id": 1112010022,
   "districtId": 1112010,
-  "name": "LADANG PANAH"
+  "districtName": "MANGGENG",
+  "name": "LADANG PANAH",
+  "postalCode": "23762"
  },
  {
   "id": 1112010023,
   "districtId": 1112010,
-  "name": "PUSU"
+  "districtName": "MANGGENG",
+  "name": "PUSU",
+  "postalCode": "85551"
  },
  {
   "id": 1112010024,
   "districtId": 1112010,
-  "name": "UJUNG PADANG"
+  "districtName": "MANGGENG",
+  "name": "UJUNG PADANG",
+  "postalCode": "23773"
  },
  {
   "id": 1112010025,
   "districtId": 1112010,
-  "name": "LHUNG BARO"
+  "districtName": "MANGGENG",
+  "name": "LHUNG BARO",
+  "postalCode": ""
  },
  {
   "id": 1112010026,
   "districtId": 1112010,
-  "name": "PANTON MAKMUR"
+  "districtName": "MANGGENG",
+  "name": "PANTON MAKMUR",
+  "postalCode": "23652"
  },
  {
   "id": 1112010027,
   "districtId": 1112010,
-  "name": "PANTE RAJA"
+  "districtName": "MANGGENG",
+  "name": "PANTE RAJA",
+  "postalCode": "23762"
  },
  {
   "id": 1112010028,
   "districtId": 1112010,
-  "name": "LHOK PAWOH"
+  "districtName": "MANGGENG",
+  "name": "LHOK PAWOH",
+  "postalCode": "23762"
  },
  {
   "id": 1112010029,
   "districtId": 1112010,
-  "name": "PANTE PIRAK"
+  "districtName": "MANGGENG",
+  "name": "PANTE PIRAK",
+  "postalCode": "23762"
  },
  {
   "id": 1112010030,
   "districtId": 1112010,
-  "name": "SEJAHTERA"
+  "districtName": "MANGGENG",
+  "name": "SEJAHTERA",
+  "postalCode": "24673"
  },
  {
   "id": 1112010031,
   "districtId": 1112010,
-  "name": "BLANG MANGGENG"
+  "districtName": "MANGGENG",
+  "name": "BLANG MANGGENG",
+  "postalCode": "23762"
  },
  {
   "id": 1112010032,
   "districtId": 1112010,
-  "name": "TOKOH"
+  "districtName": "MANGGENG",
+  "name": "TOKOH",
+  "postalCode": "23762"
  },
  {
   "id": 1112010033,
   "districtId": 1112010,
-  "name": "LHOK PUNTOY"
+  "districtName": "MANGGENG",
+  "name": "LHOK PUNTOY",
+  "postalCode": ""
  },
  {
   "id": 1112010034,
   "districtId": 1112010,
-  "name": "PANTE CERMIN"
+  "districtName": "MANGGENG",
+  "name": "PANTE CERMIN",
+  "postalCode": "23657"
  }
 ]

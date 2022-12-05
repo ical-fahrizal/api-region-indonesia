@@ -2,31 +2,43 @@
  {
   "id": 5305011001,
   "districtId": 5305011,
-  "name": "TUABATAN"
+  "districtName": "MIOMAFFO TENGAH",
+  "name": "TUABATAN",
+  "postalCode": "85661"
  },
  {
   "id": 5305011002,
   "districtId": 5305011,
-  "name": "AKOMI"
+  "districtName": "MIOMAFFO TENGAH",
+  "name": "AKOMI",
+  "postalCode": "85661"
  },
  {
   "id": 5305011003,
   "districtId": 5305011,
-  "name": "BIJAEPASU"
+  "districtName": "MIOMAFFO TENGAH",
+  "name": "BIJAEPASU",
+  "postalCode": "85661"
  },
  {
   "id": 5305011004,
   "districtId": 5305011,
-  "name": "NOENASI"
+  "districtName": "MIOMAFFO TENGAH",
+  "name": "NOENASI",
+  "postalCode": "85661"
  },
  {
   "id": 5305011005,
   "districtId": 5305011,
-  "name": "NIAN"
+  "districtName": "MIOMAFFO TENGAH",
+  "name": "NIAN",
+  "postalCode": "85661"
  },
  {
   "id": 5305011006,
   "districtId": 5305011,
-  "name": "TUABATAN BARAT"
+  "districtName": "MIOMAFFO TENGAH",
+  "name": "TUABATAN BARAT",
+  "postalCode": ""
  }
 ]

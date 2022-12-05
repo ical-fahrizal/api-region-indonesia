@@ -2,31 +2,43 @@
  {
   "id": 8202045001,
   "districtId": 8202045,
-  "name": "PENITI"
+  "districtName": "PATANI TIMUR",
+  "name": "PENITI",
+  "postalCode": "79516"
  },
  {
   "id": 8202045002,
   "districtId": 8202045,
-  "name": "MASURE"
+  "districtName": "PATANI TIMUR",
+  "name": "MASURE",
+  "postalCode": "97854"
  },
  {
   "id": 8202045003,
   "districtId": 8202045,
-  "name": "SAKAM"
+  "districtName": "PATANI TIMUR",
+  "name": "SAKAM",
+  "postalCode": "97854"
  },
  {
   "id": 8202045004,
   "districtId": 8202045,
-  "name": "PALLO"
+  "districtName": "PATANI TIMUR",
+  "name": "PALLO",
+  "postalCode": ""
  },
  {
   "id": 8202045005,
   "districtId": 8202045,
-  "name": "DAMULI"
+  "districtName": "PATANI TIMUR",
+  "name": "DAMULI",
+  "postalCode": "97854"
  },
  {
   "id": 8202045006,
   "districtId": 8202045,
-  "name": "NURSIFA"
+  "districtName": "PATANI TIMUR",
+  "name": "NURSIFA",
+  "postalCode": "97854"
  }
 ]

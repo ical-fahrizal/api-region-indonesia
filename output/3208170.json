@@ -2,66 +2,92 @@
  {
   "id": 3208170001,
   "districtId": 3208170,
-  "name": "BANDORASA KULON"
+  "districtName": "CILIMUS",
+  "name": "BANDORASA KULON",
+  "postalCode": "45556"
  },
  {
   "id": 3208170002,
   "districtId": 3208170,
-  "name": "BANDORASA WETAN"
+  "districtName": "CILIMUS",
+  "name": "BANDORASA WETAN",
+  "postalCode": "45556"
  },
  {
   "id": 3208170012,
   "districtId": 3208170,
-  "name": "BOJONG"
+  "districtName": "CILIMUS",
+  "name": "BOJONG",
+  "postalCode": "34385"
  },
  {
   "id": 3208170013,
   "districtId": 3208170,
-  "name": "LINGGAMEKAR"
+  "districtName": "CILIMUS",
+  "name": "LINGGAMEKAR",
+  "postalCode": "45556"
  },
  {
   "id": 3208170014,
   "districtId": 3208170,
-  "name": "LINGGASANA"
+  "districtName": "CILIMUS",
+  "name": "LINGGASANA",
+  "postalCode": "45556"
  },
  {
   "id": 3208170015,
   "districtId": 3208170,
-  "name": "LINGGAJATI"
+  "districtName": "CILIMUS",
+  "name": "LINGGAJATI",
+  "postalCode": "45365"
  },
  {
   "id": 3208170016,
   "districtId": 3208170,
-  "name": "LINGGAINDAH"
+  "districtName": "CILIMUS",
+  "name": "LINGGAINDAH",
+  "postalCode": "45556"
  },
  {
   "id": 3208170017,
   "districtId": 3208170,
-  "name": "CILIMUS"
+  "districtName": "CILIMUS",
+  "name": "CILIMUS",
+  "postalCode": "35451"
  },
  {
   "id": 3208170020,
   "districtId": 3208170,
-  "name": "CARACAS"
+  "districtName": "CILIMUS",
+  "name": "CARACAS",
+  "postalCode": "45556"
  },
  {
   "id": 3208170021,
   "districtId": 3208170,
-  "name": "SAMPORA"
+  "districtName": "CILIMUS",
+  "name": "SAMPORA",
+  "postalCode": "43367"
  },
  {
   "id": 3208170022,
   "districtId": 3208170,
-  "name": "KALIAREN"
+  "districtName": "CILIMUS",
+  "name": "KALIAREN",
+  "postalCode": "45556"
  },
  {
   "id": 3208170023,
   "districtId": 3208170,
-  "name": "SETIANEGARA"
+  "districtName": "CILIMUS",
+  "name": "SETIANEGARA",
+  "postalCode": "45556"
  },
  {
   "id": 3208170024,
   "districtId": 3208170,
-  "name": "CIBEUREUM"
+  "districtName": "CILIMUS",
+  "name": "CIBEUREUM",
+  "postalCode": "46313"
  }
 ]

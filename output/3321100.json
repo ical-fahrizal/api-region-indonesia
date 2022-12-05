@@ -2,91 +2,127 @@
  {
   "id": 3321100001,
   "districtId": 3321100,
-  "name": "SURODADI"
+  "districtName": "GAJAH",
+  "name": "SURODADI",
+  "postalCode": "31662"
  },
  {
   "id": 3321100002,
   "districtId": 3321100,
-  "name": "JATISONO"
+  "districtName": "GAJAH",
+  "name": "JATISONO",
+  "postalCode": "59581"
  },
  {
   "id": 3321100003,
   "districtId": 3321100,
-  "name": "KEDONDONG"
+  "districtName": "GAJAH",
+  "name": "KEDONDONG",
+  "postalCode": "32191"
  },
  {
   "id": 3321100004,
   "districtId": 3321100,
-  "name": "GEDANGALAS"
+  "districtName": "GAJAH",
+  "name": "GEDANGALAS",
+  "postalCode": "59581"
  },
  {
   "id": 3321100005,
   "districtId": 3321100,
-  "name": "SAMBIROTO"
+  "districtName": "GAJAH",
+  "name": "SAMBIROTO",
+  "postalCode": "59581"
  },
  {
   "id": 3321100006,
   "districtId": 3321100,
-  "name": "TANJUNGANYAR"
+  "districtName": "GAJAH",
+  "name": "TANJUNGANYAR",
+  "postalCode": "59581"
  },
  {
   "id": 3321100007,
   "districtId": 3321100,
-  "name": "WILALUNG"
+  "districtName": "GAJAH",
+  "name": "WILALUNG",
+  "postalCode": "59581"
  },
  {
   "id": 3321100008,
   "districtId": 3321100,
-  "name": "MEDINI"
+  "districtName": "GAJAH",
+  "name": "MEDINI",
+  "postalCode": "59581"
  },
  {
   "id": 3321100009,
   "districtId": 3321100,
-  "name": "MLATIHARJO"
+  "districtName": "GAJAH",
+  "name": "MLATIHARJO",
+  "postalCode": "59581"
  },
  {
   "id": 3321100010,
   "districtId": 3321100,
-  "name": "TAMBIREJO"
+  "districtName": "GAJAH",
+  "name": "TAMBIREJO",
+  "postalCode": "59581"
  },
  {
   "id": 3321100011,
   "districtId": 3321100,
-  "name": "BANJARSARI"
+  "districtName": "GAJAH",
+  "name": "BANJARSARI",
+  "postalCode": "35377"
  },
  {
   "id": 3321100012,
   "districtId": 3321100,
-  "name": "BOYOLALI"
+  "districtName": "GAJAH",
+  "name": "BOYOLALI",
+  "postalCode": "59581"
  },
  {
   "id": 3321100013,
   "districtId": 3321100,
-  "name": "GAJAH"
+  "districtName": "GAJAH",
+  "name": "GAJAH",
+  "postalCode": "24655"
  },
  {
   "id": 3321100014,
   "districtId": 3321100,
-  "name": "SARI"
+  "districtName": "GAJAH",
+  "name": "SARI",
+  "postalCode": "84182"
  },
  {
   "id": 3321100015,
   "districtId": 3321100,
-  "name": "MLEKANG"
+  "districtName": "GAJAH",
+  "name": "MLEKANG",
+  "postalCode": "59581"
  },
  {
   "id": 3321100016,
   "districtId": 3321100,
-  "name": "SAMBUNG"
+  "districtName": "GAJAH",
+  "name": "SAMBUNG",
+  "postalCode": "59581"
  },
  {
   "id": 3321100017,
   "districtId": 3321100,
-  "name": "TLOGOPANDOGAN"
+  "districtName": "GAJAH",
+  "name": "TLOGOPANDOGAN",
+  "postalCode": "59581"
  },
  {
   "id": 3321100018,
   "districtId": 3321100,
-  "name": "MOJOSIMO"
+  "districtName": "GAJAH",
+  "name": "MOJOSIMO",
+  "postalCode": "59581"
  }
 ]

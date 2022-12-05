@@ -2,16 +2,22 @@
  {
   "id": 3471140001,
   "districtId": 3471140,
-  "name": "TEGALREJO"
+  "districtName": "TEGALREJO",
+  "name": "TEGALREJO",
+  "postalCode": "50733"
  },
  {
   "id": 3471140003,
   "districtId": 3471140,
-  "name": "KRICAK"
+  "districtName": "TEGALREJO",
+  "name": "KRICAK",
+  "postalCode": "55242"
  },
  {
   "id": 3471140004,
   "districtId": 3471140,
-  "name": "KARANGWARU"
+  "districtName": "TEGALREJO",
+  "name": "KARANGWARU",
+  "postalCode": "57283"
  }
 ]

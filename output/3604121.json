@@ -2,46 +2,64 @@
  {
   "id": 3604121001,
   "districtId": 3604121,
-  "name": "NAGARA"
+  "districtName": "KIBIN",
+  "name": "NAGARA",
+  "postalCode": "22173"
  },
  {
   "id": 3604121002,
   "districtId": 3604121,
-  "name": "CIJERUK"
+  "districtName": "KIBIN",
+  "name": "CIJERUK",
+  "postalCode": "16740"
  },
  {
   "id": 3604121003,
   "districtId": 3604121,
-  "name": "BARENGKOK"
+  "districtName": "KIBIN",
+  "name": "BARENGKOK",
+  "postalCode": "16670"
  },
  {
   "id": 3604121004,
   "districtId": 3604121,
-  "name": "NAMBO ILIR"
+  "districtName": "KIBIN",
+  "name": "NAMBO ILIR",
+  "postalCode": "42185"
  },
  {
   "id": 3604121005,
   "districtId": 3604121,
-  "name": "KIBIN"
+  "districtName": "KIBIN",
+  "name": "KIBIN",
+  "postalCode": "42185"
  },
  {
   "id": 3604121006,
   "districtId": 3604121,
-  "name": "TAMBAK"
+  "districtName": "KIBIN",
+  "name": "TAMBAK",
+  "postalCode": "29335"
  },
  {
   "id": 3604121007,
   "districtId": 3604121,
-  "name": "CIAGEL"
+  "districtName": "KIBIN",
+  "name": "CIAGEL",
+  "postalCode": "42185"
  },
  {
   "id": 3604121008,
   "districtId": 3604121,
-  "name": "KETOS"
+  "districtName": "KIBIN",
+  "name": "KETOS",
+  "postalCode": "57678"
  },
  {
   "id": 3604121009,
   "districtId": 3604121,
-  "name": "SUKAMAJU"
+  "districtName": "KIBIN",
+  "name": "SUKAMAJU",
+  "postalCode": "22465"
  }
 ]

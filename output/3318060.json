@@ -2,106 +2,148 @@
  {
   "id": 3318060001,
   "districtId": 3318060,
-  "name": "BOTO"
+  "districtName": "JAKEN",
+  "name": "BOTO",
+  "postalCode": "50182"
  },
  {
   "id": 3318060002,
   "districtId": 3318060,
-  "name": "TRIKOYO"
+  "districtName": "JAKEN",
+  "name": "TRIKOYO",
+  "postalCode": "31662"
  },
  {
   "id": 3318060003,
   "districtId": 3318060,
-  "name": "SUMBERAN"
+  "districtName": "JAKEN",
+  "name": "SUMBERAN",
+  "postalCode": "59184"
  },
  {
   "id": 3318060004,
   "districtId": 3318060,
-  "name": "MOJOLAMPIR"
+  "districtName": "JAKEN",
+  "name": "MOJOLAMPIR",
+  "postalCode": "59184"
  },
  {
   "id": 3318060005,
   "districtId": 3318060,
-  "name": "MANTINGAN"
+  "districtName": "JAKEN",
+  "name": "MANTINGAN",
+  "postalCode": "59255"
  },
  {
   "id": 3318060006,
   "districtId": 3318060,
-  "name": "RONGGO"
+  "districtName": "JAKEN",
+  "name": "RONGGO",
+  "postalCode": "59184"
  },
  {
   "id": 3318060007,
   "districtId": 3318060,
-  "name": "SUMBERAGUNG"
+  "districtName": "JAKEN",
+  "name": "SUMBERAGUNG",
+  "postalCode": "35452"
  },
  {
   "id": 3318060008,
   "districtId": 3318060,
-  "name": "SIDOLUHUR"
+  "districtName": "JAKEN",
+  "name": "SIDOLUHUR",
+  "postalCode": "34173"
  },
  {
   "id": 3318060009,
   "districtId": 3318060,
-  "name": "SRIKATON"
+  "districtName": "JAKEN",
+  "name": "SRIKATON",
+  "postalCode": "30975"
  },
  {
   "id": 3318060010,
   "districtId": 3318060,
-  "name": "ARUMANIS"
+  "districtName": "JAKEN",
+  "name": "ARUMANIS",
+  "postalCode": ""
  },
  {
   "id": 3318060011,
   "districtId": 3318060,
-  "name": "TEGALARUM"
+  "districtName": "JAKEN",
+  "name": "TEGALARUM",
+  "postalCode": "56413"
  },
  {
   "id": 3318060012,
   "districtId": 3318060,
-  "name": "SIDOMUKTI"
+  "districtName": "JAKEN",
+  "name": "SIDOMUKTI",
+  "postalCode": "21217"
  },
  {
   "id": 3318060013,
   "districtId": 3318060,
-  "name": "MOJOLUHUR"
+  "districtName": "JAKEN",
+  "name": "MOJOLUHUR",
+  "postalCode": "59184"
  },
  {
   "id": 3318060014,
   "districtId": 3318060,
-  "name": "KEBONTURI"
+  "districtName": "JAKEN",
+  "name": "KEBONTURI",
+  "postalCode": "45162"
  },
  {
   "id": 3318060015,
   "districtId": 3318060,
-  "name": "LUNDO"
+  "districtName": "JAKEN",
+  "name": "LUNDO",
+  "postalCode": "59184"
  },
  {
   "id": 3318060016,
   "districtId": 3318060,
-  "name": "SUKORUKUN"
+  "districtName": "JAKEN",
+  "name": "SUKORUKUN",
+  "postalCode": "59184"
  },
  {
   "id": 3318060017,
   "districtId": 3318060,
-  "name": "SUMBEREJO"
+  "districtName": "JAKEN",
+  "name": "SUMBEREJO",
+  "postalCode": "20551"
  },
  {
   "id": 3318060018,
   "districtId": 3318060,
-  "name": "MANJANG"
+  "districtName": "JAKEN",
+  "name": "MANJANG",
+  "postalCode": "59184"
  },
  {
   "id": 3318060019,
   "districtId": 3318060,
-  "name": "TAMANSARI"
+  "districtName": "JAKEN",
+  "name": "TAMANSARI",
+  "postalCode": "35366"
  },
  {
   "id": 3318060020,
   "districtId": 3318060,
-  "name": "SUMBERARUM"
+  "districtName": "JAKEN",
+  "name": "SUMBERARUM",
+  "postalCode": "59184"
  },
  {
   "id": 3318060021,
   "districtId": 3318060,
-  "name": "SRIWEDARI"
+  "districtName": "JAKEN",
+  "name": "SRIWEDARI",
+  "postalCode": "35363"
  }
 ]

@@ -2,46 +2,64 @@
  {
   "id": 1371100001,
   "districtId": 1371100,
-  "name": "PISANG"
+  "districtName": "PAUH",
+  "name": "PISANG",
+  "postalCode": "23761"
  },
  {
   "id": 1371100002,
   "districtId": 1371100,
-  "name": "BINUANG KAMPUNG DALAM"
+  "districtName": "PAUH",
+  "name": "BINUANG KAMPUNG DALAM",
+  "postalCode": "25161"
  },
  {
   "id": 1371100003,
   "districtId": 1371100,
-  "name": "PIAI TANGAH"
+  "districtName": "PAUH",
+  "name": "PIAI TANGAH",
+  "postalCode": "25162"
  },
  {
   "id": 1371100004,
   "districtId": 1371100,
-  "name": "CUPAK TANGAH"
+  "districtName": "PAUH",
+  "name": "CUPAK TANGAH",
+  "postalCode": "25162"
  },
  {
   "id": 1371100005,
   "districtId": 1371100,
-  "name": "KAPALA KOTO"
+  "districtName": "PAUH",
+  "name": "KAPALA KOTO",
+  "postalCode": ""
  },
  {
   "id": 1371100008,
   "districtId": 1371100,
-  "name": "KOTO LUAR"
+  "districtName": "PAUH",
+  "name": "KOTO LUAR",
+  "postalCode": "25164"
  },
  {
   "id": 1371100013,
   "districtId": 1371100,
-  "name": "LAMBUNG BUKIT"
+  "districtName": "PAUH",
+  "name": "LAMBUNG BUKIT",
+  "postalCode": ""
  },
  {
   "id": 1371100014,
   "districtId": 1371100,
-  "name": "LIMAU MANIS SELATAN"
+  "districtName": "PAUH",
+  "name": "LIMAU MANIS SELATAN",
+  "postalCode": "25163"
  },
  {
   "id": 1371100015,
   "districtId": 1371100,
-  "name": "LIMAU MANIS"
+  "districtName": "PAUH",
+  "name": "LIMAU MANIS",
+  "postalCode": "22998"
  }
 ]

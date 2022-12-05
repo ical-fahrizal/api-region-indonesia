@@ -2,86 +2,120 @@
  {
   "id": 3523090002,
   "districtId": 3523090,
-  "name": "KESAMBEN"
+  "districtName": "PLUMPANG",
+  "name": "KESAMBEN",
+  "postalCode": "66191"
  },
  {
   "id": 3523090003,
   "districtId": 3523090,
-  "name": "KEPOHAGUNG"
+  "districtName": "PLUMPANG",
+  "name": "KEPOHAGUNG",
+  "postalCode": "59261"
  },
  {
   "id": 3523090004,
   "districtId": 3523090,
-  "name": "KEDUNGROJO"
+  "districtName": "PLUMPANG",
+  "name": "KEDUNGROJO",
+  "postalCode": "62382"
  },
  {
   "id": 3523090005,
   "districtId": 3523090,
-  "name": "CANGKRING"
+  "districtName": "PLUMPANG",
+  "name": "CANGKRING",
+  "postalCode": "45258"
  },
  {
   "id": 3523090006,
   "districtId": 3523090,
-  "name": "SEMBUNGREJO"
+  "districtName": "PLUMPANG",
+  "name": "SEMBUNGREJO",
+  "postalCode": "62355"
  },
  {
   "id": 3523090007,
   "districtId": 3523090,
-  "name": "PLANDIREJO"
+  "districtName": "PLUMPANG",
+  "name": "PLANDIREJO",
+  "postalCode": "66163"
  },
  {
   "id": 3523090008,
   "districtId": 3523090,
-  "name": "BANDUNGREJO"
+  "districtName": "PLUMPANG",
+  "name": "BANDUNGREJO",
+  "postalCode": "54222"
  },
  {
   "id": 3523090009,
   "districtId": 3523090,
-  "name": "KLOTOK"
+  "districtName": "PLUMPANG",
+  "name": "KLOTOK",
+  "postalCode": "61173"
  },
  {
   "id": 3523090010,
   "districtId": 3523090,
-  "name": "KEBOMLATI"
+  "districtName": "PLUMPANG",
+  "name": "KEBOMLATI",
+  "postalCode": "62382"
  },
  {
   "id": 3523090011,
   "districtId": 3523090,
-  "name": "KEDUNGSOKO"
+  "districtName": "PLUMPANG",
+  "name": "KEDUNGSOKO",
+  "postalCode": "62283"
  },
  {
   "id": 3523090012,
   "districtId": 3523090,
-  "name": "PENIDON"
+  "districtName": "PLUMPANG",
+  "name": "PENIDON",
+  "postalCode": "62382"
  },
  {
   "id": 3523090013,
   "districtId": 3523090,
-  "name": "MAGERSARI"
+  "districtName": "PLUMPANG",
+  "name": "MAGERSARI",
+  "postalCode": "56126"
  },
  {
   "id": 3523090014,
   "districtId": 3523090,
-  "name": "JATIMULYO"
+  "districtName": "PLUMPANG",
+  "name": "JATIMULYO",
+  "postalCode": "35365"
  },
  {
   "id": 3523090015,
   "districtId": 3523090,
-  "name": "PLUMPANG"
+  "districtName": "PLUMPANG",
+  "name": "PLUMPANG",
+  "postalCode": "62382"
  },
  {
   "id": 3523090016,
   "districtId": 3523090,
-  "name": "SUMURJALAK"
+  "districtName": "PLUMPANG",
+  "name": "SUMURJALAK",
+  "postalCode": "62382"
  },
  {
   "id": 3523090017,
   "districtId": 3523090,
-  "name": "NGRAYUNG"
+  "districtName": "PLUMPANG",
+  "name": "NGRAYUNG",
+  "postalCode": "66372"
  },
  {
   "id": 3523090018,
   "districtId": 3523090,
-  "name": "SUMBERAGUNG"
+  "districtName": "PLUMPANG",
+  "name": "SUMBERAGUNG",
+  "postalCode": "35452"
  }
 ]

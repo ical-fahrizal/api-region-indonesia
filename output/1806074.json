@@ -2,46 +2,64 @@
  {
   "id": 1806074001,
   "districtId": 1806074,
-  "name": "LEPANG TENGAH"
+  "districtName": "SUNGKAI JAYA",
+  "name": "LEPANG TENGAH",
+  "postalCode": ""
  },
  {
   "id": 1806074002,
   "districtId": 1806074,
-  "name": "SUKAJAYA"
+  "districtName": "SUNGKAI JAYA",
+  "name": "SUKAJAYA",
+  "postalCode": "30756"
  },
  {
   "id": 1806074003,
   "districtId": 1806074,
-  "name": "NEGARA AGUNG"
+  "districtName": "SUNGKAI JAYA",
+  "name": "NEGARA AGUNG",
+  "postalCode": "34554"
  },
  {
   "id": 1806074004,
   "districtId": 1806074,
-  "name": "SRI AGUNG"
+  "districtName": "SUNGKAI JAYA",
+  "name": "SRI AGUNG",
+  "postalCode": "36552"
  },
  {
   "id": 1806074005,
   "districtId": 1806074,
-  "name": "CAHAYA MAKMUR"
+  "districtName": "SUNGKAI JAYA",
+  "name": "CAHAYA MAKMUR",
+  "postalCode": "34554"
  },
  {
   "id": 1806074006,
   "districtId": 1806074,
-  "name": "SRI JAYA"
+  "districtName": "SUNGKAI JAYA",
+  "name": "SRI JAYA",
+  "postalCode": "30968"
  },
  {
   "id": 1806074007,
   "districtId": 1806074,
-  "name": "CEMPAKA BARAT"
+  "districtName": "SUNGKAI JAYA",
+  "name": "CEMPAKA BARAT",
+  "postalCode": "34554"
  },
  {
   "id": 1806074008,
   "districtId": 1806074,
-  "name": "CEMPAKA"
+  "districtName": "SUNGKAI JAYA",
+  "name": "CEMPAKA",
+  "postalCode": "37152"
  },
  {
   "id": 1806074009,
   "districtId": 1806074,
-  "name": "CEMPAKA TIMUR"
+  "districtName": "SUNGKAI JAYA",
+  "name": "CEMPAKA TIMUR",
+  "postalCode": "34554"
  }
 ]

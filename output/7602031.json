@@ -2,56 +2,78 @@
  {
   "id": 7602031001,
   "districtId": 7602031,
-  "name": "SAMBALI-WALI"
+  "districtName": "LUYO",
+  "name": "SAMBALI-WALI",
+  "postalCode": ""
  },
  {
   "id": 7602031002,
   "districtId": 7602031,
-  "name": "TENGGELAN"
+  "districtName": "LUYO",
+  "name": "TENGGELAN",
+  "postalCode": ""
  },
  {
   "id": 7602031003,
   "districtId": 7602031,
-  "name": "BARU"
+  "districtName": "LUYO",
+  "name": "BARU",
+  "postalCode": "23764"
  },
  {
   "id": 7602031004,
   "districtId": 7602031,
-  "name": "MAPILLI BARAT"
+  "districtName": "LUYO",
+  "name": "MAPILLI BARAT",
+  "postalCode": "91353"
  },
  {
   "id": 7602031005,
   "districtId": 7602031,
-  "name": "LUYO"
+  "districtName": "LUYO",
+  "name": "LUYO",
+  "postalCode": ""
  },
  {
   "id": 7602031006,
   "districtId": 7602031,
-  "name": "M A M B U"
+  "districtName": "LUYO",
+  "name": "M A M B U",
+  "postalCode": ""
  },
  {
   "id": 7602031007,
   "districtId": 7602031,
-  "name": "PUSSUI"
+  "districtName": "LUYO",
+  "name": "PUSSUI",
+  "postalCode": "91353"
  },
  {
   "id": 7602031008,
   "districtId": 7602031,
-  "name": "BATUPANGA"
+  "districtName": "LUYO",
+  "name": "BATUPANGA",
+  "postalCode": ""
  },
  {
   "id": 7602031009,
   "districtId": 7602031,
-  "name": "BATUPANGA DAALA"
+  "districtName": "LUYO",
+  "name": "BATUPANGA DAALA",
+  "postalCode": "91353"
  },
  {
   "id": 7602031010,
   "districtId": 7602031,
-  "name": "PUCCADI"
+  "districtName": "LUYO",
+  "name": "PUCCADI",
+  "postalCode": "91353"
  },
  {
   "id": 7602031011,
   "districtId": 7602031,
-  "name": "PUSSUI BARAT"
+  "districtName": "LUYO",
+  "name": "PUSSUI BARAT",
+  "postalCode": "91353"
  }
 ]

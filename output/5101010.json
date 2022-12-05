@@ -2,46 +2,64 @@
  {
   "id": 5101010001,
   "districtId": 5101010,
-  "name": "GILIMANUK"
+  "districtName": "MELAYA",
+  "name": "GILIMANUK",
+  "postalCode": "82252"
  },
  {
   "id": 5101010002,
   "districtId": 5101010,
-  "name": "MELAYA"
+  "districtName": "MELAYA",
+  "name": "MELAYA",
+  "postalCode": "82252"
  },
  {
   "id": 5101010003,
   "districtId": 5101010,
-  "name": "CANDIKUSUMA"
+  "districtName": "MELAYA",
+  "name": "CANDIKUSUMA",
+  "postalCode": "82252"
  },
  {
   "id": 5101010005,
   "districtId": 5101010,
-  "name": "TUKADAYA"
+  "districtName": "MELAYA",
+  "name": "TUKADAYA",
+  "postalCode": "82252"
  },
  {
   "id": 5101010006,
   "districtId": 5101010,
-  "name": "MANISTUTU"
+  "districtName": "MELAYA",
+  "name": "MANISTUTU",
+  "postalCode": "82252"
  },
  {
   "id": 5101010007,
   "districtId": 5101010,
-  "name": "WARNASARI"
+  "districtName": "MELAYA",
+  "name": "WARNASARI",
+  "postalCode": "40378"
  },
  {
   "id": 5101010008,
   "districtId": 5101010,
-  "name": "NUSA SARI"
+  "districtName": "MELAYA",
+  "name": "NUSA SARI",
+  "postalCode": "82252"
  },
  {
   "id": 5101010009,
   "districtId": 5101010,
-  "name": "EKASARI"
+  "districtName": "MELAYA",
+  "name": "EKASARI",
+  "postalCode": "82252"
  },
  {
   "id": 5101010010,
   "districtId": 5101010,
-  "name": "BLIMBINGSARI"
+  "districtName": "MELAYA",
+  "name": "BLIMBINGSARI",
+  "postalCode": "61361"
  }
 ]

@@ -2,76 +2,106 @@
  {
   "id": 3319040001,
   "districtId": 3319040,
-  "name": "WONOSOCO"
+  "districtName": "UNDAAN",
+  "name": "WONOSOCO",
+  "postalCode": "59372"
  },
  {
   "id": 3319040002,
   "districtId": 3319040,
-  "name": "LAMBANGAN"
+  "districtName": "UNDAAN",
+  "name": "LAMBANGAN",
+  "postalCode": "59372"
  },
  {
   "id": 3319040003,
   "districtId": 3319040,
-  "name": "KALIREJO"
+  "districtName": "UNDAAN",
+  "name": "KALIREJO",
+  "postalCode": "35353"
  },
  {
   "id": 3319040004,
   "districtId": 3319040,
-  "name": "MEDINI"
+  "districtName": "UNDAAN",
+  "name": "MEDINI",
+  "postalCode": "59581"
  },
  {
   "id": 3319040005,
   "districtId": 3319040,
-  "name": "SAMBUNG"
+  "districtName": "UNDAAN",
+  "name": "SAMBUNG",
+  "postalCode": "59581"
  },
  {
   "id": 3319040006,
   "districtId": 3319040,
-  "name": "GLAGAH WARU"
+  "districtName": "UNDAAN",
+  "name": "GLAGAH WARU",
+  "postalCode": ""
  },
  {
   "id": 3319040008,
   "districtId": 3319040,
-  "name": "UNDAAN KIDUL"
+  "districtName": "UNDAAN",
+  "name": "UNDAAN KIDUL",
+  "postalCode": "59582"
  },
  {
   "id": 3319040009,
   "districtId": 3319040,
-  "name": "UNDAAN TENGAH"
+  "districtName": "UNDAAN",
+  "name": "UNDAAN TENGAH",
+  "postalCode": "59372"
  },
  {
   "id": 3319040010,
   "districtId": 3319040,
-  "name": "KARANG ROWO"
+  "districtName": "UNDAAN",
+  "name": "KARANG ROWO",
+  "postalCode": ""
  },
  {
   "id": 3319040011,
   "districtId": 3319040,
-  "name": "LARIKREJO"
+  "districtName": "UNDAAN",
+  "name": "LARIKREJO",
+  "postalCode": "59372"
  },
  {
   "id": 3319040012,
   "districtId": 3319040,
-  "name": "UNDAAN LOR"
+  "districtName": "UNDAAN",
+  "name": "UNDAAN LOR",
+  "postalCode": "59582"
  },
  {
   "id": 3319040013,
   "districtId": 3319040,
-  "name": "WATES"
+  "districtName": "UNDAAN",
+  "name": "WATES",
+  "postalCode": "32273"
  },
  {
   "id": 3319040014,
   "districtId": 3319040,
-  "name": "NGEMPLAK"
+  "districtName": "UNDAAN",
+  "name": "NGEMPLAK",
+  "postalCode": "54191"
  },
  {
   "id": 3319040015,
   "districtId": 3319040,
-  "name": "TERANG MAS"
+  "districtName": "UNDAAN",
+  "name": "TERANG MAS",
+  "postalCode": ""
  },
  {
   "id": 3319040016,
   "districtId": 3319040,
-  "name": "BERUGENJANG"
+  "districtName": "UNDAAN",
+  "name": "BERUGENJANG",
+  "postalCode": "59372"
  }
 ]

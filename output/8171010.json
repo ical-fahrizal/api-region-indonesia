@@ -2,61 +2,85 @@
  {
   "id": 8171010001,
   "districtId": 8171010,
-  "name": "LATUHALAT"
+  "districtName": "NUSANIWE",
+  "name": "LATUHALAT",
+  "postalCode": "97118"
  },
  {
   "id": 8171010002,
   "districtId": 8171010,
-  "name": "SEILALE"
+  "districtName": "NUSANIWE",
+  "name": "SEILALE",
+  "postalCode": "97118"
  },
  {
   "id": 8171010003,
   "districtId": 8171010,
-  "name": "NUSANIWE"
+  "districtName": "NUSANIWE",
+  "name": "NUSANIWE",
+  "postalCode": "97117"
  },
  {
   "id": 8171010004,
   "districtId": 8171010,
-  "name": "AMAHUSU"
+  "districtName": "NUSANIWE",
+  "name": "AMAHUSU",
+  "postalCode": "97117"
  },
  {
   "id": 8171010005,
   "districtId": 8171010,
-  "name": "KEL NUSANIWE"
+  "districtName": "NUSANIWE",
+  "name": "KEL NUSANIWE",
+  "postalCode": ""
  },
  {
   "id": 8171010007,
   "districtId": 8171010,
-  "name": "KEL WAINITU"
+  "districtName": "NUSANIWE",
+  "name": "KEL WAINITU",
+  "postalCode": ""
  },
  {
   "id": 8171010008,
   "districtId": 8171010,
-  "name": "KEL KUDAMATI"
+  "districtName": "NUSANIWE",
+  "name": "KEL KUDAMATI",
+  "postalCode": ""
  },
  {
   "id": 8171010009,
   "districtId": 8171010,
-  "name": "URIMESING"
+  "districtName": "NUSANIWE",
+  "name": "URIMESING",
+  "postalCode": ""
  },
  {
   "id": 8171010010,
   "districtId": 8171010,
-  "name": "KEL MANGGA DUA"
+  "districtName": "NUSANIWE",
+  "name": "KEL MANGGA DUA",
+  "postalCode": ""
  },
  {
   "id": 8171010011,
   "districtId": 8171010,
-  "name": "KEL URIMESING"
+  "districtName": "NUSANIWE",
+  "name": "KEL URIMESING",
+  "postalCode": ""
  },
  {
   "id": 8171010012,
   "districtId": 8171010,
-  "name": "KEL WAIHAONG"
+  "districtName": "NUSANIWE",
+  "name": "KEL WAIHAONG",
+  "postalCode": ""
  },
  {
   "id": 8171010013,
   "districtId": 8171010,
-  "name": "KEL SILALE"
+  "districtName": "NUSANIWE",
+  "name": "KEL SILALE",
+  "postalCode": ""
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 6202190002,
   "districtId": 6202190,
-  "name": "SUNGAI PARING"
+  "districtName": "CEMPAGA",
+  "name": "SUNGAI PARING",
+  "postalCode": ""
  },
  {
   "id": 6202190003,
   "districtId": 6202190,
-  "name": "CEMPAKA MULIA BARAT"
+  "districtName": "CEMPAGA",
+  "name": "CEMPAKA MULIA BARAT",
+  "postalCode": "74354"
  },
  {
   "id": 6202190004,
   "districtId": 6202190,
-  "name": "CEMPAKA MULIA TIMUR"
+  "districtName": "CEMPAGA",
+  "name": "CEMPAKA MULIA TIMUR",
+  "postalCode": "74354"
  },
  {
   "id": 6202190005,
   "districtId": 6202190,
-  "name": "JEMARAS"
+  "districtName": "CEMPAGA",
+  "name": "JEMARAS",
+  "postalCode": "74354"
  },
  {
   "id": 6202190006,
   "districtId": 6202190,
-  "name": "LUBUK RANGGAN"
+  "districtName": "CEMPAGA",
+  "name": "LUBUK RANGGAN",
+  "postalCode": "74354"
  },
  {
   "id": 6202190007,
   "districtId": 6202190,
-  "name": "PATAI"
+  "districtName": "CEMPAGA",
+  "name": "PATAI",
+  "postalCode": "74354"
  }
 ]

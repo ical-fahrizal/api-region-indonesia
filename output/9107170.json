@@ -2,46 +2,64 @@
  {
   "id": 9107170001,
   "districtId": 9107170,
-  "name": "MALAWELE"
+  "districtName": "AIMAS",
+  "name": "MALAWELE",
+  "postalCode": "98457"
  },
  {
   "id": 9107170004,
   "districtId": 9107170,
-  "name": "MALAWILI"
+  "districtName": "AIMAS",
+  "name": "MALAWILI",
+  "postalCode": "98457"
  },
  {
   "id": 9107170005,
   "districtId": 9107170,
-  "name": "AIMAS"
+  "districtName": "AIMAS",
+  "name": "AIMAS",
+  "postalCode": "98457"
  },
  {
   "id": 9107170006,
   "districtId": 9107170,
-  "name": "MARIAT PANTAI"
+  "districtName": "AIMAS",
+  "name": "MARIAT PANTAI",
+  "postalCode": "98457"
  },
  {
   "id": 9107170011,
   "districtId": 9107170,
-  "name": "MARIAT GUNUNG"
+  "districtName": "AIMAS",
+  "name": "MARIAT GUNUNG",
+  "postalCode": "98457"
  },
  {
   "id": 9107170012,
   "districtId": 9107170,
-  "name": "WARMON"
+  "districtName": "AIMAS",
+  "name": "WARMON",
+  "postalCode": "98457"
  },
  {
   "id": 9107170014,
   "districtId": 9107170,
-  "name": "KLAIGIT"
+  "districtName": "AIMAS",
+  "name": "KLAIGIT",
+  "postalCode": "98457"
  },
  {
   "id": 9107170015,
   "districtId": 9107170,
-  "name": "KLABINAIN"
+  "districtName": "AIMAS",
+  "name": "KLABINAIN",
+  "postalCode": "98457"
  },
  {
   "id": 9107170016,
   "districtId": 9107170,
-  "name": "MALASAUM"
+  "districtName": "AIMAS",
+  "name": "MALASAUM",
+  "postalCode": ""
  }
 ]

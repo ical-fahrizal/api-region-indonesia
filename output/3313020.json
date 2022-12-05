@@ -2,36 +2,50 @@
  {
   "id": 3313020001,
   "districtId": 3313020,
-  "name": "JATISAWIT"
+  "districtName": "JATIYOSO",
+  "name": "JATISAWIT",
+  "postalCode": "45273"
  },
  {
   "id": 3313020003,
   "districtId": 3313020,
-  "name": "WONOKELING"
+  "districtName": "JATIYOSO",
+  "name": "WONOKELING",
+  "postalCode": "57785"
  },
  {
   "id": 3313020004,
   "districtId": 3313020,
-  "name": "JATIYOSO"
+  "districtName": "JATIYOSO",
+  "name": "JATIYOSO",
+  "postalCode": "57785"
  },
  {
   "id": 3313020005,
   "districtId": 3313020,
-  "name": "TLOBO"
+  "districtName": "JATIYOSO",
+  "name": "TLOBO",
+  "postalCode": "57785"
  },
  {
   "id": 3313020006,
   "districtId": 3313020,
-  "name": "WONOREJO"
+  "districtName": "JATIYOSO",
+  "name": "WONOREJO",
+  "postalCode": "21186"
  },
  {
   "id": 3313020008,
   "districtId": 3313020,
-  "name": "KARANGSARI"
+  "districtName": "JATIYOSO",
+  "name": "KARANGSARI",
+  "postalCode": "35376"
  },
  {
   "id": 3313020009,
   "districtId": 3313020,
-  "name": "WUKIRSAWIT"
+  "districtName": "JATIYOSO",
+  "name": "WUKIRSAWIT",
+  "postalCode": "57785"
  }
 ]

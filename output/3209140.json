@@ -2,76 +2,106 @@
  {
   "id": 3209140006,
   "districtId": 3209140,
-  "name": "CEMPAKA"
+  "districtName": "PLUMBON",
+  "name": "CEMPAKA",
+  "postalCode": "37152"
  },
  {
   "id": 3209140007,
   "districtId": 3209140,
-  "name": "PAMIJAHAN"
+  "districtName": "PLUMBON",
+  "name": "PAMIJAHAN",
+  "postalCode": "46187"
  },
  {
   "id": 3209140017,
   "districtId": 3209140,
-  "name": "LURAH"
+  "districtName": "PLUMBON",
+  "name": "LURAH",
+  "postalCode": "45155"
  },
  {
   "id": 3209140018,
   "districtId": 3209140,
-  "name": "MARIKANGEN"
+  "districtName": "PLUMBON",
+  "name": "MARIKANGEN",
+  "postalCode": "45155"
  },
  {
   "id": 3209140019,
   "districtId": 3209140,
-  "name": "BODE LOR"
+  "districtName": "PLUMBON",
+  "name": "BODE LOR",
+  "postalCode": "45155"
  },
  {
   "id": 3209140020,
   "districtId": 3209140,
-  "name": "BODESARI"
+  "districtName": "PLUMBON",
+  "name": "BODESARI",
+  "postalCode": "45155"
  },
  {
   "id": 3209140021,
   "districtId": 3209140,
-  "name": "GOMBANG"
+  "districtName": "PLUMBON",
+  "name": "GOMBANG",
+  "postalCode": "45155"
  },
  {
   "id": 3209140022,
   "districtId": 3209140,
-  "name": "KARANGMULYA"
+  "districtName": "PLUMBON",
+  "name": "KARANGMULYA",
+  "postalCode": "17356"
  },
  {
   "id": 3209140023,
   "districtId": 3209140,
-  "name": "KARANGASEM"
+  "districtName": "PLUMBON",
+  "name": "KARANGASEM",
+  "postalCode": "45186"
  },
  {
   "id": 3209140024,
   "districtId": 3209140,
-  "name": "PLUMBON"
+  "districtName": "PLUMBON",
+  "name": "PLUMBON",
+  "postalCode": "45215"
  },
  {
   "id": 3209140025,
   "districtId": 3209140,
-  "name": "PURBAWINANGUN"
+  "districtName": "PLUMBON",
+  "name": "PURBAWINANGUN",
+  "postalCode": "45155"
  },
  {
   "id": 3209140026,
   "districtId": 3209140,
-  "name": "KEBAREPAN"
+  "districtName": "PLUMBON",
+  "name": "KEBAREPAN",
+  "postalCode": "45155"
  },
  {
   "id": 3209140027,
   "districtId": 3209140,
-  "name": "PASANGGRAHAN"
+  "districtName": "PLUMBON",
+  "name": "PASANGGRAHAN",
+  "postalCode": "41164"
  },
  {
   "id": 3209140028,
   "districtId": 3209140,
-  "name": "KEDUNGSANA"
+  "districtName": "PLUMBON",
+  "name": "KEDUNGSANA",
+  "postalCode": "45155"
  },
  {
   "id": 3209140029,
   "districtId": 3209140,
-  "name": "DANAMULYA"
+  "districtName": "PLUMBON",
+  "name": "DANAMULYA",
+  "postalCode": "45155"
  }
 ]

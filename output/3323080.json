@@ -2,76 +2,106 @@
  {
   "id": 3323080002,
   "districtId": 3323080,
-  "name": "WADAS"
+  "districtName": "KANDANGAN",
+  "name": "WADAS",
+  "postalCode": "41361"
  },
  {
   "id": 3323080003,
   "districtId": 3323080,
-  "name": "CARUBAN"
+  "districtName": "KANDANGAN",
+  "name": "CARUBAN",
+  "postalCode": "54363"
  },
  {
   "id": 3323080004,
   "districtId": 3323080,
-  "name": "BALEDU"
+  "districtName": "KANDANGAN",
+  "name": "BALEDU",
+  "postalCode": "56281"
  },
  {
   "id": 3323080005,
   "districtId": 3323080,
-  "name": "ROWO"
+  "districtName": "KANDANGAN",
+  "name": "ROWO",
+  "postalCode": "56281"
  },
  {
   "id": 3323080006,
   "districtId": 3323080,
-  "name": "MALEBO"
+  "districtName": "KANDANGAN",
+  "name": "MALEBO",
+  "postalCode": "56281"
  },
  {
   "id": 3323080007,
   "districtId": 3323080,
-  "name": "GESING"
+  "districtName": "KANDANGAN",
+  "name": "GESING",
+  "postalCode": "56281"
  },
  {
   "id": 3323080008,
   "districtId": 3323080,
-  "name": "KANDANGAN"
+  "districtName": "KANDANGAN",
+  "name": "KANDANGAN",
+  "postalCode": "21186"
  },
  {
   "id": 3323080009,
   "districtId": 3323080,
-  "name": "KEMBANGSARI"
+  "districtName": "KANDANGAN",
+  "name": "KEMBANGSARI",
+  "postalCode": "56281"
  },
  {
   "id": 3323080010,
   "districtId": 3323080,
-  "name": "SAMIRANAN"
+  "districtName": "KANDANGAN",
+  "name": "SAMIRANAN",
+  "postalCode": "56281"
  },
  {
   "id": 3323080011,
   "districtId": 3323080,
-  "name": "NGEMPLAK"
+  "districtName": "KANDANGAN",
+  "name": "NGEMPLAK",
+  "postalCode": "54191"
  },
  {
   "id": 3323080012,
   "districtId": 3323080,
-  "name": "TLOGOPUCANG"
+  "districtName": "KANDANGAN",
+  "name": "TLOGOPUCANG",
+  "postalCode": "56281"
  },
  {
   "id": 3323080013,
   "districtId": 3323080,
-  "name": "KEDAWUNG"
+  "districtName": "KANDANGAN",
+  "name": "KEDAWUNG",
+  "postalCode": "45153"
  },
  {
   "id": 3323080014,
   "districtId": 3323080,
-  "name": "MARGOLELO"
+  "districtName": "KANDANGAN",
+  "name": "MARGOLELO",
+  "postalCode": "56281"
  },
  {
   "id": 3323080015,
   "districtId": 3323080,
-  "name": "BLIMBING"
+  "districtName": "KANDANGAN",
+  "name": "BLIMBING",
+  "postalCode": "52364"
  },
  {
   "id": 3323080016,
   "districtId": 3323080,
-  "name": "BANJARSARI"
+  "districtName": "KANDANGAN",
+  "name": "BANJARSARI",
+  "postalCode": "35377"
  }
 ]

@@ -2,61 +2,85 @@
  {
   "id": 3526060001,
   "districtId": 3526060,
-  "name": "GALIS DAJAH"
+  "districtName": "KONANG",
+  "name": "GALIS DAJAH",
+  "postalCode": ""
  },
  {
   "id": 3526060002,
   "districtId": 3526060,
-  "name": "DURIN BARAT"
+  "districtName": "KONANG",
+  "name": "DURIN BARAT",
+  "postalCode": "69175"
  },
  {
   "id": 3526060003,
   "districtId": 3526060,
-  "name": "KANEGARAH"
+  "districtName": "KONANG",
+  "name": "KANEGARAH",
+  "postalCode": ""
  },
  {
   "id": 3526060004,
   "districtId": 3526060,
-  "name": "BATOKABAN"
+  "districtName": "KONANG",
+  "name": "BATOKABAN",
+  "postalCode": "69175"
  },
  {
   "id": 3526060005,
   "districtId": 3526060,
-  "name": "DURIN TIMUR"
+  "districtName": "KONANG",
+  "name": "DURIN TIMUR",
+  "postalCode": "69175"
  },
  {
   "id": 3526060006,
   "districtId": 3526060,
-  "name": "PAKES"
+  "districtName": "KONANG",
+  "name": "PAKES",
+  "postalCode": "69175"
  },
  {
   "id": 3526060007,
   "districtId": 3526060,
-  "name": "BANDUNG"
+  "districtName": "KONANG",
+  "name": "BANDUNG",
+  "postalCode": "54317"
  },
  {
   "id": 3526060008,
   "districtId": 3526060,
-  "name": "KONANG"
+  "districtName": "KONANG",
+  "name": "KONANG",
+  "postalCode": "69382"
  },
  {
   "id": 3526060009,
   "districtId": 3526060,
-  "name": "SENASEN"
+  "districtName": "KONANG",
+  "name": "SENASEN",
+  "postalCode": ""
  },
  {
   "id": 3526060010,
   "districtId": 3526060,
-  "name": "CAMPOR"
+  "districtName": "KONANG",
+  "name": "CAMPOR",
+  "postalCode": "69152"
  },
  {
   "id": 3526060011,
   "districtId": 3526060,
-  "name": "SAMBIYAN"
+  "districtName": "KONANG",
+  "name": "SAMBIYAN",
+  "postalCode": "59252"
  },
  {
   "id": 3526060012,
   "districtId": 3526060,
-  "name": "CANGKARMAN"
+  "districtName": "KONANG",
+  "name": "CANGKARMAN",
+  "postalCode": ""
  }
 ]

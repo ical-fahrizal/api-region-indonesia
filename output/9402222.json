@@ -2,51 +2,71 @@
  {
   "id": 9402222002,
   "districtId": 9402222,
-  "name": "TAGANIK"
+  "districtName": "YALENGGA",
+  "name": "TAGANIK",
+  "postalCode": "99557"
  },
  {
   "id": 9402222003,
   "districtId": 9402222,
-  "name": "YELENGGA"
+  "districtName": "YALENGGA",
+  "name": "YELENGGA",
+  "postalCode": ""
  },
  {
   "id": 9402222004,
   "districtId": 9402222,
-  "name": "WANANUK"
+  "districtName": "YALENGGA",
+  "name": "WANANUK",
+  "postalCode": "99557"
  },
  {
   "id": 9402222007,
   "districtId": 9402222,
-  "name": "PILIMO"
+  "districtName": "YALENGGA",
+  "name": "PILIMO",
+  "postalCode": "99557"
  },
  {
   "id": 9402222009,
   "districtId": 9402222,
-  "name": "AKOREK"
+  "districtName": "YALENGGA",
+  "name": "AKOREK",
+  "postalCode": "99557"
  },
  {
   "id": 9402222010,
   "districtId": 9402222,
-  "name": "MANILI"
+  "districtName": "YALENGGA",
+  "name": "MANILI",
+  "postalCode": "99557"
  },
  {
   "id": 9402222011,
   "districtId": 9402222,
-  "name": "AIPAKMA"
+  "districtName": "YALENGGA",
+  "name": "AIPAKMA",
+  "postalCode": "99557"
  },
  {
   "id": 9402222012,
   "districtId": 9402222,
-  "name": "WUGURIMA"
+  "districtName": "YALENGGA",
+  "name": "WUGURIMA",
+  "postalCode": "99557"
  },
  {
   "id": 9402222013,
   "districtId": 9402222,
-  "name": "BITTI"
+  "districtName": "YALENGGA",
+  "name": "BITTI",
+  "postalCode": "99557"
  },
  {
   "id": 9402222014,
   "districtId": 9402222,
-  "name": "WANANUK DUA"
+  "districtName": "YALENGGA",
+  "name": "WANANUK DUA",
+  "postalCode": ""
  }
 ]

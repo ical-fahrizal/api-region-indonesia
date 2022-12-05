@@ -2,91 +2,127 @@
  {
   "id": 3510180001,
   "districtId": 3510180,
-  "name": "PAKIS"
+  "districtName": "BANYUWANGI",
+  "name": "PAKIS",
+  "postalCode": "50772"
  },
  {
   "id": 3510180002,
   "districtId": 3510180,
-  "name": "SOBO"
+  "districtName": "BANYUWANGI",
+  "name": "SOBO",
+  "postalCode": "58172"
  },
  {
   "id": 3510180003,
   "districtId": 3510180,
-  "name": "KEBALENAN"
+  "districtName": "BANYUWANGI",
+  "name": "KEBALENAN",
+  "postalCode": "68417"
  },
  {
   "id": 3510180004,
   "districtId": 3510180,
-  "name": "PENGANJURAN"
+  "districtName": "BANYUWANGI",
+  "name": "PENGANJURAN",
+  "postalCode": "68416"
  },
  {
   "id": 3510180005,
   "districtId": 3510180,
-  "name": "TUKANGKAYU"
+  "districtName": "BANYUWANGI",
+  "name": "TUKANGKAYU",
+  "postalCode": "68416"
  },
  {
   "id": 3510180006,
   "districtId": 3510180,
-  "name": "KERTOSARI"
+  "districtName": "BANYUWANGI",
+  "name": "KERTOSARI",
+  "postalCode": "31668"
  },
  {
   "id": 3510180007,
   "districtId": 3510180,
-  "name": "KARANGREJO"
+  "districtName": "BANYUWANGI",
+  "name": "KARANGREJO",
+  "postalCode": "35387"
  },
  {
   "id": 3510180008,
   "districtId": 3510180,
-  "name": "KEPATIHAN"
+  "districtName": "BANYUWANGI",
+  "name": "KEPATIHAN",
+  "postalCode": "57652"
  },
  {
   "id": 3510180009,
   "districtId": 3510180,
-  "name": "PANDEREJO"
+  "districtName": "BANYUWANGI",
+  "name": "PANDEREJO",
+  "postalCode": "68415"
  },
  {
   "id": 3510180010,
   "districtId": 3510180,
-  "name": "SINGONEGARAN"
+  "districtName": "BANYUWANGI",
+  "name": "SINGONEGARAN",
+  "postalCode": "68415"
  },
  {
   "id": 3510180011,
   "districtId": 3510180,
-  "name": "TEMENGGUNGAN"
+  "districtName": "BANYUWANGI",
+  "name": "TEMENGGUNGAN",
+  "postalCode": "68412"
  },
  {
   "id": 3510180012,
   "districtId": 3510180,
-  "name": "KAMPUNG MELAYU"
+  "districtName": "BANYUWANGI",
+  "name": "KAMPUNG MELAYU",
+  "postalCode": "28124"
  },
  {
   "id": 3510180013,
   "districtId": 3510180,
-  "name": "KAMPUNGMANDAR"
+  "districtName": "BANYUWANGI",
+  "name": "KAMPUNGMANDAR",
+  "postalCode": ""
  },
  {
   "id": 3510180014,
   "districtId": 3510180,
-  "name": "LATENG"
+  "districtName": "BANYUWANGI",
+  "name": "LATENG",
+  "postalCode": "68413"
  },
  {
   "id": 3510180015,
   "districtId": 3510180,
-  "name": "SINGOTRUNAN"
+  "districtName": "BANYUWANGI",
+  "name": "SINGOTRUNAN",
+  "postalCode": "68414"
  },
  {
   "id": 3510180016,
   "districtId": 3510180,
-  "name": "PENGANTIGAN"
+  "districtName": "BANYUWANGI",
+  "name": "PENGANTIGAN",
+  "postalCode": "68414"
  },
  {
   "id": 3510180017,
   "districtId": 3510180,
-  "name": "SUMBERREJO"
+  "districtName": "BANYUWANGI",
+  "name": "SUMBERREJO",
+  "postalCode": "59184"
  },
  {
   "id": 3510180018,
   "districtId": 3510180,
-  "name": "TAMAN BARU"
+  "districtName": "BANYUWANGI",
+  "name": "TAMAN BARU",
+  "postalCode": "35592"
  }
 ]

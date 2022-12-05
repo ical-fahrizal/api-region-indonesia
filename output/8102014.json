@@ -2,61 +2,85 @@
  {
   "id": 8102014001,
   "districtId": 8102014,
-  "name": "WARWUT"
+  "districtName": "HOAT SORBAY",
+  "name": "WARWUT",
+  "postalCode": "97611"
  },
  {
   "id": 8102014002,
   "districtId": 8102014,
-  "name": "WAB"
+  "districtName": "HOAT SORBAY",
+  "name": "WAB",
+  "postalCode": "97611"
  },
  {
   "id": 8102014003,
   "districtId": 8102014,
-  "name": "ARSO"
+  "districtName": "HOAT SORBAY",
+  "name": "ARSO",
+  "postalCode": "97611"
  },
  {
   "id": 8102014004,
   "districtId": 8102014,
-  "name": "WATNGIL"
+  "districtName": "HOAT SORBAY",
+  "name": "WATNGIL",
+  "postalCode": "97611"
  },
  {
   "id": 8102014005,
   "districtId": 8102014,
-  "name": "OHOIBADAR"
+  "districtName": "HOAT SORBAY",
+  "name": "OHOIBADAR",
+  "postalCode": "97611"
  },
  {
   "id": 8102014007,
   "districtId": 8102014,
-  "name": "LETVUAN"
+  "districtName": "HOAT SORBAY",
+  "name": "LETVUAN",
+  "postalCode": "97611"
  },
  {
   "id": 8102014008,
   "districtId": 8102014,
-  "name": "TETOAT"
+  "districtName": "HOAT SORBAY",
+  "name": "TETOAT",
+  "postalCode": "97611"
  },
  {
   "id": 8102014009,
   "districtId": 8102014,
-  "name": "NGURSIT"
+  "districtName": "HOAT SORBAY",
+  "name": "NGURSIT",
+  "postalCode": "97611"
  },
  {
   "id": 8102014010,
   "districtId": 8102014,
-  "name": "MADWAT"
+  "districtName": "HOAT SORBAY",
+  "name": "MADWAT",
+  "postalCode": "97611"
  },
  {
   "id": 8102014011,
   "districtId": 8102014,
-  "name": "WIRIN"
+  "districtName": "HOAT SORBAY",
+  "name": "WIRIN",
+  "postalCode": "97611"
  },
  {
   "id": 8102014012,
   "districtId": 8102014,
-  "name": "DIAN PULAU"
+  "districtName": "HOAT SORBAY",
+  "name": "DIAN PULAU",
+  "postalCode": "97611"
  },
  {
   "id": 8102014013,
   "districtId": 8102014,
-  "name": "DIAN DARAT"
+  "districtName": "HOAT SORBAY",
+  "name": "DIAN DARAT",
+  "postalCode": "97611"
  }
 ]

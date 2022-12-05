@@ -2,21 +2,29 @@
  {
   "id": 1304090001,
   "districtId": 1304090,
-  "name": "BATU MANJULUA"
+  "districtName": "KUPITAN",
+  "name": "BATU MANJULUA",
+  "postalCode": ""
  },
  {
   "id": 1304090002,
   "districtId": 1304090,
-  "name": "PADANG SIBUSUAK"
+  "districtName": "KUPITAN",
+  "name": "PADANG SIBUSUAK",
+  "postalCode": ""
  },
  {
   "id": 1304090003,
   "districtId": 1304090,
-  "name": "PAMUATAN"
+  "districtName": "KUPITAN",
+  "name": "PAMUATAN",
+  "postalCode": "27564"
  },
  {
   "id": 1304090004,
   "districtId": 1304090,
-  "name": "KAMPUNG BARU"
+  "districtName": "KUPITAN",
+  "name": "KAMPUNG BARU",
+  "postalCode": "24652"
  }
 ]

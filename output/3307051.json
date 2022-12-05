@@ -2,76 +2,106 @@
  {
   "id": 3307051001,
   "districtId": 3307051,
-  "name": "SEMPOL"
+  "districtName": "SUKOHARJO",
+  "name": "SEMPOL",
+  "postalCode": "56362"
  },
  {
   "id": 3307051002,
   "districtId": 3307051,
-  "name": "KARANGANYAR"
+  "districtName": "SUKOHARJO",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  },
  {
   "id": 3307051003,
   "districtId": 3307051,
-  "name": "ROGOJATI"
+  "districtName": "SUKOHARJO",
+  "name": "ROGOJATI",
+  "postalCode": "56362"
  },
  {
   "id": 3307051004,
   "districtId": 3307051,
-  "name": "SUKOHARJO"
+  "districtName": "SUKOHARJO",
+  "name": "SUKOHARJO",
+  "postalCode": "32383"
  },
  {
   "id": 3307051005,
   "districtId": 3307051,
-  "name": "MERGOSARI"
+  "districtName": "SUKOHARJO",
+  "name": "MERGOSARI",
+  "postalCode": "56362"
  },
  {
   "id": 3307051006,
   "districtId": 3307051,
-  "name": "KUPANGAN"
+  "districtName": "SUKOHARJO",
+  "name": "KUPANGAN",
+  "postalCode": "56362"
  },
  {
   "id": 3307051007,
   "districtId": 3307051,
-  "name": "KAJEKSAN"
+  "districtName": "SUKOHARJO",
+  "name": "KAJEKSAN",
+  "postalCode": "59314"
  },
  {
   "id": 3307051009,
   "districtId": 3307051,
-  "name": "GUMIWANG"
+  "districtName": "SUKOHARJO",
+  "name": "GUMIWANG",
+  "postalCode": "53392"
  },
  {
   "id": 3307051010,
   "districtId": 3307051,
-  "name": "PLODONGAN"
+  "districtName": "SUKOHARJO",
+  "name": "PLODONGAN",
+  "postalCode": "56362"
  },
  {
   "id": 3307051011,
   "districtId": 3307051,
-  "name": "SUROYUDAN"
+  "districtName": "SUKOHARJO",
+  "name": "SUROYUDAN",
+  "postalCode": "56362"
  },
  {
   "id": 3307051013,
   "districtId": 3307051,
-  "name": "PUCUNGWETAN"
+  "districtName": "SUKOHARJO",
+  "name": "PUCUNGWETAN",
+  "postalCode": ""
  },
  {
   "id": 3307051014,
   "districtId": 3307051,
-  "name": "TLOGO"
+  "districtName": "SUKOHARJO",
+  "name": "TLOGO",
+  "postalCode": "56353"
  },
  {
   "id": 3307051015,
   "districtId": 3307051,
-  "name": "KALIBENING"
+  "districtName": "SUKOHARJO",
+  "name": "KALIBENING",
+  "postalCode": "35377"
  },
  {
   "id": 3307051016,
   "districtId": 3307051,
-  "name": "GARUNGLOR"
+  "districtName": "SUKOHARJO",
+  "name": "GARUNGLOR",
+  "postalCode": "56362"
  },
  {
   "id": 3307051017,
   "districtId": 3307051,
-  "name": "JEBENGPLAMPITAN"
+  "districtName": "SUKOHARJO",
+  "name": "JEBENGPLAMPITAN",
+  "postalCode": "56362"
  }
 ]

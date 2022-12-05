@@ -2,71 +2,99 @@
  {
   "id": 1407030001,
   "districtId": 1407030,
-  "name": "RAMBAH SAMO BARAT"
+  "districtName": "RAMBAH SAMO",
+  "name": "RAMBAH SAMO BARAT",
+  "postalCode": "28565"
  },
  {
   "id": 1407030002,
   "districtId": 1407030,
-  "name": "MARGA MULYA"
+  "districtName": "RAMBAH SAMO",
+  "name": "MARGA MULYA",
+  "postalCode": "28565"
  },
  {
   "id": 1407030003,
   "districtId": 1407030,
-  "name": "RAMBAH SAMO"
+  "districtName": "RAMBAH SAMO",
+  "name": "RAMBAH SAMO",
+  "postalCode": "28565"
  },
  {
   "id": 1407030004,
   "districtId": 1407030,
-  "name": "KARYA MULYA"
+  "districtName": "RAMBAH SAMO",
+  "name": "KARYA MULYA",
+  "postalCode": "28565"
  },
  {
   "id": 1407030005,
   "districtId": 1407030,
-  "name": "RAMBAH BARU"
+  "districtName": "RAMBAH SAMO",
+  "name": "RAMBAH BARU",
+  "postalCode": "28565"
  },
  {
   "id": 1407030006,
   "districtId": 1407030,
-  "name": "RAMBAH UTAMA"
+  "districtName": "RAMBAH SAMO",
+  "name": "RAMBAH UTAMA",
+  "postalCode": "28565"
  },
  {
   "id": 1407030007,
   "districtId": 1407030,
-  "name": "PASIR MAKMUR"
+  "districtName": "RAMBAH SAMO",
+  "name": "PASIR MAKMUR",
+  "postalCode": "28565"
  },
  {
   "id": 1407030008,
   "districtId": 1407030,
-  "name": "MASDA MAKMUR"
+  "districtName": "RAMBAH SAMO",
+  "name": "MASDA MAKMUR",
+  "postalCode": "28565"
  },
  {
   "id": 1407030009,
   "districtId": 1407030,
-  "name": "LANGKITIN"
+  "districtName": "RAMBAH SAMO",
+  "name": "LANGKITIN",
+  "postalCode": "28565"
  },
  {
   "id": 1407030010,
   "districtId": 1407030,
-  "name": "LUBUK NAPAL"
+  "districtName": "RAMBAH SAMO",
+  "name": "LUBUK NAPAL",
+  "postalCode": "28565"
  },
  {
   "id": 1407030011,
   "districtId": 1407030,
-  "name": "SUNGAI SALAK"
+  "districtName": "RAMBAH SAMO",
+  "name": "SUNGAI SALAK",
+  "postalCode": "29261"
  },
  {
   "id": 1407030012,
   "districtId": 1407030,
-  "name": "TELUK AUR"
+  "districtName": "RAMBAH SAMO",
+  "name": "TELUK AUR",
+  "postalCode": "28565"
  },
  {
   "id": 1407030013,
   "districtId": 1407030,
-  "name": "LUBUK BILANG"
+  "districtName": "RAMBAH SAMO",
+  "name": "LUBUK BILANG",
+  "postalCode": "28565"
  },
  {
   "id": 1407030014,
   "districtId": 1407030,
-  "name": "SUNGAI KUNING"
+  "districtName": "RAMBAH SAMO",
+  "name": "SUNGAI KUNING",
+  "postalCode": "29563"
  }
 ]

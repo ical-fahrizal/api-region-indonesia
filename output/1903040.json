@@ -2,66 +2,92 @@
  {
   "id": 1903040001,
   "districtId": 1903040,
-  "name": "KUNDI"
+  "districtName": "SIMPANG TERITIP",
+  "name": "KUNDI",
+  "postalCode": "33366"
  },
  {
   "id": 1903040002,
   "districtId": 1903040,
-  "name": "SIMPANG TIGA"
+  "districtName": "SIMPANG TERITIP",
+  "name": "SIMPANG TIGA",
+  "postalCode": "23772"
  },
  {
   "id": 1903040003,
   "districtId": 1903040,
-  "name": "MAYANG"
+  "districtName": "SIMPANG TERITIP",
+  "name": "MAYANG",
+  "postalCode": "21183"
  },
  {
   "id": 1903040004,
   "districtId": 1903040,
-  "name": "RAMBAT"
+  "districtName": "SIMPANG TERITIP",
+  "name": "RAMBAT",
+  "postalCode": "33366"
  },
  {
   "id": 1903040005,
   "districtId": 1903040,
-  "name": "SIMPANG GONG"
+  "districtName": "SIMPANG TERITIP",
+  "name": "SIMPANG GONG",
+  "postalCode": ""
  },
  {
   "id": 1903040006,
   "districtId": 1903040,
-  "name": "PELANGAS"
+  "districtName": "SIMPANG TERITIP",
+  "name": "PELANGAS",
+  "postalCode": "33366"
  },
  {
   "id": 1903040007,
   "districtId": 1903040,
-  "name": "BERANG"
+  "districtName": "SIMPANG TERITIP",
+  "name": "BERANG",
+  "postalCode": "33366"
  },
  {
   "id": 1903040008,
   "districtId": 1903040,
-  "name": "IBUL"
+  "districtName": "SIMPANG TERITIP",
+  "name": "IBUL",
+  "postalCode": "29564"
  },
  {
   "id": 1903040009,
   "districtId": 1903040,
-  "name": "PERADONG"
+  "districtName": "SIMPANG TERITIP",
+  "name": "PERADONG",
+  "postalCode": "33366"
  },
  {
   "id": 1903040010,
   "districtId": 1903040,
-  "name": "AIR NYATOH"
+  "districtName": "SIMPANG TERITIP",
+  "name": "AIR NYATOH",
+  "postalCode": "33366"
  },
  {
   "id": 1903040011,
   "districtId": 1903040,
-  "name": "PANGEK"
+  "districtName": "SIMPANG TERITIP",
+  "name": "PANGEK",
+  "postalCode": "33366"
  },
  {
   "id": 1903040012,
   "districtId": 1903040,
-  "name": "AIR MENDUYUNG"
+  "districtName": "SIMPANG TERITIP",
+  "name": "AIR MENDUYUNG",
+  "postalCode": "33366"
  },
  {
   "id": 1903040013,
   "districtId": 1903040,
-  "name": "BUKIT TERAK"
+  "districtName": "SIMPANG TERITIP",
+  "name": "BUKIT TERAK",
+  "postalCode": "33366"
  }
 ]

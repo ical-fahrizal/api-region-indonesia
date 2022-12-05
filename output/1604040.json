@@ -2,111 +2,155 @@
  {
   "id": 1604040001,
   "districtId": 1604040,
-  "name": "BANGKE"
+  "districtName": "KOTA AGUNG",
+  "name": "BANGKE",
+  "postalCode": "31462"
  },
  {
   "id": 1604040002,
   "districtId": 1604040,
-  "name": "TEBAT LANGSAT"
+  "districtName": "KOTA AGUNG",
+  "name": "TEBAT LANGSAT",
+  "postalCode": "31462"
  },
  {
   "id": 1604040003,
   "districtId": 1604040,
-  "name": "TUNGGUL BUTE"
+  "districtName": "KOTA AGUNG",
+  "name": "TUNGGUL BUTE",
+  "postalCode": "31462"
  },
  {
   "id": 1604040004,
   "districtId": 1604040,
-  "name": "TANJUNG RAMAN"
+  "districtName": "KOTA AGUNG",
+  "name": "TANJUNG RAMAN",
+  "postalCode": "31462"
  },
  {
   "id": 1604040005,
   "districtId": 1604040,
-  "name": "GUNUNG LEWAT"
+  "districtName": "KOTA AGUNG",
+  "name": "GUNUNG LEWAT",
+  "postalCode": "31462"
  },
  {
   "id": 1604040006,
   "districtId": 1604040,
-  "name": "SINGAPURA"
+  "districtName": "KOTA AGUNG",
+  "name": "SINGAPURA",
+  "postalCode": "31452"
  },
  {
   "id": 1604040007,
   "districtId": 1604040,
-  "name": "KEBON JATI"
+  "districtName": "KOTA AGUNG",
+  "name": "KEBON JATI",
+  "postalCode": "31462"
  },
  {
   "id": 1604040008,
   "districtId": 1604040,
-  "name": "BINTUHAN"
+  "districtName": "KOTA AGUNG",
+  "name": "BINTUHAN",
+  "postalCode": "31462"
  },
  {
   "id": 1604040009,
   "districtId": 1604040,
-  "name": "MUNTAR ALAM BARU"
+  "districtName": "KOTA AGUNG",
+  "name": "MUNTAR ALAM BARU",
+  "postalCode": "31462"
  },
  {
   "id": 1604040010,
   "districtId": 1604040,
-  "name": "MUNTAR ALAM LAMA"
+  "districtName": "KOTA AGUNG",
+  "name": "MUNTAR ALAM LAMA",
+  "postalCode": "31462"
  },
  {
   "id": 1604040011,
   "districtId": 1604040,
-  "name": "PANDAN ARANG ULU"
+  "districtName": "KOTA AGUNG",
+  "name": "PANDAN ARANG ULU",
+  "postalCode": "31462"
  },
  {
   "id": 1604040012,
   "districtId": 1604040,
-  "name": "KARANG ENDAH"
+  "districtName": "KOTA AGUNG",
+  "name": "KARANG ENDAH",
+  "postalCode": "32121"
  },
  {
   "id": 1604040013,
   "districtId": 1604040,
-  "name": "LAWANG AGUNG"
+  "districtName": "KOTA AGUNG",
+  "name": "LAWANG AGUNG",
+  "postalCode": "37111"
  },
  {
   "id": 1604040014,
   "districtId": 1604040,
-  "name": "KOTA AGUNG"
+  "districtName": "KOTA AGUNG",
+  "name": "KOTA AGUNG",
+  "postalCode": "31462"
  },
  {
   "id": 1604040015,
   "districtId": 1604040,
-  "name": "SUKARAME"
+  "districtName": "KOTA AGUNG",
+  "name": "SUKARAME",
+  "postalCode": "24357"
  },
  {
   "id": 1604040016,
   "districtId": 1604040,
-  "name": "KARANG AGUNG"
+  "districtName": "KOTA AGUNG",
+  "name": "KARANG AGUNG",
+  "postalCode": "31315"
  },
  {
   "id": 1604040017,
   "districtId": 1604040,
-  "name": "SUKARAJA"
+  "districtName": "KOTA AGUNG",
+  "name": "SUKARAJA",
+  "postalCode": "21256"
  },
  {
   "id": 1604040018,
   "districtId": 1604040,
-  "name": "GEDUNG AGUNG"
+  "districtName": "KOTA AGUNG",
+  "name": "GEDUNG AGUNG",
+  "postalCode": "31452"
  },
  {
   "id": 1604040019,
   "districtId": 1604040,
-  "name": "MUARA GULA"
+  "districtName": "KOTA AGUNG",
+  "name": "MUARA GULA",
+  "postalCode": "31462"
  },
  {
   "id": 1604040020,
   "districtId": 1604040,
-  "name": "TANJUNG BULAN"
+  "districtName": "KOTA AGUNG",
+  "name": "TANJUNG BULAN",
+  "postalCode": "32361"
  },
  {
   "id": 1604040037,
   "districtId": 1604040,
-  "name": "TANJUNG BERINGIN"
+  "districtName": "KOTA AGUNG",
+  "name": "TANJUNG BERINGIN",
+  "postalCode": "22161"
  },
  {
   "id": 1604040039,
   "districtId": 1604040,
-  "name": "PAGAR RUYUNG"
+  "districtName": "KOTA AGUNG",
+  "name": "PAGAR RUYUNG",
+  "postalCode": "31462"
  }
 ]

@@ -2,21 +2,29 @@
  {
   "id": 7406010001,
   "districtId": 7406010,
-  "name": "TIRONGKOTUA"
+  "districtName": "KABAENA",
+  "name": "TIRONGKOTUA",
+  "postalCode": "93781"
  },
  {
   "id": 7406010002,
   "districtId": 7406010,
-  "name": "RAHADOPI"
+  "districtName": "KABAENA",
+  "name": "RAHADOPI",
+  "postalCode": "93781"
  },
  {
   "id": 7406010003,
   "districtId": 7406010,
-  "name": "TEOMOKOLE"
+  "districtName": "KABAENA",
+  "name": "TEOMOKOLE",
+  "postalCode": "93781"
  },
  {
   "id": 7406010004,
   "districtId": 7406010,
-  "name": "RAHAMPUU"
+  "districtName": "KABAENA",
+  "name": "RAHAMPUU",
+  "postalCode": "93781"
  }
 ]

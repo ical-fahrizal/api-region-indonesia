@@ -2,111 +2,155 @@
  {
   "id": 3316090002,
   "districtId": 3316090,
-  "name": "SEMANGGI"
+  "districtName": "JEPON",
+  "name": "SEMANGGI",
+  "postalCode": "58261"
  },
  {
   "id": 3316090003,
   "districtId": 3316090,
-  "name": "NGAMPON"
+  "districtName": "JEPON",
+  "name": "NGAMPON",
+  "postalCode": "57352"
  },
  {
   "id": 3316090004,
   "districtId": 3316090,
-  "name": "JOMBLANG"
+  "districtName": "JEPON",
+  "name": "JOMBLANG",
+  "postalCode": "50256"
  },
  {
   "id": 3316090005,
   "districtId": 3316090,
-  "name": "PALON"
+  "districtName": "JEPON",
+  "name": "PALON",
+  "postalCode": "58261"
  },
  {
   "id": 3316090006,
   "districtId": 3316090,
-  "name": "BANGSRI"
+  "districtName": "JEPON",
+  "name": "BANGSRI",
+  "postalCode": "59453"
  },
  {
   "id": 3316090007,
   "districtId": 3316090,
-  "name": "SUMURBOTO"
+  "districtName": "JEPON",
+  "name": "SUMURBOTO",
+  "postalCode": "50269"
  },
  {
   "id": 3316090009,
   "districtId": 3316090,
-  "name": "TURIREJO"
+  "districtName": "JEPON",
+  "name": "TURIREJO",
+  "postalCode": "59517"
  },
  {
   "id": 3316090010,
   "districtId": 3316090,
-  "name": "SEMAMPIR"
+  "districtName": "JEPON",
+  "name": "SEMAMPIR",
+  "postalCode": "53418"
  },
  {
   "id": 3316090011,
   "districtId": 3316090,
-  "name": "KEMIRI"
+  "districtName": "JEPON",
+  "name": "KEMIRI",
+  "postalCode": "41352"
  },
  {
   "id": 3316090012,
   "districtId": 3316090,
-  "name": "TEMPELLEMAHBANG"
+  "districtName": "JEPON",
+  "name": "TEMPELLEMAHBANG",
+  "postalCode": "58261"
  },
  {
   "id": 3316090013,
   "districtId": 3316090,
-  "name": "JEPON"
+  "districtName": "JEPON",
+  "name": "JEPON",
+  "postalCode": "58261"
  },
  {
   "id": 3316090014,
   "districtId": 3316090,
-  "name": "SESO"
+  "districtName": "JEPON",
+  "name": "SESO",
+  "postalCode": "58261"
  },
  {
   "id": 3316090015,
   "districtId": 3316090,
-  "name": "BALONG"
+  "districtName": "JEPON",
+  "name": "BALONG",
+  "postalCode": "45573"
  },
  {
   "id": 3316090017,
   "districtId": 3316090,
-  "name": "NGLAROHGUNUNG"
+  "districtName": "JEPON",
+  "name": "NGLAROHGUNUNG",
+  "postalCode": "58261"
  },
  {
   "id": 3316090018,
   "districtId": 3316090,
-  "name": "KAWENGAN"
+  "districtName": "JEPON",
+  "name": "KAWENGAN",
+  "postalCode": "58261"
  },
  {
   "id": 3316090019,
   "districtId": 3316090,
-  "name": "GERSI"
+  "districtName": "JEPON",
+  "name": "GERSI",
+  "postalCode": "58261"
  },
  {
   "id": 3316090020,
   "districtId": 3316090,
-  "name": "GEDANGDOWO"
+  "districtName": "JEPON",
+  "name": "GEDANGDOWO",
+  "postalCode": "58261"
  },
  {
   "id": 3316090021,
   "districtId": 3316090,
-  "name": "PULEDAGEL"
+  "districtName": "JEPON",
+  "name": "PULEDAGEL",
+  "postalCode": "58261"
  },
  {
   "id": 3316090022,
   "districtId": 3316090,
-  "name": "BACEM"
+  "districtName": "JEPON",
+  "name": "BACEM",
+  "postalCode": "58253"
  },
  {
   "id": 3316090023,
   "districtId": 3316090,
-  "name": "JATIREJO"
+  "districtName": "JEPON",
+  "name": "JATIREJO",
+  "postalCode": "23661"
  },
  {
   "id": 3316090024,
   "districtId": 3316090,
-  "name": "SOKO"
+  "districtName": "JEPON",
+  "name": "SOKO",
+  "postalCode": "54174"
  },
  {
   "id": 3316090025,
   "districtId": 3316090,
-  "name": "WARU"
+  "districtName": "JEPON",
+  "name": "WARU",
+  "postalCode": "45252"
  }
 ]

@@ -2,46 +2,64 @@
  {
   "id": 1503051001,
   "districtId": 1503051,
-  "name": "LUBUK KEPAYANG"
+  "districtName": "AIR HITAM",
+  "name": "LUBUK KEPAYANG",
+  "postalCode": "37491"
  },
  {
   "id": 1503051002,
   "districtId": 1503051,
-  "name": "DUSUN BARU"
+  "districtName": "AIR HITAM",
+  "name": "DUSUN BARU",
+  "postalCode": "37162"
  },
  {
   "id": 1503051003,
   "districtId": 1503051,
-  "name": "SEMURUNG"
+  "districtName": "AIR HITAM",
+  "name": "SEMURUNG",
+  "postalCode": "37491"
  },
  {
   "id": 1503051004,
   "districtId": 1503051,
-  "name": "JERNIH"
+  "districtName": "AIR HITAM",
+  "name": "JERNIH",
+  "postalCode": "37491"
  },
  {
   "id": 1503051005,
   "districtId": 1503051,
-  "name": "LUBUK JERING"
+  "districtName": "AIR HITAM",
+  "name": "LUBUK JERING",
+  "postalCode": "28671"
  },
  {
   "id": 1503051006,
   "districtId": 1503051,
-  "name": "MENTAWAK BARU"
+  "districtName": "AIR HITAM",
+  "name": "MENTAWAK BARU",
+  "postalCode": "37491"
  },
  {
   "id": 1503051007,
   "districtId": 1503051,
-  "name": "PEMATANG KABAU"
+  "districtName": "AIR HITAM",
+  "name": "PEMATANG KABAU",
+  "postalCode": "37491"
  },
  {
   "id": 1503051008,
   "districtId": 1503051,
-  "name": "BUKIT SUBAN"
+  "districtName": "AIR HITAM",
+  "name": "BUKIT SUBAN",
+  "postalCode": "37491"
  },
  {
   "id": 1503051015,
   "districtId": 1503051,
-  "name": "MENTAWAK ULU"
+  "districtName": "AIR HITAM",
+  "name": "MENTAWAK ULU",
+  "postalCode": "37491"
  }
 ]

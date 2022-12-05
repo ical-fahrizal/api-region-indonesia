@@ -2,71 +2,99 @@
  {
   "id": 9416034001,
   "districtId": 9416034,
-  "name": "SARUK"
+  "districtName": "UBAHAK",
+  "name": "SARUK",
+  "postalCode": "99582"
  },
  {
   "id": 9416034002,
   "districtId": 9416034,
-  "name": "UBAHAK"
+  "districtName": "UBAHAK",
+  "name": "UBAHAK",
+  "postalCode": "99582"
  },
  {
   "id": 9416034003,
   "districtId": 9416034,
-  "name": "SOSOMIKMA"
+  "districtName": "UBAHAK",
+  "name": "SOSOMIKMA",
+  "postalCode": ""
  },
  {
   "id": 9416034004,
   "districtId": 9416034,
-  "name": "PINI"
+  "districtName": "UBAHAK",
+  "name": "PINI",
+  "postalCode": "99582"
  },
  {
   "id": 9416034006,
   "districtId": 9416034,
-  "name": "MABIEN"
+  "districtName": "UBAHAK",
+  "name": "MABIEN",
+  "postalCode": "99582"
  },
  {
   "id": 9416034008,
   "districtId": 9416034,
-  "name": "SILONG"
+  "districtName": "UBAHAK",
+  "name": "SILONG",
+  "postalCode": "99582"
  },
  {
   "id": 9416034009,
   "districtId": 9416034,
-  "name": "NURAP"
+  "districtName": "UBAHAK",
+  "name": "NURAP",
+  "postalCode": "99582"
  },
  {
   "id": 9416034010,
   "districtId": 9416034,
-  "name": "WAMUHUK"
+  "districtName": "UBAHAK",
+  "name": "WAMUHUK",
+  "postalCode": ""
  },
  {
   "id": 9416034011,
   "districtId": 9416034,
-  "name": "WELILE"
+  "districtName": "UBAHAK",
+  "name": "WELILE",
+  "postalCode": "99582"
  },
  {
   "id": 9416034012,
   "districtId": 9416034,
-  "name": "KIBIANGGEN"
+  "districtName": "UBAHAK",
+  "name": "KIBIANGGEN",
+  "postalCode": "99582"
  },
  {
   "id": 9416034014,
   "districtId": 9416034,
-  "name": "TOLOMPING"
+  "districtName": "UBAHAK",
+  "name": "TOLOMPING",
+  "postalCode": ""
  },
  {
   "id": 9416034015,
   "districtId": 9416034,
-  "name": "OBLIN"
+  "districtName": "UBAHAK",
+  "name": "OBLIN",
+  "postalCode": "99582"
  },
  {
   "id": 9416034016,
   "districtId": 9416034,
-  "name": "KOLUONG"
+  "districtName": "UBAHAK",
+  "name": "KOLUONG",
+  "postalCode": ""
  },
  {
   "id": 9416034018,
   "districtId": 9416034,
-  "name": "BISIFAK"
+  "districtName": "UBAHAK",
+  "name": "BISIFAK",
+  "postalCode": "99582"
  }
 ]

@@ -2,21 +2,29 @@
  {
   "id": 3578230001,
   "districtId": 3578230,
-  "name": "AMPEL"
+  "districtName": "SEMAMPIR",
+  "name": "AMPEL",
+  "postalCode": "45456"
  },
  {
   "id": 3578230002,
   "districtId": 3578230,
-  "name": "SIDOTOPO"
+  "districtName": "SEMAMPIR",
+  "name": "SIDOTOPO",
+  "postalCode": "60152"
  },
  {
   "id": 3578230003,
   "districtId": 3578230,
-  "name": "PEGIRIAN"
+  "districtName": "SEMAMPIR",
+  "name": "PEGIRIAN",
+  "postalCode": "60153"
  },
  {
   "id": 3578230004,
   "districtId": 3578230,
-  "name": "WONOKUSUMO"
+  "districtName": "SEMAMPIR",
+  "name": "WONOKUSUMO",
+  "postalCode": "61382"
  }
 ]

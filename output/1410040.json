@@ -2,61 +2,85 @@
  {
   "id": 1410040001,
   "districtId": 1410040,
-  "name": "BANTAR"
+  "districtName": "RANGSANG BARAT",
+  "name": "BANTAR",
+  "postalCode": "28755"
  },
  {
   "id": 1410040002,
   "districtId": 1410040,
-  "name": "ANAK SETATAH"
+  "districtName": "RANGSANG BARAT",
+  "name": "ANAK SETATAH",
+  "postalCode": "28755"
  },
  {
   "id": 1410040003,
   "districtId": 1410040,
-  "name": "SEGOMENG"
+  "districtName": "RANGSANG BARAT",
+  "name": "SEGOMENG",
+  "postalCode": "28755"
  },
  {
   "id": 1410040004,
   "districtId": 1410040,
-  "name": "SIALANG PASUNG"
+  "districtName": "RANGSANG BARAT",
+  "name": "SIALANG PASUNG",
+  "postalCode": "28755"
  },
  {
   "id": 1410040005,
   "districtId": 1410040,
-  "name": "LEMANG"
+  "districtName": "RANGSANG BARAT",
+  "name": "LEMANG",
+  "postalCode": "28755"
  },
  {
   "id": 1410040006,
   "districtId": 1410040,
-  "name": "SUNGAI CINA"
+  "districtName": "RANGSANG BARAT",
+  "name": "SUNGAI CINA",
+  "postalCode": "28755"
  },
  {
   "id": 1410040007,
   "districtId": 1410040,
-  "name": "BINA MAJU"
+  "districtName": "RANGSANG BARAT",
+  "name": "BINA MAJU",
+  "postalCode": "28755"
  },
  {
   "id": 1410040008,
   "districtId": 1410040,
-  "name": "TELAGA BARU"
+  "districtName": "RANGSANG BARAT",
+  "name": "TELAGA BARU",
+  "postalCode": "28755"
  },
  {
   "id": 1410040009,
   "districtId": 1410040,
-  "name": "BOKOR"
+  "districtName": "RANGSANG BARAT",
+  "name": "BOKOR",
+  "postalCode": "28755"
  },
  {
   "id": 1410040015,
   "districtId": 1410040,
-  "name": "MELAI"
+  "districtName": "RANGSANG BARAT",
+  "name": "MELAI",
+  "postalCode": "28755"
  },
  {
   "id": 1410040016,
   "districtId": 1410040,
-  "name": "PERMAI"
+  "districtName": "RANGSANG BARAT",
+  "name": "PERMAI",
+  "postalCode": "28755"
  },
  {
   "id": 1410040017,
   "districtId": 1410040,
-  "name": "MEKAR BARU"
+  "districtName": "RANGSANG BARAT",
+  "name": "MEKAR BARU",
+  "postalCode": "21216"
  }
 ]

@@ -2,46 +2,64 @@
  {
   "id": 3204310001,
   "districtId": 3204310,
-  "name": "CIBEUNYING"
+  "districtName": "CIMENYAN",
+  "name": "CIBEUNYING",
+  "postalCode": "40191"
  },
  {
   "id": 3204310002,
   "districtId": 3204310,
-  "name": "PADASUKA"
+  "districtName": "CIMENYAN",
+  "name": "PADASUKA",
+  "postalCode": "44185"
  },
  {
   "id": 3204310003,
   "districtId": 3204310,
-  "name": "MANDALAMEKAR"
+  "districtName": "CIMENYAN",
+  "name": "MANDALAMEKAR",
+  "postalCode": "40193"
  },
  {
   "id": 3204310004,
   "districtId": 3204310,
-  "name": "CIKADUT"
+  "districtName": "CIMENYAN",
+  "name": "CIKADUT",
+  "postalCode": "40191"
  },
  {
   "id": 3204310005,
   "districtId": 3204310,
-  "name": "SINDANGLAYA"
+  "districtName": "CIMENYAN",
+  "name": "SINDANGLAYA",
+  "postalCode": "40195"
  },
  {
   "id": 3204310006,
   "districtId": 3204310,
-  "name": "MEKARMANIK"
+  "districtName": "CIMENYAN",
+  "name": "MEKARMANIK",
+  "postalCode": "40196"
  },
  {
   "id": 3204310007,
   "districtId": 3204310,
-  "name": "CIMENYAN"
+  "districtName": "CIMENYAN",
+  "name": "CIMENYAN",
+  "postalCode": "40197"
  },
  {
   "id": 3204310008,
   "districtId": 3204310,
-  "name": "MEKARSALUYU"
+  "districtName": "CIMENYAN",
+  "name": "MEKARSALUYU",
+  "postalCode": "40198"
  },
  {
   "id": 3204310009,
   "districtId": 3204310,
-  "name": "CIBURIAL"
+  "districtName": "CIMENYAN",
+  "name": "CIBURIAL",
+  "postalCode": "43271"
  }
 ]

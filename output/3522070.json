@@ -2,76 +2,106 @@
  {
   "id": 3522070002,
   "districtId": 3522070,
-  "name": "BARENG"
+  "districtName": "SUGIHWARAS",
+  "name": "BARENG",
+  "postalCode": "57414"
  },
  {
   "id": 3522070003,
   "districtId": 3522070,
-  "name": "ALASGUNG"
+  "districtName": "SUGIHWARAS",
+  "name": "ALASGUNG",
+  "postalCode": "62183"
  },
  {
   "id": 3522070004,
   "districtId": 3522070,
-  "name": "PANUNGGALAN"
+  "districtName": "SUGIHWARAS",
+  "name": "PANUNGGALAN",
+  "postalCode": "53393"
  },
  {
   "id": 3522070005,
   "districtId": 3522070,
-  "name": "WEDORO"
+  "districtName": "SUGIHWARAS",
+  "name": "WEDORO",
+  "postalCode": "58161"
  },
  {
   "id": 3522070007,
   "districtId": 3522070,
-  "name": "SIWALAN"
+  "districtName": "SUGIHWARAS",
+  "name": "SIWALAN",
+  "postalCode": "50162"
  },
  {
   "id": 3522070008,
   "districtId": 3522070,
-  "name": "GLAGAHAN"
+  "districtName": "SUGIHWARAS",
+  "name": "GLAGAHAN",
+  "postalCode": "61461"
  },
  {
   "id": 3522070009,
   "districtId": 3522070,
-  "name": "PANEMON"
+  "districtName": "SUGIHWARAS",
+  "name": "PANEMON",
+  "postalCode": "62183"
  },
  {
   "id": 3522070010,
   "districtId": 3522070,
-  "name": "SUGIHWARAS"
+  "districtName": "SUGIHWARAS",
+  "name": "SUGIHWARAS",
+  "postalCode": "54363"
  },
  {
   "id": 3522070011,
   "districtId": 3522070,
-  "name": "TRATE"
+  "districtName": "SUGIHWARAS",
+  "name": "TRATE",
+  "postalCode": "61114"
  },
  {
   "id": 3522070012,
   "districtId": 3522070,
-  "name": "NGLAJANG"
+  "districtName": "SUGIHWARAS",
+  "name": "NGLAJANG",
+  "postalCode": "62183"
  },
  {
   "id": 3522070013,
   "districtId": 3522070,
-  "name": "KEDUNGDOWO"
+  "districtName": "SUGIHWARAS",
+  "name": "KEDUNGDOWO",
+  "postalCode": "57384"
  },
  {
   "id": 3522070014,
   "districtId": 3522070,
-  "name": "GLAGAH WANGI"
+  "districtName": "SUGIHWARAS",
+  "name": "GLAGAH WANGI",
+  "postalCode": "57474"
  },
  {
   "id": 3522070015,
   "districtId": 3522070,
-  "name": "JATITENGAH"
+  "districtName": "SUGIHWARAS",
+  "name": "JATITENGAH",
+  "postalCode": "45458"
  },
  {
   "id": 3522070016,
   "districtId": 3522070,
-  "name": "BALONGREJO"
+  "districtName": "SUGIHWARAS",
+  "name": "BALONGREJO",
+  "postalCode": "58253"
  },
  {
   "id": 3522070017,
   "districtId": 3522070,
-  "name": "GENJOR"
+  "districtName": "SUGIHWARAS",
+  "name": "GENJOR",
+  "postalCode": "62183"
  }
 ]

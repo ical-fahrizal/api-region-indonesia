@@ -2,26 +2,36 @@
  {
   "id": 9403231001,
   "districtId": 9403231,
-  "name": "BABRONGKO"
+  "districtName": "EBUNGFAU",
+  "name": "BABRONGKO",
+  "postalCode": ""
  },
  {
   "id": 9403231002,
   "districtId": 9403231,
-  "name": "SIMPORO"
+  "districtName": "EBUNGFAU",
+  "name": "SIMPORO",
+  "postalCode": ""
  },
  {
   "id": 9403231003,
   "districtId": 9403231,
-  "name": "KHAMEYAKA"
+  "districtName": "EBUNGFAU",
+  "name": "KHAMEYAKA",
+  "postalCode": ""
  },
  {
   "id": 9403231004,
   "districtId": 9403231,
-  "name": "ATABAR"
+  "districtName": "EBUNGFAU",
+  "name": "ATABAR",
+  "postalCode": ""
  },
  {
   "id": 9403231005,
   "districtId": 9403231,
-  "name": "EBUNGFA"
+  "districtName": "EBUNGFAU",
+  "name": "EBUNGFA",
+  "postalCode": "99352"
  }
 ]

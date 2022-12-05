@@ -2,36 +2,50 @@
  {
   "id": 7204041001,
   "districtId": 7204041,
-  "name": "HANGGIRA"
+  "districtName": "LORE TENGAH",
+  "name": "HANGGIRA",
+  "postalCode": "94654"
  },
  {
   "id": 7204041003,
   "districtId": 7204041,
-  "name": "DODA"
+  "districtName": "LORE TENGAH",
+  "name": "DODA",
+  "postalCode": "94362"
  },
  {
   "id": 7204041004,
   "districtId": 7204041,
-  "name": "BARIRI"
+  "districtName": "LORE TENGAH",
+  "name": "BARIRI",
+  "postalCode": "94653"
  },
  {
   "id": 7204041005,
   "districtId": 7204041,
-  "name": "TORIRE"
+  "districtName": "LORE TENGAH",
+  "name": "TORIRE",
+  "postalCode": "94653"
  },
  {
   "id": 7204041006,
   "districtId": 7204041,
-  "name": "ROMPO"
+  "districtName": "LORE TENGAH",
+  "name": "ROMPO",
+  "postalCode": "84181"
  },
  {
   "id": 7204041007,
   "districtId": 7204041,
-  "name": "BALIURA"
+  "districtName": "LORE TENGAH",
+  "name": "BALIURA",
+  "postalCode": ""
  },
  {
   "id": 7204041008,
   "districtId": 7204041,
-  "name": "KATU"
+  "districtName": "LORE TENGAH",
+  "name": "KATU",
+  "postalCode": "94653"
  }
 ]

@@ -2,61 +2,85 @@
  {
   "id": 8107031001,
   "districtId": 8107031,
-  "name": "DIHIL"
+  "districtName": "SIWALALAT",
+  "name": "DIHIL",
+  "postalCode": "97554"
  },
  {
   "id": 8107031002,
   "districtId": 8107031,
-  "name": "LILIAMA"
+  "districtName": "SIWALALAT",
+  "name": "LILIAMA",
+  "postalCode": "97554"
  },
  {
   "id": 8107031003,
   "districtId": 8107031,
-  "name": "POLIN"
+  "districtName": "SIWALALAT",
+  "name": "POLIN",
+  "postalCode": "97554"
  },
  {
   "id": 8107031004,
   "districtId": 8107031,
-  "name": "TUNSAI"
+  "districtName": "SIWALALAT",
+  "name": "TUNSAI",
+  "postalCode": "97554"
  },
  {
   "id": 8107031005,
   "districtId": 8107031,
-  "name": "LAPELA"
+  "districtName": "SIWALALAT",
+  "name": "LAPELA",
+  "postalCode": "97554"
  },
  {
   "id": 8107031006,
   "districtId": 8107031,
-  "name": "NAYET"
+  "districtName": "SIWALALAT",
+  "name": "NAYET",
+  "postalCode": "97554"
  },
  {
   "id": 8107031007,
   "districtId": 8107031,
-  "name": "ELNUSA"
+  "districtName": "SIWALALAT",
+  "name": "ELNUSA",
+  "postalCode": "97554"
  },
  {
   "id": 8107031008,
   "districtId": 8107031,
-  "name": "ATIAHU"
+  "districtName": "SIWALALAT",
+  "name": "ATIAHU",
+  "postalCode": "97554"
  },
  {
   "id": 8107031009,
   "districtId": 8107031,
-  "name": "ADABAI"
+  "districtName": "SIWALALAT",
+  "name": "ADABAI",
+  "postalCode": "97554"
  },
  {
   "id": 8107031010,
   "districtId": 8107031,
-  "name": "NAIWEL AHINULIN"
+  "districtName": "SIWALALAT",
+  "name": "NAIWEL AHINULIN",
+  "postalCode": "97554"
  },
  {
   "id": 8107031011,
   "districtId": 8107031,
-  "name": "ABULETA"
+  "districtName": "SIWALALAT",
+  "name": "ABULETA",
+  "postalCode": ""
  },
  {
   "id": 8107031012,
   "districtId": 8107031,
-  "name": "SABUAI"
+  "districtName": "SIWALALAT",
+  "name": "SABUAI",
+  "postalCode": "97554"
  }
 ]

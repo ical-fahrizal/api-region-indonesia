@@ -2,36 +2,50 @@
  {
   "id": 7404061001,
   "districtId": 7404061,
-  "name": "INDUHA"
+  "districtName": "LATAMBAGA",
+  "name": "INDUHA",
+  "postalCode": "93512"
  },
  {
   "id": 7404061002,
   "districtId": 7404061,
-  "name": "ULUNGGOLAKA"
+  "districtName": "LATAMBAGA",
+  "name": "ULUNGGOLAKA",
+  "postalCode": "93512"
  },
  {
   "id": 7404061003,
   "districtId": 7404061,
-  "name": "MANGOLO"
+  "districtName": "LATAMBAGA",
+  "name": "MANGOLO",
+  "postalCode": "93512"
  },
  {
   "id": 7404061004,
   "districtId": 7404061,
-  "name": "KOLAKAASIH"
+  "districtName": "LATAMBAGA",
+  "name": "KOLAKAASIH",
+  "postalCode": "93512"
  },
  {
   "id": 7404061005,
   "districtId": 7404061,
-  "name": "SEA"
+  "districtName": "LATAMBAGA",
+  "name": "SEA",
+  "postalCode": "95661"
  },
  {
   "id": 7404061006,
   "districtId": 7404061,
-  "name": "LATAMBAGA"
+  "districtName": "LATAMBAGA",
+  "name": "LATAMBAGA",
+  "postalCode": "93514"
  },
  {
   "id": 7404061007,
   "districtId": 7404061,
-  "name": "SAKULI"
+  "districtName": "LATAMBAGA",
+  "name": "SAKULI",
+  "postalCode": "93514"
  }
 ]

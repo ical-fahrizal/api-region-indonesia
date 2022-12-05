@@ -2,121 +2,169 @@
  {
   "id": 3305050001,
   "districtId": 3305050,
-  "name": "JOGOSIMO"
+  "districtName": "KLIRONG",
+  "name": "JOGOSIMO",
+  "postalCode": "54381"
  },
  {
   "id": 3305050002,
   "districtId": 3305050,
-  "name": "TANGGULANGIN"
+  "districtName": "KLIRONG",
+  "name": "TANGGULANGIN",
+  "postalCode": "57691"
  },
  {
   "id": 3305050003,
   "districtId": 3305050,
-  "name": "PANDANLOR"
+  "districtName": "KLIRONG",
+  "name": "PANDANLOR",
+  "postalCode": "54381"
  },
  {
   "id": 3305050004,
   "districtId": 3305050,
-  "name": "TAMBAKPROGATEN"
+  "districtName": "KLIRONG",
+  "name": "TAMBAKPROGATEN",
+  "postalCode": "54381"
  },
  {
   "id": 3305050005,
   "districtId": 3305050,
-  "name": "GEBANGSARI"
+  "districtName": "KLIRONG",
+  "name": "GEBANGSARI",
+  "postalCode": "50117"
  },
  {
   "id": 3305050006,
   "districtId": 3305050,
-  "name": "KLEGENREJO"
+  "districtName": "KLIRONG",
+  "name": "KLEGENREJO",
+  "postalCode": "54381"
  },
  {
   "id": 3305050007,
   "districtId": 3305050,
-  "name": "BENDOGARAP"
+  "districtName": "KLIRONG",
+  "name": "BENDOGARAP",
+  "postalCode": "54381"
  },
  {
   "id": 3305050008,
   "districtId": 3305050,
-  "name": "KEDUNGSARI"
+  "districtName": "KLIRONG",
+  "name": "KEDUNGSARI",
+  "postalCode": "28123"
  },
  {
   "id": 3305050009,
   "districtId": 3305050,
-  "name": "JERUKAGUNG"
+  "districtName": "KLIRONG",
+  "name": "JERUKAGUNG",
+  "postalCode": "54381"
  },
  {
   "id": 3305050010,
   "districtId": 3305050,
-  "name": "KLEGENWONOSARI"
+  "districtName": "KLIRONG",
+  "name": "KLEGENWONOSARI",
+  "postalCode": "54381"
  },
  {
   "id": 3305050011,
   "districtId": 3305050,
-  "name": "KLIRONG"
+  "districtName": "KLIRONG",
+  "name": "KLIRONG",
+  "postalCode": "54381"
  },
  {
   "id": 3305050012,
   "districtId": 3305050,
-  "name": "KALIWUNGU"
+  "districtName": "KLIRONG",
+  "name": "KALIWUNGU",
+  "postalCode": "52464"
  },
  {
   "id": 3305050013,
   "districtId": 3305050,
-  "name": "JATIMALANG"
+  "districtName": "KLIRONG",
+  "name": "JATIMALANG",
+  "postalCode": "54381"
  },
  {
   "id": 3305050014,
   "districtId": 3305050,
-  "name": "KARANGGLONGGONG"
+  "districtName": "KLIRONG",
+  "name": "KARANGGLONGGONG",
+  "postalCode": "54381"
  },
  {
   "id": 3305050015,
   "districtId": 3305050,
-  "name": "RANTEREJO"
+  "districtName": "KLIRONG",
+  "name": "RANTEREJO",
+  "postalCode": "54381"
  },
  {
   "id": 3305050016,
   "districtId": 3305050,
-  "name": "WOTBUWONO"
+  "districtName": "KLIRONG",
+  "name": "WOTBUWONO",
+  "postalCode": "54381"
  },
  {
   "id": 3305050017,
   "districtId": 3305050,
-  "name": "TAMBAKAGUNG"
+  "districtName": "KLIRONG",
+  "name": "TAMBAKAGUNG",
+  "postalCode": "59252"
  },
  {
   "id": 3305050018,
   "districtId": 3305050,
-  "name": "SITIREJO"
+  "districtName": "KLIRONG",
+  "name": "SITIREJO",
+  "postalCode": "54381"
  },
  {
   "id": 3305050019,
   "districtId": 3305050,
-  "name": "GADUNGREJO"
+  "districtName": "KLIRONG",
+  "name": "GADUNGREJO",
+  "postalCode": "54381"
  },
  {
   "id": 3305050020,
   "districtId": 3305050,
-  "name": "DOROWATI"
+  "districtName": "KLIRONG",
+  "name": "DOROWATI",
+  "postalCode": "54381"
  },
  {
   "id": 3305050021,
   "districtId": 3305050,
-  "name": "BUMIHARJO"
+  "districtName": "KLIRONG",
+  "name": "BUMIHARJO",
+  "postalCode": "34767"
  },
  {
   "id": 3305050022,
   "districtId": 3305050,
-  "name": "KEBADONGAN"
+  "districtName": "KLIRONG",
+  "name": "KEBADONGAN",
+  "postalCode": "54381"
  },
  {
   "id": 3305050023,
   "districtId": 3305050,
-  "name": "PODOLUHUR"
+  "districtName": "KLIRONG",
+  "name": "PODOLUHUR",
+  "postalCode": "54381"
  },
  {
   "id": 3305050024,
   "districtId": 3305050,
-  "name": "KEDUNGWINANGUN"
+  "districtName": "KLIRONG",
+  "name": "KEDUNGWINANGUN",
+  "postalCode": "54381"
  }
 ]

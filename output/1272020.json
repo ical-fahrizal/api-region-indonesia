@@ -2,31 +2,43 @@
  {
   "id": 1272020001,
   "districtId": 1272020,
-  "name": "TANJUNG BALAI KOTA II"
+  "districtName": "TANJUNG BALAI SELATAN",
+  "name": "TANJUNG BALAI KOTA II",
+  "postalCode": ""
  },
  {
   "id": 1272020002,
   "districtId": 1272020,
-  "name": "TANJUNG BALAI KOTA I"
+  "districtName": "TANJUNG BALAI SELATAN",
+  "name": "TANJUNG BALAI KOTA I",
+  "postalCode": ""
  },
  {
   "id": 1272020003,
   "districtId": 1272020,
-  "name": "KARYA"
+  "districtName": "TANJUNG BALAI SELATAN",
+  "name": "KARYA",
+  "postalCode": "22455"
  },
  {
   "id": 1272020004,
   "districtId": 1272020,
-  "name": "PERWIRA"
+  "districtName": "TANJUNG BALAI SELATAN",
+  "name": "PERWIRA",
+  "postalCode": "21313"
  },
  {
   "id": 1272020005,
   "districtId": 1272020,
-  "name": "INDRA SAKTI"
+  "districtName": "TANJUNG BALAI SELATAN",
+  "name": "INDRA SAKTI",
+  "postalCode": "21315"
  },
  {
   "id": 1272020006,
   "districtId": 1272020,
-  "name": "PANTAI BURUNG"
+  "districtName": "TANJUNG BALAI SELATAN",
+  "name": "PANTAI BURUNG",
+  "postalCode": "21316"
  }
 ]

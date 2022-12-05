@@ -2,66 +2,92 @@
  {
   "id": 5206061001,
   "districtId": 5206061,
-  "name": "MANGGE"
+  "districtName": "LAMBU",
+  "name": "MANGGE",
+  "postalCode": "63395"
  },
  {
   "id": 5206061002,
   "districtId": 5206061,
-  "name": "KALEO"
+  "districtName": "LAMBU",
+  "name": "KALEO",
+  "postalCode": "84182"
  },
  {
   "id": 5206061003,
   "districtId": 5206061,
-  "name": "SIMPASAI"
+  "districtName": "LAMBU",
+  "name": "SIMPASAI",
+  "postalCode": "84182"
  },
  {
   "id": 5206061004,
   "districtId": 5206061,
-  "name": "SORO"
+  "districtName": "LAMBU",
+  "name": "SORO",
+  "postalCode": "84261"
  },
  {
   "id": 5206061005,
   "districtId": 5206061,
-  "name": "LANTA"
+  "districtName": "LAMBU",
+  "name": "LANTA",
+  "postalCode": "84182"
  },
  {
   "id": 5206061006,
   "districtId": 5206061,
-  "name": "RATO"
+  "districtName": "LAMBU",
+  "name": "RATO",
+  "postalCode": "84161"
  },
  {
   "id": 5206061007,
   "districtId": 5206061,
-  "name": "SUMI"
+  "districtName": "LAMBU",
+  "name": "SUMI",
+  "postalCode": "84182"
  },
  {
   "id": 5206061009,
   "districtId": 5206061,
-  "name": "LAMBU"
+  "districtName": "LAMBU",
+  "name": "LAMBU",
+  "postalCode": "84182"
  },
  {
   "id": 5206061010,
   "districtId": 5206061,
-  "name": "HIDIRASA"
+  "districtName": "LAMBU",
+  "name": "HIDIRASA",
+  "postalCode": "84182"
  },
  {
   "id": 5206061012,
   "districtId": 5206061,
-  "name": "MELAYU"
+  "districtName": "LAMBU",
+  "name": "MELAYU",
+  "postalCode": "21144"
  },
  {
   "id": 5206061013,
   "districtId": 5206061,
-  "name": "LANTA BARAT"
+  "districtName": "LAMBU",
+  "name": "LANTA BARAT",
+  "postalCode": ""
  },
  {
   "id": 5206061014,
   "districtId": 5206061,
-  "name": "MONTA BARU"
+  "districtName": "LAMBU",
+  "name": "MONTA BARU",
+  "postalCode": ""
  },
  {
   "id": 5206061015,
   "districtId": 5206061,
-  "name": "SANGGA"
+  "districtName": "LAMBU",
+  "name": "SANGGA",
+  "postalCode": ""
  }
 ]

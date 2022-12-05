@@ -2,76 +2,106 @@
  {
   "id": 5309040001,
   "districtId": 5309040,
-  "name": "TANAH LEIN"
+  "districtName": "SOLOR BARAT",
+  "name": "TANAH LEIN",
+  "postalCode": "86272"
  },
  {
   "id": 5309040002,
   "districtId": 5309040,
-  "name": "LAMAOLE"
+  "districtName": "SOLOR BARAT",
+  "name": "LAMAOLE",
+  "postalCode": "86272"
  },
  {
   "id": 5309040003,
   "districtId": 5309040,
-  "name": "LEWOTANAH OLE"
+  "districtName": "SOLOR BARAT",
+  "name": "LEWOTANAH OLE",
+  "postalCode": "86272"
  },
  {
   "id": 5309040004,
   "districtId": 5309040,
-  "name": "LAMAWOHONG"
+  "districtName": "SOLOR BARAT",
+  "name": "LAMAWOHONG",
+  "postalCode": ""
  },
  {
   "id": 5309040005,
   "districtId": 5309040,
-  "name": "KALELU"
+  "districtName": "SOLOR BARAT",
+  "name": "KALELU",
+  "postalCode": "86272"
  },
  {
   "id": 5309040010,
   "districtId": 5309040,
-  "name": "KARAWATUNG"
+  "districtName": "SOLOR BARAT",
+  "name": "KARAWATUNG",
+  "postalCode": "86272"
  },
  {
   "id": 5309040011,
   "districtId": 5309040,
-  "name": "ONGALERENG"
+  "districtName": "SOLOR BARAT",
+  "name": "ONGALERENG",
+  "postalCode": "86272"
  },
  {
   "id": 5309040012,
   "districtId": 5309040,
-  "name": "PAMAKAYO"
+  "districtName": "SOLOR BARAT",
+  "name": "PAMAKAYO",
+  "postalCode": "86272"
  },
  {
   "id": 5309040013,
   "districtId": 5309040,
-  "name": "BALAWELING I"
+  "districtName": "SOLOR BARAT",
+  "name": "BALAWELING I",
+  "postalCode": "86272"
  },
  {
   "id": 5309040014,
   "districtId": 5309040,
-  "name": "BALAWELING II"
+  "districtName": "SOLOR BARAT",
+  "name": "BALAWELING II",
+  "postalCode": "86272"
  },
  {
   "id": 5309040015,
   "districtId": 5309040,
-  "name": "DANI WATO"
+  "districtName": "SOLOR BARAT",
+  "name": "DANI WATO",
+  "postalCode": "86272"
  },
  {
   "id": 5309040016,
   "districtId": 5309040,
-  "name": "NURHALOLON"
+  "districtName": "SOLOR BARAT",
+  "name": "NURHALOLON",
+  "postalCode": ""
  },
  {
   "id": 5309040017,
   "districtId": 5309040,
-  "name": "RITAEBANG"
+  "districtName": "SOLOR BARAT",
+  "name": "RITAEBANG",
+  "postalCode": "86272"
  },
  {
   "id": 5309040018,
   "districtId": 5309040,
-  "name": "TITEHENA"
+  "districtName": "SOLOR BARAT",
+  "name": "TITEHENA",
+  "postalCode": "86272"
  },
  {
   "id": 5309040019,
   "districtId": 5309040,
-  "name": "LEWONAMA"
+  "districtName": "SOLOR BARAT",
+  "name": "LEWONAMA",
+  "postalCode": "86272"
  }
 ]

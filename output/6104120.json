@@ -2,41 +2,57 @@
  {
   "id": 6104120002,
   "districtId": 6104120,
-  "name": "SEMBORA"
+  "districtName": "TOHO",
+  "name": "SEMBORA",
+  "postalCode": ""
  },
  {
   "id": 6104120003,
   "districtId": 6104120,
-  "name": "BENUANG"
+  "districtName": "TOHO",
+  "name": "BENUANG",
+  "postalCode": "31214"
  },
  {
   "id": 6104120004,
   "districtId": 6104120,
-  "name": "PAKUTAN"
+  "districtName": "TOHO",
+  "name": "PAKUTAN",
+  "postalCode": "78361"
  },
  {
   "id": 6104120005,
   "districtId": 6104120,
-  "name": "SEPANG"
+  "districtName": "TOHO",
+  "name": "SEPANG",
+  "postalCode": "24655"
  },
  {
   "id": 6104120006,
   "districtId": 6104120,
-  "name": "PAK LAHENG"
+  "districtName": "TOHO",
+  "name": "PAK LAHENG",
+  "postalCode": "78361"
  },
  {
   "id": 6104120007,
   "districtId": 6104120,
-  "name": "TERAP"
+  "districtName": "TOHO",
+  "name": "TERAP",
+  "postalCode": "78361"
  },
  {
   "id": 6104120008,
   "districtId": 6104120,
-  "name": "KECURIT"
+  "districtName": "TOHO",
+  "name": "KECURIT",
+  "postalCode": "78361"
  },
  {
   "id": 6104120009,
   "districtId": 6104120,
-  "name": "TOHO ILIR"
+  "districtName": "TOHO",
+  "name": "TOHO ILIR",
+  "postalCode": "78361"
  }
 ]

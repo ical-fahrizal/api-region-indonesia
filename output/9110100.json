@@ -2,51 +2,71 @@
  {
   "id": 9110100001,
   "districtId": 9110100,
-  "name": "FONATU"
+  "districtName": "AIFAT UTARA",
+  "name": "FONATU",
+  "postalCode": "98463"
  },
  {
   "id": 9110100002,
   "districtId": 9110100,
-  "name": "AYAWASI SELATAN"
+  "districtName": "AIFAT UTARA",
+  "name": "AYAWASI SELATAN",
+  "postalCode": "98463"
  },
  {
   "id": 9110100003,
   "districtId": 9110100,
-  "name": "AYAWASI"
+  "districtName": "AIFAT UTARA",
+  "name": "AYAWASI",
+  "postalCode": "98463"
  },
  {
   "id": 9110100004,
   "districtId": 9110100,
-  "name": "AYAWASI TIMUR"
+  "districtName": "AIFAT UTARA",
+  "name": "AYAWASI TIMUR",
+  "postalCode": "98463"
  },
  {
   "id": 9110100005,
   "districtId": 9110100,
-  "name": "MAAN"
+  "districtName": "AIFAT UTARA",
+  "name": "MAAN",
+  "postalCode": ""
  },
  {
   "id": 9110100006,
   "districtId": 9110100,
-  "name": "KONJA"
+  "districtName": "AIFAT UTARA",
+  "name": "KONJA",
+  "postalCode": "98463"
  },
  {
   "id": 9110100007,
   "districtId": 9110100,
-  "name": "JARAT"
+  "districtName": "AIFAT UTARA",
+  "name": "JARAT",
+  "postalCode": ""
  },
  {
   "id": 9110100008,
   "districtId": 9110100,
-  "name": "SUSAI"
+  "districtName": "AIFAT UTARA",
+  "name": "SUSAI",
+  "postalCode": "98463"
  },
  {
   "id": 9110100009,
   "districtId": 9110100,
-  "name": "MOSUN"
+  "districtName": "AIFAT UTARA",
+  "name": "MOSUN",
+  "postalCode": "98463"
  },
  {
   "id": 9110100010,
   "districtId": 9110100,
-  "name": "WAYANE"
+  "districtName": "AIFAT UTARA",
+  "name": "WAYANE",
+  "postalCode": "98463"
  }
 ]

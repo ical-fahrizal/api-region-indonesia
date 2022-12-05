@@ -2,36 +2,50 @@
  {
   "id": 1471011001,
   "districtId": 1471011,
-  "name": "LABUH BARU TIMUR"
+  "districtName": "PAYUNG SEKAKI",
+  "name": "LABUH BARU TIMUR",
+  "postalCode": "28292"
  },
  {
   "id": 1471011002,
   "districtId": 1471011,
-  "name": "TAMPAN"
+  "districtName": "PAYUNG SEKAKI",
+  "name": "TAMPAN",
+  "postalCode": "28292"
  },
  {
   "id": 1471011003,
   "districtId": 1471011,
-  "name": "AIR HITAM"
+  "districtName": "PAYUNG SEKAKI",
+  "name": "AIR HITAM",
+  "postalCode": "20856"
  },
  {
   "id": 1471011004,
   "districtId": 1471011,
-  "name": "LABUH BARU BARAT"
+  "districtName": "PAYUNG SEKAKI",
+  "name": "LABUH BARU BARAT",
+  "postalCode": "28292"
  },
  {
   "id": 1471011005,
   "districtId": 1471011,
-  "name": "BANDAR RAYA"
+  "districtName": "PAYUNG SEKAKI",
+  "name": "BANDAR RAYA",
+  "postalCode": "73583"
  },
  {
   "id": 1471011006,
   "districtId": 1471011,
-  "name": "SUNGAI SIBAM"
+  "districtName": "PAYUNG SEKAKI",
+  "name": "SUNGAI SIBAM",
+  "postalCode": ""
  },
  {
   "id": 1471011007,
   "districtId": 1471011,
-  "name": "TIRTA SIAK"
+  "districtName": "PAYUNG SEKAKI",
+  "name": "TIRTA SIAK",
+  "postalCode": ""
  }
 ]

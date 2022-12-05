@@ -2,66 +2,92 @@
  {
   "id": 1572040001,
   "districtId": 1572040,
-  "name": "TANJUNG MUDA"
+  "districtName": "HAMPARAN RAWANG",
+  "name": "TANJUNG MUDA",
+  "postalCode": "24653"
  },
  {
   "id": 1572040002,
   "districtId": 1572040,
-  "name": "TANJUNG"
+  "districtName": "HAMPARAN RAWANG",
+  "name": "TANJUNG",
+  "postalCode": "24562"
  },
  {
   "id": 1572040003,
   "districtId": 1572040,
-  "name": "PALING SERUMPUN"
+  "districtName": "HAMPARAN RAWANG",
+  "name": "PALING SERUMPUN",
+  "postalCode": "37152"
  },
  {
   "id": 1572040004,
   "districtId": 1572040,
-  "name": "SIMPANG TIGA RAWANG"
+  "districtName": "HAMPARAN RAWANG",
+  "name": "SIMPANG TIGA RAWANG",
+  "postalCode": "37152"
  },
  {
   "id": 1572040005,
   "districtId": 1572040,
-  "name": "DUSUN DIILIR"
+  "districtName": "HAMPARAN RAWANG",
+  "name": "DUSUN DIILIR",
+  "postalCode": "37152"
  },
  {
   "id": 1572040006,
   "districtId": 1572040,
-  "name": "KAMPUNG DIILIR"
+  "districtName": "HAMPARAN RAWANG",
+  "name": "KAMPUNG DIILIR",
+  "postalCode": "37152"
  },
  {
   "id": 1572040007,
   "districtId": 1572040,
-  "name": "KOTO TELUK"
+  "districtName": "HAMPARAN RAWANG",
+  "name": "KOTO TELUK",
+  "postalCode": "37152"
  },
  {
   "id": 1572040008,
   "districtId": 1572040,
-  "name": "CEMPAKA"
+  "districtName": "HAMPARAN RAWANG",
+  "name": "CEMPAKA",
+  "postalCode": "37152"
  },
  {
   "id": 1572040009,
   "districtId": 1572040,
-  "name": "KOTO BERINGIN"
+  "districtName": "HAMPARAN RAWANG",
+  "name": "KOTO BERINGIN",
+  "postalCode": "37152"
  },
  {
   "id": 1572040010,
   "districtId": 1572040,
-  "name": "MALIKI AIR"
+  "districtName": "HAMPARAN RAWANG",
+  "name": "MALIKI AIR",
+  "postalCode": "37152"
  },
  {
   "id": 1572040011,
   "districtId": 1572040,
-  "name": "KAMPUNG DALAM"
+  "districtName": "HAMPARAN RAWANG",
+  "name": "KAMPUNG DALAM",
+  "postalCode": "21451"
  },
  {
   "id": 1572040012,
   "districtId": 1572040,
-  "name": "LARIK KEMAHAN"
+  "districtName": "HAMPARAN RAWANG",
+  "name": "LARIK KEMAHAN",
+  "postalCode": "37152"
  },
  {
   "id": 1572040013,
   "districtId": 1572040,
-  "name": "KOTO DIAN"
+  "districtName": "HAMPARAN RAWANG",
+  "name": "KOTO DIAN",
+  "postalCode": "37152"
  }
 ]

@@ -2,46 +2,64 @@
  {
   "id": 1903020001,
   "districtId": 1903020,
-  "name": "TANJUNGNIUR"
+  "districtName": "TEMPILANG",
+  "name": "TANJUNGNIUR",
+  "postalCode": "33365"
  },
  {
   "id": 1903020002,
   "districtId": 1903020,
-  "name": "BENTENG KUTA"
+  "districtName": "TEMPILANG",
+  "name": "BENTENG KUTA",
+  "postalCode": ""
  },
  {
   "id": 1903020003,
   "districtId": 1903020,
-  "name": "AIR LINTANG"
+  "districtName": "TEMPILANG",
+  "name": "AIR LINTANG",
+  "postalCode": "31311"
  },
  {
   "id": 1903020004,
   "districtId": 1903020,
-  "name": "SINAR SURYA"
+  "districtName": "TEMPILANG",
+  "name": "SINAR SURYA",
+  "postalCode": "33365"
  },
  {
   "id": 1903020005,
   "districtId": 1903020,
-  "name": "TEMPILANG"
+  "districtName": "TEMPILANG",
+  "name": "TEMPILANG",
+  "postalCode": "33365"
  },
  {
   "id": 1903020006,
   "districtId": 1903020,
-  "name": "BUYAN KELUMBI"
+  "districtName": "TEMPILANG",
+  "name": "BUYAN KELUMBI",
+  "postalCode": "33365"
  },
  {
   "id": 1903020007,
   "districtId": 1903020,
-  "name": "SANGKU"
+  "districtName": "TEMPILANG",
+  "name": "SANGKU",
+  "postalCode": "33365"
  },
  {
   "id": 1903020008,
   "districtId": 1903020,
-  "name": "PENYAMPAK"
+  "districtName": "TEMPILANG",
+  "name": "PENYAMPAK",
+  "postalCode": "33365"
  },
  {
   "id": 1903020009,
   "districtId": 1903020,
-  "name": "SIMPANG YUL"
+  "districtName": "TEMPILANG",
+  "name": "SIMPANG YUL",
+  "postalCode": "33365"
  }
 ]

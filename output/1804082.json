@@ -2,56 +2,78 @@
  {
   "id": 1804082001,
   "districtId": 1804082,
-  "name": "LABUHAN RATU EMPAT"
+  "districtName": "LABUHAN RATU",
+  "name": "LABUHAN RATU EMPAT",
+  "postalCode": ""
  },
  {
   "id": 1804082002,
   "districtId": 1804082,
-  "name": "LABUHAN RATU LIMA"
+  "districtName": "LABUHAN RATU",
+  "name": "LABUHAN RATU LIMA",
+  "postalCode": ""
  },
  {
   "id": 1804082003,
   "districtId": 1804082,
-  "name": "LABUHAN RATU TIGA"
+  "districtName": "LABUHAN RATU",
+  "name": "LABUHAN RATU TIGA",
+  "postalCode": ""
  },
  {
   "id": 1804082004,
   "districtId": 1804082,
-  "name": "LABUHAN RATU VII"
+  "districtName": "LABUHAN RATU",
+  "name": "LABUHAN RATU VII",
+  "postalCode": ""
  },
  {
   "id": 1804082005,
   "districtId": 1804082,
-  "name": "LABUHAN RATU"
+  "districtName": "LABUHAN RATU",
+  "name": "LABUHAN RATU",
+  "postalCode": "35142"
  },
  {
   "id": 1804082006,
   "districtId": 1804082,
-  "name": "LABUHAN RATU ENAM"
+  "districtName": "LABUHAN RATU",
+  "name": "LABUHAN RATU ENAM",
+  "postalCode": ""
  },
  {
   "id": 1804082007,
   "districtId": 1804082,
-  "name": "RAJA BASA LAMA"
+  "districtName": "LABUHAN RATU",
+  "name": "RAJA BASA LAMA",
+  "postalCode": "34375"
  },
  {
   "id": 1804082008,
   "districtId": 1804082,
-  "name": "RAJA BASA LAMA SATU"
+  "districtName": "LABUHAN RATU",
+  "name": "RAJA BASA LAMA SATU",
+  "postalCode": ""
  },
  {
   "id": 1804082009,
   "districtId": 1804082,
-  "name": "RAJA BASA LAMA DUA"
+  "districtName": "LABUHAN RATU",
+  "name": "RAJA BASA LAMA DUA",
+  "postalCode": ""
  },
  {
   "id": 1804082010,
   "districtId": 1804082,
-  "name": "LABUHAN RATU VIII"
+  "districtName": "LABUHAN RATU",
+  "name": "LABUHAN RATU VIII",
+  "postalCode": ""
  },
  {
   "id": 1804082011,
   "districtId": 1804082,
-  "name": "LABUHAN RATU IX"
+  "districtName": "LABUHAN RATU",
+  "name": "LABUHAN RATU IX",
+  "postalCode": ""
  }
 ]

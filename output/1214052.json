@@ -2,71 +2,99 @@
  {
   "id": 1214052001,
   "districtId": 1214052,
-  "name": "SIWALUBANUA"
+  "districtName": "SOMAMBAWA",
+  "name": "SIWALUBANUA",
+  "postalCode": "22874"
  },
  {
   "id": 1214052003,
   "districtId": 1214052,
-  "name": "SITOLU BANUA"
+  "districtName": "SOMAMBAWA",
+  "name": "SITOLU BANUA",
+  "postalCode": "22853"
  },
  {
   "id": 1214052004,
   "districtId": 1214052,
-  "name": "SILIMABANUA"
+  "districtName": "SOMAMBAWA",
+  "name": "SILIMABANUA",
+  "postalCode": "22854"
  },
  {
   "id": 1214052005,
   "districtId": 1214052,
-  "name": "MEHAGA"
+  "districtName": "SOMAMBAWA",
+  "name": "MEHAGA",
+  "postalCode": "22874"
  },
  {
   "id": 1214052006,
   "districtId": 1214052,
-  "name": "FANEDANU"
+  "districtName": "SOMAMBAWA",
+  "name": "FANEDANU",
+  "postalCode": "22874"
  },
  {
   "id": 1214052007,
   "districtId": 1214052,
-  "name": "HILIORAHUA TASUA"
+  "districtName": "SOMAMBAWA",
+  "name": "HILIORAHUA TASUA",
+  "postalCode": "22874"
  },
  {
   "id": 1214052008,
   "districtId": 1214052,
-  "name": "SIHAREO"
+  "districtName": "SOMAMBAWA",
+  "name": "SIHAREO",
+  "postalCode": "22814"
  },
  {
   "id": 1214052009,
   "districtId": 1214052,
-  "name": "SIFITUBANUA"
+  "districtName": "SOMAMBAWA",
+  "name": "SIFITUBANUA",
+  "postalCode": "22874"
  },
  {
   "id": 1214052011,
   "districtId": 1214052,
-  "name": "GOLAMBANUA II"
+  "districtName": "SOMAMBAWA",
+  "name": "GOLAMBANUA II",
+  "postalCode": "22874"
  },
  {
   "id": 1214052013,
   "districtId": 1214052,
-  "name": "OLADANO"
+  "districtName": "SOMAMBAWA",
+  "name": "OLADANO",
+  "postalCode": "22872"
  },
  {
   "id": 1214052014,
   "districtId": 1214052,
-  "name": "SINAR SUSUA"
+  "districtName": "SOMAMBAWA",
+  "name": "SINAR SUSUA",
+  "postalCode": "22874"
  },
  {
   "id": 1214052015,
   "districtId": 1214052,
-  "name": "HILIALAWA"
+  "districtName": "SOMAMBAWA",
+  "name": "HILIALAWA",
+  "postalCode": "22876"
  },
  {
   "id": 1214052016,
   "districtId": 1214052,
-  "name": "GABUNGAN TASUA"
+  "districtName": "SOMAMBAWA",
+  "name": "GABUNGAN TASUA",
+  "postalCode": "22874"
  },
  {
   "id": 1214052017,
   "districtId": 1214052,
-  "name": "SOMAMBAWA"
+  "districtName": "SOMAMBAWA",
+  "name": "SOMAMBAWA",
+  "postalCode": "22874"
  }
 ]

@@ -2,46 +2,64 @@
  {
   "id": 1406013001,
   "districtId": 1406013,
-  "name": "KEBUN DURIAN"
+  "districtName": "GUNUNG SAHILAN",
+  "name": "KEBUN DURIAN",
+  "postalCode": "28471"
  },
  {
   "id": 1406013002,
   "districtId": 1406013,
-  "name": "SUBARAK"
+  "districtName": "GUNUNG SAHILAN",
+  "name": "SUBARAK",
+  "postalCode": "28471"
  },
  {
   "id": 1406013003,
   "districtId": 1406013,
-  "name": "GUNUNG SAHILAN"
+  "districtName": "GUNUNG SAHILAN",
+  "name": "GUNUNG SAHILAN",
+  "postalCode": "28471"
  },
  {
   "id": 1406013004,
   "districtId": 1406013,
-  "name": "SUKA MAKMUR"
+  "districtName": "GUNUNG SAHILAN",
+  "name": "SUKA MAKMUR",
+  "postalCode": "24784"
  },
  {
   "id": 1406013005,
   "districtId": 1406013,
-  "name": "GUNUNG SARI"
+  "districtName": "GUNUNG SAHILAN",
+  "name": "GUNUNG SARI",
+  "postalCode": "28471"
  },
  {
   "id": 1406013006,
   "districtId": 1406013,
-  "name": "MAKMUR SEJAHTERA"
+  "districtName": "GUNUNG SAHILAN",
+  "name": "MAKMUR SEJAHTERA",
+  "postalCode": "28471"
  },
  {
   "id": 1406013007,
   "districtId": 1406013,
-  "name": "SUNGAI LIPAI"
+  "districtName": "GUNUNG SAHILAN",
+  "name": "SUNGAI LIPAI",
+  "postalCode": "28471"
  },
  {
   "id": 1406013008,
   "districtId": 1406013,
-  "name": "SAHILAN DARUSSALAM"
+  "districtName": "GUNUNG SAHILAN",
+  "name": "SAHILAN DARUSSALAM",
+  "postalCode": "28471"
  },
  {
   "id": 1406013009,
   "districtId": 1406013,
-  "name": "GUNUNG MULYA"
+  "districtName": "GUNUNG SAHILAN",
+  "name": "GUNUNG MULYA",
+  "postalCode": "28471"
  }
 ]

@@ -2,26 +2,36 @@
  {
   "id": 9109020002,
   "districtId": 9109020,
-  "name": "YABOUW"
+  "districtName": "MIYAH",
+  "name": "YABOUW",
+  "postalCode": ""
  },
  {
   "id": 9109020009,
   "districtId": 9109020,
-  "name": "AYAE"
+  "districtName": "MIYAH",
+  "name": "AYAE",
+  "postalCode": "98473"
  },
  {
   "id": 9109020017,
   "districtId": 9109020,
-  "name": "HOBIAH"
+  "districtName": "MIYAH",
+  "name": "HOBIAH",
+  "postalCode": ""
  },
  {
   "id": 9109020018,
   "districtId": 9109020,
-  "name": "AYAWIT"
+  "districtName": "MIYAH",
+  "name": "AYAWIT",
+  "postalCode": ""
  },
  {
   "id": 9109020019,
   "districtId": 9109020,
-  "name": "AIFAIR"
+  "districtName": "MIYAH",
+  "name": "AIFAIR",
+  "postalCode": ""
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 9109022001,
   "districtId": 9109022,
-  "name": "MIRI/IBIAH"
+  "districtName": "IRERES",
+  "name": "MIRI/IBIAH",
+  "postalCode": ""
  },
  {
   "id": 9109022002,
   "districtId": 9109022,
-  "name": "MEIS"
+  "districtName": "IRERES",
+  "name": "MEIS",
+  "postalCode": "98473"
  },
  {
   "id": 9109022003,
   "districtId": 9109022,
-  "name": "AIFAMAS"
+  "districtName": "IRERES",
+  "name": "AIFAMAS",
+  "postalCode": ""
  },
  {
   "id": 9109022004,
   "districtId": 9109022,
-  "name": "MEINAD"
+  "districtName": "IRERES",
+  "name": "MEINAD",
+  "postalCode": ""
  },
  {
   "id": 9109022005,
   "districtId": 9109022,
-  "name": "IFIAM"
+  "districtName": "IRERES",
+  "name": "IFIAM",
+  "postalCode": ""
  },
  {
   "id": 9109022006,
   "districtId": 9109022,
-  "name": "ATAPRUMEK"
+  "districtName": "IRERES",
+  "name": "ATAPRUMEK",
+  "postalCode": ""
  }
 ]

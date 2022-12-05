@@ -2,31 +2,43 @@
  {
   "id": 1308080001,
   "districtId": 1308080,
-  "name": "KOTO ALAM"
+  "districtName": "PANGKALAN KOTO BARU",
+  "name": "KOTO ALAM",
+  "postalCode": "26272"
  },
  {
   "id": 1308080002,
   "districtId": 1308080,
-  "name": "MANGGILANG"
+  "districtName": "PANGKALAN KOTO BARU",
+  "name": "MANGGILANG",
+  "postalCode": "26272"
  },
  {
   "id": 1308080003,
   "districtId": 1308080,
-  "name": "PANGKALAN"
+  "districtName": "PANGKALAN KOTO BARU",
+  "name": "PANGKALAN",
+  "postalCode": "24477"
  },
  {
   "id": 1308080004,
   "districtId": 1308080,
-  "name": "GUNUANG MALINTANG"
+  "districtName": "PANGKALAN KOTO BARU",
+  "name": "GUNUANG MALINTANG",
+  "postalCode": "26272"
  },
  {
   "id": 1308080005,
   "districtId": 1308080,
-  "name": "TANJUANG BALIK"
+  "districtName": "PANGKALAN KOTO BARU",
+  "name": "TANJUANG BALIK",
+  "postalCode": ""
  },
  {
   "id": 1308080006,
   "districtId": 1308080,
-  "name": "TANJUANG PAUAH"
+  "districtName": "PANGKALAN KOTO BARU",
+  "name": "TANJUANG PAUAH",
+  "postalCode": ""
  }
 ]

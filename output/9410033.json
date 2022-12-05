@@ -2,16 +2,22 @@
  {
   "id": 9410033001,
   "districtId": 9410033,
-  "name": "KOPAIDAGI"
+  "districtName": "PUGO DAGI",
+  "name": "KOPAIDAGI",
+  "postalCode": "98711"
  },
  {
   "id": 9410033002,
   "districtId": 9410033,
-  "name": "WEJATADI"
+  "districtName": "PUGO DAGI",
+  "name": "WEJATADI",
+  "postalCode": ""
  },
  {
   "id": 9410033003,
   "districtId": 9410033,
-  "name": "PUGO WOGE"
+  "districtName": "PUGO DAGI",
+  "name": "PUGO WOGE",
+  "postalCode": ""
  }
 ]

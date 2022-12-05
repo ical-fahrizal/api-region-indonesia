@@ -2,36 +2,50 @@
  {
   "id": 9408080001,
   "districtId": 9408080,
-  "name": "POOM I"
+  "districtName": "POOM",
+  "name": "POOM I",
+  "postalCode": "98254"
  },
  {
   "id": 9408080002,
   "districtId": 9408080,
-  "name": "POOM II"
+  "districtName": "POOM",
+  "name": "POOM II",
+  "postalCode": "98254"
  },
  {
   "id": 9408080004,
   "districtId": 9408080,
-  "name": "RARISI"
+  "districtName": "POOM",
+  "name": "RARISI",
+  "postalCode": ""
  },
  {
   "id": 9408080005,
   "districtId": 9408080,
-  "name": "MAKIROAN"
+  "districtName": "POOM",
+  "name": "MAKIROAN",
+  "postalCode": ""
  },
  {
   "id": 9408080006,
   "districtId": 9408080,
-  "name": "WORIOI"
+  "districtName": "POOM",
+  "name": "WORIOI",
+  "postalCode": ""
  },
  {
   "id": 9408080007,
   "districtId": 9408080,
-  "name": "HUMBE AWAI"
+  "districtName": "POOM",
+  "name": "HUMBE AWAI",
+  "postalCode": "98254"
  },
  {
   "id": 9408080008,
   "districtId": 9408080,
-  "name": "NURAWI"
+  "districtName": "POOM",
+  "name": "NURAWI",
+  "postalCode": "98254"
  }
 ]

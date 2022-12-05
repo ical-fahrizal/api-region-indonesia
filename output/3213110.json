@@ -2,51 +2,71 @@
  {
   "id": 3213110001,
   "districtId": 3213110,
-  "name": "TANJUNGRASA KIDUL"
+  "districtName": "PATOKBEUSI",
+  "name": "TANJUNGRASA KIDUL",
+  "postalCode": "41263"
  },
  {
   "id": 3213110002,
   "districtId": 3213110,
-  "name": "TANJUNGRASA"
+  "districtName": "PATOKBEUSI",
+  "name": "TANJUNGRASA",
+  "postalCode": "41253"
  },
  {
   "id": 3213110003,
   "districtId": 3213110,
-  "name": "JATIRAGAS HILIR"
+  "districtName": "PATOKBEUSI",
+  "name": "JATIRAGAS HILIR",
+  "postalCode": "41263"
  },
  {
   "id": 3213110004,
   "districtId": 3213110,
-  "name": "TAMBAKJATI"
+  "districtName": "PATOKBEUSI",
+  "name": "TAMBAKJATI",
+  "postalCode": "41263"
  },
  {
   "id": 3213110005,
   "districtId": 3213110,
-  "name": "CIBERES"
+  "districtName": "PATOKBEUSI",
+  "name": "CIBERES",
+  "postalCode": "41263"
  },
  {
   "id": 3213110006,
   "districtId": 3213110,
-  "name": "GEMPOLSARI"
+  "districtName": "PATOKBEUSI",
+  "name": "GEMPOLSARI",
+  "postalCode": "40215"
  },
  {
   "id": 3213110007,
   "districtId": 3213110,
-  "name": "RANCAMULYA"
+  "districtName": "PATOKBEUSI",
+  "name": "RANCAMULYA",
+  "postalCode": "45263"
  },
  {
   "id": 3213110008,
   "districtId": 3213110,
-  "name": "RANCAJAYA"
+  "districtName": "PATOKBEUSI",
+  "name": "RANCAJAYA",
+  "postalCode": "41263"
  },
  {
   "id": 3213110009,
   "districtId": 3213110,
-  "name": "RANCABANGO"
+  "districtName": "PATOKBEUSI",
+  "name": "RANCABANGO",
+  "postalCode": "41263"
  },
  {
   "id": 3213110010,
   "districtId": 3213110,
-  "name": "RANCAASIH"
+  "districtName": "PATOKBEUSI",
+  "name": "RANCAASIH",
+  "postalCode": "41263"
  }
 ]

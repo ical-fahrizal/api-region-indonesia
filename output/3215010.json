@@ -2,41 +2,57 @@
  {
   "id": 3215010001,
   "districtId": 3215010,
-  "name": "MEDALSARI"
+  "districtName": "PANGKALAN",
+  "name": "MEDALSARI",
+  "postalCode": "41362"
  },
  {
   "id": 3215010011,
   "districtId": 3215010,
-  "name": "KERTASARI"
+  "districtName": "PANGKALAN",
+  "name": "KERTASARI",
+  "postalCode": "31658"
  },
  {
   "id": 3215010012,
   "districtId": 3215010,
-  "name": "CINTAASIH"
+  "districtName": "PANGKALAN",
+  "name": "CINTAASIH",
+  "postalCode": "45467"
  },
  {
   "id": 3215010013,
   "districtId": 3215010,
-  "name": "MULANGSARI"
+  "districtName": "PANGKALAN",
+  "name": "MULANGSARI",
+  "postalCode": "41362"
  },
  {
   "id": 3215010014,
   "districtId": 3215010,
-  "name": "JATILAKSANA"
+  "districtName": "PANGKALAN",
+  "name": "JATILAKSANA",
+  "postalCode": "41362"
  },
  {
   "id": 3215010015,
   "districtId": 3215010,
-  "name": "CIPTASARI"
+  "districtName": "PANGKALAN",
+  "name": "CIPTASARI",
+  "postalCode": "45365"
  },
  {
   "id": 3215010016,
   "districtId": 3215010,
-  "name": "TAMANSARI"
+  "districtName": "PANGKALAN",
+  "name": "TAMANSARI",
+  "postalCode": "35366"
  },
  {
   "id": 3215010017,
   "districtId": 3215010,
-  "name": "TAMANMEKAR"
+  "districtName": "PANGKALAN",
+  "name": "TAMANMEKAR",
+  "postalCode": "41362"
  }
 ]

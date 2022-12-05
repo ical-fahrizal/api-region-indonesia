@@ -2,36 +2,50 @@
  {
   "id": 1223060001,
   "districtId": 1223060,
-  "name": "KUALA BANGKA"
+  "districtName": "KUALUH HILIR",
+  "name": "KUALA BANGKA",
+  "postalCode": "21474"
  },
  {
   "id": 1223060002,
   "districtId": 1223060,
-  "name": "TELUK BINJAI"
+  "districtName": "KUALUH HILIR",
+  "name": "TELUK BINJAI",
+  "postalCode": "21474"
  },
  {
   "id": 1223060003,
   "districtId": 1223060,
-  "name": "SUNGAI SENTANG"
+  "districtName": "KUALUH HILIR",
+  "name": "SUNGAI SENTANG",
+  "postalCode": ""
  },
  {
   "id": 1223060004,
   "districtId": 1223060,
-  "name": "SUNGAI APUNG"
+  "districtName": "KUALUH HILIR",
+  "name": "SUNGAI APUNG",
+  "postalCode": ""
  },
  {
   "id": 1223060005,
   "districtId": 1223060,
-  "name": "KAMPUNG MESJID"
+  "districtName": "KUALUH HILIR",
+  "name": "KAMPUNG MESJID",
+  "postalCode": "21474"
  },
  {
   "id": 1223060006,
   "districtId": 1223060,
-  "name": "TELUK PIAI"
+  "districtName": "KUALUH HILIR",
+  "name": "TELUK PIAI",
+  "postalCode": "21474"
  },
  {
   "id": 1223060007,
   "districtId": 1223060,
-  "name": "TANJUNG MANGEDAR"
+  "districtName": "KUALUH HILIR",
+  "name": "TANJUNG MANGEDAR",
+  "postalCode": "21474"
  }
 ]

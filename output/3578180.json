@@ -2,26 +2,36 @@
  {
   "id": 3578180001,
   "districtId": 3578180,
-  "name": "KEPUTRAN"
+  "districtName": "TEGALSARI",
+  "name": "KEPUTRAN",
+  "postalCode": "35674"
  },
  {
   "id": 3578180002,
   "districtId": 3578180,
-  "name": "DR. SUTOMO"
+  "districtName": "TEGALSARI",
+  "name": "DR. SUTOMO",
+  "postalCode": "60264"
  },
  {
   "id": 3578180003,
   "districtId": 3578180,
-  "name": "TEGALSARI"
+  "districtName": "TEGALSARI",
+  "name": "TEGALSARI",
+  "postalCode": "35372"
  },
  {
   "id": 3578180004,
   "districtId": 3578180,
-  "name": "WONOREJO"
+  "districtName": "TEGALSARI",
+  "name": "WONOREJO",
+  "postalCode": "21186"
  },
  {
   "id": 3578180005,
   "districtId": 3578180,
-  "name": "KEDUNGDORO"
+  "districtName": "TEGALSARI",
+  "name": "KEDUNGDORO",
+  "postalCode": "60261"
  }
 ]

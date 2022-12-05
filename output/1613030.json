@@ -2,86 +2,120 @@
  {
   "id": 1613030001,
   "districtId": 1613030,
-  "name": "LUBUK MAS"
+  "districtName": "RAWAS ULU",
+  "name": "LUBUK MAS",
+  "postalCode": "28383"
  },
  {
   "id": 1613030002,
   "districtId": 1613030,
-  "name": "PANGKALAN"
+  "districtName": "RAWAS ULU",
+  "name": "PANGKALAN",
+  "postalCode": "24477"
  },
  {
   "id": 1613030003,
   "districtId": 1613030,
-  "name": "TELADAS"
+  "districtName": "RAWAS ULU",
+  "name": "TELADAS",
+  "postalCode": "31656"
  },
  {
   "id": 1613030004,
   "districtId": 1613030,
-  "name": "KERTA DEWA"
+  "districtName": "RAWAS ULU",
+  "name": "KERTA DEWA",
+  "postalCode": "31656"
  },
  {
   "id": 1613030005,
   "districtId": 1613030,
-  "name": "PULAU LEBAR"
+  "districtName": "RAWAS ULU",
+  "name": "PULAU LEBAR",
+  "postalCode": "37356"
  },
  {
   "id": 1613030006,
   "districtId": 1613030,
-  "name": "SUNGAI BAUNG"
+  "districtName": "RAWAS ULU",
+  "name": "SUNGAI BAUNG",
+  "postalCode": "29351"
  },
  {
   "id": 1613030007,
   "districtId": 1613030,
-  "name": "SURULANGUN"
+  "districtName": "RAWAS ULU",
+  "name": "SURULANGUN",
+  "postalCode": "31656"
  },
  {
   "id": 1613030008,
   "districtId": 1613030,
-  "name": "SUKOMORO"
+  "districtName": "RAWAS ULU",
+  "name": "SUKOMORO",
+  "postalCode": "64153"
  },
  {
   "id": 1613030009,
   "districtId": 1613030,
-  "name": "PASAR SURULANGUN"
+  "districtName": "RAWAS ULU",
+  "name": "PASAR SURULANGUN",
+  "postalCode": "31656"
  },
  {
   "id": 1613030010,
   "districtId": 1613030,
-  "name": "LESUNG BATU MUDA"
+  "districtName": "RAWAS ULU",
+  "name": "LESUNG BATU MUDA",
+  "postalCode": "31656"
  },
  {
   "id": 1613030011,
   "districtId": 1613030,
-  "name": "LESUNG BATU"
+  "districtName": "RAWAS ULU",
+  "name": "LESUNG BATU",
+  "postalCode": "31593"
  },
  {
   "id": 1613030012,
   "districtId": 1613030,
-  "name": "LUBUK KEMANG"
+  "districtName": "RAWAS ULU",
+  "name": "LUBUK KEMANG",
+  "postalCode": "31656"
  },
  {
   "id": 1613030013,
   "districtId": 1613030,
-  "name": "REMBAN"
+  "districtName": "RAWAS ULU",
+  "name": "REMBAN",
+  "postalCode": "31656"
  },
  {
   "id": 1613030014,
   "districtId": 1613030,
-  "name": "SUNGAI KIJANG"
+  "districtName": "RAWAS ULU",
+  "name": "SUNGAI KIJANG",
+  "postalCode": "31656"
  },
  {
   "id": 1613030015,
   "districtId": 1613030,
-  "name": "SUNGAI JAUH"
+  "districtName": "RAWAS ULU",
+  "name": "SUNGAI JAUH",
+  "postalCode": "31656"
  },
  {
   "id": 1613030016,
   "districtId": 1613030,
-  "name": "SIMPANG NIBUNG RAWAS"
+  "districtName": "RAWAS ULU",
+  "name": "SIMPANG NIBUNG RAWAS",
+  "postalCode": "31656"
  },
  {
   "id": 1613030017,
   "districtId": 1613030,
-  "name": "SUNGAI LANANG"
+  "districtName": "RAWAS ULU",
+  "name": "SUNGAI LANANG",
+  "postalCode": "31656"
  }
 ]

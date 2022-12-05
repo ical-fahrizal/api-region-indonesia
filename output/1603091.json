@@ -2,51 +2,71 @@
  {
   "id": 1603091007,
   "districtId": 1603091,
-  "name": "KEMANG"
+  "districtName": "LEMBAK",
+  "name": "KEMANG",
+  "postalCode": "28382"
  },
  {
   "id": 1603091008,
   "districtId": 1603091,
-  "name": "LEMBAK"
+  "districtName": "LEMBAK",
+  "name": "LEMBAK",
+  "postalCode": "31171"
  },
  {
   "id": 1603091009,
   "districtId": 1603091,
-  "name": "SUNGAI DUREN"
+  "districtName": "LEMBAK",
+  "name": "SUNGAI DUREN",
+  "postalCode": "36361"
  },
  {
   "id": 1603091010,
   "districtId": 1603091,
-  "name": "TAPUS"
+  "districtName": "LEMBAK",
+  "name": "TAPUS",
+  "postalCode": "22983"
  },
  {
   "id": 1603091011,
   "districtId": 1603091,
-  "name": "PETANANG"
+  "districtName": "LEMBAK",
+  "name": "PETANANG",
+  "postalCode": "36371"
  },
  {
   "id": 1603091012,
   "districtId": 1603091,
-  "name": "TALANG NANGKA"
+  "districtName": "LEMBAK",
+  "name": "TALANG NANGKA",
+  "postalCode": "31171"
  },
  {
   "id": 1603091013,
   "districtId": 1603091,
-  "name": "ALAI"
+  "districtName": "LEMBAK",
+  "name": "ALAI",
+  "postalCode": "23772"
  },
  {
   "id": 1603091017,
   "districtId": 1603091,
-  "name": "TANJUNG BARU"
+  "districtName": "LEMBAK",
+  "name": "TANJUNG BARU",
+  "postalCode": "22742"
  },
  {
   "id": 1603091020,
   "districtId": 1603091,
-  "name": "LUBUK ENAU"
+  "districtName": "LEMBAK",
+  "name": "LUBUK ENAU",
+  "postalCode": ""
  },
  {
   "id": 1603091021,
   "districtId": 1603091,
-  "name": "ALAI SELATAN"
+  "districtName": "LEMBAK",
+  "name": "ALAI SELATAN",
+  "postalCode": "28753"
  }
 ]

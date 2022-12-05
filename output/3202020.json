@@ -2,36 +2,50 @@
  {
   "id": 3202020001,
   "districtId": 3202020,
-  "name": "GUNUNGBATU"
+  "districtName": "CIRACAP",
+  "name": "GUNUNGBATU",
+  "postalCode": "16118"
  },
  {
   "id": 3202020002,
   "districtId": 3202020,
-  "name": "CIKANGKUNG"
+  "districtName": "CIRACAP",
+  "name": "CIKANGKUNG",
+  "postalCode": "43176"
  },
  {
   "id": 3202020003,
   "districtId": 3202020,
-  "name": "PURWASEDAR"
+  "districtName": "CIRACAP",
+  "name": "PURWASEDAR",
+  "postalCode": "43176"
  },
  {
   "id": 3202020004,
   "districtId": 3202020,
-  "name": "CIRACAP"
+  "districtName": "CIRACAP",
+  "name": "CIRACAP",
+  "postalCode": "43176"
  },
  {
   "id": 3202020005,
   "districtId": 3202020,
-  "name": "PASIRPANJANG"
+  "districtName": "CIRACAP",
+  "name": "PASIRPANJANG",
+  "postalCode": "43176"
  },
  {
   "id": 3202020006,
   "districtId": 3202020,
-  "name": "MEKARSARI"
+  "districtName": "CIRACAP",
+  "name": "MEKARSARI",
+  "postalCode": "37482"
  },
  {
   "id": 3202020007,
   "districtId": 3202020,
-  "name": "PANGUMBAHAN"
+  "districtName": "CIRACAP",
+  "name": "PANGUMBAHAN",
+  "postalCode": ""
  }
 ]

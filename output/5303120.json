@@ -2,41 +2,57 @@
  {
   "id": 5303120008,
   "districtId": 5303120,
-  "name": "OELNASI"
+  "districtName": "KUPANG TENGAH",
+  "name": "OELNASI",
+  "postalCode": "85361"
  },
  {
   "id": 5303120009,
   "districtId": 5303120,
-  "name": "OELPUAH"
+  "districtName": "KUPANG TENGAH",
+  "name": "OELPUAH",
+  "postalCode": "85361"
  },
  {
   "id": 5303120010,
   "districtId": 5303120,
-  "name": "OEBELO"
+  "districtName": "KUPANG TENGAH",
+  "name": "OEBELO",
+  "postalCode": "85562"
  },
  {
   "id": 5303120011,
   "districtId": 5303120,
-  "name": "NOELBAKI"
+  "districtName": "KUPANG TENGAH",
+  "name": "NOELBAKI",
+  "postalCode": "85361"
  },
  {
   "id": 5303120012,
   "districtId": 5303120,
-  "name": "TARUS"
+  "districtName": "KUPANG TENGAH",
+  "name": "TARUS",
+  "postalCode": "85361"
  },
  {
   "id": 5303120013,
   "districtId": 5303120,
-  "name": "PENFUI TIMUR"
+  "districtName": "KUPANG TENGAH",
+  "name": "PENFUI TIMUR",
+  "postalCode": "85361"
  },
  {
   "id": 5303120014,
   "districtId": 5303120,
-  "name": "TANAH MERAH"
+  "districtName": "KUPANG TENGAH",
+  "name": "TANAH MERAH",
+  "postalCode": "24652"
  },
  {
   "id": 5303120015,
   "districtId": 5303120,
-  "name": "MATA AIR"
+  "districtName": "KUPANG TENGAH",
+  "name": "MATA AIR",
+  "postalCode": "85361"
  }
 ]

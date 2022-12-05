@@ -2,66 +2,92 @@
  {
   "id": 1204070010,
   "districtId": 1204070,
-  "name": "BUKIT PATUPANGAN"
+  "districtName": "BARUS",
+  "name": "BUKIT PATUPANGAN",
+  "postalCode": ""
  },
  {
   "id": 1204070011,
   "districtId": 1204070,
-  "name": "KEDAI GEDANG"
+  "districtName": "BARUS",
+  "name": "KEDAI GEDANG",
+  "postalCode": "22564"
  },
  {
   "id": 1204070012,
   "districtId": 1204070,
-  "name": "SIGAMBO GAMBO"
+  "districtName": "BARUS",
+  "name": "SIGAMBO GAMBO",
+  "postalCode": "22564"
  },
  {
   "id": 1204070013,
   "districtId": 1204070,
-  "name": "PADANG MASIANG"
+  "districtName": "BARUS",
+  "name": "PADANG MASIANG",
+  "postalCode": "22564"
  },
  {
   "id": 1204070014,
   "districtId": 1204070,
-  "name": "KAMPUNG SOLOK"
+  "districtName": "BARUS",
+  "name": "KAMPUNG SOLOK",
+  "postalCode": "22564"
  },
  {
   "id": 1204070015,
   "districtId": 1204070,
-  "name": "PASAR BATU GERIGIS"
+  "districtName": "BARUS",
+  "name": "PASAR BATU GERIGIS",
+  "postalCode": "22564"
  },
  {
   "id": 1204070016,
   "districtId": 1204070,
-  "name": "PASAR TERANDAM"
+  "districtName": "BARUS",
+  "name": "PASAR TERANDAM",
+  "postalCode": "22564"
  },
  {
   "id": 1204070017,
   "districtId": 1204070,
-  "name": "KINALI"
+  "districtName": "BARUS",
+  "name": "KINALI",
+  "postalCode": "22564"
  },
  {
   "id": 1204070018,
   "districtId": 1204070,
-  "name": "UJUNG BATU"
+  "districtName": "BARUS",
+  "name": "UJUNG BATU",
+  "postalCode": "23761"
  },
  {
   "id": 1204070019,
   "districtId": 1204070,
-  "name": "KAMPUNG MUDIK"
+  "districtName": "BARUS",
+  "name": "KAMPUNG MUDIK",
+  "postalCode": "22564"
  },
  {
   "id": 1204070020,
   "districtId": 1204070,
-  "name": "GABUNGAN HASANG"
+  "districtName": "BARUS",
+  "name": "GABUNGAN HASANG",
+  "postalCode": "22564"
  },
  {
   "id": 1204070024,
   "districtId": 1204070,
-  "name": "AEK DAKKA"
+  "districtName": "BARUS",
+  "name": "AEK DAKKA",
+  "postalCode": "22564"
  },
  {
   "id": 1204070036,
   "districtId": 1204070,
-  "name": "BUNGO TANJUNG"
+  "districtName": "BARUS",
+  "name": "BUNGO TANJUNG",
+  "postalCode": "22564"
  }
 ]

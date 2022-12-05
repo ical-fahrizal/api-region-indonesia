@@ -2,46 +2,64 @@
  {
   "id": 6101070001,
   "districtId": 6101070,
-  "name": "SEPANTAI"
+  "districtName": "SEJANGKUNG",
+  "name": "SEPANTAI",
+  "postalCode": "79463"
  },
  {
   "id": 6101070002,
   "districtId": 6101070,
-  "name": "SEMANGA"
+  "districtName": "SEJANGKUNG",
+  "name": "SEMANGA",
+  "postalCode": "79463"
  },
  {
   "id": 6101070003,
   "districtId": 6101070,
-  "name": "PERIGI LIMUS"
+  "districtName": "SEJANGKUNG",
+  "name": "PERIGI LIMUS",
+  "postalCode": "79463"
  },
  {
   "id": 6101070005,
   "districtId": 6101070,
-  "name": "SENDOYAN"
+  "districtName": "SEJANGKUNG",
+  "name": "SENDOYAN",
+  "postalCode": "79463"
  },
  {
   "id": 6101070006,
   "districtId": 6101070,
-  "name": "PERIGI LANDU"
+  "districtName": "SEJANGKUNG",
+  "name": "PERIGI LANDU",
+  "postalCode": "79463"
  },
  {
   "id": 6101070007,
   "districtId": 6101070,
-  "name": "PARIT RAJA"
+  "districtName": "SEJANGKUNG",
+  "name": "PARIT RAJA",
+  "postalCode": "79463"
  },
  {
   "id": 6101070008,
   "districtId": 6101070,
-  "name": "PIANTUS"
+  "districtName": "SEJANGKUNG",
+  "name": "PIANTUS",
+  "postalCode": "79463"
  },
  {
   "id": 6101070010,
   "districtId": 6101070,
-  "name": "SETALIK"
+  "districtName": "SEJANGKUNG",
+  "name": "SETALIK",
+  "postalCode": "79463"
  },
  {
   "id": 6101070011,
   "districtId": 6101070,
-  "name": "PENAKALAN"
+  "districtName": "SEJANGKUNG",
+  "name": "PENAKALAN",
+  "postalCode": "79463"
  }
 ]

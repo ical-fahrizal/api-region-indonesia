@@ -2,46 +2,64 @@
  {
   "id": 3316060002,
   "districtId": 3316060,
-  "name": "SAMBONGREJO"
+  "districtName": "SAMBONG",
+  "name": "SAMBONGREJO",
+  "postalCode": "58254"
  },
  {
   "id": 3316060003,
   "districtId": 3316060,
-  "name": "GADU"
+  "districtName": "SAMBONG",
+  "name": "GADU",
+  "postalCode": "22742"
  },
  {
   "id": 3316060004,
   "districtId": 3316060,
-  "name": "SAMBONG"
+  "districtName": "SAMBONG",
+  "name": "SAMBONG",
+  "postalCode": "51212"
  },
  {
   "id": 3316060005,
   "districtId": 3316060,
-  "name": "POJOKWATU"
+  "districtName": "SAMBONG",
+  "name": "POJOKWATU",
+  "postalCode": "58371"
  },
  {
   "id": 3316060006,
   "districtId": 3316060,
-  "name": "GAGAKAN"
+  "districtName": "SAMBONG",
+  "name": "GAGAKAN",
+  "postalCode": "58371"
  },
  {
   "id": 3316060007,
   "districtId": 3316060,
-  "name": "BITING"
+  "districtName": "SAMBONG",
+  "name": "BITING",
+  "postalCode": "53454"
  },
  {
   "id": 3316060008,
   "districtId": 3316060,
-  "name": "BRABOWAN"
+  "districtName": "SAMBONG",
+  "name": "BRABOWAN",
+  "postalCode": "58371"
  },
  {
   "id": 3316060009,
   "districtId": 3316060,
-  "name": "LEDOK"
+  "districtName": "SAMBONG",
+  "name": "LEDOK",
+  "postalCode": "50732"
  },
  {
   "id": 3316060010,
   "districtId": 3316060,
-  "name": "GIYANTI"
+  "districtName": "SAMBONG",
+  "name": "GIYANTI",
+  "postalCode": "56191"
  }
 ]

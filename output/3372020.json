@@ -2,36 +2,50 @@
  {
   "id": 3372020001,
   "districtId": 3372020,
-  "name": "JOYOTAKAN"
+  "districtName": "SERENGAN",
+  "name": "JOYOTAKAN",
+  "postalCode": "57157"
  },
  {
   "id": 3372020002,
   "districtId": 3372020,
-  "name": "DANUKUSUMAN"
+  "districtName": "SERENGAN",
+  "name": "DANUKUSUMAN",
+  "postalCode": "57156"
  },
  {
   "id": 3372020003,
   "districtId": 3372020,
-  "name": "SERENGAN"
+  "districtName": "SERENGAN",
+  "name": "SERENGAN",
+  "postalCode": "57155"
  },
  {
   "id": 3372020004,
   "districtId": 3372020,
-  "name": "TIPES"
+  "districtName": "SERENGAN",
+  "name": "TIPES",
+  "postalCode": "57154"
  },
  {
   "id": 3372020005,
   "districtId": 3372020,
-  "name": "KRATONAN"
+  "districtName": "SERENGAN",
+  "name": "KRATONAN",
+  "postalCode": "57153"
  },
  {
   "id": 3372020006,
   "districtId": 3372020,
-  "name": "JAYENGAN"
+  "districtName": "SERENGAN",
+  "name": "JAYENGAN",
+  "postalCode": "57152"
  },
  {
   "id": 3372020007,
   "districtId": 3372020,
-  "name": "KEMLAYAN"
+  "districtName": "SERENGAN",
+  "name": "KEMLAYAN",
+  "postalCode": "57151"
  }
 ]

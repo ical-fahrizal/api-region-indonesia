@@ -2,26 +2,36 @@
  {
   "id": 1306021001,
   "districtId": 1306021,
-  "name": "TOBOH GADANG"
+  "districtName": "SINTUK TOBOH GADANG",
+  "name": "TOBOH GADANG",
+  "postalCode": "25582"
  },
  {
   "id": 1306021002,
   "districtId": 1306021,
-  "name": "SINTUK"
+  "districtName": "SINTUK TOBOH GADANG",
+  "name": "SINTUK",
+  "postalCode": ""
  },
  {
   "id": 1306021003,
   "districtId": 1306021,
-  "name": "TOBOH GADANG BARAT"
+  "districtName": "SINTUK TOBOH GADANG",
+  "name": "TOBOH GADANG BARAT",
+  "postalCode": ""
  },
  {
   "id": 1306021004,
   "districtId": 1306021,
-  "name": "TOBOH GADANG SELATAN"
+  "districtName": "SINTUK TOBOH GADANG",
+  "name": "TOBOH GADANG SELATAN",
+  "postalCode": ""
  },
  {
   "id": 1306021005,
   "districtId": 1306021,
-  "name": "TOBOH GADANG TIMUR"
+  "districtName": "SINTUK TOBOH GADANG",
+  "name": "TOBOH GADANG TIMUR",
+  "postalCode": ""
  }
 ]

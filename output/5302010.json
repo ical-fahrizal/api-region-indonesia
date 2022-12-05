@@ -2,41 +2,57 @@
  {
   "id": 5302010009,
   "districtId": 5302010,
-  "name": "KONDAMARA"
+  "districtName": "LEWA",
+  "name": "KONDAMARA",
+  "postalCode": "87152"
  },
  {
   "id": 5302010010,
   "districtId": 5302010,
-  "name": "LEWAPAKU"
+  "districtName": "LEWA",
+  "name": "LEWAPAKU",
+  "postalCode": "87152"
  },
  {
   "id": 5302010011,
   "districtId": 5302010,
-  "name": "TANARARA"
+  "districtName": "LEWA",
+  "name": "TANARARA",
+  "postalCode": "87152"
  },
  {
   "id": 5302010014,
   "districtId": 5302010,
-  "name": "KAMBATA WUNDUT"
+  "districtName": "LEWA",
+  "name": "KAMBATA WUNDUT",
+  "postalCode": "87152"
  },
  {
   "id": 5302010015,
   "districtId": 5302010,
-  "name": "RAKAWATU"
+  "districtName": "LEWA",
+  "name": "RAKAWATU",
+  "postalCode": "87152"
  },
  {
   "id": 5302010017,
   "districtId": 5302010,
-  "name": "KAMBU HAPANG"
+  "districtName": "LEWA",
+  "name": "KAMBU HAPANG",
+  "postalCode": "87152"
  },
  {
   "id": 5302010018,
   "districtId": 5302010,
-  "name": "MATAWAI PAWALI"
+  "districtName": "LEWA",
+  "name": "MATAWAI PAWALI",
+  "postalCode": "87152"
  },
  {
   "id": 5302010019,
   "districtId": 5302010,
-  "name": "BIDI HUNGA"
+  "districtName": "LEWA",
+  "name": "BIDI HUNGA",
+  "postalCode": "87152"
  }
 ]

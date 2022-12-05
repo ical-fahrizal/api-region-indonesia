@@ -2,116 +2,162 @@
  {
   "id": 9418020019,
   "districtId": 9418020,
-  "name": "KARUBAGA"
+  "districtName": "KARUBAGA",
+  "name": "KARUBAGA",
+  "postalCode": "99562"
  },
  {
   "id": 9418020020,
   "districtId": 9418020,
-  "name": "MOLERA"
+  "districtName": "KARUBAGA",
+  "name": "MOLERA",
+  "postalCode": "99562"
  },
  {
   "id": 9418020030,
   "districtId": 9418020,
-  "name": "KOGIMAGE"
+  "districtName": "KARUBAGA",
+  "name": "KOGIMAGE",
+  "postalCode": ""
  },
  {
   "id": 9418020038,
   "districtId": 9418020,
-  "name": "AMPERA"
+  "districtName": "KARUBAGA",
+  "name": "AMPERA",
+  "postalCode": "24671"
  },
  {
   "id": 9418020041,
   "districtId": 9418020,
-  "name": "GININGGADONAK"
+  "districtName": "KARUBAGA",
+  "name": "GININGGADONAK",
+  "postalCode": "99562"
  },
  {
   "id": 9418020042,
   "districtId": 9418020,
-  "name": "DANGGULURIK"
+  "districtName": "KARUBAGA",
+  "name": "DANGGULURIK",
+  "postalCode": "99562"
  },
  {
   "id": 9418020043,
   "districtId": 9418020,
-  "name": "GURIKME"
+  "districtName": "KARUBAGA",
+  "name": "GURIKME",
+  "postalCode": "99562"
  },
  {
   "id": 9418020044,
   "districtId": 9418020,
-  "name": "LIRAK"
+  "districtName": "KARUBAGA",
+  "name": "LIRAK",
+  "postalCode": "99562"
  },
  {
   "id": 9418020045,
   "districtId": 9418020,
-  "name": "KIMOBUR"
+  "districtName": "KARUBAGA",
+  "name": "KIMOBUR",
+  "postalCode": "99562"
  },
  {
   "id": 9418020046,
   "districtId": 9418020,
-  "name": "MUARA"
+  "districtName": "KARUBAGA",
+  "name": "MUARA",
+  "postalCode": "41259"
  },
  {
   "id": 9418020047,
   "districtId": 9418020,
-  "name": "KURAGE PURA"
+  "districtName": "KARUBAGA",
+  "name": "KURAGE PURA",
+  "postalCode": ""
  },
  {
   "id": 9418020048,
   "districtId": 9418020,
-  "name": "KIRANAGE"
+  "districtName": "KARUBAGA",
+  "name": "KIRANAGE",
+  "postalCode": "99562"
  },
  {
   "id": 9418020049,
   "districtId": 9418020,
-  "name": "NALORINI"
+  "districtName": "KARUBAGA",
+  "name": "NALORINI",
+  "postalCode": "99562"
  },
  {
   "id": 9418020050,
   "districtId": 9418020,
-  "name": "BILEME"
+  "districtName": "KARUBAGA",
+  "name": "BILEME",
+  "postalCode": ""
  },
  {
   "id": 9418020051,
   "districtId": 9418020,
-  "name": "GURIKAGEWAK"
+  "districtName": "KARUBAGA",
+  "name": "GURIKAGEWAK",
+  "postalCode": ""
  },
  {
   "id": 9418020052,
   "districtId": 9418020,
-  "name": "LUWIK"
+  "districtName": "KARUBAGA",
+  "name": "LUWIK",
+  "postalCode": "99562"
  },
  {
   "id": 9418020055,
   "districtId": 9418020,
-  "name": "ELSADAI"
+  "districtName": "KARUBAGA",
+  "name": "ELSADAI",
+  "postalCode": "99562"
  },
  {
   "id": 9418020056,
   "districtId": 9418020,
-  "name": "EBENHAIZER"
+  "districtName": "KARUBAGA",
+  "name": "EBENHAIZER",
+  "postalCode": ""
  },
  {
   "id": 9418020057,
   "districtId": 9418020,
-  "name": "KOLILAN"
+  "districtName": "KARUBAGA",
+  "name": "KOLILAN",
+  "postalCode": "99562"
  },
  {
   "id": 9418020059,
   "districtId": 9418020,
-  "name": "KULUNAME"
+  "districtName": "KARUBAGA",
+  "name": "KULUNAME",
+  "postalCode": ""
  },
  {
   "id": 9418020060,
   "districtId": 9418020,
-  "name": "PULANGGUN"
+  "districtName": "KARUBAGA",
+  "name": "PULANGGUN",
+  "postalCode": "99562"
  },
  {
   "id": 9418020062,
   "districtId": 9418020,
-  "name": "LONGGOALOME"
+  "districtName": "KARUBAGA",
+  "name": "LONGGOALOME",
+  "postalCode": ""
  },
  {
   "id": 9418020063,
   "districtId": 9418020,
-  "name": "WANIMO"
+  "districtName": "KARUBAGA",
+  "name": "WANIMO",
+  "postalCode": ""
  }
 ]

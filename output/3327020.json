@@ -2,61 +2,85 @@
  {
   "id": 3327020001,
   "districtId": 3327020,
-  "name": "CLEKATAKAN"
+  "districtName": "PULOSARI",
+  "name": "CLEKATAKAN",
+  "postalCode": "52355"
  },
  {
   "id": 3327020002,
   "districtId": 3327020,
-  "name": "BATURSARI"
+  "districtName": "PULOSARI",
+  "name": "BATURSARI",
+  "postalCode": "59186"
  },
  {
   "id": 3327020003,
   "districtId": 3327020,
-  "name": "PENAKIR"
+  "districtName": "PULOSARI",
+  "name": "PENAKIR",
+  "postalCode": "52355"
  },
  {
   "id": 3327020004,
   "districtId": 3327020,
-  "name": "GUNUNGSARI"
+  "districtName": "PULOSARI",
+  "name": "GUNUNGSARI",
+  "postalCode": "35368"
  },
  {
   "id": 3327020005,
   "districtId": 3327020,
-  "name": "JURANGMANGU"
+  "districtName": "PULOSARI",
+  "name": "JURANGMANGU",
+  "postalCode": "52355"
  },
  {
   "id": 3327020006,
   "districtId": 3327020,
-  "name": "GAMBUHAN"
+  "districtName": "PULOSARI",
+  "name": "GAMBUHAN",
+  "postalCode": "52355"
  },
  {
   "id": 3327020007,
   "districtId": 3327020,
-  "name": "KARANGSARI"
+  "districtName": "PULOSARI",
+  "name": "KARANGSARI",
+  "postalCode": "35376"
  },
  {
   "id": 3327020008,
   "districtId": 3327020,
-  "name": "NYALEMBENG"
+  "districtName": "PULOSARI",
+  "name": "NYALEMBENG",
+  "postalCode": "52355"
  },
  {
   "id": 3327020009,
   "districtId": 3327020,
-  "name": "PULOSARI"
+  "districtName": "PULOSARI",
+  "name": "PULOSARI",
+  "postalCode": "43354"
  },
  {
   "id": 3327020010,
   "districtId": 3327020,
-  "name": "PAGENTERAN"
+  "districtName": "PULOSARI",
+  "name": "PAGENTERAN",
+  "postalCode": "52355"
  },
  {
   "id": 3327020011,
   "districtId": 3327020,
-  "name": "SIREMENG"
+  "districtName": "PULOSARI",
+  "name": "SIREMENG",
+  "postalCode": "52355"
  },
  {
   "id": 3327020012,
   "districtId": 3327020,
-  "name": "CIKENDUNG"
+  "districtName": "PULOSARI",
+  "name": "CIKENDUNG",
+  "postalCode": "52355"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 7102191001,
   "districtId": 7102191,
-  "name": "URONGO"
+  "districtName": "TONDANO SELATAN",
+  "name": "URONGO",
+  "postalCode": "95619"
  },
  {
   "id": 7102191002,
   "districtId": 7102191,
-  "name": "PELELOAN"
+  "districtName": "TONDANO SELATAN",
+  "name": "PELELOAN",
+  "postalCode": "95619"
  },
  {
   "id": 7102191003,
   "districtId": 7102191,
-  "name": "TOUNSARU"
+  "districtName": "TONDANO SELATAN",
+  "name": "TOUNSARU",
+  "postalCode": "95619"
  },
  {
   "id": 7102191004,
   "districtId": 7102191,
-  "name": "KOYA"
+  "districtName": "TONDANO SELATAN",
+  "name": "KOYA",
+  "postalCode": "95618"
  },
  {
   "id": 7102191005,
   "districtId": 7102191,
-  "name": "TATAARAN SATU"
+  "districtName": "TONDANO SELATAN",
+  "name": "TATAARAN SATU",
+  "postalCode": ""
  },
  {
   "id": 7102191006,
   "districtId": 7102191,
-  "name": "TATAARAN PATAR"
+  "districtName": "TONDANO SELATAN",
+  "name": "TATAARAN PATAR",
+  "postalCode": "95619"
  },
  {
   "id": 7102191007,
   "districtId": 7102191,
-  "name": "TATAARAN DUA"
+  "districtName": "TONDANO SELATAN",
+  "name": "TATAARAN DUA",
+  "postalCode": ""
  },
  {
   "id": 7102191008,
   "districtId": 7102191,
-  "name": "MAESA UNIMA"
+  "districtName": "TONDANO SELATAN",
+  "name": "MAESA UNIMA",
+  "postalCode": "95618"
  }
 ]

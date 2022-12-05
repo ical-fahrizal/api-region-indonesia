@@ -2,61 +2,85 @@
  {
   "id": 1808031001,
   "districtId": 1808031,
-  "name": "RINGIN SARI"
+  "districtName": "BANJAR MARGO",
+  "name": "RINGIN SARI",
+  "postalCode": "32385"
  },
  {
   "id": 1808031002,
   "districtId": 1808031,
-  "name": "CATUR KARYA BUANA JAYA"
+  "districtName": "BANJAR MARGO",
+  "name": "CATUR KARYA BUANA JAYA",
+  "postalCode": "34682"
  },
  {
   "id": 1808031003,
   "districtId": 1808031,
-  "name": "BUJUK AGUNG"
+  "districtName": "BANJAR MARGO",
+  "name": "BUJUK AGUNG",
+  "postalCode": "34682"
  },
  {
   "id": 1808031004,
   "districtId": 1808031,
-  "name": "SUKAMAJU"
+  "districtName": "BANJAR MARGO",
+  "name": "SUKAMAJU",
+  "postalCode": "22465"
  },
  {
   "id": 1808031005,
   "districtId": 1808031,
-  "name": "PENAWAR JAYA"
+  "districtName": "BANJAR MARGO",
+  "name": "PENAWAR JAYA",
+  "postalCode": "34682"
  },
  {
   "id": 1808031006,
   "districtId": 1808031,
-  "name": "PURWA JAYA"
+  "districtName": "BANJAR MARGO",
+  "name": "PURWA JAYA",
+  "postalCode": ""
  },
  {
   "id": 1808031007,
   "districtId": 1808031,
-  "name": "AGUNG DALEM"
+  "districtName": "BANJAR MARGO",
+  "name": "AGUNG DALEM",
+  "postalCode": ""
  },
  {
   "id": 1808031008,
   "districtId": 1808031,
-  "name": "SUMBER MAKMUR"
+  "districtName": "BANJAR MARGO",
+  "name": "SUMBER MAKMUR",
+  "postalCode": "23662"
  },
  {
   "id": 1808031009,
   "districtId": 1808031,
-  "name": "TRI TUNGGAL JAYA"
+  "districtName": "BANJAR MARGO",
+  "name": "TRI TUNGGAL JAYA",
+  "postalCode": "34682"
  },
  {
   "id": 1808031010,
   "districtId": 1808031,
-  "name": "AGUNG JAYA"
+  "districtName": "BANJAR MARGO",
+  "name": "AGUNG JAYA",
+  "postalCode": "30758"
  },
  {
   "id": 1808031011,
   "districtId": 1808031,
-  "name": "PENAWAR REJO"
+  "districtName": "BANJAR MARGO",
+  "name": "PENAWAR REJO",
+  "postalCode": "34682"
  },
  {
   "id": 1808031012,
   "districtId": 1808031,
-  "name": "MEKAR JAYA"
+  "districtName": "BANJAR MARGO",
+  "name": "MEKAR JAYA",
+  "postalCode": "20771"
  }
 ]

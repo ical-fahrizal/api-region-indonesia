@@ -2,76 +2,106 @@
  {
   "id": 3320080001,
   "districtId": 3320080,
-  "name": "KARANGKEBAGUSAN"
+  "districtName": "JEPARA",
+  "name": "KARANGKEBAGUSAN",
+  "postalCode": "59411"
  },
  {
   "id": 3320080002,
   "districtId": 3320080,
-  "name": "DEMAAN"
+  "districtName": "JEPARA",
+  "name": "DEMAAN",
+  "postalCode": "59263"
  },
  {
   "id": 3320080004,
   "districtId": 3320080,
-  "name": "KAUMAN"
+  "districtName": "JEPARA",
+  "name": "KAUMAN",
+  "postalCode": "51215"
  },
  {
   "id": 3320080005,
   "districtId": 3320080,
-  "name": "PANGGANG"
+  "districtName": "JEPARA",
+  "name": "PANGGANG",
+  "postalCode": "59411"
  },
  {
   "id": 3320080006,
   "districtId": 3320080,
-  "name": "POTROYUDAN"
+  "districtName": "JEPARA",
+  "name": "POTROYUDAN",
+  "postalCode": "59412"
  },
  {
   "id": 3320080007,
   "districtId": 3320080,
-  "name": "BAPANGAN"
+  "districtName": "JEPARA",
+  "name": "BAPANGAN",
+  "postalCode": "59413"
  },
  {
   "id": 3320080008,
   "districtId": 3320080,
-  "name": "SARIPAN"
+  "districtName": "JEPARA",
+  "name": "SARIPAN",
+  "postalCode": "59414"
  },
  {
   "id": 3320080009,
   "districtId": 3320080,
-  "name": "JOBOKUTO"
+  "districtName": "JEPARA",
+  "name": "JOBOKUTO",
+  "postalCode": "59416"
  },
  {
   "id": 3320080010,
   "districtId": 3320080,
-  "name": "UJUNGBATU"
+  "districtName": "JEPARA",
+  "name": "UJUNGBATU",
+  "postalCode": "59416"
  },
  {
   "id": 3320080011,
   "districtId": 3320080,
-  "name": "PENGKOL"
+  "districtName": "JEPARA",
+  "name": "PENGKOL",
+  "postalCode": "57692"
  },
  {
   "id": 3320080012,
   "districtId": 3320080,
-  "name": "MULYOHARJO"
+  "districtName": "JEPARA",
+  "name": "MULYOHARJO",
+  "postalCode": "59431"
  },
  {
   "id": 3320080013,
   "districtId": 3320080,
-  "name": "KUWASEN"
+  "districtName": "JEPARA",
+  "name": "KUWASEN",
+  "postalCode": "59431"
  },
  {
   "id": 3320080014,
   "districtId": 3320080,
-  "name": "BANDENGAN"
+  "districtName": "JEPARA",
+  "name": "BANDENGAN",
+  "postalCode": "45173"
  },
  {
   "id": 3320080015,
   "districtId": 3320080,
-  "name": "WONOREJO"
+  "districtName": "JEPARA",
+  "name": "WONOREJO",
+  "postalCode": "21186"
  },
  {
   "id": 3320080016,
   "districtId": 3320080,
-  "name": "KEDUNGCINO"
+  "districtName": "JEPARA",
+  "name": "KEDUNGCINO",
+  "postalCode": "59432"
  }
 ]

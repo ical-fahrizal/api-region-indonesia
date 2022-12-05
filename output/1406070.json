@@ -2,86 +2,120 @@
  {
   "id": 1406070001,
   "districtId": 1406070,
-  "name": "KUAPAN"
+  "districtName": "TAMBANG",
+  "name": "KUAPAN",
+  "postalCode": "28462"
  },
  {
   "id": 1406070002,
   "districtId": 1406070,
-  "name": "AUR SATI"
+  "districtName": "TAMBANG",
+  "name": "AUR SATI",
+  "postalCode": ""
  },
  {
   "id": 1406070003,
   "districtId": 1406070,
-  "name": "TAMBANG"
+  "districtName": "TAMBANG",
+  "name": "TAMBANG",
+  "postalCode": "25651"
  },
  {
   "id": 1406070004,
   "districtId": 1406070,
-  "name": "PADANG LUAS"
+  "districtName": "TAMBANG",
+  "name": "PADANG LUAS",
+  "postalCode": "28381"
  },
  {
   "id": 1406070005,
   "districtId": 1406070,
-  "name": "GOBAH"
+  "districtName": "TAMBANG",
+  "name": "GOBAH",
+  "postalCode": "28462"
  },
  {
   "id": 1406070006,
   "districtId": 1406070,
-  "name": "TERANTANG"
+  "districtName": "TAMBANG",
+  "name": "TERANTANG",
+  "postalCode": "28462"
  },
  {
   "id": 1406070007,
   "districtId": 1406070,
-  "name": "RIMBA PANJANG"
+  "districtName": "TAMBANG",
+  "name": "RIMBA PANJANG",
+  "postalCode": ""
  },
  {
   "id": 1406070008,
   "districtId": 1406070,
-  "name": "KUALU"
+  "districtName": "TAMBANG",
+  "name": "KUALU",
+  "postalCode": "28462"
  },
  {
   "id": 1406070009,
   "districtId": 1406070,
-  "name": "TELUK KENIDAI"
+  "districtName": "TAMBANG",
+  "name": "TELUK KENIDAI",
+  "postalCode": "28462"
  },
  {
   "id": 1406070010,
   "districtId": 1406070,
-  "name": "PARIT BARU"
+  "districtName": "TAMBANG",
+  "name": "PARIT BARU",
+  "postalCode": "28462"
  },
  {
   "id": 1406070011,
   "districtId": 1406070,
-  "name": "KEMANG INDAH"
+  "districtName": "TAMBANG",
+  "name": "KEMANG INDAH",
+  "postalCode": "28462"
  },
  {
   "id": 1406070012,
   "districtId": 1406070,
-  "name": "SUNGAI PINANG"
+  "districtName": "TAMBANG",
+  "name": "SUNGAI PINANG",
+  "postalCode": "25654"
  },
  {
   "id": 1406070013,
   "districtId": 1406070,
-  "name": "KUALU NENAS"
+  "districtName": "TAMBANG",
+  "name": "KUALU NENAS",
+  "postalCode": "28462"
  },
  {
   "id": 1406070014,
   "districtId": 1406070,
-  "name": "TARAI BANGUN"
+  "districtName": "TAMBANG",
+  "name": "TARAI BANGUN",
+  "postalCode": "28462"
  },
  {
   "id": 1406070015,
   "districtId": 1406070,
-  "name": "PALUNG RAYA"
+  "districtName": "TAMBANG",
+  "name": "PALUNG RAYA",
+  "postalCode": "28462"
  },
  {
   "id": 1406070016,
   "districtId": 1406070,
-  "name": "PULAU PERMAI"
+  "districtName": "TAMBANG",
+  "name": "PULAU PERMAI",
+  "postalCode": "28462"
  },
  {
   "id": 1406070017,
   "districtId": 1406070,
-  "name": "BALAM JAYA"
+  "districtName": "TAMBANG",
+  "name": "BALAM JAYA",
+  "postalCode": "28992"
  }
 ]

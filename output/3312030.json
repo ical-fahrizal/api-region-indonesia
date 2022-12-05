@@ -2,36 +2,50 @@
  {
   "id": 3312030001,
   "districtId": 3312030,
-  "name": "NGARGOHARJO"
+  "districtName": "GIRITONTRO",
+  "name": "NGARGOHARJO",
+  "postalCode": "57678"
  },
  {
   "id": 3312030002,
   "districtId": 3312030,
-  "name": "TLOGOSARI"
+  "districtName": "GIRITONTRO",
+  "name": "TLOGOSARI",
+  "postalCode": "54473"
  },
  {
   "id": 3312030003,
   "districtId": 3312030,
-  "name": "TLOGOHARJO"
+  "districtName": "GIRITONTRO",
+  "name": "TLOGOHARJO",
+  "postalCode": "57678"
  },
  {
   "id": 3312030004,
   "districtId": 3312030,
-  "name": "BAYEMHARJO"
+  "districtName": "GIRITONTRO",
+  "name": "BAYEMHARJO",
+  "postalCode": "57678"
  },
  {
   "id": 3312030005,
   "districtId": 3312030,
-  "name": "JATIREJO"
+  "districtName": "GIRITONTRO",
+  "name": "JATIREJO",
+  "postalCode": "23661"
  },
  {
   "id": 3312030006,
   "districtId": 3312030,
-  "name": "GIRITONTRO"
+  "districtName": "GIRITONTRO",
+  "name": "GIRITONTRO",
+  "postalCode": "57678"
  },
  {
   "id": 3312030007,
   "districtId": 3312030,
-  "name": "PUCANGANOM"
+  "districtName": "GIRITONTRO",
+  "name": "PUCANGANOM",
+  "postalCode": "57678"
  }
 ]

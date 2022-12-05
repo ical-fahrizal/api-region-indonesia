@@ -2,66 +2,92 @@
  {
   "id": 3303020001,
   "districtId": 3303020,
-  "name": "TIDU"
+  "districtName": "BUKATEJA",
+  "name": "TIDU",
+  "postalCode": "53382"
  },
  {
   "id": 3303020002,
   "districtId": 3303020,
-  "name": "WIRASABA"
+  "districtName": "BUKATEJA",
+  "name": "WIRASABA",
+  "postalCode": "53382"
  },
  {
   "id": 3303020003,
   "districtId": 3303020,
-  "name": "KEMBANGAN"
+  "districtName": "BUKATEJA",
+  "name": "KEMBANGAN",
+  "postalCode": "59511"
  },
  {
   "id": 3303020004,
   "districtId": 3303020,
-  "name": "CIPAWON"
+  "districtName": "BUKATEJA",
+  "name": "CIPAWON",
+  "postalCode": "53382"
  },
  {
   "id": 3303020005,
   "districtId": 3303020,
-  "name": "KARANGCENGIS"
+  "districtName": "BUKATEJA",
+  "name": "KARANGCENGIS",
+  "postalCode": "53382"
  },
  {
   "id": 3303020006,
   "districtId": 3303020,
-  "name": "KARANGGEDANG"
+  "districtName": "BUKATEJA",
+  "name": "KARANGGEDANG",
+  "postalCode": "54261"
  },
  {
   "id": 3303020007,
   "districtId": 3303020,
-  "name": "KARANGNANGKA"
+  "districtName": "BUKATEJA",
+  "name": "KARANGNANGKA",
+  "postalCode": "53281"
  },
  {
   "id": 3303020008,
   "districtId": 3303020,
-  "name": "KUTAWIS"
+  "districtName": "BUKATEJA",
+  "name": "KUTAWIS",
+  "postalCode": "53382"
  },
  {
   "id": 3303020010,
   "districtId": 3303020,
-  "name": "PENARUBAN"
+  "districtName": "BUKATEJA",
+  "name": "PENARUBAN",
+  "postalCode": "53382"
  },
  {
   "id": 3303020011,
   "districtId": 3303020,
-  "name": "KEDUNGJATI"
+  "districtName": "BUKATEJA",
+  "name": "KEDUNGJATI",
+  "postalCode": "53382"
  },
  {
   "id": 3303020012,
   "districtId": 3303020,
-  "name": "BUKATEJA"
+  "districtName": "BUKATEJA",
+  "name": "BUKATEJA",
+  "postalCode": "52464"
  },
  {
   "id": 3303020013,
   "districtId": 3303020,
-  "name": "MAJASARI"
+  "districtName": "BUKATEJA",
+  "name": "MAJASARI",
+  "postalCode": "31124"
  },
  {
   "id": 3303020014,
   "districtId": 3303020,
-  "name": "BAJONG"
+  "districtName": "BUKATEJA",
+  "name": "BAJONG",
+  "postalCode": "53382"
  }
 ]

@@ -2,51 +2,71 @@
  {
   "id": 3301070001,
   "districtId": 3301070,
-  "name": "TEGALSARI"
+  "districtName": "SIDAREJA",
+  "name": "TEGALSARI",
+  "postalCode": "35372"
  },
  {
   "id": 3301070002,
   "districtId": 3301070,
-  "name": "MARGASARI"
+  "districtName": "SIDAREJA",
+  "name": "MARGASARI",
+  "postalCode": "34198"
  },
  {
   "id": 3301070003,
   "districtId": 3301070,
-  "name": "TINGGARJAYA"
+  "districtName": "SIDAREJA",
+  "name": "TINGGARJAYA",
+  "postalCode": "53174"
  },
  {
   "id": 3301070004,
   "districtId": 3301070,
-  "name": "GUNUNGREJA"
+  "districtName": "SIDAREJA",
+  "name": "GUNUNGREJA",
+  "postalCode": "53261"
  },
  {
   "id": 3301070005,
   "districtId": 3301070,
-  "name": "SIDAREJA"
+  "districtName": "SIDAREJA",
+  "name": "SIDAREJA",
+  "postalCode": "54392"
  },
  {
   "id": 3301070006,
   "districtId": 3301070,
-  "name": "SIDAMULYA"
+  "districtName": "SIDAREJA",
+  "name": "SIDAMULYA",
+  "postalCode": "45181"
  },
  {
   "id": 3301070007,
   "districtId": 3301070,
-  "name": "SUDAGARAN"
+  "districtName": "SIDAREJA",
+  "name": "SUDAGARAN",
+  "postalCode": "53192"
  },
  {
   "id": 3301070008,
   "districtId": 3301070,
-  "name": "KUNCI"
+  "districtName": "SIDAREJA",
+  "name": "KUNCI",
+  "postalCode": "53261"
  },
  {
   "id": 3301070009,
   "districtId": 3301070,
-  "name": "KARANGGEDANG"
+  "districtName": "SIDAREJA",
+  "name": "KARANGGEDANG",
+  "postalCode": "54261"
  },
  {
   "id": 3301070010,
   "districtId": 3301070,
-  "name": "PENYARANG"
+  "districtName": "SIDAREJA",
+  "name": "PENYARANG",
+  "postalCode": "53261"
  }
 ]

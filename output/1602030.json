@@ -2,116 +2,162 @@
  {
   "id": 1602030010,
   "districtId": 1602030,
-  "name": "PULU BERUANG"
+  "districtName": "TULUNG SELAPAN",
+  "name": "PULU BERUANG",
+  "postalCode": ""
  },
  {
   "id": 1602030011,
   "districtId": 1602030,
-  "name": "TULUNG SELAPAN ILIR"
+  "districtName": "TULUNG SELAPAN",
+  "name": "TULUNG SELAPAN ILIR",
+  "postalCode": "30655"
  },
  {
   "id": 1602030012,
   "districtId": 1602030,
-  "name": "TULUNG SELAPAN ULU"
+  "districtName": "TULUNG SELAPAN",
+  "name": "TULUNG SELAPAN ULU",
+  "postalCode": "30655"
  },
  {
   "id": 1602030013,
   "districtId": 1602030,
-  "name": "PETALING"
+  "districtName": "TULUNG SELAPAN",
+  "name": "PETALING",
+  "postalCode": "30953"
  },
  {
   "id": 1602030014,
   "districtId": 1602030,
-  "name": "KAYU ARA"
+  "districtName": "TULUNG SELAPAN",
+  "name": "KAYU ARA",
+  "postalCode": "28755"
  },
  {
   "id": 1602030015,
   "districtId": 1602030,
-  "name": "PENYANDINGAN"
+  "districtName": "TULUNG SELAPAN",
+  "name": "PENYANDINGAN",
+  "postalCode": "30862"
  },
  {
   "id": 1602030016,
   "districtId": 1602030,
-  "name": "TANJUNG BATU"
+  "districtName": "TULUNG SELAPAN",
+  "name": "TANJUNG BATU",
+  "postalCode": "37173"
  },
  {
   "id": 1602030017,
   "districtId": 1602030,
-  "name": "CAMBAI"
+  "districtName": "TULUNG SELAPAN",
+  "name": "CAMBAI",
+  "postalCode": "31141"
  },
  {
   "id": 1602030018,
   "districtId": 1602030,
-  "name": "TOMAN"
+  "districtName": "TULUNG SELAPAN",
+  "name": "TOMAN",
+  "postalCode": "30752"
  },
  {
   "id": 1602030019,
   "districtId": 1602030,
-  "name": "JERAMBAH RENGAS"
+  "districtName": "TULUNG SELAPAN",
+  "name": "JERAMBAH RENGAS",
+  "postalCode": "30655"
  },
  {
   "id": 1602030020,
   "districtId": 1602030,
-  "name": "PENANGGOAN DUREN"
+  "districtName": "TULUNG SELAPAN",
+  "name": "PENANGGOAN DUREN",
+  "postalCode": "30655"
  },
  {
   "id": 1602030021,
   "districtId": 1602030,
-  "name": "LEBUNG ITAM"
+  "districtName": "TULUNG SELAPAN",
+  "name": "LEBUNG ITAM",
+  "postalCode": "30655"
  },
  {
   "id": 1602030022,
   "districtId": 1602030,
-  "name": "LEBUNG GAJAH"
+  "districtName": "TULUNG SELAPAN",
+  "name": "LEBUNG GAJAH",
+  "postalCode": "30655"
  },
  {
   "id": 1602030023,
   "districtId": 1602030,
-  "name": "UJUNG TANJUNG"
+  "districtName": "TULUNG SELAPAN",
+  "name": "UJUNG TANJUNG",
+  "postalCode": "29566"
  },
  {
   "id": 1602030024,
   "districtId": 1602030,
-  "name": "SIMPANG TIGA"
+  "districtName": "TULUNG SELAPAN",
+  "name": "SIMPANG TIGA",
+  "postalCode": "23772"
  },
  {
   "id": 1602030025,
   "districtId": 1602030,
-  "name": "SIMPANG TIGA SAKTI"
+  "districtName": "TULUNG SELAPAN",
+  "name": "SIMPANG TIGA SAKTI",
+  "postalCode": "30655"
  },
  {
   "id": 1602030026,
   "districtId": 1602030,
-  "name": "SIMPANG TIGA MAKMUR"
+  "districtName": "TULUNG SELAPAN",
+  "name": "SIMPANG TIGA MAKMUR",
+  "postalCode": "30655"
  },
  {
   "id": 1602030027,
   "districtId": 1602030,
-  "name": "SIMPANG TIGA JAYA"
+  "districtName": "TULUNG SELAPAN",
+  "name": "SIMPANG TIGA JAYA",
+  "postalCode": "30655"
  },
  {
   "id": 1602030028,
   "districtId": 1602030,
-  "name": "RANTAU LURUS"
+  "districtName": "TULUNG SELAPAN",
+  "name": "RANTAU LURUS",
+  "postalCode": "30655"
  },
  {
   "id": 1602030029,
   "districtId": 1602030,
-  "name": "TULUNG SELUANG"
+  "districtName": "TULUNG SELAPAN",
+  "name": "TULUNG SELUANG",
+  "postalCode": "30655"
  },
  {
   "id": 1602030030,
   "districtId": 1602030,
-  "name": "SIMPANG TIGA ABADI"
+  "districtName": "TULUNG SELAPAN",
+  "name": "SIMPANG TIGA ABADI",
+  "postalCode": ""
  },
  {
   "id": 1602030031,
   "districtId": 1602030,
-  "name": "KUALA DUA BELAS"
+  "districtName": "TULUNG SELAPAN",
+  "name": "KUALA DUA BELAS",
+  "postalCode": ""
  },
  {
   "id": 1602030032,
   "districtId": 1602030,
-  "name": "TULUNG SELAPAN TIMUR"
+  "districtName": "TULUNG SELAPAN",
+  "name": "TULUNG SELAPAN TIMUR",
+  "postalCode": ""
  }
 ]

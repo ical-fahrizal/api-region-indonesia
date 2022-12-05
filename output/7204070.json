@@ -2,36 +2,50 @@
  {
   "id": 7204070006,
   "districtId": 7204070,
-  "name": "GEBANG REJO"
+  "districtName": "POSO KOTA",
+  "name": "GEBANG REJO",
+  "postalCode": "94619"
  },
  {
   "id": 7204070007,
   "districtId": 7204070,
-  "name": "MOENGKO"
+  "districtName": "POSO KOTA",
+  "name": "MOENGKO",
+  "postalCode": ""
  },
  {
   "id": 7204070008,
   "districtId": 7204070,
-  "name": "MOENGKO BARU"
+  "districtName": "POSO KOTA",
+  "name": "MOENGKO BARU",
+  "postalCode": "94618"
  },
  {
   "id": 7204070009,
   "districtId": 7204070,
-  "name": "KAYAMANYA"
+  "districtName": "POSO KOTA",
+  "name": "KAYAMANYA",
+  "postalCode": "94617"
  },
  {
   "id": 7204070010,
   "districtId": 7204070,
-  "name": "GEBANGREJO TIMUR"
+  "districtName": "POSO KOTA",
+  "name": "GEBANGREJO TIMUR",
+  "postalCode": ""
  },
  {
   "id": 7204070011,
   "districtId": 7204070,
-  "name": "GEBANGREJO BARAT"
+  "districtName": "POSO KOTA",
+  "name": "GEBANGREJO BARAT",
+  "postalCode": ""
  },
  {
   "id": 7204070012,
   "districtId": 7204070,
-  "name": "KAYAMANYA SENTRAL"
+  "districtName": "POSO KOTA",
+  "name": "KAYAMANYA SENTRAL",
+  "postalCode": ""
  }
 ]

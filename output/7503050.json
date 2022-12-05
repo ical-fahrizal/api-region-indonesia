@@ -2,56 +2,78 @@
  {
   "id": 7503050001,
   "districtId": 7503050,
-  "name": "LIBUO"
+  "districtName": "PAGUAT",
+  "name": "LIBUO",
+  "postalCode": "96135"
  },
  {
   "id": 7503050002,
   "districtId": 7503050,
-  "name": "PENTADU"
+  "districtName": "PAGUAT",
+  "name": "PENTADU",
+  "postalCode": "96265"
  },
  {
   "id": 7503050003,
   "districtId": 7503050,
-  "name": "SIDUAN"
+  "districtName": "PAGUAT",
+  "name": "SIDUAN",
+  "postalCode": "96265"
  },
  {
   "id": 7503050004,
   "districtId": 7503050,
-  "name": "BUNUYO"
+  "districtName": "PAGUAT",
+  "name": "BUNUYO",
+  "postalCode": "96265"
  },
  {
   "id": 7503050005,
   "districtId": 7503050,
-  "name": "SIPAYO"
+  "districtName": "PAGUAT",
+  "name": "SIPAYO",
+  "postalCode": "94475"
  },
  {
   "id": 7503050006,
   "districtId": 7503050,
-  "name": "SOGINTI"
+  "districtName": "PAGUAT",
+  "name": "SOGINTI",
+  "postalCode": "96265"
  },
  {
   "id": 7503050010,
   "districtId": 7503050,
-  "name": "MALEO"
+  "districtName": "PAGUAT",
+  "name": "MALEO",
+  "postalCode": "96265"
  },
  {
   "id": 7503050011,
   "districtId": 7503050,
-  "name": "BUMBULAN"
+  "districtName": "PAGUAT",
+  "name": "BUMBULAN",
+  "postalCode": "96265"
  },
  {
   "id": 7503050012,
   "districtId": 7503050,
-  "name": "BUHU JAYA"
+  "districtName": "PAGUAT",
+  "name": "BUHU JAYA",
+  "postalCode": "96265"
  },
  {
   "id": 7503050013,
   "districtId": 7503050,
-  "name": "MOLAMAHU"
+  "districtName": "PAGUAT",
+  "name": "MOLAMAHU",
+  "postalCode": "96585"
  },
  {
   "id": 7503050014,
   "districtId": 7503050,
-  "name": "KEMIRI"
+  "districtName": "PAGUAT",
+  "name": "KEMIRI",
+  "postalCode": "41352"
  }
 ]

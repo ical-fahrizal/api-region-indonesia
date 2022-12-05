@@ -2,36 +2,50 @@
  {
   "id": 7308022001,
   "districtId": 7308022,
-  "name": "TAROADA"
+  "districtName": "TURIKALE",
+  "name": "TAROADA",
+  "postalCode": "90516"
  },
  {
   "id": 7308022002,
   "districtId": 7308022,
-  "name": "ADATONGENG"
+  "districtName": "TURIKALE",
+  "name": "ADATONGENG",
+  "postalCode": "90516"
  },
  {
   "id": 7308022003,
   "districtId": 7308022,
-  "name": "PETTUADAE"
+  "districtName": "TURIKALE",
+  "name": "PETTUADAE",
+  "postalCode": "90516"
  },
  {
   "id": 7308022004,
   "districtId": 7308022,
-  "name": "BORI BELLAYA"
+  "districtName": "TURIKALE",
+  "name": "BORI BELLAYA",
+  "postalCode": "90512"
  },
  {
   "id": 7308022005,
   "districtId": 7308022,
-  "name": "R A Y A"
+  "districtName": "TURIKALE",
+  "name": "R A Y A",
+  "postalCode": ""
  },
  {
   "id": 7308022006,
   "districtId": 7308022,
-  "name": "TURIKALE"
+  "districtName": "TURIKALE",
+  "name": "TURIKALE",
+  "postalCode": "90511"
  },
  {
   "id": 7308022007,
   "districtId": 7308022,
-  "name": "ALLIRITENGAE"
+  "districtName": "TURIKALE",
+  "name": "ALLIRITENGAE",
+  "postalCode": "90511"
  }
 ]

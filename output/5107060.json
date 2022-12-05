@@ -2,41 +2,57 @@
  {
   "id": 5107060001,
   "districtId": 5107060,
-  "name": "SIBETAN"
+  "districtName": "BEBANDEM",
+  "name": "SIBETAN",
+  "postalCode": "80861"
  },
  {
   "id": 5107060002,
   "districtId": 5107060,
-  "name": "BEBANDEM"
+  "districtName": "BEBANDEM",
+  "name": "BEBANDEM",
+  "postalCode": "80861"
  },
  {
   "id": 5107060003,
   "districtId": 5107060,
-  "name": "BUNGAYA"
+  "districtName": "BEBANDEM",
+  "name": "BUNGAYA",
+  "postalCode": ""
  },
  {
   "id": 5107060004,
   "districtId": 5107060,
-  "name": "BUNGAYA KANGIN"
+  "districtName": "BEBANDEM",
+  "name": "BUNGAYA KANGIN",
+  "postalCode": "80861"
  },
  {
   "id": 5107060005,
   "districtId": 5107060,
-  "name": "BUDAKELING"
+  "districtName": "BEBANDEM",
+  "name": "BUDAKELING",
+  "postalCode": ""
  },
  {
   "id": 5107060006,
   "districtId": 5107060,
-  "name": "BHUANA GIRI"
+  "districtName": "BEBANDEM",
+  "name": "BHUANA GIRI",
+  "postalCode": ""
  },
  {
   "id": 5107060007,
   "districtId": 5107060,
-  "name": "JUNGUTAN"
+  "districtName": "BEBANDEM",
+  "name": "JUNGUTAN",
+  "postalCode": "80861"
  },
  {
   "id": 5107060008,
   "districtId": 5107060,
-  "name": "MACANG"
+  "districtName": "BEBANDEM",
+  "name": "MACANG",
+  "postalCode": "80861"
  }
 ]

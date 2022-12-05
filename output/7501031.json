@@ -2,46 +2,64 @@
  {
   "id": 7501031001,
   "districtId": 7501031,
-  "name": "MANANGGU"
+  "districtName": "MANANGGU",
+  "name": "MANANGGU",
+  "postalCode": "96265"
  },
  {
   "id": 7501031002,
   "districtId": 7501031,
-  "name": "TABULO"
+  "districtName": "MANANGGU",
+  "name": "TABULO",
+  "postalCode": "96265"
  },
  {
   "id": 7501031003,
   "districtId": 7501031,
-  "name": "BENDUNGAN"
+  "districtName": "MANANGGU",
+  "name": "BENDUNGAN",
+  "postalCode": "16720"
  },
  {
   "id": 7501031004,
   "districtId": 7501031,
-  "name": "KAARUYAN"
+  "districtName": "MANANGGU",
+  "name": "KAARUYAN",
+  "postalCode": "96265"
  },
  {
   "id": 7501031005,
   "districtId": 7501031,
-  "name": "SALILAMA"
+  "districtName": "MANANGGU",
+  "name": "SALILAMA",
+  "postalCode": "96265"
  },
  {
   "id": 7501031006,
   "districtId": 7501031,
-  "name": "BUTI"
+  "districtName": "MANANGGU",
+  "name": "BUTI",
+  "postalCode": "86584"
  },
  {
   "id": 7501031007,
   "districtId": 7501031,
-  "name": "PONTOLO"
+  "districtName": "MANANGGU",
+  "name": "PONTOLO",
+  "postalCode": "96252"
  },
  {
   "id": 7501031008,
   "districtId": 7501031,
-  "name": "KERAMAT"
+  "districtName": "MANANGGU",
+  "name": "KERAMAT",
+  "postalCode": "33134"
  },
  {
   "id": 7501031009,
   "districtId": 7501031,
-  "name": "TABULO SELATAN"
+  "districtName": "MANANGGU",
+  "name": "TABULO SELATAN",
+  "postalCode": "96265"
  }
 ]

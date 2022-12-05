@@ -2,41 +2,57 @@
  {
   "id": 1306010001,
   "districtId": 1306010,
-  "name": "KATAPIANG"
+  "districtName": "BATANG ANAI",
+  "name": "KATAPIANG",
+  "postalCode": "25586"
  },
  {
   "id": 1306010002,
   "districtId": 1306010,
-  "name": "KASANG"
+  "districtName": "BATANG ANAI",
+  "name": "KASANG",
+  "postalCode": "25586"
  },
  {
   "id": 1306010003,
   "districtId": 1306010,
-  "name": "SUNGAI BULUH"
+  "districtName": "BATANG ANAI",
+  "name": "SUNGAI BULUH",
+  "postalCode": "25586"
  },
  {
   "id": 1306010004,
   "districtId": 1306010,
-  "name": "BUAYAN LUBUK ALUNG"
+  "districtName": "BATANG ANAI",
+  "name": "BUAYAN LUBUK ALUNG",
+  "postalCode": "25586"
  },
  {
   "id": 1306010005,
   "districtId": 1306010,
-  "name": "SUNGAI BULUH SELATAN"
+  "districtName": "BATANG ANAI",
+  "name": "SUNGAI BULUH SELATAN",
+  "postalCode": ""
  },
  {
   "id": 1306010006,
   "districtId": 1306010,
-  "name": "SUNGAI BULUH BARAT"
+  "districtName": "BATANG ANAI",
+  "name": "SUNGAI BULUH BARAT",
+  "postalCode": ""
  },
  {
   "id": 1306010007,
   "districtId": 1306010,
-  "name": "SUNGAI BULUH TIMUR"
+  "districtName": "BATANG ANAI",
+  "name": "SUNGAI BULUH TIMUR",
+  "postalCode": ""
  },
  {
   "id": 1306010008,
   "districtId": 1306010,
-  "name": "SUNGAI BULUH UTARA"
+  "districtName": "BATANG ANAI",
+  "name": "SUNGAI BULUH UTARA",
+  "postalCode": ""
  }
 ]

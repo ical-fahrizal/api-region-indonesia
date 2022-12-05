@@ -2,36 +2,50 @@
  {
   "id": 9427021001,
   "districtId": 9427021,
-  "name": "NAPISNDI"
+  "districtName": "SUPIORI BARAT",
+  "name": "NAPISNDI",
+  "postalCode": ""
  },
  {
   "id": 9427021002,
   "districtId": 9427021,
-  "name": "AMYAS"
+  "districtName": "SUPIORI BARAT",
+  "name": "AMYAS",
+  "postalCode": "98162"
  },
  {
   "id": 9427021003,
   "districtId": 9427021,
-  "name": "KOIRYAKAM"
+  "districtName": "SUPIORI BARAT",
+  "name": "KOIRYAKAM",
+  "postalCode": ""
  },
  {
   "id": 9427021004,
   "districtId": 9427021,
-  "name": "WARYEI"
+  "districtName": "SUPIORI BARAT",
+  "name": "WARYEI",
+  "postalCode": ""
  },
  {
   "id": 9427021005,
   "districtId": 9427021,
-  "name": "MASYAI"
+  "districtName": "SUPIORI BARAT",
+  "name": "MASYAI",
+  "postalCode": "98162"
  },
  {
   "id": 9427021006,
   "districtId": 9427021,
-  "name": "WAYORI"
+  "districtName": "SUPIORI BARAT",
+  "name": "WAYORI",
+  "postalCode": ""
  },
  {
   "id": 9427021008,
   "districtId": 9427021,
-  "name": "MAPIA"
+  "districtName": "SUPIORI BARAT",
+  "name": "MAPIA",
+  "postalCode": "98162"
  }
 ]

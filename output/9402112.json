@@ -2,31 +2,43 @@
  {
   "id": 9402112002,
   "districtId": 9402112,
-  "name": "PUGIMA"
+  "districtName": "WALELAGAMA",
+  "name": "PUGIMA",
+  "postalCode": "99511"
  },
  {
   "id": 9402112003,
   "districtId": 9402112,
-  "name": "WALELAGAMA"
+  "districtName": "WALELAGAMA",
+  "name": "WALELAGAMA",
+  "postalCode": "99511"
  },
  {
   "id": 9402112010,
   "districtId": 9402112,
-  "name": "KULAKEN"
+  "districtName": "WALELAGAMA",
+  "name": "KULAKEN",
+  "postalCode": "99511"
  },
  {
   "id": 9402112011,
   "districtId": 9402112,
-  "name": "WAMUSAGE"
+  "districtName": "WALELAGAMA",
+  "name": "WAMUSAGE",
+  "postalCode": "99511"
  },
  {
   "id": 9402112021,
   "districtId": 9402112,
-  "name": "ITLAY HALITOPO"
+  "districtName": "WALELAGAMA",
+  "name": "ITLAY HALITOPO",
+  "postalCode": "99511"
  },
  {
   "id": 9402112022,
   "districtId": 9402112,
-  "name": "KUBULAKMA"
+  "districtName": "WALELAGAMA",
+  "name": "KUBULAKMA",
+  "postalCode": "99511"
  }
 ]

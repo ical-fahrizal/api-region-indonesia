@@ -2,141 +2,197 @@
  {
   "id": 1221060005,
   "districtId": 1221060,
-  "name": "MANGGIS"
+  "districtName": "BATANG LUBU SUTAM",
+  "name": "MANGGIS",
+  "postalCode": "22742"
  },
  {
   "id": 1221060006,
   "districtId": 1221060,
-  "name": "PAGARAN TAYAS"
+  "districtName": "BATANG LUBU SUTAM",
+  "name": "PAGARAN TAYAS",
+  "postalCode": "22742"
  },
  {
   "id": 1221060007,
   "districtId": 1221060,
-  "name": "HATONGGA"
+  "districtName": "BATANG LUBU SUTAM",
+  "name": "HATONGGA",
+  "postalCode": "22742"
  },
  {
   "id": 1221060008,
   "districtId": 1221060,
-  "name": "BOTUNG"
+  "districtName": "BATANG LUBU SUTAM",
+  "name": "BOTUNG",
+  "postalCode": "22742"
  },
  {
   "id": 1221060009,
   "districtId": 1221060,
-  "name": "SIADAM"
+  "districtName": "BATANG LUBU SUTAM",
+  "name": "SIADAM",
+  "postalCode": "22742"
  },
  {
   "id": 1221060010,
   "districtId": 1221060,
-  "name": "SIOJO"
+  "districtName": "BATANG LUBU SUTAM",
+  "name": "SIOJO",
+  "postalCode": "22742"
  },
  {
   "id": 1221060011,
   "districtId": 1221060,
-  "name": "PAGARAN MANGGIS"
+  "districtName": "BATANG LUBU SUTAM",
+  "name": "PAGARAN MANGGIS",
+  "postalCode": "22742"
  },
  {
   "id": 1221060012,
   "districtId": 1221060,
-  "name": "MUARA MALINTO BARU"
+  "districtName": "BATANG LUBU SUTAM",
+  "name": "MUARA MALINTO BARU",
+  "postalCode": "22742"
  },
  {
   "id": 1221060013,
   "districtId": 1221060,
-  "name": "HUTANOPAN"
+  "districtName": "BATANG LUBU SUTAM",
+  "name": "HUTANOPAN",
+  "postalCode": "22742"
  },
  {
   "id": 1221060014,
   "districtId": 1221060,
-  "name": "HUTA BARU"
+  "districtName": "BATANG LUBU SUTAM",
+  "name": "HUTA BARU",
+  "postalCode": "22758"
  },
  {
   "id": 1221060015,
   "districtId": 1221060,
-  "name": "TANDALON"
+  "districtName": "BATANG LUBU SUTAM",
+  "name": "TANDALON",
+  "postalCode": "22742"
  },
  {
   "id": 1221060016,
   "districtId": 1221060,
-  "name": "TANGGA BATU"
+  "districtName": "BATANG LUBU SUTAM",
+  "name": "TANGGA BATU",
+  "postalCode": "22742"
  },
  {
   "id": 1221060017,
   "districtId": 1221060,
-  "name": "PAGARAN DOLOK"
+  "districtName": "BATANG LUBU SUTAM",
+  "name": "PAGARAN DOLOK",
+  "postalCode": ""
  },
  {
   "id": 1221060018,
   "districtId": 1221060,
-  "name": "MUARA M LAMA"
+  "districtName": "BATANG LUBU SUTAM",
+  "name": "MUARA M LAMA",
+  "postalCode": ""
  },
  {
   "id": 1221060019,
   "districtId": 1221060,
-  "name": "AEK SORIK"
+  "districtName": "BATANG LUBU SUTAM",
+  "name": "AEK SORIK",
+  "postalCode": "22742"
  },
  {
   "id": 1221060020,
   "districtId": 1221060,
-  "name": "TANJUNG BOTUNG"
+  "districtName": "BATANG LUBU SUTAM",
+  "name": "TANJUNG BOTUNG",
+  "postalCode": "22763"
  },
  {
   "id": 1221060021,
   "districtId": 1221060,
-  "name": "PINARIK"
+  "districtName": "BATANG LUBU SUTAM",
+  "name": "PINARIK",
+  "postalCode": "22742"
  },
  {
   "id": 1221060022,
   "districtId": 1221060,
-  "name": "GUNUNG MANAON"
+  "districtName": "BATANG LUBU SUTAM",
+  "name": "GUNUNG MANAON",
+  "postalCode": "22742"
  },
  {
   "id": 1221060023,
   "districtId": 1221060,
-  "name": "MUARA TIGE"
+  "districtName": "BATANG LUBU SUTAM",
+  "name": "MUARA TIGE",
+  "postalCode": "22742"
  },
  {
   "id": 1221060024,
   "districtId": 1221060,
-  "name": "SIBODAK PAPASO"
+  "districtName": "BATANG LUBU SUTAM",
+  "name": "SIBODAK PAPASO",
+  "postalCode": "22742"
  },
  {
   "id": 1221060025,
   "districtId": 1221060,
-  "name": "GUNUNG INTAN"
+  "districtName": "BATANG LUBU SUTAM",
+  "name": "GUNUNG INTAN",
+  "postalCode": "22763"
  },
  {
   "id": 1221060026,
   "districtId": 1221060,
-  "name": "PGR BERINGIN"
+  "districtName": "BATANG LUBU SUTAM",
+  "name": "PGR BERINGIN",
+  "postalCode": ""
  },
  {
   "id": 1221060027,
   "districtId": 1221060,
-  "name": "SALAMBUE"
+  "districtName": "BATANG LUBU SUTAM",
+  "name": "SALAMBUE",
+  "postalCode": "22742"
  },
  {
   "id": 1221060028,
   "districtId": 1221060,
-  "name": "PAPASO"
+  "districtName": "BATANG LUBU SUTAM",
+  "name": "PAPASO",
+  "postalCode": "22742"
  },
  {
   "id": 1221060029,
   "districtId": 1221060,
-  "name": "ROMBAYAN"
+  "districtName": "BATANG LUBU SUTAM",
+  "name": "ROMBAYAN",
+  "postalCode": "22742"
  },
  {
   "id": 1221060035,
   "districtId": 1221060,
-  "name": "TANJUNG BARU"
+  "districtName": "BATANG LUBU SUTAM",
+  "name": "TANJUNG BARU",
+  "postalCode": "22742"
  },
  {
   "id": 1221060036,
   "districtId": 1221060,
-  "name": "TAMIANG"
+  "districtName": "BATANG LUBU SUTAM",
+  "name": "TAMIANG",
+  "postalCode": "22742"
  },
  {
   "id": 1221060037,
   "districtId": 1221060,
-  "name": "TANJUNG BARANI"
+  "districtName": "BATANG LUBU SUTAM",
+  "name": "TANJUNG BARANI",
+  "postalCode": "22742"
  }
 ]

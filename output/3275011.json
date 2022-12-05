@@ -2,26 +2,36 @@
  {
   "id": 3275011001,
   "districtId": 3275011,
-  "name": "JATIKARYA"
+  "districtName": "JATISAMPURNA",
+  "name": "JATIKARYA",
+  "postalCode": "17435"
  },
  {
   "id": 3275011002,
   "districtId": 3275011,
-  "name": "JATISAMPURNA"
+  "districtName": "JATISAMPURNA",
+  "name": "JATISAMPURNA",
+  "postalCode": "17433"
  },
  {
   "id": 3275011003,
   "districtId": 3275011,
-  "name": "JATIRANGGA"
+  "districtName": "JATISAMPURNA",
+  "name": "JATIRANGGA",
+  "postalCode": "17434"
  },
  {
   "id": 3275011004,
   "districtId": 3275011,
-  "name": "JATIRANGGON"
+  "districtName": "JATISAMPURNA",
+  "name": "JATIRANGGON",
+  "postalCode": "17432"
  },
  {
   "id": 3275011006,
   "districtId": 3275011,
-  "name": "JATIRADEN"
+  "districtName": "JATISAMPURNA",
+  "name": "JATIRADEN",
+  "postalCode": "17433"
  }
 ]

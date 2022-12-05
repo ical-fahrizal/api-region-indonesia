@@ -2,36 +2,50 @@
  {
   "id": 5305050001,
   "districtId": 5305050,
-  "name": "PANTAE"
+  "districtName": "BIBOKI SELATAN",
+  "name": "PANTAE",
+  "postalCode": "85681"
  },
  {
   "id": 5305050002,
   "districtId": 5305050,
-  "name": "OENAEM"
+  "districtName": "BIBOKI SELATAN",
+  "name": "OENAEM",
+  "postalCode": "85681"
  },
  {
   "id": 5305050003,
   "districtId": 5305050,
-  "name": "UPFAON"
+  "districtName": "BIBOKI SELATAN",
+  "name": "UPFAON",
+  "postalCode": "85681"
  },
  {
   "id": 5305050007,
   "districtId": 5305050,
-  "name": "TAUTPAH"
+  "districtName": "BIBOKI SELATAN",
+  "name": "TAUTPAH",
+  "postalCode": "85681"
  },
  {
   "id": 5305050010,
   "districtId": 5305050,
-  "name": "TOKBESI"
+  "districtName": "BIBOKI SELATAN",
+  "name": "TOKBESI",
+  "postalCode": "85681"
  },
  {
   "id": 5305050012,
   "districtId": 5305050,
-  "name": "SAINIUP"
+  "districtName": "BIBOKI SELATAN",
+  "name": "SAINIUP",
+  "postalCode": "85681"
  },
  {
   "id": 5305050013,
   "districtId": 5305050,
-  "name": "TUNBAEN"
+  "districtName": "BIBOKI SELATAN",
+  "name": "TUNBAEN",
+  "postalCode": "85681"
  }
 ]

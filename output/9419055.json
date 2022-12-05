@@ -2,31 +2,43 @@
  {
   "id": 9419055001,
   "districtId": 9419055,
-  "name": "AMSIRA"
+  "districtName": "VERKAM",
+  "name": "AMSIRA",
+  "postalCode": "99373"
  },
  {
   "id": 9419055002,
   "districtId": 9419055,
-  "name": "SIARATESA"
+  "districtName": "VERKAM",
+  "name": "SIARATESA",
+  "postalCode": "99373"
  },
  {
   "id": 9419055003,
   "districtId": 9419055,
-  "name": "ANGKASA II"
+  "districtName": "VERKAM",
+  "name": "ANGKASA II",
+  "postalCode": ""
  },
  {
   "id": 9419055004,
   "districtId": 9419055,
-  "name": "KAMENAWARI"
+  "districtName": "VERKAM",
+  "name": "KAMENAWARI",
+  "postalCode": "99374"
  },
  {
   "id": 9419055005,
   "districtId": 9419055,
-  "name": "NISRO"
+  "districtName": "VERKAM",
+  "name": "NISRO",
+  "postalCode": "99374"
  },
  {
   "id": 9419055006,
   "districtId": 9419055,
-  "name": "SIANTOA"
+  "districtName": "VERKAM",
+  "name": "SIANTOA",
+  "postalCode": "99374"
  }
 ]

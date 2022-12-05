@@ -2,46 +2,64 @@
  {
   "id": 1222010001,
   "districtId": 1222010,
-  "name": "BATANG NADENGGAN"
+  "districtName": "SUNGAI KANAN",
+  "name": "BATANG NADENGGAN",
+  "postalCode": "21465"
  },
  {
   "id": 1222010002,
   "districtId": 1222010,
-  "name": "LANGGA PAYUNG"
+  "districtName": "SUNGAI KANAN",
+  "name": "LANGGA PAYUNG",
+  "postalCode": "21465"
  },
  {
   "id": 1222010003,
   "districtId": 1222010,
-  "name": "SABUNGAN"
+  "districtName": "SUNGAI KANAN",
+  "name": "SABUNGAN",
+  "postalCode": "21465"
  },
  {
   "id": 1222010004,
   "districtId": 1222010,
-  "name": "HAJORAN"
+  "districtName": "SUNGAI KANAN",
+  "name": "HAJORAN",
+  "postalCode": "22753"
  },
  {
   "id": 1222010005,
   "districtId": 1222010,
-  "name": "UJUNG GADING"
+  "districtName": "SUNGAI KANAN",
+  "name": "UJUNG GADING",
+  "postalCode": "21465"
  },
  {
   "id": 1222010006,
   "districtId": 1222010,
-  "name": "HUTA GODANG"
+  "districtName": "SUNGAI KANAN",
+  "name": "HUTA GODANG",
+  "postalCode": "22738"
  },
  {
   "id": 1222010007,
   "districtId": 1222010,
-  "name": "PARIMBURAN"
+  "districtName": "SUNGAI KANAN",
+  "name": "PARIMBURAN",
+  "postalCode": "21465"
  },
  {
   "id": 1222010008,
   "districtId": 1222010,
-  "name": "SAMPEAN"
+  "districtName": "SUNGAI KANAN",
+  "name": "SAMPEAN",
+  "postalCode": "22457"
  },
  {
   "id": 1222010009,
   "districtId": 1222010,
-  "name": "MARSONJA"
+  "districtName": "SUNGAI KANAN",
+  "name": "MARSONJA",
+  "postalCode": "21465"
  }
 ]

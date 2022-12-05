@@ -2,56 +2,78 @@
  {
   "id": 3504180001,
   "districtId": 3504180,
-  "name": "WONOREJO"
+  "districtName": "PAGER WOJO",
+  "name": "WONOREJO",
+  "postalCode": "21186"
  },
  {
   "id": 3504180002,
   "districtId": 3504180,
-  "name": "KEDUNGCANGKRING"
+  "districtName": "PAGER WOJO",
+  "name": "KEDUNGCANGKRING",
+  "postalCode": "61276"
  },
  {
   "id": 3504180003,
   "districtId": 3504180,
-  "name": "MULYOSARI"
+  "districtName": "PAGER WOJO",
+  "name": "MULYOSARI",
+  "postalCode": "34125"
  },
  {
   "id": 3504180004,
   "districtId": 3504180,
-  "name": "SEGAWE"
+  "districtName": "PAGER WOJO",
+  "name": "SEGAWE",
+  "postalCode": "66262"
  },
  {
   "id": 3504180005,
   "districtId": 3504180,
-  "name": "PENJOR"
+  "districtName": "PAGER WOJO",
+  "name": "PENJOR",
+  "postalCode": "66262"
  },
  {
   "id": 3504180006,
   "districtId": 3504180,
-  "name": "SAMAR"
+  "districtName": "PAGER WOJO",
+  "name": "SAMAR",
+  "postalCode": "66262"
  },
  {
   "id": 3504180007,
   "districtId": 3504180,
-  "name": "SIDOMULYO"
+  "districtName": "PAGER WOJO",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  },
  {
   "id": 3504180008,
   "districtId": 3504180,
-  "name": "KRADINAN"
+  "districtName": "PAGER WOJO",
+  "name": "KRADINAN",
+  "postalCode": "63174"
  },
  {
   "id": 3504180009,
   "districtId": 3504180,
-  "name": "PAGERWOJO"
+  "districtName": "PAGER WOJO",
+  "name": "PAGERWOJO",
+  "postalCode": "51383"
  },
  {
   "id": 3504180010,
   "districtId": 3504180,
-  "name": "GONDANGGUNUNG"
+  "districtName": "PAGER WOJO",
+  "name": "GONDANGGUNUNG",
+  "postalCode": "66262"
  },
  {
   "id": 3504180011,
   "districtId": 3504180,
-  "name": "GAMBIRAN"
+  "districtName": "PAGER WOJO",
+  "name": "GAMBIRAN",
+  "postalCode": "59261"
  }
 ]

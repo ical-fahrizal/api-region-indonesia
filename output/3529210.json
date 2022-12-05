@@ -2,51 +2,71 @@
  {
   "id": 3529210001,
   "districtId": 3529210,
-  "name": "GAYAM"
+  "districtName": "GAYAM",
+  "name": "GAYAM",
+  "postalCode": "35592"
  },
  {
   "id": 3529210002,
   "districtId": 3529210,
-  "name": "JAMBUIR"
+  "districtName": "GAYAM",
+  "name": "JAMBUIR",
+  "postalCode": "69483"
  },
  {
   "id": 3529210003,
   "districtId": 3529210,
-  "name": "PANCOR"
+  "districtName": "GAYAM",
+  "name": "PANCOR",
+  "postalCode": "69483"
  },
  {
   "id": 3529210004,
   "districtId": 3529210,
-  "name": "PRAMBANAN"
+  "districtName": "GAYAM",
+  "name": "PRAMBANAN",
+  "postalCode": "69483"
  },
  {
   "id": 3529210005,
   "districtId": 3529210,
-  "name": "GENDANG TIMUR"
+  "districtName": "GAYAM",
+  "name": "GENDANG TIMUR",
+  "postalCode": "69483"
  },
  {
   "id": 3529210006,
   "districtId": 3529210,
-  "name": "KARANGTENGAH"
+  "districtName": "GAYAM",
+  "name": "KARANGTENGAH",
+  "postalCode": "43351"
  },
  {
   "id": 3529210007,
   "districtId": 3529210,
-  "name": "NYAMPLONG"
+  "districtName": "GAYAM",
+  "name": "NYAMPLONG",
+  "postalCode": "69483"
  },
  {
   "id": 3529210008,
   "districtId": 3529210,
-  "name": "GENDANG BARAT"
+  "districtName": "GAYAM",
+  "name": "GENDANG BARAT",
+  "postalCode": "69483"
  },
  {
   "id": 3529210009,
   "districtId": 3529210,
-  "name": "KALOWANG"
+  "districtName": "GAYAM",
+  "name": "KALOWANG",
+  "postalCode": "69483"
  },
  {
   "id": 3529210010,
   "districtId": 3529210,
-  "name": "TAREBUNG"
+  "districtName": "GAYAM",
+  "name": "TAREBUNG",
+  "postalCode": "69483"
  }
 ]

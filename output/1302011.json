@@ -2,51 +2,71 @@
  {
   "id": 1302011001,
   "districtId": 1302011,
-  "name": "SILAUT"
+  "districtName": "SILAUT",
+  "name": "SILAUT",
+  "postalCode": "25674"
  },
  {
   "id": 1302011002,
   "districtId": 1302011,
-  "name": "SAMBUNGO"
+  "districtName": "SILAUT",
+  "name": "SAMBUNGO",
+  "postalCode": "25674"
  },
  {
   "id": 1302011003,
   "districtId": 1302011,
-  "name": "AIR HITAM"
+  "districtName": "SILAUT",
+  "name": "AIR HITAM",
+  "postalCode": "20856"
  },
  {
   "id": 1302011004,
   "districtId": 1302011,
-  "name": "LUBUK BUNTA"
+  "districtName": "SILAUT",
+  "name": "LUBUK BUNTA",
+  "postalCode": "25674"
  },
  {
   "id": 1302011005,
   "districtId": 1302011,
-  "name": "DURIAN SERIBU"
+  "districtName": "SILAUT",
+  "name": "DURIAN SERIBU",
+  "postalCode": "25674"
  },
  {
   "id": 1302011006,
   "districtId": 1302011,
-  "name": "PASIR BINJAI"
+  "districtName": "SILAUT",
+  "name": "PASIR BINJAI",
+  "postalCode": "25674"
  },
  {
   "id": 1302011007,
   "districtId": 1302011,
-  "name": "TALANG BINJAI"
+  "districtName": "SILAUT",
+  "name": "TALANG BINJAI",
+  "postalCode": "25674"
  },
  {
   "id": 1302011008,
   "districtId": 1302011,
-  "name": "SUNGAI SARIK"
+  "districtName": "SILAUT",
+  "name": "SUNGAI SARIK",
+  "postalCode": "28471"
  },
  {
   "id": 1302011009,
   "districtId": 1302011,
-  "name": "SUNGAI PULAI"
+  "districtName": "SILAUT",
+  "name": "SUNGAI PULAI",
+  "postalCode": ""
  },
  {
   "id": 1302011010,
   "districtId": 1302011,
-  "name": "SUNGAI SIRAH"
+  "districtName": "SILAUT",
+  "name": "SUNGAI SIRAH",
+  "postalCode": "25516"
  }
 ]

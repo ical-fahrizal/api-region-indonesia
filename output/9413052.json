@@ -2,21 +2,29 @@
  {
   "id": 9413052004,
   "districtId": 9413052,
-  "name": "NINATI"
+  "districtName": "NINATI",
+  "name": "NINATI",
+  "postalCode": "99664"
  },
  {
   "id": 9413052006,
   "districtId": 9413052,
-  "name": "KAWAKTETBUT"
+  "districtName": "NINATI",
+  "name": "KAWAKTETBUT",
+  "postalCode": ""
  },
  {
   "id": 9413052007,
   "districtId": 9413052,
-  "name": "TEMBUTKA"
+  "districtName": "NINATI",
+  "name": "TEMBUTKA",
+  "postalCode": "99664"
  },
  {
   "id": 9413052008,
   "districtId": 9413052,
-  "name": "TIMKA"
+  "districtName": "NINATI",
+  "name": "TIMKA",
+  "postalCode": "99664"
  }
 ]

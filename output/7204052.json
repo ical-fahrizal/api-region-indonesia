@@ -2,46 +2,64 @@
  {
   "id": 7204052001,
   "districtId": 7204052,
-  "name": "KILO"
+  "districtName": "POSO PESISIR UTARA",
+  "name": "KILO",
+  "postalCode": "94652"
  },
  {
   "id": 7204052002,
   "districtId": 7204052,
-  "name": "TRI MULYA"
+  "districtName": "POSO PESISIR UTARA",
+  "name": "TRI MULYA",
+  "postalCode": "72274"
  },
  {
   "id": 7204052003,
   "districtId": 7204052,
-  "name": "KAWENDE"
+  "districtName": "POSO PESISIR UTARA",
+  "name": "KAWENDE",
+  "postalCode": "94652"
  },
  {
   "id": 7204052004,
   "districtId": 7204052,
-  "name": "KALORA"
+  "districtName": "POSO PESISIR UTARA",
+  "name": "KALORA",
+  "postalCode": "94362"
  },
  {
   "id": 7204052005,
   "districtId": 7204052,
-  "name": "TAMBARANA"
+  "districtName": "POSO PESISIR UTARA",
+  "name": "TAMBARANA",
+  "postalCode": "94652"
  },
  {
   "id": 7204052006,
   "districtId": 7204052,
-  "name": "BAKTI AGUNG"
+  "districtName": "POSO PESISIR UTARA",
+  "name": "BAKTI AGUNG",
+  "postalCode": "94652"
  },
  {
   "id": 7204052007,
   "districtId": 7204052,
-  "name": "TUMORA"
+  "districtName": "POSO PESISIR UTARA",
+  "name": "TUMORA",
+  "postalCode": "94652"
  },
  {
   "id": 7204052009,
   "districtId": 7204052,
-  "name": "TOBE"
+  "districtName": "POSO PESISIR UTARA",
+  "name": "TOBE",
+  "postalCode": "94652"
  },
  {
   "id": 7204052010,
   "districtId": 7204052,
-  "name": "MARANDA"
+  "districtName": "POSO PESISIR UTARA",
+  "name": "MARANDA",
+  "postalCode": ""
  }
 ]

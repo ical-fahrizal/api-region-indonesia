@@ -2,61 +2,85 @@
  {
   "id": 3314110001,
   "districtId": 3314110,
-  "name": "BENTAK"
+  "districtName": "SIDOHARJO",
+  "name": "BENTAK",
+  "postalCode": "57281"
  },
  {
   "id": 3314110002,
   "districtId": 3314110,
-  "name": "PURWOSUMAN"
+  "districtName": "SIDOHARJO",
+  "name": "PURWOSUMAN",
+  "postalCode": "57281"
  },
  {
   "id": 3314110003,
   "districtId": 3314110,
-  "name": "PATIHAN"
+  "districtName": "SIDOHARJO",
+  "name": "PATIHAN",
+  "postalCode": "57281"
  },
  {
   "id": 3314110004,
   "districtId": 3314110,
-  "name": "DUYUNGAN"
+  "districtName": "SIDOHARJO",
+  "name": "DUYUNGAN",
+  "postalCode": "57281"
  },
  {
   "id": 3314110005,
   "districtId": 3314110,
-  "name": "JETAK"
+  "districtName": "SIDOHARJO",
+  "name": "JETAK",
+  "postalCode": "50774"
  },
  {
   "id": 3314110006,
   "districtId": 3314110,
-  "name": "SIDOHARJO"
+  "districtName": "SIDOHARJO",
+  "name": "SIDOHARJO",
+  "postalCode": "30975"
  },
  {
   "id": 3314110007,
   "districtId": 3314110,
-  "name": "SINGOPADU"
+  "districtName": "SIDOHARJO",
+  "name": "SINGOPADU",
+  "postalCode": "57281"
  },
  {
   "id": 3314110008,
   "districtId": 3314110,
-  "name": "JAMBANAN"
+  "districtName": "SIDOHARJO",
+  "name": "JAMBANAN",
+  "postalCode": "57281"
  },
  {
   "id": 3314110009,
   "districtId": 3314110,
-  "name": "TARAMAN"
+  "districtName": "SIDOHARJO",
+  "name": "TARAMAN",
+  "postalCode": "32386"
  },
  {
   "id": 3314110010,
   "districtId": 3314110,
-  "name": "TENGGAK"
+  "districtName": "SIDOHARJO",
+  "name": "TENGGAK",
+  "postalCode": "57281"
  },
  {
   "id": 3314110011,
   "districtId": 3314110,
-  "name": "SRIBIT"
+  "districtName": "SIDOHARJO",
+  "name": "SRIBIT",
+  "postalCode": "57471"
  },
  {
   "id": 3314110012,
   "districtId": 3314110,
-  "name": "PANDAK"
+  "districtName": "SIDOHARJO",
+  "name": "PANDAK",
+  "postalCode": "24357"
  }
 ]

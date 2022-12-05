@@ -2,76 +2,106 @@
  {
   "id": 6409040001,
   "districtId": 6409040,
-  "name": "MARIDAN"
+  "districtName": "SEPAKU",
+  "name": "MARIDAN",
+  "postalCode": "76146"
  },
  {
   "id": 6409040002,
   "districtId": 6409040,
-  "name": "MENTAWIR"
+  "districtName": "SEPAKU",
+  "name": "MENTAWIR",
+  "postalCode": "76149"
  },
  {
   "id": 6409040003,
   "districtId": 6409040,
-  "name": "PEMALUAN"
+  "districtName": "SEPAKU",
+  "name": "PEMALUAN",
+  "postalCode": "76147"
  },
  {
   "id": 6409040004,
   "districtId": 6409040,
-  "name": "BUMI HARAPAN"
+  "districtName": "SEPAKU",
+  "name": "BUMI HARAPAN",
+  "postalCode": "30673"
  },
  {
   "id": 6409040005,
   "districtId": 6409040,
-  "name": "WONOSARI"
+  "districtName": "SEPAKU",
+  "name": "WONOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 6409040006,
   "districtId": 6409040,
-  "name": "SEMOI DUA"
+  "districtName": "SEPAKU",
+  "name": "SEMOI DUA",
+  "postalCode": ""
  },
  {
   "id": 6409040007,
   "districtId": 6409040,
-  "name": "ARGO MULYO"
+  "districtName": "SEPAKU",
+  "name": "ARGO MULYO",
+  "postalCode": "32385"
  },
  {
   "id": 6409040008,
   "districtId": 6409040,
-  "name": "SUKO MULYO"
+  "districtName": "SEPAKU",
+  "name": "SUKO MULYO",
+  "postalCode": "75766"
  },
  {
   "id": 6409040009,
   "districtId": 6409040,
-  "name": "TENGIN BARU"
+  "districtName": "SEPAKU",
+  "name": "TENGIN BARU",
+  "postalCode": ""
  },
  {
   "id": 6409040010,
   "districtId": 6409040,
-  "name": "SUKARAJA"
+  "districtName": "SEPAKU",
+  "name": "SUKARAJA",
+  "postalCode": "21256"
  },
  {
   "id": 6409040011,
   "districtId": 6409040,
-  "name": "BUKIT RAYA"
+  "districtName": "SEPAKU",
+  "name": "BUKIT RAYA",
+  "postalCode": "29563"
  },
  {
   "id": 6409040012,
   "districtId": 6409040,
-  "name": "SEPAKU"
+  "districtName": "SEPAKU",
+  "name": "SEPAKU",
+  "postalCode": "76148"
  },
  {
   "id": 6409040013,
   "districtId": 6409040,
-  "name": "KARANG JINAWI"
+  "districtName": "SEPAKU",
+  "name": "KARANG JINAWI",
+  "postalCode": "76148"
  },
  {
   "id": 6409040014,
   "districtId": 6409040,
-  "name": "TELEMOW"
+  "districtName": "SEPAKU",
+  "name": "TELEMOW",
+  "postalCode": "76147"
  },
  {
   "id": 6409040015,
   "districtId": 6409040,
-  "name": "BINUANG"
+  "districtName": "SEPAKU",
+  "name": "BINUANG",
+  "postalCode": "28463"
  }
 ]

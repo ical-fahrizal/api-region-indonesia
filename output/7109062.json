@@ -2,51 +2,71 @@
  {
   "id": 7109062001,
   "districtId": 7109062,
-  "name": "SILIAN DUA"
+  "districtName": "SILIAN RAYA",
+  "name": "SILIAN DUA",
+  "postalCode": "95998"
  },
  {
   "id": 7109062002,
   "districtId": 7109062,
-  "name": "SILIAN TENGAH"
+  "districtName": "SILIAN RAYA",
+  "name": "SILIAN TENGAH",
+  "postalCode": "95998"
  },
  {
   "id": 7109062003,
   "districtId": 7109062,
-  "name": "SILIAN KOTA"
+  "districtName": "SILIAN RAYA",
+  "name": "SILIAN KOTA",
+  "postalCode": "95998"
  },
  {
   "id": 7109062004,
   "districtId": 7109062,
-  "name": "SILIAN SATU"
+  "districtName": "SILIAN RAYA",
+  "name": "SILIAN SATU",
+  "postalCode": "95998"
  },
  {
   "id": 7109062005,
   "districtId": 7109062,
-  "name": "SILIAN SELATAN"
+  "districtName": "SILIAN RAYA",
+  "name": "SILIAN SELATAN",
+  "postalCode": "95998"
  },
  {
   "id": 7109062006,
   "districtId": 7109062,
-  "name": "SILIAN TIGA"
+  "districtName": "SILIAN RAYA",
+  "name": "SILIAN TIGA",
+  "postalCode": "95998"
  },
  {
   "id": 7109062007,
   "districtId": 7109062,
-  "name": "SILIAN BARAT"
+  "districtName": "SILIAN RAYA",
+  "name": "SILIAN BARAT",
+  "postalCode": "95998"
  },
  {
   "id": 7109062008,
   "districtId": 7109062,
-  "name": "SILIAN"
+  "districtName": "SILIAN RAYA",
+  "name": "SILIAN",
+  "postalCode": "95998"
  },
  {
   "id": 7109062009,
   "districtId": 7109062,
-  "name": "SILIAN UTARA"
+  "districtName": "SILIAN RAYA",
+  "name": "SILIAN UTARA",
+  "postalCode": "95998"
  },
  {
   "id": 7109062010,
   "districtId": 7109062,
-  "name": "SILIAN TIMUR"
+  "districtName": "SILIAN RAYA",
+  "name": "SILIAN TIMUR",
+  "postalCode": "95998"
  }
 ]

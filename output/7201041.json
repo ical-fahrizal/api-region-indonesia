@@ -2,46 +2,64 @@
  {
   "id": 7201041001,
   "districtId": 7201041,
-  "name": "PAISUMOSONI"
+  "districtName": "TINANGKUNG SELATAN",
+  "name": "PAISUMOSONI",
+  "postalCode": "94891"
  },
  {
   "id": 7201041002,
   "districtId": 7201041,
-  "name": "TOBING"
+  "districtName": "TINANGKUNG SELATAN",
+  "name": "TOBING",
+  "postalCode": "22755"
  },
  {
   "id": 7201041003,
   "districtId": 7201041,
-  "name": "TOBUNGIN"
+  "districtName": "TINANGKUNG SELATAN",
+  "name": "TOBUNGIN",
+  "postalCode": "94885"
  },
  {
   "id": 7201041004,
   "districtId": 7201041,
-  "name": "MANSAMAT B"
+  "districtName": "TINANGKUNG SELATAN",
+  "name": "MANSAMAT B",
+  "postalCode": "94885"
  },
  {
   "id": 7201041005,
   "districtId": 7201041,
-  "name": "MANSAMAT A"
+  "districtName": "TINANGKUNG SELATAN",
+  "name": "MANSAMAT A",
+  "postalCode": "94885"
  },
  {
   "id": 7201041006,
   "districtId": 7201041,
-  "name": "KAMPUNG BARU"
+  "districtName": "TINANGKUNG SELATAN",
+  "name": "KAMPUNG BARU",
+  "postalCode": "24652"
  },
  {
   "id": 7201041007,
   "districtId": 7201041,
-  "name": "TINANGKUNG"
+  "districtName": "TINANGKUNG SELATAN",
+  "name": "TINANGKUNG",
+  "postalCode": "94885"
  },
  {
   "id": 7201041008,
   "districtId": 7201041,
-  "name": "GANSAL"
+  "districtName": "TINANGKUNG SELATAN",
+  "name": "GANSAL",
+  "postalCode": "94885"
  },
  {
   "id": 7201041009,
   "districtId": 7201041,
-  "name": "BOBU"
+  "districtName": "TINANGKUNG SELATAN",
+  "name": "BOBU",
+  "postalCode": "94885"
  }
 ]

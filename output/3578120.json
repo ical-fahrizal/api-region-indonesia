@@ -2,21 +2,29 @@
  {
   "id": 3578120001,
   "districtId": 3578120,
-  "name": "GUNUNGSARI"
+  "districtName": "DUKUH PAKIS",
+  "name": "GUNUNGSARI",
+  "postalCode": "35368"
  },
  {
   "id": 3578120002,
   "districtId": 3578120,
-  "name": "DUKUH PAKIS"
+  "districtName": "DUKUH PAKIS",
+  "name": "DUKUH PAKIS",
+  "postalCode": "60225"
  },
  {
   "id": 3578120003,
   "districtId": 3578120,
-  "name": "PRADAHKALI KENDAL"
+  "districtName": "DUKUH PAKIS",
+  "name": "PRADAHKALI KENDAL",
+  "postalCode": ""
  },
  {
   "id": 3578120004,
   "districtId": 3578120,
-  "name": "DUKUH KUPANG"
+  "districtName": "DUKUH PAKIS",
+  "name": "DUKUH KUPANG",
+  "postalCode": "60225"
  }
 ]

@@ -2,61 +2,85 @@
  {
   "id": 3311100001,
   "districtId": 3311100,
-  "name": "NGROMBO"
+  "districtName": "BAKI",
+  "name": "NGROMBO",
+  "postalCode": "57556"
  },
  {
   "id": 3311100002,
   "districtId": 3311100,
-  "name": "MANCASAN"
+  "districtName": "BAKI",
+  "name": "MANCASAN",
+  "postalCode": "57556"
  },
  {
   "id": 3311100003,
   "districtId": 3311100,
-  "name": "GEDONGAN"
+  "districtName": "BAKI",
+  "name": "GEDONGAN",
+  "postalCode": "57556"
  },
  {
   "id": 3311100004,
   "districtId": 3311100,
-  "name": "JETIS"
+  "districtName": "BAKI",
+  "name": "JETIS",
+  "postalCode": "57556"
  },
  {
   "id": 3311100005,
   "districtId": 3311100,
-  "name": "BENTAKAN"
+  "districtName": "BAKI",
+  "name": "BENTAKAN",
+  "postalCode": "57556"
  },
  {
   "id": 3311100007,
   "districtId": 3311100,
-  "name": "KADILANGU"
+  "districtName": "BAKI",
+  "name": "KADILANGU",
+  "postalCode": "57556"
  },
  {
   "id": 3311100008,
   "districtId": 3311100,
-  "name": "BAKIPANDEYAN"
+  "districtName": "BAKI",
+  "name": "BAKIPANDEYAN",
+  "postalCode": "57556"
  },
  {
   "id": 3311100009,
   "districtId": 3311100,
-  "name": "MENURAN"
+  "districtName": "BAKI",
+  "name": "MENURAN",
+  "postalCode": "57556"
  },
  {
   "id": 3311100011,
   "districtId": 3311100,
-  "name": "SIWAL"
+  "districtName": "BAKI",
+  "name": "SIWAL",
+  "postalCode": "57556"
  },
  {
   "id": 3311100012,
   "districtId": 3311100,
-  "name": "WARU"
+  "districtName": "BAKI",
+  "name": "WARU",
+  "postalCode": "45252"
  },
  {
   "id": 3311100013,
   "districtId": 3311100,
-  "name": "GENTAN"
+  "districtName": "BAKI",
+  "name": "GENTAN",
+  "postalCode": "57556"
  },
  {
   "id": 3311100014,
   "districtId": 3311100,
-  "name": "PURBAYAN"
+  "districtName": "BAKI",
+  "name": "PURBAYAN",
+  "postalCode": "57556"
  }
 ]

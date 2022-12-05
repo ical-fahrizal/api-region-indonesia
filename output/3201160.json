@@ -2,51 +2,71 @@
  {
   "id": 3201160011,
   "districtId": 3201160,
-  "name": "KARYA MEKAR"
+  "districtName": "CARIU",
+  "name": "KARYA MEKAR",
+  "postalCode": "16840"
  },
  {
   "id": 3201160012,
   "districtId": 3201160,
-  "name": "BANTAR KUNING"
+  "districtName": "CARIU",
+  "name": "BANTAR KUNING",
+  "postalCode": "16840"
  },
  {
   "id": 3201160013,
   "districtId": 3201160,
-  "name": "CIKUTAMAHI"
+  "districtName": "CARIU",
+  "name": "CIKUTAMAHI",
+  "postalCode": "16840"
  },
  {
   "id": 3201160014,
   "districtId": 3201160,
-  "name": "CIBATU TIGA"
+  "districtName": "CARIU",
+  "name": "CIBATU TIGA",
+  "postalCode": "16840"
  },
  {
   "id": 3201160015,
   "districtId": 3201160,
-  "name": "MEKARWANGI"
+  "districtName": "CARIU",
+  "name": "MEKARWANGI",
+  "postalCode": "45462"
  },
  {
   "id": 3201160016,
   "districtId": 3201160,
-  "name": "TEGAL PANJANG"
+  "districtName": "CARIU",
+  "name": "TEGAL PANJANG",
+  "postalCode": "16129"
  },
  {
   "id": 3201160017,
   "districtId": 3201160,
-  "name": "CARIU"
+  "districtName": "CARIU",
+  "name": "CARIU",
+  "postalCode": "16840"
  },
  {
   "id": 3201160018,
   "districtId": 3201160,
-  "name": "KUTA MEKAR"
+  "districtName": "CARIU",
+  "name": "KUTA MEKAR",
+  "postalCode": "16840"
  },
  {
   "id": 3201160019,
   "districtId": 3201160,
-  "name": "SUKAJADI"
+  "districtName": "CARIU",
+  "name": "SUKAJADI",
+  "postalCode": "24472"
  },
  {
   "id": 3201160020,
   "districtId": 3201160,
-  "name": "BABAKAN RADEN"
+  "districtName": "CARIU",
+  "name": "BABAKAN RADEN",
+  "postalCode": "16840"
  }
 ]

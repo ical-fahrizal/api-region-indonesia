@@ -2,26 +2,36 @@
  {
   "id": 6104091002,
   "districtId": 6104091,
-  "name": "ANJUNGAN MELANCAR"
+  "districtName": "ANJONGAN",
+  "name": "ANJUNGAN MELANCAR",
+  "postalCode": "78353"
  },
  {
   "id": 6104091003,
   "districtId": 6104091,
-  "name": "ANJUNGAN DALAM"
+  "districtName": "ANJONGAN",
+  "name": "ANJUNGAN DALAM",
+  "postalCode": "78353"
  },
  {
   "id": 6104091004,
   "districtId": 6104091,
-  "name": "PAK BULU"
+  "districtName": "ANJONGAN",
+  "name": "PAK BULU",
+  "postalCode": "78353"
  },
  {
   "id": 6104091005,
   "districtId": 6104091,
-  "name": "DEMA"
+  "districtName": "ANJONGAN",
+  "name": "DEMA",
+  "postalCode": "78353"
  },
  {
   "id": 6104091006,
   "districtId": 6104091,
-  "name": "KEPAYANG"
+  "districtName": "ANJONGAN",
+  "name": "KEPAYANG",
+  "postalCode": "30756"
  }
 ]

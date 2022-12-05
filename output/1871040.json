@@ -2,26 +2,36 @@
  {
   "id": 1871040002,
   "districtId": 1871040,
-  "name": "KOTA BARU"
+  "districtName": "TANJUNG KARANG TIMUR",
+  "name": "KOTA BARU",
+  "postalCode": "23125"
  },
  {
   "id": 1871040003,
   "districtId": 1871040,
-  "name": "TANJUNG AGUNG"
+  "districtName": "TANJUNG KARANG TIMUR",
+  "name": "TANJUNG AGUNG",
+  "postalCode": "37216"
  },
  {
   "id": 1871040004,
   "districtId": 1871040,
-  "name": "KEBON JERUK"
+  "districtName": "TANJUNG KARANG TIMUR",
+  "name": "KEBON JERUK",
+  "postalCode": "11530"
  },
  {
   "id": 1871040005,
   "districtId": 1871040,
-  "name": "SAWAH LAMA"
+  "districtName": "TANJUNG KARANG TIMUR",
+  "name": "SAWAH LAMA",
+  "postalCode": "35125"
  },
  {
   "id": 1871040006,
   "districtId": 1871040,
-  "name": "SAWAH BREBES"
+  "districtName": "TANJUNG KARANG TIMUR",
+  "name": "SAWAH BREBES",
+  "postalCode": "35124"
  }
 ]

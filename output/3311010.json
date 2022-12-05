@@ -2,61 +2,85 @@
  {
   "id": 3311010001,
   "districtId": 3311010,
-  "name": "GROGOL"
+  "districtName": "WERU",
+  "name": "GROGOL",
+  "postalCode": "11450"
  },
  {
   "id": 3311010002,
   "districtId": 3311010,
-  "name": "KARANGTENGAH"
+  "districtName": "WERU",
+  "name": "KARANGTENGAH",
+  "postalCode": "43351"
  },
  {
   "id": 3311010003,
   "districtId": 3311010,
-  "name": "KARANGWUNI"
+  "districtName": "WERU",
+  "name": "KARANGWUNI",
+  "postalCode": "45189"
  },
  {
   "id": 3311010004,
   "districtId": 3311010,
-  "name": "KRAJAN"
+  "districtName": "WERU",
+  "name": "KRAJAN",
+  "postalCode": "57557"
  },
  {
   "id": 3311010005,
   "districtId": 3311010,
-  "name": "JATINGARANG"
+  "districtName": "WERU",
+  "name": "JATINGARANG",
+  "postalCode": "54224"
  },
  {
   "id": 3311010006,
   "districtId": 3311010,
-  "name": "KARANGANYAR"
+  "districtName": "WERU",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  },
  {
   "id": 3311010007,
   "districtId": 3311010,
-  "name": "ALASOMBO"
+  "districtName": "WERU",
+  "name": "ALASOMBO",
+  "postalCode": "57562"
  },
  {
   "id": 3311010008,
   "districtId": 3311010,
-  "name": "KARANGMOJO"
+  "districtName": "WERU",
+  "name": "KARANGMOJO",
+  "postalCode": "54365"
  },
  {
   "id": 3311010010,
   "districtId": 3311010,
-  "name": "KARAKAN"
+  "districtName": "WERU",
+  "name": "KARAKAN",
+  "postalCode": "57562"
  },
  {
   "id": 3311010011,
   "districtId": 3311010,
-  "name": "TEGALSARI"
+  "districtName": "WERU",
+  "name": "TEGALSARI",
+  "postalCode": "35372"
  },
  {
   "id": 3311010012,
   "districtId": 3311010,
-  "name": "TAWANG"
+  "districtName": "WERU",
+  "name": "TAWANG",
+  "postalCode": "46194"
  },
  {
   "id": 3311010013,
   "districtId": 3311010,
-  "name": "NGRECO"
+  "districtName": "WERU",
+  "name": "NGRECO",
+  "postalCode": "57562"
  }
 ]

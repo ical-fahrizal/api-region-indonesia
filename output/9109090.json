@@ -2,31 +2,43 @@
  {
   "id": 9109090005,
   "districtId": 9109090,
-  "name": "SERAYO"
+  "districtName": "AMBERBAKEN",
+  "name": "SERAYO",
+  "postalCode": "98371"
  },
  {
   "id": 9109090011,
   "districtId": 9109090,
-  "name": "WASARAK"
+  "districtName": "AMBERBAKEN",
+  "name": "WASARAK",
+  "postalCode": "98371"
  },
  {
   "id": 9109090012,
   "districtId": 9109090,
-  "name": "WEKARI"
+  "districtName": "AMBERBAKEN",
+  "name": "WEKARI",
+  "postalCode": ""
  },
  {
   "id": 9109090013,
   "districtId": 9109090,
-  "name": "BINASI"
+  "districtName": "AMBERBAKEN",
+  "name": "BINASI",
+  "postalCode": "22563"
  },
  {
   "id": 9109090016,
   "districtId": 9109090,
-  "name": "MANGGAPNUT"
+  "districtName": "AMBERBAKEN",
+  "name": "MANGGAPNUT",
+  "postalCode": ""
  },
  {
   "id": 9109090017,
   "districtId": 9109090,
-  "name": "WARAMUI"
+  "districtName": "AMBERBAKEN",
+  "name": "WARAMUI",
+  "postalCode": ""
  }
 ]

@@ -2,16 +2,22 @@
  {
   "id": 1301041001,
   "districtId": 1301041,
-  "name": "SIMATALU"
+  "districtName": "SIBERUT BARAT",
+  "name": "SIMATALU",
+  "postalCode": ""
  },
  {
   "id": 1301041002,
   "districtId": 1301041,
-  "name": "SIMALEGI"
+  "districtName": "SIBERUT BARAT",
+  "name": "SIMALEGI",
+  "postalCode": ""
  },
  {
   "id": 1301041003,
   "districtId": 1301041,
-  "name": "SIGAPOKNA"
+  "districtName": "SIBERUT BARAT",
+  "name": "SIGAPOKNA",
+  "postalCode": "25394"
  }
 ]

@@ -2,21 +2,29 @@
  {
   "id": 3276040009,
   "districtId": 3276040,
-  "name": "HARJAMUKTI"
+  "districtName": "CIMANGGIS",
+  "name": "HARJAMUKTI",
+  "postalCode": "16454"
  },
  {
   "id": 3276040010,
   "districtId": 3276040,
-  "name": "CISALAK PASAR"
+  "districtName": "CIMANGGIS",
+  "name": "CISALAK PASAR",
+  "postalCode": "16452"
  },
  {
   "id": 3276040011,
   "districtId": 3276040,
-  "name": "MEKARSARI"
+  "districtName": "CIMANGGIS",
+  "name": "MEKARSARI",
+  "postalCode": "37482"
  },
  {
   "id": 3276040013,
   "districtId": 3276040,
-  "name": "PASIR GUNUNG SELATAN"
+  "districtName": "CIMANGGIS",
+  "name": "PASIR GUNUNG SELATAN",
+  "postalCode": "16451"
  }
 ]

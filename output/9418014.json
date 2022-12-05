@@ -2,56 +2,78 @@
  {
   "id": 9418014001,
   "districtId": 9418014,
-  "name": "WAMA"
+  "districtName": "WAKUO",
+  "name": "WAMA",
+  "postalCode": "97852"
  },
  {
   "id": 9418014003,
   "districtId": 9418014,
-  "name": "KWARINI"
+  "districtName": "WAKUO",
+  "name": "KWARINI",
+  "postalCode": "99568"
  },
  {
   "id": 9418014004,
   "districtId": 9418014,
-  "name": "WEYAGE"
+  "districtName": "WAKUO",
+  "name": "WEYAGE",
+  "postalCode": "99568"
  },
  {
   "id": 9418014006,
   "districtId": 9418014,
-  "name": "WONITU"
+  "districtName": "WAKUO",
+  "name": "WONITU",
+  "postalCode": "99568"
  },
  {
   "id": 9418014007,
   "districtId": 9418014,
-  "name": "GOLENA"
+  "districtName": "WAKUO",
+  "name": "GOLENA",
+  "postalCode": "99568"
  },
  {
   "id": 9418014008,
   "districtId": 9418014,
-  "name": "KORLO"
+  "districtName": "WAKUO",
+  "name": "KORLO",
+  "postalCode": "99568"
  },
  {
   "id": 9418014009,
   "districtId": 9418014,
-  "name": "GUNALO"
+  "districtName": "WAKUO",
+  "name": "GUNALO",
+  "postalCode": "99568"
  },
  {
   "id": 9418014010,
   "districtId": 9418014,
-  "name": "TIMER"
+  "districtName": "WAKUO",
+  "name": "TIMER",
+  "postalCode": "99568"
  },
  {
   "id": 9418014011,
   "districtId": 9418014,
-  "name": "NOWO"
+  "districtName": "WAKUO",
+  "name": "NOWO",
+  "postalCode": "99568"
  },
  {
   "id": 9418014012,
   "districtId": 9418014,
-  "name": "GULAK"
+  "districtName": "WAKUO",
+  "name": "GULAK",
+  "postalCode": "99561"
  },
  {
   "id": 9418014013,
   "districtId": 9418014,
-  "name": "TOWOLOME"
+  "districtName": "WAKUO",
+  "name": "TOWOLOME",
+  "postalCode": "99568"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 1101051001,
   "districtId": 1101051,
-  "name": "LAFAKHA"
+  "districtName": "ALAFAN",
+  "name": "LAFAKHA",
+  "postalCode": "23893"
  },
  {
   "id": 1101051002,
   "districtId": 1101051,
-  "name": "LHOK DALAM"
+  "districtName": "ALAFAN",
+  "name": "LHOK DALAM",
+  "postalCode": "23893"
  },
  {
   "id": 1101051003,
   "districtId": 1101051,
-  "name": "LUBUK BAIK"
+  "districtName": "ALAFAN",
+  "name": "LUBUK BAIK",
+  "postalCode": "23893"
  },
  {
   "id": 1101051004,
   "districtId": 1101051,
-  "name": "LANGI"
+  "districtName": "ALAFAN",
+  "name": "LANGI",
+  "postalCode": "23893"
  },
  {
   "id": 1101051005,
   "districtId": 1101051,
-  "name": "SERAFON"
+  "districtName": "ALAFAN",
+  "name": "SERAFON",
+  "postalCode": "23893"
  },
  {
   "id": 1101051006,
   "districtId": 1101051,
-  "name": "LHOK PAUH"
+  "districtName": "ALAFAN",
+  "name": "LHOK PAUH",
+  "postalCode": ""
  },
  {
   "id": 1101051007,
   "districtId": 1101051,
-  "name": "LAMEREM"
+  "districtName": "ALAFAN",
+  "name": "LAMEREM",
+  "postalCode": "23893"
  },
  {
   "id": 1101051008,
   "districtId": 1101051,
-  "name": "LEWAK"
+  "districtName": "ALAFAN",
+  "name": "LEWAK",
+  "postalCode": "23893"
  }
 ]

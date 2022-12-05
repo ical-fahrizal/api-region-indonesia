@@ -2,66 +2,92 @@
  {
   "id": 3305190001,
   "districtId": 3305190,
-  "name": "KALITENGAH"
+  "districtName": "GOMBONG",
+  "name": "KALITENGAH",
+  "postalCode": "45153"
  },
  {
   "id": 3305190003,
   "districtId": 3305190,
-  "name": "BANJARSARI"
+  "districtName": "GOMBONG",
+  "name": "BANJARSARI",
+  "postalCode": "35377"
  },
  {
   "id": 3305190004,
   "districtId": 3305190,
-  "name": "PANJANGSARI"
+  "districtName": "GOMBONG",
+  "name": "PANJANGSARI",
+  "postalCode": "54416"
  },
  {
   "id": 3305190005,
   "districtId": 3305190,
-  "name": "PATEMON"
+  "districtName": "GOMBONG",
+  "name": "PATEMON",
+  "postalCode": "53362"
  },
  {
   "id": 3305190006,
   "districtId": 3305190,
-  "name": "KEDUNGPUJI"
+  "districtName": "GOMBONG",
+  "name": "KEDUNGPUJI",
+  "postalCode": "54416"
  },
  {
   "id": 3305190007,
   "districtId": 3305190,
-  "name": "WERO"
+  "districtName": "GOMBONG",
+  "name": "WERO",
+  "postalCode": "54416"
  },
  {
   "id": 3305190008,
   "districtId": 3305190,
-  "name": "GOMBONG"
+  "districtName": "GOMBONG",
+  "name": "GOMBONG",
+  "postalCode": "46156"
  },
  {
   "id": 3305190009,
   "districtId": 3305190,
-  "name": "WONOKRIYO"
+  "districtName": "GOMBONG",
+  "name": "WONOKRIYO",
+  "postalCode": "54412"
  },
  {
   "id": 3305190010,
   "districtId": 3305190,
-  "name": "SEMONDO"
+  "districtName": "GOMBONG",
+  "name": "SEMONDO",
+  "postalCode": "54413"
  },
  {
   "id": 3305190011,
   "districtId": 3305190,
-  "name": "SEMANDING"
+  "districtName": "GOMBONG",
+  "name": "SEMANDING",
+  "postalCode": "32155"
  },
  {
   "id": 3305190012,
   "districtId": 3305190,
-  "name": "SIDAYU"
+  "districtName": "GOMBONG",
+  "name": "SIDAYU",
+  "postalCode": "51254"
  },
  {
   "id": 3305190013,
   "districtId": 3305190,
-  "name": "WONOSIGRO"
+  "districtName": "GOMBONG",
+  "name": "WONOSIGRO",
+  "postalCode": "54416"
  },
  {
   "id": 3305190014,
   "districtId": 3305190,
-  "name": "KLOPOGODO"
+  "districtName": "GOMBONG",
+  "name": "KLOPOGODO",
+  "postalCode": "54416"
  }
 ]

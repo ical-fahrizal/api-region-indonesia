@@ -2,46 +2,64 @@
  {
   "id": 9411040002,
   "districtId": 9411040,
-  "name": "TURMO"
+  "districtName": "FAWI",
+  "name": "TURMO",
+  "postalCode": ""
  },
  {
   "id": 9411040003,
   "districtId": 9411040,
-  "name": "FAWI"
+  "districtName": "FAWI",
+  "name": "FAWI",
+  "postalCode": "98917"
  },
  {
   "id": 9411040006,
   "districtId": 9411040,
-  "name": "BAKUSI"
+  "districtName": "FAWI",
+  "name": "BAKUSI",
+  "postalCode": "98917"
  },
  {
   "id": 9411040008,
   "districtId": 9411040,
-  "name": "EVO"
+  "districtName": "FAWI",
+  "name": "EVO",
+  "postalCode": "98917"
  },
  {
   "id": 9411040009,
   "districtId": 9411040,
-  "name": "YEREI"
+  "districtName": "FAWI",
+  "name": "YEREI",
+  "postalCode": "98917"
  },
  {
   "id": 9411040010,
   "districtId": 9411040,
-  "name": "KAHO"
+  "districtName": "FAWI",
+  "name": "KAHO",
+  "postalCode": "98917"
  },
  {
   "id": 9411040011,
   "districtId": 9411040,
-  "name": "BIRICARE"
+  "districtName": "FAWI",
+  "name": "BIRICARE",
+  "postalCode": "98917"
  },
  {
   "id": 9411040012,
   "districtId": 9411040,
-  "name": "DOREY"
+  "districtName": "FAWI",
+  "name": "DOREY",
+  "postalCode": "98917"
  },
  {
   "id": 9411040013,
   "districtId": 9411040,
-  "name": "FII"
+  "districtName": "FAWI",
+  "name": "FII",
+  "postalCode": "98917"
  }
 ]

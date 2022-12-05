@@ -2,16 +2,22 @@
  {
   "id": 5305026001,
   "districtId": 5305026,
-  "name": "SUNSEA"
+  "districtName": "NAIBENU",
+  "name": "SUNSEA",
+  "postalCode": "85651"
  },
  {
   "id": 5305026002,
   "districtId": 5305026,
-  "name": "BAKITOLAS"
+  "districtName": "NAIBENU",
+  "name": "BAKITOLAS",
+  "postalCode": "85651"
  },
  {
   "id": 5305026004,
   "districtId": 5305026,
-  "name": "MANAMAS"
+  "districtName": "NAIBENU",
+  "name": "MANAMAS",
+  "postalCode": "85651"
  }
 ]

@@ -2,26 +2,36 @@
  {
   "id": 7318042001,
   "districtId": 7318042,
-  "name": "KELURAHAN TAMBUNAN"
+  "districtName": "MAKALE UTARA",
+  "name": "KELURAHAN TAMBUNAN",
+  "postalCode": ""
  },
  {
   "id": 7318042002,
   "districtId": 7318042,
-  "name": "KELURAHAN BUNGIN"
+  "districtName": "MAKALE UTARA",
+  "name": "KELURAHAN BUNGIN",
+  "postalCode": ""
  },
  {
   "id": 7318042003,
   "districtId": 7318042,
-  "name": "KELURAHAN LION TONDOK IRING"
+  "districtName": "MAKALE UTARA",
+  "name": "KELURAHAN LION TONDOK IRING",
+  "postalCode": ""
  },
  {
   "id": 7318042004,
   "districtId": 7318042,
-  "name": "KELURAHAN SARIRA"
+  "districtName": "MAKALE UTARA",
+  "name": "KELURAHAN SARIRA",
+  "postalCode": ""
  },
  {
   "id": 7318042005,
   "districtId": 7318042,
-  "name": "KELURAHAN  LEMO"
+  "districtName": "MAKALE UTARA",
+  "name": "KELURAHAN  LEMO",
+  "postalCode": ""
  }
 ]

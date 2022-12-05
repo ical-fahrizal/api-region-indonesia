@@ -2,41 +2,57 @@
  {
   "id": 3214020001,
   "districtId": 3214020,
-  "name": "TEGALDATAR"
+  "districtName": "MANIIS",
+  "name": "TEGALDATAR",
+  "postalCode": "41166"
  },
  {
   "id": 3214020002,
   "districtId": 3214020,
-  "name": "SINARGALIH"
+  "districtName": "MANIIS",
+  "name": "SINARGALIH",
+  "postalCode": "45465"
  },
  {
   "id": 3214020003,
   "districtId": 3214020,
-  "name": "CITAMIANG"
+  "districtName": "MANIIS",
+  "name": "CITAMIANG",
+  "postalCode": "43143"
  },
  {
   "id": 3214020004,
   "districtId": 3214020,
-  "name": "CIJATI"
+  "districtName": "MANIIS",
+  "name": "CIJATI",
+  "postalCode": "43284"
  },
  {
   "id": 3214020005,
   "districtId": 3214020,
-  "name": "GUNUNGKARUNG"
+  "districtName": "MANIIS",
+  "name": "GUNUNGKARUNG",
+  "postalCode": "45581"
  },
  {
   "id": 3214020006,
   "districtId": 3214020,
-  "name": "PASIRJAMBU"
+  "districtName": "MANIIS",
+  "name": "PASIRJAMBU",
+  "postalCode": "41166"
  },
  {
   "id": 3214020007,
   "districtId": 3214020,
-  "name": "CIRAMAHILIR"
+  "districtName": "MANIIS",
+  "name": "CIRAMAHILIR",
+  "postalCode": "41166"
  },
  {
   "id": 3214020008,
   "districtId": 3214020,
-  "name": "SUKAMUKTI"
+  "districtName": "MANIIS",
+  "name": "SUKAMUKTI",
+  "postalCode": "44191"
  }
 ]

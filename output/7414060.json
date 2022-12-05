@@ -2,61 +2,85 @@
  {
   "id": 7414060001,
   "districtId": 7414060,
-  "name": "WADIABERO"
+  "districtName": "GU",
+  "name": "WADIABERO",
+  "postalCode": "93761"
  },
  {
   "id": 7414060002,
   "districtId": 7414060,
-  "name": "KOLOWA"
+  "districtName": "GU",
+  "name": "KOLOWA",
+  "postalCode": "93761"
  },
  {
   "id": 7414060008,
   "districtId": 7414060,
-  "name": "RAHIA"
+  "districtName": "GU",
+  "name": "RAHIA",
+  "postalCode": "93761"
  },
  {
   "id": 7414060009,
   "districtId": 7414060,
-  "name": "WAKEA KEA"
+  "districtName": "GU",
+  "name": "WAKEA KEA",
+  "postalCode": "93761"
  },
  {
   "id": 7414060010,
   "districtId": 7414060,
-  "name": "WALIKO"
+  "districtName": "GU",
+  "name": "WALIKO",
+  "postalCode": "93761"
  },
  {
   "id": 7414060011,
   "districtId": 7414060,
-  "name": "BOMBONAWULU"
+  "districtName": "GU",
+  "name": "BOMBONAWULU",
+  "postalCode": "93761"
  },
  {
   "id": 7414060012,
   "districtId": 7414060,
-  "name": "WALANDO"
+  "districtName": "GU",
+  "name": "WALANDO",
+  "postalCode": "93761"
  },
  {
   "id": 7414060013,
   "districtId": 7414060,
-  "name": "WATULEA"
+  "districtName": "GU",
+  "name": "WATULEA",
+  "postalCode": "93761"
  },
  {
   "id": 7414060014,
   "districtId": 7414060,
-  "name": "LAKAPERA"
+  "districtName": "GU",
+  "name": "LAKAPERA",
+  "postalCode": "93761"
  },
  {
   "id": 7414060015,
   "districtId": 7414060,
-  "name": "BANTEA"
+  "districtName": "GU",
+  "name": "BANTEA",
+  "postalCode": "93761"
  },
  {
   "id": 7414060016,
   "districtId": 7414060,
-  "name": "KAMAMA NEKAR"
+  "districtName": "GU",
+  "name": "KAMAMA NEKAR",
+  "postalCode": ""
  },
  {
   "id": 7414060017,
   "districtId": 7414060,
-  "name": "LOWU-LOWU"
+  "districtName": "GU",
+  "name": "LOWU-LOWU",
+  "postalCode": "93761"
  }
 ]

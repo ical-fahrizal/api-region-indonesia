@@ -2,16 +2,22 @@
  {
   "id": 2103030001,
   "districtId": 2103030,
-  "name": "SEBELAT"
+  "districtName": "MIDAI",
+  "name": "SEBELAT",
+  "postalCode": "39269"
  },
  {
   "id": 2103030003,
   "districtId": 2103030,
-  "name": "SABANG BARAT"
+  "districtName": "MIDAI",
+  "name": "SABANG BARAT",
+  "postalCode": "29784"
  },
  {
   "id": 2103030005,
   "districtId": 2103030,
-  "name": "AIR PUTIH"
+  "districtName": "MIDAI",
+  "name": "AIR PUTIH",
+  "postalCode": "21264"
  }
 ]

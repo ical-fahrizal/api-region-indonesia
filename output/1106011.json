@@ -2,56 +2,78 @@
  {
   "id": 1106011001,
   "districtId": 1106011,
-  "name": "ATU LINTANG"
+  "districtName": "ATU LINTANG",
+  "name": "ATU LINTANG",
+  "postalCode": "24563"
  },
  {
   "id": 1106011002,
   "districtId": 1106011,
-  "name": "MERAH MEGE"
+  "districtName": "ATU LINTANG",
+  "name": "MERAH MEGE",
+  "postalCode": "24563"
  },
  {
   "id": 1106011003,
   "districtId": 1106011,
-  "name": "TANOH ABU"
+  "districtName": "ATU LINTANG",
+  "name": "TANOH ABU",
+  "postalCode": "24563"
  },
  {
   "id": 1106011004,
   "districtId": 1106011,
-  "name": "MERAH MUYANG"
+  "districtName": "ATU LINTANG",
+  "name": "MERAH MUYANG",
+  "postalCode": ""
  },
  {
   "id": 1106011005,
   "districtId": 1106011,
-  "name": "MERAH PUPUK"
+  "districtName": "ATU LINTANG",
+  "name": "MERAH PUPUK",
+  "postalCode": "24563"
  },
  {
   "id": 1106011006,
   "districtId": 1106011,
-  "name": "BINTANG KEKELIP"
+  "districtName": "ATU LINTANG",
+  "name": "BINTANG KEKELIP",
+  "postalCode": "24563"
  },
  {
   "id": 1106011007,
   "districtId": 1106011,
-  "name": "MERAH JERNANG"
+  "districtName": "ATU LINTANG",
+  "name": "MERAH JERNANG",
+  "postalCode": "24563"
  },
  {
   "id": 1106011008,
   "districtId": 1106011,
-  "name": "KEPALA AKAL"
+  "districtName": "ATU LINTANG",
+  "name": "KEPALA AKAL",
+  "postalCode": "24563"
  },
  {
   "id": 1106011009,
   "districtId": 1106011,
-  "name": "GAYO MURNI"
+  "districtName": "ATU LINTANG",
+  "name": "GAYO MURNI",
+  "postalCode": "24563"
  },
  {
   "id": 1106011010,
   "districtId": 1106011,
-  "name": "PANTAN DAMAR"
+  "districtName": "ATU LINTANG",
+  "name": "PANTAN DAMAR",
+  "postalCode": "24563"
  },
  {
   "id": 1106011011,
   "districtId": 1106011,
-  "name": "DAMAR MULYO"
+  "districtName": "ATU LINTANG",
+  "name": "DAMAR MULYO",
+  "postalCode": ""
  }
 ]

@@ -2,46 +2,64 @@
  {
   "id": 6211021001,
   "districtId": 6211021,
-  "name": "JANGKIT"
+  "districtName": "RUNGAN HULU",
+  "name": "JANGKIT",
+  "postalCode": "74561"
  },
  {
   "id": 6211021003,
   "districtId": 6211021,
-  "name": "TUMBANG LAPAN"
+  "districtName": "RUNGAN HULU",
+  "name": "TUMBANG LAPAN",
+  "postalCode": "74553"
  },
  {
   "id": 6211021004,
   "districtId": 6211021,
-  "name": "SANGAL"
+  "districtName": "RUNGAN HULU",
+  "name": "SANGAL",
+  "postalCode": ""
  },
  {
   "id": 6211021006,
   "districtId": 6211021,
-  "name": "BATU PUTER"
+  "districtName": "RUNGAN HULU",
+  "name": "BATU PUTER",
+  "postalCode": "74561"
  },
  {
   "id": 6211021007,
   "districtId": 6211021,
-  "name": "TUMBANG RAHUYAN"
+  "districtName": "RUNGAN HULU",
+  "name": "TUMBANG RAHUYAN",
+  "postalCode": "74561"
  },
  {
   "id": 6211021008,
   "districtId": 6211021,
-  "name": "HANTAPANG"
+  "districtName": "RUNGAN HULU",
+  "name": "HANTAPANG",
+  "postalCode": "74561"
  },
  {
   "id": 6211021009,
   "districtId": 6211021,
-  "name": "TUMBANG MUJAI"
+  "districtName": "RUNGAN HULU",
+  "name": "TUMBANG MUJAI",
+  "postalCode": "74561"
  },
  {
   "id": 6211021010,
   "districtId": 6211021,
-  "name": "SEI ANTAI"
+  "districtName": "RUNGAN HULU",
+  "name": "SEI ANTAI",
+  "postalCode": ""
  },
  {
   "id": 6211021011,
   "districtId": 6211021,
-  "name": "TUMBANG TUWE"
+  "districtName": "RUNGAN HULU",
+  "name": "TUMBANG TUWE",
+  "postalCode": ""
  }
 ]

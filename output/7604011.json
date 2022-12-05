@@ -2,36 +2,50 @@
  {
   "id": 7604011001,
   "districtId": 7604011,
-  "name": "PASA'BU"
+  "districtName": "TAPALANG BARAT",
+  "name": "PASA'BU",
+  "postalCode": ""
  },
  {
   "id": 7604011002,
   "districtId": 7604011,
-  "name": "DUNGKAIT"
+  "districtName": "TAPALANG BARAT",
+  "name": "DUNGKAIT",
+  "postalCode": "91352"
  },
  {
   "id": 7604011003,
   "districtId": 7604011,
-  "name": "LABUANG RANO"
+  "districtName": "TAPALANG BARAT",
+  "name": "LABUANG RANO",
+  "postalCode": "91352"
  },
  {
   "id": 7604011004,
   "districtId": 7604011,
-  "name": "LEBANI"
+  "districtName": "TAPALANG BARAT",
+  "name": "LEBANI",
+  "postalCode": "91994"
  },
  {
   "id": 7604011005,
   "districtId": 7604011,
-  "name": "TANETE PAO"
+  "districtName": "TAPALANG BARAT",
+  "name": "TANETE PAO",
+  "postalCode": "91352"
  },
  {
   "id": 7604011006,
   "districtId": 7604011,
-  "name": "AHU"
+  "districtName": "TAPALANG BARAT",
+  "name": "AHU",
+  "postalCode": "91352"
  },
  {
   "id": 7604011007,
   "districtId": 7604011,
-  "name": "PANGASAAN"
+  "districtName": "TAPALANG BARAT",
+  "name": "PANGASAAN",
+  "postalCode": "91352"
  }
 ]

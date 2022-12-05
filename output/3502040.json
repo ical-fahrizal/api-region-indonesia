@@ -2,76 +2,106 @@
  {
   "id": 3502040001,
   "districtId": 3502040,
-  "name": "GAJAH"
+  "districtName": "SAMBIT",
+  "name": "GAJAH",
+  "postalCode": "24655"
  },
  {
   "id": 3502040002,
   "districtId": 3502040,
-  "name": "WRINGINANOM"
+  "districtName": "SAMBIT",
+  "name": "WRINGINANOM",
+  "postalCode": "56371"
  },
  {
   "id": 3502040003,
   "districtId": 3502040,
-  "name": "NGADISANAN"
+  "districtName": "SAMBIT",
+  "name": "NGADISANAN",
+  "postalCode": "63474"
  },
  {
   "id": 3502040004,
   "districtId": 3502040,
-  "name": "MAGUWAN"
+  "districtName": "SAMBIT",
+  "name": "MAGUWAN",
+  "postalCode": "63474"
  },
  {
   "id": 3502040005,
   "districtId": 3502040,
-  "name": "NGLEWAN"
+  "districtName": "SAMBIT",
+  "name": "NGLEWAN",
+  "postalCode": ""
  },
  {
   "id": 3502040006,
   "districtId": 3502040,
-  "name": "BEDINGIN"
+  "districtName": "SAMBIT",
+  "name": "BEDINGIN",
+  "postalCode": "58256"
  },
  {
   "id": 3502040007,
   "districtId": 3502040,
-  "name": "BANCANGAN"
+  "districtName": "SAMBIT",
+  "name": "BANCANGAN",
+  "postalCode": "63474"
  },
  {
   "id": 3502040008,
   "districtId": 3502040,
-  "name": "CAMPUREJO"
+  "districtName": "SAMBIT",
+  "name": "CAMPUREJO",
+  "postalCode": "51381"
  },
  {
   "id": 3502040009,
   "districtId": 3502040,
-  "name": "CAMPURSARI"
+  "districtName": "SAMBIT",
+  "name": "CAMPURSARI",
+  "postalCode": "56253"
  },
  {
   "id": 3502040011,
   "districtId": 3502040,
-  "name": "SAMBIT"
+  "districtName": "SAMBIT",
+  "name": "SAMBIT",
+  "postalCode": "63474"
  },
  {
   "id": 3502040012,
   "districtId": 3502040,
-  "name": "BESUKI"
+  "districtName": "SAMBIT",
+  "name": "BESUKI",
+  "postalCode": "53177"
  },
  {
   "id": 3502040013,
   "districtId": 3502040,
-  "name": "WILANGAN"
+  "districtName": "SAMBIT",
+  "name": "WILANGAN",
+  "postalCode": "63474"
  },
  {
   "id": 3502040014,
   "districtId": 3502040,
-  "name": "BANGSALAN"
+  "districtName": "SAMBIT",
+  "name": "BANGSALAN",
+  "postalCode": "57372"
  },
  {
   "id": 3502040015,
   "districtId": 3502040,
-  "name": "KEMUNING"
+  "districtName": "SAMBIT",
+  "name": "KEMUNING",
+  "postalCode": "36514"
  },
  {
   "id": 3502040016,
   "districtId": 3502040,
-  "name": "JRAKAH"
+  "districtName": "SAMBIT",
+  "name": "JRAKAH",
+  "postalCode": "54224"
  }
 ]

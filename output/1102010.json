@@ -2,16 +2,22 @@
  {
   "id": 1102010003,
   "districtId": 1102010,
-  "name": "PULAU BAGUK"
+  "districtName": "PULAU BANYAK",
+  "name": "PULAU BAGUK",
+  "postalCode": "24791"
  },
  {
   "id": 1102010004,
   "districtId": 1102010,
-  "name": "PULAU BALAI"
+  "districtName": "PULAU BANYAK",
+  "name": "PULAU BALAI",
+  "postalCode": "24791"
  },
  {
   "id": 1102010005,
   "districtId": 1102010,
-  "name": "TELUK NIBUNG"
+  "districtName": "PULAU BANYAK",
+  "name": "TELUK NIBUNG",
+  "postalCode": "24791"
  }
 ]

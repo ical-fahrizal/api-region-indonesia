@@ -2,26 +2,36 @@
  {
   "id": 7571020010,
   "districtId": 7571020,
-  "name": "BIAWU"
+  "districtName": "KOTA SELATAN",
+  "name": "BIAWU",
+  "postalCode": "96111"
  },
  {
   "id": 7571020011,
   "districtId": 7571020,
-  "name": "BIAWAO"
+  "districtName": "KOTA SELATAN",
+  "name": "BIAWAO",
+  "postalCode": "96111"
  },
  {
   "id": 7571020018,
   "districtId": 7571020,
-  "name": "LIMBA B"
+  "districtName": "KOTA SELATAN",
+  "name": "LIMBA B",
+  "postalCode": "96115"
  },
  {
   "id": 7571020019,
   "districtId": 7571020,
-  "name": "LIMBA U SATU"
+  "districtName": "KOTA SELATAN",
+  "name": "LIMBA U SATU",
+  "postalCode": ""
  },
  {
   "id": 7571020020,
   "districtId": 7571020,
-  "name": "LIMBA U DUA"
+  "districtName": "KOTA SELATAN",
+  "name": "LIMBA U DUA",
+  "postalCode": ""
  }
 ]

@@ -2,71 +2,99 @@
  {
   "id": 7208050007,
   "districtId": 7208050,
-  "name": "TINGKULANG"
+  "districtName": "TOMINI",
+  "name": "TINGKULANG",
+  "postalCode": "94476"
  },
  {
   "id": 7208050008,
   "districtId": 7208050,
-  "name": "TOMINI"
+  "districtName": "TOMINI",
+  "name": "TOMINI",
+  "postalCode": "94476"
  },
  {
   "id": 7208050009,
   "districtId": 7208050,
-  "name": "OGOTUMUBU"
+  "districtName": "TOMINI",
+  "name": "OGOTUMUBU",
+  "postalCode": ""
  },
  {
   "id": 7208050010,
   "districtId": 7208050,
-  "name": "AMBESIA"
+  "districtName": "TOMINI",
+  "name": "AMBESIA",
+  "postalCode": "94476"
  },
  {
   "id": 7208050011,
   "districtId": 7208050,
-  "name": "TILUNG"
+  "districtName": "TOMINI",
+  "name": "TILUNG",
+  "postalCode": "94476"
  },
  {
   "id": 7208050013,
   "districtId": 7208050,
-  "name": "BIGA"
+  "districtName": "TOMINI",
+  "name": "BIGA",
+  "postalCode": "95713"
  },
  {
   "id": 7208050014,
   "districtId": 7208050,
-  "name": "TOMINI UTARA"
+  "districtName": "TOMINI",
+  "name": "TOMINI UTARA",
+  "postalCode": "94476"
  },
  {
   "id": 7208050015,
   "districtId": 7208050,
-  "name": "TOMINI BARAT"
+  "districtName": "TOMINI",
+  "name": "TOMINI BARAT",
+  "postalCode": "94476"
  },
  {
   "id": 7208050016,
   "districtId": 7208050,
-  "name": "AMBESIA SELATAN"
+  "districtName": "TOMINI",
+  "name": "AMBESIA SELATAN",
+  "postalCode": "94476"
  },
  {
   "id": 7208050017,
   "districtId": 7208050,
-  "name": "SUPILOPONG"
+  "districtName": "TOMINI",
+  "name": "SUPILOPONG",
+  "postalCode": "94476"
  },
  {
   "id": 7208050018,
   "districtId": 7208050,
-  "name": "AMBESIA BARAT"
+  "districtName": "TOMINI",
+  "name": "AMBESIA BARAT",
+  "postalCode": "94476"
  },
  {
   "id": 7208050019,
   "districtId": 7208050,
-  "name": "OGOTUMUBU BARAT"
+  "districtName": "TOMINI",
+  "name": "OGOTUMUBU BARAT",
+  "postalCode": ""
  },
  {
   "id": 7208050020,
   "districtId": 7208050,
-  "name": "SIPONTAN"
+  "districtName": "TOMINI",
+  "name": "SIPONTAN",
+  "postalCode": ""
  },
  {
   "id": 7208050021,
   "districtId": 7208050,
-  "name": "TAANIUGE"
+  "districtName": "TOMINI",
+  "name": "TAANIUGE",
+  "postalCode": ""
  }
 ]

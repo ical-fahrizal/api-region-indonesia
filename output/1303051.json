@@ -2,16 +2,22 @@
  {
   "id": 1303051001,
   "districtId": 1303051,
-  "name": "SUNGAI ABU"
+  "districtName": "HILIRAN GUMANTI",
+  "name": "SUNGAI ABU",
+  "postalCode": "27372"
  },
  {
   "id": 1303051002,
   "districtId": 1303051,
-  "name": "SARIAK ALAHAN TIGO"
+  "districtName": "HILIRAN GUMANTI",
+  "name": "SARIAK ALAHAN TIGO",
+  "postalCode": ""
  },
  {
   "id": 1303051003,
   "districtId": 1303051,
-  "name": "TALANG BABUNGO"
+  "districtName": "HILIRAN GUMANTI",
+  "name": "TALANG BABUNGO",
+  "postalCode": "27372"
  }
 ]

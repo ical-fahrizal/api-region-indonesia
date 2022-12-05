@@ -2,51 +2,71 @@
  {
   "id": 6371040003,
   "districtId": 6371040,
-  "name": "KUIN UTARA"
+  "districtName": "BANJARMASIN UTARA",
+  "name": "KUIN UTARA",
+  "postalCode": "70127"
  },
  {
   "id": 6371040004,
   "districtId": 6371040,
-  "name": "PANGERAN"
+  "districtName": "BANJARMASIN UTARA",
+  "name": "PANGERAN",
+  "postalCode": "78773"
  },
  {
   "id": 6371040005,
   "districtId": 6371040,
-  "name": "SUNGAI MIAI"
+  "districtName": "BANJARMASIN UTARA",
+  "name": "SUNGAI MIAI",
+  "postalCode": ""
  },
  {
   "id": 6371040006,
   "districtId": 6371040,
-  "name": "ANTASAN KECIL TIMUR"
+  "districtName": "BANJARMASIN UTARA",
+  "name": "ANTASAN KECIL TIMUR",
+  "postalCode": "70123"
  },
  {
   "id": 6371040007,
   "districtId": 6371040,
-  "name": "SURGI MUFTI"
+  "districtName": "BANJARMASIN UTARA",
+  "name": "SURGI MUFTI",
+  "postalCode": "70122"
  },
  {
   "id": 6371040008,
   "districtId": 6371040,
-  "name": "SUNGAI JINGAH"
+  "districtName": "BANJARMASIN UTARA",
+  "name": "SUNGAI JINGAH",
+  "postalCode": ""
  },
  {
   "id": 6371040009,
   "districtId": 6371040,
-  "name": "ALALAK UTARA"
+  "districtName": "BANJARMASIN UTARA",
+  "name": "ALALAK UTARA",
+  "postalCode": "70125"
  },
  {
   "id": 6371040010,
   "districtId": 6371040,
-  "name": "ALALAK SELATAN"
+  "districtName": "BANJARMASIN UTARA",
+  "name": "ALALAK SELATAN",
+  "postalCode": "70126"
  },
  {
   "id": 6371040011,
   "districtId": 6371040,
-  "name": "ALALAK TENGAH"
+  "districtName": "BANJARMASIN UTARA",
+  "name": "ALALAK TENGAH",
+  "postalCode": "70126"
  },
  {
   "id": 6371040012,
   "districtId": 6371040,
-  "name": "SUNGAI ANDAI"
+  "districtName": "BANJARMASIN UTARA",
+  "name": "SUNGAI ANDAI",
+  "postalCode": "70122"
  }
 ]

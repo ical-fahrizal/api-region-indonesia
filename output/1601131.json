@@ -2,36 +2,50 @@
  {
   "id": 1601131001,
   "districtId": 1601131,
-  "name": "BATUMARTA I"
+  "districtName": "LUBUK RAJA",
+  "name": "BATUMARTA I",
+  "postalCode": "32152"
  },
  {
   "id": 1601131002,
   "districtId": 1601131,
-  "name": "BATUMARTA II"
+  "districtName": "LUBUK RAJA",
+  "name": "BATUMARTA II",
+  "postalCode": "32152"
  },
  {
   "id": 1601131003,
   "districtId": 1601131,
-  "name": "BATTU WINANGUN"
+  "districtName": "LUBUK RAJA",
+  "name": "BATTU WINANGUN",
+  "postalCode": "32152"
  },
  {
   "id": 1601131004,
   "districtId": 1601131,
-  "name": "LEKIS REJO"
+  "districtName": "LUBUK RAJA",
+  "name": "LEKIS REJO",
+  "postalCode": "32152"
  },
  {
   "id": 1601131005,
   "districtId": 1601131,
-  "name": "LUBUK BANJAR"
+  "districtName": "LUBUK RAJA",
+  "name": "LUBUK BANJAR",
+  "postalCode": "32192"
  },
  {
   "id": 1601131006,
   "districtId": 1601131,
-  "name": "BATU RADEN"
+  "districtName": "LUBUK RAJA",
+  "name": "BATU RADEN",
+  "postalCode": "32152"
  },
  {
   "id": 1601131007,
   "districtId": 1601131,
-  "name": "MARTA JAYA"
+  "districtName": "LUBUK RAJA",
+  "name": "MARTA JAYA",
+  "postalCode": "32152"
  }
 ]

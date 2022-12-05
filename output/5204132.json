@@ -2,21 +2,29 @@
  {
   "id": 5204132001,
   "districtId": 5204132,
-  "name": "MARONGE"
+  "districtName": "MARONGE",
+  "name": "MARONGE",
+  "postalCode": "84383"
  },
  {
   "id": 5204132002,
   "districtId": 5204132,
-  "name": "LABUHAN SANGORO"
+  "districtName": "MARONGE",
+  "name": "LABUHAN SANGORO",
+  "postalCode": "84383"
  },
  {
   "id": 5204132003,
   "districtId": 5204132,
-  "name": "SIMU"
+  "districtName": "MARONGE",
+  "name": "SIMU",
+  "postalCode": "84383"
  },
  {
   "id": 5204132004,
   "districtId": 5204132,
-  "name": "PEMASAR"
+  "districtName": "MARONGE",
+  "name": "PEMASAR",
+  "postalCode": "84383"
  }
 ]

@@ -2,61 +2,85 @@
  {
   "id": 9416030011,
   "districtId": 9416030,
-  "name": "YAHOLIKMA"
+  "districtName": "ANGGRUK",
+  "name": "YAHOLIKMA",
+  "postalCode": "99582"
  },
  {
   "id": 9416030021,
   "districtId": 9416030,
-  "name": "LELAMBO"
+  "districtName": "ANGGRUK",
+  "name": "LELAMBO",
+  "postalCode": "99582"
  },
  {
   "id": 9416030034,
   "districtId": 9416030,
-  "name": "TULPA"
+  "districtName": "ANGGRUK",
+  "name": "TULPA",
+  "postalCode": "99582"
  },
  {
   "id": 9416030035,
   "districtId": 9416030,
-  "name": "ILWAP"
+  "districtName": "ANGGRUK",
+  "name": "ILWAP",
+  "postalCode": "99582"
  },
  {
   "id": 9416030036,
   "districtId": 9416030,
-  "name": "KILTAM"
+  "districtName": "ANGGRUK",
+  "name": "KILTAM",
+  "postalCode": "99582"
  },
  {
   "id": 9416030037,
   "districtId": 9416030,
-  "name": "PILONG"
+  "districtName": "ANGGRUK",
+  "name": "PILONG",
+  "postalCode": "99582"
  },
  {
   "id": 9416030038,
   "districtId": 9416030,
-  "name": "VUNO"
+  "districtName": "ANGGRUK",
+  "name": "VUNO",
+  "postalCode": "99582"
  },
  {
   "id": 9416030039,
   "districtId": 9416030,
-  "name": "SUAHAI"
+  "districtName": "ANGGRUK",
+  "name": "SUAHAI",
+  "postalCode": ""
  },
  {
   "id": 9416030040,
   "districtId": 9416030,
-  "name": "TOHONG"
+  "districtName": "ANGGRUK",
+  "name": "TOHONG",
+  "postalCode": "99582"
  },
  {
   "id": 9416030041,
   "districtId": 9416030,
-  "name": "HOHE"
+  "districtName": "ANGGRUK",
+  "name": "HOHE",
+  "postalCode": "99582"
  },
  {
   "id": 9416030042,
   "districtId": 9416030,
-  "name": "LETIN"
+  "districtName": "ANGGRUK",
+  "name": "LETIN",
+  "postalCode": "99582"
  },
  {
   "id": 9416030043,
   "districtId": 9416030,
-  "name": "PALIPTEK"
+  "districtName": "ANGGRUK",
+  "name": "PALIPTEK",
+  "postalCode": "99582"
  }
 ]

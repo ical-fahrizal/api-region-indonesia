@@ -2,26 +2,36 @@
  {
   "id": 9107101001,
   "districtId": 9107101,
-  "name": "KLAYILI"
+  "districtName": "KLAYILI",
+  "name": "KLAYILI",
+  "postalCode": ""
  },
  {
   "id": 9107101002,
   "districtId": 9107101,
-  "name": "MALALILIS"
+  "districtName": "KLAYILI",
+  "name": "MALALILIS",
+  "postalCode": "98471"
  },
  {
   "id": 9107101003,
   "districtId": 9107101,
-  "name": "MAHGUFUK"
+  "districtName": "KLAYILI",
+  "name": "MAHGUFUK",
+  "postalCode": ""
  },
  {
   "id": 9107101004,
   "districtId": 9107101,
-  "name": "MLASLI/KWAKEIK"
+  "districtName": "KLAYILI",
+  "name": "MLASLI/KWAKEIK",
+  "postalCode": ""
  },
  {
   "id": 9107101005,
   "districtId": 9107101,
-  "name": "MALAKOBUTUK"
+  "districtName": "KLAYILI",
+  "name": "MALAKOBUTUK",
+  "postalCode": ""
  }
 ]

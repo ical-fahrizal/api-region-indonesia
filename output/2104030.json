@@ -2,46 +2,64 @@
  {
   "id": 2104030001,
   "districtId": 2104030,
-  "name": "PEKAJANG"
+  "districtName": "LINGGA",
+  "name": "PEKAJANG",
+  "postalCode": "29872"
  },
  {
   "id": 2104030005,
   "districtId": 2104030,
-  "name": "MEPAR"
+  "districtName": "LINGGA",
+  "name": "MEPAR",
+  "postalCode": "29872"
  },
  {
   "id": 2104030006,
   "districtId": 2104030,
-  "name": "KELOMBOK"
+  "districtName": "LINGGA",
+  "name": "KELOMBOK",
+  "postalCode": "29872"
  },
  {
   "id": 2104030007,
   "districtId": 2104030,
-  "name": "MERAWANG"
+  "districtName": "LINGGA",
+  "name": "MERAWANG",
+  "postalCode": "33172"
  },
  {
   "id": 2104030008,
   "districtId": 2104030,
-  "name": "DAIK"
+  "districtName": "LINGGA",
+  "name": "DAIK",
+  "postalCode": "29872"
  },
  {
   "id": 2104030009,
   "districtId": 2104030,
-  "name": "PANGGAK DARAT"
+  "districtName": "LINGGA",
+  "name": "PANGGAK DARAT",
+  "postalCode": "29872"
  },
  {
   "id": 2104030010,
   "districtId": 2104030,
-  "name": "PANGGAK LAUT"
+  "districtName": "LINGGA",
+  "name": "PANGGAK LAUT",
+  "postalCode": "29872"
  },
  {
   "id": 2104030011,
   "districtId": 2104030,
-  "name": "MUSAI"
+  "districtName": "LINGGA",
+  "name": "MUSAI",
+  "postalCode": "29872"
  },
  {
   "id": 2104030016,
   "districtId": 2104030,
-  "name": "MENTUDA"
+  "districtName": "LINGGA",
+  "name": "MENTUDA",
+  "postalCode": "29872"
  }
 ]

@@ -2,61 +2,85 @@
  {
   "id": 5309073001,
   "districtId": 5309073,
-  "name": "HORINARA"
+  "districtName": "KELUBAGOLIT",
+  "name": "HORINARA",
+  "postalCode": "86262"
  },
  {
   "id": 5309073002,
   "districtId": 5309073,
-  "name": "NISAKARANG"
+  "districtName": "KELUBAGOLIT",
+  "name": "NISAKARANG",
+  "postalCode": "86262"
  },
  {
   "id": 5309073003,
   "districtId": 5309073,
-  "name": "MUDA"
+  "districtName": "KELUBAGOLIT",
+  "name": "MUDA",
+  "postalCode": "86262"
  },
  {
   "id": 5309073004,
   "districtId": 5309073,
-  "name": "SUKUTOKAN"
+  "districtName": "KELUBAGOLIT",
+  "name": "SUKUTOKAN",
+  "postalCode": "86262"
  },
  {
   "id": 5309073005,
   "districtId": 5309073,
-  "name": "LAMAPAHA"
+  "districtName": "KELUBAGOLIT",
+  "name": "LAMAPAHA",
+  "postalCode": "86262"
  },
  {
   "id": 5309073006,
   "districtId": 5309073,
-  "name": "HINGA"
+  "districtName": "KELUBAGOLIT",
+  "name": "HINGA",
+  "postalCode": "86262"
  },
  {
   "id": 5309073007,
   "districtId": 5309073,
-  "name": "REDONTENA"
+  "districtName": "KELUBAGOLIT",
+  "name": "REDONTENA",
+  "postalCode": "86262"
  },
  {
   "id": 5309073008,
   "districtId": 5309073,
-  "name": "ADOBALA"
+  "districtName": "KELUBAGOLIT",
+  "name": "ADOBALA",
+  "postalCode": "86262"
  },
  {
   "id": 5309073009,
   "districtId": 5309073,
-  "name": "PEPAK KELU"
+  "districtName": "KELUBAGOLIT",
+  "name": "PEPAK KELU",
+  "postalCode": "86262"
  },
  {
   "id": 5309073010,
   "districtId": 5309073,
-  "name": "LAMABUNGA"
+  "districtName": "KELUBAGOLIT",
+  "name": "LAMABUNGA",
+  "postalCode": "86262"
  },
  {
   "id": 5309073011,
   "districtId": 5309073,
-  "name": "MANGAALENG"
+  "districtName": "KELUBAGOLIT",
+  "name": "MANGAALENG",
+  "postalCode": "86262"
  },
  {
   "id": 5309073019,
   "districtId": 5309073,
-  "name": "KELUWAIN"
+  "districtName": "KELUBAGOLIT",
+  "name": "KELUWAIN",
+  "postalCode": "86262"
  }
 ]

@@ -2,106 +2,148 @@
  {
   "id": 3325110001,
   "districtId": 3325110,
-  "name": "ROWOBELANG"
+  "districtName": "BATANG",
+  "name": "ROWOBELANG",
+  "postalCode": "51216"
  },
  {
   "id": 3325110002,
   "districtId": 3325110,
-  "name": "CEPOKOKUNING"
+  "districtName": "BATANG",
+  "name": "CEPOKOKUNING",
+  "postalCode": "51216"
  },
  {
   "id": 3325110003,
   "districtId": 3325110,
-  "name": "PASEKARAN"
+  "districtName": "BATANG",
+  "name": "PASEKARAN",
+  "postalCode": "51216"
  },
  {
   "id": 3325110004,
   "districtId": 3325110,
-  "name": "KALISALAK"
+  "districtName": "BATANG",
+  "name": "KALISALAK",
+  "postalCode": "51216"
  },
  {
   "id": 3325110005,
   "districtId": 3325110,
-  "name": "KAUMAN"
+  "districtName": "BATANG",
+  "name": "KAUMAN",
+  "postalCode": "51215"
  },
  {
   "id": 3325110007,
   "districtId": 3325110,
-  "name": "KECEPAK"
+  "districtName": "BATANG",
+  "name": "KECEPAK",
+  "postalCode": "51216"
  },
  {
   "id": 3325110008,
   "districtId": 3325110,
-  "name": "SAMBONG"
+  "districtName": "BATANG",
+  "name": "SAMBONG",
+  "postalCode": "51212"
  },
  {
   "id": 3325110009,
   "districtId": 3325110,
-  "name": "KLIDANG WETAN"
+  "districtName": "BATANG",
+  "name": "KLIDANG WETAN",
+  "postalCode": "51216"
  },
  {
   "id": 3325110010,
   "districtId": 3325110,
-  "name": "KLIDANG LOR"
+  "districtName": "BATANG",
+  "name": "KLIDANG LOR",
+  "postalCode": "51216"
  },
  {
   "id": 3325110012,
   "districtId": 3325110,
-  "name": "KASEPUHAN"
+  "districtName": "BATANG",
+  "name": "KASEPUHAN",
+  "postalCode": "51214"
  },
  {
   "id": 3325110013,
   "districtId": 3325110,
-  "name": "WATESALIT"
+  "districtName": "BATANG",
+  "name": "WATESALIT",
+  "postalCode": "51216"
  },
  {
   "id": 3325110014,
   "districtId": 3325110,
-  "name": "KALIPUCANG WETAN"
+  "districtName": "BATANG",
+  "name": "KALIPUCANG WETAN",
+  "postalCode": "51216"
  },
  {
   "id": 3325110015,
   "districtId": 3325110,
-  "name": "KALIPUCANG KULON"
+  "districtName": "BATANG",
+  "name": "KALIPUCANG KULON",
+  "postalCode": "51216"
  },
  {
   "id": 3325110016,
   "districtId": 3325110,
-  "name": "KARANGANYAR"
+  "districtName": "BATANG",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  },
  {
   "id": 3325110017,
   "districtId": 3325110,
-  "name": "DENASRI KULON"
+  "districtName": "BATANG",
+  "name": "DENASRI KULON",
+  "postalCode": "51216"
  },
  {
   "id": 3325110018,
   "districtId": 3325110,
-  "name": "DENASRI WETAN"
+  "districtName": "BATANG",
+  "name": "DENASRI WETAN",
+  "postalCode": "51216"
  },
  {
   "id": 3325110019,
   "districtId": 3325110,
-  "name": "PROYONANGGAN TENGAH"
+  "districtName": "BATANG",
+  "name": "PROYONANGGAN TENGAH",
+  "postalCode": "51211"
  },
  {
   "id": 3325110020,
   "districtId": 3325110,
-  "name": "PROYONANGGAN UTARA"
+  "districtName": "BATANG",
+  "name": "PROYONANGGAN UTARA",
+  "postalCode": "51211"
  },
  {
   "id": 3325110021,
   "districtId": 3325110,
-  "name": "PROYONANGGAN SELATAN"
+  "districtName": "BATANG",
+  "name": "PROYONANGGAN SELATAN",
+  "postalCode": "51211"
  },
  {
   "id": 3325110022,
   "districtId": 3325110,
-  "name": "KARANGASEM UTARA"
+  "districtName": "BATANG",
+  "name": "KARANGASEM UTARA",
+  "postalCode": "51216"
  },
  {
   "id": 3325110023,
   "districtId": 3325110,
-  "name": "KARANGASEM SELATAN"
+  "districtName": "BATANG",
+  "name": "KARANGASEM SELATAN",
+  "postalCode": "51216"
  }
 ]

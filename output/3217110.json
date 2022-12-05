@@ -2,36 +2,50 @@
  {
   "id": 3217110001,
   "districtId": 3217110,
-  "name": "CIWARUGA"
+  "districtName": "PARONGPONG",
+  "name": "CIWARUGA",
+  "postalCode": "40559"
  },
  {
   "id": 3217110002,
   "districtId": 3217110,
-  "name": "CIHIDEUNG"
+  "districtName": "PARONGPONG",
+  "name": "CIHIDEUNG",
+  "postalCode": "40559"
  },
  {
   "id": 3217110003,
   "districtId": 3217110,
-  "name": "CIGUGUR GIRANG"
+  "districtName": "PARONGPONG",
+  "name": "CIGUGUR GIRANG",
+  "postalCode": "40559"
  },
  {
   "id": 3217110004,
   "districtId": 3217110,
-  "name": "SARIWANGI"
+  "districtName": "PARONGPONG",
+  "name": "SARIWANGI",
+  "postalCode": "40559"
  },
  {
   "id": 3217110005,
   "districtId": 3217110,
-  "name": "CIHANJUANG"
+  "districtName": "PARONGPONG",
+  "name": "CIHANJUANG",
+  "postalCode": "45364"
  },
  {
   "id": 3217110006,
   "districtId": 3217110,
-  "name": "CIHANJUANG RAHAYU"
+  "districtName": "PARONGPONG",
+  "name": "CIHANJUANG RAHAYU",
+  "postalCode": "40559"
  },
  {
   "id": 3217110007,
   "districtId": 3217110,
-  "name": "KARYAWANGI"
+  "districtName": "PARONGPONG",
+  "name": "KARYAWANGI",
+  "postalCode": "40559"
  }
 ]

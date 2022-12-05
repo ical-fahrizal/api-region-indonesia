@@ -2,41 +2,57 @@
  {
   "id": 5304110004,
   "districtId": 5304110,
-  "name": "LILO"
+  "districtName": "AMANATUN UTARA",
+  "name": "LILO",
+  "postalCode": "85574"
  },
  {
   "id": 5304110005,
   "districtId": 5304110,
-  "name": "TAUANAS"
+  "districtName": "AMANATUN UTARA",
+  "name": "TAUANAS",
+  "postalCode": "85574"
  },
  {
   "id": 5304110006,
   "districtId": 5304110,
-  "name": "FATILO"
+  "districtName": "AMANATUN UTARA",
+  "name": "FATILO",
+  "postalCode": "85574"
  },
  {
   "id": 5304110007,
   "districtId": 5304110,
-  "name": "NASI"
+  "districtName": "AMANATUN UTARA",
+  "name": "NASI",
+  "postalCode": "85574"
  },
  {
   "id": 5304110008,
   "districtId": 5304110,
-  "name": "SNOK"
+  "districtName": "AMANATUN UTARA",
+  "name": "SNOK",
+  "postalCode": "85574"
  },
  {
   "id": 5304110010,
   "districtId": 5304110,
-  "name": "FATUONI"
+  "districtName": "AMANATUN UTARA",
+  "name": "FATUONI",
+  "postalCode": "85574"
  },
  {
   "id": 5304110011,
   "districtId": 5304110,
-  "name": "SONO"
+  "districtName": "AMANATUN UTARA",
+  "name": "SONO",
+  "postalCode": "57271"
  },
  {
   "id": 5304110012,
   "districtId": 5304110,
-  "name": "MUNA"
+  "districtName": "AMANATUN UTARA",
+  "name": "MUNA",
+  "postalCode": "85574"
  }
 ]

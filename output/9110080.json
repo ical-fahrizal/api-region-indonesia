@@ -2,36 +2,50 @@
  {
   "id": 9110080002,
   "districtId": 9110080,
-  "name": "HOHOYAR"
+  "districtName": "AYAMARU UTARA",
+  "name": "HOHOYAR",
+  "postalCode": ""
  },
  {
   "id": 9110080003,
   "districtId": 9110080,
-  "name": "SETTA"
+  "districtName": "AYAMARU UTARA",
+  "name": "SETTA",
+  "postalCode": ""
  },
  {
   "id": 9110080005,
   "districtId": 9110080,
-  "name": "KARETUBUN"
+  "districtName": "AYAMARU UTARA",
+  "name": "KARETUBUN",
+  "postalCode": ""
  },
  {
   "id": 9110080006,
   "districtId": 9110080,
-  "name": "YUBIAH"
+  "districtName": "AYAMARU UTARA",
+  "name": "YUBIAH",
+  "postalCode": ""
  },
  {
   "id": 9110080010,
   "districtId": 9110080,
-  "name": "AUS TIWIT"
+  "districtName": "AYAMARU UTARA",
+  "name": "AUS TIWIT",
+  "postalCode": ""
  },
  {
   "id": 9110080011,
   "districtId": 9110080,
-  "name": "YUKASE"
+  "districtName": "AYAMARU UTARA",
+  "name": "YUKASE",
+  "postalCode": ""
  },
  {
   "id": 9110080012,
   "districtId": 9110080,
-  "name": "SERMA"
+  "districtName": "AYAMARU UTARA",
+  "name": "SERMA",
+  "postalCode": ""
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 7503011001,
   "districtId": 7503011,
-  "name": "MOLOSIPAT"
+  "districtName": "POPAYATO BARAT",
+  "name": "MOLOSIPAT",
+  "postalCode": "96467"
  },
  {
   "id": 7503011002,
   "districtId": 7503011,
-  "name": "DUDEWULO"
+  "districtName": "POPAYATO BARAT",
+  "name": "DUDEWULO",
+  "postalCode": "96467"
  },
  {
   "id": 7503011003,
   "districtId": 7503011,
-  "name": "TUNAS JAYA"
+  "districtName": "POPAYATO BARAT",
+  "name": "TUNAS JAYA",
+  "postalCode": "32264"
  },
  {
   "id": 7503011004,
   "districtId": 7503011,
-  "name": "PADENGO"
+  "districtName": "POPAYATO BARAT",
+  "name": "PADENGO",
+  "postalCode": "96265"
  },
  {
   "id": 7503011005,
   "districtId": 7503011,
-  "name": "MOLOSIPAT UTARA"
+  "districtName": "POPAYATO BARAT",
+  "name": "MOLOSIPAT UTARA",
+  "postalCode": "96467"
  },
  {
   "id": 7503011006,
   "districtId": 7503011,
-  "name": "PERSATUAN"
+  "districtName": "POPAYATO BARAT",
+  "name": "PERSATUAN",
+  "postalCode": "21273"
  },
  {
   "id": 7503011007,
   "districtId": 7503011,
-  "name": "BUTUNGALE"
+  "districtName": "POPAYATO BARAT",
+  "name": "BUTUNGALE",
+  "postalCode": "96467"
  }
 ]

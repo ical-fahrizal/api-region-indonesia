@@ -2,66 +2,92 @@
  {
   "id": 7604040001,
   "districtId": 7604040,
-  "name": "KALUMPANG"
+  "districtName": "KALUMPANG",
+  "name": "KALUMPANG",
+  "postalCode": "42168"
  },
  {
   "id": 7604040002,
   "districtId": 7604040,
-  "name": "KARATAUN"
+  "districtName": "KALUMPANG",
+  "name": "KARATAUN",
+  "postalCode": "91562"
  },
  {
   "id": 7604040003,
   "districtId": 7604040,
-  "name": "SIRAUN"
+  "districtName": "KALUMPANG",
+  "name": "SIRAUN",
+  "postalCode": "91562"
  },
  {
   "id": 7604040004,
   "districtId": 7604040,
-  "name": "KARAMA"
+  "districtName": "KALUMPANG",
+  "name": "KARAMA",
+  "postalCode": "92552"
  },
  {
   "id": 7604040005,
   "districtId": 7604040,
-  "name": "TUMONGA"
+  "districtName": "KALUMPANG",
+  "name": "TUMONGA",
+  "postalCode": "91562"
  },
  {
   "id": 7604040007,
   "districtId": 7604040,
-  "name": "SALUMAKKI"
+  "districtName": "KALUMPANG",
+  "name": "SALUMAKKI",
+  "postalCode": "91562"
  },
  {
   "id": 7604040008,
   "districtId": 7604040,
-  "name": "POLIO"
+  "districtName": "KALUMPANG",
+  "name": "POLIO",
+  "postalCode": ""
  },
  {
   "id": 7604040009,
   "districtId": 7604040,
-  "name": "LIMBONG"
+  "districtName": "KALUMPANG",
+  "name": "LIMBONG",
+  "postalCode": "22763"
  },
  {
   "id": 7604040010,
   "districtId": 7604040,
-  "name": "SANDAPANG"
+  "districtName": "KALUMPANG",
+  "name": "SANDAPANG",
+  "postalCode": "91562"
  },
  {
   "id": 7604040011,
   "districtId": 7604040,
-  "name": "KONDO BULO"
+  "districtName": "KALUMPANG",
+  "name": "KONDO BULO",
+  "postalCode": "91562"
  },
  {
   "id": 7604040012,
   "districtId": 7604040,
-  "name": "MAKKALIKI"
+  "districtName": "KALUMPANG",
+  "name": "MAKKALIKI",
+  "postalCode": "91562"
  },
  {
   "id": 7604040013,
   "districtId": 7604040,
-  "name": "LASA'"
+  "districtName": "KALUMPANG",
+  "name": "LASA'",
+  "postalCode": ""
  },
  {
   "id": 7604040014,
   "districtId": 7604040,
-  "name": "BATU MAKKADA"
+  "districtName": "KALUMPANG",
+  "name": "BATU MAKKADA",
+  "postalCode": "91562"
  }
 ]

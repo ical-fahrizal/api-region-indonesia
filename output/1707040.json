@@ -2,31 +2,43 @@
  {
   "id": 1707040001,
   "districtId": 1707040,
-  "name": "TIK TEBING"
+  "districtName": "LEBONG ATAS",
+  "name": "TIK TEBING",
+  "postalCode": ""
  },
  {
   "id": 1707040002,
   "districtId": 1707040,
-  "name": "TABEAK BLAU"
+  "districtName": "LEBONG ATAS",
+  "name": "TABEAK BLAU",
+  "postalCode": "39265"
  },
  {
   "id": 1707040005,
   "districtId": 1707040,
-  "name": "BLAU"
+  "districtName": "LEBONG ATAS",
+  "name": "BLAU",
+  "postalCode": "39265"
  },
  {
   "id": 1707040006,
   "districtId": 1707040,
-  "name": "SUKAU KAYO"
+  "districtName": "LEBONG ATAS",
+  "name": "SUKAU KAYO",
+  "postalCode": ""
  },
  {
   "id": 1707040007,
   "districtId": 1707040,
-  "name": "TABEAK BLAU I"
+  "districtName": "LEBONG ATAS",
+  "name": "TABEAK BLAU I",
+  "postalCode": "39265"
  },
  {
   "id": 1707040008,
   "districtId": 1707040,
-  "name": "DANEU"
+  "districtName": "LEBONG ATAS",
+  "name": "DANEU",
+  "postalCode": ""
  }
 ]

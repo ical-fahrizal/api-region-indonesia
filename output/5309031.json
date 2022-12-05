@@ -2,41 +2,57 @@
  {
   "id": 5309031001,
   "districtId": 5309031,
-  "name": "LEWOLOBA"
+  "districtName": "ILE MANDIRI",
+  "name": "LEWOLOBA",
+  "postalCode": "86211"
  },
  {
   "id": 5309031002,
   "districtId": 5309031,
-  "name": "WAILOLONG"
+  "districtName": "ILE MANDIRI",
+  "name": "WAILOLONG",
+  "postalCode": "86211"
  },
  {
   "id": 5309031003,
   "districtId": 5309031,
-  "name": "RIANG KEMIE"
+  "districtName": "ILE MANDIRI",
+  "name": "RIANG KEMIE",
+  "postalCode": "86211"
  },
  {
   "id": 5309031004,
   "districtId": 5309031,
-  "name": "LEWOHALA"
+  "districtName": "ILE MANDIRI",
+  "name": "LEWOHALA",
+  "postalCode": "86211"
  },
  {
   "id": 5309031005,
   "districtId": 5309031,
-  "name": "HALAKODANUAN"
+  "districtName": "ILE MANDIRI",
+  "name": "HALAKODANUAN",
+  "postalCode": "86211"
  },
  {
   "id": 5309031006,
   "districtId": 5309031,
-  "name": "WATOTUTU"
+  "districtName": "ILE MANDIRI",
+  "name": "WATOTUTU",
+  "postalCode": "86211"
  },
  {
   "id": 5309031007,
   "districtId": 5309031,
-  "name": "MUDAKEPUTU"
+  "districtName": "ILE MANDIRI",
+  "name": "MUDAKEPUTU",
+  "postalCode": "86211"
  },
  {
   "id": 5309031008,
   "districtId": 5309031,
-  "name": "TIWATOBI"
+  "districtName": "ILE MANDIRI",
+  "name": "TIWATOBI",
+  "postalCode": "86211"
  }
 ]

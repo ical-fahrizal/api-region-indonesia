@@ -2,31 +2,43 @@
  {
   "id": 5309041001,
   "districtId": 5309041,
-  "name": "SULENGWASENG"
+  "districtName": "SOLOR SELATAN",
+  "name": "SULENGWASENG",
+  "postalCode": "86272"
  },
  {
   "id": 5309041003,
   "districtId": 5309041,
-  "name": "LEMANU"
+  "districtName": "SOLOR SELATAN",
+  "name": "LEMANU",
+  "postalCode": "86272"
  },
  {
   "id": 5309041004,
   "districtId": 5309041,
-  "name": "KALIKE"
+  "districtName": "SOLOR SELATAN",
+  "name": "KALIKE",
+  "postalCode": ""
  },
  {
   "id": 5309041005,
   "districtId": 5309041,
-  "name": "KALIKE AIMATAN"
+  "districtName": "SOLOR SELATAN",
+  "name": "KALIKE AIMATAN",
+  "postalCode": ""
  },
  {
   "id": 5309041006,
   "districtId": 5309041,
-  "name": "LEWOGRARAN"
+  "districtName": "SOLOR SELATAN",
+  "name": "LEWOGRARAN",
+  "postalCode": "86271"
  },
  {
   "id": 5309041007,
   "districtId": 5309041,
-  "name": "BUBU ATAGAMU"
+  "districtName": "SOLOR SELATAN",
+  "name": "BUBU ATAGAMU",
+  "postalCode": "86271"
  }
 ]

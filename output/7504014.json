@@ -2,31 +2,43 @@
  {
   "id": 7504014001,
   "districtId": 7504014,
-  "name": "OWATA"
+  "districtName": "BULANGO ULU",
+  "name": "OWATA",
+  "postalCode": "96582"
  },
  {
   "id": 7504014002,
   "districtId": 7504014,
-  "name": "MONGIILO"
+  "districtName": "BULANGO ULU",
+  "name": "MONGIILO",
+  "postalCode": "96582"
  },
  {
   "id": 7504014003,
   "districtId": 7504014,
-  "name": "MONGILO UTARA"
+  "districtName": "BULANGO ULU",
+  "name": "MONGILO UTARA",
+  "postalCode": ""
  },
  {
   "id": 7504014004,
   "districtId": 7504014,
-  "name": "PILOLAHEYA"
+  "districtName": "BULANGO ULU",
+  "name": "PILOLAHEYA",
+  "postalCode": "96582"
  },
  {
   "id": 7504014005,
   "districtId": 7504014,
-  "name": "ILOMATA"
+  "districtName": "BULANGO ULU",
+  "name": "ILOMATA",
+  "postalCode": "95775"
  },
  {
   "id": 7504014006,
   "districtId": 7504014,
-  "name": "SUKA MAKMUR"
+  "districtName": "BULANGO ULU",
+  "name": "SUKA MAKMUR",
+  "postalCode": "24784"
  }
 ]

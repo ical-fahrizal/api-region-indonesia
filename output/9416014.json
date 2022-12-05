@@ -2,56 +2,78 @@
  {
   "id": 9416014002,
   "districtId": 9416014,
-  "name": "OBIO"
+  "districtName": "OBIO",
+  "name": "OBIO",
+  "postalCode": "99571"
  },
  {
   "id": 9416014004,
   "districtId": 9416014,
-  "name": "UJIN"
+  "districtName": "OBIO",
+  "name": "UJIN",
+  "postalCode": "99571"
  },
  {
   "id": 9416014005,
   "districtId": 9416014,
-  "name": "YAHUFA"
+  "districtName": "OBIO",
+  "name": "YAHUFA",
+  "postalCode": "99571"
  },
  {
   "id": 9416014006,
   "districtId": 9416014,
-  "name": "JIBAK"
+  "districtName": "OBIO",
+  "name": "JIBAK",
+  "postalCode": "99571"
  },
  {
   "id": 9416014007,
   "districtId": 9416014,
-  "name": "PATIN"
+  "districtName": "OBIO",
+  "name": "PATIN",
+  "postalCode": "99571"
  },
  {
   "id": 9416014008,
   "districtId": 9416014,
-  "name": "HOM HOM"
+  "districtName": "OBIO",
+  "name": "HOM HOM",
+  "postalCode": ""
  },
  {
   "id": 9416014009,
   "districtId": 9416014,
-  "name": "WENDAME"
+  "districtName": "OBIO",
+  "name": "WENDAME",
+  "postalCode": "99571"
  },
  {
   "id": 9416014010,
   "districtId": 9416014,
-  "name": "KWAKENORO"
+  "districtName": "OBIO",
+  "name": "KWAKENORO",
+  "postalCode": "99571"
  },
  {
   "id": 9416014011,
   "districtId": 9416014,
-  "name": "BUSUPA"
+  "districtName": "OBIO",
+  "name": "BUSUPA",
+  "postalCode": "99571"
  },
  {
   "id": 9416014012,
   "districtId": 9416014,
-  "name": "YAGABO"
+  "districtName": "OBIO",
+  "name": "YAGABO",
+  "postalCode": "99571"
  },
  {
   "id": 9416014013,
   "districtId": 9416014,
-  "name": "PENIGIK"
+  "districtName": "OBIO",
+  "name": "PENIGIK",
+  "postalCode": "99571"
  }
 ]

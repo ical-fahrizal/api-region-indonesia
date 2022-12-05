@@ -2,31 +2,43 @@
  {
   "id": 5314060001,
   "districtId": 5314060,
-  "name": "LAKAMOLA"
+  "districtName": "ROTE TIMUR",
+  "name": "LAKAMOLA",
+  "postalCode": "85974"
  },
  {
   "id": 5314060003,
   "districtId": 5314060,
-  "name": "FAIFUA"
+  "districtName": "ROTE TIMUR",
+  "name": "FAIFUA",
+  "postalCode": "85974"
  },
  {
   "id": 5314060004,
   "districtId": 5314060,
-  "name": "HUNDI HOPO"
+  "districtName": "ROTE TIMUR",
+  "name": "HUNDI HOPO",
+  "postalCode": "85974"
  },
  {
   "id": 5314060005,
   "districtId": 5314060,
-  "name": "LONDALUSI"
+  "districtName": "ROTE TIMUR",
+  "name": "LONDALUSI",
+  "postalCode": "85974"
  },
  {
   "id": 5314060006,
   "districtId": 5314060,
-  "name": "SERUBEBA"
+  "districtName": "ROTE TIMUR",
+  "name": "SERUBEBA",
+  "postalCode": "85974"
  },
  {
   "id": 5314060007,
   "districtId": 5314060,
-  "name": "MATASIO"
+  "districtName": "ROTE TIMUR",
+  "name": "MATASIO",
+  "postalCode": "85974"
  }
 ]

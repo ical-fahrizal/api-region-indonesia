@@ -2,36 +2,50 @@
  {
   "id": 9429063002,
   "districtId": 9429063,
-  "name": "DAKBIRI"
+  "districtName": "INIKGAL",
+  "name": "DAKBIRI",
+  "postalCode": ""
  },
  {
   "id": 9429063003,
   "districtId": 9429063,
-  "name": "ABUALAK"
+  "districtName": "INIKGAL",
+  "name": "ABUALAK",
+  "postalCode": "99564"
  },
  {
   "id": 9429063004,
   "districtId": 9429063,
-  "name": "URUGOM"
+  "districtName": "INIKGAL",
+  "name": "URUGOM",
+  "postalCode": "99564"
  },
  {
   "id": 9429063005,
   "districtId": 9429063,
-  "name": "AREA"
+  "districtName": "INIKGAL",
+  "name": "AREA",
+  "postalCode": "99564"
  },
  {
   "id": 9429063006,
   "districtId": 9429063,
-  "name": "WUMAGA"
+  "districtName": "INIKGAL",
+  "name": "WUMAGA",
+  "postalCode": "99564"
  },
  {
   "id": 9429063007,
   "districtId": 9429063,
-  "name": "GULAMA"
+  "districtName": "INIKGAL",
+  "name": "GULAMA",
+  "postalCode": "99564"
  },
  {
   "id": 9429063008,
   "districtId": 9429063,
-  "name": "KIGAM"
+  "districtName": "INIKGAL",
+  "name": "KIGAM",
+  "postalCode": "99564"
  }
 ]

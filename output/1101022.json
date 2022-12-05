@@ -2,61 +2,85 @@
  {
   "id": 1101022001,
   "districtId": 1101022,
-  "name": "KAHAT"
+  "districtName": "TEUPAH TENGAH",
+  "name": "KAHAT",
+  "postalCode": "23891"
  },
  {
   "id": 1101022002,
   "districtId": 1101022,
-  "name": "BUSUNG INDAH"
+  "districtName": "TEUPAH TENGAH",
+  "name": "BUSUNG INDAH",
+  "postalCode": "23891"
  },
  {
   "id": 1101022003,
   "districtId": 1101022,
-  "name": "NANCAWA"
+  "districtName": "TEUPAH TENGAH",
+  "name": "NANCAWA",
+  "postalCode": "23891"
  },
  {
   "id": 1101022004,
   "districtId": 1101022,
-  "name": "LABUAH"
+  "districtName": "TEUPAH TENGAH",
+  "name": "LABUAH",
+  "postalCode": "23891"
  },
  {
   "id": 1101022005,
   "districtId": 1101022,
-  "name": "ABAIL"
+  "districtName": "TEUPAH TENGAH",
+  "name": "ABAIL",
+  "postalCode": "23891"
  },
  {
   "id": 1101022006,
   "districtId": 1101022,
-  "name": "SIMPANG ABAIL"
+  "districtName": "TEUPAH TENGAH",
+  "name": "SIMPANG ABAIL",
+  "postalCode": "23891"
  },
  {
   "id": 1101022007,
   "districtId": 1101022,
-  "name": "LANTING"
+  "districtName": "TEUPAH TENGAH",
+  "name": "LANTING",
+  "postalCode": "23891"
  },
  {
   "id": 1101022008,
   "districtId": 1101022,
-  "name": "LASIKIN"
+  "districtName": "TEUPAH TENGAH",
+  "name": "LASIKIN",
+  "postalCode": "23891"
  },
  {
   "id": 1101022009,
   "districtId": 1101022,
-  "name": "MATANURUNG"
+  "districtName": "TEUPAH TENGAH",
+  "name": "MATANURUNG",
+  "postalCode": ""
  },
  {
   "id": 1101022010,
   "districtId": 1101022,
-  "name": "SUA SUA"
+  "districtName": "TEUPAH TENGAH",
+  "name": "SUA SUA",
+  "postalCode": ""
  },
  {
   "id": 1101022011,
   "districtId": 1101022,
-  "name": "BATU BATU"
+  "districtName": "TEUPAH TENGAH",
+  "name": "BATU BATU",
+  "postalCode": "75382"
  },
  {
   "id": 1101022012,
   "districtId": 1101022,
-  "name": "SITUBUK"
+  "districtName": "TEUPAH TENGAH",
+  "name": "SITUBUK",
+  "postalCode": "23891"
  }
 ]

@@ -2,61 +2,85 @@
  {
   "id": 6309080002,
   "districtId": 6309080,
-  "name": "LOK BATU"
+  "districtName": "HARUAI",
+  "name": "LOK BATU",
+  "postalCode": "71663"
  },
  {
   "id": 6309080003,
   "districtId": 6309080,
-  "name": "KEMBANG KUNING"
+  "districtName": "HARUAI",
+  "name": "KEMBANG KUNING",
+  "postalCode": "16710"
  },
  {
   "id": 6309080004,
   "districtId": 6309080,
-  "name": "SERADANG"
+  "districtName": "HARUAI",
+  "name": "SERADANG",
+  "postalCode": "71572"
  },
  {
   "id": 6309080006,
   "districtId": 6309080,
-  "name": "HALONG"
+  "districtName": "HARUAI",
+  "name": "HALONG",
+  "postalCode": "71666"
  },
  {
   "id": 6309080010,
   "districtId": 6309080,
-  "name": "CATUR KARYA"
+  "districtName": "HARUAI",
+  "name": "CATUR KARYA",
+  "postalCode": "29255"
  },
  {
   "id": 6309080012,
   "districtId": 6309080,
-  "name": "MAHE PASAR"
+  "districtName": "HARUAI",
+  "name": "MAHE PASAR",
+  "postalCode": "71572"
  },
  {
   "id": 6309080016,
   "districtId": 6309080,
-  "name": "SURIYAN"
+  "districtName": "HARUAI",
+  "name": "SURIYAN",
+  "postalCode": "71572"
  },
  {
   "id": 6309080027,
   "districtId": 6309080,
-  "name": "HAYUP"
+  "districtName": "HARUAI",
+  "name": "HAYUP",
+  "postalCode": "71572"
  },
  {
   "id": 6309080030,
   "districtId": 6309080,
-  "name": "BONGKANG"
+  "districtName": "HARUAI",
+  "name": "BONGKANG",
+  "postalCode": "71572"
  },
  {
   "id": 6309080031,
   "districtId": 6309080,
-  "name": "WIRANG"
+  "districtName": "HARUAI",
+  "name": "WIRANG",
+  "postalCode": "71572"
  },
  {
   "id": 6309080035,
   "districtId": 6309080,
-  "name": "NAWIN"
+  "districtName": "HARUAI",
+  "name": "NAWIN",
+  "postalCode": "71572"
  },
  {
   "id": 6309080036,
   "districtId": 6309080,
-  "name": "MARINDI"
+  "districtName": "HARUAI",
+  "name": "MARINDI",
+  "postalCode": "71572"
  }
 ]

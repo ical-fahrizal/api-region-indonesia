@@ -2,36 +2,50 @@
  {
   "id": 8101043001,
   "districtId": 8101043,
-  "name": "WERAIN"
+  "districtName": "SELARU",
+  "name": "WERAIN",
+  "postalCode": "97453"
  },
  {
   "id": 8101043002,
   "districtId": 8101043,
-  "name": "FURSUI"
+  "districtName": "SELARU",
+  "name": "FURSUI",
+  "postalCode": "97453"
  },
  {
   "id": 8101043003,
   "districtId": 8101043,
-  "name": "LINGAT"
+  "districtName": "SELARU",
+  "name": "LINGAT",
+  "postalCode": "97453"
  },
  {
   "id": 8101043004,
   "districtId": 8101043,
-  "name": "KANDAR"
+  "districtName": "SELARU",
+  "name": "KANDAR",
+  "postalCode": "97453"
  },
  {
   "id": 8101043005,
   "districtId": 8101043,
-  "name": "NAMTABUNG"
+  "districtName": "SELARU",
+  "name": "NAMTABUNG",
+  "postalCode": "97453"
  },
  {
   "id": 8101043006,
   "districtId": 8101043,
-  "name": "ADAUT"
+  "districtName": "SELARU",
+  "name": "ADAUT",
+  "postalCode": "97453"
  },
  {
   "id": 8101043007,
   "districtId": 8101043,
-  "name": "ELIASA"
+  "districtName": "SELARU",
+  "name": "ELIASA",
+  "postalCode": "97453"
  }
 ]

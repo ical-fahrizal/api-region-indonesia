@@ -2,36 +2,50 @@
  {
   "id": 3213191001,
   "districtId": 3213191,
-  "name": "MANDALAWANGI"
+  "districtName": "SUKASARI",
+  "name": "MANDALAWANGI",
+  "postalCode": "40554"
  },
  {
   "id": 3213191002,
   "districtId": 3213191,
-  "name": "CURUGREJA"
+  "districtName": "SUKASARI",
+  "name": "CURUGREJA",
+  "postalCode": "41254"
  },
  {
   "id": 3213191003,
   "districtId": 3213191,
-  "name": "BATANGSARI"
+  "districtName": "SUKASARI",
+  "name": "BATANGSARI",
+  "postalCode": "41254"
  },
  {
   "id": 3213191004,
   "districtId": 3213191,
-  "name": "SUKASARI"
+  "districtName": "SUKASARI",
+  "name": "SUKASARI",
+  "postalCode": "20986"
  },
  {
   "id": 3213191005,
   "districtId": 3213191,
-  "name": "SUKAREJA"
+  "districtName": "SUKASARI",
+  "name": "SUKAREJA",
+  "postalCode": "45217"
  },
  {
   "id": 3213191006,
   "districtId": 3213191,
-  "name": "ANGGASARI"
+  "districtName": "SUKASARI",
+  "name": "ANGGASARI",
+  "postalCode": "41254"
  },
  {
   "id": 3213191007,
   "districtId": 3213191,
-  "name": "SUKAMAJU"
+  "districtName": "SUKASARI",
+  "name": "SUKAMAJU",
+  "postalCode": "22465"
  }
 ]

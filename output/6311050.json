@@ -2,106 +2,148 @@
  {
   "id": 6311050001,
   "districtId": 6311050,
-  "name": "PAMURUS"
+  "districtName": "JUAI",
+  "name": "PAMURUS",
+  "postalCode": "71665"
  },
  {
   "id": 6311050002,
   "districtId": 6311050,
-  "name": "GULINGGANG"
+  "districtName": "JUAI",
+  "name": "GULINGGANG",
+  "postalCode": "71665"
  },
  {
   "id": 6311050003,
   "districtId": 6311050,
-  "name": "SUNGAI BATUNG"
+  "districtName": "JUAI",
+  "name": "SUNGAI BATUNG",
+  "postalCode": ""
  },
  {
   "id": 6311050004,
   "districtId": 6311050,
-  "name": "TAWAHAN"
+  "districtName": "JUAI",
+  "name": "TAWAHAN",
+  "postalCode": "71665"
  },
  {
   "id": 6311050005,
   "districtId": 6311050,
-  "name": "TIGARUN"
+  "districtName": "JUAI",
+  "name": "TIGARUN",
+  "postalCode": "71419"
  },
  {
   "id": 6311050006,
   "districtId": 6311050,
-  "name": "PANIMBAAN"
+  "districtName": "JUAI",
+  "name": "PANIMBAAN",
+  "postalCode": "71665"
  },
  {
   "id": 6311050007,
   "districtId": 6311050,
-  "name": "GALUMBANG"
+  "districtName": "JUAI",
+  "name": "GALUMBANG",
+  "postalCode": "71665"
  },
  {
   "id": 6311050008,
   "districtId": 6311050,
-  "name": "JUAI"
+  "districtName": "JUAI",
+  "name": "JUAI",
+  "postalCode": "71665"
  },
  {
   "id": 6311050009,
   "districtId": 6311050,
-  "name": "TELUK BAYUR"
+  "districtName": "JUAI",
+  "name": "TELUK BAYUR",
+  "postalCode": "29783"
  },
  {
   "id": 6311050010,
   "districtId": 6311050,
-  "name": "MUNGKUR UYAM"
+  "districtName": "JUAI",
+  "name": "MUNGKUR UYAM",
+  "postalCode": "71665"
  },
  {
   "id": 6311050011,
   "districtId": 6311050,
-  "name": "SIRAP"
+  "districtName": "JUAI",
+  "name": "SIRAP",
+  "postalCode": "41284"
  },
  {
   "id": 6311050012,
   "districtId": 6311050,
-  "name": "HAMARUNG"
+  "districtName": "JUAI",
+  "name": "HAMARUNG",
+  "postalCode": "71665"
  },
  {
   "id": 6311050013,
   "districtId": 6311050,
-  "name": "HUKAI"
+  "districtName": "JUAI",
+  "name": "HUKAI",
+  "postalCode": "71665"
  },
  {
   "id": 6311050014,
   "districtId": 6311050,
-  "name": "MUARA NINIAN"
+  "districtName": "JUAI",
+  "name": "MUARA NINIAN",
+  "postalCode": "71665"
  },
  {
   "id": 6311050015,
   "districtId": 6311050,
-  "name": "MARIAS"
+  "districtName": "JUAI",
+  "name": "MARIAS",
+  "postalCode": "71665"
  },
  {
   "id": 6311050016,
   "districtId": 6311050,
-  "name": "BUNTU KARAU"
+  "districtName": "JUAI",
+  "name": "BUNTU KARAU",
+  "postalCode": "71665"
  },
  {
   "id": 6311050017,
   "districtId": 6311050,
-  "name": "WONOREJO"
+  "districtName": "JUAI",
+  "name": "WONOREJO",
+  "postalCode": "21186"
  },
  {
   "id": 6311050018,
   "districtId": 6311050,
-  "name": "SUMBER REJEKI"
+  "districtName": "JUAI",
+  "name": "SUMBER REJEKI",
+  "postalCode": "30971"
  },
  {
   "id": 6311050019,
   "districtId": 6311050,
-  "name": "BATA"
+  "districtName": "JUAI",
+  "name": "BATA",
+  "postalCode": "71665"
  },
  {
   "id": 6311050020,
   "districtId": 6311050,
-  "name": "MIHU"
+  "districtName": "JUAI",
+  "name": "MIHU",
+  "postalCode": "71665"
  },
  {
   "id": 6311050021,
   "districtId": 6311050,
-  "name": "LALAYAU"
+  "districtName": "JUAI",
+  "name": "LALAYAU",
+  "postalCode": "71665"
  }
 ]

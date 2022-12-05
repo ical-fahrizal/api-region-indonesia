@@ -2,21 +2,29 @@
  {
   "id": 9431050001,
   "districtId": 9431050,
-  "name": "TARIA"
+  "districtName": "MEGAMBILIS",
+  "name": "TARIA",
+  "postalCode": "99558"
  },
  {
   "id": 9431050002,
   "districtId": 9431050,
-  "name": "MEGABILIS"
+  "districtName": "MEGAMBILIS",
+  "name": "MEGABILIS",
+  "postalCode": ""
  },
  {
   "id": 9431050003,
   "districtId": 9431050,
-  "name": "HOMASAM"
+  "districtName": "MEGAMBILIS",
+  "name": "HOMASAM",
+  "postalCode": "99558"
  },
  {
   "id": 9431050004,
   "districtId": 9431050,
-  "name": "HIGISYAM"
+  "districtName": "MEGAMBILIS",
+  "name": "HIGISYAM",
+  "postalCode": "99558"
  }
 ]

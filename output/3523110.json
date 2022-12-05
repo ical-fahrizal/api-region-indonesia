@@ -2,91 +2,127 @@
  {
   "id": 3523110001,
   "districtId": 3523110,
-  "name": "NGIMBANG"
+  "districtName": "PALANG",
+  "name": "NGIMBANG",
+  "postalCode": "62273"
  },
  {
   "id": 3523110002,
   "districtId": 3523110,
-  "name": "WANGUN"
+  "districtName": "PALANG",
+  "name": "WANGUN",
+  "postalCode": "62391"
  },
  {
   "id": 3523110003,
   "districtId": 3523110,
-  "name": "KETAMBUL"
+  "districtName": "PALANG",
+  "name": "KETAMBUL",
+  "postalCode": "62391"
  },
  {
   "id": 3523110004,
   "districtId": 3523110,
-  "name": "CEPOKOREJO"
+  "districtName": "PALANG",
+  "name": "CEPOKOREJO",
+  "postalCode": "62391"
  },
  {
   "id": 3523110005,
   "districtId": 3523110,
-  "name": "PLIWETAN"
+  "districtName": "PALANG",
+  "name": "PLIWETAN",
+  "postalCode": "62391"
  },
  {
   "id": 3523110006,
   "districtId": 3523110,
-  "name": "KARANGAGUNG"
+  "districtName": "PALANG",
+  "name": "KARANGAGUNG",
+  "postalCode": "44173"
  },
  {
   "id": 3523110007,
   "districtId": 3523110,
-  "name": "LERAN WETAN"
+  "districtName": "PALANG",
+  "name": "LERAN WETAN",
+  "postalCode": "62391"
  },
  {
   "id": 3523110008,
   "districtId": 3523110,
-  "name": "LERAN KULON"
+  "districtName": "PALANG",
+  "name": "LERAN KULON",
+  "postalCode": "62391"
  },
  {
   "id": 3523110009,
   "districtId": 3523110,
-  "name": "GLODOG"
+  "districtName": "PALANG",
+  "name": "GLODOG",
+  "postalCode": "62391"
  },
  {
   "id": 3523110010,
   "districtId": 3523110,
-  "name": "PALANG"
+  "districtName": "PALANG",
+  "name": "PALANG",
+  "postalCode": "62391"
  },
  {
   "id": 3523110011,
   "districtId": 3523110,
-  "name": "GESIKHARJO"
+  "districtName": "PALANG",
+  "name": "GESIKHARJO",
+  "postalCode": "62391"
  },
  {
   "id": 3523110012,
   "districtId": 3523110,
-  "name": "PUCANGAN"
+  "districtName": "PALANG",
+  "name": "PUCANGAN",
+  "postalCode": "54392"
  },
  {
   "id": 3523110013,
   "districtId": 3523110,
-  "name": "CENDORO"
+  "districtName": "PALANG",
+  "name": "CENDORO",
+  "postalCode": "61354"
  },
  {
   "id": 3523110014,
   "districtId": 3523110,
-  "name": "DAWUNG"
+  "districtName": "PALANG",
+  "name": "DAWUNG",
+  "postalCode": "57256"
  },
  {
   "id": 3523110015,
   "districtId": 3523110,
-  "name": "TEGALBANG"
+  "districtName": "PALANG",
+  "name": "TEGALBANG",
+  "postalCode": "62391"
  },
  {
   "id": 3523110017,
   "districtId": 3523110,
-  "name": "KRADENAN"
+  "districtName": "PALANG",
+  "name": "KRADENAN",
+  "postalCode": "54392"
  },
  {
   "id": 3523110018,
   "districtId": 3523110,
-  "name": "TASIKMADU"
+  "districtName": "PALANG",
+  "name": "TASIKMADU",
+  "postalCode": "54263"
  },
  {
   "id": 3523110019,
   "districtId": 3523110,
-  "name": "PANYURAN"
+  "districtName": "PALANG",
+  "name": "PANYURAN",
+  "postalCode": "62391"
  }
 ]

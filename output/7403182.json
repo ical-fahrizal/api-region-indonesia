@@ -2,51 +2,71 @@
  {
   "id": 7403182001,
   "districtId": 7403182,
-  "name": "PUOSU"
+  "districtName": "TONGAUNA",
+  "name": "PUOSU",
+  "postalCode": "93571"
  },
  {
   "id": 7403182002,
   "districtId": 7403182,
-  "name": "SENDANG MULYASARI"
+  "districtName": "TONGAUNA",
+  "name": "SENDANG MULYASARI",
+  "postalCode": ""
  },
  {
   "id": 7403182003,
   "districtId": 7403182,
-  "name": "MEKAR SARI"
+  "districtName": "TONGAUNA",
+  "name": "MEKAR SARI",
+  "postalCode": "21261"
  },
  {
   "id": 7403182004,
   "districtId": 7403182,
-  "name": "MATAIWOI"
+  "districtName": "TONGAUNA",
+  "name": "MATAIWOI",
+  "postalCode": "93819"
  },
  {
   "id": 7403182005,
   "districtId": 7403182,
-  "name": "TONGAUNA"
+  "districtName": "TONGAUNA",
+  "name": "TONGAUNA",
+  "postalCode": "93461"
  },
  {
   "id": 7403182006,
   "districtId": 7403182,
-  "name": "ASAO"
+  "districtName": "TONGAUNA",
+  "name": "ASAO",
+  "postalCode": "93461"
  },
  {
   "id": 7403182011,
   "districtId": 7403182,
-  "name": "LALONGGOWUNA"
+  "districtName": "TONGAUNA",
+  "name": "LALONGGOWUNA",
+  "postalCode": "93461"
  },
  {
   "id": 7403182013,
   "districtId": 7403182,
-  "name": "MOMEA"
+  "districtName": "TONGAUNA",
+  "name": "MOMEA",
+  "postalCode": "93461"
  },
  {
   "id": 7403182015,
   "districtId": 7403182,
-  "name": "AMBEPULU"
+  "districtName": "TONGAUNA",
+  "name": "AMBEPULU",
+  "postalCode": ""
  },
  {
   "id": 7403182016,
   "districtId": 7403182,
-  "name": "ANDEPOSANDU"
+  "districtName": "TONGAUNA",
+  "name": "ANDEPOSANDU",
+  "postalCode": ""
  }
 ]

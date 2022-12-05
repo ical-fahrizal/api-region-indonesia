@@ -2,41 +2,57 @@
  {
   "id": 3271030001,
   "districtId": 3271030,
-  "name": "BANTARJATI"
+  "districtName": "BOGOR UTARA",
+  "name": "BANTARJATI",
+  "postalCode": "16153"
  },
  {
   "id": 3271030002,
   "districtId": 3271030,
-  "name": "TEGALGUNDIL"
+  "districtName": "BOGOR UTARA",
+  "name": "TEGALGUNDIL",
+  "postalCode": ""
  },
  {
   "id": 3271030003,
   "districtId": 3271030,
-  "name": "TANAHBARU"
+  "districtName": "BOGOR UTARA",
+  "name": "TANAHBARU",
+  "postalCode": "41355"
  },
  {
   "id": 3271030004,
   "districtId": 3271030,
-  "name": "CIMAHPAR"
+  "districtName": "BOGOR UTARA",
+  "name": "CIMAHPAR",
+  "postalCode": "16155"
  },
  {
   "id": 3271030005,
   "districtId": 3271030,
-  "name": "CILUAR"
+  "districtName": "BOGOR UTARA",
+  "name": "CILUAR",
+  "postalCode": "16156"
  },
  {
   "id": 3271030006,
   "districtId": 3271030,
-  "name": "CIBULUH"
+  "districtName": "BOGOR UTARA",
+  "name": "CIBULUH",
+  "postalCode": "16151"
  },
  {
   "id": 3271030007,
   "districtId": 3271030,
-  "name": "KEDUNGHALANG"
+  "districtName": "BOGOR UTARA",
+  "name": "KEDUNGHALANG",
+  "postalCode": "16158"
  },
  {
   "id": 3271030008,
   "districtId": 3271030,
-  "name": "CIPARIGI"
+  "districtName": "BOGOR UTARA",
+  "name": "CIPARIGI",
+  "postalCode": "16157"
  }
 ]

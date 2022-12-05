@@ -2,21 +2,29 @@
  {
   "id": 5204021001,
   "districtId": 5204021,
-  "name": "MUNGKIN"
+  "districtName": "ORONG TELU",
+  "name": "MUNGKIN",
+  "postalCode": "84373"
  },
  {
   "id": 5204021002,
   "districtId": 5204021,
-  "name": "KELAWIS"
+  "districtName": "ORONG TELU",
+  "name": "KELAWIS",
+  "postalCode": "84373"
  },
  {
   "id": 5204021003,
   "districtId": 5204021,
-  "name": "SEBEOK"
+  "districtName": "ORONG TELU",
+  "name": "SEBEOK",
+  "postalCode": "84373"
  },
  {
   "id": 5204021004,
   "districtId": 5204021,
-  "name": "SENAWANG"
+  "districtName": "ORONG TELU",
+  "name": "SENAWANG",
+  "postalCode": "84373"
  }
 ]

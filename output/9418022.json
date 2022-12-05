@@ -2,46 +2,64 @@
  {
   "id": 9418022002,
   "districtId": 9418022,
-  "name": "AROMBOK"
+  "districtName": "WUNIN",
+  "name": "AROMBOK",
+  "postalCode": "99562"
  },
  {
   "id": 9418022003,
   "districtId": 9418022,
-  "name": "WURINERI"
+  "districtName": "WUNIN",
+  "name": "WURINERI",
+  "postalCode": "99562"
  },
  {
   "id": 9418022007,
   "districtId": 9418022,
-  "name": "POKEGI"
+  "districtName": "WUNIN",
+  "name": "POKEGI",
+  "postalCode": "99562"
  },
  {
   "id": 9418022011,
   "districtId": 9418022,
-  "name": "ENANAGI"
+  "districtName": "WUNIN",
+  "name": "ENANAGI",
+  "postalCode": "99562"
  },
  {
   "id": 9418022012,
   "districtId": 9418022,
-  "name": "KERIBAGA"
+  "districtName": "WUNIN",
+  "name": "KERIBAGA",
+  "postalCode": "99562"
  },
  {
   "id": 9418022014,
   "districtId": 9418022,
-  "name": "PINDAK"
+  "districtName": "WUNIN",
+  "name": "PINDAK",
+  "postalCode": "99562"
  },
  {
   "id": 9418022015,
   "districtId": 9418022,
-  "name": "GILOPAGA"
+  "districtName": "WUNIN",
+  "name": "GILOPAGA",
+  "postalCode": "99562"
  },
  {
   "id": 9418022016,
   "districtId": 9418022,
-  "name": "WONA"
+  "districtName": "WUNIN",
+  "name": "WONA",
+  "postalCode": "99562"
  },
  {
   "id": 9418022017,
   "districtId": 9418022,
-  "name": "NUMBOBOTON"
+  "districtName": "WUNIN",
+  "name": "NUMBOBOTON",
+  "postalCode": ""
  }
 ]

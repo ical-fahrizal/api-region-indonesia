@@ -2,46 +2,64 @@
  {
   "id": 9427030001,
   "districtId": 9427030,
-  "name": "WAFOR"
+  "districtName": "SUPIORI TIMUR",
+  "name": "WAFOR",
+  "postalCode": "98161"
  },
  {
   "id": 9427030002,
   "districtId": 9427030,
-  "name": "SAUYAS"
+  "districtName": "SUPIORI TIMUR",
+  "name": "SAUYAS",
+  "postalCode": "98161"
  },
  {
   "id": 9427030003,
   "districtId": 9427030,
-  "name": "SORENDIDORI"
+  "districtName": "SUPIORI TIMUR",
+  "name": "SORENDIDORI",
+  "postalCode": ""
  },
  {
   "id": 9427030004,
   "districtId": 9427030,
-  "name": "WARYESI"
+  "districtName": "SUPIORI TIMUR",
+  "name": "WARYESI",
+  "postalCode": "98161"
  },
  {
   "id": 9427030005,
   "districtId": 9427030,
-  "name": "WOMBONDA"
+  "districtName": "SUPIORI TIMUR",
+  "name": "WOMBONDA",
+  "postalCode": "98161"
  },
  {
   "id": 9427030006,
   "districtId": 9427030,
-  "name": "YAWERMA"
+  "districtName": "SUPIORI TIMUR",
+  "name": "YAWERMA",
+  "postalCode": "98161"
  },
  {
   "id": 9427030007,
   "districtId": 9427030,
-  "name": "MARSRAM"
+  "districtName": "SUPIORI TIMUR",
+  "name": "MARSRAM",
+  "postalCode": "98161"
  },
  {
   "id": 9427030009,
   "districtId": 9427030,
-  "name": "DOUWBO"
+  "districtName": "SUPIORI TIMUR",
+  "name": "DOUWBO",
+  "postalCode": ""
  },
  {
   "id": 9427030010,
   "districtId": 9427030,
-  "name": "SYURDORI"
+  "districtName": "SUPIORI TIMUR",
+  "name": "SYURDORI",
+  "postalCode": "98157"
  }
 ]

@@ -2,66 +2,92 @@
  {
   "id": 6305100001,
   "districtId": 6305100,
-  "name": "KALADAN"
+  "districtName": "CANDI LARAS UTARA",
+  "name": "KALADAN",
+  "postalCode": "71171"
  },
  {
   "id": 6305100002,
   "districtId": 6305100,
-  "name": "SUNGAI SALAI HILIR"
+  "districtName": "CANDI LARAS UTARA",
+  "name": "SUNGAI SALAI HILIR",
+  "postalCode": ""
  },
  {
   "id": 6305100003,
   "districtId": 6305100,
-  "name": "SUNGAI SALAI"
+  "districtName": "CANDI LARAS UTARA",
+  "name": "SUNGAI SALAI",
+  "postalCode": ""
  },
  {
   "id": 6305100004,
   "districtId": 6305100,
-  "name": "SUNGAI PUTING"
+  "districtName": "CANDI LARAS UTARA",
+  "name": "SUNGAI PUTING",
+  "postalCode": ""
  },
  {
   "id": 6305100005,
   "districtId": 6305100,
-  "name": "PARIOK"
+  "districtName": "CANDI LARAS UTARA",
+  "name": "PARIOK",
+  "postalCode": "71171"
  },
  {
   "id": 6305100006,
   "districtId": 6305100,
-  "name": "MARGASARI ILIR"
+  "districtName": "CANDI LARAS UTARA",
+  "name": "MARGASARI ILIR",
+  "postalCode": "71171"
  },
  {
   "id": 6305100007,
   "districtId": 6305100,
-  "name": "BATALAS"
+  "districtName": "CANDI LARAS UTARA",
+  "name": "BATALAS",
+  "postalCode": "71171"
  },
  {
   "id": 6305100008,
   "districtId": 6305100,
-  "name": "TELUK HAUR"
+  "districtName": "CANDI LARAS UTARA",
+  "name": "TELUK HAUR",
+  "postalCode": "71171"
  },
  {
   "id": 6305100009,
   "districtId": 6305100,
-  "name": "RAWANA"
+  "districtName": "CANDI LARAS UTARA",
+  "name": "RAWANA",
+  "postalCode": "71171"
  },
  {
   "id": 6305100010,
   "districtId": 6305100,
-  "name": "RAWANA HULU"
+  "districtName": "CANDI LARAS UTARA",
+  "name": "RAWANA HULU",
+  "postalCode": "71171"
  },
  {
   "id": 6305100011,
   "districtId": 6305100,
-  "name": "BUAS BUAS HILIR"
+  "districtName": "CANDI LARAS UTARA",
+  "name": "BUAS BUAS HILIR",
+  "postalCode": "71171"
  },
  {
   "id": 6305100012,
   "districtId": 6305100,
-  "name": "BUAS BUAS"
+  "districtName": "CANDI LARAS UTARA",
+  "name": "BUAS BUAS",
+  "postalCode": "71171"
  },
  {
   "id": 6305100013,
   "districtId": 6305100,
-  "name": "SAWAJA"
+  "districtName": "CANDI LARAS UTARA",
+  "name": "SAWAJA",
+  "postalCode": "71171"
  }
 ]

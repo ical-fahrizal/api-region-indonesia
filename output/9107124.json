@@ -2,31 +2,43 @@
  {
   "id": 9107124001,
   "districtId": 9107124,
-  "name": "MLAKHAN"
+  "districtName": "BUK",
+  "name": "MLAKHAN",
+  "postalCode": "98453"
  },
  {
   "id": 9107124002,
   "districtId": 9107124,
-  "name": "MIMPE"
+  "districtName": "BUK",
+  "name": "MIMPE",
+  "postalCode": "98453"
  },
  {
   "id": 9107124003,
   "districtId": 9107124,
-  "name": "KLAIS"
+  "districtName": "BUK",
+  "name": "KLAIS",
+  "postalCode": "98453"
  },
  {
   "id": 9107124005,
   "districtId": 9107124,
-  "name": "TIKLEN"
+  "districtName": "BUK",
+  "name": "TIKLEN",
+  "postalCode": ""
  },
  {
   "id": 9107124006,
   "districtId": 9107124,
-  "name": "KLAHEN"
+  "districtName": "BUK",
+  "name": "KLAHEN",
+  "postalCode": ""
  },
  {
   "id": 9107124007,
   "districtId": 9107124,
-  "name": "MOOS"
+  "districtName": "BUK",
+  "name": "MOOS",
+  "postalCode": ""
  }
 ]

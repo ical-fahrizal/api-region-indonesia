@@ -2,36 +2,50 @@
  {
   "id": 1671031001,
   "districtId": 1671031,
-  "name": "PLAJU DARAT"
+  "districtName": "PLAJU",
+  "name": "PLAJU DARAT",
+  "postalCode": "30267"
  },
  {
   "id": 1671031002,
   "districtId": 1671031,
-  "name": "TALANG PUTRI"
+  "districtName": "PLAJU",
+  "name": "TALANG PUTRI",
+  "postalCode": "30268"
  },
  {
   "id": 1671031003,
   "districtId": 1671031,
-  "name": "KOMPERTA"
+  "districtName": "PLAJU",
+  "name": "KOMPERTA",
+  "postalCode": "30268"
  },
  {
   "id": 1671031004,
   "districtId": 1671031,
-  "name": "PLAJU ILIR"
+  "districtName": "PLAJU",
+  "name": "PLAJU ILIR",
+  "postalCode": "30268"
  },
  {
   "id": 1671031005,
   "districtId": 1671031,
-  "name": "TALANG BUBUK"
+  "districtName": "PLAJU",
+  "name": "TALANG BUBUK",
+  "postalCode": "30268"
  },
  {
   "id": 1671031006,
   "districtId": 1671031,
-  "name": "PLAJU ULU"
+  "districtName": "PLAJU",
+  "name": "PLAJU ULU",
+  "postalCode": "30266"
  },
  {
   "id": 1671031007,
   "districtId": 1671031,
-  "name": "BAGUS KUNING"
+  "districtName": "PLAJU",
+  "name": "BAGUS KUNING",
+  "postalCode": "30268"
  }
 ]

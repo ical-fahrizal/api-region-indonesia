@@ -2,101 +2,141 @@
  {
   "id": 6101030001,
   "districtId": 6101030,
-  "name": "SERET AYON"
+  "districtName": "TEBAS",
+  "name": "SERET AYON",
+  "postalCode": "79461"
  },
  {
   "id": 6101030002,
   "districtId": 6101030,
-  "name": "MARIBAS"
+  "districtName": "TEBAS",
+  "name": "MARIBAS",
+  "postalCode": "79461"
  },
  {
   "id": 6101030003,
   "districtId": 6101030,
-  "name": "BATU MAKJAGE"
+  "districtName": "TEBAS",
+  "name": "BATU MAKJAGE",
+  "postalCode": "79461"
  },
  {
   "id": 6101030004,
   "districtId": 6101030,
-  "name": "BUKIT SEGOLER"
+  "districtName": "TEBAS",
+  "name": "BUKIT SEGOLER",
+  "postalCode": "79461"
  },
  {
   "id": 6101030005,
   "districtId": 6101030,
-  "name": "SERINDANG"
+  "districtName": "TEBAS",
+  "name": "SERINDANG",
+  "postalCode": "79461"
  },
  {
   "id": 6101030006,
   "districtId": 6101030,
-  "name": "MATANG LABUNG"
+  "districtName": "TEBAS",
+  "name": "MATANG LABUNG",
+  "postalCode": "79461"
  },
  {
   "id": 6101030007,
   "districtId": 6101030,
-  "name": "MAK TANGGUK"
+  "districtName": "TEBAS",
+  "name": "MAK TANGGUK",
+  "postalCode": "79461"
  },
  {
   "id": 6101030008,
   "districtId": 6101030,
-  "name": "SEGEDONG"
+  "districtName": "TEBAS",
+  "name": "SEGEDONG",
+  "postalCode": "79461"
  },
  {
   "id": 6101030009,
   "districtId": 6101030,
-  "name": "PUSAKA"
+  "districtName": "TEBAS",
+  "name": "PUSAKA",
+  "postalCode": "79461"
  },
  {
   "id": 6101030011,
   "districtId": 6101030,
-  "name": "SUNGAI KELAMBU"
+  "districtName": "TEBAS",
+  "name": "SUNGAI KELAMBU",
+  "postalCode": ""
  },
  {
   "id": 6101030013,
   "districtId": 6101030,
-  "name": "PANGKALAN KONGSI"
+  "districtName": "TEBAS",
+  "name": "PANGKALAN KONGSI",
+  "postalCode": "79461"
  },
  {
   "id": 6101030014,
   "districtId": 6101030,
-  "name": "DUNGUN PERAPAKAN"
+  "districtName": "TEBAS",
+  "name": "DUNGUN PERAPAKAN",
+  "postalCode": "79461"
  },
  {
   "id": 6101030015,
   "districtId": 6101030,
-  "name": "TEBAS SUNGAI"
+  "districtName": "TEBAS",
+  "name": "TEBAS SUNGAI",
+  "postalCode": "79461"
  },
  {
   "id": 6101030016,
   "districtId": 6101030,
-  "name": "SEJIRAM"
+  "districtName": "TEBAS",
+  "name": "SEJIRAM",
+  "postalCode": "78772"
  },
  {
   "id": 6101030017,
   "districtId": 6101030,
-  "name": "SEBERKAT"
+  "districtName": "TEBAS",
+  "name": "SEBERKAT",
+  "postalCode": "79461"
  },
  {
   "id": 6101030018,
   "districtId": 6101030,
-  "name": "SEMPALAI"
+  "districtName": "TEBAS",
+  "name": "SEMPALAI",
+  "postalCode": "79461"
  },
  {
   "id": 6101030020,
   "districtId": 6101030,
-  "name": "MAK RAMPAI"
+  "districtName": "TEBAS",
+  "name": "MAK RAMPAI",
+  "postalCode": "79461"
  },
  {
   "id": 6101030021,
   "districtId": 6101030,
-  "name": "TEBAS KUALA"
+  "districtName": "TEBAS",
+  "name": "TEBAS KUALA",
+  "postalCode": "79461"
  },
  {
   "id": 6101030022,
   "districtId": 6101030,
-  "name": "MEKAR SEKUNTUM"
+  "districtName": "TEBAS",
+  "name": "MEKAR SEKUNTUM",
+  "postalCode": "79461"
  },
  {
   "id": 6101030023,
   "districtId": 6101030,
-  "name": "SEGARAU PARIT"
+  "districtName": "TEBAS",
+  "name": "SEGARAU PARIT",
+  "postalCode": "79461"
  }
 ]

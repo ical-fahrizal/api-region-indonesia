@@ -2,36 +2,50 @@
  {
   "id": 7308021001,
   "districtId": 7308021,
-  "name": "PABENTENGAN"
+  "districtName": "MARUSU",
+  "name": "PABENTENGAN",
+  "postalCode": "92152"
  },
  {
   "id": 7308021002,
   "districtId": 7308021,
-  "name": "TEMAPPADDUAE"
+  "districtName": "MARUSU",
+  "name": "TEMAPPADDUAE",
+  "postalCode": "90552"
  },
  {
   "id": 7308021003,
   "districtId": 7308021,
-  "name": "MARUMPA"
+  "districtName": "MARUSU",
+  "name": "MARUMPA",
+  "postalCode": "90552"
  },
  {
   "id": 7308021004,
   "districtId": 7308021,
-  "name": "TELLUMPOCCOE"
+  "districtName": "MARUSU",
+  "name": "TELLUMPOCCOE",
+  "postalCode": "90552"
  },
  {
   "id": 7308021005,
   "districtId": 7308021,
-  "name": "BONTO MATENE"
+  "districtName": "MARUSU",
+  "name": "BONTO MATENE",
+  "postalCode": "90552"
  },
  {
   "id": 7308021006,
   "districtId": 7308021,
-  "name": "A'BULOSIBATANG"
+  "districtName": "MARUSU",
+  "name": "A'BULOSIBATANG",
+  "postalCode": ""
  },
  {
   "id": 7308021007,
   "districtId": 7308021,
-  "name": "NISOMBALIA"
+  "districtName": "MARUSU",
+  "name": "NISOMBALIA",
+  "postalCode": "90552"
  }
 ]

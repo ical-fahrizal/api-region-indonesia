@@ -2,51 +2,71 @@
  {
   "id": 1117011001,
   "districtId": 1117011,
-  "name": "TIMANG GAJAH"
+  "districtName": "GAJAH PUTIH",
+  "name": "TIMANG GAJAH",
+  "postalCode": "24553"
  },
  {
   "id": 1117011002,
   "districtId": 1117011,
-  "name": "RERONGA"
+  "districtName": "GAJAH PUTIH",
+  "name": "RERONGA",
+  "postalCode": ""
  },
  {
   "id": 1117011003,
   "districtId": 1117011,
-  "name": "PANTAN LUES"
+  "districtName": "GAJAH PUTIH",
+  "name": "PANTAN LUES",
+  "postalCode": "24553"
  },
  {
   "id": 1117011004,
   "districtId": 1117011,
-  "name": "MERIAH JAYA"
+  "districtName": "GAJAH PUTIH",
+  "name": "MERIAH JAYA",
+  "postalCode": "24553"
  },
  {
   "id": 1117011005,
   "districtId": 1117011,
-  "name": "UMAH BESI"
+  "districtName": "GAJAH PUTIH",
+  "name": "UMAH BESI",
+  "postalCode": "24553"
  },
  {
   "id": 1117011006,
   "districtId": 1117011,
-  "name": "PANTE KARYA"
+  "districtName": "GAJAH PUTIH",
+  "name": "PANTE KARYA",
+  "postalCode": "24553"
  },
  {
   "id": 1117011007,
   "districtId": 1117011,
-  "name": "SIMPANG RAHMAT"
+  "districtName": "GAJAH PUTIH",
+  "name": "SIMPANG RAHMAT",
+  "postalCode": "24553"
  },
  {
   "id": 1117011008,
   "districtId": 1117011,
-  "name": "GAJAH PUTIH"
+  "districtName": "GAJAH PUTIH",
+  "name": "GAJAH PUTIH",
+  "postalCode": "24553"
  },
  {
   "id": 1117011009,
   "districtId": 1117011,
-  "name": "GAYO SETIE"
+  "districtName": "GAJAH PUTIH",
+  "name": "GAYO SETIE",
+  "postalCode": "24553"
  },
  {
   "id": 1117011010,
   "districtId": 1117011,
-  "name": "ALAM JAYA"
+  "districtName": "GAJAH PUTIH",
+  "name": "ALAM JAYA",
+  "postalCode": "24553"
  }
 ]

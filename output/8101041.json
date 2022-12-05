@@ -2,41 +2,57 @@
  {
   "id": 8101041002,
   "districtId": 8101041,
-  "name": "LORULUN"
+  "districtName": "WER TAMRIAN",
+  "name": "LORULUN",
+  "postalCode": ""
  },
  {
   "id": 8101041005,
   "districtId": 8101041,
-  "name": "AMDASA"
+  "districtName": "WER TAMRIAN",
+  "name": "AMDASA",
+  "postalCode": "97464"
  },
  {
   "id": 8101041006,
   "districtId": 8101041,
-  "name": "SANGLIAT DOL"
+  "districtName": "WER TAMRIAN",
+  "name": "SANGLIAT DOL",
+  "postalCode": "97464"
  },
  {
   "id": 8101041007,
   "districtId": 8101041,
-  "name": "SANGLIAT KRAWAIN"
+  "districtName": "WER TAMRIAN",
+  "name": "SANGLIAT KRAWAIN",
+  "postalCode": "97464"
  },
  {
   "id": 8101041008,
   "districtId": 8101041,
-  "name": "ARUI BAB"
+  "districtName": "WER TAMRIAN",
+  "name": "ARUI BAB",
+  "postalCode": "97464"
  },
  {
   "id": 8101041009,
   "districtId": 8101041,
-  "name": "ARUI DAS"
+  "districtName": "WER TAMRIAN",
+  "name": "ARUI DAS",
+  "postalCode": "97464"
  },
  {
   "id": 8101041010,
   "districtId": 8101041,
-  "name": "ATUBUL DA"
+  "districtName": "WER TAMRIAN",
+  "name": "ATUBUL DA",
+  "postalCode": ""
  },
  {
   "id": 8101041011,
   "districtId": 8101041,
-  "name": "ATUBUL DOL"
+  "districtName": "WER TAMRIAN",
+  "name": "ATUBUL DOL",
+  "postalCode": ""
  }
 ]

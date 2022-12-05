@@ -2,41 +2,57 @@
  {
   "id": 7312050002,
   "districtId": 7312050,
-  "name": "PISING"
+  "districtName": "DONRI DONRI",
+  "name": "PISING",
+  "postalCode": ""
  },
  {
   "id": 7312050003,
   "districtId": 7312050,
-  "name": "LABOKONG"
+  "districtName": "DONRI DONRI",
+  "name": "LABOKONG",
+  "postalCode": "90853"
  },
  {
   "id": 7312050004,
   "districtId": 7312050,
-  "name": "DONRI-DONRI"
+  "districtName": "DONRI DONRI",
+  "name": "DONRI-DONRI",
+  "postalCode": "90853"
  },
  {
   "id": 7312050005,
   "districtId": 7312050,
-  "name": "SERING"
+  "districtName": "DONRI DONRI",
+  "name": "SERING",
+  "postalCode": "28353"
  },
  {
   "id": 7312050006,
   "districtId": 7312050,
-  "name": "LALABATA RIAJA"
+  "districtName": "DONRI DONRI",
+  "name": "LALABATA RIAJA",
+  "postalCode": "90853"
  },
  {
   "id": 7312050007,
   "districtId": 7312050,
-  "name": "TOTTONG"
+  "districtName": "DONRI DONRI",
+  "name": "TOTTONG",
+  "postalCode": "90853"
  },
  {
   "id": 7312050008,
   "districtId": 7312050,
-  "name": "LEWORENG"
+  "districtName": "DONRI DONRI",
+  "name": "LEWORENG",
+  "postalCode": "90853"
  },
  {
   "id": 7312050009,
   "districtId": 7312050,
-  "name": "KESSING"
+  "districtName": "DONRI DONRI",
+  "name": "KESSING",
+  "postalCode": "90853"
  }
 ]

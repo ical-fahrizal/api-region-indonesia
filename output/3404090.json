@@ -2,31 +2,43 @@
  {
   "id": 3404090001,
   "districtId": 3404090,
-  "name": "SUMBER HARJO"
+  "districtName": "PRAMBANAN",
+  "name": "SUMBER HARJO",
+  "postalCode": "32361"
  },
  {
   "id": 3404090002,
   "districtId": 3404090,
-  "name": "WUKIR HARJO"
+  "districtName": "PRAMBANAN",
+  "name": "WUKIR HARJO",
+  "postalCode": "55572"
  },
  {
   "id": 3404090003,
   "districtId": 3404090,
-  "name": "GAYAM HARJO"
+  "districtName": "PRAMBANAN",
+  "name": "GAYAM HARJO",
+  "postalCode": "55572"
  },
  {
   "id": 3404090004,
   "districtId": 3404090,
-  "name": "SAMBI REJO"
+  "districtName": "PRAMBANAN",
+  "name": "SAMBI REJO",
+  "postalCode": "34384"
  },
  {
   "id": 3404090005,
   "districtId": 3404090,
-  "name": "MADU REJO"
+  "districtName": "PRAMBANAN",
+  "name": "MADU REJO",
+  "postalCode": "55572"
  },
  {
   "id": 3404090006,
   "districtId": 3404090,
-  "name": "BOKO HARJO"
+  "districtName": "PRAMBANAN",
+  "name": "BOKO HARJO",
+  "postalCode": "55572"
  }
 ]

@@ -2,11 +2,15 @@
  {
   "id": 1303040001,
   "districtId": 1303040,
-  "name": "SURIAN"
+  "districtName": "PANTAI CERMIN",
+  "name": "SURIAN",
+  "postalCode": "27373"
  },
  {
   "id": 1303040002,
   "districtId": 1303040,
-  "name": "LOLO"
+  "districtName": "PANTAI CERMIN",
+  "name": "LOLO",
+  "postalCode": "27373"
  }
 ]

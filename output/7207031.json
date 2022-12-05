@@ -2,61 +2,85 @@
  {
   "id": 7207031001,
   "districtId": 7207031,
-  "name": "UNONE"
+  "districtName": "BUKAL",
+  "name": "UNONE",
+  "postalCode": "94564"
  },
  {
   "id": 7207031002,
   "districtId": 7207031,
-  "name": "WINANGUN"
+  "districtName": "BUKAL",
+  "name": "WINANGUN",
+  "postalCode": "95862"
  },
  {
   "id": 7207031003,
   "districtId": 7207031,
-  "name": "RANTEMARANU"
+  "districtName": "BUKAL",
+  "name": "RANTEMARANU",
+  "postalCode": "94564"
  },
  {
   "id": 7207031004,
   "districtId": 7207031,
-  "name": "MODO"
+  "districtName": "BUKAL",
+  "name": "MODO",
+  "postalCode": "94564"
  },
  {
   "id": 7207031005,
   "districtId": 7207031,
-  "name": "MOPU"
+  "districtName": "BUKAL",
+  "name": "MOPU",
+  "postalCode": "94564"
  },
  {
   "id": 7207031006,
   "districtId": 7207031,
-  "name": "POTANGOAN"
+  "districtName": "BUKAL",
+  "name": "POTANGOAN",
+  "postalCode": "94564"
  },
  {
   "id": 7207031007,
   "districtId": 7207031,
-  "name": "DIAT"
+  "districtName": "BUKAL",
+  "name": "DIAT",
+  "postalCode": "95761"
  },
  {
   "id": 7207031008,
   "districtId": 7207031,
-  "name": "BIAU"
+  "districtName": "BUKAL",
+  "name": "BIAU",
+  "postalCode": "85765"
  },
  {
   "id": 7207031011,
   "districtId": 7207031,
-  "name": "MOOYONG"
+  "districtName": "BUKAL",
+  "name": "MOOYONG",
+  "postalCode": "94563"
  },
  {
   "id": 7207031012,
   "districtId": 7207031,
-  "name": "BINUANG"
+  "districtName": "BUKAL",
+  "name": "BINUANG",
+  "postalCode": "28463"
  },
  {
   "id": 7207031013,
   "districtId": 7207031,
-  "name": "BUKAL"
+  "districtName": "BUKAL",
+  "name": "BUKAL",
+  "postalCode": "94563"
  },
  {
   "id": 7207031014,
   "districtId": 7207031,
-  "name": "MULAT"
+  "districtName": "BUKAL",
+  "name": "MULAT",
+  "postalCode": "94563"
  }
 ]

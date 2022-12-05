@@ -2,76 +2,106 @@
  {
   "id": 3320040001,
   "districtId": 3320040,
-  "name": "MAYONG KIDUL"
+  "districtName": "MAYONG",
+  "name": "MAYONG KIDUL",
+  "postalCode": "59465"
  },
  {
   "id": 3320040002,
   "districtId": 3320040,
-  "name": "MAYONG LOR"
+  "districtName": "MAYONG",
+  "name": "MAYONG LOR",
+  "postalCode": "59465"
  },
  {
   "id": 3320040003,
   "districtId": 3320040,
-  "name": "TIGAJURU"
+  "districtName": "MAYONG",
+  "name": "TIGAJURU",
+  "postalCode": "59465"
  },
  {
   "id": 3320040004,
   "districtId": 3320040,
-  "name": "PAREN"
+  "districtName": "MAYONG",
+  "name": "PAREN",
+  "postalCode": "59465"
  },
  {
   "id": 3320040005,
   "districtId": 3320040,
-  "name": "KUANYAR"
+  "districtName": "MAYONG",
+  "name": "KUANYAR",
+  "postalCode": "59465"
  },
  {
   "id": 3320040006,
   "districtId": 3320040,
-  "name": "PELANG"
+  "districtName": "MAYONG",
+  "name": "PELANG",
+  "postalCode": "59465"
  },
  {
   "id": 3320040007,
   "districtId": 3320040,
-  "name": "SENGONBUGEL"
+  "districtName": "MAYONG",
+  "name": "SENGONBUGEL",
+  "postalCode": "59465"
  },
  {
   "id": 3320040009,
   "districtId": 3320040,
-  "name": "SINGOROJO"
+  "districtName": "MAYONG",
+  "name": "SINGOROJO",
+  "postalCode": "59465"
  },
  {
   "id": 3320040010,
   "districtId": 3320040,
-  "name": "JEBOL"
+  "districtName": "MAYONG",
+  "name": "JEBOL",
+  "postalCode": "59465"
  },
  {
   "id": 3320040011,
   "districtId": 3320040,
-  "name": "BUARAN"
+  "districtName": "MAYONG",
+  "name": "BUARAN",
+  "postalCode": "52261"
  },
  {
   "id": 3320040012,
   "districtId": 3320040,
-  "name": "NGROTO"
+  "districtName": "MAYONG",
+  "name": "NGROTO",
+  "postalCode": "58314"
  },
  {
   "id": 3320040013,
   "districtId": 3320040,
-  "name": "RAJEKWESI"
+  "districtName": "MAYONG",
+  "name": "RAJEKWESI",
+  "postalCode": "59465"
  },
  {
   "id": 3320040014,
   "districtId": 3320040,
-  "name": "DATAR"
+  "districtName": "MAYONG",
+  "name": "DATAR",
+  "postalCode": "37216"
  },
  {
   "id": 3320040016,
   "districtId": 3320040,
-  "name": "BANDUNG"
+  "districtName": "MAYONG",
+  "name": "BANDUNG",
+  "postalCode": "54317"
  },
  {
   "id": 3320040018,
   "districtId": 3320040,
-  "name": "PANCUR"
+  "districtName": "MAYONG",
+  "name": "PANCUR",
+  "postalCode": "29274"
  }
 ]

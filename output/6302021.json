@@ -2,51 +2,71 @@
  {
   "id": 6302021001,
   "districtId": 6302021,
-  "name": "TANJUNG KUNYIT"
+  "districtName": "PULAU LAUT TANJUNG SELAYAR",
+  "name": "TANJUNG KUNYIT",
+  "postalCode": "72153"
  },
  {
   "id": 6302021002,
   "districtId": 6302021,
-  "name": "TANJUNG TENGAH"
+  "districtName": "PULAU LAUT TANJUNG SELAYAR",
+  "name": "TANJUNG TENGAH",
+  "postalCode": "72153"
  },
  {
   "id": 6302021003,
   "districtId": 6302021,
-  "name": "TELUK TAMIANG"
+  "districtName": "PULAU LAUT TANJUNG SELAYAR",
+  "name": "TELUK TAMIANG",
+  "postalCode": ""
  },
  {
   "id": 6302021004,
   "districtId": 6302021,
-  "name": "GOSONG PANJANG"
+  "districtName": "PULAU LAUT TANJUNG SELAYAR",
+  "name": "GOSONG PANJANG",
+  "postalCode": "72153"
  },
  {
   "id": 6302021005,
   "districtId": 6302021,
-  "name": "KAMPUNG BARU"
+  "districtName": "PULAU LAUT TANJUNG SELAYAR",
+  "name": "KAMPUNG BARU",
+  "postalCode": "24652"
  },
  {
   "id": 6302021006,
   "districtId": 6302021,
-  "name": "TANJUNG SUNGKAI"
+  "districtName": "PULAU LAUT TANJUNG SELAYAR",
+  "name": "TANJUNG SUNGKAI",
+  "postalCode": "72153"
  },
  {
   "id": 6302021007,
   "districtId": 6302021,
-  "name": "TANJUNG PELAYAR"
+  "districtName": "PULAU LAUT TANJUNG SELAYAR",
+  "name": "TANJUNG PELAYAR",
+  "postalCode": "72153"
  },
  {
   "id": 6302021008,
   "districtId": 6302021,
-  "name": "BANDA RAYA"
+  "districtName": "PULAU LAUT TANJUNG SELAYAR",
+  "name": "BANDA RAYA",
+  "postalCode": ""
  },
  {
   "id": 6302021009,
   "districtId": 6302021,
-  "name": "TATA MEKAR"
+  "districtName": "PULAU LAUT TANJUNG SELAYAR",
+  "name": "TATA MEKAR",
+  "postalCode": "72153"
  },
  {
   "id": 6302021010,
   "districtId": 6302021,
-  "name": "BANGUN REJO"
+  "districtName": "PULAU LAUT TANJUNG SELAYAR",
+  "name": "BANGUN REJO",
+  "postalCode": "21454"
  }
 ]

@@ -2,46 +2,64 @@
  {
   "id": 6402061001,
   "districtId": 6402061,
-  "name": "DEMPAR"
+  "districtName": "NYUATAN",
+  "name": "DEMPAR",
+  "postalCode": "75777"
  },
  {
   "id": 6402061002,
   "districtId": 6402061,
-  "name": "SENTALAR"
+  "districtName": "NYUATAN",
+  "name": "SENTALAR",
+  "postalCode": "75776"
  },
  {
   "id": 6402061003,
   "districtId": 6402061,
-  "name": "JONTAI"
+  "districtName": "NYUATAN",
+  "name": "JONTAI",
+  "postalCode": "75777"
  },
  {
   "id": 6402061004,
   "districtId": 6402061,
-  "name": "TEMULA"
+  "districtName": "NYUATAN",
+  "name": "TEMULA",
+  "postalCode": "75777"
  },
  {
   "id": 6402061005,
   "districtId": 6402061,
-  "name": "TERAJUK"
+  "districtName": "NYUATAN",
+  "name": "TERAJUK",
+  "postalCode": "75776"
  },
  {
   "id": 6402061006,
   "districtId": 6402061,
-  "name": "SEMBUAN"
+  "districtName": "NYUATAN",
+  "name": "SEMBUAN",
+  "postalCode": "75777"
  },
  {
   "id": 6402061007,
   "districtId": 6402061,
-  "name": "LAKAN BILEM"
+  "districtName": "NYUATAN",
+  "name": "LAKAN BILEM",
+  "postalCode": "75776"
  },
  {
   "id": 6402061008,
   "districtId": 6402061,
-  "name": "INTU LINGAU"
+  "districtName": "NYUATAN",
+  "name": "INTU LINGAU",
+  "postalCode": "75777"
  },
  {
   "id": 6402061010,
   "districtId": 6402061,
-  "name": "AWAI"
+  "districtName": "NYUATAN",
+  "name": "AWAI",
+  "postalCode": "75776"
  }
 ]

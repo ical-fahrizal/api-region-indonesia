@@ -2,36 +2,50 @@
  {
   "id": 6101042001,
   "districtId": 6101042,
-  "name": "SEBAWI"
+  "districtName": "SEBAWI",
+  "name": "SEBAWI",
+  "postalCode": "79462"
  },
  {
   "id": 6101042002,
   "districtId": 6101042,
-  "name": "SEMPELAI SEBEDANG"
+  "districtName": "SEBAWI",
+  "name": "SEMPELAI SEBEDANG",
+  "postalCode": "79462"
  },
  {
   "id": 6101042003,
   "districtId": 6101042,
-  "name": "SEPUK TANJUNG"
+  "districtName": "SEBAWI",
+  "name": "SEPUK TANJUNG",
+  "postalCode": "79462"
  },
  {
   "id": 6101042004,
   "districtId": 6101042,
-  "name": "SEBANGUN"
+  "districtName": "SEBAWI",
+  "name": "SEBANGUN",
+  "postalCode": "79462"
  },
  {
   "id": 6101042005,
   "districtId": 6101042,
-  "name": "TEMPATAN"
+  "districtName": "SEBAWI",
+  "name": "TEMPATAN",
+  "postalCode": "79462"
  },
  {
   "id": 6101042006,
   "districtId": 6101042,
-  "name": "TEBING BATU"
+  "districtName": "SEBAWI",
+  "name": "TEBING BATU",
+  "postalCode": "79462"
  },
  {
   "id": 6101042007,
   "districtId": 6101042,
-  "name": "SEMANJANG"
+  "districtName": "SEBAWI",
+  "name": "SEMANJANG",
+  "postalCode": ""
  }
 ]

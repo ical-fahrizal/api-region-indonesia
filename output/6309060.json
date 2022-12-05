@@ -2,76 +2,106 @@
  {
   "id": 6309060002,
   "districtId": 6309060,
-  "name": "BANYU TAJUN"
+  "districtName": "TANJUNG",
+  "name": "BANYU TAJUN",
+  "postalCode": "71515"
  },
  {
   "id": 6309060003,
   "districtId": 6309060,
-  "name": "SUNGAI PIMPING"
+  "districtName": "TANJUNG",
+  "name": "SUNGAI PIMPING",
+  "postalCode": ""
  },
  {
   "id": 6309060004,
   "districtId": 6309060,
-  "name": "PAMARANGAN KIWA"
+  "districtName": "TANJUNG",
+  "name": "PAMARANGAN KIWA",
+  "postalCode": "71515"
  },
  {
   "id": 6309060006,
   "districtId": 6309060,
-  "name": "PUAIN KIWA"
+  "districtName": "TANJUNG",
+  "name": "PUAIN KIWA",
+  "postalCode": "71515"
  },
  {
   "id": 6309060007,
   "districtId": 6309060,
-  "name": "JANGKUNG"
+  "districtName": "TANJUNG",
+  "name": "JANGKUNG",
+  "postalCode": "71512"
  },
  {
   "id": 6309060008,
   "districtId": 6309060,
-  "name": "TANJUNG"
+  "districtName": "TANJUNG",
+  "name": "TANJUNG",
+  "postalCode": "24562"
  },
  {
   "id": 6309060009,
   "districtId": 6309060,
-  "name": "AGUNG"
+  "districtName": "TANJUNG",
+  "name": "AGUNG",
+  "postalCode": "71514"
  },
  {
   "id": 6309060011,
   "districtId": 6309060,
-  "name": "KAMBITIN"
+  "districtName": "TANJUNG",
+  "name": "KAMBITIN",
+  "postalCode": "73671"
  },
  {
   "id": 6309060012,
   "districtId": 6309060,
-  "name": "HIKUN"
+  "districtName": "TANJUNG",
+  "name": "HIKUN",
+  "postalCode": "71515"
  },
  {
   "id": 6309060014,
   "districtId": 6309060,
-  "name": "KAMBITIN RAYA"
+  "districtName": "TANJUNG",
+  "name": "KAMBITIN RAYA",
+  "postalCode": "71515"
  },
  {
   "id": 6309060015,
   "districtId": 6309060,
-  "name": "WAYAU"
+  "districtName": "TANJUNG",
+  "name": "WAYAU",
+  "postalCode": "71515"
  },
  {
   "id": 6309060017,
   "districtId": 6309060,
-  "name": "JUAI"
+  "districtName": "TANJUNG",
+  "name": "JUAI",
+  "postalCode": "71665"
  },
  {
   "id": 6309060019,
   "districtId": 6309060,
-  "name": "GARUNGGUNG"
+  "districtName": "TANJUNG",
+  "name": "GARUNGGUNG",
+  "postalCode": "71515"
  },
  {
   "id": 6309060020,
   "districtId": 6309060,
-  "name": "KITANG"
+  "districtName": "TANJUNG",
+  "name": "KITANG",
+  "postalCode": "71515"
  },
  {
   "id": 6309060021,
   "districtId": 6309060,
-  "name": "MAHE SEBERANG"
+  "districtName": "TANJUNG",
+  "name": "MAHE SEBERANG",
+  "postalCode": "71515"
  }
 ]

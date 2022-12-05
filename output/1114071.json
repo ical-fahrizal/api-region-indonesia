@@ -2,71 +2,99 @@
  {
   "id": 1114071001,
   "districtId": 1114071,
-  "name": "BALING KARANG"
+  "districtName": "SEKERAK",
+  "name": "BALING KARANG",
+  "postalCode": "24476"
  },
  {
   "id": 1114071002,
   "districtId": 1114071,
-  "name": "SUKA MAKMUR"
+  "districtName": "SEKERAK",
+  "name": "SUKA MAKMUR",
+  "postalCode": "24784"
  },
  {
   "id": 1114071003,
   "districtId": 1114071,
-  "name": "SULUM"
+  "districtName": "SEKERAK",
+  "name": "SULUM",
+  "postalCode": "24476"
  },
  {
   "id": 1114071004,
   "districtId": 1114071,
-  "name": "JUAR"
+  "districtName": "SEKERAK",
+  "name": "JUAR",
+  "postalCode": "24476"
  },
  {
   "id": 1114071005,
   "districtId": 1114071,
-  "name": "PEMATANG DURIAN"
+  "districtName": "SEKERAK",
+  "name": "PEMATANG DURIAN",
+  "postalCode": "24476"
  },
  {
   "id": 1114071006,
   "districtId": 1114071,
-  "name": "SEKUMUR"
+  "districtName": "SEKERAK",
+  "name": "SEKUMUR",
+  "postalCode": "24476"
  },
  {
   "id": 1114071007,
   "districtId": 1114071,
-  "name": "TANJUNG GELUMPANG"
+  "districtName": "SEKERAK",
+  "name": "TANJUNG GELUMPANG",
+  "postalCode": "24476"
  },
  {
   "id": 1114071008,
   "districtId": 1114071,
-  "name": "LUBUK SIDUP"
+  "districtName": "SEKERAK",
+  "name": "LUBUK SIDUP",
+  "postalCode": "24476"
  },
  {
   "id": 1114071009,
   "districtId": 1114071,
-  "name": "SEKERAK KANAN"
+  "districtName": "SEKERAK",
+  "name": "SEKERAK KANAN",
+  "postalCode": "24476"
  },
  {
   "id": 1114071010,
   "districtId": 1114071,
-  "name": "BANDAR MAHLIGAI"
+  "districtName": "SEKERAK",
+  "name": "BANDAR MAHLIGAI",
+  "postalCode": "24476"
  },
  {
   "id": 1114071011,
   "districtId": 1114071,
-  "name": "SEKERAK KIRI"
+  "districtName": "SEKERAK",
+  "name": "SEKERAK KIRI",
+  "postalCode": "24476"
  },
  {
   "id": 1114071012,
   "districtId": 1114071,
-  "name": "PANTAI PERLAK"
+  "districtName": "SEKERAK",
+  "name": "PANTAI PERLAK",
+  "postalCode": "24476"
  },
  {
   "id": 1114071013,
   "districtId": 1114071,
-  "name": "PANTAI TINJAU"
+  "districtName": "SEKERAK",
+  "name": "PANTAI TINJAU",
+  "postalCode": "24476"
  },
  {
   "id": 1114071014,
   "districtId": 1114071,
-  "name": "KEBUN BATANG ARA"
+  "districtName": "SEKERAK",
+  "name": "KEBUN BATANG ARA",
+  "postalCode": "24476"
  }
 ]

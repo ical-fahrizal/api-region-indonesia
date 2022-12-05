@@ -2,21 +2,29 @@
  {
   "id": 3205221001,
   "districtId": 3205221,
-  "name": "SINDANGGALIH"
+  "districtName": "KARANGTENGAH",
+  "name": "SINDANGGALIH",
+  "postalCode": "45364"
  },
  {
   "id": 3205221002,
   "districtId": 3205221,
-  "name": "CINTA"
+  "districtName": "KARANGTENGAH",
+  "name": "CINTA",
+  "postalCode": "44184"
  },
  {
   "id": 3205221003,
   "districtId": 3205221,
-  "name": "CINTAMANIK"
+  "districtName": "KARANGTENGAH",
+  "name": "CINTAMANIK",
+  "postalCode": "16660"
  },
  {
   "id": 3205221004,
   "districtId": 3205221,
-  "name": "CARINGIN"
+  "districtName": "KARANGTENGAH",
+  "name": "CARINGIN",
+  "postalCode": "40212"
  }
 ]

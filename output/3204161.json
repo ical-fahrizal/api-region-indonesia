@@ -2,36 +2,50 @@
  {
   "id": 3204161001,
   "districtId": 3204161,
-  "name": "JATISARI"
+  "districtName": "CANGKUANG",
+  "name": "JATISARI",
+  "postalCode": "32362"
  },
  {
   "id": 3204161002,
   "districtId": 3204161,
-  "name": "NAGRAK"
+  "districtName": "CANGKUANG",
+  "name": "NAGRAK",
+  "postalCode": "45392"
  },
  {
   "id": 3204161003,
   "districtId": 3204161,
-  "name": "BANDASARI"
+  "districtName": "CANGKUANG",
+  "name": "BANDASARI",
+  "postalCode": "40238"
  },
  {
   "id": 3204161004,
   "districtId": 3204161,
-  "name": "PANANJUNG"
+  "districtName": "CANGKUANG",
+  "name": "PANANJUNG",
+  "postalCode": "40238"
  },
  {
   "id": 3204161005,
   "districtId": 3204161,
-  "name": "CILUNCAT"
+  "districtName": "CANGKUANG",
+  "name": "CILUNCAT",
+  "postalCode": "40238"
  },
  {
   "id": 3204161006,
   "districtId": 3204161,
-  "name": "CANGKUANG"
+  "districtName": "CANGKUANG",
+  "name": "CANGKUANG",
+  "postalCode": "45191"
  },
  {
   "id": 3204161007,
   "districtId": 3204161,
-  "name": "TANJUNGSARI"
+  "districtName": "CANGKUANG",
+  "name": "TANJUNGSARI",
+  "postalCode": "28983"
  }
 ]

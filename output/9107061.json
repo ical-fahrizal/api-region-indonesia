@@ -2,31 +2,43 @@
  {
   "id": 9107061001,
   "districtId": 9107061,
-  "name": "KLAMUGUN"
+  "districtName": "KLASO",
+  "name": "KLAMUGUN",
+  "postalCode": "98456"
  },
  {
   "id": 9107061002,
   "districtId": 9107061,
-  "name": "SIWIS"
+  "districtName": "KLASO",
+  "name": "SIWIS",
+  "postalCode": "98472"
  },
  {
   "id": 9107061005,
   "districtId": 9107061,
-  "name": "MISKUM"
+  "districtName": "KLASO",
+  "name": "MISKUM",
+  "postalCode": "98472"
  },
  {
   "id": 9107061010,
   "districtId": 9107061,
-  "name": "SBAGA"
+  "districtName": "KLASO",
+  "name": "SBAGA",
+  "postalCode": ""
  },
  {
   "id": 9107061011,
   "districtId": 9107061,
-  "name": "KLALIK"
+  "districtName": "KLASO",
+  "name": "KLALIK",
+  "postalCode": ""
  },
  {
   "id": 9107061012,
   "districtId": 9107061,
-  "name": "MALAWHILI"
+  "districtName": "KLASO",
+  "name": "MALAWHILI",
+  "postalCode": ""
  }
 ]

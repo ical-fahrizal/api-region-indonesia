@@ -2,61 +2,85 @@
  {
   "id": 7301030001,
   "districtId": 7301030,
-  "name": "POLASSI"
+  "districtName": "BONTOSIKUYU",
+  "name": "POLASSI",
+  "postalCode": "92855"
  },
  {
   "id": 7301030002,
   "districtId": 7301030,
-  "name": "TAMBOLONGAN"
+  "districtName": "BONTOSIKUYU",
+  "name": "TAMBOLONGAN",
+  "postalCode": "92855"
  },
  {
   "id": 7301030003,
   "districtId": 7301030,
-  "name": "APPATANAH"
+  "districtName": "BONTOSIKUYU",
+  "name": "APPATANAH",
+  "postalCode": "92855"
  },
  {
   "id": 7301030004,
   "districtId": 7301030,
-  "name": "LOWA"
+  "districtName": "BONTOSIKUYU",
+  "name": "LOWA",
+  "postalCode": "52363"
  },
  {
   "id": 7301030005,
   "districtId": 7301030,
-  "name": "LANTIMBONGAN"
+  "districtName": "BONTOSIKUYU",
+  "name": "LANTIMBONGAN",
+  "postalCode": "92855"
  },
  {
   "id": 7301030006,
   "districtId": 7301030,
-  "name": "BINANGA SOMBAIYA"
+  "districtName": "BONTOSIKUYU",
+  "name": "BINANGA SOMBAIYA",
+  "postalCode": "92855"
  },
  {
   "id": 7301030007,
   "districtId": 7301030,
-  "name": "LAIYOLO"
+  "districtName": "BONTOSIKUYU",
+  "name": "LAIYOLO",
+  "postalCode": "92855"
  },
  {
   "id": 7301030008,
   "districtId": 7301030,
-  "name": "LAIYOLO BARU"
+  "districtName": "BONTOSIKUYU",
+  "name": "LAIYOLO BARU",
+  "postalCode": "92855"
  },
  {
   "id": 7301030009,
   "districtId": 7301030,
-  "name": "HARAPAN"
+  "districtName": "BONTOSIKUYU",
+  "name": "HARAPAN",
+  "postalCode": "22253"
  },
  {
   "id": 7301030010,
   "districtId": 7301030,
-  "name": "PATIKARYA"
+  "districtName": "BONTOSIKUYU",
+  "name": "PATIKARYA",
+  "postalCode": "92855"
  },
  {
   "id": 7301030011,
   "districtId": 7301030,
-  "name": "PATILERENG"
+  "districtName": "BONTOSIKUYU",
+  "name": "PATILERENG",
+  "postalCode": "92855"
  },
  {
   "id": 7301030012,
   "districtId": 7301030,
-  "name": "KHUSUS BAHULUANG"
+  "districtName": "BONTOSIKUYU",
+  "name": "KHUSUS BAHULUANG",
+  "postalCode": "92855"
  }
 ]

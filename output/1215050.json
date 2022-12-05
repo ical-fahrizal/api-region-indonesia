@@ -2,111 +2,155 @@
  {
   "id": 1215050001,
   "districtId": 1215050,
-  "name": "HUTASOIT I"
+  "districtName": "LINTONG NIHUTA",
+  "name": "HUTASOIT I",
+  "postalCode": ""
  },
  {
   "id": 1215050002,
   "districtId": 1215050,
-  "name": "LOBUTUA"
+  "districtName": "LINTONG NIHUTA",
+  "name": "LOBUTUA",
+  "postalCode": ""
  },
  {
   "id": 1215050003,
   "districtId": 1215050,
-  "name": "PARGAULAN"
+  "districtName": "LINTONG NIHUTA",
+  "name": "PARGAULAN",
+  "postalCode": "22475"
  },
  {
   "id": 1215050004,
   "districtId": 1215050,
-  "name": "NAGA SARIBU I"
+  "districtName": "LINTONG NIHUTA",
+  "name": "NAGA SARIBU I",
+  "postalCode": "22475"
  },
  {
   "id": 1215050005,
   "districtId": 1215050,
-  "name": "NAGA SARIBU II"
+  "districtName": "LINTONG NIHUTA",
+  "name": "NAGA SARIBU II",
+  "postalCode": "22475"
  },
  {
   "id": 1215050012,
   "districtId": 1215050,
-  "name": "SIHARJULU"
+  "districtName": "LINTONG NIHUTA",
+  "name": "SIHARJULU",
+  "postalCode": "22475"
  },
  {
   "id": 1215050013,
   "districtId": 1215050,
-  "name": "SIBUNTUON PARPEA"
+  "districtName": "LINTONG NIHUTA",
+  "name": "SIBUNTUON PARPEA",
+  "postalCode": ""
  },
  {
   "id": 1215050015,
   "districtId": 1215050,
-  "name": "SIBUNTUON PARTUR"
+  "districtName": "LINTONG NIHUTA",
+  "name": "SIBUNTUON PARTUR",
+  "postalCode": ""
  },
  {
   "id": 1215050016,
   "districtId": 1215050,
-  "name": "SITOLU BAHAL"
+  "districtName": "LINTONG NIHUTA",
+  "name": "SITOLU BAHAL",
+  "postalCode": "22475"
  },
  {
   "id": 1215050017,
   "districtId": 1215050,
-  "name": "TAPIAN NAULI"
+  "districtName": "LINTONG NIHUTA",
+  "name": "TAPIAN NAULI",
+  "postalCode": "22732"
  },
  {
   "id": 1215050018,
   "districtId": 1215050,
-  "name": "SIPONJOT"
+  "districtName": "LINTONG NIHUTA",
+  "name": "SIPONJOT",
+  "postalCode": "22475"
  },
  {
   "id": 1215050019,
   "districtId": 1215050,
-  "name": "DOLOK MARGU"
+  "districtName": "LINTONG NIHUTA",
+  "name": "DOLOK MARGU",
+  "postalCode": ""
  },
  {
   "id": 1215050020,
   "districtId": 1215050,
-  "name": "SITIO II"
+  "districtName": "LINTONG NIHUTA",
+  "name": "SITIO II",
+  "postalCode": "22475"
  },
  {
   "id": 1215050021,
   "districtId": 1215050,
-  "name": "HUTASOIT II"
+  "districtName": "LINTONG NIHUTA",
+  "name": "HUTASOIT II",
+  "postalCode": "22475"
  },
  {
   "id": 1215050022,
   "districtId": 1215050,
-  "name": "BONAN DOLOK"
+  "districtName": "LINTONG NIHUTA",
+  "name": "BONAN DOLOK",
+  "postalCode": "22762"
  },
  {
   "id": 1215050023,
   "districtId": 1215050,
-  "name": "SIGOMPUL"
+  "districtName": "LINTONG NIHUTA",
+  "name": "SIGOMPUL",
+  "postalCode": "22475"
  },
  {
   "id": 1215050024,
   "districtId": 1215050,
-  "name": "NAGASARIBU IV"
+  "districtName": "LINTONG NIHUTA",
+  "name": "NAGASARIBU IV",
+  "postalCode": "22475"
  },
  {
   "id": 1215050025,
   "districtId": 1215050,
-  "name": "NAGASARIBU V"
+  "districtName": "LINTONG NIHUTA",
+  "name": "NAGASARIBU V",
+  "postalCode": "22475"
  },
  {
   "id": 1215050026,
   "districtId": 1215050,
-  "name": "NAGASARIBU III"
+  "districtName": "LINTONG NIHUTA",
+  "name": "NAGASARIBU III",
+  "postalCode": "22475"
  },
  {
   "id": 1215050027,
   "districtId": 1215050,
-  "name": "SIGUMPAR"
+  "districtName": "LINTONG NIHUTA",
+  "name": "SIGUMPAR",
+  "postalCode": "22475"
  },
  {
   "id": 1215050028,
   "districtId": 1215050,
-  "name": "PARULOHAN"
+  "districtName": "LINTONG NIHUTA",
+  "name": "PARULOHAN",
+  "postalCode": "22475"
  },
  {
   "id": 1215050029,
   "districtId": 1215050,
-  "name": "HABEAHAN"
+  "districtName": "LINTONG NIHUTA",
+  "name": "HABEAHAN",
+  "postalCode": "22475"
  }
 ]

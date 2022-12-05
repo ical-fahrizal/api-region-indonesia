@@ -2,76 +2,106 @@
  {
   "id": 3210140001,
   "districtId": 3210140,
-  "name": "PINANGRAJA"
+  "districtName": "JATIWANGI",
+  "name": "PINANGRAJA",
+  "postalCode": "45454"
  },
  {
   "id": 3210140002,
   "districtId": 3210140,
-  "name": "SUKARAJA KULON"
+  "districtName": "JATIWANGI",
+  "name": "SUKARAJA KULON",
+  "postalCode": "45454"
  },
  {
   "id": 3210140003,
   "districtId": 3210140,
-  "name": "SUKARAJA WETAN"
+  "districtName": "JATIWANGI",
+  "name": "SUKARAJA WETAN",
+  "postalCode": "45454"
  },
  {
   "id": 3210140004,
   "districtId": 3210140,
-  "name": "CIBENTAR"
+  "districtName": "JATIWANGI",
+  "name": "CIBENTAR",
+  "postalCode": "45454"
  },
  {
   "id": 3210140006,
   "districtId": 3210140,
-  "name": "ANDIR"
+  "districtName": "JATIWANGI",
+  "name": "ANDIR",
+  "postalCode": "40375"
  },
  {
   "id": 3210140007,
   "districtId": 3210140,
-  "name": "CICADAS"
+  "districtName": "JATIWANGI",
+  "name": "CICADAS",
+  "postalCode": "41151"
  },
  {
   "id": 3210140008,
   "districtId": 3210140,
-  "name": "BURUJUL WETAN"
+  "districtName": "JATIWANGI",
+  "name": "BURUJUL WETAN",
+  "postalCode": "45454"
  },
  {
   "id": 3210140009,
   "districtId": 3210140,
-  "name": "BURUJUL KULON"
+  "districtName": "JATIWANGI",
+  "name": "BURUJUL KULON",
+  "postalCode": "45454"
  },
  {
   "id": 3210140010,
   "districtId": 3210140,
-  "name": "MEKARSARI"
+  "districtName": "JATIWANGI",
+  "name": "MEKARSARI",
+  "postalCode": "37482"
  },
  {
   "id": 3210140011,
   "districtId": 3210140,
-  "name": "JATIWANGI"
+  "districtName": "JATIWANGI",
+  "name": "JATIWANGI",
+  "postalCode": "17530"
  },
  {
   "id": 3210140012,
   "districtId": 3210140,
-  "name": "SURAWANGI"
+  "districtName": "JATIWANGI",
+  "name": "SURAWANGI",
+  "postalCode": "45454"
  },
  {
   "id": 3210140013,
   "districtId": 3210140,
-  "name": "JATISURA"
+  "districtName": "JATIWANGI",
+  "name": "JATISURA",
+  "postalCode": "45262"
  },
  {
   "id": 3210140014,
   "districtId": 3210140,
-  "name": "SUTAWANGI"
+  "districtName": "JATIWANGI",
+  "name": "SUTAWANGI",
+  "postalCode": "45454"
  },
  {
   "id": 3210140015,
   "districtId": 3210140,
-  "name": "CIBORELANG"
+  "districtName": "JATIWANGI",
+  "name": "CIBORELANG",
+  "postalCode": "45454"
  },
  {
   "id": 3210140016,
   "districtId": 3210140,
-  "name": "LOJI"
+  "districtName": "JATIWANGI",
+  "name": "LOJI",
+  "postalCode": "16117"
  }
 ]

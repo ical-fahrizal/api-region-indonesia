@@ -2,51 +2,71 @@
  {
   "id": 1503021001,
   "districtId": 1503021,
-  "name": "KAMPUNG TUJUH"
+  "districtName": "CERMIN NAN GEDANG",
+  "name": "KAMPUNG TUJUH",
+  "postalCode": "37382"
  },
  {
   "id": 1503021002,
   "districtId": 1503021,
-  "name": "LUBUK RESAM"
+  "districtName": "CERMIN NAN GEDANG",
+  "name": "LUBUK RESAM",
+  "postalCode": "37382"
  },
  {
   "id": 1503021003,
   "districtId": 1503021,
-  "name": "TELUK RENDAH"
+  "districtName": "CERMIN NAN GEDANG",
+  "name": "TELUK RENDAH",
+  "postalCode": "37382"
  },
  {
   "id": 1503021004,
   "districtId": 1503021,
-  "name": "TELUK TIGO"
+  "districtName": "CERMIN NAN GEDANG",
+  "name": "TELUK TIGO",
+  "postalCode": "37382"
  },
  {
   "id": 1503021005,
   "districtId": 1503021,
-  "name": "PEMUNCAK"
+  "districtName": "CERMIN NAN GEDANG",
+  "name": "PEMUNCAK",
+  "postalCode": ""
  },
  {
   "id": 1503021006,
   "districtId": 1503021,
-  "name": "TAMBANG TINGGI"
+  "districtName": "CERMIN NAN GEDANG",
+  "name": "TAMBANG TINGGI",
+  "postalCode": "37382"
  },
  {
   "id": 1503021007,
   "districtId": 1503021,
-  "name": "LUBUK RESAM ILIR"
+  "districtName": "CERMIN NAN GEDANG",
+  "name": "LUBUK RESAM ILIR",
+  "postalCode": ""
  },
  {
   "id": 1503021008,
   "districtId": 1503021,
-  "name": "TENDAH"
+  "districtName": "CERMIN NAN GEDANG",
+  "name": "TENDAH",
+  "postalCode": "37382"
  },
  {
   "id": 1503021009,
   "districtId": 1503021,
-  "name": "SEKAMIS"
+  "districtName": "CERMIN NAN GEDANG",
+  "name": "SEKAMIS",
+  "postalCode": "37382"
  },
  {
   "id": 1503021010,
   "districtId": 1503021,
-  "name": "SUNGAI KERAMAT"
+  "districtName": "CERMIN NAN GEDANG",
+  "name": "SUNGAI KERAMAT",
+  "postalCode": ""
  }
 ]

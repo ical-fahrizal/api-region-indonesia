@@ -2,41 +2,57 @@
  {
   "id": 1706051001,
   "districtId": 1706051,
-  "name": "AGUNG JAYA"
+  "districtName": "AIR MANJUNTO",
+  "name": "AGUNG JAYA",
+  "postalCode": "30758"
  },
  {
   "id": 1706051002,
   "districtId": 1706051,
-  "name": "PONDOK MAKMUR"
+  "districtName": "AIR MANJUNTO",
+  "name": "PONDOK MAKMUR",
+  "postalCode": "38767"
  },
  {
   "id": 1706051003,
   "districtId": 1706051,
-  "name": "MANJUNTO JAYA"
+  "districtName": "AIR MANJUNTO",
+  "name": "MANJUNTO JAYA",
+  "postalCode": "38767"
  },
  {
   "id": 1706051004,
   "districtId": 1706051,
-  "name": "TIRTA MAKMUR"
+  "districtName": "AIR MANJUNTO",
+  "name": "TIRTA MAKMUR",
+  "postalCode": "30962"
  },
  {
   "id": 1706051005,
   "districtId": 1706051,
-  "name": "TIRTA MULYA"
+  "districtName": "AIR MANJUNTO",
+  "name": "TIRTA MULYA",
+  "postalCode": "37252"
  },
  {
   "id": 1706051006,
   "districtId": 1706051,
-  "name": "KOTA PRAJA"
+  "districtName": "AIR MANJUNTO",
+  "name": "KOTA PRAJA",
+  "postalCode": "38767"
  },
  {
   "id": 1706051007,
   "districtId": 1706051,
-  "name": "SINAR JAYA"
+  "districtName": "AIR MANJUNTO",
+  "name": "SINAR JAYA",
+  "postalCode": "30757"
  },
  {
   "id": 1706051008,
   "districtId": 1706051,
-  "name": "SIDO MAKMUR"
+  "districtName": "AIR MANJUNTO",
+  "name": "SIDO MAKMUR",
+  "postalCode": "20772"
  }
 ]

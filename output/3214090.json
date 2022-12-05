@@ -2,61 +2,85 @@
  {
   "id": 3214090009,
   "districtId": 3214090,
-  "name": "CIHERANG"
+  "districtName": "PASAWAHAN",
+  "name": "CIHERANG",
+  "postalCode": "35379"
  },
  {
   "id": 3214090010,
   "districtId": 3214090,
-  "name": "CIDAHU"
+  "districtName": "PASAWAHAN",
+  "name": "CIDAHU",
+  "postalCode": "43172"
  },
  {
   "id": 3214090011,
   "districtId": 3214090,
-  "name": "PASAWAHAN ANYAR"
+  "districtName": "PASAWAHAN",
+  "name": "PASAWAHAN ANYAR",
+  "postalCode": ""
  },
  {
   "id": 3214090012,
   "districtId": 3214090,
-  "name": "PASAWAHANKIDUL"
+  "districtName": "PASAWAHAN",
+  "name": "PASAWAHANKIDUL",
+  "postalCode": ""
  },
  {
   "id": 3214090013,
   "districtId": 3214090,
-  "name": "SAWAH KULON"
+  "districtName": "PASAWAHAN",
+  "name": "SAWAH KULON",
+  "postalCode": "41172"
  },
  {
   "id": 3214090014,
   "districtId": 3214090,
-  "name": "KERTAJAYA"
+  "districtName": "PASAWAHAN",
+  "name": "KERTAJAYA",
+  "postalCode": "45255"
  },
  {
   "id": 3214090015,
   "districtId": 3214090,
-  "name": "LEBAKANYAR"
+  "districtName": "PASAWAHAN",
+  "name": "LEBAKANYAR",
+  "postalCode": ""
  },
  {
   "id": 3214090016,
   "districtId": 3214090,
-  "name": "CIHUNI"
+  "districtName": "PASAWAHAN",
+  "name": "CIHUNI",
+  "postalCode": "44183"
  },
  {
   "id": 3214090017,
   "districtId": 3214090,
-  "name": "WARUNGKADU"
+  "districtName": "PASAWAHAN",
+  "name": "WARUNGKADU",
+  "postalCode": ""
  },
  {
   "id": 3214090018,
   "districtId": 3214090,
-  "name": "SELAAWI"
+  "districtName": "PASAWAHAN",
+  "name": "SELAAWI",
+  "postalCode": "41172"
  },
  {
   "id": 3214090019,
   "districtId": 3214090,
-  "name": "MARGASARI"
+  "districtName": "PASAWAHAN",
+  "name": "MARGASARI",
+  "postalCode": "34198"
  },
  {
   "id": 3214090020,
   "districtId": 3214090,
-  "name": "PASAWAHAN"
+  "districtName": "PASAWAHAN",
+  "name": "PASAWAHAN",
+  "postalCode": "46383"
  }
 ]

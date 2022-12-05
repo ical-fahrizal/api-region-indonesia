@@ -2,56 +2,78 @@
  {
   "id": 7505011001,
   "districtId": 7505011,
-  "name": "IPILO"
+  "districtName": "GENTUMA RAYA",
+  "name": "IPILO",
+  "postalCode": "96253"
  },
  {
   "id": 7505011002,
   "districtId": 7505011,
-  "name": "MOLONGGOTA"
+  "districtName": "GENTUMA RAYA",
+  "name": "MOLONGGOTA",
+  "postalCode": "96253"
  },
  {
   "id": 7505011003,
   "districtId": 7505011,
-  "name": "GENTUMA"
+  "districtName": "GENTUMA RAYA",
+  "name": "GENTUMA",
+  "postalCode": "96253"
  },
  {
   "id": 7505011004,
   "districtId": 7505011,
-  "name": "DUMOLODO"
+  "districtName": "GENTUMA RAYA",
+  "name": "DUMOLODO",
+  "postalCode": "96253"
  },
  {
   "id": 7505011012,
   "districtId": 7505011,
-  "name": "LANGKE"
+  "districtName": "GENTUMA RAYA",
+  "name": "LANGKE",
+  "postalCode": "96253"
  },
  {
   "id": 7505011013,
   "districtId": 7505011,
-  "name": "DURIAN"
+  "districtName": "GENTUMA RAYA",
+  "name": "DURIAN",
+  "postalCode": "20621"
  },
  {
   "id": 7505011014,
   "districtId": 7505011,
-  "name": "MOTOMINGO"
+  "districtName": "GENTUMA RAYA",
+  "name": "MOTOMINGO",
+  "postalCode": "96253"
  },
  {
   "id": 7505011015,
   "districtId": 7505011,
-  "name": "BOHUSAMI"
+  "districtName": "GENTUMA RAYA",
+  "name": "BOHUSAMI",
+  "postalCode": "96253"
  },
  {
   "id": 7505011016,
   "districtId": 7505011,
-  "name": "KETAPANG"
+  "districtName": "GENTUMA RAYA",
+  "name": "KETAPANG",
+  "postalCode": "35596"
  },
  {
   "id": 7505011017,
   "districtId": 7505011,
-  "name": "PASALAE"
+  "districtName": "GENTUMA RAYA",
+  "name": "PASALAE",
+  "postalCode": "96253"
  },
  {
   "id": 7505011018,
   "districtId": 7505011,
-  "name": "NANATI JAYA"
+  "districtName": "GENTUMA RAYA",
+  "name": "NANATI JAYA",
+  "postalCode": "96253"
  }
 ]

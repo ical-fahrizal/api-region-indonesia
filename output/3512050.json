@@ -2,41 +2,57 @@
  {
   "id": 3512050001,
   "districtId": 3512050,
-  "name": "CEMARA"
+  "districtName": "SUBOH",
+  "name": "CEMARA",
+  "postalCode": "20517"
  },
  {
   "id": 3512050002,
   "districtId": 3512050,
-  "name": "MOJO DUNGKOL"
+  "districtName": "SUBOH",
+  "name": "MOJO DUNGKOL",
+  "postalCode": "68354"
  },
  {
   "id": 3512050003,
   "districtId": 3512050,
-  "name": "GUNUNG PUTRI"
+  "districtName": "SUBOH",
+  "name": "GUNUNG PUTRI",
+  "postalCode": "29782"
  },
  {
   "id": 3512050004,
   "districtId": 3512050,
-  "name": "GUNUNG MALANG"
+  "districtName": "SUBOH",
+  "name": "GUNUNG MALANG",
+  "postalCode": "43367"
  },
  {
   "id": 3512050005,
   "districtId": 3512050,
-  "name": "DAWUAN"
+  "districtName": "SUBOH",
+  "name": "DAWUAN",
+  "postalCode": "45453"
  },
  {
   "id": 3512050006,
   "districtId": 3512050,
-  "name": "SUBOH"
+  "districtName": "SUBOH",
+  "name": "SUBOH",
+  "postalCode": "68354"
  },
  {
   "id": 3512050007,
   "districtId": 3512050,
-  "name": "BUDUAN"
+  "districtName": "SUBOH",
+  "name": "BUDUAN",
+  "postalCode": "68354"
  },
  {
   "id": 3512050008,
   "districtId": 3512050,
-  "name": "KETAH"
+  "districtName": "SUBOH",
+  "name": "KETAH",
+  "postalCode": "68354"
  }
 ]

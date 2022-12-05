@@ -2,21 +2,29 @@
  {
   "id": 1271020001,
   "districtId": 1271020,
-  "name": "KOTA BERINGIN"
+  "districtName": "SIBOLGA KOTA",
+  "name": "KOTA BERINGIN",
+  "postalCode": ""
  },
  {
   "id": 1271020002,
   "districtId": 1271020,
-  "name": "PASAR BARU"
+  "districtName": "SIBOLGA KOTA",
+  "name": "PASAR BARU",
+  "postalCode": "22163"
  },
  {
   "id": 1271020003,
   "districtId": 1271020,
-  "name": "PASAR BELAKANG"
+  "districtName": "SIBOLGA KOTA",
+  "name": "PASAR BELAKANG",
+  "postalCode": "22523"
  },
  {
   "id": 1271020004,
   "districtId": 1271020,
-  "name": "PANCURAN GEROBAK"
+  "districtName": "SIBOLGA KOTA",
+  "name": "PANCURAN GEROBAK",
+  "postalCode": "22524"
  }
 ]

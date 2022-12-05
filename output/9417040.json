@@ -2,41 +2,57 @@
  {
   "id": 9417040001,
   "districtId": 9417040,
-  "name": "MANUNGGAL"
+  "districtName": "OKBI",
+  "name": "MANUNGGAL",
+  "postalCode": "20373"
  },
  {
   "id": 9417040002,
   "districtId": 9417040,
-  "name": "APMISIBIL"
+  "districtName": "OKBI",
+  "name": "APMISIBIL",
+  "postalCode": ""
  },
  {
   "id": 9417040003,
   "districtId": 9417040,
-  "name": "IRIDING"
+  "districtName": "OKBI",
+  "name": "IRIDING",
+  "postalCode": "99572"
  },
  {
   "id": 9417040004,
   "districtId": 9417040,
-  "name": "OKBIFISIL"
+  "districtName": "OKBI",
+  "name": "OKBIFISIL",
+  "postalCode": ""
  },
  {
   "id": 9417040016,
   "districtId": 9417040,
-  "name": "ATOLBOL"
+  "districtName": "OKBI",
+  "name": "ATOLBOL",
+  "postalCode": ""
  },
  {
   "id": 9417040017,
   "districtId": 9417040,
-  "name": "OKTANGLAP"
+  "districtName": "OKBI",
+  "name": "OKTANGLAP",
+  "postalCode": "99572"
  },
  {
   "id": 9417040018,
   "districtId": 9417040,
-  "name": "OKAPLO"
+  "districtName": "OKBI",
+  "name": "OKAPLO",
+  "postalCode": "99572"
  },
  {
   "id": 9417040023,
   "districtId": 9417040,
-  "name": "OKSEMAR"
+  "districtName": "OKBI",
+  "name": "OKSEMAR",
+  "postalCode": "99572"
  }
 ]

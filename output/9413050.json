@@ -2,36 +2,50 @@
  {
   "id": 9413050001,
   "districtId": 9413050,
-  "name": "WINIKTIT"
+  "districtName": "WAROPKO",
+  "name": "WINIKTIT",
+  "postalCode": "99664"
  },
  {
   "id": 9413050002,
   "districtId": 9413050,
-  "name": "KANGGEWOT"
+  "districtName": "WAROPKO",
+  "name": "KANGGEWOT",
+  "postalCode": "99664"
  },
  {
   "id": 9413050003,
   "districtId": 9413050,
-  "name": "UPYETETKO"
+  "districtName": "WAROPKO",
+  "name": "UPYETETKO",
+  "postalCode": "99664"
  },
  {
   "id": 9413050007,
   "districtId": 9413050,
-  "name": "WAROPKO"
+  "districtName": "WAROPKO",
+  "name": "WAROPKO",
+  "postalCode": "99664"
  },
  {
   "id": 9413050008,
   "districtId": 9413050,
-  "name": "WOMBON"
+  "districtName": "WAROPKO",
+  "name": "WOMBON",
+  "postalCode": "99664"
  },
  {
   "id": 9413050010,
   "districtId": 9413050,
-  "name": "UPKIM"
+  "districtName": "WAROPKO",
+  "name": "UPKIM",
+  "postalCode": "99664"
  },
  {
   "id": 9413050012,
   "districtId": 9413050,
-  "name": "IKCAN"
+  "districtName": "WAROPKO",
+  "name": "IKCAN",
+  "postalCode": "99664"
  }
 ]

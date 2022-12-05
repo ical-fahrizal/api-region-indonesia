@@ -2,36 +2,50 @@
  {
   "id": 3520030001,
   "districtId": 3520030,
-  "name": "KEDIREN"
+  "districtName": "LEMBEYAN",
+  "name": "KEDIREN",
+  "postalCode": "58382"
  },
  {
   "id": 3520030002,
   "districtId": 3520030,
-  "name": "LEMBEYAN KULON"
+  "districtName": "LEMBEYAN",
+  "name": "LEMBEYAN KULON",
+  "postalCode": "63372"
  },
  {
   "id": 3520030003,
   "districtId": 3520030,
-  "name": "LEMBEYAN WETAN"
+  "districtName": "LEMBEYAN",
+  "name": "LEMBEYAN WETAN",
+  "postalCode": "63372"
  },
  {
   "id": 3520030006,
   "districtId": 3520030,
-  "name": "KEDUNGPANJI"
+  "districtName": "LEMBEYAN",
+  "name": "KEDUNGPANJI",
+  "postalCode": "63372"
  },
  {
   "id": 3520030007,
   "districtId": 3520030,
-  "name": "NGURI"
+  "districtName": "LEMBEYAN",
+  "name": "NGURI",
+  "postalCode": "63372"
  },
  {
   "id": 3520030009,
   "districtId": 3520030,
-  "name": "TAPEN"
+  "districtName": "LEMBEYAN",
+  "name": "TAPEN",
+  "postalCode": "54263"
  },
  {
   "id": 3520030010,
   "districtId": 3520030,
-  "name": "KROWE"
+  "districtName": "LEMBEYAN",
+  "name": "KROWE",
+  "postalCode": "63372"
  }
 ]

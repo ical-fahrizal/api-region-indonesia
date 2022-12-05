@@ -2,36 +2,50 @@
  {
   "id": 6103081001,
   "districtId": 6103081,
-  "name": "GAMANG"
+  "districtName": "BANYUKE HULU",
+  "name": "GAMANG",
+  "postalCode": "79364"
  },
  {
   "id": 6103081002,
   "districtId": 6103081,
-  "name": "RINGO LOJOK"
+  "districtName": "BANYUKE HULU",
+  "name": "RINGO LOJOK",
+  "postalCode": "79364"
  },
  {
   "id": 6103081003,
   "districtId": 6103081,
-  "name": "TEMBAWANG BALE"
+  "districtName": "BANYUKE HULU",
+  "name": "TEMBAWANG BALE",
+  "postalCode": "79364"
  },
  {
   "id": 6103081004,
   "districtId": 6103081,
-  "name": "PADANG PIO"
+  "districtName": "BANYUKE HULU",
+  "name": "PADANG PIO",
+  "postalCode": "79364"
  },
  {
   "id": 6103081005,
   "districtId": 6103081,
-  "name": "KAMPET"
+  "districtName": "BANYUKE HULU",
+  "name": "KAMPET",
+  "postalCode": "79364"
  },
  {
   "id": 6103081006,
   "districtId": 6103081,
-  "name": "SEMADE"
+  "districtName": "BANYUKE HULU",
+  "name": "SEMADE",
+  "postalCode": "79364"
  },
  {
   "id": 6103081007,
   "districtId": 6103081,
-  "name": "UNTANG"
+  "districtName": "BANYUKE HULU",
+  "name": "UNTANG",
+  "postalCode": "79364"
  }
 ]

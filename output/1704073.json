@@ -2,56 +2,78 @@
  {
   "id": 1704073001,
   "districtId": 1704073,
-  "name": "PAGAR GUNUNG"
+  "districtName": "PADANG GUCI HULU",
+  "name": "PAGAR GUNUNG",
+  "postalCode": "22753"
  },
  {
   "id": 1704073002,
   "districtId": 1704073,
-  "name": "COKOH BETUNG"
+  "districtName": "PADANG GUCI HULU",
+  "name": "COKOH BETUNG",
+  "postalCode": ""
  },
  {
   "id": 1704073003,
   "districtId": 1704073,
-  "name": "PAGAR ALAM"
+  "districtName": "PADANG GUCI HULU",
+  "name": "PAGAR ALAM",
+  "postalCode": "31512"
  },
  {
   "id": 1704073004,
   "districtId": 1704073,
-  "name": "MANAU SEMBILAN I"
+  "districtName": "PADANG GUCI HULU",
+  "name": "MANAU SEMBILAN I",
+  "postalCode": "38956"
  },
  {
   "id": 1704073005,
   "districtId": 1704073,
-  "name": "MANAU SEMBILAN II"
+  "districtName": "PADANG GUCI HULU",
+  "name": "MANAU SEMBILAN II",
+  "postalCode": "38956"
  },
  {
   "id": 1704073006,
   "districtId": 1704073,
-  "name": "BUNGIN TAMBUN I"
+  "districtName": "PADANG GUCI HULU",
+  "name": "BUNGIN TAMBUN I",
+  "postalCode": "38956"
  },
  {
   "id": 1704073007,
   "districtId": 1704073,
-  "name": "BUNGIN TAMBUN II"
+  "districtName": "PADANG GUCI HULU",
+  "name": "BUNGIN TAMBUN II",
+  "postalCode": "38956"
  },
  {
   "id": 1704073008,
   "districtId": 1704073,
-  "name": "BUNGIN TAMBUN III"
+  "districtName": "PADANG GUCI HULU",
+  "name": "BUNGIN TAMBUN III",
+  "postalCode": "38956"
  },
  {
   "id": 1704073009,
   "districtId": 1704073,
-  "name": "NAGA RANTAI"
+  "districtName": "PADANG GUCI HULU",
+  "name": "NAGA RANTAI",
+  "postalCode": "38956"
  },
  {
   "id": 1704073010,
   "districtId": 1704073,
-  "name": "MARGO MULYO"
+  "districtName": "PADANG GUCI HULU",
+  "name": "MARGO MULYO",
+  "postalCode": "32383"
  },
  {
   "id": 1704073011,
   "districtId": 1704073,
-  "name": "JATI MULYO"
+  "districtName": "PADANG GUCI HULU",
+  "name": "JATI MULYO",
+  "postalCode": "20986"
  }
 ]

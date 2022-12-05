@@ -2,131 +2,183 @@
  {
   "id": 1603070001,
   "districtId": 1603070,
-  "name": "SUBAN JERIJI"
+  "districtName": "RAMBANG DANGKU",
+  "name": "SUBAN JERIJI",
+  "postalCode": "31172"
  },
  {
   "id": 1603070002,
   "districtId": 1603070,
-  "name": "GEMAWANG"
+  "districtName": "RAMBANG DANGKU",
+  "name": "GEMAWANG",
+  "postalCode": "31172"
  },
  {
   "id": 1603070003,
   "districtId": 1603070,
-  "name": "AUR DURI"
+  "districtName": "RAMBANG DANGKU",
+  "name": "AUR DURI",
+  "postalCode": "29564"
  },
  {
   "id": 1603070004,
   "districtId": 1603070,
-  "name": "MANUNGGAL JAYA"
+  "districtName": "RAMBANG DANGKU",
+  "name": "MANUNGGAL JAYA",
+  "postalCode": "29256"
  },
  {
   "id": 1603070005,
   "districtId": 1603070,
-  "name": "MANUNGGAL MAKMUR"
+  "districtName": "RAMBANG DANGKU",
+  "name": "MANUNGGAL MAKMUR",
+  "postalCode": "36761"
  },
  {
   "id": 1603070006,
   "districtId": 1603070,
-  "name": "AIR ENAU UPT XI"
+  "districtName": "RAMBANG DANGKU",
+  "name": "AIR ENAU UPT XI",
+  "postalCode": ""
  },
  {
   "id": 1603070007,
   "districtId": 1603070,
-  "name": "AIR TALAS"
+  "districtName": "RAMBANG DANGKU",
+  "name": "AIR TALAS",
+  "postalCode": "31172"
  },
  {
   "id": 1603070008,
   "districtId": 1603070,
-  "name": "JEMENANG"
+  "districtName": "RAMBANG DANGKU",
+  "name": "JEMENANG",
+  "postalCode": "31172"
  },
  {
   "id": 1603070009,
   "districtId": 1603070,
-  "name": "MUARA EMBURUNG"
+  "districtName": "RAMBANG DANGKU",
+  "name": "MUARA EMBURUNG",
+  "postalCode": "31172"
  },
  {
   "id": 1603070010,
   "districtId": 1603070,
-  "name": "TANJUNG MENANG"
+  "districtName": "RAMBANG DANGKU",
+  "name": "TANJUNG MENANG",
+  "postalCode": "30953"
  },
  {
   "id": 1603070011,
   "districtId": 1603070,
-  "name": "TEBAT AGUNG"
+  "districtName": "RAMBANG DANGKU",
+  "name": "TEBAT AGUNG",
+  "postalCode": "31172"
  },
  {
   "id": 1603070012,
   "districtId": 1603070,
-  "name": "LUBUK RAMAN"
+  "districtName": "RAMBANG DANGKU",
+  "name": "LUBUK RAMAN",
+  "postalCode": "36382"
  },
  {
   "id": 1603070013,
   "districtId": 1603070,
-  "name": "AIR LIMAU"
+  "districtName": "RAMBANG DANGKU",
+  "name": "AIR LIMAU",
+  "postalCode": "31172"
  },
  {
   "id": 1603070014,
   "districtId": 1603070,
-  "name": "GERINAM"
+  "districtName": "RAMBANG DANGKU",
+  "name": "GERINAM",
+  "postalCode": "31172"
  },
  {
   "id": 1603070015,
   "districtId": 1603070,
-  "name": "MUARA NIRU"
+  "districtName": "RAMBANG DANGKU",
+  "name": "MUARA NIRU",
+  "postalCode": "31172"
  },
  {
   "id": 1603070016,
   "districtId": 1603070,
-  "name": "BANUAYU"
+  "districtName": "RAMBANG DANGKU",
+  "name": "BANUAYU",
+  "postalCode": "32367"
  },
  {
   "id": 1603070017,
   "districtId": 1603070,
-  "name": "KURIPAN"
+  "districtName": "RAMBANG DANGKU",
+  "name": "KURIPAN",
+  "postalCode": "32384"
  },
  {
   "id": 1603070018,
   "districtId": 1603070,
-  "name": "GUNUNG RAJA"
+  "districtName": "RAMBANG DANGKU",
+  "name": "GUNUNG RAJA",
+  "postalCode": "31173"
  },
  {
   "id": 1603070019,
   "districtId": 1603070,
-  "name": "PANGKALAN BABAT"
+  "districtName": "RAMBANG DANGKU",
+  "name": "PANGKALAN BABAT",
+  "postalCode": "31172"
  },
  {
   "id": 1603070020,
   "districtId": 1603070,
-  "name": "BATU RAJA"
+  "districtName": "RAMBANG DANGKU",
+  "name": "BATU RAJA",
+  "postalCode": "23661"
  },
  {
   "id": 1603070021,
   "districtId": 1603070,
-  "name": "DANGKU"
+  "districtName": "RAMBANG DANGKU",
+  "name": "DANGKU",
+  "postalCode": "31172"
  },
  {
   "id": 1603070022,
   "districtId": 1603070,
-  "name": "SIKU"
+  "districtName": "RAMBANG DANGKU",
+  "name": "SIKU",
+  "postalCode": "31172"
  },
  {
   "id": 1603070023,
   "districtId": 1603070,
-  "name": "KASIH DEWA"
+  "districtName": "RAMBANG DANGKU",
+  "name": "KASIH DEWA",
+  "postalCode": "31172"
  },
  {
   "id": 1603070024,
   "districtId": 1603070,
-  "name": "AIR CEKDAM"
+  "districtName": "RAMBANG DANGKU",
+  "name": "AIR CEKDAM",
+  "postalCode": "31172"
  },
  {
   "id": 1603070025,
   "districtId": 1603070,
-  "name": "KURIPAN BARU"
+  "districtName": "RAMBANG DANGKU",
+  "name": "KURIPAN BARU",
+  "postalCode": ""
  },
  {
   "id": 1603070026,
   "districtId": 1603070,
-  "name": "KURIPAN SELATAN"
+  "districtName": "RAMBANG DANGKU",
+  "name": "KURIPAN SELATAN",
+  "postalCode": "83362"
  }
 ]

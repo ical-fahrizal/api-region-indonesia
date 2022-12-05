@@ -2,26 +2,36 @@
  {
   "id": 1308040001,
   "districtId": 1308040,
-  "name": "KUBANG"
+  "districtName": "GUGUAK",
+  "name": "KUBANG",
+  "postalCode": "26253"
  },
  {
   "id": 1308040002,
   "districtId": 1308040,
-  "name": "SIMPANG SUGIRAN"
+  "districtName": "GUGUAK",
+  "name": "SIMPANG SUGIRAN",
+  "postalCode": "26253"
  },
  {
   "id": 1308040003,
   "districtId": 1308040,
-  "name": "SUNGAI TALANG"
+  "districtName": "GUGUAK",
+  "name": "SUNGAI TALANG",
+  "postalCode": "26253"
  },
  {
   "id": 1308040004,
   "districtId": 1308040,
-  "name": "GUGUAK VIII KOTO"
+  "districtName": "GUGUAK",
+  "name": "GUGUAK VIII KOTO",
+  "postalCode": "26253"
  },
  {
   "id": 1308040005,
   "districtId": 1308040,
-  "name": "VII KOTO TALAGO"
+  "districtName": "GUGUAK",
+  "name": "VII KOTO TALAGO",
+  "postalCode": ""
  }
 ]

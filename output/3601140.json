@@ -2,51 +2,71 @@
  {
   "id": 3601140003,
   "districtId": 3601140,
-  "name": "ALASWANGI"
+  "districtName": "MENES",
+  "name": "ALASWANGI",
+  "postalCode": "42262"
  },
  {
   "id": 3601140004,
   "districtId": 3601140,
-  "name": "TEGALWANGI"
+  "districtName": "MENES",
+  "name": "TEGALWANGI",
+  "postalCode": "45154"
  },
  {
   "id": 3601140006,
   "districtId": 3601140,
-  "name": "KANANGA"
+  "districtName": "MENES",
+  "name": "KANANGA",
+  "postalCode": "45582"
  },
  {
   "id": 3601140007,
   "districtId": 3601140,
-  "name": "CILABANBULAN"
+  "districtName": "MENES",
+  "name": "CILABANBULAN",
+  "postalCode": "42262"
  },
  {
   "id": 3601140008,
   "districtId": 3601140,
-  "name": "SINDANGKARYA"
+  "districtName": "MENES",
+  "name": "SINDANGKARYA",
+  "postalCode": "41358"
  },
  {
   "id": 3601140009,
   "districtId": 3601140,
-  "name": "CIGANDENG"
+  "districtName": "MENES",
+  "name": "CIGANDENG",
+  "postalCode": "42262"
  },
  {
   "id": 3601140010,
   "districtId": 3601140,
-  "name": "PURWARAJA"
+  "districtName": "MENES",
+  "name": "PURWARAJA",
+  "postalCode": "46254"
  },
  {
   "id": 3601140013,
   "districtId": 3601140,
-  "name": "KADUPAYUNG"
+  "districtName": "MENES",
+  "name": "KADUPAYUNG",
+  "postalCode": "42262"
  },
  {
   "id": 3601140014,
   "districtId": 3601140,
-  "name": "SUKAMANAH"
+  "districtName": "MENES",
+  "name": "SUKAMANAH",
+  "postalCode": "43273"
  },
  {
   "id": 3601140015,
   "districtId": 3601140,
-  "name": "RAMAYA"
+  "districtName": "MENES",
+  "name": "RAMAYA",
+  "postalCode": "42262"
  }
 ]

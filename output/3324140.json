@@ -2,76 +2,106 @@
  {
   "id": 3324140001,
   "districtId": 3324140,
-  "name": "SENDANGKULON"
+  "districtName": "KANGKUNG",
+  "name": "SENDANGKULON",
+  "postalCode": "51353"
  },
  {
   "id": 3324140002,
   "districtId": 3324140,
-  "name": "SENDANGDAWUNG"
+  "districtName": "KANGKUNG",
+  "name": "SENDANGDAWUNG",
+  "postalCode": "51353"
  },
  {
   "id": 3324140003,
   "districtId": 3324140,
-  "name": "SUKODADI"
+  "districtName": "KANGKUNG",
+  "name": "SUKODADI",
+  "postalCode": "32361"
  },
  {
   "id": 3324140004,
   "districtId": 3324140,
-  "name": "KALIYOSO"
+  "districtName": "KANGKUNG",
+  "name": "KALIYOSO",
+  "postalCode": "51353"
  },
  {
   "id": 3324140005,
   "districtId": 3324140,
-  "name": "GEBANGANOM WETAN"
+  "districtName": "KANGKUNG",
+  "name": "GEBANGANOM WETAN",
+  "postalCode": "51353"
  },
  {
   "id": 3324140006,
   "districtId": 3324140,
-  "name": "KADILANGU"
+  "districtName": "KANGKUNG",
+  "name": "KADILANGU",
+  "postalCode": "57556"
  },
  {
   "id": 3324140007,
   "districtId": 3324140,
-  "name": "TRUKO"
+  "districtName": "KANGKUNG",
+  "name": "TRUKO",
+  "postalCode": "50772"
  },
  {
   "id": 3324140008,
   "districtId": 3324140,
-  "name": "LEBOSARI"
+  "districtName": "KANGKUNG",
+  "name": "LEBOSARI",
+  "postalCode": "51353"
  },
  {
   "id": 3324140009,
   "districtId": 3324140,
-  "name": "KANGKUNG"
+  "districtName": "KANGKUNG",
+  "name": "KANGKUNG",
+  "postalCode": "32184"
  },
  {
   "id": 3324140010,
   "districtId": 3324140,
-  "name": "LABAN"
+  "districtName": "KANGKUNG",
+  "name": "LABAN",
+  "postalCode": "51353"
  },
  {
   "id": 3324140011,
   "districtId": 3324140,
-  "name": "KARANGMALANG WETAN"
+  "districtName": "KANGKUNG",
+  "name": "KARANGMALANG WETAN",
+  "postalCode": "51353"
  },
  {
   "id": 3324140012,
   "districtId": 3324140,
-  "name": "JUNGSEMI"
+  "districtName": "KANGKUNG",
+  "name": "JUNGSEMI",
+  "postalCode": "51353"
  },
  {
   "id": 3324140013,
   "districtId": 3324140,
-  "name": "TANJUNGMOJO"
+  "districtName": "KANGKUNG",
+  "name": "TANJUNGMOJO",
+  "postalCode": "51353"
  },
  {
   "id": 3324140014,
   "districtId": 3324140,
-  "name": "REJOSARI"
+  "districtName": "KANGKUNG",
+  "name": "REJOSARI",
+  "postalCode": "29353"
  },
  {
   "id": 3324140015,
   "districtId": 3324140,
-  "name": "KALIREJO"
+  "districtName": "KANGKUNG",
+  "name": "KALIREJO",
+  "postalCode": "35353"
  }
 ]

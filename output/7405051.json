@@ -2,46 +2,64 @@
  {
   "id": 7405051001,
   "districtId": 7405051,
-  "name": "RAMBU-RAMBU"
+  "districtName": "KOLONO TIMUR",
+  "name": "RAMBU-RAMBU",
+  "postalCode": "93395"
  },
  {
   "id": 7405051002,
   "districtId": 7405051,
-  "name": "LAMBANGI"
+  "districtName": "KOLONO TIMUR",
+  "name": "LAMBANGI",
+  "postalCode": "93395"
  },
  {
   "id": 7405051003,
   "districtId": 7405051,
-  "name": "TUMBU-TUMBU JAYA"
+  "districtName": "KOLONO TIMUR",
+  "name": "TUMBU-TUMBU JAYA",
+  "postalCode": "93395"
  },
  {
   "id": 7405051004,
   "districtId": 7405051,
-  "name": "NGAPAWALI"
+  "districtName": "KOLONO TIMUR",
+  "name": "NGAPAWALI",
+  "postalCode": "93395"
  },
  {
   "id": 7405051005,
   "districtId": 7405051,
-  "name": "BATU PUTIH"
+  "districtName": "KOLONO TIMUR",
+  "name": "BATU PUTIH",
+  "postalCode": "37482"
  },
  {
   "id": 7405051006,
   "districtId": 7405051,
-  "name": "RUMBA-RUMBA"
+  "districtName": "KOLONO TIMUR",
+  "name": "RUMBA-RUMBA",
+  "postalCode": "93395"
  },
  {
   "id": 7405051007,
   "districtId": 7405051,
-  "name": "AMPERA"
+  "districtName": "KOLONO TIMUR",
+  "name": "AMPERA",
+  "postalCode": "24671"
  },
  {
   "id": 7405051008,
   "districtId": 7405051,
-  "name": "AMOLENGU"
+  "districtName": "KOLONO TIMUR",
+  "name": "AMOLENGU",
+  "postalCode": "93395"
  },
  {
   "id": 7405051010,
   "districtId": 7405051,
-  "name": "LANGGAPULU"
+  "districtName": "KOLONO TIMUR",
+  "name": "LANGGAPULU",
+  "postalCode": "93395"
  }
 ]

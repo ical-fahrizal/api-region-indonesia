@@ -2,61 +2,85 @@
  {
   "id": 3215160001,
   "districtId": 3215160,
-  "name": "JATIMULYA"
+  "districtName": "PEDES",
+  "name": "JATIMULYA",
+  "postalCode": "45595"
  },
  {
   "id": 3215160006,
   "districtId": 3215160,
-  "name": "KERTARAHARJA"
+  "districtName": "PEDES",
+  "name": "KERTARAHARJA",
+  "postalCode": "43157"
  },
  {
   "id": 3215160007,
   "districtId": 3215160,
-  "name": "KARANGJAYA"
+  "districtName": "PEDES",
+  "name": "KARANGJAYA",
+  "postalCode": "43197"
  },
  {
   "id": 3215160008,
   "districtId": 3215160,
-  "name": "MALANGSARI"
+  "districtName": "PEDES",
+  "name": "MALANGSARI",
+  "postalCode": "45272"
  },
  {
   "id": 3215160009,
   "districtId": 3215160,
-  "name": "KERTAMULYA"
+  "districtName": "PEDES",
+  "name": "KERTAMULYA",
+  "postalCode": "45255"
  },
  {
   "id": 3215160010,
   "districtId": 3215160,
-  "name": "PAYUNGSARI"
+  "districtName": "PEDES",
+  "name": "PAYUNGSARI",
+  "postalCode": "46263"
  },
  {
   "id": 3215160011,
   "districtId": 3215160,
-  "name": "RANDUMULYA"
+  "districtName": "PEDES",
+  "name": "RANDUMULYA",
+  "postalCode": "41353"
  },
  {
   "id": 3215160012,
   "districtId": 3215160,
-  "name": "LABANJAYA"
+  "districtName": "PEDES",
+  "name": "LABANJAYA",
+  "postalCode": "41353"
  },
  {
   "id": 3215160015,
   "districtId": 3215160,
-  "name": "SUNGAIBUNTU"
+  "districtName": "PEDES",
+  "name": "SUNGAIBUNTU",
+  "postalCode": "41353"
  },
  {
   "id": 3215160016,
   "districtId": 3215160,
-  "name": "KEDALJAYA"
+  "districtName": "PEDES",
+  "name": "KEDALJAYA",
+  "postalCode": "41353"
  },
  {
   "id": 3215160017,
   "districtId": 3215160,
-  "name": "DONGKAL"
+  "districtName": "PEDES",
+  "name": "DONGKAL",
+  "postalCode": "41353"
  },
  {
   "id": 3215160018,
   "districtId": 3215160,
-  "name": "PUSPASARI"
+  "districtName": "PEDES",
+  "name": "PUSPASARI",
+  "postalCode": "16810"
  }
 ]

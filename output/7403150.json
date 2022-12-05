@@ -2,66 +2,92 @@
  {
   "id": 7403150004,
   "districtId": 7403150,
-  "name": "PUUSINAUWI"
+  "districtName": "WAWOTOBI",
+  "name": "PUUSINAUWI",
+  "postalCode": "93461"
  },
  {
   "id": 7403150009,
   "districtId": 7403150,
-  "name": "RANOEYA"
+  "districtName": "WAWOTOBI",
+  "name": "RANOEYA",
+  "postalCode": "93461"
  },
  {
   "id": 7403150010,
   "districtId": 7403150,
-  "name": "NOHU NOHU"
+  "districtName": "WAWOTOBI",
+  "name": "NOHU NOHU",
+  "postalCode": "93461"
  },
  {
   "id": 7403150011,
   "districtId": 7403150,
-  "name": "KASUPUTE"
+  "districtName": "WAWOTOBI",
+  "name": "KASUPUTE",
+  "postalCode": "93461"
  },
  {
   "id": 7403150012,
   "districtId": 7403150,
-  "name": "HOPA-HOPA"
+  "districtName": "WAWOTOBI",
+  "name": "HOPA-HOPA",
+  "postalCode": "93461"
  },
  {
   "id": 7403150013,
   "districtId": 7403150,
-  "name": "WAWOTOBI"
+  "districtName": "WAWOTOBI",
+  "name": "WAWOTOBI",
+  "postalCode": "93461"
  },
  {
   "id": 7403150014,
   "districtId": 7403150,
-  "name": "BOSE BOSE"
+  "districtName": "WAWOTOBI",
+  "name": "BOSE BOSE",
+  "postalCode": "93461"
  },
  {
   "id": 7403150015,
   "districtId": 7403150,
-  "name": "LALOSABILA"
+  "districtName": "WAWOTOBI",
+  "name": "LALOSABILA",
+  "postalCode": "93461"
  },
  {
   "id": 7403150016,
   "districtId": 7403150,
-  "name": "INALAHI"
+  "districtName": "WAWOTOBI",
+  "name": "INALAHI",
+  "postalCode": "93461"
  },
  {
   "id": 7403150017,
   "districtId": 7403150,
-  "name": "INOLOBU"
+  "districtName": "WAWOTOBI",
+  "name": "INOLOBU",
+  "postalCode": "93461"
  },
  {
   "id": 7403150018,
   "districtId": 7403150,
-  "name": "KULAHI"
+  "districtName": "WAWOTOBI",
+  "name": "KULAHI",
+  "postalCode": "93461"
  },
  {
   "id": 7403150019,
   "districtId": 7403150,
-  "name": "PALARAHI"
+  "districtName": "WAWOTOBI",
+  "name": "PALARAHI",
+  "postalCode": "93461"
  },
  {
   "id": 7403150027,
   "districtId": 7403150,
-  "name": "KASUMEWUHO"
+  "districtName": "WAWOTOBI",
+  "name": "KASUMEWUHO",
+  "postalCode": ""
  }
 ]

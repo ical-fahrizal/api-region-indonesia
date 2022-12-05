@@ -2,36 +2,50 @@
  {
   "id": 6404052001,
   "districtId": 6404052,
-  "name": "SUSUK LUAR"
+  "districtName": "SANDARAN",
+  "name": "SUSUK LUAR",
+  "postalCode": "75685"
  },
  {
   "id": 6404052002,
   "districtId": 6404052,
-  "name": "SUSUK DALAM"
+  "districtName": "SANDARAN",
+  "name": "SUSUK DALAM",
+  "postalCode": "75685"
  },
  {
   "id": 6404052003,
   "districtId": 6404052,
-  "name": "MARUKANGAN"
+  "districtName": "SANDARAN",
+  "name": "MARUKANGAN",
+  "postalCode": "75685"
  },
  {
   "id": 6404052004,
   "districtId": 6404052,
-  "name": "MANUBAR"
+  "districtName": "SANDARAN",
+  "name": "MANUBAR",
+  "postalCode": "75685"
  },
  {
   "id": 6404052005,
   "districtId": 6404052,
-  "name": "TADOAN"
+  "districtName": "SANDARAN",
+  "name": "TADOAN",
+  "postalCode": "75685"
  },
  {
   "id": 6404052006,
   "districtId": 6404052,
-  "name": "SANDARAN"
+  "districtName": "SANDARAN",
+  "name": "SANDARAN",
+  "postalCode": "75685"
  },
  {
   "id": 6404052007,
   "districtId": 6404052,
-  "name": "TANJUNG MANGKALIHAT"
+  "districtName": "SANDARAN",
+  "name": "TANJUNG MANGKALIHAT",
+  "postalCode": "75685"
  }
 ]

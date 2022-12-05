@@ -2,51 +2,71 @@
  {
   "id": 5303111001,
   "districtId": 5303111,
-  "name": "BONE"
+  "districtName": "NEKAMESE",
+  "name": "BONE",
+  "postalCode": "85571"
  },
  {
   "id": 5303111002,
   "districtId": 5303111,
-  "name": "TALOETAN"
+  "districtName": "NEKAMESE",
+  "name": "TALOETAN",
+  "postalCode": ""
  },
  {
   "id": 5303111003,
   "districtId": 5303111,
-  "name": "USAPISONBAI"
+  "districtName": "NEKAMESE",
+  "name": "USAPISONBAI",
+  "postalCode": "85391"
  },
  {
   "id": 5303111004,
   "districtId": 5303111,
-  "name": "OEPAHA"
+  "districtName": "NEKAMESE",
+  "name": "OEPAHA",
+  "postalCode": "85391"
  },
  {
   "id": 5303111005,
   "districtId": 5303111,
-  "name": "TASIKONA"
+  "districtName": "NEKAMESE",
+  "name": "TASIKONA",
+  "postalCode": "85391"
  },
  {
   "id": 5303111006,
   "districtId": 5303111,
-  "name": "OENIF"
+  "districtName": "NEKAMESE",
+  "name": "OENIF",
+  "postalCode": "85391"
  },
  {
   "id": 5303111007,
   "districtId": 5303111,
-  "name": "OEMASI"
+  "districtName": "NEKAMESE",
+  "name": "OEMASI",
+  "postalCode": "85391"
  },
  {
   "id": 5303111008,
   "districtId": 5303111,
-  "name": "OELOMIN"
+  "districtName": "NEKAMESE",
+  "name": "OELOMIN",
+  "postalCode": "85391"
  },
  {
   "id": 5303111010,
   "districtId": 5303111,
-  "name": "OBEN"
+  "districtName": "NEKAMESE",
+  "name": "OBEN",
+  "postalCode": "85391"
  },
  {
   "id": 5303111011,
   "districtId": 5303111,
-  "name": "BESMARAK"
+  "districtName": "NEKAMESE",
+  "name": "BESMARAK",
+  "postalCode": ""
  }
 ]

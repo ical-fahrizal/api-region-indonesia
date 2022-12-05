@@ -2,71 +2,99 @@
  {
   "id": 6108160001,
   "districtId": 6108160,
-  "name": "RANYAI"
+  "districtName": "SEBERUANG",
+  "name": "RANYAI",
+  "postalCode": "78772"
  },
  {
   "id": 6108160002,
   "districtId": 6108160,
-  "name": "SEJIRAM"
+  "districtName": "SEBERUANG",
+  "name": "SEJIRAM",
+  "postalCode": "78772"
  },
  {
   "id": 6108160003,
   "districtId": 6108160,
-  "name": "BELUIS HARUM"
+  "districtName": "SEBERUANG",
+  "name": "BELUIS HARUM",
+  "postalCode": "78772"
  },
  {
   "id": 6108160005,
   "districtId": 6108160,
-  "name": "BATI"
+  "districtName": "SEBERUANG",
+  "name": "BATI",
+  "postalCode": "78772"
  },
  {
   "id": 6108160006,
   "districtId": 6108160,
-  "name": "SENEBAN"
+  "districtName": "SEBERUANG",
+  "name": "SENEBAN",
+  "postalCode": "78772"
  },
  {
   "id": 6108160007,
   "districtId": 6108160,
-  "name": "BELIKAI"
+  "districtName": "SEBERUANG",
+  "name": "BELIKAI",
+  "postalCode": "78772"
  },
  {
   "id": 6108160008,
   "districtId": 6108160,
-  "name": "PALA KOTA"
+  "districtName": "SEBERUANG",
+  "name": "PALA KOTA",
+  "postalCode": "78772"
  },
  {
   "id": 6108160009,
   "districtId": 6108160,
-  "name": "EMPERIANG"
+  "districtName": "SEBERUANG",
+  "name": "EMPERIANG",
+  "postalCode": "78772"
  },
  {
   "id": 6108160010,
   "districtId": 6108160,
-  "name": "NANGA LOT"
+  "districtName": "SEBERUANG",
+  "name": "NANGA LOT",
+  "postalCode": "78772"
  },
  {
   "id": 6108160011,
   "districtId": 6108160,
-  "name": "TANJUNG KELILING"
+  "districtName": "SEBERUANG",
+  "name": "TANJUNG KELILING",
+  "postalCode": "78772"
  },
  {
   "id": 6108160012,
   "districtId": 6108160,
-  "name": "TAJUM MADA"
+  "districtName": "SEBERUANG",
+  "name": "TAJUM MADA",
+  "postalCode": ""
  },
  {
   "id": 6108160013,
   "districtId": 6108160,
-  "name": "JERENJANG"
+  "districtName": "SEBERUANG",
+  "name": "JERENJANG",
+  "postalCode": "78772"
  },
  {
   "id": 6108160014,
   "districtId": 6108160,
-  "name": "BEKUAN"
+  "districtName": "SEBERUANG",
+  "name": "BEKUAN",
+  "postalCode": "78772"
  },
  {
   "id": 6108160015,
   "districtId": 6108160,
-  "name": "NANGA PALA"
+  "districtName": "SEBERUANG",
+  "name": "NANGA PALA",
+  "postalCode": "78772"
  }
 ]

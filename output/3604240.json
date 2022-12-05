@@ -2,76 +2,106 @@
  {
   "id": 3604240001,
   "districtId": 3604240,
-  "name": "CITEREP"
+  "districtName": "CIRUAS",
+  "name": "CITEREP",
+  "postalCode": "42182"
  },
  {
   "id": 3604240002,
   "districtId": 3604240,
-  "name": "RANJENG"
+  "districtName": "CIRUAS",
+  "name": "RANJENG",
+  "postalCode": "45363"
  },
  {
   "id": 3604240003,
   "districtId": 3604240,
-  "name": "CIRUAS"
+  "districtName": "CIRUAS",
+  "name": "CIRUAS",
+  "postalCode": "42182"
  },
  {
   "id": 3604240004,
   "districtId": 3604240,
-  "name": "KADIKARAN"
+  "districtName": "CIRUAS",
+  "name": "KADIKARAN",
+  "postalCode": "42182"
  },
  {
   "id": 3604240005,
   "districtId": 3604240,
-  "name": "SINGAMERTA"
+  "districtName": "CIRUAS",
+  "name": "SINGAMERTA",
+  "postalCode": "42182"
  },
  {
   "id": 3604240006,
   "districtId": 3604240,
-  "name": "PULO"
+  "districtName": "CIRUAS",
+  "name": "PULO",
+  "postalCode": "24188"
  },
  {
   "id": 3604240008,
   "districtId": 3604240,
-  "name": "GOSARA"
+  "districtName": "CIRUAS",
+  "name": "GOSARA",
+  "postalCode": "42182"
  },
  {
   "id": 3604240009,
   "districtId": 3604240,
-  "name": "KEPANDEAN"
+  "districtName": "CIRUAS",
+  "name": "KEPANDEAN",
+  "postalCode": "45214"
  },
  {
   "id": 3604240010,
   "districtId": 3604240,
-  "name": "PAMONG"
+  "districtName": "CIRUAS",
+  "name": "PAMONG",
+  "postalCode": "42182"
  },
  {
   "id": 3604240011,
   "districtId": 3604240,
-  "name": "CIGELAM"
+  "districtName": "CIRUAS",
+  "name": "CIGELAM",
+  "postalCode": "41151"
  },
  {
   "id": 3604240012,
   "districtId": 3604240,
-  "name": "PENGGALANG"
+  "districtName": "CIRUAS",
+  "name": "PENGGALANG",
+  "postalCode": "53271"
  },
  {
   "id": 3604240013,
   "districtId": 3604240,
-  "name": "BUMIJAYA"
+  "districtName": "CIRUAS",
+  "name": "BUMIJAYA",
+  "postalCode": "32211"
  },
  {
   "id": 3604240015,
   "districtId": 3604240,
-  "name": "KESERANGAN"
+  "districtName": "CIRUAS",
+  "name": "KESERANGAN",
+  "postalCode": "42192"
  },
  {
   "id": 3604240016,
   "districtId": 3604240,
-  "name": "BEBERAN"
+  "districtName": "CIRUAS",
+  "name": "BEBERAN",
+  "postalCode": "45161"
  },
  {
   "id": 3604240017,
   "districtId": 3604240,
-  "name": "PELAWAD"
+  "districtName": "CIRUAS",
+  "name": "PELAWAD",
+  "postalCode": "42182"
  }
 ]

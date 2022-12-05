@@ -2,46 +2,64 @@
  {
   "id": 3602021001,
   "districtId": 3602021,
-  "name": "PONDOKPANJANG"
+  "districtName": "CIHARA",
+  "name": "PONDOKPANJANG",
+  "postalCode": "42392"
  },
  {
   "id": 3602021002,
   "districtId": 3602021,
-  "name": "CIPARAHU"
+  "districtName": "CIHARA",
+  "name": "CIPARAHU",
+  "postalCode": "42392"
  },
  {
   "id": 3602021003,
   "districtId": 3602021,
-  "name": "CIHARA"
+  "districtName": "CIHARA",
+  "name": "CIHARA",
+  "postalCode": "42392"
  },
  {
   "id": 3602021004,
   "districtId": 3602021,
-  "name": "KARANGKAMULYAN"
+  "districtName": "CIHARA",
+  "name": "KARANGKAMULYAN",
+  "postalCode": "45591"
  },
  {
   "id": 3602021005,
   "districtId": 3602021,
-  "name": "PANYAUNGAN"
+  "districtName": "CIHARA",
+  "name": "PANYAUNGAN",
+  "postalCode": "42392"
  },
  {
   "id": 3602021006,
   "districtId": 3602021,
-  "name": "MEKARSARI"
+  "districtName": "CIHARA",
+  "name": "MEKARSARI",
+  "postalCode": "37482"
  },
  {
   "id": 3602021007,
   "districtId": 3602021,
-  "name": "LEBAK PEUNDEUY"
+  "districtName": "CIHARA",
+  "name": "LEBAK PEUNDEUY",
+  "postalCode": "42392"
  },
  {
   "id": 3602021008,
   "districtId": 3602021,
-  "name": "CITEPUSEUN"
+  "districtName": "CIHARA",
+  "name": "CITEPUSEUN",
+  "postalCode": "42392"
  },
  {
   "id": 3602021009,
   "districtId": 3602021,
-  "name": "BARUNAI"
+  "districtName": "CIHARA",
+  "name": "BARUNAI",
+  "postalCode": "42392"
  }
 ]

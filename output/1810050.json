@@ -2,116 +2,162 @@
  {
   "id": 1810050001,
   "districtId": 1810050,
-  "name": "PAREREJO"
+  "districtName": "GADING REJO",
+  "name": "PAREREJO",
+  "postalCode": "35372"
  },
  {
   "id": 1810050002,
   "districtId": 1810050,
-  "name": "BLITAREJO"
+  "districtName": "GADING REJO",
+  "name": "BLITAREJO",
+  "postalCode": "35372"
  },
  {
   "id": 1810050003,
   "districtId": 1810050,
-  "name": "PANJEREJO"
+  "districtName": "GADING REJO",
+  "name": "PANJEREJO",
+  "postalCode": "35372"
  },
  {
   "id": 1810050004,
   "districtId": 1810050,
-  "name": "BULUKARTO"
+  "districtName": "GADING REJO",
+  "name": "BULUKARTO",
+  "postalCode": "35372"
  },
  {
   "id": 1810050005,
   "districtId": 1810050,
-  "name": "WATES"
+  "districtName": "GADING REJO",
+  "name": "WATES",
+  "postalCode": "32273"
  },
  {
   "id": 1810050006,
   "districtId": 1810050,
-  "name": "BULUREJO"
+  "districtName": "GADING REJO",
+  "name": "BULUREJO",
+  "postalCode": "35372"
  },
  {
   "id": 1810050007,
   "districtId": 1810050,
-  "name": "TAMBAK REJO"
+  "districtName": "GADING REJO",
+  "name": "TAMBAK REJO",
+  "postalCode": "38657"
  },
  {
   "id": 1810050008,
   "districtId": 1810050,
-  "name": "WONODADI"
+  "districtName": "GADING REJO",
+  "name": "WONODADI",
+  "postalCode": "30959"
  },
  {
   "id": 1810050009,
   "districtId": 1810050,
-  "name": "GADING REJO"
+  "districtName": "GADING REJO",
+  "name": "GADING REJO",
+  "postalCode": "30672"
  },
  {
   "id": 1810050010,
   "districtId": 1810050,
-  "name": "TEGALSARI"
+  "districtName": "GADING REJO",
+  "name": "TEGALSARI",
+  "postalCode": "35372"
  },
  {
   "id": 1810050011,
   "districtId": 1810050,
-  "name": "TULUNG AGUNG"
+  "districtName": "GADING REJO",
+  "name": "TULUNG AGUNG",
+  "postalCode": "35372"
  },
  {
   "id": 1810050012,
   "districtId": 1810050,
-  "name": "JOGYAKARTA"
+  "districtName": "GADING REJO",
+  "name": "JOGYAKARTA",
+  "postalCode": ""
  },
  {
   "id": 1810050013,
   "districtId": 1810050,
-  "name": "KEDIRI"
+  "districtName": "GADING REJO",
+  "name": "KEDIRI",
+  "postalCode": "35372"
  },
  {
   "id": 1810050014,
   "districtId": 1810050,
-  "name": "MATARAM"
+  "districtName": "GADING REJO",
+  "name": "MATARAM",
+  "postalCode": "31662"
  },
  {
   "id": 1810050015,
   "districtId": 1810050,
-  "name": "WONOSARI"
+  "districtName": "GADING REJO",
+  "name": "WONOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 1810050016,
   "districtId": 1810050,
-  "name": "KLATEN"
+  "districtName": "GADING REJO",
+  "name": "KLATEN",
+  "postalCode": "35372"
  },
  {
   "id": 1810050017,
   "districtId": 1810050,
-  "name": "WATES TIMUR"
+  "districtName": "GADING REJO",
+  "name": "WATES TIMUR",
+  "postalCode": "35372"
  },
  {
   "id": 1810050018,
   "districtId": 1810050,
-  "name": "WATES SELATAN"
+  "districtName": "GADING REJO",
+  "name": "WATES SELATAN",
+  "postalCode": "35372"
  },
  {
   "id": 1810050019,
   "districtId": 1810050,
-  "name": "GADING REJO TIMUR"
+  "districtName": "GADING REJO",
+  "name": "GADING REJO TIMUR",
+  "postalCode": ""
  },
  {
   "id": 1810050020,
   "districtId": 1810050,
-  "name": "GADING REJO UTARA"
+  "districtName": "GADING REJO",
+  "name": "GADING REJO UTARA",
+  "postalCode": ""
  },
  {
   "id": 1810050021,
   "districtId": 1810050,
-  "name": "TAMBAH REJO BARAT"
+  "districtName": "GADING REJO",
+  "name": "TAMBAH REJO BARAT",
+  "postalCode": ""
  },
  {
   "id": 1810050022,
   "districtId": 1810050,
-  "name": "YOGYAKARTA SELATAN"
+  "districtName": "GADING REJO",
+  "name": "YOGYAKARTA SELATAN",
+  "postalCode": "35372"
  },
  {
   "id": 1810050023,
   "districtId": 1810050,
-  "name": "WONODADI UTARA"
+  "districtName": "GADING REJO",
+  "name": "WONODADI UTARA",
+  "postalCode": "35372"
  }
 ]

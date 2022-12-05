@@ -2,66 +2,92 @@
  {
   "id": 7311170001,
   "districtId": 7311170,
-  "name": "SIAME"
+  "districtName": "PALAKKA",
+  "name": "SIAME",
+  "postalCode": "92761"
  },
  {
   "id": 7311170002,
   "districtId": 7311170,
-  "name": "CINENNUNG"
+  "districtName": "PALAKKA",
+  "name": "CINENNUNG",
+  "postalCode": "92772"
  },
  {
   "id": 7311170003,
   "districtId": 7311170,
-  "name": "PASEMPE"
+  "districtName": "PALAKKA",
+  "name": "PASEMPE",
+  "postalCode": "92761"
  },
  {
   "id": 7311170004,
   "districtId": 7311170,
-  "name": "LEMOAPE"
+  "districtName": "PALAKKA",
+  "name": "LEMOAPE",
+  "postalCode": "92761"
  },
  {
   "id": 7311170005,
   "districtId": 7311170,
-  "name": "USA"
+  "districtName": "PALAKKA",
+  "name": "USA",
+  "postalCode": "92761"
  },
  {
   "id": 7311170007,
   "districtId": 7311170,
-  "name": "MICO"
+  "districtName": "PALAKKA",
+  "name": "MICO",
+  "postalCode": "92761"
  },
  {
   "id": 7311170008,
   "districtId": 7311170,
-  "name": "BAINANG"
+  "districtName": "PALAKKA",
+  "name": "BAINANG",
+  "postalCode": "92761"
  },
  {
   "id": 7311170009,
   "districtId": 7311170,
-  "name": "PASSIPPO"
+  "districtName": "PALAKKA",
+  "name": "PASSIPPO",
+  "postalCode": "92761"
  },
  {
   "id": 7311170010,
   "districtId": 7311170,
-  "name": "TANAH TENGAH"
+  "districtName": "PALAKKA",
+  "name": "TANAH TENGAH",
+  "postalCode": ""
  },
  {
   "id": 7311170011,
   "districtId": 7311170,
-  "name": "TIRONG"
+  "districtName": "PALAKKA",
+  "name": "TIRONG",
+  "postalCode": "92761"
  },
  {
   "id": 7311170012,
   "districtId": 7311170,
-  "name": "PANYILI"
+  "districtName": "PALAKKA",
+  "name": "PANYILI",
+  "postalCode": "92753"
  },
  {
   "id": 7311170013,
   "districtId": 7311170,
-  "name": "MATTANETE BUA"
+  "districtName": "PALAKKA",
+  "name": "MATTANETE BUA",
+  "postalCode": "92761"
  },
  {
   "id": 7311170014,
   "districtId": 7311170,
-  "name": "MADURI"
+  "districtName": "PALAKKA",
+  "name": "MADURI",
+  "postalCode": "92761"
  }
 ]

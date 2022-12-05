@@ -2,66 +2,92 @@
  {
   "id": 7504040003,
   "districtId": 7504040,
-  "name": "TOLOTIO"
+  "districtName": "BONEPANTAI",
+  "name": "TOLOTIO",
+  "postalCode": "96585"
  },
  {
   "id": 7504040004,
   "districtId": 7504040,
-  "name": "TAMBOO"
+  "districtName": "BONEPANTAI",
+  "name": "TAMBOO",
+  "postalCode": "96585"
  },
  {
   "id": 7504040005,
   "districtId": 7504040,
-  "name": "BILUNGALA"
+  "districtName": "BONEPANTAI",
+  "name": "BILUNGALA",
+  "postalCode": "96585"
  },
  {
   "id": 7504040006,
   "districtId": 7504040,
-  "name": "TONGO"
+  "districtName": "BONEPANTAI",
+  "name": "TONGO",
+  "postalCode": "84457"
  },
  {
   "id": 7504040007,
   "districtId": 7504040,
-  "name": "UABANGA"
+  "districtName": "BONEPANTAI",
+  "name": "UABANGA",
+  "postalCode": "96585"
  },
  {
   "id": 7504040008,
   "districtId": 7504040,
-  "name": "BILUNGALA UTARA"
+  "districtName": "BONEPANTAI",
+  "name": "BILUNGALA UTARA",
+  "postalCode": "96585"
  },
  {
   "id": 7504040009,
   "districtId": 7504040,
-  "name": "TIHU"
+  "districtName": "BONEPANTAI",
+  "name": "TIHU",
+  "postalCode": "96585"
  },
  {
   "id": 7504040010,
   "districtId": 7504040,
-  "name": "LEMBAH HIJAU"
+  "districtName": "BONEPANTAI",
+  "name": "LEMBAH HIJAU",
+  "postalCode": "96585"
  },
  {
   "id": 7504040011,
   "districtId": 7504040,
-  "name": "TUNAS JAYA"
+  "districtName": "BONEPANTAI",
+  "name": "TUNAS JAYA",
+  "postalCode": "32264"
  },
  {
   "id": 7504040012,
   "districtId": 7504040,
-  "name": "OMBULO HIJAU"
+  "districtName": "BONEPANTAI",
+  "name": "OMBULO HIJAU",
+  "postalCode": "96585"
  },
  {
   "id": 7504040013,
   "districtId": 7504040,
-  "name": "BATU HIJAU"
+  "districtName": "BONEPANTAI",
+  "name": "BATU HIJAU",
+  "postalCode": "96585"
  },
  {
   "id": 7504040014,
   "districtId": 7504040,
-  "name": "KAMIRI"
+  "districtName": "BONEPANTAI",
+  "name": "KAMIRI",
+  "postalCode": "90762"
  },
  {
   "id": 7504040015,
   "districtId": 7504040,
-  "name": "PELITA HIJAU"
+  "districtName": "BONEPANTAI",
+  "name": "PELITA HIJAU",
+  "postalCode": "96585"
  }
 ]

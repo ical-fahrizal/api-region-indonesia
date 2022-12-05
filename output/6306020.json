@@ -2,56 +2,78 @@
  {
   "id": 6306020002,
   "districtId": 6306020,
-  "name": "HALUNUK"
+  "districtName": "LOKSADO",
+  "name": "HALUNUK",
+  "postalCode": "71282"
  },
  {
   "id": 6306020003,
   "districtId": 6306020,
-  "name": "PANGGUNGAN"
+  "districtName": "LOKSADO",
+  "name": "PANGGUNGAN",
+  "postalCode": "71282"
  },
  {
   "id": 6306020004,
   "districtId": 6306020,
-  "name": "LUMPANGI"
+  "districtName": "LOKSADO",
+  "name": "LUMPANGI",
+  "postalCode": "71282"
  },
  {
   "id": 6306020005,
   "districtId": 6306020,
-  "name": "MALINAU"
+  "districtName": "LOKSADO",
+  "name": "MALINAU",
+  "postalCode": "71282"
  },
  {
   "id": 6306020006,
   "districtId": 6306020,
-  "name": "HULU BANYU"
+  "districtName": "LOKSADO",
+  "name": "HULU BANYU",
+  "postalCode": "71282"
  },
  {
   "id": 6306020007,
   "districtId": 6306020,
-  "name": "TUMINGKI"
+  "districtName": "LOKSADO",
+  "name": "TUMINGKI",
+  "postalCode": "71282"
  },
  {
   "id": 6306020008,
   "districtId": 6306020,
-  "name": "KAMAWAKAN"
+  "districtName": "LOKSADO",
+  "name": "KAMAWAKAN",
+  "postalCode": "71282"
  },
  {
   "id": 6306020009,
   "districtId": 6306020,
-  "name": "LOK LAHUNG"
+  "districtName": "LOKSADO",
+  "name": "LOK LAHUNG",
+  "postalCode": "71282"
  },
  {
   "id": 6306020010,
   "districtId": 6306020,
-  "name": "LOKSADO"
+  "districtName": "LOKSADO",
+  "name": "LOKSADO",
+  "postalCode": "71282"
  },
  {
   "id": 6306020012,
   "districtId": 6306020,
-  "name": "MUARA ULANG"
+  "districtName": "LOKSADO",
+  "name": "MUARA ULANG",
+  "postalCode": ""
  },
  {
   "id": 6306020013,
   "districtId": 6306020,
-  "name": "HARATAI"
+  "districtName": "LOKSADO",
+  "name": "HARATAI",
+  "postalCode": "71282"
  }
 ]

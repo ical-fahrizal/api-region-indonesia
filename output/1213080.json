@@ -2,71 +2,99 @@
  {
   "id": 1213080001,
   "districtId": 1213080,
-  "name": "BESILAM BUKIT LEMBASA"
+  "districtName": "WAMPU",
+  "name": "BESILAM BUKIT LEMBASA",
+  "postalCode": "20851"
  },
  {
   "id": 1213080002,
   "districtId": 1213080,
-  "name": "GERGAS"
+  "districtName": "WAMPU",
+  "name": "GERGAS",
+  "postalCode": "20851"
  },
  {
   "id": 1213080003,
   "districtId": 1213080,
-  "name": "BINGAI"
+  "districtName": "WAMPU",
+  "name": "BINGAI",
+  "postalCode": "20851"
  },
  {
   "id": 1213080004,
   "districtId": 1213080,
-  "name": "BUKIT MELINTANG"
+  "districtName": "WAMPU",
+  "name": "BUKIT MELINTANG",
+  "postalCode": "20851"
  },
  {
   "id": 1213080005,
   "districtId": 1213080,
-  "name": "KEBUN BALOK"
+  "districtName": "WAMPU",
+  "name": "KEBUN BALOK",
+  "postalCode": "20851"
  },
  {
   "id": 1213080006,
   "districtId": 1213080,
-  "name": "SUMBER MULYO"
+  "districtName": "WAMPU",
+  "name": "SUMBER MULYO",
+  "postalCode": "21452"
  },
  {
   "id": 1213080007,
   "districtId": 1213080,
-  "name": "GOHOR LAMA"
+  "districtName": "WAMPU",
+  "name": "GOHOR LAMA",
+  "postalCode": "20851"
  },
  {
   "id": 1213080008,
   "districtId": 1213080,
-  "name": "STABAT LAMA"
+  "districtName": "WAMPU",
+  "name": "STABAT LAMA",
+  "postalCode": "20851"
  },
  {
   "id": 1213080009,
   "districtId": 1213080,
-  "name": "STABAT LAMA BARAT"
+  "districtName": "WAMPU",
+  "name": "STABAT LAMA BARAT",
+  "postalCode": "20851"
  },
  {
   "id": 1213080010,
   "districtId": 1213080,
-  "name": "PERTUMBUKAN"
+  "districtName": "WAMPU",
+  "name": "PERTUMBUKAN",
+  "postalCode": "20851"
  },
  {
   "id": 1213080011,
   "districtId": 1213080,
-  "name": "PAYA TUSAN"
+  "districtName": "WAMPU",
+  "name": "PAYA TUSAN",
+  "postalCode": ""
  },
  {
   "id": 1213080012,
   "districtId": 1213080,
-  "name": "MEKAR JAYA"
+  "districtName": "WAMPU",
+  "name": "MEKAR JAYA",
+  "postalCode": "20771"
  },
  {
   "id": 1213080013,
   "districtId": 1213080,
-  "name": "JENTERA STABAT"
+  "districtName": "WAMPU",
+  "name": "JENTERA STABAT",
+  "postalCode": "20851"
  },
  {
   "id": 1213080014,
   "districtId": 1213080,
-  "name": "STUNGKIT"
+  "districtName": "WAMPU",
+  "name": "STUNGKIT",
+  "postalCode": "20851"
  }
 ]

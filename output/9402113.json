@@ -2,31 +2,43 @@
  {
   "id": 9402113001,
   "districtId": 9402113,
-  "name": "TRIKORA"
+  "districtName": "TRIKORA",
+  "name": "TRIKORA",
+  "postalCode": "86414"
  },
  {
   "id": 9402113002,
   "districtId": 9402113,
-  "name": "NANGGO"
+  "districtName": "TRIKORA",
+  "name": "NANGGO",
+  "postalCode": "99511"
  },
  {
   "id": 9402113030,
   "districtId": 9402113,
-  "name": "DINGGILMO"
+  "districtName": "TRIKORA",
+  "name": "DINGGILMO",
+  "postalCode": ""
  },
  {
   "id": 9402113031,
   "districtId": 9402113,
-  "name": "KORA JAYA"
+  "districtName": "TRIKORA",
+  "name": "KORA JAYA",
+  "postalCode": "99511"
  },
  {
   "id": 9402113032,
   "districtId": 9402113,
-  "name": "KORAMBIRIK"
+  "districtName": "TRIKORA",
+  "name": "KORAMBIRIK",
+  "postalCode": "99511"
  },
  {
   "id": 9402113033,
   "districtId": 9402113,
-  "name": "ANGGULPA"
+  "districtName": "TRIKORA",
+  "name": "ANGGULPA",
+  "postalCode": "99565"
  }
 ]

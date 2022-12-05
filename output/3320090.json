@@ -2,41 +2,57 @@
  {
   "id": 3320090001,
   "districtId": 3320090,
-  "name": "MOROREJO"
+  "districtName": "MLONGGO",
+  "name": "MOROREJO",
+  "postalCode": "51372"
  },
  {
   "id": 3320090010,
   "districtId": 3320090,
-  "name": "SUWAWAL"
+  "districtName": "MLONGGO",
+  "name": "SUWAWAL",
+  "postalCode": "59452"
  },
  {
   "id": 3320090011,
   "districtId": 3320090,
-  "name": "SINANGGUL"
+  "districtName": "MLONGGO",
+  "name": "SINANGGUL",
+  "postalCode": "59452"
  },
  {
   "id": 3320090012,
   "districtId": 3320090,
-  "name": "JAMBU TIMUR"
+  "districtName": "MLONGGO",
+  "name": "JAMBU TIMUR",
+  "postalCode": "59452"
  },
  {
   "id": 3320090013,
   "districtId": 3320090,
-  "name": "JAMBU"
+  "districtName": "MLONGGO",
+  "name": "JAMBU",
+  "postalCode": "20998"
  },
  {
   "id": 3320090014,
   "districtId": 3320090,
-  "name": "SEKURO"
+  "districtName": "MLONGGO",
+  "name": "SEKURO",
+  "postalCode": "59452"
  },
  {
   "id": 3320090015,
   "districtId": 3320090,
-  "name": "SROBYONG"
+  "districtName": "MLONGGO",
+  "name": "SROBYONG",
+  "postalCode": "59452"
  },
  {
   "id": 3320090016,
   "districtId": 3320090,
-  "name": "KARANGGONDANG"
+  "districtName": "MLONGGO",
+  "name": "KARANGGONDANG",
+  "postalCode": "51163"
  }
 ]

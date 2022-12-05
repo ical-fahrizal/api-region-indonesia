@@ -2,36 +2,50 @@
  {
   "id": 3513020001,
   "districtId": 3513020,
-  "name": "LEDOKOMBO"
+  "districtName": "SUMBER",
+  "name": "LEDOKOMBO",
+  "postalCode": "68196"
  },
  {
   "id": 3513020002,
   "districtId": 3513020,
-  "name": "PANDANSARI"
+  "districtName": "SUMBER",
+  "name": "PANDANSARI",
+  "postalCode": "16720"
  },
  {
   "id": 3513020003,
   "districtId": 3513020,
-  "name": "SUMBERANOM"
+  "districtName": "SUMBER",
+  "name": "SUMBERANOM",
+  "postalCode": "67263"
  },
  {
   "id": 3513020004,
   "districtId": 3513020,
-  "name": "WONOKERSO"
+  "districtName": "SUMBER",
+  "name": "WONOKERSO",
+  "postalCode": "51261"
  },
  {
   "id": 3513020005,
   "districtId": 3513020,
-  "name": "GEMITO"
+  "districtName": "SUMBER",
+  "name": "GEMITO",
+  "postalCode": "67263"
  },
  {
   "id": 3513020008,
   "districtId": 3513020,
-  "name": "CEPOKO"
+  "districtName": "SUMBER",
+  "name": "CEPOKO",
+  "postalCode": "50223"
  },
  {
   "id": 3513020009,
   "districtId": 3513020,
-  "name": "RAMBAAN"
+  "districtName": "SUMBER",
+  "name": "RAMBAAN",
+  "postalCode": "67263"
  }
 ]

@@ -2,51 +2,71 @@
  {
   "id": 1809021001,
   "districtId": 1809021,
-  "name": "BATU MENYAN"
+  "districtName": "TELUK PANDAN",
+  "name": "BATU MENYAN",
+  "postalCode": "35451"
  },
  {
   "id": 1809021002,
   "districtId": 1809021,
-  "name": "GEBANG"
+  "districtName": "TELUK PANDAN",
+  "name": "GEBANG",
+  "postalCode": "35451"
  },
  {
   "id": 1809021003,
   "districtId": 1809021,
-  "name": "SIDODADI"
+  "districtName": "TELUK PANDAN",
+  "name": "SIDODADI",
+  "postalCode": "24582"
  },
  {
   "id": 1809021004,
   "districtId": 1809021,
-  "name": "HANURA"
+  "districtName": "TELUK PANDAN",
+  "name": "HANURA",
+  "postalCode": "35451"
  },
  {
   "id": 1809021005,
   "districtId": 1809021,
-  "name": "CILIMUS"
+  "districtName": "TELUK PANDAN",
+  "name": "CILIMUS",
+  "postalCode": "35451"
  },
  {
   "id": 1809021006,
   "districtId": 1809021,
-  "name": "HURUN"
+  "districtName": "TELUK PANDAN",
+  "name": "HURUN",
+  "postalCode": "35451"
  },
  {
   "id": 1809021007,
   "districtId": 1809021,
-  "name": "SUKAJAYA LEMPASING"
+  "districtName": "TELUK PANDAN",
+  "name": "SUKAJAYA LEMPASING",
+  "postalCode": "35451"
  },
  {
   "id": 1809021008,
   "districtId": 1809021,
-  "name": "MUNCA"
+  "districtName": "TELUK PANDAN",
+  "name": "MUNCA",
+  "postalCode": "35451"
  },
  {
   "id": 1809021009,
   "districtId": 1809021,
-  "name": "TANJUNG AGUNG"
+  "districtName": "TELUK PANDAN",
+  "name": "TANJUNG AGUNG",
+  "postalCode": "37216"
  },
  {
   "id": 1809021010,
   "districtId": 1809021,
-  "name": "TALANG MULYO"
+  "districtName": "TELUK PANDAN",
+  "name": "TALANG MULYO",
+  "postalCode": "35451"
  }
 ]

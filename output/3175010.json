@@ -2,26 +2,36 @@
  {
   "id": 3175010001,
   "districtId": 3175010,
-  "name": "KAMAL MUARA"
+  "districtName": "PENJARINGAN",
+  "name": "KAMAL MUARA",
+  "postalCode": "14470"
  },
  {
   "id": 3175010002,
   "districtId": 3175010,
-  "name": "KAPUK MUARA"
+  "districtName": "PENJARINGAN",
+  "name": "KAPUK MUARA",
+  "postalCode": "14460"
  },
  {
   "id": 3175010003,
   "districtId": 3175010,
-  "name": "PEJAGALAN"
+  "districtName": "PENJARINGAN",
+  "name": "PEJAGALAN",
+  "postalCode": "14450"
  },
  {
   "id": 3175010004,
   "districtId": 3175010,
-  "name": "PENJARINGAN"
+  "districtName": "PENJARINGAN",
+  "name": "PENJARINGAN",
+  "postalCode": "14440"
  },
  {
   "id": 3175010005,
   "districtId": 3175010,
-  "name": "PLUIT"
+  "districtName": "PENJARINGAN",
+  "name": "PLUIT",
+  "postalCode": "14450"
  }
 ]

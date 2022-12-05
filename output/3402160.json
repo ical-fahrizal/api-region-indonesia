@@ -2,16 +2,22 @@
  {
   "id": 3402160001,
   "districtId": 3402160,
-  "name": "TRIWIDADI"
+  "districtName": "PAJANGAN",
+  "name": "TRIWIDADI",
+  "postalCode": "55751"
  },
  {
   "id": 3402160002,
   "districtId": 3402160,
-  "name": "SENDANGSARI"
+  "districtName": "PAJANGAN",
+  "name": "SENDANGSARI",
+  "postalCode": "57674"
  },
  {
   "id": 3402160003,
   "districtId": 3402160,
-  "name": "GUWOSARI"
+  "districtName": "PAJANGAN",
+  "name": "GUWOSARI",
+  "postalCode": "55751"
  }
 ]

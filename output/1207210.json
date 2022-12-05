@@ -2,46 +2,64 @@
  {
   "id": 1207210001,
   "districtId": 1207210,
-  "name": "LOBUSONA"
+  "districtName": "RANTAU SELATAN",
+  "name": "LOBUSONA",
+  "postalCode": ""
  },
  {
   "id": 1207210002,
   "districtId": 1207210,
-  "name": "SIDOREJO"
+  "districtName": "RANTAU SELATAN",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 1207210003,
   "districtId": 1207210,
-  "name": "SIGAMBAL"
+  "districtName": "RANTAU SELATAN",
+  "name": "SIGAMBAL",
+  "postalCode": "21425"
  },
  {
   "id": 1207210004,
   "districtId": 1207210,
-  "name": "DANOBALE"
+  "districtName": "RANTAU SELATAN",
+  "name": "DANOBALE",
+  "postalCode": "21427"
  },
  {
   "id": 1207210005,
   "districtId": 1207210,
-  "name": "PERDAMEAN"
+  "districtName": "RANTAU SELATAN",
+  "name": "PERDAMEAN",
+  "postalCode": "24673"
  },
  {
   "id": 1207210006,
   "districtId": 1207210,
-  "name": "UJUNG BANDAR"
+  "districtName": "RANTAU SELATAN",
+  "name": "UJUNG BANDAR",
+  "postalCode": "20774"
  },
  {
   "id": 1207210007,
   "districtId": 1207210,
-  "name": "BAKARAN BATU"
+  "districtName": "RANTAU SELATAN",
+  "name": "BAKARAN BATU",
+  "postalCode": "20372"
  },
  {
   "id": 1207210008,
   "districtId": 1207210,
-  "name": "URUNG KOMPAS"
+  "districtName": "RANTAU SELATAN",
+  "name": "URUNG KOMPAS",
+  "postalCode": "21429"
  },
  {
   "id": 1207210009,
   "districtId": 1207210,
-  "name": "SIOLDENGAN"
+  "districtName": "RANTAU SELATAN",
+  "name": "SIOLDENGAN",
+  "postalCode": "21428"
  }
 ]

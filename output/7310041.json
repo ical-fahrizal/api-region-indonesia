@@ -2,31 +2,43 @@
  {
   "id": 7310041001,
   "districtId": 7310041,
-  "name": "BINUANG"
+  "districtName": "BALUSU",
+  "name": "BINUANG",
+  "postalCode": "28463"
  },
  {
   "id": 7310041002,
   "districtId": 7310041,
-  "name": "MADELLO"
+  "districtName": "BALUSU",
+  "name": "MADELLO",
+  "postalCode": "90762"
  },
  {
   "id": 7310041003,
   "districtId": 7310041,
-  "name": "TAKKALASI"
+  "districtName": "BALUSU",
+  "name": "TAKKALASI",
+  "postalCode": "90762"
  },
  {
   "id": 7310041004,
   "districtId": 7310041,
-  "name": "KAMIRI"
+  "districtName": "BALUSU",
+  "name": "KAMIRI",
+  "postalCode": "90762"
  },
  {
   "id": 7310041005,
   "districtId": 7310041,
-  "name": "LAMPOKO"
+  "districtName": "BALUSU",
+  "name": "LAMPOKO",
+  "postalCode": "90762"
  },
  {
   "id": 7310041006,
   "districtId": 7310041,
-  "name": "BALUSU"
+  "districtName": "BALUSU",
+  "name": "BALUSU",
+  "postalCode": "90762"
  }
 ]

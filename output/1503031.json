@@ -2,66 +2,92 @@
  {
   "id": 1503031001,
   "districtId": 1503031,
-  "name": "PERDAMAIAN"
+  "districtName": "SINGKUT",
+  "name": "PERDAMAIAN",
+  "postalCode": "24475"
  },
  {
   "id": 1503031002,
   "districtId": 1503031,
-  "name": "SUNGAI GEDANG"
+  "districtName": "SINGKUT",
+  "name": "SUNGAI GEDANG",
+  "postalCode": "37482"
  },
  {
   "id": 1503031003,
   "districtId": 1503031,
-  "name": "SUNGAI BENTENG"
+  "districtName": "SINGKUT",
+  "name": "SUNGAI BENTENG",
+  "postalCode": "37482"
  },
  {
   "id": 1503031004,
   "districtId": 1503031,
-  "name": "BUKIT MURAU"
+  "districtName": "SINGKUT",
+  "name": "BUKIT MURAU",
+  "postalCode": "37482"
  },
  {
   "id": 1503031005,
   "districtId": 1503031,
-  "name": "PASAR SINGKUT"
+  "districtName": "SINGKUT",
+  "name": "PASAR SINGKUT",
+  "postalCode": "37482"
  },
  {
   "id": 1503031006,
   "districtId": 1503031,
-  "name": "BUKIT TIGO"
+  "districtName": "SINGKUT",
+  "name": "BUKIT TIGO",
+  "postalCode": "37482"
  },
  {
   "id": 1503031007,
   "districtId": 1503031,
-  "name": "PAYO LEBAR"
+  "districtName": "SINGKUT",
+  "name": "PAYO LEBAR",
+  "postalCode": "36135"
  },
  {
   "id": 1503031019,
   "districtId": 1503031,
-  "name": "SIMPANG NIBUNG"
+  "districtName": "SINGKUT",
+  "name": "SIMPANG NIBUNG",
+  "postalCode": "37482"
  },
  {
   "id": 1503031020,
   "districtId": 1503031,
-  "name": "SILIWANGI"
+  "districtName": "SINGKUT",
+  "name": "SILIWANGI",
+  "postalCode": "37482"
  },
  {
   "id": 1503031021,
   "districtId": 1503031,
-  "name": "SENDANG SARI"
+  "districtName": "SINGKUT",
+  "name": "SENDANG SARI",
+  "postalCode": "21218"
  },
  {
   "id": 1503031022,
   "districtId": 1503031,
-  "name": "ARGO SARI"
+  "districtName": "SINGKUT",
+  "name": "ARGO SARI",
+  "postalCode": "37482"
  },
  {
   "id": 1503031023,
   "districtId": 1503031,
-  "name": "BUKIT BUMI RAYA"
+  "districtName": "SINGKUT",
+  "name": "BUKIT BUMI RAYA",
+  "postalCode": ""
  },
  {
   "id": 1503031024,
   "districtId": 1503031,
-  "name": "BUKIT TALANG MAS"
+  "districtName": "SINGKUT",
+  "name": "BUKIT TALANG MAS",
+  "postalCode": ""
  }
 ]

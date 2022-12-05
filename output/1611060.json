@@ -2,66 +2,92 @@
  {
   "id": 1611060001,
   "districtId": 1611060,
-  "name": "KARANG ARE"
+  "districtName": "TALANG PADANG",
+  "name": "KARANG ARE",
+  "postalCode": "31596"
  },
  {
   "id": 1611060002,
   "districtId": 1611060,
-  "name": "KEMBAHANG LAMA"
+  "districtName": "TALANG PADANG",
+  "name": "KEMBAHANG LAMA",
+  "postalCode": "31596"
  },
  {
   "id": 1611060003,
   "districtId": 1611060,
-  "name": "PADANG TITIRAN"
+  "districtName": "TALANG PADANG",
+  "name": "PADANG TITIRAN",
+  "postalCode": "31596"
  },
  {
   "id": 1611060004,
   "districtId": 1611060,
-  "name": "PS TALANG PADANG"
+  "districtName": "TALANG PADANG",
+  "name": "PS TALANG PADANG",
+  "postalCode": ""
  },
  {
   "id": 1611060005,
   "districtId": 1611060,
-  "name": "MACANG MANIS"
+  "districtName": "TALANG PADANG",
+  "name": "MACANG MANIS",
+  "postalCode": "31596"
  },
  {
   "id": 1611060006,
   "districtId": 1611060,
-  "name": "TALANG PADANG"
+  "districtName": "TALANG PADANG",
+  "name": "TALANG PADANG",
+  "postalCode": "32265"
  },
  {
   "id": 1611060007,
   "districtId": 1611060,
-  "name": "LAMPAR BARU"
+  "districtName": "TALANG PADANG",
+  "name": "LAMPAR BARU",
+  "postalCode": "31453"
  },
  {
   "id": 1611060008,
   "districtId": 1611060,
-  "name": "KEMBAHANG BARU"
+  "districtName": "TALANG PADANG",
+  "name": "KEMBAHANG BARU",
+  "postalCode": "31596"
  },
  {
   "id": 1611060009,
   "districtId": 1611060,
-  "name": "CANGGU"
+  "districtName": "TALANG PADANG",
+  "name": "CANGGU",
+  "postalCode": "31596"
  },
  {
   "id": 1611060010,
   "districtId": 1611060,
-  "name": "REMANTAI"
+  "districtName": "TALANG PADANG",
+  "name": "REMANTAI",
+  "postalCode": "31596"
  },
  {
   "id": 1611060011,
   "districtId": 1611060,
-  "name": "TALANG DURIAN"
+  "districtName": "TALANG PADANG",
+  "name": "TALANG DURIAN",
+  "postalCode": "31596"
  },
  {
   "id": 1611060012,
   "districtId": 1611060,
-  "name": "LUBUK BUNTAK"
+  "districtName": "TALANG PADANG",
+  "name": "LUBUK BUNTAK",
+  "postalCode": "31521"
  },
  {
   "id": 1611060013,
   "districtId": 1611060,
-  "name": "ULAK DABUK"
+  "districtName": "TALANG PADANG",
+  "name": "ULAK DABUK",
+  "postalCode": ""
  }
 ]

@@ -2,51 +2,71 @@
  {
   "id": 6110021001,
   "districtId": 6110021,
-  "name": "TOGAN BARU"
+  "districtName": "TANAH PINOH BARAT",
+  "name": "TOGAN BARU",
+  "postalCode": "79674"
  },
  {
   "id": 6110021002,
   "districtId": 6110021,
-  "name": "GANJANG"
+  "districtName": "TANAH PINOH BARAT",
+  "name": "GANJANG",
+  "postalCode": "79674"
  },
  {
   "id": 6110021003,
   "districtId": 6110021,
-  "name": "DURIAN JAYA"
+  "districtName": "TANAH PINOH BARAT",
+  "name": "DURIAN JAYA",
+  "postalCode": "79674"
  },
  {
   "id": 6110021004,
   "districtId": 6110021,
-  "name": "PELITA JAYA"
+  "districtName": "TANAH PINOH BARAT",
+  "name": "PELITA JAYA",
+  "postalCode": "32362"
  },
  {
   "id": 6110021005,
   "districtId": 6110021,
-  "name": "BUKIT RAYA"
+  "districtName": "TANAH PINOH BARAT",
+  "name": "BUKIT RAYA",
+  "postalCode": "29563"
  },
  {
   "id": 6110021006,
   "districtId": 6110021,
-  "name": "ULAK MUID"
+  "districtName": "TANAH PINOH BARAT",
+  "name": "ULAK MUID",
+  "postalCode": "79674"
  },
  {
   "id": 6110021007,
   "districtId": 6110021,
-  "name": "LINTAH TAUM"
+  "districtName": "TANAH PINOH BARAT",
+  "name": "LINTAH TAUM",
+  "postalCode": "79674"
  },
  {
   "id": 6110021008,
   "districtId": 6110021,
-  "name": "LAJA"
+  "districtName": "TANAH PINOH BARAT",
+  "name": "LAJA",
+  "postalCode": "79674"
  },
  {
   "id": 6110021009,
   "districtId": 6110021,
-  "name": "HARAPAN JAYA"
+  "districtName": "TANAH PINOH BARAT",
+  "name": "HARAPAN JAYA",
+  "postalCode": "20773"
  },
  {
   "id": 6110021010,
   "districtId": 6110021,
-  "name": "KELUAS HULU"
+  "districtName": "TANAH PINOH BARAT",
+  "name": "KELUAS HULU",
+  "postalCode": "79674"
  }
 ]

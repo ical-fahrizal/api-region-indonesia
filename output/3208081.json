@@ -2,51 +2,71 @@
  {
   "id": 3208081001,
   "districtId": 3208081,
-  "name": "CILEUYA"
+  "districtName": "CIMAHI",
+  "name": "CILEUYA",
+  "postalCode": "45582"
  },
  {
   "id": 3208081004,
   "districtId": 3208081,
-  "name": "MARGAMUKTI"
+  "districtName": "CIMAHI",
+  "name": "MARGAMUKTI",
+  "postalCode": "45582"
  },
  {
   "id": 3208081005,
   "districtId": 3208081,
-  "name": "CIMULYA"
+  "districtName": "CIMAHI",
+  "name": "CIMULYA",
+  "postalCode": "45582"
  },
  {
   "id": 3208081006,
   "districtId": 3208081,
-  "name": "GUNUNGSARI"
+  "districtName": "CIMAHI",
+  "name": "GUNUNGSARI",
+  "postalCode": "35368"
  },
  {
   "id": 3208081007,
   "districtId": 3208081,
-  "name": "CIMAHI"
+  "districtName": "CIMAHI",
+  "name": "CIMAHI",
+  "postalCode": "41181"
  },
  {
   "id": 3208081008,
   "districtId": 3208081,
-  "name": "KANANGA"
+  "districtName": "CIMAHI",
+  "name": "KANANGA",
+  "postalCode": "45582"
  },
  {
   "id": 3208081009,
   "districtId": 3208081,
-  "name": "CIKEUSAL"
+  "districtName": "CIMAHI",
+  "name": "CIKEUSAL",
+  "postalCode": "45582"
  },
  {
   "id": 3208081010,
   "districtId": 3208081,
-  "name": "MULYAJAYA"
+  "districtName": "CIMAHI",
+  "name": "MULYAJAYA",
+  "postalCode": "44172"
  },
  {
   "id": 3208081011,
   "districtId": 3208081,
-  "name": "SUKAJAYA"
+  "districtName": "CIMAHI",
+  "name": "SUKAJAYA",
+  "postalCode": "30756"
  },
  {
   "id": 3208081012,
   "districtId": 3208081,
-  "name": "MEKARJAYA"
+  "districtName": "CIMAHI",
+  "name": "MEKARJAYA",
+  "postalCode": "30653"
  }
 ]

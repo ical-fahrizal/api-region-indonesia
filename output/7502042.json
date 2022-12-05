@@ -2,76 +2,106 @@
  {
   "id": 7502042001,
   "districtId": 7502042,
-  "name": "GANDASARI"
+  "districtName": "TOLANGOHULA",
+  "name": "GANDASARI",
+  "postalCode": "17530"
  },
  {
   "id": 7502042002,
   "districtId": 7502042,
-  "name": "SUKAMAKMUR"
+  "districtName": "TOLANGOHULA",
+  "name": "SUKAMAKMUR",
+  "postalCode": "21128"
  },
  {
   "id": 7502042003,
   "districtId": 7502042,
-  "name": "MOLOHU"
+  "districtName": "TOLANGOHULA",
+  "name": "MOLOHU",
+  "postalCode": "96214"
  },
  {
   "id": 7502042004,
   "districtId": 7502042,
-  "name": "LAKEYA"
+  "districtName": "TOLANGOHULA",
+  "name": "LAKEYA",
+  "postalCode": "96214"
  },
  {
   "id": 7502042007,
   "districtId": 7502042,
-  "name": "POLOHUNGO"
+  "districtName": "TOLANGOHULA",
+  "name": "POLOHUNGO",
+  "postalCode": "96263"
  },
  {
   "id": 7502042008,
   "districtId": 7502042,
-  "name": "BINA JAYA"
+  "districtName": "TOLANGOHULA",
+  "name": "BINA JAYA",
+  "postalCode": "79672"
  },
  {
   "id": 7502042009,
   "districtId": 7502042,
-  "name": "TAMAILA"
+  "districtName": "TOLANGOHULA",
+  "name": "TAMAILA",
+  "postalCode": "96214"
  },
  {
   "id": 7502042010,
   "districtId": 7502042,
-  "name": "SIDOARJO"
+  "districtName": "TOLANGOHULA",
+  "name": "SIDOARJO",
+  "postalCode": "34764"
  },
  {
   "id": 7502042013,
   "districtId": 7502042,
-  "name": "SUKAMAKMUR UTARA"
+  "districtName": "TOLANGOHULA",
+  "name": "SUKAMAKMUR UTARA",
+  "postalCode": "96214"
  },
  {
   "id": 7502042014,
   "districtId": 7502042,
-  "name": "MARGOMULYA"
+  "districtName": "TOLANGOHULA",
+  "name": "MARGOMULYA",
+  "postalCode": ""
  },
  {
   "id": 7502042015,
   "districtId": 7502042,
-  "name": "MAKMUR ABADI"
+  "districtName": "TOLANGOHULA",
+  "name": "MAKMUR ABADI",
+  "postalCode": "78874"
  },
  {
   "id": 7502042016,
   "districtId": 7502042,
-  "name": "GANDARIA"
+  "districtName": "TOLANGOHULA",
+  "name": "GANDARIA",
+  "postalCode": "70565"
  },
  {
   "id": 7502042017,
   "districtId": 7502042,
-  "name": "OMBULO TANGO"
+  "districtName": "TOLANGOHULA",
+  "name": "OMBULO TANGO",
+  "postalCode": "96214"
  },
  {
   "id": 7502042018,
   "districtId": 7502042,
-  "name": "TAMAILA UTARA"
+  "districtName": "TOLANGOHULA",
+  "name": "TAMAILA UTARA",
+  "postalCode": ""
  },
  {
   "id": 7502042019,
   "districtId": 7502042,
-  "name": "HIMALAYA"
+  "districtName": "TOLANGOHULA",
+  "name": "HIMALAYA",
+  "postalCode": "96214"
  }
 ]

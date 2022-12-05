@@ -2,116 +2,162 @@
  {
   "id": 1103080001,
   "districtId": 1103080,
-  "name": "ALUE MEUTUAH"
+  "districtName": "MEUKEK",
+  "name": "ALUE MEUTUAH",
+  "postalCode": "23754"
  },
  {
   "id": 1103080002,
   "districtId": 1103080,
-  "name": "LHOK AMAN"
+  "districtName": "MEUKEK",
+  "name": "LHOK AMAN",
+  "postalCode": "23754"
  },
  {
   "id": 1103080003,
   "districtId": 1103080,
-  "name": "LADANG BARO"
+  "districtName": "MEUKEK",
+  "name": "LADANG BARO",
+  "postalCode": "23662"
  },
  {
   "id": 1103080004,
   "districtId": 1103080,
-  "name": "LABUHAN TAROK"
+  "districtName": "MEUKEK",
+  "name": "LABUHAN TAROK",
+  "postalCode": "23754"
  },
  {
   "id": 1103080005,
   "districtId": 1103080,
-  "name": "TANJUNG HARAPAN"
+  "districtName": "MEUKEK",
+  "name": "TANJUNG HARAPAN",
+  "postalCode": "23754"
  },
  {
   "id": 1103080006,
   "districtId": 1103080,
-  "name": "KUTA BARO"
+  "districtName": "MEUKEK",
+  "name": "KUTA BARO",
+  "postalCode": "24261"
  },
  {
   "id": 1103080007,
   "districtId": 1103080,
-  "name": "KEUDE MEUKEK"
+  "districtName": "MEUKEK",
+  "name": "KEUDE MEUKEK",
+  "postalCode": "23754"
  },
  {
   "id": 1103080008,
   "districtId": 1103080,
-  "name": "ARON TUNGGAI"
+  "districtName": "MEUKEK",
+  "name": "ARON TUNGGAI",
+  "postalCode": ""
  },
  {
   "id": 1103080009,
   "districtId": 1103080,
-  "name": "BLANG BLADEH"
+  "districtName": "MEUKEK",
+  "name": "BLANG BLADEH",
+  "postalCode": "24251"
  },
  {
   "id": 1103080010,
   "districtId": 1103080,
-  "name": "BLANG TEUNGOH"
+  "districtName": "MEUKEK",
+  "name": "BLANG TEUNGOH",
+  "postalCode": "23661"
  },
  {
   "id": 1103080011,
   "districtId": 1103080,
-  "name": "IE BUBOH"
+  "districtName": "MEUKEK",
+  "name": "IE BUBOH",
+  "postalCode": ""
  },
  {
   "id": 1103080012,
   "districtId": 1103080,
-  "name": "KUTA BULOH II"
+  "districtName": "MEUKEK",
+  "name": "KUTA BULOH II",
+  "postalCode": "23754"
  },
  {
   "id": 1103080013,
   "districtId": 1103080,
-  "name": "KUTA BULOH I"
+  "districtName": "MEUKEK",
+  "name": "KUTA BULOH I",
+  "postalCode": "23754"
  },
  {
   "id": 1103080014,
   "districtId": 1103080,
-  "name": "IE DINGEN"
+  "districtName": "MEUKEK",
+  "name": "IE DINGEN",
+  "postalCode": ""
  },
  {
   "id": 1103080015,
   "districtId": 1103080,
-  "name": "DRIEN JALO"
+  "districtName": "MEUKEK",
+  "name": "DRIEN JALO",
+  "postalCode": "23754"
  },
  {
   "id": 1103080016,
   "districtId": 1103080,
-  "name": "JAMBO PAPEUN"
+  "districtName": "MEUKEK",
+  "name": "JAMBO PAPEUN",
+  "postalCode": "23754"
  },
  {
   "id": 1103080017,
   "districtId": 1103080,
-  "name": "BUKET MEUH"
+  "districtName": "MEUKEK",
+  "name": "BUKET MEUH",
+  "postalCode": "23754"
  },
  {
   "id": 1103080018,
   "districtId": 1103080,
-  "name": "ALUE BARO"
+  "districtName": "MEUKEK",
+  "name": "ALUE BARO",
+  "postalCode": "23754"
  },
  {
   "id": 1103080019,
   "districtId": 1103080,
-  "name": "ROT TEUNGOH"
+  "districtName": "MEUKEK",
+  "name": "ROT TEUNGOH",
+  "postalCode": "23754"
  },
  {
   "id": 1103080020,
   "districtId": 1103080,
-  "name": "BLANG KUALA"
+  "districtName": "MEUKEK",
+  "name": "BLANG KUALA",
+  "postalCode": "23754"
  },
  {
   "id": 1103080021,
   "districtId": 1103080,
-  "name": "LADANG TUHA"
+  "districtName": "MEUKEK",
+  "name": "LADANG TUHA",
+  "postalCode": "23754"
  },
  {
   "id": 1103080022,
   "districtId": 1103080,
-  "name": "LHOK MAMPLAM"
+  "districtName": "MEUKEK",
+  "name": "LHOK MAMPLAM",
+  "postalCode": "23754"
  },
  {
   "id": 1103080023,
   "districtId": 1103080,
-  "name": "LABUHAN TAROK II"
+  "districtName": "MEUKEK",
+  "name": "LABUHAN TAROK II",
+  "postalCode": "23754"
  }
 ]

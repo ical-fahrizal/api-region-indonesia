@@ -2,66 +2,92 @@
  {
   "id": 7405040017,
   "districtId": 7405040,
-  "name": "LALONGGOMBU"
+  "districtName": "LAINEA",
+  "name": "LALONGGOMBU",
+  "postalCode": "93813"
  },
  {
   "id": 7405040018,
   "districtId": 7405040,
-  "name": "AOREO"
+  "districtName": "LAINEA",
+  "name": "AOREO",
+  "postalCode": "93881"
  },
  {
   "id": 7405040019,
   "districtId": 7405040,
-  "name": "WATUMEETO"
+  "districtName": "LAINEA",
+  "name": "WATUMEETO",
+  "postalCode": "93881"
  },
  {
   "id": 7405040020,
   "districtId": 7405040,
-  "name": "PANGAN JAYA"
+  "districtName": "LAINEA",
+  "name": "PANGAN JAYA",
+  "postalCode": "93881"
  },
  {
   "id": 7405040021,
   "districtId": 7405040,
-  "name": "PAMANDATI"
+  "districtName": "LAINEA",
+  "name": "PAMANDATI",
+  "postalCode": "93881"
  },
  {
   "id": 7405040022,
   "districtId": 7405040,
-  "name": "KAINDI"
+  "districtName": "LAINEA",
+  "name": "KAINDI",
+  "postalCode": "93881"
  },
  {
   "id": 7405040023,
   "districtId": 7405040,
-  "name": "LAINEA"
+  "districtName": "LAINEA",
+  "name": "LAINEA",
+  "postalCode": "93881"
  },
  {
   "id": 7405040024,
   "districtId": 7405040,
-  "name": "MATABUBU JAYA"
+  "districtName": "LAINEA",
+  "name": "MATABUBU JAYA",
+  "postalCode": "93881"
  },
  {
   "id": 7405040025,
   "districtId": 7405040,
-  "name": "MOLINESE"
+  "districtName": "LAINEA",
+  "name": "MOLINESE",
+  "postalCode": "93881"
  },
  {
   "id": 7405040026,
   "districtId": 7405040,
-  "name": "POLEWALI"
+  "districtName": "LAINEA",
+  "name": "POLEWALI",
+  "postalCode": "94974"
  },
  {
   "id": 7405040027,
   "districtId": 7405040,
-  "name": "BANGUN JAYA"
+  "districtName": "LAINEA",
+  "name": "BANGUN JAYA",
+  "postalCode": "28558"
  },
  {
   "id": 7405040028,
   "districtId": 7405040,
-  "name": "KALO-KALO"
+  "districtName": "LAINEA",
+  "name": "KALO-KALO",
+  "postalCode": "93881"
  },
  {
   "id": 7405040029,
   "districtId": 7405040,
-  "name": "NGAPA JAYA"
+  "districtName": "LAINEA",
+  "name": "NGAPA JAYA",
+  "postalCode": ""
  }
 ]

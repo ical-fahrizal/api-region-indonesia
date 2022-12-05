@@ -2,86 +2,120 @@
  {
   "id": 1202070001,
   "districtId": 1202070,
-  "name": "RANTAU PANJANG"
+  "districtName": "MUARA BATANG GADIS",
+  "name": "RANTAU PANJANG",
+  "postalCode": "24476"
  },
  {
   "id": 1202070002,
   "districtId": 1202070,
-  "name": "MANUNCANG"
+  "districtName": "MUARA BATANG GADIS",
+  "name": "MANUNCANG",
+  "postalCode": "22989"
  },
  {
   "id": 1202070003,
   "districtId": 1202070,
-  "name": "LUBUK KAPUNDUNG"
+  "districtName": "MUARA BATANG GADIS",
+  "name": "LUBUK KAPUNDUNG",
+  "postalCode": "22989"
  },
  {
   "id": 1202070004,
   "districtId": 1202070,
-  "name": "HUTAIMBARU"
+  "districtName": "MUARA BATANG GADIS",
+  "name": "HUTAIMBARU",
+  "postalCode": "22753"
  },
  {
   "id": 1202070005,
   "districtId": 1202070,
-  "name": "PANUNGGULAN"
+  "districtName": "MUARA BATANG GADIS",
+  "name": "PANUNGGULAN",
+  "postalCode": "22989"
  },
  {
   "id": 1202070006,
   "districtId": 1202070,
-  "name": "TABUYUNG"
+  "districtName": "MUARA BATANG GADIS",
+  "name": "TABUYUNG",
+  "postalCode": "22989"
  },
  {
   "id": 1202070007,
   "districtId": 1202070,
-  "name": "PASAR II SINGKUANG"
+  "districtName": "MUARA BATANG GADIS",
+  "name": "PASAR II SINGKUANG",
+  "postalCode": "22989"
  },
  {
   "id": 1202070008,
   "districtId": 1202070,
-  "name": "PASAR I SINGKUANG"
+  "districtName": "MUARA BATANG GADIS",
+  "name": "PASAR I SINGKUANG",
+  "postalCode": ""
  },
  {
   "id": 1202070009,
   "districtId": 1202070,
-  "name": "SIKAPAS"
+  "districtName": "MUARA BATANG GADIS",
+  "name": "SIKAPAS",
+  "postalCode": "22989"
  },
  {
   "id": 1202070010,
   "districtId": 1202070,
-  "name": "BATU MUNDOM"
+  "districtName": "MUARA BATANG GADIS",
+  "name": "BATU MUNDOM",
+  "postalCode": ""
  },
  {
   "id": 1202070011,
   "districtId": 1202070,
-  "name": "TAGILANG JULU"
+  "districtName": "MUARA BATANG GADIS",
+  "name": "TAGILANG JULU",
+  "postalCode": "22989"
  },
  {
   "id": 1202070012,
   "districtId": 1202070,
-  "name": "SALI BARU"
+  "districtName": "MUARA BATANG GADIS",
+  "name": "SALI BARU",
+  "postalCode": ""
  },
  {
   "id": 1202070013,
   "districtId": 1202070,
-  "name": "SUKA MAJU"
+  "districtName": "MUARA BATANG GADIS",
+  "name": "SUKA MAJU",
+  "postalCode": "24673"
  },
  {
   "id": 1202070014,
   "districtId": 1202070,
-  "name": "LUBUK KAPUNDUNG II"
+  "districtName": "MUARA BATANG GADIS",
+  "name": "LUBUK KAPUNDUNG II",
+  "postalCode": "22989"
  },
  {
   "id": 1202070015,
   "districtId": 1202070,
-  "name": "UPT TABUYUNG"
+  "districtName": "MUARA BATANG GADIS",
+  "name": "UPT TABUYUNG",
+  "postalCode": ""
  },
  {
   "id": 1202070016,
   "districtId": 1202070,
-  "name": "UPT SINGKUANG II"
+  "districtName": "MUARA BATANG GADIS",
+  "name": "UPT SINGKUANG II",
+  "postalCode": ""
  },
  {
   "id": 1202070017,
   "districtId": 1202070,
-  "name": "UPT SINGKUANG I"
+  "districtName": "MUARA BATANG GADIS",
+  "name": "UPT SINGKUANG I",
+  "postalCode": ""
  }
 ]

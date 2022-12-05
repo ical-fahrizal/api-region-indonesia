@@ -2,81 +2,113 @@
  {
   "id": 3306040001,
   "districtId": 3306040,
-  "name": "DADIREJO"
+  "districtName": "BAGELEN",
+  "name": "DADIREJO",
+  "postalCode": "35686"
  },
  {
   "id": 3306040002,
   "districtId": 3306040,
-  "name": "BAPANGSARI"
+  "districtName": "BAGELEN",
+  "name": "BAPANGSARI",
+  "postalCode": "54174"
  },
  {
   "id": 3306040003,
   "districtId": 3306040,
-  "name": "TLOGOKOTES"
+  "districtName": "BAGELEN",
+  "name": "TLOGOKOTES",
+  "postalCode": "54174"
  },
  {
   "id": 3306040004,
   "districtId": 3306040,
-  "name": "SOMOREJO"
+  "districtName": "BAGELEN",
+  "name": "SOMOREJO",
+  "postalCode": "54174"
  },
  {
   "id": 3306040005,
   "districtId": 3306040,
-  "name": "KRENDETAN"
+  "districtName": "BAGELEN",
+  "name": "KRENDETAN",
+  "postalCode": "54174"
  },
  {
   "id": 3306040007,
   "districtId": 3306040,
-  "name": "BAGELEN"
+  "districtName": "BAGELEN",
+  "name": "BAGELEN",
+  "postalCode": "20634"
  },
  {
   "id": 3306040008,
   "districtId": 3306040,
-  "name": "KALIREJO"
+  "districtName": "BAGELEN",
+  "name": "KALIREJO",
+  "postalCode": "35353"
  },
  {
   "id": 3306040009,
   "districtId": 3306040,
-  "name": "HARGOROJO"
+  "districtName": "BAGELEN",
+  "name": "HARGOROJO",
+  "postalCode": "54174"
  },
  {
   "id": 3306040010,
   "districtId": 3306040,
-  "name": "DURENSARI"
+  "districtName": "BAGELEN",
+  "name": "DURENSARI",
+  "postalCode": "54174"
  },
  {
   "id": 3306040011,
   "districtId": 3306040,
-  "name": "SOKOAGUNG"
+  "districtName": "BAGELEN",
+  "name": "SOKOAGUNG",
+  "postalCode": "54174"
  },
  {
   "id": 3306040012,
   "districtId": 3306040,
-  "name": "SEMONO"
+  "districtName": "BAGELEN",
+  "name": "SEMONO",
+  "postalCode": "54174"
  },
  {
   "id": 3306040013,
   "districtId": 3306040,
-  "name": "SEMAGUNG"
+  "districtName": "BAGELEN",
+  "name": "SEMAGUNG",
+  "postalCode": "54174"
  },
  {
   "id": 3306040014,
   "districtId": 3306040,
-  "name": "CLAPAR"
+  "districtName": "BAGELEN",
+  "name": "CLAPAR",
+  "postalCode": "54174"
  },
  {
   "id": 3306040015,
   "districtId": 3306040,
-  "name": "SOKO"
+  "districtName": "BAGELEN",
+  "name": "SOKO",
+  "postalCode": "54174"
  },
  {
   "id": 3306040016,
   "districtId": 3306040,
-  "name": "PIJI"
+  "districtName": "BAGELEN",
+  "name": "PIJI",
+  "postalCode": "54174"
  },
  {
   "id": 3306040017,
   "districtId": 3306040,
-  "name": "KEMANUKAN"
+  "districtName": "BAGELEN",
+  "name": "KEMANUKAN",
+  "postalCode": "54174"
  }
 ]

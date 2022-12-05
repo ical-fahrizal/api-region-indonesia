@@ -2,51 +2,71 @@
  {
   "id": 1224070001,
   "districtId": 1224070,
-  "name": "OMBOLATA SAWO"
+  "districtName": "SAWO",
+  "name": "OMBOLATA SAWO",
+  "postalCode": "22852"
  },
  {
   "id": 1224070002,
   "districtId": 1224070,
-  "name": "SANAWUYU"
+  "districtName": "SAWO",
+  "name": "SANAWUYU",
+  "postalCode": "22852"
  },
  {
   "id": 1224070003,
   "districtId": 1224070,
-  "name": "ONOZITOLI SAWO"
+  "districtName": "SAWO",
+  "name": "ONOZITOLI SAWO",
+  "postalCode": "22852"
  },
  {
   "id": 1224070004,
   "districtId": 1224070,
-  "name": "HILIDURUWA"
+  "districtName": "SAWO",
+  "name": "HILIDURUWA",
+  "postalCode": "22852"
  },
  {
   "id": 1224070005,
   "districtId": 1224070,
-  "name": "TELUK BENGKUANG"
+  "districtName": "SAWO",
+  "name": "TELUK BENGKUANG",
+  "postalCode": "22852"
  },
  {
   "id": 1224070006,
   "districtId": 1224070,
-  "name": "SERIWAU"
+  "districtName": "SAWO",
+  "name": "SERIWAU",
+  "postalCode": "22852"
  },
  {
   "id": 1224070007,
   "districtId": 1224070,
-  "name": "SAWO"
+  "districtName": "SAWO",
+  "name": "SAWO",
+  "postalCode": "22852"
  },
  {
   "id": 1224070008,
   "districtId": 1224070,
-  "name": "LASARA SAWO"
+  "districtName": "SAWO",
+  "name": "LASARA SAWO",
+  "postalCode": "22852"
  },
  {
   "id": 1224070009,
   "districtId": 1224070,
-  "name": "SISARAHILI TELUK SIABANG"
+  "districtName": "SAWO",
+  "name": "SISARAHILI TELUK SIABANG",
+  "postalCode": "22852"
  },
  {
   "id": 1224070010,
   "districtId": 1224070,
-  "name": "SIFAHANDRO"
+  "districtName": "SAWO",
+  "name": "SIFAHANDRO",
+  "postalCode": "22852"
  }
 ]

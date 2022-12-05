@@ -2,16 +2,22 @@
  {
   "id": 6571040001,
   "districtId": 6571040,
-  "name": "JUATA PERMAI"
+  "districtName": "TARAKAN UTARA",
+  "name": "JUATA PERMAI",
+  "postalCode": "77116"
  },
  {
   "id": 6571040002,
   "districtId": 6571040,
-  "name": "JUATA KERIKIL"
+  "districtName": "TARAKAN UTARA",
+  "name": "JUATA KERIKIL",
+  "postalCode": ""
  },
  {
   "id": 6571040003,
   "districtId": 6571040,
-  "name": "JUATA LAUT"
+  "districtName": "TARAKAN UTARA",
+  "name": "JUATA LAUT",
+  "postalCode": "77116"
  }
 ]

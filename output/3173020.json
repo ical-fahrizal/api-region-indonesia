@@ -2,21 +2,29 @@
  {
   "id": 3173020002,
   "districtId": 3173020,
-  "name": "PEGANGSAAN"
+  "districtName": "MENTENG",
+  "name": "PEGANGSAAN",
+  "postalCode": "10320"
  },
  {
   "id": 3173020003,
   "districtId": 3173020,
-  "name": "CIKINI"
+  "districtName": "MENTENG",
+  "name": "CIKINI",
+  "postalCode": "10330"
  },
  {
   "id": 3173020004,
   "districtId": 3173020,
-  "name": "GONDANGDIA"
+  "districtName": "MENTENG",
+  "name": "GONDANGDIA",
+  "postalCode": "10350"
  },
  {
   "id": 3173020005,
   "districtId": 3173020,
-  "name": "KEBON SIRIH"
+  "districtName": "MENTENG",
+  "name": "KEBON SIRIH",
+  "postalCode": "10340"
  }
 ]

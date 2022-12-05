@@ -2,46 +2,64 @@
  {
   "id": 1406030002,
   "districtId": 1406030,
-  "name": "KUOK"
+  "districtName": "KUOK",
+  "name": "KUOK",
+  "postalCode": "28463"
  },
  {
   "id": 1406030003,
   "districtId": 1406030,
-  "name": "MERANGIN"
+  "districtName": "KUOK",
+  "name": "MERANGIN",
+  "postalCode": "28463"
  },
  {
   "id": 1406030004,
   "districtId": 1406030,
-  "name": "EMPAT BALAI"
+  "districtName": "KUOK",
+  "name": "EMPAT BALAI",
+  "postalCode": "28463"
  },
  {
   "id": 1406030005,
   "districtId": 1406030,
-  "name": "PULAU JAMBU"
+  "districtName": "KUOK",
+  "name": "PULAU JAMBU",
+  "postalCode": "29555"
  },
  {
   "id": 1406030008,
   "districtId": 1406030,
-  "name": "SILAM"
+  "districtName": "KUOK",
+  "name": "SILAM",
+  "postalCode": "28463"
  },
  {
   "id": 1406030009,
   "districtId": 1406030,
-  "name": "BUKIT MELINTANG"
+  "districtName": "KUOK",
+  "name": "BUKIT MELINTANG",
+  "postalCode": "20851"
  },
  {
   "id": 1406030010,
   "districtId": 1406030,
-  "name": "LERENG"
+  "districtName": "KUOK",
+  "name": "LERENG",
+  "postalCode": "28463"
  },
  {
   "id": 1406030011,
   "districtId": 1406030,
-  "name": "PULAU TERAP"
+  "districtName": "KUOK",
+  "name": "PULAU TERAP",
+  "postalCode": ""
  },
  {
   "id": 1406030012,
   "districtId": 1406030,
-  "name": "BATU LANGKA KECIL"
+  "districtName": "KUOK",
+  "name": "BATU LANGKA KECIL",
+  "postalCode": ""
  }
 ]

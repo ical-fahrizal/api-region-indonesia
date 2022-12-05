@@ -2,51 +2,71 @@
  {
   "id": 9430050003,
   "districtId": 9430050,
-  "name": "WUPAGA"
+  "districtName": "KUYAWAGE",
+  "name": "WUPAGA",
+  "postalCode": "99563"
  },
  {
   "id": 9430050004,
   "districtId": 9430050,
-  "name": "KUYAWAGE"
+  "districtName": "KUYAWAGE",
+  "name": "KUYAWAGE",
+  "postalCode": "99563"
  },
  {
   "id": 9430050005,
   "districtId": 9430050,
-  "name": "WAMITU"
+  "districtName": "KUYAWAGE",
+  "name": "WAMITU",
+  "postalCode": "99563"
  },
  {
   "id": 9430050006,
   "districtId": 9430050,
-  "name": "LUAREN"
+  "districtName": "KUYAWAGE",
+  "name": "LUAREN",
+  "postalCode": "99564"
  },
  {
   "id": 9430050007,
   "districtId": 9430050,
-  "name": "TIMOTANI"
+  "districtName": "KUYAWAGE",
+  "name": "TIMOTANI",
+  "postalCode": ""
  },
  {
   "id": 9430050008,
   "districtId": 9430050,
-  "name": "KUNGGANERI"
+  "districtName": "KUYAWAGE",
+  "name": "KUNGGANERI",
+  "postalCode": ""
  },
  {
   "id": 9430050009,
   "districtId": 9430050,
-  "name": "GWILONIK"
+  "districtName": "KUYAWAGE",
+  "name": "GWILONIK",
+  "postalCode": ""
  },
  {
   "id": 9430050011,
   "districtId": 9430050,
-  "name": "PEKO"
+  "districtName": "KUYAWAGE",
+  "name": "PEKO",
+  "postalCode": ""
  },
  {
   "id": 9430050013,
   "districtId": 9430050,
-  "name": "UWOME"
+  "districtName": "KUYAWAGE",
+  "name": "UWOME",
+  "postalCode": ""
  },
  {
   "id": 9430050014,
   "districtId": 9430050,
-  "name": "YUGUNOMBA"
+  "districtName": "KUYAWAGE",
+  "name": "YUGUNOMBA",
+  "postalCode": ""
  }
 ]

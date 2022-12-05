@@ -2,81 +2,113 @@
  {
   "id": 3324060001,
   "districtId": 3324060,
-  "name": "KEDUNGBOTO"
+  "districtName": "LIMBANGAN",
+  "name": "KEDUNGBOTO",
+  "postalCode": "51383"
  },
  {
   "id": 3324060002,
   "districtId": 3324060,
-  "name": "PERON"
+  "districtName": "LIMBANGAN",
+  "name": "PERON",
+  "postalCode": "51383"
  },
  {
   "id": 3324060003,
   "districtId": 3324060,
-  "name": "GONDANG"
+  "districtName": "LIMBANGAN",
+  "name": "GONDANG",
+  "postalCode": "51255"
  },
  {
   "id": 3324060004,
   "districtId": 3324060,
-  "name": "PAKIS"
+  "districtName": "LIMBANGAN",
+  "name": "PAKIS",
+  "postalCode": "50772"
  },
  {
   "id": 3324060005,
   "districtId": 3324060,
-  "name": "SUMBER RAHAYU"
+  "districtName": "LIMBANGAN",
+  "name": "SUMBER RAHAYU",
+  "postalCode": "32383"
  },
  {
   "id": 3324060006,
   "districtId": 3324060,
-  "name": "TAMBAHSARI"
+  "districtName": "LIMBANGAN",
+  "name": "TAMBAHSARI",
+  "postalCode": "51383"
  },
  {
   "id": 3324060007,
   "districtId": 3324060,
-  "name": "LIMBANGAN"
+  "districtName": "LIMBANGAN",
+  "name": "LIMBANGAN",
+  "postalCode": "45282"
  },
  {
   "id": 3324060008,
   "districtId": 3324060,
-  "name": "PAGERTOYO"
+  "districtName": "LIMBANGAN",
+  "name": "PAGERTOYO",
+  "postalCode": "51383"
  },
  {
   "id": 3324060009,
   "districtId": 3324060,
-  "name": "SRIWULAN"
+  "districtName": "LIMBANGAN",
+  "name": "SRIWULAN",
+  "postalCode": "51383"
  },
  {
   "id": 3324060010,
   "districtId": 3324060,
-  "name": "TABET"
+  "districtName": "LIMBANGAN",
+  "name": "TABET",
+  "postalCode": "51383"
  },
  {
   "id": 3324060011,
   "districtId": 3324060,
-  "name": "NGESREPBALONG"
+  "districtName": "LIMBANGAN",
+  "name": "NGESREPBALONG",
+  "postalCode": "51383"
  },
  {
   "id": 3324060012,
   "districtId": 3324060,
-  "name": "GONOHARJO"
+  "districtName": "LIMBANGAN",
+  "name": "GONOHARJO",
+  "postalCode": "51383"
  },
  {
   "id": 3324060013,
   "districtId": 3324060,
-  "name": "JAWISARI"
+  "districtName": "LIMBANGAN",
+  "name": "JAWISARI",
+  "postalCode": "51383"
  },
  {
   "id": 3324060014,
   "districtId": 3324060,
-  "name": "MARGOSARI"
+  "districtName": "LIMBANGAN",
+  "name": "MARGOSARI",
+  "postalCode": "35376"
  },
  {
   "id": 3324060015,
   "districtId": 3324060,
-  "name": "TAMANREJO"
+  "districtName": "LIMBANGAN",
+  "name": "TAMANREJO",
+  "postalCode": "51383"
  },
  {
   "id": 3324060016,
   "districtId": 3324060,
-  "name": "PAGERWOJO"
+  "districtName": "LIMBANGAN",
+  "name": "PAGERWOJO",
+  "postalCode": "51383"
  }
 ]

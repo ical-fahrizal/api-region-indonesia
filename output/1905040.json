@@ -2,46 +2,64 @@
  {
   "id": 1905040001,
   "districtId": 1905040,
-  "name": "PERGAM"
+  "districtName": "AIR GEGAS",
+  "name": "PERGAM",
+  "postalCode": "28781"
  },
  {
   "id": 1905040002,
   "districtId": 1905040,
-  "name": "BENCAH"
+  "districtName": "AIR GEGAS",
+  "name": "BENCAH",
+  "postalCode": "33782"
  },
  {
   "id": 1905040004,
   "districtId": 1905040,
-  "name": "AIRGEGAS"
+  "districtName": "AIR GEGAS",
+  "name": "AIRGEGAS",
+  "postalCode": ""
  },
  {
   "id": 1905040005,
   "districtId": 1905040,
-  "name": "DELAS"
+  "districtName": "AIR GEGAS",
+  "name": "DELAS",
+  "postalCode": "33782"
  },
  {
   "id": 1905040006,
   "districtId": 1905040,
-  "name": "SIDOHARJO"
+  "districtName": "AIR GEGAS",
+  "name": "SIDOHARJO",
+  "postalCode": "30975"
  },
  {
   "id": 1905040007,
   "districtId": 1905040,
-  "name": "NYELANDING"
+  "districtName": "AIR GEGAS",
+  "name": "NYELANDING",
+  "postalCode": "33782"
  },
  {
   "id": 1905040008,
   "districtId": 1905040,
-  "name": "NANGKA"
+  "districtName": "AIR GEGAS",
+  "name": "NANGKA",
+  "postalCode": "20742"
  },
  {
   "id": 1905040009,
   "districtId": 1905040,
-  "name": "RANGGAS"
+  "districtName": "AIR GEGAS",
+  "name": "RANGGAS",
+  "postalCode": "33782"
  },
  {
   "id": 1905040010,
   "districtId": 1905040,
-  "name": "AIR BARA"
+  "districtName": "AIR GEGAS",
+  "name": "AIR BARA",
+  "postalCode": "33782"
  }
 ]

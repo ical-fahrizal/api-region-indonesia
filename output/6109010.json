@@ -2,61 +2,85 @@
  {
   "id": 6109010001,
   "districtId": 6109010,
-  "name": "LANDAU APIN"
+  "districtName": "NANGA MAHAP",
+  "name": "LANDAU APIN",
+  "postalCode": "79585"
  },
  {
   "id": 6109010002,
   "districtId": 6109010,
-  "name": "TELUK KEBAU"
+  "districtName": "NANGA MAHAP",
+  "name": "TELUK KEBAU",
+  "postalCode": "79585"
  },
  {
   "id": 6109010003,
   "districtId": 6109010,
-  "name": "LEMBAH BERINGIN"
+  "districtName": "NANGA MAHAP",
+  "name": "LEMBAH BERINGIN",
+  "postalCode": "79585"
  },
  {
   "id": 6109010004,
   "districtId": 6109010,
-  "name": "KARANG BETUNG"
+  "districtName": "NANGA MAHAP",
+  "name": "KARANG BETUNG",
+  "postalCode": "79585"
  },
  {
   "id": 6109010005,
   "districtId": 6109010,
-  "name": "SEBABAS"
+  "districtName": "NANGA MAHAP",
+  "name": "SEBABAS",
+  "postalCode": ""
  },
  {
   "id": 6109010006,
   "districtId": 6109010,
-  "name": "NANGA SURI"
+  "districtName": "NANGA MAHAP",
+  "name": "NANGA SURI",
+  "postalCode": "79585"
  },
  {
   "id": 6109010007,
   "districtId": 6109010,
-  "name": "NANGA MAHAP"
+  "districtName": "NANGA MAHAP",
+  "name": "NANGA MAHAP",
+  "postalCode": "79585"
  },
  {
   "id": 6109010008,
   "districtId": 6109010,
-  "name": "BATU PAHAT"
+  "districtName": "NANGA MAHAP",
+  "name": "BATU PAHAT",
+  "postalCode": "79585"
  },
  {
   "id": 6109010009,
   "districtId": 6109010,
-  "name": "LANDAU KUMPAI"
+  "districtName": "NANGA MAHAP",
+  "name": "LANDAU KUMPAI",
+  "postalCode": "79585"
  },
  {
   "id": 6109010010,
   "districtId": 6109010,
-  "name": "TEMBAGA"
+  "districtName": "NANGA MAHAP",
+  "name": "TEMBAGA",
+  "postalCode": "79585"
  },
  {
   "id": 6109010011,
   "districtId": 6109010,
-  "name": "CENAYAN"
+  "districtName": "NANGA MAHAP",
+  "name": "CENAYAN",
+  "postalCode": "79585"
  },
  {
   "id": 6109010013,
   "districtId": 6109010,
-  "name": "TAMANG"
+  "districtName": "NANGA MAHAP",
+  "name": "TAMANG",
+  "postalCode": "79585"
  }
 ]

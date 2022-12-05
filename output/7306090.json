@@ -2,41 +2,57 @@
  {
   "id": 7306090005,
   "districtId": 7306090,
-  "name": "GARING"
+  "districtName": "TOMPOBULU",
+  "name": "GARING",
+  "postalCode": "92175"
  },
  {
   "id": 7306090006,
   "districtId": 7306090,
-  "name": "BONTOBUDDUNG"
+  "districtName": "TOMPOBULU",
+  "name": "BONTOBUDDUNG",
+  "postalCode": "92175"
  },
  {
   "id": 7306090007,
   "districtId": 7306090,
-  "name": "TANETE"
+  "districtName": "TOMPOBULU",
+  "name": "TANETE",
+  "postalCode": "91752"
  },
  {
   "id": 7306090008,
   "districtId": 7306090,
-  "name": "CIKORO"
+  "districtName": "TOMPOBULU",
+  "name": "CIKORO",
+  "postalCode": "92175"
  },
  {
   "id": 7306090009,
   "districtId": 7306090,
-  "name": "RAPPOLEMBA"
+  "districtName": "TOMPOBULU",
+  "name": "RAPPOLEMBA",
+  "postalCode": "92175"
  },
  {
   "id": 7306090010,
   "districtId": 7306090,
-  "name": "RAPPOALA"
+  "districtName": "TOMPOBULU",
+  "name": "RAPPOALA",
+  "postalCode": "92175"
  },
  {
   "id": 7306090011,
   "districtId": 7306090,
-  "name": "MALAKAJI"
+  "districtName": "TOMPOBULU",
+  "name": "MALAKAJI",
+  "postalCode": "92175"
  },
  {
   "id": 7306090012,
   "districtId": 7306090,
-  "name": "DATARA"
+  "districtName": "TOMPOBULU",
+  "name": "DATARA",
+  "postalCode": "92351"
  }
 ]

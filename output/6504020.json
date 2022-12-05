@@ -2,111 +2,155 @@
  {
   "id": 6504020009,
   "districtId": 6504020,
-  "name": "PA MATUNG"
+  "districtName": "KRAYAN",
+  "name": "PA MATUNG",
+  "postalCode": "77456"
  },
  {
   "id": 6504020010,
   "districtId": 6504020,
-  "name": "PA PUTUK"
+  "districtName": "KRAYAN",
+  "name": "PA PUTUK",
+  "postalCode": "77456"
  },
  {
   "id": 6504020011,
   "districtId": 6504020,
-  "name": "CINGLAT"
+  "districtName": "KRAYAN",
+  "name": "CINGLAT",
+  "postalCode": "77456"
  },
  {
   "id": 6504020020,
   "districtId": 6504020,
-  "name": "PA PADI"
+  "districtName": "KRAYAN",
+  "name": "PA PADI",
+  "postalCode": "77456"
  },
  {
   "id": 6504020021,
   "districtId": 6504020,
-  "name": "LIANG BIADUNG"
+  "districtName": "KRAYAN",
+  "name": "LIANG BIADUNG",
+  "postalCode": ""
  },
  {
   "id": 6504020022,
   "districtId": 6504020,
-  "name": "WA LAYA"
+  "districtName": "KRAYAN",
+  "name": "WA LAYA",
+  "postalCode": "77456"
  },
  {
   "id": 6504020023,
   "districtId": 6504020,
-  "name": "LONG MATUNG"
+  "districtName": "KRAYAN",
+  "name": "LONG MATUNG",
+  "postalCode": "77456"
  },
  {
   "id": 6504020024,
   "districtId": 6504020,
-  "name": "LONG RUPAN"
+  "districtName": "KRAYAN",
+  "name": "LONG RUPAN",
+  "postalCode": "77456"
  },
  {
   "id": 6504020025,
   "districtId": 6504020,
-  "name": "LONG KATUNG"
+  "districtName": "KRAYAN",
+  "name": "LONG KATUNG",
+  "postalCode": "77456"
  },
  {
   "id": 6504020028,
   "districtId": 6504020,
-  "name": "PA TERUTUN"
+  "districtName": "KRAYAN",
+  "name": "PA TERUTUN",
+  "postalCode": "77456"
  },
  {
   "id": 6504020029,
   "districtId": 6504020,
-  "name": "LONG BAWAN"
+  "districtName": "KRAYAN",
+  "name": "LONG BAWAN",
+  "postalCode": "77456"
  },
  {
   "id": 6504020033,
   "districtId": 6504020,
-  "name": "PA RUPAI"
+  "districtName": "KRAYAN",
+  "name": "PA RUPAI",
+  "postalCode": "77456"
  },
  {
   "id": 6504020035,
   "districtId": 6504020,
-  "name": "LONG NAWANG"
+  "districtName": "KRAYAN",
+  "name": "LONG NAWANG",
+  "postalCode": "77572"
  },
  {
   "id": 6504020040,
   "districtId": 6504020,
-  "name": "BUDUK KINANGAN"
+  "districtName": "KRAYAN",
+  "name": "BUDUK KINANGAN",
+  "postalCode": "77456"
  },
  {
   "id": 6504020041,
   "districtId": 6504020,
-  "name": "WA YANUD"
+  "districtName": "KRAYAN",
+  "name": "WA YANUD",
+  "postalCode": "77456"
  },
  {
   "id": 6504020053,
   "districtId": 6504020,
-  "name": "PA SIRE"
+  "districtName": "KRAYAN",
+  "name": "PA SIRE",
+  "postalCode": ""
  },
  {
   "id": 6504020057,
   "districtId": 6504020,
-  "name": "PA NADO"
+  "districtName": "KRAYAN",
+  "name": "PA NADO",
+  "postalCode": "77456"
  },
  {
   "id": 6504020058,
   "districtId": 6504020,
-  "name": "LIANG TUER"
+  "districtName": "KRAYAN",
+  "name": "LIANG TUER",
+  "postalCode": "77456"
  },
  {
   "id": 6504020059,
   "districtId": 6504020,
-  "name": "LONG API"
+  "districtName": "KRAYAN",
+  "name": "LONG API",
+  "postalCode": ""
  },
  {
   "id": 6504020060,
   "districtId": 6504020,
-  "name": "BA SIKOR"
+  "districtName": "KRAYAN",
+  "name": "BA SIKOR",
+  "postalCode": "77456"
  },
  {
   "id": 6504020061,
   "districtId": 6504020,
-  "name": "LONG BERAYANG"
+  "districtName": "KRAYAN",
+  "name": "LONG BERAYANG",
+  "postalCode": "77456"
  },
  {
   "id": 6504020063,
   "districtId": 6504020,
-  "name": "LIANG BUTAN"
+  "districtName": "KRAYAN",
+  "name": "LIANG BUTAN",
+  "postalCode": "77456"
  }
 ]

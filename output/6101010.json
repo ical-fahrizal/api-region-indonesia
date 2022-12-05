@@ -2,56 +2,78 @@
  {
   "id": 6101010001,
   "districtId": 6101010,
-  "name": "SEMELAGI BESAR"
+  "districtName": "SELAKAU",
+  "name": "SEMELAGI BESAR",
+  "postalCode": "79452"
  },
  {
   "id": 6101010002,
   "districtId": 6101010,
-  "name": "SUNGAI DAUN"
+  "districtName": "SELAKAU",
+  "name": "SUNGAI DAUN",
+  "postalCode": "28991"
  },
  {
   "id": 6101010003,
   "districtId": 6101010,
-  "name": "SUNGAI RUSA"
+  "districtName": "SELAKAU",
+  "name": "SUNGAI RUSA",
+  "postalCode": ""
  },
  {
   "id": 6101010004,
   "districtId": 6101010,
-  "name": "PANGKALAN BEMBAN"
+  "districtName": "SELAKAU",
+  "name": "PANGKALAN BEMBAN",
+  "postalCode": "79452"
  },
  {
   "id": 6101010005,
   "districtId": 6101010,
-  "name": "SUNGAI NYIRIH"
+  "districtName": "SELAKAU",
+  "name": "SUNGAI NYIRIH",
+  "postalCode": ""
  },
  {
   "id": 6101010006,
   "districtId": 6101010,
-  "name": "KUALA"
+  "districtName": "SELAKAU",
+  "name": "KUALA",
+  "postalCode": "24375"
  },
  {
   "id": 6101010007,
   "districtId": 6101010,
-  "name": "PARIT BARU"
+  "districtName": "SELAKAU",
+  "name": "PARIT BARU",
+  "postalCode": "28462"
  },
  {
   "id": 6101010008,
   "districtId": 6101010,
-  "name": "TWI MENTIBAR"
+  "districtName": "SELAKAU",
+  "name": "TWI MENTIBAR",
+  "postalCode": "79452"
  },
  {
   "id": 6101010009,
   "districtId": 6101010,
-  "name": "BENTUNAI"
+  "districtName": "SELAKAU",
+  "name": "BENTUNAI",
+  "postalCode": "79452"
  },
  {
   "id": 6101010010,
   "districtId": 6101010,
-  "name": "PARIT KONGSI"
+  "districtName": "SELAKAU",
+  "name": "PARIT KONGSI",
+  "postalCode": ""
  },
  {
   "id": 6101010011,
   "districtId": 6101010,
-  "name": "GAYUNG BERSAMBUT"
+  "districtName": "SELAKAU",
+  "name": "GAYUNG BERSAMBUT",
+  "postalCode": ""
  }
 ]

@@ -2,86 +2,120 @@
  {
   "id": 1401051001,
   "districtId": 1401051,
-  "name": "PEMBATANG"
+  "districtName": "PANGEAN",
+  "name": "PEMBATANG",
+  "postalCode": "29553"
  },
  {
   "id": 1401051002,
   "districtId": 1401051,
-  "name": "PADANG KUNIK"
+  "districtName": "PANGEAN",
+  "name": "PADANG KUNIK",
+  "postalCode": "29553"
  },
  {
   "id": 1401051003,
   "districtId": 1401051,
-  "name": "PADANG TANGGUNG"
+  "districtName": "PANGEAN",
+  "name": "PADANG TANGGUNG",
+  "postalCode": "29553"
  },
  {
   "id": 1401051004,
   "districtId": 1401051,
-  "name": "TELUK PAUH"
+  "districtName": "PANGEAN",
+  "name": "TELUK PAUH",
+  "postalCode": "29555"
  },
  {
   "id": 1401051005,
   "districtId": 1401051,
-  "name": "TANAH BEKALI"
+  "districtName": "PANGEAN",
+  "name": "TANAH BEKALI",
+  "postalCode": "29553"
  },
  {
   "id": 1401051006,
   "districtId": 1401051,
-  "name": "PULAU DERAS"
+  "districtName": "PANGEAN",
+  "name": "PULAU DERAS",
+  "postalCode": "29553"
  },
  {
   "id": 1401051007,
   "districtId": 1401051,
-  "name": "PULAU KUMPAI"
+  "districtName": "PANGEAN",
+  "name": "PULAU KUMPAI",
+  "postalCode": "29553"
  },
  {
   "id": 1401051008,
   "districtId": 1401051,
-  "name": "PULAU TENGAH"
+  "districtName": "PANGEAN",
+  "name": "PULAU TENGAH",
+  "postalCode": "37372"
  },
  {
   "id": 1401051009,
   "districtId": 1401051,
-  "name": "KOTO PANGEAN"
+  "districtName": "PANGEAN",
+  "name": "KOTO PANGEAN",
+  "postalCode": ""
  },
  {
   "id": 1401051010,
   "districtId": 1401051,
-  "name": "SUKAPING"
+  "districtName": "PANGEAN",
+  "name": "SUKAPING",
+  "postalCode": "29553"
  },
  {
   "id": 1401051011,
   "districtId": 1401051,
-  "name": "PULAU RENGAS"
+  "districtName": "PANGEAN",
+  "name": "PULAU RENGAS",
+  "postalCode": "29553"
  },
  {
   "id": 1401051012,
   "districtId": 1401051,
-  "name": "PAUH ANGIT"
+  "districtName": "PANGEAN",
+  "name": "PAUH ANGIT",
+  "postalCode": "29553"
  },
  {
   "id": 1401051013,
   "districtId": 1401051,
-  "name": "RAWANG BINJAI"
+  "districtName": "PANGEAN",
+  "name": "RAWANG BINJAI",
+  "postalCode": "29553"
  },
  {
   "id": 1401051014,
   "districtId": 1401051,
-  "name": "PASAR BARU PANGEAN"
+  "districtName": "PANGEAN",
+  "name": "PASAR BARU PANGEAN",
+  "postalCode": "29553"
  },
  {
   "id": 1401051015,
   "districtId": 1401051,
-  "name": "PAUH ANGIT HULU"
+  "districtName": "PANGEAN",
+  "name": "PAUH ANGIT HULU",
+  "postalCode": "29553"
  },
  {
   "id": 1401051016,
   "districtId": 1401051,
-  "name": "SAKO"
+  "districtName": "PANGEAN",
+  "name": "SAKO",
+  "postalCode": "29553"
  },
  {
   "id": 1401051017,
   "districtId": 1401051,
-  "name": "SUNGAI LANGSAT"
+  "districtName": "PANGEAN",
+  "name": "SUNGAI LANGSAT",
+  "postalCode": "29553"
  }
 ]

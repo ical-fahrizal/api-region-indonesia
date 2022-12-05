@@ -2,51 +2,71 @@
  {
   "id": 7405022001,
   "districtId": 7405022,
-  "name": "BIMA MAROA"
+  "districtName": "ANDOOLO BARAT",
+  "name": "BIMA MAROA",
+  "postalCode": "93819"
  },
  {
   "id": 7405022002,
   "districtId": 7405022,
-  "name": "WAWOBENDE"
+  "districtName": "ANDOOLO BARAT",
+  "name": "WAWOBENDE",
+  "postalCode": "93818"
  },
  {
   "id": 7405022003,
   "districtId": 7405022,
-  "name": "LAPOA INDAH"
+  "districtName": "ANDOOLO BARAT",
+  "name": "LAPOA INDAH",
+  "postalCode": "93818"
  },
  {
   "id": 7405022004,
   "districtId": 7405022,
-  "name": "PUUNDOHO"
+  "districtName": "ANDOOLO BARAT",
+  "name": "PUUNDOHO",
+  "postalCode": "93819"
  },
  {
   "id": 7405022005,
   "districtId": 7405022,
-  "name": "MATAIWOI"
+  "districtName": "ANDOOLO BARAT",
+  "name": "MATAIWOI",
+  "postalCode": "93819"
  },
  {
   "id": 7405022006,
   "districtId": 7405022,
-  "name": "PAPAWU"
+  "districtName": "ANDOOLO BARAT",
+  "name": "PAPAWU",
+  "postalCode": "93813"
  },
  {
   "id": 7405022007,
   "districtId": 7405022,
-  "name": "ANESE"
+  "districtName": "ANDOOLO BARAT",
+  "name": "ANESE",
+  "postalCode": "93813"
  },
  {
   "id": 7405022008,
   "districtId": 7405022,
-  "name": "BEKENGGASU INDAH"
+  "districtName": "ANDOOLO BARAT",
+  "name": "BEKENGGASU INDAH",
+  "postalCode": "93819"
  },
  {
   "id": 7405022009,
   "districtId": 7405022,
-  "name": "MATE UPE"
+  "districtName": "ANDOOLO BARAT",
+  "name": "MATE UPE",
+  "postalCode": "93818"
  },
  {
   "id": 7405022010,
   "districtId": 7405022,
-  "name": "WATU MOKALA"
+  "districtName": "ANDOOLO BARAT",
+  "name": "WATU MOKALA",
+  "postalCode": "93819"
  }
 ]

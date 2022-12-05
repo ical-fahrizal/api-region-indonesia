@@ -2,56 +2,78 @@
  {
   "id": 1802012001,
   "districtId": 1802012,
-  "name": "NEGERI AGUNG"
+  "districtName": "BANDAR NEGERI SEMUONG",
+  "name": "NEGERI AGUNG",
+  "postalCode": "32367"
  },
  {
   "id": 1802012002,
   "districtId": 1802012,
-  "name": "BANDAR SUKABUMI"
+  "districtName": "BANDAR NEGERI SEMUONG",
+  "name": "BANDAR SUKABUMI",
+  "postalCode": "35686"
  },
  {
   "id": 1802012003,
   "districtId": 1802012,
-  "name": "SANGGI"
+  "districtName": "BANDAR NEGERI SEMUONG",
+  "name": "SANGGI",
+  "postalCode": "35686"
  },
  {
   "id": 1802012004,
   "districtId": 1802012,
-  "name": "RAJA BASA"
+  "districtName": "BANDAR NEGERI SEMUONG",
+  "name": "RAJA BASA",
+  "postalCode": "35686"
  },
  {
   "id": 1802012005,
   "districtId": 1802012,
-  "name": "GUNUNG DOH"
+  "districtName": "BANDAR NEGERI SEMUONG",
+  "name": "GUNUNG DOH",
+  "postalCode": "35686"
  },
  {
   "id": 1802012006,
   "districtId": 1802012,
-  "name": "BANDING"
+  "districtName": "BANDAR NEGERI SEMUONG",
+  "name": "BANDING",
+  "postalCode": "35686"
  },
  {
   "id": 1802012007,
   "districtId": 1802012,
-  "name": "ATAR LEBAR"
+  "districtName": "BANDAR NEGERI SEMUONG",
+  "name": "ATAR LEBAR",
+  "postalCode": "35686"
  },
  {
   "id": 1802012008,
   "districtId": 1802012,
-  "name": "SIMPANG BAYUR"
+  "districtName": "BANDAR NEGERI SEMUONG",
+  "name": "SIMPANG BAYUR",
+  "postalCode": "35686"
  },
  {
   "id": 1802012009,
   "districtId": 1802012,
-  "name": "SANGGI UNGGAK"
+  "districtName": "BANDAR NEGERI SEMUONG",
+  "name": "SANGGI UNGGAK",
+  "postalCode": "35686"
  },
  {
   "id": 1802012010,
   "districtId": 1802012,
-  "name": "SINAR BANGUN"
+  "districtName": "BANDAR NEGERI SEMUONG",
+  "name": "SINAR BANGUN",
+  "postalCode": "35686"
  },
  {
   "id": 1802012011,
   "districtId": 1802012,
-  "name": "TULUNG SARI"
+  "districtName": "BANDAR NEGERI SEMUONG",
+  "name": "TULUNG SARI",
+  "postalCode": "32386"
  }
 ]

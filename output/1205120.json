@@ -2,106 +2,148 @@
  {
   "id": 1205120001,
   "districtId": 1205120,
-  "name": "LUMBAN TONGA TONGA"
+  "districtName": "SIBORONGBORONG",
+  "name": "LUMBAN TONGA TONGA",
+  "postalCode": "22474"
  },
  {
   "id": 1205120002,
   "districtId": 1205120,
-  "name": "PANIARAN"
+  "districtName": "SIBORONGBORONG",
+  "name": "PANIARAN",
+  "postalCode": "22474"
  },
  {
   "id": 1205120003,
   "districtId": 1205120,
-  "name": "BAHAL BATU III"
+  "districtName": "SIBORONGBORONG",
+  "name": "BAHAL BATU III",
+  "postalCode": "22474"
  },
  {
   "id": 1205120004,
   "districtId": 1205120,
-  "name": "BAHAL BATU II"
+  "districtName": "SIBORONGBORONG",
+  "name": "BAHAL BATU II",
+  "postalCode": "22474"
  },
  {
   "id": 1205120005,
   "districtId": 1205120,
-  "name": "BAHAL BATU I"
+  "districtName": "SIBORONGBORONG",
+  "name": "BAHAL BATU I",
+  "postalCode": "22474"
  },
  {
   "id": 1205120006,
   "districtId": 1205120,
-  "name": "SITABO-TABO"
+  "districtName": "SIBORONGBORONG",
+  "name": "SITABO-TABO",
+  "postalCode": ""
  },
  {
   "id": 1205120007,
   "districtId": 1205120,
-  "name": "SIBORONG-BORONG I"
+  "districtName": "SIBORONGBORONG",
+  "name": "SIBORONG-BORONG I",
+  "postalCode": "22474"
  },
  {
   "id": 1205120008,
   "districtId": 1205120,
-  "name": "SIARO"
+  "districtName": "SIBORONGBORONG",
+  "name": "SIARO",
+  "postalCode": "22474"
  },
  {
   "id": 1205120009,
   "districtId": 1205120,
-  "name": "SITAMPURUNG"
+  "districtName": "SIBORONGBORONG",
+  "name": "SITAMPURUNG",
+  "postalCode": "22474"
  },
  {
   "id": 1205120010,
   "districtId": 1205120,
-  "name": "PASAR SIBORONG-BORONG"
+  "districtName": "SIBORONGBORONG",
+  "name": "PASAR SIBORONG-BORONG",
+  "postalCode": ""
  },
  {
   "id": 1205120011,
   "districtId": 1205120,
-  "name": "POHAN TONGA"
+  "districtName": "SIBORONGBORONG",
+  "name": "POHAN TONGA",
+  "postalCode": "22474"
  },
  {
   "id": 1205120012,
   "districtId": 1205120,
-  "name": "LOBU SIREGAR II"
+  "districtName": "SIBORONGBORONG",
+  "name": "LOBU SIREGAR II",
+  "postalCode": "22474"
  },
  {
   "id": 1205120013,
   "districtId": 1205120,
-  "name": "HUTABULU"
+  "districtName": "SIBORONGBORONG",
+  "name": "HUTABULU",
+  "postalCode": "22474"
  },
  {
   "id": 1205120014,
   "districtId": 1205120,
-  "name": "LOBU SIREGAR I"
+  "districtName": "SIBORONGBORONG",
+  "name": "LOBU SIREGAR I",
+  "postalCode": "22474"
  },
  {
   "id": 1205120015,
   "districtId": 1205120,
-  "name": "POHAN JAE"
+  "districtName": "SIBORONGBORONG",
+  "name": "POHAN JAE",
+  "postalCode": "22474"
  },
  {
   "id": 1205120016,
   "districtId": 1205120,
-  "name": "POHAN JULU"
+  "districtName": "SIBORONGBORONG",
+  "name": "POHAN JULU",
+  "postalCode": "22474"
  },
  {
   "id": 1205120017,
   "districtId": 1205120,
-  "name": "PARIK SABUNGAN"
+  "districtName": "SIBORONGBORONG",
+  "name": "PARIK SABUNGAN",
+  "postalCode": "21163"
  },
  {
   "id": 1205120018,
   "districtId": 1205120,
-  "name": "SIBORONG-BORONG II"
+  "districtName": "SIBORONGBORONG",
+  "name": "SIBORONG-BORONG II",
+  "postalCode": "22474"
  },
  {
   "id": 1205120019,
   "districtId": 1205120,
-  "name": "SIGUMBANG"
+  "districtName": "SIBORONGBORONG",
+  "name": "SIGUMBANG",
+  "postalCode": "22474"
  },
  {
   "id": 1205120020,
   "districtId": 1205120,
-  "name": "SITABOTABO TORUAN"
+  "districtName": "SIBORONGBORONG",
+  "name": "SITABOTABO TORUAN",
+  "postalCode": "22474"
  },
  {
   "id": 1205120021,
   "districtId": 1205120,
-  "name": "SILAIT-LAIT"
+  "districtName": "SIBORONGBORONG",
+  "name": "SILAIT-LAIT",
+  "postalCode": "22474"
  }
 ]

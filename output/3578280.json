@@ -2,21 +2,29 @@
  {
   "id": 3578280004,
   "districtId": 3578280,
-  "name": "SEMEMI"
+  "districtName": "BENOWO",
+  "name": "SEMEMI",
+  "postalCode": "60198"
  },
  {
   "id": 3578280006,
   "districtId": 3578280,
-  "name": "KANDANGAN"
+  "districtName": "BENOWO",
+  "name": "KANDANGAN",
+  "postalCode": "21186"
  },
  {
   "id": 3578280007,
   "districtId": 3578280,
-  "name": "TAMBAK OSO WILANGON"
+  "districtName": "BENOWO",
+  "name": "TAMBAK OSO WILANGON",
+  "postalCode": ""
  },
  {
   "id": 3578280008,
   "districtId": 3578280,
-  "name": "ROMOKALISARI"
+  "districtName": "BENOWO",
+  "name": "ROMOKALISARI",
+  "postalCode": ""
  }
 ]

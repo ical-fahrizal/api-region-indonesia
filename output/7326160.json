@@ -2,31 +2,43 @@
  {
   "id": 7326160001,
   "districtId": 7326160,
-  "name": "LEMBANG BENTENG MAMULLU"
+  "districtName": "KAPALA PITU",
+  "name": "LEMBANG BENTENG MAMULLU",
+  "postalCode": ""
  },
  {
   "id": 7326160002,
   "districtId": 7326160,
-  "name": "LEMBANG KAPALA PITU"
+  "districtName": "KAPALA PITU",
+  "name": "LEMBANG KAPALA PITU",
+  "postalCode": ""
  },
  {
   "id": 7326160003,
   "districtId": 7326160,
-  "name": "LEMBANG KANTUN POYA"
+  "districtName": "KAPALA PITU",
+  "name": "LEMBANG KANTUN POYA",
+  "postalCode": ""
  },
  {
   "id": 7326160004,
   "districtId": 7326160,
-  "name": "LEMBANG BENTENG KA'DO"
+  "districtName": "KAPALA PITU",
+  "name": "LEMBANG BENTENG KA'DO",
+  "postalCode": ""
  },
  {
   "id": 7326160005,
   "districtId": 7326160,
-  "name": "LEMBANG SIKUKU'"
+  "districtName": "KAPALA PITU",
+  "name": "LEMBANG SIKUKU'",
+  "postalCode": ""
  },
  {
   "id": 7326160006,
   "districtId": 7326160,
-  "name": "LEMBANG POLO PADANG"
+  "districtName": "KAPALA PITU",
+  "name": "LEMBANG POLO PADANG",
+  "postalCode": ""
  }
 ]

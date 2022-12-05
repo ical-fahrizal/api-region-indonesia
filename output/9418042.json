@@ -2,61 +2,85 @@
  {
   "id": 9418042003,
   "districtId": 9418042,
-  "name": "UMAGI"
+  "districtName": "UMAGI",
+  "name": "UMAGI",
+  "postalCode": "99569"
  },
  {
   "id": 9418042004,
   "districtId": 9418042,
-  "name": "NOLOPUR"
+  "districtName": "UMAGI",
+  "name": "NOLOPUR",
+  "postalCode": "99569"
  },
  {
   "id": 9418042005,
   "districtId": 9418042,
-  "name": "NAMBU"
+  "districtName": "UMAGI",
+  "name": "NAMBU",
+  "postalCode": "98914"
  },
  {
   "id": 9418042006,
   "districtId": 9418042,
-  "name": "YALI"
+  "districtName": "UMAGI",
+  "name": "YALI",
+  "postalCode": "99569"
  },
  {
   "id": 9418042007,
   "districtId": 9418042,
-  "name": "YALUME"
+  "districtName": "UMAGI",
+  "name": "YALUME",
+  "postalCode": ""
  },
  {
   "id": 9418042008,
   "districtId": 9418042,
-  "name": "GATINI"
+  "districtName": "UMAGI",
+  "name": "GATINI",
+  "postalCode": "99569"
  },
  {
   "id": 9418042009,
   "districtId": 9418042,
-  "name": "PAGONGGA"
+  "districtName": "UMAGI",
+  "name": "PAGONGGA",
+  "postalCode": "99569"
  },
  {
   "id": 9418042010,
   "districtId": 9418042,
-  "name": "MINO"
+  "districtName": "UMAGI",
+  "name": "MINO",
+  "postalCode": "99569"
  },
  {
   "id": 9418042011,
   "districtId": 9418042,
-  "name": "GURIN"
+  "districtName": "UMAGI",
+  "name": "GURIN",
+  "postalCode": "99569"
  },
  {
   "id": 9418042012,
   "districtId": 9418042,
-  "name": "WAMA"
+  "districtName": "UMAGI",
+  "name": "WAMA",
+  "postalCode": "97852"
  },
  {
   "id": 9418042014,
   "districtId": 9418042,
-  "name": "POPAGA"
+  "districtName": "UMAGI",
+  "name": "POPAGA",
+  "postalCode": "99569"
  },
  {
   "id": 9418042015,
   "districtId": 9418042,
-  "name": "PIRILUK"
+  "districtName": "UMAGI",
+  "name": "PIRILUK",
+  "postalCode": "99569"
  }
 ]

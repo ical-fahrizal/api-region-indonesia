@@ -2,71 +2,99 @@
  {
   "id": 3311090001,
   "districtId": 3311090,
-  "name": "PONDOK"
+  "districtName": "GROGOL",
+  "name": "PONDOK",
+  "postalCode": "37175"
  },
  {
   "id": 3311090002,
   "districtId": 3311090,
-  "name": "PARANGJORO"
+  "districtName": "GROGOL",
+  "name": "PARANGJORO",
+  "postalCode": "57552"
  },
  {
   "id": 3311090003,
   "districtId": 3311090,
-  "name": "PANDEYAN"
+  "districtName": "GROGOL",
+  "name": "PANDEYAN",
+  "postalCode": "57552"
  },
  {
   "id": 3311090004,
   "districtId": 3311090,
-  "name": "TELUKAN"
+  "districtName": "GROGOL",
+  "name": "TELUKAN",
+  "postalCode": "57552"
  },
  {
   "id": 3311090005,
   "districtId": 3311090,
-  "name": "KADOKAN"
+  "districtName": "GROGOL",
+  "name": "KADOKAN",
+  "postalCode": "57552"
  },
  {
   "id": 3311090006,
   "districtId": 3311090,
-  "name": "GROGOL"
+  "districtName": "GROGOL",
+  "name": "GROGOL",
+  "postalCode": "11450"
  },
  {
   "id": 3311090007,
   "districtId": 3311090,
-  "name": "MADEGONDO"
+  "districtName": "GROGOL",
+  "name": "MADEGONDO",
+  "postalCode": "57552"
  },
  {
   "id": 3311090008,
   "districtId": 3311090,
-  "name": "LANGENHARJO"
+  "districtName": "GROGOL",
+  "name": "LANGENHARJO",
+  "postalCode": "57552"
  },
  {
   "id": 3311090009,
   "districtId": 3311090,
-  "name": "GEDANGAN"
+  "districtName": "GROGOL",
+  "name": "GEDANGAN",
+  "postalCode": "21264"
  },
  {
   "id": 3311090010,
   "districtId": 3311090,
-  "name": "KWARASAN"
+  "districtName": "GROGOL",
+  "name": "KWARASAN",
+  "postalCode": "57552"
  },
  {
   "id": 3311090011,
   "districtId": 3311090,
-  "name": "SANGGRAHAN"
+  "districtName": "GROGOL",
+  "name": "SANGGRAHAN",
+  "postalCode": "57552"
  },
  {
   "id": 3311090012,
   "districtId": 3311090,
-  "name": "MANANG"
+  "districtName": "GROGOL",
+  "name": "MANANG",
+  "postalCode": "57552"
  },
  {
   "id": 3311090013,
   "districtId": 3311090,
-  "name": "BANARAN"
+  "districtName": "GROGOL",
+  "name": "BANARAN",
+  "postalCode": "51281"
  },
  {
   "id": 3311090014,
   "districtId": 3311090,
-  "name": "CEMANI"
+  "districtName": "GROGOL",
+  "name": "CEMANI",
+  "postalCode": "57552"
  }
 ]

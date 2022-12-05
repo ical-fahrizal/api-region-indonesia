@@ -2,71 +2,99 @@
  {
   "id": 3210180001,
   "districtId": 3210180,
-  "name": "MEKARJAYA"
+  "districtName": "KERTAJATI",
+  "name": "MEKARJAYA",
+  "postalCode": "30653"
  },
  {
   "id": 3210180002,
   "districtId": 3210180,
-  "name": "PALASAH"
+  "districtName": "KERTAJATI",
+  "name": "PALASAH",
+  "postalCode": "45457"
  },
  {
   "id": 3210180003,
   "districtId": 3210180,
-  "name": "PAKUBEUREUM"
+  "districtName": "KERTAJATI",
+  "name": "PAKUBEUREUM",
+  "postalCode": "45457"
  },
  {
   "id": 3210180004,
   "districtId": 3210180,
-  "name": "SUKAWANA"
+  "districtName": "KERTAJATI",
+  "name": "SUKAWANA",
+  "postalCode": "45457"
  },
  {
   "id": 3210180005,
   "districtId": 3210180,
-  "name": "KERTAWINANGUN"
+  "districtName": "KERTAJATI",
+  "name": "KERTAWINANGUN",
+  "postalCode": "45595"
  },
  {
   "id": 3210180006,
   "districtId": 3210180,
-  "name": "BABAKAN"
+  "districtName": "KERTAJATI",
+  "name": "BABAKAN",
+  "postalCode": "35675"
  },
  {
   "id": 3210180007,
   "districtId": 3210180,
-  "name": "KERTAJATI"
+  "districtName": "KERTAJATI",
+  "name": "KERTAJATI",
+  "postalCode": "45457"
  },
  {
   "id": 3210180008,
   "districtId": 3210180,
-  "name": "KERTASARI"
+  "districtName": "KERTAJATI",
+  "name": "KERTASARI",
+  "postalCode": "31658"
  },
  {
   "id": 3210180009,
   "districtId": 3210180,
-  "name": "MEKARMULYA"
+  "districtName": "KERTAJATI",
+  "name": "MEKARMULYA",
+  "postalCode": "45571"
  },
  {
   "id": 3210180010,
   "districtId": 3210180,
-  "name": "SUKAMULYA"
+  "districtName": "KERTAJATI",
+  "name": "SUKAMULYA",
+  "postalCode": "30657"
  },
  {
   "id": 3210180011,
   "districtId": 3210180,
-  "name": "BANTARJATI"
+  "districtName": "KERTAJATI",
+  "name": "BANTARJATI",
+  "postalCode": "16153"
  },
  {
   "id": 3210180012,
   "districtId": 3210180,
-  "name": "PASIRIPIS"
+  "districtName": "KERTAJATI",
+  "name": "PASIRIPIS",
+  "postalCode": "45457"
  },
  {
   "id": 3210180013,
   "districtId": 3210180,
-  "name": "SUKAKERTA"
+  "districtName": "KERTAJATI",
+  "name": "SUKAKERTA",
+  "postalCode": "43285"
  },
  {
   "id": 3210180014,
   "districtId": 3210180,
-  "name": "SAHBANDAR"
+  "districtName": "KERTAJATI",
+  "name": "SAHBANDAR",
+  "postalCode": "45457"
  }
 ]

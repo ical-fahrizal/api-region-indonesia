@@ -2,36 +2,50 @@
  {
   "id": 3314200001,
   "districtId": 3314200,
-  "name": "JAPOH"
+  "districtName": "JENAR",
+  "name": "JAPOH",
+  "postalCode": "57256"
  },
  {
   "id": 3314200002,
   "districtId": 3314200,
-  "name": "NGEPRINGAN"
+  "districtName": "JENAR",
+  "name": "NGEPRINGAN",
+  "postalCode": "57256"
  },
  {
   "id": 3314200003,
   "districtId": 3314200,
-  "name": "MLALE"
+  "districtName": "JENAR",
+  "name": "MLALE",
+  "postalCode": "57256"
  },
  {
   "id": 3314200004,
   "districtId": 3314200,
-  "name": "DAWUNG"
+  "districtName": "JENAR",
+  "name": "DAWUNG",
+  "postalCode": "57256"
  },
  {
   "id": 3314200005,
   "districtId": 3314200,
-  "name": "KANDANG SAPI"
+  "districtName": "JENAR",
+  "name": "KANDANG SAPI",
+  "postalCode": "57256"
  },
  {
   "id": 3314200006,
   "districtId": 3314200,
-  "name": "JENAR"
+  "districtName": "JENAR",
+  "name": "JENAR",
+  "postalCode": "57256"
  },
  {
   "id": 3314200007,
   "districtId": 3314200,
-  "name": "BANYUURIP"
+  "districtName": "JENAR",
+  "name": "BANYUURIP",
+  "postalCode": "59263"
  }
 ]

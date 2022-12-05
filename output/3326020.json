@@ -2,76 +2,106 @@
  {
   "id": 3326020001,
   "districtId": 3326020,
-  "name": "WERDI"
+  "districtName": "PANINGGARAN",
+  "name": "WERDI",
+  "postalCode": "51164"
  },
  {
   "id": 3326020002,
   "districtId": 3326020,
-  "name": "WINDUAJI"
+  "districtName": "PANINGGARAN",
+  "name": "WINDUAJI",
+  "postalCode": "52276"
  },
  {
   "id": 3326020003,
   "districtId": 3326020,
-  "name": "KRANDEGAN"
+  "districtName": "PANINGGARAN",
+  "name": "KRANDEGAN",
+  "postalCode": "53414"
  },
  {
   "id": 3326020004,
   "districtId": 3326020,
-  "name": "LOMENENG"
+  "districtName": "PANINGGARAN",
+  "name": "LOMENENG",
+  "postalCode": "51164"
  },
  {
   "id": 3326020005,
   "districtId": 3326020,
-  "name": "TANGGERAN"
+  "districtName": "PANINGGARAN",
+  "name": "TANGGERAN",
+  "postalCode": "51164"
  },
  {
   "id": 3326020006,
   "districtId": 3326020,
-  "name": "KALIBOJA"
+  "districtName": "PANINGGARAN",
+  "name": "KALIBOJA",
+  "postalCode": "51164"
  },
  {
   "id": 3326020007,
   "districtId": 3326020,
-  "name": "KALIOMBO"
+  "districtName": "PANINGGARAN",
+  "name": "KALIOMBO",
+  "postalCode": "51164"
  },
  {
   "id": 3326020008,
   "districtId": 3326020,
-  "name": "BOTOSARI"
+  "districtName": "PANINGGARAN",
+  "name": "BOTOSARI",
+  "postalCode": "51164"
  },
  {
   "id": 3326020009,
   "districtId": 3326020,
-  "name": "SAWANGAN"
+  "districtName": "PANINGGARAN",
+  "name": "SAWANGAN",
+  "postalCode": "41272"
  },
  {
   "id": 3326020010,
   "districtId": 3326020,
-  "name": "PANINGGARAN"
+  "districtName": "PANINGGARAN",
+  "name": "PANINGGARAN",
+  "postalCode": "45562"
  },
  {
   "id": 3326020011,
   "districtId": 3326020,
-  "name": "DOMIYANG"
+  "districtName": "PANINGGARAN",
+  "name": "DOMIYANG",
+  "postalCode": "51164"
  },
  {
   "id": 3326020012,
   "districtId": 3326020,
-  "name": "NOTOGIWANG"
+  "districtName": "PANINGGARAN",
+  "name": "NOTOGIWANG",
+  "postalCode": "51164"
  },
  {
   "id": 3326020013,
   "districtId": 3326020,
-  "name": "LAMBANGGELUN"
+  "districtName": "PANINGGARAN",
+  "name": "LAMBANGGELUN",
+  "postalCode": "51164"
  },
  {
   "id": 3326020014,
   "districtId": 3326020,
-  "name": "TENOGO"
+  "districtName": "PANINGGARAN",
+  "name": "TENOGO",
+  "postalCode": "51164"
  },
  {
   "id": 3326020015,
   "districtId": 3326020,
-  "name": "BEDAGUNG"
+  "districtName": "PANINGGARAN",
+  "name": "BEDAGUNG",
+  "postalCode": "51164"
  }
 ]

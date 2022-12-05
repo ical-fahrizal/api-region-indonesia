@@ -2,36 +2,50 @@
  {
   "id": 7404013001,
   "districtId": 7404013,
-  "name": "PUUDONGI"
+  "districtName": "POLINGGONA",
+  "name": "PUUDONGI",
+  "postalCode": "93395"
  },
  {
   "id": 7404013002,
   "districtId": 7404013,
-  "name": "TANGGEAU"
+  "districtName": "POLINGGONA",
+  "name": "TANGGEAU",
+  "postalCode": "93563"
  },
  {
   "id": 7404013003,
   "districtId": 7404013,
-  "name": "PLASMA JAYA"
+  "districtName": "POLINGGONA",
+  "name": "PLASMA JAYA",
+  "postalCode": "93563"
  },
  {
   "id": 7404013004,
   "districtId": 7404013,
-  "name": "POLINGGONA"
+  "districtName": "POLINGGONA",
+  "name": "POLINGGONA",
+  "postalCode": "93563"
  },
  {
   "id": 7404013005,
   "districtId": 7404013,
-  "name": "WULONGGERE"
+  "districtName": "POLINGGONA",
+  "name": "WULONGGERE",
+  "postalCode": "93563"
  },
  {
   "id": 7404013006,
   "districtId": 7404013,
-  "name": "PONDOUWAEE"
+  "districtName": "POLINGGONA",
+  "name": "PONDOUWAEE",
+  "postalCode": ""
  },
  {
   "id": 7404013007,
   "districtId": 7404013,
-  "name": "LAMONDAPE"
+  "districtName": "POLINGGONA",
+  "name": "LAMONDAPE",
+  "postalCode": ""
  }
 ]

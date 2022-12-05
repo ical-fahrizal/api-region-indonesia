@@ -2,36 +2,50 @@
  {
   "id": 7102091007,
   "districtId": 7102091,
-  "name": "WOLAANG"
+  "districtName": "LANGOWAN TIMUR",
+  "name": "WOLAANG",
+  "postalCode": "95694"
  },
  {
   "id": 7102091008,
   "districtId": 7102091,
-  "name": "WALEURE"
+  "districtName": "LANGOWAN TIMUR",
+  "name": "WALEURE",
+  "postalCode": "95694"
  },
  {
   "id": 7102091009,
   "districtId": 7102091,
-  "name": "AMONGENA DUA"
+  "districtName": "LANGOWAN TIMUR",
+  "name": "AMONGENA DUA",
+  "postalCode": ""
  },
  {
   "id": 7102091010,
   "districtId": 7102091,
-  "name": "AMONGENA SATU"
+  "districtName": "LANGOWAN TIMUR",
+  "name": "AMONGENA SATU",
+  "postalCode": ""
  },
  {
   "id": 7102091011,
   "districtId": 7102091,
-  "name": "KARONDORAN"
+  "districtName": "LANGOWAN TIMUR",
+  "name": "KARONDORAN",
+  "postalCode": "95694"
  },
  {
   "id": 7102091012,
   "districtId": 7102091,
-  "name": "SUMARAYAR"
+  "districtName": "LANGOWAN TIMUR",
+  "name": "SUMARAYAR",
+  "postalCode": "95694"
  },
  {
   "id": 7102091013,
   "districtId": 7102091,
-  "name": "AMONGENA III"
+  "districtName": "LANGOWAN TIMUR",
+  "name": "AMONGENA III",
+  "postalCode": ""
  }
 ]

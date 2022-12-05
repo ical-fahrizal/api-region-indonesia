@@ -2,26 +2,36 @@
  {
   "id": 2171070001,
   "districtId": 2171070,
-  "name": "BALOI INDAH"
+  "districtName": "LUBUK BAJA",
+  "name": "BALOI INDAH",
+  "postalCode": "29432"
  },
  {
   "id": 2171070002,
   "districtId": 2171070,
-  "name": "BATU SELICIN"
+  "districtName": "LUBUK BAJA",
+  "name": "BATU SELICIN",
+  "postalCode": "29441"
  },
  {
   "id": 2171070003,
   "districtId": 2171070,
-  "name": "KAMPUNG PELITA"
+  "districtName": "LUBUK BAJA",
+  "name": "KAMPUNG PELITA",
+  "postalCode": "29443"
  },
  {
   "id": 2171070004,
   "districtId": 2171070,
-  "name": "LUBUK BAJA KOTA"
+  "districtName": "LUBUK BAJA",
+  "name": "LUBUK BAJA KOTA",
+  "postalCode": "29444"
  },
  {
   "id": 2171070005,
   "districtId": 2171070,
-  "name": "TANJUNG UMA"
+  "districtName": "LUBUK BAJA",
+  "name": "TANJUNG UMA",
+  "postalCode": "29445"
  }
 ]

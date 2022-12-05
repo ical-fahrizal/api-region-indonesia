@@ -2,66 +2,92 @@
  {
   "id": 3201130001,
   "districtId": 3201130,
-  "name": "CIBANON"
+  "districtName": "SUKARAJA",
+  "name": "CIBANON",
+  "postalCode": "16710"
  },
  {
   "id": 3201130002,
   "districtId": 3201130,
-  "name": "GUNUNG GEULIS"
+  "districtName": "SUKARAJA",
+  "name": "GUNUNG GEULIS",
+  "postalCode": "16710"
  },
  {
   "id": 3201130003,
   "districtId": 3201130,
-  "name": "NAGRAK"
+  "districtName": "SUKARAJA",
+  "name": "NAGRAK",
+  "postalCode": "45392"
  },
  {
   "id": 3201130004,
   "districtId": 3201130,
-  "name": "SUKATANI"
+  "districtName": "SUKARAJA",
+  "name": "SUKATANI",
+  "postalCode": "41384"
  },
  {
   "id": 3201130005,
   "districtId": 3201130,
-  "name": "SUKARAJA"
+  "districtName": "SUKARAJA",
+  "name": "SUKARAJA",
+  "postalCode": "21256"
  },
  {
   "id": 3201130006,
   "districtId": 3201130,
-  "name": "CIKEAS"
+  "districtName": "SUKARAJA",
+  "name": "CIKEAS",
+  "postalCode": "16710"
  },
  {
   "id": 3201130007,
   "districtId": 3201130,
-  "name": "CADAS NGAMPAR"
+  "districtName": "SUKARAJA",
+  "name": "CADAS NGAMPAR",
+  "postalCode": "16710"
  },
  {
   "id": 3201130008,
   "districtId": 3201130,
-  "name": "PASIRLAJA"
+  "districtName": "SUKARAJA",
+  "name": "PASIRLAJA",
+  "postalCode": "16710"
  },
  {
   "id": 3201130009,
   "districtId": 3201130,
-  "name": "CIJUJUNG"
+  "districtName": "SUKARAJA",
+  "name": "CIJUJUNG",
+  "postalCode": "16630"
  },
  {
   "id": 3201130010,
   "districtId": 3201130,
-  "name": "CIMANDALA"
+  "districtName": "SUKARAJA",
+  "name": "CIMANDALA",
+  "postalCode": "16710"
  },
  {
   "id": 3201130011,
   "districtId": 3201130,
-  "name": "PASIR JAMBU"
+  "districtName": "SUKARAJA",
+  "name": "PASIR JAMBU",
+  "postalCode": "16710"
  },
  {
   "id": 3201130012,
   "districtId": 3201130,
-  "name": "CILEBUT TIMUR"
+  "districtName": "SUKARAJA",
+  "name": "CILEBUT TIMUR",
+  "postalCode": "16710"
  },
  {
   "id": 3201130013,
   "districtId": 3201130,
-  "name": "CILEBUT BARAT"
+  "districtName": "SUKARAJA",
+  "name": "CILEBUT BARAT",
+  "postalCode": "16710"
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 3509160001,
   "districtId": 3509160,
-  "name": "KETING"
+  "districtName": "JOMBANG",
+  "name": "KETING",
+  "postalCode": "68168"
  },
  {
   "id": 3509160002,
   "districtId": 3509160,
-  "name": "JOMBANG"
+  "districtName": "JOMBANG",
+  "name": "JOMBANG",
+  "postalCode": "54172"
  },
  {
   "id": 3509160003,
   "districtId": 3509160,
-  "name": "PADOMASAN"
+  "districtName": "JOMBANG",
+  "name": "PADOMASAN",
+  "postalCode": "51273"
  },
  {
   "id": 3509160004,
   "districtId": 3509160,
-  "name": "NGAMPELREJO"
+  "districtName": "JOMBANG",
+  "name": "NGAMPELREJO",
+  "postalCode": "62354"
  },
  {
   "id": 3509160005,
   "districtId": 3509160,
-  "name": "WRINGIN AGUNG"
+  "districtName": "JOMBANG",
+  "name": "WRINGIN AGUNG",
+  "postalCode": "51191"
  },
  {
   "id": 3509160006,
   "districtId": 3509160,
-  "name": "SARIMULYO"
+  "districtName": "JOMBANG",
+  "name": "SARIMULYO",
+  "postalCode": "59583"
  }
 ]

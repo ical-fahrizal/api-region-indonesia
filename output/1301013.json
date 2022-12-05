@@ -2,16 +2,22 @@
  {
   "id": 1301013001,
   "districtId": 1301013,
-  "name": "SAUMANGANYA"
+  "districtName": "PAGAI UTARA",
+  "name": "SAUMANGANYA",
+  "postalCode": ""
  },
  {
   "id": 1301013002,
   "districtId": 1301013,
-  "name": "SILABU"
+  "districtName": "PAGAI UTARA",
+  "name": "SILABU",
+  "postalCode": "25391"
  },
  {
   "id": 1301013003,
   "districtId": 1301013,
-  "name": "BETUMONGA"
+  "districtName": "PAGAI UTARA",
+  "name": "BETUMONGA",
+  "postalCode": "25391"
  }
 ]

@@ -2,76 +2,106 @@
  {
   "id": 3515120001,
   "districtId": 3515120,
-  "name": "ENTALSEWU"
+  "districtName": "BUDURAN",
+  "name": "ENTALSEWU",
+  "postalCode": "61252"
  },
  {
   "id": 3515120002,
   "districtId": 3515120,
-  "name": "PAGERWOJO"
+  "districtName": "BUDURAN",
+  "name": "PAGERWOJO",
+  "postalCode": "51383"
  },
  {
   "id": 3515120003,
   "districtId": 3515120,
-  "name": "SIDOKERTO"
+  "districtName": "BUDURAN",
+  "name": "SIDOKERTO",
+  "postalCode": "34161"
  },
  {
   "id": 3515120004,
   "districtId": 3515120,
-  "name": "BUDURAN"
+  "districtName": "BUDURAN",
+  "name": "BUDURAN",
+  "postalCode": "69151"
  },
  {
   "id": 3515120005,
   "districtId": 3515120,
-  "name": "SIWALAN PANJI"
+  "districtName": "BUDURAN",
+  "name": "SIWALAN PANJI",
+  "postalCode": "61252"
  },
  {
   "id": 3515120006,
   "districtId": 3515120,
-  "name": "SIDOMULYO"
+  "districtName": "BUDURAN",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  },
  {
   "id": 3515120007,
   "districtId": 3515120,
-  "name": "PRASUNG"
+  "districtName": "BUDURAN",
+  "name": "PRASUNG",
+  "postalCode": "61252"
  },
  {
   "id": 3515120008,
   "districtId": 3515120,
-  "name": "SAWOHAN"
+  "districtName": "BUDURAN",
+  "name": "SAWOHAN",
+  "postalCode": "61252"
  },
  {
   "id": 3515120009,
   "districtId": 3515120,
-  "name": "DAMARSI"
+  "districtName": "BUDURAN",
+  "name": "DAMARSI",
+  "postalCode": "61252"
  },
  {
   "id": 3515120010,
   "districtId": 3515120,
-  "name": "DUKUHTENGAH"
+  "districtName": "BUDURAN",
+  "name": "DUKUHTENGAH",
+  "postalCode": "45283"
  },
  {
   "id": 3515120011,
   "districtId": 3515120,
-  "name": "BANJARSARI"
+  "districtName": "BUDURAN",
+  "name": "BANJARSARI",
+  "postalCode": "35377"
  },
  {
   "id": 3515120012,
   "districtId": 3515120,
-  "name": "WADUNGASIH"
+  "districtName": "BUDURAN",
+  "name": "WADUNGASIH",
+  "postalCode": "61252"
  },
  {
   "id": 3515120013,
   "districtId": 3515120,
-  "name": "BANJARKEMANTREN"
+  "districtName": "BUDURAN",
+  "name": "BANJARKEMANTREN",
+  "postalCode": "61252"
  },
  {
   "id": 3515120014,
   "districtId": 3515120,
-  "name": "SUKOREJO"
+  "districtName": "BUDURAN",
+  "name": "SUKOREJO",
+  "postalCode": "31551"
  },
  {
   "id": 3515120015,
   "districtId": 3515120,
-  "name": "SIDOKEPUNG"
+  "districtName": "BUDURAN",
+  "name": "SIDOKEPUNG",
+  "postalCode": "61252"
  }
 ]

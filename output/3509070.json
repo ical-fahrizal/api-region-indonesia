@@ -2,46 +2,64 @@
  {
   "id": 3509070001,
   "districtId": 3509070,
-  "name": "MULYOREJO"
+  "districtName": "SILO",
+  "name": "MULYOREJO",
+  "postalCode": "58315"
  },
  {
   "id": 3509070002,
   "districtId": 3509070,
-  "name": "PACE"
+  "districtName": "SILO",
+  "name": "PACE",
+  "postalCode": "68184"
  },
  {
   "id": 3509070003,
   "districtId": 3509070,
-  "name": "HARJOMULYO"
+  "districtName": "SILO",
+  "name": "HARJOMULYO",
+  "postalCode": ""
  },
  {
   "id": 3509070004,
   "districtId": 3509070,
-  "name": "KARANGHARJO"
+  "districtName": "SILO",
+  "name": "KARANGHARJO",
+  "postalCode": "59273"
  },
  {
   "id": 3509070005,
   "districtId": 3509070,
-  "name": "SILO"
+  "districtName": "SILO",
+  "name": "SILO",
+  "postalCode": "68184"
  },
  {
   "id": 3509070006,
   "districtId": 3509070,
-  "name": "SEMPOLAN"
+  "districtName": "SILO",
+  "name": "SEMPOLAN",
+  "postalCode": "68184"
  },
  {
   "id": 3509070007,
   "districtId": 3509070,
-  "name": "SUMBERJATI"
+  "districtName": "SILO",
+  "name": "SUMBERJATI",
+  "postalCode": "54392"
  },
  {
   "id": 3509070008,
   "districtId": 3509070,
-  "name": "GARAHAN"
+  "districtName": "SILO",
+  "name": "GARAHAN",
+  "postalCode": "68184"
  },
  {
   "id": 3509070009,
   "districtId": 3509070,
-  "name": "SIDOMULYO"
+  "districtName": "SILO",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  }
 ]

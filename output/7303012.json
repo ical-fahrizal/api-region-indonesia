@@ -2,31 +2,43 @@
  {
   "id": 7303012001,
   "districtId": 7303012,
-  "name": "BONTO MATENE"
+  "districtName": "SINOA",
+  "name": "BONTO MATENE",
+  "postalCode": "90552"
  },
  {
   "id": 7303012002,
   "districtId": 7303012,
-  "name": "BONTO TIRO"
+  "districtName": "SINOA",
+  "name": "BONTO TIRO",
+  "postalCode": "92451"
  },
  {
   "id": 7303012003,
   "districtId": 7303012,
-  "name": "BONTO MAJANNANG"
+  "districtName": "SINOA",
+  "name": "BONTO MAJANNANG",
+  "postalCode": "92451"
  },
  {
   "id": 7303012004,
   "districtId": 7303012,
-  "name": "BONTO KARAENG"
+  "districtName": "SINOA",
+  "name": "BONTO KARAENG",
+  "postalCode": "92451"
  },
  {
   "id": 7303012005,
   "districtId": 7303012,
-  "name": "BONTO MACCINI"
+  "districtName": "SINOA",
+  "name": "BONTO MACCINI",
+  "postalCode": "92451"
  },
  {
   "id": 7303012006,
   "districtId": 7303012,
-  "name": "BONTO BULAENG"
+  "districtName": "SINOA",
+  "name": "BONTO BULAENG",
+  "postalCode": "92572"
  }
 ]

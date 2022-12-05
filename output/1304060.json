@@ -2,46 +2,64 @@
  {
   "id": 1304060001,
   "districtId": 1304060,
-  "name": "LANGKI"
+  "districtName": "TANJUNG GADANG",
+  "name": "LANGKI",
+  "postalCode": "27571"
  },
  {
   "id": 1304060002,
   "districtId": 1304060,
-  "name": "SIBAKUR"
+  "districtName": "TANJUNG GADANG",
+  "name": "SIBAKUR",
+  "postalCode": "27571"
  },
  {
   "id": 1304060003,
   "districtId": 1304060,
-  "name": "PULASAN"
+  "districtName": "TANJUNG GADANG",
+  "name": "PULASAN",
+  "postalCode": "27571"
  },
  {
   "id": 1304060004,
   "districtId": 1304060,
-  "name": "TANJUNG LOLO"
+  "districtName": "TANJUNG GADANG",
+  "name": "TANJUNG LOLO",
+  "postalCode": "27571"
  },
  {
   "id": 1304060005,
   "districtId": 1304060,
-  "name": "TANJUNG GADANG"
+  "districtName": "TANJUNG GADANG",
+  "name": "TANJUNG GADANG",
+  "postalCode": "27571"
  },
  {
   "id": 1304060006,
   "districtId": 1304060,
-  "name": "TARATAK BARU"
+  "districtName": "TANJUNG GADANG",
+  "name": "TARATAK BARU",
+  "postalCode": "27571"
  },
  {
   "id": 1304060007,
   "districtId": 1304060,
-  "name": "TIMBULUN"
+  "districtName": "TANJUNG GADANG",
+  "name": "TIMBULUN",
+  "postalCode": "27571"
  },
  {
   "id": 1304060008,
   "districtId": 1304060,
-  "name": "SINYAMU"
+  "districtName": "TANJUNG GADANG",
+  "name": "SINYAMU",
+  "postalCode": "27571"
  },
  {
   "id": 1304060009,
   "districtId": 1304060,
-  "name": "TARATAK BARU UTARA"
+  "districtName": "TANJUNG GADANG",
+  "name": "TARATAK BARU UTARA",
+  "postalCode": "27571"
  }
 ]

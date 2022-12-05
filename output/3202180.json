@@ -2,31 +2,43 @@
  {
   "id": 3202180001,
   "districtId": 3202180,
-  "name": "PARUNGSEAH"
+  "districtName": "SUKABUMI",
+  "name": "PARUNGSEAH",
+  "postalCode": "43151"
  },
  {
   "id": 3202180002,
   "districtId": 3202180,
-  "name": "WARNASARI"
+  "districtName": "SUKABUMI",
+  "name": "WARNASARI",
+  "postalCode": "40378"
  },
  {
   "id": 3202180003,
   "districtId": 3202180,
-  "name": "SUKAJAYA"
+  "districtName": "SUKABUMI",
+  "name": "SUKAJAYA",
+  "postalCode": "30756"
  },
  {
   "id": 3202180004,
   "districtId": 3202180,
-  "name": "SUDAJAYA GIRANG"
+  "districtName": "SUKABUMI",
+  "name": "SUDAJAYA GIRANG",
+  "postalCode": "43151"
  },
  {
   "id": 3202180005,
   "districtId": 3202180,
-  "name": "KARAWANG"
+  "districtName": "SUKABUMI",
+  "name": "KARAWANG",
+  "postalCode": "43151"
  },
  {
   "id": 3202180006,
   "districtId": 3202180,
-  "name": "PERBAWATI"
+  "districtName": "SUKABUMI",
+  "name": "PERBAWATI",
+  "postalCode": ""
  }
 ]

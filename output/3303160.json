@@ -2,56 +2,78 @@
  {
   "id": 3303160001,
   "districtId": 3303160,
-  "name": "WLAHAR"
+  "districtName": "REMBANG",
+  "name": "WLAHAR",
+  "postalCode": "53271"
  },
  {
   "id": 3303160002,
   "districtId": 3303160,
-  "name": "BANTARBARANG"
+  "districtName": "REMBANG",
+  "name": "BANTARBARANG",
+  "postalCode": "53356"
  },
  {
   "id": 3303160003,
   "districtId": 3303160,
-  "name": "KARANGBAWANG"
+  "districtName": "REMBANG",
+  "name": "KARANGBAWANG",
+  "postalCode": "53163"
  },
  {
   "id": 3303160005,
   "districtId": 3303160,
-  "name": "LOSARI"
+  "districtName": "REMBANG",
+  "name": "LOSARI",
+  "postalCode": "52364"
  },
  {
   "id": 3303160006,
   "districtId": 3303160,
-  "name": "BODAS KARANGJATI"
+  "districtName": "REMBANG",
+  "name": "BODAS KARANGJATI",
+  "postalCode": "53356"
  },
  {
   "id": 3303160007,
   "districtId": 3303160,
-  "name": "WANOGARA WETAN"
+  "districtName": "REMBANG",
+  "name": "WANOGARA WETAN",
+  "postalCode": "53356"
  },
  {
   "id": 3303160008,
   "districtId": 3303160,
-  "name": "WANOGARA KULON"
+  "districtName": "REMBANG",
+  "name": "WANOGARA KULON",
+  "postalCode": "53356"
  },
  {
   "id": 3303160009,
   "districtId": 3303160,
-  "name": "MAKAM"
+  "districtName": "REMBANG",
+  "name": "MAKAM",
+  "postalCode": "53356"
  },
  {
   "id": 3303160010,
   "districtId": 3303160,
-  "name": "SUMAMPIR"
+  "districtName": "REMBANG",
+  "name": "SUMAMPIR",
+  "postalCode": "53125"
  },
  {
   "id": 3303160011,
   "districtId": 3303160,
-  "name": "TANALUM"
+  "districtName": "REMBANG",
+  "name": "TANALUM",
+  "postalCode": "53356"
  },
  {
   "id": 3303160012,
   "districtId": 3303160,
-  "name": "PANUSUPAN"
+  "districtName": "REMBANG",
+  "name": "PANUSUPAN",
+  "postalCode": "53162"
  }
 ]

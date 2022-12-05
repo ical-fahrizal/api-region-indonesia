@@ -2,51 +2,71 @@
  {
   "id": 7404031001,
   "districtId": 7404031,
-  "name": "LONGORI"
+  "districtName": "BAULA",
+  "name": "LONGORI",
+  "postalCode": ""
  },
  {
   "id": 7404031002,
   "districtId": 7404031,
-  "name": "PUUNDOHO"
+  "districtName": "BAULA",
+  "name": "PUUNDOHO",
+  "postalCode": "93819"
  },
  {
   "id": 7404031003,
   "districtId": 7404031,
-  "name": "PUULEMO"
+  "districtName": "BAULA",
+  "name": "PUULEMO",
+  "postalCode": "93561"
  },
  {
   "id": 7404031004,
   "districtId": 7404031,
-  "name": "BAULA"
+  "districtName": "BAULA",
+  "name": "BAULA",
+  "postalCode": "91662"
  },
  {
   "id": 7404031005,
   "districtId": 7404031,
-  "name": "PUUBENUA"
+  "districtName": "BAULA",
+  "name": "PUUBENUA",
+  "postalCode": "93561"
  },
  {
   "id": 7404031006,
   "districtId": 7404031,
-  "name": "PUUBUNGA"
+  "districtName": "BAULA",
+  "name": "PUUBUNGA",
+  "postalCode": "93561"
  },
  {
   "id": 7404031007,
   "districtId": 7404031,
-  "name": "PUURODA"
+  "districtName": "BAULA",
+  "name": "PUURODA",
+  "postalCode": "93561"
  },
  {
   "id": 7404031008,
   "districtId": 7404031,
-  "name": "PEWUTAA"
+  "districtName": "BAULA",
+  "name": "PEWUTAA",
+  "postalCode": "93875"
  },
  {
   "id": 7404031009,
   "districtId": 7404031,
-  "name": "WATALARA"
+  "districtName": "BAULA",
+  "name": "WATALARA",
+  "postalCode": "93561"
  },
  {
   "id": 7404031010,
   "districtId": 7404031,
-  "name": "ULU BAULA"
+  "districtName": "BAULA",
+  "name": "ULU BAULA",
+  "postalCode": ""
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 1674021001,
   "districtId": 1674021,
-  "name": "RAHMA"
+  "districtName": "LUBUK LINGGAU SELATAN I",
+  "name": "RAHMA",
+  "postalCode": ""
  },
  {
   "id": 1674021002,
   "districtId": 1674021,
-  "name": "PERUMNAS RAHMA"
+  "districtName": "LUBUK LINGGAU SELATAN I",
+  "name": "PERUMNAS RAHMA",
+  "postalCode": ""
  },
  {
   "id": 1674021003,
   "districtId": 1674021,
-  "name": "JUKUNG"
+  "districtName": "LUBUK LINGGAU SELATAN I",
+  "name": "JUKUNG",
+  "postalCode": "31626"
  },
  {
   "id": 1674021004,
   "districtId": 1674021,
-  "name": "AIR KATI"
+  "districtName": "LUBUK LINGGAU SELATAN I",
+  "name": "AIR KATI",
+  "postalCode": "31626"
  },
  {
   "id": 1674021005,
   "districtId": 1674021,
-  "name": "LUBUK BINJAI"
+  "districtName": "LUBUK LINGGAU SELATAN I",
+  "name": "LUBUK BINJAI",
+  "postalCode": "31626"
  },
  {
   "id": 1674021006,
   "districtId": 1674021,
-  "name": "LUBUK KUPANG"
+  "districtName": "LUBUK LINGGAU SELATAN I",
+  "name": "LUBUK KUPANG",
+  "postalCode": "31626"
  },
  {
   "id": 1674021007,
   "districtId": 1674021,
-  "name": "AIR TEMAM"
+  "districtName": "LUBUK LINGGAU SELATAN I",
+  "name": "AIR TEMAM",
+  "postalCode": "31626"
  }
 ]

@@ -2,66 +2,92 @@
  {
   "id": 3210130001,
   "districtId": 3210130,
-  "name": "WERAGATI"
+  "districtName": "PALASAH",
+  "name": "WERAGATI",
+  "postalCode": "45475"
  },
  {
   "id": 3210130002,
   "districtId": 3210130,
-  "name": "TRAJAYA"
+  "districtName": "PALASAH",
+  "name": "TRAJAYA",
+  "postalCode": "45475"
  },
  {
   "id": 3210130003,
   "districtId": 3210130,
-  "name": "TARIKOLOT"
+  "districtName": "PALASAH",
+  "name": "TARIKOLOT",
+  "postalCode": "45588"
  },
  {
   "id": 3210130004,
   "districtId": 3210130,
-  "name": "SINDANGHAJI"
+  "districtName": "PALASAH",
+  "name": "SINDANGHAJI",
+  "postalCode": "45475"
  },
  {
   "id": 3210130005,
   "districtId": 3210130,
-  "name": "ENGGALWANGI"
+  "districtName": "PALASAH",
+  "name": "ENGGALWANGI",
+  "postalCode": "45475"
  },
  {
   "id": 3210130006,
   "districtId": 3210130,
-  "name": "BUNIWANGI"
+  "districtName": "PALASAH",
+  "name": "BUNIWANGI",
+  "postalCode": "43197"
  },
  {
   "id": 3210130007,
   "districtId": 3210130,
-  "name": "PALASAH"
+  "districtName": "PALASAH",
+  "name": "PALASAH",
+  "postalCode": "45457"
  },
  {
   "id": 3210130008,
   "districtId": 3210130,
-  "name": "PASIR"
+  "districtName": "PALASAH",
+  "name": "PASIR",
+  "postalCode": "24656"
  },
  {
   "id": 3210130009,
   "districtId": 3210130,
-  "name": "WARINGIN"
+  "districtName": "PALASAH",
+  "name": "WARINGIN",
+  "postalCode": "45475"
  },
  {
   "id": 3210130010,
   "districtId": 3210130,
-  "name": "KARAMAT"
+  "districtName": "PALASAH",
+  "name": "KARAMAT",
+  "postalCode": "43122"
  },
  {
   "id": 3210130011,
   "districtId": 3210130,
-  "name": "SINDANGWASA"
+  "districtName": "PALASAH",
+  "name": "SINDANGWASA",
+  "postalCode": "45475"
  },
  {
   "id": 3210130012,
   "districtId": 3210130,
-  "name": "CISAMBENG"
+  "districtName": "PALASAH",
+  "name": "CISAMBENG",
+  "postalCode": "45475"
  },
  {
   "id": 3210130013,
   "districtId": 3210130,
-  "name": "MAJASUKA"
+  "districtName": "PALASAH",
+  "name": "MAJASUKA",
+  "postalCode": "45475"
  }
 ]

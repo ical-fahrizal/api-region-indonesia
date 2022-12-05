@@ -2,71 +2,99 @@
  {
   "id": 7306040001,
   "districtId": 7306040,
-  "name": "PANDANG PANDANG"
+  "districtName": "SOMBA OPU",
+  "name": "PANDANG PANDANG",
+  "postalCode": "92115"
  },
  {
   "id": 7306040002,
   "districtId": 7306040,
-  "name": "SUNGGUMINASA"
+  "districtName": "SOMBA OPU",
+  "name": "SUNGGUMINASA",
+  "postalCode": "92111"
  },
  {
   "id": 7306040003,
   "districtId": 7306040,
-  "name": "TOMPOBALANG"
+  "districtName": "SOMBA OPU",
+  "name": "TOMPOBALANG",
+  "postalCode": "92112"
  },
  {
   "id": 7306040004,
   "districtId": 7306040,
-  "name": "BATANGKALUKU"
+  "districtName": "SOMBA OPU",
+  "name": "BATANGKALUKU",
+  "postalCode": "92117"
  },
  {
   "id": 7306040005,
   "districtId": 7306040,
-  "name": "TAMARUNANG"
+  "districtName": "SOMBA OPU",
+  "name": "TAMARUNANG",
+  "postalCode": "90126"
  },
  {
   "id": 7306040006,
   "districtId": 7306040,
-  "name": "BONTORAMBA"
+  "districtName": "SOMBA OPU",
+  "name": "BONTORAMBA",
+  "postalCode": "92153"
  },
  {
   "id": 7306040007,
   "districtId": 7306040,
-  "name": "MAWANG"
+  "districtName": "SOMBA OPU",
+  "name": "MAWANG",
+  "postalCode": "92119"
  },
  {
   "id": 7306040008,
   "districtId": 7306040,
-  "name": "ROMANGPOLONG"
+  "districtName": "SOMBA OPU",
+  "name": "ROMANGPOLONG",
+  "postalCode": "92118"
  },
  {
   "id": 7306040009,
   "districtId": 7306040,
-  "name": "BONTO BONTOA"
+  "districtName": "SOMBA OPU",
+  "name": "BONTO BONTOA",
+  "postalCode": "92111"
  },
  {
   "id": 7306040010,
   "districtId": 7306040,
-  "name": "KALEGOWA"
+  "districtName": "SOMBA OPU",
+  "name": "KALEGOWA",
+  "postalCode": "92116"
  },
  {
   "id": 7306040011,
   "districtId": 7306040,
-  "name": "KATANGKA"
+  "districtName": "SOMBA OPU",
+  "name": "KATANGKA",
+  "postalCode": "92153"
  },
  {
   "id": 7306040012,
   "districtId": 7306040,
-  "name": "TOMBOLO"
+  "districtName": "SOMBA OPU",
+  "name": "TOMBOLO",
+  "postalCode": "92461"
  },
  {
   "id": 7306040013,
   "districtId": 7306040,
-  "name": "PACCINONGAN"
+  "districtName": "SOMBA OPU",
+  "name": "PACCINONGAN",
+  "postalCode": "92113"
  },
  {
   "id": 7306040014,
   "districtId": 7306040,
-  "name": "SAMATA"
+  "districtName": "SOMBA OPU",
+  "name": "SAMATA",
+  "postalCode": "92113"
  }
 ]

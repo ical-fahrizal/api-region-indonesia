@@ -2,71 +2,99 @@
  {
   "id": 3203050001,
   "districtId": 3203050,
-  "name": "PANYINDANGAN"
+  "districtName": "CIBINONG",
+  "name": "PANYINDANGAN",
+  "postalCode": "45468"
  },
  {
   "id": 3203050002,
   "districtId": 3203050,
-  "name": "WARGALUYU"
+  "districtName": "CIBINONG",
+  "name": "WARGALUYU",
+  "postalCode": "40379"
  },
  {
   "id": 3203050003,
   "districtId": 3203050,
-  "name": "HAMERANG"
+  "districtName": "CIBINONG",
+  "name": "HAMERANG",
+  "postalCode": "43271"
  },
  {
   "id": 3203050004,
   "districtId": 3203050,
-  "name": "PANANGGAPAN"
+  "districtName": "CIBINONG",
+  "name": "PANANGGAPAN",
+  "postalCode": "43271"
  },
  {
   "id": 3203050005,
   "districtId": 3203050,
-  "name": "GIRIJAYA"
+  "districtName": "CIBINONG",
+  "name": "GIRIJAYA",
+  "postalCode": "46475"
  },
  {
   "id": 3203050006,
   "districtId": 3203050,
-  "name": "SUKAJADI"
+  "districtName": "CIBINONG",
+  "name": "SUKAJADI",
+  "postalCode": "24472"
  },
  {
   "id": 3203050007,
   "districtId": 3203050,
-  "name": "SUKAMEKAR"
+  "districtName": "CIBINONG",
+  "name": "SUKAMEKAR",
+  "postalCode": "43271"
  },
  {
   "id": 3203050008,
   "districtId": 3203050,
-  "name": "BATULAWANG"
+  "districtName": "CIBINONG",
+  "name": "BATULAWANG",
+  "postalCode": "43271"
  },
  {
   "id": 3203050009,
   "districtId": 3203050,
-  "name": "CIKANGKARENG"
+  "districtName": "CIBINONG",
+  "name": "CIKANGKARENG",
+  "postalCode": "43271"
  },
  {
   "id": 3203050015,
   "districtId": 3203050,
-  "name": "PAMOYANAN"
+  "districtName": "CIBINONG",
+  "name": "PAMOYANAN",
+  "postalCode": "16136"
  },
  {
   "id": 3203050016,
   "districtId": 3203050,
-  "name": "CIMASKARA"
+  "districtName": "CIBINONG",
+  "name": "CIMASKARA",
+  "postalCode": "43271"
  },
  {
   "id": 3203050020,
   "districtId": 3203050,
-  "name": "PADASUKA"
+  "districtName": "CIBINONG",
+  "name": "PADASUKA",
+  "postalCode": "44185"
  },
  {
   "id": 3203050021,
   "districtId": 3203050,
-  "name": "MEKARMUKTI"
+  "districtName": "CIBINONG",
+  "name": "MEKARMUKTI",
+  "postalCode": "45392"
  },
  {
   "id": 3203050022,
   "districtId": 3203050,
-  "name": "CIBURIAL"
+  "districtName": "CIBINONG",
+  "name": "CIBURIAL",
+  "postalCode": "43271"
  }
 ]

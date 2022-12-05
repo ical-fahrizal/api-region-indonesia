@@ -2,66 +2,92 @@
  {
   "id": 7206050001,
   "districtId": 7206050,
-  "name": "OGOMOLI"
+  "districtName": "GALANG",
+  "name": "OGOMOLI",
+  "postalCode": ""
  },
  {
   "id": 7206050002,
   "districtId": 7206050,
-  "name": "SANDANA"
+  "districtName": "GALANG",
+  "name": "SANDANA",
+  "postalCode": "94561"
  },
  {
   "id": 7206050003,
   "districtId": 7206050,
-  "name": "KALANGKANGAN"
+  "districtName": "GALANG",
+  "name": "KALANGKANGAN",
+  "postalCode": "94561"
  },
  {
   "id": 7206050004,
   "districtId": 7206050,
-  "name": "LANTAPAN"
+  "districtName": "GALANG",
+  "name": "LANTAPAN",
+  "postalCode": "94561"
  },
  {
   "id": 7206050005,
   "districtId": 7206050,
-  "name": "LAKATAN"
+  "districtName": "GALANG",
+  "name": "LAKATAN",
+  "postalCode": "94561"
  },
  {
   "id": 7206050006,
   "districtId": 7206050,
-  "name": "TINIGI"
+  "districtName": "GALANG",
+  "name": "TINIGI",
+  "postalCode": "94561"
  },
  {
   "id": 7206050007,
   "districtId": 7206050,
-  "name": "GINUNGGUNG"
+  "districtName": "GALANG",
+  "name": "GINUNGGUNG",
+  "postalCode": "94561"
  },
  {
   "id": 7206050008,
   "districtId": 7206050,
-  "name": "LALOS"
+  "districtName": "GALANG",
+  "name": "LALOS",
+  "postalCode": "94561"
  },
  {
   "id": 7206050010,
   "districtId": 7206050,
-  "name": "SABANG"
+  "districtName": "GALANG",
+  "name": "SABANG",
+  "postalCode": "94882"
  },
  {
   "id": 7206050011,
   "districtId": 7206050,
-  "name": "BAJUGAN"
+  "districtName": "GALANG",
+  "name": "BAJUGAN",
+  "postalCode": "94561"
  },
  {
   "id": 7206050012,
   "districtId": 7206050,
-  "name": "AUNG"
+  "districtName": "GALANG",
+  "name": "AUNG",
+  "postalCode": ""
  },
  {
   "id": 7206050013,
   "districtId": 7206050,
-  "name": "MALANGGA"
+  "districtName": "GALANG",
+  "name": "MALANGGA",
+  "postalCode": ""
  },
  {
   "id": 7206050014,
   "districtId": 7206050,
-  "name": "KINAPASAN"
+  "districtName": "GALANG",
+  "name": "KINAPASAN",
+  "postalCode": "94552"
  }
 ]

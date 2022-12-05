@@ -2,41 +2,57 @@
  {
   "id": 6208020001,
   "districtId": 6208020,
-  "name": "TELAGA PULANG"
+  "districtName": "DANAU SEMBULUH",
+  "name": "TELAGA PULANG",
+  "postalCode": "74261"
  },
  {
   "id": 6208020002,
   "districtId": 6208020,
-  "name": "SEMBULUH II"
+  "districtName": "DANAU SEMBULUH",
+  "name": "SEMBULUH II",
+  "postalCode": ""
  },
  {
   "id": 6208020003,
   "districtId": 6208020,
-  "name": "CEMPAKA BARU"
+  "districtName": "DANAU SEMBULUH",
+  "name": "CEMPAKA BARU",
+  "postalCode": "10640"
  },
  {
   "id": 6208020004,
   "districtId": 6208020,
-  "name": "PALINGKAU"
+  "districtName": "DANAU SEMBULUH",
+  "name": "PALINGKAU",
+  "postalCode": "74261"
  },
  {
   "id": 6208020005,
   "districtId": 6208020,
-  "name": "ULAK BATU"
+  "districtName": "DANAU SEMBULUH",
+  "name": "ULAK BATU",
+  "postalCode": "74261"
  },
  {
   "id": 6208020006,
   "districtId": 6208020,
-  "name": "PAREN"
+  "districtName": "DANAU SEMBULUH",
+  "name": "PAREN",
+  "postalCode": "59465"
  },
  {
   "id": 6208020007,
   "districtId": 6208020,
-  "name": "BANUA USANG"
+  "districtName": "DANAU SEMBULUH",
+  "name": "BANUA USANG",
+  "postalCode": "74261"
  },
  {
   "id": 6208020008,
   "districtId": 6208020,
-  "name": "SEMBULUH I"
+  "districtName": "DANAU SEMBULUH",
+  "name": "SEMBULUH I",
+  "postalCode": ""
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 1871080001,
   "districtId": 1871080,
-  "name": "SUKAMENANTI"
+  "districtName": "KEDATON",
+  "name": "SUKAMENANTI",
+  "postalCode": "35146"
  },
  {
   "id": 1871080002,
   "districtId": 1871080,
-  "name": "SIDODADI"
+  "districtName": "KEDATON",
+  "name": "SIDODADI",
+  "postalCode": "24582"
  },
  {
   "id": 1871080003,
   "districtId": 1871080,
-  "name": "SURABAYA"
+  "districtName": "KEDATON",
+  "name": "SURABAYA",
+  "postalCode": "32274"
  },
  {
   "id": 1871080005,
   "districtId": 1871080,
-  "name": "KEDATON"
+  "districtName": "KEDATON",
+  "name": "KEDATON",
+  "postalCode": "31591"
  },
  {
   "id": 1871080016,
   "districtId": 1871080,
-  "name": "SUKAMENANTI BARU"
+  "districtName": "KEDATON",
+  "name": "SUKAMENANTI BARU",
+  "postalCode": "35146"
  },
  {
   "id": 1871080018,
   "districtId": 1871080,
-  "name": "PENENGAHAN"
+  "districtName": "KEDATON",
+  "name": "PENENGAHAN",
+  "postalCode": "34878"
  },
  {
   "id": 1871080019,
   "districtId": 1871080,
-  "name": "PENENGAHAN RAYA"
+  "districtName": "KEDATON",
+  "name": "PENENGAHAN RAYA",
+  "postalCode": "35112"
  }
 ]

@@ -2,71 +2,99 @@
  {
   "id": 1607091001,
   "districtId": 1607091,
-  "name": "SRIMULYO"
+  "districtName": "AIR SALEH",
+  "name": "SRIMULYO",
+  "postalCode": "30975"
  },
  {
   "id": 1607091002,
   "districtId": 1607091,
-  "name": "SRIKATON"
+  "districtName": "AIR SALEH",
+  "name": "SRIKATON",
+  "postalCode": "30975"
  },
  {
   "id": 1607091003,
   "districtId": 1607091,
-  "name": "SIDOHARJO"
+  "districtName": "AIR SALEH",
+  "name": "SIDOHARJO",
+  "postalCode": "30975"
  },
  {
   "id": 1607091004,
   "districtId": 1607091,
-  "name": "BINTARAN"
+  "districtName": "AIR SALEH",
+  "name": "BINTARAN",
+  "postalCode": "30975"
  },
  {
   "id": 1607091005,
   "districtId": 1607091,
-  "name": "DAMARWULAN"
+  "districtName": "AIR SALEH",
+  "name": "DAMARWULAN",
+  "postalCode": "30975"
  },
  {
   "id": 1607091006,
   "districtId": 1607091,
-  "name": "ENGGALREJO"
+  "districtName": "AIR SALEH",
+  "name": "ENGGALREJO",
+  "postalCode": "30975"
  },
  {
   "id": 1607091007,
   "districtId": 1607091,
-  "name": "AIR SOLOK BATU"
+  "districtName": "AIR SALEH",
+  "name": "AIR SOLOK BATU",
+  "postalCode": "30975"
  },
  {
   "id": 1607091008,
   "districtId": 1607091,
-  "name": "SALEK AGUNG"
+  "districtName": "AIR SALEH",
+  "name": "SALEK AGUNG",
+  "postalCode": ""
  },
  {
   "id": 1607091009,
   "districtId": 1607091,
-  "name": "SALEK MUKTI"
+  "districtName": "AIR SALEH",
+  "name": "SALEK MUKTI",
+  "postalCode": ""
  },
  {
   "id": 1607091010,
   "districtId": 1607091,
-  "name": "SALEK JAYA"
+  "districtName": "AIR SALEH",
+  "name": "SALEK JAYA",
+  "postalCode": ""
  },
  {
   "id": 1607091011,
   "districtId": 1607091,
-  "name": "SALEK MULYA"
+  "districtName": "AIR SALEH",
+  "name": "SALEK MULYA",
+  "postalCode": ""
  },
  {
   "id": 1607091012,
   "districtId": 1607091,
-  "name": "SALEK MAKMUR"
+  "districtName": "AIR SALEH",
+  "name": "SALEK MAKMUR",
+  "postalCode": ""
  },
  {
   "id": 1607091013,
   "districtId": 1607091,
-  "name": "UPANG"
+  "districtName": "AIR SALEH",
+  "name": "UPANG",
+  "postalCode": "30975"
  },
  {
   "id": 1607091014,
   "districtId": 1607091,
-  "name": "UPANG MARGA"
+  "districtName": "AIR SALEH",
+  "name": "UPANG MARGA",
+  "postalCode": "30975"
  }
 ]

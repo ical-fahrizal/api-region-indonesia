@@ -2,26 +2,36 @@
  {
   "id": 1210031001,
   "districtId": 1210031,
-  "name": "BERAMPU"
+  "districtName": "BERAMPU",
+  "name": "BERAMPU",
+  "postalCode": ""
  },
  {
   "id": 1210031002,
   "districtId": 1210031,
-  "name": "KARING"
+  "districtName": "BERAMPU",
+  "name": "KARING",
+  "postalCode": "22251"
  },
  {
   "id": 1210031003,
   "districtId": 1210031,
-  "name": "BANJAR TOBA"
+  "districtName": "BERAMPU",
+  "name": "BANJAR TOBA",
+  "postalCode": "22251"
  },
  {
   "id": 1210031004,
   "districtId": 1210031,
-  "name": "PASI"
+  "districtName": "BERAMPU",
+  "name": "PASI",
+  "postalCode": "22251"
  },
  {
   "id": 1210031005,
   "districtId": 1210031,
-  "name": "SAMBALIANG"
+  "districtName": "BERAMPU",
+  "name": "SAMBALIANG",
+  "postalCode": "22251"
  }
 ]

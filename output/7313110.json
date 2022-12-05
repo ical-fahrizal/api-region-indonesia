@@ -2,51 +2,71 @@
  {
   "id": 7313110001,
   "districtId": 7313110,
-  "name": "LALLISENG"
+  "districtName": "KEERA",
+  "name": "LALLISENG",
+  "postalCode": "90993"
  },
  {
   "id": 7313110002,
   "districtId": 7313110,
-  "name": "PATTIROLOKKA"
+  "districtName": "KEERA",
+  "name": "PATTIROLOKKA",
+  "postalCode": "90993"
  },
  {
   "id": 7313110003,
   "districtId": 7313110,
-  "name": "INRELLO"
+  "districtName": "KEERA",
+  "name": "INRELLO",
+  "postalCode": "90993"
  },
  {
   "id": 7313110004,
   "districtId": 7313110,
-  "name": "CIROMANIE"
+  "districtName": "KEERA",
+  "name": "CIROMANIE",
+  "postalCode": "90993"
  },
  {
   "id": 7313110005,
   "districtId": 7313110,
-  "name": "BALLERE"
+  "districtName": "KEERA",
+  "name": "BALLERE",
+  "postalCode": ""
  },
  {
   "id": 7313110006,
   "districtId": 7313110,
-  "name": "KEERA"
+  "districtName": "KEERA",
+  "name": "KEERA",
+  "postalCode": "90993"
  },
  {
   "id": 7313110007,
   "districtId": 7313110,
-  "name": "PAOJEPE"
+  "districtName": "KEERA",
+  "name": "PAOJEPE",
+  "postalCode": "90993"
  },
  {
   "id": 7313110008,
   "districtId": 7313110,
-  "name": "LABAWANG"
+  "districtName": "KEERA",
+  "name": "LABAWANG",
+  "postalCode": "90993"
  },
  {
   "id": 7313110009,
   "districtId": 7313110,
-  "name": "AWOTA"
+  "districtName": "KEERA",
+  "name": "AWOTA",
+  "postalCode": "90993"
  },
  {
   "id": 7313110010,
   "districtId": 7313110,
-  "name": "A W O"
+  "districtName": "KEERA",
+  "name": "A W O",
+  "postalCode": ""
  }
 ]

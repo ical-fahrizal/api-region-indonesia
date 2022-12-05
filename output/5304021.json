@@ -2,56 +2,78 @@
  {
   "id": 5304021001,
   "districtId": 5304021,
-  "name": "LAOB"
+  "districtName": "POLEN",
+  "name": "LAOB",
+  "postalCode": "85561"
  },
  {
   "id": 5304021002,
   "districtId": 5304021,
-  "name": "KONBAKI"
+  "districtName": "POLEN",
+  "name": "KONBAKI",
+  "postalCode": "85561"
  },
  {
   "id": 5304021003,
   "districtId": 5304021,
-  "name": "PUNA"
+  "districtName": "POLEN",
+  "name": "PUNA",
+  "postalCode": "85561"
  },
  {
   "id": 5304021004,
   "districtId": 5304021,
-  "name": "LOLI"
+  "districtName": "POLEN",
+  "name": "LOLI",
+  "postalCode": "85561"
  },
  {
   "id": 5304021005,
   "districtId": 5304021,
-  "name": "MNESATBUBAK"
+  "districtName": "POLEN",
+  "name": "MNESATBUBAK",
+  "postalCode": "85561"
  },
  {
   "id": 5304021006,
   "districtId": 5304021,
-  "name": "BIJELI"
+  "districtName": "POLEN",
+  "name": "BIJELI",
+  "postalCode": "85661"
  },
  {
   "id": 5304021007,
   "districtId": 5304021,
-  "name": "USAPIMNASI"
+  "districtName": "POLEN",
+  "name": "USAPIMNASI",
+  "postalCode": "85561"
  },
  {
   "id": 5304021008,
   "districtId": 5304021,
-  "name": "FATUMNUTU"
+  "districtName": "POLEN",
+  "name": "FATUMNUTU",
+  "postalCode": "85561"
  },
  {
   "id": 5304021009,
   "districtId": 5304021,
-  "name": "OELNUNUH"
+  "districtName": "POLEN",
+  "name": "OELNUNUH",
+  "postalCode": "85561"
  },
  {
   "id": 5304021010,
   "districtId": 5304021,
-  "name": "BALU"
+  "districtName": "POLEN",
+  "name": "BALU",
+  "postalCode": "85561"
  },
  {
   "id": 5304021011,
   "districtId": 5304021,
-  "name": "SAINONI"
+  "districtName": "POLEN",
+  "name": "SAINONI",
+  "postalCode": "85651"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 1277051001,
   "districtId": 1277051,
-  "name": "SIMATOHIR"
+  "districtName": "PADANGSIDIMPUAN ANGKOLA JULU",
+  "name": "SIMATOHIR",
+  "postalCode": "22735"
  },
  {
   "id": 1277051002,
   "districtId": 1277051,
-  "name": "RIMBA SOPING"
+  "districtName": "PADANGSIDIMPUAN ANGKOLA JULU",
+  "name": "RIMBA SOPING",
+  "postalCode": "22733"
  },
  {
   "id": 1277051003,
   "districtId": 1277051,
-  "name": "MOMPANG"
+  "districtName": "PADANGSIDIMPUAN ANGKOLA JULU",
+  "name": "MOMPANG",
+  "postalCode": "22763"
  },
  {
   "id": 1277051004,
   "districtId": 1277051,
-  "name": "BATU LAYAN"
+  "districtName": "PADANGSIDIMPUAN ANGKOLA JULU",
+  "name": "BATU LAYAN",
+  "postalCode": "22733"
  },
  {
   "id": 1277051005,
   "districtId": 1277051,
-  "name": "JORING LOMBANG"
+  "districtName": "PADANGSIDIMPUAN ANGKOLA JULU",
+  "name": "JORING LOMBANG",
+  "postalCode": "22733"
  },
  {
   "id": 1277051006,
   "districtId": 1277051,
-  "name": "JORING NATOBANG"
+  "districtName": "PADANGSIDIMPUAN ANGKOLA JULU",
+  "name": "JORING NATOBANG",
+  "postalCode": "22733"
  },
  {
   "id": 1277051007,
   "districtId": 1277051,
-  "name": "SIMASOM"
+  "districtName": "PADANGSIDIMPUAN ANGKOLA JULU",
+  "name": "SIMASOM",
+  "postalCode": "22733"
  },
  {
   "id": 1277051008,
   "districtId": 1277051,
-  "name": "PINTU LANGIT JAE"
+  "districtName": "PADANGSIDIMPUAN ANGKOLA JULU",
+  "name": "PINTU LANGIT JAE",
+  "postalCode": "22733"
  }
 ]

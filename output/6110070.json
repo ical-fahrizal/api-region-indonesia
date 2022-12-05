@@ -2,96 +2,134 @@
  {
   "id": 6110070001,
   "districtId": 6110070,
-  "name": "NANGA SIYAI"
+  "districtName": "MENUKUNG",
+  "name": "NANGA SIYAI",
+  "postalCode": "79682"
  },
  {
   "id": 6110070002,
   "districtId": 6110070,
-  "name": "LAMAN MUMBUNG"
+  "districtName": "MENUKUNG",
+  "name": "LAMAN MUMBUNG",
+  "postalCode": "79682"
  },
  {
   "id": 6110070003,
   "districtId": 6110070,
-  "name": "MAWANG MENTATAI"
+  "districtName": "MENUKUNG",
+  "name": "MAWANG MENTATAI",
+  "postalCode": "79682"
  },
  {
   "id": 6110070004,
   "districtId": 6110070,
-  "name": "MELONA"
+  "districtName": "MENUKUNG",
+  "name": "MELONA",
+  "postalCode": "79682"
  },
  {
   "id": 6110070005,
   "districtId": 6110070,
-  "name": "MENUKUNG KOTA"
+  "districtName": "MENUKUNG",
+  "name": "MENUKUNG KOTA",
+  "postalCode": "79682"
  },
  {
   "id": 6110070006,
   "districtId": 6110070,
-  "name": "NANGA ELLA HULU"
+  "districtName": "MENUKUNG",
+  "name": "NANGA ELLA HULU",
+  "postalCode": ""
  },
  {
   "id": 6110070007,
   "districtId": 6110070,
-  "name": "TANJUNG BERINGIN"
+  "districtName": "MENUKUNG",
+  "name": "TANJUNG BERINGIN",
+  "postalCode": "22161"
  },
  {
   "id": 6110070008,
   "districtId": 6110070,
-  "name": "LANDAU LEBAN"
+  "districtName": "MENUKUNG",
+  "name": "LANDAU LEBAN",
+  "postalCode": "79682"
  },
  {
   "id": 6110070009,
   "districtId": 6110070,
-  "name": "SUNGAI SAMPUK"
+  "districtName": "MENUKUNG",
+  "name": "SUNGAI SAMPUK",
+  "postalCode": ""
  },
  {
   "id": 6110070010,
   "districtId": 6110070,
-  "name": "BELABAN ELLA"
+  "districtName": "MENUKUNG",
+  "name": "BELABAN ELLA",
+  "postalCode": "79682"
  },
  {
   "id": 6110070011,
   "districtId": 6110070,
-  "name": "SUNGAI SAMPAK"
+  "districtName": "MENUKUNG",
+  "name": "SUNGAI SAMPAK",
+  "postalCode": ""
  },
  {
   "id": 6110070012,
   "districtId": 6110070,
-  "name": "NUSA PORING"
+  "districtName": "MENUKUNG",
+  "name": "NUSA PORING",
+  "postalCode": "79682"
  },
  {
   "id": 6110070013,
   "districtId": 6110070,
-  "name": "BATU ONAP"
+  "districtName": "MENUKUNG",
+  "name": "BATU ONAP",
+  "postalCode": "79682"
  },
  {
   "id": 6110070014,
   "districtId": 6110070,
-  "name": "BATU BADAK"
+  "districtName": "MENUKUNG",
+  "name": "BATU BADAK",
+  "postalCode": "34384"
  },
  {
   "id": 6110070015,
   "districtId": 6110070,
-  "name": "LIHAI"
+  "districtName": "MENUKUNG",
+  "name": "LIHAI",
+  "postalCode": "79682"
  },
  {
   "id": 6110070016,
   "districtId": 6110070,
-  "name": "NANGA KERUAB"
+  "districtName": "MENUKUNG",
+  "name": "NANGA KERUAB",
+  "postalCode": ""
  },
  {
   "id": 6110070017,
   "districtId": 6110070,
-  "name": "PELAIK KERUAB"
+  "districtName": "MENUKUNG",
+  "name": "PELAIK KERUAB",
+  "postalCode": ""
  },
  {
   "id": 6110070018,
   "districtId": 6110070,
-  "name": "OYAH"
+  "districtName": "MENUKUNG",
+  "name": "OYAH",
+  "postalCode": "79682"
  },
  {
   "id": 6110070019,
   "districtId": 6110070,
-  "name": "BATAS NANGKA"
+  "districtName": "MENUKUNG",
+  "name": "BATAS NANGKA",
+  "postalCode": "79682"
  }
 ]

@@ -2,46 +2,64 @@
  {
   "id": 9109073001,
   "districtId": 9109073,
-  "name": "AKMURI"
+  "districtName": "MANEKAR",
+  "name": "AKMURI",
+  "postalCode": "98372"
  },
  {
   "id": 9109073002,
   "districtId": 9109073,
-  "name": "ATAY"
+  "districtName": "MANEKAR",
+  "name": "ATAY",
+  "postalCode": ""
  },
  {
   "id": 9109073003,
   "districtId": 9109073,
-  "name": "MAUMI"
+  "districtName": "MANEKAR",
+  "name": "MAUMI",
+  "postalCode": ""
  },
  {
   "id": 9109073004,
   "districtId": 9109073,
-  "name": "ANETI"
+  "districtName": "MANEKAR",
+  "name": "ANETI",
+  "postalCode": ""
  },
  {
   "id": 9109073005,
   "districtId": 9109073,
-  "name": "AJAMI WARIPI"
+  "districtName": "MANEKAR",
+  "name": "AJAMI WARIPI",
+  "postalCode": ""
  },
  {
   "id": 9109073006,
   "districtId": 9109073,
-  "name": "ITAFIFI"
+  "districtName": "MANEKAR",
+  "name": "ITAFIFI",
+  "postalCode": ""
  },
  {
   "id": 9109073007,
   "districtId": 9109073,
-  "name": "AWORI"
+  "districtName": "MANEKAR",
+  "name": "AWORI",
+  "postalCode": ""
  },
  {
   "id": 9109073008,
   "districtId": 9109073,
-  "name": "ATUNARI"
+  "districtName": "MANEKAR",
+  "name": "ATUNARI",
+  "postalCode": ""
  },
  {
   "id": 9109073009,
   "districtId": 9109073,
-  "name": "ARANARI"
+  "districtName": "MANEKAR",
+  "name": "ARANARI",
+  "postalCode": ""
  }
 ]

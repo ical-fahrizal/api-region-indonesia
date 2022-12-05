@@ -2,21 +2,29 @@
  {
   "id": 9420041003,
   "districtId": 9420041,
-  "name": "KIBAY"
+  "districtName": "ARSO TIMUR",
+  "name": "KIBAY",
+  "postalCode": "99468"
  },
  {
   "id": 9420041004,
   "districtId": 9420041,
-  "name": "SANGKE"
+  "districtName": "ARSO TIMUR",
+  "name": "SANGKE",
+  "postalCode": "99468"
  },
  {
   "id": 9420041005,
   "districtId": 9420041,
-  "name": "SKOFRO"
+  "districtName": "ARSO TIMUR",
+  "name": "SKOFRO",
+  "postalCode": "99468"
  },
  {
   "id": 9420041014,
   "districtId": 9420041,
-  "name": "AMYU"
+  "districtName": "ARSO TIMUR",
+  "name": "AMYU",
+  "postalCode": ""
  }
 ]

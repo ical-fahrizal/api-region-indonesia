@@ -2,31 +2,43 @@
  {
   "id": 7571031001,
   "districtId": 7571031,
-  "name": "WUMIALO"
+  "districtName": "KOTA TENGAH",
+  "name": "WUMIALO",
+  "postalCode": "96128"
  },
  {
   "id": 7571031002,
   "districtId": 7571031,
-  "name": "DULALOWO"
+  "districtName": "KOTA TENGAH",
+  "name": "DULALOWO",
+  "postalCode": "96128"
  },
  {
   "id": 7571031003,
   "districtId": 7571031,
-  "name": "LILUWO"
+  "districtName": "KOTA TENGAH",
+  "name": "LILUWO",
+  "postalCode": "96129"
  },
  {
   "id": 7571031004,
   "districtId": 7571031,
-  "name": "PULUBALA"
+  "districtName": "KOTA TENGAH",
+  "name": "PULUBALA",
+  "postalCode": "96127"
  },
  {
   "id": 7571031005,
   "districtId": 7571031,
-  "name": "PAGUYAMAN"
+  "districtName": "KOTA TENGAH",
+  "name": "PAGUYAMAN",
+  "postalCode": "96129"
  },
  {
   "id": 7571031006,
   "districtId": 7571031,
-  "name": "DULALOWO TIMUR"
+  "districtName": "KOTA TENGAH",
+  "name": "DULALOWO TIMUR",
+  "postalCode": "96128"
  }
 ]

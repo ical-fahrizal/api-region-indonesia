@@ -2,46 +2,64 @@
  {
   "id": 1275160001,
   "districtId": 1275160,
-  "name": "PANDAU HILIR"
+  "districtName": "MEDAN PERJUANGAN",
+  "name": "PANDAU HILIR",
+  "postalCode": "20232"
  },
  {
   "id": 1275160002,
   "districtId": 1275160,
-  "name": "SEI KERA HULU"
+  "districtName": "MEDAN PERJUANGAN",
+  "name": "SEI KERA HULU",
+  "postalCode": "20233"
  },
  {
   "id": 1275160003,
   "districtId": 1275160,
-  "name": "PAHLAWAN"
+  "districtName": "MEDAN PERJUANGAN",
+  "name": "PAHLAWAN",
+  "postalCode": "24476"
  },
  {
   "id": 1275160004,
   "districtId": 1275160,
-  "name": "SEI KERA HILIR I"
+  "districtName": "MEDAN PERJUANGAN",
+  "name": "SEI KERA HILIR I",
+  "postalCode": ""
  },
  {
   "id": 1275160005,
   "districtId": 1275160,
-  "name": "SEI KERA HILIR II"
+  "districtName": "MEDAN PERJUANGAN",
+  "name": "SEI KERA HILIR II",
+  "postalCode": ""
  },
  {
   "id": 1275160006,
   "districtId": 1275160,
-  "name": "SIDORAME TIMUR"
+  "districtName": "MEDAN PERJUANGAN",
+  "name": "SIDORAME TIMUR",
+  "postalCode": "20236"
  },
  {
   "id": 1275160007,
   "districtId": 1275160,
-  "name": "SIDORAME BARAT II"
+  "districtName": "MEDAN PERJUANGAN",
+  "name": "SIDORAME BARAT II",
+  "postalCode": "20236"
  },
  {
   "id": 1275160008,
   "districtId": 1275160,
-  "name": "SIDORAME BARAT I"
+  "districtName": "MEDAN PERJUANGAN",
+  "name": "SIDORAME BARAT I",
+  "postalCode": "20236"
  },
  {
   "id": 1275160009,
   "districtId": 1275160,
-  "name": "TEGAL REJO"
+  "districtName": "MEDAN PERJUANGAN",
+  "name": "TEGAL REJO",
+  "postalCode": "20237"
  }
 ]

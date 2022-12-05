@@ -2,41 +2,57 @@
  {
   "id": 5309074001,
   "districtId": 5309074,
-  "name": "TIKATUKANG"
+  "districtName": "ADONARA",
+  "name": "TIKATUKANG",
+  "postalCode": "86262"
  },
  {
   "id": 5309074002,
   "districtId": 5309074,
-  "name": "LAMAHODA"
+  "districtName": "ADONARA",
+  "name": "LAMAHODA",
+  "postalCode": "86262"
  },
  {
   "id": 5309074003,
   "districtId": 5309074,
-  "name": "KOLILANANG"
+  "districtName": "ADONARA",
+  "name": "KOLILANANG",
+  "postalCode": "86262"
  },
  {
   "id": 5309074004,
   "districtId": 5309074,
-  "name": "SAGU"
+  "districtName": "ADONARA",
+  "name": "SAGU",
+  "postalCode": "86262"
  },
  {
   "id": 5309074005,
   "districtId": 5309074,
-  "name": "ADONARA"
+  "districtName": "ADONARA",
+  "name": "ADONARA",
+  "postalCode": "86262"
  },
  {
   "id": 5309074006,
   "districtId": 5309074,
-  "name": "NISA NULAN"
+  "districtName": "ADONARA",
+  "name": "NISA NULAN",
+  "postalCode": ""
  },
  {
   "id": 5309074007,
   "districtId": 5309074,
-  "name": "KOLI MASANG"
+  "districtName": "ADONARA",
+  "name": "KOLI MASANG",
+  "postalCode": ""
  },
  {
   "id": 5309074008,
   "districtId": 5309074,
-  "name": "KOLIPETUNG"
+  "districtName": "ADONARA",
+  "name": "KOLIPETUNG",
+  "postalCode": "86262"
  }
 ]

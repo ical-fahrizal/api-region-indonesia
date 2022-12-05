@@ -2,21 +2,29 @@
  {
   "id": 1301011001,
   "districtId": 1301011,
-  "name": "BULASAT"
+  "districtName": "PAGAI SELATAN",
+  "name": "BULASAT",
+  "postalCode": "25391"
  },
  {
   "id": 1301011002,
   "districtId": 1301011,
-  "name": "SINAKA"
+  "districtName": "PAGAI SELATAN",
+  "name": "SINAKA",
+  "postalCode": ""
  },
  {
   "id": 1301011003,
   "districtId": 1301011,
-  "name": "MAKALO"
+  "districtName": "PAGAI SELATAN",
+  "name": "MAKALO",
+  "postalCode": "25391"
  },
  {
   "id": 1301011004,
   "districtId": 1301011,
-  "name": "MALAKOPA"
+  "districtName": "PAGAI SELATAN",
+  "name": "MALAKOPA",
+  "postalCode": ""
  }
 ]

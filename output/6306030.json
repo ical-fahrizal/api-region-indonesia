@@ -2,56 +2,78 @@
  {
   "id": 6306030001,
   "districtId": 6306030,
-  "name": "AMBUTUN"
+  "districtName": "TELAGA LANGSAT",
+  "name": "AMBUTUN",
+  "postalCode": "71292"
  },
  {
   "id": 6306030003,
   "districtId": 6306030,
-  "name": "LOK BINUANG"
+  "districtName": "TELAGA LANGSAT",
+  "name": "LOK BINUANG",
+  "postalCode": "71292"
  },
  {
   "id": 6306030004,
   "districtId": 6306030,
-  "name": "TELAGA LANGSAT"
+  "districtName": "TELAGA LANGSAT",
+  "name": "TELAGA LANGSAT",
+  "postalCode": "70861"
  },
  {
   "id": 6306030005,
   "districtId": 6306030,
-  "name": "MANDALA"
+  "districtName": "TELAGA LANGSAT",
+  "name": "MANDALA",
+  "postalCode": "45652"
  },
  {
   "id": 6306030008,
   "districtId": 6306030,
-  "name": "PAKUAN TIMUR"
+  "districtName": "TELAGA LANGSAT",
+  "name": "PAKUAN TIMUR",
+  "postalCode": "71292"
  },
  {
   "id": 6306030010,
   "districtId": 6306030,
-  "name": "PANDULANGAN"
+  "districtName": "TELAGA LANGSAT",
+  "name": "PANDULANGAN",
+  "postalCode": "71416"
  },
  {
   "id": 6306030011,
   "districtId": 6306030,
-  "name": "LONGAWANG"
+  "districtName": "TELAGA LANGSAT",
+  "name": "LONGAWANG",
+  "postalCode": "71292"
  },
  {
   "id": 6306030012,
   "districtId": 6306030,
-  "name": "GUMBIL"
+  "districtName": "TELAGA LANGSAT",
+  "name": "GUMBIL",
+  "postalCode": "71292"
  },
  {
   "id": 6306030014,
   "districtId": 6306030,
-  "name": "HAMAK"
+  "districtName": "TELAGA LANGSAT",
+  "name": "HAMAK",
+  "postalCode": "71292"
  },
  {
   "id": 6306030015,
   "districtId": 6306030,
-  "name": "HAMAK TIMUR"
+  "districtName": "TELAGA LANGSAT",
+  "name": "HAMAK TIMUR",
+  "postalCode": "71292"
  },
  {
   "id": 6306030016,
   "districtId": 6306030,
-  "name": "HAMAK UTARA"
+  "districtName": "TELAGA LANGSAT",
+  "name": "HAMAK UTARA",
+  "postalCode": "71292"
  }
 ]

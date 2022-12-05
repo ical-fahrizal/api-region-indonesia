@@ -2,46 +2,64 @@
  {
   "id": 3207220001,
   "districtId": 3207220,
-  "name": "PANARAGAN"
+  "districtName": "CIKONENG",
+  "name": "PANARAGAN",
+  "postalCode": "34693"
  },
  {
   "id": 3207220002,
   "districtId": 3207220,
-  "name": "MARGALUYU"
+  "districtName": "CIKONENG",
+  "name": "MARGALUYU",
+  "postalCode": "43263"
  },
  {
   "id": 3207220003,
   "districtId": 3207220,
-  "name": "CIKONENG"
+  "districtName": "CIKONENG",
+  "name": "CIKONENG",
+  "postalCode": "46261"
  },
  {
   "id": 3207220004,
   "districtId": 3207220,
-  "name": "KUJANG"
+  "districtName": "CIKONENG",
+  "name": "KUJANG",
+  "postalCode": "46261"
  },
  {
   "id": 3207220005,
   "districtId": 3207220,
-  "name": "DARMACAANG"
+  "districtName": "CIKONENG",
+  "name": "DARMACAANG",
+  "postalCode": "46261"
  },
  {
   "id": 3207220006,
   "districtId": 3207220,
-  "name": "NASOL"
+  "districtName": "CIKONENG",
+  "name": "NASOL",
+  "postalCode": "46261"
  },
  {
   "id": 3207220007,
   "districtId": 3207220,
-  "name": "SINDANGSARI"
+  "districtName": "CIKONENG",
+  "name": "SINDANGSARI",
+  "postalCode": "46383"
  },
  {
   "id": 3207220008,
   "districtId": 3207220,
-  "name": "CIMARI"
+  "districtName": "CIKONENG",
+  "name": "CIMARI",
+  "postalCode": "46261"
  },
  {
   "id": 3207220009,
   "districtId": 3207220,
-  "name": "GEGEMPALAN"
+  "districtName": "CIKONENG",
+  "name": "GEGEMPALAN",
+  "postalCode": "46261"
  }
 ]

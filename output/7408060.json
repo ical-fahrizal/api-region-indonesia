@@ -2,56 +2,78 @@
  {
   "id": 7408060001,
   "districtId": 7408060,
-  "name": "LATOWU"
+  "districtName": "BATU PUTIH",
+  "name": "LATOWU",
+  "postalCode": "93955"
  },
  {
   "id": 7408060002,
   "districtId": 7408060,
-  "name": "BATU API"
+  "districtName": "BATU PUTIH",
+  "name": "BATU API",
+  "postalCode": "34885"
  },
  {
   "id": 7408060003,
   "districtId": 7408060,
-  "name": "BUKIT TINGGI"
+  "districtName": "BATU PUTIH",
+  "name": "BUKIT TINGGI",
+  "postalCode": "22756"
  },
  {
   "id": 7408060004,
   "districtId": 7408060,
-  "name": "BATU PUTIH"
+  "districtName": "BATU PUTIH",
+  "name": "BATU PUTIH",
+  "postalCode": "37482"
  },
  {
   "id": 7408060006,
   "districtId": 7408060,
-  "name": "MOSIKU"
+  "districtName": "BATU PUTIH",
+  "name": "MOSIKU",
+  "postalCode": "93955"
  },
  {
   "id": 7408060007,
   "districtId": 7408060,
-  "name": "LELEWAWO"
+  "districtName": "BATU PUTIH",
+  "name": "LELEWAWO",
+  "postalCode": "93955"
  },
  {
   "id": 7408060015,
   "districtId": 7408060,
-  "name": "PARU LAMPE"
+  "districtName": "BATU PUTIH",
+  "name": "PARU LAMPE",
+  "postalCode": ""
  },
  {
   "id": 7408060016,
   "districtId": 7408060,
-  "name": "BUKIT BARU"
+  "districtName": "BATU PUTIH",
+  "name": "BUKIT BARU",
+  "postalCode": "30131"
  },
  {
   "id": 7408060017,
   "districtId": 7408060,
-  "name": "PUNCAK HARAPAN"
+  "districtName": "BATU PUTIH",
+  "name": "PUNCAK HARAPAN",
+  "postalCode": "71154"
  },
  {
   "id": 7408060018,
   "districtId": 7408060,
-  "name": "MAKKUASENG"
+  "districtName": "BATU PUTIH",
+  "name": "MAKKUASENG",
+  "postalCode": "93955"
  },
  {
   "id": 7408060019,
   "districtId": 7408060,
-  "name": "TETEBAWO"
+  "districtName": "BATU PUTIH",
+  "name": "TETEBAWO",
+  "postalCode": "93955"
  }
 ]

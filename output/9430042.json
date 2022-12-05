@@ -2,26 +2,36 @@
  {
   "id": 9430042002,
   "districtId": 9430042,
-  "name": "WAME"
+  "districtName": "BRUWA",
+  "name": "WAME",
+  "postalCode": "99567"
  },
  {
   "id": 9430042003,
   "districtId": 9430042,
-  "name": "EKABA"
+  "districtName": "BRUWA",
+  "name": "EKABA",
+  "postalCode": "99567"
  },
  {
   "id": 9430042004,
   "districtId": 9430042,
-  "name": "OGODOME"
+  "districtName": "BRUWA",
+  "name": "OGODOME",
+  "postalCode": ""
  },
  {
   "id": 9430042005,
   "districtId": 9430042,
-  "name": "LONGGAPURA"
+  "districtName": "BRUWA",
+  "name": "LONGGAPURA",
+  "postalCode": ""
  },
  {
   "id": 9430042009,
   "districtId": 9430042,
-  "name": "YALOGU"
+  "districtName": "BRUWA",
+  "name": "YALOGU",
+  "postalCode": ""
  }
 ]

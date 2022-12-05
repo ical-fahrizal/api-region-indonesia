@@ -2,81 +2,113 @@
  {
   "id": 3513110001,
   "districtId": 3513110,
-  "name": "RANON"
+  "districtName": "PAKUNIRAN",
+  "name": "RANON",
+  "postalCode": "67292"
  },
  {
   "id": 3513110003,
   "districtId": 3513110,
-  "name": "GUNGGUNGAN KIDUL"
+  "districtName": "PAKUNIRAN",
+  "name": "GUNGGUNGAN KIDUL",
+  "postalCode": "67292"
  },
  {
   "id": 3513110004,
   "districtId": 3513110,
-  "name": "KALIDANDAN"
+  "districtName": "PAKUNIRAN",
+  "name": "KALIDANDAN",
+  "postalCode": "67292"
  },
  {
   "id": 3513110005,
   "districtId": 3513110,
-  "name": "BLIMBING"
+  "districtName": "PAKUNIRAN",
+  "name": "BLIMBING",
+  "postalCode": "52364"
  },
  {
   "id": 3513110006,
   "districtId": 3513110,
-  "name": "GONDOSULI"
+  "districtName": "PAKUNIRAN",
+  "name": "GONDOSULI",
+  "postalCode": "56253"
  },
  {
   "id": 3513110007,
   "districtId": 3513110,
-  "name": "KERTONEGORO"
+  "districtName": "PAKUNIRAN",
+  "name": "KERTONEGORO",
+  "postalCode": "68171"
  },
  {
   "id": 3513110008,
   "districtId": 3513110,
-  "name": "BIMO"
+  "districtName": "PAKUNIRAN",
+  "name": "BIMO",
+  "postalCode": "67292"
  },
  {
   "id": 3513110009,
   "districtId": 3513110,
-  "name": "PAKUNIRAN"
+  "districtName": "PAKUNIRAN",
+  "name": "PAKUNIRAN",
+  "postalCode": "68262"
  },
  {
   "id": 3513110010,
   "districtId": 3513110,
-  "name": "PATEMON KULON"
+  "districtName": "PAKUNIRAN",
+  "name": "PATEMON KULON",
+  "postalCode": "67292"
  },
  {
   "id": 3513110011,
   "districtId": 3513110,
-  "name": "GUNGGUNGAN LOR"
+  "districtName": "PAKUNIRAN",
+  "name": "GUNGGUNGAN LOR",
+  "postalCode": "67292"
  },
  {
   "id": 3513110012,
   "districtId": 3513110,
-  "name": "SOGAAN"
+  "districtName": "PAKUNIRAN",
+  "name": "SOGAAN",
+  "postalCode": "67292"
  },
  {
   "id": 3513110013,
   "districtId": 3513110,
-  "name": "SUMBERKEMBAR"
+  "districtName": "PAKUNIRAN",
+  "name": "SUMBERKEMBAR",
+  "postalCode": "61374"
  },
  {
   "id": 3513110014,
   "districtId": 3513110,
-  "name": "ALASPANDAN"
+  "districtName": "PAKUNIRAN",
+  "name": "ALASPANDAN",
+  "postalCode": ""
  },
  {
   "id": 3513110015,
   "districtId": 3513110,
-  "name": "BUCOR WETAN"
+  "districtName": "PAKUNIRAN",
+  "name": "BUCOR WETAN",
+  "postalCode": "67292"
  },
  {
   "id": 3513110016,
   "districtId": 3513110,
-  "name": "BUCOR KULON"
+  "districtName": "PAKUNIRAN",
+  "name": "BUCOR KULON",
+  "postalCode": "67292"
  },
  {
   "id": 3513110017,
   "districtId": 3513110,
-  "name": "GLAGAH"
+  "districtName": "PAKUNIRAN",
+  "name": "GLAGAH",
+  "postalCode": "57481"
  }
 ]

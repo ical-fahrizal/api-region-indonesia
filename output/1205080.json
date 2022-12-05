@@ -2,66 +2,92 @@
  {
   "id": 1205080013,
   "districtId": 1205080,
-  "name": "SUKAMAJU"
+  "districtName": "PAHAE JAE",
+  "name": "SUKAMAJU",
+  "postalCode": "22465"
  },
  {
   "id": 1205080019,
   "districtId": 1205080,
-  "name": "SITOLU OMPU"
+  "districtName": "PAHAE JAE",
+  "name": "SITOLU OMPU",
+  "postalCode": "22465"
  },
  {
   "id": 1205080020,
   "districtId": 1205080,
-  "name": "SIOPAT BAHAL"
+  "districtName": "PAHAE JAE",
+  "name": "SIOPAT BAHAL",
+  "postalCode": "22465"
  },
  {
   "id": 1205080021,
   "districtId": 1205080,
-  "name": "PASAR SARULLA"
+  "districtName": "PAHAE JAE",
+  "name": "PASAR SARULLA",
+  "postalCode": ""
  },
  {
   "id": 1205080022,
   "districtId": 1205080,
-  "name": "NAHORNOP MARSADA"
+  "districtName": "PAHAE JAE",
+  "name": "NAHORNOP MARSADA",
+  "postalCode": "22465"
  },
  {
   "id": 1205080023,
   "districtId": 1205080,
-  "name": "SETIA"
+  "districtName": "PAHAE JAE",
+  "name": "SETIA",
+  "postalCode": "20713"
  },
  {
   "id": 1205080025,
   "districtId": 1205080,
-  "name": "PARSAORAN SAMOSIR"
+  "districtName": "PAHAE JAE",
+  "name": "PARSAORAN SAMOSIR",
+  "postalCode": "22465"
  },
  {
   "id": 1205080026,
   "districtId": 1205080,
-  "name": "PARDOMUAN NAINGGOLAN"
+  "districtName": "PAHAE JAE",
+  "name": "PARDOMUAN NAINGGOLAN",
+  "postalCode": "22465"
  },
  {
   "id": 1205080027,
   "districtId": 1205080,
-  "name": "PARSAORAN NAINGGOLAN"
+  "districtName": "PAHAE JAE",
+  "name": "PARSAORAN NAINGGOLAN",
+  "postalCode": "22465"
  },
  {
   "id": 1205080028,
   "districtId": 1205080,
-  "name": "PARDAMEAN NAINGGOLAN"
+  "districtName": "PAHAE JAE",
+  "name": "PARDAMEAN NAINGGOLAN",
+  "postalCode": "22465"
  },
  {
   "id": 1205080029,
   "districtId": 1205080,
-  "name": "SIGURUNG GURUNG"
+  "districtName": "PAHAE JAE",
+  "name": "SIGURUNG GURUNG",
+  "postalCode": "22465"
  },
  {
   "id": 1205080030,
   "districtId": 1205080,
-  "name": "SILANGKITANG"
+  "districtName": "PAHAE JAE",
+  "name": "SILANGKITANG",
+  "postalCode": "22758"
  },
  {
   "id": 1205080031,
   "districtId": 1205080,
-  "name": "TORDOLOK NAULI"
+  "districtName": "PAHAE JAE",
+  "name": "TORDOLOK NAULI",
+  "postalCode": "22465"
  }
 ]

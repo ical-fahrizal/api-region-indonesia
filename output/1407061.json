@@ -2,26 +2,36 @@
  {
   "id": 1407061001,
   "districtId": 1407061,
-  "name": "KEPENUHAN JAYA"
+  "districtName": "KEPENUHAN HULU",
+  "name": "KEPENUHAN JAYA",
+  "postalCode": "28559"
  },
  {
   "id": 1407061002,
   "districtId": 1407061,
-  "name": "KEPENUHAN HULU"
+  "districtName": "KEPENUHAN HULU",
+  "name": "KEPENUHAN HULU",
+  "postalCode": "28559"
  },
  {
   "id": 1407061003,
   "districtId": 1407061,
-  "name": "MUARA JAYA"
+  "districtName": "KEPENUHAN HULU",
+  "name": "MUARA JAYA",
+  "postalCode": "28559"
  },
  {
   "id": 1407061004,
   "districtId": 1407061,
-  "name": "PEKAN TEBIH"
+  "districtName": "KEPENUHAN HULU",
+  "name": "PEKAN TEBIH",
+  "postalCode": "28559"
  },
  {
   "id": 1407061005,
   "districtId": 1407061,
-  "name": "KEPAYANG"
+  "districtName": "KEPENUHAN HULU",
+  "name": "KEPAYANG",
+  "postalCode": "30756"
  }
 ]

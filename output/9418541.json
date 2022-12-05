@@ -2,26 +2,36 @@
  {
   "id": 9418541002,
   "districtId": 9418541,
-  "name": "LINGGIRA"
+  "districtName": "TELENGGEME",
+  "name": "LINGGIRA",
+  "postalCode": "99562"
  },
  {
   "id": 9418541003,
   "districtId": 9418541,
-  "name": "WEKARU"
+  "districtName": "TELENGGEME",
+  "name": "WEKARU",
+  "postalCode": "99569"
  },
  {
   "id": 9418541004,
   "districtId": 9418541,
-  "name": "KAGI"
+  "districtName": "TELENGGEME",
+  "name": "KAGI",
+  "postalCode": "99569"
  },
  {
   "id": 9418541008,
   "districtId": 9418541,
-  "name": "ALUKUNI"
+  "districtName": "TELENGGEME",
+  "name": "ALUKUNI",
+  "postalCode": ""
  },
  {
   "id": 9418541010,
   "districtId": 9418541,
-  "name": "YAGAGOBAK"
+  "districtName": "TELENGGEME",
+  "name": "YAGAGOBAK",
+  "postalCode": "99569"
  }
 ]

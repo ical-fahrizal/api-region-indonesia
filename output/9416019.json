@@ -2,96 +2,134 @@
  {
   "id": 9416019001,
   "districtId": 9416019,
-  "name": "MOMNOWAK"
+  "districtName": "SILIMO",
+  "name": "MOMNOWAK",
+  "postalCode": ""
  },
  {
   "id": 9416019002,
   "districtId": 9416019,
-  "name": "EKSA"
+  "districtName": "SILIMO",
+  "name": "EKSA",
+  "postalCode": "99571"
  },
  {
   "id": 9416019003,
   "districtId": 9416019,
-  "name": "SILIMO"
+  "districtName": "SILIMO",
+  "name": "SILIMO",
+  "postalCode": "99571"
  },
  {
   "id": 9416019004,
   "districtId": 9416019,
-  "name": "SILOMA"
+  "districtName": "SILIMO",
+  "name": "SILOMA",
+  "postalCode": "99571"
  },
  {
   "id": 9416019005,
   "districtId": 9416019,
-  "name": "WALKRUK"
+  "districtName": "SILIMO",
+  "name": "WALKRUK",
+  "postalCode": "99571"
  },
  {
   "id": 9416019006,
   "districtId": 9416019,
-  "name": "SODULE"
+  "districtName": "SILIMO",
+  "name": "SODULE",
+  "postalCode": "99571"
  },
  {
   "id": 9416019007,
   "districtId": 9416019,
-  "name": "SAGADUK"
+  "districtName": "SILIMO",
+  "name": "SAGADUK",
+  "postalCode": "99571"
  },
  {
   "id": 9416019008,
   "districtId": 9416019,
-  "name": "ASIA"
+  "districtName": "SILIMO",
+  "name": "ASIA",
+  "postalCode": "99571"
  },
  {
   "id": 9416019010,
   "districtId": 9416019,
-  "name": "NEKILEI"
+  "districtName": "SILIMO",
+  "name": "NEKILEI",
+  "postalCode": "99571"
  },
  {
   "id": 9416019011,
   "districtId": 9416019,
-  "name": "SUOK"
+  "districtName": "SILIMO",
+  "name": "SUOK",
+  "postalCode": "99571"
  },
  {
   "id": 9416019012,
   "districtId": 9416019,
-  "name": "SIANELE"
+  "districtName": "SILIMO",
+  "name": "SIANELE",
+  "postalCode": "99571"
  },
  {
   "id": 9416019013,
   "districtId": 9416019,
-  "name": "EREMNAHOM"
+  "districtName": "SILIMO",
+  "name": "EREMNAHOM",
+  "postalCode": "99571"
  },
  {
   "id": 9416019014,
   "districtId": 9416019,
-  "name": "SILON"
+  "districtName": "SILIMO",
+  "name": "SILON",
+  "postalCode": "99571"
  },
  {
   "id": 9416019015,
   "districtId": 9416019,
-  "name": "FABE"
+  "districtName": "SILIMO",
+  "name": "FABE",
+  "postalCode": "99571"
  },
  {
   "id": 9416019016,
   "districtId": 9416019,
-  "name": "WEAKMA"
+  "districtName": "SILIMO",
+  "name": "WEAKMA",
+  "postalCode": "99571"
  },
  {
   "id": 9416019017,
   "districtId": 9416019,
-  "name": "PINDA"
+  "districtName": "SILIMO",
+  "name": "PINDA",
+  "postalCode": "99571"
  },
  {
   "id": 9416019018,
   "districtId": 9416019,
-  "name": "HWESALOME"
+  "districtName": "SILIMO",
+  "name": "HWESALOME",
+  "postalCode": ""
  },
  {
   "id": 9416019019,
   "districtId": 9416019,
-  "name": "SEBIN"
+  "districtName": "SILIMO",
+  "name": "SEBIN",
+  "postalCode": "99571"
  },
  {
   "id": 9416019020,
   "districtId": 9416019,
-  "name": "WUBIALO"
+  "districtName": "SILIMO",
+  "name": "WUBIALO",
+  "postalCode": "99571"
  }
 ]

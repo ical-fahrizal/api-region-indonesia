@@ -2,61 +2,85 @@
  {
   "id": 8205020004,
   "districtId": 8205020,
-  "name": "KAO"
+  "districtName": "KAO",
+  "name": "KAO",
+  "postalCode": "97764"
  },
  {
   "id": 8205020005,
   "districtId": 8205020,
-  "name": "WARINGIN LELEWI"
+  "districtName": "KAO",
+  "name": "WARINGIN LELEWI",
+  "postalCode": "97764"
  },
  {
   "id": 8205020006,
   "districtId": 8205020,
-  "name": "JATI"
+  "districtName": "KAO",
+  "name": "JATI",
+  "postalCode": "20152"
  },
  {
   "id": 8205020007,
   "districtId": 8205020,
-  "name": "SOASANGAJI DIM DIM"
+  "districtName": "KAO",
+  "name": "SOASANGAJI DIM DIM",
+  "postalCode": "97764"
  },
  {
   "id": 8205020008,
   "districtId": 8205020,
-  "name": "SASUR"
+  "districtName": "KAO",
+  "name": "SASUR",
+  "postalCode": "97764"
  },
  {
   "id": 8205020010,
   "districtId": 8205020,
-  "name": "POPON"
+  "districtName": "KAO",
+  "name": "POPON",
+  "postalCode": "97764"
  },
  {
   "id": 8205020021,
   "districtId": 8205020,
-  "name": "PATANG"
+  "districtName": "KAO",
+  "name": "PATANG",
+  "postalCode": "97764"
  },
  {
   "id": 8205020022,
   "districtId": 8205020,
-  "name": "BIANG"
+  "districtName": "KAO",
+  "name": "BIANG",
+  "postalCode": "97764"
  },
  {
   "id": 8205020025,
   "districtId": 8205020,
-  "name": "WARINGIN LAMO"
+  "districtName": "KAO",
+  "name": "WARINGIN LAMO",
+  "postalCode": "97764"
  },
  {
   "id": 8205020026,
   "districtId": 8205020,
-  "name": "GORUANG"
+  "districtName": "KAO",
+  "name": "GORUANG",
+  "postalCode": "97764"
  },
  {
   "id": 8205020027,
   "districtId": 8205020,
-  "name": "KUSU LOVRA"
+  "districtName": "KAO",
+  "name": "KUSU LOVRA",
+  "postalCode": ""
  },
  {
   "id": 8205020028,
   "districtId": 8205020,
-  "name": "SUMBER AGUNG"
+  "districtName": "KAO",
+  "name": "SUMBER AGUNG",
+  "postalCode": "37353"
  }
 ]

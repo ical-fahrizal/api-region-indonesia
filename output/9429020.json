@@ -2,26 +2,36 @@
  {
   "id": 9429020002,
   "districtId": 9429020,
-  "name": "KENYAM"
+  "districtName": "KENYAM",
+  "name": "KENYAM",
+  "postalCode": "99565"
  },
  {
   "id": 9429020008,
   "districtId": 9429020,
-  "name": "KEMALI"
+  "districtName": "KENYAM",
+  "name": "KEMALI",
+  "postalCode": "99565"
  },
  {
   "id": 9429020009,
   "districtId": 9429020,
-  "name": "SRALALA"
+  "districtName": "KENYAM",
+  "name": "SRALALA",
+  "postalCode": "99565"
  },
  {
   "id": 9429020012,
   "districtId": 9429020,
-  "name": "YUNAT"
+  "districtName": "KENYAM",
+  "name": "YUNAT",
+  "postalCode": "99565"
  },
  {
   "id": 9429020025,
   "districtId": 9429020,
-  "name": "BOMBAN"
+  "districtName": "KENYAM",
+  "name": "BOMBAN",
+  "postalCode": ""
  }
 ]

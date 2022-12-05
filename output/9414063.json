@@ -2,36 +2,50 @@
  {
   "id": 9414063001,
   "districtId": 9414063,
-  "name": "SAGIS"
+  "districtName": "TI-ZAIN",
+  "name": "SAGIS",
+  "postalCode": "99875"
  },
  {
   "id": 9414063002,
   "districtId": 9414063,
-  "name": "KUMABAN"
+  "districtName": "TI-ZAIN",
+  "name": "KUMABAN",
+  "postalCode": "99875"
  },
  {
   "id": 9414063003,
   "districtId": 9414063,
-  "name": "TUGUMAU"
+  "districtName": "TI-ZAIN",
+  "name": "TUGUMAU",
+  "postalCode": "99875"
  },
  {
   "id": 9414063004,
   "districtId": 9414063,
-  "name": "BASMAN"
+  "districtName": "TI-ZAIN",
+  "name": "BASMAN",
+  "postalCode": "99875"
  },
  {
   "id": 9414063005,
   "districtId": 9414063,
-  "name": "MEROKIMA"
+  "districtName": "TI-ZAIN",
+  "name": "MEROKIMA",
+  "postalCode": "99875"
  },
  {
   "id": 9414063007,
   "districtId": 9414063,
-  "name": "PIER"
+  "districtName": "TI-ZAIN",
+  "name": "PIER",
+  "postalCode": "99875"
  },
  {
   "id": 9414063008,
   "districtId": 9414063,
-  "name": "TARWA"
+  "districtName": "TI-ZAIN",
+  "name": "TARWA",
+  "postalCode": "99875"
  }
 ]

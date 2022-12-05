@@ -2,46 +2,64 @@
  {
   "id": 6307091001,
   "districtId": 6307091,
-  "name": "LIMPASU"
+  "districtName": "LIMPASU",
+  "name": "LIMPASU",
+  "postalCode": "71391"
  },
  {
   "id": 6307091002,
   "districtId": 6307091,
-  "name": "KABANG"
+  "districtName": "LIMPASU",
+  "name": "KABANG",
+  "postalCode": "71391"
  },
  {
   "id": 6307091003,
   "districtId": 6307091,
-  "name": "TAPUK"
+  "districtName": "LIMPASU",
+  "name": "TAPUK",
+  "postalCode": "71391"
  },
  {
   "id": 6307091004,
   "districtId": 6307091,
-  "name": "PAUH"
+  "districtName": "LIMPASU",
+  "name": "PAUH",
+  "postalCode": "28559"
  },
  {
   "id": 6307091005,
   "districtId": 6307091,
-  "name": "HAWANG"
+  "districtName": "LIMPASU",
+  "name": "HAWANG",
+  "postalCode": "71391"
  },
  {
   "id": 6307091006,
   "districtId": 6307091,
-  "name": "KARATUNGAN"
+  "districtName": "LIMPASU",
+  "name": "KARATUNGAN",
+  "postalCode": "71391"
  },
  {
   "id": 6307091007,
   "districtId": 6307091,
-  "name": "ABUNG"
+  "districtName": "LIMPASU",
+  "name": "ABUNG",
+  "postalCode": "71391"
  },
  {
   "id": 6307091008,
   "districtId": 6307091,
-  "name": "ABUNG SURAPATI"
+  "districtName": "LIMPASU",
+  "name": "ABUNG SURAPATI",
+  "postalCode": "71391"
  },
  {
   "id": 6307091009,
   "districtId": 6307091,
-  "name": "KARAU"
+  "districtName": "LIMPASU",
+  "name": "KARAU",
+  "postalCode": "71391"
  }
 ]

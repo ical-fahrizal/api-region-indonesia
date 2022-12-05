@@ -2,61 +2,85 @@
  {
   "id": 3308090001,
   "districtId": 3308090,
-  "name": "GONDOWANGI"
+  "districtName": "SAWANGAN",
+  "name": "GONDOWANGI",
+  "postalCode": "56481"
  },
  {
   "id": 3308090002,
   "districtId": 3308090,
-  "name": "SAWANGAN"
+  "districtName": "SAWANGAN",
+  "name": "SAWANGAN",
+  "postalCode": "41272"
  },
  {
   "id": 3308090003,
   "districtId": 3308090,
-  "name": "MANGUNSARI"
+  "districtName": "SAWANGAN",
+  "name": "MANGUNSARI",
+  "postalCode": "50227"
  },
  {
   "id": 3308090004,
   "districtId": 3308090,
-  "name": "TIRTOSARI"
+  "districtName": "SAWANGAN",
+  "name": "TIRTOSARI",
+  "postalCode": "56481"
  },
  {
   "id": 3308090005,
   "districtId": 3308090,
-  "name": "PODOSOKO"
+  "districtName": "SAWANGAN",
+  "name": "PODOSOKO",
+  "postalCode": "56191"
  },
  {
   "id": 3308090007,
   "districtId": 3308090,
-  "name": "KROGOWANAN"
+  "districtName": "SAWANGAN",
+  "name": "KROGOWANAN",
+  "postalCode": "56481"
  },
  {
   "id": 3308090008,
   "districtId": 3308090,
-  "name": "KAPUHAN"
+  "districtName": "SAWANGAN",
+  "name": "KAPUHAN",
+  "postalCode": "56481"
  },
  {
   "id": 3308090009,
   "districtId": 3308090,
-  "name": "GANTANG"
+  "districtName": "SAWANGAN",
+  "name": "GANTANG",
+  "postalCode": "56481"
  },
  {
   "id": 3308090010,
   "districtId": 3308090,
-  "name": "JATI"
+  "districtName": "SAWANGAN",
+  "name": "JATI",
+  "postalCode": "20152"
  },
  {
   "id": 3308090011,
   "districtId": 3308090,
-  "name": "SORONALAN"
+  "districtName": "SAWANGAN",
+  "name": "SORONALAN",
+  "postalCode": "56481"
  },
  {
   "id": 3308090014,
   "districtId": 3308090,
-  "name": "WONOLELO"
+  "districtName": "SAWANGAN",
+  "name": "WONOLELO",
+  "postalCode": "56411"
  },
  {
   "id": 3308090015,
   "districtId": 3308090,
-  "name": "BANYUROTO"
+  "districtName": "SAWANGAN",
+  "name": "BANYUROTO",
+  "postalCode": "54363"
  }
 ]

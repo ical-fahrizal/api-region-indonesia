@@ -2,56 +2,78 @@
  {
   "id": 7206031001,
   "districtId": 7206031,
-  "name": "BUGA"
+  "districtName": "OGODEIDE",
+  "name": "BUGA",
+  "postalCode": "23951"
  },
  {
   "id": 7206031002,
   "districtId": 7206031,
-  "name": "BATUILO"
+  "districtName": "OGODEIDE",
+  "name": "BATUILO",
+  "postalCode": "94516"
  },
  {
   "id": 7206031003,
   "districtId": 7206031,
-  "name": "BAMBALAGA"
+  "districtName": "OGODEIDE",
+  "name": "BAMBALAGA",
+  "postalCode": "94516"
  },
  {
   "id": 7206031004,
   "districtId": 7206031,
-  "name": "KAMALU"
+  "districtName": "OGODEIDE",
+  "name": "KAMALU",
+  "postalCode": "94516"
  },
  {
   "id": 7206031005,
   "districtId": 7206031,
-  "name": "MUARA BESAR"
+  "districtName": "OGODEIDE",
+  "name": "MUARA BESAR",
+  "postalCode": "94516"
  },
  {
   "id": 7206031006,
   "districtId": 7206031,
-  "name": "BILO"
+  "districtName": "OGODEIDE",
+  "name": "BILO",
+  "postalCode": "94516"
  },
  {
   "id": 7206031007,
   "districtId": 7206031,
-  "name": "PAGAITAN"
+  "districtName": "OGODEIDE",
+  "name": "PAGAITAN",
+  "postalCode": "94516"
  },
  {
   "id": 7206031008,
   "districtId": 7206031,
-  "name": "LABUAN LOBO"
+  "districtName": "OGODEIDE",
+  "name": "LABUAN LOBO",
+  "postalCode": "94516"
  },
  {
   "id": 7206031009,
   "districtId": 7206031,
-  "name": "SAMBUJAN"
+  "districtName": "OGODEIDE",
+  "name": "SAMBUJAN",
+  "postalCode": "94516"
  },
  {
   "id": 7206031010,
   "districtId": 7206031,
-  "name": "PULIAS"
+  "districtName": "OGODEIDE",
+  "name": "PULIAS",
+  "postalCode": "94516"
  },
  {
   "id": 7206031011,
   "districtId": 7206031,
-  "name": "KABETAN"
+  "districtName": "OGODEIDE",
+  "name": "KABETAN",
+  "postalCode": "94516"
  }
 ]

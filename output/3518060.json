@@ -2,76 +2,106 @@
  {
   "id": 3518060001,
   "districtId": 3518060,
-  "name": "KEDUNG OMBO"
+  "districtName": "TANJUNGANOM",
+  "name": "KEDUNG OMBO",
+  "postalCode": "64482"
  },
  {
   "id": 3518060004,
   "districtId": 3518060,
-  "name": "KAMPUNGBARU"
+  "districtName": "TANJUNGANOM",
+  "name": "KAMPUNGBARU",
+  "postalCode": "35592"
  },
  {
   "id": 3518060005,
   "districtId": 3518060,
-  "name": "WATES"
+  "districtName": "TANJUNGANOM",
+  "name": "WATES",
+  "postalCode": "32273"
  },
  {
   "id": 3518060006,
   "districtId": 3518060,
-  "name": "MALANGSARI"
+  "districtName": "TANJUNGANOM",
+  "name": "MALANGSARI",
+  "postalCode": "45272"
  },
  {
   "id": 3518060007,
   "districtId": 3518060,
-  "name": "GETAS"
+  "districtName": "TANJUNGANOM",
+  "name": "GETAS",
+  "postalCode": "51274"
  },
  {
   "id": 3518060008,
   "districtId": 3518060,
-  "name": "SONOBEKEL"
+  "districtName": "TANJUNGANOM",
+  "name": "SONOBEKEL",
+  "postalCode": "64482"
  },
  {
   "id": 3518060009,
   "districtId": 3518060,
-  "name": "NGADIREJO"
+  "districtName": "TANJUNGANOM",
+  "name": "NGADIREJO",
+  "postalCode": "31662"
  },
  {
   "id": 3518060010,
   "districtId": 3518060,
-  "name": "BANJAR ANYAR"
+  "districtName": "TANJUNGANOM",
+  "name": "BANJAR ANYAR",
+  "postalCode": "52464"
  },
  {
   "id": 3518060012,
   "districtId": 3518060,
-  "name": "SIDOHARJO"
+  "districtName": "TANJUNGANOM",
+  "name": "SIDOHARJO",
+  "postalCode": "30975"
  },
  {
   "id": 3518060013,
   "districtId": 3518060,
-  "name": "TANJUNG ANOM"
+  "districtName": "TANJUNGANOM",
+  "name": "TANJUNG ANOM",
+  "postalCode": "20353"
  },
  {
   "id": 3518060014,
   "districtId": 3518060,
-  "name": "JOGOMERTO"
+  "districtName": "TANJUNGANOM",
+  "name": "JOGOMERTO",
+  "postalCode": "64482"
  },
  {
   "id": 3518060015,
   "districtId": 3518060,
-  "name": "WARUJAYENG"
+  "districtName": "TANJUNGANOM",
+  "name": "WARUJAYENG",
+  "postalCode": "64482"
  },
  {
   "id": 3518060016,
   "districtId": 3518060,
-  "name": "KEDUNGREJO"
+  "districtName": "TANJUNGANOM",
+  "name": "KEDUNGREJO",
+  "postalCode": "57383"
  },
  {
   "id": 3518060018,
   "districtId": 3518060,
-  "name": "SAMBIREJO"
+  "districtName": "TANJUNGANOM",
+  "name": "SAMBIREJO",
+  "postalCode": "39153"
  },
  {
   "id": 3518060019,
   "districtId": 3518060,
-  "name": "DEMANGAN"
+  "districtName": "TANJUNGANOM",
+  "name": "DEMANGAN",
+  "postalCode": "57464"
  }
 ]

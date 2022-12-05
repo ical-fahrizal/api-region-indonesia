@@ -2,66 +2,92 @@
  {
   "id": 1507020005,
   "districtId": 1507020,
-  "name": "TELUK NILAU"
+  "districtName": "PENGABUAN",
+  "name": "TELUK NILAU",
+  "postalCode": "36553"
  },
  {
   "id": 1507020006,
   "districtId": 1507020,
-  "name": "SUNGAI SERINDIT"
+  "districtName": "PENGABUAN",
+  "name": "SUNGAI SERINDIT",
+  "postalCode": ""
  },
  {
   "id": 1507020007,
   "districtId": 1507020,
-  "name": "PARIT PUDIN"
+  "districtName": "PENGABUAN",
+  "name": "PARIT PUDIN",
+  "postalCode": "36553"
  },
  {
   "id": 1507020008,
   "districtId": 1507020,
-  "name": "MEKAR JATI"
+  "districtName": "PENGABUAN",
+  "name": "MEKAR JATI",
+  "postalCode": "36553"
  },
  {
   "id": 1507020010,
   "districtId": 1507020,
-  "name": "PARIT BILAL"
+  "districtName": "PENGABUAN",
+  "name": "PARIT BILAL",
+  "postalCode": "36553"
  },
  {
   "id": 1507020011,
   "districtId": 1507020,
-  "name": "SUAK SAMIN"
+  "districtName": "PENGABUAN",
+  "name": "SUAK SAMIN",
+  "postalCode": "36553"
  },
  {
   "id": 1507020012,
   "districtId": 1507020,
-  "name": "PARIT SIDANG"
+  "districtName": "PENGABUAN",
+  "name": "PARIT SIDANG",
+  "postalCode": "36553"
  },
  {
   "id": 1507020013,
   "districtId": 1507020,
-  "name": "SUNGAI PAMPANG"
+  "districtName": "PENGABUAN",
+  "name": "SUNGAI PAMPANG",
+  "postalCode": "36553"
  },
  {
   "id": 1507020014,
   "districtId": 1507020,
-  "name": "SUNGAI JERING"
+  "districtName": "PENGABUAN",
+  "name": "SUNGAI JERING",
+  "postalCode": "37361"
  },
  {
   "id": 1507020015,
   "districtId": 1507020,
-  "name": "SUNGAI RAYA"
+  "districtName": "PENGABUAN",
+  "name": "SUNGAI RAYA",
+  "postalCode": "22254"
  },
  {
   "id": 1507020016,
   "districtId": 1507020,
-  "name": "SUNGAI BAUNG"
+  "districtName": "PENGABUAN",
+  "name": "SUNGAI BAUNG",
+  "postalCode": "29351"
  },
  {
   "id": 1507020017,
   "districtId": 1507020,
-  "name": "KARYA MAJU"
+  "districtName": "PENGABUAN",
+  "name": "KARYA MAJU",
+  "postalCode": "20853"
  },
  {
   "id": 1507020018,
   "districtId": 1507020,
-  "name": "PASAR SENIN"
+  "districtName": "PENGABUAN",
+  "name": "PASAR SENIN",
+  "postalCode": "36553"
  }
 ]

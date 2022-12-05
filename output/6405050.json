@@ -2,71 +2,99 @@
  {
   "id": 6405050001,
   "districtId": 6405050,
-  "name": "LONG LANUK"
+  "districtName": "SAMBALIUNG",
+  "name": "LONG LANUK",
+  "postalCode": "77371"
  },
  {
   "id": 6405050002,
   "districtId": 6405050,
-  "name": "TUMBIT DAYAK"
+  "districtName": "SAMBALIUNG",
+  "name": "TUMBIT DAYAK",
+  "postalCode": "77371"
  },
  {
   "id": 6405050004,
   "districtId": 6405050,
-  "name": "INARAN"
+  "districtName": "SAMBALIUNG",
+  "name": "INARAN",
+  "postalCode": "77371"
  },
  {
   "id": 6405050005,
   "districtId": 6405050,
-  "name": "PEGAT BUKUR"
+  "districtName": "SAMBALIUNG",
+  "name": "PEGAT BUKUR",
+  "postalCode": "77371"
  },
  {
   "id": 6405050006,
   "districtId": 6405050,
-  "name": "RANTAU PANJANG"
+  "districtName": "SAMBALIUNG",
+  "name": "RANTAU PANJANG",
+  "postalCode": "24476"
  },
  {
   "id": 6405050007,
   "districtId": 6405050,
-  "name": "SAMBALIUNG"
+  "districtName": "SAMBALIUNG",
+  "name": "SAMBALIUNG",
+  "postalCode": "77371"
  },
  {
   "id": 6405050008,
   "districtId": 6405050,
-  "name": "BEBANIR"
+  "districtName": "SAMBALIUNG",
+  "name": "BEBANIR",
+  "postalCode": ""
  },
  {
   "id": 6405050009,
   "districtId": 6405050,
-  "name": "GURIMBANG"
+  "districtName": "SAMBALIUNG",
+  "name": "GURIMBANG",
+  "postalCode": "77371"
  },
  {
   "id": 6405050010,
   "districtId": 6405050,
-  "name": "TANJUNG PERANGAT"
+  "districtName": "SAMBALIUNG",
+  "name": "TANJUNG PERANGAT",
+  "postalCode": "77371"
  },
  {
   "id": 6405050011,
   "districtId": 6405050,
-  "name": "SUKAN TENGAH"
+  "districtName": "SAMBALIUNG",
+  "name": "SUKAN TENGAH",
+  "postalCode": "77371"
  },
  {
   "id": 6405050012,
   "districtId": 6405050,
-  "name": "SUARAN"
+  "districtName": "SAMBALIUNG",
+  "name": "SUARAN",
+  "postalCode": "77371"
  },
  {
   "id": 6405050013,
   "districtId": 6405050,
-  "name": "PESAYAN"
+  "districtName": "SAMBALIUNG",
+  "name": "PESAYAN",
+  "postalCode": "77371"
  },
  {
   "id": 6405050014,
   "districtId": 6405050,
-  "name": "PILANJAU"
+  "districtName": "SAMBALIUNG",
+  "name": "PILANJAU",
+  "postalCode": "77371"
  },
  {
   "id": 6405050015,
   "districtId": 6405050,
-  "name": "BENA BARU"
+  "districtName": "SAMBALIUNG",
+  "name": "BENA BARU",
+  "postalCode": "77371"
  }
 ]

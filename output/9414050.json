@@ -2,86 +2,120 @@
  {
   "id": 9414050001,
   "districtId": 9414050,
-  "name": "SIGARE"
+  "districtName": "ASSUE",
+  "name": "SIGARE",
+  "postalCode": "99874"
  },
  {
   "id": 9414050002,
   "districtId": 9414050,
-  "name": "KAITOK"
+  "districtName": "ASSUE",
+  "name": "KAITOK",
+  "postalCode": "99874"
  },
  {
   "id": 9414050003,
   "districtId": 9414050,
-  "name": "HOMANG"
+  "districtName": "ASSUE",
+  "name": "HOMANG",
+  "postalCode": "99874"
  },
  {
   "id": 9414050004,
   "districtId": 9414050,
-  "name": "JUFO KECIL"
+  "districtName": "ASSUE",
+  "name": "JUFO KECIL",
+  "postalCode": "99874"
  },
  {
   "id": 9414050005,
   "districtId": 9414050,
-  "name": "ECI"
+  "districtName": "ASSUE",
+  "name": "ECI",
+  "postalCode": "99874"
  },
  {
   "id": 9414050006,
   "districtId": 9414050,
-  "name": "YAME"
+  "districtName": "ASSUE",
+  "name": "YAME",
+  "postalCode": "99874"
  },
  {
   "id": 9414050007,
   "districtId": 9414050,
-  "name": "ABOGE"
+  "districtName": "ASSUE",
+  "name": "ABOGE",
+  "postalCode": "99874"
  },
  {
   "id": 9414050008,
   "districtId": 9414050,
-  "name": "KOPI"
+  "districtName": "ASSUE",
+  "name": "KOPI",
+  "postalCode": "95763"
  },
  {
   "id": 9414050009,
   "districtId": 9414050,
-  "name": "ISAGE"
+  "districtName": "ASSUE",
+  "name": "ISAGE",
+  "postalCode": "99874"
  },
  {
   "id": 9414050010,
   "districtId": 9414050,
-  "name": "KIKI"
+  "districtName": "ASSUE",
+  "name": "KIKI",
+  "postalCode": "85572"
  },
  {
   "id": 9414050011,
   "districtId": 9414050,
-  "name": "KHABU"
+  "districtName": "ASSUE",
+  "name": "KHABU",
+  "postalCode": "99874"
  },
  {
   "id": 9414050012,
   "districtId": 9414050,
-  "name": "JUFO BESAR"
+  "districtName": "ASSUE",
+  "name": "JUFO BESAR",
+  "postalCode": "99874"
  },
  {
   "id": 9414050014,
   "districtId": 9414050,
-  "name": "ASAREN"
+  "districtName": "ASSUE",
+  "name": "ASAREN",
+  "postalCode": ""
  },
  {
   "id": 9414050015,
   "districtId": 9414050,
-  "name": "CHANANI"
+  "districtName": "ASSUE",
+  "name": "CHANANI",
+  "postalCode": ""
  },
  {
   "id": 9414050016,
   "districtId": 9414050,
-  "name": "GIRIMIO"
+  "districtName": "ASSUE",
+  "name": "GIRIMIO",
+  "postalCode": "99874"
  },
  {
   "id": 9414050017,
   "districtId": 9414050,
-  "name": "HAFFO"
+  "districtName": "ASSUE",
+  "name": "HAFFO",
+  "postalCode": "99874"
  },
  {
   "id": 9414050018,
   "districtId": 9414050,
-  "name": "MEDA"
+  "districtName": "ASSUE",
+  "name": "MEDA",
+  "postalCode": "99874"
  }
 ]

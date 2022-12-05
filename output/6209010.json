@@ -2,81 +2,113 @@
  {
   "id": 6209010001,
   "districtId": 6209010,
-  "name": "PEGATAN HILIR"
+  "districtName": "KATINGAN KUALA",
+  "name": "PEGATAN HILIR",
+  "postalCode": ""
  },
  {
   "id": 6209010002,
   "districtId": 6209010,
-  "name": "PEGATAN HULU"
+  "districtName": "KATINGAN KUALA",
+  "name": "PEGATAN HULU",
+  "postalCode": ""
  },
  {
   "id": 6209010003,
   "districtId": 6209010,
-  "name": "JAYA MAKMUR"
+  "districtName": "KATINGAN KUALA",
+  "name": "JAYA MAKMUR",
+  "postalCode": "34682"
  },
  {
   "id": 6209010004,
   "districtId": 6209010,
-  "name": "SUBUR INDAH"
+  "districtName": "KATINGAN KUALA",
+  "name": "SUBUR INDAH",
+  "postalCode": "74463"
  },
  {
   "id": 6209010005,
   "districtId": 6209010,
-  "name": "KERAMAT"
+  "districtName": "KATINGAN KUALA",
+  "name": "KERAMAT",
+  "postalCode": "33134"
  },
  {
   "id": 6209010006,
   "districtId": 6209010,
-  "name": "SINGAM RAYA"
+  "districtName": "KATINGAN KUALA",
+  "name": "SINGAM RAYA",
+  "postalCode": "74463"
  },
  {
   "id": 6209010007,
   "districtId": 6209010,
-  "name": "BANGUN JAYA"
+  "districtName": "KATINGAN KUALA",
+  "name": "BANGUN JAYA",
+  "postalCode": "28558"
  },
  {
   "id": 6209010008,
   "districtId": 6209010,
-  "name": "KAMPUNG TENGAH"
+  "districtName": "KATINGAN KUALA",
+  "name": "KAMPUNG TENGAH",
+  "postalCode": "23766"
  },
  {
   "id": 6209010009,
   "districtId": 6209010,
-  "name": "KAMPUNG BARU"
+  "districtName": "KATINGAN KUALA",
+  "name": "KAMPUNG BARU",
+  "postalCode": "24652"
  },
  {
   "id": 6209010010,
   "districtId": 6209010,
-  "name": "SETIA MULIA"
+  "districtName": "KATINGAN KUALA",
+  "name": "SETIA MULIA",
+  "postalCode": "74463"
  },
  {
   "id": 6209010011,
   "districtId": 6209010,
-  "name": "SEBANGAU JAYA"
+  "districtName": "KATINGAN KUALA",
+  "name": "SEBANGAU JAYA",
+  "postalCode": "74463"
  },
  {
   "id": 6209010012,
   "districtId": 6209010,
-  "name": "SUNGAI KAKI"
+  "districtName": "KATINGAN KUALA",
+  "name": "SUNGAI KAKI",
+  "postalCode": "74463"
  },
  {
   "id": 6209010013,
   "districtId": 6209010,
-  "name": "SELAT BANING"
+  "districtName": "KATINGAN KUALA",
+  "name": "SELAT BANING",
+  "postalCode": "74463"
  },
  {
   "id": 6209010014,
   "districtId": 6209010,
-  "name": "MAKMUR UTAMA"
+  "districtName": "KATINGAN KUALA",
+  "name": "MAKMUR UTAMA",
+  "postalCode": "74463"
  },
  {
   "id": 6209010015,
   "districtId": 6209010,
-  "name": "BUMI SUBUR"
+  "districtName": "KATINGAN KUALA",
+  "name": "BUMI SUBUR",
+  "postalCode": "74463"
  },
  {
   "id": 6209010016,
   "districtId": 6209010,
-  "name": "BAKUNG RAYA"
+  "districtName": "KATINGAN KUALA",
+  "name": "BAKUNG RAYA",
+  "postalCode": "74463"
  }
 ]

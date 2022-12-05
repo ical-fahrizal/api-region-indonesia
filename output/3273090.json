@@ -2,21 +2,29 @@
  {
   "id": 3273090001,
   "districtId": 3273090,
-  "name": "CIJAURA"
+  "districtName": "BUAHBATU",
+  "name": "CIJAURA",
+  "postalCode": ""
  },
  {
   "id": 3273090002,
   "districtId": 3273090,
-  "name": "MARGASARI"
+  "districtName": "BUAHBATU",
+  "name": "MARGASARI",
+  "postalCode": "34198"
  },
  {
   "id": 3273090003,
   "districtId": 3273090,
-  "name": "SEKEJATI"
+  "districtName": "BUAHBATU",
+  "name": "SEKEJATI",
+  "postalCode": "40286"
  },
  {
   "id": 3273090004,
   "districtId": 3273090,
-  "name": "JATI SARI"
+  "districtName": "BUAHBATU",
+  "name": "JATI SARI",
+  "postalCode": "20852"
  }
 ]

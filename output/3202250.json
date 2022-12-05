@@ -2,31 +2,43 @@
  {
   "id": 3202250001,
   "districtId": 3202250,
-  "name": "SUKATANI"
+  "districtName": "PARAKAN SALAK",
+  "name": "SUKATANI",
+  "postalCode": "41384"
  },
  {
   "id": 3202250002,
   "districtId": 3202250,
-  "name": "SUKAKERSA"
+  "districtName": "PARAKAN SALAK",
+  "name": "SUKAKERSA",
+  "postalCode": "45377"
  },
  {
   "id": 3202250003,
   "districtId": 3202250,
-  "name": "BOJONGLONGOK"
+  "districtName": "PARAKAN SALAK",
+  "name": "BOJONGLONGOK",
+  "postalCode": "43355"
  },
  {
   "id": 3202250004,
   "districtId": 3202250,
-  "name": "BOJONGASIH"
+  "districtName": "PARAKAN SALAK",
+  "name": "BOJONGASIH",
+  "postalCode": "46475"
  },
  {
   "id": 3202250005,
   "districtId": 3202250,
-  "name": "LEBAKSARI"
+  "districtName": "PARAKAN SALAK",
+  "name": "LEBAKSARI",
+  "postalCode": "43355"
  },
  {
   "id": 3202250006,
   "districtId": 3202250,
-  "name": "PARAKANSALAK"
+  "districtName": "PARAKAN SALAK",
+  "name": "PARAKANSALAK",
+  "postalCode": "43355"
  }
 ]

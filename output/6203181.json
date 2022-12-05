@@ -2,51 +2,71 @@
  {
   "id": 6203181001,
   "districtId": 6203181,
-  "name": "MASAHA"
+  "districtName": "MANDAU TALAWANG",
+  "name": "MASAHA",
+  "postalCode": "74581"
  },
  {
   "id": 6203181002,
   "districtId": 6203181,
-  "name": "SEI PINANG"
+  "districtName": "MANDAU TALAWANG",
+  "name": "SEI PINANG",
+  "postalCode": ""
  },
  {
   "id": 6203181003,
   "districtId": 6203181,
-  "name": "TANJUNG RENDAN"
+  "districtName": "MANDAU TALAWANG",
+  "name": "TANJUNG RENDAN",
+  "postalCode": "74581"
  },
  {
   "id": 6203181004,
   "districtId": 6203181,
-  "name": "TUMBANG TIHIS"
+  "districtName": "MANDAU TALAWANG",
+  "name": "TUMBANG TIHIS",
+  "postalCode": "74581"
  },
  {
   "id": 6203181005,
   "districtId": 6203181,
-  "name": "LAWANG TAMANG"
+  "districtName": "MANDAU TALAWANG",
+  "name": "LAWANG TAMANG",
+  "postalCode": "74581"
  },
  {
   "id": 6203181006,
   "districtId": 6203181,
-  "name": "KARETAU MANTA`A"
+  "districtName": "MANDAU TALAWANG",
+  "name": "KARETAU MANTA`A",
+  "postalCode": ""
  },
  {
   "id": 6203181007,
   "districtId": 6203181,
-  "name": "TUMBANG MANYARUNG"
+  "districtName": "MANDAU TALAWANG",
+  "name": "TUMBANG MANYARUNG",
+  "postalCode": "74581"
  },
  {
   "id": 6203181008,
   "districtId": 6203181,
-  "name": "TUMBANG BOKOI"
+  "districtName": "MANDAU TALAWANG",
+  "name": "TUMBANG BOKOI",
+  "postalCode": ""
  },
  {
   "id": 6203181009,
   "districtId": 6203181,
-  "name": "JAKATAN MASAHA"
+  "districtName": "MANDAU TALAWANG",
+  "name": "JAKATAN MASAHA",
+  "postalCode": "73555"
  },
  {
   "id": 6203181010,
   "districtId": 6203181,
-  "name": "MASUPA RIA"
+  "districtName": "MANDAU TALAWANG",
+  "name": "MASUPA RIA",
+  "postalCode": "73555"
  }
 ]

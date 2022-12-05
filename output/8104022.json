@@ -2,51 +2,71 @@
  {
   "id": 8104022001,
   "districtId": 8104022,
-  "name": "WAEPOTI"
+  "districtName": "WAPLAU",
+  "name": "WAEPOTI",
+  "postalCode": ""
  },
  {
   "id": 8104022002,
   "districtId": 8104022,
-  "name": "WAPREA"
+  "districtName": "WAPLAU",
+  "name": "WAPREA",
+  "postalCode": "97571"
  },
  {
   "id": 8104022003,
   "districtId": 8104022,
-  "name": "WAILIHANG"
+  "districtName": "WAPLAU",
+  "name": "WAILIHANG",
+  "postalCode": ""
  },
  {
   "id": 8104022004,
   "districtId": 8104022,
-  "name": "HATAWANO"
+  "districtName": "WAPLAU",
+  "name": "HATAWANO",
+  "postalCode": "97571"
  },
  {
   "id": 8104022005,
   "districtId": 8104022,
-  "name": "NAMSINA"
+  "districtName": "WAPLAU",
+  "name": "NAMSINA",
+  "postalCode": "97571"
  },
  {
   "id": 8104022006,
   "districtId": 8104022,
-  "name": "SAMALAGI"
+  "districtName": "WAPLAU",
+  "name": "SAMALAGI",
+  "postalCode": "97571"
  },
  {
   "id": 8104022007,
   "districtId": 8104022,
-  "name": "WAEURA"
+  "districtName": "WAPLAU",
+  "name": "WAEURA",
+  "postalCode": "97571"
  },
  {
   "id": 8104022008,
   "districtId": 8104022,
-  "name": "WAPLAU"
+  "districtName": "WAPLAU",
+  "name": "WAPLAU",
+  "postalCode": "97571"
  },
  {
   "id": 8104022009,
   "districtId": 8104022,
-  "name": "LAMAHANG"
+  "districtName": "WAPLAU",
+  "name": "LAMAHANG",
+  "postalCode": "97571"
  },
  {
   "id": 8104022010,
   "districtId": 8104022,
-  "name": "SKIKILALE"
+  "districtName": "WAPLAU",
+  "name": "SKIKILALE",
+  "postalCode": "97571"
  }
 ]

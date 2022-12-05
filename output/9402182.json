@@ -2,51 +2,71 @@
  {
   "id": 9402182010,
   "districtId": 9402182,
-  "name": "WOGI"
+  "districtName": "SILO KARNO DOGA",
+  "name": "WOGI",
+  "postalCode": "99554"
  },
  {
   "id": 9402182011,
   "districtId": 9402182,
-  "name": "HOLASILI"
+  "districtName": "SILO KARNO DOGA",
+  "name": "HOLASILI",
+  "postalCode": "99554"
  },
  {
   "id": 9402182014,
   "districtId": 9402182,
-  "name": "WAME"
+  "districtName": "SILO KARNO DOGA",
+  "name": "WAME",
+  "postalCode": "99567"
  },
  {
   "id": 9402182024,
   "districtId": 9402182,
-  "name": "ELABOGE"
+  "districtName": "SILO KARNO DOGA",
+  "name": "ELABOGE",
+  "postalCode": ""
  },
  {
   "id": 9402182030,
   "districtId": 9402182,
-  "name": "YEREGA"
+  "districtName": "SILO KARNO DOGA",
+  "name": "YEREGA",
+  "postalCode": "99554"
  },
  {
   "id": 9402182031,
   "districtId": 9402182,
-  "name": "APNAE"
+  "districtName": "SILO KARNO DOGA",
+  "name": "APNAE",
+  "postalCode": "99554"
  },
  {
   "id": 9402182035,
   "districtId": 9402182,
-  "name": "TIKAWO"
+  "districtName": "SILO KARNO DOGA",
+  "name": "TIKAWO",
+  "postalCode": "99554"
  },
  {
   "id": 9402182041,
   "districtId": 9402182,
-  "name": "OLAGI"
+  "districtName": "SILO KARNO DOGA",
+  "name": "OLAGI",
+  "postalCode": "99554"
  },
  {
   "id": 9402182042,
   "districtId": 9402182,
-  "name": "GIGILOBO"
+  "districtName": "SILO KARNO DOGA",
+  "name": "GIGILOBO",
+  "postalCode": "99554"
  },
  {
   "id": 9402182043,
   "districtId": 9402182,
-  "name": "WENENGGULIK"
+  "districtName": "SILO KARNO DOGA",
+  "name": "WENENGGULIK",
+  "postalCode": ""
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 3204290001,
   "districtId": 3204290,
-  "name": "CIBIRU HILIR"
+  "districtName": "CILEUNYI",
+  "name": "CIBIRU HILIR",
+  "postalCode": "40626"
  },
  {
   "id": 3204290002,
   "districtId": 3204290,
-  "name": "CINUNUK"
+  "districtName": "CILEUNYI",
+  "name": "CINUNUK",
+  "postalCode": "40624"
  },
  {
   "id": 3204290003,
   "districtId": 3204290,
-  "name": "CIMEKAR"
+  "districtName": "CILEUNYI",
+  "name": "CIMEKAR",
+  "postalCode": "40623"
  },
  {
   "id": 3204290004,
   "districtId": 3204290,
-  "name": "CILEUNYI KULON"
+  "districtName": "CILEUNYI",
+  "name": "CILEUNYI KULON",
+  "postalCode": "40621"
  },
  {
   "id": 3204290005,
   "districtId": 3204290,
-  "name": "CILEUNYI WETAN"
+  "districtName": "CILEUNYI",
+  "name": "CILEUNYI WETAN",
+  "postalCode": "40622"
  },
  {
   "id": 3204290006,
   "districtId": 3204290,
-  "name": "CIBIRU WETAN"
+  "districtName": "CILEUNYI",
+  "name": "CIBIRU WETAN",
+  "postalCode": "40625"
  }
 ]

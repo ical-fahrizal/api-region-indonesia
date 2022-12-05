@@ -2,81 +2,113 @@
  {
   "id": 7601030001,
   "districtId": 7601030,
-  "name": "MOSSO DUA"
+  "districtName": "SENDANA",
+  "name": "MOSSO DUA",
+  "postalCode": "91452"
  },
  {
   "id": 7601030002,
   "districtId": 7601030,
-  "name": "MOSSO"
+  "districtName": "SENDANA",
+  "name": "MOSSO",
+  "postalCode": "91354"
  },
  {
   "id": 7601030003,
   "districtId": 7601030,
-  "name": "PUTTADA"
+  "districtName": "SENDANA",
+  "name": "PUTTADA",
+  "postalCode": "91452"
  },
  {
   "id": 7601030004,
   "districtId": 7601030,
-  "name": "SENDANA"
+  "districtName": "SENDANA",
+  "name": "SENDANA",
+  "postalCode": "91959"
  },
  {
   "id": 7601030005,
   "districtId": 7601030,
-  "name": "TALLUM BANUA"
+  "districtName": "SENDANA",
+  "name": "TALLUM BANUA",
+  "postalCode": "91452"
  },
  {
   "id": 7601030011,
   "districtId": 7601030,
-  "name": "PUNDAU"
+  "districtName": "SENDANA",
+  "name": "PUNDAU",
+  "postalCode": "91452"
  },
  {
   "id": 7601030012,
   "districtId": 7601030,
-  "name": "BUKIT SAMANG"
+  "districtName": "SENDANA",
+  "name": "BUKIT SAMANG",
+  "postalCode": "91452"
  },
  {
   "id": 7601030013,
   "districtId": 7601030,
-  "name": "LIMBUA"
+  "districtName": "SENDANA",
+  "name": "LIMBUA",
+  "postalCode": "91452"
  },
  {
   "id": 7601030014,
   "districtId": 7601030,
-  "name": "LALATEDONG"
+  "districtName": "SENDANA",
+  "name": "LALATEDONG",
+  "postalCode": ""
  },
  {
   "id": 7601030015,
   "districtId": 7601030,
-  "name": "PAMINGGALAN"
+  "districtName": "SENDANA",
+  "name": "PAMINGGALAN",
+  "postalCode": "91452"
  },
  {
   "id": 7601030016,
   "districtId": 7601030,
-  "name": "TOTOLISI SENDANA"
+  "districtName": "SENDANA",
+  "name": "TOTOLISI SENDANA",
+  "postalCode": ""
  },
  {
   "id": 7601030017,
   "districtId": 7601030,
-  "name": "BANUA SENDANA"
+  "districtName": "SENDANA",
+  "name": "BANUA SENDANA",
+  "postalCode": "91452"
  },
  {
   "id": 7601030018,
   "districtId": 7601030,
-  "name": "TALLU BANUA UTARA"
+  "districtName": "SENDANA",
+  "name": "TALLU BANUA UTARA",
+  "postalCode": ""
  },
  {
   "id": 7601030019,
   "districtId": 7601030,
-  "name": "LIMBORO RAMBU-RAMBU"
+  "districtName": "SENDANA",
+  "name": "LIMBORO RAMBU-RAMBU",
+  "postalCode": "91452"
  },
  {
   "id": 7601030020,
   "districtId": 7601030,
-  "name": "LEPPANGAN"
+  "districtName": "SENDANA",
+  "name": "LEPPANGAN",
+  "postalCode": ""
  },
  {
   "id": 7601030021,
   "districtId": 7601030,
-  "name": "BINANGA"
+  "districtName": "SENDANA",
+  "name": "BINANGA",
+  "postalCode": "24786"
  }
 ]

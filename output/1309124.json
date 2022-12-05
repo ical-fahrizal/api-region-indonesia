@@ -2,16 +2,22 @@
  {
   "id": 1309124001,
   "districtId": 1309124,
-  "name": "LANSEK KADOK"
+  "districtName": "RAO SELATAN",
+  "name": "LANSEK KADOK",
+  "postalCode": "26353"
  },
  {
   "id": 1309124002,
   "districtId": 1309124,
-  "name": "TANJUNG BETUNG"
+  "districtName": "RAO SELATAN",
+  "name": "TANJUNG BETUNG",
+  "postalCode": "26353"
  },
  {
   "id": 1309124003,
   "districtId": 1309124,
-  "name": "LUBUAK LAYANG"
+  "districtName": "RAO SELATAN",
+  "name": "LUBUAK LAYANG",
+  "postalCode": "26353"
  }
 ]

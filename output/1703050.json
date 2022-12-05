@@ -2,91 +2,127 @@
  {
   "id": 1703050033,
   "districtId": 1703050,
-  "name": "TANJUNG PUTUS"
+  "districtName": "KERKAP",
+  "name": "TANJUNG PUTUS",
+  "postalCode": "20852"
  },
  {
   "id": 1703050036,
   "districtId": 1703050,
-  "name": "TALANG JAMBU"
+  "districtName": "KERKAP",
+  "name": "TALANG JAMBU",
+  "postalCode": "38374"
  },
  {
   "id": 1703050037,
   "districtId": 1703050,
-  "name": "TEBAT PACUR"
+  "districtName": "KERKAP",
+  "name": "TEBAT PACUR",
+  "postalCode": "38374"
  },
  {
   "id": 1703050039,
   "districtId": 1703050,
-  "name": "PENYANGKAK"
+  "districtName": "KERKAP",
+  "name": "PENYANGKAK",
+  "postalCode": "38575"
  },
  {
   "id": 1703050040,
   "districtId": 1703050,
-  "name": "MAGELANG"
+  "districtName": "KERKAP",
+  "name": "MAGELANG",
+  "postalCode": "38374"
  },
  {
   "id": 1703050041,
   "districtId": 1703050,
-  "name": "TALANG CURUP"
+  "districtName": "KERKAP",
+  "name": "TALANG CURUP",
+  "postalCode": "38374"
  },
  {
   "id": 1703050042,
   "districtId": 1703050,
-  "name": "BANYUMAS BARU"
+  "districtName": "KERKAP",
+  "name": "BANYUMAS BARU",
+  "postalCode": "38374"
  },
  {
   "id": 1703050043,
   "districtId": 1703050,
-  "name": "SERUMBUNG"
+  "districtName": "KERKAP",
+  "name": "SERUMBUNG",
+  "postalCode": "38374"
  },
  {
   "id": 1703050044,
   "districtId": 1703050,
-  "name": "LUBUK DURIAN"
+  "districtName": "KERKAP",
+  "name": "LUBUK DURIAN",
+  "postalCode": "31611"
  },
  {
   "id": 1703050045,
   "districtId": 1703050,
-  "name": "SALAM HARJO"
+  "districtName": "KERKAP",
+  "name": "SALAM HARJO",
+  "postalCode": "38374"
  },
  {
   "id": 1703050046,
   "districtId": 1703050,
-  "name": "BANYUMAS LAMA"
+  "districtName": "KERKAP",
+  "name": "BANYUMAS LAMA",
+  "postalCode": ""
  },
  {
   "id": 1703050047,
   "districtId": 1703050,
-  "name": "TALANG PASAK"
+  "districtName": "KERKAP",
+  "name": "TALANG PASAK",
+  "postalCode": "38374"
  },
  {
   "id": 1703050048,
   "districtId": 1703050,
-  "name": "JOGYA BARU"
+  "districtName": "KERKAP",
+  "name": "JOGYA BARU",
+  "postalCode": "38374"
  },
  {
   "id": 1703050049,
   "districtId": 1703050,
-  "name": "PERBO"
+  "districtName": "KERKAP",
+  "name": "PERBO",
+  "postalCode": "39125"
  },
  {
   "id": 1703050050,
   "districtId": 1703050,
-  "name": "SIMPANG KETENONG"
+  "districtName": "KERKAP",
+  "name": "SIMPANG KETENONG",
+  "postalCode": "38374"
  },
  {
   "id": 1703050051,
   "districtId": 1703050,
-  "name": "AUR GADING"
+  "districtName": "KERKAP",
+  "name": "AUR GADING",
+  "postalCode": "36656"
  },
  {
   "id": 1703050052,
   "districtId": 1703050,
-  "name": "LUBUK JALE"
+  "districtName": "KERKAP",
+  "name": "LUBUK JALE",
+  "postalCode": "38374"
  },
  {
   "id": 1703050053,
   "districtId": 1703050,
-  "name": "KEDU BARU"
+  "districtName": "KERKAP",
+  "name": "KEDU BARU",
+  "postalCode": "38374"
  }
 ]

@@ -2,46 +2,64 @@
  {
   "id": 9434100001,
   "districtId": 9434100,
-  "name": "IDAKEBO"
+  "districtName": "KAMU UTARA",
+  "name": "IDAKEBO",
+  "postalCode": "98863"
  },
  {
   "id": 9434100002,
   "districtId": 9434100,
-  "name": "PUGATADI II"
+  "districtName": "KAMU UTARA",
+  "name": "PUGATADI II",
+  "postalCode": ""
  },
  {
   "id": 9434100003,
   "districtId": 9434100,
-  "name": "PUGATADI I"
+  "districtName": "KAMU UTARA",
+  "name": "PUGATADI I",
+  "postalCode": ""
  },
  {
   "id": 9434100004,
   "districtId": 9434100,
-  "name": "IKRAR"
+  "districtName": "KAMU UTARA",
+  "name": "IKRAR",
+  "postalCode": "98863"
  },
  {
   "id": 9434100005,
   "districtId": 9434100,
-  "name": "OBAYO"
+  "districtName": "KAMU UTARA",
+  "name": "OBAYO",
+  "postalCode": "98863"
  },
  {
   "id": 9434100006,
   "districtId": 9434100,
-  "name": "KUYAKAGO"
+  "districtName": "KAMU UTARA",
+  "name": "KUYAKAGO",
+  "postalCode": ""
  },
  {
   "id": 9434100007,
   "districtId": 9434100,
-  "name": "YAMETADI"
+  "districtName": "KAMU UTARA",
+  "name": "YAMETADI",
+  "postalCode": ""
  },
  {
   "id": 9434100008,
   "districtId": 9434100,
-  "name": "MOGOU"
+  "districtName": "KAMU UTARA",
+  "name": "MOGOU",
+  "postalCode": "98863"
  },
  {
   "id": 9434100010,
   "districtId": 9434100,
-  "name": "EKIMANI"
+  "districtName": "KAMU UTARA",
+  "name": "EKIMANI",
+  "postalCode": ""
  }
 ]

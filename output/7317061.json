@@ -2,51 +2,71 @@
  {
   "id": 7317061009,
   "districtId": 7317061,
-  "name": "PADANG SUBUR"
+  "districtName": "PONRANG",
+  "name": "PADANG SUBUR",
+  "postalCode": "91999"
  },
  {
   "id": 7317061010,
   "districtId": 7317061,
-  "name": "PADANG SAPPA"
+  "districtName": "PONRANG",
+  "name": "PADANG SAPPA",
+  "postalCode": "91999"
  },
  {
   "id": 7317061011,
   "districtId": 7317061,
-  "name": "TUMALE"
+  "districtName": "PONRANG",
+  "name": "TUMALE",
+  "postalCode": "91999"
  },
  {
   "id": 7317061013,
   "districtId": 7317061,
-  "name": "MULADIMENG"
+  "districtName": "PONRANG",
+  "name": "MULADIMENG",
+  "postalCode": ""
  },
  {
   "id": 7317061014,
   "districtId": 7317061,
-  "name": "BUNTU KAMIRI"
+  "districtName": "PONRANG",
+  "name": "BUNTU KAMIRI",
+  "postalCode": "91999"
  },
  {
   "id": 7317061015,
   "districtId": 7317061,
-  "name": "BUNTU NANNA"
+  "districtName": "PONRANG",
+  "name": "BUNTU NANNA",
+  "postalCode": ""
  },
  {
   "id": 7317061016,
   "districtId": 7317061,
-  "name": "TIROWALI"
+  "districtName": "PONRANG",
+  "name": "TIROWALI",
+  "postalCode": "91999"
  },
  {
   "id": 7317061017,
   "districtId": 7317061,
-  "name": "MARIO"
+  "districtName": "PONRANG",
+  "name": "MARIO",
+  "postalCode": "92965"
  },
  {
   "id": 7317061018,
   "districtId": 7317061,
-  "name": "TAMPA"
+  "districtName": "PONRANG",
+  "name": "TAMPA",
+  "postalCode": "73652"
  },
  {
   "id": 7317061019,
   "districtId": 7317061,
-  "name": "PAREKAJU"
+  "districtName": "PONRANG",
+  "name": "PAREKAJU",
+  "postalCode": "91999"
  }
 ]

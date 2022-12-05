@@ -2,41 +2,57 @@
  {
   "id": 9430023002,
   "districtId": 9430023,
-  "name": "YAMIGA"
+  "districtName": "GOLLO",
+  "name": "YAMIGA",
+  "postalCode": "99567"
  },
  {
   "id": 9430023003,
   "districtId": 9430023,
-  "name": "LIBOME"
+  "districtName": "GOLLO",
+  "name": "LIBOME",
+  "postalCode": "99567"
  },
  {
   "id": 9430023006,
   "districtId": 9430023,
-  "name": "KULIA"
+  "districtName": "GOLLO",
+  "name": "KULIA",
+  "postalCode": "99567"
  },
  {
   "id": 9430023007,
   "districtId": 9430023,
-  "name": "WADINAWI"
+  "districtName": "GOLLO",
+  "name": "WADINAWI",
+  "postalCode": ""
  },
  {
   "id": 9430023009,
   "districtId": 9430023,
-  "name": "KAMENAK"
+  "districtName": "GOLLO",
+  "name": "KAMENAK",
+  "postalCode": ""
  },
  {
   "id": 9430023010,
   "districtId": 9430023,
-  "name": "NENGGUGA"
+  "districtName": "GOLLO",
+  "name": "NENGGUGA",
+  "postalCode": ""
  },
  {
   "id": 9430023011,
   "districtId": 9430023,
-  "name": "GOLOPURA"
+  "districtName": "GOLLO",
+  "name": "GOLOPURA",
+  "postalCode": "99567"
  },
  {
   "id": 9430023012,
   "districtId": 9430023,
-  "name": "GUBUGAME"
+  "districtName": "GOLLO",
+  "name": "GUBUGAME",
+  "postalCode": ""
  }
 ]

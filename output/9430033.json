@@ -2,26 +2,36 @@
  {
   "id": 9430033001,
   "districtId": 9430033,
-  "name": "WULUNDIA"
+  "districtName": "NINAME",
+  "name": "WULUNDIA",
+  "postalCode": "99563"
  },
  {
   "id": 9430033003,
   "districtId": 9430033,
-  "name": "MOLOBOK"
+  "districtName": "NINAME",
+  "name": "MOLOBOK",
+  "postalCode": ""
  },
  {
   "id": 9430033004,
   "districtId": 9430033,
-  "name": "TUGUNAKWI"
+  "districtName": "NINAME",
+  "name": "TUGUNAKWI",
+  "postalCode": ""
  },
  {
   "id": 9430033005,
   "districtId": 9430033,
-  "name": "YANURU"
+  "districtName": "NINAME",
+  "name": "YANURU",
+  "postalCode": ""
  },
  {
   "id": 9430033006,
   "districtId": 9430033,
-  "name": "DAPOGI"
+  "districtName": "NINAME",
+  "name": "DAPOGI",
+  "postalCode": ""
  }
 ]

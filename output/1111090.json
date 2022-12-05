@@ -2,166 +2,232 @@
  {
   "id": 1111090001,
   "districtId": 1111090,
-  "name": "BLANG TUE"
+  "districtName": "SEUNUDDON",
+  "name": "BLANG TUE",
+  "postalCode": "24393"
  },
  {
   "id": 1111090002,
   "districtId": 1111090,
-  "name": "MERBO PUNTONG"
+  "districtName": "SEUNUDDON",
+  "name": "MERBO PUNTONG",
+  "postalCode": ""
  },
  {
   "id": 1111090003,
   "districtId": 1111090,
-  "name": "MANE KAWAN"
+  "districtName": "SEUNUDDON",
+  "name": "MANE KAWAN",
+  "postalCode": "24393"
  },
  {
   "id": 1111090004,
   "districtId": 1111090,
-  "name": "TANJONG PINEUNG"
+  "districtName": "SEUNUDDON",
+  "name": "TANJONG PINEUNG",
+  "postalCode": "24393"
  },
  {
   "id": 1111090005,
   "districtId": 1111090,
-  "name": "ALUE KIRAN"
+  "districtName": "SEUNUDDON",
+  "name": "ALUE KIRAN",
+  "postalCode": "24393"
  },
  {
   "id": 1111090006,
   "districtId": 1111090,
-  "name": "ALUE BARUEH"
+  "districtName": "SEUNUDDON",
+  "name": "ALUE BARUEH",
+  "postalCode": ""
  },
  {
   "id": 1111090007,
   "districtId": 1111090,
-  "name": "KEUDE SIMPANG JALAN"
+  "districtName": "SEUNUDDON",
+  "name": "KEUDE SIMPANG JALAN",
+  "postalCode": "24393"
  },
  {
   "id": 1111090008,
   "districtId": 1111090,
-  "name": "COT KAFIRATON"
+  "districtName": "SEUNUDDON",
+  "name": "COT KAFIRATON",
+  "postalCode": ""
  },
  {
   "id": 1111090009,
   "districtId": 1111090,
-  "name": "PAYA DUA UJONG"
+  "districtName": "SEUNUDDON",
+  "name": "PAYA DUA UJONG",
+  "postalCode": "24393"
  },
  {
   "id": 1111090010,
   "districtId": 1111090,
-  "name": "TANJONG DAMA"
+  "districtName": "SEUNUDDON",
+  "name": "TANJONG DAMA",
+  "postalCode": "24393"
  },
  {
   "id": 1111090011,
   "districtId": 1111090,
-  "name": "PAYA DUA URAM"
+  "districtName": "SEUNUDDON",
+  "name": "PAYA DUA URAM",
+  "postalCode": "24393"
  },
  {
   "id": 1111090012,
   "districtId": 1111090,
-  "name": "LHOK GEULITUET"
+  "districtName": "SEUNUDDON",
+  "name": "LHOK GEULITUET",
+  "postalCode": ""
  },
  {
   "id": 1111090013,
   "districtId": 1111090,
-  "name": "MATANG ANOE"
+  "districtName": "SEUNUDDON",
+  "name": "MATANG ANOE",
+  "postalCode": ""
  },
  {
   "id": 1111090014,
   "districtId": 1111090,
-  "name": "LHOK RAMBIDENG"
+  "districtName": "SEUNUDDON",
+  "name": "LHOK RAMBIDENG",
+  "postalCode": "24393"
  },
  {
   "id": 1111090015,
   "districtId": 1111090,
-  "name": "BLANG PHA"
+  "districtName": "SEUNUDDON",
+  "name": "BLANG PHA",
+  "postalCode": "24393"
  },
  {
   "id": 1111090016,
   "districtId": 1111090,
-  "name": "MATANG JEULIKAT"
+  "districtName": "SEUNUDDON",
+  "name": "MATANG JEULIKAT",
+  "postalCode": "24393"
  },
  {
   "id": 1111090017,
   "districtId": 1111090,
-  "name": "DARUL AMAN"
+  "districtName": "SEUNUDDON",
+  "name": "DARUL AMAN",
+  "postalCode": "24373"
  },
  {
   "id": 1111090018,
   "districtId": 1111090,
-  "name": "COT TRUENG"
+  "districtName": "SEUNUDDON",
+  "name": "COT TRUENG",
+  "postalCode": "24355"
  },
  {
   "id": 1111090019,
   "districtId": 1111090,
-  "name": "MEUNASAH SAGOE"
+  "districtName": "SEUNUDDON",
+  "name": "MEUNASAH SAGOE",
+  "postalCode": ""
  },
  {
   "id": 1111090020,
   "districtId": 1111090,
-  "name": "MATANG PUNTONG"
+  "districtName": "SEUNUDDON",
+  "name": "MATANG PUNTONG",
+  "postalCode": "24374"
  },
  {
   "id": 1111090021,
   "districtId": 1111090,
-  "name": "MATANG PANYANG"
+  "districtName": "SEUNUDDON",
+  "name": "MATANG PANYANG",
+  "postalCode": "24392"
  },
  {
   "id": 1111090022,
   "districtId": 1111090,
-  "name": "COT PATISAH"
+  "districtName": "SEUNUDDON",
+  "name": "COT PATISAH",
+  "postalCode": "24393"
  },
  {
   "id": 1111090023,
   "districtId": 1111090,
-  "name": "ALUE CAPLI"
+  "districtName": "SEUNUDDON",
+  "name": "ALUE CAPLI",
+  "postalCode": ""
  },
  {
   "id": 1111090024,
   "districtId": 1111090,
-  "name": "SIMPANG PEUT"
+  "districtName": "SEUNUDDON",
+  "name": "SIMPANG PEUT",
+  "postalCode": "23652"
  },
  {
   "id": 1111090025,
   "districtId": 1111090,
-  "name": "ULEE TITI"
+  "districtName": "SEUNUDDON",
+  "name": "ULEE TITI",
+  "postalCode": "24393"
  },
  {
   "id": 1111090026,
   "districtId": 1111090,
-  "name": "LHOK PUUK"
+  "districtName": "SEUNUDDON",
+  "name": "LHOK PUUK",
+  "postalCode": "24185"
  },
  {
   "id": 1111090027,
   "districtId": 1111090,
-  "name": "ULEE RUBEK BARAT"
+  "districtName": "SEUNUDDON",
+  "name": "ULEE RUBEK BARAT",
+  "postalCode": "24393"
  },
  {
   "id": 1111090028,
   "districtId": 1111090,
-  "name": "MATANG LADA"
+  "districtName": "SEUNUDDON",
+  "name": "MATANG LADA",
+  "postalCode": "24393"
  },
  {
   "id": 1111090029,
   "districtId": 1111090,
-  "name": "MATANG KARIENG"
+  "districtName": "SEUNUDDON",
+  "name": "MATANG KARIENG",
+  "postalCode": "24393"
  },
  {
   "id": 1111090030,
   "districtId": 1111090,
-  "name": "ULEE MATANG"
+  "districtName": "SEUNUDDON",
+  "name": "ULEE MATANG",
+  "postalCode": "24393"
  },
  {
   "id": 1111090031,
   "districtId": 1111090,
-  "name": "ULEE RUBE TIMU"
+  "districtName": "SEUNUDDON",
+  "name": "ULEE RUBE TIMU",
+  "postalCode": ""
  },
  {
   "id": 1111090032,
   "districtId": 1111090,
-  "name": "BANTAYAN"
+  "districtName": "SEUNUDDON",
+  "name": "BANTAYAN",
+  "postalCode": "24394"
  },
  {
   "id": 1111090033,
   "districtId": 1111090,
-  "name": "TEUPIN KUYUEN"
+  "districtName": "SEUNUDDON",
+  "name": "TEUPIN KUYUEN",
+  "postalCode": ""
  }
 ]

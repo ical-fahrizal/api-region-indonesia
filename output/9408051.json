@@ -2,91 +2,127 @@
  {
   "id": 9408051001,
   "districtId": 9408051,
-  "name": "UMANI"
+  "districtName": "KEP. AMBAI",
+  "name": "UMANI",
+  "postalCode": "98255"
  },
  {
   "id": 9408051002,
   "districtId": 9408051,
-  "name": "SAWERU"
+  "districtName": "KEP. AMBAI",
+  "name": "SAWERU",
+  "postalCode": "98255"
  },
  {
   "id": 9408051003,
   "districtId": 9408051,
-  "name": "RONDEPI"
+  "districtName": "KEP. AMBAI",
+  "name": "RONDEPI",
+  "postalCode": "98255"
  },
  {
   "id": 9408051004,
   "districtId": 9408051,
-  "name": "AMBAI"
+  "districtName": "KEP. AMBAI",
+  "name": "AMBAI",
+  "postalCode": ""
  },
  {
   "id": 9408051005,
   "districtId": 9408051,
-  "name": "WAMORI"
+  "districtName": "KEP. AMBAI",
+  "name": "WAMORI",
+  "postalCode": "98255"
  },
  {
   "id": 9408051006,
   "districtId": 9408051,
-  "name": "KAWIPI"
+  "districtName": "KEP. AMBAI",
+  "name": "KAWIPI",
+  "postalCode": "98255"
  },
  {
   "id": 9408051007,
   "districtId": 9408051,
-  "name": "ADIWIPI"
+  "districtName": "KEP. AMBAI",
+  "name": "ADIWIPI",
+  "postalCode": "98255"
  },
  {
   "id": 9408051008,
   "districtId": 9408051,
-  "name": "BAISORE"
+  "districtName": "KEP. AMBAI",
+  "name": "BAISORE",
+  "postalCode": "98255"
  },
  {
   "id": 9408051009,
   "districtId": 9408051,
-  "name": "AMBAI II"
+  "districtName": "KEP. AMBAI",
+  "name": "AMBAI II",
+  "postalCode": "98255"
  },
  {
   "id": 9408051010,
   "districtId": 9408051,
-  "name": "MAMBAWI"
+  "districtName": "KEP. AMBAI",
+  "name": "MAMBAWI",
+  "postalCode": ""
  },
  {
   "id": 9408051015,
   "districtId": 9408051,
-  "name": "IMBORIAWA"
+  "districtName": "KEP. AMBAI",
+  "name": "IMBORIAWA",
+  "postalCode": "98255"
  },
  {
   "id": 9408051016,
   "districtId": 9408051,
-  "name": "BAIREI"
+  "districtName": "KEP. AMBAI",
+  "name": "BAIREI",
+  "postalCode": "98255"
  },
  {
   "id": 9408051017,
   "districtId": 9408051,
-  "name": "NUNIANDE"
+  "districtName": "KEP. AMBAI",
+  "name": "NUNIANDE",
+  "postalCode": ""
  },
  {
   "id": 9408051018,
   "districtId": 9408051,
-  "name": "DORAU"
+  "districtName": "KEP. AMBAI",
+  "name": "DORAU",
+  "postalCode": "98255"
  },
  {
   "id": 9408051019,
   "districtId": 9408051,
-  "name": "PEREA"
+  "districtName": "KEP. AMBAI",
+  "name": "PEREA",
+  "postalCode": "98255"
  },
  {
   "id": 9408051020,
   "districtId": 9408051,
-  "name": "TOROA"
+  "districtName": "KEP. AMBAI",
+  "name": "TOROA",
+  "postalCode": "98255"
  },
  {
   "id": 9408051021,
   "districtId": 9408051,
-  "name": "MARAWI"
+  "districtName": "KEP. AMBAI",
+  "name": "MARAWI",
+  "postalCode": "91256"
  },
  {
   "id": 9408051022,
   "districtId": 9408051,
-  "name": "AIWARANGGANI"
+  "districtName": "KEP. AMBAI",
+  "name": "AIWARANGGANI",
+  "postalCode": ""
  }
 ]

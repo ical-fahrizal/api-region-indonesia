@@ -2,41 +2,57 @@
  {
   "id": 3207290001,
   "districtId": 3207290,
-  "name": "MANDALARE"
+  "districtName": "PANJALU",
+  "name": "MANDALARE",
+  "postalCode": "46264"
  },
  {
   "id": 3207290002,
   "districtId": 3207290,
-  "name": "KERTAMANDALA"
+  "districtName": "PANJALU",
+  "name": "KERTAMANDALA",
+  "postalCode": "46264"
  },
  {
   "id": 3207290003,
   "districtId": 3207290,
-  "name": "CIOMAS"
+  "districtName": "PANJALU",
+  "name": "CIOMAS",
+  "postalCode": "45591"
  },
  {
   "id": 3207290004,
   "districtId": 3207290,
-  "name": "SANDINGTAMAN"
+  "districtName": "PANJALU",
+  "name": "SANDINGTAMAN",
+  "postalCode": "46264"
  },
  {
   "id": 3207290005,
   "districtId": 3207290,
-  "name": "MAPARAH"
+  "districtName": "PANJALU",
+  "name": "MAPARAH",
+  "postalCode": "46264"
  },
  {
   "id": 3207290006,
   "districtId": 3207290,
-  "name": "PANJALU"
+  "districtName": "PANJALU",
+  "name": "PANJALU",
+  "postalCode": "46264"
  },
  {
   "id": 3207290007,
   "districtId": 3207290,
-  "name": "BAHARA"
+  "districtName": "PANJALU",
+  "name": "BAHARA",
+  "postalCode": "46264"
  },
  {
   "id": 3207290008,
   "districtId": 3207290,
-  "name": "HUJUNGTIWU"
+  "districtName": "PANJALU",
+  "name": "HUJUNGTIWU",
+  "postalCode": "46264"
  }
 ]

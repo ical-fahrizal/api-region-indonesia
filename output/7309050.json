@@ -2,26 +2,36 @@
  {
   "id": 7309050001,
   "districtId": 7309050,
-  "name": "KASSI"
+  "districtName": "BALOCCI",
+  "name": "KASSI",
+  "postalCode": "90661"
  },
  {
   "id": 7309050002,
   "districtId": 7309050,
-  "name": "TONASA"
+  "districtName": "BALOCCI",
+  "name": "TONASA",
+  "postalCode": "90661"
  },
  {
   "id": 7309050003,
   "districtId": 7309050,
-  "name": "BALOCCI BARU"
+  "districtName": "BALOCCI",
+  "name": "BALOCCI BARU",
+  "postalCode": "90661"
  },
  {
   "id": 7309050004,
   "districtId": 7309050,
-  "name": "BALLEANGIN"
+  "districtName": "BALOCCI",
+  "name": "BALLEANGIN",
+  "postalCode": "90661"
  },
  {
   "id": 7309050005,
   "districtId": 7309050,
-  "name": "TOMPO BULU"
+  "districtName": "BALOCCI",
+  "name": "TOMPO BULU",
+  "postalCode": "90661"
  }
 ]

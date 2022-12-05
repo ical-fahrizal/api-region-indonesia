@@ -2,51 +2,71 @@
  {
   "id": 3326140001,
   "districtId": 3326140,
-  "name": "COPRAYAN"
+  "districtName": "BUARAN",
+  "name": "COPRAYAN",
+  "postalCode": "51171"
  },
  {
   "id": 3326140002,
   "districtId": 3326140,
-  "name": "SAPUGARUT"
+  "districtName": "BUARAN",
+  "name": "SAPUGARUT",
+  "postalCode": "51171"
  },
  {
   "id": 3326140003,
   "districtId": 3326140,
-  "name": "WONOYOSO"
+  "districtName": "BUARAN",
+  "name": "WONOYOSO",
+  "postalCode": "51171"
  },
  {
   "id": 3326140004,
   "districtId": 3326140,
-  "name": "BLIGO"
+  "districtName": "BUARAN",
+  "name": "BLIGO",
+  "postalCode": "51171"
  },
  {
   "id": 3326140005,
   "districtId": 3326140,
-  "name": "PAKUMBULAN"
+  "districtName": "BUARAN",
+  "name": "PAKUMBULAN",
+  "postalCode": "51171"
  },
  {
   "id": 3326140006,
   "districtId": 3326140,
-  "name": "WATUSALAM"
+  "districtName": "BUARAN",
+  "name": "WATUSALAM",
+  "postalCode": "51171"
  },
  {
   "id": 3326140007,
   "districtId": 3326140,
-  "name": "SIMBANG WETAN"
+  "districtName": "BUARAN",
+  "name": "SIMBANG WETAN",
+  "postalCode": "51171"
  },
  {
   "id": 3326140008,
   "districtId": 3326140,
-  "name": "SIMBANG KULON"
+  "districtName": "BUARAN",
+  "name": "SIMBANG KULON",
+  "postalCode": "51171"
  },
  {
   "id": 3326140009,
   "districtId": 3326140,
-  "name": "KERTIJAYAN"
+  "districtName": "BUARAN",
+  "name": "KERTIJAYAN",
+  "postalCode": "51171"
  },
  {
   "id": 3326140010,
   "districtId": 3326140,
-  "name": "PAWEDEN"
+  "districtName": "BUARAN",
+  "name": "PAWEDEN",
+  "postalCode": "51171"
  }
 ]

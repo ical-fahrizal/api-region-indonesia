@@ -2,71 +2,99 @@
  {
   "id": 7606040001,
   "districtId": 7606040,
-  "name": "BUDONG-BUDONG"
+  "districtName": "TOPOYO",
+  "name": "BUDONG-BUDONG",
+  "postalCode": "91563"
  },
  {
   "id": 7606040002,
   "districtId": 7606040,
-  "name": "PANGALLOANG"
+  "districtName": "TOPOYO",
+  "name": "PANGALLOANG",
+  "postalCode": "92552"
  },
  {
   "id": 7606040003,
   "districtId": 7606040,
-  "name": "TOPOYO"
+  "districtName": "TOPOYO",
+  "name": "TOPOYO",
+  "postalCode": "91563"
  },
  {
   "id": 7606040004,
   "districtId": 7606040,
-  "name": "PARAILI"
+  "districtName": "TOPOYO",
+  "name": "PARAILI",
+  "postalCode": "91563"
  },
  {
   "id": 7606040005,
   "districtId": 7606040,
-  "name": "K A B U B U"
+  "districtName": "TOPOYO",
+  "name": "K A B U B U",
+  "postalCode": ""
  },
  {
   "id": 7606040007,
   "districtId": 7606040,
-  "name": "SINABATTA"
+  "districtName": "TOPOYO",
+  "name": "SINABATTA",
+  "postalCode": "91563"
  },
  {
   "id": 7606040008,
   "districtId": 7606040,
-  "name": "WAEPUTEH"
+  "districtName": "TOPOYO",
+  "name": "WAEPUTEH",
+  "postalCode": "91563"
  },
  {
   "id": 7606040009,
   "districtId": 7606040,
-  "name": "TAPPILINA"
+  "districtName": "TOPOYO",
+  "name": "TAPPILINA",
+  "postalCode": ""
  },
  {
   "id": 7606040010,
   "districtId": 7606040,
-  "name": "SALUPANGKANG IV"
+  "districtName": "TOPOYO",
+  "name": "SALUPANGKANG IV",
+  "postalCode": ""
  },
  {
   "id": 7606040011,
   "districtId": 7606040,
-  "name": "BAMBAMANURUNG"
+  "districtName": "TOPOYO",
+  "name": "BAMBAMANURUNG",
+  "postalCode": "91563"
  },
  {
   "id": 7606040012,
   "districtId": 7606040,
-  "name": "SALUPANGKANG"
+  "districtName": "TOPOYO",
+  "name": "SALUPANGKANG",
+  "postalCode": ""
  },
  {
   "id": 7606040013,
   "districtId": 7606040,
-  "name": "TANGKOU"
+  "districtName": "TOPOYO",
+  "name": "TANGKOU",
+  "postalCode": ""
  },
  {
   "id": 7606040014,
   "districtId": 7606040,
-  "name": "TABOLANG"
+  "districtName": "TOPOYO",
+  "name": "TABOLANG",
+  "postalCode": "91563"
  },
  {
   "id": 7606040015,
   "districtId": 7606040,
-  "name": "SALULEKBO"
+  "districtName": "TOPOYO",
+  "name": "SALULEKBO",
+  "postalCode": "91563"
  }
 ]

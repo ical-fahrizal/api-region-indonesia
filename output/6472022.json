@@ -2,26 +2,36 @@
  {
   "id": 6472022001,
   "districtId": 6472022,
-  "name": "PULAU ATAS"
+  "districtName": "SAMBUTAN",
+  "name": "PULAU ATAS",
+  "postalCode": "75114"
  },
  {
   "id": 6472022002,
   "districtId": 6472022,
-  "name": "SINDANG SARI"
+  "districtName": "SAMBUTAN",
+  "name": "SINDANG SARI",
+  "postalCode": "30657"
  },
  {
   "id": 6472022003,
   "districtId": 6472022,
-  "name": "MAKROMAN"
+  "districtName": "SAMBUTAN",
+  "name": "MAKROMAN",
+  "postalCode": "75115"
  },
  {
   "id": 6472022004,
   "districtId": 6472022,
-  "name": "SAMBUTAN"
+  "districtName": "SAMBUTAN",
+  "name": "SAMBUTAN",
+  "postalCode": "75115"
  },
  {
   "id": 6472022005,
   "districtId": 6472022,
-  "name": "SUNGAI KAPIH"
+  "districtName": "SAMBUTAN",
+  "name": "SUNGAI KAPIH",
+  "postalCode": ""
  }
 ]

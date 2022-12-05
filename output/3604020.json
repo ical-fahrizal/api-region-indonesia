@@ -2,66 +2,92 @@
  {
   "id": 3604020001,
   "districtId": 3604020,
-  "name": "CIBOJONG"
+  "districtName": "PADARINCANG",
+  "name": "CIBOJONG",
+  "postalCode": "42168"
  },
  {
   "id": 3604020002,
   "districtId": 3604020,
-  "name": "KRAMATLABAN"
+  "districtName": "PADARINCANG",
+  "name": "KRAMATLABAN",
+  "postalCode": "42168"
  },
  {
   "id": 3604020003,
   "districtId": 3604020,
-  "name": "KADUBEUREUM"
+  "districtName": "PADARINCANG",
+  "name": "KADUBEUREUM",
+  "postalCode": "42163"
  },
  {
   "id": 3604020004,
   "districtId": 3604020,
-  "name": "PADARINCANG"
+  "districtName": "PADARINCANG",
+  "name": "PADARINCANG",
+  "postalCode": "42168"
  },
  {
   "id": 3604020006,
   "districtId": 3604020,
-  "name": "KALUMPANG"
+  "districtName": "PADARINCANG",
+  "name": "KALUMPANG",
+  "postalCode": "42168"
  },
  {
   "id": 3604020007,
   "districtId": 3604020,
-  "name": "CITASUK"
+  "districtName": "PADARINCANG",
+  "name": "CITASUK",
+  "postalCode": "42168"
  },
  {
   "id": 3604020008,
   "districtId": 3604020,
-  "name": "BATUKUWUNG"
+  "districtName": "PADARINCANG",
+  "name": "BATUKUWUNG",
+  "postalCode": "42168"
  },
  {
   "id": 3604020009,
   "districtId": 3604020,
-  "name": "CURUG GOONG"
+  "districtName": "PADARINCANG",
+  "name": "CURUG GOONG",
+  "postalCode": "42168"
  },
  {
   "id": 3604020010,
   "districtId": 3604020,
-  "name": "CISAAT"
+  "districtName": "PADARINCANG",
+  "name": "CISAAT",
+  "postalCode": "41181"
  },
  {
   "id": 3604020011,
   "districtId": 3604020,
-  "name": "CIPAYUNG"
+  "districtName": "PADARINCANG",
+  "name": "CIPAYUNG",
+  "postalCode": "13840"
  },
  {
   "id": 3604020012,
   "districtId": 3604020,
-  "name": "CIOMAS"
+  "districtName": "PADARINCANG",
+  "name": "CIOMAS",
+  "postalCode": "45591"
  },
  {
   "id": 3604020013,
   "districtId": 3604020,
-  "name": "BARUGBUG"
+  "districtName": "PADARINCANG",
+  "name": "BARUGBUG",
+  "postalCode": "41374"
  },
  {
   "id": 3604020014,
   "districtId": 3604020,
-  "name": "KADUKEMPONG"
+  "districtName": "PADARINCANG",
+  "name": "KADUKEMPONG",
+  "postalCode": ""
  }
 ]

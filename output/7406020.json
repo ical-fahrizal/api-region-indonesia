@@ -2,36 +2,50 @@
  {
   "id": 7406020001,
   "districtId": 7406020,
-  "name": "WUMBUBURO"
+  "districtName": "KABAENA TIMUR",
+  "name": "WUMBUBURO",
+  "postalCode": ""
  },
  {
   "id": 7406020002,
   "districtId": 7406020,
-  "name": "DONGKALA"
+  "districtName": "KABAENA TIMUR",
+  "name": "DONGKALA",
+  "postalCode": "93783"
  },
  {
   "id": 7406020003,
   "districtId": 7406020,
-  "name": "BALO"
+  "districtName": "KABAENA TIMUR",
+  "name": "BALO",
+  "postalCode": "93783"
  },
  {
   "id": 7406020004,
   "districtId": 7406020,
-  "name": "TOLI-TOLI"
+  "districtName": "KABAENA TIMUR",
+  "name": "TOLI-TOLI",
+  "postalCode": "93783"
  },
  {
   "id": 7406020005,
   "districtId": 7406020,
-  "name": "TAPUHAKA"
+  "districtName": "KABAENA TIMUR",
+  "name": "TAPUHAKA",
+  "postalCode": "93783"
  },
  {
   "id": 7406020006,
   "districtId": 7406020,
-  "name": "BUNGI-BUNGI"
+  "districtName": "KABAENA TIMUR",
+  "name": "BUNGI-BUNGI",
+  "postalCode": "93783"
  },
  {
   "id": 7406020007,
   "districtId": 7406020,
-  "name": "LAMBALE"
+  "districtName": "KABAENA TIMUR",
+  "name": "LAMBALE",
+  "postalCode": "93783"
  }
 ]

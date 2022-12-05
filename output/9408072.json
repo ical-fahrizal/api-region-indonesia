@@ -2,26 +2,36 @@
  {
   "id": 9408072001,
   "districtId": 9408072,
-  "name": "MIOSNUM"
+  "districtName": "PULAU YERUI",
+  "name": "MIOSNUM",
+  "postalCode": "98253"
  },
  {
   "id": 9408072002,
   "districtId": 9408072,
-  "name": "JENIARI"
+  "districtName": "PULAU YERUI",
+  "name": "JENIARI",
+  "postalCode": "98253"
  },
  {
   "id": 9408072003,
   "districtId": 9408072,
-  "name": "YEITUARAU"
+  "districtName": "PULAU YERUI",
+  "name": "YEITUARAU",
+  "postalCode": "98253"
  },
  {
   "id": 9408072004,
   "districtId": 9408072,
-  "name": "AUSEM"
+  "districtName": "PULAU YERUI",
+  "name": "AUSEM",
+  "postalCode": "98253"
  },
  {
   "id": 9408072005,
   "districtId": 9408072,
-  "name": "KUMPEKI"
+  "districtName": "PULAU YERUI",
+  "name": "KUMPEKI",
+  "postalCode": ""
  }
 ]

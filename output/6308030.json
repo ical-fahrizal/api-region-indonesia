@@ -2,161 +2,225 @@
  {
   "id": 6308030001,
   "districtId": 6308030,
-  "name": "RANTAU KARAU HILIR"
+  "districtName": "SUNGAI PANDAN",
+  "name": "RANTAU KARAU HILIR",
+  "postalCode": "71455"
  },
  {
   "id": 6308030002,
   "districtId": 6308030,
-  "name": "PONDOK BABARIS"
+  "districtName": "SUNGAI PANDAN",
+  "name": "PONDOK BABARIS",
+  "postalCode": "71455"
  },
  {
   "id": 6308030003,
   "districtId": 6308030,
-  "name": "MURUNG ASAM"
+  "districtName": "SUNGAI PANDAN",
+  "name": "MURUNG ASAM",
+  "postalCode": "71455"
  },
  {
   "id": 6308030004,
   "districtId": 6308030,
-  "name": "BANYU TAJUN DALAM"
+  "districtName": "SUNGAI PANDAN",
+  "name": "BANYU TAJUN DALAM",
+  "postalCode": "71455"
  },
  {
   "id": 6308030005,
   "districtId": 6308030,
-  "name": "TAPUS DALAM"
+  "districtName": "SUNGAI PANDAN",
+  "name": "TAPUS DALAM",
+  "postalCode": "71455"
  },
  {
   "id": 6308030006,
   "districtId": 6308030,
-  "name": "BANYU TAJUN HULU"
+  "districtName": "SUNGAI PANDAN",
+  "name": "BANYU TAJUN HULU",
+  "postalCode": "71455"
  },
  {
   "id": 6308030007,
   "districtId": 6308030,
-  "name": "SUNGAI KUINI"
+  "districtName": "SUNGAI PANDAN",
+  "name": "SUNGAI KUINI",
+  "postalCode": ""
  },
  {
   "id": 6308030008,
   "districtId": 6308030,
-  "name": "BANYU TAJUN PANGKALAN"
+  "districtName": "SUNGAI PANDAN",
+  "name": "BANYU TAJUN PANGKALAN",
+  "postalCode": "71455"
  },
  {
   "id": 6308030009,
   "districtId": 6308030,
-  "name": "PANGKALAN SARI"
+  "districtName": "SUNGAI PANDAN",
+  "name": "PANGKALAN SARI",
+  "postalCode": "73564"
  },
  {
   "id": 6308030010,
   "districtId": 6308030,
-  "name": "JALAN LURUS"
+  "districtName": "SUNGAI PANDAN",
+  "name": "JALAN LURUS",
+  "postalCode": "71455"
  },
  {
   "id": 6308030011,
   "districtId": 6308030,
-  "name": "TELUK MESJID"
+  "districtName": "SUNGAI PANDAN",
+  "name": "TELUK MESJID",
+  "postalCode": "28662"
  },
  {
   "id": 6308030012,
   "districtId": 6308030,
-  "name": "BANYU TAJUN HILIR"
+  "districtName": "SUNGAI PANDAN",
+  "name": "BANYU TAJUN HILIR",
+  "postalCode": "71455"
  },
  {
   "id": 6308030013,
   "districtId": 6308030,
-  "name": "TATAH LABAN"
+  "districtName": "SUNGAI PANDAN",
+  "name": "TATAH LABAN",
+  "postalCode": "71455"
  },
  {
   "id": 6308030014,
   "districtId": 6308030,
-  "name": "RANTAU KARAU HULU"
+  "districtName": "SUNGAI PANDAN",
+  "name": "RANTAU KARAU HULU",
+  "postalCode": "71455"
  },
  {
   "id": 6308030015,
   "districtId": 6308030,
-  "name": "RANTAU KARAU TENGAH"
+  "districtName": "SUNGAI PANDAN",
+  "name": "RANTAU KARAU TENGAH",
+  "postalCode": "71455"
  },
  {
   "id": 6308030016,
   "districtId": 6308030,
-  "name": "RANTAU KARAU RAYA"
+  "districtName": "SUNGAI PANDAN",
+  "name": "RANTAU KARAU RAYA",
+  "postalCode": "71455"
  },
  {
   "id": 6308030017,
   "districtId": 6308030,
-  "name": "TELUK SINAR"
+  "districtName": "SUNGAI PANDAN",
+  "name": "TELUK SINAR",
+  "postalCode": "71455"
  },
  {
   "id": 6308030018,
   "districtId": 6308030,
-  "name": "HAMBUKU TENGAH"
+  "districtName": "SUNGAI PANDAN",
+  "name": "HAMBUKU TENGAH",
+  "postalCode": "71455"
  },
  {
   "id": 6308030019,
   "districtId": 6308030,
-  "name": "HAMBUKU PASAR"
+  "districtName": "SUNGAI PANDAN",
+  "name": "HAMBUKU PASAR",
+  "postalCode": "71455"
  },
  {
   "id": 6308030020,
   "districtId": 6308030,
-  "name": "HAMBUKU RAYA"
+  "districtName": "SUNGAI PANDAN",
+  "name": "HAMBUKU RAYA",
+  "postalCode": "71455"
  },
  {
   "id": 6308030021,
   "districtId": 6308030,
-  "name": "HAMBUKU HULU"
+  "districtName": "SUNGAI PANDAN",
+  "name": "HAMBUKU HULU",
+  "postalCode": "71455"
  },
  {
   "id": 6308030022,
   "districtId": 6308030,
-  "name": "TAMBALANG"
+  "districtName": "SUNGAI PANDAN",
+  "name": "TAMBALANG",
+  "postalCode": "71455"
  },
  {
   "id": 6308030023,
   "districtId": 6308030,
-  "name": "TAMBALANG TENGAH"
+  "districtName": "SUNGAI PANDAN",
+  "name": "TAMBALANG TENGAH",
+  "postalCode": "71455"
  },
  {
   "id": 6308030024,
   "districtId": 6308030,
-  "name": "TAMBALANG KECIL"
+  "districtName": "SUNGAI PANDAN",
+  "name": "TAMBALANG KECIL",
+  "postalCode": "71455"
  },
  {
   "id": 6308030026,
   "districtId": 6308030,
-  "name": "SUNGAI PANDAN HULU"
+  "districtName": "SUNGAI PANDAN",
+  "name": "SUNGAI PANDAN HULU",
+  "postalCode": ""
  },
  {
   "id": 6308030027,
   "districtId": 6308030,
-  "name": "SUNGAI PANDAN TENGAH"
+  "districtName": "SUNGAI PANDAN",
+  "name": "SUNGAI PANDAN TENGAH",
+  "postalCode": ""
  },
  {
   "id": 6308030028,
   "districtId": 6308030,
-  "name": "SUNGAI PANDAN HILIR"
+  "districtName": "SUNGAI PANDAN",
+  "name": "SUNGAI PANDAN HILIR",
+  "postalCode": ""
  },
  {
   "id": 6308030029,
   "districtId": 6308030,
-  "name": "SUNGAI SANDUNG"
+  "districtName": "SUNGAI PANDAN",
+  "name": "SUNGAI SANDUNG",
+  "postalCode": ""
  },
  {
   "id": 6308030030,
   "districtId": 6308030,
-  "name": "SUNGAI PINANG"
+  "districtName": "SUNGAI PANDAN",
+  "name": "SUNGAI PINANG",
+  "postalCode": "25654"
  },
  {
   "id": 6308030031,
   "districtId": 6308030,
-  "name": "PANDULANGAN"
+  "districtName": "SUNGAI PANDAN",
+  "name": "PANDULANGAN",
+  "postalCode": "71416"
  },
  {
   "id": 6308030040,
   "districtId": 6308030,
-  "name": "PUTAT ATAS"
+  "districtName": "SUNGAI PANDAN",
+  "name": "PUTAT ATAS",
+  "postalCode": ""
  },
  {
   "id": 6308030041,
   "districtId": 6308030,
-  "name": "PADANG BANGKAL"
+  "districtName": "SUNGAI PANDAN",
+  "name": "PADANG BANGKAL",
+  "postalCode": "71455"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 3510030001,
   "districtId": 3510030,
-  "name": "GRAJAGAN"
+  "districtName": "PURWOHARJO",
+  "name": "GRAJAGAN",
+  "postalCode": "68483"
  },
  {
   "id": 3510030002,
   "districtId": 3510030,
-  "name": "SUMBERASRI"
+  "districtName": "PURWOHARJO",
+  "name": "SUMBERASRI",
+  "postalCode": "66181"
  },
  {
   "id": 3510030003,
   "districtId": 3510030,
-  "name": "GLAGAHAGUNG"
+  "districtName": "PURWOHARJO",
+  "name": "GLAGAHAGUNG",
+  "postalCode": "68483"
  },
  {
   "id": 3510030004,
   "districtId": 3510030,
-  "name": "KARETAN"
+  "districtName": "PURWOHARJO",
+  "name": "KARETAN",
+  "postalCode": ""
  },
  {
   "id": 3510030005,
   "districtId": 3510030,
-  "name": "BULUREJO"
+  "districtName": "PURWOHARJO",
+  "name": "BULUREJO",
+  "postalCode": "35372"
  },
  {
   "id": 3510030006,
   "districtId": 3510030,
-  "name": "PURWOHARJO"
+  "districtName": "PURWOHARJO",
+  "name": "PURWOHARJO",
+  "postalCode": "52363"
  },
  {
   "id": 3510030007,
   "districtId": 3510030,
-  "name": "SIDOREJO"
+  "districtName": "PURWOHARJO",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 3510030008,
   "districtId": 3510030,
-  "name": "KRADENAN"
+  "districtName": "PURWOHARJO",
+  "name": "KRADENAN",
+  "postalCode": "54392"
  }
 ]

@@ -2,71 +2,99 @@
  {
   "id": 1218050001,
   "districtId": 1218050,
-  "name": "NAGA KESIANGAN"
+  "districtName": "TEBINGTINGGI",
+  "name": "NAGA KESIANGAN",
+  "postalCode": "20998"
  },
  {
   "id": 1218050002,
   "districtId": 1218050,
-  "name": "GUNUNG KATARAN"
+  "districtName": "TEBINGTINGGI",
+  "name": "GUNUNG KATARAN",
+  "postalCode": "20998"
  },
  {
   "id": 1218050009,
   "districtId": 1218050,
-  "name": "PENONGGOL"
+  "districtName": "TEBINGTINGGI",
+  "name": "PENONGGOL",
+  "postalCode": "20998"
  },
  {
   "id": 1218050010,
   "districtId": 1218050,
-  "name": "KEDAI DAMAR"
+  "districtName": "TEBINGTINGGI",
+  "name": "KEDAI DAMAR",
+  "postalCode": "20998"
  },
  {
   "id": 1218050011,
   "districtId": 1218050,
-  "name": "BAH SUMBU"
+  "districtName": "TEBINGTINGGI",
+  "name": "BAH SUMBU",
+  "postalCode": "20998"
  },
  {
   "id": 1218050012,
   "districtId": 1218050,
-  "name": "JAMBU"
+  "districtName": "TEBINGTINGGI",
+  "name": "JAMBU",
+  "postalCode": "20998"
  },
  {
   "id": 1218050013,
   "districtId": 1218050,
-  "name": "MARIAH PADANG"
+  "districtName": "TEBINGTINGGI",
+  "name": "MARIAH PADANG",
+  "postalCode": "20998"
  },
  {
   "id": 1218050014,
   "districtId": 1218050,
-  "name": "PERTAPAAN"
+  "districtName": "TEBINGTINGGI",
+  "name": "PERTAPAAN",
+  "postalCode": "20998"
  },
  {
   "id": 1218050015,
   "districtId": 1218050,
-  "name": "SEI SERIMAH"
+  "districtName": "TEBINGTINGGI",
+  "name": "SEI SERIMAH",
+  "postalCode": "20998"
  },
  {
   "id": 1218050016,
   "districtId": 1218050,
-  "name": "PAYA BAGAS"
+  "districtName": "TEBINGTINGGI",
+  "name": "PAYA BAGAS",
+  "postalCode": "20998"
  },
  {
   "id": 1218050021,
   "districtId": 1218050,
-  "name": "KUTA BARU"
+  "districtName": "TEBINGTINGGI",
+  "name": "KUTA BARU",
+  "postalCode": "20998"
  },
  {
   "id": 1218050022,
   "districtId": 1218050,
-  "name": "PAYA LOMBANG"
+  "districtName": "TEBINGTINGGI",
+  "name": "PAYA LOMBANG",
+  "postalCode": "20998"
  },
  {
   "id": 1218050023,
   "districtId": 1218050,
-  "name": "PAYA MABAR"
+  "districtName": "TEBINGTINGGI",
+  "name": "PAYA MABAR",
+  "postalCode": "20816"
  },
  {
   "id": 1218050024,
   "districtId": 1218050,
-  "name": "SEI PERIOK"
+  "districtName": "TEBINGTINGGI",
+  "name": "SEI PERIOK",
+  "postalCode": ""
  }
 ]

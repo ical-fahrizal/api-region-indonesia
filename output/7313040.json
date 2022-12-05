@@ -2,56 +2,78 @@
  {
   "id": 7313040001,
   "districtId": 7313040,
-  "name": "BALIELO"
+  "districtName": "BOLA",
+  "name": "BALIELO",
+  "postalCode": "90984"
  },
  {
   "id": 7313040002,
   "districtId": 7313040,
-  "name": "LEMPONG"
+  "districtName": "BOLA",
+  "name": "LEMPONG",
+  "postalCode": "57794"
  },
  {
   "id": 7313040003,
   "districtId": 7313040,
-  "name": "MANURUNG"
+  "districtName": "BOLA",
+  "name": "MANURUNG",
+  "postalCode": "72273"
  },
  {
   "id": 7313040004,
   "districtId": 7313040,
-  "name": "BOLA"
+  "districtName": "BOLA",
+  "name": "BOLA",
+  "postalCode": "86171"
  },
  {
   "id": 7313040005,
   "districtId": 7313040,
-  "name": "RAJAMAWELLANG"
+  "districtName": "BOLA",
+  "name": "RAJAMAWELLANG",
+  "postalCode": ""
  },
  {
   "id": 7313040006,
   "districtId": 7313040,
-  "name": "UJUNG TANAH"
+  "districtName": "BOLA",
+  "name": "UJUNG TANAH",
+  "postalCode": "23762"
  },
  {
   "id": 7313040007,
   "districtId": 7313040,
-  "name": "SOLO"
+  "districtName": "BOLA",
+  "name": "SOLO",
+  "postalCode": "86462"
  },
  {
   "id": 7313040008,
   "districtId": 7313040,
-  "name": "SANRESENG ADE"
+  "districtName": "BOLA",
+  "name": "SANRESENG ADE",
+  "postalCode": "90984"
  },
  {
   "id": 7313040009,
   "districtId": 7313040,
-  "name": "LATTIMU"
+  "districtName": "BOLA",
+  "name": "LATTIMU",
+  "postalCode": "90984"
  },
  {
   "id": 7313040010,
   "districtId": 7313040,
-  "name": "PATANGAE"
+  "districtName": "BOLA",
+  "name": "PATANGAE",
+  "postalCode": ""
  },
  {
   "id": 7313040011,
   "districtId": 7313040,
-  "name": "PASIR PUTIH"
+  "districtName": "BOLA",
+  "name": "PASIR PUTIH",
+  "postalCode": "24453"
  }
 ]

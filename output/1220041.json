@@ -2,71 +2,99 @@
  {
   "id": 1220041001,
   "districtId": 1220041,
-  "name": "MOMPANG II"
+  "districtName": "PADANG BOLAK TENGGARA",
+  "name": "MOMPANG II",
+  "postalCode": ""
  },
  {
   "id": 1220041002,
   "districtId": 1220041,
-  "name": "GULANGAN"
+  "districtName": "PADANG BOLAK TENGGARA",
+  "name": "GULANGAN",
+  "postalCode": "22753"
  },
  {
   "id": 1220041003,
   "districtId": 1220041,
-  "name": "SIMANINGGIR"
+  "districtName": "PADANG BOLAK TENGGARA",
+  "name": "SIMANINGGIR",
+  "postalCode": "22763"
  },
  {
   "id": 1220041004,
   "districtId": 1220041,
-  "name": "SIUNGGAM JAE"
+  "districtName": "PADANG BOLAK TENGGARA",
+  "name": "SIUNGGAM JAE",
+  "postalCode": "22753"
  },
  {
   "id": 1220041005,
   "districtId": 1220041,
-  "name": "SIUNGGAM JULU"
+  "districtName": "PADANG BOLAK TENGGARA",
+  "name": "SIUNGGAM JULU",
+  "postalCode": "22753"
  },
  {
   "id": 1220041006,
   "districtId": 1220041,
-  "name": "SIUNGGAM TONGA"
+  "districtName": "PADANG BOLAK TENGGARA",
+  "name": "SIUNGGAM TONGA",
+  "postalCode": "22753"
  },
  {
   "id": 1220041007,
   "districtId": 1220041,
-  "name": "NAGA SARIBU"
+  "districtName": "PADANG BOLAK TENGGARA",
+  "name": "NAGA SARIBU",
+  "postalCode": "22756"
  },
  {
   "id": 1220041008,
   "districtId": 1220041,
-  "name": "SIHODA-HODA"
+  "districtName": "PADANG BOLAK TENGGARA",
+  "name": "SIHODA-HODA",
+  "postalCode": ""
  },
  {
   "id": 1220041009,
   "districtId": 1220041,
-  "name": "BANGUN PURBA"
+  "districtName": "PADANG BOLAK TENGGARA",
+  "name": "BANGUN PURBA",
+  "postalCode": "20581"
  },
  {
   "id": 1220041010,
   "districtId": 1220041,
-  "name": "TANGGA-TANGGA  HAMBENG"
+  "districtName": "PADANG BOLAK TENGGARA",
+  "name": "TANGGA-TANGGA  HAMBENG",
+  "postalCode": ""
  },
  {
   "id": 1220041011,
   "districtId": 1220041,
-  "name": "AEK BAYUR"
+  "districtName": "PADANG BOLAK TENGGARA",
+  "name": "AEK BAYUR",
+  "postalCode": "22753"
  },
  {
   "id": 1220041012,
   "districtId": 1220041,
-  "name": "AEK TOLONG"
+  "districtName": "PADANG BOLAK TENGGARA",
+  "name": "AEK TOLONG",
+  "postalCode": ""
  },
  {
   "id": 1220041013,
   "districtId": 1220041,
-  "name": "PIJOR KOLING"
+  "districtName": "PADANG BOLAK TENGGARA",
+  "name": "PIJOR KOLING",
+  "postalCode": "22756"
  },
  {
   "id": 1220041014,
   "districtId": 1220041,
-  "name": "PURBA TUA DOLOK"
+  "districtName": "PADANG BOLAK TENGGARA",
+  "name": "PURBA TUA DOLOK",
+  "postalCode": "22741"
  }
 ]

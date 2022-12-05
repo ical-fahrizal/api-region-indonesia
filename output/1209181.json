@@ -2,51 +2,71 @@
  {
   "id": 1209181001,
   "districtId": 1209181,
-  "name": "L A R A S"
+  "districtName": "BANDAR HULUAN",
+  "name": "L A R A S",
+  "postalCode": ""
  },
  {
   "id": 1209181002,
   "districtId": 1209181,
-  "name": "BAH GUNUNG"
+  "districtName": "BANDAR HULUAN",
+  "name": "BAH GUNUNG",
+  "postalCode": "21184"
  },
  {
   "id": 1209181003,
   "districtId": 1209181,
-  "name": "BANDAR TONGAH"
+  "districtName": "BANDAR HULUAN",
+  "name": "BANDAR TONGAH",
+  "postalCode": "21184"
  },
  {
   "id": 1209181004,
   "districtId": 1209181,
-  "name": "DOLOK PARMONANGAN"
+  "districtName": "BANDAR HULUAN",
+  "name": "DOLOK PARMONANGAN",
+  "postalCode": "21184"
  },
  {
   "id": 1209181005,
   "districtId": 1209181,
-  "name": "NAGA JAYA I"
+  "districtName": "BANDAR HULUAN",
+  "name": "NAGA JAYA I",
+  "postalCode": "21184"
  },
  {
   "id": 1209181006,
   "districtId": 1209181,
-  "name": "NAGA JAYA II"
+  "districtName": "BANDAR HULUAN",
+  "name": "NAGA JAYA II",
+  "postalCode": "21184"
  },
  {
   "id": 1209181007,
   "districtId": 1209181,
-  "name": "TANJUNG HATARAN"
+  "districtName": "BANDAR HULUAN",
+  "name": "TANJUNG HATARAN",
+  "postalCode": "21184"
  },
  {
   "id": 1209181008,
   "districtId": 1209181,
-  "name": "BANDAR BETSY I"
+  "districtName": "BANDAR HULUAN",
+  "name": "BANDAR BETSY I",
+  "postalCode": "21184"
  },
  {
   "id": 1209181009,
   "districtId": 1209181,
-  "name": "BANDAR BETSY II"
+  "districtName": "BANDAR HULUAN",
+  "name": "BANDAR BETSY II",
+  "postalCode": "21184"
  },
  {
   "id": 1209181010,
   "districtId": 1209181,
-  "name": "NAGA SOPA"
+  "districtName": "BANDAR HULUAN",
+  "name": "NAGA SOPA",
+  "postalCode": ""
  }
 ]

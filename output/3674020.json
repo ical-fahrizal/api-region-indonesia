@@ -2,46 +2,64 @@
  {
   "id": 3674020009,
   "districtId": 3674020,
-  "name": "BUARAN"
+  "districtName": "SERPONG",
+  "name": "BUARAN",
+  "postalCode": "52261"
  },
  {
   "id": 3674020010,
   "districtId": 3674020,
-  "name": "CIATER"
+  "districtName": "SERPONG",
+  "name": "CIATER",
+  "postalCode": "41281"
  },
  {
   "id": 3674020011,
   "districtId": 3674020,
-  "name": "RAWA MEKAR JAYA"
+  "districtName": "SERPONG",
+  "name": "RAWA MEKAR JAYA",
+  "postalCode": "28662"
  },
  {
   "id": 3674020012,
   "districtId": 3674020,
-  "name": "RAWA BUNTU"
+  "districtName": "SERPONG",
+  "name": "RAWA BUNTU",
+  "postalCode": "15318"
  },
  {
   "id": 3674020013,
   "districtId": 3674020,
-  "name": "SERPONG"
+  "districtName": "SERPONG",
+  "name": "SERPONG",
+  "postalCode": "15311"
  },
  {
   "id": 3674020018,
   "districtId": 3674020,
-  "name": "CILENGGANG"
+  "districtName": "SERPONG",
+  "name": "CILENGGANG",
+  "postalCode": "15310"
  },
  {
   "id": 3674020019,
   "districtId": 3674020,
-  "name": "LENGKONG GUDANG"
+  "districtName": "SERPONG",
+  "name": "LENGKONG GUDANG",
+  "postalCode": "15321"
  },
  {
   "id": 3674020020,
   "districtId": 3674020,
-  "name": "LENGKONG GUDANG TIMUR"
+  "districtName": "SERPONG",
+  "name": "LENGKONG GUDANG TIMUR",
+  "postalCode": "15321"
  },
  {
   "id": 3674020021,
   "districtId": 3674020,
-  "name": "LENGKONG WETAN"
+  "districtName": "SERPONG",
+  "name": "LENGKONG WETAN",
+  "postalCode": "15322"
  }
 ]

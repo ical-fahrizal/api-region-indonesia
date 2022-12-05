@@ -2,61 +2,85 @@
  {
   "id": 6212052001,
   "districtId": 6212052,
-  "name": "TAMPA"
+  "districtName": "PAKU",
+  "name": "TAMPA",
+  "postalCode": "73652"
  },
  {
   "id": 6212052002,
   "districtId": 6212052,
-  "name": "RUNGGU RAYA"
+  "districtName": "PAKU",
+  "name": "RUNGGU RAYA",
+  "postalCode": "73652"
  },
  {
   "id": 6212052003,
   "districtId": 6212052,
-  "name": "PATUNG"
+  "districtName": "PAKU",
+  "name": "PATUNG",
+  "postalCode": "73652"
  },
  {
   "id": 6212052004,
   "districtId": 6212052,
-  "name": "KALAMUS"
+  "districtName": "PAKU",
+  "name": "KALAMUS",
+  "postalCode": "73652"
  },
  {
   "id": 6212052005,
   "districtId": 6212052,
-  "name": "SIMPANG BINGKUANG"
+  "districtName": "PAKU",
+  "name": "SIMPANG BINGKUANG",
+  "postalCode": ""
  },
  {
   "id": 6212052006,
   "districtId": 6212052,
-  "name": "KUPANG BARU"
+  "districtName": "PAKU",
+  "name": "KUPANG BARU",
+  "postalCode": "73652"
  },
  {
   "id": 6212052007,
   "districtId": 6212052,
-  "name": "LUAU JAWUK"
+  "districtName": "PAKU",
+  "name": "LUAU JAWUK",
+  "postalCode": "73652"
  },
  {
   "id": 6212052008,
   "districtId": 6212052,
-  "name": "TARINSING"
+  "districtName": "PAKU",
+  "name": "TARINSING",
+  "postalCode": ""
  },
  {
   "id": 6212052009,
   "districtId": 6212052,
-  "name": "BANTAI NAPU"
+  "districtName": "PAKU",
+  "name": "BANTAI NAPU",
+  "postalCode": "73652"
  },
  {
   "id": 6212052010,
   "districtId": 6212052,
-  "name": "PANGKAN"
+  "districtName": "PAKU",
+  "name": "PANGKAN",
+  "postalCode": "73652"
  },
  {
   "id": 6212052011,
   "districtId": 6212052,
-  "name": "GANDRUNG"
+  "districtName": "PAKU",
+  "name": "GANDRUNG",
+  "postalCode": "73652"
  },
  {
   "id": 6212052012,
   "districtId": 6212052,
-  "name": "PAKU BETO"
+  "districtName": "PAKU",
+  "name": "PAKU BETO",
+  "postalCode": "73652"
  }
 ]

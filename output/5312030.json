@@ -2,71 +2,99 @@
  {
   "id": 5312030007,
   "districtId": 5312030,
-  "name": "SARASEDU"
+  "districtName": "GOLEWA",
+  "name": "SARASEDU",
+  "postalCode": "86461"
  },
  {
   "id": 5312030008,
   "districtId": 5312030,
-  "name": "MALANUZA"
+  "districtName": "GOLEWA",
+  "name": "MALANUZA",
+  "postalCode": "86461"
  },
  {
   "id": 5312030009,
   "districtId": 5312030,
-  "name": "TODABELU"
+  "districtName": "GOLEWA",
+  "name": "TODABELU",
+  "postalCode": "86461"
  },
  {
   "id": 5312030010,
   "districtId": 5312030,
-  "name": "RATOGESA"
+  "districtName": "GOLEWA",
+  "name": "RATOGESA",
+  "postalCode": "86461"
  },
  {
   "id": 5312030011,
   "districtId": 5312030,
-  "name": "DADAWEA"
+  "districtName": "GOLEWA",
+  "name": "DADAWEA",
+  "postalCode": "86461"
  },
  {
   "id": 5312030012,
   "districtId": 5312030,
-  "name": "WERE I"
+  "districtName": "GOLEWA",
+  "name": "WERE I",
+  "postalCode": "86461"
  },
  {
   "id": 5312030013,
   "districtId": 5312030,
-  "name": "RADABATA"
+  "districtName": "GOLEWA",
+  "name": "RADABATA",
+  "postalCode": "86461"
  },
  {
   "id": 5312030019,
   "districtId": 5312030,
-  "name": "MATALOKO"
+  "districtName": "GOLEWA",
+  "name": "MATALOKO",
+  "postalCode": "86461"
  },
  {
   "id": 5312030020,
   "districtId": 5312030,
-  "name": "SANGADETO"
+  "districtName": "GOLEWA",
+  "name": "SANGADETO",
+  "postalCode": "86461"
  },
  {
   "id": 5312030027,
   "districtId": 5312030,
-  "name": "WERE IV"
+  "districtName": "GOLEWA",
+  "name": "WERE IV",
+  "postalCode": "86461"
  },
  {
   "id": 5312030030,
   "districtId": 5312030,
-  "name": "SARASEDU I"
+  "districtName": "GOLEWA",
+  "name": "SARASEDU I",
+  "postalCode": "86461"
  },
  {
   "id": 5312030031,
   "districtId": 5312030,
-  "name": "MALANUZA I"
+  "districtName": "GOLEWA",
+  "name": "MALANUZA I",
+  "postalCode": "86461"
  },
  {
   "id": 5312030033,
   "districtId": 5312030,
-  "name": "EKO ROKA"
+  "districtName": "GOLEWA",
+  "name": "EKO ROKA",
+  "postalCode": "86461"
  },
  {
   "id": 5312030034,
   "districtId": 5312030,
-  "name": "WAE IA"
+  "districtName": "GOLEWA",
+  "name": "WAE IA",
+  "postalCode": "86461"
  }
 ]

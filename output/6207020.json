@@ -2,56 +2,78 @@
  {
   "id": 6207020001,
   "districtId": 6207020,
-  "name": "CUHAI"
+  "districtName": "LAMANDAU",
+  "name": "CUHAI",
+  "postalCode": "74663"
  },
  {
   "id": 6207020002,
   "districtId": 6207020,
-  "name": "KAWA"
+  "districtName": "LAMANDAU",
+  "name": "KAWA",
+  "postalCode": "74663"
  },
  {
   "id": 6207020003,
   "districtId": 6207020,
-  "name": "PANOPA"
+  "districtName": "LAMANDAU",
+  "name": "PANOPA",
+  "postalCode": "74663"
  },
  {
   "id": 6207020004,
   "districtId": 6207020,
-  "name": "SUJA"
+  "districtName": "LAMANDAU",
+  "name": "SUJA",
+  "postalCode": "74663"
  },
  {
   "id": 6207020005,
   "districtId": 6207020,
-  "name": "SEKOBAN"
+  "districtName": "LAMANDAU",
+  "name": "SEKOBAN",
+  "postalCode": "74663"
  },
  {
   "id": 6207020006,
   "districtId": 6207020,
-  "name": "BAKONSU"
+  "districtName": "LAMANDAU",
+  "name": "BAKONSU",
+  "postalCode": "74663"
  },
  {
   "id": 6207020010,
   "districtId": 6207020,
-  "name": "TAPIN BINI"
+  "districtName": "LAMANDAU",
+  "name": "TAPIN BINI",
+  "postalCode": "74663"
  },
  {
   "id": 6207020011,
   "districtId": 6207020,
-  "name": "KARANG TABA"
+  "districtName": "LAMANDAU",
+  "name": "KARANG TABA",
+  "postalCode": "74663"
  },
  {
   "id": 6207020012,
   "districtId": 6207020,
-  "name": "TANJUNG BERINGIN"
+  "districtName": "LAMANDAU",
+  "name": "TANJUNG BERINGIN",
+  "postalCode": "22161"
  },
  {
   "id": 6207020013,
   "districtId": 6207020,
-  "name": "SUNGAI TUAT"
+  "districtName": "LAMANDAU",
+  "name": "SUNGAI TUAT",
+  "postalCode": ""
  },
  {
   "id": 6207020014,
   "districtId": 6207020,
-  "name": "SAMUJAYA"
+  "districtName": "LAMANDAU",
+  "name": "SAMUJAYA",
+  "postalCode": ""
  }
 ]

@@ -2,46 +2,64 @@
  {
   "id": 1805021001,
   "districtId": 1805021,
-  "name": "SENDANG MULYO"
+  "districtName": "SENDANG AGUNG",
+  "name": "SENDANG MULYO",
+  "postalCode": "34174"
  },
  {
   "id": 1805021002,
   "districtId": 1805021,
-  "name": "SENDANG REJO"
+  "districtName": "SENDANG AGUNG",
+  "name": "SENDANG REJO",
+  "postalCode": "20761"
  },
  {
   "id": 1805021003,
   "districtId": 1805021,
-  "name": "SENDANG AGUNG"
+  "districtName": "SENDANG AGUNG",
+  "name": "SENDANG AGUNG",
+  "postalCode": "34174"
  },
  {
   "id": 1805021004,
   "districtId": 1805021,
-  "name": "SENDANG RETNO"
+  "districtName": "SENDANG AGUNG",
+  "name": "SENDANG RETNO",
+  "postalCode": "34174"
  },
  {
   "id": 1805021005,
   "districtId": 1805021,
-  "name": "SENDANG BARU"
+  "districtName": "SENDANG AGUNG",
+  "name": "SENDANG BARU",
+  "postalCode": "34174"
  },
  {
   "id": 1805021006,
   "districtId": 1805021,
-  "name": "SENDANG ASIH"
+  "districtName": "SENDANG AGUNG",
+  "name": "SENDANG ASIH",
+  "postalCode": "34174"
  },
  {
   "id": 1805021007,
   "districtId": 1805021,
-  "name": "SENDANG ASRI"
+  "districtName": "SENDANG AGUNG",
+  "name": "SENDANG ASRI",
+  "postalCode": ""
  },
  {
   "id": 1805021008,
   "districtId": 1805021,
-  "name": "SENDANG MUKTI"
+  "districtName": "SENDANG AGUNG",
+  "name": "SENDANG MUKTI",
+  "postalCode": "34174"
  },
  {
   "id": 1805021009,
   "districtId": 1805021,
-  "name": "KUTOWINANGUN"
+  "districtName": "SENDANG AGUNG",
+  "name": "KUTOWINANGUN",
+  "postalCode": "34174"
  }
 ]

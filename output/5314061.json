@@ -2,31 +2,43 @@
  {
   "id": 5314061001,
   "districtId": 5314061,
-  "name": "BOLATENA"
+  "districtName": "LANDU LEKO",
+  "name": "BOLATENA",
+  "postalCode": "85974"
  },
  {
   "id": 5314061002,
   "districtId": 5314061,
-  "name": "SOTIMORI"
+  "districtName": "LANDU LEKO",
+  "name": "SOTIMORI",
+  "postalCode": "85974"
  },
  {
   "id": 5314061003,
   "districtId": 5314061,
-  "name": "DAIAMA"
+  "districtName": "LANDU LEKO",
+  "name": "DAIAMA",
+  "postalCode": "85974"
  },
  {
   "id": 5314061004,
   "districtId": 5314061,
-  "name": "LIFULEO"
+  "districtName": "LANDU LEKO",
+  "name": "LIFULEO",
+  "postalCode": "85351"
  },
  {
   "id": 5314061005,
   "districtId": 5314061,
-  "name": "DAURENDALE"
+  "districtName": "LANDU LEKO",
+  "name": "DAURENDALE",
+  "postalCode": ""
  },
  {
   "id": 5314061006,
   "districtId": 5314061,
-  "name": "PUKUAFU"
+  "districtName": "LANDU LEKO",
+  "name": "PUKUAFU",
+  "postalCode": "85974"
  }
 ]

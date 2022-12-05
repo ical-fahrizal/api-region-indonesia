@@ -2,76 +2,106 @@
  {
   "id": 7107050001,
   "districtId": 7107050,
-  "name": "KOMUS DUA"
+  "districtName": "KAIDIPANG",
+  "name": "KOMUS DUA",
+  "postalCode": ""
  },
  {
   "id": 7107050002,
   "districtId": 7107050,
-  "name": "SOLO"
+  "districtName": "KAIDIPANG",
+  "name": "SOLO",
+  "postalCode": "86462"
  },
  {
   "id": 7107050003,
   "districtId": 7107050,
-  "name": "INOMUNGA"
+  "districtName": "KAIDIPANG",
+  "name": "INOMUNGA",
+  "postalCode": "95765"
  },
  {
   "id": 7107050004,
   "districtId": 7107050,
-  "name": "BOROKO"
+  "districtName": "KAIDIPANG",
+  "name": "BOROKO",
+  "postalCode": "95765"
  },
  {
   "id": 7107050005,
   "districtId": 7107050,
-  "name": "BOROKO TIMUR"
+  "districtName": "KAIDIPANG",
+  "name": "BOROKO TIMUR",
+  "postalCode": "95765"
  },
  {
   "id": 7107050006,
   "districtId": 7107050,
-  "name": "BIGO"
+  "districtName": "KAIDIPANG",
+  "name": "BIGO",
+  "postalCode": "95765"
  },
  {
   "id": 7107050007,
   "districtId": 7107050,
-  "name": "KUALA"
+  "districtName": "KAIDIPANG",
+  "name": "KUALA",
+  "postalCode": "24375"
  },
  {
   "id": 7107050008,
   "districtId": 7107050,
-  "name": "PONTAK"
+  "districtName": "KAIDIPANG",
+  "name": "PONTAK",
+  "postalCode": "95765"
  },
  {
   "id": 7107050009,
   "districtId": 7107050,
-  "name": "KUALA UTARA"
+  "districtName": "KAIDIPANG",
+  "name": "KUALA UTARA",
+  "postalCode": "95765"
  },
  {
   "id": 7107050010,
   "districtId": 7107050,
-  "name": "KOMUS DUA TIMUR"
+  "districtName": "KAIDIPANG",
+  "name": "KOMUS DUA TIMUR",
+  "postalCode": "95765"
  },
  {
   "id": 7107050011,
   "districtId": 7107050,
-  "name": "INOMUNGA UTARA"
+  "districtName": "KAIDIPANG",
+  "name": "INOMUNGA UTARA",
+  "postalCode": "95765"
  },
  {
   "id": 7107050012,
   "districtId": 7107050,
-  "name": "BIGO SELATAN"
+  "districtName": "KAIDIPANG",
+  "name": "BIGO SELATAN",
+  "postalCode": "95765"
  },
  {
   "id": 7107050013,
   "districtId": 7107050,
-  "name": "SOLIGIR"
+  "districtName": "KAIDIPANG",
+  "name": "SOLIGIR",
+  "postalCode": "95765"
  },
  {
   "id": 7107050014,
   "districtId": 7107050,
-  "name": "BOROKO UTARA"
+  "districtName": "KAIDIPANG",
+  "name": "BOROKO UTARA",
+  "postalCode": "95765"
  },
  {
   "id": 7107050015,
   "districtId": 7107050,
-  "name": "GIHANG"
+  "districtName": "KAIDIPANG",
+  "name": "GIHANG",
+  "postalCode": "95765"
  }
 ]

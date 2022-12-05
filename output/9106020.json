@@ -2,81 +2,113 @@
  {
   "id": 9106020001,
   "districtId": 9106020,
-  "name": "MIGORI"
+  "districtName": "KOKODA",
+  "name": "MIGORI",
+  "postalCode": "98455"
  },
  {
   "id": 9106020002,
   "districtId": 9106020,
-  "name": "SIWATORI"
+  "districtName": "KOKODA",
+  "name": "SIWATORI",
+  "postalCode": "98455"
  },
  {
   "id": 9106020003,
   "districtId": 9106020,
-  "name": "TAROF"
+  "districtName": "KOKODA",
+  "name": "TAROF",
+  "postalCode": "98455"
  },
  {
   "id": 9106020004,
   "districtId": 9106020,
-  "name": "TAMBANI"
+  "districtName": "KOKODA",
+  "name": "TAMBANI",
+  "postalCode": "98455"
  },
  {
   "id": 9106020005,
   "districtId": 9106020,
-  "name": "NEGERI BESAR"
+  "districtName": "KOKODA",
+  "name": "NEGERI BESAR",
+  "postalCode": "34769"
  },
  {
   "id": 9106020006,
   "districtId": 9106020,
-  "name": "KASUWERI"
+  "districtName": "KOKODA",
+  "name": "KASUWERI",
+  "postalCode": "98455"
  },
  {
   "id": 9106020010,
   "districtId": 9106020,
-  "name": "KOREWATARA"
+  "districtName": "KOKODA",
+  "name": "KOREWATARA",
+  "postalCode": "98455"
  },
  {
   "id": 9106020011,
   "districtId": 9106020,
-  "name": "TAPAS"
+  "districtName": "KOKODA",
+  "name": "TAPAS",
+  "postalCode": "98455"
  },
  {
   "id": 9106020012,
   "districtId": 9106020,
-  "name": "TOTONA"
+  "districtName": "KOKODA",
+  "name": "TOTONA",
+  "postalCode": "98455"
  },
  {
   "id": 9106020013,
   "districtId": 9106020,
-  "name": "DAUBAK"
+  "districtName": "KOKODA",
+  "name": "DAUBAK",
+  "postalCode": "98455"
  },
  {
   "id": 9106020014,
   "districtId": 9106020,
-  "name": "TOPDAN"
+  "districtName": "KOKODA",
+  "name": "TOPDAN",
+  "postalCode": "98455"
  },
  {
   "id": 9106020015,
   "districtId": 9106020,
-  "name": "NAYAKORE"
+  "districtName": "KOKODA",
+  "name": "NAYAKORE",
+  "postalCode": "98455"
  },
  {
   "id": 9106020016,
   "districtId": 9106020,
-  "name": "MIGIRITO"
+  "districtName": "KOKODA",
+  "name": "MIGIRITO",
+  "postalCode": ""
  },
  {
   "id": 9106020017,
   "districtId": 9106020,
-  "name": "ARBASINA"
+  "districtName": "KOKODA",
+  "name": "ARBASINA",
+  "postalCode": "98455"
  },
  {
   "id": 9106020018,
   "districtId": 9106020,
-  "name": "BIRAWAKU"
+  "districtName": "KOKODA",
+  "name": "BIRAWAKU",
+  "postalCode": "98455"
  },
  {
   "id": 9106020021,
   "districtId": 9106020,
-  "name": "DAIMAR"
+  "districtName": "KOKODA",
+  "name": "DAIMAR",
+  "postalCode": "98455"
  }
 ]

@@ -2,61 +2,85 @@
  {
   "id": 3528110001,
   "districtId": 3528110,
-  "name": "SUMBER WARU"
+  "districtName": "WARU",
+  "name": "SUMBER WARU",
+  "postalCode": "69353"
  },
  {
   "id": 3528110002,
   "districtId": 3528110,
-  "name": "BAJUR"
+  "districtName": "WARU",
+  "name": "BAJUR",
+  "postalCode": "69353"
  },
  {
   "id": 3528110003,
   "districtId": 3528110,
-  "name": "RAGANG"
+  "districtName": "WARU",
+  "name": "RAGANG",
+  "postalCode": "69353"
  },
  {
   "id": 3528110004,
   "districtId": 3528110,
-  "name": "TAMPOJUNG TENGGINA"
+  "districtName": "WARU",
+  "name": "TAMPOJUNG TENGGINA",
+  "postalCode": "69353"
  },
  {
   "id": 3528110005,
   "districtId": 3528110,
-  "name": "TAMPOJUNG TENGAH"
+  "districtName": "WARU",
+  "name": "TAMPOJUNG TENGAH",
+  "postalCode": "69353"
  },
  {
   "id": 3528110006,
   "districtId": 3528110,
-  "name": "TAMPOJUNG GUWA"
+  "districtName": "WARU",
+  "name": "TAMPOJUNG GUWA",
+  "postalCode": "69353"
  },
  {
   "id": 3528110007,
   "districtId": 3528110,
-  "name": "TAMPOJUNG PREGI"
+  "districtName": "WARU",
+  "name": "TAMPOJUNG PREGI",
+  "postalCode": "69353"
  },
  {
   "id": 3528110008,
   "districtId": 3528110,
-  "name": "SANA LAOK"
+  "districtName": "WARU",
+  "name": "SANA LAOK",
+  "postalCode": "69353"
  },
  {
   "id": 3528110009,
   "districtId": 3528110,
-  "name": "WARU TIMUR"
+  "districtName": "WARU",
+  "name": "WARU TIMUR",
+  "postalCode": "69353"
  },
  {
   "id": 3528110010,
   "districtId": 3528110,
-  "name": "WARU BARAT"
+  "districtName": "WARU",
+  "name": "WARU BARAT",
+  "postalCode": "69353"
  },
  {
   "id": 3528110011,
   "districtId": 3528110,
-  "name": "TLONTOARES"
+  "districtName": "WARU",
+  "name": "TLONTOARES",
+  "postalCode": ""
  },
  {
   "id": 3528110012,
   "districtId": 3528110,
-  "name": "TEGANGSER LAOK"
+  "districtName": "WARU",
+  "name": "TEGANGSER LAOK",
+  "postalCode": ""
  }
 ]

@@ -2,76 +2,106 @@
  {
   "id": 3501050001,
   "districtId": 3501050,
-  "name": "PLUMBUNGAN"
+  "districtName": "KEBONAGUNG",
+  "name": "PLUMBUNGAN",
+  "postalCode": "59173"
  },
  {
   "id": 3501050002,
   "districtId": 3501050,
-  "name": "KARANGNONGKO"
+  "districtName": "KEBONAGUNG",
+  "name": "KARANGNONGKO",
+  "postalCode": "57322"
  },
  {
   "id": 3501050003,
   "districtId": 3501050,
-  "name": "KALIPELUS"
+  "districtName": "KEBONAGUNG",
+  "name": "KALIPELUS",
+  "postalCode": "53472"
  },
  {
   "id": 3501050004,
   "districtId": 3501050,
-  "name": "KATIPUGAL"
+  "districtName": "KEBONAGUNG",
+  "name": "KATIPUGAL",
+  "postalCode": "63561"
  },
  {
   "id": 3501050006,
   "districtId": 3501050,
-  "name": "SIDOMULYO"
+  "districtName": "KEBONAGUNG",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  },
  {
   "id": 3501050007,
   "districtId": 3501050,
-  "name": "WORAWARI"
+  "districtName": "KEBONAGUNG",
+  "name": "WORAWARI",
+  "postalCode": "63561"
  },
  {
   "id": 3501050008,
   "districtId": 3501050,
-  "name": "MANTREN"
+  "districtName": "KEBONAGUNG",
+  "name": "MANTREN",
+  "postalCode": "63395"
  },
  {
   "id": 3501050009,
   "districtId": 3501050,
-  "name": "GAWANG"
+  "districtName": "KEBONAGUNG",
+  "name": "GAWANG",
+  "postalCode": "63561"
  },
  {
   "id": 3501050010,
   "districtId": 3501050,
-  "name": "KARANGANYAR"
+  "districtName": "KEBONAGUNG",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  },
  {
   "id": 3501050011,
   "districtId": 3501050,
-  "name": "KEBONAGUNG"
+  "districtName": "KEBONAGUNG",
+  "name": "KEBONAGUNG",
+  "postalCode": "56151"
  },
  {
   "id": 3501050012,
   "districtId": 3501050,
-  "name": "PURWOASRI"
+  "districtName": "KEBONAGUNG",
+  "name": "PURWOASRI",
+  "postalCode": "68165"
  },
  {
   "id": 3501050013,
   "districtId": 3501050,
-  "name": "BANJARJO"
+  "districtName": "KEBONAGUNG",
+  "name": "BANJARJO",
+  "postalCode": "65167"
  },
  {
   "id": 3501050015,
   "districtId": 3501050,
-  "name": "SANGGRAHAN"
+  "districtName": "KEBONAGUNG",
+  "name": "SANGGRAHAN",
+  "postalCode": "57552"
  },
  {
   "id": 3501050017,
   "districtId": 3501050,
-  "name": "WONOGONDO"
+  "districtName": "KEBONAGUNG",
+  "name": "WONOGONDO",
+  "postalCode": "63561"
  },
  {
   "id": 3501050019,
   "districtId": 3501050,
-  "name": "KETRO"
+  "districtName": "KEBONAGUNG",
+  "name": "KETRO",
+  "postalCode": "58163"
  }
 ]

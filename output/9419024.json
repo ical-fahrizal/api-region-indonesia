@@ -2,21 +2,29 @@
  {
   "id": 9419024001,
   "districtId": 9419024,
-  "name": "KOMRA"
+  "districtName": "SUNGAI BIRI",
+  "name": "KOMRA",
+  "postalCode": "99371"
  },
  {
   "id": 9419024002,
   "districtId": 9419024,
-  "name": "ANSUDU"
+  "districtName": "SUNGAI BIRI",
+  "name": "ANSUDU",
+  "postalCode": ""
  },
  {
   "id": 9419024003,
   "districtId": 9419024,
-  "name": "ANSUDU II / SREM"
+  "districtName": "SUNGAI BIRI",
+  "name": "ANSUDU II / SREM",
+  "postalCode": ""
  },
  {
   "id": 9419024004,
   "districtId": 9419024,
-  "name": "MAWESWARES"
+  "districtName": "SUNGAI BIRI",
+  "name": "MAWESWARES",
+  "postalCode": ""
  }
 ]

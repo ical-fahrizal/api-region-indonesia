@@ -2,46 +2,64 @@
  {
   "id": 3209080005,
   "districtId": 3209080,
-  "name": "SIDAMULYA"
+  "districtName": "ASTANAJAPURA",
+  "name": "SIDAMULYA",
+  "postalCode": "45181"
  },
  {
   "id": 3209080006,
   "districtId": 3209080,
-  "name": "MERTAPADA KULON"
+  "districtName": "ASTANAJAPURA",
+  "name": "MERTAPADA KULON",
+  "postalCode": "45181"
  },
  {
   "id": 3209080007,
   "districtId": 3209080,
-  "name": "MERTAPADA WETAN"
+  "districtName": "ASTANAJAPURA",
+  "name": "MERTAPADA WETAN",
+  "postalCode": "45181"
  },
  {
   "id": 3209080009,
   "districtId": 3209080,
-  "name": "KANCI KULON"
+  "districtName": "ASTANAJAPURA",
+  "name": "KANCI KULON",
+  "postalCode": "45181"
  },
  {
   "id": 3209080010,
   "districtId": 3209080,
-  "name": "KANCI"
+  "districtName": "ASTANAJAPURA",
+  "name": "KANCI",
+  "postalCode": "45181"
  },
  {
   "id": 3209080011,
   "districtId": 3209080,
-  "name": "ASTANAJAPURA"
+  "districtName": "ASTANAJAPURA",
+  "name": "ASTANAJAPURA",
+  "postalCode": "45181"
  },
  {
   "id": 3209080015,
   "districtId": 3209080,
-  "name": "KENDAL"
+  "districtName": "ASTANAJAPURA",
+  "name": "KENDAL",
+  "postalCode": "45181"
  },
  {
   "id": 3209080016,
   "districtId": 3209080,
-  "name": "JAPURA KIDUL"
+  "districtName": "ASTANAJAPURA",
+  "name": "JAPURA KIDUL",
+  "postalCode": "45181"
  },
  {
   "id": 3209080017,
   "districtId": 3209080,
-  "name": "JAPURABAKTI"
+  "districtName": "ASTANAJAPURA",
+  "name": "JAPURABAKTI",
+  "postalCode": "45181"
  }
 ]

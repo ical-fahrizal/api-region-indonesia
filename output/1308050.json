@@ -2,31 +2,43 @@
  {
   "id": 1308050001,
   "districtId": 1308050,
-  "name": "KURAI"
+  "districtName": "SULIKI",
+  "name": "KURAI",
+  "postalCode": "26255"
  },
  {
   "id": 1308050002,
   "districtId": 1308050,
-  "name": "SULIKI"
+  "districtName": "SULIKI",
+  "name": "SULIKI",
+  "postalCode": "26255"
  },
  {
   "id": 1308050003,
   "districtId": 1308050,
-  "name": "LIMBANANG"
+  "districtName": "SULIKI",
+  "name": "LIMBANANG",
+  "postalCode": "26255"
  },
  {
   "id": 1308050004,
   "districtId": 1308050,
-  "name": "SUNGAI RIMBANG"
+  "districtName": "SULIKI",
+  "name": "SUNGAI RIMBANG",
+  "postalCode": "26255"
  },
  {
   "id": 1308050005,
   "districtId": 1308050,
-  "name": "TANJUANG BUNGO"
+  "districtName": "SULIKI",
+  "name": "TANJUANG BUNGO",
+  "postalCode": "26255"
  },
  {
   "id": 1308050006,
   "districtId": 1308050,
-  "name": "ANDIANG"
+  "districtName": "SULIKI",
+  "name": "ANDIANG",
+  "postalCode": "26255"
  }
 ]

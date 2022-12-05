@@ -2,46 +2,64 @@
  {
   "id": 3214101001,
   "districtId": 3214101,
-  "name": "MARACANG"
+  "districtName": "BABAKANCIKAO",
+  "name": "MARACANG",
+  "postalCode": "41151"
  },
  {
   "id": 3214101002,
   "districtId": 3214101,
-  "name": "CIWARENG"
+  "districtName": "BABAKANCIKAO",
+  "name": "CIWARENG",
+  "postalCode": "41151"
  },
  {
   "id": 3214101003,
   "districtId": 3214101,
-  "name": "MULYAMEKAR"
+  "districtName": "BABAKANCIKAO",
+  "name": "MULYAMEKAR",
+  "postalCode": "41151"
  },
  {
   "id": 3214101004,
   "districtId": 3214101,
-  "name": "CIGELAM"
+  "districtName": "BABAKANCIKAO",
+  "name": "CIGELAM",
+  "postalCode": "41151"
  },
  {
   "id": 3214101005,
   "districtId": 3214101,
-  "name": "BABAKANCIKAO"
+  "districtName": "BABAKANCIKAO",
+  "name": "BABAKANCIKAO",
+  "postalCode": "41151"
  },
  {
   "id": 3214101006,
   "districtId": 3214101,
-  "name": "KADUMEKAR"
+  "districtName": "BABAKANCIKAO",
+  "name": "KADUMEKAR",
+  "postalCode": "41151"
  },
  {
   "id": 3214101007,
   "districtId": 3214101,
-  "name": "HEGARMANAH"
+  "districtName": "BABAKANCIKAO",
+  "name": "HEGARMANAH",
+  "postalCode": "41151"
  },
  {
   "id": 3214101008,
   "districtId": 3214101,
-  "name": "CICADAS"
+  "districtName": "BABAKANCIKAO",
+  "name": "CICADAS",
+  "postalCode": "41151"
  },
  {
   "id": 3214101009,
   "districtId": 3214101,
-  "name": "CILANGKAP"
+  "districtName": "BABAKANCIKAO",
+  "name": "CILANGKAP",
+  "postalCode": "13870"
  }
 ]

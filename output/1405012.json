@@ -2,56 +2,78 @@
  {
   "id": 1405012001,
   "districtId": 1405012,
-  "name": "TELAGA SAM SAM"
+  "districtName": "KANDIS",
+  "name": "TELAGA SAM SAM",
+  "postalCode": ""
  },
  {
   "id": 1405012002,
   "districtId": 1405012,
-  "name": "SAM SAM"
+  "districtName": "KANDIS",
+  "name": "SAM SAM",
+  "postalCode": "28686"
  },
  {
   "id": 1405012003,
   "districtId": 1405012,
-  "name": "KANDIS KOTA"
+  "districtName": "KANDIS",
+  "name": "KANDIS KOTA",
+  "postalCode": "28686"
  },
  {
   "id": 1405012004,
   "districtId": 1405012,
-  "name": "KANDIS"
+  "districtName": "KANDIS",
+  "name": "KANDIS",
+  "postalCode": "28686"
  },
  {
   "id": 1405012005,
   "districtId": 1405012,
-  "name": "SIMPANG BELUTU"
+  "districtName": "KANDIS",
+  "name": "SIMPANG BELUTU",
+  "postalCode": "28686"
  },
  {
   "id": 1405012006,
   "districtId": 1405012,
-  "name": "BELUTU"
+  "districtName": "KANDIS",
+  "name": "BELUTU",
+  "postalCode": "28686"
  },
  {
   "id": 1405012007,
   "districtId": 1405012,
-  "name": "BEKALAR"
+  "districtName": "KANDIS",
+  "name": "BEKALAR",
+  "postalCode": "28686"
  },
  {
   "id": 1405012008,
   "districtId": 1405012,
-  "name": "JAMBAI MAKMUR"
+  "districtName": "KANDIS",
+  "name": "JAMBAI MAKMUR",
+  "postalCode": "28686"
  },
  {
   "id": 1405012009,
   "districtId": 1405012,
-  "name": "PENCING BEKULO"
+  "districtName": "KANDIS",
+  "name": "PENCING BEKULO",
+  "postalCode": ""
  },
  {
   "id": 1405012010,
   "districtId": 1405012,
-  "name": "SUNGAI GONDANG"
+  "districtName": "KANDIS",
+  "name": "SUNGAI GONDANG",
+  "postalCode": "28686"
  },
  {
   "id": 1405012011,
   "districtId": 1405012,
-  "name": "LIBO JAYA"
+  "districtName": "KANDIS",
+  "name": "LIBO JAYA",
+  "postalCode": "28686"
  }
 ]

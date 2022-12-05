@@ -2,51 +2,71 @@
  {
   "id": 1219042001,
   "districtId": 1219042,
-  "name": "KWALA GUNUNG"
+  "districtName": "DATUK LIMA PULUH",
+  "name": "KWALA GUNUNG",
+  "postalCode": ""
  },
  {
   "id": 1219042002,
   "districtId": 1219042,
-  "name": "CAHAYA PARDOMUAN"
+  "districtName": "DATUK LIMA PULUH",
+  "name": "CAHAYA PARDOMUAN",
+  "postalCode": "21255"
  },
  {
   "id": 1219042003,
   "districtId": 1219042,
-  "name": "SIMPANG DOLOK"
+  "districtName": "DATUK LIMA PULUH",
+  "name": "SIMPANG DOLOK",
+  "postalCode": "21255"
  },
  {
   "id": 1219042004,
   "districtId": 1219042,
-  "name": "EMPAT NEGERI"
+  "districtName": "DATUK LIMA PULUH",
+  "name": "EMPAT NEGERI",
+  "postalCode": "21255"
  },
  {
   "id": 1219042005,
   "districtId": 1219042,
-  "name": "PERKEBUNAN TANAH ITAM ULU"
+  "districtName": "DATUK LIMA PULUH",
+  "name": "PERKEBUNAN TANAH ITAM ULU",
+  "postalCode": ""
  },
  {
   "id": 1219042006,
   "districtId": 1219042,
-  "name": "LUBUK BESAR"
+  "districtName": "DATUK LIMA PULUH",
+  "name": "LUBUK BESAR",
+  "postalCode": "21255"
  },
  {
   "id": 1219042007,
   "districtId": 1219042,
-  "name": "PULAU SEJUK"
+  "districtName": "DATUK LIMA PULUH",
+  "name": "PULAU SEJUK",
+  "postalCode": "21255"
  },
  {
   "id": 1219042008,
   "districtId": 1219042,
-  "name": "AIR HITAM"
+  "districtName": "DATUK LIMA PULUH",
+  "name": "AIR HITAM",
+  "postalCode": "20856"
  },
  {
   "id": 1219042009,
   "districtId": 1219042,
-  "name": "SUMBER REJO"
+  "districtName": "DATUK LIMA PULUH",
+  "name": "SUMBER REJO",
+  "postalCode": "21255"
  },
  {
   "id": 1219042010,
   "districtId": 1219042,
-  "name": "LUBUK HULU"
+  "districtName": "DATUK LIMA PULUH",
+  "name": "LUBUK HULU",
+  "postalCode": "21255"
  }
 ]

@@ -2,96 +2,134 @@
  {
   "id": 3517060001,
   "districtId": 3517060,
-  "name": "KEDUNGPARI"
+  "districtName": "MOJOWARNO",
+  "name": "KEDUNGPARI",
+  "postalCode": "61475"
  },
  {
   "id": 3517060002,
   "districtId": 3517060,
-  "name": "KARANGLO"
+  "districtName": "MOJOWARNO",
+  "name": "KARANGLO",
+  "postalCode": "53162"
  },
  {
   "id": 3517060003,
   "districtId": 3517060,
-  "name": "LATSARI"
+  "districtName": "MOJOWARNO",
+  "name": "LATSARI",
+  "postalCode": "62354"
  },
  {
   "id": 3517060004,
   "districtId": 3517060,
-  "name": "MOJOWARNO"
+  "districtName": "MOJOWARNO",
+  "name": "MOJOWARNO",
+  "postalCode": "59252"
  },
  {
   "id": 3517060005,
   "districtId": 3517060,
-  "name": "PENGGARON"
+  "districtName": "MOJOWARNO",
+  "name": "PENGGARON",
+  "postalCode": "61475"
  },
  {
   "id": 3517060006,
   "districtId": 3517060,
-  "name": "MOJODUWUR"
+  "districtName": "MOJOWARNO",
+  "name": "MOJODUWUR",
+  "postalCode": "61475"
  },
  {
   "id": 3517060007,
   "districtId": 3517060,
-  "name": "MOJOWANGI"
+  "districtName": "MOJOWARNO",
+  "name": "MOJOWANGI",
+  "postalCode": "61475"
  },
  {
   "id": 3517060008,
   "districtId": 3517060,
-  "name": "GONDEK"
+  "districtName": "MOJOWARNO",
+  "name": "GONDEK",
+  "postalCode": "61475"
  },
  {
   "id": 3517060009,
   "districtId": 3517060,
-  "name": "GEDANGAN"
+  "districtName": "MOJOWARNO",
+  "name": "GEDANGAN",
+  "postalCode": "21264"
  },
  {
   "id": 3517060010,
   "districtId": 3517060,
-  "name": "MOJOJEJER"
+  "districtName": "MOJOWARNO",
+  "name": "MOJOJEJER",
+  "postalCode": "61475"
  },
  {
   "id": 3517060011,
   "districtId": 3517060,
-  "name": "JAPANAN"
+  "districtName": "MOJOWARNO",
+  "name": "JAPANAN",
+  "postalCode": "57463"
  },
  {
   "id": 3517060012,
   "districtId": 3517060,
-  "name": "GROBOGAN"
+  "districtName": "MOJOWARNO",
+  "name": "GROBOGAN",
+  "postalCode": "58152"
  },
  {
   "id": 3517060013,
   "districtId": 3517060,
-  "name": "REJOSLAMET"
+  "districtName": "MOJOWARNO",
+  "name": "REJOSLAMET",
+  "postalCode": "61475"
  },
  {
   "id": 3517060014,
   "districtId": 3517060,
-  "name": "SELOREJO"
+  "districtName": "MOJOWARNO",
+  "name": "SELOREJO",
+  "postalCode": "57683"
  },
  {
   "id": 3517060015,
   "districtId": 3517060,
-  "name": "MENGANTO"
+  "districtName": "MOJOWARNO",
+  "name": "MENGANTO",
+  "postalCode": "61475"
  },
  {
   "id": 3517060016,
   "districtId": 3517060,
-  "name": "SIDOKERTO"
+  "districtName": "MOJOWARNO",
+  "name": "SIDOKERTO",
+  "postalCode": "34161"
  },
  {
   "id": 3517060017,
   "districtId": 3517060,
-  "name": "SUKOMULYO"
+  "districtName": "MOJOWARNO",
+  "name": "SUKOMULYO",
+  "postalCode": "32381"
  },
  {
   "id": 3517060018,
   "districtId": 3517060,
-  "name": "CATAK GAYAM"
+  "districtName": "MOJOWARNO",
+  "name": "CATAK GAYAM",
+  "postalCode": "61475"
  },
  {
   "id": 3517060019,
   "districtId": 3517060,
-  "name": "WRINGINPITU"
+  "districtName": "MOJOWARNO",
+  "name": "WRINGINPITU",
+  "postalCode": "61475"
  }
 ]

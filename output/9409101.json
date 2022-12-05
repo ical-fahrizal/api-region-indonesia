@@ -2,81 +2,113 @@
  {
   "id": 9409101001,
   "districtId": 9409101,
-  "name": "FARUSI"
+  "districtName": "SWANDIWE",
+  "name": "FARUSI",
+  "postalCode": "98154"
  },
  {
   "id": 9409101002,
   "districtId": 9409101,
-  "name": "MANDENDERI"
+  "districtName": "SWANDIWE",
+  "name": "MANDENDERI",
+  "postalCode": "98154"
  },
  {
   "id": 9409101003,
   "districtId": 9409101,
-  "name": "MARDORI"
+  "districtName": "SWANDIWE",
+  "name": "MARDORI",
+  "postalCode": "98154"
  },
  {
   "id": 9409101004,
   "districtId": 9409101,
-  "name": "SWAIPAK"
+  "districtName": "SWANDIWE",
+  "name": "SWAIPAK",
+  "postalCode": "98154"
  },
  {
   "id": 9409101005,
   "districtId": 9409101,
-  "name": "KANDI BUNDI/AMPUNBUKOR"
+  "districtName": "SWANDIWE",
+  "name": "KANDI BUNDI/AMPUNBUKOR",
+  "postalCode": ""
  },
  {
   "id": 9409101006,
   "districtId": 9409101,
-  "name": "SARWA"
+  "districtName": "SWANDIWE",
+  "name": "SARWA",
+  "postalCode": "98154"
  },
  {
   "id": 9409101007,
   "districtId": 9409101,
-  "name": "NAPDORI"
+  "districtName": "SWANDIWE",
+  "name": "NAPDORI",
+  "postalCode": "98154"
  },
  {
   "id": 9409101008,
   "districtId": 9409101,
-  "name": "RAMDORI"
+  "districtName": "SWANDIWE",
+  "name": "RAMDORI",
+  "postalCode": "98154"
  },
  {
   "id": 9409101009,
   "districtId": 9409101,
-  "name": "WOMBRISAUW"
+  "districtName": "SWANDIWE",
+  "name": "WOMBRISAUW",
+  "postalCode": "98154"
  },
  {
   "id": 9409101010,
   "districtId": 9409101,
-  "name": "SWAINOBER"
+  "districtName": "SWANDIWE",
+  "name": "SWAINOBER",
+  "postalCode": "98154"
  },
  {
   "id": 9409101011,
   "districtId": 9409101,
-  "name": "YENBEPIOPER"
+  "districtName": "SWANDIWE",
+  "name": "YENBEPIOPER",
+  "postalCode": ""
  },
  {
   "id": 9409101012,
   "districtId": 9409101,
-  "name": "BUSDORI"
+  "districtName": "SWANDIWE",
+  "name": "BUSDORI",
+  "postalCode": "98154"
  },
  {
   "id": 9409101013,
   "districtId": 9409101,
-  "name": "INSUSBARI"
+  "districtName": "SWANDIWE",
+  "name": "INSUSBARI",
+  "postalCode": "98154"
  },
  {
   "id": 9409101014,
   "districtId": 9409101,
-  "name": "ANDOINA"
+  "districtName": "SWANDIWE",
+  "name": "ANDOINA",
+  "postalCode": "98154"
  },
  {
   "id": 9409101015,
   "districtId": 9409101,
-  "name": "ORKDORI"
+  "districtName": "SWANDIWE",
+  "name": "ORKDORI",
+  "postalCode": "98154"
  },
  {
   "id": 9409101016,
   "districtId": 9409101,
-  "name": "SASWARBO"
+  "districtName": "SWANDIWE",
+  "name": "SASWARBO",
+  "postalCode": "98154"
  }
 ]

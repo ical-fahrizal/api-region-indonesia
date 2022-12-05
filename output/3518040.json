@@ -2,91 +2,127 @@
  {
   "id": 3518040001,
   "districtId": 3518040,
-  "name": "BAJULAN"
+  "districtName": "LOCERET",
+  "name": "BAJULAN",
+  "postalCode": "64471"
  },
  {
   "id": 3518040002,
   "districtId": 3518040,
-  "name": "MACANAN"
+  "districtName": "LOCERET",
+  "name": "MACANAN",
+  "postalCode": "57762"
  },
  {
   "id": 3518040004,
   "districtId": 3518040,
-  "name": "KARANGSONO"
+  "districtName": "LOCERET",
+  "name": "KARANGSONO",
+  "postalCode": "58163"
  },
  {
   "id": 3518040006,
   "districtId": 3518040,
-  "name": "GODEAN"
+  "districtName": "LOCERET",
+  "name": "GODEAN",
+  "postalCode": "64471"
  },
  {
   "id": 3518040007,
   "districtId": 3518040,
-  "name": "PATIHAN"
+  "districtName": "LOCERET",
+  "name": "PATIHAN",
+  "postalCode": "57281"
  },
  {
   "id": 3518040008,
   "districtId": 3518040,
-  "name": "SEKARAN"
+  "districtName": "LOCERET",
+  "name": "SEKARAN",
+  "postalCode": "50229"
  },
  {
   "id": 3518040009,
   "districtId": 3518040,
-  "name": "LOCERET"
+  "districtName": "LOCERET",
+  "name": "LOCERET",
+  "postalCode": "64471"
  },
  {
   "id": 3518040010,
   "districtId": 3518040,
-  "name": "JATIREJO"
+  "districtName": "LOCERET",
+  "name": "JATIREJO",
+  "postalCode": "23661"
  },
  {
   "id": 3518040011,
   "districtId": 3518040,
-  "name": "TEMPEL WETAN"
+  "districtName": "LOCERET",
+  "name": "TEMPEL WETAN",
+  "postalCode": "64471"
  },
  {
   "id": 3518040012,
   "districtId": 3518040,
-  "name": "TEKEN GLAGAHAN"
+  "districtName": "LOCERET",
+  "name": "TEKEN GLAGAHAN",
+  "postalCode": "64471"
  },
  {
   "id": 3518040014,
   "districtId": 3518040,
-  "name": "GEJAGAN"
+  "districtName": "LOCERET",
+  "name": "GEJAGAN",
+  "postalCode": "56255"
  },
  {
   "id": 3518040015,
   "districtId": 3518040,
-  "name": "CANDIREJO"
+  "districtName": "LOCERET",
+  "name": "CANDIREJO",
+  "postalCode": "51274"
  },
  {
   "id": 3518040016,
   "districtId": 3518040,
-  "name": "SUKOREJO"
+  "districtName": "LOCERET",
+  "name": "SUKOREJO",
+  "postalCode": "31551"
  },
  {
   "id": 3518040017,
   "districtId": 3518040,
-  "name": "KWAGEAN"
+  "districtName": "LOCERET",
+  "name": "KWAGEAN",
+  "postalCode": "51181"
  },
  {
   "id": 3518040019,
   "districtId": 3518040,
-  "name": "PUTUKREJO"
+  "districtName": "LOCERET",
+  "name": "PUTUKREJO",
+  "postalCode": "65174"
  },
  {
   "id": 3518040020,
   "districtId": 3518040,
-  "name": "NGLABAN"
+  "districtName": "LOCERET",
+  "name": "NGLABAN",
+  "postalCode": "64471"
  },
  {
   "id": 3518040021,
   "districtId": 3518040,
-  "name": "SOMBRON"
+  "districtName": "LOCERET",
+  "name": "SOMBRON",
+  "postalCode": "64471"
  },
  {
   "id": 3518040022,
   "districtId": 3518040,
-  "name": "TANJUNGREJO"
+  "districtName": "LOCERET",
+  "name": "TANJUNGREJO",
+  "postalCode": "54224"
  }
 ]

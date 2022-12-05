@@ -2,31 +2,43 @@
  {
   "id": 7472021001,
   "districtId": 7472021,
-  "name": "KADOLOMOKO"
+  "districtName": "KOKALUKUNA",
+  "name": "KADOLOMOKO",
+  "postalCode": "93716"
  },
  {
   "id": 7472021002,
   "districtId": 7472021,
-  "name": "WARURUMA"
+  "districtName": "KOKALUKUNA",
+  "name": "WARURUMA",
+  "postalCode": "93719"
  },
  {
   "id": 7472021003,
   "districtId": 7472021,
-  "name": "LAKOLOGOU"
+  "districtName": "KOKALUKUNA",
+  "name": "LAKOLOGOU",
+  "postalCode": "93662"
  },
  {
   "id": 7472021004,
   "districtId": 7472021,
-  "name": "LIWUTO"
+  "districtName": "KOKALUKUNA",
+  "name": "LIWUTO",
+  "postalCode": "93711"
  },
  {
   "id": 7472021005,
   "districtId": 7472021,
-  "name": "SUKANAYO"
+  "districtName": "KOKALUKUNA",
+  "name": "SUKANAYO",
+  "postalCode": ""
  },
  {
   "id": 7472021006,
   "districtId": 7472021,
-  "name": "KADOLO"
+  "districtName": "KOKALUKUNA",
+  "name": "KADOLO",
+  "postalCode": "93716"
  }
 ]

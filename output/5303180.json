@@ -2,36 +2,50 @@
  {
   "id": 5303180001,
   "districtId": 5303180,
-  "name": "FATUSUKI"
+  "districtName": "AMFOANG SELATAN",
+  "name": "FATUSUKI",
+  "postalCode": "85364"
  },
  {
   "id": 5303180002,
   "districtId": 5303180,
-  "name": "FATUMETAN"
+  "districtName": "AMFOANG SELATAN",
+  "name": "FATUMETAN",
+  "postalCode": "85364"
  },
  {
   "id": 5303180003,
   "districtId": 5303180,
-  "name": "OHAEM I"
+  "districtName": "AMFOANG SELATAN",
+  "name": "OHAEM I",
+  "postalCode": ""
  },
  {
   "id": 5303180008,
   "districtId": 5303180,
-  "name": "LELOBOKO"
+  "districtName": "AMFOANG SELATAN",
+  "name": "LELOBOKO",
+  "postalCode": "85364"
  },
  {
   "id": 5303180009,
   "districtId": 5303180,
-  "name": "LELOGAMA"
+  "districtName": "AMFOANG SELATAN",
+  "name": "LELOGAMA",
+  "postalCode": "85364"
  },
  {
   "id": 5303180010,
   "districtId": 5303180,
-  "name": "OELBANU"
+  "districtName": "AMFOANG SELATAN",
+  "name": "OELBANU",
+  "postalCode": "85364"
  },
  {
   "id": 5303180011,
   "districtId": 5303180,
-  "name": "OHAEM II"
+  "districtName": "AMFOANG SELATAN",
+  "name": "OHAEM II",
+  "postalCode": ""
  }
 ]

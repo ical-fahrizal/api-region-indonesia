@@ -2,71 +2,99 @@
  {
   "id": 1112060001,
   "districtId": 1112060,
-  "name": "GUNUNG SAMARINDA"
+  "districtName": "BABAH ROT",
+  "name": "GUNUNG SAMARINDA",
+  "postalCode": "23767"
  },
  {
   "id": 1112060002,
   "districtId": 1112060,
-  "name": "IE MERAH"
+  "districtName": "BABAH ROT",
+  "name": "IE MERAH",
+  "postalCode": "23767"
  },
  {
   "id": 1112060003,
   "districtId": 1112060,
-  "name": "PANTEE RAKYAT"
+  "districtName": "BABAH ROT",
+  "name": "PANTEE RAKYAT",
+  "postalCode": "23767"
  },
  {
   "id": 1112060004,
   "districtId": 1112060,
-  "name": "PANTEE CERMIN"
+  "districtName": "BABAH ROT",
+  "name": "PANTEE CERMIN",
+  "postalCode": "23767"
  },
  {
   "id": 1112060005,
   "districtId": 1112060,
-  "name": "ALUE JERJAK"
+  "districtName": "BABAH ROT",
+  "name": "ALUE JERJAK",
+  "postalCode": ""
  },
  {
   "id": 1112060006,
   "districtId": 1112060,
-  "name": "BLANG DALAM"
+  "districtName": "BABAH ROT",
+  "name": "BLANG DALAM",
+  "postalCode": "23767"
  },
  {
   "id": 1112060007,
   "districtId": 1112060,
-  "name": "ALUE PEUNAWA"
+  "districtName": "BABAH ROT",
+  "name": "ALUE PEUNAWA",
+  "postalCode": "23767"
  },
  {
   "id": 1112060008,
   "districtId": 1112060,
-  "name": "SIMPANG GADENG"
+  "districtName": "BABAH ROT",
+  "name": "SIMPANG GADENG",
+  "postalCode": ""
  },
  {
   "id": 1112060009,
   "districtId": 1112060,
-  "name": "TELADAN JAYA"
+  "districtName": "BABAH ROT",
+  "name": "TELADAN JAYA",
+  "postalCode": ""
  },
  {
   "id": 1112060010,
   "districtId": 1112060,
-  "name": "BLANG RAJA"
+  "districtName": "BABAH ROT",
+  "name": "BLANG RAJA",
+  "postalCode": ""
  },
  {
   "id": 1112060011,
   "districtId": 1112060,
-  "name": "RUKOEN DAMEE"
+  "districtName": "BABAH ROT",
+  "name": "RUKOEN DAMEE",
+  "postalCode": ""
  },
  {
   "id": 1112060012,
   "districtId": 1112060,
-  "name": "LHOK GAYO"
+  "districtName": "BABAH ROT",
+  "name": "LHOK GAYO",
+  "postalCode": ""
  },
  {
   "id": 1112060013,
   "districtId": 1112060,
-  "name": "ALUE DAWAH"
+  "districtName": "BABAH ROT",
+  "name": "ALUE DAWAH",
+  "postalCode": ""
  },
  {
   "id": 1112060014,
   "districtId": 1112060,
-  "name": "COT SEUMANTOK"
+  "districtName": "BABAH ROT",
+  "name": "COT SEUMANTOK",
+  "postalCode": ""
  }
 ]

@@ -2,91 +2,127 @@
  {
   "id": 3517040001,
   "districtId": 3517040,
-  "name": "KAYANGAN"
+  "districtName": "DIWEK",
+  "name": "KAYANGAN",
+  "postalCode": "61471"
  },
  {
   "id": 3517040002,
   "districtId": 3517040,
-  "name": "PUTON"
+  "districtName": "DIWEK",
+  "name": "PUTON",
+  "postalCode": "61471"
  },
  {
   "id": 3517040004,
   "districtId": 3517040,
-  "name": "BULUREJO"
+  "districtName": "DIWEK",
+  "name": "BULUREJO",
+  "postalCode": "35372"
  },
  {
   "id": 3517040005,
   "districtId": 3517040,
-  "name": "GROGOL"
+  "districtName": "DIWEK",
+  "name": "GROGOL",
+  "postalCode": "11450"
  },
  {
   "id": 3517040006,
   "districtId": 3517040,
-  "name": "JATIREJO"
+  "districtName": "DIWEK",
+  "name": "JATIREJO",
+  "postalCode": "23661"
  },
  {
   "id": 3517040007,
   "districtId": 3517040,
-  "name": "CUKIR"
+  "districtName": "DIWEK",
+  "name": "CUKIR",
+  "postalCode": "61471"
  },
  {
   "id": 3517040008,
   "districtId": 3517040,
-  "name": "KWARON"
+  "districtName": "DIWEK",
+  "name": "KWARON",
+  "postalCode": "61471"
  },
  {
   "id": 3517040009,
   "districtId": 3517040,
-  "name": "KERAS"
+  "districtName": "DIWEK",
+  "name": "KERAS",
+  "postalCode": "24784"
  },
  {
   "id": 3517040010,
   "districtId": 3517040,
-  "name": "WATUGALUH"
+  "districtName": "DIWEK",
+  "name": "WATUGALUH",
+  "postalCode": "61471"
  },
  {
   "id": 3517040011,
   "districtId": 3517040,
-  "name": "JATIPELEM"
+  "districtName": "DIWEK",
+  "name": "JATIPELEM",
+  "postalCode": "61471"
  },
  {
   "id": 3517040012,
   "districtId": 3517040,
-  "name": "BRAMBANG"
+  "districtName": "DIWEK",
+  "name": "BRAMBANG",
+  "postalCode": "59566"
  },
  {
   "id": 3517040013,
   "districtId": 3517040,
-  "name": "PUNDONG"
+  "districtName": "DIWEK",
+  "name": "PUNDONG",
+  "postalCode": "61471"
  },
  {
   "id": 3517040014,
   "districtId": 3517040,
-  "name": "DIWEK"
+  "districtName": "DIWEK",
+  "name": "DIWEK",
+  "postalCode": "61471"
  },
  {
   "id": 3517040016,
   "districtId": 3517040,
-  "name": "BANDUNG"
+  "districtName": "DIWEK",
+  "name": "BANDUNG",
+  "postalCode": "54317"
  },
  {
   "id": 3517040017,
   "districtId": 3517040,
-  "name": "KEDAWONG"
+  "districtName": "DIWEK",
+  "name": "KEDAWONG",
+  "postalCode": "61471"
  },
  {
   "id": 3517040018,
   "districtId": 3517040,
-  "name": "NGUDIREJO"
+  "districtName": "DIWEK",
+  "name": "NGUDIREJO",
+  "postalCode": "61471"
  },
  {
   "id": 3517040019,
   "districtId": 3517040,
-  "name": "BALONG BESUK"
+  "districtName": "DIWEK",
+  "name": "BALONG BESUK",
+  "postalCode": "61471"
  },
  {
   "id": 3517040020,
   "districtId": 3517040,
-  "name": "PANDANWANGI"
+  "districtName": "DIWEK",
+  "name": "PANDANWANGI",
+  "postalCode": "65124"
  }
 ]

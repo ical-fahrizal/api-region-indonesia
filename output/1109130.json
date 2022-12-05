@@ -2,101 +2,141 @@
  {
   "id": 1109130001,
   "districtId": 1109130,
-  "name": "TUHA LALA"
+  "districtName": "MILA",
+  "name": "TUHA LALA",
+  "postalCode": "24163"
  },
  {
   "id": 1109130002,
   "districtId": 1109130,
-  "name": "MEUYUB LALA"
+  "districtName": "MILA",
+  "name": "MEUYUB LALA",
+  "postalCode": "24163"
  },
  {
   "id": 1109130003,
   "districtId": 1109130,
-  "name": "KULU"
+  "districtName": "MILA",
+  "name": "KULU",
+  "postalCode": "24356"
  },
  {
   "id": 1109130004,
   "districtId": 1109130,
-  "name": "LHOK LUBU"
+  "districtName": "MILA",
+  "name": "LHOK LUBU",
+  "postalCode": "24163"
  },
  {
   "id": 1109130005,
   "districtId": 1109130,
-  "name": "KRUENG LALA"
+  "districtName": "MILA",
+  "name": "KRUENG LALA",
+  "postalCode": "24163"
  },
  {
   "id": 1109130006,
   "districtId": 1109130,
-  "name": "BABAH JURONG"
+  "districtName": "MILA",
+  "name": "BABAH JURONG",
+  "postalCode": "24182"
  },
  {
   "id": 1109130007,
   "districtId": 1109130,
-  "name": "MESJID ANDEUE"
+  "districtName": "MILA",
+  "name": "MESJID ANDEUE",
+  "postalCode": "24163"
  },
  {
   "id": 1109130008,
   "districtId": 1109130,
-  "name": "DAYAH ANDEUE"
+  "districtName": "MILA",
+  "name": "DAYAH ANDEUE",
+  "postalCode": "24163"
  },
  {
   "id": 1109130009,
   "districtId": 1109130,
-  "name": "DAYAH SINTHOP"
+  "districtName": "MILA",
+  "name": "DAYAH SINTHOP",
+  "postalCode": "24163"
  },
  {
   "id": 1109130010,
   "districtId": 1109130,
-  "name": "PULO TANJONG"
+  "districtName": "MILA",
+  "name": "PULO TANJONG",
+  "postalCode": "24163"
  },
  {
   "id": 1109130011,
   "districtId": 1109130,
-  "name": "TEUMEUCET"
+  "districtName": "MILA",
+  "name": "TEUMEUCET",
+  "postalCode": "24163"
  },
  {
   "id": 1109130012,
   "districtId": 1109130,
-  "name": "BLANG CUT"
+  "districtName": "MILA",
+  "name": "BLANG CUT",
+  "postalCode": "24375"
  },
  {
   "id": 1109130013,
   "districtId": 1109130,
-  "name": "KUMBANG"
+  "districtName": "MILA",
+  "name": "KUMBANG",
+  "postalCode": "24162"
  },
  {
   "id": 1109130014,
   "districtId": 1109130,
-  "name": "BLANG"
+  "districtName": "MILA",
+  "name": "BLANG",
+  "postalCode": "24385"
  },
  {
   "id": 1109130015,
   "districtId": 1109130,
-  "name": "LAGANG"
+  "districtName": "MILA",
+  "name": "LAGANG",
+  "postalCode": "23352"
  },
  {
   "id": 1109130016,
   "districtId": 1109130,
-  "name": "TUNONG ILOT"
+  "districtName": "MILA",
+  "name": "TUNONG ILOT",
+  "postalCode": ""
  },
  {
   "id": 1109130017,
   "districtId": 1109130,
-  "name": "BAROH ILOT"
+  "districtName": "MILA",
+  "name": "BAROH ILOT",
+  "postalCode": "24163"
  },
  {
   "id": 1109130018,
   "districtId": 1109130,
-  "name": "TEUNGOH ILOT"
+  "districtName": "MILA",
+  "name": "TEUNGOH ILOT",
+  "postalCode": "24163"
  },
  {
   "id": 1109130019,
   "districtId": 1109130,
-  "name": "MESJID ILOT"
+  "districtName": "MILA",
+  "name": "MESJID ILOT",
+  "postalCode": "24163"
  },
  {
   "id": 1109130020,
   "districtId": 1109130,
-  "name": "ARA BUNGKOK"
+  "districtName": "MILA",
+  "name": "ARA BUNGKOK",
+  "postalCode": "24163"
  }
 ]

@@ -2,51 +2,71 @@
  {
   "id": 7212050001,
   "districtId": 7212050,
-  "name": "KOROMATANTU"
+  "districtName": "PETASIA",
+  "name": "KOROMATANTU",
+  "postalCode": "94971"
  },
  {
   "id": 7212050002,
   "districtId": 7212050,
-  "name": "KOROLOLAMA"
+  "districtName": "PETASIA",
+  "name": "KOROLOLAMA",
+  "postalCode": ""
  },
  {
   "id": 7212050003,
   "districtId": 7212050,
-  "name": "KOROLOLAKI"
+  "districtName": "PETASIA",
+  "name": "KOROLOLAKI",
+  "postalCode": ""
  },
  {
   "id": 7212050004,
   "districtId": 7212050,
-  "name": "KOYA"
+  "districtName": "PETASIA",
+  "name": "KOYA",
+  "postalCode": "95618"
  },
  {
   "id": 7212050005,
   "districtId": 7212050,
-  "name": "GILILANA"
+  "districtName": "PETASIA",
+  "name": "GILILANA",
+  "postalCode": "94971"
  },
  {
   "id": 7212050006,
   "districtId": 7212050,
-  "name": "TANAUGE"
+  "districtName": "PETASIA",
+  "name": "TANAUGE",
+  "postalCode": "94971"
  },
  {
   "id": 7212050007,
   "districtId": 7212050,
-  "name": "KOLONODALE"
+  "districtName": "PETASIA",
+  "name": "KOLONODALE",
+  "postalCode": "94971"
  },
  {
   "id": 7212050008,
   "districtId": 7212050,
-  "name": "BAHONTULA"
+  "districtName": "PETASIA",
+  "name": "BAHONTULA",
+  "postalCode": "94971"
  },
  {
   "id": 7212050009,
   "districtId": 7212050,
-  "name": "BAHOUE"
+  "districtName": "PETASIA",
+  "name": "BAHOUE",
+  "postalCode": "94971"
  },
  {
   "id": 7212050010,
   "districtId": 7212050,
-  "name": "GANDA GANDA"
+  "districtName": "PETASIA",
+  "name": "GANDA GANDA",
+  "postalCode": ""
  }
 ]

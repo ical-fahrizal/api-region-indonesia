@@ -2,61 +2,85 @@
  {
   "id": 1803090001,
   "districtId": 1803090,
-  "name": "TARAHAN"
+  "districtName": "KATIBUNG",
+  "name": "TARAHAN",
+  "postalCode": "35452"
  },
  {
   "id": 1803090002,
   "districtId": 1803090,
-  "name": "KARYA TUNGGAL"
+  "districtName": "KATIBUNG",
+  "name": "KARYA TUNGGAL",
+  "postalCode": "35452"
  },
  {
   "id": 1803090003,
   "districtId": 1803090,
-  "name": "BABATAN"
+  "districtName": "KATIBUNG",
+  "name": "BABATAN",
+  "postalCode": "31593"
  },
  {
   "id": 1803090004,
   "districtId": 1803090,
-  "name": "PARDASUKA"
+  "districtName": "KATIBUNG",
+  "name": "PARDASUKA",
+  "postalCode": "35452"
  },
  {
   "id": 1803090005,
   "districtId": 1803090,
-  "name": "SUKAJAYA"
+  "districtName": "KATIBUNG",
+  "name": "SUKAJAYA",
+  "postalCode": "30756"
  },
  {
   "id": 1803090006,
   "districtId": 1803090,
-  "name": "TANJUNGRATU"
+  "districtName": "KATIBUNG",
+  "name": "TANJUNGRATU",
+  "postalCode": "35452"
  },
  {
   "id": 1803090007,
   "districtId": 1803090,
-  "name": "TANJUNGAGUNG"
+  "districtName": "KATIBUNG",
+  "name": "TANJUNGAGUNG",
+  "postalCode": "35452"
  },
  {
   "id": 1803090008,
   "districtId": 1803090,
-  "name": "TANJUNGAN"
+  "districtName": "KATIBUNG",
+  "name": "TANJUNGAN",
+  "postalCode": "22395"
  },
  {
   "id": 1803090009,
   "districtId": 1803090,
-  "name": "TRANS TANJUNGAN"
+  "districtName": "KATIBUNG",
+  "name": "TRANS TANJUNGAN",
+  "postalCode": "35452"
  },
  {
   "id": 1803090024,
   "districtId": 1803090,
-  "name": "NEGLASARI"
+  "districtName": "KATIBUNG",
+  "name": "NEGLASARI",
+  "postalCode": "35452"
  },
  {
   "id": 1803090032,
   "districtId": 1803090,
-  "name": "RANGAI TRI TUNGGAL"
+  "districtName": "KATIBUNG",
+  "name": "RANGAI TRI TUNGGAL",
+  "postalCode": "35452"
  },
  {
   "id": 1803090033,
   "districtId": 1803090,
-  "name": "SIDO MEKAR"
+  "districtName": "KATIBUNG",
+  "name": "SIDO MEKAR",
+  "postalCode": "34595"
  }
 ]

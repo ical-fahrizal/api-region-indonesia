@@ -2,131 +2,183 @@
  {
   "id": 3306080001,
   "districtId": 3306080,
-  "name": "JONO"
+  "districtName": "BAYAN",
+  "name": "JONO",
+  "postalCode": "54224"
  },
  {
   "id": 3306080002,
   "districtId": 3306080,
-  "name": "POGUNG JURU TENGAH"
+  "districtName": "BAYAN",
+  "name": "POGUNG JURU TENGAH",
+  "postalCode": "54224"
  },
  {
   "id": 3306080003,
   "districtId": 3306080,
-  "name": "POGUNGREJO"
+  "districtName": "BAYAN",
+  "name": "POGUNGREJO",
+  "postalCode": "54224"
  },
  {
   "id": 3306080004,
   "districtId": 3306080,
-  "name": "BANJAREJO"
+  "districtName": "BAYAN",
+  "name": "BANJAREJO",
+  "postalCode": "35373"
  },
  {
   "id": 3306080005,
   "districtId": 3306080,
-  "name": "POGUNGKALANGAN"
+  "districtName": "BAYAN",
+  "name": "POGUNGKALANGAN",
+  "postalCode": "54224"
  },
  {
   "id": 3306080006,
   "districtId": 3306080,
-  "name": "KETIWIJAYAN"
+  "districtName": "BAYAN",
+  "name": "KETIWIJAYAN",
+  "postalCode": "54224"
  },
  {
   "id": 3306080007,
   "districtId": 3306080,
-  "name": "KRANDEGAN"
+  "districtName": "BAYAN",
+  "name": "KRANDEGAN",
+  "postalCode": "53414"
  },
  {
   "id": 3306080008,
   "districtId": 3306080,
-  "name": "TANJUNGREJO"
+  "districtName": "BAYAN",
+  "name": "TANJUNGREJO",
+  "postalCode": "54224"
  },
  {
   "id": 3306080009,
   "districtId": 3306080,
-  "name": "TANGKISAN"
+  "districtName": "BAYAN",
+  "name": "TANGKISAN",
+  "postalCode": "54224"
  },
  {
   "id": 3306080010,
   "districtId": 3306080,
-  "name": "JATINGARANG"
+  "districtName": "BAYAN",
+  "name": "JATINGARANG",
+  "postalCode": "54224"
  },
  {
   "id": 3306080011,
   "districtId": 3306080,
-  "name": "BANDUNG KIDUL"
+  "districtName": "BAYAN",
+  "name": "BANDUNG KIDUL",
+  "postalCode": "54224"
  },
  {
   "id": 3306080012,
   "districtId": 3306080,
-  "name": "BANDUNGREJO"
+  "districtName": "BAYAN",
+  "name": "BANDUNGREJO",
+  "postalCode": "54222"
  },
  {
   "id": 3306080013,
   "districtId": 3306080,
-  "name": "DEWI"
+  "districtName": "BAYAN",
+  "name": "DEWI",
+  "postalCode": "54224"
  },
  {
   "id": 3306080014,
   "districtId": 3306080,
-  "name": "BOTOREJO"
+  "districtName": "BAYAN",
+  "name": "BOTOREJO",
+  "postalCode": "54224"
  },
  {
   "id": 3306080015,
   "districtId": 3306080,
-  "name": "DUKUHREJO"
+  "districtName": "BAYAN",
+  "name": "DUKUHREJO",
+  "postalCode": "54224"
  },
  {
   "id": 3306080016,
   "districtId": 3306080,
-  "name": "BOTO DALEMAN"
+  "districtName": "BAYAN",
+  "name": "BOTO DALEMAN",
+  "postalCode": "54224"
  },
  {
   "id": 3306080017,
   "districtId": 3306080,
-  "name": "BESOLE"
+  "districtName": "BAYAN",
+  "name": "BESOLE",
+  "postalCode": "54223"
  },
  {
   "id": 3306080018,
   "districtId": 3306080,
-  "name": "BAYAN"
+  "districtName": "BAYAN",
+  "name": "BAYAN",
+  "postalCode": "54224"
  },
  {
   "id": 3306080019,
   "districtId": 3306080,
-  "name": "GRANTUNG"
+  "districtName": "BAYAN",
+  "name": "GRANTUNG",
+  "postalCode": "54224"
  },
  {
   "id": 3306080020,
   "districtId": 3306080,
-  "name": "KALIMIRU"
+  "districtName": "BAYAN",
+  "name": "KALIMIRU",
+  "postalCode": "54224"
  },
  {
   "id": 3306080021,
   "districtId": 3306080,
-  "name": "BRINGIN"
+  "districtName": "BAYAN",
+  "name": "BRINGIN",
+  "postalCode": "45167"
  },
  {
   "id": 3306080022,
   "districtId": 3306080,
-  "name": "PEKUTAN"
+  "districtName": "BAYAN",
+  "name": "PEKUTAN",
+  "postalCode": "54224"
  },
  {
   "id": 3306080023,
   "districtId": 3306080,
-  "name": "JRAKAH"
+  "districtName": "BAYAN",
+  "name": "JRAKAH",
+  "postalCode": "54224"
  },
  {
   "id": 3306080024,
   "districtId": 3306080,
-  "name": "SUCENJURU TENGAH"
+  "districtName": "BAYAN",
+  "name": "SUCENJURU TENGAH",
+  "postalCode": "54224"
  },
  {
   "id": 3306080025,
   "districtId": 3306080,
-  "name": "SAMBENG"
+  "districtName": "BAYAN",
+  "name": "SAMBENG",
+  "postalCode": "45151"
  },
  {
   "id": 3306080026,
   "districtId": 3306080,
-  "name": "PUCANG AGUNG"
+  "districtName": "BAYAN",
+  "name": "PUCANG AGUNG",
+  "postalCode": "54224"
  }
 ]

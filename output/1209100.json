@@ -2,86 +2,120 @@
  {
   "id": 1209100003,
   "districtId": 1209100,
-  "name": "RAYA BAYU"
+  "districtName": "RAYA",
+  "name": "RAYA BAYU",
+  "postalCode": "21162"
  },
  {
   "id": 1209100004,
   "districtId": 1209100,
-  "name": "DALIG RAYA"
+  "districtName": "RAYA",
+  "name": "DALIG RAYA",
+  "postalCode": "21162"
  },
  {
   "id": 1209100005,
   "districtId": 1209100,
-  "name": "PEMATANG RAYA"
+  "districtName": "RAYA",
+  "name": "PEMATANG RAYA",
+  "postalCode": "21162"
  },
  {
   "id": 1209100006,
   "districtId": 1209100,
-  "name": "MEREK RAYA"
+  "districtName": "RAYA",
+  "name": "MEREK RAYA",
+  "postalCode": "21162"
  },
  {
   "id": 1209100007,
   "districtId": 1209100,
-  "name": "BAHAPAL RAYA"
+  "districtName": "RAYA",
+  "name": "BAHAPAL RAYA",
+  "postalCode": "21162"
  },
  {
   "id": 1209100008,
   "districtId": 1209100,
-  "name": "SONDI RAYA"
+  "districtName": "RAYA",
+  "name": "SONDI RAYA",
+  "postalCode": "21162"
  },
  {
   "id": 1209100011,
   "districtId": 1209100,
-  "name": "SIPORKAS"
+  "districtName": "RAYA",
+  "name": "SIPORKAS",
+  "postalCode": "21162"
  },
  {
   "id": 1209100012,
   "districtId": 1209100,
-  "name": "SILOU HULUAN"
+  "districtName": "RAYA",
+  "name": "SILOU HULUAN",
+  "postalCode": ""
  },
  {
   "id": 1209100013,
   "districtId": 1209100,
-  "name": "SILOU BUTTU"
+  "districtName": "RAYA",
+  "name": "SILOU BUTTU",
+  "postalCode": ""
  },
  {
   "id": 1209100014,
   "districtId": 1209100,
-  "name": "BONGURON KARIAHAN"
+  "districtName": "RAYA",
+  "name": "BONGURON KARIAHAN",
+  "postalCode": ""
  },
  {
   "id": 1209100015,
   "districtId": 1209100,
-  "name": "SIHUBU RAYA"
+  "districtName": "RAYA",
+  "name": "SIHUBU RAYA",
+  "postalCode": ""
  },
  {
   "id": 1209100016,
   "districtId": 1209100,
-  "name": "RAYA BOSI"
+  "districtName": "RAYA",
+  "name": "RAYA BOSI",
+  "postalCode": ""
  },
  {
   "id": 1209100017,
   "districtId": 1209100,
-  "name": "SIMBOU BARU"
+  "districtName": "RAYA",
+  "name": "SIMBOU BARU",
+  "postalCode": ""
  },
  {
   "id": 1209100019,
   "districtId": 1209100,
-  "name": "LOKKUNG RAYA"
+  "districtName": "RAYA",
+  "name": "LOKKUNG RAYA",
+  "postalCode": ""
  },
  {
   "id": 1209100020,
   "districtId": 1209100,
-  "name": "BARINGIN RAYA"
+  "districtName": "RAYA",
+  "name": "BARINGIN RAYA",
+  "postalCode": ""
  },
  {
   "id": 1209100021,
   "districtId": 1209100,
-  "name": "LIMAG RAYA"
+  "districtName": "RAYA",
+  "name": "LIMAG RAYA",
+  "postalCode": ""
  },
  {
   "id": 1209100022,
   "districtId": 1209100,
-  "name": "DAME RAYA"
+  "districtName": "RAYA",
+  "name": "DAME RAYA",
+  "postalCode": ""
  }
 ]

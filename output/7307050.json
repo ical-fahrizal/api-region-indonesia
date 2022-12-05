@@ -2,66 +2,92 @@
  {
   "id": 7307050001,
   "districtId": 7307050,
-  "name": "BIRORO"
+  "districtName": "SINJAI TIMUR",
+  "name": "BIRORO",
+  "postalCode": "92671"
  },
  {
   "id": 7307050002,
   "districtId": 7307050,
-  "name": "LASIAI"
+  "districtName": "SINJAI TIMUR",
+  "name": "LASIAI",
+  "postalCode": "92671"
  },
  {
   "id": 7307050003,
   "districtId": 7307050,
-  "name": "SANJAI"
+  "districtName": "SINJAI TIMUR",
+  "name": "SANJAI",
+  "postalCode": "92671"
  },
  {
   "id": 7307050004,
   "districtId": 7307050,
-  "name": "PASIMARANNU"
+  "districtName": "SINJAI TIMUR",
+  "name": "PASIMARANNU",
+  "postalCode": "92671"
  },
  {
   "id": 7307050005,
   "districtId": 7307050,
-  "name": "PATTALASSANG"
+  "districtName": "SINJAI TIMUR",
+  "name": "PATTALASSANG",
+  "postalCode": "92171"
  },
  {
   "id": 7307050006,
   "districtId": 7307050,
-  "name": "PANAIKANG"
+  "districtName": "SINJAI TIMUR",
+  "name": "PANAIKANG",
+  "postalCode": "92311"
  },
  {
   "id": 7307050007,
   "districtId": 7307050,
-  "name": "SAMATARING"
+  "districtName": "SINJAI TIMUR",
+  "name": "SAMATARING",
+  "postalCode": "92371"
  },
  {
   "id": 7307050008,
   "districtId": 7307050,
-  "name": "KALOLING"
+  "districtName": "SINJAI TIMUR",
+  "name": "KALOLING",
+  "postalCode": "92461"
  },
  {
   "id": 7307050009,
   "districtId": 7307050,
-  "name": "SAUKANG"
+  "districtName": "SINJAI TIMUR",
+  "name": "SAUKANG",
+  "postalCode": "92671"
  },
  {
   "id": 7307050010,
   "districtId": 7307050,
-  "name": "KAMPALA"
+  "districtName": "SINJAI TIMUR",
+  "name": "KAMPALA",
+  "postalCode": "92361"
  },
  {
   "id": 7307050011,
   "districtId": 7307050,
-  "name": "TONGKE-TONGKE"
+  "districtName": "SINJAI TIMUR",
+  "name": "TONGKE-TONGKE",
+  "postalCode": "92671"
  },
  {
   "id": 7307050012,
   "districtId": 7307050,
-  "name": "SALOHE"
+  "districtName": "SINJAI TIMUR",
+  "name": "SALOHE",
+  "postalCode": "92671"
  },
  {
   "id": 7307050013,
   "districtId": 7307050,
-  "name": "BONGKI LENGKESE"
+  "districtName": "SINJAI TIMUR",
+  "name": "BONGKI LENGKESE",
+  "postalCode": "92671"
  }
 ]

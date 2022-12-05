@@ -2,51 +2,71 @@
  {
   "id": 7111011001,
   "districtId": 7111011,
-  "name": "JIKO"
+  "districtName": "MOTONGKAD",
+  "name": "JIKO",
+  "postalCode": "95775"
  },
  {
   "id": 7111011002,
   "districtId": 7111011,
-  "name": "JIKO UTARA"
+  "districtName": "MOTONGKAD",
+  "name": "JIKO UTARA",
+  "postalCode": "95775"
  },
  {
   "id": 7111011003,
   "districtId": 7111011,
-  "name": "MOLOBOG BARAT"
+  "districtName": "MOTONGKAD",
+  "name": "MOLOBOG BARAT",
+  "postalCode": "95775"
  },
  {
   "id": 7111011004,
   "districtId": 7111011,
-  "name": "MOLOBOG"
+  "districtName": "MOTONGKAD",
+  "name": "MOLOBOG",
+  "postalCode": "95775"
  },
  {
   "id": 7111011005,
   "districtId": 7111011,
-  "name": "ATOGA"
+  "districtName": "MOTONGKAD",
+  "name": "ATOGA",
+  "postalCode": "95775"
  },
  {
   "id": 7111011006,
   "districtId": 7111011,
-  "name": "ATOGA TIMUR"
+  "districtName": "MOTONGKAD",
+  "name": "ATOGA TIMUR",
+  "postalCode": "95775"
  },
  {
   "id": 7111011007,
   "districtId": 7111011,
-  "name": "MOTONGKAD SELATAN"
+  "districtName": "MOTONGKAD",
+  "name": "MOTONGKAD SELATAN",
+  "postalCode": "95775"
  },
  {
   "id": 7111011008,
   "districtId": 7111011,
-  "name": "MOTONGKAD"
+  "districtName": "MOTONGKAD",
+  "name": "MOTONGKAD",
+  "postalCode": "95775"
  },
  {
   "id": 7111011009,
   "districtId": 7111011,
-  "name": "MOTONGKAD TENGAH"
+  "districtName": "MOTONGKAD",
+  "name": "MOTONGKAD TENGAH",
+  "postalCode": "95775"
  },
  {
   "id": 7111011010,
   "districtId": 7111011,
-  "name": "MOTONGKAD UTARA"
+  "districtName": "MOTONGKAD",
+  "name": "MOTONGKAD UTARA",
+  "postalCode": "95775"
  }
 ]

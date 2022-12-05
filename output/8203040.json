@@ -2,36 +2,50 @@
  {
   "id": 8203040001,
   "districtId": 8203040,
-  "name": "PAS IPA"
+  "districtName": "MANGOLI BARAT",
+  "name": "PAS IPA",
+  "postalCode": "97792"
  },
  {
   "id": 8203040002,
   "districtId": 8203040,
-  "name": "DOFA"
+  "districtName": "MANGOLI BARAT",
+  "name": "DOFA",
+  "postalCode": "97792"
  },
  {
   "id": 8203040003,
   "districtId": 8203040,
-  "name": "LEKO KADAI"
+  "districtName": "MANGOLI BARAT",
+  "name": "LEKO KADAI",
+  "postalCode": ""
  },
  {
   "id": 8203040004,
   "districtId": 8203040,
-  "name": "LEKOSULA"
+  "districtName": "MANGOLI BARAT",
+  "name": "LEKOSULA",
+  "postalCode": "97792"
  },
  {
   "id": 8203040015,
   "districtId": 8203040,
-  "name": "PELITA"
+  "districtName": "MANGOLI BARAT",
+  "name": "PELITA",
+  "postalCode": "20621"
  },
  {
   "id": 8203040016,
   "districtId": 8203040,
-  "name": "JOHOR"
+  "districtName": "MANGOLI BARAT",
+  "name": "JOHOR",
+  "postalCode": ""
  },
  {
   "id": 8203040017,
   "districtId": 8203040,
-  "name": "LELYABA"
+  "districtName": "MANGOLI BARAT",
+  "name": "LELYABA",
+  "postalCode": "97792"
  }
 ]

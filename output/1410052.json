@@ -2,51 +2,71 @@
  {
   "id": 1410052001,
   "districtId": 1410052,
-  "name": "MENGKIRAU"
+  "districtName": "TASIK PUTRI PUYU",
+  "name": "MENGKIRAU",
+  "postalCode": "28752"
  },
  {
   "id": 1410052002,
   "districtId": 1410052,
-  "name": "MENGKOPOT"
+  "districtName": "TASIK PUTRI PUYU",
+  "name": "MENGKOPOT",
+  "postalCode": "28752"
  },
  {
   "id": 1410052003,
   "districtId": 1410052,
-  "name": "TANJUNG PISANG"
+  "districtName": "TASIK PUTRI PUYU",
+  "name": "TANJUNG PISANG",
+  "postalCode": "28752"
  },
  {
   "id": 1410052004,
   "districtId": 1410052,
-  "name": "SELAT AKAR"
+  "districtName": "TASIK PUTRI PUYU",
+  "name": "SELAT AKAR",
+  "postalCode": "28752"
  },
  {
   "id": 1410052005,
   "districtId": 1410052,
-  "name": "BANDUL"
+  "districtName": "TASIK PUTRI PUYU",
+  "name": "BANDUL",
+  "postalCode": "28752"
  },
  {
   "id": 1410052006,
   "districtId": 1410052,
-  "name": "KUDAP"
+  "districtName": "TASIK PUTRI PUYU",
+  "name": "KUDAP",
+  "postalCode": "28752"
  },
  {
   "id": 1410052007,
   "districtId": 1410052,
-  "name": "DEDAP"
+  "districtName": "TASIK PUTRI PUYU",
+  "name": "DEDAP",
+  "postalCode": "28752"
  },
  {
   "id": 1410052008,
   "districtId": 1410052,
-  "name": "MEKAR DELIMA"
+  "districtName": "TASIK PUTRI PUYU",
+  "name": "MEKAR DELIMA",
+  "postalCode": "28752"
  },
  {
   "id": 1410052009,
   "districtId": 1410052,
-  "name": "PUTRI PUYU"
+  "districtName": "TASIK PUTRI PUYU",
+  "name": "PUTRI PUYU",
+  "postalCode": "28752"
  },
  {
   "id": 1410052010,
   "districtId": 1410052,
-  "name": "TANJUNG PADANG"
+  "districtName": "TASIK PUTRI PUYU",
+  "name": "TANJUNG PADANG",
+  "postalCode": "28752"
  }
 ]

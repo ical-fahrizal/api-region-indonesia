@@ -2,21 +2,29 @@
  {
   "id": 5303182001,
   "districtId": 5303182,
-  "name": "FATUMONAS"
+  "districtName": "AMFOANG TENGAH",
+  "name": "FATUMONAS",
+  "postalCode": "85364"
  },
  {
   "id": 5303182002,
   "districtId": 5303182,
-  "name": "BINAFUN"
+  "districtName": "AMFOANG TENGAH",
+  "name": "BINAFUN",
+  "postalCode": "85364"
  },
  {
   "id": 5303182003,
   "districtId": 5303182,
-  "name": "BONMUTI"
+  "districtName": "AMFOANG TENGAH",
+  "name": "BONMUTI",
+  "postalCode": "85364"
  },
  {
   "id": 5303182004,
   "districtId": 5303182,
-  "name": "BITOBE"
+  "districtName": "AMFOANG TENGAH",
+  "name": "BITOBE",
+  "postalCode": "85364"
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 7402022001,
   "districtId": 7402022,
-  "name": "PASIKUTA"
+  "districtName": "MAROBO",
+  "name": "PASIKUTA",
+  "postalCode": "93663"
  },
  {
   "id": 7402022002,
   "districtId": 7402022,
-  "name": "TAPI-TAPI"
+  "districtName": "MAROBO",
+  "name": "TAPI-TAPI",
+  "postalCode": ""
  },
  {
   "id": 7402022003,
   "districtId": 7402022,
-  "name": "MAROBO"
+  "districtName": "MAROBO",
+  "name": "MAROBO",
+  "postalCode": "92955"
  },
  {
   "id": 7402022004,
   "districtId": 7402022,
-  "name": "WADOLAO"
+  "districtName": "MAROBO",
+  "name": "WADOLAO",
+  "postalCode": ""
  },
  {
   "id": 7402022005,
   "districtId": 7402022,
-  "name": "POAROHA"
+  "districtName": "MAROBO",
+  "name": "POAROHA",
+  "postalCode": "93663"
  },
  {
   "id": 7402022006,
   "districtId": 7402022,
-  "name": "TOROH BUNGING"
+  "districtName": "MAROBO",
+  "name": "TOROH BUNGING",
+  "postalCode": ""
  },
  {
   "id": 7402022007,
   "districtId": 7402022,
-  "name": "KASASINO SARA"
+  "districtName": "MAROBO",
+  "name": "KASASINO SARA",
+  "postalCode": ""
  }
 ]

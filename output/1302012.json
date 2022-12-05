@@ -2,51 +2,71 @@
  {
   "id": 1302012001,
   "districtId": 1302012,
-  "name": "LUNANG"
+  "districtName": "LUNANG",
+  "name": "LUNANG",
+  "postalCode": "25674"
  },
  {
   "id": 1302012002,
   "districtId": 1302012,
-  "name": "LUNANG SELATAN"
+  "districtName": "LUNANG",
+  "name": "LUNANG SELATAN",
+  "postalCode": "25674"
  },
  {
   "id": 1302012003,
   "districtId": 1302012,
-  "name": "LUNANG UTARA"
+  "districtName": "LUNANG",
+  "name": "LUNANG UTARA",
+  "postalCode": "25674"
  },
  {
   "id": 1302012004,
   "districtId": 1302012,
-  "name": "LUNANG BARAT"
+  "districtName": "LUNANG",
+  "name": "LUNANG BARAT",
+  "postalCode": "25674"
  },
  {
   "id": 1302012005,
   "districtId": 1302012,
-  "name": "SINDANG LUNANG"
+  "districtName": "LUNANG",
+  "name": "SINDANG LUNANG",
+  "postalCode": "25674"
  },
  {
   "id": 1302012006,
   "districtId": 1302012,
-  "name": "LUNANG SATU"
+  "districtName": "LUNANG",
+  "name": "LUNANG SATU",
+  "postalCode": "25674"
  },
  {
   "id": 1302012007,
   "districtId": 1302012,
-  "name": "LUNANG TENGAH"
+  "districtName": "LUNANG",
+  "name": "LUNANG TENGAH",
+  "postalCode": "25674"
  },
  {
   "id": 1302012008,
   "districtId": 1302012,
-  "name": "PONDOK PARIAN LUNANG"
+  "districtName": "LUNANG",
+  "name": "PONDOK PARIAN LUNANG",
+  "postalCode": "25674"
  },
  {
   "id": 1302012009,
   "districtId": 1302012,
-  "name": "LUNANG DUA"
+  "districtName": "LUNANG",
+  "name": "LUNANG DUA",
+  "postalCode": "25674"
  },
  {
   "id": 1302012010,
   "districtId": 1302012,
-  "name": "LUNANG TIGA"
+  "districtName": "LUNANG",
+  "name": "LUNANG TIGA",
+  "postalCode": "25674"
  }
 ]

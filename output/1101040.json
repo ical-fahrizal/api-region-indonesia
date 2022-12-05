@@ -2,81 +2,113 @@
  {
   "id": 1101040001,
   "districtId": 1101040,
-  "name": "UJUNG SALANG"
+  "districtName": "SALANG",
+  "name": "UJUNG SALANG",
+  "postalCode": "23893"
  },
  {
   "id": 1101040002,
   "districtId": 1101040,
-  "name": "PADANG UNOI"
+  "districtName": "SALANG",
+  "name": "PADANG UNOI",
+  "postalCode": "23893"
  },
  {
   "id": 1101040003,
   "districtId": 1101040,
-  "name": "MEUNAFA"
+  "districtName": "SALANG",
+  "name": "MEUNAFA",
+  "postalCode": ""
  },
  {
   "id": 1101040004,
   "districtId": 1101040,
-  "name": "NASREUHE"
+  "districtName": "SALANG",
+  "name": "NASREUHE",
+  "postalCode": "23893"
  },
  {
   "id": 1101040005,
   "districtId": 1101040,
-  "name": "ALONG"
+  "districtName": "SALANG",
+  "name": "ALONG",
+  "postalCode": ""
  },
  {
   "id": 1101040006,
   "districtId": 1101040,
-  "name": "PANTON LAWE"
+  "districtName": "SALANG",
+  "name": "PANTON LAWE",
+  "postalCode": "23893"
  },
  {
   "id": 1101040007,
   "districtId": 1101040,
-  "name": "MUTIARA"
+  "districtName": "SALANG",
+  "name": "MUTIARA",
+  "postalCode": "24582"
  },
  {
   "id": 1101040008,
   "districtId": 1101040,
-  "name": "KARYA BAKTI"
+  "districtName": "SALANG",
+  "name": "KARYA BAKTI",
+  "postalCode": "23893"
  },
  {
   "id": 1101040009,
   "districtId": 1101040,
-  "name": "TAMON JAYA"
+  "districtName": "SALANG",
+  "name": "TAMON JAYA",
+  "postalCode": ""
  },
  {
   "id": 1101040010,
   "districtId": 1101040,
-  "name": "JAYA BARU"
+  "districtName": "SALANG",
+  "name": "JAYA BARU",
+  "postalCode": "23893"
  },
  {
   "id": 1101040011,
   "districtId": 1101040,
-  "name": "TAMENG"
+  "districtName": "SALANG",
+  "name": "TAMENG",
+  "postalCode": "23893"
  },
  {
   "id": 1101040012,
   "districtId": 1101040,
-  "name": "LALLA BAHAGIA"
+  "districtName": "SALANG",
+  "name": "LALLA BAHAGIA",
+  "postalCode": "23893"
  },
  {
   "id": 1101040013,
   "districtId": 1101040,
-  "name": "SUAK MANANG"
+  "districtName": "SALANG",
+  "name": "SUAK MANANG",
+  "postalCode": "23893"
  },
  {
   "id": 1101040014,
   "districtId": 1101040,
-  "name": "BUNGA"
+  "districtName": "SALANG",
+  "name": "BUNGA",
+  "postalCode": "23893"
  },
  {
   "id": 1101040015,
   "districtId": 1101040,
-  "name": "GANANG PUSAKO"
+  "districtName": "SALANG",
+  "name": "GANANG PUSAKO",
+  "postalCode": "23893"
  },
  {
   "id": 1101040016,
   "districtId": 1101040,
-  "name": "KENANGAN JAYA"
+  "districtName": "SALANG",
+  "name": "KENANGAN JAYA",
+  "postalCode": "23893"
  }
 ]

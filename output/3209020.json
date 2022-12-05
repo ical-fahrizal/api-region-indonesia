@@ -2,51 +2,71 @@
  {
   "id": 3209020008,
   "districtId": 3209020,
-  "name": "LEUWEUNGGAJAH"
+  "districtName": "CILEDUG",
+  "name": "LEUWEUNGGAJAH",
+  "postalCode": "45188"
  },
  {
   "id": 3209020009,
   "districtId": 3209020,
-  "name": "TENJOMAYA"
+  "districtName": "CILEDUG",
+  "name": "TENJOMAYA",
+  "postalCode": "45188"
  },
  {
   "id": 3209020010,
   "districtId": 3209020,
-  "name": "DAMARGUNA"
+  "districtName": "CILEDUG",
+  "name": "DAMARGUNA",
+  "postalCode": "45188"
  },
  {
   "id": 3209020011,
   "districtId": 3209020,
-  "name": "JATISEENG"
+  "districtName": "CILEDUG",
+  "name": "JATISEENG",
+  "postalCode": "45188"
  },
  {
   "id": 3209020012,
   "districtId": 3209020,
-  "name": "JATISEENG KIDUL"
+  "districtName": "CILEDUG",
+  "name": "JATISEENG KIDUL",
+  "postalCode": "45188"
  },
  {
   "id": 3209020013,
   "districtId": 3209020,
-  "name": "CILEDUG KULON"
+  "districtName": "CILEDUG",
+  "name": "CILEDUG KULON",
+  "postalCode": "45188"
  },
  {
   "id": 3209020014,
   "districtId": 3209020,
-  "name": "CILEDUG WETAN"
+  "districtName": "CILEDUG",
+  "name": "CILEDUG WETAN",
+  "postalCode": "45188"
  },
  {
   "id": 3209020015,
   "districtId": 3209020,
-  "name": "CILEDUG LOR"
+  "districtName": "CILEDUG",
+  "name": "CILEDUG LOR",
+  "postalCode": "45188"
  },
  {
   "id": 3209020016,
   "districtId": 3209020,
-  "name": "CILEDUG TENGAH"
+  "districtName": "CILEDUG",
+  "name": "CILEDUG TENGAH",
+  "postalCode": "45188"
  },
  {
   "id": 3209020017,
   "districtId": 3209020,
-  "name": "BOJONGNEGARA"
+  "districtName": "CILEDUG",
+  "name": "BOJONGNEGARA",
+  "postalCode": "45188"
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 7204021001,
   "districtId": 7204021,
-  "name": "TUARE"
+  "districtName": "LORE BARAT",
+  "name": "TUARE",
+  "postalCode": "94654"
  },
  {
   "id": 7204021002,
   "districtId": 7204021,
-  "name": "TOMEHIPI"
+  "districtName": "LORE BARAT",
+  "name": "TOMEHIPI",
+  "postalCode": "94654"
  },
  {
   "id": 7204021003,
   "districtId": 7204021,
-  "name": "KAGEROA"
+  "districtName": "LORE BARAT",
+  "name": "KAGEROA",
+  "postalCode": "94654"
  },
  {
   "id": 7204021004,
   "districtId": 7204021,
-  "name": "LENGKEKA"
+  "districtName": "LORE BARAT",
+  "name": "LENGKEKA",
+  "postalCode": "94654"
  },
  {
   "id": 7204021005,
   "districtId": 7204021,
-  "name": "KOLORI"
+  "districtName": "LORE BARAT",
+  "name": "KOLORI",
+  "postalCode": "94654"
  },
  {
   "id": 7204021006,
   "districtId": 7204021,
-  "name": "LELIO"
+  "districtName": "LORE BARAT",
+  "name": "LELIO",
+  "postalCode": "94654"
  }
 ]

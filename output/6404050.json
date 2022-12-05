@@ -2,71 +2,99 @@
  {
   "id": 6404050001,
   "districtId": 6404050,
-  "name": "KERAYAAN"
+  "districtName": "SANGKULIRANG",
+  "name": "KERAYAAN",
+  "postalCode": "75684"
  },
  {
   "id": 6404050002,
   "districtId": 6404050,
-  "name": "BENUA BARU ILIR"
+  "districtName": "SANGKULIRANG",
+  "name": "BENUA BARU ILIR",
+  "postalCode": "75684"
  },
  {
   "id": 6404050003,
   "districtId": 6404050,
-  "name": "SEMPAYAU"
+  "districtName": "SANGKULIRANG",
+  "name": "SEMPAYAU",
+  "postalCode": ""
  },
  {
   "id": 6404050004,
   "districtId": 6404050,
-  "name": "TEPIAN TERAP"
+  "districtName": "SANGKULIRANG",
+  "name": "TEPIAN TERAP",
+  "postalCode": "75684"
  },
  {
   "id": 6404050005,
   "districtId": 6404050,
-  "name": "PELAWAN"
+  "districtName": "SANGKULIRANG",
+  "name": "PELAWAN",
+  "postalCode": "37482"
  },
  {
   "id": 6404050006,
   "districtId": 6404050,
-  "name": "MANDU DALAM"
+  "districtName": "SANGKULIRANG",
+  "name": "MANDU DALAM",
+  "postalCode": "75684"
  },
  {
   "id": 6404050007,
   "districtId": 6404050,
-  "name": "SAKA"
+  "districtName": "SANGKULIRANG",
+  "name": "SAKA",
+  "postalCode": "75684"
  },
  {
   "id": 6404050008,
   "districtId": 6404050,
-  "name": "PERIDAN"
+  "districtName": "SANGKULIRANG",
+  "name": "PERIDAN",
+  "postalCode": "75684"
  },
  {
   "id": 6404050009,
   "districtId": 6404050,
-  "name": "TANJUNG MANIS"
+  "districtName": "SANGKULIRANG",
+  "name": "TANJUNG MANIS",
+  "postalCode": "75684"
  },
  {
   "id": 6404050010,
   "districtId": 6404050,
-  "name": "MALOY"
+  "districtName": "SANGKULIRANG",
+  "name": "MALOY",
+  "postalCode": "75684"
  },
  {
   "id": 6404050011,
   "districtId": 6404050,
-  "name": "BENUA BARU ULU"
+  "districtName": "SANGKULIRANG",
+  "name": "BENUA BARU ULU",
+  "postalCode": "75684"
  },
  {
   "id": 6404050012,
   "districtId": 6404050,
-  "name": "KOLEK"
+  "districtName": "SANGKULIRANG",
+  "name": "KOLEK",
+  "postalCode": "75684"
  },
  {
   "id": 6404050013,
   "districtId": 6404050,
-  "name": "PULAU MIANG"
+  "districtName": "SANGKULIRANG",
+  "name": "PULAU MIANG",
+  "postalCode": "75684"
  },
  {
   "id": 6404050015,
   "districtId": 6404050,
-  "name": "MANDU PANTAI SEJAHTERA"
+  "districtName": "SANGKULIRANG",
+  "name": "MANDU PANTAI SEJAHTERA",
+  "postalCode": ""
  }
 ]

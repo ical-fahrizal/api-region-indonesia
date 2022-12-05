@@ -2,51 +2,71 @@
  {
   "id": 3403070001,
   "districtId": 3403070,
-  "name": "GOMBANG"
+  "districtName": "PONJONG",
+  "name": "GOMBANG",
+  "postalCode": "45155"
  },
  {
   "id": 3403070002,
   "districtId": 3403070,
-  "name": "SIDOREJO"
+  "districtName": "PONJONG",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 3403070003,
   "districtId": 3403070,
-  "name": "BEDOYO"
+  "districtName": "PONJONG",
+  "name": "BEDOYO",
+  "postalCode": "55892"
  },
  {
   "id": 3403070004,
   "districtId": 3403070,
-  "name": "KARANG ASEM"
+  "districtName": "PONJONG",
+  "name": "KARANG ASEM",
+  "postalCode": "30959"
  },
  {
   "id": 3403070005,
   "districtId": 3403070,
-  "name": "PONJONG"
+  "districtName": "PONJONG",
+  "name": "PONJONG",
+  "postalCode": "55892"
  },
  {
   "id": 3403070006,
   "districtId": 3403070,
-  "name": "GENJAHAN"
+  "districtName": "PONJONG",
+  "name": "GENJAHAN",
+  "postalCode": "58372"
  },
  {
   "id": 3403070007,
   "districtId": 3403070,
-  "name": "SUMBER GIRI"
+  "districtName": "PONJONG",
+  "name": "SUMBER GIRI",
+  "postalCode": "55892"
  },
  {
   "id": 3403070009,
   "districtId": 3403070,
-  "name": "TAMBAKROMO"
+  "districtName": "PONJONG",
+  "name": "TAMBAKROMO",
+  "postalCode": "58315"
  },
  {
   "id": 3403070010,
   "districtId": 3403070,
-  "name": "SAWAHAN"
+  "districtName": "PONJONG",
+  "name": "SAWAHAN",
+  "postalCode": "25121"
  },
  {
   "id": 3403070011,
   "districtId": 3403070,
-  "name": "UMBUL REJO"
+  "districtName": "PONJONG",
+  "name": "UMBUL REJO",
+  "postalCode": "55892"
  }
 ]

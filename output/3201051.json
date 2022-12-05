@@ -2,36 +2,50 @@
  {
   "id": 3201051001,
   "districtId": 3201051,
-  "name": "TAPOS 1"
+  "districtName": "TENJOLAYA",
+  "name": "TAPOS 1",
+  "postalCode": "16370"
  },
  {
   "id": 3201051002,
   "districtId": 3201051,
-  "name": "GUNUNG MALANG"
+  "districtName": "TENJOLAYA",
+  "name": "GUNUNG MALANG",
+  "postalCode": "43367"
  },
  {
   "id": 3201051003,
   "districtId": 3201051,
-  "name": "TAPOS 2"
+  "districtName": "TENJOLAYA",
+  "name": "TAPOS 2",
+  "postalCode": "16370"
  },
  {
   "id": 3201051004,
   "districtId": 3201051,
-  "name": "SITU DAUN"
+  "districtName": "TENJOLAYA",
+  "name": "SITU DAUN",
+  "postalCode": "16370"
  },
  {
   "id": 3201051005,
   "districtId": 3201051,
-  "name": "CIBITUNG TENGAH"
+  "districtName": "TENJOLAYA",
+  "name": "CIBITUNG TENGAH",
+  "postalCode": "16370"
  },
  {
   "id": 3201051006,
   "districtId": 3201051,
-  "name": "CINANGNENG"
+  "districtName": "TENJOLAYA",
+  "name": "CINANGNENG",
+  "postalCode": "16370"
  },
  {
   "id": 3201051007,
   "districtId": 3201051,
-  "name": "GUNUNG MULYA"
+  "districtName": "TENJOLAYA",
+  "name": "GUNUNG MULYA",
+  "postalCode": "28471"
  }
 ]

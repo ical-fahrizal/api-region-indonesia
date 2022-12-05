@@ -2,101 +2,141 @@
  {
   "id": 1112030002,
   "districtId": 1112030,
-  "name": "COT JEURAT"
+  "districtName": "BLANG PIDIE",
+  "name": "COT JEURAT",
+  "postalCode": "23764"
  },
  {
   "id": 1112030003,
   "districtId": 1112030,
-  "name": "KUTA BAHAGIA"
+  "districtName": "BLANG PIDIE",
+  "name": "KUTA BAHAGIA",
+  "postalCode": "23764"
  },
  {
   "id": 1112030004,
   "districtId": 1112030,
-  "name": "KEDAI SIBLAH"
+  "districtName": "BLANG PIDIE",
+  "name": "KEDAI SIBLAH",
+  "postalCode": ""
  },
  {
   "id": 1112030005,
   "districtId": 1112030,
-  "name": "PASAR BLANG PIDIE"
+  "districtName": "BLANG PIDIE",
+  "name": "PASAR BLANG PIDIE",
+  "postalCode": "23764"
  },
  {
   "id": 1112030006,
   "districtId": 1112030,
-  "name": "MEUDANG ARA"
+  "districtName": "BLANG PIDIE",
+  "name": "MEUDANG ARA",
+  "postalCode": "24392"
  },
  {
   "id": 1112030007,
   "districtId": 1112030,
-  "name": "GEULUMPANG PAYONG"
+  "districtName": "BLANG PIDIE",
+  "name": "GEULUMPANG PAYONG",
+  "postalCode": "23764"
  },
  {
   "id": 1112030008,
   "districtId": 1112030,
-  "name": "KUTA TINGGI"
+  "districtName": "BLANG PIDIE",
+  "name": "KUTA TINGGI",
+  "postalCode": "23764"
  },
  {
   "id": 1112030009,
   "districtId": 1112030,
-  "name": "KEDAI PAYA"
+  "districtName": "BLANG PIDIE",
+  "name": "KEDAI PAYA",
+  "postalCode": ""
  },
  {
   "id": 1112030010,
   "districtId": 1112030,
-  "name": "BAHARU"
+  "districtName": "BLANG PIDIE",
+  "name": "BAHARU",
+  "postalCode": "23764"
  },
  {
   "id": 1112030011,
   "districtId": 1112030,
-  "name": "LAMKUTA"
+  "districtName": "BLANG PIDIE",
+  "name": "LAMKUTA",
+  "postalCode": "23764"
  },
  {
   "id": 1112030012,
   "districtId": 1112030,
-  "name": "ALUM ANGGOTA"
+  "districtName": "BLANG PIDIE",
+  "name": "ALUM ANGGOTA",
+  "postalCode": ""
  },
  {
   "id": 1112030013,
   "districtId": 1112030,
-  "name": "MATA IE"
+  "districtName": "BLANG PIDIE",
+  "name": "MATA IE",
+  "postalCode": "23764"
  },
  {
   "id": 1112030014,
   "districtId": 1112030,
-  "name": "PANTON RAYA"
+  "districtName": "BLANG PIDIE",
+  "name": "PANTON RAYA",
+  "postalCode": "23764"
  },
  {
   "id": 1112030015,
   "districtId": 1112030,
-  "name": "SEUNALOH"
+  "districtName": "BLANG PIDIE",
+  "name": "SEUNALOH",
+  "postalCode": "23764"
  },
  {
   "id": 1112030016,
   "districtId": 1112030,
-  "name": "LHUNG TAROK"
+  "districtName": "BLANG PIDIE",
+  "name": "LHUNG TAROK",
+  "postalCode": "23764"
  },
  {
   "id": 1112030018,
   "districtId": 1112030,
-  "name": "LHUNG ASAN"
+  "districtName": "BLANG PIDIE",
+  "name": "LHUNG ASAN",
+  "postalCode": "23764"
  },
  {
   "id": 1112030019,
   "districtId": 1112030,
-  "name": "GUHANG"
+  "districtName": "BLANG PIDIE",
+  "name": "GUHANG",
+  "postalCode": "23764"
  },
  {
   "id": 1112030027,
   "districtId": 1112030,
-  "name": "KUTA TUHA"
+  "districtName": "BLANG PIDIE",
+  "name": "KUTA TUHA",
+  "postalCode": "23764"
  },
  {
   "id": 1112030029,
   "districtId": 1112030,
-  "name": "GUDANG"
+  "districtName": "BLANG PIDIE",
+  "name": "GUDANG",
+  "postalCode": "23764"
  },
  {
   "id": 1112030030,
   "districtId": 1112030,
-  "name": "BABAH LHUNG"
+  "districtName": "BLANG PIDIE",
+  "name": "BABAH LHUNG",
+  "postalCode": ""
  }
 ]

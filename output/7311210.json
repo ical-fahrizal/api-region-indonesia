@@ -2,66 +2,92 @@
  {
   "id": 7311210001,
   "districtId": 7311210,
-  "name": "MANCIRI"
+  "districtName": "AJANGALE",
+  "name": "MANCIRI",
+  "postalCode": "92755"
  },
  {
   "id": 7311210002,
   "districtId": 7311210,
-  "name": "LEBBAE"
+  "districtName": "AJANGALE",
+  "name": "LEBBAE",
+  "postalCode": "92755"
  },
  {
   "id": 7311210003,
   "districtId": 7311210,
-  "name": "AMESSANGENG"
+  "districtName": "AJANGALE",
+  "name": "AMESSANGENG",
+  "postalCode": "92755"
  },
  {
   "id": 7311210004,
   "districtId": 7311210,
-  "name": "LEPPANGENG"
+  "districtName": "AJANGALE",
+  "name": "LEPPANGENG",
+  "postalCode": "92755"
  },
  {
   "id": 7311210005,
   "districtId": 7311210,
-  "name": "ALLAMUNGENG PATUE"
+  "districtName": "AJANGALE",
+  "name": "ALLAMUNGENG PATUE",
+  "postalCode": "92755"
  },
  {
   "id": 7311210006,
   "districtId": 7311210,
-  "name": "TIMURUNG"
+  "districtName": "AJANGALE",
+  "name": "TIMURUNG",
+  "postalCode": "92755"
  },
  {
   "id": 7311210007,
   "districtId": 7311210,
-  "name": "LABISSA"
+  "districtName": "AJANGALE",
+  "name": "LABISSA",
+  "postalCode": "92755"
  },
  {
   "id": 7311210008,
   "districtId": 7311210,
-  "name": "OPO"
+  "districtName": "AJANGALE",
+  "name": "OPO",
+  "postalCode": "94972"
  },
  {
   "id": 7311210009,
   "districtId": 7311210,
-  "name": "PINCENG PUTE"
+  "districtName": "AJANGALE",
+  "name": "PINCENG PUTE",
+  "postalCode": "92755"
  },
  {
   "id": 7311210010,
   "districtId": 7311210,
-  "name": "WELADO"
+  "districtName": "AJANGALE",
+  "name": "WELADO",
+  "postalCode": "92755"
  },
  {
   "id": 7311210011,
   "districtId": 7311210,
-  "name": "POMPANUA"
+  "districtName": "AJANGALE",
+  "name": "POMPANUA",
+  "postalCode": "92755"
  },
  {
   "id": 7311210012,
   "districtId": 7311210,
-  "name": "POMPANUA RIATTANG"
+  "districtName": "AJANGALE",
+  "name": "POMPANUA RIATTANG",
+  "postalCode": ""
  },
  {
   "id": 7311210014,
   "districtId": 7311210,
-  "name": "PACCIRO"
+  "districtName": "AJANGALE",
+  "name": "PACCIRO",
+  "postalCode": "92755"
  }
 ]

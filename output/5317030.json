@@ -2,106 +2,148 @@
  {
   "id": 5317030001,
   "districtId": 5317030,
-  "name": "HOHA WUNGO"
+  "districtName": "KODI UTARA",
+  "name": "HOHA WUNGO",
+  "postalCode": "87261"
  },
  {
   "id": 5317030002,
   "districtId": 5317030,
-  "name": "HOMBA KARIPIT"
+  "districtName": "KODI UTARA",
+  "name": "HOMBA KARIPIT",
+  "postalCode": "87261"
  },
  {
   "id": 5317030003,
   "districtId": 5317030,
-  "name": "WAILA BUBUR"
+  "districtName": "KODI UTARA",
+  "name": "WAILA BUBUR",
+  "postalCode": ""
  },
  {
   "id": 5317030004,
   "districtId": 5317030,
-  "name": "NOHA"
+  "districtName": "KODI UTARA",
+  "name": "NOHA",
+  "postalCode": "87261"
  },
  {
   "id": 5317030005,
   "districtId": 5317030,
-  "name": "WAI HOLO"
+  "districtName": "KODI UTARA",
+  "name": "WAI HOLO",
+  "postalCode": ""
  },
  {
   "id": 5317030006,
   "districtId": 5317030,
-  "name": "KORI"
+  "districtName": "KODI UTARA",
+  "name": "KORI",
+  "postalCode": "63475"
  },
  {
   "id": 5317030007,
   "districtId": 5317030,
-  "name": "KALENA RONGO"
+  "districtName": "KODI UTARA",
+  "name": "KALENA RONGO",
+  "postalCode": "87261"
  },
  {
   "id": 5317030008,
   "districtId": 5317030,
-  "name": "MANGGA NIPI"
+  "districtName": "KODI UTARA",
+  "name": "MANGGA NIPI",
+  "postalCode": ""
  },
  {
   "id": 5317030009,
   "districtId": 5317030,
-  "name": "KENDU WELA"
+  "districtName": "KODI UTARA",
+  "name": "KENDU WELA",
+  "postalCode": ""
  },
  {
   "id": 5317030010,
   "districtId": 5317030,
-  "name": "BILA CENGE"
+  "districtName": "KODI UTARA",
+  "name": "BILA CENGE",
+  "postalCode": "87261"
  },
  {
   "id": 5317030011,
   "districtId": 5317030,
-  "name": "BUKAMBERO"
+  "districtName": "KODI UTARA",
+  "name": "BUKAMBERO",
+  "postalCode": "87261"
  },
  {
   "id": 5317030013,
   "districtId": 5317030,
-  "name": "WAITARU"
+  "districtName": "KODI UTARA",
+  "name": "WAITARU",
+  "postalCode": "87261"
  },
  {
   "id": 5317030014,
   "districtId": 5317030,
-  "name": "HOMBA PARE"
+  "districtName": "KODI UTARA",
+  "name": "HOMBA PARE",
+  "postalCode": "87261"
  },
  {
   "id": 5317030015,
   "districtId": 5317030,
-  "name": "KADAGHU TANA"
+  "districtName": "KODI UTARA",
+  "name": "KADAGHU TANA",
+  "postalCode": "87261"
  },
  {
   "id": 5317030016,
   "districtId": 5317030,
-  "name": "HAMELI ATE"
+  "districtName": "KODI UTARA",
+  "name": "HAMELI ATE",
+  "postalCode": "87261"
  },
  {
   "id": 5317030017,
   "districtId": 5317030,
-  "name": "KADU ETA"
+  "districtName": "KODI UTARA",
+  "name": "KADU ETA",
+  "postalCode": "87261"
  },
  {
   "id": 5317030018,
   "districtId": 5317030,
-  "name": "MAGHO LINYO"
+  "districtName": "KODI UTARA",
+  "name": "MAGHO LINYO",
+  "postalCode": "87261"
  },
  {
   "id": 5317030019,
   "districtId": 5317030,
-  "name": "WEE WELLA"
+  "districtName": "KODI UTARA",
+  "name": "WEE WELLA",
+  "postalCode": "87261"
  },
  {
   "id": 5317030020,
   "districtId": 5317030,
-  "name": "NANGGA MUTU"
+  "districtName": "KODI UTARA",
+  "name": "NANGGA MUTU",
+  "postalCode": ""
  },
  {
   "id": 5317030021,
   "districtId": 5317030,
-  "name": "LIMBU KEMBE"
+  "districtName": "KODI UTARA",
+  "name": "LIMBU KEMBE",
+  "postalCode": ""
  },
  {
   "id": 5317030022,
   "districtId": 5317030,
-  "name": "MORO MANDUYO"
+  "districtName": "KODI UTARA",
+  "name": "MORO MANDUYO",
+  "postalCode": ""
  }
 ]

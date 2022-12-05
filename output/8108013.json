@@ -2,31 +2,43 @@
  {
   "id": 8108013001,
   "districtId": 8108013,
-  "name": "MONING"
+  "districtName": "WETAR TIMUR",
+  "name": "MONING",
+  "postalCode": "97454"
  },
  {
   "id": 8108013002,
   "districtId": 8108013,
-  "name": "TOMLIAPAT"
+  "districtName": "WETAR TIMUR",
+  "name": "TOMLIAPAT",
+  "postalCode": "97454"
  },
  {
   "id": 8108013003,
   "districtId": 8108013,
-  "name": "ILPOKIL"
+  "districtName": "WETAR TIMUR",
+  "name": "ILPOKIL",
+  "postalCode": "97454"
  },
  {
   "id": 8108013004,
   "districtId": 8108013,
-  "name": "KOHOILIN"
+  "districtName": "WETAR TIMUR",
+  "name": "KOHOILIN",
+  "postalCode": ""
  },
  {
   "id": 8108013005,
   "districtId": 8108013,
-  "name": "ILWAY"
+  "districtName": "WETAR TIMUR",
+  "name": "ILWAY",
+  "postalCode": "97454"
  },
  {
   "id": 8108013006,
   "districtId": 8108013,
-  "name": "ARWALA"
+  "districtName": "WETAR TIMUR",
+  "name": "ARWALA",
+  "postalCode": "97454"
  }
 ]

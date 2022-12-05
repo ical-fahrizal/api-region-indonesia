@@ -2,21 +2,29 @@
  {
   "id": 8104027001,
   "districtId": 8104027,
-  "name": "WAEPERANG"
+  "districtName": "LILIALY",
+  "name": "WAEPERANG",
+  "postalCode": "97571"
  },
  {
   "id": 8104027002,
   "districtId": 8104027,
-  "name": "SAWA"
+  "districtName": "LILIALY",
+  "name": "SAWA",
+  "postalCode": "93352"
  },
  {
   "id": 8104027003,
   "districtId": 8104027,
-  "name": "WAIMITING"
+  "districtName": "LILIALY",
+  "name": "WAIMITING",
+  "postalCode": ""
  },
  {
   "id": 8104027004,
   "districtId": 8104027,
-  "name": "JIKUMERASA"
+  "districtName": "LILIALY",
+  "name": "JIKUMERASA",
+  "postalCode": ""
  }
 ]

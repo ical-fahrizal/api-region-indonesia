@@ -2,56 +2,78 @@
  {
   "id": 6207013001,
   "districtId": 6207013,
-  "name": "BUKIT JAYA"
+  "districtName": "BULIK TIMUR",
+  "name": "BUKIT JAYA",
+  "postalCode": "23615"
  },
  {
   "id": 6207013002,
   "districtId": 6207013,
-  "name": "SUKAMAJU"
+  "districtName": "BULIK TIMUR",
+  "name": "SUKAMAJU",
+  "postalCode": "22465"
  },
  {
   "id": 6207013003,
   "districtId": 6207013,
-  "name": "NANGA PALIKODAN"
+  "districtName": "BULIK TIMUR",
+  "name": "NANGA PALIKODAN",
+  "postalCode": "74162"
  },
  {
   "id": 6207013005,
   "districtId": 6207013,
-  "name": "NANGA KORING"
+  "districtName": "BULIK TIMUR",
+  "name": "NANGA KORING",
+  "postalCode": "74162"
  },
  {
   "id": 6207013006,
   "districtId": 6207013,
-  "name": "NUANGAN"
+  "districtName": "BULIK TIMUR",
+  "name": "NUANGAN",
+  "postalCode": "74162"
  },
  {
   "id": 6207013007,
   "districtId": 6207013,
-  "name": "TOKA"
+  "districtName": "BULIK TIMUR",
+  "name": "TOKA",
+  "postalCode": "74162"
  },
  {
   "id": 6207013008,
   "districtId": 6207013,
-  "name": "SEPONDAM"
+  "districtName": "BULIK TIMUR",
+  "name": "SEPONDAM",
+  "postalCode": "74162"
  },
  {
   "id": 6207013009,
   "districtId": 6207013,
-  "name": "PEDONGATAN"
+  "districtName": "BULIK TIMUR",
+  "name": "PEDONGATAN",
+  "postalCode": "74162"
  },
  {
   "id": 6207013010,
   "districtId": 6207013,
-  "name": "MERAMBANG"
+  "districtName": "BULIK TIMUR",
+  "name": "MERAMBANG",
+  "postalCode": "74162"
  },
  {
   "id": 6207013011,
   "districtId": 6207013,
-  "name": "BATU TUNGGAL"
+  "districtName": "BULIK TIMUR",
+  "name": "BATU TUNGGAL",
+  "postalCode": "22753"
  },
  {
   "id": 6207013012,
   "districtId": 6207013,
-  "name": "NANGA KEMUJAN"
+  "districtName": "BULIK TIMUR",
+  "name": "NANGA KEMUJAN",
+  "postalCode": "74162"
  }
 ]

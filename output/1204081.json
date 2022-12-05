@@ -2,41 +2,57 @@
  {
   "id": 1204081001,
   "districtId": 1204081,
-  "name": "SAMPANG MARUHUR"
+  "districtName": "SIRANDORUNG",
+  "name": "SAMPANG MARUHUR",
+  "postalCode": "22565"
  },
  {
   "id": 1204081002,
   "districtId": 1204081,
-  "name": "SIORDANG"
+  "districtName": "SIRANDORUNG",
+  "name": "SIORDANG",
+  "postalCode": "22565"
  },
  {
   "id": 1204081003,
   "districtId": 1204081,
-  "name": "PARDOMUAN"
+  "districtName": "SIRANDORUNG",
+  "name": "PARDOMUAN",
+  "postalCode": "22732"
  },
  {
   "id": 1204081004,
   "districtId": 1204081,
-  "name": "SIMPANG III LAE BINGKE"
+  "districtName": "SIRANDORUNG",
+  "name": "SIMPANG III LAE BINGKE",
+  "postalCode": ""
  },
  {
   "id": 1204081005,
   "districtId": 1204081,
-  "name": "BAJAMAS"
+  "districtName": "SIRANDORUNG",
+  "name": "BAJAMAS",
+  "postalCode": "22565"
  },
  {
   "id": 1204081006,
   "districtId": 1204081,
-  "name": "MASNAULI"
+  "districtName": "SIRANDORUNG",
+  "name": "MASNAULI",
+  "postalCode": "22565"
  },
  {
   "id": 1204081007,
   "districtId": 1204081,
-  "name": "SIGODUNG"
+  "districtName": "SIRANDORUNG",
+  "name": "SIGODUNG",
+  "postalCode": "22565"
  },
  {
   "id": 1204081008,
   "districtId": 1204081,
-  "name": "MUARA ORE"
+  "districtName": "SIRANDORUNG",
+  "name": "MUARA ORE",
+  "postalCode": "22565"
  }
 ]

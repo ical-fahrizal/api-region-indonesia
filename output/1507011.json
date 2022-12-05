@@ -2,51 +2,71 @@
  {
   "id": 1507011005,
   "districtId": 1507011,
-  "name": "TANJUNG BENANAK"
+  "districtName": "MERLUNG",
+  "name": "TANJUNG BENANAK",
+  "postalCode": "36554"
  },
  {
   "id": 1507011006,
   "districtId": 1507011,
-  "name": "BUKIT HARAPAN"
+  "districtName": "MERLUNG",
+  "name": "BUKIT HARAPAN",
+  "postalCode": "24784"
  },
  {
   "id": 1507011007,
   "districtId": 1507011,
-  "name": "ADI PURWA"
+  "districtName": "MERLUNG",
+  "name": "ADI PURWA",
+  "postalCode": "36554"
  },
  {
   "id": 1507011010,
   "districtId": 1507011,
-  "name": "PINANG GADING"
+  "districtName": "MERLUNG",
+  "name": "PINANG GADING",
+  "postalCode": "36554"
  },
  {
   "id": 1507011014,
   "districtId": 1507011,
-  "name": "MERLUNG"
+  "districtName": "MERLUNG",
+  "name": "MERLUNG",
+  "postalCode": ""
  },
  {
   "id": 1507011015,
   "districtId": 1507011,
-  "name": "TANJUNG PAKU"
+  "districtName": "MERLUNG",
+  "name": "TANJUNG PAKU",
+  "postalCode": "27324"
  },
  {
   "id": 1507011016,
   "districtId": 1507011,
-  "name": "LUBUK TERAP"
+  "districtName": "MERLUNG",
+  "name": "LUBUK TERAP",
+  "postalCode": "28384"
  },
  {
   "id": 1507011017,
   "districtId": 1507011,
-  "name": "PENYABUNGAN"
+  "districtName": "MERLUNG",
+  "name": "PENYABUNGAN",
+  "postalCode": "36554"
  },
  {
   "id": 1507011020,
   "districtId": 1507011,
-  "name": "TANJUNG MAKMUR"
+  "districtName": "MERLUNG",
+  "name": "TANJUNG MAKMUR",
+  "postalCode": "36554"
  },
  {
   "id": 1507011021,
   "districtId": 1507011,
-  "name": "MERLUNG"
+  "districtName": "MERLUNG",
+  "name": "MERLUNG",
+  "postalCode": ""
  }
 ]

@@ -2,51 +2,71 @@
  {
   "id": 1801041001,
   "districtId": 1801041,
-  "name": "TANJUNG RAYA"
+  "districtName": "SUKAU",
+  "name": "TANJUNG RAYA",
+  "postalCode": "23891"
  },
  {
   "id": 1801041002,
   "districtId": 1801041,
-  "name": "HANAKAU"
+  "districtName": "SUKAU",
+  "name": "HANAKAU",
+  "postalCode": "34879"
  },
  {
   "id": 1801041003,
   "districtId": 1801041,
-  "name": "BUAY NYERUPA"
+  "districtName": "SUKAU",
+  "name": "BUAY NYERUPA",
+  "postalCode": "34879"
  },
  {
   "id": 1801041004,
   "districtId": 1801041,
-  "name": "TAPAK SIRING"
+  "districtName": "SUKAU",
+  "name": "TAPAK SIRING",
+  "postalCode": "34879"
  },
  {
   "id": 1801041005,
   "districtId": 1801041,
-  "name": "PAGAR DEWA"
+  "districtName": "SUKAU",
+  "name": "PAGAR DEWA",
+  "postalCode": "31626"
  },
  {
   "id": 1801041006,
   "districtId": 1801041,
-  "name": "JAGA RAGA"
+  "districtName": "SUKAU",
+  "name": "JAGA RAGA",
+  "postalCode": "34879"
  },
  {
   "id": 1801041012,
   "districtId": 1801041,
-  "name": "SUKA MULYA"
+  "districtName": "SUKAU",
+  "name": "SUKA MULYA",
+  "postalCode": "28463"
  },
  {
   "id": 1801041018,
   "districtId": 1801041,
-  "name": "BANDAR BARU"
+  "districtName": "SUKAU",
+  "name": "BANDAR BARU",
+  "postalCode": "24472"
  },
  {
   "id": 1801041019,
   "districtId": 1801041,
-  "name": "BUMI JAYA"
+  "districtName": "SUKAU",
+  "name": "BUMI JAYA",
+  "postalCode": "34583"
  },
  {
   "id": 1801041020,
   "districtId": 1801041,
-  "name": "TEBA PERING RAYA"
+  "districtName": "SUKAU",
+  "name": "TEBA PERING RAYA",
+  "postalCode": "34879"
  }
 ]

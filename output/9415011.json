@@ -2,51 +2,71 @@
  {
   "id": 9415011001,
   "districtId": 9415011,
-  "name": "KAWEM"
+  "districtName": "KOPAY",
+  "name": "KAWEM",
+  "postalCode": "99773"
  },
  {
   "id": 9415011002,
   "districtId": 9415011,
-  "name": "AIRO SAPEM"
+  "districtName": "KOPAY",
+  "name": "AIRO SAPEM",
+  "postalCode": ""
  },
  {
   "id": 9415011003,
   "districtId": 9415011,
-  "name": "KAIPOM"
+  "districtName": "KOPAY",
+  "name": "KAIPOM",
+  "postalCode": "99773"
  },
  {
   "id": 9415011004,
   "districtId": 9415011,
-  "name": "HAHARE"
+  "districtName": "KOPAY",
+  "name": "HAHARE",
+  "postalCode": "99773"
  },
  {
   "id": 9415011005,
   "districtId": 9415011,
-  "name": "AIKUT"
+  "districtName": "KOPAY",
+  "name": "AIKUT",
+  "postalCode": "99773"
  },
  {
   "id": 9415011006,
   "districtId": 9415011,
-  "name": "SENEPIT"
+  "districtName": "KOPAY",
+  "name": "SENEPIT",
+  "postalCode": ""
  },
  {
   "id": 9415011007,
   "districtId": 9415011,
-  "name": "SANEM"
+  "districtName": "KOPAY",
+  "name": "SANEM",
+  "postalCode": "98463"
  },
  {
   "id": 9415011008,
   "districtId": 9415011,
-  "name": "SASIME"
+  "districtName": "KOPAY",
+  "name": "SASIME",
+  "postalCode": "99773"
  },
  {
   "id": 9415011009,
   "districtId": 9415011,
-  "name": "WAGASU"
+  "districtName": "KOPAY",
+  "name": "WAGASU",
+  "postalCode": "99773"
  },
  {
   "id": 9415011010,
   "districtId": 9415011,
-  "name": "HEIYARAM"
+  "districtName": "KOPAY",
+  "name": "HEIYARAM",
+  "postalCode": "99773"
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 1804091001,
   "districtId": 1804091,
-  "name": "MARGA MULYA"
+  "districtName": "BUMI AGUNG",
+  "name": "MARGA MULYA",
+  "postalCode": "28565"
  },
  {
   "id": 1804091002,
   "districtId": 1804091,
-  "name": "DONOMULYO"
+  "districtName": "BUMI AGUNG",
+  "name": "DONOMULYO",
+  "postalCode": "34182"
  },
  {
   "id": 1804091003,
   "districtId": 1804091,
-  "name": "NYAMPIR"
+  "districtName": "BUMI AGUNG",
+  "name": "NYAMPIR",
+  "postalCode": "34182"
  },
  {
   "id": 1804091004,
   "districtId": 1804091,
-  "name": "BUMI TINGGI"
+  "districtName": "BUMI AGUNG",
+  "name": "BUMI TINGGI",
+  "postalCode": "34182"
  },
  {
   "id": 1804091005,
   "districtId": 1804091,
-  "name": "LEHAN"
+  "districtName": "BUMI AGUNG",
+  "name": "LEHAN",
+  "postalCode": "34182"
  },
  {
   "id": 1804091006,
   "districtId": 1804091,
-  "name": "CATUR SWAKO"
+  "districtName": "BUMI AGUNG",
+  "name": "CATUR SWAKO",
+  "postalCode": "34182"
  },
  {
   "id": 1804091007,
   "districtId": 1804091,
-  "name": "MULYO ASRI"
+  "districtName": "BUMI AGUNG",
+  "name": "MULYO ASRI",
+  "postalCode": "34182"
  }
 ]

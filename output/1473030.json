@@ -2,26 +2,36 @@
  {
   "id": 1473030001,
   "districtId": 1473030,
-  "name": "TANJUNG PALAS"
+  "districtName": "DUMAI TIMUR",
+  "name": "TANJUNG PALAS",
+  "postalCode": "28816"
  },
  {
   "id": 1473030002,
   "districtId": 1473030,
-  "name": "JAYA MUKTI"
+  "districtName": "DUMAI TIMUR",
+  "name": "JAYA MUKTI",
+  "postalCode": "28815"
  },
  {
   "id": 1473030003,
   "districtId": 1473030,
-  "name": "TELUK BINJAI"
+  "districtName": "DUMAI TIMUR",
+  "name": "TELUK BINJAI",
+  "postalCode": "21474"
  },
  {
   "id": 1473030006,
   "districtId": 1473030,
-  "name": "BULUH KASAP"
+  "districtName": "DUMAI TIMUR",
+  "name": "BULUH KASAP",
+  "postalCode": "28814"
  },
  {
   "id": 1473030007,
   "districtId": 1473030,
-  "name": "BUKIT BATREM"
+  "districtName": "DUMAI TIMUR",
+  "name": "BUKIT BATREM",
+  "postalCode": "28811"
  }
 ]

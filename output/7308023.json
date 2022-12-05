@@ -2,31 +2,43 @@
  {
   "id": 7308023001,
   "districtId": 7308023,
-  "name": "ALLEPOLEA"
+  "districtName": "LAU",
+  "name": "ALLEPOLEA",
+  "postalCode": "90514"
  },
  {
   "id": 7308023002,
   "districtId": 7308023,
-  "name": "SOREANG"
+  "districtName": "LAU",
+  "name": "SOREANG",
+  "postalCode": "40911"
  },
  {
   "id": 7308023003,
   "districtId": 7308023,
-  "name": "MARRANNU"
+  "districtName": "LAU",
+  "name": "MARRANNU",
+  "postalCode": "90513"
  },
  {
   "id": 7308023004,
   "districtId": 7308023,
-  "name": "BONTO MARANNU"
+  "districtName": "LAU",
+  "name": "BONTO MARANNU",
+  "postalCode": "92572"
  },
  {
   "id": 7308023005,
   "districtId": 7308023,
-  "name": "MACCINI BAJI"
+  "districtName": "LAU",
+  "name": "MACCINI BAJI",
+  "postalCode": "90513"
  },
  {
   "id": 7308023006,
   "districtId": 7308023,
-  "name": "MATTIRO DECENG"
+  "districtName": "LAU",
+  "name": "MATTIRO DECENG",
+  "postalCode": "90513"
  }
 ]

@@ -2,111 +2,155 @@
  {
   "id": 7322020001,
   "districtId": 7322020,
-  "name": "LAWEWE"
+  "districtName": "BAEBUNTA",
+  "name": "LAWEWE",
+  "postalCode": "92965"
  },
  {
   "id": 7322020002,
   "districtId": 7322020,
-  "name": "LEMBANG-LEMBANG"
+  "districtName": "BAEBUNTA",
+  "name": "LEMBANG-LEMBANG",
+  "postalCode": "92965"
  },
  {
   "id": 7322020003,
   "districtId": 7322020,
-  "name": "BERINGIN JAYA"
+  "districtName": "BAEBUNTA",
+  "name": "BERINGIN JAYA",
+  "postalCode": "21464"
  },
  {
   "id": 7322020004,
   "districtId": 7322020,
-  "name": "MUKTI JAYA"
+  "districtName": "BAEBUNTA",
+  "name": "MUKTI JAYA",
+  "postalCode": "28953"
  },
  {
   "id": 7322020005,
   "districtId": 7322020,
-  "name": "MUKTI TAMA"
+  "districtName": "BAEBUNTA",
+  "name": "MUKTI TAMA",
+  "postalCode": "92965"
  },
  {
   "id": 7322020006,
   "districtId": 7322020,
-  "name": "MARIO"
+  "districtName": "BAEBUNTA",
+  "name": "MARIO",
+  "postalCode": "92965"
  },
  {
   "id": 7322020007,
   "districtId": 7322020,
-  "name": "POLEWALI"
+  "districtName": "BAEBUNTA",
+  "name": "POLEWALI",
+  "postalCode": "94974"
  },
  {
   "id": 7322020008,
   "districtId": 7322020,
-  "name": "PALANDAN"
+  "districtName": "BAEBUNTA",
+  "name": "PALANDAN",
+  "postalCode": "92965"
  },
  {
   "id": 7322020009,
   "districtId": 7322020,
-  "name": "BUMI HARAPAN"
+  "districtName": "BAEBUNTA",
+  "name": "BUMI HARAPAN",
+  "postalCode": "30673"
  },
  {
   "id": 7322020010,
   "districtId": 7322020,
-  "name": "MARANNU"
+  "districtName": "BAEBUNTA",
+  "name": "MARANNU",
+  "postalCode": "92965"
  },
  {
   "id": 7322020011,
   "districtId": 7322020,
-  "name": "LARA"
+  "districtName": "BAEBUNTA",
+  "name": "LARA",
+  "postalCode": "92965"
  },
  {
   "id": 7322020012,
   "districtId": 7322020,
-  "name": "MEKAR SARI JAYA"
+  "districtName": "BAEBUNTA",
+  "name": "MEKAR SARI JAYA",
+  "postalCode": "34388"
  },
  {
   "id": 7322020013,
   "districtId": 7322020,
-  "name": "TAROBOK"
+  "districtName": "BAEBUNTA",
+  "name": "TAROBOK",
+  "postalCode": "92965"
  },
  {
   "id": 7322020014,
   "districtId": 7322020,
-  "name": "SALULEMO"
+  "districtName": "BAEBUNTA",
+  "name": "SALULEMO",
+  "postalCode": "92965"
  },
  {
   "id": 7322020015,
   "districtId": 7322020,
-  "name": "KARIANGO"
+  "districtName": "BAEBUNTA",
+  "name": "KARIANGO",
+  "postalCode": "92965"
  },
  {
   "id": 7322020016,
   "districtId": 7322020,
-  "name": "RADDA"
+  "districtName": "BAEBUNTA",
+  "name": "RADDA",
+  "postalCode": "92965"
  },
  {
   "id": 7322020017,
   "districtId": 7322020,
-  "name": "MELI"
+  "districtName": "BAEBUNTA",
+  "name": "MELI",
+  "postalCode": "94355"
  },
  {
   "id": 7322020018,
   "districtId": 7322020,
-  "name": "BAEBUNTA"
+  "districtName": "BAEBUNTA",
+  "name": "BAEBUNTA",
+  "postalCode": "92965"
  },
  {
   "id": 7322020019,
   "districtId": 7322020,
-  "name": "UPT BUSO"
+  "districtName": "BAEBUNTA",
+  "name": "UPT BUSO",
+  "postalCode": ""
  },
  {
   "id": 7322020020,
   "districtId": 7322020,
-  "name": "SASSA"
+  "districtName": "BAEBUNTA",
+  "name": "SASSA",
+  "postalCode": "92965"
  },
  {
   "id": 7322020021,
   "districtId": 7322020,
-  "name": "SALASSA"
+  "districtName": "BAEBUNTA",
+  "name": "SALASSA",
+  "postalCode": "92965"
  },
  {
   "id": 7322020022,
   "districtId": 7322020,
-  "name": "SUMPIRA"
+  "districtName": "BAEBUNTA",
+  "name": "SUMPIRA",
+  "postalCode": "92965"
  }
 ]

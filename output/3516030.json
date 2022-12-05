@@ -2,101 +2,141 @@
  {
   "id": 3516030001,
   "districtId": 3516030,
-  "name": "KEMIRI"
+  "districtName": "PACET",
+  "name": "KEMIRI",
+  "postalCode": "41352"
  },
  {
   "id": 3516030002,
   "districtId": 3516030,
-  "name": "SAJEN"
+  "districtName": "PACET",
+  "name": "SAJEN",
+  "postalCode": "57467"
  },
  {
   "id": 3516030003,
   "districtId": 3516030,
-  "name": "PACET"
+  "districtName": "PACET",
+  "name": "PACET",
+  "postalCode": "51273"
  },
  {
   "id": 3516030004,
   "districtId": 3516030,
-  "name": "PADUSAN"
+  "districtName": "PACET",
+  "name": "PADUSAN",
+  "postalCode": "61374"
  },
  {
   "id": 3516030005,
   "districtId": 3516030,
-  "name": "CEPOKOLIMO"
+  "districtName": "PACET",
+  "name": "CEPOKOLIMO",
+  "postalCode": "61374"
  },
  {
   "id": 3516030006,
   "districtId": 3516030,
-  "name": "CLAKET"
+  "districtName": "PACET",
+  "name": "CLAKET",
+  "postalCode": "61374"
  },
  {
   "id": 3516030007,
   "districtId": 3516030,
-  "name": "CEMBOR"
+  "districtName": "PACET",
+  "name": "CEMBOR",
+  "postalCode": "61374"
  },
  {
   "id": 3516030008,
   "districtId": 3516030,
-  "name": "NOGOSARI"
+  "districtName": "PACET",
+  "name": "NOGOSARI",
+  "postalCode": "63572"
  },
  {
   "id": 3516030009,
   "districtId": 3516030,
-  "name": "KEMBANGBELOR"
+  "districtName": "PACET",
+  "name": "KEMBANGBELOR",
+  "postalCode": "61374"
  },
  {
   "id": 3516030010,
   "districtId": 3516030,
-  "name": "MOJOKEMBANG"
+  "districtName": "PACET",
+  "name": "MOJOKEMBANG",
+  "postalCode": "61374"
  },
  {
   "id": 3516030011,
   "districtId": 3516030,
-  "name": "BENDUNGANJATI"
+  "districtName": "PACET",
+  "name": "BENDUNGANJATI",
+  "postalCode": "61374"
  },
  {
   "id": 3516030012,
   "districtId": 3516030,
-  "name": "PETAK"
+  "districtName": "PACET",
+  "name": "PETAK",
+  "postalCode": "64461"
  },
  {
   "id": 3516030013,
   "districtId": 3516030,
-  "name": "KESIMANTENGAH"
+  "districtName": "PACET",
+  "name": "KESIMANTENGAH",
+  "postalCode": "61374"
  },
  {
   "id": 3516030014,
   "districtId": 3516030,
-  "name": "WIYU"
+  "districtName": "PACET",
+  "name": "WIYU",
+  "postalCode": "61374"
  },
  {
   "id": 3516030015,
   "districtId": 3516030,
-  "name": "CANDIWATU"
+  "districtName": "PACET",
+  "name": "CANDIWATU",
+  "postalCode": "61374"
  },
  {
   "id": 3516030016,
   "districtId": 3516030,
-  "name": "WARUGUNUNG"
+  "districtName": "PACET",
+  "name": "WARUGUNUNG",
+  "postalCode": "59255"
  },
  {
   "id": 3516030017,
   "districtId": 3516030,
-  "name": "TANJUNGKENONGO"
+  "districtName": "PACET",
+  "name": "TANJUNGKENONGO",
+  "postalCode": "61374"
  },
  {
   "id": 3516030018,
   "districtId": 3516030,
-  "name": "SUMBERKEMBAR"
+  "districtName": "PACET",
+  "name": "SUMBERKEMBAR",
+  "postalCode": "61374"
  },
  {
   "id": 3516030019,
   "districtId": 3516030,
-  "name": "KURIPANSARI"
+  "districtName": "PACET",
+  "name": "KURIPANSARI",
+  "postalCode": "61374"
  },
  {
   "id": 3516030020,
   "districtId": 3516030,
-  "name": "PANDANARUM"
+  "districtName": "PACET",
+  "name": "PANDANARUM",
+  "postalCode": "53458"
  }
 ]

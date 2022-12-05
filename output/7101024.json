@@ -2,51 +2,71 @@
  {
   "id": 7101024001,
   "districtId": 7101024,
-  "name": "KOSIO"
+  "districtName": "DUMOGA TENGAH",
+  "name": "KOSIO",
+  "postalCode": "95773"
  },
  {
   "id": 7101024002,
   "districtId": 7101024,
-  "name": "KINOMALIGAN"
+  "districtName": "DUMOGA TENGAH",
+  "name": "KINOMALIGAN",
+  "postalCode": ""
  },
  {
   "id": 7101024003,
   "districtId": 7101024,
-  "name": "IBOLIAN"
+  "districtName": "DUMOGA TENGAH",
+  "name": "IBOLIAN",
+  "postalCode": "95773"
  },
  {
   "id": 7101024004,
   "districtId": 7101024,
-  "name": "IBOLIAN I"
+  "districtName": "DUMOGA TENGAH",
+  "name": "IBOLIAN I",
+  "postalCode": ""
  },
  {
   "id": 7101024005,
   "districtId": 7101024,
-  "name": "WERDHI AGUNG"
+  "districtName": "DUMOGA TENGAH",
+  "name": "WERDHI AGUNG",
+  "postalCode": "95773"
  },
  {
   "id": 7101024006,
   "districtId": 7101024,
-  "name": "WERDHI AGUNG TIMUR"
+  "districtName": "DUMOGA TENGAH",
+  "name": "WERDHI AGUNG TIMUR",
+  "postalCode": "95773"
  },
  {
   "id": 7101024007,
   "districtId": 7101024,
-  "name": "WERDHI AGUNG UTARA"
+  "districtName": "DUMOGA TENGAH",
+  "name": "WERDHI AGUNG UTARA",
+  "postalCode": "95773"
  },
  {
   "id": 7101024008,
   "districtId": 7101024,
-  "name": "WERDHI AGUNG SELATAN"
+  "districtName": "DUMOGA TENGAH",
+  "name": "WERDHI AGUNG SELATAN",
+  "postalCode": "95773"
  },
  {
   "id": 7101024009,
   "districtId": 7101024,
-  "name": "KOSIO TIMUR"
+  "districtName": "DUMOGA TENGAH",
+  "name": "KOSIO TIMUR",
+  "postalCode": "95773"
  },
  {
   "id": 7101024010,
   "districtId": 7101024,
-  "name": "KOSIO BARAT"
+  "districtName": "DUMOGA TENGAH",
+  "name": "KOSIO BARAT",
+  "postalCode": ""
  }
 ]

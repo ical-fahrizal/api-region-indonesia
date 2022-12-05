@@ -2,56 +2,78 @@
  {
   "id": 1214036001,
   "districtId": 1214036,
-  "name": "HILIAMURI"
+  "districtName": "ONOLALU",
+  "name": "HILIAMURI",
+  "postalCode": "22865"
  },
  {
   "id": 1214036002,
   "districtId": 1214036,
-  "name": "HILIONAHA"
+  "districtName": "ONOLALU",
+  "name": "HILIONAHA",
+  "postalCode": "22865"
  },
  {
   "id": 1214036003,
   "districtId": 1214036,
-  "name": "HILIMONDREGERAYA"
+  "districtName": "ONOLALU",
+  "name": "HILIMONDREGERAYA",
+  "postalCode": "22865"
  },
  {
   "id": 1214036005,
   "districtId": 1214036,
-  "name": "HILINAMOZAUA"
+  "districtName": "ONOLALU",
+  "name": "HILINAMOZAUA",
+  "postalCode": "22865"
  },
  {
   "id": 1214036008,
   "districtId": 1214036,
-  "name": "HILIFALAGO"
+  "districtName": "ONOLALU",
+  "name": "HILIFALAGO",
+  "postalCode": "22865"
  },
  {
   "id": 1214036009,
   "districtId": 1214036,
-  "name": "HILIALITOSAUA"
+  "districtName": "ONOLALU",
+  "name": "HILIALITOSAUA",
+  "postalCode": ""
  },
  {
   "id": 1214036010,
   "districtId": 1214036,
-  "name": "HILINAMOZAUA RAYA"
+  "districtName": "ONOLALU",
+  "name": "HILINAMOZAUA RAYA",
+  "postalCode": "22865"
  },
  {
   "id": 1214036011,
   "districtId": 1214036,
-  "name": "HILISANEKHEHOSI"
+  "districtName": "ONOLALU",
+  "name": "HILISANEKHEHOSI",
+  "postalCode": "22865"
  },
  {
   "id": 1214036012,
   "districtId": 1214036,
-  "name": "HILIFARONO"
+  "districtName": "ONOLALU",
+  "name": "HILIFARONO",
+  "postalCode": "22865"
  },
  {
   "id": 1214036013,
   "districtId": 1214036,
-  "name": "HILIFALAGO RAYA"
+  "districtName": "ONOLALU",
+  "name": "HILIFALAGO RAYA",
+  "postalCode": "22865"
  },
  {
   "id": 1214036014,
   "districtId": 1214036,
-  "name": "HILIKARA"
+  "districtName": "ONOLALU",
+  "name": "HILIKARA",
+  "postalCode": "22864"
  }
 ]

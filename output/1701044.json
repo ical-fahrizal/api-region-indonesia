@@ -2,46 +2,64 @@
  {
   "id": 1701044001,
   "districtId": 1701044,
-  "name": "PASAR BAWAH"
+  "districtName": "PASAR MANNA",
+  "name": "PASAR BAWAH",
+  "postalCode": "31412"
  },
  {
   "id": 1701044002,
   "districtId": 1701044,
-  "name": "GUNUNG MESIR"
+  "districtName": "PASAR MANNA",
+  "name": "GUNUNG MESIR",
+  "postalCode": "38517"
  },
  {
   "id": 1701044003,
   "districtId": 1701044,
-  "name": "KETAPANG BESAR"
+  "districtName": "PASAR MANNA",
+  "name": "KETAPANG BESAR",
+  "postalCode": "38516"
  },
  {
   "id": 1701044004,
   "districtId": 1701044,
-  "name": "PADANG SIALANG"
+  "districtName": "PASAR MANNA",
+  "name": "PADANG SIALANG",
+  "postalCode": "38517"
  },
  {
   "id": 1701044005,
   "districtId": 1701044,
-  "name": "BELAKANG GEDUNG"
+  "districtName": "PASAR MANNA",
+  "name": "BELAKANG GEDUNG",
+  "postalCode": "38514"
  },
  {
   "id": 1701044006,
   "districtId": 1701044,
-  "name": "PASAR MULIA"
+  "districtName": "PASAR MANNA",
+  "name": "PASAR MULIA",
+  "postalCode": "38518"
  },
  {
   "id": 1701044007,
   "districtId": 1701044,
-  "name": "BATU LAMBANG"
+  "districtName": "PASAR MANNA",
+  "name": "BATU LAMBANG",
+  "postalCode": "38513"
  },
  {
   "id": 1701044008,
   "districtId": 1701044,
-  "name": "BATU KUNING"
+  "districtName": "PASAR MANNA",
+  "name": "BATU KUNING",
+  "postalCode": "32121"
  },
  {
   "id": 1701044009,
   "districtId": 1701044,
-  "name": "TANJUNG MULIA"
+  "districtName": "PASAR MANNA",
+  "name": "TANJUNG MULIA",
+  "postalCode": "20854"
  }
 ]

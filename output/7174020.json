@@ -2,51 +2,71 @@
  {
   "id": 7174020001,
   "districtId": 7174020,
-  "name": "MATALI"
+  "districtName": "KOTAMOBAGU TIMUR",
+  "name": "MATALI",
+  "postalCode": "95718"
  },
  {
   "id": 7174020002,
   "districtId": 7174020,
-  "name": "MOTOBOI BESAR"
+  "districtName": "KOTAMOBAGU TIMUR",
+  "name": "MOTOBOI BESAR",
+  "postalCode": "95719"
  },
  {
   "id": 7174020003,
   "districtId": 7174020,
-  "name": "KOBO KECIL"
+  "districtName": "KOTAMOBAGU TIMUR",
+  "name": "KOBO KECIL",
+  "postalCode": "95719"
  },
  {
   "id": 7174020004,
   "districtId": 7174020,
-  "name": "MOYAG"
+  "districtName": "KOTAMOBAGU TIMUR",
+  "name": "MOYAG",
+  "postalCode": "95719"
  },
  {
   "id": 7174020005,
   "districtId": 7174020,
-  "name": "KOBO BESAR"
+  "districtName": "KOTAMOBAGU TIMUR",
+  "name": "KOBO BESAR",
+  "postalCode": "95719"
  },
  {
   "id": 7174020006,
   "districtId": 7174020,
-  "name": "TUMOBUY"
+  "districtName": "KOTAMOBAGU TIMUR",
+  "name": "TUMOBUY",
+  "postalCode": ""
  },
  {
   "id": 7174020007,
   "districtId": 7174020,
-  "name": "SININDIAN"
+  "districtName": "KOTAMOBAGU TIMUR",
+  "name": "SININDIAN",
+  "postalCode": "95718"
  },
  {
   "id": 7174020008,
   "districtId": 7174020,
-  "name": "KOTABANGON"
+  "districtName": "KOTAMOBAGU TIMUR",
+  "name": "KOTABANGON",
+  "postalCode": ""
  },
  {
   "id": 7174020009,
   "districtId": 7174020,
-  "name": "MOYAG TAMPOAN"
+  "districtName": "KOTAMOBAGU TIMUR",
+  "name": "MOYAG TAMPOAN",
+  "postalCode": ""
  },
  {
   "id": 7174020010,
   "districtId": 7174020,
-  "name": "MOYAG TODULAN"
+  "districtName": "KOTAMOBAGU TIMUR",
+  "name": "MOYAG TODULAN",
+  "postalCode": ""
  }
 ]

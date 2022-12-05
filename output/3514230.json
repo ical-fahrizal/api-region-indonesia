@@ -2,56 +2,78 @@
  {
   "id": 3514230001,
   "districtId": 3514230,
-  "name": "ROWO GEMPOL"
+  "districtName": "LEKOK",
+  "name": "ROWO GEMPOL",
+  "postalCode": "67186"
  },
  {
   "id": 3514230002,
   "districtId": 3514230,
-  "name": "GEJUG JATI"
+  "districtName": "LEKOK",
+  "name": "GEJUG JATI",
+  "postalCode": "67186"
  },
  {
   "id": 3514230003,
   "districtId": 3514230,
-  "name": "ALAS TLOGO"
+  "districtName": "LEKOK",
+  "name": "ALAS TLOGO",
+  "postalCode": "67186"
  },
  {
   "id": 3514230004,
   "districtId": 3514230,
-  "name": "BALUNG ANYAR"
+  "districtName": "LEKOK",
+  "name": "BALUNG ANYAR",
+  "postalCode": "67186"
  },
  {
   "id": 3514230005,
   "districtId": 3514230,
-  "name": "BRANANG"
+  "districtName": "LEKOK",
+  "name": "BRANANG",
+  "postalCode": "67186"
  },
  {
   "id": 3514230006,
   "districtId": 3514230,
-  "name": "TAMPUNG"
+  "districtName": "LEKOK",
+  "name": "TAMPUNG",
+  "postalCode": "67186"
  },
  {
   "id": 3514230007,
   "districtId": 3514230,
-  "name": "TAMBAK LEKOK"
+  "districtName": "LEKOK",
+  "name": "TAMBAK LEKOK",
+  "postalCode": "67186"
  },
  {
   "id": 3514230008,
   "districtId": 3514230,
-  "name": "JATIREJO"
+  "districtName": "LEKOK",
+  "name": "JATIREJO",
+  "postalCode": "23661"
  },
  {
   "id": 3514230009,
   "districtId": 3514230,
-  "name": "PASINAN"
+  "districtName": "LEKOK",
+  "name": "PASINAN",
+  "postalCode": "62192"
  },
  {
   "id": 3514230010,
   "districtId": 3514230,
-  "name": "WATES"
+  "districtName": "LEKOK",
+  "name": "WATES",
+  "postalCode": "32273"
  },
  {
   "id": 3514230011,
   "districtId": 3514230,
-  "name": "SEMEDUSARI"
+  "districtName": "LEKOK",
+  "name": "SEMEDUSARI",
+  "postalCode": "67186"
  }
 ]

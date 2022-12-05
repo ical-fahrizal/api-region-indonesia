@@ -2,76 +2,106 @@
  {
   "id": 9426030001,
   "districtId": 9426030,
-  "name": "MATADI"
+  "districtName": "WALANI",
+  "name": "MATADI",
+  "postalCode": "98862"
  },
  {
   "id": 9426030002,
   "districtId": 9426030,
-  "name": "DIMBA"
+  "districtName": "WALANI",
+  "name": "DIMBA",
+  "postalCode": "93393"
  },
  {
   "id": 9426030003,
   "districtId": 9426030,
-  "name": "MPOMINATADI"
+  "districtName": "WALANI",
+  "name": "MPOMINATADI",
+  "postalCode": ""
  },
  {
   "id": 9426030004,
   "districtId": 9426030,
-  "name": "MAIYAPO"
+  "districtName": "WALANI",
+  "name": "MAIYAPO",
+  "postalCode": ""
  },
  {
   "id": 9426030005,
   "districtId": 9426030,
-  "name": "OYETADI"
+  "districtName": "WALANI",
+  "name": "OYETADI",
+  "postalCode": ""
  },
  {
   "id": 9426030006,
   "districtId": 9426030,
-  "name": "MAOLAGI"
+  "districtName": "WALANI",
+  "name": "MAOLAGI",
+  "postalCode": ""
  },
  {
   "id": 9426030007,
   "districtId": 9426030,
-  "name": "MBAINDOTADI"
+  "districtName": "WALANI",
+  "name": "MBAINDOTADI",
+  "postalCode": ""
  },
  {
   "id": 9426030008,
   "districtId": 9426030,
-  "name": "NABUYA"
+  "districtName": "WALANI",
+  "name": "NABUYA",
+  "postalCode": ""
  },
  {
   "id": 9426030009,
   "districtId": 9426030,
-  "name": "DAPIYAGA"
+  "districtName": "WALANI",
+  "name": "DAPIYAGA",
+  "postalCode": ""
  },
  {
   "id": 9426030010,
   "districtId": 9426030,
-  "name": "WALAMPA BUTU"
+  "districtName": "WALANI",
+  "name": "WALAMPA BUTU",
+  "postalCode": ""
  },
  {
   "id": 9426030011,
   "districtId": 9426030,
-  "name": "DIDIWOI"
+  "districtName": "WALANI",
+  "name": "DIDIWOI",
+  "postalCode": ""
  },
  {
   "id": 9426030013,
   "districtId": 9426030,
-  "name": "MALEWOYA"
+  "districtName": "WALANI",
+  "name": "MALEWOYA",
+  "postalCode": ""
  },
  {
   "id": 9426030014,
   "districtId": 9426030,
-  "name": "TUNGGAMBA"
+  "districtName": "WALANI",
+  "name": "TUNGGAMBA",
+  "postalCode": ""
  },
  {
   "id": 9426030015,
   "districtId": 9426030,
-  "name": "EBAWAIDA"
+  "districtName": "WALANI",
+  "name": "EBAWAIDA",
+  "postalCode": ""
  },
  {
   "id": 9426030016,
   "districtId": 9426030,
-  "name": "DABOTO"
+  "districtName": "WALANI",
+  "name": "DABOTO",
+  "postalCode": ""
  }
 ]

@@ -2,66 +2,92 @@
  {
   "id": 9413020002,
   "districtId": 9413020,
-  "name": "EPSEMBIT"
+  "districtName": "MINDIPTANA",
+  "name": "EPSEMBIT",
+  "postalCode": "99662"
  },
  {
   "id": 9413020004,
   "districtId": 9413020,
-  "name": "UMAP"
+  "districtName": "MINDIPTANA",
+  "name": "UMAP",
+  "postalCode": "99662"
  },
  {
   "id": 9413020005,
   "districtId": 9413020,
-  "name": "IMKO"
+  "districtName": "MINDIPTANA",
+  "name": "IMKO",
+  "postalCode": "99662"
  },
  {
   "id": 9413020006,
   "districtId": 9413020,
-  "name": "ANGGUMBIT"
+  "districtName": "MINDIPTANA",
+  "name": "ANGGUMBIT",
+  "postalCode": "99662"
  },
  {
   "id": 9413020007,
   "districtId": 9413020,
-  "name": "NIYIMBANG"
+  "districtName": "MINDIPTANA",
+  "name": "NIYIMBANG",
+  "postalCode": "99662"
  },
  {
   "id": 9413020008,
   "districtId": 9413020,
-  "name": "ANDOPBIT"
+  "districtName": "MINDIPTANA",
+  "name": "ANDOPBIT",
+  "postalCode": "99662"
  },
  {
   "id": 9413020009,
   "districtId": 9413020,
-  "name": "TINGGAM"
+  "districtName": "MINDIPTANA",
+  "name": "TINGGAM",
+  "postalCode": "99662"
  },
  {
   "id": 9413020013,
   "districtId": 9413020,
-  "name": "OSSO"
+  "districtName": "MINDIPTANA",
+  "name": "OSSO",
+  "postalCode": "99662"
  },
  {
   "id": 9413020014,
   "districtId": 9413020,
-  "name": "KAMKA"
+  "districtName": "MINDIPTANA",
+  "name": "KAMKA",
+  "postalCode": "99662"
  },
  {
   "id": 9413020015,
   "districtId": 9413020,
-  "name": "MINDIPTANA"
+  "districtName": "MINDIPTANA",
+  "name": "MINDIPTANA",
+  "postalCode": "99662"
  },
  {
   "id": 9413020020,
   "districtId": 9413020,
-  "name": "WANGGATKIBI"
+  "districtName": "MINDIPTANA",
+  "name": "WANGGATKIBI",
+  "postalCode": ""
  },
  {
   "id": 9413020021,
   "districtId": 9413020,
-  "name": "AWAYANKA"
+  "districtName": "MINDIPTANA",
+  "name": "AWAYANKA",
+  "postalCode": "99662"
  },
  {
   "id": 9413020022,
   "districtId": 9413020,
-  "name": "KAKUNA"
+  "districtName": "MINDIPTANA",
+  "name": "KAKUNA",
+  "postalCode": "99662"
  }
 ]

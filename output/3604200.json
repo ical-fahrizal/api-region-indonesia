@@ -2,61 +2,85 @@
  {
   "id": 3604200001,
   "districtId": 3604200,
-  "name": "BANDULU"
+  "districtName": "ANYAR",
+  "name": "BANDULU",
+  "postalCode": "42166"
  },
  {
   "id": 3604200002,
   "districtId": 3604200,
-  "name": "SINDANGMANDI"
+  "districtName": "ANYAR",
+  "name": "SINDANGMANDI",
+  "postalCode": "42166"
  },
  {
   "id": 3604200003,
   "districtId": 3604200,
-  "name": "BANJARSARI"
+  "districtName": "ANYAR",
+  "name": "BANJARSARI",
+  "postalCode": "35377"
  },
  {
   "id": 3604200004,
   "districtId": 3604200,
-  "name": "BUNIHARA"
+  "districtName": "ANYAR",
+  "name": "BUNIHARA",
+  "postalCode": "42166"
  },
  {
   "id": 3604200005,
   "districtId": 3604200,
-  "name": "TANJUNGMANIS"
+  "districtName": "ANYAR",
+  "name": "TANJUNGMANIS",
+  "postalCode": "42166"
  },
  {
   "id": 3604200006,
   "districtId": 3604200,
-  "name": "CIKONENG"
+  "districtName": "ANYAR",
+  "name": "CIKONENG",
+  "postalCode": "46261"
  },
  {
   "id": 3604200007,
   "districtId": 3604200,
-  "name": "ANYAR"
+  "districtName": "ANYAR",
+  "name": "ANYAR",
+  "postalCode": "32361"
  },
  {
   "id": 3604200008,
   "districtId": 3604200,
-  "name": "KOSAMBI RONYOK"
+  "districtName": "ANYAR",
+  "name": "KOSAMBI RONYOK",
+  "postalCode": "42166"
  },
  {
   "id": 3604200009,
   "districtId": 3604200,
-  "name": "SINDANGKARYA"
+  "districtName": "ANYAR",
+  "name": "SINDANGKARYA",
+  "postalCode": "41358"
  },
  {
   "id": 3604200010,
   "districtId": 3604200,
-  "name": "MEKARSARI"
+  "districtName": "ANYAR",
+  "name": "MEKARSARI",
+  "postalCode": "37482"
  },
  {
   "id": 3604200011,
   "districtId": 3604200,
-  "name": "TAMBANG AYAM"
+  "districtName": "ANYAR",
+  "name": "TAMBANG AYAM",
+  "postalCode": "42166"
  },
  {
   "id": 3604200012,
   "districtId": 3604200,
-  "name": "GROGOL INDAH"
+  "districtName": "ANYAR",
+  "name": "GROGOL INDAH",
+  "postalCode": "42166"
  }
 ]

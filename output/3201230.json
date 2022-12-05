@@ -2,46 +2,64 @@
  {
   "id": 3201230006,
   "districtId": 3201230,
-  "name": "SEMPLAK BARAT"
+  "districtName": "KEMANG",
+  "name": "SEMPLAK BARAT",
+  "postalCode": "16310"
  },
  {
   "id": 3201230007,
   "districtId": 3201230,
-  "name": "ATANG SENJAYA"
+  "districtName": "KEMANG",
+  "name": "ATANG SENJAYA",
+  "postalCode": "16310"
  },
  {
   "id": 3201230008,
   "districtId": 3201230,
-  "name": "PARAKAN JAYA"
+  "districtName": "KEMANG",
+  "name": "PARAKAN JAYA",
+  "postalCode": "16310"
  },
  {
   "id": 3201230009,
   "districtId": 3201230,
-  "name": "BOJONG"
+  "districtName": "KEMANG",
+  "name": "BOJONG",
+  "postalCode": "34385"
  },
  {
   "id": 3201230010,
   "districtId": 3201230,
-  "name": "KEMANG"
+  "districtName": "KEMANG",
+  "name": "KEMANG",
+  "postalCode": "28382"
  },
  {
   "id": 3201230011,
   "districtId": 3201230,
-  "name": "PABUARAN"
+  "districtName": "KEMANG",
+  "name": "PABUARAN",
+  "postalCode": "16921"
  },
  {
   "id": 3201230013,
   "districtId": 3201230,
-  "name": "TEGAL"
+  "districtName": "KEMANG",
+  "name": "TEGAL",
+  "postalCode": "16310"
  },
  {
   "id": 3201230014,
   "districtId": 3201230,
-  "name": "PONDOK UDIK"
+  "districtName": "KEMANG",
+  "name": "PONDOK UDIK",
+  "postalCode": "16310"
  },
  {
   "id": 3201230015,
   "districtId": 3201230,
-  "name": "JAMPANG"
+  "districtName": "KEMANG",
+  "name": "JAMPANG",
+  "postalCode": "16340"
  }
 ]

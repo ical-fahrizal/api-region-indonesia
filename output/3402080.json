@@ -2,21 +2,29 @@
  {
   "id": 3402080001,
   "districtId": 3402080,
-  "name": "PATALAN"
+  "districtName": "JETIS",
+  "name": "PATALAN",
+  "postalCode": "58219"
  },
  {
   "id": 3402080002,
   "districtId": 3402080,
-  "name": "CANDEN"
+  "districtName": "JETIS",
+  "name": "CANDEN",
+  "postalCode": "57376"
  },
  {
   "id": 3402080003,
   "districtId": 3402080,
-  "name": "SUMBER AGUNG"
+  "districtName": "JETIS",
+  "name": "SUMBER AGUNG",
+  "postalCode": "37353"
  },
  {
   "id": 3402080004,
   "districtId": 3402080,
-  "name": "TRIMULYO"
+  "districtName": "JETIS",
+  "name": "TRIMULYO",
+  "postalCode": "34871"
  }
 ]

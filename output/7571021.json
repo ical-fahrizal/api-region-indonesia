@@ -2,31 +2,43 @@
  {
   "id": 7571021006,
   "districtId": 7571021,
-  "name": "PADEBUOLO"
+  "districtName": "KOTA TIMUR",
+  "name": "PADEBUOLO",
+  "postalCode": "96113"
  },
  {
   "id": 7571021007,
   "districtId": 7571021,
-  "name": "IPILO"
+  "districtName": "KOTA TIMUR",
+  "name": "IPILO",
+  "postalCode": "96253"
  },
  {
   "id": 7571021008,
   "districtId": 7571021,
-  "name": "TAMALATE"
+  "districtName": "KOTA TIMUR",
+  "name": "TAMALATE",
+  "postalCode": "92255"
  },
  {
   "id": 7571021009,
   "districtId": 7571021,
-  "name": "MOODU"
+  "districtName": "KOTA TIMUR",
+  "name": "MOODU",
+  "postalCode": "96113"
  },
  {
   "id": 7571021010,
   "districtId": 7571021,
-  "name": "HELEDULAA SELATAN"
+  "districtName": "KOTA TIMUR",
+  "name": "HELEDULAA SELATAN",
+  "postalCode": "96114"
  },
  {
   "id": 7571021011,
   "districtId": 7571021,
-  "name": "HELEDULAA"
+  "districtName": "KOTA TIMUR",
+  "name": "HELEDULAA",
+  "postalCode": ""
  }
 ]

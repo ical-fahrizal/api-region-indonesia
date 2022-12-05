@@ -2,116 +2,162 @@
  {
   "id": 1203100001,
   "districtId": 1203100,
-  "name": "HAPESONG LAMA"
+  "districtName": "BATANG TORU",
+  "name": "HAPESONG LAMA",
+  "postalCode": "22738"
  },
  {
   "id": 1203100002,
   "districtId": 1203100,
-  "name": "PERK HAPESONG"
+  "districtName": "BATANG TORU",
+  "name": "PERK HAPESONG",
+  "postalCode": ""
  },
  {
   "id": 1203100003,
   "districtId": 1203100,
-  "name": "PADANG LANCAT"
+  "districtName": "BATANG TORU",
+  "name": "PADANG LANCAT",
+  "postalCode": "22738"
  },
  {
   "id": 1203100009,
   "districtId": 1203100,
-  "name": "SIANGGUNAN"
+  "districtName": "BATANG TORU",
+  "name": "SIANGGUNAN",
+  "postalCode": "22738"
  },
  {
   "id": 1203100010,
   "districtId": 1203100,
-  "name": "HUTABARU"
+  "districtName": "BATANG TORU",
+  "name": "HUTABARU",
+  "postalCode": "22738"
  },
  {
   "id": 1203100017,
   "districtId": 1203100,
-  "name": "SIPENGGENG"
+  "districtName": "BATANG TORU",
+  "name": "SIPENGGENG",
+  "postalCode": "22738"
  },
  {
   "id": 1203100018,
   "districtId": 1203100,
-  "name": "HAPESONG BARU"
+  "districtName": "BATANG TORU",
+  "name": "HAPESONG BARU",
+  "postalCode": "22738"
  },
  {
   "id": 1203100019,
   "districtId": 1203100,
-  "name": "PERKEBUNAN SIGALA-GALA"
+  "districtName": "BATANG TORU",
+  "name": "PERKEBUNAN SIGALA-GALA",
+  "postalCode": ""
  },
  {
   "id": 1203100025,
   "districtId": 1203100,
-  "name": "PERK BATANG TORU"
+  "districtName": "BATANG TORU",
+  "name": "PERK BATANG TORU",
+  "postalCode": ""
  },
  {
   "id": 1203100026,
   "districtId": 1203100,
-  "name": "TELO"
+  "districtName": "BATANG TORU",
+  "name": "TELO",
+  "postalCode": "22738"
  },
  {
   "id": 1203100027,
   "districtId": 1203100,
-  "name": "WEK III BATANG TORU"
+  "districtName": "BATANG TORU",
+  "name": "WEK III BATANG TORU",
+  "postalCode": "22738"
  },
  {
   "id": 1203100028,
   "districtId": 1203100,
-  "name": "WEK II"
+  "districtName": "BATANG TORU",
+  "name": "WEK II",
+  "postalCode": "22718"
  },
  {
   "id": 1203100029,
   "districtId": 1203100,
-  "name": "WEK I"
+  "districtName": "BATANG TORU",
+  "name": "WEK I",
+  "postalCode": "22715"
  },
  {
   "id": 1203100035,
   "districtId": 1203100,
-  "name": "WEK IV BATANG TORU"
+  "districtName": "BATANG TORU",
+  "name": "WEK IV BATANG TORU",
+  "postalCode": "22738"
  },
  {
   "id": 1203100036,
   "districtId": 1203100,
-  "name": "NAPA"
+  "districtName": "BATANG TORU",
+  "name": "NAPA",
+  "postalCode": "22732"
  },
  {
   "id": 1203100037,
   "districtId": 1203100,
-  "name": "AEK PINING"
+  "districtName": "BATANG TORU",
+  "name": "AEK PINING",
+  "postalCode": "22738"
  },
  {
   "id": 1203100038,
   "districtId": 1203100,
-  "name": "SUMURAN"
+  "districtName": "BATANG TORU",
+  "name": "SUMURAN",
+  "postalCode": "22738"
  },
  {
   "id": 1203100058,
   "districtId": 1203100,
-  "name": "BATU HULA"
+  "districtName": "BATANG TORU",
+  "name": "BATU HULA",
+  "postalCode": "22738"
  },
  {
   "id": 1203100061,
   "districtId": 1203100,
-  "name": "HUTA GODANG"
+  "districtName": "BATANG TORU",
+  "name": "HUTA GODANG",
+  "postalCode": "22738"
  },
  {
   "id": 1203100062,
   "districtId": 1203100,
-  "name": "GAROGA"
+  "districtName": "BATANG TORU",
+  "name": "GAROGA",
+  "postalCode": "22738"
  },
  {
   "id": 1203100063,
   "districtId": 1203100,
-  "name": "BATU HORING"
+  "districtName": "BATANG TORU",
+  "name": "BATU HORING",
+  "postalCode": "22738"
  },
  {
   "id": 1203100064,
   "districtId": 1203100,
-  "name": "AEK NGADOL NAULI"
+  "districtName": "BATANG TORU",
+  "name": "AEK NGADOL NAULI",
+  "postalCode": ""
  },
  {
   "id": 1203100065,
   "districtId": 1203100,
-  "name": "SISIPA"
+  "districtName": "BATANG TORU",
+  "name": "SISIPA",
+  "postalCode": "22738"
  }
 ]

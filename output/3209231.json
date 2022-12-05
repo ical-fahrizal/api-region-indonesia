@@ -2,46 +2,64 @@
  {
   "id": 3209231001,
   "districtId": 3209231,
-  "name": "KALIDERES"
+  "districtName": "KALIWEDI",
+  "name": "KALIDERES",
+  "postalCode": "11840"
  },
  {
   "id": 3209231002,
   "districtId": 3209231,
-  "name": "PRAJAWINANGUN WETAN"
+  "districtName": "KALIWEDI",
+  "name": "PRAJAWINANGUN WETAN",
+  "postalCode": "45165"
  },
  {
   "id": 3209231003,
   "districtId": 3209231,
-  "name": "PRAJAWINANGUN KULON"
+  "districtName": "KALIWEDI",
+  "name": "PRAJAWINANGUN KULON",
+  "postalCode": "45165"
  },
  {
   "id": 3209231004,
   "districtId": 3209231,
-  "name": "KALIWEDI KIDUL"
+  "districtName": "KALIWEDI",
+  "name": "KALIWEDI KIDUL",
+  "postalCode": "45165"
  },
  {
   "id": 3209231005,
   "districtId": 3209231,
-  "name": "KALIWEDI LOR"
+  "districtName": "KALIWEDI",
+  "name": "KALIWEDI LOR",
+  "postalCode": "45165"
  },
  {
   "id": 3209231006,
   "districtId": 3209231,
-  "name": "UJUNGSEMI"
+  "districtName": "KALIWEDI",
+  "name": "UJUNGSEMI",
+  "postalCode": "45165"
  },
  {
   "id": 3209231007,
   "districtId": 3209231,
-  "name": "WARGABINANGUN"
+  "districtName": "KALIWEDI",
+  "name": "WARGABINANGUN",
+  "postalCode": "45165"
  },
  {
   "id": 3209231008,
   "districtId": 3209231,
-  "name": "GUWA KIDUL"
+  "districtName": "KALIWEDI",
+  "name": "GUWA KIDUL",
+  "postalCode": "45165"
  },
  {
   "id": 3209231009,
   "districtId": 3209231,
-  "name": "GUWA LOR"
+  "districtName": "KALIWEDI",
+  "name": "GUWA LOR",
+  "postalCode": "45165"
  }
 ]

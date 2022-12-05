@@ -2,71 +2,99 @@
  {
   "id": 1202055001,
   "districtId": 1202055,
-  "name": "HUTA BARGOT DOLOK"
+  "districtName": "HUTA BARGOT",
+  "name": "HUTA BARGOT DOLOK",
+  "postalCode": "22978"
  },
  {
   "id": 1202055002,
   "districtId": 1202055,
-  "name": "HUTA BARGOT NAULI"
+  "districtName": "HUTA BARGOT",
+  "name": "HUTA BARGOT NAULI",
+  "postalCode": "22978"
  },
  {
   "id": 1202055003,
   "districtId": 1202055,
-  "name": "PASAR HUTA BARGOT"
+  "districtName": "HUTA BARGOT",
+  "name": "PASAR HUTA BARGOT",
+  "postalCode": "22978"
  },
  {
   "id": 1202055004,
   "districtId": 1202055,
-  "name": "BANGUN SEJATI"
+  "districtName": "HUTA BARGOT",
+  "name": "BANGUN SEJATI",
+  "postalCode": "22978"
  },
  {
   "id": 1202055005,
   "districtId": 1202055,
-  "name": "HUTA BARGOT LOMBANG"
+  "districtName": "HUTA BARGOT",
+  "name": "HUTA BARGOT LOMBANG",
+  "postalCode": "22978"
  },
  {
   "id": 1202055006,
   "districtId": 1202055,
-  "name": "HUTA BARGOT SETIA"
+  "districtName": "HUTA BARGOT",
+  "name": "HUTA BARGOT SETIA",
+  "postalCode": "22978"
  },
  {
   "id": 1202055007,
   "districtId": 1202055,
-  "name": "MONDAN"
+  "districtName": "HUTA BARGOT",
+  "name": "MONDAN",
+  "postalCode": "22978"
  },
  {
   "id": 1202055008,
   "districtId": 1202055,
-  "name": "SAYUR MAINCAT"
+  "districtName": "HUTA BARGOT",
+  "name": "SAYUR MAINCAT",
+  "postalCode": "22978"
  },
  {
   "id": 1202055009,
   "districtId": 1202055,
-  "name": "SIMALAGI"
+  "districtName": "HUTA BARGOT",
+  "name": "SIMALAGI",
+  "postalCode": ""
  },
  {
   "id": 1202055010,
   "districtId": 1202055,
-  "name": "HUTARIMBARU"
+  "districtName": "HUTA BARGOT",
+  "name": "HUTARIMBARU",
+  "postalCode": "22763"
  },
  {
   "id": 1202055011,
   "districtId": 1202055,
-  "name": "KUMPULAN SETIA"
+  "districtName": "HUTA BARGOT",
+  "name": "KUMPULAN SETIA",
+  "postalCode": ""
  },
  {
   "id": 1202055012,
   "districtId": 1202055,
-  "name": "HUTANAINGKAN"
+  "districtName": "HUTA BARGOT",
+  "name": "HUTANAINGKAN",
+  "postalCode": "22978"
  },
  {
   "id": 1202055013,
   "districtId": 1202055,
-  "name": "BINANGA"
+  "districtName": "HUTA BARGOT",
+  "name": "BINANGA",
+  "postalCode": "24786"
  },
  {
   "id": 1202055014,
   "districtId": 1202055,
-  "name": "SABA PADANG"
+  "districtName": "HUTA BARGOT",
+  "name": "SABA PADANG",
+  "postalCode": ""
  }
 ]

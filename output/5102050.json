@@ -2,66 +2,92 @@
  {
   "id": 5102050001,
   "districtId": 5102050,
-  "name": "TEGALJADI"
+  "districtName": "MARGA",
+  "name": "TEGALJADI",
+  "postalCode": "82181"
  },
  {
   "id": 5102050003,
   "districtId": 5102050,
-  "name": "BERINGKIT BELAYU"
+  "districtName": "MARGA",
+  "name": "BERINGKIT BELAYU",
+  "postalCode": ""
  },
  {
   "id": 5102050004,
   "districtId": 5102050,
-  "name": "PEKEN BELAYU"
+  "districtName": "MARGA",
+  "name": "PEKEN BELAYU",
+  "postalCode": "82181"
  },
  {
   "id": 5102050005,
   "districtId": 5102050,
-  "name": "BATANNYUH"
+  "districtName": "MARGA",
+  "name": "BATANNYUH",
+  "postalCode": "82181"
  },
  {
   "id": 5102050007,
   "districtId": 5102050,
-  "name": "CAUBELAYU"
+  "districtName": "MARGA",
+  "name": "CAUBELAYU",
+  "postalCode": "82181"
  },
  {
   "id": 5102050008,
   "districtId": 5102050,
-  "name": "SELANBAWAK"
+  "districtName": "MARGA",
+  "name": "SELANBAWAK",
+  "postalCode": "82181"
  },
  {
   "id": 5102050009,
   "districtId": 5102050,
-  "name": "MARGA"
+  "districtName": "MARGA",
+  "name": "MARGA",
+  "postalCode": "82181"
  },
  {
   "id": 5102050010,
   "districtId": 5102050,
-  "name": "PETIGA"
+  "districtName": "MARGA",
+  "name": "PETIGA",
+  "postalCode": "82181"
  },
  {
   "id": 5102050011,
   "districtId": 5102050,
-  "name": "TUA"
+  "districtName": "MARGA",
+  "name": "TUA",
+  "postalCode": "82181"
  },
  {
   "id": 5102050012,
   "districtId": 5102050,
-  "name": "PAYANGAN"
+  "districtName": "MARGA",
+  "name": "PAYANGAN",
+  "postalCode": "82181"
  },
  {
   "id": 5102050013,
   "districtId": 5102050,
-  "name": "DAUH PURI"
+  "districtName": "MARGA",
+  "name": "DAUH PURI",
+  "postalCode": "80113"
  },
  {
   "id": 5102050014,
   "districtId": 5102050,
-  "name": "DAJAN PURI"
+  "districtName": "MARGA",
+  "name": "DAJAN PURI",
+  "postalCode": ""
  },
  {
   "id": 5102050016,
   "districtId": 5102050,
-  "name": "BARU"
+  "districtName": "MARGA",
+  "name": "BARU",
+  "postalCode": "23764"
  }
 ]

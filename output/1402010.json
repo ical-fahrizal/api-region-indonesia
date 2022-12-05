@@ -2,61 +2,85 @@
  {
   "id": 1402010006,
   "districtId": 1402010,
-  "name": "SEMELINANG TEBING"
+  "districtName": "PERANAP",
+  "name": "SEMELINANG TEBING",
+  "postalCode": "29354"
  },
  {
   "id": 1402010007,
   "districtId": 1402010,
-  "name": "PAUH RANAP"
+  "districtName": "PERANAP",
+  "name": "PAUH RANAP",
+  "postalCode": ""
  },
  {
   "id": 1402010010,
   "districtId": 1402010,
-  "name": "BATURIJAL HULU"
+  "districtName": "PERANAP",
+  "name": "BATURIJAL HULU",
+  "postalCode": "29354"
  },
  {
   "id": 1402010011,
   "districtId": 1402010,
-  "name": "BATURIJAL HILIR"
+  "districtName": "PERANAP",
+  "name": "BATURIJAL HILIR",
+  "postalCode": "29354"
  },
  {
   "id": 1402010012,
   "districtId": 1402010,
-  "name": "PERANAP"
+  "districtName": "PERANAP",
+  "name": "PERANAP",
+  "postalCode": "29354"
  },
  {
   "id": 1402010013,
   "districtId": 1402010,
-  "name": "GUMANTI"
+  "districtName": "PERANAP",
+  "name": "GUMANTI",
+  "postalCode": "29354"
  },
  {
   "id": 1402010014,
   "districtId": 1402010,
-  "name": "SEMELINANG DARAT"
+  "districtName": "PERANAP",
+  "name": "SEMELINANG DARAT",
+  "postalCode": ""
  },
  {
   "id": 1402010015,
   "districtId": 1402010,
-  "name": "PANDAN WANGI"
+  "districtName": "PERANAP",
+  "name": "PANDAN WANGI",
+  "postalCode": "29354"
  },
  {
   "id": 1402010016,
   "districtId": 1402010,
-  "name": "SERAI WANGI"
+  "districtName": "PERANAP",
+  "name": "SERAI WANGI",
+  "postalCode": "29354"
  },
  {
   "id": 1402010017,
   "districtId": 1402010,
-  "name": "KATIPO PURA"
+  "districtName": "PERANAP",
+  "name": "KATIPO PURA",
+  "postalCode": ""
  },
  {
   "id": 1402010018,
   "districtId": 1402010,
-  "name": "SETAKO RAYA"
+  "districtName": "PERANAP",
+  "name": "SETAKO RAYA",
+  "postalCode": ""
  },
  {
   "id": 1402010019,
   "districtId": 1402010,
-  "name": "BATURIJAL BARAT"
+  "districtName": "PERANAP",
+  "name": "BATURIJAL BARAT",
+  "postalCode": ""
  }
 ]

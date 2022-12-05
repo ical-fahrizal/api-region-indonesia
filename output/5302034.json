@@ -2,31 +2,43 @@
  {
   "id": 5302034001,
   "districtId": 5302034,
-  "name": "PATAMAWAI"
+  "districtName": "MAHU",
+  "name": "PATAMAWAI",
+  "postalCode": "87171"
  },
  {
   "id": 5302034002,
   "districtId": 5302034,
-  "name": "LA HIRU"
+  "districtName": "MAHU",
+  "name": "LA HIRU",
+  "postalCode": "87171"
  },
  {
   "id": 5302034003,
   "districtId": 5302034,
-  "name": "WAIRARA"
+  "districtName": "MAHU",
+  "name": "WAIRARA",
+  "postalCode": "87171"
  },
  {
   "id": 5302034004,
   "districtId": 5302034,
-  "name": "PRAI KALALA"
+  "districtName": "MAHU",
+  "name": "PRAI KALALA",
+  "postalCode": ""
  },
  {
   "id": 5302034005,
   "districtId": 5302034,
-  "name": "LULUNDILU"
+  "districtName": "MAHU",
+  "name": "LULUNDILU",
+  "postalCode": ""
  },
  {
   "id": 5302034006,
   "districtId": 5302034,
-  "name": "HARAY"
+  "districtName": "MAHU",
+  "name": "HARAY",
+  "postalCode": ""
  }
 ]

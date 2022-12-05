@@ -2,71 +2,99 @@
  {
   "id": 3308070001,
   "districtId": 3308070,
-  "name": "TANJUNG"
+  "districtName": "MUNTILAN",
+  "name": "TANJUNG",
+  "postalCode": "24562"
  },
  {
   "id": 3308070002,
   "districtId": 3308070,
-  "name": "SOKORINI"
+  "districtName": "MUNTILAN",
+  "name": "SOKORINI",
+  "postalCode": "56415"
  },
  {
   "id": 3308070003,
   "districtId": 3308070,
-  "name": "SRIWEDARI"
+  "districtName": "MUNTILAN",
+  "name": "SRIWEDARI",
+  "postalCode": "35363"
  },
  {
   "id": 3308070004,
   "districtId": 3308070,
-  "name": "CONGKRANG"
+  "districtName": "MUNTILAN",
+  "name": "CONGKRANG",
+  "postalCode": "56258"
  },
  {
   "id": 3308070005,
   "districtId": 3308070,
-  "name": "ADIKARTO"
+  "districtName": "MUNTILAN",
+  "name": "ADIKARTO",
+  "postalCode": "54363"
  },
  {
   "id": 3308070006,
   "districtId": 3308070,
-  "name": "MENAYU"
+  "districtName": "MUNTILAN",
+  "name": "MENAYU",
+  "postalCode": "56415"
  },
  {
   "id": 3308070007,
   "districtId": 3308070,
-  "name": "KEJI"
+  "districtName": "MUNTILAN",
+  "name": "KEJI",
+  "postalCode": "56415"
  },
  {
   "id": 3308070008,
   "districtId": 3308070,
-  "name": "NGAWEN"
+  "districtName": "MUNTILAN",
+  "name": "NGAWEN",
+  "postalCode": "59157"
  },
  {
   "id": 3308070009,
   "districtId": 3308070,
-  "name": "GUNUNGPRING"
+  "districtName": "MUNTILAN",
+  "name": "GUNUNGPRING",
+  "postalCode": "56415"
  },
  {
   "id": 3308070010,
   "districtId": 3308070,
-  "name": "PUCUNGREJO"
+  "districtName": "MUNTILAN",
+  "name": "PUCUNGREJO",
+  "postalCode": "56414"
  },
  {
   "id": 3308070011,
   "districtId": 3308070,
-  "name": "TAMANAGUNG"
+  "districtName": "MUNTILAN",
+  "name": "TAMANAGUNG",
+  "postalCode": "56413"
  },
  {
   "id": 3308070012,
   "districtId": 3308070,
-  "name": "GONDOSULI"
+  "districtName": "MUNTILAN",
+  "name": "GONDOSULI",
+  "postalCode": "56253"
  },
  {
   "id": 3308070013,
   "districtId": 3308070,
-  "name": "SEDAYU"
+  "districtName": "MUNTILAN",
+  "name": "SEDAYU",
+  "postalCode": "35386"
  },
  {
   "id": 3308070014,
   "districtId": 3308070,
-  "name": "MUNTILAN"
+  "districtName": "MUNTILAN",
+  "name": "MUNTILAN",
+  "postalCode": "56411"
  }
 ]

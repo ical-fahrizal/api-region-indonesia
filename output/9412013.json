@@ -2,31 +2,43 @@
  {
   "id": 9412013001,
   "districtId": 9412013,
-  "name": "IPIRI"
+  "districtName": "AMAR",
+  "name": "IPIRI",
+  "postalCode": ""
  },
  {
   "id": 9412013002,
   "districtId": 9412013,
-  "name": "PARIPI"
+  "districtName": "AMAR",
+  "name": "PARIPI",
+  "postalCode": "99973"
  },
  {
   "id": 9412013003,
   "districtId": 9412013,
-  "name": "YARAYA"
+  "districtName": "AMAR",
+  "name": "YARAYA",
+  "postalCode": "99973"
  },
  {
   "id": 9412013004,
   "districtId": 9412013,
-  "name": "AMAR"
+  "districtName": "AMAR",
+  "name": "AMAR",
+  "postalCode": "99973"
  },
  {
   "id": 9412013005,
   "districtId": 9412013,
-  "name": "KAWAR"
+  "districtName": "AMAR",
+  "name": "KAWAR",
+  "postalCode": ""
  },
  {
   "id": 9412013006,
   "districtId": 9412013,
-  "name": "MANUARE"
+  "districtName": "AMAR",
+  "name": "MANUARE",
+  "postalCode": ""
  }
 ]

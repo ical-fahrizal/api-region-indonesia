@@ -2,41 +2,57 @@
  {
   "id": 6110041001,
   "districtId": 6110041,
-  "name": "NANGA RAYA"
+  "districtName": "BELIMBING HULU",
+  "name": "NANGA RAYA",
+  "postalCode": "79671"
  },
  {
   "id": 6110041002,
   "districtId": 6110041,
-  "name": "KAYU BUNGA"
+  "districtName": "BELIMBING HULU",
+  "name": "KAYU BUNGA",
+  "postalCode": "79671"
  },
  {
   "id": 6110041003,
   "districtId": 6110041,
-  "name": "NANGA KEBERAK"
+  "districtName": "BELIMBING HULU",
+  "name": "NANGA KEBERAK",
+  "postalCode": ""
  },
  {
   "id": 6110041004,
   "districtId": 6110041,
-  "name": "PIAWAS"
+  "districtName": "BELIMBING HULU",
+  "name": "PIAWAS",
+  "postalCode": "79671"
  },
  {
   "id": 6110041005,
   "districtId": 6110041,
-  "name": "JUNJUNG PERMAI"
+  "districtName": "BELIMBING HULU",
+  "name": "JUNJUNG PERMAI",
+  "postalCode": "79671"
  },
  {
   "id": 6110041006,
   "districtId": 6110041,
-  "name": "NANGA TIKAN"
+  "districtName": "BELIMBING HULU",
+  "name": "NANGA TIKAN",
+  "postalCode": "79671"
  },
  {
   "id": 6110041007,
   "districtId": 6110041,
-  "name": "TIONG KERANJIK"
+  "districtName": "BELIMBING HULU",
+  "name": "TIONG KERANJIK",
+  "postalCode": "79671"
  },
  {
   "id": 6110041008,
   "districtId": 6110041,
-  "name": "BELOYANG"
+  "districtName": "BELIMBING HULU",
+  "name": "BELOYANG",
+  "postalCode": "79671"
  }
 ]

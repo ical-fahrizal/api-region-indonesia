@@ -2,46 +2,64 @@
  {
   "id": 3205110005,
   "districtId": 3205110,
-  "name": "SINGAJAYA"
+  "districtName": "SINGAJAYA",
+  "name": "SINGAJAYA",
+  "postalCode": "46185"
  },
  {
   "id": 3205110006,
   "districtId": 3205110,
-  "name": "KARANGAGUNG"
+  "districtName": "SINGAJAYA",
+  "name": "KARANGAGUNG",
+  "postalCode": "44173"
  },
  {
   "id": 3205110007,
   "districtId": 3205110,
-  "name": "MEKARTANI"
+  "districtName": "SINGAJAYA",
+  "name": "MEKARTANI",
+  "postalCode": "43183"
  },
  {
   "id": 3205110008,
   "districtId": 3205110,
-  "name": "CIGINTUNG"
+  "districtName": "SINGAJAYA",
+  "name": "CIGINTUNG",
+  "postalCode": "45363"
  },
  {
   "id": 3205110009,
   "districtId": 3205110,
-  "name": "SUKAWANGI"
+  "districtName": "SINGAJAYA",
+  "name": "SUKAWANGI",
+  "postalCode": "35376"
  },
  {
   "id": 3205110010,
   "districtId": 3205110,
-  "name": "PANCASURA"
+  "districtName": "SINGAJAYA",
+  "name": "PANCASURA",
+  "postalCode": "44173"
  },
  {
   "id": 3205110011,
   "districtId": 3205110,
-  "name": "SUKAMULYA"
+  "districtName": "SINGAJAYA",
+  "name": "SUKAMULYA",
+  "postalCode": "30657"
  },
  {
   "id": 3205110012,
   "districtId": 3205110,
-  "name": "GIRIMUKTI"
+  "districtName": "SINGAJAYA",
+  "name": "GIRIMUKTI",
+  "postalCode": "46475"
  },
  {
   "id": 3205110013,
   "districtId": 3205110,
-  "name": "CIUDIAN"
+  "districtName": "SINGAJAYA",
+  "name": "CIUDIAN",
+  "postalCode": "44173"
  }
 ]

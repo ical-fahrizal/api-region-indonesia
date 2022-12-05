@@ -2,21 +2,29 @@
  {
   "id": 1307021001,
   "districtId": 1307021,
-  "name": "BAWAN"
+  "districtName": "AMPEK NAGARI",
+  "name": "BAWAN",
+  "postalCode": "24782"
  },
  {
   "id": 1307021002,
   "districtId": 1307021,
-  "name": "SITANANG"
+  "districtName": "AMPEK NAGARI",
+  "name": "SITANANG",
+  "postalCode": "26161"
  },
  {
   "id": 1307021003,
   "districtId": 1307021,
-  "name": "BATU KAMBING"
+  "districtName": "AMPEK NAGARI",
+  "name": "BATU KAMBING",
+  "postalCode": "26161"
  },
  {
   "id": 1307021004,
   "districtId": 1307021,
-  "name": "SITALANG"
+  "districtName": "AMPEK NAGARI",
+  "name": "SITALANG",
+  "postalCode": "26161"
  }
 ]

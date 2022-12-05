@@ -2,41 +2,57 @@
  {
   "id": 6304120001,
   "districtId": 6304120,
-  "name": "SUNGAI RASAU"
+  "districtName": "CERBON",
+  "name": "SUNGAI RASAU",
+  "postalCode": "30653"
  },
  {
   "id": 6304120002,
   "districtId": 6304120,
-  "name": "SUNGAI TUNJANG"
+  "districtName": "CERBON",
+  "name": "SUNGAI TUNJANG",
+  "postalCode": ""
  },
  {
   "id": 6304120003,
   "districtId": 6304120,
-  "name": "SIMPANG NUNGKI"
+  "districtName": "CERBON",
+  "name": "SIMPANG NUNGKI",
+  "postalCode": "70571"
  },
  {
   "id": 6304120004,
   "districtId": 6304120,
-  "name": "SAWAHAN"
+  "districtName": "CERBON",
+  "name": "SAWAHAN",
+  "postalCode": "25121"
  },
  {
   "id": 6304120005,
   "districtId": 6304120,
-  "name": "BANTUIL"
+  "districtName": "CERBON",
+  "name": "BANTUIL",
+  "postalCode": "70571"
  },
  {
   "id": 6304120006,
   "districtId": 6304120,
-  "name": "BADANDAN"
+  "districtName": "CERBON",
+  "name": "BADANDAN",
+  "postalCode": "70571"
  },
  {
   "id": 6304120007,
   "districtId": 6304120,
-  "name": "SUNGAI RAYA"
+  "districtName": "CERBON",
+  "name": "SUNGAI RAYA",
+  "postalCode": "22254"
  },
  {
   "id": 6304120008,
   "districtId": 6304120,
-  "name": "SUNGAI KAMBAT"
+  "districtName": "CERBON",
+  "name": "SUNGAI KAMBAT",
+  "postalCode": ""
  }
 ]

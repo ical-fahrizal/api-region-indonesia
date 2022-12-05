@@ -2,31 +2,43 @@
  {
   "id": 9416046001,
   "districtId": 9416046,
-  "name": "KAYO"
+  "districtName": "KAYO",
+  "name": "KAYO",
+  "postalCode": "99571"
  },
  {
   "id": 9416046002,
   "districtId": 9416046,
-  "name": "MOLAMA"
+  "districtName": "KAYO",
+  "name": "MOLAMA",
+  "postalCode": "99571"
  },
  {
   "id": 9416046004,
   "districtId": 9416046,
-  "name": "WALET"
+  "districtName": "KAYO",
+  "name": "WALET",
+  "postalCode": "99571"
  },
  {
   "id": 9416046005,
   "districtId": 9416046,
-  "name": "UASE"
+  "districtName": "KAYO",
+  "name": "UASE",
+  "postalCode": "99571"
  },
  {
   "id": 9416046006,
   "districtId": 9416046,
-  "name": "HOMBESALOMA"
+  "districtName": "KAYO",
+  "name": "HOMBESALOMA",
+  "postalCode": "99571"
  },
  {
   "id": 9416046007,
   "districtId": 9416046,
-  "name": "ALHAI"
+  "districtName": "KAYO",
+  "name": "ALHAI",
+  "postalCode": "99571"
  }
 ]

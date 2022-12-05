@@ -2,86 +2,120 @@
  {
   "id": 3318150001,
   "districtId": 3318150,
-  "name": "BUMIAYU"
+  "districtName": "WEDARIJAKSA",
+  "name": "BUMIAYU",
+  "postalCode": "31314"
  },
  {
   "id": 3318150002,
   "districtId": 3318150,
-  "name": "MARGOREJO"
+  "districtName": "WEDARIJAKSA",
+  "name": "MARGOREJO",
+  "postalCode": "32386"
  },
  {
   "id": 3318150003,
   "districtId": 3318150,
-  "name": "SUKOHARJO"
+  "districtName": "WEDARIJAKSA",
+  "name": "SUKOHARJO",
+  "postalCode": "32383"
  },
  {
   "id": 3318150004,
   "districtId": 3318150,
-  "name": "TAWANGHARJO"
+  "districtName": "WEDARIJAKSA",
+  "name": "TAWANGHARJO",
+  "postalCode": "57675"
  },
  {
   "id": 3318150005,
   "districtId": 3318150,
-  "name": "NGURENSITI"
+  "districtName": "WEDARIJAKSA",
+  "name": "NGURENSITI",
+  "postalCode": "59152"
  },
  {
   "id": 3318150006,
   "districtId": 3318150,
-  "name": "BANGSALREJO"
+  "districtName": "WEDARIJAKSA",
+  "name": "BANGSALREJO",
+  "postalCode": "59152"
  },
  {
   "id": 3318150008,
   "districtId": 3318150,
-  "name": "SIDOHARJO"
+  "districtName": "WEDARIJAKSA",
+  "name": "SIDOHARJO",
+  "postalCode": "30975"
  },
  {
   "id": 3318150009,
   "districtId": 3318150,
-  "name": "NGURENREJO"
+  "districtName": "WEDARIJAKSA",
+  "name": "NGURENREJO",
+  "postalCode": "59152"
  },
  {
   "id": 3318150010,
   "districtId": 3318150,
-  "name": "JONTRO"
+  "districtName": "WEDARIJAKSA",
+  "name": "JONTRO",
+  "postalCode": "59152"
  },
  {
   "id": 3318150011,
   "districtId": 3318150,
-  "name": "PANGGUNGROYOM"
+  "districtName": "WEDARIJAKSA",
+  "name": "PANGGUNGROYOM",
+  "postalCode": "59152"
  },
  {
   "id": 3318150012,
   "districtId": 3318150,
-  "name": "SUWADUK"
+  "districtName": "WEDARIJAKSA",
+  "name": "SUWADUK",
+  "postalCode": "59152"
  },
  {
   "id": 3318150013,
   "districtId": 3318150,
-  "name": "WEDARIJAKSA"
+  "districtName": "WEDARIJAKSA",
+  "name": "WEDARIJAKSA",
+  "postalCode": "59152"
  },
  {
   "id": 3318150014,
   "districtId": 3318150,
-  "name": "PAGERHARJO"
+  "districtName": "WEDARIJAKSA",
+  "name": "PAGERHARJO",
+  "postalCode": "59152"
  },
  {
   "id": 3318150015,
   "districtId": 3318150,
-  "name": "JATIMULYO"
+  "districtName": "WEDARIJAKSA",
+  "name": "JATIMULYO",
+  "postalCode": "35365"
  },
  {
   "id": 3318150016,
   "districtId": 3318150,
-  "name": "JETAK"
+  "districtName": "WEDARIJAKSA",
+  "name": "JETAK",
+  "postalCode": "50774"
  },
  {
   "id": 3318150017,
   "districtId": 3318150,
-  "name": "KEPOH"
+  "districtName": "WEDARIJAKSA",
+  "name": "KEPOH",
+  "postalCode": "33783"
  },
  {
   "id": 3318150018,
   "districtId": 3318150,
-  "name": "TLOGOHARUM"
+  "districtName": "WEDARIJAKSA",
+  "name": "TLOGOHARUM",
+  "postalCode": "59152"
  }
 ]

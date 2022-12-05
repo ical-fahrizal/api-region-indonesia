@@ -2,41 +2,57 @@
  {
   "id": 6101062001,
   "districtId": 6101062,
-  "name": "SEMATA"
+  "districtName": "TANGARAN",
+  "name": "SEMATA",
+  "postalCode": "79465"
  },
  {
   "id": 6101062002,
   "districtId": 6101062,
-  "name": "TANGARAN"
+  "districtName": "TANGARAN",
+  "name": "TANGARAN",
+  "postalCode": "79465"
  },
  {
   "id": 6101062003,
   "districtId": 6101062,
-  "name": "MERPATI"
+  "districtName": "TANGARAN",
+  "name": "MERPATI",
+  "postalCode": "79465"
  },
  {
   "id": 6101062004,
   "districtId": 6101062,
-  "name": "SIMPANG EMPAT"
+  "districtName": "TANGARAN",
+  "name": "SIMPANG EMPAT",
+  "postalCode": "24313"
  },
  {
   "id": 6101062005,
   "districtId": 6101062,
-  "name": "PANCUR"
+  "districtName": "TANGARAN",
+  "name": "PANCUR",
+  "postalCode": "29274"
  },
  {
   "id": 6101062006,
   "districtId": 6101062,
-  "name": "ARUNG PARAK"
+  "districtName": "TANGARAN",
+  "name": "ARUNG PARAK",
+  "postalCode": "79465"
  },
  {
   "id": 6101062007,
   "districtId": 6101062,
-  "name": "MERABUAN"
+  "districtName": "TANGARAN",
+  "name": "MERABUAN",
+  "postalCode": "79465"
  },
  {
   "id": 6101062008,
   "districtId": 6101062,
-  "name": "ARUNG MEDANG"
+  "districtName": "TANGARAN",
+  "name": "ARUNG MEDANG",
+  "postalCode": ""
  }
 ]

@@ -2,111 +2,155 @@
  {
   "id": 6311060001,
   "districtId": 6311060,
-  "name": "BINUANG SANTANG"
+  "districtName": "HALONG",
+  "name": "BINUANG SANTANG",
+  "postalCode": "71666"
  },
  {
   "id": 6311060002,
   "districtId": 6311060,
-  "name": "MARAJAI"
+  "districtName": "HALONG",
+  "name": "MARAJAI",
+  "postalCode": "71666"
  },
  {
   "id": 6311060003,
   "districtId": 6311060,
-  "name": "MAUYA"
+  "districtName": "HALONG",
+  "name": "MAUYA",
+  "postalCode": "71666"
  },
  {
   "id": 6311060004,
   "districtId": 6311060,
-  "name": "MANTUYAN"
+  "districtName": "HALONG",
+  "name": "MANTUYAN",
+  "postalCode": "71666"
  },
  {
   "id": 6311060005,
   "districtId": 6311060,
-  "name": "TABUAN"
+  "districtName": "HALONG",
+  "name": "TABUAN",
+  "postalCode": "71666"
  },
  {
   "id": 6311060006,
   "districtId": 6311060,
-  "name": "BUNTUT PILANDUK"
+  "districtName": "HALONG",
+  "name": "BUNTUT PILANDUK",
+  "postalCode": "71666"
  },
  {
   "id": 6311060008,
   "districtId": 6311060,
-  "name": "MAMANTANG"
+  "districtName": "HALONG",
+  "name": "MAMANTANG",
+  "postalCode": "71666"
  },
  {
   "id": 6311060009,
   "districtId": 6311060,
-  "name": "KAPUL"
+  "districtName": "HALONG",
+  "name": "KAPUL",
+  "postalCode": "71666"
  },
  {
   "id": 6311060010,
   "districtId": 6311060,
-  "name": "HALONG"
+  "districtName": "HALONG",
+  "name": "HALONG",
+  "postalCode": "71666"
  },
  {
   "id": 6311060011,
   "districtId": 6311060,
-  "name": "BINJAI PUNGGAL"
+  "districtName": "HALONG",
+  "name": "BINJAI PUNGGAL",
+  "postalCode": "71666"
  },
  {
   "id": 6311060012,
   "districtId": 6311060,
-  "name": "BARUH PANYAMBARAN"
+  "districtName": "HALONG",
+  "name": "BARUH PANYAMBARAN",
+  "postalCode": "71666"
  },
  {
   "id": 6311060013,
   "districtId": 6311060,
-  "name": "BINJU"
+  "districtName": "HALONG",
+  "name": "BINJU",
+  "postalCode": "71666"
  },
  {
   "id": 6311060014,
   "districtId": 6311060,
-  "name": "BANGKAL"
+  "districtName": "HALONG",
+  "name": "BANGKAL",
+  "postalCode": "53281"
  },
  {
   "id": 6311060015,
   "districtId": 6311060,
-  "name": "SURYATAMA"
+  "districtName": "HALONG",
+  "name": "SURYATAMA",
+  "postalCode": "71666"
  },
  {
   "id": 6311060016,
   "districtId": 6311060,
-  "name": "HA'UWAI"
+  "districtName": "HALONG",
+  "name": "HA'UWAI",
+  "postalCode": ""
  },
  {
   "id": 6311060017,
   "districtId": 6311060,
-  "name": "KARYA"
+  "districtName": "HALONG",
+  "name": "KARYA",
+  "postalCode": "22455"
  },
  {
   "id": 6311060019,
   "districtId": 6311060,
-  "name": "GUNUNG RIUT"
+  "districtName": "HALONG",
+  "name": "GUNUNG RIUT",
+  "postalCode": "71666"
  },
  {
   "id": 6311060020,
   "districtId": 6311060,
-  "name": "LIYU"
+  "districtName": "HALONG",
+  "name": "LIYU",
+  "postalCode": "71666"
  },
  {
   "id": 6311060021,
   "districtId": 6311060,
-  "name": "ANIUNGAN"
+  "districtName": "HALONG",
+  "name": "ANIUNGAN",
+  "postalCode": "71666"
  },
  {
   "id": 6311060022,
   "districtId": 6311060,
-  "name": "MAMIGANG"
+  "districtName": "HALONG",
+  "name": "MAMIGANG",
+  "postalCode": "71666"
  },
  {
   "id": 6311060023,
   "districtId": 6311060,
-  "name": "PADANG RAYA"
+  "districtName": "HALONG",
+  "name": "PADANG RAYA",
+  "postalCode": "34874"
  },
  {
   "id": 6311060024,
   "districtId": 6311060,
-  "name": "SUMBER AGUNG"
+  "districtName": "HALONG",
+  "name": "SUMBER AGUNG",
+  "postalCode": "37353"
  }
 ]

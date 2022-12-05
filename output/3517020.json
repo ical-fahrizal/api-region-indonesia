@@ -2,61 +2,85 @@
  {
   "id": 3517020001,
   "districtId": 3517020,
-  "name": "JANTIGANGGONG"
+  "districtName": "PERAK",
+  "name": "JANTIGANGGONG",
+  "postalCode": "61461"
  },
  {
   "id": 3517020002,
   "districtId": 3517020,
-  "name": "KEPUHKAJANG"
+  "districtName": "PERAK",
+  "name": "KEPUHKAJANG",
+  "postalCode": "61461"
  },
  {
   "id": 3517020003,
   "districtId": 3517020,
-  "name": "SUMBERAGUNG"
+  "districtName": "PERAK",
+  "name": "SUMBERAGUNG",
+  "postalCode": "35452"
  },
  {
   "id": 3517020004,
   "districtId": 3517020,
-  "name": "PAGERWOJO"
+  "districtName": "PERAK",
+  "name": "PAGERWOJO",
+  "postalCode": "51383"
  },
  {
   "id": 3517020005,
   "districtId": 3517020,
-  "name": "PERAK"
+  "districtName": "PERAK",
+  "name": "PERAK",
+  "postalCode": "61461"
  },
  {
   "id": 3517020007,
   "districtId": 3517020,
-  "name": "GLAGAHAN"
+  "districtName": "PERAK",
+  "name": "GLAGAHAN",
+  "postalCode": "61461"
  },
  {
   "id": 3517020008,
   "districtId": 3517020,
-  "name": "KALANG SEMANDING"
+  "districtName": "PERAK",
+  "name": "KALANG SEMANDING",
+  "postalCode": "61461"
  },
  {
   "id": 3517020009,
   "districtId": 3517020,
-  "name": "GADINGMANGU"
+  "districtName": "PERAK",
+  "name": "GADINGMANGU",
+  "postalCode": "61461"
  },
  {
   "id": 3517020010,
   "districtId": 3517020,
-  "name": "PLOSOGENUK"
+  "districtName": "PERAK",
+  "name": "PLOSOGENUK",
+  "postalCode": "61461"
  },
  {
   "id": 3517020011,
   "districtId": 3517020,
-  "name": "SUKOREJO"
+  "districtName": "PERAK",
+  "name": "SUKOREJO",
+  "postalCode": "31551"
  },
  {
   "id": 3517020012,
   "districtId": 3517020,
-  "name": "TEMUWULAN"
+  "districtName": "PERAK",
+  "name": "TEMUWULAN",
+  "postalCode": "61461"
  },
  {
   "id": 3517020013,
   "districtId": 3517020,
-  "name": "CANGKRINGRANDU"
+  "districtName": "PERAK",
+  "name": "CANGKRINGRANDU",
+  "postalCode": "61461"
  }
 ]

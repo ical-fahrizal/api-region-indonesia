@@ -2,21 +2,29 @@
  {
   "id": 9402614001,
   "districtId": 9402614,
-  "name": "POPUGOBA"
+  "districtName": "POPUGOBA",
+  "name": "POPUGOBA",
+  "postalCode": ""
  },
  {
   "id": 9402614002,
   "districtId": 9402614,
-  "name": "YALELO"
+  "districtName": "POPUGOBA",
+  "name": "YALELO",
+  "postalCode": ""
  },
  {
   "id": 9402614003,
   "districtId": 9402614,
-  "name": "YOMOTE"
+  "districtName": "POPUGOBA",
+  "name": "YOMOTE",
+  "postalCode": "99511"
  },
  {
   "id": 9402614004,
   "districtId": 9402614,
-  "name": "WAIMA"
+  "districtName": "POPUGOBA",
+  "name": "WAIMA",
+  "postalCode": "99511"
  }
 ]

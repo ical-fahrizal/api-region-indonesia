@@ -2,36 +2,50 @@
  {
   "id": 6204010003,
   "districtId": 6204010,
-  "name": "TABATAN JAYA"
+  "districtName": "JENAMAS",
+  "name": "TABATAN JAYA",
+  "postalCode": ""
  },
  {
   "id": 6204010004,
   "districtId": 6204010,
-  "name": "SUKAKARYA"
+  "districtName": "JENAMAS",
+  "name": "SUKAKARYA",
+  "postalCode": "30771"
  },
  {
   "id": 6204010005,
   "districtId": 6204010,
-  "name": "TAMPULANG"
+  "districtName": "JENAMAS",
+  "name": "TAMPULANG",
+  "postalCode": "73763"
  },
  {
   "id": 6204010006,
   "districtId": 6204010,
-  "name": "RANTAU BAHUANG"
+  "districtName": "JENAMAS",
+  "name": "RANTAU BAHUANG",
+  "postalCode": "73763"
  },
  {
   "id": 6204010007,
   "districtId": 6204010,
-  "name": "RANTAU KUJANG"
+  "districtName": "JENAMAS",
+  "name": "RANTAU KUJANG",
+  "postalCode": "73763"
  },
  {
   "id": 6204010008,
   "districtId": 6204010,
-  "name": "RANGGA ILUNG"
+  "districtName": "JENAMAS",
+  "name": "RANGGA ILUNG",
+  "postalCode": "73763"
  },
  {
   "id": 6204010009,
   "districtId": 6204010,
-  "name": "TABATAN"
+  "districtName": "JENAMAS",
+  "name": "TABATAN",
+  "postalCode": "73763"
  }
 ]

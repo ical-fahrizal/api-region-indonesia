@@ -2,96 +2,134 @@
  {
   "id": 3307080001,
   "districtId": 3307080,
-  "name": "SINDUPATEN"
+  "districtName": "KERTEK",
+  "name": "SINDUPATEN",
+  "postalCode": "56371"
  },
  {
   "id": 3307080003,
   "districtId": 3307080,
-  "name": "BOJASARI"
+  "districtName": "KERTEK",
+  "name": "BOJASARI",
+  "postalCode": "56371"
  },
  {
   "id": 3307080005,
   "districtId": 3307080,
-  "name": "SUMBERDALEM"
+  "districtName": "KERTEK",
+  "name": "SUMBERDALEM",
+  "postalCode": "56371"
  },
  {
   "id": 3307080006,
   "districtId": 3307080,
-  "name": "PURWOJATI"
+  "districtName": "KERTEK",
+  "name": "PURWOJATI",
+  "postalCode": "56371"
  },
  {
   "id": 3307080007,
   "districtId": 3307080,
-  "name": "KARANGLUHUR"
+  "districtName": "KERTEK",
+  "name": "KARANGLUHUR",
+  "postalCode": "56371"
  },
  {
   "id": 3307080008,
   "districtId": 3307080,
-  "name": "NGADIKUSUMAN"
+  "districtName": "KERTEK",
+  "name": "NGADIKUSUMAN",
+  "postalCode": "56371"
  },
  {
   "id": 3307080009,
   "districtId": 3307080,
-  "name": "WRINGINANOM"
+  "districtName": "KERTEK",
+  "name": "WRINGINANOM",
+  "postalCode": "56371"
  },
  {
   "id": 3307080010,
   "districtId": 3307080,
-  "name": "SUDUNGDEWO"
+  "districtName": "KERTEK",
+  "name": "SUDUNGDEWO",
+  "postalCode": "56371"
  },
  {
   "id": 3307080011,
   "districtId": 3307080,
-  "name": "BEJIARUM"
+  "districtName": "KERTEK",
+  "name": "BEJIARUM",
+  "postalCode": "56371"
  },
  {
   "id": 3307080012,
   "districtId": 3307080,
-  "name": "DAMARKASIAN"
+  "districtName": "KERTEK",
+  "name": "DAMARKASIAN",
+  "postalCode": "56371"
  },
  {
   "id": 3307080013,
   "districtId": 3307080,
-  "name": "BANJAR"
+  "districtName": "KERTEK",
+  "name": "BANJAR",
+  "postalCode": "21263"
  },
  {
   "id": 3307080014,
   "districtId": 3307080,
-  "name": "TLOGODALEM"
+  "districtName": "KERTEK",
+  "name": "TLOGODALEM",
+  "postalCode": "56371"
  },
  {
   "id": 3307080015,
   "districtId": 3307080,
-  "name": "TLOGOMULYO"
+  "districtName": "KERTEK",
+  "name": "TLOGOMULYO",
+  "postalCode": "58164"
  },
  {
   "id": 3307080016,
   "districtId": 3307080,
-  "name": "PAGEREJO"
+  "districtName": "KERTEK",
+  "name": "PAGEREJO",
+  "postalCode": "56371"
  },
  {
   "id": 3307080017,
   "districtId": 3307080,
-  "name": "CANDIMULYO"
+  "districtName": "KERTEK",
+  "name": "CANDIMULYO",
+  "postalCode": "56191"
  },
  {
   "id": 3307080018,
   "districtId": 3307080,
-  "name": "PURBOSONO"
+  "districtName": "KERTEK",
+  "name": "PURBOSONO",
+  "postalCode": "56371"
  },
  {
   "id": 3307080019,
   "districtId": 3307080,
-  "name": "CANDIYASAN"
+  "districtName": "KERTEK",
+  "name": "CANDIYASAN",
+  "postalCode": "56371"
  },
  {
   "id": 3307080020,
   "districtId": 3307080,
-  "name": "KAPENCAR"
+  "districtName": "KERTEK",
+  "name": "KAPENCAR",
+  "postalCode": "56371"
  },
  {
   "id": 3307080021,
   "districtId": 3307080,
-  "name": "RECO"
+  "districtName": "KERTEK",
+  "name": "RECO",
+  "postalCode": "56371"
  }
 ]

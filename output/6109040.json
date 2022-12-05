@@ -2,81 +2,113 @@
  {
   "id": 6109040001,
   "districtId": 6109040,
-  "name": "PENITI"
+  "districtName": "SEKADAU HILIR",
+  "name": "PENITI",
+  "postalCode": "79516"
  },
  {
   "id": 6109040002,
   "districtId": 6109040,
-  "name": "SUNGAI RINGIN"
+  "districtName": "SEKADAU HILIR",
+  "name": "SUNGAI RINGIN",
+  "postalCode": ""
  },
  {
   "id": 6109040004,
   "districtId": 6109040,
-  "name": "GONIS TEKAM"
+  "districtName": "SEKADAU HILIR",
+  "name": "GONIS TEKAM",
+  "postalCode": "79582"
  },
  {
   "id": 6109040005,
   "districtId": 6109040,
-  "name": "ENGKERSIK"
+  "districtName": "SEKADAU HILIR",
+  "name": "ENGKERSIK",
+  "postalCode": "79513"
  },
  {
   "id": 6109040006,
   "districtId": 6109040,
-  "name": "TAPANG SEMADAK"
+  "districtName": "SEKADAU HILIR",
+  "name": "TAPANG SEMADAK",
+  "postalCode": "79513"
  },
  {
   "id": 6109040007,
   "districtId": 6109040,
-  "name": "SERARAS"
+  "districtName": "SEKADAU HILIR",
+  "name": "SERARAS",
+  "postalCode": "79512"
  },
  {
   "id": 6109040008,
   "districtId": 6109040,
-  "name": "MERAPI"
+  "districtName": "SEKADAU HILIR",
+  "name": "MERAPI",
+  "postalCode": "31471"
  },
  {
   "id": 6109040009,
   "districtId": 6109040,
-  "name": "TANJUNG"
+  "districtName": "SEKADAU HILIR",
+  "name": "TANJUNG",
+  "postalCode": "24562"
  },
  {
   "id": 6109040010,
   "districtId": 6109040,
-  "name": "SEBERANG KAPUAS"
+  "districtName": "SEKADAU HILIR",
+  "name": "SEBERANG KAPUAS",
+  "postalCode": "79515"
  },
  {
   "id": 6109040011,
   "districtId": 6109040,
-  "name": "SUNGAI KUNYIT"
+  "districtName": "SEKADAU HILIR",
+  "name": "SUNGAI KUNYIT",
+  "postalCode": "27777"
  },
  {
   "id": 6109040012,
   "districtId": 6109040,
-  "name": "SEMABI"
+  "districtName": "SEKADAU HILIR",
+  "name": "SEMABI",
+  "postalCode": "79515"
  },
  {
   "id": 6109040013,
   "districtId": 6109040,
-  "name": "LANDAU KODAH"
+  "districtName": "SEKADAU HILIR",
+  "name": "LANDAU KODAH",
+  "postalCode": "79514"
  },
  {
   "id": 6109040014,
   "districtId": 6109040,
-  "name": "TIMPUK"
+  "districtName": "SEKADAU HILIR",
+  "name": "TIMPUK",
+  "postalCode": "79514"
  },
  {
   "id": 6109040015,
   "districtId": 6109040,
-  "name": "ENSALANG"
+  "districtName": "SEKADAU HILIR",
+  "name": "ENSALANG",
+  "postalCode": "79516"
  },
  {
   "id": 6109040016,
   "districtId": 6109040,
-  "name": "SELALONG"
+  "districtName": "SEKADAU HILIR",
+  "name": "SELALONG",
+  "postalCode": "79582"
  },
  {
   "id": 6109040017,
   "districtId": 6109040,
-  "name": "BOKAK SEBUMBUN"
+  "districtName": "SEKADAU HILIR",
+  "name": "BOKAK SEBUMBUN",
+  "postalCode": "79582"
  }
 ]

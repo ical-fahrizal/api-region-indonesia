@@ -2,56 +2,78 @@
  {
   "id": 9418062001,
   "districtId": 9418062,
-  "name": "PINDELO"
+  "districtName": "WUGI",
+  "name": "PINDELO",
+  "postalCode": "99562"
  },
  {
   "id": 9418062002,
   "districtId": 9418062,
-  "name": "WUGI"
+  "districtName": "WUGI",
+  "name": "WUGI",
+  "postalCode": "99562"
  },
  {
   "id": 9418062003,
   "districtId": 9418062,
-  "name": "LENA"
+  "districtName": "WUGI",
+  "name": "LENA",
+  "postalCode": "94663"
  },
  {
   "id": 9418062004,
   "districtId": 9418062,
-  "name": "KUAGEMBUR"
+  "districtName": "WUGI",
+  "name": "KUAGEMBUR",
+  "postalCode": "99562"
  },
  {
   "id": 9418062005,
   "districtId": 9418062,
-  "name": "LOMA"
+  "districtName": "WUGI",
+  "name": "LOMA",
+  "postalCode": "99562"
  },
  {
   "id": 9418062006,
   "districtId": 9418062,
-  "name": "GITAR"
+  "districtName": "WUGI",
+  "name": "GITAR",
+  "postalCode": "99562"
  },
  {
   "id": 9418062007,
   "districtId": 9418062,
-  "name": "GILOME"
+  "districtName": "WUGI",
+  "name": "GILOME",
+  "postalCode": "98915"
  },
  {
   "id": 9418062008,
   "districtId": 9418062,
-  "name": "TIMONERI"
+  "districtName": "WUGI",
+  "name": "TIMONERI",
+  "postalCode": "99562"
  },
  {
   "id": 9418062009,
   "districtId": 9418062,
-  "name": "WURONGGI / WURAGI"
+  "districtName": "WUGI",
+  "name": "WURONGGI / WURAGI",
+  "postalCode": ""
  },
  {
   "id": 9418062010,
   "districtId": 9418062,
-  "name": "BUANG LUDA"
+  "districtName": "WUGI",
+  "name": "BUANG LUDA",
+  "postalCode": ""
  },
  {
   "id": 9418062011,
   "districtId": 9418062,
-  "name": "KOLI"
+  "districtName": "WUGI",
+  "name": "KOLI",
+  "postalCode": "97852"
  }
 ]

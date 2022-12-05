@@ -2,61 +2,85 @@
  {
   "id": 5311063001,
   "districtId": 5311063,
-  "name": "WOLOGAI TIMUR"
+  "districtName": "LEPEMBUSU KELISOKE",
+  "name": "WOLOGAI TIMUR",
+  "postalCode": "86376"
  },
  {
   "id": 5311063002,
   "districtId": 5311063,
-  "name": "NGGUMBELAKA"
+  "districtName": "LEPEMBUSU KELISOKE",
+  "name": "NGGUMBELAKA",
+  "postalCode": "86376"
  },
  {
   "id": 5311063005,
   "districtId": 5311063,
-  "name": "NDENGGARONGGE"
+  "districtName": "LEPEMBUSU KELISOKE",
+  "name": "NDENGGARONGGE",
+  "postalCode": ""
  },
  {
   "id": 5311063006,
   "districtId": 5311063,
-  "name": "TANALANGI"
+  "districtName": "LEPEMBUSU KELISOKE",
+  "name": "TANALANGI",
+  "postalCode": "86374"
  },
  {
   "id": 5311063007,
   "districtId": 5311063,
-  "name": "TANIWODA"
+  "districtName": "LEPEMBUSU KELISOKE",
+  "name": "TANIWODA",
+  "postalCode": "86374"
  },
  {
   "id": 5311063008,
   "districtId": 5311063,
-  "name": "DETUARA"
+  "districtName": "LEPEMBUSU KELISOKE",
+  "name": "DETUARA",
+  "postalCode": "86374"
  },
  {
   "id": 5311063009,
   "districtId": 5311063,
-  "name": "TIWUSORA"
+  "districtName": "LEPEMBUSU KELISOKE",
+  "name": "TIWUSORA",
+  "postalCode": "86374"
  },
  {
   "id": 5311063010,
   "districtId": 5311063,
-  "name": "NDIKOSAPU"
+  "districtName": "LEPEMBUSU KELISOKE",
+  "name": "NDIKOSAPU",
+  "postalCode": "86378"
  },
  {
   "id": 5311063011,
   "districtId": 5311063,
-  "name": "KURU SARE"
+  "districtName": "LEPEMBUSU KELISOKE",
+  "name": "KURU SARE",
+  "postalCode": "86375"
  },
  {
   "id": 5311063012,
   "districtId": 5311063,
-  "name": "MUKUREKU SAATE"
+  "districtName": "LEPEMBUSU KELISOKE",
+  "name": "MUKUREKU SAATE",
+  "postalCode": ""
  },
  {
   "id": 5311063013,
   "districtId": 5311063,
-  "name": "LISEKURU"
+  "districtName": "LEPEMBUSU KELISOKE",
+  "name": "LISEKURU",
+  "postalCode": ""
  },
  {
   "id": 5311063014,
   "districtId": 5311063,
-  "name": "RUTUJEJA"
+  "districtName": "LEPEMBUSU KELISOKE",
+  "name": "RUTUJEJA",
+  "postalCode": ""
  }
 ]

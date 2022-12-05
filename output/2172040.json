@@ -2,21 +2,29 @@
  {
   "id": 2172040001,
   "districtId": 2172040,
-  "name": "TANJUNGPINANG BARAT"
+  "districtName": "TANJUNGPINANG BARAT",
+  "name": "TANJUNGPINANG BARAT",
+  "postalCode": ""
  },
  {
   "id": 2172040002,
   "districtId": 2172040,
-  "name": "KEMBOJA"
+  "districtName": "TANJUNGPINANG BARAT",
+  "name": "KEMBOJA",
+  "postalCode": "29112"
  },
  {
   "id": 2172040003,
   "districtId": 2172040,
-  "name": "KAMPUNG BARU"
+  "districtName": "TANJUNGPINANG BARAT",
+  "name": "KAMPUNG BARU",
+  "postalCode": "24652"
  },
  {
   "id": 2172040004,
   "districtId": 2172040,
-  "name": "BUKIT CERMIN"
+  "districtName": "TANJUNGPINANG BARAT",
+  "name": "BUKIT CERMIN",
+  "postalCode": "29111"
  }
 ]

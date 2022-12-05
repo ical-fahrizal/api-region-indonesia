@@ -2,36 +2,50 @@
  {
   "id": 8105032001,
   "districtId": 8105032,
-  "name": "BATULEY"
+  "districtName": "ARU UTARA TIMUR BATULEY",
+  "name": "BATULEY",
+  "postalCode": ""
  },
  {
   "id": 8105032002,
   "districtId": 8105032,
-  "name": "KABALSIANG"
+  "districtName": "ARU UTARA TIMUR BATULEY",
+  "name": "KABALSIANG",
+  "postalCode": "97663"
  },
  {
   "id": 8105032003,
   "districtId": 8105032,
-  "name": "BENJURING"
+  "districtName": "ARU UTARA TIMUR BATULEY",
+  "name": "BENJURING",
+  "postalCode": "97663"
  },
  {
   "id": 8105032005,
   "districtId": 8105032,
-  "name": "WARIA"
+  "districtName": "ARU UTARA TIMUR BATULEY",
+  "name": "WARIA",
+  "postalCode": "97663"
  },
  {
   "id": 8105032007,
   "districtId": 8105032,
-  "name": "JURSIANG"
+  "districtName": "ARU UTARA TIMUR BATULEY",
+  "name": "JURSIANG",
+  "postalCode": "97663"
  },
  {
   "id": 8105032008,
   "districtId": 8105032,
-  "name": "KOMPANE"
+  "districtName": "ARU UTARA TIMUR BATULEY",
+  "name": "KOMPANE",
+  "postalCode": "97663"
  },
  {
   "id": 8105032009,
   "districtId": 8105032,
-  "name": "KOBAMAR"
+  "districtName": "ARU UTARA TIMUR BATULEY",
+  "name": "KOBAMAR",
+  "postalCode": "97663"
  }
 ]

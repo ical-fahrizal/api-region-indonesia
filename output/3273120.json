@@ -2,26 +2,36 @@
  {
   "id": 3273120003,
   "districtId": 3273120,
-  "name": "PASANGGRAHAN"
+  "districtName": "UJUNG BERUNG",
+  "name": "PASANGGRAHAN",
+  "postalCode": "41164"
  },
  {
   "id": 3273120004,
   "districtId": 3273120,
-  "name": "PASIRJATI"
+  "districtName": "UJUNG BERUNG",
+  "name": "PASIRJATI",
+  "postalCode": "40616"
  },
  {
   "id": 3273120005,
   "districtId": 3273120,
-  "name": "PASIR WANGI"
+  "districtName": "UJUNG BERUNG",
+  "name": "PASIR WANGI",
+  "postalCode": ""
  },
  {
   "id": 3273120006,
   "districtId": 3273120,
-  "name": "CIGENDING"
+  "districtName": "UJUNG BERUNG",
+  "name": "CIGENDING",
+  "postalCode": "40611"
  },
  {
   "id": 3273120007,
   "districtId": 3273120,
-  "name": "PASIR ENDAH"
+  "districtName": "UJUNG BERUNG",
+  "name": "PASIR ENDAH",
+  "postalCode": "40619"
  }
 ]

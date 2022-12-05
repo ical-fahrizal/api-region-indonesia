@@ -2,131 +2,183 @@
  {
   "id": 1108081001,
   "districtId": 1108081,
-  "name": "COT MON RAYA"
+  "districtName": "BLANG BINTANG",
+  "name": "COT MON RAYA",
+  "postalCode": "23372"
  },
  {
   "id": 1108081002,
   "districtId": 1108081,
-  "name": "COT GEUNDREUT"
+  "districtName": "BLANG BINTANG",
+  "name": "COT GEUNDREUT",
+  "postalCode": "23372"
  },
  {
   "id": 1108081003,
   "districtId": 1108081,
-  "name": "PAYA-UE"
+  "districtName": "BLANG BINTANG",
+  "name": "PAYA-UE",
+  "postalCode": ""
  },
  {
   "id": 1108081004,
   "districtId": 1108081,
-  "name": "LAMME"
+  "districtName": "BLANG BINTANG",
+  "name": "LAMME",
+  "postalCode": "23372"
  },
  {
   "id": 1108081005,
   "districtId": 1108081,
-  "name": "MEULAYO"
+  "districtName": "BLANG BINTANG",
+  "name": "MEULAYO",
+  "postalCode": ""
  },
  {
   "id": 1108081006,
   "districtId": 1108081,
-  "name": "LAM SIEM"
+  "districtName": "BLANG BINTANG",
+  "name": "LAM SIEM",
+  "postalCode": "23362"
  },
  {
   "id": 1108081007,
   "districtId": 1108081,
-  "name": "COT PUKLAT"
+  "districtName": "BLANG BINTANG",
+  "name": "COT PUKLAT",
+  "postalCode": "23372"
  },
  {
   "id": 1108081008,
   "districtId": 1108081,
-  "name": "DATA MAKMUR"
+  "districtName": "BLANG BINTANG",
+  "name": "DATA MAKMUR",
+  "postalCode": "23362"
  },
  {
   "id": 1108081009,
   "districtId": 1108081,
-  "name": "KAYEE KUNYET"
+  "districtName": "BLANG BINTANG",
+  "name": "KAYEE KUNYET",
+  "postalCode": "23362"
  },
  {
   "id": 1108081010,
   "districtId": 1108081,
-  "name": "COT MEULANGEN"
+  "districtName": "BLANG BINTANG",
+  "name": "COT MEULANGEN",
+  "postalCode": "23362"
  },
  {
   "id": 1108081011,
   "districtId": 1108081,
-  "name": "COT NAMBAK"
+  "districtName": "BLANG BINTANG",
+  "name": "COT NAMBAK",
+  "postalCode": "23362"
  },
  {
   "id": 1108081012,
   "districtId": 1108081,
-  "name": "COT MANCANG"
+  "districtName": "BLANG BINTANG",
+  "name": "COT MANCANG",
+  "postalCode": "23362"
  },
  {
   "id": 1108081013,
   "districtId": 1108081,
-  "name": "EMPEE BATA"
+  "districtName": "BLANG BINTANG",
+  "name": "EMPEE BATA",
+  "postalCode": "23362"
  },
  {
   "id": 1108081014,
   "districtId": 1108081,
-  "name": "COT BAGI"
+  "districtName": "BLANG BINTANG",
+  "name": "COT BAGI",
+  "postalCode": ""
  },
  {
   "id": 1108081015,
   "districtId": 1108081,
-  "name": "TEUPIN BATEE"
+  "districtName": "BLANG BINTANG",
+  "name": "TEUPIN BATEE",
+  "postalCode": "23362"
  },
  {
   "id": 1108081016,
   "districtId": 1108081,
-  "name": "COT LEUOT"
+  "districtName": "BLANG BINTANG",
+  "name": "COT LEUOT",
+  "postalCode": ""
  },
  {
   "id": 1108081017,
   "districtId": 1108081,
-  "name": "COT HOHO"
+  "districtName": "BLANG BINTANG",
+  "name": "COT HOHO",
+  "postalCode": ""
  },
  {
   "id": 1108081018,
   "districtId": 1108081,
-  "name": "COT JAMBO"
+  "districtName": "BLANG BINTANG",
+  "name": "COT JAMBO",
+  "postalCode": "23362"
  },
  {
   "id": 1108081019,
   "districtId": 1108081,
-  "name": "COT RUMPUN"
+  "districtName": "BLANG BINTANG",
+  "name": "COT RUMPUN",
+  "postalCode": "23362"
  },
  {
   "id": 1108081020,
   "districtId": 1108081,
-  "name": "BUNG PAGEU"
+  "districtName": "BLANG BINTANG",
+  "name": "BUNG PAGEU",
+  "postalCode": ""
  },
  {
   "id": 1108081021,
   "districtId": 1108081,
-  "name": "COT SAYUN"
+  "districtName": "BLANG BINTANG",
+  "name": "COT SAYUN",
+  "postalCode": "23362"
  },
  {
   "id": 1108081022,
   "districtId": 1108081,
-  "name": "COT KARIENG"
+  "districtName": "BLANG BINTANG",
+  "name": "COT KARIENG",
+  "postalCode": "23371"
  },
  {
   "id": 1108081023,
   "districtId": 1108081,
-  "name": "COT MALEM"
+  "districtName": "BLANG BINTANG",
+  "name": "COT MALEM",
+  "postalCode": "23371"
  },
  {
   "id": 1108081024,
   "districtId": 1108081,
-  "name": "KAMPUNG BLANG"
+  "districtName": "BLANG BINTANG",
+  "name": "KAMPUNG BLANG",
+  "postalCode": "23362"
  },
  {
   "id": 1108081025,
   "districtId": 1108081,
-  "name": "BUNG SIDOM"
+  "districtName": "BLANG BINTANG",
+  "name": "BUNG SIDOM",
+  "postalCode": ""
  },
  {
   "id": 1108081026,
   "districtId": 1108081,
-  "name": "COT MADHI"
+  "districtName": "BLANG BINTANG",
+  "name": "COT MADHI",
+  "postalCode": ""
  }
 ]

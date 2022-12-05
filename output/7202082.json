@@ -2,46 +2,64 @@
  {
   "id": 7202082001,
   "districtId": 7202082,
-  "name": "KAMPANGAR"
+  "districtName": "BALANTAK UTARA",
+  "name": "KAMPANGAR",
+  "postalCode": "94773"
  },
  {
   "id": 7202082003,
   "districtId": 7202082,
-  "name": "ONDOLIANG"
+  "districtName": "BALANTAK UTARA",
+  "name": "ONDOLIANG",
+  "postalCode": "94773"
  },
  {
   "id": 7202082004,
   "districtId": 7202082,
-  "name": "BATUSIMPANG"
+  "districtName": "BALANTAK UTARA",
+  "name": "BATUSIMPANG",
+  "postalCode": ""
  },
  {
   "id": 7202082005,
   "districtId": 7202082,
-  "name": "PANGKALASEANG"
+  "districtName": "BALANTAK UTARA",
+  "name": "PANGKALASEANG",
+  "postalCode": "94773"
  },
  {
   "id": 7202082006,
   "districtId": 7202082,
-  "name": "PANGKALASEANG BARU"
+  "districtName": "BALANTAK UTARA",
+  "name": "PANGKALASEANG BARU",
+  "postalCode": "94773"
  },
  {
   "id": 7202082007,
   "districtId": 7202082,
-  "name": "KUNTANG"
+  "districtName": "BALANTAK UTARA",
+  "name": "KUNTANG",
+  "postalCode": "94773"
  },
  {
   "id": 7202082008,
   "districtId": 7202082,
-  "name": "TOWEER"
+  "districtName": "BALANTAK UTARA",
+  "name": "TOWEER",
+  "postalCode": "94773"
  },
  {
   "id": 7202082009,
   "districtId": 7202082,
-  "name": "BATU MANDI"
+  "districtName": "BALANTAK UTARA",
+  "name": "BATU MANDI",
+  "postalCode": "71663"
  },
  {
   "id": 7202082010,
   "districtId": 7202082,
-  "name": "PULAU DUA"
+  "districtName": "BALANTAK UTARA",
+  "name": "PULAU DUA",
+  "postalCode": "94773"
  }
 ]

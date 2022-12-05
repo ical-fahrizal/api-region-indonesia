@@ -2,56 +2,78 @@
  {
   "id": 3510140001,
   "districtId": 3510140,
-  "name": "GAMBOR"
+  "districtName": "SINGOJURUH",
+  "name": "GAMBOR",
+  "postalCode": "68464"
  },
  {
   "id": 3510140002,
   "districtId": 3510140,
-  "name": "SINGOJURUH"
+  "districtName": "SINGOJURUH",
+  "name": "SINGOJURUH",
+  "postalCode": "68464"
  },
  {
   "id": 3510140003,
   "districtId": 3510140,
-  "name": "ALAS MALANG"
+  "districtName": "SINGOJURUH",
+  "name": "ALAS MALANG",
+  "postalCode": "68351"
  },
  {
   "id": 3510140004,
   "districtId": 3510140,
-  "name": "BENELAN KIDUL"
+  "districtName": "SINGOJURUH",
+  "name": "BENELAN KIDUL",
+  "postalCode": "68464"
  },
  {
   "id": 3510140005,
   "districtId": 3510140,
-  "name": "LEMAHBANG KULON"
+  "districtName": "SINGOJURUH",
+  "name": "LEMAHBANG KULON",
+  "postalCode": "68464"
  },
  {
   "id": 3510140006,
   "districtId": 3510140,
-  "name": "SINGOLATREN"
+  "districtName": "SINGOJURUH",
+  "name": "SINGOLATREN",
+  "postalCode": "68464"
  },
  {
   "id": 3510140007,
   "districtId": 3510140,
-  "name": "PADANG"
+  "districtName": "SINGOJURUH",
+  "name": "PADANG",
+  "postalCode": "23762"
  },
  {
   "id": 3510140008,
   "districtId": 3510140,
-  "name": "CANTUK"
+  "districtName": "SINGOJURUH",
+  "name": "CANTUK",
+  "postalCode": "68464"
  },
  {
   "id": 3510140009,
   "districtId": 3510140,
-  "name": "GUMIRIH"
+  "districtName": "SINGOJURUH",
+  "name": "GUMIRIH",
+  "postalCode": "68464"
  },
  {
   "id": 3510140010,
   "districtId": 3510140,
-  "name": "KEMIRI"
+  "districtName": "SINGOJURUH",
+  "name": "KEMIRI",
+  "postalCode": "41352"
  },
  {
   "id": 3510140011,
   "districtId": 3510140,
-  "name": "SUMBER BARU"
+  "districtName": "SINGOJURUH",
+  "name": "SUMBER BARU",
+  "postalCode": "30681"
  }
 ]

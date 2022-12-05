@@ -2,66 +2,92 @@
  {
   "id": 1105101001,
   "districtId": 1105101,
-  "name": "GAJAH MENTAH"
+  "districtName": "SUNGAI RAYA",
+  "name": "GAJAH MENTAH",
+  "postalCode": "24458"
  },
  {
   "id": 1105101002,
   "districtId": 1105101,
-  "name": "SEUNEUBOK ACEH"
+  "districtName": "SUNGAI RAYA",
+  "name": "SEUNEUBOK ACEH",
+  "postalCode": "24472"
  },
  {
   "id": 1105101003,
   "districtId": 1105101,
-  "name": "SEUNEUBOK PASE"
+  "districtName": "SUNGAI RAYA",
+  "name": "SEUNEUBOK PASE",
+  "postalCode": "24458"
  },
  {
   "id": 1105101004,
   "districtId": 1105101,
-  "name": "SUNGAI SIMPANG"
+  "districtName": "SUNGAI RAYA",
+  "name": "SUNGAI SIMPANG",
+  "postalCode": "24458"
  },
  {
   "id": 1105101005,
   "districtId": 1105101,
-  "name": "PAYA KEUTAPANG"
+  "districtName": "SUNGAI RAYA",
+  "name": "PAYA KEUTAPANG",
+  "postalCode": "24458"
  },
  {
   "id": 1105101006,
   "districtId": 1105101,
-  "name": "ALUE ITAM"
+  "districtName": "SUNGAI RAYA",
+  "name": "ALUE ITAM",
+  "postalCode": "24458"
  },
  {
   "id": 1105101007,
   "districtId": 1105101,
-  "name": "BUKIT DRIEN"
+  "districtName": "SUNGAI RAYA",
+  "name": "BUKIT DRIEN",
+  "postalCode": "24458"
  },
  {
   "id": 1105101008,
   "districtId": 1105101,
-  "name": "BUKIT SELAMAT"
+  "districtName": "SUNGAI RAYA",
+  "name": "BUKIT SELAMAT",
+  "postalCode": "24458"
  },
  {
   "id": 1105101009,
   "districtId": 1105101,
-  "name": "KUALA PAREK"
+  "districtName": "SUNGAI RAYA",
+  "name": "KUALA PAREK",
+  "postalCode": "24458"
  },
  {
   "id": 1105101010,
   "districtId": 1105101,
-  "name": "LABUHAN KEUDE"
+  "districtName": "SUNGAI RAYA",
+  "name": "LABUHAN KEUDE",
+  "postalCode": "24458"
  },
  {
   "id": 1105101011,
   "districtId": 1105101,
-  "name": "KRUENG LINGKA"
+  "districtName": "SUNGAI RAYA",
+  "name": "KRUENG LINGKA",
+  "postalCode": "24394"
  },
  {
   "id": 1105101012,
   "districtId": 1105101,
-  "name": "GEULUMPANG PAYONG"
+  "districtName": "SUNGAI RAYA",
+  "name": "GEULUMPANG PAYONG",
+  "postalCode": "23764"
  },
  {
   "id": 1105101013,
   "districtId": 1105101,
-  "name": "ALUE RANGAN"
+  "districtName": "SUNGAI RAYA",
+  "name": "ALUE RANGAN",
+  "postalCode": "24458"
  }
 ]

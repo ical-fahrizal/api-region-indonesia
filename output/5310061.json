@@ -2,41 +2,57 @@
  {
   "id": 5310061001,
   "districtId": 5310061,
-  "name": "NITUNGLEA"
+  "districtName": "PALUE",
+  "name": "NITUNGLEA",
+  "postalCode": "86111"
  },
  {
   "id": 5310061002,
   "districtId": 5310061,
-  "name": "LIDI"
+  "districtName": "PALUE",
+  "name": "LIDI",
+  "postalCode": "29783"
  },
  {
   "id": 5310061003,
   "districtId": 5310061,
-  "name": "RERUWAIRERE"
+  "districtName": "PALUE",
+  "name": "RERUWAIRERE",
+  "postalCode": "86111"
  },
  {
   "id": 5310061004,
   "districtId": 5310061,
-  "name": "MALURIWU"
+  "districtName": "PALUE",
+  "name": "MALURIWU",
+  "postalCode": "86111"
  },
  {
   "id": 5310061005,
   "districtId": 5310061,
-  "name": "KESOKOJA"
+  "districtName": "PALUE",
+  "name": "KESOKOJA",
+  "postalCode": "86111"
  },
  {
   "id": 5310061006,
   "districtId": 5310061,
-  "name": "LADOLAKA"
+  "districtName": "PALUE",
+  "name": "LADOLAKA",
+  "postalCode": "86111"
  },
  {
   "id": 5310061007,
   "districtId": 5310061,
-  "name": "TUANGGEO"
+  "districtName": "PALUE",
+  "name": "TUANGGEO",
+  "postalCode": "86111"
  },
  {
   "id": 5310061008,
   "districtId": 5310061,
-  "name": "ROKIROLE"
+  "districtName": "PALUE",
+  "name": "ROKIROLE",
+  "postalCode": "86111"
  }
 ]

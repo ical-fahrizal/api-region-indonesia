@@ -2,61 +2,85 @@
  {
   "id": 3513240001,
   "districtId": 3513240,
-  "name": "MUNENG KIDUL"
+  "districtName": "SUMBERASIH",
+  "name": "MUNENG KIDUL",
+  "postalCode": "67251"
  },
  {
   "id": 3513240002,
   "districtId": 3513240,
-  "name": "POHSANGIT LERES"
+  "districtName": "SUMBERASIH",
+  "name": "POHSANGIT LERES",
+  "postalCode": "67251"
  },
  {
   "id": 3513240003,
   "districtId": 3513240,
-  "name": "LAWEYAN"
+  "districtName": "SUMBERASIH",
+  "name": "LAWEYAN",
+  "postalCode": "57148"
  },
  {
   "id": 3513240005,
   "districtId": 3513240,
-  "name": "JANGUR"
+  "districtName": "SUMBERASIH",
+  "name": "JANGUR",
+  "postalCode": "67251"
  },
  {
   "id": 3513240006,
   "districtId": 3513240,
-  "name": "SUMBERBENDO"
+  "districtName": "SUMBERASIH",
+  "name": "SUMBERBENDO",
+  "postalCode": "62283"
  },
  {
   "id": 3513240007,
   "districtId": 3513240,
-  "name": "MENTOR"
+  "districtName": "SUMBERASIH",
+  "name": "MENTOR",
+  "postalCode": "67251"
  },
  {
   "id": 3513240008,
   "districtId": 3513240,
-  "name": "SUMURMATI"
+  "districtName": "SUMBERASIH",
+  "name": "SUMURMATI",
+  "postalCode": "67251"
  },
  {
   "id": 3513240009,
   "districtId": 3513240,
-  "name": "PESISIR"
+  "districtName": "SUMBERASIH",
+  "name": "PESISIR",
+  "postalCode": "28144"
  },
  {
   "id": 3513240010,
   "districtId": 3513240,
-  "name": "LEMAHKEMBAR"
+  "districtName": "SUMBERASIH",
+  "name": "LEMAHKEMBAR",
+  "postalCode": "67251"
  },
  {
   "id": 3513240011,
   "districtId": 3513240,
-  "name": "AMBULU"
+  "districtName": "SUMBERASIH",
+  "name": "AMBULU",
+  "postalCode": "45192"
  },
  {
   "id": 3513240012,
   "districtId": 3513240,
-  "name": "BANJARSARI"
+  "districtName": "SUMBERASIH",
+  "name": "BANJARSARI",
+  "postalCode": "35377"
  },
  {
   "id": 3513240013,
   "districtId": 3513240,
-  "name": "GILI KETAPANG"
+  "districtName": "SUMBERASIH",
+  "name": "GILI KETAPANG",
+  "postalCode": "67251"
  }
 ]

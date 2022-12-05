@@ -2,26 +2,36 @@
  {
   "id": 9420011001,
   "districtId": 9420011,
-  "name": "TOWE LAMA / TOWE ATAS"
+  "districtName": "TOWE",
+  "name": "TOWE LAMA / TOWE ATAS",
+  "postalCode": ""
  },
  {
   "id": 9420011002,
   "districtId": 9420011,
-  "name": "TOWE HITAM"
+  "districtName": "TOWE",
+  "name": "TOWE HITAM",
+  "postalCode": "99466"
  },
  {
   "id": 9420011003,
   "districtId": 9420011,
-  "name": "BIAS"
+  "districtName": "TOWE",
+  "name": "BIAS",
+  "postalCode": "99576"
  },
  {
   "id": 9420011006,
   "districtId": 9420011,
-  "name": "TERPONES"
+  "districtName": "TOWE",
+  "name": "TERPONES",
+  "postalCode": ""
  },
  {
   "id": 9420011007,
   "districtId": 9420011,
-  "name": "TEFALMA"
+  "districtName": "TOWE",
+  "name": "TEFALMA",
+  "postalCode": ""
  }
 ]

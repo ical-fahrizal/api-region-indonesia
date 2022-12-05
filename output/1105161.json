@@ -2,66 +2,92 @@
  {
   "id": 1105161001,
   "districtId": 1105161,
-  "name": "ALUE IE ITAM"
+  "districtName": "INDRA MAKMUR",
+  "name": "ALUE IE ITAM",
+  "postalCode": "24457"
  },
  {
   "id": 1105161002,
   "districtId": 1105161,
-  "name": "SEUNEUBOK BAYU"
+  "districtName": "INDRA MAKMUR",
+  "name": "SEUNEUBOK BAYU",
+  "postalCode": "24458"
  },
  {
   "id": 1105161003,
   "districtId": 1105161,
-  "name": "BLANG NISAM"
+  "districtName": "INDRA MAKMUR",
+  "name": "BLANG NISAM",
+  "postalCode": "24457"
  },
  {
   "id": 1105161004,
   "districtId": 1105161,
-  "name": "BANDAR BARO"
+  "districtName": "INDRA MAKMUR",
+  "name": "BANDAR BARO",
+  "postalCode": "24457"
  },
  {
   "id": 1105161005,
   "districtId": 1105161,
-  "name": "ALUE PATONG"
+  "districtName": "INDRA MAKMUR",
+  "name": "ALUE PATONG",
+  "postalCode": "24457"
  },
  {
   "id": 1105161006,
   "districtId": 1105161,
-  "name": "SEUNEUBOK CINA"
+  "districtName": "INDRA MAKMUR",
+  "name": "SEUNEUBOK CINA",
+  "postalCode": "24457"
  },
  {
   "id": 1105161007,
   "districtId": 1105161,
-  "name": "PELITA SAGUP JAYA"
+  "districtName": "INDRA MAKMUR",
+  "name": "PELITA SAGUP JAYA",
+  "postalCode": ""
  },
  {
   "id": 1105161008,
   "districtId": 1105161,
-  "name": "PERK JULOK RAYEUK UTARA"
+  "districtName": "INDRA MAKMUR",
+  "name": "PERK JULOK RAYEUK UTARA",
+  "postalCode": ""
  },
  {
   "id": 1105161009,
   "districtId": 1105161,
-  "name": "PERK JULOK RAYEUK SELATAN"
+  "districtName": "INDRA MAKMUR",
+  "name": "PERK JULOK RAYEUK SELATAN",
+  "postalCode": ""
  },
  {
   "id": 1105161010,
   "districtId": 1105161,
-  "name": "JAMBO BALEE"
+  "districtName": "INDRA MAKMUR",
+  "name": "JAMBO BALEE",
+  "postalCode": "24457"
  },
  {
   "id": 1105161011,
   "districtId": 1105161,
-  "name": "ALUE IE MIRAH"
+  "districtName": "INDRA MAKMUR",
+  "name": "ALUE IE MIRAH",
+  "postalCode": "24457"
  },
  {
   "id": 1105161012,
   "districtId": 1105161,
-  "name": "JAMBO LUBOK"
+  "districtName": "INDRA MAKMUR",
+  "name": "JAMBO LUBOK",
+  "postalCode": "24457"
  },
  {
   "id": 1105161013,
   "districtId": 1105161,
-  "name": "SUKA MAKMUR"
+  "districtName": "INDRA MAKMUR",
+  "name": "SUKA MAKMUR",
+  "postalCode": "24784"
  }
 ]

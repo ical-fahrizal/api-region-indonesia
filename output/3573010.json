@@ -2,61 +2,85 @@
  {
   "id": 3573010001,
   "districtId": 3573010,
-  "name": "ARJOWINANGUN"
+  "districtName": "KEDUNGKANDANG",
+  "name": "ARJOWINANGUN",
+  "postalCode": "54391"
  },
  {
   "id": 3573010002,
   "districtId": 3573010,
-  "name": "TLOGOWARU"
+  "districtName": "KEDUNGKANDANG",
+  "name": "TLOGOWARU",
+  "postalCode": "65133"
  },
  {
   "id": 3573010003,
   "districtId": 3573010,
-  "name": "WONOKOYO"
+  "districtName": "KEDUNGKANDANG",
+  "name": "WONOKOYO",
+  "postalCode": "67154"
  },
  {
   "id": 3573010004,
   "districtId": 3573010,
-  "name": "BUMIAYU"
+  "districtName": "KEDUNGKANDANG",
+  "name": "BUMIAYU",
+  "postalCode": "31314"
  },
  {
   "id": 3573010005,
   "districtId": 3573010,
-  "name": "BURING"
+  "districtName": "KEDUNGKANDANG",
+  "name": "BURING",
+  "postalCode": "65136"
  },
  {
   "id": 3573010006,
   "districtId": 3573010,
-  "name": "MERGOSONO"
+  "districtName": "KEDUNGKANDANG",
+  "name": "MERGOSONO",
+  "postalCode": "54474"
  },
  {
   "id": 3573010007,
   "districtId": 3573010,
-  "name": "KOTALAMA"
+  "districtName": "KEDUNGKANDANG",
+  "name": "KOTALAMA",
+  "postalCode": "65136"
  },
  {
   "id": 3573010008,
   "districtId": 3573010,
-  "name": "KEDUNGKANDANG"
+  "districtName": "KEDUNGKANDANG",
+  "name": "KEDUNGKANDANG",
+  "postalCode": "65137"
  },
  {
   "id": 3573010009,
   "districtId": 3573010,
-  "name": "SAWOJAJAR"
+  "districtName": "KEDUNGKANDANG",
+  "name": "SAWOJAJAR",
+  "postalCode": "52252"
  },
  {
   "id": 3573010010,
   "districtId": 3573010,
-  "name": "MADYOPURO"
+  "districtName": "KEDUNGKANDANG",
+  "name": "MADYOPURO",
+  "postalCode": "65139"
  },
  {
   "id": 3573010011,
   "districtId": 3573010,
-  "name": "LESANPURO"
+  "districtName": "KEDUNGKANDANG",
+  "name": "LESANPURO",
+  "postalCode": "56163"
  },
  {
   "id": 3573010012,
   "districtId": 3573010,
-  "name": "CEMOROKANDANG"
+  "districtName": "KEDUNGKANDANG",
+  "name": "CEMOROKANDANG",
+  "postalCode": "65138"
  }
 ]

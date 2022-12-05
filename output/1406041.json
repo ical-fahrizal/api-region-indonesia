@@ -2,71 +2,99 @@
  {
   "id": 1406041001,
   "districtId": 1406041,
-  "name": "KASIKAN"
+  "districtName": "TAPUNG HULU",
+  "name": "KASIKAN",
+  "postalCode": "28464"
  },
  {
   "id": 1406041002,
   "districtId": 1406041,
-  "name": "RIMBA BERINGIN"
+  "districtName": "TAPUNG HULU",
+  "name": "RIMBA BERINGIN",
+  "postalCode": "28464"
  },
  {
   "id": 1406041003,
   "districtId": 1406041,
-  "name": "SENAMA NENEK"
+  "districtName": "TAPUNG HULU",
+  "name": "SENAMA NENEK",
+  "postalCode": ""
  },
  {
   "id": 1406041004,
   "districtId": 1406041,
-  "name": "BUKIT KEMUNING"
+  "districtName": "TAPUNG HULU",
+  "name": "BUKIT KEMUNING",
+  "postalCode": "24563"
  },
  {
   "id": 1406041005,
   "districtId": 1406041,
-  "name": "DANAU LANCANG"
+  "districtName": "TAPUNG HULU",
+  "name": "DANAU LANCANG",
+  "postalCode": "28464"
  },
  {
   "id": 1406041006,
   "districtId": 1406041,
-  "name": "SUKA RAMAI"
+  "districtName": "TAPUNG HULU",
+  "name": "SUKA RAMAI",
+  "postalCode": "23662"
  },
  {
   "id": 1406041007,
   "districtId": 1406041,
-  "name": "KUSAU MAKMUR"
+  "districtName": "TAPUNG HULU",
+  "name": "KUSAU MAKMUR",
+  "postalCode": "28464"
  },
  {
   "id": 1406041008,
   "districtId": 1406041,
-  "name": "SUMBER SARI"
+  "districtName": "TAPUNG HULU",
+  "name": "SUMBER SARI",
+  "postalCode": "21343"
  },
  {
   "id": 1406041014,
   "districtId": 1406041,
-  "name": "TALANG DANTO"
+  "districtName": "TAPUNG HULU",
+  "name": "TALANG DANTO",
+  "postalCode": "28464"
  },
  {
   "id": 1406041015,
   "districtId": 1406041,
-  "name": "MUARA INTAN"
+  "districtName": "TAPUNG HULU",
+  "name": "MUARA INTAN",
+  "postalCode": "28556"
  },
  {
   "id": 1406041016,
   "districtId": 1406041,
-  "name": "INTAN JAYA"
+  "districtName": "TAPUNG HULU",
+  "name": "INTAN JAYA",
+  "postalCode": "28556"
  },
  {
   "id": 1406041017,
   "districtId": 1406041,
-  "name": "TANAH DATAR"
+  "districtName": "TAPUNG HULU",
+  "name": "TANAH DATAR",
+  "postalCode": "28556"
  },
  {
   "id": 1406041018,
   "districtId": 1406041,
-  "name": "RIMBA MAKMUR"
+  "districtName": "TAPUNG HULU",
+  "name": "RIMBA MAKMUR",
+  "postalCode": "28556"
  },
  {
   "id": 1406041019,
   "districtId": 1406041,
-  "name": "RIMBA JAYA"
+  "districtName": "TAPUNG HULU",
+  "name": "RIMBA JAYA",
+  "postalCode": "28556"
  }
 ]

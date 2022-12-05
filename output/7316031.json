@@ -2,36 +2,50 @@
  {
   "id": 7316031002,
   "districtId": 7316031,
-  "name": "LEDAN"
+  "districtName": "BUNTU BATU",
+  "name": "LEDAN",
+  "postalCode": "91992"
  },
  {
   "id": 7316031003,
   "districtId": 7316031,
-  "name": "POTOK ULLIN"
+  "districtName": "BUNTU BATU",
+  "name": "POTOK ULLIN",
+  "postalCode": "91753"
  },
  {
   "id": 7316031004,
   "districtId": 7316031,
-  "name": "ERAN BATU"
+  "districtName": "BUNTU BATU",
+  "name": "ERAN BATU",
+  "postalCode": "91753"
  },
  {
   "id": 7316031005,
   "districtId": 7316031,
-  "name": "LANGDA"
+  "districtName": "BUNTU BATU",
+  "name": "LANGDA",
+  "postalCode": "91753"
  },
  {
   "id": 7316031006,
   "districtId": 7316031,
-  "name": "PASUI"
+  "districtName": "BUNTU BATU",
+  "name": "PASUI",
+  "postalCode": "91753"
  },
  {
   "id": 7316031015,
   "districtId": 7316031,
-  "name": "BUNTU MONDONG"
+  "districtName": "BUNTU BATU",
+  "name": "BUNTU MONDONG",
+  "postalCode": "91753"
  },
  {
   "id": 7316031016,
   "districtId": 7316031,
-  "name": "LATIMOJONG"
+  "districtName": "BUNTU BATU",
+  "name": "LATIMOJONG",
+  "postalCode": "91753"
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 6404031001,
   "districtId": 6404031,
-  "name": "BENO HARAPAN"
+  "districtName": "BATU AMPAR",
+  "name": "BENO HARAPAN",
+  "postalCode": ""
  },
  {
   "id": 6404031002,
   "districtId": 6404031,
-  "name": "MUGI RAHAYU"
+  "districtName": "BATU AMPAR",
+  "name": "MUGI RAHAYU",
+  "postalCode": "75654"
  },
  {
   "id": 6404031003,
   "districtId": 6404031,
-  "name": "MAWAI INDAH"
+  "districtName": "BATU AMPAR",
+  "name": "MAWAI INDAH",
+  "postalCode": "75654"
  },
  {
   "id": 6404031004,
   "districtId": 6404031,
-  "name": "HIMBA LESTARI"
+  "districtName": "BATU AMPAR",
+  "name": "HIMBA LESTARI",
+  "postalCode": "75654"
  },
  {
   "id": 6404031005,
   "districtId": 6404031,
-  "name": "BATU TIMBAU"
+  "districtName": "BATU AMPAR",
+  "name": "BATU TIMBAU",
+  "postalCode": "75654"
  },
  {
   "id": 6404031006,
   "districtId": 6404031,
-  "name": "TELAGA"
+  "districtName": "BATU AMPAR",
+  "name": "TELAGA",
+  "postalCode": "20771"
  }
 ]

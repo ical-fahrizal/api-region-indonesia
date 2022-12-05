@@ -2,51 +2,71 @@
  {
   "id": 3501010001,
   "districtId": 3501010,
-  "name": "WIDORO"
+  "districtName": "DONOROJO",
+  "name": "WIDORO",
+  "postalCode": "54353"
  },
  {
   "id": 3501010002,
   "districtId": 3501010,
-  "name": "SAWAHAN"
+  "districtName": "DONOROJO",
+  "name": "SAWAHAN",
+  "postalCode": "25121"
  },
  {
   "id": 3501010003,
   "districtId": 3501010,
-  "name": "KALAK"
+  "districtName": "DONOROJO",
+  "name": "KALAK",
+  "postalCode": "63554"
  },
  {
   "id": 3501010004,
   "districtId": 3501010,
-  "name": "SENDANG"
+  "districtName": "DONOROJO",
+  "name": "SENDANG",
+  "postalCode": "45283"
  },
  {
   "id": 3501010006,
   "districtId": 3501010,
-  "name": "GEDOMPOL"
+  "districtName": "DONOROJO",
+  "name": "GEDOMPOL",
+  "postalCode": "63554"
  },
  {
   "id": 3501010008,
   "districtId": 3501010,
-  "name": "GENDARAN"
+  "districtName": "DONOROJO",
+  "name": "GENDARAN",
+  "postalCode": "63554"
  },
  {
   "id": 3501010009,
   "districtId": 3501010,
-  "name": "SUKODONO"
+  "districtName": "DONOROJO",
+  "name": "SUKODONO",
+  "postalCode": "59552"
  },
  {
   "id": 3501010010,
   "districtId": 3501010,
-  "name": "SEKAR"
+  "districtName": "DONOROJO",
+  "name": "SEKAR",
+  "postalCode": "63554"
  },
  {
   "id": 3501010011,
   "districtId": 3501010,
-  "name": "DONOROJO"
+  "districtName": "DONOROJO",
+  "name": "DONOROJO",
+  "postalCode": "56172"
  },
  {
   "id": 3501010012,
   "districtId": 3501010,
-  "name": "BELAH"
+  "districtName": "DONOROJO",
+  "name": "BELAH",
+  "postalCode": "63554"
  }
 ]

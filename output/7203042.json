@@ -2,46 +2,64 @@
  {
   "id": 7203042001,
   "districtId": 7203042,
-  "name": "PUNTARI MAKMUR"
+  "districtName": "WITA PONDA",
+  "name": "PUNTARI MAKMUR",
+  "postalCode": "94976"
  },
  {
   "id": 7203042002,
   "districtId": 7203042,
-  "name": "SAMPEANTABA"
+  "districtName": "WITA PONDA",
+  "name": "SAMPEANTABA",
+  "postalCode": "94976"
  },
  {
   "id": 7203042003,
   "districtId": 7203042,
-  "name": "LANTULA JAYA"
+  "districtName": "WITA PONDA",
+  "name": "LANTULA JAYA",
+  "postalCode": "94976"
  },
  {
   "id": 7203042004,
   "districtId": 7203042,
-  "name": "BUMI HARAPAN"
+  "districtName": "WITA PONDA",
+  "name": "BUMI HARAPAN",
+  "postalCode": "30673"
  },
  {
   "id": 7203042005,
   "districtId": 7203042,
-  "name": "EMEA"
+  "districtName": "WITA PONDA",
+  "name": "EMEA",
+  "postalCode": "94976"
  },
  {
   "id": 7203042006,
   "districtId": 7203042,
-  "name": "MOAHINO"
+  "districtName": "WITA PONDA",
+  "name": "MOAHINO",
+  "postalCode": "94976"
  },
  {
   "id": 7203042007,
   "districtId": 7203042,
-  "name": "UNGKAYA"
+  "districtName": "WITA PONDA",
+  "name": "UNGKAYA",
+  "postalCode": "94976"
  },
  {
   "id": 7203042008,
   "districtId": 7203042,
-  "name": "SOLONSA JAYA"
+  "districtName": "WITA PONDA",
+  "name": "SOLONSA JAYA",
+  "postalCode": "94976"
  },
  {
   "id": 7203042009,
   "districtId": 7203042,
-  "name": "SOLONSA"
+  "districtName": "WITA PONDA",
+  "name": "SOLONSA",
+  "postalCode": "94976"
  }
 ]

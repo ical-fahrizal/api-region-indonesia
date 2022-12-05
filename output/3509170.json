@@ -2,51 +2,71 @@
  {
   "id": 3509170001,
   "districtId": 3509170,
-  "name": "SUMBER AGUNG"
+  "districtName": "SUMBER BARU",
+  "name": "SUMBER AGUNG",
+  "postalCode": "37353"
  },
  {
   "id": 3509170002,
   "districtId": 3509170,
-  "name": "ROWO TENGAH"
+  "districtName": "SUMBER BARU",
+  "name": "ROWO TENGAH",
+  "postalCode": "68156"
  },
  {
   "id": 3509170003,
   "districtId": 3509170,
-  "name": "YOSORATI"
+  "districtName": "SUMBER BARU",
+  "name": "YOSORATI",
+  "postalCode": "68156"
  },
  {
   "id": 3509170004,
   "districtId": 3509170,
-  "name": "PRINGGOWIRAWAN"
+  "districtName": "SUMBER BARU",
+  "name": "PRINGGOWIRAWAN",
+  "postalCode": "68156"
  },
  {
   "id": 3509170005,
   "districtId": 3509170,
-  "name": "KARANG BAYAT"
+  "districtName": "SUMBER BARU",
+  "name": "KARANG BAYAT",
+  "postalCode": "68156"
  },
  {
   "id": 3509170006,
   "districtId": 3509170,
-  "name": "GELANG"
+  "districtName": "SUMBER BARU",
+  "name": "GELANG",
+  "postalCode": "59454"
  },
  {
   "id": 3509170007,
   "districtId": 3509170,
-  "name": "JATIROTO"
+  "districtName": "SUMBER BARU",
+  "name": "JATIROTO",
+  "postalCode": "54474"
  },
  {
   "id": 3509170008,
   "districtId": 3509170,
-  "name": "JAMINTORO"
+  "districtName": "SUMBER BARU",
+  "name": "JAMINTORO",
+  "postalCode": "68156"
  },
  {
   "id": 3509170009,
   "districtId": 3509170,
-  "name": "KALIGLAGAH"
+  "districtName": "SUMBER BARU",
+  "name": "KALIGLAGAH",
+  "postalCode": "54262"
  },
  {
   "id": 3509170010,
   "districtId": 3509170,
-  "name": "JAMBESARI"
+  "districtName": "SUMBER BARU",
+  "name": "JAMBESARI",
+  "postalCode": "68425"
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 2103051002,
   "districtId": 2103051,
-  "name": "TANJUNG"
+  "districtName": "BUNGURAN TIMUR LAUT",
+  "name": "TANJUNG",
+  "postalCode": "24562"
  },
  {
   "id": 2103051003,
   "districtId": 2103051,
-  "name": "KELANGA"
+  "districtName": "BUNGURAN TIMUR LAUT",
+  "name": "KELANGA",
+  "postalCode": "29783"
  },
  {
   "id": 2103051004,
   "districtId": 2103051,
-  "name": "PENGADAH"
+  "districtName": "BUNGURAN TIMUR LAUT",
+  "name": "PENGADAH",
+  "postalCode": "29783"
  },
  {
   "id": 2103051005,
   "districtId": 2103051,
-  "name": "SEBADAI HULU"
+  "districtName": "BUNGURAN TIMUR LAUT",
+  "name": "SEBADAI HULU",
+  "postalCode": ""
  },
  {
   "id": 2103051006,
   "districtId": 2103051,
-  "name": "LIMAU MANIS"
+  "districtName": "BUNGURAN TIMUR LAUT",
+  "name": "LIMAU MANIS",
+  "postalCode": "22998"
  },
  {
   "id": 2103051007,
   "districtId": 2103051,
-  "name": "SELEMAM"
+  "districtName": "BUNGURAN TIMUR LAUT",
+  "name": "SELEMAM",
+  "postalCode": ""
  }
 ]

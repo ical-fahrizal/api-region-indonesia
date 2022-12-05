@@ -2,21 +2,29 @@
  {
   "id": 1502064001,
   "districtId": 1502064,
-  "name": "BUKIT SUBUR"
+  "districtName": "TABIR TIMUR",
+  "name": "BUKIT SUBUR",
+  "postalCode": "36365"
  },
  {
   "id": 1502064002,
   "districtId": 1502064,
-  "name": "SUNGAI BULIAN"
+  "districtName": "TABIR TIMUR",
+  "name": "SUNGAI BULIAN",
+  "postalCode": "37353"
  },
  {
   "id": 1502064003,
   "districtId": 1502064,
-  "name": "SUNGAI LIMAU"
+  "districtName": "TABIR TIMUR",
+  "name": "SUNGAI LIMAU",
+  "postalCode": "28763"
  },
  {
   "id": 1502064004,
   "districtId": 1502064,
-  "name": "SRI SEMBILAN"
+  "districtName": "TABIR TIMUR",
+  "name": "SRI SEMBILAN",
+  "postalCode": "37353"
  }
 ]

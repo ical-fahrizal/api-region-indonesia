@@ -2,56 +2,78 @@
  {
   "id": 3305090001,
   "districtId": 3305090,
-  "name": "TERSOBO"
+  "districtName": "PREMBUN",
+  "name": "TERSOBO",
+  "postalCode": "54394"
  },
  {
   "id": 3305090003,
   "districtId": 3305090,
-  "name": "KABEKELAN"
+  "districtName": "PREMBUN",
+  "name": "KABEKELAN",
+  "postalCode": "54394"
  },
  {
   "id": 3305090004,
   "districtId": 3305090,
-  "name": "TUNGGALROSO"
+  "districtName": "PREMBUN",
+  "name": "TUNGGALROSO",
+  "postalCode": "54394"
  },
  {
   "id": 3305090005,
   "districtId": 3305090,
-  "name": "KEDUNGWARU"
+  "districtName": "PREMBUN",
+  "name": "KEDUNGWARU",
+  "postalCode": "54353"
  },
  {
   "id": 3305090006,
   "districtId": 3305090,
-  "name": "BAGUNG"
+  "districtName": "PREMBUN",
+  "name": "BAGUNG",
+  "postalCode": "54394"
  },
  {
   "id": 3305090007,
   "districtId": 3305090,
-  "name": "SIDOGEDE"
+  "districtName": "PREMBUN",
+  "name": "SIDOGEDE",
+  "postalCode": "32382"
  },
  {
   "id": 3305090008,
   "districtId": 3305090,
-  "name": "SEMBIRKADIPATEN"
+  "districtName": "PREMBUN",
+  "name": "SEMBIRKADIPATEN",
+  "postalCode": "54394"
  },
  {
   "id": 3305090010,
   "districtId": 3305090,
-  "name": "MULYOSRI"
+  "districtName": "PREMBUN",
+  "name": "MULYOSRI",
+  "postalCode": "54394"
  },
  {
   "id": 3305090011,
   "districtId": 3305090,
-  "name": "PESUNINGAN"
+  "districtName": "PREMBUN",
+  "name": "PESUNINGAN",
+  "postalCode": "54394"
  },
  {
   "id": 3305090012,
   "districtId": 3305090,
-  "name": "PECARIKAN"
+  "districtName": "PREMBUN",
+  "name": "PECARIKAN",
+  "postalCode": "54394"
  },
  {
   "id": 3305090013,
   "districtId": 3305090,
-  "name": "KABUARAN"
+  "districtName": "PREMBUN",
+  "name": "KABUARAN",
+  "postalCode": "54394"
  }
 ]

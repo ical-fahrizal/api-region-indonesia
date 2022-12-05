@@ -2,41 +2,57 @@
  {
   "id": 1674012001,
   "districtId": 1674012,
-  "name": "SIDOREJO"
+  "districtName": "LUBUK LINGGAU BARAT II",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 1674012002,
   "districtId": 1674012,
-  "name": "TAPAK LEBAR"
+  "districtName": "LUBUK LINGGAU BARAT II",
+  "name": "TAPAK LEBAR",
+  "postalCode": "31611"
  },
  {
   "id": 1674012003,
   "districtId": 1674012,
-  "name": "ULAK LEBAR"
+  "districtName": "LUBUK LINGGAU BARAT II",
+  "name": "ULAK LEBAR",
+  "postalCode": "31419"
  },
  {
   "id": 1674012004,
   "districtId": 1674012,
-  "name": "BANDUNG KANAN"
+  "districtName": "LUBUK LINGGAU BARAT II",
+  "name": "BANDUNG KANAN",
+  "postalCode": "31611"
  },
  {
   "id": 1674012005,
   "districtId": 1674012,
-  "name": "KEPUTERAAN"
+  "districtName": "LUBUK LINGGAU BARAT II",
+  "name": "KEPUTERAAN",
+  "postalCode": ""
  },
  {
   "id": 1674012006,
   "districtId": 1674012,
-  "name": "LUBUK LINGGAU ULU"
+  "districtName": "LUBUK LINGGAU BARAT II",
+  "name": "LUBUK LINGGAU ULU",
+  "postalCode": "31611"
  },
  {
   "id": 1674012007,
   "districtId": 1674012,
-  "name": "LUBUK LINGGAU ILIR"
+  "districtName": "LUBUK LINGGAU BARAT II",
+  "name": "LUBUK LINGGAU ILIR",
+  "postalCode": "31611"
  },
  {
   "id": 1674012008,
   "districtId": 1674012,
-  "name": "PASAR PERMIRI"
+  "districtName": "LUBUK LINGGAU BARAT II",
+  "name": "PASAR PERMIRI",
+  "postalCode": "31611"
  }
 ]

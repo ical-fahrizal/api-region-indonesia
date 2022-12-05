@@ -2,51 +2,71 @@
  {
   "id": 7301042001,
   "districtId": 7301042,
-  "name": "PARAK"
+  "districtName": "BONTOMANAI",
+  "name": "PARAK",
+  "postalCode": "92851"
  },
  {
   "id": 7301042002,
   "districtId": 7301042,
-  "name": "JAMBUIYA"
+  "districtName": "BONTOMANAI",
+  "name": "JAMBUIYA",
+  "postalCode": "92851"
  },
  {
   "id": 7301042003,
   "districtId": 7301042,
-  "name": "BONTOMARANNU"
+  "districtName": "BONTOMANAI",
+  "name": "BONTOMARANNU",
+  "postalCode": "92851"
  },
  {
   "id": 7301042004,
   "districtId": 7301042,
-  "name": "BONEA TIMUR"
+  "districtName": "BONTOMANAI",
+  "name": "BONEA TIMUR",
+  "postalCode": "92851"
  },
  {
   "id": 7301042005,
   "districtId": 7301042,
-  "name": "MARE MARE"
+  "districtName": "BONTOMANAI",
+  "name": "MARE MARE",
+  "postalCode": "92851"
  },
  {
   "id": 7301042006,
   "districtId": 7301042,
-  "name": "BARUGAIYA"
+  "districtName": "BONTOMANAI",
+  "name": "BARUGAIYA",
+  "postalCode": "92851"
  },
  {
   "id": 7301042007,
   "districtId": 7301042,
-  "name": "POLEBUNGIN"
+  "districtName": "BONTOMANAI",
+  "name": "POLEBUNGIN",
+  "postalCode": "92851"
  },
  {
   "id": 7301042008,
   "districtId": 7301042,
-  "name": "BONEA MAKMUR"
+  "districtName": "BONTOMANAI",
+  "name": "BONEA MAKMUR",
+  "postalCode": "92851"
  },
  {
   "id": 7301042009,
   "districtId": 7301042,
-  "name": "BONTOKORAANG"
+  "districtName": "BONTOMANAI",
+  "name": "BONTOKORAANG",
+  "postalCode": "92851"
  },
  {
   "id": 7301042010,
   "districtId": 7301042,
-  "name": "KABURU"
+  "districtName": "BONTOMANAI",
+  "name": "KABURU",
+  "postalCode": "92851"
  }
 ]

@@ -2,21 +2,29 @@
  {
   "id": 9427020005,
   "districtId": 9427020,
-  "name": "WARSA"
+  "districtName": "SUPIORI UTARA",
+  "name": "WARSA",
+  "postalCode": "98162"
  },
  {
   "id": 9427020006,
   "districtId": 9427020,
-  "name": "WARBOR"
+  "districtName": "SUPIORI UTARA",
+  "name": "WARBOR",
+  "postalCode": "98162"
  },
  {
   "id": 9427020007,
   "districtId": 9427020,
-  "name": "KOBARI JAYA"
+  "districtName": "SUPIORI UTARA",
+  "name": "KOBARI JAYA",
+  "postalCode": "98162"
  },
  {
   "id": 9427020008,
   "districtId": 9427020,
-  "name": "FANJUR"
+  "districtName": "SUPIORI UTARA",
+  "name": "FANJUR",
+  "postalCode": "98162"
  }
 ]

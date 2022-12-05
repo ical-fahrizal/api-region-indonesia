@@ -2,56 +2,78 @@
  {
   "id": 6105120001,
   "districtId": 6105120,
-  "name": "TERATI"
+  "districtName": "JANGKANG",
+  "name": "TERATI",
+  "postalCode": "78591"
  },
  {
   "id": 6105120002,
   "districtId": 6105120,
-  "name": "SELAMPUNG"
+  "districtName": "JANGKANG",
+  "name": "SELAMPUNG",
+  "postalCode": "78591"
  },
  {
   "id": 6105120003,
   "districtId": 6105120,
-  "name": "SAPE"
+  "districtName": "JANGKANG",
+  "name": "SAPE",
+  "postalCode": "78591"
  },
  {
   "id": 6105120004,
   "districtId": 6105120,
-  "name": "SEMIRAU"
+  "districtName": "JANGKANG",
+  "name": "SEMIRAU",
+  "postalCode": "78591"
  },
  {
   "id": 6105120005,
   "districtId": 6105120,
-  "name": "BALAI SEBUT"
+  "districtName": "JANGKANG",
+  "name": "BALAI SEBUT",
+  "postalCode": "78591"
  },
  {
   "id": 6105120006,
   "districtId": 6105120,
-  "name": "SEMOMBAT"
+  "districtName": "JANGKANG",
+  "name": "SEMOMBAT",
+  "postalCode": "78591"
  },
  {
   "id": 6105120007,
   "districtId": 6105120,
-  "name": "EMPIYANG"
+  "districtName": "JANGKANG",
+  "name": "EMPIYANG",
+  "postalCode": "78591"
  },
  {
   "id": 6105120008,
   "districtId": 6105120,
-  "name": "JANGKANG"
+  "districtName": "JANGKANG",
+  "name": "JANGKANG",
+  "postalCode": "28754"
  },
  {
   "id": 6105120009,
   "districtId": 6105120,
-  "name": "TANGGUNG"
+  "districtName": "JANGKANG",
+  "name": "TANGGUNG",
+  "postalCode": "66272"
  },
  {
   "id": 6105120010,
   "districtId": 6105120,
-  "name": "PISANG"
+  "districtName": "JANGKANG",
+  "name": "PISANG",
+  "postalCode": "23761"
  },
  {
   "id": 6105120011,
   "districtId": 6105120,
-  "name": "KETORI"
+  "districtName": "JANGKANG",
+  "name": "KETORI",
+  "postalCode": "78591"
  }
 ]

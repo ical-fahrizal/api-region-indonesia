@@ -2,66 +2,92 @@
  {
   "id": 7312010001,
   "districtId": 7312010,
-  "name": "GATTARENG"
+  "districtName": "MARIO RIWAWO",
+  "name": "GATTARENG",
+  "postalCode": "92561"
  },
  {
   "id": 7312010002,
   "districtId": 7312010,
-  "name": "MARIO RIAJA"
+  "districtName": "MARIO RIWAWO",
+  "name": "MARIO RIAJA",
+  "postalCode": "90862"
  },
  {
   "id": 7312010003,
   "districtId": 7312010,
-  "name": "WATU"
+  "districtName": "MARIO RIWAWO",
+  "name": "WATU",
+  "postalCode": "86511"
  },
  {
   "id": 7312010004,
   "districtId": 7312010,
-  "name": "MARIO RITTENGNGA"
+  "districtName": "MARIO RIWAWO",
+  "name": "MARIO RITTENGNGA",
+  "postalCode": "90862"
  },
  {
   "id": 7312010005,
   "districtId": 7312010,
-  "name": "GOARIE"
+  "districtName": "MARIO RIWAWO",
+  "name": "GOARIE",
+  "postalCode": "90862"
  },
  {
   "id": 7312010006,
   "districtId": 7312010,
-  "name": "BARAE"
+  "districtName": "MARIO RIWAWO",
+  "name": "BARAE",
+  "postalCode": "90862"
  },
  {
   "id": 7312010007,
   "districtId": 7312010,
-  "name": "MARIO RILAU"
+  "districtName": "MARIO RIWAWO",
+  "name": "MARIO RILAU",
+  "postalCode": "90862"
  },
  {
   "id": 7312010008,
   "districtId": 7312010,
-  "name": "TETTIKENGRARAE"
+  "districtName": "MARIO RIWAWO",
+  "name": "TETTIKENGRARAE",
+  "postalCode": "90862"
  },
  {
   "id": 7312010009,
   "districtId": 7312010,
-  "name": "LABESSI"
+  "districtName": "MARIO RIWAWO",
+  "name": "LABESSI",
+  "postalCode": "90862"
  },
  {
   "id": 7312010010,
   "districtId": 7312010,
-  "name": "CONGKO"
+  "districtName": "MARIO RIWAWO",
+  "name": "CONGKO",
+  "postalCode": "92771"
  },
  {
   "id": 7312010011,
   "districtId": 7312010,
-  "name": "WATUTOA"
+  "districtName": "MARIO RIWAWO",
+  "name": "WATUTOA",
+  "postalCode": "90862"
  },
  {
   "id": 7312010012,
   "districtId": 7312010,
-  "name": "GATTARENG TOA"
+  "districtName": "MARIO RIWAWO",
+  "name": "GATTARENG TOA",
+  "postalCode": "90862"
  },
  {
   "id": 7312010013,
   "districtId": 7312010,
-  "name": "SOGA"
+  "districtName": "MARIO RIWAWO",
+  "name": "SOGA",
+  "postalCode": "90862"
  }
 ]

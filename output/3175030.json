@@ -2,36 +2,50 @@
  {
   "id": 3175030001,
   "districtId": 3175030,
-  "name": "SUNTER AGUNG"
+  "districtName": "TANJUNG PRIOK",
+  "name": "SUNTER AGUNG",
+  "postalCode": "14350"
  },
  {
   "id": 3175030002,
   "districtId": 3175030,
-  "name": "SUNTER JAYA"
+  "districtName": "TANJUNG PRIOK",
+  "name": "SUNTER JAYA",
+  "postalCode": "14360"
  },
  {
   "id": 3175030003,
   "districtId": 3175030,
-  "name": "PAPANGO"
+  "districtName": "TANJUNG PRIOK",
+  "name": "PAPANGO",
+  "postalCode": ""
  },
  {
   "id": 3175030004,
   "districtId": 3175030,
-  "name": "WARAKAS"
+  "districtName": "TANJUNG PRIOK",
+  "name": "WARAKAS",
+  "postalCode": "14370"
  },
  {
   "id": 3175030005,
   "districtId": 3175030,
-  "name": "SUNGAI BAMBU"
+  "districtName": "TANJUNG PRIOK",
+  "name": "SUNGAI BAMBU",
+  "postalCode": "14330"
  },
  {
   "id": 3175030006,
   "districtId": 3175030,
-  "name": "KEBON BAWANG"
+  "districtName": "TANJUNG PRIOK",
+  "name": "KEBON BAWANG",
+  "postalCode": "14320"
  },
  {
   "id": 3175030007,
   "districtId": 3175030,
-  "name": "TANJUNG PRIUK"
+  "districtName": "TANJUNG PRIOK",
+  "name": "TANJUNG PRIUK",
+  "postalCode": ""
  }
 ]

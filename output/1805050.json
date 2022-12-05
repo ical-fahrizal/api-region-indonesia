@@ -2,71 +2,99 @@
  {
   "id": 1805050001,
   "districtId": 1805050,
-  "name": "ADIPURO"
+  "districtName": "TRIMURJO",
+  "name": "ADIPURO",
+  "postalCode": "34172"
  },
  {
   "id": 1805050002,
   "districtId": 1805050,
-  "name": "LEMAN BENAWI"
+  "districtName": "TRIMURJO",
+  "name": "LEMAN BENAWI",
+  "postalCode": ""
  },
  {
   "id": 1805050003,
   "districtId": 1805050,
-  "name": "DEPOK REJO"
+  "districtName": "TRIMURJO",
+  "name": "DEPOK REJO",
+  "postalCode": "34172"
  },
  {
   "id": 1805050004,
   "districtId": 1805050,
-  "name": "TEMPURAN"
+  "districtName": "TRIMURJO",
+  "name": "TEMPURAN",
+  "postalCode": "34172"
  },
  {
   "id": 1805050005,
   "districtId": 1805050,
-  "name": "SIMBAR WARINGIN"
+  "districtName": "TRIMURJO",
+  "name": "SIMBAR WARINGIN",
+  "postalCode": "34171"
  },
  {
   "id": 1805050006,
   "districtId": 1805050,
-  "name": "TRIMURJO"
+  "districtName": "TRIMURJO",
+  "name": "TRIMURJO",
+  "postalCode": "34172"
  },
  {
   "id": 1805050007,
   "districtId": 1805050,
-  "name": "NOTOHARJO"
+  "districtName": "TRIMURJO",
+  "name": "NOTOHARJO",
+  "postalCode": "34172"
  },
  {
   "id": 1805050008,
   "districtId": 1805050,
-  "name": "UNTORO"
+  "districtName": "TRIMURJO",
+  "name": "UNTORO",
+  "postalCode": "34172"
  },
  {
   "id": 1805050009,
   "districtId": 1805050,
-  "name": "PURWOADI"
+  "districtName": "TRIMURJO",
+  "name": "PURWOADI",
+  "postalCode": "34172"
  },
  {
   "id": 1805050010,
   "districtId": 1805050,
-  "name": "PURWODADI"
+  "districtName": "TRIMURJO",
+  "name": "PURWODADI",
+  "postalCode": "24652"
  },
  {
   "id": 1805050011,
   "districtId": 1805050,
-  "name": "PUJODADI"
+  "districtName": "TRIMURJO",
+  "name": "PUJODADI",
+  "postalCode": "35682"
  },
  {
   "id": 1805050012,
   "districtId": 1805050,
-  "name": "PUJOKERTO"
+  "districtName": "TRIMURJO",
+  "name": "PUJOKERTO",
+  "postalCode": "34172"
  },
  {
   "id": 1805050013,
   "districtId": 1805050,
-  "name": "PUJO BASUKI"
+  "districtName": "TRIMURJO",
+  "name": "PUJO BASUKI",
+  "postalCode": "34172"
  },
  {
   "id": 1805050014,
   "districtId": 1805050,
-  "name": "PUJOASRI"
+  "districtName": "TRIMURJO",
+  "name": "PUJOASRI",
+  "postalCode": "34172"
  }
 ]

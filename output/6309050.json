@@ -2,71 +2,99 @@
  {
   "id": 6309050001,
   "districtId": 6309050,
-  "name": "WALANGKIR"
+  "districtName": "TANTA",
+  "name": "WALANGKIR",
+  "postalCode": "71561"
  },
  {
   "id": 6309050002,
   "districtId": 6309050,
-  "name": "PULAU KU'U"
+  "districtName": "TANTA",
+  "name": "PULAU KU'U",
+  "postalCode": ""
  },
  {
   "id": 6309050003,
   "districtId": 6309050,
-  "name": "TAMIYANG"
+  "districtName": "TANTA",
+  "name": "TAMIYANG",
+  "postalCode": "72169"
  },
  {
   "id": 6309050004,
   "districtId": 6309050,
-  "name": "WARUKIN"
+  "districtName": "TANTA",
+  "name": "WARUKIN",
+  "postalCode": "71561"
  },
  {
   "id": 6309050005,
   "districtId": 6309050,
-  "name": "PADANG PANJANG"
+  "districtName": "TANTA",
+  "name": "PADANG PANJANG",
+  "postalCode": "23765"
  },
  {
   "id": 6309050007,
   "districtId": 6309050,
-  "name": "BARIMBUN"
+  "districtName": "TANTA",
+  "name": "BARIMBUN",
+  "postalCode": "71561"
  },
  {
   "id": 6309050010,
   "districtId": 6309050,
-  "name": "PADANGIN"
+  "districtName": "TANTA",
+  "name": "PADANGIN",
+  "postalCode": "71555"
  },
  {
   "id": 6309050011,
   "districtId": 6309050,
-  "name": "LUK BAYUR"
+  "districtName": "TANTA",
+  "name": "LUK BAYUR",
+  "postalCode": "71561"
  },
  {
   "id": 6309050014,
   "districtId": 6309050,
-  "name": "MANGKUSIP"
+  "districtName": "TANTA",
+  "name": "MANGKUSIP",
+  "postalCode": "71561"
  },
  {
   "id": 6309050015,
   "districtId": 6309050,
-  "name": "TANTA"
+  "districtName": "TANTA",
+  "name": "TANTA",
+  "postalCode": "71561"
  },
  {
   "id": 6309050017,
   "districtId": 6309050,
-  "name": "TANTA HULU"
+  "districtName": "TANTA",
+  "name": "TANTA HULU",
+  "postalCode": "71561"
  },
  {
   "id": 6309050019,
   "districtId": 6309050,
-  "name": "PUAIN KANAN"
+  "districtName": "TANTA",
+  "name": "PUAIN KANAN",
+  "postalCode": "71561"
  },
  {
   "id": 6309050020,
   "districtId": 6309050,
-  "name": "PAMARANGAN KANAN"
+  "districtName": "TANTA",
+  "name": "PAMARANGAN KANAN",
+  "postalCode": "71561"
  },
  {
   "id": 6309050022,
   "districtId": 6309050,
-  "name": "MURUNG BARU"
+  "districtName": "TANTA",
+  "name": "MURUNG BARU",
+  "postalCode": "71561"
  }
 ]

@@ -2,56 +2,78 @@
  {
   "id": 1206073001,
   "districtId": 1206073,
-  "name": "SIANTAR UTARA"
+  "districtName": "PARMAKSIAN",
+  "name": "SIANTAR UTARA",
+  "postalCode": "22384"
  },
  {
   "id": 1206073002,
   "districtId": 1206073,
-  "name": "DOLOK NAULI"
+  "districtName": "PARMAKSIAN",
+  "name": "DOLOK NAULI",
+  "postalCode": "24673"
  },
  {
   "id": 1206073003,
   "districtId": 1206073,
-  "name": "JONGGI MANULUS"
+  "districtName": "PARMAKSIAN",
+  "name": "JONGGI MANULUS",
+  "postalCode": "22384"
  },
  {
   "id": 1206073004,
   "districtId": 1206073,
-  "name": "BANJAR GANJANG"
+  "districtName": "PARMAKSIAN",
+  "name": "BANJAR GANJANG",
+  "postalCode": "22384"
  },
  {
   "id": 1206073005,
   "districtId": 1206073,
-  "name": "PANGOMBUSAN"
+  "districtName": "PARMAKSIAN",
+  "name": "PANGOMBUSAN",
+  "postalCode": "22384"
  },
  {
   "id": 1206073006,
   "districtId": 1206073,
-  "name": "LUMBAN SITORUS"
+  "districtName": "PARMAKSIAN",
+  "name": "LUMBAN SITORUS",
+  "postalCode": "22384"
  },
  {
   "id": 1206073007,
   "districtId": 1206073,
-  "name": "BIUS GU BARAT"
+  "districtName": "PARMAKSIAN",
+  "name": "BIUS GU BARAT",
+  "postalCode": "22384"
  },
  {
   "id": 1206073008,
   "districtId": 1206073,
-  "name": "LUMBAN HUALA"
+  "districtName": "PARMAKSIAN",
+  "name": "LUMBAN HUALA",
+  "postalCode": "22384"
  },
  {
   "id": 1206073009,
   "districtId": 1206073,
-  "name": "TANGGA BATU II"
+  "districtName": "PARMAKSIAN",
+  "name": "TANGGA BATU II",
+  "postalCode": "22384"
  },
  {
   "id": 1206073010,
   "districtId": 1206073,
-  "name": "TANGGA BATU I"
+  "districtName": "PARMAKSIAN",
+  "name": "TANGGA BATU I",
+  "postalCode": "22384"
  },
  {
   "id": 1206073011,
   "districtId": 1206073,
-  "name": "LUMBAN MANURUNG"
+  "districtName": "PARMAKSIAN",
+  "name": "LUMBAN MANURUNG",
+  "postalCode": "22384"
  }
 ]

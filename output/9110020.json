@@ -2,56 +2,78 @@
  {
   "id": 9110020001,
   "districtId": 9110020,
-  "name": "KAMRO"
+  "districtName": "AITINYO",
+  "name": "KAMRO",
+  "postalCode": "98462"
  },
  {
   "id": 9110020002,
   "districtId": 9110020,
-  "name": "SUMANIS"
+  "districtName": "AITINYO",
+  "name": "SUMANIS",
+  "postalCode": "98462"
  },
  {
   "id": 9110020003,
   "districtId": 9110020,
-  "name": "KARSU"
+  "districtName": "AITINYO",
+  "name": "KARSU",
+  "postalCode": "98462"
  },
  {
   "id": 9110020004,
   "districtId": 9110020,
-  "name": "SRIS"
+  "districtName": "AITINYO",
+  "name": "SRIS",
+  "postalCode": "98462"
  },
  {
   "id": 9110020005,
   "districtId": 9110020,
-  "name": "EROH HE"
+  "districtName": "AITINYO",
+  "name": "EROH HE",
+  "postalCode": ""
  },
  {
   "id": 9110020006,
   "districtId": 9110020,
-  "name": "AITINYO"
+  "districtName": "AITINYO",
+  "name": "AITINYO",
+  "postalCode": "98462"
  },
  {
   "id": 9110020007,
   "districtId": 9110020,
-  "name": "KOROM"
+  "districtName": "AITINYO",
+  "name": "KOROM",
+  "postalCode": "98462"
  },
  {
   "id": 9110020008,
   "districtId": 9110020,
-  "name": "TEHAK KECIL"
+  "districtName": "AITINYO",
+  "name": "TEHAK KECIL",
+  "postalCode": "98462"
  },
  {
   "id": 9110020009,
   "districtId": 9110020,
-  "name": "SIRA AYA"
+  "districtName": "AITINYO",
+  "name": "SIRA AYA",
+  "postalCode": "98462"
  },
  {
   "id": 9110020014,
   "districtId": 9110020,
-  "name": "SOWAI SAU"
+  "districtName": "AITINYO",
+  "name": "SOWAI SAU",
+  "postalCode": "98462"
  },
  {
   "id": 9110020015,
   "districtId": 9110020,
-  "name": "IBASUF"
+  "districtName": "AITINYO",
+  "name": "IBASUF",
+  "postalCode": "98462"
  }
 ]

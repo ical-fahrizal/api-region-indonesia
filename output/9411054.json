@@ -2,16 +2,22 @@
  {
   "id": 9411054001,
   "districtId": 9411054,
-  "name": "JIGUNIKIME"
+  "districtName": "ILAMBURAWI",
+  "name": "JIGUNIKIME",
+  "postalCode": "98913"
  },
  {
   "id": 9411054003,
   "districtId": 9411054,
-  "name": "ILAMBURAWI"
+  "districtName": "ILAMBURAWI",
+  "name": "ILAMBURAWI",
+  "postalCode": "98911"
  },
  {
   "id": 9411054004,
   "districtId": 9411054,
-  "name": "KALOME"
+  "districtName": "ILAMBURAWI",
+  "name": "KALOME",
+  "postalCode": "98912"
  }
 ]

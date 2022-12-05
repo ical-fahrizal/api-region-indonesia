@@ -2,36 +2,50 @@
  {
   "id": 3504190001,
   "districtId": 3504190,
-  "name": "KEDOYO"
+  "districtName": "SENDANG",
+  "name": "KEDOYO",
+  "postalCode": "66254"
  },
  {
   "id": 3504190003,
   "districtId": 3504190,
-  "name": "TALANG"
+  "districtName": "SENDANG",
+  "name": "TALANG",
+  "postalCode": "27365"
  },
  {
   "id": 3504190004,
   "districtId": 3504190,
-  "name": "DONO"
+  "districtName": "SENDANG",
+  "name": "DONO",
+  "postalCode": "66254"
  },
  {
   "id": 3504190005,
   "districtId": 3504190,
-  "name": "KROSOK"
+  "districtName": "SENDANG",
+  "name": "KROSOK",
+  "postalCode": "66254"
  },
  {
   "id": 3504190007,
   "districtId": 3504190,
-  "name": "PICISAN"
+  "districtName": "SENDANG",
+  "name": "PICISAN",
+  "postalCode": "66254"
  },
  {
   "id": 3504190008,
   "districtId": 3504190,
-  "name": "NYAWANGAN"
+  "districtName": "SENDANG",
+  "name": "NYAWANGAN",
+  "postalCode": "64172"
  },
  {
   "id": 3504190009,
   "districtId": 3504190,
-  "name": "SENDANG"
+  "districtName": "SENDANG",
+  "name": "SENDANG",
+  "postalCode": "45283"
  }
 ]

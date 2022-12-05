@@ -2,46 +2,64 @@
  {
   "id": 3205010006,
   "districtId": 3205010,
-  "name": "SUKAJAYA"
+  "districtName": "CISEWU",
+  "name": "SUKAJAYA",
+  "postalCode": "30756"
  },
  {
   "id": 3205010007,
   "districtId": 3205010,
-  "name": "CIKARANG"
+  "districtName": "CISEWU",
+  "name": "CIKARANG",
+  "postalCode": "43184"
  },
  {
   "id": 3205010008,
   "districtId": 3205010,
-  "name": "PAMALAYAN"
+  "districtName": "CISEWU",
+  "name": "PAMALAYAN",
+  "postalCode": "44162"
  },
  {
   "id": 3205010009,
   "districtId": 3205010,
-  "name": "CISEWU"
+  "districtName": "CISEWU",
+  "name": "CISEWU",
+  "postalCode": "44166"
  },
  {
   "id": 3205010010,
   "districtId": 3205010,
-  "name": "GIRIMUKTI"
+  "districtName": "CISEWU",
+  "name": "GIRIMUKTI",
+  "postalCode": "46475"
  },
  {
   "id": 3205010011,
   "districtId": 3205010,
-  "name": "NYALINDUNG"
+  "districtName": "CISEWU",
+  "name": "NYALINDUNG",
+  "postalCode": "45353"
  },
  {
   "id": 3205010012,
   "districtId": 3205010,
-  "name": "KARANGSEWU"
+  "districtName": "CISEWU",
+  "name": "KARANGSEWU",
+  "postalCode": "44166"
  },
  {
   "id": 3205010013,
   "districtId": 3205010,
-  "name": "MEKARSEWU"
+  "districtName": "CISEWU",
+  "name": "MEKARSEWU",
+  "postalCode": "44166"
  },
  {
   "id": 3205010014,
   "districtId": 3205010,
-  "name": "PANGGALIH"
+  "districtName": "CISEWU",
+  "name": "PANGGALIH",
+  "postalCode": "44166"
  }
 ]

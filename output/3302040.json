@@ -2,46 +2,64 @@
  {
   "id": 3302040001,
   "districtId": 3302040,
-  "name": "LOSARI"
+  "districtName": "RAWALO",
+  "name": "LOSARI",
+  "postalCode": "52364"
  },
  {
   "id": 3302040002,
   "districtId": 3302040,
-  "name": "MENGANTI"
+  "districtName": "RAWALO",
+  "name": "MENGANTI",
+  "postalCode": "59463"
  },
  {
   "id": 3302040003,
   "districtId": 3302040,
-  "name": "BANJARPARAKAN"
+  "districtName": "RAWALO",
+  "name": "BANJARPARAKAN",
+  "postalCode": "53173"
  },
  {
   "id": 3302040004,
   "districtId": 3302040,
-  "name": "RAWALO"
+  "districtName": "RAWALO",
+  "name": "RAWALO",
+  "postalCode": "53173"
  },
  {
   "id": 3302040005,
   "districtId": 3302040,
-  "name": "TAMBAKNEGARA"
+  "districtName": "RAWALO",
+  "name": "TAMBAKNEGARA",
+  "postalCode": "53173"
  },
  {
   "id": 3302040006,
   "districtId": 3302040,
-  "name": "SIDAMULIH"
+  "districtName": "RAWALO",
+  "name": "SIDAMULIH",
+  "postalCode": "46365"
  },
  {
   "id": 3302040007,
   "districtId": 3302040,
-  "name": "PESAWAHAN"
+  "districtName": "RAWALO",
+  "name": "PESAWAHAN",
+  "postalCode": "35223"
  },
  {
   "id": 3302040008,
   "districtId": 3302040,
-  "name": "TIPAR"
+  "districtName": "RAWALO",
+  "name": "TIPAR",
+  "postalCode": "44177"
  },
  {
   "id": 3302040009,
   "districtId": 3302040,
-  "name": "SANGGREMAN"
+  "districtName": "RAWALO",
+  "name": "SANGGREMAN",
+  "postalCode": "53173"
  }
 ]

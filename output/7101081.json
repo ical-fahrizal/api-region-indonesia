@@ -2,61 +2,85 @@
  {
   "id": 7101081001,
   "districtId": 7101081,
-  "name": "MUNTOI"
+  "districtName": "PASSI BARAT",
+  "name": "MUNTOI",
+  "postalCode": ""
  },
  {
   "id": 7101081002,
   "districtId": 7101081,
-  "name": "INUAI"
+  "districtName": "PASSI BARAT",
+  "name": "INUAI",
+  "postalCode": "95751"
  },
  {
   "id": 7101081003,
   "districtId": 7101081,
-  "name": "POYUYANAN"
+  "districtName": "PASSI BARAT",
+  "name": "POYUYANAN",
+  "postalCode": "95751"
  },
  {
   "id": 7101081004,
   "districtId": 7101081,
-  "name": "LOBONG"
+  "districtName": "PASSI BARAT",
+  "name": "LOBONG",
+  "postalCode": "95751"
  },
  {
   "id": 7101081005,
   "districtId": 7101081,
-  "name": "PASSI"
+  "districtName": "PASSI BARAT",
+  "name": "PASSI",
+  "postalCode": "85223"
  },
  {
   "id": 7101081006,
   "districtId": 7101081,
-  "name": "WANGGA"
+  "districtName": "PASSI BARAT",
+  "name": "WANGGA",
+  "postalCode": "87116"
  },
  {
   "id": 7101081007,
   "districtId": 7101081,
-  "name": "OTAM"
+  "districtName": "PASSI BARAT",
+  "name": "OTAM",
+  "postalCode": "95751"
  },
  {
   "id": 7101081009,
   "districtId": 7101081,
-  "name": "BINTAU"
+  "districtName": "PASSI BARAT",
+  "name": "BINTAU",
+  "postalCode": "95751"
  },
  {
   "id": 7101081010,
   "districtId": 7101081,
-  "name": "PASSI II"
+  "districtName": "PASSI BARAT",
+  "name": "PASSI II",
+  "postalCode": ""
  },
  {
   "id": 7101081011,
   "districtId": 7101081,
-  "name": "MUNTOI TIMUR"
+  "districtName": "PASSI BARAT",
+  "name": "MUNTOI TIMUR",
+  "postalCode": "95751"
  },
  {
   "id": 7101081012,
   "districtId": 7101081,
-  "name": "WANGGA I"
+  "districtName": "PASSI BARAT",
+  "name": "WANGGA I",
+  "postalCode": ""
  },
  {
   "id": 7101081013,
   "districtId": 7101081,
-  "name": "0TAM BARAT"
+  "districtName": "PASSI BARAT",
+  "name": "0TAM BARAT",
+  "postalCode": ""
  }
 ]

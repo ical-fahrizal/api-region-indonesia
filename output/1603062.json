@@ -2,51 +2,71 @@
  {
   "id": 1603062013,
   "districtId": 1603062,
-  "name": "BERUGO"
+  "districtName": "BELIMBING",
+  "name": "BERUGO",
+  "postalCode": "31352"
  },
  {
   "id": 1603062014,
   "districtId": 1603062,
-  "name": "TANJUNG"
+  "districtName": "BELIMBING",
+  "name": "TANJUNG",
+  "postalCode": "24562"
  },
  {
   "id": 1603062015,
   "districtId": 1603062,
-  "name": "CINTA KASIH"
+  "districtName": "BELIMBING",
+  "name": "CINTA KASIH",
+  "postalCode": "31352"
  },
  {
   "id": 1603062016,
   "districtId": 1603062,
-  "name": "DARMO KASIH"
+  "districtName": "BELIMBING",
+  "name": "DARMO KASIH",
+  "postalCode": "31352"
  },
  {
   "id": 1603062017,
   "districtId": 1603062,
-  "name": "TELUK LUBUK"
+  "districtName": "BELIMBING",
+  "name": "TELUK LUBUK",
+  "postalCode": "31352"
  },
  {
   "id": 1603062018,
   "districtId": 1603062,
-  "name": "BELIMBING"
+  "districtName": "BELIMBING",
+  "name": "BELIMBING",
+  "postalCode": "29355"
  },
  {
   "id": 1603062019,
   "districtId": 1603062,
-  "name": "BULANG"
+  "districtName": "BELIMBING",
+  "name": "BULANG",
+  "postalCode": "31352"
  },
  {
   "id": 1603062020,
   "districtId": 1603062,
-  "name": "DALAM"
+  "districtName": "BELIMBING",
+  "name": "DALAM",
+  "postalCode": "24476"
  },
  {
   "id": 1603062022,
   "districtId": 1603062,
-  "name": "BELIMBING JAYA"
+  "districtName": "BELIMBING",
+  "name": "BELIMBING JAYA",
+  "postalCode": ""
  },
  {
   "id": 1603062023,
   "districtId": 1603062,
-  "name": "SIMPANG TANJUNG"
+  "districtName": "BELIMBING",
+  "name": "SIMPANG TANJUNG",
+  "postalCode": "20122"
  }
 ]

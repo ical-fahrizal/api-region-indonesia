@@ -2,36 +2,50 @@
  {
   "id": 3211090001,
   "districtId": 3211090,
-  "name": "BUANA MEKAR"
+  "districtName": "CIBUGEL",
+  "name": "BUANA MEKAR",
+  "postalCode": "45375"
  },
  {
   "id": 3211090002,
   "districtId": 3211090,
-  "name": "JAYA MEKAR"
+  "districtName": "CIBUGEL",
+  "name": "JAYA MEKAR",
+  "postalCode": "45375"
  },
  {
   "id": 3211090003,
   "districtId": 3211090,
-  "name": "CIBUGEL"
+  "districtName": "CIBUGEL",
+  "name": "CIBUGEL",
+  "postalCode": "45375"
  },
  {
   "id": 3211090004,
   "districtId": 3211090,
-  "name": "TAMANSARI"
+  "districtName": "CIBUGEL",
+  "name": "TAMANSARI",
+  "postalCode": "35366"
  },
  {
   "id": 3211090005,
   "districtId": 3211090,
-  "name": "SUKARAJA"
+  "districtName": "CIBUGEL",
+  "name": "SUKARAJA",
+  "postalCode": "21256"
  },
  {
   "id": 3211090006,
   "districtId": 3211090,
-  "name": "CIPASANG"
+  "districtName": "CIBUGEL",
+  "name": "CIPASANG",
+  "postalCode": "45375"
  },
  {
   "id": 3211090007,
   "districtId": 3211090,
-  "name": "JAYAMANDIRI"
+  "districtName": "CIBUGEL",
+  "name": "JAYAMANDIRI",
+  "postalCode": ""
  }
 ]

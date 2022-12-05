@@ -2,36 +2,50 @@
  {
   "id": 9416021001,
   "districtId": 9416021,
-  "name": "HOLUWON"
+  "districtName": "HOLUWON",
+  "name": "HOLUWON",
+  "postalCode": ""
  },
  {
   "id": 9416021003,
   "districtId": 9416021,
-  "name": "WENI"
+  "districtName": "HOLUWON",
+  "name": "WENI",
+  "postalCode": "99578"
  },
  {
   "id": 9416021004,
   "districtId": 9416021,
-  "name": "SOSI"
+  "districtName": "HOLUWON",
+  "name": "SOSI",
+  "postalCode": "99578"
  },
  {
   "id": 9416021005,
   "districtId": 9416021,
-  "name": "SIA"
+  "districtName": "HOLUWON",
+  "name": "SIA",
+  "postalCode": "95714"
  },
  {
   "id": 9416021006,
   "districtId": 9416021,
-  "name": "BINELERUK"
+  "districtName": "HOLUWON",
+  "name": "BINELERUK",
+  "postalCode": "99578"
  },
  {
   "id": 9416021007,
   "districtId": 9416021,
-  "name": "SOHONGGIK"
+  "districtName": "HOLUWON",
+  "name": "SOHONGGIK",
+  "postalCode": "99578"
  },
  {
   "id": 9416021008,
   "districtId": 9416021,
-  "name": "DANGGEMA"
+  "districtName": "HOLUWON",
+  "name": "DANGGEMA",
+  "postalCode": "99578"
  }
 ]

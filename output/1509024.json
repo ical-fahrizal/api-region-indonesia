@@ -2,26 +2,36 @@
  {
   "id": 1509024001,
   "districtId": 1509024,
-  "name": "KELURAHAN BUNGO BARAT"
+  "districtName": "PASAR MUARA BUNGO",
+  "name": "KELURAHAN BUNGO BARAT",
+  "postalCode": ""
  },
  {
   "id": 1509024002,
   "districtId": 1509024,
-  "name": "KELURAHAN BATANG BUNGO"
+  "districtName": "PASAR MUARA BUNGO",
+  "name": "KELURAHAN BATANG BUNGO",
+  "postalCode": ""
  },
  {
   "id": 1509024003,
   "districtId": 1509024,
-  "name": "KELURAHAN BUNGO TIMUR"
+  "districtName": "PASAR MUARA BUNGO",
+  "name": "KELURAHAN BUNGO TIMUR",
+  "postalCode": ""
  },
  {
   "id": 1509024004,
   "districtId": 1509024,
-  "name": "KELURAHAN JAYA SETIA"
+  "districtName": "PASAR MUARA BUNGO",
+  "name": "KELURAHAN JAYA SETIA",
+  "postalCode": ""
  },
  {
   "id": 1509024005,
   "districtId": 1509024,
-  "name": "KELURAHAN TANJUNG GEDANG"
+  "districtName": "PASAR MUARA BUNGO",
+  "name": "KELURAHAN TANJUNG GEDANG",
+  "postalCode": ""
  }
 ]

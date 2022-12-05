@@ -2,51 +2,71 @@
  {
   "id": 8206040010,
   "districtId": 8206040,
-  "name": "BULI ASAL"
+  "districtName": "MABA",
+  "name": "BULI ASAL",
+  "postalCode": "97862"
  },
  {
   "id": 8206040011,
   "districtId": 8206040,
-  "name": "BULI KARYA"
+  "districtName": "MABA",
+  "name": "BULI KARYA",
+  "postalCode": "97862"
  },
  {
   "id": 8206040012,
   "districtId": 8206040,
-  "name": "BULI"
+  "districtName": "MABA",
+  "name": "BULI",
+  "postalCode": "97781"
  },
  {
   "id": 8206040013,
   "districtId": 8206040,
-  "name": "WAYAFLI"
+  "districtName": "MABA",
+  "name": "WAYAFLI",
+  "postalCode": ""
  },
  {
   "id": 8206040014,
   "districtId": 8206040,
-  "name": "SAILAL"
+  "districtName": "MABA",
+  "name": "SAILAL",
+  "postalCode": "97862"
  },
  {
   "id": 8206040015,
   "districtId": 8206040,
-  "name": "GELTOLI"
+  "districtName": "MABA",
+  "name": "GELTOLI",
+  "postalCode": "97862"
  },
  {
   "id": 8206040016,
   "districtId": 8206040,
-  "name": "PEKAULANG"
+  "districtName": "MABA",
+  "name": "PEKAULANG",
+  "postalCode": ""
  },
  {
   "id": 8206040017,
   "districtId": 8206040,
-  "name": "TELUK BULI"
+  "districtName": "MABA",
+  "name": "TELUK BULI",
+  "postalCode": "97862"
  },
  {
   "id": 8206040018,
   "districtId": 8206040,
-  "name": "GAMESAN"
+  "districtName": "MABA",
+  "name": "GAMESAN",
+  "postalCode": "97862"
  },
  {
   "id": 8206040019,
   "districtId": 8206040,
-  "name": "BABURINO"
+  "districtName": "MABA",
+  "name": "BABURINO",
+  "postalCode": "97862"
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 2102040001,
   "districtId": 2102040,
-  "name": "PANGKIL"
+  "districtName": "TELUK BINTAN",
+  "name": "PANGKIL",
+  "postalCode": "29136"
  },
  {
   "id": 2102040002,
   "districtId": 2102040,
-  "name": "PENGUJAN"
+  "districtName": "TELUK BINTAN",
+  "name": "PENGUJAN",
+  "postalCode": "29135"
  },
  {
   "id": 2102040003,
   "districtId": 2102040,
-  "name": "PENAGA"
+  "districtName": "TELUK BINTAN",
+  "name": "PENAGA",
+  "postalCode": "29134"
  },
  {
   "id": 2102040004,
   "districtId": 2102040,
-  "name": "TEMBELING"
+  "districtName": "TELUK BINTAN",
+  "name": "TEMBELING",
+  "postalCode": "29132"
  },
  {
   "id": 2102040005,
   "districtId": 2102040,
-  "name": "BINTAN BUYU"
+  "districtName": "TELUK BINTAN",
+  "name": "BINTAN BUYU",
+  "postalCode": "29133"
  },
  {
   "id": 2102040006,
   "districtId": 2102040,
-  "name": "TEMBELING TANJUNG"
+  "districtName": "TELUK BINTAN",
+  "name": "TEMBELING TANJUNG",
+  "postalCode": "29132"
  }
 ]

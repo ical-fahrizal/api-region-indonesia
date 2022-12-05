@@ -2,51 +2,71 @@
  {
   "id": 9409021001,
   "districtId": 9409021,
-  "name": "MANDORI"
+  "districtName": "BRUYADORI",
+  "name": "MANDORI",
+  "postalCode": "98171"
  },
  {
   "id": 9409021002,
   "districtId": 9409021,
-  "name": "BRUYADORI"
+  "districtName": "BRUYADORI",
+  "name": "BRUYADORI",
+  "postalCode": "98171"
  },
  {
   "id": 9409021003,
   "districtId": 9409021,
-  "name": "DAFI"
+  "districtName": "BRUYADORI",
+  "name": "DAFI",
+  "postalCode": "98171"
  },
  {
   "id": 9409021004,
   "districtId": 9409021,
-  "name": "SANDAU"
+  "districtName": "BRUYADORI",
+  "name": "SANDAU",
+  "postalCode": ""
  },
  {
   "id": 9409021005,
   "districtId": 9409021,
-  "name": "AMBERPAREM/AMPEREM"
+  "districtName": "BRUYADORI",
+  "name": "AMBERPAREM/AMPEREM",
+  "postalCode": ""
  },
  {
   "id": 9409021006,
   "districtId": 9409021,
-  "name": "DUAI"
+  "districtName": "BRUYADORI",
+  "name": "DUAI",
+  "postalCode": "98171"
  },
  {
   "id": 9409021007,
   "districtId": 9409021,
-  "name": "MANDORI SUP"
+  "districtName": "BRUYADORI",
+  "name": "MANDORI SUP",
+  "postalCode": "98171"
  },
  {
   "id": 9409021008,
   "districtId": 9409021,
-  "name": "WARBUKOR"
+  "districtName": "BRUYADORI",
+  "name": "WARBUKOR",
+  "postalCode": "98171"
  },
  {
   "id": 9409021009,
   "districtId": 9409021,
-  "name": "ARIMI JAYA"
+  "districtName": "BRUYADORI",
+  "name": "ARIMI JAYA",
+  "postalCode": "98171"
  },
  {
   "id": 9409021010,
   "districtId": 9409021,
-  "name": "KAMUMI"
+  "districtName": "BRUYADORI",
+  "name": "KAMUMI",
+  "postalCode": "98171"
  }
 ]

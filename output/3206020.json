@@ -2,71 +2,99 @@
  {
   "id": 3206020001,
   "districtId": 3206020,
-  "name": "CIDADAP"
+  "districtName": "KARANGNUNGGAL",
+  "name": "CIDADAP",
+  "postalCode": "43263"
  },
  {
   "id": 3206020002,
   "districtId": 3206020,
-  "name": "KUJANG"
+  "districtName": "KARANGNUNGGAL",
+  "name": "KUJANG",
+  "postalCode": "46261"
  },
  {
   "id": 3206020003,
   "districtId": 3206020,
-  "name": "SARIMUKTI"
+  "districtName": "KARANGNUNGGAL",
+  "name": "SARIMUKTI",
+  "postalCode": "17520"
  },
  {
   "id": 3206020004,
   "districtId": 3206020,
-  "name": "CIAWI"
+  "districtName": "KARANGNUNGGAL",
+  "name": "CIAWI",
+  "postalCode": "16720"
  },
  {
   "id": 3206020005,
   "districtId": 3206020,
-  "name": "CIKAPINIS"
+  "districtName": "KARANGNUNGGAL",
+  "name": "CIKAPINIS",
+  "postalCode": "46186"
  },
  {
   "id": 3206020006,
   "districtId": 3206020,
-  "name": "CIKUPA"
+  "districtName": "KARANGNUNGGAL",
+  "name": "CIKUPA",
+  "postalCode": "46383"
  },
  {
   "id": 3206020007,
   "districtId": 3206020,
-  "name": "KARANGNUNGGAL"
+  "districtName": "KARANGNUNGGAL",
+  "name": "KARANGNUNGGAL",
+  "postalCode": "43262"
  },
  {
   "id": 3206020008,
   "districtId": 3206020,
-  "name": "KARANGMEKAR"
+  "districtName": "KARANGNUNGGAL",
+  "name": "KARANGMEKAR",
+  "postalCode": "40523"
  },
  {
   "id": 3206020009,
   "districtId": 3206020,
-  "name": "CIBATUIRENG"
+  "districtName": "KARANGNUNGGAL",
+  "name": "CIBATUIRENG",
+  "postalCode": "46186"
  },
  {
   "id": 3206020010,
   "districtId": 3206020,
-  "name": "CIBATU"
+  "districtName": "KARANGNUNGGAL",
+  "name": "CIBATU",
+  "postalCode": "44185"
  },
  {
   "id": 3206020011,
   "districtId": 3206020,
-  "name": "SUKAWANGUN"
+  "districtName": "KARANGNUNGGAL",
+  "name": "SUKAWANGUN",
+  "postalCode": "46186"
  },
  {
   "id": 3206020012,
   "districtId": 3206020,
-  "name": "CINTAWANGI"
+  "districtName": "KARANGNUNGGAL",
+  "name": "CINTAWANGI",
+  "postalCode": "46186"
  },
  {
   "id": 3206020013,
   "districtId": 3206020,
-  "name": "CIKUKULU"
+  "districtName": "KARANGNUNGGAL",
+  "name": "CIKUKULU",
+  "postalCode": "46186"
  },
  {
   "id": 3206020014,
   "districtId": 3206020,
-  "name": "SARIMANGGU"
+  "districtName": "KARANGNUNGGAL",
+  "name": "SARIMANGGU",
+  "postalCode": "46186"
  }
 ]

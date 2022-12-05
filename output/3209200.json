@@ -2,51 +2,71 @@
  {
   "id": 3209200002,
   "districtId": 3209200,
-  "name": "JUNGJANG WETAN"
+  "districtName": "ARJAWINANGUN",
+  "name": "JUNGJANG WETAN",
+  "postalCode": "45162"
  },
  {
   "id": 3209200010,
   "districtId": 3209200,
-  "name": "JUNGJANG"
+  "districtName": "ARJAWINANGUN",
+  "name": "JUNGJANG",
+  "postalCode": "45162"
  },
  {
   "id": 3209200011,
   "districtId": 3209200,
-  "name": "ARJAWINANGUN"
+  "districtName": "ARJAWINANGUN",
+  "name": "ARJAWINANGUN",
+  "postalCode": "45162"
  },
  {
   "id": 3209200012,
   "districtId": 3209200,
-  "name": "TEGALGUBUG"
+  "districtName": "ARJAWINANGUN",
+  "name": "TEGALGUBUG",
+  "postalCode": "45162"
  },
  {
   "id": 3209200013,
   "districtId": 3209200,
-  "name": "RAWAGATEL"
+  "districtName": "ARJAWINANGUN",
+  "name": "RAWAGATEL",
+  "postalCode": "45162"
  },
  {
   "id": 3209200014,
   "districtId": 3209200,
-  "name": "TEGALGUBUG LOR"
+  "districtName": "ARJAWINANGUN",
+  "name": "TEGALGUBUG LOR",
+  "postalCode": "45162"
  },
  {
   "id": 3209200015,
   "districtId": 3209200,
-  "name": "KARANGSAMBUNG"
+  "districtName": "ARJAWINANGUN",
+  "name": "KARANGSAMBUNG",
+  "postalCode": "45162"
  },
  {
   "id": 3209200016,
   "districtId": 3209200,
-  "name": "BULAK"
+  "districtName": "ARJAWINANGUN",
+  "name": "BULAK",
+  "postalCode": "45162"
  },
  {
   "id": 3209200017,
   "districtId": 3209200,
-  "name": "GEYONGAN"
+  "districtName": "ARJAWINANGUN",
+  "name": "GEYONGAN",
+  "postalCode": "45162"
  },
  {
   "id": 3209200018,
   "districtId": 3209200,
-  "name": "KEBONTURI"
+  "districtName": "ARJAWINANGUN",
+  "name": "KEBONTURI",
+  "postalCode": "45162"
  }
 ]

@@ -2,66 +2,92 @@
  {
   "id": 3518190001,
   "districtId": 3518190,
-  "name": "BANJAR DOWO"
+  "districtName": "LENGKONG",
+  "name": "BANJAR DOWO",
+  "postalCode": "61419"
  },
  {
   "id": 3518190002,
   "districtId": 3518190,
-  "name": "JATI PUNGGUR"
+  "districtName": "LENGKONG",
+  "name": "JATI PUNGGUR",
+  "postalCode": "64393"
  },
  {
   "id": 3518190003,
   "districtId": 3518190,
-  "name": "LENGKONG"
+  "districtName": "LENGKONG",
+  "name": "LENGKONG",
+  "postalCode": "24415"
  },
  {
   "id": 3518190005,
   "districtId": 3518190,
-  "name": "KEDUNG MLATEN"
+  "districtName": "LENGKONG",
+  "name": "KEDUNG MLATEN",
+  "postalCode": "64393"
  },
  {
   "id": 3518190006,
   "districtId": 3518190,
-  "name": "PRAYUNGAN"
+  "districtName": "LENGKONG",
+  "name": "PRAYUNGAN",
+  "postalCode": "64393"
  },
  {
   "id": 3518190007,
   "districtId": 3518190,
-  "name": "BALONG ASEM"
+  "districtName": "LENGKONG",
+  "name": "BALONG ASEM",
+  "postalCode": "64393"
  },
  {
   "id": 3518190008,
   "districtId": 3518190,
-  "name": "SAWAHAN"
+  "districtName": "LENGKONG",
+  "name": "SAWAHAN",
+  "postalCode": "25121"
  },
  {
   "id": 3518190009,
   "districtId": 3518190,
-  "name": "NGRINGIN"
+  "districtName": "LENGKONG",
+  "name": "NGRINGIN",
+  "postalCode": "64393"
  },
  {
   "id": 3518190010,
   "districtId": 3518190,
-  "name": "KETANDAN"
+  "districtName": "LENGKONG",
+  "name": "KETANDAN",
+  "postalCode": "57437"
  },
  {
   "id": 3518190011,
   "districtId": 3518190,
-  "name": "BANGGLE"
+  "districtName": "LENGKONG",
+  "name": "BANGGLE",
+  "postalCode": "66171"
  },
  {
   "id": 3518190013,
   "districtId": 3518190,
-  "name": "SUMBERSONO"
+  "districtName": "LENGKONG",
+  "name": "SUMBERSONO",
+  "postalCode": "61371"
  },
  {
   "id": 3518190014,
   "districtId": 3518190,
-  "name": "PINGGIR"
+  "districtName": "LENGKONG",
+  "name": "PINGGIR",
+  "postalCode": "28784"
  },
  {
   "id": 3518190016,
   "districtId": 3518190,
-  "name": "SUMBERMIRI"
+  "districtName": "LENGKONG",
+  "name": "SUMBERMIRI",
+  "postalCode": "64393"
  }
 ]

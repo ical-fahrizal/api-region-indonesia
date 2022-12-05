@@ -2,71 +2,99 @@
  {
   "id": 9418032001,
   "districtId": 9418032,
-  "name": "WANGGULAM"
+  "districtName": "BEWANI",
+  "name": "WANGGULAM",
+  "postalCode": "99561"
  },
  {
   "id": 9418032002,
   "districtId": 9418032,
-  "name": "NOGOBUMBU"
+  "districtName": "BEWANI",
+  "name": "NOGOBUMBU",
+  "postalCode": "99561"
  },
  {
   "id": 9418032003,
   "districtId": 9418032,
-  "name": "GABUNGGOBAK"
+  "districtName": "BEWANI",
+  "name": "GABUNGGOBAK",
+  "postalCode": "99561"
  },
  {
   "id": 9418032004,
   "districtId": 9418032,
-  "name": "BILUBAGA"
+  "districtName": "BEWANI",
+  "name": "BILUBAGA",
+  "postalCode": "99561"
  },
  {
   "id": 9418032005,
   "districtId": 9418032,
-  "name": "BITILABUR"
+  "districtName": "BEWANI",
+  "name": "BITILABUR",
+  "postalCode": ""
  },
  {
   "id": 9418032006,
   "districtId": 9418032,
-  "name": "ABENA"
+  "districtName": "BEWANI",
+  "name": "ABENA",
+  "postalCode": "99561"
  },
  {
   "id": 9418032007,
   "districtId": 9418032,
-  "name": "WULURIK"
+  "districtName": "BEWANI",
+  "name": "WULURIK",
+  "postalCode": "99561"
  },
  {
   "id": 9418032008,
   "districtId": 9418032,
-  "name": "ARELAM"
+  "districtName": "BEWANI",
+  "name": "ARELAM",
+  "postalCode": "99561"
  },
  {
   "id": 9418032009,
   "districtId": 9418032,
-  "name": "GELALO"
+  "districtName": "BEWANI",
+  "name": "GELALO",
+  "postalCode": "99561"
  },
  {
   "id": 9418032010,
   "districtId": 9418032,
-  "name": "YIBALO"
+  "districtName": "BEWANI",
+  "name": "YIBALO",
+  "postalCode": "99561"
  },
  {
   "id": 9418032011,
   "districtId": 9418032,
-  "name": "WINDIK"
+  "districtName": "BEWANI",
+  "name": "WINDIK",
+  "postalCode": "99561"
  },
  {
   "id": 9418032012,
   "districtId": 9418032,
-  "name": "YINAMA"
+  "districtName": "BEWANI",
+  "name": "YINAMA",
+  "postalCode": "99561"
  },
  {
   "id": 9418032013,
   "districtId": 9418032,
-  "name": "DUMA"
+  "districtName": "BEWANI",
+  "name": "DUMA",
+  "postalCode": "97761"
  },
  {
   "id": 9418032014,
   "districtId": 9418032,
-  "name": "WANIA"
+  "districtName": "BEWANI",
+  "name": "WANIA",
+  "postalCode": "99561"
  }
 ]

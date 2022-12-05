@@ -2,81 +2,113 @@
  {
   "id": 1409051001,
   "districtId": 1409051,
-  "name": "BANGKO SEMPURNA"
+  "districtName": "BANGKO PUSAKO",
+  "name": "BANGKO SEMPURNA",
+  "postalCode": "28992"
  },
  {
   "id": 1409051002,
   "districtId": 1409051,
-  "name": "BANGKO BAKTI"
+  "districtName": "BANGKO PUSAKO",
+  "name": "BANGKO BAKTI",
+  "postalCode": "28992"
  },
  {
   "id": 1409051003,
   "districtId": 1409051,
-  "name": "BANGKO JAYA"
+  "districtName": "BANGKO PUSAKO",
+  "name": "BANGKO JAYA",
+  "postalCode": "28992"
  },
  {
   "id": 1409051004,
   "districtId": 1409051,
-  "name": "BANGKO PUSAKA"
+  "districtName": "BANGKO PUSAKO",
+  "name": "BANGKO PUSAKA",
+  "postalCode": ""
  },
  {
   "id": 1409051005,
   "districtId": 1409051,
-  "name": "BANGKO MAKMUR"
+  "districtName": "BANGKO PUSAKO",
+  "name": "BANGKO MAKMUR",
+  "postalCode": "28992"
  },
  {
   "id": 1409051006,
   "districtId": 1409051,
-  "name": "BANGKO KIRI"
+  "districtName": "BANGKO PUSAKO",
+  "name": "BANGKO KIRI",
+  "postalCode": "28992"
  },
  {
   "id": 1409051007,
   "districtId": 1409051,
-  "name": "BANGKO KANAN"
+  "districtName": "BANGKO PUSAKO",
+  "name": "BANGKO KANAN",
+  "postalCode": "28992"
  },
  {
   "id": 1409051008,
   "districtId": 1409051,
-  "name": "SUNGAI MANASIB"
+  "districtName": "BANGKO PUSAKO",
+  "name": "SUNGAI MANASIB",
+  "postalCode": ""
  },
  {
   "id": 1409051009,
   "districtId": 1409051,
-  "name": "TELUK BANO I"
+  "districtName": "BANGKO PUSAKO",
+  "name": "TELUK BANO I",
+  "postalCode": "28992"
  },
  {
   "id": 1409051010,
   "districtId": 1409051,
-  "name": "PEMATANG IBUL"
+  "districtName": "BANGKO PUSAKO",
+  "name": "PEMATANG IBUL",
+  "postalCode": "28992"
  },
  {
   "id": 1409051011,
   "districtId": 1409051,
-  "name": "PEMATANG DAMAR"
+  "districtName": "BANGKO PUSAKO",
+  "name": "PEMATANG DAMAR",
+  "postalCode": "28992"
  },
  {
   "id": 1409051012,
   "districtId": 1409051,
-  "name": "BANGKO PERMATA"
+  "districtName": "BANGKO PUSAKO",
+  "name": "BANGKO PERMATA",
+  "postalCode": "28992"
  },
  {
   "id": 1409051013,
   "districtId": 1409051,
-  "name": "BANGKO MUKTI"
+  "districtName": "BANGKO PUSAKO",
+  "name": "BANGKO MUKTI",
+  "postalCode": "28992"
  },
  {
   "id": 1409051014,
   "districtId": 1409051,
-  "name": "BANGKO LESTARI"
+  "districtName": "BANGKO PUSAKO",
+  "name": "BANGKO LESTARI",
+  "postalCode": "28992"
  },
  {
   "id": 1409051015,
   "districtId": 1409051,
-  "name": "BANGKO BALAM"
+  "districtName": "BANGKO PUSAKO",
+  "name": "BANGKO BALAM",
+  "postalCode": "28992"
  },
  {
   "id": 1409051016,
   "districtId": 1409051,
-  "name": "BANGKO MASRAYA"
+  "districtName": "BANGKO PUSAKO",
+  "name": "BANGKO MASRAYA",
+  "postalCode": ""
  }
 ]

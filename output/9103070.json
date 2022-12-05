@@ -2,36 +2,50 @@
  {
   "id": 9103070001,
   "districtId": 9103070,
-  "name": "YOMAKAN"
+  "districtName": "RUMBERPON",
+  "name": "YOMAKAN",
+  "postalCode": "98361"
  },
  {
   "id": 9103070002,
   "districtId": 9103070,
-  "name": "SENEBUAY"
+  "districtName": "RUMBERPON",
+  "name": "SENEBUAY",
+  "postalCode": ""
  },
  {
   "id": 9103070003,
   "districtId": 9103070,
-  "name": "YEMBEKIRI I"
+  "districtName": "RUMBERPON",
+  "name": "YEMBEKIRI I",
+  "postalCode": ""
  },
  {
   "id": 9103070004,
   "districtId": 9103070,
-  "name": "ISEREN"
+  "districtName": "RUMBERPON",
+  "name": "ISEREN",
+  "postalCode": ""
  },
  {
   "id": 9103070005,
   "districtId": 9103070,
-  "name": "YARIARI"
+  "districtName": "RUMBERPON",
+  "name": "YARIARI",
+  "postalCode": "98361"
  },
  {
   "id": 9103070006,
   "districtId": 9103070,
-  "name": "YEMBEKIRI II"
+  "districtName": "RUMBERPON",
+  "name": "YEMBEKIRI II",
+  "postalCode": "98361"
  },
  {
   "id": 9103070007,
   "districtId": 9103070,
-  "name": "WETITINDAU"
+  "districtName": "RUMBERPON",
+  "name": "WETITINDAU",
+  "postalCode": "98361"
  }
 ]

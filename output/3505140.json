@@ -2,41 +2,57 @@
  {
   "id": 3505140001,
   "districtId": 3505140,
-  "name": "KLEMUNAN"
+  "districtName": "WLINGI",
+  "name": "KLEMUNAN",
+  "postalCode": "66184"
  },
  {
   "id": 3505140002,
   "districtId": 3505140,
-  "name": "WLINGI"
+  "districtName": "WLINGI",
+  "name": "WLINGI",
+  "postalCode": "66184"
  },
  {
   "id": 3505140003,
   "districtId": 3505140,
-  "name": "TANGKIL"
+  "districtName": "WLINGI",
+  "name": "TANGKIL",
+  "postalCode": "37163"
  },
  {
   "id": 3505140005,
   "districtId": 3505140,
-  "name": "BABADAN"
+  "districtName": "WLINGI",
+  "name": "BABADAN",
+  "postalCode": "45151"
  },
  {
   "id": 3505140006,
   "districtId": 3505140,
-  "name": "TEMBALANG"
+  "districtName": "WLINGI",
+  "name": "TEMBALANG",
+  "postalCode": "50275"
  },
  {
   "id": 3505140007,
   "districtId": 3505140,
-  "name": "NGADIRENGGO"
+  "districtName": "WLINGI",
+  "name": "NGADIRENGGO",
+  "postalCode": "66371"
  },
  {
   "id": 3505140008,
   "districtId": 3505140,
-  "name": "TEGALASRI"
+  "districtName": "WLINGI",
+  "name": "TEGALASRI",
+  "postalCode": "66184"
  },
  {
   "id": 3505140009,
   "districtId": 3505140,
-  "name": "BALEREJO"
+  "districtName": "WLINGI",
+  "name": "BALEREJO",
+  "postalCode": "59573"
  }
 ]

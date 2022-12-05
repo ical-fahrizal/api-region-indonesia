@@ -2,81 +2,113 @@
  {
   "id": 3301150001,
   "districtId": 3301150,
-  "name": "GOMBOLHARJO"
+  "districtName": "ADIPALA",
+  "name": "GOMBOLHARJO",
+  "postalCode": "53271"
  },
  {
   "id": 3301150002,
   "districtId": 3301150,
-  "name": "WLAHAR"
+  "districtName": "ADIPALA",
+  "name": "WLAHAR",
+  "postalCode": "53271"
  },
  {
   "id": 3301150003,
   "districtId": 3301150,
-  "name": "BUNTON"
+  "districtName": "ADIPALA",
+  "name": "BUNTON",
+  "postalCode": "53271"
  },
  {
   "id": 3301150004,
   "districtId": 3301150,
-  "name": "KARANGANYAR"
+  "districtName": "ADIPALA",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  },
  {
   "id": 3301150005,
   "districtId": 3301150,
-  "name": "KARANGBENDA"
+  "districtName": "ADIPALA",
+  "name": "KARANGBENDA",
+  "postalCode": "46393"
  },
  {
   "id": 3301150006,
   "districtId": 3301150,
-  "name": "PEDASONG"
+  "districtName": "ADIPALA",
+  "name": "PEDASONG",
+  "postalCode": "53271"
  },
  {
   "id": 3301150007,
   "districtId": 3301150,
-  "name": "GLEMPANGPASIR"
+  "districtName": "ADIPALA",
+  "name": "GLEMPANGPASIR",
+  "postalCode": "53271"
  },
  {
   "id": 3301150008,
   "districtId": 3301150,
-  "name": "WELAHAN WETAN"
+  "districtName": "ADIPALA",
+  "name": "WELAHAN WETAN",
+  "postalCode": "53271"
  },
  {
   "id": 3301150009,
   "districtId": 3301150,
-  "name": "ADIRAJA"
+  "districtName": "ADIPALA",
+  "name": "ADIRAJA",
+  "postalCode": "53271"
  },
  {
   "id": 3301150010,
   "districtId": 3301150,
-  "name": "ADIREJA WETAN"
+  "districtName": "ADIPALA",
+  "name": "ADIREJA WETAN",
+  "postalCode": "53271"
  },
  {
   "id": 3301150011,
   "districtId": 3301150,
-  "name": "ADIREJA KULON"
+  "districtName": "ADIPALA",
+  "name": "ADIREJA KULON",
+  "postalCode": "53271"
  },
  {
   "id": 3301150012,
   "districtId": 3301150,
-  "name": "ADIPALA"
+  "districtName": "ADIPALA",
+  "name": "ADIPALA",
+  "postalCode": "53271"
  },
  {
   "id": 3301150013,
   "districtId": 3301150,
-  "name": "PENGGALANG"
+  "districtName": "ADIPALA",
+  "name": "PENGGALANG",
+  "postalCode": "53271"
  },
  {
   "id": 3301150014,
   "districtId": 3301150,
-  "name": "KARANGSARI"
+  "districtName": "ADIPALA",
+  "name": "KARANGSARI",
+  "postalCode": "35376"
  },
  {
   "id": 3301150015,
   "districtId": 3301150,
-  "name": "KALIKUDI"
+  "districtName": "ADIPALA",
+  "name": "KALIKUDI",
+  "postalCode": "53271"
  },
  {
   "id": 3301150016,
   "districtId": 3301150,
-  "name": "DOPLANG"
+  "districtName": "ADIPALA",
+  "name": "DOPLANG",
+  "postalCode": "53271"
  }
 ]

@@ -2,86 +2,120 @@
  {
   "id": 3526090001,
   "districtId": 3526090,
-  "name": "ALANG ALANG"
+  "districtName": "TRAGAH",
+  "name": "ALANG ALANG",
+  "postalCode": "69165"
  },
  {
   "id": 3526090002,
   "districtId": 3526090,
-  "name": "KEMONENG"
+  "districtName": "TRAGAH",
+  "name": "KEMONENG",
+  "postalCode": ""
  },
  {
   "id": 3526090003,
   "districtId": 3526090,
-  "name": "SOKET LAOK"
+  "districtName": "TRAGAH",
+  "name": "SOKET LAOK",
+  "postalCode": "69165"
  },
  {
   "id": 3526090004,
   "districtId": 3526090,
-  "name": "BAJEMAN"
+  "districtName": "TRAGAH",
+  "name": "BAJEMAN",
+  "postalCode": "69165"
  },
  {
   "id": 3526090005,
   "districtId": 3526090,
-  "name": "TAMBIN"
+  "districtName": "TRAGAH",
+  "name": "TAMBIN",
+  "postalCode": "69165"
  },
  {
   "id": 3526090006,
   "districtId": 3526090,
-  "name": "SOKET DAYA"
+  "districtName": "TRAGAH",
+  "name": "SOKET DAYA",
+  "postalCode": ""
  },
  {
   "id": 3526090008,
   "districtId": 3526090,
-  "name": "JAAH"
+  "districtName": "TRAGAH",
+  "name": "JAAH",
+  "postalCode": "69165"
  },
  {
   "id": 3526090009,
   "districtId": 3526090,
-  "name": "BANCANG"
+  "districtName": "TRAGAH",
+  "name": "BANCANG",
+  "postalCode": "59265"
  },
  {
   "id": 3526090010,
   "districtId": 3526090,
-  "name": "MASARAN"
+  "districtName": "TRAGAH",
+  "name": "MASARAN",
+  "postalCode": "53471"
  },
  {
   "id": 3526090011,
   "districtId": 3526090,
-  "name": "PACANGAN"
+  "districtName": "TRAGAH",
+  "name": "PACANGAN",
+  "postalCode": "69165"
  },
  {
   "id": 3526090012,
   "districtId": 3526090,
-  "name": "POCONG"
+  "districtName": "TRAGAH",
+  "name": "POCONG",
+  "postalCode": "69165"
  },
  {
   "id": 3526090013,
   "districtId": 3526090,
-  "name": "TRAGAH"
+  "districtName": "TRAGAH",
+  "name": "TRAGAH",
+  "postalCode": "69165"
  },
  {
   "id": 3526090014,
   "districtId": 3526090,
-  "name": "KARANG LEMAN"
+  "districtName": "TRAGAH",
+  "name": "KARANG LEMAN",
+  "postalCode": ""
  },
  {
   "id": 3526090015,
   "districtId": 3526090,
-  "name": "DUKOTAMBIN"
+  "districtName": "TRAGAH",
+  "name": "DUKOTAMBIN",
+  "postalCode": "69165"
  },
  {
   "id": 3526090016,
   "districtId": 3526090,
-  "name": "JADDUNG"
+  "districtName": "TRAGAH",
+  "name": "JADDUNG",
+  "postalCode": "69465"
  },
  {
   "id": 3526090017,
   "districtId": 3526090,
-  "name": "BANYU BESE"
+  "districtName": "TRAGAH",
+  "name": "BANYU BESE",
+  "postalCode": ""
  },
  {
   "id": 3526090018,
   "districtId": 3526090,
-  "name": "PAMORAH"
+  "districtName": "TRAGAH",
+  "name": "PAMORAH",
+  "postalCode": "69165"
  }
 ]

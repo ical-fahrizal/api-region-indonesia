@@ -2,91 +2,127 @@
  {
   "id": 1202010001,
   "districtId": 1202010,
-  "name": "PULAU TAMANG"
+  "districtName": "BATAHAN",
+  "name": "PULAU TAMANG",
+  "postalCode": "22988"
  },
  {
   "id": 1202010002,
   "districtId": 1202010,
-  "name": "PASAR BATAHAN"
+  "districtName": "BATAHAN",
+  "name": "PASAR BATAHAN",
+  "postalCode": "22988"
  },
  {
   "id": 1202010003,
   "districtId": 1202010,
-  "name": "BATAHAN I"
+  "districtName": "BATAHAN",
+  "name": "BATAHAN I",
+  "postalCode": "22988"
  },
  {
   "id": 1202010004,
   "districtId": 1202010,
-  "name": "BANJAR AUR"
+  "districtName": "BATAHAN",
+  "name": "BANJAR AUR",
+  "postalCode": "22988"
  },
  {
   "id": 1202010005,
   "districtId": 1202010,
-  "name": "KAMPUNG KAPAS"
+  "districtName": "BATAHAN",
+  "name": "KAMPUNG KAPAS",
+  "postalCode": "22988"
  },
  {
   "id": 1202010006,
   "districtId": 1202010,
-  "name": "BATUSONDAT"
+  "districtName": "BATAHAN",
+  "name": "BATUSONDAT",
+  "postalCode": ""
  },
  {
   "id": 1202010007,
   "districtId": 1202010,
-  "name": "BINTUNGAN BEJANGKAR"
+  "districtName": "BATAHAN",
+  "name": "BINTUNGAN BEJANGKAR",
+  "postalCode": "22988"
  },
  {
   "id": 1202010010,
   "districtId": 1202010,
-  "name": "KUBANGAN TOMPEK"
+  "districtName": "BATAHAN",
+  "name": "KUBANGAN TOMPEK",
+  "postalCode": "22988"
  },
  {
   "id": 1202010013,
   "districtId": 1202010,
-  "name": "PASAR BARU BATAHAN"
+  "districtName": "BATAHAN",
+  "name": "PASAR BARU BATAHAN",
+  "postalCode": "22988"
  },
  {
   "id": 1202010014,
   "districtId": 1202010,
-  "name": "KUALA BATAHAN"
+  "districtName": "BATAHAN",
+  "name": "KUALA BATAHAN",
+  "postalCode": "22988"
  },
  {
   "id": 1202010015,
   "districtId": 1202010,
-  "name": "SARI KENANGA"
+  "districtName": "BATAHAN",
+  "name": "SARI KENANGA",
+  "postalCode": ""
  },
  {
   "id": 1202010016,
   "districtId": 1202010,
-  "name": "MUARA PERTEMUAN"
+  "districtName": "BATAHAN",
+  "name": "MUARA PERTEMUAN",
+  "postalCode": "22988"
  },
  {
   "id": 1202010019,
   "districtId": 1202010,
-  "name": "BATAHAN II"
+  "districtName": "BATAHAN",
+  "name": "BATAHAN II",
+  "postalCode": "22988"
  },
  {
   "id": 1202010020,
   "districtId": 1202010,
-  "name": "BATAHAN III"
+  "districtName": "BATAHAN",
+  "name": "BATAHAN III",
+  "postalCode": "22988"
  },
  {
   "id": 1202010021,
   "districtId": 1202010,
-  "name": "BATAHAN IV"
+  "districtName": "BATAHAN",
+  "name": "BATAHAN IV",
+  "postalCode": "22988"
  },
  {
   "id": 1202010022,
   "districtId": 1202010,
-  "name": "KAMPUNG KAPAS I"
+  "districtName": "BATAHAN",
+  "name": "KAMPUNG KAPAS I",
+  "postalCode": "22988"
  },
  {
   "id": 1202010024,
   "districtId": 1202010,
-  "name": "SINUNUKAN VI"
+  "districtName": "BATAHAN",
+  "name": "SINUNUKAN VI",
+  "postalCode": "22988"
  },
  {
   "id": 1202010027,
   "districtId": 1202010,
-  "name": "KUBANGAN PANDAN SARI"
+  "districtName": "BATAHAN",
+  "name": "KUBANGAN PANDAN SARI",
+  "postalCode": ""
  }
 ]

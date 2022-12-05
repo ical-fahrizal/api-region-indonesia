@@ -2,31 +2,43 @@
  {
   "id": 9107184001,
   "districtId": 9107184,
-  "name": "WARBO"
+  "districtName": "SUNOOK",
+  "name": "WARBO",
+  "postalCode": "98461"
  },
  {
   "id": 9107184002,
   "districtId": 9107184,
-  "name": "DASRI"
+  "districtName": "SUNOOK",
+  "name": "DASRI",
+  "postalCode": "68485"
  },
  {
   "id": 9107184003,
   "districtId": 9107184,
-  "name": "MASOS"
+  "districtName": "SUNOOK",
+  "name": "MASOS",
+  "postalCode": "98472"
  },
  {
   "id": 9107184004,
   "districtId": 9107184,
-  "name": "KETAWAS"
+  "districtName": "SUNOOK",
+  "name": "KETAWAS",
+  "postalCode": "98472"
  },
  {
   "id": 9107184006,
   "districtId": 9107184,
-  "name": "SULYA"
+  "districtName": "SUNOOK",
+  "name": "SULYA",
+  "postalCode": ""
  },
  {
   "id": 9107184007,
   "districtId": 9107184,
-  "name": "BOUWOI"
+  "districtName": "SUNOOK",
+  "name": "BOUWOI",
+  "postalCode": ""
  }
 ]

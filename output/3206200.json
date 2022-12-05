@@ -2,81 +2,113 @@
  {
   "id": 3206200001,
   "districtId": 3206200,
-  "name": "SIRNAGALIH"
+  "districtName": "CIGALONTANG",
+  "name": "SIRNAGALIH",
+  "postalCode": "35387"
  },
  {
   "id": 3206200002,
   "districtId": 3206200,
-  "name": "KERSAMAJU"
+  "districtName": "CIGALONTANG",
+  "name": "KERSAMAJU",
+  "postalCode": "46463"
  },
  {
   "id": 3206200003,
   "districtId": 3206200,
-  "name": "TANJUNGKARANG"
+  "districtName": "CIGALONTANG",
+  "name": "TANJUNGKARANG",
+  "postalCode": "46463"
  },
  {
   "id": 3206200004,
   "districtId": 3206200,
-  "name": "NANGTANG"
+  "districtName": "CIGALONTANG",
+  "name": "NANGTANG",
+  "postalCode": "46463"
  },
  {
   "id": 3206200005,
   "districtId": 3206200,
-  "name": "PUSPARAJA"
+  "districtName": "CIGALONTANG",
+  "name": "PUSPARAJA",
+  "postalCode": "46463"
  },
  {
   "id": 3206200006,
   "districtId": 3206200,
-  "name": "JAYAPURA"
+  "districtName": "CIGALONTANG",
+  "name": "JAYAPURA",
+  "postalCode": "32381"
  },
  {
   "id": 3206200007,
   "districtId": 3206200,
-  "name": "LENGKONGJAYA"
+  "districtName": "CIGALONTANG",
+  "name": "LENGKONGJAYA",
+  "postalCode": "46463"
  },
  {
   "id": 3206200008,
   "districtId": 3206200,
-  "name": "TENJONAGARA"
+  "districtName": "CIGALONTANG",
+  "name": "TENJONAGARA",
+  "postalCode": "46463"
  },
  {
   "id": 3206200009,
   "districtId": 3206200,
-  "name": "NANGGERANG"
+  "districtName": "CIGALONTANG",
+  "name": "NANGGERANG",
+  "postalCode": "41253"
  },
  {
   "id": 3206200010,
   "districtId": 3206200,
-  "name": "SUKAMANAH"
+  "districtName": "CIGALONTANG",
+  "name": "SUKAMANAH",
+  "postalCode": "43273"
  },
  {
   "id": 3206200011,
   "districtId": 3206200,
-  "name": "SIRNAPUTRA"
+  "districtName": "CIGALONTANG",
+  "name": "SIRNAPUTRA",
+  "postalCode": "46463"
  },
  {
   "id": 3206200012,
   "districtId": 3206200,
-  "name": "SIRNARAJA"
+  "districtName": "CIGALONTANG",
+  "name": "SIRNARAJA",
+  "postalCode": "46463"
  },
  {
   "id": 3206200013,
   "districtId": 3206200,
-  "name": "CIGALONTANG"
+  "districtName": "CIGALONTANG",
+  "name": "CIGALONTANG",
+  "postalCode": "46463"
  },
  {
   "id": 3206200014,
   "districtId": 3206200,
-  "name": "PUSPAMUKTI"
+  "districtName": "CIGALONTANG",
+  "name": "PUSPAMUKTI",
+  "postalCode": "46463"
  },
  {
   "id": 3206200015,
   "districtId": 3206200,
-  "name": "CIDUGALEUN"
+  "districtName": "CIGALONTANG",
+  "name": "CIDUGALEUN",
+  "postalCode": "46463"
  },
  {
   "id": 3206200016,
   "districtId": 3206200,
-  "name": "PARENTAS"
+  "districtName": "CIGALONTANG",
+  "name": "PARENTAS",
+  "postalCode": "46463"
  }
 ]

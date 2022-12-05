@@ -2,81 +2,113 @@
  {
   "id": 3203210001,
   "districtId": 3203210,
-  "name": "PADALUYU"
+  "districtName": "CUGENANG",
+  "name": "PADALUYU",
+  "postalCode": "43284"
  },
  {
   "id": 3203210002,
   "districtId": 3203210,
-  "name": "SUKAJAYA"
+  "districtName": "CUGENANG",
+  "name": "SUKAJAYA",
+  "postalCode": "30756"
  },
  {
   "id": 3203210003,
   "districtId": 3203210,
-  "name": "CIBULAKAN"
+  "districtName": "CUGENANG",
+  "name": "CIBULAKAN",
+  "postalCode": "43252"
  },
  {
   "id": 3203210004,
   "districtId": 3203210,
-  "name": "CIRUMPUT"
+  "districtName": "CUGENANG",
+  "name": "CIRUMPUT",
+  "postalCode": "43252"
  },
  {
   "id": 3203210005,
   "districtId": 3203210,
-  "name": "TALAGA"
+  "districtName": "CUGENANG",
+  "name": "TALAGA",
+  "postalCode": "43154"
  },
  {
   "id": 3203210006,
   "districtId": 3203210,
-  "name": "BENJOT"
+  "districtName": "CUGENANG",
+  "name": "BENJOT",
+  "postalCode": "43252"
  },
  {
   "id": 3203210007,
   "districtId": 3203210,
-  "name": "GASOL"
+  "districtName": "CUGENANG",
+  "name": "GASOL",
+  "postalCode": "43252"
  },
  {
   "id": 3203210008,
   "districtId": 3203210,
-  "name": "SARAMPAD"
+  "districtName": "CUGENANG",
+  "name": "SARAMPAD",
+  "postalCode": "43252"
  },
  {
   "id": 3203210009,
   "districtId": 3203210,
-  "name": "MANGUNKERTA"
+  "districtName": "CUGENANG",
+  "name": "MANGUNKERTA",
+  "postalCode": "43252"
  },
  {
   "id": 3203210010,
   "districtId": 3203210,
-  "name": "SUKAMULYA"
+  "districtName": "CUGENANG",
+  "name": "SUKAMULYA",
+  "postalCode": "30657"
  },
  {
   "id": 3203210011,
   "districtId": 3203210,
-  "name": "GALUDRA"
+  "districtName": "CUGENANG",
+  "name": "GALUDRA",
+  "postalCode": "45353"
  },
  {
   "id": 3203210012,
   "districtId": 3203210,
-  "name": "NYALINDUNG"
+  "districtName": "CUGENANG",
+  "name": "NYALINDUNG",
+  "postalCode": "45353"
  },
  {
   "id": 3203210013,
   "districtId": 3203210,
-  "name": "CIBEUREUM"
+  "districtName": "CUGENANG",
+  "name": "CIBEUREUM",
+  "postalCode": "46313"
  },
  {
   "id": 3203210014,
   "districtId": 3203210,
-  "name": "CIJEDIL"
+  "districtName": "CUGENANG",
+  "name": "CIJEDIL",
+  "postalCode": "43252"
  },
  {
   "id": 3203210015,
   "districtId": 3203210,
-  "name": "SUKAMANAH"
+  "districtName": "CUGENANG",
+  "name": "SUKAMANAH",
+  "postalCode": "43273"
  },
  {
   "id": 3203210016,
   "districtId": 3203210,
-  "name": "WANGUNJAYA"
+  "districtName": "CUGENANG",
+  "name": "WANGUNJAYA",
+  "postalCode": "43273"
  }
 ]

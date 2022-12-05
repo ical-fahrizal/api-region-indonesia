@@ -2,51 +2,71 @@
  {
   "id": 3512160001,
   "districtId": 3512160,
-  "name": "MOJOSARI"
+  "districtName": "ASEMBAGUS",
+  "name": "MOJOSARI",
+  "postalCode": "56265"
  },
  {
   "id": 3512160002,
   "districtId": 3512160,
-  "name": "KERTOSARI"
+  "districtName": "ASEMBAGUS",
+  "name": "KERTOSARI",
+  "postalCode": "31668"
  },
  {
   "id": 3512160003,
   "districtId": 3512160,
-  "name": "KEDONGLO"
+  "districtName": "ASEMBAGUS",
+  "name": "KEDONGLO",
+  "postalCode": "68373"
  },
  {
   "id": 3512160004,
   "districtId": 3512160,
-  "name": "BANTAL"
+  "districtName": "ASEMBAGUS",
+  "name": "BANTAL",
+  "postalCode": "50182"
  },
  {
   "id": 3512160005,
   "districtId": 3512160,
-  "name": "AWAR-AWAR"
+  "districtName": "ASEMBAGUS",
+  "name": "AWAR-AWAR",
+  "postalCode": "68373"
  },
  {
   "id": 3512160006,
   "districtId": 3512160,
-  "name": "PERANTE"
+  "districtName": "ASEMBAGUS",
+  "name": "PERANTE",
+  "postalCode": "68373"
  },
  {
   "id": 3512160007,
   "districtId": 3512160,
-  "name": "TRIGONCO"
+  "districtName": "ASEMBAGUS",
+  "name": "TRIGONCO",
+  "postalCode": "68373"
  },
  {
   "id": 3512160008,
   "districtId": 3512160,
-  "name": "ASEMBAGUS"
+  "districtName": "ASEMBAGUS",
+  "name": "ASEMBAGUS",
+  "postalCode": "68373"
  },
  {
   "id": 3512160009,
   "districtId": 3512160,
-  "name": "GUDANG"
+  "districtName": "ASEMBAGUS",
+  "name": "GUDANG",
+  "postalCode": "23764"
  },
  {
   "id": 3512160010,
   "districtId": 3512160,
-  "name": "WRINGIN ANOM"
+  "districtName": "ASEMBAGUS",
+  "name": "WRINGIN ANOM",
+  "postalCode": "68373"
  }
 ]

@@ -2,51 +2,71 @@
  {
   "id": 3311020001,
   "districtId": 3311020,
-  "name": "SANGGANG"
+  "districtName": "BULU",
+  "name": "SANGGANG",
+  "postalCode": "57563"
  },
  {
   "id": 3311020002,
   "districtId": 3311020,
-  "name": "KAMAL"
+  "districtName": "BULU",
+  "name": "KAMAL",
+  "postalCode": "30653"
  },
  {
   "id": 3311020003,
   "districtId": 3311020,
-  "name": "GENTAN"
+  "districtName": "BULU",
+  "name": "GENTAN",
+  "postalCode": "57556"
  },
  {
   "id": 3311020004,
   "districtId": 3311020,
-  "name": "KEDUNGSONO"
+  "districtName": "BULU",
+  "name": "KEDUNGSONO",
+  "postalCode": "57563"
  },
  {
   "id": 3311020005,
   "districtId": 3311020,
-  "name": "TIYARAN"
+  "districtName": "BULU",
+  "name": "TIYARAN",
+  "postalCode": "57563"
  },
  {
   "id": 3311020008,
   "districtId": 3311020,
-  "name": "PURON"
+  "districtName": "BULU",
+  "name": "PURON",
+  "postalCode": "57563"
  },
  {
   "id": 3311020009,
   "districtId": 3311020,
-  "name": "MALANGAN"
+  "districtName": "BULU",
+  "name": "MALANGAN",
+  "postalCode": "57563"
  },
  {
   "id": 3311020010,
   "districtId": 3311020,
-  "name": "LENGKING"
+  "districtName": "BULU",
+  "name": "LENGKING",
+  "postalCode": "57563"
  },
  {
   "id": 3311020011,
   "districtId": 3311020,
-  "name": "NGASINAN"
+  "districtName": "BULU",
+  "name": "NGASINAN",
+  "postalCode": "54183"
  },
  {
   "id": 3311020012,
   "districtId": 3311020,
-  "name": "KARANGASEM"
+  "districtName": "BULU",
+  "name": "KARANGASEM",
+  "postalCode": "45186"
  }
 ]

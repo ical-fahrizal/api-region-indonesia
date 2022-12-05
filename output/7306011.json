@@ -2,46 +2,64 @@
  {
   "id": 7306011001,
   "districtId": 7306011,
-  "name": "SALAJANGKI"
+  "districtName": "BONTONOMPO SELATAN",
+  "name": "SALAJANGKI",
+  "postalCode": ""
  },
  {
   "id": 7306011002,
   "districtId": 7306011,
-  "name": "BONTOSUNGGU"
+  "districtName": "BONTONOMPO SELATAN",
+  "name": "BONTOSUNGGU",
+  "postalCode": "92152"
  },
  {
   "id": 7306011003,
   "districtId": 7306011,
-  "name": "PABUNDUKANG"
+  "districtName": "BONTONOMPO SELATAN",
+  "name": "PABUNDUKANG",
+  "postalCode": "92153"
  },
  {
   "id": 7306011004,
   "districtId": 7306011,
-  "name": "TINDANG"
+  "districtName": "BONTONOMPO SELATAN",
+  "name": "TINDANG",
+  "postalCode": "92153"
  },
  {
   "id": 7306011005,
   "districtId": 7306011,
-  "name": "TANRARA"
+  "districtName": "BONTONOMPO SELATAN",
+  "name": "TANRARA",
+  "postalCode": "92153"
  },
  {
   "id": 7306011006,
   "districtId": 7306011,
-  "name": "SALAJO"
+  "districtName": "BONTONOMPO SELATAN",
+  "name": "SALAJO",
+  "postalCode": "92153"
  },
  {
   "id": 7306011007,
   "districtId": 7306011,
-  "name": "JIPANG"
+  "districtName": "BONTONOMPO SELATAN",
+  "name": "JIPANG",
+  "postalCode": "52274"
  },
  {
   "id": 7306011009,
   "districtId": 7306011,
-  "name": "SENGKA"
+  "districtName": "BONTONOMPO SELATAN",
+  "name": "SENGKA",
+  "postalCode": "92153"
  },
  {
   "id": 7306011010,
   "districtId": 7306011,
-  "name": "BONTORAMBA"
+  "districtName": "BONTONOMPO SELATAN",
+  "name": "BONTORAMBA",
+  "postalCode": "92153"
  }
 ]

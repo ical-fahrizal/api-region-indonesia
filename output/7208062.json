@@ -2,56 +2,78 @@
  {
   "id": 7208062001,
   "districtId": 7208062,
-  "name": "TULADENGGI SIBATANG"
+  "districtName": "TAOPA",
+  "name": "TULADENGGI SIBATANG",
+  "postalCode": "94479"
  },
  {
   "id": 7208062002,
   "districtId": 7208062,
-  "name": "TAOPA"
+  "districtName": "TAOPA",
+  "name": "TAOPA",
+  "postalCode": "94479"
  },
  {
   "id": 7208062003,
   "districtId": 7208062,
-  "name": "PALAPI"
+  "districtName": "TAOPA",
+  "name": "PALAPI",
+  "postalCode": "94479"
  },
  {
   "id": 7208062004,
   "districtId": 7208062,
-  "name": "NUNURANTAI"
+  "districtName": "TAOPA",
+  "name": "NUNURANTAI",
+  "postalCode": "94479"
  },
  {
   "id": 7208062005,
   "districtId": 7208062,
-  "name": "KARYA AGUNG"
+  "districtName": "TAOPA",
+  "name": "KARYA AGUNG",
+  "postalCode": "34769"
  },
  {
   "id": 7208062006,
   "districtId": 7208062,
-  "name": "TOMPO"
+  "districtName": "TAOPA",
+  "name": "TOMPO",
+  "postalCode": "94479"
  },
  {
   "id": 7208062007,
   "districtId": 7208062,
-  "name": "TAOPA UTARA"
+  "districtName": "TAOPA",
+  "name": "TAOPA UTARA",
+  "postalCode": "94479"
  },
  {
   "id": 7208062008,
   "districtId": 7208062,
-  "name": "TAOPA BARAT"
+  "districtName": "TAOPA",
+  "name": "TAOPA BARAT",
+  "postalCode": "94479"
  },
  {
   "id": 7208062009,
   "districtId": 7208062,
-  "name": "PARIA"
+  "districtName": "TAOPA",
+  "name": "PARIA",
+  "postalCode": "94479"
  },
  {
   "id": 7208062010,
   "districtId": 7208062,
-  "name": "BILALEA"
+  "districtName": "TAOPA",
+  "name": "BILALEA",
+  "postalCode": "94479"
  },
  {
   "id": 7208062011,
   "districtId": 7208062,
-  "name": "KARYA ABADI"
+  "districtName": "TAOPA",
+  "name": "KARYA ABADI",
+  "postalCode": "94479"
  }
 ]

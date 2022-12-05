@@ -2,16 +2,22 @@
  {
   "id": 1306081001,
   "districtId": 1306081,
-  "name": "GASAN GADANG"
+  "districtName": "BATANG GASAN",
+  "name": "GASAN GADANG",
+  "postalCode": "25563"
  },
  {
   "id": 1306081002,
   "districtId": 1306081,
-  "name": "MALAI V SUKU"
+  "districtName": "BATANG GASAN",
+  "name": "MALAI V SUKU",
+  "postalCode": "25563"
  },
  {
   "id": 1306081003,
   "districtId": 1306081,
-  "name": "MALAI V SUKU TIMUR"
+  "districtName": "BATANG GASAN",
+  "name": "MALAI V SUKU TIMUR",
+  "postalCode": ""
  }
 ]

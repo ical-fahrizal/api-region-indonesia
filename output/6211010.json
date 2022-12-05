@@ -2,56 +2,78 @@
  {
   "id": 6211010001,
   "districtId": 6211010,
-  "name": "TAKARAS"
+  "districtName": "MANUHING",
+  "name": "TAKARAS",
+  "postalCode": "74562"
  },
  {
   "id": 6211010003,
   "districtId": 6211010,
-  "name": "FAJAR HARAPAN"
+  "districtName": "MANUHING",
+  "name": "FAJAR HARAPAN",
+  "postalCode": "23771"
  },
  {
   "id": 6211010005,
   "districtId": 6211010,
-  "name": "BANGUN SARI"
+  "districtName": "MANUHING",
+  "name": "BANGUN SARI",
+  "postalCode": "24782"
  },
  {
   "id": 6211010006,
   "districtId": 6211010,
-  "name": "BELAWAN MULYA"
+  "districtName": "MANUHING",
+  "name": "BELAWAN MULYA",
+  "postalCode": "74562"
  },
  {
   "id": 6211010007,
   "districtId": 6211010,
-  "name": "BERENG BELAWAN"
+  "districtName": "MANUHING",
+  "name": "BERENG BELAWAN",
+  "postalCode": "74562"
  },
  {
   "id": 6211010008,
   "districtId": 6211010,
-  "name": "TUMBANG SEPAN"
+  "districtName": "MANUHING",
+  "name": "TUMBANG SEPAN",
+  "postalCode": "74291"
  },
  {
   "id": 6211010009,
   "districtId": 6211010,
-  "name": "TUMBANG TALAKEN"
+  "districtName": "MANUHING",
+  "name": "TUMBANG TALAKEN",
+  "postalCode": "74562"
  },
  {
   "id": 6211010010,
   "districtId": 6211010,
-  "name": "TANGKI DAHUYAN"
+  "districtName": "MANUHING",
+  "name": "TANGKI DAHUYAN",
+  "postalCode": "74562"
  },
  {
   "id": 6211010011,
   "districtId": 6211010,
-  "name": "TUMBANG JALEMU"
+  "districtName": "MANUHING",
+  "name": "TUMBANG JALEMU",
+  "postalCode": ""
  },
  {
   "id": 6211010012,
   "districtId": 6211010,
-  "name": "TARINGEN"
+  "districtName": "MANUHING",
+  "name": "TARINGEN",
+  "postalCode": "74562"
  },
  {
   "id": 6211010013,
   "districtId": 6211010,
-  "name": "GOHONG"
+  "districtName": "MANUHING",
+  "name": "GOHONG",
+  "postalCode": "74812"
  }
 ]

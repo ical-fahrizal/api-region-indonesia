@@ -2,71 +2,99 @@
  {
   "id": 3374010001,
   "districtId": 3374010,
-  "name": "CANGKIRAN"
+  "districtName": "MIJEN",
+  "name": "CANGKIRAN",
+  "postalCode": "50216"
  },
  {
   "id": 3374010002,
   "districtId": 3374010,
-  "name": "BUBAKAN"
+  "districtName": "MIJEN",
+  "name": "BUBAKAN",
+  "postalCode": "57683"
  },
  {
   "id": 3374010003,
   "districtId": 3374010,
-  "name": "KARANGMALANG"
+  "districtName": "MIJEN",
+  "name": "KARANGMALANG",
+  "postalCode": "45213"
  },
  {
   "id": 3374010004,
   "districtId": 3374010,
-  "name": "POLAMAN"
+  "districtName": "MIJEN",
+  "name": "POLAMAN",
+  "postalCode": "50217"
  },
  {
   "id": 3374010005,
   "districtId": 3374010,
-  "name": "PURWOSARI"
+  "districtName": "MIJEN",
+  "name": "PURWOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 3374010006,
   "districtId": 3374010,
-  "name": "TAMBANGAN"
+  "districtName": "MIJEN",
+  "name": "TAMBANGAN",
+  "postalCode": "20631"
  },
  {
   "id": 3374010007,
   "districtId": 3374010,
-  "name": "JATISARI"
+  "districtName": "MIJEN",
+  "name": "JATISARI",
+  "postalCode": "32362"
  },
  {
   "id": 3374010008,
   "districtId": 3374010,
-  "name": "MIJEN"
+  "districtName": "MIJEN",
+  "name": "MIJEN",
+  "postalCode": "59332"
  },
  {
   "id": 3374010009,
   "districtId": 3374010,
-  "name": "JATIBARANG"
+  "districtName": "MIJEN",
+  "name": "JATIBARANG",
+  "postalCode": "45273"
  },
  {
   "id": 3374010010,
   "districtId": 3374010,
-  "name": "KEDUNGPANI"
+  "districtName": "MIJEN",
+  "name": "KEDUNGPANI",
+  "postalCode": "50211"
  },
  {
   "id": 3374010011,
   "districtId": 3374010,
-  "name": "PESANTREN"
+  "districtName": "MIJEN",
+  "name": "PESANTREN",
+  "postalCode": "51255"
  },
  {
   "id": 3374010012,
   "districtId": 3374010,
-  "name": "NGADIRGO"
+  "districtName": "MIJEN",
+  "name": "NGADIRGO",
+  "postalCode": "50213"
  },
  {
   "id": 3374010013,
   "districtId": 3374010,
-  "name": "WONOLOPO"
+  "districtName": "MIJEN",
+  "name": "WONOLOPO",
+  "postalCode": "50215"
  },
  {
   "id": 3374010014,
   "districtId": 3374010,
-  "name": "WONOPLUMBON"
+  "districtName": "MIJEN",
+  "name": "WONOPLUMBON",
+  "postalCode": "50214"
  }
 ]

@@ -2,66 +2,92 @@
  {
   "id": 8103141001,
   "districtId": 8103141,
-  "name": "WARASIWA"
+  "districtName": "SERAM UTARA BARAT",
+  "name": "WARASIWA",
+  "postalCode": "97557"
  },
  {
   "id": 8103141002,
   "districtId": 8103141,
-  "name": "RUMAHWEY"
+  "districtName": "SERAM UTARA BARAT",
+  "name": "RUMAHWEY",
+  "postalCode": "97557"
  },
  {
   "id": 8103141003,
   "districtId": 8103141,
-  "name": "LISABATA TIMUR"
+  "districtName": "SERAM UTARA BARAT",
+  "name": "LISABATA TIMUR",
+  "postalCode": "97557"
  },
  {
   "id": 8103141004,
   "districtId": 8103141,
-  "name": "LATEA"
+  "districtName": "SERAM UTARA BARAT",
+  "name": "LATEA",
+  "postalCode": "97557"
  },
  {
   "id": 8103141005,
   "districtId": 8103141,
-  "name": "GALE-GALE"
+  "districtName": "SERAM UTARA BARAT",
+  "name": "GALE-GALE",
+  "postalCode": "97557"
  },
  {
   "id": 8103141006,
   "districtId": 8103141,
-  "name": "LABUAN"
+  "districtName": "SERAM UTARA BARAT",
+  "name": "LABUAN",
+  "postalCode": "34874"
  },
  {
   "id": 8103141007,
   "districtId": 8103141,
-  "name": "PASANEA"
+  "districtName": "SERAM UTARA BARAT",
+  "name": "PASANEA",
+  "postalCode": "97557"
  },
  {
   "id": 8103141008,
   "districtId": 8103141,
-  "name": "KARLUTUKARA"
+  "districtName": "SERAM UTARA BARAT",
+  "name": "KARLUTUKARA",
+  "postalCode": ""
  },
  {
   "id": 8103141009,
   "districtId": 8103141,
-  "name": "PAA"
+  "districtName": "SERAM UTARA BARAT",
+  "name": "PAA",
+  "postalCode": "97557"
  },
  {
   "id": 8103141010,
   "districtId": 8103141,
-  "name": "WAILULU"
+  "districtName": "SERAM UTARA BARAT",
+  "name": "WAILULU",
+  "postalCode": ""
  },
  {
   "id": 8103141011,
   "districtId": 8103141,
-  "name": "HORALE"
+  "districtName": "SERAM UTARA BARAT",
+  "name": "HORALE",
+  "postalCode": "97557"
  },
  {
   "id": 8103141012,
   "districtId": 8103141,
-  "name": "SALEMAN"
+  "districtName": "SERAM UTARA BARAT",
+  "name": "SALEMAN",
+  "postalCode": "97557"
  },
  {
   "id": 8103141013,
   "districtId": 8103141,
-  "name": "HERLAU PAUNI"
+  "districtName": "SERAM UTARA BARAT",
+  "name": "HERLAU PAUNI",
+  "postalCode": ""
  }
 ]

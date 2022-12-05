@@ -2,136 +2,190 @@
  {
   "id": 6107210001,
   "districtId": 6107210,
-  "name": "SUNGAI SERIA"
+  "districtName": "KETUNGAU HULU",
+  "name": "SUNGAI SERIA",
+  "postalCode": ""
  },
  {
   "id": 6107210002,
   "districtId": 6107210,
-  "name": "SEPILUK"
+  "districtName": "KETUNGAU HULU",
+  "name": "SEPILUK",
+  "postalCode": "78654"
  },
  {
   "id": 6107210003,
   "districtId": 6107210,
-  "name": "SEBADAK"
+  "districtName": "KETUNGAU HULU",
+  "name": "SEBADAK",
+  "postalCode": "78654"
  },
  {
   "id": 6107210004,
   "districtId": 6107210,
-  "name": "EMPURA"
+  "districtName": "KETUNGAU HULU",
+  "name": "EMPURA",
+  "postalCode": "78654"
  },
  {
   "id": 6107210005,
   "districtId": 6107210,
-  "name": "SUAK MEDANG"
+  "districtName": "KETUNGAU HULU",
+  "name": "SUAK MEDANG",
+  "postalCode": "78654"
  },
  {
   "id": 6107210006,
   "districtId": 6107210,
-  "name": "NANGA BAYAN"
+  "districtName": "KETUNGAU HULU",
+  "name": "NANGA BAYAN",
+  "postalCode": "78654"
  },
  {
   "id": 6107210007,
   "districtId": 6107210,
-  "name": "JASA"
+  "districtName": "KETUNGAU HULU",
+  "name": "JASA",
+  "postalCode": "78654"
  },
  {
   "id": 6107210008,
   "districtId": 6107210,
-  "name": "SENANING"
+  "districtName": "KETUNGAU HULU",
+  "name": "SENANING",
+  "postalCode": "36657"
  },
  {
   "id": 6107210009,
   "districtId": 6107210,
-  "name": "RASAU"
+  "districtName": "KETUNGAU HULU",
+  "name": "RASAU",
+  "postalCode": "21464"
  },
  {
   "id": 6107210010,
   "districtId": 6107210,
-  "name": "SUNGAI BUGAU"
+  "districtName": "KETUNGAU HULU",
+  "name": "SUNGAI BUGAU",
+  "postalCode": "78654"
  },
  {
   "id": 6107210011,
   "districtId": 6107210,
-  "name": "NANGA BUGAU"
+  "districtName": "KETUNGAU HULU",
+  "name": "NANGA BUGAU",
+  "postalCode": "78654"
  },
  {
   "id": 6107210012,
   "districtId": 6107210,
-  "name": "EMPUNAK TAPANG KELADAN"
+  "districtName": "KETUNGAU HULU",
+  "name": "EMPUNAK TAPANG KELADAN",
+  "postalCode": "78654"
  },
  {
   "id": 6107210013,
   "districtId": 6107210,
-  "name": "SEBETUNG PALUK"
+  "districtName": "KETUNGAU HULU",
+  "name": "SEBETUNG PALUK",
+  "postalCode": "78654"
  },
  {
   "id": 6107210014,
   "districtId": 6107210,
-  "name": "MUAKAN PETINGGI"
+  "districtName": "KETUNGAU HULU",
+  "name": "MUAKAN PETINGGI",
+  "postalCode": "78654"
  },
  {
   "id": 6107210015,
   "districtId": 6107210,
-  "name": "NANGA SEBAWANG"
+  "districtName": "KETUNGAU HULU",
+  "name": "NANGA SEBAWANG",
+  "postalCode": "78654"
  },
  {
   "id": 6107210016,
   "districtId": 6107210,
-  "name": "SEKAIH"
+  "districtName": "KETUNGAU HULU",
+  "name": "SEKAIH",
+  "postalCode": "78654"
  },
  {
   "id": 6107210017,
   "districtId": 6107210,
-  "name": "BEKUAN LUYANG"
+  "districtName": "KETUNGAU HULU",
+  "name": "BEKUAN LUYANG",
+  "postalCode": "78654"
  },
  {
   "id": 6107210018,
   "districtId": 6107210,
-  "name": "SUNGAI PISAU"
+  "districtName": "KETUNGAU HULU",
+  "name": "SUNGAI PISAU",
+  "postalCode": "78654"
  },
  {
   "id": 6107210019,
   "districtId": 6107210,
-  "name": "MUNGGUK ENTAWAK"
+  "districtName": "KETUNGAU HULU",
+  "name": "MUNGGUK ENTAWAK",
+  "postalCode": ""
  },
  {
   "id": 6107210020,
   "districtId": 6107210,
-  "name": "EMBALIH"
+  "districtName": "KETUNGAU HULU",
+  "name": "EMBALIH",
+  "postalCode": ""
  },
  {
   "id": 6107210022,
   "districtId": 6107210,
-  "name": "RIAM SEJAWAK"
+  "districtName": "KETUNGAU HULU",
+  "name": "RIAM SEJAWAK",
+  "postalCode": ""
  },
  {
   "id": 6107210024,
   "districtId": 6107210,
-  "name": "SUNGAI KELIK"
+  "districtName": "KETUNGAU HULU",
+  "name": "SUNGAI KELIK",
+  "postalCode": ""
  },
  {
   "id": 6107210025,
   "districtId": 6107210,
-  "name": "IDAI"
+  "districtName": "KETUNGAU HULU",
+  "name": "IDAI",
+  "postalCode": ""
  },
  {
   "id": 6107210026,
   "districtId": 6107210,
-  "name": "SUNGAI MAWANG"
+  "districtName": "KETUNGAU HULU",
+  "name": "SUNGAI MAWANG",
+  "postalCode": ""
  },
  {
   "id": 6107210027,
   "districtId": 6107210,
-  "name": "UJUNG KEMPAS"
+  "districtName": "KETUNGAU HULU",
+  "name": "UJUNG KEMPAS",
+  "postalCode": ""
  },
  {
   "id": 6107210028,
   "districtId": 6107210,
-  "name": "NERACI JAYA"
+  "districtName": "KETUNGAU HULU",
+  "name": "NERACI JAYA",
+  "postalCode": ""
  },
  {
   "id": 6107210029,
   "districtId": 6107210,
-  "name": "SEJAWAK"
+  "districtName": "KETUNGAU HULU",
+  "name": "SEJAWAK",
+  "postalCode": ""
  }
 ]

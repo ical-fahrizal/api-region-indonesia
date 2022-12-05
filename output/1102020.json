@@ -2,81 +2,113 @@
  {
   "id": 1102020003,
   "districtId": 1102020,
-  "name": "PULO SAROK"
+  "districtName": "SINGKIL",
+  "name": "PULO SAROK",
+  "postalCode": "24785"
  },
  {
   "id": 1102020004,
   "districtId": 1102020,
-  "name": "PASAR SINGKIL"
+  "districtName": "SINGKIL",
+  "name": "PASAR SINGKIL",
+  "postalCode": "24785"
  },
  {
   "id": 1102020005,
   "districtId": 1102020,
-  "name": "UJUNG"
+  "districtName": "SINGKIL",
+  "name": "UJUNG",
+  "postalCode": "23772"
  },
  {
   "id": 1102020006,
   "districtId": 1102020,
-  "name": "KOTA SIMBOLING"
+  "districtName": "SINGKIL",
+  "name": "KOTA SIMBOLING",
+  "postalCode": "24785"
  },
  {
   "id": 1102020007,
   "districtId": 1102020,
-  "name": "KILANGAN"
+  "districtName": "SINGKIL",
+  "name": "KILANGAN",
+  "postalCode": "24785"
  },
  {
   "id": 1102020009,
   "districtId": 1102020,
-  "name": "TELUK AMBUN"
+  "districtName": "SINGKIL",
+  "name": "TELUK AMBUN",
+  "postalCode": "24785"
  },
  {
   "id": 1102020010,
   "districtId": 1102020,
-  "name": "RANTAU GEDANG"
+  "districtName": "SINGKIL",
+  "name": "RANTAU GEDANG",
+  "postalCode": "24785"
  },
  {
   "id": 1102020011,
   "districtId": 1102020,
-  "name": "TELUK RUMBIA"
+  "districtName": "SINGKIL",
+  "name": "TELUK RUMBIA",
+  "postalCode": "24785"
  },
  {
   "id": 1102020012,
   "districtId": 1102020,
-  "name": "TAKAL PASIR"
+  "districtName": "SINGKIL",
+  "name": "TAKAL PASIR",
+  "postalCode": "24785"
  },
  {
   "id": 1102020013,
   "districtId": 1102020,
-  "name": "SELOK ACEH"
+  "districtName": "SINGKIL",
+  "name": "SELOK ACEH",
+  "postalCode": "24785"
  },
  {
   "id": 1102020014,
   "districtId": 1102020,
-  "name": "PEA BUMBUNG"
+  "districtName": "SINGKIL",
+  "name": "PEA BUMBUNG",
+  "postalCode": ""
  },
  {
   "id": 1102020015,
   "districtId": 1102020,
-  "name": "PEMUKA"
+  "districtName": "SINGKIL",
+  "name": "PEMUKA",
+  "postalCode": "24785"
  },
  {
   "id": 1102020019,
   "districtId": 1102020,
-  "name": "SUKA DAMAI"
+  "districtName": "SINGKIL",
+  "name": "SUKA DAMAI",
+  "postalCode": "24472"
  },
  {
   "id": 1102020020,
   "districtId": 1102020,
-  "name": "UJUNG BAWANG"
+  "districtName": "SINGKIL",
+  "name": "UJUNG BAWANG",
+  "postalCode": "24785"
  },
  {
   "id": 1102020021,
   "districtId": 1102020,
-  "name": "SITI AMBIA"
+  "districtName": "SINGKIL",
+  "name": "SITI AMBIA",
+  "postalCode": "24785"
  },
  {
   "id": 1102020022,
   "districtId": 1102020,
-  "name": "SUKA MAKMUR"
+  "districtName": "SINGKIL",
+  "name": "SUKA MAKMUR",
+  "postalCode": "24784"
  }
 ]

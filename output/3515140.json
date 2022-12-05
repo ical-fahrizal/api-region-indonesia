@@ -2,81 +2,113 @@
  {
   "id": 3515140001,
   "districtId": 3515140,
-  "name": "MEDAENG"
+  "districtName": "WARU",
+  "name": "MEDAENG",
+  "postalCode": "61256"
  },
  {
   "id": 3515140002,
   "districtId": 3515140,
-  "name": "PEPELEGI"
+  "districtName": "WARU",
+  "name": "PEPELEGI",
+  "postalCode": "61256"
  },
  {
   "id": 3515140003,
   "districtId": 3515140,
-  "name": "WARU"
+  "districtName": "WARU",
+  "name": "WARU",
+  "postalCode": "45252"
  },
  {
   "id": 3515140004,
   "districtId": 3515140,
-  "name": "KUREKSARI"
+  "districtName": "WARU",
+  "name": "KUREKSARI",
+  "postalCode": "61256"
  },
  {
   "id": 3515140005,
   "districtId": 3515140,
-  "name": "NGINGAS"
+  "districtName": "WARU",
+  "name": "NGINGAS",
+  "postalCode": "61256"
  },
  {
   "id": 3515140006,
   "districtId": 3515140,
-  "name": "TROPODO"
+  "districtName": "WARU",
+  "name": "TROPODO",
+  "postalCode": "61262"
  },
  {
   "id": 3515140007,
   "districtId": 3515140,
-  "name": "TAMBAK SAWAH"
+  "districtName": "WARU",
+  "name": "TAMBAK SAWAH",
+  "postalCode": "61256"
  },
  {
   "id": 3515140008,
   "districtId": 3515140,
-  "name": "TAMBAK REJO"
+  "districtName": "WARU",
+  "name": "TAMBAK REJO",
+  "postalCode": "38657"
  },
  {
   "id": 3515140009,
   "districtId": 3515140,
-  "name": "TAMBAK OSO"
+  "districtName": "WARU",
+  "name": "TAMBAK OSO",
+  "postalCode": "61256"
  },
  {
   "id": 3515140010,
   "districtId": 3515140,
-  "name": "TAMBAK SUMUR"
+  "districtName": "WARU",
+  "name": "TAMBAK SUMUR",
+  "postalCode": "61256"
  },
  {
   "id": 3515140011,
   "districtId": 3515140,
-  "name": "WADUNGASRI"
+  "districtName": "WARU",
+  "name": "WADUNGASRI",
+  "postalCode": "61256"
  },
  {
   "id": 3515140013,
   "districtId": 3515140,
-  "name": "KEPUH KIRIMAN"
+  "districtName": "WARU",
+  "name": "KEPUH KIRIMAN",
+  "postalCode": "61256"
  },
  {
   "id": 3515140014,
   "districtId": 3515140,
-  "name": "WEDORO"
+  "districtName": "WARU",
+  "name": "WEDORO",
+  "postalCode": "58161"
  },
  {
   "id": 3515140015,
   "districtId": 3515140,
-  "name": "JANTI"
+  "districtName": "WARU",
+  "name": "JANTI",
+  "postalCode": "57474"
  },
  {
   "id": 3515140016,
   "districtId": 3515140,
-  "name": "KEDUNGREJO"
+  "districtName": "WARU",
+  "name": "KEDUNGREJO",
+  "postalCode": "57383"
  },
  {
   "id": 3515140017,
   "districtId": 3515140,
-  "name": "BUNGURASIH"
+  "districtName": "WARU",
+  "name": "BUNGURASIH",
+  "postalCode": "61256"
  }
 ]

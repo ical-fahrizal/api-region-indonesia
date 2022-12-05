@@ -2,71 +2,99 @@
  {
   "id": 1203090004,
   "districtId": 1203090,
-  "name": "SIUHOM"
+  "districtName": "ANGKOLA  BARAT",
+  "name": "SIUHOM",
+  "postalCode": "22735"
  },
  {
   "id": 1203090005,
   "districtId": 1203090,
-  "name": "SISUNDUNG"
+  "districtName": "ANGKOLA  BARAT",
+  "name": "SISUNDUNG",
+  "postalCode": "22735"
  },
  {
   "id": 1203090006,
   "districtId": 1203090,
-  "name": "PARSALAKAN"
+  "districtName": "ANGKOLA  BARAT",
+  "name": "PARSALAKAN",
+  "postalCode": "22735"
  },
  {
   "id": 1203090012,
   "districtId": 1203090,
-  "name": "SIALOGO"
+  "districtName": "ANGKOLA  BARAT",
+  "name": "SIALOGO",
+  "postalCode": "22735"
  },
  {
   "id": 1203090018,
   "districtId": 1203090,
-  "name": "LEMBAH LUBUK RAYA"
+  "districtName": "ANGKOLA  BARAT",
+  "name": "LEMBAH LUBUK RAYA",
+  "postalCode": ""
  },
  {
   "id": 1203090019,
   "districtId": 1203090,
-  "name": "SITARA TOIT"
+  "districtName": "ANGKOLA  BARAT",
+  "name": "SITARA TOIT",
+  "postalCode": ""
  },
  {
   "id": 1203090020,
   "districtId": 1203090,
-  "name": "LOBU LAYAN SIGORDANG"
+  "districtName": "ANGKOLA  BARAT",
+  "name": "LOBU LAYAN SIGORDANG",
+  "postalCode": "22735"
  },
  {
   "id": 1203090021,
   "districtId": 1203090,
-  "name": "AEK NABARA"
+  "districtName": "ANGKOLA  BARAT",
+  "name": "AEK NABARA",
+  "postalCode": "22735"
  },
  {
   "id": 1203090022,
   "districtId": 1203090,
-  "name": "SIBANGKUA"
+  "districtName": "ANGKOLA  BARAT",
+  "name": "SIBANGKUA",
+  "postalCode": "22735"
  },
  {
   "id": 1203090023,
   "districtId": 1203090,
-  "name": "SIGUMURU"
+  "districtName": "ANGKOLA  BARAT",
+  "name": "SIGUMURU",
+  "postalCode": "22735"
  },
  {
   "id": 1203090024,
   "districtId": 1203090,
-  "name": "SITINJAK"
+  "districtName": "ANGKOLA  BARAT",
+  "name": "SITINJAK",
+  "postalCode": "22735"
  },
  {
   "id": 1203090025,
   "districtId": 1203090,
-  "name": "SIMATORKIS SISOMA"
+  "districtName": "ANGKOLA  BARAT",
+  "name": "SIMATORKIS SISOMA",
+  "postalCode": "22735"
  },
  {
   "id": 1203090026,
   "districtId": 1203090,
-  "name": "PANOBASAN"
+  "districtName": "ANGKOLA  BARAT",
+  "name": "PANOBASAN",
+  "postalCode": "22735"
  },
  {
   "id": 1203090027,
   "districtId": 1203090,
-  "name": "PANOBASAN LOMBANG"
+  "districtName": "ANGKOLA  BARAT",
+  "name": "PANOBASAN LOMBANG",
+  "postalCode": ""
  }
 ]

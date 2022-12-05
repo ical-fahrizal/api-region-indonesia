@@ -2,46 +2,64 @@
  {
   "id": 1113030001,
   "districtId": 1113030,
-  "name": "GAJAH"
+  "districtName": "PINING",
+  "name": "GAJAH",
+  "postalCode": "24655"
  },
  {
   "id": 1113030002,
   "districtId": 1113030,
-  "name": "URING"
+  "districtName": "PINING",
+  "name": "URING",
+  "postalCode": "24581"
  },
  {
   "id": 1113030003,
   "districtId": 1113030,
-  "name": "PINTU RIME"
+  "districtName": "PINING",
+  "name": "PINTU RIME",
+  "postalCode": "24655"
  },
  {
   "id": 1113030004,
   "districtId": 1113030,
-  "name": "EKAN"
+  "districtName": "PINING",
+  "name": "EKAN",
+  "postalCode": "24655"
  },
  {
   "id": 1113030005,
   "districtId": 1113030,
-  "name": "PERTIK"
+  "districtName": "PINING",
+  "name": "PERTIK",
+  "postalCode": "24655"
  },
  {
   "id": 1113030006,
   "districtId": 1113030,
-  "name": "PINING"
+  "districtName": "PINING",
+  "name": "PINING",
+  "postalCode": ""
  },
  {
   "id": 1113030007,
   "districtId": 1113030,
-  "name": "PEPALAH"
+  "districtName": "PINING",
+  "name": "PEPALAH",
+  "postalCode": ""
  },
  {
   "id": 1113030008,
   "districtId": 1113030,
-  "name": "PASIR PUTIH"
+  "districtName": "PINING",
+  "name": "PASIR PUTIH",
+  "postalCode": "24453"
  },
  {
   "id": 1113030009,
   "districtId": 1113030,
-  "name": "LESTEN"
+  "districtName": "PINING",
+  "name": "LESTEN",
+  "postalCode": "24655"
  }
 ]

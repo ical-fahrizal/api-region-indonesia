@@ -2,41 +2,57 @@
  {
   "id": 6212050004,
   "districtId": 6212050,
-  "name": "SAING"
+  "districtName": "DUSUN TENGAH",
+  "name": "SAING",
+  "postalCode": "33179"
  },
  {
   "id": 6212050005,
   "districtId": 6212050,
-  "name": "RODOK"
+  "districtName": "DUSUN TENGAH",
+  "name": "RODOK",
+  "postalCode": "73652"
  },
  {
   "id": 6212050006,
   "districtId": 6212050,
-  "name": "AMPAH DUA"
+  "districtName": "DUSUN TENGAH",
+  "name": "AMPAH DUA",
+  "postalCode": "73652"
  },
  {
   "id": 6212050007,
   "districtId": 6212050,
-  "name": "PUTAI"
+  "districtName": "DUSUN TENGAH",
+  "name": "PUTAI",
+  "postalCode": "73652"
  },
  {
   "id": 6212050008,
   "districtId": 6212050,
-  "name": "AMPAH KOTA"
+  "districtName": "DUSUN TENGAH",
+  "name": "AMPAH KOTA",
+  "postalCode": "73652"
  },
  {
   "id": 6212050009,
   "districtId": 6212050,
-  "name": "NETAMPIN"
+  "districtName": "DUSUN TENGAH",
+  "name": "NETAMPIN",
+  "postalCode": ""
  },
  {
   "id": 6212050010,
   "districtId": 6212050,
-  "name": "SUMBER GARUNGGUNG"
+  "districtName": "DUSUN TENGAH",
+  "name": "SUMBER GARUNGGUNG",
+  "postalCode": ""
  },
  {
   "id": 6212050011,
   "districtId": 6212050,
-  "name": "MUARA AWANG"
+  "districtName": "DUSUN TENGAH",
+  "name": "MUARA AWANG",
+  "postalCode": "73652"
  }
 ]

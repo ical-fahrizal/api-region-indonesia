@@ -2,61 +2,85 @@
  {
   "id": 1211010001,
   "districtId": 1211010,
-  "name": "LAU SOLU"
+  "districtName": "MARDINGDING",
+  "name": "LAU SOLU",
+  "postalCode": "22165"
  },
  {
   "id": 1211010002,
   "districtId": 1211010,
-  "name": "KUTA PENGKIH"
+  "districtName": "MARDINGDING",
+  "name": "KUTA PENGKIH",
+  "postalCode": "22165"
  },
  {
   "id": 1211010003,
   "districtId": 1211010,
-  "name": "RIMO BUNGA"
+  "districtName": "MARDINGDING",
+  "name": "RIMO BUNGA",
+  "postalCode": "22165"
  },
  {
   "id": 1211010004,
   "districtId": 1211010,
-  "name": "LAU MULGAP"
+  "districtName": "MARDINGDING",
+  "name": "LAU MULGAP",
+  "postalCode": "22165"
  },
  {
   "id": 1211010005,
   "districtId": 1211010,
-  "name": "TANJUNG PAMAH"
+  "districtName": "MARDINGDING",
+  "name": "TANJUNG PAMAH",
+  "postalCode": "22165"
  },
  {
   "id": 1211010006,
   "districtId": 1211010,
-  "name": "MARDINGDING"
+  "districtName": "MARDINGDING",
+  "name": "MARDINGDING",
+  "postalCode": "22165"
  },
  {
   "id": 1211010007,
   "districtId": 1211010,
-  "name": "LAU KASUMPAT"
+  "districtName": "MARDINGDING",
+  "name": "LAU KASUMPAT",
+  "postalCode": "22165"
  },
  {
   "id": 1211010008,
   "districtId": 1211010,
-  "name": "BANDAR PURBA"
+  "districtName": "MARDINGDING",
+  "name": "BANDAR PURBA",
+  "postalCode": "22165"
  },
  {
   "id": 1211010009,
   "districtId": 1211010,
-  "name": "LAU PENGULU"
+  "districtName": "MARDINGDING",
+  "name": "LAU PENGULU",
+  "postalCode": "22165"
  },
  {
   "id": 1211010010,
   "districtId": 1211010,
-  "name": "LAU PAKAM"
+  "districtName": "MARDINGDING",
+  "name": "LAU PAKAM",
+  "postalCode": "22165"
  },
  {
   "id": 1211010011,
   "districtId": 1211010,
-  "name": "LAU GARUT"
+  "districtName": "MARDINGDING",
+  "name": "LAU GARUT",
+  "postalCode": ""
  },
  {
   "id": 1211010012,
   "districtId": 1211010,
-  "name": "BUKIT MAKMUR"
+  "districtName": "MARDINGDING",
+  "name": "BUKIT MAKMUR",
+  "postalCode": "24457"
  }
 ]

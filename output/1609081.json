@@ -2,61 +2,85 @@
  {
   "id": 1609081001,
   "districtId": 1609081,
-  "name": "SUKOHARJO"
+  "districtName": "BELITANG MULYA",
+  "name": "SUKOHARJO",
+  "postalCode": "32383"
  },
  {
   "id": 1609081002,
   "districtId": 1609081,
-  "name": "SRIBUDAYA"
+  "districtName": "BELITANG MULYA",
+  "name": "SRIBUDAYA",
+  "postalCode": ""
  },
  {
   "id": 1609081003,
   "districtId": 1609081,
-  "name": "SRI MULYO"
+  "districtName": "BELITANG MULYA",
+  "name": "SRI MULYO",
+  "postalCode": "30752"
  },
  {
   "id": 1609081004,
   "districtId": 1609081,
-  "name": "PURWODADI"
+  "districtName": "BELITANG MULYA",
+  "name": "PURWODADI",
+  "postalCode": "24652"
  },
  {
   "id": 1609081005,
   "districtId": 1609081,
-  "name": "ULAK BUNTAR"
+  "districtName": "BELITANG MULYA",
+  "name": "ULAK BUNTAR",
+  "postalCode": "32383"
  },
  {
   "id": 1609081006,
   "districtId": 1609081,
-  "name": "SARI GUNA"
+  "districtName": "BELITANG MULYA",
+  "name": "SARI GUNA",
+  "postalCode": "32386"
  },
  {
   "id": 1609081007,
   "districtId": 1609081,
-  "name": "SIDO WALUYO"
+  "districtName": "BELITANG MULYA",
+  "name": "SIDO WALUYO",
+  "postalCode": ""
  },
  {
   "id": 1609081008,
   "districtId": 1609081,
-  "name": "SUGIH WARAS"
+  "districtName": "BELITANG MULYA",
+  "name": "SUGIH WARAS",
+  "postalCode": "32274"
  },
  {
   "id": 1609081009,
   "districtId": 1609081,
-  "name": "REJOSARI"
+  "districtName": "BELITANG MULYA",
+  "name": "REJOSARI",
+  "postalCode": "29353"
  },
  {
   "id": 1609081010,
   "districtId": 1609081,
-  "name": "TULUNG SARI"
+  "districtName": "BELITANG MULYA",
+  "name": "TULUNG SARI",
+  "postalCode": "32386"
  },
  {
   "id": 1609081011,
   "districtId": 1609081,
-  "name": "PETANGGAN"
+  "districtName": "BELITANG MULYA",
+  "name": "PETANGGAN",
+  "postalCode": "32386"
  },
  {
   "id": 1609081012,
   "districtId": 1609081,
-  "name": "MULYA SARI"
+  "districtName": "BELITANG MULYA",
+  "name": "MULYA SARI",
+  "postalCode": "22774"
  }
 ]

@@ -2,56 +2,78 @@
  {
   "id": 7304021001,
   "districtId": 7304021,
-  "name": "BULUSUKA"
+  "districtName": "BONTORAMBA",
+  "name": "BULUSUKA",
+  "postalCode": "92351"
  },
  {
   "id": 7304021002,
   "districtId": 7304021,
-  "name": "MAERO"
+  "districtName": "BONTORAMBA",
+  "name": "MAERO",
+  "postalCode": "92351"
  },
  {
   "id": 7304021004,
   "districtId": 7304021,
-  "name": "BALUMBUNGANG"
+  "districtName": "BONTORAMBA",
+  "name": "BALUMBUNGANG",
+  "postalCode": "92351"
  },
  {
   "id": 7304021005,
   "districtId": 7304021,
-  "name": "BANGKALALOE"
+  "districtName": "BONTORAMBA",
+  "name": "BANGKALALOE",
+  "postalCode": "92351"
  },
  {
   "id": 7304021006,
   "districtId": 7304021,
-  "name": "DATARA"
+  "districtName": "BONTORAMBA",
+  "name": "DATARA",
+  "postalCode": "92351"
  },
  {
   "id": 7304021007,
   "districtId": 7304021,
-  "name": "BARAYA"
+  "districtName": "BONTORAMBA",
+  "name": "BARAYA",
+  "postalCode": "90153"
  },
  {
   "id": 7304021008,
   "districtId": 7304021,
-  "name": "BONTORAMBA"
+  "districtName": "BONTORAMBA",
+  "name": "BONTORAMBA",
+  "postalCode": "92153"
  },
  {
   "id": 7304021009,
   "districtId": 7304021,
-  "name": "BATUJALA"
+  "districtName": "BONTORAMBA",
+  "name": "BATUJALA",
+  "postalCode": "92351"
  },
  {
   "id": 7304021010,
   "districtId": 7304021,
-  "name": "BULUSIBATANG"
+  "districtName": "BONTORAMBA",
+  "name": "BULUSIBATANG",
+  "postalCode": "92351"
  },
  {
   "id": 7304021011,
   "districtId": 7304021,
-  "name": "KARELOE"
+  "districtName": "BONTORAMBA",
+  "name": "KARELOE",
+  "postalCode": "92351"
  },
  {
   "id": 7304021012,
   "districtId": 7304021,
-  "name": "TANAMMAWANG"
+  "districtName": "BONTORAMBA",
+  "name": "TANAMMAWANG",
+  "postalCode": "92351"
  }
 ]

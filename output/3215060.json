@@ -2,51 +2,71 @@
  {
   "id": 3215060002,
   "districtId": 3215060,
-  "name": "KARANGSINOM"
+  "districtName": "TIRTAMULYA",
+  "name": "KARANGSINOM",
+  "postalCode": "41372"
  },
  {
   "id": 3215060003,
   "districtId": 3215060,
-  "name": "KARANGJAYA"
+  "districtName": "TIRTAMULYA",
+  "name": "KARANGJAYA",
+  "postalCode": "43197"
  },
  {
   "id": 3215060004,
   "districtId": 3215060,
-  "name": "PARAKANMULYA"
+  "districtName": "TIRTAMULYA",
+  "name": "PARAKANMULYA",
+  "postalCode": "41372"
  },
  {
   "id": 3215060005,
   "districtId": 3215060,
-  "name": "CITARIK"
+  "districtName": "TIRTAMULYA",
+  "name": "CITARIK",
+  "postalCode": "43364"
  },
  {
   "id": 3215060006,
   "districtId": 3215060,
-  "name": "TIRTASARI"
+  "districtName": "TIRTAMULYA",
+  "name": "TIRTASARI",
+  "postalCode": "41372"
  },
  {
   "id": 3215060007,
   "districtId": 3215060,
-  "name": "PARAKAN"
+  "districtName": "TIRTAMULYA",
+  "name": "PARAKAN",
+  "postalCode": "16610"
  },
  {
   "id": 3215060008,
   "districtId": 3215060,
-  "name": "KAMURANG"
+  "districtName": "TIRTAMULYA",
+  "name": "KAMURANG",
+  "postalCode": "43291"
  },
  {
   "id": 3215060009,
   "districtId": 3215060,
-  "name": "BOJONGSARI"
+  "districtName": "TIRTAMULYA",
+  "name": "BOJONGSARI",
+  "postalCode": "40288"
  },
  {
   "id": 3215060010,
   "districtId": 3215060,
-  "name": "CIPONDOH"
+  "districtName": "TIRTAMULYA",
+  "name": "CIPONDOH",
+  "postalCode": "41372"
  },
  {
   "id": 3215060011,
   "districtId": 3215060,
-  "name": "KERTAWALUYA"
+  "districtName": "TIRTAMULYA",
+  "name": "KERTAWALUYA",
+  "postalCode": "41372"
  }
 ]

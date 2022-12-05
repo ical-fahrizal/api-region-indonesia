@@ -2,71 +2,99 @@
  {
   "id": 1214032001,
   "districtId": 1214032,
-  "name": "HILIAMAETALUO"
+  "districtName": "TOMA",
+  "name": "HILIAMAETALUO",
+  "postalCode": "22865"
  },
  {
   "id": 1214032002,
   "districtId": 1214032,
-  "name": "HILISATARO"
+  "districtName": "TOMA",
+  "name": "HILISATARO",
+  "postalCode": "22865"
  },
  {
   "id": 1214032003,
   "districtId": 1214032,
-  "name": "HILINAMONIHA"
+  "districtName": "TOMA",
+  "name": "HILINAMONIHA",
+  "postalCode": "22865"
  },
  {
   "id": 1214032004,
   "districtId": 1214032,
-  "name": "BAWOGANOWO"
+  "districtName": "TOMA",
+  "name": "BAWOGANOWO",
+  "postalCode": "22865"
  },
  {
   "id": 1214032005,
   "districtId": 1214032,
-  "name": "HILIALAWA"
+  "districtName": "TOMA",
+  "name": "HILIALAWA",
+  "postalCode": "22876"
  },
  {
   "id": 1214032006,
   "districtId": 1214032,
-  "name": "HILINDRASONIHA"
+  "districtName": "TOMA",
+  "name": "HILINDRASONIHA",
+  "postalCode": "22865"
  },
  {
   "id": 1214032007,
   "districtId": 1214032,
-  "name": "HILISATARO RAYA"
+  "districtName": "TOMA",
+  "name": "HILISATARO RAYA",
+  "postalCode": "22865"
  },
  {
   "id": 1214032008,
   "districtId": 1214032,
-  "name": "HILISATARO GEWA"
+  "districtName": "TOMA",
+  "name": "HILISATARO GEWA",
+  "postalCode": "22865"
  },
  {
   "id": 1214032009,
   "districtId": 1214032,
-  "name": "HILIASI"
+  "districtName": "TOMA",
+  "name": "HILIASI",
+  "postalCode": "22865"
  },
  {
   "id": 1214032010,
   "districtId": 1214032,
-  "name": "HILIMAGARI"
+  "districtName": "TOMA",
+  "name": "HILIMAGARI",
+  "postalCode": "22865"
  },
  {
   "id": 1214032011,
   "districtId": 1214032,
-  "name": "HILISOROMI"
+  "districtName": "TOMA",
+  "name": "HILISOROMI",
+  "postalCode": "22865"
  },
  {
   "id": 1214032012,
   "districtId": 1214032,
-  "name": "HILISATARO NANDISA"
+  "districtName": "TOMA",
+  "name": "HILISATARO NANDISA",
+  "postalCode": "22865"
  },
  {
   "id": 1214032013,
   "districtId": 1214032,
-  "name": "HILISATARO EHOSOFAYO"
+  "districtName": "TOMA",
+  "name": "HILISATARO EHOSOFAYO",
+  "postalCode": ""
  },
  {
   "id": 1214032014,
   "districtId": 1214032,
-  "name": "HILINDRASO RAYA"
+  "districtName": "TOMA",
+  "name": "HILINDRASO RAYA",
+  "postalCode": "22865"
  }
 ]

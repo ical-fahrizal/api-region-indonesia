@@ -2,66 +2,92 @@
  {
   "id": 5201051001,
   "districtId": 5201051,
-  "name": "PETELUAN INDAH"
+  "districtName": "LINGSAR",
+  "name": "PETELUAN INDAH",
+  "postalCode": "83371"
  },
  {
   "id": 5201051002,
   "districtId": 5201051,
-  "name": "LINGSAR"
+  "districtName": "LINGSAR",
+  "name": "LINGSAR",
+  "postalCode": "83371"
  },
  {
   "id": 5201051003,
   "districtId": 5201051,
-  "name": "BATU KUMBUNG"
+  "districtName": "LINGSAR",
+  "name": "BATU KUMBUNG",
+  "postalCode": "83371"
  },
  {
   "id": 5201051004,
   "districtId": 5201051,
-  "name": "BATU MEKAR"
+  "districtName": "LINGSAR",
+  "name": "BATU MEKAR",
+  "postalCode": "83371"
  },
  {
   "id": 5201051005,
   "districtId": 5201051,
-  "name": "KARANG BAYAN"
+  "districtName": "LINGSAR",
+  "name": "KARANG BAYAN",
+  "postalCode": "83371"
  },
  {
   "id": 5201051006,
   "districtId": 5201051,
-  "name": "LANGKO"
+  "districtName": "LINGSAR",
+  "name": "LANGKO",
+  "postalCode": "83554"
  },
  {
   "id": 5201051007,
   "districtId": 5201051,
-  "name": "SIGERONGAN"
+  "districtName": "LINGSAR",
+  "name": "SIGERONGAN",
+  "postalCode": "83371"
  },
  {
   "id": 5201051008,
   "districtId": 5201051,
-  "name": "DUMAN"
+  "districtName": "LINGSAR",
+  "name": "DUMAN",
+  "postalCode": "83371"
  },
  {
   "id": 5201051009,
   "districtId": 5201051,
-  "name": "DASAN GERIA"
+  "districtName": "LINGSAR",
+  "name": "DASAN GERIA",
+  "postalCode": "83371"
  },
  {
   "id": 5201051011,
   "districtId": 5201051,
-  "name": "GIRI MADIA"
+  "districtName": "LINGSAR",
+  "name": "GIRI MADIA",
+  "postalCode": "83371"
  },
  {
   "id": 5201051012,
   "districtId": 5201051,
-  "name": "GEGELANG"
+  "districtName": "LINGSAR",
+  "name": "GEGELANG",
+  "postalCode": "80871"
  },
  {
   "id": 5201051013,
   "districtId": 5201051,
-  "name": "GONTORAN"
+  "districtName": "LINGSAR",
+  "name": "GONTORAN",
+  "postalCode": "83371"
  },
  {
   "id": 5201051014,
   "districtId": 5201051,
-  "name": "SARIBAYE"
+  "districtName": "LINGSAR",
+  "name": "SARIBAYE",
+  "postalCode": "83371"
  }
 ]

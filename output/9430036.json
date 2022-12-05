@@ -2,46 +2,64 @@
  {
   "id": 9430036001,
   "districtId": 9430036,
-  "name": "KONIKME"
+  "districtName": "YUGUNWI",
+  "name": "KONIKME",
+  "postalCode": "99563"
  },
  {
   "id": 9430036002,
   "districtId": 9430036,
-  "name": "BOGUN KUNIK"
+  "districtName": "YUGUNWI",
+  "name": "BOGUN KUNIK",
+  "postalCode": ""
  },
  {
   "id": 9430036003,
   "districtId": 9430036,
-  "name": "LOGOM"
+  "districtName": "YUGUNWI",
+  "name": "LOGOM",
+  "postalCode": ""
  },
  {
   "id": 9430036004,
   "districtId": 9430036,
-  "name": "WANDOAK"
+  "districtName": "YUGUNWI",
+  "name": "WANDOAK",
+  "postalCode": ""
  },
  {
   "id": 9430036005,
   "districtId": 9430036,
-  "name": "GIWAN"
+  "districtName": "YUGUNWI",
+  "name": "GIWAN",
+  "postalCode": "99563"
  },
  {
   "id": 9430036006,
   "districtId": 9430036,
-  "name": "GIMILI ALOME"
+  "districtName": "YUGUNWI",
+  "name": "GIMILI ALOME",
+  "postalCode": ""
  },
  {
   "id": 9430036007,
   "districtId": 9430036,
-  "name": "MABUME"
+  "districtName": "YUGUNWI",
+  "name": "MABUME",
+  "postalCode": ""
  },
  {
   "id": 9430036008,
   "districtId": 9430036,
-  "name": "URGELO"
+  "districtName": "YUGUNWI",
+  "name": "URGELO",
+  "postalCode": ""
  },
  {
   "id": 9430036009,
   "districtId": 9430036,
-  "name": "OMAGAPA"
+  "districtName": "YUGUNWI",
+  "name": "OMAGAPA",
+  "postalCode": ""
  }
 ]

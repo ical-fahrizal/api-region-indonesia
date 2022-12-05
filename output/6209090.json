@@ -2,66 +2,92 @@
  {
   "id": 6209090002,
   "districtId": 6209090,
-  "name": "TUMBANG LABEHU"
+  "districtName": "SANAMAN MANTIKEI",
+  "name": "TUMBANG LABEHU",
+  "postalCode": "74455"
  },
  {
   "id": 6209090003,
   "districtId": 6209090,
-  "name": "TUMBANG KAMAN"
+  "districtName": "SANAMAN MANTIKEI",
+  "name": "TUMBANG KAMAN",
+  "postalCode": "74455"
  },
  {
   "id": 6209090004,
   "districtId": 6209090,
-  "name": "TUMBANG MANGGO"
+  "districtName": "SANAMAN MANTIKEI",
+  "name": "TUMBANG MANGGO",
+  "postalCode": "74455"
  },
  {
   "id": 6209090005,
   "districtId": 6209090,
-  "name": "KAMANTO"
+  "districtName": "SANAMAN MANTIKEI",
+  "name": "KAMANTO",
+  "postalCode": "74455"
  },
  {
   "id": 6209090006,
   "districtId": 6209090,
-  "name": "KULUK HABUHUS"
+  "districtName": "SANAMAN MANTIKEI",
+  "name": "KULUK HABUHUS",
+  "postalCode": "74455"
  },
  {
   "id": 6209090007,
   "districtId": 6209090,
-  "name": "TUMBANG KANEI"
+  "districtName": "SANAMAN MANTIKEI",
+  "name": "TUMBANG KANEI",
+  "postalCode": ""
  },
  {
   "id": 6209090008,
   "districtId": 6209090,
-  "name": "TUMBANG TARANEI"
+  "districtName": "SANAMAN MANTIKEI",
+  "name": "TUMBANG TARANEI",
+  "postalCode": ""
  },
  {
   "id": 6209090009,
   "districtId": 6209090,
-  "name": "TUMBANG PANGKA"
+  "districtName": "SANAMAN MANTIKEI",
+  "name": "TUMBANG PANGKA",
+  "postalCode": "74455"
  },
  {
   "id": 6209090010,
   "districtId": 6209090,
-  "name": "TUMBANG ATEI"
+  "districtName": "SANAMAN MANTIKEI",
+  "name": "TUMBANG ATEI",
+  "postalCode": "74455"
  },
  {
   "id": 6209090011,
   "districtId": 6209090,
-  "name": "TUMBANG KAWEI"
+  "districtName": "SANAMAN MANTIKEI",
+  "name": "TUMBANG KAWEI",
+  "postalCode": "74455"
  },
  {
   "id": 6209090012,
   "districtId": 6209090,
-  "name": "TUMBANG MANGARA"
+  "districtName": "SANAMAN MANTIKEI",
+  "name": "TUMBANG MANGARA",
+  "postalCode": ""
  },
  {
   "id": 6209090020,
   "districtId": 6209090,
-  "name": "DAYA MANUNGGAL"
+  "districtName": "SANAMAN MANTIKEI",
+  "name": "DAYA MANUNGGAL",
+  "postalCode": "74455"
  },
  {
   "id": 6209090021,
   "districtId": 6209090,
-  "name": "RANTAU BANGKIANG"
+  "districtName": "SANAMAN MANTIKEI",
+  "name": "RANTAU BANGKIANG",
+  "postalCode": "74455"
  }
 ]

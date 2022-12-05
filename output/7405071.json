@@ -2,51 +2,71 @@
  {
   "id": 7405071032,
   "districtId": 7405071,
-  "name": "LAMOKULA"
+  "districtName": "MORAMO UTARA",
+  "name": "LAMOKULA",
+  "postalCode": "93891"
  },
  {
   "id": 7405071033,
   "districtId": 7405071,
-  "name": "MEKAR JAYA"
+  "districtName": "MORAMO UTARA",
+  "name": "MEKAR JAYA",
+  "postalCode": "20771"
  },
  {
   "id": 7405071034,
   "districtId": 7405071,
-  "name": "SANGGULA"
+  "districtName": "MORAMO UTARA",
+  "name": "SANGGULA",
+  "postalCode": "93891"
  },
  {
   "id": 7405071035,
   "districtId": 7405071,
-  "name": "LOMBUEA"
+  "districtName": "MORAMO UTARA",
+  "name": "LOMBUEA",
+  "postalCode": ""
  },
  {
   "id": 7405071036,
   "districtId": 7405071,
-  "name": "WAWATU"
+  "districtName": "MORAMO UTARA",
+  "name": "WAWATU",
+  "postalCode": "93891"
  },
  {
   "id": 7405071037,
   "districtId": 7405071,
-  "name": "TANJUNG TIRAM"
+  "districtName": "MORAMO UTARA",
+  "name": "TANJUNG TIRAM",
+  "postalCode": "94975"
  },
  {
   "id": 7405071038,
   "districtId": 7405071,
-  "name": "LALOWARU"
+  "districtName": "MORAMO UTARA",
+  "name": "LALOWARU",
+  "postalCode": "93352"
  },
  {
   "id": 7405071039,
   "districtId": 7405071,
-  "name": "PUASANA"
+  "districtName": "MORAMO UTARA",
+  "name": "PUASANA",
+  "postalCode": "93463"
  },
  {
   "id": 7405071042,
   "districtId": 7405071,
-  "name": "MATA LAMOKULA"
+  "districtName": "MORAMO UTARA",
+  "name": "MATA LAMOKULA",
+  "postalCode": "93891"
  },
  {
   "id": 7405071043,
   "districtId": 7405071,
-  "name": "MATA WAWATU"
+  "districtName": "MORAMO UTARA",
+  "name": "MATA WAWATU",
+  "postalCode": ""
  }
 ]

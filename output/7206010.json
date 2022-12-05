@@ -2,56 +2,78 @@
  {
   "id": 7206010001,
   "districtId": 7206010,
-  "name": "KOMBO"
+  "districtName": "DAMPAL SELATAN",
+  "name": "KOMBO",
+  "postalCode": "84181"
  },
  {
   "id": 7206010002,
   "districtId": 7206010,
-  "name": "TAMPIALA"
+  "districtName": "DAMPAL SELATAN",
+  "name": "TAMPIALA",
+  "postalCode": "94554"
  },
  {
   "id": 7206010003,
   "districtId": 7206010,
-  "name": "SONI"
+  "districtName": "DAMPAL SELATAN",
+  "name": "SONI",
+  "postalCode": "94554"
  },
  {
   "id": 7206010004,
   "districtId": 7206010,
-  "name": "BANGKIR"
+  "districtName": "DAMPAL SELATAN",
+  "name": "BANGKIR",
+  "postalCode": "94554"
  },
  {
   "id": 7206010005,
   "districtId": 7206010,
-  "name": "DONGKO"
+  "districtName": "DAMPAL SELATAN",
+  "name": "DONGKO",
+  "postalCode": "66363"
  },
  {
   "id": 7206010006,
   "districtId": 7206010,
-  "name": "MIMBALA"
+  "districtName": "DAMPAL SELATAN",
+  "name": "MIMBALA",
+  "postalCode": "94554"
  },
  {
   "id": 7206010007,
   "districtId": 7206010,
-  "name": "ABBAJARENG"
+  "districtName": "DAMPAL SELATAN",
+  "name": "ABBAJARENG",
+  "postalCode": "94554"
  },
  {
   "id": 7206010008,
   "districtId": 7206010,
-  "name": "PADDUMPU"
+  "districtName": "DAMPAL SELATAN",
+  "name": "PADDUMPU",
+  "postalCode": "94554"
  },
  {
   "id": 7206010011,
   "districtId": 7206010,
-  "name": "PALLAKAWE"
+  "districtName": "DAMPAL SELATAN",
+  "name": "PALLAKAWE",
+  "postalCode": ""
  },
  {
   "id": 7206010012,
   "districtId": 7206010,
-  "name": "SIMUNTU"
+  "districtName": "DAMPAL SELATAN",
+  "name": "SIMUNTU",
+  "postalCode": ""
  },
  {
   "id": 7206010013,
   "districtId": 7206010,
-  "name": "LEMBA HARAPAN"
+  "districtName": "DAMPAL SELATAN",
+  "name": "LEMBA HARAPAN",
+  "postalCode": ""
  }
 ]

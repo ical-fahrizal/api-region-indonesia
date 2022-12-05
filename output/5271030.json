@@ -2,51 +2,71 @@
  {
   "id": 5271030004,
   "districtId": 5271030,
-  "name": "CAKRANEGARA SELATAN"
+  "districtName": "CAKRANEGARA",
+  "name": "CAKRANEGARA SELATAN",
+  "postalCode": "83239"
  },
  {
   "id": 5271030005,
   "districtId": 5271030,
-  "name": "CAKRANEGARA BARAT"
+  "districtName": "CAKRANEGARA",
+  "name": "CAKRANEGARA BARAT",
+  "postalCode": "83239"
  },
  {
   "id": 5271030006,
   "districtId": 5271030,
-  "name": "CAKRANEGARA TIMUR"
+  "districtName": "CAKRANEGARA",
+  "name": "CAKRANEGARA TIMUR",
+  "postalCode": "83239"
  },
  {
   "id": 5271030007,
   "districtId": 5271030,
-  "name": "CAKRANEGARA UTARA"
+  "districtName": "CAKRANEGARA",
+  "name": "CAKRANEGARA UTARA",
+  "postalCode": "83239"
  },
  {
   "id": 5271030009,
   "districtId": 5271030,
-  "name": "SAYANG SAYANG"
+  "districtName": "CAKRANEGARA",
+  "name": "SAYANG SAYANG",
+  "postalCode": "83239"
  },
  {
   "id": 5271030010,
   "districtId": 5271030,
-  "name": "CAKRANEGARA SELATAN BARU"
+  "districtName": "CAKRANEGARA",
+  "name": "CAKRANEGARA SELATAN BARU",
+  "postalCode": "83239"
  },
  {
   "id": 5271030011,
   "districtId": 5271030,
-  "name": "CILINAYA"
+  "districtName": "CAKRANEGARA",
+  "name": "CILINAYA",
+  "postalCode": "83238"
  },
  {
   "id": 5271030012,
   "districtId": 5271030,
-  "name": "SAPTA MARGA"
+  "districtName": "CAKRANEGARA",
+  "name": "SAPTA MARGA",
+  "postalCode": "24471"
  },
  {
   "id": 5271030013,
   "districtId": 5271030,
-  "name": "MAYURA"
+  "districtName": "CAKRANEGARA",
+  "name": "MAYURA",
+  "postalCode": "83238"
  },
  {
   "id": 5271030014,
   "districtId": 5271030,
-  "name": "KARANG TALIWANG"
+  "districtName": "CAKRANEGARA",
+  "name": "KARANG TALIWANG",
+  "postalCode": "83238"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 5201061001,
   "districtId": 5201061,
-  "name": "SANDIK"
+  "districtName": "BATU LAYAR",
+  "name": "SANDIK",
+  "postalCode": "83355"
  },
  {
   "id": 5201061002,
   "districtId": 5201061,
-  "name": "MENINTING"
+  "districtName": "BATU LAYAR",
+  "name": "MENINTING",
+  "postalCode": "83355"
  },
  {
   "id": 5201061003,
   "districtId": 5201061,
-  "name": "BATU LAYAR"
+  "districtName": "BATU LAYAR",
+  "name": "BATU LAYAR",
+  "postalCode": "83355"
  },
  {
   "id": 5201061004,
   "districtId": 5201061,
-  "name": "LEMBAH SARI"
+  "districtName": "BATU LAYAR",
+  "name": "LEMBAH SARI",
+  "postalCode": "28262"
  },
  {
   "id": 5201061006,
   "districtId": 5201061,
-  "name": "SENGGIGI"
+  "districtName": "BATU LAYAR",
+  "name": "SENGGIGI",
+  "postalCode": "83355"
  },
  {
   "id": 5201061007,
   "districtId": 5201061,
-  "name": "BATU LAYAR BARAT"
+  "districtName": "BATU LAYAR",
+  "name": "BATU LAYAR BARAT",
+  "postalCode": ""
  },
  {
   "id": 5201061008,
   "districtId": 5201061,
-  "name": "BENGKAUNG"
+  "districtName": "BATU LAYAR",
+  "name": "BENGKAUNG",
+  "postalCode": "83355"
  },
  {
   "id": 5201061009,
   "districtId": 5201061,
-  "name": "PUSUK LESTARI"
+  "districtName": "BATU LAYAR",
+  "name": "PUSUK LESTARI",
+  "postalCode": "83355"
  }
 ]

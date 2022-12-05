@@ -2,81 +2,113 @@
  {
   "id": 1702042001,
   "districtId": 1702042,
-  "name": "AIR MELES ATAS"
+  "districtName": "SELUPU REJANG",
+  "name": "AIR MELES ATAS",
+  "postalCode": "39153"
  },
  {
   "id": 1702042002,
   "districtId": 1702042,
-  "name": "CAWANG BARU"
+  "districtName": "SELUPU REJANG",
+  "name": "CAWANG BARU",
+  "postalCode": "39153"
  },
  {
   "id": 1702042003,
   "districtId": 1702042,
-  "name": "CAWANG LAMA"
+  "districtName": "SELUPU REJANG",
+  "name": "CAWANG LAMA",
+  "postalCode": "39153"
  },
  {
   "id": 1702042004,
   "districtId": 1702042,
-  "name": "KAYU MANIS"
+  "districtName": "SELUPU REJANG",
+  "name": "KAYU MANIS",
+  "postalCode": "39153"
  },
  {
   "id": 1702042005,
   "districtId": 1702042,
-  "name": "SIMPANG NANGKA"
+  "districtName": "SELUPU REJANG",
+  "name": "SIMPANG NANGKA",
+  "postalCode": "39153"
  },
  {
   "id": 1702042006,
   "districtId": 1702042,
-  "name": "KAMPUNG BARU"
+  "districtName": "SELUPU REJANG",
+  "name": "KAMPUNG BARU",
+  "postalCode": "24652"
  },
  {
   "id": 1702042007,
   "districtId": 1702042,
-  "name": "SUBAN AYAM"
+  "districtName": "SELUPU REJANG",
+  "name": "SUBAN AYAM",
+  "postalCode": "39153"
  },
  {
   "id": 1702042008,
   "districtId": 1702042,
-  "name": "AIR PUTIH KALI BANDUNG"
+  "districtName": "SELUPU REJANG",
+  "name": "AIR PUTIH KALI BANDUNG",
+  "postalCode": "39153"
  },
  {
   "id": 1702042009,
   "districtId": 1702042,
-  "name": "AIR DUKU"
+  "districtName": "SELUPU REJANG",
+  "name": "AIR DUKU",
+  "postalCode": "39153"
  },
  {
   "id": 1702042010,
   "districtId": 1702042,
-  "name": "SAMBIREJO"
+  "districtName": "SELUPU REJANG",
+  "name": "SAMBIREJO",
+  "postalCode": "39153"
  },
  {
   "id": 1702042011,
   "districtId": 1702042,
-  "name": "SUMBER BENING"
+  "districtName": "SELUPU REJANG",
+  "name": "SUMBER BENING",
+  "postalCode": "39153"
  },
  {
   "id": 1702042012,
   "districtId": 1702042,
-  "name": "SUMBER URIP"
+  "districtName": "SELUPU REJANG",
+  "name": "SUMBER URIP",
+  "postalCode": "39153"
  },
  {
   "id": 1702042013,
   "districtId": 1702042,
-  "name": "KARANG JAYA"
+  "districtName": "SELUPU REJANG",
+  "name": "KARANG JAYA",
+  "postalCode": "32383"
  },
  {
   "id": 1702042014,
   "districtId": 1702042,
-  "name": "KALI PADANG"
+  "districtName": "SELUPU REJANG",
+  "name": "KALI PADANG",
+  "postalCode": "39153"
  },
  {
   "id": 1702042015,
   "districtId": 1702042,
-  "name": "TALANG LAHAT"
+  "districtName": "SELUPU REJANG",
+  "name": "TALANG LAHAT",
+  "postalCode": "39153"
  },
  {
   "id": 1702042016,
   "districtId": 1702042,
-  "name": "MOJOREJO"
+  "districtName": "SELUPU REJANG",
+  "name": "MOJOREJO",
+  "postalCode": "39153"
  }
 ]

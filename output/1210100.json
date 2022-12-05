@@ -2,71 +2,99 @@
  {
   "id": 1210100001,
   "districtId": 1210100,
-  "name": "SUMBUL TENGAH"
+  "districtName": "TIGA LINGGA",
+  "name": "SUMBUL TENGAH",
+  "postalCode": "22252"
  },
  {
   "id": 1210100002,
   "districtId": 1210100,
-  "name": "UJUNG TERAN"
+  "districtName": "TIGA LINGGA",
+  "name": "UJUNG TERAN",
+  "postalCode": "22153"
  },
  {
   "id": 1210100003,
   "districtId": 1210100,
-  "name": "JUMA GERAT"
+  "districtName": "TIGA LINGGA",
+  "name": "JUMA GERAT",
+  "postalCode": "22252"
  },
  {
   "id": 1210100004,
   "districtId": 1210100,
-  "name": "SARINTONU"
+  "districtName": "TIGA LINGGA",
+  "name": "SARINTONU",
+  "postalCode": "22252"
  },
  {
   "id": 1210100005,
   "districtId": 1210100,
-  "name": "PALDING"
+  "districtName": "TIGA LINGGA",
+  "name": "PALDING",
+  "postalCode": ""
  },
  {
   "id": 1210100006,
   "districtId": 1210100,
-  "name": "BERTUNGEN JULU"
+  "districtName": "TIGA LINGGA",
+  "name": "BERTUNGEN JULU",
+  "postalCode": "22252"
  },
  {
   "id": 1210100007,
   "districtId": 1210100,
-  "name": "SUKANDEBI"
+  "districtName": "TIGA LINGGA",
+  "name": "SUKANDEBI",
+  "postalCode": "22252"
  },
  {
   "id": 1210100008,
   "districtId": 1210100,
-  "name": "LAU MOLGAP"
+  "districtName": "TIGA LINGGA",
+  "name": "LAU MOLGAP",
+  "postalCode": "22252"
  },
  {
   "id": 1210100009,
   "districtId": 1210100,
-  "name": "LAU PAKPAK"
+  "districtName": "TIGA LINGGA",
+  "name": "LAU PAKPAK",
+  "postalCode": "22252"
  },
  {
   "id": 1210100011,
   "districtId": 1210100,
-  "name": "LAU MIL"
+  "districtName": "TIGA LINGGA",
+  "name": "LAU MIL",
+  "postalCode": "22252"
  },
  {
   "id": 1210100012,
   "districtId": 1210100,
-  "name": "LAU BAGOT"
+  "districtName": "TIGA LINGGA",
+  "name": "LAU BAGOT",
+  "postalCode": "22252"
  },
  {
   "id": 1210100013,
   "districtId": 1210100,
-  "name": "TIGALINGGA"
+  "districtName": "TIGA LINGGA",
+  "name": "TIGALINGGA",
+  "postalCode": ""
  },
  {
   "id": 1210100014,
   "districtId": 1210100,
-  "name": "LAU SIREME"
+  "districtName": "TIGA LINGGA",
+  "name": "LAU SIREME",
+  "postalCode": "22252"
  },
  {
   "id": 1210100019,
   "districtId": 1210100,
-  "name": "PALDING JAYA"
+  "districtName": "TIGA LINGGA",
+  "name": "PALDING JAYA",
+  "postalCode": ""
  }
 ]

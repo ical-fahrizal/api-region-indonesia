@@ -2,46 +2,64 @@
  {
   "id": 1608091001,
   "districtId": 1608091,
-  "name": "PULAU KEMILING"
+  "districtName": "KISAM ILIR",
+  "name": "PULAU KEMILING",
+  "postalCode": "32272"
  },
  {
   "id": 1608091002,
   "districtId": 1608091,
-  "name": "SIRING ALAM"
+  "districtName": "KISAM ILIR",
+  "name": "SIRING ALAM",
+  "postalCode": "30661"
  },
  {
   "id": 1608091003,
   "districtId": 1608091,
-  "name": "SIMPANG CAMPANG"
+  "districtName": "KISAM ILIR",
+  "name": "SIMPANG CAMPANG",
+  "postalCode": "32272"
  },
  {
   "id": 1608091004,
   "districtId": 1608091,
-  "name": "PANGANDONAN"
+  "districtName": "KISAM ILIR",
+  "name": "PANGANDONAN",
+  "postalCode": "32272"
  },
  {
   "id": 1608091005,
   "districtId": 1608091,
-  "name": "KEBAN AGUNG"
+  "districtName": "KISAM ILIR",
+  "name": "KEBAN AGUNG",
+  "postalCode": "31452"
  },
  {
   "id": 1608091006,
   "districtId": 1608091,
-  "name": "PIUS"
+  "districtName": "KISAM ILIR",
+  "name": "PIUS",
+  "postalCode": "32272"
  },
  {
   "id": 1608091007,
   "districtId": 1608091,
-  "name": "MUARA SINDANG"
+  "districtName": "KISAM ILIR",
+  "name": "MUARA SINDANG",
+  "postalCode": "32272"
  },
  {
   "id": 1608091008,
   "districtId": 1608091,
-  "name": "TANJUNG JATI"
+  "districtName": "KISAM ILIR",
+  "name": "TANJUNG JATI",
+  "postalCode": "20761"
  },
  {
   "id": 1608091009,
   "districtId": 1608091,
-  "name": "CAMPANG JAYA"
+  "districtName": "KISAM ILIR",
+  "name": "CAMPANG JAYA",
+  "postalCode": "32272"
  }
 ]

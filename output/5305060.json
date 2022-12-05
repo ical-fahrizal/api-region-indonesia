@@ -2,51 +2,71 @@
  {
   "id": 5305060004,
   "districtId": 5305060,
-  "name": "SAPAEN"
+  "districtName": "BIBOKI UTARA",
+  "name": "SAPAEN",
+  "postalCode": "85682"
  },
  {
   "id": 5305060005,
   "districtId": 5305060,
-  "name": "TAUNBAEN"
+  "districtName": "BIBOKI UTARA",
+  "name": "TAUNBAEN",
+  "postalCode": "85682"
  },
  {
   "id": 5305060006,
   "districtId": 5305060,
-  "name": "TUALENE"
+  "districtName": "BIBOKI UTARA",
+  "name": "TUALENE",
+  "postalCode": ""
  },
  {
   "id": 5305060007,
   "districtId": 5305060,
-  "name": "BILOE"
+  "districtName": "BIBOKI UTARA",
+  "name": "BILOE",
+  "postalCode": "85682"
  },
  {
   "id": 5305060008,
   "districtId": 5305060,
-  "name": "HAUTEAS"
+  "districtName": "BIBOKI UTARA",
+  "name": "HAUTEAS",
+  "postalCode": "85682"
  },
  {
   "id": 5305060009,
   "districtId": 5305060,
-  "name": "BORONUBAEN"
+  "districtName": "BIBOKI UTARA",
+  "name": "BORONUBAEN",
+  "postalCode": "85682"
  },
  {
   "id": 5305060010,
   "districtId": 5305060,
-  "name": "LOKOMEA"
+  "districtName": "BIBOKI UTARA",
+  "name": "LOKOMEA",
+  "postalCode": "85682"
  },
  {
   "id": 5305060011,
   "districtId": 5305060,
-  "name": "TAUNBAEN TIMUR"
+  "districtName": "BIBOKI UTARA",
+  "name": "TAUNBAEN TIMUR",
+  "postalCode": ""
  },
  {
   "id": 5305060012,
   "districtId": 5305060,
-  "name": "HAUTEAS BARAT"
+  "districtName": "BIBOKI UTARA",
+  "name": "HAUTEAS BARAT",
+  "postalCode": ""
  },
  {
   "id": 5305060013,
   "districtId": 5305060,
-  "name": "BORONUBAEN TIMUR"
+  "districtName": "BIBOKI UTARA",
+  "name": "BORONUBAEN TIMUR",
+  "postalCode": ""
  }
 ]

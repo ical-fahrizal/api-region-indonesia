@@ -2,41 +2,57 @@
  {
   "id": 9430013001,
   "districtId": 9430013,
-  "name": "JUTA"
+  "districtName": "GELOK BEAM",
+  "name": "JUTA",
+  "postalCode": "99555"
  },
  {
   "id": 9430013002,
   "districtId": 9430013,
-  "name": "GONDURA"
+  "districtName": "GELOK BEAM",
+  "name": "GONDURA",
+  "postalCode": "99555"
  },
  {
   "id": 9430013003,
   "districtId": 9430013,
-  "name": "TIGIMA"
+  "districtName": "GELOK BEAM",
+  "name": "TIGIMA",
+  "postalCode": ""
  },
  {
   "id": 9430013004,
   "districtId": 9430013,
-  "name": "PIRAMBOR"
+  "districtName": "GELOK BEAM",
+  "name": "PIRAMBOR",
+  "postalCode": "99555"
  },
  {
   "id": 9430013005,
   "districtId": 9430013,
-  "name": "WANGGU"
+  "districtName": "GELOK BEAM",
+  "name": "WANGGU",
+  "postalCode": ""
  },
  {
   "id": 9430013006,
   "districtId": 9430013,
-  "name": "MURTANI"
+  "districtName": "GELOK BEAM",
+  "name": "MURTANI",
+  "postalCode": ""
  },
  {
   "id": 9430013007,
   "districtId": 9430013,
-  "name": "BEAM"
+  "districtName": "GELOK BEAM",
+  "name": "BEAM",
+  "postalCode": "99554"
  },
  {
   "id": 9430013009,
   "districtId": 9430013,
-  "name": "GELOK"
+  "districtName": "GELOK BEAM",
+  "name": "GELOK",
+  "postalCode": "99569"
  }
 ]

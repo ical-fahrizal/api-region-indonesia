@@ -2,61 +2,85 @@
  {
   "id": 3523050001,
   "districtId": 3523050,
-  "name": "MANJUNG"
+  "districtName": "MONTONG",
+  "name": "MANJUNG",
+  "postalCode": "57466"
  },
  {
   "id": 3523050002,
   "districtId": 3523050,
-  "name": "TANGGULANGIN"
+  "districtName": "MONTONG",
+  "name": "TANGGULANGIN",
+  "postalCode": "57691"
  },
  {
   "id": 3523050004,
   "districtId": 3523050,
-  "name": "BRINGIN"
+  "districtName": "MONTONG",
+  "name": "BRINGIN",
+  "postalCode": "45167"
  },
  {
   "id": 3523050005,
   "districtId": 3523050,
-  "name": "MAINDU"
+  "districtName": "MONTONG",
+  "name": "MAINDU",
+  "postalCode": "62272"
  },
  {
   "id": 3523050006,
   "districtId": 3523050,
-  "name": "JETAK"
+  "districtName": "MONTONG",
+  "name": "JETAK",
+  "postalCode": "50774"
  },
  {
   "id": 3523050007,
   "districtId": 3523050,
-  "name": "TALUN"
+  "districtName": "MONTONG",
+  "name": "TALUN",
+  "postalCode": "40384"
  },
  {
   "id": 3523050008,
   "districtId": 3523050,
-  "name": "PUCANGAN"
+  "districtName": "MONTONG",
+  "name": "PUCANGAN",
+  "postalCode": "54392"
  },
  {
   "id": 3523050009,
   "districtId": 3523050,
-  "name": "PAKEL"
+  "districtName": "MONTONG",
+  "name": "PAKEL",
+  "postalCode": "57384"
  },
  {
   "id": 3523050010,
   "districtId": 3523050,
-  "name": "MONTONGSEKAR"
+  "districtName": "MONTONG",
+  "name": "MONTONGSEKAR",
+  "postalCode": "62357"
  },
  {
   "id": 3523050011,
   "districtId": 3523050,
-  "name": "TALANGKEMBAR"
+  "districtName": "MONTONG",
+  "name": "TALANGKEMBAR",
+  "postalCode": "62357"
  },
  {
   "id": 3523050012,
   "districtId": 3523050,
-  "name": "NGULUHAN"
+  "districtName": "MONTONG",
+  "name": "NGULUHAN",
+  "postalCode": "62357"
  },
  {
   "id": 3523050013,
   "districtId": 3523050,
-  "name": "GUWOTERUS"
+  "districtName": "MONTONG",
+  "name": "GUWOTERUS",
+  "postalCode": "62357"
  }
 ]

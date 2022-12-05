@@ -2,41 +2,57 @@
  {
   "id": 3213070001,
   "districtId": 3213070,
-  "name": "PARUNG"
+  "districtName": "SUBANG",
+  "name": "PARUNG",
+  "postalCode": "46185"
  },
  {
   "id": 3213070002,
   "districtId": 3213070,
-  "name": "PASIRKAREUMBI"
+  "districtName": "SUBANG",
+  "name": "PASIRKAREUMBI",
+  "postalCode": "41211"
  },
  {
   "id": 3213070003,
   "districtId": 3213070,
-  "name": "SOKLAT"
+  "districtName": "SUBANG",
+  "name": "SOKLAT",
+  "postalCode": "41215"
  },
  {
   "id": 3213070004,
   "districtId": 3213070,
-  "name": "KARANGANYAR"
+  "districtName": "SUBANG",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  },
  {
   "id": 3213070005,
   "districtId": 3213070,
-  "name": "CIGADUNG"
+  "districtName": "SUBANG",
+  "name": "CIGADUNG",
+  "postalCode": "40191"
  },
  {
   "id": 3213070006,
   "districtId": 3213070,
-  "name": "DANGDEUR"
+  "districtName": "SUBANG",
+  "name": "DANGDEUR",
+  "postalCode": "44191"
  },
  {
   "id": 3213070007,
   "districtId": 3213070,
-  "name": "SUKAMELANG"
+  "districtName": "SUBANG",
+  "name": "SUKAMELANG",
+  "postalCode": "41283"
  },
  {
   "id": 3213070012,
   "districtId": 3213070,
-  "name": "WANAREJA"
+  "districtName": "SUBANG",
+  "name": "WANAREJA",
+  "postalCode": "37553"
  }
 ]

@@ -2,81 +2,113 @@
  {
   "id": 6401040001,
   "districtId": 6401040,
-  "name": "JANJU"
+  "districtName": "TANAH GROGOT",
+  "name": "JANJU",
+  "postalCode": "76251"
  },
  {
   "id": 6401040002,
   "districtId": 6401040,
-  "name": "SEMPULANG"
+  "districtName": "TANAH GROGOT",
+  "name": "SEMPULANG",
+  "postalCode": "76251"
  },
  {
   "id": 6401040003,
   "districtId": 6401040,
-  "name": "TEPIAN BATANG"
+  "districtName": "TANAH GROGOT",
+  "name": "TEPIAN BATANG",
+  "postalCode": "76251"
  },
  {
   "id": 6401040004,
   "districtId": 6401040,
-  "name": "TANAH GROGOT"
+  "districtName": "TANAH GROGOT",
+  "name": "TANAH GROGOT",
+  "postalCode": "76251"
  },
  {
   "id": 6401040005,
   "districtId": 6401040,
-  "name": "TANAH PERIUK"
+  "districtName": "TANAH GROGOT",
+  "name": "TANAH PERIUK",
+  "postalCode": "37263"
  },
  {
   "id": 6401040006,
   "districtId": 6401040,
-  "name": "PEPARA"
+  "districtName": "TANAH GROGOT",
+  "name": "PEPARA",
+  "postalCode": "76251"
  },
  {
   "id": 6401040007,
   "districtId": 6401040,
-  "name": "SUNGAI TUAK"
+  "districtName": "TANAH GROGOT",
+  "name": "SUNGAI TUAK",
+  "postalCode": ""
  },
  {
   "id": 6401040008,
   "districtId": 6401040,
-  "name": "RANTAU PANJANG"
+  "districtName": "TANAH GROGOT",
+  "name": "RANTAU PANJANG",
+  "postalCode": "24476"
  },
  {
   "id": 6401040009,
   "districtId": 6401040,
-  "name": "JONE"
+  "districtName": "TANAH GROGOT",
+  "name": "JONE",
+  "postalCode": "76251"
  },
  {
   "id": 6401040010,
   "districtId": 6401040,
-  "name": "PADANG PENGRAPAT"
+  "districtName": "TANAH GROGOT",
+  "name": "PADANG PENGRAPAT",
+  "postalCode": "76251"
  },
  {
   "id": 6401040011,
   "districtId": 6401040,
-  "name": "MUARA PASIR"
+  "districtName": "TANAH GROGOT",
+  "name": "MUARA PASIR",
+  "postalCode": "76251"
  },
  {
   "id": 6401040012,
   "districtId": 6401040,
-  "name": "PREPAT"
+  "districtName": "TANAH GROGOT",
+  "name": "PREPAT",
+  "postalCode": ""
  },
  {
   "id": 6401040013,
   "districtId": 6401040,
-  "name": "PULAU RANTAU"
+  "districtName": "TANAH GROGOT",
+  "name": "PULAU RANTAU",
+  "postalCode": "76251"
  },
  {
   "id": 6401040014,
   "districtId": 6401040,
-  "name": "SUNGAI LANGIR"
+  "districtName": "TANAH GROGOT",
+  "name": "SUNGAI LANGIR",
+  "postalCode": "76251"
  },
  {
   "id": 6401040015,
   "districtId": 6401040,
-  "name": "TAPIS"
+  "districtName": "TANAH GROGOT",
+  "name": "TAPIS",
+  "postalCode": "76251"
  },
  {
   "id": 6401040016,
   "districtId": 6401040,
-  "name": "SENAKEN"
+  "districtName": "TANAH GROGOT",
+  "name": "SENAKEN",
+  "postalCode": "76251"
  }
 ]

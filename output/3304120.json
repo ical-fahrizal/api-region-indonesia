@@ -2,86 +2,120 @@
  {
   "id": 3304120001,
   "districtId": 3304120,
-  "name": "SAMBONG"
+  "districtName": "PUNGGELAN",
+  "name": "SAMBONG",
+  "postalCode": "51212"
  },
  {
   "id": 3304120002,
   "districtId": 3304120,
-  "name": "TRIBUANA"
+  "districtName": "PUNGGELAN",
+  "name": "TRIBUANA",
+  "postalCode": "53462"
  },
  {
   "id": 3304120003,
   "districtId": 3304120,
-  "name": "SAWANGAN"
+  "districtName": "PUNGGELAN",
+  "name": "SAWANGAN",
+  "postalCode": "41272"
  },
  {
   "id": 3304120004,
   "districtId": 3304120,
-  "name": "SIDARATA"
+  "districtName": "PUNGGELAN",
+  "name": "SIDARATA",
+  "postalCode": "53462"
  },
  {
   "id": 3304120005,
   "districtId": 3304120,
-  "name": "BADAKARYA"
+  "districtName": "PUNGGELAN",
+  "name": "BADAKARYA",
+  "postalCode": "53462"
  },
  {
   "id": 3304120006,
   "districtId": 3304120,
-  "name": "BONDOLHARJO"
+  "districtName": "PUNGGELAN",
+  "name": "BONDOLHARJO",
+  "postalCode": "53462"
  },
  {
   "id": 3304120007,
   "districtId": 3304120,
-  "name": "PUNGGELAN"
+  "districtName": "PUNGGELAN",
+  "name": "PUNGGELAN",
+  "postalCode": "53462"
  },
  {
   "id": 3304120008,
   "districtId": 3304120,
-  "name": "KARANGSARI"
+  "districtName": "PUNGGELAN",
+  "name": "KARANGSARI",
+  "postalCode": "35376"
  },
  {
   "id": 3304120009,
   "districtId": 3304120,
-  "name": "KECEPIT"
+  "districtName": "PUNGGELAN",
+  "name": "KECEPIT",
+  "postalCode": "53462"
  },
  {
   "id": 3304120010,
   "districtId": 3304120,
-  "name": "DANAKERTA"
+  "districtName": "PUNGGELAN",
+  "name": "DANAKERTA",
+  "postalCode": "53462"
  },
  {
   "id": 3304120011,
   "districtId": 3304120,
-  "name": "KLAPA"
+  "districtName": "PUNGGELAN",
+  "name": "KLAPA",
+  "postalCode": "53462"
  },
  {
   "id": 3304120012,
   "districtId": 3304120,
-  "name": "JEMBANGAN"
+  "districtName": "PUNGGELAN",
+  "name": "JEMBANGAN",
+  "postalCode": "59186"
  },
  {
   "id": 3304120013,
   "districtId": 3304120,
-  "name": "PURWASANA"
+  "districtName": "PUNGGELAN",
+  "name": "PURWASANA",
+  "postalCode": "53462"
  },
  {
   "id": 3304120014,
   "districtId": 3304120,
-  "name": "PETUGURAN"
+  "districtName": "PUNGGELAN",
+  "name": "PETUGURAN",
+  "postalCode": "54263"
  },
  {
   "id": 3304120015,
   "districtId": 3304120,
-  "name": "TANJUNGTIRTA"
+  "districtName": "PUNGGELAN",
+  "name": "TANJUNGTIRTA",
+  "postalCode": "53462"
  },
  {
   "id": 3304120016,
   "districtId": 3304120,
-  "name": "MLAYA"
+  "districtName": "PUNGGELAN",
+  "name": "MLAYA",
+  "postalCode": "53462"
  },
  {
   "id": 3304120017,
   "districtId": 3304120,
-  "name": "TLAGA"
+  "districtName": "PUNGGELAN",
+  "name": "TLAGA",
+  "postalCode": "53165"
  }
 ]

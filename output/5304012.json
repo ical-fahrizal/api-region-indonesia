@@ -2,31 +2,43 @@
  {
   "id": 5304012001,
   "districtId": 5304012,
-  "name": "TOBU"
+  "districtName": "TOBU",
+  "name": "TOBU",
+  "postalCode": "85552"
  },
  {
   "id": 5304012004,
   "districtId": 5304012,
-  "name": "BONLEU"
+  "districtName": "TOBU",
+  "name": "BONLEU",
+  "postalCode": "85561"
  },
  {
   "id": 5304012005,
   "districtId": 5304012,
-  "name": "HUETALAN"
+  "districtName": "TOBU",
+  "name": "HUETALAN",
+  "postalCode": "85552"
  },
  {
   "id": 5304012006,
   "districtId": 5304012,
-  "name": "PUBASU"
+  "districtName": "TOBU",
+  "name": "PUBASU",
+  "postalCode": "85552"
  },
  {
   "id": 5304012007,
   "districtId": 5304012,
-  "name": "BESTOBE"
+  "districtName": "TOBU",
+  "name": "BESTOBE",
+  "postalCode": "85552"
  },
  {
   "id": 5304012008,
   "districtId": 5304012,
-  "name": "SAUBALAN"
+  "districtName": "TOBU",
+  "name": "SAUBALAN",
+  "postalCode": "85552"
  }
 ]

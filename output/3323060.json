@@ -2,56 +2,78 @@
  {
   "id": 3323060002,
   "districtId": 3323060,
-  "name": "SOROPADAN"
+  "districtName": "PRINGSURAT",
+  "name": "SOROPADAN",
+  "postalCode": "56272"
  },
  {
   "id": 3323060004,
   "districtId": 3323060,
-  "name": "PRINGSURAT"
+  "districtName": "PRINGSURAT",
+  "name": "PRINGSURAT",
+  "postalCode": "51161"
  },
  {
   "id": 3323060005,
   "districtId": 3323060,
-  "name": "KARANGWUNI"
+  "districtName": "PRINGSURAT",
+  "name": "KARANGWUNI",
+  "postalCode": "45189"
  },
  {
   "id": 3323060006,
   "districtId": 3323060,
-  "name": "GOWAK"
+  "districtName": "PRINGSURAT",
+  "name": "GOWAK",
+  "postalCode": "59271"
  },
  {
   "id": 3323060007,
   "districtId": 3323060,
-  "name": "REJOSARI"
+  "districtName": "PRINGSURAT",
+  "name": "REJOSARI",
+  "postalCode": "29353"
  },
  {
   "id": 3323060008,
   "districtId": 3323060,
-  "name": "NGIPIK"
+  "districtName": "PRINGSURAT",
+  "name": "NGIPIK",
+  "postalCode": "56272"
  },
  {
   "id": 3323060009,
   "districtId": 3323060,
-  "name": "PINGIT"
+  "districtName": "PRINGSURAT",
+  "name": "PINGIT",
+  "postalCode": "56272"
  },
  {
   "id": 3323060011,
   "districtId": 3323060,
-  "name": "PAGERGUNUNG"
+  "districtName": "PRINGSURAT",
+  "name": "PAGERGUNUNG",
+  "postalCode": "46396"
  },
  {
   "id": 3323060012,
   "districtId": 3323060,
-  "name": "NGLOROG"
+  "districtName": "PRINGSURAT",
+  "name": "NGLOROG",
+  "postalCode": "56272"
  },
  {
   "id": 3323060013,
   "districtId": 3323060,
-  "name": "SOBOREJO"
+  "districtName": "PRINGSURAT",
+  "name": "SOBOREJO",
+  "postalCode": "56272"
  },
  {
   "id": 3323060014,
   "districtId": 3323060,
-  "name": "WONOKERSO"
+  "districtName": "PRINGSURAT",
+  "name": "WONOKERSO",
+  "postalCode": "51261"
  }
 ]

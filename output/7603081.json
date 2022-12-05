@@ -2,101 +2,141 @@
  {
   "id": 7603081001,
   "districtId": 7603081,
-  "name": "BAMBANG"
+  "districtName": "BAMBANG",
+  "name": "BAMBANG",
+  "postalCode": "34877"
  },
  {
   "id": 7603081002,
   "districtId": 7603081,
-  "name": "BAMBANG TIMUR"
+  "districtName": "BAMBANG",
+  "name": "BAMBANG TIMUR",
+  "postalCode": "91371"
  },
  {
   "id": 7603081003,
   "districtId": 7603081,
-  "name": "RANTELEMO"
+  "districtName": "BAMBANG",
+  "name": "RANTELEMO",
+  "postalCode": "91371"
  },
  {
   "id": 7603081004,
   "districtId": 7603081,
-  "name": "ULUMAMBI"
+  "districtName": "BAMBANG",
+  "name": "ULUMAMBI",
+  "postalCode": "91371"
  },
  {
   "id": 7603081005,
   "districtId": 7603081,
-  "name": "SALUDENGEN"
+  "districtName": "BAMBANG",
+  "name": "SALUDENGEN",
+  "postalCode": "91562"
  },
  {
   "id": 7603081006,
   "districtId": 7603081,
-  "name": "MINANGA"
+  "districtName": "BAMBANG",
+  "name": "MINANGA",
+  "postalCode": "95763"
  },
  {
   "id": 7603081007,
   "districtId": 7603081,
-  "name": "SIKAMASE"
+  "districtName": "BAMBANG",
+  "name": "SIKAMASE",
+  "postalCode": "91371"
  },
  {
   "id": 7603081008,
   "districtId": 7603081,
-  "name": "LEMBANGMOKALLANG"
+  "districtName": "BAMBANG",
+  "name": "LEMBANGMOKALLANG",
+  "postalCode": ""
  },
  {
   "id": 7603081009,
   "districtId": 7603081,
-  "name": "MASOSO"
+  "districtName": "BAMBANG",
+  "name": "MASOSO",
+  "postalCode": "91371"
  },
  {
   "id": 7603081010,
   "districtId": 7603081,
-  "name": "SALUASSING"
+  "districtName": "BAMBANG",
+  "name": "SALUASSING",
+  "postalCode": "91371"
  },
  {
   "id": 7603081011,
   "districtId": 7603081,
-  "name": "SALUBULO"
+  "districtName": "BAMBANG",
+  "name": "SALUBULO",
+  "postalCode": "91371"
  },
  {
   "id": 7603081012,
   "districtId": 7603081,
-  "name": "SALUKADI"
+  "districtName": "BAMBANG",
+  "name": "SALUKADI",
+  "postalCode": "91371"
  },
  {
   "id": 7603081013,
   "districtId": 7603081,
-  "name": "SALUKEPOPO"
+  "districtName": "BAMBANG",
+  "name": "SALUKEPOPO",
+  "postalCode": ""
  },
  {
   "id": 7603081014,
   "districtId": 7603081,
-  "name": "ULUMAMBI BARAT"
+  "districtName": "BAMBANG",
+  "name": "ULUMAMBI BARAT",
+  "postalCode": "91371"
  },
  {
   "id": 7603081015,
   "districtId": 7603081,
-  "name": "LIMBADEBATA"
+  "districtName": "BAMBANG",
+  "name": "LIMBADEBATA",
+  "postalCode": "91371"
  },
  {
   "id": 7603081016,
   "districtId": 7603081,
-  "name": "TANETE TOMBA"
+  "districtName": "BAMBANG",
+  "name": "TANETE TOMBA",
+  "postalCode": "91371"
  },
  {
   "id": 7603081017,
   "districtId": 7603081,
-  "name": "SALUTABANG"
+  "districtName": "BAMBANG",
+  "name": "SALUTABANG",
+  "postalCode": ""
  },
  {
   "id": 7603081018,
   "districtId": 7603081,
-  "name": "SALURURU"
+  "districtName": "BAMBANG",
+  "name": "SALURURU",
+  "postalCode": ""
  },
  {
   "id": 7603081019,
   "districtId": 7603081,
-  "name": "RANTETARIMA"
+  "districtName": "BAMBANG",
+  "name": "RANTETARIMA",
+  "postalCode": ""
  },
  {
   "id": 7603081020,
   "districtId": 7603081,
-  "name": "BALATANA"
+  "districtName": "BAMBANG",
+  "name": "BALATANA",
+  "postalCode": ""
  }
 ]

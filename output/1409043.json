@@ -2,51 +2,71 @@
  {
   "id": 1409043001,
   "districtId": 1409043,
-  "name": "ROKAN BARU"
+  "districtName": "PEKAITAN",
+  "name": "ROKAN BARU",
+  "postalCode": "28912"
  },
  {
   "id": 1409043002,
   "districtId": 1409043,
-  "name": "TELUK BANO II"
+  "districtName": "PEKAITAN",
+  "name": "TELUK BANO II",
+  "postalCode": ""
  },
  {
   "id": 1409043003,
   "districtId": 1409043,
-  "name": "SUAK TEMENGGUNG"
+  "districtName": "PEKAITAN",
+  "name": "SUAK TEMENGGUNG",
+  "postalCode": "28912"
  },
  {
   "id": 1409043006,
   "districtId": 1409043,
-  "name": "PEDAMARAN"
+  "districtName": "PEKAITAN",
+  "name": "PEDAMARAN",
+  "postalCode": "28912"
  },
  {
   "id": 1409043007,
   "districtId": 1409043,
-  "name": "SUAK AIR HITAM"
+  "districtName": "PEKAITAN",
+  "name": "SUAK AIR HITAM",
+  "postalCode": "28912"
  },
  {
   "id": 1409043011,
   "districtId": 1409043,
-  "name": "SUNGAI BESAR"
+  "districtName": "PEKAITAN",
+  "name": "SUNGAI BESAR",
+  "postalCode": "29874"
  },
  {
   "id": 1409043012,
   "districtId": 1409043,
-  "name": "PEKAITAN"
+  "districtName": "PEKAITAN",
+  "name": "PEKAITAN",
+  "postalCode": "28912"
  },
  {
   "id": 1409043025,
   "districtId": 1409043,
-  "name": "KUBU I"
+  "districtName": "PEKAITAN",
+  "name": "KUBU I",
+  "postalCode": "28912"
  },
  {
   "id": 1409043026,
   "districtId": 1409043,
-  "name": "KARYA MULYO SARI"
+  "districtName": "PEKAITAN",
+  "name": "KARYA MULYO SARI",
+  "postalCode": ""
  },
  {
   "id": 1409043027,
   "districtId": 1409043,
-  "name": "ROKAN BARU PESISIR"
+  "districtName": "PEKAITAN",
+  "name": "ROKAN BARU PESISIR",
+  "postalCode": "28912"
  }
 ]

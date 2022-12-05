@@ -2,46 +2,64 @@
  {
   "id": 5102012001,
   "districtId": 5102012,
-  "name": "LALANG LINGGAH"
+  "districtName": "SELEMADEG BARAT",
+  "name": "LALANG LINGGAH",
+  "postalCode": "82162"
  },
  {
   "id": 5102012002,
   "districtId": 5102012,
-  "name": "ANTOSARI"
+  "districtName": "SELEMADEG BARAT",
+  "name": "ANTOSARI",
+  "postalCode": "82162"
  },
  {
   "id": 5102012003,
   "districtId": 5102012,
-  "name": "TIYING GADING"
+  "districtName": "SELEMADEG BARAT",
+  "name": "TIYING GADING",
+  "postalCode": "82162"
  },
  {
   "id": 5102012005,
   "districtId": 5102012,
-  "name": "LUMBUNG KAUH"
+  "districtName": "SELEMADEG BARAT",
+  "name": "LUMBUNG KAUH",
+  "postalCode": "82162"
  },
  {
   "id": 5102012007,
   "districtId": 5102012,
-  "name": "MUNDEH KANGIN"
+  "districtName": "SELEMADEG BARAT",
+  "name": "MUNDEH KANGIN",
+  "postalCode": "82162"
  },
  {
   "id": 5102012008,
   "districtId": 5102012,
-  "name": "ANGKAH"
+  "districtName": "SELEMADEG BARAT",
+  "name": "ANGKAH",
+  "postalCode": "82162"
  },
  {
   "id": 5102012009,
   "districtId": 5102012,
-  "name": "MUNDEH KAUH"
+  "districtName": "SELEMADEG BARAT",
+  "name": "MUNDEH KAUH",
+  "postalCode": "82162"
  },
  {
   "id": 5102012010,
   "districtId": 5102012,
-  "name": "SELABIH"
+  "districtName": "SELEMADEG BARAT",
+  "name": "SELABIH",
+  "postalCode": "82162"
  },
  {
   "id": 5102012011,
   "districtId": 5102012,
-  "name": "BENGKEL SARI"
+  "districtName": "SELEMADEG BARAT",
+  "name": "BENGKEL SARI",
+  "postalCode": "82162"
  }
 ]

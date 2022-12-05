@@ -2,81 +2,113 @@
  {
   "id": 3503010002,
   "districtId": 3503010,
-  "name": "BANJAR"
+  "districtName": "PANGGUL",
+  "name": "BANJAR",
+  "postalCode": "21263"
  },
  {
   "id": 3503010003,
   "districtId": 3503010,
-  "name": "NGRAMBINGAN"
+  "districtName": "PANGGUL",
+  "name": "NGRAMBINGAN",
+  "postalCode": "66364"
  },
  {
   "id": 3503010004,
   "districtId": 3503010,
-  "name": "NGRENCAK"
+  "districtName": "PANGGUL",
+  "name": "NGRENCAK",
+  "postalCode": "66364"
  },
  {
   "id": 3503010005,
   "districtId": 3503010,
-  "name": "PANGGUL"
+  "districtName": "PANGGUL",
+  "name": "PANGGUL",
+  "postalCode": "66364"
  },
  {
   "id": 3503010006,
   "districtId": 3503010,
-  "name": "GAYAM"
+  "districtName": "PANGGUL",
+  "name": "GAYAM",
+  "postalCode": "35592"
  },
  {
   "id": 3503010007,
   "districtId": 3503010,
-  "name": "WONOCOYO"
+  "districtName": "PANGGUL",
+  "name": "WONOCOYO",
+  "postalCode": "56266"
  },
  {
   "id": 3503010008,
   "districtId": 3503010,
-  "name": "BESUKI"
+  "districtName": "PANGGUL",
+  "name": "BESUKI",
+  "postalCode": "53177"
  },
  {
   "id": 3503010009,
   "districtId": 3503010,
-  "name": "TERBIS"
+  "districtName": "PANGGUL",
+  "name": "TERBIS",
+  "postalCode": "66364"
  },
  {
   "id": 3503010010,
   "districtId": 3503010,
-  "name": "KARANGTENGAH"
+  "districtName": "PANGGUL",
+  "name": "KARANGTENGAH",
+  "postalCode": "43351"
  },
  {
   "id": 3503010011,
   "districtId": 3503010,
-  "name": "KERTOSONO"
+  "districtName": "PANGGUL",
+  "name": "KERTOSONO",
+  "postalCode": "31665"
  },
  {
   "id": 3503010012,
   "districtId": 3503010,
-  "name": "BODAG"
+  "districtName": "PANGGUL",
+  "name": "BODAG",
+  "postalCode": "63182"
  },
  {
   "id": 3503010013,
   "districtId": 3503010,
-  "name": "BARANG"
+  "districtName": "PANGGUL",
+  "name": "BARANG",
+  "postalCode": "56256"
  },
  {
   "id": 3503010014,
   "districtId": 3503010,
-  "name": "SAWAHAN"
+  "districtName": "PANGGUL",
+  "name": "SAWAHAN",
+  "postalCode": "25121"
  },
  {
   "id": 3503010015,
   "districtId": 3503010,
-  "name": "MANGGIS"
+  "districtName": "PANGGUL",
+  "name": "MANGGIS",
+  "postalCode": "22742"
  },
  {
   "id": 3503010016,
   "districtId": 3503010,
-  "name": "TANGKIL"
+  "districtName": "PANGGUL",
+  "name": "TANGKIL",
+  "postalCode": "37163"
  },
  {
   "id": 3503010017,
   "districtId": 3503010,
-  "name": "DEPOK"
+  "districtName": "PANGGUL",
+  "name": "DEPOK",
+  "postalCode": "44174"
  }
 ]

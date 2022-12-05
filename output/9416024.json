@@ -2,31 +2,43 @@
  {
   "id": 9416024001,
   "districtId": 9416024,
-  "name": "BOMELA"
+  "districtName": "BOMELA",
+  "name": "BOMELA",
+  "postalCode": "99578"
  },
  {
   "id": 9416024002,
   "districtId": 9416024,
-  "name": "YALMABI"
+  "districtName": "BOMELA",
+  "name": "YALMABI",
+  "postalCode": "99578"
  },
  {
   "id": 9416024003,
   "districtId": 9416024,
-  "name": "KITIKNI"
+  "districtName": "BOMELA",
+  "name": "KITIKNI",
+  "postalCode": "99578"
  },
  {
   "id": 9416024004,
   "districtId": 9416024,
-  "name": "PALAMDUA"
+  "districtName": "BOMELA",
+  "name": "PALAMDUA",
+  "postalCode": "99578"
  },
  {
   "id": 9416024005,
   "districtId": 9416024,
-  "name": "SOMBAT"
+  "districtName": "BOMELA",
+  "name": "SOMBAT",
+  "postalCode": "99578"
  },
  {
   "id": 9416024006,
   "districtId": 9416024,
-  "name": "KUBIALAT"
+  "districtName": "BOMELA",
+  "name": "KUBIALAT",
+  "postalCode": "99578"
  }
 ]

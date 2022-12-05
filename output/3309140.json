@@ -2,76 +2,106 @@
  {
   "id": 3309140001,
   "districtId": 3309140,
-  "name": "MANYARAN"
+  "districtName": "KARANGGEDE",
+  "name": "MANYARAN",
+  "postalCode": "57381"
  },
  {
   "id": 3309140003,
   "districtId": 3309140,
-  "name": "KLUMPIT"
+  "districtName": "KARANGGEDE",
+  "name": "KLUMPIT",
+  "postalCode": "59333"
  },
  {
   "id": 3309140004,
   "districtId": 3309140,
-  "name": "PINGGIR"
+  "districtName": "KARANGGEDE",
+  "name": "PINGGIR",
+  "postalCode": "28784"
  },
  {
   "id": 3309140005,
   "districtId": 3309140,
-  "name": "BANTENGAN"
+  "districtName": "KARANGGEDE",
+  "name": "BANTENGAN",
+  "postalCode": "57381"
  },
  {
   "id": 3309140006,
   "districtId": 3309140,
-  "name": "TEGALSARI"
+  "districtName": "KARANGGEDE",
+  "name": "TEGALSARI",
+  "postalCode": "35372"
  },
  {
   "id": 3309140007,
   "districtId": 3309140,
-  "name": "SRANTEN"
+  "districtName": "KARANGGEDE",
+  "name": "SRANTEN",
+  "postalCode": "57381"
  },
  {
   "id": 3309140008,
   "districtId": 3309140,
-  "name": "GROGOLAN"
+  "districtName": "KARANGGEDE",
+  "name": "GROGOLAN",
+  "postalCode": "59158"
  },
  {
   "id": 3309140009,
   "districtId": 3309140,
-  "name": "MOJOSARI"
+  "districtName": "KARANGGEDE",
+  "name": "MOJOSARI",
+  "postalCode": "56265"
  },
  {
   "id": 3309140010,
   "districtId": 3309140,
-  "name": "PENGKOL"
+  "districtName": "KARANGGEDE",
+  "name": "PENGKOL",
+  "postalCode": "57692"
  },
  {
   "id": 3309140011,
   "districtId": 3309140,
-  "name": "KARANGKEPOH"
+  "districtName": "KARANGGEDE",
+  "name": "KARANGKEPOH",
+  "postalCode": "57381"
  },
  {
   "id": 3309140012,
   "districtId": 3309140,
-  "name": "SENDANG"
+  "districtName": "KARANGGEDE",
+  "name": "SENDANG",
+  "postalCode": "45283"
  },
  {
   "id": 3309140013,
   "districtId": 3309140,
-  "name": "KEBONAN"
+  "districtName": "KARANGGEDE",
+  "name": "KEBONAN",
+  "postalCode": "57381"
  },
  {
   "id": 3309140014,
   "districtId": 3309140,
-  "name": "KLARI"
+  "districtName": "KARANGGEDE",
+  "name": "KLARI",
+  "postalCode": "41371"
  },
  {
   "id": 3309140015,
   "districtId": 3309140,
-  "name": "BANGKOK"
+  "districtName": "KARANGGEDE",
+  "name": "BANGKOK",
+  "postalCode": "57381"
  },
  {
   "id": 3309140016,
   "districtId": 3309140,
-  "name": "DOLOGAN"
+  "districtName": "KARANGGEDE",
+  "name": "DOLOGAN",
+  "postalCode": "58257"
  }
 ]

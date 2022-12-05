@@ -2,51 +2,71 @@
  {
   "id": 1118070001,
   "districtId": 1118070,
-  "name": "LHOK PU'UK"
+  "districtName": "PANTERAJA",
+  "name": "LHOK PU'UK",
+  "postalCode": ""
  },
  {
   "id": 1118070002,
   "districtId": 1118070,
-  "name": "TUNONG"
+  "districtName": "PANTERAJA",
+  "name": "TUNONG",
+  "postalCode": "24375"
  },
  {
   "id": 1118070003,
   "districtId": 1118070,
-  "name": "TEUNGOH"
+  "districtName": "PANTERAJA",
+  "name": "TEUNGOH",
+  "postalCode": "24375"
  },
  {
   "id": 1118070004,
   "districtId": 1118070,
-  "name": "PEURADE"
+  "districtName": "PANTERAJA",
+  "name": "PEURADE",
+  "postalCode": ""
  },
  {
   "id": 1118070005,
   "districtId": 1118070,
-  "name": "REUDEUP"
+  "districtName": "PANTERAJA",
+  "name": "REUDEUP",
+  "postalCode": "23362"
  },
  {
   "id": 1118070006,
   "districtId": 1118070,
-  "name": "MESJID"
+  "districtName": "PANTERAJA",
+  "name": "MESJID",
+  "postalCode": "23681"
  },
  {
   "id": 1118070007,
   "districtId": 1118070,
-  "name": "MUKA BLANG"
+  "districtName": "PANTERAJA",
+  "name": "MUKA BLANG",
+  "postalCode": "23766"
  },
  {
   "id": 1118070008,
   "districtId": 1118070,
-  "name": "HAGU"
+  "districtName": "PANTERAJA",
+  "name": "HAGU",
+  "postalCode": "24386"
  },
  {
   "id": 1118070009,
   "districtId": 1118070,
-  "name": "TU PANTEE RAJA"
+  "districtName": "PANTERAJA",
+  "name": "TU PANTEE RAJA",
+  "postalCode": ""
  },
  {
   "id": 1118070010,
   "districtId": 1118070,
-  "name": "KEUDE"
+  "districtName": "PANTERAJA",
+  "name": "KEUDE",
+  "postalCode": ""
  }
 ]

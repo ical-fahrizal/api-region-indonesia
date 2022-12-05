@@ -2,56 +2,78 @@
  {
   "id": 8101052001,
   "districtId": 8101052,
-  "name": "KILON"
+  "districtName": "WUAR LABOBAR",
+  "name": "KILON",
+  "postalCode": "97463"
  },
  {
   "id": 8101052002,
   "districtId": 8101052,
-  "name": "ABAT"
+  "districtName": "WUAR LABOBAR",
+  "name": "ABAT",
+  "postalCode": "97463"
  },
  {
   "id": 8101052003,
   "districtId": 8101052,
-  "name": "LABOBAR"
+  "districtName": "WUAR LABOBAR",
+  "name": "LABOBAR",
+  "postalCode": "97463"
  },
  {
   "id": 8101052004,
   "districtId": 8101052,
-  "name": "WUNLAH"
+  "districtName": "WUAR LABOBAR",
+  "name": "WUNLAH",
+  "postalCode": "97463"
  },
  {
   "id": 8101052005,
   "districtId": 8101052,
-  "name": "KARATAT"
+  "districtName": "WUAR LABOBAR",
+  "name": "KARATAT",
+  "postalCode": "97463"
  },
  {
   "id": 8101052006,
   "districtId": 8101052,
-  "name": "AWEAR RUMNGEUR"
+  "districtName": "WUAR LABOBAR",
+  "name": "AWEAR RUMNGEUR",
+  "postalCode": "97463"
  },
  {
   "id": 8101052007,
   "districtId": 8101052,
-  "name": "WATMASA"
+  "districtName": "WUAR LABOBAR",
+  "name": "WATMASA",
+  "postalCode": "97463"
  },
  {
   "id": 8101052013,
   "districtId": 8101052,
-  "name": "LINGADA"
+  "districtName": "WUAR LABOBAR",
+  "name": "LINGADA",
+  "postalCode": "97463"
  },
  {
   "id": 8101052014,
   "districtId": 8101052,
-  "name": "TEINEMAN"
+  "districtName": "WUAR LABOBAR",
+  "name": "TEINEMAN",
+  "postalCode": "97463"
  },
  {
   "id": 8101052015,
   "districtId": 8101052,
-  "name": "WABAR"
+  "districtName": "WUAR LABOBAR",
+  "name": "WABAR",
+  "postalCode": ""
  },
  {
   "id": 8101052016,
   "districtId": 8101052,
-  "name": "ROMNUS"
+  "districtName": "WUAR LABOBAR",
+  "name": "ROMNUS",
+  "postalCode": ""
  }
 ]

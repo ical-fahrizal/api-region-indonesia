@@ -2,31 +2,43 @@
  {
   "id": 3205011001,
   "districtId": 3205011,
-  "name": "CIMAHI"
+  "districtName": "CARINGIN",
+  "name": "CIMAHI",
+  "postalCode": "41181"
  },
  {
   "id": 3205011002,
   "districtId": 3205011,
-  "name": "INDRALAYANG"
+  "districtName": "CARINGIN",
+  "name": "INDRALAYANG",
+  "postalCode": "44166"
  },
  {
   "id": 3205011003,
   "districtId": 3205011,
-  "name": "PURBAYANI"
+  "districtName": "CARINGIN",
+  "name": "PURBAYANI",
+  "postalCode": "44166"
  },
  {
   "id": 3205011004,
   "districtId": 3205011,
-  "name": "CARINGIN"
+  "districtName": "CARINGIN",
+  "name": "CARINGIN",
+  "postalCode": "40212"
  },
  {
   "id": 3205011005,
   "districtId": 3205011,
-  "name": "SUKARAME"
+  "districtName": "CARINGIN",
+  "name": "SUKARAME",
+  "postalCode": "24357"
  },
  {
   "id": 3205011006,
   "districtId": 3205011,
-  "name": "SAMUDRAJAYA"
+  "districtName": "CARINGIN",
+  "name": "SAMUDRAJAYA",
+  "postalCode": ""
  }
 ]

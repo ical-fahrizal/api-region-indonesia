@@ -2,46 +2,64 @@
  {
   "id": 1805120006,
   "districtId": 1805120,
-  "name": "BINA KARYA BUANA"
+  "districtName": "RUMBIA",
+  "name": "BINA KARYA BUANA",
+  "postalCode": "34157"
  },
  {
   "id": 1805120007,
   "districtId": 1805120,
-  "name": "BINAKARYA PUTRA"
+  "districtName": "RUMBIA",
+  "name": "BINAKARYA PUTRA",
+  "postalCode": "34157"
  },
  {
   "id": 1805120009,
   "districtId": 1805120,
-  "name": "RUKTI BASUKI"
+  "districtName": "RUMBIA",
+  "name": "RUKTI BASUKI",
+  "postalCode": "34157"
  },
  {
   "id": 1805120010,
   "districtId": 1805120,
-  "name": "RESTU BARU"
+  "districtName": "RUMBIA",
+  "name": "RESTU BARU",
+  "postalCode": "34157"
  },
  {
   "id": 1805120011,
   "districtId": 1805120,
-  "name": "RESTU BUANA"
+  "districtName": "RUMBIA",
+  "name": "RESTU BUANA",
+  "postalCode": "34157"
  },
  {
   "id": 1805120013,
   "districtId": 1805120,
-  "name": "RENO BASUKI"
+  "districtName": "RUMBIA",
+  "name": "RENO BASUKI",
+  "postalCode": "34157"
  },
  {
   "id": 1805120014,
   "districtId": 1805120,
-  "name": "REKSO BINANGUN"
+  "districtName": "RUMBIA",
+  "name": "REKSO BINANGUN",
+  "postalCode": "34157"
  },
  {
   "id": 1805120015,
   "districtId": 1805120,
-  "name": "TELUK DALEM ILIR"
+  "districtName": "RUMBIA",
+  "name": "TELUK DALEM ILIR",
+  "postalCode": "34157"
  },
  {
   "id": 1805120016,
   "districtId": 1805120,
-  "name": "BINA KARYA MANDIRI"
+  "districtName": "RUMBIA",
+  "name": "BINA KARYA MANDIRI",
+  "postalCode": ""
  }
 ]

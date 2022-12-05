@@ -2,31 +2,43 @@
  {
   "id": 3302740001,
   "districtId": 3302740,
-  "name": "BOBOSAN"
+  "districtName": "PURWOKERTO UTARA",
+  "name": "BOBOSAN",
+  "postalCode": "53127"
  },
  {
   "id": 3302740002,
   "districtId": 3302740,
-  "name": "PURWANEGARA"
+  "districtName": "PURWOKERTO UTARA",
+  "name": "PURWANEGARA",
+  "postalCode": "53127"
  },
  {
   "id": 3302740003,
   "districtId": 3302740,
-  "name": "BANCARKEMBAR"
+  "districtName": "PURWOKERTO UTARA",
+  "name": "BANCARKEMBAR",
+  "postalCode": "53121"
  },
  {
   "id": 3302740004,
   "districtId": 3302740,
-  "name": "SUMAMPIR"
+  "districtName": "PURWOKERTO UTARA",
+  "name": "SUMAMPIR",
+  "postalCode": "53125"
  },
  {
   "id": 3302740005,
   "districtId": 3302740,
-  "name": "PABUARAN"
+  "districtName": "PURWOKERTO UTARA",
+  "name": "PABUARAN",
+  "postalCode": "16921"
  },
  {
   "id": 3302740007,
   "districtId": 3302740,
-  "name": "KARANGWANGKAL"
+  "districtName": "PURWOKERTO UTARA",
+  "name": "KARANGWANGKAL",
+  "postalCode": "53123"
  }
 ]

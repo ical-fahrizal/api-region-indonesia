@@ -2,56 +2,78 @@
  {
   "id": 7101100001,
   "districtId": 7101100,
-  "name": "KOMANGAAN"
+  "districtName": "BOLAANG",
+  "name": "KOMANGAAN",
+  "postalCode": "95752"
  },
  {
   "id": 7101100002,
   "districtId": 7101100,
-  "name": "SOLIMANDUNGAN DUA"
+  "districtName": "BOLAANG",
+  "name": "SOLIMANDUNGAN DUA",
+  "postalCode": "95752"
  },
  {
   "id": 7101100003,
   "districtId": 7101100,
-  "name": "SOLIMANDUNGAN SATU"
+  "districtName": "BOLAANG",
+  "name": "SOLIMANDUNGAN SATU",
+  "postalCode": "95752"
  },
  {
   "id": 7101100004,
   "districtId": 7101100,
-  "name": "BANGOMOLUNOW"
+  "districtName": "BOLAANG",
+  "name": "BANGOMOLUNOW",
+  "postalCode": "95752"
  },
  {
   "id": 7101100005,
   "districtId": 7101100,
-  "name": "LANGAGON"
+  "districtName": "BOLAANG",
+  "name": "LANGAGON",
+  "postalCode": "95752"
  },
  {
   "id": 7101100006,
   "districtId": 7101100,
-  "name": "INOBONTO SATU"
+  "districtName": "BOLAANG",
+  "name": "INOBONTO SATU",
+  "postalCode": "95752"
  },
  {
   "id": 7101100007,
   "districtId": 7101100,
-  "name": "INOBONTO DUA"
+  "districtName": "BOLAANG",
+  "name": "INOBONTO DUA",
+  "postalCode": "95752"
  },
  {
   "id": 7101100008,
   "districtId": 7101100,
-  "name": "INOBONTO"
+  "districtName": "BOLAANG",
+  "name": "INOBONTO",
+  "postalCode": "95752"
  },
  {
   "id": 7101100009,
   "districtId": 7101100,
-  "name": "SOLIMANDUNGAN BARU"
+  "districtName": "BOLAANG",
+  "name": "SOLIMANDUNGAN BARU",
+  "postalCode": "95752"
  },
  {
   "id": 7101100010,
   "districtId": 7101100,
-  "name": "LANGAGON II"
+  "districtName": "BOLAANG",
+  "name": "LANGAGON II",
+  "postalCode": ""
  },
  {
   "id": 7101100011,
   "districtId": 7101100,
-  "name": "LANGAGON I"
+  "districtName": "BOLAANG",
+  "name": "LANGAGON I",
+  "postalCode": ""
  }
 ]

@@ -2,61 +2,85 @@
  {
   "id": 9105171001,
   "districtId": 9105171,
-  "name": "KAIRONI"
+  "districtName": "SIDEY",
+  "name": "KAIRONI",
+  "postalCode": "98357"
  },
  {
   "id": 9105171002,
   "districtId": 9105171,
-  "name": "WARAMUI"
+  "districtName": "SIDEY",
+  "name": "WARAMUI",
+  "postalCode": ""
  },
  {
   "id": 9105171003,
   "districtId": 9105171,
-  "name": "SIDEY JAYA"
+  "districtName": "SIDEY",
+  "name": "SIDEY JAYA",
+  "postalCode": "98357"
  },
  {
   "id": 9105171004,
   "districtId": 9105171,
-  "name": "SARAY"
+  "districtName": "SIDEY",
+  "name": "SARAY",
+  "postalCode": "98357"
  },
  {
   "id": 9105171005,
   "districtId": 9105171,
-  "name": "SIDEY MAKMUR"
+  "districtName": "SIDEY",
+  "name": "SIDEY MAKMUR",
+  "postalCode": "98357"
  },
  {
   "id": 9105171006,
   "districtId": 9105171,
-  "name": "KASI"
+  "districtName": "SIDEY",
+  "name": "KASI",
+  "postalCode": ""
  },
  {
   "id": 9105171007,
   "districtId": 9105171,
-  "name": "SIDEY"
+  "districtName": "SIDEY",
+  "name": "SIDEY",
+  "postalCode": "98357"
  },
  {
   "id": 9105171008,
   "districtId": 9105171,
-  "name": "SIDEY BARU"
+  "districtName": "SIDEY",
+  "name": "SIDEY BARU",
+  "postalCode": "98357"
  },
  {
   "id": 9105171009,
   "districtId": 9105171,
-  "name": "WAMNOWI"
+  "districtName": "SIDEY",
+  "name": "WAMNOWI",
+  "postalCode": ""
  },
  {
   "id": 9105171010,
   "districtId": 9105171,
-  "name": "WARIKI"
+  "districtName": "SIDEY",
+  "name": "WARIKI",
+  "postalCode": "98357"
  },
  {
   "id": 9105171011,
   "districtId": 9105171,
-  "name": "MEYOF I"
+  "districtName": "SIDEY",
+  "name": "MEYOF I",
+  "postalCode": "98357"
  },
  {
   "id": 9105171012,
   "districtId": 9105171,
-  "name": "MANGGUPI"
+  "districtName": "SIDEY",
+  "name": "MANGGUPI",
+  "postalCode": "98357"
  }
 ]

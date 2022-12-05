@@ -2,81 +2,113 @@
  {
   "id": 3329110001,
   "districtId": 3329110,
-  "name": "SARIREJA"
+  "districtName": "TANJUNG",
+  "name": "SARIREJA",
+  "postalCode": "41281"
  },
  {
   "id": 3329110002,
   "districtId": 3329110,
-  "name": "KUBANGPUTAT"
+  "districtName": "TANJUNG",
+  "name": "KUBANGPUTAT",
+  "postalCode": "52254"
  },
  {
   "id": 3329110005,
   "districtId": 3329110,
-  "name": "LUWUNGBATA"
+  "districtName": "TANJUNG",
+  "name": "LUWUNGBATA",
+  "postalCode": "52254"
  },
  {
   "id": 3329110006,
   "districtId": 3329110,
-  "name": "KARANGREJA"
+  "districtName": "TANJUNG",
+  "name": "KARANGREJA",
+  "postalCode": "17710"
  },
  {
   "id": 3329110007,
   "districtId": 3329110,
-  "name": "SIDAKATON"
+  "districtName": "TANJUNG",
+  "name": "SIDAKATON",
+  "postalCode": "52192"
  },
  {
   "id": 3329110008,
   "districtId": 3329110,
-  "name": "SENGON"
+  "districtName": "TANJUNG",
+  "name": "SENGON",
+  "postalCode": "57454"
  },
  {
   "id": 3329110009,
   "districtId": 3329110,
-  "name": "KEDAWUNG"
+  "districtName": "TANJUNG",
+  "name": "KEDAWUNG",
+  "postalCode": "45153"
  },
  {
   "id": 3329110010,
   "districtId": 3329110,
-  "name": "TEGONGAN"
+  "districtName": "TANJUNG",
+  "name": "TEGONGAN",
+  "postalCode": "52254"
  },
  {
   "id": 3329110011,
   "districtId": 3329110,
-  "name": "KEMURANG WETAN"
+  "districtName": "TANJUNG",
+  "name": "KEMURANG WETAN",
+  "postalCode": "52254"
  },
  {
   "id": 3329110012,
   "districtId": 3329110,
-  "name": "KEMURANG KULON"
+  "districtName": "TANJUNG",
+  "name": "KEMURANG KULON",
+  "postalCode": "52254"
  },
  {
   "id": 3329110013,
   "districtId": 3329110,
-  "name": "KRAKAHAN"
+  "districtName": "TANJUNG",
+  "name": "KRAKAHAN",
+  "postalCode": "52254"
  },
  {
   "id": 3329110014,
   "districtId": 3329110,
-  "name": "PEJAGAN"
+  "districtName": "TANJUNG",
+  "name": "PEJAGAN",
+  "postalCode": "52254"
  },
  {
   "id": 3329110015,
   "districtId": 3329110,
-  "name": "PENGARADAN"
+  "districtName": "TANJUNG",
+  "name": "PENGARADAN",
+  "postalCode": "52254"
  },
  {
   "id": 3329110016,
   "districtId": 3329110,
-  "name": "TANJUNG"
+  "districtName": "TANJUNG",
+  "name": "TANJUNG",
+  "postalCode": "24562"
  },
  {
   "id": 3329110017,
   "districtId": 3329110,
-  "name": "LEMAH ABANG"
+  "districtName": "TANJUNG",
+  "name": "LEMAH ABANG",
+  "postalCode": "51191"
  },
  {
   "id": 3329110018,
   "districtId": 3329110,
-  "name": "TENGGULI"
+  "districtName": "TANJUNG",
+  "name": "TENGGULI",
+  "postalCode": "59453"
  }
 ]

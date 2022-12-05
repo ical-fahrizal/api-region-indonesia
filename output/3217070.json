@@ -2,36 +2,50 @@
  {
   "id": 3217070001,
   "districtId": 3217070,
-  "name": "SELACAU"
+  "districtName": "BATUJAJAR",
+  "name": "SELACAU",
+  "postalCode": "40561"
  },
  {
   "id": 3217070002,
   "districtId": 3217070,
-  "name": "BATUJAJAR BARAT"
+  "districtName": "BATUJAJAR",
+  "name": "BATUJAJAR BARAT",
+  "postalCode": "40561"
  },
  {
   "id": 3217070003,
   "districtId": 3217070,
-  "name": "BATUJAJAR TIMUR"
+  "districtName": "BATUJAJAR",
+  "name": "BATUJAJAR TIMUR",
+  "postalCode": "40561"
  },
  {
   "id": 3217070004,
   "districtId": 3217070,
-  "name": "GIRIASIH"
+  "districtName": "BATUJAJAR",
+  "name": "GIRIASIH",
+  "postalCode": "40561"
  },
  {
   "id": 3217070005,
   "districtId": 3217070,
-  "name": "GALANGGANG"
+  "districtName": "BATUJAJAR",
+  "name": "GALANGGANG",
+  "postalCode": "22762"
  },
  {
   "id": 3217070006,
   "districtId": 3217070,
-  "name": "PANGAUBAN"
+  "districtName": "BATUJAJAR",
+  "name": "PANGAUBAN",
+  "postalCode": "40561"
  },
  {
   "id": 3217070007,
   "districtId": 3217070,
-  "name": "CANGKORAH"
+  "districtName": "BATUJAJAR",
+  "name": "CANGKORAH",
+  "postalCode": "40561"
  }
 ]

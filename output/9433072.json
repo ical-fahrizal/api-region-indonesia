@@ -2,16 +2,22 @@
  {
   "id": 9433072001,
   "districtId": 9433072,
-  "name": "KELANDIRUMA"
+  "districtName": "BEOGA TIMUR",
+  "name": "KELANDIRUMA",
+  "postalCode": "98971"
  },
  {
   "id": 9433072002,
   "districtId": 9433072,
-  "name": "WANDIBET"
+  "districtName": "BEOGA TIMUR",
+  "name": "WANDIBET",
+  "postalCode": ""
  },
  {
   "id": 9433072005,
   "districtId": 9433072,
-  "name": "BUNGOK"
+  "districtName": "BEOGA TIMUR",
+  "name": "BUNGOK",
+  "postalCode": ""
  }
 ]

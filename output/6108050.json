@@ -2,41 +2,57 @@
  {
   "id": 6108050001,
   "districtId": 6108050,
-  "name": "TANJUNG"
+  "districtName": "MENTEBAH",
+  "name": "TANJUNG",
+  "postalCode": "24562"
  },
  {
   "id": 6108050002,
   "districtId": 6108050,
-  "name": "KEPALA GURUNG"
+  "districtName": "MENTEBAH",
+  "name": "KEPALA GURUNG",
+  "postalCode": "78757"
  },
  {
   "id": 6108050003,
   "districtId": 6108050,
-  "name": "SUKA MAJU"
+  "districtName": "MENTEBAH",
+  "name": "SUKA MAJU",
+  "postalCode": "24673"
  },
  {
   "id": 6108050004,
   "districtId": 6108050,
-  "name": "TEKALONG"
+  "districtName": "MENTEBAH",
+  "name": "TEKALONG",
+  "postalCode": "78757"
  },
  {
   "id": 6108050005,
   "districtId": 6108050,
-  "name": "NANGA MENTEBAH"
+  "districtName": "MENTEBAH",
+  "name": "NANGA MENTEBAH",
+  "postalCode": "78757"
  },
  {
   "id": 6108050006,
   "districtId": 6108050,
-  "name": "TANJUNG INTAN"
+  "districtName": "MENTEBAH",
+  "name": "TANJUNG INTAN",
+  "postalCode": "78757"
  },
  {
   "id": 6108050007,
   "districtId": 6108050,
-  "name": "TANGAI JAYA"
+  "districtName": "MENTEBAH",
+  "name": "TANGAI JAYA",
+  "postalCode": "78757"
  },
  {
   "id": 6108050008,
   "districtId": 6108050,
-  "name": "MENAREN"
+  "districtName": "MENTEBAH",
+  "name": "MENAREN",
+  "postalCode": "78757"
  }
 ]

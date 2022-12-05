@@ -2,76 +2,106 @@
  {
   "id": 1112020001,
   "districtId": 1112020,
-  "name": "PADANG BAKJOK"
+  "districtName": "TANGAN-TANGAN",
+  "name": "PADANG BAKJOK",
+  "postalCode": ""
  },
  {
   "id": 1112020002,
   "districtId": 1112020,
-  "name": "SUAK NIBONG"
+  "districtName": "TANGAN-TANGAN",
+  "name": "SUAK NIBONG",
+  "postalCode": "23763"
  },
  {
   "id": 1112020003,
   "districtId": 1112020,
-  "name": "DRIEN KIPAH"
+  "districtName": "TANGAN-TANGAN",
+  "name": "DRIEN KIPAH",
+  "postalCode": "23763"
  },
  {
   "id": 1112020004,
   "districtId": 1112020,
-  "name": "BINEH KRUENG"
+  "districtName": "TANGAN-TANGAN",
+  "name": "BINEH KRUENG",
+  "postalCode": "23763"
  },
  {
   "id": 1112020005,
   "districtId": 1112020,
-  "name": "DRIEN JALO"
+  "districtName": "TANGAN-TANGAN",
+  "name": "DRIEN JALO",
+  "postalCode": "23754"
  },
  {
   "id": 1112020006,
   "districtId": 1112020,
-  "name": "PADANG KAWA"
+  "districtName": "TANGAN-TANGAN",
+  "name": "PADANG KAWA",
+  "postalCode": "23763"
  },
  {
   "id": 1112020007,
   "districtId": 1112020,
-  "name": "MESJID"
+  "districtName": "TANGAN-TANGAN",
+  "name": "MESJID",
+  "postalCode": "23681"
  },
  {
   "id": 1112020008,
   "districtId": 1112020,
-  "name": "ADAN"
+  "districtName": "TANGAN-TANGAN",
+  "name": "ADAN",
+  "postalCode": "24188"
  },
  {
   "id": 1112020009,
   "districtId": 1112020,
-  "name": "PANTE GEULUMPANG"
+  "districtName": "TANGAN-TANGAN",
+  "name": "PANTE GEULUMPANG",
+  "postalCode": "23763"
  },
  {
   "id": 1112020010,
   "districtId": 1112020,
-  "name": "GUNUNG CUT"
+  "districtName": "TANGAN-TANGAN",
+  "name": "GUNUNG CUT",
+  "postalCode": "23656"
  },
  {
   "id": 1112020011,
   "districtId": 1112020,
-  "name": "PADANG BAK JEUMPA"
+  "districtName": "TANGAN-TANGAN",
+  "name": "PADANG BAK JEUMPA",
+  "postalCode": ""
  },
  {
   "id": 1112020012,
   "districtId": 1112020,
-  "name": "BLANG PADANG"
+  "districtName": "TANGAN-TANGAN",
+  "name": "BLANG PADANG",
+  "postalCode": "23763"
  },
  {
   "id": 1112020013,
   "districtId": 1112020,
-  "name": "SUAK LABU"
+  "districtName": "TANGAN-TANGAN",
+  "name": "SUAK LABU",
+  "postalCode": "23763"
  },
  {
   "id": 1112020014,
   "districtId": 1112020,
-  "name": "KUTA BAK DRIN"
+  "districtName": "TANGAN-TANGAN",
+  "name": "KUTA BAK DRIN",
+  "postalCode": ""
  },
  {
   "id": 1112020015,
   "districtId": 1112020,
-  "name": "IE LHOP"
+  "districtName": "TANGAN-TANGAN",
+  "name": "IE LHOP",
+  "postalCode": ""
  }
 ]

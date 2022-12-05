@@ -2,26 +2,36 @@
  {
   "id": 8103051001,
   "districtId": 8103051,
-  "name": "LETWARU"
+  "districtName": "KOTA MASOHI",
+  "name": "LETWARU",
+  "postalCode": "97515"
  },
  {
   "id": 8103051002,
   "districtId": 8103051,
-  "name": "LESANE"
+  "districtName": "KOTA MASOHI",
+  "name": "LESANE",
+  "postalCode": "97514"
  },
  {
   "id": 8103051003,
   "districtId": 8103051,
-  "name": "AMPERA"
+  "districtName": "KOTA MASOHI",
+  "name": "AMPERA",
+  "postalCode": "24671"
  },
  {
   "id": 8103051004,
   "districtId": 8103051,
-  "name": "NAMAELO"
+  "districtName": "KOTA MASOHI",
+  "name": "NAMAELO",
+  "postalCode": "97511"
  },
  {
   "id": 8103051005,
   "districtId": 8103051,
-  "name": "NAMASINA"
+  "districtName": "KOTA MASOHI",
+  "name": "NAMASINA",
+  "postalCode": "97512"
  }
 ]

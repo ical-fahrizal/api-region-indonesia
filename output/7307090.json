@@ -2,21 +2,29 @@
  {
   "id": 7307090001,
   "districtId": 7307090,
-  "name": "PULAU BUHUNG PITUE"
+  "districtName": "PULAU SEMBILAN",
+  "name": "PULAU BUHUNG PITUE",
+  "postalCode": "92616"
  },
  {
   "id": 7307090002,
   "districtId": 7307090,
-  "name": "PULAU HARAPAN"
+  "districtName": "PULAU SEMBILAN",
+  "name": "PULAU HARAPAN",
+  "postalCode": "30953"
  },
  {
   "id": 7307090003,
   "districtId": 7307090,
-  "name": "PULAU PADAELO"
+  "districtName": "PULAU SEMBILAN",
+  "name": "PULAU PADAELO",
+  "postalCode": "92616"
  },
  {
   "id": 7307090004,
   "districtId": 7307090,
-  "name": "PULAU PERSATUAN"
+  "districtName": "PULAU SEMBILAN",
+  "name": "PULAU PERSATUAN",
+  "postalCode": "92616"
  }
 ]

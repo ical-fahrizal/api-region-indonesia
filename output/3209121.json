@@ -2,66 +2,92 @@
  {
   "id": 3209121001,
   "districtId": 3209121,
-  "name": "BOBOS"
+  "districtName": "DUKUPUNTANG",
+  "name": "BOBOS",
+  "postalCode": "45652"
  },
  {
   "id": 3209121002,
   "districtId": 3209121,
-  "name": "CIKALAHANG"
+  "districtName": "DUKUPUNTANG",
+  "name": "CIKALAHANG",
+  "postalCode": "45652"
  },
  {
   "id": 3209121003,
   "districtId": 3209121,
-  "name": "MANDALA"
+  "districtName": "DUKUPUNTANG",
+  "name": "MANDALA",
+  "postalCode": "45652"
  },
  {
   "id": 3209121004,
   "districtId": 3209121,
-  "name": "CISAAT"
+  "districtName": "DUKUPUNTANG",
+  "name": "CISAAT",
+  "postalCode": "41181"
  },
  {
   "id": 3209121005,
   "districtId": 3209121,
-  "name": "SINDANGJAWA"
+  "districtName": "DUKUPUNTANG",
+  "name": "SINDANGJAWA",
+  "postalCode": "45587"
  },
  {
   "id": 3209121006,
   "districtId": 3209121,
-  "name": "SINDANGMEKAR"
+  "districtName": "DUKUPUNTANG",
+  "name": "SINDANGMEKAR",
+  "postalCode": "45652"
  },
  {
   "id": 3209121007,
   "districtId": 3209121,
-  "name": "CANGKOAK"
+  "districtName": "DUKUPUNTANG",
+  "name": "CANGKOAK",
+  "postalCode": "45652"
  },
  {
   "id": 3209121008,
   "districtId": 3209121,
-  "name": "KEPUNDUAN"
+  "districtName": "DUKUPUNTANG",
+  "name": "KEPUNDUAN",
+  "postalCode": "45652"
  },
  {
   "id": 3209121009,
   "districtId": 3209121,
-  "name": "BALAD"
+  "districtName": "DUKUPUNTANG",
+  "name": "BALAD",
+  "postalCode": "45652"
  },
  {
   "id": 3209121010,
   "districtId": 3209121,
-  "name": "DUKUPUNTANG"
+  "districtName": "DUKUPUNTANG",
+  "name": "DUKUPUNTANG",
+  "postalCode": "45652"
  },
  {
   "id": 3209121011,
   "districtId": 3209121,
-  "name": "CIPANAS"
+  "districtName": "DUKUPUNTANG",
+  "name": "CIPANAS",
+  "postalCode": "43253"
  },
  {
   "id": 3209121012,
   "districtId": 3209121,
-  "name": "GIRINATA"
+  "districtName": "DUKUPUNTANG",
+  "name": "GIRINATA",
+  "postalCode": "45652"
  },
  {
   "id": 3209121013,
   "districtId": 3209121,
-  "name": "KEDONGDONG KIDUL"
+  "districtName": "DUKUPUNTANG",
+  "name": "KEDONGDONG KIDUL",
+  "postalCode": "45652"
  }
 ]

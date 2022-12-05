@@ -2,141 +2,197 @@
  {
   "id": 1109220001,
   "districtId": 1109220,
-  "name": "KAREUNG"
+  "districtName": "BATEE",
+  "name": "KAREUNG",
+  "postalCode": "24152"
  },
  {
   "id": 1109220002,
   "districtId": 1109220,
-  "name": "AWE"
+  "districtName": "BATEE",
+  "name": "AWE",
+  "postalCode": ""
  },
  {
   "id": 1109220003,
   "districtId": 1109220,
-  "name": "RUNGKOM"
+  "districtName": "BATEE",
+  "name": "RUNGKOM",
+  "postalCode": "24152"
  },
  {
   "id": 1109220004,
   "districtId": 1109220,
-  "name": "PULO PANDE"
+  "districtName": "BATEE",
+  "name": "PULO PANDE",
+  "postalCode": "24152"
  },
  {
   "id": 1109220005,
   "districtId": 1109220,
-  "name": "MEE"
+  "districtName": "BATEE",
+  "name": "MEE",
+  "postalCode": "24386"
  },
  {
   "id": 1109220006,
   "districtId": 1109220,
-  "name": "ALUE LADA"
+  "districtName": "BATEE",
+  "name": "ALUE LADA",
+  "postalCode": "24152"
  },
  {
   "id": 1109220007,
   "districtId": 1109220,
-  "name": "SEULATAN"
+  "districtName": "BATEE",
+  "name": "SEULATAN",
+  "postalCode": "24152"
  },
  {
   "id": 1109220008,
   "districtId": 1109220,
-  "name": "TUHA"
+  "districtName": "BATEE",
+  "name": "TUHA",
+  "postalCode": "24152"
  },
  {
   "id": 1109220009,
   "districtId": 1109220,
-  "name": "TEUPIN RAYA"
+  "districtName": "BATEE",
+  "name": "TEUPIN RAYA",
+  "postalCode": "24152"
  },
  {
   "id": 1109220010,
   "districtId": 1109220,
-  "name": "CALONG CUT"
+  "districtName": "BATEE",
+  "name": "CALONG CUT",
+  "postalCode": "24152"
  },
  {
   "id": 1109220011,
   "districtId": 1109220,
-  "name": "DAYAH"
+  "districtName": "BATEE",
+  "name": "DAYAH",
+  "postalCode": "24152"
  },
  {
   "id": 1109220012,
   "districtId": 1109220,
-  "name": "MEUCAT"
+  "districtName": "BATEE",
+  "name": "MEUCAT",
+  "postalCode": "24152"
  },
  {
   "id": 1109220013,
   "districtId": 1109220,
-  "name": "ARON"
+  "districtName": "BATEE",
+  "name": "ARON",
+  "postalCode": "24152"
  },
  {
   "id": 1109220014,
   "districtId": 1109220,
-  "name": "MESJID"
+  "districtName": "BATEE",
+  "name": "MESJID",
+  "postalCode": "23681"
  },
  {
   "id": 1109220015,
   "districtId": 1109220,
-  "name": "BINTANG HU"
+  "districtName": "BATEE",
+  "name": "BINTANG HU",
+  "postalCode": "24152"
  },
  {
   "id": 1109220016,
   "districtId": 1109220,
-  "name": "DAYAH TUHA"
+  "districtName": "BATEE",
+  "name": "DAYAH TUHA",
+  "postalCode": "24186"
  },
  {
   "id": 1109220017,
   "districtId": 1109220,
-  "name": "DAYAH BAROH"
+  "districtName": "BATEE",
+  "name": "DAYAH BAROH",
+  "postalCode": "24152"
  },
  {
   "id": 1109220018,
   "districtId": 1109220,
-  "name": "PULO TUKOK"
+  "districtName": "BATEE",
+  "name": "PULO TUKOK",
+  "postalCode": "24152"
  },
  {
   "id": 1109220019,
   "districtId": 1109220,
-  "name": "GLUMPANG LHEE"
+  "districtName": "BATEE",
+  "name": "GLUMPANG LHEE",
+  "postalCode": ""
  },
  {
   "id": 1109220020,
   "districtId": 1109220,
-  "name": "GEUNTENG TIMUR"
+  "districtName": "BATEE",
+  "name": "GEUNTENG TIMUR",
+  "postalCode": "24152"
  },
  {
   "id": 1109220021,
   "districtId": 1109220,
-  "name": "GEUNTENG BARAT"
+  "districtName": "BATEE",
+  "name": "GEUNTENG BARAT",
+  "postalCode": "24152"
  },
  {
   "id": 1109220022,
   "districtId": 1109220,
-  "name": "PULO BUNGONG"
+  "districtName": "BATEE",
+  "name": "PULO BUNGONG",
+  "postalCode": "24152"
  },
  {
   "id": 1109220023,
   "districtId": 1109220,
-  "name": "TEUPIN JEUE"
+  "districtName": "BATEE",
+  "name": "TEUPIN JEUE",
+  "postalCode": "24152"
  },
  {
   "id": 1109220024,
   "districtId": 1109220,
-  "name": "NEUHEUN"
+  "districtName": "BATEE",
+  "name": "NEUHEUN",
+  "postalCode": "24152"
  },
  {
   "id": 1109220025,
   "districtId": 1109220,
-  "name": "CRUENG"
+  "districtName": "BATEE",
+  "name": "CRUENG",
+  "postalCode": "24152"
  },
  {
   "id": 1109220026,
   "districtId": 1109220,
-  "name": "KULAM"
+  "districtName": "BATEE",
+  "name": "KULAM",
+  "postalCode": "24152"
  },
  {
   "id": 1109220027,
   "districtId": 1109220,
-  "name": "KULEE"
+  "districtName": "BATEE",
+  "name": "KULEE",
+  "postalCode": ""
  },
  {
   "id": 1109220028,
   "districtId": 1109220,
-  "name": "PASI BEURANDEH"
+  "districtName": "BATEE",
+  "name": "PASI BEURANDEH",
+  "postalCode": ""
  }
 ]

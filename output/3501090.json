@@ -2,56 +2,78 @@
  {
   "id": 3501090001,
   "districtId": 3501090,
-  "name": "KEBONDALEM"
+  "districtName": "TEGALOMBO",
+  "name": "KEBONDALEM",
+  "postalCode": "53471"
  },
  {
   "id": 3501090002,
   "districtId": 3501090,
-  "name": "GEDANGAN"
+  "districtName": "TEGALOMBO",
+  "name": "GEDANGAN",
+  "postalCode": "21264"
  },
  {
   "id": 3501090003,
   "districtId": 3501090,
-  "name": "NGRECO"
+  "districtName": "TEGALOMBO",
+  "name": "NGRECO",
+  "postalCode": "57562"
  },
  {
   "id": 3501090004,
   "districtId": 3501090,
-  "name": "KASIHAN"
+  "districtName": "TEGALOMBO",
+  "name": "KASIHAN",
+  "postalCode": "57681"
  },
  {
   "id": 3501090005,
   "districtId": 3501090,
-  "name": "PUCANGOMBO"
+  "districtName": "TEGALOMBO",
+  "name": "PUCANGOMBO",
+  "postalCode": ""
  },
  {
   "id": 3501090006,
   "districtId": 3501090,
-  "name": "GEMAHARJO"
+  "districtName": "TEGALOMBO",
+  "name": "GEMAHARJO",
+  "postalCode": "63582"
  },
  {
   "id": 3501090007,
   "districtId": 3501090,
-  "name": "PLOSO"
+  "districtName": "TEGALOMBO",
+  "name": "PLOSO",
+  "postalCode": "59348"
  },
  {
   "id": 3501090008,
   "districtId": 3501090,
-  "name": "TEGALOMBO"
+  "districtName": "TEGALOMBO",
+  "name": "TEGALOMBO",
+  "postalCode": "59158"
  },
  {
   "id": 3501090009,
   "districtId": 3501090,
-  "name": "KEMUNING"
+  "districtName": "TEGALOMBO",
+  "name": "KEMUNING",
+  "postalCode": "36514"
  },
  {
   "id": 3501090010,
   "districtId": 3501090,
-  "name": "TAHUNAN"
+  "districtName": "TEGALOMBO",
+  "name": "TAHUNAN",
+  "postalCode": "58183"
  },
  {
   "id": 3501090011,
   "districtId": 3501090,
-  "name": "TAHUNAN BARU"
+  "districtName": "TEGALOMBO",
+  "name": "TAHUNAN BARU",
+  "postalCode": "63582"
  }
 ]

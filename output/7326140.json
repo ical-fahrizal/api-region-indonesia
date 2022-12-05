@@ -2,21 +2,29 @@
  {
   "id": 7326140001,
   "districtId": 7326140,
-  "name": "LEMBANG TOYASA AKUNG"
+  "districtName": "BENGKELEKILA",
+  "name": "LEMBANG TOYASA AKUNG",
+  "postalCode": ""
  },
  {
   "id": 7326140002,
   "districtId": 7326140,
-  "name": "LEMBANG BATU LIMBONG"
+  "districtName": "BENGKELEKILA",
+  "name": "LEMBANG BATU LIMBONG",
+  "postalCode": ""
  },
  {
   "id": 7326140003,
   "districtId": 7326140,
-  "name": "LEMBANG BANGKELE KILA"
+  "districtName": "BENGKELEKILA",
+  "name": "LEMBANG BANGKELE KILA",
+  "postalCode": ""
  },
  {
   "id": 7326140004,
   "districtId": 7326140,
-  "name": "LEMBANG TAMPAN BONGA"
+  "districtName": "BENGKELEKILA",
+  "name": "LEMBANG TAMPAN BONGA",
+  "postalCode": ""
  }
 ]

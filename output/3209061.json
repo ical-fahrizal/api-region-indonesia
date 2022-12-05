@@ -2,61 +2,85 @@
  {
   "id": 3209061001,
   "districtId": 3209061,
-  "name": "KARANGMANGU"
+  "districtName": "SUSUKANLEBAK",
+  "name": "KARANGMANGU",
+  "postalCode": "45553"
  },
  {
   "id": 3209061002,
   "districtId": 3209061,
-  "name": "KALIGAWE"
+  "districtName": "SUSUKANLEBAK",
+  "name": "KALIGAWE",
+  "postalCode": "45185"
  },
  {
   "id": 3209061003,
   "districtId": 3209061,
-  "name": "KALIGAWE WETAN"
+  "districtName": "SUSUKANLEBAK",
+  "name": "KALIGAWE WETAN",
+  "postalCode": "45185"
  },
  {
   "id": 3209061004,
   "districtId": 3209061,
-  "name": "CURUG WETAN"
+  "districtName": "SUSUKANLEBAK",
+  "name": "CURUG WETAN",
+  "postalCode": "45185"
  },
  {
   "id": 3209061006,
   "districtId": 3209061,
-  "name": "WILULANG"
+  "districtName": "SUSUKANLEBAK",
+  "name": "WILULANG",
+  "postalCode": "45185"
  },
  {
   "id": 3209061007,
   "districtId": 3209061,
-  "name": "SUSUKAN AGUNG"
+  "districtName": "SUSUKANLEBAK",
+  "name": "SUSUKAN AGUNG",
+  "postalCode": "45185"
  },
  {
   "id": 3209061008,
   "districtId": 3209061,
-  "name": "SUSUKAN LEBAK"
+  "districtName": "SUSUKANLEBAK",
+  "name": "SUSUKAN LEBAK",
+  "postalCode": "45185"
  },
  {
   "id": 3209061009,
   "districtId": 3209061,
-  "name": "SUSUKAN TONGGOH"
+  "districtName": "SUSUKANLEBAK",
+  "name": "SUSUKAN TONGGOH",
+  "postalCode": "45185"
  },
  {
   "id": 3209061010,
   "districtId": 3209061,
-  "name": "SAMPIH"
+  "districtName": "SUSUKANLEBAK",
+  "name": "SAMPIH",
+  "postalCode": "45185"
  },
  {
   "id": 3209061011,
   "districtId": 3209061,
-  "name": "PASAWAHAN"
+  "districtName": "SUSUKANLEBAK",
+  "name": "PASAWAHAN",
+  "postalCode": "46383"
  },
  {
   "id": 3209061012,
   "districtId": 3209061,
-  "name": "CIAWI ASIH"
+  "districtName": "SUSUKANLEBAK",
+  "name": "CIAWI ASIH",
+  "postalCode": ""
  },
  {
   "id": 3209061013,
   "districtId": 3209061,
-  "name": "CIAWIJAPURA"
+  "districtName": "SUSUKANLEBAK",
+  "name": "CIAWIJAPURA",
+  "postalCode": "45185"
  }
 ]

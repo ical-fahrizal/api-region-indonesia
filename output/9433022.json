@@ -2,11 +2,15 @@
  {
   "id": 9433022001,
   "districtId": 9433022,
-  "name": "WELENGGARU"
+  "districtName": "GOME UTARA",
+  "name": "WELENGGARU",
+  "postalCode": ""
  },
  {
   "id": 9433022002,
   "districtId": 9433022,
-  "name": "TOWENGGI II"
+  "districtName": "GOME UTARA",
+  "name": "TOWENGGI II",
+  "postalCode": ""
  }
 ]

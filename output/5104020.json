@@ -2,41 +2,57 @@
  {
   "id": 5104020001,
   "districtId": 5104020,
-  "name": "SABA"
+  "districtName": "BLAHBATUH",
+  "name": "SABA",
+  "postalCode": "22753"
  },
  {
   "id": 5104020002,
   "districtId": 5104020,
-  "name": "PERING"
+  "districtName": "BLAHBATUH",
+  "name": "PERING",
+  "postalCode": "80581"
  },
  {
   "id": 5104020003,
   "districtId": 5104020,
-  "name": "KERAMAS"
+  "districtName": "BLAHBATUH",
+  "name": "KERAMAS",
+  "postalCode": "80581"
  },
  {
   "id": 5104020004,
   "districtId": 5104020,
-  "name": "MEDAHAN"
+  "districtName": "BLAHBATUH",
+  "name": "MEDAHAN",
+  "postalCode": "80581"
  },
  {
   "id": 5104020005,
   "districtId": 5104020,
-  "name": "BONA"
+  "districtName": "BLAHBATUH",
+  "name": "BONA",
+  "postalCode": "80581"
  },
  {
   "id": 5104020006,
   "districtId": 5104020,
-  "name": "BELEGA"
+  "districtName": "BLAHBATUH",
+  "name": "BELEGA",
+  "postalCode": "80581"
  },
  {
   "id": 5104020007,
   "districtId": 5104020,
-  "name": "BLAHBATUH"
+  "districtName": "BLAHBATUH",
+  "name": "BLAHBATUH",
+  "postalCode": "80581"
  },
  {
   "id": 5104020008,
   "districtId": 5104020,
-  "name": "BURUAN"
+  "districtName": "BLAHBATUH",
+  "name": "BURUAN",
+  "postalCode": "80581"
  }
 ]

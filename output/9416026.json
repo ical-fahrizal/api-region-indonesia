@@ -2,61 +2,85 @@
  {
   "id": 9416026001,
   "districtId": 9416026,
-  "name": "YALISOMON"
+  "districtName": "SOBAHAM",
+  "name": "YALISOMON",
+  "postalCode": "99578"
  },
  {
   "id": 9416026002,
   "districtId": 9416026,
-  "name": "YABI"
+  "districtName": "SOBAHAM",
+  "name": "YABI",
+  "postalCode": ""
  },
  {
   "id": 9416026003,
   "districtId": 9416026,
-  "name": "HAMIK"
+  "districtName": "SOBAHAM",
+  "name": "HAMIK",
+  "postalCode": "99578"
  },
  {
   "id": 9416026004,
   "districtId": 9416026,
-  "name": "KULAHAIK"
+  "districtName": "SOBAHAM",
+  "name": "KULAHAIK",
+  "postalCode": "99578"
  },
  {
   "id": 9416026005,
   "districtId": 9416026,
-  "name": "SOBAHAM"
+  "districtName": "SOBAHAM",
+  "name": "SOBAHAM",
+  "postalCode": "99578"
  },
  {
   "id": 9416026006,
   "districtId": 9416026,
-  "name": "BALINGGAMA"
+  "districtName": "SOBAHAM",
+  "name": "BALINGGAMA",
+  "postalCode": "99578"
  },
  {
   "id": 9416026007,
   "districtId": 9416026,
-  "name": "DOHONG"
+  "districtName": "SOBAHAM",
+  "name": "DOHONG",
+  "postalCode": "99578"
  },
  {
   "id": 9416026008,
   "districtId": 9416026,
-  "name": "SIMBUK"
+  "districtName": "SOBAHAM",
+  "name": "SIMBUK",
+  "postalCode": "99578"
  },
  {
   "id": 9416026009,
   "districtId": 9416026,
-  "name": "PUAHUN"
+  "districtName": "SOBAHAM",
+  "name": "PUAHUN",
+  "postalCode": ""
  },
  {
   "id": 9416026010,
   "districtId": 9416026,
-  "name": "SILAK PAHABOL"
+  "districtName": "SOBAHAM",
+  "name": "SILAK PAHABOL",
+  "postalCode": "99578"
  },
  {
   "id": 9416026012,
   "districtId": 9416026,
-  "name": "BENEMBIA"
+  "districtName": "SOBAHAM",
+  "name": "BENEMBIA",
+  "postalCode": "99578"
  },
  {
   "id": 9416026013,
   "districtId": 9416026,
-  "name": "HUBIK"
+  "districtName": "SOBAHAM",
+  "name": "HUBIK",
+  "postalCode": "99578"
  }
 ]

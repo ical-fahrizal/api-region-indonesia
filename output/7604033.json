@@ -2,71 +2,99 @@
  {
   "id": 7604033001,
   "districtId": 7604033,
-  "name": "TAMEMONGGA"
+  "districtName": "TOMMO",
+  "name": "TAMEMONGGA",
+  "postalCode": "91562"
  },
  {
   "id": 7604033002,
   "districtId": 7604033,
-  "name": "TOMMO"
+  "districtName": "TOMMO",
+  "name": "TOMMO",
+  "postalCode": "91562"
  },
  {
   "id": 7604033003,
   "districtId": 7604033,
-  "name": "BUANA SAKTI"
+  "districtName": "TOMMO",
+  "name": "BUANA SAKTI",
+  "postalCode": "34381"
  },
  {
   "id": 7604033004,
   "districtId": 7604033,
-  "name": "CAMPALOGA"
+  "districtName": "TOMMO",
+  "name": "CAMPALOGA",
+  "postalCode": "91562"
  },
  {
   "id": 7604033005,
   "districtId": 7604033,
-  "name": "RANTE MARIO"
+  "districtName": "TOMMO",
+  "name": "RANTE MARIO",
+  "postalCode": "91752"
  },
  {
   "id": 7604033006,
   "districtId": 7604033,
-  "name": "TAMMEJARRA"
+  "districtName": "TOMMO",
+  "name": "TAMMEJARRA",
+  "postalCode": ""
  },
  {
   "id": 7604033007,
   "districtId": 7604033,
-  "name": "MALINO"
+  "districtName": "TOMMO",
+  "name": "MALINO",
+  "postalCode": "22756"
  },
  {
   "id": 7604033008,
   "districtId": 7604033,
-  "name": "KAKULLASAN"
+  "districtName": "TOMMO",
+  "name": "KAKULLASAN",
+  "postalCode": ""
  },
  {
   "id": 7604033009,
   "districtId": 7604033,
-  "name": "LELING"
+  "districtName": "TOMMO",
+  "name": "LELING",
+  "postalCode": "91562"
  },
  {
   "id": 7604033010,
   "districtId": 7604033,
-  "name": "KALEPU"
+  "districtName": "TOMMO",
+  "name": "KALEPU",
+  "postalCode": "91562"
  },
  {
   "id": 7604033011,
   "districtId": 7604033,
-  "name": "SALUDENGEN"
+  "districtName": "TOMMO",
+  "name": "SALUDENGEN",
+  "postalCode": "91562"
  },
  {
   "id": 7604033012,
   "districtId": 7604033,
-  "name": "SANDANA"
+  "districtName": "TOMMO",
+  "name": "SANDANA",
+  "postalCode": "94561"
  },
  {
   "id": 7604033013,
   "districtId": 7604033,
-  "name": "LELING BARAT"
+  "districtName": "TOMMO",
+  "name": "LELING BARAT",
+  "postalCode": "91562"
  },
  {
   "id": 7604033014,
   "districtId": 7604033,
-  "name": "LELING UTARA"
+  "districtName": "TOMMO",
+  "name": "LELING UTARA",
+  "postalCode": "91562"
  }
 ]

@@ -2,151 +2,211 @@
  {
   "id": 1202060001,
   "districtId": 1202060,
-  "name": "PARDAMEAN BARU"
+  "districtName": "NATAL",
+  "name": "PARDAMEAN BARU",
+  "postalCode": "22987"
  },
  {
   "id": 1202060002,
   "districtId": 1202060,
-  "name": "PATILUBAN MUDIK"
+  "districtName": "NATAL",
+  "name": "PATILUBAN MUDIK",
+  "postalCode": "22987"
  },
  {
   "id": 1202060003,
   "districtId": 1202060,
-  "name": "KAMPUNG SAWAH"
+  "districtName": "NATAL",
+  "name": "KAMPUNG SAWAH",
+  "postalCode": "23772"
  },
  {
   "id": 1202060004,
   "districtId": 1202060,
-  "name": "PASAR V NATAL"
+  "districtName": "NATAL",
+  "name": "PASAR V NATAL",
+  "postalCode": ""
  },
  {
   "id": 1202060005,
   "districtId": 1202060,
-  "name": "PASAR II NATAL"
+  "districtName": "NATAL",
+  "name": "PASAR II NATAL",
+  "postalCode": "22987"
  },
  {
   "id": 1202060006,
   "districtId": 1202060,
-  "name": "PASAR I NATAL"
+  "districtName": "NATAL",
+  "name": "PASAR I NATAL",
+  "postalCode": "22987"
  },
  {
   "id": 1202060007,
   "districtId": 1202060,
-  "name": "SETIA KARYA"
+  "districtName": "NATAL",
+  "name": "SETIA KARYA",
+  "postalCode": "22987"
  },
  {
   "id": 1202060008,
   "districtId": 1202060,
-  "name": "PATILUBAN HILIR"
+  "districtName": "NATAL",
+  "name": "PATILUBAN HILIR",
+  "postalCode": "22987"
  },
  {
   "id": 1202060009,
   "districtId": 1202060,
-  "name": "TEGAL SARI"
+  "districtName": "NATAL",
+  "name": "TEGAL SARI",
+  "postalCode": "23681"
  },
  {
   "id": 1202060010,
   "districtId": 1202060,
-  "name": "PERKEBUNAN PATILUBAN"
+  "districtName": "NATAL",
+  "name": "PERKEBUNAN PATILUBAN",
+  "postalCode": "22987"
  },
  {
   "id": 1202060011,
   "districtId": 1202060,
-  "name": "SIKARA KARA I"
+  "districtName": "NATAL",
+  "name": "SIKARA KARA I",
+  "postalCode": "22987"
  },
  {
   "id": 1202060012,
   "districtId": 1202060,
-  "name": "SIKARA KARA II"
+  "districtName": "NATAL",
+  "name": "SIKARA KARA II",
+  "postalCode": "22987"
  },
  {
   "id": 1202060013,
   "districtId": 1202060,
-  "name": "PANGGAUTAN"
+  "districtName": "NATAL",
+  "name": "PANGGAUTAN",
+  "postalCode": ""
  },
  {
   "id": 1202060014,
   "districtId": 1202060,
-  "name": "TALUK"
+  "districtName": "NATAL",
+  "name": "TALUK",
+  "postalCode": "22987"
  },
  {
   "id": 1202060015,
   "districtId": 1202060,
-  "name": "SIKARA KARA"
+  "districtName": "NATAL",
+  "name": "SIKARA KARA",
+  "postalCode": "22987"
  },
  {
   "id": 1202060016,
   "districtId": 1202060,
-  "name": "BUBURAN"
+  "districtName": "NATAL",
+  "name": "BUBURAN",
+  "postalCode": "22987"
  },
  {
   "id": 1202060017,
   "districtId": 1202060,
-  "name": "SIKARA KARA III"
+  "districtName": "NATAL",
+  "name": "SIKARA KARA III",
+  "postalCode": "22987"
  },
  {
   "id": 1202060018,
   "districtId": 1202060,
-  "name": "BINTUAS"
+  "districtName": "NATAL",
+  "name": "BINTUAS",
+  "postalCode": "22987"
  },
  {
   "id": 1202060019,
   "districtId": 1202060,
-  "name": "SUNDUTAN TIGO"
+  "districtName": "NATAL",
+  "name": "SUNDUTAN TIGO",
+  "postalCode": "22987"
  },
  {
   "id": 1202060020,
   "districtId": 1202060,
-  "name": "SIKARA KARA IV"
+  "districtName": "NATAL",
+  "name": "SIKARA KARA IV",
+  "postalCode": "22987"
  },
  {
   "id": 1202060021,
   "districtId": 1202060,
-  "name": "BALIMBING"
+  "districtName": "NATAL",
+  "name": "BALIMBING",
+  "postalCode": "22753"
  },
  {
   "id": 1202060022,
   "districtId": 1202060,
-  "name": "PASAR III NATAL"
+  "districtName": "NATAL",
+  "name": "PASAR III NATAL",
+  "postalCode": "22987"
  },
  {
   "id": 1202060023,
   "districtId": 1202060,
-  "name": "BONDAKASE"
+  "districtName": "NATAL",
+  "name": "BONDAKASE",
+  "postalCode": ""
  },
  {
   "id": 1202060024,
   "districtId": 1202060,
-  "name": "TUNAS KARYA"
+  "districtName": "NATAL",
+  "name": "TUNAS KARYA",
+  "postalCode": "22987"
  },
  {
   "id": 1202060025,
   "districtId": 1202060,
-  "name": "RUKUN JAYA"
+  "districtName": "NATAL",
+  "name": "RUKUN JAYA",
+  "postalCode": "22987"
  },
  {
   "id": 1202060026,
   "districtId": 1202060,
-  "name": "SINUNUKAN V"
+  "districtName": "NATAL",
+  "name": "SINUNUKAN V",
+  "postalCode": "22987"
  },
  {
   "id": 1202060027,
   "districtId": 1202060,
-  "name": "SUKA MAJU"
+  "districtName": "NATAL",
+  "name": "SUKA MAJU",
+  "postalCode": "24673"
  },
  {
   "id": 1202060028,
   "districtId": 1202060,
-  "name": "SASARAN"
+  "districtName": "NATAL",
+  "name": "SASARAN",
+  "postalCode": "95615"
  },
  {
   "id": 1202060029,
   "districtId": 1202060,
-  "name": "PASAR VI NATAL"
+  "districtName": "NATAL",
+  "name": "PASAR VI NATAL",
+  "postalCode": "22987"
  },
  {
   "id": 1202060030,
   "districtId": 1202060,
-  "name": "KUN-KUN"
+  "districtName": "NATAL",
+  "name": "KUN-KUN",
+  "postalCode": ""
  }
 ]

@@ -2,51 +2,71 @@
  {
   "id": 7407020001,
   "districtId": 7407020,
-  "name": "WAITII BARAT"
+  "districtName": "TOMIA",
+  "name": "WAITII BARAT",
+  "postalCode": "93793"
  },
  {
   "id": 7407020002,
   "districtId": 7407020,
-  "name": "WAITII"
+  "districtName": "TOMIA",
+  "name": "WAITII",
+  "postalCode": "93793"
  },
  {
   "id": 7407020003,
   "districtId": 7407020,
-  "name": "LAMANGGAU"
+  "districtName": "TOMIA",
+  "name": "LAMANGGAU",
+  "postalCode": "93793"
  },
  {
   "id": 7407020013,
   "districtId": 7407020,
-  "name": "PATUA"
+  "districtName": "TOMIA",
+  "name": "PATUA",
+  "postalCode": "93793"
  },
  {
   "id": 7407020014,
   "districtId": 7407020,
-  "name": "ONEMAY"
+  "districtName": "TOMIA",
+  "name": "ONEMAY",
+  "postalCode": "93793"
  },
  {
   "id": 7407020015,
   "districtId": 7407020,
-  "name": "WAHA"
+  "districtName": "TOMIA",
+  "name": "WAHA",
+  "postalCode": "93793"
  },
  {
   "id": 7407020016,
   "districtId": 7407020,
-  "name": "RUNDUMA"
+  "districtName": "TOMIA",
+  "name": "RUNDUMA",
+  "postalCode": "93793"
  },
  {
   "id": 7407020017,
   "districtId": 7407020,
-  "name": "TEEMOANE"
+  "districtName": "TOMIA",
+  "name": "TEEMOANE",
+  "postalCode": "93793"
  },
  {
   "id": 7407020018,
   "districtId": 7407020,
-  "name": "KOLLO SOHA"
+  "districtName": "TOMIA",
+  "name": "KOLLO SOHA",
+  "postalCode": "93793"
  },
  {
   "id": 7407020019,
   "districtId": 7407020,
-  "name": "PATUA II"
+  "districtName": "TOMIA",
+  "name": "PATUA II",
+  "postalCode": ""
  }
 ]

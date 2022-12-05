@@ -2,36 +2,50 @@
  {
   "id": 9107120005,
   "districtId": 9107120,
-  "name": "MATAWOLOT"
+  "districtName": "SALAWATI",
+  "name": "MATAWOLOT",
+  "postalCode": "98451"
  },
  {
   "id": 9107120006,
   "districtId": 9107120,
-  "name": "KATINIM"
+  "districtName": "SALAWATI",
+  "name": "KATINIM",
+  "postalCode": "98451"
  },
  {
   "id": 9107120007,
   "districtId": 9107120,
-  "name": "MAJENER"
+  "districtName": "SALAWATI",
+  "name": "MAJENER",
+  "postalCode": "98451"
  },
  {
   "id": 9107120008,
   "districtId": 9107120,
-  "name": "MALAUS"
+  "districtName": "SALAWATI",
+  "name": "MALAUS",
+  "postalCode": "98451"
  },
  {
   "id": 9107120009,
   "districtId": 9107120,
-  "name": "WALAL"
+  "districtName": "SALAWATI",
+  "name": "WALAL",
+  "postalCode": "98451"
  },
  {
   "id": 9107120010,
   "districtId": 9107120,
-  "name": "MAJARAN"
+  "districtName": "SALAWATI",
+  "name": "MAJARAN",
+  "postalCode": "98451"
  },
  {
   "id": 9107120011,
   "districtId": 9107120,
-  "name": "RAWA SUGI"
+  "districtName": "SALAWATI",
+  "name": "RAWA SUGI",
+  "postalCode": "98451"
  }
 ]

@@ -2,21 +2,29 @@
  {
   "id": 1306080001,
   "districtId": 1306080,
-  "name": "PILUBANG"
+  "districtName": "SUNGAI LIMAU",
+  "name": "PILUBANG",
+  "postalCode": "26271"
  },
  {
   "id": 1306080002,
   "districtId": 1306080,
-  "name": "KURANJI HILIR"
+  "districtName": "SUNGAI LIMAU",
+  "name": "KURANJI HILIR",
+  "postalCode": "25561"
  },
  {
   "id": 1306080003,
   "districtId": 1306080,
-  "name": "KOTO TINGGI KURANJI HILIR"
+  "districtName": "SUNGAI LIMAU",
+  "name": "KOTO TINGGI KURANJI HILIR",
+  "postalCode": "25561"
  },
  {
   "id": 1306080004,
   "districtId": 1306080,
-  "name": "GUGUAK KURANJI HILIR"
+  "districtName": "SUNGAI LIMAU",
+  "name": "GUGUAK KURANJI HILIR",
+  "postalCode": "25561"
  }
 ]

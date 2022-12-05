@@ -2,41 +2,57 @@
  {
   "id": 3304160001,
   "districtId": 3304160,
-  "name": "BATUR"
+  "districtName": "BATUR",
+  "name": "BATUR",
+  "postalCode": "53456"
  },
  {
   "id": 3304160002,
   "districtId": 3304160,
-  "name": "SUMBEREJO"
+  "districtName": "BATUR",
+  "name": "SUMBEREJO",
+  "postalCode": "20551"
  },
  {
   "id": 3304160003,
   "districtId": 3304160,
-  "name": "PESURENAN"
+  "districtName": "BATUR",
+  "name": "PESURENAN",
+  "postalCode": ""
  },
  {
   "id": 3304160004,
   "districtId": 3304160,
-  "name": "BAKAL"
+  "districtName": "BATUR",
+  "name": "BAKAL",
+  "postalCode": "53456"
  },
  {
   "id": 3304160005,
   "districtId": 3304160,
-  "name": "DIENG KULON"
+  "districtName": "BATUR",
+  "name": "DIENG KULON",
+  "postalCode": "53456"
  },
  {
   "id": 3304160006,
   "districtId": 3304160,
-  "name": "KARANGTENGAH"
+  "districtName": "BATUR",
+  "name": "KARANGTENGAH",
+  "postalCode": "43351"
  },
  {
   "id": 3304160007,
   "districtId": 3304160,
-  "name": "KEPAKISAN"
+  "districtName": "BATUR",
+  "name": "KEPAKISAN",
+  "postalCode": "53456"
  },
  {
   "id": 3304160008,
   "districtId": 3304160,
-  "name": "PEKASIRAN"
+  "districtName": "BATUR",
+  "name": "PEKASIRAN",
+  "postalCode": "53456"
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 1224030001,
   "districtId": 1224030,
-  "name": "HAREFANAESE"
+  "districtName": "ALASA TALU MUZOI",
+  "name": "HAREFANAESE",
+  "postalCode": "22814"
  },
  {
   "id": 1224030002,
   "districtId": 1224030,
-  "name": "BANUA SIBOHOU III"
+  "districtName": "ALASA TALU MUZOI",
+  "name": "BANUA SIBOHOU III",
+  "postalCode": "22814"
  },
  {
   "id": 1224030003,
   "districtId": 1224030,
-  "name": "LAEHUWA"
+  "districtName": "ALASA TALU MUZOI",
+  "name": "LAEHUWA",
+  "postalCode": "22814"
  },
  {
   "id": 1224030004,
   "districtId": 1224030,
-  "name": "HILIMBOWO KARE"
+  "districtName": "ALASA TALU MUZOI",
+  "name": "HILIMBOWO KARE",
+  "postalCode": "22814"
  },
  {
   "id": 1224030005,
   "districtId": 1224030,
-  "name": "HILINA A"
+  "districtName": "ALASA TALU MUZOI",
+  "name": "HILINA A",
+  "postalCode": "22814"
  },
  {
   "id": 1224030006,
   "districtId": 1224030,
-  "name": "MAZINGO"
+  "districtName": "ALASA TALU MUZOI",
+  "name": "MAZINGO",
+  "postalCode": "22814"
  }
 ]

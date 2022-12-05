@@ -2,81 +2,113 @@
  {
   "id": 7313030001,
   "districtId": 7313030,
-  "name": "TOBATANG"
+  "districtName": "PAMMANA",
+  "name": "TOBATANG",
+  "postalCode": "90971"
  },
  {
   "id": 7313030002,
   "districtId": 7313030,
-  "name": "WECUDAI"
+  "districtName": "PAMMANA",
+  "name": "WECUDAI",
+  "postalCode": "90971"
  },
  {
   "id": 7313030003,
   "districtId": 7313030,
-  "name": "LAPAUKKE"
+  "districtName": "PAMMANA",
+  "name": "LAPAUKKE",
+  "postalCode": "90971"
  },
  {
   "id": 7313030004,
   "districtId": 7313030,
-  "name": "KAMPIRI"
+  "districtName": "PAMMANA",
+  "name": "KAMPIRI",
+  "postalCode": "90861"
  },
  {
   "id": 7313030005,
   "districtId": 7313030,
-  "name": "PALLAWARUKKA"
+  "districtName": "PAMMANA",
+  "name": "PALLAWARUKKA",
+  "postalCode": "90971"
  },
  {
   "id": 7313030006,
   "districtId": 7313030,
-  "name": "WATAMPANUA"
+  "districtName": "PAMMANA",
+  "name": "WATAMPANUA",
+  "postalCode": "90971"
  },
  {
   "id": 7313030007,
   "districtId": 7313030,
-  "name": "CINA"
+  "districtName": "PAMMANA",
+  "name": "CINA",
+  "postalCode": "90971"
  },
  {
   "id": 7313030008,
   "districtId": 7313030,
-  "name": "PAMMANA"
+  "districtName": "PAMMANA",
+  "name": "PAMMANA",
+  "postalCode": "90971"
  },
  {
   "id": 7313030009,
   "districtId": 7313030,
-  "name": "SIMPURUSIA"
+  "districtName": "PAMMANA",
+  "name": "SIMPURUSIA",
+  "postalCode": ""
  },
  {
   "id": 7313030010,
   "districtId": 7313030,
-  "name": "LEMPA"
+  "districtName": "PAMMANA",
+  "name": "LEMPA",
+  "postalCode": "90971"
  },
  {
   "id": 7313030011,
   "districtId": 7313030,
-  "name": "PATILA"
+  "districtName": "PAMMANA",
+  "name": "PATILA",
+  "postalCode": "90971"
  },
  {
   "id": 7313030012,
   "districtId": 7313030,
-  "name": "LAMPULUNG"
+  "districtName": "PAMMANA",
+  "name": "LAMPULUNG",
+  "postalCode": "90971"
  },
  {
   "id": 7313030013,
   "districtId": 7313030,
-  "name": "ABBANUANGE"
+  "districtName": "PAMMANA",
+  "name": "ABBANUANGE",
+  "postalCode": "90871"
  },
  {
   "id": 7313030014,
   "districtId": 7313030,
-  "name": "TADANG PALIE"
+  "districtName": "PAMMANA",
+  "name": "TADANG PALIE",
+  "postalCode": "91262"
  },
  {
   "id": 7313030015,
   "districtId": 7313030,
-  "name": "LAGOSI"
+  "districtName": "PAMMANA",
+  "name": "LAGOSI",
+  "postalCode": "90971"
  },
  {
   "id": 7313030016,
   "districtId": 7313030,
-  "name": "TONRONG TENGNGA"
+  "districtName": "PAMMANA",
+  "name": "TONRONG TENGNGA",
+  "postalCode": ""
  }
 ]

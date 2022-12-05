@@ -2,96 +2,134 @@
  {
   "id": 3516060001,
   "districtId": 3516060,
-  "name": "PURWOREJO"
+  "districtName": "PUNGGING",
+  "name": "PURWOREJO",
+  "postalCode": "23661"
  },
  {
   "id": 3516060002,
   "districtId": 3516060,
-  "name": "MOJOREJO"
+  "districtName": "PUNGGING",
+  "name": "MOJOREJO",
+  "postalCode": "39153"
  },
  {
   "id": 3516060003,
   "districtId": 3516060,
-  "name": "CURAHMOJO"
+  "districtName": "PUNGGING",
+  "name": "CURAHMOJO",
+  "postalCode": "61384"
  },
  {
   "id": 3516060004,
   "districtId": 3516060,
-  "name": "SEKARGADUNG"
+  "districtName": "PUNGGING",
+  "name": "SEKARGADUNG",
+  "postalCode": "61155"
  },
  {
   "id": 3516060005,
   "districtId": 3516060,
-  "name": "TEMPURAN"
+  "districtName": "PUNGGING",
+  "name": "TEMPURAN",
+  "postalCode": "34172"
  },
  {
   "id": 3516060006,
   "districtId": 3516060,
-  "name": "JATILANGKUNG"
+  "districtName": "PUNGGING",
+  "name": "JATILANGKUNG",
+  "postalCode": "61384"
  },
  {
   "id": 3516060007,
   "districtId": 3516060,
-  "name": "BANJARTANGGUL"
+  "districtName": "PUNGGING",
+  "name": "BANJARTANGGUL",
+  "postalCode": "61384"
  },
  {
   "id": 3516060008,
   "districtId": 3516060,
-  "name": "KALIPURO"
+  "districtName": "PUNGGING",
+  "name": "KALIPURO",
+  "postalCode": "68455"
  },
  {
   "id": 3516060009,
   "districtId": 3516060,
-  "name": "RANDUHARJO"
+  "districtName": "PUNGGING",
+  "name": "RANDUHARJO",
+  "postalCode": "61384"
  },
  {
   "id": 3516060010,
   "districtId": 3516060,
-  "name": "KEMBANGRINGGIT"
+  "districtName": "PUNGGING",
+  "name": "KEMBANGRINGGIT",
+  "postalCode": "61384"
  },
  {
   "id": 3516060011,
   "districtId": 3516060,
-  "name": "PUNGGING"
+  "districtName": "PUNGGING",
+  "name": "PUNGGING",
+  "postalCode": "61384"
  },
  {
   "id": 3516060012,
   "districtId": 3516060,
-  "name": "LEBAKSONO"
+  "districtName": "PUNGGING",
+  "name": "LEBAKSONO",
+  "postalCode": "61384"
  },
  {
   "id": 3516060013,
   "districtId": 3516060,
-  "name": "TUNGGALPAGER"
+  "districtName": "PUNGGING",
+  "name": "TUNGGALPAGER",
+  "postalCode": "61384"
  },
  {
   "id": 3516060014,
   "districtId": 3516060,
-  "name": "BALONGMASIN"
+  "districtName": "PUNGGING",
+  "name": "BALONGMASIN",
+  "postalCode": "61384"
  },
  {
   "id": 3516060015,
   "districtId": 3516060,
-  "name": "JABONTEGAL"
+  "districtName": "PUNGGING",
+  "name": "JABONTEGAL",
+  "postalCode": "61384"
  },
  {
   "id": 3516060016,
   "districtId": 3516060,
-  "name": "KEDUNGMUNGGAL"
+  "districtName": "PUNGGING",
+  "name": "KEDUNGMUNGGAL",
+  "postalCode": "61384"
  },
  {
   "id": 3516060017,
   "districtId": 3516060,
-  "name": "WATUKENONGO"
+  "districtName": "PUNGGING",
+  "name": "WATUKENONGO",
+  "postalCode": "61384"
  },
  {
   "id": 3516060018,
   "districtId": 3516060,
-  "name": "NGRAME"
+  "districtName": "PUNGGING",
+  "name": "NGRAME",
+  "postalCode": "61384"
  },
  {
   "id": 3516060019,
   "districtId": 3516060,
-  "name": "BANGUN"
+  "districtName": "PUNGGING",
+  "name": "BANGUN",
+  "postalCode": "21174"
  }
 ]

@@ -2,61 +2,85 @@
  {
   "id": 7317050011,
   "districtId": 7317050,
-  "name": "BOLU"
+  "districtName": "BASSESANGTEMPE",
+  "name": "BOLU",
+  "postalCode": "91992"
  },
  {
   "id": 7317050012,
   "districtId": 7317050,
-  "name": "LANGE"
+  "districtName": "BASSESANGTEMPE",
+  "name": "LANGE",
+  "postalCode": "91992"
  },
  {
   "id": 7317050013,
   "districtId": 7317050,
-  "name": "ANDULAN"
+  "districtName": "BASSESANGTEMPE",
+  "name": "ANDULAN",
+  "postalCode": "91992"
  },
  {
   "id": 7317050014,
   "districtId": 7317050,
-  "name": "SINAJI"
+  "districtName": "BASSESANGTEMPE",
+  "name": "SINAJI",
+  "postalCode": "91992"
  },
  {
   "id": 7317050015,
   "districtId": 7317050,
-  "name": "KANNA"
+  "districtName": "BASSESANGTEMPE",
+  "name": "KANNA",
+  "postalCode": "91992"
  },
  {
   "id": 7317050016,
   "districtId": 7317050,
-  "name": "LEDAN"
+  "districtName": "BASSESANGTEMPE",
+  "name": "LEDAN",
+  "postalCode": "91992"
  },
  {
   "id": 7317050017,
   "districtId": 7317050,
-  "name": "LISSAGA"
+  "districtName": "BASSESANGTEMPE",
+  "name": "LISSAGA",
+  "postalCode": "91992"
  },
  {
   "id": 7317050018,
   "districtId": 7317050,
-  "name": "TO'LONG"
+  "districtName": "BASSESANGTEMPE",
+  "name": "TO'LONG",
+  "postalCode": ""
  },
  {
   "id": 7317050019,
   "districtId": 7317050,
-  "name": "TABI"
+  "districtName": "BASSESANGTEMPE",
+  "name": "TABI",
+  "postalCode": "91992"
  },
  {
   "id": 7317050020,
   "districtId": 7317050,
-  "name": "KANNA UTARA"
+  "districtName": "BASSESANGTEMPE",
+  "name": "KANNA UTARA",
+  "postalCode": "91992"
  },
  {
   "id": 7317050021,
   "districtId": 7317050,
-  "name": "BUNTU BATU"
+  "districtName": "BASSESANGTEMPE",
+  "name": "BUNTU BATU",
+  "postalCode": "91992"
  },
  {
   "id": 7317050023,
   "districtId": 7317050,
-  "name": "MAPPETAJANG"
+  "districtName": "BASSESANGTEMPE",
+  "name": "MAPPETAJANG",
+  "postalCode": "91992"
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 5303101001,
   "districtId": 5303101,
-  "name": "NAIKEAN"
+  "districtName": "SEMAU SELATAN",
+  "name": "NAIKEAN",
+  "postalCode": ""
  },
  {
   "id": 5303101002,
   "districtId": 5303101,
-  "name": "AKLE"
+  "districtName": "SEMAU SELATAN",
+  "name": "AKLE",
+  "postalCode": "85353"
  },
  {
   "id": 5303101003,
   "districtId": 5303101,
-  "name": "UITIUH ANA"
+  "districtName": "SEMAU SELATAN",
+  "name": "UITIUH ANA",
+  "postalCode": "85353"
  },
  {
   "id": 5303101004,
   "districtId": 5303101,
-  "name": "ONANSILA"
+  "districtName": "SEMAU SELATAN",
+  "name": "ONANSILA",
+  "postalCode": ""
  },
  {
   "id": 5303101005,
   "districtId": 5303101,
-  "name": "UITIUHTUAN"
+  "districtName": "SEMAU SELATAN",
+  "name": "UITIUHTUAN",
+  "postalCode": ""
  },
  {
   "id": 5303101006,
   "districtId": 5303101,
-  "name": "UIBOA"
+  "districtName": "SEMAU SELATAN",
+  "name": "UIBOA",
+  "postalCode": "85353"
  }
 ]

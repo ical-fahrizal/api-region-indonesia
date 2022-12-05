@@ -2,76 +2,106 @@
  {
   "id": 1611040001,
   "districtId": 1611040,
-  "name": "PENANTIAN"
+  "districtName": "PASEMAH AIR KERUH",
+  "name": "PENANTIAN",
+  "postalCode": "32274"
  },
  {
   "id": 1611040002,
   "districtId": 1611040,
-  "name": "TALANG PADANG"
+  "districtName": "PASEMAH AIR KERUH",
+  "name": "TALANG PADANG",
+  "postalCode": "32265"
  },
  {
   "id": 1611040003,
   "districtId": 1611040,
-  "name": "TANJUNG BERINGIN"
+  "districtName": "PASEMAH AIR KERUH",
+  "name": "TANJUNG BERINGIN",
+  "postalCode": "22161"
  },
  {
   "id": 1611040004,
   "districtId": 1611040,
-  "name": "LAWANG AGUNG"
+  "districtName": "PASEMAH AIR KERUH",
+  "name": "LAWANG AGUNG",
+  "postalCode": "37111"
  },
  {
   "id": 1611040005,
   "districtId": 1611040,
-  "name": "PAGAR JATI"
+  "districtName": "PASEMAH AIR KERUH",
+  "name": "PAGAR JATI",
+  "postalCode": "20518"
  },
  {
   "id": 1611040006,
   "districtId": 1611040,
-  "name": "BANDAR AGUNG"
+  "districtName": "PASEMAH AIR KERUH",
+  "name": "BANDAR AGUNG",
+  "postalCode": "31414"
  },
  {
   "id": 1611040007,
   "districtId": 1611040,
-  "name": "KEBAN JATI"
+  "districtName": "PASEMAH AIR KERUH",
+  "name": "KEBAN JATI",
+  "postalCode": "38571"
  },
  {
   "id": 1611040008,
   "districtId": 1611040,
-  "name": "NANJUNGAN"
+  "districtName": "PASEMAH AIR KERUH",
+  "name": "NANJUNGAN",
+  "postalCode": "31452"
  },
  {
   "id": 1611040009,
   "districtId": 1611040,
-  "name": "TALANG RANDAI"
+  "districtName": "PASEMAH AIR KERUH",
+  "name": "TALANG RANDAI",
+  "postalCode": "31595"
  },
  {
   "id": 1611040010,
   "districtId": 1611040,
-  "name": "AIR MAYAN"
+  "districtName": "PASEMAH AIR KERUH",
+  "name": "AIR MAYAN",
+  "postalCode": "31595"
  },
  {
   "id": 1611040011,
   "districtId": 1611040,
-  "name": "PADANG GELAI"
+  "districtName": "PASEMAH AIR KERUH",
+  "name": "PADANG GELAI",
+  "postalCode": "31595"
  },
  {
   "id": 1611040012,
   "districtId": 1611040,
-  "name": "MUARA RUNGGA"
+  "districtName": "PASEMAH AIR KERUH",
+  "name": "MUARA RUNGGA",
+  "postalCode": "31595"
  },
  {
   "id": 1611040013,
   "districtId": 1611040,
-  "name": "PADANG BINDU"
+  "districtName": "PASEMAH AIR KERUH",
+  "name": "PADANG BINDU",
+  "postalCode": "31626"
  },
  {
   "id": 1611040014,
   "districtId": 1611040,
-  "name": "MUARA SINDANG"
+  "districtName": "PASEMAH AIR KERUH",
+  "name": "MUARA SINDANG",
+  "postalCode": "32272"
  },
  {
   "id": 1611040015,
   "districtId": 1611040,
-  "name": "MUARA AMAN"
+  "districtName": "PASEMAH AIR KERUH",
+  "name": "MUARA AMAN",
+  "postalCode": "23891"
  }
 ]

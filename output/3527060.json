@@ -2,81 +2,113 @@
  {
   "id": 3527060001,
   "districtId": 3527060,
-  "name": "KRAMAT"
+  "districtName": "KEDUNGDUNG",
+  "name": "KRAMAT",
+  "postalCode": "10450"
  },
  {
   "id": 3527060002,
   "districtId": 3527060,
-  "name": "KOMIS"
+  "districtName": "KEDUNGDUNG",
+  "name": "KOMIS",
+  "postalCode": "69252"
  },
  {
   "id": 3527060003,
   "districtId": 3527060,
-  "name": "BANYUKAPAH"
+  "districtName": "KEDUNGDUNG",
+  "name": "BANYUKAPAH",
+  "postalCode": "69252"
  },
  {
   "id": 3527060004,
   "districtId": 3527060,
-  "name": "RABASAN"
+  "districtName": "KEDUNGDUNG",
+  "name": "RABASAN",
+  "postalCode": "69281"
  },
  {
   "id": 3527060005,
   "districtId": 3527060,
-  "name": "ROHAYU"
+  "districtName": "KEDUNGDUNG",
+  "name": "ROHAYU",
+  "postalCode": "69252"
  },
  {
   "id": 3527060006,
   "districtId": 3527060,
-  "name": "MUKTESAREH"
+  "districtName": "KEDUNGDUNG",
+  "name": "MUKTESAREH",
+  "postalCode": ""
  },
  {
   "id": 3527060007,
   "districtId": 3527060,
-  "name": "BAJRASOKAH"
+  "districtName": "KEDUNGDUNG",
+  "name": "BAJRASOKAH",
+  "postalCode": "69252"
  },
  {
   "id": 3527060008,
   "districtId": 3527060,
-  "name": "NYELOH"
+  "districtName": "KEDUNGDUNG",
+  "name": "NYELOH",
+  "postalCode": "69252"
  },
  {
   "id": 3527060009,
   "districtId": 3527060,
-  "name": "BANJAR"
+  "districtName": "KEDUNGDUNG",
+  "name": "BANJAR",
+  "postalCode": "21263"
  },
  {
   "id": 3527060010,
   "districtId": 3527060,
-  "name": "OMBUL"
+  "districtName": "KEDUNGDUNG",
+  "name": "OMBUL",
+  "postalCode": "69151"
  },
  {
   "id": 3527060011,
   "districtId": 3527060,
-  "name": "PAJERUAN"
+  "districtName": "KEDUNGDUNG",
+  "name": "PAJERUAN",
+  "postalCode": "69252"
  },
  {
   "id": 3527060013,
   "districtId": 3527060,
-  "name": "BATOPORO BARAT"
+  "districtName": "KEDUNGDUNG",
+  "name": "BATOPORO BARAT",
+  "postalCode": "69252"
  },
  {
   "id": 3527060014,
   "districtId": 3527060,
-  "name": "BATOPORO TIMUR"
+  "districtName": "KEDUNGDUNG",
+  "name": "BATOPORO TIMUR",
+  "postalCode": "69252"
  },
  {
   "id": 3527060016,
   "districtId": 3527060,
-  "name": "DALEMAN"
+  "districtName": "KEDUNGDUNG",
+  "name": "DALEMAN",
+  "postalCode": "57571"
  },
  {
   "id": 3527060017,
   "districtId": 3527060,
-  "name": "PASARENAN"
+  "districtName": "KEDUNGDUNG",
+  "name": "PASARENAN",
+  "postalCode": "69252"
  },
  {
   "id": 3527060018,
   "districtId": 3527060,
-  "name": "PALENGGIYAN"
+  "districtName": "KEDUNGDUNG",
+  "name": "PALENGGIYAN",
+  "postalCode": ""
  }
 ]

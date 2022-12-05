@@ -2,61 +2,85 @@
  {
   "id": 1202053005,
   "districtId": 1202053,
-  "name": "BARINGIN JAYA"
+  "districtName": "PANYABUNGAN UTARA",
+  "name": "BARINGIN JAYA",
+  "postalCode": ""
  },
  {
   "id": 1202053006,
   "districtId": 1202053,
-  "name": "SIMANONDONG"
+  "districtName": "PANYABUNGAN UTARA",
+  "name": "SIMANONDONG",
+  "postalCode": "22978"
  },
  {
   "id": 1202053007,
   "districtId": 1202053,
-  "name": "RUMBIO"
+  "districtName": "PANYABUNGAN UTARA",
+  "name": "RUMBIO",
+  "postalCode": "22978"
  },
  {
   "id": 1202053008,
   "districtId": 1202053,
-  "name": "MOMPANG JULU"
+  "districtName": "PANYABUNGAN UTARA",
+  "name": "MOMPANG JULU",
+  "postalCode": "22978"
  },
  {
   "id": 1202053009,
   "districtId": 1202053,
-  "name": "MOMPANG JAE"
+  "districtName": "PANYABUNGAN UTARA",
+  "name": "MOMPANG JAE",
+  "postalCode": "22978"
  },
  {
   "id": 1202053010,
   "districtId": 1202053,
-  "name": "HUTA DAMAI"
+  "districtName": "PANYABUNGAN UTARA",
+  "name": "HUTA DAMAI",
+  "postalCode": ""
  },
  {
   "id": 1202053011,
   "districtId": 1202053,
-  "name": "SUKA RAMAI"
+  "districtName": "PANYABUNGAN UTARA",
+  "name": "SUKA RAMAI",
+  "postalCode": "23662"
  },
  {
   "id": 1202053012,
   "districtId": 1202053,
-  "name": "JAMBUR PADANG MATINGGI"
+  "districtName": "PANYABUNGAN UTARA",
+  "name": "JAMBUR PADANG MATINGGI",
+  "postalCode": "22978"
  },
  {
   "id": 1202053017,
   "districtId": 1202053,
-  "name": "SOPO SORIK"
+  "districtName": "PANYABUNGAN UTARA",
+  "name": "SOPO SORIK",
+  "postalCode": "22978"
  },
  {
   "id": 1202053018,
   "districtId": 1202053,
-  "name": "TANJUNG MOMPANG"
+  "districtName": "PANYABUNGAN UTARA",
+  "name": "TANJUNG MOMPANG",
+  "postalCode": "22978"
  },
  {
   "id": 1202053019,
   "districtId": 1202053,
-  "name": "TOR BANUA RAJA"
+  "districtName": "PANYABUNGAN UTARA",
+  "name": "TOR BANUA RAJA",
+  "postalCode": "22978"
  },
  {
   "id": 1202053020,
   "districtId": 1202053,
-  "name": "KAMPUNG BARU"
+  "districtName": "PANYABUNGAN UTARA",
+  "name": "KAMPUNG BARU",
+  "postalCode": "24652"
  }
 ]

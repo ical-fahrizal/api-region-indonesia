@@ -2,61 +2,85 @@
  {
   "id": 1501073001,
   "districtId": 1501073,
-  "name": "KOTO CAYO"
+  "districtName": "AIR HANGAT BARAT",
+  "name": "KOTO CAYO",
+  "postalCode": "37161"
  },
  {
   "id": 1501073002,
   "districtId": 1501073,
-  "name": "KECIL"
+  "districtName": "AIR HANGAT BARAT",
+  "name": "KECIL",
+  "postalCode": "37161"
  },
  {
   "id": 1501073003,
   "districtId": 1501073,
-  "name": "KOTO TENGAH"
+  "districtName": "AIR HANGAT BARAT",
+  "name": "KOTO TENGAH",
+  "postalCode": "37161"
  },
  {
   "id": 1501073004,
   "districtId": 1501073,
-  "name": "KOTO DATUK"
+  "districtName": "AIR HANGAT BARAT",
+  "name": "KOTO DATUK",
+  "postalCode": "37161"
  },
  {
   "id": 1501073005,
   "districtId": 1501073,
-  "name": "KOTO DUA BARU"
+  "districtName": "AIR HANGAT BARAT",
+  "name": "KOTO DUA BARU",
+  "postalCode": ""
  },
  {
   "id": 1501073006,
   "districtId": 1501073,
-  "name": "KOTO MUDIK"
+  "districtName": "AIR HANGAT BARAT",
+  "name": "KOTO MUDIK",
+  "postalCode": "37161"
  },
  {
   "id": 1501073007,
   "districtId": 1501073,
-  "name": "PUGU"
+  "districtName": "AIR HANGAT BARAT",
+  "name": "PUGU",
+  "postalCode": "37161"
  },
  {
   "id": 1501073008,
   "districtId": 1501073,
-  "name": "AIR PANAS BARU"
+  "districtName": "AIR HANGAT BARAT",
+  "name": "AIR PANAS BARU",
+  "postalCode": ""
  },
  {
   "id": 1501073009,
   "districtId": 1501073,
-  "name": "BARU"
+  "districtName": "AIR HANGAT BARAT",
+  "name": "BARU",
+  "postalCode": "23764"
  },
  {
   "id": 1501073010,
   "districtId": 1501073,
-  "name": "KOTO MEBAI"
+  "districtName": "AIR HANGAT BARAT",
+  "name": "KOTO MEBAI",
+  "postalCode": "37161"
  },
  {
   "id": 1501073011,
   "districtId": 1501073,
-  "name": "HAMPARAN PUGU"
+  "districtName": "AIR HANGAT BARAT",
+  "name": "HAMPARAN PUGU",
+  "postalCode": "37161"
  },
  {
   "id": 1501073012,
   "districtId": 1501073,
-  "name": "AIR BERSIH"
+  "districtName": "AIR HANGAT BARAT",
+  "name": "AIR BERSIH",
+  "postalCode": "37161"
  }
 ]

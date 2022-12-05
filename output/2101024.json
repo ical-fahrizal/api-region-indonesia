@@ -2,21 +2,29 @@
  {
   "id": 2101024003,
   "districtId": 2101024,
-  "name": "PENARAH"
+  "districtName": "BELAT",
+  "name": "PENARAH",
+  "postalCode": "29662"
  },
  {
   "id": 2101024008,
   "districtId": 2101024,
-  "name": "SUNGAI ASAM"
+  "districtName": "BELAT",
+  "name": "SUNGAI ASAM",
+  "postalCode": "25584"
  },
  {
   "id": 2101024009,
   "districtId": 2101024,
-  "name": "DEGONG"
+  "districtName": "BELAT",
+  "name": "DEGONG",
+  "postalCode": "29662"
  },
  {
   "id": 2101024010,
   "districtId": 2101024,
-  "name": "TEBIAS"
+  "districtName": "BELAT",
+  "name": "TEBIAS",
+  "postalCode": "29662"
  }
 ]

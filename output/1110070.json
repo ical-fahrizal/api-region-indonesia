@@ -2,231 +2,323 @@
  {
   "id": 1110070001,
   "districtId": 1110070,
-  "name": "PULO U"
+  "districtName": "JANGKA",
+  "name": "PULO U",
+  "postalCode": "24261"
  },
  {
   "id": 1110070002,
   "districtId": 1110070,
-  "name": "ABEUK JALOH"
+  "districtName": "JANGKA",
+  "name": "ABEUK JALOH",
+  "postalCode": "24261"
  },
  {
   "id": 1110070003,
   "districtId": 1110070,
-  "name": "PULO SEUNA"
+  "districtName": "JANGKA",
+  "name": "PULO SEUNA",
+  "postalCode": "24261"
  },
  {
   "id": 1110070004,
   "districtId": 1110070,
-  "name": "PULO BLANG"
+  "districtName": "JANGKA",
+  "name": "PULO BLANG",
+  "postalCode": "24455"
  },
  {
   "id": 1110070005,
   "districtId": 1110070,
-  "name": "PULO IBOIH"
+  "districtName": "JANGKA",
+  "name": "PULO IBOIH",
+  "postalCode": "24183"
  },
  {
   "id": 1110070006,
   "districtId": 1110070,
-  "name": "PULO REUDEUP"
+  "districtName": "JANGKA",
+  "name": "PULO REUDEUP",
+  "postalCode": "24261"
  },
  {
   "id": 1110070007,
   "districtId": 1110070,
-  "name": "GAMPONG MEULINTEUNG"
+  "districtName": "JANGKA",
+  "name": "GAMPONG MEULINTEUNG",
+  "postalCode": "24261"
  },
  {
   "id": 1110070008,
   "districtId": 1110070,
-  "name": "LAMKUTA"
+  "districtName": "JANGKA",
+  "name": "LAMKUTA",
+  "postalCode": "23764"
  },
  {
   "id": 1110070009,
   "districtId": 1110070,
-  "name": "RUSEB ARA"
+  "districtName": "JANGKA",
+  "name": "RUSEB ARA",
+  "postalCode": "24261"
  },
  {
   "id": 1110070010,
   "districtId": 1110070,
-  "name": "LUENG"
+  "districtName": "JANGKA",
+  "name": "LUENG",
+  "postalCode": "24261"
  },
  {
   "id": 1110070011,
   "districtId": 1110070,
-  "name": "RUSEB DAYAH"
+  "districtName": "JANGKA",
+  "name": "RUSEB DAYAH",
+  "postalCode": "24261"
  },
  {
   "id": 1110070012,
   "districtId": 1110070,
-  "name": "KAMBUEK"
+  "districtName": "JANGKA",
+  "name": "KAMBUEK",
+  "postalCode": ""
  },
  {
   "id": 1110070013,
   "districtId": 1110070,
-  "name": "BADA TIMU"
+  "districtName": "JANGKA",
+  "name": "BADA TIMU",
+  "postalCode": ""
  },
  {
   "id": 1110070014,
   "districtId": 1110070,
-  "name": "BADA BARAT"
+  "districtName": "JANGKA",
+  "name": "BADA BARAT",
+  "postalCode": "24261"
  },
  {
   "id": 1110070015,
   "districtId": 1110070,
-  "name": "BARAT LANYAN"
+  "districtName": "JANGKA",
+  "name": "BARAT LANYAN",
+  "postalCode": "24261"
  },
  {
   "id": 1110070016,
   "districtId": 1110070,
-  "name": "GEUNDOT"
+  "districtName": "JANGKA",
+  "name": "GEUNDOT",
+  "postalCode": "24261"
  },
  {
   "id": 1110070017,
   "districtId": 1110070,
-  "name": "MEUNASAH KRUENG"
+  "districtName": "JANGKA",
+  "name": "MEUNASAH KRUENG",
+  "postalCode": "23672"
  },
  {
   "id": 1110070018,
   "districtId": 1110070,
-  "name": "PAYA BIENG"
+  "districtName": "JANGKA",
+  "name": "PAYA BIENG",
+  "postalCode": "24261"
  },
  {
   "id": 1110070019,
   "districtId": 1110070,
-  "name": "JANGKA ALUE"
+  "districtName": "JANGKA",
+  "name": "JANGKA ALUE",
+  "postalCode": "24261"
  },
  {
   "id": 1110070020,
   "districtId": 1110070,
-  "name": "JANGKA KEUTAPANG"
+  "districtName": "JANGKA",
+  "name": "JANGKA KEUTAPANG",
+  "postalCode": "24261"
  },
  {
   "id": 1110070021,
   "districtId": 1110070,
-  "name": "LAMPOH RAYEUK"
+  "districtName": "JANGKA",
+  "name": "LAMPOH RAYEUK",
+  "postalCode": "24261"
  },
  {
   "id": 1110070022,
   "districtId": 1110070,
-  "name": "LHOK BUGENG"
+  "districtName": "JANGKA",
+  "name": "LHOK BUGENG",
+  "postalCode": "24261"
  },
  {
   "id": 1110070023,
   "districtId": 1110070,
-  "name": "LINGGONG"
+  "districtName": "JANGKA",
+  "name": "LINGGONG",
+  "postalCode": "24261"
  },
  {
   "id": 1110070024,
   "districtId": 1110070,
-  "name": "ALUE BUYA"
+  "districtName": "JANGKA",
+  "name": "ALUE BUYA",
+  "postalCode": "24392"
  },
  {
   "id": 1110070025,
   "districtId": 1110070,
-  "name": "TANOH ANOE"
+  "districtName": "JANGKA",
+  "name": "TANOH ANOE",
+  "postalCode": "24454"
  },
  {
   "id": 1110070026,
   "districtId": 1110070,
-  "name": "TANJONGAN"
+  "districtName": "JANGKA",
+  "name": "TANJONGAN",
+  "postalCode": "24261"
  },
  {
   "id": 1110070027,
   "districtId": 1110070,
-  "name": "JANGKA ALUE BIE"
+  "districtName": "JANGKA",
+  "name": "JANGKA ALUE BIE",
+  "postalCode": "24261"
  },
  {
   "id": 1110070028,
   "districtId": 1110070,
-  "name": "JANGKA MESJID"
+  "districtName": "JANGKA",
+  "name": "JANGKA MESJID",
+  "postalCode": "24261"
  },
  {
   "id": 1110070029,
   "districtId": 1110070,
-  "name": "JANGKA ALUE U"
+  "districtName": "JANGKA",
+  "name": "JANGKA ALUE U",
+  "postalCode": "24261"
  },
  {
   "id": 1110070030,
   "districtId": 1110070,
-  "name": "PANTE PEUSANGAN"
+  "districtName": "JANGKA",
+  "name": "PANTE PEUSANGAN",
+  "postalCode": "24261"
  },
  {
   "id": 1110070031,
   "districtId": 1110070,
-  "name": "BUGAK KRUENG"
+  "districtName": "JANGKA",
+  "name": "BUGAK KRUENG",
+  "postalCode": "24261"
  },
  {
   "id": 1110070032,
   "districtId": 1110070,
-  "name": "BUGAK MESJID"
+  "districtName": "JANGKA",
+  "name": "BUGAK MESJID",
+  "postalCode": "24261"
  },
  {
   "id": 1110070033,
   "districtId": 1110070,
-  "name": "BUGAK KRUENG MATE"
+  "districtName": "JANGKA",
+  "name": "BUGAK KRUENG MATE",
+  "postalCode": "24261"
  },
  {
   "id": 1110070034,
   "districtId": 1110070,
-  "name": "BUGENG"
+  "districtName": "JANGKA",
+  "name": "BUGENG",
+  "postalCode": "24261"
  },
  {
   "id": 1110070035,
   "districtId": 1110070,
-  "name": "KUALA CEURAPE"
+  "districtName": "JANGKA",
+  "name": "KUALA CEURAPE",
+  "postalCode": "24261"
  },
  {
   "id": 1110070036,
   "districtId": 1110070,
-  "name": "ALUE BAYEU UTANG"
+  "districtName": "JANGKA",
+  "name": "ALUE BAYEU UTANG",
+  "postalCode": "24261"
  },
  {
   "id": 1110070037,
   "districtId": 1110070,
-  "name": "ULEE CEUE"
+  "districtName": "JANGKA",
+  "name": "ULEE CEUE",
+  "postalCode": "24261"
  },
  {
   "id": 1110070038,
   "districtId": 1110070,
-  "name": "ALUE KUTA"
+  "districtName": "JANGKA",
+  "name": "ALUE KUTA",
+  "postalCode": "24261"
  },
  {
   "id": 1110070039,
   "districtId": 1110070,
-  "name": "PUNJOT"
+  "districtName": "JANGKA",
+  "name": "PUNJOT",
+  "postalCode": "24261"
  },
  {
   "id": 1110070040,
   "districtId": 1110070,
-  "name": "PULO PINEUNG MNS II"
+  "districtName": "JANGKA",
+  "name": "PULO PINEUNG MNS II",
+  "postalCode": ""
  },
  {
   "id": 1110070041,
   "districtId": 1110070,
-  "name": "BUGAK BLANG"
+  "districtName": "JANGKA",
+  "name": "BUGAK BLANG",
+  "postalCode": "24261"
  },
  {
   "id": 1110070042,
   "districtId": 1110070,
-  "name": "PANTE SUKON"
+  "districtName": "JANGKA",
+  "name": "PANTE SUKON",
+  "postalCode": "24261"
  },
  {
   "id": 1110070043,
   "districtId": 1110070,
-  "name": "PANTE PAKU"
+  "districtName": "JANGKA",
+  "name": "PANTE PAKU",
+  "postalCode": "24261"
  },
  {
   "id": 1110070044,
   "districtId": 1110070,
-  "name": "PANTE RANUB"
+  "districtName": "JANGKA",
+  "name": "PANTE RANUB",
+  "postalCode": "24261"
  },
  {
   "id": 1110070045,
   "districtId": 1110070,
-  "name": "ALUE BUYA PASI"
+  "districtName": "JANGKA",
+  "name": "ALUE BUYA PASI",
+  "postalCode": "24261"
  },
  {
   "id": 1110070046,
   "districtId": 1110070,
-  "name": "ALUE BIE PUSONG"
+  "districtName": "JANGKA",
+  "name": "ALUE BIE PUSONG",
+  "postalCode": "24261"
  }
 ]

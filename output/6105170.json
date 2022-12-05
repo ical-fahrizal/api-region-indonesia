@@ -2,56 +2,78 @@
  {
   "id": 6105170001,
   "districtId": 6105170,
-  "name": "MENYABO"
+  "districtName": "TAYAN HULU",
+  "name": "MENYABO",
+  "postalCode": "78562"
  },
  {
   "id": 6105170002,
   "districtId": 6105170,
-  "name": "BINJAI"
+  "districtName": "TAYAN HULU",
+  "name": "BINJAI",
+  "postalCode": "24473"
  },
  {
   "id": 6105170003,
   "districtId": 6105170,
-  "name": "PANDAN SEMBUAT"
+  "districtName": "TAYAN HULU",
+  "name": "PANDAN SEMBUAT",
+  "postalCode": "78562"
  },
  {
   "id": 6105170004,
   "districtId": 6105170,
-  "name": "KEDAKAS"
+  "districtName": "TAYAN HULU",
+  "name": "KEDAKAS",
+  "postalCode": "78562"
  },
  {
   "id": 6105170005,
   "districtId": 6105170,
-  "name": "SOSOK"
+  "districtName": "TAYAN HULU",
+  "name": "SOSOK",
+  "postalCode": "78562"
  },
  {
   "id": 6105170006,
   "districtId": 6105170,
-  "name": "PERUAN DALAM"
+  "districtName": "TAYAN HULU",
+  "name": "PERUAN DALAM",
+  "postalCode": "78562"
  },
  {
   "id": 6105170007,
   "districtId": 6105170,
-  "name": "MANDONG"
+  "districtName": "TAYAN HULU",
+  "name": "MANDONG",
+  "postalCode": "57467"
  },
  {
   "id": 6105170008,
   "districtId": 6105170,
-  "name": "JANJANG"
+  "districtName": "TAYAN HULU",
+  "name": "JANJANG",
+  "postalCode": "58372"
  },
  {
   "id": 6105170009,
   "districtId": 6105170,
-  "name": "RIYAI"
+  "districtName": "TAYAN HULU",
+  "name": "RIYAI",
+  "postalCode": "78562"
  },
  {
   "id": 6105170010,
   "districtId": 6105170,
-  "name": "BERAKAK"
+  "districtName": "TAYAN HULU",
+  "name": "BERAKAK",
+  "postalCode": "78562"
  },
  {
   "id": 6105170011,
   "districtId": 6105170,
-  "name": "ENGKASAN"
+  "districtName": "TAYAN HULU",
+  "name": "ENGKASAN",
+  "postalCode": "78562"
  }
 ]

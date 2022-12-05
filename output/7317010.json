@@ -2,66 +2,92 @@
  {
   "id": 7317010010,
   "districtId": 7317010,
-  "name": "RIWANG"
+  "districtName": "LAROMPONG",
+  "name": "RIWANG",
+  "postalCode": "76261"
  },
  {
   "id": 7317010011,
   "districtId": 7317010,
-  "name": "RANTE BELU"
+  "districtName": "LAROMPONG",
+  "name": "RANTE BELU",
+  "postalCode": ""
  },
  {
   "id": 7317010012,
   "districtId": 7317010,
-  "name": "BUNTU MATABBING"
+  "districtName": "LAROMPONG",
+  "name": "BUNTU MATABBING",
+  "postalCode": ""
  },
  {
   "id": 7317010013,
   "districtId": 7317010,
-  "name": "KOMBA"
+  "districtName": "LAROMPONG",
+  "name": "KOMBA",
+  "postalCode": "86572"
  },
  {
   "id": 7317010014,
   "districtId": 7317010,
-  "name": "BILANTE"
+  "districtName": "LAROMPONG",
+  "name": "BILANTE",
+  "postalCode": "91997"
  },
  {
   "id": 7317010015,
   "districtId": 7317010,
-  "name": "BINTURU"
+  "districtName": "LAROMPONG",
+  "name": "BINTURU",
+  "postalCode": "71552"
  },
  {
   "id": 7317010016,
   "districtId": 7317010,
-  "name": "BUKIT SUTRA"
+  "districtName": "LAROMPONG",
+  "name": "BUKIT SUTRA",
+  "postalCode": ""
  },
  {
   "id": 7317010017,
   "districtId": 7317010,
-  "name": "RANTE ALANG"
+  "districtName": "LAROMPONG",
+  "name": "RANTE ALANG",
+  "postalCode": "91997"
  },
  {
   "id": 7317010018,
   "districtId": 7317010,
-  "name": "LUMARING"
+  "districtName": "LAROMPONG",
+  "name": "LUMARING",
+  "postalCode": "91997"
  },
  {
   "id": 7317010019,
   "districtId": 7317010,
-  "name": "LAROMPONG"
+  "districtName": "LAROMPONG",
+  "name": "LAROMPONG",
+  "postalCode": "91997"
  },
  {
   "id": 7317010020,
   "districtId": 7317010,
-  "name": "RIWANG SELATAN"
+  "districtName": "LAROMPONG",
+  "name": "RIWANG SELATAN",
+  "postalCode": "91997"
  },
  {
   "id": 7317010021,
   "districtId": 7317010,
-  "name": "BUNTU PASIK"
+  "districtName": "LAROMPONG",
+  "name": "BUNTU PASIK",
+  "postalCode": "91997"
  },
  {
   "id": 7317010022,
   "districtId": 7317010,
-  "name": "KOMBA SELATAN"
+  "districtName": "LAROMPONG",
+  "name": "KOMBA SELATAN",
+  "postalCode": "91997"
  }
 ]

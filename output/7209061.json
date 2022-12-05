@@ -2,46 +2,64 @@
  {
   "id": 7209061001,
   "districtId": 7209061,
-  "name": "KULINGKINARI"
+  "districtName": "BATUDAKA",
+  "name": "KULINGKINARI",
+  "postalCode": "94691"
  },
  {
   "id": 7209061002,
   "districtId": 7209061,
-  "name": "MOLOWAGU"
+  "districtName": "BATUDAKA",
+  "name": "MOLOWAGU",
+  "postalCode": "94691"
  },
  {
   "id": 7209061003,
   "districtId": 7209061,
-  "name": "BOMBA"
+  "districtName": "BATUDAKA",
+  "name": "BOMBA",
+  "postalCode": "94654"
  },
  {
   "id": 7209061004,
   "districtId": 7209061,
-  "name": "TUMBULAWA"
+  "districtName": "BATUDAKA",
+  "name": "TUMBULAWA",
+  "postalCode": "94691"
  },
  {
   "id": 7209061009,
   "districtId": 7209061,
-  "name": "PATOYAN"
+  "districtName": "BATUDAKA",
+  "name": "PATOYAN",
+  "postalCode": ""
  },
  {
   "id": 7209061011,
   "districtId": 7209061,
-  "name": "MALINO"
+  "districtName": "BATUDAKA",
+  "name": "MALINO",
+  "postalCode": "22756"
  },
  {
   "id": 7209061012,
   "districtId": 7209061,
-  "name": "SIATU"
+  "districtName": "BATUDAKA",
+  "name": "SIATU",
+  "postalCode": "94691"
  },
  {
   "id": 7209061013,
   "districtId": 7209061,
-  "name": "KAMBUTU"
+  "districtName": "BATUDAKA",
+  "name": "KAMBUTU",
+  "postalCode": "94691"
  },
  {
   "id": 7209061014,
   "districtId": 7209061,
-  "name": "LINDO"
+  "districtName": "BATUDAKA",
+  "name": "LINDO",
+  "postalCode": "94691"
  }
 ]

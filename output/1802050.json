@@ -2,136 +2,190 @@
  {
   "id": 1802050001,
   "districtId": 1802050,
-  "name": "TAMANSARI"
+  "districtName": "PUGUNG",
+  "name": "TAMANSARI",
+  "postalCode": "35366"
  },
  {
   "id": 1802050002,
   "districtId": 1802050,
-  "name": "CAMPANG WAY HANDAK"
+  "districtName": "PUGUNG",
+  "name": "CAMPANG WAY HANDAK",
+  "postalCode": "35675"
  },
  {
   "id": 1802050003,
   "districtId": 1802050,
-  "name": "GADING"
+  "districtName": "PUGUNG",
+  "name": "GADING",
+  "postalCode": "22755"
  },
  {
   "id": 1802050004,
   "districtId": 1802050,
-  "name": "SUMANDA"
+  "districtName": "PUGUNG",
+  "name": "SUMANDA",
+  "postalCode": "35675"
  },
  {
   "id": 1802050005,
   "districtId": 1802050,
-  "name": "TANJUNG AGUNG"
+  "districtName": "PUGUNG",
+  "name": "TANJUNG AGUNG",
+  "postalCode": "37216"
  },
  {
   "id": 1802050006,
   "districtId": 1802050,
-  "name": "BABAKAN"
+  "districtName": "PUGUNG",
+  "name": "BABAKAN",
+  "postalCode": "35675"
  },
  {
   "id": 1802050007,
   "districtId": 1802050,
-  "name": "GUNUNG KASIH"
+  "districtName": "PUGUNG",
+  "name": "GUNUNG KASIH",
+  "postalCode": "35675"
  },
  {
   "id": 1802050008,
   "districtId": 1802050,
-  "name": "TANJUNG KEMALA"
+  "districtName": "PUGUNG",
+  "name": "TANJUNG KEMALA",
+  "postalCode": "32111"
  },
  {
   "id": 1802050009,
   "districtId": 1802050,
-  "name": "BINJAI WANGI"
+  "districtName": "PUGUNG",
+  "name": "BINJAI WANGI",
+  "postalCode": "35675"
  },
  {
   "id": 1802050010,
   "districtId": 1802050,
-  "name": "SUKAJADI"
+  "districtName": "PUGUNG",
+  "name": "SUKAJADI",
+  "postalCode": "24472"
  },
  {
   "id": 1802050011,
   "districtId": 1802050,
-  "name": "RANTAU TIJANG"
+  "districtName": "PUGUNG",
+  "name": "RANTAU TIJANG",
+  "postalCode": "35682"
  },
  {
   "id": 1802050012,
   "districtId": 1802050,
-  "name": "SINAR AGUNG"
+  "districtName": "PUGUNG",
+  "name": "SINAR AGUNG",
+  "postalCode": "35675"
  },
  {
   "id": 1802050013,
   "districtId": 1802050,
-  "name": "NEGERI RATU"
+  "districtName": "PUGUNG",
+  "name": "NEGERI RATU",
+  "postalCode": "32387"
  },
  {
   "id": 1802050014,
   "districtId": 1802050,
-  "name": "WAY JAHA"
+  "districtName": "PUGUNG",
+  "name": "WAY JAHA",
+  "postalCode": "35675"
  },
  {
   "id": 1802050015,
   "districtId": 1802050,
-  "name": "TIUH MEMON"
+  "districtName": "PUGUNG",
+  "name": "TIUH MEMON",
+  "postalCode": "35675"
  },
  {
   "id": 1802050016,
   "districtId": 1802050,
-  "name": "BANJAR AGUNG ILIR"
+  "districtName": "PUGUNG",
+  "name": "BANJAR AGUNG ILIR",
+  "postalCode": "35675"
  },
  {
   "id": 1802050017,
   "districtId": 1802050,
-  "name": "BANJAR AGUNG UDIK"
+  "districtName": "PUGUNG",
+  "name": "BANJAR AGUNG UDIK",
+  "postalCode": "35675"
  },
  {
   "id": 1802050018,
   "districtId": 1802050,
-  "name": "TANJUNG HERAN"
+  "districtName": "PUGUNG",
+  "name": "TANJUNG HERAN",
+  "postalCode": "39182"
  },
  {
   "id": 1802050019,
   "districtId": 1802050,
-  "name": "TANGKIT SERDANG"
+  "districtName": "PUGUNG",
+  "name": "TANGKIT SERDANG",
+  "postalCode": "35675"
  },
  {
   "id": 1802050020,
   "districtId": 1802050,
-  "name": "WAY PRING"
+  "districtName": "PUGUNG",
+  "name": "WAY PRING",
+  "postalCode": ""
  },
  {
   "id": 1802050021,
   "districtId": 1802050,
-  "name": "PUNGKUT"
+  "districtName": "PUGUNG",
+  "name": "PUNGKUT",
+  "postalCode": "35675"
  },
  {
   "id": 1802050022,
   "districtId": 1802050,
-  "name": "SUKAMAJU"
+  "districtName": "PUGUNG",
+  "name": "SUKAMAJU",
+  "postalCode": "22465"
  },
  {
   "id": 1802050023,
   "districtId": 1802050,
-  "name": "SUKAMULYA"
+  "districtName": "PUGUNG",
+  "name": "SUKAMULYA",
+  "postalCode": "30657"
  },
  {
   "id": 1802050024,
   "districtId": 1802050,
-  "name": "KAYU HUBI"
+  "districtName": "PUGUNG",
+  "name": "KAYU HUBI",
+  "postalCode": ""
  },
  {
   "id": 1802050025,
   "districtId": 1802050,
-  "name": "GUNUNG TIGA"
+  "districtName": "PUGUNG",
+  "name": "GUNUNG TIGA",
+  "postalCode": "32211"
  },
  {
   "id": 1802050026,
   "districtId": 1802050,
-  "name": "WAY MANAK"
+  "districtName": "PUGUNG",
+  "name": "WAY MANAK",
+  "postalCode": "35675"
  },
  {
   "id": 1802050027,
   "districtId": 1802050,
-  "name": "TALANG LEBAR"
+  "districtName": "PUGUNG",
+  "name": "TALANG LEBAR",
+  "postalCode": "35675"
  }
 ]

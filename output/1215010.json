@@ -2,111 +2,155 @@
  {
   "id": 1215010001,
   "districtId": 1215010,
-  "name": "TUKKA DOLOK"
+  "districtName": "PAKKAT",
+  "name": "TUKKA DOLOK",
+  "postalCode": "22455"
  },
  {
   "id": 1215010002,
   "districtId": 1215010,
-  "name": "PAKKAT HAUAGONG"
+  "districtName": "PAKKAT",
+  "name": "PAKKAT HAUAGONG",
+  "postalCode": "22455"
  },
  {
   "id": 1215010003,
   "districtId": 1215010,
-  "name": "PURBA BERSATU"
+  "districtName": "PAKKAT",
+  "name": "PURBA BERSATU",
+  "postalCode": "22455"
  },
  {
   "id": 1215010004,
   "districtId": 1215010,
-  "name": "PURBA BARINGIN"
+  "districtName": "PAKKAT",
+  "name": "PURBA BARINGIN",
+  "postalCode": "22455"
  },
  {
   "id": 1215010005,
   "districtId": 1215010,
-  "name": "KARYA"
+  "districtName": "PAKKAT",
+  "name": "KARYA",
+  "postalCode": "22455"
  },
  {
   "id": 1215010006,
   "districtId": 1215010,
-  "name": "MANALU"
+  "districtName": "PAKKAT",
+  "name": "MANALU",
+  "postalCode": "22455"
  },
  {
   "id": 1215010007,
   "districtId": 1215010,
-  "name": "PULO GODANG"
+  "districtName": "PAKKAT",
+  "name": "PULO GODANG",
+  "postalCode": "22455"
  },
  {
   "id": 1215010008,
   "districtId": 1215010,
-  "name": "SIPAGABU"
+  "districtName": "PAKKAT",
+  "name": "SIPAGABU",
+  "postalCode": "22755"
  },
  {
   "id": 1215010009,
   "districtId": 1215010,
-  "name": "BANUAREA"
+  "districtName": "PAKKAT",
+  "name": "BANUAREA",
+  "postalCode": "22455"
  },
  {
   "id": 1215010010,
   "districtId": 1215010,
-  "name": "SIJARANGO"
+  "districtName": "PAKKAT",
+  "name": "SIJARANGO",
+  "postalCode": "22455"
  },
  {
   "id": 1215010011,
   "districtId": 1215010,
-  "name": "LUMBAN TONGA TONGA"
+  "districtName": "PAKKAT",
+  "name": "LUMBAN TONGA TONGA",
+  "postalCode": "22474"
  },
  {
   "id": 1215010012,
   "districtId": 1215010,
-  "name": "RURA TANJUNG"
+  "districtName": "PAKKAT",
+  "name": "RURA TANJUNG",
+  "postalCode": "22455"
  },
  {
   "id": 1215010013,
   "districtId": 1215010,
-  "name": "RURA AEK SOPANG"
+  "districtName": "PAKKAT",
+  "name": "RURA AEK SOPANG",
+  "postalCode": "22455"
  },
  {
   "id": 1215010014,
   "districtId": 1215010,
-  "name": "SIAMBATON"
+  "districtName": "PAKKAT",
+  "name": "SIAMBATON",
+  "postalCode": "22455"
  },
  {
   "id": 1215010015,
   "districtId": 1215010,
-  "name": "PARMONANGAN"
+  "districtName": "PAKKAT",
+  "name": "PARMONANGAN",
+  "postalCode": "22455"
  },
  {
   "id": 1215010016,
   "districtId": 1215010,
-  "name": "AMBOBI PARANGINAN"
+  "districtName": "PAKKAT",
+  "name": "AMBOBI PARANGINAN",
+  "postalCode": "22455"
  },
  {
   "id": 1215010017,
   "districtId": 1215010,
-  "name": "PURBA SIANJUR"
+  "districtName": "PAKKAT",
+  "name": "PURBA SIANJUR",
+  "postalCode": "22455"
  },
  {
   "id": 1215010018,
   "districtId": 1215010,
-  "name": "PEADUNGDUNG"
+  "districtName": "PAKKAT",
+  "name": "PEADUNGDUNG",
+  "postalCode": "22455"
  },
  {
   "id": 1215010019,
   "districtId": 1215010,
-  "name": "SIJARANGO I"
+  "districtName": "PAKKAT",
+  "name": "SIJARANGO I",
+  "postalCode": "22455"
  },
  {
   "id": 1215010020,
   "districtId": 1215010,
-  "name": "HAUAGONG"
+  "districtName": "PAKKAT",
+  "name": "HAUAGONG",
+  "postalCode": "22455"
  },
  {
   "id": 1215010021,
   "districtId": 1215010,
-  "name": "PANGGUGUNAN"
+  "districtName": "PAKKAT",
+  "name": "PANGGUGUNAN",
+  "postalCode": "22455"
  },
  {
   "id": 1215010022,
   "districtId": 1215010,
-  "name": "SIAMBATON PAHAE"
+  "districtName": "PAKKAT",
+  "name": "SIAMBATON PAHAE",
+  "postalCode": "22455"
  }
 ]

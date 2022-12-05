@@ -2,26 +2,36 @@
  {
   "id": 6472020006,
   "districtId": 6472020,
-  "name": "SELILI"
+  "districtName": "SAMARINDA ILIR",
+  "name": "SELILI",
+  "postalCode": "75114"
  },
  {
   "id": 6472020007,
   "districtId": 6472020,
-  "name": "SUNGAI DAMA"
+  "districtName": "SAMARINDA ILIR",
+  "name": "SUNGAI DAMA",
+  "postalCode": ""
  },
  {
   "id": 6472020008,
   "districtId": 6472020,
-  "name": "SIDODAMAI"
+  "districtName": "SAMARINDA ILIR",
+  "name": "SIDODAMAI",
+  "postalCode": "75116"
  },
  {
   "id": 6472020009,
   "districtId": 6472020,
-  "name": "SIDOMULYO"
+  "districtName": "SAMARINDA ILIR",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  },
  {
   "id": 6472020014,
   "districtId": 6472020,
-  "name": "PELITA"
+  "districtName": "SAMARINDA ILIR",
+  "name": "PELITA",
+  "postalCode": "20621"
  }
 ]

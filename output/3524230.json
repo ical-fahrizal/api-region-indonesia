@@ -2,96 +2,134 @@
  {
   "id": 3524230001,
   "districtId": 3524230,
-  "name": "DURI KULON"
+  "districtName": "LAREN",
+  "name": "DURI KULON",
+  "postalCode": "62262"
  },
  {
   "id": 3524230002,
   "districtId": 3524230,
-  "name": "CENTINI"
+  "districtName": "LAREN",
+  "name": "CENTINI",
+  "postalCode": "62262"
  },
  {
   "id": 3524230004,
   "districtId": 3524230,
-  "name": "PESANGGRAHAN"
+  "districtName": "LAREN",
+  "name": "PESANGGRAHAN",
+  "postalCode": "12320"
  },
  {
   "id": 3524230005,
   "districtId": 3524230,
-  "name": "JABUNG"
+  "districtName": "LAREN",
+  "name": "JABUNG",
+  "postalCode": "34384"
  },
  {
   "id": 3524230006,
   "districtId": 3524230,
-  "name": "DATENG"
+  "districtName": "LAREN",
+  "name": "DATENG",
+  "postalCode": "62262"
  },
  {
   "id": 3524230007,
   "districtId": 3524230,
-  "name": "GELAP"
+  "districtName": "LAREN",
+  "name": "GELAP",
+  "postalCode": "62262"
  },
  {
   "id": 3524230008,
   "districtId": 3524230,
-  "name": "MOJO ASEM"
+  "districtName": "LAREN",
+  "name": "MOJO ASEM",
+  "postalCode": "62262"
  },
  {
   "id": 3524230009,
   "districtId": 3524230,
-  "name": "SISER"
+  "districtName": "LAREN",
+  "name": "SISER",
+  "postalCode": "62262"
  },
  {
   "id": 3524230010,
   "districtId": 3524230,
-  "name": "BULUTIGO"
+  "districtName": "LAREN",
+  "name": "BULUTIGO",
+  "postalCode": "62262"
  },
  {
   "id": 3524230011,
   "districtId": 3524230,
-  "name": "PELANGWOT"
+  "districtName": "LAREN",
+  "name": "PELANGWOT",
+  "postalCode": "62262"
  },
  {
   "id": 3524230012,
   "districtId": 3524230,
-  "name": "LAREN"
+  "districtName": "LAREN",
+  "name": "LAREN",
+  "postalCode": "52273"
  },
  {
   "id": 3524230013,
   "districtId": 3524230,
-  "name": "GAMPANG SEJATI"
+  "districtName": "LAREN",
+  "name": "GAMPANG SEJATI",
+  "postalCode": "62262"
  },
  {
   "id": 3524230014,
   "districtId": 3524230,
-  "name": "TAMAN PRIJEK"
+  "districtName": "LAREN",
+  "name": "TAMAN PRIJEK",
+  "postalCode": "62262"
  },
  {
   "id": 3524230015,
   "districtId": 3524230,
-  "name": "KARANGTAWAR"
+  "districtName": "LAREN",
+  "name": "KARANGTAWAR",
+  "postalCode": "62262"
  },
  {
   "id": 3524230016,
   "districtId": 3524230,
-  "name": "TEJOASRI"
+  "districtName": "LAREN",
+  "name": "TEJOASRI",
+  "postalCode": "62262"
  },
  {
   "id": 3524230017,
   "districtId": 3524230,
-  "name": "GODOG"
+  "districtName": "LAREN",
+  "name": "GODOG",
+  "postalCode": "44182"
  },
  {
   "id": 3524230018,
   "districtId": 3524230,
-  "name": "BULUBRANGSI"
+  "districtName": "LAREN",
+  "name": "BULUBRANGSI",
+  "postalCode": "62262"
  },
  {
   "id": 3524230019,
   "districtId": 3524230,
-  "name": "KARANGWUNGU LOR"
+  "districtName": "LAREN",
+  "name": "KARANGWUNGU LOR",
+  "postalCode": "62262"
  },
  {
   "id": 3524230020,
   "districtId": 3524230,
-  "name": "BRANGSI"
+  "districtName": "LAREN",
+  "name": "BRANGSI",
+  "postalCode": "62262"
  }
 ]

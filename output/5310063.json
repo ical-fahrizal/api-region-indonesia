@@ -2,16 +2,22 @@
  {
   "id": 5310063002,
   "districtId": 5310063,
-  "name": "NELLE LORANG"
+  "districtName": "NELLE",
+  "name": "NELLE LORANG",
+  "postalCode": "86116"
  },
  {
   "id": 5310063003,
   "districtId": 5310063,
-  "name": "MANUBURA"
+  "districtName": "NELLE",
+  "name": "MANUBURA",
+  "postalCode": "86116"
  },
  {
   "id": 5310063004,
   "districtId": 5310063,
-  "name": "NELLE BARAT"
+  "districtName": "NELLE",
+  "name": "NELLE BARAT",
+  "postalCode": "86116"
  }
 ]

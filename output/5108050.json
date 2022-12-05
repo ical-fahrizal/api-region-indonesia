@@ -2,76 +2,106 @@
  {
   "id": 5108050001,
   "districtId": 5108050,
-  "name": "PANCASARI"
+  "districtName": "SUKASADA",
+  "name": "PANCASARI",
+  "postalCode": "81161"
  },
  {
   "id": 5108050002,
   "districtId": 5108050,
-  "name": "WANAGIRI"
+  "districtName": "SUKASADA",
+  "name": "WANAGIRI",
+  "postalCode": "42273"
  },
  {
   "id": 5108050003,
   "districtId": 5108050,
-  "name": "AMBENGAN"
+  "districtName": "SUKASADA",
+  "name": "AMBENGAN",
+  "postalCode": "81161"
  },
  {
   "id": 5108050004,
   "districtId": 5108050,
-  "name": "GITGIT"
+  "districtName": "SUKASADA",
+  "name": "GITGIT",
+  "postalCode": "81161"
  },
  {
   "id": 5108050005,
   "districtId": 5108050,
-  "name": "PEGAYAMAN"
+  "districtName": "SUKASADA",
+  "name": "PEGAYAMAN",
+  "postalCode": "81161"
  },
  {
   "id": 5108050006,
   "districtId": 5108050,
-  "name": "SILANGJANA"
+  "districtName": "SUKASADA",
+  "name": "SILANGJANA",
+  "postalCode": "81161"
  },
  {
   "id": 5108050007,
   "districtId": 5108050,
-  "name": "PEGADUNGAN"
+  "districtName": "SUKASADA",
+  "name": "PEGADUNGAN",
+  "postalCode": "11830"
  },
  {
   "id": 5108050008,
   "districtId": 5108050,
-  "name": "PADANGBULIA"
+  "districtName": "SUKASADA",
+  "name": "PADANGBULIA",
+  "postalCode": "81161"
  },
  {
   "id": 5108050009,
   "districtId": 5108050,
-  "name": "SUKASADA"
+  "districtName": "SUKASADA",
+  "name": "SUKASADA",
+  "postalCode": "81161"
  },
  {
   "id": 5108050010,
   "districtId": 5108050,
-  "name": "SAMBANGAN"
+  "districtName": "SUKASADA",
+  "name": "SAMBANGAN",
+  "postalCode": "62271"
  },
  {
   "id": 5108050011,
   "districtId": 5108050,
-  "name": "PANJI"
+  "districtName": "SUKASADA",
+  "name": "PANJI",
+  "postalCode": "24782"
  },
  {
   "id": 5108050012,
   "districtId": 5108050,
-  "name": "PANJI ANOM"
+  "districtName": "SUKASADA",
+  "name": "PANJI ANOM",
+  "postalCode": "81161"
  },
  {
   "id": 5108050013,
   "districtId": 5108050,
-  "name": "TEGAL LINGGAH"
+  "districtName": "SUKASADA",
+  "name": "TEGAL LINGGAH",
+  "postalCode": ""
  },
  {
   "id": 5108050014,
   "districtId": 5108050,
-  "name": "SELAT"
+  "districtName": "SUKASADA",
+  "name": "SELAT",
+  "postalCode": "36657"
  },
  {
   "id": 5108050015,
   "districtId": 5108050,
-  "name": "KAYUPUTIH"
+  "districtName": "SUKASADA",
+  "name": "KAYUPUTIH",
+  "postalCode": "81152"
  }
 ]

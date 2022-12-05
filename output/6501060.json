@@ -2,31 +2,43 @@
  {
   "id": 6501060001,
   "districtId": 6501060,
-  "name": "LONG ULI"
+  "districtName": "BAHAU HULU",
+  "name": "LONG ULI",
+  "postalCode": "77562"
  },
  {
   "id": 6501060002,
   "districtId": 6501060,
-  "name": "LONG TEBULO"
+  "districtName": "BAHAU HULU",
+  "name": "LONG TEBULO",
+  "postalCode": ""
  },
  {
   "id": 6501060003,
   "districtId": 6501060,
-  "name": "LONG ALANGO"
+  "districtName": "BAHAU HULU",
+  "name": "LONG ALANGO",
+  "postalCode": "77562"
  },
  {
   "id": 6501060004,
   "districtId": 6501060,
-  "name": "LONG ATUA/LONG KEMUAT"
+  "districtName": "BAHAU HULU",
+  "name": "LONG ATUA/LONG KEMUAT",
+  "postalCode": ""
  },
  {
   "id": 6501060005,
   "districtId": 6501060,
-  "name": "LONG BERINI"
+  "districtName": "BAHAU HULU",
+  "name": "LONG BERINI",
+  "postalCode": ""
  },
  {
   "id": 6501060006,
   "districtId": 6501060,
-  "name": "APAU PING"
+  "districtName": "BAHAU HULU",
+  "name": "APAU PING",
+  "postalCode": ""
  }
 ]

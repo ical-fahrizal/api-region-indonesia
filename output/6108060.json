@@ -2,36 +2,50 @@
  {
   "id": 6108060001,
   "districtId": 6108060,
-  "name": "NANGA MANDAY"
+  "districtName": "BIKA",
+  "name": "NANGA MANDAY",
+  "postalCode": "78753"
  },
  {
   "id": 6108060005,
   "districtId": 6108060,
-  "name": "BIKA"
+  "districtName": "BIKA",
+  "name": "BIKA",
+  "postalCode": "78753"
  },
  {
   "id": 6108060006,
   "districtId": 6108060,
-  "name": "TELUK SINDUR"
+  "districtName": "BIKA",
+  "name": "TELUK SINDUR",
+  "postalCode": "78753"
  },
  {
   "id": 6108060008,
   "districtId": 6108060,
-  "name": "PENYELUANG"
+  "districtName": "BIKA",
+  "name": "PENYELUANG",
+  "postalCode": "78753"
  },
  {
   "id": 6108060011,
   "districtId": 6108060,
-  "name": "JONGKONG MANDAY"
+  "districtName": "BIKA",
+  "name": "JONGKONG MANDAY",
+  "postalCode": "78753"
  },
  {
   "id": 6108060012,
   "districtId": 6108060,
-  "name": "MELAPI MANDAY"
+  "districtName": "BIKA",
+  "name": "MELAPI MANDAY",
+  "postalCode": "78753"
  },
  {
   "id": 6108060013,
   "districtId": 6108060,
-  "name": "BIKA HULU"
+  "districtName": "BIKA",
+  "name": "BIKA HULU",
+  "postalCode": "78753"
  }
 ]

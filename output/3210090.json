@@ -2,66 +2,92 @@
  {
   "id": 3210090001,
   "districtId": 3210090,
-  "name": "CANDRAJAYA"
+  "districtName": "SUKAHAJI",
+  "name": "CANDRAJAYA",
+  "postalCode": "45471"
  },
  {
   "id": 3210090002,
   "districtId": 3210090,
-  "name": "CIOMAS"
+  "districtName": "SUKAHAJI",
+  "name": "CIOMAS",
+  "postalCode": "45591"
  },
  {
   "id": 3210090010,
   "districtId": 3210090,
-  "name": "PADAHANTEN"
+  "districtName": "SUKAHAJI",
+  "name": "PADAHANTEN",
+  "postalCode": "45471"
  },
  {
   "id": 3210090011,
   "districtId": 3210090,
-  "name": "SUKAHAJI"
+  "districtName": "SUKAHAJI",
+  "name": "SUKAHAJI",
+  "postalCode": "40221"
  },
  {
   "id": 3210090012,
   "districtId": 3210090,
-  "name": "CIKALONG"
+  "districtName": "SUKAHAJI",
+  "name": "CIKALONG",
+  "postalCode": "40556"
  },
  {
   "id": 3210090013,
   "districtId": 3210090,
-  "name": "BABAKAN MANJETI"
+  "districtName": "SUKAHAJI",
+  "name": "BABAKAN MANJETI",
+  "postalCode": "45471"
  },
  {
   "id": 3210090014,
   "districtId": 3210090,
-  "name": "CIKONENG"
+  "districtName": "SUKAHAJI",
+  "name": "CIKONENG",
+  "postalCode": "46261"
  },
  {
   "id": 3210090015,
   "districtId": 3210090,
-  "name": "PALABUAN"
+  "districtName": "SUKAHAJI",
+  "name": "PALABUAN",
+  "postalCode": "45383"
  },
  {
   "id": 3210090016,
   "districtId": 3210090,
-  "name": "CIKEUSIK"
+  "districtName": "SUKAHAJI",
+  "name": "CIKEUSIK",
+  "postalCode": "45595"
  },
  {
   "id": 3210090017,
   "districtId": 3210090,
-  "name": "SALAGEDANG"
+  "districtName": "SUKAHAJI",
+  "name": "SALAGEDANG",
+  "postalCode": "43262"
  },
  {
   "id": 3210090018,
   "districtId": 3210090,
-  "name": "TANJUNGSARI"
+  "districtName": "SUKAHAJI",
+  "name": "TANJUNGSARI",
+  "postalCode": "28983"
  },
  {
   "id": 3210090019,
   "districtId": 3210090,
-  "name": "JAYI"
+  "districtName": "SUKAHAJI",
+  "name": "JAYI",
+  "postalCode": "45471"
  },
  {
   "id": 3210090020,
   "districtId": 3210090,
-  "name": "NANGGEWER"
+  "districtName": "SUKAHAJI",
+  "name": "NANGGEWER",
+  "postalCode": "16912"
  }
 ]

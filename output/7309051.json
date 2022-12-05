@@ -2,26 +2,36 @@
  {
   "id": 7309051002,
   "districtId": 7309051,
-  "name": "MALAKA"
+  "districtName": "TONDONG TALLASA",
+  "name": "MALAKA",
+  "postalCode": "23772"
  },
  {
   "id": 7309051003,
   "districtId": 7309051,
-  "name": "BANTIMURUNG"
+  "districtName": "TONDONG TALLASA",
+  "name": "BANTIMURUNG",
+  "postalCode": "91966"
  },
  {
   "id": 7309051004,
   "districtId": 7309051,
-  "name": "TONDONGKURA"
+  "districtName": "TONDONG TALLASA",
+  "name": "TONDONGKURA",
+  "postalCode": "90561"
  },
  {
   "id": 7309051005,
   "districtId": 7309051,
-  "name": "LANNE"
+  "districtName": "TONDONG TALLASA",
+  "name": "LANNE",
+  "postalCode": "90561"
  },
  {
   "id": 7309051006,
   "districtId": 7309051,
-  "name": "BONTO BIRAO"
+  "districtName": "TONDONG TALLASA",
+  "name": "BONTO BIRAO",
+  "postalCode": "90561"
  }
 ]

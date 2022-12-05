@@ -2,36 +2,50 @@
  {
   "id": 3212040003,
   "districtId": 3212040,
-  "name": "LOYANG"
+  "districtName": "CIKEDUNG",
+  "name": "LOYANG",
+  "postalCode": "45262"
  },
  {
   "id": 3212040004,
   "districtId": 3212040,
-  "name": "AMIS"
+  "districtName": "CIKEDUNG",
+  "name": "AMIS",
+  "postalCode": "45262"
  },
  {
   "id": 3212040005,
   "districtId": 3212040,
-  "name": "JATISURA"
+  "districtName": "CIKEDUNG",
+  "name": "JATISURA",
+  "postalCode": "45262"
  },
  {
   "id": 3212040006,
   "districtId": 3212040,
-  "name": "JAMBAK"
+  "districtName": "CIKEDUNG",
+  "name": "JAMBAK",
+  "postalCode": "23681"
  },
  {
   "id": 3212040007,
   "districtId": 3212040,
-  "name": "CIKEDUNG"
+  "districtName": "CIKEDUNG",
+  "name": "CIKEDUNG",
+  "postalCode": "45262"
  },
  {
   "id": 3212040012,
   "districtId": 3212040,
-  "name": "CIKEDUNG LOR"
+  "districtName": "CIKEDUNG",
+  "name": "CIKEDUNG LOR",
+  "postalCode": "45262"
  },
  {
   "id": 3212040013,
   "districtId": 3212040,
-  "name": "MUNDAKJAYA"
+  "districtName": "CIKEDUNG",
+  "name": "MUNDAKJAYA",
+  "postalCode": "45262"
  }
 ]

@@ -2,46 +2,64 @@
  {
   "id": 3673010001,
   "districtId": 3673010,
-  "name": "KAMANISAN"
+  "districtName": "CURUG",
+  "name": "KAMANISAN",
+  "postalCode": "42171"
  },
  {
   "id": 3673010002,
   "districtId": 3673010,
-  "name": "PANCALAKSANA"
+  "districtName": "CURUG",
+  "name": "PANCALAKSANA",
+  "postalCode": "42171"
  },
  {
   "id": 3673010003,
   "districtId": 3673010,
-  "name": "TINGGAR"
+  "districtName": "CURUG",
+  "name": "TINGGAR",
+  "postalCode": "45561"
  },
  {
   "id": 3673010004,
   "districtId": 3673010,
-  "name": "CIPETE"
+  "districtName": "CURUG",
+  "name": "CIPETE",
+  "postalCode": "53162"
  },
  {
   "id": 3673010005,
   "districtId": 3673010,
-  "name": "CURUGMANIS"
+  "districtName": "CURUG",
+  "name": "CURUGMANIS",
+  "postalCode": "42171"
  },
  {
   "id": 3673010006,
   "districtId": 3673010,
-  "name": "SUKALAKSANA"
+  "districtName": "CURUG",
+  "name": "SUKALAKSANA",
+  "postalCode": "44191"
  },
  {
   "id": 3673010007,
   "districtId": 3673010,
-  "name": "SUKAWANA"
+  "districtName": "CURUG",
+  "name": "SUKAWANA",
+  "postalCode": "45457"
  },
  {
   "id": 3673010009,
   "districtId": 3673010,
-  "name": "SUKAJAYA"
+  "districtName": "CURUG",
+  "name": "SUKAJAYA",
+  "postalCode": "30756"
  },
  {
   "id": 3673010010,
   "districtId": 3673010,
-  "name": "CILAKU"
+  "districtName": "CURUG",
+  "name": "CILAKU",
+  "postalCode": "16370"
  }
 ]

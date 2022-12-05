@@ -2,36 +2,50 @@
  {
   "id": 7308020005,
   "districtId": 7308020,
-  "name": "PALLANTIKANG"
+  "districtName": "MAROS BARU",
+  "name": "PALLANTIKANG",
+  "postalCode": "92352"
  },
  {
   "id": 7308020013,
   "districtId": 7308020,
-  "name": "BAJU BODOA"
+  "districtName": "MAROS BARU",
+  "name": "BAJU BODOA",
+  "postalCode": "90515"
  },
  {
   "id": 7308020014,
   "districtId": 7308020,
-  "name": "BAJI PAMAI"
+  "districtName": "MAROS BARU",
+  "name": "BAJI PAMAI",
+  "postalCode": "92754"
  },
  {
   "id": 7308020015,
   "districtId": 7308020,
-  "name": "BORI KAMASE"
+  "districtName": "MAROS BARU",
+  "name": "BORI KAMASE",
+  "postalCode": "90512"
  },
  {
   "id": 7308020019,
   "districtId": 7308020,
-  "name": "BORIMASUNGGU"
+  "districtName": "MAROS BARU",
+  "name": "BORIMASUNGGU",
+  "postalCode": "90244"
  },
  {
   "id": 7308020020,
   "districtId": 7308020,
-  "name": "MAJANNANG"
+  "districtName": "MAROS BARU",
+  "name": "MAJANNANG",
+  "postalCode": "90511"
  },
  {
   "id": 7308020021,
   "districtId": 7308020,
-  "name": "MATTIRO TASI"
+  "districtName": "MAROS BARU",
+  "name": "MATTIRO TASI",
+  "postalCode": "90511"
  }
 ]

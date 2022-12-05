@@ -2,91 +2,127 @@
  {
   "id": 3310050001,
   "districtId": 3310050,
-  "name": "KARANGASEM"
+  "districtName": "CAWAS",
+  "name": "KARANGASEM",
+  "postalCode": "45186"
  },
  {
   "id": 3310050002,
   "districtId": 3310050,
-  "name": "BURIKAN"
+  "districtName": "CAWAS",
+  "name": "BURIKAN",
+  "postalCode": "57463"
  },
  {
   "id": 3310050003,
   "districtId": 3310050,
-  "name": "NANGGULAN"
+  "districtName": "CAWAS",
+  "name": "NANGGULAN",
+  "postalCode": "57463"
  },
  {
   "id": 3310050004,
   "districtId": 3310050,
-  "name": "BENDUNGAN"
+  "districtName": "CAWAS",
+  "name": "BENDUNGAN",
+  "postalCode": "16720"
  },
  {
   "id": 3310050006,
   "districtId": 3310050,
-  "name": "KEDUNGAMPEL"
+  "districtName": "CAWAS",
+  "name": "KEDUNGAMPEL",
+  "postalCode": "57463"
  },
  {
   "id": 3310050007,
   "districtId": 3310050,
-  "name": "BAWAK"
+  "districtName": "CAWAS",
+  "name": "BAWAK",
+  "postalCode": "57463"
  },
  {
   "id": 3310050008,
   "districtId": 3310050,
-  "name": "BAREPAN"
+  "districtName": "CAWAS",
+  "name": "BAREPAN",
+  "postalCode": "57463"
  },
  {
   "id": 3310050009,
   "districtId": 3310050,
-  "name": "PAKISAN"
+  "districtName": "CAWAS",
+  "name": "PAKISAN",
+  "postalCode": "57463"
  },
  {
   "id": 3310050010,
   "districtId": 3310050,
-  "name": "BALAK"
+  "districtName": "CAWAS",
+  "name": "BALAK",
+  "postalCode": "57463"
  },
  {
   "id": 3310050011,
   "districtId": 3310050,
-  "name": "CAWAS"
+  "districtName": "CAWAS",
+  "name": "CAWAS",
+  "postalCode": "57463"
  },
  {
   "id": 3310050012,
   "districtId": 3310050,
-  "name": "PLOSOWANGI"
+  "districtName": "CAWAS",
+  "name": "PLOSOWANGI",
+  "postalCode": "57463"
  },
  {
   "id": 3310050013,
   "districtId": 3310050,
-  "name": "BARAN"
+  "districtName": "CAWAS",
+  "name": "BARAN",
+  "postalCode": "29873"
  },
  {
   "id": 3310050014,
   "districtId": 3310050,
-  "name": "TIRTOMARTO"
+  "districtName": "CAWAS",
+  "name": "TIRTOMARTO",
+  "postalCode": "57463"
  },
  {
   "id": 3310050015,
   "districtId": 3310050,
-  "name": "JAPANAN"
+  "districtName": "CAWAS",
+  "name": "JAPANAN",
+  "postalCode": "57463"
  },
  {
   "id": 3310050016,
   "districtId": 3310050,
-  "name": "TLINGSING"
+  "districtName": "CAWAS",
+  "name": "TLINGSING",
+  "postalCode": "57463"
  },
  {
   "id": 3310050018,
   "districtId": 3310050,
-  "name": "GOMBANG"
+  "districtName": "CAWAS",
+  "name": "GOMBANG",
+  "postalCode": "45155"
  },
  {
   "id": 3310050019,
   "districtId": 3310050,
-  "name": "POGUNG"
+  "districtName": "CAWAS",
+  "name": "POGUNG",
+  "postalCode": "57463"
  },
  {
   "id": 3310050020,
   "districtId": 3310050,
-  "name": "BOGOR"
+  "districtName": "CAWAS",
+  "name": "BOGOR",
+  "postalCode": "45257"
  }
 ]

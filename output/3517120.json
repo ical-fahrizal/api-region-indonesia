@@ -2,61 +2,85 @@
  {
   "id": 3517120002,
   "districtId": 3517120,
-  "name": "KEPLAKSARI"
+  "districtName": "PETERONGAN",
+  "name": "KEPLAKSARI",
+  "postalCode": "61481"
  },
  {
   "id": 3517120003,
   "districtId": 3517120,
-  "name": "PETERONGAN"
+  "districtName": "PETERONGAN",
+  "name": "PETERONGAN",
+  "postalCode": "50242"
  },
  {
   "id": 3517120004,
   "districtId": 3517120,
-  "name": "MANCAR"
+  "districtName": "PETERONGAN",
+  "name": "MANCAR",
+  "postalCode": "61481"
  },
  {
   "id": 3517120005,
   "districtId": 3517120,
-  "name": "KEBONTEMU"
+  "districtName": "PETERONGAN",
+  "name": "KEBONTEMU",
+  "postalCode": "61481"
  },
  {
   "id": 3517120006,
   "districtId": 3517120,
-  "name": "DUKUH KLOPO"
+  "districtName": "PETERONGAN",
+  "name": "DUKUH KLOPO",
+  "postalCode": "61481"
  },
  {
   "id": 3517120007,
   "districtId": 3517120,
-  "name": "TANJUNG GUNUNG"
+  "districtName": "PETERONGAN",
+  "name": "TANJUNG GUNUNG",
+  "postalCode": "22164"
  },
  {
   "id": 3517120008,
   "districtId": 3517120,
-  "name": "MOROSUNGGINGAN"
+  "districtName": "PETERONGAN",
+  "name": "MOROSUNGGINGAN",
+  "postalCode": "61481"
  },
  {
   "id": 3517120009,
   "districtId": 3517120,
-  "name": "TUGUSUMBERJO"
+  "districtName": "PETERONGAN",
+  "name": "TUGUSUMBERJO",
+  "postalCode": "61481"
  },
  {
   "id": 3517120011,
   "districtId": 3517120,
-  "name": "BONGKOT"
+  "districtName": "PETERONGAN",
+  "name": "BONGKOT",
+  "postalCode": "54173"
  },
  {
   "id": 3517120012,
   "districtId": 3517120,
-  "name": "SUMBERAGUNG"
+  "districtName": "PETERONGAN",
+  "name": "SUMBERAGUNG",
+  "postalCode": "35452"
  },
  {
   "id": 3517120013,
   "districtId": 3517120,
-  "name": "TENGARAN"
+  "districtName": "PETERONGAN",
+  "name": "TENGARAN",
+  "postalCode": "50775"
  },
  {
   "id": 3517120014,
   "districtId": 3517120,
-  "name": "NGRANDU LOR"
+  "districtName": "PETERONGAN",
+  "name": "NGRANDU LOR",
+  "postalCode": "61481"
  }
 ]

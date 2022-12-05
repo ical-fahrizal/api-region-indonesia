@@ -2,31 +2,43 @@
  {
   "id": 5307062001,
   "districtId": 5307062,
-  "name": "PURA BARAT"
+  "districtName": "PULAU PURA",
+  "name": "PURA BARAT",
+  "postalCode": "85851"
  },
  {
   "id": 5307062002,
   "districtId": 5307062,
-  "name": "PURA SELATAN"
+  "districtName": "PULAU PURA",
+  "name": "PURA SELATAN",
+  "postalCode": "85851"
  },
  {
   "id": 5307062003,
   "districtId": 5307062,
-  "name": "MARU"
+  "districtName": "PULAU PURA",
+  "name": "MARU",
+  "postalCode": "85851"
  },
  {
   "id": 5307062004,
   "districtId": 5307062,
-  "name": "PURA TIMUR"
+  "districtName": "PULAU PURA",
+  "name": "PURA TIMUR",
+  "postalCode": "85851"
  },
  {
   "id": 5307062005,
   "districtId": 5307062,
-  "name": "PURA"
+  "districtName": "PULAU PURA",
+  "name": "PURA",
+  "postalCode": "85851"
  },
  {
   "id": 5307062006,
   "districtId": 5307062,
-  "name": "PURA UTARA"
+  "districtName": "PULAU PURA",
+  "name": "PURA UTARA",
+  "postalCode": "85851"
  }
 ]

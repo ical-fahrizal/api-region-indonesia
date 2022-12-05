@@ -2,46 +2,64 @@
  {
   "id": 3521090001,
   "districtId": 3521090,
-  "name": "LEGO WETAN"
+  "districtName": "BRINGIN",
+  "name": "LEGO WETAN",
+  "postalCode": "63285"
  },
  {
   "id": 3521090002,
   "districtId": 3521090,
-  "name": "DERO"
+  "districtName": "BRINGIN",
+  "name": "DERO",
+  "postalCode": "63285"
  },
  {
   "id": 3521090003,
   "districtId": 3521090,
-  "name": "KROMPOL"
+  "districtName": "BRINGIN",
+  "name": "KROMPOL",
+  "postalCode": "63285"
  },
  {
   "id": 3521090004,
   "districtId": 3521090,
-  "name": "MOJO"
+  "districtName": "BRINGIN",
+  "name": "MOJO",
+  "postalCode": "57384"
  },
  {
   "id": 3521090005,
   "districtId": 3521090,
-  "name": "SUMBER BENING"
+  "districtName": "BRINGIN",
+  "name": "SUMBER BENING",
+  "postalCode": "39153"
  },
  {
   "id": 3521090006,
   "districtId": 3521090,
-  "name": "BRINGIN"
+  "districtName": "BRINGIN",
+  "name": "BRINGIN",
+  "postalCode": "45167"
  },
  {
   "id": 3521090007,
   "districtId": 3521090,
-  "name": "DAMPIT"
+  "districtName": "BRINGIN",
+  "name": "DAMPIT",
+  "postalCode": "40395"
  },
  {
   "id": 3521090009,
   "districtId": 3521090,
-  "name": "GANDONG"
+  "districtName": "BRINGIN",
+  "name": "GANDONG",
+  "postalCode": "66274"
  },
  {
   "id": 3521090010,
   "districtId": 3521090,
-  "name": "KENONGOREJO"
+  "districtName": "BRINGIN",
+  "name": "KENONGOREJO",
+  "postalCode": "63285"
  }
 ]

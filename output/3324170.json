@@ -2,101 +2,141 @@
  {
   "id": 3324170001,
   "districtId": 3324170,
-  "name": "SUKODONO"
+  "districtName": "KOTA KENDAL",
+  "name": "SUKODONO",
+  "postalCode": "59552"
  },
  {
   "id": 3324170002,
   "districtId": 3324170,
-  "name": "CANDIROTO"
+  "districtName": "KOTA KENDAL",
+  "name": "CANDIROTO",
+  "postalCode": "56257"
  },
  {
   "id": 3324170003,
   "districtId": 3324170,
-  "name": "TROMPO"
+  "districtName": "KOTA KENDAL",
+  "name": "TROMPO",
+  "postalCode": "51317"
  },
  {
   "id": 3324170004,
   "districtId": 3324170,
-  "name": "JOTANG"
+  "districtName": "KOTA KENDAL",
+  "name": "JOTANG",
+  "postalCode": "51316"
  },
  {
   "id": 3324170005,
   "districtId": 3324170,
-  "name": "TUNGGULREJO"
+  "districtName": "KOTA KENDAL",
+  "name": "TUNGGULREJO",
+  "postalCode": "58183"
  },
  {
   "id": 3324170006,
   "districtId": 3324170,
-  "name": "SIJERUK"
+  "districtName": "KOTA KENDAL",
+  "name": "SIJERUK",
+  "postalCode": "53452"
  },
  {
   "id": 3324170007,
   "districtId": 3324170,
-  "name": "JETIS"
+  "districtName": "KOTA KENDAL",
+  "name": "JETIS",
+  "postalCode": "57556"
  },
  {
   "id": 3324170008,
   "districtId": 3324170,
-  "name": "BUGANGIN"
+  "districtName": "KOTA KENDAL",
+  "name": "BUGANGIN",
+  "postalCode": "51314"
  },
  {
   "id": 3324170009,
   "districtId": 3324170,
-  "name": "LANGENHARJO"
+  "districtName": "KOTA KENDAL",
+  "name": "LANGENHARJO",
+  "postalCode": "57552"
  },
  {
   "id": 3324170010,
   "districtId": 3324170,
-  "name": "KALIBUNTU WETAN"
+  "districtName": "KOTA KENDAL",
+  "name": "KALIBUNTU WETAN",
+  "postalCode": "51318"
  },
  {
   "id": 3324170011,
   "districtId": 3324170,
-  "name": "KEBONDALEM"
+  "districtName": "KOTA KENDAL",
+  "name": "KEBONDALEM",
+  "postalCode": "53471"
  },
  {
   "id": 3324170012,
   "districtId": 3324170,
-  "name": "KETAPANG"
+  "districtName": "KOTA KENDAL",
+  "name": "KETAPANG",
+  "postalCode": "35596"
  },
  {
   "id": 3324170013,
   "districtId": 3324170,
-  "name": "BANYUTOWO"
+  "districtName": "KOTA KENDAL",
+  "name": "BANYUTOWO",
+  "postalCode": "59158"
  },
  {
   "id": 3324170014,
   "districtId": 3324170,
-  "name": "KARANG SARI"
+  "districtName": "KOTA KENDAL",
+  "name": "KARANG SARI",
+  "postalCode": "21174"
  },
  {
   "id": 3324170015,
   "districtId": 3324170,
-  "name": "PATUKANGAN"
+  "districtName": "KOTA KENDAL",
+  "name": "PATUKANGAN",
+  "postalCode": "51311"
  },
  {
   "id": 3324170016,
   "districtId": 3324170,
-  "name": "PEGULON"
+  "districtName": "KOTA KENDAL",
+  "name": "PEGULON",
+  "postalCode": "51313"
  },
  {
   "id": 3324170017,
   "districtId": 3324170,
-  "name": "PAKAUMAN"
+  "districtName": "KOTA KENDAL",
+  "name": "PAKAUMAN",
+  "postalCode": "51319"
  },
  {
   "id": 3324170018,
   "districtId": 3324170,
-  "name": "NGILIR"
+  "districtName": "KOTA KENDAL",
+  "name": "NGILIR",
+  "postalCode": "51311"
  },
  {
   "id": 3324170019,
   "districtId": 3324170,
-  "name": "BALOK"
+  "districtName": "KOTA KENDAL",
+  "name": "BALOK",
+  "postalCode": "33561"
  },
  {
   "id": 3324170020,
   "districtId": 3324170,
-  "name": "BANDENGAN"
+  "districtName": "KOTA KENDAL",
+  "name": "BANDENGAN",
+  "postalCode": "45173"
  }
 ]

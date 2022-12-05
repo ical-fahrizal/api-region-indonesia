@@ -2,36 +2,50 @@
  {
   "id": 1901081001,
   "districtId": 1901081,
-  "name": "KOTAWARINGIN"
+  "districtName": "PUDING BESAR",
+  "name": "KOTAWARINGIN",
+  "postalCode": ""
  },
  {
   "id": 1901081002,
   "districtId": 1901081,
-  "name": "SAING"
+  "districtName": "PUDING BESAR",
+  "name": "SAING",
+  "postalCode": "33179"
  },
  {
   "id": 1901081003,
   "districtId": 1901081,
-  "name": "TANAH BAWAH"
+  "districtName": "PUDING BESAR",
+  "name": "TANAH BAWAH",
+  "postalCode": "33179"
  },
  {
   "id": 1901081004,
   "districtId": 1901081,
-  "name": "NIBUNG"
+  "districtName": "PUDING BESAR",
+  "name": "NIBUNG",
+  "postalCode": "34388"
  },
  {
   "id": 1901081005,
   "districtId": 1901081,
-  "name": "LABU"
+  "districtName": "PUDING BESAR",
+  "name": "LABU",
+  "postalCode": "33179"
  },
  {
   "id": 1901081006,
   "districtId": 1901081,
-  "name": "PUDINGBESAR"
+  "districtName": "PUDING BESAR",
+  "name": "PUDINGBESAR",
+  "postalCode": "33179"
  },
  {
   "id": 1901081007,
   "districtId": 1901081,
-  "name": "KAYU BESI"
+  "districtName": "PUDING BESAR",
+  "name": "KAYU BESI",
+  "postalCode": "33684"
  }
 ]

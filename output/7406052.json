@@ -2,26 +2,36 @@
  {
   "id": 7406052001,
   "districtId": 7406052,
-  "name": "BATU PUTIH"
+  "districtName": "POLEANG SELATAN",
+  "name": "BATU PUTIH",
+  "postalCode": "37482"
  },
  {
   "id": 7406052002,
   "districtId": 7406052,
-  "name": "WAEMPUTANG"
+  "districtName": "POLEANG SELATAN",
+  "name": "WAEMPUTANG",
+  "postalCode": "93773"
  },
  {
   "id": 7406052003,
   "districtId": 7406052,
-  "name": "KALIBARU"
+  "districtName": "POLEANG SELATAN",
+  "name": "KALIBARU",
+  "postalCode": "16414"
  },
  {
   "id": 7406052004,
   "districtId": 7406052,
-  "name": "AKACIPONG"
+  "districtName": "POLEANG SELATAN",
+  "name": "AKACIPONG",
+  "postalCode": "93773"
  },
  {
   "id": 7406052005,
   "districtId": 7406052,
-  "name": "LAEA"
+  "districtName": "POLEANG SELATAN",
+  "name": "LAEA",
+  "postalCode": "93671"
  }
 ]

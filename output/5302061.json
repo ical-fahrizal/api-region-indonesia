@@ -2,31 +2,43 @@
  {
   "id": 5302061001,
   "districtId": 5302061,
-  "name": "WAIMBIDI"
+  "districtName": "KAMBATA MAPAMBUHANG",
+  "name": "WAIMBIDI",
+  "postalCode": ""
  },
  {
   "id": 5302061002,
   "districtId": 5302061,
-  "name": "LUKU WINGIR"
+  "districtName": "KAMBATA MAPAMBUHANG",
+  "name": "LUKU WINGIR",
+  "postalCode": ""
  },
  {
   "id": 5302061003,
   "districtId": 5302061,
-  "name": "MARADA MUNDI"
+  "districtName": "KAMBATA MAPAMBUHANG",
+  "name": "MARADA MUNDI",
+  "postalCode": "87171"
  },
  {
   "id": 5302061004,
   "districtId": 5302061,
-  "name": "MAIDANG"
+  "districtName": "KAMBATA MAPAMBUHANG",
+  "name": "MAIDANG",
+  "postalCode": "87171"
  },
  {
   "id": 5302061005,
   "districtId": 5302061,
-  "name": "LAI META"
+  "districtName": "KAMBATA MAPAMBUHANG",
+  "name": "LAI META",
+  "postalCode": "87171"
  },
  {
   "id": 5302061006,
   "districtId": 5302061,
-  "name": "MAHU BOKUL"
+  "districtName": "KAMBATA MAPAMBUHANG",
+  "name": "MAHU BOKUL",
+  "postalCode": "87171"
  }
 ]

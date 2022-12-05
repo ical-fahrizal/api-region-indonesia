@@ -2,61 +2,85 @@
  {
   "id": 9434070001,
   "districtId": 9434070,
-  "name": "BOGOYA TEUGI"
+  "districtName": "KAMU SELATAN",
+  "name": "BOGOYA TEUGI",
+  "postalCode": ""
  },
  {
   "id": 9434070002,
   "districtId": 9434070,
-  "name": "BOTUMOMA"
+  "districtName": "KAMU SELATAN",
+  "name": "BOTUMOMA",
+  "postalCode": ""
  },
  {
   "id": 9434070003,
   "districtId": 9434070,
-  "name": "PUWETA II"
+  "districtName": "KAMU SELATAN",
+  "name": "PUWETA II",
+  "postalCode": ""
  },
  {
   "id": 9434070004,
   "districtId": 9434070,
-  "name": "MATADI"
+  "districtName": "KAMU SELATAN",
+  "name": "MATADI",
+  "postalCode": "98862"
  },
  {
   "id": 9434070005,
   "districtId": 9434070,
-  "name": "PUWETA I"
+  "districtName": "KAMU SELATAN",
+  "name": "PUWETA I",
+  "postalCode": ""
  },
  {
   "id": 9434070006,
   "districtId": 9434070,
-  "name": "DIGIKEBO"
+  "districtName": "KAMU SELATAN",
+  "name": "DIGIKEBO",
+  "postalCode": "98862"
  },
  {
   "id": 9434070007,
   "districtId": 9434070,
-  "name": "OBAIBEGA"
+  "districtName": "KAMU SELATAN",
+  "name": "OBAIBEGA",
+  "postalCode": "98862"
  },
  {
   "id": 9434070008,
   "districtId": 9434070,
-  "name": "POUWOUDA"
+  "districtName": "KAMU SELATAN",
+  "name": "POUWOUDA",
+  "postalCode": ""
  },
  {
   "id": 9434070009,
   "districtId": 9434070,
-  "name": "UGIKEBO"
+  "districtName": "KAMU SELATAN",
+  "name": "UGIKEBO",
+  "postalCode": "98862"
  },
  {
   "id": 9434070010,
   "districtId": 9434070,
-  "name": "TUWAIDA"
+  "districtName": "KAMU SELATAN",
+  "name": "TUWAIDA",
+  "postalCode": "98862"
  },
  {
   "id": 9434070011,
   "districtId": 9434070,
-  "name": "UGIKAGOUDA"
+  "districtName": "KAMU SELATAN",
+  "name": "UGIKAGOUDA",
+  "postalCode": "98862"
  },
  {
   "id": 9434070012,
   "districtId": 9434070,
-  "name": "MAKIDIMI / YEPO"
+  "districtName": "KAMU SELATAN",
+  "name": "MAKIDIMI / YEPO",
+  "postalCode": ""
  }
 ]

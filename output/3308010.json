@@ -2,101 +2,141 @@
  {
   "id": 3308010001,
   "districtId": 3308010,
-  "name": "NGARGORETNO"
+  "districtName": "SALAMAN",
+  "name": "NGARGORETNO",
+  "postalCode": "56162"
  },
  {
   "id": 3308010002,
   "districtId": 3308010,
-  "name": "PARIPURNO"
+  "districtName": "SALAMAN",
+  "name": "PARIPURNO",
+  "postalCode": "56162"
  },
  {
   "id": 3308010003,
   "districtId": 3308010,
-  "name": "KALIREJO"
+  "districtName": "SALAMAN",
+  "name": "KALIREJO",
+  "postalCode": "35353"
  },
  {
   "id": 3308010004,
   "districtId": 3308010,
-  "name": "MENOREH"
+  "districtName": "SALAMAN",
+  "name": "MENOREH",
+  "postalCode": "56162"
  },
  {
   "id": 3308010005,
   "districtId": 3308010,
-  "name": "NGADIREJO"
+  "districtName": "SALAMAN",
+  "name": "NGADIREJO",
+  "postalCode": "31662"
  },
  {
   "id": 3308010006,
   "districtId": 3308010,
-  "name": "SIDOMULYO"
+  "districtName": "SALAMAN",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  },
  {
   "id": 3308010007,
   "districtId": 3308010,
-  "name": "KEBONREJO"
+  "districtName": "SALAMAN",
+  "name": "KEBONREJO",
+  "postalCode": "58253"
  },
  {
   "id": 3308010008,
   "districtId": 3308010,
-  "name": "SALAMAN"
+  "districtName": "SALAMAN",
+  "name": "SALAMAN",
+  "postalCode": "56162"
  },
  {
   "id": 3308010009,
   "districtId": 3308010,
-  "name": "KALISALAK"
+  "districtName": "SALAMAN",
+  "name": "KALISALAK",
+  "postalCode": "51216"
  },
  {
   "id": 3308010010,
   "districtId": 3308010,
-  "name": "SRIWEDARI"
+  "districtName": "SALAMAN",
+  "name": "SRIWEDARI",
+  "postalCode": "35363"
  },
  {
   "id": 3308010011,
   "districtId": 3308010,
-  "name": "JEBENGSARI"
+  "districtName": "SALAMAN",
+  "name": "JEBENGSARI",
+  "postalCode": "56162"
  },
  {
   "id": 3308010012,
   "districtId": 3308010,
-  "name": "TANJUNGANOM"
+  "districtName": "SALAMAN",
+  "name": "TANJUNGANOM",
+  "postalCode": "44161"
  },
  {
   "id": 3308010013,
   "districtId": 3308010,
-  "name": "BANJARHARJO"
+  "districtName": "SALAMAN",
+  "name": "BANJARHARJO",
+  "postalCode": "52265"
  },
  {
   "id": 3308010014,
   "districtId": 3308010,
-  "name": "PURWOSARI"
+  "districtName": "SALAMAN",
+  "name": "PURWOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 3308010015,
   "districtId": 3308010,
-  "name": "NGAMPELDENTO"
+  "districtName": "SALAMAN",
+  "name": "NGAMPELDENTO",
+  "postalCode": "56162"
  },
  {
   "id": 3308010016,
   "districtId": 3308010,
-  "name": "SIDOSARI"
+  "districtName": "SALAMAN",
+  "name": "SIDOSARI",
+  "postalCode": "35362"
  },
  {
   "id": 3308010017,
   "districtId": 3308010,
-  "name": "SAWANGARGO"
+  "districtName": "SALAMAN",
+  "name": "SAWANGARGO",
+  "postalCode": "56162"
  },
  {
   "id": 3308010018,
   "districtId": 3308010,
-  "name": "KRASAK"
+  "districtName": "SALAMAN",
+  "name": "KRASAK",
+  "postalCode": "45273"
  },
  {
   "id": 3308010019,
   "districtId": 3308010,
-  "name": "MARGOYOSO"
+  "districtName": "SALAMAN",
+  "name": "MARGOYOSO",
+  "postalCode": "31665"
  },
  {
   "id": 3308010020,
   "districtId": 3308010,
-  "name": "KALIABU"
+  "districtName": "SALAMAN",
+  "name": "KALIABU",
+  "postalCode": "56162"
  }
 ]

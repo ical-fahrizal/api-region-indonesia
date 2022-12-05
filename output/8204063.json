@@ -2,31 +2,43 @@
  {
   "id": 8204063001,
   "districtId": 8204063,
-  "name": "AKE JAILOLO"
+  "districtName": "KAYOA UTARA",
+  "name": "AKE JAILOLO",
+  "postalCode": "97752"
  },
  {
   "id": 8204063002,
   "districtId": 8204063,
-  "name": "GAYAP"
+  "districtName": "KAYOA UTARA",
+  "name": "GAYAP",
+  "postalCode": "97781"
  },
  {
   "id": 8204063003,
   "districtId": 8204063,
-  "name": "LAROMABATI"
+  "districtName": "KAYOA UTARA",
+  "name": "LAROMABATI",
+  "postalCode": ""
  },
  {
   "id": 8204063004,
   "districtId": 8204063,
-  "name": "MODAYAMA"
+  "districtName": "KAYOA UTARA",
+  "name": "MODAYAMA",
+  "postalCode": "97781"
  },
  {
   "id": 8204063005,
   "districtId": 8204063,
-  "name": "NGOKOMALAKO"
+  "districtName": "KAYOA UTARA",
+  "name": "NGOKOMALAKO",
+  "postalCode": "97781"
  },
  {
   "id": 8204063006,
   "districtId": 8204063,
-  "name": "WAYASIPANG"
+  "districtName": "KAYOA UTARA",
+  "name": "WAYASIPANG",
+  "postalCode": "97781"
  }
 ]

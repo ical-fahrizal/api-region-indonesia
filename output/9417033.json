@@ -2,46 +2,64 @@
  {
   "id": 9417033001,
   "districtId": 9417033,
-  "name": "WEIME"
+  "districtName": "WEIME",
+  "name": "WEIME",
+  "postalCode": "99576"
  },
  {
   "id": 9417033002,
   "districtId": 9417033,
-  "name": "TARAMLU"
+  "districtName": "WEIME",
+  "name": "TARAMLU",
+  "postalCode": "99576"
  },
  {
   "id": 9417033003,
   "districtId": 9417033,
-  "name": "MERPASIKME"
+  "districtName": "WEIME",
+  "name": "MERPASIKME",
+  "postalCode": ""
  },
  {
   "id": 9417033004,
   "districtId": 9417033,
-  "name": "DALUMBAN"
+  "districtName": "WEIME",
+  "name": "DALUMBAN",
+  "postalCode": ""
  },
  {
   "id": 9417033005,
   "districtId": 9417033,
-  "name": "NOMTEREN"
+  "districtName": "WEIME",
+  "name": "NOMTEREN",
+  "postalCode": "99576"
  },
  {
   "id": 9417033006,
   "districtId": 9417033,
-  "name": "MEKRAMGON"
+  "districtName": "WEIME",
+  "name": "MEKRAMGON",
+  "postalCode": ""
  },
  {
   "id": 9417033007,
   "districtId": 9417033,
-  "name": "YOULBAN"
+  "districtName": "WEIME",
+  "name": "YOULBAN",
+  "postalCode": ""
  },
  {
   "id": 9417033008,
   "districtId": 9417033,
-  "name": "MERYANG"
+  "districtName": "WEIME",
+  "name": "MERYANG",
+  "postalCode": "99576"
  },
  {
   "id": 9417033009,
   "districtId": 9417033,
-  "name": "LIMREPASIKME"
+  "districtName": "WEIME",
+  "name": "LIMREPASIKME",
+  "postalCode": ""
  }
 ]

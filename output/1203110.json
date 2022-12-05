@@ -2,201 +2,281 @@
  {
   "id": 1203110005,
   "districtId": 1203110,
-  "name": "TOLANG"
+  "districtName": "SIPIROK",
+  "name": "TOLANG",
+  "postalCode": "22758"
  },
  {
   "id": 1203110008,
   "districtId": 1203110,
-  "name": "JANJI MAULI"
+  "districtName": "SIPIROK",
+  "name": "JANJI MAULI",
+  "postalCode": "22762"
  },
  {
   "id": 1203110028,
   "districtId": 1203110,
-  "name": "BARINGIN"
+  "districtName": "SIPIROK",
+  "name": "BARINGIN",
+  "postalCode": "22456"
  },
  {
   "id": 1203110032,
   "districtId": 1203110,
-  "name": "PARAU SORAT"
+  "districtName": "SIPIROK",
+  "name": "PARAU SORAT",
+  "postalCode": "22762"
  },
  {
   "id": 1203110034,
   "districtId": 1203110,
-  "name": "SIALA GUNDI"
+  "districtName": "SIPIROK",
+  "name": "SIALA GUNDI",
+  "postalCode": "22742"
  },
  {
   "id": 1203110036,
   "districtId": 1203110,
-  "name": "BARNANG KOLING"
+  "districtName": "SIPIROK",
+  "name": "BARNANG KOLING",
+  "postalCode": ""
  },
  {
   "id": 1203110039,
   "districtId": 1203110,
-  "name": "PARGARUTAN"
+  "districtName": "SIPIROK",
+  "name": "PARGARUTAN",
+  "postalCode": "22742"
  },
  {
   "id": 1203110040,
   "districtId": 1203110,
-  "name": "PANAUNGAN"
+  "districtName": "SIPIROK",
+  "name": "PANAUNGAN",
+  "postalCode": "22742"
  },
  {
   "id": 1203110046,
   "districtId": 1203110,
-  "name": "PANGARIBUAN"
+  "districtName": "SIPIROK",
+  "name": "PANGARIBUAN",
+  "postalCode": "22651"
  },
  {
   "id": 1203110055,
   "districtId": 1203110,
-  "name": "PADANG BUJUR"
+  "districtName": "SIPIROK",
+  "name": "PADANG BUJUR",
+  "postalCode": "22753"
  },
  {
   "id": 1203110056,
   "districtId": 1203110,
-  "name": "SIMANINGGIR"
+  "districtName": "SIPIROK",
+  "name": "SIMANINGGIR",
+  "postalCode": "22763"
  },
  {
   "id": 1203110057,
   "districtId": 1203110,
-  "name": "PARAN PADANG"
+  "districtName": "SIPIROK",
+  "name": "PARAN PADANG",
+  "postalCode": "22747"
  },
  {
   "id": 1203110059,
   "districtId": 1203110,
-  "name": "PASAR SIPIROK"
+  "districtName": "SIPIROK",
+  "name": "PASAR SIPIROK",
+  "postalCode": "22742"
  },
  {
   "id": 1203110062,
   "districtId": 1203110,
-  "name": "PANGURABAAN"
+  "districtName": "SIPIROK",
+  "name": "PANGURABAAN",
+  "postalCode": "22742"
  },
  {
   "id": 1203110066,
   "districtId": 1203110,
-  "name": "BAGAS LOMBANG"
+  "districtName": "SIPIROK",
+  "name": "BAGAS LOMBANG",
+  "postalCode": "22742"
  },
  {
   "id": 1203110070,
   "districtId": 1203110,
-  "name": "PARAN JULU"
+  "districtName": "SIPIROK",
+  "name": "PARAN JULU",
+  "postalCode": "22755"
  },
  {
   "id": 1203110071,
   "districtId": 1203110,
-  "name": "BULU MARIO"
+  "districtName": "SIPIROK",
+  "name": "BULU MARIO",
+  "postalCode": "22742"
  },
  {
   "id": 1203110072,
   "districtId": 1203110,
-  "name": "BATU SATAIL"
+  "districtName": "SIPIROK",
+  "name": "BATU SATAIL",
+  "postalCode": "22742"
  },
  {
   "id": 1203110086,
   "districtId": 1203110,
-  "name": "RAMBA SIHASUR"
+  "districtName": "SIPIROK",
+  "name": "RAMBA SIHASUR",
+  "postalCode": ""
  },
  {
   "id": 1203110093,
   "districtId": 1203110,
-  "name": "SIBADOAR"
+  "districtName": "SIPIROK",
+  "name": "SIBADOAR",
+  "postalCode": "22742"
  },
  {
   "id": 1203110095,
   "districtId": 1203110,
-  "name": "HASANG MARSADA"
+  "districtName": "SIPIROK",
+  "name": "HASANG MARSADA",
+  "postalCode": "22742"
  },
  {
   "id": 1203110097,
   "districtId": 1203110,
-  "name": "BUNGA BONDAR"
+  "districtName": "SIPIROK",
+  "name": "BUNGA BONDAR",
+  "postalCode": "22742"
  },
  {
   "id": 1203110099,
   "districtId": 1203110,
-  "name": "SAMPEAN"
+  "districtName": "SIPIROK",
+  "name": "SAMPEAN",
+  "postalCode": "22457"
  },
  {
   "id": 1203110101,
   "districtId": 1203110,
-  "name": "SIALAMAN"
+  "districtName": "SIPIROK",
+  "name": "SIALAMAN",
+  "postalCode": "22742"
  },
  {
   "id": 1203110102,
   "districtId": 1203110,
-  "name": "KILANG PAPAN"
+  "districtName": "SIPIROK",
+  "name": "KILANG PAPAN",
+  "postalCode": "22742"
  },
  {
   "id": 1203110103,
   "districtId": 1203110,
-  "name": "SABA BATANG MIHA"
+  "districtName": "SIPIROK",
+  "name": "SABA BATANG MIHA",
+  "postalCode": "22742"
  },
  {
   "id": 1203110104,
   "districtId": 1203110,
-  "name": "SITUMBA"
+  "districtName": "SIPIROK",
+  "name": "SITUMBA",
+  "postalCode": "22742"
  },
  {
   "id": 1203110105,
   "districtId": 1203110,
-  "name": "SITUMBA JULU"
+  "districtName": "SIPIROK",
+  "name": "SITUMBA JULU",
+  "postalCode": "22742"
  },
  {
   "id": 1203110106,
   "districtId": 1203110,
-  "name": "BATANG TURA JULU"
+  "districtName": "SIPIROK",
+  "name": "BATANG TURA JULU",
+  "postalCode": "22742"
  },
  {
   "id": 1203110107,
   "districtId": 1203110,
-  "name": "BATANG TURA"
+  "districtName": "SIPIROK",
+  "name": "BATANG TURA",
+  "postalCode": "22742"
  },
  {
   "id": 1203110108,
   "districtId": 1203110,
-  "name": "PARAN DOLOK MARDOMU"
+  "districtName": "SIPIROK",
+  "name": "PARAN DOLOK MARDOMU",
+  "postalCode": "22742"
  },
  {
   "id": 1203110109,
   "districtId": 1203110,
-  "name": "SAROGODUNG"
+  "districtName": "SIPIROK",
+  "name": "SAROGODUNG",
+  "postalCode": "22742"
  },
  {
   "id": 1203110110,
   "districtId": 1203110,
-  "name": "DOLOK SORDANG"
+  "districtName": "SIPIROK",
+  "name": "DOLOK SORDANG",
+  "postalCode": "22742"
  },
  {
   "id": 1203110111,
   "districtId": 1203110,
-  "name": "DOLOK SORDANG JULU"
+  "districtName": "SIPIROK",
+  "name": "DOLOK SORDANG JULU",
+  "postalCode": "22742"
  },
  {
   "id": 1203110112,
   "districtId": 1203110,
-  "name": "HUTA SUHUT"
+  "districtName": "SIPIROK",
+  "name": "HUTA SUHUT",
+  "postalCode": ""
  },
  {
   "id": 1203110113,
   "districtId": 1203110,
-  "name": "SIPIROK GODANG"
+  "districtName": "SIPIROK",
+  "name": "SIPIROK GODANG",
+  "postalCode": "22742"
  },
  {
   "id": 1203110114,
   "districtId": 1203110,
-  "name": "AEK BATANG PAYA"
+  "districtName": "SIPIROK",
+  "name": "AEK BATANG PAYA",
+  "postalCode": "22742"
  },
  {
   "id": 1203110115,
   "districtId": 1203110,
-  "name": "MARSADA"
+  "districtName": "SIPIROK",
+  "name": "MARSADA",
+  "postalCode": "22742"
  },
  {
   "id": 1203110116,
   "districtId": 1203110,
-  "name": "LUAT LOMBANG"
+  "districtName": "SIPIROK",
+  "name": "LUAT LOMBANG",
+  "postalCode": "22742"
  },
  {
   "id": 1203110117,
   "districtId": 1203110,
-  "name": "PAHAE AEK SAGALA"
+  "districtName": "SIPIROK",
+  "name": "PAHAE AEK SAGALA",
+  "postalCode": "22742"
  }
 ]

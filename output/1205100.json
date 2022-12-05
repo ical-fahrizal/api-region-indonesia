@@ -2,66 +2,92 @@
  {
   "id": 1205100001,
   "districtId": 1205100,
-  "name": "SIBAGANDING"
+  "districtName": "GAROGA",
+  "name": "SIBAGANDING",
+  "postalCode": "20581"
  },
  {
   "id": 1205100002,
   "districtId": 1205100,
-  "name": "PADANG SIANDOMANG"
+  "districtName": "GAROGA",
+  "name": "PADANG SIANDOMANG",
+  "postalCode": "22473"
  },
  {
   "id": 1205100003,
   "districtId": 1205100,
-  "name": "PARINSORAN PANGORIAN"
+  "districtName": "GAROGA",
+  "name": "PARINSORAN PANGORIAN",
+  "postalCode": "22473"
  },
  {
   "id": 1205100004,
   "districtId": 1205100,
-  "name": "AEK TANGGA"
+  "districtName": "GAROGA",
+  "name": "AEK TANGGA",
+  "postalCode": "22756"
  },
  {
   "id": 1205100005,
   "districtId": 1205100,
-  "name": "SIMPANG BOLON"
+  "districtName": "GAROGA",
+  "name": "SIMPANG BOLON",
+  "postalCode": "22473"
  },
  {
   "id": 1205100006,
   "districtId": 1205100,
-  "name": "GAROGA SIBARGOT"
+  "districtName": "GAROGA",
+  "name": "GAROGA SIBARGOT",
+  "postalCode": "22473"
  },
  {
   "id": 1205100007,
   "districtId": 1205100,
-  "name": "GONTING GAROGA"
+  "districtName": "GAROGA",
+  "name": "GONTING GAROGA",
+  "postalCode": "22473"
  },
  {
   "id": 1205100008,
   "districtId": 1205100,
-  "name": "SIBALANGA"
+  "districtName": "GAROGA",
+  "name": "SIBALANGA",
+  "postalCode": "22461"
  },
  {
   "id": 1205100009,
   "districtId": 1205100,
-  "name": "PARSOSORAN"
+  "districtName": "GAROGA",
+  "name": "PARSOSORAN",
+  "postalCode": "22473"
  },
  {
   "id": 1205100010,
   "districtId": 1205100,
-  "name": "LONTUNG JAE I"
+  "districtName": "GAROGA",
+  "name": "LONTUNG JAE I",
+  "postalCode": "22473"
  },
  {
   "id": 1205100011,
   "districtId": 1205100,
-  "name": "LONTUNG JAE II"
+  "districtName": "GAROGA",
+  "name": "LONTUNG JAE II",
+  "postalCode": "22473"
  },
  {
   "id": 1205100012,
   "districtId": 1205100,
-  "name": "GONTING SALAK"
+  "districtName": "GAROGA",
+  "name": "GONTING SALAK",
+  "postalCode": "22473"
  },
  {
   "id": 1205100013,
   "districtId": 1205100,
-  "name": "PARMANUHAN"
+  "districtName": "GAROGA",
+  "name": "PARMANUHAN",
+  "postalCode": ""
  }
 ]

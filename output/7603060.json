@@ -2,61 +2,85 @@
  {
   "id": 7603060001,
   "districtId": 7603060,
-  "name": "MESAKADA"
+  "districtName": "TANDUK KALUA",
+  "name": "MESAKADA",
+  "postalCode": "91371"
  },
  {
   "id": 7603060002,
   "districtId": 7603060,
-  "name": "TAMALANTIK"
+  "districtName": "TANDUK KALUA",
+  "name": "TAMALANTIK",
+  "postalCode": "91366"
  },
  {
   "id": 7603060003,
   "districtId": 7603060,
-  "name": "BALA BATU"
+  "districtName": "TANDUK KALUA",
+  "name": "BALA BATU",
+  "postalCode": ""
  },
  {
   "id": 7603060004,
   "districtId": 7603060,
-  "name": "MALABO"
+  "districtName": "TANDUK KALUA",
+  "name": "MALABO",
+  "postalCode": "91366"
  },
  {
   "id": 7603060005,
   "districtId": 7603060,
-  "name": "MINAKE"
+  "districtName": "TANDUK KALUA",
+  "name": "MINAKE",
+  "postalCode": "91366"
  },
  {
   "id": 7603060006,
   "districtId": 7603060,
-  "name": "MANNABABA"
+  "districtName": "TANDUK KALUA",
+  "name": "MANNABABA",
+  "postalCode": "91366"
  },
  {
   "id": 7603060007,
   "districtId": 7603060,
-  "name": "PARONDO BULAWAN"
+  "districtName": "TANDUK KALUA",
+  "name": "PARONDO BULAWAN",
+  "postalCode": ""
  },
  {
   "id": 7603060008,
   "districtId": 7603060,
-  "name": "SINDAGAMANIK"
+  "districtName": "TANDUK KALUA",
+  "name": "SINDAGAMANIK",
+  "postalCode": "91366"
  },
  {
   "id": 7603060009,
   "districtId": 7603060,
-  "name": "KANAN"
+  "districtName": "TANDUK KALUA",
+  "name": "KANAN",
+  "postalCode": ""
  },
  {
   "id": 7603060010,
   "districtId": 7603060,
-  "name": "PAMBE"
+  "districtName": "TANDUK KALUA",
+  "name": "PAMBE",
+  "postalCode": ""
  },
  {
   "id": 7603060011,
   "districtId": 7603060,
-  "name": "SALURANO"
+  "districtName": "TANDUK KALUA",
+  "name": "SALURANO",
+  "postalCode": ""
  },
  {
   "id": 7603060012,
   "districtId": 7603060,
-  "name": "TALIMBUNG"
+  "districtName": "TANDUK KALUA",
+  "name": "TALIMBUNG",
+  "postalCode": ""
  }
 ]

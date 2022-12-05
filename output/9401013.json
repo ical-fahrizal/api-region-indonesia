@@ -2,21 +2,29 @@
  {
   "id": 9401013001,
   "districtId": 9401013,
-  "name": "BIBIKEM"
+  "districtName": "ILWAYAB",
+  "name": "BIBIKEM",
+  "postalCode": "99655"
  },
  {
   "id": 9401013002,
   "districtId": 9401013,
-  "name": "PADUA"
+  "districtName": "ILWAYAB",
+  "name": "PADUA",
+  "postalCode": "99655"
  },
  {
   "id": 9401013003,
   "districtId": 9401013,
-  "name": "WOGEKEL"
+  "districtName": "ILWAYAB",
+  "name": "WOGEKEL",
+  "postalCode": ""
  },
  {
   "id": 9401013004,
   "districtId": 9401013,
-  "name": "WANAM"
+  "districtName": "ILWAYAB",
+  "name": "WANAM",
+  "postalCode": "99655"
  }
 ]

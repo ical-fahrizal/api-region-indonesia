@@ -2,31 +2,43 @@
  {
   "id": 1204022001,
   "districtId": 1204022,
-  "name": "TEBING TINGGI"
+  "districtName": "SUKABANGUN",
+  "name": "TEBING TINGGI",
+  "postalCode": "24477"
  },
  {
   "id": 1204022002,
   "districtId": 1204022,
-  "name": "PULO PAKAT II"
+  "districtName": "SUKABANGUN",
+  "name": "PULO PAKAT II",
+  "postalCode": ""
  },
  {
   "id": 1204022003,
   "districtId": 1204022,
-  "name": "SIHAPAS"
+  "districtName": "SUKABANGUN",
+  "name": "SIHAPAS",
+  "postalCode": "22654"
  },
  {
   "id": 1204022004,
   "districtId": 1204022,
-  "name": "PULO PAKAT"
+  "districtName": "SUKABANGUN",
+  "name": "PULO PAKAT",
+  "postalCode": ""
  },
  {
   "id": 1204022005,
   "districtId": 1204022,
-  "name": "JANJI MARIA"
+  "districtName": "SUKABANGUN",
+  "name": "JANJI MARIA",
+  "postalCode": "22755"
  },
  {
   "id": 1204022006,
   "districtId": 1204022,
-  "name": "SIHADATUON"
+  "districtName": "SUKABANGUN",
+  "name": "SIHADATUON",
+  "postalCode": "22654"
  }
 ]

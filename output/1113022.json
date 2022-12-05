@@ -2,56 +2,78 @@
  {
   "id": 1113022001,
   "districtId": 1113022,
-  "name": "SANGIR"
+  "districtName": "DABUN GELANG",
+  "name": "SANGIR",
+  "postalCode": "24653"
  },
  {
   "id": 1113022002,
   "districtId": 1113022,
-  "name": "PANGLIMA LINTING"
+  "districtName": "DABUN GELANG",
+  "name": "PANGLIMA LINTING",
+  "postalCode": ""
  },
  {
   "id": 1113022003,
   "districtId": 1113022,
-  "name": "PANGUR"
+  "districtName": "DABUN GELANG",
+  "name": "PANGUR",
+  "postalCode": "24653"
  },
  {
   "id": 1113022004,
   "districtId": 1113022,
-  "name": "BADAK"
+  "districtName": "DABUN GELANG",
+  "name": "BADAK",
+  "postalCode": "24653"
  },
  {
   "id": 1113022005,
   "districtId": 1113022,
-  "name": "BLANGTEMUNG"
+  "districtName": "DABUN GELANG",
+  "name": "BLANGTEMUNG",
+  "postalCode": "24653"
  },
  {
   "id": 1113022006,
   "districtId": 1113022,
-  "name": "KENDAWI"
+  "districtName": "DABUN GELANG",
+  "name": "KENDAWI",
+  "postalCode": "24653"
  },
  {
   "id": 1113022007,
   "districtId": 1113022,
-  "name": "PEPALAN"
+  "districtName": "DABUN GELANG",
+  "name": "PEPALAN",
+  "postalCode": ""
  },
  {
   "id": 1113022008,
   "districtId": 1113022,
-  "name": "UNING SEPAKAT"
+  "districtName": "DABUN GELANG",
+  "name": "UNING SEPAKAT",
+  "postalCode": "24653"
  },
  {
   "id": 1113022009,
   "districtId": 1113022,
-  "name": "UNING GELUNG"
+  "districtName": "DABUN GELANG",
+  "name": "UNING GELUNG",
+  "postalCode": "24653"
  },
  {
   "id": 1113022010,
   "districtId": 1113022,
-  "name": "REREBE"
+  "districtName": "DABUN GELANG",
+  "name": "REREBE",
+  "postalCode": "24653"
  },
  {
   "id": 1113022011,
   "districtId": 1113022,
-  "name": "RIGEB"
+  "districtName": "DABUN GELANG",
+  "name": "RIGEB",
+  "postalCode": ""
  }
 ]

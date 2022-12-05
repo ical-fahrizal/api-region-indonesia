@@ -2,21 +2,29 @@
  {
   "id": 6171040001,
   "districtId": 6171040,
-  "name": "BATU LAYANG"
+  "districtName": "PONTIANAK UTARA",
+  "name": "BATU LAYANG",
+  "postalCode": "20357"
  },
  {
   "id": 6171040002,
   "districtId": 6171040,
-  "name": "SIANTAN HILIR"
+  "districtName": "PONTIANAK UTARA",
+  "name": "SIANTAN HILIR",
+  "postalCode": "78243"
  },
  {
   "id": 6171040003,
   "districtId": 6171040,
-  "name": "SIANTAN TENGAH"
+  "districtName": "PONTIANAK UTARA",
+  "name": "SIANTAN TENGAH",
+  "postalCode": "78242"
  },
  {
   "id": 6171040004,
   "districtId": 6171040,
-  "name": "SIANTAN HULU"
+  "districtName": "PONTIANAK UTARA",
+  "name": "SIANTAN HULU",
+  "postalCode": "78241"
  }
 ]

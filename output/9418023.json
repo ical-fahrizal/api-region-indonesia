@@ -2,56 +2,78 @@
  {
   "id": 9418023001,
   "districtId": 9418023,
-  "name": "ARULO"
+  "districtName": "KONDAGA",
+  "name": "ARULO",
+  "postalCode": "99562"
  },
  {
   "id": 9418023002,
   "districtId": 9418023,
-  "name": "KONDA"
+  "districtName": "KONDAGA",
+  "name": "KONDA",
+  "postalCode": "93874"
  },
  {
   "id": 9418023005,
   "districtId": 9418023,
-  "name": "MANDURA"
+  "districtName": "KONDAGA",
+  "name": "MANDURA",
+  "postalCode": "98915"
  },
  {
   "id": 9418023006,
   "districtId": 9418023,
-  "name": "MOWILOME"
+  "districtName": "KONDAGA",
+  "name": "MOWILOME",
+  "postalCode": "99562"
  },
  {
   "id": 9418023007,
   "districtId": 9418023,
-  "name": "ARUMAGI"
+  "districtName": "KONDAGA",
+  "name": "ARUMAGI",
+  "postalCode": "99562"
  },
  {
   "id": 9418023010,
   "districtId": 9418023,
-  "name": "GIMO"
+  "districtName": "KONDAGA",
+  "name": "GIMO",
+  "postalCode": "99562"
  },
  {
   "id": 9418023011,
   "districtId": 9418023,
-  "name": "SILABULA"
+  "districtName": "KONDAGA",
+  "name": "SILABULA",
+  "postalCode": ""
  },
  {
   "id": 9418023012,
   "districtId": 9418023,
-  "name": "ARIKOBA"
+  "districtName": "KONDAGA",
+  "name": "ARIKOBA",
+  "postalCode": "99562"
  },
  {
   "id": 9418023013,
   "districtId": 9418023,
-  "name": "TINGAPURA"
+  "districtName": "KONDAGA",
+  "name": "TINGAPURA",
+  "postalCode": "99562"
  },
  {
   "id": 9418023014,
   "districtId": 9418023,
-  "name": "GANAGE"
+  "districtName": "KONDAGA",
+  "name": "GANAGE",
+  "postalCode": "99562"
  },
  {
   "id": 9418023015,
   "districtId": 9418023,
-  "name": "YAWINERI"
+  "districtName": "KONDAGA",
+  "name": "YAWINERI",
+  "postalCode": "99562"
  }
 ]

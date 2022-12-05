@@ -2,31 +2,43 @@
  {
   "id": 9108044001,
   "districtId": 9108044,
-  "name": "BEO"
+  "districtName": "TIPLOL MAYALIBIT",
+  "name": "BEO",
+  "postalCode": "95881"
  },
  {
   "id": 9108044002,
   "districtId": 9108044,
-  "name": "ARAWAI"
+  "districtName": "TIPLOL MAYALIBIT",
+  "name": "ARAWAI",
+  "postalCode": ""
  },
  {
   "id": 9108044003,
   "districtId": 9108044,
-  "name": "KABILOL"
+  "districtName": "TIPLOL MAYALIBIT",
+  "name": "KABILOL",
+  "postalCode": "98482"
  },
  {
   "id": 9108044004,
   "districtId": 9108044,
-  "name": "GO"
+  "districtName": "TIPLOL MAYALIBIT",
+  "name": "GO",
+  "postalCode": "99564"
  },
  {
   "id": 9108044005,
   "districtId": 9108044,
-  "name": "WAIFOI"
+  "districtName": "TIPLOL MAYALIBIT",
+  "name": "WAIFOI",
+  "postalCode": "98482"
  },
  {
   "id": 9108044006,
   "districtId": 9108044,
-  "name": "WARIMAK"
+  "districtName": "TIPLOL MAYALIBIT",
+  "name": "WARIMAK",
+  "postalCode": "98482"
  }
 ]

@@ -2,56 +2,78 @@
  {
   "id": 6504011001,
   "districtId": 6504011,
-  "name": "TANG PAYE"
+  "districtName": "KRAYAN TENGAH",
+  "name": "TANG PAYE",
+  "postalCode": "77456"
  },
  {
   "id": 6504011002,
   "districtId": 6504011,
-  "name": "LONG KELUPAN"
+  "districtName": "KRAYAN TENGAH",
+  "name": "LONG KELUPAN",
+  "postalCode": ""
  },
  {
   "id": 6504011003,
   "districtId": 6504011,
-  "name": "LONG RUNGAN"
+  "districtName": "KRAYAN TENGAH",
+  "name": "LONG RUNGAN",
+  "postalCode": "77456"
  },
  {
   "id": 6504011004,
   "districtId": 6504011,
-  "name": "PA MILAU"
+  "districtName": "KRAYAN TENGAH",
+  "name": "PA MILAU",
+  "postalCode": "77456"
  },
  {
   "id": 6504011005,
   "districtId": 6504011,
-  "name": "PA YALAU"
+  "districtName": "KRAYAN TENGAH",
+  "name": "PA YALAU",
+  "postalCode": "77456"
  },
  {
   "id": 6504011006,
   "districtId": 6504011,
-  "name": "LONG MUTAN"
+  "districtName": "KRAYAN TENGAH",
+  "name": "LONG MUTAN",
+  "postalCode": "77456"
  },
  {
   "id": 6504011007,
   "districtId": 6504011,
-  "name": "TANG BADUI"
+  "districtName": "KRAYAN TENGAH",
+  "name": "TANG BADUI",
+  "postalCode": "77456"
  },
  {
   "id": 6504011008,
   "districtId": 6504011,
-  "name": "LONG PADI"
+  "districtName": "KRAYAN TENGAH",
+  "name": "LONG PADI",
+  "postalCode": "77456"
  },
  {
   "id": 6504011009,
   "districtId": 6504011,
-  "name": "LONG RIAN"
+  "districtName": "KRAYAN TENGAH",
+  "name": "LONG RIAN",
+  "postalCode": "77456"
  },
  {
   "id": 6504011010,
   "districtId": 6504011,
-  "name": "BA LIKU"
+  "districtName": "KRAYAN TENGAH",
+  "name": "BA LIKU",
+  "postalCode": "77456"
  },
  {
   "id": 6504011011,
   "districtId": 6504011,
-  "name": "BINUANG"
+  "districtName": "KRAYAN TENGAH",
+  "name": "BINUANG",
+  "postalCode": "28463"
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 1404011001,
   "districtId": 1404011,
-  "name": "RANTAU BARU"
+  "districtName": "PANGKALAN KERINCI",
+  "name": "RANTAU BARU",
+  "postalCode": "28381"
  },
  {
   "id": 1404011002,
   "districtId": 1404011,
-  "name": "KUALA TERUSAN"
+  "districtName": "PANGKALAN KERINCI",
+  "name": "KUALA TERUSAN",
+  "postalCode": "28381"
  },
  {
   "id": 1404011003,
   "districtId": 1404011,
-  "name": "PANGKALAN KERINCI KOTA"
+  "districtName": "PANGKALAN KERINCI",
+  "name": "PANGKALAN KERINCI KOTA",
+  "postalCode": "28381"
  },
  {
   "id": 1404011005,
   "districtId": 1404011,
-  "name": "MEKAR JAYA"
+  "districtName": "PANGKALAN KERINCI",
+  "name": "MEKAR JAYA",
+  "postalCode": "20771"
  },
  {
   "id": 1404011006,
   "districtId": 1404011,
-  "name": "MAKMUR"
+  "districtName": "PANGKALAN KERINCI",
+  "name": "MAKMUR",
+  "postalCode": "24562"
  },
  {
   "id": 1404011007,
   "districtId": 1404011,
-  "name": "PANGKALAN KERINCI BARAT"
+  "districtName": "PANGKALAN KERINCI",
+  "name": "PANGKALAN KERINCI BARAT",
+  "postalCode": "28381"
  },
  {
   "id": 1404011008,
   "districtId": 1404011,
-  "name": "PANGKALAN KERINCI TIMUR"
+  "districtName": "PANGKALAN KERINCI",
+  "name": "PANGKALAN KERINCI TIMUR",
+  "postalCode": "28381"
  }
 ]

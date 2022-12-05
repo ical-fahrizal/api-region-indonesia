@@ -2,31 +2,43 @@
  {
   "id": 6501010001,
   "districtId": 6501010,
-  "name": "MAHAK BARU"
+  "districtName": "SUNGAI BOH",
+  "name": "MAHAK BARU",
+  "postalCode": "77573"
  },
  {
   "id": 6501010002,
   "districtId": 6501010,
-  "name": "DUMU MAHAK"
+  "districtName": "SUNGAI BOH",
+  "name": "DUMU MAHAK",
+  "postalCode": "77573"
  },
  {
   "id": 6501010003,
   "districtId": 6501010,
-  "name": "LONG TOP"
+  "districtName": "SUNGAI BOH",
+  "name": "LONG TOP",
+  "postalCode": "77573"
  },
  {
   "id": 6501010004,
   "districtId": 6501010,
-  "name": "DATA BARU"
+  "districtName": "SUNGAI BOH",
+  "name": "DATA BARU",
+  "postalCode": "77573"
  },
  {
   "id": 6501010005,
   "districtId": 6501010,
-  "name": "LONG LEBUSAN"
+  "districtName": "SUNGAI BOH",
+  "name": "LONG LEBUSAN",
+  "postalCode": "77573"
  },
  {
   "id": 6501010006,
   "districtId": 6501010,
-  "name": "AGUNG BARU"
+  "districtName": "SUNGAI BOH",
+  "name": "AGUNG BARU",
+  "postalCode": "77573"
  }
 ]

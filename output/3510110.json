@@ -2,51 +2,71 @@
  {
   "id": 3510110001,
   "districtId": 3510110,
-  "name": "SUMBERSARI"
+  "districtName": "SRONO",
+  "name": "SUMBERSARI",
+  "postalCode": "34122"
  },
  {
   "id": 3510110002,
   "districtId": 3510110,
-  "name": "KEPUNDUNGAN"
+  "districtName": "SRONO",
+  "name": "KEPUNDUNGAN",
+  "postalCode": "68471"
  },
  {
   "id": 3510110003,
   "districtId": 3510110,
-  "name": "KEBAMAN"
+  "districtName": "SRONO",
+  "name": "KEBAMAN",
+  "postalCode": "68471"
  },
  {
   "id": 3510110004,
   "districtId": 3510110,
-  "name": "SUKONATAR"
+  "districtName": "SRONO",
+  "name": "SUKONATAR",
+  "postalCode": "68471"
  },
  {
   "id": 3510110005,
   "districtId": 3510110,
-  "name": "BAGOREJO"
+  "districtName": "SRONO",
+  "name": "BAGOREJO",
+  "postalCode": "68165"
  },
  {
   "id": 3510110006,
   "districtId": 3510110,
-  "name": "REJOAGUNG"
+  "districtName": "SRONO",
+  "name": "REJOAGUNG",
+  "postalCode": "35363"
  },
  {
   "id": 3510110007,
   "districtId": 3510110,
-  "name": "WONOSOBO"
+  "districtName": "SRONO",
+  "name": "WONOSOBO",
+  "postalCode": "24581"
  },
  {
   "id": 3510110008,
   "districtId": 3510110,
-  "name": "SUKOMAJU"
+  "districtName": "SRONO",
+  "name": "SUKOMAJU",
+  "postalCode": "68471"
  },
  {
   "id": 3510110009,
   "districtId": 3510110,
-  "name": "PARIJATAH WETAN"
+  "districtName": "SRONO",
+  "name": "PARIJATAH WETAN",
+  "postalCode": "68471"
  },
  {
   "id": 3510110010,
   "districtId": 3510110,
-  "name": "PARIJATAH KULON"
+  "districtName": "SRONO",
+  "name": "PARIJATAH KULON",
+  "postalCode": "68471"
  }
 ]

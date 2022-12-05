@@ -2,76 +2,106 @@
  {
   "id": 7316040001,
   "districtId": 7316040,
-  "name": "TINDALLUN"
+  "districtName": "ANGGERAJA",
+  "name": "TINDALLUN",
+  "postalCode": "91752"
  },
  {
   "id": 7316040002,
   "districtId": 7316040,
-  "name": "BAMBA PUANG"
+  "districtName": "ANGGERAJA",
+  "name": "BAMBA PUANG",
+  "postalCode": "91752"
  },
  {
   "id": 7316040003,
   "districtId": 7316040,
-  "name": "TANETE"
+  "districtName": "ANGGERAJA",
+  "name": "TANETE",
+  "postalCode": "91752"
  },
  {
   "id": 7316040007,
   "districtId": 7316040,
-  "name": "LAKAWAN"
+  "districtName": "ANGGERAJA",
+  "name": "LAKAWAN",
+  "postalCode": "91752"
  },
  {
   "id": 7316040008,
   "districtId": 7316040,
-  "name": "SIAMBO"
+  "districtName": "ANGGERAJA",
+  "name": "SIAMBO",
+  "postalCode": "91752"
  },
  {
   "id": 7316040009,
   "districtId": 7316040,
-  "name": "SINGKI"
+  "districtName": "ANGGERAJA",
+  "name": "SINGKI",
+  "postalCode": "91752"
  },
  {
   "id": 7316040010,
   "districtId": 7316040,
-  "name": "MATARAN"
+  "districtName": "ANGGERAJA",
+  "name": "MATARAN",
+  "postalCode": "91752"
  },
  {
   "id": 7316040011,
   "districtId": 7316040,
-  "name": "PEKALOBEAN"
+  "districtName": "ANGGERAJA",
+  "name": "PEKALOBEAN",
+  "postalCode": "91752"
  },
  {
   "id": 7316040012,
   "districtId": 7316040,
-  "name": "BUBUN LAMBA"
+  "districtName": "ANGGERAJA",
+  "name": "BUBUN LAMBA",
+  "postalCode": "91752"
  },
  {
   "id": 7316040013,
   "districtId": 7316040,
-  "name": "SALU DEWATA"
+  "districtName": "ANGGERAJA",
+  "name": "SALU DEWATA",
+  "postalCode": "91752"
  },
  {
   "id": 7316040014,
   "districtId": 7316040,
-  "name": "MAMPU"
+  "districtName": "ANGGERAJA",
+  "name": "MAMPU",
+  "postalCode": "91752"
  },
  {
   "id": 7316040015,
   "districtId": 7316040,
-  "name": "BATU NONI"
+  "districtName": "ANGGERAJA",
+  "name": "BATU NONI",
+  "postalCode": "91752"
  },
  {
   "id": 7316040016,
   "districtId": 7316040,
-  "name": "SARURAN"
+  "districtName": "ANGGERAJA",
+  "name": "SARURAN",
+  "postalCode": "91752"
  },
  {
   "id": 7316040017,
   "districtId": 7316040,
-  "name": "TAMPO"
+  "districtName": "ANGGERAJA",
+  "name": "TAMPO",
+  "postalCode": "68482"
  },
  {
   "id": 7316040018,
   "districtId": 7316040,
-  "name": "MANDATTE"
+  "districtName": "ANGGERAJA",
+  "name": "MANDATTE",
+  "postalCode": "91752"
  }
 ]

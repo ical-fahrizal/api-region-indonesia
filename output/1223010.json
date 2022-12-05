@@ -2,66 +2,92 @@
  {
   "id": 1223010001,
   "districtId": 1223010,
-  "name": "PEMATANG"
+  "districtName": "NA IX-X",
+  "name": "PEMATANG",
+  "postalCode": "21454"
  },
  {
   "id": 1223010002,
   "districtId": 1223010,
-  "name": "BATU TUNGGAL"
+  "districtName": "NA IX-X",
+  "name": "BATU TUNGGAL",
+  "postalCode": "22753"
  },
  {
   "id": 1223010003,
   "districtId": 1223010,
-  "name": "SUNGAI RAJA"
+  "districtName": "NA IX-X",
+  "name": "SUNGAI RAJA",
+  "postalCode": "21454"
  },
  {
   "id": 1223010004,
   "districtId": 1223010,
-  "name": "PERKEBUNAN BERANGIR"
+  "districtName": "NA IX-X",
+  "name": "PERKEBUNAN BERANGIR",
+  "postalCode": "21454"
  },
  {
   "id": 1223010005,
   "districtId": 1223010,
-  "name": "PASANG LELA"
+  "districtName": "NA IX-X",
+  "name": "PASANG LELA",
+  "postalCode": "22756"
  },
  {
   "id": 1223010006,
   "districtId": 1223010,
-  "name": "SILUMAJANG"
+  "districtName": "NA IX-X",
+  "name": "SILUMAJANG",
+  "postalCode": "21454"
  },
  {
   "id": 1223010007,
   "districtId": 1223010,
-  "name": "HATAPANG"
+  "districtName": "NA IX-X",
+  "name": "HATAPANG",
+  "postalCode": "21454"
  },
  {
   "id": 1223010008,
   "districtId": 1223010,
-  "name": "MERANTI OMAS"
+  "districtName": "NA IX-X",
+  "name": "MERANTI OMAS",
+  "postalCode": "21454"
  },
  {
   "id": 1223010009,
   "districtId": 1223010,
-  "name": "BANGUN REJO"
+  "districtName": "NA IX-X",
+  "name": "BANGUN REJO",
+  "postalCode": "21454"
  },
  {
   "id": 1223010010,
   "districtId": 1223010,
-  "name": "KAMPUNG PAJAK"
+  "districtName": "NA IX-X",
+  "name": "KAMPUNG PAJAK",
+  "postalCode": "21454"
  },
  {
   "id": 1223010011,
   "districtId": 1223010,
-  "name": "AEK KOTA BATU"
+  "districtName": "NA IX-X",
+  "name": "AEK KOTA BATU",
+  "postalCode": "21454"
  },
  {
   "id": 1223010012,
   "districtId": 1223010,
-  "name": "SIMPANG MARBAU"
+  "districtName": "NA IX-X",
+  "name": "SIMPANG MARBAU",
+  "postalCode": "21454"
  },
  {
   "id": 1223010013,
   "districtId": 1223010,
-  "name": "PULO JANTAN"
+  "districtName": "NA IX-X",
+  "name": "PULO JANTAN",
+  "postalCode": "21454"
  }
 ]

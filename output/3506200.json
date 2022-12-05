@@ -2,51 +2,71 @@
  {
   "id": 3506200010,
   "districtId": 3506200,
-  "name": "JONGBIRU"
+  "districtName": "GAMPENGREJO",
+  "name": "JONGBIRU",
+  "postalCode": "64182"
  },
  {
   "id": 3506200011,
   "districtId": 3506200,
-  "name": "PUTIH"
+  "districtName": "GAMPENGREJO",
+  "name": "PUTIH",
+  "postalCode": "64182"
  },
  {
   "id": 3506200012,
   "districtId": 3506200,
-  "name": "SAMBIREJO"
+  "districtName": "GAMPENGREJO",
+  "name": "SAMBIREJO",
+  "postalCode": "39153"
  },
  {
   "id": 3506200016,
   "districtId": 3506200,
-  "name": "SAMBIRESIK"
+  "districtName": "GAMPENGREJO",
+  "name": "SAMBIRESIK",
+  "postalCode": "64182"
  },
  {
   "id": 3506200017,
   "districtId": 3506200,
-  "name": "GAMPENG"
+  "districtName": "GAMPENGREJO",
+  "name": "GAMPENG",
+  "postalCode": "64452"
  },
  {
   "id": 3506200018,
   "districtId": 3506200,
-  "name": "NGEBRAK"
+  "districtName": "GAMPENGREJO",
+  "name": "NGEBRAK",
+  "postalCode": "64182"
  },
  {
   "id": 3506200019,
   "districtId": 3506200,
-  "name": "WANENGPATEN"
+  "districtName": "GAMPENGREJO",
+  "name": "WANENGPATEN",
+  "postalCode": "64182"
  },
  {
   "id": 3506200021,
   "districtId": 3506200,
-  "name": "PLOSOREJO"
+  "districtName": "GAMPENGREJO",
+  "name": "PLOSOREJO",
+  "postalCode": "58253"
  },
  {
   "id": 3506200022,
   "districtId": 3506200,
-  "name": "KEPUHREJO"
+  "districtName": "GAMPENGREJO",
+  "name": "KEPUHREJO",
+  "postalCode": "64182"
  },
  {
   "id": 3506200023,
   "districtId": 3506200,
-  "name": "KALIBELO"
+  "districtName": "GAMPENGREJO",
+  "name": "KALIBELO",
+  "postalCode": "64182"
  }
 ]

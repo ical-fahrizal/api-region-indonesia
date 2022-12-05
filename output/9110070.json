@@ -2,26 +2,36 @@
  {
   "id": 9110070006,
   "districtId": 9110070,
-  "name": "MEFKAJIM II"
+  "districtName": "AYAMARU",
+  "name": "MEFKAJIM II",
+  "postalCode": "98461"
  },
  {
   "id": 9110070009,
   "districtId": 9110070,
-  "name": "FRAHAROH"
+  "districtName": "AYAMARU",
+  "name": "FRAHAROH",
+  "postalCode": ""
  },
  {
   "id": 9110070010,
   "districtId": 9110070,
-  "name": "AYAMARU"
+  "districtName": "AYAMARU",
+  "name": "AYAMARU",
+  "postalCode": "98461"
  },
  {
   "id": 9110070011,
   "districtId": 9110070,
-  "name": "FRAMU"
+  "districtName": "AYAMARU",
+  "name": "FRAMU",
+  "postalCode": "98461"
  },
  {
   "id": 9110070024,
   "districtId": 9110070,
-  "name": "SMUSUWIOH"
+  "districtName": "AYAMARU",
+  "name": "SMUSUWIOH",
+  "postalCode": "98461"
  }
 ]

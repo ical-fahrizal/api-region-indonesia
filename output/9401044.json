@@ -2,26 +2,36 @@
  {
   "id": 9401044001,
   "districtId": 9401044,
-  "name": "RAWA BIRU"
+  "districtName": "SOTA",
+  "name": "RAWA BIRU",
+  "postalCode": "99656"
  },
  {
   "id": 9401044002,
   "districtId": 9401044,
-  "name": "YANGGANDUR"
+  "districtName": "SOTA",
+  "name": "YANGGANDUR",
+  "postalCode": "99656"
  },
  {
   "id": 9401044003,
   "districtId": 9401044,
-  "name": "SOTA"
+  "districtName": "SOTA",
+  "name": "SOTA",
+  "postalCode": "99656"
  },
  {
   "id": 9401044004,
   "districtId": 9401044,
-  "name": "ERAMBU"
+  "districtName": "SOTA",
+  "name": "ERAMBU",
+  "postalCode": "99656"
  },
  {
   "id": 9401044005,
   "districtId": 9401044,
-  "name": "TORAY"
+  "districtName": "SOTA",
+  "name": "TORAY",
+  "postalCode": ""
  }
 ]

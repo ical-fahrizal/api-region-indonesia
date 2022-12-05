@@ -2,51 +2,71 @@
  {
   "id": 5317081001,
   "districtId": 5317081,
-  "name": "WEE LONDA"
+  "districtName": "KOTA TAMBOLAKA",
+  "name": "WEE LONDA",
+  "postalCode": "87255"
  },
  {
   "id": 5317081002,
   "districtId": 5317081,
-  "name": "LANGGA LERO"
+  "districtName": "KOTA TAMBOLAKA",
+  "name": "LANGGA LERO",
+  "postalCode": "87255"
  },
  {
   "id": 5317081003,
   "districtId": 5317081,
-  "name": "WEE TOBULA"
+  "districtName": "KOTA TAMBOLAKA",
+  "name": "WEE TOBULA",
+  "postalCode": ""
  },
  {
   "id": 5317081004,
   "districtId": 5317081,
-  "name": "KALENA WANO"
+  "districtName": "KOTA TAMBOLAKA",
+  "name": "KALENA WANO",
+  "postalCode": "87255"
  },
  {
   "id": 5317081005,
   "districtId": 5317081,
-  "name": "RADAMATA"
+  "districtName": "KOTA TAMBOLAKA",
+  "name": "RADAMATA",
+  "postalCode": ""
  },
  {
   "id": 5317081006,
   "districtId": 5317081,
-  "name": "WEE PANGALI"
+  "districtName": "KOTA TAMBOLAKA",
+  "name": "WEE PANGALI",
+  "postalCode": "87255"
  },
  {
   "id": 5317081007,
   "districtId": 5317081,
-  "name": "KALEMBU KAHA"
+  "districtName": "KOTA TAMBOLAKA",
+  "name": "KALEMBU KAHA",
+  "postalCode": "87255"
  },
  {
   "id": 5317081008,
   "districtId": 5317081,
-  "name": "WEE RENNA"
+  "districtName": "KOTA TAMBOLAKA",
+  "name": "WEE RENNA",
+  "postalCode": ""
  },
  {
   "id": 5317081009,
   "districtId": 5317081,
-  "name": "WATU KAWULA"
+  "districtName": "KOTA TAMBOLAKA",
+  "name": "WATU KAWULA",
+  "postalCode": "87255"
  },
  {
   "id": 5317081010,
   "districtId": 5317081,
-  "name": "KADI PADA"
+  "districtName": "KOTA TAMBOLAKA",
+  "name": "KADI PADA",
+  "postalCode": "87255"
  }
 ]

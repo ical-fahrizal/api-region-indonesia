@@ -2,56 +2,78 @@
  {
   "id": 3573040001,
   "districtId": 3573040,
-  "name": "JODIPAN"
+  "districtName": "BLIMBING",
+  "name": "JODIPAN",
+  "postalCode": "65137"
  },
  {
   "id": 3573040002,
   "districtId": 3573040,
-  "name": "POLEHAN"
+  "districtName": "BLIMBING",
+  "name": "POLEHAN",
+  "postalCode": "65121"
  },
  {
   "id": 3573040003,
   "districtId": 3573040,
-  "name": "KESATRIAN"
+  "districtName": "BLIMBING",
+  "name": "KESATRIAN",
+  "postalCode": "65121"
  },
  {
   "id": 3573040004,
   "districtId": 3573040,
-  "name": "BUNULREJO"
+  "districtName": "BLIMBING",
+  "name": "BUNULREJO",
+  "postalCode": "65123"
  },
  {
   "id": 3573040005,
   "districtId": 3573040,
-  "name": "PURWANTORO"
+  "districtName": "BLIMBING",
+  "name": "PURWANTORO",
+  "postalCode": "57695"
  },
  {
   "id": 3573040006,
   "districtId": 3573040,
-  "name": "PANDANWANGI"
+  "districtName": "BLIMBING",
+  "name": "PANDANWANGI",
+  "postalCode": "65124"
  },
  {
   "id": 3573040007,
   "districtId": 3573040,
-  "name": "BLIMBING"
+  "districtName": "BLIMBING",
+  "name": "BLIMBING",
+  "postalCode": "52364"
  },
  {
   "id": 3573040008,
   "districtId": 3573040,
-  "name": "PURWODADI"
+  "districtName": "BLIMBING",
+  "name": "PURWODADI",
+  "postalCode": "24652"
  },
  {
   "id": 3573040009,
   "districtId": 3573040,
-  "name": "POLOWIJEN"
+  "districtName": "BLIMBING",
+  "name": "POLOWIJEN",
+  "postalCode": "65126"
  },
  {
   "id": 3573040010,
   "districtId": 3573040,
-  "name": "ARJOSARI"
+  "districtName": "BLIMBING",
+  "name": "ARJOSARI",
+  "postalCode": "54363"
  },
  {
   "id": 3573040011,
   "districtId": 3573040,
-  "name": "BALEARJOSARI"
+  "districtName": "BLIMBING",
+  "name": "BALEARJOSARI",
+  "postalCode": "65126"
  }
 ]

@@ -2,101 +2,141 @@
  {
   "id": 5313110001,
   "districtId": 5313110,
-  "name": "GOLO DUKAL"
+  "districtName": "LANGKE REMBONG",
+  "name": "GOLO DUKAL",
+  "postalCode": "86515"
  },
  {
   "id": 5313110002,
   "districtId": 5313110,
-  "name": "PAU"
+  "districtName": "LANGKE REMBONG",
+  "name": "PAU",
+  "postalCode": "86516"
  },
  {
   "id": 5313110003,
   "districtId": 5313110,
-  "name": "WASO"
+  "districtName": "LANGKE REMBONG",
+  "name": "WASO",
+  "postalCode": "86517"
  },
  {
   "id": 5313110004,
   "districtId": 5313110,
-  "name": "WATU"
+  "districtName": "LANGKE REMBONG",
+  "name": "WATU",
+  "postalCode": "86511"
  },
  {
   "id": 5313110005,
   "districtId": 5313110,
-  "name": "TENDA"
+  "districtName": "LANGKE REMBONG",
+  "name": "TENDA",
+  "postalCode": "86518"
  },
  {
   "id": 5313110006,
   "districtId": 5313110,
-  "name": "CAREP"
+  "districtName": "LANGKE REMBONG",
+  "name": "CAREP",
+  "postalCode": "86519"
  },
  {
   "id": 5313110007,
   "districtId": 5313110,
-  "name": "MBAUMUKU"
+  "districtName": "LANGKE REMBONG",
+  "name": "MBAUMUKU",
+  "postalCode": ""
  },
  {
   "id": 5313110008,
   "districtId": 5313110,
-  "name": "KAROT"
+  "districtName": "LANGKE REMBONG",
+  "name": "KAROT",
+  "postalCode": "86512"
  },
  {
   "id": 5313110009,
   "districtId": 5313110,
-  "name": "PITAK"
+  "districtName": "LANGKE REMBONG",
+  "name": "PITAK",
+  "postalCode": "86513"
  },
  {
   "id": 5313110010,
   "districtId": 5313110,
-  "name": "LAWIR"
+  "districtName": "LANGKE REMBONG",
+  "name": "LAWIR",
+  "postalCode": "86516"
  },
  {
   "id": 5313110011,
   "districtId": 5313110,
-  "name": "WALI"
+  "districtName": "LANGKE REMBONG",
+  "name": "WALI",
+  "postalCode": "86514"
  },
  {
   "id": 5313110012,
   "districtId": 5313110,
-  "name": "BANGKA LEDA"
+  "districtName": "LANGKE REMBONG",
+  "name": "BANGKA LEDA",
+  "postalCode": ""
  },
  {
   "id": 5313110013,
   "districtId": 5313110,
-  "name": "ROWANG"
+  "districtName": "LANGKE REMBONG",
+  "name": "ROWANG",
+  "postalCode": ""
  },
  {
   "id": 5313110014,
   "districtId": 5313110,
-  "name": "BANGKA NEKANG"
+  "districtName": "LANGKE REMBONG",
+  "name": "BANGKA NEKANG",
+  "postalCode": ""
  },
  {
   "id": 5313110015,
   "districtId": 5313110,
-  "name": "POCO MAL"
+  "districtName": "LANGKE REMBONG",
+  "name": "POCO MAL",
+  "postalCode": ""
  },
  {
   "id": 5313110016,
   "districtId": 5313110,
-  "name": "SATAR TACIK"
+  "districtName": "LANGKE REMBONG",
+  "name": "SATAR TACIK",
+  "postalCode": ""
  },
  {
   "id": 5313110017,
   "districtId": 5313110,
-  "name": "LACI CAREP"
+  "districtName": "LANGKE REMBONG",
+  "name": "LACI CAREP",
+  "postalCode": ""
  },
  {
   "id": 5313110018,
   "districtId": 5313110,
-  "name": "COMPANG CAREP"
+  "districtName": "LANGKE REMBONG",
+  "name": "COMPANG CAREP",
+  "postalCode": ""
  },
  {
   "id": 5313110019,
   "districtId": 5313110,
-  "name": "TADONG"
+  "districtName": "LANGKE REMBONG",
+  "name": "TADONG",
+  "postalCode": ""
  },
  {
   "id": 5313110020,
   "districtId": 5313110,
-  "name": "COMPANG TUKE"
+  "districtName": "LANGKE REMBONG",
+  "name": "COMPANG TUKE",
+  "postalCode": ""
  }
 ]

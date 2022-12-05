@@ -2,61 +2,85 @@
  {
   "id": 5108070001,
   "districtId": 5108070,
-  "name": "LEMUKIH"
+  "districtName": "SAWAN",
+  "name": "LEMUKIH",
+  "postalCode": "81171"
  },
  {
   "id": 5108070002,
   "districtId": 5108070,
-  "name": "GALUNGAN"
+  "districtName": "SAWAN",
+  "name": "GALUNGAN",
+  "postalCode": "81171"
  },
  {
   "id": 5108070004,
   "districtId": 5108070,
-  "name": "BEBETIN"
+  "districtName": "SAWAN",
+  "name": "BEBETIN",
+  "postalCode": "81171"
  },
  {
   "id": 5108070005,
   "districtId": 5108070,
-  "name": "SUDAJI"
+  "districtName": "SAWAN",
+  "name": "SUDAJI",
+  "postalCode": "81171"
  },
  {
   "id": 5108070006,
   "districtId": 5108070,
-  "name": "SAWAN"
+  "districtName": "SAWAN",
+  "name": "SAWAN",
+  "postalCode": "81171"
  },
  {
   "id": 5108070007,
   "districtId": 5108070,
-  "name": "MENYALI"
+  "districtName": "SAWAN",
+  "name": "MENYALI",
+  "postalCode": "81171"
  },
  {
   "id": 5108070009,
   "districtId": 5108070,
-  "name": "JAGARAGA"
+  "districtName": "SAWAN",
+  "name": "JAGARAGA",
+  "postalCode": "32264"
  },
  {
   "id": 5108070010,
   "districtId": 5108070,
-  "name": "SINABUN"
+  "districtName": "SAWAN",
+  "name": "SINABUN",
+  "postalCode": "81171"
  },
  {
   "id": 5108070011,
   "districtId": 5108070,
-  "name": "KEROBOKAN"
+  "districtName": "SAWAN",
+  "name": "KEROBOKAN",
+  "postalCode": "80361"
  },
  {
   "id": 5108070012,
   "districtId": 5108070,
-  "name": "SANGSIT"
+  "districtName": "SAWAN",
+  "name": "SANGSIT",
+  "postalCode": "81171"
  },
  {
   "id": 5108070013,
   "districtId": 5108070,
-  "name": "BUNGKULAN"
+  "districtName": "SAWAN",
+  "name": "BUNGKULAN",
+  "postalCode": "81171"
  },
  {
   "id": 5108070014,
   "districtId": 5108070,
-  "name": "GIRI EMAS"
+  "districtName": "SAWAN",
+  "name": "GIRI EMAS",
+  "postalCode": "81171"
  }
 ]

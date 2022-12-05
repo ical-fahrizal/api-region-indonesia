@@ -2,101 +2,141 @@
  {
   "id": 1204080008,
   "districtId": 1204080,
-  "name": "MANDUAMAS LAMA"
+  "districtName": "MANDUAMAS",
+  "name": "MANDUAMAS LAMA",
+  "postalCode": "22565"
  },
  {
   "id": 1204080009,
   "districtId": 1204080,
-  "name": "PASAR ONAN MANDUAMAS"
+  "districtName": "MANDUAMAS",
+  "name": "PASAR ONAN MANDUAMAS",
+  "postalCode": "22565"
  },
  {
   "id": 1204080011,
   "districtId": 1204080,
-  "name": "BINJOHARA"
+  "districtName": "MANDUAMAS",
+  "name": "BINJOHARA",
+  "postalCode": "22565"
  },
  {
   "id": 1204080012,
   "districtId": 1204080,
-  "name": "PAGARAN NAULI"
+  "districtName": "MANDUAMAS",
+  "name": "PAGARAN NAULI",
+  "postalCode": "22565"
  },
  {
   "id": 1204080013,
   "districtId": 1204080,
-  "name": "SARMA NAULI"
+  "districtName": "MANDUAMAS",
+  "name": "SARMA NAULI",
+  "postalCode": "22565"
  },
  {
   "id": 1204080014,
   "districtId": 1204080,
-  "name": "SARAGIH"
+  "districtName": "MANDUAMAS",
+  "name": "SARAGIH",
+  "postalCode": "22565"
  },
  {
   "id": 1204080015,
   "districtId": 1204080,
-  "name": "TUMBA"
+  "districtName": "MANDUAMAS",
+  "name": "TUMBA",
+  "postalCode": "22565"
  },
  {
   "id": 1204080016,
   "districtId": 1204080,
-  "name": "TUMBA JAE"
+  "districtName": "MANDUAMAS",
+  "name": "TUMBA JAE",
+  "postalCode": "22565"
  },
  {
   "id": 1204080017,
   "districtId": 1204080,
-  "name": "LAE MONONG"
+  "districtName": "MANDUAMAS",
+  "name": "LAE MONONG",
+  "postalCode": "22565"
  },
  {
   "id": 1204080018,
   "districtId": 1204080,
-  "name": "MANDUAMAS BARU"
+  "districtName": "MANDUAMAS",
+  "name": "MANDUAMAS BARU",
+  "postalCode": ""
  },
  {
   "id": 1204080019,
   "districtId": 1204080,
-  "name": "SARAGIH TIMUR"
+  "districtName": "MANDUAMAS",
+  "name": "SARAGIH TIMUR",
+  "postalCode": ""
  },
  {
   "id": 1204080020,
   "districtId": 1204080,
-  "name": "SARAGIH BARAT"
+  "districtName": "MANDUAMAS",
+  "name": "SARAGIH BARAT",
+  "postalCode": ""
  },
  {
   "id": 1204080021,
   "districtId": 1204080,
-  "name": "BINJOHARA URUK"
+  "districtName": "MANDUAMAS",
+  "name": "BINJOHARA URUK",
+  "postalCode": ""
  },
  {
   "id": 1204080022,
   "districtId": 1204080,
-  "name": "BINJOHARA BARU"
+  "districtName": "MANDUAMAS",
+  "name": "BINJOHARA BARU",
+  "postalCode": ""
  },
  {
   "id": 1204080023,
   "districtId": 1204080,
-  "name": "TAMBAHAN NANJUR"
+  "districtName": "MANDUAMAS",
+  "name": "TAMBAHAN NANJUR",
+  "postalCode": ""
  },
  {
   "id": 1204080024,
   "districtId": 1204080,
-  "name": "PARSIHOTANGAN"
+  "districtName": "MANDUAMAS",
+  "name": "PARSIHOTANGAN",
+  "postalCode": ""
  },
  {
   "id": 1204080025,
   "districtId": 1204080,
-  "name": "TUMBA NAULI"
+  "districtName": "MANDUAMAS",
+  "name": "TUMBA NAULI",
+  "postalCode": ""
  },
  {
   "id": 1204080026,
   "districtId": 1204080,
-  "name": "PERLUASAN"
+  "districtName": "MANDUAMAS",
+  "name": "PERLUASAN",
+  "postalCode": ""
  },
  {
   "id": 1204080027,
   "districtId": 1204080,
-  "name": "MUARA TAPUS"
+  "districtName": "MANDUAMAS",
+  "name": "MUARA TAPUS",
+  "postalCode": "71419"
  },
  {
   "id": 1204080028,
   "districtId": 1204080,
-  "name": "PAGARAN BARU"
+  "districtName": "MANDUAMAS",
+  "name": "PAGARAN BARU",
+  "postalCode": ""
  }
 ]

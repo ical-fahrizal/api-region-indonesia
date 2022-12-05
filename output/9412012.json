@@ -2,46 +2,64 @@
  {
   "id": 9412012001,
   "districtId": 9412012,
-  "name": "PRONGGO"
+  "districtName": "MIMIKA BARAT TENGAH",
+  "name": "PRONGGO",
+  "postalCode": "99973"
  },
  {
   "id": 9412012002,
   "districtId": 9412012,
-  "name": "KIPIA"
+  "districtName": "MIMIKA BARAT TENGAH",
+  "name": "KIPIA",
+  "postalCode": "99973"
  },
  {
   "id": 9412012003,
   "districtId": 9412012,
-  "name": "MAPAR"
+  "districtName": "MIMIKA BARAT TENGAH",
+  "name": "MAPAR",
+  "postalCode": "99973"
  },
  {
   "id": 9412012004,
   "districtId": 9412012,
-  "name": "AKAR"
+  "districtName": "MIMIKA BARAT TENGAH",
+  "name": "AKAR",
+  "postalCode": "99973"
  },
  {
   "id": 9412012005,
   "districtId": 9412012,
-  "name": "KAPIRAYA"
+  "districtName": "MIMIKA BARAT TENGAH",
+  "name": "KAPIRAYA",
+  "postalCode": "99973"
  },
  {
   "id": 9412012006,
   "districtId": 9412012,
-  "name": "UTA"
+  "districtName": "MIMIKA BARAT TENGAH",
+  "name": "UTA",
+  "postalCode": "99973"
  },
  {
   "id": 9412012007,
   "districtId": 9412012,
-  "name": "MUPURUKA"
+  "districtName": "MIMIKA BARAT TENGAH",
+  "name": "MUPURUKA",
+  "postalCode": ""
  },
  {
   "id": 9412012008,
   "districtId": 9412012,
-  "name": "WUMUKA"
+  "districtName": "MIMIKA BARAT TENGAH",
+  "name": "WUMUKA",
+  "postalCode": "99973"
  },
  {
   "id": 9412012009,
   "districtId": 9412012,
-  "name": "WAKIA"
+  "districtName": "MIMIKA BARAT TENGAH",
+  "name": "WAKIA",
+  "postalCode": "99973"
  }
 ]

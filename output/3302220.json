@@ -2,76 +2,106 @@
  {
   "id": 3302220002,
   "districtId": 3302220,
-  "name": "PLIKEN"
+  "districtName": "KEMBARAN",
+  "name": "PLIKEN",
+  "postalCode": "53182"
  },
  {
   "id": 3302220003,
   "districtId": 3302220,
-  "name": "PURWODADI"
+  "districtName": "KEMBARAN",
+  "name": "PURWODADI",
+  "postalCode": "24652"
  },
  {
   "id": 3302220004,
   "districtId": 3302220,
-  "name": "KARANGTENGAH"
+  "districtName": "KEMBARAN",
+  "name": "KARANGTENGAH",
+  "postalCode": "43351"
  },
  {
   "id": 3302220005,
   "districtId": 3302220,
-  "name": "KRAMAT"
+  "districtName": "KEMBARAN",
+  "name": "KRAMAT",
+  "postalCode": "10450"
  },
  {
   "id": 3302220006,
   "districtId": 3302220,
-  "name": "SAMBENG WETAN"
+  "districtName": "KEMBARAN",
+  "name": "SAMBENG WETAN",
+  "postalCode": "53182"
  },
  {
   "id": 3302220007,
   "districtId": 3302220,
-  "name": "SAMBENG KULON"
+  "districtName": "KEMBARAN",
+  "name": "SAMBENG KULON",
+  "postalCode": "53182"
  },
  {
   "id": 3302220008,
   "districtId": 3302220,
-  "name": "PURBADANA"
+  "districtName": "KEMBARAN",
+  "name": "PURBADANA",
+  "postalCode": "53182"
  },
  {
   "id": 3302220009,
   "districtId": 3302220,
-  "name": "KEMBARAN"
+  "districtName": "KEMBARAN",
+  "name": "KEMBARAN",
+  "postalCode": "56191"
  },
  {
   "id": 3302220010,
   "districtId": 3302220,
-  "name": "BOJONGSARI"
+  "districtName": "KEMBARAN",
+  "name": "BOJONGSARI",
+  "postalCode": "40288"
  },
  {
   "id": 3302220011,
   "districtId": 3302220,
-  "name": "KARANGSOKA"
+  "districtName": "KEMBARAN",
+  "name": "KARANGSOKA",
+  "postalCode": "53182"
  },
  {
   "id": 3302220012,
   "districtId": 3302220,
-  "name": "DUKUHWALUH"
+  "districtName": "KEMBARAN",
+  "name": "DUKUHWALUH",
+  "postalCode": "53182"
  },
  {
   "id": 3302220013,
   "districtId": 3302220,
-  "name": "TAMBAKSARI KIDUL"
+  "districtName": "KEMBARAN",
+  "name": "TAMBAKSARI KIDUL",
+  "postalCode": "53182"
  },
  {
   "id": 3302220014,
   "districtId": 3302220,
-  "name": "BANTARWUNI"
+  "districtName": "KEMBARAN",
+  "name": "BANTARWUNI",
+  "postalCode": "53182"
  },
  {
   "id": 3302220015,
   "districtId": 3302220,
-  "name": "KARANGSARI"
+  "districtName": "KEMBARAN",
+  "name": "KARANGSARI",
+  "postalCode": "35376"
  },
  {
   "id": 3302220016,
   "districtId": 3302220,
-  "name": "LINGGASARI"
+  "districtName": "KEMBARAN",
+  "name": "LINGGASARI",
+  "postalCode": "46216"
  }
 ]

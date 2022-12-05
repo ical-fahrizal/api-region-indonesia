@@ -2,86 +2,120 @@
  {
   "id": 3523060001,
   "districtId": 3523060,
-  "name": "KEMLATEN"
+  "districtName": "PARENGAN",
+  "name": "KEMLATEN",
+  "postalCode": "62366"
  },
  {
   "id": 3523060002,
   "districtId": 3523060,
-  "name": "MERGOASRI"
+  "districtName": "PARENGAN",
+  "name": "MERGOASRI",
+  "postalCode": "62366"
  },
  {
   "id": 3523060003,
   "districtId": 3523060,
-  "name": "KUMPULREJO"
+  "districtName": "PARENGAN",
+  "name": "KUMPULREJO",
+  "postalCode": "50734"
  },
  {
   "id": 3523060004,
   "districtId": 3523060,
-  "name": "CENGKONG"
+  "districtName": "PARENGAN",
+  "name": "CENGKONG",
+  "postalCode": "41373"
  },
  {
   "id": 3523060005,
   "districtId": 3523060,
-  "name": "BRANGKAL"
+  "districtName": "PARENGAN",
+  "name": "BRANGKAL",
+  "postalCode": "57274"
  },
  {
   "id": 3523060006,
   "districtId": 3523060,
-  "name": "MERGOREJO"
+  "districtName": "PARENGAN",
+  "name": "MERGOREJO",
+  "postalCode": "62366"
  },
  {
   "id": 3523060007,
   "districtId": 3523060,
-  "name": "SELOGABUS"
+  "districtName": "PARENGAN",
+  "name": "SELOGABUS",
+  "postalCode": "62366"
  },
  {
   "id": 3523060008,
   "districtId": 3523060,
-  "name": "SENDANGREJO"
+  "districtName": "PARENGAN",
+  "name": "SENDANGREJO",
+  "postalCode": "57673"
  },
  {
   "id": 3523060009,
   "districtId": 3523060,
-  "name": "MOJOMALANG"
+  "districtName": "PARENGAN",
+  "name": "MOJOMALANG",
+  "postalCode": "62366"
  },
  {
   "id": 3523060010,
   "districtId": 3523060,
-  "name": "SUGIHWARAS"
+  "districtName": "PARENGAN",
+  "name": "SUGIHWARAS",
+  "postalCode": "54363"
  },
  {
   "id": 3523060011,
   "districtId": 3523060,
-  "name": "SUCIHARJO"
+  "districtName": "PARENGAN",
+  "name": "SUCIHARJO",
+  "postalCode": "62366"
  },
  {
   "id": 3523060012,
   "districtId": 3523060,
-  "name": "PACING"
+  "districtName": "PARENGAN",
+  "name": "PACING",
+  "postalCode": "41374"
  },
  {
   "id": 3523060013,
   "districtId": 3523060,
-  "name": "PARANGBATU"
+  "districtName": "PARENGAN",
+  "name": "PARANGBATU",
+  "postalCode": "62366"
  },
  {
   "id": 3523060014,
   "districtId": 3523060,
-  "name": "SUKOREJO"
+  "districtName": "PARENGAN",
+  "name": "SUKOREJO",
+  "postalCode": "31551"
  },
  {
   "id": 3523060016,
   "districtId": 3523060,
-  "name": "NGAWUN"
+  "districtName": "PARENGAN",
+  "name": "NGAWUN",
+  "postalCode": "62366"
  },
  {
   "id": 3523060017,
   "districtId": 3523060,
-  "name": "WUKIRHARJO"
+  "districtName": "PARENGAN",
+  "name": "WUKIRHARJO",
+  "postalCode": "62366"
  },
  {
   "id": 3523060018,
   "districtId": 3523060,
-  "name": "DAGANGAN"
+  "districtName": "PARENGAN",
+  "name": "DAGANGAN",
+  "postalCode": "63172"
  }
 ]

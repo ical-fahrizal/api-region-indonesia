@@ -2,61 +2,85 @@
  {
   "id": 3516100002,
   "districtId": 3516100,
-  "name": "KALEN"
+  "districtName": "DLANGGU",
+  "name": "KALEN",
+  "postalCode": "58381"
  },
  {
   "id": 3516100004,
   "districtId": 3516100,
-  "name": "MOJOKARANG"
+  "districtName": "DLANGGU",
+  "name": "MOJOKARANG",
+  "postalCode": "61371"
  },
  {
   "id": 3516100006,
   "districtId": 3516100,
-  "name": "TALOK"
+  "districtName": "DLANGGU",
+  "name": "TALOK",
+  "postalCode": "52471"
  },
  {
   "id": 3516100007,
   "districtId": 3516100,
-  "name": "SUMBERSONO"
+  "districtName": "DLANGGU",
+  "name": "SUMBERSONO",
+  "postalCode": "61371"
  },
  {
   "id": 3516100008,
   "districtId": 3516100,
-  "name": "SAMBILAWANG"
+  "districtName": "DLANGGU",
+  "name": "SAMBILAWANG",
+  "postalCode": "59153"
  },
  {
   "id": 3516100009,
   "districtId": 3516100,
-  "name": "JRAMBE"
+  "districtName": "DLANGGU",
+  "name": "JRAMBE",
+  "postalCode": "61371"
  },
  {
   "id": 3516100010,
   "districtId": 3516100,
-  "name": "RANDUGENENGAN"
+  "districtName": "DLANGGU",
+  "name": "RANDUGENENGAN",
+  "postalCode": "61371"
  },
  {
   "id": 3516100011,
   "districtId": 3516100,
-  "name": "POHKECIK"
+  "districtName": "DLANGGU",
+  "name": "POHKECIK",
+  "postalCode": "61371"
  },
  {
   "id": 3516100012,
   "districtId": 3516100,
-  "name": "DLANGGU"
+  "districtName": "DLANGGU",
+  "name": "DLANGGU",
+  "postalCode": "62291"
  },
  {
   "id": 3516100014,
   "districtId": 3516100,
-  "name": "SUMBERKARANG"
+  "districtName": "DLANGGU",
+  "name": "SUMBERKARANG",
+  "postalCode": "61371"
  },
  {
   "id": 3516100015,
   "districtId": 3516100,
-  "name": "KEDUNGLENGKONG"
+  "districtName": "DLANGGU",
+  "name": "KEDUNGLENGKONG",
+  "postalCode": "61371"
  },
  {
   "id": 3516100016,
   "districtId": 3516100,
-  "name": "TUMAPEL"
+  "districtName": "DLANGGU",
+  "name": "TUMAPEL",
+  "postalCode": "61371"
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 6206031001,
   "districtId": 6206031,
-  "name": "NATAI KONDANG"
+  "districtName": "PERMATA KECUBUNG",
+  "name": "NATAI KONDANG",
+  "postalCode": "74173"
  },
  {
   "id": 6206031002,
   "districtId": 6206031,
-  "name": "AJANG"
+  "districtName": "PERMATA KECUBUNG",
+  "name": "AJANG",
+  "postalCode": "74173"
  },
  {
   "id": 6206031003,
   "districtId": 6206031,
-  "name": "LAMAN BARU"
+  "districtName": "PERMATA KECUBUNG",
+  "name": "LAMAN BARU",
+  "postalCode": "74173"
  },
  {
   "id": 6206031004,
   "districtId": 6206031,
-  "name": "KENAWAN"
+  "districtName": "PERMATA KECUBUNG",
+  "name": "KENAWAN",
+  "postalCode": "74173"
  },
  {
   "id": 6206031005,
   "districtId": 6206031,
-  "name": "SEMANTUN"
+  "districtName": "PERMATA KECUBUNG",
+  "name": "SEMANTUN",
+  "postalCode": "78876"
  },
  {
   "id": 6206031006,
   "districtId": 6206031,
-  "name": "SEMBIKUAN"
+  "districtName": "PERMATA KECUBUNG",
+  "name": "SEMBIKUAN",
+  "postalCode": ""
  },
  {
   "id": 6206031007,
   "districtId": 6206031,
-  "name": "NIBUNG TERJUN"
+  "districtName": "PERMATA KECUBUNG",
+  "name": "NIBUNG TERJUN",
+  "postalCode": "74173"
  }
 ]

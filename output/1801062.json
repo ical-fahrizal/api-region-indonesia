@@ -2,26 +2,36 @@
  {
   "id": 1801062001,
   "districtId": 1801062,
-  "name": "MEKAR JAYA"
+  "districtName": "GEDUNG SURIAN",
+  "name": "MEKAR JAYA",
+  "postalCode": "20771"
  },
  {
   "id": 1801062002,
   "districtId": 1801062,
-  "name": "PURA MEKAR"
+  "districtName": "GEDUNG SURIAN",
+  "name": "PURA MEKAR",
+  "postalCode": ""
  },
  {
   "id": 1801062003,
   "districtId": 1801062,
-  "name": "CIPTA WARAS"
+  "districtName": "GEDUNG SURIAN",
+  "name": "CIPTA WARAS",
+  "postalCode": "34871"
  },
  {
   "id": 1801062004,
   "districtId": 1801062,
-  "name": "TRI MULYO"
+  "districtName": "GEDUNG SURIAN",
+  "name": "TRI MULYO",
+  "postalCode": "55513"
  },
  {
   "id": 1801062005,
   "districtId": 1801062,
-  "name": "GEDUNG SURIAN"
+  "districtName": "GEDUNG SURIAN",
+  "name": "GEDUNG SURIAN",
+  "postalCode": "34871"
  }
 ]

@@ -2,61 +2,85 @@
  {
   "id": 3323131001,
   "districtId": 3323131,
-  "name": "WATES"
+  "districtName": "WONOBOYO",
+  "name": "WATES",
+  "postalCode": "32273"
  },
  {
   "id": 3323131002,
   "districtId": 3323131,
-  "name": "CEMORO"
+  "districtName": "WONOBOYO",
+  "name": "CEMORO",
+  "postalCode": "56266"
  },
  {
   "id": 3323131003,
   "districtId": 3323131,
-  "name": "TAWANGSARI"
+  "districtName": "WONOBOYO",
+  "name": "TAWANGSARI",
+  "postalCode": "45365"
  },
  {
   "id": 3323131004,
   "districtId": 3323131,
-  "name": "REJOSARI"
+  "districtName": "WONOBOYO",
+  "name": "REJOSARI",
+  "postalCode": "29353"
  },
  {
   "id": 3323131005,
   "districtId": 3323131,
-  "name": "PITROSARI"
+  "districtName": "WONOBOYO",
+  "name": "PITROSARI",
+  "postalCode": "56266"
  },
  {
   "id": 3323131006,
   "districtId": 3323131,
-  "name": "PURWOSARI"
+  "districtName": "WONOBOYO",
+  "name": "PURWOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 3323131007,
   "districtId": 3323131,
-  "name": "PATEKEN"
+  "districtName": "WONOBOYO",
+  "name": "PATEKEN",
+  "postalCode": "56266"
  },
  {
   "id": 3323131008,
   "districtId": 3323131,
-  "name": "KEBONSARI"
+  "districtName": "WONOBOYO",
+  "name": "KEBONSARI",
+  "postalCode": "56553"
  },
  {
   "id": 3323131009,
   "districtId": 3323131,
-  "name": "WONOBOYO"
+  "districtName": "WONOBOYO",
+  "name": "WONOBOYO",
+  "postalCode": "57452"
  },
  {
   "id": 3323131011,
   "districtId": 3323131,
-  "name": "PESANTREN"
+  "districtName": "WONOBOYO",
+  "name": "PESANTREN",
+  "postalCode": "51255"
  },
  {
   "id": 3323131012,
   "districtId": 3323131,
-  "name": "WONOCOYO"
+  "districtName": "WONOBOYO",
+  "name": "WONOCOYO",
+  "postalCode": "56266"
  },
  {
   "id": 3323131013,
   "districtId": 3323131,
-  "name": "TENING"
+  "districtName": "WONOBOYO",
+  "name": "TENING",
+  "postalCode": "56266"
  }
 ]

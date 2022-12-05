@@ -2,56 +2,78 @@
  {
   "id": 3309170001,
   "districtId": 3309170,
-  "name": "KAUMAN"
+  "districtName": "KEMUSU",
+  "name": "KAUMAN",
+  "postalCode": "51215"
  },
  {
   "id": 3309170003,
   "districtId": 3309170,
-  "name": "BAWU"
+  "districtName": "KEMUSU",
+  "name": "BAWU",
+  "postalCode": "59461"
  },
  {
   "id": 3309170004,
   "districtId": 3309170,
-  "name": "KLEWOR"
+  "districtName": "KEMUSU",
+  "name": "KLEWOR",
+  "postalCode": "57383"
  },
  {
   "id": 3309170005,
   "districtId": 3309170,
-  "name": "SARIMULYO"
+  "districtName": "KEMUSU",
+  "name": "SARIMULYO",
+  "postalCode": "59583"
  },
  {
   "id": 3309170006,
   "districtId": 3309170,
-  "name": "WATUGEDE"
+  "districtName": "KEMUSU",
+  "name": "WATUGEDE",
+  "postalCode": "57383"
  },
  {
   "id": 3309170007,
   "districtId": 3309170,
-  "name": "KEDUNGREJO"
+  "districtName": "KEMUSU",
+  "name": "KEDUNGREJO",
+  "postalCode": "57383"
  },
  {
   "id": 3309170008,
   "districtId": 3309170,
-  "name": "GENENGSARI"
+  "districtName": "KEMUSU",
+  "name": "GENENGSARI",
+  "postalCode": "57383"
  },
  {
   "id": 3309170010,
   "districtId": 3309170,
-  "name": "LEMAHIRENG"
+  "districtName": "KEMUSU",
+  "name": "LEMAHIRENG",
+  "postalCode": "50661"
  },
  {
   "id": 3309170011,
   "districtId": 3309170,
-  "name": "GUWO"
+  "districtName": "KEMUSU",
+  "name": "GUWO",
+  "postalCode": "57383"
  },
  {
   "id": 3309170012,
   "districtId": 3309170,
-  "name": "KEDUNGMULYO"
+  "districtName": "KEMUSU",
+  "name": "KEDUNGMULYO",
+  "postalCode": "54264"
  },
  {
   "id": 3309170013,
   "districtId": 3309170,
-  "name": "WONOHARJO"
+  "districtName": "KEMUSU",
+  "name": "WONOHARJO",
+  "postalCode": "38655"
  }
 ]

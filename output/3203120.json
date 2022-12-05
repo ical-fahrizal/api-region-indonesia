@@ -2,91 +2,127 @@
  {
   "id": 3203120001,
   "districtId": 3203120,
-  "name": "CIBOKOR"
+  "districtName": "CIBEBER",
+  "name": "CIBOKOR",
+  "postalCode": "43262"
  },
  {
   "id": 3203120002,
   "districtId": 3203120,
-  "name": "KANOMAN"
+  "districtName": "CIBEBER",
+  "name": "KANOMAN",
+  "postalCode": "35386"
  },
  {
   "id": 3203120003,
   "districtId": 3203120,
-  "name": "CIPETIR"
+  "districtName": "CIBEBER",
+  "name": "CIPETIR",
+  "postalCode": "43262"
  },
  {
   "id": 3203120004,
   "districtId": 3203120,
-  "name": "CIKONDANG"
+  "districtName": "CIBEBER",
+  "name": "CIKONDANG",
+  "postalCode": "43283"
  },
  {
   "id": 3203120005,
   "districtId": 3203120,
-  "name": "CIHAUR"
+  "districtName": "CIBEBER",
+  "name": "CIHAUR",
+  "postalCode": "45591"
  },
  {
   "id": 3203120006,
   "districtId": 3203120,
-  "name": "SUKAMANAH"
+  "districtName": "CIBEBER",
+  "name": "SUKAMANAH",
+  "postalCode": "43273"
  },
  {
   "id": 3203120007,
   "districtId": 3203120,
-  "name": "SALAGEDANG"
+  "districtName": "CIBEBER",
+  "name": "SALAGEDANG",
+  "postalCode": "43262"
  },
  {
   "id": 3203120008,
   "districtId": 3203120,
-  "name": "CIBADAK"
+  "districtName": "CIBEBER",
+  "name": "CIBADAK",
+  "postalCode": "40241"
  },
  {
   "id": 3203120009,
   "districtId": 3203120,
-  "name": "GIRIMULYA"
+  "districtName": "CIBEBER",
+  "name": "GIRIMULYA",
+  "postalCode": "45468"
  },
  {
   "id": 3203120010,
   "districtId": 3203120,
-  "name": "CIMANGGU"
+  "districtName": "CIBEBER",
+  "name": "CIMANGGU",
+  "postalCode": "43262"
  },
  {
   "id": 3203120011,
   "districtId": 3203120,
-  "name": "CISALAK"
+  "districtName": "CIBEBER",
+  "name": "CISALAK",
+  "postalCode": "43262"
  },
  {
   "id": 3203120012,
   "districtId": 3203120,
-  "name": "MAYAK"
+  "districtName": "CIBEBER",
+  "name": "MAYAK",
+  "postalCode": "43262"
  },
  {
   "id": 3203120013,
   "districtId": 3203120,
-  "name": "PEUTEUYCONDONG"
+  "districtName": "CIBEBER",
+  "name": "PEUTEUYCONDONG",
+  "postalCode": "43262"
  },
  {
   "id": 3203120014,
   "districtId": 3203120,
-  "name": "SUKARAHARJA"
+  "districtName": "CIBEBER",
+  "name": "SUKARAHARJA",
+  "postalCode": "43262"
  },
  {
   "id": 3203120015,
   "districtId": 3203120,
-  "name": "SUKAMAJU"
+  "districtName": "CIBEBER",
+  "name": "SUKAMAJU",
+  "postalCode": "22465"
  },
  {
   "id": 3203120016,
   "districtId": 3203120,
-  "name": "CIBAREGBEG"
+  "districtName": "CIBEBER",
+  "name": "CIBAREGBEG",
+  "postalCode": "43262"
  },
  {
   "id": 3203120017,
   "districtId": 3203120,
-  "name": "KARANGNUNGGAL"
+  "districtName": "CIBEBER",
+  "name": "KARANGNUNGGAL",
+  "postalCode": "43262"
  },
  {
   "id": 3203120018,
   "districtId": 3203120,
-  "name": "SALAMNUNGGAL"
+  "districtName": "CIBEBER",
+  "name": "SALAMNUNGGAL",
+  "postalCode": "43262"
  }
 ]

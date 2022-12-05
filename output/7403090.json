@@ -2,71 +2,99 @@
  {
   "id": 7403090010,
   "districtId": 7403090,
-  "name": "WAWORAHA"
+  "districtName": "SOROPIA",
+  "name": "WAWORAHA",
+  "postalCode": "93464"
  },
  {
   "id": 7403090011,
   "districtId": 7403090,
-  "name": "SOROPIA"
+  "districtName": "SOROPIA",
+  "name": "SOROPIA",
+  "postalCode": "93351"
  },
  {
   "id": 7403090012,
   "districtId": 7403090,
-  "name": "SAWAPUDO"
+  "districtName": "SOROPIA",
+  "name": "SAWAPUDO",
+  "postalCode": "93351"
  },
  {
   "id": 7403090013,
   "districtId": 7403090,
-  "name": "ATOWATU"
+  "districtName": "SOROPIA",
+  "name": "ATOWATU",
+  "postalCode": "93351"
  },
  {
   "id": 7403090014,
   "districtId": 7403090,
-  "name": "TORONIPA"
+  "districtName": "SOROPIA",
+  "name": "TORONIPA",
+  "postalCode": "93351"
  },
  {
   "id": 7403090015,
   "districtId": 7403090,
-  "name": "BOKORI"
+  "districtName": "SOROPIA",
+  "name": "BOKORI",
+  "postalCode": "93351"
  },
  {
   "id": 7403090016,
   "districtId": 7403090,
-  "name": "MEKAR"
+  "districtName": "SOROPIA",
+  "name": "MEKAR",
+  "postalCode": "70617"
  },
  {
   "id": 7403090017,
   "districtId": 7403090,
-  "name": "BAJO INDAH"
+  "districtName": "SOROPIA",
+  "name": "BAJO INDAH",
+  "postalCode": "93351"
  },
  {
   "id": 7403090018,
   "districtId": 7403090,
-  "name": "TAPULAGA"
+  "districtName": "SOROPIA",
+  "name": "TAPULAGA",
+  "postalCode": "93351"
  },
  {
   "id": 7403090019,
   "districtId": 7403090,
-  "name": "SORUE JAYA"
+  "districtName": "SOROPIA",
+  "name": "SORUE JAYA",
+  "postalCode": "93351"
  },
  {
   "id": 7403090020,
   "districtId": 7403090,
-  "name": "SAPONDA"
+  "districtName": "SOROPIA",
+  "name": "SAPONDA",
+  "postalCode": "93351"
  },
  {
   "id": 7403090023,
   "districtId": 7403090,
-  "name": "TELAGA BIRU"
+  "districtName": "SOROPIA",
+  "name": "TELAGA BIRU",
+  "postalCode": "70119"
  },
  {
   "id": 7403090024,
   "districtId": 7403090,
-  "name": "BAJOE"
+  "districtName": "SOROPIA",
+  "name": "BAJOE",
+  "postalCode": "92716"
  },
  {
   "id": 7403090026,
   "districtId": 7403090,
-  "name": "SAPONDA LAUT"
+  "districtName": "SOROPIA",
+  "name": "SAPONDA LAUT",
+  "postalCode": "93351"
  }
 ]

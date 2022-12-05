@@ -2,16 +2,22 @@
  {
   "id": 3601191005,
   "districtId": 3601191,
-  "name": "KADUMERAK"
+  "districtName": "KARANGTANJUNG",
+  "name": "KADUMERAK",
+  "postalCode": "42251"
  },
  {
   "id": 3601191006,
   "districtId": 3601191,
-  "name": "PAGADUNGAN"
+  "districtName": "KARANGTANJUNG",
+  "name": "PAGADUNGAN",
+  "postalCode": "41385"
  },
  {
   "id": 3601191007,
   "districtId": 3601191,
-  "name": "CIGADUNG"
+  "districtName": "KARANGTANJUNG",
+  "name": "CIGADUNG",
+  "postalCode": "40191"
  }
 ]

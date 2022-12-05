@@ -2,41 +2,57 @@
  {
   "id": 9416037001,
   "districtId": 9416037,
-  "name": "TAPLA"
+  "districtName": "NIPSAN",
+  "name": "TAPLA",
+  "postalCode": "99582"
  },
  {
   "id": 9416037002,
   "districtId": 9416037,
-  "name": "NIPSAN"
+  "districtName": "NIPSAN",
+  "name": "NIPSAN",
+  "postalCode": "99582"
  },
  {
   "id": 9416037003,
   "districtId": 9416037,
-  "name": "WALMAK"
+  "districtName": "NIPSAN",
+  "name": "WALMAK",
+  "postalCode": "99582"
  },
  {
   "id": 9416037004,
   "districtId": 9416037,
-  "name": "SERENGON"
+  "districtName": "NIPSAN",
+  "name": "SERENGON",
+  "postalCode": ""
  },
  {
   "id": 9416037005,
   "districtId": 9416037,
-  "name": "BIU"
+  "districtName": "NIPSAN",
+  "name": "BIU",
+  "postalCode": "76252"
  },
  {
   "id": 9416037006,
   "districtId": 9416037,
-  "name": "IKMUK"
+  "districtName": "NIPSAN",
+  "name": "IKMUK",
+  "postalCode": ""
  },
  {
   "id": 9416037007,
   "districtId": 9416037,
-  "name": "ILUKDAMON"
+  "districtName": "NIPSAN",
+  "name": "ILUKDAMON",
+  "postalCode": "99582"
  },
  {
   "id": 9416037008,
   "districtId": 9416037,
-  "name": "YALMUN"
+  "districtName": "NIPSAN",
+  "name": "YALMUN",
+  "postalCode": "99582"
  }
 ]

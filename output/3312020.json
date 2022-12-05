@@ -2,41 +2,57 @@
  {
   "id": 3312020001,
   "districtId": 3312020,
-  "name": "PARANGGUPITO"
+  "districtName": "PARANGGUPITO",
+  "name": "PARANGGUPITO",
+  "postalCode": "57678"
  },
  {
   "id": 3312020002,
   "districtId": 3312020,
-  "name": "GUDANGHARJO"
+  "districtName": "PARANGGUPITO",
+  "name": "GUDANGHARJO",
+  "postalCode": "57678"
  },
  {
   "id": 3312020003,
   "districtId": 3312020,
-  "name": "GUNTURHARJO"
+  "districtName": "PARANGGUPITO",
+  "name": "GUNTURHARJO",
+  "postalCode": "57678"
  },
  {
   "id": 3312020004,
   "districtId": 3312020,
-  "name": "GENDAYAKAN"
+  "districtName": "PARANGGUPITO",
+  "name": "GENDAYAKAN",
+  "postalCode": "57678"
  },
  {
   "id": 3312020005,
   "districtId": 3312020,
-  "name": "SAMBIHARJO"
+  "districtName": "PARANGGUPITO",
+  "name": "SAMBIHARJO",
+  "postalCode": "57678"
  },
  {
   "id": 3312020006,
   "districtId": 3312020,
-  "name": "KETOS"
+  "districtName": "PARANGGUPITO",
+  "name": "KETOS",
+  "postalCode": "57678"
  },
  {
   "id": 3312020007,
   "districtId": 3312020,
-  "name": "SONGBLEDEG"
+  "districtName": "PARANGGUPITO",
+  "name": "SONGBLEDEG",
+  "postalCode": "57678"
  },
  {
   "id": 3312020008,
   "districtId": 3312020,
-  "name": "JOHUNUT"
+  "districtName": "PARANGGUPITO",
+  "name": "JOHUNUT",
+  "postalCode": "57678"
  }
 ]

@@ -2,51 +2,71 @@
  {
   "id": 9402191013,
   "districtId": 9402191,
-  "name": "USILIMO"
+  "districtName": "USILIMO",
+  "name": "USILIMO",
+  "postalCode": "99552"
  },
  {
   "id": 9402191014,
   "districtId": 9402191,
-  "name": "SIBA"
+  "districtName": "USILIMO",
+  "name": "SIBA",
+  "postalCode": "99552"
  },
  {
   "id": 9402191015,
   "districtId": 9402191,
-  "name": "WOSIALA"
+  "districtName": "USILIMO",
+  "name": "WOSIALA",
+  "postalCode": "99552"
  },
  {
   "id": 9402191032,
   "districtId": 9402191,
-  "name": "GUA WISATA"
+  "districtName": "USILIMO",
+  "name": "GUA WISATA",
+  "postalCode": "99552"
  },
  {
   "id": 9402191033,
   "districtId": 9402191,
-  "name": "FIKHA"
+  "districtName": "USILIMO",
+  "name": "FIKHA",
+  "postalCode": "99552"
  },
  {
   "id": 9402191034,
   "districtId": 9402191,
-  "name": "MEAGAIMA"
+  "districtName": "USILIMO",
+  "name": "MEAGAIMA",
+  "postalCode": ""
  },
  {
   "id": 9402191035,
   "districtId": 9402191,
-  "name": "ALONA"
+  "districtName": "USILIMO",
+  "name": "ALONA",
+  "postalCode": "99552"
  },
  {
   "id": 9402191036,
   "districtId": 9402191,
-  "name": "UDULUMO"
+  "districtName": "USILIMO",
+  "name": "UDULUMO",
+  "postalCode": ""
  },
  {
   "id": 9402191037,
   "districtId": 9402191,
-  "name": "ABUTPUK"
+  "districtName": "USILIMO",
+  "name": "ABUTPUK",
+  "postalCode": "99552"
  },
  {
   "id": 9402191038,
   "districtId": 9402191,
-  "name": "ISAIMAN"
+  "districtName": "USILIMO",
+  "name": "ISAIMAN",
+  "postalCode": "99552"
  }
 ]

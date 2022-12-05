@@ -2,31 +2,43 @@
  {
   "id": 7314051001,
   "districtId": 7314051,
-  "name": "MARIO"
+  "districtName": "KULO",
+  "name": "MARIO",
+  "postalCode": "92965"
  },
  {
   "id": 7314051002,
   "districtId": 7314051,
-  "name": "RIJANG PANUA"
+  "districtName": "KULO",
+  "name": "RIJANG PANUA",
+  "postalCode": "91653"
  },
  {
   "id": 7314051003,
   "districtId": 7314051,
-  "name": "KULO"
+  "districtName": "KULO",
+  "name": "KULO",
+  "postalCode": "91653"
  },
  {
   "id": 7314051004,
   "districtId": 7314051,
-  "name": "ABBOKONGANG"
+  "districtName": "KULO",
+  "name": "ABBOKONGANG",
+  "postalCode": ""
  },
  {
   "id": 7314051005,
   "districtId": 7314051,
-  "name": "MADDENRA"
+  "districtName": "KULO",
+  "name": "MADDENRA",
+  "postalCode": ""
  },
  {
   "id": 7314051006,
   "districtId": 7314051,
-  "name": "BINA BARU"
+  "districtName": "KULO",
+  "name": "BINA BARU",
+  "postalCode": "28471"
  }
 ]

@@ -2,21 +2,29 @@
  {
   "id": 2171080004,
   "districtId": 2171080,
-  "name": "KAMPUNG SERAYA"
+  "districtName": "BATU AMPAR",
+  "name": "KAMPUNG SERAYA",
+  "postalCode": "29454"
  },
  {
   "id": 2171080005,
   "districtId": 2171080,
-  "name": "SUNGAI JODOH"
+  "districtName": "BATU AMPAR",
+  "name": "SUNGAI JODOH",
+  "postalCode": "29453"
  },
  {
   "id": 2171080007,
   "districtId": 2171080,
-  "name": "TANJUNG SENGKUANG"
+  "districtName": "BATU AMPAR",
+  "name": "TANJUNG SENGKUANG",
+  "postalCode": "29453"
  },
  {
   "id": 2171080008,
   "districtId": 2171080,
-  "name": "BATU MERAH"
+  "districtName": "BATU AMPAR",
+  "name": "BATU MERAH",
+  "postalCode": "29452"
  }
 ]

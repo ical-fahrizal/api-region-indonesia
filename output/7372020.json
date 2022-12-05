@@ -2,21 +2,29 @@
  {
   "id": 7372020001,
   "districtId": 7372020,
-  "name": "LABUKKANG"
+  "districtName": "UJUNG",
+  "name": "LABUKKANG",
+  "postalCode": "91111"
  },
  {
   "id": 7372020002,
   "districtId": 7372020,
-  "name": "MALLUSETASI"
+  "districtName": "UJUNG",
+  "name": "MALLUSETASI",
+  "postalCode": "91111"
  },
  {
   "id": 7372020003,
   "districtId": 7372020,
-  "name": "UJUNG SABBANG"
+  "districtName": "UJUNG",
+  "name": "UJUNG SABBANG",
+  "postalCode": "91114"
  },
  {
   "id": 7372020005,
   "districtId": 7372020,
-  "name": "LAPADDE"
+  "districtName": "UJUNG",
+  "name": "LAPADDE",
+  "postalCode": "91112"
  }
 ]

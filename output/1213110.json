@@ -2,61 +2,85 @@
  {
   "id": 1213110001,
   "districtId": 1213110,
-  "name": "SUKARAMAI"
+  "districtName": "PADANG TUALANG",
+  "name": "SUKARAMAI",
+  "postalCode": "23243"
  },
  {
   "id": 1213110002,
   "districtId": 1213110,
-  "name": "TEBING TANJUNG SELAMAT"
+  "districtName": "PADANG TUALANG",
+  "name": "TEBING TANJUNG SELAMAT",
+  "postalCode": "20852"
  },
  {
   "id": 1213110003,
   "districtId": 1213110,
-  "name": "TANJUNG PUTUS"
+  "districtName": "PADANG TUALANG",
+  "name": "TANJUNG PUTUS",
+  "postalCode": "20852"
  },
  {
   "id": 1213110004,
   "districtId": 1213110,
-  "name": "TANJUNG SELAMAT"
+  "districtName": "PADANG TUALANG",
+  "name": "TANJUNG SELAMAT",
+  "postalCode": "21463"
  },
  {
   "id": 1213110005,
   "districtId": 1213110,
-  "name": "BESILAM"
+  "districtName": "PADANG TUALANG",
+  "name": "BESILAM",
+  "postalCode": "20852"
  },
  {
   "id": 1213110006,
   "districtId": 1213110,
-  "name": "PADANG TUALANG"
+  "districtName": "PADANG TUALANG",
+  "name": "PADANG TUALANG",
+  "postalCode": "20852"
  },
  {
   "id": 1213110007,
   "districtId": 1213110,
-  "name": "SERAPUH ABC"
+  "districtName": "PADANG TUALANG",
+  "name": "SERAPUH ABC",
+  "postalCode": "20852"
  },
  {
   "id": 1213110008,
   "districtId": 1213110,
-  "name": "KWALA PESILAM"
+  "districtName": "PADANG TUALANG",
+  "name": "KWALA PESILAM",
+  "postalCode": ""
  },
  {
   "id": 1213110009,
   "districtId": 1213110,
-  "name": "BULUH TELANG"
+  "districtName": "PADANG TUALANG",
+  "name": "BULUH TELANG",
+  "postalCode": "20852"
  },
  {
   "id": 1213110010,
   "districtId": 1213110,
-  "name": "JATI SARI"
+  "districtName": "PADANG TUALANG",
+  "name": "JATI SARI",
+  "postalCode": "20852"
  },
  {
   "id": 1213110011,
   "districtId": 1213110,
-  "name": "BANJAR RAYA"
+  "districtName": "PADANG TUALANG",
+  "name": "BANJAR RAYA",
+  "postalCode": ""
  },
  {
   "id": 1213110012,
   "districtId": 1213110,
-  "name": "BUKIT SARI"
+  "districtName": "PADANG TUALANG",
+  "name": "BUKIT SARI",
+  "postalCode": "24563"
  }
 ]

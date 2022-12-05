@@ -2,31 +2,43 @@
  {
   "id": 6202021001,
   "districtId": 6202021,
-  "name": "UJUNG PANDARAN"
+  "districtName": "TELUK SAMPIT",
+  "name": "UJUNG PANDARAN",
+  "postalCode": "74363"
  },
  {
   "id": 6202021002,
   "districtId": 6202021,
-  "name": "LAMPUYANG"
+  "districtName": "TELUK SAMPIT",
+  "name": "LAMPUYANG",
+  "postalCode": "23391"
  },
  {
   "id": 6202021003,
   "districtId": 6202021,
-  "name": "BASAWANG"
+  "districtName": "TELUK SAMPIT",
+  "name": "BASAWANG",
+  "postalCode": "74363"
  },
  {
   "id": 6202021004,
   "districtId": 6202021,
-  "name": "PAREBOK"
+  "districtName": "TELUK SAMPIT",
+  "name": "PAREBOK",
+  "postalCode": "74363"
  },
  {
   "id": 6202021005,
   "districtId": 6202021,
-  "name": "KUIN PERMAI"
+  "districtName": "TELUK SAMPIT",
+  "name": "KUIN PERMAI",
+  "postalCode": "74363"
  },
  {
   "id": 6202021006,
   "districtId": 6202021,
-  "name": "REGEI LESTARI"
+  "districtName": "TELUK SAMPIT",
+  "name": "REGEI LESTARI",
+  "postalCode": "74363"
  }
 ]

@@ -2,66 +2,92 @@
  {
   "id": 3328010001,
   "districtId": 3328010,
-  "name": "PRUPUK SELATAN"
+  "districtName": "MARGASARI",
+  "name": "PRUPUK SELATAN",
+  "postalCode": "52463"
  },
  {
   "id": 3328010002,
   "districtId": 3328010,
-  "name": "PRUPUK UTARA"
+  "districtName": "MARGASARI",
+  "name": "PRUPUK UTARA",
+  "postalCode": "52463"
  },
  {
   "id": 3328010003,
   "districtId": 3328010,
-  "name": "KALIGAYAM"
+  "districtName": "MARGASARI",
+  "name": "KALIGAYAM",
+  "postalCode": "52463"
  },
  {
   "id": 3328010004,
   "districtId": 3328010,
-  "name": "WANASARI"
+  "districtName": "MARGASARI",
+  "name": "WANASARI",
+  "postalCode": "43273"
  },
  {
   "id": 3328010005,
   "districtId": 3328010,
-  "name": "DANARAJA"
+  "districtName": "MARGASARI",
+  "name": "DANARAJA",
+  "postalCode": "53192"
  },
  {
   "id": 3328010006,
   "districtId": 3328010,
-  "name": "JEMBAYAT"
+  "districtName": "MARGASARI",
+  "name": "JEMBAYAT",
+  "postalCode": "52463"
  },
  {
   "id": 3328010007,
   "districtId": 3328010,
-  "name": "MARGASARI"
+  "districtName": "MARGASARI",
+  "name": "MARGASARI",
+  "postalCode": "34198"
  },
  {
   "id": 3328010008,
   "districtId": 3328010,
-  "name": "DUKUH TENGAH"
+  "districtName": "MARGASARI",
+  "name": "DUKUH TENGAH",
+  "postalCode": "52263"
  },
  {
   "id": 3328010009,
   "districtId": 3328010,
-  "name": "PAKULAUT"
+  "districtName": "MARGASARI",
+  "name": "PAKULAUT",
+  "postalCode": "52463"
  },
  {
   "id": 3328010010,
   "districtId": 3328010,
-  "name": "MARGAAYU"
+  "districtName": "MARGASARI",
+  "name": "MARGAAYU",
+  "postalCode": ""
  },
  {
   "id": 3328010011,
   "districtId": 3328010,
-  "name": "KALISALAK"
+  "districtName": "MARGASARI",
+  "name": "KALISALAK",
+  "postalCode": "51216"
  },
  {
   "id": 3328010012,
   "districtId": 3328010,
-  "name": "KARANGDAWA"
+  "districtName": "MARGASARI",
+  "name": "KARANGDAWA",
+  "postalCode": "52463"
  },
  {
   "id": 3328010013,
   "districtId": 3328010,
-  "name": "JATILABA"
+  "districtName": "MARGASARI",
+  "name": "JATILABA",
+  "postalCode": "52463"
  }
 ]

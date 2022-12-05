@@ -2,26 +2,36 @@
  {
   "id": 8101055001,
   "districtId": 8101055,
-  "name": "NURKAT"
+  "districtName": "MOLU MARU",
+  "name": "NURKAT",
+  "postalCode": "97463"
  },
  {
   "id": 8101055002,
   "districtId": 8101055,
-  "name": "TUTUNAMETAL"
+  "districtName": "MOLU MARU",
+  "name": "TUTUNAMETAL",
+  "postalCode": "97463"
  },
  {
   "id": 8101055003,
   "districtId": 8101055,
-  "name": "WULMASA"
+  "districtName": "MOLU MARU",
+  "name": "WULMASA",
+  "postalCode": "97463"
  },
  {
   "id": 8101055004,
   "districtId": 8101055,
-  "name": "WADANKAU"
+  "districtName": "MOLU MARU",
+  "name": "WADANKAU",
+  "postalCode": ""
  },
  {
   "id": 8101055005,
   "districtId": 8101055,
-  "name": "ADODOMOLO"
+  "districtName": "MOLU MARU",
+  "name": "ADODOMOLO",
+  "postalCode": ""
  }
 ]

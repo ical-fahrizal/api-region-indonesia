@@ -2,46 +2,64 @@
  {
   "id": 9403170001,
   "districtId": 9403170,
-  "name": "BENYOM JAYA I"
+  "districtName": "NIMBOKRANG",
+  "name": "BENYOM JAYA I",
+  "postalCode": "99362"
  },
  {
   "id": 9403170002,
   "districtId": 9403170,
-  "name": "BENYOM JAYA II"
+  "districtName": "NIMBOKRANG",
+  "name": "BENYOM JAYA II",
+  "postalCode": "99362"
  },
  {
   "id": 9403170003,
   "districtId": 9403170,
-  "name": "NEMBUKRANG"
+  "districtName": "NIMBOKRANG",
+  "name": "NEMBUKRANG",
+  "postalCode": ""
  },
  {
   "id": 9403170004,
   "districtId": 9403170,
-  "name": "NIMBOKRANG SARI"
+  "districtName": "NIMBOKRANG",
+  "name": "NIMBOKRANG SARI",
+  "postalCode": ""
  },
  {
   "id": 9403170005,
   "districtId": 9403170,
-  "name": "BERAB"
+  "districtName": "NIMBOKRANG",
+  "name": "BERAB",
+  "postalCode": "99362"
  },
  {
   "id": 9403170006,
   "districtId": 9403170,
-  "name": "WAHAB"
+  "districtName": "NIMBOKRANG",
+  "name": "WAHAB",
+  "postalCode": "99362"
  },
  {
   "id": 9403170007,
   "districtId": 9403170,
-  "name": "HAMONGKRANG"
+  "districtName": "NIMBOKRANG",
+  "name": "HAMONGKRANG",
+  "postalCode": "99362"
  },
  {
   "id": 9403170008,
   "districtId": 9403170,
-  "name": "BUNYOM"
+  "districtName": "NIMBOKRANG",
+  "name": "BUNYOM",
+  "postalCode": "99362"
  },
  {
   "id": 9403170009,
   "districtId": 9403170,
-  "name": "RHEPANG MUAIB"
+  "districtName": "NIMBOKRANG",
+  "name": "RHEPANG MUAIB",
+  "postalCode": ""
  }
 ]

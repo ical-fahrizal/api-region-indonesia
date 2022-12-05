@@ -2,26 +2,36 @@
  {
   "id": 9433012001,
   "districtId": 9433012,
-  "name": "JIWOT"
+  "districtName": "ONERI",
+  "name": "JIWOT",
+  "postalCode": "98973"
  },
  {
   "id": 9433012002,
   "districtId": 9433012,
-  "name": "WUYUNGGAME"
+  "districtName": "ONERI",
+  "name": "WUYUNGGAME",
+  "postalCode": ""
  },
  {
   "id": 9433012003,
   "districtId": 9433012,
-  "name": "GUNALUK"
+  "districtName": "ONERI",
+  "name": "GUNALUK",
+  "postalCode": ""
  },
  {
   "id": 9433012004,
   "districtId": 9433012,
-  "name": "DEOGI"
+  "districtName": "ONERI",
+  "name": "DEOGI",
+  "postalCode": ""
  },
  {
   "id": 9433012006,
   "districtId": 9433012,
-  "name": "KUGIAME"
+  "districtName": "ONERI",
+  "name": "KUGIAME",
+  "postalCode": ""
  }
 ]

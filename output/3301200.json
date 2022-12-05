@@ -2,86 +2,120 @@
  {
   "id": 3301200001,
   "districtId": 3301200,
-  "name": "KARANGTAWANG"
+  "districtName": "NUSAWUNGU",
+  "name": "KARANGTAWANG",
+  "postalCode": "45515"
  },
  {
   "id": 3301200002,
   "districtId": 3301200,
-  "name": "KARANGPAKIS"
+  "districtName": "NUSAWUNGU",
+  "name": "KARANGPAKIS",
+  "postalCode": "53283"
  },
  {
   "id": 3301200003,
   "districtId": 3301200,
-  "name": "BANJARSARI"
+  "districtName": "NUSAWUNGU",
+  "name": "BANJARSARI",
+  "postalCode": "35377"
  },
  {
   "id": 3301200004,
   "districtId": 3301200,
-  "name": "JETIS"
+  "districtName": "NUSAWUNGU",
+  "name": "JETIS",
+  "postalCode": "57556"
  },
  {
   "id": 3301200005,
   "districtId": 3301200,
-  "name": "BANJAREJA"
+  "districtName": "NUSAWUNGU",
+  "name": "BANJAREJA",
+  "postalCode": "54366"
  },
  {
   "id": 3301200006,
   "districtId": 3301200,
-  "name": "KEDUNGBENDA"
+  "districtName": "NUSAWUNGU",
+  "name": "KEDUNGBENDA",
+  "postalCode": "53381"
  },
  {
   "id": 3301200007,
   "districtId": 3301200,
-  "name": "KLUMPRIT"
+  "districtName": "NUSAWUNGU",
+  "name": "KLUMPRIT",
+  "postalCode": "57554"
  },
  {
   "id": 3301200008,
   "districtId": 3301200,
-  "name": "KARANGSEMBUNG"
+  "districtName": "NUSAWUNGU",
+  "name": "KARANGSEMBUNG",
+  "postalCode": "46175"
  },
  {
   "id": 3301200009,
   "districtId": 3301200,
-  "name": "PURWADADI"
+  "districtName": "NUSAWUNGU",
+  "name": "PURWADADI",
+  "postalCode": "46385"
  },
  {
   "id": 3301200010,
   "districtId": 3301200,
-  "name": "NUSAWANGKAL"
+  "districtName": "NUSAWUNGU",
+  "name": "NUSAWANGKAL",
+  "postalCode": "53283"
  },
  {
   "id": 3301200011,
   "districtId": 3301200,
-  "name": "KARANGPUTAT"
+  "districtName": "NUSAWUNGU",
+  "name": "KARANGPUTAT",
+  "postalCode": "53283"
  },
  {
   "id": 3301200012,
   "districtId": 3301200,
-  "name": "BANJARWARU"
+  "districtName": "NUSAWUNGU",
+  "name": "BANJARWARU",
+  "postalCode": "53283"
  },
  {
   "id": 3301200013,
   "districtId": 3301200,
-  "name": "DANASRI"
+  "districtName": "NUSAWUNGU",
+  "name": "DANASRI",
+  "postalCode": "53283"
  },
  {
   "id": 3301200014,
   "districtId": 3301200,
-  "name": "DANASRI KIDUL"
+  "districtName": "NUSAWUNGU",
+  "name": "DANASRI KIDUL",
+  "postalCode": "53283"
  },
  {
   "id": 3301200015,
   "districtId": 3301200,
-  "name": "NUSAWUNGU"
+  "districtName": "NUSAWUNGU",
+  "name": "NUSAWUNGU",
+  "postalCode": "53283"
  },
  {
   "id": 3301200016,
   "districtId": 3301200,
-  "name": "DANASRI LOR"
+  "districtName": "NUSAWUNGU",
+  "name": "DANASRI LOR",
+  "postalCode": "53283"
  },
  {
   "id": 3301200017,
   "districtId": 3301200,
-  "name": "SIKANCO"
+  "districtName": "NUSAWUNGU",
+  "name": "SIKANCO",
+  "postalCode": "53283"
  }
 ]

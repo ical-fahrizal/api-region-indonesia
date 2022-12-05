@@ -2,56 +2,78 @@
  {
   "id": 3174050001,
   "districtId": 3174050,
-  "name": "KALIANYAR"
+  "districtName": "TAMBORA",
+  "name": "KALIANYAR",
+  "postalCode": "45284"
  },
  {
   "id": 3174050002,
   "districtId": 3174050,
-  "name": "DURI SELATAN"
+  "districtName": "TAMBORA",
+  "name": "DURI SELATAN",
+  "postalCode": "11270"
  },
  {
   "id": 3174050003,
   "districtId": 3174050,
-  "name": "TANAH SEREAL"
+  "districtName": "TAMBORA",
+  "name": "TANAH SEREAL",
+  "postalCode": "11210"
  },
  {
   "id": 3174050004,
   "districtId": 3174050,
-  "name": "DURI UTARA"
+  "districtName": "TAMBORA",
+  "name": "DURI UTARA",
+  "postalCode": "11270"
  },
  {
   "id": 3174050005,
   "districtId": 3174050,
-  "name": "KRENDANG"
+  "districtName": "TAMBORA",
+  "name": "KRENDANG",
+  "postalCode": "11260"
  },
  {
   "id": 3174050006,
   "districtId": 3174050,
-  "name": "JEMBATAN BESI"
+  "districtName": "TAMBORA",
+  "name": "JEMBATAN BESI",
+  "postalCode": "11320"
  },
  {
   "id": 3174050007,
   "districtId": 3174050,
-  "name": "ANGKE"
+  "districtName": "TAMBORA",
+  "name": "ANGKE",
+  "postalCode": "11330"
  },
  {
   "id": 3174050008,
   "districtId": 3174050,
-  "name": "JEMBATAN LIMA"
+  "districtName": "TAMBORA",
+  "name": "JEMBATAN LIMA",
+  "postalCode": "11250"
  },
  {
   "id": 3174050009,
   "districtId": 3174050,
-  "name": "TAMBORA"
+  "districtName": "TAMBORA",
+  "name": "TAMBORA",
+  "postalCode": "11220"
  },
  {
   "id": 3174050010,
   "districtId": 3174050,
-  "name": "ROA MALAKA"
+  "districtName": "TAMBORA",
+  "name": "ROA MALAKA",
+  "postalCode": "11230"
  },
  {
   "id": 3174050011,
   "districtId": 3174050,
-  "name": "PEKOJAN"
+  "districtName": "TAMBORA",
+  "name": "PEKOJAN",
+  "postalCode": "11240"
  }
 ]

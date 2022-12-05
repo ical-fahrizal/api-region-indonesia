@@ -2,31 +2,43 @@
  {
   "id": 9415033001,
   "districtId": 9415033,
-  "name": "OMANASEP"
+  "districtName": "BECTBAMU",
+  "name": "OMANASEP",
+  "postalCode": ""
  },
  {
   "id": 9415033002,
   "districtId": 9415033,
-  "name": "WARKAI"
+  "districtName": "BECTBAMU",
+  "name": "WARKAI",
+  "postalCode": ""
  },
  {
   "id": 9415033003,
   "districtId": 9415033,
-  "name": "YOU"
+  "districtName": "BECTBAMU",
+  "name": "YOU",
+  "postalCode": ""
  },
  {
   "id": 9415033004,
   "districtId": 9415033,
-  "name": "BIWAR LAUT"
+  "districtName": "BECTBAMU",
+  "name": "BIWAR LAUT",
+  "postalCode": "99776"
  },
  {
   "id": 9415033005,
   "districtId": 9415033,
-  "name": "ATAMBUTS"
+  "districtName": "BECTBAMU",
+  "name": "ATAMBUTS",
+  "postalCode": "99776"
  },
  {
   "id": 9415033007,
   "districtId": 9415033,
-  "name": "PIRPIS"
+  "districtName": "BECTBAMU",
+  "name": "PIRPIS",
+  "postalCode": "99776"
  }
 ]

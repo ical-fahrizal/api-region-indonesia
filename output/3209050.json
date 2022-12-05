@@ -2,41 +2,57 @@
  {
   "id": 3209050008,
   "districtId": 3209050,
-  "name": "TAMBELANG"
+  "districtName": "KARANGSEMBUNG",
+  "name": "TAMBELANG",
+  "postalCode": "45186"
  },
  {
   "id": 3209050015,
   "districtId": 3209050,
-  "name": "KARANGSUWUNG"
+  "districtName": "KARANGSEMBUNG",
+  "name": "KARANGSUWUNG",
+  "postalCode": "45186"
  },
  {
   "id": 3209050016,
   "districtId": 3209050,
-  "name": "KARANGTENGAH"
+  "districtName": "KARANGSEMBUNG",
+  "name": "KARANGTENGAH",
+  "postalCode": "43351"
  },
  {
   "id": 3209050017,
   "districtId": 3209050,
-  "name": "KALIMEANG"
+  "districtName": "KARANGSEMBUNG",
+  "name": "KALIMEANG",
+  "postalCode": "45186"
  },
  {
   "id": 3209050018,
   "districtId": 3209050,
-  "name": "KARANGMALANG"
+  "districtName": "KARANGSEMBUNG",
+  "name": "KARANGMALANG",
+  "postalCode": "45213"
  },
  {
   "id": 3209050019,
   "districtId": 3209050,
-  "name": "KARANGMEKAR"
+  "districtName": "KARANGSEMBUNG",
+  "name": "KARANGMEKAR",
+  "postalCode": "40523"
  },
  {
   "id": 3209050020,
   "districtId": 3209050,
-  "name": "KUBANGKARANG"
+  "districtName": "KARANGSEMBUNG",
+  "name": "KUBANGKARANG",
+  "postalCode": "45186"
  },
  {
   "id": 3209050021,
   "districtId": 3209050,
-  "name": "KARANGSEMBUNG"
+  "districtName": "KARANGSEMBUNG",
+  "name": "KARANGSEMBUNG",
+  "postalCode": "46175"
  }
 ]

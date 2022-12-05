@@ -2,41 +2,57 @@
  {
   "id": 8204034001,
   "districtId": 8204034,
-  "name": "KAMPUNG BARU"
+  "districtName": "BATANG LOMANG",
+  "name": "KAMPUNG BARU",
+  "postalCode": "24652"
  },
  {
   "id": 8204034002,
   "districtId": 8204034,
-  "name": "BATUTAGA"
+  "districtName": "BATANG LOMANG",
+  "name": "BATUTAGA",
+  "postalCode": "97791"
  },
  {
   "id": 8204034003,
   "districtId": 8204034,
-  "name": "PARAPAKANDA"
+  "districtName": "BATANG LOMANG",
+  "name": "PARAPAKANDA",
+  "postalCode": ""
  },
  {
   "id": 8204034004,
   "districtId": 8204034,
-  "name": "TANJUNG OBIT"
+  "districtName": "BATANG LOMANG",
+  "name": "TANJUNG OBIT",
+  "postalCode": "97791"
  },
  {
   "id": 8204034005,
   "districtId": 8204034,
-  "name": "BAJO"
+  "districtName": "BATANG LOMANG",
+  "name": "BAJO",
+  "postalCode": "58381"
  },
  {
   "id": 8204034006,
   "districtId": 8204034,
-  "name": "PASIMBAOS"
+  "districtName": "BATANG LOMANG",
+  "name": "PASIMBAOS",
+  "postalCode": "97791"
  },
  {
   "id": 8204034007,
   "districtId": 8204034,
-  "name": "SAWANAKAR"
+  "districtName": "BATANG LOMANG",
+  "name": "SAWANAKAR",
+  "postalCode": ""
  },
  {
   "id": 8204034008,
   "districtId": 8204034,
-  "name": "TOIN"
+  "districtName": "BATANG LOMANG",
+  "name": "TOIN",
+  "postalCode": "97791"
  }
 ]

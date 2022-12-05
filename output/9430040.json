@@ -2,51 +2,71 @@
  {
   "id": 9430040001,
   "districtId": 9430040,
-  "name": "BALINGGA"
+  "districtName": "BALINGGA",
+  "name": "BALINGGA",
+  "postalCode": ""
  },
  {
   "id": 9430040006,
   "districtId": 9430040,
-  "name": "TIMA"
+  "districtName": "BALINGGA",
+  "name": "TIMA",
+  "postalCode": "99563"
  },
  {
   "id": 9430040007,
   "districtId": 9430040,
-  "name": "BALIME"
+  "districtName": "BALINGGA",
+  "name": "BALIME",
+  "postalCode": "99563"
  },
  {
   "id": 9430040010,
   "districtId": 9430040,
-  "name": "BALIMNERI"
+  "districtName": "BALINGGA",
+  "name": "BALIMNERI",
+  "postalCode": "99563"
  },
  {
   "id": 9430040013,
   "districtId": 9430040,
-  "name": "TIMONIKIME"
+  "districtName": "BALINGGA",
+  "name": "TIMONIKIME",
+  "postalCode": ""
  },
  {
   "id": 9430040014,
   "districtId": 9430040,
-  "name": "BINOLANGEN"
+  "districtName": "BALINGGA",
+  "name": "BINOLANGEN",
+  "postalCode": ""
  },
  {
   "id": 9430040015,
   "districtId": 9430040,
-  "name": "DEWAKA"
+  "districtName": "BALINGGA",
+  "name": "DEWAKA",
+  "postalCode": ""
  },
  {
   "id": 9430040016,
   "districtId": 9430040,
-  "name": "YIALA"
+  "districtName": "BALINGGA",
+  "name": "YIALA",
+  "postalCode": ""
  },
  {
   "id": 9430040017,
   "districtId": 9430040,
-  "name": "TUWEWAK"
+  "districtName": "BALINGGA",
+  "name": "TUWEWAK",
+  "postalCode": ""
  },
  {
   "id": 9430040018,
   "districtId": 9430040,
-  "name": "YUMANERI"
+  "districtName": "BALINGGA",
+  "name": "YUMANERI",
+  "postalCode": ""
  }
 ]

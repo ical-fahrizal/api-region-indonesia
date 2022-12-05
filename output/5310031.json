@@ -2,36 +2,50 @@
  {
   "id": 5310031007,
   "districtId": 5310031,
-  "name": "WOLOMOTONG"
+  "districtName": "DORENG",
+  "name": "WOLOMOTONG",
+  "postalCode": "86171"
  },
  {
   "id": 5310031008,
   "districtId": 5310031,
-  "name": "KLOANGPOPOT"
+  "districtName": "DORENG",
+  "name": "KLOANGPOPOT",
+  "postalCode": "86171"
  },
  {
   "id": 5310031009,
   "districtId": 5310031,
-  "name": "WATUMERAK"
+  "districtName": "DORENG",
+  "name": "WATUMERAK",
+  "postalCode": "86171"
  },
  {
   "id": 5310031010,
   "districtId": 5310031,
-  "name": "WOGALIRIT"
+  "districtName": "DORENG",
+  "name": "WOGALIRIT",
+  "postalCode": "86171"
  },
  {
   "id": 5310031011,
   "districtId": 5310031,
-  "name": "WAIHAWA"
+  "districtName": "DORENG",
+  "name": "WAIHAWA",
+  "postalCode": "86171"
  },
  {
   "id": 5310031012,
   "districtId": 5310031,
-  "name": "NEN BURA"
+  "districtName": "DORENG",
+  "name": "NEN BURA",
+  "postalCode": ""
  },
  {
   "id": 5310031016,
   "districtId": 5310031,
-  "name": "WOLONTERANG"
+  "districtName": "DORENG",
+  "name": "WOLONTERANG",
+  "postalCode": "86171"
  }
 ]

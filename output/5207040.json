@@ -2,46 +2,64 @@
  {
   "id": 5207040001,
   "districtId": 5207040,
-  "name": "SAPUGARA BREE"
+  "districtName": "BRANG REA",
+  "name": "SAPUGARA BREE",
+  "postalCode": "84458"
  },
  {
   "id": 5207040002,
   "districtId": 5207040,
-  "name": "DESA BERU"
+  "districtName": "BRANG REA",
+  "name": "DESA BERU",
+  "postalCode": "84458"
  },
  {
   "id": 5207040003,
   "districtId": 5207040,
-  "name": "TEPAS"
+  "districtName": "BRANG REA",
+  "name": "TEPAS",
+  "postalCode": "63271"
  },
  {
   "id": 5207040004,
   "districtId": 5207040,
-  "name": "BANGKAT MONTEH"
+  "districtName": "BRANG REA",
+  "name": "BANGKAT MONTEH",
+  "postalCode": ""
  },
  {
   "id": 5207040005,
   "districtId": 5207040,
-  "name": "SEMINAR SALIT"
+  "districtName": "BRANG REA",
+  "name": "SEMINAR SALIT",
+  "postalCode": "84455"
  },
  {
   "id": 5207040006,
   "districtId": 5207040,
-  "name": "TEPAS SEPAKAT"
+  "districtName": "BRANG REA",
+  "name": "TEPAS SEPAKAT",
+  "postalCode": "84455"
  },
  {
   "id": 5207040007,
   "districtId": 5207040,
-  "name": "MOTENG"
+  "districtName": "BRANG REA",
+  "name": "MOTENG",
+  "postalCode": "84455"
  },
  {
   "id": 5207040008,
   "districtId": 5207040,
-  "name": "LAMUNTET"
+  "districtName": "BRANG REA",
+  "name": "LAMUNTET",
+  "postalCode": "84455"
  },
  {
   "id": 5207040009,
   "districtId": 5207040,
-  "name": "RARAK RONGIS"
+  "districtName": "BRANG REA",
+  "name": "RARAK RONGIS",
+  "postalCode": ""
  }
 ]

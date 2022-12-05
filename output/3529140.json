@@ -2,71 +2,99 @@
  {
   "id": 3529140001,
   "districtId": 3529140,
-  "name": "BATUBELAH BARAT"
+  "districtName": "DASUK",
+  "name": "BATUBELAH BARAT",
+  "postalCode": "69454"
  },
  {
   "id": 3529140002,
   "districtId": 3529140,
-  "name": "BATUBELAH TIMUR"
+  "districtName": "DASUK",
+  "name": "BATUBELAH TIMUR",
+  "postalCode": "69454"
  },
  {
   "id": 3529140004,
   "districtId": 3529140,
-  "name": "BATES"
+  "districtName": "DASUK",
+  "name": "BATES",
+  "postalCode": "69174"
  },
  {
   "id": 3529140005,
   "districtId": 3529140,
-  "name": "BRINGIN"
+  "districtName": "DASUK",
+  "name": "BRINGIN",
+  "postalCode": "45167"
  },
  {
   "id": 3529140006,
   "districtId": 3529140,
-  "name": "JELBUDAN"
+  "districtName": "DASUK",
+  "name": "JELBUDAN",
+  "postalCode": "69454"
  },
  {
   "id": 3529140007,
   "districtId": 3529140,
-  "name": "NYAPAR"
+  "districtName": "DASUK",
+  "name": "NYAPAR",
+  "postalCode": "69454"
  },
  {
   "id": 3529140008,
   "districtId": 3529140,
-  "name": "MANTAJUN"
+  "districtName": "DASUK",
+  "name": "MANTAJUN",
+  "postalCode": "69454"
  },
  {
   "id": 3529140009,
   "districtId": 3529140,
-  "name": "DASUK LAOK"
+  "districtName": "DASUK",
+  "name": "DASUK LAOK",
+  "postalCode": "69454"
  },
  {
   "id": 3529140010,
   "districtId": 3529140,
-  "name": "DASUK TIMUR"
+  "districtName": "DASUK",
+  "name": "DASUK TIMUR",
+  "postalCode": "69454"
  },
  {
   "id": 3529140011,
   "districtId": 3529140,
-  "name": "DASUK BARAT"
+  "districtName": "DASUK",
+  "name": "DASUK BARAT",
+  "postalCode": "69454"
  },
  {
   "id": 3529140012,
   "districtId": 3529140,
-  "name": "KERTA TIMUR"
+  "districtName": "DASUK",
+  "name": "KERTA TIMUR",
+  "postalCode": "69454"
  },
  {
   "id": 3529140013,
   "districtId": 3529140,
-  "name": "KERTA BARAT"
+  "districtName": "DASUK",
+  "name": "KERTA BARAT",
+  "postalCode": "69454"
  },
  {
   "id": 3529140014,
   "districtId": 3529140,
-  "name": "SEMAAN"
+  "districtName": "DASUK",
+  "name": "SEMAAN",
+  "postalCode": "69454"
  },
  {
   "id": 3529140015,
   "districtId": 3529140,
-  "name": "SLOPENG"
+  "districtName": "DASUK",
+  "name": "SLOPENG",
+  "postalCode": "69454"
  }
 ]

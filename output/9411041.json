@@ -2,51 +2,71 @@
  {
   "id": 9411041005,
   "districtId": 9411041,
-  "name": "GUERI"
+  "districtName": "DAGAI",
+  "name": "GUERI",
+  "postalCode": "98917"
  },
  {
   "id": 9411041007,
   "districtId": 9411041,
-  "name": "DAGAI"
+  "districtName": "DAGAI",
+  "name": "DAGAI",
+  "postalCode": "98917"
  },
  {
   "id": 9411041014,
   "districtId": 9411041,
-  "name": "MBOMBAN"
+  "districtName": "DAGAI",
+  "name": "MBOMBAN",
+  "postalCode": "98917"
  },
  {
   "id": 9411041015,
   "districtId": 9411041,
-  "name": "YEIHNERI"
+  "districtName": "DAGAI",
+  "name": "YEIHNERI",
+  "postalCode": "98917"
  },
  {
   "id": 9411041016,
   "districtId": 9411041,
-  "name": "MANDARALANI"
+  "districtName": "DAGAI",
+  "name": "MANDARALANI",
+  "postalCode": ""
  },
  {
   "id": 9411041017,
   "districtId": 9411041,
-  "name": "DEBITE"
+  "districtName": "DAGAI",
+  "name": "DEBITE",
+  "postalCode": "98917"
  },
  {
   "id": 9411041019,
   "districtId": 9411041,
-  "name": "DAGAI 2"
+  "districtName": "DAGAI",
+  "name": "DAGAI 2",
+  "postalCode": "98917"
  },
  {
   "id": 9411041020,
   "districtId": 9411041,
-  "name": "DEIDE"
+  "districtName": "DAGAI",
+  "name": "DEIDE",
+  "postalCode": "98917"
  },
  {
   "id": 9411041021,
   "districtId": 9411041,
-  "name": "FARIDE"
+  "districtName": "DAGAI",
+  "name": "FARIDE",
+  "postalCode": ""
  },
  {
   "id": 9411041022,
   "districtId": 9411041,
-  "name": "SOI"
+  "districtName": "DAGAI",
+  "name": "SOI",
+  "postalCode": "94362"
  }
 ]

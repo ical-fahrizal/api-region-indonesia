@@ -2,56 +2,78 @@
  {
   "id": 1509050017,
   "districtId": 1509050,
-  "name": "TEBING TINGGI ULEH"
+  "districtName": "TANAH TUMBUH",
+  "name": "TEBING TINGGI ULEH",
+  "postalCode": "37255"
  },
  {
   "id": 1509050018,
   "districtId": 1509050,
-  "name": "BUKIT KEMANG"
+  "districtName": "TANAH TUMBUH",
+  "name": "BUKIT KEMANG",
+  "postalCode": ""
  },
  {
   "id": 1509050019,
   "districtId": 1509050,
-  "name": "RAMBAH"
+  "districtName": "TANAH TUMBUH",
+  "name": "RAMBAH",
+  "postalCode": "28557"
  },
  {
   "id": 1509050020,
   "districtId": 1509050,
-  "name": "PEDUKUN"
+  "districtName": "TANAH TUMBUH",
+  "name": "PEDUKUN",
+  "postalCode": "37255"
  },
  {
   "id": 1509050021,
   "districtId": 1509050,
-  "name": "LUBUK NIUR"
+  "districtName": "TANAH TUMBUH",
+  "name": "LUBUK NIUR",
+  "postalCode": "37255"
  },
  {
   "id": 1509050022,
   "districtId": 1509050,
-  "name": "TANAH TUMBUH"
+  "districtName": "TANAH TUMBUH",
+  "name": "TANAH TUMBUH",
+  "postalCode": "24786"
  },
  {
   "id": 1509050023,
   "districtId": 1509050,
-  "name": "TELUK KECIMBUNG"
+  "districtName": "TANAH TUMBUH",
+  "name": "TELUK KECIMBUNG",
+  "postalCode": "37255"
  },
  {
   "id": 1509050024,
   "districtId": 1509050,
-  "name": "PANJANG"
+  "districtName": "TANAH TUMBUH",
+  "name": "PANJANG",
+  "postalCode": "21254"
  },
  {
   "id": 1509050025,
   "districtId": 1509050,
-  "name": "PERENTI LUWEH"
+  "districtName": "TANAH TUMBUH",
+  "name": "PERENTI LUWEH",
+  "postalCode": ""
  },
  {
   "id": 1509050027,
   "districtId": 1509050,
-  "name": "KOTO JAYO"
+  "districtName": "TANAH TUMBUH",
+  "name": "KOTO JAYO",
+  "postalCode": "37252"
  },
  {
   "id": 1509050028,
   "districtId": 1509050,
-  "name": "RENAH JELMU"
+  "districtName": "TANAH TUMBUH",
+  "name": "RENAH JELMU",
+  "postalCode": "37255"
  }
 ]

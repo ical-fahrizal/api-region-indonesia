@@ -2,46 +2,64 @@
  {
   "id": 7317030001,
   "districtId": 7317030,
-  "name": "BALUBU"
+  "districtName": "BELOPA",
+  "name": "BALUBU",
+  "postalCode": "91994"
  },
  {
   "id": 7317030002,
   "districtId": 7317030,
-  "name": "PASAMAI"
+  "districtName": "BELOPA",
+  "name": "PASAMAI",
+  "postalCode": "91994"
  },
  {
   "id": 7317030003,
   "districtId": 7317030,
-  "name": "SENGA SELATAN"
+  "districtName": "BELOPA",
+  "name": "SENGA SELATAN",
+  "postalCode": "91994"
  },
  {
   "id": 7317030004,
   "districtId": 7317030,
-  "name": "SENGA"
+  "districtName": "BELOPA",
+  "name": "SENGA",
+  "postalCode": "91994"
  },
  {
   "id": 7317030005,
   "districtId": 7317030,
-  "name": "BELOPA"
+  "districtName": "BELOPA",
+  "name": "BELOPA",
+  "postalCode": "91994"
  },
  {
   "id": 7317030006,
   "districtId": 7317030,
-  "name": "BALO- BALO"
+  "districtName": "BELOPA",
+  "name": "BALO- BALO",
+  "postalCode": "91994"
  },
  {
   "id": 7317030007,
   "districtId": 7317030,
-  "name": "KURRUSUMANGA"
+  "districtName": "BELOPA",
+  "name": "KURRUSUMANGA",
+  "postalCode": "91994"
  },
  {
   "id": 7317030019,
   "districtId": 7317030,
-  "name": "TANAMANAI"
+  "districtName": "BELOPA",
+  "name": "TANAMANAI",
+  "postalCode": "91994"
  },
  {
   "id": 7317030020,
   "districtId": 7317030,
-  "name": "TAMPUMIA RADDA"
+  "districtName": "BELOPA",
+  "name": "TAMPUMIA RADDA",
+  "postalCode": "91994"
  }
 ]

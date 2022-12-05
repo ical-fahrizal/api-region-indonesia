@@ -2,101 +2,141 @@
  {
   "id": 3525100001,
   "districtId": 3525100,
-  "name": "NGIPIK"
+  "districtName": "GRESIK",
+  "name": "NGIPIK",
+  "postalCode": "56272"
  },
  {
   "id": 3525100002,
   "districtId": 3525100,
-  "name": "TLOGOPATUT"
+  "districtName": "GRESIK",
+  "name": "TLOGOPATUT",
+  "postalCode": "61111"
  },
  {
   "id": 3525100003,
   "districtId": 3525100,
-  "name": "SIDOKUMPUL"
+  "districtName": "GRESIK",
+  "name": "SIDOKUMPUL",
+  "postalCode": "59565"
  },
  {
   "id": 3525100004,
   "districtId": 3525100,
-  "name": "KRAMATINGGIL"
+  "districtName": "GRESIK",
+  "name": "KRAMATINGGIL",
+  "postalCode": "61119"
  },
  {
   "id": 3525100005,
   "districtId": 3525100,
-  "name": "SIDORUKUN"
+  "districtName": "GRESIK",
+  "name": "SIDORUKUN",
+  "postalCode": "21462"
  },
  {
   "id": 3525100006,
   "districtId": 3525100,
-  "name": "PULOPANCIKAN"
+  "districtName": "GRESIK",
+  "name": "PULOPANCIKAN",
+  "postalCode": "61113"
  },
  {
   "id": 3525100007,
   "districtId": 3525100,
-  "name": "GAPUROSUKOLILO"
+  "districtName": "GRESIK",
+  "name": "GAPUROSUKOLILO",
+  "postalCode": "61119"
  },
  {
   "id": 3525100008,
   "districtId": 3525100,
-  "name": "TLOGOBENDUNG"
+  "districtName": "GRESIK",
+  "name": "TLOGOBENDUNG",
+  "postalCode": "61113"
  },
  {
   "id": 3525100009,
   "districtId": 3525100,
-  "name": "PEKAUMAN"
+  "districtName": "GRESIK",
+  "name": "PEKAUMAN",
+  "postalCode": "52255"
  },
  {
   "id": 3525100010,
   "districtId": 3525100,
-  "name": "SUKORAME"
+  "districtName": "GRESIK",
+  "name": "SUKORAME",
+  "postalCode": "57331"
  },
  {
   "id": 3525100011,
   "districtId": 3525100,
-  "name": "KARANGTURI"
+  "districtName": "GRESIK",
+  "name": "KARANGTURI",
+  "postalCode": "57455"
  },
  {
   "id": 3525100012,
   "districtId": 3525100,
-  "name": "TRATE"
+  "districtName": "GRESIK",
+  "name": "TRATE",
+  "postalCode": "61114"
  },
  {
   "id": 3525100013,
   "districtId": 3525100,
-  "name": "KARANGPOH"
+  "districtName": "GRESIK",
+  "name": "KARANGPOH",
+  "postalCode": "54361"
  },
  {
   "id": 3525100014,
   "districtId": 3525100,
-  "name": "BEDILAN"
+  "districtName": "GRESIK",
+  "name": "BEDILAN",
+  "postalCode": "32382"
  },
  {
   "id": 3525100015,
   "districtId": 3525100,
-  "name": "KEBUNGSON"
+  "districtName": "GRESIK",
+  "name": "KEBUNGSON",
+  "postalCode": "61115"
  },
  {
   "id": 3525100016,
   "districtId": 3525100,
-  "name": "PEKELINGAN"
+  "districtName": "GRESIK",
+  "name": "PEKELINGAN",
+  "postalCode": "61115"
  },
  {
   "id": 3525100017,
   "districtId": 3525100,
-  "name": "KEMUTERAN"
+  "districtName": "GRESIK",
+  "name": "KEMUTERAN",
+  "postalCode": "61115"
  },
  {
   "id": 3525100018,
   "districtId": 3525100,
-  "name": "SUKODONO"
+  "districtName": "GRESIK",
+  "name": "SUKODONO",
+  "postalCode": "59552"
  },
  {
   "id": 3525100019,
   "districtId": 3525100,
-  "name": "KROMAN"
+  "districtName": "GRESIK",
+  "name": "KROMAN",
+  "postalCode": "61116"
  },
  {
   "id": 3525100021,
   "districtId": 3525100,
-  "name": "TLOGOPOJOK"
+  "districtName": "GRESIK",
+  "name": "TLOGOPOJOK",
+  "postalCode": "61118"
  }
 ]

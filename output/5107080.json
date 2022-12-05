@@ -2,36 +2,50 @@
  {
   "id": 5107080001,
   "districtId": 5107080,
-  "name": "BAN"
+  "districtName": "KUBU",
+  "name": "BAN",
+  "postalCode": "80853"
  },
  {
   "id": 5107080003,
   "districtId": 5107080,
-  "name": "TULAMBEN"
+  "districtName": "KUBU",
+  "name": "TULAMBEN",
+  "postalCode": "80853"
  },
  {
   "id": 5107080005,
   "districtId": 5107080,
-  "name": "BATURINGGIT"
+  "districtName": "KUBU",
+  "name": "BATURINGGIT",
+  "postalCode": ""
  },
  {
   "id": 5107080006,
   "districtId": 5107080,
-  "name": "SUKADANA"
+  "districtName": "KUBU",
+  "name": "SUKADANA",
+  "postalCode": "30611"
  },
  {
   "id": 5107080007,
   "districtId": 5107080,
-  "name": "TIANYAR"
+  "districtName": "KUBU",
+  "name": "TIANYAR",
+  "postalCode": ""
  },
  {
   "id": 5107080008,
   "districtId": 5107080,
-  "name": "TIANYAR TENGAH"
+  "districtName": "KUBU",
+  "name": "TIANYAR TENGAH",
+  "postalCode": "80853"
  },
  {
   "id": 5107080009,
   "districtId": 5107080,
-  "name": "TIANYAR BARAT"
+  "districtName": "KUBU",
+  "name": "TIANYAR BARAT",
+  "postalCode": "80853"
  }
 ]

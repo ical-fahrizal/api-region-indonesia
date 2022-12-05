@@ -2,36 +2,50 @@
  {
   "id": 3529060001,
   "districtId": 3529060,
-  "name": "PINGGIRPAPAS"
+  "districtName": "KALIANGET",
+  "name": "PINGGIRPAPAS",
+  "postalCode": "69471"
  },
  {
   "id": 3529060002,
   "districtId": 3529060,
-  "name": "KARANG ANYAR"
+  "districtName": "KALIANGET",
+  "name": "KARANG ANYAR",
+  "postalCode": "24415"
  },
  {
   "id": 3529060003,
   "districtId": 3529060,
-  "name": "MARENGAN LAOK"
+  "districtName": "KALIANGET",
+  "name": "MARENGAN LAOK",
+  "postalCode": "69471"
  },
  {
   "id": 3529060004,
   "districtId": 3529060,
-  "name": "KERTASADA"
+  "districtName": "KALIANGET",
+  "name": "KERTASADA",
+  "postalCode": "69471"
  },
  {
   "id": 3529060005,
   "districtId": 3529060,
-  "name": "KALIMO'OK"
+  "districtName": "KALIANGET",
+  "name": "KALIMO'OK",
+  "postalCode": ""
  },
  {
   "id": 3529060006,
   "districtId": 3529060,
-  "name": "KALIANGET BARAT"
+  "districtName": "KALIANGET",
+  "name": "KALIANGET BARAT",
+  "postalCode": "69471"
  },
  {
   "id": 3529060007,
   "districtId": 3529060,
-  "name": "KALIANGET TIMUR"
+  "districtName": "KALIANGET",
+  "name": "KALIANGET TIMUR",
+  "postalCode": "69471"
  }
 ]

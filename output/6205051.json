@@ -2,51 +2,71 @@
  {
   "id": 6205051001,
   "districtId": 6205051,
-  "name": "JINGAH"
+  "districtName": "TEWEH  BARU",
+  "name": "JINGAH",
+  "postalCode": "73814"
  },
  {
   "id": 6205051002,
   "districtId": 6205051,
-  "name": "JAMBU"
+  "districtName": "TEWEH  BARU",
+  "name": "JAMBU",
+  "postalCode": "20998"
  },
  {
   "id": 6205051003,
   "districtId": 6205051,
-  "name": "LIANG NAGA"
+  "districtName": "TEWEH  BARU",
+  "name": "LIANG NAGA",
+  "postalCode": "73814"
  },
  {
   "id": 6205051004,
   "districtId": 6205051,
-  "name": "SABUH"
+  "districtName": "TEWEH  BARU",
+  "name": "SABUH",
+  "postalCode": "73814"
  },
  {
   "id": 6205051005,
   "districtId": 6205051,
-  "name": "HAJAK"
+  "districtName": "TEWEH  BARU",
+  "name": "HAJAK",
+  "postalCode": "73814"
  },
  {
   "id": 6205051006,
   "districtId": 6205051,
-  "name": "MALAWAKEN"
+  "districtName": "TEWEH  BARU",
+  "name": "MALAWAKEN",
+  "postalCode": "73814"
  },
  {
   "id": 6205051007,
   "districtId": 6205051,
-  "name": "SIKUI"
+  "districtName": "TEWEH  BARU",
+  "name": "SIKUI",
+  "postalCode": "73814"
  },
  {
   "id": 6205051008,
   "districtId": 6205051,
-  "name": "PANAEN"
+  "districtName": "TEWEH  BARU",
+  "name": "PANAEN",
+  "postalCode": "73881"
  },
  {
   "id": 6205051009,
   "districtId": 6205051,
-  "name": "LIANG BUAH"
+  "districtName": "TEWEH  BARU",
+  "name": "LIANG BUAH",
+  "postalCode": ""
  },
  {
   "id": 6205051010,
   "districtId": 6205051,
-  "name": "GANDRING"
+  "districtName": "TEWEH  BARU",
+  "name": "GANDRING",
+  "postalCode": "73881"
  }
 ]

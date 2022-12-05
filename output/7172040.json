@@ -2,56 +2,78 @@
  {
   "id": 7172040001,
   "districtId": 7172040,
-  "name": "KUMERSOT"
+  "districtName": "RANOWULU",
+  "name": "KUMERSOT",
+  "postalCode": ""
  },
  {
   "id": 7172040003,
   "districtId": 7172040,
-  "name": "PINOKALAN"
+  "districtName": "RANOWULU",
+  "name": "PINOKALAN",
+  "postalCode": "95531"
  },
  {
   "id": 7172040004,
   "districtId": 7172040,
-  "name": "TEWAAN"
+  "districtName": "RANOWULU",
+  "name": "TEWAAN",
+  "postalCode": "95532"
  },
  {
   "id": 7172040005,
   "districtId": 7172040,
-  "name": "DANOWUDU"
+  "districtName": "RANOWULU",
+  "name": "DANOWUDU",
+  "postalCode": "95533"
  },
  {
   "id": 7172040006,
   "districtId": 7172040,
-  "name": "DUA SUDARA"
+  "districtName": "RANOWULU",
+  "name": "DUA SUDARA",
+  "postalCode": ""
  },
  {
   "id": 7172040007,
   "districtId": 7172040,
-  "name": "APELA DUA"
+  "districtName": "RANOWULU",
+  "name": "APELA DUA",
+  "postalCode": ""
  },
  {
   "id": 7172040008,
   "districtId": 7172040,
-  "name": "APELA SATU"
+  "districtName": "RANOWULU",
+  "name": "APELA SATU",
+  "postalCode": ""
  },
  {
   "id": 7172040009,
   "districtId": 7172040,
-  "name": "KARONDORAN"
+  "districtName": "RANOWULU",
+  "name": "KARONDORAN",
+  "postalCode": "95694"
  },
  {
   "id": 7172040010,
   "districtId": 7172040,
-  "name": "PINASUNGKULAN"
+  "districtName": "RANOWULU",
+  "name": "PINASUNGKULAN",
+  "postalCode": "95958"
  },
  {
   "id": 7172040012,
   "districtId": 7172040,
-  "name": "BATU PUTIH ATAS"
+  "districtName": "RANOWULU",
+  "name": "BATU PUTIH ATAS",
+  "postalCode": "95535"
  },
  {
   "id": 7172040013,
   "districtId": 7172040,
-  "name": "BATU PUTIH  BAWAH"
+  "districtName": "RANOWULU",
+  "name": "BATU PUTIH  BAWAH",
+  "postalCode": ""
  }
 ]

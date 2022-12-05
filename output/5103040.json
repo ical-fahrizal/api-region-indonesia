@@ -2,76 +2,106 @@
  {
   "id": 5103040001,
   "districtId": 5103040,
-  "name": "CEMAGI"
+  "districtName": "MENGWI",
+  "name": "CEMAGI",
+  "postalCode": "80351"
  },
  {
   "id": 5103040003,
   "districtId": 5103040,
-  "name": "PERERENAN"
+  "districtName": "MENGWI",
+  "name": "PERERENAN",
+  "postalCode": "80351"
  },
  {
   "id": 5103040004,
   "districtId": 5103040,
-  "name": "TUMBAK BAYUH"
+  "districtName": "MENGWI",
+  "name": "TUMBAK BAYUH",
+  "postalCode": "80351"
  },
  {
   "id": 5103040006,
   "districtId": 5103040,
-  "name": "ABIANBASE"
+  "districtName": "MENGWI",
+  "name": "ABIANBASE",
+  "postalCode": "80515"
  },
  {
   "id": 5103040007,
   "districtId": 5103040,
-  "name": "SEMPIDI"
+  "districtName": "MENGWI",
+  "name": "SEMPIDI",
+  "postalCode": "80351"
  },
  {
   "id": 5103040008,
   "districtId": 5103040,
-  "name": "SADING"
+  "districtName": "MENGWI",
+  "name": "SADING",
+  "postalCode": "80351"
  },
  {
   "id": 5103040010,
   "districtId": 5103040,
-  "name": "KAPAL"
+  "districtName": "MENGWI",
+  "name": "KAPAL",
+  "postalCode": "80351"
  },
  {
   "id": 5103040011,
   "districtId": 5103040,
-  "name": "KEKERAN"
+  "districtName": "MENGWI",
+  "name": "KEKERAN",
+  "postalCode": "81154"
  },
  {
   "id": 5103040012,
   "districtId": 5103040,
-  "name": "MENGWITANI"
+  "districtName": "MENGWI",
+  "name": "MENGWITANI",
+  "postalCode": "80351"
  },
  {
   "id": 5103040013,
   "districtId": 5103040,
-  "name": "MENGWI"
+  "districtName": "MENGWI",
+  "name": "MENGWI",
+  "postalCode": "80351"
  },
  {
   "id": 5103040014,
   "districtId": 5103040,
-  "name": "GULINGAN"
+  "districtName": "MENGWI",
+  "name": "GULINGAN",
+  "postalCode": "80351"
  },
  {
   "id": 5103040015,
   "districtId": 5103040,
-  "name": "PENARUNGAN"
+  "districtName": "MENGWI",
+  "name": "PENARUNGAN",
+  "postalCode": "80351"
  },
  {
   "id": 5103040016,
   "districtId": 5103040,
-  "name": "BAHA"
+  "districtName": "MENGWI",
+  "name": "BAHA",
+  "postalCode": "80351"
  },
  {
   "id": 5103040017,
   "districtId": 5103040,
-  "name": "WERDI BHUWANA"
+  "districtName": "MENGWI",
+  "name": "WERDI BHUWANA",
+  "postalCode": "80351"
  },
  {
   "id": 5103040018,
   "districtId": 5103040,
-  "name": "SOBANGAN"
+  "districtName": "MENGWI",
+  "name": "SOBANGAN",
+  "postalCode": "80351"
  }
 ]

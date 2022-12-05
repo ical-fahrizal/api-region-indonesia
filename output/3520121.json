@@ -2,51 +2,71 @@
  {
   "id": 3520121001,
   "districtId": 3520121,
-  "name": "BOTOK"
+  "districtName": "KARAS",
+  "name": "BOTOK",
+  "postalCode": "57753"
  },
  {
   "id": 3520121002,
   "districtId": 3520121,
-  "name": "GINUK"
+  "districtName": "KARAS",
+  "name": "GINUK",
+  "postalCode": "63395"
  },
  {
   "id": 3520121003,
   "districtId": 3520121,
-  "name": "TAJI"
+  "districtName": "KARAS",
+  "name": "TAJI",
+  "postalCode": "57472"
  },
  {
   "id": 3520121004,
   "districtId": 3520121,
-  "name": "TEMBORO"
+  "districtName": "KARAS",
+  "name": "TEMBORO",
+  "postalCode": "57677"
  },
  {
   "id": 3520121005,
   "districtId": 3520121,
-  "name": "TEMENGGUNGAN"
+  "districtName": "KARAS",
+  "name": "TEMENGGUNGAN",
+  "postalCode": "68412"
  },
  {
   "id": 3520121007,
   "districtId": 3520121,
-  "name": "GEPLAK"
+  "districtName": "KARAS",
+  "name": "GEPLAK",
+  "postalCode": "63395"
  },
  {
   "id": 3520121008,
   "districtId": 3520121,
-  "name": "KARAS"
+  "districtName": "KARAS",
+  "name": "KARAS",
+  "postalCode": "59264"
  },
  {
   "id": 3520121009,
   "districtId": 3520121,
-  "name": "KUWON"
+  "districtName": "KARAS",
+  "name": "KUWON",
+  "postalCode": "63395"
  },
  {
   "id": 3520121010,
   "districtId": 3520121,
-  "name": "SOBONTORO"
+  "districtName": "KARAS",
+  "name": "SOBONTORO",
+  "postalCode": "62182"
  },
  {
   "id": 3520121011,
   "districtId": 3520121,
-  "name": "SUMURSONGO"
+  "districtName": "KARAS",
+  "name": "SUMURSONGO",
+  "postalCode": "63395"
  }
 ]

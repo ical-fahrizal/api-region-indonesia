@@ -2,46 +2,64 @@
  {
   "id": 6504070001,
   "districtId": 6504070,
-  "name": "SUJAU"
+  "districtName": "SEBUKU",
+  "name": "SUJAU",
+  "postalCode": "77482"
  },
  {
   "id": 6504070003,
   "districtId": 6504070,
-  "name": "MELASU BARU"
+  "districtName": "SEBUKU",
+  "name": "MELASU BARU",
+  "postalCode": "77482"
  },
  {
   "id": 6504070004,
   "districtId": 6504070,
-  "name": "BEBANAS"
+  "districtName": "SEBUKU",
+  "name": "BEBANAS",
+  "postalCode": "77482"
  },
  {
   "id": 6504070005,
   "districtId": 6504070,
-  "name": "TETABAN"
+  "districtName": "SEBUKU",
+  "name": "TETABAN",
+  "postalCode": "77482"
  },
  {
   "id": 6504070006,
   "districtId": 6504070,
-  "name": "KUNYIT"
+  "districtName": "SEBUKU",
+  "name": "KUNYIT",
+  "postalCode": "70815"
  },
  {
   "id": 6504070007,
   "districtId": 6504070,
-  "name": "KEKAYAP"
+  "districtName": "SEBUKU",
+  "name": "KEKAYAP",
+  "postalCode": "77482"
  },
  {
   "id": 6504070008,
   "districtId": 6504070,
-  "name": "APAS"
+  "districtName": "SEBUKU",
+  "name": "APAS",
+  "postalCode": "77482"
  },
  {
   "id": 6504070009,
   "districtId": 6504070,
-  "name": "HARAPAN"
+  "districtName": "SEBUKU",
+  "name": "HARAPAN",
+  "postalCode": "22253"
  },
  {
   "id": 6504070010,
   "districtId": 6504070,
-  "name": "PEMBELIANGAN"
+  "districtName": "SEBUKU",
+  "name": "PEMBELIANGAN",
+  "postalCode": "77482"
  }
 ]

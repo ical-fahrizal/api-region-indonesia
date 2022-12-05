@@ -2,71 +2,99 @@
  {
   "id": 3513070001,
   "districtId": 3513070,
-  "name": "GUNUNGGENI"
+  "districtName": "BANYUANYAR",
+  "name": "GUNUNGGENI",
+  "postalCode": ""
  },
  {
   "id": 3513070002,
   "districtId": 3513070,
-  "name": "LIPRAK KIDUL"
+  "districtName": "BANYUANYAR",
+  "name": "LIPRAK KIDUL",
+  "postalCode": "67275"
  },
  {
   "id": 3513070003,
   "districtId": 3513070,
-  "name": "SENTULAN"
+  "districtName": "BANYUANYAR",
+  "name": "SENTULAN",
+  "postalCode": "67275"
  },
  {
   "id": 3513070004,
   "districtId": 3513070,
-  "name": "GADING KULON"
+  "districtName": "BANYUANYAR",
+  "name": "GADING KULON",
+  "postalCode": "67275"
  },
  {
   "id": 3513070005,
   "districtId": 3513070,
-  "name": "KLENANG KIDUL"
+  "districtName": "BANYUANYAR",
+  "name": "KLENANG KIDUL",
+  "postalCode": "67275"
  },
  {
   "id": 3513070006,
   "districtId": 3513070,
-  "name": "KLENANG LOR"
+  "districtName": "BANYUANYAR",
+  "name": "KLENANG LOR",
+  "postalCode": "67275"
  },
  {
   "id": 3513070007,
   "districtId": 3513070,
-  "name": "TAROKAN"
+  "districtName": "BANYUANYAR",
+  "name": "TAROKAN",
+  "postalCode": "67275"
  },
  {
   "id": 3513070008,
   "districtId": 3513070,
-  "name": "LIPRAK WETAN"
+  "districtName": "BANYUANYAR",
+  "name": "LIPRAK WETAN",
+  "postalCode": "67275"
  },
  {
   "id": 3513070009,
   "districtId": 3513070,
-  "name": "LIPRAK KULON"
+  "districtName": "BANYUANYAR",
+  "name": "LIPRAK KULON",
+  "postalCode": "67275"
  },
  {
   "id": 3513070010,
   "districtId": 3513070,
-  "name": "BANYUANYAR KIDUL"
+  "districtName": "BANYUANYAR",
+  "name": "BANYUANYAR KIDUL",
+  "postalCode": "67275"
  },
  {
   "id": 3513070011,
   "districtId": 3513070,
-  "name": "BLADO WETAN"
+  "districtName": "BANYUANYAR",
+  "name": "BLADO WETAN",
+  "postalCode": "67275"
  },
  {
   "id": 3513070012,
   "districtId": 3513070,
-  "name": "BANYUANYAR TENGAH"
+  "districtName": "BANYUANYAR",
+  "name": "BANYUANYAR TENGAH",
+  "postalCode": "67275"
  },
  {
   "id": 3513070013,
   "districtId": 3513070,
-  "name": "PENDIL"
+  "districtName": "BANYUANYAR",
+  "name": "PENDIL",
+  "postalCode": "67275"
  },
  {
   "id": 3513070014,
   "districtId": 3513070,
-  "name": "ALASSAPI"
+  "districtName": "BANYUANYAR",
+  "name": "ALASSAPI",
+  "postalCode": "67275"
  }
 ]

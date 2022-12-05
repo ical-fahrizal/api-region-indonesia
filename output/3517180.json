@@ -2,66 +2,92 @@
  {
   "id": 3517180001,
   "districtId": 3517180,
-  "name": "TANGGUNG KRAMAT"
+  "districtName": "PLOSO",
+  "name": "TANGGUNG KRAMAT",
+  "postalCode": "61453"
  },
  {
   "id": 3517180002,
   "districtId": 3517180,
-  "name": "REJOAGUNG"
+  "districtName": "PLOSO",
+  "name": "REJOAGUNG",
+  "postalCode": "35363"
  },
  {
   "id": 3517180003,
   "districtId": 3517180,
-  "name": "LOSARI"
+  "districtName": "PLOSO",
+  "name": "LOSARI",
+  "postalCode": "52364"
  },
  {
   "id": 3517180004,
   "districtId": 3517180,
-  "name": "PLOSO"
+  "districtName": "PLOSO",
+  "name": "PLOSO",
+  "postalCode": "59348"
  },
  {
   "id": 3517180005,
   "districtId": 3517180,
-  "name": "JATIGEDONG"
+  "districtName": "PLOSO",
+  "name": "JATIGEDONG",
+  "postalCode": "61453"
  },
  {
   "id": 3517180006,
   "districtId": 3517180,
-  "name": "DADI TUNGGAL"
+  "districtName": "PLOSO",
+  "name": "DADI TUNGGAL",
+  "postalCode": "61453"
  },
  {
   "id": 3517180007,
   "districtId": 3517180,
-  "name": "GEDONGOMBO"
+  "districtName": "PLOSO",
+  "name": "GEDONGOMBO",
+  "postalCode": "61453"
  },
  {
   "id": 3517180008,
   "districtId": 3517180,
-  "name": "JATIBANJAR"
+  "districtName": "PLOSO",
+  "name": "JATIBANJAR",
+  "postalCode": "61453"
  },
  {
   "id": 3517180009,
   "districtId": 3517180,
-  "name": "PAGER TANJUNG"
+  "districtName": "PLOSO",
+  "name": "PAGER TANJUNG",
+  "postalCode": "61453"
  },
  {
   "id": 3517180010,
   "districtId": 3517180,
-  "name": "PANDAN BLOLE"
+  "districtName": "PLOSO",
+  "name": "PANDAN BLOLE",
+  "postalCode": "61453"
  },
  {
   "id": 3517180011,
   "districtId": 3517180,
-  "name": "KEDUNGDOWO"
+  "districtName": "PLOSO",
+  "name": "KEDUNGDOWO",
+  "postalCode": "57384"
  },
  {
   "id": 3517180012,
   "districtId": 3517180,
-  "name": "BAWANGAN"
+  "districtName": "PLOSO",
+  "name": "BAWANGAN",
+  "postalCode": "61453"
  },
  {
   "id": 3517180013,
   "districtId": 3517180,
-  "name": "KEBON AGUNG"
+  "districtName": "PLOSO",
+  "name": "KEBON AGUNG",
+  "postalCode": "32156"
  }
 ]

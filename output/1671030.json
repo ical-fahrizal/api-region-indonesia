@@ -2,36 +2,50 @@
  {
   "id": 1671030007,
   "districtId": 1671030,
-  "name": "SENTOSA"
+  "districtName": "SEBERANG ULU II",
+  "name": "SENTOSA",
+  "postalCode": "24152"
  },
  {
   "id": 1671030008,
   "districtId": 1671030,
-  "name": "16 ULU"
+  "districtName": "SEBERANG ULU II",
+  "name": "16 ULU",
+  "postalCode": "30265"
  },
  {
   "id": 1671030010,
   "districtId": 1671030,
-  "name": "TANGGA TAKAT"
+  "districtName": "SEBERANG ULU II",
+  "name": "TANGGA TAKAT",
+  "postalCode": "30264"
  },
  {
   "id": 1671030011,
   "districtId": 1671030,
-  "name": "14 ULU"
+  "districtName": "SEBERANG ULU II",
+  "name": "14 ULU",
+  "postalCode": "30264"
  },
  {
   "id": 1671030012,
   "districtId": 1671030,
-  "name": "13 ULU"
+  "districtName": "SEBERANG ULU II",
+  "name": "13 ULU",
+  "postalCode": "30263"
  },
  {
   "id": 1671030013,
   "districtId": 1671030,
-  "name": "12 ULU"
+  "districtName": "SEBERANG ULU II",
+  "name": "12 ULU",
+  "postalCode": "30262"
  },
  {
   "id": 1671030014,
   "districtId": 1671030,
-  "name": "11 ULU"
+  "districtName": "SEBERANG ULU II",
+  "name": "11 ULU",
+  "postalCode": "30267"
  }
 ]

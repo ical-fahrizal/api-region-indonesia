@@ -2,36 +2,50 @@
  {
   "id": 7401062001,
   "districtId": 7401062,
-  "name": "WASUEMBA"
+  "districtName": "WABULA",
+  "name": "WASUEMBA",
+  "postalCode": "93754"
  },
  {
   "id": 7401062002,
   "districtId": 7401062,
-  "name": "WABULA"
+  "districtName": "WABULA",
+  "name": "WABULA",
+  "postalCode": "93754"
  },
  {
   "id": 7401062003,
   "districtId": 7401062,
-  "name": "WASAMPELA"
+  "districtName": "WABULA",
+  "name": "WASAMPELA",
+  "postalCode": "93754"
  },
  {
   "id": 7401062004,
   "districtId": 7401062,
-  "name": "HOLIMOMBO"
+  "districtName": "WABULA",
+  "name": "HOLIMOMBO",
+  "postalCode": "93754"
  },
  {
   "id": 7401062005,
   "districtId": 7401062,
-  "name": "KOHOLIMOMBONA"
+  "districtName": "WABULA",
+  "name": "KOHOLIMOMBONA",
+  "postalCode": "93754"
  },
  {
   "id": 7401062006,
   "districtId": 7401062,
-  "name": "WABULA 1"
+  "districtName": "WABULA",
+  "name": "WABULA 1",
+  "postalCode": ""
  },
  {
   "id": 7401062007,
   "districtId": 7401062,
-  "name": "BAJO BAHARI"
+  "districtName": "WABULA",
+  "name": "BAJO BAHARI",
+  "postalCode": "93754"
  }
 ]

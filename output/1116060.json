@@ -2,171 +2,239 @@
  {
   "id": 1116060011,
   "districtId": 1116060,
-  "name": "MEUTARA"
+  "districtName": "JAYA",
+  "name": "MEUTARA",
+  "postalCode": "23657"
  },
  {
   "id": 1116060015,
   "districtId": 1116060,
-  "name": "LHUET"
+  "districtName": "JAYA",
+  "name": "LHUET",
+  "postalCode": "23657"
  },
  {
   "id": 1116060016,
   "districtId": 1116060,
-  "name": "LAMME"
+  "districtName": "JAYA",
+  "name": "LAMME",
+  "postalCode": "23372"
  },
  {
   "id": 1116060017,
   "districtId": 1116060,
-  "name": "SEUREUBA"
+  "districtName": "JAYA",
+  "name": "SEUREUBA",
+  "postalCode": ""
  },
  {
   "id": 1116060018,
   "districtId": 1116060,
-  "name": "LEUPE"
+  "districtName": "JAYA",
+  "name": "LEUPE",
+  "postalCode": "23657"
  },
  {
   "id": 1116060020,
   "districtId": 1116060,
-  "name": "NUSA"
+  "districtName": "JAYA",
+  "name": "NUSA",
+  "postalCode": "23657"
  },
  {
   "id": 1116060021,
   "districtId": 1116060,
-  "name": "RUMPET"
+  "districtName": "JAYA",
+  "name": "RUMPET",
+  "postalCode": "23657"
  },
  {
   "id": 1116060022,
   "districtId": 1116060,
-  "name": "DARAT"
+  "districtName": "JAYA",
+  "name": "DARAT",
+  "postalCode": "23657"
  },
  {
   "id": 1116060023,
   "districtId": 1116060,
-  "name": "GLE JONG"
+  "districtName": "JAYA",
+  "name": "GLE JONG",
+  "postalCode": "23657"
  },
  {
   "id": 1116060024,
   "districtId": 1116060,
-  "name": "GAMPONG BARO"
+  "districtName": "JAYA",
+  "name": "GAMPONG BARO",
+  "postalCode": "24454"
  },
  {
   "id": 1116060025,
   "districtId": 1116060,
-  "name": "MEUNASAH WEH"
+  "districtName": "JAYA",
+  "name": "MEUNASAH WEH",
+  "postalCode": "23657"
  },
  {
   "id": 1116060026,
   "districtId": 1116060,
-  "name": "COT DULANG"
+  "districtName": "JAYA",
+  "name": "COT DULANG",
+  "postalCode": "23657"
  },
  {
   "id": 1116060027,
   "districtId": 1116060,
-  "name": "PUTUE"
+  "districtName": "JAYA",
+  "name": "PUTUE",
+  "postalCode": "23657"
  },
  {
   "id": 1116060028,
   "districtId": 1116060,
-  "name": "LAM DURIAN"
+  "districtName": "JAYA",
+  "name": "LAM DURIAN",
+  "postalCode": "23657"
  },
  {
   "id": 1116060029,
   "districtId": 1116060,
-  "name": "BABAH KRUENG"
+  "districtName": "JAYA",
+  "name": "BABAH KRUENG",
+  "postalCode": "24188"
  },
  {
   "id": 1116060030,
   "districtId": 1116060,
-  "name": "BAK PAOH"
+  "districtName": "JAYA",
+  "name": "BAK PAOH",
+  "postalCode": "23657"
  },
  {
   "id": 1116060031,
   "districtId": 1116060,
-  "name": "PASAR LAMNO"
+  "districtName": "JAYA",
+  "name": "PASAR LAMNO",
+  "postalCode": "23657"
  },
  {
   "id": 1116060032,
   "districtId": 1116060,
-  "name": "PANTE KEUTAPANG"
+  "districtName": "JAYA",
+  "name": "PANTE KEUTAPANG",
+  "postalCode": "23657"
  },
  {
   "id": 1116060033,
   "districtId": 1116060,
-  "name": "PANTON MAKMUR"
+  "districtName": "JAYA",
+  "name": "PANTON MAKMUR",
+  "postalCode": "23652"
  },
  {
   "id": 1116060034,
   "districtId": 1116060,
-  "name": "KRUENG TUNONG"
+  "districtName": "JAYA",
+  "name": "KRUENG TUNONG",
+  "postalCode": "23657"
  },
  {
   "id": 1116060035,
   "districtId": 1116060,
-  "name": "LAMTUI"
+  "districtName": "JAYA",
+  "name": "LAMTUI",
+  "postalCode": "23657"
  },
  {
   "id": 1116060036,
   "districtId": 1116060,
-  "name": "JAMBO MASI"
+  "districtName": "JAYA",
+  "name": "JAMBO MASI",
+  "postalCode": "23657"
  },
  {
   "id": 1116060037,
   "districtId": 1116060,
-  "name": "LAMBAROH"
+  "districtName": "JAYA",
+  "name": "LAMBAROH",
+  "postalCode": "23657"
  },
  {
   "id": 1116060038,
   "districtId": 1116060,
-  "name": "GLE PUTOH"
+  "districtName": "JAYA",
+  "name": "GLE PUTOH",
+  "postalCode": "23657"
  },
  {
   "id": 1116060039,
   "districtId": 1116060,
-  "name": "ALUE RAYEUK"
+  "districtName": "JAYA",
+  "name": "ALUE RAYEUK",
+  "postalCode": "23657"
  },
  {
   "id": 1116060040,
   "districtId": 1116060,
-  "name": "MAREU"
+  "districtName": "JAYA",
+  "name": "MAREU",
+  "postalCode": "23657"
  },
  {
   "id": 1116060041,
   "districtId": 1116060,
-  "name": "SABET"
+  "districtName": "JAYA",
+  "name": "SABET",
+  "postalCode": "23657"
  },
  {
   "id": 1116060042,
   "districtId": 1116060,
-  "name": "PANTE CERMIN"
+  "districtName": "JAYA",
+  "name": "PANTE CERMIN",
+  "postalCode": "23657"
  },
  {
   "id": 1116060043,
   "districtId": 1116060,
-  "name": "SANGO"
+  "districtName": "JAYA",
+  "name": "SANGO",
+  "postalCode": "23657"
  },
  {
   "id": 1116060044,
   "districtId": 1116060,
-  "name": "LAMASAN"
+  "districtName": "JAYA",
+  "name": "LAMASAN",
+  "postalCode": "23657"
  },
  {
   "id": 1116060045,
   "districtId": 1116060,
-  "name": "UJONG SUDEUN"
+  "districtName": "JAYA",
+  "name": "UJONG SUDEUN",
+  "postalCode": "23657"
  },
  {
   "id": 1116060046,
   "districtId": 1116060,
-  "name": "BABAH IE"
+  "districtName": "JAYA",
+  "name": "BABAH IE",
+  "postalCode": "23657"
  },
  {
   "id": 1116060047,
   "districtId": 1116060,
-  "name": "MEUDHEUN"
+  "districtName": "JAYA",
+  "name": "MEUDHEUN",
+  "postalCode": "23657"
  },
  {
   "id": 1116060048,
   "districtId": 1116060,
-  "name": "SAPEK"
+  "districtName": "JAYA",
+  "name": "SAPEK",
+  "postalCode": "23657"
  }
 ]

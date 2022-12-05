@@ -2,41 +2,57 @@
  {
   "id": 7501052001,
   "districtId": 7501052,
-  "name": "LIMBATIHU"
+  "districtName": "PAGUYAMAN PANTAI",
+  "name": "LIMBATIHU",
+  "postalCode": "96261"
  },
  {
   "id": 7501052002,
   "districtId": 7501052,
-  "name": "BUBAA"
+  "districtName": "PAGUYAMAN PANTAI",
+  "name": "BUBAA",
+  "postalCode": "96261"
  },
  {
   "id": 7501052003,
   "districtId": 7501052,
-  "name": "LITO"
+  "districtName": "PAGUYAMAN PANTAI",
+  "name": "LITO",
+  "postalCode": "84371"
  },
  {
   "id": 7501052004,
   "districtId": 7501052,
-  "name": "BUKIT KARYA"
+  "districtName": "PAGUYAMAN PANTAI",
+  "name": "BUKIT KARYA",
+  "postalCode": "96261"
  },
  {
   "id": 7501052005,
   "districtId": 7501052,
-  "name": "APITALAWU"
+  "districtName": "PAGUYAMAN PANTAI",
+  "name": "APITALAWU",
+  "postalCode": ""
  },
  {
   "id": 7501052006,
   "districtId": 7501052,
-  "name": "OLIBU"
+  "districtName": "PAGUYAMAN PANTAI",
+  "name": "OLIBU",
+  "postalCode": "96261"
  },
  {
   "id": 7501052007,
   "districtId": 7501052,
-  "name": "TOWAYU"
+  "districtName": "PAGUYAMAN PANTAI",
+  "name": "TOWAYU",
+  "postalCode": "96261"
  },
  {
   "id": 7501052008,
   "districtId": 7501052,
-  "name": "BANGGA"
+  "districtName": "PAGUYAMAN PANTAI",
+  "name": "BANGGA",
+  "postalCode": "94361"
  }
 ]

@@ -2,21 +2,29 @@
  {
   "id": 9403080004,
   "districtId": 9403080,
-  "name": "SOSKOTEK"
+  "districtName": "KAUREH",
+  "name": "SOSKOTEK",
+  "postalCode": "99364"
  },
  {
   "id": 9403080005,
   "districtId": 9403080,
-  "name": "LAPUA"
+  "districtName": "KAUREH",
+  "name": "LAPUA",
+  "postalCode": "99364"
  },
  {
   "id": 9403080007,
   "districtId": 9403080,
-  "name": "UMBRON"
+  "districtName": "KAUREH",
+  "name": "UMBRON",
+  "postalCode": "99364"
  },
  {
   "id": 9403080008,
   "districtId": 9403080,
-  "name": "YADAUW"
+  "districtName": "KAUREH",
+  "name": "YADAUW",
+  "postalCode": ""
  }
 ]

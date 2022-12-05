@@ -2,56 +2,78 @@
  {
   "id": 3520131001,
   "districtId": 3520131,
-  "name": "KLURAHAN"
+  "districtName": "KARTOHARJO",
+  "name": "KLURAHAN",
+  "postalCode": "63395"
  },
  {
   "id": 3520131002,
   "districtId": 3520131,
-  "name": "PENCOL"
+  "districtName": "KARTOHARJO",
+  "name": "PENCOL",
+  "postalCode": "63395"
  },
  {
   "id": 3520131003,
   "districtId": 3520131,
-  "name": "SUKOWIDI"
+  "districtName": "KARTOHARJO",
+  "name": "SUKOWIDI",
+  "postalCode": "63395"
  },
  {
   "id": 3520131004,
   "districtId": 3520131,
-  "name": "KARTOHARJO"
+  "districtName": "KARTOHARJO",
+  "name": "KARTOHARJO",
+  "postalCode": "56196"
  },
  {
   "id": 3520131005,
   "districtId": 3520131,
-  "name": "NGELANG"
+  "districtName": "KARTOHARJO",
+  "name": "NGELANG",
+  "postalCode": "63395"
  },
  {
   "id": 3520131006,
   "districtId": 3520131,
-  "name": "JAJAR"
+  "districtName": "KARTOHARJO",
+  "name": "JAJAR",
+  "postalCode": "57144"
  },
  {
   "id": 3520131007,
   "districtId": 3520131,
-  "name": "GUNUNGAN"
+  "districtName": "KARTOHARJO",
+  "name": "GUNUNGAN",
+  "postalCode": "57662"
  },
  {
   "id": 3520131008,
   "districtId": 3520131,
-  "name": "KARANGMOJO"
+  "districtName": "KARTOHARJO",
+  "name": "KARANGMOJO",
+  "postalCode": "54365"
  },
  {
   "id": 3520131009,
   "districtId": 3520131,
-  "name": "MRAHU"
+  "districtName": "KARTOHARJO",
+  "name": "MRAHU",
+  "postalCode": "63395"
  },
  {
   "id": 3520131010,
   "districtId": 3520131,
-  "name": "BAYEM TAMAN"
+  "districtName": "KARTOHARJO",
+  "name": "BAYEM TAMAN",
+  "postalCode": "63395"
  },
  {
   "id": 3520131011,
   "districtId": 3520131,
-  "name": "BAYEM WETAN"
+  "districtName": "KARTOHARJO",
+  "name": "BAYEM WETAN",
+  "postalCode": "63395"
  }
 ]

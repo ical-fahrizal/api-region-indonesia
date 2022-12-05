@@ -2,96 +2,134 @@
  {
   "id": 3321030001,
   "districtId": 3321030,
-  "name": "BANJAREJO"
+  "districtName": "GUNTUR",
+  "name": "BANJAREJO",
+  "postalCode": "35373"
  },
  {
   "id": 3321030002,
   "districtId": 3321030,
-  "name": "WONOREJO"
+  "districtName": "GUNTUR",
+  "name": "WONOREJO",
+  "postalCode": "21186"
  },
  {
   "id": 3321030003,
   "districtId": 3321030,
-  "name": "PAMONGAN"
+  "districtName": "GUNTUR",
+  "name": "PAMONGAN",
+  "postalCode": "59565"
  },
  {
   "id": 3321030004,
   "districtId": 3321030,
-  "name": "TLOGOWERU"
+  "districtName": "GUNTUR",
+  "name": "TLOGOWERU",
+  "postalCode": "59565"
  },
  {
   "id": 3321030005,
   "districtId": 3321030,
-  "name": "BOGOSARI"
+  "districtName": "GUNTUR",
+  "name": "BOGOSARI",
+  "postalCode": "59565"
  },
  {
   "id": 3321030006,
   "districtId": 3321030,
-  "name": "SUKOREJO"
+  "districtName": "GUNTUR",
+  "name": "SUKOREJO",
+  "postalCode": "31551"
  },
  {
   "id": 3321030007,
   "districtId": 3321030,
-  "name": "SARIREJO"
+  "districtName": "GUNTUR",
+  "name": "SARIREJO",
+  "postalCode": "58262"
  },
  {
   "id": 3321030008,
   "districtId": 3321030,
-  "name": "SIDOKUMPUL"
+  "districtName": "GUNTUR",
+  "name": "SIDOKUMPUL",
+  "postalCode": "59565"
  },
  {
   "id": 3321030009,
   "districtId": 3321030,
-  "name": "GAJI"
+  "districtName": "GUNTUR",
+  "name": "GAJI",
+  "postalCode": "59565"
  },
  {
   "id": 3321030010,
   "districtId": 3321030,
-  "name": "BLERONG"
+  "districtName": "GUNTUR",
+  "name": "BLERONG",
+  "postalCode": "59565"
  },
  {
   "id": 3321030011,
   "districtId": 3321030,
-  "name": "KRANDON"
+  "districtName": "GUNTUR",
+  "name": "KRANDON",
+  "postalCode": "59565"
  },
  {
   "id": 3321030012,
   "districtId": 3321030,
-  "name": "TANGKIS"
+  "districtName": "GUNTUR",
+  "name": "TANGKIS",
+  "postalCode": "59565"
  },
  {
   "id": 3321030013,
   "districtId": 3321030,
-  "name": "TEMUROSO"
+  "districtName": "GUNTUR",
+  "name": "TEMUROSO",
+  "postalCode": "59565"
  },
  {
   "id": 3321030015,
   "districtId": 3321030,
-  "name": "TRIMULYO"
+  "districtName": "GUNTUR",
+  "name": "TRIMULYO",
+  "postalCode": "34871"
  },
  {
   "id": 3321030016,
   "districtId": 3321030,
-  "name": "TLOGOREJO"
+  "districtName": "GUNTUR",
+  "name": "TLOGOREJO",
+  "postalCode": "54395"
  },
  {
   "id": 3321030017,
   "districtId": 3321030,
-  "name": "BUMIHARJO"
+  "districtName": "GUNTUR",
+  "name": "BUMIHARJO",
+  "postalCode": "34767"
  },
  {
   "id": 3321030018,
   "districtId": 3321030,
-  "name": "BAKALREJO"
+  "districtName": "GUNTUR",
+  "name": "BAKALREJO",
+  "postalCode": "59565"
  },
  {
   "id": 3321030019,
   "districtId": 3321030,
-  "name": "TURITEMPEL"
+  "districtName": "GUNTUR",
+  "name": "TURITEMPEL",
+  "postalCode": "59565"
  },
  {
   "id": 3321030020,
   "districtId": 3321030,
-  "name": "SIDOHARJO"
+  "districtName": "GUNTUR",
+  "name": "SIDOHARJO",
+  "postalCode": "30975"
  }
 ]

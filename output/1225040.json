@@ -2,41 +2,57 @@
  {
   "id": 1225040001,
   "districtId": 1225040,
-  "name": "SISOBAWINO II"
+  "districtName": "LOLOFITU MOI",
+  "name": "SISOBAWINO II",
+  "postalCode": "22875"
  },
  {
   "id": 1225040002,
   "districtId": 1225040,
-  "name": "DURIA"
+  "districtName": "LOLOFITU MOI",
+  "name": "DURIA",
+  "postalCode": "22875"
  },
  {
   "id": 1225040003,
   "districtId": 1225040,
-  "name": "HILIMBOWO MAU"
+  "districtName": "LOLOFITU MOI",
+  "name": "HILIMBOWO MAU",
+  "postalCode": "22875"
  },
  {
   "id": 1225040004,
   "districtId": 1225040,
-  "name": "AMBUKHA"
+  "districtName": "LOLOFITU MOI",
+  "name": "AMBUKHA",
+  "postalCode": "22875"
  },
  {
   "id": 1225040005,
   "districtId": 1225040,
-  "name": "HILIMBUASI"
+  "districtName": "LOLOFITU MOI",
+  "name": "HILIMBUASI",
+  "postalCode": "22875"
  },
  {
   "id": 1225040006,
   "districtId": 1225040,
-  "name": "LOLOFITU"
+  "districtName": "LOLOFITU MOI",
+  "name": "LOLOFITU",
+  "postalCode": "22875"
  },
  {
   "id": 1225040007,
   "districtId": 1225040,
-  "name": "HILIUSO"
+  "districtName": "LOLOFITU MOI",
+  "name": "HILIUSO",
+  "postalCode": "22867"
  },
  {
   "id": 1225040008,
   "districtId": 1225040,
-  "name": "W A N G O"
+  "districtName": "LOLOFITU MOI",
+  "name": "W A N G O",
+  "postalCode": ""
  }
 ]

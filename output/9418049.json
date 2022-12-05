@@ -2,41 +2,57 @@
  {
   "id": 9418049002,
   "districtId": 9418049,
-  "name": "MABURUK"
+  "districtName": "EGIAM",
+  "name": "MABURUK",
+  "postalCode": ""
  },
  {
   "id": 9418049003,
   "districtId": 9418049,
-  "name": "DARE"
+  "districtName": "EGIAM",
+  "name": "DARE",
+  "postalCode": ""
  },
  {
   "id": 9418049004,
   "districtId": 9418049,
-  "name": "ROGIA"
+  "districtName": "EGIAM",
+  "name": "ROGIA",
+  "postalCode": ""
  },
  {
   "id": 9418049005,
   "districtId": 9418049,
-  "name": "SERIAU"
+  "districtName": "EGIAM",
+  "name": "SERIAU",
+  "postalCode": ""
  },
  {
   "id": 9418049006,
   "districtId": 9418049,
-  "name": "IREGE"
+  "districtName": "EGIAM",
+  "name": "IREGE",
+  "postalCode": ""
  },
  {
   "id": 9418049008,
   "districtId": 9418049,
-  "name": "KONDALA"
+  "districtName": "EGIAM",
+  "name": "KONDALA",
+  "postalCode": ""
  },
  {
   "id": 9418049009,
   "districtId": 9418049,
-  "name": "YONIRA"
+  "districtName": "EGIAM",
+  "name": "YONIRA",
+  "postalCode": "99569"
  },
  {
   "id": 9418049010,
   "districtId": 9418049,
-  "name": "TABONAKME"
+  "districtName": "EGIAM",
+  "name": "TABONAKME",
+  "postalCode": "99569"
  }
 ]

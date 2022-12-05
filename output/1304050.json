@@ -2,56 +2,78 @@
  {
   "id": 1304050001,
   "districtId": 1304050,
-  "name": "SUNGAI LANSEK"
+  "districtName": "KAMANG BARU",
+  "name": "SUNGAI LANSEK",
+  "postalCode": "27572"
  },
  {
   "id": 1304050002,
   "districtId": 1304050,
-  "name": "MUARO TAKUNG"
+  "districtName": "KAMANG BARU",
+  "name": "MUARO TAKUNG",
+  "postalCode": ""
  },
  {
   "id": 1304050003,
   "districtId": 1304050,
-  "name": "KUNANGAN PARIT RANTANG"
+  "districtName": "KAMANG BARU",
+  "name": "KUNANGAN PARIT RANTANG",
+  "postalCode": ""
  },
  {
   "id": 1304050004,
   "districtId": 1304050,
-  "name": "KAMANG"
+  "districtName": "KAMANG BARU",
+  "name": "KAMANG",
+  "postalCode": "27572"
  },
  {
   "id": 1304050005,
   "districtId": 1304050,
-  "name": "AIR AMO"
+  "districtName": "KAMANG BARU",
+  "name": "AIR AMO",
+  "postalCode": ""
  },
  {
   "id": 1304050006,
   "districtId": 1304050,
-  "name": "SUNGAI BATUANG"
+  "districtName": "KAMANG BARU",
+  "name": "SUNGAI BATUANG",
+  "postalCode": "27572"
  },
  {
   "id": 1304050007,
   "districtId": 1304050,
-  "name": "SIAUR"
+  "districtName": "KAMANG BARU",
+  "name": "SIAUR",
+  "postalCode": "27572"
  },
  {
   "id": 1304050008,
   "districtId": 1304050,
-  "name": "LUBUK TARANTANG"
+  "districtName": "KAMANG BARU",
+  "name": "LUBUK TARANTANG",
+  "postalCode": "27572"
  },
  {
   "id": 1304050009,
   "districtId": 1304050,
-  "name": "MALORO"
+  "districtName": "KAMANG BARU",
+  "name": "MALORO",
+  "postalCode": "27572"
  },
  {
   "id": 1304050010,
   "districtId": 1304050,
-  "name": "TANJUNG KALIANG"
+  "districtName": "KAMANG BARU",
+  "name": "TANJUNG KALIANG",
+  "postalCode": "27572"
  },
  {
   "id": 1304050011,
   "districtId": 1304050,
-  "name": "PADANG TAROK"
+  "districtName": "KAMANG BARU",
+  "name": "PADANG TAROK",
+  "postalCode": "26192"
  }
 ]

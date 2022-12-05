@@ -2,36 +2,50 @@
  {
   "id": 3671051001,
   "districtId": 3671051,
-  "name": "KARANG ANYAR"
+  "districtName": "NEGLASARI",
+  "name": "KARANG ANYAR",
+  "postalCode": "24415"
  },
  {
   "id": 3671051002,
   "districtId": 3671051,
-  "name": "KARANG SARI"
+  "districtName": "NEGLASARI",
+  "name": "KARANG SARI",
+  "postalCode": "21174"
  },
  {
   "id": 3671051003,
   "districtId": 3671051,
-  "name": "NEGLASARI"
+  "districtName": "NEGLASARI",
+  "name": "NEGLASARI",
+  "postalCode": "35452"
  },
  {
   "id": 3671051004,
   "districtId": 3671051,
-  "name": "MEKARSARI"
+  "districtName": "NEGLASARI",
+  "name": "MEKARSARI",
+  "postalCode": "37482"
  },
  {
   "id": 3671051005,
   "districtId": 3671051,
-  "name": "KEDAUNG BARU"
+  "districtName": "NEGLASARI",
+  "name": "KEDAUNG BARU",
+  "postalCode": "15128"
  },
  {
   "id": 3671051006,
   "districtId": 3671051,
-  "name": "KEDAUNG WETAN"
+  "districtName": "NEGLASARI",
+  "name": "KEDAUNG WETAN",
+  "postalCode": "15128"
  },
  {
   "id": 3671051007,
   "districtId": 3671051,
-  "name": "SELAPAJANG JAYA"
+  "districtName": "NEGLASARI",
+  "name": "SELAPAJANG JAYA",
+  "postalCode": "15127"
  }
 ]

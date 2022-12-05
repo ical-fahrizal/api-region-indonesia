@@ -2,41 +2,57 @@
  {
   "id": 7102251001,
   "districtId": 7102251,
-  "name": "SUMALANGKA"
+  "districtName": "TONDANO UTARA",
+  "name": "SUMALANGKA",
+  "postalCode": "95615"
  },
  {
   "id": 7102251002,
   "districtId": 7102251,
-  "name": "SASARAN"
+  "districtName": "TONDANO UTARA",
+  "name": "SASARAN",
+  "postalCode": "95615"
  },
  {
   "id": 7102251003,
   "districtId": 7102251,
-  "name": "KEMBUAN"
+  "districtName": "TONDANO UTARA",
+  "name": "KEMBUAN",
+  "postalCode": "95615"
  },
  {
   "id": 7102251004,
   "districtId": 7102251,
-  "name": "TONSEA LAMA"
+  "districtName": "TONDANO UTARA",
+  "name": "TONSEA LAMA",
+  "postalCode": "95371"
  },
  {
   "id": 7102251005,
   "districtId": 7102251,
-  "name": "KAMPUNG JAWA"
+  "districtName": "TONDANO UTARA",
+  "name": "KAMPUNG JAWA",
+  "postalCode": "24655"
  },
  {
   "id": 7102251006,
   "districtId": 7102251,
-  "name": "WULAUAN"
+  "districtName": "TONDANO UTARA",
+  "name": "WULAUAN",
+  "postalCode": ""
  },
  {
   "id": 7102251007,
   "districtId": 7102251,
-  "name": "MARAWAS"
+  "districtName": "TONDANO UTARA",
+  "name": "MARAWAS",
+  "postalCode": "95614"
  },
  {
   "id": 7102251008,
   "districtId": 7102251,
-  "name": "KEMBUAN SATU"
+  "districtName": "TONDANO UTARA",
+  "name": "KEMBUAN SATU",
+  "postalCode": "95615"
  }
 ]

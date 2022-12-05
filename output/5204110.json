@@ -2,26 +2,36 @@
  {
   "id": 5204110002,
   "districtId": 5204110,
-  "name": "LEBANGKAR"
+  "districtName": "ROPANG",
+  "name": "LEBANGKAR",
+  "postalCode": "84372"
  },
  {
   "id": 5204110003,
   "districtId": 5204110,
-  "name": "LEBIN"
+  "districtName": "ROPANG",
+  "name": "LEBIN",
+  "postalCode": "84372"
  },
  {
   "id": 5204110008,
   "districtId": 5204110,
-  "name": "LAWIN"
+  "districtName": "ROPANG",
+  "name": "LAWIN",
+  "postalCode": "84372"
  },
  {
   "id": 5204110010,
   "districtId": 5204110,
-  "name": "ROPANG"
+  "districtName": "ROPANG",
+  "name": "ROPANG",
+  "postalCode": "84372"
  },
  {
   "id": 5204110011,
   "districtId": 5204110,
-  "name": "RANAN"
+  "districtName": "ROPANG",
+  "name": "RANAN",
+  "postalCode": "84372"
  }
 ]

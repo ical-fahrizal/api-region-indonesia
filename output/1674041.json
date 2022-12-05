@@ -2,51 +2,71 @@
  {
   "id": 1674041001,
   "districtId": 1674041,
-  "name": "SUMBER AGUNG"
+  "districtName": "LUBUK LINGGAU UTARA I",
+  "name": "SUMBER AGUNG",
+  "postalCode": "37353"
  },
  {
   "id": 1674041002,
   "districtId": 1674041,
-  "name": "PETANANG ULU"
+  "districtName": "LUBUK LINGGAU UTARA I",
+  "name": "PETANANG ULU",
+  "postalCode": "31618"
  },
  {
   "id": 1674041003,
   "districtId": 1674041,
-  "name": "PETANANG ILIR"
+  "districtName": "LUBUK LINGGAU UTARA I",
+  "name": "PETANANG ILIR",
+  "postalCode": "31618"
  },
  {
   "id": 1674041004,
   "districtId": 1674041,
-  "name": "BELALAU I"
+  "districtName": "LUBUK LINGGAU UTARA I",
+  "name": "BELALAU I",
+  "postalCode": "31619"
  },
  {
   "id": 1674041005,
   "districtId": 1674041,
-  "name": "BELALAU II"
+  "districtName": "LUBUK LINGGAU UTARA I",
+  "name": "BELALAU II",
+  "postalCode": "31619"
  },
  {
   "id": 1674041006,
   "districtId": 1674041,
-  "name": "TABA BARU"
+  "districtName": "LUBUK LINGGAU UTARA I",
+  "name": "TABA BARU",
+  "postalCode": "31619"
  },
  {
   "id": 1674041007,
   "districtId": 1674041,
-  "name": "MARGO REJO"
+  "districtName": "LUBUK LINGGAU UTARA I",
+  "name": "MARGO REJO",
+  "postalCode": "35365"
  },
  {
   "id": 1674041008,
   "districtId": 1674041,
-  "name": "MARGA BAKTI"
+  "districtName": "LUBUK LINGGAU UTARA I",
+  "name": "MARGA BAKTI",
+  "postalCode": "31619"
  },
  {
   "id": 1674041009,
   "districtId": 1674041,
-  "name": "DURIAN RAMPAK"
+  "districtName": "LUBUK LINGGAU UTARA I",
+  "name": "DURIAN RAMPAK",
+  "postalCode": "23765"
  },
  {
   "id": 1674041010,
   "districtId": 1674041,
-  "name": "TANJUNG RAYA"
+  "districtName": "LUBUK LINGGAU UTARA I",
+  "name": "TANJUNG RAYA",
+  "postalCode": "23891"
  }
 ]

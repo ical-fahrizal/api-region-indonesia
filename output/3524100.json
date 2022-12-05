@@ -2,111 +2,155 @@
  {
   "id": 3524100001,
   "districtId": 3524100,
-  "name": "BANARAN"
+  "districtName": "BABAT",
+  "name": "BANARAN",
+  "postalCode": "51281"
  },
  {
   "id": 3524100002,
   "districtId": 3524100,
-  "name": "KARANGKEMBANG"
+  "districtName": "BABAT",
+  "name": "KARANGKEMBANG",
+  "postalCode": "54352"
  },
  {
   "id": 3524100003,
   "districtId": 3524100,
-  "name": "PUCAKWANGI"
+  "districtName": "BABAT",
+  "name": "PUCAKWANGI",
+  "postalCode": "51361"
  },
  {
   "id": 3524100004,
   "districtId": 3524100,
-  "name": "GENDONG KULON"
+  "districtName": "BABAT",
+  "name": "GENDONG KULON",
+  "postalCode": "62271"
  },
  {
   "id": 3524100005,
   "districtId": 3524100,
-  "name": "KURIPAN"
+  "districtName": "BABAT",
+  "name": "KURIPAN",
+  "postalCode": "32384"
  },
  {
   "id": 3524100006,
   "districtId": 3524100,
-  "name": "BULUMARGI"
+  "districtName": "BABAT",
+  "name": "BULUMARGI",
+  "postalCode": "62271"
  },
  {
   "id": 3524100007,
   "districtId": 3524100,
-  "name": "SAMBANGAN"
+  "districtName": "BABAT",
+  "name": "SAMBANGAN",
+  "postalCode": "62271"
  },
  {
   "id": 3524100008,
   "districtId": 3524100,
-  "name": "KEYONGAN"
+  "districtName": "BABAT",
+  "name": "KEYONGAN",
+  "postalCode": "58183"
  },
  {
   "id": 3524100009,
   "districtId": 3524100,
-  "name": "PATIHAN"
+  "districtName": "BABAT",
+  "name": "PATIHAN",
+  "postalCode": "57281"
  },
  {
   "id": 3524100010,
   "districtId": 3524100,
-  "name": "DATINAWONG"
+  "districtName": "BABAT",
+  "name": "DATINAWONG",
+  "postalCode": "62271"
  },
  {
   "id": 3524100012,
   "districtId": 3524100,
-  "name": "PLAOSAN"
+  "districtName": "BABAT",
+  "name": "PLAOSAN",
+  "postalCode": "59157"
  },
  {
   "id": 3524100013,
   "districtId": 3524100,
-  "name": "SOGO"
+  "districtName": "BABAT",
+  "name": "SOGO",
+  "postalCode": "36371"
  },
  {
   "id": 3524100014,
   "districtId": 3524100,
-  "name": "BABAT"
+  "districtName": "BABAT",
+  "name": "BABAT",
+  "postalCode": "30752"
  },
  {
   "id": 3524100015,
   "districtId": 3524100,
-  "name": "BEDAHAN"
+  "districtName": "BABAT",
+  "name": "BEDAHAN",
+  "postalCode": "16519"
  },
  {
   "id": 3524100016,
   "districtId": 3524100,
-  "name": "TRUNI"
+  "districtName": "BABAT",
+  "name": "TRUNI",
+  "postalCode": "62271"
  },
  {
   "id": 3524100017,
   "districtId": 3524100,
-  "name": "TREPAN"
+  "districtName": "BABAT",
+  "name": "TREPAN",
+  "postalCode": "62271"
  },
  {
   "id": 3524100018,
   "districtId": 3524100,
-  "name": "KEBALANPELANG"
+  "districtName": "BABAT",
+  "name": "KEBALANPELANG",
+  "postalCode": "62271"
  },
  {
   "id": 3524100019,
   "districtId": 3524100,
-  "name": "GEMBONG"
+  "districtName": "BABAT",
+  "name": "GEMBONG",
+  "postalCode": "53362"
  },
  {
   "id": 3524100020,
   "districtId": 3524100,
-  "name": "KEBALANDONO"
+  "districtName": "BABAT",
+  "name": "KEBALANDONO",
+  "postalCode": "62271"
  },
  {
   "id": 3524100021,
   "districtId": 3524100,
-  "name": "MOROPELANG"
+  "districtName": "BABAT",
+  "name": "MOROPELANG",
+  "postalCode": "62271"
  },
  {
   "id": 3524100022,
   "districtId": 3524100,
-  "name": "TRITUNGGAL"
+  "districtName": "BABAT",
+  "name": "TRITUNGGAL",
+  "postalCode": "59219"
  },
  {
   "id": 3524100023,
   "districtId": 3524100,
-  "name": "KEBONAGUNG"
+  "districtName": "BABAT",
+  "name": "KEBONAGUNG",
+  "postalCode": "56151"
  }
 ]

@@ -2,66 +2,92 @@
  {
   "id": 1223070001,
   "districtId": 1223070,
-  "name": "KUALA BERINGIN"
+  "districtName": "KUALUH HULU",
+  "name": "KUALA BERINGIN",
+  "postalCode": "21457"
  },
  {
   "id": 1223070002,
   "districtId": 1223070,
-  "name": "PULO DOGOM"
+  "districtName": "KUALUH HULU",
+  "name": "PULO DOGOM",
+  "postalCode": "21457"
  },
  {
   "id": 1223070003,
   "districtId": 1223070,
-  "name": "PERKEBUNAN LONDUT"
+  "districtName": "KUALUH HULU",
+  "name": "PERKEBUNAN LONDUT",
+  "postalCode": "21457"
  },
  {
   "id": 1223070004,
   "districtId": 1223070,
-  "name": "PERKEBUNAN KANOPAN ULU"
+  "districtName": "KUALUH HULU",
+  "name": "PERKEBUNAN KANOPAN ULU",
+  "postalCode": "21457"
  },
  {
   "id": 1223070005,
   "districtId": 1223070,
-  "name": "PARPAUDANGAN"
+  "districtName": "KUALUH HULU",
+  "name": "PARPAUDANGAN",
+  "postalCode": "21457"
  },
  {
   "id": 1223070006,
   "districtId": 1223070,
-  "name": "AEK KANOPAN"
+  "districtName": "KUALUH HULU",
+  "name": "AEK KANOPAN",
+  "postalCode": "21457"
  },
  {
   "id": 1223070007,
   "districtId": 1223070,
-  "name": "PERKEBUNAN MEMBANG MUDA"
+  "districtName": "KUALUH HULU",
+  "name": "PERKEBUNAN MEMBANG MUDA",
+  "postalCode": ""
  },
  {
   "id": 1223070008,
   "districtId": 1223070,
-  "name": "PERKEBUNAN LABUHAN HAJI"
+  "districtName": "KUALUH HULU",
+  "name": "PERKEBUNAN LABUHAN HAJI",
+  "postalCode": "21457"
  },
  {
   "id": 1223070009,
   "districtId": 1223070,
-  "name": "PERKEBUNAN HANNA"
+  "districtName": "KUALUH HULU",
+  "name": "PERKEBUNAN HANNA",
+  "postalCode": "21457"
  },
  {
   "id": 1223070010,
   "districtId": 1223070,
-  "name": "AEK KANOPAN TIMUR"
+  "districtName": "KUALUH HULU",
+  "name": "AEK KANOPAN TIMUR",
+  "postalCode": "21457"
  },
  {
   "id": 1223070011,
   "districtId": 1223070,
-  "name": "SUKARAME"
+  "districtName": "KUALUH HULU",
+  "name": "SUKARAME",
+  "postalCode": "24357"
  },
  {
   "id": 1223070012,
   "districtId": 1223070,
-  "name": "SUKARAME BARU"
+  "districtName": "KUALUH HULU",
+  "name": "SUKARAME BARU",
+  "postalCode": "35131"
  },
  {
   "id": 1223070013,
   "districtId": 1223070,
-  "name": "SONO MARTANI"
+  "districtName": "KUALUH HULU",
+  "name": "SONO MARTANI",
+  "postalCode": "21457"
  }
 ]

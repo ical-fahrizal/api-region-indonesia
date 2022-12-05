@@ -2,51 +2,71 @@
  {
   "id": 7202054001,
   "districtId": 7202054,
-  "name": "NAMBO PADANG"
+  "districtName": "NAMBO",
+  "name": "NAMBO PADANG",
+  "postalCode": "94761"
  },
  {
   "id": 7202054002,
   "districtId": 7202054,
-  "name": "NAMBO LEMPEK"
+  "districtName": "NAMBO",
+  "name": "NAMBO LEMPEK",
+  "postalCode": "94761"
  },
  {
   "id": 7202054003,
   "districtId": 7202054,
-  "name": "KOYOAN"
+  "districtName": "NAMBO",
+  "name": "KOYOAN",
+  "postalCode": "94761"
  },
  {
   "id": 7202054004,
   "districtId": 7202054,
-  "name": "NAMBO BOSAA"
+  "districtName": "NAMBO",
+  "name": "NAMBO BOSAA",
+  "postalCode": "94761"
  },
  {
   "id": 7202054005,
   "districtId": 7202054,
-  "name": "NAMBO LEMPEK BARU"
+  "districtName": "NAMBO",
+  "name": "NAMBO LEMPEK BARU",
+  "postalCode": "94761"
  },
  {
   "id": 7202054006,
   "districtId": 7202054,
-  "name": "KOYOAN PERMAI"
+  "districtName": "NAMBO",
+  "name": "KOYOAN PERMAI",
+  "postalCode": "94761"
  },
  {
   "id": 7202054007,
   "districtId": 7202054,
-  "name": "LONTIO"
+  "districtName": "NAMBO",
+  "name": "LONTIO",
+  "postalCode": "94753"
  },
  {
   "id": 7202054008,
   "districtId": 7202054,
-  "name": "LONTIO BARU"
+  "districtName": "NAMBO",
+  "name": "LONTIO BARU",
+  "postalCode": "94761"
  },
  {
   "id": 7202054009,
   "districtId": 7202054,
-  "name": "PADUNGNYO"
+  "districtName": "NAMBO",
+  "name": "PADUNGNYO",
+  "postalCode": "94761"
  },
  {
   "id": 7202054010,
   "districtId": 7202054,
-  "name": "SAYAMBONGIN"
+  "districtName": "NAMBO",
+  "name": "SAYAMBONGIN",
+  "postalCode": "94761"
  }
 ]

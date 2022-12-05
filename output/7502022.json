@@ -2,46 +2,64 @@
  {
   "id": 7502022001,
   "districtId": 7502022,
-  "name": "TABONGO BARAT"
+  "districtName": "TABONGO",
+  "name": "TABONGO BARAT",
+  "postalCode": "96271"
  },
  {
   "id": 7502022002,
   "districtId": 7502022,
-  "name": "LIMEHE BARAT"
+  "districtName": "TABONGO",
+  "name": "LIMEHE BARAT",
+  "postalCode": "96271"
  },
  {
   "id": 7502022003,
   "districtId": 7502022,
-  "name": "ILOMANGGA"
+  "districtName": "TABONGO",
+  "name": "ILOMANGGA",
+  "postalCode": "96271"
  },
  {
   "id": 7502022004,
   "districtId": 7502022,
-  "name": "TABONGO TIMUR"
+  "districtName": "TABONGO",
+  "name": "TABONGO TIMUR",
+  "postalCode": "96271"
  },
  {
   "id": 7502022005,
   "districtId": 7502022,
-  "name": "LIMEHE TIMUR"
+  "districtName": "TABONGO",
+  "name": "LIMEHE TIMUR",
+  "postalCode": "96271"
  },
  {
   "id": 7502022006,
   "districtId": 7502022,
-  "name": "MOTINELO"
+  "districtName": "TABONGO",
+  "name": "MOTINELO",
+  "postalCode": "96271"
  },
  {
   "id": 7502022007,
   "districtId": 7502022,
-  "name": "MOAHUDU"
+  "districtName": "TABONGO",
+  "name": "MOAHUDU",
+  "postalCode": "96271"
  },
  {
   "id": 7502022008,
   "districtId": 7502022,
-  "name": "TERATAI"
+  "districtName": "TABONGO",
+  "name": "TERATAI",
+  "postalCode": "36612"
  },
  {
   "id": 7502022009,
   "districtId": 7502022,
-  "name": "LIMEHU"
+  "districtName": "TABONGO",
+  "name": "LIMEHU",
+  "postalCode": "96271"
  }
 ]

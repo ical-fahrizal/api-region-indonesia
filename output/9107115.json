@@ -2,26 +2,36 @@
  {
   "id": 9107115001,
   "districtId": 9107115,
-  "name": "MALADUK"
+  "districtName": "KLASAFET",
+  "name": "MALADUK",
+  "postalCode": ""
  },
  {
   "id": 9107115002,
   "districtId": 9107115,
-  "name": "KLAMONO OLIE"
+  "districtName": "KLASAFET",
+  "name": "KLAMONO OLIE",
+  "postalCode": ""
  },
  {
   "id": 9107115003,
   "districtId": 9107115,
-  "name": "BARROS"
+  "districtName": "KLASAFET",
+  "name": "BARROS",
+  "postalCode": ""
  },
  {
   "id": 9107115004,
   "districtId": 9107115,
-  "name": "TILIGUM"
+  "districtName": "KLASAFET",
+  "name": "TILIGUM",
+  "postalCode": ""
  },
  {
   "id": 9107115005,
   "districtId": 9107115,
-  "name": "KWAWILIBE"
+  "districtName": "KLASAFET",
+  "name": "KWAWILIBE",
+  "postalCode": ""
  }
 ]

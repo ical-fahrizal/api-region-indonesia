@@ -2,86 +2,120 @@
  {
   "id": 5206060008,
   "districtId": 5206060,
-  "name": "SARI"
+  "districtName": "SAPE",
+  "name": "SARI",
+  "postalCode": "84182"
  },
  {
   "id": 5206060009,
   "districtId": 5206060,
-  "name": "BOKE"
+  "districtName": "SAPE",
+  "name": "BOKE",
+  "postalCode": "84182"
  },
  {
   "id": 5206060010,
   "districtId": 5206060,
-  "name": "JIA"
+  "districtName": "SAPE",
+  "name": "JIA",
+  "postalCode": "84182"
  },
  {
   "id": 5206060012,
   "districtId": 5206060,
-  "name": "NARU"
+  "districtName": "SAPE",
+  "name": "NARU",
+  "postalCode": "84182"
  },
  {
   "id": 5206060014,
   "districtId": 5206060,
-  "name": "BAJOPULAU"
+  "districtName": "SAPE",
+  "name": "BAJOPULAU",
+  "postalCode": "84182"
  },
  {
   "id": 5206060015,
   "districtId": 5206060,
-  "name": "BUGIS"
+  "districtName": "SAPE",
+  "name": "BUGIS",
+  "postalCode": "45256"
  },
  {
   "id": 5206060016,
   "districtId": 5206060,
-  "name": "RASABOU"
+  "districtName": "SAPE",
+  "name": "RASABOU",
+  "postalCode": "84161"
  },
  {
   "id": 5206060017,
   "districtId": 5206060,
-  "name": "NAE"
+  "districtName": "SAPE",
+  "name": "NAE",
+  "postalCode": "84116"
  },
  {
   "id": 5206060018,
   "districtId": 5206060,
-  "name": "PARANGINA"
+  "districtName": "SAPE",
+  "name": "PARANGINA",
+  "postalCode": "84182"
  },
  {
   "id": 5206060019,
   "districtId": 5206060,
-  "name": "RAIOI"
+  "districtName": "SAPE",
+  "name": "RAIOI",
+  "postalCode": "84182"
  },
  {
   "id": 5206060020,
   "districtId": 5206060,
-  "name": "SANGIA"
+  "districtName": "SAPE",
+  "name": "SANGIA",
+  "postalCode": "84182"
  },
  {
   "id": 5206060021,
   "districtId": 5206060,
-  "name": "KOWO"
+  "districtName": "SAPE",
+  "name": "KOWO",
+  "postalCode": "84182"
  },
  {
   "id": 5206060023,
   "districtId": 5206060,
-  "name": "POJA"
+  "districtName": "SAPE",
+  "name": "POJA",
+  "postalCode": "69472"
  },
  {
   "id": 5206060024,
   "districtId": 5206060,
-  "name": "TANAH PUTIH"
+  "districtName": "SAPE",
+  "name": "TANAH PUTIH",
+  "postalCode": "84182"
  },
  {
   "id": 5206060025,
   "districtId": 5206060,
-  "name": "NARU BARAT"
+  "districtName": "SAPE",
+  "name": "NARU BARAT",
+  "postalCode": "84182"
  },
  {
   "id": 5206060026,
   "districtId": 5206060,
-  "name": "LAMERE"
+  "districtName": "SAPE",
+  "name": "LAMERE",
+  "postalCode": ""
  },
  {
   "id": 5206060027,
   "districtId": 5206060,
-  "name": "OI MACI"
+  "districtName": "SAPE",
+  "name": "OI MACI",
+  "postalCode": ""
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 3604091001,
   "districtId": 3604091,
-  "name": "PANGAWINAN"
+  "districtName": "BANDUNG",
+  "name": "PANGAWINAN",
+  "postalCode": "42176"
  },
  {
   "id": 3604091002,
   "districtId": 3604091,
-  "name": "MANDER"
+  "districtName": "BANDUNG",
+  "name": "MANDER",
+  "postalCode": "62353"
  },
  {
   "id": 3604091003,
   "districtId": 3604091,
-  "name": "PANAMPING"
+  "districtName": "BANDUNG",
+  "name": "PANAMPING",
+  "postalCode": "42176"
  },
  {
   "id": 3604091004,
   "districtId": 3604091,
-  "name": "BANDUNG"
+  "districtName": "BANDUNG",
+  "name": "BANDUNG",
+  "postalCode": "54317"
  },
  {
   "id": 3604091005,
   "districtId": 3604091,
-  "name": "MALABAR"
+  "districtName": "BANDUNG",
+  "name": "MALABAR",
+  "postalCode": "40262"
  },
  {
   "id": 3604091006,
   "districtId": 3604091,
-  "name": "BLOKANG"
+  "districtName": "BANDUNG",
+  "name": "BLOKANG",
+  "postalCode": "42176"
  },
  {
   "id": 3604091007,
   "districtId": 3604091,
-  "name": "BABAKAN"
+  "districtName": "BANDUNG",
+  "name": "BABAKAN",
+  "postalCode": "35675"
  },
  {
   "id": 3604091008,
   "districtId": 3604091,
-  "name": "PRINGWULUNG"
+  "districtName": "BANDUNG",
+  "name": "PRINGWULUNG",
+  "postalCode": "42176"
  }
 ]

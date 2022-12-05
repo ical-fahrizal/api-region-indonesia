@@ -2,51 +2,71 @@
  {
   "id": 7105113001,
   "districtId": 7105113,
-  "name": "RANOMEA"
+  "districtName": "AMURANG TIMUR",
+  "name": "RANOMEA",
+  "postalCode": "95954"
  },
  {
   "id": 7105113002,
   "districtId": 7105113,
-  "name": "PONDANG"
+  "districtName": "AMURANG TIMUR",
+  "name": "PONDANG",
+  "postalCode": "95954"
  },
  {
   "id": 7105113003,
   "districtId": 7105113,
-  "name": "PINALING"
+  "districtName": "AMURANG TIMUR",
+  "name": "PINALING",
+  "postalCode": "95954"
  },
  {
   "id": 7105113004,
   "districtId": 7105113,
-  "name": "KOTA MENARA"
+  "districtName": "AMURANG TIMUR",
+  "name": "KOTA MENARA",
+  "postalCode": "95954"
  },
  {
   "id": 7105113005,
   "districtId": 7105113,
-  "name": "MALIKU"
+  "districtName": "AMURANG TIMUR",
+  "name": "MALIKU",
+  "postalCode": "95954"
  },
  {
   "id": 7105113006,
   "districtId": 7105113,
-  "name": "RITEY"
+  "districtName": "AMURANG TIMUR",
+  "name": "RITEY",
+  "postalCode": "95954"
  },
  {
   "id": 7105113007,
   "districtId": 7105113,
-  "name": "MALENOS BARU"
+  "districtName": "AMURANG TIMUR",
+  "name": "MALENOS BARU",
+  "postalCode": "95954"
  },
  {
   "id": 7105113008,
   "districtId": 7105113,
-  "name": "LOPANA"
+  "districtName": "AMURANG TIMUR",
+  "name": "LOPANA",
+  "postalCode": "95954"
  },
  {
   "id": 7105113009,
   "districtId": 7105113,
-  "name": "LOPANA SATU"
+  "districtName": "AMURANG TIMUR",
+  "name": "LOPANA SATU",
+  "postalCode": ""
  },
  {
   "id": 7105113010,
   "districtId": 7105113,
-  "name": "MALIKU SATU"
+  "districtName": "AMURANG TIMUR",
+  "name": "MALIKU SATU",
+  "postalCode": "95954"
  }
 ]

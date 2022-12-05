@@ -2,36 +2,50 @@
  {
   "id": 5205010002,
   "districtId": 5205010,
-  "name": "DAHA"
+  "districtName": "HU'U",
+  "name": "DAHA",
+  "postalCode": "84271"
  },
  {
   "id": 5205010003,
   "districtId": 5205010,
-  "name": "RASABOU"
+  "districtName": "HU'U",
+  "name": "RASABOU",
+  "postalCode": "84161"
  },
  {
   "id": 5205010004,
   "districtId": 5205010,
-  "name": "CEMPI JAYA"
+  "districtName": "HU'U",
+  "name": "CEMPI JAYA",
+  "postalCode": "84271"
  },
  {
   "id": 5205010005,
   "districtId": 5205010,
-  "name": "ADU"
+  "districtName": "HU'U",
+  "name": "ADU",
+  "postalCode": "84271"
  },
  {
   "id": 5205010006,
   "districtId": 5205010,
-  "name": "SAWE"
+  "districtName": "HU'U",
+  "name": "SAWE",
+  "postalCode": ""
  },
  {
   "id": 5205010007,
   "districtId": 5205010,
-  "name": "PERSIAPAN JALA"
+  "districtName": "HU'U",
+  "name": "PERSIAPAN JALA",
+  "postalCode": ""
  },
  {
   "id": 5205010008,
   "districtId": 5205010,
-  "name": "MARADA"
+  "districtName": "HU'U",
+  "name": "MARADA",
+  "postalCode": ""
  }
 ]

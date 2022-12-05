@@ -2,21 +2,29 @@
  {
   "id": 9103020008,
   "districtId": 9103020,
-  "name": "WONDIBOI"
+  "districtName": "WONDIBOY",
+  "name": "WONDIBOI",
+  "postalCode": ""
  },
  {
   "id": 9103020012,
   "districtId": 9103020,
-  "name": "ISUY"
+  "districtName": "WONDIBOY",
+  "name": "ISUY",
+  "postalCode": ""
  },
  {
   "id": 9103020013,
   "districtId": 9103020,
-  "name": "KABUOW"
+  "districtName": "WONDIBOY",
+  "name": "KABUOW",
+  "postalCode": ""
  },
  {
   "id": 9103020014,
   "districtId": 9103020,
-  "name": "KAIBI"
+  "districtName": "WONDIBOY",
+  "name": "KAIBI",
+  "postalCode": "98362"
  }
 ]

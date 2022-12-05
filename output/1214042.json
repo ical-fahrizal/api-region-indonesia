@@ -2,61 +2,85 @@
  {
   "id": 1214042001,
   "districtId": 1214042,
-  "name": "FOIKHU FONDRAKO"
+  "districtName": "ULUSUSUA",
+  "name": "FOIKHU FONDRAKO",
+  "postalCode": "22866"
  },
  {
   "id": 1214042002,
   "districtId": 1214042,
-  "name": "SISARAHILI SUSUA"
+  "districtName": "ULUSUSUA",
+  "name": "SISARAHILI SUSUA",
+  "postalCode": "22866"
  },
  {
   "id": 1214042003,
   "districtId": 1214042,
-  "name": "HILINIFAOSO"
+  "districtName": "ULUSUSUA",
+  "name": "HILINIFAOSO",
+  "postalCode": "22866"
  },
  {
   "id": 1214042004,
   "districtId": 1214042,
-  "name": "RAMBA-RAMBA"
+  "districtName": "ULUSUSUA",
+  "name": "RAMBA-RAMBA",
+  "postalCode": "22866"
  },
  {
   "id": 1214042005,
   "districtId": 1214042,
-  "name": "FONDRAKORAYA"
+  "districtName": "ULUSUSUA",
+  "name": "FONDRAKORAYA",
+  "postalCode": "22866"
  },
  {
   "id": 1214042006,
   "districtId": 1214042,
-  "name": "LAHUSA SUSUA"
+  "districtName": "ULUSUSUA",
+  "name": "LAHUSA SUSUA",
+  "postalCode": "22866"
  },
  {
   "id": 1214042009,
   "districtId": 1214042,
-  "name": "SUSUA"
+  "districtName": "ULUSUSUA",
+  "name": "SUSUA",
+  "postalCode": "22866"
  },
  {
   "id": 1214042010,
   "districtId": 1214042,
-  "name": "ORUDUA SIBOHOU"
+  "districtName": "ULUSUSUA",
+  "name": "ORUDUA SIBOHOU",
+  "postalCode": ""
  },
  {
   "id": 1214042011,
   "districtId": 1214042,
-  "name": "AMANDRAYA"
+  "districtName": "ULUSUSUA",
+  "name": "AMANDRAYA",
+  "postalCode": "22866"
  },
  {
   "id": 1214042012,
   "districtId": 1214042,
-  "name": "SIFAOROASI"
+  "districtName": "ULUSUSUA",
+  "name": "SIFAOROASI",
+  "postalCode": "22851"
  },
  {
   "id": 1214042013,
   "districtId": 1214042,
-  "name": "HILIWOSI"
+  "districtName": "ULUSUSUA",
+  "name": "HILIWOSI",
+  "postalCode": "22866"
  },
  {
   "id": 1214042014,
   "districtId": 1214042,
-  "name": "ORAHILI FONDRAKO"
+  "districtName": "ULUSUSUA",
+  "name": "ORAHILI FONDRAKO",
+  "postalCode": "22866"
  }
 ]

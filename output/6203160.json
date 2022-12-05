@@ -2,46 +2,64 @@
  {
   "id": 6203160001,
   "districtId": 6203160,
-  "name": "PETAK PUTI"
+  "districtName": "TIMPAH",
+  "name": "PETAK PUTI",
+  "postalCode": "74454"
  },
  {
   "id": 6203160002,
   "districtId": 6203160,
-  "name": "ARUK"
+  "districtName": "TIMPAH",
+  "name": "ARUK",
+  "postalCode": "73554"
  },
  {
   "id": 6203160003,
   "districtId": 6203160,
-  "name": "LAWANG KAJANG"
+  "districtName": "TIMPAH",
+  "name": "LAWANG KAJANG",
+  "postalCode": "73554"
  },
  {
   "id": 6203160004,
   "districtId": 6203160,
-  "name": "TIMPAH"
+  "districtName": "TIMPAH",
+  "name": "TIMPAH",
+  "postalCode": "73554"
  },
  {
   "id": 6203160005,
   "districtId": 6203160,
-  "name": "LUNGKU LAYANG"
+  "districtName": "TIMPAH",
+  "name": "LUNGKU LAYANG",
+  "postalCode": "73554"
  },
  {
   "id": 6203160006,
   "districtId": 6203160,
-  "name": "DANAU PANTAU"
+  "districtName": "TIMPAH",
+  "name": "DANAU PANTAU",
+  "postalCode": "73554"
  },
  {
   "id": 6203160007,
   "districtId": 6203160,
-  "name": "LAWANG KAMAH"
+  "districtName": "TIMPAH",
+  "name": "LAWANG KAMAH",
+  "postalCode": "73554"
  },
  {
   "id": 6203160008,
   "districtId": 6203160,
-  "name": "TUMBANG RANDANG"
+  "districtName": "TIMPAH",
+  "name": "TUMBANG RANDANG",
+  "postalCode": "73554"
  },
  {
   "id": 6203160009,
   "districtId": 6203160,
-  "name": "BATAPAH"
+  "districtName": "TIMPAH",
+  "name": "BATAPAH",
+  "postalCode": "73554"
  }
 ]

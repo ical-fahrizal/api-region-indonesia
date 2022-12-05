@@ -2,46 +2,64 @@
  {
   "id": 5101030001,
   "districtId": 5101030,
-  "name": "MENDOYO DAUH TUKAD"
+  "districtName": "MENDOYO",
+  "name": "MENDOYO DAUH TUKAD",
+  "postalCode": "82261"
  },
  {
   "id": 5101030002,
   "districtId": 5101030,
-  "name": "MENDOYO DANGIN TUKAD"
+  "districtName": "MENDOYO",
+  "name": "MENDOYO DANGIN TUKAD",
+  "postalCode": "82261"
  },
  {
   "id": 5101030003,
   "districtId": 5101030,
-  "name": "POHSANTEN"
+  "districtName": "MENDOYO",
+  "name": "POHSANTEN",
+  "postalCode": "82261"
  },
  {
   "id": 5101030005,
   "districtId": 5101030,
-  "name": "DELOD BERAWAH"
+  "districtName": "MENDOYO",
+  "name": "DELOD BERAWAH",
+  "postalCode": "82261"
  },
  {
   "id": 5101030006,
   "districtId": 5101030,
-  "name": "TEGAL CANGKRING"
+  "districtName": "MENDOYO",
+  "name": "TEGAL CANGKRING",
+  "postalCode": "82261"
  },
  {
   "id": 5101030007,
   "districtId": 5101030,
-  "name": "PENYARINGAN"
+  "districtName": "MENDOYO",
+  "name": "PENYARINGAN",
+  "postalCode": "82261"
  },
  {
   "id": 5101030008,
   "districtId": 5101030,
-  "name": "YEH EMBANG KAUH"
+  "districtName": "MENDOYO",
+  "name": "YEH EMBANG KAUH",
+  "postalCode": "82261"
  },
  {
   "id": 5101030009,
   "districtId": 5101030,
-  "name": "YEH EMBANG"
+  "districtName": "MENDOYO",
+  "name": "YEH EMBANG",
+  "postalCode": "82261"
  },
  {
   "id": 5101030010,
   "districtId": 5101030,
-  "name": "YEH EMBANG KANGIN"
+  "districtName": "MENDOYO",
+  "name": "YEH EMBANG KANGIN",
+  "postalCode": "82261"
  }
 ]

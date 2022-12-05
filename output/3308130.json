@@ -2,146 +2,204 @@
  {
   "id": 3308130001,
   "districtId": 3308130,
-  "name": "WUWUHARJO"
+  "districtName": "KAJORAN",
+  "name": "WUWUHARJO",
+  "postalCode": "56163"
  },
  {
   "id": 3308130002,
   "districtId": 3308130,
-  "name": "WONOGIRI"
+  "districtName": "KAJORAN",
+  "name": "WONOGIRI",
+  "postalCode": "52364"
  },
  {
   "id": 3308130003,
   "districtId": 3308130,
-  "name": "KWADERAN"
+  "districtName": "KAJORAN",
+  "name": "KWADERAN",
+  "postalCode": "56163"
  },
  {
   "id": 3308130004,
   "districtId": 3308130,
-  "name": "MADUKORO"
+  "districtName": "KAJORAN",
+  "name": "MADUKORO",
+  "postalCode": "34511"
  },
  {
   "id": 3308130005,
   "districtId": 3308130,
-  "name": "BUMIAYU"
+  "districtName": "KAJORAN",
+  "name": "BUMIAYU",
+  "postalCode": "31314"
  },
  {
   "id": 3308130006,
   "districtId": 3308130,
-  "name": "NGARGOSARI"
+  "districtName": "KAJORAN",
+  "name": "NGARGOSARI",
+  "postalCode": "57352"
  },
  {
   "id": 3308130007,
   "districtId": 3308130,
-  "name": "LESANPURO"
+  "districtName": "KAJORAN",
+  "name": "LESANPURO",
+  "postalCode": "56163"
  },
  {
   "id": 3308130008,
   "districtId": 3308130,
-  "name": "NGENDROSARI"
+  "districtName": "KAJORAN",
+  "name": "NGENDROSARI",
+  "postalCode": "56163"
  },
  {
   "id": 3308130009,
   "districtId": 3308130,
-  "name": "MADUGONDO"
+  "districtName": "KAJORAN",
+  "name": "MADUGONDO",
+  "postalCode": "56163"
  },
  {
   "id": 3308130010,
   "districtId": 3308130,
-  "name": "WADAS"
+  "districtName": "KAJORAN",
+  "name": "WADAS",
+  "postalCode": "41361"
  },
  {
   "id": 3308130011,
   "districtId": 3308130,
-  "name": "BANJARETNO"
+  "districtName": "KAJORAN",
+  "name": "BANJARETNO",
+  "postalCode": "56163"
  },
  {
   "id": 3308130012,
   "districtId": 3308130,
-  "name": "KRINJING"
+  "districtName": "KAJORAN",
+  "name": "KRINJING",
+  "postalCode": "56482"
  },
  {
   "id": 3308130013,
   "districtId": 3308130,
-  "name": "BANGSRI"
+  "districtName": "KAJORAN",
+  "name": "BANGSRI",
+  "postalCode": "59453"
  },
  {
   "id": 3308130014,
   "districtId": 3308130,
-  "name": "KAJORAN"
+  "districtName": "KAJORAN",
+  "name": "KAJORAN",
+  "postalCode": "56163"
  },
  {
   "id": 3308130015,
   "districtId": 3308130,
-  "name": "MANGUNREJO"
+  "districtName": "KAJORAN",
+  "name": "MANGUNREJO",
+  "postalCode": "56163"
  },
  {
   "id": 3308130016,
   "districtId": 3308130,
-  "name": "SAMBAK"
+  "districtName": "KAJORAN",
+  "name": "SAMBAK",
+  "postalCode": "56163"
  },
  {
   "id": 3308130017,
   "districtId": 3308130,
-  "name": "BAMBUSARI"
+  "districtName": "KAJORAN",
+  "name": "BAMBUSARI",
+  "postalCode": "56163"
  },
  {
   "id": 3308130018,
   "districtId": 3308130,
-  "name": "PANDANSARI"
+  "districtName": "KAJORAN",
+  "name": "PANDANSARI",
+  "postalCode": "16720"
  },
  {
   "id": 3308130019,
   "districtId": 3308130,
-  "name": "PANDANRETNO"
+  "districtName": "KAJORAN",
+  "name": "PANDANRETNO",
+  "postalCode": "56163"
  },
  {
   "id": 3308130020,
   "districtId": 3308130,
-  "name": "KRUMPAKAN"
+  "districtName": "KAJORAN",
+  "name": "KRUMPAKAN",
+  "postalCode": "56163"
  },
  {
   "id": 3308130021,
   "districtId": 3308130,
-  "name": "BANJARAGUNG"
+  "districtName": "KAJORAN",
+  "name": "BANJARAGUNG",
+  "postalCode": "56163"
  },
  {
   "id": 3308130022,
   "districtId": 3308130,
-  "name": "SANGEN"
+  "districtName": "KAJORAN",
+  "name": "SANGEN",
+  "postalCode": "56163"
  },
  {
   "id": 3308130023,
   "districtId": 3308130,
-  "name": "PUCUNGROTO"
+  "districtName": "KAJORAN",
+  "name": "PUCUNGROTO",
+  "postalCode": "56163"
  },
  {
   "id": 3308130024,
   "districtId": 3308130,
-  "name": "SIDOREJO"
+  "districtName": "KAJORAN",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 3308130025,
   "districtId": 3308130,
-  "name": "SIDOWANGI"
+  "districtName": "KAJORAN",
+  "name": "SIDOWANGI",
+  "postalCode": "56163"
  },
  {
   "id": 3308130026,
   "districtId": 3308130,
-  "name": "SUKOMULYO"
+  "districtName": "KAJORAN",
+  "name": "SUKOMULYO",
+  "postalCode": "32381"
  },
  {
   "id": 3308130027,
   "districtId": 3308130,
-  "name": "SUKOREJO"
+  "districtName": "KAJORAN",
+  "name": "SUKOREJO",
+  "postalCode": "31551"
  },
  {
   "id": 3308130028,
   "districtId": 3308130,
-  "name": "SUTOPATI"
+  "districtName": "KAJORAN",
+  "name": "SUTOPATI",
+  "postalCode": "56163"
  },
  {
   "id": 3308130029,
   "districtId": 3308130,
-  "name": "SUKOMAKMUR"
+  "districtName": "KAJORAN",
+  "name": "SUKOMAKMUR",
+  "postalCode": "56163"
  }
 ]

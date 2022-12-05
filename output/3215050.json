@@ -2,51 +2,71 @@
  {
   "id": 3215050001,
   "districtId": 3215050,
-  "name": "KALIHURIP"
+  "districtName": "CIKAMPEK",
+  "name": "KALIHURIP",
+  "postalCode": "41373"
  },
  {
   "id": 3215050002,
   "districtId": 3215050,
-  "name": "KAMOJING"
+  "districtName": "CIKAMPEK",
+  "name": "KAMOJING",
+  "postalCode": "41373"
  },
  {
   "id": 3215050006,
   "districtId": 3215050,
-  "name": "CIKAMPEK TIMUR"
+  "districtName": "CIKAMPEK",
+  "name": "CIKAMPEK TIMUR",
+  "postalCode": "41373"
  },
  {
   "id": 3215050007,
   "districtId": 3215050,
-  "name": "CIKAMPEK PUSAKA"
+  "districtName": "CIKAMPEK",
+  "name": "CIKAMPEK PUSAKA",
+  "postalCode": "41373"
  },
  {
   "id": 3215050008,
   "districtId": 3215050,
-  "name": "CIKAMPEK SELATAN"
+  "districtName": "CIKAMPEK",
+  "name": "CIKAMPEK SELATAN",
+  "postalCode": "41373"
  },
  {
   "id": 3215050009,
   "districtId": 3215050,
-  "name": "CIKAMPEK KOTA"
+  "districtName": "CIKAMPEK",
+  "name": "CIKAMPEK KOTA",
+  "postalCode": "41373"
  },
  {
   "id": 3215050011,
   "districtId": 3215050,
-  "name": "CIKAMPEK BARAT"
+  "districtName": "CIKAMPEK",
+  "name": "CIKAMPEK BARAT",
+  "postalCode": "41373"
  },
  {
   "id": 3215050012,
   "districtId": 3215050,
-  "name": "DAWUAN TIMUR"
+  "districtName": "CIKAMPEK",
+  "name": "DAWUAN TIMUR",
+  "postalCode": "41373"
  },
  {
   "id": 3215050013,
   "districtId": 3215050,
-  "name": "DAWUAN TENGAH"
+  "districtName": "CIKAMPEK",
+  "name": "DAWUAN TENGAH",
+  "postalCode": "41373"
  },
  {
   "id": 3215050014,
   "districtId": 3215050,
-  "name": "DAWUAN BARAT"
+  "districtName": "CIKAMPEK",
+  "name": "DAWUAN BARAT",
+  "postalCode": "41373"
  }
 ]

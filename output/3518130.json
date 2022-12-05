@@ -2,41 +2,57 @@
  {
   "id": 3518130001,
   "districtId": 3518130,
-  "name": "SUMENGKO"
+  "districtName": "SUKOMORO",
+  "name": "SUMENGKO",
+  "postalCode": "61162"
  },
  {
   "id": 3518130002,
   "districtId": 3518130,
-  "name": "KAPAS"
+  "districtName": "SUKOMORO",
+  "name": "KAPAS",
+  "postalCode": "62181"
  },
  {
   "id": 3518130003,
   "districtId": 3518130,
-  "name": "BLITARAN"
+  "districtName": "SUKOMORO",
+  "name": "BLITARAN",
+  "postalCode": "64481"
  },
  {
   "id": 3518130004,
   "districtId": 3518130,
-  "name": "KEDUNG SOKO"
+  "districtName": "SUKOMORO",
+  "name": "KEDUNG SOKO",
+  "postalCode": "64481"
  },
  {
   "id": 3518130005,
   "districtId": 3518130,
-  "name": "NGLUNDO"
+  "districtName": "SUKOMORO",
+  "name": "NGLUNDO",
+  "postalCode": "64481"
  },
  {
   "id": 3518130007,
   "districtId": 3518130,
-  "name": "SUKOMORO"
+  "districtName": "SUKOMORO",
+  "name": "SUKOMORO",
+  "postalCode": "64153"
  },
  {
   "id": 3518130009,
   "districtId": 3518130,
-  "name": "NGRAMI"
+  "districtName": "SUKOMORO",
+  "name": "NGRAMI",
+  "postalCode": "64481"
  },
  {
   "id": 3518130010,
   "districtId": 3518130,
-  "name": "BAGOR WETAN"
+  "districtName": "SUKOMORO",
+  "name": "BAGOR WETAN",
+  "postalCode": "64481"
  }
 ]

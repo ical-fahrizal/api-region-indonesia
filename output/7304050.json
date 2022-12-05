@@ -2,51 +2,71 @@
  {
   "id": 7304050001,
   "districtId": 7304050,
-  "name": "TOLO"
+  "districtName": "KELARA",
+  "name": "TOLO",
+  "postalCode": "94882"
  },
  {
   "id": 7304050002,
   "districtId": 7304050,
-  "name": "TOLO BARAT"
+  "districtName": "KELARA",
+  "name": "TOLO BARAT",
+  "postalCode": "92371"
  },
  {
   "id": 7304050003,
   "districtId": 7304050,
-  "name": "TOLO SELATAN"
+  "districtName": "KELARA",
+  "name": "TOLO SELATAN",
+  "postalCode": "92371"
  },
  {
   "id": 7304050004,
   "districtId": 7304050,
-  "name": "BONTOLEBANG"
+  "districtName": "KELARA",
+  "name": "BONTOLEBANG",
+  "postalCode": "92811"
  },
  {
   "id": 7304050005,
   "districtId": 7304050,
-  "name": "SAMATARING"
+  "districtName": "KELARA",
+  "name": "SAMATARING",
+  "postalCode": "92371"
  },
  {
   "id": 7304050006,
   "districtId": 7304050,
-  "name": "BONTO NOMPO"
+  "districtName": "KELARA",
+  "name": "BONTO NOMPO",
+  "postalCode": "92371"
  },
  {
   "id": 7304050007,
   "districtId": 7304050,
-  "name": "GANTARANG"
+  "districtName": "KELARA",
+  "name": "GANTARANG",
+  "postalCode": "92371"
  },
  {
   "id": 7304050008,
   "districtId": 7304050,
-  "name": "TOMBO-TOMBOLO"
+  "districtName": "KELARA",
+  "name": "TOMBO-TOMBOLO",
+  "postalCode": "92352"
  },
  {
   "id": 7304050009,
   "districtId": 7304050,
-  "name": "TOLO TIMUR"
+  "districtName": "KELARA",
+  "name": "TOLO TIMUR",
+  "postalCode": "92371"
  },
  {
   "id": 7304050010,
   "districtId": 7304050,
-  "name": "TOLO UTARA"
+  "districtName": "KELARA",
+  "name": "TOLO UTARA",
+  "postalCode": "92371"
  }
 ]

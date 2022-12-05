@@ -2,66 +2,92 @@
  {
   "id": 1471022001,
   "districtId": 1471022,
-  "name": "KULIM"
+  "districtName": "TENAYAN RAYA",
+  "name": "KULIM",
+  "postalCode": "28286"
  },
  {
   "id": 1471022002,
   "districtId": 1471022,
-  "name": "TENGKERANG TIMUR"
+  "districtName": "TENAYAN RAYA",
+  "name": "TENGKERANG TIMUR",
+  "postalCode": ""
  },
  {
   "id": 1471022003,
   "districtId": 1471022,
-  "name": "REJOSARI"
+  "districtName": "TENAYAN RAYA",
+  "name": "REJOSARI",
+  "postalCode": "29353"
  },
  {
   "id": 1471022004,
   "districtId": 1471022,
-  "name": "SAIL"
+  "districtName": "TENAYAN RAYA",
+  "name": "SAIL",
+  "postalCode": "28285"
  },
  {
   "id": 1471022005,
   "districtId": 1471022,
-  "name": "SIALANG RAMPAI"
+  "districtName": "TENAYAN RAYA",
+  "name": "SIALANG RAMPAI",
+  "postalCode": ""
  },
  {
   "id": 1471022006,
   "districtId": 1471022,
-  "name": "PEBATUAN"
+  "districtName": "TENAYAN RAYA",
+  "name": "PEBATUAN",
+  "postalCode": ""
  },
  {
   "id": 1471022007,
   "districtId": 1471022,
-  "name": "MENTANGOR"
+  "districtName": "TENAYAN RAYA",
+  "name": "MENTANGOR",
+  "postalCode": ""
  },
  {
   "id": 1471022008,
   "districtId": 1471022,
-  "name": "PEMATANG KAPAU"
+  "districtName": "TENAYAN RAYA",
+  "name": "PEMATANG KAPAU",
+  "postalCode": ""
  },
  {
   "id": 1471022009,
   "districtId": 1471022,
-  "name": "SIALANG SAKTI"
+  "districtName": "TENAYAN RAYA",
+  "name": "SIALANG SAKTI",
+  "postalCode": "28671"
  },
  {
   "id": 1471022010,
   "districtId": 1471022,
-  "name": "TUAH NEGERI"
+  "districtName": "TENAYAN RAYA",
+  "name": "TUAH NEGERI",
+  "postalCode": ""
  },
  {
   "id": 1471022011,
   "districtId": 1471022,
-  "name": "MELEBUNG"
+  "districtName": "TENAYAN RAYA",
+  "name": "MELEBUNG",
+  "postalCode": ""
  },
  {
   "id": 1471022012,
   "districtId": 1471022,
-  "name": "INDUSTRI TENAYAN"
+  "districtName": "TENAYAN RAYA",
+  "name": "INDUSTRI TENAYAN",
+  "postalCode": ""
  },
  {
   "id": 1471022013,
   "districtId": 1471022,
-  "name": "BAMBU KUNING"
+  "districtName": "TENAYAN RAYA",
+  "name": "BAMBU KUNING",
+  "postalCode": ""
  }
 ]

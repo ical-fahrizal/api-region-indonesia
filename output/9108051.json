@@ -2,31 +2,43 @@
  {
   "id": 9108051001,
   "districtId": 9108051,
-  "name": "PAM"
+  "districtName": "WAIGEO BARAT KEPULAUAN",
+  "name": "PAM",
+  "postalCode": "98481"
  },
  {
   "id": 9108051002,
   "districtId": 9108051,
-  "name": "GAG"
+  "districtName": "WAIGEO BARAT KEPULAUAN",
+  "name": "GAG",
+  "postalCode": "98481"
  },
  {
   "id": 9108051003,
   "districtId": 9108051,
-  "name": "MANYAIFUN"
+  "districtName": "WAIGEO BARAT KEPULAUAN",
+  "name": "MANYAIFUN",
+  "postalCode": "98481"
  },
  {
   "id": 9108051004,
   "districtId": 9108051,
-  "name": "MEOSMANGGARA"
+  "districtName": "WAIGEO BARAT KEPULAUAN",
+  "name": "MEOSMANGGARA",
+  "postalCode": "98481"
  },
  {
   "id": 9108051005,
   "districtId": 9108051,
-  "name": "SAUKABU"
+  "districtName": "WAIGEO BARAT KEPULAUAN",
+  "name": "SAUKABU",
+  "postalCode": "98481"
  },
  {
   "id": 9108051006,
   "districtId": 9108051,
-  "name": "SAUPAPIR"
+  "districtName": "WAIGEO BARAT KEPULAUAN",
+  "name": "SAUPAPIR",
+  "postalCode": "98481"
  }
 ]

@@ -2,61 +2,85 @@
  {
   "id": 9107113003,
   "districtId": 9107113,
-  "name": "TBOTJIN"
+  "districtName": "KLAWAK",
+  "name": "TBOTJIN",
+  "postalCode": ""
  },
  {
   "id": 9107113004,
   "districtId": 9107113,
-  "name": "MLAWEN"
+  "districtName": "KLAWAK",
+  "name": "MLAWEN",
+  "postalCode": "98453"
  },
  {
   "id": 9107113005,
   "districtId": 9107113,
-  "name": "SAS"
+  "districtName": "KLAWAK",
+  "name": "SAS",
+  "postalCode": "98453"
  },
  {
   "id": 9107113006,
   "districtId": 9107113,
-  "name": "WILTY"
+  "districtName": "KLAWAK",
+  "name": "WILTY",
+  "postalCode": "98453"
  },
  {
   "id": 9107113007,
   "districtId": 9107113,
-  "name": "BYAKLOKFLE"
+  "districtName": "KLAWAK",
+  "name": "BYAKLOKFLE",
+  "postalCode": ""
  },
  {
   "id": 9107113010,
   "districtId": 9107113,
-  "name": "SAMOSLO"
+  "districtName": "KLAWAK",
+  "name": "SAMOSLO",
+  "postalCode": ""
  },
  {
   "id": 9107113011,
   "districtId": 9107113,
-  "name": "KMASEN"
+  "districtName": "KLAWAK",
+  "name": "KMASEN",
+  "postalCode": ""
  },
  {
   "id": 9107113012,
   "districtId": 9107113,
-  "name": "YURKADEN"
+  "districtName": "KLAWAK",
+  "name": "YURKADEN",
+  "postalCode": ""
  },
  {
   "id": 9107113013,
   "districtId": 9107113,
-  "name": "BERTWAF"
+  "districtName": "KLAWAK",
+  "name": "BERTWAF",
+  "postalCode": ""
  },
  {
   "id": 9107113014,
   "districtId": 9107113,
-  "name": "MLARON"
+  "districtName": "KLAWAK",
+  "name": "MLARON",
+  "postalCode": ""
  },
  {
   "id": 9107113015,
   "districtId": 9107113,
-  "name": "KLASAWON"
+  "districtName": "KLAWAK",
+  "name": "KLASAWON",
+  "postalCode": ""
  },
  {
   "id": 9107113016,
   "districtId": 9107113,
-  "name": "COKHIF"
+  "districtName": "KLAWAK",
+  "name": "COKHIF",
+  "postalCode": ""
  }
 ]

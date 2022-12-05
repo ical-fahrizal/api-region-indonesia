@@ -2,51 +2,71 @@
  {
   "id": 3508200001,
   "districtId": 3508200,
-  "name": "JENGGRONG"
+  "districtName": "RANUYOSO",
+  "name": "JENGGRONG",
+  "postalCode": "67357"
  },
  {
   "id": 3508200002,
   "districtId": 3508200,
-  "name": "MENINJO"
+  "districtName": "RANUYOSO",
+  "name": "MENINJO",
+  "postalCode": "67357"
  },
  {
   "id": 3508200003,
   "districtId": 3508200,
-  "name": "TEGALBANGSRI"
+  "districtName": "RANUYOSO",
+  "name": "TEGALBANGSRI",
+  "postalCode": "67357"
  },
  {
   "id": 3508200005,
   "districtId": 3508200,
-  "name": "ALUN ALUN"
+  "districtName": "RANUYOSO",
+  "name": "ALUN ALUN",
+  "postalCode": "67357"
  },
  {
   "id": 3508200006,
   "districtId": 3508200,
-  "name": "RANUBEDALI"
+  "districtName": "RANUYOSO",
+  "name": "RANUBEDALI",
+  "postalCode": "67357"
  },
  {
   "id": 3508200007,
   "districtId": 3508200,
-  "name": "RANUYOSO"
+  "districtName": "RANUYOSO",
+  "name": "RANUYOSO",
+  "postalCode": "67357"
  },
  {
   "id": 3508200008,
   "districtId": 3508200,
-  "name": "WONOAYU"
+  "districtName": "RANUYOSO",
+  "name": "WONOAYU",
+  "postalCode": "63154"
  },
  {
   "id": 3508200009,
   "districtId": 3508200,
-  "name": "PENAWUNGAN"
+  "districtName": "RANUYOSO",
+  "name": "PENAWUNGAN",
+  "postalCode": "67357"
  },
  {
   "id": 3508200010,
   "districtId": 3508200,
-  "name": "WATES KULON"
+  "districtName": "RANUYOSO",
+  "name": "WATES KULON",
+  "postalCode": "67357"
  },
  {
   "id": 3508200011,
   "districtId": 3508200,
-  "name": "WATES WETAN"
+  "districtName": "RANUYOSO",
+  "name": "WATES WETAN",
+  "postalCode": "67357"
  }
 ]

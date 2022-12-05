@@ -2,26 +2,36 @@
  {
   "id": 5204070001,
   "districtId": 5204070,
-  "name": "BATUROTOK"
+  "districtName": "BATULANTEH",
+  "name": "BATUROTOK",
+  "postalCode": "84361"
  },
  {
   "id": 5204070002,
   "districtId": 5204070,
-  "name": "TANGKAN PULIT"
+  "districtName": "BATULANTEH",
+  "name": "TANGKAN PULIT",
+  "postalCode": ""
  },
  {
   "id": 5204070003,
   "districtId": 5204070,
-  "name": "BAO DESA"
+  "districtName": "BATULANTEH",
+  "name": "BAO DESA",
+  "postalCode": "84361"
  },
  {
   "id": 5204070004,
   "districtId": 5204070,
-  "name": "TEPAL"
+  "districtName": "BATULANTEH",
+  "name": "TEPAL",
+  "postalCode": "84361"
  },
  {
   "id": 5204070005,
   "districtId": 5204070,
-  "name": "BATUDULANG"
+  "districtName": "BATULANTEH",
+  "name": "BATUDULANG",
+  "postalCode": "84361"
  }
 ]

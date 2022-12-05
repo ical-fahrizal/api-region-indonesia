@@ -2,31 +2,43 @@
  {
   "id": 7108040003,
   "districtId": 7108040,
-  "name": "BULANGAN"
+  "districtName": "TAGULANDANG UTARA",
+  "name": "BULANGAN",
+  "postalCode": "61155"
  },
  {
   "id": 7108040004,
   "districtId": 7108040,
-  "name": "MINANGA"
+  "districtName": "TAGULANDANG UTARA",
+  "name": "MINANGA",
+  "postalCode": "95763"
  },
  {
   "id": 7108040005,
   "districtId": 7108040,
-  "name": "W O"
+  "districtName": "TAGULANDANG UTARA",
+  "name": "W O",
+  "postalCode": "95863"
  },
  {
   "id": 7108040006,
   "districtId": 7108040,
-  "name": "BAWOLEU"
+  "districtName": "TAGULANDANG UTARA",
+  "name": "BAWOLEU",
+  "postalCode": "95863"
  },
  {
   "id": 7108040007,
   "districtId": 7108040,
-  "name": "LUMBO"
+  "districtName": "TAGULANDANG UTARA",
+  "name": "LUMBO",
+  "postalCode": "95863"
  },
  {
   "id": 7108040008,
   "districtId": 7108040,
-  "name": "BAWO"
+  "districtName": "TAGULANDANG UTARA",
+  "name": "BAWO",
+  "postalCode": "95863"
  }
 ]

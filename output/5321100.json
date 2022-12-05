@@ -2,31 +2,43 @@
  {
   "id": 5321100001,
   "districtId": 5321100,
-  "name": "NUMPONI"
+  "districtName": "MALAKA TIMUR",
+  "name": "NUMPONI",
+  "postalCode": "85761"
  },
  {
   "id": 5321100002,
   "districtId": 5321100,
-  "name": "SANLEO"
+  "districtName": "MALAKA TIMUR",
+  "name": "SANLEO",
+  "postalCode": "85761"
  },
  {
   "id": 5321100003,
   "districtId": 5321100,
-  "name": "DIRMA"
+  "districtName": "MALAKA TIMUR",
+  "name": "DIRMA",
+  "postalCode": "85761"
  },
  {
   "id": 5321100004,
   "districtId": 5321100,
-  "name": "WEMEDA"
+  "districtName": "MALAKA TIMUR",
+  "name": "WEMEDA",
+  "postalCode": "85761"
  },
  {
   "id": 5321100005,
   "districtId": 5321100,
-  "name": "RAIULUN"
+  "districtName": "MALAKA TIMUR",
+  "name": "RAIULUN",
+  "postalCode": "85771"
  },
  {
   "id": 5321100006,
   "districtId": 5321100,
-  "name": "KUSA"
+  "districtName": "MALAKA TIMUR",
+  "name": "KUSA",
+  "postalCode": "35384"
  }
 ]

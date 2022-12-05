@@ -2,56 +2,78 @@
  {
   "id": 3511110001,
   "districtId": 3511110,
-  "name": "JETIS"
+  "districtName": "CURAH DAMI",
+  "name": "JETIS",
+  "postalCode": "57556"
  },
  {
   "id": 3511110002,
   "districtId": 3511110,
-  "name": "PAKUWESI"
+  "districtName": "CURAH DAMI",
+  "name": "PAKUWESI",
+  "postalCode": "68251"
  },
  {
   "id": 3511110003,
   "districtId": 3511110,
-  "name": "KUPANG"
+  "districtName": "CURAH DAMI",
+  "name": "KUPANG",
+  "postalCode": "31461"
  },
  {
   "id": 3511110005,
   "districtId": 3511110,
-  "name": "PENAMBANGAN"
+  "districtName": "CURAH DAMI",
+  "name": "PENAMBANGAN",
+  "postalCode": "61263"
  },
  {
   "id": 3511110006,
   "districtId": 3511110,
-  "name": "CURAHPOH"
+  "districtName": "CURAH DAMI",
+  "name": "CURAHPOH",
+  "postalCode": "68251"
  },
  {
   "id": 3511110007,
   "districtId": 3511110,
-  "name": "CURAHDAMI"
+  "districtName": "CURAH DAMI",
+  "name": "CURAHDAMI",
+  "postalCode": "68251"
  },
  {
   "id": 3511110008,
   "districtId": 3511110,
-  "name": "PONCOGATI"
+  "districtName": "CURAH DAMI",
+  "name": "PONCOGATI",
+  "postalCode": "68251"
  },
  {
   "id": 3511110009,
   "districtId": 3511110,
-  "name": "SUMBERSUKO"
+  "districtName": "CURAH DAMI",
+  "name": "SUMBERSUKO",
+  "postalCode": "68251"
  },
  {
   "id": 3511110011,
   "districtId": 3511110,
-  "name": "SILOLEMBU"
+  "districtName": "CURAH DAMI",
+  "name": "SILOLEMBU",
+  "postalCode": "68251"
  },
  {
   "id": 3511110019,
   "districtId": 3511110,
-  "name": "LOCARE"
+  "districtName": "CURAH DAMI",
+  "name": "LOCARE",
+  "postalCode": "68251"
  },
  {
   "id": 3511110020,
   "districtId": 3511110,
-  "name": "SUMBER SALAK"
+  "districtName": "CURAH DAMI",
+  "name": "SUMBER SALAK",
+  "postalCode": "68251"
  }
 ]

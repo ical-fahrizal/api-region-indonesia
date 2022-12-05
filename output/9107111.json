@@ -2,51 +2,71 @@
  {
   "id": 9107111003,
   "districtId": 9107111,
-  "name": "WARIAU (SP I)"
+  "districtName": "KLAMONO",
+  "name": "WARIAU (SP I)",
+  "postalCode": ""
  },
  {
   "id": 9107111004,
   "districtId": 9107111,
-  "name": "KLAWANA"
+  "districtName": "KLAMONO",
+  "name": "KLAWANA",
+  "postalCode": "98456"
  },
  {
   "id": 9107111005,
   "districtId": 9107111,
-  "name": "KLAMONO"
+  "districtName": "KLAMONO",
+  "name": "KLAMONO",
+  "postalCode": ""
  },
  {
   "id": 9107111008,
   "districtId": 9107111,
-  "name": "GISIM DARAT"
+  "districtName": "KLAMONO",
+  "name": "GISIM DARAT",
+  "postalCode": "98456"
  },
  {
   "id": 9107111009,
   "districtId": 9107111,
-  "name": "KLALOMON"
+  "districtName": "KLAMONO",
+  "name": "KLALOMON",
+  "postalCode": "98456"
  },
  {
   "id": 9107111011,
   "districtId": 9107111,
-  "name": "WONOSARI"
+  "districtName": "KLAMONO",
+  "name": "WONOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 9107111012,
   "districtId": 9107111,
-  "name": "MLAIS"
+  "districtName": "KLAMONO",
+  "name": "MLAIS",
+  "postalCode": "98456"
  },
  {
   "id": 9107111014,
   "districtId": 9107111,
-  "name": "MLASMILY"
+  "districtName": "KLAMONO",
+  "name": "MLASMILY",
+  "postalCode": ""
  },
  {
   "id": 9107111015,
   "districtId": 9107111,
-  "name": "KLASAFET"
+  "districtName": "KLAMONO",
+  "name": "KLASAFET",
+  "postalCode": ""
  },
  {
   "id": 9107111016,
   "districtId": 9107111,
-  "name": "POSA"
+  "districtName": "KLAMONO",
+  "name": "POSA",
+  "postalCode": ""
  }
 ]

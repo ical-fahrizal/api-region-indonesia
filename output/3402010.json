@@ -2,11 +2,15 @@
  {
   "id": 3402010001,
   "districtId": 3402010,
-  "name": "PONCOSARI"
+  "districtName": "SRANDAKAN",
+  "name": "PONCOSARI",
+  "postalCode": "55762"
  },
  {
   "id": 3402010002,
   "districtId": 3402010,
-  "name": "TRIMURTI"
+  "districtName": "SRANDAKAN",
+  "name": "TRIMURTI",
+  "postalCode": "55762"
  }
 ]

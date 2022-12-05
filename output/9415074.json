@@ -2,56 +2,78 @@
  {
   "id": 9415074001,
   "districtId": 9415074,
-  "name": "WEO"
+  "districtName": "PULAU TIGA",
+  "name": "WEO",
+  "postalCode": "99778"
  },
  {
   "id": 9415074002,
   "districtId": 9415074,
-  "name": "AS"
+  "districtName": "PULAU TIGA",
+  "name": "AS",
+  "postalCode": "99778"
  },
  {
   "id": 9415074003,
   "districtId": 9415074,
-  "name": "ATAT"
+  "districtName": "PULAU TIGA",
+  "name": "ATAT",
+  "postalCode": "99778"
  },
  {
   "id": 9415074004,
   "districtId": 9415074,
-  "name": "KAPI"
+  "districtName": "PULAU TIGA",
+  "name": "KAPI",
+  "postalCode": "64156"
  },
  {
   "id": 9415074005,
   "districtId": 9415074,
-  "name": "NAKAI"
+  "districtName": "PULAU TIGA",
+  "name": "NAKAI",
+  "postalCode": "99778"
  },
  {
   "id": 9415074006,
   "districtId": 9415074,
-  "name": "AOU"
+  "districtName": "PULAU TIGA",
+  "name": "AOU",
+  "postalCode": "99778"
  },
  {
   "id": 9415074007,
   "districtId": 9415074,
-  "name": "ESMAPAN"
+  "districtName": "PULAU TIGA",
+  "name": "ESMAPAN",
+  "postalCode": "99778"
  },
  {
   "id": 9415074008,
   "districtId": 9415074,
-  "name": "EROKO"
+  "districtName": "PULAU TIGA",
+  "name": "EROKO",
+  "postalCode": "99778"
  },
  {
   "id": 9415074009,
   "districtId": 9415074,
-  "name": "YAKAPIS"
+  "districtName": "PULAU TIGA",
+  "name": "YAKAPIS",
+  "postalCode": "99778"
  },
  {
   "id": 9415074010,
   "districtId": 9415074,
-  "name": "FUMEIRIPITS"
+  "districtName": "PULAU TIGA",
+  "name": "FUMEIRIPITS",
+  "postalCode": ""
  },
  {
   "id": 9415074011,
   "districtId": 9415074,
-  "name": "AOAP"
+  "districtName": "PULAU TIGA",
+  "name": "AOAP",
+  "postalCode": ""
  }
 ]

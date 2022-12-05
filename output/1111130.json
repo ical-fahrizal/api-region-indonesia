@@ -2,201 +2,281 @@
  {
   "id": 1111130001,
   "districtId": 1111130,
-  "name": "KITOU"
+  "districtName": "SAMUDERA",
+  "name": "KITOU",
+  "postalCode": "24374"
  },
  {
   "id": 1111130002,
   "districtId": 1111130,
-  "name": "PAYA TERBANG"
+  "districtName": "SAMUDERA",
+  "name": "PAYA TERBANG",
+  "postalCode": "24374"
  },
  {
   "id": 1111130003,
   "districtId": 1111130,
-  "name": "TANJONG MESJID"
+  "districtName": "SAMUDERA",
+  "name": "TANJONG MESJID",
+  "postalCode": "24356"
  },
  {
   "id": 1111130004,
   "districtId": 1111130,
-  "name": "TANJONG AWE"
+  "districtName": "SAMUDERA",
+  "name": "TANJONG AWE",
+  "postalCode": ""
  },
  {
   "id": 1111130005,
   "districtId": 1111130,
-  "name": "TANJONG RENGKAM"
+  "districtName": "SAMUDERA",
+  "name": "TANJONG RENGKAM",
+  "postalCode": "24374"
  },
  {
   "id": 1111130006,
   "districtId": 1111130,
-  "name": "TANJONG HAGU"
+  "districtName": "SAMUDERA",
+  "name": "TANJONG HAGU",
+  "postalCode": "24172"
  },
  {
   "id": 1111130007,
   "districtId": 1111130,
-  "name": "MADAN"
+  "districtName": "SAMUDERA",
+  "name": "MADAN",
+  "postalCode": "24374"
  },
  {
   "id": 1111130008,
   "districtId": 1111130,
-  "name": "TANJONG BAROH"
+  "districtName": "SAMUDERA",
+  "name": "TANJONG BAROH",
+  "postalCode": ""
  },
  {
   "id": 1111130009,
   "districtId": 1111130,
-  "name": "GAMPONG BARO"
+  "districtName": "SAMUDERA",
+  "name": "GAMPONG BARO",
+  "postalCode": "24454"
  },
  {
   "id": 1111130010,
   "districtId": 1111130,
-  "name": "TANJONG KLENG"
+  "districtName": "SAMUDERA",
+  "name": "TANJONG KLENG",
+  "postalCode": "24374"
  },
  {
   "id": 1111130011,
   "districtId": 1111130,
-  "name": "KRUENG BARO LGH"
+  "districtName": "SAMUDERA",
+  "name": "KRUENG BARO LGH",
+  "postalCode": "24374"
  },
  {
   "id": 1111130012,
   "districtId": 1111130,
-  "name": "TEUPIN BEULANGAN"
+  "districtName": "SAMUDERA",
+  "name": "TEUPIN BEULANGAN",
+  "postalCode": "24374"
  },
  {
   "id": 1111130013,
   "districtId": 1111130,
-  "name": "TEUPIN ARA"
+  "districtName": "SAMUDERA",
+  "name": "TEUPIN ARA",
+  "postalCode": "24374"
  },
  {
   "id": 1111130014,
   "districtId": 1111130,
-  "name": "PUSONG"
+  "districtName": "SAMUDERA",
+  "name": "PUSONG",
+  "postalCode": "24182"
  },
  {
   "id": 1111130015,
   "districtId": 1111130,
-  "name": "MANCANG"
+  "districtName": "SAMUDERA",
+  "name": "MANCANG",
+  "postalCode": "24151"
  },
  {
   "id": 1111130016,
   "districtId": 1111130,
-  "name": "BLANG KABU"
+  "districtName": "SAMUDERA",
+  "name": "BLANG KABU",
+  "postalCode": "24374"
  },
  {
   "id": 1111130017,
   "districtId": 1111130,
-  "name": "KEUDE GEUDONG"
+  "districtName": "SAMUDERA",
+  "name": "KEUDE GEUDONG",
+  "postalCode": "24374"
  },
  {
   "id": 1111130018,
   "districtId": 1111130,
-  "name": "BLANG PEURIA"
+  "districtName": "SAMUDERA",
+  "name": "BLANG PEURIA",
+  "postalCode": "24374"
  },
  {
   "id": 1111130019,
   "districtId": 1111130,
-  "name": "MEUNASAH ASAN"
+  "districtName": "SAMUDERA",
+  "name": "MEUNASAH ASAN",
+  "postalCode": "24458"
  },
  {
   "id": 1111130020,
   "districtId": 1111130,
-  "name": "MURONG"
+  "districtName": "SAMUDERA",
+  "name": "MURONG",
+  "postalCode": "24374"
  },
  {
   "id": 1111130021,
   "districtId": 1111130,
-  "name": "PIE"
+  "districtName": "SAMUDERA",
+  "name": "PIE",
+  "postalCode": ""
  },
  {
   "id": 1111130022,
   "districtId": 1111130,
-  "name": "KRUENG MATE"
+  "districtName": "SAMUDERA",
+  "name": "KRUENG MATE",
+  "postalCode": "24374"
  },
  {
   "id": 1111130023,
   "districtId": 1111130,
-  "name": "BEURINGEN"
+  "districtName": "SAMUDERA",
+  "name": "BEURINGEN",
+  "postalCode": "24372"
  },
  {
   "id": 1111130024,
   "districtId": 1111130,
-  "name": "KUTA KRUENG"
+  "districtName": "SAMUDERA",
+  "name": "KUTA KRUENG",
+  "postalCode": "24188"
  },
  {
   "id": 1111130025,
   "districtId": 1111130,
-  "name": "KUTA GLUMPANG"
+  "districtName": "SAMUDERA",
+  "name": "KUTA GLUMPANG",
+  "postalCode": "24374"
  },
  {
   "id": 1111130026,
   "districtId": 1111130,
-  "name": "MEUCAT"
+  "districtName": "SAMUDERA",
+  "name": "MEUCAT",
+  "postalCode": "24152"
  },
  {
   "id": 1111130027,
   "districtId": 1111130,
-  "name": "KRUENG BARO BLANG ME"
+  "districtName": "SAMUDERA",
+  "name": "KRUENG BARO BLANG ME",
+  "postalCode": "24374"
  },
  {
   "id": 1111130028,
   "districtId": 1111130,
-  "name": "UJONG"
+  "districtName": "SAMUDERA",
+  "name": "UJONG",
+  "postalCode": "24374"
  },
  {
   "id": 1111130029,
   "districtId": 1111130,
-  "name": "MESJID"
+  "districtName": "SAMUDERA",
+  "name": "MESJID",
+  "postalCode": "23681"
  },
  {
   "id": 1111130030,
   "districtId": 1111130,
-  "name": "TEUNGOH"
+  "districtName": "SAMUDERA",
+  "name": "TEUNGOH",
+  "postalCode": "24375"
  },
  {
   "id": 1111130031,
   "districtId": 1111130,
-  "name": "PUUK"
+  "districtName": "SAMUDERA",
+  "name": "PUUK",
+  "postalCode": "24162"
  },
  {
   "id": 1111130032,
   "districtId": 1111130,
-  "name": "PULO"
+  "districtName": "SAMUDERA",
+  "name": "PULO",
+  "postalCode": "24188"
  },
  {
   "id": 1111130033,
   "districtId": 1111130,
-  "name": "LAGA BARO"
+  "districtName": "SAMUDERA",
+  "name": "LAGA BARO",
+  "postalCode": "24374"
  },
  {
   "id": 1111130034,
   "districtId": 1111130,
-  "name": "MATANG TUNONG"
+  "districtName": "SAMUDERA",
+  "name": "MATANG TUNONG",
+  "postalCode": "24391"
  },
  {
   "id": 1111130035,
   "districtId": 1111130,
-  "name": "KEUDE BLANG ME"
+  "districtName": "SAMUDERA",
+  "name": "KEUDE BLANG ME",
+  "postalCode": ""
  },
  {
   "id": 1111130036,
   "districtId": 1111130,
-  "name": "MATANG PUNTONG"
+  "districtName": "SAMUDERA",
+  "name": "MATANG PUNTONG",
+  "postalCode": "24374"
  },
  {
   "id": 1111130037,
   "districtId": 1111130,
-  "name": "LANCANG"
+  "districtName": "SAMUDERA",
+  "name": "LANCANG",
+  "postalCode": "24263"
  },
  {
   "id": 1111130038,
   "districtId": 1111130,
-  "name": "MATANG ULIM"
+  "districtName": "SAMUDERA",
+  "name": "MATANG ULIM",
+  "postalCode": "24392"
  },
  {
   "id": 1111130039,
   "districtId": 1111130,
-  "name": "SAWANG"
+  "districtName": "SAMUDERA",
+  "name": "SAWANG",
+  "postalCode": "24184"
  },
  {
   "id": 1111130040,
   "districtId": 1111130,
-  "name": "BLANG NIBONG"
+  "districtName": "SAMUDERA",
+  "name": "BLANG NIBONG",
+  "postalCode": "24392"
  }
 ]

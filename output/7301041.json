@@ -2,11 +2,15 @@
  {
   "id": 7301041001,
   "districtId": 7301041,
-  "name": "BENTENG SELATAN"
+  "districtName": "BENTENG",
+  "name": "BENTENG SELATAN",
+  "postalCode": "92812"
  },
  {
   "id": 7301041003,
   "districtId": 7301041,
-  "name": "BENTENG UTARA"
+  "districtName": "BENTENG",
+  "name": "BENTENG UTARA",
+  "postalCode": "29273"
  }
 ]

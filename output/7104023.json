@@ -2,31 +2,43 @@
  {
   "id": 7104023001,
   "districtId": 7104023,
-  "name": "MORONGE SELATAN"
+  "districtName": "MORONGE",
+  "name": "MORONGE SELATAN",
+  "postalCode": "95871"
  },
  {
   "id": 7104023002,
   "districtId": 7104023,
-  "name": "MORONGE SELATAN I"
+  "districtName": "MORONGE",
+  "name": "MORONGE SELATAN I",
+  "postalCode": "95871"
  },
  {
   "id": 7104023003,
   "districtId": 7104023,
-  "name": "MORONGE SELATAN II"
+  "districtName": "MORONGE",
+  "name": "MORONGE SELATAN II",
+  "postalCode": "95871"
  },
  {
   "id": 7104023004,
   "districtId": 7104023,
-  "name": "MORONGE"
+  "districtName": "MORONGE",
+  "name": "MORONGE",
+  "postalCode": "95871"
  },
  {
   "id": 7104023005,
   "districtId": 7104023,
-  "name": "MORONGE I"
+  "districtName": "MORONGE",
+  "name": "MORONGE I",
+  "postalCode": "95871"
  },
  {
   "id": 7104023006,
   "districtId": 7104023,
-  "name": "MORONGE II"
+  "districtName": "MORONGE",
+  "name": "MORONGE II",
+  "postalCode": "95871"
  }
 ]

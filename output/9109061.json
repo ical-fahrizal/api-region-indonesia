@@ -2,31 +2,43 @@
  {
   "id": 9109061001,
   "districtId": 9109061,
-  "name": "BAMUSBAMA"
+  "districtName": "BAMUSBAMA",
+  "name": "BAMUSBAMA",
+  "postalCode": ""
  },
  {
   "id": 9109061002,
   "districtId": 9109061,
-  "name": "BAMUSBAYMAN"
+  "districtName": "BAMUSBAMA",
+  "name": "BAMUSBAYMAN",
+  "postalCode": ""
  },
  {
   "id": 9109061003,
   "districtId": 9109061,
-  "name": "METBESA"
+  "districtName": "BAMUSBAMA",
+  "name": "METBESA",
+  "postalCode": "98474"
  },
  {
   "id": 9109061005,
   "districtId": 9109061,
-  "name": "SYARWOM"
+  "districtName": "BAMUSBAMA",
+  "name": "SYARWOM",
+  "postalCode": "98474"
  },
  {
   "id": 9109061006,
   "districtId": 9109061,
-  "name": "BABAK"
+  "districtName": "BAMUSBAMA",
+  "name": "BABAK",
+  "postalCode": ""
  },
  {
   "id": 9109061007,
   "districtId": 9109061,
-  "name": "BANO"
+  "districtName": "BAMUSBAMA",
+  "name": "BANO",
+  "postalCode": ""
  }
 ]

@@ -2,71 +2,99 @@
  {
   "id": 6211040001,
   "districtId": 6211040,
-  "name": "PILANG MUNDUK"
+  "districtName": "KURUN",
+  "name": "PILANG MUNDUK",
+  "postalCode": "74511"
  },
  {
   "id": 6211040002,
   "districtId": 6211040,
-  "name": "TUMBANG HAKAU"
+  "districtName": "KURUN",
+  "name": "TUMBANG HAKAU",
+  "postalCode": "74511"
  },
  {
   "id": 6211040004,
   "districtId": 6211040,
-  "name": "TUMBANG TARIAK"
+  "districtName": "KURUN",
+  "name": "TUMBANG TARIAK",
+  "postalCode": "74511"
  },
  {
   "id": 6211040005,
   "districtId": 6211040,
-  "name": "TUMBANG MIWAN"
+  "districtName": "KURUN",
+  "name": "TUMBANG MIWAN",
+  "postalCode": "74511"
  },
  {
   "id": 6211040006,
   "districtId": 6211040,
-  "name": "TEWANG PAJANGAN"
+  "districtName": "KURUN",
+  "name": "TEWANG PAJANGAN",
+  "postalCode": "74511"
  },
  {
   "id": 6211040007,
   "districtId": 6211040,
-  "name": "TUMBANG LAMPAHUNG"
+  "districtName": "KURUN",
+  "name": "TUMBANG LAMPAHUNG",
+  "postalCode": ""
  },
  {
   "id": 6211040008,
   "districtId": 6211040,
-  "name": "TELUK NYATU"
+  "districtName": "KURUN",
+  "name": "TELUK NYATU",
+  "postalCode": "74511"
  },
  {
   "id": 6211040009,
   "districtId": 6211040,
-  "name": "TANJUNG RIU"
+  "districtName": "KURUN",
+  "name": "TANJUNG RIU",
+  "postalCode": "74511"
  },
  {
   "id": 6211040010,
   "districtId": 6211040,
-  "name": "PETAK BAHANDANG"
+  "districtName": "KURUN",
+  "name": "PETAK BAHANDANG",
+  "postalCode": "74511"
  },
  {
   "id": 6211040011,
   "districtId": 6211040,
-  "name": "TAMPANG TUMBANG ANJIR"
+  "districtName": "KURUN",
+  "name": "TAMPANG TUMBANG ANJIR",
+  "postalCode": ""
  },
  {
   "id": 6211040012,
   "districtId": 6211040,
-  "name": "KUALA KURUN"
+  "districtName": "KURUN",
+  "name": "KUALA KURUN",
+  "postalCode": ""
  },
  {
   "id": 6211040013,
   "districtId": 6211040,
-  "name": "TUMBANG TAMBIRAH"
+  "districtName": "KURUN",
+  "name": "TUMBANG TAMBIRAH",
+  "postalCode": "74511"
  },
  {
   "id": 6211040014,
   "districtId": 6211040,
-  "name": "TUMBANG MANYANGAN"
+  "districtName": "KURUN",
+  "name": "TUMBANG MANYANGAN",
+  "postalCode": "74511"
  },
  {
   "id": 6211040015,
   "districtId": 6211040,
-  "name": "PENDA PILANG"
+  "districtName": "KURUN",
+  "name": "PENDA PILANG",
+  "postalCode": "74511"
  }
 ]

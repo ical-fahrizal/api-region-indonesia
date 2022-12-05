@@ -2,46 +2,64 @@
  {
   "id": 7403101010,
   "districtId": 7403101,
-  "name": "PEBUNOOHA DALAM"
+  "districtName": "BONDOALA",
+  "name": "PEBUNOOHA DALAM",
+  "postalCode": "93354"
  },
  {
   "id": 7403101011,
   "districtId": 7403101,
-  "name": "PEBUNOOHA"
+  "districtName": "BONDOALA",
+  "name": "PEBUNOOHA",
+  "postalCode": "93354"
  },
  {
   "id": 7403101012,
   "districtId": 7403101,
-  "name": "RUMBIA"
+  "districtName": "BONDOALA",
+  "name": "RUMBIA",
+  "postalCode": "95694"
  },
  {
   "id": 7403101013,
   "districtId": 7403101,
-  "name": "DIOLO"
+  "districtName": "BONDOALA",
+  "name": "DIOLO",
+  "postalCode": "93354"
  },
  {
   "id": 7403101014,
   "districtId": 7403101,
-  "name": "L A O S U"
+  "districtName": "BONDOALA",
+  "name": "L A O S U",
+  "postalCode": ""
  },
  {
   "id": 7403101015,
   "districtId": 7403101,
-  "name": "LALONGGALUKU"
+  "districtName": "BONDOALA",
+  "name": "LALONGGALUKU",
+  "postalCode": "93354"
  },
  {
   "id": 7403101026,
   "districtId": 7403101,
-  "name": "RAMBU KONGGA"
+  "districtName": "BONDOALA",
+  "name": "RAMBU KONGGA",
+  "postalCode": "93354"
  },
  {
   "id": 7403101027,
   "districtId": 7403101,
-  "name": "LAOSU JAYA"
+  "districtName": "BONDOALA",
+  "name": "LAOSU JAYA",
+  "postalCode": "93354"
  },
  {
   "id": 7403101028,
   "districtId": 7403101,
-  "name": "LALONGGALUKU TIMUR"
+  "districtName": "BONDOALA",
+  "name": "LALONGGALUKU TIMUR",
+  "postalCode": ""
  }
 ]

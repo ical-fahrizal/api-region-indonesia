@@ -2,46 +2,64 @@
  {
   "id": 1410020008,
   "districtId": 1410020,
-  "name": "SESAP"
+  "districtName": "TEBING TINGGI",
+  "name": "SESAP",
+  "postalCode": "28753"
  },
  {
   "id": 1410020009,
   "districtId": 1410020,
-  "name": "BANGLAS BARAT"
+  "districtName": "TEBING TINGGI",
+  "name": "BANGLAS BARAT",
+  "postalCode": "28753"
  },
  {
   "id": 1410020010,
   "districtId": 1410020,
-  "name": "BANGLAS"
+  "districtName": "TEBING TINGGI",
+  "name": "BANGLAS",
+  "postalCode": "28753"
  },
  {
   "id": 1410020011,
   "districtId": 1410020,
-  "name": "SELAT PANJANG TIMUR"
+  "districtName": "TEBING TINGGI",
+  "name": "SELAT PANJANG TIMUR",
+  "postalCode": ""
  },
  {
   "id": 1410020012,
   "districtId": 1410020,
-  "name": "SELAT PANJANG SELATAN"
+  "districtName": "TEBING TINGGI",
+  "name": "SELAT PANJANG SELATAN",
+  "postalCode": ""
  },
  {
   "id": 1410020013,
   "districtId": 1410020,
-  "name": "ALAH AIR"
+  "districtName": "TEBING TINGGI",
+  "name": "ALAH AIR",
+  "postalCode": "28753"
  },
  {
   "id": 1410020014,
   "districtId": 1410020,
-  "name": "ALAH AIR TIMUR"
+  "districtName": "TEBING TINGGI",
+  "name": "ALAH AIR TIMUR",
+  "postalCode": "28753"
  },
  {
   "id": 1410020015,
   "districtId": 1410020,
-  "name": "SELAT PANJANG BARAT"
+  "districtName": "TEBING TINGGI",
+  "name": "SELAT PANJANG BARAT",
+  "postalCode": ""
  },
  {
   "id": 1410020016,
   "districtId": 1410020,
-  "name": "SELAT PANJANG KOTA"
+  "districtName": "TEBING TINGGI",
+  "name": "SELAT PANJANG KOTA",
+  "postalCode": ""
  }
 ]

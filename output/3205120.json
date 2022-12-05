@@ -2,61 +2,85 @@
  {
   "id": 3205120001,
   "districtId": 3205120,
-  "name": "CIPANGRAMATAN"
+  "districtName": "CIKAJANG",
+  "name": "CIPANGRAMATAN",
+  "postalCode": "44171"
  },
  {
   "id": 3205120002,
   "districtId": 3205120,
-  "name": "MEKARJAYA"
+  "districtName": "CIKAJANG",
+  "name": "MEKARJAYA",
+  "postalCode": "30653"
  },
  {
   "id": 3205120003,
   "districtId": 3205120,
-  "name": "GIRIJAYA"
+  "districtName": "CIKAJANG",
+  "name": "GIRIJAYA",
+  "postalCode": "46475"
  },
  {
   "id": 3205120004,
   "districtId": 3205120,
-  "name": "GIRIAWAS"
+  "districtName": "CIKAJANG",
+  "name": "GIRIAWAS",
+  "postalCode": "44171"
  },
  {
   "id": 3205120005,
   "districtId": 3205120,
-  "name": "CIBODAS"
+  "districtName": "CIKAJANG",
+  "name": "CIBODAS",
+  "postalCode": "43353"
  },
  {
   "id": 3205120006,
   "districtId": 3205120,
-  "name": "CIKAJANG"
+  "districtName": "CIKAJANG",
+  "name": "CIKAJANG",
+  "postalCode": "44171"
  },
  {
   "id": 3205120007,
   "districtId": 3205120,
-  "name": "PADASUKA"
+  "districtName": "CIKAJANG",
+  "name": "PADASUKA",
+  "postalCode": "44185"
  },
  {
   "id": 3205120008,
   "districtId": 3205120,
-  "name": "MEKARSARI"
+  "districtName": "CIKAJANG",
+  "name": "MEKARSARI",
+  "postalCode": "37482"
  },
  {
   "id": 3205120009,
   "districtId": 3205120,
-  "name": "SIMPANG"
+  "districtName": "CIKAJANG",
+  "name": "SIMPANG",
+  "postalCode": "23773"
  },
  {
   "id": 3205120010,
   "districtId": 3205120,
-  "name": "CIKANDANG"
+  "districtName": "CIKAJANG",
+  "name": "CIKANDANG",
+  "postalCode": "44171"
  },
  {
   "id": 3205120011,
   "districtId": 3205120,
-  "name": "MARGAMULYA"
+  "districtName": "CIKAJANG",
+  "name": "MARGAMULYA",
+  "postalCode": "45255"
  },
  {
   "id": 3205120012,
   "districtId": 3205120,
-  "name": "KARAMATWANGI"
+  "districtName": "CIKAJANG",
+  "name": "KARAMATWANGI",
+  "postalCode": "44163"
  }
 ]

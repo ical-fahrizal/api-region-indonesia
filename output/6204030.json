@@ -2,51 +2,71 @@
  {
   "id": 6204030001,
   "districtId": 6204030,
-  "name": "SALAT BARU"
+  "districtName": "KARAU KUALA",
+  "name": "SALAT BARU",
+  "postalCode": ""
  },
  {
   "id": 6204030002,
   "districtId": 6204030,
-  "name": "BANGKUANG"
+  "districtName": "KARAU KUALA",
+  "name": "BANGKUANG",
+  "postalCode": "22755"
  },
  {
   "id": 6204030004,
   "districtId": 6204030,
-  "name": "JANGGI"
+  "districtName": "KARAU KUALA",
+  "name": "JANGGI",
+  "postalCode": "73761"
  },
  {
   "id": 6204030005,
   "districtId": 6204030,
-  "name": "BABAI"
+  "districtName": "KARAU KUALA",
+  "name": "BABAI",
+  "postalCode": "73761"
  },
  {
   "id": 6204030006,
   "districtId": 6204030,
-  "name": "MALITIN"
+  "districtName": "KARAU KUALA",
+  "name": "MALITIN",
+  "postalCode": "73761"
  },
  {
   "id": 6204030007,
   "districtId": 6204030,
-  "name": "MUARA ARAI"
+  "districtName": "KARAU KUALA",
+  "name": "MUARA ARAI",
+  "postalCode": "73761"
  },
  {
   "id": 6204030008,
   "districtId": 6204030,
-  "name": "TALIO"
+  "districtName": "KARAU KUALA",
+  "name": "TALIO",
+  "postalCode": "22864"
  },
  {
   "id": 6204030009,
   "districtId": 6204030,
-  "name": "TAMPIJAK"
+  "districtName": "KARAU KUALA",
+  "name": "TAMPIJAK",
+  "postalCode": "73761"
  },
  {
   "id": 6204030010,
   "districtId": 6204030,
-  "name": "BINTANG KURUNG"
+  "districtName": "KARAU KUALA",
+  "name": "BINTANG KURUNG",
+  "postalCode": "73761"
  },
  {
   "id": 6204030011,
   "districtId": 6204030,
-  "name": "TELUK SAMPUDAU"
+  "districtName": "KARAU KUALA",
+  "name": "TELUK SAMPUDAU",
+  "postalCode": "73761"
  }
 ]

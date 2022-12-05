@@ -2,26 +2,36 @@
  {
   "id": 7271010004,
   "districtId": 7271010,
-  "name": "UJUNA"
+  "districtName": "PALU BARAT",
+  "name": "UJUNA",
+  "postalCode": "94222"
  },
  {
   "id": 7271010005,
   "districtId": 7271010,
-  "name": "BARU"
+  "districtName": "PALU BARAT",
+  "name": "BARU",
+  "postalCode": "23764"
  },
  {
   "id": 7271010006,
   "districtId": 7271010,
-  "name": "SIRANINDI"
+  "districtName": "PALU BARAT",
+  "name": "SIRANINDI",
+  "postalCode": "94221"
  },
  {
   "id": 7271010007,
   "districtId": 7271010,
-  "name": "KAMONJI"
+  "districtName": "PALU BARAT",
+  "name": "KAMONJI",
+  "postalCode": "94355"
  },
  {
   "id": 7271010008,
   "districtId": 7271010,
-  "name": "BALAROA"
+  "districtName": "PALU BARAT",
+  "name": "BALAROA",
+  "postalCode": "94226"
  }
 ]

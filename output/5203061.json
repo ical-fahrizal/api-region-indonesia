@@ -2,76 +2,106 @@
  {
   "id": 5203061001,
   "districtId": 5203061,
-  "name": "ANJANI"
+  "districtName": "SURALAGA",
+  "name": "ANJANI",
+  "postalCode": "83652"
  },
  {
   "id": 5203061002,
   "districtId": 5203061,
-  "name": "TEBABAN"
+  "districtName": "SURALAGA",
+  "name": "TEBABAN",
+  "postalCode": "83652"
  },
  {
   "id": 5203061003,
   "districtId": 5203061,
-  "name": "KERONGKONG"
+  "districtName": "SURALAGA",
+  "name": "KERONGKONG",
+  "postalCode": "83652"
  },
  {
   "id": 5203061004,
   "districtId": 5203061,
-  "name": "BAGIK PAYUNG"
+  "districtName": "SURALAGA",
+  "name": "BAGIK PAYUNG",
+  "postalCode": "83652"
  },
  {
   "id": 5203061005,
   "districtId": 5203061,
-  "name": "SURALAGA"
+  "districtName": "SURALAGA",
+  "name": "SURALAGA",
+  "postalCode": "83652"
  },
  {
   "id": 5203061006,
   "districtId": 5203061,
-  "name": "BAGIK PAYUNG SELATAN"
+  "districtName": "SURALAGA",
+  "name": "BAGIK PAYUNG SELATAN",
+  "postalCode": "83652"
  },
  {
   "id": 5203061007,
   "districtId": 5203061,
-  "name": "GERUNG PERMAI"
+  "districtName": "SURALAGA",
+  "name": "GERUNG PERMAI",
+  "postalCode": "83652"
  },
  {
   "id": 5203061008,
   "districtId": 5203061,
-  "name": "DASAN BOROK"
+  "districtName": "SURALAGA",
+  "name": "DASAN BOROK",
+  "postalCode": "83652"
  },
  {
   "id": 5203061009,
   "districtId": 5203061,
-  "name": "TUMBUH MULIA"
+  "districtName": "SURALAGA",
+  "name": "TUMBUH MULIA",
+  "postalCode": "83652"
  },
  {
   "id": 5203061010,
   "districtId": 5203061,
-  "name": "GAPUK"
+  "districtName": "SURALAGA",
+  "name": "GAPUK",
+  "postalCode": "83363"
  },
  {
   "id": 5203061011,
   "districtId": 5203061,
-  "name": "BINTANG RINJANI"
+  "districtName": "SURALAGA",
+  "name": "BINTANG RINJANI",
+  "postalCode": "83652"
  },
  {
   "id": 5203061012,
   "districtId": 5203061,
-  "name": "PAOK LOMBOK"
+  "districtName": "SURALAGA",
+  "name": "PAOK LOMBOK",
+  "postalCode": "83652"
  },
  {
   "id": 5203061013,
   "districtId": 5203061,
-  "name": "DAMES DAMAI"
+  "districtName": "SURALAGA",
+  "name": "DAMES DAMAI",
+  "postalCode": "83652"
  },
  {
   "id": 5203061014,
   "districtId": 5203061,
-  "name": "WARINGIN"
+  "districtName": "SURALAGA",
+  "name": "WARINGIN",
+  "postalCode": "45475"
  },
  {
   "id": 5203061015,
   "districtId": 5203061,
-  "name": "BAGIKPAYUNG TIMUR"
+  "districtName": "SURALAGA",
+  "name": "BAGIKPAYUNG TIMUR",
+  "postalCode": ""
  }
 ]

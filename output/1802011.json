@@ -2,111 +2,155 @@
  {
   "id": 1802011001,
   "districtId": 1802011,
-  "name": "TUGU PAPAK"
+  "districtName": "SEMAKA",
+  "name": "TUGU PAPAK",
+  "postalCode": "35386"
  },
  {
   "id": 1802011002,
   "districtId": 1802011,
-  "name": "KARANG REJO"
+  "districtName": "SEMAKA",
+  "name": "KARANG REJO",
+  "postalCode": "24581"
  },
  {
   "id": 1802011003,
   "districtId": 1802011,
-  "name": "GARUT"
+  "districtName": "SEMAKA",
+  "name": "GARUT",
+  "postalCode": "24656"
  },
  {
   "id": 1802011004,
   "districtId": 1802011,
-  "name": "SIDO DADI"
+  "districtName": "SEMAKA",
+  "name": "SIDO DADI",
+  "postalCode": "34159"
  },
  {
   "id": 1802011005,
   "districtId": 1802011,
-  "name": "KACA PURA"
+  "districtName": "SEMAKA",
+  "name": "KACA PURA",
+  "postalCode": "35386"
  },
  {
   "id": 1802011006,
   "districtId": 1802011,
-  "name": "TUGU REJO"
+  "districtName": "SEMAKA",
+  "name": "TUGU REJO",
+  "postalCode": "35386"
  },
  {
   "id": 1802011007,
   "districtId": 1802011,
-  "name": "BANGUN REJO"
+  "districtName": "SEMAKA",
+  "name": "BANGUN REJO",
+  "postalCode": "21454"
  },
  {
   "id": 1802011008,
   "districtId": 1802011,
-  "name": "SUKARAJA"
+  "districtName": "SEMAKA",
+  "name": "SUKARAJA",
+  "postalCode": "21256"
  },
  {
   "id": 1802011009,
   "districtId": 1802011,
-  "name": "SEDAYU"
+  "districtName": "SEMAKA",
+  "name": "SEDAYU",
+  "postalCode": "35386"
  },
  {
   "id": 1802011010,
   "districtId": 1802011,
-  "name": "KANOMAN"
+  "districtName": "SEMAKA",
+  "name": "KANOMAN",
+  "postalCode": "35386"
  },
  {
   "id": 1802011011,
   "districtId": 1802011,
-  "name": "SUDIMORO"
+  "districtName": "SEMAKA",
+  "name": "SUDIMORO",
+  "postalCode": "35386"
  },
  {
   "id": 1802011012,
   "districtId": 1802011,
-  "name": "SUDIMORO BANGUN"
+  "districtName": "SEMAKA",
+  "name": "SUDIMORO BANGUN",
+  "postalCode": "35386"
  },
  {
   "id": 1802011013,
   "districtId": 1802011,
-  "name": "WAY KERAP"
+  "districtName": "SEMAKA",
+  "name": "WAY KERAP",
+  "postalCode": "35386"
  },
  {
   "id": 1802011014,
   "districtId": 1802011,
-  "name": "SRI PURNOMO"
+  "districtName": "SEMAKA",
+  "name": "SRI PURNOMO",
+  "postalCode": "34174"
  },
  {
   "id": 1802011015,
   "districtId": 1802011,
-  "name": "SRI KUNCORO"
+  "districtName": "SEMAKA",
+  "name": "SRI KUNCORO",
+  "postalCode": "38371"
  },
  {
   "id": 1802011016,
   "districtId": 1802011,
-  "name": "SRI KATON"
+  "districtName": "SEMAKA",
+  "name": "SRI KATON",
+  "postalCode": "32361"
  },
  {
   "id": 1802011017,
   "districtId": 1802011,
-  "name": "PARDA WARAS"
+  "districtName": "SEMAKA",
+  "name": "PARDA WARAS",
+  "postalCode": "35386"
  },
  {
   "id": 1802011018,
   "districtId": 1802011,
-  "name": "KARANG AGUNG"
+  "districtName": "SEMAKA",
+  "name": "KARANG AGUNG",
+  "postalCode": "31315"
  },
  {
   "id": 1802011019,
   "districtId": 1802011,
-  "name": "SIDO MULYO"
+  "districtName": "SEMAKA",
+  "name": "SIDO MULYO",
+  "postalCode": "24371"
  },
  {
   "id": 1802011020,
   "districtId": 1802011,
-  "name": "TULUNG ASAHAN"
+  "districtName": "SEMAKA",
+  "name": "TULUNG ASAHAN",
+  "postalCode": "35386"
  },
  {
   "id": 1802011021,
   "districtId": 1802011,
-  "name": "MARGO MULYO"
+  "districtName": "SEMAKA",
+  "name": "MARGO MULYO",
+  "postalCode": "32383"
  },
  {
   "id": 1802011022,
   "districtId": 1802011,
-  "name": "SUKA JAYA"
+  "districtName": "SEMAKA",
+  "name": "SUKA JAYA",
+  "postalCode": "24784"
  }
 ]

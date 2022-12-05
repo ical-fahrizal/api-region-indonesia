@@ -2,66 +2,92 @@
  {
   "id": 3206030001,
   "districtId": 3206030,
-  "name": "MANDALAJAYA"
+  "districtName": "CIKALONG",
+  "name": "MANDALAJAYA",
+  "postalCode": "46195"
  },
  {
   "id": 3206030002,
   "districtId": 3206030,
-  "name": "CIKALONG"
+  "districtName": "CIKALONG",
+  "name": "CIKALONG",
+  "postalCode": "40556"
  },
  {
   "id": 3206030003,
   "districtId": 3206030,
-  "name": "CIKANCRA"
+  "districtName": "CIKALONG",
+  "name": "CIKANCRA",
+  "postalCode": "46195"
  },
  {
   "id": 3206030004,
   "districtId": 3206030,
-  "name": "TONJONGSARI"
+  "districtName": "CIKALONG",
+  "name": "TONJONGSARI",
+  "postalCode": "46195"
  },
  {
   "id": 3206030005,
   "districtId": 3206030,
-  "name": "SINGKIR"
+  "districtName": "CIKALONG",
+  "name": "SINGKIR",
+  "postalCode": "46195"
  },
  {
   "id": 3206030006,
   "districtId": 3206030,
-  "name": "PANYIARAN"
+  "districtName": "CIKALONG",
+  "name": "PANYIARAN",
+  "postalCode": "46195"
  },
  {
   "id": 3206030007,
   "districtId": 3206030,
-  "name": "CIBEBER"
+  "districtName": "CIKALONG",
+  "name": "CIBEBER",
+  "postalCode": "46195"
  },
  {
   "id": 3206030008,
   "districtId": 3206030,
-  "name": "CIDADALI"
+  "districtName": "CIKALONG",
+  "name": "CIDADALI",
+  "postalCode": "46195"
  },
  {
   "id": 3206030009,
   "districtId": 3206030,
-  "name": "KUBANGSARI"
+  "districtName": "CIKALONG",
+  "name": "KUBANGSARI",
+  "postalCode": "46195"
  },
  {
   "id": 3206030010,
   "districtId": 3206030,
-  "name": "CIKADU"
+  "districtName": "CIKALONG",
+  "name": "CIKADU",
+  "postalCode": "41181"
  },
  {
   "id": 3206030011,
   "districtId": 3206030,
-  "name": "SINDANGJAYA"
+  "districtName": "CIKALONG",
+  "name": "SINDANGJAYA",
+  "postalCode": "46195"
  },
  {
   "id": 3206030012,
   "districtId": 3206030,
-  "name": "KALAPAGENEP"
+  "districtName": "CIKALONG",
+  "name": "KALAPAGENEP",
+  "postalCode": "46195"
  },
  {
   "id": 3206030013,
   "districtId": 3206030,
-  "name": "CIMANUK"
+  "districtName": "CIKALONG",
+  "name": "CIMANUK",
+  "postalCode": "35367"
  }
 ]

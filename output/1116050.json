@@ -2,96 +2,134 @@
  {
   "id": 1116050004,
   "districtId": 1116050,
-  "name": "KUALA BAKONG"
+  "districtName": "SAMPOINIET",
+  "name": "KUALA BAKONG",
+  "postalCode": "23656"
  },
  {
   "id": 1116050009,
   "districtId": 1116050,
-  "name": "COT LANGSAT"
+  "districtName": "SAMPOINIET",
+  "name": "COT LANGSAT",
+  "postalCode": "23656"
  },
  {
   "id": 1116050010,
   "districtId": 1116050,
-  "name": "MATAIE"
+  "districtName": "SAMPOINIET",
+  "name": "MATAIE",
+  "postalCode": ""
  },
  {
   "id": 1116050011,
   "districtId": 1116050,
-  "name": "JEUMPHEUK"
+  "districtName": "SAMPOINIET",
+  "name": "JEUMPHEUK",
+  "postalCode": "23656"
  },
  {
   "id": 1116050012,
   "districtId": 1116050,
-  "name": "BABAH NIPAH"
+  "districtName": "SAMPOINIET",
+  "name": "BABAH NIPAH",
+  "postalCode": "23656"
  },
  {
   "id": 1116050013,
   "districtId": 1116050,
-  "name": "KUALA LIGAN"
+  "districtName": "SAMPOINIET",
+  "name": "KUALA LIGAN",
+  "postalCode": "23656"
  },
  {
   "id": 1116050014,
   "districtId": 1116050,
-  "name": "SEUMANTOK"
+  "districtName": "SAMPOINIET",
+  "name": "SEUMANTOK",
+  "postalCode": "23681"
  },
  {
   "id": 1116050027,
   "districtId": 1116050,
-  "name": "KRUENG AYON"
+  "districtName": "SAMPOINIET",
+  "name": "KRUENG AYON",
+  "postalCode": "23656"
  },
  {
   "id": 1116050028,
   "districtId": 1116050,
-  "name": "COT PUNTI"
+  "districtName": "SAMPOINIET",
+  "name": "COT PUNTI",
+  "postalCode": "23671"
  },
  {
   "id": 1116050029,
   "districtId": 1116050,
-  "name": "LIGAN"
+  "districtName": "SAMPOINIET",
+  "name": "LIGAN",
+  "postalCode": "23656"
  },
  {
   "id": 1116050030,
   "districtId": 1116050,
-  "name": "LHOK KRUET"
+  "districtName": "SAMPOINIET",
+  "name": "LHOK KRUET",
+  "postalCode": "23656"
  },
  {
   "id": 1116050031,
   "districtId": 1116050,
-  "name": "PULO RAYA"
+  "districtName": "SAMPOINIET",
+  "name": "PULO RAYA",
+  "postalCode": "23656"
  },
  {
   "id": 1116050032,
   "districtId": 1116050,
-  "name": "KRUENG NO"
+  "districtName": "SAMPOINIET",
+  "name": "KRUENG NO",
+  "postalCode": "23656"
  },
  {
   "id": 1116050033,
   "districtId": 1116050,
-  "name": "CRAK MONG"
+  "districtName": "SAMPOINIET",
+  "name": "CRAK MONG",
+  "postalCode": "23656"
  },
  {
   "id": 1116050034,
   "districtId": 1116050,
-  "name": "MEUNASAH KULAM"
+  "districtName": "SAMPOINIET",
+  "name": "MEUNASAH KULAM",
+  "postalCode": "24371"
  },
  {
   "id": 1116050035,
   "districtId": 1116050,
-  "name": "BLANG MONLUNG"
+  "districtName": "SAMPOINIET",
+  "name": "BLANG MONLUNG",
+  "postalCode": "23656"
  },
  {
   "id": 1116050036,
   "districtId": 1116050,
-  "name": "ALUE GRO"
+  "districtName": "SAMPOINIET",
+  "name": "ALUE GRO",
+  "postalCode": "23656"
  },
  {
   "id": 1116050037,
   "districtId": 1116050,
-  "name": "IE JEUREUNGEH"
+  "districtName": "SAMPOINIET",
+  "name": "IE JEUREUNGEH",
+  "postalCode": "23656"
  },
  {
   "id": 1116050038,
   "districtId": 1116050,
-  "name": "RANTO SABON"
+  "districtName": "SAMPOINIET",
+  "name": "RANTO SABON",
+  "postalCode": "23656"
  }
 ]

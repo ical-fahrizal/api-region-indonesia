@@ -2,26 +2,36 @@
  {
   "id": 5305024001,
   "districtId": 5305024,
-  "name": "NILULAT"
+  "districtName": "BIKOMI NILULAT",
+  "name": "NILULAT",
+  "postalCode": "85651"
  },
  {
   "id": 5305024003,
   "districtId": 5305024,
-  "name": "HAUMENI 'ANA"
+  "districtName": "BIKOMI NILULAT",
+  "name": "HAUMENI 'ANA",
+  "postalCode": ""
  },
  {
   "id": 5305024004,
   "districtId": 5305024,
-  "name": "SUNKAEN"
+  "districtName": "BIKOMI NILULAT",
+  "name": "SUNKAEN",
+  "postalCode": "85651"
  },
  {
   "id": 5305024005,
   "districtId": 5305024,
-  "name": "NAINABAN"
+  "districtName": "BIKOMI NILULAT",
+  "name": "NAINABAN",
+  "postalCode": "85651"
  },
  {
   "id": 5305024006,
   "districtId": 5305024,
-  "name": "INBATE"
+  "districtName": "BIKOMI NILULAT",
+  "name": "INBATE",
+  "postalCode": "85651"
  }
 ]

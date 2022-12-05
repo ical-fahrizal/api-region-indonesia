@@ -2,86 +2,120 @@
  {
   "id": 1408021001,
   "districtId": 1408021,
-  "name": "LANGKAT"
+  "districtName": "SIAK KECIL",
+  "name": "LANGKAT",
+  "postalCode": "28771"
  },
  {
   "id": 1408021002,
   "districtId": 1408021,
-  "name": "SEPOTONG"
+  "districtName": "SIAK KECIL",
+  "name": "SEPOTONG",
+  "postalCode": "28771"
  },
  {
   "id": 1408021003,
   "districtId": 1408021,
-  "name": "SUNGAI SIPUT"
+  "districtName": "SIAK KECIL",
+  "name": "SUNGAI SIPUT",
+  "postalCode": "28771"
  },
  {
   "id": 1408021004,
   "districtId": 1408021,
-  "name": "LUBUK MUDA"
+  "districtName": "SIAK KECIL",
+  "name": "LUBUK MUDA",
+  "postalCode": "28771"
  },
  {
   "id": 1408021005,
   "districtId": 1408021,
-  "name": "LUBUK GARAM"
+  "districtName": "SIAK KECIL",
+  "name": "LUBUK GARAM",
+  "postalCode": "28771"
  },
  {
   "id": 1408021006,
   "districtId": 1408021,
-  "name": "TANJUNG BELIT"
+  "districtName": "SIAK KECIL",
+  "name": "TANJUNG BELIT",
+  "postalCode": "28471"
  },
  {
   "id": 1408021007,
   "districtId": 1408021,
-  "name": "LUBUK GAUNG"
+  "districtName": "SIAK KECIL",
+  "name": "LUBUK GAUNG",
+  "postalCode": "28771"
  },
  {
   "id": 1408021008,
   "districtId": 1408021,
-  "name": "SADAR JAYA"
+  "districtName": "SIAK KECIL",
+  "name": "SADAR JAYA",
+  "postalCode": "28771"
  },
  {
   "id": 1408021009,
   "districtId": 1408021,
-  "name": "MUARA DUA"
+  "districtName": "SIAK KECIL",
+  "name": "MUARA DUA",
+  "postalCode": "28771"
  },
  {
   "id": 1408021010,
   "districtId": 1408021,
-  "name": "BANDAR JAYA"
+  "districtName": "SIAK KECIL",
+  "name": "BANDAR JAYA",
+  "postalCode": "28771"
  },
  {
   "id": 1408021011,
   "districtId": 1408021,
-  "name": "SUNGAI LINAU"
+  "districtName": "SIAK KECIL",
+  "name": "SUNGAI LINAU",
+  "postalCode": ""
  },
  {
   "id": 1408021012,
   "districtId": 1408021,
-  "name": "TANJUNG DAMAI"
+  "districtName": "SIAK KECIL",
+  "name": "TANJUNG DAMAI",
+  "postalCode": "28771"
  },
  {
   "id": 1408021013,
   "districtId": 1408021,
-  "name": "SUMBER JAYA"
+  "districtName": "SIAK KECIL",
+  "name": "SUMBER JAYA",
+  "postalCode": "24553"
  },
  {
   "id": 1408021014,
   "districtId": 1408021,
-  "name": "SUNGAI NIBUNG"
+  "districtName": "SIAK KECIL",
+  "name": "SUNGAI NIBUNG",
+  "postalCode": "28771"
  },
  {
   "id": 1408021015,
   "districtId": 1408021,
-  "name": "KOTO RAJA"
+  "districtName": "SIAK KECIL",
+  "name": "KOTO RAJA",
+  "postalCode": "28771"
  },
  {
   "id": 1408021016,
   "districtId": 1408021,
-  "name": "LIANG BANIR"
+  "districtName": "SIAK KECIL",
+  "name": "LIANG BANIR",
+  "postalCode": "28771"
  },
  {
   "id": 1408021017,
   "districtId": 1408021,
-  "name": "TANJUNG DATUK"
+  "districtName": "SIAK KECIL",
+  "name": "TANJUNG DATUK",
+  "postalCode": "28771"
  }
 ]

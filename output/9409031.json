@@ -2,66 +2,92 @@
  {
   "id": 9409031001,
   "districtId": 9409031,
-  "name": "MEOS MANGGUANDI"
+  "districtName": "AIMANDO PADAIDO",
+  "name": "MEOS MANGGUANDI",
+  "postalCode": ""
  },
  {
   "id": 9409031002,
   "districtId": 9409031,
-  "name": "SUPRAIMA"
+  "districtName": "AIMANDO PADAIDO",
+  "name": "SUPRAIMA",
+  "postalCode": "98158"
  },
  {
   "id": 9409031003,
   "districtId": 9409031,
-  "name": "SAMBER PASI"
+  "districtName": "AIMANDO PADAIDO",
+  "name": "SAMBER PASI",
+  "postalCode": "98158"
  },
  {
   "id": 9409031004,
   "districtId": 9409031,
-  "name": "PASI"
+  "districtName": "AIMANDO PADAIDO",
+  "name": "PASI",
+  "postalCode": "22251"
  },
  {
   "id": 9409031005,
   "districtId": 9409031,
-  "name": "KARABAI"
+  "districtName": "AIMANDO PADAIDO",
+  "name": "KARABAI",
+  "postalCode": "98158"
  },
  {
   "id": 9409031006,
   "districtId": 9409031,
-  "name": "MBROMSI"
+  "districtName": "AIMANDO PADAIDO",
+  "name": "MBROMSI",
+  "postalCode": "98158"
  },
  {
   "id": 9409031007,
   "districtId": 9409031,
-  "name": "NYANSOREN"
+  "districtName": "AIMANDO PADAIDO",
+  "name": "NYANSOREN",
+  "postalCode": "98158"
  },
  {
   "id": 9409031008,
   "districtId": 9409031,
-  "name": "SARIBRA"
+  "districtName": "AIMANDO PADAIDO",
+  "name": "SARIBRA",
+  "postalCode": "98158"
  },
  {
   "id": 9409031009,
   "districtId": 9409031,
-  "name": "PADAIDO"
+  "districtName": "AIMANDO PADAIDO",
+  "name": "PADAIDO",
+  "postalCode": "98158"
  },
  {
   "id": 9409031010,
   "districtId": 9409031,
-  "name": "YERI"
+  "districtName": "AIMANDO PADAIDO",
+  "name": "YERI",
+  "postalCode": "98158"
  },
  {
   "id": 9409031011,
   "districtId": 9409031,
-  "name": "SASARI"
+  "districtName": "AIMANDO PADAIDO",
+  "name": "SASARI",
+  "postalCode": "98158"
  },
  {
   "id": 9409031012,
   "districtId": 9409031,
-  "name": "YEN MANAINA"
+  "districtName": "AIMANDO PADAIDO",
+  "name": "YEN MANAINA",
+  "postalCode": "98158"
  },
  {
   "id": 9409031013,
   "districtId": 9409031,
-  "name": "ANOBO"
+  "districtName": "AIMANDO PADAIDO",
+  "name": "ANOBO",
+  "postalCode": "98158"
  }
 ]

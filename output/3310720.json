@@ -2,46 +2,64 @@
  {
   "id": 3310720001,
   "districtId": 3310720,
-  "name": "BUNTALAN"
+  "districtName": "KLATEN TENGAH",
+  "name": "BUNTALAN",
+  "postalCode": "57419"
  },
  {
   "id": 3310720002,
   "districtId": 3310720,
-  "name": "JOMBORAN"
+  "districtName": "KLATEN TENGAH",
+  "name": "JOMBORAN",
+  "postalCode": "57418"
  },
  {
   "id": 3310720003,
   "districtId": 3310720,
-  "name": "GUMULAN"
+  "districtName": "KLATEN TENGAH",
+  "name": "GUMULAN",
+  "postalCode": "57417"
  },
  {
   "id": 3310720004,
   "districtId": 3310720,
-  "name": "MOJAYAN"
+  "districtName": "KLATEN TENGAH",
+  "name": "MOJAYAN",
+  "postalCode": "57416"
  },
  {
   "id": 3310720005,
   "districtId": 3310720,
-  "name": "BARENG"
+  "districtName": "KLATEN TENGAH",
+  "name": "BARENG",
+  "postalCode": "57414"
  },
  {
   "id": 3310720006,
   "districtId": 3310720,
-  "name": "SEMANGKAK"
+  "districtName": "KLATEN TENGAH",
+  "name": "SEMANGKAK",
+  "postalCode": "57415"
  },
  {
   "id": 3310720007,
   "districtId": 3310720,
-  "name": "KABUPATEN"
+  "districtName": "KLATEN TENGAH",
+  "name": "KABUPATEN",
+  "postalCode": "57413"
  },
  {
   "id": 3310720008,
   "districtId": 3310720,
-  "name": "KLATEN"
+  "districtName": "KLATEN TENGAH",
+  "name": "KLATEN",
+  "postalCode": "35372"
  },
  {
   "id": 3310720009,
   "districtId": 3310720,
-  "name": "TONGGALAN"
+  "districtName": "KLATEN TENGAH",
+  "name": "TONGGALAN",
+  "postalCode": "57412"
  }
 ]

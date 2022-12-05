@@ -2,61 +2,85 @@
  {
   "id": 3323070001,
   "districtId": 3323070,
-  "name": "GANDULAN"
+  "districtName": "KALORAN",
+  "name": "GANDULAN",
+  "postalCode": "56282"
  },
  {
   "id": 3323070002,
   "districtId": 3323070,
-  "name": "TEGOWANUH"
+  "districtName": "KALORAN",
+  "name": "TEGOWANUH",
+  "postalCode": "56282"
  },
  {
   "id": 3323070003,
   "districtId": 3323070,
-  "name": "KEBLUKAN"
+  "districtName": "KALORAN",
+  "name": "KEBLUKAN",
+  "postalCode": "56282"
  },
  {
   "id": 3323070005,
   "districtId": 3323070,
-  "name": "GEBLOG"
+  "districtName": "KALORAN",
+  "name": "GEBLOG",
+  "postalCode": "56282"
  },
  {
   "id": 3323070006,
   "districtId": 3323070,
-  "name": "GANDON"
+  "districtName": "KALORAN",
+  "name": "GANDON",
+  "postalCode": "56282"
  },
  {
   "id": 3323070008,
   "districtId": 3323070,
-  "name": "KWARAKAN"
+  "districtName": "KALORAN",
+  "name": "KWARAKAN",
+  "postalCode": "56282"
  },
  {
   "id": 3323070009,
   "districtId": 3323070,
-  "name": "GETAS"
+  "districtName": "KALORAN",
+  "name": "GETAS",
+  "postalCode": "51274"
  },
  {
   "id": 3323070010,
   "districtId": 3323070,
-  "name": "KALIMANGGIS"
+  "districtName": "KALORAN",
+  "name": "KALIMANGGIS",
+  "postalCode": "46197"
  },
  {
   "id": 3323070011,
   "districtId": 3323070,
-  "name": "TLOGOWUNGU"
+  "districtName": "KALORAN",
+  "name": "TLOGOWUNGU",
+  "postalCode": "58257"
  },
  {
   "id": 3323070012,
   "districtId": 3323070,
-  "name": "KALORAN"
+  "districtName": "KALORAN",
+  "name": "KALORAN",
+  "postalCode": "57274"
  },
  {
   "id": 3323070013,
   "districtId": 3323070,
-  "name": "KEMIRI"
+  "districtName": "KALORAN",
+  "name": "KEMIRI",
+  "postalCode": "41352"
  },
  {
   "id": 3323070014,
   "districtId": 3323070,
-  "name": "TEMPURAN"
+  "districtName": "KALORAN",
+  "name": "TEMPURAN",
+  "postalCode": "34172"
  }
 ]

@@ -2,126 +2,176 @@
  {
   "id": 6303050001,
   "districtId": 6303050,
-  "name": "CINDAI ALUS"
+  "districtName": "MARTAPURA",
+  "name": "CINDAI ALUS",
+  "postalCode": "70612"
  },
  {
   "id": 6303050002,
   "districtId": 6303050,
-  "name": "SUNGAI SIPAI"
+  "districtName": "MARTAPURA",
+  "name": "SUNGAI SIPAI",
+  "postalCode": ""
  },
  {
   "id": 6303050003,
   "districtId": 6303050,
-  "name": "SUNGAI PARING"
+  "districtName": "MARTAPURA",
+  "name": "SUNGAI PARING",
+  "postalCode": ""
  },
  {
   "id": 6303050004,
   "districtId": 6303050,
-  "name": "JAWA"
+  "districtName": "MARTAPURA",
+  "name": "JAWA",
+  "postalCode": "23654"
  },
  {
   "id": 6303050005,
   "districtId": 6303050,
-  "name": "TANJUNG REMA DARAT"
+  "districtName": "MARTAPURA",
+  "name": "TANJUNG REMA DARAT",
+  "postalCode": "70613"
  },
  {
   "id": 6303050006,
   "districtId": 6303050,
-  "name": "INDRA SARI"
+  "districtName": "MARTAPURA",
+  "name": "INDRA SARI",
+  "postalCode": "70619"
  },
  {
   "id": 6303050007,
   "districtId": 6303050,
-  "name": "LABUAN TABU"
+  "districtName": "MARTAPURA",
+  "name": "LABUAN TABU",
+  "postalCode": "70619"
  },
  {
   "id": 6303050008,
   "districtId": 6303050,
-  "name": "BINCAU"
+  "districtName": "MARTAPURA",
+  "name": "BINCAU",
+  "postalCode": "70619"
  },
  {
   "id": 6303050009,
   "districtId": 6303050,
-  "name": "TAMBAK BARU"
+  "districtName": "MARTAPURA",
+  "name": "TAMBAK BARU",
+  "postalCode": "70619"
  },
  {
   "id": 6303050010,
   "districtId": 6303050,
-  "name": "BINCAU MUARA"
+  "districtName": "MARTAPURA",
+  "name": "BINCAU MUARA",
+  "postalCode": "70619"
  },
  {
   "id": 6303050011,
   "districtId": 6303050,
-  "name": "TUNGGUL IRANG"
+  "districtName": "MARTAPURA",
+  "name": "TUNGGUL IRANG",
+  "postalCode": "70615"
  },
  {
   "id": 6303050012,
   "districtId": 6303050,
-  "name": "TUNGGUL IRANG ULU"
+  "districtName": "MARTAPURA",
+  "name": "TUNGGUL IRANG ULU",
+  "postalCode": "70615"
  },
  {
   "id": 6303050013,
   "districtId": 6303050,
-  "name": "TANJUNG REMA"
+  "districtName": "MARTAPURA",
+  "name": "TANJUNG REMA",
+  "postalCode": "70613"
  },
  {
   "id": 6303050014,
   "districtId": 6303050,
-  "name": "JAWA LAUT"
+  "districtName": "MARTAPURA",
+  "name": "JAWA LAUT",
+  "postalCode": "70615"
  },
  {
   "id": 6303050015,
   "districtId": 6303050,
-  "name": "TUNGGUL IRANG ILIR"
+  "districtName": "MARTAPURA",
+  "name": "TUNGGUL IRANG ILIR",
+  "postalCode": "70615"
  },
  {
   "id": 6303050016,
   "districtId": 6303050,
-  "name": "MURUNG KERATON"
+  "districtName": "MARTAPURA",
+  "name": "MURUNG KERATON",
+  "postalCode": "70616"
  },
  {
   "id": 6303050017,
   "districtId": 6303050,
-  "name": "KERATON"
+  "districtName": "MARTAPURA",
+  "name": "KERATON",
+  "postalCode": "45152"
  },
  {
   "id": 6303050018,
   "districtId": 6303050,
-  "name": "PASAYANGAN UTARA"
+  "districtName": "MARTAPURA",
+  "name": "PASAYANGAN UTARA",
+  "postalCode": "70619"
  },
  {
   "id": 6303050019,
   "districtId": 6303050,
-  "name": "PASAYANGAN SELATAN"
+  "districtName": "MARTAPURA",
+  "name": "PASAYANGAN SELATAN",
+  "postalCode": "70619"
  },
  {
   "id": 6303050020,
   "districtId": 6303050,
-  "name": "PASAYANGAN BARAT"
+  "districtName": "MARTAPURA",
+  "name": "PASAYANGAN BARAT",
+  "postalCode": "70619"
  },
  {
   "id": 6303050021,
   "districtId": 6303050,
-  "name": "PESAYANGAN"
+  "districtName": "MARTAPURA",
+  "name": "PESAYANGAN",
+  "postalCode": "52193"
  },
  {
   "id": 6303050023,
   "districtId": 6303050,
-  "name": "MURUNG KENANGA"
+  "districtName": "MARTAPURA",
+  "name": "MURUNG KENANGA",
+  "postalCode": "70617"
  },
  {
   "id": 6303050027,
   "districtId": 6303050,
-  "name": "TAMBAK BARU ILIR"
+  "districtName": "MARTAPURA",
+  "name": "TAMBAK BARU ILIR",
+  "postalCode": "70619"
  },
  {
   "id": 6303050028,
   "districtId": 6303050,
-  "name": "TAMBAK BARU ULU"
+  "districtName": "MARTAPURA",
+  "name": "TAMBAK BARU ULU",
+  "postalCode": "70619"
  },
  {
   "id": 6303050037,
   "districtId": 6303050,
-  "name": "TUNGKARAN"
+  "districtName": "MARTAPURA",
+  "name": "TUNGKARAN",
+  "postalCode": "70619"
  }
 ]

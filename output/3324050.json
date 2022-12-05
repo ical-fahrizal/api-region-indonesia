@@ -2,61 +2,85 @@
  {
   "id": 3324050001,
   "districtId": 3324050,
-  "name": "CENING"
+  "districtName": "SINGOROJO",
+  "name": "CENING",
+  "postalCode": "51382"
  },
  {
   "id": 3324050002,
   "districtId": 3324050,
-  "name": "SUKODADI"
+  "districtName": "SINGOROJO",
+  "name": "SUKODADI",
+  "postalCode": "32361"
  },
  {
   "id": 3324050003,
   "districtId": 3324050,
-  "name": "KALIPUTIH"
+  "districtName": "SINGOROJO",
+  "name": "KALIPUTIH",
+  "postalCode": "54352"
  },
  {
   "id": 3324050004,
   "districtId": 3324050,
-  "name": "GETAS"
+  "districtName": "SINGOROJO",
+  "name": "GETAS",
+  "postalCode": "51274"
  },
  {
   "id": 3324050005,
   "districtId": 3324050,
-  "name": "BANYURINGIN"
+  "districtName": "SINGOROJO",
+  "name": "BANYURINGIN",
+  "postalCode": "51382"
  },
  {
   "id": 3324050006,
   "districtId": 3324050,
-  "name": "KEDUNGSARI"
+  "districtName": "SINGOROJO",
+  "name": "KEDUNGSARI",
+  "postalCode": "28123"
  },
  {
   "id": 3324050007,
   "districtId": 3324050,
-  "name": "NGAREANAK"
+  "districtName": "SINGOROJO",
+  "name": "NGAREANAK",
+  "postalCode": "51382"
  },
  {
   "id": 3324050008,
   "districtId": 3324050,
-  "name": "SINGOROJO"
+  "districtName": "SINGOROJO",
+  "name": "SINGOROJO",
+  "postalCode": "59465"
  },
  {
   "id": 3324050009,
   "districtId": 3324050,
-  "name": "CACABAN"
+  "districtName": "SINGOROJO",
+  "name": "CACABAN",
+  "postalCode": "45391"
  },
  {
   "id": 3324050010,
   "districtId": 3324050,
-  "name": "KALIREJO"
+  "districtName": "SINGOROJO",
+  "name": "KALIREJO",
+  "postalCode": "35353"
  },
  {
   "id": 3324050012,
   "districtId": 3324050,
-  "name": "TRAYU"
+  "districtName": "SINGOROJO",
+  "name": "TRAYU",
+  "postalCode": "57373"
  },
  {
   "id": 3324050013,
   "districtId": 3324050,
-  "name": "KERTOSARI"
+  "districtName": "SINGOROJO",
+  "name": "KERTOSARI",
+  "postalCode": "31668"
  }
 ]

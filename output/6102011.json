@@ -2,31 +2,43 @@
  {
   "id": 6102011001,
   "districtId": 6102011,
-  "name": "CAPKALA"
+  "districtName": "CAPKALA",
+  "name": "CAPKALA",
+  "postalCode": "79271"
  },
  {
   "id": 6102011002,
   "districtId": 6102011,
-  "name": "SEBANDUT"
+  "districtName": "CAPKALA",
+  "name": "SEBANDUT",
+  "postalCode": ""
  },
  {
   "id": 6102011003,
   "districtId": 6102011,
-  "name": "ARIS"
+  "districtName": "CAPKALA",
+  "name": "ARIS",
+  "postalCode": "79271"
  },
  {
   "id": 6102011004,
   "districtId": 6102011,
-  "name": "MANDOR"
+  "districtName": "CAPKALA",
+  "name": "MANDOR",
+  "postalCode": "79271"
  },
  {
   "id": 6102011005,
   "districtId": 6102011,
-  "name": "SETANDUK"
+  "districtName": "CAPKALA",
+  "name": "SETANDUK",
+  "postalCode": "79271"
  },
  {
   "id": 6102011006,
   "districtId": 6102011,
-  "name": "PAWANGI"
+  "districtName": "CAPKALA",
+  "name": "PAWANGI",
+  "postalCode": "79271"
  }
 ]

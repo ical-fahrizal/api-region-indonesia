@@ -2,66 +2,92 @@
  {
   "id": 3201210001,
   "districtId": 3201210,
-  "name": "KARADENAN"
+  "districtName": "CIBINONG",
+  "name": "KARADENAN",
+  "postalCode": "16913"
  },
  {
   "id": 3201210002,
   "districtId": 3201210,
-  "name": "NANGGEWER"
+  "districtName": "CIBINONG",
+  "name": "NANGGEWER",
+  "postalCode": "16912"
  },
  {
   "id": 3201210003,
   "districtId": 3201210,
-  "name": "NANGGEWER MEKAR"
+  "districtName": "CIBINONG",
+  "name": "NANGGEWER MEKAR",
+  "postalCode": "16912"
  },
  {
   "id": 3201210004,
   "districtId": 3201210,
-  "name": "CIBINONG"
+  "districtName": "CIBINONG",
+  "name": "CIBINONG",
+  "postalCode": "16911"
  },
  {
   "id": 3201210005,
   "districtId": 3201210,
-  "name": "PAKANSARI"
+  "districtName": "CIBINONG",
+  "name": "PAKANSARI",
+  "postalCode": "16915"
  },
  {
   "id": 3201210006,
   "districtId": 3201210,
-  "name": "SUKAHATI"
+  "districtName": "CIBINONG",
+  "name": "SUKAHATI",
+  "postalCode": "16913"
  },
  {
   "id": 3201210007,
   "districtId": 3201210,
-  "name": "TENGAH"
+  "districtName": "CIBINONG",
+  "name": "TENGAH",
+  "postalCode": "23752"
  },
  {
   "id": 3201210008,
   "districtId": 3201210,
-  "name": "PONDOK RAJEG"
+  "districtName": "CIBINONG",
+  "name": "PONDOK RAJEG",
+  "postalCode": "16914"
  },
  {
   "id": 3201210009,
   "districtId": 3201210,
-  "name": "HARAPAN JAYA"
+  "districtName": "CIBINONG",
+  "name": "HARAPAN JAYA",
+  "postalCode": "20773"
  },
  {
   "id": 3201210010,
   "districtId": 3201210,
-  "name": "PABUARAN"
+  "districtName": "CIBINONG",
+  "name": "PABUARAN",
+  "postalCode": "16921"
  },
  {
   "id": 3201210011,
   "districtId": 3201210,
-  "name": "CIRIMEKAR"
+  "districtName": "CIBINONG",
+  "name": "CIRIMEKAR",
+  "postalCode": "16917"
  },
  {
   "id": 3201210012,
   "districtId": 3201210,
-  "name": "CIRIUNG"
+  "districtName": "CIBINONG",
+  "name": "CIRIUNG",
+  "postalCode": "16918"
  },
  {
   "id": 3201210013,
   "districtId": 3201210,
-  "name": "PABUARAN MEKAR"
+  "districtName": "CIBINONG",
+  "name": "PABUARAN MEKAR",
+  "postalCode": ""
  }
 ]

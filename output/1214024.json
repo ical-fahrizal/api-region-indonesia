@@ -2,61 +2,85 @@
  {
   "id": 1214024001,
   "districtId": 1214024,
-  "name": "WAWA"
+  "districtName": "PULAU-PULAU BATU UTARA",
+  "name": "WAWA",
+  "postalCode": "22881"
  },
  {
   "id": 1214024002,
   "districtId": 1214024,
-  "name": "TELUK LIMO"
+  "districtName": "PULAU-PULAU BATU UTARA",
+  "name": "TELUK LIMO",
+  "postalCode": "22881"
  },
  {
   "id": 1214024003,
   "districtId": 1214024,
-  "name": "BALE BALE"
+  "districtName": "PULAU-PULAU BATU UTARA",
+  "name": "BALE BALE",
+  "postalCode": ""
  },
  {
   "id": 1214024005,
   "districtId": 1214024,
-  "name": "MARIT BARU"
+  "districtName": "PULAU-PULAU BATU UTARA",
+  "name": "MARIT BARU",
+  "postalCode": ""
  },
  {
   "id": 1214024006,
   "districtId": 1214024,
-  "name": "SILIMA BANUA MARIT"
+  "districtName": "PULAU-PULAU BATU UTARA",
+  "name": "SILIMA BANUA MARIT",
+  "postalCode": ""
  },
  {
   "id": 1214024009,
   "districtId": 1214024,
-  "name": "MAJINO LORANG"
+  "districtName": "PULAU-PULAU BATU UTARA",
+  "name": "MAJINO LORANG",
+  "postalCode": "22881"
  },
  {
   "id": 1214024010,
   "districtId": 1214024,
-  "name": "SIOFA BANUA LORANG"
+  "districtName": "PULAU-PULAU BATU UTARA",
+  "name": "SIOFA BANUA LORANG",
+  "postalCode": "22881"
  },
  {
   "id": 1214024011,
   "districtId": 1214024,
-  "name": "LIMO BIANG"
+  "districtName": "PULAU-PULAU BATU UTARA",
+  "name": "LIMO BIANG",
+  "postalCode": "22881"
  },
  {
   "id": 1214024012,
   "districtId": 1214024,
-  "name": "ZIABIANG"
+  "districtName": "PULAU-PULAU BATU UTARA",
+  "name": "ZIABIANG",
+  "postalCode": "22881"
  },
  {
   "id": 1214024013,
   "districtId": 1214024,
-  "name": "MEMONG"
+  "districtName": "PULAU-PULAU BATU UTARA",
+  "name": "MEMONG",
+  "postalCode": "22881"
  },
  {
   "id": 1214024014,
   "districtId": 1214024,
-  "name": "AFORE"
+  "districtName": "PULAU-PULAU BATU UTARA",
+  "name": "AFORE",
+  "postalCode": ""
  },
  {
   "id": 1214024015,
   "districtId": 1214024,
-  "name": "BALE-BALE SIBOHOU"
+  "districtName": "PULAU-PULAU BATU UTARA",
+  "name": "BALE-BALE SIBOHOU",
+  "postalCode": "22881"
  }
 ]

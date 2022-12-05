@@ -2,36 +2,50 @@
  {
   "id": 9430091001,
   "districtId": 9430091,
-  "name": "AYAFOFA"
+  "districtName": "KARU",
+  "name": "AYAFOFA",
+  "postalCode": "99556"
  },
  {
   "id": 9430091002,
   "districtId": 9430091,
-  "name": "SALEMO"
+  "districtName": "KARU",
+  "name": "SALEMO",
+  "postalCode": ""
  },
  {
   "id": 9430091003,
   "districtId": 9430091,
-  "name": "YUDANI"
+  "districtName": "KARU",
+  "name": "YUDANI",
+  "postalCode": "99556"
  },
  {
   "id": 9430091004,
   "districtId": 9430091,
-  "name": "DELEGARI"
+  "districtName": "KARU",
+  "name": "DELEGARI",
+  "postalCode": "99561"
  },
  {
   "id": 9430091005,
   "districtId": 9430091,
-  "name": "IGIMBUA"
+  "districtName": "KARU",
+  "name": "IGIMBUA",
+  "postalCode": ""
  },
  {
   "id": 9430091006,
   "districtId": 9430091,
-  "name": "TOWOLUK"
+  "districtName": "KARU",
+  "name": "TOWOLUK",
+  "postalCode": "98912"
  },
  {
   "id": 9430091008,
   "districtId": 9430091,
-  "name": "YILOKDU"
+  "districtName": "KARU",
+  "name": "YILOKDU",
+  "postalCode": ""
  }
 ]

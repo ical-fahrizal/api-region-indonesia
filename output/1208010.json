@@ -2,46 +2,64 @@
  {
   "id": 1208010001,
   "districtId": 1208010,
-  "name": "HUTA PADANG"
+  "districtName": "BANDAR PASIR MANDOGE",
+  "name": "HUTA PADANG",
+  "postalCode": "21262"
  },
  {
   "id": 1208010002,
   "districtId": 1208010,
-  "name": "HUTA BAGASAN"
+  "districtName": "BANDAR PASIR MANDOGE",
+  "name": "HUTA BAGASAN",
+  "postalCode": "21262"
  },
  {
   "id": 1208010003,
   "districtId": 1208010,
-  "name": "BANDAR PASIR MANDOGE"
+  "districtName": "BANDAR PASIR MANDOGE",
+  "name": "BANDAR PASIR MANDOGE",
+  "postalCode": "21262"
  },
  {
   "id": 1208010004,
   "districtId": 1208010,
-  "name": "SUKA MAKMUR"
+  "districtName": "BANDAR PASIR MANDOGE",
+  "name": "SUKA MAKMUR",
+  "postalCode": "24784"
  },
  {
   "id": 1208010005,
   "districtId": 1208010,
-  "name": "SEI KOPAS"
+  "districtName": "BANDAR PASIR MANDOGE",
+  "name": "SEI KOPAS",
+  "postalCode": "21262"
  },
  {
   "id": 1208010006,
   "districtId": 1208010,
-  "name": "SILAU JAWA"
+  "districtName": "BANDAR PASIR MANDOGE",
+  "name": "SILAU JAWA",
+  "postalCode": "21262"
  },
  {
   "id": 1208010007,
   "districtId": 1208010,
-  "name": "SEI NADORAS"
+  "districtName": "BANDAR PASIR MANDOGE",
+  "name": "SEI NADORAS",
+  "postalCode": "21262"
  },
  {
   "id": 1208010008,
   "districtId": 1208010,
-  "name": "TOMUAN HOLBUNG"
+  "districtName": "BANDAR PASIR MANDOGE",
+  "name": "TOMUAN HOLBUNG",
+  "postalCode": ""
  },
  {
   "id": 1208010009,
   "districtId": 1208010,
-  "name": "GOTTING SIDODADI"
+  "districtName": "BANDAR PASIR MANDOGE",
+  "name": "GOTTING SIDODADI",
+  "postalCode": "21262"
  }
 ]

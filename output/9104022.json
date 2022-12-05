@@ -2,36 +2,50 @@
  {
   "id": 9104022001,
   "districtId": 9104022,
-  "name": "AROBA"
+  "districtName": "AROBA",
+  "name": "AROBA",
+  "postalCode": "98363"
  },
  {
   "id": 9104022002,
   "districtId": 9104022,
-  "name": "YARU"
+  "districtName": "AROBA",
+  "name": "YARU",
+  "postalCode": "98363"
  },
  {
   "id": 9104022003,
   "districtId": 9104022,
-  "name": "SIDO MAKMUR"
+  "districtName": "AROBA",
+  "name": "SIDO MAKMUR",
+  "postalCode": "20772"
  },
  {
   "id": 9104022004,
   "districtId": 9104022,
-  "name": "WIMBRO"
+  "districtName": "AROBA",
+  "name": "WIMBRO",
+  "postalCode": ""
  },
  {
   "id": 9104022005,
   "districtId": 9104022,
-  "name": "SANGGUAR"
+  "districtName": "AROBA",
+  "name": "SANGGUAR",
+  "postalCode": "98363"
  },
  {
   "id": 9104022006,
   "districtId": 9104022,
-  "name": "DISYAGA AIR TERJUN"
+  "districtName": "AROBA",
+  "name": "DISYAGA AIR TERJUN",
+  "postalCode": ""
  },
  {
   "id": 9104022007,
   "districtId": 9104022,
-  "name": "WAMME"
+  "districtName": "AROBA",
+  "name": "WAMME",
+  "postalCode": ""
  }
 ]

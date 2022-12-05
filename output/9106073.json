@@ -2,26 +2,36 @@
  {
   "id": 9106073001,
   "districtId": 9106073,
-  "name": "WAMARGEGE"
+  "districtName": "KONDA",
+  "name": "WAMARGEGE",
+  "postalCode": "98454"
  },
  {
   "id": 9106073002,
   "districtId": 9106073,
-  "name": "KONDA"
+  "districtName": "KONDA",
+  "name": "KONDA",
+  "postalCode": "93874"
  },
  {
   "id": 9106073003,
   "districtId": 9106073,
-  "name": "NAKNA"
+  "districtName": "KONDA",
+  "name": "NAKNA",
+  "postalCode": ""
  },
  {
   "id": 9106073004,
   "districtId": 9106073,
-  "name": "MANELEK"
+  "districtName": "KONDA",
+  "name": "MANELEK",
+  "postalCode": "98454"
  },
  {
   "id": 9106073005,
   "districtId": 9106073,
-  "name": "BARIAT"
+  "districtName": "KONDA",
+  "name": "BARIAT",
+  "postalCode": "98454"
  }
 ]

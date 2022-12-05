@@ -2,26 +2,36 @@
  {
   "id": 3529071001,
   "districtId": 3529071,
-  "name": "PATEAN"
+  "districtName": "BATUAN",
+  "name": "PATEAN",
+  "postalCode": "69451"
  },
  {
   "id": 3529071002,
   "districtId": 3529071,
-  "name": "BABALAN"
+  "districtName": "BATUAN",
+  "name": "BABALAN",
+  "postalCode": "59173"
  },
  {
   "id": 3529071003,
   "districtId": 3529071,
-  "name": "GEDUNGAN"
+  "districtName": "BATUAN",
+  "name": "GEDUNGAN",
+  "postalCode": "69451"
  },
  {
   "id": 3529071005,
   "districtId": 3529071,
-  "name": "BATUAN"
+  "districtName": "BATUAN",
+  "name": "BATUAN",
+  "postalCode": "69451"
  },
  {
   "id": 3529071006,
   "districtId": 3529071,
-  "name": "TORBANG"
+  "districtName": "BATUAN",
+  "name": "TORBANG",
+  "postalCode": "69451"
  }
 ]

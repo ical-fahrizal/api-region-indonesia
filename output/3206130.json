@@ -2,41 +2,57 @@
  {
   "id": 3206130001,
   "districtId": 3206130,
-  "name": "MEKARJAYA"
+  "districtName": "SUKARAJA",
+  "name": "MEKARJAYA",
+  "postalCode": "30653"
  },
  {
   "id": 3206130002,
   "districtId": 3206130,
-  "name": "SIRNAJAYA"
+  "districtName": "SUKARAJA",
+  "name": "SIRNAJAYA",
+  "postalCode": "44163"
  },
  {
   "id": 3206130003,
   "districtId": 3206130,
-  "name": "JANGGALA"
+  "districtName": "SUKARAJA",
+  "name": "JANGGALA",
+  "postalCode": "46352"
  },
  {
   "id": 3206130004,
   "districtId": 3206130,
-  "name": "SUKAPURA"
+  "districtName": "SUKARAJA",
+  "name": "SUKAPURA",
+  "postalCode": "35597"
  },
  {
   "id": 3206130005,
   "districtId": 3206130,
-  "name": "TARUNAJAYA"
+  "districtName": "SUKARAJA",
+  "name": "TARUNAJAYA",
+  "postalCode": "45372"
  },
  {
   "id": 3206130006,
   "districtId": 3206130,
-  "name": "LEUWIBUDAH"
+  "districtName": "SUKARAJA",
+  "name": "LEUWIBUDAH",
+  "postalCode": "46183"
  },
  {
   "id": 3206130007,
   "districtId": 3206130,
-  "name": "LINGGARAJA"
+  "districtName": "SUKARAJA",
+  "name": "LINGGARAJA",
+  "postalCode": "46183"
  },
  {
   "id": 3206130008,
   "districtId": 3206130,
-  "name": "MARGALAKSANA"
+  "districtName": "SUKARAJA",
+  "name": "MARGALAKSANA",
+  "postalCode": "44165"
  }
 ]

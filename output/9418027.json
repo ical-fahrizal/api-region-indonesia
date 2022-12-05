@@ -2,56 +2,78 @@
  {
   "id": 9418027001,
   "districtId": 9418027,
-  "name": "TOMAGIPURA"
+  "districtName": "BIUK",
+  "name": "TOMAGIPURA",
+  "postalCode": "99562"
  },
  {
   "id": 9418027002,
   "districtId": 9418027,
-  "name": "BIUK"
+  "districtName": "BIUK",
+  "name": "BIUK",
+  "postalCode": "99562"
  },
  {
   "id": 9418027003,
   "districtId": 9418027,
-  "name": "GUBURINI"
+  "districtName": "BIUK",
+  "name": "GUBURINI",
+  "postalCode": "99562"
  },
  {
   "id": 9418027004,
   "districtId": 9418027,
-  "name": "GALUGUK"
+  "districtName": "BIUK",
+  "name": "GALUGUK",
+  "postalCode": ""
  },
  {
   "id": 9418027005,
   "districtId": 9418027,
-  "name": "WONABU"
+  "districtName": "BIUK",
+  "name": "WONABU",
+  "postalCode": "99562"
  },
  {
   "id": 9418027006,
   "districtId": 9418027,
-  "name": "YUGUMABUR"
+  "districtName": "BIUK",
+  "name": "YUGUMABUR",
+  "postalCode": ""
  },
  {
   "id": 9418027007,
   "districtId": 9418027,
-  "name": "YILUK"
+  "districtName": "BIUK",
+  "name": "YILUK",
+  "postalCode": ""
  },
  {
   "id": 9418027008,
   "districtId": 9418027,
-  "name": "BINIME"
+  "districtName": "BIUK",
+  "name": "BINIME",
+  "postalCode": "99553"
  },
  {
   "id": 9418027009,
   "districtId": 9418027,
-  "name": "YIOGOBAK"
+  "districtName": "BIUK",
+  "name": "YIOGOBAK",
+  "postalCode": ""
  },
  {
   "id": 9418027010,
   "districtId": 9418027,
-  "name": "PURUGI"
+  "districtName": "BIUK",
+  "name": "PURUGI",
+  "postalCode": "99562"
  },
  {
   "id": 9418027011,
   "districtId": 9418027,
-  "name": "TOMAGI"
+  "districtName": "BIUK",
+  "name": "TOMAGI",
+  "postalCode": ""
  }
 ]

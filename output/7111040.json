@@ -2,71 +2,99 @@
  {
   "id": 7111040001,
   "districtId": 7111040,
-  "name": "MODAYAG II"
+  "districtName": "MODAYAG",
+  "name": "MODAYAG II",
+  "postalCode": "95781"
  },
  {
   "id": 7111040002,
   "districtId": 7111040,
-  "name": "MODAYAG"
+  "districtName": "MODAYAG",
+  "name": "MODAYAG",
+  "postalCode": "95781"
  },
  {
   "id": 7111040003,
   "districtId": 7111040,
-  "name": "MODAYAG III"
+  "districtName": "MODAYAG",
+  "name": "MODAYAG III",
+  "postalCode": "95781"
  },
  {
   "id": 7111040004,
   "districtId": 7111040,
-  "name": "TOBONGON"
+  "districtName": "MODAYAG",
+  "name": "TOBONGON",
+  "postalCode": "95781"
  },
  {
   "id": 7111040005,
   "districtId": 7111040,
-  "name": "BADARO"
+  "districtName": "MODAYAG",
+  "name": "BADARO",
+  "postalCode": "95781"
  },
  {
   "id": 7111040006,
   "districtId": 7111040,
-  "name": "LANUT"
+  "districtName": "MODAYAG",
+  "name": "LANUT",
+  "postalCode": "95781"
  },
  {
   "id": 7111040007,
   "districtId": 7111040,
-  "name": "BUYANDI"
+  "districtName": "MODAYAG",
+  "name": "BUYANDI",
+  "postalCode": "95781"
  },
  {
   "id": 7111040008,
   "districtId": 7111040,
-  "name": "PURWOREJO"
+  "districtName": "MODAYAG",
+  "name": "PURWOREJO",
+  "postalCode": "23661"
  },
  {
   "id": 7111040009,
   "districtId": 7111040,
-  "name": "PURWOREJO TENGAH"
+  "districtName": "MODAYAG",
+  "name": "PURWOREJO TENGAH",
+  "postalCode": "95781"
  },
  {
   "id": 7111040010,
   "districtId": 7111040,
-  "name": "PURWOREJO TIMUR"
+  "districtName": "MODAYAG",
+  "name": "PURWOREJO TIMUR",
+  "postalCode": "95781"
  },
  {
   "id": 7111040011,
   "districtId": 7111040,
-  "name": "LIBERIA TIMUR"
+  "districtName": "MODAYAG",
+  "name": "LIBERIA TIMUR",
+  "postalCode": "95781"
  },
  {
   "id": 7111040012,
   "districtId": 7111040,
-  "name": "LIBERIA"
+  "districtName": "MODAYAG",
+  "name": "LIBERIA",
+  "postalCode": "20997"
  },
  {
   "id": 7111040018,
   "districtId": 7111040,
-  "name": "CANDI REJO"
+  "districtName": "MODAYAG",
+  "name": "CANDI REJO",
+  "postalCode": "20358"
  },
  {
   "id": 7111040023,
   "districtId": 7111040,
-  "name": "SUMBER REJO"
+  "districtName": "MODAYAG",
+  "name": "SUMBER REJO",
+  "postalCode": "21255"
  }
 ]

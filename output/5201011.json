@@ -2,51 +2,71 @@
  {
   "id": 5201011001,
   "districtId": 5201011,
-  "name": "MAREJE"
+  "districtName": "LEMBAR",
+  "name": "MAREJE",
+  "postalCode": "83364"
  },
  {
   "id": 5201011002,
   "districtId": 5201011,
-  "name": "SEKOTONG TIMUR"
+  "districtName": "LEMBAR",
+  "name": "SEKOTONG TIMUR",
+  "postalCode": "83364"
  },
  {
   "id": 5201011003,
   "districtId": 5201011,
-  "name": "LEMBAR"
+  "districtName": "LEMBAR",
+  "name": "LEMBAR",
+  "postalCode": "83364"
  },
  {
   "id": 5201011004,
   "districtId": 5201011,
-  "name": "JEMBATAN KEMBAR"
+  "districtName": "LEMBAR",
+  "name": "JEMBATAN KEMBAR",
+  "postalCode": "83364"
  },
  {
   "id": 5201011005,
   "districtId": 5201011,
-  "name": "LABUAN TERENG"
+  "districtName": "LEMBAR",
+  "name": "LABUAN TERENG",
+  "postalCode": "83364"
  },
  {
   "id": 5201011006,
   "districtId": 5201011,
-  "name": "MAREJE TIMUR"
+  "districtName": "LEMBAR",
+  "name": "MAREJE TIMUR",
+  "postalCode": "83364"
  },
  {
   "id": 5201011007,
   "districtId": 5201011,
-  "name": "LEMBAR SELATAN"
+  "districtName": "LEMBAR",
+  "name": "LEMBAR SELATAN",
+  "postalCode": "83364"
  },
  {
   "id": 5201011008,
   "districtId": 5201011,
-  "name": "JEMBATAN GANTUNG"
+  "districtName": "LEMBAR",
+  "name": "JEMBATAN GANTUNG",
+  "postalCode": "30757"
  },
  {
   "id": 5201011009,
   "districtId": 5201011,
-  "name": "JEMBATAN KEMBAR TIMUR"
+  "districtName": "LEMBAR",
+  "name": "JEMBATAN KEMBAR TIMUR",
+  "postalCode": ""
  },
  {
   "id": 5201011010,
   "districtId": 5201011,
-  "name": "EYAT MAYANG"
+  "districtName": "LEMBAR",
+  "name": "EYAT MAYANG",
+  "postalCode": ""
  }
 ]

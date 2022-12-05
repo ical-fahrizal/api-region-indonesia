@@ -2,41 +2,57 @@
  {
   "id": 3215072001,
   "districtId": 3215072,
-  "name": "SARIMULYA"
+  "districtName": "KOTABARU",
+  "name": "SARIMULYA",
+  "postalCode": "41374"
  },
  {
   "id": 3215072002,
   "districtId": 3215072,
-  "name": "JOMIN BARAT"
+  "districtName": "KOTABARU",
+  "name": "JOMIN BARAT",
+  "postalCode": "41374"
  },
  {
   "id": 3215072003,
   "districtId": 3215072,
-  "name": "JOMIN TIMUR"
+  "districtName": "KOTABARU",
+  "name": "JOMIN TIMUR",
+  "postalCode": "41374"
  },
  {
   "id": 3215072004,
   "districtId": 3215072,
-  "name": "PANGULAH SELATAN"
+  "districtName": "KOTABARU",
+  "name": "PANGULAH SELATAN",
+  "postalCode": "41374"
  },
  {
   "id": 3215072005,
   "districtId": 3215072,
-  "name": "PANGULAH UTARA"
+  "districtName": "KOTABARU",
+  "name": "PANGULAH UTARA",
+  "postalCode": "41374"
  },
  {
   "id": 3215072006,
   "districtId": 3215072,
-  "name": "PANGULAH BARU"
+  "districtName": "KOTABARU",
+  "name": "PANGULAH BARU",
+  "postalCode": "41374"
  },
  {
   "id": 3215072007,
   "districtId": 3215072,
-  "name": "WANCIMEKAR"
+  "districtName": "KOTABARU",
+  "name": "WANCIMEKAR",
+  "postalCode": "41374"
  },
  {
   "id": 3215072009,
   "districtId": 3215072,
-  "name": "CIKAMPEK UTARA"
+  "districtName": "KOTABARU",
+  "name": "CIKAMPEK UTARA",
+  "postalCode": "41374"
  }
 ]

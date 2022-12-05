@@ -2,26 +2,36 @@
  {
   "id": 3510100001,
   "districtId": 3510100,
-  "name": "KALIGONDO"
+  "districtName": "GENTENG",
+  "name": "KALIGONDO",
+  "postalCode": "68465"
  },
  {
   "id": 3510100002,
   "districtId": 3510100,
-  "name": "SETAIL"
+  "districtName": "GENTENG",
+  "name": "SETAIL",
+  "postalCode": "52473"
  },
  {
   "id": 3510100003,
   "districtId": 3510100,
-  "name": "GENTENG KULON"
+  "districtName": "GENTENG",
+  "name": "GENTENG KULON",
+  "postalCode": "68465"
  },
  {
   "id": 3510100004,
   "districtId": 3510100,
-  "name": "GENTENG WETAN"
+  "districtName": "GENTENG",
+  "name": "GENTENG WETAN",
+  "postalCode": "68465"
  },
  {
   "id": 3510100005,
   "districtId": 3510100,
-  "name": "KEMBIRITAN"
+  "districtName": "GENTENG",
+  "name": "KEMBIRITAN",
+  "postalCode": "68465"
  }
 ]

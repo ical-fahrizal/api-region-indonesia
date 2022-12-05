@@ -2,66 +2,92 @@
  {
   "id": 3520070001,
   "districtId": 3520070,
-  "name": "NGANCAR"
+  "districtName": "PLAOSAN",
+  "name": "NGANCAR",
+  "postalCode": "57675"
  },
  {
   "id": 3520070003,
   "districtId": 3520070,
-  "name": "PUNTUKDORO"
+  "districtName": "PLAOSAN",
+  "name": "PUNTUKDORO",
+  "postalCode": "63361"
  },
  {
   "id": 3520070005,
   "districtId": 3520070,
-  "name": "BOGOARUM"
+  "districtName": "PLAOSAN",
+  "name": "BOGOARUM",
+  "postalCode": "63361"
  },
  {
   "id": 3520070006,
   "districtId": 3520070,
-  "name": "RANDUGEDE"
+  "districtName": "PLAOSAN",
+  "name": "RANDUGEDE",
+  "postalCode": "63361"
  },
  {
   "id": 3520070007,
   "districtId": 3520070,
-  "name": "SUMBERAGUNG"
+  "districtName": "PLAOSAN",
+  "name": "SUMBERAGUNG",
+  "postalCode": "35452"
  },
  {
   "id": 3520070008,
   "districtId": 3520070,
-  "name": "NITIKAN"
+  "districtName": "PLAOSAN",
+  "name": "NITIKAN",
+  "postalCode": "63361"
  },
  {
   "id": 3520070009,
   "districtId": 3520070,
-  "name": "SIDOMUKTI"
+  "districtName": "PLAOSAN",
+  "name": "SIDOMUKTI",
+  "postalCode": "21217"
  },
  {
   "id": 3520070010,
   "districtId": 3520070,
-  "name": "BULUHARJO"
+  "districtName": "PLAOSAN",
+  "name": "BULUHARJO",
+  "postalCode": "63361"
  },
  {
   "id": 3520070011,
   "districtId": 3520070,
-  "name": "PLAOSAN"
+  "districtName": "PLAOSAN",
+  "name": "PLAOSAN",
+  "postalCode": "59157"
  },
  {
   "id": 3520070012,
   "districtId": 3520070,
-  "name": "DADI"
+  "districtName": "PLAOSAN",
+  "name": "DADI",
+  "postalCode": "63361"
  },
  {
   "id": 3520070013,
   "districtId": 3520070,
-  "name": "SARANGAN"
+  "districtName": "PLAOSAN",
+  "name": "SARANGAN",
+  "postalCode": "62193"
  },
  {
   "id": 3520070014,
   "districtId": 3520070,
-  "name": "PACALAN"
+  "districtName": "PLAOSAN",
+  "name": "PACALAN",
+  "postalCode": "63361"
  },
  {
   "id": 3520070015,
   "districtId": 3520070,
-  "name": "SENDANGAGUNG"
+  "districtName": "PLAOSAN",
+  "name": "SENDANGAGUNG",
+  "postalCode": "57675"
  }
 ]

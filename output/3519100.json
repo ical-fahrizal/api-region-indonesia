@@ -2,66 +2,92 @@
  {
   "id": 3519100001,
   "districtId": 3519100,
-  "name": "BLABAKAN"
+  "districtName": "MEJAYAN",
+  "name": "BLABAKAN",
+  "postalCode": "63153"
  },
  {
   "id": 3519100002,
   "districtId": 3519100,
-  "name": "WONOREJO"
+  "districtName": "MEJAYAN",
+  "name": "WONOREJO",
+  "postalCode": "21186"
  },
  {
   "id": 3519100003,
   "districtId": 3519100,
-  "name": "KEBONAGUNG"
+  "districtName": "MEJAYAN",
+  "name": "KEBONAGUNG",
+  "postalCode": "56151"
  },
  {
   "id": 3519100004,
   "districtId": 3519100,
-  "name": "DARMOREJO"
+  "districtName": "MEJAYAN",
+  "name": "DARMOREJO",
+  "postalCode": "63153"
  },
  {
   "id": 3519100005,
   "districtId": 3519100,
-  "name": "KALIGUNTING"
+  "districtName": "MEJAYAN",
+  "name": "KALIGUNTING",
+  "postalCode": "63153"
  },
  {
   "id": 3519100006,
   "districtId": 3519100,
-  "name": "SIDODADI"
+  "districtName": "MEJAYAN",
+  "name": "SIDODADI",
+  "postalCode": "24582"
  },
  {
   "id": 3519100008,
   "districtId": 3519100,
-  "name": "KLECOREJO"
+  "districtName": "MEJAYAN",
+  "name": "KLECOREJO",
+  "postalCode": "63153"
  },
  {
   "id": 3519100009,
   "districtId": 3519100,
-  "name": "KALIABU"
+  "districtName": "MEJAYAN",
+  "name": "KALIABU",
+  "postalCode": "56162"
  },
  {
   "id": 3519100010,
   "districtId": 3519100,
-  "name": "KRAJAN"
+  "districtName": "MEJAYAN",
+  "name": "KRAJAN",
+  "postalCode": "57557"
  },
  {
   "id": 3519100011,
   "districtId": 3519100,
-  "name": "PANDEYAN"
+  "districtName": "MEJAYAN",
+  "name": "PANDEYAN",
+  "postalCode": "57552"
  },
  {
   "id": 3519100012,
   "districtId": 3519100,
-  "name": "MEJAYAN"
+  "districtName": "MEJAYAN",
+  "name": "MEJAYAN",
+  "postalCode": "63153"
  },
  {
   "id": 3519100013,
   "districtId": 3519100,
-  "name": "BANGUNSARI"
+  "districtName": "MEJAYAN",
+  "name": "BANGUNSARI",
+  "postalCode": "35361"
  },
  {
   "id": 3519100014,
   "districtId": 3519100,
-  "name": "NGAMPEL"
+  "districtName": "MEJAYAN",
+  "name": "NGAMPEL",
+  "postalCode": "58219"
  }
 ]

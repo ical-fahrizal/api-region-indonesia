@@ -2,81 +2,113 @@
  {
   "id": 6110040001,
   "districtId": 6110040,
-  "name": "BALAI AGAS"
+  "districtName": "BELIMBING",
+  "name": "BALAI AGAS",
+  "postalCode": "79671"
  },
  {
   "id": 6110040003,
   "districtId": 6110040,
-  "name": "LANGAN"
+  "districtName": "BELIMBING",
+  "name": "LANGAN",
+  "postalCode": "79671"
  },
  {
   "id": 6110040006,
   "districtId": 6110040,
-  "name": "NUSA KENYIKAP"
+  "districtName": "BELIMBING",
+  "name": "NUSA KENYIKAP",
+  "postalCode": "79671"
  },
  {
   "id": 6110040009,
   "districtId": 6110040,
-  "name": "UPIT"
+  "districtName": "BELIMBING",
+  "name": "UPIT",
+  "postalCode": ""
  },
  {
   "id": 6110040010,
   "districtId": 6110040,
-  "name": "BATU AMPAR"
+  "districtName": "BELIMBING",
+  "name": "BATU AMPAR",
+  "postalCode": "29274"
  },
  {
   "id": 6110040011,
   "districtId": 6110040,
-  "name": "PEMUAR"
+  "districtName": "BELIMBING",
+  "name": "PEMUAR",
+  "postalCode": "79671"
  },
  {
   "id": 6110040012,
   "districtId": 6110040,
-  "name": "BATU BUIL"
+  "districtName": "BELIMBING",
+  "name": "BATU BUIL",
+  "postalCode": "79671"
  },
  {
   "id": 6110040015,
   "districtId": 6110040,
-  "name": "BELONSAT"
+  "districtName": "BELIMBING",
+  "name": "BELONSAT",
+  "postalCode": "79671"
  },
  {
   "id": 6110040016,
   "districtId": 6110040,
-  "name": "BATU NANTA"
+  "districtName": "BELIMBING",
+  "name": "BATU NANTA",
+  "postalCode": "79671"
  },
  {
   "id": 6110040017,
   "districtId": 6110040,
-  "name": "LAMAN BUKIT"
+  "districtName": "BELIMBING",
+  "name": "LAMAN BUKIT",
+  "postalCode": "79671"
  },
  {
   "id": 6110040018,
   "districtId": 6110040,
-  "name": "NANGA PAU"
+  "districtName": "BELIMBING",
+  "name": "NANGA PAU",
+  "postalCode": "79671"
  },
  {
   "id": 6110040019,
   "districtId": 6110040,
-  "name": "NANGA ENTEBAH"
+  "districtName": "BELIMBING",
+  "name": "NANGA ENTEBAH",
+  "postalCode": ""
  },
  {
   "id": 6110040020,
   "districtId": 6110040,
-  "name": "TEKABAN"
+  "districtName": "BELIMBING",
+  "name": "TEKABAN",
+  "postalCode": "79671"
  },
  {
   "id": 6110040021,
   "districtId": 6110040,
-  "name": "LABANG"
+  "districtName": "BELIMBING",
+  "name": "LABANG",
+  "postalCode": "69163"
  },
  {
   "id": 6110040022,
   "districtId": 6110040,
-  "name": "NANGA MENUNUK"
+  "districtName": "BELIMBING",
+  "name": "NANGA MENUNUK",
+  "postalCode": "79671"
  },
  {
   "id": 6110040023,
   "districtId": 6110040,
-  "name": "SEPAN TONAK"
+  "districtName": "BELIMBING",
+  "name": "SEPAN TONAK",
+  "postalCode": "79671"
  }
 ]

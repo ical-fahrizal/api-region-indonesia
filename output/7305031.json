@@ -2,46 +2,64 @@
  {
   "id": 7305031001,
   "districtId": 7305031,
-  "name": "PATTALLASSANG"
+  "districtName": "PATTALLASSANG",
+  "name": "PATTALLASSANG",
+  "postalCode": "92211"
  },
  {
   "id": 7305031002,
   "districtId": 7305031,
-  "name": "PALLANTIKANG"
+  "districtName": "PATTALLASSANG",
+  "name": "PALLANTIKANG",
+  "postalCode": "92352"
  },
  {
   "id": 7305031003,
   "districtId": 7305031,
-  "name": "PAPPA"
+  "districtName": "PATTALLASSANG",
+  "name": "PAPPA",
+  "postalCode": "92211"
  },
  {
   "id": 7305031004,
   "districtId": 7305031,
-  "name": "MARADEKAYA"
+  "districtName": "PATTALLASSANG",
+  "name": "MARADEKAYA",
+  "postalCode": "92152"
  },
  {
   "id": 7305031005,
   "districtId": 7305031,
-  "name": "KALABBIRANG"
+  "districtName": "PATTALLASSANG",
+  "name": "KALABBIRANG",
+  "postalCode": "90561"
  },
  {
   "id": 7305031006,
   "districtId": 7305031,
-  "name": "SOMBALA BELLA"
+  "districtName": "PATTALLASSANG",
+  "name": "SOMBALA BELLA",
+  "postalCode": "92211"
  },
  {
   "id": 7305031007,
   "districtId": 7305031,
-  "name": "BAJENG"
+  "districtName": "PATTALLASSANG",
+  "name": "BAJENG",
+  "postalCode": "92211"
  },
  {
   "id": 7305031008,
   "districtId": 7305031,
-  "name": "SABINTANG"
+  "districtName": "PATTALLASSANG",
+  "name": "SABINTANG",
+  "postalCode": "92211"
  },
  {
   "id": 7305031009,
   "districtId": 7305031,
-  "name": "SALAKA"
+  "districtName": "PATTALLASSANG",
+  "name": "SALAKA",
+  "postalCode": "92211"
  }
 ]

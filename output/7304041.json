@@ -2,36 +2,50 @@
  {
   "id": 7304041001,
   "districtId": 7304041,
-  "name": "KAMPALA"
+  "districtName": "ARUNGKEKE",
+  "name": "KAMPALA",
+  "postalCode": "92361"
  },
  {
   "id": 7304041002,
   "districtId": 7304041,
-  "name": "BULO-BULO"
+  "districtName": "ARUNGKEKE",
+  "name": "BULO-BULO",
+  "postalCode": "92361"
  },
  {
   "id": 7304041003,
   "districtId": 7304041,
-  "name": "KALUMPANG LOE"
+  "districtName": "ARUNGKEKE",
+  "name": "KALUMPANG LOE",
+  "postalCode": "92361"
  },
  {
   "id": 7304041004,
   "districtId": 7304041,
-  "name": "PALAJAU"
+  "districtName": "ARUNGKEKE",
+  "name": "PALAJAU",
+  "postalCode": "71352"
  },
  {
   "id": 7304041005,
   "districtId": 7304041,
-  "name": "ARUNGKEKE"
+  "districtName": "ARUNGKEKE",
+  "name": "ARUNGKEKE",
+  "postalCode": "92361"
  },
  {
   "id": 7304041006,
   "districtId": 7304041,
-  "name": "BORONG LAMU"
+  "districtName": "ARUNGKEKE",
+  "name": "BORONG LAMU",
+  "postalCode": "92361"
  },
  {
   "id": 7304041007,
   "districtId": 7304041,
-  "name": "ARUNGKEKE PALLANTIKANG"
+  "districtName": "ARUNGKEKE",
+  "name": "ARUNGKEKE PALLANTIKANG",
+  "postalCode": "92361"
  }
 ]

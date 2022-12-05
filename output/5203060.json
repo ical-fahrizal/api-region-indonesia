@@ -2,46 +2,64 @@
  {
   "id": 5203060001,
   "districtId": 5203060,
-  "name": "SETANGGOR"
+  "districtName": "SUKAMULIA",
+  "name": "SETANGGOR",
+  "postalCode": "83572"
  },
  {
   "id": 5203060002,
   "districtId": 5203060,
-  "name": "JANTUK"
+  "districtName": "SUKAMULIA",
+  "name": "JANTUK",
+  "postalCode": "83652"
  },
  {
   "id": 5203060003,
   "districtId": 5203060,
-  "name": "PADAMARA"
+  "districtName": "SUKAMULIA",
+  "name": "PADAMARA",
+  "postalCode": "53372"
  },
  {
   "id": 5203060004,
   "districtId": 5203060,
-  "name": "DASAN LEKONG"
+  "districtName": "SUKAMULIA",
+  "name": "DASAN LEKONG",
+  "postalCode": "83652"
  },
  {
   "id": 5203060005,
   "districtId": 5203060,
-  "name": "SUKAMULIA"
+  "districtName": "SUKAMULIA",
+  "name": "SUKAMULIA",
+  "postalCode": "83652"
  },
  {
   "id": 5203060006,
   "districtId": 5203060,
-  "name": "SUKAMULIA TIMUR"
+  "districtName": "SUKAMULIA",
+  "name": "SUKAMULIA TIMUR",
+  "postalCode": "83652"
  },
  {
   "id": 5203060007,
   "districtId": 5203060,
-  "name": "PAOK PAMPANG"
+  "districtName": "SUKAMULIA",
+  "name": "PAOK PAMPANG",
+  "postalCode": "83652"
  },
  {
   "id": 5203060008,
   "districtId": 5203060,
-  "name": "SETANGGOR SELATAN"
+  "districtName": "SUKAMULIA",
+  "name": "SETANGGOR SELATAN",
+  "postalCode": "83652"
  },
  {
   "id": 5203060009,
   "districtId": 5203060,
-  "name": "NYIUR TEBEL"
+  "districtName": "SUKAMULIA",
+  "name": "NYIUR TEBEL",
+  "postalCode": "83652"
  }
 ]

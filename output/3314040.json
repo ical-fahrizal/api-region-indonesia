@@ -2,46 +2,64 @@
  {
   "id": 3314040001,
   "districtId": 3314040,
-  "name": "KARANG PELEM"
+  "districtName": "KEDAWUNG",
+  "name": "KARANG PELEM",
+  "postalCode": "57292"
  },
  {
   "id": 3314040002,
   "districtId": 3314040,
-  "name": "MOJODOYONG"
+  "districtName": "KEDAWUNG",
+  "name": "MOJODOYONG",
+  "postalCode": "57292"
  },
  {
   "id": 3314040003,
   "districtId": 3314040,
-  "name": "JENGGRIK"
+  "districtName": "KEDAWUNG",
+  "name": "JENGGRIK",
+  "postalCode": "57292"
  },
  {
   "id": 3314040004,
   "districtId": 3314040,
-  "name": "MOJOKERTO"
+  "districtName": "KEDAWUNG",
+  "name": "MOJOKERTO",
+  "postalCode": "34175"
  },
  {
   "id": 3314040005,
   "districtId": 3314040,
-  "name": "KEDAWUNG"
+  "districtName": "KEDAWUNG",
+  "name": "KEDAWUNG",
+  "postalCode": "45153"
  },
  {
   "id": 3314040006,
   "districtId": 3314040,
-  "name": "BENDUNGAN"
+  "districtName": "KEDAWUNG",
+  "name": "BENDUNGAN",
+  "postalCode": "16720"
  },
  {
   "id": 3314040007,
   "districtId": 3314040,
-  "name": "WONOKERSO"
+  "districtName": "KEDAWUNG",
+  "name": "WONOKERSO",
+  "postalCode": "51261"
  },
  {
   "id": 3314040008,
   "districtId": 3314040,
-  "name": "WONOREJO"
+  "districtName": "KEDAWUNG",
+  "name": "WONOREJO",
+  "postalCode": "21186"
  },
  {
   "id": 3314040010,
   "districtId": 3314040,
-  "name": "PENGKOK"
+  "districtName": "KEDAWUNG",
+  "name": "PENGKOK",
+  "postalCode": "57292"
  }
 ]

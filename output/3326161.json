@@ -2,46 +2,64 @@
  {
   "id": 3326161001,
   "districtId": 3326161,
-  "name": "WERDI"
+  "districtName": "WONOKERTO",
+  "name": "WERDI",
+  "postalCode": "51164"
  },
  {
   "id": 3326161002,
   "districtId": 3326161,
-  "name": "ROWOYOSO"
+  "districtName": "WONOKERTO",
+  "name": "ROWOYOSO",
+  "postalCode": "51153"
  },
  {
   "id": 3326161004,
   "districtId": 3326161,
-  "name": "WONOKERTO WETAN"
+  "districtName": "WONOKERTO",
+  "name": "WONOKERTO WETAN",
+  "postalCode": "51153"
  },
  {
   "id": 3326161005,
   "districtId": 3326161,
-  "name": "SIJAMBE"
+  "districtName": "WONOKERTO",
+  "name": "SIJAMBE",
+  "postalCode": "51153"
  },
  {
   "id": 3326161006,
   "districtId": 3326161,
-  "name": "PESANGGRAHAN"
+  "districtName": "WONOKERTO",
+  "name": "PESANGGRAHAN",
+  "postalCode": "12320"
  },
  {
   "id": 3326161007,
   "districtId": 3326161,
-  "name": "PECAKARAN"
+  "districtName": "WONOKERTO",
+  "name": "PECAKARAN",
+  "postalCode": "51153"
  },
  {
   "id": 3326161008,
   "districtId": 3326161,
-  "name": "API-API"
+  "districtName": "WONOKERTO",
+  "name": "API-API",
+  "postalCode": "51153"
  },
  {
   "id": 3326161009,
   "districtId": 3326161,
-  "name": "WONOKERTO KULON"
+  "districtName": "WONOKERTO",
+  "name": "WONOKERTO KULON",
+  "postalCode": "51153"
  },
  {
   "id": 3326161010,
   "districtId": 3326161,
-  "name": "TRATEBANG"
+  "districtName": "WONOKERTO",
+  "name": "TRATEBANG",
+  "postalCode": "51153"
  }
 ]

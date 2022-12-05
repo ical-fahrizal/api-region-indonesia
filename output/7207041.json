@@ -2,56 +2,78 @@
  {
   "id": 7207041001,
   "districtId": 7207041,
-  "name": "DIAPATIH"
+  "districtName": "GADUNG",
+  "name": "DIAPATIH",
+  "postalCode": "94568"
  },
  {
   "id": 7207041002,
   "districtId": 7207041,
-  "name": "BULAGIDUN"
+  "districtName": "GADUNG",
+  "name": "BULAGIDUN",
+  "postalCode": "94568"
  },
  {
   "id": 7207041003,
   "districtId": 7207041,
-  "name": "LABUTON"
+  "districtName": "GADUNG",
+  "name": "LABUTON",
+  "postalCode": "94568"
  },
  {
   "id": 7207041004,
   "districtId": 7207041,
-  "name": "LOKODOKA"
+  "districtName": "GADUNG",
+  "name": "LOKODOKA",
+  "postalCode": "94568"
  },
  {
   "id": 7207041005,
   "districtId": 7207041,
-  "name": "TAAT"
+  "districtName": "GADUNG",
+  "name": "TAAT",
+  "postalCode": "94568"
  },
  {
   "id": 7207041006,
   "districtId": 7207041,
-  "name": "MATINAN"
+  "districtName": "GADUNG",
+  "name": "MATINAN",
+  "postalCode": "94568"
  },
  {
   "id": 7207041007,
   "districtId": 7207041,
-  "name": "LOKODIDI"
+  "districtName": "GADUNG",
+  "name": "LOKODIDI",
+  "postalCode": "94568"
  },
  {
   "id": 7207041008,
   "districtId": 7207041,
-  "name": "LIPUBOGU"
+  "districtName": "GADUNG",
+  "name": "LIPUBOGU",
+  "postalCode": "94568"
  },
  {
   "id": 7207041009,
   "districtId": 7207041,
-  "name": "NANDU"
+  "districtName": "GADUNG",
+  "name": "NANDU",
+  "postalCode": "94568"
  },
  {
   "id": 7207041010,
   "districtId": 7207041,
-  "name": "BULAGIDUN TANJUNG"
+  "districtName": "GADUNG",
+  "name": "BULAGIDUN TANJUNG",
+  "postalCode": "94568"
  },
  {
   "id": 7207041011,
   "districtId": 7207041,
-  "name": "PANDANGAN"
+  "districtName": "GADUNG",
+  "name": "PANDANGAN",
+  "postalCode": "94568"
  }
 ]

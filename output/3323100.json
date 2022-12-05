@@ -2,101 +2,141 @@
  {
   "id": 3323100001,
   "districtId": 3323100,
-  "name": "KATEKAN"
+  "districtName": "NGADIREJO",
+  "name": "KATEKAN",
+  "postalCode": "58153"
  },
  {
   "id": 3323100002,
   "districtId": 3323100,
-  "name": "BANJARSARI"
+  "districtName": "NGADIREJO",
+  "name": "BANJARSARI",
+  "postalCode": "35377"
  },
  {
   "id": 3323100003,
   "districtId": 3323100,
-  "name": "MEDARI"
+  "districtName": "NGADIREJO",
+  "name": "MEDARI",
+  "postalCode": "56255"
  },
  {
   "id": 3323100006,
   "districtId": 3323100,
-  "name": "KARANGGEDONG"
+  "districtName": "NGADIREJO",
+  "name": "KARANGGEDONG",
+  "postalCode": "56255"
  },
  {
   "id": 3323100007,
   "districtId": 3323100,
-  "name": "PETIREJO"
+  "districtName": "NGADIREJO",
+  "name": "PETIREJO",
+  "postalCode": "56255"
  },
  {
   "id": 3323100008,
   "districtId": 3323100,
-  "name": "MUNGGANGSARI"
+  "districtName": "NGADIREJO",
+  "name": "MUNGGANGSARI",
+  "postalCode": "54265"
  },
  {
   "id": 3323100009,
   "districtId": 3323100,
-  "name": "KATAAN"
+  "districtName": "NGADIREJO",
+  "name": "KATAAN",
+  "postalCode": "56255"
  },
  {
   "id": 3323100010,
   "districtId": 3323100,
-  "name": "PRINGAPUS"
+  "districtName": "NGADIREJO",
+  "name": "PRINGAPUS",
+  "postalCode": "56255"
  },
  {
   "id": 3323100011,
   "districtId": 3323100,
-  "name": "GIRIPURNO"
+  "districtName": "NGADIREJO",
+  "name": "GIRIPURNO",
+  "postalCode": "56553"
  },
  {
   "id": 3323100012,
   "districtId": 3323100,
-  "name": "GEJAGAN"
+  "districtName": "NGADIREJO",
+  "name": "GEJAGAN",
+  "postalCode": "56255"
  },
  {
   "id": 3323100013,
   "districtId": 3323100,
-  "name": "MANGGONG"
+  "districtName": "NGADIREJO",
+  "name": "MANGGONG",
+  "postalCode": "56255"
  },
  {
   "id": 3323100014,
   "districtId": 3323100,
-  "name": "GANDU WETAN"
+  "districtName": "NGADIREJO",
+  "name": "GANDU WETAN",
+  "postalCode": "56255"
  },
  {
   "id": 3323100015,
   "districtId": 3323100,
-  "name": "NGAREN"
+  "districtName": "NGADIREJO",
+  "name": "NGAREN",
+  "postalCode": "57391"
  },
  {
   "id": 3323100016,
   "districtId": 3323100,
-  "name": "NGADIREJO"
+  "districtName": "NGADIREJO",
+  "name": "NGADIREJO",
+  "postalCode": "31662"
  },
  {
   "id": 3323100017,
   "districtId": 3323100,
-  "name": "GONDANGWINANGUN"
+  "districtName": "NGADIREJO",
+  "name": "GONDANGWINANGUN",
+  "postalCode": "56255"
  },
  {
   "id": 3323100018,
   "districtId": 3323100,
-  "name": "DLIMOYO"
+  "districtName": "NGADIREJO",
+  "name": "DLIMOYO",
+  "postalCode": "56255"
  },
  {
   "id": 3323100019,
   "districtId": 3323100,
-  "name": "PURBOSARI"
+  "districtName": "NGADIREJO",
+  "name": "PURBOSARI",
+  "postalCode": "38883"
  },
  {
   "id": 3323100020,
   "districtId": 3323100,
-  "name": "TEGALREJO"
+  "districtName": "NGADIREJO",
+  "name": "TEGALREJO",
+  "postalCode": "50733"
  },
  {
   "id": 3323100021,
   "districtId": 3323100,
-  "name": "CAMPURSARI"
+  "districtName": "NGADIREJO",
+  "name": "CAMPURSARI",
+  "postalCode": "56253"
  },
  {
   "id": 3323100022,
   "districtId": 3323100,
-  "name": "MANGUNSARI"
+  "districtName": "NGADIREJO",
+  "name": "MANGUNSARI",
+  "postalCode": "50227"
  }
 ]

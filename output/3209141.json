@@ -2,56 +2,78 @@
  {
   "id": 3209141001,
   "districtId": 3209141,
-  "name": "CIKEDUK"
+  "districtName": "DEPOK",
+  "name": "CIKEDUK",
+  "postalCode": "45155"
  },
  {
   "id": 3209141002,
   "districtId": 3209141,
-  "name": "WARUGEDE"
+  "districtName": "DEPOK",
+  "name": "WARUGEDE",
+  "postalCode": "45155"
  },
  {
   "id": 3209141003,
   "districtId": 3209141,
-  "name": "KARANGWANGI"
+  "districtName": "DEPOK",
+  "name": "KARANGWANGI",
+  "postalCode": "41253"
  },
  {
   "id": 3209141004,
   "districtId": 3209141,
-  "name": "GETASAN"
+  "districtName": "DEPOK",
+  "name": "GETASAN",
+  "postalCode": "45155"
  },
  {
   "id": 3209141006,
   "districtId": 3209141,
-  "name": "KEDUANAN"
+  "districtName": "DEPOK",
+  "name": "KEDUANAN",
+  "postalCode": "45155"
  },
  {
   "id": 3209141007,
   "districtId": 3209141,
-  "name": "WARUROYOM"
+  "districtName": "DEPOK",
+  "name": "WARUROYOM",
+  "postalCode": "45155"
  },
  {
   "id": 3209141008,
   "districtId": 3209141,
-  "name": "WARUKAWUNG"
+  "districtName": "DEPOK",
+  "name": "WARUKAWUNG",
+  "postalCode": "45155"
  },
  {
   "id": 3209141009,
   "districtId": 3209141,
-  "name": "WARUJAYA"
+  "districtName": "DEPOK",
+  "name": "WARUJAYA",
+  "postalCode": "45155"
  },
  {
   "id": 3209141010,
   "districtId": 3209141,
-  "name": "DEPOK"
+  "districtName": "DEPOK",
+  "name": "DEPOK",
+  "postalCode": "44174"
  },
  {
   "id": 3209141011,
   "districtId": 3209141,
-  "name": "KASUGENGAN KIDUL"
+  "districtName": "DEPOK",
+  "name": "KASUGENGAN KIDUL",
+  "postalCode": "45155"
  },
  {
   "id": 3209141012,
   "districtId": 3209141,
-  "name": "KASUGENGAN LOR"
+  "districtName": "DEPOK",
+  "name": "KASUGENGAN LOR",
+  "postalCode": "45155"
  }
 ]

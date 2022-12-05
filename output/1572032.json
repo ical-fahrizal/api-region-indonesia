@@ -2,31 +2,43 @@
  {
   "id": 1572032001,
   "districtId": 1572032,
-  "name": "SUMUR ANYIR"
+  "districtName": "SUNGAI BUNGKAL",
+  "name": "SUMUR ANYIR",
+  "postalCode": "37111"
  },
  {
   "id": 1572032002,
   "districtId": 1572032,
-  "name": "PELAYANG RAYA"
+  "districtName": "SUNGAI BUNGKAL",
+  "name": "PELAYANG RAYA",
+  "postalCode": "37111"
  },
  {
   "id": 1572032003,
   "districtId": 1572032,
-  "name": "TALANG LINDUNG"
+  "districtName": "SUNGAI BUNGKAL",
+  "name": "TALANG LINDUNG",
+  "postalCode": "37173"
  },
  {
   "id": 1572032004,
   "districtId": 1572032,
-  "name": "SUNGAI NING"
+  "districtName": "SUNGAI BUNGKAL",
+  "name": "SUNGAI NING",
+  "postalCode": "37111"
  },
  {
   "id": 1572032005,
   "districtId": 1572032,
-  "name": "KOTO TINGGI"
+  "districtName": "SUNGAI BUNGKAL",
+  "name": "KOTO TINGGI",
+  "postalCode": "26192"
  },
  {
   "id": 1572032006,
   "districtId": 1572032,
-  "name": "KELURAHAN DUSUN BARU"
+  "districtName": "SUNGAI BUNGKAL",
+  "name": "KELURAHAN DUSUN BARU",
+  "postalCode": ""
  }
 ]

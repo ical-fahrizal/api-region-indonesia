@@ -2,26 +2,36 @@
  {
   "id": 9110111001,
   "districtId": 9110111,
-  "name": "KAMAT"
+  "districtName": "AIFAT TIMUR TENGAH",
+  "name": "KAMAT",
+  "postalCode": "98463"
  },
  {
   "id": 9110111002,
   "districtId": 9110111,
-  "name": "AYATA"
+  "districtName": "AIFAT TIMUR TENGAH",
+  "name": "AYATA",
+  "postalCode": "98463"
  },
  {
   "id": 9110111003,
   "districtId": 9110111,
-  "name": "AIFAM"
+  "districtName": "AIFAT TIMUR TENGAH",
+  "name": "AIFAM",
+  "postalCode": "98463"
  },
  {
   "id": 9110111004,
   "districtId": 9110111,
-  "name": "MUPAS"
+  "districtName": "AIFAT TIMUR TENGAH",
+  "name": "MUPAS",
+  "postalCode": "98463"
  },
  {
   "id": 9110111005,
   "districtId": 9110111,
-  "name": "AINESA"
+  "districtName": "AIFAT TIMUR TENGAH",
+  "name": "AINESA",
+  "postalCode": ""
  }
 ]

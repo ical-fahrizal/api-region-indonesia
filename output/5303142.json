@@ -2,36 +2,50 @@
  {
   "id": 5303142001,
   "districtId": 5303142,
-  "name": "KUANHEUM"
+  "districtName": "AMABI OEFETO",
+  "name": "KUANHEUM",
+  "postalCode": "85362"
  },
  {
   "id": 5303142002,
   "districtId": 5303142,
-  "name": "FATUKNUTU"
+  "districtName": "AMABI OEFETO",
+  "name": "FATUKNUTU",
+  "postalCode": ""
  },
  {
   "id": 5303142003,
   "districtId": 5303142,
-  "name": "KAIRANE"
+  "districtName": "AMABI OEFETO",
+  "name": "KAIRANE",
+  "postalCode": "85362"
  },
  {
   "id": 5303142004,
   "districtId": 5303142,
-  "name": "NIUNBAUN"
+  "districtName": "AMABI OEFETO",
+  "name": "NIUNBAUN",
+  "postalCode": "85363"
  },
  {
   "id": 5303142005,
   "districtId": 5303142,
-  "name": "RAKNAMO"
+  "districtName": "AMABI OEFETO",
+  "name": "RAKNAMO",
+  "postalCode": "85362"
  },
  {
   "id": 5303142006,
   "districtId": 5303142,
-  "name": "FATUTETA"
+  "districtName": "AMABI OEFETO",
+  "name": "FATUTETA",
+  "postalCode": "85362"
  },
  {
   "id": 5303142007,
   "districtId": 5303142,
-  "name": "OEFETO"
+  "districtName": "AMABI OEFETO",
+  "name": "OEFETO",
+  "postalCode": ""
  }
 ]

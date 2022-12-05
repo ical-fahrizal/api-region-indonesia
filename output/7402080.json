@@ -2,36 +2,50 @@
  {
   "id": 7402080008,
   "districtId": 7402080,
-  "name": "LAMBIKU"
+  "districtName": "NAPABALANO",
+  "name": "LAMBIKU",
+  "postalCode": "93654"
  },
  {
   "id": 7402080009,
   "districtId": 7402080,
-  "name": "PENTIRO"
+  "districtName": "NAPABALANO",
+  "name": "PENTIRO",
+  "postalCode": "93654"
  },
  {
   "id": 7402080010,
   "districtId": 7402080,
-  "name": "NAPABALANO"
+  "districtName": "NAPABALANO",
+  "name": "NAPABALANO",
+  "postalCode": "93654"
  },
  {
   "id": 7402080011,
   "districtId": 7402080,
-  "name": "TAMPO"
+  "districtName": "NAPABALANO",
+  "name": "TAMPO",
+  "postalCode": "68482"
  },
  {
   "id": 7402080012,
   "districtId": 7402080,
-  "name": "NAPALAKURA"
+  "districtName": "NAPABALANO",
+  "name": "NAPALAKURA",
+  "postalCode": "93654"
  },
  {
   "id": 7402080013,
   "districtId": 7402080,
-  "name": "LANGKUMAPO"
+  "districtName": "NAPABALANO",
+  "name": "LANGKUMAPO",
+  "postalCode": "93654"
  },
  {
   "id": 7402080014,
   "districtId": 7402080,
-  "name": "MEKAR SAMA"
+  "districtName": "NAPABALANO",
+  "name": "MEKAR SAMA",
+  "postalCode": ""
  }
 ]

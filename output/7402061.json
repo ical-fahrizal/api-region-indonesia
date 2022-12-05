@@ -2,36 +2,50 @@
  {
   "id": 7402061001,
   "districtId": 7402061,
-  "name": "LIABALANO"
+  "districtName": "KONTUNAGA",
+  "name": "LIABALANO",
+  "postalCode": ""
  },
  {
   "id": 7402061002,
   "districtId": 7402061,
-  "name": "KONTUNAGA"
+  "districtName": "KONTUNAGA",
+  "name": "KONTUNAGA",
+  "postalCode": "93658"
  },
  {
   "id": 7402061003,
   "districtId": 7402061,
-  "name": "MAABHODO"
+  "districtName": "KONTUNAGA",
+  "name": "MAABHODO",
+  "postalCode": ""
  },
  {
   "id": 7402061004,
   "districtId": 7402061,
-  "name": "MASALILI"
+  "districtName": "KONTUNAGA",
+  "name": "MASALILI",
+  "postalCode": "93658"
  },
  {
   "id": 7402061005,
   "districtId": 7402061,
-  "name": "BUNGI"
+  "districtName": "KONTUNAGA",
+  "name": "BUNGI",
+  "postalCode": "91253"
  },
  {
   "id": 7402061010,
   "districtId": 7402061,
-  "name": "LAPODIDI"
+  "districtName": "KONTUNAGA",
+  "name": "LAPODIDI",
+  "postalCode": "93658"
  },
  {
   "id": 7402061011,
   "districtId": 7402061,
-  "name": "SAUNGKAGHITO"
+  "districtName": "KONTUNAGA",
+  "name": "SAUNGKAGHITO",
+  "postalCode": ""
  }
 ]

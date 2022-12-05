@@ -2,21 +2,29 @@
  {
   "id": 9108040015,
   "districtId": 9108040,
-  "name": "SAONEK"
+  "districtName": "WAIGEO SELATAN",
+  "name": "SAONEK",
+  "postalCode": "98482"
  },
  {
   "id": 9108040016,
   "districtId": 9108040,
-  "name": "FRIWEN"
+  "districtName": "WAIGEO SELATAN",
+  "name": "FRIWEN",
+  "postalCode": "98482"
  },
  {
   "id": 9108040018,
   "districtId": 9108040,
-  "name": "SAPORKREN"
+  "districtName": "WAIGEO SELATAN",
+  "name": "SAPORKREN",
+  "postalCode": "98482"
  },
  {
   "id": 9108040019,
   "districtId": 9108040,
-  "name": "WAWIYAI"
+  "districtName": "WAIGEO SELATAN",
+  "name": "WAWIYAI",
+  "postalCode": "98482"
  }
 ]

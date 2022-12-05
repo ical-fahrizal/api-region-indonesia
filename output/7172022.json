@@ -2,46 +2,64 @@
  {
   "id": 7172022001,
   "districtId": 7172022,
-  "name": "MAWALI"
+  "districtName": "LEMBEH UTARA",
+  "name": "MAWALI",
+  "postalCode": "95555"
  },
  {
   "id": 7172022002,
   "districtId": 7172022,
-  "name": "PINTUKOTA"
+  "districtName": "LEMBEH UTARA",
+  "name": "PINTUKOTA",
+  "postalCode": "95557"
  },
  {
   "id": 7172022003,
   "districtId": 7172022,
-  "name": "BATUKOTA"
+  "districtName": "LEMBEH UTARA",
+  "name": "BATUKOTA",
+  "postalCode": "95551"
  },
  {
   "id": 7172022004,
   "districtId": 7172022,
-  "name": "GUNUNG WOKA"
+  "districtName": "LEMBEH UTARA",
+  "name": "GUNUNG WOKA",
+  "postalCode": ""
  },
  {
   "id": 7172022005,
   "districtId": 7172022,
-  "name": "POSOKAN"
+  "districtName": "LEMBEH UTARA",
+  "name": "POSOKAN",
+  "postalCode": "95551"
  },
  {
   "id": 7172022006,
   "districtId": 7172022,
-  "name": "MOTTO"
+  "districtName": "LEMBEH UTARA",
+  "name": "MOTTO",
+  "postalCode": "95559"
  },
  {
   "id": 7172022007,
   "districtId": 7172022,
-  "name": "LIRANG"
+  "districtName": "LEMBEH UTARA",
+  "name": "LIRANG",
+  "postalCode": "95559"
  },
  {
   "id": 7172022009,
   "districtId": 7172022,
-  "name": "BINUANG"
+  "districtName": "LEMBEH UTARA",
+  "name": "BINUANG",
+  "postalCode": "28463"
  },
  {
   "id": 7172022010,
   "districtId": 7172022,
-  "name": "KAREKO"
+  "districtName": "LEMBEH UTARA",
+  "name": "KAREKO",
+  "postalCode": "95551"
  }
 ]

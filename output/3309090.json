@@ -2,71 +2,99 @@
  {
   "id": 3309090002,
   "districtId": 3309090,
-  "name": "JIPANGAN"
+  "districtName": "BANYUDONO",
+  "name": "JIPANGAN",
+  "postalCode": "57373"
  },
  {
   "id": 3309090003,
   "districtId": 3309090,
-  "name": "JEMBUNGAN"
+  "districtName": "BANYUDONO",
+  "name": "JEMBUNGAN",
+  "postalCode": "57373"
  },
  {
   "id": 3309090004,
   "districtId": 3309090,
-  "name": "SAMBON"
+  "districtName": "BANYUDONO",
+  "name": "SAMBON",
+  "postalCode": "57373"
  },
  {
   "id": 3309090005,
   "districtId": 3309090,
-  "name": "KUWIRAN"
+  "districtName": "BANYUDONO",
+  "name": "KUWIRAN",
+  "postalCode": "57373"
  },
  {
   "id": 3309090006,
   "districtId": 3309090,
-  "name": "CANGKRINGAN"
+  "districtName": "BANYUDONO",
+  "name": "CANGKRINGAN",
+  "postalCode": "57373"
  },
  {
   "id": 3309090007,
   "districtId": 3309090,
-  "name": "NGARU ARU"
+  "districtName": "BANYUDONO",
+  "name": "NGARU ARU",
+  "postalCode": "57373"
  },
  {
   "id": 3309090008,
   "districtId": 3309090,
-  "name": "BENDAN"
+  "districtName": "BANYUDONO",
+  "name": "BENDAN",
+  "postalCode": "57373"
  },
  {
   "id": 3309090009,
   "districtId": 3309090,
-  "name": "KETAON"
+  "districtName": "BANYUDONO",
+  "name": "KETAON",
+  "postalCode": "57373"
  },
  {
   "id": 3309090010,
   "districtId": 3309090,
-  "name": "BANYUDONO"
+  "districtName": "BANYUDONO",
+  "name": "BANYUDONO",
+  "postalCode": "57373"
  },
  {
   "id": 3309090011,
   "districtId": 3309090,
-  "name": "BATAN"
+  "districtName": "BANYUDONO",
+  "name": "BATAN",
+  "postalCode": "57373"
  },
  {
   "id": 3309090012,
   "districtId": 3309090,
-  "name": "DENGGUNGAN"
+  "districtName": "BANYUDONO",
+  "name": "DENGGUNGAN",
+  "postalCode": "57373"
  },
  {
   "id": 3309090013,
   "districtId": 3309090,
-  "name": "BANGAK"
+  "districtName": "BANYUDONO",
+  "name": "BANGAK",
+  "postalCode": "57373"
  },
  {
   "id": 3309090014,
   "districtId": 3309090,
-  "name": "TRAYU"
+  "districtName": "BANYUDONO",
+  "name": "TRAYU",
+  "postalCode": "57373"
  },
  {
   "id": 3309090015,
   "districtId": 3309090,
-  "name": "TANJUNGSARI"
+  "districtName": "BANYUDONO",
+  "name": "TANJUNGSARI",
+  "postalCode": "28983"
  }
 ]

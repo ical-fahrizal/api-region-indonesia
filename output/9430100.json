@@ -2,46 +2,64 @@
  {
   "id": 9430100005,
   "districtId": 9430100,
-  "name": "MEGALUNIK"
+  "districtName": "POGA",
+  "name": "MEGALUNIK",
+  "postalCode": "99556"
  },
  {
   "id": 9430100006,
   "districtId": 9430100,
-  "name": "POGA"
+  "districtName": "POGA",
+  "name": "POGA",
+  "postalCode": "99556"
  },
  {
   "id": 9430100007,
   "districtId": 9430100,
-  "name": "KANUMBUME"
+  "districtName": "POGA",
+  "name": "KANUMBUME",
+  "postalCode": "99556"
  },
  {
   "id": 9430100009,
   "districtId": 9430100,
-  "name": "LUGOBAK"
+  "districtName": "POGA",
+  "name": "LUGOBAK",
+  "postalCode": "99556"
  },
  {
   "id": 9430100010,
   "districtId": 9430100,
-  "name": "BIGIPAGA"
+  "districtName": "POGA",
+  "name": "BIGIPAGA",
+  "postalCode": "99556"
  },
  {
   "id": 9430100011,
   "districtId": 9430100,
-  "name": "BINOMPAGA"
+  "districtName": "POGA",
+  "name": "BINOMPAGA",
+  "postalCode": ""
  },
  {
   "id": 9430100012,
   "districtId": 9430100,
-  "name": "LUGWA"
+  "districtName": "POGA",
+  "name": "LUGWA",
+  "postalCode": ""
  },
  {
   "id": 9430100016,
   "districtId": 9430100,
-  "name": "BINIPAGA"
+  "districtName": "POGA",
+  "name": "BINIPAGA",
+  "postalCode": ""
  },
  {
   "id": 9430100018,
   "districtId": 9430100,
-  "name": "GUANERI"
+  "districtName": "POGA",
+  "name": "GUANERI",
+  "postalCode": ""
  }
 ]

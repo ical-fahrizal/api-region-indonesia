@@ -2,16 +2,22 @@
  {
   "id": 1306050001,
   "districtId": 1306050,
-  "name": "LUBUK PANDAN"
+  "districtName": "2 X 11 ENAM LINGKUNG",
+  "name": "LUBUK PANDAN",
+  "postalCode": "25584"
  },
  {
   "id": 1306050002,
   "districtId": 1306050,
-  "name": "SICINCIN"
+  "districtName": "2 X 11 ENAM LINGKUNG",
+  "name": "SICINCIN",
+  "postalCode": "25584"
  },
  {
   "id": 1306050003,
   "districtId": 1306050,
-  "name": "SUNGAI ASAM"
+  "districtName": "2 X 11 ENAM LINGKUNG",
+  "name": "SUNGAI ASAM",
+  "postalCode": "25584"
  }
 ]

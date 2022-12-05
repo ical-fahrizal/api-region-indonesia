@@ -2,56 +2,78 @@
  {
   "id": 9109070008,
   "districtId": 9109070,
-  "name": "KEBAR TENGAH / ANJAI"
+  "districtName": "KEBAR",
+  "name": "KEBAR TENGAH / ANJAI",
+  "postalCode": ""
  },
  {
   "id": 9109070010,
   "districtId": 9109070,
-  "name": "MEIWAR"
+  "districtName": "KEBAR",
+  "name": "MEIWAR",
+  "postalCode": ""
  },
  {
   "id": 9109070012,
   "districtId": 9109070,
-  "name": "APOKI"
+  "districtName": "KEBAR",
+  "name": "APOKI",
+  "postalCode": ""
  },
  {
   "id": 9109070013,
   "districtId": 9109070,
-  "name": "JAFAI"
+  "districtName": "KEBAR",
+  "name": "JAFAI",
+  "postalCode": ""
  },
  {
   "id": 9109070015,
   "districtId": 9109070,
-  "name": "ANARUM"
+  "districtName": "KEBAR",
+  "name": "ANARUM",
+  "postalCode": ""
  },
  {
   "id": 9109070015,
   "districtId": 9109070,
-  "name": "JAMBUANI"
+  "districtName": "KEBAR",
+  "name": "JAMBUANI",
+  "postalCode": ""
  },
  {
   "id": 9109070016,
   "districtId": 9109070,
-  "name": "MANARIA"
+  "districtName": "KEBAR",
+  "name": "MANARIA",
+  "postalCode": ""
  },
  {
   "id": 9109070017,
   "districtId": 9109070,
-  "name": "NARAI"
+  "districtName": "KEBAR",
+  "name": "NARAI",
+  "postalCode": ""
  },
  {
   "id": 9109070022,
   "districtId": 9109070,
-  "name": "WASANGGON"
+  "districtName": "KEBAR",
+  "name": "WASANGGON",
+  "postalCode": ""
  },
  {
   "id": 9109070023,
   "districtId": 9109070,
-  "name": "WABANEK"
+  "districtName": "KEBAR",
+  "name": "WABANEK",
+  "postalCode": ""
  },
  {
   "id": 9109070039,
   "districtId": 9109070,
-  "name": "PUBUAN"
+  "districtName": "KEBAR",
+  "name": "PUBUAN",
+  "postalCode": ""
  }
 ]

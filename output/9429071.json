@@ -2,11 +2,15 @@
  {
   "id": 9429071002,
   "districtId": 9429071,
-  "name": "BAKLEMA"
+  "districtName": "INIYE",
+  "name": "BAKLEMA",
+  "postalCode": "99564"
  },
  {
   "id": 9429071005,
   "districtId": 9429071,
-  "name": "KOSOBAK"
+  "districtName": "INIYE",
+  "name": "KOSOBAK",
+  "postalCode": "99564"
  }
 ]

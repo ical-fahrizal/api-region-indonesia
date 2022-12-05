@@ -2,26 +2,36 @@
  {
   "id": 9403201001,
   "districtId": 9403201,
-  "name": "MARUWAY"
+  "districtName": "YOKARI",
+  "name": "MARUWAY",
+  "postalCode": "99354"
  },
  {
   "id": 9403201002,
   "districtId": 9403201,
-  "name": "MEUKISI"
+  "districtName": "YOKARI",
+  "name": "MEUKISI",
+  "postalCode": "99354"
  },
  {
   "id": 9403201003,
   "districtId": 9403201,
-  "name": "ENDOKISI"
+  "districtName": "YOKARI",
+  "name": "ENDOKISI",
+  "postalCode": "99354"
  },
  {
   "id": 9403201004,
   "districtId": 9403201,
-  "name": "SNAMAI"
+  "districtName": "YOKARI",
+  "name": "SNAMAI",
+  "postalCode": ""
  },
  {
   "id": 9403201005,
   "districtId": 9403201,
-  "name": "BUSERYO"
+  "districtName": "YOKARI",
+  "name": "BUSERYO",
+  "postalCode": "99354"
  }
 ]

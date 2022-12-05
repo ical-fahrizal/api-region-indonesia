@@ -2,51 +2,71 @@
  {
   "id": 7202062001,
   "districtId": 7202062,
-  "name": "BAHINGIN"
+  "districtName": "LOBU",
+  "name": "BAHINGIN",
+  "postalCode": "94752"
  },
  {
   "id": 7202062002,
   "districtId": 7202062,
-  "name": "BALEAN"
+  "districtName": "LOBU",
+  "name": "BALEAN",
+  "postalCode": "94752"
  },
  {
   "id": 7202062003,
   "districtId": 7202062,
-  "name": "UHA-UHANGON"
+  "districtName": "LOBU",
+  "name": "UHA-UHANGON",
+  "postalCode": ""
  },
  {
   "id": 7202062004,
   "districtId": 7202062,
-  "name": "KADODI"
+  "districtName": "LOBU",
+  "name": "KADODI",
+  "postalCode": "94752"
  },
  {
   "id": 7202062005,
   "districtId": 7202062,
-  "name": "NIUBULAN"
+  "districtName": "LOBU",
+  "name": "NIUBULAN",
+  "postalCode": "94752"
  },
  {
   "id": 7202062006,
   "districtId": 7202062,
-  "name": "LOBU"
+  "districtName": "LOBU",
+  "name": "LOBU",
+  "postalCode": "95998"
  },
  {
   "id": 7202062007,
   "districtId": 7202062,
-  "name": "BOLOBUNGKANG"
+  "districtName": "LOBU",
+  "name": "BOLOBUNGKANG",
+  "postalCode": "94752"
  },
  {
   "id": 7202062008,
   "districtId": 7202062,
-  "name": "UWEDAKA-DAKA"
+  "districtName": "LOBU",
+  "name": "UWEDAKA-DAKA",
+  "postalCode": ""
  },
  {
   "id": 7202062009,
   "districtId": 7202062,
-  "name": "DOLOM"
+  "districtName": "LOBU",
+  "name": "DOLOM",
+  "postalCode": "94773"
  },
  {
   "id": 7202062010,
   "districtId": 7202062,
-  "name": "LAMBULI"
+  "districtName": "LOBU",
+  "name": "LAMBULI",
+  "postalCode": "94752"
  }
 ]

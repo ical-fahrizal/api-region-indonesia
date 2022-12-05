@@ -2,11 +2,15 @@
  {
   "id": 9429031002,
   "districtId": 9429031,
-  "name": "GEMAM"
+  "districtName": "KILMID",
+  "name": "GEMAM",
+  "postalCode": "99564"
  },
  {
   "id": 9429031003,
   "districtId": 9429031,
-  "name": "PURUWA"
+  "districtName": "KILMID",
+  "name": "PURUWA",
+  "postalCode": "99564"
  }
 ]

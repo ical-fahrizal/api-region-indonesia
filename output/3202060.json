@@ -2,41 +2,57 @@
  {
   "id": 3202060001,
   "districtId": 3202060,
-  "name": "SUMBERJAYA"
+  "districtName": "TEGAL BULEUD",
+  "name": "SUMBERJAYA",
+  "postalCode": "46262"
  },
  {
   "id": 3202060002,
   "districtId": 3202060,
-  "name": "BUNIASIH"
+  "districtName": "TEGAL BULEUD",
+  "name": "BUNIASIH",
+  "postalCode": "46156"
  },
  {
   "id": 3202060003,
   "districtId": 3202060,
-  "name": "TEGALBULEUD"
+  "districtName": "TEGAL BULEUD",
+  "name": "TEGALBULEUD",
+  "postalCode": "43186"
  },
  {
   "id": 3202060004,
   "districtId": 3202060,
-  "name": "CALINGCING"
+  "districtName": "TEGAL BULEUD",
+  "name": "CALINGCING",
+  "postalCode": "46155"
  },
  {
   "id": 3202060005,
   "districtId": 3202060,
-  "name": "RAMBAY"
+  "districtName": "TEGAL BULEUD",
+  "name": "RAMBAY",
+  "postalCode": "43186"
  },
  {
   "id": 3202060006,
   "districtId": 3202060,
-  "name": "NANGELA"
+  "districtName": "TEGAL BULEUD",
+  "name": "NANGELA",
+  "postalCode": "43186"
  },
  {
   "id": 3202060007,
   "districtId": 3202060,
-  "name": "BANGBAYANG"
+  "districtName": "TEGAL BULEUD",
+  "name": "BANGBAYANG",
+  "postalCode": "43359"
  },
  {
   "id": 3202060008,
   "districtId": 3202060,
-  "name": "SIRNAMEKAR"
+  "districtName": "TEGAL BULEUD",
+  "name": "SIRNAMEKAR",
+  "postalCode": ""
  }
 ]

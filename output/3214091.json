@@ -2,51 +2,71 @@
  {
   "id": 3214091001,
   "districtId": 3214091,
-  "name": "BUNGUR JAYA"
+  "districtName": "PONDOK SALAM",
+  "name": "BUNGUR JAYA",
+  "postalCode": ""
  },
  {
   "id": 3214091002,
   "districtId": 3214091,
-  "name": "PONDOKBUNGUR"
+  "districtName": "PONDOK SALAM",
+  "name": "PONDOKBUNGUR",
+  "postalCode": "41115"
  },
  {
   "id": 3214091003,
   "districtId": 3214091,
-  "name": "SALEM"
+  "districtName": "PONDOK SALAM",
+  "name": "SALEM",
+  "postalCode": "41115"
  },
  {
   "id": 3214091004,
   "districtId": 3214091,
-  "name": "GALUDRA"
+  "districtName": "PONDOK SALAM",
+  "name": "GALUDRA",
+  "postalCode": "45353"
  },
  {
   "id": 3214091005,
   "districtId": 3214091,
-  "name": "SUKAJADI"
+  "districtName": "PONDOK SALAM",
+  "name": "SUKAJADI",
+  "postalCode": "24472"
  },
  {
   "id": 3214091006,
   "districtId": 3214091,
-  "name": "TANJUNGSARI"
+  "districtName": "PONDOK SALAM",
+  "name": "TANJUNGSARI",
+  "postalCode": "28983"
  },
  {
   "id": 3214091007,
   "districtId": 3214091,
-  "name": "SALAM JAYA"
+  "districtName": "PONDOK SALAM",
+  "name": "SALAM JAYA",
+  "postalCode": ""
  },
  {
   "id": 3214091008,
   "districtId": 3214091,
-  "name": "SITU"
+  "districtName": "PONDOK SALAM",
+  "name": "SITU",
+  "postalCode": "41115"
  },
  {
   "id": 3214091009,
   "districtId": 3214091,
-  "name": "PARAKANSALAM"
+  "districtName": "PONDOK SALAM",
+  "name": "PARAKANSALAM",
+  "postalCode": "41115"
  },
  {
   "id": 3214091010,
   "districtId": 3214091,
-  "name": "SALAM MULYA"
+  "districtName": "PONDOK SALAM",
+  "name": "SALAM MULYA",
+  "postalCode": ""
  }
 ]

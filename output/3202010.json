@@ -2,46 +2,64 @@
  {
   "id": 3202010001,
   "districtId": 3202010,
-  "name": "CIBENDA"
+  "districtName": "CIEMAS",
+  "name": "CIBENDA",
+  "postalCode": "43177"
  },
  {
   "id": 3202010002,
   "districtId": 3202010,
-  "name": "CIWARU"
+  "districtName": "CIEMAS",
+  "name": "CIWARU",
+  "postalCode": "43177"
  },
  {
   "id": 3202010003,
   "districtId": 3202010,
-  "name": "TAMANJAYA"
+  "districtName": "CIEMAS",
+  "name": "TAMANJAYA",
+  "postalCode": "43177"
  },
  {
   "id": 3202010004,
   "districtId": 3202010,
-  "name": "MEKARJAYA"
+  "districtName": "CIEMAS",
+  "name": "MEKARJAYA",
+  "postalCode": "30653"
  },
  {
   "id": 3202010005,
   "districtId": 3202010,
-  "name": "CIEMAS"
+  "districtName": "CIEMAS",
+  "name": "CIEMAS",
+  "postalCode": "43177"
  },
  {
   "id": 3202010006,
   "districtId": 3202010,
-  "name": "GIRIMUKTI"
+  "districtName": "CIEMAS",
+  "name": "GIRIMUKTI",
+  "postalCode": "46475"
  },
  {
   "id": 3202010007,
   "districtId": 3202010,
-  "name": "MANDRAJAYA"
+  "districtName": "CIEMAS",
+  "name": "MANDRAJAYA",
+  "postalCode": "43177"
  },
  {
   "id": 3202010008,
   "districtId": 3202010,
-  "name": "MEKARSAKTI"
+  "districtName": "CIEMAS",
+  "name": "MEKARSAKTI",
+  "postalCode": "43177"
  },
  {
   "id": 3202010009,
   "districtId": 3202010,
-  "name": "SIDAMULYA"
+  "districtName": "CIEMAS",
+  "name": "SIDAMULYA",
+  "postalCode": "45181"
  }
 ]

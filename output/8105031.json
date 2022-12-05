@@ -2,61 +2,85 @@
  {
   "id": 8105031001,
   "districtId": 8105031,
-  "name": "WARIALAU"
+  "districtName": "ARU UTARA",
+  "name": "WARIALAU",
+  "postalCode": "97662"
  },
  {
   "id": 8105031014,
   "districtId": 8105031,
-  "name": "SELMONA"
+  "districtName": "ARU UTARA",
+  "name": "SELMONA",
+  "postalCode": "97662"
  },
  {
   "id": 8105031015,
   "districtId": 8105031,
-  "name": "MASIDANG"
+  "districtName": "ARU UTARA",
+  "name": "MASIDANG",
+  "postalCode": ""
  },
  {
   "id": 8105031016,
   "districtId": 8105031,
-  "name": "KOLAMAR"
+  "districtName": "ARU UTARA",
+  "name": "KOLAMAR",
+  "postalCode": "97662"
  },
  {
   "id": 8105031017,
   "districtId": 8105031,
-  "name": "MARLASI"
+  "districtName": "ARU UTARA",
+  "name": "MARLASI",
+  "postalCode": "97662"
  },
  {
   "id": 8105031018,
   "districtId": 8105031,
-  "name": "FOKET"
+  "districtName": "ARU UTARA",
+  "name": "FOKET",
+  "postalCode": "97662"
  },
  {
   "id": 8105031020,
   "districtId": 8105031,
-  "name": "WAHAYUM"
+  "districtName": "ARU UTARA",
+  "name": "WAHAYUM",
+  "postalCode": ""
  },
  {
   "id": 8105031021,
   "districtId": 8105031,
-  "name": "JERWATU"
+  "districtName": "ARU UTARA",
+  "name": "JERWATU",
+  "postalCode": "97662"
  },
  {
   "id": 8105031023,
   "districtId": 8105031,
-  "name": "WAHANGULANGULA"
+  "districtName": "ARU UTARA",
+  "name": "WAHANGULANGULA",
+  "postalCode": "97662"
  },
  {
   "id": 8105031024,
   "districtId": 8105031,
-  "name": "KAIBOLAFIN"
+  "districtName": "ARU UTARA",
+  "name": "KAIBOLAFIN",
+  "postalCode": "97662"
  },
  {
   "id": 8105031025,
   "districtId": 8105031,
-  "name": "TASINWAHA"
+  "districtName": "ARU UTARA",
+  "name": "TASINWAHA",
+  "postalCode": ""
  },
  {
   "id": 8105031026,
   "districtId": 8105031,
-  "name": "KABUFIN"
+  "districtName": "ARU UTARA",
+  "name": "KABUFIN",
+  "postalCode": "97662"
  }
 ]

@@ -2,76 +2,106 @@
  {
   "id": 3602130001,
   "districtId": 3602130,
-  "name": "MARAYA"
+  "districtName": "SAJIRA",
+  "name": "MARAYA",
+  "postalCode": "42371"
  },
  {
   "id": 3602130002,
   "districtId": 3602130,
-  "name": "MARGALUYU"
+  "districtName": "SAJIRA",
+  "name": "MARGALUYU",
+  "postalCode": "43263"
  },
  {
   "id": 3602130003,
   "districtId": 3602130,
-  "name": "SUKAMARGA"
+  "districtName": "SAJIRA",
+  "name": "SUKAMARGA",
+  "postalCode": "32274"
  },
  {
   "id": 3602130004,
   "districtId": 3602130,
-  "name": "SINDANGSARI"
+  "districtName": "SAJIRA",
+  "name": "SINDANGSARI",
+  "postalCode": "46383"
  },
  {
   "id": 3602130005,
   "districtId": 3602130,
-  "name": "SAJIRAMEKAR"
+  "districtName": "SAJIRA",
+  "name": "SAJIRAMEKAR",
+  "postalCode": "42371"
  },
  {
   "id": 3602130006,
   "districtId": 3602130,
-  "name": "SAJIRA"
+  "districtName": "SAJIRA",
+  "name": "SAJIRA",
+  "postalCode": "42371"
  },
  {
   "id": 3602130007,
   "districtId": 3602130,
-  "name": "SUKARAME"
+  "districtName": "SAJIRA",
+  "name": "SUKARAME",
+  "postalCode": "24357"
  },
  {
   "id": 3602130008,
   "districtId": 3602130,
-  "name": "CALUNGBUNGUR"
+  "districtName": "SAJIRA",
+  "name": "CALUNGBUNGUR",
+  "postalCode": "42371"
  },
  {
   "id": 3602130009,
   "districtId": 3602130,
-  "name": "SUKAJAYA"
+  "districtName": "SAJIRA",
+  "name": "SUKAJAYA",
+  "postalCode": "30756"
  },
  {
   "id": 3602130010,
   "districtId": 3602130,
-  "name": "PAJA"
+  "districtName": "SAJIRA",
+  "name": "PAJA",
+  "postalCode": "42371"
  },
  {
   "id": 3602130011,
   "districtId": 3602130,
-  "name": "MEKARSARI"
+  "districtName": "SAJIRA",
+  "name": "MEKARSARI",
+  "postalCode": "37482"
  },
  {
   "id": 3602130012,
   "districtId": 3602130,
-  "name": "PAJAGAN"
+  "districtName": "SAJIRA",
+  "name": "PAJAGAN",
+  "postalCode": "45363"
  },
  {
   "id": 3602130013,
   "districtId": 3602130,
-  "name": "PARUNGSARI"
+  "districtName": "SAJIRA",
+  "name": "PARUNGSARI",
+  "postalCode": "41361"
  },
  {
   "id": 3602130014,
   "districtId": 3602130,
-  "name": "BUNGUR MEKAR"
+  "districtName": "SAJIRA",
+  "name": "BUNGUR MEKAR",
+  "postalCode": ""
  },
  {
   "id": 3602130015,
   "districtId": 3602130,
-  "name": "CIUYAH"
+  "districtName": "SAJIRA",
+  "name": "CIUYAH",
+  "postalCode": "45355"
  }
 ]

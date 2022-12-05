@@ -2,61 +2,85 @@
  {
   "id": 6309030001,
   "districtId": 6309030,
-  "name": "TELAGA ITAR"
+  "districtName": "KELUA",
+  "name": "TELAGA ITAR",
+  "postalCode": ""
  },
  {
   "id": 6309030004,
   "districtId": 6309030,
-  "name": "PUDAK SETEGAL"
+  "districtName": "KELUA",
+  "name": "PUDAK SETEGAL",
+  "postalCode": ""
  },
  {
   "id": 6309030007,
   "districtId": 6309030,
-  "name": "BAHUNGIN"
+  "districtName": "KELUA",
+  "name": "BAHUNGIN",
+  "postalCode": "71552"
  },
  {
   "id": 6309030008,
   "districtId": 6309030,
-  "name": "TAKULAT"
+  "districtName": "KELUA",
+  "name": "TAKULAT",
+  "postalCode": "71552"
  },
  {
   "id": 6309030009,
   "districtId": 6309030,
-  "name": "PULAU"
+  "districtName": "KELUA",
+  "name": "PULAU",
+  "postalCode": "28463"
  },
  {
   "id": 6309030010,
   "districtId": 6309030,
-  "name": "MASINTAN"
+  "districtName": "KELUA",
+  "name": "MASINTAN",
+  "postalCode": "71552"
  },
  {
   "id": 6309030011,
   "districtId": 6309030,
-  "name": "PALIAT"
+  "districtName": "KELUA",
+  "name": "PALIAT",
+  "postalCode": "69493"
  },
  {
   "id": 6309030013,
   "districtId": 6309030,
-  "name": "SUNGAI BULUH"
+  "districtName": "KELUA",
+  "name": "SUNGAI BULUH",
+  "postalCode": "25586"
  },
  {
   "id": 6309030015,
   "districtId": 6309030,
-  "name": "BINTURU"
+  "districtName": "KELUA",
+  "name": "BINTURU",
+  "postalCode": "71552"
  },
  {
   "id": 6309030016,
   "districtId": 6309030,
-  "name": "KARANGAN PUTIH"
+  "districtName": "KELUA",
+  "name": "KARANGAN PUTIH",
+  "postalCode": "71552"
  },
  {
   "id": 6309030017,
   "districtId": 6309030,
-  "name": "PASAR PANAS"
+  "districtName": "KELUA",
+  "name": "PASAR PANAS",
+  "postalCode": "71552"
  },
  {
   "id": 6309030018,
   "districtId": 6309030,
-  "name": "AMPUKUNG"
+  "districtName": "KELUA",
+  "name": "AMPUKUNG",
+  "postalCode": "71552"
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 3275020001,
   "districtId": 3275020,
-  "name": "JATISARI"
+  "districtName": "JATIASIH",
+  "name": "JATISARI",
+  "postalCode": "32362"
  },
  {
   "id": 3275020002,
   "districtId": 3275020,
-  "name": "JATILUHUR"
+  "districtName": "JATIASIH",
+  "name": "JATILUHUR",
+  "postalCode": "17425"
  },
  {
   "id": 3275020003,
   "districtId": 3275020,
-  "name": "JATIRASA"
+  "districtName": "JATIASIH",
+  "name": "JATIRASA",
+  "postalCode": "17424"
  },
  {
   "id": 3275020004,
   "districtId": 3275020,
-  "name": "JATIASIH"
+  "districtName": "JATIASIH",
+  "name": "JATIASIH",
+  "postalCode": "17423"
  },
  {
   "id": 3275020005,
   "districtId": 3275020,
-  "name": "JATIMEKAR"
+  "districtName": "JATIASIH",
+  "name": "JATIMEKAR",
+  "postalCode": "40558"
  },
  {
   "id": 3275020006,
   "districtId": 3275020,
-  "name": "JATIKRAMAT"
+  "districtName": "JATIASIH",
+  "name": "JATIKRAMAT",
+  "postalCode": "17421"
  }
 ]

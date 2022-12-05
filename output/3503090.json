@@ -2,71 +2,99 @@
  {
   "id": 3503090001,
   "districtId": 3503090,
-  "name": "NGADISUKO"
+  "districtName": "DURENAN",
+  "name": "NGADISUKO",
+  "postalCode": "66381"
  },
  {
   "id": 3503090002,
   "districtId": 3503090,
-  "name": "DURENAN"
+  "districtName": "DURENAN",
+  "name": "DURENAN",
+  "postalCode": "66381"
  },
  {
   "id": 3503090003,
   "districtId": 3503090,
-  "name": "PANDEAN"
+  "districtName": "DURENAN",
+  "name": "PANDEAN",
+  "postalCode": "56194"
  },
  {
   "id": 3503090004,
   "districtId": 3503090,
-  "name": "PANGGUNGSARI"
+  "districtName": "DURENAN",
+  "name": "PANGGUNGSARI",
+  "postalCode": "66381"
  },
  {
   "id": 3503090005,
   "districtId": 3503090,
-  "name": "MALASAN"
+  "districtName": "DURENAN",
+  "name": "MALASAN",
+  "postalCode": "66381"
  },
  {
   "id": 3503090006,
   "districtId": 3503090,
-  "name": "KARANGANOM"
+  "districtName": "DURENAN",
+  "name": "KARANGANOM",
+  "postalCode": "54264"
  },
  {
   "id": 3503090007,
   "districtId": 3503090,
-  "name": "BARUHARJO"
+  "districtName": "DURENAN",
+  "name": "BARUHARJO",
+  "postalCode": "66381"
  },
  {
   "id": 3503090008,
   "districtId": 3503090,
-  "name": "KAMULAN"
+  "districtName": "DURENAN",
+  "name": "KAMULAN",
+  "postalCode": "66381"
  },
  {
   "id": 3503090009,
   "districtId": 3503090,
-  "name": "SUMBERGAYAM"
+  "districtName": "DURENAN",
+  "name": "SUMBERGAYAM",
+  "postalCode": "59273"
  },
  {
   "id": 3503090010,
   "districtId": 3503090,
-  "name": "PAKIS"
+  "districtName": "DURENAN",
+  "name": "PAKIS",
+  "postalCode": "50772"
  },
  {
   "id": 3503090011,
   "districtId": 3503090,
-  "name": "SEMARUM"
+  "districtName": "DURENAN",
+  "name": "SEMARUM",
+  "postalCode": "66381"
  },
  {
   "id": 3503090012,
   "districtId": 3503090,
-  "name": "KENDALREJO"
+  "districtName": "DURENAN",
+  "name": "KENDALREJO",
+  "postalCode": "52362"
  },
  {
   "id": 3503090013,
   "districtId": 3503090,
-  "name": "GADOR"
+  "districtName": "DURENAN",
+  "name": "GADOR",
+  "postalCode": "66381"
  },
  {
   "id": 3503090014,
   "districtId": 3503090,
-  "name": "SUMBEREJO"
+  "districtName": "DURENAN",
+  "name": "SUMBEREJO",
+  "postalCode": "20551"
  }
 ]

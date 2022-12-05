@@ -2,91 +2,127 @@
  {
   "id": 3528020001,
   "districtId": 3528020,
-  "name": "BADDURIH"
+  "districtName": "PADEMAWU",
+  "name": "BADDURIH",
+  "postalCode": "69323"
  },
  {
   "id": 3528020002,
   "districtId": 3528020,
-  "name": "PAGAGAN"
+  "districtName": "PADEMAWU",
+  "name": "PAGAGAN",
+  "postalCode": "69323"
  },
  {
   "id": 3528020003,
   "districtId": 3528020,
-  "name": "MAJUNGAN"
+  "districtName": "PADEMAWU",
+  "name": "MAJUNGAN",
+  "postalCode": "69323"
  },
  {
   "id": 3528020004,
   "districtId": 3528020,
-  "name": "PADELEGAN"
+  "districtName": "PADEMAWU",
+  "name": "PADELEGAN",
+  "postalCode": ""
  },
  {
   "id": 3528020005,
   "districtId": 3528020,
-  "name": "TANJUNG"
+  "districtName": "PADEMAWU",
+  "name": "TANJUNG",
+  "postalCode": "24562"
  },
  {
   "id": 3528020006,
   "districtId": 3528020,
-  "name": "PADEMAWU TIMUR"
+  "districtName": "PADEMAWU",
+  "name": "PADEMAWU TIMUR",
+  "postalCode": "69323"
  },
  {
   "id": 3528020007,
   "districtId": 3528020,
-  "name": "JARIN"
+  "districtName": "PADEMAWU",
+  "name": "JARIN",
+  "postalCode": "69323"
  },
  {
   "id": 3528020009,
   "districtId": 3528020,
-  "name": "SOPA'AH"
+  "districtName": "PADEMAWU",
+  "name": "SOPA'AH",
+  "postalCode": ""
  },
  {
   "id": 3528020010,
   "districtId": 3528020,
-  "name": "BUDDIH"
+  "districtName": "PADEMAWU",
+  "name": "BUDDIH",
+  "postalCode": "69323"
  },
  {
   "id": 3528020012,
   "districtId": 3528020,
-  "name": "SUMEDANGAN"
+  "districtName": "PADEMAWU",
+  "name": "SUMEDANGAN",
+  "postalCode": "69323"
  },
  {
   "id": 3528020013,
   "districtId": 3528020,
-  "name": "PADEMAWU BARAT"
+  "districtName": "PADEMAWU",
+  "name": "PADEMAWU BARAT",
+  "postalCode": "69323"
  },
  {
   "id": 3528020015,
   "districtId": 3528020,
-  "name": "DASOK"
+  "districtName": "PADEMAWU",
+  "name": "DASOK",
+  "postalCode": "69323"
  },
  {
   "id": 3528020016,
   "districtId": 3528020,
-  "name": "MURTAJIH"
+  "districtName": "PADEMAWU",
+  "name": "MURTAJIH",
+  "postalCode": "69323"
  },
  {
   "id": 3528020018,
   "districtId": 3528020,
-  "name": "BARURAMBAT TIMUR"
+  "districtName": "PADEMAWU",
+  "name": "BARURAMBAT TIMUR",
+  "postalCode": "69321"
  },
  {
   "id": 3528020019,
   "districtId": 3528020,
-  "name": "LAWANGAN DAYA"
+  "districtName": "PADEMAWU",
+  "name": "LAWANGAN DAYA",
+  "postalCode": "69323"
  },
  {
   "id": 3528020020,
   "districtId": 3528020,
-  "name": "BUDDAGAN"
+  "districtName": "PADEMAWU",
+  "name": "BUDDAGAN",
+  "postalCode": ""
  },
  {
   "id": 3528020021,
   "districtId": 3528020,
-  "name": "TAMBUNG"
+  "districtName": "PADEMAWU",
+  "name": "TAMBUNG",
+  "postalCode": "69323"
  },
  {
   "id": 3528020022,
   "districtId": 3528020,
-  "name": "SENTOL"
+  "districtName": "PADEMAWU",
+  "name": "SENTOL",
+  "postalCode": "69323"
  }
 ]

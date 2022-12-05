@@ -2,36 +2,50 @@
  {
   "id": 3509120001,
   "districtId": 3509120,
-  "name": "CURAHMALANG"
+  "districtName": "RAMBIPUJI",
+  "name": "CURAHMALANG",
+  "postalCode": "68152"
  },
  {
   "id": 3509120002,
   "districtId": 3509120,
-  "name": "NOGOSARI"
+  "districtName": "RAMBIPUJI",
+  "name": "NOGOSARI",
+  "postalCode": "63572"
  },
  {
   "id": 3509120003,
   "districtId": 3509120,
-  "name": "ROWOTAMTU"
+  "districtName": "RAMBIPUJI",
+  "name": "ROWOTAMTU",
+  "postalCode": "68152"
  },
  {
   "id": 3509120004,
   "districtId": 3509120,
-  "name": "PECORO"
+  "districtName": "RAMBIPUJI",
+  "name": "PECORO",
+  "postalCode": "68152"
  },
  {
   "id": 3509120005,
   "districtId": 3509120,
-  "name": "RAMBIPUJI"
+  "districtName": "RAMBIPUJI",
+  "name": "RAMBIPUJI",
+  "postalCode": "68152"
  },
  {
   "id": 3509120006,
   "districtId": 3509120,
-  "name": "KALIWINING"
+  "districtName": "RAMBIPUJI",
+  "name": "KALIWINING",
+  "postalCode": "68152"
  },
  {
   "id": 3509120007,
   "districtId": 3509120,
-  "name": "RAMBIGUNDAM"
+  "districtName": "RAMBIPUJI",
+  "name": "RAMBIGUNDAM",
+  "postalCode": "68152"
  }
 ]

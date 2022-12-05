@@ -2,46 +2,64 @@
  {
   "id": 9416049001,
   "districtId": 9416049,
-  "name": "UKHA"
+  "districtName": "UKHA",
+  "name": "UKHA",
+  "postalCode": "99571"
  },
  {
   "id": 9416049003,
   "districtId": 9416049,
-  "name": "AMISANGI"
+  "districtName": "UKHA",
+  "name": "AMISANGI",
+  "postalCode": "99571"
  },
  {
   "id": 9416049004,
   "districtId": 9416049,
-  "name": "WENAPUK"
+  "districtName": "UKHA",
+  "name": "WENAPUK",
+  "postalCode": "99571"
  },
  {
   "id": 9416049005,
   "districtId": 9416049,
-  "name": "EKI"
+  "districtName": "UKHA",
+  "name": "EKI",
+  "postalCode": "99571"
  },
  {
   "id": 9416049007,
   "districtId": 9416049,
-  "name": "SIOLOREMA"
+  "districtName": "UKHA",
+  "name": "SIOLOREMA",
+  "postalCode": "99571"
  },
  {
   "id": 9416049008,
   "districtId": 9416049,
-  "name": "MUSANAREK"
+  "districtName": "UKHA",
+  "name": "MUSANAREK",
+  "postalCode": "99571"
  },
  {
   "id": 9416049009,
   "districtId": 9416049,
-  "name": "WALIAGELEMA"
+  "districtName": "UKHA",
+  "name": "WALIAGELEMA",
+  "postalCode": ""
  },
  {
   "id": 9416049010,
   "districtId": 9416049,
-  "name": "LUA"
+  "districtName": "UKHA",
+  "name": "LUA",
+  "postalCode": "99571"
  },
  {
   "id": 9416049011,
   "districtId": 9416049,
-  "name": "WAKUNYAMA"
+  "districtName": "UKHA",
+  "name": "WAKUNYAMA",
+  "postalCode": "99571"
  }
 ]

@@ -2,16 +2,22 @@
  {
   "id": 9433071001,
   "districtId": 9433071,
-  "name": "BABE"
+  "districtName": "BEOGA BARAT",
+  "name": "BABE",
+  "postalCode": "98971"
  },
  {
   "id": 9433071002,
   "districtId": 9433071,
-  "name": "NUNGAI"
+  "districtName": "BEOGA BARAT",
+  "name": "NUNGAI",
+  "postalCode": "98971"
  },
  {
   "id": 9433071004,
   "districtId": 9433071,
-  "name": "KELMABET"
+  "districtName": "BEOGA BARAT",
+  "name": "KELMABET",
+  "postalCode": ""
  }
 ]

@@ -2,21 +2,29 @@
  {
   "id": 7271011002,
   "districtId": 7271011,
-  "name": "PENGAWU"
+  "districtName": "TATANGA",
+  "name": "PENGAWU",
+  "postalCode": "94239"
  },
  {
   "id": 7271011003,
   "districtId": 7271011,
-  "name": "PALUPI"
+  "districtName": "TATANGA",
+  "name": "PALUPI",
+  "postalCode": "94238"
  },
  {
   "id": 7271011004,
   "districtId": 7271011,
-  "name": "TAWANJUKA"
+  "districtName": "TATANGA",
+  "name": "TAWANJUKA",
+  "postalCode": "94237"
  },
  {
   "id": 7271011005,
   "districtId": 7271011,
-  "name": "BOYAOGE"
+  "districtName": "TATANGA",
+  "name": "BOYAOGE",
+  "postalCode": "94221"
  }
 ]

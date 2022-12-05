@@ -2,31 +2,43 @@
  {
   "id": 1471070001,
   "districtId": 1471070,
-  "name": "PADANG BULAN"
+  "districtName": "SENAPELAN",
+  "name": "PADANG BULAN",
+  "postalCode": "22994"
  },
  {
   "id": 1471070002,
   "districtId": 1471070,
-  "name": "PADANG TERUBUK"
+  "districtName": "SENAPELAN",
+  "name": "PADANG TERUBUK",
+  "postalCode": "28155"
  },
  {
   "id": 1471070003,
   "districtId": 1471070,
-  "name": "SAGO"
+  "districtName": "SENAPELAN",
+  "name": "SAGO",
+  "postalCode": "28151"
  },
  {
   "id": 1471070004,
   "districtId": 1471070,
-  "name": "KAMPUNG DALAM"
+  "districtName": "SENAPELAN",
+  "name": "KAMPUNG DALAM",
+  "postalCode": "21451"
  },
  {
   "id": 1471070005,
   "districtId": 1471070,
-  "name": "KAMPUNG BANDAR"
+  "districtName": "SENAPELAN",
+  "name": "KAMPUNG BANDAR",
+  "postalCode": "28153"
  },
  {
   "id": 1471070006,
   "districtId": 1471070,
-  "name": "KAMPUNG BARU"
+  "districtName": "SENAPELAN",
+  "name": "KAMPUNG BARU",
+  "postalCode": "24652"
  }
 ]

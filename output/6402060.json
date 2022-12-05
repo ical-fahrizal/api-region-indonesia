@@ -2,81 +2,113 @@
  {
   "id": 6402060001,
   "districtId": 6402060,
-  "name": "BESIK"
+  "districtName": "DAMAI",
+  "name": "BESIK",
+  "postalCode": ""
  },
  {
   "id": 6402060002,
   "districtId": 6402060,
-  "name": "BERMAI"
+  "districtName": "DAMAI",
+  "name": "BERMAI",
+  "postalCode": "75777"
  },
  {
   "id": 6402060003,
   "districtId": 6402060,
-  "name": "MUARA NILIK"
+  "districtName": "DAMAI",
+  "name": "MUARA NILIK",
+  "postalCode": "75777"
  },
  {
   "id": 6402060004,
   "districtId": 6402060,
-  "name": "MANTAR"
+  "districtName": "DAMAI",
+  "name": "MANTAR",
+  "postalCode": "84454"
  },
  {
   "id": 6402060005,
   "districtId": 6402060,
-  "name": "MUARA BOMBOY"
+  "districtName": "DAMAI",
+  "name": "MUARA BOMBOY",
+  "postalCode": "75777"
  },
  {
   "id": 6402060006,
   "districtId": 6402060,
-  "name": "DAMAI SEBERANG"
+  "districtName": "DAMAI",
+  "name": "DAMAI SEBERANG",
+  "postalCode": "75777"
  },
  {
   "id": 6402060007,
   "districtId": 6402060,
-  "name": "MENDIKA"
+  "districtName": "DAMAI",
+  "name": "MENDIKA",
+  "postalCode": "75777"
  },
  {
   "id": 6402060008,
   "districtId": 6402060,
-  "name": "DAMAI KOTA"
+  "districtName": "DAMAI",
+  "name": "DAMAI KOTA",
+  "postalCode": "75777"
  },
  {
   "id": 6402060009,
   "districtId": 6402060,
-  "name": "LUMPAT DAHUQ"
+  "districtName": "DAMAI",
+  "name": "LUMPAT DAHUQ",
+  "postalCode": "75777"
  },
  {
   "id": 6402060010,
   "districtId": 6402060,
-  "name": "MUARA TOKONG"
+  "districtName": "DAMAI",
+  "name": "MUARA TOKONG",
+  "postalCode": "75777"
  },
  {
   "id": 6402060011,
   "districtId": 6402060,
-  "name": "JENGAN DANUM"
+  "districtName": "DAMAI",
+  "name": "JENGAN DANUM",
+  "postalCode": "75777"
  },
  {
   "id": 6402060012,
   "districtId": 6402060,
-  "name": "KEAY"
+  "districtName": "DAMAI",
+  "name": "KEAY",
+  "postalCode": "75777"
  },
  {
   "id": 6402060013,
   "districtId": 6402060,
-  "name": "TEPULANG"
+  "districtName": "DAMAI",
+  "name": "TEPULANG",
+  "postalCode": "75777"
  },
  {
   "id": 6402060015,
   "districtId": 6402060,
-  "name": "MUARA NYAHING"
+  "districtName": "DAMAI",
+  "name": "MUARA NYAHING",
+  "postalCode": "75777"
  },
  {
   "id": 6402060016,
   "districtId": 6402060,
-  "name": "SEMPATN"
+  "districtName": "DAMAI",
+  "name": "SEMPATN",
+  "postalCode": "75777"
  },
  {
   "id": 6402060017,
   "districtId": 6402060,
-  "name": "KELIAN"
+  "districtName": "DAMAI",
+  "name": "KELIAN",
+  "postalCode": ""
  }
 ]

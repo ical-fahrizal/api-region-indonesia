@@ -2,61 +2,85 @@
  {
   "id": 7403180012,
   "districtId": 7403180,
-  "name": "KUMAPO"
+  "districtName": "ABUKI",
+  "name": "KUMAPO",
+  "postalCode": "93452"
  },
  {
   "id": 7403180013,
   "districtId": 7403180,
-  "name": "WALAY"
+  "districtName": "ABUKI",
+  "name": "WALAY",
+  "postalCode": "93452"
  },
  {
   "id": 7403180014,
   "districtId": 7403180,
-  "name": "EPEEA"
+  "districtName": "ABUKI",
+  "name": "EPEEA",
+  "postalCode": ""
  },
  {
   "id": 7403180015,
   "districtId": 7403180,
-  "name": "UNAASI JAYA"
+  "districtName": "ABUKI",
+  "name": "UNAASI JAYA",
+  "postalCode": ""
  },
  {
   "id": 7403180016,
   "districtId": 7403180,
-  "name": "SAMBEANI"
+  "districtName": "ABUKI",
+  "name": "SAMBEANI",
+  "postalCode": "93452"
  },
  {
   "id": 7403180017,
   "districtId": 7403180,
-  "name": "PUNGGALUKU"
+  "districtName": "ABUKI",
+  "name": "PUNGGALUKU",
+  "postalCode": "93452"
  },
  {
   "id": 7403180018,
   "districtId": 7403180,
-  "name": "ABUKI"
+  "districtName": "ABUKI",
+  "name": "ABUKI",
+  "postalCode": "93452"
  },
  {
   "id": 7403180025,
   "districtId": 7403180,
-  "name": "ASOLU"
+  "districtName": "ABUKI",
+  "name": "ASOLU",
+  "postalCode": "93452"
  },
  {
   "id": 7403180035,
   "districtId": 7403180,
-  "name": "PADANGGUNI UTAMA"
+  "districtName": "ABUKI",
+  "name": "PADANGGUNI UTAMA",
+  "postalCode": "93452"
  },
  {
   "id": 7403180042,
   "districtId": 7403180,
-  "name": "ARUBIA"
+  "districtName": "ABUKI",
+  "name": "ARUBIA",
+  "postalCode": "93452"
  },
  {
   "id": 7403180043,
   "districtId": 7403180,
-  "name": "KASUWURA"
+  "districtName": "ABUKI",
+  "name": "KASUWURA",
+  "postalCode": ""
  },
  {
   "id": 7403180044,
   "districtId": 7403180,
-  "name": "ANGGORO"
+  "districtName": "ABUKI",
+  "name": "ANGGORO",
+  "postalCode": ""
  }
 ]

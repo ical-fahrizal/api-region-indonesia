@@ -2,21 +2,29 @@
  {
   "id": 1271030003,
   "districtId": 1271030,
-  "name": "AEK HABIL"
+  "districtName": "SIBOLGA SELATAN",
+  "name": "AEK HABIL",
+  "postalCode": "22533"
  },
  {
   "id": 1271030006,
   "districtId": 1271030,
-  "name": "AEK MANIS"
+  "districtName": "SIBOLGA SELATAN",
+  "name": "AEK MANIS",
+  "postalCode": "22536"
  },
  {
   "id": 1271030007,
   "districtId": 1271030,
-  "name": "AEK PAROMBUNAN"
+  "districtName": "SIBOLGA SELATAN",
+  "name": "AEK PAROMBUNAN",
+  "postalCode": "22538"
  },
  {
   "id": 1271030008,
   "districtId": 1271030,
-  "name": "AEK MUARA PINANG"
+  "districtName": "SIBOLGA SELATAN",
+  "name": "AEK MUARA PINANG",
+  "postalCode": "22537"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 3401060001,
   "districtId": 3401060,
-  "name": "DEMANGREJO"
+  "districtName": "SENTOLO",
+  "name": "DEMANGREJO",
+  "postalCode": "55664"
  },
  {
   "id": 3401060002,
   "districtId": 3401060,
-  "name": "SRIKAYANGAN"
+  "districtName": "SENTOLO",
+  "name": "SRIKAYANGAN",
+  "postalCode": "55664"
  },
  {
   "id": 3401060003,
   "districtId": 3401060,
-  "name": "TUKSONO"
+  "districtName": "SENTOLO",
+  "name": "TUKSONO",
+  "postalCode": "55664"
  },
  {
   "id": 3401060004,
   "districtId": 3401060,
-  "name": "SALAMREJO"
+  "districtName": "SENTOLO",
+  "name": "SALAMREJO",
+  "postalCode": "56262"
  },
  {
   "id": 3401060005,
   "districtId": 3401060,
-  "name": "SUKORENO"
+  "districtName": "SENTOLO",
+  "name": "SUKORENO",
+  "postalCode": "56364"
  },
  {
   "id": 3401060006,
   "districtId": 3401060,
-  "name": "KALIAGUNG"
+  "districtName": "SENTOLO",
+  "name": "KALIAGUNG",
+  "postalCode": "55664"
  },
  {
   "id": 3401060007,
   "districtId": 3401060,
-  "name": "SENTOLO"
+  "districtName": "SENTOLO",
+  "name": "SENTOLO",
+  "postalCode": "55664"
  },
  {
   "id": 3401060008,
   "districtId": 3401060,
-  "name": "BANGUNCIPTO"
+  "districtName": "SENTOLO",
+  "name": "BANGUNCIPTO",
+  "postalCode": "55664"
  }
 ]

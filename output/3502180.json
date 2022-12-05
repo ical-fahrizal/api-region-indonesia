@@ -2,71 +2,99 @@
  {
   "id": 3502180001,
   "districtId": 3502180,
-  "name": "KERTOSARI"
+  "districtName": "BABADAN",
+  "name": "KERTOSARI",
+  "postalCode": "31668"
  },
  {
   "id": 3502180002,
   "districtId": 3502180,
-  "name": "CEKOK"
+  "districtName": "BABADAN",
+  "name": "CEKOK",
+  "postalCode": "63491"
  },
  {
   "id": 3502180003,
   "districtId": 3502180,
-  "name": "PATIHAN WETAN"
+  "districtName": "BABADAN",
+  "name": "PATIHAN WETAN",
+  "postalCode": "63491"
  },
  {
   "id": 3502180004,
   "districtId": 3502180,
-  "name": "KADIPATEN"
+  "districtName": "BABADAN",
+  "name": "KADIPATEN",
+  "postalCode": "45452"
  },
  {
   "id": 3502180005,
   "districtId": 3502180,
-  "name": "JAPAN"
+  "districtName": "BABADAN",
+  "name": "JAPAN",
+  "postalCode": "59353"
  },
  {
   "id": 3502180006,
   "districtId": 3502180,
-  "name": "GUPOLO"
+  "districtName": "BABADAN",
+  "name": "GUPOLO",
+  "postalCode": "63491"
  },
  {
   "id": 3502180007,
   "districtId": 3502180,
-  "name": "POLOREJO"
+  "districtName": "BABADAN",
+  "name": "POLOREJO",
+  "postalCode": "63491"
  },
  {
   "id": 3502180008,
   "districtId": 3502180,
-  "name": "BARENG"
+  "districtName": "BABADAN",
+  "name": "BARENG",
+  "postalCode": "57414"
  },
  {
   "id": 3502180010,
   "districtId": 3502180,
-  "name": "SUKOSARI"
+  "districtName": "BABADAN",
+  "name": "SUKOSARI",
+  "postalCode": "32382"
  },
  {
   "id": 3502180011,
   "districtId": 3502180,
-  "name": "LEMBAH"
+  "districtName": "BABADAN",
+  "name": "LEMBAH",
+  "postalCode": "63491"
  },
  {
   "id": 3502180012,
   "districtId": 3502180,
-  "name": "PONDOK"
+  "districtName": "BABADAN",
+  "name": "PONDOK",
+  "postalCode": "37175"
  },
  {
   "id": 3502180013,
   "districtId": 3502180,
-  "name": "BABADAN"
+  "districtName": "BABADAN",
+  "name": "BABADAN",
+  "postalCode": "45151"
  },
  {
   "id": 3502180014,
   "districtId": 3502180,
-  "name": "PURWOSARI"
+  "districtName": "BABADAN",
+  "name": "PURWOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 3502180015,
   "districtId": 3502180,
-  "name": "TRISONO"
+  "districtName": "BABADAN",
+  "name": "TRISONO",
+  "postalCode": "63491"
  }
 ]

@@ -2,71 +2,99 @@
  {
   "id": 1608050013,
   "districtId": 1608050,
-  "name": "SUKABANJAR"
+  "districtName": "MUARADUA",
+  "name": "SUKABANJAR",
+  "postalCode": "35366"
  },
  {
   "id": 1608050014,
   "districtId": 1608050,
-  "name": "SUKARAJA II"
+  "districtName": "MUARADUA",
+  "name": "SUKARAJA II",
+  "postalCode": ""
  },
  {
   "id": 1608050017,
   "districtId": 1608050,
-  "name": "BUMI AGUNG"
+  "districtName": "MUARADUA",
+  "name": "BUMI AGUNG",
+  "postalCode": "31521"
  },
  {
   "id": 1608050018,
   "districtId": 1608050,
-  "name": "BATU BELANG JAYA"
+  "districtName": "MUARADUA",
+  "name": "BATU BELANG JAYA",
+  "postalCode": "32211"
  },
  {
   "id": 1608050019,
   "districtId": 1608050,
-  "name": "KISAU"
+  "districtName": "MUARADUA",
+  "name": "KISAU",
+  "postalCode": "32211"
  },
  {
   "id": 1608050020,
   "districtId": 1608050,
-  "name": "PANCUR PUNGAH"
+  "districtName": "MUARADUA",
+  "name": "PANCUR PUNGAH",
+  "postalCode": "32211"
  },
  {
   "id": 1608050021,
   "districtId": 1608050,
-  "name": "PASAR MUARADUA"
+  "districtName": "MUARADUA",
+  "name": "PASAR MUARADUA",
+  "postalCode": "32211"
  },
  {
   "id": 1608050022,
   "districtId": 1608050,
-  "name": "GUNUNG TIGA"
+  "districtName": "MUARADUA",
+  "name": "GUNUNG TIGA",
+  "postalCode": "32211"
  },
  {
   "id": 1608050023,
   "districtId": 1608050,
-  "name": "GEDUNG LEPIHAN"
+  "districtName": "MUARADUA",
+  "name": "GEDUNG LEPIHAN",
+  "postalCode": "32211"
  },
  {
   "id": 1608050058,
   "districtId": 1608050,
-  "name": "PENDAGAN"
+  "districtName": "MUARADUA",
+  "name": "PENDAGAN",
+  "postalCode": "32211"
  },
  {
   "id": 1608050059,
   "districtId": 1608050,
-  "name": "MEHANGGIN"
+  "districtName": "MUARADUA",
+  "name": "MEHANGGIN",
+  "postalCode": "32211"
  },
  {
   "id": 1608050064,
   "districtId": 1608050,
-  "name": "BATU BELANG 2"
+  "districtName": "MUARADUA",
+  "name": "BATU BELANG 2",
+  "postalCode": ""
  },
  {
   "id": 1608050065,
   "districtId": 1608050,
-  "name": "PELANGKI"
+  "districtName": "MUARADUA",
+  "name": "PELANGKI",
+  "postalCode": "37311"
  },
  {
   "id": 1608050066,
   "districtId": 1608050,
-  "name": "DATAR"
+  "districtName": "MUARADUA",
+  "name": "DATAR",
+  "postalCode": "37216"
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 5316010008,
   "districtId": 5316010,
-  "name": "ANAKALANG"
+  "districtName": "KATIKUTANA",
+  "name": "ANAKALANG",
+  "postalCode": "87282"
  },
  {
   "id": 5316010009,
   "districtId": 5316010,
-  "name": "MAKATA KERI"
+  "districtName": "KATIKUTANA",
+  "name": "MAKATA KERI",
+  "postalCode": "87282"
  },
  {
   "id": 5316010010,
   "districtId": 5316010,
-  "name": "UMBU RIRI"
+  "districtName": "KATIKUTANA",
+  "name": "UMBU RIRI",
+  "postalCode": "87282"
  },
  {
   "id": 5316010011,
   "districtId": 5316010,
-  "name": "MATA WOGA"
+  "districtName": "KATIKUTANA",
+  "name": "MATA WOGA",
+  "postalCode": "87282"
  },
  {
   "id": 5316010012,
   "districtId": 5316010,
-  "name": "KABELA WUNTU"
+  "districtName": "KATIKUTANA",
+  "name": "KABELA WUNTU",
+  "postalCode": "87282"
  },
  {
   "id": 5316010013,
   "districtId": 5316010,
-  "name": "DEWA JARA"
+  "districtName": "KATIKUTANA",
+  "name": "DEWA JARA",
+  "postalCode": "87282"
  },
  {
   "id": 5316010014,
   "districtId": 5316010,
-  "name": "MATA REDI"
+  "districtName": "KATIKUTANA",
+  "name": "MATA REDI",
+  "postalCode": "87282"
  }
 ]

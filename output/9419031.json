@@ -2,26 +2,36 @@
  {
   "id": 9419031004,
   "districtId": 9419031,
-  "name": "TARONTA"
+  "districtName": "BONGGO",
+  "name": "TARONTA",
+  "postalCode": ""
  },
  {
   "id": 9419031005,
   "districtId": 9419031,
-  "name": "ARMOPA"
+  "districtName": "BONGGO",
+  "name": "ARMOPA",
+  "postalCode": "99355"
  },
  {
   "id": 9419031007,
   "districtId": 9419031,
-  "name": "BEBON JAYA"
+  "districtName": "BONGGO",
+  "name": "BEBON JAYA",
+  "postalCode": "99355"
  },
  {
   "id": 9419031011,
   "districtId": 9419031,
-  "name": "TETOM"
+  "districtName": "BONGGO",
+  "name": "TETOM",
+  "postalCode": "99355"
  },
  {
   "id": 9419031013,
   "districtId": 9419031,
-  "name": "NARUM"
+  "districtName": "BONGGO",
+  "name": "NARUM",
+  "postalCode": ""
  }
 ]

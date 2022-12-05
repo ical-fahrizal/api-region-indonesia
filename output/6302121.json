@@ -2,46 +2,64 @@
  {
   "id": 6302121001,
   "districtId": 6302121,
-  "name": "TARJUN"
+  "districtName": "KELUMPANG HILIR",
+  "name": "TARJUN",
+  "postalCode": "72161"
  },
  {
   "id": 6302121002,
   "districtId": 6302121,
-  "name": "MANDALA"
+  "districtName": "KELUMPANG HILIR",
+  "name": "MANDALA",
+  "postalCode": "45652"
  },
  {
   "id": 6302121003,
   "districtId": 6302121,
-  "name": "LANGADAI"
+  "districtName": "KELUMPANG HILIR",
+  "name": "LANGADAI",
+  "postalCode": "72161"
  },
  {
   "id": 6302121004,
   "districtId": 6302121,
-  "name": "PELAJU BARU"
+  "districtName": "KELUMPANG HILIR",
+  "name": "PELAJU BARU",
+  "postalCode": "72161"
  },
  {
   "id": 6302121005,
   "districtId": 6302121,
-  "name": "SERONGGA"
+  "districtName": "KELUMPANG HILIR",
+  "name": "SERONGGA",
+  "postalCode": "80515"
  },
  {
   "id": 6302121006,
   "districtId": 6302121,
-  "name": "TEGAL REJO"
+  "districtName": "KELUMPANG HILIR",
+  "name": "TEGAL REJO",
+  "postalCode": "20237"
  },
  {
   "id": 6302121007,
   "districtId": 6302121,
-  "name": "TELAGA SARI"
+  "districtName": "KELUMPANG HILIR",
+  "name": "TELAGA SARI",
+  "postalCode": "20351"
  },
  {
   "id": 6302121008,
   "districtId": 6302121,
-  "name": "PULAU PANCI"
+  "districtName": "KELUMPANG HILIR",
+  "name": "PULAU PANCI",
+  "postalCode": "72161"
  },
  {
   "id": 6302121009,
   "districtId": 6302121,
-  "name": "SAHAPI"
+  "districtName": "KELUMPANG HILIR",
+  "name": "SAHAPI",
+  "postalCode": "72161"
  }
 ]

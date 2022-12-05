@@ -2,26 +2,36 @@
  {
   "id": 3404160001,
   "districtId": 3404160,
-  "name": "PURWO BINANGUN"
+  "districtName": "PAKEM",
+  "name": "PURWO BINANGUN",
+  "postalCode": "55582"
  },
  {
   "id": 3404160002,
   "districtId": 3404160,
-  "name": "CANDI BINANGUN"
+  "districtName": "PAKEM",
+  "name": "CANDI BINANGUN",
+  "postalCode": "55582"
  },
  {
   "id": 3404160003,
   "districtId": 3404160,
-  "name": "HARJO BINANGUN"
+  "districtName": "PAKEM",
+  "name": "HARJO BINANGUN",
+  "postalCode": "55582"
  },
  {
   "id": 3404160004,
   "districtId": 3404160,
-  "name": "PAKEM BINANGUN"
+  "districtName": "PAKEM",
+  "name": "PAKEM BINANGUN",
+  "postalCode": "55582"
  },
  {
   "id": 3404160005,
   "districtId": 3404160,
-  "name": "HARGO BINANGUN"
+  "districtName": "PAKEM",
+  "name": "HARGO BINANGUN",
+  "postalCode": "38886"
  }
 ]

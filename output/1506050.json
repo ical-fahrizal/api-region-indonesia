@@ -2,51 +2,71 @@
  {
   "id": 1506050001,
   "districtId": 1506050,
-  "name": "SUNGAI RAYA"
+  "districtName": "NIPAH PANJANG",
+  "name": "SUNGAI RAYA",
+  "postalCode": "22254"
  },
  {
   "id": 1506050002,
   "districtId": 1506050,
-  "name": "TELUK KIJING"
+  "districtName": "NIPAH PANJANG",
+  "name": "TELUK KIJING",
+  "postalCode": "36771"
  },
  {
   "id": 1506050003,
   "districtId": 1506050,
-  "name": "PEMUSIRAN"
+  "districtName": "NIPAH PANJANG",
+  "name": "PEMUSIRAN",
+  "postalCode": "37492"
  },
  {
   "id": 1506050004,
   "districtId": 1506050,
-  "name": "NIPAH PANJANG I"
+  "districtName": "NIPAH PANJANG",
+  "name": "NIPAH PANJANG I",
+  "postalCode": "36771"
  },
  {
   "id": 1506050005,
   "districtId": 1506050,
-  "name": "NIPAH PANJANG II"
+  "districtName": "NIPAH PANJANG",
+  "name": "NIPAH PANJANG II",
+  "postalCode": "36771"
  },
  {
   "id": 1506050006,
   "districtId": 1506050,
-  "name": "SIMPANG DATUK"
+  "districtName": "NIPAH PANJANG",
+  "name": "SIMPANG DATUK",
+  "postalCode": "36771"
  },
  {
   "id": 1506050007,
   "districtId": 1506050,
-  "name": "SIMPANG JELITA"
+  "districtName": "NIPAH PANJANG",
+  "name": "SIMPANG JELITA",
+  "postalCode": "36771"
  },
  {
   "id": 1506050008,
   "districtId": 1506050,
-  "name": "BUNGA TANJUNG"
+  "districtName": "NIPAH PANJANG",
+  "name": "BUNGA TANJUNG",
+  "postalCode": "24782"
  },
  {
   "id": 1506050009,
   "districtId": 1506050,
-  "name": "SUNGAI TERING"
+  "districtName": "NIPAH PANJANG",
+  "name": "SUNGAI TERING",
+  "postalCode": "36771"
  },
  {
   "id": 1506050010,
   "districtId": 1506050,
-  "name": "SUNGAI JERUK"
+  "districtName": "NIPAH PANJANG",
+  "name": "SUNGAI JERUK",
+  "postalCode": "36771"
  }
 ]

@@ -2,71 +2,99 @@
  {
   "id": 1213170001,
   "districtId": 1213170,
-  "name": "HARAPAN JAYA"
+  "districtName": "SEI LEPAN",
+  "name": "HARAPAN JAYA",
+  "postalCode": "20773"
  },
  {
   "id": 1213170002,
   "districtId": 1213170,
-  "name": "TELAGA SAID"
+  "districtName": "SEI LEPAN",
+  "name": "TELAGA SAID",
+  "postalCode": "20773"
  },
  {
   "id": 1213170003,
   "districtId": 1213170,
-  "name": "LAMA BARU"
+  "districtName": "SEI LEPAN",
+  "name": "LAMA BARU",
+  "postalCode": "20773"
  },
  {
   "id": 1213170004,
   "districtId": 1213170,
-  "name": "LAMA"
+  "districtName": "SEI LEPAN",
+  "name": "LAMA",
+  "postalCode": "20353"
  },
  {
   "id": 1213170005,
   "districtId": 1213170,
-  "name": "ALUR DUA"
+  "districtName": "SEI LEPAN",
+  "name": "ALUR DUA",
+  "postalCode": "20773"
  },
  {
   "id": 1213170006,
   "districtId": 1213170,
-  "name": "PURAKA II"
+  "districtName": "SEI LEPAN",
+  "name": "PURAKA II",
+  "postalCode": "20773"
  },
  {
   "id": 1213170007,
   "districtId": 1213170,
-  "name": "ALUR DUA BARU"
+  "districtName": "SEI LEPAN",
+  "name": "ALUR DUA BARU",
+  "postalCode": "20773"
  },
  {
   "id": 1213170008,
   "districtId": 1213170,
-  "name": "PURAKA I PERTAMINA"
+  "districtName": "SEI LEPAN",
+  "name": "PURAKA I PERTAMINA",
+  "postalCode": "20773"
  },
  {
   "id": 1213170009,
   "districtId": 1213170,
-  "name": "SEI BILAH"
+  "districtName": "SEI LEPAN",
+  "name": "SEI BILAH",
+  "postalCode": ""
  },
  {
   "id": 1213170010,
   "districtId": 1213170,
-  "name": "SEI BILAH TIMUR"
+  "districtName": "SEI LEPAN",
+  "name": "SEI BILAH TIMUR",
+  "postalCode": "20773"
  },
  {
   "id": 1213170011,
   "districtId": 1213170,
-  "name": "MEKAR MAKMUR"
+  "districtName": "SEI LEPAN",
+  "name": "MEKAR MAKMUR",
+  "postalCode": "20773"
  },
  {
   "id": 1213170012,
   "districtId": 1213170,
-  "name": "HARAPAN BARU"
+  "districtName": "SEI LEPAN",
+  "name": "HARAPAN BARU",
+  "postalCode": "24786"
  },
  {
   "id": 1213170013,
   "districtId": 1213170,
-  "name": "HARAPAN MAJU"
+  "districtName": "SEI LEPAN",
+  "name": "HARAPAN MAJU",
+  "postalCode": "20773"
  },
  {
   "id": 1213170014,
   "districtId": 1213170,
-  "name": "HARAPAN MAKMUR"
+  "districtName": "SEI LEPAN",
+  "name": "HARAPAN MAKMUR",
+  "postalCode": "20773"
  }
 ]

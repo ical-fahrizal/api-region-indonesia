@@ -2,56 +2,78 @@
  {
   "id": 7111010001,
   "districtId": 7111010,
-  "name": "JIKO BELANGA"
+  "districtName": "NUANGAN",
+  "name": "JIKO BELANGA",
+  "postalCode": "95775"
  },
  {
   "id": 7111010002,
   "districtId": 7111010,
-  "name": "MATABULU"
+  "districtName": "NUANGAN",
+  "name": "MATABULU",
+  "postalCode": "95775"
  },
  {
   "id": 7111010003,
   "districtId": 7111010,
-  "name": "LOYOW"
+  "districtName": "NUANGAN",
+  "name": "LOYOW",
+  "postalCode": "95775"
  },
  {
   "id": 7111010004,
   "districtId": 7111010,
-  "name": "IYOK"
+  "districtName": "NUANGAN",
+  "name": "IYOK",
+  "postalCode": "95764"
  },
  {
   "id": 7111010005,
   "districtId": 7111010,
-  "name": "NUANGAN"
+  "districtName": "NUANGAN",
+  "name": "NUANGAN",
+  "postalCode": "74162"
  },
  {
   "id": 7111010006,
   "districtId": 7111010,
-  "name": "NUANGAN I"
+  "districtName": "NUANGAN",
+  "name": "NUANGAN I",
+  "postalCode": "95775"
  },
  {
   "id": 7111010007,
   "districtId": 7111010,
-  "name": "IDUMUN"
+  "districtName": "NUANGAN",
+  "name": "IDUMUN",
+  "postalCode": "95775"
  },
  {
   "id": 7111010009,
   "districtId": 7111010,
-  "name": "B A I"
+  "districtName": "NUANGAN",
+  "name": "B A I",
+  "postalCode": ""
  },
  {
   "id": 7111010016,
   "districtId": 7111010,
-  "name": "MATABULU TIMUR"
+  "districtName": "NUANGAN",
+  "name": "MATABULU TIMUR",
+  "postalCode": "95775"
  },
  {
   "id": 7111010020,
   "districtId": 7111010,
-  "name": "NUANGAN SELATAN"
+  "districtName": "NUANGAN",
+  "name": "NUANGAN SELATAN",
+  "postalCode": "95775"
  },
  {
   "id": 7111010021,
   "districtId": 7111010,
-  "name": "NUANGAN BARAT"
+  "districtName": "NUANGAN",
+  "name": "NUANGAN BARAT",
+  "postalCode": "95775"
  }
 ]

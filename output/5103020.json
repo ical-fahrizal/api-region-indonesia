@@ -2,26 +2,36 @@
  {
   "id": 5103020001,
   "districtId": 5103020,
-  "name": "KEDONGANAN"
+  "districtName": "KUTA",
+  "name": "KEDONGANAN",
+  "postalCode": "80361"
  },
  {
   "id": 5103020002,
   "districtId": 5103020,
-  "name": "TUBAN"
+  "districtName": "KUTA",
+  "name": "TUBAN",
+  "postalCode": "57188"
  },
  {
   "id": 5103020003,
   "districtId": 5103020,
-  "name": "KUTA"
+  "districtName": "KUTA",
+  "name": "KUTA",
+  "postalCode": "16770"
  },
  {
   "id": 5103020004,
   "districtId": 5103020,
-  "name": "LEGIAN"
+  "districtName": "KUTA",
+  "name": "LEGIAN",
+  "postalCode": "80361"
  },
  {
   "id": 5103020005,
   "districtId": 5103020,
-  "name": "SEMINYAK"
+  "districtName": "KUTA",
+  "name": "SEMINYAK",
+  "postalCode": "80361"
  }
 ]

@@ -2,81 +2,113 @@
  {
   "id": 1503020001,
   "districtId": 1503020,
-  "name": "MERSIP"
+  "districtName": "LIMUN",
+  "name": "MERSIP",
+  "postalCode": "37382"
  },
  {
   "id": 1503020002,
   "districtId": 1503020,
-  "name": "DESA BERKUN"
+  "districtName": "LIMUN",
+  "name": "DESA BERKUN",
+  "postalCode": ""
  },
  {
   "id": 1503020003,
   "districtId": 1503020,
-  "name": "LUBUK BEDORONG"
+  "districtName": "LIMUN",
+  "name": "LUBUK BEDORONG",
+  "postalCode": "37382"
  },
  {
   "id": 1503020004,
   "districtId": 1503020,
-  "name": "MERIBUNG"
+  "districtName": "LIMUN",
+  "name": "MERIBUNG",
+  "postalCode": ""
  },
  {
   "id": 1503020005,
   "districtId": 1503020,
-  "name": "NAPAL MELINTANG"
+  "districtName": "LIMUN",
+  "name": "NAPAL MELINTANG",
+  "postalCode": "37382"
  },
  {
   "id": 1503020007,
   "districtId": 1503020,
-  "name": "PANCA KARYA"
+  "districtName": "LIMUN",
+  "name": "PANCA KARYA",
+  "postalCode": "37382"
  },
  {
   "id": 1503020008,
   "districtId": 1503020,
-  "name": "RANGGO"
+  "districtName": "LIMUN",
+  "name": "RANGGO",
+  "postalCode": "37382"
  },
  {
   "id": 1503020009,
   "districtId": 1503020,
-  "name": "TANJUNG RADEN"
+  "districtName": "LIMUN",
+  "name": "TANJUNG RADEN",
+  "postalCode": "36264"
  },
  {
   "id": 1503020010,
   "districtId": 1503020,
-  "name": "TEMENGGUNG"
+  "districtName": "LIMUN",
+  "name": "TEMENGGUNG",
+  "postalCode": "37382"
  },
  {
   "id": 1503020011,
   "districtId": 1503020,
-  "name": "PULAU PANDAN"
+  "districtName": "LIMUN",
+  "name": "PULAU PANDAN",
+  "postalCode": "37382"
  },
  {
   "id": 1503020015,
   "districtId": 1503020,
-  "name": "DEMANG"
+  "districtName": "LIMUN",
+  "name": "DEMANG",
+  "postalCode": "37382"
  },
  {
   "id": 1503020016,
   "districtId": 1503020,
-  "name": "MUARA MANSAO"
+  "districtName": "LIMUN",
+  "name": "MUARA MANSAO",
+  "postalCode": "37382"
  },
  {
   "id": 1503020017,
   "districtId": 1503020,
-  "name": "MOENTI"
+  "districtName": "LIMUN",
+  "name": "MOENTI",
+  "postalCode": "37382"
  },
  {
   "id": 1503020018,
   "districtId": 1503020,
-  "name": "MUARA LIMUN"
+  "districtName": "LIMUN",
+  "name": "MUARA LIMUN",
+  "postalCode": "37382"
  },
  {
   "id": 1503020019,
   "districtId": 1503020,
-  "name": "SUKA DAMAI"
+  "districtName": "LIMUN",
+  "name": "SUKA DAMAI",
+  "postalCode": "24472"
  },
  {
   "id": 1503020020,
   "districtId": 1503020,
-  "name": "TEMALANG"
+  "districtName": "LIMUN",
+  "name": "TEMALANG",
+  "postalCode": "37382"
  }
 ]

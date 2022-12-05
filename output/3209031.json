@@ -2,66 +2,92 @@
  {
   "id": 3209031001,
   "districtId": 3209031,
-  "name": "BABAKAN LOSARI"
+  "districtName": "PABEDILAN",
+  "name": "BABAKAN LOSARI",
+  "postalCode": "45193"
  },
  {
   "id": 3209031002,
   "districtId": 3209031,
-  "name": "SIDARESMI"
+  "districtName": "PABEDILAN",
+  "name": "SIDARESMI",
+  "postalCode": "45193"
  },
  {
   "id": 3209031003,
   "districtId": 3209031,
-  "name": "KALIBUNTU"
+  "districtName": "PABEDILAN",
+  "name": "KALIBUNTU",
+  "postalCode": "45193"
  },
  {
   "id": 3209031004,
   "districtId": 3209031,
-  "name": "DUKUHWIDARA"
+  "districtName": "PABEDILAN",
+  "name": "DUKUHWIDARA",
+  "postalCode": "45193"
  },
  {
   "id": 3209031005,
   "districtId": 3209031,
-  "name": "PASURUAN"
+  "districtName": "PABEDILAN",
+  "name": "PASURUAN",
+  "postalCode": "35592"
  },
  {
   "id": 3209031006,
   "districtId": 3209031,
-  "name": "KALIMUKTI"
+  "districtName": "PABEDILAN",
+  "name": "KALIMUKTI",
+  "postalCode": "45193"
  },
  {
   "id": 3209031007,
   "districtId": 3209031,
-  "name": "PABEDILAN KALER"
+  "districtName": "PABEDILAN",
+  "name": "PABEDILAN KALER",
+  "postalCode": "45193"
  },
  {
   "id": 3209031008,
   "districtId": 3209031,
-  "name": "BABAKAN LOSARI LOR"
+  "districtName": "PABEDILAN",
+  "name": "BABAKAN LOSARI LOR",
+  "postalCode": "45193"
  },
  {
   "id": 3209031009,
   "districtId": 3209031,
-  "name": "PABEDILAN KIDUL"
+  "districtName": "PABEDILAN",
+  "name": "PABEDILAN KIDUL",
+  "postalCode": "45193"
  },
  {
   "id": 3209031010,
   "districtId": 3209031,
-  "name": "PABEDILAN KULON"
+  "districtName": "PABEDILAN",
+  "name": "PABEDILAN KULON",
+  "postalCode": "45193"
  },
  {
   "id": 3209031011,
   "districtId": 3209031,
-  "name": "PABEDILAN WETAN"
+  "districtName": "PABEDILAN",
+  "name": "PABEDILAN WETAN",
+  "postalCode": "45193"
  },
  {
   "id": 3209031012,
   "districtId": 3209031,
-  "name": "TERSANA"
+  "districtName": "PABEDILAN",
+  "name": "TERSANA",
+  "postalCode": "45193"
  },
  {
   "id": 3209031013,
   "districtId": 3209031,
-  "name": "SILIHASIH"
+  "districtName": "PABEDILAN",
+  "name": "SILIHASIH",
+  "postalCode": "45193"
  }
 ]

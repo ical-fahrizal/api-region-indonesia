@@ -2,46 +2,64 @@
  {
   "id": 9417051001,
   "districtId": 9417051,
-  "name": "WANTEM"
+  "districtName": "KIWIROK TIMUR",
+  "name": "WANTEM",
+  "postalCode": ""
  },
  {
   "id": 9417051002,
   "districtId": 9417051,
-  "name": "OKETUR"
+  "districtName": "KIWIROK TIMUR",
+  "name": "OKETUR",
+  "postalCode": "99574"
  },
  {
   "id": 9417051003,
   "districtId": 9417051,
-  "name": "OKYOP"
+  "districtName": "KIWIROK TIMUR",
+  "name": "OKYOP",
+  "postalCode": ""
  },
  {
   "id": 9417051004,
   "districtId": 9417051,
-  "name": "EHIPTEM"
+  "districtName": "KIWIROK TIMUR",
+  "name": "EHIPTEM",
+  "postalCode": ""
  },
  {
   "id": 9417051007,
   "districtId": 9417051,
-  "name": "DIKDON"
+  "districtName": "KIWIROK TIMUR",
+  "name": "DIKDON",
+  "postalCode": "99574"
  },
  {
   "id": 9417051008,
   "districtId": 9417051,
-  "name": "OKYAKO"
+  "districtName": "KIWIROK TIMUR",
+  "name": "OKYAKO",
+  "postalCode": "99574"
  },
  {
   "id": 9417051009,
   "districtId": 9417051,
-  "name": "TATAM"
+  "districtName": "KIWIROK TIMUR",
+  "name": "TATAM",
+  "postalCode": "97863"
  },
  {
   "id": 9417051010,
   "districtId": 9417051,
-  "name": "OKHIK"
+  "districtName": "KIWIROK TIMUR",
+  "name": "OKHIK",
+  "postalCode": ""
  },
  {
   "id": 9417051011,
   "districtId": 9417051,
-  "name": "OKYAOP"
+  "districtName": "KIWIROK TIMUR",
+  "name": "OKYAOP",
+  "postalCode": "99574"
  }
 ]

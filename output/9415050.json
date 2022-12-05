@@ -2,51 +2,71 @@
  {
   "id": 9415050005,
   "districtId": 9415050,
-  "name": "AYAM / AKAT"
+  "districtName": "AKAT",
+  "name": "AYAM / AKAT",
+  "postalCode": ""
  },
  {
   "id": 9415050006,
   "districtId": 9415050,
-  "name": "MANEP"
+  "districtName": "AKAT",
+  "name": "MANEP",
+  "postalCode": ""
  },
  {
   "id": 9415050007,
   "districtId": 9415050,
-  "name": "BECO"
+  "districtName": "AKAT",
+  "name": "BECO",
+  "postalCode": "99779"
  },
  {
   "id": 9415050008,
   "districtId": 9415050,
-  "name": "YUNI"
+  "districtName": "AKAT",
+  "name": "YUNI",
+  "postalCode": "99779"
  },
  {
   "id": 9415050009,
   "districtId": 9415050,
-  "name": "BETKUAR"
+  "districtName": "AKAT",
+  "name": "BETKUAR",
+  "postalCode": ""
  },
  {
   "id": 9415050013,
   "districtId": 9415050,
-  "name": "WAW CESAW"
+  "districtName": "AKAT",
+  "name": "WAW CESAW",
+  "postalCode": ""
  },
  {
   "id": 9415050014,
   "districtId": 9415050,
-  "name": "BAYIW PINAM"
+  "districtName": "AKAT",
+  "name": "BAYIW PINAM",
+  "postalCode": "99779"
  },
  {
   "id": 9415050016,
   "districtId": 9415050,
-  "name": "JEWES DOAR"
+  "districtName": "AKAT",
+  "name": "JEWES DOAR",
+  "postalCode": ""
  },
  {
   "id": 9415050018,
   "districtId": 9415050,
-  "name": "FAKAN"
+  "districtName": "AKAT",
+  "name": "FAKAN",
+  "postalCode": "99779"
  },
  {
   "id": 9415050019,
   "districtId": 9415050,
-  "name": "SIMINI"
+  "districtName": "AKAT",
+  "name": "SIMINI",
+  "postalCode": "99779"
  }
 ]

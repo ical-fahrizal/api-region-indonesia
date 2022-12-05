@@ -2,46 +2,64 @@
  {
   "id": 6302120009,
   "districtId": 6302120,
-  "name": "SUKA MAJU"
+  "districtName": "KELUMPANG SELATAN",
+  "name": "SUKA MAJU",
+  "postalCode": "24673"
  },
  {
   "id": 6302120010,
   "districtId": 6302120,
-  "name": "PANTAI"
+  "districtName": "KELUMPANG SELATAN",
+  "name": "PANTAI",
+  "postalCode": "29564"
  },
  {
   "id": 6302120011,
   "districtId": 6302120,
-  "name": "TANJUNG PANGGA"
+  "districtName": "KELUMPANG SELATAN",
+  "name": "TANJUNG PANGGA",
+  "postalCode": "72161"
  },
  {
   "id": 6302120012,
   "districtId": 6302120,
-  "name": "PEMBELANCANAN"
+  "districtName": "KELUMPANG SELATAN",
+  "name": "PEMBELANCANAN",
+  "postalCode": "72161"
  },
  {
   "id": 6302120013,
   "districtId": 6302120,
-  "name": "BUMI ASIH"
+  "districtName": "KELUMPANG SELATAN",
+  "name": "BUMI ASIH",
+  "postalCode": "35594"
  },
  {
   "id": 6302120014,
   "districtId": 6302120,
-  "name": "SUNGAI NIPAH"
+  "districtName": "KELUMPANG SELATAN",
+  "name": "SUNGAI NIPAH",
+  "postalCode": ""
  },
  {
   "id": 6302120015,
   "districtId": 6302120,
-  "name": "PANTAI BARU"
+  "districtName": "KELUMPANG SELATAN",
+  "name": "PANTAI BARU",
+  "postalCode": "72161"
  },
  {
   "id": 6302120016,
   "districtId": 6302120,
-  "name": "SANGKING BARU"
+  "districtName": "KELUMPANG SELATAN",
+  "name": "SANGKING BARU",
+  "postalCode": "72161"
  },
  {
   "id": 6302120017,
   "districtId": 6302120,
-  "name": "SUNGAI KUPANG JAYA"
+  "districtName": "KELUMPANG SELATAN",
+  "name": "SUNGAI KUPANG JAYA",
+  "postalCode": ""
  }
 ]

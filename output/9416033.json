@@ -2,56 +2,78 @@
  {
   "id": 9416033001,
   "districtId": 9416033,
-  "name": "NAHOMAS"
+  "districtName": "KOSAREK",
+  "name": "NAHOMAS",
+  "postalCode": "99582"
  },
  {
   "id": 9416033002,
   "districtId": 9416033,
-  "name": "KOSAREK"
+  "districtName": "KOSAREK",
+  "name": "KOSAREK",
+  "postalCode": "99582"
  },
  {
   "id": 9416033003,
   "districtId": 9416033,
-  "name": "SILKOM"
+  "districtName": "KOSAREK",
+  "name": "SILKOM",
+  "postalCode": "99582"
  },
  {
   "id": 9416033004,
   "districtId": 9416033,
-  "name": "MINE"
+  "districtName": "KOSAREK",
+  "name": "MINE",
+  "postalCode": "99582"
  },
  {
   "id": 9416033005,
   "districtId": 9416033,
-  "name": "ULDAM"
+  "districtName": "KOSAREK",
+  "name": "ULDAM",
+  "postalCode": "99582"
  },
  {
   "id": 9416033006,
   "districtId": 9416033,
-  "name": "TIPLE"
+  "districtName": "KOSAREK",
+  "name": "TIPLE",
+  "postalCode": "99582"
  },
  {
   "id": 9416033007,
   "districtId": 9416033,
-  "name": "WAHE"
+  "districtName": "KOSAREK",
+  "name": "WAHE",
+  "postalCode": "99582"
  },
  {
   "id": 9416033008,
   "districtId": 9416033,
-  "name": "HOMBUKA"
+  "districtName": "KOSAREK",
+  "name": "HOMBUKA",
+  "postalCode": "99582"
  },
  {
   "id": 9416033009,
   "districtId": 9416033,
-  "name": "WESALTEK"
+  "districtName": "KOSAREK",
+  "name": "WESALTEK",
+  "postalCode": "99582"
  },
  {
   "id": 9416033010,
   "districtId": 9416033,
-  "name": "KONOSA"
+  "districtName": "KOSAREK",
+  "name": "KONOSA",
+  "postalCode": "99582"
  },
  {
   "id": 9416033011,
   "districtId": 9416033,
-  "name": "ILLION"
+  "districtName": "KOSAREK",
+  "name": "ILLION",
+  "postalCode": "99582"
  }
 ]

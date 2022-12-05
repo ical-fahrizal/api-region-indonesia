@@ -2,86 +2,120 @@
  {
   "id": 1504020001,
   "districtId": 1504020,
-  "name": "JELUTIH"
+  "districtName": "BATIN XXIV",
+  "name": "JELUTIH",
+  "postalCode": "36656"
  },
  {
   "id": 1504020002,
   "districtId": 1504020,
-  "name": "OLAK BESAR"
+  "districtName": "BATIN XXIV",
+  "name": "OLAK BESAR",
+  "postalCode": "36656"
  },
  {
   "id": 1504020003,
   "districtId": 1504020,
-  "name": "DURIAN LUNCUK"
+  "districtName": "BATIN XXIV",
+  "name": "DURIAN LUNCUK",
+  "postalCode": "36656"
  },
  {
   "id": 1504020004,
   "districtId": 1504020,
-  "name": "AUR GADING"
+  "districtName": "BATIN XXIV",
+  "name": "AUR GADING",
+  "postalCode": "36656"
  },
  {
   "id": 1504020005,
   "districtId": 1504020,
-  "name": "HAJRAN"
+  "districtName": "BATIN XXIV",
+  "name": "HAJRAN",
+  "postalCode": "36656"
  },
  {
   "id": 1504020006,
   "districtId": 1504020,
-  "name": "PAKU AJI"
+  "districtName": "BATIN XXIV",
+  "name": "PAKU AJI",
+  "postalCode": "36656"
  },
  {
   "id": 1504020007,
   "districtId": 1504020,
-  "name": "MUARA JANGGA"
+  "districtName": "BATIN XXIV",
+  "name": "MUARA JANGGA",
+  "postalCode": "36656"
  },
  {
   "id": 1504020008,
   "districtId": 1504020,
-  "name": "MATA GUAL"
+  "districtName": "BATIN XXIV",
+  "name": "MATA GUAL",
+  "postalCode": "36656"
  },
  {
   "id": 1504020009,
   "districtId": 1504020,
-  "name": "KOTO BUAYO"
+  "districtName": "BATIN XXIV",
+  "name": "KOTO BUAYO",
+  "postalCode": "36656"
  },
  {
   "id": 1504020010,
   "districtId": 1504020,
-  "name": "KARMEO"
+  "districtName": "BATIN XXIV",
+  "name": "KARMEO",
+  "postalCode": "36656"
  },
  {
   "id": 1504020011,
   "districtId": 1504020,
-  "name": "SIMPANG KARMEO"
+  "districtName": "BATIN XXIV",
+  "name": "SIMPANG KARMEO",
+  "postalCode": "36656"
  },
  {
   "id": 1504020012,
   "districtId": 1504020,
-  "name": "JANGGA"
+  "districtName": "BATIN XXIV",
+  "name": "JANGGA",
+  "postalCode": "45253"
  },
  {
   "id": 1504020013,
   "districtId": 1504020,
-  "name": "TERENTANG BARU"
+  "districtName": "BATIN XXIV",
+  "name": "TERENTANG BARU",
+  "postalCode": "36656"
  },
  {
   "id": 1504020014,
   "districtId": 1504020,
-  "name": "JANGGA BARU"
+  "districtName": "BATIN XXIV",
+  "name": "JANGGA BARU",
+  "postalCode": "36656"
  },
  {
   "id": 1504020015,
   "districtId": 1504020,
-  "name": "BULIAN BARU"
+  "districtName": "BATIN XXIV",
+  "name": "BULIAN BARU",
+  "postalCode": "36656"
  },
  {
   "id": 1504020016,
   "districtId": 1504020,
-  "name": "SIMPANG JELUTIH"
+  "districtName": "BATIN XXIV",
+  "name": "SIMPANG JELUTIH",
+  "postalCode": "36656"
  },
  {
   "id": 1504020017,
   "districtId": 1504020,
-  "name": "SIMPANG AUR GADING"
+  "districtName": "BATIN XXIV",
+  "name": "SIMPANG AUR GADING",
+  "postalCode": ""
  }
 ]

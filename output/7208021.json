@@ -2,51 +2,71 @@
  {
   "id": 7208021001,
   "districtId": 7208021,
-  "name": "TINDAKI"
+  "districtName": "PARIGI SELATAN",
+  "name": "TINDAKI",
+  "postalCode": "94471"
  },
  {
   "id": 7208021002,
   "districtId": 7208021,
-  "name": "NAMBARU"
+  "districtName": "PARIGI SELATAN",
+  "name": "NAMBARU",
+  "postalCode": "94471"
  },
  {
   "id": 7208021003,
   "districtId": 7208021,
-  "name": "SUMBER SARI"
+  "districtName": "PARIGI SELATAN",
+  "name": "SUMBER SARI",
+  "postalCode": "21343"
  },
  {
   "id": 7208021004,
   "districtId": 7208021,
-  "name": "MASARI"
+  "districtName": "PARIGI SELATAN",
+  "name": "MASARI",
+  "postalCode": "94471"
  },
  {
   "id": 7208021005,
   "districtId": 7208021,
-  "name": "DOLAGO"
+  "districtName": "PARIGI SELATAN",
+  "name": "DOLAGO",
+  "postalCode": "94471"
  },
  {
   "id": 7208021006,
   "districtId": 7208021,
-  "name": "LEMUSA"
+  "districtName": "PARIGI SELATAN",
+  "name": "LEMUSA",
+  "postalCode": "94471"
  },
  {
   "id": 7208021007,
   "districtId": 7208021,
-  "name": "BOYANTONGO"
+  "districtName": "PARIGI SELATAN",
+  "name": "BOYANTONGO",
+  "postalCode": "94471"
  },
  {
   "id": 7208021008,
   "districtId": 7208021,
-  "name": "OLOBARU"
+  "districtName": "PARIGI SELATAN",
+  "name": "OLOBARU",
+  "postalCode": "94471"
  },
  {
   "id": 7208021009,
   "districtId": 7208021,
-  "name": "GANGGA"
+  "districtName": "PARIGI SELATAN",
+  "name": "GANGGA",
+  "postalCode": "94471"
  },
  {
   "id": 7208021010,
   "districtId": 7208021,
-  "name": "DOLAGO PADANG"
+  "districtName": "PARIGI SELATAN",
+  "name": "DOLAGO PADANG",
+  "postalCode": ""
  }
 ]

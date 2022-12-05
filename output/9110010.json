@@ -2,16 +2,22 @@
  {
   "id": 9110010004,
   "districtId": 9110010,
-  "name": "FATASE"
+  "districtName": "AITINYO BARAT/ATHABU",
+  "name": "FATASE",
+  "postalCode": "98462"
  },
  {
   "id": 9110010006,
   "districtId": 9110010,
-  "name": "KAMBUFATEM"
+  "districtName": "AITINYO BARAT/ATHABU",
+  "name": "KAMBUFATEM",
+  "postalCode": "98462"
  },
  {
   "id": 9110010007,
   "districtId": 9110010,
-  "name": "KAMBUFATEM UTARA"
+  "districtName": "AITINYO BARAT/ATHABU",
+  "name": "KAMBUFATEM UTARA",
+  "postalCode": "98462"
  }
 ]

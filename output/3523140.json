@@ -2,71 +2,99 @@
  {
   "id": 3523140001,
   "districtId": 3523140,
-  "name": "KARANGASEM"
+  "districtName": "JENU",
+  "name": "KARANGASEM",
+  "postalCode": "45186"
  },
  {
   "id": 3523140002,
   "districtId": 3523140,
-  "name": "SOCOREJO"
+  "districtName": "JENU",
+  "name": "SOCOREJO",
+  "postalCode": "62352"
  },
  {
   "id": 3523140003,
   "districtId": 3523140,
-  "name": "TEMAJI"
+  "districtName": "JENU",
+  "name": "TEMAJI",
+  "postalCode": "62352"
  },
  {
   "id": 3523140004,
   "districtId": 3523140,
-  "name": "PURWOREJO"
+  "districtName": "JENU",
+  "name": "PURWOREJO",
+  "postalCode": "23661"
  },
  {
   "id": 3523140005,
   "districtId": 3523140,
-  "name": "TASIKHARJO"
+  "districtName": "JENU",
+  "name": "TASIKHARJO",
+  "postalCode": "59252"
  },
  {
   "id": 3523140007,
   "districtId": 3523140,
-  "name": "MENTOSO"
+  "districtName": "JENU",
+  "name": "MENTOSO",
+  "postalCode": "62352"
  },
  {
   "id": 3523140008,
   "districtId": 3523140,
-  "name": "RAWASAN"
+  "districtName": "JENU",
+  "name": "RAWASAN",
+  "postalCode": "62352"
  },
  {
   "id": 3523140010,
   "districtId": 3523140,
-  "name": "WADUNG"
+  "districtName": "JENU",
+  "name": "WADUNG",
+  "postalCode": "62352"
  },
  {
   "id": 3523140011,
   "districtId": 3523140,
-  "name": "KALIUNTU"
+  "districtName": "JENU",
+  "name": "KALIUNTU",
+  "postalCode": "62352"
  },
  {
   "id": 3523140012,
   "districtId": 3523140,
-  "name": "BEJI"
+  "districtName": "JENU",
+  "name": "BEJI",
+  "postalCode": "16421"
  },
  {
   "id": 3523140013,
   "districtId": 3523140,
-  "name": "SUWALAN"
+  "districtName": "JENU",
+  "name": "SUWALAN",
+  "postalCode": "62352"
  },
  {
   "id": 3523140014,
   "districtId": 3523140,
-  "name": "JENGGOLO"
+  "districtName": "JENU",
+  "name": "JENGGOLO",
+  "postalCode": "62352"
  },
  {
   "id": 3523140015,
   "districtId": 3523140,
-  "name": "SEKARDADI"
+  "districtName": "JENU",
+  "name": "SEKARDADI",
+  "postalCode": "62352"
  },
  {
   "id": 3523140017,
   "districtId": 3523140,
-  "name": "SUGIHWARAS"
+  "districtName": "JENU",
+  "name": "SUGIHWARAS",
+  "postalCode": "54363"
  }
 ]

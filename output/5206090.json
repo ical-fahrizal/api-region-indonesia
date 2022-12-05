@@ -2,31 +2,43 @@
  {
   "id": 5206090004,
   "districtId": 5206090,
-  "name": "OI SARO"
+  "districtName": "SANGGAR",
+  "name": "OI SARO",
+  "postalCode": "84191"
  },
  {
   "id": 5206090005,
   "districtId": 5206090,
-  "name": "PIONG"
+  "districtName": "SANGGAR",
+  "name": "PIONG",
+  "postalCode": "84191"
  },
  {
   "id": 5206090006,
   "districtId": 5206090,
-  "name": "BORO"
+  "districtName": "SANGGAR",
+  "name": "BORO",
+  "postalCode": "66229"
  },
  {
   "id": 5206090007,
   "districtId": 5206090,
-  "name": "KORE"
+  "districtName": "SANGGAR",
+  "name": "KORE",
+  "postalCode": "84191"
  },
  {
   "id": 5206090008,
   "districtId": 5206090,
-  "name": "TALOKO"
+  "districtName": "SANGGAR",
+  "name": "TALOKO",
+  "postalCode": "84191"
  },
  {
   "id": 5206090009,
   "districtId": 5206090,
-  "name": "SANDUE"
+  "districtName": "SANGGAR",
+  "name": "SANDUE",
+  "postalCode": "84191"
  }
 ]

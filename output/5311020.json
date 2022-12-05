@@ -2,156 +2,218 @@
  {
   "id": 5311020004,
   "districtId": 5311020,
-  "name": "NDETUNDORA I"
+  "districtName": "ENDE",
+  "name": "NDETUNDORA I",
+  "postalCode": "86319"
  },
  {
   "id": 5311020005,
   "districtId": 5311020,
-  "name": "RANDOTONDA"
+  "districtName": "ENDE",
+  "name": "RANDOTONDA",
+  "postalCode": "86319"
  },
  {
   "id": 5311020006,
   "districtId": 5311020,
-  "name": "RABURIA"
+  "districtName": "ENDE",
+  "name": "RABURIA",
+  "postalCode": "86319"
  },
  {
   "id": 5311020007,
   "districtId": 5311020,
-  "name": "TOMBERABU I"
+  "districtName": "ENDE",
+  "name": "TOMBERABU I",
+  "postalCode": ""
  },
  {
   "id": 5311020008,
   "districtId": 5311020,
-  "name": "TOMBERABU II"
+  "districtName": "ENDE",
+  "name": "TOMBERABU II",
+  "postalCode": "86319"
  },
  {
   "id": 5311020009,
   "districtId": 5311020,
-  "name": "TINABANI"
+  "districtName": "ENDE",
+  "name": "TINABANI",
+  "postalCode": "86319"
  },
  {
   "id": 5311020010,
   "districtId": 5311020,
-  "name": "WOLOGAI"
+  "districtName": "ENDE",
+  "name": "WOLOGAI",
+  "postalCode": "86371"
  },
  {
   "id": 5311020011,
   "districtId": 5311020,
-  "name": "MBOTUTENDA"
+  "districtName": "ENDE",
+  "name": "MBOTUTENDA",
+  "postalCode": "86319"
  },
  {
   "id": 5311020012,
   "districtId": 5311020,
-  "name": "JAMOKEASA"
+  "districtName": "ENDE",
+  "name": "JAMOKEASA",
+  "postalCode": ""
  },
  {
   "id": 5311020013,
   "districtId": 5311020,
-  "name": "NDETUNDORA II"
+  "districtName": "ENDE",
+  "name": "NDETUNDORA II",
+  "postalCode": "86319"
  },
  {
   "id": 5311020014,
   "districtId": 5311020,
-  "name": "EMBURIA"
+  "districtName": "ENDE",
+  "name": "EMBURIA",
+  "postalCode": "86319"
  },
  {
   "id": 5311020015,
   "districtId": 5311020,
-  "name": "RIARAJA"
+  "districtName": "ENDE",
+  "name": "RIARAJA",
+  "postalCode": "86319"
  },
  {
   "id": 5311020016,
   "districtId": 5311020,
-  "name": "WOLOKARO"
+  "districtName": "ENDE",
+  "name": "WOLOKARO",
+  "postalCode": "86319"
  },
  {
   "id": 5311020017,
   "districtId": 5311020,
-  "name": "RUKURAMBA"
+  "districtName": "ENDE",
+  "name": "RUKURAMBA",
+  "postalCode": ""
  },
  {
   "id": 5311020018,
   "districtId": 5311020,
-  "name": "NAKURAMBA"
+  "districtName": "ENDE",
+  "name": "NAKURAMBA",
+  "postalCode": "86319"
  },
  {
   "id": 5311020019,
   "districtId": 5311020,
-  "name": "NDETUNDORA III"
+  "districtName": "ENDE",
+  "name": "NDETUNDORA III",
+  "postalCode": "86319"
  },
  {
   "id": 5311020020,
   "districtId": 5311020,
-  "name": "TONGGOPAPA"
+  "districtName": "ENDE",
+  "name": "TONGGOPAPA",
+  "postalCode": ""
  },
  {
   "id": 5311020021,
   "districtId": 5311020,
-  "name": "UZURAMBA"
+  "districtName": "ENDE",
+  "name": "UZURAMBA",
+  "postalCode": "86319"
  },
  {
   "id": 5311020022,
   "districtId": 5311020,
-  "name": "RANDORAMA"
+  "districtName": "ENDE",
+  "name": "RANDORAMA",
+  "postalCode": "86319"
  },
  {
   "id": 5311020023,
   "districtId": 5311020,
-  "name": "TENDAMBONGGI"
+  "districtName": "ENDE",
+  "name": "TENDAMBONGGI",
+  "postalCode": "86319"
  },
  {
   "id": 5311020024,
   "districtId": 5311020,
-  "name": "WOLOGAI DUA"
+  "districtName": "ENDE",
+  "name": "WOLOGAI DUA",
+  "postalCode": "86319"
  },
  {
   "id": 5311020025,
   "districtId": 5311020,
-  "name": "WORHOPAPA"
+  "districtName": "ENDE",
+  "name": "WORHOPAPA",
+  "postalCode": "86319"
  },
  {
   "id": 5311020026,
   "districtId": 5311020,
-  "name": "NUAJA"
+  "districtName": "ENDE",
+  "name": "NUAJA",
+  "postalCode": "86319"
  },
  {
   "id": 5311020027,
   "districtId": 5311020,
-  "name": "EMBU NGENA"
+  "districtName": "ENDE",
+  "name": "EMBU NGENA",
+  "postalCode": "86319"
  },
  {
   "id": 5311020029,
   "districtId": 5311020,
-  "name": "WAWONATO"
+  "districtName": "ENDE",
+  "name": "WAWONATO",
+  "postalCode": "86319"
  },
  {
   "id": 5311020030,
   "districtId": 5311020,
-  "name": "JEJARAJA"
+  "districtName": "ENDE",
+  "name": "JEJARAJA",
+  "postalCode": "86319"
  },
  {
   "id": 5311020031,
   "districtId": 5311020,
-  "name": "WAJAKEA JAYA"
+  "districtName": "ENDE",
+  "name": "WAJAKEA JAYA",
+  "postalCode": "86319"
  },
  {
   "id": 5311020032,
   "districtId": 5311020,
-  "name": "NEMBORAMBA"
+  "districtName": "ENDE",
+  "name": "NEMBORAMBA",
+  "postalCode": "86319"
  },
  {
   "id": 5311020033,
   "districtId": 5311020,
-  "name": "RANORAMBA"
+  "districtName": "ENDE",
+  "name": "RANORAMBA",
+  "postalCode": "86319"
  },
  {
   "id": 5311020034,
   "districtId": 5311020,
-  "name": "PEOZAKARAMBA"
+  "districtName": "ENDE",
+  "name": "PEOZAKARAMBA",
+  "postalCode": "86319"
  },
  {
   "id": 5311020035,
   "districtId": 5311020,
-  "name": "UZURAMBA BARAT"
+  "districtName": "ENDE",
+  "name": "UZURAMBA BARAT",
+  "postalCode": "86319"
  }
 ]

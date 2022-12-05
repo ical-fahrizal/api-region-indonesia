@@ -2,191 +2,267 @@
  {
   "id": 1105110008,
   "districtId": 1105110,
-  "name": "CEK MBON"
+  "districtName": "PEUREULAK",
+  "name": "CEK MBON",
+  "postalCode": "24453"
  },
  {
   "id": 1105110018,
   "districtId": 1105110,
-  "name": "SEUNEUBOK PIDIE"
+  "districtName": "PEUREULAK",
+  "name": "SEUNEUBOK PIDIE",
+  "postalCode": "24458"
  },
  {
   "id": 1105110019,
   "districtId": 1105110,
-  "name": "KUALA LEUGE"
+  "districtName": "PEUREULAK",
+  "name": "KUALA LEUGE",
+  "postalCode": "24453"
  },
  {
   "id": 1105110020,
   "districtId": 1105110,
-  "name": "SEUNEUBOK PEUSANGAN"
+  "districtName": "PEUREULAK",
+  "name": "SEUNEUBOK PEUSANGAN",
+  "postalCode": "24453"
  },
  {
   "id": 1105110023,
   "districtId": 1105110,
-  "name": "LEUBUK PEMPENG"
+  "districtName": "PEUREULAK",
+  "name": "LEUBUK PEMPENG",
+  "postalCode": ""
  },
  {
   "id": 1105110024,
   "districtId": 1105110,
-  "name": "DAMA TUTONG"
+  "districtName": "PEUREULAK",
+  "name": "DAMA TUTONG",
+  "postalCode": "24453"
  },
  {
   "id": 1105110025,
   "districtId": 1105110,
-  "name": "BALE BUYA"
+  "districtName": "PEUREULAK",
+  "name": "BALE BUYA",
+  "postalCode": ""
  },
  {
   "id": 1105110026,
   "districtId": 1105110,
-  "name": "MATANG GLEUM"
+  "districtName": "PEUREULAK",
+  "name": "MATANG GLEUM",
+  "postalCode": "24453"
  },
  {
   "id": 1105110027,
   "districtId": 1105110,
-  "name": "ALUE NIBONG"
+  "districtName": "PEUREULAK",
+  "name": "ALUE NIBONG",
+  "postalCode": "24453"
  },
  {
   "id": 1105110028,
   "districtId": 1105110,
-  "name": "BUKET PALA"
+  "districtName": "PEUREULAK",
+  "name": "BUKET PALA",
+  "postalCode": "24454"
  },
  {
   "id": 1105110029,
   "districtId": 1105110,
-  "name": "BLANG SIMPO"
+  "districtName": "PEUREULAK",
+  "name": "BLANG SIMPO",
+  "postalCode": "24453"
  },
  {
   "id": 1105110030,
   "districtId": 1105110,
-  "name": "PAYA KALUT"
+  "districtName": "PEUREULAK",
+  "name": "PAYA KALUT",
+  "postalCode": ""
  },
  {
   "id": 1105110031,
   "districtId": 1105110,
-  "name": "ALUE DUA PAYA GAJAH"
+  "districtName": "PEUREULAK",
+  "name": "ALUE DUA PAYA GAJAH",
+  "postalCode": "24453"
  },
  {
   "id": 1105110032,
   "districtId": 1105110,
-  "name": "SEUNEUBOK ACEH"
+  "districtName": "PEUREULAK",
+  "name": "SEUNEUBOK ACEH",
+  "postalCode": "24472"
  },
  {
   "id": 1105110033,
   "districtId": 1105110,
-  "name": "UTEUN DAMA"
+  "districtName": "PEUREULAK",
+  "name": "UTEUN DAMA",
+  "postalCode": "24453"
  },
  {
   "id": 1105110034,
   "districtId": 1105110,
-  "name": "PAYA MEULIGO"
+  "districtName": "PEUREULAK",
+  "name": "PAYA MEULIGO",
+  "postalCode": ""
  },
  {
   "id": 1105110035,
   "districtId": 1105110,
-  "name": "PUNTI"
+  "districtName": "PEUREULAK",
+  "name": "PUNTI",
+  "postalCode": "24453"
  },
  {
   "id": 1105110036,
   "districtId": 1105110,
-  "name": "KEUMUNENG"
+  "districtName": "PEUREULAK",
+  "name": "KEUMUNENG",
+  "postalCode": "24457"
  },
  {
   "id": 1105110037,
   "districtId": 1105110,
-  "name": "BANGKA RIMUENG"
+  "districtName": "PEUREULAK",
+  "name": "BANGKA RIMUENG",
+  "postalCode": ""
  },
  {
   "id": 1105110038,
   "districtId": 1105110,
-  "name": "LEUGE"
+  "districtName": "PEUREULAK",
+  "name": "LEUGE",
+  "postalCode": "24453"
  },
  {
   "id": 1105110039,
   "districtId": 1105110,
-  "name": "LHOK DALAM"
+  "districtName": "PEUREULAK",
+  "name": "LHOK DALAM",
+  "postalCode": "23893"
  },
  {
   "id": 1105110040,
   "districtId": 1105110,
-  "name": "BANDRONG"
+  "districtName": "PEUREULAK",
+  "name": "BANDRONG",
+  "postalCode": "24453"
  },
  {
   "id": 1105110042,
   "districtId": 1105110,
-  "name": "TANAH RATA"
+  "districtName": "PEUREULAK",
+  "name": "TANAH RATA",
+  "postalCode": "86572"
  },
  {
   "id": 1105110043,
   "districtId": 1105110,
-  "name": "TUALANG"
+  "districtName": "PEUREULAK",
+  "name": "TUALANG",
+  "postalCode": "24372"
  },
  {
   "id": 1105110044,
   "districtId": 1105110,
-  "name": "KEUDE PEUREULAK"
+  "districtName": "PEUREULAK",
+  "name": "KEUDE PEUREULAK",
+  "postalCode": "24453"
  },
  {
   "id": 1105110045,
   "districtId": 1105110,
-  "name": "COT MUDA ITAM"
+  "districtName": "PEUREULAK",
+  "name": "COT MUDA ITAM",
+  "postalCode": "24453"
  },
  {
   "id": 1105110046,
   "districtId": 1105110,
-  "name": "PASIR PUTIH"
+  "districtName": "PEUREULAK",
+  "name": "PASIR PUTIH",
+  "postalCode": "24453"
  },
  {
   "id": 1105110047,
   "districtId": 1105110,
-  "name": "BLANG BETRA"
+  "districtName": "PEUREULAK",
+  "name": "BLANG BETRA",
+  "postalCode": ""
  },
  {
   "id": 1105110055,
   "districtId": 1105110,
-  "name": "BEUSA MEURANOU"
+  "districtName": "PEUREULAK",
+  "name": "BEUSA MEURANOU",
+  "postalCode": ""
  },
  {
   "id": 1105110056,
   "districtId": 1105110,
-  "name": "SEUMATANG MUDA ITAM"
+  "districtName": "PEUREULAK",
+  "name": "SEUMATANG MUDA ITAM",
+  "postalCode": "24453"
  },
  {
   "id": 1105110057,
   "districtId": 1105110,
-  "name": "BLANG BALOK"
+  "districtName": "PEUREULAK",
+  "name": "BLANG BALOK",
+  "postalCode": "24453"
  },
  {
   "id": 1105110058,
   "districtId": 1105110,
-  "name": "KUALA BUGAK"
+  "districtName": "PEUREULAK",
+  "name": "KUALA BUGAK",
+  "postalCode": "24453"
  },
  {
   "id": 1105110059,
   "districtId": 1105110,
-  "name": "PAYA LIPAH"
+  "districtName": "PEUREULAK",
+  "name": "PAYA LIPAH",
+  "postalCode": "24453"
  },
  {
   "id": 1105110060,
   "districtId": 1105110,
-  "name": "COT GEULUMPANG"
+  "districtName": "PEUREULAK",
+  "name": "COT GEULUMPANG",
+  "postalCode": "24263"
  },
  {
   "id": 1105110062,
   "districtId": 1105110,
-  "name": "COT KEH"
+  "districtName": "PEUREULAK",
+  "name": "COT KEH",
+  "postalCode": "24453"
  },
  {
   "id": 1105110063,
   "districtId": 1105110,
-  "name": "BLANG BATEE"
+  "districtName": "PEUREULAK",
+  "name": "BLANG BATEE",
+  "postalCode": "24453"
  },
  {
   "id": 1105110064,
   "districtId": 1105110,
-  "name": "ALUE RAMBONG"
+  "districtName": "PEUREULAK",
+  "name": "ALUE RAMBONG",
+  "postalCode": "24392"
  },
  {
   "id": 1105110065,
   "districtId": 1105110,
-  "name": "MATANG PEULAWI"
+  "districtName": "PEUREULAK",
+  "name": "MATANG PEULAWI",
+  "postalCode": ""
  }
 ]

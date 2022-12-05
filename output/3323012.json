@@ -2,66 +2,92 @@
  {
   "id": 3323012001,
   "districtId": 3323012,
-  "name": "TLOGOWERO"
+  "districtName": "BANSARI",
+  "name": "TLOGOWERO",
+  "postalCode": "56265"
  },
  {
   "id": 3323012002,
   "districtId": 3323012,
-  "name": "BALESARI"
+  "districtName": "BANSARI",
+  "name": "BALESARI",
+  "postalCode": "56265"
  },
  {
   "id": 3323012003,
   "districtId": 3323012,
-  "name": "CAMPURANOM"
+  "districtName": "BANSARI",
+  "name": "CAMPURANOM",
+  "postalCode": "56265"
  },
  {
   "id": 3323012004,
   "districtId": 3323012,
-  "name": "MOJOSARI"
+  "districtName": "BANSARI",
+  "name": "MOJOSARI",
+  "postalCode": "56265"
  },
  {
   "id": 3323012005,
   "districtId": 3323012,
-  "name": "MRANGGEN KIDUL"
+  "districtName": "BANSARI",
+  "name": "MRANGGEN KIDUL",
+  "postalCode": "56265"
  },
  {
   "id": 3323012006,
   "districtId": 3323012,
-  "name": "MRANGGEN TENGAH"
+  "districtName": "BANSARI",
+  "name": "MRANGGEN TENGAH",
+  "postalCode": "56265"
  },
  {
   "id": 3323012007,
   "districtId": 3323012,
-  "name": "BANSARI"
+  "districtName": "BANSARI",
+  "name": "BANSARI",
+  "postalCode": "56265"
  },
  {
   "id": 3323012008,
   "districtId": 3323012,
-  "name": "GENTINGSARI"
+  "districtName": "BANSARI",
+  "name": "GENTINGSARI",
+  "postalCode": "56265"
  },
  {
   "id": 3323012009,
   "districtId": 3323012,
-  "name": "TANUREJO"
+  "districtName": "BANSARI",
+  "name": "TANUREJO",
+  "postalCode": "56265"
  },
  {
   "id": 3323012010,
   "districtId": 3323012,
-  "name": "PURBOREJO"
+  "districtName": "BANSARI",
+  "name": "PURBOREJO",
+  "postalCode": "56265"
  },
  {
   "id": 3323012011,
   "districtId": 3323012,
-  "name": "REJOSARI"
+  "districtName": "BANSARI",
+  "name": "REJOSARI",
+  "postalCode": "29353"
  },
  {
   "id": 3323012012,
   "districtId": 3323012,
-  "name": "CANDISARI"
+  "districtName": "BANSARI",
+  "name": "CANDISARI",
+  "postalCode": "57352"
  },
  {
   "id": 3323012013,
   "districtId": 3323012,
-  "name": "GUNUNGSARI"
+  "districtName": "BANSARI",
+  "name": "GUNUNGSARI",
+  "postalCode": "35368"
  }
 ]

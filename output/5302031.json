@@ -2,36 +2,50 @@
  {
   "id": 5302031001,
   "districtId": 5302031,
-  "name": "PRAI SALURA"
+  "districtName": "KARERA",
+  "name": "PRAI SALURA",
+  "postalCode": ""
  },
  {
   "id": 5302031002,
   "districtId": 5302031,
-  "name": "PRAIMADITA"
+  "districtName": "KARERA",
+  "name": "PRAIMADITA",
+  "postalCode": "87172"
  },
  {
   "id": 5302031003,
   "districtId": 5302031,
-  "name": "NGGONGI"
+  "districtName": "KARERA",
+  "name": "NGGONGI",
+  "postalCode": "87172"
  },
  {
   "id": 5302031004,
   "districtId": 5302031,
-  "name": "TANDULA JANGGA"
+  "districtName": "KARERA",
+  "name": "TANDULA JANGGA",
+  "postalCode": "87172"
  },
  {
   "id": 5302031005,
   "districtId": 5302031,
-  "name": "NANGGA"
+  "districtName": "KARERA",
+  "name": "NANGGA",
+  "postalCode": "87172"
  },
  {
   "id": 5302031010,
   "districtId": 5302031,
-  "name": "JANGGA MANGU"
+  "districtName": "KARERA",
+  "name": "JANGGA MANGU",
+  "postalCode": "87172"
  },
  {
   "id": 5302031012,
   "districtId": 5302031,
-  "name": "ANANJAKI"
+  "districtName": "KARERA",
+  "name": "ANANJAKI",
+  "postalCode": "87172"
  }
 ]

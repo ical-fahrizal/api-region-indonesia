@@ -2,36 +2,50 @@
  {
   "id": 3175060001,
   "districtId": 3175060,
-  "name": "SUKA PURA"
+  "districtName": "CILINCING",
+  "name": "SUKA PURA",
+  "postalCode": ""
  },
  {
   "id": 3175060002,
   "districtId": 3175060,
-  "name": "ROROTAN"
+  "districtName": "CILINCING",
+  "name": "ROROTAN",
+  "postalCode": "14140"
  },
  {
   "id": 3175060003,
   "districtId": 3175060,
-  "name": "MARUNDA"
+  "districtName": "CILINCING",
+  "name": "MARUNDA",
+  "postalCode": "14150"
  },
  {
   "id": 3175060004,
   "districtId": 3175060,
-  "name": "CILINCING"
+  "districtName": "CILINCING",
+  "name": "CILINCING",
+  "postalCode": "14120"
  },
  {
   "id": 3175060005,
   "districtId": 3175060,
-  "name": "SEMPER TIMUR"
+  "districtName": "CILINCING",
+  "name": "SEMPER TIMUR",
+  "postalCode": "14130"
  },
  {
   "id": 3175060006,
   "districtId": 3175060,
-  "name": "SEMPER BARAT"
+  "districtName": "CILINCING",
+  "name": "SEMPER BARAT",
+  "postalCode": "14130"
  },
  {
   "id": 3175060007,
   "districtId": 3175060,
-  "name": "KALI BARU"
+  "districtName": "CILINCING",
+  "name": "KALI BARU",
+  "postalCode": "14110"
  }
 ]

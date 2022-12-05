@@ -2,76 +2,106 @@
  {
   "id": 7316030001,
   "districtId": 7316030,
-  "name": "KADINGEH"
+  "districtName": "BARAKA",
+  "name": "KADINGEH",
+  "postalCode": "91753"
  },
  {
   "id": 7316030007,
   "districtId": 7316030,
-  "name": "JANGGURARA"
+  "districtName": "BARAKA",
+  "name": "JANGGURARA",
+  "postalCode": "91753"
  },
  {
   "id": 7316030008,
   "districtId": 7316030,
-  "name": "BANTI"
+  "districtName": "BARAKA",
+  "name": "BANTI",
+  "postalCode": "91753"
  },
  {
   "id": 7316030009,
   "districtId": 7316030,
-  "name": "PERANGIAN"
+  "districtName": "BARAKA",
+  "name": "PERANGIAN",
+  "postalCode": ""
  },
  {
   "id": 7316030010,
   "districtId": 7316030,
-  "name": "PARINDING"
+  "districtName": "BARAKA",
+  "name": "PARINDING",
+  "postalCode": "91753"
  },
  {
   "id": 7316030011,
   "districtId": 7316030,
-  "name": "TOMENAWA"
+  "districtName": "BARAKA",
+  "name": "TOMENAWA",
+  "postalCode": "91753"
  },
  {
   "id": 7316030012,
   "districtId": 7316030,
-  "name": "BARAKA"
+  "districtName": "BARAKA",
+  "name": "BARAKA",
+  "postalCode": "91753"
  },
  {
   "id": 7316030014,
   "districtId": 7316030,
-  "name": "BONTONGAN"
+  "districtName": "BARAKA",
+  "name": "BONTONGAN",
+  "postalCode": "91753"
  },
  {
   "id": 7316030017,
   "districtId": 7316030,
-  "name": "PEPANDUNGAN"
+  "districtName": "BARAKA",
+  "name": "PEPANDUNGAN",
+  "postalCode": "91753"
  },
  {
   "id": 7316030018,
   "districtId": 7316030,
-  "name": "KENDENAN"
+  "districtName": "BARAKA",
+  "name": "KENDENAN",
+  "postalCode": "91753"
  },
  {
   "id": 7316030019,
   "districtId": 7316030,
-  "name": "SALUKANAN"
+  "districtName": "BARAKA",
+  "name": "SALUKANAN",
+  "postalCode": "91753"
  },
  {
   "id": 7316030020,
   "districtId": 7316030,
-  "name": "TIRO WALI"
+  "districtName": "BARAKA",
+  "name": "TIRO WALI",
+  "postalCode": "91753"
  },
  {
   "id": 7316030021,
   "districtId": 7316030,
-  "name": "PANDUNG BATU"
+  "districtName": "BARAKA",
+  "name": "PANDUNG BATU",
+  "postalCode": "91753"
  },
  {
   "id": 7316030022,
   "districtId": 7316030,
-  "name": "BALLA"
+  "districtName": "BARAKA",
+  "name": "BALLA",
+  "postalCode": "91995"
  },
  {
   "id": 7316030023,
   "districtId": 7316030,
-  "name": "BONE BONE"
+  "districtName": "BARAKA",
+  "name": "BONE BONE",
+  "postalCode": "94892"
  }
 ]

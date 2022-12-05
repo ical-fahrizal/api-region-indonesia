@@ -2,51 +2,71 @@
  {
   "id": 1901080010,
   "districtId": 1901080,
-  "name": "KIMAK"
+  "districtName": "MERAWANG",
+  "name": "KIMAK",
+  "postalCode": "33172"
  },
  {
   "id": 1901080011,
   "districtId": 1901080,
-  "name": "JADA BAHRIN"
+  "districtName": "MERAWANG",
+  "name": "JADA BAHRIN",
+  "postalCode": "33172"
  },
  {
   "id": 1901080012,
   "districtId": 1901080,
-  "name": "BALUNIJUK"
+  "districtName": "MERAWANG",
+  "name": "BALUNIJUK",
+  "postalCode": ""
  },
  {
   "id": 1901080013,
   "districtId": 1901080,
-  "name": "PAGARAWAN"
+  "districtName": "MERAWANG",
+  "name": "PAGARAWAN",
+  "postalCode": "33172"
  },
  {
   "id": 1901080014,
   "districtId": 1901080,
-  "name": "BATURUSA"
+  "districtName": "MERAWANG",
+  "name": "BATURUSA",
+  "postalCode": "33172"
  },
  {
   "id": 1901080015,
   "districtId": 1901080,
-  "name": "AIR ANYIR"
+  "districtName": "MERAWANG",
+  "name": "AIR ANYIR",
+  "postalCode": "33172"
  },
  {
   "id": 1901080016,
   "districtId": 1901080,
-  "name": "RIDING PANJANG"
+  "districtName": "MERAWANG",
+  "name": "RIDING PANJANG",
+  "postalCode": "33253"
  },
  {
   "id": 1901080017,
   "districtId": 1901080,
-  "name": "DWI MAKMUR"
+  "districtName": "MERAWANG",
+  "name": "DWI MAKMUR",
+  "postalCode": "33172"
  },
  {
   "id": 1901080018,
   "districtId": 1901080,
-  "name": "JURUNG"
+  "districtName": "MERAWANG",
+  "name": "JURUNG",
+  "postalCode": "33172"
  },
  {
   "id": 1901080019,
   "districtId": 1901080,
-  "name": "MERAWANG"
+  "districtName": "MERAWANG",
+  "name": "MERAWANG",
+  "postalCode": "33172"
  }
 ]

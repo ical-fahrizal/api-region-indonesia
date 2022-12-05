@@ -2,16 +2,22 @@
  {
   "id": 9410073001,
   "districtId": 9410073,
-  "name": "AKOUBAIDA"
+  "districtName": "FAJAR TIMUR",
+  "name": "AKOUBAIDA",
+  "postalCode": "98766"
  },
  {
   "id": 9410073002,
   "districtId": 9410073,
-  "name": "YABOMAIDA"
+  "districtName": "FAJAR TIMUR",
+  "name": "YABOMAIDA",
+  "postalCode": "98766"
  },
  {
   "id": 9410073003,
   "districtId": 9410073,
-  "name": "DAUWAGU"
+  "districtName": "FAJAR TIMUR",
+  "name": "DAUWAGU",
+  "postalCode": "98766"
  }
 ]

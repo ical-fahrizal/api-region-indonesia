@@ -2,86 +2,120 @@
  {
   "id": 5311050005,
   "districtId": 5311050,
-  "name": "MBULIWARALAU UTARA"
+  "districtName": "WOLOWARU",
+  "name": "MBULIWARALAU UTARA",
+  "postalCode": "86372"
  },
  {
   "id": 5311050006,
   "districtId": 5311050,
-  "name": "MBULIWARALAU"
+  "districtName": "WOLOWARU",
+  "name": "MBULIWARALAU",
+  "postalCode": "86372"
  },
  {
   "id": 5311050015,
   "districtId": 5311050,
-  "name": "WOLOSOKO"
+  "districtName": "WOLOWARU",
+  "name": "WOLOSOKO",
+  "postalCode": "86372"
  },
  {
   "id": 5311050016,
   "districtId": 5311050,
-  "name": "BOKASAPE TIMUR"
+  "districtName": "WOLOWARU",
+  "name": "BOKASAPE TIMUR",
+  "postalCode": "86372"
  },
  {
   "id": 5311050017,
   "districtId": 5311050,
-  "name": "BOKASAPE"
+  "districtName": "WOLOWARU",
+  "name": "BOKASAPE",
+  "postalCode": "86372"
  },
  {
   "id": 5311050018,
   "districtId": 5311050,
-  "name": "WOLOKOLI"
+  "districtName": "WOLOWARU",
+  "name": "WOLOKOLI",
+  "postalCode": "86171"
  },
  {
   "id": 5311050019,
   "districtId": 5311050,
-  "name": "JOPU"
+  "districtName": "WOLOWARU",
+  "name": "JOPU",
+  "postalCode": "86372"
  },
  {
   "id": 5311050024,
   "districtId": 5311050,
-  "name": "MBULILOO"
+  "districtName": "WOLOWARU",
+  "name": "MBULILOO",
+  "postalCode": ""
  },
  {
   "id": 5311050025,
   "districtId": 5311050,
-  "name": "RINDIWAWO"
+  "districtName": "WOLOWARU",
+  "name": "RINDIWAWO",
+  "postalCode": "86372"
  },
  {
   "id": 5311050026,
   "districtId": 5311050,
-  "name": "LISEDETU"
+  "districtName": "WOLOWARU",
+  "name": "LISEDETU",
+  "postalCode": "86372"
  },
  {
   "id": 5311050027,
   "districtId": 5311050,
-  "name": "NUALISE"
+  "districtName": "WOLOWARU",
+  "name": "NUALISE",
+  "postalCode": "86372"
  },
  {
   "id": 5311050033,
   "districtId": 5311050,
-  "name": "LISELOWOBORA"
+  "districtName": "WOLOWARU",
+  "name": "LISELOWOBORA",
+  "postalCode": ""
  },
  {
   "id": 5311050036,
   "districtId": 5311050,
-  "name": "LIKANAKA"
+  "districtName": "WOLOWARU",
+  "name": "LIKANAKA",
+  "postalCode": "86372"
  },
  {
   "id": 5311050037,
   "districtId": 5311050,
-  "name": "NAKAMBARA"
+  "districtName": "WOLOWARU",
+  "name": "NAKAMBARA",
+  "postalCode": "86372"
  },
  {
   "id": 5311050038,
   "districtId": 5311050,
-  "name": "NIRAMESI"
+  "districtName": "WOLOWARU",
+  "name": "NIRAMESI",
+  "postalCode": ""
  },
  {
   "id": 5311050039,
   "districtId": 5311050,
-  "name": "TANA LOO"
+  "districtName": "WOLOWARU",
+  "name": "TANA LOO",
+  "postalCode": ""
  },
  {
   "id": 5311050040,
   "districtId": 5311050,
-  "name": "LISE PUU"
+  "districtName": "WOLOWARU",
+  "name": "LISE PUU",
+  "postalCode": ""
  }
 ]

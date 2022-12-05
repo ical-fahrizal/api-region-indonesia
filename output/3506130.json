@@ -2,51 +2,71 @@
  {
   "id": 3506130001,
   "districtId": 3506130,
-  "name": "KLAMPISAN"
+  "districtName": "KANDANGAN",
+  "name": "KLAMPISAN",
+  "postalCode": "63271"
  },
  {
   "id": 3506130002,
   "districtId": 3506130,
-  "name": "KANDANGAN"
+  "districtName": "KANDANGAN",
+  "name": "KANDANGAN",
+  "postalCode": "21186"
  },
  {
   "id": 3506130003,
   "districtId": 3506130,
-  "name": "MLANCU"
+  "districtName": "KANDANGAN",
+  "name": "MLANCU",
+  "postalCode": "64294"
  },
  {
   "id": 3506130004,
   "districtId": 3506130,
-  "name": "MEDOWO"
+  "districtName": "KANDANGAN",
+  "name": "MEDOWO",
+  "postalCode": "64294"
  },
  {
   "id": 3506130005,
   "districtId": 3506130,
-  "name": "BANARAN"
+  "districtName": "KANDANGAN",
+  "name": "BANARAN",
+  "postalCode": "51281"
  },
  {
   "id": 3506130007,
   "districtId": 3506130,
-  "name": "KASREMAN"
+  "districtName": "KANDANGAN",
+  "name": "KASREMAN",
+  "postalCode": "59219"
  },
  {
   "id": 3506130008,
   "districtId": 3506130,
-  "name": "KEMIRI"
+  "districtName": "KANDANGAN",
+  "name": "KEMIRI",
+  "postalCode": "41352"
  },
  {
   "id": 3506130009,
   "districtId": 3506130,
-  "name": "KARANGTENGAH"
+  "districtName": "KANDANGAN",
+  "name": "KARANGTENGAH",
+  "postalCode": "43351"
  },
  {
   "id": 3506130010,
   "districtId": 3506130,
-  "name": "JERUKWANGI"
+  "districtName": "KANDANGAN",
+  "name": "JERUKWANGI",
+  "postalCode": "59453"
  },
  {
   "id": 3506130012,
   "districtId": 3506130,
-  "name": "JLUMBANG"
+  "districtName": "KANDANGAN",
+  "name": "JLUMBANG",
+  "postalCode": "64294"
  }
 ]

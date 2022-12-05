@@ -2,46 +2,64 @@
  {
   "id": 9418126001,
   "districtId": 9418126,
-  "name": "MILIPAA"
+  "districtName": "DANIME",
+  "name": "MILIPAA",
+  "postalCode": "99561"
  },
  {
   "id": 9418126002,
   "districtId": 9418126,
-  "name": "WANIA"
+  "districtName": "DANIME",
+  "name": "WANIA",
+  "postalCode": "99561"
  },
  {
   "id": 9418126003,
   "districtId": 9418126,
-  "name": "NIAGALE"
+  "districtName": "DANIME",
+  "name": "NIAGALE",
+  "postalCode": "99561"
  },
  {
   "id": 9418126004,
   "districtId": 9418126,
-  "name": "TARAWI"
+  "districtName": "DANIME",
+  "name": "TARAWI",
+  "postalCode": "99561"
  },
  {
   "id": 9418126006,
   "districtId": 9418126,
-  "name": "AMBENA"
+  "districtName": "DANIME",
+  "name": "AMBENA",
+  "postalCode": "99561"
  },
  {
   "id": 9418126007,
   "districtId": 9418126,
-  "name": "GUNOMBO"
+  "districtName": "DANIME",
+  "name": "GUNOMBO",
+  "postalCode": "99561"
  },
  {
   "id": 9418126008,
   "districtId": 9418126,
-  "name": "MAWI"
+  "districtName": "DANIME",
+  "name": "MAWI",
+  "postalCode": "99561"
  },
  {
   "id": 9418126009,
   "districtId": 9418126,
-  "name": "RIPA"
+  "districtName": "DANIME",
+  "name": "RIPA",
+  "postalCode": "99561"
  },
  {
   "id": 9418126010,
   "districtId": 9418126,
-  "name": "DELEGARI"
+  "districtName": "DANIME",
+  "name": "DELEGARI",
+  "postalCode": "99561"
  }
 ]

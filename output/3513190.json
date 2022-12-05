@@ -2,66 +2,92 @@
  {
   "id": 3513190001,
   "districtId": 3513190,
-  "name": "BANYUANYAR LOR"
+  "districtName": "GENDING",
+  "name": "BANYUANYAR LOR",
+  "postalCode": "67272"
  },
  {
   "id": 3513190002,
   "districtId": 3513190,
-  "name": "SUMBERKERANG"
+  "districtName": "GENDING",
+  "name": "SUMBERKERANG",
+  "postalCode": "67272"
  },
  {
   "id": 3513190003,
   "districtId": 3513190,
-  "name": "SEBAUNG"
+  "districtName": "GENDING",
+  "name": "SEBAUNG",
+  "postalCode": "67272"
  },
  {
   "id": 3513190004,
   "districtId": 3513190,
-  "name": "PIKATAN"
+  "districtName": "GENDING",
+  "name": "PIKATAN",
+  "postalCode": "67272"
  },
  {
   "id": 3513190005,
   "districtId": 3513190,
-  "name": "BULANG"
+  "districtName": "GENDING",
+  "name": "BULANG",
+  "postalCode": "31352"
  },
  {
   "id": 3513190006,
   "districtId": 3513190,
-  "name": "BRUMBUNGAN LOR"
+  "districtName": "GENDING",
+  "name": "BRUMBUNGAN LOR",
+  "postalCode": "67272"
  },
  {
   "id": 3513190007,
   "districtId": 3513190,
-  "name": "JATIADI"
+  "districtName": "GENDING",
+  "name": "JATIADI",
+  "postalCode": "67272"
  },
  {
   "id": 3513190008,
   "districtId": 3513190,
-  "name": "KLASEMAN"
+  "districtName": "GENDING",
+  "name": "KLASEMAN",
+  "postalCode": "57557"
  },
  {
   "id": 3513190009,
   "districtId": 3513190,
-  "name": "PESISIR"
+  "districtName": "GENDING",
+  "name": "PESISIR",
+  "postalCode": "28144"
  },
  {
   "id": 3513190010,
   "districtId": 3513190,
-  "name": "RANDUPITU"
+  "districtName": "GENDING",
+  "name": "RANDUPITU",
+  "postalCode": "67155"
  },
  {
   "id": 3513190011,
   "districtId": 3513190,
-  "name": "GENDING"
+  "districtName": "GENDING",
+  "name": "GENDING",
+  "postalCode": "67272"
  },
  {
   "id": 3513190012,
   "districtId": 3513190,
-  "name": "PAJURANGAN"
+  "districtName": "GENDING",
+  "name": "PAJURANGAN",
+  "postalCode": "67272"
  },
  {
   "id": 3513190013,
   "districtId": 3513190,
-  "name": "CURAHSAWO"
+  "districtName": "GENDING",
+  "name": "CURAHSAWO",
+  "postalCode": "67272"
  }
 ]

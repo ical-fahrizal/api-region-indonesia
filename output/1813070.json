@@ -2,51 +2,71 @@
  {
   "id": 1813070001,
   "districtId": 1813070,
-  "name": "WALUR"
+  "districtName": "KRUI SELATAN",
+  "name": "WALUR",
+  "postalCode": "34874"
  },
  {
   "id": 1813070002,
   "districtId": 1813070,
-  "name": "PEMERIHAN"
+  "districtName": "KRUI SELATAN",
+  "name": "PEMERIHAN",
+  "postalCode": "34883"
  },
  {
   "id": 1813070003,
   "districtId": 1813070,
-  "name": "LINTIK"
+  "districtName": "KRUI SELATAN",
+  "name": "LINTIK",
+  "postalCode": "34874"
  },
  {
   "id": 1813070004,
   "districtId": 1813070,
-  "name": "SUKA JADI"
+  "districtName": "KRUI SELATAN",
+  "name": "SUKA JADI",
+  "postalCode": "23662"
  },
  {
   "id": 1813070005,
   "districtId": 1813070,
-  "name": "PADANG HALUAN"
+  "districtName": "KRUI SELATAN",
+  "name": "PADANG HALUAN",
+  "postalCode": "34874"
  },
  {
   "id": 1813070006,
   "districtId": 1813070,
-  "name": "WAY NAPAL"
+  "districtName": "KRUI SELATAN",
+  "name": "WAY NAPAL",
+  "postalCode": "34874"
  },
  {
   "id": 1813070007,
   "districtId": 1813070,
-  "name": "WAY SULUH"
+  "districtName": "KRUI SELATAN",
+  "name": "WAY SULUH",
+  "postalCode": "34874"
  },
  {
   "id": 1813070008,
   "districtId": 1813070,
-  "name": "PADANG RAYA"
+  "districtName": "KRUI SELATAN",
+  "name": "PADANG RAYA",
+  "postalCode": "34874"
  },
  {
   "id": 1813070009,
   "districtId": 1813070,
-  "name": "BALAI KENCANA"
+  "districtName": "KRUI SELATAN",
+  "name": "BALAI KENCANA",
+  "postalCode": "34874"
  },
  {
   "id": 1813070010,
   "districtId": 1813070,
-  "name": "MANDIRI SEJATI"
+  "districtName": "KRUI SELATAN",
+  "name": "MANDIRI SEJATI",
+  "postalCode": "34874"
  }
 ]

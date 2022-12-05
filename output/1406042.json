@@ -2,81 +2,113 @@
  {
   "id": 1406042001,
   "districtId": 1406042,
-  "name": "SEKIJANG"
+  "districtName": "TAPUNG HILIR",
+  "name": "SEKIJANG",
+  "postalCode": ""
  },
  {
   "id": 1406042002,
   "districtId": 1406042,
-  "name": "TEBING LESTARI"
+  "districtName": "TAPUNG HILIR",
+  "name": "TEBING LESTARI",
+  "postalCode": "28464"
  },
  {
   "id": 1406042003,
   "districtId": 1406042,
-  "name": "KIJANG JAYA"
+  "districtName": "TAPUNG HILIR",
+  "name": "KIJANG JAYA",
+  "postalCode": "28464"
  },
  {
   "id": 1406042004,
   "districtId": 1406042,
-  "name": "TANAH TINGGI"
+  "districtName": "TAPUNG HILIR",
+  "name": "TANAH TINGGI",
+  "postalCode": "21256"
  },
  {
   "id": 1406042005,
   "districtId": 1406042,
-  "name": "TAPUNG MAKMUR"
+  "districtName": "TAPUNG HILIR",
+  "name": "TAPUNG MAKMUR",
+  "postalCode": "28464"
  },
  {
   "id": 1406042006,
   "districtId": 1406042,
-  "name": "TAPUNG LESTARI"
+  "districtName": "TAPUNG HILIR",
+  "name": "TAPUNG LESTARI",
+  "postalCode": "28464"
  },
  {
   "id": 1406042007,
   "districtId": 1406042,
-  "name": "KOTA GARO"
+  "districtName": "TAPUNG HILIR",
+  "name": "KOTA GARO",
+  "postalCode": "28464"
  },
  {
   "id": 1406042008,
   "districtId": 1406042,
-  "name": "SUKA MAJU"
+  "districtName": "TAPUNG HILIR",
+  "name": "SUKA MAJU",
+  "postalCode": "24673"
  },
  {
   "id": 1406042009,
   "districtId": 1406042,
-  "name": "KOTA BARU"
+  "districtName": "TAPUNG HILIR",
+  "name": "KOTA BARU",
+  "postalCode": "23125"
  },
  {
   "id": 1406042010,
   "districtId": 1406042,
-  "name": "KOTO BANGUN"
+  "districtName": "TAPUNG HILIR",
+  "name": "KOTO BANGUN",
+  "postalCode": "26273"
  },
  {
   "id": 1406042011,
   "districtId": 1406042,
-  "name": "CINTA DAMAI"
+  "districtName": "TAPUNG HILIR",
+  "name": "CINTA DAMAI",
+  "postalCode": "24673"
  },
  {
   "id": 1406042012,
   "districtId": 1406042,
-  "name": "BERINGIN LESTARI"
+  "districtName": "TAPUNG HILIR",
+  "name": "BERINGIN LESTARI",
+  "postalCode": "28464"
  },
  {
   "id": 1406042013,
   "districtId": 1406042,
-  "name": "TANDAN SARI"
+  "districtName": "TAPUNG HILIR",
+  "name": "TANDAN SARI",
+  "postalCode": "28464"
  },
  {
   "id": 1406042015,
   "districtId": 1406042,
-  "name": "KIJANG MAKMUR"
+  "districtName": "TAPUNG HILIR",
+  "name": "KIJANG MAKMUR",
+  "postalCode": "28464"
  },
  {
   "id": 1406042016,
   "districtId": 1406042,
-  "name": "KOTO AMAN"
+  "districtName": "TAPUNG HILIR",
+  "name": "KOTO AMAN",
+  "postalCode": "28464"
  },
  {
   "id": 1406042017,
   "districtId": 1406042,
-  "name": "GERBANG SARI"
+  "districtName": "TAPUNG HILIR",
+  "name": "GERBANG SARI",
+  "postalCode": "28464"
  }
 ]

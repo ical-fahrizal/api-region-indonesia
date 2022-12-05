@@ -2,66 +2,92 @@
  {
   "id": 3317130001,
   "districtId": 3317130,
-  "name": "SANETAN"
+  "districtName": "SLUKE",
+  "name": "SANETAN",
+  "postalCode": "59272"
  },
  {
   "id": 3317130002,
   "districtId": 3317130,
-  "name": "RAKITAN"
+  "districtName": "SLUKE",
+  "name": "RAKITAN",
+  "postalCode": "53482"
  },
  {
   "id": 3317130003,
   "districtId": 3317130,
-  "name": "BENDO"
+  "districtName": "SLUKE",
+  "name": "BENDO",
+  "postalCode": "57378"
  },
  {
   "id": 3317130004,
   "districtId": 3317130,
-  "name": "LABUHAN KIDUL"
+  "districtName": "SLUKE",
+  "name": "LABUHAN KIDUL",
+  "postalCode": "59272"
  },
  {
   "id": 3317130005,
   "districtId": 3317130,
-  "name": "SENDANGMULYO"
+  "districtName": "SLUKE",
+  "name": "SENDANGMULYO",
+  "postalCode": "59255"
  },
  {
   "id": 3317130006,
   "districtId": 3317130,
-  "name": "BLIMBING"
+  "districtName": "SLUKE",
+  "name": "BLIMBING",
+  "postalCode": "52364"
  },
  {
   "id": 3317130007,
   "districtId": 3317130,
-  "name": "MANGGAR"
+  "districtName": "SLUKE",
+  "name": "MANGGAR",
+  "postalCode": "59272"
  },
  {
   "id": 3317130008,
   "districtId": 3317130,
-  "name": "JATISARI"
+  "districtName": "SLUKE",
+  "name": "JATISARI",
+  "postalCode": "32362"
  },
  {
   "id": 3317130009,
   "districtId": 3317130,
-  "name": "LANGGAR"
+  "districtName": "SLUKE",
+  "name": "LANGGAR",
+  "postalCode": "53392"
  },
  {
   "id": 3317130011,
   "districtId": 3317130,
-  "name": "JURANGJERO"
+  "districtName": "SLUKE",
+  "name": "JURANGJERO",
+  "postalCode": "58262"
  },
  {
   "id": 3317130012,
   "districtId": 3317130,
-  "name": "LERAN"
+  "districtName": "SLUKE",
+  "name": "LERAN",
+  "postalCode": "59272"
  },
  {
   "id": 3317130013,
   "districtId": 3317130,
-  "name": "TRAHAN"
+  "districtName": "SLUKE",
+  "name": "TRAHAN",
+  "postalCode": "59272"
  },
  {
   "id": 3317130014,
   "districtId": 3317130,
-  "name": "PANGKALAN"
+  "districtName": "SLUKE",
+  "name": "PANGKALAN",
+  "postalCode": "24477"
  }
 ]

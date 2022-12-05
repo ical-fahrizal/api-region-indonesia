@@ -2,41 +2,57 @@
  {
   "id": 9430051001,
   "districtId": 9430051,
-  "name": "ANDUGUME"
+  "districtName": "WANO BARAT",
+  "name": "ANDUGUME",
+  "postalCode": "99563"
  },
  {
   "id": 9430051002,
   "districtId": 9430051,
-  "name": "NENGGEYA"
+  "districtName": "WANO BARAT",
+  "name": "NENGGEYA",
+  "postalCode": "99563"
  },
  {
   "id": 9430051004,
   "districtId": 9430051,
-  "name": "WAMIRU"
+  "districtName": "WANO BARAT",
+  "name": "WAMIRU",
+  "postalCode": ""
  },
  {
   "id": 9430051007,
   "districtId": 9430051,
-  "name": "NABEL"
+  "districtName": "WANO BARAT",
+  "name": "NABEL",
+  "postalCode": ""
  },
  {
   "id": 9430051008,
   "districtId": 9430051,
-  "name": "TENAWI"
+  "districtName": "WANO BARAT",
+  "name": "TENAWI",
+  "postalCode": ""
  },
  {
   "id": 9430051009,
   "districtId": 9430051,
-  "name": "KOBANU"
+  "districtName": "WANO BARAT",
+  "name": "KOBANU",
+  "postalCode": ""
  },
  {
   "id": 9430051010,
   "districtId": 9430051,
-  "name": "PIRAGI"
+  "districtName": "WANO BARAT",
+  "name": "PIRAGI",
+  "postalCode": ""
  },
  {
   "id": 9430051011,
   "districtId": 9430051,
-  "name": "MINGGA"
+  "districtName": "WANO BARAT",
+  "name": "MINGGA",
+  "postalCode": ""
  }
 ]

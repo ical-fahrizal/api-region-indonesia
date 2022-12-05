@@ -2,96 +2,134 @@
  {
   "id": 1213010001,
   "districtId": 1213010,
-  "name": "BATU JONG JONG"
+  "districtName": "BOHOROK",
+  "name": "BATU JONG JONG",
+  "postalCode": ""
  },
  {
   "id": 1213010002,
   "districtId": 1213010,
-  "name": "LAU DAMAK"
+  "districtName": "BOHOROK",
+  "name": "LAU DAMAK",
+  "postalCode": "20774"
  },
  {
   "id": 1213010003,
   "districtId": 1213010,
-  "name": "TIMBANG LAWAN"
+  "districtName": "BOHOROK",
+  "name": "TIMBANG LAWAN",
+  "postalCode": "20774"
  },
  {
   "id": 1213010004,
   "districtId": 1213010,
-  "name": "SAMPE RAYA"
+  "districtName": "BOHOROK",
+  "name": "SAMPE RAYA",
+  "postalCode": "20774"
  },
  {
   "id": 1213010005,
   "districtId": 1213010,
-  "name": "BUKIT LAWANG"
+  "districtName": "BOHOROK",
+  "name": "BUKIT LAWANG",
+  "postalCode": ""
  },
  {
   "id": 1213010006,
   "districtId": 1213010,
-  "name": "PERKEBUNAN BUNGARA"
+  "districtName": "BOHOROK",
+  "name": "PERKEBUNAN BUNGARA",
+  "postalCode": "20774"
  },
  {
   "id": 1213010007,
   "districtId": 1213010,
-  "name": "PEKAN BAHOROK"
+  "districtName": "BOHOROK",
+  "name": "PEKAN BAHOROK",
+  "postalCode": "20774"
  },
  {
   "id": 1213010008,
   "districtId": 1213010,
-  "name": "EMPUS"
+  "districtName": "BOHOROK",
+  "name": "EMPUS",
+  "postalCode": "20774"
  },
  {
   "id": 1213010009,
   "districtId": 1213010,
-  "name": "PERKEBUNAN TURANGI"
+  "districtName": "BOHOROK",
+  "name": "PERKEBUNAN TURANGI",
+  "postalCode": "20774"
  },
  {
   "id": 1213010010,
   "districtId": 1213010,
-  "name": "SIMPANG PULAU RAMBUNG"
+  "districtName": "BOHOROK",
+  "name": "SIMPANG PULAU RAMBUNG",
+  "postalCode": "20774"
  },
  {
   "id": 1213010011,
   "districtId": 1213010,
-  "name": "SEMATAR"
+  "districtName": "BOHOROK",
+  "name": "SEMATAR",
+  "postalCode": "20774"
  },
  {
   "id": 1213010012,
   "districtId": 1213010,
-  "name": "PERKEBUNAN PULAU RAMBUNG"
+  "districtName": "BOHOROK",
+  "name": "PERKEBUNAN PULAU RAMBUNG",
+  "postalCode": "20774"
  },
  {
   "id": 1213010013,
   "districtId": 1213010,
-  "name": "SUKA RAKYAT"
+  "districtName": "BOHOROK",
+  "name": "SUKA RAKYAT",
+  "postalCode": "24474"
  },
  {
   "id": 1213010014,
   "districtId": 1213010,
-  "name": "TANJUNG LENGGANG"
+  "districtName": "BOHOROK",
+  "name": "TANJUNG LENGGANG",
+  "postalCode": "20774"
  },
  {
   "id": 1213010017,
   "districtId": 1213010,
-  "name": "PERKEBUNAN SEI MUSAM"
+  "districtName": "BOHOROK",
+  "name": "PERKEBUNAN SEI MUSAM",
+  "postalCode": "20774"
  },
  {
   "id": 1213010018,
   "districtId": 1213010,
-  "name": "SEI MUSAM KENDIT"
+  "districtName": "BOHOROK",
+  "name": "SEI MUSAM KENDIT",
+  "postalCode": "20774"
  },
  {
   "id": 1213010020,
   "districtId": 1213010,
-  "name": "TIMBANG JAYA"
+  "districtName": "BOHOROK",
+  "name": "TIMBANG JAYA",
+  "postalCode": "20774"
  },
  {
   "id": 1213010021,
   "districtId": 1213010,
-  "name": "MUSAM PEMBANGUNAN"
+  "districtName": "BOHOROK",
+  "name": "MUSAM PEMBANGUNAN",
+  "postalCode": "20774"
  },
  {
   "id": 1213010023,
   "districtId": 1213010,
-  "name": "UJUNG BANDAR"
+  "districtName": "BOHOROK",
+  "name": "UJUNG BANDAR",
+  "postalCode": "20774"
  }
 ]

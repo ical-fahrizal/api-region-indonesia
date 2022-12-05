@@ -2,76 +2,106 @@
  {
   "id": 1401031001,
   "districtId": 1401031,
-  "name": "PULAU KOPUNG"
+  "districtName": "SENTAJO RAYA",
+  "name": "PULAU KOPUNG",
+  "postalCode": ""
  },
  {
   "id": 1401031002,
   "districtId": 1401031,
-  "name": "KAMPUNG BARU SENTAJO"
+  "districtName": "SENTAJO RAYA",
+  "name": "KAMPUNG BARU SENTAJO",
+  "postalCode": "29566"
  },
  {
   "id": 1401031003,
   "districtId": 1401031,
-  "name": "KOTO SENTAJO"
+  "districtName": "SENTAJO RAYA",
+  "name": "KOTO SENTAJO",
+  "postalCode": "29566"
  },
  {
   "id": 1401031004,
   "districtId": 1401031,
-  "name": "MUARO SENTAJO"
+  "districtName": "SENTAJO RAYA",
+  "name": "MUARO SENTAJO",
+  "postalCode": "29566"
  },
  {
   "id": 1401031005,
   "districtId": 1401031,
-  "name": "PULAU KOMANG"
+  "districtName": "SENTAJO RAYA",
+  "name": "PULAU KOMANG",
+  "postalCode": ""
  },
  {
   "id": 1401031006,
   "districtId": 1401031,
-  "name": "BERINGIN JAYA"
+  "districtName": "SENTAJO RAYA",
+  "name": "BERINGIN JAYA",
+  "postalCode": "21464"
  },
  {
   "id": 1401031007,
   "districtId": 1401031,
-  "name": "JALUR PATAH"
+  "districtName": "SENTAJO RAYA",
+  "name": "JALUR PATAH",
+  "postalCode": "29566"
  },
  {
   "id": 1401031008,
   "districtId": 1401031,
-  "name": "TERATAK AIR HITAM"
+  "districtName": "SENTAJO RAYA",
+  "name": "TERATAK AIR HITAM",
+  "postalCode": "29566"
  },
  {
   "id": 1401031009,
   "districtId": 1401031,
-  "name": "PARIT TERATAK AIR HITAM"
+  "districtName": "SENTAJO RAYA",
+  "name": "PARIT TERATAK AIR HITAM",
+  "postalCode": "29566"
  },
  {
   "id": 1401031010,
   "districtId": 1401031,
-  "name": "SEBERANG TERATAK AIR HITAM"
+  "districtName": "SENTAJO RAYA",
+  "name": "SEBERANG TERATAK AIR HITAM",
+  "postalCode": "29566"
  },
  {
   "id": 1401031011,
   "districtId": 1401031,
-  "name": "GERINGGING BARU"
+  "districtName": "SENTAJO RAYA",
+  "name": "GERINGGING BARU",
+  "postalCode": ""
  },
  {
   "id": 1401031012,
   "districtId": 1401031,
-  "name": "MARSAWA"
+  "districtName": "SENTAJO RAYA",
+  "name": "MARSAWA",
+  "postalCode": "29566"
  },
  {
   "id": 1401031013,
   "districtId": 1401031,
-  "name": "LANGSAT HULU"
+  "districtName": "SENTAJO RAYA",
+  "name": "LANGSAT HULU",
+  "postalCode": "29566"
  },
  {
   "id": 1401031014,
   "districtId": 1401031,
-  "name": "MUARA LANGSAT"
+  "districtName": "SENTAJO RAYA",
+  "name": "MUARA LANGSAT",
+  "postalCode": "29566"
  },
  {
   "id": 1401031015,
   "districtId": 1401031,
-  "name": "GERINGGING JAYA"
+  "districtName": "SENTAJO RAYA",
+  "name": "GERINGGING JAYA",
+  "postalCode": "29566"
  }
 ]

@@ -2,76 +2,106 @@
  {
   "id": 7315080001,
   "districtId": 7315080,
-  "name": "BINANGA KARAENG"
+  "districtName": "LEMBANG",
+  "name": "BINANGA KARAENG",
+  "postalCode": "91254"
  },
  {
   "id": 7315080002,
   "districtId": 7315080,
-  "name": "SABBANG PARU"
+  "districtName": "LEMBANG",
+  "name": "SABBANG PARU",
+  "postalCode": "91254"
  },
  {
   "id": 7315080003,
   "districtId": 7315080,
-  "name": "TADOKKONG"
+  "districtName": "LEMBANG",
+  "name": "TADOKKONG",
+  "postalCode": "91254"
  },
  {
   "id": 7315080004,
   "districtId": 7315080,
-  "name": "PAKENG"
+  "districtName": "LEMBANG",
+  "name": "PAKENG",
+  "postalCode": "91254"
  },
  {
   "id": 7315080005,
   "districtId": 7315080,
-  "name": "RAJANG"
+  "districtName": "LEMBANG",
+  "name": "RAJANG",
+  "postalCode": "91254"
  },
  {
   "id": 7315080006,
   "districtId": 7315080,
-  "name": "LETTA"
+  "districtName": "LEMBANG",
+  "name": "LETTA",
+  "postalCode": "92415"
  },
  {
   "id": 7315080008,
   "districtId": 7315080,
-  "name": "KARIANGO"
+  "districtName": "LEMBANG",
+  "name": "KARIANGO",
+  "postalCode": "92965"
  },
  {
   "id": 7315080009,
   "districtId": 7315080,
-  "name": "ULUSADDANG"
+  "districtName": "LEMBANG",
+  "name": "ULUSADDANG",
+  "postalCode": "91254"
  },
  {
   "id": 7315080011,
   "districtId": 7315080,
-  "name": "BENTENG PAREMBA"
+  "districtName": "LEMBANG",
+  "name": "BENTENG PAREMBA",
+  "postalCode": "91254"
  },
  {
   "id": 7315080012,
   "districtId": 7315080,
-  "name": "SALI SALI"
+  "districtName": "LEMBANG",
+  "name": "SALI SALI",
+  "postalCode": "91254"
  },
  {
   "id": 7315080013,
   "districtId": 7315080,
-  "name": "SUPPIRANG"
+  "districtName": "LEMBANG",
+  "name": "SUPPIRANG",
+  "postalCode": "91254"
  },
  {
   "id": 7315080014,
   "districtId": 7315080,
-  "name": "LEMBANG MESAKADA"
+  "districtName": "LEMBANG",
+  "name": "LEMBANG MESAKADA",
+  "postalCode": "91254"
  },
  {
   "id": 7315080015,
   "districtId": 7315080,
-  "name": "BASSEANG"
+  "districtName": "LEMBANG",
+  "name": "BASSEANG",
+  "postalCode": "91254"
  },
  {
   "id": 7315080016,
   "districtId": 7315080,
-  "name": "PANGAPARANG"
+  "districtName": "LEMBANG",
+  "name": "PANGAPARANG",
+  "postalCode": "91254"
  },
  {
   "id": 7315080017,
   "districtId": 7315080,
-  "name": "BAKARU"
+  "districtName": "LEMBANG",
+  "name": "BAKARU",
+  "postalCode": "91254"
  }
 ]

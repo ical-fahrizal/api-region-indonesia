@@ -2,61 +2,85 @@
  {
   "id": 5304071001,
   "districtId": 5304071,
-  "name": "KOLBANO"
+  "districtName": "KOLBANO",
+  "name": "KOLBANO",
+  "postalCode": "85563"
  },
  {
   "id": 5304071002,
   "districtId": 5304071,
-  "name": "NOESIU"
+  "districtName": "KOLBANO",
+  "name": "NOESIU",
+  "postalCode": "85563"
  },
  {
   "id": 5304071003,
   "districtId": 5304071,
-  "name": "PENE SELATAN"
+  "districtName": "KOLBANO",
+  "name": "PENE SELATAN",
+  "postalCode": "85563"
  },
  {
   "id": 5304071004,
   "districtId": 5304071,
-  "name": "OETUKE"
+  "districtName": "KOLBANO",
+  "name": "OETUKE",
+  "postalCode": "85563"
  },
  {
   "id": 5304071005,
   "districtId": 5304071,
-  "name": "BABUIN"
+  "districtName": "KOLBANO",
+  "name": "BABUIN",
+  "postalCode": "85563"
  },
  {
   "id": 5304071006,
   "districtId": 5304071,
-  "name": "OELEU"
+  "districtName": "KOLBANO",
+  "name": "OELEU",
+  "postalCode": "85563"
  },
  {
   "id": 5304071007,
   "districtId": 5304071,
-  "name": "SEI"
+  "districtName": "KOLBANO",
+  "name": "SEI",
+  "postalCode": "85563"
  },
  {
   "id": 5304071008,
   "districtId": 5304071,
-  "name": "NUNUNAMAT"
+  "districtName": "KOLBANO",
+  "name": "NUNUNAMAT",
+  "postalCode": "85563"
  },
  {
   "id": 5304071009,
   "districtId": 5304071,
-  "name": "PANA"
+  "districtName": "KOLBANO",
+  "name": "PANA",
+  "postalCode": "85563"
  },
  {
   "id": 5304071010,
   "districtId": 5304071,
-  "name": "HAUNOBENAK"
+  "districtName": "KOLBANO",
+  "name": "HAUNOBENAK",
+  "postalCode": "85563"
  },
  {
   "id": 5304071011,
   "districtId": 5304071,
-  "name": "OFU"
+  "districtName": "KOLBANO",
+  "name": "OFU",
+  "postalCode": "85563"
  },
  {
   "id": 5304071012,
   "districtId": 5304071,
-  "name": "SPAHA"
+  "districtName": "KOLBANO",
+  "name": "SPAHA",
+  "postalCode": "85563"
  }
 ]

@@ -2,46 +2,64 @@
  {
   "id": 7504041001,
   "districtId": 7504041,
-  "name": "HUANGOBOTU"
+  "districtName": "KABILA BONE",
+  "name": "HUANGOBOTU",
+  "postalCode": "96138"
  },
  {
   "id": 7504041002,
   "districtId": 7504041,
-  "name": "MOLOTABU"
+  "districtName": "KABILA BONE",
+  "name": "MOLOTABU",
+  "postalCode": ""
  },
  {
   "id": 7504041003,
   "districtId": 7504041,
-  "name": "OLUHUTA"
+  "districtName": "KABILA BONE",
+  "name": "OLUHUTA",
+  "postalCode": "96253"
  },
  {
   "id": 7504041004,
   "districtId": 7504041,
-  "name": "BOTUBARANI"
+  "districtName": "KABILA BONE",
+  "name": "BOTUBARANI",
+  "postalCode": "96583"
  },
  {
   "id": 7504041005,
   "districtId": 7504041,
-  "name": "BILUANGO"
+  "districtName": "KABILA BONE",
+  "name": "BILUANGO",
+  "postalCode": "96583"
  },
  {
   "id": 7504041006,
   "districtId": 7504041,
-  "name": "MODELOMO"
+  "districtName": "KABILA BONE",
+  "name": "MODELOMO",
+  "postalCode": "96585"
  },
  {
   "id": 7504041007,
   "districtId": 7504041,
-  "name": "BOTUTONUO"
+  "districtName": "KABILA BONE",
+  "name": "BOTUTONUO",
+  "postalCode": ""
  },
  {
   "id": 7504041008,
   "districtId": 7504041,
-  "name": "OLELE"
+  "districtName": "KABILA BONE",
+  "name": "OLELE",
+  "postalCode": "96585"
  },
  {
   "id": 7504041009,
   "districtId": 7504041,
-  "name": "BINTALAHE"
+  "districtName": "KABILA BONE",
+  "name": "BINTALAHE",
+  "postalCode": "96585"
  }
 ]

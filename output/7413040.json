@@ -2,26 +2,36 @@
  {
   "id": 7413040001,
   "districtId": 7413040,
-  "name": "BARAKKAH"
+  "districtName": "TIWORO SELATAN",
+  "name": "BARAKKAH",
+  "postalCode": "93664"
  },
  {
   "id": 7413040002,
   "districtId": 7413040,
-  "name": "SANGIA TIWORO"
+  "districtName": "TIWORO SELATAN",
+  "name": "SANGIA TIWORO",
+  "postalCode": "93664"
  },
  {
   "id": 7413040003,
   "districtId": 7413040,
-  "name": "KASIMPA JAYA"
+  "districtName": "TIWORO SELATAN",
+  "name": "KASIMPA JAYA",
+  "postalCode": "93664"
  },
  {
   "id": 7413040004,
   "districtId": 7413040,
-  "name": "KATANGANA"
+  "districtName": "TIWORO SELATAN",
+  "name": "KATANGANA",
+  "postalCode": "93664"
  },
  {
   "id": 7413040005,
   "districtId": 7413040,
-  "name": "PARURA JAYA"
+  "districtName": "TIWORO SELATAN",
+  "name": "PARURA JAYA",
+  "postalCode": "93664"
  }
 ]

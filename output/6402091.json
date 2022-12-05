@@ -2,61 +2,85 @@
  {
   "id": 6402091001,
   "districtId": 6402091,
-  "name": "PURWOREJO"
+  "districtName": "TERING",
+  "name": "PURWOREJO",
+  "postalCode": "23661"
  },
  {
   "id": 6402091002,
   "districtId": 6402091,
-  "name": "KELUBAQ"
+  "districtName": "TERING",
+  "name": "KELUBAQ",
+  "postalCode": "75766"
  },
  {
   "id": 6402091003,
   "districtId": 6402091,
-  "name": "TERING SEBERANG"
+  "districtName": "TERING",
+  "name": "TERING SEBERANG",
+  "postalCode": "75766"
  },
  {
   "id": 6402091004,
   "districtId": 6402091,
-  "name": "TERING LAMA"
+  "districtName": "TERING",
+  "name": "TERING LAMA",
+  "postalCode": "75766"
  },
  {
   "id": 6402091005,
   "districtId": 6402091,
-  "name": "TERING BARU"
+  "districtName": "TERING",
+  "name": "TERING BARU",
+  "postalCode": "75766"
  },
  {
   "id": 6402091009,
   "districtId": 6402091,
-  "name": "MUARA MUJAN"
+  "districtName": "TERING",
+  "name": "MUARA MUJAN",
+  "postalCode": "75766"
  },
  {
   "id": 6402091010,
   "districtId": 6402091,
-  "name": "KALIAN DALAM"
+  "districtName": "TERING",
+  "name": "KALIAN DALAM",
+  "postalCode": ""
  },
  {
   "id": 6402091011,
   "districtId": 6402091,
-  "name": "MUYUP ILIR"
+  "districtName": "TERING",
+  "name": "MUYUP ILIR",
+  "postalCode": ""
  },
  {
   "id": 6402091012,
   "districtId": 6402091,
-  "name": "MUYUT AKET"
+  "districtName": "TERING",
+  "name": "MUYUT AKET",
+  "postalCode": ""
  },
  {
   "id": 6402091013,
   "districtId": 6402091,
-  "name": "GABUNG BARU"
+  "districtName": "TERING",
+  "name": "GABUNG BARU",
+  "postalCode": ""
  },
  {
   "id": 6402091014,
   "districtId": 6402091,
-  "name": "BANJAREJO"
+  "districtName": "TERING",
+  "name": "BANJAREJO",
+  "postalCode": "35373"
  },
  {
   "id": 6402091015,
   "districtId": 6402091,
-  "name": "TERING LAMA ULU"
+  "districtName": "TERING",
+  "name": "TERING LAMA ULU",
+  "postalCode": ""
  }
 ]

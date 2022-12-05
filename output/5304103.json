@@ -2,26 +2,36 @@
  {
   "id": 5304103001,
   "districtId": 5304103,
-  "name": "SUNI"
+  "districtName": "NOEBANA",
+  "name": "SUNI",
+  "postalCode": "85573"
  },
  {
   "id": 5304103002,
   "districtId": 5304103,
-  "name": "NOEBANA"
+  "districtName": "NOEBANA",
+  "name": "NOEBANA",
+  "postalCode": "85573"
  },
  {
   "id": 5304103003,
   "districtId": 5304103,
-  "name": "FATUMNASI"
+  "districtName": "NOEBANA",
+  "name": "FATUMNASI",
+  "postalCode": "85561"
  },
  {
   "id": 5304103004,
   "districtId": 5304103,
-  "name": "MELLA"
+  "districtName": "NOEBANA",
+  "name": "MELLA",
+  "postalCode": "85573"
  },
  {
   "id": 5304103005,
   "districtId": 5304103,
-  "name": "MNELA PETU"
+  "districtName": "NOEBANA",
+  "name": "MNELA PETU",
+  "postalCode": ""
  }
 ]

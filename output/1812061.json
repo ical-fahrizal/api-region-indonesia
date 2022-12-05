@@ -2,51 +2,71 @@
  {
   "id": 1812061001,
   "districtId": 1812061,
-  "name": "MULYO SARI"
+  "districtName": "BATU PUTIH",
+  "name": "MULYO SARI",
+  "postalCode": "31657"
  },
  {
   "id": 1812061002,
   "districtId": 1812061,
-  "name": "MARGA SARI"
+  "districtName": "BATU PUTIH",
+  "name": "MARGA SARI",
+  "postalCode": "34683"
  },
  {
   "id": 1812061003,
   "districtId": 1812061,
-  "name": "TOTO WONODADI"
+  "districtName": "BATU PUTIH",
+  "name": "TOTO WONODADI",
+  "postalCode": "34683"
  },
  {
   "id": 1812061004,
   "districtId": 1812061,
-  "name": "SIDO MAKMUR"
+  "districtName": "BATU PUTIH",
+  "name": "SIDO MAKMUR",
+  "postalCode": "20772"
  },
  {
   "id": 1812061005,
   "districtId": 1812061,
-  "name": "PANCA MARGA"
+  "districtName": "BATU PUTIH",
+  "name": "PANCA MARGA",
+  "postalCode": "34683"
  },
  {
   "id": 1812061006,
   "districtId": 1812061,
-  "name": "TOTO KATON"
+  "districtName": "BATU PUTIH",
+  "name": "TOTO KATON",
+  "postalCode": "34683"
  },
  {
   "id": 1812061007,
   "districtId": 1812061,
-  "name": "TOTO MAKMUR"
+  "districtName": "BATU PUTIH",
+  "name": "TOTO MAKMUR",
+  "postalCode": ""
  },
  {
   "id": 1812061008,
   "districtId": 1812061,
-  "name": "MARGO DADI"
+  "districtName": "BATU PUTIH",
+  "name": "MARGO DADI",
+  "postalCode": "34594"
  },
  {
   "id": 1812061009,
   "districtId": 1812061,
-  "name": "MARGA MULYO"
+  "districtName": "BATU PUTIH",
+  "name": "MARGA MULYO",
+  "postalCode": "38956"
  },
  {
   "id": 1812061010,
   "districtId": 1812061,
-  "name": "SAKTI JAYA"
+  "districtName": "BATU PUTIH",
+  "name": "SAKTI JAYA",
+  "postalCode": "34683"
  }
 ]

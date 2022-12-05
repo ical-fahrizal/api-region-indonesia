@@ -2,71 +2,99 @@
  {
   "id": 3518070001,
   "districtId": 3518070,
-  "name": "GONDANGLEGI"
+  "districtName": "PRAMBON",
+  "name": "GONDANGLEGI",
+  "postalCode": "54392"
  },
  {
   "id": 3518070002,
   "districtId": 3518070,
-  "name": "SINGKAL ANYAR"
+  "districtName": "PRAMBON",
+  "name": "SINGKAL ANYAR",
+  "postalCode": "64484"
  },
  {
   "id": 3518070003,
   "districtId": 3518070,
-  "name": "MOJO AGUNG"
+  "districtName": "PRAMBON",
+  "name": "MOJO AGUNG",
+  "postalCode": "64484"
  },
  {
   "id": 3518070004,
   "districtId": 3518070,
-  "name": "BANDUNG"
+  "districtName": "PRAMBON",
+  "name": "BANDUNG",
+  "postalCode": "54317"
  },
  {
   "id": 3518070005,
   "districtId": 3518070,
-  "name": "NGLAWAK"
+  "districtName": "PRAMBON",
+  "name": "NGLAWAK",
+  "postalCode": "64315"
  },
  {
   "id": 3518070006,
   "districtId": 3518070,
-  "name": "BALETURI"
+  "districtName": "PRAMBON",
+  "name": "BALETURI",
+  "postalCode": "64484"
  },
  {
   "id": 3518070007,
   "districtId": 3518070,
-  "name": "TEGARON"
+  "districtName": "PRAMBON",
+  "name": "TEGARON",
+  "postalCode": "50664"
  },
  {
   "id": 3518070008,
   "districtId": 3518070,
-  "name": "TANJUNG TANI"
+  "districtName": "PRAMBON",
+  "name": "TANJUNG TANI",
+  "postalCode": "64484"
  },
  {
   "id": 3518070009,
   "districtId": 3518070,
-  "name": "SANGGRAHAN"
+  "districtName": "PRAMBON",
+  "name": "SANGGRAHAN",
+  "postalCode": "57552"
  },
  {
   "id": 3518070010,
   "districtId": 3518070,
-  "name": "ROWOHARJO"
+  "districtName": "PRAMBON",
+  "name": "ROWOHARJO",
+  "postalCode": "64484"
  },
  {
   "id": 3518070011,
   "districtId": 3518070,
-  "name": "SUGIHWARAS"
+  "districtName": "PRAMBON",
+  "name": "SUGIHWARAS",
+  "postalCode": "54363"
  },
  {
   "id": 3518070012,
   "districtId": 3518070,
-  "name": "WATU DANDANG"
+  "districtName": "PRAMBON",
+  "name": "WATU DANDANG",
+  "postalCode": "64484"
  },
  {
   "id": 3518070013,
   "districtId": 3518070,
-  "name": "SONO AGENG"
+  "districtName": "PRAMBON",
+  "name": "SONO AGENG",
+  "postalCode": "64484"
  },
  {
   "id": 3518070014,
   "districtId": 3518070,
-  "name": "KURUNGREJO"
+  "districtName": "PRAMBON",
+  "name": "KURUNGREJO",
+  "postalCode": "64484"
  }
 ]

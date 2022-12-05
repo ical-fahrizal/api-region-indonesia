@@ -2,46 +2,64 @@
  {
   "id": 3528030001,
   "districtId": 3528030,
-  "name": "KONANG"
+  "districtName": "GALIS",
+  "name": "KONANG",
+  "postalCode": "69382"
  },
  {
   "id": 3528030002,
   "districtId": 3528030,
-  "name": "PANDAN"
+  "districtName": "GALIS",
+  "name": "PANDAN",
+  "postalCode": "22611"
  },
  {
   "id": 3528030004,
   "districtId": 3528030,
-  "name": "GALIS"
+  "districtName": "GALIS",
+  "name": "GALIS",
+  "postalCode": "69173"
  },
  {
   "id": 3528030005,
   "districtId": 3528030,
-  "name": "BULAY"
+  "districtName": "GALIS",
+  "name": "BULAY",
+  "postalCode": "69382"
  },
  {
   "id": 3528030006,
   "districtId": 3528030,
-  "name": "TOBUNGAN"
+  "districtName": "GALIS",
+  "name": "TOBUNGAN",
+  "postalCode": "69382"
  },
  {
   "id": 3528030007,
   "districtId": 3528030,
-  "name": "PAGENDINGAN"
+  "districtName": "GALIS",
+  "name": "PAGENDINGAN",
+  "postalCode": "69382"
  },
  {
   "id": 3528030008,
   "districtId": 3528030,
-  "name": "PONTEH"
+  "districtName": "GALIS",
+  "name": "PONTEH",
+  "postalCode": "69382"
  },
  {
   "id": 3528030009,
   "districtId": 3528030,
-  "name": "POLAGAN"
+  "districtName": "GALIS",
+  "name": "POLAGAN",
+  "postalCode": "69382"
  },
  {
   "id": 3528030010,
   "districtId": 3528030,
-  "name": "ARTODUNG"
+  "districtName": "GALIS",
+  "name": "ARTODUNG",
+  "postalCode": "69382"
  }
 ]

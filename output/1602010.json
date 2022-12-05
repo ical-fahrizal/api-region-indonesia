@@ -2,96 +2,134 @@
  {
   "id": 1602010001,
   "districtId": 1602010,
-  "name": "CAHYA BUMI"
+  "districtName": "LEMPUING",
+  "name": "CAHYA BUMI",
+  "postalCode": "30657"
  },
  {
   "id": 1602010002,
   "districtId": 1602010,
-  "name": "BUMI ARJO"
+  "districtName": "LEMPUING",
+  "name": "BUMI ARJO",
+  "postalCode": "30657"
  },
  {
   "id": 1602010003,
   "districtId": 1602010,
-  "name": "CAHYA TANI"
+  "districtName": "LEMPUING",
+  "name": "CAHYA TANI",
+  "postalCode": ""
  },
  {
   "id": 1602010004,
   "districtId": 1602010,
-  "name": "DABUK REJO"
+  "districtName": "LEMPUING",
+  "name": "DABUK REJO",
+  "postalCode": "30657"
  },
  {
   "id": 1602010005,
   "districtId": 1602010,
-  "name": "SUKAMULYA"
+  "districtName": "LEMPUING",
+  "name": "SUKAMULYA",
+  "postalCode": "30657"
  },
  {
   "id": 1602010007,
   "districtId": 1602010,
-  "name": "TEBING SULUH"
+  "districtName": "LEMPUING",
+  "name": "TEBING SULUH",
+  "postalCode": "30657"
  },
  {
   "id": 1602010008,
   "districtId": 1602010,
-  "name": "CAHYA MAJU"
+  "districtName": "LEMPUING",
+  "name": "CAHYA MAJU",
+  "postalCode": "30657"
  },
  {
   "id": 1602010009,
   "districtId": 1602010,
-  "name": "TULUNG HARAPAN"
+  "districtName": "LEMPUING",
+  "name": "TULUNG HARAPAN",
+  "postalCode": "30657"
  },
  {
   "id": 1602010010,
   "districtId": 1602010,
-  "name": "BUMI AGUNG"
+  "districtName": "LEMPUING",
+  "name": "BUMI AGUNG",
+  "postalCode": "31521"
  },
  {
   "id": 1602010011,
   "districtId": 1602010,
-  "name": "SINDANG SARI"
+  "districtName": "LEMPUING",
+  "name": "SINDANG SARI",
+  "postalCode": "30657"
  },
  {
   "id": 1602010012,
   "districtId": 1602010,
-  "name": "SUMBER AGUNG"
+  "districtName": "LEMPUING",
+  "name": "SUMBER AGUNG",
+  "postalCode": "37353"
  },
  {
   "id": 1602010014,
   "districtId": 1602010,
-  "name": "KEPAHYANG"
+  "districtName": "LEMPUING",
+  "name": "KEPAHYANG",
+  "postalCode": "30657"
  },
  {
   "id": 1602010015,
   "districtId": 1602010,
-  "name": "TUGUMULYO"
+  "districtName": "LEMPUING",
+  "name": "TUGUMULYO",
+  "postalCode": "30657"
  },
  {
   "id": 1602010016,
   "districtId": 1602010,
-  "name": "TUGU AGUNG"
+  "districtName": "LEMPUING",
+  "name": "TUGU AGUNG",
+  "postalCode": "30657"
  },
  {
   "id": 1602010017,
   "districtId": 1602010,
-  "name": "TUGU JAYA"
+  "districtName": "LEMPUING",
+  "name": "TUGU JAYA",
+  "postalCode": "30657"
  },
  {
   "id": 1602010018,
   "districtId": 1602010,
-  "name": "MEKAR JAYA"
+  "districtName": "LEMPUING",
+  "name": "MEKAR JAYA",
+  "postalCode": "20771"
  },
  {
   "id": 1602010019,
   "districtId": 1602010,
-  "name": "SUMBER MAKMUR"
+  "districtName": "LEMPUING",
+  "name": "SUMBER MAKMUR",
+  "postalCode": "23662"
  },
  {
   "id": 1602010020,
   "districtId": 1602010,
-  "name": "BUMI ARJO MAKMUR"
+  "districtName": "LEMPUING",
+  "name": "BUMI ARJO MAKMUR",
+  "postalCode": ""
  },
  {
   "id": 1602010021,
   "districtId": 1602010,
-  "name": "CAHYA MAKMUR"
+  "districtName": "LEMPUING",
+  "name": "CAHYA MAKMUR",
+  "postalCode": ""
  }
 ]

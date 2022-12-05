@@ -2,86 +2,120 @@
  {
   "id": 1211080001,
   "districtId": 1211080,
-  "name": "BEGANDING"
+  "districtName": "SIMPANG EMPAT",
+  "name": "BEGANDING",
+  "postalCode": "22153"
  },
  {
   "id": 1211080002,
   "districtId": 1211080,
-  "name": "SERUMBIA"
+  "districtName": "SIMPANG EMPAT",
+  "name": "SERUMBIA",
+  "postalCode": "22153"
  },
  {
   "id": 1211080003,
   "districtId": 1211080,
-  "name": "NANG BELAWAN"
+  "districtName": "SIMPANG EMPAT",
+  "name": "NANG BELAWAN",
+  "postalCode": "22153"
  },
  {
   "id": 1211080004,
   "districtId": 1211080,
-  "name": "LINGGA"
+  "districtName": "SIMPANG EMPAT",
+  "name": "LINGGA",
+  "postalCode": "21174"
  },
  {
   "id": 1211080005,
   "districtId": 1211080,
-  "name": "LINGGA JULU"
+  "districtName": "SIMPANG EMPAT",
+  "name": "LINGGA JULU",
+  "postalCode": "22153"
  },
  {
   "id": 1211080006,
   "districtId": 1211080,
-  "name": "NDOKUM SIROGA"
+  "districtName": "SIMPANG EMPAT",
+  "name": "NDOKUM SIROGA",
+  "postalCode": "22153"
  },
  {
   "id": 1211080007,
   "districtId": 1211080,
-  "name": "SURBAKTI"
+  "districtName": "SIMPANG EMPAT",
+  "name": "SURBAKTI",
+  "postalCode": "22153"
  },
  {
   "id": 1211080008,
   "districtId": 1211080,
-  "name": "TIGA PANCUR"
+  "districtName": "SIMPANG EMPAT",
+  "name": "TIGA PANCUR",
+  "postalCode": "22153"
  },
  {
   "id": 1211080009,
   "districtId": 1211080,
-  "name": "BERASTEPU"
+  "districtName": "SIMPANG EMPAT",
+  "name": "BERASTEPU",
+  "postalCode": "22153"
  },
  {
   "id": 1211080010,
   "districtId": 1211080,
-  "name": "PINTU BESI"
+  "districtName": "SIMPANG EMPAT",
+  "name": "PINTU BESI",
+  "postalCode": "22153"
  },
  {
   "id": 1211080011,
   "districtId": 1211080,
-  "name": "JERAYA"
+  "districtName": "SIMPANG EMPAT",
+  "name": "JERAYA",
+  "postalCode": "22153"
  },
  {
   "id": 1211080012,
   "districtId": 1211080,
-  "name": "PERTEGUHEN"
+  "districtName": "SIMPANG EMPAT",
+  "name": "PERTEGUHEN",
+  "postalCode": "22153"
  },
  {
   "id": 1211080013,
   "districtId": 1211080,
-  "name": "KUTA TENGAH"
+  "districtName": "SIMPANG EMPAT",
+  "name": "KUTA TENGAH",
+  "postalCode": "24782"
  },
  {
   "id": 1211080014,
   "districtId": 1211080,
-  "name": "TORONG"
+  "districtName": "SIMPANG EMPAT",
+  "name": "TORONG",
+  "postalCode": "22153"
  },
  {
   "id": 1211080015,
   "districtId": 1211080,
-  "name": "GAJAH"
+  "districtName": "SIMPANG EMPAT",
+  "name": "GAJAH",
+  "postalCode": "24655"
  },
  {
   "id": 1211080016,
   "districtId": 1211080,
-  "name": "BULAN BARU"
+  "districtName": "SIMPANG EMPAT",
+  "name": "BULAN BARU",
+  "postalCode": "22153"
  },
  {
   "id": 1211080021,
   "districtId": 1211080,
-  "name": "GAMBER"
+  "districtName": "SIMPANG EMPAT",
+  "name": "GAMBER",
+  "postalCode": "22153"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 7307020001,
   "districtId": 7307020,
-  "name": "BATU BELERANG"
+  "districtName": "SINJAI BORONG",
+  "name": "BATU BELERANG",
+  "postalCode": "92662"
  },
  {
   "id": 7307020002,
   "districtId": 7307020,
-  "name": "KASSI BULENG"
+  "districtName": "SINJAI BORONG",
+  "name": "KASSI BULENG",
+  "postalCode": "92662"
  },
  {
   "id": 7307020003,
   "districtId": 7307020,
-  "name": "PASIR PUTIH"
+  "districtName": "SINJAI BORONG",
+  "name": "PASIR PUTIH",
+  "postalCode": "24453"
  },
  {
   "id": 7307020004,
   "districtId": 7307020,
-  "name": "BONTO SINALA"
+  "districtName": "SINJAI BORONG",
+  "name": "BONTO SINALA",
+  "postalCode": "92662"
  },
  {
   "id": 7307020005,
   "districtId": 7307020,
-  "name": "BIJI NANGKA"
+  "districtName": "SINJAI BORONG",
+  "name": "BIJI NANGKA",
+  "postalCode": "92662"
  },
  {
   "id": 7307020006,
   "districtId": 7307020,
-  "name": "BARAMBANG"
+  "districtName": "SINJAI BORONG",
+  "name": "BARAMBANG",
+  "postalCode": "22564"
  },
  {
   "id": 7307020007,
   "districtId": 7307020,
-  "name": "BONTO KATUTE"
+  "districtName": "SINJAI BORONG",
+  "name": "BONTO KATUTE",
+  "postalCode": "92662"
  },
  {
   "id": 7307020008,
   "districtId": 7307020,
-  "name": "BONTO TENGNGA"
+  "districtName": "SINJAI BORONG",
+  "name": "BONTO TENGNGA",
+  "postalCode": "92662"
  }
 ]

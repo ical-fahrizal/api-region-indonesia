@@ -2,56 +2,78 @@
  {
   "id": 1505011009,
   "districtId": 1505011,
-  "name": "TANJUNG HARAPAN"
+  "districtName": "SUNGAI BAHAR",
+  "name": "TANJUNG HARAPAN",
+  "postalCode": "23754"
  },
  {
   "id": 1505011010,
   "districtId": 1505011,
-  "name": "MARGA"
+  "districtName": "SUNGAI BAHAR",
+  "name": "MARGA",
+  "postalCode": "82181"
  },
  {
   "id": 1505011011,
   "districtId": 1505011,
-  "name": "BUKIT MAS"
+  "districtName": "SUNGAI BAHAR",
+  "name": "BUKIT MAS",
+  "postalCode": "20859"
  },
  {
   "id": 1505011012,
   "districtId": 1505011,
-  "name": "PANCA BAKTI"
+  "districtName": "SUNGAI BAHAR",
+  "name": "PANCA BAKTI",
+  "postalCode": "36365"
  },
  {
   "id": 1505011013,
   "districtId": 1505011,
-  "name": "BUKIT MAKMUR"
+  "districtName": "SUNGAI BAHAR",
+  "name": "BUKIT MAKMUR",
+  "postalCode": "24457"
  },
  {
   "id": 1505011020,
   "districtId": 1505011,
-  "name": "SUKA MAKMUR"
+  "districtName": "SUNGAI BAHAR",
+  "name": "SUKA MAKMUR",
+  "postalCode": "24784"
  },
  {
   "id": 1505011021,
   "districtId": 1505011,
-  "name": "MARGA MULYA"
+  "districtName": "SUNGAI BAHAR",
+  "name": "MARGA MULYA",
+  "postalCode": "28565"
  },
  {
   "id": 1505011022,
   "districtId": 1505011,
-  "name": "BERKAH"
+  "districtName": "SUNGAI BAHAR",
+  "name": "BERKAH",
+  "postalCode": ""
  },
  {
   "id": 1505011023,
   "districtId": 1505011,
-  "name": "PANCA MULYA"
+  "districtName": "SUNGAI BAHAR",
+  "name": "PANCA MULYA",
+  "postalCode": "36365"
  },
  {
   "id": 1505011025,
   "districtId": 1505011,
-  "name": "MEKAR SARI MAKMUR"
+  "districtName": "SUNGAI BAHAR",
+  "name": "MEKAR SARI MAKMUR",
+  "postalCode": ""
  },
  {
   "id": 1505011032,
   "districtId": 1505011,
-  "name": "BHAKTI MULIA"
+  "districtName": "SUNGAI BAHAR",
+  "name": "BHAKTI MULIA",
+  "postalCode": ""
  }
 ]

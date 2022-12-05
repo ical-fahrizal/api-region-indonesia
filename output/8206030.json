@@ -2,36 +2,50 @@
  {
   "id": 8206030010,
   "districtId": 8206030,
-  "name": "SUBAIM"
+  "districtName": "WASILE",
+  "name": "SUBAIM",
+  "postalCode": "97863"
  },
  {
   "id": 8206030011,
   "districtId": 8206030,
-  "name": "CEMARA JAYA"
+  "districtName": "WASILE",
+  "name": "CEMARA JAYA",
+  "postalCode": "97863"
  },
  {
   "id": 8206030012,
   "districtId": 8206030,
-  "name": "BUMI RESTU"
+  "districtName": "WASILE",
+  "name": "BUMI RESTU",
+  "postalCode": "34581"
  },
  {
   "id": 8206030013,
   "districtId": 8206030,
-  "name": "BATU RAJA"
+  "districtName": "WASILE",
+  "name": "BATU RAJA",
+  "postalCode": "23661"
  },
  {
   "id": 8206030014,
   "districtId": 8206030,
-  "name": "MEKAR SARI"
+  "districtName": "WASILE",
+  "name": "MEKAR SARI",
+  "postalCode": "21261"
  },
  {
   "id": 8206030015,
   "districtId": 8206030,
-  "name": "GULAPAPO"
+  "districtName": "WASILE",
+  "name": "GULAPAPO",
+  "postalCode": "97863"
  },
  {
   "id": 8206030016,
   "districtId": 8206030,
-  "name": "WAISUBA"
+  "districtName": "WASILE",
+  "name": "WAISUBA",
+  "postalCode": "97863"
  }
 ]

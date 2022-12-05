@@ -2,41 +2,57 @@
  {
   "id": 5204050006,
   "districtId": 5204050,
-  "name": "LUAR"
+  "districtName": "ALAS",
+  "name": "LUAR",
+  "postalCode": "23772"
  },
  {
   "id": 5204050007,
   "districtId": 5204050,
-  "name": "BARU"
+  "districtName": "ALAS",
+  "name": "BARU",
+  "postalCode": "23764"
  },
  {
   "id": 5204050008,
   "districtId": 5204050,
-  "name": "KALIMANGO"
+  "districtName": "ALAS",
+  "name": "KALIMANGO",
+  "postalCode": "84353"
  },
  {
   "id": 5204050009,
   "districtId": 5204050,
-  "name": "JURANALAS"
+  "districtName": "ALAS",
+  "name": "JURANALAS",
+  "postalCode": "84353"
  },
  {
   "id": 5204050010,
   "districtId": 5204050,
-  "name": "DALAM"
+  "districtName": "ALAS",
+  "name": "DALAM",
+  "postalCode": "24476"
  },
  {
   "id": 5204050011,
   "districtId": 5204050,
-  "name": "PULAU BUNGIN"
+  "districtName": "ALAS",
+  "name": "PULAU BUNGIN",
+  "postalCode": "84353"
  },
  {
   "id": 5204050013,
   "districtId": 5204050,
-  "name": "MARENTEH"
+  "districtName": "ALAS",
+  "name": "MARENTEH",
+  "postalCode": "84353"
  },
  {
   "id": 5204050019,
   "districtId": 5204050,
-  "name": "LABUHAN ALAS"
+  "districtName": "ALAS",
+  "name": "LABUHAN ALAS",
+  "postalCode": "84353"
  }
 ]

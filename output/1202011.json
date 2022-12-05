@@ -2,71 +2,99 @@
  {
   "id": 1202011001,
   "districtId": 1202011,
-  "name": "SINUNUKAN IV"
+  "districtName": "SINUNUKAN",
+  "name": "SINUNUKAN IV",
+  "postalCode": "22988"
  },
  {
   "id": 1202011002,
   "districtId": 1202011,
-  "name": "SINUNUKAN II"
+  "districtName": "SINUNUKAN",
+  "name": "SINUNUKAN II",
+  "postalCode": "22988"
  },
  {
   "id": 1202011003,
   "districtId": 1202011,
-  "name": "SINUNUKAN I CENTRAL"
+  "districtName": "SINUNUKAN",
+  "name": "SINUNUKAN I CENTRAL",
+  "postalCode": ""
  },
  {
   "id": 1202011004,
   "districtId": 1202011,
-  "name": "SINUNUKAN III"
+  "districtName": "SINUNUKAN",
+  "name": "SINUNUKAN III",
+  "postalCode": "22988"
  },
  {
   "id": 1202011005,
   "districtId": 1202011,
-  "name": "BANJAR AUR UTARA"
+  "districtName": "SINUNUKAN",
+  "name": "BANJAR AUR UTARA",
+  "postalCode": "22988"
  },
  {
   "id": 1202011006,
   "districtId": 1202011,
-  "name": "BINTUNGAN BEJANGKAR BARU"
+  "districtName": "SINUNUKAN",
+  "name": "BINTUNGAN BEJANGKAR BARU",
+  "postalCode": "22988"
  },
  {
   "id": 1202011007,
   "districtId": 1202011,
-  "name": "KAMPUNG KAPAS II"
+  "districtName": "SINUNUKAN",
+  "name": "KAMPUNG KAPAS II",
+  "postalCode": "22988"
  },
  {
   "id": 1202011008,
   "districtId": 1202011,
-  "name": "PASIR PUTIH"
+  "districtName": "SINUNUKAN",
+  "name": "PASIR PUTIH",
+  "postalCode": "24453"
  },
  {
   "id": 1202011009,
   "districtId": 1202011,
-  "name": "SUKA DAMAI"
+  "districtName": "SINUNUKAN",
+  "name": "SUKA DAMAI",
+  "postalCode": "24472"
  },
  {
   "id": 1202011010,
   "districtId": 1202011,
-  "name": "WIDO DAREN"
+  "districtName": "SINUNUKAN",
+  "name": "WIDO DAREN",
+  "postalCode": ""
  },
  {
   "id": 1202011011,
   "districtId": 1202011,
-  "name": "WONO SARI"
+  "districtName": "SINUNUKAN",
+  "name": "WONO SARI",
+  "postalCode": "24478"
  },
  {
   "id": 1202011012,
   "districtId": 1202011,
-  "name": "SINUNUKAN I"
+  "districtName": "SINUNUKAN",
+  "name": "SINUNUKAN I",
+  "postalCode": "22988"
  },
  {
   "id": 1202011013,
   "districtId": 1202011,
-  "name": "SIDOMAKMUR"
+  "districtName": "SINUNUKAN",
+  "name": "SIDOMAKMUR",
+  "postalCode": "31452"
  },
  {
   "id": 1202011014,
   "districtId": 1202011,
-  "name": "AIRAPA"
+  "districtName": "SINUNUKAN",
+  "name": "AIRAPA",
+  "postalCode": "22988"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 1806041001,
   "districtId": 1806041,
-  "name": "KALI CINTA"
+  "districtName": "KOTABUMI UTARA",
+  "name": "KALI CINTA",
+  "postalCode": "34511"
  },
  {
   "id": 1806041002,
   "districtId": 1806041,
-  "name": "MADUKORO BARU"
+  "districtName": "KOTABUMI UTARA",
+  "name": "MADUKORO BARU",
+  "postalCode": "34511"
  },
  {
   "id": 1806041003,
   "districtId": 1806041,
-  "name": "MADUKORO"
+  "districtName": "KOTABUMI UTARA",
+  "name": "MADUKORO",
+  "postalCode": "34511"
  },
  {
   "id": 1806041004,
   "districtId": 1806041,
-  "name": "TALANG JALI"
+  "districtName": "KOTABUMI UTARA",
+  "name": "TALANG JALI",
+  "postalCode": "34511"
  },
  {
   "id": 1806041005,
   "districtId": 1806041,
-  "name": "MARGOREJO"
+  "districtName": "KOTABUMI UTARA",
+  "name": "MARGOREJO",
+  "postalCode": "32386"
  },
  {
   "id": 1806041006,
   "districtId": 1806041,
-  "name": "BANJAR WANGI"
+  "districtName": "KOTABUMI UTARA",
+  "name": "BANJAR WANGI",
+  "postalCode": "34511"
  },
  {
   "id": 1806041007,
   "districtId": 1806041,
-  "name": "WONOMARTO"
+  "districtName": "KOTABUMI UTARA",
+  "name": "WONOMARTO",
+  "postalCode": "34511"
  },
  {
   "id": 1806041008,
   "districtId": 1806041,
-  "name": "SAWO JAJAR"
+  "districtName": "KOTABUMI UTARA",
+  "name": "SAWO JAJAR",
+  "postalCode": "34511"
  }
 ]

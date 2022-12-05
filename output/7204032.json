@@ -2,46 +2,64 @@
  {
   "id": 7204032001,
   "districtId": 7204032,
-  "name": "PETIRODONGI"
+  "districtName": "PAMONA UTARA",
+  "name": "PETIRODONGI",
+  "postalCode": "94663"
  },
  {
   "id": 7204032002,
   "districtId": 7204032,
-  "name": "TENDEADONGI"
+  "districtName": "PAMONA UTARA",
+  "name": "TENDEADONGI",
+  "postalCode": "94663"
  },
  {
   "id": 7204032003,
   "districtId": 7204032,
-  "name": "SAWIDAGO"
+  "districtName": "PAMONA UTARA",
+  "name": "SAWIDAGO",
+  "postalCode": "94663"
  },
  {
   "id": 7204032004,
   "districtId": 7204032,
-  "name": "SAOJO"
+  "districtName": "PAMONA UTARA",
+  "name": "SAOJO",
+  "postalCode": "94663"
  },
  {
   "id": 7204032005,
   "districtId": 7204032,
-  "name": "UELINCU"
+  "districtName": "PAMONA UTARA",
+  "name": "UELINCU",
+  "postalCode": "94663"
  },
  {
   "id": 7204032006,
   "districtId": 7204032,
-  "name": "SULEWANA"
+  "districtName": "PAMONA UTARA",
+  "name": "SULEWANA",
+  "postalCode": "94663"
  },
  {
   "id": 7204032007,
   "districtId": 7204032,
-  "name": "LENA"
+  "districtName": "PAMONA UTARA",
+  "name": "LENA",
+  "postalCode": "94663"
  },
  {
   "id": 7204032008,
   "districtId": 7204032,
-  "name": "SANGIRA"
+  "districtName": "PAMONA UTARA",
+  "name": "SANGIRA",
+  "postalCode": "94663"
  },
  {
   "id": 7204032010,
   "districtId": 7204032,
-  "name": "PANJOKA"
+  "districtName": "PAMONA UTARA",
+  "name": "PANJOKA",
+  "postalCode": "94663"
  }
 ]

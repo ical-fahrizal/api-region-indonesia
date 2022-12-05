@@ -2,31 +2,43 @@
  {
   "id": 3403140001,
   "districtId": 3403140,
-  "name": "WATU SIGAR"
+  "districtName": "NGAWEN",
+  "name": "WATU SIGAR",
+  "postalCode": "55853"
  },
  {
   "id": 3403140002,
   "districtId": 3403140,
-  "name": "BEJI"
+  "districtName": "NGAWEN",
+  "name": "BEJI",
+  "postalCode": "16421"
  },
  {
   "id": 3403140003,
   "districtId": 3403140,
-  "name": "KAMPUNG"
+  "districtName": "NGAWEN",
+  "name": "KAMPUNG",
+  "postalCode": "55853"
  },
  {
   "id": 3403140004,
   "districtId": 3403140,
-  "name": "JURANG JERO"
+  "districtName": "NGAWEN",
+  "name": "JURANG JERO",
+  "postalCode": "55853"
  },
  {
   "id": 3403140005,
   "districtId": 3403140,
-  "name": "SAMBIREJO"
+  "districtName": "NGAWEN",
+  "name": "SAMBIREJO",
+  "postalCode": "39153"
  },
  {
   "id": 3403140006,
   "districtId": 3403140,
-  "name": "TANCEP"
+  "districtName": "NGAWEN",
+  "name": "TANCEP",
+  "postalCode": "55853"
  }
 ]

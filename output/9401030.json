@@ -2,51 +2,71 @@
  {
   "id": 9401030004,
   "districtId": 9401030,
-  "name": "KURIK"
+  "districtName": "KURIK",
+  "name": "KURIK",
+  "postalCode": "99569"
  },
  {
   "id": 9401030005,
   "districtId": 9401030,
-  "name": "HARAPAN MAKMUR"
+  "districtName": "KURIK",
+  "name": "HARAPAN MAKMUR",
+  "postalCode": "20773"
  },
  {
   "id": 9401030006,
   "districtId": 9401030,
-  "name": "IVI MAHAD"
+  "districtName": "KURIK",
+  "name": "IVI MAHAD",
+  "postalCode": "99656"
  },
  {
   "id": 9401030007,
   "districtId": 9401030,
-  "name": "TELAGA SARI"
+  "districtName": "KURIK",
+  "name": "TELAGA SARI",
+  "postalCode": "20351"
  },
  {
   "id": 9401030008,
   "districtId": 9401030,
-  "name": "SALOR INDAH"
+  "districtName": "KURIK",
+  "name": "SALOR INDAH",
+  "postalCode": "99656"
  },
  {
   "id": 9401030009,
   "districtId": 9401030,
-  "name": "SUMBER REJEKI"
+  "districtName": "KURIK",
+  "name": "SUMBER REJEKI",
+  "postalCode": "30971"
  },
  {
   "id": 9401030010,
   "districtId": 9401030,
-  "name": "JAYA MAKMUR"
+  "districtName": "KURIK",
+  "name": "JAYA MAKMUR",
+  "postalCode": "34682"
  },
  {
   "id": 9401030013,
   "districtId": 9401030,
-  "name": "SUMBER MULYA"
+  "districtName": "KURIK",
+  "name": "SUMBER MULYA",
+  "postalCode": "36365"
  },
  {
   "id": 9401030017,
   "districtId": 9401030,
-  "name": "KALIKI"
+  "districtName": "KURIK",
+  "name": "KALIKI",
+  "postalCode": "99656"
  },
  {
   "id": 9401030018,
   "districtId": 9401030,
-  "name": "WAPEKO"
+  "districtName": "KURIK",
+  "name": "WAPEKO",
+  "postalCode": ""
  }
 ]

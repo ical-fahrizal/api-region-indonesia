@@ -2,51 +2,71 @@
  {
   "id": 8109021001,
   "districtId": 8109021,
-  "name": "MNGESWAEN"
+  "districtName": "FENA FAFAN",
+  "name": "MNGESWAEN",
+  "postalCode": ""
  },
  {
   "id": 8109021002,
   "districtId": 8109021,
-  "name": "WAERAMAN"
+  "districtName": "FENA FAFAN",
+  "name": "WAERAMAN",
+  "postalCode": ""
  },
  {
   "id": 8109021003,
   "districtId": 8109021,
-  "name": "WAELO"
+  "districtName": "FENA FAFAN",
+  "name": "WAELO",
+  "postalCode": "97573"
  },
  {
   "id": 8109021004,
   "districtId": 8109021,
-  "name": "FAKAL"
+  "districtName": "FENA FAFAN",
+  "name": "FAKAL",
+  "postalCode": "97573"
  },
  {
   "id": 8109021005,
   "districtId": 8109021,
-  "name": "NUSARUA"
+  "districtName": "FENA FAFAN",
+  "name": "NUSARUA",
+  "postalCode": "97573"
  },
  {
   "id": 8109021007,
   "districtId": 8109021,
-  "name": "WAEKATIN"
+  "districtName": "FENA FAFAN",
+  "name": "WAEKATIN",
+  "postalCode": "97573"
  },
  {
   "id": 8109021008,
   "districtId": 8109021,
-  "name": "BATU KARANG"
+  "districtName": "FENA FAFAN",
+  "name": "BATU KARANG",
+  "postalCode": "29871"
  },
  {
   "id": 8109021009,
   "districtId": 8109021,
-  "name": "TRUKAT"
+  "districtName": "FENA FAFAN",
+  "name": "TRUKAT",
+  "postalCode": "97573"
  },
  {
   "id": 8109021010,
   "districtId": 8109021,
-  "name": "WAEEKEN"
+  "districtName": "FENA FAFAN",
+  "name": "WAEEKEN",
+  "postalCode": ""
  },
  {
   "id": 8109021011,
   "districtId": 8109021,
-  "name": "SIWATLAHIN"
+  "districtName": "FENA FAFAN",
+  "name": "SIWATLAHIN",
+  "postalCode": "97573"
  }
 ]

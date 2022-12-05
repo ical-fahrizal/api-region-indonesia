@@ -2,66 +2,92 @@
  {
   "id": 6101050010,
   "districtId": 6101050,
-  "name": "DUNGUN LAUT"
+  "districtName": "JAWAI",
+  "name": "DUNGUN LAUT",
+  "postalCode": "79454"
  },
  {
   "id": 6101050011,
   "districtId": 6101050,
-  "name": "SENTEBANG"
+  "districtName": "JAWAI",
+  "name": "SENTEBANG",
+  "postalCode": "79454"
  },
  {
   "id": 6101050012,
   "districtId": 6101050,
-  "name": "SEI NYIRIH"
+  "districtName": "JAWAI",
+  "name": "SEI NYIRIH",
+  "postalCode": ""
  },
  {
   "id": 6101050013,
   "districtId": 6101050,
-  "name": "BAKAU"
+  "districtName": "JAWAI",
+  "name": "BAKAU",
+  "postalCode": "79454"
  },
  {
   "id": 6101050014,
   "districtId": 6101050,
-  "name": "PARIT SETIA"
+  "districtName": "JAWAI",
+  "name": "PARIT SETIA",
+  "postalCode": "79454"
  },
  {
   "id": 6101050015,
   "districtId": 6101050,
-  "name": "PELIMPAAN"
+  "districtName": "JAWAI",
+  "name": "PELIMPAAN",
+  "postalCode": "79454"
  },
  {
   "id": 6101050016,
   "districtId": 6101050,
-  "name": "SARANG BURUNG KUALA"
+  "districtName": "JAWAI",
+  "name": "SARANG BURUNG KUALA",
+  "postalCode": "79454"
  },
  {
   "id": 6101050017,
   "districtId": 6101050,
-  "name": "SARANG BURUNG USRAT"
+  "districtName": "JAWAI",
+  "name": "SARANG BURUNG USRAT",
+  "postalCode": "79454"
  },
  {
   "id": 6101050018,
   "districtId": 6101050,
-  "name": "SARANG BURUNG KOLAM"
+  "districtName": "JAWAI",
+  "name": "SARANG BURUNG KOLAM",
+  "postalCode": "79454"
  },
  {
   "id": 6101050019,
   "districtId": 6101050,
-  "name": "SEI NILAM"
+  "districtName": "JAWAI",
+  "name": "SEI NILAM",
+  "postalCode": ""
  },
  {
   "id": 6101050020,
   "districtId": 6101050,
-  "name": "SARANG BURUNG DANAU"
+  "districtName": "JAWAI",
+  "name": "SARANG BURUNG DANAU",
+  "postalCode": "79454"
  },
  {
   "id": 6101050021,
   "districtId": 6101050,
-  "name": "LAMBAU"
+  "districtName": "JAWAI",
+  "name": "LAMBAU",
+  "postalCode": ""
  },
  {
   "id": 6101050022,
   "districtId": 6101050,
-  "name": "MUTUS DARUSSALAM"
+  "districtName": "JAWAI",
+  "name": "MUTUS DARUSSALAM",
+  "postalCode": ""
  }
 ]

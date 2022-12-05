@@ -2,36 +2,50 @@
  {
   "id": 9429040002,
   "districtId": 9429040,
-  "name": "MAPENDUMA"
+  "districtName": "MAPENDUMA",
+  "name": "MAPENDUMA",
+  "postalCode": "99564"
  },
  {
   "id": 9429040010,
   "districtId": 9429040,
-  "name": "DUMA"
+  "districtName": "MAPENDUMA",
+  "name": "DUMA",
+  "postalCode": "97761"
  },
  {
   "id": 9429040011,
   "districtId": 9429040,
-  "name": "YOE"
+  "districtName": "MAPENDUMA",
+  "name": "YOE",
+  "postalCode": "99564"
  },
  {
   "id": 9429040012,
   "districtId": 9429040,
-  "name": "PALSAM"
+  "districtName": "MAPENDUMA",
+  "name": "PALSAM",
+  "postalCode": "99564"
  },
  {
   "id": 9429040015,
   "districtId": 9429040,
-  "name": "NOWOMLUSU"
+  "districtName": "MAPENDUMA",
+  "name": "NOWOMLUSU",
+  "postalCode": "99564"
  },
  {
   "id": 9429040016,
   "districtId": 9429040,
-  "name": "KELAPA DUA"
+  "districtName": "MAPENDUMA",
+  "name": "KELAPA DUA",
+  "postalCode": "30959"
  },
  {
   "id": 9429040018,
   "districtId": 9429040,
-  "name": "LUNGGADUMU"
+  "districtName": "MAPENDUMA",
+  "name": "LUNGGADUMU",
+  "postalCode": "99564"
  }
 ]

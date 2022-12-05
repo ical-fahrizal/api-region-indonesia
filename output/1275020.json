@@ -2,31 +2,43 @@
  {
   "id": 1275020001,
   "districtId": 1275020,
-  "name": "KWALA BEKALA"
+  "districtName": "MEDAN JOHOR",
+  "name": "KWALA BEKALA",
+  "postalCode": "20142"
  },
  {
   "id": 1275020002,
   "districtId": 1275020,
-  "name": "GEDUNG JOHOR"
+  "districtName": "MEDAN JOHOR",
+  "name": "GEDUNG JOHOR",
+  "postalCode": "20144"
  },
  {
   "id": 1275020003,
   "districtId": 1275020,
-  "name": "KEDAI DURIAN"
+  "districtName": "MEDAN JOHOR",
+  "name": "KEDAI DURIAN",
+  "postalCode": "20355"
  },
  {
   "id": 1275020004,
   "districtId": 1275020,
-  "name": "SUKA MAJU"
+  "districtName": "MEDAN JOHOR",
+  "name": "SUKA MAJU",
+  "postalCode": "24673"
  },
  {
   "id": 1275020005,
   "districtId": 1275020,
-  "name": "TITI KUNING"
+  "districtName": "MEDAN JOHOR",
+  "name": "TITI KUNING",
+  "postalCode": "20146"
  },
  {
   "id": 1275020006,
   "districtId": 1275020,
-  "name": "PANGKALAN MASYHUR"
+  "districtName": "MEDAN JOHOR",
+  "name": "PANGKALAN MASYHUR",
+  "postalCode": "20143"
  }
 ]

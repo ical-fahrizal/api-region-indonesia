@@ -2,51 +2,71 @@
  {
   "id": 1277050001,
   "districtId": 1277050,
-  "name": "PARTIHAMAN SAROHA"
+  "districtName": "PADANGSIDIMPUAN HUTAIMBARU",
+  "name": "PARTIHAMAN SAROHA",
+  "postalCode": "22753"
  },
  {
   "id": 1277050002,
   "districtId": 1277050,
-  "name": "HUTAIMBARU"
+  "districtName": "PADANGSIDIMPUAN HUTAIMBARU",
+  "name": "HUTAIMBARU",
+  "postalCode": "22753"
  },
  {
   "id": 1277050003,
   "districtId": 1277050,
-  "name": "PALOPAT MARIA"
+  "districtName": "PADANGSIDIMPUAN HUTAIMBARU",
+  "name": "PALOPAT MARIA",
+  "postalCode": "22753"
  },
  {
   "id": 1277050004,
   "districtId": 1277050,
-  "name": "SABUNGAN JAE"
+  "districtName": "PADANGSIDIMPUAN HUTAIMBARU",
+  "name": "SABUNGAN JAE",
+  "postalCode": "22753"
  },
  {
   "id": 1277050005,
   "districtId": 1277050,
-  "name": "LEMBAH LUBUK MANIK"
+  "districtName": "PADANGSIDIMPUAN HUTAIMBARU",
+  "name": "LEMBAH LUBUK MANIK",
+  "postalCode": "22735"
  },
  {
   "id": 1277050006,
   "districtId": 1277050,
-  "name": "SABUNGAN SIPABANGUN"
+  "districtName": "PADANGSIDIMPUAN HUTAIMBARU",
+  "name": "SABUNGAN SIPABANGUN",
+  "postalCode": "22753"
  },
  {
   "id": 1277050007,
   "districtId": 1277050,
-  "name": "SINGALI"
+  "districtName": "PADANGSIDIMPUAN HUTAIMBARU",
+  "name": "SINGALI",
+  "postalCode": "22753"
  },
  {
   "id": 1277050008,
   "districtId": 1277050,
-  "name": "HUTA PADANG"
+  "districtName": "PADANGSIDIMPUAN HUTAIMBARU",
+  "name": "HUTA PADANG",
+  "postalCode": "21262"
  },
  {
   "id": 1277050009,
   "districtId": 1277050,
-  "name": "LUBUK RAYA"
+  "districtName": "PADANGSIDIMPUAN HUTAIMBARU",
+  "name": "LUBUK RAYA",
+  "postalCode": "20624"
  },
  {
   "id": 1277050010,
   "districtId": 1277050,
-  "name": "TINJOMAN"
+  "districtName": "PADANGSIDIMPUAN HUTAIMBARU",
+  "name": "TINJOMAN",
+  "postalCode": ""
  }
 ]

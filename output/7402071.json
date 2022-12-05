@@ -2,61 +2,85 @@
  {
   "id": 7402071001,
   "districtId": 7402071,
-  "name": "LIANGKOBORI"
+  "districtName": "LOHIA",
+  "name": "LIANGKOBORI",
+  "postalCode": "93658"
  },
  {
   "id": 7402071002,
   "districtId": 7402071,
-  "name": "MAABHOLU"
+  "districtName": "LOHIA",
+  "name": "MAABHOLU",
+  "postalCode": ""
  },
  {
   "id": 7402071003,
   "districtId": 7402071,
-  "name": "KONDONGIA"
+  "districtName": "LOHIA",
+  "name": "KONDONGIA",
+  "postalCode": "93658"
  },
  {
   "id": 7402071004,
   "districtId": 7402071,
-  "name": "WAARA"
+  "districtName": "LOHIA",
+  "name": "WAARA",
+  "postalCode": "93763"
  },
  {
   "id": 7402071005,
   "districtId": 7402071,
-  "name": "MANTOBUA"
+  "districtName": "LOHIA",
+  "name": "MANTOBUA",
+  "postalCode": "93658"
  },
  {
   "id": 7402071006,
   "districtId": 7402071,
-  "name": "KORIHI"
+  "districtName": "LOHIA",
+  "name": "KORIHI",
+  "postalCode": "93658"
  },
  {
   "id": 7402071007,
   "districtId": 7402071,
-  "name": "LAKARINTA"
+  "districtName": "LOHIA",
+  "name": "LAKARINTA",
+  "postalCode": "93658"
  },
  {
   "id": 7402071008,
   "districtId": 7402071,
-  "name": "LOHIA"
+  "districtName": "LOHIA",
+  "name": "LOHIA",
+  "postalCode": "93658"
  },
  {
   "id": 7402071009,
   "districtId": 7402071,
-  "name": "LOGHIYA"
+  "districtName": "LOHIA",
+  "name": "LOGHIYA",
+  "postalCode": ""
  },
  {
   "id": 7402071010,
   "districtId": 7402071,
-  "name": "LAWELA"
+  "districtName": "LOHIA",
+  "name": "LAWELA",
+  "postalCode": "93752"
  },
  {
   "id": 7402071011,
   "districtId": 7402071,
-  "name": "KONDONGIA BARAT"
+  "districtName": "LOHIA",
+  "name": "KONDONGIA BARAT",
+  "postalCode": ""
  },
  {
   "id": 7402071012,
   "districtId": 7402071,
-  "name": "MANTOBUA BARAT"
+  "districtName": "LOHIA",
+  "name": "MANTOBUA BARAT",
+  "postalCode": ""
  }
 ]

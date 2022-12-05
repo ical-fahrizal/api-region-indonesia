@@ -2,46 +2,64 @@
  {
   "id": 7206040012,
   "districtId": 7206040,
-  "name": "DADAKITAN"
+  "districtName": "BAOLAN",
+  "name": "DADAKITAN",
+  "postalCode": "94517"
  },
  {
   "id": 7206040014,
   "districtId": 7206040,
-  "name": "PANASAKAN"
+  "districtName": "BAOLAN",
+  "name": "PANASAKAN",
+  "postalCode": "94511"
  },
  {
   "id": 7206040015,
   "districtId": 7206040,
-  "name": "SIDOARJO"
+  "districtName": "BAOLAN",
+  "name": "SIDOARJO",
+  "postalCode": "34764"
  },
  {
   "id": 7206040016,
   "districtId": 7206040,
-  "name": "BARU"
+  "districtName": "BAOLAN",
+  "name": "BARU",
+  "postalCode": "23764"
  },
  {
   "id": 7206040017,
   "districtId": 7206040,
-  "name": "NALU"
+  "districtName": "BAOLAN",
+  "name": "NALU",
+  "postalCode": "94513"
  },
  {
   "id": 7206040018,
   "districtId": 7206040,
-  "name": "TAMBUN"
+  "districtName": "BAOLAN",
+  "name": "TAMBUN",
+  "postalCode": "28384"
  },
  {
   "id": 7206040019,
   "districtId": 7206040,
-  "name": "BUNTUNA"
+  "districtName": "BAOLAN",
+  "name": "BUNTUNA",
+  "postalCode": "94517"
  },
  {
   "id": 7206040020,
   "districtId": 7206040,
-  "name": "LELEAN NONO"
+  "districtName": "BAOLAN",
+  "name": "LELEAN NONO",
+  "postalCode": "94515"
  },
  {
   "id": 7206040021,
   "districtId": 7206040,
-  "name": "PANGI"
+  "districtName": "BAOLAN",
+  "name": "PANGI",
+  "postalCode": "24783"
  }
 ]

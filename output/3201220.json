@@ -2,46 +2,64 @@
  {
   "id": 3201220002,
   "districtId": 3201220,
-  "name": "CIMANGGIS"
+  "districtName": "BOJONG GEDE",
+  "name": "CIMANGGIS",
+  "postalCode": "16920"
  },
  {
   "id": 3201220003,
   "districtId": 3201220,
-  "name": "WARINGIN JAYA"
+  "districtName": "BOJONG GEDE",
+  "name": "WARINGIN JAYA",
+  "postalCode": "34389"
  },
  {
   "id": 3201220004,
   "districtId": 3201220,
-  "name": "KEDUNG WARINGIN"
+  "districtName": "BOJONG GEDE",
+  "name": "KEDUNG WARINGIN",
+  "postalCode": "16923"
  },
  {
   "id": 3201220005,
   "districtId": 3201220,
-  "name": "BOJONG GEDE"
+  "districtName": "BOJONG GEDE",
+  "name": "BOJONG GEDE",
+  "postalCode": "16922"
  },
  {
   "id": 3201220011,
   "districtId": 3201220,
-  "name": "SUSUKAN"
+  "districtName": "BOJONG GEDE",
+  "name": "SUSUKAN",
+  "postalCode": "13750"
  },
  {
   "id": 3201220012,
   "districtId": 3201220,
-  "name": "BOJONG BARU"
+  "districtName": "BOJONG GEDE",
+  "name": "BOJONG BARU",
+  "postalCode": "16920"
  },
  {
   "id": 3201220013,
   "districtId": 3201220,
-  "name": "RAWA PANJANG"
+  "districtName": "BOJONG GEDE",
+  "name": "RAWA PANJANG",
+  "postalCode": "16920"
  },
  {
   "id": 3201220014,
   "districtId": 3201220,
-  "name": "PABUARAN"
+  "districtName": "BOJONG GEDE",
+  "name": "PABUARAN",
+  "postalCode": "16921"
  },
  {
   "id": 3201220015,
   "districtId": 3201220,
-  "name": "RAGAJAYA"
+  "districtName": "BOJONG GEDE",
+  "name": "RAGAJAYA",
+  "postalCode": "16920"
  }
 ]

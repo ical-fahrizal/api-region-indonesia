@@ -2,21 +2,29 @@
  {
   "id": 9402192017,
   "districtId": 9402192,
-  "name": "KORMA"
+  "districtName": "WITA WAYA",
+  "name": "KORMA",
+  "postalCode": ""
  },
  {
   "id": 9402192018,
   "districtId": 9402192,
-  "name": "ALULA"
+  "districtName": "WITA WAYA",
+  "name": "ALULA",
+  "postalCode": "99552"
  },
  {
   "id": 9402192019,
   "districtId": 9402192,
-  "name": "ALOLIK"
+  "districtName": "WITA WAYA",
+  "name": "ALOLIK",
+  "postalCode": "99552"
  },
  {
   "id": 9402192037,
   "districtId": 9402192,
-  "name": "WILIGIMA"
+  "districtName": "WITA WAYA",
+  "name": "WILIGIMA",
+  "postalCode": "99552"
  }
 ]

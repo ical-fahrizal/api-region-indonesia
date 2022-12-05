@@ -2,41 +2,57 @@
  {
   "id": 5104070001,
   "districtId": 5104070,
-  "name": "MELINGGIH KELOD"
+  "districtName": "PAYANGAN",
+  "name": "MELINGGIH KELOD",
+  "postalCode": "80572"
  },
  {
   "id": 5104070002,
   "districtId": 5104070,
-  "name": "MELINGGIH"
+  "districtName": "PAYANGAN",
+  "name": "MELINGGIH",
+  "postalCode": "80572"
  },
  {
   "id": 5104070003,
   "districtId": 5104070,
-  "name": "KELUSA"
+  "districtName": "PAYANGAN",
+  "name": "KELUSA",
+  "postalCode": "80572"
  },
  {
   "id": 5104070004,
   "districtId": 5104070,
-  "name": "BERESELA"
+  "districtName": "PAYANGAN",
+  "name": "BERESELA",
+  "postalCode": ""
  },
  {
   "id": 5104070005,
   "districtId": 5104070,
-  "name": "BUKIAN"
+  "districtName": "PAYANGAN",
+  "name": "BUKIAN",
+  "postalCode": "80572"
  },
  {
   "id": 5104070007,
   "districtId": 5104070,
-  "name": "BUAHAN"
+  "districtName": "PAYANGAN",
+  "name": "BUAHAN",
+  "postalCode": "80652"
  },
  {
   "id": 5104070008,
   "districtId": 5104070,
-  "name": "BUAHAN KAJA"
+  "districtName": "PAYANGAN",
+  "name": "BUAHAN KAJA",
+  "postalCode": "80572"
  },
  {
   "id": 5104070009,
   "districtId": 5104070,
-  "name": "KERTA"
+  "districtName": "PAYANGAN",
+  "name": "KERTA",
+  "postalCode": "42355"
  }
 ]

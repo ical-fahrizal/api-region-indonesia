@@ -2,71 +2,99 @@
  {
   "id": 1108111001,
   "districtId": 1108111,
-  "name": "LAMBARO BILUY"
+  "districtName": "DARUL KAMAL",
+  "name": "LAMBARO BILUY",
+  "postalCode": "23352"
  },
  {
   "id": 1108111002,
   "districtId": 1108111,
-  "name": "EMPETRING"
+  "districtName": "DARUL KAMAL",
+  "name": "EMPETRING",
+  "postalCode": ""
  },
  {
   "id": 1108111003,
   "districtId": 1108111,
-  "name": "BILUY"
+  "districtName": "DARUL KAMAL",
+  "name": "BILUY",
+  "postalCode": ""
  },
  {
   "id": 1108111004,
   "districtId": 1108111,
-  "name": "LAMSOD"
+  "districtName": "DARUL KAMAL",
+  "name": "LAMSOD",
+  "postalCode": "23352"
  },
  {
   "id": 1108111005,
   "districtId": 1108111,
-  "name": "MANEE DAYAH"
+  "districtName": "DARUL KAMAL",
+  "name": "MANEE DAYAH",
+  "postalCode": "23352"
  },
  {
   "id": 1108111006,
   "districtId": 1108111,
-  "name": "LAMTADOK"
+  "districtName": "DARUL KAMAL",
+  "name": "LAMTADOK",
+  "postalCode": "23352"
  },
  {
   "id": 1108111007,
   "districtId": 1108111,
-  "name": "LAMKUNYET"
+  "districtName": "DARUL KAMAL",
+  "name": "LAMKUNYET",
+  "postalCode": "23352"
  },
  {
   "id": 1108111008,
   "districtId": 1108111,
-  "name": "LHANG"
+  "districtName": "DARUL KAMAL",
+  "name": "LHANG",
+  "postalCode": "23352"
  },
  {
   "id": 1108111009,
   "districtId": 1108111,
-  "name": "LAMBATEE"
+  "districtName": "DARUL KAMAL",
+  "name": "LAMBATEE",
+  "postalCode": "23352"
  },
  {
   "id": 1108111010,
   "districtId": 1108111,
-  "name": "TURAM"
+  "districtName": "DARUL KAMAL",
+  "name": "TURAM",
+  "postalCode": "23352"
  },
  {
   "id": 1108111011,
   "districtId": 1108111,
-  "name": "BLANG KIREE"
+  "districtName": "DARUL KAMAL",
+  "name": "BLANG KIREE",
+  "postalCode": "23352"
  },
  {
   "id": 1108111012,
   "districtId": 1108111,
-  "name": "TEUBALUI"
+  "districtName": "DARUL KAMAL",
+  "name": "TEUBALUI",
+  "postalCode": "23352"
  },
  {
   "id": 1108111013,
   "districtId": 1108111,
-  "name": "NEUSOK"
+  "districtName": "DARUL KAMAL",
+  "name": "NEUSOK",
+  "postalCode": "23352"
  },
  {
   "id": 1108111014,
   "districtId": 1108111,
-  "name": "LAM BLEUT"
+  "districtName": "DARUL KAMAL",
+  "name": "LAM BLEUT",
+  "postalCode": "23352"
  }
 ]

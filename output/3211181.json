@@ -2,46 +2,64 @@
  {
   "id": 3211181001,
   "districtId": 3211181,
-  "name": "WANAJAYA"
+  "districtName": "SURIAN",
+  "name": "WANAJAYA",
+  "postalCode": "17520"
  },
  {
   "id": 3211181002,
   "districtId": 3211181,
-  "name": "WANASARI"
+  "districtName": "SURIAN",
+  "name": "WANASARI",
+  "postalCode": "43273"
  },
  {
   "id": 3211181003,
   "districtId": 3211181,
-  "name": "PAMEKARSARI"
+  "districtName": "SURIAN",
+  "name": "PAMEKARSARI",
+  "postalCode": "44191"
  },
  {
   "id": 3211181004,
   "districtId": 3211181,
-  "name": "SURIAN"
+  "districtName": "SURIAN",
+  "name": "SURIAN",
+  "postalCode": "27373"
  },
  {
   "id": 3211181005,
   "districtId": 3211181,
-  "name": "TANJUNG"
+  "districtName": "SURIAN",
+  "name": "TANJUNG",
+  "postalCode": "24562"
  },
  {
   "id": 3211181006,
   "districtId": 3211181,
-  "name": "RANGGASARI"
+  "districtName": "SURIAN",
+  "name": "RANGGASARI",
+  "postalCode": "45393"
  },
  {
   "id": 3211181007,
   "districtId": 3211181,
-  "name": "SURIAMEDAL"
+  "districtName": "SURIAN",
+  "name": "SURIAMEDAL",
+  "postalCode": ""
  },
  {
   "id": 3211181008,
   "districtId": 3211181,
-  "name": "SURIAMUKTI"
+  "districtName": "SURIAN",
+  "name": "SURIAMUKTI",
+  "postalCode": "45393"
  },
  {
   "id": 3211181009,
   "districtId": 3211181,
-  "name": "NANJUNGWANGI"
+  "districtName": "SURIAN",
+  "name": "NANJUNGWANGI",
+  "postalCode": ""
  }
 ]

@@ -2,21 +2,29 @@
  {
   "id": 9171020011,
   "districtId": 9171020,
-  "name": "KLAWUYUK"
+  "districtName": "SORONG TIMUR",
+  "name": "KLAWUYUK",
+  "postalCode": "98419"
  },
  {
   "id": 9171020012,
   "districtId": 9171020,
-  "name": "KLAWALU"
+  "districtName": "SORONG TIMUR",
+  "name": "KLAWALU",
+  "postalCode": "98415"
  },
  {
   "id": 9171020013,
   "districtId": 9171020,
-  "name": "KLAMANA"
+  "districtName": "SORONG TIMUR",
+  "name": "KLAMANA",
+  "postalCode": "98418"
  },
  {
   "id": 9171020016,
   "districtId": 9171020,
-  "name": "KLADUFU"
+  "districtName": "SORONG TIMUR",
+  "name": "KLADUFU",
+  "postalCode": ""
  }
 ]

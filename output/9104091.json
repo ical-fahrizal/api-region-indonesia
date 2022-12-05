@@ -2,66 +2,92 @@
  {
   "id": 9104091001,
   "districtId": 9104091,
-  "name": "JAHABRA"
+  "districtName": "BISCOOP",
+  "name": "JAHABRA",
+  "postalCode": "98373"
  },
  {
   "id": 9104091002,
   "districtId": 9104091,
-  "name": "IBORI"
+  "districtName": "BISCOOP",
+  "name": "IBORI",
+  "postalCode": "98373"
  },
  {
   "id": 9104091004,
   "districtId": 9104091,
-  "name": "MEYORGA"
+  "districtName": "BISCOOP",
+  "name": "MEYORGA",
+  "postalCode": "98373"
  },
  {
   "id": 9104091005,
   "districtId": 9104091,
-  "name": "LAUDOHO"
+  "districtName": "BISCOOP",
+  "name": "LAUDOHO",
+  "postalCode": "98373"
  },
  {
   "id": 9104091006,
   "districtId": 9104091,
-  "name": "ENIBA"
+  "districtName": "BISCOOP",
+  "name": "ENIBA",
+  "postalCode": "98373"
  },
  {
   "id": 9104091007,
   "districtId": 9104091,
-  "name": "MOWTIKA"
+  "districtName": "BISCOOP",
+  "name": "MOWTIKA",
+  "postalCode": ""
  },
  {
   "id": 9104091008,
   "districtId": 9104091,
-  "name": "BISCOOP"
+  "districtName": "BISCOOP",
+  "name": "BISCOOP",
+  "postalCode": ""
  },
  {
   "id": 9104091009,
   "districtId": 9104091,
-  "name": "DHIJA"
+  "districtName": "BISCOOP",
+  "name": "DHIJA",
+  "postalCode": ""
  },
  {
   "id": 9104091010,
   "districtId": 9104091,
-  "name": "TOMOU"
+  "districtName": "BISCOOP",
+  "name": "TOMOU",
+  "postalCode": ""
  },
  {
   "id": 9104091011,
   "districtId": 9104091,
-  "name": "MENDESBA"
+  "districtName": "BISCOOP",
+  "name": "MENDESBA",
+  "postalCode": ""
  },
  {
   "id": 9104091012,
   "districtId": 9104091,
-  "name": "MEYAD / MEYOIJ"
+  "districtName": "BISCOOP",
+  "name": "MEYAD / MEYOIJ",
+  "postalCode": ""
  },
  {
   "id": 9104091013,
   "districtId": 9104091,
-  "name": "IJOM"
+  "districtName": "BISCOOP",
+  "name": "IJOM",
+  "postalCode": ""
  },
  {
   "id": 9104091014,
   "districtId": 9104091,
-  "name": "MEMINJEM"
+  "districtName": "BISCOOP",
+  "name": "MEMINJEM",
+  "postalCode": ""
  }
 ]

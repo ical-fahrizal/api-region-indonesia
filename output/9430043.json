@@ -2,41 +2,57 @@
  {
   "id": 9430043001,
   "districtId": 9430043,
-  "name": "TIKOME"
+  "districtName": "AYUMNATI",
+  "name": "TIKOME",
+  "postalCode": "99567"
  },
  {
   "id": 9430043002,
   "districtId": 9430043,
-  "name": "ANITILA"
+  "districtName": "AYUMNATI",
+  "name": "ANITILA",
+  "postalCode": "99567"
  },
  {
   "id": 9430043003,
   "districtId": 9430043,
-  "name": "TIKOYOWA"
+  "districtName": "AYUMNATI",
+  "name": "TIKOYOWA",
+  "postalCode": ""
  },
  {
   "id": 9430043004,
   "districtId": 9430043,
-  "name": "WANGGUNOM"
+  "districtName": "AYUMNATI",
+  "name": "WANGGUNOM",
+  "postalCode": ""
  },
  {
   "id": 9430043005,
   "districtId": 9430043,
-  "name": "NINGONAK"
+  "districtName": "AYUMNATI",
+  "name": "NINGONAK",
+  "postalCode": ""
  },
  {
   "id": 9430043007,
   "districtId": 9430043,
-  "name": "NANIM"
+  "districtName": "AYUMNATI",
+  "name": "NANIM",
+  "postalCode": "99567"
  },
  {
   "id": 9430043008,
   "districtId": 9430043,
-  "name": "LUAGAME"
+  "districtName": "AYUMNATI",
+  "name": "LUAGAME",
+  "postalCode": ""
  },
  {
   "id": 9430043009,
   "districtId": 9430043,
-  "name": "BOGOGUNIK"
+  "districtName": "AYUMNATI",
+  "name": "BOGOGUNIK",
+  "postalCode": ""
  }
 ]

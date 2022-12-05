@@ -2,61 +2,85 @@
  {
   "id": 3212110001,
   "districtId": 3212110,
-  "name": "SEGERAN KIDUL"
+  "districtName": "JUNTINYUAT",
+  "name": "SEGERAN KIDUL",
+  "postalCode": "45282"
  },
  {
   "id": 3212110002,
   "districtId": 3212110,
-  "name": "SEGERAN"
+  "districtName": "JUNTINYUAT",
+  "name": "SEGERAN",
+  "postalCode": "45282"
  },
  {
   "id": 3212110003,
   "districtId": 3212110,
-  "name": "JUNTIWEDEN"
+  "districtName": "JUNTINYUAT",
+  "name": "JUNTIWEDEN",
+  "postalCode": "45282"
  },
  {
   "id": 3212110004,
   "districtId": 3212110,
-  "name": "JUNTIKEBON"
+  "districtName": "JUNTINYUAT",
+  "name": "JUNTIKEBON",
+  "postalCode": ""
  },
  {
   "id": 3212110005,
   "districtId": 3212110,
-  "name": "DADAP"
+  "districtName": "JUNTINYUAT",
+  "name": "DADAP",
+  "postalCode": "45282"
  },
  {
   "id": 3212110006,
   "districtId": 3212110,
-  "name": "JUNTINYUAT"
+  "districtName": "JUNTINYUAT",
+  "name": "JUNTINYUAT",
+  "postalCode": "45282"
  },
  {
   "id": 3212110007,
   "districtId": 3212110,
-  "name": "JUNTIKEDOKAN"
+  "districtName": "JUNTINYUAT",
+  "name": "JUNTIKEDOKAN",
+  "postalCode": "45282"
  },
  {
   "id": 3212110008,
   "districtId": 3212110,
-  "name": "PONDOH"
+  "districtName": "JUNTINYUAT",
+  "name": "PONDOH",
+  "postalCode": "45282"
  },
  {
   "id": 3212110009,
   "districtId": 3212110,
-  "name": "SAMBIMAYA"
+  "districtName": "JUNTINYUAT",
+  "name": "SAMBIMAYA",
+  "postalCode": "45282"
  },
  {
   "id": 3212110010,
   "districtId": 3212110,
-  "name": "TINUMPUK"
+  "districtName": "JUNTINYUAT",
+  "name": "TINUMPUK",
+  "postalCode": "45282"
  },
  {
   "id": 3212110011,
   "districtId": 3212110,
-  "name": "LOMBANG"
+  "districtName": "JUNTINYUAT",
+  "name": "LOMBANG",
+  "postalCode": "45282"
  },
  {
   "id": 3212110012,
   "districtId": 3212110,
-  "name": "LIMBANGAN"
+  "districtName": "JUNTINYUAT",
+  "name": "LIMBANGAN",
+  "postalCode": "45282"
  }
 ]

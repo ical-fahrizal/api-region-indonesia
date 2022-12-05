@@ -2,36 +2,50 @@
  {
   "id": 8271014001,
   "districtId": 8271014,
-  "name": "KULABA"
+  "districtName": "TERNATE BARAT",
+  "name": "KULABA",
+  "postalCode": "97751"
  },
  {
   "id": 8271014002,
   "districtId": 8271014,
-  "name": "BULA"
+  "districtName": "TERNATE BARAT",
+  "name": "BULA",
+  "postalCode": "97555"
  },
  {
   "id": 8271014003,
   "districtId": 8271014,
-  "name": "TOBOLOLO"
+  "districtName": "TERNATE BARAT",
+  "name": "TOBOLOLO",
+  "postalCode": "97751"
  },
  {
   "id": 8271014004,
   "districtId": 8271014,
-  "name": "TOGAFO"
+  "districtName": "TERNATE BARAT",
+  "name": "TOGAFO",
+  "postalCode": "97751"
  },
  {
   "id": 8271014005,
   "districtId": 8271014,
-  "name": "SULAMADAHA"
+  "districtName": "TERNATE BARAT",
+  "name": "SULAMADAHA",
+  "postalCode": "97751"
  },
  {
   "id": 8271014006,
   "districtId": 8271014,
-  "name": "LOTO"
+  "districtName": "TERNATE BARAT",
+  "name": "LOTO",
+  "postalCode": "97751"
  },
  {
   "id": 8271014007,
   "districtId": 8271014,
-  "name": "TAKOME"
+  "districtName": "TERNATE BARAT",
+  "name": "TAKOME",
+  "postalCode": "97751"
  }
 ]

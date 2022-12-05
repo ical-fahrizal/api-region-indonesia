@@ -2,46 +2,64 @@
  {
   "id": 3212070006,
   "districtId": 3212070,
-  "name": "BANGKALOA ILIR"
+  "districtName": "WIDASARI",
+  "name": "BANGKALOA ILIR",
+  "postalCode": "45271"
  },
  {
   "id": 3212070007,
   "districtId": 3212070,
-  "name": "WIDASARI"
+  "districtName": "WIDASARI",
+  "name": "WIDASARI",
+  "postalCode": "45271"
  },
  {
   "id": 3212070008,
   "districtId": 3212070,
-  "name": "KALENSARI"
+  "districtName": "WIDASARI",
+  "name": "KALENSARI",
+  "postalCode": "41258"
  },
  {
   "id": 3212070011,
   "districtId": 3212070,
-  "name": "UJUNGARIS"
+  "districtName": "WIDASARI",
+  "name": "UJUNGARIS",
+  "postalCode": "45271"
  },
  {
   "id": 3212070012,
   "districtId": 3212070,
-  "name": "KONGSIJAYA"
+  "districtName": "WIDASARI",
+  "name": "KONGSIJAYA",
+  "postalCode": "45271"
  },
  {
   "id": 3212070013,
   "districtId": 3212070,
-  "name": "UJUNGJAYA"
+  "districtName": "WIDASARI",
+  "name": "UJUNGJAYA",
+  "postalCode": "45383"
  },
  {
   "id": 3212070014,
   "districtId": 3212070,
-  "name": "UJUNGPENDOKJAYA"
+  "districtName": "WIDASARI",
+  "name": "UJUNGPENDOKJAYA",
+  "postalCode": "45271"
  },
  {
   "id": 3212070015,
   "districtId": 3212070,
-  "name": "LEUWIGEDE"
+  "districtName": "WIDASARI",
+  "name": "LEUWIGEDE",
+  "postalCode": "45271"
  },
  {
   "id": 3212070016,
   "districtId": 3212070,
-  "name": "KASMARAN"
+  "districtName": "WIDASARI",
+  "name": "KASMARAN",
+  "postalCode": "30752"
  }
 ]

@@ -2,21 +2,29 @@
  {
   "id": 6405041001,
   "districtId": 6405041,
-  "name": "MARATUA PAYUNG-PAYUNG"
+  "districtName": "MARATUA",
+  "name": "MARATUA PAYUNG-PAYUNG",
+  "postalCode": "77381"
  },
  {
   "id": 6405041002,
   "districtId": 6405041,
-  "name": "MARATUA BOHESILIAN"
+  "districtName": "MARATUA",
+  "name": "MARATUA BOHESILIAN",
+  "postalCode": "77381"
  },
  {
   "id": 6405041003,
   "districtId": 6405041,
-  "name": "MARATUA TELUK ALULU"
+  "districtName": "MARATUA",
+  "name": "MARATUA TELUK ALULU",
+  "postalCode": "77381"
  },
  {
   "id": 6405041004,
   "districtId": 6405041,
-  "name": "MARATUA TELUK HARAPAN"
+  "districtName": "MARATUA",
+  "name": "MARATUA TELUK HARAPAN",
+  "postalCode": "77381"
  }
 ]

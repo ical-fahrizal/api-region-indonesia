@@ -2,36 +2,50 @@
  {
   "id": 1273040001,
   "districtId": 1273040,
-  "name": "MARTOBA"
+  "districtName": "SIANTAR UTARA",
+  "name": "MARTOBA",
+  "postalCode": "21143"
  },
  {
   "id": 1273040002,
   "districtId": 1273040,
-  "name": "MELAYU"
+  "districtName": "SIANTAR UTARA",
+  "name": "MELAYU",
+  "postalCode": "21144"
  },
  {
   "id": 1273040003,
   "districtId": 1273040,
-  "name": "BARU"
+  "districtName": "SIANTAR UTARA",
+  "name": "BARU",
+  "postalCode": "23764"
  },
  {
   "id": 1273040004,
   "districtId": 1273040,
-  "name": "SUKA DAME"
+  "districtName": "SIANTAR UTARA",
+  "name": "SUKA DAME",
+  "postalCode": "22733"
  },
  {
   "id": 1273040005,
   "districtId": 1273040,
-  "name": "BANE"
+  "districtName": "SIANTAR UTARA",
+  "name": "BANE",
+  "postalCode": "21142"
  },
  {
   "id": 1273040006,
   "districtId": 1273040,
-  "name": "SIGULANG GULANG"
+  "districtName": "SIANTAR UTARA",
+  "name": "SIGULANG GULANG",
+  "postalCode": ""
  },
  {
   "id": 1273040007,
   "districtId": 1273040,
-  "name": "KAHEAN"
+  "districtName": "SIANTAR UTARA",
+  "name": "KAHEAN",
+  "postalCode": "21155"
  }
 ]

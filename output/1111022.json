@@ -2,46 +2,64 @@
  {
   "id": 1111022001,
   "districtId": 1111022,
-  "name": "JAMUAN"
+  "districtName": "BANDA BARO",
+  "name": "JAMUAN",
+  "postalCode": "24376"
  },
  {
   "id": 1111022002,
   "districtId": 1111022,
-  "name": "ALUE KEUREUNYAI"
+  "districtName": "BANDA BARO",
+  "name": "ALUE KEUREUNYAI",
+  "postalCode": "24376"
  },
  {
   "id": 1111022003,
   "districtId": 1111022,
-  "name": "BLANG PALA"
+  "districtName": "BANDA BARO",
+  "name": "BLANG PALA",
+  "postalCode": "24376"
  },
  {
   "id": 1111022004,
   "districtId": 1111022,
-  "name": "SANGKELAN"
+  "districtName": "BANDA BARO",
+  "name": "SANGKELAN",
+  "postalCode": "24376"
  },
  {
   "id": 1111022005,
   "districtId": 1111022,
-  "name": "ULEE NYEUE"
+  "districtName": "BANDA BARO",
+  "name": "ULEE NYEUE",
+  "postalCode": ""
  },
  {
   "id": 1111022006,
   "districtId": 1111022,
-  "name": "PAYA ULEUE"
+  "districtName": "BANDA BARO",
+  "name": "PAYA ULEUE",
+  "postalCode": "24376"
  },
  {
   "id": 1111022007,
   "districtId": 1111022,
-  "name": "COT JABET"
+  "districtName": "BANDA BARO",
+  "name": "COT JABET",
+  "postalCode": "24376"
  },
  {
   "id": 1111022008,
   "districtId": 1111022,
-  "name": "PAYA DUA"
+  "districtName": "BANDA BARO",
+  "name": "PAYA DUA",
+  "postalCode": "24376"
  },
  {
   "id": 1111022009,
   "districtId": 1111022,
-  "name": "PAYA BEUNYOT"
+  "districtName": "BANDA BARO",
+  "name": "PAYA BEUNYOT",
+  "postalCode": "24376"
  }
 ]

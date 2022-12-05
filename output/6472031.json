@@ -2,26 +2,36 @@
  {
   "id": 6472031001,
   "districtId": 6472031,
-  "name": "SENGKOTEK"
+  "districtName": "LOA JANAN ILIR",
+  "name": "SENGKOTEK",
+  "postalCode": "75131"
  },
  {
   "id": 6472031002,
   "districtId": 6472031,
-  "name": "SIMPANG TIGA"
+  "districtName": "LOA JANAN ILIR",
+  "name": "SIMPANG TIGA",
+  "postalCode": "23772"
  },
  {
   "id": 6472031003,
   "districtId": 6472031,
-  "name": "TANI AMAN"
+  "districtName": "LOA JANAN ILIR",
+  "name": "TANI AMAN",
+  "postalCode": "75131"
  },
  {
   "id": 6472031004,
   "districtId": 6472031,
-  "name": "HARAPAN BARU"
+  "districtName": "LOA JANAN ILIR",
+  "name": "HARAPAN BARU",
+  "postalCode": "24786"
  },
  {
   "id": 6472031005,
   "districtId": 6472031,
-  "name": "RAPAK DALAM"
+  "districtName": "LOA JANAN ILIR",
+  "name": "RAPAK DALAM",
+  "postalCode": "75131"
  }
 ]

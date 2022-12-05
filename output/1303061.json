@@ -2,26 +2,36 @@
  {
   "id": 1303061001,
   "districtId": 1303061,
-  "name": "RANGKIANG LULUIH"
+  "districtName": "TIGO LURAH",
+  "name": "RANGKIANG LULUIH",
+  "postalCode": "27372"
  },
  {
   "id": 1303061002,
   "districtId": 1303061,
-  "name": "BATU BAJANJANG"
+  "districtName": "TIGO LURAH",
+  "name": "BATU BAJANJANG",
+  "postalCode": "27383"
  },
  {
   "id": 1303061003,
   "districtId": 1303061,
-  "name": "SIMANAU"
+  "districtName": "TIGO LURAH",
+  "name": "SIMANAU",
+  "postalCode": "27372"
  },
  {
   "id": 1303061004,
   "districtId": 1303061,
-  "name": "TANJUANG BALIK SUMISO"
+  "districtName": "TIGO LURAH",
+  "name": "TANJUANG BALIK SUMISO",
+  "postalCode": ""
  },
  {
   "id": 1303061005,
   "districtId": 1303061,
-  "name": "GARABAK DATA"
+  "districtName": "TIGO LURAH",
+  "name": "GARABAK DATA",
+  "postalCode": "27372"
  }
 ]

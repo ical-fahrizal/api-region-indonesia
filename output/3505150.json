@@ -2,56 +2,78 @@
  {
   "id": 3505150001,
   "districtId": 3505150,
-  "name": "SUMBERAGUNG"
+  "districtName": "GANDUSARI",
+  "name": "SUMBERAGUNG",
+  "postalCode": "35452"
  },
  {
   "id": 3505150002,
   "districtId": 3505150,
-  "name": "GONDANG"
+  "districtName": "GANDUSARI",
+  "name": "GONDANG",
+  "postalCode": "51255"
  },
  {
   "id": 3505150003,
   "districtId": 3505150,
-  "name": "KOTES"
+  "districtName": "GANDUSARI",
+  "name": "KOTES",
+  "postalCode": "66187"
  },
  {
   "id": 3505150004,
   "districtId": 3505150,
-  "name": "TAMBAKAN"
+  "districtName": "GANDUSARI",
+  "name": "TAMBAKAN",
+  "postalCode": "41281"
  },
  {
   "id": 3505150006,
   "districtId": 3505150,
-  "name": "GANDUSARI"
+  "districtName": "GANDUSARI",
+  "name": "GANDUSARI",
+  "postalCode": "56151"
  },
  {
   "id": 3505150007,
   "districtId": 3505150,
-  "name": "SUKOSEWU"
+  "districtName": "GANDUSARI",
+  "name": "SUKOSEWU",
+  "postalCode": "66187"
  },
  {
   "id": 3505150008,
   "districtId": 3505150,
-  "name": "GADUNGAN"
+  "districtName": "GANDUSARI",
+  "name": "GADUNGAN",
+  "postalCode": "57461"
  },
  {
   "id": 3505150009,
   "districtId": 3505150,
-  "name": "NGARINGAN"
+  "districtName": "GANDUSARI",
+  "name": "NGARINGAN",
+  "postalCode": "58193"
  },
  {
   "id": 3505150010,
   "districtId": 3505150,
-  "name": "SOSO"
+  "districtName": "GANDUSARI",
+  "name": "SOSO",
+  "postalCode": "66187"
  },
  {
   "id": 3505150013,
   "districtId": 3505150,
-  "name": "TULUNGREJO"
+  "districtName": "GANDUSARI",
+  "name": "TULUNGREJO",
+  "postalCode": "66275"
  },
  {
   "id": 3505150014,
   "districtId": 3505150,
-  "name": "KRISIK"
+  "districtName": "GANDUSARI",
+  "name": "KRISIK",
+  "postalCode": "66187"
  }
 ]

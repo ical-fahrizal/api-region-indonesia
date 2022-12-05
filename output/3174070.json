@@ -2,31 +2,43 @@
  {
   "id": 3174070001,
   "districtId": 3174070,
-  "name": "DURI KOSAMBI"
+  "districtName": "CENGKARENG",
+  "name": "DURI KOSAMBI",
+  "postalCode": "11750"
  },
  {
   "id": 3174070002,
   "districtId": 3174070,
-  "name": "RAWA BUAYA"
+  "districtName": "CENGKARENG",
+  "name": "RAWA BUAYA",
+  "postalCode": "11740"
  },
  {
   "id": 3174070003,
   "districtId": 3174070,
-  "name": "KEDAUNG KALI ANGKE"
+  "districtName": "CENGKARENG",
+  "name": "KEDAUNG KALI ANGKE",
+  "postalCode": "11710"
  },
  {
   "id": 3174070004,
   "districtId": 3174070,
-  "name": "KAPUK"
+  "districtName": "CENGKARENG",
+  "name": "KAPUK",
+  "postalCode": "37356"
  },
  {
   "id": 3174070005,
   "districtId": 3174070,
-  "name": "CENGKARENG TIMUR"
+  "districtName": "CENGKARENG",
+  "name": "CENGKARENG TIMUR",
+  "postalCode": "11730"
  },
  {
   "id": 3174070006,
   "districtId": 3174070,
-  "name": "CENGKARENG BARAT"
+  "districtName": "CENGKARENG",
+  "name": "CENGKARENG BARAT",
+  "postalCode": "11730"
  }
 ]

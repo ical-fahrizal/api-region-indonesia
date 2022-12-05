@@ -2,31 +2,43 @@
  {
   "id": 3204250001,
   "districtId": 3204250,
-  "name": "NANJUNG"
+  "districtName": "MARGAASIH",
+  "name": "NANJUNG",
+  "postalCode": "40217"
  },
  {
   "id": 3204250002,
   "districtId": 3204250,
-  "name": "MEKAR RAHAYU"
+  "districtName": "MARGAASIH",
+  "name": "MEKAR RAHAYU",
+  "postalCode": "40218"
  },
  {
   "id": 3204250003,
   "districtId": 3204250,
-  "name": "RAHAYU"
+  "districtName": "MARGAASIH",
+  "name": "RAHAYU",
+  "postalCode": "40218"
  },
  {
   "id": 3204250004,
   "districtId": 3204250,
-  "name": "CIGONDEWAH HILIR"
+  "districtName": "MARGAASIH",
+  "name": "CIGONDEWAH HILIR",
+  "postalCode": "40214"
  },
  {
   "id": 3204250005,
   "districtId": 3204250,
-  "name": "MARGAASIH"
+  "districtName": "MARGAASIH",
+  "name": "MARGAASIH",
+  "postalCode": "40395"
  },
  {
   "id": 3204250006,
   "districtId": 3204250,
-  "name": "LAGADAR"
+  "districtName": "MARGAASIH",
+  "name": "LAGADAR",
+  "postalCode": "40216"
  }
 ]

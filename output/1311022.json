@@ -2,21 +2,29 @@
  {
   "id": 1311022001,
   "districtId": 1311022,
-  "name": "KOTO BERINGIN"
+  "districtName": "TIUMANG",
+  "name": "KOTO BERINGIN",
+  "postalCode": "37152"
  },
  {
   "id": 1311022002,
   "districtId": 1311022,
-  "name": "SIPANGKUR"
+  "districtName": "TIUMANG",
+  "name": "SIPANGKUR",
+  "postalCode": "27681"
  },
  {
   "id": 1311022003,
   "districtId": 1311022,
-  "name": "SUNGAI LANGKOK"
+  "districtName": "TIUMANG",
+  "name": "SUNGAI LANGKOK",
+  "postalCode": ""
  },
  {
   "id": 1311022004,
   "districtId": 1311022,
-  "name": "TIUMANG"
+  "districtName": "TIUMANG",
+  "name": "TIUMANG",
+  "postalCode": "27681"
  }
 ]

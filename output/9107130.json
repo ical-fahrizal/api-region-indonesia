@@ -2,36 +2,50 @@
  {
   "id": 9107130005,
   "districtId": 9107130,
-  "name": "KASIM"
+  "districtName": "SEGET",
+  "name": "KASIM",
+  "postalCode": "98452"
  },
  {
   "id": 9107130006,
   "districtId": 9107130,
-  "name": "MALABAM"
+  "districtName": "SEGET",
+  "name": "MALABAM",
+  "postalCode": ""
  },
  {
   "id": 9107130008,
   "districtId": 9107130,
-  "name": "KASIMLE"
+  "districtName": "SEGET",
+  "name": "KASIMLE",
+  "postalCode": "98452"
  },
  {
   "id": 9107130009,
   "districtId": 9107130,
-  "name": "WAWENAGU"
+  "districtName": "SEGET",
+  "name": "WAWENAGU",
+  "postalCode": ""
  },
  {
   "id": 9107130010,
   "districtId": 9107130,
-  "name": "KLAYAS"
+  "districtName": "SEGET",
+  "name": "KLAYAS",
+  "postalCode": "98452"
  },
  {
   "id": 9107130011,
   "districtId": 9107130,
-  "name": "WASINGSAN"
+  "districtName": "SEGET",
+  "name": "WASINGSAN",
+  "postalCode": "98452"
  },
  {
   "id": 9107130012,
   "districtId": 9107130,
-  "name": "WAYANGKEDE"
+  "districtName": "SEGET",
+  "name": "WAYANGKEDE",
+  "postalCode": ""
  }
 ]

@@ -2,46 +2,64 @@
  {
   "id": 5304080004,
   "districtId": 5304080,
-  "name": "MAULEUM"
+  "districtName": "AMANUBAN TIMUR",
+  "name": "MAULEUM",
+  "postalCode": "85572"
  },
  {
   "id": 5304080005,
   "districtId": 5304080,
-  "name": "OELET"
+  "districtName": "AMANUBAN TIMUR",
+  "name": "OELET",
+  "postalCode": "85572"
  },
  {
   "id": 5304080006,
   "districtId": 5304080,
-  "name": "OE EKAM"
+  "districtName": "AMANUBAN TIMUR",
+  "name": "OE EKAM",
+  "postalCode": "85572"
  },
  {
   "id": 5304080007,
   "districtId": 5304080,
-  "name": "PISAN"
+  "districtName": "AMANUBAN TIMUR",
+  "name": "PISAN",
+  "postalCode": "85572"
  },
  {
   "id": 5304080008,
   "districtId": 5304080,
-  "name": "MNELAANEN"
+  "districtName": "AMANUBAN TIMUR",
+  "name": "MNELAANEN",
+  "postalCode": "85572"
  },
  {
   "id": 5304080010,
   "districtId": 5304080,
-  "name": "NIFUKIU"
+  "districtName": "AMANUBAN TIMUR",
+  "name": "NIFUKIU",
+  "postalCode": "85572"
  },
  {
   "id": 5304080012,
   "districtId": 5304080,
-  "name": "BILLA"
+  "districtName": "AMANUBAN TIMUR",
+  "name": "BILLA",
+  "postalCode": "85572"
  },
  {
   "id": 5304080016,
   "districtId": 5304080,
-  "name": "SINI"
+  "districtName": "AMANUBAN TIMUR",
+  "name": "SINI",
+  "postalCode": "85572"
  },
  {
   "id": 5304080018,
   "districtId": 5304080,
-  "name": "TLIU"
+  "districtName": "AMANUBAN TIMUR",
+  "name": "TLIU",
+  "postalCode": "85572"
  }
 ]

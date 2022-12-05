@@ -2,41 +2,57 @@
  {
   "id": 3402130001,
   "districtId": 3402130,
-  "name": "TAMANAN"
+  "districtName": "BANGUNTAPAN",
+  "name": "TAMANAN",
+  "postalCode": "55191"
  },
  {
   "id": 3402130002,
   "districtId": 3402130,
-  "name": "JAGALAN"
+  "districtName": "BANGUNTAPAN",
+  "name": "JAGALAN",
+  "postalCode": "57162"
  },
  {
   "id": 3402130003,
   "districtId": 3402130,
-  "name": "SINGOSAREN"
+  "districtName": "BANGUNTAPAN",
+  "name": "SINGOSAREN",
+  "postalCode": "55193"
  },
  {
   "id": 3402130004,
   "districtId": 3402130,
-  "name": "WIROKERTEN"
+  "districtName": "BANGUNTAPAN",
+  "name": "WIROKERTEN",
+  "postalCode": "55194"
  },
  {
   "id": 3402130005,
   "districtId": 3402130,
-  "name": "JAMBIDAN"
+  "districtName": "BANGUNTAPAN",
+  "name": "JAMBIDAN",
+  "postalCode": "55195"
  },
  {
   "id": 3402130006,
   "districtId": 3402130,
-  "name": "POTORONO"
+  "districtName": "BANGUNTAPAN",
+  "name": "POTORONO",
+  "postalCode": "55196"
  },
  {
   "id": 3402130007,
   "districtId": 3402130,
-  "name": "BATURETNO"
+  "districtName": "BANGUNTAPAN",
+  "name": "BATURETNO",
+  "postalCode": "57673"
  },
  {
   "id": 3402130008,
   "districtId": 3402130,
-  "name": "BANGUNTAPAN"
+  "districtName": "BANGUNTAPAN",
+  "name": "BANGUNTAPAN",
+  "postalCode": "55198"
  }
 ]

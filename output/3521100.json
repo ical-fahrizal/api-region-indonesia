@@ -2,56 +2,78 @@
  {
   "id": 3521100001,
   "districtId": 3521100,
-  "name": "BANJARANSARI"
+  "districtName": "PADAS",
+  "name": "BANJARANSARI",
+  "postalCode": "45466"
  },
  {
   "id": 3521100002,
   "districtId": 3521100,
-  "name": "BENDO"
+  "districtName": "PADAS",
+  "name": "BENDO",
+  "postalCode": "57378"
  },
  {
   "id": 3521100003,
   "districtId": 3521100,
-  "name": "TAMBAKROMO"
+  "districtName": "PADAS",
+  "name": "TAMBAKROMO",
+  "postalCode": "58315"
  },
  {
   "id": 3521100004,
   "districtId": 3521100,
-  "name": "TUNGKULREJO"
+  "districtName": "PADAS",
+  "name": "TUNGKULREJO",
+  "postalCode": "63281"
  },
  {
   "id": 3521100005,
   "districtId": 3521100,
-  "name": "BINTOYO"
+  "districtName": "PADAS",
+  "name": "BINTOYO",
+  "postalCode": "63281"
  },
  {
   "id": 3521100006,
   "districtId": 3521100,
-  "name": "SUKOWIYONO"
+  "districtName": "PADAS",
+  "name": "SUKOWIYONO",
+  "postalCode": "66253"
  },
  {
   "id": 3521100011,
   "districtId": 3521100,
-  "name": "PACING"
+  "districtName": "PADAS",
+  "name": "PACING",
+  "postalCode": "41374"
  },
  {
   "id": 3521100012,
   "districtId": 3521100,
-  "name": "PADAS"
+  "districtName": "PADAS",
+  "name": "PADAS",
+  "postalCode": "57475"
  },
  {
   "id": 3521100013,
   "districtId": 3521100,
-  "name": "KEDUNG PRAHU"
+  "districtName": "PADAS",
+  "name": "KEDUNG PRAHU",
+  "postalCode": "63281"
  },
  {
   "id": 3521100014,
   "districtId": 3521100,
-  "name": "SAMBIROTO"
+  "districtName": "PADAS",
+  "name": "SAMBIROTO",
+  "postalCode": "59581"
  },
  {
   "id": 3521100015,
   "districtId": 3521100,
-  "name": "KWADUNGAN LOR"
+  "districtName": "PADAS",
+  "name": "KWADUNGAN LOR",
+  "postalCode": "63281"
  }
 ]

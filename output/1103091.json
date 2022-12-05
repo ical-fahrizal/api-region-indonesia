@@ -2,61 +2,85 @@
  {
   "id": 1103091001,
   "districtId": 1103091,
-  "name": "KEUMUMU HILIR"
+  "districtName": "LABUHAN HAJI TIMUR",
+  "name": "KEUMUMU HILIR",
+  "postalCode": "23758"
  },
  {
   "id": 1103091002,
   "districtId": 1103091,
-  "name": "PAYA PEULUMAT"
+  "districtName": "LABUHAN HAJI TIMUR",
+  "name": "PAYA PEULUMAT",
+  "postalCode": "23758"
  },
  {
   "id": 1103091003,
   "districtId": 1103091,
-  "name": "TENGAH PEULUMAT"
+  "districtName": "LABUHAN HAJI TIMUR",
+  "name": "TENGAH PEULUMAT",
+  "postalCode": "23758"
  },
  {
   "id": 1103091004,
   "districtId": 1103091,
-  "name": "PADANG PEULUMAT"
+  "districtName": "LABUHAN HAJI TIMUR",
+  "name": "PADANG PEULUMAT",
+  "postalCode": "23758"
  },
  {
   "id": 1103091005,
   "districtId": 1103091,
-  "name": "LIMAU SARING"
+  "districtName": "LABUHAN HAJI TIMUR",
+  "name": "LIMAU SARING",
+  "postalCode": "23758"
  },
  {
   "id": 1103091006,
   "districtId": 1103091,
-  "name": "AUR PEULUMAT"
+  "districtName": "LABUHAN HAJI TIMUR",
+  "name": "AUR PEULUMAT",
+  "postalCode": "23758"
  },
  {
   "id": 1103091007,
   "districtId": 1103091,
-  "name": "KEUMUMU HULU"
+  "districtName": "LABUHAN HAJI TIMUR",
+  "name": "KEUMUMU HULU",
+  "postalCode": "23758"
  },
  {
   "id": 1103091008,
   "districtId": 1103091,
-  "name": "BEUTONG"
+  "districtName": "LABUHAN HAJI TIMUR",
+  "name": "BEUTONG",
+  "postalCode": "23773"
  },
  {
   "id": 1103091009,
   "districtId": 1103091,
-  "name": "PEUNALOP"
+  "districtName": "LABUHAN HAJI TIMUR",
+  "name": "PEUNALOP",
+  "postalCode": ""
  },
  {
   "id": 1103091010,
   "districtId": 1103091,
-  "name": "GUNUNG ROTAN"
+  "districtName": "LABUHAN HAJI TIMUR",
+  "name": "GUNUNG ROTAN",
+  "postalCode": "23758"
  },
  {
   "id": 1103091011,
   "districtId": 1103091,
-  "name": "KEUMUMU SEBERANG"
+  "districtName": "LABUHAN HAJI TIMUR",
+  "name": "KEUMUMU SEBERANG",
+  "postalCode": "23758"
  },
  {
   "id": 1103091012,
   "districtId": 1103091,
-  "name": "SAWANG INDAH"
+  "districtName": "LABUHAN HAJI TIMUR",
+  "name": "SAWANG INDAH",
+  "postalCode": "23758"
  }
 ]

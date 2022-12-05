@@ -2,56 +2,78 @@
  {
   "id": 1701041006,
   "districtId": 1701041,
-  "name": "KAMPUNG BARU"
+  "districtName": "KOTA MANNA",
+  "name": "KAMPUNG BARU",
+  "postalCode": "24652"
  },
  {
   "id": 1701041007,
   "districtId": 1701041,
-  "name": "PAGAR DEWA"
+  "districtName": "KOTA MANNA",
+  "name": "PAGAR DEWA",
+  "postalCode": "31626"
  },
  {
   "id": 1701041008,
   "districtId": 1701041,
-  "name": "PASAR BARU"
+  "districtName": "KOTA MANNA",
+  "name": "PASAR BARU",
+  "postalCode": "22163"
  },
  {
   "id": 1701041013,
   "districtId": 1701041,
-  "name": "KOTA MEDAN"
+  "districtName": "KOTA MANNA",
+  "name": "KOTA MEDAN",
+  "postalCode": "29352"
  },
  {
   "id": 1701041014,
   "districtId": 1701041,
-  "name": "GUNUNG AYU"
+  "districtName": "KOTA MANNA",
+  "name": "GUNUNG AYU",
+  "postalCode": "31581"
  },
  {
   "id": 1701041015,
   "districtId": 1701041,
-  "name": "PADANG NIUR"
+  "districtName": "KOTA MANNA",
+  "name": "PADANG NIUR",
+  "postalCode": "38511"
  },
  {
   "id": 1701041016,
   "districtId": 1701041,
-  "name": "TEBAT KUBU"
+  "districtName": "KOTA MANNA",
+  "name": "TEBAT KUBU",
+  "postalCode": "38511"
  },
  {
   "id": 1701041017,
   "districtId": 1701041,
-  "name": "GELUMBANG"
+  "districtName": "KOTA MANNA",
+  "name": "GELUMBANG",
+  "postalCode": "31171"
  },
  {
   "id": 1701041018,
   "districtId": 1701041,
-  "name": "PADANG KAPUK"
+  "districtName": "KOTA MANNA",
+  "name": "PADANG KAPUK",
+  "postalCode": "38511"
  },
  {
   "id": 1701041019,
   "districtId": 1701041,
-  "name": "IBUL"
+  "districtName": "KOTA MANNA",
+  "name": "IBUL",
+  "postalCode": "29564"
  },
  {
   "id": 1701041020,
   "districtId": 1701041,
-  "name": "PADANG BERANGIN"
+  "districtName": "KOTA MANNA",
+  "name": "PADANG BERANGIN",
+  "postalCode": "38511"
  }
 ]

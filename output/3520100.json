@@ -2,61 +2,85 @@
  {
   "id": 3520100002,
   "districtId": 3520100,
-  "name": "BELOTAN"
+  "districtName": "BENDO",
+  "name": "BELOTAN",
+  "postalCode": "63384"
  },
  {
   "id": 3520100003,
   "districtId": 3520100,
-  "name": "PINGKUK"
+  "districtName": "BENDO",
+  "name": "PINGKUK",
+  "postalCode": "57692"
  },
  {
   "id": 3520100004,
   "districtId": 3520100,
-  "name": "TANJUNG"
+  "districtName": "BENDO",
+  "name": "TANJUNG",
+  "postalCode": "24562"
  },
  {
   "id": 3520100005,
   "districtId": 3520100,
-  "name": "TEGALARUM"
+  "districtName": "BENDO",
+  "name": "TEGALARUM",
+  "postalCode": "56413"
  },
  {
   "id": 3520100006,
   "districtId": 3520100,
-  "name": "BULAK"
+  "districtName": "BENDO",
+  "name": "BULAK",
+  "postalCode": "45162"
  },
  {
   "id": 3520100007,
   "districtId": 3520100,
-  "name": "SOCO"
+  "districtName": "BENDO",
+  "name": "SOCO",
+  "postalCode": "59353"
  },
  {
   "id": 3520100008,
   "districtId": 3520100,
-  "name": "CARIKAN"
+  "districtName": "BENDO",
+  "name": "CARIKAN",
+  "postalCode": "57472"
  },
  {
   "id": 3520100009,
   "districtId": 3520100,
-  "name": "BENDO"
+  "districtName": "BENDO",
+  "name": "BENDO",
+  "postalCode": "57378"
  },
  {
   "id": 3520100013,
   "districtId": 3520100,
-  "name": "KLECO"
+  "districtName": "BENDO",
+  "name": "KLECO",
+  "postalCode": "63384"
  },
  {
   "id": 3520100014,
   "districtId": 3520100,
-  "name": "KLEDOKAN"
+  "districtName": "BENDO",
+  "name": "KLEDOKAN",
+  "postalCode": "63384"
  },
  {
   "id": 3520100015,
   "districtId": 3520100,
-  "name": "LEMAHBANG"
+  "districtName": "BENDO",
+  "name": "LEMAHBANG",
+  "postalCode": "57783"
  },
  {
   "id": 3520100016,
   "districtId": 3520100,
-  "name": "KINANDANG"
+  "districtName": "BENDO",
+  "name": "KINANDANG",
+  "postalCode": "63384"
  }
 ]

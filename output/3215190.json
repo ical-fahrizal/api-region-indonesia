@@ -2,51 +2,71 @@
  {
   "id": 3215190001,
   "districtId": 3215190,
-  "name": "KUTAAMPEL"
+  "districtName": "BATUJAYA",
+  "name": "KUTAAMPEL",
+  "postalCode": "41354"
  },
  {
   "id": 3215190002,
   "districtId": 3215190,
-  "name": "KARYAMAKMUR"
+  "districtName": "BATUJAYA",
+  "name": "KARYAMAKMUR",
+  "postalCode": "41354"
  },
  {
   "id": 3215190003,
   "districtId": 3215190,
-  "name": "KARYAMULYA"
+  "districtName": "BATUJAYA",
+  "name": "KARYAMULYA",
+  "postalCode": "41354"
  },
  {
   "id": 3215190004,
   "districtId": 3215190,
-  "name": "TELUKBANGO"
+  "districtName": "BATUJAYA",
+  "name": "TELUKBANGO",
+  "postalCode": "41354"
  },
  {
   "id": 3215190005,
   "districtId": 3215190,
-  "name": "TELUKAMBULU"
+  "districtName": "BATUJAYA",
+  "name": "TELUKAMBULU",
+  "postalCode": "41354"
  },
  {
   "id": 3215190006,
   "districtId": 3215190,
-  "name": "KARYABAKTI"
+  "districtName": "BATUJAYA",
+  "name": "KARYABAKTI",
+  "postalCode": "41354"
  },
  {
   "id": 3215190007,
   "districtId": 3215190,
-  "name": "BATURADEN"
+  "districtName": "BATUJAYA",
+  "name": "BATURADEN",
+  "postalCode": "41354"
  },
  {
   "id": 3215190008,
   "districtId": 3215190,
-  "name": "BATUJAYA"
+  "districtName": "BATUJAYA",
+  "name": "BATUJAYA",
+  "postalCode": "41354"
  },
  {
   "id": 3215190009,
   "districtId": 3215190,
-  "name": "SEGARAN"
+  "districtName": "BATUJAYA",
+  "name": "SEGARAN",
+  "postalCode": "41354"
  },
  {
   "id": 3215190010,
   "districtId": 3215190,
-  "name": "SEGARJAYA"
+  "districtName": "BATUJAYA",
+  "name": "SEGARJAYA",
+  "postalCode": "41354"
  }
 ]

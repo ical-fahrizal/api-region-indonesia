@@ -2,41 +2,57 @@
  {
   "id": 7209080006,
   "districtId": 7209080,
-  "name": "TIGA PULAU"
+  "districtName": "WALEA KEPULAUAN",
+  "name": "TIGA PULAU",
+  "postalCode": "94692"
  },
  {
   "id": 7209080007,
   "districtId": 7209080,
-  "name": "LUOK"
+  "districtName": "WALEA KEPULAUAN",
+  "name": "LUOK",
+  "postalCode": "94773"
  },
  {
   "id": 7209080008,
   "districtId": 7209080,
-  "name": "POPOLII"
+  "districtName": "WALEA KEPULAUAN",
+  "name": "POPOLII",
+  "postalCode": ""
  },
  {
   "id": 7209080009,
   "districtId": 7209080,
-  "name": "DOLONG B"
+  "districtName": "WALEA KEPULAUAN",
+  "name": "DOLONG B",
+  "postalCode": "94692"
  },
  {
   "id": 7209080011,
   "districtId": 7209080,
-  "name": "DOLONG A"
+  "districtName": "WALEA KEPULAUAN",
+  "name": "DOLONG A",
+  "postalCode": ""
  },
  {
   "id": 7209080012,
   "districtId": 7209080,
-  "name": "OLILAN"
+  "districtName": "WALEA KEPULAUAN",
+  "name": "OLILAN",
+  "postalCode": "94692"
  },
  {
   "id": 7209080013,
   "districtId": 7209080,
-  "name": "KOLAMI"
+  "districtName": "WALEA KEPULAUAN",
+  "name": "KOLAMI",
+  "postalCode": ""
  },
  {
   "id": 7209080015,
   "districtId": 7209080,
-  "name": "LOE"
+  "districtName": "WALEA KEPULAUAN",
+  "name": "LOE",
+  "postalCode": "94692"
  }
 ]

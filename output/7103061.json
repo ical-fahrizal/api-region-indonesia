@@ -2,36 +2,50 @@
  {
   "id": 7103061002,
   "districtId": 7103061,
-  "name": "TAMBUNG"
+  "districtName": "TABUKAN SELATAN TENGAH",
+  "name": "TAMBUNG",
+  "postalCode": "69323"
  },
  {
   "id": 7103061004,
   "districtId": 7103061,
-  "name": "SALURANG"
+  "districtName": "TABUKAN SELATAN TENGAH",
+  "name": "SALURANG",
+  "postalCode": "95858"
  },
  {
   "id": 7103061005,
   "districtId": 7103061,
-  "name": "HANGKE"
+  "districtName": "TABUKAN SELATAN TENGAH",
+  "name": "HANGKE",
+  "postalCode": "95858"
  },
  {
   "id": 7103061006,
   "districtId": 7103061,
-  "name": "BOWONE"
+  "districtName": "TABUKAN SELATAN TENGAH",
+  "name": "BOWONE",
+  "postalCode": "95858"
  },
  {
   "id": 7103061007,
   "districtId": 7103061,
-  "name": "BEENG LAUT"
+  "districtName": "TABUKAN SELATAN TENGAH",
+  "name": "BEENG LAUT",
+  "postalCode": "95858"
  },
  {
   "id": 7103061008,
   "districtId": 7103061,
-  "name": "TENDA"
+  "districtName": "TABUKAN SELATAN TENGAH",
+  "name": "TENDA",
+  "postalCode": "86518"
  },
  {
   "id": 7103061009,
   "districtId": 7103061,
-  "name": "AHA PATUNG"
+  "districtName": "TABUKAN SELATAN TENGAH",
+  "name": "AHA PATUNG",
+  "postalCode": "95858"
  }
 ]

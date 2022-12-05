@@ -2,51 +2,71 @@
  {
   "id": 1209101001,
   "districtId": 1209101,
-  "name": "PARJALANGAN"
+  "districtName": "DOLOG MASAGAL",
+  "name": "PARJALANGAN",
+  "postalCode": "21163"
  },
  {
   "id": 1209101002,
   "districtId": 1209101,
-  "name": "RAYA HULUAN"
+  "districtName": "DOLOG MASAGAL",
+  "name": "RAYA HULUAN",
+  "postalCode": "21162"
  },
  {
   "id": 1209101003,
   "districtId": 1209101,
-  "name": "DOLOG HULUAN"
+  "districtName": "DOLOG MASAGAL",
+  "name": "DOLOG HULUAN",
+  "postalCode": ""
  },
  {
   "id": 1209101004,
   "districtId": 1209101,
-  "name": "RAYA USANG"
+  "districtName": "DOLOG MASAGAL",
+  "name": "RAYA USANG",
+  "postalCode": "21162"
  },
  {
   "id": 1209101005,
   "districtId": 1209101,
-  "name": "BINTANG MERIAH"
+  "districtName": "DOLOG MASAGAL",
+  "name": "BINTANG MERIAH",
+  "postalCode": "20372"
  },
  {
   "id": 1209101006,
   "districtId": 1209101,
-  "name": "BANGUN PANE"
+  "districtName": "DOLOG MASAGAL",
+  "name": "BANGUN PANE",
+  "postalCode": "21163"
  },
  {
   "id": 1209101007,
   "districtId": 1209101,
-  "name": "PARTUAHAN"
+  "districtName": "DOLOG MASAGAL",
+  "name": "PARTUAHAN",
+  "postalCode": ""
  },
  {
   "id": 1209101008,
   "districtId": 1209101,
-  "name": "BAH BOLON"
+  "districtName": "DOLOG MASAGAL",
+  "name": "BAH BOLON",
+  "postalCode": "21162"
  },
  {
   "id": 1209101009,
   "districtId": 1209101,
-  "name": "SINAMAN LABAH"
+  "districtName": "DOLOG MASAGAL",
+  "name": "SINAMAN LABAH",
+  "postalCode": "21163"
  },
  {
   "id": 1209101010,
   "districtId": 1209101,
-  "name": "PAMATANG SINAMAN"
+  "districtName": "DOLOG MASAGAL",
+  "name": "PAMATANG SINAMAN",
+  "postalCode": ""
  }
 ]

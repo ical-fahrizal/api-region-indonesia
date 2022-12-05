@@ -2,36 +2,50 @@
  {
   "id": 9416015001,
   "districtId": 9416015,
-  "name": "PASEMA"
+  "districtName": "PASEMA",
+  "name": "PASEMA",
+  "postalCode": "99571"
  },
  {
   "id": 9416015002,
   "districtId": 9416015,
-  "name": "LEINOKO"
+  "districtName": "PASEMA",
+  "name": "LEINOKO",
+  "postalCode": ""
  },
  {
   "id": 9416015003,
   "districtId": 9416015,
-  "name": "LOWET"
+  "districtName": "PASEMA",
+  "name": "LOWET",
+  "postalCode": "99571"
  },
  {
   "id": 9416015004,
   "districtId": 9416015,
-  "name": "WEA"
+  "districtName": "PASEMA",
+  "name": "WEA",
+  "postalCode": "86584"
  },
  {
   "id": 9416015005,
   "districtId": 9416015,
-  "name": "SENGANGGE"
+  "districtName": "PASEMA",
+  "name": "SENGANGGE",
+  "postalCode": "99571"
  },
  {
   "id": 9416015006,
   "districtId": 9416015,
-  "name": "WULIN"
+  "districtName": "PASEMA",
+  "name": "WULIN",
+  "postalCode": "99571"
  },
  {
   "id": 9416015007,
   "districtId": 9416015,
-  "name": "PUPI"
+  "districtName": "PASEMA",
+  "name": "PUPI",
+  "postalCode": "99571"
  }
 ]

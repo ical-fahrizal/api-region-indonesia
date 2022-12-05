@@ -2,116 +2,162 @@
  {
   "id": 3514170001,
   "districtId": 3514170,
-  "name": "SLAMBRIT"
+  "districtName": "KRATON",
+  "name": "SLAMBRIT",
+  "postalCode": "67151"
  },
  {
   "id": 3514170002,
   "districtId": 3514170,
-  "name": "NGABAR"
+  "districtName": "KRATON",
+  "name": "NGABAR",
+  "postalCode": "61352"
  },
  {
   "id": 3514170003,
   "districtId": 3514170,
-  "name": "KLAMPIS REJO"
+  "districtName": "KRATON",
+  "name": "KLAMPIS REJO",
+  "postalCode": "67151"
  },
  {
   "id": 3514170004,
   "districtId": 3514170,
-  "name": "KEBOTOHAN"
+  "districtName": "KRATON",
+  "name": "KEBOTOHAN",
+  "postalCode": "67151"
  },
  {
   "id": 3514170006,
   "districtId": 3514170,
-  "name": "GAMBIR KUNING"
+  "districtName": "KRATON",
+  "name": "GAMBIR KUNING",
+  "postalCode": "67151"
  },
  {
   "id": 3514170007,
   "districtId": 3514170,
-  "name": "MULYO REJO"
+  "districtName": "KRATON",
+  "name": "MULYO REJO",
+  "postalCode": "20351"
  },
  {
   "id": 3514170008,
   "districtId": 3514170,
-  "name": "TAMBAKSARI"
+  "districtName": "KRATON",
+  "name": "TAMBAKSARI",
+  "postalCode": "44192"
  },
  {
   "id": 3514170009,
   "districtId": 3514170,
-  "name": "PLINGGISAN"
+  "districtName": "KRATON",
+  "name": "PLINGGISAN",
+  "postalCode": "67151"
  },
  {
   "id": 3514170010,
   "districtId": 3514170,
-  "name": "DHOMPO"
+  "districtName": "KRATON",
+  "name": "DHOMPO",
+  "postalCode": "67151"
  },
  {
   "id": 3514170011,
   "districtId": 3514170,
-  "name": "NGEMPIT"
+  "districtName": "KRATON",
+  "name": "NGEMPIT",
+  "postalCode": "67151"
  },
  {
   "id": 3514170013,
   "districtId": 3514170,
-  "name": "SIDOGIRI"
+  "districtName": "KRATON",
+  "name": "SIDOGIRI",
+  "postalCode": "67151"
  },
  {
   "id": 3514170014,
   "districtId": 3514170,
-  "name": "KARANG ANYAR"
+  "districtName": "KRATON",
+  "name": "KARANG ANYAR",
+  "postalCode": "24415"
  },
  {
   "id": 3514170015,
   "districtId": 3514170,
-  "name": "SELOTAMBAK"
+  "districtName": "KRATON",
+  "name": "SELOTAMBAK",
+  "postalCode": "67151"
  },
  {
   "id": 3514170016,
   "districtId": 3514170,
-  "name": "CURAH DUKUH"
+  "districtName": "KRATON",
+  "name": "CURAH DUKUH",
+  "postalCode": "67151"
  },
  {
   "id": 3514170017,
   "districtId": 3514170,
-  "name": "REJOSARI"
+  "districtName": "KRATON",
+  "name": "REJOSARI",
+  "postalCode": "29353"
  },
  {
   "id": 3514170018,
   "districtId": 3514170,
-  "name": "ASEMKANDANG"
+  "districtName": "KRATON",
+  "name": "ASEMKANDANG",
+  "postalCode": "67151"
  },
  {
   "id": 3514170019,
   "districtId": 3514170,
-  "name": "TAMBAKREJO"
+  "districtName": "KRATON",
+  "name": "TAMBAKREJO",
+  "postalCode": "54391"
  },
  {
   "id": 3514170020,
   "districtId": 3514170,
-  "name": "KRATON"
+  "districtName": "KRATON",
+  "name": "KRATON",
+  "postalCode": "52112"
  },
  {
   "id": 3514170021,
   "districtId": 3514170,
-  "name": "KALIREJO"
+  "districtName": "KRATON",
+  "name": "KALIREJO",
+  "postalCode": "35353"
  },
  {
   "id": 3514170022,
   "districtId": 3514170,
-  "name": "SEMARE"
+  "districtName": "KRATON",
+  "name": "SEMARE",
+  "postalCode": "64473"
  },
  {
   "id": 3514170023,
   "districtId": 3514170,
-  "name": "PULOKERTO"
+  "districtName": "KRATON",
+  "name": "PULOKERTO",
+  "postalCode": "67151"
  },
  {
   "id": 3514170024,
   "districtId": 3514170,
-  "name": "BENDUNGAN"
+  "districtName": "KRATON",
+  "name": "BENDUNGAN",
+  "postalCode": "16720"
  },
  {
   "id": 3514170025,
   "districtId": 3514170,
-  "name": "GERONGAN"
+  "districtName": "KRATON",
+  "name": "GERONGAN",
+  "postalCode": "67151"
  }
 ]

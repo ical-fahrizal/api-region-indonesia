@@ -2,46 +2,64 @@
  {
   "id": 9428080003,
   "districtId": 9428080,
-  "name": "DOUW"
+  "districtName": "MAMBERAMO ULU",
+  "name": "DOUW",
+  "postalCode": ""
  },
  {
   "id": 9428080006,
   "districtId": 9428080,
-  "name": "PAPASENA II"
+  "districtName": "MAMBERAMO ULU",
+  "name": "PAPASENA II",
+  "postalCode": ""
  },
  {
   "id": 9428080007,
   "districtId": 9428080,
-  "name": "PAPASENA I"
+  "districtName": "MAMBERAMO ULU",
+  "name": "PAPASENA I",
+  "postalCode": ""
  },
  {
   "id": 9428080008,
   "districtId": 9428080,
-  "name": "TAIYEVE"
+  "districtName": "MAMBERAMO ULU",
+  "name": "TAIYEVE",
+  "postalCode": "99377"
  },
  {
   "id": 9428080009,
   "districtId": 9428080,
-  "name": "DABRA"
+  "districtName": "MAMBERAMO ULU",
+  "name": "DABRA",
+  "postalCode": "99377"
  },
  {
   "id": 9428080010,
   "districtId": 9428080,
-  "name": "FOAU"
+  "districtName": "MAMBERAMO ULU",
+  "name": "FOAU",
+  "postalCode": ""
  },
  {
   "id": 9428080011,
   "districtId": 9428080,
-  "name": "FOKRI / BASO"
+  "districtName": "MAMBERAMO ULU",
+  "name": "FOKRI / BASO",
+  "postalCode": ""
  },
  {
   "id": 9428080014,
   "districtId": 9428080,
-  "name": "TARIA"
+  "districtName": "MAMBERAMO ULU",
+  "name": "TARIA",
+  "postalCode": "99558"
  },
  {
   "id": 9428080015,
   "districtId": 9428080,
-  "name": "KWA"
+  "districtName": "MAMBERAMO ULU",
+  "name": "KWA",
+  "postalCode": "99569"
  }
 ]

@@ -2,66 +2,92 @@
  {
   "id": 7202080012,
   "districtId": 7202080,
-  "name": "TALIMA A"
+  "districtName": "BALANTAK",
+  "name": "TALIMA A",
+  "postalCode": "94773"
  },
  {
   "id": 7202080013,
   "districtId": 7202080,
-  "name": "TALIMA B"
+  "districtName": "BALANTAK",
+  "name": "TALIMA B",
+  "postalCode": "94773"
  },
  {
   "id": 7202080014,
   "districtId": 7202080,
-  "name": "DOLOM"
+  "districtName": "BALANTAK",
+  "name": "DOLOM",
+  "postalCode": "94773"
  },
  {
   "id": 7202080015,
   "districtId": 7202080,
-  "name": "KILOMA"
+  "districtName": "BALANTAK",
+  "name": "KILOMA",
+  "postalCode": "94773"
  },
  {
   "id": 7202080016,
   "districtId": 7202080,
-  "name": "RAU"
+  "districtName": "BALANTAK",
+  "name": "RAU",
+  "postalCode": "59463"
  },
  {
   "id": 7202080017,
   "districtId": 7202080,
-  "name": "TANOTU"
+  "districtName": "BALANTAK",
+  "name": "TANOTU",
+  "postalCode": "94773"
  },
  {
   "id": 7202080018,
   "districtId": 7202080,
-  "name": "PADANG"
+  "districtName": "BALANTAK",
+  "name": "PADANG",
+  "postalCode": "23762"
  },
  {
   "id": 7202080019,
   "districtId": 7202080,
-  "name": "MAMPING"
+  "districtName": "BALANTAK",
+  "name": "MAMPING",
+  "postalCode": "94773"
  },
  {
   "id": 7202080020,
   "districtId": 7202080,
-  "name": "BALANTAK"
+  "districtName": "BALANTAK",
+  "name": "BALANTAK",
+  "postalCode": "94773"
  },
  {
   "id": 7202080021,
   "districtId": 7202080,
-  "name": "LUOK"
+  "districtName": "BALANTAK",
+  "name": "LUOK",
+  "postalCode": "94773"
  },
  {
   "id": 7202080027,
   "districtId": 7202080,
-  "name": "BOLOAK"
+  "districtName": "BALANTAK",
+  "name": "BOLOAK",
+  "postalCode": "94773"
  },
  {
   "id": 7202080030,
   "districtId": 7202080,
-  "name": "DALE- DALE"
+  "districtName": "BALANTAK",
+  "name": "DALE- DALE",
+  "postalCode": ""
  },
  {
   "id": 7202080031,
   "districtId": 7202080,
-  "name": "TALANG BATU"
+  "districtName": "BALANTAK",
+  "name": "TALANG BATU",
+  "postalCode": "31131"
  }
 ]

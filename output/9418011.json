@@ -2,56 +2,78 @@
  {
   "id": 9418011005,
   "districtId": 9418011,
-  "name": "YALIWAK"
+  "districtName": "WONIKI",
+  "name": "YALIWAK",
+  "postalCode": "99568"
  },
  {
   "id": 9418011006,
   "districtId": 9418011,
-  "name": "LUGWI"
+  "districtName": "WONIKI",
+  "name": "LUGWI",
+  "postalCode": "99568"
  },
  {
   "id": 9418011007,
   "districtId": 9418011,
-  "name": "TEROPME"
+  "districtName": "WONIKI",
+  "name": "TEROPME",
+  "postalCode": "99568"
  },
  {
   "id": 9418011015,
   "districtId": 9418011,
-  "name": "JIGONIME"
+  "districtName": "WONIKI",
+  "name": "JIGONIME",
+  "postalCode": ""
  },
  {
   "id": 9418011018,
   "districtId": 9418011,
-  "name": "PAGONA"
+  "districtName": "WONIKI",
+  "name": "PAGONA",
+  "postalCode": "99568"
  },
  {
   "id": 9418011019,
   "districtId": 9418011,
-  "name": "MOME"
+  "districtName": "WONIKI",
+  "name": "MOME",
+  "postalCode": "95763"
  },
  {
   "id": 9418011020,
   "districtId": 9418011,
-  "name": "BOGUM"
+  "districtName": "WONIKI",
+  "name": "BOGUM",
+  "postalCode": ""
  },
  {
   "id": 9418011021,
   "districtId": 9418011,
-  "name": "PINDANGGUN"
+  "districtName": "WONIKI",
+  "name": "PINDANGGUN",
+  "postalCode": "99569"
  },
  {
   "id": 9418011022,
   "districtId": 9418011,
-  "name": "WONABU"
+  "districtName": "WONIKI",
+  "name": "WONABU",
+  "postalCode": "99562"
  },
  {
   "id": 9418011025,
   "districtId": 9418011,
-  "name": "WILILEME"
+  "districtName": "WONIKI",
+  "name": "WILILEME",
+  "postalCode": "99568"
  },
  {
   "id": 9418011027,
   "districtId": 9418011,
-  "name": "YANGGUNI"
+  "districtName": "WONIKI",
+  "name": "YANGGUNI",
+  "postalCode": "99568"
  }
 ]

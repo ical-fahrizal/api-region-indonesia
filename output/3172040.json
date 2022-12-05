@@ -2,26 +2,36 @@
  {
   "id": 3172040001,
   "districtId": 3172040,
-  "name": "PINANG RANTI"
+  "districtName": "MAKASAR",
+  "name": "PINANG RANTI",
+  "postalCode": "13560"
  },
  {
   "id": 3172040002,
   "districtId": 3172040,
-  "name": "MAKASAR"
+  "districtName": "MAKASAR",
+  "name": "MAKASAR",
+  "postalCode": "13570"
  },
  {
   "id": 3172040003,
   "districtId": 3172040,
-  "name": "KEBON PALA"
+  "districtName": "MAKASAR",
+  "name": "KEBON PALA",
+  "postalCode": "13650"
  },
  {
   "id": 3172040004,
   "districtId": 3172040,
-  "name": "HALIM PERDANA KUSUMAH"
+  "districtName": "MAKASAR",
+  "name": "HALIM PERDANA KUSUMAH",
+  "postalCode": "13610"
  },
  {
   "id": 3172040005,
   "districtId": 3172040,
-  "name": "CIPINANG MELAYU"
+  "districtName": "MAKASAR",
+  "name": "CIPINANG MELAYU",
+  "postalCode": "13620"
  }
 ]

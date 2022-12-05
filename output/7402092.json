@@ -2,31 +2,43 @@
  {
   "id": 7402092001,
   "districtId": 7402092,
-  "name": "KOLESE"
+  "districtName": "PASI KOLAGA",
+  "name": "KOLESE",
+  "postalCode": "93758"
  },
  {
   "id": 7402092002,
   "districtId": 7402092,
-  "name": "MATA INDAHA"
+  "districtName": "PASI KOLAGA",
+  "name": "MATA INDAHA",
+  "postalCode": ""
  },
  {
   "id": 7402092003,
   "districtId": 7402092,
-  "name": "LAMBELU"
+  "districtName": "PASI KOLAGA",
+  "name": "LAMBELU",
+  "postalCode": "94976"
  },
  {
   "id": 7402092004,
   "districtId": 7402092,
-  "name": "TAMPUNABALE"
+  "districtName": "PASI KOLAGA",
+  "name": "TAMPUNABALE",
+  "postalCode": "93674"
  },
  {
   "id": 7402092005,
   "districtId": 7402092,
-  "name": "MAATAMPE"
+  "districtName": "PASI KOLAGA",
+  "name": "MAATAMPE",
+  "postalCode": ""
  },
  {
   "id": 7402092006,
   "districtId": 7402092,
-  "name": "LANTOGALALO"
+  "districtName": "PASI KOLAGA",
+  "name": "LANTOGALALO",
+  "postalCode": ""
  }
 ]

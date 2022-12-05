@@ -2,56 +2,78 @@
  {
   "id": 3505220001,
   "districtId": 3505220,
-  "name": "RINGINANOM"
+  "districtName": "UDANAWU",
+  "name": "RINGINANOM",
+  "postalCode": "56254"
  },
  {
   "id": 3505220002,
   "districtId": 3505220,
-  "name": "SUMBERSARI"
+  "districtName": "UDANAWU",
+  "name": "SUMBERSARI",
+  "postalCode": "34122"
  },
  {
   "id": 3505220003,
   "districtId": 3505220,
-  "name": "KARANGGONDANG"
+  "districtName": "UDANAWU",
+  "name": "KARANGGONDANG",
+  "postalCode": "51163"
  },
  {
   "id": 3505220005,
   "districtId": 3505220,
-  "name": "JATI"
+  "districtName": "UDANAWU",
+  "name": "JATI",
+  "postalCode": "20152"
  },
  {
   "id": 3505220006,
   "districtId": 3505220,
-  "name": "TEMENGGUNGAN"
+  "districtName": "UDANAWU",
+  "name": "TEMENGGUNGAN",
+  "postalCode": "68412"
  },
  {
   "id": 3505220007,
   "districtId": 3505220,
-  "name": "BESUKI"
+  "districtName": "UDANAWU",
+  "name": "BESUKI",
+  "postalCode": "53177"
  },
  {
   "id": 3505220008,
   "districtId": 3505220,
-  "name": "BAKUNG"
+  "districtName": "UDANAWU",
+  "name": "BAKUNG",
+  "postalCode": "36382"
  },
  {
   "id": 3505220009,
   "districtId": 3505220,
-  "name": "MANGUNAN"
+  "districtName": "UDANAWU",
+  "name": "MANGUNAN",
+  "postalCode": "59422"
  },
  {
   "id": 3505220010,
   "districtId": 3505220,
-  "name": "SUKOREJO"
+  "districtName": "UDANAWU",
+  "name": "SUKOREJO",
+  "postalCode": "31551"
  },
  {
   "id": 3505220011,
   "districtId": 3505220,
-  "name": "SLEMANAN"
+  "districtName": "UDANAWU",
+  "name": "SLEMANAN",
+  "postalCode": "66154"
  },
  {
   "id": 3505220012,
   "districtId": 3505220,
-  "name": "BENDOREJO"
+  "districtName": "UDANAWU",
+  "name": "BENDOREJO",
+  "postalCode": "66371"
  }
 ]

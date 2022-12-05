@@ -2,51 +2,71 @@
  {
   "id": 1904010001,
   "districtId": 1904010,
-  "name": "NIBUNG"
+  "districtName": "KOBA",
+  "name": "NIBUNG",
+  "postalCode": "34388"
  },
  {
   "id": 1904010006,
   "districtId": 1904010,
-  "name": "KOBA"
+  "districtName": "KOBA",
+  "name": "KOBA",
+  "postalCode": "33681"
  },
  {
   "id": 1904010007,
   "districtId": 1904010,
-  "name": "ARUNG DALAM"
+  "districtName": "KOBA",
+  "name": "ARUNG DALAM",
+  "postalCode": "33681"
  },
  {
   "id": 1904010009,
   "districtId": 1904010,
-  "name": "TERENTANG TIGA"
+  "districtName": "KOBA",
+  "name": "TERENTANG TIGA",
+  "postalCode": ""
  },
  {
   "id": 1904010010,
   "districtId": 1904010,
-  "name": "PENYAK"
+  "districtName": "KOBA",
+  "name": "PENYAK",
+  "postalCode": "33681"
  },
  {
   "id": 1904010011,
   "districtId": 1904010,
-  "name": "KURAU"
+  "districtName": "KOBA",
+  "name": "KURAU",
+  "postalCode": "70853"
  },
  {
   "id": 1904010012,
   "districtId": 1904010,
-  "name": "KURAU BARAT"
+  "districtName": "KOBA",
+  "name": "KURAU BARAT",
+  "postalCode": "33681"
  },
  {
   "id": 1904010013,
   "districtId": 1904010,
-  "name": "SIMPANG PERLANG"
+  "districtName": "KOBA",
+  "name": "SIMPANG PERLANG",
+  "postalCode": "33681"
  },
  {
   "id": 1904010014,
   "districtId": 1904010,
-  "name": "PADANG MULIA"
+  "districtName": "KOBA",
+  "name": "PADANG MULIA",
+  "postalCode": ""
  },
  {
   "id": 1904010015,
   "districtId": 1904010,
-  "name": "BEROK"
+  "districtName": "KOBA",
+  "name": "BEROK",
+  "postalCode": "33681"
  }
 ]

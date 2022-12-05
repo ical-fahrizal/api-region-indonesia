@@ -2,71 +2,99 @@
  {
   "id": 6309100001,
   "districtId": 6309100,
-  "name": "RIBANG"
+  "districtName": "MUARA UYA",
+  "name": "RIBANG",
+  "postalCode": "86116"
  },
  {
   "id": 6309100002,
   "districtId": 6309100,
-  "name": "KUPANG NUNDING"
+  "districtName": "MUARA UYA",
+  "name": "KUPANG NUNDING",
+  "postalCode": "71573"
  },
  {
   "id": 6309100003,
   "districtId": 6309100,
-  "name": "MANGKUPUM"
+  "districtName": "MUARA UYA",
+  "name": "MANGKUPUM",
+  "postalCode": "71573"
  },
  {
   "id": 6309100004,
   "districtId": 6309100,
-  "name": "KAMPUNG BARU"
+  "districtName": "MUARA UYA",
+  "name": "KAMPUNG BARU",
+  "postalCode": "24652"
  },
  {
   "id": 6309100005,
   "districtId": 6309100,
-  "name": "PELAPI"
+  "districtName": "MUARA UYA",
+  "name": "PELAPI",
+  "postalCode": "71573"
  },
  {
   "id": 6309100006,
   "districtId": 6309100,
-  "name": "PASAR BATU"
+  "districtName": "MUARA UYA",
+  "name": "PASAR BATU",
+  "postalCode": "71573"
  },
  {
   "id": 6309100007,
   "districtId": 6309100,
-  "name": "SIMPUNG LAYUNG"
+  "districtName": "MUARA UYA",
+  "name": "SIMPUNG LAYUNG",
+  "postalCode": "71573"
  },
  {
   "id": 6309100008,
   "districtId": 6309100,
-  "name": "UWIE"
+  "districtName": "MUARA UYA",
+  "name": "UWIE",
+  "postalCode": "71573"
  },
  {
   "id": 6309100010,
   "districtId": 6309100,
-  "name": "MUARA UYA"
+  "districtName": "MUARA UYA",
+  "name": "MUARA UYA",
+  "postalCode": "71573"
  },
  {
   "id": 6309100011,
   "districtId": 6309100,
-  "name": "LUMBANG"
+  "districtName": "MUARA UYA",
+  "name": "LUMBANG",
+  "postalCode": "67183"
  },
  {
   "id": 6309100014,
   "districtId": 6309100,
-  "name": "SANTUUN"
+  "districtName": "MUARA UYA",
+  "name": "SANTUUN",
+  "postalCode": "71573"
  },
  {
   "id": 6309100015,
   "districtId": 6309100,
-  "name": "BINJAI"
+  "districtName": "MUARA UYA",
+  "name": "BINJAI",
+  "postalCode": "24473"
  },
  {
   "id": 6309100016,
   "districtId": 6309100,
-  "name": "SALIKUNG"
+  "districtName": "MUARA UYA",
+  "name": "SALIKUNG",
+  "postalCode": "71573"
  },
  {
   "id": 6309100017,
   "districtId": 6309100,
-  "name": "SUNGAI KUMAP"
+  "districtName": "MUARA UYA",
+  "name": "SUNGAI KUMAP",
+  "postalCode": ""
  }
 ]

@@ -2,76 +2,106 @@
  {
   "id": 1805010006,
   "districtId": 1805010,
-  "name": "PURWOSARI"
+  "districtName": "PADANG RATU",
+  "name": "PURWOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 1805010008,
   "districtId": 1805010,
-  "name": "MOJOKERTO"
+  "districtName": "PADANG RATU",
+  "name": "MOJOKERTO",
+  "postalCode": "34175"
  },
  {
   "id": 1805010009,
   "districtId": 1805010,
-  "name": "SENDANG AYU"
+  "districtName": "PADANG RATU",
+  "name": "SENDANG AYU",
+  "postalCode": "34175"
  },
  {
   "id": 1805010010,
   "districtId": 1805010,
-  "name": "SURABAYA"
+  "districtName": "PADANG RATU",
+  "name": "SURABAYA",
+  "postalCode": "32274"
  },
  {
   "id": 1805010011,
   "districtId": 1805010,
-  "name": "BANDARSARI"
+  "districtName": "PADANG RATU",
+  "name": "BANDARSARI",
+  "postalCode": "34175"
  },
  {
   "id": 1805010012,
   "districtId": 1805010,
-  "name": "SRI AGUNG"
+  "districtName": "PADANG RATU",
+  "name": "SRI AGUNG",
+  "postalCode": "36552"
  },
  {
   "id": 1805010013,
   "districtId": 1805010,
-  "name": "KOTA BARU"
+  "districtName": "PADANG RATU",
+  "name": "KOTA BARU",
+  "postalCode": "23125"
  },
  {
   "id": 1805010014,
   "districtId": 1805010,
-  "name": "MARGOREJO"
+  "districtName": "PADANG RATU",
+  "name": "MARGOREJO",
+  "postalCode": "32386"
  },
  {
   "id": 1805010015,
   "districtId": 1805010,
-  "name": "KARANG TANJUNG"
+  "districtName": "PADANG RATU",
+  "name": "KARANG TANJUNG",
+  "postalCode": "34175"
  },
  {
   "id": 1805010028,
   "districtId": 1805010,
-  "name": "KURIPAN"
+  "districtName": "PADANG RATU",
+  "name": "KURIPAN",
+  "postalCode": "32384"
  },
  {
   "id": 1805010029,
   "districtId": 1805010,
-  "name": "HADUYANG RATU"
+  "districtName": "PADANG RATU",
+  "name": "HADUYANG RATU",
+  "postalCode": "34555"
  },
  {
   "id": 1805010030,
   "districtId": 1805010,
-  "name": "PADANG RATU"
+  "districtName": "PADANG RATU",
+  "name": "PADANG RATU",
+  "postalCode": "32274"
  },
  {
   "id": 1805010051,
   "districtId": 1805010,
-  "name": "KARANG SARI"
+  "districtName": "PADANG RATU",
+  "name": "KARANG SARI",
+  "postalCode": "21174"
  },
  {
   "id": 1805010061,
   "districtId": 1805010,
-  "name": "SUMBERSARI"
+  "districtName": "PADANG RATU",
+  "name": "SUMBERSARI",
+  "postalCode": "34122"
  },
  {
   "id": 1805010062,
   "districtId": 1805010,
-  "name": "PURWOREJO"
+  "districtName": "PADANG RATU",
+  "name": "PURWOREJO",
+  "postalCode": "23661"
  }
 ]

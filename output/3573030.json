@@ -2,56 +2,78 @@
  {
   "id": 3573030001,
   "districtId": 3573030,
-  "name": "KASIN"
+  "districtName": "KLOJEN",
+  "name": "KASIN",
+  "postalCode": "65117"
  },
  {
   "id": 3573030002,
   "districtId": 3573030,
-  "name": "SUKOHARJO"
+  "districtName": "KLOJEN",
+  "name": "SUKOHARJO",
+  "postalCode": "32383"
  },
  {
   "id": 3573030003,
   "districtId": 3573030,
-  "name": "KIDUL DALEM"
+  "districtName": "KLOJEN",
+  "name": "KIDUL DALEM",
+  "postalCode": "67153"
  },
  {
   "id": 3573030004,
   "districtId": 3573030,
-  "name": "KAUMAN"
+  "districtName": "KLOJEN",
+  "name": "KAUMAN",
+  "postalCode": "51215"
  },
  {
   "id": 3573030005,
   "districtId": 3573030,
-  "name": "BARENG"
+  "districtName": "KLOJEN",
+  "name": "BARENG",
+  "postalCode": "57414"
  },
  {
   "id": 3573030006,
   "districtId": 3573030,
-  "name": "GADINGKASRI"
+  "districtName": "KLOJEN",
+  "name": "GADINGKASRI",
+  "postalCode": "65115"
  },
  {
   "id": 3573030007,
   "districtId": 3573030,
-  "name": "ORO ORO DOWO"
+  "districtName": "KLOJEN",
+  "name": "ORO ORO DOWO",
+  "postalCode": "65119"
  },
  {
   "id": 3573030008,
   "districtId": 3573030,
-  "name": "KLOJEN"
+  "districtName": "KLOJEN",
+  "name": "KLOJEN",
+  "postalCode": "65111"
  },
  {
   "id": 3573030009,
   "districtId": 3573030,
-  "name": "RAMPAL CELAKET"
+  "districtName": "KLOJEN",
+  "name": "RAMPAL CELAKET",
+  "postalCode": "65111"
  },
  {
   "id": 3573030010,
   "districtId": 3573030,
-  "name": "SAMAAN"
+  "districtName": "KLOJEN",
+  "name": "SAMAAN",
+  "postalCode": "65112"
  },
  {
   "id": 3573030011,
   "districtId": 3573030,
-  "name": "PENANGGUNGAN"
+  "districtName": "KLOJEN",
+  "name": "PENANGGUNGAN",
+  "postalCode": "32278"
  }
 ]

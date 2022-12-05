@@ -2,26 +2,36 @@
  {
   "id": 8172020001,
   "districtId": 8172020,
-  "name": "TAYANDO LANGGIAR"
+  "districtName": "TAYANDO TAM",
+  "name": "TAYANDO LANGGIAR",
+  "postalCode": "97611"
  },
  {
   "id": 8172020002,
   "districtId": 8172020,
-  "name": "TAYANDO OHOIEL"
+  "districtName": "TAYANDO TAM",
+  "name": "TAYANDO OHOIEL",
+  "postalCode": "97611"
  },
  {
   "id": 8172020003,
   "districtId": 8172020,
-  "name": "TAYANDO YAMRU"
+  "districtName": "TAYANDO TAM",
+  "name": "TAYANDO YAMRU",
+  "postalCode": "97611"
  },
  {
   "id": 8172020004,
   "districtId": 8172020,
-  "name": "TAYANDO YAMTEL"
+  "districtName": "TAYANDO TAM",
+  "name": "TAYANDO YAMTEL",
+  "postalCode": "97611"
  },
  {
   "id": 8172020005,
   "districtId": 8172020,
-  "name": "TAM NGURHIR"
+  "districtName": "TAYANDO TAM",
+  "name": "TAM NGURHIR",
+  "postalCode": "97611"
  }
 ]

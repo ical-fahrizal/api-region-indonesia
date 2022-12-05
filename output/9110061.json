@@ -2,26 +2,36 @@
  {
   "id": 9110061001,
   "districtId": 9110061,
-  "name": "KAMBUWIFA"
+  "districtName": "AYAMARU TIMUR SELATAN",
+  "name": "KAMBUWIFA",
+  "postalCode": ""
  },
  {
   "id": 9110061002,
   "districtId": 9110061,
-  "name": "KAMBUSKATO"
+  "districtName": "AYAMARU TIMUR SELATAN",
+  "name": "KAMBUSKATO",
+  "postalCode": "98461"
  },
  {
   "id": 9110061003,
   "districtId": 9110061,
-  "name": "MANO"
+  "districtName": "AYAMARU TIMUR SELATAN",
+  "name": "MANO",
+  "postalCode": "97792"
  },
  {
   "id": 9110061004,
   "districtId": 9110061,
-  "name": "KAMBUSKATO UTARA"
+  "districtName": "AYAMARU TIMUR SELATAN",
+  "name": "KAMBUSKATO UTARA",
+  "postalCode": "98461"
  },
  {
   "id": 9110061005,
   "districtId": 9110061,
-  "name": "ISUSU"
+  "districtName": "AYAMARU TIMUR SELATAN",
+  "name": "ISUSU",
+  "postalCode": "98461"
  }
 ]

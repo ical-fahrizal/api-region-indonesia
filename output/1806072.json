@@ -2,56 +2,78 @@
  {
   "id": 1806072001,
   "districtId": 1806072,
-  "name": "KOTA NAPAL"
+  "districtName": "BUNGA MAYANG",
+  "name": "KOTA NAPAL",
+  "postalCode": "34555"
  },
  {
   "id": 1806072002,
   "districtId": 1806072,
-  "name": "TANAH ABANG"
+  "districtName": "BUNGA MAYANG",
+  "name": "TANAH ABANG",
+  "postalCode": "20585"
  },
  {
   "id": 1806072003,
   "districtId": 1806072,
-  "name": "NEGARA TULANG BAWANG"
+  "districtName": "BUNGA MAYANG",
+  "name": "NEGARA TULANG BAWANG",
+  "postalCode": "34555"
  },
  {
   "id": 1806072004,
   "districtId": 1806072,
-  "name": "TULANG BAWANG BARU"
+  "districtName": "BUNGA MAYANG",
+  "name": "TULANG BAWANG BARU",
+  "postalCode": ""
  },
  {
   "id": 1806072005,
   "districtId": 1806072,
-  "name": "SUKADANA ILIR"
+  "districtName": "BUNGA MAYANG",
+  "name": "SUKADANA ILIR",
+  "postalCode": "34555"
  },
  {
   "id": 1806072006,
   "districtId": 1806072,
-  "name": "SUKADANA UDIK"
+  "districtName": "BUNGA MAYANG",
+  "name": "SUKADANA UDIK",
+  "postalCode": "34555"
  },
  {
   "id": 1806072007,
   "districtId": 1806072,
-  "name": "HADUYANG RATU"
+  "districtName": "BUNGA MAYANG",
+  "name": "HADUYANG RATU",
+  "postalCode": "34555"
  },
  {
   "id": 1806072008,
   "districtId": 1806072,
-  "name": "ISOREJO"
+  "districtName": "BUNGA MAYANG",
+  "name": "ISOREJO",
+  "postalCode": "34555"
  },
  {
   "id": 1806072009,
   "districtId": 1806072,
-  "name": "MULYO REJO II"
+  "districtName": "BUNGA MAYANG",
+  "name": "MULYO REJO II",
+  "postalCode": "34555"
  },
  {
   "id": 1806072010,
   "districtId": 1806072,
-  "name": "MULYO REJO I"
+  "districtName": "BUNGA MAYANG",
+  "name": "MULYO REJO I",
+  "postalCode": "34555"
  },
  {
   "id": 1806072011,
   "districtId": 1806072,
-  "name": "SUKAMAJU"
+  "districtName": "BUNGA MAYANG",
+  "name": "SUKAMAJU",
+  "postalCode": "22465"
  }
 ]

@@ -2,16 +2,22 @@
  {
   "id": 9410071003,
   "districtId": 9410071,
-  "name": "PASIR PUTIH"
+  "districtName": "EKADIDE",
+  "name": "PASIR PUTIH",
+  "postalCode": "24453"
  },
  {
   "id": 9410071004,
   "districtId": 9410071,
-  "name": "AGAPO / WIDIMEIDA"
+  "districtName": "EKADIDE",
+  "name": "AGAPO / WIDIMEIDA",
+  "postalCode": ""
  },
  {
   "id": 9410071005,
   "districtId": 9410071,
-  "name": "GEIDA"
+  "districtName": "EKADIDE",
+  "name": "GEIDA",
+  "postalCode": "98766"
  }
 ]

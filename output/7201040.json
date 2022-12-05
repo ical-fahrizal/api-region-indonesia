@@ -2,56 +2,78 @@
  {
   "id": 7201040009,
   "districtId": 7201040,
-  "name": "MANGGALAI"
+  "districtName": "TINANGKUNG",
+  "name": "MANGGALAI",
+  "postalCode": "94885"
  },
  {
   "id": 7201040010,
   "districtId": 7201040,
-  "name": "AMBELANG"
+  "districtName": "TINANGKUNG",
+  "name": "AMBELANG",
+  "postalCode": "94885"
  },
  {
   "id": 7201040011,
   "districtId": 7201040,
-  "name": "SAIYONG"
+  "districtName": "TINANGKUNG",
+  "name": "SAIYONG",
+  "postalCode": "94885"
  },
  {
   "id": 7201040012,
   "districtId": 7201040,
-  "name": "TOMPUDAU"
+  "districtName": "TINANGKUNG",
+  "name": "TOMPUDAU",
+  "postalCode": "94885"
  },
  {
   "id": 7201040014,
   "districtId": 7201040,
-  "name": "BAKA"
+  "districtName": "TINANGKUNG",
+  "name": "BAKA",
+  "postalCode": "94885"
  },
  {
   "id": 7201040015,
   "districtId": 7201040,
-  "name": "BONGGANAN"
+  "districtName": "TINANGKUNG",
+  "name": "BONGGANAN",
+  "postalCode": "94885"
  },
  {
   "id": 7201040016,
   "districtId": 7201040,
-  "name": "SALAKAN"
+  "districtName": "TINANGKUNG",
+  "name": "SALAKAN",
+  "postalCode": "57372"
  },
  {
   "id": 7201040020,
   "districtId": 7201040,
-  "name": "KAUTU"
+  "districtName": "TINANGKUNG",
+  "name": "KAUTU",
+  "postalCode": "94885"
  },
  {
   "id": 7201040021,
   "districtId": 7201040,
-  "name": "BAKALAN"
+  "districtName": "TINANGKUNG",
+  "name": "BAKALAN",
+  "postalCode": "59158"
  },
  {
   "id": 7201040022,
   "districtId": 7201040,
-  "name": "BULUNGKOBIT"
+  "districtName": "TINANGKUNG",
+  "name": "BULUNGKOBIT",
+  "postalCode": "94885"
  },
  {
   "id": 7201040023,
   "districtId": 7201040,
-  "name": "BUNGIN"
+  "districtName": "TINANGKUNG",
+  "name": "BUNGIN",
+  "postalCode": "39262"
  }
 ]

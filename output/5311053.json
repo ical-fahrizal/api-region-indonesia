@@ -2,46 +2,64 @@
  {
   "id": 5311053001,
   "districtId": 5311053,
-  "name": "PEMO"
+  "districtName": "KELIMUTU",
+  "name": "PEMO",
+  "postalCode": "86318"
  },
  {
   "id": 5311053002,
   "districtId": 5311053,
-  "name": "WOLOARA"
+  "districtName": "KELIMUTU",
+  "name": "WOLOARA",
+  "postalCode": "86318"
  },
  {
   "id": 5311053003,
   "districtId": 5311053,
-  "name": "KOANARA"
+  "districtName": "KELIMUTU",
+  "name": "KOANARA",
+  "postalCode": "86318"
  },
  {
   "id": 5311053004,
   "districtId": 5311053,
-  "name": "NUAMURI"
+  "districtName": "KELIMUTU",
+  "name": "NUAMURI",
+  "postalCode": "86318"
  },
  {
   "id": 5311053005,
   "districtId": 5311053,
-  "name": "NUAMURI BARAT"
+  "districtName": "KELIMUTU",
+  "name": "NUAMURI BARAT",
+  "postalCode": "86318"
  },
  {
   "id": 5311053006,
   "districtId": 5311053,
-  "name": "NDUARIA"
+  "districtName": "KELIMUTU",
+  "name": "NDUARIA",
+  "postalCode": "86318"
  },
  {
   "id": 5311053009,
   "districtId": 5311053,
-  "name": "WATURAKA"
+  "districtName": "KELIMUTU",
+  "name": "WATURAKA",
+  "postalCode": ""
  },
  {
   "id": 5311053010,
   "districtId": 5311053,
-  "name": "DETUENA"
+  "districtName": "KELIMUTU",
+  "name": "DETUENA",
+  "postalCode": ""
  },
  {
   "id": 5311053011,
   "districtId": 5311053,
-  "name": "WOLOKELO"
+  "districtName": "KELIMUTU",
+  "name": "WOLOKELO",
+  "postalCode": ""
  }
 ]

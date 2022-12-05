@@ -2,46 +2,64 @@
  {
   "id": 5107040002,
   "districtId": 5107040,
-  "name": "PERTIMA"
+  "districtName": "KARANGASEM",
+  "name": "PERTIMA",
+  "postalCode": "80811"
  },
  {
   "id": 5107040003,
   "districtId": 5107040,
-  "name": "SUBAGAN"
+  "districtName": "KARANGASEM",
+  "name": "SUBAGAN",
+  "postalCode": "80813"
  },
  {
   "id": 5107040004,
   "districtId": 5107040,
-  "name": "PADANG KERTA"
+  "districtName": "KARANGASEM",
+  "name": "PADANG KERTA",
+  "postalCode": "80811"
  },
  {
   "id": 5107040005,
   "districtId": 5107040,
-  "name": "KARANGASEM"
+  "districtName": "KARANGASEM",
+  "name": "KARANGASEM",
+  "postalCode": "45186"
  },
  {
   "id": 5107040007,
   "districtId": 5107040,
-  "name": "TEGALLINGGAH"
+  "districtName": "KARANGASEM",
+  "name": "TEGALLINGGAH",
+  "postalCode": "80811"
  },
  {
   "id": 5107040008,
   "districtId": 5107040,
-  "name": "BUKIT"
+  "districtName": "KARANGASEM",
+  "name": "BUKIT",
+  "postalCode": "24655"
  },
  {
   "id": 5107040009,
   "districtId": 5107040,
-  "name": "SERAYA BARAT"
+  "districtName": "KARANGASEM",
+  "name": "SERAYA BARAT",
+  "postalCode": "80811"
  },
  {
   "id": 5107040010,
   "districtId": 5107040,
-  "name": "SERAYA"
+  "districtName": "KARANGASEM",
+  "name": "SERAYA",
+  "postalCode": ""
  },
  {
   "id": 5107040011,
   "districtId": 5107040,
-  "name": "SERAYA TIMUR"
+  "districtName": "KARANGASEM",
+  "name": "SERAYA TIMUR",
+  "postalCode": "80811"
  }
 ]

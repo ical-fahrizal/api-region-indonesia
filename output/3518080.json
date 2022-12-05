@@ -2,56 +2,78 @@
  {
   "id": 3518080002,
   "districtId": 3518080,
-  "name": "TANJUNG KALANG"
+  "districtName": "NGRONGGOT",
+  "name": "TANJUNG KALANG",
+  "postalCode": "64395"
  },
  {
   "id": 3518080003,
   "districtId": 3518080,
-  "name": "KELUTAN"
+  "districtName": "NGRONGGOT",
+  "name": "KELUTAN",
+  "postalCode": "64395"
  },
  {
   "id": 3518080004,
   "districtId": 3518080,
-  "name": "CENGKOK"
+  "districtName": "NGRONGGOT",
+  "name": "CENGKOK",
+  "postalCode": "64395"
  },
  {
   "id": 3518080005,
   "districtId": 3518080,
-  "name": "MOJOKENDIL"
+  "districtName": "NGRONGGOT",
+  "name": "MOJOKENDIL",
+  "postalCode": "64395"
  },
  {
   "id": 3518080006,
   "districtId": 3518080,
-  "name": "NGRONGGOT"
+  "districtName": "NGRONGGOT",
+  "name": "NGRONGGOT",
+  "postalCode": "64395"
  },
  {
   "id": 3518080007,
   "districtId": 3518080,
-  "name": "BANJAR SARI"
+  "districtName": "NGRONGGOT",
+  "name": "BANJAR SARI",
+  "postalCode": "31471"
  },
  {
   "id": 3518080008,
   "districtId": 3518080,
-  "name": "DADAPAN"
+  "districtName": "NGRONGGOT",
+  "name": "DADAPAN",
+  "postalCode": "35374"
  },
  {
   "id": 3518080009,
   "districtId": 3518080,
-  "name": "KLURAHAN"
+  "districtName": "NGRONGGOT",
+  "name": "KLURAHAN",
+  "postalCode": "63395"
  },
  {
   "id": 3518080011,
   "districtId": 3518080,
-  "name": "KALORAN"
+  "districtName": "NGRONGGOT",
+  "name": "KALORAN",
+  "postalCode": "57274"
  },
  {
   "id": 3518080012,
   "districtId": 3518080,
-  "name": "KALI ANYAR"
+  "districtName": "NGRONGGOT",
+  "name": "KALI ANYAR",
+  "postalCode": "11310"
  },
  {
   "id": 3518080013,
   "districtId": 3518080,
-  "name": "TRAYANG"
+  "districtName": "NGRONGGOT",
+  "name": "TRAYANG",
+  "postalCode": "64395"
  }
 ]

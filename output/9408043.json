@@ -2,36 +2,50 @@
  {
   "id": 9408043001,
   "districtId": 9408043,
-  "name": "BARAWAI"
+  "districtName": "RAIMBAWI",
+  "name": "BARAWAI",
+  "postalCode": "98252"
  },
  {
   "id": 9408043007,
   "districtId": 9408043,
-  "name": "WAINDU"
+  "districtName": "RAIMBAWI",
+  "name": "WAINDU",
+  "postalCode": "98252"
  },
  {
   "id": 9408043008,
   "districtId": 9408043,
-  "name": "SAWENUI"
+  "districtName": "RAIMBAWI",
+  "name": "SAWENUI",
+  "postalCode": ""
  },
  {
   "id": 9408043009,
   "districtId": 9408043,
-  "name": "KOROROMPUI"
+  "districtName": "RAIMBAWI",
+  "name": "KOROROMPUI",
+  "postalCode": "98252"
  },
  {
   "id": 9408043010,
   "districtId": 9408043,
-  "name": "W O D A"
+  "districtName": "RAIMBAWI",
+  "name": "W O D A",
+  "postalCode": ""
  },
  {
   "id": 9408043011,
   "districtId": 9408043,
-  "name": "AISAU"
+  "districtName": "RAIMBAWI",
+  "name": "AISAU",
+  "postalCode": "98252"
  },
  {
   "id": 9408043012,
   "districtId": 9408043,
-  "name": "SAWENDUI"
+  "districtName": "RAIMBAWI",
+  "name": "SAWENDUI",
+  "postalCode": "98252"
  }
 ]

@@ -2,106 +2,148 @@
  {
   "id": 3522110001,
   "districtId": 3522110,
-  "name": "SARANGAN"
+  "districtName": "KANOR",
+  "name": "SARANGAN",
+  "postalCode": "62193"
  },
  {
   "id": 3522110002,
   "districtId": 3522110,
-  "name": "TEJO"
+  "districtName": "KANOR",
+  "name": "TEJO",
+  "postalCode": "62193"
  },
  {
   "id": 3522110004,
   "districtId": 3522110,
-  "name": "SAMBERAN"
+  "districtName": "KANOR",
+  "name": "SAMBERAN",
+  "postalCode": "62193"
  },
  {
   "id": 3522110005,
   "districtId": 3522110,
-  "name": "NGLARANGAN"
+  "districtName": "KANOR",
+  "name": "NGLARANGAN",
+  "postalCode": "56259"
  },
  {
   "id": 3522110006,
   "districtId": 3522110,
-  "name": "SROYO"
+  "districtName": "KANOR",
+  "name": "SROYO",
+  "postalCode": "57731"
  },
  {
   "id": 3522110007,
   "districtId": 3522110,
-  "name": "BAKUNG"
+  "districtName": "KANOR",
+  "name": "BAKUNG",
+  "postalCode": "36382"
  },
  {
   "id": 3522110008,
   "districtId": 3522110,
-  "name": "PALEMBON"
+  "districtName": "KANOR",
+  "name": "PALEMBON",
+  "postalCode": "62193"
  },
  {
   "id": 3522110009,
   "districtId": 3522110,
-  "name": "SIMBATAN"
+  "districtName": "KANOR",
+  "name": "SIMBATAN",
+  "postalCode": "62193"
  },
  {
   "id": 3522110010,
   "districtId": 3522110,
-  "name": "CANGAKAN"
+  "districtName": "KANOR",
+  "name": "CANGAKAN",
+  "postalCode": "57712"
  },
  {
   "id": 3522110011,
   "districtId": 3522110,
-  "name": "KABALAN"
+  "districtName": "KANOR",
+  "name": "KABALAN",
+  "postalCode": "62193"
  },
  {
   "id": 3522110012,
   "districtId": 3522110,
-  "name": "PIYAK"
+  "districtName": "KANOR",
+  "name": "PIYAK",
+  "postalCode": "62193"
  },
  {
   "id": 3522110013,
   "districtId": 3522110,
-  "name": "CARUBAN"
+  "districtName": "KANOR",
+  "name": "CARUBAN",
+  "postalCode": "54363"
  },
  {
   "id": 3522110016,
   "districtId": 3522110,
-  "name": "SIMOREJO"
+  "districtName": "KANOR",
+  "name": "SIMOREJO",
+  "postalCode": "62193"
  },
  {
   "id": 3522110017,
   "districtId": 3522110,
-  "name": "SUMBERWANGI"
+  "districtName": "KANOR",
+  "name": "SUMBERWANGI",
+  "postalCode": "62193"
  },
  {
   "id": 3522110018,
   "districtId": 3522110,
-  "name": "TAMBAHREJO"
+  "districtName": "KANOR",
+  "name": "TAMBAHREJO",
+  "postalCode": "51254"
  },
  {
   "id": 3522110019,
   "districtId": 3522110,
-  "name": "KANOR"
+  "districtName": "KANOR",
+  "name": "KANOR",
+  "postalCode": "62193"
  },
  {
   "id": 3522110020,
   "districtId": 3522110,
-  "name": "PRIGI"
+  "districtName": "KANOR",
+  "name": "PRIGI",
+  "postalCode": "59583"
  },
  {
   "id": 3522110022,
   "districtId": 3522110,
-  "name": "KEDUNGPRIMPEN"
+  "districtName": "KANOR",
+  "name": "KEDUNGPRIMPEN",
+  "postalCode": "62193"
  },
  {
   "id": 3522110023,
   "districtId": 3522110,
-  "name": "GEDONGARUM"
+  "districtName": "KANOR",
+  "name": "GEDONGARUM",
+  "postalCode": "62193"
  },
  {
   "id": 3522110024,
   "districtId": 3522110,
-  "name": "PILANG"
+  "districtName": "KANOR",
+  "name": "PILANG",
+  "postalCode": "57282"
  },
  {
   "id": 3522110025,
   "districtId": 3522110,
-  "name": "SEMAMBUNG"
+  "districtName": "KANOR",
+  "name": "SEMAMBUNG",
+  "postalCode": "61254"
  }
 ]

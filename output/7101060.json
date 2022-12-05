@@ -2,71 +2,99 @@
  {
   "id": 7101060001,
   "districtId": 7101060,
-  "name": "MOPUSI"
+  "districtName": "LOLAYAN",
+  "name": "MOPUSI",
+  "postalCode": "95771"
  },
  {
   "id": 7101060002,
   "districtId": 7101060,
-  "name": "MATALI BARU"
+  "districtName": "LOLAYAN",
+  "name": "MATALI BARU",
+  "postalCode": "95771"
  },
  {
   "id": 7101060003,
   "districtId": 7101060,
-  "name": "BAKAN"
+  "districtName": "LOLAYAN",
+  "name": "BAKAN",
+  "postalCode": "83554"
  },
  {
   "id": 7101060004,
   "districtId": 7101060,
-  "name": "TANOYAN SELATAN"
+  "districtName": "LOLAYAN",
+  "name": "TANOYAN SELATAN",
+  "postalCode": "95771"
  },
  {
   "id": 7101060005,
   "districtId": 7101060,
-  "name": "TANOYAN UTARA"
+  "districtName": "LOLAYAN",
+  "name": "TANOYAN UTARA",
+  "postalCode": "95771"
  },
  {
   "id": 7101060006,
   "districtId": 7101060,
-  "name": "LOLAYAN"
+  "districtName": "LOLAYAN",
+  "name": "LOLAYAN",
+  "postalCode": "95771"
  },
  {
   "id": 7101060007,
   "districtId": 7101060,
-  "name": "TUNGOI II"
+  "districtName": "LOLAYAN",
+  "name": "TUNGOI II",
+  "postalCode": "95771"
  },
  {
   "id": 7101060008,
   "districtId": 7101060,
-  "name": "TUNGOI I"
+  "districtName": "LOLAYAN",
+  "name": "TUNGOI I",
+  "postalCode": "95771"
  },
  {
   "id": 7101060009,
   "districtId": 7101060,
-  "name": "TAPA AOG"
+  "districtName": "LOLAYAN",
+  "name": "TAPA AOG",
+  "postalCode": "95771"
  },
  {
   "id": 7101060010,
   "districtId": 7101060,
-  "name": "ABAK"
+  "districtName": "LOLAYAN",
+  "name": "ABAK",
+  "postalCode": "95771"
  },
  {
   "id": 7101060011,
   "districtId": 7101060,
-  "name": "BOMBANON"
+  "districtName": "LOLAYAN",
+  "name": "BOMBANON",
+  "postalCode": "95771"
  },
  {
   "id": 7101060012,
   "districtId": 7101060,
-  "name": "MOPAIT"
+  "districtName": "LOLAYAN",
+  "name": "MOPAIT",
+  "postalCode": "95771"
  },
  {
   "id": 7101060013,
   "districtId": 7101060,
-  "name": "KOPANDAKAN II"
+  "districtName": "LOLAYAN",
+  "name": "KOPANDAKAN II",
+  "postalCode": "95771"
  },
  {
   "id": 7101060014,
   "districtId": 7101060,
-  "name": "MENGKANG"
+  "districtName": "LOLAYAN",
+  "name": "MENGKANG",
+  "postalCode": "95771"
  }
 ]

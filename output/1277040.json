@@ -2,81 +2,113 @@
  {
   "id": 1277040001,
   "districtId": 1277040,
-  "name": "WEK IV"
+  "districtName": "PADANGSIDIMPUAN UTARA",
+  "name": "WEK IV",
+  "postalCode": "22719"
  },
  {
   "id": 1277040002,
   "districtId": 1277040,
-  "name": "WEK III"
+  "districtName": "PADANGSIDIMPUAN UTARA",
+  "name": "WEK III",
+  "postalCode": "22719"
  },
  {
   "id": 1277040003,
   "districtId": 1277040,
-  "name": "WEK II"
+  "districtName": "PADANGSIDIMPUAN UTARA",
+  "name": "WEK II",
+  "postalCode": "22718"
  },
  {
   "id": 1277040004,
   "districtId": 1277040,
-  "name": "WEK I"
+  "districtName": "PADANGSIDIMPUAN UTARA",
+  "name": "WEK I",
+  "postalCode": "22715"
  },
  {
   "id": 1277040005,
   "districtId": 1277040,
-  "name": "BATANG AYUMI JULU"
+  "districtName": "PADANGSIDIMPUAN UTARA",
+  "name": "BATANG AYUMI JULU",
+  "postalCode": "22711"
  },
  {
   "id": 1277040006,
   "districtId": 1277040,
-  "name": "BATANG AYUMI JAE"
+  "districtName": "PADANGSIDIMPUAN UTARA",
+  "name": "BATANG AYUMI JAE",
+  "postalCode": "22716"
  },
  {
   "id": 1277040007,
   "districtId": 1277040,
-  "name": "TOBAT"
+  "districtName": "PADANGSIDIMPUAN UTARA",
+  "name": "TOBAT",
+  "postalCode": "22716"
  },
  {
   "id": 1277040008,
   "districtId": 1277040,
-  "name": "TANO BATO"
+  "districtName": "PADANGSIDIMPUAN UTARA",
+  "name": "TANO BATO",
+  "postalCode": "22763"
  },
  {
   "id": 1277040009,
   "districtId": 1277040,
-  "name": "BONAN DOLOK"
+  "districtName": "PADANGSIDIMPUAN UTARA",
+  "name": "BONAN DOLOK",
+  "postalCode": "22762"
  },
  {
   "id": 1277040010,
   "districtId": 1277040,
-  "name": "SADABUAN"
+  "districtName": "PADANGSIDIMPUAN UTARA",
+  "name": "SADABUAN",
+  "postalCode": "22715"
  },
  {
   "id": 1277040011,
   "districtId": 1277040,
-  "name": "PANYANGGAR"
+  "districtName": "PADANGSIDIMPUAN UTARA",
+  "name": "PANYANGGAR",
+  "postalCode": "22714"
  },
  {
   "id": 1277040012,
   "districtId": 1277040,
-  "name": "LOSUNG BATU"
+  "districtName": "PADANGSIDIMPUAN UTARA",
+  "name": "LOSUNG BATU",
+  "postalCode": "22753"
  },
  {
   "id": 1277040013,
   "districtId": 1277040,
-  "name": "KANTIN"
+  "districtName": "PADANGSIDIMPUAN UTARA",
+  "name": "KANTIN",
+  "postalCode": "22711"
  },
  {
   "id": 1277040014,
   "districtId": 1277040,
-  "name": "BINCAR"
+  "districtName": "PADANGSIDIMPUAN UTARA",
+  "name": "BINCAR",
+  "postalCode": "22711"
  },
  {
   "id": 1277040015,
   "districtId": 1277040,
-  "name": "TIMBANGAN"
+  "districtName": "PADANGSIDIMPUAN UTARA",
+  "name": "TIMBANGAN",
+  "postalCode": "22711"
  },
  {
   "id": 1277040016,
   "districtId": 1277040,
-  "name": "KAYU OMBUN"
+  "districtName": "PADANGSIDIMPUAN UTARA",
+  "name": "KAYU OMBUN",
+  "postalCode": "22711"
  }
 ]

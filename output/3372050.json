@@ -2,61 +2,85 @@
  {
   "id": 3372050001,
   "districtId": 3372050,
-  "name": "MANGKUBUMEN"
+  "districtName": "BANJARSARI",
+  "name": "MANGKUBUMEN",
+  "postalCode": "57139"
  },
  {
   "id": 3372050002,
   "districtId": 3372050,
-  "name": "TIMURAN"
+  "districtName": "BANJARSARI",
+  "name": "TIMURAN",
+  "postalCode": "57131"
  },
  {
   "id": 3372050003,
   "districtId": 3372050,
-  "name": "KEPRABON"
+  "districtName": "BANJARSARI",
+  "name": "KEPRABON",
+  "postalCode": "57131"
  },
  {
   "id": 3372050004,
   "districtId": 3372050,
-  "name": "KETELAN"
+  "districtName": "BANJARSARI",
+  "name": "KETELAN",
+  "postalCode": "57132"
  },
  {
   "id": 3372050005,
   "districtId": 3372050,
-  "name": "PUNGGAWAN"
+  "districtName": "BANJARSARI",
+  "name": "PUNGGAWAN",
+  "postalCode": "57132"
  },
  {
   "id": 3372050006,
   "districtId": 3372050,
-  "name": "KESTALAN"
+  "districtName": "BANJARSARI",
+  "name": "KESTALAN",
+  "postalCode": "57133"
  },
  {
   "id": 3372050007,
   "districtId": 3372050,
-  "name": "SETABELAN"
+  "districtName": "BANJARSARI",
+  "name": "SETABELAN",
+  "postalCode": "57139"
  },
  {
   "id": 3372050008,
   "districtId": 3372050,
-  "name": "GILINGAN"
+  "districtName": "BANJARSARI",
+  "name": "GILINGAN",
+  "postalCode": "57134"
  },
  {
   "id": 3372050009,
   "districtId": 3372050,
-  "name": "MANAHAN"
+  "districtName": "BANJARSARI",
+  "name": "MANAHAN",
+  "postalCode": "57139"
  },
  {
   "id": 3372050011,
   "districtId": 3372050,
-  "name": "NUSUKAN"
+  "districtName": "BANJARSARI",
+  "name": "NUSUKAN",
+  "postalCode": "57135"
  },
  {
   "id": 3372050012,
   "districtId": 3372050,
-  "name": "KADIPIRO"
+  "districtName": "BANJARSARI",
+  "name": "KADIPIRO",
+  "postalCode": "57136"
  },
  {
   "id": 3372050013,
   "districtId": 3372050,
-  "name": "BANYUANYAR"
+  "districtName": "BANJARSARI",
+  "name": "BANYUANYAR",
+  "postalCode": "57352"
  }
 ]

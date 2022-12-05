@@ -2,36 +2,50 @@
  {
   "id": 7326100001,
   "districtId": 7326100,
-  "name": "KELURAHAN BUNTU BARANA"
+  "districtName": "TIKALA",
+  "name": "KELURAHAN BUNTU BARANA",
+  "postalCode": ""
  },
  {
   "id": 7326100002,
   "districtId": 7326100,
-  "name": "KELURAHAN TIKALA"
+  "districtName": "TIKALA",
+  "name": "KELURAHAN TIKALA",
+  "postalCode": ""
  },
  {
   "id": 7326100003,
   "districtId": 7326100,
-  "name": "LEMBANG SEREALE"
+  "districtName": "TIKALA",
+  "name": "LEMBANG SEREALE",
+  "postalCode": ""
  },
  {
   "id": 7326100004,
   "districtId": 7326100,
-  "name": "LEMBANG BUNTU BATU"
+  "districtName": "TIKALA",
+  "name": "LEMBANG BUNTU BATU",
+  "postalCode": ""
  },
  {
   "id": 7326100005,
   "districtId": 7326100,
-  "name": "LEMBANG EMBATAU"
+  "districtName": "TIKALA",
+  "name": "LEMBANG EMBATAU",
+  "postalCode": ""
  },
  {
   "id": 7326100006,
   "districtId": 7326100,
-  "name": "LEMBANG BENTENG KA'DO TO'RIA"
+  "districtName": "TIKALA",
+  "name": "LEMBANG BENTENG KA'DO TO'RIA",
+  "postalCode": ""
  },
  {
   "id": 7326100007,
   "districtId": 7326100,
-  "name": "LEMBANG PANGDEN"
+  "districtName": "TIKALA",
+  "name": "LEMBANG PANGDEN",
+  "postalCode": ""
  }
 ]

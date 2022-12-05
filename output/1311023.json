@@ -2,21 +2,29 @@
  {
   "id": 1311023001,
   "districtId": 1311023,
-  "name": "BATU RIJAL"
+  "districtName": "PADANG LAWEH",
+  "name": "BATU RIJAL",
+  "postalCode": "27681"
  },
  {
   "id": 1311023002,
   "districtId": 1311023,
-  "name": "MUARO SOPAN"
+  "districtName": "PADANG LAWEH",
+  "name": "MUARO SOPAN",
+  "postalCode": "27681"
  },
  {
   "id": 1311023003,
   "districtId": 1311023,
-  "name": "PADANG LAWEH"
+  "districtName": "PADANG LAWEH",
+  "name": "PADANG LAWEH",
+  "postalCode": "27562"
  },
  {
   "id": 1311023004,
   "districtId": 1311023,
-  "name": "SOPAN JAYA"
+  "districtName": "PADANG LAWEH",
+  "name": "SOPAN JAYA",
+  "postalCode": "27681"
  }
 ]

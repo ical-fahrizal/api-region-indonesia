@@ -2,86 +2,120 @@
  {
   "id": 1709050001,
   "districtId": 1709050,
-  "name": "PEKIK NYARING"
+  "districtName": "PONDOK KELAPA",
+  "name": "PEKIK NYARING",
+  "postalCode": "38371"
  },
  {
   "id": 1709050002,
   "districtId": 1709050,
-  "name": "SRIKUNCORO"
+  "districtName": "PONDOK KELAPA",
+  "name": "SRIKUNCORO",
+  "postalCode": ""
  },
  {
   "id": 1709050010,
   "districtId": 1709050,
-  "name": "PANCA MUKTI"
+  "districtName": "PONDOK KELAPA",
+  "name": "PANCA MUKTI",
+  "postalCode": "28992"
  },
  {
   "id": 1709050011,
   "districtId": 1709050,
-  "name": "SRIKATON"
+  "districtName": "PONDOK KELAPA",
+  "name": "SRIKATON",
+  "postalCode": "30975"
  },
  {
   "id": 1709050012,
   "districtId": 1709050,
-  "name": "PASAR PEDATI"
+  "districtName": "PONDOK KELAPA",
+  "name": "PASAR PEDATI",
+  "postalCode": "38371"
  },
  {
   "id": 1709050013,
   "districtId": 1709050,
-  "name": "TALANG PAUH"
+  "districtName": "PONDOK KELAPA",
+  "name": "TALANG PAUH",
+  "postalCode": "38371"
  },
  {
   "id": 1709050014,
   "districtId": 1709050,
-  "name": "SIDODADI"
+  "districtName": "PONDOK KELAPA",
+  "name": "SIDODADI",
+  "postalCode": "24582"
  },
  {
   "id": 1709050015,
   "districtId": 1709050,
-  "name": "TALANG BUSENG"
+  "districtName": "PONDOK KELAPA",
+  "name": "TALANG BUSENG",
+  "postalCode": ""
  },
  {
   "id": 1709050017,
   "districtId": 1709050,
-  "name": "KEMBANG AYUN"
+  "districtName": "PONDOK KELAPA",
+  "name": "KEMBANG AYUN",
+  "postalCode": "31581"
  },
  {
   "id": 1709050018,
   "districtId": 1709050,
-  "name": "PAGARDEWA"
+  "districtName": "PONDOK KELAPA",
+  "name": "PAGARDEWA",
+  "postalCode": ""
  },
  {
   "id": 1709050019,
   "districtId": 1709050,
-  "name": "SIDOREJO"
+  "districtName": "PONDOK KELAPA",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 1709050020,
   "districtId": 1709050,
-  "name": "SUNDA KELAPA"
+  "districtName": "PONDOK KELAPA",
+  "name": "SUNDA KELAPA",
+  "postalCode": "38371"
  },
  {
   "id": 1709050021,
   "districtId": 1709050,
-  "name": "PONDOK KELAPA"
+  "districtName": "PONDOK KELAPA",
+  "name": "PONDOK KELAPA",
+  "postalCode": "24415"
  },
  {
   "id": 1709050022,
   "districtId": 1709050,
-  "name": "PADANG BETUAH"
+  "districtName": "PONDOK KELAPA",
+  "name": "PADANG BETUAH",
+  "postalCode": "38371"
  },
  {
   "id": 1709050023,
   "districtId": 1709050,
-  "name": "BINTANG SELATAN"
+  "districtName": "PONDOK KELAPA",
+  "name": "BINTANG SELATAN",
+  "postalCode": "38371"
  },
  {
   "id": 1709050024,
   "districtId": 1709050,
-  "name": "ABU SAKIM"
+  "districtName": "PONDOK KELAPA",
+  "name": "ABU SAKIM",
+  "postalCode": "38371"
  },
  {
   "id": 1709050025,
   "districtId": 1709050,
-  "name": "HARAPAN"
+  "districtName": "PONDOK KELAPA",
+  "name": "HARAPAN",
+  "postalCode": "22253"
  }
 ]

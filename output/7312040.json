@@ -2,56 +2,78 @@
  {
   "id": 7312040001,
   "districtId": 7312040,
-  "name": "PAJALESANG"
+  "districtName": "LILI RILAU",
+  "name": "PAJALESANG",
+  "postalCode": "90871"
  },
  {
   "id": 7312040002,
   "districtId": 7312040,
-  "name": "CABENGE"
+  "districtName": "LILI RILAU",
+  "name": "CABENGE",
+  "postalCode": "90871"
  },
  {
   "id": 7312040003,
   "districtId": 7312040,
-  "name": "PAROTO"
+  "districtName": "LILI RILAU",
+  "name": "PAROTO",
+  "postalCode": "90871"
  },
  {
   "id": 7312040004,
   "districtId": 7312040,
-  "name": "PALANGISENG"
+  "districtName": "LILI RILAU",
+  "name": "PALANGISENG",
+  "postalCode": "90871"
  },
  {
   "id": 7312040005,
   "districtId": 7312040,
-  "name": "TETEWATU"
+  "districtName": "LILI RILAU",
+  "name": "TETEWATU",
+  "postalCode": "90871"
  },
  {
   "id": 7312040006,
   "districtId": 7312040,
-  "name": "ABBANUANGE"
+  "districtName": "LILI RILAU",
+  "name": "ABBANUANGE",
+  "postalCode": "90871"
  },
  {
   "id": 7312040007,
   "districtId": 7312040,
-  "name": "PARENRING"
+  "districtName": "LILI RILAU",
+  "name": "PARENRING",
+  "postalCode": "90871"
  },
  {
   "id": 7312040009,
   "districtId": 7312040,
-  "name": "MASING"
+  "districtName": "LILI RILAU",
+  "name": "MASING",
+  "postalCode": "90871"
  },
  {
   "id": 7312040010,
   "districtId": 7312040,
-  "name": "BARINGENG"
+  "districtName": "LILI RILAU",
+  "name": "BARINGENG",
+  "postalCode": "92766"
  },
  {
   "id": 7312040011,
   "districtId": 7312040,
-  "name": "KEBO"
+  "districtName": "LILI RILAU",
+  "name": "KEBO",
+  "postalCode": "90871"
  },
  {
   "id": 7312040012,
   "districtId": 7312040,
-  "name": "MACANRE"
+  "districtName": "LILI RILAU",
+  "name": "MACANRE",
+  "postalCode": "90871"
  }
 ]

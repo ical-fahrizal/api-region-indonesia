@@ -2,21 +2,29 @@
  {
   "id": 3601180003,
   "districtId": 3601180,
-  "name": "KADOMAS"
+  "districtName": "PANDEGLANG",
+  "name": "KADOMAS",
+  "postalCode": "42218"
  },
  {
   "id": 3601180004,
   "districtId": 3601180,
-  "name": "BABAKAN KALANGANYAR"
+  "districtName": "PANDEGLANG",
+  "name": "BABAKAN KALANGANYAR",
+  "postalCode": ""
  },
  {
   "id": 3601180005,
   "districtId": 3601180,
-  "name": "KABAYAN"
+  "districtName": "PANDEGLANG",
+  "name": "KABAYAN",
+  "postalCode": "42212"
  },
  {
   "id": 3601180006,
   "districtId": 3601180,
-  "name": "PANDEGLANG"
+  "districtName": "PANDEGLANG",
+  "name": "PANDEGLANG",
+  "postalCode": "42211"
  }
 ]

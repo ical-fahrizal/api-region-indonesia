@@ -2,71 +2,99 @@
  {
   "id": 3602010004,
   "districtId": 3602010,
-  "name": "SUKAMANAH"
+  "districtName": "MALINGPING",
+  "name": "SUKAMANAH",
+  "postalCode": "43273"
  },
  {
   "id": 3602010005,
   "districtId": 3602010,
-  "name": "MALINGPING SELATAN"
+  "districtName": "MALINGPING",
+  "name": "MALINGPING SELATAN",
+  "postalCode": "42391"
  },
  {
   "id": 3602010006,
   "districtId": 3602010,
-  "name": "CILANGKAHAN"
+  "districtName": "MALINGPING",
+  "name": "CILANGKAHAN",
+  "postalCode": "42391"
  },
  {
   "id": 3602010007,
   "districtId": 3602010,
-  "name": "PAGELARAN"
+  "districtName": "MALINGPING",
+  "name": "PAGELARAN",
+  "postalCode": "35376"
  },
  {
   "id": 3602010008,
   "districtId": 3602010,
-  "name": "KERSARATU"
+  "districtName": "MALINGPING",
+  "name": "KERSARATU",
+  "postalCode": "46365"
  },
  {
   "id": 3602010009,
   "districtId": 3602010,
-  "name": "SUKARAJA"
+  "districtName": "MALINGPING",
+  "name": "SUKARAJA",
+  "postalCode": "21256"
  },
  {
   "id": 3602010010,
   "districtId": 3602010,
-  "name": "KADUJAJAR"
+  "districtName": "MALINGPING",
+  "name": "KADUJAJAR",
+  "postalCode": "42391"
  },
  {
   "id": 3602010011,
   "districtId": 3602010,
-  "name": "MALINGPING UTARA"
+  "districtName": "MALINGPING",
+  "name": "MALINGPING UTARA",
+  "postalCode": "42391"
  },
  {
   "id": 3602010012,
   "districtId": 3602010,
-  "name": "RAHONG"
+  "districtName": "MALINGPING",
+  "name": "RAHONG",
+  "postalCode": "43285"
  },
  {
   "id": 3602010013,
   "districtId": 3602010,
-  "name": "SANGHIANG"
+  "districtName": "MALINGPING",
+  "name": "SANGHIANG",
+  "postalCode": "42391"
  },
  {
   "id": 3602010014,
   "districtId": 3602010,
-  "name": "BOLANG"
+  "districtName": "MALINGPING",
+  "name": "BOLANG",
+  "postalCode": "41357"
  },
  {
   "id": 3602010023,
   "districtId": 3602010,
-  "name": "SUMBER WARAS"
+  "districtName": "MALINGPING",
+  "name": "SUMBER WARAS",
+  "postalCode": "42391"
  },
  {
   "id": 3602010024,
   "districtId": 3602010,
-  "name": "CIPEUNDEUY"
+  "districtName": "MALINGPING",
+  "name": "CIPEUNDEUY",
+  "postalCode": "45464"
  },
  {
   "id": 3602010025,
   "districtId": 3602010,
-  "name": "SENANGHATI"
+  "districtName": "MALINGPING",
+  "name": "SENANGHATI",
+  "postalCode": "42391"
  }
 ]

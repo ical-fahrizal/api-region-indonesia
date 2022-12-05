@@ -2,46 +2,64 @@
  {
   "id": 6306080001,
   "districtId": 6306080,
-  "name": "BALIMAU"
+  "districtName": "KALUMPANG",
+  "name": "BALIMAU",
+  "postalCode": "70655"
  },
  {
   "id": 6306080002,
   "districtId": 6306080,
-  "name": "KARANG PACI"
+  "districtName": "KALUMPANG",
+  "name": "KARANG PACI",
+  "postalCode": "71262"
  },
  {
   "id": 6306080003,
   "districtId": 6306080,
-  "name": "BAGO TANGGUL"
+  "districtName": "KALUMPANG",
+  "name": "BAGO TANGGUL",
+  "postalCode": "71262"
  },
  {
   "id": 6306080004,
   "districtId": 6306080,
-  "name": "KARANG BULAN"
+  "districtName": "KALUMPANG",
+  "name": "KARANG BULAN",
+  "postalCode": "71262"
  },
  {
   "id": 6306080005,
   "districtId": 6306080,
-  "name": "BALANTI"
+  "districtName": "KALUMPANG",
+  "name": "BALANTI",
+  "postalCode": "71262"
  },
  {
   "id": 6306080006,
   "districtId": 6306080,
-  "name": "KALUMPANG"
+  "districtName": "KALUMPANG",
+  "name": "KALUMPANG",
+  "postalCode": "42168"
  },
  {
   "id": 6306080008,
   "districtId": 6306080,
-  "name": "TAMBINGKAR"
+  "districtName": "KALUMPANG",
+  "name": "TAMBINGKAR",
+  "postalCode": "71262"
  },
  {
   "id": 6306080009,
   "districtId": 6306080,
-  "name": "SIRIH"
+  "districtName": "KALUMPANG",
+  "name": "SIRIH",
+  "postalCode": "71262"
  },
  {
   "id": 6306080010,
   "districtId": 6306080,
-  "name": "SIRIH HULU"
+  "districtName": "KALUMPANG",
+  "name": "SIRIH HULU",
+  "postalCode": "71262"
  }
 ]

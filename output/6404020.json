@@ -2,46 +2,64 @@
  {
   "id": 6404020002,
   "districtId": 6404020,
-  "name": "DIAQ LAY"
+  "districtName": "MUARA WAHAU",
+  "name": "DIAQ LAY",
+  "postalCode": "75655"
  },
  {
   "id": 6404020003,
   "districtId": 6404020,
-  "name": "DABEQ"
+  "districtName": "MUARA WAHAU",
+  "name": "DABEQ",
+  "postalCode": "75655"
  },
  {
   "id": 6404020004,
   "districtId": 6404020,
-  "name": "JAK LUAY"
+  "districtName": "MUARA WAHAU",
+  "name": "JAK LUAY",
+  "postalCode": "75655"
  },
  {
   "id": 6404020005,
   "districtId": 6404020,
-  "name": "MUARA WAHAU"
+  "districtName": "MUARA WAHAU",
+  "name": "MUARA WAHAU",
+  "postalCode": "75655"
  },
  {
   "id": 6404020006,
   "districtId": 6404020,
-  "name": "NEHESLIAH BING"
+  "districtName": "MUARA WAHAU",
+  "name": "NEHESLIAH BING",
+  "postalCode": "75655"
  },
  {
   "id": 6404020007,
   "districtId": 6404020,
-  "name": "KARYA BAKTI"
+  "districtName": "MUARA WAHAU",
+  "name": "KARYA BAKTI",
+  "postalCode": "23893"
  },
  {
   "id": 6404020008,
   "districtId": 6404020,
-  "name": "WAHAU BARU"
+  "districtName": "MUARA WAHAU",
+  "name": "WAHAU BARU",
+  "postalCode": "75655"
  },
  {
   "id": 6404020009,
   "districtId": 6404020,
-  "name": "WANA SARI"
+  "districtName": "MUARA WAHAU",
+  "name": "WANA SARI",
+  "postalCode": "75655"
  },
  {
   "id": 6404020010,
   "districtId": 6404020,
-  "name": "LONG WEHEA"
+  "districtName": "MUARA WAHAU",
+  "name": "LONG WEHEA",
+  "postalCode": "75655"
  }
 ]

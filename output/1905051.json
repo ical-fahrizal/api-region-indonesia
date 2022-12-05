@@ -2,11 +2,15 @@
  {
   "id": 1905051001,
   "districtId": 1905051,
-  "name": "CELAGEN"
+  "districtName": "KEPULAUAN PONGOK",
+  "name": "CELAGEN",
+  "postalCode": "33791"
  },
  {
   "id": 1905051002,
   "districtId": 1905051,
-  "name": "PONGOK"
+  "districtName": "KEPULAUAN PONGOK",
+  "name": "PONGOK",
+  "postalCode": "33791"
  }
 ]

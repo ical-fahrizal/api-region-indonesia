@@ -2,61 +2,85 @@
  {
   "id": 1607050001,
   "districtId": 1607050,
-  "name": "AIR BATU"
+  "districtName": "TALANG KELAPA",
+  "name": "AIR BATU",
+  "postalCode": "37361"
  },
  {
   "id": 1607050002,
   "districtId": 1607050,
-  "name": "SUKAMORO"
+  "districtName": "TALANG KELAPA",
+  "name": "SUKAMORO",
+  "postalCode": "30961"
  },
  {
   "id": 1607050003,
   "districtId": 1607050,
-  "name": "SUKAJADI"
+  "districtName": "TALANG KELAPA",
+  "name": "SUKAJADI",
+  "postalCode": "24472"
  },
  {
   "id": 1607050004,
   "districtId": 1607050,
-  "name": "PANGKALAN BENTENG"
+  "districtName": "TALANG KELAPA",
+  "name": "PANGKALAN BENTENG",
+  "postalCode": "30961"
  },
  {
   "id": 1607050005,
   "districtId": 1607050,
-  "name": "GASING"
+  "districtName": "TALANG KELAPA",
+  "name": "GASING",
+  "postalCode": "30961"
  },
  {
   "id": 1607050006,
   "districtId": 1607050,
-  "name": "KENTEN"
+  "districtName": "TALANG KELAPA",
+  "name": "KENTEN",
+  "postalCode": "30961"
  },
  {
   "id": 1607050009,
   "districtId": 1607050,
-  "name": "SUNGAI RENGIT"
+  "districtName": "TALANG KELAPA",
+  "name": "SUNGAI RENGIT",
+  "postalCode": "30961"
  },
  {
   "id": 1607050019,
   "districtId": 1607050,
-  "name": "TALANG BULUH"
+  "districtName": "TALANG KELAPA",
+  "name": "TALANG BULUH",
+  "postalCode": "30755"
  },
  {
   "id": 1607050020,
   "districtId": 1607050,
-  "name": "TANAH MAS"
+  "districtName": "TALANG KELAPA",
+  "name": "TANAH MAS",
+  "postalCode": "30961"
  },
  {
   "id": 1607050021,
   "districtId": 1607050,
-  "name": "KENTEN LAUT"
+  "districtName": "TALANG KELAPA",
+  "name": "KENTEN LAUT",
+  "postalCode": "30961"
  },
  {
   "id": 1607050022,
   "districtId": 1607050,
-  "name": "TALANG KERAMAT"
+  "districtName": "TALANG KELAPA",
+  "name": "TALANG KERAMAT",
+  "postalCode": "30961"
  },
  {
   "id": 1607050023,
   "districtId": 1607050,
-  "name": "SUNGAI RENGIT MURNI"
+  "districtName": "TALANG KELAPA",
+  "name": "SUNGAI RENGIT MURNI",
+  "postalCode": ""
  }
 ]

@@ -2,26 +2,36 @@
  {
   "id": 1407022001,
   "districtId": 1407022,
-  "name": "UJUNG BATU"
+  "districtName": "UJUNG BATU",
+  "name": "UJUNG BATU",
+  "postalCode": "23761"
  },
  {
   "id": 1407022002,
   "districtId": 1407022,
-  "name": "UJUNG BATU TIMUR"
+  "districtName": "UJUNG BATU",
+  "name": "UJUNG BATU TIMUR",
+  "postalCode": "28554"
  },
  {
   "id": 1407022003,
   "districtId": 1407022,
-  "name": "NGASO"
+  "districtName": "UJUNG BATU",
+  "name": "NGASO",
+  "postalCode": "28554"
  },
  {
   "id": 1407022004,
   "districtId": 1407022,
-  "name": "SUKA DAMAI"
+  "districtName": "UJUNG BATU",
+  "name": "SUKA DAMAI",
+  "postalCode": "24472"
  },
  {
   "id": 1407022005,
   "districtId": 1407022,
-  "name": "PEMATANG TEBIH"
+  "districtName": "UJUNG BATU",
+  "name": "PEMATANG TEBIH",
+  "postalCode": "28554"
  }
 ]

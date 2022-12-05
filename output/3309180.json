@@ -2,86 +2,120 @@
  {
   "id": 3309180001,
   "districtId": 3309180,
-  "name": "NGABLAK"
+  "districtName": "WONOSEGORO",
+  "name": "NGABLAK",
+  "postalCode": "59157"
  },
  {
   "id": 3309180002,
   "districtId": 3309180,
-  "name": "KARANGJATI"
+  "districtName": "WONOSEGORO",
+  "name": "KARANGJATI",
+  "postalCode": "50552"
  },
  {
   "id": 3309180003,
   "districtId": 3309180,
-  "name": "KETOYAN"
+  "districtName": "WONOSEGORO",
+  "name": "KETOYAN",
+  "postalCode": "57382"
  },
  {
   "id": 3309180004,
   "districtId": 3309180,
-  "name": "BOLO"
+  "districtName": "WONOSEGORO",
+  "name": "BOLO",
+  "postalCode": "59517"
  },
  {
   "id": 3309180005,
   "districtId": 3309180,
-  "name": "WONOSEGORO"
+  "districtName": "WONOSEGORO",
+  "name": "WONOSEGORO",
+  "postalCode": "51254"
  },
  {
   "id": 3309180006,
   "districtId": 3309180,
-  "name": "BANDUNG"
+  "districtName": "WONOSEGORO",
+  "name": "BANDUNG",
+  "postalCode": "54317"
  },
  {
   "id": 3309180007,
   "districtId": 3309180,
-  "name": "KEDUNGPILANG"
+  "districtName": "WONOSEGORO",
+  "name": "KEDUNGPILANG",
+  "postalCode": "57382"
  },
  {
   "id": 3309180008,
   "districtId": 3309180,
-  "name": "KALINANAS"
+  "districtName": "WONOSEGORO",
+  "name": "KALINANAS",
+  "postalCode": "58257"
  },
  {
   "id": 3309180009,
   "districtId": 3309180,
-  "name": "GILIREJO"
+  "districtName": "WONOSEGORO",
+  "name": "GILIREJO",
+  "postalCode": "57276"
  },
  {
   "id": 3309180010,
   "districtId": 3309180,
-  "name": "JATILAWANG"
+  "districtName": "WONOSEGORO",
+  "name": "JATILAWANG",
+  "postalCode": "52181"
  },
  {
   "id": 3309180011,
   "districtId": 3309180,
-  "name": "GARANGAN"
+  "districtName": "WONOSEGORO",
+  "name": "GARANGAN",
+  "postalCode": "57382"
  },
  {
   "id": 3309180012,
   "districtId": 3309180,
-  "name": "GOSONO"
+  "districtName": "WONOSEGORO",
+  "name": "GOSONO",
+  "postalCode": "57382"
  },
  {
   "id": 3309180013,
   "districtId": 3309180,
-  "name": "BANYUSRI"
+  "districtName": "WONOSEGORO",
+  "name": "BANYUSRI",
+  "postalCode": "57382"
  },
  {
   "id": 3309180014,
   "districtId": 3309180,
-  "name": "BOJONG"
+  "districtName": "WONOSEGORO",
+  "name": "BOJONG",
+  "postalCode": "34385"
  },
  {
   "id": 3309180015,
   "districtId": 3309180,
-  "name": "BERCAK"
+  "districtName": "WONOSEGORO",
+  "name": "BERCAK",
+  "postalCode": "57382"
  },
  {
   "id": 3309180017,
   "districtId": 3309180,
-  "name": "GUNUNGSARI"
+  "districtName": "WONOSEGORO",
+  "name": "GUNUNGSARI",
+  "postalCode": "35368"
  },
  {
   "id": 3309180018,
   "districtId": 3309180,
-  "name": "REPAKING"
+  "districtName": "WONOSEGORO",
+  "name": "REPAKING",
+  "postalCode": "57382"
  }
 ]

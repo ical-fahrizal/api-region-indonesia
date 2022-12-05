@@ -2,51 +2,71 @@
  {
   "id": 9418121001,
   "districtId": 9418121,
-  "name": "GEMBILOME"
+  "districtName": "YUNERI",
+  "name": "GEMBILOME",
+  "postalCode": ""
  },
  {
   "id": 9418121002,
   "districtId": 9418121,
-  "name": "YIDO"
+  "districtName": "YUNERI",
+  "name": "YIDO",
+  "postalCode": "99562"
  },
  {
   "id": 9418121003,
   "districtId": 9418121,
-  "name": "OMIMBUR"
+  "districtName": "YUNERI",
+  "name": "OMIMBUR",
+  "postalCode": ""
  },
  {
   "id": 9418121004,
   "districtId": 9418121,
-  "name": "MOPI / YUNIKI"
+  "districtName": "YUNERI",
+  "name": "MOPI / YUNIKI",
+  "postalCode": ""
  },
  {
   "id": 9418121005,
   "districtId": 9418121,
-  "name": "WENOME"
+  "districtName": "YUNERI",
+  "name": "WENOME",
+  "postalCode": "99562"
  },
  {
   "id": 9418121006,
   "districtId": 9418121,
-  "name": "WONABUNGGAME"
+  "districtName": "YUNERI",
+  "name": "WONABUNGGAME",
+  "postalCode": "99562"
  },
  {
   "id": 9418121007,
   "districtId": 9418121,
-  "name": "TENABAGA"
+  "districtName": "YUNERI",
+  "name": "TENABAGA",
+  "postalCode": "99562"
  },
  {
   "id": 9418121009,
   "districtId": 9418121,
-  "name": "KANGGILO"
+  "districtName": "YUNERI",
+  "name": "KANGGILO",
+  "postalCode": "99562"
  },
  {
   "id": 9418121010,
   "districtId": 9418121,
-  "name": "YUDIMBA"
+  "districtName": "YUNERI",
+  "name": "YUDIMBA",
+  "postalCode": "99562"
  },
  {
   "id": 9418121011,
   "districtId": 9418121,
-  "name": "UMAR"
+  "districtName": "YUNERI",
+  "name": "UMAR",
+  "postalCode": "99569"
  }
 ]

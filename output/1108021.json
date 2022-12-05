@@ -2,31 +2,43 @@
  {
   "id": 1108021001,
   "districtId": 1108021,
-  "name": "LAYEUN"
+  "districtName": "LEUPUNG",
+  "name": "LAYEUN",
+  "postalCode": "23353"
  },
  {
   "id": 1108021002,
   "districtId": 1108021,
-  "name": "PULOT"
+  "districtName": "LEUPUNG",
+  "name": "PULOT",
+  "postalCode": "23353"
  },
  {
   "id": 1108021003,
   "districtId": 1108021,
-  "name": "LAMSEUNIA"
+  "districtName": "LEUPUNG",
+  "name": "LAMSEUNIA",
+  "postalCode": ""
  },
  {
   "id": 1108021004,
   "districtId": 1108021,
-  "name": "MEUNASAH MESJID"
+  "districtName": "LEUPUNG",
+  "name": "MEUNASAH MESJID",
+  "postalCode": "24182"
  },
  {
   "id": 1108021005,
   "districtId": 1108021,
-  "name": "MEUNASAH BAK U"
+  "districtName": "LEUPUNG",
+  "name": "MEUNASAH BAK U",
+  "postalCode": ""
  },
  {
   "id": 1108021006,
   "districtId": 1108021,
-  "name": "DAYAH MAMPLAM"
+  "districtName": "LEUPUNG",
+  "name": "DAYAH MAMPLAM",
+  "postalCode": ""
  }
 ]

@@ -2,96 +2,134 @@
  {
   "id": 1807030001,
   "districtId": 1807030,
-  "name": "SINAR GADING"
+  "districtName": "KASUI",
+  "name": "SINAR GADING",
+  "postalCode": "37354"
  },
  {
   "id": 1807030002,
   "districtId": 1807030,
-  "name": "SUKAJADI"
+  "districtName": "KASUI",
+  "name": "SUKAJADI",
+  "postalCode": "24472"
  },
  {
   "id": 1807030003,
   "districtId": 1807030,
-  "name": "KARANG LANTANG"
+  "districtName": "KASUI",
+  "name": "KARANG LANTANG",
+  "postalCode": "32155"
  },
  {
   "id": 1807030004,
   "districtId": 1807030,
-  "name": "KEDATON"
+  "districtName": "KASUI",
+  "name": "KEDATON",
+  "postalCode": "31591"
  },
  {
   "id": 1807030005,
   "districtId": 1807030,
-  "name": "DATAR BANCONG"
+  "districtName": "KASUI",
+  "name": "DATAR BANCONG",
+  "postalCode": "34765"
  },
  {
   "id": 1807030006,
   "districtId": 1807030,
-  "name": "KASUI PASAR"
+  "districtName": "KASUI",
+  "name": "KASUI PASAR",
+  "postalCode": "34765"
  },
  {
   "id": 1807030007,
   "districtId": 1807030,
-  "name": "KASUI LAMA"
+  "districtName": "KASUI",
+  "name": "KASUI LAMA",
+  "postalCode": "34765"
  },
  {
   "id": 1807030008,
   "districtId": 1807030,
-  "name": "TALANG MANGGA"
+  "districtName": "KASUI",
+  "name": "TALANG MANGGA",
+  "postalCode": "34765"
  },
  {
   "id": 1807030009,
   "districtId": 1807030,
-  "name": "JAYA TINGGI"
+  "districtName": "KASUI",
+  "name": "JAYA TINGGI",
+  "postalCode": "34765"
  },
  {
   "id": 1807030010,
   "districtId": 1807030,
-  "name": "GELOMBANG PANJANG"
+  "districtName": "KASUI",
+  "name": "GELOMBANG PANJANG",
+  "postalCode": "34765"
  },
  {
   "id": 1807030011,
   "districtId": 1807030,
-  "name": "KAMPUNG BARU"
+  "districtName": "KASUI",
+  "name": "KAMPUNG BARU",
+  "postalCode": "24652"
  },
  {
   "id": 1807030012,
   "districtId": 1807030,
-  "name": "TANGKAS"
+  "districtName": "KASUI",
+  "name": "TANGKAS",
+  "postalCode": "34765"
  },
  {
   "id": 1807030013,
   "districtId": 1807030,
-  "name": "JUKUH KEMUNING"
+  "districtName": "KASUI",
+  "name": "JUKUH KEMUNING",
+  "postalCode": "34765"
  },
  {
   "id": 1807030015,
   "districtId": 1807030,
-  "name": "KOTA WAY"
+  "districtName": "KASUI",
+  "name": "KOTA WAY",
+  "postalCode": "32265"
  },
  {
   "id": 1807030016,
   "districtId": 1807030,
-  "name": "TANJUNG BULAN"
+  "districtName": "KASUI",
+  "name": "TANJUNG BULAN",
+  "postalCode": "32361"
  },
  {
   "id": 1807030017,
   "districtId": 1807030,
-  "name": "TANJUNG HARAPAN"
+  "districtName": "KASUI",
+  "name": "TANJUNG HARAPAN",
+  "postalCode": "23754"
  },
  {
   "id": 1807030018,
   "districtId": 1807030,
-  "name": "TANJUNG KURUNG"
+  "districtName": "KASUI",
+  "name": "TANJUNG KURUNG",
+  "postalCode": "31315"
  },
  {
   "id": 1807030019,
   "districtId": 1807030,
-  "name": "TANJUNG KURUNG LAMA"
+  "districtName": "KASUI",
+  "name": "TANJUNG KURUNG LAMA",
+  "postalCode": "34765"
  },
  {
   "id": 1807030020,
   "districtId": 1807030,
-  "name": "BUKIT BATU"
+  "districtName": "KASUI",
+  "name": "BUKIT BATU",
+  "postalCode": "28761"
  }
 ]

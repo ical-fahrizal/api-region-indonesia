@@ -2,26 +2,36 @@
  {
   "id": 7406042001,
   "districtId": 7406042,
-  "name": "KOLOMBI MATA USU"
+  "districtName": "MATA USU",
+  "name": "KOLOMBI MATA USU",
+  "postalCode": ""
  },
  {
   "id": 7406042002,
   "districtId": 7406042,
-  "name": "MORENGKE"
+  "districtName": "MATA USU",
+  "name": "MORENGKE",
+  "postalCode": "93774"
  },
  {
   "id": 7406042003,
   "districtId": 7406042,
-  "name": "TOTOLE"
+  "districtName": "MATA USU",
+  "name": "TOTOLE",
+  "postalCode": "93774"
  },
  {
   "id": 7406042004,
   "districtId": 7406042,
-  "name": "WIA-WIA"
+  "districtName": "MATA USU",
+  "name": "WIA-WIA",
+  "postalCode": "93774"
  },
  {
   "id": 7406042005,
   "districtId": 7406042,
-  "name": "LAMURU"
+  "districtName": "MATA USU",
+  "name": "LAMURU",
+  "postalCode": "92752"
  }
 ]

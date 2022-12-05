@@ -2,56 +2,78 @@
  {
   "id": 6306070009,
   "districtId": 6306070,
-  "name": "WASAH HULU"
+  "districtName": "SIMPUR",
+  "name": "WASAH HULU",
+  "postalCode": "71261"
  },
  {
   "id": 6306070010,
   "districtId": 6306070,
-  "name": "WASAH TENGAH"
+  "districtName": "SIMPUR",
+  "name": "WASAH TENGAH",
+  "postalCode": "71261"
  },
  {
   "id": 6306070011,
   "districtId": 6306070,
-  "name": "WASAH HILIR"
+  "districtName": "SIMPUR",
+  "name": "WASAH HILIR",
+  "postalCode": "71261"
  },
  {
   "id": 6306070012,
   "districtId": 6306070,
-  "name": "SIMPUR"
+  "districtName": "SIMPUR",
+  "name": "SIMPUR",
+  "postalCode": "24582"
  },
  {
   "id": 6306070014,
   "districtId": 6306070,
-  "name": "TEBING TINGGI"
+  "districtName": "SIMPUR",
+  "name": "TEBING TINGGI",
+  "postalCode": "24477"
  },
  {
   "id": 6306070015,
   "districtId": 6306070,
-  "name": "GARUNGGANG"
+  "districtName": "SIMPUR",
+  "name": "GARUNGGANG",
+  "postalCode": "20772"
  },
  {
   "id": 6306070018,
   "districtId": 6306070,
-  "name": "AMPARAYA"
+  "districtName": "SIMPUR",
+  "name": "AMPARAYA",
+  "postalCode": "71261"
  },
  {
   "id": 6306070019,
   "districtId": 6306070,
-  "name": "PANJAMPANG BAHAGIA"
+  "districtName": "SIMPUR",
+  "name": "PANJAMPANG BAHAGIA",
+  "postalCode": "71261"
  },
  {
   "id": 6306070021,
   "districtId": 6306070,
-  "name": "ULIN"
+  "districtName": "SIMPUR",
+  "name": "ULIN",
+  "postalCode": "71261"
  },
  {
   "id": 6306070022,
   "districtId": 6306070,
-  "name": "PANTAI ULIN"
+  "districtName": "SIMPUR",
+  "name": "PANTAI ULIN",
+  "postalCode": "71261"
  },
  {
   "id": 6306070025,
   "districtId": 6306070,
-  "name": "KAPUH"
+  "districtName": "SIMPUR",
+  "name": "KAPUH",
+  "postalCode": "25654"
  }
 ]

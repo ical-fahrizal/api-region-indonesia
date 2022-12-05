@@ -2,51 +2,71 @@
  {
   "id": 3521140001,
   "districtId": 3521140,
-  "name": "BANJARBANGGI"
+  "districtName": "PITU",
+  "name": "BANJARBANGGI",
+  "postalCode": "63252"
  },
  {
   "id": 3521140002,
   "districtId": 3521140,
-  "name": "BANGUNREJO LOR"
+  "districtName": "PITU",
+  "name": "BANGUNREJO LOR",
+  "postalCode": "63252"
  },
  {
   "id": 3521140003,
   "districtId": 3521140,
-  "name": "KARANGGENENG"
+  "districtName": "PITU",
+  "name": "KARANGGENENG",
+  "postalCode": "57312"
  },
  {
   "id": 3521140004,
   "districtId": 3521140,
-  "name": "PAPUNGAN"
+  "districtName": "PITU",
+  "name": "PAPUNGAN",
+  "postalCode": "66171"
  },
  {
   "id": 3521140005,
   "districtId": 3521140,
-  "name": "CANTEL"
+  "districtName": "PITU",
+  "name": "CANTEL",
+  "postalCode": "63252"
  },
  {
   "id": 3521140006,
   "districtId": 3521140,
-  "name": "NGANCAR"
+  "districtName": "PITU",
+  "name": "NGANCAR",
+  "postalCode": "57675"
  },
  {
   "id": 3521140007,
   "districtId": 3521140,
-  "name": "KALANG"
+  "districtName": "PITU",
+  "name": "KALANG",
+  "postalCode": "22213"
  },
  {
   "id": 3521140008,
   "districtId": 3521140,
-  "name": "PITU"
+  "districtName": "PITU",
+  "name": "PITU",
+  "postalCode": "63252"
  },
  {
   "id": 3521140009,
   "districtId": 3521140,
-  "name": "DUMPLENGAN"
+  "districtName": "PITU",
+  "name": "DUMPLENGAN",
+  "postalCode": "63252"
  },
  {
   "id": 3521140010,
   "districtId": 3521140,
-  "name": "SELOPURO"
+  "districtName": "PITU",
+  "name": "SELOPURO",
+  "postalCode": "57674"
  }
 ]

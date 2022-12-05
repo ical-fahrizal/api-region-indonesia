@@ -2,116 +2,162 @@
  {
   "id": 1105120001,
   "districtId": 1105120,
-  "name": "BEURANDANG"
+  "districtName": "RANTO PEUREULAK",
+  "name": "BEURANDANG",
+  "postalCode": "24456"
  },
  {
   "id": 1105120002,
   "districtId": 1105120,
-  "name": "ALUE GEUNTENG"
+  "districtName": "RANTO PEUREULAK",
+  "name": "ALUE GEUNTENG",
+  "postalCode": "24453"
  },
  {
   "id": 1105120003,
   "districtId": 1105120,
-  "name": "KLIET"
+  "districtName": "RANTO PEUREULAK",
+  "name": "KLIET",
+  "postalCode": "24453"
  },
  {
   "id": 1105120004,
   "districtId": 1105120,
-  "name": "GAMPONG TAMPAK"
+  "districtName": "RANTO PEUREULAK",
+  "name": "GAMPONG TAMPAK",
+  "postalCode": ""
  },
  {
   "id": 1105120005,
   "districtId": 1105120,
-  "name": "PAYA PALAS"
+  "districtName": "RANTO PEUREULAK",
+  "name": "PAYA PALAS",
+  "postalCode": "24453"
  },
  {
   "id": 1105120006,
   "districtId": 1105120,
-  "name": "ALUE BATEE"
+  "districtName": "RANTO PEUREULAK",
+  "name": "ALUE BATEE",
+  "postalCode": "23652"
  },
  {
   "id": 1105120007,
   "districtId": 1105120,
-  "name": "BHOM LAMA"
+  "districtName": "RANTO PEUREULAK",
+  "name": "BHOM LAMA",
+  "postalCode": "24453"
  },
  {
   "id": 1105120008,
   "districtId": 1105120,
-  "name": "PASIR PUTIH"
+  "districtName": "RANTO PEUREULAK",
+  "name": "PASIR PUTIH",
+  "postalCode": "24453"
  },
  {
   "id": 1105120009,
   "districtId": 1105120,
-  "name": "ALUE DUA"
+  "districtName": "RANTO PEUREULAK",
+  "name": "ALUE DUA",
+  "postalCode": "24394"
  },
  {
   "id": 1105120010,
   "districtId": 1105120,
-  "name": "BUKET PALA BSP"
+  "districtName": "RANTO PEUREULAK",
+  "name": "BUKET PALA BSP",
+  "postalCode": "24453"
  },
  {
   "id": 1105120011,
   "districtId": 1105120,
-  "name": "PUNTI PAYONG"
+  "districtName": "RANTO PEUREULAK",
+  "name": "PUNTI PAYONG",
+  "postalCode": "24453"
  },
  {
   "id": 1105120012,
   "districtId": 1105120,
-  "name": "SEUMALY"
+  "districtName": "RANTO PEUREULAK",
+  "name": "SEUMALY",
+  "postalCode": ""
  },
  {
   "id": 1105120013,
   "districtId": 1105120,
-  "name": "KP. PERTAMINA"
+  "districtName": "RANTO PEUREULAK",
+  "name": "KP. PERTAMINA",
+  "postalCode": ""
  },
  {
   "id": 1105120014,
   "districtId": 1105120,
-  "name": "BLANG BAROM"
+  "districtName": "RANTO PEUREULAK",
+  "name": "BLANG BAROM",
+  "postalCode": "24453"
  },
  {
   "id": 1105120015,
   "districtId": 1105120,
-  "name": "PULO BLANG"
+  "districtName": "RANTO PEUREULAK",
+  "name": "PULO BLANG",
+  "postalCode": "24455"
  },
  {
   "id": 1105120016,
   "districtId": 1105120,
-  "name": "SNB JOHAN"
+  "districtName": "RANTO PEUREULAK",
+  "name": "SNB JOHAN",
+  "postalCode": ""
  },
  {
   "id": 1105120017,
   "districtId": 1105120,
-  "name": "PAYA UNOU"
+  "districtName": "RANTO PEUREULAK",
+  "name": "PAYA UNOU",
+  "postalCode": "24453"
  },
  {
   "id": 1105120018,
   "districtId": 1105120,
-  "name": "SNB BARO"
+  "districtName": "RANTO PEUREULAK",
+  "name": "SNB BARO",
+  "postalCode": ""
  },
  {
   "id": 1105120019,
   "districtId": 1105120,
-  "name": "SNB DALAM"
+  "districtName": "RANTO PEUREULAK",
+  "name": "SNB DALAM",
+  "postalCode": ""
  },
  {
   "id": 1105120020,
   "districtId": 1105120,
-  "name": "SEULEMAK MUDA"
+  "districtName": "RANTO PEUREULAK",
+  "name": "SEULEMAK MUDA",
+  "postalCode": "24453"
  },
  {
   "id": 1105120021,
   "districtId": 1105120,
-  "name": "MATA IE"
+  "districtName": "RANTO PEUREULAK",
+  "name": "MATA IE",
+  "postalCode": "23764"
  },
  {
   "id": 1105120022,
   "districtId": 1105120,
-  "name": "ALUE UDEP"
+  "districtName": "RANTO PEUREULAK",
+  "name": "ALUE UDEP",
+  "postalCode": "24453"
  },
  {
   "id": 1105120023,
   "districtId": 1105120,
-  "name": "SEUMANAH JAYA"
+  "districtName": "RANTO PEUREULAK",
+  "name": "SEUMANAH JAYA",
+  "postalCode": ""
  }
 ]

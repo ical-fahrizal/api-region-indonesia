@@ -2,71 +2,99 @@
  {
   "id": 1410030005,
   "districtId": 1410030,
-  "name": "REPAN"
+  "districtName": "RANGSANG",
+  "name": "REPAN",
+  "postalCode": "28755"
  },
  {
   "id": 1410030006,
   "districtId": 1410030,
-  "name": "PENYAGUN"
+  "districtName": "RANGSANG",
+  "name": "PENYAGUN",
+  "postalCode": "28755"
  },
  {
   "id": 1410030007,
   "districtId": 1410030,
-  "name": "GEMALA SARI"
+  "districtName": "RANGSANG",
+  "name": "GEMALA SARI",
+  "postalCode": "28755"
  },
  {
   "id": 1410030008,
   "districtId": 1410030,
-  "name": "SUNGAI GAYUNG KIRI"
+  "districtName": "RANGSANG",
+  "name": "SUNGAI GAYUNG KIRI",
+  "postalCode": "28755"
  },
  {
   "id": 1410030009,
   "districtId": 1410030,
-  "name": "TANJUNG MEDANG"
+  "districtName": "RANGSANG",
+  "name": "TANJUNG MEDANG",
+  "postalCode": "29565"
  },
  {
   "id": 1410030010,
   "districtId": 1410030,
-  "name": "TELUK SAMAK"
+  "districtName": "RANGSANG",
+  "name": "TELUK SAMAK",
+  "postalCode": "28755"
  },
  {
   "id": 1410030011,
   "districtId": 1410030,
-  "name": "TANJUNG SAMAK"
+  "districtName": "RANGSANG",
+  "name": "TANJUNG SAMAK",
+  "postalCode": "28755"
  },
  {
   "id": 1410030012,
   "districtId": 1410030,
-  "name": "TANJUNG BAKAU"
+  "districtName": "RANGSANG",
+  "name": "TANJUNG BAKAU",
+  "postalCode": "28755"
  },
  {
   "id": 1410030013,
   "districtId": 1410030,
-  "name": "TOPANG"
+  "districtName": "RANGSANG",
+  "name": "TOPANG",
+  "postalCode": "28755"
  },
  {
   "id": 1410030014,
   "districtId": 1410030,
-  "name": "CITRA DAMAI"
+  "districtName": "RANGSANG",
+  "name": "CITRA DAMAI",
+  "postalCode": "28755"
  },
  {
   "id": 1410030016,
   "districtId": 1410030,
-  "name": "DWI TUNGGAL"
+  "districtName": "RANGSANG",
+  "name": "DWI TUNGGAL",
+  "postalCode": "28755"
  },
  {
   "id": 1410030017,
   "districtId": 1410030,
-  "name": "WONOSARI"
+  "districtName": "RANGSANG",
+  "name": "WONOSARI",
+  "postalCode": "24582"
  },
  {
   "id": 1410030018,
   "districtId": 1410030,
-  "name": "TEBUN"
+  "districtName": "RANGSANG",
+  "name": "TEBUN",
+  "postalCode": "28755"
  },
  {
   "id": 1410030020,
   "districtId": 1410030,
-  "name": "TANJUNG GEMUK"
+  "districtName": "RANGSANG",
+  "name": "TANJUNG GEMUK",
+  "postalCode": "28755"
  }
 ]

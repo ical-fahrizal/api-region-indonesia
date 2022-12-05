@@ -2,96 +2,134 @@
  {
   "id": 7202031001,
   "districtId": 7202031,
-  "name": "BANGKETA"
+  "districtName": "NUHON",
+  "name": "BANGKETA",
+  "postalCode": "94753"
  },
  {
   "id": 7202031002,
   "districtId": 7202031,
-  "name": "TOBELOMBANG"
+  "districtName": "NUHON",
+  "name": "TOBELOMBANG",
+  "postalCode": "94753"
  },
  {
   "id": 7202031003,
   "districtId": 7202031,
-  "name": "BALAANG"
+  "districtName": "NUHON",
+  "name": "BALAANG",
+  "postalCode": "94753"
  },
  {
   "id": 7202031004,
   "districtId": 7202031,
-  "name": "DAMAI MAKMUR"
+  "districtName": "NUHON",
+  "name": "DAMAI MAKMUR",
+  "postalCode": "94753"
  },
  {
   "id": 7202031005,
   "districtId": 7202031,
-  "name": "SUMBER AGUNG"
+  "districtName": "NUHON",
+  "name": "SUMBER AGUNG",
+  "postalCode": "37353"
  },
  {
   "id": 7202031006,
   "districtId": 7202031,
-  "name": "JAYA MAKMUR"
+  "districtName": "NUHON",
+  "name": "JAYA MAKMUR",
+  "postalCode": "34682"
  },
  {
   "id": 7202031007,
   "districtId": 7202031,
-  "name": "MANTAN B"
+  "districtName": "NUHON",
+  "name": "MANTAN B",
+  "postalCode": "94753"
  },
  {
   "id": 7202031008,
   "districtId": 7202031,
-  "name": "TOMEANG"
+  "districtName": "NUHON",
+  "name": "TOMEANG",
+  "postalCode": ""
  },
  {
   "id": 7202031009,
   "districtId": 7202031,
-  "name": "PIBOMBO"
+  "districtName": "NUHON",
+  "name": "PIBOMBO",
+  "postalCode": ""
  },
  {
   "id": 7202031010,
   "districtId": 7202031,
-  "name": "PAKOWA BUNTA"
+  "districtName": "NUHON",
+  "name": "PAKOWA BUNTA",
+  "postalCode": ""
  },
  {
   "id": 7202031011,
   "districtId": 7202031,
-  "name": "PETAK"
+  "districtName": "NUHON",
+  "name": "PETAK",
+  "postalCode": "64461"
  },
  {
   "id": 7202031012,
   "districtId": 7202031,
-  "name": "BOLOBUNGKANG"
+  "districtName": "NUHON",
+  "name": "BOLOBUNGKANG",
+  "postalCode": "94752"
  },
  {
   "id": 7202031013,
   "districtId": 7202031,
-  "name": "SAITI"
+  "districtName": "NUHON",
+  "name": "SAITI",
+  "postalCode": "94753"
  },
  {
   "id": 7202031014,
   "districtId": 7202031,
-  "name": "BINOHU"
+  "districtName": "NUHON",
+  "name": "BINOHU",
+  "postalCode": "94753"
  },
  {
   "id": 7202031015,
   "districtId": 7202031,
-  "name": "BELLA"
+  "districtName": "NUHON",
+  "name": "BELLA",
+  "postalCode": "94753"
  },
  {
   "id": 7202031016,
   "districtId": 7202031,
-  "name": "BATU HITAM"
+  "districtName": "NUHON",
+  "name": "BATU HITAM",
+  "postalCode": "94753"
  },
  {
   "id": 7202031017,
   "districtId": 7202031,
-  "name": "KABUA BUA"
+  "districtName": "NUHON",
+  "name": "KABUA BUA",
+  "postalCode": ""
  },
  {
   "id": 7202031018,
   "districtId": 7202031,
-  "name": "PULODALAGAN"
+  "districtName": "NUHON",
+  "name": "PULODALAGAN",
+  "postalCode": ""
  },
  {
   "id": 7202031019,
   "districtId": 7202031,
-  "name": "OBOK BALINGARA"
+  "districtName": "NUHON",
+  "name": "OBOK BALINGARA",
+  "postalCode": "94753"
  }
 ]

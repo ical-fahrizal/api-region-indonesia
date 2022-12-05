@@ -2,61 +2,85 @@
  {
   "id": 3315010001,
   "districtId": 3315010,
-  "name": "PRIGI"
+  "districtName": "KEDUNGJATI",
+  "name": "PRIGI",
+  "postalCode": "59583"
  },
  {
   "id": 3315010002,
   "districtId": 3315010,
-  "name": "NGOMBAK"
+  "districtName": "KEDUNGJATI",
+  "name": "NGOMBAK",
+  "postalCode": "58167"
  },
  {
   "id": 3315010003,
   "districtId": 3315010,
-  "name": "KENTENGSARI"
+  "districtName": "KEDUNGJATI",
+  "name": "KENTENGSARI",
+  "postalCode": "56257"
  },
  {
   "id": 3315010004,
   "districtId": 3315010,
-  "name": "KARANGLANGU"
+  "districtName": "KEDUNGJATI",
+  "name": "KARANGLANGU",
+  "postalCode": "58167"
  },
  {
   "id": 3315010005,
   "districtId": 3315010,
-  "name": "PANIMBO"
+  "districtName": "KEDUNGJATI",
+  "name": "PANIMBO",
+  "postalCode": "58167"
  },
  {
   "id": 3315010006,
   "districtId": 3315010,
-  "name": "PADAS"
+  "districtName": "KEDUNGJATI",
+  "name": "PADAS",
+  "postalCode": "57475"
  },
  {
   "id": 3315010007,
   "districtId": 3315010,
-  "name": "DERAS"
+  "districtName": "KEDUNGJATI",
+  "name": "DERAS",
+  "postalCode": "58167"
  },
  {
   "id": 3315010008,
   "districtId": 3315010,
-  "name": "KLITIKAN"
+  "districtName": "KEDUNGJATI",
+  "name": "KLITIKAN",
+  "postalCode": "58167"
  },
  {
   "id": 3315010009,
   "districtId": 3315010,
-  "name": "KEDUNGJATI"
+  "districtName": "KEDUNGJATI",
+  "name": "KEDUNGJATI",
+  "postalCode": "53382"
  },
  {
   "id": 3315010010,
   "districtId": 3315010,
-  "name": "KALIMARO"
+  "districtName": "KEDUNGJATI",
+  "name": "KALIMARO",
+  "postalCode": "45191"
  },
  {
   "id": 3315010011,
   "districtId": 3315010,
-  "name": "JUMO"
+  "districtName": "KEDUNGJATI",
+  "name": "JUMO",
+  "postalCode": "56256"
  },
  {
   "id": 3315010012,
   "districtId": 3315010,
-  "name": "WATES"
+  "districtName": "KEDUNGJATI",
+  "name": "WATES",
+  "postalCode": "32273"
  }
 ]

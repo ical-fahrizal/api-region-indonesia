@@ -2,36 +2,50 @@
  {
   "id": 8104021014,
   "districtId": 8104021,
-  "name": "WAENETAT"
+  "districtName": "WAEAPO",
+  "name": "WAENETAT",
+  "postalCode": "97574"
  },
  {
   "id": 8104021017,
   "districtId": 8104021,
-  "name": "WAEKASAR"
+  "districtName": "WAEAPO",
+  "name": "WAEKASAR",
+  "postalCode": "97574"
  },
  {
   "id": 8104021018,
   "districtId": 8104021,
-  "name": "WAEKERTA"
+  "districtName": "WAEAPO",
+  "name": "WAEKERTA",
+  "postalCode": "97574"
  },
  {
   "id": 8104021019,
   "districtId": 8104021,
-  "name": "SAVANAJAYA"
+  "districtName": "WAEAPO",
+  "name": "SAVANAJAYA",
+  "postalCode": ""
  },
  {
   "id": 8104021020,
   "districtId": 8104021,
-  "name": "WAETELE"
+  "districtName": "WAEAPO",
+  "name": "WAETELE",
+  "postalCode": "97574"
  },
  {
   "id": 8104021024,
   "districtId": 8104021,
-  "name": "WANAREJA"
+  "districtName": "WAEAPO",
+  "name": "WANAREJA",
+  "postalCode": "37553"
  },
  {
   "id": 8104021032,
   "districtId": 8104021,
-  "name": "GOGREA"
+  "districtName": "WAEAPO",
+  "name": "GOGREA",
+  "postalCode": ""
  }
 ]

@@ -2,111 +2,155 @@
  {
   "id": 3317070001,
   "districtId": 3317070,
-  "name": "MEGAL"
+  "districtName": "PAMOTAN",
+  "name": "MEGAL",
+  "postalCode": "59261"
  },
  {
   "id": 3317070002,
   "districtId": 3317070,
-  "name": "NGEMPLAKREJO"
+  "districtName": "PAMOTAN",
+  "name": "NGEMPLAKREJO",
+  "postalCode": "59261"
  },
  {
   "id": 3317070003,
   "districtId": 3317070,
-  "name": "PRAGEN"
+  "districtName": "PAMOTAN",
+  "name": "PRAGEN",
+  "postalCode": "59261"
  },
  {
   "id": 3317070004,
   "districtId": 3317070,
-  "name": "SAMARAN"
+  "districtName": "PAMOTAN",
+  "name": "SAMARAN",
+  "postalCode": "59261"
  },
  {
   "id": 3317070005,
   "districtId": 3317070,
-  "name": "GAMBIRAN"
+  "districtName": "PAMOTAN",
+  "name": "GAMBIRAN",
+  "postalCode": "59261"
  },
  {
   "id": 3317070006,
   "districtId": 3317070,
-  "name": "BAMBAN"
+  "districtName": "PAMOTAN",
+  "name": "BAMBAN",
+  "postalCode": "59261"
  },
  {
   "id": 3317070007,
   "districtId": 3317070,
-  "name": "BANGUNREJO"
+  "districtName": "PAMOTAN",
+  "name": "BANGUNREJO",
+  "postalCode": "59261"
  },
  {
   "id": 3317070008,
   "districtId": 3317070,
-  "name": "PAMOTAN"
+  "districtName": "PAMOTAN",
+  "name": "PAMOTAN",
+  "postalCode": "46397"
  },
  {
   "id": 3317070009,
   "districtId": 3317070,
-  "name": "SIDOREJO"
+  "districtName": "PAMOTAN",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 3317070010,
   "districtId": 3317070,
-  "name": "TEMPALING"
+  "districtName": "PAMOTAN",
+  "name": "TEMPALING",
+  "postalCode": "59261"
  },
  {
   "id": 3317070011,
   "districtId": 3317070,
-  "name": "JOHO"
+  "districtName": "PAMOTAN",
+  "name": "JOHO",
+  "postalCode": "54363"
  },
  {
   "id": 3317070012,
   "districtId": 3317070,
-  "name": "MLAGEN"
+  "districtName": "PAMOTAN",
+  "name": "MLAGEN",
+  "postalCode": "59261"
  },
  {
   "id": 3317070013,
   "districtId": 3317070,
-  "name": "KEPOHAGUNG"
+  "districtName": "PAMOTAN",
+  "name": "KEPOHAGUNG",
+  "postalCode": "59261"
  },
  {
   "id": 3317070014,
   "districtId": 3317070,
-  "name": "MLAWAT"
+  "districtName": "PAMOTAN",
+  "name": "MLAWAT",
+  "postalCode": "59261"
  },
  {
   "id": 3317070015,
   "districtId": 3317070,
-  "name": "SEGOROMULYO"
+  "districtName": "PAMOTAN",
+  "name": "SEGOROMULYO",
+  "postalCode": "59261"
  },
  {
   "id": 3317070016,
   "districtId": 3317070,
-  "name": "KETANGI"
+  "districtName": "PAMOTAN",
+  "name": "KETANGI",
+  "postalCode": "56153"
  },
  {
   "id": 3317070017,
   "districtId": 3317070,
-  "name": "SENDANGAGUNG"
+  "districtName": "PAMOTAN",
+  "name": "SENDANGAGUNG",
+  "postalCode": "57675"
  },
  {
   "id": 3317070018,
   "districtId": 3317070,
-  "name": "GEGERSIMO"
+  "districtName": "PAMOTAN",
+  "name": "GEGERSIMO",
+  "postalCode": "59261"
  },
  {
   "id": 3317070019,
   "districtId": 3317070,
-  "name": "SUMBANGREJO"
+  "districtName": "PAMOTAN",
+  "name": "SUMBANGREJO",
+  "postalCode": "59261"
  },
  {
   "id": 3317070020,
   "districtId": 3317070,
-  "name": "JAPEREJO"
+  "districtName": "PAMOTAN",
+  "name": "JAPEREJO",
+  "postalCode": "59261"
  },
  {
   "id": 3317070022,
   "districtId": 3317070,
-  "name": "RINGIN"
+  "districtName": "PAMOTAN",
+  "name": "RINGIN",
+  "postalCode": "29355"
  },
  {
   "id": 3317070023,
   "districtId": 3317070,
-  "name": "SUMBEREJO"
+  "districtName": "PAMOTAN",
+  "name": "SUMBEREJO",
+  "postalCode": "20551"
  }
 ]

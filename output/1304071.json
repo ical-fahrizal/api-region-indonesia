@@ -2,31 +2,43 @@
  {
   "id": 1304071001,
   "districtId": 1304071,
-  "name": "BULUH KASOK"
+  "districtName": "LUBUK TAROK",
+  "name": "BULUH KASOK",
+  "postalCode": ""
  },
  {
   "id": 1304071002,
   "districtId": 1304071,
-  "name": "LUBUK TAROK"
+  "districtName": "LUBUK TAROK",
+  "name": "LUBUK TAROK",
+  "postalCode": ""
  },
  {
   "id": 1304071003,
   "districtId": 1304071,
-  "name": "LALAN"
+  "districtName": "LUBUK TAROK",
+  "name": "LALAN",
+  "postalCode": "27553"
  },
  {
   "id": 1304071004,
   "districtId": 1304071,
-  "name": "SILONGO"
+  "districtName": "LUBUK TAROK",
+  "name": "SILONGO",
+  "postalCode": "27553"
  },
  {
   "id": 1304071005,
   "districtId": 1304071,
-  "name": "KAMPUNG DALAM"
+  "districtName": "LUBUK TAROK",
+  "name": "KAMPUNG DALAM",
+  "postalCode": "21451"
  },
  {
   "id": 1304071006,
   "districtId": 1304071,
-  "name": "LATANG"
+  "districtName": "LUBUK TAROK",
+  "name": "LATANG",
+  "postalCode": "27553"
  }
 ]

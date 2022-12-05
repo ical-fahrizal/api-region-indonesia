@@ -2,31 +2,43 @@
  {
   "id": 2103043001,
   "districtId": 2103043,
-  "name": "SEDEDAP"
+  "districtName": "PULAU TIGA",
+  "name": "SEDEDAP",
+  "postalCode": "29783"
  },
  {
   "id": 2103043002,
   "districtId": 2103043,
-  "name": "SABANG MAWANG"
+  "districtName": "PULAU TIGA",
+  "name": "SABANG MAWANG",
+  "postalCode": "29783"
  },
  {
   "id": 2103043004,
   "districtId": 2103043,
-  "name": "TANJUNG BATANG"
+  "districtName": "PULAU TIGA",
+  "name": "TANJUNG BATANG",
+  "postalCode": "29783"
  },
  {
   "id": 2103043005,
   "districtId": 2103043,
-  "name": "SERANTAS"
+  "districtName": "PULAU TIGA",
+  "name": "SERANTAS",
+  "postalCode": "29783"
  },
  {
   "id": 2103043006,
   "districtId": 2103043,
-  "name": "SABANG MAWANG BARAT"
+  "districtName": "PULAU TIGA",
+  "name": "SABANG MAWANG BARAT",
+  "postalCode": "29783"
  },
  {
   "id": 2103043010,
   "districtId": 2103043,
-  "name": "TELUK LABUH"
+  "districtName": "PULAU TIGA",
+  "name": "TELUK LABUH",
+  "postalCode": "29783"
  }
 ]

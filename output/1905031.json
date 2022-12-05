@@ -2,26 +2,36 @@
  {
   "id": 1905031001,
   "districtId": 1905031,
-  "name": "SADAI"
+  "districtName": "TUKAK SADAI",
+  "name": "SADAI",
+  "postalCode": "33783"
  },
  {
   "id": 1905031002,
   "districtId": 1905031,
-  "name": "PASIR PUTIH"
+  "districtName": "TUKAK SADAI",
+  "name": "PASIR PUTIH",
+  "postalCode": "24453"
  },
  {
   "id": 1905031003,
   "districtId": 1905031,
-  "name": "TUKAK"
+  "districtName": "TUKAK SADAI",
+  "name": "TUKAK",
+  "postalCode": "33783"
  },
  {
   "id": 1905031004,
   "districtId": 1905031,
-  "name": "TIRAM"
+  "districtName": "TUKAK SADAI",
+  "name": "TIRAM",
+  "postalCode": "33783"
  },
  {
   "id": 1905031005,
   "districtId": 1905031,
-  "name": "BUKIT TERAP"
+  "districtName": "TUKAK SADAI",
+  "name": "BUKIT TERAP",
+  "postalCode": "33783"
  }
 ]

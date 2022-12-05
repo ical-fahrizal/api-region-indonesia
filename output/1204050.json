@@ -2,71 +2,99 @@
  {
   "id": 1204050001,
   "districtId": 1204050,
-  "name": "UNTE MUNGKUR IV"
+  "districtName": "KOLANG",
+  "name": "UNTE MUNGKUR IV",
+  "postalCode": "22562"
  },
  {
   "id": 1204050003,
   "districtId": 1204050,
-  "name": "UNTE MUNGKUR III"
+  "districtName": "KOLANG",
+  "name": "UNTE MUNGKUR III",
+  "postalCode": "22562"
  },
  {
   "id": 1204050004,
   "districtId": 1204050,
-  "name": "UNTE MUNGKUR II"
+  "districtName": "KOLANG",
+  "name": "UNTE MUNGKUR II",
+  "postalCode": "22562"
  },
  {
   "id": 1204050006,
   "districtId": 1204050,
-  "name": "UNTE MUNGKUR I"
+  "districtName": "KOLANG",
+  "name": "UNTE MUNGKUR I",
+  "postalCode": "22562"
  },
  {
   "id": 1204050007,
   "districtId": 1204050,
-  "name": "SATAHI NAULI"
+  "districtName": "KOLANG",
+  "name": "SATAHI NAULI",
+  "postalCode": "22562"
  },
  {
   "id": 1204050008,
   "districtId": 1204050,
-  "name": "HURLANG MUARA NAULI"
+  "districtName": "KOLANG",
+  "name": "HURLANG MUARA NAULI",
+  "postalCode": "22562"
  },
  {
   "id": 1204050009,
   "districtId": 1204050,
-  "name": "KOLANG NAULI"
+  "districtName": "KOLANG",
+  "name": "KOLANG NAULI",
+  "postalCode": "22562"
  },
  {
   "id": 1204050010,
   "districtId": 1204050,
-  "name": "PASAR ONAN HURLANG"
+  "districtName": "KOLANG",
+  "name": "PASAR ONAN HURLANG",
+  "postalCode": "22562"
  },
  {
   "id": 1204050011,
   "districtId": 1204050,
-  "name": "SIPAKPAHI AEK LOBU"
+  "districtName": "KOLANG",
+  "name": "SIPAKPAHI AEK LOBU",
+  "postalCode": "22562"
  },
  {
   "id": 1204050012,
   "districtId": 1204050,
-  "name": "HUDOPA NAULI"
+  "districtName": "KOLANG",
+  "name": "HUDOPA NAULI",
+  "postalCode": "22562"
  },
  {
   "id": 1204050013,
   "districtId": 1204050,
-  "name": "RAWA MAKMUR"
+  "districtName": "KOLANG",
+  "name": "RAWA MAKMUR",
+  "postalCode": "22562"
  },
  {
   "id": 1204050014,
   "districtId": 1204050,
-  "name": "MAKARTI NAULI"
+  "districtName": "KOLANG",
+  "name": "MAKARTI NAULI",
+  "postalCode": "22562"
  },
  {
   "id": 1204050015,
   "districtId": 1204050,
-  "name": "PARGARINGAN"
+  "districtName": "KOLANG",
+  "name": "PARGARINGAN",
+  "postalCode": "22563"
  },
  {
   "id": 1204050016,
   "districtId": 1204050,
-  "name": "SIMARPINGGAN"
+  "districtName": "KOLANG",
+  "name": "SIMARPINGGAN",
+  "postalCode": "22732"
  }
 ]

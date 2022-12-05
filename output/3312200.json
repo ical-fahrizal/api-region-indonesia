@@ -2,46 +2,64 @@
  {
   "id": 3312200001,
   "districtId": 3312200,
-  "name": "DOMAS"
+  "districtName": "BULUKERTO",
+  "name": "DOMAS",
+  "postalCode": "57697"
  },
  {
   "id": 3312200002,
   "districtId": 3312200,
-  "name": "NADI"
+  "districtName": "BULUKERTO",
+  "name": "NADI",
+  "postalCode": "57697"
  },
  {
   "id": 3312200003,
   "districtId": 3312200,
-  "name": "NGAGLIK"
+  "districtName": "BULUKERTO",
+  "name": "NGAGLIK",
+  "postalCode": "57697"
  },
  {
   "id": 3312200004,
   "districtId": 3312200,
-  "name": "BULUREJO"
+  "districtName": "BULUKERTO",
+  "name": "BULUREJO",
+  "postalCode": "35372"
  },
  {
   "id": 3312200010,
   "districtId": 3312200,
-  "name": "BULUKERTO"
+  "districtName": "BULUKERTO",
+  "name": "BULUKERTO",
+  "postalCode": "57697"
  },
  {
   "id": 3312200011,
   "districtId": 3312200,
-  "name": "KRANDEGAN"
+  "districtName": "BULUKERTO",
+  "name": "KRANDEGAN",
+  "postalCode": "53414"
  },
  {
   "id": 3312200012,
   "districtId": 3312200,
-  "name": "TANJUNG"
+  "districtName": "BULUKERTO",
+  "name": "TANJUNG",
+  "postalCode": "24562"
  },
  {
   "id": 3312200013,
   "districtId": 3312200,
-  "name": "SUGIHAN"
+  "districtName": "BULUKERTO",
+  "name": "SUGIHAN",
+  "postalCode": "32272"
  },
  {
   "id": 3312200014,
   "districtId": 3312200,
-  "name": "CONTO"
+  "districtName": "BULUKERTO",
+  "name": "CONTO",
+  "postalCode": "57697"
  }
 ]

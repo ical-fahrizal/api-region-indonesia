@@ -2,71 +2,99 @@
  {
   "id": 3604010001,
   "districtId": 3604010,
-  "name": "UMBUL TANJUNG"
+  "districtName": "CINANGKA",
+  "name": "UMBUL TANJUNG",
+  "postalCode": "42167"
  },
  {
   "id": 3604010002,
   "districtId": 3604010,
-  "name": "PASAURAN"
+  "districtName": "CINANGKA",
+  "name": "PASAURAN",
+  "postalCode": "42167"
  },
  {
   "id": 3604010003,
   "districtId": 3604010,
-  "name": "BANTARWANGI"
+  "districtName": "CINANGKA",
+  "name": "BANTARWANGI",
+  "postalCode": "42167"
  },
  {
   "id": 3604010004,
   "districtId": 3604010,
-  "name": "BANTARWARU"
+  "districtName": "CINANGKA",
+  "name": "BANTARWARU",
+  "postalCode": "45264"
  },
  {
   "id": 3604010005,
   "districtId": 3604010,
-  "name": "BULAKAN"
+  "districtName": "CINANGKA",
+  "name": "BULAKAN",
+  "postalCode": "52356"
  },
  {
   "id": 3604010006,
   "districtId": 3604010,
-  "name": "KARANG SURAGA"
+  "districtName": "CINANGKA",
+  "name": "KARANG SURAGA",
+  "postalCode": "42167"
  },
  {
   "id": 3604010007,
   "districtId": 3604010,
-  "name": "CINANGKA"
+  "districtName": "CINANGKA",
+  "name": "CINANGKA",
+  "postalCode": "41181"
  },
  {
   "id": 3604010008,
   "districtId": 3604010,
-  "name": "KUBANG BAROS"
+  "districtName": "CINANGKA",
+  "name": "KUBANG BAROS",
+  "postalCode": "42167"
  },
  {
   "id": 3604010009,
   "districtId": 3604010,
-  "name": "RANCASANGGAL"
+  "districtName": "CINANGKA",
+  "name": "RANCASANGGAL",
+  "postalCode": "42167"
  },
  {
   "id": 3604010010,
   "districtId": 3604010,
-  "name": "CIKOLELET"
+  "districtName": "CINANGKA",
+  "name": "CIKOLELET",
+  "postalCode": "42167"
  },
  {
   "id": 3604010011,
   "districtId": 3604010,
-  "name": "MEKARSARI"
+  "districtName": "CINANGKA",
+  "name": "MEKARSARI",
+  "postalCode": "37482"
  },
  {
   "id": 3604010012,
   "districtId": 3604010,
-  "name": "SINDANGLAYA"
+  "districtName": "CINANGKA",
+  "name": "SINDANGLAYA",
+  "postalCode": "40195"
  },
  {
   "id": 3604010013,
   "districtId": 3604010,
-  "name": "KAMASAN"
+  "districtName": "CINANGKA",
+  "name": "KAMASAN",
+  "postalCode": "40377"
  },
  {
   "id": 3604010014,
   "districtId": 3604010,
-  "name": "BAROS JAYA"
+  "districtName": "CINANGKA",
+  "name": "BAROS JAYA",
+  "postalCode": "42167"
  }
 ]

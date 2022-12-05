@@ -2,31 +2,43 @@
  {
   "id": 7371060001,
   "districtId": 7371060,
-  "name": "PATTUNUANG"
+  "districtName": "WAJO",
+  "name": "PATTUNUANG",
+  "postalCode": "90174"
  },
  {
   "id": 7371060003,
   "districtId": 7371060,
-  "name": "MELAYU BARU"
+  "districtName": "WAJO",
+  "name": "MELAYU BARU",
+  "postalCode": "90171"
  },
  {
   "id": 7371060004,
   "districtId": 7371060,
-  "name": "MELAYU"
+  "districtName": "WAJO",
+  "name": "MELAYU",
+  "postalCode": "21144"
  },
  {
   "id": 7371060006,
   "districtId": 7371060,
-  "name": "MAMPU"
+  "districtName": "WAJO",
+  "name": "MAMPU",
+  "postalCode": "91752"
  },
  {
   "id": 7371060007,
   "districtId": 7371060,
-  "name": "MALIMONGAN"
+  "districtName": "WAJO",
+  "name": "MALIMONGAN",
+  "postalCode": "92956"
  },
  {
   "id": 7371060008,
   "districtId": 7371060,
-  "name": "MALIMONGAN TUA"
+  "districtName": "WAJO",
+  "name": "MALIMONGAN TUA",
+  "postalCode": "90172"
  }
 ]

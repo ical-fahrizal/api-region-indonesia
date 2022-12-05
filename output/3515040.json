@@ -2,91 +2,127 @@
  {
   "id": 3515040001,
   "districtId": 3515040,
-  "name": "KEBONAGUNG"
+  "districtName": "PORONG",
+  "name": "KEBONAGUNG",
+  "postalCode": "56151"
  },
  {
   "id": 3515040002,
   "districtId": 3515040,
-  "name": "PORONG"
+  "districtName": "PORONG",
+  "name": "PORONG",
+  "postalCode": "61274"
  },
  {
   "id": 3515040003,
   "districtId": 3515040,
-  "name": "MINDI"
+  "districtName": "PORONG",
+  "name": "MINDI",
+  "postalCode": "45473"
  },
  {
   "id": 3515040004,
   "districtId": 3515040,
-  "name": "JATIREJO"
+  "districtName": "PORONG",
+  "name": "JATIREJO",
+  "postalCode": "23661"
  },
  {
   "id": 3515040005,
   "districtId": 3515040,
-  "name": "RENOKENONGO"
+  "districtName": "PORONG",
+  "name": "RENOKENONGO",
+  "postalCode": "61274"
  },
  {
   "id": 3515040006,
   "districtId": 3515040,
-  "name": "GLAGAH ARUM"
+  "districtName": "PORONG",
+  "name": "GLAGAH ARUM",
+  "postalCode": "61274"
  },
  {
   "id": 3515040007,
   "districtId": 3515040,
-  "name": "PLUMBON"
+  "districtName": "PORONG",
+  "name": "PLUMBON",
+  "postalCode": "45215"
  },
  {
   "id": 3515040008,
   "districtId": 3515040,
-  "name": "SIRING"
+  "districtName": "PORONG",
+  "name": "SIRING",
+  "postalCode": "61274"
  },
  {
   "id": 3515040009,
   "districtId": 3515040,
-  "name": "GEDANG"
+  "districtName": "PORONG",
+  "name": "GEDANG",
+  "postalCode": "37111"
  },
  {
   "id": 3515040010,
   "districtId": 3515040,
-  "name": "JUWET KENONGO"
+  "districtName": "PORONG",
+  "name": "JUWET KENONGO",
+  "postalCode": "61274"
  },
  {
   "id": 3515040011,
   "districtId": 3515040,
-  "name": "KEDUNGSOLO"
+  "districtName": "PORONG",
+  "name": "KEDUNGSOLO",
+  "postalCode": "61274"
  },
  {
   "id": 3515040012,
   "districtId": 3515040,
-  "name": "KEBAKALAN"
+  "districtName": "PORONG",
+  "name": "KEBAKALAN",
+  "postalCode": "54365"
  },
  {
   "id": 3515040013,
   "districtId": 3515040,
-  "name": "KESAMBI"
+  "districtName": "PORONG",
+  "name": "KESAMBI",
+  "postalCode": "45134"
  },
  {
   "id": 3515040014,
   "districtId": 3515040,
-  "name": "PAMOTAN"
+  "districtName": "PORONG",
+  "name": "PAMOTAN",
+  "postalCode": "46397"
  },
  {
   "id": 3515040016,
   "districtId": 3515040,
-  "name": "CANDIPARI"
+  "districtName": "PORONG",
+  "name": "CANDIPARI",
+  "postalCode": "61274"
  },
  {
   "id": 3515040017,
   "districtId": 3515040,
-  "name": "LAJUK"
+  "districtName": "PORONG",
+  "name": "LAJUK",
+  "postalCode": "67174"
  },
  {
   "id": 3515040018,
   "districtId": 3515040,
-  "name": "KEDUNGBOTO"
+  "districtName": "PORONG",
+  "name": "KEDUNGBOTO",
+  "postalCode": "51383"
  },
  {
   "id": 3515040019,
   "districtId": 3515040,
-  "name": "PESAWAHAN"
+  "districtName": "PORONG",
+  "name": "PESAWAHAN",
+  "postalCode": "35223"
  }
 ]

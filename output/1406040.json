@@ -2,126 +2,176 @@
  {
   "id": 1406040002,
   "districtId": 1406040,
-  "name": "PETAPAHAN"
+  "districtName": "TAPUNG",
+  "name": "PETAPAHAN",
+  "postalCode": "20514"
  },
  {
   "id": 1406040003,
   "districtId": 1406040,
-  "name": "SEI LEMBU MAKMUR"
+  "districtName": "TAPUNG",
+  "name": "SEI LEMBU MAKMUR",
+  "postalCode": ""
  },
  {
   "id": 1406040004,
   "districtId": 1406040,
-  "name": "MUARA MAHAT BARU"
+  "districtName": "TAPUNG",
+  "name": "MUARA MAHAT BARU",
+  "postalCode": "28464"
  },
  {
   "id": 1406040005,
   "districtId": 1406040,
-  "name": "KINANTAN"
+  "districtName": "TAPUNG",
+  "name": "KINANTAN",
+  "postalCode": ""
  },
  {
   "id": 1406040006,
   "districtId": 1406040,
-  "name": "SIBUAK"
+  "districtName": "TAPUNG",
+  "name": "SIBUAK",
+  "postalCode": "28464"
  },
  {
   "id": 1406040007,
   "districtId": 1406040,
-  "name": "PANTAI CERMIN"
+  "districtName": "TAPUNG",
+  "name": "PANTAI CERMIN",
+  "postalCode": "20853"
  },
  {
   "id": 1406040008,
   "districtId": 1406040,
-  "name": "SEI PUTIH"
+  "districtName": "TAPUNG",
+  "name": "SEI PUTIH",
+  "postalCode": "20585"
  },
  {
   "id": 1406040009,
   "districtId": 1406040,
-  "name": "PAGARUYUNG"
+  "districtName": "TAPUNG",
+  "name": "PAGARUYUNG",
+  "postalCode": "28464"
  },
  {
   "id": 1406040010,
   "districtId": 1406040,
-  "name": "AIR TERBIT"
+  "districtName": "TAPUNG",
+  "name": "AIR TERBIT",
+  "postalCode": "28464"
  },
  {
   "id": 1406040011,
   "districtId": 1406040,
-  "name": "PANCURAN GADING"
+  "districtName": "TAPUNG",
+  "name": "PANCURAN GADING",
+  "postalCode": "28464"
  },
  {
   "id": 1406040012,
   "districtId": 1406040,
-  "name": "SARI GALUH"
+  "districtName": "TAPUNG",
+  "name": "SARI GALUH",
+  "postalCode": "28464"
  },
  {
   "id": 1406040013,
   "districtId": 1406040,
-  "name": "TRI MANUNGGAL"
+  "districtName": "TAPUNG",
+  "name": "TRI MANUNGGAL",
+  "postalCode": "28464"
  },
  {
   "id": 1406040014,
   "districtId": 1406040,
-  "name": "MUKTI SARI"
+  "districtName": "TAPUNG",
+  "name": "MUKTI SARI",
+  "postalCode": "28464"
  },
  {
   "id": 1406040015,
   "districtId": 1406040,
-  "name": "INDRAPURI"
+  "districtName": "TAPUNG",
+  "name": "INDRAPURI",
+  "postalCode": "23363"
  },
  {
   "id": 1406040016,
   "districtId": 1406040,
-  "name": "GADING SARI"
+  "districtName": "TAPUNG",
+  "name": "GADING SARI",
+  "postalCode": "28464"
  },
  {
   "id": 1406040017,
   "districtId": 1406040,
-  "name": "TANJUNG SAWIT"
+  "districtName": "TAPUNG",
+  "name": "TANJUNG SAWIT",
+  "postalCode": "28464"
  },
  {
   "id": 1406040018,
   "districtId": 1406040,
-  "name": "SUMBER MAKMUR"
+  "districtName": "TAPUNG",
+  "name": "SUMBER MAKMUR",
+  "postalCode": "23662"
  },
  {
   "id": 1406040019,
   "districtId": 1406040,
-  "name": "PETAPAHAN JAYA"
+  "districtName": "TAPUNG",
+  "name": "PETAPAHAN JAYA",
+  "postalCode": "28464"
  },
  {
   "id": 1406040030,
   "districtId": 1406040,
-  "name": "PELAMBAIAN"
+  "districtName": "TAPUNG",
+  "name": "PELAMBAIAN",
+  "postalCode": "28464"
  },
  {
   "id": 1406040031,
   "districtId": 1406040,
-  "name": "INDRA SAKTI"
+  "districtName": "TAPUNG",
+  "name": "INDRA SAKTI",
+  "postalCode": "21315"
  },
  {
   "id": 1406040032,
   "districtId": 1406040,
-  "name": "SUNGAI AGUNG"
+  "districtName": "TAPUNG",
+  "name": "SUNGAI AGUNG",
+  "postalCode": ""
  },
  {
   "id": 1406040033,
   "districtId": 1406040,
-  "name": "KARYA INDAH"
+  "districtName": "TAPUNG",
+  "name": "KARYA INDAH",
+  "postalCode": "24673"
  },
  {
   "id": 1406040034,
   "districtId": 1406040,
-  "name": "KIJANG REJO"
+  "districtName": "TAPUNG",
+  "name": "KIJANG REJO",
+  "postalCode": "28464"
  },
  {
   "id": 1406040035,
   "districtId": 1406040,
-  "name": "BENCAH KELUBI"
+  "districtName": "TAPUNG",
+  "name": "BENCAH KELUBI",
+  "postalCode": "28464"
  },
  {
   "id": 1406040036,
   "districtId": 1406040,
-  "name": "BATU GAJAH"
+  "districtName": "TAPUNG",
+  "name": "BATU GAJAH",
+  "postalCode": "22983"
  }
 ]

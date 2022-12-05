@@ -2,76 +2,106 @@
  {
   "id": 3309100001,
   "districtId": 3309100,
-  "name": "GLINTANG"
+  "districtName": "SAMBI",
+  "name": "GLINTANG",
+  "postalCode": "57376"
  },
  {
   "id": 3309100002,
   "districtId": 3309100,
-  "name": "JATISARI"
+  "districtName": "SAMBI",
+  "name": "JATISARI",
+  "postalCode": "32362"
  },
  {
   "id": 3309100003,
   "districtId": 3309100,
-  "name": "CANDEN"
+  "districtName": "SAMBI",
+  "name": "CANDEN",
+  "postalCode": "57376"
  },
  {
   "id": 3309100004,
   "districtId": 3309100,
-  "name": "SENTING"
+  "districtName": "SAMBI",
+  "name": "SENTING",
+  "postalCode": "57376"
  },
  {
   "id": 3309100005,
   "districtId": 3309100,
-  "name": "TEMPURSARI"
+  "districtName": "SAMBI",
+  "name": "TEMPURSARI",
+  "postalCode": "56191"
  },
  {
   "id": 3309100006,
   "districtId": 3309100,
-  "name": "SAMBI"
+  "districtName": "SAMBI",
+  "name": "SAMBI",
+  "postalCode": "57376"
  },
  {
   "id": 3309100007,
   "districtId": 3309100,
-  "name": "DEMANGAN"
+  "districtName": "SAMBI",
+  "name": "DEMANGAN",
+  "postalCode": "57464"
  },
  {
   "id": 3309100008,
   "districtId": 3309100,
-  "name": "KEPOH"
+  "districtName": "SAMBI",
+  "name": "KEPOH",
+  "postalCode": "33783"
  },
  {
   "id": 3309100009,
   "districtId": 3309100,
-  "name": "JAGOAN"
+  "districtName": "SAMBI",
+  "name": "JAGOAN",
+  "postalCode": "57376"
  },
  {
   "id": 3309100010,
   "districtId": 3309100,
-  "name": "BABADAN"
+  "districtName": "SAMBI",
+  "name": "BABADAN",
+  "postalCode": "45151"
  },
  {
   "id": 3309100011,
   "districtId": 3309100,
-  "name": "TAWENGAN"
+  "districtName": "SAMBI",
+  "name": "TAWENGAN",
+  "postalCode": "57376"
  },
  {
   "id": 3309100012,
   "districtId": 3309100,
-  "name": "CATUR"
+  "districtName": "SAMBI",
+  "name": "CATUR",
+  "postalCode": "57376"
  },
  {
   "id": 3309100013,
   "districtId": 3309100,
-  "name": "NGAGLIK"
+  "districtName": "SAMBI",
+  "name": "NGAGLIK",
+  "postalCode": "57697"
  },
  {
   "id": 3309100014,
   "districtId": 3309100,
-  "name": "TROSOBO"
+  "districtName": "SAMBI",
+  "name": "TROSOBO",
+  "postalCode": "57376"
  },
  {
   "id": 3309100015,
   "districtId": 3309100,
-  "name": "CERMO"
+  "districtName": "SAMBI",
+  "name": "CERMO",
+  "postalCode": "57376"
  }
 ]

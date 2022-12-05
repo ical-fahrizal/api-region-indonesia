@@ -2,66 +2,92 @@
  {
   "id": 1219041001,
   "districtId": 1219041,
-  "name": "GUNTUNG"
+  "districtName": "LIMA PULUH PESISIR",
+  "name": "GUNTUNG",
+  "postalCode": "21255"
  },
  {
   "id": 1219041002,
   "districtId": 1219041,
-  "name": "PEMATANG PANJANG"
+  "districtName": "LIMA PULUH PESISIR",
+  "name": "PEMATANG PANJANG",
+  "postalCode": "21256"
  },
  {
   "id": 1219041003,
   "districtId": 1219041,
-  "name": "BULAN-BULAN"
+  "districtName": "LIMA PULUH PESISIR",
+  "name": "BULAN-BULAN",
+  "postalCode": "21255"
  },
  {
   "id": 1219041004,
   "districtId": 1219041,
-  "name": "PERUPUK"
+  "districtName": "LIMA PULUH PESISIR",
+  "name": "PERUPUK",
+  "postalCode": "24478"
  },
  {
   "id": 1219041005,
   "districtId": 1219041,
-  "name": "GAMBUS LAUT"
+  "districtName": "LIMA PULUH PESISIR",
+  "name": "GAMBUS LAUT",
+  "postalCode": "21255"
  },
  {
   "id": 1219041006,
   "districtId": 1219041,
-  "name": "LUBUK CUIK"
+  "districtName": "LIMA PULUH PESISIR",
+  "name": "LUBUK CUIK",
+  "postalCode": "21255"
  },
  {
   "id": 1219041007,
   "districtId": 1219041,
-  "name": "TANAH ITAM HILIR"
+  "districtName": "LIMA PULUH PESISIR",
+  "name": "TANAH ITAM HILIR",
+  "postalCode": ""
  },
  {
   "id": 1219041008,
   "districtId": 1219041,
-  "name": "BARUNG-BARUNG"
+  "districtName": "LIMA PULUH PESISIR",
+  "name": "BARUNG-BARUNG",
+  "postalCode": "21255"
  },
  {
   "id": 1219041009,
   "districtId": 1219041,
-  "name": "PASIR PERMIT"
+  "districtName": "LIMA PULUH PESISIR",
+  "name": "PASIR PERMIT",
+  "postalCode": "21255"
  },
  {
   "id": 1219041010,
   "districtId": 1219041,
-  "name": "TITI PUTIH"
+  "districtName": "LIMA PULUH PESISIR",
+  "name": "TITI PUTIH",
+  "postalCode": "21255"
  },
  {
   "id": 1219041011,
   "districtId": 1219041,
-  "name": "GUNUNG BANDUNG"
+  "districtName": "LIMA PULUH PESISIR",
+  "name": "GUNUNG BANDUNG",
+  "postalCode": "21255"
  },
  {
   "id": 1219041012,
   "districtId": 1219041,
-  "name": "TITI MERAH"
+  "districtName": "LIMA PULUH PESISIR",
+  "name": "TITI MERAH",
+  "postalCode": "21255"
  },
  {
   "id": 1219041013,
   "districtId": 1219041,
-  "name": "PEMATANG TENGAH"
+  "districtName": "LIMA PULUH PESISIR",
+  "name": "PEMATANG TENGAH",
+  "postalCode": "21255"
  }
 ]

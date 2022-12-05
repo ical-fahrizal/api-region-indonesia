@@ -2,31 +2,43 @@
  {
   "id": 6404042001,
   "districtId": 6404042,
-  "name": "TELUK PANDAN"
+  "districtName": "TELUK PANDAN",
+  "name": "TELUK PANDAN",
+  "postalCode": "79453"
  },
  {
   "id": 6404042002,
   "districtId": 6404042,
-  "name": "SUKA DAMAI"
+  "districtName": "TELUK PANDAN",
+  "name": "SUKA DAMAI",
+  "postalCode": "24472"
  },
  {
   "id": 6404042003,
   "districtId": 6404042,
-  "name": "SUKA RAHMAT"
+  "districtName": "TELUK PANDAN",
+  "name": "SUKA RAHMAT",
+  "postalCode": "24474"
  },
  {
   "id": 6404042004,
   "districtId": 6404042,
-  "name": "DANAU REDAN"
+  "districtName": "TELUK PANDAN",
+  "name": "DANAU REDAN",
+  "postalCode": "75683"
  },
  {
   "id": 6404042005,
   "districtId": 6404042,
-  "name": "MARTADINATA"
+  "districtName": "TELUK PANDAN",
+  "name": "MARTADINATA",
+  "postalCode": "75683"
  },
  {
   "id": 6404042006,
   "districtId": 6404042,
-  "name": "KANDOLO"
+  "districtName": "TELUK PANDAN",
+  "name": "KANDOLO",
+  "postalCode": "75683"
  }
 ]

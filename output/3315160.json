@@ -2,126 +2,176 @@
  {
   "id": 3315160002,
   "districtId": 3315160,
-  "name": "PAHESAN"
+  "districtName": "GODONG",
+  "name": "PAHESAN",
+  "postalCode": "58162"
  },
  {
   "id": 3315160003,
   "districtId": 3315160,
-  "name": "LATAK"
+  "districtName": "GODONG",
+  "name": "LATAK",
+  "postalCode": "58162"
  },
  {
   "id": 3315160005,
   "districtId": 3315160,
-  "name": "SAMBUNG"
+  "districtName": "GODONG",
+  "name": "SAMBUNG",
+  "postalCode": "59581"
  },
  {
   "id": 3315160006,
   "districtId": 3315160,
-  "name": "KETANGIREJO"
+  "districtName": "GODONG",
+  "name": "KETANGIREJO",
+  "postalCode": "58162"
  },
  {
   "id": 3315160007,
   "districtId": 3315160,
-  "name": "ANGGASWANGI"
+  "districtName": "GODONG",
+  "name": "ANGGASWANGI",
+  "postalCode": "58162"
  },
  {
   "id": 3315160008,
   "districtId": 3315160,
-  "name": "GUCI"
+  "districtName": "GODONG",
+  "name": "GUCI",
+  "postalCode": "24171"
  },
  {
   "id": 3315160009,
   "districtId": 3315160,
-  "name": "WERDOYO"
+  "districtName": "GODONG",
+  "name": "WERDOYO",
+  "postalCode": "58162"
  },
  {
   "id": 3315160010,
   "districtId": 3315160,
-  "name": "GUYANGAN"
+  "districtName": "GODONG",
+  "name": "GUYANGAN",
+  "postalCode": "59453"
  },
  {
   "id": 3315160011,
   "districtId": 3315160,
-  "name": "GUNDI"
+  "districtName": "GODONG",
+  "name": "GUNDI",
+  "postalCode": "58162"
  },
  {
   "id": 3315160012,
   "districtId": 3315160,
-  "name": "JATILOR"
+  "districtName": "GODONG",
+  "name": "JATILOR",
+  "postalCode": "58162"
  },
  {
   "id": 3315160013,
   "districtId": 3315160,
-  "name": "SUMBERAGUNG"
+  "districtName": "GODONG",
+  "name": "SUMBERAGUNG",
+  "postalCode": "35452"
  },
  {
   "id": 3315160014,
   "districtId": 3315160,
-  "name": "BRINGIN"
+  "districtName": "GODONG",
+  "name": "BRINGIN",
+  "postalCode": "45167"
  },
  {
   "id": 3315160015,
   "districtId": 3315160,
-  "name": "KLAMPOK"
+  "districtName": "GODONG",
+  "name": "KLAMPOK",
+  "postalCode": "58162"
  },
  {
   "id": 3315160016,
   "districtId": 3315160,
-  "name": "KEMLOKO"
+  "districtName": "GODONG",
+  "name": "KEMLOKO",
+  "postalCode": "58162"
  },
  {
   "id": 3315160017,
   "districtId": 3315160,
-  "name": "GODONG"
+  "districtName": "GODONG",
+  "name": "GODONG",
+  "postalCode": "58162"
  },
  {
   "id": 3315160019,
   "districtId": 3315160,
-  "name": "KETITANG"
+  "districtName": "GODONG",
+  "name": "KETITANG",
+  "postalCode": "58162"
  },
  {
   "id": 3315160020,
   "districtId": 3315160,
-  "name": "KOPEK"
+  "districtName": "GODONG",
+  "name": "KOPEK",
+  "postalCode": "58162"
  },
  {
   "id": 3315160021,
   "districtId": 3315160,
-  "name": "DOROLEGI"
+  "districtName": "GODONG",
+  "name": "DOROLEGI",
+  "postalCode": "58162"
  },
  {
   "id": 3315160022,
   "districtId": 3315160,
-  "name": "RAJEK"
+  "districtName": "GODONG",
+  "name": "RAJEK",
+  "postalCode": "58162"
  },
  {
   "id": 3315160023,
   "districtId": 3315160,
-  "name": "HARJOWINANGUN"
+  "districtName": "GODONG",
+  "name": "HARJOWINANGUN",
+  "postalCode": "52464"
  },
  {
   "id": 3315160024,
   "districtId": 3315160,
-  "name": "KARANGGENENG"
+  "districtName": "GODONG",
+  "name": "KARANGGENENG",
+  "postalCode": "57312"
  },
  {
   "id": 3315160025,
   "districtId": 3315160,
-  "name": "WANUTUNGGAL"
+  "districtName": "GODONG",
+  "name": "WANUTUNGGAL",
+  "postalCode": "58162"
  },
  {
   "id": 3315160026,
   "districtId": 3315160,
-  "name": "MANGGARWETAN"
+  "districtName": "GODONG",
+  "name": "MANGGARWETAN",
+  "postalCode": "58162"
  },
  {
   "id": 3315160027,
   "districtId": 3315160,
-  "name": "MANGGARMAS"
+  "districtName": "GODONG",
+  "name": "MANGGARMAS",
+  "postalCode": "58162"
  },
  {
   "id": 3315160028,
   "districtId": 3315160,
-  "name": "TINANDING"
+  "districtName": "GODONG",
+  "name": "TINANDING",
+  "postalCode": "58162"
  }
 ]

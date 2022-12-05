@@ -2,36 +2,50 @@
  {
   "id": 6103071001,
   "districtId": 6103071,
-  "name": "PAKUMBANG"
+  "districtName": "SOMPAK",
+  "name": "PAKUMBANG",
+  "postalCode": ""
  },
  {
   "id": 6103071002,
   "districtId": 6103071,
-  "name": "TAPAKNG"
+  "districtName": "SOMPAK",
+  "name": "TAPAKNG",
+  "postalCode": ""
  },
  {
   "id": 6103071003,
   "districtId": 6103071,
-  "name": "AMAWAKNG"
+  "districtName": "SOMPAK",
+  "name": "AMAWAKNG",
+  "postalCode": ""
  },
  {
   "id": 6103071004,
   "districtId": 6103071,
-  "name": "GALAR"
+  "districtName": "SOMPAK",
+  "name": "GALAR",
+  "postalCode": "79363"
  },
  {
   "id": 6103071005,
   "districtId": 6103071,
-  "name": "SOMPAK"
+  "districtName": "SOMPAK",
+  "name": "SOMPAK",
+  "postalCode": "79363"
  },
  {
   "id": 6103071006,
   "districtId": 6103071,
-  "name": "LINGKONONG"
+  "districtName": "SOMPAK",
+  "name": "LINGKONONG",
+  "postalCode": "79363"
  },
  {
   "id": 6103071007,
   "districtId": 6103071,
-  "name": "PAUH"
+  "districtName": "SOMPAK",
+  "name": "PAUH",
+  "postalCode": "28559"
  }
 ]

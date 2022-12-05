@@ -2,36 +2,50 @@
  {
   "id": 9419060013,
   "districtId": 9419060,
-  "name": "WAIM"
+  "districtName": "PANTAI BARAT",
+  "name": "WAIM",
+  "postalCode": "99374"
  },
  {
   "id": 9419060014,
   "districtId": 9419060,
-  "name": "ARBAIS"
+  "districtName": "PANTAI BARAT",
+  "name": "ARBAIS",
+  "postalCode": "99374"
  },
  {
   "id": 9419060015,
   "districtId": 9419060,
-  "name": "ARUSWAR"
+  "districtName": "PANTAI BARAT",
+  "name": "ARUSWAR",
+  "postalCode": "99374"
  },
  {
   "id": 9419060017,
   "districtId": 9419060,
-  "name": "MARTEWAR"
+  "districtName": "PANTAI BARAT",
+  "name": "MARTEWAR",
+  "postalCode": "99374"
  },
  {
   "id": 9419060018,
   "districtId": 9419060,
-  "name": "WARI"
+  "districtName": "PANTAI BARAT",
+  "name": "WARI",
+  "postalCode": "97762"
  },
  {
   "id": 9419060020,
   "districtId": 9419060,
-  "name": "NIWERAWAR"
+  "districtName": "PANTAI BARAT",
+  "name": "NIWERAWAR",
+  "postalCode": "99374"
  },
  {
   "id": 9419060022,
   "districtId": 9419060,
-  "name": "WEBRO"
+  "districtName": "PANTAI BARAT",
+  "name": "WEBRO",
+  "postalCode": "99374"
  }
 ]

@@ -2,46 +2,64 @@
  {
   "id": 7101101001,
   "districtId": 7101101,
-  "name": "AMBANG II"
+  "districtName": "BOLAANG TIMUR",
+  "name": "AMBANG II",
+  "postalCode": "95752"
  },
  {
   "id": 7101101002,
   "districtId": 7101101,
-  "name": "AMBANG I"
+  "districtName": "BOLAANG TIMUR",
+  "name": "AMBANG I",
+  "postalCode": "95752"
  },
  {
   "id": 7101101003,
   "districtId": 7101101,
-  "name": "TADOY"
+  "districtName": "BOLAANG TIMUR",
+  "name": "TADOY",
+  "postalCode": "95752"
  },
  {
   "id": 7101101004,
   "districtId": 7101101,
-  "name": "TADOY I"
+  "districtName": "BOLAANG TIMUR",
+  "name": "TADOY I",
+  "postalCode": "95752"
  },
  {
   "id": 7101101005,
   "districtId": 7101101,
-  "name": "BOLAANG"
+  "districtName": "BOLAANG TIMUR",
+  "name": "BOLAANG",
+  "postalCode": "95752"
  },
  {
   "id": 7101101006,
   "districtId": 7101101,
-  "name": "BANTIK"
+  "districtName": "BOLAANG TIMUR",
+  "name": "BANTIK",
+  "postalCode": "95752"
  },
  {
   "id": 7101101007,
   "districtId": 7101101,
-  "name": "LOLAN"
+  "districtName": "BOLAANG TIMUR",
+  "name": "LOLAN",
+  "postalCode": "95752"
  },
  {
   "id": 7101101008,
   "districtId": 7101101,
-  "name": "BOLAANG I"
+  "districtName": "BOLAANG TIMUR",
+  "name": "BOLAANG I",
+  "postalCode": ""
  },
  {
   "id": 7101101009,
   "districtId": 7101101,
-  "name": "LOLAN II"
+  "districtName": "BOLAANG TIMUR",
+  "name": "LOLAN II",
+  "postalCode": ""
  }
 ]

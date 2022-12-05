@@ -2,76 +2,106 @@
  {
   "id": 1221020001,
   "districtId": 1221020,
-  "name": "SIBULUS SALAM"
+  "districtName": "ULU BARUMUN",
+  "name": "SIBULUS SALAM",
+  "postalCode": "22763"
  },
  {
   "id": 1221020002,
   "districtId": 1221020,
-  "name": "PINTU PADANG"
+  "districtName": "ULU BARUMUN",
+  "name": "PINTU PADANG",
+  "postalCode": "22732"
  },
  {
   "id": 1221020021,
   "districtId": 1221020,
-  "name": "HANDANG KOPO"
+  "districtName": "ULU BARUMUN",
+  "name": "HANDANG KOPO",
+  "postalCode": "22763"
  },
  {
   "id": 1221020022,
   "districtId": 1221020,
-  "name": "SIMANULDANG JAE"
+  "districtName": "ULU BARUMUN",
+  "name": "SIMANULDANG JAE",
+  "postalCode": "22763"
  },
  {
   "id": 1221020023,
   "districtId": 1221020,
-  "name": "SIMANULDANG JULU"
+  "districtName": "ULU BARUMUN",
+  "name": "SIMANULDANG JULU",
+  "postalCode": "22763"
  },
  {
   "id": 1221020024,
   "districtId": 1221020,
-  "name": "TAPIAN NAULI"
+  "districtName": "ULU BARUMUN",
+  "name": "TAPIAN NAULI",
+  "postalCode": "22732"
  },
  {
   "id": 1221020025,
   "districtId": 1221020,
-  "name": "MATONDANG"
+  "districtName": "ULU BARUMUN",
+  "name": "MATONDANG",
+  "postalCode": "22763"
  },
  {
   "id": 1221020026,
   "districtId": 1221020,
-  "name": "PASAR IPUH"
+  "districtName": "ULU BARUMUN",
+  "name": "PASAR IPUH",
+  "postalCode": "22763"
  },
  {
   "id": 1221020027,
   "districtId": 1221020,
-  "name": "PARINGGONAN"
+  "districtName": "ULU BARUMUN",
+  "name": "PARINGGONAN",
+  "postalCode": "22763"
  },
  {
   "id": 1221020028,
   "districtId": 1221020,
-  "name": "PARINGGONAN JULU"
+  "districtName": "ULU BARUMUN",
+  "name": "PARINGGONAN JULU",
+  "postalCode": "22763"
  },
  {
   "id": 1221020029,
   "districtId": 1221020,
-  "name": "PARAN BATU (PAGARAN BATU)"
+  "districtName": "ULU BARUMUN",
+  "name": "PARAN BATU (PAGARAN BATU)",
+  "postalCode": ""
  },
  {
   "id": 1221020030,
   "districtId": 1221020,
-  "name": "TANJUNG"
+  "districtName": "ULU BARUMUN",
+  "name": "TANJUNG",
+  "postalCode": "24562"
  },
  {
   "id": 1221020031,
   "districtId": 1221020,
-  "name": "SIRAISAN"
+  "districtName": "ULU BARUMUN",
+  "name": "SIRAISAN",
+  "postalCode": "22763"
  },
  {
   "id": 1221020032,
   "districtId": 1221020,
-  "name": "AEKHARUAYA)"
+  "districtName": "ULU BARUMUN",
+  "name": "AEKHARUAYA)",
+  "postalCode": ""
  },
  {
   "id": 1221020033,
   "districtId": 1221020,
-  "name": "SIBUAL BUALI"
+  "districtName": "ULU BARUMUN",
+  "name": "SIBUAL BUALI",
+  "postalCode": "22763"
  }
 ]

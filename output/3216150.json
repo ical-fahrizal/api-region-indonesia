@@ -2,31 +2,43 @@
  {
   "id": 3216150001,
   "districtId": 3216150,
-  "name": "PANTAI HARAPANJAYA"
+  "districtName": "MUARA GEMBONG",
+  "name": "PANTAI HARAPANJAYA",
+  "postalCode": ""
  },
  {
   "id": 3216150002,
   "districtId": 3216150,
-  "name": "PANTAIMEKAR"
+  "districtName": "MUARA GEMBONG",
+  "name": "PANTAIMEKAR",
+  "postalCode": ""
  },
  {
   "id": 3216150003,
   "districtId": 3216150,
-  "name": "PANTAI SEDERHANA"
+  "districtName": "MUARA GEMBONG",
+  "name": "PANTAI SEDERHANA",
+  "postalCode": "17730"
  },
  {
   "id": 3216150004,
   "districtId": 3216150,
-  "name": "PANTAIBAKTI"
+  "districtName": "MUARA GEMBONG",
+  "name": "PANTAIBAKTI",
+  "postalCode": ""
  },
  {
   "id": 3216150005,
   "districtId": 3216150,
-  "name": "PANTAIBAHAGIA"
+  "districtName": "MUARA GEMBONG",
+  "name": "PANTAIBAHAGIA",
+  "postalCode": ""
  },
  {
   "id": 3216150006,
   "districtId": 3216150,
-  "name": "JAYASAKTI"
+  "districtName": "MUARA GEMBONG",
+  "name": "JAYASAKTI",
+  "postalCode": "17730"
  }
 ]

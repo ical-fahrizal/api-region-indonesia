@@ -2,46 +2,64 @@
  {
   "id": 5371020001,
   "districtId": 5371020,
-  "name": "FATUKOA"
+  "districtName": "MAULAFA",
+  "name": "FATUKOA",
+  "postalCode": "85144"
  },
  {
   "id": 5371020002,
   "districtId": 5371020,
-  "name": "SIKUMANA"
+  "districtName": "MAULAFA",
+  "name": "SIKUMANA",
+  "postalCode": "85143"
  },
  {
   "id": 5371020003,
   "districtId": 5371020,
-  "name": "BELLO"
+  "districtName": "MAULAFA",
+  "name": "BELLO",
+  "postalCode": "85148"
  },
  {
   "id": 5371020004,
   "districtId": 5371020,
-  "name": "KOLHUA"
+  "districtName": "MAULAFA",
+  "name": "KOLHUA",
+  "postalCode": "85146"
  },
  {
   "id": 5371020005,
   "districtId": 5371020,
-  "name": "PENFUI"
+  "districtName": "MAULAFA",
+  "name": "PENFUI",
+  "postalCode": "85148"
  },
  {
   "id": 5371020006,
   "districtId": 5371020,
-  "name": "NAIMATA"
+  "districtName": "MAULAFA",
+  "name": "NAIMATA",
+  "postalCode": "85147"
  },
  {
   "id": 5371020007,
   "districtId": 5371020,
-  "name": "MAULAFA"
+  "districtName": "MAULAFA",
+  "name": "MAULAFA",
+  "postalCode": "85141"
  },
  {
   "id": 5371020008,
   "districtId": 5371020,
-  "name": "OEPURA"
+  "districtName": "MAULAFA",
+  "name": "OEPURA",
+  "postalCode": "85142"
  },
  {
   "id": 5371020009,
   "districtId": 5371020,
-  "name": "NAIKOLAN"
+  "districtName": "MAULAFA",
+  "name": "NAIKOLAN",
+  "postalCode": "85142"
  }
 ]

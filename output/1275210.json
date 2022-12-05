@@ -2,31 +2,43 @@
  {
   "id": 1275210001,
   "districtId": 1275210,
-  "name": "BELAWAN PULAU SICANANG"
+  "districtName": "MEDAN BELAWAN",
+  "name": "BELAWAN PULAU SICANANG",
+  "postalCode": ""
  },
  {
   "id": 1275210002,
   "districtId": 1275210,
-  "name": "BELAWAN BAHAGIA"
+  "districtName": "MEDAN BELAWAN",
+  "name": "BELAWAN BAHAGIA",
+  "postalCode": "20415"
  },
  {
   "id": 1275210003,
   "districtId": 1275210,
-  "name": "BELAWAN BAHARI"
+  "districtName": "MEDAN BELAWAN",
+  "name": "BELAWAN BAHARI",
+  "postalCode": "20414"
  },
  {
   "id": 1275210004,
   "districtId": 1275210,
-  "name": "BELAWAN II"
+  "districtName": "MEDAN BELAWAN",
+  "name": "BELAWAN II",
+  "postalCode": "20412"
  },
  {
   "id": 1275210005,
   "districtId": 1275210,
-  "name": "BAGAN DELI"
+  "districtName": "MEDAN BELAWAN",
+  "name": "BAGAN DELI",
+  "postalCode": "20414"
  },
  {
   "id": 1275210006,
   "districtId": 1275210,
-  "name": "BELAWAN I"
+  "districtName": "MEDAN BELAWAN",
+  "name": "BELAWAN I",
+  "postalCode": "20411"
  }
 ]

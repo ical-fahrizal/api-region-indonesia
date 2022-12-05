@@ -2,51 +2,71 @@
  {
   "id": 3520020001,
   "districtId": 3520020,
-  "name": "SAYUTAN"
+  "districtName": "PARANG",
+  "name": "SAYUTAN",
+  "postalCode": "63371"
  },
  {
   "id": 3520020002,
   "districtId": 3520020,
-  "name": "NGLOPANG"
+  "districtName": "PARANG",
+  "name": "NGLOPANG",
+  "postalCode": "63371"
  },
  {
   "id": 3520020003,
   "districtId": 3520020,
-  "name": "MATEGAL"
+  "districtName": "PARANG",
+  "name": "MATEGAL",
+  "postalCode": "63371"
  },
  {
   "id": 3520020005,
   "districtId": 3520020,
-  "name": "TROSONO"
+  "districtName": "PARANG",
+  "name": "TROSONO",
+  "postalCode": "63371"
  },
  {
   "id": 3520020007,
   "districtId": 3520020,
-  "name": "NGAGLIK"
+  "districtName": "PARANG",
+  "name": "NGAGLIK",
+  "postalCode": "57697"
  },
  {
   "id": 3520020008,
   "districtId": 3520020,
-  "name": "PARANG"
+  "districtName": "PARANG",
+  "name": "PARANG",
+  "postalCode": "59455"
  },
  {
   "id": 3520020009,
   "districtId": 3520020,
-  "name": "TAMANARUM"
+  "districtName": "PARANG",
+  "name": "TAMANARUM",
+  "postalCode": "63371"
  },
  {
   "id": 3520020010,
   "districtId": 3520020,
-  "name": "PRAGAK"
+  "districtName": "PARANG",
+  "name": "PRAGAK",
+  "postalCode": "63371"
  },
  {
   "id": 3520020012,
   "districtId": 3520020,
-  "name": "KRAJAN"
+  "districtName": "PARANG",
+  "name": "KRAJAN",
+  "postalCode": "57557"
  },
  {
   "id": 3520020013,
   "districtId": 3520020,
-  "name": "JOKETRO"
+  "districtName": "PARANG",
+  "name": "JOKETRO",
+  "postalCode": "63371"
  }
 ]

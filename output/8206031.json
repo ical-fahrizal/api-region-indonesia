@@ -2,41 +2,57 @@
  {
   "id": 8206031001,
   "districtId": 8206031,
-  "name": "DAKA INO"
+  "districtName": "WASILE TIMUR",
+  "name": "DAKA INO",
+  "postalCode": "97863"
  },
  {
   "id": 8206031002,
   "districtId": 8206031,
-  "name": "AKE DAGA"
+  "districtName": "WASILE TIMUR",
+  "name": "AKE DAGA",
+  "postalCode": "97863"
  },
  {
   "id": 8206031003,
   "districtId": 8206031,
-  "name": "TOBOINO"
+  "districtName": "WASILE TIMUR",
+  "name": "TOBOINO",
+  "postalCode": "97863"
  },
  {
   "id": 8206031004,
   "districtId": 8206031,
-  "name": "DODAGA"
+  "districtName": "WASILE TIMUR",
+  "name": "DODAGA",
+  "postalCode": "97863"
  },
  {
   "id": 8206031005,
   "districtId": 8206031,
-  "name": "TUTULING JAYA"
+  "districtName": "WASILE TIMUR",
+  "name": "TUTULING JAYA",
+  "postalCode": "97863"
  },
  {
   "id": 8206031006,
   "districtId": 8206031,
-  "name": "WOKA JAYA"
+  "districtName": "WASILE TIMUR",
+  "name": "WOKA JAYA",
+  "postalCode": "97863"
  },
  {
   "id": 8206031007,
   "districtId": 8206031,
-  "name": "RAWAMANGUN"
+  "districtName": "WASILE TIMUR",
+  "name": "RAWAMANGUN",
+  "postalCode": "13220"
  },
  {
   "id": 8206031008,
   "districtId": 8206031,
-  "name": "SIDOMULYO"
+  "districtName": "WASILE TIMUR",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  }
 ]

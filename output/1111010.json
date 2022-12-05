@@ -2,196 +2,274 @@
  {
   "id": 1111010001,
   "districtId": 1111010,
-  "name": "RISEH TUNONG"
+  "districtName": "SAWANG",
+  "name": "RISEH TUNONG",
+  "postalCode": "24377"
  },
  {
   "id": 1111010002,
   "districtId": 1111010,
-  "name": "GUNCI"
+  "districtName": "SAWANG",
+  "name": "GUNCI",
+  "postalCode": "24377"
  },
  {
   "id": 1111010003,
   "districtId": 1111010,
-  "name": "KUBU"
+  "districtName": "SAWANG",
+  "name": "KUBU",
+  "postalCode": "23652"
  },
  {
   "id": 1111010004,
   "districtId": 1111010,
-  "name": "BLANG CUT"
+  "districtName": "SAWANG",
+  "name": "BLANG CUT",
+  "postalCode": "24375"
  },
  {
   "id": 1111010005,
   "districtId": 1111010,
-  "name": "RISEH TEUNGOH"
+  "districtName": "SAWANG",
+  "name": "RISEH TEUNGOH",
+  "postalCode": "24377"
  },
  {
   "id": 1111010006,
   "districtId": 1111010,
-  "name": "RISEH BAROH"
+  "districtName": "SAWANG",
+  "name": "RISEH BAROH",
+  "postalCode": "24377"
  },
  {
   "id": 1111010007,
   "districtId": 1111010,
-  "name": "LHOK CUT"
+  "districtName": "SAWANG",
+  "name": "LHOK CUT",
+  "postalCode": "24377"
  },
  {
   "id": 1111010008,
   "districtId": 1111010,
-  "name": "SAWANG"
+  "districtName": "SAWANG",
+  "name": "SAWANG",
+  "postalCode": "24184"
  },
  {
   "id": 1111010009,
   "districtId": 1111010,
-  "name": "BLANG TEURAKAN"
+  "districtName": "SAWANG",
+  "name": "BLANG TEURAKAN",
+  "postalCode": "24377"
  },
  {
   "id": 1111010010,
   "districtId": 1111010,
-  "name": "JURONG"
+  "districtName": "SAWANG",
+  "name": "JURONG",
+  "postalCode": "24172"
  },
  {
   "id": 1111010011,
   "districtId": 1111010,
-  "name": "BLANG MANYAK"
+  "districtName": "SAWANG",
+  "name": "BLANG MANYAK",
+  "postalCode": "24377"
  },
  {
   "id": 1111010012,
   "districtId": 1111010,
-  "name": "LHOK JOK"
+  "districtName": "SAWANG",
+  "name": "LHOK JOK",
+  "postalCode": "24371"
  },
  {
   "id": 1111010013,
   "districtId": 1111010,
-  "name": "BABAH KRUENG"
+  "districtName": "SAWANG",
+  "name": "BABAH KRUENG",
+  "postalCode": "24188"
  },
  {
   "id": 1111010014,
   "districtId": 1111010,
-  "name": "RAMBONG PAYONG"
+  "districtName": "SAWANG",
+  "name": "RAMBONG PAYONG",
+  "postalCode": "24263"
  },
  {
   "id": 1111010015,
   "districtId": 1111010,
-  "name": "TEUPIN RUSEP"
+  "districtName": "SAWANG",
+  "name": "TEUPIN RUSEP",
+  "postalCode": ""
  },
  {
   "id": 1111010016,
   "districtId": 1111010,
-  "name": "LANCOK"
+  "districtName": "SAWANG",
+  "name": "LANCOK",
+  "postalCode": "24186"
  },
  {
   "id": 1111010017,
   "districtId": 1111010,
-  "name": "LHOK BAYU"
+  "districtName": "SAWANG",
+  "name": "LHOK BAYU",
+  "postalCode": "24377"
  },
  {
   "id": 1111010018,
   "districtId": 1111010,
-  "name": "PAYA RABO TIMU"
+  "districtName": "SAWANG",
+  "name": "PAYA RABO TIMU",
+  "postalCode": ""
  },
  {
   "id": 1111010019,
   "districtId": 1111010,
-  "name": "PAYA RABO LHOK"
+  "districtName": "SAWANG",
+  "name": "PAYA RABO LHOK",
+  "postalCode": "24377"
  },
  {
   "id": 1111010020,
   "districtId": 1111010,
-  "name": "KRUENG BARO"
+  "districtName": "SAWANG",
+  "name": "KRUENG BARO",
+  "postalCode": "24377"
  },
  {
   "id": 1111010021,
   "districtId": 1111010,
-  "name": "BLANG REULING"
+  "districtName": "SAWANG",
+  "name": "BLANG REULING",
+  "postalCode": "24377"
  },
  {
   "id": 1111010022,
   "districtId": 1111010,
-  "name": "PUNTEUET"
+  "districtName": "SAWANG",
+  "name": "PUNTEUET",
+  "postalCode": ""
  },
  {
   "id": 1111010023,
   "districtId": 1111010,
-  "name": "MEUNASAH PULO"
+  "districtName": "SAWANG",
+  "name": "MEUNASAH PULO",
+  "postalCode": "24262"
  },
  {
   "id": 1111010024,
   "districtId": 1111010,
-  "name": "LHOK KUYUEN"
+  "districtName": "SAWANG",
+  "name": "LHOK KUYUEN",
+  "postalCode": ""
  },
  {
   "id": 1111010025,
   "districtId": 1111010,
-  "name": "LHOK GAJAH"
+  "districtName": "SAWANG",
+  "name": "LHOK GAJAH",
+  "postalCode": "23766"
  },
  {
   "id": 1111010026,
   "districtId": 1111010,
-  "name": "PANTE JALOH"
+  "districtName": "SAWANG",
+  "name": "PANTE JALOH",
+  "postalCode": "24377"
  },
  {
   "id": 1111010027,
   "districtId": 1111010,
-  "name": "BABAH BULOH"
+  "districtName": "SAWANG",
+  "name": "BABAH BULOH",
+  "postalCode": "24377"
  },
  {
   "id": 1111010028,
   "districtId": 1111010,
-  "name": "COT LAMBIDENG"
+  "districtName": "SAWANG",
+  "name": "COT LAMBIDENG",
+  "postalCode": "24377"
  },
  {
   "id": 1111010029,
   "districtId": 1111010,
-  "name": "GAMPONG TEUNGOH"
+  "districtName": "SAWANG",
+  "name": "GAMPONG TEUNGOH",
+  "postalCode": "24416"
  },
  {
   "id": 1111010030,
   "districtId": 1111010,
-  "name": "PAYA GABOH"
+  "districtName": "SAWANG",
+  "name": "PAYA GABOH",
+  "postalCode": "24454"
  },
  {
   "id": 1111010031,
   "districtId": 1111010,
-  "name": "KUTA MEULIGOE"
+  "districtName": "SAWANG",
+  "name": "KUTA MEULIGOE",
+  "postalCode": "24251"
  },
  {
   "id": 1111010032,
   "districtId": 1111010,
-  "name": "ABEUK REULING"
+  "districtName": "SAWANG",
+  "name": "ABEUK REULING",
+  "postalCode": "24377"
  },
  {
   "id": 1111010033,
   "districtId": 1111010,
-  "name": "COT KEUMUNENG"
+  "districtName": "SAWANG",
+  "name": "COT KEUMUNENG",
+  "postalCode": "23652"
  },
  {
   "id": 1111010034,
   "districtId": 1111010,
-  "name": "ULEE GEUDONG"
+  "districtName": "SAWANG",
+  "name": "ULEE GEUDONG",
+  "postalCode": "24377"
  },
  {
   "id": 1111010035,
   "districtId": 1111010,
-  "name": "TANJONG KEUMALA"
+  "districtName": "SAWANG",
+  "name": "TANJONG KEUMALA",
+  "postalCode": "24377"
  },
  {
   "id": 1111010036,
   "districtId": 1111010,
-  "name": "LHOK KREK"
+  "districtName": "SAWANG",
+  "name": "LHOK KREK",
+  "postalCode": "24377"
  },
  {
   "id": 1111010037,
   "districtId": 1111010,
-  "name": "GLEE DAGANG"
+  "districtName": "SAWANG",
+  "name": "GLEE DAGANG",
+  "postalCode": "24377"
  },
  {
   "id": 1111010038,
   "districtId": 1111010,
-  "name": "LAGANG"
+  "districtName": "SAWANG",
+  "name": "LAGANG",
+  "postalCode": "23352"
  },
  {
   "id": 1111010039,
   "districtId": 1111010,
-  "name": "LHOK MERBO"
+  "districtName": "SAWANG",
+  "name": "LHOK MERBO",
+  "postalCode": "24394"
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 7108050001,
   "districtId": 7108050,
-  "name": "TANAKI"
+  "districtName": "SIAU BARAT SELATAN",
+  "name": "TANAKI",
+  "postalCode": "95862"
  },
  {
   "id": 7108050002,
   "districtId": 7108050,
-  "name": "KAPETA"
+  "districtName": "SIAU BARAT SELATAN",
+  "name": "KAPETA",
+  "postalCode": "95862"
  },
  {
   "id": 7108050003,
   "districtId": 7108050,
-  "name": "TALAWID"
+  "districtName": "SIAU BARAT SELATAN",
+  "name": "TALAWID",
+  "postalCode": "95852"
  },
  {
   "id": 7108050004,
   "districtId": 7108050,
-  "name": "MAKOA/MEKAR SARI"
+  "districtName": "SIAU BARAT SELATAN",
+  "name": "MAKOA/MEKAR SARI",
+  "postalCode": ""
  },
  {
   "id": 7108050005,
   "districtId": 7108050,
-  "name": "LAGHAENG"
+  "districtName": "SIAU BARAT SELATAN",
+  "name": "LAGHAENG",
+  "postalCode": "95862"
  },
  {
   "id": 7108050006,
   "districtId": 7108050,
-  "name": "BATUSENGGO"
+  "districtName": "SIAU BARAT SELATAN",
+  "name": "BATUSENGGO",
+  "postalCode": "95862"
  },
  {
   "id": 7108050007,
   "districtId": 7108050,
-  "name": "MAHUNENI"
+  "districtName": "SIAU BARAT SELATAN",
+  "name": "MAHUNENI",
+  "postalCode": "95862"
  }
 ]

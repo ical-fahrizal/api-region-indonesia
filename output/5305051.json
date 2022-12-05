@@ -2,21 +2,29 @@
  {
   "id": 5305051001,
   "districtId": 5305051,
-  "name": "T'EBA"
+  "districtName": "BIBOKI TANPAH",
+  "name": "T'EBA",
+  "postalCode": ""
  },
  {
   "id": 5305051002,
   "districtId": 5305051,
-  "name": "OERINBESI"
+  "districtName": "BIBOKI TANPAH",
+  "name": "OERINBESI",
+  "postalCode": "85681"
  },
  {
   "id": 5305051003,
   "districtId": 5305051,
-  "name": "OEKOPA"
+  "districtName": "BIBOKI TANPAH",
+  "name": "OEKOPA",
+  "postalCode": "85681"
  },
  {
   "id": 5305051004,
   "districtId": 5305051,
-  "name": "T'EBA TIMUR"
+  "districtName": "BIBOKI TANPAH",
+  "name": "T'EBA TIMUR",
+  "postalCode": ""
  }
 ]

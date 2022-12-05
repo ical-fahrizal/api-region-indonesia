@@ -2,101 +2,141 @@
  {
   "id": 3327090001,
   "districtId": 3327090,
-  "name": "PENGGARIT"
+  "districtName": "TAMAN",
+  "name": "PENGGARIT",
+  "postalCode": "52361"
  },
  {
   "id": 3327090003,
   "districtId": 3327090,
-  "name": "GONDANG"
+  "districtName": "TAMAN",
+  "name": "GONDANG",
+  "postalCode": "51255"
  },
  {
   "id": 3327090004,
   "districtId": 3327090,
-  "name": "JRAKAH"
+  "districtName": "TAMAN",
+  "name": "JRAKAH",
+  "postalCode": "54224"
  },
  {
   "id": 3327090005,
   "districtId": 3327090,
-  "name": "SOKAWANGI"
+  "districtName": "TAMAN",
+  "name": "SOKAWANGI",
+  "postalCode": "52361"
  },
  {
   "id": 3327090006,
   "districtId": 3327090,
-  "name": "KEJAMBON"
+  "districtName": "TAMAN",
+  "name": "KEJAMBON",
+  "postalCode": "52361"
  },
  {
   "id": 3327090007,
   "districtId": 3327090,
-  "name": "JEBED SELATAN"
+  "districtName": "TAMAN",
+  "name": "JEBED SELATAN",
+  "postalCode": "52361"
  },
  {
   "id": 3327090008,
   "districtId": 3327090,
-  "name": "JEBED UTARA"
+  "districtName": "TAMAN",
+  "name": "JEBED UTARA",
+  "postalCode": "52361"
  },
  {
   "id": 3327090009,
   "districtId": 3327090,
-  "name": "CIBELOK"
+  "districtName": "TAMAN",
+  "name": "CIBELOK",
+  "postalCode": "52361"
  },
  {
   "id": 3327090010,
   "districtId": 3327090,
-  "name": "KALIGELANG"
+  "districtName": "TAMAN",
+  "name": "KALIGELANG",
+  "postalCode": "52361"
  },
  {
   "id": 3327090011,
   "districtId": 3327090,
-  "name": "BANJARDAWA"
+  "districtName": "TAMAN",
+  "name": "BANJARDAWA",
+  "postalCode": "52361"
  },
  {
   "id": 3327090012,
   "districtId": 3327090,
-  "name": "BANJARAN"
+  "districtName": "TAMAN",
+  "name": "BANJARAN",
+  "postalCode": "35451"
  },
  {
   "id": 3327090013,
   "districtId": 3327090,
-  "name": "SITEMU"
+  "districtName": "TAMAN",
+  "name": "SITEMU",
+  "postalCode": "52361"
  },
  {
   "id": 3327090014,
   "districtId": 3327090,
-  "name": "PEDURUNGAN"
+  "districtName": "TAMAN",
+  "name": "PEDURUNGAN",
+  "postalCode": "52361"
  },
  {
   "id": 3327090015,
   "districtId": 3327090,
-  "name": "TAMAN"
+  "districtName": "TAMAN",
+  "name": "TAMAN",
+  "postalCode": "52361"
  },
  {
   "id": 3327090016,
   "districtId": 3327090,
-  "name": "WANAREJAN SELATAN"
+  "districtName": "TAMAN",
+  "name": "WANAREJAN SELATAN",
+  "postalCode": "52361"
  },
  {
   "id": 3327090017,
   "districtId": 3327090,
-  "name": "WANAREJAN UTARA"
+  "districtName": "TAMAN",
+  "name": "WANAREJAN UTARA",
+  "postalCode": "52361"
  },
  {
   "id": 3327090018,
   "districtId": 3327090,
-  "name": "BEJI"
+  "districtName": "TAMAN",
+  "name": "BEJI",
+  "postalCode": "16421"
  },
  {
   "id": 3327090019,
   "districtId": 3327090,
-  "name": "KABUNAN"
+  "districtName": "TAMAN",
+  "name": "KABUNAN",
+  "postalCode": "52451"
  },
  {
   "id": 3327090020,
   "districtId": 3327090,
-  "name": "ASEMDOYONG"
+  "districtName": "TAMAN",
+  "name": "ASEMDOYONG",
+  "postalCode": "52361"
  },
  {
   "id": 3327090021,
   "districtId": 3327090,
-  "name": "KEDUNGBANJAR"
+  "districtName": "TAMAN",
+  "name": "KEDUNGBANJAR",
+  "postalCode": "52361"
  }
 ]

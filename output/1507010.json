@@ -2,51 +2,71 @@
  {
   "id": 1507010016,
   "districtId": 1507010,
-  "name": "BADANG"
+  "districtName": "TUNGKAL ULU",
+  "name": "BADANG",
+  "postalCode": "36552"
  },
  {
   "id": 1507010017,
   "districtId": 1507010,
-  "name": "TANJUNG TAYAS"
+  "districtName": "TUNGKAL ULU",
+  "name": "TANJUNG TAYAS",
+  "postalCode": "36552"
  },
  {
   "id": 1507010018,
   "districtId": 1507010,
-  "name": "KUALA DASAL"
+  "districtName": "TUNGKAL ULU",
+  "name": "KUALA DASAL",
+  "postalCode": "36552"
  },
  {
   "id": 1507010019,
   "districtId": 1507010,
-  "name": "PEMATANG PAUH"
+  "districtName": "TUNGKAL ULU",
+  "name": "PEMATANG PAUH",
+  "postalCode": "37372"
  },
  {
   "id": 1507010025,
   "districtId": 1507010,
-  "name": "PELABUHAN DAGANG"
+  "districtName": "TUNGKAL ULU",
+  "name": "PELABUHAN DAGANG",
+  "postalCode": "36552"
  },
  {
   "id": 1507010026,
   "districtId": 1507010,
-  "name": "TAMAN RAJA"
+  "districtName": "TUNGKAL ULU",
+  "name": "TAMAN RAJA",
+  "postalCode": "36552"
  },
  {
   "id": 1507010036,
   "districtId": 1507010,
-  "name": "BRASAU"
+  "districtName": "TUNGKAL ULU",
+  "name": "BRASAU",
+  "postalCode": "36552"
  },
  {
   "id": 1507010037,
   "districtId": 1507010,
-  "name": "BADANG SEPAKAT"
+  "districtName": "TUNGKAL ULU",
+  "name": "BADANG SEPAKAT",
+  "postalCode": "36552"
  },
  {
   "id": 1507010038,
   "districtId": 1507010,
-  "name": "GEMURUH"
+  "districtName": "TUNGKAL ULU",
+  "name": "GEMURUH",
+  "postalCode": "36552"
  },
  {
   "id": 1507010039,
   "districtId": 1507010,
-  "name": "PEMATANG TEMBESU"
+  "districtName": "TUNGKAL ULU",
+  "name": "PEMATANG TEMBESU",
+  "postalCode": "36552"
  }
 ]

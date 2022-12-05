@@ -2,71 +2,99 @@
  {
   "id": 1219010002,
   "districtId": 1219010,
-  "name": "PERKEBUNAN SEI BALAI"
+  "districtName": "SEI BALAI",
+  "name": "PERKEBUNAN SEI BALAI",
+  "postalCode": "21252"
  },
  {
   "id": 1219010003,
   "districtId": 1219010,
-  "name": "SUKA RAMAI"
+  "districtName": "SEI BALAI",
+  "name": "SUKA RAMAI",
+  "postalCode": "23662"
  },
  {
   "id": 1219010004,
   "districtId": 1219010,
-  "name": "SEI BEJANGKAR"
+  "districtName": "SEI BALAI",
+  "name": "SEI BEJANGKAR",
+  "postalCode": ""
  },
  {
   "id": 1219010005,
   "districtId": 1219010,
-  "name": "PERKEBUNAN SEI BEJANGKAR"
+  "districtName": "SEI BALAI",
+  "name": "PERKEBUNAN SEI BEJANGKAR",
+  "postalCode": "21252"
  },
  {
   "id": 1219010006,
   "districtId": 1219010,
-  "name": "SEI BALAI"
+  "districtName": "SEI BALAI",
+  "name": "SEI BALAI",
+  "postalCode": "21252"
  },
  {
   "id": 1219010007,
   "districtId": 1219010,
-  "name": "MEKAR MULIO"
+  "districtName": "SEI BALAI",
+  "name": "MEKAR MULIO",
+  "postalCode": "21252"
  },
  {
   "id": 1219010008,
   "districtId": 1219010,
-  "name": "KWALA SIKASIM"
+  "districtName": "SEI BALAI",
+  "name": "KWALA SIKASIM",
+  "postalCode": "21252"
  },
  {
   "id": 1219010010,
   "districtId": 1219010,
-  "name": "DURIAN"
+  "districtName": "SEI BALAI",
+  "name": "DURIAN",
+  "postalCode": "20621"
  },
  {
   "id": 1219010011,
   "districtId": 1219010,
-  "name": "PERJUANGAN"
+  "districtName": "SEI BALAI",
+  "name": "PERJUANGAN",
+  "postalCode": "22873"
  },
  {
   "id": 1219010012,
   "districtId": 1219010,
-  "name": "SUKO REJO"
+  "districtName": "SEI BALAI",
+  "name": "SUKO REJO",
+  "postalCode": "21252"
  },
  {
   "id": 1219010013,
   "districtId": 1219010,
-  "name": "BENTENG JAYA"
+  "districtName": "SEI BALAI",
+  "name": "BENTENG JAYA",
+  "postalCode": "21252"
  },
  {
   "id": 1219010014,
   "districtId": 1219010,
-  "name": "TANAH TIMBUL"
+  "districtName": "SEI BALAI",
+  "name": "TANAH TIMBUL",
+  "postalCode": "21252"
  },
  {
   "id": 1219010015,
   "districtId": 1219010,
-  "name": "SIDOMULIO"
+  "districtName": "SEI BALAI",
+  "name": "SIDOMULIO",
+  "postalCode": "22763"
  },
  {
   "id": 1219010016,
   "districtId": 1219010,
-  "name": "MEKAR BARU"
+  "districtName": "SEI BALAI",
+  "name": "MEKAR BARU",
+  "postalCode": "21216"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 7103110001,
   "districtId": 7103110,
-  "name": "KENDAHE DUA"
+  "districtName": "KENDAHE",
+  "name": "KENDAHE DUA",
+  "postalCode": "95852"
  },
  {
   "id": 7103110002,
   "districtId": 7103110,
-  "name": "KENDAHE SATU"
+  "districtName": "KENDAHE",
+  "name": "KENDAHE SATU",
+  "postalCode": "95852"
  },
  {
   "id": 7103110003,
   "districtId": 7103110,
-  "name": "TALAWID"
+  "districtName": "KENDAHE",
+  "name": "TALAWID",
+  "postalCode": "95852"
  },
  {
   "id": 7103110004,
   "districtId": 7103110,
-  "name": "TARIANGLAMA"
+  "districtName": "KENDAHE",
+  "name": "TARIANGLAMA",
+  "postalCode": "95852"
  },
  {
   "id": 7103110005,
   "districtId": 7103110,
-  "name": "PEMPALARAENG"
+  "districtName": "KENDAHE",
+  "name": "PEMPALARAENG",
+  "postalCode": "95852"
  },
  {
   "id": 7103110006,
   "districtId": 7103110,
-  "name": "MOHONGSAWANG"
+  "districtName": "KENDAHE",
+  "name": "MOHONGSAWANG",
+  "postalCode": "95852"
  },
  {
   "id": 7103110007,
   "districtId": 7103110,
-  "name": "LIPAENG"
+  "districtName": "KENDAHE",
+  "name": "LIPAENG",
+  "postalCode": ""
  },
  {
   "id": 7103110008,
   "districtId": 7103110,
-  "name": "KAWALUSO"
+  "districtName": "KENDAHE",
+  "name": "KAWALUSO",
+  "postalCode": "95852"
  }
 ]

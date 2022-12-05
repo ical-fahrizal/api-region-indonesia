@@ -2,41 +2,57 @@
  {
   "id": 3301110001,
   "districtId": 3301110,
-  "name": "BANTARSARI"
+  "districtName": "BANTARSARI",
+  "name": "BANTARSARI",
+  "postalCode": "46151"
  },
  {
   "id": 3301110002,
   "districtId": 3301110,
-  "name": "RAWAJAYA"
+  "districtName": "BANTARSARI",
+  "name": "RAWAJAYA",
+  "postalCode": "30653"
  },
  {
   "id": 3301110003,
   "districtId": 3301110,
-  "name": "BINANGUN"
+  "districtName": "BANTARSARI",
+  "name": "BINANGUN",
+  "postalCode": "46316"
  },
  {
   "id": 3301110004,
   "districtId": 3301110,
-  "name": "BULAKSARI"
+  "districtName": "BANTARSARI",
+  "name": "BULAKSARI",
+  "postalCode": "53281"
  },
  {
   "id": 3301110005,
   "districtId": 3301110,
-  "name": "KAMULYAN"
+  "districtName": "BANTARSARI",
+  "name": "KAMULYAN",
+  "postalCode": "46197"
  },
  {
   "id": 3301110006,
   "districtId": 3301110,
-  "name": "CIKEDONDONG"
+  "districtName": "BANTARSARI",
+  "name": "CIKEDONDONG",
+  "postalCode": "53281"
  },
  {
   "id": 3301110007,
   "districtId": 3301110,
-  "name": "KEDUNGWADAS"
+  "districtName": "BANTARSARI",
+  "name": "KEDUNGWADAS",
+  "postalCode": "53281"
  },
  {
   "id": 3301110008,
   "districtId": 3301110,
-  "name": "CITEMBONG"
+  "districtName": "BANTARSARI",
+  "name": "CITEMBONG",
+  "postalCode": "53281"
  }
 ]

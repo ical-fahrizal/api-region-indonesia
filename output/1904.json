@@ -2,31 +2,37 @@
  {
   "id": 1904010,
   "regencieId": 1904,
+  "regencieName": "KABUPATEN BANGKA TENGAH",
   "name": "KOBA"
  },
  {
   "id": 1904011,
   "regencieId": 1904,
+  "regencieName": "KABUPATEN BANGKA TENGAH",
   "name": "LUBUK BESAR"
  },
  {
   "id": 1904020,
   "regencieId": 1904,
+  "regencieName": "KABUPATEN BANGKA TENGAH",
   "name": "PANGKALAN BARU"
  },
  {
   "id": 1904021,
   "regencieId": 1904,
+  "regencieName": "KABUPATEN BANGKA TENGAH",
   "name": "NAMANG"
  },
  {
   "id": 1904030,
   "regencieId": 1904,
+  "regencieName": "KABUPATEN BANGKA TENGAH",
   "name": "SUNGAI SELAN"
  },
  {
   "id": 1904040,
   "regencieId": 1904,
+  "regencieName": "KABUPATEN BANGKA TENGAH",
   "name": "SIMPANG KATIS"
  }
 ]

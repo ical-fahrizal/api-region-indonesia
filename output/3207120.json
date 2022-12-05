@@ -2,71 +2,99 @@
  {
   "id": 3207120001,
   "districtId": 3207120,
-  "name": "SIDAMULIH"
+  "districtName": "PAMARICAN",
+  "name": "SIDAMULIH",
+  "postalCode": "46365"
  },
  {
   "id": 3207120002,
   "districtId": 3207120,
-  "name": "MARGAJAYA"
+  "districtName": "PAMARICAN",
+  "name": "MARGAJAYA",
+  "postalCode": "17141"
  },
  {
   "id": 3207120003,
   "districtId": 3207120,
-  "name": "NEGLASARI"
+  "districtName": "PAMARICAN",
+  "name": "NEGLASARI",
+  "postalCode": "35452"
  },
  {
   "id": 3207120004,
   "districtId": 3207120,
-  "name": "PAMARICAN"
+  "districtName": "PAMARICAN",
+  "name": "PAMARICAN",
+  "postalCode": "46382"
  },
  {
   "id": 3207120005,
   "districtId": 3207120,
-  "name": "SUKAHURIP"
+  "districtName": "PAMARICAN",
+  "name": "SUKAHURIP",
+  "postalCode": "44116"
  },
  {
   "id": 3207120006,
   "districtId": 3207120,
-  "name": "KERTAHAYU"
+  "districtName": "PAMARICAN",
+  "name": "KERTAHAYU",
+  "postalCode": "46361"
  },
  {
   "id": 3207120007,
   "districtId": 3207120,
-  "name": "SUKAJADI"
+  "districtName": "PAMARICAN",
+  "name": "SUKAJADI",
+  "postalCode": "24472"
  },
  {
   "id": 3207120008,
   "districtId": 3207120,
-  "name": "SUKAMUKTI"
+  "districtName": "PAMARICAN",
+  "name": "SUKAMUKTI",
+  "postalCode": "44191"
  },
  {
   "id": 3207120009,
   "districtId": 3207120,
-  "name": "SIDAHARJA"
+  "districtName": "PAMARICAN",
+  "name": "SIDAHARJA",
+  "postalCode": "46385"
  },
  {
   "id": 3207120010,
   "districtId": 3207120,
-  "name": "BANGUNSARI"
+  "districtName": "PAMARICAN",
+  "name": "BANGUNSARI",
+  "postalCode": "35361"
  },
  {
   "id": 3207120011,
   "districtId": 3207120,
-  "name": "SUKAJAYA"
+  "districtName": "PAMARICAN",
+  "name": "SUKAJAYA",
+  "postalCode": "30756"
  },
  {
   "id": 3207120012,
   "districtId": 3207120,
-  "name": "BANTARSARI"
+  "districtName": "PAMARICAN",
+  "name": "BANTARSARI",
+  "postalCode": "46151"
  },
  {
   "id": 3207120013,
   "districtId": 3207120,
-  "name": "PASIRNAGARA"
+  "districtName": "PAMARICAN",
+  "name": "PASIRNAGARA",
+  "postalCode": "46382"
  },
  {
   "id": 3207120014,
   "districtId": 3207120,
-  "name": "MEKARMULYA"
+  "districtName": "PAMARICAN",
+  "name": "MEKARMULYA",
+  "postalCode": "45571"
  }
 ]

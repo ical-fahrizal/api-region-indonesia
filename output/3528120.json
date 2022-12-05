@@ -2,66 +2,92 @@
  {
   "id": 3528120001,
   "districtId": 3528120,
-  "name": "PANGERREMAN"
+  "districtName": "BATU MARMAR",
+  "name": "PANGERREMAN",
+  "postalCode": ""
  },
  {
   "id": 3528120002,
   "districtId": 3528120,
-  "name": "BUJUR BARAT"
+  "districtName": "BATU MARMAR",
+  "name": "BUJUR BARAT",
+  "postalCode": "69354"
  },
  {
   "id": 3528120003,
   "districtId": 3528120,
-  "name": "BUJUR TENGAH"
+  "districtName": "BATU MARMAR",
+  "name": "BUJUR TENGAH",
+  "postalCode": "69354"
  },
  {
   "id": 3528120004,
   "districtId": 3528120,
-  "name": "BUJUR TIMUR"
+  "districtName": "BATU MARMAR",
+  "name": "BUJUR TIMUR",
+  "postalCode": "69354"
  },
  {
   "id": 3528120005,
   "districtId": 3528120,
-  "name": "PONJANAN TIMUR"
+  "districtName": "BATU MARMAR",
+  "name": "PONJANAN TIMUR",
+  "postalCode": "69354"
  },
  {
   "id": 3528120006,
   "districtId": 3528120,
-  "name": "PONJANAN BARAT"
+  "districtName": "BATU MARMAR",
+  "name": "PONJANAN BARAT",
+  "postalCode": "69354"
  },
  {
   "id": 3528120007,
   "districtId": 3528120,
-  "name": "LESONG LAOK"
+  "districtName": "BATU MARMAR",
+  "name": "LESONG LAOK",
+  "postalCode": "69354"
  },
  {
   "id": 3528120008,
   "districtId": 3528120,
-  "name": "BANGSEREH"
+  "districtName": "BATU MARMAR",
+  "name": "BANGSEREH",
+  "postalCode": "69354"
  },
  {
   "id": 3528120009,
   "districtId": 3528120,
-  "name": "BLABAN"
+  "districtName": "BATU MARMAR",
+  "name": "BLABAN",
+  "postalCode": "69354"
  },
  {
   "id": 3528120010,
   "districtId": 3528120,
-  "name": "TAMBERU"
+  "districtName": "BATU MARMAR",
+  "name": "TAMBERU",
+  "postalCode": "69354"
  },
  {
   "id": 3528120011,
   "districtId": 3528120,
-  "name": "BATUBINTANG"
+  "districtName": "BATU MARMAR",
+  "name": "BATUBINTANG",
+  "postalCode": ""
  },
  {
   "id": 3528120012,
   "districtId": 3528120,
-  "name": "LESONG DAJA"
+  "districtName": "BATU MARMAR",
+  "name": "LESONG DAJA",
+  "postalCode": "69354"
  },
  {
   "id": 3528120013,
   "districtId": 3528120,
-  "name": "KAPONG"
+  "districtName": "BATU MARMAR",
+  "name": "KAPONG",
+  "postalCode": "69354"
  }
 ]

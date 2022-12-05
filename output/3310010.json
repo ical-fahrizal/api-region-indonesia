@@ -2,71 +2,99 @@
  {
   "id": 3310010001,
   "districtId": 3310010,
-  "name": "KEBON DALEM KIDUL"
+  "districtName": "PRAMBANAN",
+  "name": "KEBON DALEM KIDUL",
+  "postalCode": "57454"
  },
  {
   "id": 3310010003,
   "districtId": 3310010,
-  "name": "KOTESAN"
+  "districtName": "PRAMBANAN",
+  "name": "KOTESAN",
+  "postalCode": "57454"
  },
  {
   "id": 3310010004,
   "districtId": 3310010,
-  "name": "SENGON"
+  "districtName": "PRAMBANAN",
+  "name": "SENGON",
+  "postalCode": "57454"
  },
  {
   "id": 3310010005,
   "districtId": 3310010,
-  "name": "CUCUKAN"
+  "districtName": "PRAMBANAN",
+  "name": "CUCUKAN",
+  "postalCode": "57454"
  },
  {
   "id": 3310010006,
   "districtId": 3310010,
-  "name": "SANGGRAHAN"
+  "districtName": "PRAMBANAN",
+  "name": "SANGGRAHAN",
+  "postalCode": "57552"
  },
  {
   "id": 3310010008,
   "districtId": 3310010,
-  "name": "KEMUDO"
+  "districtName": "PRAMBANAN",
+  "name": "KEMUDO",
+  "postalCode": "57454"
  },
  {
   "id": 3310010009,
   "districtId": 3310010,
-  "name": "TAJI"
+  "districtName": "PRAMBANAN",
+  "name": "TAJI",
+  "postalCode": "57472"
  },
  {
   "id": 3310010010,
   "districtId": 3310010,
-  "name": "TLOGO"
+  "districtName": "PRAMBANAN",
+  "name": "TLOGO",
+  "postalCode": "56353"
  },
  {
   "id": 3310010011,
   "districtId": 3310010,
-  "name": "BUGISAN"
+  "districtName": "PRAMBANAN",
+  "name": "BUGISAN",
+  "postalCode": "57454"
  },
  {
   "id": 3310010012,
   "districtId": 3310010,
-  "name": "KOKOSAN"
+  "districtName": "PRAMBANAN",
+  "name": "KOKOSAN",
+  "postalCode": "57454"
  },
  {
   "id": 3310010013,
   "districtId": 3310010,
-  "name": "KEBON DALEM LOR"
+  "districtName": "PRAMBANAN",
+  "name": "KEBON DALEM LOR",
+  "postalCode": "57454"
  },
  {
   "id": 3310010014,
   "districtId": 3310010,
-  "name": "BRAJAN"
+  "districtName": "PRAMBANAN",
+  "name": "BRAJAN",
+  "postalCode": "57322"
  },
  {
   "id": 3310010015,
   "districtId": 3310010,
-  "name": "RANDUSARI"
+  "districtName": "PRAMBANAN",
+  "name": "RANDUSARI",
+  "postalCode": "45588"
  },
  {
   "id": 3310010016,
   "districtId": 3310010,
-  "name": "JOHO"
+  "districtName": "PRAMBANAN",
+  "name": "JOHO",
+  "postalCode": "54363"
  }
 ]

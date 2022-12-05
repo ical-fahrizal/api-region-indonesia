@@ -2,41 +2,57 @@
  {
   "id": 7314040001,
   "districtId": 7314040,
-  "name": "MANISA"
+  "districtName": "BARANTI",
+  "name": "MANISA",
+  "postalCode": "91652"
  },
  {
   "id": 7314040002,
   "districtId": 7314040,
-  "name": "PANRENG"
+  "districtName": "BARANTI",
+  "name": "PANRENG",
+  "postalCode": "91652"
  },
  {
   "id": 7314040004,
   "districtId": 7314040,
-  "name": "BARANTI"
+  "districtName": "BARANTI",
+  "name": "BARANTI",
+  "postalCode": "91652"
  },
  {
   "id": 7314040005,
   "districtId": 7314040,
-  "name": "SIPODECENG"
+  "districtName": "BARANTI",
+  "name": "SIPODECENG",
+  "postalCode": "91652"
  },
  {
   "id": 7314040006,
   "districtId": 7314040,
-  "name": "PASSENO"
+  "districtName": "BARANTI",
+  "name": "PASSENO",
+  "postalCode": "91652"
  },
  {
   "id": 7314040007,
   "districtId": 7314040,
-  "name": "DUAMPANUA"
+  "districtName": "BARANTI",
+  "name": "DUAMPANUA",
+  "postalCode": "91652"
  },
  {
   "id": 7314040008,
   "districtId": 7314040,
-  "name": "TONRONGE"
+  "districtName": "BARANTI",
+  "name": "TONRONGE",
+  "postalCode": "91652"
  },
  {
   "id": 7314040009,
   "districtId": 7314040,
-  "name": "TONRONG RIJANG"
+  "districtName": "BARANTI",
+  "name": "TONRONG RIJANG",
+  "postalCode": "91653"
  }
 ]

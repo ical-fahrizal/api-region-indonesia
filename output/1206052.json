@@ -2,51 +2,71 @@
  {
   "id": 1206052001,
   "districtId": 1206052,
-  "name": "LUMBAN RAU TENGAH"
+  "districtName": "NASSAU",
+  "name": "LUMBAN RAU TENGAH",
+  "postalCode": "22383"
  },
  {
   "id": 1206052002,
   "districtId": 1206052,
-  "name": "LUMBAN RAU TIMUR"
+  "districtName": "NASSAU",
+  "name": "LUMBAN RAU TIMUR",
+  "postalCode": "22383"
  },
  {
   "id": 1206052003,
   "districtId": 1206052,
-  "name": "LUMBAN RAU UTARA"
+  "districtName": "NASSAU",
+  "name": "LUMBAN RAU UTARA",
+  "postalCode": "22383"
  },
  {
   "id": 1206052004,
   "districtId": 1206052,
-  "name": "NAPAJORING"
+  "districtName": "NASSAU",
+  "name": "NAPAJORING",
+  "postalCode": ""
  },
  {
   "id": 1206052005,
   "districtId": 1206052,
-  "name": "SIPAGABU"
+  "districtName": "NASSAU",
+  "name": "SIPAGABU",
+  "postalCode": "22755"
  },
  {
   "id": 1206052006,
   "districtId": 1206052,
-  "name": "LIAT TONDUNG"
+  "districtName": "NASSAU",
+  "name": "LIAT TONDUNG",
+  "postalCode": "22383"
  },
  {
   "id": 1206052007,
   "districtId": 1206052,
-  "name": "BATU MANUMPAK"
+  "districtName": "NASSAU",
+  "name": "BATU MANUMPAK",
+  "postalCode": "22383"
  },
  {
   "id": 1206052008,
   "districtId": 1206052,
-  "name": "LUMBAN RAU TENGGARA"
+  "districtName": "NASSAU",
+  "name": "LUMBAN RAU TENGGARA",
+  "postalCode": "22383"
  },
  {
   "id": 1206052009,
   "districtId": 1206052,
-  "name": "CINTA DAMAI"
+  "districtName": "NASSAU",
+  "name": "CINTA DAMAI",
+  "postalCode": "24673"
  },
  {
   "id": 1206052010,
   "districtId": 1206052,
-  "name": "SIANTARASA"
+  "districtName": "NASSAU",
+  "name": "SIANTARASA",
+  "postalCode": "22383"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 1805041001,
   "districtId": 1805041,
-  "name": "KEDATUAN"
+  "districtName": "BEKRI",
+  "name": "KEDATUAN",
+  "postalCode": "34162"
  },
  {
   "id": 1805041002,
   "districtId": 1805041,
-  "name": "BINJAI AGUNG"
+  "districtName": "BEKRI",
+  "name": "BINJAI AGUNG",
+  "postalCode": ""
  },
  {
   "id": 1805041003,
   "districtId": 1805041,
-  "name": "RENGAS"
+  "districtName": "BEKRI",
+  "name": "RENGAS",
+  "postalCode": "34162"
  },
  {
   "id": 1805041004,
   "districtId": 1805041,
-  "name": "KESUMADADI"
+  "districtName": "BEKRI",
+  "name": "KESUMADADI",
+  "postalCode": "34162"
  },
  {
   "id": 1805041005,
   "districtId": 1805041,
-  "name": "GORAS JAYA"
+  "districtName": "BEKRI",
+  "name": "GORAS JAYA",
+  "postalCode": "34162"
  },
  {
   "id": 1805041006,
   "districtId": 1805041,
-  "name": "SINAR BANTEN/BEKRI"
+  "districtName": "BEKRI",
+  "name": "SINAR BANTEN/BEKRI",
+  "postalCode": ""
  },
  {
   "id": 1805041007,
   "districtId": 1805041,
-  "name": "KESUMA JAYA"
+  "districtName": "BEKRI",
+  "name": "KESUMA JAYA",
+  "postalCode": "34162"
  },
  {
   "id": 1805041008,
   "districtId": 1805041,
-  "name": "BANGUNSARI"
+  "districtName": "BEKRI",
+  "name": "BANGUNSARI",
+  "postalCode": "35361"
  }
 ]

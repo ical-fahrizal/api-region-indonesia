@@ -2,36 +2,50 @@
  {
   "id": 5309012001,
   "districtId": 5309012,
-  "name": "RIANGBARING"
+  "districtName": "ILEBURA",
+  "name": "RIANGBARING",
+  "postalCode": ""
  },
  {
   "id": 5309012002,
   "districtId": 5309012,
-  "name": "LEWOAWANG"
+  "districtName": "ILEBURA",
+  "name": "LEWOAWANG",
+  "postalCode": "86253"
  },
  {
   "id": 5309012003,
   "districtId": 5309012,
-  "name": "LEWOTOBI"
+  "districtName": "ILEBURA",
+  "name": "LEWOTOBI",
+  "postalCode": ""
  },
  {
   "id": 5309012004,
   "districtId": 5309012,
-  "name": "NURABELEN"
+  "districtName": "ILEBURA",
+  "name": "NURABELEN",
+  "postalCode": ""
  },
  {
   "id": 5309012005,
   "districtId": 5309012,
-  "name": "NOBO"
+  "districtName": "ILEBURA",
+  "name": "NOBO",
+  "postalCode": "86253"
  },
  {
   "id": 5309012006,
   "districtId": 5309012,
-  "name": "RIANG RITA"
+  "districtName": "ILEBURA",
+  "name": "RIANG RITA",
+  "postalCode": "86253"
  },
  {
   "id": 5309012007,
   "districtId": 5309012,
-  "name": "DULIPALI"
+  "districtName": "ILEBURA",
+  "name": "DULIPALI",
+  "postalCode": "86253"
  }
 ]

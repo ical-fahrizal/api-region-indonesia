@@ -2,11 +2,15 @@
  {
   "id": 9410074001,
   "districtId": 9410074,
-  "name": "OBAIPUGAIDA"
+  "districtName": "TOPIYAI",
+  "name": "OBAIPUGAIDA",
+  "postalCode": "98766"
  },
  {
   "id": 9410074002,
   "districtId": 9410074,
-  "name": "EYAGITAIDA"
+  "districtName": "TOPIYAI",
+  "name": "EYAGITAIDA",
+  "postalCode": "98766"
  }
 ]

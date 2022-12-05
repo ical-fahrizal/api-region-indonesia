@@ -2,111 +2,155 @@
  {
   "id": 3525060001,
   "districtId": 3525060,
-  "name": "LUNDO"
+  "districtName": "BENJENG",
+  "name": "LUNDO",
+  "postalCode": "59184"
  },
  {
   "id": 3525060002,
   "districtId": 3525060,
-  "name": "BALONGTUNJUNG"
+  "districtName": "BENJENG",
+  "name": "BALONGTUNJUNG",
+  "postalCode": "61172"
  },
  {
   "id": 3525060003,
   "districtId": 3525060,
-  "name": "BALONGMOJO"
+  "districtName": "BENJENG",
+  "name": "BALONGMOJO",
+  "postalCode": "61172"
  },
  {
   "id": 3525060004,
   "districtId": 3525060,
-  "name": "BULANGKULON"
+  "districtName": "BENJENG",
+  "name": "BULANGKULON",
+  "postalCode": "61172"
  },
  {
   "id": 3525060005,
   "districtId": 3525060,
-  "name": "SEDAPURKLAGEN"
+  "districtName": "BENJENG",
+  "name": "SEDAPURKLAGEN",
+  "postalCode": "61172"
  },
  {
   "id": 3525060006,
   "districtId": 3525060,
-  "name": "DELIKSUMBER"
+  "districtName": "BENJENG",
+  "name": "DELIKSUMBER",
+  "postalCode": "61172"
  },
  {
   "id": 3525060008,
   "districtId": 3525060,
-  "name": "MUNGGUGIANTI"
+  "districtName": "BENJENG",
+  "name": "MUNGGUGIANTI",
+  "postalCode": "61172"
  },
  {
   "id": 3525060009,
   "districtId": 3525060,
-  "name": "BENGKELOLOR"
+  "districtName": "BENJENG",
+  "name": "BENGKELOLOR",
+  "postalCode": "61172"
  },
  {
   "id": 3525060010,
   "districtId": 3525060,
-  "name": "GLURANPLOSO"
+  "districtName": "BENJENG",
+  "name": "GLURANPLOSO",
+  "postalCode": "61172"
  },
  {
   "id": 3525060011,
   "districtId": 3525060,
-  "name": "BULUREJO"
+  "districtName": "BENJENG",
+  "name": "BULUREJO",
+  "postalCode": "35372"
  },
  {
   "id": 3525060012,
   "districtId": 3525060,
-  "name": "DERMO"
+  "districtName": "BENJENG",
+  "name": "DERMO",
+  "postalCode": "67153"
  },
  {
   "id": 3525060013,
   "districtId": 3525060,
-  "name": "KEDUNGSEKAR"
+  "districtName": "BENJENG",
+  "name": "KEDUNGSEKAR",
+  "postalCode": "61172"
  },
  {
   "id": 3525060014,
   "districtId": 3525060,
-  "name": "KLAMPOK"
+  "districtName": "BENJENG",
+  "name": "KLAMPOK",
+  "postalCode": "58162"
  },
  {
   "id": 3525060015,
   "districtId": 3525060,
-  "name": "SIRNOBOYO"
+  "districtName": "BENJENG",
+  "name": "SIRNOBOYO",
+  "postalCode": "54395"
  },
  {
   "id": 3525060016,
   "districtId": 3525060,
-  "name": "KALIPADANG"
+  "districtName": "BENJENG",
+  "name": "KALIPADANG",
+  "postalCode": "61172"
  },
  {
   "id": 3525060017,
   "districtId": 3525060,
-  "name": "KARANGANKIDUL"
+  "districtName": "BENJENG",
+  "name": "KARANGANKIDUL",
+  "postalCode": "61172"
  },
  {
   "id": 3525060018,
   "districtId": 3525060,
-  "name": "MUNGGUGEBANG"
+  "districtName": "BENJENG",
+  "name": "MUNGGUGEBANG",
+  "postalCode": "61172"
  },
  {
   "id": 3525060019,
   "districtId": 3525060,
-  "name": "BANTER"
+  "districtName": "BENJENG",
+  "name": "BANTER",
+  "postalCode": "61172"
  },
  {
   "id": 3525060020,
   "districtId": 3525060,
-  "name": "METATU"
+  "districtName": "BENJENG",
+  "name": "METATU",
+  "postalCode": "61172"
  },
  {
   "id": 3525060021,
   "districtId": 3525060,
-  "name": "JOGODALU"
+  "districtName": "BENJENG",
+  "name": "JOGODALU",
+  "postalCode": "61172"
  },
  {
   "id": 3525060022,
   "districtId": 3525060,
-  "name": "PUNDUTTRATE"
+  "districtName": "BENJENG",
+  "name": "PUNDUTTRATE",
+  "postalCode": "61172"
  },
  {
   "id": 3525060023,
   "districtId": 3525060,
-  "name": "JATIREMBE"
+  "districtName": "BENJENG",
+  "name": "JATIREMBE",
+  "postalCode": "61172"
  }
 ]

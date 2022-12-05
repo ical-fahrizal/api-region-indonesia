@@ -2,61 +2,85 @@
  {
   "id": 3507220001,
   "districtId": 3507220,
-  "name": "PERMANU"
+  "districtName": "PAKISAJI",
+  "name": "PERMANU",
+  "postalCode": "65162"
  },
  {
   "id": 3507220002,
   "districtId": 3507220,
-  "name": "KARANGPANDAN"
+  "districtName": "PAKISAJI",
+  "name": "KARANGPANDAN",
+  "postalCode": "65162"
  },
  {
   "id": 3507220003,
   "districtId": 3507220,
-  "name": "GLANGGANG"
+  "districtName": "PAKISAJI",
+  "name": "GLANGGANG",
+  "postalCode": "67154"
  },
  {
   "id": 3507220004,
   "districtId": 3507220,
-  "name": "SUTOJAYAN"
+  "districtName": "PAKISAJI",
+  "name": "SUTOJAYAN",
+  "postalCode": "65162"
  },
  {
   "id": 3507220005,
   "districtId": 3507220,
-  "name": "WONOKERSO"
+  "districtName": "PAKISAJI",
+  "name": "WONOKERSO",
+  "postalCode": "51261"
  },
  {
   "id": 3507220006,
   "districtId": 3507220,
-  "name": "KARANGDUREN"
+  "districtName": "PAKISAJI",
+  "name": "KARANGDUREN",
+  "postalCode": "53353"
  },
  {
   "id": 3507220007,
   "districtId": 3507220,
-  "name": "PAKISAJI"
+  "districtName": "PAKISAJI",
+  "name": "PAKISAJI",
+  "postalCode": "66161"
  },
  {
   "id": 3507220008,
   "districtId": 3507220,
-  "name": "JATISARI"
+  "districtName": "PAKISAJI",
+  "name": "JATISARI",
+  "postalCode": "32362"
  },
  {
   "id": 3507220009,
   "districtId": 3507220,
-  "name": "WADUNG"
+  "districtName": "PAKISAJI",
+  "name": "WADUNG",
+  "postalCode": "62352"
  },
  {
   "id": 3507220010,
   "districtId": 3507220,
-  "name": "GENENGAN"
+  "districtName": "PAKISAJI",
+  "name": "GENENGAN",
+  "postalCode": "57782"
  },
  {
   "id": 3507220011,
   "districtId": 3507220,
-  "name": "KEBONAGUNG"
+  "districtName": "PAKISAJI",
+  "name": "KEBONAGUNG",
+  "postalCode": "56151"
  },
  {
   "id": 3507220012,
   "districtId": 3507220,
-  "name": "KENDALPAYAK"
+  "districtName": "PAKISAJI",
+  "name": "KENDALPAYAK",
+  "postalCode": "65162"
  }
 ]

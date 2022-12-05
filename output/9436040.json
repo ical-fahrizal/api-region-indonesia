@@ -2,71 +2,99 @@
  {
   "id": 9436040001,
   "districtId": 9436040,
-  "name": "KOKOBAYA"
+  "districtName": "TIGI TIMUR",
+  "name": "KOKOBAYA",
+  "postalCode": ""
  },
  {
   "id": 9436040002,
   "districtId": 9436040,
-  "name": "DAKEBO"
+  "districtName": "TIGI TIMUR",
+  "name": "DAKEBO",
+  "postalCode": "98781"
  },
  {
   "id": 9436040003,
   "districtId": 9436040,
-  "name": "WATIYAI"
+  "districtName": "TIGI TIMUR",
+  "name": "WATIYAI",
+  "postalCode": ""
  },
  {
   "id": 9436040004,
   "districtId": 9436040,
-  "name": "EDAGOTADI"
+  "districtName": "TIGI TIMUR",
+  "name": "EDAGOTADI",
+  "postalCode": "98781"
  },
  {
   "id": 9436040005,
   "districtId": 9436040,
-  "name": "DAGOKEBO"
+  "districtName": "TIGI TIMUR",
+  "name": "DAGOKEBO",
+  "postalCode": ""
  },
  {
   "id": 9436040006,
   "districtId": 9436040,
-  "name": "DAMABAGATA"
+  "districtName": "TIGI TIMUR",
+  "name": "DAMABAGATA",
+  "postalCode": "98781"
  },
  {
   "id": 9436040007,
   "districtId": 9436040,
-  "name": "BAGOU"
+  "districtName": "TIGI TIMUR",
+  "name": "BAGOU",
+  "postalCode": ""
  },
  {
   "id": 9436040008,
   "districtId": 9436040,
-  "name": "WAITAKOTU"
+  "districtName": "TIGI TIMUR",
+  "name": "WAITAKOTU",
+  "postalCode": ""
  },
  {
   "id": 9436040009,
   "districtId": 9436040,
-  "name": "PEKEPA"
+  "districtName": "TIGI TIMUR",
+  "name": "PEKEPA",
+  "postalCode": ""
  },
  {
   "id": 9436040010,
   "districtId": 9436040,
-  "name": "BAGUMOMA"
+  "districtName": "TIGI TIMUR",
+  "name": "BAGUMOMA",
+  "postalCode": "98781"
  },
  {
   "id": 9436040011,
   "districtId": 9436040,
-  "name": "IPOKEUGIDA"
+  "districtName": "TIGI TIMUR",
+  "name": "IPOKEUGIDA",
+  "postalCode": ""
  },
  {
   "id": 9436040012,
   "districtId": 9436040,
-  "name": "IDAIYODAGI"
+  "districtName": "TIGI TIMUR",
+  "name": "IDAIYODAGI",
+  "postalCode": ""
  },
  {
   "id": 9436040013,
   "districtId": 9436040,
-  "name": "UDAUGIDA"
+  "districtName": "TIGI TIMUR",
+  "name": "UDAUGIDA",
+  "postalCode": ""
  },
  {
   "id": 9436040014,
   "districtId": 9436040,
-  "name": "BAGOU II"
+  "districtName": "TIGI TIMUR",
+  "name": "BAGOU II",
+  "postalCode": ""
  }
 ]

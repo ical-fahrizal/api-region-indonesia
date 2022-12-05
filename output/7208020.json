@@ -2,56 +2,78 @@
  {
   "id": 7208020008,
   "districtId": 7208020,
-  "name": "OLAYA"
+  "districtName": "PARIGI",
+  "name": "OLAYA",
+  "postalCode": "94471"
  },
  {
   "id": 7208020011,
   "districtId": 7208020,
-  "name": "POMBALOWO"
+  "districtName": "PARIGI",
+  "name": "POMBALOWO",
+  "postalCode": ""
  },
  {
   "id": 7208020012,
   "districtId": 7208020,
-  "name": "MERTASARI"
+  "districtName": "PARIGI",
+  "name": "MERTASARI",
+  "postalCode": "53472"
  },
  {
   "id": 7208020013,
   "districtId": 7208020,
-  "name": "MAESA"
+  "districtName": "PARIGI",
+  "name": "MAESA",
+  "postalCode": "94471"
  },
  {
   "id": 7208020014,
   "districtId": 7208020,
-  "name": "LOJI"
+  "districtName": "PARIGI",
+  "name": "LOJI",
+  "postalCode": "16117"
  },
  {
   "id": 7208020015,
   "districtId": 7208020,
-  "name": "MASIGI"
+  "districtName": "PARIGI",
+  "name": "MASIGI",
+  "postalCode": "94471"
  },
  {
   "id": 7208020016,
   "districtId": 7208020,
-  "name": "BANTAYA"
+  "districtName": "PARIGI",
+  "name": "BANTAYA",
+  "postalCode": "94471"
  },
  {
   "id": 7208020017,
   "districtId": 7208020,
-  "name": "KAMPAL"
+  "districtName": "PARIGI",
+  "name": "KAMPAL",
+  "postalCode": "94471"
  },
  {
   "id": 7208020019,
   "districtId": 7208020,
-  "name": "BAMBALEMO"
+  "districtName": "PARIGI",
+  "name": "BAMBALEMO",
+  "postalCode": "94471"
  },
  {
   "id": 7208020020,
   "districtId": 7208020,
-  "name": "LEBO"
+  "districtName": "PARIGI",
+  "name": "LEBO",
+  "postalCode": "51281"
  },
  {
   "id": 7208020021,
   "districtId": 7208020,
-  "name": "BAMBALEMO RANOMAISI"
+  "districtName": "PARIGI",
+  "name": "BAMBALEMO RANOMAISI",
+  "postalCode": ""
  }
 ]

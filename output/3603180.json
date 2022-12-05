@@ -2,41 +2,57 @@
  {
   "id": 3603180001,
   "districtId": 3603180,
-  "name": "MEKAR JAYA"
+  "districtName": "SEPATAN",
+  "name": "MEKAR JAYA",
+  "postalCode": "20771"
  },
  {
   "id": 3603180002,
   "districtId": 3603180,
-  "name": "KARET"
+  "districtName": "SEPATAN",
+  "name": "KARET",
+  "postalCode": "12920"
  },
  {
   "id": 3603180007,
   "districtId": 3603180,
-  "name": "PONDOK JAYA"
+  "districtName": "SEPATAN",
+  "name": "PONDOK JAYA",
+  "postalCode": "15220"
  },
  {
   "id": 3603180008,
   "districtId": 3603180,
-  "name": "SEPATAN"
+  "districtName": "SEPATAN",
+  "name": "SEPATAN",
+  "postalCode": "66263"
  },
  {
   "id": 3603180009,
   "districtId": 3603180,
-  "name": "PISANGAN JAYA"
+  "districtName": "SEPATAN",
+  "name": "PISANGAN JAYA",
+  "postalCode": "15520"
  },
  {
   "id": 3603180010,
   "districtId": 3603180,
-  "name": "SARAKAN"
+  "districtName": "SEPATAN",
+  "name": "SARAKAN",
+  "postalCode": "15520"
  },
  {
   "id": 3603180011,
   "districtId": 3603180,
-  "name": "KAYU BONGKOK"
+  "districtName": "SEPATAN",
+  "name": "KAYU BONGKOK",
+  "postalCode": "15520"
  },
  {
   "id": 3603180012,
   "districtId": 3603180,
-  "name": "KAYU AGUNG"
+  "districtName": "SEPATAN",
+  "name": "KAYU AGUNG",
+  "postalCode": "30618"
  }
 ]

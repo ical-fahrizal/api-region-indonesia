@@ -2,51 +2,71 @@
  {
   "id": 7104050005,
   "districtId": 7104050,
-  "name": "RAINIS"
+  "districtName": "RAINIS",
+  "name": "RAINIS",
+  "postalCode": "95882"
  },
  {
   "id": 7104050006,
   "districtId": 7104050,
-  "name": "BANTANE"
+  "districtName": "RAINIS",
+  "name": "BANTANE",
+  "postalCode": "95882"
  },
  {
   "id": 7104050007,
   "districtId": 7104050,
-  "name": "TABANG"
+  "districtName": "RAINIS",
+  "name": "TABANG",
+  "postalCode": "95717"
  },
  {
   "id": 7104050008,
   "districtId": 7104050,
-  "name": "ALO"
+  "districtName": "RAINIS",
+  "name": "ALO",
+  "postalCode": "95882"
  },
  {
   "id": 7104050009,
   "districtId": 7104050,
-  "name": "ALO UTARA"
+  "districtName": "RAINIS",
+  "name": "ALO UTARA",
+  "postalCode": "95882"
  },
  {
   "id": 7104050010,
   "districtId": 7104050,
-  "name": "PERANGEN"
+  "districtName": "RAINIS",
+  "name": "PERANGEN",
+  "postalCode": ""
  },
  {
   "id": 7104050011,
   "districtId": 7104050,
-  "name": "NUNU UTARA"
+  "districtName": "RAINIS",
+  "name": "NUNU UTARA",
+  "postalCode": "95882"
  },
  {
   "id": 7104050012,
   "districtId": 7104050,
-  "name": "RAINIS BATU PENGA"
+  "districtName": "RAINIS",
+  "name": "RAINIS BATU PENGA",
+  "postalCode": ""
  },
  {
   "id": 7104050013,
   "districtId": 7104050,
-  "name": "BANTANE UTARA"
+  "districtName": "RAINIS",
+  "name": "BANTANE UTARA",
+  "postalCode": "95882"
  },
  {
   "id": 7104050014,
   "districtId": 7104050,
-  "name": "TABANG BARAT"
+  "districtName": "RAINIS",
+  "name": "TABANG BARAT",
+  "postalCode": "95882"
  }
 ]

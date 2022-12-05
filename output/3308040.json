@@ -2,56 +2,78 @@
  {
   "id": 3308040001,
   "districtId": 3308040,
-  "name": "SIRAHAN"
+  "districtName": "SALAM",
+  "name": "SIRAHAN",
+  "postalCode": "59157"
  },
  {
   "id": 3308040002,
   "districtId": 3308040,
-  "name": "TERSAN GEDE"
+  "districtName": "SALAM",
+  "name": "TERSAN GEDE",
+  "postalCode": ""
  },
  {
   "id": 3308040003,
   "districtId": 3308040,
-  "name": "BATURONO"
+  "districtName": "SALAM",
+  "name": "BATURONO",
+  "postalCode": "56484"
  },
  {
   "id": 3308040004,
   "districtId": 3308040,
-  "name": "TIRTO"
+  "districtName": "SALAM",
+  "name": "TIRTO",
+  "postalCode": "56196"
  },
  {
   "id": 3308040005,
   "districtId": 3308040,
-  "name": "SELOBORO"
+  "districtName": "SALAM",
+  "name": "SELOBORO",
+  "postalCode": "56484"
  },
  {
   "id": 3308040006,
   "districtId": 3308040,
-  "name": "GULON"
+  "districtName": "SALAM",
+  "name": "GULON",
+  "postalCode": "56484"
  },
  {
   "id": 3308040007,
   "districtId": 3308040,
-  "name": "JUMOYO"
+  "districtName": "SALAM",
+  "name": "JUMOYO",
+  "postalCode": "56484"
  },
  {
   "id": 3308040009,
   "districtId": 3308040,
-  "name": "SOMOKETRO"
+  "districtName": "SALAM",
+  "name": "SOMOKETRO",
+  "postalCode": "56484"
  },
  {
   "id": 3308040010,
   "districtId": 3308040,
-  "name": "KADILUWIH"
+  "districtName": "SALAM",
+  "name": "KADILUWIH",
+  "postalCode": "56484"
  },
  {
   "id": 3308040011,
   "districtId": 3308040,
-  "name": "MANTINGAN"
+  "districtName": "SALAM",
+  "name": "MANTINGAN",
+  "postalCode": "59255"
  },
  {
   "id": 3308040012,
   "districtId": 3308040,
-  "name": "SALAM"
+  "districtName": "SALAM",
+  "name": "SALAM",
+  "postalCode": "54191"
  }
 ]

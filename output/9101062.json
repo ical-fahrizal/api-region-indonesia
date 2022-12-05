@@ -2,41 +2,57 @@
  {
   "id": 9101062002,
   "districtId": 9101062,
-  "name": "TOREA"
+  "districtName": "PARIWARI",
+  "name": "TOREA",
+  "postalCode": "98611"
  },
  {
   "id": 9101062003,
   "districtId": 9101062,
-  "name": "SEKBAN"
+  "districtName": "PARIWARI",
+  "name": "SEKBAN",
+  "postalCode": "98611"
  },
  {
   "id": 9101062004,
   "districtId": 9101062,
-  "name": "DULAN POK POK"
+  "districtName": "PARIWARI",
+  "name": "DULAN POK POK",
+  "postalCode": ""
  },
  {
   "id": 9101062005,
   "districtId": 9101062,
-  "name": "KAPAURTUTIN"
+  "districtName": "PARIWARI",
+  "name": "KAPAURTUTIN",
+  "postalCode": ""
  },
  {
   "id": 9101062006,
   "districtId": 9101062,
-  "name": "TANAMA"
+  "districtName": "PARIWARI",
+  "name": "TANAMA",
+  "postalCode": "98611"
  },
  {
   "id": 9101062007,
   "districtId": 9101062,
-  "name": "WAGOM"
+  "districtName": "PARIWARI",
+  "name": "WAGOM",
+  "postalCode": ""
  },
  {
   "id": 9101062008,
   "districtId": 9101062,
-  "name": "WAGOM UTARA"
+  "districtName": "PARIWARI",
+  "name": "WAGOM UTARA",
+  "postalCode": ""
  },
  {
   "id": 9101062009,
   "districtId": 9101062,
-  "name": "SUKURU TUARE"
+  "districtName": "PARIWARI",
+  "name": "SUKURU TUARE",
+  "postalCode": ""
  }
 ]

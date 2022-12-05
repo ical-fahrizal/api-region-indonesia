@@ -2,46 +2,64 @@
  {
   "id": 3522220001,
   "districtId": 3522220,
-  "name": "KALIOMBO"
+  "districtName": "PURWOSARI",
+  "name": "KALIOMBO",
+  "postalCode": "51164"
  },
  {
   "id": 3522220004,
   "districtId": 3522220,
-  "name": "TLATAH"
+  "districtName": "PURWOSARI",
+  "name": "TLATAH",
+  "postalCode": "62161"
  },
  {
   "id": 3522220005,
   "districtId": 3522220,
-  "name": "TINUMPUK"
+  "districtName": "PURWOSARI",
+  "name": "TINUMPUK",
+  "postalCode": "45282"
  },
  {
   "id": 3522220006,
   "districtId": 3522220,
-  "name": "KUNIRAN"
+  "districtName": "PURWOSARI",
+  "name": "KUNIRAN",
+  "postalCode": "59186"
  },
  {
   "id": 3522220007,
   "districtId": 3522220,
-  "name": "DONAN"
+  "districtName": "PURWOSARI",
+  "name": "DONAN",
+  "postalCode": "53222"
  },
  {
   "id": 3522220008,
   "districtId": 3522220,
-  "name": "GAPLUK"
+  "districtName": "PURWOSARI",
+  "name": "GAPLUK",
+  "postalCode": "62161"
  },
  {
   "id": 3522220010,
   "districtId": 3522220,
-  "name": "SEDAHKIDUL"
+  "districtName": "PURWOSARI",
+  "name": "SEDAHKIDUL",
+  "postalCode": "62161"
  },
  {
   "id": 3522220011,
   "districtId": 3522220,
-  "name": "POJOK"
+  "districtName": "PURWOSARI",
+  "name": "POJOK",
+  "postalCode": "57752"
  },
  {
   "id": 3522220012,
   "districtId": 3522220,
-  "name": "PURWOSARI"
+  "districtName": "PURWOSARI",
+  "name": "PURWOSARI",
+  "postalCode": "24582"
  }
 ]

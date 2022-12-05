@@ -2,46 +2,64 @@
  {
   "id": 7105112001,
   "districtId": 7105112,
-  "name": "PONDOS"
+  "districtName": "AMURANG BARAT",
+  "name": "PONDOS",
+  "postalCode": "95955"
  },
  {
   "id": 7105112002,
   "districtId": 7105112,
-  "name": "ELUSAN"
+  "districtName": "AMURANG BARAT",
+  "name": "ELUSAN",
+  "postalCode": "95955"
  },
  {
   "id": 7105112003,
   "districtId": 7105112,
-  "name": "TEWASEN"
+  "districtName": "AMURANG BARAT",
+  "name": "TEWASEN",
+  "postalCode": "95955"
  },
  {
   "id": 7105112005,
   "districtId": 7105112,
-  "name": "KAPITU"
+  "districtName": "AMURANG BARAT",
+  "name": "KAPITU",
+  "postalCode": "95955"
  },
  {
   "id": 7105112006,
   "districtId": 7105112,
-  "name": "KAWANGKOAN BAWAH"
+  "districtName": "AMURANG BARAT",
+  "name": "KAWANGKOAN BAWAH",
+  "postalCode": "95955"
  },
  {
   "id": 7105112007,
   "districtId": 7105112,
-  "name": "RUMOONG BAWAH"
+  "districtName": "AMURANG BARAT",
+  "name": "RUMOONG BAWAH",
+  "postalCode": "95955"
  },
  {
   "id": 7105112008,
   "districtId": 7105112,
-  "name": "DESA RUMOONG BAWAH"
+  "districtName": "AMURANG BARAT",
+  "name": "DESA RUMOONG BAWAH",
+  "postalCode": ""
  },
  {
   "id": 7105112009,
   "districtId": 7105112,
-  "name": "WAKAN"
+  "districtName": "AMURANG BARAT",
+  "name": "WAKAN",
+  "postalCode": "83672"
  },
  {
   "id": 7105112010,
   "districtId": 7105112,
-  "name": "TEEP TRANS"
+  "districtName": "AMURANG BARAT",
+  "name": "TEEP TRANS",
+  "postalCode": ""
  }
 ]

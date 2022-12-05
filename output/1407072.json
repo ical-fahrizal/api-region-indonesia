@@ -2,36 +2,50 @@
  {
   "id": 1407072001,
   "districtId": 1407072,
-  "name": "TELUK SONO"
+  "districtName": "BONAI DARUSSALAM",
+  "name": "TELUK SONO",
+  "postalCode": "28559"
  },
  {
   "id": 1407072002,
   "districtId": 1407072,
-  "name": "RAWA MAKMUR"
+  "districtName": "BONAI DARUSSALAM",
+  "name": "RAWA MAKMUR",
+  "postalCode": "22562"
  },
  {
   "id": 1407072003,
   "districtId": 1407072,
-  "name": "SONTANG"
+  "districtName": "BONAI DARUSSALAM",
+  "name": "SONTANG",
+  "postalCode": "28559"
  },
  {
   "id": 1407072004,
   "districtId": 1407072,
-  "name": "BONAI"
+  "districtName": "BONAI DARUSSALAM",
+  "name": "BONAI",
+  "postalCode": "28559"
  },
  {
   "id": 1407072005,
   "districtId": 1407072,
-  "name": "PAUH"
+  "districtName": "BONAI DARUSSALAM",
+  "name": "PAUH",
+  "postalCode": "28559"
  },
  {
   "id": 1407072006,
   "districtId": 1407072,
-  "name": "KASANG PADANG"
+  "districtName": "BONAI DARUSSALAM",
+  "name": "KASANG PADANG",
+  "postalCode": "28559"
  },
  {
   "id": 1407072007,
   "districtId": 1407072,
-  "name": "KASANG MUNGKAL"
+  "districtName": "BONAI DARUSSALAM",
+  "name": "KASANG MUNGKAL",
+  "postalCode": ""
  }
 ]

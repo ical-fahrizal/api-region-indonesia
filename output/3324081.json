@@ -2,36 +2,50 @@
  {
   "id": 3324081002,
   "districtId": 3324081,
-  "name": "JERUKGILING"
+  "districtName": "KALIWUNGU SELATAN",
+  "name": "JERUKGILING",
+  "postalCode": "51382"
  },
  {
   "id": 3324081003,
   "districtId": 3324081,
-  "name": "DARUPONO"
+  "districtName": "KALIWUNGU SELATAN",
+  "name": "DARUPONO",
+  "postalCode": ""
  },
  {
   "id": 3324081004,
   "districtId": 3324081,
-  "name": "PROTOMULYO"
+  "districtName": "KALIWUNGU SELATAN",
+  "name": "PROTOMULYO",
+  "postalCode": "51372"
  },
  {
   "id": 3324081005,
   "districtId": 3324081,
-  "name": "MAGELUNG"
+  "districtName": "KALIWUNGU SELATAN",
+  "name": "MAGELUNG",
+  "postalCode": "51372"
  },
  {
   "id": 3324081006,
   "districtId": 3324081,
-  "name": "PLANTARAN"
+  "districtName": "KALIWUNGU SELATAN",
+  "name": "PLANTARAN",
+  "postalCode": "51372"
  },
  {
   "id": 3324081007,
   "districtId": 3324081,
-  "name": "SUKOMULYO"
+  "districtName": "KALIWUNGU SELATAN",
+  "name": "SUKOMULYO",
+  "postalCode": "32381"
  },
  {
   "id": 3324081008,
   "districtId": 3324081,
-  "name": "SIDOMAKMUR"
+  "districtName": "KALIWUNGU SELATAN",
+  "name": "SIDOMAKMUR",
+  "postalCode": "31452"
  }
 ]

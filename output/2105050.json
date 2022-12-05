@@ -2,26 +2,36 @@
  {
   "id": 2105050001,
   "districtId": 2105050,
-  "name": "NYAMUK"
+  "districtName": "SIANTAN TIMUR",
+  "name": "NYAMUK",
+  "postalCode": "29791"
  },
  {
   "id": 2105050002,
   "districtId": 2105050,
-  "name": "BATU BELAH"
+  "districtName": "SIANTAN TIMUR",
+  "name": "BATU BELAH",
+  "postalCode": "28461"
  },
  {
   "id": 2105050003,
   "districtId": 2105050,
-  "name": "MUNJAN"
+  "districtName": "SIANTAN TIMUR",
+  "name": "MUNJAN",
+  "postalCode": "29791"
  },
  {
   "id": 2105050004,
   "districtId": 2105050,
-  "name": "SERAT"
+  "districtName": "SIANTAN TIMUR",
+  "name": "SERAT",
+  "postalCode": "29791"
  },
  {
   "id": 2105050005,
   "districtId": 2105050,
-  "name": "AIR PUTIH"
+  "districtName": "SIANTAN TIMUR",
+  "name": "AIR PUTIH",
+  "postalCode": "21264"
  }
 ]

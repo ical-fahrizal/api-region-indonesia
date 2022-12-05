@@ -2,31 +2,43 @@
  {
   "id": 3173080001,
   "districtId": 3173080,
-  "name": "CIDENG"
+  "districtName": "GAMBIR",
+  "name": "CIDENG",
+  "postalCode": "10150"
  },
  {
   "id": 3173080002,
   "districtId": 3173080,
-  "name": "PETOJO SELATAN"
+  "districtName": "GAMBIR",
+  "name": "PETOJO SELATAN",
+  "postalCode": "10160"
  },
  {
   "id": 3173080003,
   "districtId": 3173080,
-  "name": "GAMBIR"
+  "districtName": "GAMBIR",
+  "name": "GAMBIR",
+  "postalCode": "10110"
  },
  {
   "id": 3173080004,
   "districtId": 3173080,
-  "name": "KEBON KELAPA"
+  "districtName": "GAMBIR",
+  "name": "KEBON KELAPA",
+  "postalCode": "10120"
  },
  {
   "id": 3173080005,
   "districtId": 3173080,
-  "name": "PETOJO UTARA"
+  "districtName": "GAMBIR",
+  "name": "PETOJO UTARA",
+  "postalCode": "10130"
  },
  {
   "id": 3173080006,
   "districtId": 3173080,
-  "name": "DURI PULO"
+  "districtName": "GAMBIR",
+  "name": "DURI PULO",
+  "postalCode": "10140"
  }
 ]

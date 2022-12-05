@@ -2,26 +2,36 @@
  {
   "id": 1225030001,
   "districtId": 1225030,
-  "name": "HILIBADALU"
+  "districtName": "ULU MORO O",
+  "name": "HILIBADALU",
+  "postalCode": "22871"
  },
  {
   "id": 1225030002,
   "districtId": 1225030,
-  "name": "HILISANGAWOLA"
+  "districtName": "ULU MORO O",
+  "name": "HILISANGAWOLA",
+  "postalCode": "22862"
  },
  {
   "id": 1225030003,
   "districtId": 1225030,
-  "name": "SALOO"
+  "districtName": "ULU MORO O",
+  "name": "SALOO",
+  "postalCode": "22862"
  },
  {
   "id": 1225030004,
   "districtId": 1225030,
-  "name": "BUKIT TINGGI"
+  "districtName": "ULU MORO O",
+  "name": "BUKIT TINGGI",
+  "postalCode": "22756"
  },
  {
   "id": 1225030007,
   "districtId": 1225030,
-  "name": "LAWELU"
+  "districtName": "ULU MORO O",
+  "name": "LAWELU",
+  "postalCode": "22862"
  }
 ]

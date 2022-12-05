@@ -2,36 +2,50 @@
  {
   "id": 5314040006,
   "districtId": 5314040,
-  "name": "LIDABESI"
+  "districtName": "ROTE TENGAH",
+  "name": "LIDABESI",
+  "postalCode": "85972"
  },
  {
   "id": 5314040007,
   "districtId": 5314040,
-  "name": "LIMAKOLI"
+  "districtName": "ROTE TENGAH",
+  "name": "LIMAKOLI",
+  "postalCode": "85972"
  },
  {
   "id": 5314040008,
   "districtId": 5314040,
-  "name": "SUEBELA"
+  "districtName": "ROTE TENGAH",
+  "name": "SUEBELA",
+  "postalCode": "85972"
  },
  {
   "id": 5314040009,
   "districtId": 5314040,
-  "name": "NGGODIMEDA"
+  "districtName": "ROTE TENGAH",
+  "name": "NGGODIMEDA",
+  "postalCode": "85972"
  },
  {
   "id": 5314040010,
   "districtId": 5314040,
-  "name": "LIDAMANU"
+  "districtName": "ROTE TENGAH",
+  "name": "LIDAMANU",
+  "postalCode": "85972"
  },
  {
   "id": 5314040011,
   "districtId": 5314040,
-  "name": "MAUBESI"
+  "districtName": "ROTE TENGAH",
+  "name": "MAUBESI",
+  "postalCode": "85671"
  },
  {
   "id": 5314040012,
   "districtId": 5314040,
-  "name": "ONOTALI"
+  "districtName": "ROTE TENGAH",
+  "name": "ONOTALI",
+  "postalCode": "85972"
  }
 ]

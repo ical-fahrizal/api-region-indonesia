@@ -2,21 +2,29 @@
  {
   "id": 3273111001,
   "districtId": 3273111,
-  "name": "MEKAR MULYA"
+  "districtName": "PANYILEUKAN",
+  "name": "MEKAR MULYA",
+  "postalCode": "38768"
  },
  {
   "id": 3273111002,
   "districtId": 3273111,
-  "name": "CIPADUNG KIDUL"
+  "districtName": "PANYILEUKAN",
+  "name": "CIPADUNG KIDUL",
+  "postalCode": "40614"
  },
  {
   "id": 3273111003,
   "districtId": 3273111,
-  "name": "CIPADUNG WETAN"
+  "districtName": "PANYILEUKAN",
+  "name": "CIPADUNG WETAN",
+  "postalCode": "40614"
  },
  {
   "id": 3273111004,
   "districtId": 3273111,
-  "name": "CIPADUNG KULON"
+  "districtName": "PANYILEUKAN",
+  "name": "CIPADUNG KULON",
+  "postalCode": "40614"
  }
 ]

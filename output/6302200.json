@@ -2,61 +2,85 @@
  {
   "id": 6302200005,
   "districtId": 6302200,
-  "name": "BEPARA"
+  "districtName": "PAMUKAN UTARA",
+  "name": "BEPARA",
+  "postalCode": "72169"
  },
  {
   "id": 6302200006,
   "districtId": 6302200,
-  "name": "BAKAU"
+  "districtName": "PAMUKAN UTARA",
+  "name": "BAKAU",
+  "postalCode": "79454"
  },
  {
   "id": 6302200007,
   "districtId": 6302200,
-  "name": "KALIAN"
+  "districtName": "PAMUKAN UTARA",
+  "name": "KALIAN",
+  "postalCode": "72169"
  },
  {
   "id": 6302200008,
   "districtId": 6302200,
-  "name": "BINTURUNG"
+  "districtName": "PAMUKAN UTARA",
+  "name": "BINTURUNG",
+  "postalCode": "72169"
  },
  {
   "id": 6302200009,
   "districtId": 6302200,
-  "name": "HARAPAN BARU"
+  "districtName": "PAMUKAN UTARA",
+  "name": "HARAPAN BARU",
+  "postalCode": "24786"
  },
  {
   "id": 6302200010,
   "districtId": 6302200,
-  "name": "TAMIYANG"
+  "districtName": "PAMUKAN UTARA",
+  "name": "TAMIYANG",
+  "postalCode": "72169"
  },
  {
   "id": 6302200011,
   "districtId": 6302200,
-  "name": "LINTANG JAYA"
+  "districtName": "PAMUKAN UTARA",
+  "name": "LINTANG JAYA",
+  "postalCode": "72169"
  },
  {
   "id": 6302200012,
   "districtId": 6302200,
-  "name": "MULYO HARJO"
+  "districtName": "PAMUKAN UTARA",
+  "name": "MULYO HARJO",
+  "postalCode": "31652"
  },
  {
   "id": 6302200013,
   "districtId": 6302200,
-  "name": "WONOREJO"
+  "districtName": "PAMUKAN UTARA",
+  "name": "WONOREJO",
+  "postalCode": "21186"
  },
  {
   "id": 6302200014,
   "districtId": 6302200,
-  "name": "PAMUKAN INDAH"
+  "districtName": "PAMUKAN UTARA",
+  "name": "PAMUKAN INDAH",
+  "postalCode": "72169"
  },
  {
   "id": 6302200015,
   "districtId": 6302200,
-  "name": "BALAMEA"
+  "districtName": "PAMUKAN UTARA",
+  "name": "BALAMEA",
+  "postalCode": "72169"
  },
  {
   "id": 6302200017,
   "districtId": 6302200,
-  "name": "SEKAYU BARU"
+  "districtName": "PAMUKAN UTARA",
+  "name": "SEKAYU BARU",
+  "postalCode": "72169"
  }
 ]

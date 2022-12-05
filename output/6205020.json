@@ -2,81 +2,113 @@
  {
   "id": 6205020001,
   "districtId": 6205020,
-  "name": "MALUNGAI"
+  "districtName": "GUNUNG TIMANG",
+  "name": "MALUNGAI",
+  "postalCode": "73862"
  },
  {
   "id": 6205020002,
   "districtId": 6205020,
-  "name": "RARAWA"
+  "districtName": "GUNUNG TIMANG",
+  "name": "RARAWA",
+  "postalCode": "73862"
  },
  {
   "id": 6205020003,
   "districtId": 6205020,
-  "name": "KETAPANG"
+  "districtName": "GUNUNG TIMANG",
+  "name": "KETAPANG",
+  "postalCode": "35596"
  },
  {
   "id": 6205020004,
   "districtId": 6205020,
-  "name": "WALUR"
+  "districtName": "GUNUNG TIMANG",
+  "name": "WALUR",
+  "postalCode": "34874"
  },
  {
   "id": 6205020005,
   "districtId": 6205020,
-  "name": "BALITI"
+  "districtName": "GUNUNG TIMANG",
+  "name": "BALITI",
+  "postalCode": "73862"
  },
  {
   "id": 6205020006,
   "districtId": 6205020,
-  "name": "MAJANGKAN"
+  "districtName": "GUNUNG TIMANG",
+  "name": "MAJANGKAN",
+  "postalCode": "73862"
  },
  {
   "id": 6205020007,
   "districtId": 6205020,
-  "name": "KANDUI"
+  "districtName": "GUNUNG TIMANG",
+  "name": "KANDUI",
+  "postalCode": "73862"
  },
  {
   "id": 6205020008,
   "districtId": 6205020,
-  "name": "PAYANG ARA"
+  "districtName": "GUNUNG TIMANG",
+  "name": "PAYANG ARA",
+  "postalCode": "73862"
  },
  {
   "id": 6205020009,
   "districtId": 6205020,
-  "name": "JAMAN"
+  "districtName": "GUNUNG TIMANG",
+  "name": "JAMAN",
+  "postalCode": "73862"
  },
  {
   "id": 6205020010,
   "districtId": 6205020,
-  "name": "PELARI"
+  "districtName": "GUNUNG TIMANG",
+  "name": "PELARI",
+  "postalCode": "73862"
  },
  {
   "id": 6205020011,
   "districtId": 6205020,
-  "name": "SANGKURANG"
+  "districtName": "GUNUNG TIMANG",
+  "name": "SANGKURANG",
+  "postalCode": "73862"
  },
  {
   "id": 6205020012,
   "districtId": 6205020,
-  "name": "SIWAU"
+  "districtName": "GUNUNG TIMANG",
+  "name": "SIWAU",
+  "postalCode": "73862"
  },
  {
   "id": 6205020013,
   "districtId": 6205020,
-  "name": "TONGKA"
+  "districtName": "GUNUNG TIMANG",
+  "name": "TONGKA",
+  "postalCode": "73862"
  },
  {
   "id": 6205020014,
   "districtId": 6205020,
-  "name": "BATU RAYA I"
+  "districtName": "GUNUNG TIMANG",
+  "name": "BATU RAYA I",
+  "postalCode": ""
  },
  {
   "id": 6205020015,
   "districtId": 6205020,
-  "name": "BATURAYA II"
+  "districtName": "GUNUNG TIMANG",
+  "name": "BATURAYA II",
+  "postalCode": "73862"
  },
  {
   "id": 6205020016,
   "districtId": 6205020,
-  "name": "TAPEN RAYA"
+  "districtName": "GUNUNG TIMANG",
+  "name": "TAPEN RAYA",
+  "postalCode": "73862"
  }
 ]

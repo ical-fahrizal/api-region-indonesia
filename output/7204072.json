@@ -2,26 +2,36 @@
  {
   "id": 7204072001,
   "districtId": 7204072,
-  "name": "LEMBOMAWO"
+  "districtName": "POSO KOTA SELATAN",
+  "name": "LEMBOMAWO",
+  "postalCode": ""
  },
  {
   "id": 7204072002,
   "districtId": 7204072,
-  "name": "RANONONCU"
+  "districtName": "POSO KOTA SELATAN",
+  "name": "RANONONCU",
+  "postalCode": "94619"
  },
  {
   "id": 7204072003,
   "districtId": 7204072,
-  "name": "KAWUA"
+  "districtName": "POSO KOTA SELATAN",
+  "name": "KAWUA",
+  "postalCode": "94619"
  },
  {
   "id": 7204072004,
   "districtId": 7204072,
-  "name": "BUKIT BAMBU"
+  "districtName": "POSO KOTA SELATAN",
+  "name": "BUKIT BAMBU",
+  "postalCode": "94614"
  },
  {
   "id": 7204072005,
   "districtId": 7204072,
-  "name": "SAYO"
+  "districtName": "POSO KOTA SELATAN",
+  "name": "SAYO",
+  "postalCode": "94613"
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 8106034001,
   "districtId": 8106034,
-  "name": "SUMEITH PASINARO"
+  "districtName": "ELPAPUTIH",
+  "name": "SUMEITH PASINARO",
+  "postalCode": ""
  },
  {
   "id": 8106034002,
   "districtId": 8106034,
-  "name": "AHIOLO ABIO"
+  "districtName": "ELPAPUTIH",
+  "name": "AHIOLO ABIO",
+  "postalCode": ""
  },
  {
   "id": 8106034003,
   "districtId": 8106034,
-  "name": "WATUI"
+  "districtName": "ELPAPUTIH",
+  "name": "WATUI",
+  "postalCode": ""
  },
  {
   "id": 8106034004,
   "districtId": 8106034,
-  "name": "HUKU KECIL"
+  "districtName": "ELPAPUTIH",
+  "name": "HUKU KECIL",
+  "postalCode": "97566"
  },
  {
   "id": 8106034005,
   "districtId": 8106034,
-  "name": "SANAHU"
+  "districtName": "ELPAPUTIH",
+  "name": "SANAHU",
+  "postalCode": "97566"
  },
  {
   "id": 8106034006,
   "districtId": 8106034,
-  "name": "WASIA"
+  "districtName": "ELPAPUTIH",
+  "name": "WASIA",
+  "postalCode": ""
  },
  {
   "id": 8106034007,
   "districtId": 8106034,
-  "name": "ELPAPUTIH"
+  "districtName": "ELPAPUTIH",
+  "name": "ELPAPUTIH",
+  "postalCode": "97566"
  }
 ]

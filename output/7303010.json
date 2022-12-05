@@ -2,56 +2,78 @@
  {
   "id": 7303010001,
   "districtId": 7303010,
-  "name": "BONTO JAI"
+  "districtName": "BISSAPPU",
+  "name": "BONTO JAI",
+  "postalCode": "92451"
  },
  {
   "id": 7303010002,
   "districtId": 7303010,
-  "name": "BONTO MANAI"
+  "districtName": "BISSAPPU",
+  "name": "BONTO MANAI",
+  "postalCode": "92451"
  },
  {
   "id": 7303010003,
   "districtId": 7303010,
-  "name": "BONTO LEBANG"
+  "districtName": "BISSAPPU",
+  "name": "BONTO LEBANG",
+  "postalCode": "92451"
  },
  {
   "id": 7303010004,
   "districtId": 7303010,
-  "name": "BONTO SUNGGU"
+  "districtName": "BISSAPPU",
+  "name": "BONTO SUNGGU",
+  "postalCode": "92451"
  },
  {
   "id": 7303010005,
   "districtId": 7303010,
-  "name": "BONTO RITA"
+  "districtName": "BISSAPPU",
+  "name": "BONTO RITA",
+  "postalCode": "92451"
  },
  {
   "id": 7303010007,
   "districtId": 7303010,
-  "name": "BONTO  ATU"
+  "districtName": "BISSAPPU",
+  "name": "BONTO  ATU",
+  "postalCode": ""
  },
  {
   "id": 7303010008,
   "districtId": 7303010,
-  "name": "BONTO SALLUANG"
+  "districtName": "BISSAPPU",
+  "name": "BONTO SALLUANG",
+  "postalCode": "92451"
  },
  {
   "id": 7303010010,
   "districtId": 7303010,
-  "name": "BONTO LANGKASA"
+  "districtName": "BISSAPPU",
+  "name": "BONTO LANGKASA",
+  "postalCode": "92451"
  },
  {
   "id": 7303010011,
   "districtId": 7303010,
-  "name": "BONTO CINDE"
+  "districtName": "BISSAPPU",
+  "name": "BONTO CINDE",
+  "postalCode": "92451"
  },
  {
   "id": 7303010012,
   "districtId": 7303010,
-  "name": "BONTO LOE"
+  "districtName": "BISSAPPU",
+  "name": "BONTO LOE",
+  "postalCode": "92451"
  },
  {
   "id": 7303010013,
   "districtId": 7303010,
-  "name": "BONTO JAYA"
+  "districtName": "BISSAPPU",
+  "name": "BONTO JAYA",
+  "postalCode": "92451"
  }
 ]

@@ -2,71 +2,99 @@
  {
   "id": 6203180001,
   "districtId": 6203180,
-  "name": "SUPANG"
+  "districtName": "KAPUAS HULU",
+  "name": "SUPANG",
+  "postalCode": "74581"
  },
  {
   "id": 6203180002,
   "districtId": 6203180,
-  "name": "HURUNG TABENGAN"
+  "districtName": "KAPUAS HULU",
+  "name": "HURUNG TABENGAN",
+  "postalCode": "74581"
  },
  {
   "id": 6203180003,
   "districtId": 6203180,
-  "name": "RAHUNG BUNGAI"
+  "districtName": "KAPUAS HULU",
+  "name": "RAHUNG BUNGAI",
+  "postalCode": "74581"
  },
  {
   "id": 6203180004,
   "districtId": 6203180,
-  "name": "TANGIRANG"
+  "districtName": "KAPUAS HULU",
+  "name": "TANGIRANG",
+  "postalCode": "74581"
  },
  {
   "id": 6203180005,
   "districtId": 6203180,
-  "name": "SEI HANYU"
+  "districtName": "KAPUAS HULU",
+  "name": "SEI HANYU",
+  "postalCode": ""
  },
  {
   "id": 6203180006,
   "districtId": 6203180,
-  "name": "BULAU NGANDUNG"
+  "districtName": "KAPUAS HULU",
+  "name": "BULAU NGANDUNG",
+  "postalCode": "74581"
  },
  {
   "id": 6203180007,
   "districtId": 6203180,
-  "name": "TUMBANG PURUH"
+  "districtName": "KAPUAS HULU",
+  "name": "TUMBANG PURUH",
+  "postalCode": ""
  },
  {
   "id": 6203180008,
   "districtId": 6203180,
-  "name": "KATANJUNG"
+  "districtName": "KAPUAS HULU",
+  "name": "KATANJUNG",
+  "postalCode": "74581"
  },
  {
   "id": 6203180009,
   "districtId": 6203180,
-  "name": "HURUNG TAMPANG"
+  "districtName": "KAPUAS HULU",
+  "name": "HURUNG TAMPANG",
+  "postalCode": "74581"
  },
  {
   "id": 6203180010,
   "districtId": 6203180,
-  "name": "BARONANG II"
+  "districtName": "KAPUAS HULU",
+  "name": "BARONANG II",
+  "postalCode": "74581"
  },
  {
   "id": 6203180013,
   "districtId": 6203180,
-  "name": "DIRUNG KORAM"
+  "districtName": "KAPUAS HULU",
+  "name": "DIRUNG KORAM",
+  "postalCode": "74581"
  },
  {
   "id": 6203180018,
   "districtId": 6203180,
-  "name": "JAKATAN PARI"
+  "districtName": "KAPUAS HULU",
+  "name": "JAKATAN PARI",
+  "postalCode": "74581"
  },
  {
   "id": 6203180019,
   "districtId": 6203180,
-  "name": "TUMBANG SIRAT"
+  "districtName": "KAPUAS HULU",
+  "name": "TUMBANG SIRAT",
+  "postalCode": "74581"
  },
  {
   "id": 6203180020,
   "districtId": 6203180,
-  "name": "MAMPAI JAYA"
+  "districtName": "KAPUAS HULU",
+  "name": "MAMPAI JAYA",
+  "postalCode": "74581"
  }
 ]

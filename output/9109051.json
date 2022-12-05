@@ -2,41 +2,57 @@
  {
   "id": 9109051001,
   "districtId": 9109051,
-  "name": "BIKAR"
+  "districtName": "BIKAR",
+  "name": "BIKAR",
+  "postalCode": "98473"
  },
  {
   "id": 9109051003,
   "districtId": 9109051,
-  "name": "WERUR BESAR"
+  "districtName": "BIKAR",
+  "name": "WERUR BESAR",
+  "postalCode": "98473"
  },
  {
   "id": 9109051004,
   "districtId": 9109051,
-  "name": "WERWAF"
+  "districtName": "BIKAR",
+  "name": "WERWAF",
+  "postalCode": "98473"
  },
  {
   "id": 9109051005,
   "districtId": 9109051,
-  "name": "WERTAM"
+  "districtName": "BIKAR",
+  "name": "WERTAM",
+  "postalCode": "98473"
  },
  {
   "id": 9109051006,
   "districtId": 9109051,
-  "name": "NOMBRAK"
+  "districtName": "BIKAR",
+  "name": "NOMBRAK",
+  "postalCode": ""
  },
  {
   "id": 9109051007,
   "districtId": 9109051,
-  "name": "SYUNAI"
+  "districtName": "BIKAR",
+  "name": "SYUNAI",
+  "postalCode": ""
  },
  {
   "id": 9109051008,
   "districtId": 9109051,
-  "name": "BUKIT"
+  "districtName": "BIKAR",
+  "name": "BUKIT",
+  "postalCode": "24655"
  },
  {
   "id": 9109051009,
   "districtId": 9109051,
-  "name": "SUYAM"
+  "districtName": "BIKAR",
+  "name": "SUYAM",
+  "postalCode": ""
  }
 ]

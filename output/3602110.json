@@ -2,61 +2,85 @@
  {
   "id": 3602110010,
   "districtId": 3602110,
-  "name": "PASIREURIH"
+  "districtName": "MUNCANG",
+  "name": "PASIREURIH",
+  "postalCode": "16610"
  },
  {
   "id": 3602110011,
   "districtId": 3602110,
-  "name": "PASIRNANGKA"
+  "districtName": "MUNCANG",
+  "name": "PASIRNANGKA",
+  "postalCode": "42364"
  },
  {
   "id": 3602110012,
   "districtId": 3602110,
-  "name": "CIKARANG"
+  "districtName": "MUNCANG",
+  "name": "CIKARANG",
+  "postalCode": "43184"
  },
  {
   "id": 3602110013,
   "districtId": 3602110,
-  "name": "CIMINYAK"
+  "districtName": "MUNCANG",
+  "name": "CIMINYAK",
+  "postalCode": "42364"
  },
  {
   "id": 3602110014,
   "districtId": 3602110,
-  "name": "LEUWICOO"
+  "districtName": "MUNCANG",
+  "name": "LEUWICOO",
+  "postalCode": "42364"
  },
  {
   "id": 3602110015,
   "districtId": 3602110,
-  "name": "MUNCANG"
+  "districtName": "MUNCANG",
+  "name": "MUNCANG",
+  "postalCode": "46473"
  },
  {
   "id": 3602110016,
   "districtId": 3602110,
-  "name": "SUKANAGARA"
+  "districtName": "MUNCANG",
+  "name": "SUKANAGARA",
+  "postalCode": "44174"
  },
  {
   "id": 3602110017,
   "districtId": 3602110,
-  "name": "SINDANGWANGI"
+  "districtName": "MUNCANG",
+  "name": "SINDANGWANGI",
+  "postalCode": "46384"
  },
  {
   "id": 3602110018,
   "districtId": 3602110,
-  "name": "JAGARAKSA"
+  "districtName": "MUNCANG",
+  "name": "JAGARAKSA",
+  "postalCode": "42364"
  },
  {
   "id": 3602110019,
   "districtId": 3602110,
-  "name": "TANJUNGWANGI"
+  "districtName": "MUNCANG",
+  "name": "TANJUNGWANGI",
+  "postalCode": "40395"
  },
  {
   "id": 3602110020,
   "districtId": 3602110,
-  "name": "MEKARWANGI"
+  "districtName": "MUNCANG",
+  "name": "MEKARWANGI",
+  "postalCode": "45462"
  },
  {
   "id": 3602110021,
   "districtId": 3602110,
-  "name": "GIRI JAGABAYA"
+  "districtName": "MUNCANG",
+  "name": "GIRI JAGABAYA",
+  "postalCode": ""
  }
 ]

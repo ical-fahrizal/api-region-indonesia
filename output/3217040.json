@@ -2,56 +2,78 @@
  {
   "id": 3217040001,
   "districtId": 3217040,
-  "name": "KARYAMUKTI"
+  "districtName": "CILILIN",
+  "name": "KARYAMUKTI",
+  "postalCode": "36655"
  },
  {
   "id": 3217040002,
   "districtId": 3217040,
-  "name": "NANGGERANG"
+  "districtName": "CILILIN",
+  "name": "NANGGERANG",
+  "postalCode": "41253"
  },
  {
   "id": 3217040003,
   "districtId": 3217040,
-  "name": "MUKAPAYUNG"
+  "districtName": "CILILIN",
+  "name": "MUKAPAYUNG",
+  "postalCode": "40562"
  },
  {
   "id": 3217040004,
   "districtId": 3217040,
-  "name": "RANCAPANGGUNG"
+  "districtName": "CILILIN",
+  "name": "RANCAPANGGUNG",
+  "postalCode": "40562"
  },
  {
   "id": 3217040005,
   "districtId": 3217040,
-  "name": "BONGAS"
+  "districtName": "CILILIN",
+  "name": "BONGAS",
+  "postalCode": "45255"
  },
  {
   "id": 3217040006,
   "districtId": 3217040,
-  "name": "BATULAYANG"
+  "districtName": "CILILIN",
+  "name": "BATULAYANG",
+  "postalCode": "40562"
  },
  {
   "id": 3217040007,
   "districtId": 3217040,
-  "name": "CILILIN"
+  "districtName": "CILILIN",
+  "name": "CILILIN",
+  "postalCode": "40562"
  },
  {
   "id": 3217040008,
   "districtId": 3217040,
-  "name": "KARANGTANJUNG"
+  "districtName": "CILILIN",
+  "name": "KARANGTANJUNG",
+  "postalCode": "40562"
  },
  {
   "id": 3217040010,
   "districtId": 3217040,
-  "name": "KIDANGPANANJUNG"
+  "districtName": "CILILIN",
+  "name": "KIDANGPANANJUNG",
+  "postalCode": "40562"
  },
  {
   "id": 3217040018,
   "districtId": 3217040,
-  "name": "BUDIHARJA"
+  "districtName": "CILILIN",
+  "name": "BUDIHARJA",
+  "postalCode": "40562"
  },
  {
   "id": 3217040019,
   "districtId": 3217040,
-  "name": "KARANGANYAR"
+  "districtName": "CILILIN",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
  }
 ]

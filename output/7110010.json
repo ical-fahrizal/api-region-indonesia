@@ -2,81 +2,113 @@
  {
   "id": 7110010001,
   "districtId": 7110010,
-  "name": "LION"
+  "districtName": "POSIGADAN",
+  "name": "LION",
+  "postalCode": "95774"
  },
  {
   "id": 7110010002,
   "districtId": 7110010,
-  "name": "SAIBUAH"
+  "districtName": "POSIGADAN",
+  "name": "SAIBUAH",
+  "postalCode": "95774"
  },
  {
   "id": 7110010003,
   "districtId": 7110010,
-  "name": "MEYAMBANGA"
+  "districtName": "POSIGADAN",
+  "name": "MEYAMBANGA",
+  "postalCode": "95774"
  },
  {
   "id": 7110010004,
   "districtId": 7110010,
-  "name": "TONALA"
+  "districtName": "POSIGADAN",
+  "name": "TONALA",
+  "postalCode": "95774"
  },
  {
   "id": 7110010005,
   "districtId": 7110010,
-  "name": "MANGGADAA"
+  "districtName": "POSIGADAN",
+  "name": "MANGGADAA",
+  "postalCode": "95774"
  },
  {
   "id": 7110010006,
   "districtId": 7110010,
-  "name": "MOMALIA II"
+  "districtName": "POSIGADAN",
+  "name": "MOMALIA II",
+  "postalCode": "95774"
  },
  {
   "id": 7110010007,
   "districtId": 7110010,
-  "name": "MOMALIA  I"
+  "districtName": "POSIGADAN",
+  "name": "MOMALIA  I",
+  "postalCode": ""
  },
  {
   "id": 7110010008,
   "districtId": 7110010,
-  "name": "PILOLAHUNGA"
+  "districtName": "POSIGADAN",
+  "name": "PILOLAHUNGA",
+  "postalCode": "95774"
  },
  {
   "id": 7110010009,
   "districtId": 7110010,
-  "name": "LUWOO"
+  "districtName": "POSIGADAN",
+  "name": "LUWOO",
+  "postalCode": "95774"
  },
  {
   "id": 7110010010,
   "districtId": 7110010,
-  "name": "SAKTI"
+  "districtName": "POSIGADAN",
+  "name": "SAKTI",
+  "postalCode": "80771"
  },
  {
   "id": 7110010011,
   "districtId": 7110010,
-  "name": "SINOMBAYUGA"
+  "districtName": "POSIGADAN",
+  "name": "SINOMBAYUGA",
+  "postalCode": "95774"
  },
  {
   "id": 7110010016,
   "districtId": 7110010,
-  "name": "ILOHELUMA"
+  "districtName": "POSIGADAN",
+  "name": "ILOHELUMA",
+  "postalCode": "96525"
  },
  {
   "id": 7110010020,
   "districtId": 7110010,
-  "name": "MOLOSIPAT"
+  "districtName": "POSIGADAN",
+  "name": "MOLOSIPAT",
+  "postalCode": "96467"
  },
  {
   "id": 7110010021,
   "districtId": 7110010,
-  "name": "MEYAMBANGA TIMUR"
+  "districtName": "POSIGADAN",
+  "name": "MEYAMBANGA TIMUR",
+  "postalCode": ""
  },
  {
   "id": 7110010022,
   "districtId": 7110010,
-  "name": "MOMALIA TIGA"
+  "districtName": "POSIGADAN",
+  "name": "MOMALIA TIGA",
+  "postalCode": ""
  },
  {
   "id": 7110010023,
   "districtId": 7110010,
-  "name": "INOSOTA"
+  "districtName": "POSIGADAN",
+  "name": "INOSOTA",
+  "postalCode": ""
  }
 ]

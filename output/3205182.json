@@ -2,66 +2,92 @@
  {
   "id": 3205182001,
   "districtId": 3205182,
-  "name": "SIRNAJAYA"
+  "districtName": "TAROGONG KALER",
+  "name": "SIRNAJAYA",
+  "postalCode": "44163"
  },
  {
   "id": 3205182002,
   "districtId": 3205182,
-  "name": "MEKARWANGI"
+  "districtName": "TAROGONG KALER",
+  "name": "MEKARWANGI",
+  "postalCode": "45462"
  },
  {
   "id": 3205182003,
   "districtId": 3205182,
-  "name": "SUKAJADI"
+  "districtName": "TAROGONG KALER",
+  "name": "SUKAJADI",
+  "postalCode": "24472"
  },
  {
   "id": 3205182004,
   "districtId": 3205182,
-  "name": "SUKAWANGI"
+  "districtName": "TAROGONG KALER",
+  "name": "SUKAWANGI",
+  "postalCode": "35376"
  },
  {
   "id": 3205182005,
   "districtId": 3205182,
-  "name": "PANJIWANGI"
+  "districtName": "TAROGONG KALER",
+  "name": "PANJIWANGI",
+  "postalCode": "44151"
  },
  {
   "id": 3205182006,
   "districtId": 3205182,
-  "name": "MEKARJAYA"
+  "districtName": "TAROGONG KALER",
+  "name": "MEKARJAYA",
+  "postalCode": "30653"
  },
  {
   "id": 3205182007,
   "districtId": 3205182,
-  "name": "RANCABANGO"
+  "districtName": "TAROGONG KALER",
+  "name": "RANCABANGO",
+  "postalCode": "41263"
  },
  {
   "id": 3205182008,
   "districtId": 3205182,
-  "name": "LANGENSARI"
+  "districtName": "TAROGONG KALER",
+  "name": "LANGENSARI",
+  "postalCode": "41259"
  },
  {
   "id": 3205182009,
   "districtId": 3205182,
-  "name": "CIMANGANTEN"
+  "districtName": "TAROGONG KALER",
+  "name": "CIMANGANTEN",
+  "postalCode": "44151"
  },
  {
   "id": 3205182010,
   "districtId": 3205182,
-  "name": "JATI"
+  "districtName": "TAROGONG KALER",
+  "name": "JATI",
+  "postalCode": "20152"
  },
  {
   "id": 3205182011,
   "districtId": 3205182,
-  "name": "TANJUNGKAMUNING"
+  "districtName": "TAROGONG KALER",
+  "name": "TANJUNGKAMUNING",
+  "postalCode": "44151"
  },
  {
   "id": 3205182012,
   "districtId": 3205182,
-  "name": "PANANJUNG"
+  "districtName": "TAROGONG KALER",
+  "name": "PANANJUNG",
+  "postalCode": "40238"
  },
  {
   "id": 3205182013,
   "districtId": 3205182,
-  "name": "PASAWAHAN"
+  "districtName": "TAROGONG KALER",
+  "name": "PASAWAHAN",
+  "postalCode": "46383"
  }
 ]

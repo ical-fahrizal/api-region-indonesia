@@ -2,36 +2,50 @@
  {
   "id": 3603050001,
   "districtId": 3603050,
-  "name": "CURUG KULON"
+  "districtName": "CURUG",
+  "name": "CURUG KULON",
+  "postalCode": "15810"
  },
  {
   "id": 3603050002,
   "districtId": 3603050,
-  "name": "CURUG WETAN"
+  "districtName": "CURUG",
+  "name": "CURUG WETAN",
+  "postalCode": "45185"
  },
  {
   "id": 3603050003,
   "districtId": 3603050,
-  "name": "SUKA BAKTI"
+  "districtName": "CURUG",
+  "name": "SUKA BAKTI",
+  "postalCode": "31452"
  },
  {
   "id": 3603050004,
   "districtId": 3603050,
-  "name": "CUKANG GALIH"
+  "districtName": "CURUG",
+  "name": "CUKANG GALIH",
+  "postalCode": "15810"
  },
  {
   "id": 3603050005,
   "districtId": 3603050,
-  "name": "KADU JAYA"
+  "districtName": "CURUG",
+  "name": "KADU JAYA",
+  "postalCode": "15810"
  },
  {
   "id": 3603050006,
   "districtId": 3603050,
-  "name": "KADU"
+  "districtName": "CURUG",
+  "name": "KADU",
+  "postalCode": "45377"
  },
  {
   "id": 3603050007,
   "districtId": 3603050,
-  "name": "BINONG"
+  "districtName": "CURUG",
+  "name": "BINONG",
+  "postalCode": "40275"
  }
 ]

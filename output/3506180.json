@@ -2,81 +2,113 @@
  {
   "id": 3506180001,
   "districtId": 3506180,
-  "name": "PURWOTENGAH"
+  "districtName": "PAPAR",
+  "name": "PURWOTENGAH",
+  "postalCode": "61311"
  },
  {
   "id": 3506180002,
   "districtId": 3506180,
-  "name": "KWARON"
+  "districtName": "PAPAR",
+  "name": "KWARON",
+  "postalCode": "61471"
  },
  {
   "id": 3506180003,
   "districtId": 3506180,
-  "name": "MINGGIRAN"
+  "districtName": "PAPAR",
+  "name": "MINGGIRAN",
+  "postalCode": "64153"
  },
  {
   "id": 3506180004,
   "districtId": 3506180,
-  "name": "PEHKULON"
+  "districtName": "PAPAR",
+  "name": "PEHKULON",
+  "postalCode": "64153"
  },
  {
   "id": 3506180005,
   "districtId": 3506180,
-  "name": "PEHWETAN"
+  "districtName": "PAPAR",
+  "name": "PEHWETAN",
+  "postalCode": "64153"
  },
  {
   "id": 3506180006,
   "districtId": 3506180,
-  "name": "DAWUHAN KIDUL"
+  "districtName": "PAPAR",
+  "name": "DAWUHAN KIDUL",
+  "postalCode": "64153"
  },
  {
   "id": 3506180007,
   "districtId": 3506180,
-  "name": "JANTI"
+  "districtName": "PAPAR",
+  "name": "JANTI",
+  "postalCode": "57474"
  },
  {
   "id": 3506180008,
   "districtId": 3506180,
-  "name": "PAPAR"
+  "districtName": "PAPAR",
+  "name": "PAPAR",
+  "postalCode": "64153"
  },
  {
   "id": 3506180009,
   "districtId": 3506180,
-  "name": "MADURETNO"
+  "districtName": "PAPAR",
+  "name": "MADURETNO",
+  "postalCode": "54391"
  },
  {
   "id": 3506180010,
   "districtId": 3506180,
-  "name": "NGAMPEL"
+  "districtName": "PAPAR",
+  "name": "NGAMPEL",
+  "postalCode": "58219"
  },
  {
   "id": 3506180011,
   "districtId": 3506180,
-  "name": "KEDUNGMALANG"
+  "districtName": "PAPAR",
+  "name": "KEDUNGMALANG",
+  "postalCode": "59463"
  },
  {
   "id": 3506180012,
   "districtId": 3506180,
-  "name": "SUKOMORO"
+  "districtName": "PAPAR",
+  "name": "SUKOMORO",
+  "postalCode": "64153"
  },
  {
   "id": 3506180014,
   "districtId": 3506180,
-  "name": "JAMBANGAN"
+  "districtName": "PAPAR",
+  "name": "JAMBANGAN",
+  "postalCode": "51274"
  },
  {
   "id": 3506180015,
   "districtId": 3506180,
-  "name": "SRIKATON"
+  "districtName": "PAPAR",
+  "name": "SRIKATON",
+  "postalCode": "30975"
  },
  {
   "id": 3506180016,
   "districtId": 3506180,
-  "name": "TANON"
+  "districtName": "PAPAR",
+  "name": "TANON",
+  "postalCode": "57277"
  },
  {
   "id": 3506180017,
   "districtId": 3506180,
-  "name": "PUHJAJAR"
+  "districtName": "PAPAR",
+  "name": "PUHJAJAR",
+  "postalCode": "64153"
  }
 ]

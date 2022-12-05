@@ -2,61 +2,85 @@
  {
   "id": 3604270010,
   "districtId": 3604270,
-  "name": "TENGKURAK"
+  "districtName": "TIRTAYASA",
+  "name": "TENGKURAK",
+  "postalCode": "42193"
  },
  {
   "id": 3604270011,
   "districtId": 3604270,
-  "name": "TIRTAYASA"
+  "districtName": "TIRTAYASA",
+  "name": "TIRTAYASA",
+  "postalCode": "42193"
  },
  {
   "id": 3604270012,
   "districtId": 3604270,
-  "name": "LABAN"
+  "districtName": "TIRTAYASA",
+  "name": "LABAN",
+  "postalCode": "51353"
  },
  {
   "id": 3604270014,
   "districtId": 3604270,
-  "name": "SAMPARWADI"
+  "districtName": "TIRTAYASA",
+  "name": "SAMPARWADI",
+  "postalCode": "42193"
  },
  {
   "id": 3604270016,
   "districtId": 3604270,
-  "name": "KEBON"
+  "districtName": "TIRTAYASA",
+  "name": "KEBON",
+  "postalCode": "31453"
  },
  {
   "id": 3604270017,
   "districtId": 3604270,
-  "name": "KEBUYUTAN"
+  "districtName": "TIRTAYASA",
+  "name": "KEBUYUTAN",
+  "postalCode": "42193"
  },
  {
   "id": 3604270018,
   "districtId": 3604270,
-  "name": "KEMANISAN"
+  "districtName": "TIRTAYASA",
+  "name": "KEMANISAN",
+  "postalCode": "42193"
  },
  {
   "id": 3604270019,
   "districtId": 3604270,
-  "name": "PONTANG LEGON"
+  "districtName": "TIRTAYASA",
+  "name": "PONTANG LEGON",
+  "postalCode": "42193"
  },
  {
   "id": 3604270020,
   "districtId": 3604270,
-  "name": "SUSUKAN"
+  "districtName": "TIRTAYASA",
+  "name": "SUSUKAN",
+  "postalCode": "13750"
  },
  {
   "id": 3604270021,
   "districtId": 3604270,
-  "name": "ALANG ALANG"
+  "districtName": "TIRTAYASA",
+  "name": "ALANG ALANG",
+  "postalCode": "69165"
  },
  {
   "id": 3604270022,
   "districtId": 3604270,
-  "name": "LONTAR"
+  "districtName": "TIRTAYASA",
+  "name": "LONTAR",
+  "postalCode": "32155"
  },
  {
   "id": 3604270023,
   "districtId": 3604270,
-  "name": "WARGASARA"
+  "districtName": "TIRTAYASA",
+  "name": "WARGASARA",
+  "postalCode": "42193"
  }
 ]

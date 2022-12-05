@@ -2,36 +2,50 @@
  {
   "id": 7105111001,
   "districtId": 7105111,
-  "name": "BUYUNGON"
+  "districtName": "AMURANG",
+  "name": "BUYUNGON",
+  "postalCode": "95954"
  },
  {
   "id": 7105111002,
   "districtId": 7105111,
-  "name": "RANOYAPO"
+  "districtName": "AMURANG",
+  "name": "RANOYAPO",
+  "postalCode": "95954"
  },
  {
   "id": 7105111003,
   "districtId": 7105111,
-  "name": "UWURAN SATU"
+  "districtName": "AMURANG",
+  "name": "UWURAN SATU",
+  "postalCode": "95954"
  },
  {
   "id": 7105111004,
   "districtId": 7105111,
-  "name": "UWURAN DUA"
+  "districtName": "AMURANG",
+  "name": "UWURAN DUA",
+  "postalCode": "95954"
  },
  {
   "id": 7105111006,
   "districtId": 7105111,
-  "name": "RANOKETANG TUA"
+  "districtName": "AMURANG",
+  "name": "RANOKETANG TUA",
+  "postalCode": "95954"
  },
  {
   "id": 7105111007,
   "districtId": 7105111,
-  "name": "BITUNG"
+  "districtName": "AMURANG",
+  "name": "BITUNG",
+  "postalCode": "95954"
  },
  {
   "id": 7105111008,
   "districtId": 7105111,
-  "name": "KILOMETER TIGA"
+  "districtName": "AMURANG",
+  "name": "KILOMETER TIGA",
+  "postalCode": "95954"
  }
 ]

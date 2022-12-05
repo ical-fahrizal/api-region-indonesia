@@ -2,91 +2,127 @@
  {
   "id": 3501110001,
   "districtId": 3501110,
-  "name": "SIDOMULYO"
+  "districtName": "NGADIROJO",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  },
  {
   "id": 3501110002,
   "districtId": 3501110,
-  "name": "HADIWARNO"
+  "districtName": "NGADIROJO",
+  "name": "HADIWARNO",
+  "postalCode": "59381"
  },
  {
   "id": 3501110003,
   "districtId": 3501110,
-  "name": "TANJUNGPURO"
+  "districtName": "NGADIROJO",
+  "name": "TANJUNGPURO",
+  "postalCode": "63572"
  },
  {
   "id": 3501110004,
   "districtId": 3501110,
-  "name": "HADILUWIH"
+  "districtName": "NGADIROJO",
+  "name": "HADILUWIH",
+  "postalCode": "57272"
  },
  {
   "id": 3501110005,
   "districtId": 3501110,
-  "name": "PAGEREJO"
+  "districtName": "NGADIROJO",
+  "name": "PAGEREJO",
+  "postalCode": "56371"
  },
  {
   "id": 3501110006,
   "districtId": 3501110,
-  "name": "WIYORO"
+  "districtName": "NGADIROJO",
+  "name": "WIYORO",
+  "postalCode": "63572"
  },
  {
   "id": 3501110007,
   "districtId": 3501110,
-  "name": "NGADIROJO"
+  "districtName": "NGADIROJO",
+  "name": "NGADIROJO",
+  "postalCode": "57352"
  },
  {
   "id": 3501110008,
   "districtId": 3501110,
-  "name": "BOGOHARJO"
+  "districtName": "NGADIROJO",
+  "name": "BOGOHARJO",
+  "postalCode": "59252"
  },
  {
   "id": 3501110009,
   "districtId": 3501110,
-  "name": "COKROKEMBANG"
+  "districtName": "NGADIROJO",
+  "name": "COKROKEMBANG",
+  "postalCode": "63572"
  },
  {
   "id": 3501110010,
   "districtId": 3501110,
-  "name": "BODAG"
+  "districtName": "NGADIROJO",
+  "name": "BODAG",
+  "postalCode": "63182"
  },
  {
   "id": 3501110011,
   "districtId": 3501110,
-  "name": "TANJUNGLOR"
+  "districtName": "NGADIROJO",
+  "name": "TANJUNGLOR",
+  "postalCode": ""
  },
  {
   "id": 3501110012,
   "districtId": 3501110,
-  "name": "NOGOSARI"
+  "districtName": "NGADIROJO",
+  "name": "NOGOSARI",
+  "postalCode": "63572"
  },
  {
   "id": 3501110013,
   "districtId": 3501110,
-  "name": "CANGKRING"
+  "districtName": "NGADIROJO",
+  "name": "CANGKRING",
+  "postalCode": "45258"
  },
  {
   "id": 3501110014,
   "districtId": 3501110,
-  "name": "WONODADI KULON"
+  "districtName": "NGADIROJO",
+  "name": "WONODADI KULON",
+  "postalCode": "63572"
  },
  {
   "id": 3501110015,
   "districtId": 3501110,
-  "name": "WONODADI WETAN"
+  "districtName": "NGADIROJO",
+  "name": "WONODADI WETAN",
+  "postalCode": "63572"
  },
  {
   "id": 3501110016,
   "districtId": 3501110,
-  "name": "WONOKARTO"
+  "districtName": "NGADIROJO",
+  "name": "WONOKARTO",
+  "postalCode": "34382"
  },
  {
   "id": 3501110017,
   "districtId": 3501110,
-  "name": "WONOSOBO"
+  "districtName": "NGADIROJO",
+  "name": "WONOSOBO",
+  "postalCode": "24581"
  },
  {
   "id": 3501110018,
   "districtId": 3501110,
-  "name": "WONOASRI"
+  "districtName": "NGADIROJO",
+  "name": "WONOASRI",
+  "postalCode": "64151"
  }
 ]

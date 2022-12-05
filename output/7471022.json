@@ -2,21 +2,29 @@
  {
   "id": 7471022001,
   "districtId": 7471022,
-  "name": "MOKOAU"
+  "districtName": "KAMBU",
+  "name": "MOKOAU",
+  "postalCode": "93875"
  },
  {
   "id": 7471022002,
   "districtId": 7471022,
-  "name": "KAMBU"
+  "districtName": "KAMBU",
+  "name": "KAMBU",
+  "postalCode": "93231"
  },
  {
   "id": 7471022003,
   "districtId": 7471022,
-  "name": "PADALEU"
+  "districtName": "KAMBU",
+  "name": "PADALEU",
+  "postalCode": "93231"
  },
  {
   "id": 7471022004,
   "districtId": 7471022,
-  "name": "LALOLARA"
+  "districtName": "KAMBU",
+  "name": "LALOLARA",
+  "postalCode": "93231"
  }
 ]

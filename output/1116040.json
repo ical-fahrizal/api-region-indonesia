@@ -2,66 +2,92 @@
  {
   "id": 1116040001,
   "districtId": 1116040,
-  "name": "SAWANG"
+  "districtName": "SETIA BAKTI",
+  "name": "SAWANG",
+  "postalCode": "24184"
  },
  {
   "id": 1116040002,
   "districtId": 1116040,
-  "name": "LHOK GEULUMPANG"
+  "districtName": "SETIA BAKTI",
+  "name": "LHOK GEULUMPANG",
+  "postalCode": "24455"
  },
  {
   "id": 1116040003,
   "districtId": 1116040,
-  "name": "LHOK TIMON"
+  "districtName": "SETIA BAKTI",
+  "name": "LHOK TIMON",
+  "postalCode": "23655"
  },
  {
   "id": 1116040004,
   "districtId": 1116040,
-  "name": "GAMPONG BARO"
+  "districtName": "SETIA BAKTI",
+  "name": "GAMPONG BARO",
+  "postalCode": "24454"
  },
  {
   "id": 1116040005,
   "districtId": 1116040,
-  "name": "LHOK BUYA"
+  "districtName": "SETIA BAKTI",
+  "name": "LHOK BUYA",
+  "postalCode": "23655"
  },
  {
   "id": 1116040006,
   "districtId": 1116040,
-  "name": "LHOK BOT"
+  "districtName": "SETIA BAKTI",
+  "name": "LHOK BOT",
+  "postalCode": "23655"
  },
  {
   "id": 1116040007,
   "districtId": 1116040,
-  "name": "PADANG"
+  "districtName": "SETIA BAKTI",
+  "name": "PADANG",
+  "postalCode": "23762"
  },
  {
   "id": 1116040008,
   "districtId": 1116040,
-  "name": "GUNONG MEUNASAH"
+  "districtName": "SETIA BAKTI",
+  "name": "GUNONG MEUNASAH",
+  "postalCode": "23655"
  },
  {
   "id": 1116040009,
   "districtId": 1116040,
-  "name": "PAYA LAUT"
+  "districtName": "SETIA BAKTI",
+  "name": "PAYA LAUT",
+  "postalCode": "23655"
  },
  {
   "id": 1116040010,
   "districtId": 1116040,
-  "name": "SAPEK"
+  "districtName": "SETIA BAKTI",
+  "name": "SAPEK",
+  "postalCode": "23657"
  },
  {
   "id": 1116040011,
   "districtId": 1116040,
-  "name": "GAMPONG BAROH"
+  "districtName": "SETIA BAKTI",
+  "name": "GAMPONG BAROH",
+  "postalCode": "23362"
  },
  {
   "id": 1116040012,
   "districtId": 1116040,
-  "name": "GLE SUBAK"
+  "districtName": "SETIA BAKTI",
+  "name": "GLE SUBAK",
+  "postalCode": "23655"
  },
  {
   "id": 1116040013,
   "districtId": 1116040,
-  "name": "PANTE KUYUN"
+  "districtName": "SETIA BAKTI",
+  "name": "PANTE KUYUN",
+  "postalCode": "23655"
  }
 ]

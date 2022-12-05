@@ -2,56 +2,78 @@
  {
   "id": 7402062001,
   "districtId": 7402062,
-  "name": "LABAHA"
+  "districtName": "WATOPUTE",
+  "name": "LABAHA",
+  "postalCode": "93656"
  },
  {
   "id": 7402062002,
   "districtId": 7402062,
-  "name": "WATOPUTE"
+  "districtName": "WATOPUTE",
+  "name": "WATOPUTE",
+  "postalCode": ""
  },
  {
   "id": 7402062003,
   "districtId": 7402062,
-  "name": "BANGKALI"
+  "districtName": "WATOPUTE",
+  "name": "BANGKALI",
+  "postalCode": "93656"
  },
  {
   "id": 7402062004,
   "districtId": 7402062,
-  "name": "BHANGKALI BARAT"
+  "districtName": "WATOPUTE",
+  "name": "BHANGKALI BARAT",
+  "postalCode": ""
  },
  {
   "id": 7402062005,
   "districtId": 7402062,
-  "name": "DANA"
+  "districtName": "WATOPUTE",
+  "name": "DANA",
+  "postalCode": "93656"
  },
  {
   "id": 7402062006,
   "districtId": 7402062,
-  "name": "LAKAPODO"
+  "districtName": "WATOPUTE",
+  "name": "LAKAPODO",
+  "postalCode": "93656"
  },
  {
   "id": 7402062007,
   "districtId": 7402062,
-  "name": "WAKADIA"
+  "districtName": "WATOPUTE",
+  "name": "WAKADIA",
+  "postalCode": "93656"
  },
  {
   "id": 7402062008,
   "districtId": 7402062,
-  "name": "MATARAWA"
+  "districtName": "WATOPUTE",
+  "name": "MATARAWA",
+  "postalCode": "93656"
  },
  {
   "id": 7402062009,
   "districtId": 7402062,
-  "name": "WALI"
+  "districtName": "WATOPUTE",
+  "name": "WALI",
+  "postalCode": "86514"
  },
  {
   "id": 7402062010,
   "districtId": 7402062,
-  "name": "DANA TIMUR"
+  "districtName": "WATOPUTE",
+  "name": "DANA TIMUR",
+  "postalCode": ""
  },
  {
   "id": 7402062011,
   "districtId": 7402062,
-  "name": "WAKADIA BARAT"
+  "districtName": "WATOPUTE",
+  "name": "WAKADIA BARAT",
+  "postalCode": ""
  }
 ]

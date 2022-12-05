@@ -2,41 +2,57 @@
  {
   "id": 3507050001,
   "districtId": 3507050,
-  "name": "TUMPAKREJO"
+  "districtName": "GEDANGAN",
+  "name": "TUMPAKREJO",
+  "postalCode": "65178"
  },
  {
   "id": 3507050002,
   "districtId": 3507050,
-  "name": "SINDUREJO"
+  "districtName": "GEDANGAN",
+  "name": "SINDUREJO",
+  "postalCode": "58171"
  },
  {
   "id": 3507050003,
   "districtId": 3507050,
-  "name": "GAJAHREJO"
+  "districtName": "GEDANGAN",
+  "name": "GAJAHREJO",
+  "postalCode": "65178"
  },
  {
   "id": 3507050004,
   "districtId": 3507050,
-  "name": "SIDODADI"
+  "districtName": "GEDANGAN",
+  "name": "SIDODADI",
+  "postalCode": "24582"
  },
  {
   "id": 3507050005,
   "districtId": 3507050,
-  "name": "GEDANGAN"
+  "districtName": "GEDANGAN",
+  "name": "GEDANGAN",
+  "postalCode": "21264"
  },
  {
   "id": 3507050006,
   "districtId": 3507050,
-  "name": "SEGARAN"
+  "districtName": "GEDANGAN",
+  "name": "SEGARAN",
+  "postalCode": "41354"
  },
  {
   "id": 3507050007,
   "districtId": 3507050,
-  "name": "SUMBEREJO"
+  "districtName": "GEDANGAN",
+  "name": "SUMBEREJO",
+  "postalCode": "20551"
  },
  {
   "id": 3507050008,
   "districtId": 3507050,
-  "name": "GIRIMULYO"
+  "districtName": "GEDANGAN",
+  "name": "GIRIMULYO",
+  "postalCode": "57693"
  }
 ]

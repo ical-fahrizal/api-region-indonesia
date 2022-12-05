@@ -2,71 +2,99 @@
  {
   "id": 1403123001,
   "districtId": 1403123,
-  "name": "PULAU BURUNG"
+  "districtName": "PULAU BURUNG",
+  "name": "PULAU BURUNG",
+  "postalCode": "29256"
  },
  {
   "id": 1403123002,
   "districtId": 1403123,
-  "name": "BANGUN HARJO JAYA"
+  "districtName": "PULAU BURUNG",
+  "name": "BANGUN HARJO JAYA",
+  "postalCode": "29256"
  },
  {
   "id": 1403123003,
   "districtId": 1403123,
-  "name": "RINGIN JAYA"
+  "districtName": "PULAU BURUNG",
+  "name": "RINGIN JAYA",
+  "postalCode": "34882"
  },
  {
   "id": 1403123004,
   "districtId": 1403123,
-  "name": "MAYANG SARI JAYA"
+  "districtName": "PULAU BURUNG",
+  "name": "MAYANG SARI JAYA",
+  "postalCode": "29256"
  },
  {
   "id": 1403123005,
   "districtId": 1403123,
-  "name": "BUKIT SARI INTAN JAYA"
+  "districtName": "PULAU BURUNG",
+  "name": "BUKIT SARI INTAN JAYA",
+  "postalCode": "29256"
  },
  {
   "id": 1403123006,
   "districtId": 1403123,
-  "name": "MANUNGGAL JAYA"
+  "districtName": "PULAU BURUNG",
+  "name": "MANUNGGAL JAYA",
+  "postalCode": "29256"
  },
  {
   "id": 1403123007,
   "districtId": 1403123,
-  "name": "TELUK NIBUNG"
+  "districtName": "PULAU BURUNG",
+  "name": "TELUK NIBUNG",
+  "postalCode": "24791"
  },
  {
   "id": 1403123008,
   "districtId": 1403123,
-  "name": "SUNGAI DANAI"
+  "districtName": "PULAU BURUNG",
+  "name": "SUNGAI DANAI",
+  "postalCode": "29256"
  },
  {
   "id": 1403123009,
   "districtId": 1403123,
-  "name": "SRI DANAI"
+  "districtName": "PULAU BURUNG",
+  "name": "SRI DANAI",
+  "postalCode": "29256"
  },
  {
   "id": 1403123010,
   "districtId": 1403123,
-  "name": "SAPTA JAYA"
+  "districtName": "PULAU BURUNG",
+  "name": "SAPTA JAYA",
+  "postalCode": "29256"
  },
  {
   "id": 1403123011,
   "districtId": 1403123,
-  "name": "KERAMAT JAYA"
+  "districtName": "PULAU BURUNG",
+  "name": "KERAMAT JAYA",
+  "postalCode": "24582"
  },
  {
   "id": 1403123012,
   "districtId": 1403123,
-  "name": "SUKA JAYA"
+  "districtName": "PULAU BURUNG",
+  "name": "SUKA JAYA",
+  "postalCode": "24784"
  },
  {
   "id": 1403123014,
   "districtId": 1403123,
-  "name": "BINANGUN JAYA"
+  "districtName": "PULAU BURUNG",
+  "name": "BINANGUN JAYA",
+  "postalCode": "29256"
  },
  {
   "id": 1403123015,
   "districtId": 1403123,
-  "name": "SUKOHARJO JAYA"
+  "districtName": "PULAU BURUNG",
+  "name": "SUKOHARJO JAYA",
+  "postalCode": ""
  }
 ]

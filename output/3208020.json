@@ -2,61 +2,85 @@
  {
   "id": 3208020003,
   "districtId": 3208020,
-  "name": "MARGABAKTI"
+  "districtName": "KADUGEDE",
+  "name": "MARGABAKTI",
+  "postalCode": "46196"
  },
  {
   "id": 3208020004,
   "districtId": 3208020,
-  "name": "SINDANGJAWA"
+  "districtName": "KADUGEDE",
+  "name": "SINDANGJAWA",
+  "postalCode": "45587"
  },
  {
   "id": 3208020009,
   "districtId": 3208020,
-  "name": "KADUGEDE"
+  "districtName": "KADUGEDE",
+  "name": "KADUGEDE",
+  "postalCode": "45561"
  },
  {
   "id": 3208020010,
   "districtId": 3208020,
-  "name": "CIKETAK"
+  "districtName": "KADUGEDE",
+  "name": "CIKETAK",
+  "postalCode": "45561"
  },
  {
   "id": 3208020011,
   "districtId": 3208020,
-  "name": "NANGKA"
+  "districtName": "KADUGEDE",
+  "name": "NANGKA",
+  "postalCode": "20742"
  },
  {
   "id": 3208020012,
   "districtId": 3208020,
-  "name": "WINDUJANTEN"
+  "districtName": "KADUGEDE",
+  "name": "WINDUJANTEN",
+  "postalCode": "45561"
  },
  {
   "id": 3208020013,
   "districtId": 3208020,
-  "name": "CIPONDOK"
+  "districtName": "KADUGEDE",
+  "name": "CIPONDOK",
+  "postalCode": "45587"
  },
  {
   "id": 3208020014,
   "districtId": 3208020,
-  "name": "BABATAN"
+  "districtName": "KADUGEDE",
+  "name": "BABATAN",
+  "postalCode": "31593"
  },
  {
   "id": 3208020015,
   "districtId": 3208020,
-  "name": "BAYUNING"
+  "districtName": "KADUGEDE",
+  "name": "BAYUNING",
+  "postalCode": "45561"
  },
  {
   "id": 3208020017,
   "districtId": 3208020,
-  "name": "CIHERANG"
+  "districtName": "KADUGEDE",
+  "name": "CIHERANG",
+  "postalCode": "35379"
  },
  {
   "id": 3208020018,
   "districtId": 3208020,
-  "name": "TINGGAR"
+  "districtName": "KADUGEDE",
+  "name": "TINGGAR",
+  "postalCode": "45561"
  },
  {
   "id": 3208020019,
   "districtId": 3208020,
-  "name": "CISUKADANA"
+  "districtName": "KADUGEDE",
+  "name": "CISUKADANA",
+  "postalCode": "45561"
  }
 ]

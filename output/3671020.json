@@ -2,51 +2,71 @@
  {
   "id": 3671020012,
   "districtId": 3671020,
-  "name": "PORIS PLAWAD INDAH"
+  "districtName": "CIPONDOH",
+  "name": "PORIS PLAWAD INDAH",
+  "postalCode": "15141"
  },
  {
   "id": 3671020013,
   "districtId": 3671020,
-  "name": "CIPONDOH"
+  "districtName": "CIPONDOH",
+  "name": "CIPONDOH",
+  "postalCode": "41372"
  },
  {
   "id": 3671020014,
   "districtId": 3671020,
-  "name": "KENANGA"
+  "districtName": "CIPONDOH",
+  "name": "KENANGA",
+  "postalCode": "31619"
  },
  {
   "id": 3671020015,
   "districtId": 3671020,
-  "name": "GONDRONG"
+  "districtName": "CIPONDOH",
+  "name": "GONDRONG",
+  "postalCode": "15146"
  },
  {
   "id": 3671020016,
   "districtId": 3671020,
-  "name": "PETIR"
+  "districtName": "CIPONDOH",
+  "name": "PETIR",
+  "postalCode": "16680"
  },
  {
   "id": 3671020017,
   "districtId": 3671020,
-  "name": "KETAPANG"
+  "districtName": "CIPONDOH",
+  "name": "KETAPANG",
+  "postalCode": "35596"
  },
  {
   "id": 3671020018,
   "districtId": 3671020,
-  "name": "CIPONDOH INDAH"
+  "districtName": "CIPONDOH",
+  "name": "CIPONDOH INDAH",
+  "postalCode": "15148"
  },
  {
   "id": 3671020019,
   "districtId": 3671020,
-  "name": "CIPONDOH MAKMUR"
+  "districtName": "CIPONDOH",
+  "name": "CIPONDOH MAKMUR",
+  "postalCode": "15148"
  },
  {
   "id": 3671020020,
   "districtId": 3671020,
-  "name": "PORIS PLAWAD UTARA"
+  "districtName": "CIPONDOH",
+  "name": "PORIS PLAWAD UTARA",
+  "postalCode": "15141"
  },
  {
   "id": 3671020021,
   "districtId": 3671020,
-  "name": "PORIS PLAWAD"
+  "districtName": "CIPONDOH",
+  "name": "PORIS PLAWAD",
+  "postalCode": "15141"
  }
 ]

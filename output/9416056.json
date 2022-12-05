@@ -2,36 +2,50 @@
  {
   "id": 9416056001,
   "districtId": 9416056,
-  "name": "HILIPUK"
+  "districtName": "HILIPUK",
+  "name": "HILIPUK",
+  "postalCode": "99578"
  },
  {
   "id": 9416056002,
   "districtId": 9416056,
-  "name": "HOMODIPMU"
+  "districtName": "HILIPUK",
+  "name": "HOMODIPMU",
+  "postalCode": ""
  },
  {
   "id": 9416056003,
   "districtId": 9416056,
-  "name": "KINI"
+  "districtName": "HILIPUK",
+  "name": "KINI",
+  "postalCode": "99578"
  },
  {
   "id": 9416056004,
   "districtId": 9416056,
-  "name": "YARUHUK"
+  "districtName": "HILIPUK",
+  "name": "YARUHUK",
+  "postalCode": "99578"
  },
  {
   "id": 9416056007,
   "districtId": 9416056,
-  "name": "JAMIN"
+  "districtName": "HILIPUK",
+  "name": "JAMIN",
+  "postalCode": ""
  },
  {
   "id": 9416056008,
   "districtId": 9416056,
-  "name": "DINDOK"
+  "districtName": "HILIPUK",
+  "name": "DINDOK",
+  "postalCode": "99578"
  },
  {
   "id": 9416056009,
   "districtId": 9416056,
-  "name": "SOHONDIPMU"
+  "districtName": "HILIPUK",
+  "name": "SOHONDIPMU",
+  "postalCode": "99578"
  }
 ]

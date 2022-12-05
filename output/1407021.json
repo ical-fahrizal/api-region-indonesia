@@ -2,31 +2,43 @@
  {
   "id": 1407021001,
   "districtId": 1407021,
-  "name": "KABUN"
+  "districtName": "KABUN",
+  "name": "KABUN",
+  "postalCode": "28554"
  },
  {
   "id": 1407021002,
   "districtId": 1407021,
-  "name": "ALIANTAN"
+  "districtName": "KABUN",
+  "name": "ALIANTAN",
+  "postalCode": "28554"
  },
  {
   "id": 1407021003,
   "districtId": 1407021,
-  "name": "KOTO RANAH"
+  "districtName": "KABUN",
+  "name": "KOTO RANAH",
+  "postalCode": "25652"
  },
  {
   "id": 1407021004,
   "districtId": 1407021,
-  "name": "BENCAH KESUMA"
+  "districtName": "KABUN",
+  "name": "BENCAH KESUMA",
+  "postalCode": ""
  },
  {
   "id": 1407021005,
   "districtId": 1407021,
-  "name": "BATU LANGKAH BESAR"
+  "districtName": "KABUN",
+  "name": "BATU LANGKAH BESAR",
+  "postalCode": "28554"
  },
  {
   "id": 1407021006,
   "districtId": 1407021,
-  "name": "GITI"
+  "districtName": "KABUN",
+  "name": "GITI",
+  "postalCode": "28554"
  }
 ]

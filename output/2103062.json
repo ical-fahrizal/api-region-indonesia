@@ -2,21 +2,29 @@
  {
   "id": 2103062001,
   "districtId": 2103062,
-  "name": "ARUNG AYAM"
+  "districtName": "SERASAN TIMUR",
+  "name": "ARUNG AYAM",
+  "postalCode": "29781"
  },
  {
   "id": 2103062002,
   "districtId": 2103062,
-  "name": "AIR NUSA"
+  "districtName": "SERASAN TIMUR",
+  "name": "AIR NUSA",
+  "postalCode": "29781"
  },
  {
   "id": 2103062003,
   "districtId": 2103062,
-  "name": "AIR RINGAU"
+  "districtName": "SERASAN TIMUR",
+  "name": "AIR RINGAU",
+  "postalCode": "29781"
  },
  {
   "id": 2103062004,
   "districtId": 2103062,
-  "name": "PAYAK"
+  "districtName": "SERASAN TIMUR",
+  "name": "PAYAK",
+  "postalCode": "59157"
  }
 ]

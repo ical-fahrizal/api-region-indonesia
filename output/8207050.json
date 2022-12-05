@@ -2,66 +2,92 @@
  {
   "id": 8207050001,
   "districtId": 8207050,
-  "name": "BIDO"
+  "districtName": "MOROTAI UTARA",
+  "name": "BIDO",
+  "postalCode": "97772"
  },
  {
   "id": 8207050002,
   "districtId": 8207050,
-  "name": "YAO"
+  "districtName": "MOROTAI UTARA",
+  "name": "YAO",
+  "postalCode": "97772"
  },
  {
   "id": 8207050003,
   "districtId": 8207050,
-  "name": "TAWAKALI"
+  "districtName": "MOROTAI UTARA",
+  "name": "TAWAKALI",
+  "postalCode": "97772"
  },
  {
   "id": 8207050004,
   "districtId": 8207050,
-  "name": "SAKITA"
+  "districtName": "MOROTAI UTARA",
+  "name": "SAKITA",
+  "postalCode": "94973"
  },
  {
   "id": 8207050005,
   "districtId": 8207050,
-  "name": "LELEO JAYA"
+  "districtName": "MOROTAI UTARA",
+  "name": "LELEO JAYA",
+  "postalCode": ""
  },
  {
   "id": 8207050006,
   "districtId": 8207050,
-  "name": "KENARI"
+  "districtName": "MOROTAI UTARA",
+  "name": "KENARI",
+  "postalCode": "10430"
  },
  {
   "id": 8207050008,
   "districtId": 8207050,
-  "name": "LOSUO"
+  "districtName": "MOROTAI UTARA",
+  "name": "LOSUO",
+  "postalCode": "97772"
  },
  {
   "id": 8207050009,
   "districtId": 8207050,
-  "name": "KORAGO"
+  "districtName": "MOROTAI UTARA",
+  "name": "KORAGO",
+  "postalCode": "97772"
  },
  {
   "id": 8207050010,
   "districtId": 8207050,
-  "name": "GORUA"
+  "districtName": "MOROTAI UTARA",
+  "name": "GORUA",
+  "postalCode": "97772"
  },
  {
   "id": 8207050011,
   "districtId": 8207050,
-  "name": "TANJUNG SALEH"
+  "districtName": "MOROTAI UTARA",
+  "name": "TANJUNG SALEH",
+  "postalCode": "78381"
  },
  {
   "id": 8207050012,
   "districtId": 8207050,
-  "name": "GOA HIRA"
+  "districtName": "MOROTAI UTARA",
+  "name": "GOA HIRA",
+  "postalCode": "97772"
  },
  {
   "id": 8207050013,
   "districtId": 8207050,
-  "name": "MABA"
+  "districtName": "MOROTAI UTARA",
+  "name": "MABA",
+  "postalCode": "97772"
  },
  {
   "id": 8207050014,
   "districtId": 8207050,
-  "name": "GORUA SELATAN"
+  "districtName": "MOROTAI UTARA",
+  "name": "GORUA SELATAN",
+  "postalCode": "97772"
  }
 ]

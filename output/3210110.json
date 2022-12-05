@@ -2,41 +2,57 @@
  {
   "id": 3210110001,
   "districtId": 3210110,
-  "name": "BANTAR AGUNG"
+  "districtName": "SINDANGWANGI",
+  "name": "BANTAR AGUNG",
+  "postalCode": "43171"
  },
  {
   "id": 3210110002,
   "districtId": 3210110,
-  "name": "PADAHERANG"
+  "districtName": "SINDANGWANGI",
+  "name": "PADAHERANG",
+  "postalCode": "46384"
  },
  {
   "id": 3210110003,
   "districtId": 3210110,
-  "name": "LENGKONGWETAN"
+  "districtName": "SINDANGWANGI",
+  "name": "LENGKONGWETAN",
+  "postalCode": "45474"
  },
  {
   "id": 3210110004,
   "districtId": 3210110,
-  "name": "LENGKONGKULON"
+  "districtName": "SINDANGWANGI",
+  "name": "LENGKONGKULON",
+  "postalCode": "45474"
  },
  {
   "id": 3210110006,
   "districtId": 3210110,
-  "name": "SINDANGWANGI"
+  "districtName": "SINDANGWANGI",
+  "name": "SINDANGWANGI",
+  "postalCode": "46384"
  },
  {
   "id": 3210110007,
   "districtId": 3210110,
-  "name": "BUAHKAPAS"
+  "districtName": "SINDANGWANGI",
+  "name": "BUAHKAPAS",
+  "postalCode": "45474"
  },
  {
   "id": 3210110009,
   "districtId": 3210110,
-  "name": "LEUWILAJA"
+  "districtName": "SINDANGWANGI",
+  "name": "LEUWILAJA",
+  "postalCode": "45474"
  },
  {
   "id": 3210110010,
   "districtId": 3210110,
-  "name": "BALAGEDOG"
+  "districtName": "SINDANGWANGI",
+  "name": "BALAGEDOG",
+  "postalCode": "45474"
  }
 ]

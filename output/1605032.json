@@ -2,51 +2,71 @@
  {
   "id": 1605032001,
   "districtId": 1605032,
-  "name": "SUMBER JAYA"
+  "districtName": "SUMBER HARTA",
+  "name": "SUMBER JAYA",
+  "postalCode": "24553"
  },
  {
   "id": 1605032002,
   "districtId": 1605032,
-  "name": "SUMBER HARTA"
+  "districtName": "SUMBER HARTA",
+  "name": "SUMBER HARTA",
+  "postalCode": "30771"
  },
  {
   "id": 1605032003,
   "districtId": 1605032,
-  "name": "JAMBU REJO"
+  "districtName": "SUMBER HARTA",
+  "name": "JAMBU REJO",
+  "postalCode": ""
  },
  {
   "id": 1605032004,
   "districtId": 1605032,
-  "name": "SUKA MAJU"
+  "districtName": "SUMBER HARTA",
+  "name": "SUKA MAJU",
+  "postalCode": "24673"
  },
  {
   "id": 1605032005,
   "districtId": 1605032,
-  "name": "SUMBER SARI"
+  "districtName": "SUMBER HARTA",
+  "name": "SUMBER SARI",
+  "postalCode": "21343"
  },
  {
   "id": 1605032006,
   "districtId": 1605032,
-  "name": "SUKA MULYA"
+  "districtName": "SUMBER HARTA",
+  "name": "SUKA MULYA",
+  "postalCode": "28463"
  },
  {
   "id": 1605032007,
   "districtId": 1605032,
-  "name": "SUKA JAYA"
+  "districtName": "SUMBER HARTA",
+  "name": "SUKA JAYA",
+  "postalCode": "24784"
  },
  {
   "id": 1605032008,
   "districtId": 1605032,
-  "name": "SUKARAMI"
+  "districtName": "SUMBER HARTA",
+  "name": "SUKARAMI",
+  "postalCode": "32382"
  },
  {
   "id": 1605032009,
   "districtId": 1605032,
-  "name": "MADANG"
+  "districtName": "SUMBER HARTA",
+  "name": "MADANG",
+  "postalCode": "71555"
  },
  {
   "id": 1605032010,
   "districtId": 1605032,
-  "name": "SUMBER ASRI"
+  "districtName": "SUMBER HARTA",
+  "name": "SUMBER ASRI",
+  "postalCode": "32361"
  }
 ]

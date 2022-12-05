@@ -2,51 +2,71 @@
  {
   "id": 1404041001,
   "districtId": 1404041,
-  "name": "BUKIT LEMBAH SUBUR"
+  "districtName": "KERUMUTAN",
+  "name": "BUKIT LEMBAH SUBUR",
+  "postalCode": "28353"
  },
  {
   "id": 1404041002,
   "districtId": 1404041,
-  "name": "BANJAR PANJANG"
+  "districtName": "KERUMUTAN",
+  "name": "BANJAR PANJANG",
+  "postalCode": "28353"
  },
  {
   "id": 1404041003,
   "districtId": 1404041,
-  "name": "KERUMUTAN"
+  "districtName": "KERUMUTAN",
+  "name": "KERUMUTAN",
+  "postalCode": "28353"
  },
  {
   "id": 1404041004,
   "districtId": 1404041,
-  "name": "BERINGIN MAKMUR"
+  "districtName": "KERUMUTAN",
+  "name": "BERINGIN MAKMUR",
+  "postalCode": "28353"
  },
  {
   "id": 1404041005,
   "districtId": 1404041,
-  "name": "PEMATANG TINGGI"
+  "districtName": "KERUMUTAN",
+  "name": "PEMATANG TINGGI",
+  "postalCode": "28353"
  },
  {
   "id": 1404041006,
   "districtId": 1404041,
-  "name": "PANGKALAN TAMPOI"
+  "districtName": "KERUMUTAN",
+  "name": "PANGKALAN TAMPOI",
+  "postalCode": ""
  },
  {
   "id": 1404041007,
   "districtId": 1404041,
-  "name": "PANGKALAN PANDUK"
+  "districtName": "KERUMUTAN",
+  "name": "PANGKALAN PANDUK",
+  "postalCode": "28353"
  },
  {
   "id": 1404041008,
   "districtId": 1404041,
-  "name": "TANJUNG AIR HITAM"
+  "districtName": "KERUMUTAN",
+  "name": "TANJUNG AIR HITAM",
+  "postalCode": "28353"
  },
  {
   "id": 1404041009,
   "districtId": 1404041,
-  "name": "MAK TEDUH"
+  "districtName": "KERUMUTAN",
+  "name": "MAK TEDUH",
+  "postalCode": "28353"
  },
  {
   "id": 1404041010,
   "districtId": 1404041,
-  "name": "LIPAI BULAN"
+  "districtName": "KERUMUTAN",
+  "name": "LIPAI BULAN",
+  "postalCode": "28353"
  }
 ]

@@ -2,66 +2,92 @@
  {
   "id": 1211090001,
   "districtId": 1211090,
-  "name": "LAUSIMOMO"
+  "districtName": "KABANJAHE",
+  "name": "LAUSIMOMO",
+  "postalCode": ""
  },
  {
   "id": 1211090002,
   "districtId": 1211090,
-  "name": "KANDIBATA"
+  "districtName": "KABANJAHE",
+  "name": "KANDIBATA",
+  "postalCode": "22111"
  },
  {
   "id": 1211090003,
   "districtId": 1211090,
-  "name": "KACARIBU"
+  "districtName": "KABANJAHE",
+  "name": "KACARIBU",
+  "postalCode": "22111"
  },
  {
   "id": 1211090004,
   "districtId": 1211090,
-  "name": "LAU CIMBA"
+  "districtName": "KABANJAHE",
+  "name": "LAU CIMBA",
+  "postalCode": "22114"
  },
  {
   "id": 1211090005,
   "districtId": 1211090,
-  "name": "PADANG MAS"
+  "districtName": "KABANJAHE",
+  "name": "PADANG MAS",
+  "postalCode": "22115"
  },
  {
   "id": 1211090006,
   "districtId": 1211090,
-  "name": "GUNG LETO"
+  "districtName": "KABANJAHE",
+  "name": "GUNG LETO",
+  "postalCode": "22111"
  },
  {
   "id": 1211090007,
   "districtId": 1211090,
-  "name": "GUNG NEGERI"
+  "districtName": "KABANJAHE",
+  "name": "GUNG NEGERI",
+  "postalCode": "22112"
  },
  {
   "id": 1211090008,
   "districtId": 1211090,
-  "name": "SAMURA"
+  "districtName": "KABANJAHE",
+  "name": "SAMURA",
+  "postalCode": "22111"
  },
  {
   "id": 1211090009,
   "districtId": 1211090,
-  "name": "KETAREN"
+  "districtName": "KABANJAHE",
+  "name": "KETAREN",
+  "postalCode": "22111"
  },
  {
   "id": 1211090010,
   "districtId": 1211090,
-  "name": "KAMPUNG DALAM"
+  "districtName": "KABANJAHE",
+  "name": "KAMPUNG DALAM",
+  "postalCode": "21451"
  },
  {
   "id": 1211090011,
   "districtId": 1211090,
-  "name": "RUMAH KABANJAHE"
+  "districtName": "KABANJAHE",
+  "name": "RUMAH KABANJAHE",
+  "postalCode": "22111"
  },
  {
   "id": 1211090012,
   "districtId": 1211090,
-  "name": "KABAN"
+  "districtName": "KABANJAHE",
+  "name": "KABAN",
+  "postalCode": "22111"
  },
  {
   "id": 1211090013,
   "districtId": 1211090,
-  "name": "SUMBER MUFAKAT"
+  "districtName": "KABANJAHE",
+  "name": "SUMBER MUFAKAT",
+  "postalCode": "22111"
  }
 ]

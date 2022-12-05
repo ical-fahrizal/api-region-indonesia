@@ -2,66 +2,92 @@
  {
   "id": 3529120001,
   "districtId": 3529120,
-  "name": "AMBUNTEN BARAT"
+  "districtName": "AMBUNTEN",
+  "name": "AMBUNTEN BARAT",
+  "postalCode": "69455"
  },
  {
   "id": 3529120002,
   "districtId": 3529120,
-  "name": "AMBUNTEN TENGAH"
+  "districtName": "AMBUNTEN",
+  "name": "AMBUNTEN TENGAH",
+  "postalCode": "69455"
  },
  {
   "id": 3529120003,
   "districtId": 3529120,
-  "name": "AMBUNTEN TIMUR"
+  "districtName": "AMBUNTEN",
+  "name": "AMBUNTEN TIMUR",
+  "postalCode": "69455"
  },
  {
   "id": 3529120004,
   "districtId": 3529120,
-  "name": "TAMBAAGUNG BARAT"
+  "districtName": "AMBUNTEN",
+  "name": "TAMBAAGUNG BARAT",
+  "postalCode": "69455"
  },
  {
   "id": 3529120005,
   "districtId": 3529120,
-  "name": "TAMBAAGUNG TENGAH"
+  "districtName": "AMBUNTEN",
+  "name": "TAMBAAGUNG TENGAH",
+  "postalCode": "69455"
  },
  {
   "id": 3529120006,
   "districtId": 3529120,
-  "name": "TAMBAAGUNG ARES"
+  "districtName": "AMBUNTEN",
+  "name": "TAMBAAGUNG ARES",
+  "postalCode": "69455"
  },
  {
   "id": 3529120007,
   "districtId": 3529120,
-  "name": "SOGIAN"
+  "districtName": "AMBUNTEN",
+  "name": "SOGIAN",
+  "postalCode": "69455"
  },
  {
   "id": 3529120009,
   "districtId": 3529120,
-  "name": "TAMBAAGUNG TIMUR"
+  "districtName": "AMBUNTEN",
+  "name": "TAMBAAGUNG TIMUR",
+  "postalCode": "69455"
  },
  {
   "id": 3529120010,
   "districtId": 3529120,
-  "name": "BUKABU"
+  "districtName": "AMBUNTEN",
+  "name": "BUKABU",
+  "postalCode": "69455"
  },
  {
   "id": 3529120011,
   "districtId": 3529120,
-  "name": "CAMPOR BARAT"
+  "districtName": "AMBUNTEN",
+  "name": "CAMPOR BARAT",
+  "postalCode": "69455"
  },
  {
   "id": 3529120012,
   "districtId": 3529120,
-  "name": "CAMPOR TIMUR"
+  "districtName": "AMBUNTEN",
+  "name": "CAMPOR TIMUR",
+  "postalCode": "69455"
  },
  {
   "id": 3529120013,
   "districtId": 3529120,
-  "name": "BELUK ARES"
+  "districtName": "AMBUNTEN",
+  "name": "BELUK ARES",
+  "postalCode": "69455"
  },
  {
   "id": 3529120015,
   "districtId": 3529120,
-  "name": "BELUK RAJA"
+  "districtName": "AMBUNTEN",
+  "name": "BELUK RAJA",
+  "postalCode": "69455"
  }
 ]

@@ -2,71 +2,99 @@
  {
   "id": 3217060001,
   "districtId": 3217060,
-  "name": "CINTAASIH"
+  "districtName": "CIPONGKOR",
+  "name": "CINTAASIH",
+  "postalCode": "45467"
  },
  {
   "id": 3217060002,
   "districtId": 3217060,
-  "name": "KARANGSARI"
+  "districtName": "CIPONGKOR",
+  "name": "KARANGSARI",
+  "postalCode": "35376"
  },
  {
   "id": 3217060003,
   "districtId": 3217060,
-  "name": "NEGLASARI"
+  "districtName": "CIPONGKOR",
+  "name": "NEGLASARI",
+  "postalCode": "35452"
  },
  {
   "id": 3217060004,
   "districtId": 3217060,
-  "name": "GIRIMUKTI"
+  "districtName": "CIPONGKOR",
+  "name": "GIRIMUKTI",
+  "postalCode": "46475"
  },
  {
   "id": 3217060005,
   "districtId": 3217060,
-  "name": "CIJENUK"
+  "districtName": "CIPONGKOR",
+  "name": "CIJENUK",
+  "postalCode": "40564"
  },
  {
   "id": 3217060006,
   "districtId": 3217060,
-  "name": "CICANGKANG HILIR"
+  "districtName": "CIPONGKOR",
+  "name": "CICANGKANG HILIR",
+  "postalCode": "40564"
  },
  {
   "id": 3217060007,
   "districtId": 3217060,
-  "name": "SUKAMULYA"
+  "districtName": "CIPONGKOR",
+  "name": "SUKAMULYA",
+  "postalCode": "30657"
  },
  {
   "id": 3217060008,
   "districtId": 3217060,
-  "name": "CITALEM"
+  "districtName": "CIPONGKOR",
+  "name": "CITALEM",
+  "postalCode": "40564"
  },
  {
   "id": 3217060009,
   "districtId": 3217060,
-  "name": "MEKARSARI"
+  "districtName": "CIPONGKOR",
+  "name": "MEKARSARI",
+  "postalCode": "37482"
  },
  {
   "id": 3217060010,
   "districtId": 3217060,
-  "name": "SARINAGEN"
+  "districtName": "CIPONGKOR",
+  "name": "SARINAGEN",
+  "postalCode": "40564"
  },
  {
   "id": 3217060011,
   "districtId": 3217060,
-  "name": "CIBENDA"
+  "districtName": "CIPONGKOR",
+  "name": "CIBENDA",
+  "postalCode": "43177"
  },
  {
   "id": 3217060012,
   "districtId": 3217060,
-  "name": "CIJAMBU"
+  "districtName": "CIPONGKOR",
+  "name": "CIJAMBU",
+  "postalCode": "40564"
  },
  {
   "id": 3217060013,
   "districtId": 3217060,
-  "name": "SIRNAGALIH"
+  "districtName": "CIPONGKOR",
+  "name": "SIRNAGALIH",
+  "postalCode": "35387"
  },
  {
   "id": 3217060014,
   "districtId": 3217060,
-  "name": "BARANANGSIANG"
+  "districtName": "CIPONGKOR",
+  "name": "BARANANGSIANG",
+  "postalCode": "16143"
  }
 ]

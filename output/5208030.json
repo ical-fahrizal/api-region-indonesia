@@ -2,16 +2,22 @@
  {
   "id": 5208030002,
   "districtId": 5208030,
-  "name": "GONDANG"
+  "districtName": "GANGGA",
+  "name": "GONDANG",
+  "postalCode": "51255"
  },
  {
   "id": 5208030003,
   "districtId": 5208030,
-  "name": "GENGGELANG"
+  "districtName": "GANGGA",
+  "name": "GENGGELANG",
+  "postalCode": "83353"
  },
  {
   "id": 5208030005,
   "districtId": 5208030,
-  "name": "SAMBIK BANGKOL"
+  "districtName": "GANGGA",
+  "name": "SAMBIK BANGKOL",
+  "postalCode": "83353"
  }
 ]

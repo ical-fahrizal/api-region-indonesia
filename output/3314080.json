@@ -2,36 +2,50 @@
  {
   "id": 3314080001,
   "districtId": 3314080,
-  "name": "PILANGSARI"
+  "districtName": "NGRAMPAL",
+  "name": "PILANGSARI",
+  "postalCode": "45273"
  },
  {
   "id": 3314080002,
   "districtId": 3314080,
-  "name": "NGARUM"
+  "districtName": "NGRAMPAL",
+  "name": "NGARUM",
+  "postalCode": "57252"
  },
  {
   "id": 3314080004,
   "districtId": 3314080,
-  "name": "KEBONROMO"
+  "districtName": "NGRAMPAL",
+  "name": "KEBONROMO",
+  "postalCode": "57252"
  },
  {
   "id": 3314080005,
   "districtId": 3314080,
-  "name": "BANDUNG"
+  "districtName": "NGRAMPAL",
+  "name": "BANDUNG",
+  "postalCode": "54317"
  },
  {
   "id": 3314080006,
   "districtId": 3314080,
-  "name": "GABUS"
+  "districtName": "NGRAMPAL",
+  "name": "GABUS",
+  "postalCode": "58183"
  },
  {
   "id": 3314080007,
   "districtId": 3314080,
-  "name": "KARANGUDI"
+  "districtName": "NGRAMPAL",
+  "name": "KARANGUDI",
+  "postalCode": "57252"
  },
  {
   "id": 3314080008,
   "districtId": 3314080,
-  "name": "KLANDUNGAN"
+  "districtName": "NGRAMPAL",
+  "name": "KLANDUNGAN",
+  "postalCode": "57252"
  }
 ]

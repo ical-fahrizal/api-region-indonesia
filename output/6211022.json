@@ -2,56 +2,78 @@
  {
   "id": 6211022001,
   "districtId": 6211022,
-  "name": "HUJUNG PATA"
+  "districtName": "RUNGAN BARAT",
+  "name": "HUJUNG PATA",
+  "postalCode": "74561"
  },
  {
   "id": 6211022002,
   "districtId": 6211022,
-  "name": "TUMBANG JALEMU KAJUEI"
+  "districtName": "RUNGAN BARAT",
+  "name": "TUMBANG JALEMU KAJUEI",
+  "postalCode": "74561"
  },
  {
   "id": 6211022003,
   "districtId": 6211022,
-  "name": "JALEMU  RAYA"
+  "districtName": "RUNGAN BARAT",
+  "name": "JALEMU  RAYA",
+  "postalCode": ""
  },
  {
   "id": 6211022004,
   "districtId": 6211022,
-  "name": "JALEMU MASULAN"
+  "districtName": "RUNGAN BARAT",
+  "name": "JALEMU MASULAN",
+  "postalCode": "74561"
  },
  {
   "id": 6211022005,
   "districtId": 6211022,
-  "name": "TAJAH ANTANG RAYA"
+  "districtName": "RUNGAN BARAT",
+  "name": "TAJAH ANTANG RAYA",
+  "postalCode": "74561"
  },
  {
   "id": 6211022006,
   "districtId": 6211022,
-  "name": "RABAMBANG"
+  "districtName": "RUNGAN BARAT",
+  "name": "RABAMBANG",
+  "postalCode": "74561"
  },
  {
   "id": 6211022007,
   "districtId": 6211022,
-  "name": "MANGKAWUK"
+  "districtName": "RUNGAN BARAT",
+  "name": "MANGKAWUK",
+  "postalCode": "74562"
  },
  {
   "id": 6211022008,
   "districtId": 6211022,
-  "name": "TUMBANG KUAYAN"
+  "districtName": "RUNGAN BARAT",
+  "name": "TUMBANG KUAYAN",
+  "postalCode": "74561"
  },
  {
   "id": 6211022009,
   "districtId": 6211022,
-  "name": "TUMBANG LANGGAH"
+  "districtName": "RUNGAN BARAT",
+  "name": "TUMBANG LANGGAH",
+  "postalCode": "74561"
  },
  {
   "id": 6211022010,
   "districtId": 6211022,
-  "name": "TUSANG  RAYA"
+  "districtName": "RUNGAN BARAT",
+  "name": "TUSANG  RAYA",
+  "postalCode": ""
  },
  {
   "id": 6211022011,
   "districtId": 6211022,
-  "name": "TUMBANG BAHANEI"
+  "districtName": "RUNGAN BARAT",
+  "name": "TUMBANG BAHANEI",
+  "postalCode": "74561"
  }
 ]

@@ -2,11 +2,15 @@
  {
   "id": 1905050002,
   "districtId": 1905050,
-  "name": "TANJUNGLABU"
+  "districtName": "LEPAR PONGOK",
+  "name": "TANJUNGLABU",
+  "postalCode": ""
  },
  {
   "id": 1905050004,
   "districtId": 1905050,
-  "name": "TANJUNG SANGKAR"
+  "districtName": "LEPAR PONGOK",
+  "name": "TANJUNG SANGKAR",
+  "postalCode": "33791"
  }
 ]

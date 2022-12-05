@@ -2,36 +2,50 @@
  {
   "id": 7326050001,
   "districtId": 7326050,
-  "name": "LEMBANG RANTE BUA SANGGALANGI"
+  "districtName": "RANTEBUA",
+  "name": "LEMBANG RANTE BUA SANGGALANGI",
+  "postalCode": ""
  },
  {
   "id": 7326050002,
   "districtId": 7326050,
-  "name": "LEMBANG RANTE BUA SAMALU"
+  "districtName": "RANTEBUA",
+  "name": "LEMBANG RANTE BUA SAMALU",
+  "postalCode": ""
  },
  {
   "id": 7326050003,
   "districtId": 7326050,
-  "name": "LEMBANG RANTE BUA"
+  "districtName": "RANTEBUA",
+  "name": "LEMBANG RANTE BUA",
+  "postalCode": ""
  },
  {
   "id": 7326050004,
   "districtId": 7326050,
-  "name": "KELURAHAN BUANGIN"
+  "districtName": "RANTEBUA",
+  "name": "KELURAHAN BUANGIN",
+  "postalCode": ""
  },
  {
   "id": 7326050005,
   "districtId": 7326050,
-  "name": "KELURAHAN BOKIN"
+  "districtName": "RANTEBUA",
+  "name": "KELURAHAN BOKIN",
+  "postalCode": ""
  },
  {
   "id": 7326050006,
   "districtId": 7326050,
-  "name": "LEMBANG MAKKUAN PARE"
+  "districtName": "RANTEBUA",
+  "name": "LEMBANG MAKKUAN PARE",
+  "postalCode": ""
  },
  {
   "id": 7326050007,
   "districtId": 7326050,
-  "name": "LEMBANG PITUNG PENANIAN"
+  "districtName": "RANTEBUA",
+  "name": "LEMBANG PITUNG PENANIAN",
+  "postalCode": ""
  }
 ]

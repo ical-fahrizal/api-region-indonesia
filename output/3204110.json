@@ -2,71 +2,99 @@
  {
   "id": 3204110001,
   "districtId": 3204110,
-  "name": "SUKAMANAH"
+  "districtName": "RANCAEKEK",
+  "name": "SUKAMANAH",
+  "postalCode": "43273"
  },
  {
   "id": 3204110002,
   "districtId": 3204110,
-  "name": "TEGALSUMEDANG"
+  "districtName": "RANCAEKEK",
+  "name": "TEGALSUMEDANG",
+  "postalCode": ""
  },
  {
   "id": 3204110003,
   "districtId": 3204110,
-  "name": "RANCAEKEK KULON"
+  "districtName": "RANCAEKEK",
+  "name": "RANCAEKEK KULON",
+  "postalCode": "40394"
  },
  {
   "id": 3204110004,
   "districtId": 3204110,
-  "name": "RANCAEKEK WETAN"
+  "districtName": "RANCAEKEK",
+  "name": "RANCAEKEK WETAN",
+  "postalCode": "40394"
  },
  {
   "id": 3204110005,
   "districtId": 3204110,
-  "name": "BOJONGLOA"
+  "districtName": "RANCAEKEK",
+  "name": "BOJONGLOA",
+  "postalCode": "45392"
  },
  {
   "id": 3204110006,
   "districtId": 3204110,
-  "name": "JELEGONG"
+  "districtName": "RANCAEKEK",
+  "name": "JELEGONG",
+  "postalCode": "46352"
  },
  {
   "id": 3204110007,
   "districtId": 3204110,
-  "name": "LINGGAR"
+  "districtName": "RANCAEKEK",
+  "name": "LINGGAR",
+  "postalCode": "40394"
  },
  {
   "id": 3204110008,
   "districtId": 3204110,
-  "name": "SUKAMULYA"
+  "districtName": "RANCAEKEK",
+  "name": "SUKAMULYA",
+  "postalCode": "30657"
  },
  {
   "id": 3204110009,
   "districtId": 3204110,
-  "name": "HAURPUGUR"
+  "districtName": "RANCAEKEK",
+  "name": "HAURPUGUR",
+  "postalCode": "40394"
  },
  {
   "id": 3204110010,
   "districtId": 3204110,
-  "name": "SANGIANG"
+  "districtName": "RANCAEKEK",
+  "name": "SANGIANG",
+  "postalCode": "45468"
  },
  {
   "id": 3204110011,
   "districtId": 3204110,
-  "name": "BOJONGSALAM"
+  "districtName": "RANCAEKEK",
+  "name": "BOJONGSALAM",
+  "postalCode": "40394"
  },
  {
   "id": 3204110012,
   "districtId": 3204110,
-  "name": "CANGKUANG"
+  "districtName": "RANCAEKEK",
+  "name": "CANGKUANG",
+  "postalCode": "45191"
  },
  {
   "id": 3204110013,
   "districtId": 3204110,
-  "name": "NANJUNGMEKAR"
+  "districtName": "RANCAEKEK",
+  "name": "NANJUNGMEKAR",
+  "postalCode": "40394"
  },
  {
   "id": 3204110014,
   "districtId": 3204110,
-  "name": "RANCAEKEK KENCANA"
+  "districtName": "RANCAEKEK",
+  "name": "RANCAEKEK KENCANA",
+  "postalCode": "40394"
  }
 ]

@@ -2,46 +2,64 @@
  {
   "id": 1805060001,
   "districtId": 1805060,
-  "name": "NUNGGAL REJO"
+  "districtName": "PUNGGUR",
+  "name": "NUNGGAL REJO",
+  "postalCode": "34152"
  },
  {
   "id": 1805060002,
   "districtId": 1805060,
-  "name": "BADRAN SARI"
+  "districtName": "PUNGGUR",
+  "name": "BADRAN SARI",
+  "postalCode": "34152"
  },
  {
   "id": 1805060003,
   "districtId": 1805060,
-  "name": "SRI SAWAHAN"
+  "districtName": "PUNGGUR",
+  "name": "SRI SAWAHAN",
+  "postalCode": "34152"
  },
  {
   "id": 1805060007,
   "districtId": 1805060,
-  "name": "TOTO KATON"
+  "districtName": "PUNGGUR",
+  "name": "TOTO KATON",
+  "postalCode": "34683"
  },
  {
   "id": 1805060008,
   "districtId": 1805060,
-  "name": "TANGGUL ANGIN"
+  "districtName": "PUNGGUR",
+  "name": "TANGGUL ANGIN",
+  "postalCode": "34152"
  },
  {
   "id": 1805060009,
   "districtId": 1805060,
-  "name": "NGESTI RAHAYU"
+  "districtName": "PUNGGUR",
+  "name": "NGESTI RAHAYU",
+  "postalCode": "34152"
  },
  {
   "id": 1805060010,
   "districtId": 1805060,
-  "name": "MOJO PAHIT"
+  "districtName": "PUNGGUR",
+  "name": "MOJO PAHIT",
+  "postalCode": "34152"
  },
  {
   "id": 1805060011,
   "districtId": 1805060,
-  "name": "ASTO MULYO"
+  "districtName": "PUNGGUR",
+  "name": "ASTO MULYO",
+  "postalCode": "34152"
  },
  {
   "id": 1805060012,
   "districtId": 1805060,
-  "name": "SIDO MULYO"
+  "districtName": "PUNGGUR",
+  "name": "SIDO MULYO",
+  "postalCode": "24371"
  }
 ]

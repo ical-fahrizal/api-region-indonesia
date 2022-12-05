@@ -2,36 +2,50 @@
  {
   "id": 9416054001,
   "districtId": 9416054,
-  "name": "KABIANGGAMA"
+  "districtName": "KABIANGGAMA",
+  "name": "KABIANGGAMA",
+  "postalCode": "99578"
  },
  {
   "id": 9416054002,
   "districtId": 9416054,
-  "name": "SOHOPMA"
+  "districtName": "KABIANGGAMA",
+  "name": "SOHOPMA",
+  "postalCode": ""
  },
  {
   "id": 9416054003,
   "districtId": 9416054,
-  "name": "SOHAL"
+  "districtName": "KABIANGGAMA",
+  "name": "SOHAL",
+  "postalCode": "99578"
  },
  {
   "id": 9416054004,
   "districtId": 9416054,
-  "name": "BAHABOLMA"
+  "districtName": "KABIANGGAMA",
+  "name": "BAHABOLMA",
+  "postalCode": ""
  },
  {
   "id": 9416054005,
   "districtId": 9416054,
-  "name": "SUBAYO"
+  "districtName": "KABIANGGAMA",
+  "name": "SUBAYO",
+  "postalCode": "99578"
  },
  {
   "id": 9416054006,
   "districtId": 9416054,
-  "name": "BUAHUN"
+  "districtName": "KABIANGGAMA",
+  "name": "BUAHUN",
+  "postalCode": "99578"
  },
  {
   "id": 9416054007,
   "districtId": 9416054,
-  "name": "DOMUL"
+  "districtName": "KABIANGGAMA",
+  "name": "DOMUL",
+  "postalCode": "99578"
  }
 ]

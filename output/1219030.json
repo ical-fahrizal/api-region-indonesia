@@ -2,51 +2,71 @@
  {
   "id": 1219030008,
   "districtId": 1219030,
-  "name": "PANJANG"
+  "districtName": "TALAWI",
+  "name": "PANJANG",
+  "postalCode": "21254"
  },
  {
   "id": 1219030009,
   "districtId": 1219030,
-  "name": "PAHANG"
+  "districtName": "TALAWI",
+  "name": "PAHANG",
+  "postalCode": "21369"
  },
  {
   "id": 1219030010,
   "districtId": 1219030,
-  "name": "PADANG GENTING"
+  "districtName": "TALAWI",
+  "name": "PADANG GENTING",
+  "postalCode": "21254"
  },
  {
   "id": 1219030011,
   "districtId": 1219030,
-  "name": "LABUHAN RUKU"
+  "districtName": "TALAWI",
+  "name": "LABUHAN RUKU",
+  "postalCode": "21254"
  },
  {
   "id": 1219030012,
   "districtId": 1219030,
-  "name": "MESJID LAMA"
+  "districtName": "TALAWI",
+  "name": "MESJID LAMA",
+  "postalCode": "21254"
  },
  {
   "id": 1219030013,
   "districtId": 1219030,
-  "name": "DAHARI SELEBAR"
+  "districtName": "TALAWI",
+  "name": "DAHARI SELEBAR",
+  "postalCode": "21254"
  },
  {
   "id": 1219030017,
   "districtId": 1219030,
-  "name": "GUNUNG RANTE"
+  "districtName": "TALAWI",
+  "name": "GUNUNG RANTE",
+  "postalCode": "21254"
  },
  {
   "id": 1219030018,
   "districtId": 1219030,
-  "name": "BENTENG"
+  "districtName": "TALAWI",
+  "name": "BENTENG",
+  "postalCode": "24452"
  },
  {
   "id": 1219030019,
   "districtId": 1219030,
-  "name": "INDRA YAMAN"
+  "districtName": "TALAWI",
+  "name": "INDRA YAMAN",
+  "postalCode": "21254"
  },
  {
   "id": 1219030020,
   "districtId": 1219030,
-  "name": "DAHARI INDAH"
+  "districtName": "TALAWI",
+  "name": "DAHARI INDAH",
+  "postalCode": "21254"
  }
 ]

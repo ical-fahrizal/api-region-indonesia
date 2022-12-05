@@ -2,41 +2,57 @@
  {
   "id": 6211061001,
   "districtId": 6211061,
-  "name": "LAWANG KANJI"
+  "districtName": "DAMANG BATU",
+  "name": "LAWANG KANJI",
+  "postalCode": "74553"
  },
  {
   "id": 6211061002,
   "districtId": 6211061,
-  "name": "TUMBANG MARAYA"
+  "districtName": "DAMANG BATU",
+  "name": "TUMBANG MARAYA",
+  "postalCode": "74553"
  },
  {
   "id": 6211061003,
   "districtId": 6211061,
-  "name": "TUMBANG POSU"
+  "districtName": "DAMANG BATU",
+  "name": "TUMBANG POSU",
+  "postalCode": "74553"
  },
  {
   "id": 6211061004,
   "districtId": 6211061,
-  "name": "TUMBANG MARIKOI"
+  "districtName": "DAMANG BATU",
+  "name": "TUMBANG MARIKOI",
+  "postalCode": "74553"
  },
  {
   "id": 6211061005,
   "districtId": 6211061,
-  "name": "KARETAU RAMBANGUN"
+  "districtName": "DAMANG BATU",
+  "name": "KARETAU RAMBANGUN",
+  "postalCode": "74553"
  },
  {
   "id": 6211061006,
   "districtId": 6211061,
-  "name": "TUMBANG ANOI"
+  "districtName": "DAMANG BATU",
+  "name": "TUMBANG ANOI",
+  "postalCode": "74553"
  },
  {
   "id": 6211061007,
   "districtId": 6211061,
-  "name": "KARETAU SARIAN"
+  "districtName": "DAMANG BATU",
+  "name": "KARETAU SARIAN",
+  "postalCode": "74553"
  },
  {
   "id": 6211061008,
   "districtId": 6211061,
-  "name": "TUMBANG MAHUROI"
+  "districtName": "DAMANG BATU",
+  "name": "TUMBANG MAHUROI",
+  "postalCode": "74553"
  }
 ]

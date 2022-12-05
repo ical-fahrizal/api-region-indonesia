@@ -2,36 +2,50 @@
  {
   "id": 1307050001,
   "districtId": 1307050,
-  "name": "KOTO TUO"
+  "districtName": "IV KOTO",
+  "name": "KOTO TUO",
+  "postalCode": "26271"
  },
  {
   "id": 1307050002,
   "districtId": 1307050,
-  "name": "BALINGKA"
+  "districtName": "IV KOTO",
+  "name": "BALINGKA",
+  "postalCode": "26161"
  },
  {
   "id": 1307050003,
   "districtId": 1307050,
-  "name": "SUNGAI LANDIA"
+  "districtName": "IV KOTO",
+  "name": "SUNGAI LANDIA",
+  "postalCode": "26161"
  },
  {
   "id": 1307050004,
   "districtId": 1307050,
-  "name": "KOTO PANJANG"
+  "districtName": "IV KOTO",
+  "name": "KOTO PANJANG",
+  "postalCode": "26161"
  },
  {
   "id": 1307050005,
   "districtId": 1307050,
-  "name": "SIANOK ANAM SUKU"
+  "districtName": "IV KOTO",
+  "name": "SIANOK ANAM SUKU",
+  "postalCode": "26161"
  },
  {
   "id": 1307050006,
   "districtId": 1307050,
-  "name": "KOTO GADANG"
+  "districtName": "IV KOTO",
+  "name": "KOTO GADANG",
+  "postalCode": "26161"
  },
  {
   "id": 1307050007,
   "districtId": 1307050,
-  "name": "GUGUAK TABEK SAROJO"
+  "districtName": "IV KOTO",
+  "name": "GUGUAK TABEK SAROJO",
+  "postalCode": ""
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 1871050001,
   "districtId": 1871050,
-  "name": "KUPANG KOTA"
+  "districtName": "TELUK BETUNG UTARA",
+  "name": "KUPANG KOTA",
+  "postalCode": "35211"
  },
  {
   "id": 1871050003,
   "districtId": 1871050,
-  "name": "KUPANG TEBA"
+  "districtName": "TELUK BETUNG UTARA",
+  "name": "KUPANG TEBA",
+  "postalCode": "35212"
  },
  {
   "id": 1871050004,
   "districtId": 1871050,
-  "name": "KUPANG RAYA"
+  "districtName": "TELUK BETUNG UTARA",
+  "name": "KUPANG RAYA",
+  "postalCode": "35212"
  },
  {
   "id": 1871050006,
   "districtId": 1871050,
-  "name": "SUMUR BATU"
+  "districtName": "TELUK BETUNG UTARA",
+  "name": "SUMUR BATU",
+  "postalCode": "35214"
  },
  {
   "id": 1871050007,
   "districtId": 1871050,
-  "name": "GULAK GALIK"
+  "districtName": "TELUK BETUNG UTARA",
+  "name": "GULAK GALIK",
+  "postalCode": "35214"
  },
  {
   "id": 1871050008,
   "districtId": 1871050,
-  "name": "PENGAJARAN"
+  "districtName": "TELUK BETUNG UTARA",
+  "name": "PENGAJARAN",
+  "postalCode": "35215"
  }
 ]

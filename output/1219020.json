@@ -2,51 +2,71 @@
  {
   "id": 1219020018,
   "districtId": 1219020,
-  "name": "GUNTUNG"
+  "districtName": "TANJUNG TIRAM",
+  "name": "GUNTUNG",
+  "postalCode": "21255"
  },
  {
   "id": 1219020019,
   "districtId": 1219020,
-  "name": "BAGAN DALAM"
+  "districtName": "TANJUNG TIRAM",
+  "name": "BAGAN DALAM",
+  "postalCode": "21253"
  },
  {
   "id": 1219020020,
   "districtId": 1219020,
-  "name": "SUKA MAJU"
+  "districtName": "TANJUNG TIRAM",
+  "name": "SUKA MAJU",
+  "postalCode": "24673"
  },
  {
   "id": 1219020021,
   "districtId": 1219020,
-  "name": "TANJUNG TIRAM"
+  "districtName": "TANJUNG TIRAM",
+  "name": "TANJUNG TIRAM",
+  "postalCode": "94975"
  },
  {
   "id": 1219020022,
   "districtId": 1219020,
-  "name": "BOGAK"
+  "districtName": "TANJUNG TIRAM",
+  "name": "BOGAK",
+  "postalCode": "21253"
  },
  {
   "id": 1219020029,
   "districtId": 1219020,
-  "name": "SUKA JAYA"
+  "districtName": "TANJUNG TIRAM",
+  "name": "SUKA JAYA",
+  "postalCode": "24784"
  },
  {
   "id": 1219020030,
   "districtId": 1219020,
-  "name": "KAMPUNG LALANG"
+  "districtName": "TANJUNG TIRAM",
+  "name": "KAMPUNG LALANG",
+  "postalCode": "20351"
  },
  {
   "id": 1219020031,
   "districtId": 1219020,
-  "name": "BAGAN ARYA"
+  "districtName": "TANJUNG TIRAM",
+  "name": "BAGAN ARYA",
+  "postalCode": "21253"
  },
  {
   "id": 1219020032,
   "districtId": 1219020,
-  "name": "PAHLAWAN"
+  "districtName": "TANJUNG TIRAM",
+  "name": "PAHLAWAN",
+  "postalCode": "24476"
  },
  {
   "id": 1219020033,
   "districtId": 1219020,
-  "name": "BANDAR RAHMAD"
+  "districtName": "TANJUNG TIRAM",
+  "name": "BANDAR RAHMAD",
+  "postalCode": ""
  }
 ]

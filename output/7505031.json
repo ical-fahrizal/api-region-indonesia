@@ -2,46 +2,64 @@
  {
   "id": 7505031002,
   "districtId": 7505031,
-  "name": "MONANO"
+  "districtName": "MONANO",
+  "name": "MONANO",
+  "postalCode": "94563"
  },
  {
   "id": 7505031003,
   "districtId": 7505031,
-  "name": "TUDI"
+  "districtName": "MONANO",
+  "name": "TUDI",
+  "postalCode": "96525"
  },
  {
   "id": 7505031004,
   "districtId": 7505031,
-  "name": "MONAS"
+  "districtName": "MONANO",
+  "name": "MONAS",
+  "postalCode": "96525"
  },
  {
   "id": 7505031005,
   "districtId": 7505031,
-  "name": "TOLITEHUYU"
+  "districtName": "MONANO",
+  "name": "TOLITEHUYU",
+  "postalCode": "96525"
  },
  {
   "id": 7505031006,
   "districtId": 7505031,
-  "name": "ZURIYATI"
+  "districtName": "MONANO",
+  "name": "ZURIYATI",
+  "postalCode": "96525"
  },
  {
   "id": 7505031007,
   "districtId": 7505031,
-  "name": "MOKONOWU"
+  "districtName": "MONANO",
+  "name": "MOKONOWU",
+  "postalCode": "96525"
  },
  {
   "id": 7505031008,
   "districtId": 7505031,
-  "name": "PILOHULATA"
+  "districtName": "MONANO",
+  "name": "PILOHULATA",
+  "postalCode": "96525"
  },
  {
   "id": 7505031009,
   "districtId": 7505031,
-  "name": "GARAPIA"
+  "districtName": "MONANO",
+  "name": "GARAPIA",
+  "postalCode": "96525"
  },
  {
   "id": 7505031010,
   "districtId": 7505031,
-  "name": "SOGU"
+  "districtName": "MONANO",
+  "name": "SOGU",
+  "postalCode": "96525"
  }
 ]

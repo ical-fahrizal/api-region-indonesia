@@ -2,31 +2,43 @@
  {
   "id": 9419022001,
   "districtId": 9419022,
-  "name": "YAMBEN / BENERAF"
+  "districtName": "PANTAI TIMUR",
+  "name": "YAMBEN / BENERAF",
+  "postalCode": ""
  },
  {
   "id": 9419022002,
   "districtId": 9419022,
-  "name": "BETAF"
+  "districtName": "PANTAI TIMUR",
+  "name": "BETAF",
+  "postalCode": "99371"
  },
  {
   "id": 9419022005,
   "districtId": 9419022,
-  "name": "SUNUM / YAMNA"
+  "districtName": "PANTAI TIMUR",
+  "name": "SUNUM / YAMNA",
+  "postalCode": ""
  },
  {
   "id": 9419022006,
   "districtId": 9419022,
-  "name": "BETAF II / TAMNIR"
+  "districtName": "PANTAI TIMUR",
+  "name": "BETAF II / TAMNIR",
+  "postalCode": ""
  },
  {
   "id": 9419022007,
   "districtId": 9419022,
-  "name": "BERENAF II / SIMAPDE"
+  "districtName": "PANTAI TIMUR",
+  "name": "BERENAF II / SIMAPDE",
+  "postalCode": ""
  },
  {
   "id": 9419022009,
   "districtId": 9419022,
-  "name": "BETAF III"
+  "districtName": "PANTAI TIMUR",
+  "name": "BETAF III",
+  "postalCode": ""
  }
 ]

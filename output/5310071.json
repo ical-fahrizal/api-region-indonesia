@@ -2,26 +2,36 @@
  {
   "id": 5310071001,
   "districtId": 5310071,
-  "name": "KOLISIA"
+  "districtName": "MAGEPANDA",
+  "name": "KOLISIA",
+  "postalCode": "86152"
  },
  {
   "id": 5310071002,
   "districtId": 5310071,
-  "name": "MAGEPANDA"
+  "districtName": "MAGEPANDA",
+  "name": "MAGEPANDA",
+  "postalCode": "86152"
  },
  {
   "id": 5310071003,
   "districtId": 5310071,
-  "name": "REROROJA"
+  "districtName": "MAGEPANDA",
+  "name": "REROROJA",
+  "postalCode": "86152"
  },
  {
   "id": 5310071004,
   "districtId": 5310071,
-  "name": "KOLISIA B"
+  "districtName": "MAGEPANDA",
+  "name": "KOLISIA B",
+  "postalCode": "86152"
  },
  {
   "id": 5310071005,
   "districtId": 5310071,
-  "name": "DONE"
+  "districtName": "MAGEPANDA",
+  "name": "DONE",
+  "postalCode": "86152"
  }
 ]

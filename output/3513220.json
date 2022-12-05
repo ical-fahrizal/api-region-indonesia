@@ -2,46 +2,64 @@
  {
   "id": 3513220001,
   "districtId": 3513220,
-  "name": "SAPIH"
+  "districtName": "LUMBANG",
+  "name": "SAPIH",
+  "postalCode": "67255"
  },
  {
   "id": 3513220002,
   "districtId": 3513220,
-  "name": "NEGOROREJO"
+  "districtName": "LUMBANG",
+  "name": "NEGOROREJO",
+  "postalCode": "67255"
  },
  {
   "id": 3513220003,
   "districtId": 3513220,
-  "name": "BRANGGAH"
+  "districtName": "LUMBANG",
+  "name": "BRANGGAH",
+  "postalCode": "67255"
  },
  {
   "id": 3513220004,
   "districtId": 3513220,
-  "name": "LAMBANGKUNING"
+  "districtName": "LUMBANG",
+  "name": "LAMBANGKUNING",
+  "postalCode": "67255"
  },
  {
   "id": 3513220005,
   "districtId": 3513220,
-  "name": "PALANGBESI"
+  "districtName": "LUMBANG",
+  "name": "PALANGBESI",
+  "postalCode": "67255"
  },
  {
   "id": 3513220006,
   "districtId": 3513220,
-  "name": "BOTO"
+  "districtName": "LUMBANG",
+  "name": "BOTO",
+  "postalCode": "50182"
  },
  {
   "id": 3513220007,
   "districtId": 3513220,
-  "name": "WONOGORO"
+  "districtName": "LUMBANG",
+  "name": "WONOGORO",
+  "postalCode": "67255"
  },
  {
   "id": 3513220008,
   "districtId": 3513220,
-  "name": "LUMBANG"
+  "districtName": "LUMBANG",
+  "name": "LUMBANG",
+  "postalCode": "67183"
  },
  {
   "id": 3513220009,
   "districtId": 3513220,
-  "name": "TANDONSENTUL"
+  "districtName": "LUMBANG",
+  "name": "TANDONSENTUL",
+  "postalCode": ""
  }
 ]

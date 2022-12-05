@@ -2,36 +2,50 @@
  {
   "id": 5204020001,
   "districtId": 5204020,
-  "name": "PADA SUKA"
+  "districtName": "LUNYUK",
+  "name": "PADA SUKA",
+  "postalCode": "84373"
  },
  {
   "id": 5204020002,
   "districtId": 5204020,
-  "name": "SUKA MAJU"
+  "districtName": "LUNYUK",
+  "name": "SUKA MAJU",
+  "postalCode": "24673"
  },
  {
   "id": 5204020003,
   "districtId": 5204020,
-  "name": "LUNYUK ODE"
+  "districtName": "LUNYUK",
+  "name": "LUNYUK ODE",
+  "postalCode": "84373"
  },
  {
   "id": 5204020004,
   "districtId": 5204020,
-  "name": "LUNYUK REA"
+  "districtName": "LUNYUK",
+  "name": "LUNYUK REA",
+  "postalCode": "84373"
  },
  {
   "id": 5204020005,
   "districtId": 5204020,
-  "name": "JAMU"
+  "districtName": "LUNYUK",
+  "name": "JAMU",
+  "postalCode": "84373"
  },
  {
   "id": 5204020009,
   "districtId": 5204020,
-  "name": "EMANG LESTARI"
+  "districtName": "LUNYUK",
+  "name": "EMANG LESTARI",
+  "postalCode": "84373"
  },
  {
   "id": 5204020011,
   "districtId": 5204020,
-  "name": "UPT BRANG LAMAR"
+  "districtName": "LUNYUK",
+  "name": "UPT BRANG LAMAR",
+  "postalCode": ""
  }
 ]

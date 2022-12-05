@@ -2,66 +2,92 @@
  {
   "id": 3212120001,
   "districtId": 3212120,
-  "name": "SLEMAN"
+  "districtName": "SLIYEG",
+  "name": "SLEMAN",
+  "postalCode": "45281"
  },
  {
   "id": 3212120002,
   "districtId": 3212120,
-  "name": "TAMBI"
+  "districtName": "SLIYEG",
+  "name": "TAMBI",
+  "postalCode": "45281"
  },
  {
   "id": 3212120003,
   "districtId": 3212120,
-  "name": "SUDIKAMPIRAN"
+  "districtName": "SLIYEG",
+  "name": "SUDIKAMPIRAN",
+  "postalCode": "45281"
  },
  {
   "id": 3212120004,
   "districtId": 3212120,
-  "name": "TAMBI LOR"
+  "districtName": "SLIYEG",
+  "name": "TAMBI LOR",
+  "postalCode": "45281"
  },
  {
   "id": 3212120005,
   "districtId": 3212120,
-  "name": "SLEMAN LOR"
+  "districtName": "SLIYEG",
+  "name": "SLEMAN LOR",
+  "postalCode": "45281"
  },
  {
   "id": 3212120006,
   "districtId": 3212120,
-  "name": "MAJASARI"
+  "districtName": "SLIYEG",
+  "name": "MAJASARI",
+  "postalCode": "31124"
  },
  {
   "id": 3212120007,
   "districtId": 3212120,
-  "name": "MAJASIH"
+  "districtName": "SLIYEG",
+  "name": "MAJASIH",
+  "postalCode": "45281"
  },
  {
   "id": 3212120008,
   "districtId": 3212120,
-  "name": "SLIYEG"
+  "districtName": "SLIYEG",
+  "name": "SLIYEG",
+  "postalCode": "45281"
  },
  {
   "id": 3212120009,
   "districtId": 3212120,
-  "name": "GADINGAN"
+  "districtName": "SLIYEG",
+  "name": "GADINGAN",
+  "postalCode": "45281"
  },
  {
   "id": 3212120010,
   "districtId": 3212120,
-  "name": "MEKARGADING"
+  "districtName": "SLIYEG",
+  "name": "MEKARGADING",
+  "postalCode": "45281"
  },
  {
   "id": 3212120011,
   "districtId": 3212120,
-  "name": "SLIYEGLOR"
+  "districtName": "SLIYEG",
+  "name": "SLIYEGLOR",
+  "postalCode": "45281"
  },
  {
   "id": 3212120012,
   "districtId": 3212120,
-  "name": "TUGU KIDUL"
+  "districtName": "SLIYEG",
+  "name": "TUGU KIDUL",
+  "postalCode": "45281"
  },
  {
   "id": 3212120016,
   "districtId": 3212120,
-  "name": "LONGOK"
+  "districtName": "SLIYEG",
+  "name": "LONGOK",
+  "postalCode": "45281"
  }
 ]

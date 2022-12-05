@@ -2,36 +2,50 @@
  {
   "id": 6404021001,
   "districtId": 6404021,
-  "name": "LONG NORAN"
+  "districtName": "TELEN",
+  "name": "LONG NORAN",
+  "postalCode": "75555"
  },
  {
   "id": 6404021002,
   "districtId": 6404021,
-  "name": "LONG SEGAR"
+  "districtName": "TELEN",
+  "name": "LONG SEGAR",
+  "postalCode": "75555"
  },
  {
   "id": 6404021003,
   "districtId": 6404021,
-  "name": "JUK AYAK"
+  "districtName": "TELEN",
+  "name": "JUK AYAK",
+  "postalCode": "75555"
  },
  {
   "id": 6404021004,
   "districtId": 6404021,
-  "name": "MARAH HALOQ"
+  "districtName": "TELEN",
+  "name": "MARAH HALOQ",
+  "postalCode": "75555"
  },
  {
   "id": 6404021005,
   "districtId": 6404021,
-  "name": "LUNG MELAH"
+  "districtName": "TELEN",
+  "name": "LUNG MELAH",
+  "postalCode": ""
  },
  {
   "id": 6404021006,
   "districtId": 6404021,
-  "name": "MUARA PANTUN"
+  "districtName": "TELEN",
+  "name": "MUARA PANTUN",
+  "postalCode": "75555"
  },
  {
   "id": 6404021007,
   "districtId": 6404021,
-  "name": "RANTAU PANJANG"
+  "districtName": "TELEN",
+  "name": "RANTAU PANJANG",
+  "postalCode": "24476"
  }
 ]

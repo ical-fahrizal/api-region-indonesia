@@ -2,46 +2,64 @@
  {
   "id": 1706040005,
   "districtId": 1706040,
-  "name": "TANAH REKAH"
+  "districtName": "KOTA MUKOMUKO",
+  "name": "TANAH REKAH",
+  "postalCode": "38765"
  },
  {
   "id": 1706040006,
   "districtId": 1706040,
-  "name": "PASAR MUKOMUKO"
+  "districtName": "KOTA MUKOMUKO",
+  "name": "PASAR MUKOMUKO",
+  "postalCode": "38711"
  },
  {
   "id": 1706040007,
   "districtId": 1706040,
-  "name": "UJUNG PADANG"
+  "districtName": "KOTA MUKOMUKO",
+  "name": "UJUNG PADANG",
+  "postalCode": "23773"
  },
  {
   "id": 1706040008,
   "districtId": 1706040,
-  "name": "PONDOK BATU"
+  "districtName": "KOTA MUKOMUKO",
+  "name": "PONDOK BATU",
+  "postalCode": "21451"
  },
  {
   "id": 1706040009,
   "districtId": 1706040,
-  "name": "SELAGAN JAYA"
+  "districtName": "KOTA MUKOMUKO",
+  "name": "SELAGAN JAYA",
+  "postalCode": "38765"
  },
  {
   "id": 1706040014,
   "districtId": 1706040,
-  "name": "PASAR SEBELAH"
+  "districtName": "KOTA MUKOMUKO",
+  "name": "PASAR SEBELAH",
+  "postalCode": "38765"
  },
  {
   "id": 1706040033,
   "districtId": 1706040,
-  "name": "KOTO JAYA"
+  "districtName": "KOTA MUKOMUKO",
+  "name": "KOTO JAYA",
+  "postalCode": "38765"
  },
  {
   "id": 1706040034,
   "districtId": 1706040,
-  "name": "BANDAR RATU"
+  "districtName": "KOTA MUKOMUKO",
+  "name": "BANDAR RATU",
+  "postalCode": "38765"
  },
  {
   "id": 1706040035,
   "districtId": 1706040,
-  "name": "TANAH HARAPAN"
+  "districtName": "KOTA MUKOMUKO",
+  "name": "TANAH HARAPAN",
+  "postalCode": "38765"
  }
 ]

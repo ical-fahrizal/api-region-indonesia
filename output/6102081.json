@@ -2,41 +2,57 @@
  {
   "id": 6102081001,
   "districtId": 6102081,
-  "name": "TAMONG"
+  "districtName": "SIDING",
+  "name": "TAMONG",
+  "postalCode": "79286"
  },
  {
   "id": 6102081002,
   "districtId": 6102081,
-  "name": "TAWANG"
+  "districtName": "SIDING",
+  "name": "TAWANG",
+  "postalCode": "46194"
  },
  {
   "id": 6102081003,
   "districtId": 6102081,
-  "name": "SUNGKUNG I"
+  "districtName": "SIDING",
+  "name": "SUNGKUNG I",
+  "postalCode": "79286"
  },
  {
   "id": 6102081004,
   "districtId": 6102081,
-  "name": "SUNGKUNG II"
+  "districtName": "SIDING",
+  "name": "SUNGKUNG II",
+  "postalCode": "79286"
  },
  {
   "id": 6102081005,
   "districtId": 6102081,
-  "name": "SUNGKUNG III"
+  "districtName": "SIDING",
+  "name": "SUNGKUNG III",
+  "postalCode": "79286"
  },
  {
   "id": 6102081006,
   "districtId": 6102081,
-  "name": "SIDING"
+  "districtName": "SIDING",
+  "name": "SIDING",
+  "postalCode": "62354"
  },
  {
   "id": 6102081007,
   "districtId": 6102081,
-  "name": "TANGGUH"
+  "districtName": "SIDING",
+  "name": "TANGGUH",
+  "postalCode": "79286"
  },
  {
   "id": 6102081008,
   "districtId": 6102081,
-  "name": "HLIBUIE"
+  "districtName": "SIDING",
+  "name": "HLIBUIE",
+  "postalCode": ""
  }
 ]

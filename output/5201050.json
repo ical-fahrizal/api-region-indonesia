@@ -2,96 +2,134 @@
  {
   "id": 5201050002,
   "districtId": 5201050,
-  "name": "BADRAIN"
+  "districtName": "NARMADA",
+  "name": "BADRAIN",
+  "postalCode": "83371"
  },
  {
   "id": 5201050003,
   "districtId": 5201050,
-  "name": "BATU KUTA"
+  "districtName": "NARMADA",
+  "name": "BATU KUTA",
+  "postalCode": "83371"
  },
  {
   "id": 5201050004,
   "districtId": 5201050,
-  "name": "TANAK BEAK"
+  "districtName": "NARMADA",
+  "name": "TANAK BEAK",
+  "postalCode": "83552"
  },
  {
   "id": 5201050005,
   "districtId": 5201050,
-  "name": "PERESAK"
+  "districtName": "NARMADA",
+  "name": "PERESAK",
+  "postalCode": "83552"
  },
  {
   "id": 5201050007,
   "districtId": 5201050,
-  "name": "SEDAU"
+  "districtName": "NARMADA",
+  "name": "SEDAU",
+  "postalCode": "83371"
  },
  {
   "id": 5201050008,
   "districtId": 5201050,
-  "name": "LEBAH SEMPAGE"
+  "districtName": "NARMADA",
+  "name": "LEBAH SEMPAGE",
+  "postalCode": ""
  },
  {
   "id": 5201050009,
   "districtId": 5201050,
-  "name": "SESAOT"
+  "districtName": "NARMADA",
+  "name": "SESAOT",
+  "postalCode": "83371"
  },
  {
   "id": 5201050010,
   "districtId": 5201050,
-  "name": "SURANADI"
+  "districtName": "NARMADA",
+  "name": "SURANADI",
+  "postalCode": "83371"
  },
  {
   "id": 5201050011,
   "districtId": 5201050,
-  "name": "SELAT"
+  "districtName": "NARMADA",
+  "name": "SELAT",
+  "postalCode": "36657"
  },
  {
   "id": 5201050012,
   "districtId": 5201050,
-  "name": "NYUR LEMBANG"
+  "districtName": "NARMADA",
+  "name": "NYUR LEMBANG",
+  "postalCode": "83371"
  },
  {
   "id": 5201050013,
   "districtId": 5201050,
-  "name": "LEMBUAK"
+  "districtName": "NARMADA",
+  "name": "LEMBUAK",
+  "postalCode": "83371"
  },
  {
   "id": 5201050014,
   "districtId": 5201050,
-  "name": "DASAN TERENG"
+  "districtName": "NARMADA",
+  "name": "DASAN TERENG",
+  "postalCode": "83371"
  },
  {
   "id": 5201050015,
   "districtId": 5201050,
-  "name": "KRAMA JAYA"
+  "districtName": "NARMADA",
+  "name": "KRAMA JAYA",
+  "postalCode": "83371"
  },
  {
   "id": 5201050016,
   "districtId": 5201050,
-  "name": "GERIMAX INDAH"
+  "districtName": "NARMADA",
+  "name": "GERIMAX INDAH",
+  "postalCode": ""
  },
  {
   "id": 5201050017,
   "districtId": 5201050,
-  "name": "NARMADA"
+  "districtName": "NARMADA",
+  "name": "NARMADA",
+  "postalCode": "83371"
  },
  {
   "id": 5201050018,
   "districtId": 5201050,
-  "name": "GOLONG"
+  "districtName": "NARMADA",
+  "name": "GOLONG",
+  "postalCode": "83371"
  },
  {
   "id": 5201050019,
   "districtId": 5201050,
-  "name": "PAKUAN"
+  "districtName": "NARMADA",
+  "name": "PAKUAN",
+  "postalCode": "16134"
  },
  {
   "id": 5201050020,
   "districtId": 5201050,
-  "name": "BUWUN SEJATI"
+  "districtName": "NARMADA",
+  "name": "BUWUN SEJATI",
+  "postalCode": "83371"
  },
  {
   "id": 5201050021,
   "districtId": 5201050,
-  "name": "MEKAR SARI"
+  "districtName": "NARMADA",
+  "name": "MEKAR SARI",
+  "postalCode": "21261"
  }
 ]

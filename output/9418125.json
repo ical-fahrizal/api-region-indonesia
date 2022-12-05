@@ -2,41 +2,57 @@
  {
   "id": 9418125002,
   "districtId": 9418125,
-  "name": "KANDIMBAGA"
+  "districtName": "TAGIME",
+  "name": "KANDIMBAGA",
+  "postalCode": "99561"
  },
  {
   "id": 9418125004,
   "districtId": 9418125,
-  "name": "GABUNAM"
+  "districtName": "TAGIME",
+  "name": "GABUNAM",
+  "postalCode": "99561"
  },
  {
   "id": 9418125005,
   "districtId": 9418125,
-  "name": "GULAK"
+  "districtName": "TAGIME",
+  "name": "GULAK",
+  "postalCode": "99561"
  },
  {
   "id": 9418125006,
   "districtId": 9418125,
-  "name": "KOGOTIME"
+  "districtName": "TAGIME",
+  "name": "KOGOTIME",
+  "postalCode": "99561"
  },
  {
   "id": 9418125007,
   "districtId": 9418125,
-  "name": "MELAGA"
+  "districtName": "TAGIME",
+  "name": "MELAGA",
+  "postalCode": "99561"
  },
  {
   "id": 9418125008,
   "districtId": 9418125,
-  "name": "PEYOLA"
+  "districtName": "TAGIME",
+  "name": "PEYOLA",
+  "postalCode": "99561"
  },
  {
   "id": 9418125009,
   "districtId": 9418125,
-  "name": "EKONI"
+  "districtName": "TAGIME",
+  "name": "EKONI",
+  "postalCode": "99561"
  },
  {
   "id": 9418125010,
   "districtId": 9418125,
-  "name": "BELELA"
+  "districtName": "TAGIME",
+  "name": "BELELA",
+  "postalCode": "99561"
  }
 ]

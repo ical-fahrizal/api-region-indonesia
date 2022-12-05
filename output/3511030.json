@@ -2,41 +2,57 @@
  {
   "id": 3511030001,
   "districtId": 3511030,
-  "name": "SUKOSARI"
+  "districtName": "TAMANAN",
+  "name": "SUKOSARI",
+  "postalCode": "32382"
  },
  {
   "id": 3511030002,
   "districtId": 3511030,
-  "name": "KARANGMELOK"
+  "districtName": "TAMANAN",
+  "name": "KARANGMELOK",
+  "postalCode": "68263"
  },
  {
   "id": 3511030004,
   "districtId": 3511030,
-  "name": "KEMIRIAN"
+  "districtName": "TAMANAN",
+  "name": "KEMIRIAN",
+  "postalCode": "68263"
  },
  {
   "id": 3511030005,
   "districtId": 3511030,
-  "name": "TAMANAN"
+  "districtName": "TAMANAN",
+  "name": "TAMANAN",
+  "postalCode": "55191"
  },
  {
   "id": 3511030006,
   "districtId": 3511030,
-  "name": "WONOSUKO"
+  "districtName": "TAMANAN",
+  "name": "WONOSUKO",
+  "postalCode": "54262"
  },
  {
   "id": 3511030007,
   "districtId": 3511030,
-  "name": "KALIANYAR"
+  "districtName": "TAMANAN",
+  "name": "KALIANYAR",
+  "postalCode": "45284"
  },
  {
   "id": 3511030008,
   "districtId": 3511030,
-  "name": "SUMBERKEMUNING"
+  "districtName": "TAMANAN",
+  "name": "SUMBERKEMUNING",
+  "postalCode": "68263"
  },
  {
   "id": 3511030009,
   "districtId": 3511030,
-  "name": "SUMBERANOM"
+  "districtName": "TAMANAN",
+  "name": "SUMBERANOM",
+  "postalCode": "67263"
  }
 ]

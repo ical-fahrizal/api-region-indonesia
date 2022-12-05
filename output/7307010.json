@@ -2,46 +2,64 @@
  {
   "id": 7307010001,
   "districtId": 7307010,
-  "name": "GUNUNG PERAK"
+  "districtName": "SINJAI BARAT",
+  "name": "GUNUNG PERAK",
+  "postalCode": "92653"
  },
  {
   "id": 7307010002,
   "districtId": 7307010,
-  "name": "BALAKIA"
+  "districtName": "SINJAI BARAT",
+  "name": "BALAKIA",
+  "postalCode": "92653"
  },
  {
   "id": 7307010003,
   "districtId": 7307010,
-  "name": "TASSILILU"
+  "districtName": "SINJAI BARAT",
+  "name": "TASSILILU",
+  "postalCode": "92653"
  },
  {
   "id": 7307010004,
   "districtId": 7307010,
-  "name": "ARABIKA"
+  "districtName": "SINJAI BARAT",
+  "name": "ARABIKA",
+  "postalCode": "92653"
  },
  {
   "id": 7307010005,
   "districtId": 7307010,
-  "name": "BARANIA"
+  "districtName": "SINJAI BARAT",
+  "name": "BARANIA",
+  "postalCode": "92653"
  },
  {
   "id": 7307010006,
   "districtId": 7307010,
-  "name": "BOTO LEMPANGAN"
+  "districtName": "SINJAI BARAT",
+  "name": "BOTO LEMPANGAN",
+  "postalCode": "92653"
  },
  {
   "id": 7307010007,
   "districtId": 7307010,
-  "name": "BONTO SALAMA"
+  "districtName": "SINJAI BARAT",
+  "name": "BONTO SALAMA",
+  "postalCode": "92653"
  },
  {
   "id": 7307010008,
   "districtId": 7307010,
-  "name": "TURUNGAN BAJI"
+  "districtName": "SINJAI BARAT",
+  "name": "TURUNGAN BAJI",
+  "postalCode": "92653"
  },
  {
   "id": 7307010009,
   "districtId": 7307010,
-  "name": "TERASA"
+  "districtName": "SINJAI BARAT",
+  "name": "TERASA",
+  "postalCode": "92653"
  }
 ]

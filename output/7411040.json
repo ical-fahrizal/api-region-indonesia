@@ -2,61 +2,85 @@
  {
   "id": 7411040001,
   "districtId": 7411040,
-  "name": "LALOKATEBA"
+  "districtName": "DANGIA",
+  "name": "LALOKATEBA",
+  "postalCode": ""
  },
  {
   "id": 7411040002,
   "districtId": 7411040,
-  "name": "LAMOSILA"
+  "districtName": "DANGIA",
+  "name": "LAMOSILA",
+  "postalCode": ""
  },
  {
   "id": 7411040003,
   "districtId": 7411040,
-  "name": "ANAMBADA"
+  "districtName": "DANGIA",
+  "name": "ANAMBADA",
+  "postalCode": ""
  },
  {
   "id": 7411040004,
   "districtId": 7411040,
-  "name": "LEMBAH SUBUR"
+  "districtName": "DANGIA",
+  "name": "LEMBAH SUBUR",
+  "postalCode": "93573"
  },
  {
   "id": 7411040005,
   "districtId": 7411040,
-  "name": "TALINDUKA"
+  "districtName": "DANGIA",
+  "name": "TALINDUKA",
+  "postalCode": ""
  },
  {
   "id": 7411040006,
   "districtId": 7411040,
-  "name": "GUNUNG JAYA"
+  "districtName": "DANGIA",
+  "name": "GUNUNG JAYA",
+  "postalCode": "52275"
  },
  {
   "id": 7411040007,
   "districtId": 7411040,
-  "name": "MULIA JAYA"
+  "districtName": "DANGIA",
+  "name": "MULIA JAYA",
+  "postalCode": "32185"
  },
  {
   "id": 7411040008,
   "districtId": 7411040,
-  "name": "MEKAR JAYA"
+  "districtName": "DANGIA",
+  "name": "MEKAR JAYA",
+  "postalCode": "20771"
  },
  {
   "id": 7411040009,
   "districtId": 7411040,
-  "name": "TETEMBUTA"
+  "districtName": "DANGIA",
+  "name": "TETEMBUTA",
+  "postalCode": ""
  },
  {
   "id": 7411040010,
   "districtId": 7411040,
-  "name": "DANGIA"
+  "districtName": "DANGIA",
+  "name": "DANGIA",
+  "postalCode": "93573"
  },
  {
   "id": 7411040011,
   "districtId": 7411040,
-  "name": "WANDE"
+  "districtName": "DANGIA",
+  "name": "WANDE",
+  "postalCode": "93573"
  },
  {
   "id": 7411040012,
   "districtId": 7411040,
-  "name": "TETEWUA"
+  "districtName": "DANGIA",
+  "name": "TETEWUA",
+  "postalCode": ""
  }
 ]

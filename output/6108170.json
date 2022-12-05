@@ -2,61 +2,85 @@
  {
   "id": 6108170001,
   "districtId": 6108170,
-  "name": "NANGA SEBERUANG"
+  "districtName": "SEMITAU",
+  "name": "NANGA SEBERUANG",
+  "postalCode": "78771"
  },
  {
   "id": 6108170002,
   "districtId": 6108170,
-  "name": "KENERAK"
+  "districtName": "SEMITAU",
+  "name": "KENERAK",
+  "postalCode": "78771"
  },
  {
   "id": 6108170003,
   "districtId": 6108170,
-  "name": "SEMITAU HULU"
+  "districtName": "SEMITAU",
+  "name": "SEMITAU HULU",
+  "postalCode": "78771"
  },
  {
   "id": 6108170004,
   "districtId": 6108170,
-  "name": "KENEPAI KOMPLEK"
+  "districtName": "SEMITAU",
+  "name": "KENEPAI KOMPLEK",
+  "postalCode": "78771"
  },
  {
   "id": 6108170005,
   "districtId": 6108170,
-  "name": "ENTIPAN"
+  "districtName": "SEMITAU",
+  "name": "ENTIPAN",
+  "postalCode": "78771"
  },
  {
   "id": 6108170006,
   "districtId": 6108170,
-  "name": "SEMITAU HILIR"
+  "districtName": "SEMITAU",
+  "name": "SEMITAU HILIR",
+  "postalCode": "78771"
  },
  {
   "id": 6108170007,
   "districtId": 6108170,
-  "name": "NANGA KENEPAI"
+  "districtName": "SEMITAU",
+  "name": "NANGA KENEPAI",
+  "postalCode": "78771"
  },
  {
   "id": 6108170008,
   "districtId": 6108170,
-  "name": "TUA"
+  "districtName": "SEMITAU",
+  "name": "TUA",
+  "postalCode": "82181"
  },
  {
   "id": 6108170009,
   "districtId": 6108170,
-  "name": "NANGA LEMEDAK"
+  "districtName": "SEMITAU",
+  "name": "NANGA LEMEDAK",
+  "postalCode": "78771"
  },
  {
   "id": 6108170010,
   "districtId": 6108170,
-  "name": "MARSEDAN RAYA"
+  "districtName": "SEMITAU",
+  "name": "MARSEDAN RAYA",
+  "postalCode": "78771"
  },
  {
   "id": 6108170011,
   "districtId": 6108170,
-  "name": "PADUNG KUMANG"
+  "districtName": "SEMITAU",
+  "name": "PADUNG KUMANG",
+  "postalCode": "78771"
  },
  {
   "id": 6108170012,
   "districtId": 6108170,
-  "name": "SEKEDAU"
+  "districtName": "SEMITAU",
+  "name": "SEKEDAU",
+  "postalCode": "78771"
  }
 ]

@@ -2,51 +2,71 @@
  {
   "id": 9415040001,
   "districtId": 9415040,
-  "name": "JINAK"
+  "districtName": "SUATOR",
+  "name": "JINAK",
+  "postalCode": "99766"
  },
  {
   "id": 9415040002,
   "districtId": 9415040,
-  "name": "WOWI"
+  "districtName": "SUATOR",
+  "name": "WOWI",
+  "postalCode": "99766"
  },
  {
   "id": 9415040007,
   "districtId": 9415040,
-  "name": "KARBIS"
+  "districtName": "SUATOR",
+  "name": "KARBIS",
+  "postalCode": "99766"
  },
  {
   "id": 9415040008,
   "districtId": 9415040,
-  "name": "BUBIS"
+  "districtName": "SUATOR",
+  "name": "BUBIS",
+  "postalCode": "99766"
  },
  {
   "id": 9415040009,
   "districtId": 9415040,
-  "name": "BINAM"
+  "districtName": "SUATOR",
+  "name": "BINAM",
+  "postalCode": "99766"
  },
  {
   "id": 9415040010,
   "districtId": 9415040,
-  "name": "BURBIS"
+  "districtName": "SUATOR",
+  "name": "BURBIS",
+  "postalCode": "99766"
  },
  {
   "id": 9415040011,
   "districtId": 9415040,
-  "name": "WAGANU DUA"
+  "districtName": "SUATOR",
+  "name": "WAGANU DUA",
+  "postalCode": "99766"
  },
  {
   "id": 9415040014,
   "districtId": 9415040,
-  "name": "SORAI"
+  "districtName": "SUATOR",
+  "name": "SORAI",
+  "postalCode": ""
  },
  {
   "id": 9415040015,
   "districtId": 9415040,
-  "name": "WAGABUS"
+  "districtName": "SUATOR",
+  "name": "WAGABUS",
+  "postalCode": "99766"
  },
  {
   "id": 9415040016,
   "districtId": 9415040,
-  "name": "EMNAM"
+  "districtName": "SUATOR",
+  "name": "EMNAM",
+  "postalCode": "99766"
  }
 ]

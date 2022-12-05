@@ -2,41 +2,57 @@
  {
   "id": 5305023001,
   "districtId": 5305023,
-  "name": "NIMASI"
+  "districtName": "BIKOMI TENGAH",
+  "name": "NIMASI",
+  "postalCode": "85651"
  },
  {
   "id": 5305023002,
   "districtId": 5305023,
-  "name": "KUANEK"
+  "districtName": "BIKOMI TENGAH",
+  "name": "KUANEK",
+  "postalCode": ""
  },
  {
   "id": 5305023004,
   "districtId": 5305023,
-  "name": "OELBONAK"
+  "districtName": "BIKOMI TENGAH",
+  "name": "OELBONAK",
+  "postalCode": "85651"
  },
  {
   "id": 5305023005,
   "districtId": 5305023,
-  "name": "OENENU"
+  "districtName": "BIKOMI TENGAH",
+  "name": "OENENU",
+  "postalCode": "85651"
  },
  {
   "id": 5305023006,
   "districtId": 5305023,
-  "name": "OENINO"
+  "districtName": "BIKOMI TENGAH",
+  "name": "OENINO",
+  "postalCode": "85651"
  },
  {
   "id": 5305023007,
   "districtId": 5305023,
-  "name": "OENENU UTARA"
+  "districtName": "BIKOMI TENGAH",
+  "name": "OENENU UTARA",
+  "postalCode": "85651"
  },
  {
   "id": 5305023008,
   "districtId": 5305023,
-  "name": "OENENU SELATAN"
+  "districtName": "BIKOMI TENGAH",
+  "name": "OENENU SELATAN",
+  "postalCode": "85651"
  },
  {
   "id": 5305023009,
   "districtId": 5305023,
-  "name": "SONO"
+  "districtName": "BIKOMI TENGAH",
+  "name": "SONO",
+  "postalCode": "57271"
  }
 ]

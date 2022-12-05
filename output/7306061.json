@@ -2,36 +2,50 @@
  {
   "id": 7306061001,
   "districtId": 7306061,
-  "name": "PATTALLIKANG"
+  "districtName": "MANUJU",
+  "name": "PATTALLIKANG",
+  "postalCode": "92173"
  },
  {
   "id": 7306061002,
   "districtId": 7306061,
-  "name": "MONCONGLOE"
+  "districtName": "MANUJU",
+  "name": "MONCONGLOE",
+  "postalCode": "92173"
  },
  {
   "id": 7306061003,
   "districtId": 7306061,
-  "name": "MANUJU"
+  "districtName": "MANUJU",
+  "name": "MANUJU",
+  "postalCode": "92173"
  },
  {
   "id": 7306061004,
   "districtId": 7306061,
-  "name": "TAMALATEA"
+  "districtName": "MANUJU",
+  "name": "TAMALATEA",
+  "postalCode": "92173"
  },
  {
   "id": 7306061010,
   "districtId": 7306061,
-  "name": "BILALANG"
+  "districtName": "MANUJU",
+  "name": "BILALANG",
+  "postalCode": ""
  },
  {
   "id": 7306061011,
   "districtId": 7306061,
-  "name": "TASSESE"
+  "districtName": "MANUJU",
+  "name": "TASSESE",
+  "postalCode": "92173"
  },
  {
   "id": 7306061012,
   "districtId": 7306061,
-  "name": "TANA KARAENG"
+  "districtName": "MANUJU",
+  "name": "TANA KARAENG",
+  "postalCode": ""
  }
 ]

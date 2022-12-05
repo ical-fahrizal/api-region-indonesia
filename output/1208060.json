@@ -2,41 +2,57 @@
  {
   "id": 1208060006,
   "districtId": 1208060,
-  "name": "SILOMLOM"
+  "districtName": "SIMPANG EMPAT",
+  "name": "SILOMLOM",
+  "postalCode": "21271"
  },
  {
   "id": 1208060007,
   "districtId": 1208060,
-  "name": "PERKEBUNAN SUKARAJA"
+  "districtName": "SIMPANG EMPAT",
+  "name": "PERKEBUNAN SUKARAJA",
+  "postalCode": ""
  },
  {
   "id": 1208060008,
   "districtId": 1208060,
-  "name": "SIMPANG EMPAT"
+  "districtName": "SIMPANG EMPAT",
+  "name": "SIMPANG EMPAT",
+  "postalCode": "24313"
  },
  {
   "id": 1208060009,
   "districtId": 1208060,
-  "name": "SEI DUA HULU"
+  "districtName": "SIMPANG EMPAT",
+  "name": "SEI DUA HULU",
+  "postalCode": "21271"
  },
  {
   "id": 1208060010,
   "districtId": 1208060,
-  "name": "PERKEBUNAN HESSA"
+  "districtName": "SIMPANG EMPAT",
+  "name": "PERKEBUNAN HESSA",
+  "postalCode": "21271"
  },
  {
   "id": 1208060011,
   "districtId": 1208060,
-  "name": "SUNGAI LAMA"
+  "districtName": "SIMPANG EMPAT",
+  "name": "SUNGAI LAMA",
+  "postalCode": ""
  },
  {
   "id": 1208060012,
   "districtId": 1208060,
-  "name": "SIPAKU AREA"
+  "districtName": "SIMPANG EMPAT",
+  "name": "SIPAKU AREA",
+  "postalCode": "21271"
  },
  {
   "id": 1208060013,
   "districtId": 1208060,
-  "name": "ANJUNG GANJANG"
+  "districtName": "SIMPANG EMPAT",
+  "name": "ANJUNG GANJANG",
+  "postalCode": ""
  }
 ]

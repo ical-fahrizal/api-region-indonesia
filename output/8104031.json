@@ -2,66 +2,92 @@
  {
   "id": 8104031001,
   "districtId": 8104031,
-  "name": "WAEMITE"
+  "districtName": "FENA LEISELA",
+  "name": "WAEMITE",
+  "postalCode": "97572"
  },
  {
   "id": 8104031002,
   "districtId": 8104031,
-  "name": "WAEREMAN"
+  "districtName": "FENA LEISELA",
+  "name": "WAEREMAN",
+  "postalCode": "97572"
  },
  {
   "id": 8104031003,
   "districtId": 8104031,
-  "name": "WASI"
+  "districtName": "FENA LEISELA",
+  "name": "WASI",
+  "postalCode": "97572"
  },
  {
   "id": 8104031004,
   "districtId": 8104031,
-  "name": "WAMANA BARU"
+  "districtName": "FENA LEISELA",
+  "name": "WAMANA BARU",
+  "postalCode": "97572"
  },
  {
   "id": 8104031005,
   "districtId": 8104031,
-  "name": "WAELANALANA"
+  "districtName": "FENA LEISELA",
+  "name": "WAELANALANA",
+  "postalCode": ""
  },
  {
   "id": 8104031006,
   "districtId": 8104031,
-  "name": "RAHERIAT"
+  "districtName": "FENA LEISELA",
+  "name": "RAHERIAT",
+  "postalCode": "97572"
  },
  {
   "id": 8104031007,
   "districtId": 8104031,
-  "name": "LEMANPOLI"
+  "districtName": "FENA LEISELA",
+  "name": "LEMANPOLI",
+  "postalCode": "97572"
  },
  {
   "id": 8104031008,
   "districtId": 8104031,
-  "name": "WAIDANGA"
+  "districtName": "FENA LEISELA",
+  "name": "WAIDANGA",
+  "postalCode": ""
  },
  {
   "id": 8104031009,
   "districtId": 8104031,
-  "name": "BALBALU"
+  "districtName": "FENA LEISELA",
+  "name": "BALBALU",
+  "postalCode": "97572"
  },
  {
   "id": 8104031010,
   "districtId": 8104031,
-  "name": "WAMLANA"
+  "districtName": "FENA LEISELA",
+  "name": "WAMLANA",
+  "postalCode": "97572"
  },
  {
   "id": 8104031011,
   "districtId": 8104031,
-  "name": "WASPAIT"
+  "districtName": "FENA LEISELA",
+  "name": "WASPAIT",
+  "postalCode": "97572"
  },
  {
   "id": 8104031012,
   "districtId": 8104031,
-  "name": "WAIKOSE"
+  "districtName": "FENA LEISELA",
+  "name": "WAIKOSE",
+  "postalCode": ""
  },
  {
   "id": 8104031013,
   "districtId": 8104031,
-  "name": "WAINIBE"
+  "districtName": "FENA LEISELA",
+  "name": "WAINIBE",
+  "postalCode": ""
  }
 ]

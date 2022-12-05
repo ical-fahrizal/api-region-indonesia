@@ -2,61 +2,85 @@
  {
   "id": 9417042001,
   "districtId": 9417042,
-  "name": "TUPOPLYON"
+  "districtName": "OKBAB",
+  "name": "TUPOPLYON",
+  "postalCode": ""
  },
  {
   "id": 9417042002,
   "districtId": 9417042,
-  "name": "SABIN"
+  "districtName": "OKBAB",
+  "name": "SABIN",
+  "postalCode": "99572"
  },
  {
   "id": 9417042003,
   "districtId": 9417042,
-  "name": "BORBAN"
+  "districtName": "OKBAB",
+  "name": "BORBAN",
+  "postalCode": "99572"
  },
  {
   "id": 9417042004,
   "districtId": 9417042,
-  "name": "MAKSUM"
+  "districtName": "OKBAB",
+  "name": "MAKSUM",
+  "postalCode": "99572"
  },
  {
   "id": 9417042005,
   "districtId": 9417042,
-  "name": "YAPIL"
+  "districtName": "OKBAB",
+  "name": "YAPIL",
+  "postalCode": "99572"
  },
  {
   "id": 9417042006,
   "districtId": 9417042,
-  "name": "KIRIMU"
+  "districtName": "OKBAB",
+  "name": "KIRIMU",
+  "postalCode": "99572"
  },
  {
   "id": 9417042007,
   "districtId": 9417042,
-  "name": "DUMPASIK"
+  "districtName": "OKBAB",
+  "name": "DUMPASIK",
+  "postalCode": ""
  },
  {
   "id": 9417042008,
   "districtId": 9417042,
-  "name": "PEDAM"
+  "districtName": "OKBAB",
+  "name": "PEDAM",
+  "postalCode": "99572"
  },
  {
   "id": 9417042009,
   "districtId": 9417042,
-  "name": "ATEMBAPOL"
+  "districtName": "OKBAB",
+  "name": "ATEMBAPOL",
+  "postalCode": ""
  },
  {
   "id": 9417042010,
   "districtId": 9417042,
-  "name": "MARKOM"
+  "districtName": "OKBAB",
+  "name": "MARKOM",
+  "postalCode": "99572"
  },
  {
   "id": 9417042011,
   "districtId": 9417042,
-  "name": "PENELI"
+  "districtName": "OKBAB",
+  "name": "PENELI",
+  "postalCode": "99572"
  },
  {
   "id": 9417042012,
   "districtId": 9417042,
-  "name": "OMLIOM"
+  "districtName": "OKBAB",
+  "name": "OMLIOM",
+  "postalCode": "99572"
  }
 ]

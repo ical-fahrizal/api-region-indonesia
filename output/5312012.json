@@ -2,51 +2,71 @@
  {
   "id": 5312012001,
   "districtId": 5312012,
-  "name": "PAUPAGA"
+  "districtName": "INERIE",
+  "name": "PAUPAGA",
+  "postalCode": "86452"
  },
  {
   "id": 5312012002,
   "districtId": 5312012,
-  "name": "SEBOWULI"
+  "districtName": "INERIE",
+  "name": "SEBOWULI",
+  "postalCode": "86452"
  },
  {
   "id": 5312012003,
   "districtId": 5312012,
-  "name": "INERIE"
+  "districtName": "INERIE",
+  "name": "INERIE",
+  "postalCode": "86452"
  },
  {
   "id": 5312012004,
   "districtId": 5312012,
-  "name": "WARUPELE II"
+  "districtName": "INERIE",
+  "name": "WARUPELE II",
+  "postalCode": "86452"
  },
  {
   "id": 5312012005,
   "districtId": 5312012,
-  "name": "WARUPELE I"
+  "districtName": "INERIE",
+  "name": "WARUPELE I",
+  "postalCode": "86452"
  },
  {
   "id": 5312012006,
   "districtId": 5312012,
-  "name": "KELITEI"
+  "districtName": "INERIE",
+  "name": "KELITEI",
+  "postalCode": ""
  },
  {
   "id": 5312012007,
   "districtId": 5312012,
-  "name": "MANUBHARA"
+  "districtName": "INERIE",
+  "name": "MANUBHARA",
+  "postalCode": "86452"
  },
  {
   "id": 5312012008,
   "districtId": 5312012,
-  "name": "TIWURANA"
+  "districtName": "INERIE",
+  "name": "TIWURANA",
+  "postalCode": "86452"
  },
  {
   "id": 5312012009,
   "districtId": 5312012,
-  "name": "WAEBELA"
+  "districtName": "INERIE",
+  "name": "WAEBELA",
+  "postalCode": "86452"
  },
  {
   "id": 5312012010,
   "districtId": 5312012,
-  "name": "LEGERIWU"
+  "districtName": "INERIE",
+  "name": "LEGERIWU",
+  "postalCode": ""
  }
 ]

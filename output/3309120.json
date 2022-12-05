@@ -2,56 +2,78 @@
  {
   "id": 3309120002,
   "districtId": 3309120,
-  "name": "POTRONAYAN"
+  "districtName": "NOGOSARI",
+  "name": "POTRONAYAN",
+  "postalCode": "57378"
  },
  {
   "id": 3309120003,
   "districtId": 3309120,
-  "name": "SEMBUNGAN"
+  "districtName": "NOGOSARI",
+  "name": "SEMBUNGAN",
+  "postalCode": "56354"
  },
  {
   "id": 3309120004,
   "districtId": 3309120,
-  "name": "JERON"
+  "districtName": "NOGOSARI",
+  "name": "JERON",
+  "postalCode": "57378"
  },
  {
   "id": 3309120005,
   "districtId": 3309120,
-  "name": "KETITANG"
+  "districtName": "NOGOSARI",
+  "name": "KETITANG",
+  "postalCode": "58162"
  },
  {
   "id": 3309120007,
   "districtId": 3309120,
-  "name": "GULI"
+  "districtName": "NOGOSARI",
+  "name": "GULI",
+  "postalCode": "57378"
  },
  {
   "id": 3309120008,
   "districtId": 3309120,
-  "name": "TEGALGIRI"
+  "districtName": "NOGOSARI",
+  "name": "TEGALGIRI",
+  "postalCode": "57378"
  },
  {
   "id": 3309120009,
   "districtId": 3309120,
-  "name": "BENDO"
+  "districtName": "NOGOSARI",
+  "name": "BENDO",
+  "postalCode": "57378"
  },
  {
   "id": 3309120010,
   "districtId": 3309120,
-  "name": "KEYONGAN"
+  "districtName": "NOGOSARI",
+  "name": "KEYONGAN",
+  "postalCode": "58183"
  },
  {
   "id": 3309120011,
   "districtId": 3309120,
-  "name": "POJOK"
+  "districtName": "NOGOSARI",
+  "name": "POJOK",
+  "postalCode": "57752"
  },
  {
   "id": 3309120012,
   "districtId": 3309120,
-  "name": "GLONGGONG"
+  "districtName": "NOGOSARI",
+  "name": "GLONGGONG",
+  "postalCode": "57254"
  },
  {
   "id": 3309120013,
   "districtId": 3309120,
-  "name": "PULUTAN"
+  "districtName": "NOGOSARI",
+  "name": "PULUTAN",
+  "postalCode": "54172"
  }
 ]

@@ -2,51 +2,71 @@
  {
   "id": 3210151001,
   "districtId": 3210151,
-  "name": "JATISAWIT"
+  "districtName": "KASOKANDEL",
+  "name": "JATISAWIT",
+  "postalCode": "45273"
  },
  {
   "id": 3210151002,
   "districtId": 3210151,
-  "name": "LEUWIKIDANG"
+  "districtName": "KASOKANDEL",
+  "name": "LEUWIKIDANG",
+  "postalCode": "45453"
  },
  {
   "id": 3210151003,
   "districtId": 3210151,
-  "name": "GIRIMUKTI"
+  "districtName": "KASOKANDEL",
+  "name": "GIRIMUKTI",
+  "postalCode": "46475"
  },
  {
   "id": 3210151004,
   "districtId": 3210151,
-  "name": "JATIMULYA"
+  "districtName": "KASOKANDEL",
+  "name": "JATIMULYA",
+  "postalCode": "45595"
  },
  {
   "id": 3210151005,
   "districtId": 3210151,
-  "name": "WANAJAYA"
+  "districtName": "KASOKANDEL",
+  "name": "WANAJAYA",
+  "postalCode": "17520"
  },
  {
   "id": 3210151006,
   "districtId": 3210151,
-  "name": "RANJIWETAN"
+  "districtName": "KASOKANDEL",
+  "name": "RANJIWETAN",
+  "postalCode": "45453"
  },
  {
   "id": 3210151007,
   "districtId": 3210151,
-  "name": "RANJIKULON"
+  "districtName": "KASOKANDEL",
+  "name": "RANJIKULON",
+  "postalCode": "45453"
  },
  {
   "id": 3210151008,
   "districtId": 3210151,
-  "name": "GUNUNGSARI"
+  "districtName": "KASOKANDEL",
+  "name": "GUNUNGSARI",
+  "postalCode": "35368"
  },
  {
   "id": 3210151009,
   "districtId": 3210151,
-  "name": "KASOKANDEL"
+  "districtName": "KASOKANDEL",
+  "name": "KASOKANDEL",
+  "postalCode": "45453"
  },
  {
   "id": 3210151010,
   "districtId": 3210151,
-  "name": "GANDASARI"
+  "districtName": "KASOKANDEL",
+  "name": "GANDASARI",
+  "postalCode": "17530"
  }
 ]

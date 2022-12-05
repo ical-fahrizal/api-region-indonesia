@@ -2,56 +2,78 @@
  {
   "id": 3211020001,
   "districtId": 3211020,
-  "name": "MANGUNARGA"
+  "districtName": "CIMANGGUNG",
+  "name": "MANGUNARGA",
+  "postalCode": "45364"
  },
  {
   "id": 3211020002,
   "districtId": 3211020,
-  "name": "SAWAHDADAP"
+  "districtName": "CIMANGGUNG",
+  "name": "SAWAHDADAP",
+  "postalCode": "45364"
  },
  {
   "id": 3211020003,
   "districtId": 3211020,
-  "name": "SUKADANA"
+  "districtName": "CIMANGGUNG",
+  "name": "SUKADANA",
+  "postalCode": "30611"
  },
  {
   "id": 3211020004,
   "districtId": 3211020,
-  "name": "CIHANJUANG"
+  "districtName": "CIMANGGUNG",
+  "name": "CIHANJUANG",
+  "postalCode": "45364"
  },
  {
   "id": 3211020005,
   "districtId": 3211020,
-  "name": "CIKAHURIPAN"
+  "districtName": "CIMANGGUNG",
+  "name": "CIKAHURIPAN",
+  "postalCode": "45364"
  },
  {
   "id": 3211020006,
   "districtId": 3211020,
-  "name": "SINDANGGALIH"
+  "districtName": "CIMANGGUNG",
+  "name": "SINDANGGALIH",
+  "postalCode": "45364"
  },
  {
   "id": 3211020007,
   "districtId": 3211020,
-  "name": "SINDANGPAKUON"
+  "districtName": "CIMANGGUNG",
+  "name": "SINDANGPAKUON",
+  "postalCode": "45364"
  },
  {
   "id": 3211020008,
   "districtId": 3211020,
-  "name": "CIMANGGUNG"
+  "districtName": "CIMANGGUNG",
+  "name": "CIMANGGUNG",
+  "postalCode": "45364"
  },
  {
   "id": 3211020009,
   "districtId": 3211020,
-  "name": "TEGALMANGGUNG"
+  "districtName": "CIMANGGUNG",
+  "name": "TEGALMANGGUNG",
+  "postalCode": "45364"
  },
  {
   "id": 3211020010,
   "districtId": 3211020,
-  "name": "SINDULANG"
+  "districtName": "CIMANGGUNG",
+  "name": "SINDULANG",
+  "postalCode": "45364"
  },
  {
   "id": 3211020011,
   "districtId": 3211020,
-  "name": "PASIRNANJUNG"
+  "districtName": "CIMANGGUNG",
+  "name": "PASIRNANJUNG",
+  "postalCode": ""
  }
 ]

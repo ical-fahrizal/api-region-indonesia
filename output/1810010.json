@@ -2,66 +2,92 @@
  {
   "id": 1810010004,
   "districtId": 1810010,
-  "name": "SELAPAN"
+  "districtName": "PARDASUKA",
+  "name": "SELAPAN",
+  "postalCode": "35682"
  },
  {
   "id": 1810010005,
   "districtId": 1810010,
-  "name": "KEDAUNG"
+  "districtName": "PARDASUKA",
+  "name": "KEDAUNG",
+  "postalCode": "35158"
  },
  {
   "id": 1810010006,
   "districtId": 1810010,
-  "name": "SUKA NEGERI"
+  "districtName": "PARDASUKA",
+  "name": "SUKA NEGERI",
+  "postalCode": "32274"
  },
  {
   "id": 1810010007,
   "districtId": 1810010,
-  "name": "RANTAU TIJANG"
+  "districtName": "PARDASUKA",
+  "name": "RANTAU TIJANG",
+  "postalCode": "35682"
  },
  {
   "id": 1810010008,
   "districtId": 1810010,
-  "name": "PARDASUKA"
+  "districtName": "PARDASUKA",
+  "name": "PARDASUKA",
+  "postalCode": "35452"
  },
  {
   "id": 1810010009,
   "districtId": 1810010,
-  "name": "TANJUNG RUSIA"
+  "districtName": "PARDASUKA",
+  "name": "TANJUNG RUSIA",
+  "postalCode": "35682"
  },
  {
   "id": 1810010013,
   "districtId": 1810010,
-  "name": "WARGO MULYO"
+  "districtName": "PARDASUKA",
+  "name": "WARGO MULYO",
+  "postalCode": "73583"
  },
  {
   "id": 1810010014,
   "districtId": 1810010,
-  "name": "PUJODADI"
+  "districtName": "PARDASUKA",
+  "name": "PUJODADI",
+  "postalCode": "35682"
  },
  {
   "id": 1810010015,
   "districtId": 1810010,
-  "name": "SUKOREJO"
+  "districtName": "PARDASUKA",
+  "name": "SUKOREJO",
+  "postalCode": "31551"
  },
  {
   "id": 1810010018,
   "districtId": 1810010,
-  "name": "SIDODADI"
+  "districtName": "PARDASUKA",
+  "name": "SIDODADI",
+  "postalCode": "24582"
  },
  {
   "id": 1810010019,
   "districtId": 1810010,
-  "name": "PARDASUKA TIMUR"
+  "districtName": "PARDASUKA",
+  "name": "PARDASUKA TIMUR",
+  "postalCode": "35682"
  },
  {
   "id": 1810010020,
   "districtId": 1810010,
-  "name": "TANJUNG RUSIA TIMUR"
+  "districtName": "PARDASUKA",
+  "name": "TANJUNG RUSIA TIMUR",
+  "postalCode": "35682"
  },
  {
   "id": 1810010021,
   "districtId": 1810010,
-  "name": "PARDASUKA SELATAN"
+  "districtName": "PARDASUKA",
+  "name": "PARDASUKA SELATAN",
+  "postalCode": "35682"
  }
 ]

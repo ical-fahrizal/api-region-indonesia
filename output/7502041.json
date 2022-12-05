@@ -2,51 +2,71 @@
  {
   "id": 7502041001,
   "districtId": 7502041,
-  "name": "TALUMOPATU"
+  "districtName": "MOOTILANGO",
+  "name": "TALUMOPATU",
+  "postalCode": "96127"
  },
  {
   "id": 7502041002,
   "districtId": 7502041,
-  "name": "SIDO MUKTI"
+  "districtName": "MOOTILANGO",
+  "name": "SIDO MUKTI",
+  "postalCode": "36763"
  },
  {
   "id": 7502041003,
   "districtId": 7502041,
-  "name": "KARYA MUKTI"
+  "districtName": "MOOTILANGO",
+  "name": "KARYA MUKTI",
+  "postalCode": "28953"
  },
  {
   "id": 7502041004,
   "districtId": 7502041,
-  "name": "SATRIA"
+  "districtName": "MOOTILANGO",
+  "name": "SATRIA",
+  "postalCode": "20714"
  },
  {
   "id": 7502041005,
   "districtId": 7502041,
-  "name": "PARIS"
+  "districtName": "MOOTILANGO",
+  "name": "PARIS",
+  "postalCode": "96127"
  },
  {
   "id": 7502041006,
   "districtId": 7502041,
-  "name": "HELUMO"
+  "districtName": "MOOTILANGO",
+  "name": "HELUMO",
+  "postalCode": "96525"
  },
  {
   "id": 7502041007,
   "districtId": 7502041,
-  "name": "PILOMONU"
+  "districtName": "MOOTILANGO",
+  "name": "PILOMONU",
+  "postalCode": "96127"
  },
  {
   "id": 7502041008,
   "districtId": 7502041,
-  "name": "HUYULA"
+  "districtName": "MOOTILANGO",
+  "name": "HUYULA",
+  "postalCode": "96127"
  },
  {
   "id": 7502041009,
   "districtId": 7502041,
-  "name": "PAYU"
+  "districtName": "MOOTILANGO",
+  "name": "PAYU",
+  "postalCode": "96127"
  },
  {
   "id": 7502041010,
   "districtId": 7502041,
-  "name": "SUKA MAJU"
+  "districtName": "MOOTILANGO",
+  "name": "SUKA MAJU",
+  "postalCode": "24673"
  }
 ]

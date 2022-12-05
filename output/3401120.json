@@ -2,36 +2,50 @@
  {
   "id": 3401120001,
   "districtId": 3401120,
-  "name": "KEBON HARJO"
+  "districtName": "SAMIGALUH",
+  "name": "KEBON HARJO",
+  "postalCode": "55673"
  },
  {
   "id": 3401120002,
   "districtId": 3401120,
-  "name": "BANJARSARI"
+  "districtName": "SAMIGALUH",
+  "name": "BANJARSARI",
+  "postalCode": "35377"
  },
  {
   "id": 3401120003,
   "districtId": 3401120,
-  "name": "PURWOHARJO"
+  "districtName": "SAMIGALUH",
+  "name": "PURWOHARJO",
+  "postalCode": "52363"
  },
  {
   "id": 3401120004,
   "districtId": 3401120,
-  "name": "SIDOHARJO"
+  "districtName": "SAMIGALUH",
+  "name": "SIDOHARJO",
+  "postalCode": "30975"
  },
  {
   "id": 3401120005,
   "districtId": 3401120,
-  "name": "GERBOSARI"
+  "districtName": "SAMIGALUH",
+  "name": "GERBOSARI",
+  "postalCode": "55673"
  },
  {
   "id": 3401120006,
   "districtId": 3401120,
-  "name": "NGARGOSARI"
+  "districtName": "SAMIGALUH",
+  "name": "NGARGOSARI",
+  "postalCode": "57352"
  },
  {
   "id": 3401120007,
   "districtId": 3401120,
-  "name": "PAGERHARJO"
+  "districtName": "SAMIGALUH",
+  "name": "PAGERHARJO",
+  "postalCode": "59152"
  }
 ]

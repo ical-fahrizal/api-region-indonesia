@@ -2,61 +2,85 @@
  {
   "id": 7322131001,
   "districtId": 7322131,
-  "name": "TIROBALI"
+  "districtName": "SEKO",
+  "name": "TIROBALI",
+  "postalCode": "92956"
  },
  {
   "id": 7322131002,
   "districtId": 7322131,
-  "name": "MALIMONGAN"
+  "districtName": "SEKO",
+  "name": "MALIMONGAN",
+  "postalCode": "92956"
  },
  {
   "id": 7322131003,
   "districtId": 7322131,
-  "name": "BEROPPA"
+  "districtName": "SEKO",
+  "name": "BEROPPA",
+  "postalCode": "92956"
  },
  {
   "id": 7322131004,
   "districtId": 7322131,
-  "name": "TANAMA KALEANG"
+  "districtName": "SEKO",
+  "name": "TANAMA KALEANG",
+  "postalCode": "92956"
  },
  {
   "id": 7322131005,
   "districtId": 7322131,
-  "name": "EMBONATANA"
+  "districtName": "SEKO",
+  "name": "EMBONATANA",
+  "postalCode": ""
  },
  {
   "id": 7322131006,
   "districtId": 7322131,
-  "name": "LODANG"
+  "districtName": "SEKO",
+  "name": "LODANG",
+  "postalCode": "92956"
  },
  {
   "id": 7322131007,
   "districtId": 7322131,
-  "name": "PADANG RAYA"
+  "districtName": "SEKO",
+  "name": "PADANG RAYA",
+  "postalCode": "34874"
  },
  {
   "id": 7322131008,
   "districtId": 7322131,
-  "name": "PADANG BALUA"
+  "districtName": "SEKO",
+  "name": "PADANG BALUA",
+  "postalCode": "92956"
  },
  {
   "id": 7322131009,
   "districtId": 7322131,
-  "name": "TALOTO"
+  "districtName": "SEKO",
+  "name": "TALOTO",
+  "postalCode": "92956"
  },
  {
   "id": 7322131010,
   "districtId": 7322131,
-  "name": "MARANTE"
+  "districtName": "SEKO",
+  "name": "MARANTE",
+  "postalCode": "92956"
  },
  {
   "id": 7322131011,
   "districtId": 7322131,
-  "name": "HONO"
+  "districtName": "SEKO",
+  "name": "HONO",
+  "postalCode": ""
  },
  {
   "id": 7322131012,
   "districtId": 7322131,
-  "name": "HOYANE"
+  "districtName": "SEKO",
+  "name": "HOYANE",
+  "postalCode": "92956"
  }
 ]

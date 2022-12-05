@@ -2,41 +2,57 @@
  {
   "id": 7302030001,
   "districtId": 7302030,
-  "name": "B I R A"
+  "districtName": "BONTO BAHARI",
+  "name": "B I R A",
+  "postalCode": ""
  },
  {
   "id": 7302030002,
   "districtId": 7302030,
-  "name": "DARUBIAH"
+  "districtName": "BONTO BAHARI",
+  "name": "DARUBIAH",
+  "postalCode": "92571"
  },
  {
   "id": 7302030003,
   "districtId": 7302030,
-  "name": "TANAH LEMO"
+  "districtName": "BONTO BAHARI",
+  "name": "TANAH LEMO",
+  "postalCode": "92571"
  },
  {
   "id": 7302030004,
   "districtId": 7302030,
-  "name": "A R A"
+  "districtName": "BONTO BAHARI",
+  "name": "A R A",
+  "postalCode": ""
  },
  {
   "id": 7302030005,
   "districtId": 7302030,
-  "name": "LEMBANNA"
+  "districtName": "BONTO BAHARI",
+  "name": "LEMBANNA",
+  "postalCode": "92571"
  },
  {
   "id": 7302030006,
   "districtId": 7302030,
-  "name": "TANAH BERU"
+  "districtName": "BONTO BAHARI",
+  "name": "TANAH BERU",
+  "postalCode": "92571"
  },
  {
   "id": 7302030007,
   "districtId": 7302030,
-  "name": "SAPOLOHE"
+  "districtName": "BONTO BAHARI",
+  "name": "SAPOLOHE",
+  "postalCode": "92571"
  },
  {
   "id": 7302030008,
   "districtId": 7302030,
-  "name": "BENJALA"
+  "districtName": "BONTO BAHARI",
+  "name": "BENJALA",
+  "postalCode": "92571"
  }
 ]

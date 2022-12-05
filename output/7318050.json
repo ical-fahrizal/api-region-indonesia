@@ -2,46 +2,64 @@
  {
   "id": 7318050019,
   "districtId": 7318050,
-  "name": "KELURAHAN PATTAN ULUSALU"
+  "districtName": "SALUPUTTI",
+  "name": "KELURAHAN PATTAN ULUSALU",
+  "postalCode": ""
  },
  {
   "id": 7318050030,
   "districtId": 7318050,
-  "name": "LEMBANG SALUTANDUNG"
+  "districtName": "SALUPUTTI",
+  "name": "LEMBANG SALUTANDUNG",
+  "postalCode": ""
  },
  {
   "id": 7318050046,
   "districtId": 7318050,
-  "name": "LEMBANG RATTE TALONGE"
+  "districtName": "SALUPUTTI",
+  "name": "LEMBANG RATTE TALONGE",
+  "postalCode": ""
  },
  {
   "id": 7318050047,
   "districtId": 7318050,
-  "name": "LEMBANG SA'TANDUNG"
+  "districtName": "SALUPUTTI",
+  "name": "LEMBANG SA'TANDUNG",
+  "postalCode": ""
  },
  {
   "id": 7318050049,
   "districtId": 7318050,
-  "name": "LEMBANG SALU"
+  "districtName": "SALUPUTTI",
+  "name": "LEMBANG SALU",
+  "postalCode": ""
  },
  {
   "id": 7318050050,
   "districtId": 7318050,
-  "name": "LEMBANG BATU TIAKA"
+  "districtName": "SALUPUTTI",
+  "name": "LEMBANG BATU TIAKA",
+  "postalCode": ""
  },
  {
   "id": 7318050051,
   "districtId": 7318050,
-  "name": "LEMBANG REA TULAKLANGI"
+  "districtName": "SALUPUTTI",
+  "name": "LEMBANG REA TULAKLANGI",
+  "postalCode": ""
  },
  {
   "id": 7318050052,
   "districtId": 7318050,
-  "name": "LEMBANG RA'BUNG"
+  "districtName": "SALUPUTTI",
+  "name": "LEMBANG RA'BUNG",
+  "postalCode": ""
  },
  {
   "id": 7318050053,
   "districtId": 7318050,
-  "name": "LEMBANG SALU BORONAN"
+  "districtName": "SALUPUTTI",
+  "name": "LEMBANG SALU BORONAN",
+  "postalCode": ""
  }
 ]

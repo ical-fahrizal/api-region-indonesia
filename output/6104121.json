@@ -2,21 +2,29 @@
  {
   "id": 6104121002,
   "districtId": 6104121,
-  "name": "SEKABUK"
+  "districtName": "SADANIANG",
+  "name": "SEKABUK",
+  "postalCode": "78361"
  },
  {
   "id": 6104121004,
   "districtId": 6104121,
-  "name": "AMAWANG"
+  "districtName": "SADANIANG",
+  "name": "AMAWANG",
+  "postalCode": ""
  },
  {
   "id": 6104121005,
   "districtId": 6104121,
-  "name": "ANSIAP"
+  "districtName": "SADANIANG",
+  "name": "ANSIAP",
+  "postalCode": "78361"
  },
  {
   "id": 6104121006,
   "districtId": 6104121,
-  "name": "SUAK BERANGAN"
+  "districtName": "SADANIANG",
+  "name": "SUAK BERANGAN",
+  "postalCode": ""
  }
 ]

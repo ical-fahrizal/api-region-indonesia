@@ -2,66 +2,92 @@
  {
   "id": 3318180001,
   "districtId": 3318180,
-  "name": "JEPALO"
+  "districtName": "GUNUNG WUNGKAL",
+  "name": "JEPALO",
+  "postalCode": "59156"
  },
  {
   "id": 3318180002,
   "districtId": 3318180,
-  "name": "SIDOMULYO"
+  "districtName": "GUNUNG WUNGKAL",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  },
  {
   "id": 3318180003,
   "districtId": 3318180,
-  "name": "SAMPOK"
+  "districtName": "GUNUNG WUNGKAL",
+  "name": "SAMPOK",
+  "postalCode": "59156"
  },
  {
   "id": 3318180004,
   "districtId": 3318180,
-  "name": "PESAGEN"
+  "districtName": "GUNUNG WUNGKAL",
+  "name": "PESAGEN",
+  "postalCode": "59156"
  },
  {
   "id": 3318180005,
   "districtId": 3318180,
-  "name": "GADU"
+  "districtName": "GUNUNG WUNGKAL",
+  "name": "GADU",
+  "postalCode": "22742"
  },
  {
   "id": 3318180006,
   "districtId": 3318180,
-  "name": "GAJIHAN"
+  "districtName": "GUNUNG WUNGKAL",
+  "name": "GAJIHAN",
+  "postalCode": "59156"
  },
  {
   "id": 3318180007,
   "districtId": 3318180,
-  "name": "PERDOPO"
+  "districtName": "GUNUNG WUNGKAL",
+  "name": "PERDOPO",
+  "postalCode": "59156"
  },
  {
   "id": 3318180008,
   "districtId": 3318180,
-  "name": "GULANGPONGGE"
+  "districtName": "GUNUNG WUNGKAL",
+  "name": "GULANGPONGGE",
+  "postalCode": ""
  },
  {
   "id": 3318180009,
   "districtId": 3318180,
-  "name": "JRAHI"
+  "districtName": "GUNUNG WUNGKAL",
+  "name": "JRAHI",
+  "postalCode": "59156"
  },
  {
   "id": 3318180010,
   "districtId": 3318180,
-  "name": "GILING"
+  "districtName": "GUNUNG WUNGKAL",
+  "name": "GILING",
+  "postalCode": "59156"
  },
  {
   "id": 3318180011,
   "districtId": 3318180,
-  "name": "BANCAK"
+  "districtName": "GUNUNG WUNGKAL",
+  "name": "BANCAK",
+  "postalCode": "50182"
  },
  {
   "id": 3318180012,
   "districtId": 3318180,
-  "name": "GUNUNGWUNGKAL"
+  "districtName": "GUNUNG WUNGKAL",
+  "name": "GUNUNGWUNGKAL",
+  "postalCode": "59156"
  },
  {
   "id": 3318180015,
   "districtId": 3318180,
-  "name": "SUMBERREJO"
+  "districtName": "GUNUNG WUNGKAL",
+  "name": "SUMBERREJO",
+  "postalCode": "59184"
  }
 ]

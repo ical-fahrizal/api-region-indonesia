@@ -2,121 +2,169 @@
  {
   "id": 1114050001,
   "districtId": 1114050,
-  "name": "SUKARAMAI II"
+  "districtName": "SERUWAY",
+  "name": "SUKARAMAI II",
+  "postalCode": "24473"
  },
  {
   "id": 1114050002,
   "districtId": 1114050,
-  "name": "SUKARAMAI I"
+  "districtName": "SERUWAY",
+  "name": "SUKARAMAI I",
+  "postalCode": "24473"
  },
  {
   "id": 1114050003,
   "districtId": 1114050,
-  "name": "PERK GEDUNG BIARA"
+  "districtName": "SERUWAY",
+  "name": "PERK GEDUNG BIARA",
+  "postalCode": ""
  },
  {
   "id": 1114050004,
   "districtId": 1114050,
-  "name": "AIR MASIN"
+  "districtName": "SERUWAY",
+  "name": "AIR MASIN",
+  "postalCode": "24473"
  },
  {
   "id": 1114050005,
   "districtId": 1114050,
-  "name": "SIDODADI"
+  "districtName": "SERUWAY",
+  "name": "SIDODADI",
+  "postalCode": "24582"
  },
  {
   "id": 1114050006,
   "districtId": 1114050,
-  "name": "TUALANG"
+  "districtName": "SERUWAY",
+  "name": "TUALANG",
+  "postalCode": "24372"
  },
  {
   "id": 1114050007,
   "districtId": 1114050,
-  "name": "MATANG SENTANG"
+  "districtName": "SERUWAY",
+  "name": "MATANG SENTANG",
+  "postalCode": "24473"
  },
  {
   "id": 1114050008,
   "districtId": 1114050,
-  "name": "ALUR ALIM"
+  "districtName": "SERUWAY",
+  "name": "ALUR ALIM",
+  "postalCode": "24473"
  },
  {
   "id": 1114050009,
   "districtId": 1114050,
-  "name": "LUBUK DAMAR"
+  "districtName": "SERUWAY",
+  "name": "LUBUK DAMAR",
+  "postalCode": "24473"
  },
  {
   "id": 1114050010,
   "districtId": 1114050,
-  "name": "SEI KURUK III"
+  "districtName": "SERUWAY",
+  "name": "SEI KURUK III",
+  "postalCode": "24473"
  },
  {
   "id": 1114050011,
   "districtId": 1114050,
-  "name": "SEI KURUK II"
+  "districtName": "SERUWAY",
+  "name": "SEI KURUK II",
+  "postalCode": "24473"
  },
  {
   "id": 1114050012,
   "districtId": 1114050,
-  "name": "GEDUNG BIARA"
+  "districtName": "SERUWAY",
+  "name": "GEDUNG BIARA",
+  "postalCode": "24473"
  },
  {
   "id": 1114050013,
   "districtId": 1114050,
-  "name": "PERK SEURUWAY"
+  "districtName": "SERUWAY",
+  "name": "PERK SEURUWAY",
+  "postalCode": ""
  },
  {
   "id": 1114050014,
   "districtId": 1114050,
-  "name": "PADANG LANGGIS"
+  "districtName": "SERUWAY",
+  "name": "PADANG LANGGIS",
+  "postalCode": "24473"
  },
  {
   "id": 1114050015,
   "districtId": 1114050,
-  "name": "PANTAI BALAI"
+  "districtName": "SERUWAY",
+  "name": "PANTAI BALAI",
+  "postalCode": "24473"
  },
  {
   "id": 1114050016,
   "districtId": 1114050,
-  "name": "BINJAI"
+  "districtName": "SERUWAY",
+  "name": "BINJAI",
+  "postalCode": "24473"
  },
  {
   "id": 1114050017,
   "districtId": 1114050,
-  "name": "TANGSI LAMA"
+  "districtName": "SERUWAY",
+  "name": "TANGSI LAMA",
+  "postalCode": "24473"
  },
  {
   "id": 1114050018,
   "districtId": 1114050,
-  "name": "PEUKAN SEURUWAY"
+  "districtName": "SERUWAY",
+  "name": "PEUKAN SEURUWAY",
+  "postalCode": "24473"
  },
  {
   "id": 1114050019,
   "districtId": 1114050,
-  "name": "MUKA SUNGAI KURUK"
+  "districtName": "SERUWAY",
+  "name": "MUKA SUNGAI KURUK",
+  "postalCode": ""
  },
  {
   "id": 1114050020,
   "districtId": 1114050,
-  "name": "SUNGAI KURUK I"
+  "districtName": "SERUWAY",
+  "name": "SUNGAI KURUK I",
+  "postalCode": ""
  },
  {
   "id": 1114050021,
   "districtId": 1114050,
-  "name": "PAYA UDANG"
+  "districtName": "SERUWAY",
+  "name": "PAYA UDANG",
+  "postalCode": "24473"
  },
  {
   "id": 1114050022,
   "districtId": 1114050,
-  "name": "GELUNG"
+  "districtName": "SERUWAY",
+  "name": "GELUNG",
+  "postalCode": "24473"
  },
  {
   "id": 1114050023,
   "districtId": 1114050,
-  "name": "KAMPUNG BARU"
+  "districtName": "SERUWAY",
+  "name": "KAMPUNG BARU",
+  "postalCode": "24652"
  },
  {
   "id": 1114050024,
   "districtId": 1114050,
-  "name": "KW PUSUNG KAPAL"
+  "districtName": "SERUWAY",
+  "name": "KW PUSUNG KAPAL",
+  "postalCode": "24473"
  }
 ]

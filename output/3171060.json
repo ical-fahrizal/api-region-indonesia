@@ -2,46 +2,64 @@
  {
   "id": 3171060001,
   "districtId": 3171060,
-  "name": "GANDARIA UTARA"
+  "districtName": "KEBAYORAN BARU",
+  "name": "GANDARIA UTARA",
+  "postalCode": "12140"
  },
  {
   "id": 3171060002,
   "districtId": 3171060,
-  "name": "CIPETE UTARA"
+  "districtName": "KEBAYORAN BARU",
+  "name": "CIPETE UTARA",
+  "postalCode": "12150"
  },
  {
   "id": 3171060003,
   "districtId": 3171060,
-  "name": "PULO"
+  "districtName": "KEBAYORAN BARU",
+  "name": "PULO",
+  "postalCode": "24188"
  },
  {
   "id": 3171060004,
   "districtId": 3171060,
-  "name": "PETOGOGAN"
+  "districtName": "KEBAYORAN BARU",
+  "name": "PETOGOGAN",
+  "postalCode": "12170"
  },
  {
   "id": 3171060005,
   "districtId": 3171060,
-  "name": "MELAWAI"
+  "districtName": "KEBAYORAN BARU",
+  "name": "MELAWAI",
+  "postalCode": "12160"
  },
  {
   "id": 3171060006,
   "districtId": 3171060,
-  "name": "KRAMAT PELA"
+  "districtName": "KEBAYORAN BARU",
+  "name": "KRAMAT PELA",
+  "postalCode": "12130"
  },
  {
   "id": 3171060008,
   "districtId": 3171060,
-  "name": "SELONG"
+  "districtName": "KEBAYORAN BARU",
+  "name": "SELONG",
+  "postalCode": "12110"
  },
  {
   "id": 3171060009,
   "districtId": 3171060,
-  "name": "RAWA BARAT"
+  "districtName": "KEBAYORAN BARU",
+  "name": "RAWA BARAT",
+  "postalCode": "12180"
  },
  {
   "id": 3171060010,
   "districtId": 3171060,
-  "name": "SENAYAN"
+  "districtName": "KEBAYORAN BARU",
+  "name": "SENAYAN",
+  "postalCode": "12190"
  }
 ]

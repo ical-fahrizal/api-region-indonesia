@@ -2,31 +2,43 @@
  {
   "id": 1671051001,
   "districtId": 1671051,
-  "name": "SEKIP JAYA"
+  "districtName": "KEMUNING",
+  "name": "SEKIP JAYA",
+  "postalCode": "30128"
  },
  {
   "id": 1671051002,
   "districtId": 1671051,
-  "name": "PAHLAWAN"
+  "districtName": "KEMUNING",
+  "name": "PAHLAWAN",
+  "postalCode": "24476"
  },
  {
   "id": 1671051003,
   "districtId": 1671051,
-  "name": "20 ILIR II"
+  "districtName": "KEMUNING",
+  "name": "20 ILIR II",
+  "postalCode": "30127"
  },
  {
   "id": 1671051004,
   "districtId": 1671051,
-  "name": "PIPA REJA"
+  "districtName": "KEMUNING",
+  "name": "PIPA REJA",
+  "postalCode": "30128"
  },
  {
   "id": 1671051005,
   "districtId": 1671051,
-  "name": "TALANG AMAN"
+  "districtName": "KEMUNING",
+  "name": "TALANG AMAN",
+  "postalCode": "30128"
  },
  {
   "id": 1671051006,
   "districtId": 1671051,
-  "name": "ARIO KEMUNING"
+  "districtName": "KEMUNING",
+  "name": "ARIO KEMUNING",
+  "postalCode": "30128"
  }
 ]

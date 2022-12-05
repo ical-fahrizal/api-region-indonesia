@@ -2,26 +2,36 @@
  {
   "id": 3202172001,
   "districtId": 3202172,
-  "name": "CIPURUT"
+  "districtName": "CIREUNGHAS",
+  "name": "CIPURUT",
+  "postalCode": "43193"
  },
  {
   "id": 3202172002,
   "districtId": 3202172,
-  "name": "CIREUNGHAS"
+  "districtName": "CIREUNGHAS",
+  "name": "CIREUNGHAS",
+  "postalCode": "43193"
  },
  {
   "id": 3202172003,
   "districtId": 3202172,
-  "name": "BENCOY"
+  "districtName": "CIREUNGHAS",
+  "name": "BENCOY",
+  "postalCode": "43193"
  },
  {
   "id": 3202172004,
   "districtId": 3202172,
-  "name": "CIKURUTUG"
+  "districtName": "CIREUNGHAS",
+  "name": "CIKURUTUG",
+  "postalCode": "43193"
  },
  {
   "id": 3202172005,
   "districtId": 3202172,
-  "name": "TEGALPANJANG"
+  "districtName": "CIREUNGHAS",
+  "name": "TEGALPANJANG",
+  "postalCode": "43193"
  }
 ]

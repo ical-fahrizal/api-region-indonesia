@@ -2,61 +2,85 @@
  {
   "id": 1218090001,
   "districtId": 1218090,
-  "name": "SEI BULUH"
+  "districtName": "TELUK MENGKUDU",
+  "name": "SEI BULUH",
+  "postalCode": ""
  },
  {
   "id": 1218090002,
   "districtId": 1218090,
-  "name": "LIBERIA"
+  "districtName": "TELUK MENGKUDU",
+  "name": "LIBERIA",
+  "postalCode": "20997"
  },
  {
   "id": 1218090003,
   "districtId": 1218090,
-  "name": "PEMATANG SETERAK"
+  "districtName": "TELUK MENGKUDU",
+  "name": "PEMATANG SETERAK",
+  "postalCode": ""
  },
  {
   "id": 1218090004,
   "districtId": 1218090,
-  "name": "MATAPAO"
+  "districtName": "TELUK MENGKUDU",
+  "name": "MATAPAO",
+  "postalCode": "20997"
  },
  {
   "id": 1218090005,
   "districtId": 1218090,
-  "name": "MAKMUR"
+  "districtName": "TELUK MENGKUDU",
+  "name": "MAKMUR",
+  "postalCode": "24562"
  },
  {
   "id": 1218090006,
   "districtId": 1218090,
-  "name": "PASAR BARU"
+  "districtName": "TELUK MENGKUDU",
+  "name": "PASAR BARU",
+  "postalCode": "22163"
  },
  {
   "id": 1218090007,
   "districtId": 1218090,
-  "name": "PEKAN SIALANG BUAH"
+  "districtName": "TELUK MENGKUDU",
+  "name": "PEKAN SIALANG BUAH",
+  "postalCode": "20997"
  },
  {
   "id": 1218090008,
   "districtId": 1218090,
-  "name": "SIALANG BUAH"
+  "districtName": "TELUK MENGKUDU",
+  "name": "SIALANG BUAH",
+  "postalCode": "20997"
  },
  {
   "id": 1218090009,
   "districtId": 1218090,
-  "name": "PEMATANG GUNTUNG"
+  "districtName": "TELUK MENGKUDU",
+  "name": "PEMATANG GUNTUNG",
+  "postalCode": "20997"
  },
  {
   "id": 1218090010,
   "districtId": 1218090,
-  "name": "SENTANG"
+  "districtName": "TELUK MENGKUDU",
+  "name": "SENTANG",
+  "postalCode": "21224"
  },
  {
   "id": 1218090011,
   "districtId": 1218090,
-  "name": "BOGAK BESAR"
+  "districtName": "TELUK MENGKUDU",
+  "name": "BOGAK BESAR",
+  "postalCode": "20997"
  },
  {
   "id": 1218090012,
   "districtId": 1218090,
-  "name": "PEMATANG KUALA"
+  "districtName": "TELUK MENGKUDU",
+  "name": "PEMATANG KUALA",
+  "postalCode": "20997"
  }
 ]

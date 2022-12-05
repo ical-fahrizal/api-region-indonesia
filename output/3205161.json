@@ -2,36 +2,50 @@
  {
   "id": 3205161001,
   "districtId": 3205161,
-  "name": "SUKAMULYA"
+  "districtName": "SUKARESMI",
+  "name": "SUKAMULYA",
+  "postalCode": "30657"
  },
  {
   "id": 3205161002,
   "districtId": 3205161,
-  "name": "SUKARESMI"
+  "districtName": "SUKARESMI",
+  "name": "SUKARESMI",
+  "postalCode": "17530"
  },
  {
   "id": 3205161003,
   "districtId": 3205161,
-  "name": "PADAMUKTI"
+  "districtName": "SUKARESMI",
+  "name": "PADAMUKTI",
+  "postalCode": "44161"
  },
  {
   "id": 3205161004,
   "districtId": 3205161,
-  "name": "CINTADAMAI"
+  "districtName": "SUKARESMI",
+  "name": "CINTADAMAI",
+  "postalCode": "44163"
  },
  {
   "id": 3205161005,
   "districtId": 3205161,
-  "name": "SUKAJAYA"
+  "districtName": "SUKARESMI",
+  "name": "SUKAJAYA",
+  "postalCode": "30756"
  },
  {
   "id": 3205161006,
   "districtId": 3205161,
-  "name": "MEKARJAYA"
+  "districtName": "SUKARESMI",
+  "name": "MEKARJAYA",
+  "postalCode": "30653"
  },
  {
   "id": 3205161007,
   "districtId": 3205161,
-  "name": "SUKALILAH"
+  "districtName": "SUKARESMI",
+  "name": "SUKALILAH",
+  "postalCode": "44185"
  }
 ]

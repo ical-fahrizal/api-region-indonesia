@@ -2,46 +2,64 @@
  {
   "id": 9433031001,
   "districtId": 9433031,
-  "name": "PALUGA"
+  "districtName": "ILAGA UTARA",
+  "name": "PALUGA",
+  "postalCode": "98972"
  },
  {
   "id": 9433031002,
   "districtId": 9433031,
-  "name": "MAYUBERI"
+  "districtName": "ILAGA UTARA",
+  "name": "MAYUBERI",
+  "postalCode": "98972"
  },
  {
   "id": 9433031003,
   "districtId": 9433031,
-  "name": "MAKI"
+  "districtName": "ILAGA UTARA",
+  "name": "MAKI",
+  "postalCode": "98972"
  },
  {
   "id": 9433031004,
   "districtId": 9433031,
-  "name": "MIANDIBA / MINDIPA"
+  "districtName": "ILAGA UTARA",
+  "name": "MIANDIBA / MINDIPA",
+  "postalCode": ""
  },
  {
   "id": 9433031005,
   "districtId": 9433031,
-  "name": "OLENKI"
+  "districtName": "ILAGA UTARA",
+  "name": "OLENKI",
+  "postalCode": ""
  },
  {
   "id": 9433031006,
   "districtId": 9433031,
-  "name": "AYALI"
+  "districtName": "ILAGA UTARA",
+  "name": "AYALI",
+  "postalCode": ""
  },
  {
   "id": 9433031007,
   "districtId": 9433031,
-  "name": "TOEGI"
+  "districtName": "ILAGA UTARA",
+  "name": "TOEGI",
+  "postalCode": ""
  },
  {
   "id": 9433031008,
   "districtId": 9433031,
-  "name": "AMUNGI"
+  "districtName": "ILAGA UTARA",
+  "name": "AMUNGI",
+  "postalCode": ""
  },
  {
   "id": 9433031009,
   "districtId": 9433031,
-  "name": "AKONOBAK"
+  "districtName": "ILAGA UTARA",
+  "name": "AKONOBAK",
+  "postalCode": ""
  }
 ]

@@ -2,51 +2,71 @@
  {
   "id": 7315050001,
   "districtId": 7315050,
-  "name": "MATTIRO ADE"
+  "districtName": "PATAMPANUA",
+  "name": "MATTIRO ADE",
+  "postalCode": "91252"
  },
  {
   "id": 7315050002,
   "districtId": 7315050,
-  "name": "LEPPANGANG"
+  "districtName": "PATAMPANUA",
+  "name": "LEPPANGANG",
+  "postalCode": "91252"
  },
  {
   "id": 7315050003,
   "districtId": 7315050,
-  "name": "PINCARA"
+  "districtName": "PATAMPANUA",
+  "name": "PINCARA",
+  "postalCode": "92961"
  },
  {
   "id": 7315050004,
   "districtId": 7315050,
-  "name": "TEPPO"
+  "districtName": "PATAMPANUA",
+  "name": "TEPPO",
+  "postalCode": "91252"
  },
  {
   "id": 7315050005,
   "districtId": 7315050,
-  "name": "TONYAMANG"
+  "districtName": "PATAMPANUA",
+  "name": "TONYAMANG",
+  "postalCode": "91252"
  },
  {
   "id": 7315050006,
   "districtId": 7315050,
-  "name": "MACCIRINNA"
+  "districtName": "PATAMPANUA",
+  "name": "MACCIRINNA",
+  "postalCode": "91252"
  },
  {
   "id": 7315050007,
   "districtId": 7315050,
-  "name": "PADANGLOANG"
+  "districtName": "PATAMPANUA",
+  "name": "PADANGLOANG",
+  "postalCode": "91681"
  },
  {
   "id": 7315050008,
   "districtId": 7315050,
-  "name": "MALIMPUNG"
+  "districtName": "PATAMPANUA",
+  "name": "MALIMPUNG",
+  "postalCode": "91252"
  },
  {
   "id": 7315050009,
   "districtId": 7315050,
-  "name": "SIPATUO"
+  "districtName": "PATAMPANUA",
+  "name": "SIPATUO",
+  "postalCode": "91252"
  },
  {
   "id": 7315050011,
   "districtId": 7315050,
-  "name": "MASOLO"
+  "districtName": "PATAMPANUA",
+  "name": "MASOLO",
+  "postalCode": "91252"
  }
 ]

@@ -2,56 +2,78 @@
  {
   "id": 9402120011,
   "districtId": 9402120,
-  "name": "MEAGAMA"
+  "districtName": "HUBIKOSI",
+  "name": "MEAGAMA",
+  "postalCode": "99566"
  },
  {
   "id": 9402120012,
   "districtId": 9402120,
-  "name": "HUBIKOSI"
+  "districtName": "HUBIKOSI",
+  "name": "HUBIKOSI",
+  "postalCode": "99566"
  },
  {
   "id": 9402120013,
   "districtId": 9402120,
-  "name": "KOSIHILAPOK"
+  "districtName": "HUBIKOSI",
+  "name": "KOSIHILAPOK",
+  "postalCode": "99566"
  },
  {
   "id": 9402120018,
   "districtId": 9402120,
-  "name": "KOSIMEAGA"
+  "districtName": "HUBIKOSI",
+  "name": "KOSIMEAGA",
+  "postalCode": ""
  },
  {
   "id": 9402120026,
   "districtId": 9402120,
-  "name": "ISAKUSA"
+  "districtName": "HUBIKOSI",
+  "name": "ISAKUSA",
+  "postalCode": "99566"
  },
  {
   "id": 9402120027,
   "districtId": 9402120,
-  "name": "PELIMA"
+  "districtName": "HUBIKOSI",
+  "name": "PELIMA",
+  "postalCode": "99566"
  },
  {
   "id": 9402120028,
   "districtId": 9402120,
-  "name": "PIPUKMO"
+  "districtName": "HUBIKOSI",
+  "name": "PIPUKMO",
+  "postalCode": "99566"
  },
  {
   "id": 9402120029,
   "districtId": 9402120,
-  "name": "MUSIAIMA II"
+  "districtName": "HUBIKOSI",
+  "name": "MUSIAIMA II",
+  "postalCode": ""
  },
  {
   "id": 9402120030,
   "districtId": 9402120,
-  "name": "JIBILABAGA"
+  "districtName": "HUBIKOSI",
+  "name": "JIBILABAGA",
+  "postalCode": "99566"
  },
  {
   "id": 9402120031,
   "districtId": 9402120,
-  "name": "IKILUMO"
+  "districtName": "HUBIKOSI",
+  "name": "IKILUMO",
+  "postalCode": "99566"
  },
  {
   "id": 9402120035,
   "districtId": 9402120,
-  "name": "KIKHUMO"
+  "districtName": "HUBIKOSI",
+  "name": "KIKHUMO",
+  "postalCode": "99566"
  }
 ]

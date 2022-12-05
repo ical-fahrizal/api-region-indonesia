@@ -2,21 +2,29 @@
  {
   "id": 1310021001,
   "districtId": 1310021,
-  "name": "SUNGAI KUNYIT"
+  "districtName": "SANGIR BALAI JANGGO",
+  "name": "SUNGAI KUNYIT",
+  "postalCode": "27777"
  },
  {
   "id": 1310021002,
   "districtId": 1310021,
-  "name": "TALUNAN MAJU"
+  "districtName": "SANGIR BALAI JANGGO",
+  "name": "TALUNAN MAJU",
+  "postalCode": "27777"
  },
  {
   "id": 1310021003,
   "districtId": 1310021,
-  "name": "TALAO SUNGAI KUNYIT"
+  "districtName": "SANGIR BALAI JANGGO",
+  "name": "TALAO SUNGAI KUNYIT",
+  "postalCode": "27777"
  },
  {
   "id": 1310021004,
   "districtId": 1310021,
-  "name": "SUNGAI KUNYIT BARAT"
+  "districtName": "SANGIR BALAI JANGGO",
+  "name": "SUNGAI KUNYIT BARAT",
+  "postalCode": "27777"
  }
 ]

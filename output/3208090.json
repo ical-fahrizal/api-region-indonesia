@@ -2,56 +2,78 @@
  {
   "id": 3208090001,
   "districtId": 3208090,
-  "name": "CIHIDEUNGGIRANG"
+  "districtName": "CIDAHU",
+  "name": "CIHIDEUNGGIRANG",
+  "postalCode": "45595"
  },
  {
   "id": 3208090002,
   "districtId": 3208090,
-  "name": "CIHIDEUNGHILIR"
+  "districtName": "CIDAHU",
+  "name": "CIHIDEUNGHILIR",
+  "postalCode": "45595"
  },
  {
   "id": 3208090003,
   "districtId": 3208090,
-  "name": "CIDAHU"
+  "districtName": "CIDAHU",
+  "name": "CIDAHU",
+  "postalCode": "43172"
  },
  {
   "id": 3208090004,
   "districtId": 3208090,
-  "name": "KERTAWINANGUN"
+  "districtName": "CIDAHU",
+  "name": "KERTAWINANGUN",
+  "postalCode": "45595"
  },
  {
   "id": 3208090005,
   "districtId": 3208090,
-  "name": "DATAR"
+  "districtName": "CIDAHU",
+  "name": "DATAR",
+  "postalCode": "37216"
  },
  {
   "id": 3208090007,
   "districtId": 3208090,
-  "name": "LEGOK"
+  "districtName": "CIDAHU",
+  "name": "LEGOK",
+  "postalCode": "36121"
  },
  {
   "id": 3208090008,
   "districtId": 3208090,
-  "name": "CIEURIH"
+  "districtName": "CIDAHU",
+  "name": "CIEURIH",
+  "postalCode": "45595"
  },
  {
   "id": 3208090009,
   "districtId": 3208090,
-  "name": "NANGGELA"
+  "districtName": "CIDAHU",
+  "name": "NANGGELA",
+  "postalCode": "45595"
  },
  {
   "id": 3208090016,
   "districtId": 3208090,
-  "name": "CIBULAN"
+  "districtName": "CIDAHU",
+  "name": "CIBULAN",
+  "postalCode": "45595"
  },
  {
   "id": 3208090017,
   "districtId": 3208090,
-  "name": "CIKEUSIK"
+  "districtName": "CIDAHU",
+  "name": "CIKEUSIK",
+  "postalCode": "45595"
  },
  {
   "id": 3208090018,
   "districtId": 3208090,
-  "name": "JATIMULYA"
+  "districtName": "CIDAHU",
+  "name": "JATIMULYA",
+  "postalCode": "45595"
  }
 ]

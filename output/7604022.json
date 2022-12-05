@@ -2,41 +2,57 @@
  {
   "id": 7604022001,
   "districtId": 7604022,
-  "name": "BOTTENG"
+  "districtName": "SIMBORO",
+  "name": "BOTTENG",
+  "postalCode": "91371"
  },
  {
   "id": 7604022002,
   "districtId": 7604022,
-  "name": "SALLETTO"
+  "districtName": "SIMBORO",
+  "name": "SALLETTO",
+  "postalCode": "91512"
  },
  {
   "id": 7604022003,
   "districtId": 7604022,
-  "name": "SIMBORO"
+  "districtName": "SIMBORO",
+  "name": "SIMBORO",
+  "postalCode": "91512"
  },
  {
   "id": 7604022004,
   "districtId": 7604022,
-  "name": "RANGAS"
+  "districtName": "SIMBORO",
+  "name": "RANGAS",
+  "postalCode": "71381"
  },
  {
   "id": 7604022005,
   "districtId": 7604022,
-  "name": "SUMARE"
+  "districtName": "SIMBORO",
+  "name": "SUMARE",
+  "postalCode": "91513"
  },
  {
   "id": 7604022006,
   "districtId": 7604022,
-  "name": "BOTTENG UTARA"
+  "districtName": "SIMBORO",
+  "name": "BOTTENG UTARA",
+  "postalCode": "91512"
  },
  {
   "id": 7604022007,
   "districtId": 7604022,
-  "name": "TAPANDULLU"
+  "districtName": "SIMBORO",
+  "name": "TAPANDULLU",
+  "postalCode": ""
  },
  {
   "id": 7604022009,
   "districtId": 7604022,
-  "name": "PATI`DI"
+  "districtName": "SIMBORO",
+  "name": "PATI`DI",
+  "postalCode": ""
  }
 ]

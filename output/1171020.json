@@ -2,51 +2,71 @@
  {
   "id": 1171020001,
   "districtId": 1171020,
-  "name": "ATEUK JAWO"
+  "districtName": "BAITURRAHMAN",
+  "name": "ATEUK JAWO",
+  "postalCode": "23245"
  },
  {
   "id": 1171020007,
   "districtId": 1171020,
-  "name": "ATEUK DEAH TANOH"
+  "districtName": "BAITURRAHMAN",
+  "name": "ATEUK DEAH TANOH",
+  "postalCode": "23244"
  },
  {
   "id": 1171020008,
   "districtId": 1171020,
-  "name": "ATEUK PAHLAWAN"
+  "districtName": "BAITURRAHMAN",
+  "name": "ATEUK PAHLAWAN",
+  "postalCode": "23241"
  },
  {
   "id": 1171020009,
   "districtId": 1171020,
-  "name": "ATEUK MUNJENG"
+  "districtName": "BAITURRAHMAN",
+  "name": "ATEUK MUNJENG",
+  "postalCode": "23244"
  },
  {
   "id": 1171020010,
   "districtId": 1171020,
-  "name": "NEUSU ACEH"
+  "districtName": "BAITURRAHMAN",
+  "name": "NEUSU ACEH",
+  "postalCode": "23244"
  },
  {
   "id": 1171020011,
   "districtId": 1171020,
-  "name": "SEUTUI"
+  "districtName": "BAITURRAHMAN",
+  "name": "SEUTUI",
+  "postalCode": "23243"
  },
  {
   "id": 1171020012,
   "districtId": 1171020,
-  "name": "SUKARAMAI"
+  "districtName": "BAITURRAHMAN",
+  "name": "SUKARAMAI",
+  "postalCode": "23243"
  },
  {
   "id": 1171020013,
   "districtId": 1171020,
-  "name": "NEUSU JAYA"
+  "districtName": "BAITURRAHMAN",
+  "name": "NEUSU JAYA",
+  "postalCode": "23243"
  },
  {
   "id": 1171020014,
   "districtId": 1171020,
-  "name": "PEUNITI"
+  "districtName": "BAITURRAHMAN",
+  "name": "PEUNITI",
+  "postalCode": "23241"
  },
  {
   "id": 1171020019,
   "districtId": 1171020,
-  "name": "KAMPUNG BARU"
+  "districtName": "BAITURRAHMAN",
+  "name": "KAMPUNG BARU",
+  "postalCode": "24652"
  }
 ]

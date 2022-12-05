@@ -2,81 +2,113 @@
  {
   "id": 3314120001,
   "districtId": 3314120,
-  "name": "KARANGASEM"
+  "districtName": "TANON",
+  "name": "KARANGASEM",
+  "postalCode": "45186"
  },
  {
   "id": 3314120002,
   "districtId": 3314120,
-  "name": "SLOGO"
+  "districtName": "TANON",
+  "name": "SLOGO",
+  "postalCode": "57277"
  },
  {
   "id": 3314120003,
   "districtId": 3314120,
-  "name": "JONO"
+  "districtName": "TANON",
+  "name": "JONO",
+  "postalCode": "54224"
  },
  {
   "id": 3314120004,
   "districtId": 3314120,
-  "name": "GAWAN"
+  "districtName": "TANON",
+  "name": "GAWAN",
+  "postalCode": "57277"
  },
  {
   "id": 3314120005,
   "districtId": 3314120,
-  "name": "KECIK"
+  "districtName": "TANON",
+  "name": "KECIK",
+  "postalCode": "57277"
  },
  {
   "id": 3314120006,
   "districtId": 3314120,
-  "name": "PADAS"
+  "districtName": "TANON",
+  "name": "PADAS",
+  "postalCode": "57475"
  },
  {
   "id": 3314120007,
   "districtId": 3314120,
-  "name": "GABUGAN"
+  "districtName": "TANON",
+  "name": "GABUGAN",
+  "postalCode": "57277"
  },
  {
   "id": 3314120008,
   "districtId": 3314120,
-  "name": "KETRO"
+  "districtName": "TANON",
+  "name": "KETRO",
+  "postalCode": "58163"
  },
  {
   "id": 3314120009,
   "districtId": 3314120,
-  "name": "SAMBI DUWUR"
+  "districtName": "TANON",
+  "name": "SAMBI DUWUR",
+  "postalCode": "57277"
  },
  {
   "id": 3314120010,
   "districtId": 3314120,
-  "name": "KARANG TALUN"
+  "districtName": "TANON",
+  "name": "KARANG TALUN",
+  "postalCode": "57277"
  },
  {
   "id": 3314120011,
   "districtId": 3314120,
-  "name": "GADING"
+  "districtName": "TANON",
+  "name": "GADING",
+  "postalCode": "22755"
  },
  {
   "id": 3314120012,
   "districtId": 3314120,
-  "name": "BONAGUNG"
+  "districtName": "TANON",
+  "name": "BONAGUNG",
+  "postalCode": "57277"
  },
  {
   "id": 3314120013,
   "districtId": 3314120,
-  "name": "KALIKOBOK"
+  "districtName": "TANON",
+  "name": "KALIKOBOK",
+  "postalCode": "57277"
  },
  {
   "id": 3314120014,
   "districtId": 3314120,
-  "name": "TANON"
+  "districtName": "TANON",
+  "name": "TANON",
+  "postalCode": "57277"
  },
  {
   "id": 3314120015,
   "districtId": 3314120,
-  "name": "SUWATU"
+  "districtName": "TANON",
+  "name": "SUWATU",
+  "postalCode": "58183"
  },
  {
   "id": 3314120016,
   "districtId": 3314120,
-  "name": "PENGKOL"
+  "districtName": "TANON",
+  "name": "PENGKOL",
+  "postalCode": "57692"
  }
 ]

@@ -2,31 +2,43 @@
  {
   "id": 7605020001,
   "districtId": 7605020,
-  "name": "BARAS"
+  "districtName": "BARAS",
+  "name": "BARAS",
+  "postalCode": "78691"
  },
  {
   "id": 7605020002,
   "districtId": 7605020,
-  "name": "BALANTI"
+  "districtName": "BARAS",
+  "name": "BALANTI",
+  "postalCode": "71262"
  },
  {
   "id": 7605020003,
   "districtId": 7605020,
-  "name": "MOTU"
+  "districtName": "BARAS",
+  "name": "MOTU",
+  "postalCode": "91572"
  },
  {
   "id": 7605020012,
   "districtId": 7605020,
-  "name": "BULU PARIGI"
+  "districtName": "BARAS",
+  "name": "BULU PARIGI",
+  "postalCode": "91572"
  },
  {
   "id": 7605020013,
   "districtId": 7605020,
-  "name": "TOWONI"
+  "districtName": "BARAS",
+  "name": "TOWONI",
+  "postalCode": ""
  },
  {
   "id": 7605020014,
   "districtId": 7605020,
-  "name": "KASANO"
+  "districtName": "BARAS",
+  "name": "KASANO",
+  "postalCode": "91572"
  }
 ]

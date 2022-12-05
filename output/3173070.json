@@ -2,26 +2,36 @@
  {
   "id": 3173070001,
   "districtId": 3173070,
-  "name": "PASAR BARU"
+  "districtName": "SAWAH BESAR",
+  "name": "PASAR BARU",
+  "postalCode": "22163"
  },
  {
   "id": 3173070002,
   "districtId": 3173070,
-  "name": "GUNUNG SAHARI UTARA"
+  "districtName": "SAWAH BESAR",
+  "name": "GUNUNG SAHARI UTARA",
+  "postalCode": "10720"
  },
  {
   "id": 3173070003,
   "districtId": 3173070,
-  "name": "KARTINI"
+  "districtName": "SAWAH BESAR",
+  "name": "KARTINI",
+  "postalCode": "20713"
  },
  {
   "id": 3173070004,
   "districtId": 3173070,
-  "name": "KARANG ANYAR"
+  "districtName": "SAWAH BESAR",
+  "name": "KARANG ANYAR",
+  "postalCode": "24415"
  },
  {
   "id": 3173070005,
   "districtId": 3173070,
-  "name": "MANGGA DUA SELATAN"
+  "districtName": "SAWAH BESAR",
+  "name": "MANGGA DUA SELATAN",
+  "postalCode": "10730"
  }
 ]

@@ -2,61 +2,85 @@
  {
   "id": 1306060001,
   "districtId": 1306060,
-  "name": "BALAH AIA"
+  "districtName": "VII KOTO SUNGAI SARIAK",
+  "name": "BALAH AIA",
+  "postalCode": "25573"
  },
  {
   "id": 1306060002,
   "districtId": 1306060,
-  "name": "LAREH NAN PANJANG"
+  "districtName": "VII KOTO SUNGAI SARIAK",
+  "name": "LAREH NAN PANJANG",
+  "postalCode": "25573"
  },
  {
   "id": 1306060003,
   "districtId": 1306060,
-  "name": "LURAH AMPALU"
+  "districtName": "VII KOTO SUNGAI SARIAK",
+  "name": "LURAH AMPALU",
+  "postalCode": "25573"
  },
  {
   "id": 1306060004,
   "districtId": 1306060,
-  "name": "SUNGAI SARIAK"
+  "districtName": "VII KOTO SUNGAI SARIAK",
+  "name": "SUNGAI SARIAK",
+  "postalCode": "25573"
  },
  {
   "id": 1306060005,
   "districtId": 1306060,
-  "name": "BALAH AIE TIMUR"
+  "districtName": "VII KOTO SUNGAI SARIAK",
+  "name": "BALAH AIE TIMUR",
+  "postalCode": ""
  },
  {
   "id": 1306060006,
   "districtId": 1306060,
-  "name": "BALAH AIE UTARA"
+  "districtName": "VII KOTO SUNGAI SARIAK",
+  "name": "BALAH AIE UTARA",
+  "postalCode": ""
  },
  {
   "id": 1306060007,
   "districtId": 1306060,
-  "name": "LAREH NAN PANJANG SELATAN"
+  "districtName": "VII KOTO SUNGAI SARIAK",
+  "name": "LAREH NAN PANJANG SELATAN",
+  "postalCode": ""
  },
  {
   "id": 1306060008,
   "districtId": 1306060,
-  "name": "LAREH NAN PANJANG BARAT"
+  "districtName": "VII KOTO SUNGAI SARIAK",
+  "name": "LAREH NAN PANJANG BARAT",
+  "postalCode": ""
  },
  {
   "id": 1306060009,
   "districtId": 1306060,
-  "name": "LIMPATO SUNGAI SARIAK"
+  "districtName": "VII KOTO SUNGAI SARIAK",
+  "name": "LIMPATO SUNGAI SARIAK",
+  "postalCode": ""
  },
  {
   "id": 1306060010,
   "districtId": 1306060,
-  "name": "BISATI SUNGAI SARIAK"
+  "districtName": "VII KOTO SUNGAI SARIAK",
+  "name": "BISATI SUNGAI SARIAK",
+  "postalCode": ""
  },
  {
   "id": 1306060011,
   "districtId": 1306060,
-  "name": "LAREH NAN PANJANG SUNGAI SARIAK"
+  "districtName": "VII KOTO SUNGAI SARIAK",
+  "name": "LAREH NAN PANJANG SUNGAI SARIAK",
+  "postalCode": ""
  },
  {
   "id": 1306060012,
   "districtId": 1306060,
-  "name": "AMBUANG KAPUA SUNGAI SARIAK"
+  "districtName": "VII KOTO SUNGAI SARIAK",
+  "name": "AMBUANG KAPUA SUNGAI SARIAK",
+  "postalCode": ""
  }
 ]

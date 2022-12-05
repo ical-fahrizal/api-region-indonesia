@@ -2,61 +2,85 @@
  {
   "id": 1509041001,
   "districtId": 1509041,
-  "name": "EMBACANG GEDANG"
+  "districtName": "TANAH SEPENGGAL LINTAS",
+  "name": "EMBACANG GEDANG",
+  "postalCode": "37572"
  },
  {
   "id": 1509041002,
   "districtId": 1509041,
-  "name": "SUNGAI MANCUR"
+  "districtName": "TANAH SEPENGGAL LINTAS",
+  "name": "SUNGAI MANCUR",
+  "postalCode": "37263"
  },
  {
   "id": 1509041003,
   "districtId": 1509041,
-  "name": "TANAH PERIUK"
+  "districtName": "TANAH SEPENGGAL LINTAS",
+  "name": "TANAH PERIUK",
+  "postalCode": "37263"
  },
  {
   "id": 1509041004,
   "districtId": 1509041,
-  "name": "LUBUK LANDAI"
+  "districtName": "TANAH SEPENGGAL LINTAS",
+  "name": "LUBUK LANDAI",
+  "postalCode": "37263"
  },
  {
   "id": 1509041005,
   "districtId": 1509041,
-  "name": "PEMATANG PANJANG"
+  "districtName": "TANAH SEPENGGAL LINTAS",
+  "name": "PEMATANG PANJANG",
+  "postalCode": "21256"
  },
  {
   "id": 1509041006,
   "districtId": 1509041,
-  "name": "TEBING TINGGI"
+  "districtName": "TANAH SEPENGGAL LINTAS",
+  "name": "TEBING TINGGI",
+  "postalCode": "24477"
  },
  {
   "id": 1509041007,
   "districtId": 1509041,
-  "name": "RANTAU EMBACANG"
+  "districtName": "TANAH SEPENGGAL LINTAS",
+  "name": "RANTAU EMBACANG",
+  "postalCode": "37263"
  },
  {
   "id": 1509041008,
   "districtId": 1509041,
-  "name": "PAKU AJI"
+  "districtName": "TANAH SEPENGGAL LINTAS",
+  "name": "PAKU AJI",
+  "postalCode": "36656"
  },
  {
   "id": 1509041009,
   "districtId": 1509041,
-  "name": "SUNGAI PURI"
+  "districtName": "TANAH SEPENGGAL LINTAS",
+  "name": "SUNGAI PURI",
+  "postalCode": "37263"
  },
  {
   "id": 1509041010,
   "districtId": 1509041,
-  "name": "SUNGAI LILIN"
+  "districtName": "TANAH SEPENGGAL LINTAS",
+  "name": "SUNGAI LILIN",
+  "postalCode": "37263"
  },
  {
   "id": 1509041011,
   "districtId": 1509041,
-  "name": "SUNGAI TEMBANG"
+  "districtName": "TANAH SEPENGGAL LINTAS",
+  "name": "SUNGAI TEMBANG",
+  "postalCode": "37263"
  },
  {
   "id": 1509041012,
   "districtId": 1509041,
-  "name": "RANTAU MAKMUR"
+  "districtName": "TANAH SEPENGGAL LINTAS",
+  "name": "RANTAU MAKMUR",
+  "postalCode": "36572"
  }
 ]

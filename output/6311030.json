@@ -2,116 +2,162 @@
  {
   "id": 6311030001,
   "districtId": 6311030,
-  "name": "NUNGKA"
+  "districtName": "AWAYAN",
+  "name": "NUNGKA",
+  "postalCode": "71664"
  },
  {
   "id": 6311030002,
   "districtId": 6311030,
-  "name": "TUNDAKAN"
+  "districtName": "AWAYAN",
+  "name": "TUNDAKAN",
+  "postalCode": "71664"
  },
  {
   "id": 6311030003,
   "districtId": 6311030,
-  "name": "AMBAKIYANG"
+  "districtName": "AWAYAN",
+  "name": "AMBAKIYANG",
+  "postalCode": ""
  },
  {
   "id": 6311030004,
   "districtId": 6311030,
-  "name": "PIYAIT"
+  "districtName": "AWAYAN",
+  "name": "PIYAIT",
+  "postalCode": "71664"
  },
  {
   "id": 6311030005,
   "districtId": 6311030,
-  "name": "BARAMBAN"
+  "districtName": "AWAYAN",
+  "name": "BARAMBAN",
+  "postalCode": "71664"
  },
  {
   "id": 6311030006,
   "districtId": 6311030,
-  "name": "BIHARA"
+  "districtName": "AWAYAN",
+  "name": "BIHARA",
+  "postalCode": "71664"
  },
  {
   "id": 6311030007,
   "districtId": 6311030,
-  "name": "BIHARA HILIR"
+  "districtName": "AWAYAN",
+  "name": "BIHARA HILIR",
+  "postalCode": "71664"
  },
  {
   "id": 6311030008,
   "districtId": 6311030,
-  "name": "MUARA JAYA"
+  "districtName": "AWAYAN",
+  "name": "MUARA JAYA",
+  "postalCode": "28559"
  },
  {
   "id": 6311030009,
   "districtId": 6311030,
-  "name": "PEMATANG"
+  "districtName": "AWAYAN",
+  "name": "PEMATANG",
+  "postalCode": "21454"
  },
  {
   "id": 6311030010,
   "districtId": 6311030,
-  "name": "SUNGAI PUMPUNG"
+  "districtName": "AWAYAN",
+  "name": "SUNGAI PUMPUNG",
+  "postalCode": ""
  },
  {
   "id": 6311030011,
   "districtId": 6311030,
-  "name": "MERAH"
+  "districtName": "AWAYAN",
+  "name": "MERAH",
+  "postalCode": "74355"
  },
  {
   "id": 6311030012,
   "districtId": 6311030,
-  "name": "KEDONDONG"
+  "districtName": "AWAYAN",
+  "name": "KEDONDONG",
+  "postalCode": "32191"
  },
  {
   "id": 6311030013,
   "districtId": 6311030,
-  "name": "PULANTAN"
+  "districtName": "AWAYAN",
+  "name": "PULANTAN",
+  "postalCode": "70655"
  },
  {
   "id": 6311030014,
   "districtId": 6311030,
-  "name": "PUTAT BASIUN"
+  "districtName": "AWAYAN",
+  "name": "PUTAT BASIUN",
+  "postalCode": "71664"
  },
  {
   "id": 6311030015,
   "districtId": 6311030,
-  "name": "AWAYAN"
+  "districtName": "AWAYAN",
+  "name": "AWAYAN",
+  "postalCode": "71664"
  },
  {
   "id": 6311030016,
   "districtId": 6311030,
-  "name": "AWAYAN HILIR"
+  "districtName": "AWAYAN",
+  "name": "AWAYAN HILIR",
+  "postalCode": "71664"
  },
  {
   "id": 6311030017,
   "districtId": 6311030,
-  "name": "BADALUNGGA HILIR"
+  "districtName": "AWAYAN",
+  "name": "BADALUNGGA HILIR",
+  "postalCode": "71664"
  },
  {
   "id": 6311030018,
   "districtId": 6311030,
-  "name": "BADALUNGGA"
+  "districtName": "AWAYAN",
+  "name": "BADALUNGGA",
+  "postalCode": "71664"
  },
  {
   "id": 6311030019,
   "districtId": 6311030,
-  "name": "SIKONTAN"
+  "districtName": "AWAYAN",
+  "name": "SIKONTAN",
+  "postalCode": "71664"
  },
  {
   "id": 6311030020,
   "districtId": 6311030,
-  "name": "TUNDI"
+  "districtName": "AWAYAN",
+  "name": "TUNDI",
+  "postalCode": "71664"
  },
  {
   "id": 6311030021,
   "districtId": 6311030,
-  "name": "PUDAK"
+  "districtName": "AWAYAN",
+  "name": "PUDAK",
+  "postalCode": "36373"
  },
  {
   "id": 6311030022,
   "districtId": 6311030,
-  "name": "BARU"
+  "districtName": "AWAYAN",
+  "name": "BARU",
+  "postalCode": "23764"
  },
  {
   "id": 6311030023,
   "districtId": 6311030,
-  "name": "TANGALIN"
+  "districtName": "AWAYAN",
+  "name": "TANGALIN",
+  "postalCode": "71664"
  }
 ]

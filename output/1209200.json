@@ -2,86 +2,120 @@
  {
   "id": 1209200001,
   "districtId": 1209200,
-  "name": "PARBUTARAN"
+  "districtName": "BOSAR MALIGAS",
+  "name": "PARBUTARAN",
+  "postalCode": "21183"
  },
  {
   "id": 1209200002,
   "districtId": 1209200,
-  "name": "MAYANG"
+  "districtName": "BOSAR MALIGAS",
+  "name": "MAYANG",
+  "postalCode": "21183"
  },
  {
   "id": 1209200003,
   "districtId": 1209200,
-  "name": "DUSUN PENGKOLAN"
+  "districtName": "BOSAR MALIGAS",
+  "name": "DUSUN PENGKOLAN",
+  "postalCode": "21183"
  },
  {
   "id": 1209200004,
   "districtId": 1209200,
-  "name": "BOSAR MALIGAS"
+  "districtName": "BOSAR MALIGAS",
+  "name": "BOSAR MALIGAS",
+  "postalCode": "21183"
  },
  {
   "id": 1209200005,
   "districtId": 1209200,
-  "name": "BOLUK"
+  "districtName": "BOSAR MALIGAS",
+  "name": "BOLUK",
+  "postalCode": "21183"
  },
  {
   "id": 1209200006,
   "districtId": 1209200,
-  "name": "SEI MANGKEI"
+  "districtName": "BOSAR MALIGAS",
+  "name": "SEI MANGKEI",
+  "postalCode": "21183"
  },
  {
   "id": 1209200007,
   "districtId": 1209200,
-  "name": "GUNUNG BAYU"
+  "districtName": "BOSAR MALIGAS",
+  "name": "GUNUNG BAYU",
+  "postalCode": "21183"
  },
  {
   "id": 1209200008,
   "districtId": 1209200,
-  "name": "TALUN SARAGIH"
+  "districtName": "BOSAR MALIGAS",
+  "name": "TALUN SARAGIH",
+  "postalCode": ""
  },
  {
   "id": 1209200009,
   "districtId": 1209200,
-  "name": "MARIHAT TANJUNG"
+  "districtName": "BOSAR MALIGAS",
+  "name": "MARIHAT TANJUNG",
+  "postalCode": "21183"
  },
  {
   "id": 1209200010,
   "districtId": 1209200,
-  "name": "MARIHAT BUTAR"
+  "districtName": "BOSAR MALIGAS",
+  "name": "MARIHAT BUTAR",
+  "postalCode": "21183"
  },
  {
   "id": 1209200011,
   "districtId": 1209200,
-  "name": "SEI TOROP"
+  "districtName": "BOSAR MALIGAS",
+  "name": "SEI TOROP",
+  "postalCode": "21183"
  },
  {
   "id": 1209200012,
   "districtId": 1209200,
-  "name": "ADIL MAKMUR"
+  "districtName": "BOSAR MALIGAS",
+  "name": "ADIL MAKMUR",
+  "postalCode": "21183"
  },
  {
   "id": 1209200013,
   "districtId": 1209200,
-  "name": "TELADAN"
+  "districtName": "BOSAR MALIGAS",
+  "name": "TELADAN",
+  "postalCode": "21183"
  },
  {
   "id": 1209200014,
   "districtId": 1209200,
-  "name": "TEMPEL JAYA"
+  "districtName": "BOSAR MALIGAS",
+  "name": "TEMPEL JAYA",
+  "postalCode": "21183"
  },
  {
   "id": 1209200015,
   "districtId": 1209200,
-  "name": "SIDOMULYO"
+  "districtName": "BOSAR MALIGAS",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
  },
  {
   "id": 1209200016,
   "districtId": 1209200,
-  "name": "NANGGAR BAYU"
+  "districtName": "BOSAR MALIGAS",
+  "name": "NANGGAR BAYU",
+  "postalCode": "21183"
  },
  {
   "id": 1209200017,
   "districtId": 1209200,
-  "name": "MEKAR REJO"
+  "districtName": "BOSAR MALIGAS",
+  "name": "MEKAR REJO",
+  "postalCode": "21183"
  }
 ]

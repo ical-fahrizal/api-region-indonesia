@@ -2,56 +2,78 @@
  {
   "id": 3521150001,
   "districtId": 3521150,
-  "name": "BANYU BIRU"
+  "districtName": "WIDODAREN",
+  "name": "BANYU BIRU",
+  "postalCode": "30656"
  },
  {
   "id": 3521150003,
   "districtId": 3521150,
-  "name": "KAYUTREJO"
+  "districtName": "WIDODAREN",
+  "name": "KAYUTREJO",
+  "postalCode": "63256"
  },
  {
   "id": 3521150004,
   "districtId": 3521150,
-  "name": "SEKAR ALAS"
+  "districtName": "WIDODAREN",
+  "name": "SEKAR ALAS",
+  "postalCode": "63256"
  },
  {
   "id": 3521150005,
   "districtId": 3521150,
-  "name": "SEKAR PUTIH"
+  "districtName": "WIDODAREN",
+  "name": "SEKAR PUTIH",
+  "postalCode": "64461"
  },
  {
   "id": 3521150006,
   "districtId": 3521150,
-  "name": "SIDOMAKMUR"
+  "districtName": "WIDODAREN",
+  "name": "SIDOMAKMUR",
+  "postalCode": "31452"
  },
  {
   "id": 3521150007,
   "districtId": 3521150,
-  "name": "SIDOLAJU"
+  "districtName": "WIDODAREN",
+  "name": "SIDOLAJU",
+  "postalCode": "63256"
  },
  {
   "id": 3521150008,
   "districtId": 3521150,
-  "name": "KARANG BANYU"
+  "districtName": "WIDODAREN",
+  "name": "KARANG BANYU",
+  "postalCode": "63256"
  },
  {
   "id": 3521150009,
   "districtId": 3521150,
-  "name": "WALIKUKUN"
+  "districtName": "WIDODAREN",
+  "name": "WALIKUKUN",
+  "postalCode": "63256"
  },
  {
   "id": 3521150010,
   "districtId": 3521150,
-  "name": "WIDODAREN"
+  "districtName": "WIDODAREN",
+  "name": "WIDODAREN",
+  "postalCode": "52362"
  },
  {
   "id": 3521150011,
   "districtId": 3521150,
-  "name": "GENDINGAN"
+  "districtName": "WIDODAREN",
+  "name": "GENDINGAN",
+  "postalCode": "66229"
  },
  {
   "id": 3521150012,
   "districtId": 3521150,
-  "name": "KAUMAN"
+  "districtName": "WIDODAREN",
+  "name": "KAUMAN",
+  "postalCode": "51215"
  }
 ]

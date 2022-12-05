@@ -2,41 +2,57 @@
  {
   "id": 7413080001,
   "districtId": 7413080,
-  "name": "BARANGKA"
+  "districtName": "BARANGKA",
+  "name": "BARANGKA",
+  "postalCode": "95853"
  },
  {
   "id": 7413080002,
   "districtId": 7413080,
-  "name": "SAWERIGADI"
+  "districtName": "BARANGKA",
+  "name": "SAWERIGADI",
+  "postalCode": "93652"
  },
  {
   "id": 7413080003,
   "districtId": 7413080,
-  "name": "BUNGKOLO"
+  "districtName": "BARANGKA",
+  "name": "BUNGKOLO",
+  "postalCode": "93652"
  },
  {
   "id": 7413080004,
   "districtId": 7413080,
-  "name": "LAPOLEA"
+  "districtName": "BARANGKA",
+  "name": "LAPOLEA",
+  "postalCode": "93652"
  },
  {
   "id": 7413080005,
   "districtId": 7413080,
-  "name": "WALELEI"
+  "districtName": "BARANGKA",
+  "name": "WALELEI",
+  "postalCode": "93652"
  },
  {
   "id": 7413080006,
   "districtId": 7413080,
-  "name": "WAULAI"
+  "districtName": "BARANGKA",
+  "name": "WAULAI",
+  "postalCode": "93652"
  },
  {
   "id": 7413080007,
   "districtId": 7413080,
-  "name": "LAFINDE"
+  "districtName": "BARANGKA",
+  "name": "LAFINDE",
+  "postalCode": "93652"
  },
  {
   "id": 7413080008,
   "districtId": 7413080,
-  "name": "W U N A"
+  "districtName": "BARANGKA",
+  "name": "W U N A",
+  "postalCode": ""
  }
 ]

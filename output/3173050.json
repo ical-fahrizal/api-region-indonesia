@@ -2,16 +2,22 @@
  {
   "id": 3173050001,
   "districtId": 3173050,
-  "name": "RAWA SARI"
+  "districtName": "CEMPAKA PUTIH",
+  "name": "RAWA SARI",
+  "postalCode": "21273"
  },
  {
   "id": 3173050002,
   "districtId": 3173050,
-  "name": "CEMPAKA PUTIH TIMUR"
+  "districtName": "CEMPAKA PUTIH",
+  "name": "CEMPAKA PUTIH TIMUR",
+  "postalCode": "10510"
  },
  {
   "id": 3173050003,
   "districtId": 3173050,
-  "name": "CEMPAKA PUTIH BARAT"
+  "districtName": "CEMPAKA PUTIH",
+  "name": "CEMPAKA PUTIH BARAT",
+  "postalCode": "10520"
  }
 ]

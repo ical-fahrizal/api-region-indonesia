@@ -2,41 +2,57 @@
  {
   "id": 9104070008,
   "districtId": 9104070,
-  "name": "MANUNGGAL JAYA/HTI 2"
+  "districtName": "ARANDAY",
+  "name": "MANUNGGAL JAYA/HTI 2",
+  "postalCode": ""
  },
  {
   "id": 9104070009,
   "districtId": 9104070,
-  "name": "KECAP"
+  "districtName": "ARANDAY",
+  "name": "KECAP",
+  "postalCode": "98365"
  },
  {
   "id": 9104070010,
   "districtId": 9104070,
-  "name": "ARANDAY"
+  "districtName": "ARANDAY",
+  "name": "ARANDAY",
+  "postalCode": ""
  },
  {
   "id": 9104070011,
   "districtId": 9104070,
-  "name": "KAMPUNG BARU"
+  "districtName": "ARANDAY",
+  "name": "KAMPUNG BARU",
+  "postalCode": "24652"
  },
  {
   "id": 9104070012,
   "districtId": 9104070,
-  "name": "YAKORA"
+  "districtName": "ARANDAY",
+  "name": "YAKORA",
+  "postalCode": ""
  },
  {
   "id": 9104070013,
   "districtId": 9104070,
-  "name": "IRIRA"
+  "districtName": "ARANDAY",
+  "name": "IRIRA",
+  "postalCode": ""
  },
  {
   "id": 9104070014,
   "districtId": 9104070,
-  "name": "BOTONIK"
+  "districtName": "ARANDAY",
+  "name": "BOTONIK",
+  "postalCode": ""
  },
  {
   "id": 9104070015,
   "districtId": 9104070,
-  "name": "KANDARIN"
+  "districtName": "ARANDAY",
+  "name": "KANDARIN",
+  "postalCode": ""
  }
 ]

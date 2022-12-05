@@ -2,96 +2,134 @@
  {
   "id": 1118020001,
   "districtId": 1118020,
-  "name": "SEUNONG"
+  "districtName": "MEURAH DUA",
+  "name": "SEUNONG",
+  "postalCode": "24188"
  },
  {
   "id": 1118020002,
   "districtId": 1118020,
-  "name": "LHOK SANDENG"
+  "districtName": "MEURAH DUA",
+  "name": "LHOK SANDENG",
+  "postalCode": "24186"
  },
  {
   "id": 1118020003,
   "districtId": 1118020,
-  "name": "SARAH MANE"
+  "districtName": "MEURAH DUA",
+  "name": "SARAH MANE",
+  "postalCode": ""
  },
  {
   "id": 1118020004,
   "districtId": 1118020,
-  "name": "LANCOK"
+  "districtName": "MEURAH DUA",
+  "name": "LANCOK",
+  "postalCode": "24186"
  },
  {
   "id": 1118020005,
   "districtId": 1118020,
-  "name": "MEUNASAH KULAM"
+  "districtName": "MEURAH DUA",
+  "name": "MEUNASAH KULAM",
+  "postalCode": "24371"
  },
  {
   "id": 1118020006,
   "districtId": 1118020,
-  "name": "MEUNASAH TEUNGOH"
+  "districtName": "MEURAH DUA",
+  "name": "MEUNASAH TEUNGOH",
+  "postalCode": "23672"
  },
  {
   "id": 1118020007,
   "districtId": 1118020,
-  "name": "GEUNTENG"
+  "districtName": "MEURAH DUA",
+  "name": "GEUNTENG",
+  "postalCode": "24183"
  },
  {
   "id": 1118020008,
   "districtId": 1118020,
-  "name": "MEUNASAH BIE"
+  "districtName": "MEURAH DUA",
+  "name": "MEUNASAH BIE",
+  "postalCode": "24186"
  },
  {
   "id": 1118020009,
   "districtId": 1118020,
-  "name": "MEUNASAH RAYA"
+  "districtName": "MEURAH DUA",
+  "name": "MEUNASAH RAYA",
+  "postalCode": "24186"
  },
  {
   "id": 1118020010,
   "districtId": 1118020,
-  "name": "GAMPONG BLANG"
+  "districtName": "MEURAH DUA",
+  "name": "GAMPONG BLANG",
+  "postalCode": "23373"
  },
  {
   "id": 1118020011,
   "districtId": 1118020,
-  "name": "BLANG CUT"
+  "districtName": "MEURAH DUA",
+  "name": "BLANG CUT",
+  "postalCode": "24375"
  },
  {
   "id": 1118020012,
   "districtId": 1118020,
-  "name": "MEUNASAH DAYAH USEN"
+  "districtName": "MEURAH DUA",
+  "name": "MEUNASAH DAYAH USEN",
+  "postalCode": ""
  },
  {
   "id": 1118020013,
   "districtId": 1118020,
-  "name": "MEUNASAH MANCANG"
+  "districtName": "MEURAH DUA",
+  "name": "MEUNASAH MANCANG",
+  "postalCode": "24186"
  },
  {
   "id": 1118020014,
   "districtId": 1118020,
-  "name": "DAYAH KRUET"
+  "districtName": "MEURAH DUA",
+  "name": "DAYAH KRUET",
+  "postalCode": "24186"
  },
  {
   "id": 1118020015,
   "districtId": 1118020,
-  "name": "BEURINGEN"
+  "districtName": "MEURAH DUA",
+  "name": "BEURINGEN",
+  "postalCode": "24372"
  },
  {
   "id": 1118020016,
   "districtId": 1118020,
-  "name": "PANTE BEUREUNE"
+  "districtName": "MEURAH DUA",
+  "name": "PANTE BEUREUNE",
+  "postalCode": "24186"
  },
  {
   "id": 1118020017,
   "districtId": 1118020,
-  "name": "MEUNASAH JURONG"
+  "districtName": "MEURAH DUA",
+  "name": "MEUNASAH JURONG",
+  "postalCode": "24186"
  },
  {
   "id": 1118020018,
   "districtId": 1118020,
-  "name": "BUANGAN"
+  "districtName": "MEURAH DUA",
+  "name": "BUANGAN",
+  "postalCode": "24186"
  },
  {
   "id": 1118020019,
   "districtId": 1118020,
-  "name": "LUENG BIMBA"
+  "districtName": "MEURAH DUA",
+  "name": "LUENG BIMBA",
+  "postalCode": "24186"
  }
 ]

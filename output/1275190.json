@@ -2,31 +2,43 @@
  {
   "id": 1275190001,
   "districtId": 1275190,
-  "name": "B E S A R"
+  "districtName": "MEDAN LABUHAN",
+  "name": "B E S A R",
+  "postalCode": ""
  },
  {
   "id": 1275190002,
   "districtId": 1275190,
-  "name": "TANGKAHAN"
+  "districtName": "MEDAN LABUHAN",
+  "name": "TANGKAHAN",
+  "postalCode": "20525"
  },
  {
   "id": 1275190003,
   "districtId": 1275190,
-  "name": "MARTUBUNG"
+  "districtName": "MEDAN LABUHAN",
+  "name": "MARTUBUNG",
+  "postalCode": "20252"
  },
  {
   "id": 1275190004,
   "districtId": 1275190,
-  "name": "SEI MATI"
+  "districtName": "MEDAN LABUHAN",
+  "name": "SEI MATI",
+  "postalCode": "20252"
  },
  {
   "id": 1275190005,
   "districtId": 1275190,
-  "name": "PEKAN LABUHAN"
+  "districtName": "MEDAN LABUHAN",
+  "name": "PEKAN LABUHAN",
+  "postalCode": "20253"
  },
  {
   "id": 1275190006,
   "districtId": 1275190,
-  "name": "NELAYAN INDAH"
+  "districtName": "MEDAN LABUHAN",
+  "name": "NELAYAN INDAH",
+  "postalCode": "20524"
  }
 ]

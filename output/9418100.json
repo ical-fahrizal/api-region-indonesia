@@ -2,81 +2,113 @@
  {
   "id": 9418100001,
   "districtId": 9418100,
-  "name": "WORAGA"
+  "districtName": "GUNDAGI",
+  "name": "WORAGA",
+  "postalCode": "99569"
  },
  {
   "id": 9418100002,
   "districtId": 9418100,
-  "name": "WAMOLO"
+  "districtName": "GUNDAGI",
+  "name": "WAMOLO",
+  "postalCode": "99569"
  },
  {
   "id": 9418100003,
   "districtId": 9418100,
-  "name": "KALARIN"
+  "districtName": "GUNDAGI",
+  "name": "KALARIN",
+  "postalCode": "99569"
  },
  {
   "id": 9418100005,
   "districtId": 9418100,
-  "name": "UMAR"
+  "districtName": "GUNDAGI",
+  "name": "UMAR",
+  "postalCode": "99569"
  },
  {
   "id": 9418100006,
   "districtId": 9418100,
-  "name": "WINENGGA"
+  "districtName": "GUNDAGI",
+  "name": "WINENGGA",
+  "postalCode": "99569"
  },
  {
   "id": 9418100007,
   "districtId": 9418100,
-  "name": "WOBE"
+  "districtName": "GUNDAGI",
+  "name": "WOBE",
+  "postalCode": "99569"
  },
  {
   "id": 9418100008,
   "districtId": 9418100,
-  "name": "GINGGA"
+  "districtName": "GUNDAGI",
+  "name": "GINGGA",
+  "postalCode": "99569"
  },
  {
   "id": 9418100009,
   "districtId": 9418100,
-  "name": "PUNGGELAK"
+  "districtName": "GUNDAGI",
+  "name": "PUNGGELAK",
+  "postalCode": "99569"
  },
  {
   "id": 9418100010,
   "districtId": 9418100,
-  "name": "KURIK"
+  "districtName": "GUNDAGI",
+  "name": "KURIK",
+  "postalCode": "99569"
  },
  {
   "id": 9418100011,
   "districtId": 9418100,
-  "name": "GUMBINI"
+  "districtName": "GUNDAGI",
+  "name": "GUMBINI",
+  "postalCode": "99569"
  },
  {
   "id": 9418100012,
   "districtId": 9418100,
-  "name": "MURUNERI"
+  "districtName": "GUNDAGI",
+  "name": "MURUNERI",
+  "postalCode": "99569"
  },
  {
   "id": 9418100013,
   "districtId": 9418100,
-  "name": "NANGGA"
+  "districtName": "GUNDAGI",
+  "name": "NANGGA",
+  "postalCode": "87172"
  },
  {
   "id": 9418100014,
   "districtId": 9418100,
-  "name": "ENGGAWOGO"
+  "districtName": "GUNDAGI",
+  "name": "ENGGAWOGO",
+  "postalCode": "99569"
  },
  {
   "id": 9418100015,
   "districtId": 9418100,
-  "name": "AWORERA"
+  "districtName": "GUNDAGI",
+  "name": "AWORERA",
+  "postalCode": "99569"
  },
  {
   "id": 9418100016,
   "districtId": 9418100,
-  "name": "WAMILI"
+  "districtName": "GUNDAGI",
+  "name": "WAMILI",
+  "postalCode": "99569"
  },
  {
   "id": 9418100017,
   "districtId": 9418100,
-  "name": "OKER"
+  "districtName": "GUNDAGI",
+  "name": "OKER",
+  "postalCode": "99569"
  }
 ]

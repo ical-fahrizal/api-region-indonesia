@@ -2,41 +2,57 @@
  {
   "id": 7301010001,
   "districtId": 7301010,
-  "name": "KOMBA-KOMBA"
+  "districtName": "PASIMARANNU",
+  "name": "KOMBA-KOMBA",
+  "postalCode": "94882"
  },
  {
   "id": 7301010002,
   "districtId": 7301010,
-  "name": "LAMBEGO"
+  "districtName": "PASIMARANNU",
+  "name": "LAMBEGO",
+  "postalCode": "92862"
  },
  {
   "id": 7301010003,
   "districtId": 7301010,
-  "name": "BONERATE"
+  "districtName": "PASIMARANNU",
+  "name": "BONERATE",
+  "postalCode": "92862"
  },
  {
   "id": 7301010004,
   "districtId": 7301010,
-  "name": "MAJAPAHIT"
+  "districtName": "PASIMARANNU",
+  "name": "MAJAPAHIT",
+  "postalCode": "31628"
  },
  {
   "id": 7301010005,
   "districtId": 7301010,
-  "name": "BATU BINGKUNG"
+  "districtName": "PASIMARANNU",
+  "name": "BATU BINGKUNG",
+  "postalCode": "92862"
  },
  {
   "id": 7301010006,
   "districtId": 7301010,
-  "name": "BONEA"
+  "districtName": "PASIMARANNU",
+  "name": "BONEA",
+  "postalCode": "92862"
  },
  {
   "id": 7301010007,
   "districtId": 7301010,
-  "name": "SAMBALI"
+  "districtName": "PASIMARANNU",
+  "name": "SAMBALI",
+  "postalCode": "92862"
  },
  {
   "id": 7301010008,
   "districtId": 7301010,
-  "name": "LAMANTU"
+  "districtName": "PASIMARANNU",
+  "name": "LAMANTU",
+  "postalCode": "92862"
  }
 ]

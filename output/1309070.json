@@ -2,21 +2,29 @@
  {
   "id": 1309070001,
   "districtId": 1309070,
-  "name": "KOTO KACIAK"
+  "districtName": "BONJOL",
+  "name": "KOTO KACIAK",
+  "postalCode": "26381"
  },
  {
   "id": 1309070002,
   "districtId": 1309070,
-  "name": "LIMO KOTO"
+  "districtName": "BONJOL",
+  "name": "LIMO KOTO",
+  "postalCode": "26381"
  },
  {
   "id": 1309070003,
   "districtId": 1309070,
-  "name": "GANGGO HILIA"
+  "districtName": "BONJOL",
+  "name": "GANGGO HILIA",
+  "postalCode": "26381"
  },
  {
   "id": 1309070004,
   "districtId": 1309070,
-  "name": "GANGGO MUDIAK"
+  "districtName": "BONJOL",
+  "name": "GANGGO MUDIAK",
+  "postalCode": "26381"
  }
 ]

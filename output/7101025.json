@@ -2,51 +2,71 @@
  {
   "id": 7101025001,
   "districtId": 7101025,
-  "name": "TAPADAKA I"
+  "districtName": "DUMOGA TENGGARA",
+  "name": "TAPADAKA I",
+  "postalCode": ""
  },
  {
   "id": 7101025002,
   "districtId": 7101025,
-  "name": "TAPADAKA UTARA"
+  "districtName": "DUMOGA TENGGARA",
+  "name": "TAPADAKA UTARA",
+  "postalCode": "95772"
  },
  {
   "id": 7101025004,
   "districtId": 7101025,
-  "name": "KONAROM"
+  "districtName": "DUMOGA TENGGARA",
+  "name": "KONAROM",
+  "postalCode": "95772"
  },
  {
   "id": 7101025007,
   "districtId": 7101025,
-  "name": "OSION"
+  "districtName": "DUMOGA TENGGARA",
+  "name": "OSION",
+  "postalCode": "95772"
  },
  {
   "id": 7101025008,
   "districtId": 7101025,
-  "name": "DUMARA"
+  "districtName": "DUMOGA TENGGARA",
+  "name": "DUMARA",
+  "postalCode": "95772"
  },
  {
   "id": 7101025009,
   "districtId": 7101025,
-  "name": "IKUNA"
+  "districtName": "DUMOGA TENGGARA",
+  "name": "IKUNA",
+  "postalCode": "95772"
  },
  {
   "id": 7101025010,
   "districtId": 7101025,
-  "name": "BONAWANG"
+  "districtName": "DUMOGA TENGGARA",
+  "name": "BONAWANG",
+  "postalCode": "95772"
  },
  {
   "id": 7101025011,
   "districtId": 7101025,
-  "name": "TAPADAKA TIMUR"
+  "districtName": "DUMOGA TENGGARA",
+  "name": "TAPADAKA TIMUR",
+  "postalCode": "95772"
  },
  {
   "id": 7101025012,
   "districtId": 7101025,
-  "name": "KONAROM UTARA"
+  "districtName": "DUMOGA TENGGARA",
+  "name": "KONAROM UTARA",
+  "postalCode": "95772"
  },
  {
   "id": 7101025013,
   "districtId": 7101025,
-  "name": "KONAROM BARAT"
+  "districtName": "DUMOGA TENGGARA",
+  "name": "KONAROM BARAT",
+  "postalCode": "95772"
  }
 ]

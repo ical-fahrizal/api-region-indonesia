@@ -2,46 +2,64 @@
  {
   "id": 1403070009,
   "districtId": 1403070,
-  "name": "TEMPULING"
+  "districtName": "TEMPULING",
+  "name": "TEMPULING",
+  "postalCode": "29261"
  },
  {
   "id": 1403070010,
   "districtId": 1403070,
-  "name": "SUNGAI SALAK"
+  "districtName": "TEMPULING",
+  "name": "SUNGAI SALAK",
+  "postalCode": "29261"
  },
  {
   "id": 1403070011,
   "districtId": 1403070,
-  "name": "TELUK JIRA"
+  "districtName": "TEMPULING",
+  "name": "TELUK JIRA",
+  "postalCode": "29261"
  },
  {
   "id": 1403070012,
   "districtId": 1403070,
-  "name": "MUMPA"
+  "districtName": "TEMPULING",
+  "name": "MUMPA",
+  "postalCode": "29261"
  },
  {
   "id": 1403070013,
   "districtId": 1403070,
-  "name": "TELUK KIAMBANG"
+  "districtName": "TEMPULING",
+  "name": "TELUK KIAMBANG",
+  "postalCode": "29261"
  },
  {
   "id": 1403070014,
   "districtId": 1403070,
-  "name": "KARYA TUNAS JAYA"
+  "districtName": "TEMPULING",
+  "name": "KARYA TUNAS JAYA",
+  "postalCode": "29261"
  },
  {
   "id": 1403070015,
   "districtId": 1403070,
-  "name": "HARAPAN JAYA"
+  "districtName": "TEMPULING",
+  "name": "HARAPAN JAYA",
+  "postalCode": "20773"
  },
  {
   "id": 1403070016,
   "districtId": 1403070,
-  "name": "TANJUNG PIDADA"
+  "districtName": "TEMPULING",
+  "name": "TANJUNG PIDADA",
+  "postalCode": "29261"
  },
  {
   "id": 1403070017,
   "districtId": 1403070,
-  "name": "PANGKALAN TUJUH"
+  "districtName": "TEMPULING",
+  "name": "PANGKALAN TUJUH",
+  "postalCode": "29261"
  }
 ]

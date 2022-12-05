@@ -2,51 +2,71 @@
  {
   "id": 3304110001,
   "districtId": 3304110,
-  "name": "SITUWANGI"
+  "districtName": "RAKIT",
+  "name": "SITUWANGI",
+  "postalCode": "40562"
  },
  {
   "id": 3304110002,
   "districtId": 3304110,
-  "name": "GELANG"
+  "districtName": "RAKIT",
+  "name": "GELANG",
+  "postalCode": "59454"
  },
  {
   "id": 3304110003,
   "districtId": 3304110,
-  "name": "RAKIT"
+  "districtName": "RAKIT",
+  "name": "RAKIT",
+  "postalCode": "53463"
  },
  {
   "id": 3304110004,
   "districtId": 3304110,
-  "name": "ADIPASIR"
+  "districtName": "RAKIT",
+  "name": "ADIPASIR",
+  "postalCode": "53463"
  },
  {
   "id": 3304110005,
   "districtId": 3304110,
-  "name": "KINCANG"
+  "districtName": "RAKIT",
+  "name": "KINCANG",
+  "postalCode": "53463"
  },
  {
   "id": 3304110006,
   "districtId": 3304110,
-  "name": "TANJUNGANOM"
+  "districtName": "RAKIT",
+  "name": "TANJUNGANOM",
+  "postalCode": "44161"
  },
  {
   "id": 3304110008,
   "districtId": 3304110,
-  "name": "LENGKONG"
+  "districtName": "RAKIT",
+  "name": "LENGKONG",
+  "postalCode": "24415"
  },
  {
   "id": 3304110009,
   "districtId": 3304110,
-  "name": "BADAMITA"
+  "districtName": "RAKIT",
+  "name": "BADAMITA",
+  "postalCode": "53463"
  },
  {
   "id": 3304110010,
   "districtId": 3304110,
-  "name": "BANDINGAN"
+  "districtName": "RAKIT",
+  "name": "BANDINGAN",
+  "postalCode": "53471"
  },
  {
   "id": 3304110011,
   "districtId": 3304110,
-  "name": "PINGIT"
+  "districtName": "RAKIT",
+  "name": "PINGIT",
+  "postalCode": "56272"
  }
 ]

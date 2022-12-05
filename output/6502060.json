@@ -2,41 +2,57 @@
  {
   "id": 6502060001,
   "districtId": 6502060,
-  "name": "MANGKU PADI"
+  "districtName": "TANJUNG PALAS TIMUR",
+  "name": "MANGKU PADI",
+  "postalCode": ""
  },
  {
   "id": 6502060002,
   "districtId": 6502060,
-  "name": "TANAH KUNING"
+  "districtName": "TANJUNG PALAS TIMUR",
+  "name": "TANAH KUNING",
+  "postalCode": "77215"
  },
  {
   "id": 6502060003,
   "districtId": 6502060,
-  "name": "BINAI"
+  "districtName": "TANJUNG PALAS TIMUR",
+  "name": "BINAI",
+  "postalCode": "77215"
  },
  {
   "id": 6502060004,
   "districtId": 6502060,
-  "name": "SAJAU"
+  "districtName": "TANJUNG PALAS TIMUR",
+  "name": "SAJAU",
+  "postalCode": "77215"
  },
  {
   "id": 6502060005,
   "districtId": 6502060,
-  "name": "PURA SAJAU"
+  "districtName": "TANJUNG PALAS TIMUR",
+  "name": "PURA SAJAU",
+  "postalCode": "77215"
  },
  {
   "id": 6502060006,
   "districtId": 6502060,
-  "name": "SAJAU HILIR"
+  "districtName": "TANJUNG PALAS TIMUR",
+  "name": "SAJAU HILIR",
+  "postalCode": ""
  },
  {
   "id": 6502060007,
   "districtId": 6502060,
-  "name": "WONO MULYO"
+  "districtName": "TANJUNG PALAS TIMUR",
+  "name": "WONO MULYO",
+  "postalCode": "77215"
  },
  {
   "id": 6502060008,
   "districtId": 6502060,
-  "name": "TANJUNG AGUNG"
+  "districtName": "TANJUNG PALAS TIMUR",
+  "name": "TANJUNG AGUNG",
+  "postalCode": "37216"
  }
 ]

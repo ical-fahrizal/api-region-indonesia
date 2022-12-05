@@ -2,26 +2,36 @@
  {
   "id": 6103020001,
   "districtId": 6103020,
-  "name": "RANTAU PANJANG"
+  "districtName": "SEBANGKI",
+  "name": "RANTAU PANJANG",
+  "postalCode": "24476"
  },
  {
   "id": 6103020002,
   "districtId": 6103020,
-  "name": "SEI SEGAK"
+  "districtName": "SEBANGKI",
+  "name": "SEI SEGAK",
+  "postalCode": ""
  },
  {
   "id": 6103020003,
   "districtId": 6103020,
-  "name": "SEBANGKI"
+  "districtName": "SEBANGKI",
+  "name": "SEBANGKI",
+  "postalCode": "79358"
  },
  {
   "id": 6103020004,
   "districtId": 6103020,
-  "name": "KUMPANG TENGAH"
+  "districtName": "SEBANGKI",
+  "name": "KUMPANG TENGAH",
+  "postalCode": "79358"
  },
  {
   "id": 6103020007,
   "districtId": 6103020,
-  "name": "AGAK"
+  "districtName": "SEBANGKI",
+  "name": "AGAK",
+  "postalCode": "79358"
  }
 ]

@@ -2,71 +2,99 @@
  {
   "id": 1709040008,
   "districtId": 1709040,
-  "name": "TABA RENAH"
+  "districtName": "PAGAR JATI",
+  "name": "TABA RENAH",
+  "postalCode": "31625"
  },
  {
   "id": 1709040009,
   "districtId": 1709040,
-  "name": "TEMIANG"
+  "districtName": "PAGAR JATI",
+  "name": "TEMIANG",
+  "postalCode": "28761"
  },
  {
   "id": 1709040011,
   "districtId": 1709040,
-  "name": "KERTAPATI"
+  "districtName": "PAGAR JATI",
+  "name": "KERTAPATI",
+  "postalCode": "30258"
  },
  {
   "id": 1709040012,
   "districtId": 1709040,
-  "name": "PAGAR JATI"
+  "districtName": "PAGAR JATI",
+  "name": "PAGAR JATI",
+  "postalCode": "20518"
  },
  {
   "id": 1709040014,
   "districtId": 1709040,
-  "name": "ARGA INDAH I"
+  "districtName": "PAGAR JATI",
+  "name": "ARGA INDAH I",
+  "postalCode": "38383"
  },
  {
   "id": 1709040015,
   "districtId": 1709040,
-  "name": "DATAR PENOKOT"
+  "districtName": "PAGAR JATI",
+  "name": "DATAR PENOKOT",
+  "postalCode": ""
  },
  {
   "id": 1709040016,
   "districtId": 1709040,
-  "name": "LAYANG LEKAT"
+  "districtName": "PAGAR JATI",
+  "name": "LAYANG LEKAT",
+  "postalCode": "38383"
  },
  {
   "id": 1709040017,
   "districtId": 1709040,
-  "name": "TALANG CURUP"
+  "districtName": "PAGAR JATI",
+  "name": "TALANG CURUP",
+  "postalCode": "38374"
  },
  {
   "id": 1709040018,
   "districtId": 1709040,
-  "name": "TUMBUK"
+  "districtName": "PAGAR JATI",
+  "name": "TUMBUK",
+  "postalCode": "38383"
  },
  {
   "id": 1709040019,
   "districtId": 1709040,
-  "name": "RENA KANDIS"
+  "districtName": "PAGAR JATI",
+  "name": "RENA KANDIS",
+  "postalCode": "38383"
  },
  {
   "id": 1709040020,
   "districtId": 1709040,
-  "name": "KARANG ARE"
+  "districtName": "PAGAR JATI",
+  "name": "KARANG ARE",
+  "postalCode": "31596"
  },
  {
   "id": 1709040021,
   "districtId": 1709040,
-  "name": "KERTAPATI MUDIK"
+  "districtName": "PAGAR JATI",
+  "name": "KERTAPATI MUDIK",
+  "postalCode": ""
  },
  {
   "id": 1709040022,
   "districtId": 1709040,
-  "name": "KEROYA"
+  "districtName": "PAGAR JATI",
+  "name": "KEROYA",
+  "postalCode": "37352"
  },
  {
   "id": 1709040023,
   "districtId": 1709040,
-  "name": "RENA JAYA"
+  "districtName": "PAGAR JATI",
+  "name": "RENA JAYA",
+  "postalCode": "38655"
  }
 ]

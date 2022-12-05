@@ -2,26 +2,36 @@
  {
   "id": 1871021001,
   "districtId": 1871021,
-  "name": "KANGKUNG"
+  "districtName": "BUMI WARAS",
+  "name": "KANGKUNG",
+  "postalCode": "32184"
  },
  {
   "id": 1871021002,
   "districtId": 1871021,
-  "name": "BUMI WARAS"
+  "districtName": "BUMI WARAS",
+  "name": "BUMI WARAS",
+  "postalCode": "35225"
  },
  {
   "id": 1871021003,
   "districtId": 1871021,
-  "name": "BUMI RAYA"
+  "districtName": "BUMI WARAS",
+  "name": "BUMI RAYA",
+  "postalCode": "35228"
  },
  {
   "id": 1871021004,
   "districtId": 1871021,
-  "name": "SUKARAJA"
+  "districtName": "BUMI WARAS",
+  "name": "SUKARAJA",
+  "postalCode": "21256"
  },
  {
   "id": 1871021005,
   "districtId": 1871021,
-  "name": "GARUNTANG"
+  "districtName": "BUMI WARAS",
+  "name": "GARUNTANG",
+  "postalCode": "35227"
  }
 ]

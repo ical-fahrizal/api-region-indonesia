@@ -2,86 +2,120 @@
  {
   "id": 1602031001,
   "districtId": 1602031,
-  "name": "SUNGAI SOMOR"
+  "districtName": "CENGAL",
+  "name": "SUNGAI SOMOR",
+  "postalCode": "30658"
  },
  {
   "id": 1602031002,
   "districtId": 1602031,
-  "name": "SUNGAI PASIR"
+  "districtName": "CENGAL",
+  "name": "SUNGAI PASIR",
+  "postalCode": "30658"
  },
  {
   "id": 1602031003,
   "districtId": 1602031,
-  "name": "SUNGAI JERUJU"
+  "districtName": "CENGAL",
+  "name": "SUNGAI JERUJU",
+  "postalCode": "30658"
  },
  {
   "id": 1602031004,
   "districtId": 1602031,
-  "name": "SUNGAI LUMPUR"
+  "districtName": "CENGAL",
+  "name": "SUNGAI LUMPUR",
+  "postalCode": "30658"
  },
  {
   "id": 1602031005,
   "districtId": 1602031,
-  "name": "ULAK KEDONDONG"
+  "districtName": "CENGAL",
+  "name": "ULAK KEDONDONG",
+  "postalCode": "30658"
  },
  {
   "id": 1602031006,
   "districtId": 1602031,
-  "name": "SUNGAI KETUPAK"
+  "districtName": "CENGAL",
+  "name": "SUNGAI KETUPAK",
+  "postalCode": "30658"
  },
  {
   "id": 1602031007,
   "districtId": 1602031,
-  "name": "PELIMBANGAN"
+  "districtName": "CENGAL",
+  "name": "PELIMBANGAN",
+  "postalCode": "30658"
  },
  {
   "id": 1602031008,
   "districtId": 1602031,
-  "name": "CENGAL"
+  "districtName": "CENGAL",
+  "name": "CENGAL",
+  "postalCode": "30658"
  },
  {
   "id": 1602031009,
   "districtId": 1602031,
-  "name": "TALANG RIMBA"
+  "districtName": "CENGAL",
+  "name": "TALANG RIMBA",
+  "postalCode": "30658"
  },
  {
   "id": 1602031010,
   "districtId": 1602031,
-  "name": "KUALA SUNGAI PASIR"
+  "districtName": "CENGAL",
+  "name": "KUALA SUNGAI PASIR",
+  "postalCode": "30658"
  },
  {
   "id": 1602031011,
   "districtId": 1602031,
-  "name": "KUALA SUNGAI JERUJU"
+  "districtName": "CENGAL",
+  "name": "KUALA SUNGAI JERUJU",
+  "postalCode": "30658"
  },
  {
   "id": 1602031012,
   "districtId": 1602031,
-  "name": "PARIT RAYA"
+  "districtName": "CENGAL",
+  "name": "PARIT RAYA",
+  "postalCode": ""
  },
  {
   "id": 1602031013,
   "districtId": 1602031,
-  "name": "LEBAK BERIANG"
+  "districtName": "CENGAL",
+  "name": "LEBAK BERIANG",
+  "postalCode": ""
  },
  {
   "id": 1602031014,
   "districtId": 1602031,
-  "name": "BALAM JERUJU"
+  "districtName": "CENGAL",
+  "name": "BALAM JERUJU",
+  "postalCode": ""
  },
  {
   "id": 1602031015,
   "districtId": 1602031,
-  "name": "PANTAI HARAPAN"
+  "districtName": "CENGAL",
+  "name": "PANTAI HARAPAN",
+  "postalCode": "29872"
  },
  {
   "id": 1602031016,
   "districtId": 1602031,
-  "name": "ADIL MAKMUR"
+  "districtName": "CENGAL",
+  "name": "ADIL MAKMUR",
+  "postalCode": "21183"
  },
  {
   "id": 1602031017,
   "districtId": 1602031,
-  "name": "KEBON CABE"
+  "districtName": "CENGAL",
+  "name": "KEBON CABE",
+  "postalCode": ""
  }
 ]

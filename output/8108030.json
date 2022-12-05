@@ -2,26 +2,36 @@
  {
   "id": 8108030001,
   "districtId": 8108030,
-  "name": "NUWEWANG"
+  "districtName": "LETTI",
+  "name": "NUWEWANG",
+  "postalCode": "97454"
  },
  {
   "id": 8108030002,
   "districtId": 8108030,
-  "name": "TOMRA"
+  "districtName": "LETTI",
+  "name": "TOMRA",
+  "postalCode": "97454"
  },
  {
   "id": 8108030003,
   "districtId": 8108030,
-  "name": "TUTUWARU"
+  "districtName": "LETTI",
+  "name": "TUTUWARU",
+  "postalCode": "97454"
  },
  {
   "id": 8108030006,
   "districtId": 8108030,
-  "name": "BATUMIAU"
+  "districtName": "LETTI",
+  "name": "BATUMIAU",
+  "postalCode": "97454"
  },
  {
   "id": 8108030007,
   "districtId": 8108030,
-  "name": "LAITUTUN"
+  "districtName": "LETTI",
+  "name": "LAITUTUN",
+  "postalCode": "97454"
  }
 ]

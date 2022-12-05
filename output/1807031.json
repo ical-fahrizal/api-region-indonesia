@@ -2,51 +2,71 @@
  {
   "id": 1807031001,
   "districtId": 1807031,
-  "name": "GUNUNG SARI"
+  "districtName": "REBANG TANGKAS",
+  "name": "GUNUNG SARI",
+  "postalCode": "28471"
  },
  {
   "id": 1807031002,
   "districtId": 1807031,
-  "name": "LEBAK PENIANGAN"
+  "districtName": "REBANG TANGKAS",
+  "name": "LEBAK PENIANGAN",
+  "postalCode": "34767"
  },
  {
   "id": 1807031003,
   "districtId": 1807031,
-  "name": "MADANG JAYA"
+  "districtName": "REBANG TANGKAS",
+  "name": "MADANG JAYA",
+  "postalCode": "34767"
  },
  {
   "id": 1807031004,
   "districtId": 1807031,
-  "name": "TANJUNG TIGA"
+  "districtName": "REBANG TANGKAS",
+  "name": "TANJUNG TIGA",
+  "postalCode": "30968"
  },
  {
   "id": 1807031005,
   "districtId": 1807031,
-  "name": "AIR RINGKIH"
+  "districtName": "REBANG TANGKAS",
+  "name": "AIR RINGKIH",
+  "postalCode": "34767"
  },
  {
   "id": 1807031006,
   "districtId": 1807031,
-  "name": "SIMPANG TIGA"
+  "districtName": "REBANG TANGKAS",
+  "name": "SIMPANG TIGA",
+  "postalCode": "23772"
  },
  {
   "id": 1807031007,
   "districtId": 1807031,
-  "name": "TANJUNG RAYA"
+  "districtName": "REBANG TANGKAS",
+  "name": "TANJUNG RAYA",
+  "postalCode": "23891"
  },
  {
   "id": 1807031008,
   "districtId": 1807031,
-  "name": "BERINGIN JAYA"
+  "districtName": "REBANG TANGKAS",
+  "name": "BERINGIN JAYA",
+  "postalCode": "21464"
  },
  {
   "id": 1807031009,
   "districtId": 1807031,
-  "name": "KARYA MAJU"
+  "districtName": "REBANG TANGKAS",
+  "name": "KARYA MAJU",
+  "postalCode": "20853"
  },
  {
   "id": 1807031010,
   "districtId": 1807031,
-  "name": "MULYA JAYA"
+  "districtName": "REBANG TANGKAS",
+  "name": "MULYA JAYA",
+  "postalCode": "36365"
  }
 ]

@@ -2,41 +2,57 @@
  {
   "id": 1224010001,
   "districtId": 1224010,
-  "name": "HUMENE SIHENEASI"
+  "districtName": "TUGALA OYO",
+  "name": "HUMENE SIHENEASI",
+  "postalCode": "22861"
  },
  {
   "id": 1224010002,
   "districtId": 1224010,
-  "name": "FABALIWA OYO"
+  "districtName": "TUGALA OYO",
+  "name": "FABALIWA OYO",
+  "postalCode": "22861"
  },
  {
   "id": 1224010003,
   "districtId": 1224010,
-  "name": "SIWAWO"
+  "districtName": "TUGALA OYO",
+  "name": "SIWAWO",
+  "postalCode": "22861"
  },
  {
   "id": 1224010004,
   "districtId": 1224010,
-  "name": "GUNUNG TUA"
+  "districtName": "TUGALA OYO",
+  "name": "GUNUNG TUA",
+  "postalCode": "22765"
  },
  {
   "id": 1224010005,
   "districtId": 1224010,
-  "name": "ONONAZARA"
+  "districtName": "TUGALA OYO",
+  "name": "ONONAZARA",
+  "postalCode": "22861"
  },
  {
   "id": 1224010006,
   "districtId": 1224010,
-  "name": "TEOLO"
+  "districtName": "TUGALA OYO",
+  "name": "TEOLO",
+  "postalCode": ""
  },
  {
   "id": 1224010007,
   "districtId": 1224010,
-  "name": "BOTONA AI"
+  "districtName": "TUGALA OYO",
+  "name": "BOTONA AI",
+  "postalCode": ""
  },
  {
   "id": 1224010008,
   "districtId": 1224010,
-  "name": "HAREFA"
+  "districtName": "TUGALA OYO",
+  "name": "HAREFA",
+  "postalCode": "22861"
  }
 ]

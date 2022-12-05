@@ -2,31 +2,43 @@
  {
   "id": 9404050014,
   "districtId": 9404050,
-  "name": "MARGA JAYA"
+  "districtName": "UWAPA",
+  "name": "MARGA JAYA",
+  "postalCode": "38657"
  },
  {
   "id": 9404050015,
   "districtId": 9404050,
-  "name": "ARGO MULYO"
+  "districtName": "UWAPA",
+  "name": "ARGO MULYO",
+  "postalCode": "32385"
  },
  {
   "id": 9404050016,
   "districtId": 9404050,
-  "name": "TOPO JAYA"
+  "districtName": "UWAPA",
+  "name": "TOPO JAYA",
+  "postalCode": "98853"
  },
  {
   "id": 9404050017,
   "districtId": 9404050,
-  "name": "GAMEI JAYA"
+  "districtName": "UWAPA",
+  "name": "GAMEI JAYA",
+  "postalCode": "98853"
  },
  {
   "id": 9404050019,
   "districtId": 9404050,
-  "name": "TOPO"
+  "districtName": "UWAPA",
+  "name": "TOPO",
+  "postalCode": "97813"
  },
  {
   "id": 9404050020,
   "districtId": 9404050,
-  "name": "GAMEI BIRU"
+  "districtName": "UWAPA",
+  "name": "GAMEI BIRU",
+  "postalCode": ""
  }
 ]

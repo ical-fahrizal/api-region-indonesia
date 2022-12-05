@@ -2,76 +2,106 @@
  {
   "id": 1209040007,
   "districtId": 1209040,
-  "name": "SIDAMANIK"
+  "districtName": "SIDAMANIK",
+  "name": "SIDAMANIK",
+  "postalCode": "21171"
  },
  {
   "id": 1209040008,
   "districtId": 1209040,
-  "name": "AMBARISAN"
+  "districtName": "SIDAMANIK",
+  "name": "AMBARISAN",
+  "postalCode": "21171"
  },
  {
   "id": 1209040009,
   "districtId": 1209040,
-  "name": "SARIMATONDANG"
+  "districtName": "SIDAMANIK",
+  "name": "SARIMATONDANG",
+  "postalCode": "21171"
  },
  {
   "id": 1209040010,
   "districtId": 1209040,
-  "name": "BAH BUTONG SATU"
+  "districtName": "SIDAMANIK",
+  "name": "BAH BUTONG SATU",
+  "postalCode": ""
  },
  {
   "id": 1209040011,
   "districtId": 1209040,
-  "name": "BAH BUTONG DUA"
+  "districtName": "SIDAMANIK",
+  "name": "BAH BUTONG DUA",
+  "postalCode": ""
  },
  {
   "id": 1209040012,
   "districtId": 1209040,
-  "name": "BAHAL GAJAH"
+  "districtName": "SIDAMANIK",
+  "name": "BAHAL GAJAH",
+  "postalCode": "21171"
  },
  {
   "id": 1209040013,
   "districtId": 1209040,
-  "name": "TIGA BOLON"
+  "districtName": "SIDAMANIK",
+  "name": "TIGA BOLON",
+  "postalCode": "21171"
  },
  {
   "id": 1209040014,
   "districtId": 1209040,
-  "name": "MANIK HATARAN"
+  "districtName": "SIDAMANIK",
+  "name": "MANIK HATARAN",
+  "postalCode": "21171"
  },
  {
   "id": 1209040015,
   "districtId": 1209040,
-  "name": "MEKAR SIDAMANIK"
+  "districtName": "SIDAMANIK",
+  "name": "MEKAR SIDAMANIK",
+  "postalCode": "21171"
  },
  {
   "id": 1209040016,
   "districtId": 1209040,
-  "name": "MANIK MARAJA"
+  "districtName": "SIDAMANIK",
+  "name": "MANIK MARAJA",
+  "postalCode": "21171"
  },
  {
   "id": 1209040017,
   "districtId": 1209040,
-  "name": "BAH BIAK"
+  "districtName": "SIDAMANIK",
+  "name": "BAH BIAK",
+  "postalCode": "21171"
  },
  {
   "id": 1209040018,
   "districtId": 1209040,
-  "name": "KEBUN SAYUR BAH BUTONG"
+  "districtName": "SIDAMANIK",
+  "name": "KEBUN SAYUR BAH BUTONG",
+  "postalCode": "21171"
  },
  {
   "id": 1209040019,
   "districtId": 1209040,
-  "name": "BIRONG ULU MANRIAH"
+  "districtName": "SIDAMANIK",
+  "name": "BIRONG ULU MANRIAH",
+  "postalCode": "21171"
  },
  {
   "id": 1209040020,
   "districtId": 1209040,
-  "name": "MANIK RAMBUNG"
+  "districtName": "SIDAMANIK",
+  "name": "MANIK RAMBUNG",
+  "postalCode": ""
  },
  {
   "id": 1209040021,
   "districtId": 1209040,
-  "name": "BUKIT REJO"
+  "districtName": "SIDAMANIK",
+  "name": "BUKIT REJO",
+  "postalCode": ""
  }
 ]

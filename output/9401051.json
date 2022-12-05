@@ -2,46 +2,64 @@
  {
   "id": 9401051003,
   "districtId": 9401051,
-  "name": "TANAAS"
+  "districtName": "ELIGOBEL",
+  "name": "TANAAS",
+  "postalCode": ""
  },
  {
   "id": 9401051004,
   "districtId": 9401051,
-  "name": "SIPIAS"
+  "districtName": "ELIGOBEL",
+  "name": "SIPIAS",
+  "postalCode": "99652"
  },
  {
   "id": 9401051005,
   "districtId": 9401051,
-  "name": "ENGGAL JAYA"
+  "districtName": "ELIGOBEL",
+  "name": "ENGGAL JAYA",
+  "postalCode": "99652"
  },
  {
   "id": 9401051006,
   "districtId": 9401051,
-  "name": "GERISER"
+  "districtName": "ELIGOBEL",
+  "name": "GERISER",
+  "postalCode": ""
  },
  {
   "id": 9401051007,
   "districtId": 9401051,
-  "name": "METAAT MAKMUR"
+  "districtName": "ELIGOBEL",
+  "name": "METAAT MAKMUR",
+  "postalCode": ""
  },
  {
   "id": 9401051008,
   "districtId": 9401051,
-  "name": "BUPUL INDAH"
+  "districtName": "ELIGOBEL",
+  "name": "BUPUL INDAH",
+  "postalCode": "99652"
  },
  {
   "id": 9401051009,
   "districtId": 9401051,
-  "name": "BOUWER"
+  "districtName": "ELIGOBEL",
+  "name": "BOUWER",
+  "postalCode": "99652"
  },
  {
   "id": 9401051010,
   "districtId": 9401051,
-  "name": "BUNGGAY"
+  "districtName": "ELIGOBEL",
+  "name": "BUNGGAY",
+  "postalCode": "99652"
  },
  {
   "id": 9401051011,
   "districtId": 9401051,
-  "name": "TOF-TOF"
+  "districtName": "ELIGOBEL",
+  "name": "TOF-TOF",
+  "postalCode": ""
  }
 ]

@@ -2,86 +2,120 @@
  {
   "id": 8102010025,
   "districtId": 8102010,
-  "name": "NGABUB"
+  "districtName": "KEI KECIL",
+  "name": "NGABUB",
+  "postalCode": "97611"
  },
  {
   "id": 8102010026,
   "districtId": 8102010,
-  "name": "IBRA"
+  "districtName": "KEI KECIL",
+  "name": "IBRA",
+  "postalCode": "97611"
  },
  {
   "id": 8102010030,
   "districtId": 8102010,
-  "name": "SATHEAN"
+  "districtName": "KEI KECIL",
+  "name": "SATHEAN",
+  "postalCode": "97611"
  },
  {
   "id": 8102010035,
   "districtId": 8102010,
-  "name": "FAAN"
+  "districtName": "KEI KECIL",
+  "name": "FAAN",
+  "postalCode": "97611"
  },
  {
   "id": 8102010036,
   "districtId": 8102010,
-  "name": "OHOINGUR"
+  "districtName": "KEI KECIL",
+  "name": "OHOINGUR",
+  "postalCode": ""
  },
  {
   "id": 8102010037,
   "districtId": 8102010,
-  "name": "KEL. OHOIJANG WATDEK"
+  "districtName": "KEI KECIL",
+  "name": "KEL. OHOIJANG WATDEK",
+  "postalCode": ""
  },
  {
   "id": 8102010038,
   "districtId": 8102010,
-  "name": "KOLSER"
+  "districtName": "KEI KECIL",
+  "name": "KOLSER",
+  "postalCode": "97611"
  },
  {
   "id": 8102010039,
   "districtId": 8102010,
-  "name": "KELANIT"
+  "districtName": "KEI KECIL",
+  "name": "KELANIT",
+  "postalCode": "97611"
  },
  {
   "id": 8102010042,
   "districtId": 8102010,
-  "name": "OHOIDERTAWUN"
+  "districtName": "KEI KECIL",
+  "name": "OHOIDERTAWUN",
+  "postalCode": ""
  },
  {
   "id": 8102010043,
   "districtId": 8102010,
-  "name": "LETMAN"
+  "districtName": "KEI KECIL",
+  "name": "LETMAN",
+  "postalCode": "97611"
  },
  {
   "id": 8102010044,
   "districtId": 8102010,
-  "name": "WEARLILIR"
+  "districtName": "KEI KECIL",
+  "name": "WEARLILIR",
+  "postalCode": "97611"
  },
  {
   "id": 8102010045,
   "districtId": 8102010,
-  "name": "LOON"
+  "districtName": "KEI KECIL",
+  "name": "LOON",
+  "postalCode": "97611"
  },
  {
   "id": 8102010046,
   "districtId": 8102010,
-  "name": "DUDUNWAHAN"
+  "districtName": "KEI KECIL",
+  "name": "DUDUNWAHAN",
+  "postalCode": "97611"
  },
  {
   "id": 8102010047,
   "districtId": 8102010,
-  "name": "OHOIDER ATAS"
+  "districtName": "KEI KECIL",
+  "name": "OHOIDER ATAS",
+  "postalCode": "97611"
  },
  {
   "id": 8102010048,
   "districtId": 8102010,
-  "name": "SITNIOHOI"
+  "districtName": "KEI KECIL",
+  "name": "SITNIOHOI",
+  "postalCode": "97611"
  },
  {
   "id": 8102010049,
   "districtId": 8102010,
-  "name": "WATDEK"
+  "districtName": "KEI KECIL",
+  "name": "WATDEK",
+  "postalCode": ""
  },
  {
   "id": 8102010050,
   "districtId": 8102010,
-  "name": "OHOIJANG"
+  "districtName": "KEI KECIL",
+  "name": "OHOIJANG",
+  "postalCode": ""
  }
 ]

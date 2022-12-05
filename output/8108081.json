@@ -2,56 +2,78 @@
  {
   "id": 8108081001,
   "districtId": 8108081,
-  "name": "BABYOTANG"
+  "districtName": "PULAU MASELA",
+  "name": "BABYOTANG",
+  "postalCode": ""
  },
  {
   "id": 8108081002,
   "districtId": 8108081,
-  "name": "IBLATMUNTAH"
+  "districtName": "PULAU MASELA",
+  "name": "IBLATMUNTAH",
+  "postalCode": "97652"
  },
  {
   "id": 8108081003,
   "districtId": 8108081,
-  "name": "LAWAWANG"
+  "districtName": "PULAU MASELA",
+  "name": "LAWAWANG",
+  "postalCode": "97652"
  },
  {
   "id": 8108081004,
   "districtId": 8108081,
-  "name": "TELALORA/LETODA"
+  "districtName": "PULAU MASELA",
+  "name": "TELALORA/LETODA",
+  "postalCode": ""
  },
  {
   "id": 8108081005,
   "districtId": 8108081,
-  "name": "ILBUTUNG"
+  "districtName": "PULAU MASELA",
+  "name": "ILBUTUNG",
+  "postalCode": "97652"
  },
  {
   "id": 8108081006,
   "districtId": 8108081,
-  "name": "NURA"
+  "districtName": "PULAU MASELA",
+  "name": "NURA",
+  "postalCode": "97652"
  },
  {
   "id": 8108081007,
   "districtId": 8108081,
-  "name": "LATALOLA BESAR"
+  "districtName": "PULAU MASELA",
+  "name": "LATALOLA BESAR",
+  "postalCode": "97652"
  },
  {
   "id": 8108081008,
   "districtId": 8108081,
-  "name": "MARSELA"
+  "districtName": "PULAU MASELA",
+  "name": "MARSELA",
+  "postalCode": "97652"
  },
  {
   "id": 8108081009,
   "districtId": 8108081,
-  "name": "SERILI"
+  "districtName": "PULAU MASELA",
+  "name": "SERILI",
+  "postalCode": "97652"
  },
  {
   "id": 8108081010,
   "districtId": 8108081,
-  "name": "LATALOLA KECIL"
+  "districtName": "PULAU MASELA",
+  "name": "LATALOLA KECIL",
+  "postalCode": "97652"
  },
  {
   "id": 8108081011,
   "districtId": 8108081,
-  "name": "BULULORA"
+  "districtName": "PULAU MASELA",
+  "name": "BULULORA",
+  "postalCode": "97652"
  }
 ]

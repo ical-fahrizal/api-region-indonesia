@@ -2,36 +2,50 @@
  {
   "id": 9433041001,
   "districtId": 9433041,
-  "name": "KILUNGGAME"
+  "districtName": "SINAK BARAT",
+  "name": "KILUNGGAME",
+  "postalCode": ""
  },
  {
   "id": 9433041002,
   "districtId": 9433041,
-  "name": "WONELUPAGA"
+  "districtName": "SINAK BARAT",
+  "name": "WONELUPAGA",
+  "postalCode": ""
  },
  {
   "id": 9433041003,
   "districtId": 9433041,
-  "name": "TAGALAME I"
+  "districtName": "SINAK BARAT",
+  "name": "TAGALAME I",
+  "postalCode": ""
  },
  {
   "id": 9433041004,
   "districtId": 9433041,
-  "name": "BACINI / BAKSINI"
+  "districtName": "SINAK BARAT",
+  "name": "BACINI / BAKSINI",
+  "postalCode": ""
  },
  {
   "id": 9433041005,
   "districtId": 9433041,
-  "name": "TIMOBUT"
+  "districtName": "SINAK BARAT",
+  "name": "TIMOBUT",
+  "postalCode": ""
  },
  {
   "id": 9433041006,
   "districtId": 9433041,
-  "name": "TIMOBUT EGEWAK"
+  "districtName": "SINAK BARAT",
+  "name": "TIMOBUT EGEWAK",
+  "postalCode": ""
  },
  {
   "id": 9433041007,
   "districtId": 9433041,
-  "name": "KOMAPAGA"
+  "districtName": "SINAK BARAT",
+  "name": "KOMAPAGA",
+  "postalCode": ""
  }
 ]

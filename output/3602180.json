@@ -2,81 +2,113 @@
  {
   "id": 3602180007,
   "districtId": 3602180,
-  "name": "PASIR TANJUNG"
+  "districtName": "RANGKASBITUNG",
+  "name": "PASIR TANJUNG",
+  "postalCode": "16840"
  },
  {
   "id": 3602180008,
   "districtId": 3602180,
-  "name": "RANGKASBITUNG TIMUR"
+  "districtName": "RANGKASBITUNG",
+  "name": "RANGKASBITUNG TIMUR",
+  "postalCode": "42313"
  },
  {
   "id": 3602180009,
   "districtId": 3602180,
-  "name": "RANGKASBITUNG BARAT"
+  "districtName": "RANGKASBITUNG",
+  "name": "RANGKASBITUNG BARAT",
+  "postalCode": "42312"
  },
  {
   "id": 3602180010,
   "districtId": 3602180,
-  "name": "MUARA CIUJUNG TIMUR"
+  "districtName": "RANGKASBITUNG",
+  "name": "MUARA CIUJUNG TIMUR",
+  "postalCode": "42314"
  },
  {
   "id": 3602180011,
   "districtId": 3602180,
-  "name": "JATIMULYA"
+  "districtName": "RANGKASBITUNG",
+  "name": "JATIMULYA",
+  "postalCode": "45595"
  },
  {
   "id": 3602180012,
   "districtId": 3602180,
-  "name": "CIMANGEUNGTEUNG"
+  "districtName": "RANGKASBITUNG",
+  "name": "CIMANGEUNGTEUNG",
+  "postalCode": "42312"
  },
  {
   "id": 3602180013,
   "districtId": 3602180,
-  "name": "CITERAS"
+  "districtName": "RANGKASBITUNG",
+  "name": "CITERAS",
+  "postalCode": "44188"
  },
  {
   "id": 3602180014,
   "districtId": 3602180,
-  "name": "MEKARSARI"
+  "districtName": "RANGKASBITUNG",
+  "name": "MEKARSARI",
+  "postalCode": "37482"
  },
  {
   "id": 3602180015,
   "districtId": 3602180,
-  "name": "NAMENG"
+  "districtName": "RANGKASBITUNG",
+  "name": "NAMENG",
+  "postalCode": "42312"
  },
  {
   "id": 3602180016,
   "districtId": 3602180,
-  "name": "KOLELET WETAN"
+  "districtName": "RANGKASBITUNG",
+  "name": "KOLELET WETAN",
+  "postalCode": "42312"
  },
  {
   "id": 3602180017,
   "districtId": 3602180,
-  "name": "SUKAMANAH"
+  "districtName": "RANGKASBITUNG",
+  "name": "SUKAMANAH",
+  "postalCode": "43273"
  },
  {
   "id": 3602180018,
   "districtId": 3602180,
-  "name": "PABUARAN"
+  "districtName": "RANGKASBITUNG",
+  "name": "PABUARAN",
+  "postalCode": "16921"
  },
  {
   "id": 3602180019,
   "districtId": 3602180,
-  "name": "CIJORO PASIR"
+  "districtName": "RANGKASBITUNG",
+  "name": "CIJORO PASIR",
+  "postalCode": "42316"
  },
  {
   "id": 3602180020,
   "districtId": 3602180,
-  "name": "CIJORO LEBAK"
+  "districtName": "RANGKASBITUNG",
+  "name": "CIJORO LEBAK",
+  "postalCode": "42317"
  },
  {
   "id": 3602180021,
   "districtId": 3602180,
-  "name": "MUARA CIUJUNG BARAT"
+  "districtName": "RANGKASBITUNG",
+  "name": "MUARA CIUJUNG BARAT",
+  "postalCode": "42311"
  },
  {
   "id": 3602180022,
   "districtId": 3602180,
-  "name": "NARIMBANG MULIA"
+  "districtName": "RANGKASBITUNG",
+  "name": "NARIMBANG MULIA",
+  "postalCode": "42319"
  }
 ]

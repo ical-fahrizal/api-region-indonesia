@@ -2,21 +2,29 @@
  {
   "id": 5306052001,
   "districtId": 5306052,
-  "name": "DUBESI"
+  "districtName": "NANAET DUBESI",
+  "name": "DUBESI",
+  "postalCode": "85752"
  },
  {
   "id": 5306052002,
   "districtId": 5306052,
-  "name": "NANAET"
+  "districtName": "NANAET DUBESI",
+  "name": "NANAET",
+  "postalCode": "85752"
  },
  {
   "id": 5306052003,
   "districtId": 5306052,
-  "name": "FOHOEKA"
+  "districtName": "NANAET DUBESI",
+  "name": "FOHOEKA",
+  "postalCode": "85752"
  },
  {
   "id": 5306052004,
   "districtId": 5306052,
-  "name": "NANAENOE"
+  "districtName": "NANAET DUBESI",
+  "name": "NANAENOE",
+  "postalCode": "85752"
  }
 ]

@@ -2,36 +2,50 @@
  {
   "id": 9416035001,
   "districtId": 9416035,
-  "name": "NALCA"
+  "districtName": "NALCA",
+  "name": "NALCA",
+  "postalCode": "99582"
  },
  {
   "id": 9416035003,
   "districtId": 9416035,
-  "name": "CENDERAWASIH"
+  "districtName": "NALCA",
+  "name": "CENDERAWASIH",
+  "postalCode": "99582"
  },
  {
   "id": 9416035004,
   "districtId": 9416035,
-  "name": "MANGGONA"
+  "districtName": "NALCA",
+  "name": "MANGGONA",
+  "postalCode": "99582"
  },
  {
   "id": 9416035005,
   "districtId": 9416035,
-  "name": "BOLDA"
+  "districtName": "NALCA",
+  "name": "BOLDA",
+  "postalCode": "99582"
  },
  {
   "id": 9416035006,
   "districtId": 9416035,
-  "name": "IMSEKLA"
+  "districtName": "NALCA",
+  "name": "IMSEKLA",
+  "postalCode": "99582"
  },
  {
   "id": 9416035010,
   "districtId": 9416035,
-  "name": "HEIN"
+  "districtName": "NALCA",
+  "name": "HEIN",
+  "postalCode": "99582"
  },
  {
   "id": 9416035011,
   "districtId": 9416035,
-  "name": "LUWEMNA"
+  "districtName": "NALCA",
+  "name": "LUWEMNA",
+  "postalCode": "99582"
  }
 ]

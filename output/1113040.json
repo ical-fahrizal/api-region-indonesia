@@ -2,66 +2,92 @@
  {
   "id": 1113040004,
   "districtId": 1113040,
-  "name": "KUNING"
+  "districtName": "RIKIT GAIB",
+  "name": "KUNING",
+  "postalCode": "24654"
  },
  {
   "id": 1113040005,
   "districtId": 1113040,
-  "name": "PADANG PASIR"
+  "districtName": "RIKIT GAIB",
+  "name": "PADANG PASIR",
+  "postalCode": "24654"
  },
  {
   "id": 1113040006,
   "districtId": 1113040,
-  "name": "MANGANG"
+  "districtName": "RIKIT GAIB",
+  "name": "MANGANG",
+  "postalCode": "24654"
  },
  {
   "id": 1113040007,
   "districtId": 1113040,
-  "name": "RIKIT GAIB"
+  "districtName": "RIKIT GAIB",
+  "name": "RIKIT GAIB",
+  "postalCode": ""
  },
  {
   "id": 1113040008,
   "districtId": 1113040,
-  "name": "AMPA KOLAK"
+  "districtName": "RIKIT GAIB",
+  "name": "AMPA KOLAK",
+  "postalCode": "24654"
  },
  {
   "id": 1113040009,
   "districtId": 1113040,
-  "name": "CANE UKEN"
+  "districtName": "RIKIT GAIB",
+  "name": "CANE UKEN",
+  "postalCode": "24654"
  },
  {
   "id": 1113040010,
   "districtId": 1113040,
-  "name": "TUNGEL"
+  "districtName": "RIKIT GAIB",
+  "name": "TUNGEL",
+  "postalCode": "24654"
  },
  {
   "id": 1113040011,
   "districtId": 1113040,
-  "name": "PINANG RUGUP"
+  "districtName": "RIKIT GAIB",
+  "name": "PINANG RUGUP",
+  "postalCode": ""
  },
  {
   "id": 1113040012,
   "districtId": 1113040,
-  "name": "REMPELAM"
+  "districtName": "RIKIT GAIB",
+  "name": "REMPELAM",
+  "postalCode": "24654"
  },
  {
   "id": 1113040013,
   "districtId": 1113040,
-  "name": "CANE TOA"
+  "districtName": "RIKIT GAIB",
+  "name": "CANE TOA",
+  "postalCode": "24654"
  },
  {
   "id": 1113040014,
   "districtId": 1113040,
-  "name": "TUNGEL BARU"
+  "districtName": "RIKIT GAIB",
+  "name": "TUNGEL BARU",
+  "postalCode": "24654"
  },
  {
   "id": 1113040015,
   "districtId": 1113040,
-  "name": "LUKUP BARU"
+  "districtName": "RIKIT GAIB",
+  "name": "LUKUP BARU",
+  "postalCode": "24654"
  },
  {
   "id": 1113040016,
   "districtId": 1113040,
-  "name": "PENOMON JAYA"
+  "districtName": "RIKIT GAIB",
+  "name": "PENOMON JAYA",
+  "postalCode": "24654"
  }
 ]

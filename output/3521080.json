@@ -2,81 +2,113 @@
  {
   "id": 3521080001,
   "districtId": 3521080,
-  "name": "CAMPUR ASRI"
+  "districtName": "KARANGJATI",
+  "name": "CAMPUR ASRI",
+  "postalCode": "34761"
  },
  {
   "id": 3521080002,
   "districtId": 3521080,
-  "name": "DANGUK"
+  "districtName": "KARANGJATI",
+  "name": "DANGUK",
+  "postalCode": "63284"
  },
  {
   "id": 3521080003,
   "districtId": 3521080,
-  "name": "GEMPOL"
+  "districtName": "KARANGJATI",
+  "name": "GEMPOL",
+  "postalCode": "41374"
  },
  {
   "id": 3521080004,
   "districtId": 3521080,
-  "name": "RINGIN ANOM"
+  "districtName": "KARANGJATI",
+  "name": "RINGIN ANOM",
+  "postalCode": "63284"
  },
  {
   "id": 3521080006,
   "districtId": 3521080,
-  "name": "SIDOREJO"
+  "districtName": "KARANGJATI",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
  },
  {
   "id": 3521080007,
   "districtId": 3521080,
-  "name": "DUNGMIRI"
+  "districtName": "KARANGJATI",
+  "name": "DUNGMIRI",
+  "postalCode": "63284"
  },
  {
   "id": 3521080008,
   "districtId": 3521080,
-  "name": "BRANGOL"
+  "districtName": "KARANGJATI",
+  "name": "BRANGOL",
+  "postalCode": "63284"
  },
  {
   "id": 3521080009,
   "districtId": 3521080,
-  "name": "SIDOKERTO"
+  "districtName": "KARANGJATI",
+  "name": "SIDOKERTO",
+  "postalCode": "34161"
  },
  {
   "id": 3521080010,
   "districtId": 3521080,
-  "name": "JATIPURO"
+  "districtName": "KARANGJATI",
+  "name": "JATIPURO",
+  "postalCode": "57784"
  },
  {
   "id": 3521080011,
   "districtId": 3521080,
-  "name": "PUHTI"
+  "districtName": "KARANGJATI",
+  "name": "PUHTI",
+  "postalCode": "63284"
  },
  {
   "id": 3521080012,
   "districtId": 3521080,
-  "name": "SAWO"
+  "districtName": "KARANGJATI",
+  "name": "SAWO",
+  "postalCode": "22852"
  },
  {
   "id": 3521080013,
   "districtId": 3521080,
-  "name": "KARANGJATI"
+  "districtName": "KARANGJATI",
+  "name": "KARANGJATI",
+  "postalCode": "50552"
  },
  {
   "id": 3521080014,
   "districtId": 3521080,
-  "name": "LEGUNDI"
+  "districtName": "KARANGJATI",
+  "name": "LEGUNDI",
+  "postalCode": "35596"
  },
  {
   "id": 3521080015,
   "districtId": 3521080,
-  "name": "REJOMULYO"
+  "districtName": "KARANGJATI",
+  "name": "REJOMULYO",
+  "postalCode": "35365"
  },
  {
   "id": 3521080016,
   "districtId": 3521080,
-  "name": "REJUNO"
+  "districtName": "KARANGJATI",
+  "name": "REJUNO",
+  "postalCode": "63284"
  },
  {
   "id": 3521080017,
   "districtId": 3521080,
-  "name": "PLOSO LOR"
+  "districtName": "KARANGJATI",
+  "name": "PLOSO LOR",
+  "postalCode": "63284"
  }
 ]

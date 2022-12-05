@@ -2,71 +2,99 @@
  {
   "id": 3307050001,
   "districtId": 3307050,
-  "name": "SAWANGAN"
+  "districtName": "LEKSONO",
+  "name": "SAWANGAN",
+  "postalCode": "41272"
  },
  {
   "id": 3307050002,
   "districtId": 3307050,
-  "name": "LIPURSARI"
+  "districtName": "LEKSONO",
+  "name": "LIPURSARI",
+  "postalCode": "56362"
  },
  {
   "id": 3307050003,
   "districtId": 3307050,
-  "name": "SELOKROMO"
+  "districtName": "LEKSONO",
+  "name": "SELOKROMO",
+  "postalCode": "56362"
  },
  {
   "id": 3307050004,
   "districtId": 3307050,
-  "name": "SOJOKERTO"
+  "districtName": "LEKSONO",
+  "name": "SOJOKERTO",
+  "postalCode": "56362"
  },
  {
   "id": 3307050005,
   "districtId": 3307050,
-  "name": "BESANI"
+  "districtName": "LEKSONO",
+  "name": "BESANI",
+  "postalCode": "51255"
  },
  {
   "id": 3307050006,
   "districtId": 3307050,
-  "name": "LEKSONO"
+  "districtName": "LEKSONO",
+  "name": "LEKSONO",
+  "postalCode": "56362"
  },
  {
   "id": 3307050007,
   "districtId": 3307050,
-  "name": "JLAMPRANG"
+  "districtName": "LEKSONO",
+  "name": "JLAMPRANG",
+  "postalCode": "51274"
  },
  {
   "id": 3307050008,
   "districtId": 3307050,
-  "name": "WONOKERTO"
+  "districtName": "LEKSONO",
+  "name": "WONOKERTO",
+  "postalCode": "31662"
  },
  {
   "id": 3307050019,
   "districtId": 3307050,
-  "name": "JONGGOLSARI"
+  "districtName": "LEKSONO",
+  "name": "JONGGOLSARI",
+  "postalCode": "56362"
  },
  {
   "id": 3307050020,
   "districtId": 3307050,
-  "name": "TIMBANG"
+  "districtName": "LEKSONO",
+  "name": "TIMBANG",
+  "postalCode": "45556"
  },
  {
   "id": 3307050021,
   "districtId": 3307050,
-  "name": "KALIMENDONG"
+  "districtName": "LEKSONO",
+  "name": "KALIMENDONG",
+  "postalCode": "56362"
  },
  {
   "id": 3307050029,
   "districtId": 3307050,
-  "name": "MANGGIS"
+  "districtName": "LEKSONO",
+  "name": "MANGGIS",
+  "postalCode": "22742"
  },
  {
   "id": 3307050030,
   "districtId": 3307050,
-  "name": "DURENSAWIT"
+  "districtName": "LEKSONO",
+  "name": "DURENSAWIT",
+  "postalCode": "59171"
  },
  {
   "id": 3307050031,
   "districtId": 3307050,
-  "name": "PACARMULYO"
+  "districtName": "LEKSONO",
+  "name": "PACARMULYO",
+  "postalCode": "56362"
  }
 ]

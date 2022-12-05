@@ -2,41 +2,57 @@
  {
   "id": 3206100001,
   "districtId": 3206100,
-  "name": "BANYUASIH"
+  "districtName": "TARAJU",
+  "name": "BANYUASIH",
+  "postalCode": "41374"
  },
  {
   "id": 3206100002,
   "districtId": 3206100,
-  "name": "TARAJU"
+  "districtName": "TARAJU",
+  "name": "TARAJU",
+  "postalCode": "45573"
  },
  {
   "id": 3206100003,
   "districtId": 3206100,
-  "name": "RAKSASARI"
+  "districtName": "TARAJU",
+  "name": "RAKSASARI",
+  "postalCode": "46474"
  },
  {
   "id": 3206100004,
   "districtId": 3206100,
-  "name": "SINGASARI"
+  "districtName": "TARAJU",
+  "name": "SINGASARI",
+  "postalCode": "16830"
  },
  {
   "id": 3206100005,
   "districtId": 3206100,
-  "name": "CIKUBANG"
+  "districtName": "TARAJU",
+  "name": "CIKUBANG",
+  "postalCode": "46474"
  },
  {
   "id": 3206100007,
   "districtId": 3206100,
-  "name": "KERTARAHARJA"
+  "districtName": "TARAJU",
+  "name": "KERTARAHARJA",
+  "postalCode": "43157"
  },
  {
   "id": 3206100008,
   "districtId": 3206100,
-  "name": "PURWARAHAYU"
+  "districtName": "TARAJU",
+  "name": "PURWARAHAYU",
+  "postalCode": "46474"
  },
  {
   "id": 3206100009,
   "districtId": 3206100,
-  "name": "PAGERALAM"
+  "districtName": "TARAJU",
+  "name": "PAGERALAM",
+  "postalCode": "46474"
  }
 ]

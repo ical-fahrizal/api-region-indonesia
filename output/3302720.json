@@ -2,31 +2,43 @@
  {
   "id": 3302720001,
   "districtId": 3302720,
-  "name": "KARANGLEWAS LOR"
+  "districtName": "PURWOKERTO BARAT",
+  "name": "KARANGLEWAS LOR",
+  "postalCode": "53136"
  },
  {
   "id": 3302720002,
   "districtId": 3302720,
-  "name": "PASIR KIDUL"
+  "districtName": "PURWOKERTO BARAT",
+  "name": "PASIR KIDUL",
+  "postalCode": "53135"
  },
  {
   "id": 3302720003,
   "districtId": 3302720,
-  "name": "REJASARI"
+  "districtName": "PURWOKERTO BARAT",
+  "name": "REJASARI",
+  "postalCode": "46344"
  },
  {
   "id": 3302720004,
   "districtId": 3302720,
-  "name": "PASIRMUNCANG"
+  "districtName": "PURWOKERTO BARAT",
+  "name": "PASIRMUNCANG",
+  "postalCode": "41253"
  },
  {
   "id": 3302720005,
   "districtId": 3302720,
-  "name": "BANTARSOKA"
+  "districtName": "PURWOKERTO BARAT",
+  "name": "BANTARSOKA",
+  "postalCode": "53133"
  },
  {
   "id": 3302720006,
   "districtId": 3302720,
-  "name": "KOBER"
+  "districtName": "PURWOKERTO BARAT",
+  "name": "KOBER",
+  "postalCode": "53132"
  }
 ]

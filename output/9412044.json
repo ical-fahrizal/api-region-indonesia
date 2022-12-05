@@ -2,31 +2,43 @@
  {
   "id": 9412044001,
   "districtId": 9412044,
-  "name": "HOYA"
+  "districtName": "HOYA",
+  "name": "HOYA",
+  "postalCode": "22874"
  },
  {
   "id": 9412044002,
   "districtId": 9412044,
-  "name": "JINONI"
+  "districtName": "HOYA",
+  "name": "JINONI",
+  "postalCode": ""
  },
  {
   "id": 9412044003,
   "districtId": 9412044,
-  "name": "MAMONTOGA"
+  "districtName": "HOYA",
+  "name": "MAMONTOGA",
+  "postalCode": ""
  },
  {
   "id": 9412044004,
   "districtId": 9412044,
-  "name": "KULAMOGAN"
+  "districtName": "HOYA",
+  "name": "KULAMOGAN",
+  "postalCode": ""
  },
  {
   "id": 9412044005,
   "districtId": 9412044,
-  "name": "JAWA"
+  "districtName": "HOYA",
+  "name": "JAWA",
+  "postalCode": "23654"
  },
  {
   "id": 9412044006,
   "districtId": 9412044,
-  "name": "PUTI"
+  "districtName": "HOYA",
+  "name": "PUTI",
+  "postalCode": "99967"
  }
 ]

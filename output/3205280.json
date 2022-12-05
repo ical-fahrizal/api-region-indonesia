@@ -2,71 +2,99 @@
  {
   "id": 3205280001,
   "districtId": 3205280,
-  "name": "RANCASALAK"
+  "districtName": "KADUNGORA",
+  "name": "RANCASALAK",
+  "postalCode": "44153"
  },
  {
   "id": 3205280002,
   "districtId": 3205280,
-  "name": "MANDALASARI"
+  "districtName": "KADUNGORA",
+  "name": "MANDALASARI",
+  "postalCode": "35597"
  },
  {
   "id": 3205280003,
   "districtId": 3205280,
-  "name": "HEGARSARI"
+  "districtName": "KADUNGORA",
+  "name": "HEGARSARI",
+  "postalCode": "44153"
  },
  {
   "id": 3205280004,
   "districtId": 3205280,
-  "name": "TALAGASARI"
+  "districtName": "KADUNGORA",
+  "name": "TALAGASARI",
+  "postalCode": "44172"
  },
  {
   "id": 3205280005,
   "districtId": 3205280,
-  "name": "KARANGMULYA"
+  "districtName": "KADUNGORA",
+  "name": "KARANGMULYA",
+  "postalCode": "17356"
  },
  {
   "id": 3205280006,
   "districtId": 3205280,
-  "name": "KARANGTENGAH"
+  "districtName": "KADUNGORA",
+  "name": "KARANGTENGAH",
+  "postalCode": "43351"
  },
  {
   "id": 3205280007,
   "districtId": 3205280,
-  "name": "GANDAMEKAR"
+  "districtName": "KADUNGORA",
+  "name": "GANDAMEKAR",
+  "postalCode": "17530"
  },
  {
   "id": 3205280008,
   "districtId": 3205280,
-  "name": "KADUNGORA"
+  "districtName": "KADUNGORA",
+  "name": "KADUNGORA",
+  "postalCode": "44153"
  },
  {
   "id": 3205280009,
   "districtId": 3205280,
-  "name": "NEGLASARI"
+  "districtName": "KADUNGORA",
+  "name": "NEGLASARI",
+  "postalCode": "35452"
  },
  {
   "id": 3205280010,
   "districtId": 3205280,
-  "name": "CIKEMBULAN"
+  "districtName": "KADUNGORA",
+  "name": "CIKEMBULAN",
+  "postalCode": "44153"
  },
  {
   "id": 3205280011,
   "districtId": 3205280,
-  "name": "CISAAT"
+  "districtName": "KADUNGORA",
+  "name": "CISAAT",
+  "postalCode": "41181"
  },
  {
   "id": 3205280012,
   "districtId": 3205280,
-  "name": "MEKARBAKTI"
+  "districtName": "KADUNGORA",
+  "name": "MEKARBAKTI",
+  "postalCode": "44165"
  },
  {
   "id": 3205280013,
   "districtId": 3205280,
-  "name": "TANGGULUN"
+  "districtName": "KADUNGORA",
+  "name": "TANGGULUN",
+  "postalCode": "40384"
  },
  {
   "id": 3205280014,
   "districtId": 3205280,
-  "name": "HARUMANSARI"
+  "districtName": "KADUNGORA",
+  "name": "HARUMANSARI",
+  "postalCode": "44153"
  }
 ]

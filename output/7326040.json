@@ -2,31 +2,43 @@
  {
   "id": 7326040001,
   "districtId": 7326040,
-  "name": "LEMBANG SAPAN KUA-KUA"
+  "districtName": "BUNTAO",
+  "name": "LEMBANG SAPAN KUA-KUA",
+  "postalCode": ""
  },
  {
   "id": 7326040002,
   "districtId": 7326040,
-  "name": "LEMBANG  MISA BA'BANA"
+  "districtName": "BUNTAO",
+  "name": "LEMBANG  MISA BA'BANA",
+  "postalCode": ""
  },
  {
   "id": 7326040003,
   "districtId": 7326040,
-  "name": "LEMBANG RINDING KILA BALABATU"
+  "districtName": "BUNTAO",
+  "name": "LEMBANG RINDING KILA BALABATU",
+  "postalCode": ""
  },
  {
   "id": 7326040004,
   "districtId": 7326040,
-  "name": "KELURAHAN TONGKONAN BASSE"
+  "districtName": "BUNTAO",
+  "name": "KELURAHAN TONGKONAN BASSE",
+  "postalCode": ""
  },
  {
   "id": 7326040005,
   "districtId": 7326040,
-  "name": "LEMBANG ISSONG KALUA"
+  "districtName": "BUNTAO",
+  "name": "LEMBANG ISSONG KALUA",
+  "postalCode": ""
  },
  {
   "id": 7326040006,
   "districtId": 7326040,
-  "name": "KELURAHAN TALLANG SURA'"
+  "districtName": "BUNTAO",
+  "name": "KELURAHAN TALLANG SURA'",
+  "postalCode": ""
  }
 ]

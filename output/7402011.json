@@ -2,41 +2,57 @@
  {
   "id": 7402011001,
   "districtId": 7402011,
-  "name": "KULIDAWA"
+  "districtName": "TONGKUNO SELATAN",
+  "name": "KULIDAWA",
+  "postalCode": ""
  },
  {
   "id": 7402011002,
   "districtId": 7402011,
-  "name": "WAALE-ALE"
+  "districtName": "TONGKUNO SELATAN",
+  "name": "WAALE-ALE",
+  "postalCode": ""
  },
  {
   "id": 7402011003,
   "districtId": 7402011,
-  "name": "LABASA"
+  "districtName": "TONGKUNO SELATAN",
+  "name": "LABASA",
+  "postalCode": "93662"
  },
  {
   "id": 7402011004,
   "districtId": 7402011,
-  "name": "KATUMPU"
+  "districtName": "TONGKUNO SELATAN",
+  "name": "KATUMPU",
+  "postalCode": ""
  },
  {
   "id": 7402011005,
   "districtId": 7402011,
-  "name": "OE WAUNGKA"
+  "districtName": "TONGKUNO SELATAN",
+  "name": "OE WAUNGKA",
+  "postalCode": ""
  },
  {
   "id": 7402011006,
   "districtId": 7402011,
-  "name": "LIANOSA"
+  "districtName": "TONGKUNO SELATAN",
+  "name": "LIANOSA",
+  "postalCode": "93662"
  },
  {
   "id": 7402011007,
   "districtId": 7402011,
-  "name": "LABASA SELATAN"
+  "districtName": "TONGKUNO SELATAN",
+  "name": "LABASA SELATAN",
+  "postalCode": ""
  },
  {
   "id": 7402011008,
   "districtId": 7402011,
-  "name": "WAALE-ALE BARAT"
+  "districtName": "TONGKUNO SELATAN",
+  "name": "WAALE-ALE BARAT",
+  "postalCode": ""
  }
 ]
