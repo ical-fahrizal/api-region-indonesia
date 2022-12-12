@@ -1,0 +1,30 @@
+[
+ {
+  "id": 3507170001,
+  "districtId": 3507170,
+  "districtName": "SUMBER PUCUNG",
+  "name": "KARANGKATES",
+  "postalCode": "65165"
+ },
+ {
+  "id": 3507170003,
+  "districtId": 3507170,
+  "districtName": "SUMBER PUCUNG",
+  "name": "JATIGUWI",
+  "postalCode": "65165"
+ },
+ {
+  "id": 3507170004,
+  "districtId": 3507170,
+  "districtName": "SUMBER PUCUNG",
+  "name": "SAMBIGEDE",
+  "postalCode": "66193"
+ },
+ {
+  "id": 3507170006,
+  "districtId": 3507170,
+  "districtName": "SUMBER PUCUNG",
+  "name": "TERNYANG",
+  "postalCode": "65165"
+ }
+]

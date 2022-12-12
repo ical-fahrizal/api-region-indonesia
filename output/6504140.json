@@ -1,0 +1,30 @@
+[
+ {
+  "id": 6504140001,
+  "districtId": 6504140,
+  "districtName": "SEBATIK TIMUR",
+  "name": "SUNGAI NYAMUK",
+  "postalCode": "28912"
+ },
+ {
+  "id": 6504140002,
+  "districtId": 6504140,
+  "districtName": "SEBATIK TIMUR",
+  "name": "TANJUNG HARAPAN",
+  "postalCode": "23754"
+ },
+ {
+  "id": 6504140003,
+  "districtId": 6504140,
+  "districtName": "SEBATIK TIMUR",
+  "name": "BUKIT ARU INDAH",
+  "postalCode": "77483"
+ },
+ {
+  "id": 6504140004,
+  "districtId": 6504140,
+  "districtName": "SEBATIK TIMUR",
+  "name": "TANJUNG ARU",
+  "postalCode": "76261"
+ }
+]

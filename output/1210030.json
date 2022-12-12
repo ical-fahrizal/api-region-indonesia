@@ -1,0 +1,79 @@
+[
+ {
+  "id": 1210030002,
+  "districtId": 1210030,
+  "districtName": "SIDIKALANG",
+  "name": "SIDIANGKAT",
+  "postalCode": "22216"
+ },
+ {
+  "id": 1210030003,
+  "districtId": 1210030,
+  "districtName": "SIDIKALANG",
+  "name": "BATANG BERUH",
+  "postalCode": "22212"
+ },
+ {
+  "id": 1210030004,
+  "districtId": 1210030,
+  "districtName": "SIDIKALANG",
+  "name": "BINTANG HULU",
+  "postalCode": "22217"
+ },
+ {
+  "id": 1210030005,
+  "districtId": 1210030,
+  "districtName": "SIDIKALANG",
+  "name": "KALANG SIMBARA",
+  "postalCode": "22218"
+ },
+ {
+  "id": 1210030006,
+  "districtId": 1210030,
+  "districtName": "SIDIKALANG",
+  "name": "BINTANG",
+  "postalCode": "22219"
+ },
+ {
+  "id": 1210030007,
+  "districtId": 1210030,
+  "districtName": "SIDIKALANG",
+  "name": "KALANG",
+  "postalCode": "22213"
+ },
+ {
+  "id": 1210030008,
+  "districtId": 1210030,
+  "districtName": "SIDIKALANG",
+  "name": "KOTA SIDIKALANG",
+  "postalCode": ""
+ },
+ {
+  "id": 1210030009,
+  "districtId": 1210030,
+  "districtName": "SIDIKALANG",
+  "name": "BELANG MALUM",
+  "postalCode": "22215"
+ },
+ {
+  "id": 1210030010,
+  "districtId": 1210030,
+  "districtName": "SIDIKALANG",
+  "name": "KUTA GAMBIR",
+  "postalCode": "22214"
+ },
+ {
+  "id": 1210030011,
+  "districtId": 1210030,
+  "districtName": "SIDIKALANG",
+  "name": "HUTA RAKJAT",
+  "postalCode": "22211"
+ },
+ {
+  "id": 1210030012,
+  "districtId": 1210030,
+  "districtName": "SIDIKALANG",
+  "name": "BINTANG MERSADA",
+  "postalCode": ""
+ }
+]

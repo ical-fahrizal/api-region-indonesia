@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3601010001,
+  "districtId": 3601010,
+  "districtName": "SUMUR",
+  "name": "UJUNGJAYA",
+  "postalCode": "45383"
+ },
+ {
+  "id": 3601010002,
+  "districtId": 3601010,
+  "districtName": "SUMUR",
+  "name": "TAMANJAYA",
+  "postalCode": "43177"
+ },
+ {
+  "id": 3601010003,
+  "districtId": 3601010,
+  "districtName": "SUMUR",
+  "name": "CIGORONDONG",
+  "postalCode": "42283"
+ },
+ {
+  "id": 3601010004,
+  "districtId": 3601010,
+  "districtName": "SUMUR",
+  "name": "TUNGGALJAYA",
+  "postalCode": "42283"
+ },
+ {
+  "id": 3601010005,
+  "districtId": 3601010,
+  "districtName": "SUMUR",
+  "name": "KERTAMUKTI",
+  "postalCode": "41181"
+ },
+ {
+  "id": 3601010006,
+  "districtId": 3601010,
+  "districtName": "SUMUR",
+  "name": "KERTAJAYA",
+  "postalCode": "45255"
+ },
+ {
+  "id": 3601010007,
+  "districtId": 3601010,
+  "districtName": "SUMUR",
+  "name": "SUMBERJAYA",
+  "postalCode": "46262"
+ }
+]

@@ -1,0 +1,51 @@
+[
+ {
+  "id": 1275030001,
+  "districtId": 1275030,
+  "districtName": "MEDAN AMPLAS",
+  "name": "HARJOSARI II",
+  "postalCode": "20147"
+ },
+ {
+  "id": 1275030002,
+  "districtId": 1275030,
+  "districtName": "MEDAN AMPLAS",
+  "name": "SITIREJO II",
+  "postalCode": "20219"
+ },
+ {
+  "id": 1275030003,
+  "districtId": 1275030,
+  "districtName": "MEDAN AMPLAS",
+  "name": "SITIREJO III",
+  "postalCode": "20219"
+ },
+ {
+  "id": 1275030004,
+  "districtId": 1275030,
+  "districtName": "MEDAN AMPLAS",
+  "name": "HARJOSARI I",
+  "postalCode": "20147"
+ },
+ {
+  "id": 1275030005,
+  "districtId": 1275030,
+  "districtName": "MEDAN AMPLAS",
+  "name": "A M P L A S",
+  "postalCode": ""
+ },
+ {
+  "id": 1275030006,
+  "districtId": 1275030,
+  "districtName": "MEDAN AMPLAS",
+  "name": "TIMBANG DELI",
+  "postalCode": "20585"
+ },
+ {
+  "id": 1275030007,
+  "districtId": 1275030,
+  "districtName": "MEDAN AMPLAS",
+  "name": "BANGUN MULIA",
+  "postalCode": "20149"
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "id": 5203092001,
+  "districtId": 5203092,
+  "districtName": "SEMBALUN",
+  "name": "SEMBALUN BUMBUNG",
+  "postalCode": "83656"
+ },
+ {
+  "id": 5203092002,
+  "districtId": 5203092,
+  "districtName": "SEMBALUN",
+  "name": "SEMBALUN LAWANG",
+  "postalCode": "83656"
+ },
+ {
+  "id": 5203092003,
+  "districtId": 5203092,
+  "districtName": "SEMBALUN",
+  "name": "SAJANG",
+  "postalCode": "83656"
+ },
+ {
+  "id": 5203092004,
+  "districtId": 5203092,
+  "districtName": "SEMBALUN",
+  "name": "BILOK PETUNG",
+  "postalCode": "83656"
+ },
+ {
+  "id": 5203092005,
+  "districtId": 5203092,
+  "districtName": "SEMBALUN",
+  "name": "SEMBALUN",
+  "postalCode": "83656"
+ },
+ {
+  "id": 5203092006,
+  "districtId": 5203092,
+  "districtName": "SEMBALUN",
+  "name": "SEMBALUN TIMBA GADING",
+  "postalCode": "83656"
+ }
+]

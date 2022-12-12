@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3272020001,
+  "districtId": 3272020,
+  "districtName": "CITAMIANG",
+  "name": "CIKONDANG",
+  "postalCode": "43283"
+ },
+ {
+  "id": 3272020002,
+  "districtId": 3272020,
+  "districtName": "CITAMIANG",
+  "name": "GEDONG PANJANG",
+  "postalCode": ""
+ },
+ {
+  "id": 3272020003,
+  "districtId": 3272020,
+  "districtName": "CITAMIANG",
+  "name": "CITAMIANG",
+  "postalCode": "43143"
+ },
+ {
+  "id": 3272020004,
+  "districtId": 3272020,
+  "districtName": "CITAMIANG",
+  "name": "NANGGELENG",
+  "postalCode": "40558"
+ },
+ {
+  "id": 3272020005,
+  "districtId": 3272020,
+  "districtName": "CITAMIANG",
+  "name": "TIPAR",
+  "postalCode": "44177"
+ }
+]

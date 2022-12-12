@@ -1,0 +1,65 @@
+[
+ {
+  "id": 9409022001,
+  "districtId": 9409022,
+  "districtName": "POIRU",
+  "name": "BAWEI",
+  "postalCode": "98171"
+ },
+ {
+  "id": 9409022002,
+  "districtId": 9409022,
+  "districtName": "POIRU",
+  "name": "MANGGARI",
+  "postalCode": "45574"
+ },
+ {
+  "id": 9409022003,
+  "districtId": 9409022,
+  "districtName": "POIRU",
+  "name": "SAURIBRU",
+  "postalCode": ""
+ },
+ {
+  "id": 9409022004,
+  "districtId": 9409022,
+  "districtName": "POIRU",
+  "name": "SYORIBO",
+  "postalCode": "98171"
+ },
+ {
+  "id": 9409022005,
+  "districtId": 9409022,
+  "districtName": "POIRU",
+  "name": "ANDEI",
+  "postalCode": "98154"
+ },
+ {
+  "id": 9409022006,
+  "districtId": 9409022,
+  "districtName": "POIRU",
+  "name": "SAURI",
+  "postalCode": "98152"
+ },
+ {
+  "id": 9409022007,
+  "districtId": 9409022,
+  "districtName": "POIRU",
+  "name": "SERDORI",
+  "postalCode": "98171"
+ },
+ {
+  "id": 9409022008,
+  "districtId": 9409022,
+  "districtName": "POIRU",
+  "name": "KORYAKAM",
+  "postalCode": "98171"
+ },
+ {
+  "id": 9409022009,
+  "districtId": 9409022,
+  "districtName": "POIRU",
+  "name": "ANDEI SUP",
+  "postalCode": "98171"
+ }
+]

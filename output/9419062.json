@@ -1,0 +1,30 @@
+[
+ {
+  "id": 9419062001,
+  "districtId": 9419062,
+  "districtName": "APAWER HILIR",
+  "name": "KARFASIA",
+  "postalCode": "99374"
+ },
+ {
+  "id": 9419062002,
+  "districtId": 9419062,
+  "districtName": "APAWER HILIR",
+  "name": "MASEP",
+  "postalCode": "99374"
+ },
+ {
+  "id": 9419062004,
+  "districtId": 9419062,
+  "districtName": "APAWER HILIR",
+  "name": "BURGENA",
+  "postalCode": "99374"
+ },
+ {
+  "id": 9419062005,
+  "districtId": 9419062,
+  "districtName": "APAWER HILIR",
+  "name": "SAMORKENA",
+  "postalCode": "99374"
+ }
+]

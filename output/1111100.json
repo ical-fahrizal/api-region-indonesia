@@ -1,0 +1,401 @@
+[
+ {
+  "id": 1111100001,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "CINTA MAKMUR",
+  "postalCode": "24673"
+ },
+ {
+  "id": 1111100002,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "BABUSSALAM",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100003,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "BUKET DARA BARO",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100004,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "MATANG BARO",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100005,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "UJONG DAMA",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100006,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "BUKET MON SUKON",
+  "postalCode": ""
+ },
+ {
+  "id": 1111100007,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "MATANG BEURINGEN",
+  "postalCode": ""
+ },
+ {
+  "id": 1111100009,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "MATANG PINEUNG",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100010,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "CEUMPEDAK",
+  "postalCode": ""
+ },
+ {
+  "id": 1111100011,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "MATANG REUDEUP",
+  "postalCode": ""
+ },
+ {
+  "id": 1111100012,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "BUKET LUENG BATA",
+  "postalCode": ""
+ },
+ {
+  "id": 1111100013,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "MATANG MANYAM",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100014,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "COT MANYANG",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100015,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "KEUDE MEUNYE IV",
+  "postalCode": ""
+ },
+ {
+  "id": 1111100016,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "MATANG ULIM",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100017,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "MATANG LINYA",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100023,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "ALUE IE TAREK",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100024,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "GEULUMPANG BUNGKOK",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100025,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "ARONGAN LISE",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100026,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "GLUMPANG PAYONG",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100027,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "ALUE RAMBONG",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100028,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "GEULUMPANG SAMLAKOE",
+  "postalCode": ""
+ },
+ {
+  "id": 1111100029,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "MATANG RAWA",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100030,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "MATANG LAWANG",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100032,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "COT ARA",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100033,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "ALUE DAMA",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100034,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "ALUE BILI GEULUMPANG",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100035,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "PUCOK ALUE",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100036,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "MATANG KAREUNG",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100037,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "COT ULAYA",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100040,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "KEUDE PANTEU BREUH",
+  "postalCode": ""
+ },
+ {
+  "id": 1111100041,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "RAMBONG DALAM",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100042,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "ALUE BILI RAYEUK",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100043,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "MEUNASAH ALUE IE PUTEH",
+  "postalCode": ""
+ },
+ {
+  "id": 1111100044,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "KEUDE ALUE IE PUTEH",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100045,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "MATANG KUMBANG",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100057,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "COT MANE",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100058,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "COT KUMBANG",
+  "postalCode": "23652"
+ },
+ {
+  "id": 1111100059,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "LHOK SEUTUY",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100060,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "MEUNASAH BUJOK",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100061,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "ALUE JAMOK",
+  "postalCode": ""
+ },
+ {
+  "id": 1111100062,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "MEUDANG ARA",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100063,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "ALUE KEUTAPANG",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100064,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "MEUNASAH GEUDONG",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100065,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "KRUENG LINGKA TIMU",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100066,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "KRUENG LINGKA BARAT",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100067,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "ALUE ANOU TIMU",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100068,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "ALUE ANOU BARAT",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100069,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "ALUE SERDANG",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100070,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "MATANG RAYA BARAT",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100074,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "PULO SEUKE",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100075,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "ALUE GEUDONG",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100076,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "MATANG KEULAYU",
+  "postalCode": ""
+ },
+ {
+  "id": 1111100077,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "MATANG RAYA TIMU",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100078,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "ALUE BUYA",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100079,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "MATANG CUT",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111100080,
+  "districtId": 1111100,
+  "districtName": "BAKTIYA",
+  "name": "TANJONG GLUMPANG",
+  "postalCode": "24392"
+ }
+]

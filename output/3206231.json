@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3206231001,
+  "districtId": 3206231,
+  "districtName": "SUKAHENING",
+  "name": "BANYURASA",
+  "postalCode": "46155"
+ },
+ {
+  "id": 3206231002,
+  "districtId": 3206231,
+  "districtName": "SUKAHENING",
+  "name": "BANYURESMI",
+  "postalCode": "44191"
+ },
+ {
+  "id": 3206231003,
+  "districtId": 3206231,
+  "districtName": "SUKAHENING",
+  "name": "CALINGCING",
+  "postalCode": "46155"
+ },
+ {
+  "id": 3206231004,
+  "districtId": 3206231,
+  "districtName": "SUKAHENING",
+  "name": "KUDADEPA",
+  "postalCode": "46155"
+ },
+ {
+  "id": 3206231005,
+  "districtId": 3206231,
+  "districtName": "SUKAHENING",
+  "name": "SUNDAKERTA",
+  "postalCode": "46155"
+ },
+ {
+  "id": 3206231006,
+  "districtId": 3206231,
+  "districtName": "SUKAHENING",
+  "name": "SUKAHENING",
+  "postalCode": "46155"
+ },
+ {
+  "id": 3206231007,
+  "districtId": 3206231,
+  "districtName": "SUKAHENING",
+  "name": "KIARAJANGKUNG",
+  "postalCode": "46155"
+ }
+]

@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3508010001,
+  "districtId": 3508010,
+  "districtName": "TEMPURSARI",
+  "name": "TEGALREJO",
+  "postalCode": "50733"
+ },
+ {
+  "id": 3508010002,
+  "districtId": 3508010,
+  "districtName": "TEMPURSARI",
+  "name": "BULUREJO",
+  "postalCode": "35372"
+ },
+ {
+  "id": 3508010003,
+  "districtId": 3508010,
+  "districtName": "TEMPURSARI",
+  "name": "PUROREJO",
+  "postalCode": "67375"
+ },
+ {
+  "id": 3508010004,
+  "districtId": 3508010,
+  "districtName": "TEMPURSARI",
+  "name": "TEMPURREJO",
+  "postalCode": "67375"
+ },
+ {
+  "id": 3508010005,
+  "districtId": 3508010,
+  "districtName": "TEMPURSARI",
+  "name": "TEMPURSARI",
+  "postalCode": "56191"
+ },
+ {
+  "id": 3508010006,
+  "districtId": 3508010,
+  "districtName": "TEMPURSARI",
+  "name": "PUNDUNGSARI",
+  "postalCode": "57467"
+ },
+ {
+  "id": 3508010007,
+  "districtId": 3508010,
+  "districtName": "TEMPURSARI",
+  "name": "KALIULING",
+  "postalCode": "67375"
+ }
+]

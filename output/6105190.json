@@ -1,0 +1,37 @@
+[
+ {
+  "id": 6105190001,
+  "districtId": 6105190,
+  "districtName": "BEDUWAI",
+  "name": "SEI ILAI",
+  "postalCode": ""
+ },
+ {
+  "id": 6105190002,
+  "districtId": 6105190,
+  "districtName": "BEDUWAI",
+  "name": "BERENG BERKAWAT",
+  "postalCode": "78555"
+ },
+ {
+  "id": 6105190003,
+  "districtId": 6105190,
+  "districtName": "BEDUWAI",
+  "name": "KASROMEGO",
+  "postalCode": "78555"
+ },
+ {
+  "id": 6105190004,
+  "districtId": 6105190,
+  "districtName": "BEDUWAI",
+  "name": "THANG RAYA",
+  "postalCode": "78555"
+ },
+ {
+  "id": 6105190005,
+  "districtId": 6105190,
+  "districtName": "BEDUWAI",
+  "name": "MAWANG MUDA",
+  "postalCode": "78555"
+ }
+]

@@ -1,0 +1,65 @@
+[
+ {
+  "id": 1114010001,
+  "districtId": 1114010,
+  "districtName": "TAMIANG HULU",
+  "name": "KALOY",
+  "postalCode": "24478"
+ },
+ {
+  "id": 1114010002,
+  "districtId": 1114010,
+  "districtName": "TAMIANG HULU",
+  "name": "RONGOH",
+  "postalCode": "24478"
+ },
+ {
+  "id": 1114010003,
+  "districtId": 1114010,
+  "districtName": "TAMIANG HULU",
+  "name": "ALUR TANI I",
+  "postalCode": "24478"
+ },
+ {
+  "id": 1114010004,
+  "districtId": 1114010,
+  "districtName": "TAMIANG HULU",
+  "name": "ALUR TANI II",
+  "postalCode": "24478"
+ },
+ {
+  "id": 1114010005,
+  "districtId": 1114010,
+  "districtName": "TAMIANG HULU",
+  "name": "BANDAR KHALIFAH",
+  "postalCode": "24472"
+ },
+ {
+  "id": 1114010006,
+  "districtId": 1114010,
+  "districtName": "TAMIANG HULU",
+  "name": "PERK PULAU TIGA",
+  "postalCode": ""
+ },
+ {
+  "id": 1114010007,
+  "districtId": 1114010,
+  "districtName": "TAMIANG HULU",
+  "name": "BANDAR SETIA",
+  "postalCode": "24478"
+ },
+ {
+  "id": 1114010008,
+  "districtId": 1114010,
+  "districtName": "TAMIANG HULU",
+  "name": "HARUM SARI",
+  "postalCode": "24478"
+ },
+ {
+  "id": 1114010009,
+  "districtId": 1114010,
+  "districtName": "TAMIANG HULU",
+  "name": "WONO SARI",
+  "postalCode": "24478"
+ }
+]

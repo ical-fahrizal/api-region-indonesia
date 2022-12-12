@@ -1,0 +1,51 @@
+[
+ {
+  "id": 1804010001,
+  "districtId": 1804010,
+  "districtName": "METRO KIBANG",
+  "name": "SUMBER AGUNG",
+  "postalCode": "37353"
+ },
+ {
+  "id": 1804010002,
+  "districtId": 1804010,
+  "districtName": "METRO KIBANG",
+  "name": "PURBO SEMBODO",
+  "postalCode": "34333"
+ },
+ {
+  "id": 1804010003,
+  "districtId": 1804010,
+  "districtName": "METRO KIBANG",
+  "name": "KIBANG",
+  "postalCode": "34331"
+ },
+ {
+  "id": 1804010004,
+  "districtId": 1804010,
+  "districtName": "METRO KIBANG",
+  "name": "MARGO JAYA",
+  "postalCode": ""
+ },
+ {
+  "id": 1804010005,
+  "districtId": 1804010,
+  "districtName": "METRO KIBANG",
+  "name": "MARGO TOTO",
+  "postalCode": "34335"
+ },
+ {
+  "id": 1804010006,
+  "districtId": 1804010,
+  "districtName": "METRO KIBANG",
+  "name": "MARGO SARI",
+  "postalCode": "38887"
+ },
+ {
+  "id": 1804010007,
+  "districtId": 1804010,
+  "districtName": "METRO KIBANG",
+  "name": "JAYA ASRI",
+  "postalCode": "34331"
+ }
+]

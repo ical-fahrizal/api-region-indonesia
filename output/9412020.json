@@ -1,0 +1,44 @@
+[
+ {
+  "id": 9412020004,
+  "districtId": 9412020,
+  "districtName": "MIMIKA TIMUR",
+  "name": "POMAKO",
+  "postalCode": ""
+ },
+ {
+  "id": 9412020009,
+  "districtId": 9412020,
+  "districtName": "MIMIKA TIMUR",
+  "name": "TIPUKA",
+  "postalCode": "99963"
+ },
+ {
+  "id": 9412020010,
+  "districtId": 9412020,
+  "districtName": "MIMIKA TIMUR",
+  "name": "HIRIPAU",
+  "postalCode": "99963"
+ },
+ {
+  "id": 9412020012,
+  "districtId": 9412020,
+  "districtName": "MIMIKA TIMUR",
+  "name": "KAUGAPU",
+  "postalCode": "99963"
+ },
+ {
+  "id": 9412020013,
+  "districtId": 9412020,
+  "districtName": "MIMIKA TIMUR",
+  "name": "WANIA",
+  "postalCode": "99561"
+ },
+ {
+  "id": 9412020015,
+  "districtId": 9412020,
+  "districtName": "MIMIKA TIMUR",
+  "name": "MWAPI",
+  "postalCode": "99963"
+ }
+]

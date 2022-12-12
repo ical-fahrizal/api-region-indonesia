@@ -1,0 +1,65 @@
+[
+ {
+  "id": 3209100001,
+  "districtId": 3209100,
+  "districtName": "BEBER",
+  "name": "WANAYASA",
+  "postalCode": "45172"
+ },
+ {
+  "id": 3209100002,
+  "districtId": 3209100,
+  "districtName": "BEBER",
+  "name": "SINDANGKASIH",
+  "postalCode": "45172"
+ },
+ {
+  "id": 3209100003,
+  "districtId": 3209100,
+  "districtName": "BEBER",
+  "name": "SINDANGHAYU",
+  "postalCode": "46383"
+ },
+ {
+  "id": 3209100004,
+  "districtId": 3209100,
+  "districtName": "BEBER",
+  "name": "CIAWIGAJAH",
+  "postalCode": "45172"
+ },
+ {
+  "id": 3209100008,
+  "districtId": 3209100,
+  "districtName": "BEBER",
+  "name": "CIKANCAS",
+  "postalCode": "45172"
+ },
+ {
+  "id": 3209100009,
+  "districtId": 3209100,
+  "districtName": "BEBER",
+  "name": "HALIMPU",
+  "postalCode": "45172"
+ },
+ {
+  "id": 3209100010,
+  "districtId": 3209100,
+  "districtName": "BEBER",
+  "name": "CIPINANG",
+  "postalCode": "13240"
+ },
+ {
+  "id": 3209100012,
+  "districtId": 3209100,
+  "districtName": "BEBER",
+  "name": "PATAPAN",
+  "postalCode": "45172"
+ },
+ {
+  "id": 3209100013,
+  "districtId": 3209100,
+  "districtName": "BEBER",
+  "name": "KONDANGSARI",
+  "postalCode": "45172"
+ }
+]

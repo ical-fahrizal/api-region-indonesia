@@ -1,0 +1,58 @@
+[
+ {
+  "id": 3520010001,
+  "districtId": 3520010,
+  "districtName": "PONCOL",
+  "name": "GONGGANG",
+  "postalCode": "59274"
+ },
+ {
+  "id": 3520010002,
+  "districtId": 3520010,
+  "districtName": "PONCOL",
+  "name": "PONCOL",
+  "postalCode": "51122"
+ },
+ {
+  "id": 3520010003,
+  "districtId": 3520010,
+  "districtName": "PONCOL",
+  "name": "CILENG",
+  "postalCode": "63362"
+ },
+ {
+  "id": 3520010004,
+  "districtId": 3520010,
+  "districtName": "PONCOL",
+  "name": "SOMBO",
+  "postalCode": "67353"
+ },
+ {
+  "id": 3520010007,
+  "districtId": 3520010,
+  "districtName": "PONCOL",
+  "name": "PLANGKRONGAN",
+  "postalCode": "63362"
+ },
+ {
+  "id": 3520010008,
+  "districtId": 3520010,
+  "districtName": "PONCOL",
+  "name": "ALASTUWO",
+  "postalCode": "57762"
+ },
+ {
+  "id": 3520010009,
+  "districtId": 3520010,
+  "districtName": "PONCOL",
+  "name": "JANGGAN",
+  "postalCode": "63362"
+ },
+ {
+  "id": 3520010010,
+  "districtId": 3520010,
+  "districtName": "PONCOL",
+  "name": "GENILANGIT",
+  "postalCode": "63362"
+ }
+]

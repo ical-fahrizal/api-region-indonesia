@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3510060002,
+  "districtId": 3510060,
+  "districtName": "CLURING",
+  "name": "TAMPO",
+  "postalCode": "68482"
+ },
+ {
+  "id": 3510060003,
+  "districtId": 3510060,
+  "districtName": "CLURING",
+  "name": "PLAMPANGREJO",
+  "postalCode": "68482"
+ },
+ {
+  "id": 3510060004,
+  "districtId": 3510060,
+  "districtName": "CLURING",
+  "name": "KALIPLOSO",
+  "postalCode": "68482"
+ },
+ {
+  "id": 3510060006,
+  "districtId": 3510060,
+  "districtName": "CLURING",
+  "name": "CLURING",
+  "postalCode": "68482"
+ },
+ {
+  "id": 3510060007,
+  "districtId": 3510060,
+  "districtName": "CLURING",
+  "name": "TAMANAGUNG",
+  "postalCode": "56413"
+ },
+ {
+  "id": 3510060008,
+  "districtId": 3510060,
+  "districtName": "CLURING",
+  "name": "SRATEN",
+  "postalCode": "57557"
+ },
+ {
+  "id": 3510060009,
+  "districtId": 3510060,
+  "districtName": "CLURING",
+  "name": "SARIMULYO",
+  "postalCode": "59583"
+ }
+]

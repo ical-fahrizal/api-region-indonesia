@@ -1,0 +1,58 @@
+[
+ {
+  "id": 3204101001,
+  "districtId": 3204101,
+  "districtName": "NAGREG",
+  "name": "MANDALAWANGI",
+  "postalCode": "40554"
+ },
+ {
+  "id": 3204101002,
+  "districtId": 3204101,
+  "districtName": "NAGREG",
+  "name": "BOJONG",
+  "postalCode": "34385"
+ },
+ {
+  "id": 3204101003,
+  "districtId": 3204101,
+  "districtName": "NAGREG",
+  "name": "CIHERANG",
+  "postalCode": "35379"
+ },
+ {
+  "id": 3204101004,
+  "districtId": 3204101,
+  "districtName": "NAGREG",
+  "name": "CIARO",
+  "postalCode": "40215"
+ },
+ {
+  "id": 3204101005,
+  "districtId": 3204101,
+  "districtName": "NAGREG",
+  "name": "NAGREG",
+  "postalCode": "40215"
+ },
+ {
+  "id": 3204101006,
+  "districtId": 3204101,
+  "districtName": "NAGREG",
+  "name": "CITAMAN",
+  "postalCode": "40215"
+ },
+ {
+  "id": 3204101007,
+  "districtId": 3204101,
+  "districtName": "NAGREG",
+  "name": "NAGREG KENDAN",
+  "postalCode": "40215"
+ },
+ {
+  "id": 3204101008,
+  "districtId": 3204101,
+  "districtName": "NAGREG",
+  "name": "GANJAR SABAR",
+  "postalCode": "40215"
+ }
+]

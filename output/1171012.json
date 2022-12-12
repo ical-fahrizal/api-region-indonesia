@@ -1,0 +1,72 @@
+[
+ {
+  "id": 1171012001,
+  "districtId": 1171012,
+  "districtName": "BANDA RAYA",
+  "name": "LAM ARA",
+  "postalCode": "23238"
+ },
+ {
+  "id": 1171012002,
+  "districtId": 1171012,
+  "districtName": "BANDA RAYA",
+  "name": "LAMPUOT",
+  "postalCode": "23238"
+ },
+ {
+  "id": 1171012003,
+  "districtId": 1171012,
+  "districtName": "BANDA RAYA",
+  "name": "MIBO",
+  "postalCode": "23238"
+ },
+ {
+  "id": 1171012004,
+  "districtId": 1171012,
+  "districtName": "BANDA RAYA",
+  "name": "LHONG CUT",
+  "postalCode": "23238"
+ },
+ {
+  "id": 1171012005,
+  "districtId": 1171012,
+  "districtName": "BANDA RAYA",
+  "name": "LHONG RAYA",
+  "postalCode": "23238"
+ },
+ {
+  "id": 1171012006,
+  "districtId": 1171012,
+  "districtName": "BANDA RAYA",
+  "name": "PEUNYEURAT",
+  "postalCode": "23238"
+ },
+ {
+  "id": 1171012007,
+  "districtId": 1171012,
+  "districtName": "BANDA RAYA",
+  "name": "LAM LAGANG",
+  "postalCode": "23239"
+ },
+ {
+  "id": 1171012008,
+  "districtId": 1171012,
+  "districtName": "BANDA RAYA",
+  "name": "GEUCEU KOMPLEK",
+  "postalCode": "23239"
+ },
+ {
+  "id": 1171012009,
+  "districtId": 1171012,
+  "districtName": "BANDA RAYA",
+  "name": "GEUCEU INIEM",
+  "postalCode": "23239"
+ },
+ {
+  "id": 1171012010,
+  "districtId": 1171012,
+  "districtName": "BANDA RAYA",
+  "name": "GEUCEU KAYEE JATO",
+  "postalCode": "23239"
+ }
+]

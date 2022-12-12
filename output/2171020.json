@@ -1,0 +1,44 @@
+[
+ {
+  "id": 2171020001,
+  "districtId": 2171020,
+  "districtName": "BULANG",
+  "name": "PANTAI GELAM",
+  "postalCode": "29473"
+ },
+ {
+  "id": 2171020002,
+  "districtId": 2171020,
+  "districtName": "BULANG",
+  "name": "TEMOYONG",
+  "postalCode": "29475"
+ },
+ {
+  "id": 2171020003,
+  "districtId": 2171020,
+  "districtName": "BULANG",
+  "name": "PULAU SETOKOK",
+  "postalCode": "29476"
+ },
+ {
+  "id": 2171020004,
+  "districtId": 2171020,
+  "districtName": "BULANG",
+  "name": "BATU LEGONG",
+  "postalCode": "29474"
+ },
+ {
+  "id": 2171020005,
+  "districtId": 2171020,
+  "districtName": "BULANG",
+  "name": "BULANG LINTANG",
+  "postalCode": "29471"
+ },
+ {
+  "id": 2171020006,
+  "districtId": 2171020,
+  "districtName": "BULANG",
+  "name": "PULAU BULUH",
+  "postalCode": "29472"
+ }
+]

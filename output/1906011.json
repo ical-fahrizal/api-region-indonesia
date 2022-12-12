@@ -1,0 +1,30 @@
+[
+ {
+  "id": 1906011001,
+  "districtId": 1906011,
+  "districtName": "SIMPANG PESAK",
+  "name": "TANJUNG KELUMPANG",
+  "postalCode": "33561"
+ },
+ {
+  "id": 1906011002,
+  "districtId": 1906011,
+  "districtName": "SIMPANG PESAK",
+  "name": "TANJUNG BATU ITAM",
+  "postalCode": "33561"
+ },
+ {
+  "id": 1906011003,
+  "districtId": 1906011,
+  "districtName": "SIMPANG PESAK",
+  "name": "DUKONG",
+  "postalCode": "33561"
+ },
+ {
+  "id": 1906011004,
+  "districtId": 1906011,
+  "districtName": "SIMPANG PESAK",
+  "name": "SIMPANG PESAK",
+  "postalCode": "33561"
+ }
+]

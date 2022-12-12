@@ -1,0 +1,58 @@
+[
+ {
+  "id": 1708080001,
+  "districtId": 1708080,
+  "districtName": "MERIGI",
+  "name": "LUBUK PENYAMUN",
+  "postalCode": "39371"
+ },
+ {
+  "id": 1708080002,
+  "districtId": 1708080,
+  "districtName": "MERIGI",
+  "name": "BUKIT BARISAN",
+  "postalCode": "39371"
+ },
+ {
+  "id": 1708080003,
+  "districtId": 1708080,
+  "districtName": "MERIGI",
+  "name": "DURIAN DEPUN",
+  "postalCode": "39371"
+ },
+ {
+  "id": 1708080004,
+  "districtId": 1708080,
+  "districtName": "MERIGI",
+  "name": "PULO GETO",
+  "postalCode": ""
+ },
+ {
+  "id": 1708080005,
+  "districtId": 1708080,
+  "districtName": "MERIGI",
+  "name": "TABA MULAN",
+  "postalCode": "39371"
+ },
+ {
+  "id": 1708080006,
+  "districtId": 1708080,
+  "districtName": "MERIGI",
+  "name": "SIMPANG KOTA BINGIN",
+  "postalCode": "39371"
+ },
+ {
+  "id": 1708080007,
+  "districtId": 1708080,
+  "districtName": "MERIGI",
+  "name": "BATU AMPAR",
+  "postalCode": "29274"
+ },
+ {
+  "id": 1708080008,
+  "districtId": 1708080,
+  "districtName": "MERIGI",
+  "name": "PULO GETO BARU",
+  "postalCode": "39371"
+ }
+]

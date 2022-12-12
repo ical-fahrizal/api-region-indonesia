@@ -1,0 +1,30 @@
+[
+ {
+  "id": 3402100001,
+  "districtId": 3402100,
+  "districtName": "DLINGO",
+  "name": "MANGUNAN",
+  "postalCode": "59422"
+ },
+ {
+  "id": 3402100003,
+  "districtId": 3402100,
+  "districtName": "DLINGO",
+  "name": "DLINGO",
+  "postalCode": "57322"
+ },
+ {
+  "id": 3402100005,
+  "districtId": 3402100,
+  "districtName": "DLINGO",
+  "name": "JATIMULYO",
+  "postalCode": "35365"
+ },
+ {
+  "id": 3402100006,
+  "districtId": 3402100,
+  "districtName": "DLINGO",
+  "name": "TERONG",
+  "postalCode": "33414"
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1275180001,
+  "districtId": 1275180,
+  "districtName": "MEDAN DELI",
+  "name": "TANJUNG MULIA",
+  "postalCode": "20854"
+ },
+ {
+  "id": 1275180002,
+  "districtId": 1275180,
+  "districtName": "MEDAN DELI",
+  "name": "TANJUNG MULIA HILIR",
+  "postalCode": "20241"
+ },
+ {
+  "id": 1275180003,
+  "districtId": 1275180,
+  "districtName": "MEDAN DELI",
+  "name": "MABAR HILIR",
+  "postalCode": "20242"
+ },
+ {
+  "id": 1275180004,
+  "districtId": 1275180,
+  "districtName": "MEDAN DELI",
+  "name": "M A B A R",
+  "postalCode": ""
+ },
+ {
+  "id": 1275180005,
+  "districtId": 1275180,
+  "districtName": "MEDAN DELI",
+  "name": "KOTA BANGUN",
+  "postalCode": "20243"
+ },
+ {
+  "id": 1275180006,
+  "districtId": 1275180,
+  "districtName": "MEDAN DELI",
+  "name": "TITI PAPAN",
+  "postalCode": "20244"
+ }
+]

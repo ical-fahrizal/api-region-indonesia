@@ -1,0 +1,65 @@
+[
+ {
+  "id": 7171010001,
+  "districtId": 7171010,
+  "districtName": "MALALAYANG",
+  "name": "MALALAYANG II",
+  "postalCode": ""
+ },
+ {
+  "id": 7171010002,
+  "districtId": 7171010,
+  "districtName": "MALALAYANG",
+  "name": "MALALAYANG I",
+  "postalCode": ""
+ },
+ {
+  "id": 7171010004,
+  "districtId": 7171010,
+  "districtName": "MALALAYANG",
+  "name": "BAHU",
+  "postalCode": "95115"
+ },
+ {
+  "id": 7171010005,
+  "districtId": 7171010,
+  "districtName": "MALALAYANG",
+  "name": "KLEAK",
+  "postalCode": "95115"
+ },
+ {
+  "id": 7171010006,
+  "districtId": 7171010,
+  "districtName": "MALALAYANG",
+  "name": "MALALAYANG I TIMUR",
+  "postalCode": ""
+ },
+ {
+  "id": 7171010007,
+  "districtId": 7171010,
+  "districtName": "MALALAYANG",
+  "name": "MALALAYANG I BARAT",
+  "postalCode": ""
+ },
+ {
+  "id": 7171010008,
+  "districtId": 7171010,
+  "districtName": "MALALAYANG",
+  "name": "WINANGUN I",
+  "postalCode": ""
+ },
+ {
+  "id": 7171010009,
+  "districtId": 7171010,
+  "districtName": "MALALAYANG",
+  "name": "WINANGUN II",
+  "postalCode": ""
+ },
+ {
+  "id": 7171010010,
+  "districtId": 7171010,
+  "districtName": "MALALAYANG",
+  "name": "BATU KOTA",
+  "postalCode": "95163"
+ }
+]

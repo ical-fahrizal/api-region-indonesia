@@ -1,0 +1,44 @@
+[
+ {
+  "id": 8205031001,
+  "districtId": 8205031,
+  "districtName": "TOBELO BARAT",
+  "name": "KUSURI",
+  "postalCode": "97762"
+ },
+ {
+  "id": 8205031002,
+  "districtId": 8205031,
+  "districtName": "TOBELO BARAT",
+  "name": "SUKAMAJU",
+  "postalCode": "22465"
+ },
+ {
+  "id": 8205031003,
+  "districtId": 8205031,
+  "districtName": "TOBELO BARAT",
+  "name": "TOGOLIUA",
+  "postalCode": "97762"
+ },
+ {
+  "id": 8205031004,
+  "districtId": 8205031,
+  "districtName": "TOBELO BARAT",
+  "name": "BIRINOA",
+  "postalCode": "97762"
+ },
+ {
+  "id": 8205031005,
+  "districtId": 8205031,
+  "districtName": "TOBELO BARAT",
+  "name": "WANGONGIRA",
+  "postalCode": "97762"
+ },
+ {
+  "id": 8205031006,
+  "districtId": 8205031,
+  "districtName": "TOBELO BARAT",
+  "name": "UPT TOGOLIUA",
+  "postalCode": ""
+ }
+]

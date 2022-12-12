@@ -1,0 +1,23 @@
+[
+ {
+  "id": 9402185001,
+  "districtId": 9402185,
+  "districtName": "WAME",
+  "name": "DOGONAME",
+  "postalCode": "99554"
+ },
+ {
+  "id": 9402185002,
+  "districtId": 9402185,
+  "districtName": "WAME",
+  "name": "YANENGGAME",
+  "postalCode": "99554"
+ },
+ {
+  "id": 9402185003,
+  "districtId": 9402185,
+  "districtName": "WAME",
+  "name": "DUMAPAGA",
+  "postalCode": "99554"
+ }
+]

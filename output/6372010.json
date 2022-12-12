@@ -1,0 +1,30 @@
+[
+ {
+  "id": 6372010003,
+  "districtId": 6372010,
+  "districtName": "LANDASAN ULIN",
+  "name": "LANDASAN ULIN TIMUR",
+  "postalCode": "70724"
+ },
+ {
+  "id": 6372010004,
+  "districtId": 6372010,
+  "districtName": "LANDASAN ULIN",
+  "name": "GUNTUNG PAYUNG",
+  "postalCode": "70721"
+ },
+ {
+  "id": 6372010006,
+  "districtId": 6372010,
+  "districtName": "LANDASAN ULIN",
+  "name": "SYAMSUDIN NOOR",
+  "postalCode": "70724"
+ },
+ {
+  "id": 6372010007,
+  "districtId": 6372010,
+  "districtName": "LANDASAN ULIN",
+  "name": "GUNTUNGMANGGIS",
+  "postalCode": ""
+ }
+]

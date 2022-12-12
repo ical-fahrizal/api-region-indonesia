@@ -1,0 +1,93 @@
+[
+ {
+  "id": 1608100001,
+  "districtId": 1608100,
+  "districtName": "PULAU BERINGIN",
+  "name": "GUNUNG BATU",
+  "postalCode": "32384"
+ },
+ {
+  "id": 1608100002,
+  "districtId": 1608100,
+  "districtName": "PULAU BERINGIN",
+  "name": "KEMU",
+  "postalCode": "32273"
+ },
+ {
+  "id": 1608100003,
+  "districtId": 1608100,
+  "districtName": "PULAU BERINGIN",
+  "name": "SIMPANG PANCUR",
+  "postalCode": "32273"
+ },
+ {
+  "id": 1608100004,
+  "districtId": 1608100,
+  "districtName": "PULAU BERINGIN",
+  "name": "PAGAR AGUNG",
+  "postalCode": "31417"
+ },
+ {
+  "id": 1608100005,
+  "districtId": 1608100,
+  "districtName": "PULAU BERINGIN",
+  "name": "TANJUNG KARI",
+  "postalCode": "32273"
+ },
+ {
+  "id": 1608100006,
+  "districtId": 1608100,
+  "districtName": "PULAU BERINGIN",
+  "name": "AROMANTAI",
+  "postalCode": "31591"
+ },
+ {
+  "id": 1608100007,
+  "districtId": 1608100,
+  "districtName": "PULAU BERINGIN",
+  "name": "PULAU BERINGIN",
+  "postalCode": "31452"
+ },
+ {
+  "id": 1608100008,
+  "districtId": 1608100,
+  "districtName": "PULAU BERINGIN",
+  "name": "TANJUNG BULAN",
+  "postalCode": "32361"
+ },
+ {
+  "id": 1608100026,
+  "districtId": 1608100,
+  "districtName": "PULAU BERINGIN",
+  "name": "PEMATANG OBAR",
+  "postalCode": "32273"
+ },
+ {
+  "id": 1608100027,
+  "districtId": 1608100,
+  "districtName": "PULAU BERINGIN",
+  "name": "ANUGERAH KEMU",
+  "postalCode": "32273"
+ },
+ {
+  "id": 1608100028,
+  "districtId": 1608100,
+  "districtName": "PULAU BERINGIN",
+  "name": "KEMU ULU",
+  "postalCode": "32273"
+ },
+ {
+  "id": 1608100029,
+  "districtId": 1608100,
+  "districtName": "PULAU BERINGIN",
+  "name": "PULAU BERINGIN UTARA",
+  "postalCode": "32273"
+ },
+ {
+  "id": 1608100030,
+  "districtId": 1608100,
+  "districtName": "PULAU BERINGIN",
+  "name": "TANJUNG BULAN ULU",
+  "postalCode": "32273"
+ }
+]

@@ -1,0 +1,93 @@
+[
+ {
+  "id": 9107110004,
+  "districtId": 9107110,
+  "districtName": "BERAUR",
+  "name": "WANURIAN",
+  "postalCode": "98453"
+ },
+ {
+  "id": 9107110015,
+  "districtId": 9107110,
+  "districtName": "BERAUR",
+  "name": "KLABRA",
+  "postalCode": "98453"
+ },
+ {
+  "id": 9107110016,
+  "districtId": 9107110,
+  "districtName": "BERAUR",
+  "name": "KAAS",
+  "postalCode": "98453"
+ },
+ {
+  "id": 9107110017,
+  "districtId": 9107110,
+  "districtName": "BERAUR",
+  "name": "KLARION",
+  "postalCode": "98453"
+ },
+ {
+  "id": 9107110019,
+  "districtId": 9107110,
+  "districtName": "BERAUR",
+  "name": "MUMPI",
+  "postalCode": "98453"
+ },
+ {
+  "id": 9107110020,
+  "districtId": 9107110,
+  "districtName": "BERAUR",
+  "name": "WENSI",
+  "postalCode": "98453"
+ },
+ {
+  "id": 9107110021,
+  "districtId": 9107110,
+  "districtName": "BERAUR",
+  "name": "SERSELION",
+  "postalCode": ""
+ },
+ {
+  "id": 9107110022,
+  "districtId": 9107110,
+  "districtName": "BERAUR",
+  "name": "KLAWOM",
+  "postalCode": ""
+ },
+ {
+  "id": 9107110023,
+  "districtId": 9107110,
+  "districtName": "BERAUR",
+  "name": "KLAMAK",
+  "postalCode": ""
+ },
+ {
+  "id": 9107110024,
+  "districtId": 9107110,
+  "districtName": "BERAUR",
+  "name": "KMAFO",
+  "postalCode": ""
+ },
+ {
+  "id": 9107110025,
+  "districtId": 9107110,
+  "districtName": "BERAUR",
+  "name": "MIDLAL",
+  "postalCode": ""
+ },
+ {
+  "id": 9107110026,
+  "districtId": 9107110,
+  "districtName": "BERAUR",
+  "name": "SORAIN",
+  "postalCode": ""
+ },
+ {
+  "id": 9107110027,
+  "districtId": 9107110,
+  "districtName": "BERAUR",
+  "name": "ARMOIN",
+  "postalCode": ""
+ }
+]

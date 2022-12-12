@@ -1,0 +1,30 @@
+[
+ {
+  "id": 1271031001,
+  "districtId": 1271031,
+  "districtName": "SIBOLGA SAMBAS",
+  "name": "PANCURAN PINANG",
+  "postalCode": "22534"
+ },
+ {
+  "id": 1271031002,
+  "districtId": 1271031,
+  "districtName": "SIBOLGA SAMBAS",
+  "name": "PANCURAN KERAMBIL",
+  "postalCode": "22531"
+ },
+ {
+  "id": 1271031003,
+  "districtId": 1271031,
+  "districtName": "SIBOLGA SAMBAS",
+  "name": "PANCURAN DEWA",
+  "postalCode": "22532"
+ },
+ {
+  "id": 1271031004,
+  "districtId": 1271031,
+  "districtName": "SIBOLGA SAMBAS",
+  "name": "PANCURAN BAMBU",
+  "postalCode": "22535"
+ }
+]

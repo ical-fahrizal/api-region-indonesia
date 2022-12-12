@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1471050001,
+  "districtId": 1471050,
+  "districtName": "PEKANBARU KOTA",
+  "name": "SIMPANG EMPAT",
+  "postalCode": "24313"
+ },
+ {
+  "id": 1471050002,
+  "districtId": 1471050,
+  "districtName": "PEKANBARU KOTA",
+  "name": "SUMAHILANG",
+  "postalCode": ""
+ },
+ {
+  "id": 1471050003,
+  "districtId": 1471050,
+  "districtName": "PEKANBARU KOTA",
+  "name": "TANAH DATAR",
+  "postalCode": "28556"
+ },
+ {
+  "id": 1471050004,
+  "districtId": 1471050,
+  "districtName": "PEKANBARU KOTA",
+  "name": "KOTA BARU",
+  "postalCode": "23125"
+ },
+ {
+  "id": 1471050005,
+  "districtId": 1471050,
+  "districtName": "PEKANBARU KOTA",
+  "name": "SUKARAMAI",
+  "postalCode": "23243"
+ },
+ {
+  "id": 1471050006,
+  "districtId": 1471050,
+  "districtName": "PEKANBARU KOTA",
+  "name": "KOTA TINGGI",
+  "postalCode": "28112"
+ }
+]

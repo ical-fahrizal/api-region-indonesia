@@ -1,0 +1,44 @@
+[
+ {
+  "id": 5304081001,
+  "districtId": 5304081,
+  "districtName": "FAUTMOLO",
+  "name": "SILLU",
+  "postalCode": "85363"
+ },
+ {
+  "id": 5304081002,
+  "districtId": 5304081,
+  "districtName": "FAUTMOLO",
+  "name": "OELEON",
+  "postalCode": "85572"
+ },
+ {
+  "id": 5304081003,
+  "districtId": 5304081,
+  "districtName": "FAUTMOLO",
+  "name": "KAENENO",
+  "postalCode": "85572"
+ },
+ {
+  "id": 5304081004,
+  "districtId": 5304081,
+  "districtName": "FAUTMOLO",
+  "name": "NUNUHAKNITI",
+  "postalCode": "85572"
+ },
+ {
+  "id": 5304081006,
+  "districtId": 5304081,
+  "districtName": "FAUTMOLO",
+  "name": "BILEON",
+  "postalCode": "85572"
+ },
+ {
+  "id": 5304081007,
+  "districtId": 5304081,
+  "districtName": "FAUTMOLO",
+  "name": "TUNIS",
+  "postalCode": "85572"
+ }
+]

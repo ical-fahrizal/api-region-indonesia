@@ -1,0 +1,44 @@
+[
+ {
+  "id": 3512110001,
+  "districtId": 3512110,
+  "districtName": "MANGARAN",
+  "name": "TREBUNGAN",
+  "postalCode": "68363"
+ },
+ {
+  "id": 3512110002,
+  "districtId": 3512110,
+  "districtName": "MANGARAN",
+  "name": "MANGARAN",
+  "postalCode": "68175"
+ },
+ {
+  "id": 3512110003,
+  "districtId": 3512110,
+  "districtName": "MANGARAN",
+  "name": "TANJUNG KAMAL",
+  "postalCode": "68363"
+ },
+ {
+  "id": 3512110004,
+  "districtId": 3512110,
+  "districtName": "MANGARAN",
+  "name": "TANJUNG GLUGUR",
+  "postalCode": "68363"
+ },
+ {
+  "id": 3512110005,
+  "districtId": 3512110,
+  "districtName": "MANGARAN",
+  "name": "TANJUNG PECINAN",
+  "postalCode": "68363"
+ },
+ {
+  "id": 3512110006,
+  "districtId": 3512110,
+  "districtName": "MANGARAN",
+  "name": "SEMIRING",
+  "postalCode": "68363"
+ }
+]

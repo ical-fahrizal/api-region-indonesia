@@ -1,0 +1,44 @@
+[
+ {
+  "id": 9414061001,
+  "districtId": 9414061,
+  "districtName": "KAIBAR",
+  "name": "FOMU",
+  "postalCode": "99875"
+ },
+ {
+  "id": 9414061002,
+  "districtId": 9414061,
+  "districtName": "KAIBAR",
+  "name": "TIAU",
+  "postalCode": "99875"
+ },
+ {
+  "id": 9414061003,
+  "districtId": 9414061,
+  "districtName": "KAIBAR",
+  "name": "BINERBIS",
+  "postalCode": "99875"
+ },
+ {
+  "id": 9414061005,
+  "districtId": 9414061,
+  "districtName": "KAIBAR",
+  "name": "AMASU",
+  "postalCode": ""
+ },
+ {
+  "id": 9414061006,
+  "districtId": 9414061,
+  "districtName": "KAIBAR",
+  "name": "IMEMBI",
+  "postalCode": "99875"
+ },
+ {
+  "id": 9414061008,
+  "districtId": 9414061,
+  "districtName": "KAIBAR",
+  "name": "TAYAU",
+  "postalCode": "99875"
+ }
+]

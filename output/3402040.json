@@ -1,0 +1,23 @@
+[
+ {
+  "id": 3402040001,
+  "districtId": 3402040,
+  "districtName": "PUNDONG",
+  "name": "SELOHARJO",
+  "postalCode": "55771"
+ },
+ {
+  "id": 3402040002,
+  "districtId": 3402040,
+  "districtName": "PUNDONG",
+  "name": "PANJANGREJO",
+  "postalCode": "55771"
+ },
+ {
+  "id": 3402040003,
+  "districtId": 3402040,
+  "districtName": "PUNDONG",
+  "name": "SRIHARDONO",
+  "postalCode": "55771"
+ }
+]

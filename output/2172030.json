@@ -1,0 +1,30 @@
+[
+ {
+  "id": 2172030001,
+  "districtId": 2172030,
+  "districtName": "TANJUNGPINANG KOTA",
+  "name": "TANJUNGPINANG KOTA",
+  "postalCode": ""
+ },
+ {
+  "id": 2172030002,
+  "districtId": 2172030,
+  "districtName": "TANJUNGPINANG KOTA",
+  "name": "PENYENGAT",
+  "postalCode": "28662"
+ },
+ {
+  "id": 2172030003,
+  "districtId": 2172030,
+  "districtName": "TANJUNGPINANG KOTA",
+  "name": "KAMPUNG BUGIS",
+  "postalCode": "29115"
+ },
+ {
+  "id": 2172030004,
+  "districtId": 2172030,
+  "districtName": "TANJUNGPINANG KOTA",
+  "name": "SENGGARANG",
+  "postalCode": "29111"
+ }
+]

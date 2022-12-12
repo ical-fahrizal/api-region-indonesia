@@ -1,0 +1,50 @@
+[
+ {
+  "id": 7303010,
+  "regencieId": 7303,
+  "regencieName": "KABUPATEN BANTAENG",
+  "name": "BISSAPPU"
+ },
+ {
+  "id": 7303011,
+  "regencieId": 7303,
+  "regencieName": "KABUPATEN BANTAENG",
+  "name": "ULUERE"
+ },
+ {
+  "id": 7303012,
+  "regencieId": 7303,
+  "regencieName": "KABUPATEN BANTAENG",
+  "name": "SINOA"
+ },
+ {
+  "id": 7303020,
+  "regencieId": 7303,
+  "regencieName": "KABUPATEN BANTAENG",
+  "name": "BANTAENG"
+ },
+ {
+  "id": 7303021,
+  "regencieId": 7303,
+  "regencieName": "KABUPATEN BANTAENG",
+  "name": "EREMERASA"
+ },
+ {
+  "id": 7303030,
+  "regencieId": 7303,
+  "regencieName": "KABUPATEN BANTAENG",
+  "name": "TOMPOBULU"
+ },
+ {
+  "id": 7303031,
+  "regencieId": 7303,
+  "regencieName": "KABUPATEN BANTAENG",
+  "name": "PA'JUKUKANG"
+ },
+ {
+  "id": 7303032,
+  "regencieId": 7303,
+  "regencieName": "KABUPATEN BANTAENG",
+  "name": "GANTARANGKEKE"
+ }
+]

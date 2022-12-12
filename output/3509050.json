@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3509050001,
+  "districtId": 3509050,
+  "districtName": "AMBULU",
+  "name": "SUMBERREJO",
+  "postalCode": "59184"
+ },
+ {
+  "id": 3509050002,
+  "districtId": 3509050,
+  "districtName": "AMBULU",
+  "name": "ANDONGSARI",
+  "postalCode": "68172"
+ },
+ {
+  "id": 3509050003,
+  "districtId": 3509050,
+  "districtName": "AMBULU",
+  "name": "SABRANG",
+  "postalCode": "57471"
+ },
+ {
+  "id": 3509050004,
+  "districtId": 3509050,
+  "districtName": "AMBULU",
+  "name": "AMBULU",
+  "postalCode": "45192"
+ },
+ {
+  "id": 3509050005,
+  "districtId": 3509050,
+  "districtName": "AMBULU",
+  "name": "PONTANG",
+  "postalCode": "68172"
+ },
+ {
+  "id": 3509050006,
+  "districtId": 3509050,
+  "districtName": "AMBULU",
+  "name": "KARANG ANYAR",
+  "postalCode": "24415"
+ },
+ {
+  "id": 3509050007,
+  "districtId": 3509050,
+  "districtName": "AMBULU",
+  "name": "TEGALSARI",
+  "postalCode": "35372"
+ }
+]

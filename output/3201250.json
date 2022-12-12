@@ -1,0 +1,65 @@
+[
+ {
+  "id": 3201250001,
+  "districtId": 3201250,
+  "districtName": "GUNUNG SINDUR",
+  "name": "JAMPANG",
+  "postalCode": "16340"
+ },
+ {
+  "id": 3201250002,
+  "districtId": 3201250,
+  "districtName": "GUNUNG SINDUR",
+  "name": "CIBADUNG",
+  "postalCode": "16340"
+ },
+ {
+  "id": 3201250003,
+  "districtId": 3201250,
+  "districtName": "GUNUNG SINDUR",
+  "name": "CIBINONG",
+  "postalCode": "16911"
+ },
+ {
+  "id": 3201250004,
+  "districtId": 3201250,
+  "districtName": "GUNUNG SINDUR",
+  "name": "CIDOKOM",
+  "postalCode": "16340"
+ },
+ {
+  "id": 3201250005,
+  "districtId": 3201250,
+  "districtName": "GUNUNG SINDUR",
+  "name": "PADURENAN",
+  "postalCode": "16340"
+ },
+ {
+  "id": 3201250007,
+  "districtId": 3201250,
+  "districtName": "GUNUNG SINDUR",
+  "name": "RAWAKALONG",
+  "postalCode": "16340"
+ },
+ {
+  "id": 3201250008,
+  "districtId": 3201250,
+  "districtName": "GUNUNG SINDUR",
+  "name": "PENGASINAN",
+  "postalCode": "16340"
+ },
+ {
+  "id": 3201250009,
+  "districtId": 3201250,
+  "districtName": "GUNUNG SINDUR",
+  "name": "GUNUNG SINDUR",
+  "postalCode": "16340"
+ },
+ {
+  "id": 3201250010,
+  "districtId": 3201250,
+  "districtName": "GUNUNG SINDUR",
+  "name": "PABUARAN",
+  "postalCode": "16921"
+ }
+]

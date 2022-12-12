@@ -1,0 +1,58 @@
+[
+ {
+  "id": 1806010001,
+  "districtId": 1806010,
+  "districtName": "BUKIT KEMUNING",
+  "name": "TANJUNG BARU",
+  "postalCode": "22742"
+ },
+ {
+  "id": 1806010002,
+  "districtId": 1806010,
+  "districtName": "BUKIT KEMUNING",
+  "name": "TANJUNG BARU TIMUR",
+  "postalCode": "34556"
+ },
+ {
+  "id": 1806010005,
+  "districtId": 1806010,
+  "districtName": "BUKIT KEMUNING",
+  "name": "BUKIT KEMUNING",
+  "postalCode": "24563"
+ },
+ {
+  "id": 1806010006,
+  "districtId": 1806010,
+  "districtName": "BUKIT KEMUNING",
+  "name": "MUARA AMAN",
+  "postalCode": "23891"
+ },
+ {
+  "id": 1806010007,
+  "districtId": 1806010,
+  "districtName": "BUKIT KEMUNING",
+  "name": "SUKA MENANTI",
+  "postalCode": "38965"
+ },
+ {
+  "id": 1806010008,
+  "districtId": 1806010,
+  "districtName": "BUKIT KEMUNING",
+  "name": "TANJUNG WARAS",
+  "postalCode": "34556"
+ },
+ {
+  "id": 1806010015,
+  "districtId": 1806010,
+  "districtName": "BUKIT KEMUNING",
+  "name": "DWIKORA",
+  "postalCode": "21118"
+ },
+ {
+  "id": 1806010016,
+  "districtId": 1806010,
+  "districtName": "BUKIT KEMUNING",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
+ }
+]

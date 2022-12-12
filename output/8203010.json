@@ -1,0 +1,44 @@
+[
+ {
+  "id": 8203010004,
+  "districtId": 8203010,
+  "districtName": "SULA BESI BARAT",
+  "name": "WAI INA",
+  "postalCode": "97795"
+ },
+ {
+  "id": 8203010005,
+  "districtId": 8203010,
+  "districtName": "SULA BESI BARAT",
+  "name": "KABAU DARAT",
+  "postalCode": "97795"
+ },
+ {
+  "id": 8203010006,
+  "districtId": 8203010,
+  "districtName": "SULA BESI BARAT",
+  "name": "ONA",
+  "postalCode": "97795"
+ },
+ {
+  "id": 8203010008,
+  "districtId": 8203010,
+  "districtName": "SULA BESI BARAT",
+  "name": "KABAU PANTAI",
+  "postalCode": "97795"
+ },
+ {
+  "id": 8203010009,
+  "districtId": 8203010,
+  "districtName": "SULA BESI BARAT",
+  "name": "NAHI",
+  "postalCode": "97795"
+ },
+ {
+  "id": 8203010010,
+  "districtId": 8203010,
+  "districtName": "SULA BESI BARAT",
+  "name": "PARATINA",
+  "postalCode": "97795"
+ }
+]

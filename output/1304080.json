@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1304080001,
+  "districtId": 1304080,
+  "districtName": "IV NAGARI",
+  "name": "MUNDAM SAKTI",
+  "postalCode": "27561"
+ },
+ {
+  "id": 1304080002,
+  "districtId": 1304080,
+  "districtName": "IV NAGARI",
+  "name": "KOTO BARU",
+  "postalCode": "27561"
+ },
+ {
+  "id": 1304080003,
+  "districtId": 1304080,
+  "districtName": "IV NAGARI",
+  "name": "MUARO BODI",
+  "postalCode": "27561"
+ },
+ {
+  "id": 1304080004,
+  "districtId": 1304080,
+  "districtName": "IV NAGARI",
+  "name": "PALANGKI",
+  "postalCode": "27561"
+ },
+ {
+  "id": 1304080005,
+  "districtId": 1304080,
+  "districtName": "IV NAGARI",
+  "name": "KOTO TUO",
+  "postalCode": "26271"
+ }
+]

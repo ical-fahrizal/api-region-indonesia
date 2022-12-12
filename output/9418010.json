@@ -1,0 +1,65 @@
+[
+ {
+  "id": 9418010009,
+  "districtId": 9418010,
+  "districtName": "KANGGIME",
+  "name": "AULANI",
+  "postalCode": "99568"
+ },
+ {
+  "id": 9418010010,
+  "districtId": 9418010,
+  "districtName": "KANGGIME",
+  "name": "KANGGIME",
+  "postalCode": "99568"
+ },
+ {
+  "id": 9418010022,
+  "districtId": 9418010,
+  "districtName": "KANGGIME",
+  "name": "LOGON",
+  "postalCode": "99568"
+ },
+ {
+  "id": 9418010023,
+  "districtId": 9418010,
+  "districtName": "KANGGIME",
+  "name": "MARLO",
+  "postalCode": "99568"
+ },
+ {
+  "id": 9418010032,
+  "districtId": 9418010,
+  "districtName": "KANGGIME",
+  "name": "LIGIMBAK",
+  "postalCode": ""
+ },
+ {
+  "id": 9418010033,
+  "districtId": 9418010,
+  "districtName": "KANGGIME",
+  "name": "KUGIMALUK",
+  "postalCode": ""
+ },
+ {
+  "id": 9418010034,
+  "districtId": 9418010,
+  "districtName": "KANGGIME",
+  "name": "PURUGI",
+  "postalCode": "99562"
+ },
+ {
+  "id": 9418010035,
+  "districtId": 9418010,
+  "districtName": "KANGGIME",
+  "name": "KERENA",
+  "postalCode": "99568"
+ },
+ {
+  "id": 9418010041,
+  "districtId": 9418010,
+  "districtName": "KANGGIME",
+  "name": "LAWOR",
+  "postalCode": ""
+ }
+]

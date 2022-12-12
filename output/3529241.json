@@ -1,0 +1,65 @@
+[
+ {
+  "id": 3529241001,
+  "districtId": 3529241,
+  "districtName": "KANGAYAN",
+  "name": "SAOBI",
+  "postalCode": "69491"
+ },
+ {
+  "id": 3529241002,
+  "districtId": 3529241,
+  "districtName": "KANGAYAN",
+  "name": "KANGAYAN",
+  "postalCode": "69491"
+ },
+ {
+  "id": 3529241003,
+  "districtId": 3529241,
+  "districtName": "KANGAYAN",
+  "name": "TOERJEK",
+  "postalCode": ""
+ },
+ {
+  "id": 3529241004,
+  "districtId": 3529241,
+  "districtName": "KANGAYAN",
+  "name": "CANGKRAMAAN",
+  "postalCode": ""
+ },
+ {
+  "id": 3529241005,
+  "districtId": 3529241,
+  "districtName": "KANGAYAN",
+  "name": "TEMBAYANGAN",
+  "postalCode": "69491"
+ },
+ {
+  "id": 3529241006,
+  "districtId": 3529241,
+  "districtName": "KANGAYAN",
+  "name": "BATUPUTIH",
+  "postalCode": "69491"
+ },
+ {
+  "id": 3529241007,
+  "districtId": 3529241,
+  "districtName": "KANGAYAN",
+  "name": "DAANDUNG",
+  "postalCode": "69491"
+ },
+ {
+  "id": 3529241008,
+  "districtId": 3529241,
+  "districtName": "KANGAYAN",
+  "name": "TIMUR JANJANG",
+  "postalCode": "69491"
+ },
+ {
+  "id": 3529241009,
+  "districtId": 3529241,
+  "districtName": "KANGAYAN",
+  "name": "JUKONG JUKONG",
+  "postalCode": "69491"
+ }
+]

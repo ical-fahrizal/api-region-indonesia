@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3578260001,
+  "districtId": 3578260,
+  "districtName": "KREMBANGAN",
+  "name": "DUPAK",
+  "postalCode": "60179"
+ },
+ {
+  "id": 3578260002,
+  "districtId": 3578260,
+  "districtName": "KREMBANGAN",
+  "name": "MOROKREMBANGAN",
+  "postalCode": ""
+ },
+ {
+  "id": 3578260003,
+  "districtId": 3578260,
+  "districtName": "KREMBANGAN",
+  "name": "PERAK BARAT",
+  "postalCode": "60177"
+ },
+ {
+  "id": 3578260004,
+  "districtId": 3578260,
+  "districtName": "KREMBANGAN",
+  "name": "KEMAYORAN",
+  "postalCode": "10620"
+ },
+ {
+  "id": 3578260005,
+  "districtId": 3578260,
+  "districtName": "KREMBANGAN",
+  "name": "KREMBANGAN SELATAN",
+  "postalCode": "60175"
+ }
+]

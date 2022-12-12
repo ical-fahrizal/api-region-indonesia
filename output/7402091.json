@@ -1,0 +1,44 @@
+[
+ {
+  "id": 7402091001,
+  "districtId": 7402091,
+  "districtName": "PASIR PUTIH",
+  "name": "LIWUMETINGKI",
+  "postalCode": "93674"
+ },
+ {
+  "id": 7402091002,
+  "districtId": 7402091,
+  "districtName": "PASIR PUTIH",
+  "name": "KAMOSOPE",
+  "postalCode": "93674"
+ },
+ {
+  "id": 7402091007,
+  "districtId": 7402091,
+  "districtName": "PASIR PUTIH",
+  "name": "POLA",
+  "postalCode": ""
+ },
+ {
+  "id": 7402091008,
+  "districtId": 7402091,
+  "districtName": "PASIR PUTIH",
+  "name": "KOGHOLIFANO",
+  "postalCode": ""
+ },
+ {
+  "id": 7402091009,
+  "districtId": 7402091,
+  "districtName": "PASIR PUTIH",
+  "name": "LABULAWA",
+  "postalCode": "93674"
+ },
+ {
+  "id": 7402091011,
+  "districtId": 7402091,
+  "districtName": "PASIR PUTIH",
+  "name": "WANGGUALI",
+  "postalCode": ""
+ }
+]

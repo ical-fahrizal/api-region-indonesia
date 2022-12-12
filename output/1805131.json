@@ -1,0 +1,72 @@
+[
+ {
+  "id": 1805131001,
+  "districtId": 1805131,
+  "districtName": "BANDAR SURABAYA",
+  "name": "RAJA WALI",
+  "postalCode": "34159"
+ },
+ {
+  "id": 1805131002,
+  "districtId": 1805131,
+  "districtName": "BANDAR SURABAYA",
+  "name": "SURABAYA ILIR",
+  "postalCode": "34159"
+ },
+ {
+  "id": 1805131003,
+  "districtId": 1805131,
+  "districtName": "BANDAR SURABAYA",
+  "name": "BERINGIN JAYA",
+  "postalCode": "21464"
+ },
+ {
+  "id": 1805131004,
+  "districtId": 1805131,
+  "districtName": "BANDAR SURABAYA",
+  "name": "CEMPAKA PUTIH",
+  "postalCode": "36134"
+ },
+ {
+  "id": 1805131005,
+  "districtId": 1805131,
+  "districtName": "BANDAR SURABAYA",
+  "name": "SIDO DADI",
+  "postalCode": "34159"
+ },
+ {
+  "id": 1805131006,
+  "districtId": 1805131,
+  "districtName": "BANDAR SURABAYA",
+  "name": "CABANG",
+  "postalCode": "34159"
+ },
+ {
+  "id": 1805131007,
+  "districtId": 1805131,
+  "districtName": "BANDAR SURABAYA",
+  "name": "SUMBER AGUNG",
+  "postalCode": "37353"
+ },
+ {
+  "id": 1805131008,
+  "districtId": 1805131,
+  "districtName": "BANDAR SURABAYA",
+  "name": "GAYA BARU LIMA",
+  "postalCode": "34159"
+ },
+ {
+  "id": 1805131009,
+  "districtId": 1805131,
+  "districtName": "BANDAR SURABAYA",
+  "name": "SUBANG JAYA",
+  "postalCode": "34159"
+ },
+ {
+  "id": 1805131010,
+  "districtId": 1805131,
+  "districtName": "BANDAR SURABAYA",
+  "name": "SURABAYA BARU",
+  "postalCode": "34159"
+ }
+]

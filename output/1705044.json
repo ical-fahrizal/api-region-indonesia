@@ -1,0 +1,72 @@
+[
+ {
+  "id": 1705044001,
+  "districtId": 1705044,
+  "districtName": "SELUMA UTARA",
+  "name": "SIMPANG",
+  "postalCode": "23773"
+ },
+ {
+  "id": 1705044002,
+  "districtId": 1705044,
+  "districtName": "SELUMA UTARA",
+  "name": "SELINGSINGAN",
+  "postalCode": "38884"
+ },
+ {
+  "id": 1705044003,
+  "districtId": 1705044,
+  "districtName": "SELUMA UTARA",
+  "name": "PUGUK",
+  "postalCode": "38884"
+ },
+ {
+  "id": 1705044004,
+  "districtId": 1705044,
+  "districtName": "SELUMA UTARA",
+  "name": "PANDAN",
+  "postalCode": "22611"
+ },
+ {
+  "id": 1705044005,
+  "districtId": 1705044,
+  "districtName": "SELUMA UTARA",
+  "name": "TALANG BERINGIN",
+  "postalCode": "38962"
+ },
+ {
+  "id": 1705044006,
+  "districtId": 1705044,
+  "districtName": "SELUMA UTARA",
+  "name": "TALANG RAMI",
+  "postalCode": "38884"
+ },
+ {
+  "id": 1705044007,
+  "districtId": 1705044,
+  "districtName": "SELUMA UTARA",
+  "name": "LUBUK RESAM",
+  "postalCode": "37382"
+ },
+ {
+  "id": 1705044008,
+  "districtId": 1705044,
+  "districtName": "SELUMA UTARA",
+  "name": "SEKALAK",
+  "postalCode": "38884"
+ },
+ {
+  "id": 1705044009,
+  "districtId": 1705044,
+  "districtName": "SELUMA UTARA",
+  "name": "SINAR PAGI",
+  "postalCode": "38963"
+ },
+ {
+  "id": 1705044010,
+  "districtId": 1705044,
+  "districtName": "SELUMA UTARA",
+  "name": "TALANG EMPAT",
+  "postalCode": "38385"
+ }
+]

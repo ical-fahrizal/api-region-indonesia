@@ -1,0 +1,30 @@
+[
+ {
+  "id": 9110081001,
+  "districtId": 9110081,
+  "districtName": "AYAMARU UTARA TIMUR",
+  "name": "SUWIAM",
+  "postalCode": "98461"
+ },
+ {
+  "id": 9110081002,
+  "districtId": 9110081,
+  "districtName": "AYAMARU UTARA TIMUR",
+  "name": "MAPURA",
+  "postalCode": "98461"
+ },
+ {
+  "id": 9110081003,
+  "districtId": 9110081,
+  "districtName": "AYAMARU UTARA TIMUR",
+  "name": "KARFA",
+  "postalCode": "98461"
+ },
+ {
+  "id": 9110081005,
+  "districtId": 9110081,
+  "districtName": "AYAMARU UTARA TIMUR",
+  "name": "FRABOH",
+  "postalCode": ""
+ }
+]

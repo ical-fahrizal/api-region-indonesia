@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1871090005,
+  "districtId": 1871090,
+  "districtName": "SUKARAME",
+  "name": "SUKARAME",
+  "postalCode": "24357"
+ },
+ {
+  "id": 1871090009,
+  "districtId": 1871090,
+  "districtName": "SUKARAME",
+  "name": "WAY DADI",
+  "postalCode": "35131"
+ },
+ {
+  "id": 1871090011,
+  "districtId": 1871090,
+  "districtName": "SUKARAME",
+  "name": "KORPRI JAYA",
+  "postalCode": "35131"
+ },
+ {
+  "id": 1871090012,
+  "districtId": 1871090,
+  "districtName": "SUKARAME",
+  "name": "WAY DADI BARU",
+  "postalCode": "35131"
+ },
+ {
+  "id": 1871090013,
+  "districtId": 1871090,
+  "districtName": "SUKARAME",
+  "name": "KORPRI RAYA",
+  "postalCode": "35131"
+ },
+ {
+  "id": 1871090014,
+  "districtId": 1871090,
+  "districtName": "SUKARAME",
+  "name": "SUKARAME BARU",
+  "postalCode": "35131"
+ }
+]

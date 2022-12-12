@@ -1,0 +1,51 @@
+[
+ {
+  "id": 8204071001,
+  "districtId": 8204071,
+  "districtName": "MAKIAN BARAT",
+  "name": "OMBAWA",
+  "postalCode": "97756"
+ },
+ {
+  "id": 8204071002,
+  "districtId": 8204071,
+  "districtName": "MAKIAN BARAT",
+  "name": "BOBAWAE",
+  "postalCode": ""
+ },
+ {
+  "id": 8204071003,
+  "districtId": 8204071,
+  "districtName": "MAKIAN BARAT",
+  "name": "MALAPAT",
+  "postalCode": "97756"
+ },
+ {
+  "id": 8204071004,
+  "districtId": 8204071,
+  "districtName": "MAKIAN BARAT",
+  "name": "SEBELEI",
+  "postalCode": ""
+ },
+ {
+  "id": 8204071005,
+  "districtId": 8204071,
+  "districtName": "MAKIAN BARAT",
+  "name": "TALAPAO",
+  "postalCode": "97764"
+ },
+ {
+  "id": 8204071006,
+  "districtId": 8204071,
+  "districtName": "MAKIAN BARAT",
+  "name": "MATEKETEN",
+  "postalCode": ""
+ },
+ {
+  "id": 8204071007,
+  "districtId": 8204071,
+  "districtName": "MAKIAN BARAT",
+  "name": "TEGONO",
+  "postalCode": "97756"
+ }
+]

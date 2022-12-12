@@ -1,0 +1,23 @@
+[
+ {
+  "id": 1301012001,
+  "districtId": 1301012,
+  "districtName": "SIKAKAP",
+  "name": "TAIKAKO",
+  "postalCode": "25391"
+ },
+ {
+  "id": 1301012002,
+  "districtId": 1301012,
+  "districtName": "SIKAKAP",
+  "name": "SIKAKAP",
+  "postalCode": "25391"
+ },
+ {
+  "id": 1301012003,
+  "districtId": 1301012,
+  "districtName": "SIKAKAP",
+  "name": "MATOBE",
+  "postalCode": ""
+ }
+]

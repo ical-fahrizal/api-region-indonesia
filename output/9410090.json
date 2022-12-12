@@ -1,0 +1,44 @@
+[
+ {
+  "id": 9410090001,
+  "districtId": 9410090,
+  "districtName": "BOGOBAIDA",
+  "name": "UWAGI",
+  "postalCode": "98769"
+ },
+ {
+  "id": 9410090002,
+  "districtId": 9410090,
+  "districtName": "BOGOBAIDA",
+  "name": "NOMOUWODIDE",
+  "postalCode": "98769"
+ },
+ {
+  "id": 9410090003,
+  "districtId": 9410090,
+  "districtName": "BOGOBAIDA",
+  "name": "BOGOBAIDA / BOGODIDE",
+  "postalCode": ""
+ },
+ {
+  "id": 9410090004,
+  "districtId": 9410090,
+  "districtName": "BOGOBAIDA",
+  "name": "NAWIPAWO",
+  "postalCode": ""
+ },
+ {
+  "id": 9410090005,
+  "districtId": 9410090,
+  "districtName": "BOGOBAIDA",
+  "name": "IPOUWO",
+  "postalCode": ""
+ },
+ {
+  "id": 9410090006,
+  "districtId": 9410090,
+  "districtName": "BOGOBAIDA",
+  "name": "PIYAMO",
+  "postalCode": ""
+ }
+]

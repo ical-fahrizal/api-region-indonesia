@@ -1,0 +1,44 @@
+[
+ {
+  "id": 3373010001,
+  "districtId": 3373010,
+  "districtName": "ARGOMULYO",
+  "name": "NOBOREJO",
+  "postalCode": "50736"
+ },
+ {
+  "id": 3373010002,
+  "districtId": 3373010,
+  "districtName": "ARGOMULYO",
+  "name": "CEBONGAN",
+  "postalCode": "50736"
+ },
+ {
+  "id": 3373010003,
+  "districtId": 3373010,
+  "districtName": "ARGOMULYO",
+  "name": "RANDUACIR",
+  "postalCode": "50735"
+ },
+ {
+  "id": 3373010004,
+  "districtId": 3373010,
+  "districtName": "ARGOMULYO",
+  "name": "LEDOK",
+  "postalCode": "50732"
+ },
+ {
+  "id": 3373010005,
+  "districtId": 3373010,
+  "districtName": "ARGOMULYO",
+  "name": "TEGALREJO",
+  "postalCode": "50733"
+ },
+ {
+  "id": 3373010006,
+  "districtId": 3373010,
+  "districtName": "ARGOMULYO",
+  "name": "KUMPULREJO",
+  "postalCode": "50734"
+ }
+]

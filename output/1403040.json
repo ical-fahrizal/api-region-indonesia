@@ -1,0 +1,72 @@
+[
+ {
+  "id": 1403040001,
+  "districtId": 1403040,
+  "districtName": "TANAH MERAH",
+  "name": "SUNGAI NYIUR",
+  "postalCode": "29271"
+ },
+ {
+  "id": 1403040002,
+  "districtId": 1403040,
+  "districtName": "TANAH MERAH",
+  "name": "SELAT NAMA",
+  "postalCode": "29271"
+ },
+ {
+  "id": 1403040003,
+  "districtId": 1403040,
+  "districtName": "TANAH MERAH",
+  "name": "KUALA ENOK",
+  "postalCode": "29271"
+ },
+ {
+  "id": 1403040004,
+  "districtId": 1403040,
+  "districtName": "TANAH MERAH",
+  "name": "SUNGAI LAUT",
+  "postalCode": "29271"
+ },
+ {
+  "id": 1403040005,
+  "districtId": 1403040,
+  "districtName": "TANAH MERAH",
+  "name": "TANJUNG PASIR",
+  "postalCode": "21457"
+ },
+ {
+  "id": 1403040006,
+  "districtId": 1403040,
+  "districtName": "TANAH MERAH",
+  "name": "TANAH MERAH",
+  "postalCode": "24652"
+ },
+ {
+  "id": 1403040007,
+  "districtId": 1403040,
+  "districtName": "TANAH MERAH",
+  "name": "TANJUNG BARU",
+  "postalCode": "22742"
+ },
+ {
+  "id": 1403040008,
+  "districtId": 1403040,
+  "districtName": "TANAH MERAH",
+  "name": "TEKULAI HULU",
+  "postalCode": "29271"
+ },
+ {
+  "id": 1403040009,
+  "districtId": 1403040,
+  "districtName": "TANAH MERAH",
+  "name": "TEKULAI HILIR",
+  "postalCode": "29271"
+ },
+ {
+  "id": 1403040010,
+  "districtId": 1403040,
+  "districtName": "TANAH MERAH",
+  "name": "TEKULAI BUGIS",
+  "postalCode": "29271"
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "id": 3279040001,
+  "districtId": 3279040,
+  "districtName": "LANGENSARI",
+  "name": "KUJANGSARI",
+  "postalCode": "40287"
+ },
+ {
+  "id": 3279040002,
+  "districtId": 3279040,
+  "districtName": "LANGENSARI",
+  "name": "BOJONGKANTONG",
+  "postalCode": "46325"
+ },
+ {
+  "id": 3279040003,
+  "districtId": 3279040,
+  "districtName": "LANGENSARI",
+  "name": "REJASARI",
+  "postalCode": "46344"
+ },
+ {
+  "id": 3279040004,
+  "districtId": 3279040,
+  "districtName": "LANGENSARI",
+  "name": "LANGENSARI",
+  "postalCode": "41259"
+ },
+ {
+  "id": 3279040005,
+  "districtId": 3279040,
+  "districtName": "LANGENSARI",
+  "name": "MUKTISARI",
+  "postalCode": "45467"
+ },
+ {
+  "id": 3279040006,
+  "districtId": 3279040,
+  "districtName": "LANGENSARI",
+  "name": "WARINGINSARI",
+  "postalCode": "46342"
+ }
+]

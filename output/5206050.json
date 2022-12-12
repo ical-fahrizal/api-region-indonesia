@@ -1,0 +1,65 @@
+[
+ {
+  "id": 5206050011,
+  "districtId": 5206050,
+  "districtName": "WAWO",
+  "name": "TARLAWI",
+  "postalCode": "84181"
+ },
+ {
+  "id": 5206050012,
+  "districtId": 5206050,
+  "districtName": "WAWO",
+  "name": "RABA",
+  "postalCode": "84181"
+ },
+ {
+  "id": 5206050013,
+  "districtId": 5206050,
+  "districtName": "WAWO",
+  "name": "PESA",
+  "postalCode": "84181"
+ },
+ {
+  "id": 5206050015,
+  "districtId": 5206050,
+  "districtName": "WAWO",
+  "name": "NTORI",
+  "postalCode": "84181"
+ },
+ {
+  "id": 5206050016,
+  "districtId": 5206050,
+  "districtName": "WAWO",
+  "name": "MARIA",
+  "postalCode": "84181"
+ },
+ {
+  "id": 5206050018,
+  "districtId": 5206050,
+  "districtName": "WAWO",
+  "name": "KAMBILO",
+  "postalCode": "84181"
+ },
+ {
+  "id": 5206050019,
+  "districtId": 5206050,
+  "districtName": "WAWO",
+  "name": "KOMBO",
+  "postalCode": "84181"
+ },
+ {
+  "id": 5206050020,
+  "districtId": 5206050,
+  "districtName": "WAWO",
+  "name": "MARIA UTARA",
+  "postalCode": "84181"
+ },
+ {
+  "id": 5206050021,
+  "districtId": 5206050,
+  "districtName": "WAWO",
+  "name": "RIAMAU",
+  "postalCode": ""
+ }
+]

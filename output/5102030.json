@@ -1,0 +1,72 @@
+[
+ {
+  "id": 5102030001,
+  "districtId": 5102030,
+  "districtName": "TABANAN",
+  "name": "SUDIMARA",
+  "postalCode": "53162"
+ },
+ {
+  "id": 5102030002,
+  "districtId": 5102030,
+  "districtName": "TABANAN",
+  "name": "BONGAN",
+  "postalCode": ""
+ },
+ {
+  "id": 5102030004,
+  "districtId": 5102030,
+  "districtName": "TABANAN",
+  "name": "DAUH PEKEN",
+  "postalCode": "82111"
+ },
+ {
+  "id": 5102030005,
+  "districtId": 5102030,
+  "districtName": "TABANAN",
+  "name": "DELOD PEKEN",
+  "postalCode": "82113"
+ },
+ {
+  "id": 5102030006,
+  "districtId": 5102030,
+  "districtName": "TABANAN",
+  "name": "DAJAN PEKEN",
+  "postalCode": ""
+ },
+ {
+  "id": 5102030007,
+  "districtId": 5102030,
+  "districtName": "TABANAN",
+  "name": "SUBAMIA",
+  "postalCode": "82115"
+ },
+ {
+  "id": 5102030008,
+  "districtId": 5102030,
+  "districtName": "TABANAN",
+  "name": "DENBANTAS",
+  "postalCode": "82115"
+ },
+ {
+  "id": 5102030009,
+  "districtId": 5102030,
+  "districtName": "TABANAN",
+  "name": "BUAHAN",
+  "postalCode": "80652"
+ },
+ {
+  "id": 5102030011,
+  "districtId": 5102030,
+  "districtName": "TABANAN",
+  "name": "WANASARI",
+  "postalCode": "43273"
+ },
+ {
+  "id": 5102030012,
+  "districtId": 5102030,
+  "districtName": "TABANAN",
+  "name": "SESANDAN",
+  "postalCode": "82115"
+ }
+]

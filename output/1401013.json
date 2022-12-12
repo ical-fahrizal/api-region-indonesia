@@ -1,0 +1,72 @@
+[
+ {
+  "id": 1401013001,
+  "districtId": 1401013,
+  "districtName": "PUCUK RANTAU",
+  "name": "PERHENTIAN SUNGKAI",
+  "postalCode": "29564"
+ },
+ {
+  "id": 1401013002,
+  "districtId": 1401013,
+  "districtName": "PUCUK RANTAU",
+  "name": "SUNGAI BESAR",
+  "postalCode": "29874"
+ },
+ {
+  "id": 1401013003,
+  "districtId": 1401013,
+  "districtName": "PUCUK RANTAU",
+  "name": "SUNGAI BESAR HILIR",
+  "postalCode": ""
+ },
+ {
+  "id": 1401013004,
+  "districtId": 1401013,
+  "districtName": "PUCUK RANTAU",
+  "name": "IBUL",
+  "postalCode": "29564"
+ },
+ {
+  "id": 1401013005,
+  "districtId": 1401013,
+  "districtName": "PUCUK RANTAU",
+  "name": "KAMPUNG BARU IBUL",
+  "postalCode": "29564"
+ },
+ {
+  "id": 1401013006,
+  "districtId": 1401013,
+  "districtName": "PUCUK RANTAU",
+  "name": "PANGKALAN",
+  "postalCode": "24477"
+ },
+ {
+  "id": 1401013007,
+  "districtId": 1401013,
+  "districtName": "PUCUK RANTAU",
+  "name": "MUARO TOBEK",
+  "postalCode": ""
+ },
+ {
+  "id": 1401013008,
+  "districtId": 1401013,
+  "districtName": "PUCUK RANTAU",
+  "name": "MUARO TIU MAKMUR",
+  "postalCode": "29564"
+ },
+ {
+  "id": 1401013009,
+  "districtId": 1401013,
+  "districtName": "PUCUK RANTAU",
+  "name": "MUARA PETAI",
+  "postalCode": ""
+ },
+ {
+  "id": 1401013010,
+  "districtId": 1401013,
+  "districtName": "PUCUK RANTAU",
+  "name": "SETIANG",
+  "postalCode": "29564"
+ }
+]

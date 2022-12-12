@@ -1,0 +1,30 @@
+[
+ {
+  "id": 9171025001,
+  "districtId": 9171025,
+  "districtName": "MALAIMSIMSA",
+  "name": "KLAGETE",
+  "postalCode": "98416"
+ },
+ {
+  "id": 9171025003,
+  "districtId": 9171025,
+  "districtName": "MALAIMSIMSA",
+  "name": "MALAINGKEDI",
+  "postalCode": "98419"
+ },
+ {
+  "id": 9171025005,
+  "districtId": 9171025,
+  "districtName": "MALAIMSIMSA",
+  "name": "MALAMSO",
+  "postalCode": ""
+ },
+ {
+  "id": 9171025006,
+  "districtId": 9171025,
+  "districtName": "MALAIMSIMSA",
+  "name": "KLABULU",
+  "postalCode": ""
+ }
+]

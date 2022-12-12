@@ -1,0 +1,72 @@
+[
+ {
+  "id": 7305060003,
+  "districtId": 7305060,
+  "districtName": "GALESONG UTARA",
+  "name": "BONTO SUNGGU",
+  "postalCode": "92451"
+ },
+ {
+  "id": 7305060004,
+  "districtId": 7305060,
+  "districtName": "GALESONG UTARA",
+  "name": "TAMASAJU",
+  "postalCode": "92255"
+ },
+ {
+  "id": 7305060005,
+  "districtId": 7305060,
+  "districtName": "GALESONG UTARA",
+  "name": "BONTOLEBANG",
+  "postalCode": "92811"
+ },
+ {
+  "id": 7305060006,
+  "districtId": 7305060,
+  "districtName": "GALESONG UTARA",
+  "name": "TAMALATE",
+  "postalCode": "92255"
+ },
+ {
+  "id": 7305060007,
+  "districtId": 7305060,
+  "districtName": "GALESONG UTARA",
+  "name": "AENG BATU-BATU",
+  "postalCode": "92255"
+ },
+ {
+  "id": 7305060008,
+  "districtId": 7305060,
+  "districtName": "GALESONG UTARA",
+  "name": "BONTO LANRA",
+  "postalCode": "92255"
+ },
+ {
+  "id": 7305060009,
+  "districtId": 7305060,
+  "districtName": "GALESONG UTARA",
+  "name": "PAKKABBA",
+  "postalCode": "92255"
+ },
+ {
+  "id": 7305060010,
+  "districtId": 7305060,
+  "districtName": "GALESONG UTARA",
+  "name": "AENG TOWA",
+  "postalCode": "92255"
+ },
+ {
+  "id": 7305060011,
+  "districtId": 7305060,
+  "districtName": "GALESONG UTARA",
+  "name": "SAMPULUNGAN",
+  "postalCode": "92255"
+ },
+ {
+  "id": 7305060012,
+  "districtId": 7305060,
+  "districtName": "GALESONG UTARA",
+  "name": "BONTOKADDOPEPE",
+  "postalCode": "92255"
+ }
+]

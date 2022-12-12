@@ -1,0 +1,44 @@
+[
+ {
+  "id": 6502080001,
+  "districtId": 6502080,
+  "districtName": "TANJUNG PALAS UTARA",
+  "name": "PIMPING",
+  "postalCode": "71471"
+ },
+ {
+  "id": 6502080002,
+  "districtId": 6502080,
+  "districtName": "TANJUNG PALAS UTARA",
+  "name": "KELUBIR",
+  "postalCode": "77215"
+ },
+ {
+  "id": 6502080003,
+  "districtId": 6502080,
+  "districtName": "TANJUNG PALAS UTARA",
+  "name": "KARANG AGUNG",
+  "postalCode": "31315"
+ },
+ {
+  "id": 6502080004,
+  "districtId": 6502080,
+  "districtName": "TANJUNG PALAS UTARA",
+  "name": "RUHUI RAHAYU",
+  "postalCode": "77215"
+ },
+ {
+  "id": 6502080005,
+  "districtId": 6502080,
+  "districtName": "TANJUNG PALAS UTARA",
+  "name": "PANCA AGUNG",
+  "postalCode": "77215"
+ },
+ {
+  "id": 6502080006,
+  "districtId": 6502080,
+  "districtName": "TANJUNG PALAS UTARA",
+  "name": "ARDI MULYA",
+  "postalCode": "77215"
+ }
+]

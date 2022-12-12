@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3510020001,
+  "districtId": 3510020,
+  "districtName": "BANGOREJO",
+  "name": "SUKOREJO",
+  "postalCode": "31551"
+ },
+ {
+  "id": 3510020002,
+  "districtId": 3510020,
+  "districtName": "BANGOREJO",
+  "name": "RINGINTELU",
+  "postalCode": "68487"
+ },
+ {
+  "id": 3510020003,
+  "districtId": 3510020,
+  "districtName": "BANGOREJO",
+  "name": "SAMBIREJO",
+  "postalCode": "39153"
+ },
+ {
+  "id": 3510020004,
+  "districtId": 3510020,
+  "districtName": "BANGOREJO",
+  "name": "SAMBIMULYO",
+  "postalCode": "68487"
+ },
+ {
+  "id": 3510020006,
+  "districtId": 3510020,
+  "districtName": "BANGOREJO",
+  "name": "TEMUREJO",
+  "postalCode": "58219"
+ },
+ {
+  "id": 3510020007,
+  "districtId": 3510020,
+  "districtName": "BANGOREJO",
+  "name": "BANGOREJO",
+  "postalCode": "68487"
+ },
+ {
+  "id": 3510020008,
+  "districtId": 3510020,
+  "districtName": "BANGOREJO",
+  "name": "KEBONDALEM",
+  "postalCode": "53471"
+ }
+]

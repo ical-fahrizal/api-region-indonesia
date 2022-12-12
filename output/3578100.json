@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3578100001,
+  "districtId": 3578100,
+  "districtName": "GUBENG",
+  "name": "BARATAJAYA",
+  "postalCode": "60284"
+ },
+ {
+  "id": 3578100002,
+  "districtId": 3578100,
+  "districtName": "GUBENG",
+  "name": "PUCANG SEWU",
+  "postalCode": "60283"
+ },
+ {
+  "id": 3578100003,
+  "districtId": 3578100,
+  "districtName": "GUBENG",
+  "name": "KERTAJAYA",
+  "postalCode": "45255"
+ },
+ {
+  "id": 3578100005,
+  "districtId": 3578100,
+  "districtName": "GUBENG",
+  "name": "AIRLANGGA",
+  "postalCode": "60286"
+ },
+ {
+  "id": 3578100006,
+  "districtId": 3578100,
+  "districtName": "GUBENG",
+  "name": "MOJO",
+  "postalCode": "57384"
+ }
+]

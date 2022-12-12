@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1208042001,
+  "districtId": 1208042,
+  "districtName": "SEI KEPAYANG TIMUR",
+  "name": "SEI LUNANG",
+  "postalCode": "21381"
+ },
+ {
+  "id": 1208042002,
+  "districtId": 1208042,
+  "districtName": "SEI KEPAYANG TIMUR",
+  "name": "SEI PASIR",
+  "postalCode": "21381"
+ },
+ {
+  "id": 1208042003,
+  "districtId": 1208042,
+  "districtName": "SEI KEPAYANG TIMUR",
+  "name": "SEI TEMPURUNG",
+  "postalCode": "21381"
+ },
+ {
+  "id": 1208042004,
+  "districtId": 1208042,
+  "districtName": "SEI KEPAYANG TIMUR",
+  "name": "SARANG HELANG",
+  "postalCode": "21381"
+ },
+ {
+  "id": 1208042005,
+  "districtId": 1208042,
+  "districtName": "SEI KEPAYANG TIMUR",
+  "name": "SEI SEMBILANG",
+  "postalCode": "21381"
+ }
+]

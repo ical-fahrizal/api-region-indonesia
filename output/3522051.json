@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3522051001,
+  "districtId": 3522051,
+  "districtName": "GONDANG",
+  "name": "KRONDONAN",
+  "postalCode": "62172"
+ },
+ {
+  "id": 3522051002,
+  "districtId": 3522051,
+  "districtName": "GONDANG",
+  "name": "SAMBONGREJO",
+  "postalCode": "58254"
+ },
+ {
+  "id": 3522051003,
+  "districtId": 3522051,
+  "districtName": "GONDANG",
+  "name": "PAJENG",
+  "postalCode": "62172"
+ },
+ {
+  "id": 3522051004,
+  "districtId": 3522051,
+  "districtName": "GONDANG",
+  "name": "GONDANG",
+  "postalCode": "51255"
+ },
+ {
+  "id": 3522051005,
+  "districtId": 3522051,
+  "districtName": "GONDANG",
+  "name": "JARI",
+  "postalCode": "62172"
+ },
+ {
+  "id": 3522051006,
+  "districtId": 3522051,
+  "districtName": "GONDANG",
+  "name": "SENGATEN",
+  "postalCode": "62172"
+ },
+ {
+  "id": 3522051007,
+  "districtId": 3522051,
+  "districtName": "GONDANG",
+  "name": "PRAGELAN",
+  "postalCode": "62172"
+ }
+]

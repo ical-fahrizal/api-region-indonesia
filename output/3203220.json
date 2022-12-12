@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3203220001,
+  "districtId": 3203220,
+  "districtName": "PACET",
+  "name": "CIPUTRI",
+  "postalCode": "43281"
+ },
+ {
+  "id": 3203220002,
+  "districtId": 3203220,
+  "districtName": "PACET",
+  "name": "CIHERANG",
+  "postalCode": "35379"
+ },
+ {
+  "id": 3203220003,
+  "districtId": 3203220,
+  "districtName": "PACET",
+  "name": "CIPENDAWA",
+  "postalCode": "43253"
+ },
+ {
+  "id": 3203220004,
+  "districtId": 3203220,
+  "districtName": "PACET",
+  "name": "CIBODAS",
+  "postalCode": "43353"
+ },
+ {
+  "id": 3203220005,
+  "districtId": 3203220,
+  "districtName": "PACET",
+  "name": "GADOG",
+  "postalCode": "16770"
+ },
+ {
+  "id": 3203220008,
+  "districtId": 3203220,
+  "districtName": "PACET",
+  "name": "SUKATANI",
+  "postalCode": "41384"
+ },
+ {
+  "id": 3203220014,
+  "districtId": 3203220,
+  "districtName": "PACET",
+  "name": "SUKANAGALIH",
+  "postalCode": "43253"
+ }
+]

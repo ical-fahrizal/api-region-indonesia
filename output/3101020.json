@@ -1,0 +1,23 @@
+[
+ {
+  "id": 3101020001,
+  "districtId": 3101020,
+  "districtName": "KEPULAUAN SERIBU UTARA",
+  "name": "PULAU PANGGANG",
+  "postalCode": "14530"
+ },
+ {
+  "id": 3101020002,
+  "districtId": 3101020,
+  "districtName": "KEPULAUAN SERIBU UTARA",
+  "name": "PULAU KELAPA",
+  "postalCode": "14540"
+ },
+ {
+  "id": 3101020003,
+  "districtId": 3101020,
+  "districtName": "KEPULAUAN SERIBU UTARA",
+  "name": "PULAU HARAPAN",
+  "postalCode": "30953"
+ }
+]

@@ -1,0 +1,121 @@
+[
+ {
+  "id": 1302100001,
+  "districtId": 1302100,
+  "districtName": "BAYANG",
+  "name": "PASAR BARU",
+  "postalCode": "22163"
+ },
+ {
+  "id": 1302100002,
+  "districtId": 1302100,
+  "districtName": "BAYANG",
+  "name": "TALAOK",
+  "postalCode": "25652"
+ },
+ {
+  "id": 1302100003,
+  "districtId": 1302100,
+  "districtName": "BAYANG",
+  "name": "KOTO BARAPAK",
+  "postalCode": ""
+ },
+ {
+  "id": 1302100004,
+  "districtId": 1302100,
+  "districtName": "BAYANG",
+  "name": "GURUN PANJANG",
+  "postalCode": "25652"
+ },
+ {
+  "id": 1302100005,
+  "districtId": 1302100,
+  "districtName": "BAYANG",
+  "name": "API-API PASAR BARU",
+  "postalCode": "25652"
+ },
+ {
+  "id": 1302100006,
+  "districtId": 1302100,
+  "districtName": "BAYANG",
+  "name": "TANJUNG DURIAN PASAR BARU",
+  "postalCode": ""
+ },
+ {
+  "id": 1302100007,
+  "districtId": 1302100,
+  "districtName": "BAYANG",
+  "name": "ASAM KAMBA PASAR BARU",
+  "postalCode": ""
+ },
+ {
+  "id": 1302100008,
+  "districtId": 1302100,
+  "districtName": "BAYANG",
+  "name": "SAWAH LAWEH PASAR BARU",
+  "postalCode": ""
+ },
+ {
+  "id": 1302100009,
+  "districtId": 1302100,
+  "districtName": "BAYANG",
+  "name": "KAPEH PANJI JAYA TALAOK",
+  "postalCode": "25652"
+ },
+ {
+  "id": 1302100010,
+  "districtId": 1302100,
+  "districtName": "BAYANG",
+  "name": "AUR BEGALUNG TALAOK",
+  "postalCode": "25652"
+ },
+ {
+  "id": 1302100011,
+  "districtId": 1302100,
+  "districtName": "BAYANG",
+  "name": "KAPELGAM KOTO BARAPAK",
+  "postalCode": ""
+ },
+ {
+  "id": 1302100012,
+  "districtId": 1302100,
+  "districtName": "BAYANG",
+  "name": "KAPUJAN KOTO BARAPAK",
+  "postalCode": ""
+ },
+ {
+  "id": 1302100013,
+  "districtId": 1302100,
+  "districtName": "BAYANG",
+  "name": "KOTO BARU KOTO BARAPAK",
+  "postalCode": ""
+ },
+ {
+  "id": 1302100014,
+  "districtId": 1302100,
+  "districtName": "BAYANG",
+  "name": "KUBANG KOTO BARAPAK",
+  "postalCode": ""
+ },
+ {
+  "id": 1302100015,
+  "districtId": 1302100,
+  "districtName": "BAYANG",
+  "name": "GURUN PANJANG SELATAN",
+  "postalCode": "25652"
+ },
+ {
+  "id": 1302100016,
+  "districtId": 1302100,
+  "districtName": "BAYANG",
+  "name": "GURUN PANJANG UTARA",
+  "postalCode": "25652"
+ },
+ {
+  "id": 1302100017,
+  "districtId": 1302100,
+  "districtName": "BAYANG",
+  "name": "GURUN PANJANG BARAT",
+  "postalCode": "25652"
+ }
+]

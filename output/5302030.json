@@ -1,0 +1,51 @@
+[
+ {
+  "id": 5302030010,
+  "districtId": 5302030,
+  "districtName": "PABERIWAI",
+  "name": "KANANGGAR",
+  "postalCode": "87171"
+ },
+ {
+  "id": 5302030011,
+  "districtId": 5302030,
+  "districtName": "PABERIWAI",
+  "name": "KARERA JANGGA",
+  "postalCode": "87171"
+ },
+ {
+  "id": 5302030018,
+  "districtId": 5302030,
+  "districtName": "PABERIWAI",
+  "name": "MEHANG MATA",
+  "postalCode": ""
+ },
+ {
+  "id": 5302030020,
+  "districtId": 5302030,
+  "districtName": "PABERIWAI",
+  "name": "PRAI MBANA",
+  "postalCode": "87171"
+ },
+ {
+  "id": 5302030021,
+  "districtId": 5302030,
+  "districtName": "PABERIWAI",
+  "name": "PABERA MANERA",
+  "postalCode": ""
+ },
+ {
+  "id": 5302030025,
+  "districtId": 5302030,
+  "districtName": "PABERIWAI",
+  "name": "WINU MURU",
+  "postalCode": ""
+ },
+ {
+  "id": 5302030026,
+  "districtId": 5302030,
+  "districtName": "PABERIWAI",
+  "name": "LAI TAKU",
+  "postalCode": ""
+ }
+]

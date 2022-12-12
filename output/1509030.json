@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1509030004,
+  "districtId": 1509030,
+  "districtName": "RANTAU PANDAN",
+  "name": "LEBAN",
+  "postalCode": "37261"
+ },
+ {
+  "id": 1509030005,
+  "districtId": 1509030,
+  "districtName": "RANTAU PANDAN",
+  "name": "LUBUK KAYU ARO",
+  "postalCode": "37261"
+ },
+ {
+  "id": 1509030012,
+  "districtId": 1509030,
+  "districtName": "RANTAU PANDAN",
+  "name": "TALANG SUNGAI BUNGO",
+  "postalCode": "37261"
+ },
+ {
+  "id": 1509030013,
+  "districtId": 1509030,
+  "districtName": "RANTAU PANDAN",
+  "name": "RANTAU PANDAN",
+  "postalCode": "37261"
+ },
+ {
+  "id": 1509030014,
+  "districtId": 1509030,
+  "districtName": "RANTAU PANDAN",
+  "name": "RANTAU DUKU",
+  "postalCode": "37261"
+ },
+ {
+  "id": 1509030015,
+  "districtId": 1509030,
+  "districtName": "RANTAU PANDAN",
+  "name": "LUBUK MAYAN",
+  "postalCode": "37261"
+ }
+]

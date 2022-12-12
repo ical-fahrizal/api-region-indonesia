@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3578040001,
+  "districtId": 3578040,
+  "districtName": "WONOCOLO",
+  "name": "SIWALANKERTO",
+  "postalCode": "60236"
+ },
+ {
+  "id": 3578040002,
+  "districtId": 3578040,
+  "districtName": "WONOCOLO",
+  "name": "JEMUR WONOSARI",
+  "postalCode": "60237"
+ },
+ {
+  "id": 3578040003,
+  "districtId": 3578040,
+  "districtName": "WONOCOLO",
+  "name": "MARGOREJO",
+  "postalCode": "32386"
+ },
+ {
+  "id": 3578040004,
+  "districtId": 3578040,
+  "districtName": "WONOCOLO",
+  "name": "BENDUL MERISI",
+  "postalCode": "60239"
+ },
+ {
+  "id": 3578040005,
+  "districtId": 3578040,
+  "districtName": "WONOCOLO",
+  "name": "SIDOSERMO",
+  "postalCode": "60239"
+ }
+]

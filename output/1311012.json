@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1311012001,
+  "districtId": 1311012,
+  "districtName": "ASAM JUJUHAN",
+  "name": "LUBUK BESAR",
+  "postalCode": "21255"
+ },
+ {
+  "id": 1311012002,
+  "districtId": 1311012,
+  "districtName": "ASAM JUJUHAN",
+  "name": "ALAHAN NAN TIGO",
+  "postalCode": "27684"
+ },
+ {
+  "id": 1311012003,
+  "districtId": 1311012,
+  "districtName": "ASAM JUJUHAN",
+  "name": "SUNGAI LIMAU",
+  "postalCode": "28763"
+ },
+ {
+  "id": 1311012004,
+  "districtId": 1311012,
+  "districtName": "ASAM JUJUHAN",
+  "name": "SINAMAR",
+  "postalCode": "27684"
+ },
+ {
+  "id": 1311012005,
+  "districtId": 1311012,
+  "districtName": "ASAM JUJUHAN",
+  "name": "TANJUNG ALAM",
+  "postalCode": "21272"
+ }
+]

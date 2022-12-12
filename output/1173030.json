@@ -1,0 +1,72 @@
+[
+ {
+  "id": 1173030001,
+  "districtId": 1173030,
+  "districtName": "LANGSA KOTA",
+  "name": "GAMPONG TEUNGOH",
+  "postalCode": "24416"
+ },
+ {
+  "id": 1173030002,
+  "districtId": 1173030,
+  "districtName": "LANGSA KOTA",
+  "name": "PEUKAN LANGSA",
+  "postalCode": "24412"
+ },
+ {
+  "id": 1173030004,
+  "districtId": 1173030,
+  "districtName": "LANGSA KOTA",
+  "name": "GAMPONG JAWA",
+  "postalCode": "24454"
+ },
+ {
+  "id": 1173030005,
+  "districtId": 1173030,
+  "districtName": "LANGSA KOTA",
+  "name": "PAYA BUJOK BLANG PASE",
+  "postalCode": "24414"
+ },
+ {
+  "id": 1173030006,
+  "districtId": 1173030,
+  "districtName": "LANGSA KOTA",
+  "name": "GAMPONG BLANG",
+  "postalCode": "23373"
+ },
+ {
+  "id": 1173030007,
+  "districtId": 1173030,
+  "districtName": "LANGSA KOTA",
+  "name": "ALUE BERAWE",
+  "postalCode": "24410"
+ },
+ {
+  "id": 1173030009,
+  "districtId": 1173030,
+  "districtName": "LANGSA KOTA",
+  "name": "GAMPONG DAULAT",
+  "postalCode": "24416"
+ },
+ {
+  "id": 1173030010,
+  "districtId": 1173030,
+  "districtName": "LANGSA KOTA",
+  "name": "GAMPONG MUTIA",
+  "postalCode": "24416"
+ },
+ {
+  "id": 1173030011,
+  "districtId": 1173030,
+  "districtName": "LANGSA KOTA",
+  "name": "BLANG SINIBONG",
+  "postalCode": ""
+ },
+ {
+  "id": 1173030013,
+  "districtId": 1173030,
+  "districtName": "LANGSA KOTA",
+  "name": "TUALANG TEUNGOH",
+  "postalCode": "24414"
+ }
+]

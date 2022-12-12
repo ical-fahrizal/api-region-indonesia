@@ -1,0 +1,44 @@
+[
+ {
+  "id": 2104020003,
+  "districtId": 2104020,
+  "districtName": "SINGKEP",
+  "name": "DABO",
+  "postalCode": "29871"
+ },
+ {
+  "id": 2104020008,
+  "districtId": 2104020,
+  "districtName": "SINGKEP",
+  "name": "BATU BERDAUN",
+  "postalCode": "29871"
+ },
+ {
+  "id": 2104020009,
+  "districtId": 2104020,
+  "districtName": "SINGKEP",
+  "name": "DABO LAMA",
+  "postalCode": "29871"
+ },
+ {
+  "id": 2104020010,
+  "districtId": 2104020,
+  "districtName": "SINGKEP",
+  "name": "BATU KACANG",
+  "postalCode": ""
+ },
+ {
+  "id": 2104020011,
+  "districtId": 2104020,
+  "districtName": "SINGKEP",
+  "name": "TANJUNG HARAPAN",
+  "postalCode": "23754"
+ },
+ {
+  "id": 2104020012,
+  "districtId": 2104020,
+  "districtName": "SINGKEP",
+  "name": "SUNGAI LUMPUR",
+  "postalCode": "30658"
+ }
+]

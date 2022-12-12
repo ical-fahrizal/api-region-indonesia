@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3171100001,
+  "districtId": 3171100,
+  "districtName": "SETIA BUDI",
+  "name": "KARET SEMANGGI",
+  "postalCode": "12930"
+ },
+ {
+  "id": 3171100002,
+  "districtId": 3171100,
+  "districtName": "SETIA BUDI",
+  "name": "KUNINGAN TIMUR",
+  "postalCode": "12950"
+ },
+ {
+  "id": 3171100003,
+  "districtId": 3171100,
+  "districtName": "SETIA BUDI",
+  "name": "KARET KUNINGAN",
+  "postalCode": "12940"
+ },
+ {
+  "id": 3171100004,
+  "districtId": 3171100,
+  "districtName": "SETIA BUDI",
+  "name": "KARET",
+  "postalCode": "12920"
+ },
+ {
+  "id": 3171100005,
+  "districtId": 3171100,
+  "districtName": "SETIA BUDI",
+  "name": "MENTENG ATAS",
+  "postalCode": "12960"
+ },
+ {
+  "id": 3171100006,
+  "districtId": 3171100,
+  "districtName": "SETIA BUDI",
+  "name": "PASAR MANGGIS",
+  "postalCode": "12970"
+ },
+ {
+  "id": 3171100008,
+  "districtId": 3171100,
+  "districtName": "SETIA BUDI",
+  "name": "SETIA BUDI",
+  "postalCode": "38768"
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "id": 9104020002,
+  "districtId": 9104020,
+  "districtName": "BABO",
+  "name": "AMUTU",
+  "postalCode": "98363"
+ },
+ {
+  "id": 9104020003,
+  "districtId": 9104020,
+  "districtName": "BABO",
+  "name": "NUSEI",
+  "postalCode": "98363"
+ },
+ {
+  "id": 9104020004,
+  "districtId": 9104020,
+  "districtName": "BABO",
+  "name": "KASIRA",
+  "postalCode": "98363"
+ },
+ {
+  "id": 9104020009,
+  "districtId": 9104020,
+  "districtName": "BABO",
+  "name": "IRARUTU III / BABO",
+  "postalCode": ""
+ },
+ {
+  "id": 9104020010,
+  "districtId": 9104020,
+  "districtName": "BABO",
+  "name": "MODAN FISAURA",
+  "postalCode": ""
+ },
+ {
+  "id": 9104020011,
+  "districtId": 9104020,
+  "districtName": "BABO",
+  "name": "KANAISI",
+  "postalCode": ""
+ }
+]

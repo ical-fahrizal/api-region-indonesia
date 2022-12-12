@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1307080001,
+  "districtId": 1307080,
+  "districtName": "BASO",
+  "name": "KOTO TINGGI",
+  "postalCode": "26192"
+ },
+ {
+  "id": 1307080002,
+  "districtId": 1307080,
+  "districtName": "BASO",
+  "name": "PADANG TAROK",
+  "postalCode": "26192"
+ },
+ {
+  "id": 1307080003,
+  "districtId": 1307080,
+  "districtName": "BASO",
+  "name": "SIMARASOK",
+  "postalCode": "26192"
+ },
+ {
+  "id": 1307080004,
+  "districtId": 1307080,
+  "districtName": "BASO",
+  "name": "TABEK PANJANG",
+  "postalCode": "26192"
+ },
+ {
+  "id": 1307080005,
+  "districtId": 1307080,
+  "districtName": "BASO",
+  "name": "SALO",
+  "postalCode": "26192"
+ },
+ {
+  "id": 1307080006,
+  "districtId": 1307080,
+  "districtName": "BASO",
+  "name": "KOTO BARU",
+  "postalCode": "27561"
+ }
+]

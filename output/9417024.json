@@ -1,0 +1,37 @@
+[
+ {
+  "id": 9417024001,
+  "districtId": 9417024,
+  "districtName": "KOLOMDOL",
+  "name": "DABOLDING",
+  "postalCode": "99573"
+ },
+ {
+  "id": 9417024002,
+  "districtId": 9417024,
+  "districtName": "KOLOMDOL",
+  "name": "KOLOMDOL",
+  "postalCode": ""
+ },
+ {
+  "id": 9417024003,
+  "districtId": 9417024,
+  "districtName": "KOLOMDOL",
+  "name": "TULO",
+  "postalCode": "94361"
+ },
+ {
+  "id": 9417024004,
+  "districtId": 9417024,
+  "districtName": "KOLOMDOL",
+  "name": "ARINKOP",
+  "postalCode": "99573"
+ },
+ {
+  "id": 9417024005,
+  "districtId": 9417024,
+  "districtName": "KOLOMDOL",
+  "name": "IMIK",
+  "postalCode": "99573"
+ }
+]

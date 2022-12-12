@@ -1,0 +1,79 @@
+[
+ {
+  "id": 1802112001,
+  "districtId": 1802112,
+  "districtName": "LIMAU",
+  "name": "BADAK",
+  "postalCode": "24653"
+ },
+ {
+  "id": 1802112002,
+  "districtId": 1802112,
+  "districtName": "LIMAU",
+  "name": "KURIPAN",
+  "postalCode": "32384"
+ },
+ {
+  "id": 1802112003,
+  "districtId": 1802112,
+  "districtName": "LIMAU",
+  "name": "TEGINENENG",
+  "postalCode": "35613"
+ },
+ {
+  "id": 1802112004,
+  "districtId": 1802112,
+  "districtName": "LIMAU",
+  "name": "KETAPANG",
+  "postalCode": "35596"
+ },
+ {
+  "id": 1802112005,
+  "districtId": 1802112,
+  "districtName": "LIMAU",
+  "name": "PADANG RATU",
+  "postalCode": "32274"
+ },
+ {
+  "id": 1802112006,
+  "districtId": 1802112,
+  "districtName": "LIMAU",
+  "name": "BANJAR AGUNG",
+  "postalCode": "32211"
+ },
+ {
+  "id": 1802112007,
+  "districtId": 1802112,
+  "districtName": "LIMAU",
+  "name": "PEKON AMPAI",
+  "postalCode": "35613"
+ },
+ {
+  "id": 1802112008,
+  "districtId": 1802112,
+  "districtName": "LIMAU",
+  "name": "PARIAMAN",
+  "postalCode": "35379"
+ },
+ {
+  "id": 1802112009,
+  "districtId": 1802112,
+  "districtName": "LIMAU",
+  "name": "ANTARBRAK",
+  "postalCode": ""
+ },
+ {
+  "id": 1802112010,
+  "districtId": 1802112,
+  "districtName": "LIMAU",
+  "name": "TANJUNG SIOM",
+  "postalCode": "35613"
+ },
+ {
+  "id": 1802112011,
+  "districtId": 1802112,
+  "districtName": "LIMAU",
+  "name": "TANJUNG JAYA",
+  "postalCode": "32265"
+ }
+]

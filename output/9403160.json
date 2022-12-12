@@ -1,0 +1,79 @@
+[
+ {
+  "id": 9403160002,
+  "districtId": 9403160,
+  "districtName": "NIMBORAN",
+  "name": "OYENGSI",
+  "postalCode": "99361"
+ },
+ {
+  "id": 9403160003,
+  "districtId": 9403160,
+  "districtName": "NIMBORAN",
+  "name": "SINGGRIWAY",
+  "postalCode": ""
+ },
+ {
+  "id": 9403160004,
+  "districtId": 9403160,
+  "districtName": "NIMBORAN",
+  "name": "TABRI",
+  "postalCode": "99361"
+ },
+ {
+  "id": 9403160006,
+  "districtId": 9403160,
+  "districtName": "NIMBORAN",
+  "name": "SINGGRI",
+  "postalCode": "99361"
+ },
+ {
+  "id": 9403160008,
+  "districtId": 9403160,
+  "districtName": "NIMBORAN",
+  "name": "BENYOM",
+  "postalCode": "99361"
+ },
+ {
+  "id": 9403160009,
+  "districtId": 9403160,
+  "districtName": "NIMBORAN",
+  "name": "KUIPONS",
+  "postalCode": ""
+ },
+ {
+  "id": 9403160011,
+  "districtId": 9403160,
+  "districtName": "NIMBORAN",
+  "name": "IMSAR",
+  "postalCode": "99361"
+ },
+ {
+  "id": 9403160018,
+  "districtId": 9403160,
+  "districtName": "NIMBORAN",
+  "name": "KAITEMUNG",
+  "postalCode": ""
+ },
+ {
+  "id": 9403160019,
+  "districtId": 9403160,
+  "districtName": "NIMBORAN",
+  "name": "KUWASE",
+  "postalCode": "99361"
+ },
+ {
+  "id": 9403160020,
+  "districtId": 9403160,
+  "districtName": "NIMBORAN",
+  "name": "POBAIM",
+  "postalCode": "99361"
+ },
+ {
+  "id": 9403160021,
+  "districtId": 9403160,
+  "districtName": "NIMBORAN",
+  "name": "YENGGU BARU",
+  "postalCode": "99361"
+ }
+]

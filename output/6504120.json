@@ -1,0 +1,30 @@
+[
+ {
+  "id": 6504120001,
+  "districtId": 6504120,
+  "districtName": "SEBATIK BARAT",
+  "name": "BAMBANGAN",
+  "postalCode": "77483"
+ },
+ {
+  "id": 6504120002,
+  "districtId": 6504120,
+  "districtName": "SEBATIK BARAT",
+  "name": "LIANG BUNYU",
+  "postalCode": "77483"
+ },
+ {
+  "id": 6504120003,
+  "districtId": 6504120,
+  "districtName": "SEBATIK BARAT",
+  "name": "BINALAWAN",
+  "postalCode": "77483"
+ },
+ {
+  "id": 6504120004,
+  "districtId": 6504120,
+  "districtName": "SEBATIK BARAT",
+  "name": "SETABU",
+  "postalCode": "77483"
+ }
+]

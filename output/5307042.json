@@ -1,0 +1,30 @@
+[
+ {
+  "id": 5307042001,
+  "districtId": 5307042,
+  "districtName": "PUREMAN",
+  "name": "LANGKURU",
+  "postalCode": "85872"
+ },
+ {
+  "id": 5307042002,
+  "districtId": 5307042,
+  "districtName": "PUREMAN",
+  "name": "KAILESA",
+  "postalCode": "85872"
+ },
+ {
+  "id": 5307042003,
+  "districtId": 5307042,
+  "districtName": "PUREMAN",
+  "name": "PURNAMA",
+  "postalCode": "28823"
+ },
+ {
+  "id": 5307042004,
+  "districtId": 5307042,
+  "districtName": "PUREMAN",
+  "name": "LANGKURU UTARA",
+  "postalCode": "85872"
+ }
+]

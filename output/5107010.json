@@ -1,0 +1,44 @@
+[
+ {
+  "id": 5107010001,
+  "districtId": 5107010,
+  "districtName": "RENDANG",
+  "name": "PESABAN",
+  "postalCode": "80863"
+ },
+ {
+  "id": 5107010002,
+  "districtId": 5107010,
+  "districtName": "RENDANG",
+  "name": "NONGAN",
+  "postalCode": "80863"
+ },
+ {
+  "id": 5107010003,
+  "districtId": 5107010,
+  "districtName": "RENDANG",
+  "name": "RENDANG",
+  "postalCode": "80863"
+ },
+ {
+  "id": 5107010004,
+  "districtId": 5107010,
+  "districtName": "RENDANG",
+  "name": "MENANGA",
+  "postalCode": "80863"
+ },
+ {
+  "id": 5107010005,
+  "districtId": 5107010,
+  "districtName": "RENDANG",
+  "name": "BESAKIH",
+  "postalCode": "80863"
+ },
+ {
+  "id": 5107010006,
+  "districtId": 5107010,
+  "districtName": "RENDANG",
+  "name": "PEMPATAN",
+  "postalCode": "80863"
+ }
+]

@@ -1,0 +1,51 @@
+[
+ {
+  "id": 1209010002,
+  "districtId": 1209010,
+  "districtName": "SILIMAKUTA",
+  "name": "SIBANGUN MERIAH",
+  "postalCode": ""
+ },
+ {
+  "id": 1209010004,
+  "districtId": 1209010,
+  "districtName": "SILIMAKUTA",
+  "name": "SARIBU DOLOK",
+  "postalCode": "21167"
+ },
+ {
+  "id": 1209010005,
+  "districtId": 1209010,
+  "districtName": "SILIMAKUTA",
+  "name": "PURBA SINOMBAH",
+  "postalCode": "21167"
+ },
+ {
+  "id": 1209010006,
+  "districtId": 1209010,
+  "districtName": "SILIMAKUTA",
+  "name": "PURBA TUA",
+  "postalCode": "22762"
+ },
+ {
+  "id": 1209010011,
+  "districtId": 1209010,
+  "districtName": "SILIMAKUTA",
+  "name": "PURBA TUA BARU",
+  "postalCode": "21167"
+ },
+ {
+  "id": 1209010014,
+  "districtId": 1209010,
+  "districtName": "SILIMAKUTA",
+  "name": "SINAR BARU",
+  "postalCode": "22874"
+ },
+ {
+  "id": 1209010015,
+  "districtId": 1209010,
+  "districtName": "SILIMAKUTA",
+  "name": "PURBA TUA ETEK",
+  "postalCode": ""
+ }
+]

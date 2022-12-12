@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1306062001,
+  "districtId": 1306062,
+  "districtName": "PADANG SAGO",
+  "name": "KOTO DALAM",
+  "postalCode": "25573"
+ },
+ {
+  "id": 1306062002,
+  "districtId": 1306062,
+  "districtName": "PADANG SAGO",
+  "name": "BATU KALANG",
+  "postalCode": "25573"
+ },
+ {
+  "id": 1306062003,
+  "districtId": 1306062,
+  "districtName": "PADANG SAGO",
+  "name": "KOTO BARU",
+  "postalCode": "27561"
+ },
+ {
+  "id": 1306062004,
+  "districtId": 1306062,
+  "districtName": "PADANG SAGO",
+  "name": "KOTO DALAM BARAT",
+  "postalCode": ""
+ },
+ {
+  "id": 1306062005,
+  "districtId": 1306062,
+  "districtName": "PADANG SAGO",
+  "name": "KOTO DALAM SELATAN",
+  "postalCode": ""
+ },
+ {
+  "id": 1306062006,
+  "districtId": 1306062,
+  "districtName": "PADANG SAGO",
+  "name": "BATU KALANG UTARA",
+  "postalCode": ""
+ }
+]

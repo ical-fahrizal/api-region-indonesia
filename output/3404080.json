@@ -1,0 +1,30 @@
+[
+ {
+  "id": 3404080001,
+  "districtId": 3404080,
+  "districtName": "BERBAH",
+  "name": "SENDANG TIRTO",
+  "postalCode": "55573"
+ },
+ {
+  "id": 3404080002,
+  "districtId": 3404080,
+  "districtName": "BERBAH",
+  "name": "TEGAL TIRTO",
+  "postalCode": "55573"
+ },
+ {
+  "id": 3404080003,
+  "districtId": 3404080,
+  "districtName": "BERBAH",
+  "name": "JOGO TIRTO",
+  "postalCode": "55573"
+ },
+ {
+  "id": 3404080004,
+  "districtId": 3404080,
+  "districtName": "BERBAH",
+  "name": "KALI TIRTO",
+  "postalCode": "55573"
+ }
+]

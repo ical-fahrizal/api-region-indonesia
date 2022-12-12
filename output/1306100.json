@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1306100001,
+  "districtId": 1306100,
+  "districtName": "IV KOTO AUR MALINTANG",
+  "name": "III KOTO AUR MALINTANG",
+  "postalCode": "25564"
+ },
+ {
+  "id": 1306100002,
+  "districtId": 1306100,
+  "districtName": "IV KOTO AUR MALINTANG",
+  "name": "III KOTO AUR MALINTANG SELATAN",
+  "postalCode": "25564"
+ },
+ {
+  "id": 1306100003,
+  "districtId": 1306100,
+  "districtName": "IV KOTO AUR MALINTANG",
+  "name": "III KOTO AUR MALINTANG TIMUR",
+  "postalCode": "25564"
+ },
+ {
+  "id": 1306100004,
+  "districtId": 1306100,
+  "districtName": "IV KOTO AUR MALINTANG",
+  "name": "III KOTO AUR MALINTANG UTARA",
+  "postalCode": "25564"
+ },
+ {
+  "id": 1306100005,
+  "districtId": 1306100,
+  "districtName": "IV KOTO AUR MALINTANG",
+  "name": "BALAI BAIK MALAI III KOTO",
+  "postalCode": ""
+ }
+]

@@ -1,0 +1,30 @@
+[
+ {
+  "id": 8202034002,
+  "districtId": 8202034,
+  "districtName": "WEDA TIMUR",
+  "name": "MESSA",
+  "postalCode": "97853"
+ },
+ {
+  "id": 8202034003,
+  "districtId": 8202034,
+  "districtName": "WEDA TIMUR",
+  "name": "DOTTE",
+  "postalCode": "97853"
+ },
+ {
+  "id": 8202034004,
+  "districtId": 8202034,
+  "districtName": "WEDA TIMUR",
+  "name": "KOTALO",
+  "postalCode": "97853"
+ },
+ {
+  "id": 8202034005,
+  "districtId": 8202034,
+  "districtName": "WEDA TIMUR",
+  "name": "DESA PERSIAPAN TRANS SP II",
+  "postalCode": ""
+ }
+]

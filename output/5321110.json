@@ -1,0 +1,58 @@
+[
+ {
+  "id": 5321110001,
+  "districtId": 5321110,
+  "districtName": "KOBALIMA",
+  "name": "LAKEKUN BARAT",
+  "postalCode": "85766"
+ },
+ {
+  "id": 5321110002,
+  "districtId": 5321110,
+  "districtName": "KOBALIMA",
+  "name": "LAKEKUN",
+  "postalCode": "85766"
+ },
+ {
+  "id": 5321110003,
+  "districtId": 5321110,
+  "districtName": "KOBALIMA",
+  "name": "LAKEKUN UTARA",
+  "postalCode": "85766"
+ },
+ {
+  "id": 5321110004,
+  "districtId": 5321110,
+  "districtName": "KOBALIMA",
+  "name": "LITAMALI",
+  "postalCode": "85766"
+ },
+ {
+  "id": 5321110005,
+  "districtId": 5321110,
+  "districtName": "KOBALIMA",
+  "name": "RAINAWE",
+  "postalCode": "85766"
+ },
+ {
+  "id": 5321110006,
+  "districtId": 5321110,
+  "districtName": "KOBALIMA",
+  "name": "S I S I",
+  "postalCode": ""
+ },
+ {
+  "id": 5321110007,
+  "districtId": 5321110,
+  "districtName": "KOBALIMA",
+  "name": "BABULU SELATAN",
+  "postalCode": "85766"
+ },
+ {
+  "id": 5321110008,
+  "districtId": 5321110,
+  "districtName": "KOBALIMA",
+  "name": "BABULU",
+  "postalCode": "85766"
+ }
+]

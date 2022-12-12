@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1905011001,
+  "districtId": 1905011,
+  "districtName": "PULAU BESAR",
+  "name": "BATU BETUMPANG",
+  "postalCode": "33778"
+ },
+ {
+  "id": 1905011002,
+  "districtId": 1905011,
+  "districtName": "PULAU BESAR",
+  "name": "PANCA TUNGGAL",
+  "postalCode": "32382"
+ },
+ {
+  "id": 1905011003,
+  "districtId": 1905011,
+  "districtName": "PULAU BESAR",
+  "name": "FAJAR INDAH",
+  "postalCode": "31352"
+ },
+ {
+  "id": 1905011004,
+  "districtId": 1905011,
+  "districtName": "PULAU BESAR",
+  "name": "SUKAJAYA",
+  "postalCode": "30756"
+ },
+ {
+  "id": 1905011005,
+  "districtId": 1905011,
+  "districtName": "PULAU BESAR",
+  "name": "SUMBER JAYA PERMAI",
+  "postalCode": ""
+ }
+]

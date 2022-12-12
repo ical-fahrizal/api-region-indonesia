@@ -1,0 +1,44 @@
+[
+ {
+  "id": 9420012001,
+  "districtId": 9420012,
+  "districtName": "YAFFI",
+  "name": "AMGOTRO",
+  "postalCode": "99466"
+ },
+ {
+  "id": 9420012003,
+  "districtId": 9420012,
+  "districtName": "YAFFI",
+  "name": "FAFENUMBU",
+  "postalCode": ""
+ },
+ {
+  "id": 9420012004,
+  "districtId": 9420012,
+  "districtName": "YAFFI",
+  "name": "AKARINDA",
+  "postalCode": ""
+ },
+ {
+  "id": 9420012005,
+  "districtId": 9420012,
+  "districtName": "YAFFI",
+  "name": "JIFANGGRY",
+  "postalCode": ""
+ },
+ {
+  "id": 9420012006,
+  "districtId": 9420012,
+  "districtName": "YAFFI",
+  "name": "JABANDA",
+  "postalCode": ""
+ },
+ {
+  "id": 9420012007,
+  "districtId": 9420012,
+  "districtName": "YAFFI",
+  "name": "MONGGOAFI",
+  "postalCode": ""
+ }
+]

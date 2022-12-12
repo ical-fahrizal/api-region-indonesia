@@ -1,0 +1,44 @@
+[
+ {
+  "id": 8203023001,
+  "districtId": 8203023,
+  "districtName": "SANANA UTARA",
+  "name": "POHEA",
+  "postalCode": "97795"
+ },
+ {
+  "id": 8203023003,
+  "districtId": 8203023,
+  "districtName": "SANANA UTARA",
+  "name": "MALBUFA",
+  "postalCode": "97795"
+ },
+ {
+  "id": 8203023004,
+  "districtId": 8203023,
+  "districtName": "SANANA UTARA",
+  "name": "BAJO",
+  "postalCode": "58381"
+ },
+ {
+  "id": 8203023005,
+  "districtId": 8203023,
+  "districtName": "SANANA UTARA",
+  "name": "MAN GEGA",
+  "postalCode": ""
+ },
+ {
+  "id": 8203023006,
+  "districtId": 8203023,
+  "districtName": "SANANA UTARA",
+  "name": "WAININ",
+  "postalCode": "97795"
+ },
+ {
+  "id": 8203023007,
+  "districtId": 8203023,
+  "districtName": "SANANA UTARA",
+  "name": "FOKALIK",
+  "postalCode": "97795"
+ }
+]

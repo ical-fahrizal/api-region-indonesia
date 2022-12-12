@@ -1,0 +1,72 @@
+[
+ {
+  "id": 1507041001,
+  "districtId": 1507041,
+  "districtName": "KUALA BETARA",
+  "name": "SUNGAI GEBAR",
+  "postalCode": "36555"
+ },
+ {
+  "id": 1507041002,
+  "districtId": 1507041,
+  "districtName": "KUALA BETARA",
+  "name": "SUNGAI DUALAP",
+  "postalCode": "36555"
+ },
+ {
+  "id": 1507041003,
+  "districtId": 1507041,
+  "districtName": "KUALA BETARA",
+  "name": "BETARA KIRI",
+  "postalCode": "36555"
+ },
+ {
+  "id": 1507041004,
+  "districtId": 1507041,
+  "districtName": "KUALA BETARA",
+  "name": "BETARA KANAN",
+  "postalCode": "36555"
+ },
+ {
+  "id": 1507041005,
+  "districtId": 1507041,
+  "districtName": "KUALA BETARA",
+  "name": "SUNGAI GEBAR BARAT",
+  "postalCode": "36555"
+ },
+ {
+  "id": 1507041006,
+  "districtId": 1507041,
+  "districtName": "KUALA BETARA",
+  "name": "SUNGAI DUNGUN",
+  "postalCode": "36555"
+ },
+ {
+  "id": 1507041007,
+  "districtId": 1507041,
+  "districtName": "KUALA BETARA",
+  "name": "TANJUNG PASIR",
+  "postalCode": "21457"
+ },
+ {
+  "id": 1507041008,
+  "districtId": 1507041,
+  "districtName": "KUALA BETARA",
+  "name": "DATARAN PINANG",
+  "postalCode": "36555"
+ },
+ {
+  "id": 1507041009,
+  "districtId": 1507041,
+  "districtName": "KUALA BETARA",
+  "name": "KUALA INDAH",
+  "postalCode": "36555"
+ },
+ {
+  "id": 1507041010,
+  "districtId": 1507041,
+  "districtName": "KUALA BETARA",
+  "name": "SUAK LABU",
+  "postalCode": "23763"
+ }
+]

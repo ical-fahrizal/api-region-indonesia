@@ -1,0 +1,30 @@
+[
+ {
+  "id": 9108036001,
+  "districtId": 9108036,
+  "districtName": "BATANTA UTARA",
+  "name": "AREFI TIMUR",
+  "postalCode": "98484"
+ },
+ {
+  "id": 9108036002,
+  "districtId": 9108036,
+  "districtName": "BATANTA UTARA",
+  "name": "AREFI SELATAN",
+  "postalCode": "98484"
+ },
+ {
+  "id": 9108036003,
+  "districtId": 9108036,
+  "districtName": "BATANTA UTARA",
+  "name": "YENSAWAI TIMUR",
+  "postalCode": "98484"
+ },
+ {
+  "id": 9108036004,
+  "districtId": 9108036,
+  "districtName": "BATANTA UTARA",
+  "name": "YENSAWAI BARAT",
+  "postalCode": "98484"
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "id": 3204170001,
+  "districtId": 3204170,
+  "districtName": "PAMEUNGPEUK",
+  "name": "BOJONGMANGGU",
+  "postalCode": "17352"
+ },
+ {
+  "id": 3204170002,
+  "districtId": 3204170,
+  "districtName": "PAMEUNGPEUK",
+  "name": "LANGONSARI",
+  "postalCode": "40376"
+ },
+ {
+  "id": 3204170003,
+  "districtId": 3204170,
+  "districtName": "PAMEUNGPEUK",
+  "name": "SUKASARI",
+  "postalCode": "20986"
+ },
+ {
+  "id": 3204170004,
+  "districtId": 3204170,
+  "districtName": "PAMEUNGPEUK",
+  "name": "RANCAMULYA",
+  "postalCode": "45263"
+ },
+ {
+  "id": 3204170005,
+  "districtId": 3204170,
+  "districtName": "PAMEUNGPEUK",
+  "name": "RANCATUNGKU",
+  "postalCode": "40376"
+ },
+ {
+  "id": 3204170006,
+  "districtId": 3204170,
+  "districtName": "PAMEUNGPEUK",
+  "name": "BOJONGKUNCI",
+  "postalCode": "40376"
+ }
+]

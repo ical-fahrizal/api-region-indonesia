@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3506120001,
+  "districtId": 3506120,
+  "districtName": "KEPUNG",
+  "name": "KEBONREJO",
+  "postalCode": "58253"
+ },
+ {
+  "id": 3506120002,
+  "districtId": 3506120,
+  "districtName": "KEPUNG",
+  "name": "BESOWO",
+  "postalCode": "62362"
+ },
+ {
+  "id": 3506120003,
+  "districtId": 3506120,
+  "districtName": "KEPUNG",
+  "name": "KAMPUNGBARU",
+  "postalCode": "35592"
+ },
+ {
+  "id": 3506120004,
+  "districtId": 3506120,
+  "districtName": "KEPUNG",
+  "name": "SIMAN",
+  "postalCode": "64293"
+ },
+ {
+  "id": 3506120008,
+  "districtId": 3506120,
+  "districtName": "KEPUNG",
+  "name": "KENCONG",
+  "postalCode": "68167"
+ },
+ {
+  "id": 3506120009,
+  "districtId": 3506120,
+  "districtName": "KEPUNG",
+  "name": "KELING",
+  "postalCode": "59454"
+ },
+ {
+  "id": 3506120010,
+  "districtId": 3506120,
+  "districtName": "KEPUNG",
+  "name": "DAMARWULAN",
+  "postalCode": "30975"
+ }
+]

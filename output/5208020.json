@@ -1,0 +1,51 @@
+[
+ {
+  "id": 5208020001,
+  "districtId": 5208020,
+  "districtName": "TANJUNG",
+  "name": "SIGAR PENJALIN",
+  "postalCode": ""
+ },
+ {
+  "id": 5208020002,
+  "districtId": 5208020,
+  "districtName": "TANJUNG",
+  "name": "TENIGA",
+  "postalCode": "83352"
+ },
+ {
+  "id": 5208020003,
+  "districtId": 5208020,
+  "districtName": "TANJUNG",
+  "name": "TEGAL MAJA",
+  "postalCode": "83352"
+ },
+ {
+  "id": 5208020004,
+  "districtId": 5208020,
+  "districtName": "TANJUNG",
+  "name": "JENGGALA",
+  "postalCode": "83352"
+ },
+ {
+  "id": 5208020005,
+  "districtId": 5208020,
+  "districtName": "TANJUNG",
+  "name": "TANJUNG",
+  "postalCode": "24562"
+ },
+ {
+  "id": 5208020006,
+  "districtId": 5208020,
+  "districtName": "TANJUNG",
+  "name": "SOKONG",
+  "postalCode": "83352"
+ },
+ {
+  "id": 5208020007,
+  "districtId": 5208020,
+  "districtName": "TANJUNG",
+  "name": "MEDANA",
+  "postalCode": "83352"
+ }
+]

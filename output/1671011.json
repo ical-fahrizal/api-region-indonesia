@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1671011001,
+  "districtId": 1671011,
+  "districtName": "GANDUS",
+  "name": "PULO KERTO",
+  "postalCode": "30149"
+ },
+ {
+  "id": 1671011002,
+  "districtId": 1671011,
+  "districtName": "GANDUS",
+  "name": "GANDUS",
+  "postalCode": "30149"
+ },
+ {
+  "id": 1671011003,
+  "districtId": 1671011,
+  "districtName": "GANDUS",
+  "name": "KARANG JAYA",
+  "postalCode": "32383"
+ },
+ {
+  "id": 1671011004,
+  "districtId": 1671011,
+  "districtName": "GANDUS",
+  "name": "KARANG ANYAR",
+  "postalCode": "24415"
+ },
+ {
+  "id": 1671011005,
+  "districtId": 1671011,
+  "districtName": "GANDUS",
+  "name": "36 ILIR",
+  "postalCode": "30147"
+ }
+]

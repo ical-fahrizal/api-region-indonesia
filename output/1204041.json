@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1204041001,
+  "districtId": 1204041,
+  "districtName": "SITAHUIS",
+  "name": "BONAN DOLOK",
+  "postalCode": "22762"
+ },
+ {
+  "id": 1204041002,
+  "districtId": 1204041,
+  "districtName": "SITAHUIS",
+  "name": "RAMPA",
+  "postalCode": "22611"
+ },
+ {
+  "id": 1204041003,
+  "districtId": 1204041,
+  "districtName": "SITAHUIS",
+  "name": "MARDAME",
+  "postalCode": "22611"
+ },
+ {
+  "id": 1204041004,
+  "districtId": 1204041,
+  "districtName": "SITAHUIS",
+  "name": "NAULI",
+  "postalCode": "22381"
+ },
+ {
+  "id": 1204041005,
+  "districtId": 1204041,
+  "districtName": "SITAHUIS",
+  "name": "NAGA TIMBUL",
+  "postalCode": "24673"
+ },
+ {
+  "id": 1204041006,
+  "districtId": 1204041,
+  "districtName": "SITAHUIS",
+  "name": "SIMANINGGIR",
+  "postalCode": "22763"
+ }
+]

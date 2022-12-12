@@ -1,0 +1,44 @@
+[
+ {
+  "id": 3510071001,
+  "districtId": 3510071,
+  "districtName": "TEGALSARI",
+  "name": "KARANGDORO",
+  "postalCode": "68485"
+ },
+ {
+  "id": 3510071002,
+  "districtId": 3510071,
+  "districtName": "TEGALSARI",
+  "name": "KARANGMULYO",
+  "postalCode": "52465"
+ },
+ {
+  "id": 3510071003,
+  "districtId": 3510071,
+  "districtName": "TEGALSARI",
+  "name": "TEGALSARI",
+  "postalCode": "35372"
+ },
+ {
+  "id": 3510071004,
+  "districtId": 3510071,
+  "districtName": "TEGALSARI",
+  "name": "DASRI",
+  "postalCode": "68485"
+ },
+ {
+  "id": 3510071005,
+  "districtId": 3510071,
+  "districtName": "TEGALSARI",
+  "name": "TAMANSARI",
+  "postalCode": "35366"
+ },
+ {
+  "id": 3510071006,
+  "districtId": 3510071,
+  "districtName": "TEGALSARI",
+  "name": "TEGALREJO",
+  "postalCode": "50733"
+ }
+]

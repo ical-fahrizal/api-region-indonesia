@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3522040007,
+  "districtId": 3522040,
+  "districtName": "NGAMBON",
+  "name": "NGLAMPIN",
+  "postalCode": "62167"
+ },
+ {
+  "id": 3522040008,
+  "districtId": 3522040,
+  "districtName": "NGAMBON",
+  "name": "KARANGMANGU",
+  "postalCode": "45553"
+ },
+ {
+  "id": 3522040009,
+  "districtId": 3522040,
+  "districtName": "NGAMBON",
+  "name": "NGAMBON",
+  "postalCode": "62167"
+ },
+ {
+  "id": 3522040010,
+  "districtId": 3522040,
+  "districtName": "NGAMBON",
+  "name": "SENGON",
+  "postalCode": "57454"
+ },
+ {
+  "id": 3522040011,
+  "districtId": 3522040,
+  "districtName": "NGAMBON",
+  "name": "BONDOL",
+  "postalCode": "62167"
+ }
+]

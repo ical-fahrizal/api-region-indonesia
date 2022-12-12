@@ -1,0 +1,86 @@
+[
+ {
+  "id": 3602100001,
+  "districtId": 3602100,
+  "districtName": "LEUWIDAMAR",
+  "name": "KANEKES",
+  "postalCode": "42362"
+ },
+ {
+  "id": 3602100002,
+  "districtId": 3602100,
+  "districtName": "LEUWIDAMAR",
+  "name": "NAYAGATI",
+  "postalCode": "42362"
+ },
+ {
+  "id": 3602100003,
+  "districtId": 3602100,
+  "districtName": "LEUWIDAMAR",
+  "name": "BOJONG MENTENG",
+  "postalCode": "17117"
+ },
+ {
+  "id": 3602100004,
+  "districtId": 3602100,
+  "districtName": "LEUWIDAMAR",
+  "name": "CISIMEUT",
+  "postalCode": "42362"
+ },
+ {
+  "id": 3602100005,
+  "districtId": 3602100,
+  "districtName": "LEUWIDAMAR",
+  "name": "MARGAWANGI",
+  "postalCode": "42362"
+ },
+ {
+  "id": 3602100006,
+  "districtId": 3602100,
+  "districtName": "LEUWIDAMAR",
+  "name": "SANGKANWANGI",
+  "postalCode": "42362"
+ },
+ {
+  "id": 3602100007,
+  "districtId": 3602100,
+  "districtName": "LEUWIDAMAR",
+  "name": "JALUPANG MULYA",
+  "postalCode": "42362"
+ },
+ {
+  "id": 3602100008,
+  "districtId": 3602100,
+  "districtName": "LEUWIDAMAR",
+  "name": "LEUWIDAMAR",
+  "postalCode": "42362"
+ },
+ {
+  "id": 3602100009,
+  "districtId": 3602100,
+  "districtName": "LEUWIDAMAR",
+  "name": "CIBUNGUR",
+  "postalCode": "41181"
+ },
+ {
+  "id": 3602100010,
+  "districtId": 3602100,
+  "districtName": "LEUWIDAMAR",
+  "name": "LEBAK PARAHIANG",
+  "postalCode": "42362"
+ },
+ {
+  "id": 3602100011,
+  "districtId": 3602100,
+  "districtName": "LEUWIDAMAR",
+  "name": "WANTISARI",
+  "postalCode": "42362"
+ },
+ {
+  "id": 3602100012,
+  "districtId": 3602100,
+  "districtName": "LEUWIDAMAR",
+  "name": "CISIMEUT RAYA",
+  "postalCode": "42362"
+ }
+]

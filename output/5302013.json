@@ -1,0 +1,37 @@
+[
+ {
+  "id": 5302013001,
+  "districtId": 5302013,
+  "districtName": "KATALA HAMU LINGU",
+  "name": "PRAI BAKUL",
+  "postalCode": "87152"
+ },
+ {
+  "id": 5302013002,
+  "districtId": 5302013,
+  "districtName": "KATALA HAMU LINGU",
+  "name": "LAI LARA",
+  "postalCode": "87152"
+ },
+ {
+  "id": 5302013003,
+  "districtId": 5302013,
+  "districtName": "KATALA HAMU LINGU",
+  "name": "KOMBAPARI",
+  "postalCode": ""
+ },
+ {
+  "id": 5302013004,
+  "districtId": 5302013,
+  "districtName": "KATALA HAMU LINGU",
+  "name": "MANDAHU",
+  "postalCode": "87152"
+ },
+ {
+  "id": 5302013005,
+  "districtId": 5302013,
+  "districtName": "KATALA HAMU LINGU",
+  "name": "MATAWAI AMAHU",
+  "postalCode": "87152"
+ }
+]

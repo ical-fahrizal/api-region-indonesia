@@ -1,0 +1,51 @@
+[
+ {
+  "id": 5304101003,
+  "districtId": 5304101,
+  "districtName": "BOKING",
+  "name": "SABUN",
+  "postalCode": "85573"
+ },
+ {
+  "id": 5304101004,
+  "districtId": 5304101,
+  "districtName": "BOKING",
+  "name": "NANO",
+  "postalCode": "85573"
+ },
+ {
+  "id": 5304101005,
+  "districtId": 5304101,
+  "districtName": "BOKING",
+  "name": "BOKING",
+  "postalCode": "85573"
+ },
+ {
+  "id": 5304101006,
+  "districtId": 5304101,
+  "districtName": "BOKING",
+  "name": "LEONMENI",
+  "postalCode": ""
+ },
+ {
+  "id": 5304101012,
+  "districtId": 5304101,
+  "districtName": "BOKING",
+  "name": "MEUSIN",
+  "postalCode": "85573"
+ },
+ {
+  "id": 5304101013,
+  "districtId": 5304101,
+  "districtName": "BOKING",
+  "name": "BAUS",
+  "postalCode": "85573"
+ },
+ {
+  "id": 5304101014,
+  "districtId": 5304101,
+  "districtName": "BOKING",
+  "name": "FATU MANUFUI",
+  "postalCode": "85573"
+ }
+]

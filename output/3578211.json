@@ -1,0 +1,30 @@
+[
+ {
+  "id": 3578211003,
+  "districtId": 3578211,
+  "districtName": "BULAK",
+  "name": "KENJERAN",
+  "postalCode": "60123"
+ },
+ {
+  "id": 3578211004,
+  "districtId": 3578211,
+  "districtName": "BULAK",
+  "name": "BULAK",
+  "postalCode": "45162"
+ },
+ {
+  "id": 3578211005,
+  "districtId": 3578211,
+  "districtName": "BULAK",
+  "name": "KEDUNG COWEK",
+  "postalCode": "60125"
+ },
+ {
+  "id": 3578211006,
+  "districtId": 3578211,
+  "districtName": "BULAK",
+  "name": "SUKOLILO BARU",
+  "postalCode": ""
+ }
+]

@@ -1,0 +1,30 @@
+[
+ {
+  "id": 9404092001,
+  "districtId": 9404092,
+  "districtName": "WAPOGA",
+  "name": "TOTOBERI",
+  "postalCode": "98861"
+ },
+ {
+  "id": 9404092002,
+  "districtId": 9404092,
+  "districtName": "WAPOGA",
+  "name": "SAMANUI",
+  "postalCode": "98861"
+ },
+ {
+  "id": 9404092004,
+  "districtId": 9404092,
+  "districtName": "WAPOGA",
+  "name": "TAUMI",
+  "postalCode": "98861"
+ },
+ {
+  "id": 9404092005,
+  "districtId": 9404092,
+  "districtName": "WAPOGA",
+  "name": "KAMARISANOI",
+  "postalCode": "98861"
+ }
+]

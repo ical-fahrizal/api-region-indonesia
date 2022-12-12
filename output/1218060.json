@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1218060001,
+  "districtId": 1218060,
+  "districtName": "BANDAR KHALIPAH",
+  "name": "BANDAR TENGAH",
+  "postalCode": "20994"
+ },
+ {
+  "id": 1218060002,
+  "districtId": 1218060,
+  "districtName": "BANDAR KHALIPAH",
+  "name": "JUHAR",
+  "postalCode": ""
+ },
+ {
+  "id": 1218060003,
+  "districtId": 1218060,
+  "districtName": "BANDAR KHALIPAH",
+  "name": "KAYU BESAR",
+  "postalCode": "20994"
+ },
+ {
+  "id": 1218060004,
+  "districtId": 1218060,
+  "districtName": "BANDAR KHALIPAH",
+  "name": "PEKAN BANDAR KHALIPAH",
+  "postalCode": "20994"
+ },
+ {
+  "id": 1218060005,
+  "districtId": 1218060,
+  "districtName": "BANDAR KHALIPAH",
+  "name": "GELAM SEI SERIMAH",
+  "postalCode": ""
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "id": 3172100001,
+  "districtId": 3172100,
+  "districtName": "MATRAMAN",
+  "name": "KEBON MANGGIS",
+  "postalCode": "13150"
+ },
+ {
+  "id": 3172100002,
+  "districtId": 3172100,
+  "districtName": "MATRAMAN",
+  "name": "PAL MERIEM",
+  "postalCode": ""
+ },
+ {
+  "id": 3172100003,
+  "districtId": 3172100,
+  "districtName": "MATRAMAN",
+  "name": "PISANGAN BARU",
+  "postalCode": "13110"
+ },
+ {
+  "id": 3172100004,
+  "districtId": 3172100,
+  "districtName": "MATRAMAN",
+  "name": "KAYU MANIS",
+  "postalCode": "39153"
+ },
+ {
+  "id": 3172100005,
+  "districtId": 3172100,
+  "districtName": "MATRAMAN",
+  "name": "UTAN KAYU SELATAN",
+  "postalCode": "13120"
+ },
+ {
+  "id": 3172100006,
+  "districtId": 3172100,
+  "districtName": "MATRAMAN",
+  "name": "UTAN KAYU UTARA",
+  "postalCode": "13120"
+ }
+]

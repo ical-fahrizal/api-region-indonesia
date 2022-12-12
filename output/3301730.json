@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3301730001,
+  "districtId": 3301730,
+  "districtName": "CILACAP UTARA",
+  "name": "KEBONMANIS",
+  "postalCode": "53235"
+ },
+ {
+  "id": 3301730002,
+  "districtId": 3301730,
+  "districtName": "CILACAP UTARA",
+  "name": "GUMILIR",
+  "postalCode": "53231"
+ },
+ {
+  "id": 3301730003,
+  "districtId": 3301730,
+  "districtName": "CILACAP UTARA",
+  "name": "MERTASINGA",
+  "postalCode": "45151"
+ },
+ {
+  "id": 3301730004,
+  "districtId": 3301730,
+  "districtName": "CILACAP UTARA",
+  "name": "TRITIH KULON",
+  "postalCode": "53233"
+ },
+ {
+  "id": 3301730005,
+  "districtId": 3301730,
+  "districtName": "CILACAP UTARA",
+  "name": "KARANGTALUN",
+  "postalCode": "58253"
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "id": 5272010004,
+  "districtId": 5272010,
+  "districtName": "RASANAE BARAT",
+  "name": "PARUGA",
+  "postalCode": "84111"
+ },
+ {
+  "id": 5272010005,
+  "districtId": 5272010,
+  "districtName": "RASANAE BARAT",
+  "name": "TANJUNG",
+  "postalCode": "24562"
+ },
+ {
+  "id": 5272010006,
+  "districtId": 5272010,
+  "districtName": "RASANAE BARAT",
+  "name": "SARAE",
+  "postalCode": "84117"
+ },
+ {
+  "id": 5272010007,
+  "districtId": 5272010,
+  "districtName": "RASANAE BARAT",
+  "name": "NAE",
+  "postalCode": "84116"
+ },
+ {
+  "id": 5272010009,
+  "districtId": 5272010,
+  "districtName": "RASANAE BARAT",
+  "name": "DARA",
+  "postalCode": ""
+ },
+ {
+  "id": 5272010010,
+  "districtId": 5272010,
+  "districtName": "RASANAE BARAT",
+  "name": "PANE",
+  "postalCode": "84119"
+ }
+]

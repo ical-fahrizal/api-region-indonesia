@@ -1,0 +1,44 @@
+[
+ {
+  "id": 3511151001,
+  "districtId": 3511151,
+  "districtName": "IJEN",
+  "name": "SEMPOL",
+  "postalCode": "56362"
+ },
+ {
+  "id": 3511151002,
+  "districtId": 3511151,
+  "districtName": "IJEN",
+  "name": "KALIANYAR",
+  "postalCode": "45284"
+ },
+ {
+  "id": 3511151003,
+  "districtId": 3511151,
+  "districtName": "IJEN",
+  "name": "KALISAT",
+  "postalCode": "63462"
+ },
+ {
+  "id": 3511151004,
+  "districtId": 3511151,
+  "districtName": "IJEN",
+  "name": "JAMPIT",
+  "postalCode": "68288"
+ },
+ {
+  "id": 3511151005,
+  "districtId": 3511151,
+  "districtName": "IJEN",
+  "name": "SUMBER REJO",
+  "postalCode": "21255"
+ },
+ {
+  "id": 3511151006,
+  "districtId": 3511151,
+  "districtName": "IJEN",
+  "name": "KALIGEDANG",
+  "postalCode": "68288"
+ }
+]

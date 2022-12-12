@@ -1,0 +1,58 @@
+[
+ {
+  "id": 1374020001,
+  "districtId": 1374020,
+  "districtName": "PADANG PANJANG TIMUR",
+  "name": "KOTO PANJANG",
+  "postalCode": "26161"
+ },
+ {
+  "id": 1374020002,
+  "districtId": 1374020,
+  "districtName": "PADANG PANJANG TIMUR",
+  "name": "KOTO KATIK",
+  "postalCode": "27123"
+ },
+ {
+  "id": 1374020003,
+  "districtId": 1374020,
+  "districtName": "PADANG PANJANG TIMUR",
+  "name": "NGALAU",
+  "postalCode": "27124"
+ },
+ {
+  "id": 1374020004,
+  "districtId": 1374020,
+  "districtName": "PADANG PANJANG TIMUR",
+  "name": "EKOR LUBUK",
+  "postalCode": "27125"
+ },
+ {
+  "id": 1374020005,
+  "districtId": 1374020,
+  "districtName": "PADANG PANJANG TIMUR",
+  "name": "SIGANDO",
+  "postalCode": "27126"
+ },
+ {
+  "id": 1374020006,
+  "districtId": 1374020,
+  "districtName": "PADANG PANJANG TIMUR",
+  "name": "GANTING",
+  "postalCode": "23891"
+ },
+ {
+  "id": 1374020007,
+  "districtId": 1374020,
+  "districtName": "PADANG PANJANG TIMUR",
+  "name": "GUGUK  MALINTANG",
+  "postalCode": ""
+ },
+ {
+  "id": 1374020008,
+  "districtId": 1374020,
+  "districtName": "PADANG PANJANG TIMUR",
+  "name": "TANAH  PAK LAMBIK",
+  "postalCode": ""
+ }
+]

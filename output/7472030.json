@@ -1,0 +1,30 @@
+[
+ {
+  "id": 7472030001,
+  "districtId": 7472030,
+  "districtName": "SORAWOLIO",
+  "name": "KAISABU BARU",
+  "postalCode": "93757"
+ },
+ {
+  "id": 7472030002,
+  "districtId": 7472030,
+  "districtName": "SORAWOLIO",
+  "name": "KARYA BARU",
+  "postalCode": "30151"
+ },
+ {
+  "id": 7472030003,
+  "districtId": 7472030,
+  "districtName": "SORAWOLIO",
+  "name": "BUGI",
+  "postalCode": "93757"
+ },
+ {
+  "id": 7472030004,
+  "districtId": 7472030,
+  "districtName": "SORAWOLIO",
+  "name": "GONDA BARU",
+  "postalCode": "93757"
+ }
+]

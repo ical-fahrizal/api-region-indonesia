@@ -1,0 +1,37 @@
+[
+ {
+  "id": 7471020003,
+  "districtId": 7471020,
+  "districtName": "POASIA",
+  "name": "ANDUONOHU",
+  "postalCode": "93231"
+ },
+ {
+  "id": 7471020004,
+  "districtId": 7471020,
+  "districtName": "POASIA",
+  "name": "RAHANDOUNA",
+  "postalCode": "93232"
+ },
+ {
+  "id": 7471020005,
+  "districtId": 7471020,
+  "districtName": "POASIA",
+  "name": "ANGGOEYA",
+  "postalCode": "93231"
+ },
+ {
+  "id": 7471020007,
+  "districtId": 7471020,
+  "districtName": "POASIA",
+  "name": "MATABUBU",
+  "postalCode": "93883"
+ },
+ {
+  "id": 7471020008,
+  "districtId": 7471020,
+  "districtName": "POASIA",
+  "name": "WUNDUMBATU",
+  "postalCode": ""
+ }
+]

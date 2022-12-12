@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1306051001,
+  "districtId": 1306051,
+  "districtName": "ENAM LINGKUNG",
+  "name": "KOTO TINGGI",
+  "postalCode": "26192"
+ },
+ {
+  "id": 1306051002,
+  "districtId": 1306051,
+  "districtName": "ENAM LINGKUNG",
+  "name": "GADUA",
+  "postalCode": ""
+ },
+ {
+  "id": 1306051003,
+  "districtId": 1306051,
+  "districtName": "ENAM LINGKUNG",
+  "name": "TOBOH KETEK",
+  "postalCode": "25584"
+ },
+ {
+  "id": 1306051004,
+  "districtId": 1306051,
+  "districtName": "ENAM LINGKUNG",
+  "name": "PAKANDANGAN",
+  "postalCode": "25584"
+ },
+ {
+  "id": 1306051005,
+  "districtId": 1306051,
+  "districtName": "ENAM LINGKUNG",
+  "name": "PARIK MALINTANG",
+  "postalCode": ""
+ }
+]

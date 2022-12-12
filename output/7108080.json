@@ -1,0 +1,30 @@
+[
+ {
+  "id": 7108080001,
+  "districtId": 7108080,
+  "districtName": "SIAU TENGAH",
+  "name": "LAI",
+  "postalCode": "95861"
+ },
+ {
+  "id": 7108080002,
+  "districtId": 7108080,
+  "districtName": "SIAU TENGAH",
+  "name": "SALILI",
+  "postalCode": "95861"
+ },
+ {
+  "id": 7108080003,
+  "districtId": 7108080,
+  "districtName": "SIAU TENGAH",
+  "name": "BEONG",
+  "postalCode": "95861"
+ },
+ {
+  "id": 7108080004,
+  "districtId": 7108080,
+  "districtName": "SIAU TENGAH",
+  "name": "DOMPASE",
+  "postalCode": "95861"
+ }
+]

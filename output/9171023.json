@@ -1,0 +1,37 @@
+[
+ {
+  "id": 9171023001,
+  "districtId": 9171023,
+  "districtName": "SORONG MANOI",
+  "name": "KLALIGI",
+  "postalCode": "98414"
+ },
+ {
+  "id": 9171023002,
+  "districtId": 9171023,
+  "districtName": "SORONG MANOI",
+  "name": "MALAWEI",
+  "postalCode": "98416"
+ },
+ {
+  "id": 9171023003,
+  "districtId": 9171023,
+  "districtName": "SORONG MANOI",
+  "name": "REMU SELATAN",
+  "postalCode": "98415"
+ },
+ {
+  "id": 9171023004,
+  "districtId": 9171023,
+  "districtName": "SORONG MANOI",
+  "name": "MALABUTOR",
+  "postalCode": "98416"
+ },
+ {
+  "id": 9171023005,
+  "districtId": 9171023,
+  "districtName": "SORONG MANOI",
+  "name": "KLASABI",
+  "postalCode": "98416"
+ }
+]

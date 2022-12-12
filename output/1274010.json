@@ -1,0 +1,51 @@
+[
+ {
+  "id": 1274010001,
+  "districtId": 1274010,
+  "districtName": "PADANG HULU",
+  "name": "PABATU",
+  "postalCode": "20623"
+ },
+ {
+  "id": 1274010002,
+  "districtId": 1274010,
+  "districtName": "PADANG HULU",
+  "name": "LUBUK BARU",
+  "postalCode": "20622"
+ },
+ {
+  "id": 1274010003,
+  "districtId": 1274010,
+  "districtName": "PADANG HULU",
+  "name": "PERSIAKAN",
+  "postalCode": "20624"
+ },
+ {
+  "id": 1274010004,
+  "districtId": 1274010,
+  "districtName": "PADANG HULU",
+  "name": "BANDARSONO",
+  "postalCode": "20625"
+ },
+ {
+  "id": 1274010008,
+  "districtId": 1274010,
+  "districtName": "PADANG HULU",
+  "name": "TUALANG",
+  "postalCode": "24372"
+ },
+ {
+  "id": 1274010011,
+  "districtId": 1274010,
+  "districtName": "PADANG HULU",
+  "name": "LUBUK RAYA",
+  "postalCode": "20624"
+ },
+ {
+  "id": 1274010012,
+  "districtId": 1274010,
+  "districtName": "PADANG HULU",
+  "name": "PADANG MERBAU",
+  "postalCode": "20624"
+ }
+]

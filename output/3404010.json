@@ -1,0 +1,30 @@
+[
+ {
+  "id": 3404010001,
+  "districtId": 3404010,
+  "districtName": "MOYUDAN",
+  "name": "SUMBERRAHAYU",
+  "postalCode": "55563"
+ },
+ {
+  "id": 3404010002,
+  "districtId": 3404010,
+  "districtName": "MOYUDAN",
+  "name": "SUMBERSARI",
+  "postalCode": "34122"
+ },
+ {
+  "id": 3404010003,
+  "districtId": 3404010,
+  "districtName": "MOYUDAN",
+  "name": "SUMBER AGUNG",
+  "postalCode": "37353"
+ },
+ {
+  "id": 3404010004,
+  "districtId": 3404010,
+  "districtName": "MOYUDAN",
+  "name": "SUMBERARUM",
+  "postalCode": "59184"
+ }
+]

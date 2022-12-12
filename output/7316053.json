@@ -1,0 +1,37 @@
+[
+ {
+  "id": 7316053001,
+  "districtId": 7316053,
+  "districtName": "BAROKO",
+  "name": "BAROKO",
+  "postalCode": "91754"
+ },
+ {
+  "id": 7316053002,
+  "districtId": 7316053,
+  "districtName": "BAROKO",
+  "name": "TONGKO",
+  "postalCode": "94661"
+ },
+ {
+  "id": 7316053003,
+  "districtId": 7316053,
+  "districtName": "BAROKO",
+  "name": "PATONGLOAN",
+  "postalCode": "91754"
+ },
+ {
+  "id": 7316053004,
+  "districtId": 7316053,
+  "districtName": "BAROKO",
+  "name": "BENTENG ALLA UTARA",
+  "postalCode": "91754"
+ },
+ {
+  "id": 7316053005,
+  "districtId": 7316053,
+  "districtName": "BAROKO",
+  "name": "BENTENG ALLA",
+  "postalCode": "91754"
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3202261001,
+  "districtId": 3202261,
+  "districtName": "BOJONG GENTENG",
+  "name": "BEREKAH",
+  "postalCode": "43353"
+ },
+ {
+  "id": 3202261002,
+  "districtId": 3202261,
+  "districtName": "BOJONG GENTENG",
+  "name": "BOJONG GENTENG",
+  "postalCode": "43353"
+ },
+ {
+  "id": 3202261003,
+  "districtId": 3202261,
+  "districtName": "BOJONG GENTENG",
+  "name": "BOJONG GALING",
+  "postalCode": "43363"
+ },
+ {
+  "id": 3202261004,
+  "districtId": 3202261,
+  "districtName": "BOJONG GENTENG",
+  "name": "CIBODAS",
+  "postalCode": "43353"
+ },
+ {
+  "id": 3202261005,
+  "districtId": 3202261,
+  "districtName": "BOJONG GENTENG",
+  "name": "CIPANENGAH",
+  "postalCode": "43353"
+ }
+]

@@ -1,0 +1,51 @@
+[
+ {
+  "id": 7207011001,
+  "districtId": 7207011,
+  "districtName": "BIAU",
+  "name": "BUGIS",
+  "postalCode": "45256"
+ },
+ {
+  "id": 7207011002,
+  "districtId": 7207011,
+  "districtName": "BIAU",
+  "name": "KULANGO",
+  "postalCode": "94563"
+ },
+ {
+  "id": 7207011003,
+  "districtId": 7207011,
+  "districtName": "BIAU",
+  "name": "BUOL",
+  "postalCode": "94563"
+ },
+ {
+  "id": 7207011004,
+  "districtId": 7207011,
+  "districtName": "BIAU",
+  "name": "KALI",
+  "postalCode": "38611"
+ },
+ {
+  "id": 7207011005,
+  "districtId": 7207011,
+  "districtName": "BIAU",
+  "name": "LEOK II",
+  "postalCode": "94563"
+ },
+ {
+  "id": 7207011006,
+  "districtId": 7207011,
+  "districtName": "BIAU",
+  "name": "LEOK 1",
+  "postalCode": "94563"
+ },
+ {
+  "id": 7207011007,
+  "districtId": 7207011,
+  "districtName": "BIAU",
+  "name": "KUMALIGON",
+  "postalCode": "94563"
+ }
+]

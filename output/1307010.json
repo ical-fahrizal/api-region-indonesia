@@ -1,0 +1,23 @@
+[
+ {
+  "id": 1307010001,
+  "districtId": 1307010,
+  "districtName": "TANJUNG MUTIARA",
+  "name": "TIKU SELATAN",
+  "postalCode": "26473"
+ },
+ {
+  "id": 1307010002,
+  "districtId": 1307010,
+  "districtName": "TANJUNG MUTIARA",
+  "name": "TIKU UTARA",
+  "postalCode": "26473"
+ },
+ {
+  "id": 1307010003,
+  "districtId": 1307010,
+  "districtName": "TANJUNG MUTIARA",
+  "name": "TIKU LIMO JORONG",
+  "postalCode": "26473"
+ }
+]

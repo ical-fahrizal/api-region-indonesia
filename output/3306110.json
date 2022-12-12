@@ -1,0 +1,331 @@
+[
+ {
+  "id": 3306110002,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "PANGKALAN",
+  "postalCode": "24477"
+ },
+ {
+  "id": 3306110003,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "WONOYOSO",
+  "postalCode": "51171"
+ },
+ {
+  "id": 3306110004,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "TASIKMADU",
+  "postalCode": "54263"
+ },
+ {
+  "id": 3306110005,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "TAPEN",
+  "postalCode": "54263"
+ },
+ {
+  "id": 3306110006,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "TERSIDI KIDUL",
+  "postalCode": "54263"
+ },
+ {
+  "id": 3306110007,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "TERSIDI LOR",
+  "postalCode": "54263"
+ },
+ {
+  "id": 3306110008,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "SEKARTEJO",
+  "postalCode": "54263"
+ },
+ {
+  "id": 3306110010,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "KALIMATI",
+  "postalCode": "45555"
+ },
+ {
+  "id": 3306110011,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "KENDALREJO",
+  "postalCode": "52362"
+ },
+ {
+  "id": 3306110012,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "NGAMPEL",
+  "postalCode": "58219"
+ },
+ {
+  "id": 3306110013,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "SIKAMBANG",
+  "postalCode": "54263"
+ },
+ {
+  "id": 3306110014,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "TUNJUNGTEJO",
+  "postalCode": "54263"
+ },
+ {
+  "id": 3306110015,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "DLISEN WETAN",
+  "postalCode": "54263"
+ },
+ {
+  "id": 3306110016,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "DLISEN KULON",
+  "postalCode": "54263"
+ },
+ {
+  "id": 3306110017,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "BLEKATUK",
+  "postalCode": "54263"
+ },
+ {
+  "id": 3306110018,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "WARU",
+  "postalCode": "45252"
+ },
+ {
+  "id": 3306110019,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "KEBURUSAN",
+  "postalCode": "54263"
+ },
+ {
+  "id": 3306110020,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "SEMAMPIR",
+  "postalCode": "53418"
+ },
+ {
+  "id": 3306110021,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "GUMAWANGREJO",
+  "postalCode": "54263"
+ },
+ {
+  "id": 3306110022,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "PETUGURAN",
+  "postalCode": "54263"
+ },
+ {
+  "id": 3306110023,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "PEKACANGAN",
+  "postalCode": "54183"
+ },
+ {
+  "id": 3306110024,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "KARANGGETAS",
+  "postalCode": "45272"
+ },
+ {
+  "id": 3306110025,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "LUWENG LOR",
+  "postalCode": "54263"
+ },
+ {
+  "id": 3306110026,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "LUWENG KIDUL",
+  "postalCode": "54263"
+ },
+ {
+  "id": 3306110027,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "SAMBENG",
+  "postalCode": "45151"
+ },
+ {
+  "id": 3306110028,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "MEGULUNG KIDUL",
+  "postalCode": "54263"
+ },
+ {
+  "id": 3306110029,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "PITURUH",
+  "postalCode": "54263"
+ },
+ {
+  "id": 3306110030,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "PRIGELAN",
+  "postalCode": "54263"
+ },
+ {
+  "id": 3306110031,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "KARANGANYAR",
+  "postalCode": "40241"
+ },
+ {
+  "id": 3306110032,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "MEGULUNG LOR",
+  "postalCode": "54263"
+ },
+ {
+  "id": 3306110033,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "PRAPAG KIDUL",
+  "postalCode": "52255"
+ },
+ {
+  "id": 3306110034,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "KEMBANGKUNING",
+  "postalCode": "41152"
+ },
+ {
+  "id": 3306110035,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "BRENGKOL",
+  "postalCode": "54263"
+ },
+ {
+  "id": 3306110036,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "GIRIGONDO",
+  "postalCode": "54263"
+ },
+ {
+  "id": 3306110037,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "PRAPAG LOR",
+  "postalCode": "52255"
+ },
+ {
+  "id": 3306110038,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "KALIKOTES",
+  "postalCode": "57451"
+ },
+ {
+  "id": 3306110039,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "NGANDAGAN",
+  "postalCode": "54263"
+ },
+ {
+  "id": 3306110040,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "KESAWEN",
+  "postalCode": "54263"
+ },
+ {
+  "id": 3306110041,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "KEDUNG BATUR",
+  "postalCode": "54263"
+ },
+ {
+  "id": 3306110042,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "POLOWANGI",
+  "postalCode": "54263"
+ },
+ {
+  "id": 3306110043,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "KALIJERING",
+  "postalCode": "54394"
+ },
+ {
+  "id": 3306110044,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "SOMOGEDE",
+  "postalCode": "54263"
+ },
+ {
+  "id": 3306110045,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "KALIGONDANG",
+  "postalCode": "53391"
+ },
+ {
+  "id": 3306110046,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "KALIGINTUNG",
+  "postalCode": "54263"
+ },
+ {
+  "id": 3306110047,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "SAWANGAN",
+  "postalCode": "41272"
+ },
+ {
+  "id": 3306110048,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "WONOSIDO",
+  "postalCode": "51183"
+ },
+ {
+  "id": 3306110049,
+  "districtId": 3306110,
+  "districtName": "PITURUH",
+  "name": "PAMRIYAN",
+  "postalCode": "51356"
+ }
+]

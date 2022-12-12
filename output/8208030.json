@@ -1,0 +1,44 @@
+[
+ {
+  "id": 8208030001,
+  "districtId": 8208030,
+  "districtName": "TABONA",
+  "name": "WOLIO",
+  "postalCode": ""
+ },
+ {
+  "id": 8208030002,
+  "districtId": 8208030,
+  "districtName": "TABONA",
+  "name": "HABUNUHA",
+  "postalCode": ""
+ },
+ {
+  "id": 8208030003,
+  "districtId": 8208030,
+  "districtName": "TABONA",
+  "name": "FAYAUNANA",
+  "postalCode": ""
+ },
+ {
+  "id": 8208030005,
+  "districtId": 8208030,
+  "districtName": "TABONA",
+  "name": "TABONA",
+  "postalCode": "97794"
+ },
+ {
+  "id": 8208030006,
+  "districtId": 8208030,
+  "districtName": "TABONA",
+  "name": "KATAGA",
+  "postalCode": ""
+ },
+ {
+  "id": 8208030007,
+  "districtId": 8208030,
+  "districtName": "TABONA",
+  "name": "KABUNU",
+  "postalCode": "97793"
+ }
+]

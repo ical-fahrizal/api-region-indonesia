@@ -1,0 +1,37 @@
+[
+ {
+  "id": 7104052001,
+  "districtId": 7104052,
+  "districtName": "PULUTAN",
+  "name": "PULUTAN",
+  "postalCode": "54172"
+ },
+ {
+  "id": 7104052002,
+  "districtId": 7104052,
+  "districtName": "PULUTAN",
+  "name": "PULUTAN UTARA",
+  "postalCode": "95882"
+ },
+ {
+  "id": 7104052003,
+  "districtId": 7104052,
+  "districtName": "PULUTAN",
+  "name": "PULUTAN SELATAN",
+  "postalCode": "95882"
+ },
+ {
+  "id": 7104052004,
+  "districtId": 7104052,
+  "districtName": "PULUTAN",
+  "name": "DARAN",
+  "postalCode": "95882"
+ },
+ {
+  "id": 7104052005,
+  "districtId": 7104052,
+  "districtName": "PULUTAN",
+  "name": "DARAN UTARA",
+  "postalCode": "95882"
+ }
+]

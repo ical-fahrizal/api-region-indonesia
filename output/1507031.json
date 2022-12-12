@@ -1,0 +1,72 @@
+[
+ {
+  "id": 1507031001,
+  "districtId": 1507031,
+  "districtName": "BRAM ITAM",
+  "name": "BERAM ITAM KANAN",
+  "postalCode": ""
+ },
+ {
+  "id": 1507031002,
+  "districtId": 1507031,
+  "districtName": "BRAM ITAM",
+  "name": "BERAM ITAM KIRI",
+  "postalCode": ""
+ },
+ {
+  "id": 1507031003,
+  "districtId": 1507031,
+  "districtName": "BRAM ITAM",
+  "name": "PEMBENGIS",
+  "postalCode": "36514"
+ },
+ {
+  "id": 1507031004,
+  "districtId": 1507031,
+  "districtName": "BRAM ITAM",
+  "name": "TANJUNG SENJULANG",
+  "postalCode": "36514"
+ },
+ {
+  "id": 1507031005,
+  "districtId": 1507031,
+  "districtName": "BRAM ITAM",
+  "name": "JATI EMAS",
+  "postalCode": "36514"
+ },
+ {
+  "id": 1507031006,
+  "districtId": 1507031,
+  "districtName": "BRAM ITAM",
+  "name": "KEMUNING",
+  "postalCode": "36514"
+ },
+ {
+  "id": 1507031007,
+  "districtId": 1507031,
+  "districtName": "BRAM ITAM",
+  "name": "PANTAI GADING",
+  "postalCode": "20855"
+ },
+ {
+  "id": 1507031008,
+  "districtId": 1507031,
+  "districtName": "BRAM ITAM",
+  "name": "BRAM ITAM RAYA",
+  "postalCode": "36514"
+ },
+ {
+  "id": 1507031009,
+  "districtId": 1507031,
+  "districtName": "BRAM ITAM",
+  "name": "MEKAR TANJUNG",
+  "postalCode": "21271"
+ },
+ {
+  "id": 1507031010,
+  "districtId": 1507031,
+  "districtName": "BRAM ITAM",
+  "name": "SEMAU",
+  "postalCode": "36514"
+ }
+]

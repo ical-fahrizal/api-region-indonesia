@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1216022001,
+  "districtId": 1216022,
+  "districtName": "SIEMPAT RUBE",
+  "name": "SIEMPAT RUBE I",
+  "postalCode": "22272"
+ },
+ {
+  "id": 1216022002,
+  "districtId": 1216022,
+  "districtName": "SIEMPAT RUBE",
+  "name": "SIEMPAT RUBE II",
+  "postalCode": "22272"
+ },
+ {
+  "id": 1216022003,
+  "districtId": 1216022,
+  "districtName": "SIEMPAT RUBE",
+  "name": "MUNGKUR",
+  "postalCode": "24563"
+ },
+ {
+  "id": 1216022004,
+  "districtId": 1216022,
+  "districtName": "SIEMPAT RUBE",
+  "name": "SIEMPAT RUBE IV",
+  "postalCode": "22272"
+ },
+ {
+  "id": 1216022005,
+  "districtId": 1216022,
+  "districtName": "SIEMPAT RUBE",
+  "name": "KUTA JUNGAK",
+  "postalCode": "22272"
+ },
+ {
+  "id": 1216022006,
+  "districtId": 1216022,
+  "districtName": "SIEMPAT RUBE",
+  "name": "TRAJU",
+  "postalCode": "22272"
+ }
+]

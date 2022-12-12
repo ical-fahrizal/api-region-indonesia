@@ -1,0 +1,58 @@
+[
+ {
+  "id": 3579010001,
+  "districtId": 3579010,
+  "districtName": "BATU",
+  "name": "ORO-ORO OMBO",
+  "postalCode": "65316"
+ },
+ {
+  "id": 3579010002,
+  "districtId": 3579010,
+  "districtName": "BATU",
+  "name": "TEMAS",
+  "postalCode": "65315"
+ },
+ {
+  "id": 3579010003,
+  "districtId": 3579010,
+  "districtName": "BATU",
+  "name": "SISIR",
+  "postalCode": "65314"
+ },
+ {
+  "id": 3579010004,
+  "districtId": 3579010,
+  "districtName": "BATU",
+  "name": "NGAGLIK",
+  "postalCode": "57697"
+ },
+ {
+  "id": 3579010005,
+  "districtId": 3579010,
+  "districtName": "BATU",
+  "name": "PESANGGRAHAN",
+  "postalCode": "12320"
+ },
+ {
+  "id": 3579010006,
+  "districtId": 3579010,
+  "districtName": "BATU",
+  "name": "SONGGOKERTO",
+  "postalCode": ""
+ },
+ {
+  "id": 3579010007,
+  "districtId": 3579010,
+  "districtName": "BATU",
+  "name": "SUMBEREJO",
+  "postalCode": "20551"
+ },
+ {
+  "id": 3579010008,
+  "districtId": 3579010,
+  "districtName": "BATU",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
+ }
+]

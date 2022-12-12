@@ -1,0 +1,44 @@
+[
+ {
+  "id": 9108031003,
+  "districtId": 9108031,
+  "districtName": "SALAWATI UTARA",
+  "name": "SAMATE",
+  "postalCode": "98484"
+ },
+ {
+  "id": 9108031005,
+  "districtId": 9108031,
+  "districtName": "SALAWATI UTARA",
+  "name": "KAPATLAP",
+  "postalCode": "98484"
+ },
+ {
+  "id": 9108031009,
+  "districtId": 9108031,
+  "districtName": "SALAWATI UTARA",
+  "name": "WAMEGA",
+  "postalCode": "98484"
+ },
+ {
+  "id": 9108031010,
+  "districtId": 9108031,
+  "districtName": "SALAWATI UTARA",
+  "name": "WAIDIM",
+  "postalCode": "98484"
+ },
+ {
+  "id": 9108031011,
+  "districtId": 9108031,
+  "districtName": "SALAWATI UTARA",
+  "name": "JEFMAN BARAT",
+  "postalCode": "98484"
+ },
+ {
+  "id": 9108031012,
+  "districtId": 9108031,
+  "districtName": "SALAWATI UTARA",
+  "name": "JEFMAN TIMUR",
+  "postalCode": "98484"
+ }
+]

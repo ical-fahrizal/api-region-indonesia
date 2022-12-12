@@ -1,0 +1,65 @@
+[
+ {
+  "id": 3523010001,
+  "districtId": 3523010,
+  "districtName": "KENDURUAN",
+  "name": "SOKOGUNUNG",
+  "postalCode": "62363"
+ },
+ {
+  "id": 3523010002,
+  "districtId": 3523010,
+  "districtName": "KENDURUAN",
+  "name": "JAMPRONG",
+  "postalCode": "62363"
+ },
+ {
+  "id": 3523010003,
+  "districtId": 3523010,
+  "districtName": "KENDURUAN",
+  "name": "BENDONGLATENG",
+  "postalCode": "62363"
+ },
+ {
+  "id": 3523010004,
+  "districtId": 3523010,
+  "districtName": "KENDURUAN",
+  "name": "SIDOREJO",
+  "postalCode": "24784"
+ },
+ {
+  "id": 3523010005,
+  "districtId": 3523010,
+  "districtName": "KENDURUAN",
+  "name": "SOKOGRENJENG",
+  "postalCode": "62363"
+ },
+ {
+  "id": 3523010006,
+  "districtId": 3523010,
+  "districtName": "KENDURUAN",
+  "name": "SIDOHASRI",
+  "postalCode": "62363"
+ },
+ {
+  "id": 3523010007,
+  "districtId": 3523010,
+  "districtName": "KENDURUAN",
+  "name": "SIDOMUKTI",
+  "postalCode": "21217"
+ },
+ {
+  "id": 3523010008,
+  "districtId": 3523010,
+  "districtName": "KENDURUAN",
+  "name": "TAWARAN",
+  "postalCode": "62363"
+ },
+ {
+  "id": 3523010009,
+  "districtId": 3523010,
+  "districtName": "KENDURUAN",
+  "name": "JLODRO",
+  "postalCode": "62363"
+ }
+]

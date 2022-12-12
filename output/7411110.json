@@ -1,0 +1,65 @@
+[
+ {
+  "id": 7411110001,
+  "districtId": 7411110,
+  "districtName": "ULUIWOI",
+  "name": "AUKORA",
+  "postalCode": ""
+ },
+ {
+  "id": 7411110003,
+  "districtId": 7411110,
+  "districtName": "ULUIWOI",
+  "name": "TONDOWATU",
+  "postalCode": "93354"
+ },
+ {
+  "id": 7411110004,
+  "districtId": 7411110,
+  "districtName": "ULUIWOI",
+  "name": "SANGGONA",
+  "postalCode": "93461"
+ },
+ {
+  "id": 7411110005,
+  "districtId": 7411110,
+  "districtName": "ULUIWOI",
+  "name": "LALOMBAI",
+  "postalCode": ""
+ },
+ {
+  "id": 7411110006,
+  "districtId": 7411110,
+  "districtName": "ULUIWOI",
+  "name": "UNDOLO",
+  "postalCode": "93575"
+ },
+ {
+  "id": 7411110007,
+  "districtId": 7411110,
+  "districtName": "ULUIWOI",
+  "name": "TAWANGA",
+  "postalCode": "93461"
+ },
+ {
+  "id": 7411110008,
+  "districtId": 7411110,
+  "districtName": "ULUIWOI",
+  "name": "AMOLOLU",
+  "postalCode": ""
+ },
+ {
+  "id": 7411110009,
+  "districtId": 7411110,
+  "districtName": "ULUIWOI",
+  "name": "AMOKUNI",
+  "postalCode": "93871"
+ },
+ {
+  "id": 7411110010,
+  "districtId": 7411110,
+  "districtName": "ULUIWOI",
+  "name": "PEHANGGO",
+  "postalCode": "93575"
+ }
+]

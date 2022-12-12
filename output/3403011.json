@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3403011001,
+  "districtId": 3403011,
+  "districtName": "PURWOSARI",
+  "name": "GIRIJATI",
+  "postalCode": "55872"
+ },
+ {
+  "id": 3403011002,
+  "districtId": 3403011,
+  "districtName": "PURWOSARI",
+  "name": "GIRIASIH",
+  "postalCode": "40561"
+ },
+ {
+  "id": 3403011003,
+  "districtId": 3403011,
+  "districtName": "PURWOSARI",
+  "name": "GIRICAHYO",
+  "postalCode": "55872"
+ },
+ {
+  "id": 3403011004,
+  "districtId": 3403011,
+  "districtName": "PURWOSARI",
+  "name": "GIRIPURWO",
+  "postalCode": "57612"
+ },
+ {
+  "id": 3403011005,
+  "districtId": 3403011,
+  "districtName": "PURWOSARI",
+  "name": "GIRITIRTO",
+  "postalCode": "54365"
+ }
+]

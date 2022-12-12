@@ -1,0 +1,51 @@
+[
+ {
+  "id": 1706050001,
+  "districtId": 1706050,
+  "districtName": "LUBUK PINANG",
+  "name": "SUMBER MAKMUR",
+  "postalCode": "23662"
+ },
+ {
+  "id": 1706050002,
+  "districtId": 1706050,
+  "districtName": "LUBUK PINANG",
+  "name": "TANJUNG ALAI",
+  "postalCode": "22998"
+ },
+ {
+  "id": 1706050003,
+  "districtId": 1706050,
+  "districtName": "LUBUK PINANG",
+  "name": "LUBUK GEDANG",
+  "postalCode": "38653"
+ },
+ {
+  "id": 1706050010,
+  "districtId": 1706050,
+  "districtName": "LUBUK PINANG",
+  "name": "ARAH TIGA",
+  "postalCode": "38767"
+ },
+ {
+  "id": 1706050011,
+  "districtId": 1706050,
+  "districtName": "LUBUK PINANG",
+  "name": "LUBUK PINANG",
+  "postalCode": "38767"
+ },
+ {
+  "id": 1706050012,
+  "districtId": 1706050,
+  "districtName": "LUBUK PINANG",
+  "name": "SUKA PINDAH",
+  "postalCode": "32191"
+ },
+ {
+  "id": 1706050018,
+  "districtId": 1706050,
+  "districtName": "LUBUK PINANG",
+  "name": "RANAH KARYA",
+  "postalCode": "38767"
+ }
+]

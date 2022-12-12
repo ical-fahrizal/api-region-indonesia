@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3373040001,
+  "districtId": 3373040,
+  "districtName": "SIDOREJO",
+  "name": "PULUTAN",
+  "postalCode": "54172"
+ },
+ {
+  "id": 3373040002,
+  "districtId": 3373040,
+  "districtName": "SIDOREJO",
+  "name": "BLOTONGAN",
+  "postalCode": "50715"
+ },
+ {
+  "id": 3373040003,
+  "districtId": 3373040,
+  "districtName": "SIDOREJO",
+  "name": "SIDOREJO LOR",
+  "postalCode": "50714"
+ },
+ {
+  "id": 3373040004,
+  "districtId": 3373040,
+  "districtName": "SIDOREJO",
+  "name": "SALATIGA",
+  "postalCode": "50711"
+ },
+ {
+  "id": 3373040006,
+  "districtId": 3373040,
+  "districtName": "SIDOREJO",
+  "name": "KAUMAN KIDUL",
+  "postalCode": "50712"
+ }
+]

@@ -1,0 +1,30 @@
+[
+ {
+  "id": 1308020001,
+  "districtId": 1308020,
+  "districtName": "LUAK",
+  "name": "MUNGO",
+  "postalCode": "26261"
+ },
+ {
+  "id": 1308020002,
+  "districtId": 1308020,
+  "districtName": "LUAK",
+  "name": "ANDALEH",
+  "postalCode": "27265"
+ },
+ {
+  "id": 1308020003,
+  "districtId": 1308020,
+  "districtName": "LUAK",
+  "name": "SUNGAI KAMUYANG",
+  "postalCode": "26261"
+ },
+ {
+  "id": 1308020004,
+  "districtId": 1308020,
+  "districtName": "LUAK",
+  "name": "TANJUANG ARO SIKABU-KABU PD. PANJANG",
+  "postalCode": ""
+ }
+]

@@ -1,0 +1,30 @@
+[
+ {
+  "id": 3207140001,
+  "districtId": 3207140,
+  "districtName": "CIMARAGAS",
+  "name": "BOJONGMALANG",
+  "postalCode": "46381"
+ },
+ {
+  "id": 3207140002,
+  "districtId": 3207140,
+  "districtName": "CIMARAGAS",
+  "name": "RAKSABAYA",
+  "postalCode": "46381"
+ },
+ {
+  "id": 3207140004,
+  "districtId": 3207140,
+  "districtName": "CIMARAGAS",
+  "name": "CIMARAGAS",
+  "postalCode": "46381"
+ },
+ {
+  "id": 3207140005,
+  "districtId": 3207140,
+  "districtName": "CIMARAGAS",
+  "name": "JAYARAKSA",
+  "postalCode": "43166"
+ }
+]

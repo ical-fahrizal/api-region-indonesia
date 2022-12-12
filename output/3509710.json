@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3509710001,
+  "districtId": 3509710,
+  "districtName": "KALIWATES",
+  "name": "MANGLI",
+  "postalCode": "56153"
+ },
+ {
+  "id": 3509710002,
+  "districtId": 3509710,
+  "districtName": "KALIWATES",
+  "name": "SEMPUSARI",
+  "postalCode": "68135"
+ },
+ {
+  "id": 3509710003,
+  "districtId": 3509710,
+  "districtName": "KALIWATES",
+  "name": "KALIWATES",
+  "postalCode": "68133"
+ },
+ {
+  "id": 3509710004,
+  "districtId": 3509710,
+  "districtName": "KALIWATES",
+  "name": "TEGAL BESAR",
+  "postalCode": "32383"
+ },
+ {
+  "id": 3509710005,
+  "districtId": 3509710,
+  "districtName": "KALIWATES",
+  "name": "JEMBER KIDUL",
+  "postalCode": "68131"
+ },
+ {
+  "id": 3509710006,
+  "districtId": 3509710,
+  "districtName": "KALIWATES",
+  "name": "KEPATIHAN",
+  "postalCode": "57652"
+ },
+ {
+  "id": 3509710007,
+  "districtId": 3509710,
+  "districtName": "KALIWATES",
+  "name": "KEBON AGUNG",
+  "postalCode": "32156"
+ }
+]

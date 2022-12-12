@@ -1,0 +1,72 @@
+[
+ {
+  "id": 1202052001,
+  "districtId": 1202052,
+  "districtName": "PANYABUNGAN BARAT",
+  "name": "LONGAT",
+  "postalCode": "22312"
+ },
+ {
+  "id": 1202052002,
+  "districtId": 1202052,
+  "districtName": "PANYABUNGAN BARAT",
+  "name": "SIRAMBAS",
+  "postalCode": "22911"
+ },
+ {
+  "id": 1202052003,
+  "districtId": 1202052,
+  "districtName": "PANYABUNGAN BARAT",
+  "name": "SABAJIOR",
+  "postalCode": ""
+ },
+ {
+  "id": 1202052004,
+  "districtId": 1202052,
+  "districtName": "PANYABUNGAN BARAT",
+  "name": "HUTABARINGIN",
+  "postalCode": ""
+ },
+ {
+  "id": 1202052005,
+  "districtId": 1202052,
+  "districtName": "PANYABUNGAN BARAT",
+  "name": "BATANG GADIS",
+  "postalCode": "22911"
+ },
+ {
+  "id": 1202052006,
+  "districtId": 1202052,
+  "districtName": "PANYABUNGAN BARAT",
+  "name": "BARBARAN",
+  "postalCode": "22911"
+ },
+ {
+  "id": 1202052007,
+  "districtId": 1202052,
+  "districtName": "PANYABUNGAN BARAT",
+  "name": "HUTA TONGA BARBARAN",
+  "postalCode": ""
+ },
+ {
+  "id": 1202052008,
+  "districtId": 1202052,
+  "districtName": "PANYABUNGAN BARAT",
+  "name": "RUNDING",
+  "postalCode": ""
+ },
+ {
+  "id": 1202052009,
+  "districtId": 1202052,
+  "districtName": "PANYABUNGAN BARAT",
+  "name": "BARBARAN JAE",
+  "postalCode": "22911"
+ },
+ {
+  "id": 1202052010,
+  "districtId": 1202052,
+  "districtName": "PANYABUNGAN BARAT",
+  "name": "BATANG GADIS JAE",
+  "postalCode": ""
+ }
+]

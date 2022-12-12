@@ -1,0 +1,58 @@
+[
+ {
+  "id": 5106010001,
+  "districtId": 5106010,
+  "districtName": "SUSUT",
+  "name": "APUAN",
+  "postalCode": "82191"
+ },
+ {
+  "id": 5106010002,
+  "districtId": 5106010,
+  "districtName": "SUSUT",
+  "name": "ABUAN",
+  "postalCode": "80652"
+ },
+ {
+  "id": 5106010003,
+  "districtId": 5106010,
+  "districtName": "SUSUT",
+  "name": "DEMULIH",
+  "postalCode": "80661"
+ },
+ {
+  "id": 5106010005,
+  "districtId": 5106010,
+  "districtName": "SUSUT",
+  "name": "SULAHAN",
+  "postalCode": "80661"
+ },
+ {
+  "id": 5106010006,
+  "districtId": 5106010,
+  "districtName": "SUSUT",
+  "name": "TIGA",
+  "postalCode": "80661"
+ },
+ {
+  "id": 5106010007,
+  "districtId": 5106010,
+  "districtName": "SUSUT",
+  "name": "PENGLUMBARAN",
+  "postalCode": "80661"
+ },
+ {
+  "id": 5106010008,
+  "districtId": 5106010,
+  "districtName": "SUSUT",
+  "name": "SELAT",
+  "postalCode": "36657"
+ },
+ {
+  "id": 5106010009,
+  "districtId": 5106010,
+  "districtName": "SUSUT",
+  "name": "PENGIANGAN",
+  "postalCode": "80661"
+ }
+]

@@ -1,0 +1,23 @@
+[
+ {
+  "id": 9416065002,
+  "districtId": 9416065,
+  "districtName": "KONA",
+  "name": "KONA",
+  "postalCode": "98461"
+ },
+ {
+  "id": 9416065004,
+  "districtId": 9416065,
+  "districtName": "KONA",
+  "name": "KALPOK",
+  "postalCode": "99571"
+ },
+ {
+  "id": 9416065005,
+  "districtId": 9416065,
+  "districtName": "KONA",
+  "name": "SEKLAK",
+  "postalCode": "99571"
+ }
+]

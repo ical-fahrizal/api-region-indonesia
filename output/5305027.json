@@ -1,0 +1,30 @@
+[
+ {
+  "id": 5305027001,
+  "districtId": 5305027,
+  "districtName": "NOEMUTI TIMUR",
+  "name": "NAOB",
+  "postalCode": "85661"
+ },
+ {
+  "id": 5305027002,
+  "districtId": 5305027,
+  "districtName": "NOEMUTI TIMUR",
+  "name": "HAEKTO",
+  "postalCode": "85661"
+ },
+ {
+  "id": 5305027003,
+  "districtId": 5305027,
+  "districtName": "NOEMUTI TIMUR",
+  "name": "MANIKIN",
+  "postalCode": "85661"
+ },
+ {
+  "id": 5305027004,
+  "districtId": 5305027,
+  "districtName": "NOEMUTI TIMUR",
+  "name": "KUAKEN",
+  "postalCode": "85661"
+ }
+]

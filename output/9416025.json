@@ -1,0 +1,44 @@
+[
+ {
+  "id": 9416025001,
+  "districtId": 9416025,
+  "districtName": "SUNTAMON",
+  "name": "TAPASIK",
+  "postalCode": "99573"
+ },
+ {
+  "id": 9416025002,
+  "districtId": 9416025,
+  "districtName": "SUNTAMON",
+  "name": "SUNTAMON",
+  "postalCode": "99578"
+ },
+ {
+  "id": 9416025003,
+  "districtId": 9416025,
+  "districtName": "SUNTAMON",
+  "name": "DIRIK",
+  "postalCode": "99578"
+ },
+ {
+  "id": 9416025004,
+  "districtId": 9416025,
+  "districtName": "SUNTAMON",
+  "name": "MASUMKON",
+  "postalCode": "99578"
+ },
+ {
+  "id": 9416025005,
+  "districtId": 9416025,
+  "districtName": "SUNTAMON",
+  "name": "BINALKON",
+  "postalCode": "99578"
+ },
+ {
+  "id": 9416025008,
+  "districtId": 9416025,
+  "districtName": "SUNTAMON",
+  "name": "BONGKOK",
+  "postalCode": "45381"
+ }
+]

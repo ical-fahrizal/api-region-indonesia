@@ -1,0 +1,44 @@
+[
+ {
+  "id": 9433080001,
+  "districtId": 9433080,
+  "districtName": "DOUFO",
+  "name": "IRATOI",
+  "postalCode": "98976"
+ },
+ {
+  "id": 9433080005,
+  "districtId": 9433080,
+  "districtName": "DOUFO",
+  "name": "DOUFO",
+  "postalCode": ""
+ },
+ {
+  "id": 9433080006,
+  "districtId": 9433080,
+  "districtName": "DOUFO",
+  "name": "SIBITA",
+  "postalCode": ""
+ },
+ {
+  "id": 9433080007,
+  "districtId": 9433080,
+  "districtName": "DOUFO",
+  "name": "RAWA",
+  "postalCode": "24151"
+ },
+ {
+  "id": 9433080009,
+  "districtId": 9433080,
+  "districtName": "DOUFO",
+  "name": "LANI",
+  "postalCode": "98818"
+ },
+ {
+  "id": 9433080010,
+  "districtId": 9433080,
+  "districtName": "DOUFO",
+  "name": "WAHUKA",
+  "postalCode": ""
+ }
+]

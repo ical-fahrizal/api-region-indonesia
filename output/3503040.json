@@ -1,0 +1,44 @@
+[
+ {
+  "id": 3503040001,
+  "districtId": 3503040,
+  "districtName": "KAMPAK",
+  "name": "NGADIMULYO",
+  "postalCode": "56252"
+ },
+ {
+  "id": 3503040002,
+  "districtId": 3503040,
+  "districtName": "KAMPAK",
+  "name": "KARANGREJO",
+  "postalCode": "35387"
+ },
+ {
+  "id": 3503040004,
+  "districtId": 3503040,
+  "districtName": "KAMPAK",
+  "name": "SUGIHAN",
+  "postalCode": "32272"
+ },
+ {
+  "id": 3503040005,
+  "districtId": 3503040,
+  "districtName": "KAMPAK",
+  "name": "BENDOAGUNG",
+  "postalCode": "66373"
+ },
+ {
+  "id": 3503040006,
+  "districtId": 3503040,
+  "districtName": "KAMPAK",
+  "name": "BOGORAN",
+  "postalCode": "56373"
+ },
+ {
+  "id": 3503040007,
+  "districtId": 3503040,
+  "districtName": "KAMPAK",
+  "name": "TIMAHAN",
+  "postalCode": "66373"
+ }
+]

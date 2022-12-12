@@ -1,0 +1,65 @@
+[
+ {
+  "id": 7603020001,
+  "districtId": 7603020,
+  "districtName": "MESSAWA",
+  "name": "MESSAWA",
+  "postalCode": "91361"
+ },
+ {
+  "id": 7603020002,
+  "districtId": 7603020,
+  "districtName": "MESSAWA",
+  "name": "RIPPUNG",
+  "postalCode": "91361"
+ },
+ {
+  "id": 7603020003,
+  "districtId": 7603020,
+  "districtName": "MESSAWA",
+  "name": "MAKUANG",
+  "postalCode": "91361"
+ },
+ {
+  "id": 7603020004,
+  "districtId": 7603020,
+  "districtName": "MESSAWA",
+  "name": "SEPANG",
+  "postalCode": "24655"
+ },
+ {
+  "id": 7603020005,
+  "districtId": 7603020,
+  "districtName": "MESSAWA",
+  "name": "MALIMBONG",
+  "postalCode": "91861"
+ },
+ {
+  "id": 7603020006,
+  "districtId": 7603020,
+  "districtName": "MESSAWA",
+  "name": "MATANDE",
+  "postalCode": "91361"
+ },
+ {
+  "id": 7603020007,
+  "districtId": 7603020,
+  "districtName": "MESSAWA",
+  "name": "SIPAI",
+  "postalCode": "91361"
+ },
+ {
+  "id": 7603020008,
+  "districtId": 7603020,
+  "districtName": "MESSAWA",
+  "name": "PASAPA' MAMBU",
+  "postalCode": ""
+ },
+ {
+  "id": 7603020009,
+  "districtId": 7603020,
+  "districtName": "MESSAWA",
+  "name": "TANETE BATU",
+  "postalCode": ""
+ }
+]

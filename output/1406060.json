@@ -1,0 +1,128 @@
+[
+ {
+  "id": 1406060001,
+  "districtId": 1406060,
+  "districtName": "KAMPAR",
+  "name": "BATU BELAH",
+  "postalCode": "28461"
+ },
+ {
+  "id": 1406060002,
+  "districtId": 1406060,
+  "districtName": "KAMPAR",
+  "name": "TANJUNG BERULAK",
+  "postalCode": "28461"
+ },
+ {
+  "id": 1406060003,
+  "districtId": 1406060,
+  "districtName": "KAMPAR",
+  "name": "AIR TIRIS",
+  "postalCode": "28461"
+ },
+ {
+  "id": 1406060004,
+  "districtId": 1406060,
+  "districtName": "KAMPAR",
+  "name": "RANAH",
+  "postalCode": "26231"
+ },
+ {
+  "id": 1406060005,
+  "districtId": 1406060,
+  "districtName": "KAMPAR",
+  "name": "PENYASAWAN",
+  "postalCode": "28461"
+ },
+ {
+  "id": 1406060006,
+  "districtId": 1406060,
+  "districtName": "KAMPAR",
+  "name": "RUMBIO",
+  "postalCode": "22978"
+ },
+ {
+  "id": 1406060007,
+  "districtId": 1406060,
+  "districtName": "KAMPAR",
+  "name": "PADANG MUTUNG",
+  "postalCode": "28461"
+ },
+ {
+  "id": 1406060025,
+  "districtId": 1406060,
+  "districtName": "KAMPAR",
+  "name": "SIMPANG KUBU",
+  "postalCode": "28461"
+ },
+ {
+  "id": 1406060026,
+  "districtId": 1406060,
+  "districtName": "KAMPAR",
+  "name": "TANJUNG RAMBUTAN",
+  "postalCode": "28461"
+ },
+ {
+  "id": 1406060028,
+  "districtId": 1406060,
+  "districtName": "KAMPAR",
+  "name": "PULAU JAMBU",
+  "postalCode": "29555"
+ },
+ {
+  "id": 1406060029,
+  "districtId": 1406060,
+  "districtName": "KAMPAR",
+  "name": "LIMAU MANIS",
+  "postalCode": "22998"
+ },
+ {
+  "id": 1406060030,
+  "districtId": 1406060,
+  "districtName": "KAMPAR",
+  "name": "NAUMBAI",
+  "postalCode": "28461"
+ },
+ {
+  "id": 1406060031,
+  "districtId": 1406060,
+  "districtName": "KAMPAR",
+  "name": "RANAH SINGKUANG",
+  "postalCode": "28461"
+ },
+ {
+  "id": 1406060032,
+  "districtId": 1406060,
+  "districtName": "KAMPAR",
+  "name": "PULAU TINGGI",
+  "postalCode": "28461"
+ },
+ {
+  "id": 1406060033,
+  "districtId": 1406060,
+  "districtName": "KAMPAR",
+  "name": "KOTO TIBUN",
+  "postalCode": "28461"
+ },
+ {
+  "id": 1406060034,
+  "districtId": 1406060,
+  "districtName": "KAMPAR",
+  "name": "BUKIT RANAH",
+  "postalCode": "28461"
+ },
+ {
+  "id": 1406060035,
+  "districtId": 1406060,
+  "districtName": "KAMPAR",
+  "name": "RANAH BARU",
+  "postalCode": "28461"
+ },
+ {
+  "id": 1406060036,
+  "districtId": 1406060,
+  "districtName": "KAMPAR",
+  "name": "PULAU SARAK",
+  "postalCode": "28461"
+ }
+]

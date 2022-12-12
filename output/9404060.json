@@ -1,0 +1,30 @@
+[
+ {
+  "id": 9404060001,
+  "districtId": 9404060,
+  "districtName": "YAUR",
+  "name": "WAMI JAYA",
+  "postalCode": ""
+ },
+ {
+  "id": 9404060002,
+  "districtId": 9404060,
+  "districtName": "YAUR",
+  "name": "SIMA",
+  "postalCode": "52354"
+ },
+ {
+  "id": 9404060003,
+  "districtId": 9404060,
+  "districtName": "YAUR",
+  "name": "AKUDIOMI",
+  "postalCode": ""
+ },
+ {
+  "id": 9404060004,
+  "districtId": 9404060,
+  "districtName": "YAUR",
+  "name": "YAUR",
+  "postalCode": "98852"
+ }
+]

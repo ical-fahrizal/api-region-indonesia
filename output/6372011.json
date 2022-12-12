@@ -1,0 +1,30 @@
+[
+ {
+  "id": 6372011001,
+  "districtId": 6372011,
+  "districtName": "LIANG ANGGANG",
+  "name": "LANDASAN ULIN TENGAH",
+  "postalCode": "70723"
+ },
+ {
+  "id": 6372011002,
+  "districtId": 6372011,
+  "districtName": "LIANG ANGGANG",
+  "name": "LANDASAN ULIN UTARA",
+  "postalCode": "70724"
+ },
+ {
+  "id": 6372011003,
+  "districtId": 6372011,
+  "districtName": "LIANG ANGGANG",
+  "name": "LANDASAN ULIN BARAT",
+  "postalCode": "70722"
+ },
+ {
+  "id": 6372011004,
+  "districtId": 6372011,
+  "districtName": "LIANG ANGGANG",
+  "name": "LANDASAN ULIN SELATAN",
+  "postalCode": "70724"
+ }
+]

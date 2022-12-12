@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1673010,
+  "regencieId": 1673,
+  "regencieName": "KOTA PAGAR ALAM",
+  "name": "DEMPO SELATAN"
+ },
+ {
+  "id": 1673011,
+  "regencieId": 1673,
+  "regencieName": "KOTA PAGAR ALAM",
+  "name": "DEMPO TENGAH"
+ },
+ {
+  "id": 1673020,
+  "regencieId": 1673,
+  "regencieName": "KOTA PAGAR ALAM",
+  "name": "DEMPO UTARA"
+ },
+ {
+  "id": 1673030,
+  "regencieId": 1673,
+  "regencieName": "KOTA PAGAR ALAM",
+  "name": "PAGAR ALAM SELATAN"
+ },
+ {
+  "id": 1673040,
+  "regencieId": 1673,
+  "regencieName": "KOTA PAGAR ALAM",
+  "name": "PAGAR ALAM UTARA"
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "id": 5303162001,
+  "districtId": 5303162,
+  "districtName": "FATULEU BARAT",
+  "name": "KALALI",
+  "postalCode": "85223"
+ },
+ {
+  "id": 5303162002,
+  "districtId": 5303162,
+  "districtName": "FATULEU BARAT",
+  "name": "POTO",
+  "postalCode": "84381"
+ },
+ {
+  "id": 5303162003,
+  "districtId": 5303162,
+  "districtName": "FATULEU BARAT",
+  "name": "NAITAE",
+  "postalCode": "85223"
+ },
+ {
+  "id": 5303162004,
+  "districtId": 5303162,
+  "districtName": "FATULEU BARAT",
+  "name": "NUATAUS",
+  "postalCode": "85223"
+ },
+ {
+  "id": 5303162005,
+  "districtId": 5303162,
+  "districtName": "FATULEU BARAT",
+  "name": "TUAKAU",
+  "postalCode": "85223"
+ }
+]

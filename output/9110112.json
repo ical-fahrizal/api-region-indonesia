@@ -1,0 +1,37 @@
+[
+ {
+  "id": 9110112001,
+  "districtId": 9110112,
+  "districtName": "AIFAT TIMUR JAUH",
+  "name": "AIMAU",
+  "postalCode": "98463"
+ },
+ {
+  "id": 9110112011,
+  "districtId": 9110112,
+  "districtName": "AIFAT TIMUR JAUH",
+  "name": "MESYAM",
+  "postalCode": "98463"
+ },
+ {
+  "id": 9110112012,
+  "districtId": 9110112,
+  "districtName": "AIFAT TIMUR JAUH",
+  "name": "AISASIOR",
+  "postalCode": ""
+ },
+ {
+  "id": 9110112013,
+  "districtId": 9110112,
+  "districtName": "AIFAT TIMUR JAUH",
+  "name": "AINESRA",
+  "postalCode": "98463"
+ },
+ {
+  "id": 9110112014,
+  "districtId": 9110112,
+  "districtName": "AIFAT TIMUR JAUH",
+  "name": "FRAMNEWAY",
+  "postalCode": "98463"
+ }
+]

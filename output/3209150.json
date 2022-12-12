@@ -1,0 +1,58 @@
+[
+ {
+  "id": 3209150005,
+  "districtId": 3209150,
+  "districtName": "WERU",
+  "name": "KARANGSARI",
+  "postalCode": "35376"
+ },
+ {
+  "id": 3209150006,
+  "districtId": 3209150,
+  "districtName": "WERU",
+  "name": "KERTASARI",
+  "postalCode": "31658"
+ },
+ {
+  "id": 3209150007,
+  "districtId": 3209150,
+  "districtName": "WERU",
+  "name": "MEGU CILIK",
+  "postalCode": ""
+ },
+ {
+  "id": 3209150009,
+  "districtId": 3209150,
+  "districtName": "WERU",
+  "name": "SETU WETAN",
+  "postalCode": "45651"
+ },
+ {
+  "id": 3209150010,
+  "districtId": 3209150,
+  "districtName": "WERU",
+  "name": "WERU KIDUL",
+  "postalCode": "45154"
+ },
+ {
+  "id": 3209150011,
+  "districtId": 3209150,
+  "districtName": "WERU",
+  "name": "SETU KULON",
+  "postalCode": "45154"
+ },
+ {
+  "id": 3209150012,
+  "districtId": 3209150,
+  "districtName": "WERU",
+  "name": "TEGALWANGI",
+  "postalCode": "45154"
+ },
+ {
+  "id": 3209150015,
+  "districtId": 3209150,
+  "districtName": "WERU",
+  "name": "WERU LOR",
+  "postalCode": "45154"
+ }
+]

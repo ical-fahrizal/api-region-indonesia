@@ -1,0 +1,65 @@
+[
+ {
+  "id": 6502040001,
+  "districtId": 6502040,
+  "districtName": "TANJUNG PALAS",
+  "name": "ANTUTAN",
+  "postalCode": "77211"
+ },
+ {
+  "id": 6502040002,
+  "districtId": 6502040,
+  "districtName": "TANJUNG PALAS",
+  "name": "PEJALIN",
+  "postalCode": "77211"
+ },
+ {
+  "id": 6502040003,
+  "districtId": 6502040,
+  "districtName": "TANJUNG PALAS",
+  "name": "TANJUNG PALAS HULU",
+  "postalCode": ""
+ },
+ {
+  "id": 6502040004,
+  "districtId": 6502040,
+  "districtName": "TANJUNG PALAS",
+  "name": "TANJUNG PALAS TENGAH",
+  "postalCode": "77216"
+ },
+ {
+  "id": 6502040005,
+  "districtId": 6502040,
+  "districtName": "TANJUNG PALAS",
+  "name": "KARANG ANYAR",
+  "postalCode": "24415"
+ },
+ {
+  "id": 6502040006,
+  "districtId": 6502040,
+  "districtName": "TANJUNG PALAS",
+  "name": "GUNUNG PUTIH/KR. JENAWI",
+  "postalCode": ""
+ },
+ {
+  "id": 6502040007,
+  "districtId": 6502040,
+  "districtName": "TANJUNG PALAS",
+  "name": "TANJUNG PALAS HILIR",
+  "postalCode": ""
+ },
+ {
+  "id": 6502040008,
+  "districtId": 6502040,
+  "districtName": "TANJUNG PALAS",
+  "name": "TERAS BARU",
+  "postalCode": "77214"
+ },
+ {
+  "id": 6502040009,
+  "districtId": 6502040,
+  "districtName": "TANJUNG PALAS",
+  "name": "TERAS NAWANG",
+  "postalCode": "77214"
+ }
+]

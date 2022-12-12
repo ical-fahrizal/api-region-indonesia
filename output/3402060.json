@@ -1,0 +1,30 @@
+[
+ {
+  "id": 3402060001,
+  "districtId": 3402060,
+  "districtName": "PANDAK",
+  "name": "CATURHARJO",
+  "postalCode": "55761"
+ },
+ {
+  "id": 3402060002,
+  "districtId": 3402060,
+  "districtName": "PANDAK",
+  "name": "TRIHARJO",
+  "postalCode": "35357"
+ },
+ {
+  "id": 3402060003,
+  "districtId": 3402060,
+  "districtName": "PANDAK",
+  "name": "GILANGHARJO",
+  "postalCode": "55761"
+ },
+ {
+  "id": 3402060004,
+  "districtId": 3402060,
+  "districtName": "PANDAK",
+  "name": "WIJIREJO",
+  "postalCode": "55761"
+ }
+]

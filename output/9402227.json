@@ -1,0 +1,51 @@
+[
+ {
+  "id": 9402227011,
+  "districtId": 9402227,
+  "districtName": "BPIRI",
+  "name": "IRILINGGA",
+  "postalCode": ""
+ },
+ {
+  "id": 9402227012,
+  "districtId": 9402227,
+  "districtName": "BPIRI",
+  "name": "ONGGOBAGA",
+  "postalCode": ""
+ },
+ {
+  "id": 9402227014,
+  "districtId": 9402227,
+  "districtName": "BPIRI",
+  "name": "WALAKMA",
+  "postalCode": "99557"
+ },
+ {
+  "id": 9402227017,
+  "districtId": 9402227,
+  "districtName": "BPIRI",
+  "name": "TIRUNGGU",
+  "postalCode": "99557"
+ },
+ {
+  "id": 9402227018,
+  "districtId": 9402227,
+  "districtName": "BPIRI",
+  "name": "AYOMA",
+  "postalCode": "99557"
+ },
+ {
+  "id": 9402227019,
+  "districtId": 9402227,
+  "districtName": "BPIRI",
+  "name": "DLONGGOKI",
+  "postalCode": "99557"
+ },
+ {
+  "id": 9402227020,
+  "districtId": 9402227,
+  "districtName": "BPIRI",
+  "name": "DLINGGAMA",
+  "postalCode": "99557"
+ }
+]

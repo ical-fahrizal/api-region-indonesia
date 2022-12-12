@@ -1,0 +1,51 @@
+[
+ {
+  "id": 7403193001,
+  "districtId": 7403193,
+  "districtName": "ROUTA",
+  "name": "WALANDAWE",
+  "postalCode": "93353"
+ },
+ {
+  "id": 7403193002,
+  "districtId": 7403193,
+  "districtName": "ROUTA",
+  "name": "ROUTA",
+  "postalCode": "93353"
+ },
+ {
+  "id": 7403193003,
+  "districtId": 7403193,
+  "districtName": "ROUTA",
+  "name": "TIRAWONUA",
+  "postalCode": "93353"
+ },
+ {
+  "id": 7403193004,
+  "districtId": 7403193,
+  "districtName": "ROUTA",
+  "name": "PARUDONGKA",
+  "postalCode": "93353"
+ },
+ {
+  "id": 7403193006,
+  "districtId": 7403193,
+  "districtName": "ROUTA",
+  "name": "PUUWIWIRANO",
+  "postalCode": ""
+ },
+ {
+  "id": 7403193007,
+  "districtId": 7403193,
+  "districtName": "ROUTA",
+  "name": "LALOMERUI",
+  "postalCode": ""
+ },
+ {
+  "id": 7403193008,
+  "districtId": 7403193,
+  "districtName": "ROUTA",
+  "name": "TANGGOLA",
+  "postalCode": ""
+ }
+]

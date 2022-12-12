@@ -1,0 +1,37 @@
+[
+ {
+  "id": 8101051001,
+  "districtId": 8101051,
+  "districtName": "YARU",
+  "name": "ROMEAN",
+  "postalCode": "97463"
+ },
+ {
+  "id": 8101051003,
+  "districtId": 8101051,
+  "districtName": "YARU",
+  "name": "AWEAR",
+  "postalCode": "97463"
+ },
+ {
+  "id": 8101051004,
+  "districtId": 8101051,
+  "districtName": "YARU",
+  "name": "SOFYANIN",
+  "postalCode": "97463"
+ },
+ {
+  "id": 8101051005,
+  "districtId": 8101051,
+  "districtName": "YARU",
+  "name": "WALERANG",
+  "postalCode": "97463"
+ },
+ {
+  "id": 8101051006,
+  "districtId": 8101051,
+  "districtName": "YARU",
+  "name": "ADODO FORDATA",
+  "postalCode": "97463"
+ }
+]

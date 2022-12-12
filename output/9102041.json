@@ -1,0 +1,44 @@
+[
+ {
+  "id": 9102041001,
+  "districtId": 9102041,
+  "districtName": "YAMOR",
+  "name": "HAIRAPARA",
+  "postalCode": "98655"
+ },
+ {
+  "id": 9102041002,
+  "districtId": 9102041,
+  "districtName": "YAMOR",
+  "name": "COREMURI/OMBAPAMUKU",
+  "postalCode": ""
+ },
+ {
+  "id": 9102041003,
+  "districtId": 9102041,
+  "districtName": "YAMOR",
+  "name": "WOSOKUNO",
+  "postalCode": "98655"
+ },
+ {
+  "id": 9102041004,
+  "districtId": 9102041,
+  "districtName": "YAMOR",
+  "name": "WAGIOHA",
+  "postalCode": ""
+ },
+ {
+  "id": 9102041005,
+  "districtId": 9102041,
+  "districtName": "YAMOR",
+  "name": "URUBIKA",
+  "postalCode": "98655"
+ },
+ {
+  "id": 9102041006,
+  "districtId": 9102041,
+  "districtName": "YAMOR",
+  "name": "MURY/URAY",
+  "postalCode": ""
+ }
+]

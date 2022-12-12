@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3278040001,
+  "districtId": 3278040,
+  "districtName": "TAWANG",
+  "name": "KAHURIPAN",
+  "postalCode": "46115"
+ },
+ {
+  "id": 3278040002,
+  "districtId": 3278040,
+  "districtName": "TAWANG",
+  "name": "CIKALANG",
+  "postalCode": "46114"
+ },
+ {
+  "id": 3278040003,
+  "districtId": 3278040,
+  "districtName": "TAWANG",
+  "name": "EMPANGSARI",
+  "postalCode": "46113"
+ },
+ {
+  "id": 3278040004,
+  "districtId": 3278040,
+  "districtName": "TAWANG",
+  "name": "TAWANGSARI",
+  "postalCode": "45365"
+ },
+ {
+  "id": 3278040005,
+  "districtId": 3278040,
+  "districtName": "TAWANG",
+  "name": "LENGKONGSARI",
+  "postalCode": "46111"
+ }
+]

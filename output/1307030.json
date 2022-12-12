@@ -1,0 +1,65 @@
+[
+ {
+  "id": 1307030001,
+  "districtId": 1307030,
+  "districtName": "TANJUNG RAYA",
+  "name": "TANJUNG SANI",
+  "postalCode": "26471"
+ },
+ {
+  "id": 1307030002,
+  "districtId": 1307030,
+  "districtName": "TANJUNG RAYA",
+  "name": "SUNGAI BATANG",
+  "postalCode": "26471"
+ },
+ {
+  "id": 1307030003,
+  "districtId": 1307030,
+  "districtName": "TANJUNG RAYA",
+  "name": "MANINJAU",
+  "postalCode": "26471"
+ },
+ {
+  "id": 1307030004,
+  "districtId": 1307030,
+  "districtName": "TANJUNG RAYA",
+  "name": "BAYUA",
+  "postalCode": "26471"
+ },
+ {
+  "id": 1307030005,
+  "districtId": 1307030,
+  "districtName": "TANJUNG RAYA",
+  "name": "DUO KOTO",
+  "postalCode": "26471"
+ },
+ {
+  "id": 1307030006,
+  "districtId": 1307030,
+  "districtName": "TANJUNG RAYA",
+  "name": "PANINJAUAN",
+  "postalCode": "27151"
+ },
+ {
+  "id": 1307030007,
+  "districtId": 1307030,
+  "districtName": "TANJUNG RAYA",
+  "name": "KOTO KACIAK",
+  "postalCode": "26381"
+ },
+ {
+  "id": 1307030008,
+  "districtId": 1307030,
+  "districtName": "TANJUNG RAYA",
+  "name": "KOTO GADANG ANAM KOTO",
+  "postalCode": ""
+ },
+ {
+  "id": 1307030009,
+  "districtId": 1307030,
+  "districtName": "TANJUNG RAYA",
+  "name": "KOTO MALINTANG",
+  "postalCode": "26471"
+ }
+]

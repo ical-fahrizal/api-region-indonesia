@@ -1,0 +1,51 @@
+[
+ {
+  "id": 7503021001,
+  "districtId": 7503021,
+  "districtName": "WANGGARASI",
+  "name": "WONGGARASI TIMUR",
+  "postalCode": ""
+ },
+ {
+  "id": 7503021002,
+  "districtId": 7503021,
+  "districtName": "WANGGARASI",
+  "name": "BUKIT HARAPAN",
+  "postalCode": "24784"
+ },
+ {
+  "id": 7503021003,
+  "districtId": 7503021,
+  "districtName": "WANGGARASI",
+  "name": "BOHUSAMI",
+  "postalCode": "96253"
+ },
+ {
+  "id": 7503021004,
+  "districtId": 7503021,
+  "districtName": "WANGGARASI",
+  "name": "LEMBAH PERMAI",
+  "postalCode": ""
+ },
+ {
+  "id": 7503021005,
+  "districtId": 7503021,
+  "districtName": "WANGGARASI",
+  "name": "LIMBULA",
+  "postalCode": "96469"
+ },
+ {
+  "id": 7503021006,
+  "districtId": 7503021,
+  "districtName": "WANGGARASI",
+  "name": "TUWEYA",
+  "postalCode": "96469"
+ },
+ {
+  "id": 7503021007,
+  "districtId": 7503021,
+  "districtName": "WANGGARASI",
+  "name": "YIPILO",
+  "postalCode": "96469"
+ }
+]

@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3507180001,
+  "districtId": 3507180,
+  "districtName": "KROMENGAN",
+  "name": "SLOROK",
+  "postalCode": "66186"
+ },
+ {
+  "id": 3507180002,
+  "districtId": 3507180,
+  "districtName": "KROMENGAN",
+  "name": "JATIKERTO",
+  "postalCode": "65165"
+ },
+ {
+  "id": 3507180003,
+  "districtId": 3507180,
+  "districtName": "KROMENGAN",
+  "name": "NGADIREJO",
+  "postalCode": "31662"
+ },
+ {
+  "id": 3507180004,
+  "districtId": 3507180,
+  "districtName": "KROMENGAN",
+  "name": "KARANGREJO",
+  "postalCode": "35387"
+ },
+ {
+  "id": 3507180005,
+  "districtId": 3507180,
+  "districtName": "KROMENGAN",
+  "name": "KROMENGAN",
+  "postalCode": "65165"
+ },
+ {
+  "id": 3507180006,
+  "districtId": 3507180,
+  "districtName": "KROMENGAN",
+  "name": "PENIWEN",
+  "postalCode": "65165"
+ },
+ {
+  "id": 3507180007,
+  "districtId": 3507180,
+  "districtName": "KROMENGAN",
+  "name": "JAMBUWER",
+  "postalCode": "65165"
+ }
+]

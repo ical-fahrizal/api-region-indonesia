@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3201231001,
+  "districtId": 3201231,
+  "districtName": "RANCA BUNGUR",
+  "name": "MEKARSARI",
+  "postalCode": "37482"
+ },
+ {
+  "id": 3201231002,
+  "districtId": 3201231,
+  "districtName": "RANCA BUNGUR",
+  "name": "RANCA BUNGUR",
+  "postalCode": ""
+ },
+ {
+  "id": 3201231003,
+  "districtId": 3201231,
+  "districtName": "RANCA BUNGUR",
+  "name": "PASIR GAOK",
+  "postalCode": ""
+ },
+ {
+  "id": 3201231004,
+  "districtId": 3201231,
+  "districtName": "RANCA BUNGUR",
+  "name": "BANTARJAYA",
+  "postalCode": "17710"
+ },
+ {
+  "id": 3201231005,
+  "districtId": 3201231,
+  "districtName": "RANCA BUNGUR",
+  "name": "BANTAR SARI",
+  "postalCode": ""
+ },
+ {
+  "id": 3201231006,
+  "districtId": 3201231,
+  "districtName": "RANCA BUNGUR",
+  "name": "CANDALI",
+  "postalCode": "16310"
+ },
+ {
+  "id": 3201231007,
+  "districtId": 3201231,
+  "districtName": "RANCA BUNGUR",
+  "name": "CIMULANG",
+  "postalCode": ""
+ }
+]

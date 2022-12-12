@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3579020002,
+  "districtId": 3579020,
+  "districtName": "JUNREJO",
+  "name": "JUNREJO",
+  "postalCode": "65321"
+ },
+ {
+  "id": 3579020003,
+  "districtId": 3579020,
+  "districtName": "JUNREJO",
+  "name": "MOJOREJO",
+  "postalCode": "39153"
+ },
+ {
+  "id": 3579020004,
+  "districtId": 3579020,
+  "districtName": "JUNREJO",
+  "name": "TORONGREJO",
+  "postalCode": "65325"
+ },
+ {
+  "id": 3579020005,
+  "districtId": 3579020,
+  "districtName": "JUNREJO",
+  "name": "BEJI",
+  "postalCode": "16421"
+ },
+ {
+  "id": 3579020007,
+  "districtId": 3579020,
+  "districtName": "JUNREJO",
+  "name": "DADAPREJO",
+  "postalCode": "65323"
+ }
+]

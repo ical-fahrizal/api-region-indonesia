@@ -1,0 +1,51 @@
+[
+ {
+  "id": 1273010004,
+  "districtId": 1273010,
+  "districtName": "SIANTAR MARIHAT",
+  "name": "SUKAMAJU",
+  "postalCode": "22465"
+ },
+ {
+  "id": 1273010005,
+  "districtId": 1273010,
+  "districtName": "SIANTAR MARIHAT",
+  "name": "PARDAMEAN",
+  "postalCode": "24673"
+ },
+ {
+  "id": 1273010006,
+  "districtId": 1273010,
+  "districtName": "SIANTAR MARIHAT",
+  "name": "SUKARAJA",
+  "postalCode": "21256"
+ },
+ {
+  "id": 1273010007,
+  "districtId": 1273010,
+  "districtName": "SIANTAR MARIHAT",
+  "name": "BP NAULI",
+  "postalCode": ""
+ },
+ {
+  "id": 1273010008,
+  "districtId": 1273010,
+  "districtName": "SIANTAR MARIHAT",
+  "name": "SUKAMAKMUR",
+  "postalCode": "21128"
+ },
+ {
+  "id": 1273010009,
+  "districtId": 1273010,
+  "districtName": "SIANTAR MARIHAT",
+  "name": "PARHORASAN NAULI",
+  "postalCode": "21129"
+ },
+ {
+  "id": 1273010010,
+  "districtId": 1273010,
+  "districtName": "SIANTAR MARIHAT",
+  "name": "MEKAR NAULI",
+  "postalCode": "21129"
+ }
+]

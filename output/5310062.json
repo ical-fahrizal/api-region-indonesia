@@ -1,0 +1,44 @@
+[
+ {
+  "id": 5310062001,
+  "districtId": 5310062,
+  "districtName": "KOTING",
+  "name": "KOTING C",
+  "postalCode": "86116"
+ },
+ {
+  "id": 5310062002,
+  "districtId": 5310062,
+  "districtName": "KOTING",
+  "name": "KOTING D",
+  "postalCode": "86116"
+ },
+ {
+  "id": 5310062003,
+  "districtId": 5310062,
+  "districtName": "KOTING",
+  "name": "PAUBEKOR",
+  "postalCode": "86116"
+ },
+ {
+  "id": 5310062004,
+  "districtId": 5310062,
+  "districtName": "KOTING",
+  "name": "KOTING B",
+  "postalCode": "86116"
+ },
+ {
+  "id": 5310062005,
+  "districtId": 5310062,
+  "districtName": "KOTING",
+  "name": "KOTING A",
+  "postalCode": "86116"
+ },
+ {
+  "id": 5310062006,
+  "districtId": 5310062,
+  "districtName": "KOTING",
+  "name": "RIBANG",
+  "postalCode": "86116"
+ }
+]

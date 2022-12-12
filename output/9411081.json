@@ -1,0 +1,65 @@
+[
+ {
+  "id": 9411081001,
+  "districtId": 9411081,
+  "districtName": "LUMO",
+  "name": "WURAMBURU",
+  "postalCode": "98918"
+ },
+ {
+  "id": 9411081002,
+  "districtId": 9411081,
+  "districtName": "LUMO",
+  "name": "GILIBE",
+  "postalCode": "98918"
+ },
+ {
+  "id": 9411081003,
+  "districtId": 9411081,
+  "districtName": "LUMO",
+  "name": "TIGIR",
+  "postalCode": "99562"
+ },
+ {
+  "id": 9411081004,
+  "districtId": 9411081,
+  "districtName": "LUMO",
+  "name": "WULUMA",
+  "postalCode": ""
+ },
+ {
+  "id": 9411081005,
+  "districtId": 9411081,
+  "districtName": "LUMO",
+  "name": "NINGGINERI",
+  "postalCode": "98918"
+ },
+ {
+  "id": 9411081006,
+  "districtId": 9411081,
+  "districtName": "LUMO",
+  "name": "WURABAK",
+  "postalCode": "98918"
+ },
+ {
+  "id": 9411081007,
+  "districtId": 9411081,
+  "districtName": "LUMO",
+  "name": "LUMO",
+  "postalCode": "98918"
+ },
+ {
+  "id": 9411081008,
+  "districtId": 9411081,
+  "districtName": "LUMO",
+  "name": "GILUME",
+  "postalCode": ""
+ },
+ {
+  "id": 9411081009,
+  "districtId": 9411081,
+  "districtName": "LUMO",
+  "name": "KILILUMO",
+  "postalCode": "98918"
+ }
+]

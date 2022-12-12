@@ -1,0 +1,37 @@
+[
+ {
+  "id": 9430093001,
+  "districtId": 9430093,
+  "districtName": "GUNA",
+  "name": "GUKOP",
+  "postalCode": ""
+ },
+ {
+  "id": 9430093003,
+  "districtId": 9430093,
+  "districtName": "GUNA",
+  "name": "KORI",
+  "postalCode": "63475"
+ },
+ {
+  "id": 9430093004,
+  "districtId": 9430093,
+  "districtName": "GUNA",
+  "name": "KEYAGALO",
+  "postalCode": ""
+ },
+ {
+  "id": 9430093005,
+  "districtId": 9430093,
+  "districtName": "GUNA",
+  "name": "GUNA",
+  "postalCode": "98915"
+ },
+ {
+  "id": 9430093006,
+  "districtId": 9430093,
+  "districtName": "GUNA",
+  "name": "NONDINIME",
+  "postalCode": ""
+ }
+]

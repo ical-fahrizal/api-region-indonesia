@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3604271001,
+  "districtId": 3604271,
+  "districtName": "TANARA",
+  "name": "SIREMEN",
+  "postalCode": "42194"
+ },
+ {
+  "id": 3604271002,
+  "districtId": 3604271,
+  "districtName": "TANARA",
+  "name": "CIBODAS",
+  "postalCode": "43353"
+ },
+ {
+  "id": 3604271004,
+  "districtId": 3604271,
+  "districtName": "TANARA",
+  "name": "LEMPUYANG",
+  "postalCode": "45256"
+ },
+ {
+  "id": 3604271006,
+  "districtId": 3604271,
+  "districtName": "TANARA",
+  "name": "SUKAMANAH",
+  "postalCode": "43273"
+ },
+ {
+  "id": 3604271007,
+  "districtId": 3604271,
+  "districtName": "TANARA",
+  "name": "TANARA",
+  "postalCode": "42194"
+ },
+ {
+  "id": 3604271008,
+  "districtId": 3604271,
+  "districtName": "TANARA",
+  "name": "PEDALEMAN",
+  "postalCode": "42194"
+ },
+ {
+  "id": 3604271009,
+  "districtId": 3604271,
+  "districtName": "TANARA",
+  "name": "TENJO AYU",
+  "postalCode": "42194"
+ }
+]

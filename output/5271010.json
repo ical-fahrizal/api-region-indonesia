@@ -1,0 +1,65 @@
+[
+ {
+  "id": 5271010004,
+  "districtId": 5271010,
+  "districtName": "AMPENAN",
+  "name": "AMPENAN SELATAN",
+  "postalCode": "83114"
+ },
+ {
+  "id": 5271010005,
+  "districtId": 5271010,
+  "districtName": "AMPENAN",
+  "name": "AMPENAN TENGAH",
+  "postalCode": "83112"
+ },
+ {
+  "id": 5271010007,
+  "districtId": 5271010,
+  "districtName": "AMPENAN",
+  "name": "AMPENAN UTARA",
+  "postalCode": "83511"
+ },
+ {
+  "id": 5271010008,
+  "districtId": 5271010,
+  "districtName": "AMPENAN",
+  "name": "BANJAR",
+  "postalCode": "21263"
+ },
+ {
+  "id": 5271010009,
+  "districtId": 5271010,
+  "districtName": "AMPENAN",
+  "name": "TAMAN SARI",
+  "postalCode": "21264"
+ },
+ {
+  "id": 5271010010,
+  "districtId": 5271010,
+  "districtName": "AMPENAN",
+  "name": "KEBON SARI",
+  "postalCode": ""
+ },
+ {
+  "id": 5271010011,
+  "districtId": 5271010,
+  "districtName": "AMPENAN",
+  "name": "PEJARAKAN KARYA",
+  "postalCode": ""
+ },
+ {
+  "id": 5271010012,
+  "districtId": 5271010,
+  "districtName": "AMPENAN",
+  "name": "BINTARO",
+  "postalCode": "12330"
+ },
+ {
+  "id": 5271010013,
+  "districtId": 5271010,
+  "districtName": "AMPENAN",
+  "name": "DAYAN PEKEN",
+  "postalCode": ""
+ }
+]

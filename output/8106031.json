@@ -1,0 +1,37 @@
+[
+ {
+  "id": 8106031001,
+  "districtId": 8106031,
+  "districtName": "KAIRATU BARAT",
+  "name": "WAISARISA",
+  "postalCode": "97566"
+ },
+ {
+  "id": 8106031002,
+  "districtId": 8106031,
+  "districtName": "KAIRATU BARAT",
+  "name": "KAMAL",
+  "postalCode": "30653"
+ },
+ {
+  "id": 8106031004,
+  "districtId": 8106031,
+  "districtName": "KAIRATU BARAT",
+  "name": "WAESAMU",
+  "postalCode": ""
+ },
+ {
+  "id": 8106031005,
+  "districtId": 8106031,
+  "districtName": "KAIRATU BARAT",
+  "name": "WAIHATU",
+  "postalCode": "97566"
+ },
+ {
+  "id": 8106031006,
+  "districtId": 8106031,
+  "districtName": "KAIRATU BARAT",
+  "name": "LOHIATALA",
+  "postalCode": "97566"
+ }
+]

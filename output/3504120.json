@@ -1,0 +1,79 @@
+[
+ {
+  "id": 3504120001,
+  "districtId": 3504120,
+  "districtName": "TULUNGAGUNG",
+  "name": "KEDUNGSOKO",
+  "postalCode": "62283"
+ },
+ {
+  "id": 3504120003,
+  "districtId": 3504120,
+  "districtName": "TULUNGAGUNG",
+  "name": "KARANGWARU",
+  "postalCode": "57283"
+ },
+ {
+  "id": 3504120004,
+  "districtId": 3504120,
+  "districtName": "TULUNGAGUNG",
+  "name": "TAMANAN",
+  "postalCode": "55191"
+ },
+ {
+  "id": 3504120006,
+  "districtId": 3504120,
+  "districtName": "TULUNGAGUNG",
+  "name": "BAGO",
+  "postalCode": "58182"
+ },
+ {
+  "id": 3504120007,
+  "districtId": 3504120,
+  "districtName": "TULUNGAGUNG",
+  "name": "KEPATIHAN",
+  "postalCode": "57652"
+ },
+ {
+  "id": 3504120008,
+  "districtId": 3504120,
+  "districtName": "TULUNGAGUNG",
+  "name": "KAMPUNGDALEM",
+  "postalCode": "66212"
+ },
+ {
+  "id": 3504120009,
+  "districtId": 3504120,
+  "districtName": "TULUNGAGUNG",
+  "name": "KAUMAN",
+  "postalCode": "51215"
+ },
+ {
+  "id": 3504120010,
+  "districtId": 3504120,
+  "districtName": "TULUNGAGUNG",
+  "name": "KUTOANYAR",
+  "postalCode": "56252"
+ },
+ {
+  "id": 3504120012,
+  "districtId": 3504120,
+  "districtName": "TULUNGAGUNG",
+  "name": "PANGGUNGREJO",
+  "postalCode": "66261"
+ },
+ {
+  "id": 3504120013,
+  "districtId": 3504120,
+  "districtName": "TULUNGAGUNG",
+  "name": "BOTORAN",
+  "postalCode": "66213"
+ },
+ {
+  "id": 3504120014,
+  "districtId": 3504120,
+  "districtName": "TULUNGAGUNG",
+  "name": "KENAYAN",
+  "postalCode": "66212"
+ }
+]

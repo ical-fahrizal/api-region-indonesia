@@ -1,0 +1,72 @@
+[
+ {
+  "id": 1208020013,
+  "districtId": 1208020,
+  "districtName": "BANDAR PULAU",
+  "name": "BANDAR PULAU PEKAN",
+  "postalCode": "21274"
+ },
+ {
+  "id": 1208020014,
+  "districtId": 1208020,
+  "districtName": "BANDAR PULAU",
+  "name": "PADANG PULAU",
+  "postalCode": "21274"
+ },
+ {
+  "id": 1208020015,
+  "districtId": 1208020,
+  "districtName": "BANDAR PULAU",
+  "name": "PERKEBUNAN PADANG PULAU",
+  "postalCode": "21274"
+ },
+ {
+  "id": 1208020016,
+  "districtId": 1208020,
+  "districtName": "BANDAR PULAU",
+  "name": "BUNTU MARAJA",
+  "postalCode": "21274"
+ },
+ {
+  "id": 1208020017,
+  "districtId": 1208020,
+  "districtName": "BANDAR PULAU",
+  "name": "GONTING MALAHA",
+  "postalCode": "21274"
+ },
+ {
+  "id": 1208020018,
+  "districtId": 1208020,
+  "districtName": "BANDAR PULAU",
+  "name": "PERKEBUNAN AEK TARUM",
+  "postalCode": "21274"
+ },
+ {
+  "id": 1208020019,
+  "districtId": 1208020,
+  "districtName": "BANDAR PULAU",
+  "name": "GAJAH SAKTI",
+  "postalCode": "21274"
+ },
+ {
+  "id": 1208020020,
+  "districtId": 1208020,
+  "districtName": "BANDAR PULAU",
+  "name": "GUNUNG BERKAT",
+  "postalCode": "21274"
+ },
+ {
+  "id": 1208020021,
+  "districtId": 1208020,
+  "districtName": "BANDAR PULAU",
+  "name": "HUTA RAO",
+  "postalCode": "21274"
+ },
+ {
+  "id": 1208020022,
+  "districtId": 1208020,
+  "districtName": "BANDAR PULAU",
+  "name": "AEK NAGALI",
+  "postalCode": "21274"
+ }
+]

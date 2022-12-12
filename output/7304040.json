@@ -1,0 +1,37 @@
+[
+ {
+  "id": 7304040008,
+  "districtId": 7304040,
+  "districtName": "BATANG",
+  "name": "CAMBA-CAMBA",
+  "postalCode": "92361"
+ },
+ {
+  "id": 7304040009,
+  "districtId": 7304040,
+  "districtName": "BATANG",
+  "name": "MACCINIBAJI",
+  "postalCode": "92152"
+ },
+ {
+  "id": 7304040010,
+  "districtId": 7304040,
+  "districtName": "BATANG",
+  "name": "KALUKU",
+  "postalCode": "92361"
+ },
+ {
+  "id": 7304040011,
+  "districtId": 7304040,
+  "districtName": "BATANG",
+  "name": "TOGO-TOGO",
+  "postalCode": "92361"
+ },
+ {
+  "id": 7304040015,
+  "districtId": 7304040,
+  "districtName": "BATANG",
+  "name": "BONTORAYA",
+  "postalCode": "92361"
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "id": 3508070001,
+  "districtId": 3508070,
+  "districtName": "TEKUNG",
+  "name": "WONOGRIYO",
+  "postalCode": "67381"
+ },
+ {
+  "id": 3508070002,
+  "districtId": 3508070,
+  "districtName": "TEKUNG",
+  "name": "WONOSARI",
+  "postalCode": "24582"
+ },
+ {
+  "id": 3508070003,
+  "districtId": 3508070,
+  "districtName": "TEKUNG",
+  "name": "MANGUNSARI",
+  "postalCode": "50227"
+ },
+ {
+  "id": 3508070005,
+  "districtId": 3508070,
+  "districtName": "TEKUNG",
+  "name": "WONOKERTO",
+  "postalCode": "31662"
+ },
+ {
+  "id": 3508070007,
+  "districtId": 3508070,
+  "districtName": "TEKUNG",
+  "name": "KARANGBENDO",
+  "postalCode": "66153"
+ },
+ {
+  "id": 3508070008,
+  "districtId": 3508070,
+  "districtName": "TEKUNG",
+  "name": "KLAMPOKARUM",
+  "postalCode": "67381"
+ }
+]

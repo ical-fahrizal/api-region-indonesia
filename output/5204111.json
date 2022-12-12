@@ -1,0 +1,30 @@
+[
+ {
+  "id": 5204111001,
+  "districtId": 5204111,
+  "districtName": "LENANGGUAR",
+  "name": "LEDANG",
+  "postalCode": "84372"
+ },
+ {
+  "id": 5204111002,
+  "districtId": 5204111,
+  "districtName": "LENANGGUAR",
+  "name": "TATEBAL",
+  "postalCode": "84372"
+ },
+ {
+  "id": 5204111003,
+  "districtId": 5204111,
+  "districtName": "LENANGGUAR",
+  "name": "LENANGGUAR",
+  "postalCode": "84372"
+ },
+ {
+  "id": 5204111004,
+  "districtId": 5204111,
+  "districtName": "LENANGGUAR",
+  "name": "TELAGA",
+  "postalCode": "20771"
+ }
+]

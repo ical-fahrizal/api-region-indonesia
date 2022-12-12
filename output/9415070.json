@@ -1,0 +1,51 @@
+[
+ {
+  "id": 9415070003,
+  "districtId": 9415070,
+  "districtName": "SAWA ERMA",
+  "name": "ERMA",
+  "postalCode": "99778"
+ },
+ {
+  "id": 9415070004,
+  "districtId": 9415070,
+  "districtName": "SAWA ERMA",
+  "name": "SONA",
+  "postalCode": "99778"
+ },
+ {
+  "id": 9415070015,
+  "districtId": 9415070,
+  "districtName": "SAWA ERMA",
+  "name": "SAWA",
+  "postalCode": "93352"
+ },
+ {
+  "id": 9415070025,
+  "districtId": 9415070,
+  "districtName": "SAWA ERMA",
+  "name": "PUPIS",
+  "postalCode": "99778"
+ },
+ {
+  "id": 9415070026,
+  "districtId": 9415070,
+  "districtName": "SAWA ERMA",
+  "name": "AGANI",
+  "postalCode": "99778"
+ },
+ {
+  "id": 9415070029,
+  "districtId": 9415070,
+  "districtName": "SAWA ERMA",
+  "name": "SAUTI",
+  "postalCode": "99778"
+ },
+ {
+  "id": 9415070032,
+  "districtId": 9415070,
+  "districtName": "SAWA ERMA",
+  "name": "MUMUGU II",
+  "postalCode": ""
+ }
+]

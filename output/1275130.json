@@ -1,0 +1,51 @@
+[
+ {
+  "id": 1275130001,
+  "districtId": 1275130,
+  "districtName": "MEDAN PETISAH",
+  "name": "SEI SIKAMBING D",
+  "postalCode": "20119"
+ },
+ {
+  "id": 1275130002,
+  "districtId": 1275130,
+  "districtName": "MEDAN PETISAH",
+  "name": "PETISAH TENGAH",
+  "postalCode": "20112"
+ },
+ {
+  "id": 1275130003,
+  "districtId": 1275130,
+  "districtName": "MEDAN PETISAH",
+  "name": "S E K I P",
+  "postalCode": ""
+ },
+ {
+  "id": 1275130004,
+  "districtId": 1275130,
+  "districtName": "MEDAN PETISAH",
+  "name": "SEI PUTIH TIMUR II",
+  "postalCode": "20118"
+ },
+ {
+  "id": 1275130005,
+  "districtId": 1275130,
+  "districtName": "MEDAN PETISAH",
+  "name": "SEI PUTIH TIMUR I",
+  "postalCode": "20118"
+ },
+ {
+  "id": 1275130006,
+  "districtId": 1275130,
+  "districtName": "MEDAN PETISAH",
+  "name": "SEI PUTIH TENGAH",
+  "postalCode": "20118"
+ },
+ {
+  "id": 1275130007,
+  "districtId": 1275130,
+  "districtName": "MEDAN PETISAH",
+  "name": "SEI PUTIH BARAT",
+  "postalCode": "20118"
+ }
+]

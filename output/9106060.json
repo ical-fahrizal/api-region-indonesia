@@ -1,0 +1,51 @@
+[
+ {
+  "id": 9106060001,
+  "districtId": 9106060,
+  "districtName": "MOSWAREN",
+  "name": "BUMI AJO (SP I)",
+  "postalCode": ""
+ },
+ {
+  "id": 9106060002,
+  "districtId": 9106060,
+  "districtName": "MOSWAREN",
+  "name": "HASIK JAYA (SP II)",
+  "postalCode": ""
+ },
+ {
+  "id": 9106060003,
+  "districtId": 9106060,
+  "districtName": "MOSWAREN",
+  "name": "MOSWAREN",
+  "postalCode": "98454"
+ },
+ {
+  "id": 9106060004,
+  "districtId": 9106060,
+  "districtName": "MOSWAREN",
+  "name": "JOSHIRO",
+  "postalCode": "98454"
+ },
+ {
+  "id": 9106060005,
+  "districtId": 9106060,
+  "districtName": "MOSWAREN",
+  "name": "KAMISABE",
+  "postalCode": "98454"
+ },
+ {
+  "id": 9106060006,
+  "districtId": 9106060,
+  "districtName": "MOSWAREN",
+  "name": "HARARO",
+  "postalCode": "98454"
+ },
+ {
+  "id": 9106060007,
+  "districtId": 9106060,
+  "districtName": "MOSWAREN",
+  "name": "TOKASS",
+  "postalCode": "98454"
+ }
+]

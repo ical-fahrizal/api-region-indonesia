@@ -1,0 +1,44 @@
+[
+ {
+  "id": 8203021001,
+  "districtId": 8203021,
+  "districtName": "SULA BESI TENGAH",
+  "name": "BEGA",
+  "postalCode": "94652"
+ },
+ {
+  "id": 8203021002,
+  "districtId": 8203021,
+  "districtName": "SULA BESI TENGAH",
+  "name": "FAT-IBA",
+  "postalCode": ""
+ },
+ {
+  "id": 8203021003,
+  "districtId": 8203021,
+  "districtName": "SULA BESI TENGAH",
+  "name": "WAIMAN",
+  "postalCode": "97795"
+ },
+ {
+  "id": 8203021004,
+  "districtId": 8203021,
+  "districtName": "SULA BESI TENGAH",
+  "name": "SOAMOLE",
+  "postalCode": "97795"
+ },
+ {
+  "id": 8203021005,
+  "districtId": 8203021,
+  "districtName": "SULA BESI TENGAH",
+  "name": "WAI BOGA",
+  "postalCode": ""
+ },
+ {
+  "id": 8203021006,
+  "districtId": 8203021,
+  "districtName": "SULA BESI TENGAH",
+  "name": "MANAF",
+  "postalCode": "97795"
+ }
+]

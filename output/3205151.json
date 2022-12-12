@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3205151001,
+  "districtId": 3205151,
+  "districtName": "CIGEDUG",
+  "name": "BARUSUDA",
+  "postalCode": "44116"
+ },
+ {
+  "id": 3205151002,
+  "districtId": 3205151,
+  "districtName": "CIGEDUG",
+  "name": "CIGEDUG",
+  "postalCode": "44116"
+ },
+ {
+  "id": 3205151003,
+  "districtId": 3205151,
+  "districtName": "CIGEDUG",
+  "name": "SUKAHURIP",
+  "postalCode": "44116"
+ },
+ {
+  "id": 3205151004,
+  "districtId": 3205151,
+  "districtName": "CIGEDUG",
+  "name": "SINDANGSARI",
+  "postalCode": "46383"
+ },
+ {
+  "id": 3205151005,
+  "districtId": 3205151,
+  "districtName": "CIGEDUG",
+  "name": "CINTANAGARA",
+  "postalCode": "44116"
+ }
+]

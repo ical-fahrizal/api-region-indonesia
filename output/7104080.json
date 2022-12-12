@@ -1,0 +1,65 @@
+[
+ {
+  "id": 7104080001,
+  "districtId": 7104080,
+  "districtName": "NANUSA",
+  "name": "KAKOROTAN",
+  "postalCode": "95884"
+ },
+ {
+  "id": 7104080002,
+  "districtId": 7104080,
+  "districtName": "NANUSA",
+  "name": "MARAMPIT",
+  "postalCode": "95884"
+ },
+ {
+  "id": 7104080003,
+  "districtId": 7104080,
+  "districtName": "NANUSA",
+  "name": "LALUHE",
+  "postalCode": "95884"
+ },
+ {
+  "id": 7104080004,
+  "districtId": 7104080,
+  "districtName": "NANUSA",
+  "name": "DAMPULIS",
+  "postalCode": "95884"
+ },
+ {
+  "id": 7104080005,
+  "districtId": 7104080,
+  "districtName": "NANUSA",
+  "name": "KARATUNG",
+  "postalCode": "95884"
+ },
+ {
+  "id": 7104080007,
+  "districtId": 7104080,
+  "districtName": "NANUSA",
+  "name": "MARAMPIT TIMUR",
+  "postalCode": "95884"
+ },
+ {
+  "id": 7104080008,
+  "districtId": 7104080,
+  "districtName": "NANUSA",
+  "name": "DAMPULIS SELATAN",
+  "postalCode": "95884"
+ },
+ {
+  "id": 7104080009,
+  "districtId": 7104080,
+  "districtName": "NANUSA",
+  "name": "KARATUNG TENGAH",
+  "postalCode": "95884"
+ },
+ {
+  "id": 7104080010,
+  "districtId": 7104080,
+  "districtName": "NANUSA",
+  "name": "KARATUNG SELATAN",
+  "postalCode": "95884"
+ }
+]

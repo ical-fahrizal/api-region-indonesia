@@ -1,0 +1,44 @@
+[
+ {
+  "id": 3509150001,
+  "districtId": 3509150,
+  "districtName": "SEMBORO",
+  "name": "REJO AGUNG",
+  "postalCode": "34381"
+ },
+ {
+  "id": 3509150002,
+  "districtId": 3509150,
+  "districtName": "SEMBORO",
+  "name": "SEMBORO",
+  "postalCode": "68157"
+ },
+ {
+  "id": 3509150003,
+  "districtId": 3509150,
+  "districtName": "SEMBORO",
+  "name": "SIDOMEKAR",
+  "postalCode": "35452"
+ },
+ {
+  "id": 3509150004,
+  "districtId": 3509150,
+  "districtName": "SEMBORO",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
+ },
+ {
+  "id": 3509150005,
+  "districtId": 3509150,
+  "districtName": "SEMBORO",
+  "name": "PONDOK JOYO",
+  "postalCode": "68157"
+ },
+ {
+  "id": 3509150006,
+  "districtId": 3509150,
+  "districtName": "SEMBORO",
+  "name": "PONDOK DALEM",
+  "postalCode": "68157"
+ }
+]

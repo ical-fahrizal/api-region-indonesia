@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1506033001,
+  "districtId": 1506033,
+  "districtName": "KUALA JAMBI",
+  "name": "KUALA LAGAN",
+  "postalCode": "36761"
+ },
+ {
+  "id": 1506033002,
+  "districtId": 1506033,
+  "districtName": "KUALA JAMBI",
+  "name": "TELUK MAJELIS",
+  "postalCode": "36761"
+ },
+ {
+  "id": 1506033003,
+  "districtId": 1506033,
+  "districtName": "KUALA JAMBI",
+  "name": "KAMPUNG LAUT",
+  "postalCode": "36761"
+ },
+ {
+  "id": 1506033004,
+  "districtId": 1506033,
+  "districtName": "KUALA JAMBI",
+  "name": "TANJUNG SOLOK",
+  "postalCode": "36761"
+ },
+ {
+  "id": 1506033005,
+  "districtId": 1506033,
+  "districtName": "KUALA JAMBI",
+  "name": "MANUNGGAL MAKMUR",
+  "postalCode": "36761"
+ },
+ {
+  "id": 1506033006,
+  "districtId": 1506033,
+  "districtName": "KUALA JAMBI",
+  "name": "MAJELIS HIDAYAH",
+  "postalCode": "36761"
+ }
+]

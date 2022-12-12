@@ -1,0 +1,30 @@
+[
+ {
+  "id": 2171081001,
+  "districtId": 2171081,
+  "districtName": "BENGKONG",
+  "name": "BENGKONG LAUT",
+  "postalCode": "29458"
+ },
+ {
+  "id": 2171081002,
+  "districtId": 2171081,
+  "districtName": "BENGKONG",
+  "name": "BENGKONG INDAH",
+  "postalCode": "29458"
+ },
+ {
+  "id": 2171081003,
+  "districtId": 2171081,
+  "districtName": "BENGKONG",
+  "name": "SADAI",
+  "postalCode": "33783"
+ },
+ {
+  "id": 2171081004,
+  "districtId": 2171081,
+  "districtName": "BENGKONG",
+  "name": "TANJUNG BUNTUNG",
+  "postalCode": "29432"
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "id": 7271040001,
+  "districtId": 7271040,
+  "districtName": "PALU UTARA",
+  "name": "MAMBORO",
+  "postalCode": "94148"
+ },
+ {
+  "id": 7271040002,
+  "districtId": 7271040,
+  "districtName": "PALU UTARA",
+  "name": "TAIPA",
+  "postalCode": "94147"
+ },
+ {
+  "id": 7271040003,
+  "districtId": 7271040,
+  "districtName": "PALU UTARA",
+  "name": "KAYUMALUE PAJEKO",
+  "postalCode": "94145"
+ },
+ {
+  "id": 7271040004,
+  "districtId": 7271040,
+  "districtName": "PALU UTARA",
+  "name": "KAYUMALUE NGAPA",
+  "postalCode": "94146"
+ },
+ {
+  "id": 7271040009,
+  "districtId": 7271040,
+  "districtName": "PALU UTARA",
+  "name": "MAMBORO BARAT",
+  "postalCode": "94148"
+ }
+]

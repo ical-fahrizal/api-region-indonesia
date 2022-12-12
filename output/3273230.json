@@ -1,0 +1,44 @@
+[
+ {
+  "id": 3273230001,
+  "districtId": 3273230,
+  "districtName": "COBLONG",
+  "name": "CIPAGANTI",
+  "postalCode": "44163"
+ },
+ {
+  "id": 3273230002,
+  "districtId": 3273230,
+  "districtName": "COBLONG",
+  "name": "LEBAK SILIWANGI",
+  "postalCode": "40132"
+ },
+ {
+  "id": 3273230003,
+  "districtId": 3273230,
+  "districtName": "COBLONG",
+  "name": "LEBAK GEDE",
+  "postalCode": "40132"
+ },
+ {
+  "id": 3273230004,
+  "districtId": 3273230,
+  "districtName": "COBLONG",
+  "name": "SADANG SERANG",
+  "postalCode": "40133"
+ },
+ {
+  "id": 3273230005,
+  "districtId": 3273230,
+  "districtName": "COBLONG",
+  "name": "SEKELOA",
+  "postalCode": "40134"
+ },
+ {
+  "id": 3273230006,
+  "districtId": 3273230,
+  "districtName": "COBLONG",
+  "name": "DAGO",
+  "postalCode": "40135"
+ }
+]

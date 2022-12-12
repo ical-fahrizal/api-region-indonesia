@@ -1,0 +1,37 @@
+[
+ {
+  "id": 9414023001,
+  "districtId": 9414023,
+  "districtName": "BAMGI",
+  "name": "YELOBA",
+  "postalCode": "99853"
+ },
+ {
+  "id": 9414023002,
+  "districtId": 9414023,
+  "districtName": "BAMGI",
+  "name": "KONEBI",
+  "postalCode": "99853"
+ },
+ {
+  "id": 9414023003,
+  "districtId": 9414023,
+  "districtName": "BAMGI",
+  "name": "SIBI",
+  "postalCode": "99853"
+ },
+ {
+  "id": 9414023004,
+  "districtId": 9414023,
+  "districtName": "BAMGI",
+  "name": "TAGAIMON SIWO",
+  "postalCode": ""
+ },
+ {
+  "id": 9414023005,
+  "districtId": 9414023,
+  "districtName": "BAMGI",
+  "name": "TAGAIMON KORAME",
+  "postalCode": ""
+ }
+]

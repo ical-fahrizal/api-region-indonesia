@@ -1,0 +1,44 @@
+[
+ {
+  "id": 5310030001,
+  "districtId": 5310030,
+  "districtName": "BOLA",
+  "name": "HOKOR",
+  "postalCode": "86171"
+ },
+ {
+  "id": 5310030002,
+  "districtId": 5310030,
+  "districtName": "BOLA",
+  "name": "WOLONWALU",
+  "postalCode": "86171"
+ },
+ {
+  "id": 5310030003,
+  "districtId": 5310030,
+  "districtName": "BOLA",
+  "name": "WOLOKOLI",
+  "postalCode": "86171"
+ },
+ {
+  "id": 5310030004,
+  "districtId": 5310030,
+  "districtName": "BOLA",
+  "name": "BOLA",
+  "postalCode": "86171"
+ },
+ {
+  "id": 5310030005,
+  "districtId": 5310030,
+  "districtName": "BOLA",
+  "name": "UMAUTA",
+  "postalCode": "86171"
+ },
+ {
+  "id": 5310030006,
+  "districtId": 5310030,
+  "districtName": "BOLA",
+  "name": "IPIR",
+  "postalCode": "86171"
+ }
+]

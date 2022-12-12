@@ -1,0 +1,79 @@
+[
+ {
+  "id": 3309170001,
+  "districtId": 3309170,
+  "districtName": "KEMUSU",
+  "name": "KAUMAN",
+  "postalCode": "51215"
+ },
+ {
+  "id": 3309170003,
+  "districtId": 3309170,
+  "districtName": "KEMUSU",
+  "name": "BAWU",
+  "postalCode": "59461"
+ },
+ {
+  "id": 3309170004,
+  "districtId": 3309170,
+  "districtName": "KEMUSU",
+  "name": "KLEWOR",
+  "postalCode": "57383"
+ },
+ {
+  "id": 3309170005,
+  "districtId": 3309170,
+  "districtName": "KEMUSU",
+  "name": "SARIMULYO",
+  "postalCode": "59583"
+ },
+ {
+  "id": 3309170006,
+  "districtId": 3309170,
+  "districtName": "KEMUSU",
+  "name": "WATUGEDE",
+  "postalCode": "57383"
+ },
+ {
+  "id": 3309170007,
+  "districtId": 3309170,
+  "districtName": "KEMUSU",
+  "name": "KEDUNGREJO",
+  "postalCode": "57383"
+ },
+ {
+  "id": 3309170008,
+  "districtId": 3309170,
+  "districtName": "KEMUSU",
+  "name": "GENENGSARI",
+  "postalCode": "57383"
+ },
+ {
+  "id": 3309170010,
+  "districtId": 3309170,
+  "districtName": "KEMUSU",
+  "name": "LEMAHIRENG",
+  "postalCode": "50661"
+ },
+ {
+  "id": 3309170011,
+  "districtId": 3309170,
+  "districtName": "KEMUSU",
+  "name": "GUWO",
+  "postalCode": "57383"
+ },
+ {
+  "id": 3309170012,
+  "districtId": 3309170,
+  "districtName": "KEMUSU",
+  "name": "KEDUNGMULYO",
+  "postalCode": "54264"
+ },
+ {
+  "id": 3309170013,
+  "districtId": 3309170,
+  "districtName": "KEMUSU",
+  "name": "WONOHARJO",
+  "postalCode": "38655"
+ }
+]

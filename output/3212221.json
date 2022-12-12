@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3212221001,
+  "districtId": 3212221,
+  "districtName": "PATROL",
+  "name": "LIMPAS",
+  "postalCode": "45257"
+ },
+ {
+  "id": 3212221002,
+  "districtId": 3212221,
+  "districtName": "PATROL",
+  "name": "PATROL",
+  "postalCode": "45257"
+ },
+ {
+  "id": 3212221003,
+  "districtId": 3212221,
+  "districtName": "PATROL",
+  "name": "ARJASARI",
+  "postalCode": "40379"
+ },
+ {
+  "id": 3212221004,
+  "districtId": 3212221,
+  "districtName": "PATROL",
+  "name": "SUKAHAJI",
+  "postalCode": "40221"
+ },
+ {
+  "id": 3212221006,
+  "districtId": 3212221,
+  "districtName": "PATROL",
+  "name": "PATROLLOR",
+  "postalCode": "45257"
+ },
+ {
+  "id": 3212221007,
+  "districtId": 3212221,
+  "districtName": "PATROL",
+  "name": "PATROL BARU",
+  "postalCode": "45257"
+ },
+ {
+  "id": 3212221008,
+  "districtId": 3212221,
+  "districtName": "PATROL",
+  "name": "MEKARSARI",
+  "postalCode": "37482"
+ }
+]

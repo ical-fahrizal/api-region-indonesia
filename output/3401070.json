@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3401070001,
+  "districtId": 3401070,
+  "districtName": "PENGASIH",
+  "name": "TAWANGSARI",
+  "postalCode": "45365"
+ },
+ {
+  "id": 3401070002,
+  "districtId": 3401070,
+  "districtName": "PENGASIH",
+  "name": "KARANGSARI",
+  "postalCode": "35376"
+ },
+ {
+  "id": 3401070003,
+  "districtId": 3401070,
+  "districtName": "PENGASIH",
+  "name": "KEDUNGSARI",
+  "postalCode": "28123"
+ },
+ {
+  "id": 3401070004,
+  "districtId": 3401070,
+  "districtName": "PENGASIH",
+  "name": "MARGOSARI",
+  "postalCode": "35376"
+ },
+ {
+  "id": 3401070005,
+  "districtId": 3401070,
+  "districtName": "PENGASIH",
+  "name": "PENGASIH",
+  "postalCode": "55652"
+ },
+ {
+  "id": 3401070006,
+  "districtId": 3401070,
+  "districtName": "PENGASIH",
+  "name": "SENDANGSARI",
+  "postalCode": "57674"
+ },
+ {
+  "id": 3401070007,
+  "districtId": 3401070,
+  "districtName": "PENGASIH",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
+ }
+]

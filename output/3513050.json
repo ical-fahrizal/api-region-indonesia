@@ -1,0 +1,65 @@
+[
+ {
+  "id": 3513050001,
+  "districtId": 3513050,
+  "districtName": "LECES",
+  "name": "TIGASAN KULON",
+  "postalCode": "67273"
+ },
+ {
+  "id": 3513050002,
+  "districtId": 3513050,
+  "districtName": "LECES",
+  "name": "TIGASAN WETAN",
+  "postalCode": "67273"
+ },
+ {
+  "id": 3513050003,
+  "districtId": 3513050,
+  "districtName": "LECES",
+  "name": "MALASAN KULON",
+  "postalCode": "67273"
+ },
+ {
+  "id": 3513050005,
+  "districtId": 3513050,
+  "districtName": "LECES",
+  "name": "PONDOKWULUH",
+  "postalCode": ""
+ },
+ {
+  "id": 3513050006,
+  "districtId": 3513050,
+  "districtName": "LECES",
+  "name": "KERPANGAN",
+  "postalCode": ""
+ },
+ {
+  "id": 3513050007,
+  "districtId": 3513050,
+  "districtName": "LECES",
+  "name": "SUMBERKEDAWUNG",
+  "postalCode": ""
+ },
+ {
+  "id": 3513050008,
+  "districtId": 3513050,
+  "districtName": "LECES",
+  "name": "CLARAK",
+  "postalCode": "67273"
+ },
+ {
+  "id": 3513050009,
+  "districtId": 3513050,
+  "districtName": "LECES",
+  "name": "JORONGAN",
+  "postalCode": "67273"
+ },
+ {
+  "id": 3513050010,
+  "districtId": 3513050,
+  "districtName": "LECES",
+  "name": "WARUJINGGO",
+  "postalCode": "67273"
+ }
+]

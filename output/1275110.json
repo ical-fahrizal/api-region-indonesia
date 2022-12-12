@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1275110001,
+  "districtId": 1275110,
+  "districtName": "MEDAN SUNGGAL",
+  "name": "SUNGGAL",
+  "postalCode": "20128"
+ },
+ {
+  "id": 1275110002,
+  "districtId": 1275110,
+  "districtName": "MEDAN SUNGGAL",
+  "name": "TANJUNG REJO",
+  "postalCode": "20122"
+ },
+ {
+  "id": 1275110003,
+  "districtId": 1275110,
+  "districtName": "MEDAN SUNGGAL",
+  "name": "BABURA",
+  "postalCode": "20154"
+ },
+ {
+  "id": 1275110004,
+  "districtId": 1275110,
+  "districtName": "MEDAN SUNGGAL",
+  "name": "SIMPANG TANJUNG",
+  "postalCode": "20122"
+ },
+ {
+  "id": 1275110005,
+  "districtId": 1275110,
+  "districtName": "MEDAN SUNGGAL",
+  "name": "SEI SIKAMBING B",
+  "postalCode": "20122"
+ },
+ {
+  "id": 1275110006,
+  "districtId": 1275110,
+  "districtName": "MEDAN SUNGGAL",
+  "name": "LALANG",
+  "postalCode": "20127"
+ }
+]

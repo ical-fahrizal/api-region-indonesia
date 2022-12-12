@@ -1,0 +1,62 @@
+[
+ {
+  "id": 6401,
+  "provinceId": 64,
+  "provinceName": "KALIMANTAN TIMUR",
+  "name": "KABUPATEN PASER"
+ },
+ {
+  "id": 6402,
+  "provinceId": 64,
+  "provinceName": "KALIMANTAN TIMUR",
+  "name": "KABUPATEN KUTAI BARAT"
+ },
+ {
+  "id": 6403,
+  "provinceId": 64,
+  "provinceName": "KALIMANTAN TIMUR",
+  "name": "KABUPATEN KUTAI KARTANEGARA"
+ },
+ {
+  "id": 6404,
+  "provinceId": 64,
+  "provinceName": "KALIMANTAN TIMUR",
+  "name": "KABUPATEN KUTAI TIMUR"
+ },
+ {
+  "id": 6405,
+  "provinceId": 64,
+  "provinceName": "KALIMANTAN TIMUR",
+  "name": "KABUPATEN BERAU"
+ },
+ {
+  "id": 6409,
+  "provinceId": 64,
+  "provinceName": "KALIMANTAN TIMUR",
+  "name": "KABUPATEN PENAJAM PASER UTARA"
+ },
+ {
+  "id": 6411,
+  "provinceId": 64,
+  "provinceName": "KALIMANTAN TIMUR",
+  "name": "KABUPATEN MAHAKAM HULU"
+ },
+ {
+  "id": 6471,
+  "provinceId": 64,
+  "provinceName": "KALIMANTAN TIMUR",
+  "name": "KOTA BALIKPAPAN"
+ },
+ {
+  "id": 6472,
+  "provinceId": 64,
+  "provinceName": "KALIMANTAN TIMUR",
+  "name": "KOTA SAMARINDA"
+ },
+ {
+  "id": 6474,
+  "provinceId": 64,
+  "provinceName": "KALIMANTAN TIMUR",
+  "name": "KOTA BONTANG"
+ }
+]

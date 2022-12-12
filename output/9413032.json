@@ -1,0 +1,44 @@
+[
+ {
+  "id": 9413032001,
+  "districtId": 9413032,
+  "districtName": "ARIMOP",
+  "name": "PATRIOT",
+  "postalCode": "99663"
+ },
+ {
+  "id": 9413032002,
+  "districtId": 9413032,
+  "districtName": "ARIMOP",
+  "name": "GINGGIMOB",
+  "postalCode": ""
+ },
+ {
+  "id": 9413032003,
+  "districtId": 9413032,
+  "districtName": "ARIMOP",
+  "name": "MAJU",
+  "postalCode": "22381"
+ },
+ {
+  "id": 9413032005,
+  "districtId": 9413032,
+  "districtName": "ARIMOP",
+  "name": "BUKIT",
+  "postalCode": "24655"
+ },
+ {
+  "id": 9413032006,
+  "districtId": 9413032,
+  "districtName": "ARIMOP",
+  "name": "ARIMBIT",
+  "postalCode": "99664"
+ },
+ {
+  "id": 9413032007,
+  "districtId": 9413032,
+  "districtName": "ARIMOP",
+  "name": "AROA",
+  "postalCode": "99663"
+ }
+]

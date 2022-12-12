@@ -1,0 +1,30 @@
+[
+ {
+  "id": 6101022001,
+  "districtId": 6101022,
+  "districtName": "SALATIGA",
+  "name": "PARIT BARU",
+  "postalCode": "28462"
+ },
+ {
+  "id": 6101022002,
+  "districtId": 6101022,
+  "districtName": "SALATIGA",
+  "name": "SALATIGA",
+  "postalCode": "50711"
+ },
+ {
+  "id": 6101022003,
+  "districtId": 6101022,
+  "districtName": "SALATIGA",
+  "name": "SUNGAI TOMAN",
+  "postalCode": "36764"
+ },
+ {
+  "id": 6101022005,
+  "districtId": 6101022,
+  "districtName": "SALATIGA",
+  "name": "SERUNAI",
+  "postalCode": "79453"
+ }
+]

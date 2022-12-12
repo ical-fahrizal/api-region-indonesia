@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1303070001,
+  "districtId": 1303070,
+  "districtName": "LEMBANG JAYA",
+  "name": "KOTO ANAU",
+  "postalCode": "27383"
+ },
+ {
+  "id": 1303070002,
+  "districtId": 1303070,
+  "districtName": "LEMBANG JAYA",
+  "name": "BATU BANYAK",
+  "postalCode": "27383"
+ },
+ {
+  "id": 1303070003,
+  "districtId": 1303070,
+  "districtName": "LEMBANG JAYA",
+  "name": "LIMAU LUNGGO",
+  "postalCode": "27383"
+ },
+ {
+  "id": 1303070004,
+  "districtId": 1303070,
+  "districtName": "LEMBANG JAYA",
+  "name": "KOTO LAWEH",
+  "postalCode": "27388"
+ },
+ {
+  "id": 1303070005,
+  "districtId": 1303070,
+  "districtName": "LEMBANG JAYA",
+  "name": "SALAYO TANANG BUKIK SILEH",
+  "postalCode": "27383"
+ },
+ {
+  "id": 1303070006,
+  "districtId": 1303070,
+  "districtName": "LEMBANG JAYA",
+  "name": "BATU BAJANJANG",
+  "postalCode": "27383"
+ }
+]

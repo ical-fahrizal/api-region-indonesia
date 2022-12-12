@@ -1,0 +1,37 @@
+[
+ {
+  "id": 6302201001,
+  "districtId": 6302201,
+  "districtName": "PAMUKAN BARAT",
+  "name": "SENGAYAM",
+  "postalCode": "72169"
+ },
+ {
+  "id": 6302201002,
+  "districtId": 6302201,
+  "districtName": "PAMUKAN BARAT",
+  "name": "MARGA JAYA",
+  "postalCode": "38657"
+ },
+ {
+  "id": 6302201003,
+  "districtId": 6302201,
+  "districtName": "PAMUKAN BARAT",
+  "name": "MAYANG SARI",
+  "postalCode": "28752"
+ },
+ {
+  "id": 6302201004,
+  "districtId": 6302201,
+  "districtName": "PAMUKAN BARAT",
+  "name": "MANGKA",
+  "postalCode": "33252"
+ },
+ {
+  "id": 6302201005,
+  "districtId": 6302201,
+  "districtName": "PAMUKAN BARAT",
+  "name": "BATUAH",
+  "postalCode": "73564"
+ }
+]

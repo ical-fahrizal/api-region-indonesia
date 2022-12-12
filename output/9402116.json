@@ -1,0 +1,51 @@
+[
+ {
+  "id": 9402116016,
+  "districtId": 9402116,
+  "districtName": "WOUMA",
+  "name": "KETIMAVIT",
+  "postalCode": "99511"
+ },
+ {
+  "id": 9402116017,
+  "districtId": 9402116,
+  "districtName": "WOUMA",
+  "name": "WOUMA",
+  "postalCode": "99511"
+ },
+ {
+  "id": 9402116049,
+  "districtId": 9402116,
+  "districtName": "WOUMA",
+  "name": "PIPITMO",
+  "postalCode": "99511"
+ },
+ {
+  "id": 9402116050,
+  "districtId": 9402116,
+  "districtName": "WOUMA",
+  "name": "SINAREKOWA",
+  "postalCode": "99511"
+ },
+ {
+  "id": 9402116051,
+  "districtId": 9402116,
+  "districtName": "WOUMA",
+  "name": "WESAKMA",
+  "postalCode": "99511"
+ },
+ {
+  "id": 9402116052,
+  "districtId": 9402116,
+  "districtName": "WOUMA",
+  "name": "LOGONOBA",
+  "postalCode": "99511"
+ },
+ {
+  "id": 9402116053,
+  "districtId": 9402116,
+  "districtName": "WOUMA",
+  "name": "WESAKIN",
+  "postalCode": "99511"
+ }
+]

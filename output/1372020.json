@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1372020001,
+  "districtId": 1372020,
+  "districtName": "TANJUNG HARAPAN",
+  "name": "KOTO PANJANG",
+  "postalCode": "26161"
+ },
+ {
+  "id": 1372020002,
+  "districtId": 1372020,
+  "districtName": "TANJUNG HARAPAN",
+  "name": "PASAR PANDAN AIR MATI",
+  "postalCode": "27322"
+ },
+ {
+  "id": 1372020003,
+  "districtId": 1372020,
+  "districtName": "TANJUNG HARAPAN",
+  "name": "TANJUNG PAKU",
+  "postalCode": "27324"
+ },
+ {
+  "id": 1372020004,
+  "districtId": 1372020,
+  "districtName": "TANJUNG HARAPAN",
+  "name": "NAN BALIMO",
+  "postalCode": "27326"
+ },
+ {
+  "id": 1372020005,
+  "districtId": 1372020,
+  "districtName": "TANJUNG HARAPAN",
+  "name": "KAMPUNG JAWA",
+  "postalCode": "24655"
+ },
+ {
+  "id": 1372020006,
+  "districtId": 1372020,
+  "districtName": "TANJUNG HARAPAN",
+  "name": "LAING",
+  "postalCode": "27325"
+ }
+]

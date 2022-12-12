@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3273240001,
+  "districtId": 3273240,
+  "districtName": "SUKAJADI",
+  "name": "SUKAWARNA",
+  "postalCode": "40164"
+ },
+ {
+  "id": 3273240002,
+  "districtId": 3273240,
+  "districtName": "SUKAJADI",
+  "name": "SUKAGALIH",
+  "postalCode": "43291"
+ },
+ {
+  "id": 3273240003,
+  "districtId": 3273240,
+  "districtName": "SUKAJADI",
+  "name": "SUKABUNGAH",
+  "postalCode": "17350"
+ },
+ {
+  "id": 3273240004,
+  "districtId": 3273240,
+  "districtName": "SUKAJADI",
+  "name": "CIPEDES",
+  "postalCode": "45565"
+ },
+ {
+  "id": 3273240005,
+  "districtId": 3273240,
+  "districtName": "SUKAJADI",
+  "name": "PASTEUR",
+  "postalCode": "40161"
+ }
+]

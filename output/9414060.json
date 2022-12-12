@@ -1,0 +1,44 @@
+[
+ {
+  "id": 9414060006,
+  "districtId": 9414060,
+  "districtName": "CITAKMITAK",
+  "name": "TAMANIM",
+  "postalCode": "99875"
+ },
+ {
+  "id": 9414060007,
+  "districtId": 9414060,
+  "districtName": "CITAKMITAK",
+  "name": "SENGGO",
+  "postalCode": "99875"
+ },
+ {
+  "id": 9414060010,
+  "districtId": 9414060,
+  "districtName": "CITAKMITAK",
+  "name": "ABAU",
+  "postalCode": "99875"
+ },
+ {
+  "id": 9414060011,
+  "districtId": 9414060,
+  "districtName": "CITAKMITAK",
+  "name": "KUMASMA",
+  "postalCode": "99875"
+ },
+ {
+  "id": 9414060012,
+  "districtId": 9414060,
+  "districtName": "CITAKMITAK",
+  "name": "WOMIN",
+  "postalCode": "99875"
+ },
+ {
+  "id": 9414060013,
+  "districtId": 9414060,
+  "districtName": "CITAKMITAK",
+  "name": "BIDNEU",
+  "postalCode": ""
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "id": 6172050001,
+  "districtId": 6172050,
+  "districtName": "SINGKAWANG TENGAH",
+  "name": "ROBAN",
+  "postalCode": "79112"
+ },
+ {
+  "id": 6172050002,
+  "districtId": 6172050,
+  "districtName": "SINGKAWANG TENGAH",
+  "name": "CONDONG",
+  "postalCode": "32381"
+ },
+ {
+  "id": 6172050003,
+  "districtId": 6172050,
+  "districtName": "SINGKAWANG TENGAH",
+  "name": "SEKIP LAMA",
+  "postalCode": "79113"
+ },
+ {
+  "id": 6172050004,
+  "districtId": 6172050,
+  "districtName": "SINGKAWANG TENGAH",
+  "name": "JAWA",
+  "postalCode": "23654"
+ },
+ {
+  "id": 6172050005,
+  "districtId": 6172050,
+  "districtName": "SINGKAWANG TENGAH",
+  "name": "BUKIT BATU",
+  "postalCode": "28761"
+ },
+ {
+  "id": 6172050006,
+  "districtId": 6172050,
+  "districtName": "SINGKAWANG TENGAH",
+  "name": "SEI WIE",
+  "postalCode": ""
+ }
+]

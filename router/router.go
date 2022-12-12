@@ -16,9 +16,14 @@ type messageRespon struct {
 func SetupRoutes() {
 	app := fiber.New()
 
-	app.Get("/:id?", func(c *fiber.Ctx) error {
+	app.Get("/:id?", func(c *fiber.Ctx) (err error) {
 		if c.Params("id") != "" {
 			id := c.Params("id")
+			if err = c.SendFile(fmt.Sprintf(`./output/%v.json`, id)); err != nil {
+				m := messageRespon{Message: "Not Data", Status: false}
+				byteRespon, _ := json.Marshal(m)
+				return c.SendString(string(byteRespon))
+			}
 			return c.SendFile(fmt.Sprintf(`./output/%v.json`, id))
 		}
 		m := messageRespon{Message: "Not Data", Status: false}
@@ -26,8 +31,9 @@ func SetupRoutes() {
 		return c.SendString(string(byteRespon))
 	})
 
-	app.Get("/provinces", func(c *fiber.Ctx) error {
-		return c.SendFile("./output/provinces.json")
+	// 404 Handler
+	app.Use(func(c *fiber.Ctx) error {
+		return c.SendStatus(404) // => 404 "Not Found"
 	})
 
 	log.Fatal(app.Listen(":3003"))

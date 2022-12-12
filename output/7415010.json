@@ -1,0 +1,51 @@
+[
+ {
+  "id": 7415010001,
+  "districtId": 7415010,
+  "districtName": "BATU ATAS",
+  "name": "BATU ATAS LIWU",
+  "postalCode": "93753"
+ },
+ {
+  "id": 7415010002,
+  "districtId": 7415010,
+  "districtName": "BATU ATAS",
+  "name": "BATUATAS BARAT",
+  "postalCode": "93753"
+ },
+ {
+  "id": 7415010003,
+  "districtId": 7415010,
+  "districtName": "BATU ATAS",
+  "name": "TOLANDO JAYA",
+  "postalCode": "93753"
+ },
+ {
+  "id": 7415010004,
+  "districtId": 7415010,
+  "districtName": "BATU ATAS",
+  "name": "BATUATAS TIMUR",
+  "postalCode": "93753"
+ },
+ {
+  "id": 7415010005,
+  "districtId": 7415010,
+  "districtName": "BATU ATAS",
+  "name": "WACUALA",
+  "postalCode": "93753"
+ },
+ {
+  "id": 7415010006,
+  "districtId": 7415010,
+  "districtName": "BATU ATAS",
+  "name": "TADUASA",
+  "postalCode": "93753"
+ },
+ {
+  "id": 7415010007,
+  "districtId": 7415010,
+  "districtName": "BATU ATAS",
+  "name": "WAMBONGI",
+  "postalCode": "93753"
+ }
+]

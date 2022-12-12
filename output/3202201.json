@@ -1,0 +1,44 @@
+[
+ {
+  "id": 3202201001,
+  "districtId": 3202201,
+  "districtName": "GUNUNGGURUH",
+  "name": "SIRNARESMI",
+  "postalCode": "43366"
+ },
+ {
+  "id": 3202201002,
+  "districtId": 3202201,
+  "districtName": "GUNUNGGURUH",
+  "name": "KEBONMANGGU",
+  "postalCode": "43156"
+ },
+ {
+  "id": 3202201004,
+  "districtId": 3202201,
+  "districtName": "GUNUNGGURUH",
+  "name": "CIKUJANG",
+  "postalCode": "43156"
+ },
+ {
+  "id": 3202201005,
+  "districtId": 3202201,
+  "districtName": "GUNUNGGURUH",
+  "name": "CIBENTANG",
+  "postalCode": "16120"
+ },
+ {
+  "id": 3202201006,
+  "districtId": 3202201,
+  "districtName": "GUNUNGGURUH",
+  "name": "CIBOLANG",
+  "postalCode": "43156"
+ },
+ {
+  "id": 3202201007,
+  "districtId": 3202201,
+  "districtName": "GUNUNGGURUH",
+  "name": "MANGKALAYA",
+  "postalCode": ""
+ }
+]

@@ -1,0 +1,51 @@
+[
+ {
+  "id": 1275120001,
+  "districtId": 1275120,
+  "districtName": "MEDAN HELVETIA",
+  "name": "CINTA DAMAI",
+  "postalCode": "24673"
+ },
+ {
+  "id": 1275120002,
+  "districtId": 1275120,
+  "districtName": "MEDAN HELVETIA",
+  "name": "SEI SIKAMBING C II",
+  "postalCode": "20123"
+ },
+ {
+  "id": 1275120003,
+  "districtId": 1275120,
+  "districtName": "MEDAN HELVETIA",
+  "name": "DWI KORA",
+  "postalCode": "20123"
+ },
+ {
+  "id": 1275120004,
+  "districtId": 1275120,
+  "districtName": "MEDAN HELVETIA",
+  "name": "HELVETIA TIMUR",
+  "postalCode": "20124"
+ },
+ {
+  "id": 1275120005,
+  "districtId": 1275120,
+  "districtName": "MEDAN HELVETIA",
+  "name": "HELVETIA TENGAH",
+  "postalCode": "20124"
+ },
+ {
+  "id": 1275120006,
+  "districtId": 1275120,
+  "districtName": "MEDAN HELVETIA",
+  "name": "HELVETIA",
+  "postalCode": "20373"
+ },
+ {
+  "id": 1275120007,
+  "districtId": 1275120,
+  "districtName": "MEDAN HELVETIA",
+  "name": "TANJUNG GUSTA",
+  "postalCode": "20125"
+ }
+]

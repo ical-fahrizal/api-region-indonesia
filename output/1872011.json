@@ -1,0 +1,30 @@
+[
+ {
+  "id": 1872011001,
+  "districtId": 1872011,
+  "districtName": "METRO SELATAN",
+  "name": "SUMBERSARI",
+  "postalCode": "34122"
+ },
+ {
+  "id": 1872011002,
+  "districtId": 1872011,
+  "districtName": "METRO SELATAN",
+  "name": "REJOMULYO",
+  "postalCode": "35365"
+ },
+ {
+  "id": 1872011003,
+  "districtId": 1872011,
+  "districtName": "METRO SELATAN",
+  "name": "MARGODADI",
+  "postalCode": "32386"
+ },
+ {
+  "id": 1872011004,
+  "districtId": 1872011,
+  "districtName": "METRO SELATAN",
+  "name": "MARGOREJO",
+  "postalCode": "32386"
+ }
+]

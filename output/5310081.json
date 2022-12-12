@@ -1,0 +1,30 @@
+[
+ {
+  "id": 5310081001,
+  "districtId": 5310081,
+  "districtName": "ALOK BARAT",
+  "name": "WURING",
+  "postalCode": "86115"
+ },
+ {
+  "id": 5310081002,
+  "districtId": 5310081,
+  "districtName": "ALOK BARAT",
+  "name": "HEWULI",
+  "postalCode": "86115"
+ },
+ {
+  "id": 5310081003,
+  "districtId": 5310081,
+  "districtName": "ALOK BARAT",
+  "name": "WAILITI",
+  "postalCode": "86114"
+ },
+ {
+  "id": 5310081004,
+  "districtId": 5310081,
+  "districtName": "ALOK BARAT",
+  "name": "WOLOMARANG",
+  "postalCode": "86114"
+ }
+]

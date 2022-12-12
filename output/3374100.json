@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3374100001,
+  "districtId": 3374100,
+  "districtName": "GAYAMSARI",
+  "name": "PANDEAN LAMPER",
+  "postalCode": "50249"
+ },
+ {
+  "id": 3374100002,
+  "districtId": 3374100,
+  "districtName": "GAYAMSARI",
+  "name": "GAYAMSARI",
+  "postalCode": "50248"
+ },
+ {
+  "id": 3374100003,
+  "districtId": 3374100,
+  "districtName": "GAYAMSARI",
+  "name": "SIWALAN",
+  "postalCode": "50162"
+ },
+ {
+  "id": 3374100004,
+  "districtId": 3374100,
+  "districtName": "GAYAMSARI",
+  "name": "SAMBIREJO",
+  "postalCode": "39153"
+ },
+ {
+  "id": 3374100005,
+  "districtId": 3374100,
+  "districtName": "GAYAMSARI",
+  "name": "SAWAHBESAR",
+  "postalCode": "50163"
+ },
+ {
+  "id": 3374100006,
+  "districtId": 3374100,
+  "districtName": "GAYAMSARI",
+  "name": "KALIGAWE",
+  "postalCode": "45185"
+ },
+ {
+  "id": 3374100007,
+  "districtId": 3374100,
+  "districtName": "GAYAMSARI",
+  "name": "TAMBAKREJO",
+  "postalCode": "54391"
+ }
+]

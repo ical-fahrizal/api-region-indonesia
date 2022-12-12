@@ -1,0 +1,37 @@
+[
+ {
+  "id": 9429012001,
+  "districtId": 9429012,
+  "districtName": "PIJA",
+  "name": "NGANAI",
+  "postalCode": "99565"
+ },
+ {
+  "id": 9429012002,
+  "districtId": 9429012,
+  "districtName": "PIJA",
+  "name": "SITGAMA",
+  "postalCode": "99565"
+ },
+ {
+  "id": 9429012003,
+  "districtId": 9429012,
+  "districtName": "PIJA",
+  "name": "PIJA",
+  "postalCode": "99565"
+ },
+ {
+  "id": 9429012004,
+  "districtId": 9429012,
+  "districtName": "PIJA",
+  "name": "MURUPBAYE",
+  "postalCode": "99565"
+ },
+ {
+  "id": 9429012005,
+  "districtId": 9429012,
+  "districtName": "PIJA",
+  "name": "SIAT",
+  "postalCode": "99565"
+ }
+]

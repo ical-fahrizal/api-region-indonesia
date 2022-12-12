@@ -1,0 +1,37 @@
+[
+ {
+  "id": 8204031001,
+  "districtId": 8204031,
+  "districtName": "MANDIOLI SELATAN",
+  "name": "YOYOK",
+  "postalCode": "97791"
+ },
+ {
+  "id": 8204031002,
+  "districtId": 8204031,
+  "districtName": "MANDIOLI SELATAN",
+  "name": "TABALEMA",
+  "postalCode": "97791"
+ },
+ {
+  "id": 8204031003,
+  "districtId": 8204031,
+  "districtName": "MANDIOLI SELATAN",
+  "name": "GALALA",
+  "postalCode": "97128"
+ },
+ {
+  "id": 8204031004,
+  "districtId": 8204031,
+  "districtName": "MANDIOLI SELATAN",
+  "name": "JIKO",
+  "postalCode": "95775"
+ },
+ {
+  "id": 8204031005,
+  "districtId": 8204031,
+  "districtName": "MANDIOLI SELATAN",
+  "name": "BAHU",
+  "postalCode": "95115"
+ }
+]

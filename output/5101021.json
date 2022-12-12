@@ -1,0 +1,58 @@
+[
+ {
+  "id": 5101021001,
+  "districtId": 5101021,
+  "districtName": "JEMBRANA",
+  "name": "PERANCAK",
+  "postalCode": "82218"
+ },
+ {
+  "id": 5101021002,
+  "districtId": 5101021,
+  "districtName": "JEMBRANA",
+  "name": "AIR KUNING",
+  "postalCode": "82218"
+ },
+ {
+  "id": 5101021003,
+  "districtId": 5101021,
+  "districtName": "JEMBRANA",
+  "name": "YEH KUNING",
+  "postalCode": "82218"
+ },
+ {
+  "id": 5101021005,
+  "districtId": 5101021,
+  "districtName": "JEMBRANA",
+  "name": "SANGKARAGUNG",
+  "postalCode": "82218"
+ },
+ {
+  "id": 5101021006,
+  "districtId": 5101021,
+  "districtName": "JEMBRANA",
+  "name": "DAUHWARU",
+  "postalCode": "82218"
+ },
+ {
+  "id": 5101021007,
+  "districtId": 5101021,
+  "districtName": "JEMBRANA",
+  "name": "LOLOAN TIMUR",
+  "postalCode": "82216"
+ },
+ {
+  "id": 5101021009,
+  "districtId": 5101021,
+  "districtName": "JEMBRANA",
+  "name": "BATUAGUNG",
+  "postalCode": "35357"
+ },
+ {
+  "id": 5101021010,
+  "districtId": 5101021,
+  "districtName": "JEMBRANA",
+  "name": "DANGIN TUKADAYA",
+  "postalCode": "82218"
+ }
+]

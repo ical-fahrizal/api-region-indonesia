@@ -1,0 +1,37 @@
+[
+ {
+  "id": 5304040009,
+  "districtId": 5304040,
+  "districtName": "AMANUBAN BARAT",
+  "name": "HAUMENIBAKI",
+  "postalCode": "85551"
+ },
+ {
+  "id": 5304040010,
+  "districtId": 5304040,
+  "districtName": "AMANUBAN BARAT",
+  "name": "MNELALETE",
+  "postalCode": "85514"
+ },
+ {
+  "id": 5304040013,
+  "districtId": 5304040,
+  "districtName": "AMANUBAN BARAT",
+  "name": "TUBLOPO/MEOMETAN",
+  "postalCode": ""
+ },
+ {
+  "id": 5304040014,
+  "districtId": 5304040,
+  "districtName": "AMANUBAN BARAT",
+  "name": "NUSA",
+  "postalCode": "23657"
+ },
+ {
+  "id": 5304040015,
+  "districtId": 5304040,
+  "districtName": "AMANUBAN BARAT",
+  "name": "NIFUKANI",
+  "postalCode": "85551"
+ }
+]

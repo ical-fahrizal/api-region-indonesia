@@ -1,0 +1,30 @@
+[
+ {
+  "id": 1311010005,
+  "districtId": 1311010,
+  "districtName": "SUNGAI RUMBAI",
+  "name": "SUNGAI RUMBAI",
+  "postalCode": "27684"
+ },
+ {
+  "id": 1311010006,
+  "districtId": 1311010,
+  "districtName": "SUNGAI RUMBAI",
+  "name": "KURNIA KOTO SALAK",
+  "postalCode": "27684"
+ },
+ {
+  "id": 1311010007,
+  "districtId": 1311010,
+  "districtName": "SUNGAI RUMBAI",
+  "name": "SUNGAI RUMBAI TIMUR",
+  "postalCode": "27684"
+ },
+ {
+  "id": 1311010008,
+  "districtId": 1311010,
+  "districtName": "SUNGAI RUMBAI",
+  "name": "KURNIA SELATAN",
+  "postalCode": "27684"
+ }
+]

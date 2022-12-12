@@ -1,0 +1,44 @@
+[
+ {
+  "id": 2101032001,
+  "districtId": 2101032,
+  "districtName": "MERAL",
+  "name": "MERAL KOTA",
+  "postalCode": "29664"
+ },
+ {
+  "id": 2101032002,
+  "districtId": 2101032,
+  "districtName": "MERAL",
+  "name": "BARAN BARAT",
+  "postalCode": "29664"
+ },
+ {
+  "id": 2101032003,
+  "districtId": 2101032,
+  "districtName": "MERAL",
+  "name": "SUNGAI RAYA",
+  "postalCode": "22254"
+ },
+ {
+  "id": 2101032006,
+  "districtId": 2101032,
+  "districtName": "MERAL",
+  "name": "SUNGAI PASIR",
+  "postalCode": "30658"
+ },
+ {
+  "id": 2101032007,
+  "districtId": 2101032,
+  "districtName": "MERAL",
+  "name": "BARAN TIMUR",
+  "postalCode": "29664"
+ },
+ {
+  "id": 2101032008,
+  "districtId": 2101032,
+  "districtName": "MERAL",
+  "name": "PARIT BENUT",
+  "postalCode": ""
+ }
+]

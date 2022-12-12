@@ -1,0 +1,30 @@
+[
+ {
+  "id": 3275040005,
+  "districtId": 3275040,
+  "districtName": "BEKASI TIMUR",
+  "name": "MARGAHAYU",
+  "postalCode": "17113"
+ },
+ {
+  "id": 3275040006,
+  "districtId": 3275040,
+  "districtName": "BEKASI TIMUR",
+  "name": "BEKASI JAYA",
+  "postalCode": "17112"
+ },
+ {
+  "id": 3275040007,
+  "districtId": 3275040,
+  "districtName": "BEKASI TIMUR",
+  "name": "DUREN JAYA",
+  "postalCode": "17111"
+ },
+ {
+  "id": 3275040008,
+  "districtId": 3275040,
+  "districtName": "BEKASI TIMUR",
+  "name": "AREN JAYA",
+  "postalCode": "17111"
+ }
+]

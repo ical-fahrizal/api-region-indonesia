@@ -1,0 +1,30 @@
+[
+ {
+  "id": 9401045001,
+  "districtId": 9401045,
+  "districtName": "NAUKENJERAI",
+  "name": "KONDO",
+  "postalCode": "93673"
+ },
+ {
+  "id": 9401045002,
+  "districtId": 9401045,
+  "districtName": "NAUKENJERAI",
+  "name": "TOMERAU",
+  "postalCode": "99616"
+ },
+ {
+  "id": 9401045003,
+  "districtId": 9401045,
+  "districtName": "NAUKENJERAI",
+  "name": "TOMER",
+  "postalCode": "99616"
+ },
+ {
+  "id": 9401045004,
+  "districtId": 9401045,
+  "districtName": "NAUKENJERAI",
+  "name": "ONGGAYA",
+  "postalCode": "99616"
+ }
+]

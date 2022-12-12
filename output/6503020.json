@@ -1,0 +1,44 @@
+[
+ {
+  "id": 6503020002,
+  "districtId": 6503020,
+  "districtName": "SESAYAP",
+  "name": "LIMBU SEDULUN",
+  "postalCode": ""
+ },
+ {
+  "id": 6503020003,
+  "districtId": 6503020,
+  "districtName": "SESAYAP",
+  "name": "GUNAWAN",
+  "postalCode": "77152"
+ },
+ {
+  "id": 6503020004,
+  "districtId": 6503020,
+  "districtName": "SESAYAP",
+  "name": "TIDENG PALE",
+  "postalCode": "77152"
+ },
+ {
+  "id": 6503020005,
+  "districtId": 6503020,
+  "districtName": "SESAYAP",
+  "name": "TIDENG PALE TIMUR",
+  "postalCode": "77152"
+ },
+ {
+  "id": 6503020006,
+  "districtId": 6503020,
+  "districtName": "SESAYAP",
+  "name": "SEBIDAI",
+  "postalCode": ""
+ },
+ {
+  "id": 6503020007,
+  "districtId": 6503020,
+  "districtName": "SESAYAP",
+  "name": "SEBAWANG",
+  "postalCode": "77152"
+ }
+]

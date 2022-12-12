@@ -1,0 +1,37 @@
+[
+ {
+  "id": 7301022001,
+  "districtId": 7301022,
+  "districtName": "PASIMASSUNGGU TIMUR",
+  "name": "LEMBANG BAJI",
+  "postalCode": "92861"
+ },
+ {
+  "id": 7301022002,
+  "districtId": 7301022,
+  "districtName": "PASIMASSUNGGU TIMUR",
+  "name": "BONTOMALLING",
+  "postalCode": "92861"
+ },
+ {
+  "id": 7301022003,
+  "districtId": 7301022,
+  "districtName": "PASIMASSUNGGU TIMUR",
+  "name": "BONTOBULAENG",
+  "postalCode": "92861"
+ },
+ {
+  "id": 7301022004,
+  "districtId": 7301022,
+  "districtName": "PASIMASSUNGGU TIMUR",
+  "name": "BONTOBARU",
+  "postalCode": "92861"
+ },
+ {
+  "id": 7301022005,
+  "districtId": 7301022,
+  "districtName": "PASIMASSUNGGU TIMUR",
+  "name": "BONTOJATI",
+  "postalCode": "92861"
+ }
+]

@@ -1,0 +1,30 @@
+[
+ {
+  "id": 1671070001,
+  "districtId": 1671070,
+  "districtName": "SAKO",
+  "name": "SUKAMAJU",
+  "postalCode": "22465"
+ },
+ {
+  "id": 1671070002,
+  "districtId": 1671070,
+  "districtName": "SAKO",
+  "name": "SIALANG",
+  "postalCode": "23772"
+ },
+ {
+  "id": 1671070003,
+  "districtId": 1671070,
+  "districtName": "SAKO",
+  "name": "SAKO",
+  "postalCode": "29553"
+ },
+ {
+  "id": 1671070007,
+  "districtId": 1671070,
+  "districtName": "SAKO",
+  "name": "SAKO BARU",
+  "postalCode": "30165"
+ }
+]

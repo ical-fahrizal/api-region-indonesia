@@ -1,0 +1,37 @@
+[
+ {
+  "id": 2104032001,
+  "districtId": 2104032,
+  "districtName": "LINGGA TIMUR",
+  "name": "BUKIT LANGKAP",
+  "postalCode": "31654"
+ },
+ {
+  "id": 2104032002,
+  "districtId": 2104032,
+  "districtName": "LINGGA TIMUR",
+  "name": "KERANDIN",
+  "postalCode": "29872"
+ },
+ {
+  "id": 2104032003,
+  "districtId": 2104032,
+  "districtName": "LINGGA TIMUR",
+  "name": "PEKAKA",
+  "postalCode": "29872"
+ },
+ {
+  "id": 2104032004,
+  "districtId": 2104032,
+  "districtName": "LINGGA TIMUR",
+  "name": "KETON",
+  "postalCode": "29872"
+ },
+ {
+  "id": 2104032005,
+  "districtId": 2104032,
+  "districtName": "LINGGA TIMUR",
+  "name": "SUNGAI PINANG",
+  "postalCode": "25654"
+ }
+]

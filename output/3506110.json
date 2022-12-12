@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3506110001,
+  "districtId": 3506110,
+  "districtName": "PUNCU",
+  "name": "SATAK",
+  "postalCode": "64292"
+ },
+ {
+  "id": 3506110003,
+  "districtId": 3506110,
+  "districtName": "PUNCU",
+  "name": "ASMOROBANGUN",
+  "postalCode": "64292"
+ },
+ {
+  "id": 3506110004,
+  "districtId": 3506110,
+  "districtName": "PUNCU",
+  "name": "WONOREJO",
+  "postalCode": "21186"
+ },
+ {
+  "id": 3506110005,
+  "districtId": 3506110,
+  "districtName": "PUNCU",
+  "name": "MANGGIS",
+  "postalCode": "22742"
+ },
+ {
+  "id": 3506110006,
+  "districtId": 3506110,
+  "districtName": "PUNCU",
+  "name": "SIDOMULYO",
+  "postalCode": "21455"
+ },
+ {
+  "id": 3506110007,
+  "districtId": 3506110,
+  "districtName": "PUNCU",
+  "name": "WATUGEDE",
+  "postalCode": "57383"
+ },
+ {
+  "id": 3506110008,
+  "districtId": 3506110,
+  "districtName": "PUNCU",
+  "name": "GADUNGAN",
+  "postalCode": "57461"
+ }
+]

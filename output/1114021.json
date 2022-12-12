@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1114021001,
+  "districtId": 1114021,
+  "districtName": "TENGGULUN",
+  "name": "SELAMAT",
+  "postalCode": "24477"
+ },
+ {
+  "id": 1114021002,
+  "districtId": 1114021,
+  "districtName": "TENGGULUN",
+  "name": "TENGGULUN",
+  "postalCode": "24477"
+ },
+ {
+  "id": 1114021003,
+  "districtId": 1114021,
+  "districtName": "TENGGULUN",
+  "name": "RIMBA SAWANG",
+  "postalCode": "24477"
+ },
+ {
+  "id": 1114021004,
+  "districtId": 1114021,
+  "districtName": "TENGGULUN",
+  "name": "TEBING TINGGI",
+  "postalCode": "24477"
+ },
+ {
+  "id": 1114021006,
+  "districtId": 1114021,
+  "districtName": "TENGGULUN",
+  "name": "SIMPANG KIRI",
+  "postalCode": "24477"
+ }
+]

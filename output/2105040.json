@@ -1,0 +1,51 @@
+[
+ {
+  "id": 2105040003,
+  "districtId": 2105040,
+  "districtName": "SIANTAN",
+  "name": "TAREMPA BARAT",
+  "postalCode": "29791"
+ },
+ {
+  "id": 2105040004,
+  "districtId": 2105040,
+  "districtName": "SIANTAN",
+  "name": "TAREMPA",
+  "postalCode": "29791"
+ },
+ {
+  "id": 2105040005,
+  "districtId": 2105040,
+  "districtName": "SIANTAN",
+  "name": "TAREMPA SELATAN",
+  "postalCode": "29791"
+ },
+ {
+  "id": 2105040006,
+  "districtId": 2105040,
+  "districtName": "SIANTAN",
+  "name": "TAREMPA TIMUR",
+  "postalCode": ""
+ },
+ {
+  "id": 2105040007,
+  "districtId": 2105040,
+  "districtName": "SIANTAN",
+  "name": "SRI TANJUNG",
+  "postalCode": "28781"
+ },
+ {
+  "id": 2105040008,
+  "districtId": 2105040,
+  "districtName": "SIANTAN",
+  "name": "TAREMPA BARAT DAYA",
+  "postalCode": "29791"
+ },
+ {
+  "id": 2105040009,
+  "districtId": 2105040,
+  "districtName": "SIANTAN",
+  "name": "PESISIR TIMUR",
+  "postalCode": ""
+ }
+]

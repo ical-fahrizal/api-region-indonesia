@@ -1,0 +1,65 @@
+[
+ {
+  "id": 3301160001,
+  "districtId": 3301160,
+  "districtName": "MAOS",
+  "name": "KARANGKEMIRI",
+  "postalCode": "53252"
+ },
+ {
+  "id": 3301160002,
+  "districtId": 3301160,
+  "districtName": "MAOS",
+  "name": "KARANGREJA",
+  "postalCode": "17710"
+ },
+ {
+  "id": 3301160003,
+  "districtId": 3301160,
+  "districtName": "MAOS",
+  "name": "KLAPAGADA",
+  "postalCode": "53272"
+ },
+ {
+  "id": 3301160004,
+  "districtId": 3301160,
+  "districtName": "MAOS",
+  "name": "KARANGRENA",
+  "postalCode": "53272"
+ },
+ {
+  "id": 3301160005,
+  "districtId": 3301160,
+  "districtName": "MAOS",
+  "name": "MAOS KIDUL",
+  "postalCode": "53272"
+ },
+ {
+  "id": 3301160006,
+  "districtId": 3301160,
+  "districtName": "MAOS",
+  "name": "MAOS LOR",
+  "postalCode": "53272"
+ },
+ {
+  "id": 3301160007,
+  "districtId": 3301160,
+  "districtName": "MAOS",
+  "name": "KALIJARAN",
+  "postalCode": "53354"
+ },
+ {
+  "id": 3301160009,
+  "districtId": 3301160,
+  "districtName": "MAOS",
+  "name": "PENISIHAN",
+  "postalCode": "53272"
+ },
+ {
+  "id": 3301160010,
+  "districtId": 3301160,
+  "districtName": "MAOS",
+  "name": "GLEMPANG",
+  "postalCode": "53473"
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1275070001,
+  "districtId": 1275070,
+  "districtName": "MEDAN MAIMUN",
+  "name": "KAMPUNG BARU",
+  "postalCode": "24652"
+ },
+ {
+  "id": 1275070002,
+  "districtId": 1275070,
+  "districtName": "MEDAN MAIMUN",
+  "name": "SEI MATI",
+  "postalCode": "20252"
+ },
+ {
+  "id": 1275070003,
+  "districtId": 1275070,
+  "districtName": "MEDAN MAIMUN",
+  "name": "SUKA RAJA",
+  "postalCode": "23662"
+ },
+ {
+  "id": 1275070004,
+  "districtId": 1275070,
+  "districtName": "MEDAN MAIMUN",
+  "name": "J A T I",
+  "postalCode": ""
+ },
+ {
+  "id": 1275070005,
+  "districtId": 1275070,
+  "districtName": "MEDAN MAIMUN",
+  "name": "H A M D A N",
+  "postalCode": ""
+ },
+ {
+  "id": 1275070006,
+  "districtId": 1275070,
+  "districtName": "MEDAN MAIMUN",
+  "name": "A U R",
+  "postalCode": ""
+ }
+]

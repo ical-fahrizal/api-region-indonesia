@@ -1,0 +1,30 @@
+[
+ {
+  "id": 8204061001,
+  "districtId": 8204061,
+  "districtName": "KAYOA BARAT",
+  "name": "BOKIMIAKE",
+  "postalCode": "97781"
+ },
+ {
+  "id": 8204061002,
+  "districtId": 8204061,
+  "districtName": "KAYOA BARAT",
+  "name": "HATEJAWA",
+  "postalCode": "97781"
+ },
+ {
+  "id": 8204061003,
+  "districtId": 8204061,
+  "districtName": "KAYOA BARAT",
+  "name": "BUSUA",
+  "postalCode": "97781"
+ },
+ {
+  "id": 8204061004,
+  "districtId": 8204061,
+  "districtName": "KAYOA BARAT",
+  "name": "FOFAO",
+  "postalCode": "97781"
+ }
+]

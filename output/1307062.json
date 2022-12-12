@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1307062001,
+  "districtId": 1307062,
+  "districtName": "SUNGAI PUA",
+  "name": "BATU PALANO",
+  "postalCode": "26181"
+ },
+ {
+  "id": 1307062002,
+  "districtId": 1307062,
+  "districtName": "SUNGAI PUA",
+  "name": "PADANG LAWEH",
+  "postalCode": "27562"
+ },
+ {
+  "id": 1307062003,
+  "districtId": 1307062,
+  "districtName": "SUNGAI PUA",
+  "name": "BATAGAK",
+  "postalCode": "26181"
+ },
+ {
+  "id": 1307062004,
+  "districtId": 1307062,
+  "districtName": "SUNGAI PUA",
+  "name": "SARIAK",
+  "postalCode": "26181"
+ },
+ {
+  "id": 1307062005,
+  "districtId": 1307062,
+  "districtName": "SUNGAI PUA",
+  "name": "SUNGAI PUA",
+  "postalCode": "26181"
+ }
+]

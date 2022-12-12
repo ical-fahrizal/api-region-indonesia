@@ -1,0 +1,44 @@
+[
+ {
+  "id": 7605022001,
+  "districtId": 7605022,
+  "districtName": "LARIANG",
+  "name": "BAJAWALI",
+  "postalCode": "91572"
+ },
+ {
+  "id": 7605022002,
+  "districtId": 7605022,
+  "districtName": "LARIANG",
+  "name": "SINGGANI",
+  "postalCode": "91572"
+ },
+ {
+  "id": 7605022003,
+  "districtId": 7605022,
+  "districtName": "LARIANG",
+  "name": "PARABU",
+  "postalCode": "91572"
+ },
+ {
+  "id": 7605022004,
+  "districtId": 7605022,
+  "districtName": "LARIANG",
+  "name": "KENANGAN",
+  "postalCode": "20371"
+ },
+ {
+  "id": 7605022006,
+  "districtId": 7605022,
+  "districtName": "LARIANG",
+  "name": "BAMBAKORO",
+  "postalCode": "91572"
+ },
+ {
+  "id": 7605022007,
+  "districtId": 7605022,
+  "districtName": "LARIANG",
+  "name": "BATU MATORU",
+  "postalCode": "91572"
+ }
+]

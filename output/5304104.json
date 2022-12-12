@@ -1,0 +1,37 @@
+[
+ {
+  "id": 5304104001,
+  "districtId": 5304104,
+  "districtName": "SANTIAN",
+  "name": "NENOTES",
+  "postalCode": "85573"
+ },
+ {
+  "id": 5304104002,
+  "districtId": 5304104,
+  "districtName": "SANTIAN",
+  "name": "SANTIAN",
+  "postalCode": "85573"
+ },
+ {
+  "id": 5304104003,
+  "districtId": 5304104,
+  "districtName": "SANTIAN",
+  "name": "POLI",
+  "postalCode": "85573"
+ },
+ {
+  "id": 5304104004,
+  "districtId": 5304104,
+  "districtName": "SANTIAN",
+  "name": "MANUFUI",
+  "postalCode": "85573"
+ },
+ {
+  "id": 5304104005,
+  "districtId": 5304104,
+  "districtName": "SANTIAN",
+  "name": "NAIFATU",
+  "postalCode": "85573"
+ }
+]

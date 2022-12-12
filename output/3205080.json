@@ -1,0 +1,79 @@
+[
+ {
+  "id": 3205080001,
+  "districtId": 3205080,
+  "districtName": "CIBALONG",
+  "name": "MEKARSARI",
+  "postalCode": "37482"
+ },
+ {
+  "id": 3205080002,
+  "districtId": 3205080,
+  "districtName": "CIBALONG",
+  "name": "KARYASARI",
+  "postalCode": "44191"
+ },
+ {
+  "id": 3205080003,
+  "districtId": 3205080,
+  "districtName": "CIBALONG",
+  "name": "KARYA MUKTI",
+  "postalCode": "28953"
+ },
+ {
+  "id": 3205080004,
+  "districtId": 3205080,
+  "districtName": "CIBALONG",
+  "name": "SAGARA",
+  "postalCode": "45462"
+ },
+ {
+  "id": 3205080005,
+  "districtId": 3205080,
+  "districtName": "CIBALONG",
+  "name": "MAROKO",
+  "postalCode": "44176"
+ },
+ {
+  "id": 3205080006,
+  "districtId": 3205080,
+  "districtName": "CIBALONG",
+  "name": "SANCANG",
+  "postalCode": "44176"
+ },
+ {
+  "id": 3205080007,
+  "districtId": 3205080,
+  "districtName": "CIBALONG",
+  "name": "SIMPANG",
+  "postalCode": "23773"
+ },
+ {
+  "id": 3205080008,
+  "districtId": 3205080,
+  "districtName": "CIBALONG",
+  "name": "CIGARONGGONG",
+  "postalCode": "44176"
+ },
+ {
+  "id": 3205080009,
+  "districtId": 3205080,
+  "districtName": "CIBALONG",
+  "name": "MEKARMUKTI",
+  "postalCode": "45392"
+ },
+ {
+  "id": 3205080010,
+  "districtId": 3205080,
+  "districtName": "CIBALONG",
+  "name": "MEKARWANGI",
+  "postalCode": "45462"
+ },
+ {
+  "id": 3205080011,
+  "districtId": 3205080,
+  "districtName": "CIBALONG",
+  "name": "NAJATEN",
+  "postalCode": "44176"
+ }
+]

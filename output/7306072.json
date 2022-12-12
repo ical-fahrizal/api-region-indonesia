@@ -1,0 +1,37 @@
+[
+ {
+  "id": 7306072001,
+  "districtId": 7306072,
+  "districtName": "PARIGI",
+  "name": "SICINI",
+  "postalCode": "92174"
+ },
+ {
+  "id": 7306072002,
+  "districtId": 7306072,
+  "districtName": "PARIGI",
+  "name": "BILANRENGI",
+  "postalCode": "92174"
+ },
+ {
+  "id": 7306072003,
+  "districtId": 7306072,
+  "districtName": "PARIGI",
+  "name": "MANIMBAHOI",
+  "postalCode": "92174"
+ },
+ {
+  "id": 7306072004,
+  "districtId": 7306072,
+  "districtName": "PARIGI",
+  "name": "MAJANNANG",
+  "postalCode": "90511"
+ },
+ {
+  "id": 7306072005,
+  "districtId": 7306072,
+  "districtName": "PARIGI",
+  "name": "JONJO",
+  "postalCode": "92174"
+ }
+]

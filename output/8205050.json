@@ -1,0 +1,44 @@
+[
+ {
+  "id": 8205050005,
+  "districtId": 8205050,
+  "districtName": "GALELA",
+  "name": "MAMUYA",
+  "postalCode": "97761"
+ },
+ {
+  "id": 8205050007,
+  "districtId": 8205050,
+  "districtName": "GALELA",
+  "name": "SOA SIO",
+  "postalCode": "97761"
+ },
+ {
+  "id": 8205050008,
+  "districtId": 8205050,
+  "districtName": "GALELA",
+  "name": "TOWEKA",
+  "postalCode": "97761"
+ },
+ {
+  "id": 8205050009,
+  "districtId": 8205050,
+  "districtName": "GALELA",
+  "name": "BARATAKU",
+  "postalCode": "97761"
+ },
+ {
+  "id": 8205050010,
+  "districtId": 8205050,
+  "districtName": "GALELA",
+  "name": "TOWARA",
+  "postalCode": "94971"
+ },
+ {
+  "id": 8205050011,
+  "districtId": 8205050,
+  "districtName": "GALELA",
+  "name": "SIMAU",
+  "postalCode": "97761"
+ }
+]

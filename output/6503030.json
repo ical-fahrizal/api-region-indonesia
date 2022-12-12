@@ -1,0 +1,44 @@
+[
+ {
+  "id": 6503030001,
+  "districtId": 6503030,
+  "districtName": "BETAYAU",
+  "name": "MENDUPO",
+  "postalCode": ""
+ },
+ {
+  "id": 6503030002,
+  "districtId": 6503030,
+  "districtName": "BETAYAU",
+  "name": "PERIUK",
+  "postalCode": "15131"
+ },
+ {
+  "id": 6503030003,
+  "districtId": 6503030,
+  "districtName": "BETAYAU",
+  "name": "BEBAKUNG",
+  "postalCode": "77152"
+ },
+ {
+  "id": 6503030004,
+  "districtId": 6503030,
+  "districtName": "BETAYAU",
+  "name": "KUJAU",
+  "postalCode": "77152"
+ },
+ {
+  "id": 6503030005,
+  "districtId": 6503030,
+  "districtName": "BETAYAU",
+  "name": "MANING",
+  "postalCode": "77152"
+ },
+ {
+  "id": 6503030006,
+  "districtId": 6503030,
+  "districtName": "BETAYAU",
+  "name": "BUANG BARU",
+  "postalCode": ""
+ }
+]

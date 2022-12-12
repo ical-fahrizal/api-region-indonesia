@@ -1,0 +1,37 @@
+[
+ {
+  "id": 6503050001,
+  "districtId": 6503050,
+  "districtName": "TANA LIA",
+  "name": "TANAH MERAH",
+  "postalCode": "24652"
+ },
+ {
+  "id": 6503050002,
+  "districtId": 6503050,
+  "districtName": "TANA LIA",
+  "name": "SAMBUNGAN",
+  "postalCode": "77453"
+ },
+ {
+  "id": 6503050003,
+  "districtId": 6503050,
+  "districtName": "TANA LIA",
+  "name": "TENGKU DACING",
+  "postalCode": "77453"
+ },
+ {
+  "id": 6503050004,
+  "districtId": 6503050,
+  "districtName": "TANA LIA",
+  "name": "TANAH MERAH BARAT",
+  "postalCode": ""
+ },
+ {
+  "id": 6503050005,
+  "districtId": 6503050,
+  "districtName": "TANA LIA",
+  "name": "SAMBUNGAN SELATAN",
+  "postalCode": ""
+ }
+]

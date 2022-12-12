@@ -1,0 +1,37 @@
+[
+ {
+  "id": 9101070005,
+  "districtId": 9101070,
+  "districtName": "FAKFAK BARAT",
+  "name": "PURWASAK",
+  "postalCode": "98661"
+ },
+ {
+  "id": 9101070006,
+  "districtId": 9101070,
+  "districtName": "FAKFAK BARAT",
+  "name": "WERBA",
+  "postalCode": "98661"
+ },
+ {
+  "id": 9101070007,
+  "districtId": 9101070,
+  "districtName": "FAKFAK BARAT",
+  "name": "KIAT",
+  "postalCode": "98661"
+ },
+ {
+  "id": 9101070008,
+  "districtId": 9101070,
+  "districtName": "FAKFAK BARAT",
+  "name": "WURKENDIK",
+  "postalCode": "98661"
+ },
+ {
+  "id": 9101070010,
+  "districtId": 9101070,
+  "districtName": "FAKFAK BARAT",
+  "name": "KWUHKENDIK",
+  "postalCode": ""
+ }
+]

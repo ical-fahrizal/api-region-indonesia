@@ -1,0 +1,44 @@
+[
+ {
+  "id": 3273210001,
+  "districtId": 3273210,
+  "districtName": "CIBEUNYING KIDUL",
+  "name": "SUKAMAJU",
+  "postalCode": "22465"
+ },
+ {
+  "id": 3273210002,
+  "districtId": 3273210,
+  "districtName": "CIBEUNYING KIDUL",
+  "name": "CICADAS",
+  "postalCode": "41151"
+ },
+ {
+  "id": 3273210003,
+  "districtId": 3273210,
+  "districtName": "CIBEUNYING KIDUL",
+  "name": "CIKUTRA",
+  "postalCode": "40124"
+ },
+ {
+  "id": 3273210004,
+  "districtId": 3273210,
+  "districtName": "CIBEUNYING KIDUL",
+  "name": "PADASUKA",
+  "postalCode": "44185"
+ },
+ {
+  "id": 3273210005,
+  "districtId": 3273210,
+  "districtName": "CIBEUNYING KIDUL",
+  "name": "PASIRLAYUNG",
+  "postalCode": "40192"
+ },
+ {
+  "id": 3273210006,
+  "districtId": 3273210,
+  "districtName": "CIBEUNYING KIDUL",
+  "name": "SUKAPADA",
+  "postalCode": "40125"
+ }
+]

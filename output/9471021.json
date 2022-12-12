@@ -1,0 +1,37 @@
+[
+ {
+  "id": 9471021001,
+  "districtId": 9471021,
+  "districtName": "HERAM",
+  "name": "YOKA",
+  "postalCode": "99569"
+ },
+ {
+  "id": 9471021002,
+  "districtId": 9471021,
+  "districtName": "HERAM",
+  "name": "KAMPUNG WAENA",
+  "postalCode": ""
+ },
+ {
+  "id": 9471021003,
+  "districtId": 9471021,
+  "districtName": "HERAM",
+  "name": "HEDAM",
+  "postalCode": "99351"
+ },
+ {
+  "id": 9471021005,
+  "districtId": 9471021,
+  "districtName": "HERAM",
+  "name": "WAENA",
+  "postalCode": "99221"
+ },
+ {
+  "id": 9471021006,
+  "districtId": 9471021,
+  "districtName": "HERAM",
+  "name": "YABANSAI",
+  "postalCode": "99351"
+ }
+]

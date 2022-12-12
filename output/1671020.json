@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1671020008,
+  "districtId": 1671020,
+  "districtName": "SEBERANG ULU I",
+  "name": "1 ULU",
+  "postalCode": "30257"
+ },
+ {
+  "id": 1671020010,
+  "districtId": 1671020,
+  "districtName": "SEBERANG ULU I",
+  "name": "2 ULU",
+  "postalCode": "30257"
+ },
+ {
+  "id": 1671020011,
+  "districtId": 1671020,
+  "districtName": "SEBERANG ULU I",
+  "name": "3-4 ULU",
+  "postalCode": "30255"
+ },
+ {
+  "id": 1671020012,
+  "districtId": 1671020,
+  "districtName": "SEBERANG ULU I",
+  "name": "5 ULU",
+  "postalCode": "30254"
+ },
+ {
+  "id": 1671020013,
+  "districtId": 1671020,
+  "districtName": "SEBERANG ULU I",
+  "name": "7 ULU",
+  "postalCode": "30253"
+ }
+]

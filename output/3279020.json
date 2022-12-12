@@ -1,0 +1,30 @@
+[
+ {
+  "id": 3279020001,
+  "districtId": 3279020,
+  "districtName": "PURWAHARJA",
+  "name": "PURWAHARJA",
+  "postalCode": "46331"
+ },
+ {
+  "id": 3279020002,
+  "districtId": 3279020,
+  "districtName": "PURWAHARJA",
+  "name": "KARANGPANIMBAL",
+  "postalCode": "46332"
+ },
+ {
+  "id": 3279020003,
+  "districtId": 3279020,
+  "districtName": "PURWAHARJA",
+  "name": "RAHARJA",
+  "postalCode": "46333"
+ },
+ {
+  "id": 3279020004,
+  "districtId": 3279020,
+  "districtName": "PURWAHARJA",
+  "name": "MEKARHARJA",
+  "postalCode": "46334"
+ }
+]

@@ -1,0 +1,30 @@
+[
+ {
+  "id": 3273101001,
+  "districtId": 3273101,
+  "districtName": "GEDEBAGE",
+  "name": "RANCABOLANG",
+  "postalCode": ""
+ },
+ {
+  "id": 3273101002,
+  "districtId": 3273101,
+  "districtName": "GEDEBAGE",
+  "name": "RANCANUMPANG",
+  "postalCode": "40294"
+ },
+ {
+  "id": 3273101003,
+  "districtId": 3273101,
+  "districtName": "GEDEBAGE",
+  "name": "CISARANTEN KIDUL",
+  "postalCode": "40294"
+ },
+ {
+  "id": 3273101004,
+  "districtId": 3273101,
+  "districtName": "GEDEBAGE",
+  "name": "CIMINCRANG",
+  "postalCode": ""
+ }
+]

@@ -1,0 +1,65 @@
+[
+ {
+  "id": 1471080001,
+  "districtId": 1471080,
+  "districtName": "RUMBAI",
+  "name": "UMBAN SARI",
+  "postalCode": "28265"
+ },
+ {
+  "id": 1471080006,
+  "districtId": 1471080,
+  "districtName": "RUMBAI",
+  "name": "RUMBAI BUKIT",
+  "postalCode": "28264"
+ },
+ {
+  "id": 1471080007,
+  "districtId": 1471080,
+  "districtName": "RUMBAI",
+  "name": "MUARA FAJAR",
+  "postalCode": "28267"
+ },
+ {
+  "id": 1471080008,
+  "districtId": 1471080,
+  "districtName": "RUMBAI",
+  "name": "PALAS",
+  "postalCode": "28382"
+ },
+ {
+  "id": 1471080009,
+  "districtId": 1471080,
+  "districtName": "RUMBAI",
+  "name": "SRI MERANTI",
+  "postalCode": "28261"
+ },
+ {
+  "id": 1471080010,
+  "districtId": 1471080,
+  "districtName": "RUMBAI",
+  "name": "AGROWISATA",
+  "postalCode": ""
+ },
+ {
+  "id": 1471080011,
+  "districtId": 1471080,
+  "districtName": "RUMBAI",
+  "name": "MAHARANI",
+  "postalCode": ""
+ },
+ {
+  "id": 1471080012,
+  "districtId": 1471080,
+  "districtName": "RUMBAI",
+  "name": "RANTAU PANJANG",
+  "postalCode": "24476"
+ },
+ {
+  "id": 1471080013,
+  "districtId": 1471080,
+  "districtName": "RUMBAI",
+  "name": "MUARA FAJAR BARAT",
+  "postalCode": ""
+ }
+]

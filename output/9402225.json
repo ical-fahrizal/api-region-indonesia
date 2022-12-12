@@ -1,0 +1,65 @@
+[
+ {
+  "id": 9402225001,
+  "districtId": 9402225,
+  "districtName": "TAGINERI",
+  "name": "TAGINERI",
+  "postalCode": ""
+ },
+ {
+  "id": 9402225002,
+  "districtId": 9402225,
+  "districtName": "TAGINERI",
+  "name": "BINIBAGA",
+  "postalCode": "99557"
+ },
+ {
+  "id": 9402225003,
+  "districtId": 9402225,
+  "districtName": "TAGINERI",
+  "name": "INJUTA",
+  "postalCode": "99557"
+ },
+ {
+  "id": 9402225004,
+  "districtId": 9402225,
+  "districtName": "TAGINERI",
+  "name": "TAMOKILU",
+  "postalCode": ""
+ },
+ {
+  "id": 9402225005,
+  "districtId": 9402225,
+  "districtName": "TAGINERI",
+  "name": "WILALOMA",
+  "postalCode": "99557"
+ },
+ {
+  "id": 9402225006,
+  "districtId": 9402225,
+  "districtName": "TAGINERI",
+  "name": "GALELEMA",
+  "postalCode": ""
+ },
+ {
+  "id": 9402225007,
+  "districtId": 9402225,
+  "districtName": "TAGINERI",
+  "name": "MELEMEI",
+  "postalCode": "99557"
+ },
+ {
+  "id": 9402225008,
+  "districtId": 9402225,
+  "districtName": "TAGINERI",
+  "name": "PAGALUK",
+  "postalCode": "99557"
+ },
+ {
+  "id": 9402225009,
+  "districtId": 9402225,
+  "districtName": "TAGINERI",
+  "name": "WURAGUKME",
+  "postalCode": "99557"
+ }
+]

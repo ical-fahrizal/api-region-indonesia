@@ -1,0 +1,345 @@
+[
+ {
+  "id": 1109120001,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "BARIEH",
+  "postalCode": "24173"
+ },
+ {
+  "id": 1109120002,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "KANDANG",
+  "postalCode": "23352"
+ },
+ {
+  "id": 1109120003,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "PALOH JEUREULA",
+  "postalCode": "24164"
+ },
+ {
+  "id": 1109120004,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "COT CANTEK",
+  "postalCode": "24164"
+ },
+ {
+  "id": 1109120005,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "LHOK PANAH",
+  "postalCode": "24164"
+ },
+ {
+  "id": 1109120006,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "BLANG COT",
+  "postalCode": ""
+ },
+ {
+  "id": 1109120007,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "BLANG KUMOT TUNONG",
+  "postalCode": "24164"
+ },
+ {
+  "id": 1109120008,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "MURONG COT",
+  "postalCode": "24164"
+ },
+ {
+  "id": 1109120009,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "MURONG LHOK",
+  "postalCode": "24164"
+ },
+ {
+  "id": 1109120010,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "GAMPONG COT",
+  "postalCode": "23373"
+ },
+ {
+  "id": 1109120011,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "RIWEUK",
+  "postalCode": "24164"
+ },
+ {
+  "id": 1109120012,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "MANCANG",
+  "postalCode": "24151"
+ },
+ {
+  "id": 1109120013,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "KP PISANG BUCUE",
+  "postalCode": "24164"
+ },
+ {
+  "id": 1109120014,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "LINGKOK",
+  "postalCode": "24164"
+ },
+ {
+  "id": 1109120015,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "CUMBOK LIE",
+  "postalCode": "24164"
+ },
+ {
+  "id": 1109120016,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "BLANG KUMOT BAROH",
+  "postalCode": "24164"
+ },
+ {
+  "id": 1109120017,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "LAM UJONG",
+  "postalCode": "23373"
+ },
+ {
+  "id": 1109120018,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "CUMBOK NIWA",
+  "postalCode": "24164"
+ },
+ {
+  "id": 1109120019,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "DAYAH KP PISANG",
+  "postalCode": "24164"
+ },
+ {
+  "id": 1109120020,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "LEUPUEM MESJID",
+  "postalCode": ""
+ },
+ {
+  "id": 1109120021,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "JURONG PANTE",
+  "postalCode": "24164"
+ },
+ {
+  "id": 1109120022,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "BEUTONG PERLAK",
+  "postalCode": "24164"
+ },
+ {
+  "id": 1109120023,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "BUCUE",
+  "postalCode": "24164"
+ },
+ {
+  "id": 1109120024,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "BALUE TANOH",
+  "postalCode": "24164"
+ },
+ {
+  "id": 1109120025,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "COT SUKON",
+  "postalCode": "24164"
+ },
+ {
+  "id": 1109120026,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "BALUE KULU",
+  "postalCode": "24164"
+ },
+ {
+  "id": 1109120027,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "LHOK ME",
+  "postalCode": "24164"
+ },
+ {
+  "id": 1109120028,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "BEUTONG POCUT",
+  "postalCode": "24164"
+ },
+ {
+  "id": 1109120029,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "PASAR KOTA BAKTI",
+  "postalCode": "24164"
+ },
+ {
+  "id": 1109120030,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "GAMPONG BARO",
+  "postalCode": "24454"
+ },
+ {
+  "id": 1109120031,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "MNS BLANG",
+  "postalCode": ""
+ },
+ {
+  "id": 1109120032,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "MNS BALE",
+  "postalCode": ""
+ },
+ {
+  "id": 1109120033,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "GAMPONG JUMPA",
+  "postalCode": ""
+ },
+ {
+  "id": 1109120034,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "PANTE KRUENG",
+  "postalCode": "24164"
+ },
+ {
+  "id": 1109120035,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "LAMEUE MNS RAYA",
+  "postalCode": ""
+ },
+ {
+  "id": 1109120036,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "DAYAH TUHA",
+  "postalCode": "24186"
+ },
+ {
+  "id": 1109120037,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "LAMEUE MNS BARO",
+  "postalCode": ""
+ },
+ {
+  "id": 1109120038,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "PULO JUMPA",
+  "postalCode": ""
+ },
+ {
+  "id": 1109120039,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "PULO KEUREMBOK",
+  "postalCode": ""
+ },
+ {
+  "id": 1109120040,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "PERLAK ASAN",
+  "postalCode": "24164"
+ },
+ {
+  "id": 1109120041,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "PERLAK BAROH",
+  "postalCode": "24164"
+ },
+ {
+  "id": 1109120042,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "MALI LAMKUTA",
+  "postalCode": ""
+ },
+ {
+  "id": 1109120043,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "MALI UKE",
+  "postalCode": ""
+ },
+ {
+  "id": 1109120044,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "MALI GUYUI",
+  "postalCode": "24164"
+ },
+ {
+  "id": 1109120045,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "TANG KUENG",
+  "postalCode": "24164"
+ },
+ {
+  "id": 1109120046,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "LAMEU MNS LEUNG",
+  "postalCode": ""
+ },
+ {
+  "id": 1109120047,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "LHOK EMPEH",
+  "postalCode": "24164"
+ },
+ {
+  "id": 1109120048,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "MALI MESJID",
+  "postalCode": "24164"
+ },
+ {
+  "id": 1109120049,
+  "districtId": 1109120,
+  "districtName": "SAKTI",
+  "name": "MALI COT",
+  "postalCode": "24164"
+ }
+]

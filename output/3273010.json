@@ -1,0 +1,58 @@
+[
+ {
+  "id": 3273010001,
+  "districtId": 3273010,
+  "districtName": "BANDUNG KULON",
+  "name": "GEMPOL SARI",
+  "postalCode": "61272"
+ },
+ {
+  "id": 3273010002,
+  "districtId": 3273010,
+  "districtName": "BANDUNG KULON",
+  "name": "CIGONDEWAH KALER",
+  "postalCode": "40214"
+ },
+ {
+  "id": 3273010003,
+  "districtId": 3273010,
+  "districtName": "BANDUNG KULON",
+  "name": "CIGONDEWAH KIDUL",
+  "postalCode": "40214"
+ },
+ {
+  "id": 3273010004,
+  "districtId": 3273010,
+  "districtName": "BANDUNG KULON",
+  "name": "CIGONDEWAH RAHAYU",
+  "postalCode": "40215"
+ },
+ {
+  "id": 3273010005,
+  "districtId": 3273010,
+  "districtName": "BANDUNG KULON",
+  "name": "CARINGIN",
+  "postalCode": "40212"
+ },
+ {
+  "id": 3273010006,
+  "districtId": 3273010,
+  "districtName": "BANDUNG KULON",
+  "name": "WARUNG MUNCANG",
+  "postalCode": "40211"
+ },
+ {
+  "id": 3273010007,
+  "districtId": 3273010,
+  "districtName": "BANDUNG KULON",
+  "name": "CIBUNTU",
+  "postalCode": "40212"
+ },
+ {
+  "id": 3273010008,
+  "districtId": 3273010,
+  "districtName": "BANDUNG KULON",
+  "name": "CIJERAH",
+  "postalCode": "40213"
+ }
+]

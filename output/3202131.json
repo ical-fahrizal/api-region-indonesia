@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3202131001,
+  "districtId": 3202131,
+  "districtName": "PURABAYA",
+  "name": "NEGLASARI",
+  "postalCode": "35452"
+ },
+ {
+  "id": 3202131002,
+  "districtId": 3202131,
+  "districtName": "PURABAYA",
+  "name": "CICUKANG",
+  "postalCode": "43187"
+ },
+ {
+  "id": 3202131003,
+  "districtId": 3202131,
+  "districtName": "PURABAYA",
+  "name": "MARGALUYU",
+  "postalCode": "43263"
+ },
+ {
+  "id": 3202131004,
+  "districtId": 3202131,
+  "districtName": "PURABAYA",
+  "name": "PURABAYA",
+  "postalCode": "43273"
+ },
+ {
+  "id": 3202131005,
+  "districtId": 3202131,
+  "districtName": "PURABAYA",
+  "name": "PAGELARAN",
+  "postalCode": "35376"
+ },
+ {
+  "id": 3202131006,
+  "districtId": 3202131,
+  "districtName": "PURABAYA",
+  "name": "CITAMIANG",
+  "postalCode": "43143"
+ },
+ {
+  "id": 3202131007,
+  "districtId": 3202131,
+  "districtName": "PURABAYA",
+  "name": "CIMERANG",
+  "postalCode": "40553"
+ }
+]

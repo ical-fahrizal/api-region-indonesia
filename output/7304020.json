@@ -1,0 +1,86 @@
+[
+ {
+  "id": 7304020001,
+  "districtId": 7304020,
+  "districtName": "TAMALATEA",
+  "name": "BONTOSUNGGU",
+  "postalCode": "92152"
+ },
+ {
+  "id": 7304020002,
+  "districtId": 7304020,
+  "districtName": "TAMALATEA",
+  "name": "BONTOJAI",
+  "postalCode": "92768"
+ },
+ {
+  "id": 7304020003,
+  "districtId": 7304020,
+  "districtName": "TAMALATEA",
+  "name": "BORONGTALA",
+  "postalCode": "92351"
+ },
+ {
+  "id": 7304020004,
+  "districtId": 7304020,
+  "districtName": "TAMALATEA",
+  "name": "TURATEA TIMUR",
+  "postalCode": "92351"
+ },
+ {
+  "id": 7304020005,
+  "districtId": 7304020,
+  "districtName": "TAMALATEA",
+  "name": "TURATEA",
+  "postalCode": "92351"
+ },
+ {
+  "id": 7304020006,
+  "districtId": 7304020,
+  "districtName": "TAMALATEA",
+  "name": "BONTOTANGNGA",
+  "postalCode": "92811"
+ },
+ {
+  "id": 7304020007,
+  "districtId": 7304020,
+  "districtName": "TAMALATEA",
+  "name": "MANJANGLOE",
+  "postalCode": "92351"
+ },
+ {
+  "id": 7304020008,
+  "districtId": 7304020,
+  "districtName": "TAMALATEA",
+  "name": "KARELAYU",
+  "postalCode": "92351"
+ },
+ {
+  "id": 7304020012,
+  "districtId": 7304020,
+  "districtName": "TAMALATEA",
+  "name": "TAMAN ROYA",
+  "postalCode": "92351"
+ },
+ {
+  "id": 7304020013,
+  "districtId": 7304020,
+  "districtName": "TAMALATEA",
+  "name": "TONROKASSI TIMUR",
+  "postalCode": "92351"
+ },
+ {
+  "id": 7304020015,
+  "districtId": 7304020,
+  "districtName": "TAMALATEA",
+  "name": "TONROKASSI",
+  "postalCode": "92351"
+ },
+ {
+  "id": 7304020016,
+  "districtId": 7304020,
+  "districtName": "TAMALATEA",
+  "name": "TONROKASSI BARAT",
+  "postalCode": "92351"
+ }
+]

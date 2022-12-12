@@ -1,0 +1,37 @@
+[
+ {
+  "id": 7472011001,
+  "districtId": 7472011,
+  "districtName": "MURHUM",
+  "name": "BAADIA",
+  "postalCode": "93727"
+ },
+ {
+  "id": 7472011002,
+  "districtId": 7472011,
+  "districtName": "MURHUM",
+  "name": "MELAI",
+  "postalCode": "28755"
+ },
+ {
+  "id": 7472011003,
+  "districtId": 7472011,
+  "districtName": "MURHUM",
+  "name": "WAJO",
+  "postalCode": "86464"
+ },
+ {
+  "id": 7472011004,
+  "districtId": 7472011,
+  "districtName": "MURHUM",
+  "name": "LAMANGGA",
+  "postalCode": "93725"
+ },
+ {
+  "id": 7472011005,
+  "districtId": 7472011,
+  "districtName": "MURHUM",
+  "name": "TANGANAPADA",
+  "postalCode": "93721"
+ }
+]

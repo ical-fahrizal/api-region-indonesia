@@ -1,0 +1,51 @@
+[
+ {
+  "id": 9417036001,
+  "districtId": 9417036,
+  "districtName": "BATANI",
+  "name": "KARYE",
+  "postalCode": ""
+ },
+ {
+  "id": 9417036002,
+  "districtId": 9417036,
+  "districtName": "BATANI",
+  "name": "BATANI",
+  "postalCode": "99576"
+ },
+ {
+  "id": 9417036003,
+  "districtId": 9417036,
+  "districtName": "BATANI",
+  "name": "SEGAME",
+  "postalCode": "99576"
+ },
+ {
+  "id": 9417036004,
+  "districtId": 9417036,
+  "districtName": "BATANI",
+  "name": "PALUR 1",
+  "postalCode": ""
+ },
+ {
+  "id": 9417036005,
+  "districtId": 9417036,
+  "districtName": "BATANI",
+  "name": "PALUR 2",
+  "postalCode": ""
+ },
+ {
+  "id": 9417036006,
+  "districtId": 9417036,
+  "districtName": "BATANI",
+  "name": "SOPLE",
+  "postalCode": "99576"
+ },
+ {
+  "id": 9417036007,
+  "districtId": 9417036,
+  "districtName": "BATANI",
+  "name": "BAKATA",
+  "postalCode": "99576"
+ }
+]

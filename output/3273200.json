@@ -1,0 +1,23 @@
+[
+ {
+  "id": 3273200001,
+  "districtId": 3273200,
+  "districtName": "BANDUNG WETAN",
+  "name": "TAMAN SARI",
+  "postalCode": "21264"
+ },
+ {
+  "id": 3273200002,
+  "districtId": 3273200,
+  "districtName": "BANDUNG WETAN",
+  "name": "CITARUM",
+  "postalCode": "40115"
+ },
+ {
+  "id": 3273200003,
+  "districtId": 3273200,
+  "districtName": "BANDUNG WETAN",
+  "name": "CIHAPIT",
+  "postalCode": "40114"
+ }
+]

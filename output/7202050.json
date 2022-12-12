@@ -1,0 +1,58 @@
+[
+ {
+  "id": 7202050008,
+  "districtId": 7202050,
+  "districtName": "LUWUK",
+  "name": "TONTOUAN",
+  "postalCode": "94711"
+ },
+ {
+  "id": 7202050010,
+  "districtId": 7202050,
+  "districtName": "LUWUK",
+  "name": "BARU",
+  "postalCode": "23764"
+ },
+ {
+  "id": 7202050011,
+  "districtId": 7202050,
+  "districtName": "LUWUK",
+  "name": "SOHO",
+  "postalCode": "94713"
+ },
+ {
+  "id": 7202050012,
+  "districtId": 7202050,
+  "districtName": "LUWUK",
+  "name": "BUNGIN",
+  "postalCode": "39262"
+ },
+ {
+  "id": 7202050013,
+  "districtId": 7202050,
+  "districtName": "LUWUK",
+  "name": "LUMPOKNYO",
+  "postalCode": "94711"
+ },
+ {
+  "id": 7202050023,
+  "districtId": 7202050,
+  "districtName": "LUWUK",
+  "name": "KARATON",
+  "postalCode": "42211"
+ },
+ {
+  "id": 7202050026,
+  "districtId": 7202050,
+  "districtName": "LUWUK",
+  "name": "BUNGIN TIMUR",
+  "postalCode": "94712"
+ },
+ {
+  "id": 7202050027,
+  "districtId": 7202050,
+  "districtName": "LUWUK",
+  "name": "MANGKIO BARU",
+  "postalCode": "94711"
+ }
+]

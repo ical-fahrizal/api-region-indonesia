@@ -1,0 +1,44 @@
+[
+ {
+  "id": 3302710001,
+  "districtId": 3302710,
+  "districtName": "PURWOKERTO SELATAN",
+  "name": "KARANGKLESEM",
+  "postalCode": "53361"
+ },
+ {
+  "id": 3302710003,
+  "districtId": 3302710,
+  "districtName": "PURWOKERTO SELATAN",
+  "name": "BERKOH",
+  "postalCode": "53146"
+ },
+ {
+  "id": 3302710004,
+  "districtId": 3302710,
+  "districtName": "PURWOKERTO SELATAN",
+  "name": "PURWOKERTO KIDUL",
+  "postalCode": "53147"
+ },
+ {
+  "id": 3302710005,
+  "districtId": 3302710,
+  "districtName": "PURWOKERTO SELATAN",
+  "name": "PURWOKERTO KULON",
+  "postalCode": "53141"
+ },
+ {
+  "id": 3302710006,
+  "districtId": 3302710,
+  "districtName": "PURWOKERTO SELATAN",
+  "name": "KARANGPUCUNG",
+  "postalCode": "53255"
+ },
+ {
+  "id": 3302710007,
+  "districtId": 3302710,
+  "districtName": "PURWOKERTO SELATAN",
+  "name": "TANJUNG",
+  "postalCode": "24562"
+ }
+]

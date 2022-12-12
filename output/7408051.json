@@ -1,0 +1,65 @@
+[
+ {
+  "id": 7408051001,
+  "districtId": 7408051,
+  "districtName": "PAKUE UTARA",
+  "name": "TEPOSUA",
+  "postalCode": "93572"
+ },
+ {
+  "id": 7408051002,
+  "districtId": 7408051,
+  "districtName": "PAKUE UTARA",
+  "name": "PAKUE",
+  "postalCode": "93954"
+ },
+ {
+  "id": 7408051003,
+  "districtId": 7408051,
+  "districtName": "PAKUE UTARA",
+  "name": "MATALEUNO",
+  "postalCode": "93954"
+ },
+ {
+  "id": 7408051004,
+  "districtId": 7408051,
+  "districtName": "PAKUE UTARA",
+  "name": "PUUNDOHO",
+  "postalCode": "93819"
+ },
+ {
+  "id": 7408051005,
+  "districtId": 7408051,
+  "districtName": "PAKUE UTARA",
+  "name": "LAWATA",
+  "postalCode": "93954"
+ },
+ {
+  "id": 7408051006,
+  "districtId": 7408051,
+  "districtName": "PAKUE UTARA",
+  "name": "AMOWE",
+  "postalCode": ""
+ },
+ {
+  "id": 7408051007,
+  "districtId": 7408051,
+  "districtName": "PAKUE UTARA",
+  "name": "KALO",
+  "postalCode": "93954"
+ },
+ {
+  "id": 7408051008,
+  "districtId": 7408051,
+  "districtName": "PAKUE UTARA",
+  "name": "SALU DONGKA",
+  "postalCode": ""
+ },
+ {
+  "id": 7408051009,
+  "districtId": 7408051,
+  "districtName": "PAKUE UTARA",
+  "name": "LENGKONG BATU",
+  "postalCode": "93955"
+ }
+]

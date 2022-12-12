@@ -1,0 +1,44 @@
+[
+ {
+  "id": 9103010001,
+  "districtId": 9103010,
+  "districtName": "NAIKERE",
+  "name": "SARARTI",
+  "postalCode": "98362"
+ },
+ {
+  "id": 9103010002,
+  "districtId": 9103010,
+  "districtName": "NAIKERE",
+  "name": "WOSIMO",
+  "postalCode": ""
+ },
+ {
+  "id": 9103010003,
+  "districtId": 9103010,
+  "districtName": "NAIKERE",
+  "name": "OYA",
+  "postalCode": ""
+ },
+ {
+  "id": 9103010004,
+  "districtId": 9103010,
+  "districtName": "NAIKERE",
+  "name": "YABORE",
+  "postalCode": "98362"
+ },
+ {
+  "id": 9103010005,
+  "districtId": 9103010,
+  "districtName": "NAIKERE",
+  "name": "INYORA",
+  "postalCode": "98362"
+ },
+ {
+  "id": 9103010006,
+  "districtId": 9103010,
+  "districtName": "NAIKERE",
+  "name": "UNDURARA",
+  "postalCode": "98362"
+ }
+]

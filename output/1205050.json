@@ -1,0 +1,100 @@
+[
+ {
+  "id": 1205050001,
+  "districtId": 1205050,
+  "districtName": "SIPOHOLON",
+  "name": "RURA JULU TORUAN",
+  "postalCode": "22452"
+ },
+ {
+  "id": 1205050002,
+  "districtId": 1205050,
+  "districtName": "SIPOHOLON",
+  "name": "RURA JULU DOLOK",
+  "postalCode": "22452"
+ },
+ {
+  "id": 1205050003,
+  "districtId": 1205050,
+  "districtName": "SIPOHOLON",
+  "name": "SIMANUNGKALIT",
+  "postalCode": "22452"
+ },
+ {
+  "id": 1205050004,
+  "districtId": 1205050,
+  "districtName": "SIPOHOLON",
+  "name": "HUTAURUK",
+  "postalCode": "22452"
+ },
+ {
+  "id": 1205050005,
+  "districtId": 1205050,
+  "districtName": "SIPOHOLON",
+  "name": "SITUMEANG HABINSARAN",
+  "postalCode": "22452"
+ },
+ {
+  "id": 1205050006,
+  "districtId": 1205050,
+  "districtName": "SIPOHOLON",
+  "name": "SITUMEANG HASUNDUTAN",
+  "postalCode": "22452"
+ },
+ {
+  "id": 1205050007,
+  "districtId": 1205050,
+  "districtName": "SIPOHOLON",
+  "name": "LOBUSINGKAM",
+  "postalCode": "22452"
+ },
+ {
+  "id": 1205050008,
+  "districtId": 1205050,
+  "districtName": "SIPOHOLON",
+  "name": "PAGAR BATU",
+  "postalCode": "22383"
+ },
+ {
+  "id": 1205050009,
+  "districtId": 1205050,
+  "districtName": "SIPOHOLON",
+  "name": "SIPAHUTAR",
+  "postalCode": "22452"
+ },
+ {
+  "id": 1205050010,
+  "districtId": 1205050,
+  "districtName": "SIPOHOLON",
+  "name": "HUTA RAJA",
+  "postalCode": "22738"
+ },
+ {
+  "id": 1205050011,
+  "districtId": 1205050,
+  "districtName": "SIPOHOLON",
+  "name": "TAPIAN NAULI",
+  "postalCode": "22732"
+ },
+ {
+  "id": 1205050012,
+  "districtId": 1205050,
+  "districtName": "SIPOHOLON",
+  "name": "HUTA RAJA HASUNDUTAN",
+  "postalCode": "22452"
+ },
+ {
+  "id": 1205050013,
+  "districtId": 1205050,
+  "districtName": "SIPOHOLON",
+  "name": "HUTA RAJA SIMANUNGKALIT",
+  "postalCode": ""
+ },
+ {
+  "id": 1205050014,
+  "districtId": 1205050,
+  "districtName": "SIPOHOLON",
+  "name": "HUTAURUK HASUNDUTAN",
+  "postalCode": ""
+ }
+]

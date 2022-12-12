@@ -1,0 +1,44 @@
+[
+ {
+  "id": 9109080001,
+  "districtId": 9109080,
+  "districtName": "SENOPI",
+  "name": "KEBAR BARAT / SENOPI",
+  "postalCode": ""
+ },
+ {
+  "id": 9109080004,
+  "districtId": 9109080,
+  "districtName": "SENOPI",
+  "name": "ARAPI",
+  "postalCode": ""
+ },
+ {
+  "id": 9109080006,
+  "districtId": 9109080,
+  "districtName": "SENOPI",
+  "name": "SUMO",
+  "postalCode": "99571"
+ },
+ {
+  "id": 9109080007,
+  "districtId": 9109080,
+  "districtName": "SENOPI",
+  "name": "IFAT MITU",
+  "postalCode": ""
+ },
+ {
+  "id": 9109080008,
+  "districtId": 9109080,
+  "districtName": "SENOPI",
+  "name": "POVOKEK ANIA",
+  "postalCode": ""
+ },
+ {
+  "id": 9109080014,
+  "districtId": 9109080,
+  "districtName": "SENOPI",
+  "name": "THOMAS",
+  "postalCode": ""
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "id": 7104031002,
+  "districtId": 7104031,
+  "districtName": "MELONGUANE TIMUR",
+  "name": "TULE UTARA",
+  "postalCode": "95885"
+ },
+ {
+  "id": 7104031003,
+  "districtId": 7104031,
+  "districtName": "MELONGUANE TIMUR",
+  "name": "TULE TENGAH",
+  "postalCode": "95885"
+ },
+ {
+  "id": 7104031004,
+  "districtId": 7104031,
+  "districtName": "MELONGUANE TIMUR",
+  "name": "BAWOMBARU",
+  "postalCode": ""
+ },
+ {
+  "id": 7104031005,
+  "districtId": 7104031,
+  "districtName": "MELONGUANE TIMUR",
+  "name": "BAWOMBARU TENGAH",
+  "postalCode": ""
+ },
+ {
+  "id": 7104031006,
+  "districtId": 7104031,
+  "districtName": "MELONGUANE TIMUR",
+  "name": "BAWOMBARU UTARA",
+  "postalCode": ""
+ }
+]

@@ -1,0 +1,100 @@
+[
+ {
+  "id": 3271050001,
+  "districtId": 3271050,
+  "districtName": "BOGOR BARAT",
+  "name": "PASIRMULYA",
+  "postalCode": "40377"
+ },
+ {
+  "id": 3271050002,
+  "districtId": 3271050,
+  "districtName": "BOGOR BARAT",
+  "name": "PASIRKUDA",
+  "postalCode": ""
+ },
+ {
+  "id": 3271050003,
+  "districtId": 3271050,
+  "districtName": "BOGOR BARAT",
+  "name": "PASIRJAYA",
+  "postalCode": "41384"
+ },
+ {
+  "id": 3271050004,
+  "districtId": 3271050,
+  "districtName": "BOGOR BARAT",
+  "name": "GUNUNGBATU",
+  "postalCode": "16118"
+ },
+ {
+  "id": 3271050005,
+  "districtId": 3271050,
+  "districtName": "BOGOR BARAT",
+  "name": "LOJI",
+  "postalCode": "16117"
+ },
+ {
+  "id": 3271050007,
+  "districtId": 3271050,
+  "districtName": "BOGOR BARAT",
+  "name": "CILENDEK TIMUR",
+  "postalCode": "16112"
+ },
+ {
+  "id": 3271050008,
+  "districtId": 3271050,
+  "districtName": "BOGOR BARAT",
+  "name": "CILENDEK BARAT",
+  "postalCode": "16112"
+ },
+ {
+  "id": 3271050009,
+  "districtId": 3271050,
+  "districtName": "BOGOR BARAT",
+  "name": "SINDANGBARANG",
+  "postalCode": "16117"
+ },
+ {
+  "id": 3271050010,
+  "districtId": 3271050,
+  "districtName": "BOGOR BARAT",
+  "name": "MARGAJAYA",
+  "postalCode": "17141"
+ },
+ {
+  "id": 3271050011,
+  "districtId": 3271050,
+  "districtName": "BOGOR BARAT",
+  "name": "BALUNGBANGJAYA",
+  "postalCode": ""
+ },
+ {
+  "id": 3271050012,
+  "districtId": 3271050,
+  "districtName": "BOGOR BARAT",
+  "name": "SITUGEDE",
+  "postalCode": "44182"
+ },
+ {
+  "id": 3271050013,
+  "districtId": 3271050,
+  "districtName": "BOGOR BARAT",
+  "name": "BUBULAK",
+  "postalCode": "16115"
+ },
+ {
+  "id": 3271050014,
+  "districtId": 3271050,
+  "districtName": "BOGOR BARAT",
+  "name": "SEMPLAK",
+  "postalCode": "16114"
+ },
+ {
+  "id": 3271050015,
+  "districtId": 3271050,
+  "districtName": "BOGOR BARAT",
+  "name": "CURUGMEKAR",
+  "postalCode": ""
+ }
+]

@@ -1,0 +1,65 @@
+[
+ {
+  "id": 7205160001,
+  "districtId": 7205160,
+  "districtName": "SOJOL",
+  "name": "PANGALASIANG",
+  "postalCode": ""
+ },
+ {
+  "id": 7205160002,
+  "districtId": 7205160,
+  "districtName": "SOJOL",
+  "name": "BUKIT HARAPAN",
+  "postalCode": "24784"
+ },
+ {
+  "id": 7205160003,
+  "districtId": 7205160,
+  "districtName": "SOJOL",
+  "name": "TONGGOLOBIBI",
+  "postalCode": "94356"
+ },
+ {
+  "id": 7205160004,
+  "districtId": 7205160,
+  "districtName": "SOJOL",
+  "name": "SAMALILI",
+  "postalCode": "94356"
+ },
+ {
+  "id": 7205160005,
+  "districtId": 7205160,
+  "districtName": "SOJOL",
+  "name": "SIBOANG",
+  "postalCode": ""
+ },
+ {
+  "id": 7205160006,
+  "districtId": 7205160,
+  "districtName": "SOJOL",
+  "name": "SIWALEMPU",
+  "postalCode": "94356"
+ },
+ {
+  "id": 7205160007,
+  "districtId": 7205160,
+  "districtName": "SOJOL",
+  "name": "BALUKANG",
+  "postalCode": "94356"
+ },
+ {
+  "id": 7205160008,
+  "districtId": 7205160,
+  "districtName": "SOJOL",
+  "name": "BOU",
+  "postalCode": "94356"
+ },
+ {
+  "id": 7205160013,
+  "districtId": 7205160,
+  "districtName": "SOJOL",
+  "name": "BALUKANG II",
+  "postalCode": "94356"
+ }
+]

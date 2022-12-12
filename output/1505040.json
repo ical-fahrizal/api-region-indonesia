@@ -1,0 +1,86 @@
+[
+ {
+  "id": 1505040001,
+  "districtId": 1505040,
+  "districtName": "MARO SEBO",
+  "name": "SETIRIS",
+  "postalCode": "36382"
+ },
+ {
+  "id": 1505040002,
+  "districtId": 1505040,
+  "districtName": "MARO SEBO",
+  "name": "MUDUNG DARAT",
+  "postalCode": "36382"
+ },
+ {
+  "id": 1505040003,
+  "districtId": 1505040,
+  "districtName": "MARO SEBO",
+  "name": "DANAU KEDAP",
+  "postalCode": "36382"
+ },
+ {
+  "id": 1505040004,
+  "districtId": 1505040,
+  "districtName": "MARO SEBO",
+  "name": "BAKUNG",
+  "postalCode": "36382"
+ },
+ {
+  "id": 1505040005,
+  "districtId": 1505040,
+  "districtName": "MARO SEBO",
+  "name": "NIASO",
+  "postalCode": "36382"
+ },
+ {
+  "id": 1505040014,
+  "districtId": 1505040,
+  "districtName": "MARO SEBO",
+  "name": "MUARO JAMBI",
+  "postalCode": ""
+ },
+ {
+  "id": 1505040015,
+  "districtId": 1505040,
+  "districtName": "MARO SEBO",
+  "name": "DANAU LAMO",
+  "postalCode": "36382"
+ },
+ {
+  "id": 1505040016,
+  "districtId": 1505040,
+  "districtName": "MARO SEBO",
+  "name": "BARU",
+  "postalCode": "23764"
+ },
+ {
+  "id": 1505040017,
+  "districtId": 1505040,
+  "districtName": "MARO SEBO",
+  "name": "JAMBI TULO",
+  "postalCode": ""
+ },
+ {
+  "id": 1505040018,
+  "districtId": 1505040,
+  "districtName": "MARO SEBO",
+  "name": "KELURAHAN JAMBI KECIL",
+  "postalCode": ""
+ },
+ {
+  "id": 1505040019,
+  "districtId": 1505040,
+  "districtName": "MARO SEBO",
+  "name": "TANJUNG KATUNG",
+  "postalCode": "36382"
+ },
+ {
+  "id": 1505040020,
+  "districtId": 1505040,
+  "districtName": "MARO SEBO",
+  "name": "LUBUK RAMAN",
+  "postalCode": "36382"
+ }
+]

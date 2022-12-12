@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3672010001,
+  "districtId": 3672010,
+  "districtName": "CIWANDAN",
+  "name": "GUNUNGSUGIH",
+  "postalCode": "42447"
+ },
+ {
+  "id": 3672010003,
+  "districtId": 3672010,
+  "districtName": "CIWANDAN",
+  "name": "RANDAKARI",
+  "postalCode": "42446"
+ },
+ {
+  "id": 3672010004,
+  "districtId": 3672010,
+  "districtName": "CIWANDAN",
+  "name": "TEGALRATU",
+  "postalCode": "42445"
+ },
+ {
+  "id": 3672010005,
+  "districtId": 3672010,
+  "districtName": "CIWANDAN",
+  "name": "BANJAR NEGARA",
+  "postalCode": "31419"
+ },
+ {
+  "id": 3672010013,
+  "districtId": 3672010,
+  "districtName": "CIWANDAN",
+  "name": "KUBANGSARI",
+  "postalCode": "46195"
+ }
+]

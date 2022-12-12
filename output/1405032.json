@@ -1,0 +1,58 @@
+[
+ {
+  "id": 1405032001,
+  "districtId": 1405032,
+  "districtName": "SABAK AUH",
+  "name": "SUNGAI TENGAH",
+  "postalCode": "28752"
+ },
+ {
+  "id": 1405032002,
+  "districtId": 1405032,
+  "districtName": "SABAK AUH",
+  "name": "BANDAR SUNGAI",
+  "postalCode": "28685"
+ },
+ {
+  "id": 1405032003,
+  "districtId": 1405032,
+  "districtName": "SABAK AUH",
+  "name": "BELADING",
+  "postalCode": "28685"
+ },
+ {
+  "id": 1405032004,
+  "districtId": 1405032,
+  "districtName": "SABAK AUH",
+  "name": "LAKSAMANA",
+  "postalCode": "28821"
+ },
+ {
+  "id": 1405032005,
+  "districtId": 1405032,
+  "districtName": "SABAK AUH",
+  "name": "REMPAK",
+  "postalCode": "28685"
+ },
+ {
+  "id": 1405032006,
+  "districtId": 1405032,
+  "districtName": "SABAK AUH",
+  "name": "SABAK PERMAI",
+  "postalCode": "28685"
+ },
+ {
+  "id": 1405032007,
+  "districtId": 1405032,
+  "districtName": "SABAK AUH",
+  "name": "BANDAR PEDADA",
+  "postalCode": "28685"
+ },
+ {
+  "id": 1405032008,
+  "districtId": 1405032,
+  "districtName": "SABAK AUH",
+  "name": "SELAT GUNTUNG",
+  "postalCode": "28685"
+ }
+]

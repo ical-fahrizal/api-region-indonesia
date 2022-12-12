@@ -1,0 +1,44 @@
+[
+ {
+  "id": 3202031001,
+  "districtId": 3202031,
+  "districtName": "CIBITUNG",
+  "name": "CIDAHU",
+  "postalCode": "43172"
+ },
+ {
+  "id": 3202031002,
+  "districtId": 3202031,
+  "districtName": "CIBITUNG",
+  "name": "CIBITUNG",
+  "postalCode": "45392"
+ },
+ {
+  "id": 3202031003,
+  "districtId": 3202031,
+  "districtName": "CIBITUNG",
+  "name": "BANYUWANGI",
+  "postalCode": "35373"
+ },
+ {
+  "id": 3202031004,
+  "districtId": 3202031,
+  "districtName": "CIBITUNG",
+  "name": "CIBODAS",
+  "postalCode": "43353"
+ },
+ {
+  "id": 3202031005,
+  "districtId": 3202031,
+  "districtName": "CIBITUNG",
+  "name": "BANYUMURNI",
+  "postalCode": "43172"
+ },
+ {
+  "id": 3202031006,
+  "districtId": 3202031,
+  "districtName": "CIBITUNG",
+  "name": "TALAGAMURNI",
+  "postalCode": "43172"
+ }
+]

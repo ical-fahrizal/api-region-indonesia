@@ -1,0 +1,37 @@
+[
+ {
+  "id": 8203030006,
+  "districtId": 8203030,
+  "districtName": "MANGOLI TIMUR",
+  "name": "WAITINA",
+  "postalCode": "97793"
+ },
+ {
+  "id": 8203030007,
+  "districtId": 8203030,
+  "districtName": "MANGOLI TIMUR",
+  "name": "KOW",
+  "postalCode": ""
+ },
+ {
+  "id": 8203030008,
+  "districtId": 8203030,
+  "districtName": "MANGOLI TIMUR",
+  "name": "WAI-TAMELA",
+  "postalCode": ""
+ },
+ {
+  "id": 8203030009,
+  "districtId": 8203030,
+  "districtName": "MANGOLI TIMUR",
+  "name": "NAFLOW",
+  "postalCode": ""
+ },
+ {
+  "id": 8203030010,
+  "districtId": 8203030,
+  "districtName": "MANGOLI TIMUR",
+  "name": "KARAMAT TITDOY",
+  "postalCode": "97793"
+ }
+]

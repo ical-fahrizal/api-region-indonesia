@@ -1,0 +1,30 @@
+[
+ {
+  "id": 9429010002,
+  "districtId": 9429010,
+  "districtName": "WOSAK",
+  "name": "NDUGWA",
+  "postalCode": ""
+ },
+ {
+  "id": 9429010021,
+  "districtId": 9429010,
+  "districtName": "WOSAK",
+  "name": "BIALA",
+  "postalCode": "99565"
+ },
+ {
+  "id": 9429010022,
+  "districtId": 9429010,
+  "districtName": "WOSAK",
+  "name": "BAMBISIK",
+  "postalCode": "99565"
+ },
+ {
+  "id": 9429010023,
+  "districtId": 9429010,
+  "districtName": "WOSAK",
+  "name": "SITPOGOL",
+  "postalCode": "99565"
+ }
+]

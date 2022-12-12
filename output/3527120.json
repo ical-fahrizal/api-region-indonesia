@@ -1,0 +1,86 @@
+[
+ {
+  "id": 3527120001,
+  "districtId": 3527120,
+  "districtName": "SOKOBANAH",
+  "name": "TOBAI BARAT",
+  "postalCode": "69262"
+ },
+ {
+  "id": 3527120002,
+  "districtId": 3527120,
+  "districtName": "SOKOBANAH",
+  "name": "TOBAI TENGAH",
+  "postalCode": "69262"
+ },
+ {
+  "id": 3527120003,
+  "districtId": 3527120,
+  "districtName": "SOKOBANAH",
+  "name": "TOBAI TIMUR",
+  "postalCode": "69262"
+ },
+ {
+  "id": 3527120004,
+  "districtId": 3527120,
+  "districtName": "SOKOBANAH",
+  "name": "BIRA TENGAH",
+  "postalCode": "69262"
+ },
+ {
+  "id": 3527120005,
+  "districtId": 3527120,
+  "districtName": "SOKOBANAH",
+  "name": "BIRA TIMUR",
+  "postalCode": "69262"
+ },
+ {
+  "id": 3527120006,
+  "districtId": 3527120,
+  "districtName": "SOKOBANAH",
+  "name": "SOKOBANAH LAOK",
+  "postalCode": "69262"
+ },
+ {
+  "id": 3527120007,
+  "districtId": 3527120,
+  "districtName": "SOKOBANAH",
+  "name": "TAMBERU LAOK",
+  "postalCode": "69262"
+ },
+ {
+  "id": 3527120008,
+  "districtId": 3527120,
+  "districtName": "SOKOBANAH",
+  "name": "TAMBERU DAYA",
+  "postalCode": "69262"
+ },
+ {
+  "id": 3527120009,
+  "districtId": 3527120,
+  "districtName": "SOKOBANAH",
+  "name": "SOKOBANAH TENGAH",
+  "postalCode": "69262"
+ },
+ {
+  "id": 3527120010,
+  "districtId": 3527120,
+  "districtName": "SOKOBANAH",
+  "name": "SOKOBANAH DAYA",
+  "postalCode": "69262"
+ },
+ {
+  "id": 3527120011,
+  "districtId": 3527120,
+  "districtName": "SOKOBANAH",
+  "name": "TAMBERU BARAT",
+  "postalCode": "69262"
+ },
+ {
+  "id": 3527120012,
+  "districtId": 3527120,
+  "districtName": "SOKOBANAH",
+  "name": "TAMBERU TIMUR",
+  "postalCode": "69262"
+ }
+]

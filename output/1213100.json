@@ -1,0 +1,51 @@
+[
+ {
+  "id": 1213100001,
+  "districtId": 1213100,
+  "districtName": "SAWIT SEBERANG",
+  "name": "SEI LITUR TASIK",
+  "postalCode": "20811"
+ },
+ {
+  "id": 1213100002,
+  "districtId": 1213100,
+  "districtName": "SAWIT SEBERANG",
+  "name": "SAWIT SEBERANG",
+  "postalCode": "20811"
+ },
+ {
+  "id": 1213100003,
+  "districtId": 1213100,
+  "districtName": "SAWIT SEBERANG",
+  "name": "ALUR GADUNG",
+  "postalCode": "20811"
+ },
+ {
+  "id": 1213100004,
+  "districtId": 1213100,
+  "districtName": "SAWIT SEBERANG",
+  "name": "SIMPANG 3 SAWIT SEBERANG",
+  "postalCode": ""
+ },
+ {
+  "id": 1213100005,
+  "districtId": 1213100,
+  "districtName": "SAWIT SEBERANG",
+  "name": "SAWIT HULU",
+  "postalCode": "20811"
+ },
+ {
+  "id": 1213100006,
+  "districtId": 1213100,
+  "districtName": "SAWIT SEBERANG",
+  "name": "MEKAR SAWIT",
+  "postalCode": "20811"
+ },
+ {
+  "id": 1213100007,
+  "districtId": 1213100,
+  "districtName": "SAWIT SEBERANG",
+  "name": "ALUR MELATI",
+  "postalCode": "20811"
+ }
+]

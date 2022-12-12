@@ -1,0 +1,44 @@
+[
+ {
+  "id": 6103090001,
+  "districtId": 6103090,
+  "districtName": "MERANTI",
+  "name": "KELAMPAI SETOLO",
+  "postalCode": "79366"
+ },
+ {
+  "id": 6103090002,
+  "districtId": 6103090,
+  "districtName": "MERANTI",
+  "name": "MERANTI",
+  "postalCode": "24673"
+ },
+ {
+  "id": 6103090003,
+  "districtId": 6103090,
+  "districtName": "MERANTI",
+  "name": "AMPADI",
+  "postalCode": "79366"
+ },
+ {
+  "id": 6103090004,
+  "districtId": 6103090,
+  "districtName": "MERANTI",
+  "name": "SELANGE",
+  "postalCode": "79366"
+ },
+ {
+  "id": 6103090005,
+  "districtId": 6103090,
+  "districtName": "MERANTI",
+  "name": "MORO BETUNG",
+  "postalCode": "79366"
+ },
+ {
+  "id": 6103090006,
+  "districtId": 6103090,
+  "districtName": "MERANTI",
+  "name": "TAHU",
+  "postalCode": "79366"
+ }
+]

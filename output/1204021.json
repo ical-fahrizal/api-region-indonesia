@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1204021001,
+  "districtId": 1204021,
+  "districtName": "LUMUT",
+  "name": "LUMUT",
+  "postalCode": "24563"
+ },
+ {
+  "id": 1204021002,
+  "districtId": 1204021,
+  "districtName": "LUMUT",
+  "name": "LUMUT NAULI",
+  "postalCode": "22654"
+ },
+ {
+  "id": 1204021003,
+  "districtId": 1204021,
+  "districtName": "LUMUT",
+  "name": "LUMUT MAJU",
+  "postalCode": "22654"
+ },
+ {
+  "id": 1204021004,
+  "districtId": 1204021,
+  "districtName": "LUMUT",
+  "name": "AEK GAMBIR",
+  "postalCode": "22654"
+ },
+ {
+  "id": 1204021005,
+  "districtId": 1204021,
+  "districtName": "LUMUT",
+  "name": "MASUNDUNG",
+  "postalCode": "22654"
+ },
+ {
+  "id": 1204021006,
+  "districtId": 1204021,
+  "districtName": "LUMUT",
+  "name": "SIALOGO",
+  "postalCode": "22735"
+ }
+]

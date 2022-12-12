@@ -1,0 +1,37 @@
+[
+ {
+  "id": 9410036001,
+  "districtId": 9410036,
+  "districtName": "YAGAI",
+  "name": "AWEBUTU",
+  "postalCode": "98715"
+ },
+ {
+  "id": 9410036002,
+  "districtId": 9410036,
+  "districtName": "YAGAI",
+  "name": "PANIBAGATA",
+  "postalCode": "98722"
+ },
+ {
+  "id": 9410036003,
+  "districtId": 9410036,
+  "districtName": "YAGAI",
+  "name": "PUGAIDA / DAUPAIDA",
+  "postalCode": ""
+ },
+ {
+  "id": 9410036004,
+  "districtId": 9410036,
+  "districtName": "YAGAI",
+  "name": "IPUWA",
+  "postalCode": ""
+ },
+ {
+  "id": 9410036005,
+  "districtId": 9410036,
+  "districtName": "YAGAI",
+  "name": "MUJAIYEPA / MUNAYEPA / MUNIYEP",
+  "postalCode": ""
+ }
+]

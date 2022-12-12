@@ -1,0 +1,30 @@
+[
+ {
+  "id": 5303161001,
+  "districtId": 5303161,
+  "districtName": "FATULEU TENGAH",
+  "name": "NUNSAEN",
+  "postalCode": "85223"
+ },
+ {
+  "id": 5303161002,
+  "districtId": 5303161,
+  "districtName": "FATULEU TENGAH",
+  "name": "OELBITENO",
+  "postalCode": "85223"
+ },
+ {
+  "id": 5303161003,
+  "districtId": 5303161,
+  "districtName": "FATULEU TENGAH",
+  "name": "PASSI",
+  "postalCode": "85223"
+ },
+ {
+  "id": 5303161004,
+  "districtId": 5303161,
+  "districtName": "FATULEU TENGAH",
+  "name": "NONBAUN",
+  "postalCode": "85223"
+ }
+]

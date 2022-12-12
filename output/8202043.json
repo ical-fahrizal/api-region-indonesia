@@ -1,0 +1,44 @@
+[
+ {
+  "id": 8202043001,
+  "districtId": 8202043,
+  "districtName": "PATANI UTARA",
+  "name": "GEMIA",
+  "postalCode": "97854"
+ },
+ {
+  "id": 8202043002,
+  "districtId": 8202043,
+  "districtName": "PATANI UTARA",
+  "name": "TEPELEO",
+  "postalCode": ""
+ },
+ {
+  "id": 8202043006,
+  "districtId": 8202043,
+  "districtName": "PATANI UTARA",
+  "name": "BILIFITU",
+  "postalCode": "97854"
+ },
+ {
+  "id": 8202043007,
+  "districtId": 8202043,
+  "districtName": "PATANI UTARA",
+  "name": "TEPELEO BATU DUA",
+  "postalCode": ""
+ },
+ {
+  "id": 8202043008,
+  "districtId": 8202043,
+  "districtName": "PATANI UTARA",
+  "name": "PANTURA JAYA",
+  "postalCode": "97854"
+ },
+ {
+  "id": 8202043011,
+  "districtId": 8202043,
+  "districtName": "PATANI UTARA",
+  "name": "MALIFORO",
+  "postalCode": "97854"
+ }
+]

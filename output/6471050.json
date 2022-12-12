@@ -1,0 +1,44 @@
+[
+ {
+  "id": 6471050001,
+  "districtId": 6471050,
+  "districtName": "BALIKPAPAN BARAT",
+  "name": "BARU TENGAH",
+  "postalCode": "76132"
+ },
+ {
+  "id": 6471050002,
+  "districtId": 6471050,
+  "districtName": "BALIKPAPAN BARAT",
+  "name": "MARGA SARI",
+  "postalCode": "34683"
+ },
+ {
+  "id": 6471050003,
+  "districtId": 6471050,
+  "districtName": "BALIKPAPAN BARAT",
+  "name": "BARU ILIR",
+  "postalCode": "76131"
+ },
+ {
+  "id": 6471050004,
+  "districtId": 6471050,
+  "districtName": "BALIKPAPAN BARAT",
+  "name": "MARGO MULYO",
+  "postalCode": "32383"
+ },
+ {
+  "id": 6471050005,
+  "districtId": 6471050,
+  "districtName": "BALIKPAPAN BARAT",
+  "name": "BARU ULU",
+  "postalCode": "76133"
+ },
+ {
+  "id": 6471050006,
+  "districtId": 6471050,
+  "districtName": "BALIKPAPAN BARAT",
+  "name": "KARIANGAU",
+  "postalCode": "76134"
+ }
+]

@@ -1,0 +1,38 @@
+[
+ {
+  "id": 6471010,
+  "regencieId": 6471,
+  "regencieName": "KOTA BALIKPAPAN",
+  "name": "BALIKPAPAN SELATAN"
+ },
+ {
+  "id": 6471011,
+  "regencieId": 6471,
+  "regencieName": "KOTA BALIKPAPAN",
+  "name": "BALIKPAPAN KOTA"
+ },
+ {
+  "id": 6471020,
+  "regencieId": 6471,
+  "regencieName": "KOTA BALIKPAPAN",
+  "name": "BALIKPAPAN TIMUR"
+ },
+ {
+  "id": 6471030,
+  "regencieId": 6471,
+  "regencieName": "KOTA BALIKPAPAN",
+  "name": "BALIKPAPAN UTARA"
+ },
+ {
+  "id": 6471040,
+  "regencieId": 6471,
+  "regencieName": "KOTA BALIKPAPAN",
+  "name": "BALIKPAPAN TENGAH"
+ },
+ {
+  "id": 6471050,
+  "regencieId": 6471,
+  "regencieName": "KOTA BALIKPAPAN",
+  "name": "BALIKPAPAN BARAT"
+ }
+]

@@ -1,0 +1,51 @@
+[
+ {
+  "id": 1204020004,
+  "districtId": 1204020,
+  "districtName": "SIBABANGUN",
+  "name": "MOMBANG BORU",
+  "postalCode": "22738"
+ },
+ {
+  "id": 1204020005,
+  "districtId": 1204020,
+  "districtName": "SIBABANGUN",
+  "name": "ANGGOLI",
+  "postalCode": "22654"
+ },
+ {
+  "id": 1204020006,
+  "districtId": 1204020,
+  "districtName": "SIBABANGUN",
+  "name": "SIBABANGUN",
+  "postalCode": "22654"
+ },
+ {
+  "id": 1204020009,
+  "districtId": 1204020,
+  "districtName": "SIBABANGUN",
+  "name": "SIMANOSOR",
+  "postalCode": "22756"
+ },
+ {
+  "id": 1204020010,
+  "districtId": 1204020,
+  "districtName": "SIBABANGUN",
+  "name": "MUARA SIBUNTUON",
+  "postalCode": "22654"
+ },
+ {
+  "id": 1204020011,
+  "districtId": 1204020,
+  "districtName": "SIBABANGUN",
+  "name": "SIBIO BIO",
+  "postalCode": "22654"
+ },
+ {
+  "id": 1204020012,
+  "districtId": 1204020,
+  "districtName": "SIBABANGUN",
+  "name": "HUTAGURGUR",
+  "postalCode": "22383"
+ }
+]

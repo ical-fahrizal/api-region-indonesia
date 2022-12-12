@@ -1,0 +1,65 @@
+[
+ {
+  "id": 3501120001,
+  "districtId": 3501120,
+  "districtName": "SUDIMORO",
+  "name": "PAGER KIDUL",
+  "postalCode": "63573"
+ },
+ {
+  "id": 3501120002,
+  "districtId": 3501120,
+  "districtName": "SUDIMORO",
+  "name": "PAGER LOR",
+  "postalCode": "63573"
+ },
+ {
+  "id": 3501120003,
+  "districtId": 3501120,
+  "districtName": "SUDIMORO",
+  "name": "SUKOREJO",
+  "postalCode": "31551"
+ },
+ {
+  "id": 3501120004,
+  "districtId": 3501120,
+  "districtName": "SUDIMORO",
+  "name": "SUDIMORO",
+  "postalCode": "35386"
+ },
+ {
+  "id": 3501120005,
+  "districtId": 3501120,
+  "districtName": "SUDIMORO",
+  "name": "KETANGGUNG",
+  "postalCode": "53273"
+ },
+ {
+  "id": 3501120007,
+  "districtId": 3501120,
+  "districtName": "SUDIMORO",
+  "name": "SEMBOWO",
+  "postalCode": "63573"
+ },
+ {
+  "id": 3501120008,
+  "districtId": 3501120,
+  "districtName": "SUDIMORO",
+  "name": "KARANG MULYO",
+  "postalCode": "34559"
+ },
+ {
+  "id": 3501120009,
+  "districtId": 3501120,
+  "districtName": "SUDIMORO",
+  "name": "GUNUNG REJO",
+  "postalCode": "35451"
+ },
+ {
+  "id": 3501120010,
+  "districtId": 3501120,
+  "districtName": "SUDIMORO",
+  "name": "SUMBER REJO",
+  "postalCode": "21255"
+ }
+]

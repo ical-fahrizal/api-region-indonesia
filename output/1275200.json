@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1275200001,
+  "districtId": 1275200,
+  "districtName": "MEDAN MARELAN",
+  "name": "TANAH ENAM RATUS",
+  "postalCode": "20245"
+ },
+ {
+  "id": 1275200002,
+  "districtId": 1275200,
+  "districtName": "MEDAN MARELAN",
+  "name": "RENGAS PULAU",
+  "postalCode": "20255"
+ },
+ {
+  "id": 1275200003,
+  "districtId": 1275200,
+  "districtName": "MEDAN MARELAN",
+  "name": "T E R J U N",
+  "postalCode": ""
+ },
+ {
+  "id": 1275200004,
+  "districtId": 1275200,
+  "districtName": "MEDAN MARELAN",
+  "name": "PAYA PASIR",
+  "postalCode": "20250"
+ },
+ {
+  "id": 1275200005,
+  "districtId": 1275200,
+  "districtName": "MEDAN MARELAN",
+  "name": "LABUHAN DELI",
+  "postalCode": "20254"
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3404110001,
+  "districtId": 3404110,
+  "districtName": "NGEMPLAK",
+  "name": "WEDOMARTANI",
+  "postalCode": "55584"
+ },
+ {
+  "id": 3404110002,
+  "districtId": 3404110,
+  "districtName": "NGEMPLAK",
+  "name": "UMBULMARTANI",
+  "postalCode": "55584"
+ },
+ {
+  "id": 3404110003,
+  "districtId": 3404110,
+  "districtName": "NGEMPLAK",
+  "name": "WIDODO MARTANI",
+  "postalCode": "55584"
+ },
+ {
+  "id": 3404110004,
+  "districtId": 3404110,
+  "districtName": "NGEMPLAK",
+  "name": "BIMO MARTANI",
+  "postalCode": "55584"
+ },
+ {
+  "id": 3404110005,
+  "districtId": 3404110,
+  "districtName": "NGEMPLAK",
+  "name": "SINDUMARTANI",
+  "postalCode": "55584"
+ }
+]

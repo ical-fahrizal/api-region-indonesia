@@ -1,0 +1,51 @@
+[
+ {
+  "id": 5302060005,
+  "districtId": 5302060,
+  "districtName": "PANDAWAI",
+  "name": "KAMBATA TANA",
+  "postalCode": "87171"
+ },
+ {
+  "id": 5302060007,
+  "districtId": 5302060,
+  "districtName": "PANDAWAI",
+  "name": "MAU BOKUL",
+  "postalCode": ""
+ },
+ {
+  "id": 5302060009,
+  "districtId": 5302060,
+  "districtName": "PANDAWAI",
+  "name": "KADUMBUL",
+  "postalCode": "87171"
+ },
+ {
+  "id": 5302060010,
+  "districtId": 5302060,
+  "districtName": "PANDAWAI",
+  "name": "PALAKAHEMBI",
+  "postalCode": "87171"
+ },
+ {
+  "id": 5302060011,
+  "districtId": 5302060,
+  "districtName": "PANDAWAI",
+  "name": "WATUMBAKA",
+  "postalCode": "87171"
+ },
+ {
+  "id": 5302060012,
+  "districtId": 5302060,
+  "districtName": "PANDAWAI",
+  "name": "KAWANGU",
+  "postalCode": "87171"
+ },
+ {
+  "id": 5302060015,
+  "districtId": 5302060,
+  "districtName": "PANDAWAI",
+  "name": "LAINDEHA",
+  "postalCode": "87171"
+ }
+]

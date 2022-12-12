@@ -1,0 +1,30 @@
+[
+ {
+  "id": 1872012001,
+  "districtId": 1872012,
+  "districtName": "METRO BARAT",
+  "name": "MULYOJATI",
+  "postalCode": "34125"
+ },
+ {
+  "id": 1872012002,
+  "districtId": 1872012,
+  "districtName": "METRO BARAT",
+  "name": "MULYOSARI",
+  "postalCode": "34125"
+ },
+ {
+  "id": 1872012003,
+  "districtId": 1872012,
+  "districtName": "METRO BARAT",
+  "name": "GANJARAGUNG",
+  "postalCode": ""
+ },
+ {
+  "id": 1872012004,
+  "districtId": 1872012,
+  "districtName": "METRO BARAT",
+  "name": "GANJARASRI",
+  "postalCode": ""
+ }
+]

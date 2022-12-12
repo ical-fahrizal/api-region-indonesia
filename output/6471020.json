@@ -1,0 +1,30 @@
+[
+ {
+  "id": 6471020001,
+  "districtId": 6471020,
+  "districtName": "BALIKPAPAN TIMUR",
+  "name": "MANGGAR",
+  "postalCode": "59272"
+ },
+ {
+  "id": 6471020002,
+  "districtId": 6471020,
+  "districtName": "BALIKPAPAN TIMUR",
+  "name": "MANGGAR BARU",
+  "postalCode": "76116"
+ },
+ {
+  "id": 6471020003,
+  "districtId": 6471020,
+  "districtName": "BALIKPAPAN TIMUR",
+  "name": "LEMARU",
+  "postalCode": ""
+ },
+ {
+  "id": 6471020004,
+  "districtId": 6471020,
+  "districtName": "BALIKPAPAN TIMUR",
+  "name": "TERITIP",
+  "postalCode": "76118"
+ }
+]

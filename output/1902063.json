@@ -1,0 +1,30 @@
+[
+ {
+  "id": 1902063001,
+  "districtId": 1902063,
+  "districtName": "SELAT NASIK",
+  "name": "SUAK GUAL",
+  "postalCode": "33481"
+ },
+ {
+  "id": 1902063002,
+  "districtId": 1902063,
+  "districtName": "SELAT NASIK",
+  "name": "PETALING",
+  "postalCode": "30953"
+ },
+ {
+  "id": 1902063003,
+  "districtId": 1902063,
+  "districtName": "SELAT NASIK",
+  "name": "SELAT NASIK",
+  "postalCode": "33481"
+ },
+ {
+  "id": 1902063004,
+  "districtId": 1902063,
+  "districtName": "SELAT NASIK",
+  "name": "PULAU GERSIK",
+  "postalCode": ""
+ }
+]

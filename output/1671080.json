@@ -1,0 +1,51 @@
+[
+ {
+  "id": 1671080002,
+  "districtId": 1671080,
+  "districtName": "SUKARAMI",
+  "name": "SUKA BANGUN",
+  "postalCode": "30151"
+ },
+ {
+  "id": 1671080003,
+  "districtId": 1671080,
+  "districtName": "SUKARAMI",
+  "name": "SUKAJAYA",
+  "postalCode": "30756"
+ },
+ {
+  "id": 1671080004,
+  "districtId": 1671080,
+  "districtName": "SUKARAMI",
+  "name": "SUKARAMI",
+  "postalCode": "32382"
+ },
+ {
+  "id": 1671080008,
+  "districtId": 1671080,
+  "districtName": "SUKARAMI",
+  "name": "KEBUN BUNGA",
+  "postalCode": "30151"
+ },
+ {
+  "id": 1671080009,
+  "districtId": 1671080,
+  "districtName": "SUKARAMI",
+  "name": "TALANG BETUTU",
+  "postalCode": "30155"
+ },
+ {
+  "id": 1671080010,
+  "districtId": 1671080,
+  "districtName": "SUKARAMI",
+  "name": "SUKODADI",
+  "postalCode": "32361"
+ },
+ {
+  "id": 1671080011,
+  "districtId": 1671080,
+  "districtName": "SUKARAMI",
+  "name": "TALANG JAMBE",
+  "postalCode": ""
+ }
+]

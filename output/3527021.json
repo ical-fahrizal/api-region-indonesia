@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3527021001,
+  "districtId": 3527021,
+  "districtName": "PANGARENGAN",
+  "name": "PANGARENGAN",
+  "postalCode": "41254"
+ },
+ {
+  "id": 3527021002,
+  "districtId": 3527021,
+  "districtName": "PANGARENGAN",
+  "name": "APAAN",
+  "postalCode": "69271"
+ },
+ {
+  "id": 3527021004,
+  "districtId": 3527021,
+  "districtName": "PANGARENGAN",
+  "name": "PANYERANGAN",
+  "postalCode": ""
+ },
+ {
+  "id": 3527021005,
+  "districtId": 3527021,
+  "districtName": "PANGARENGAN",
+  "name": "PACANGGAAN",
+  "postalCode": "69271"
+ },
+ {
+  "id": 3527021006,
+  "districtId": 3527021,
+  "districtName": "PANGARENGAN",
+  "name": "RAGUNG",
+  "postalCode": "69271"
+ }
+]

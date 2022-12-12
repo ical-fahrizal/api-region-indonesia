@@ -1,0 +1,30 @@
+[
+ {
+  "id": 6102061001,
+  "districtId": 6102061,
+  "districtName": "TUJUHBELAS",
+  "name": "BENGKILU",
+  "postalCode": "79251"
+ },
+ {
+  "id": 6102061002,
+  "districtId": 6102061,
+  "districtName": "TUJUHBELAS",
+  "name": "PISAK",
+  "postalCode": "79251"
+ },
+ {
+  "id": 6102061003,
+  "districtId": 6102061,
+  "districtName": "TUJUHBELAS",
+  "name": "KAMUH",
+  "postalCode": "79251"
+ },
+ {
+  "id": 6102061004,
+  "districtId": 6102061,
+  "districtName": "TUJUHBELAS",
+  "name": "SINAR TEBUDAK",
+  "postalCode": "79251"
+ }
+]

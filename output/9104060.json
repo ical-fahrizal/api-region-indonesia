@@ -1,0 +1,65 @@
+[
+ {
+  "id": 9104060001,
+  "districtId": 9104060,
+  "districtName": "TEMBUNI",
+  "name": "TEMBUNI",
+  "postalCode": "98364"
+ },
+ {
+  "id": 9104060002,
+  "districtId": 9104060,
+  "districtName": "TEMBUNI",
+  "name": "ARAISUM",
+  "postalCode": "98364"
+ },
+ {
+  "id": 9104060003,
+  "districtId": 9104060,
+  "districtName": "TEMBUNI",
+  "name": "MOGOY BARU",
+  "postalCode": ""
+ },
+ {
+  "id": 9104060004,
+  "districtId": 9104060,
+  "districtName": "TEMBUNI",
+  "name": "BANGUN MULIA (STENKOOL I)",
+  "postalCode": ""
+ },
+ {
+  "id": 9104060005,
+  "districtId": 9104060,
+  "districtName": "TEMBUNI",
+  "name": "MEMBERA",
+  "postalCode": ""
+ },
+ {
+  "id": 9104060006,
+  "districtId": 9104060,
+  "districtName": "TEMBUNI",
+  "name": "CINER",
+  "postalCode": ""
+ },
+ {
+  "id": 9104060007,
+  "districtId": 9104060,
+  "districtName": "TEMBUNI",
+  "name": "MUNTOP",
+  "postalCode": ""
+ },
+ {
+  "id": 9104060009,
+  "districtId": 9104060,
+  "districtName": "TEMBUNI",
+  "name": "PANGKALAN / TUSSUR",
+  "postalCode": ""
+ },
+ {
+  "id": 9104060010,
+  "districtId": 9104060,
+  "districtName": "TEMBUNI",
+  "name": "BANGUN HARJO",
+  "postalCode": "32361"
+ }
+]

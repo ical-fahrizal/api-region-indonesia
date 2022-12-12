@@ -1,0 +1,65 @@
+[
+ {
+  "id": 1906030001,
+  "districtId": 1906030,
+  "districtName": "MANGGAR",
+  "name": "KELUBI",
+  "postalCode": "33517"
+ },
+ {
+  "id": 1906030002,
+  "districtId": 1906030,
+  "districtName": "MANGGAR",
+  "name": "PADANG",
+  "postalCode": "23762"
+ },
+ {
+  "id": 1906030003,
+  "districtId": 1906030,
+  "districtName": "MANGGAR",
+  "name": "LALANG",
+  "postalCode": "20127"
+ },
+ {
+  "id": 1906030004,
+  "districtId": 1906030,
+  "districtName": "MANGGAR",
+  "name": "LALANG JAYA",
+  "postalCode": "33511"
+ },
+ {
+  "id": 1906030005,
+  "districtId": 1906030,
+  "districtName": "MANGGAR",
+  "name": "KURNIA JAYA",
+  "postalCode": "33512"
+ },
+ {
+  "id": 1906030006,
+  "districtId": 1906030,
+  "districtName": "MANGGAR",
+  "name": "BARU",
+  "postalCode": "23764"
+ },
+ {
+  "id": 1906030010,
+  "districtId": 1906030,
+  "districtName": "MANGGAR",
+  "name": "BUKU LIMAU",
+  "postalCode": ""
+ },
+ {
+  "id": 1906030011,
+  "districtId": 1906030,
+  "districtName": "MANGGAR",
+  "name": "BENTAIAN JAYA",
+  "postalCode": "33517"
+ },
+ {
+  "id": 1906030012,
+  "districtId": 1906030,
+  "districtName": "MANGGAR",
+  "name": "MEKAR JAYA",
+  "postalCode": "20771"
+ }
+]

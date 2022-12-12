@@ -1,0 +1,58 @@
+[
+ {
+  "id": 1213201001,
+  "districtId": 1213201,
+  "districtName": "PEMATANG JAYA",
+  "name": "SALAHAJI",
+  "postalCode": "20859"
+ },
+ {
+  "id": 1213201002,
+  "districtId": 1213201,
+  "districtName": "PEMATANG JAYA",
+  "name": "SERANG JAYA",
+  "postalCode": "20859"
+ },
+ {
+  "id": 1213201003,
+  "districtId": 1213201,
+  "districtName": "PEMATANG JAYA",
+  "name": "PEMATANG TENGAH",
+  "postalCode": "21255"
+ },
+ {
+  "id": 1213201004,
+  "districtId": 1213201,
+  "districtName": "PEMATANG JAYA",
+  "name": "PERKEBUNAN PERAPEN",
+  "postalCode": "20858"
+ },
+ {
+  "id": 1213201005,
+  "districtId": 1213201,
+  "districtName": "PEMATANG JAYA",
+  "name": "LIMAU MUNGKUR",
+  "postalCode": "20717"
+ },
+ {
+  "id": 1213201006,
+  "districtId": 1213201,
+  "districtName": "PEMATANG JAYA",
+  "name": "PERKEBUNAN DAMAR CONDONG",
+  "postalCode": "20858"
+ },
+ {
+  "id": 1213201007,
+  "districtId": 1213201,
+  "districtName": "PEMATANG JAYA",
+  "name": "DAMAR CONDONG",
+  "postalCode": "20858"
+ },
+ {
+  "id": 1213201008,
+  "districtId": 1213201,
+  "districtName": "PEMATANG JAYA",
+  "name": "SERANG JAYA HILIR",
+  "postalCode": "20859"
+ }
+]

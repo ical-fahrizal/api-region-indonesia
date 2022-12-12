@@ -1,0 +1,65 @@
+[
+ {
+  "id": 3506150001,
+  "districtId": 3506150,
+  "districtName": "KUNJANG",
+  "name": "KAPAS",
+  "postalCode": "62181"
+ },
+ {
+  "id": 3506150002,
+  "districtId": 3506150,
+  "districtName": "KUNJANG",
+  "name": "KAPI",
+  "postalCode": "64156"
+ },
+ {
+  "id": 3506150003,
+  "districtId": 3506150,
+  "districtName": "KUNJANG",
+  "name": "TENGGERLOR",
+  "postalCode": "64156"
+ },
+ {
+  "id": 3506150004,
+  "districtId": 3506150,
+  "districtName": "KUNJANG",
+  "name": "WONOREJO",
+  "postalCode": "21186"
+ },
+ {
+  "id": 3506150005,
+  "districtId": 3506150,
+  "districtName": "KUNJANG",
+  "name": "BALONGJERUK",
+  "postalCode": ""
+ },
+ {
+  "id": 3506150006,
+  "districtId": 3506150,
+  "districtName": "KUNJANG",
+  "name": "KUWIK",
+  "postalCode": "64156"
+ },
+ {
+  "id": 3506150009,
+  "districtId": 3506150,
+  "districtName": "KUNJANG",
+  "name": "KUNJANG",
+  "postalCode": "64156"
+ },
+ {
+  "id": 3506150011,
+  "districtId": 3506150,
+  "districtName": "KUNJANG",
+  "name": "PAKIS",
+  "postalCode": "50772"
+ },
+ {
+  "id": 3506150012,
+  "districtId": 3506150,
+  "districtName": "KUNJANG",
+  "name": "PARELOR",
+  "postalCode": "64156"
+ }
+]

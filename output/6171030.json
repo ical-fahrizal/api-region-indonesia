@@ -1,0 +1,30 @@
+[
+ {
+  "id": 6171030001,
+  "districtId": 6171030,
+  "districtName": "PONTIANAK BARAT",
+  "name": "PAL LIMA",
+  "postalCode": "78114"
+ },
+ {
+  "id": 6171030006,
+  "districtId": 6171030,
+  "districtName": "PONTIANAK BARAT",
+  "name": "SUNGAI JAWI DALAM",
+  "postalCode": ""
+ },
+ {
+  "id": 6171030007,
+  "districtId": 6171030,
+  "districtName": "PONTIANAK BARAT",
+  "name": "SUNGAI JAWI LUAR",
+  "postalCode": ""
+ },
+ {
+  "id": 6171030008,
+  "districtId": 6171030,
+  "districtName": "PONTIANAK BARAT",
+  "name": "SUNGAI BELIUNG",
+  "postalCode": ""
+ }
+]

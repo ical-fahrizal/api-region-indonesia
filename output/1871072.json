@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1871072001,
+  "districtId": 1871072,
+  "districtName": "LANGKAPURA",
+  "name": "BILABONG JAYA",
+  "postalCode": "35155"
+ },
+ {
+  "id": 1871072002,
+  "districtId": 1871072,
+  "districtName": "LANGKAPURA",
+  "name": "LANGKAPURA",
+  "postalCode": ""
+ },
+ {
+  "id": 1871072003,
+  "districtId": 1871072,
+  "districtName": "LANGKAPURA",
+  "name": "LANGKAPURA BARU",
+  "postalCode": ""
+ },
+ {
+  "id": 1871072004,
+  "districtId": 1871072,
+  "districtName": "LANGKAPURA",
+  "name": "GUNUNG TERANG",
+  "postalCode": "32277"
+ },
+ {
+  "id": 1871072005,
+  "districtId": 1871072,
+  "districtName": "LANGKAPURA",
+  "name": "GUNUNG AGUNG",
+  "postalCode": "31471"
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3576020002,
+  "districtId": 3576020,
+  "districtName": "MAGERSARI",
+  "name": "GUNUNG GEDANGAN",
+  "postalCode": "61315"
+ },
+ {
+  "id": 3576020004,
+  "districtId": 3576020,
+  "districtName": "MAGERSARI",
+  "name": "BALONGSARI",
+  "postalCode": "41382"
+ },
+ {
+  "id": 3576020008,
+  "districtId": 3576020,
+  "districtName": "MAGERSARI",
+  "name": "GEDONGAN",
+  "postalCode": "57556"
+ },
+ {
+  "id": 3576020009,
+  "districtId": 3576020,
+  "districtName": "MAGERSARI",
+  "name": "MAGERSARI",
+  "postalCode": "56126"
+ },
+ {
+  "id": 3576020010,
+  "districtId": 3576020,
+  "districtName": "MAGERSARI",
+  "name": "WATES",
+  "postalCode": "32273"
+ }
+]

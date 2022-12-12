@@ -1,0 +1,51 @@
+[
+ {
+  "id": 1801052001,
+  "districtId": 1801052,
+  "districtName": "SUOH",
+  "name": "TUGU RATU",
+  "postalCode": "34882"
+ },
+ {
+  "id": 1801052002,
+  "districtId": 1801052,
+  "districtName": "SUOH",
+  "name": "BANDING AGUNG",
+  "postalCode": "32274"
+ },
+ {
+  "id": 1801052003,
+  "districtId": 1801052,
+  "districtName": "SUOH",
+  "name": "ROWOREJO",
+  "postalCode": "35353"
+ },
+ {
+  "id": 1801052006,
+  "districtId": 1801052,
+  "districtName": "SUOH",
+  "name": "SUMBER AGUNG",
+  "postalCode": "37353"
+ },
+ {
+  "id": 1801052007,
+  "districtId": 1801052,
+  "districtName": "SUOH",
+  "name": "SUKA MARGA",
+  "postalCode": "31471"
+ },
+ {
+  "id": 1801052013,
+  "districtId": 1801052,
+  "districtName": "SUOH",
+  "name": "SIDO REJO",
+  "postalCode": "37553"
+ },
+ {
+  "id": 1801052017,
+  "districtId": 1801052,
+  "districtName": "SUOH",
+  "name": "RINGIN SARI",
+  "postalCode": "32385"
+ }
+]

@@ -1,0 +1,65 @@
+[
+ {
+  "id": 9433030003,
+  "districtId": 9433030,
+  "districtName": "ILAGA",
+  "name": "KAGO",
+  "postalCode": "98972"
+ },
+ {
+  "id": 9433030004,
+  "districtId": 9433030,
+  "districtName": "ILAGA",
+  "name": "KIMAK",
+  "postalCode": "33172"
+ },
+ {
+  "id": 9433030015,
+  "districtId": 9433030,
+  "districtName": "ILAGA",
+  "name": "WULONI",
+  "postalCode": "98972"
+ },
+ {
+  "id": 9433030016,
+  "districtId": 9433030,
+  "districtName": "ILAGA",
+  "name": "NIPURALOME",
+  "postalCode": ""
+ },
+ {
+  "id": 9433030017,
+  "districtId": 9433030,
+  "districtName": "ILAGA",
+  "name": "KIBOGOLOME",
+  "postalCode": ""
+ },
+ {
+  "id": 9433030018,
+  "districtId": 9433030,
+  "districtName": "ILAGA",
+  "name": "TAGALOA",
+  "postalCode": ""
+ },
+ {
+  "id": 9433030019,
+  "districtId": 9433030,
+  "districtName": "ILAGA",
+  "name": "JENGGERPAGA",
+  "postalCode": ""
+ },
+ {
+  "id": 9433030020,
+  "districtId": 9433030,
+  "districtName": "ILAGA",
+  "name": "ILMABET",
+  "postalCode": ""
+ },
+ {
+  "id": 9433030021,
+  "districtId": 9433030,
+  "districtName": "ILAGA",
+  "name": "KALEBUT",
+  "postalCode": ""
+ }
+]

@@ -1,0 +1,65 @@
+[
+ {
+  "id": 3523081001,
+  "districtId": 3523081,
+  "districtName": "GRABAGAN",
+  "name": "NGARUM",
+  "postalCode": "57252"
+ },
+ {
+  "id": 3523081003,
+  "districtId": 3523081,
+  "districtName": "GRABAGAN",
+  "name": "BANYUBANG",
+  "postalCode": "62371"
+ },
+ {
+  "id": 3523081004,
+  "districtId": 3523081,
+  "districtName": "GRABAGAN",
+  "name": "GRABAGAN",
+  "postalCode": "58182"
+ },
+ {
+  "id": 3523081005,
+  "districtId": 3523081,
+  "districtName": "GRABAGAN",
+  "name": "WALERAN",
+  "postalCode": "62371"
+ },
+ {
+  "id": 3523081006,
+  "districtId": 3523081,
+  "districtName": "GRABAGAN",
+  "name": "GESIKAN",
+  "postalCode": "57455"
+ },
+ {
+  "id": 3523081007,
+  "districtId": 3523081,
+  "districtName": "GRABAGAN",
+  "name": "NGANDONG",
+  "postalCode": "57663"
+ },
+ {
+  "id": 3523081008,
+  "districtId": 3523081,
+  "districtName": "GRABAGAN",
+  "name": "DAHOR",
+  "postalCode": "62371"
+ },
+ {
+  "id": 3523081009,
+  "districtId": 3523081,
+  "districtName": "GRABAGAN",
+  "name": "DERMAWUHARDJO",
+  "postalCode": "62371"
+ },
+ {
+  "id": 3523081011,
+  "districtId": 3523081,
+  "districtName": "GRABAGAN",
+  "name": "PAKIS",
+  "postalCode": "50772"
+ }
+]

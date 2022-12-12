@@ -1,0 +1,72 @@
+[
+ {
+  "id": 9417060003,
+  "districtId": 9417060,
+  "districtName": "BATOM",
+  "name": "BATOM",
+  "postalCode": "99576"
+ },
+ {
+  "id": 9417060008,
+  "districtId": 9417060,
+  "districtName": "BATOM",
+  "name": "OKSIP",
+  "postalCode": "99576"
+ },
+ {
+  "id": 9417060009,
+  "districtId": 9417060,
+  "districtName": "BATOM",
+  "name": "SABI",
+  "postalCode": "99576"
+ },
+ {
+  "id": 9417060010,
+  "districtId": 9417060,
+  "districtName": "BATOM",
+  "name": "BATOM 2",
+  "postalCode": ""
+ },
+ {
+  "id": 9417060012,
+  "districtId": 9417060,
+  "districtName": "BATOM",
+  "name": "MUARA",
+  "postalCode": "41259"
+ },
+ {
+  "id": 9417060015,
+  "districtId": 9417060,
+  "districtName": "BATOM",
+  "name": "OKYAKO",
+  "postalCode": "99574"
+ },
+ {
+  "id": 9417060016,
+  "districtId": 9417060,
+  "districtName": "BATOM",
+  "name": "MONGHAM",
+  "postalCode": ""
+ },
+ {
+  "id": 9417060017,
+  "districtId": 9417060,
+  "districtName": "BATOM",
+  "name": "BELOMO",
+  "postalCode": "99576"
+ },
+ {
+  "id": 9417060018,
+  "districtId": 9417060,
+  "districtName": "BATOM",
+  "name": "PATENG",
+  "postalCode": "97752"
+ },
+ {
+  "id": 9417060019,
+  "districtId": 9417060,
+  "districtName": "BATOM",
+  "name": "ABUKEROM",
+  "postalCode": "99576"
+ }
+]

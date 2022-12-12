@@ -1,0 +1,44 @@
+[
+ {
+  "id": 7605040001,
+  "districtId": 7605040,
+  "districtName": "BAMBALAMOTU",
+  "name": "POLEWALI",
+  "postalCode": "94974"
+ },
+ {
+  "id": 7605040002,
+  "districtId": 7605040,
+  "districtName": "BAMBALAMOTU",
+  "name": "BAMBALAMOTU",
+  "postalCode": "91574"
+ },
+ {
+  "id": 7605040003,
+  "districtId": 7605040,
+  "districtName": "BAMBALAMOTU",
+  "name": "RANDOMAYANG",
+  "postalCode": "91574"
+ },
+ {
+  "id": 7605040007,
+  "districtId": 7605040,
+  "districtName": "BAMBALAMOTU",
+  "name": "PANGIANG",
+  "postalCode": "91574"
+ },
+ {
+  "id": 7605040008,
+  "districtId": 7605040,
+  "districtName": "BAMBALAMOTU",
+  "name": "KALOLA",
+  "postalCode": "90952"
+ },
+ {
+  "id": 7605040009,
+  "districtId": 7605040,
+  "districtName": "BAMBALAMOTU",
+  "name": "WULAI",
+  "postalCode": "91574"
+ }
+]

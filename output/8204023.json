@@ -1,0 +1,51 @@
+[
+ {
+  "id": 8204023001,
+  "districtId": 8204023,
+  "districtName": "OBI UTARA",
+  "name": "PASIR PUTIH",
+  "postalCode": "24453"
+ },
+ {
+  "id": 8204023002,
+  "districtId": 8204023,
+  "districtName": "OBI UTARA",
+  "name": "CAP",
+  "postalCode": "97792"
+ },
+ {
+  "id": 8204023003,
+  "districtId": 8204023,
+  "districtName": "OBI UTARA",
+  "name": "GALALA",
+  "postalCode": "97128"
+ },
+ {
+  "id": 8204023004,
+  "districtId": 8204023,
+  "districtName": "OBI UTARA",
+  "name": "MADAPOLO BARAT",
+  "postalCode": "97792"
+ },
+ {
+  "id": 8204023005,
+  "districtId": 8204023,
+  "districtName": "OBI UTARA",
+  "name": "MADAPOLO",
+  "postalCode": "97792"
+ },
+ {
+  "id": 8204023006,
+  "districtId": 8204023,
+  "districtName": "OBI UTARA",
+  "name": "MADAPOLO TIMUR",
+  "postalCode": "97792"
+ },
+ {
+  "id": 8204023007,
+  "districtId": 8204023,
+  "districtName": "OBI UTARA",
+  "name": "WARINGI",
+  "postalCode": "97792"
+ }
+]

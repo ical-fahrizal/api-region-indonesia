@@ -1,0 +1,44 @@
+[
+ {
+  "id": 9109040001,
+  "districtId": 9109040,
+  "districtName": "KWOOR",
+  "name": "KWOOR",
+  "postalCode": "98473"
+ },
+ {
+  "id": 9109040002,
+  "districtId": 9109040,
+  "districtName": "KWOOR",
+  "name": "HOPMARE",
+  "postalCode": "98473"
+ },
+ {
+  "id": 9109040010,
+  "districtId": 9109040,
+  "districtName": "KWOOR",
+  "name": "SUNGGAK",
+  "postalCode": "29792"
+ },
+ {
+  "id": 9109040011,
+  "districtId": 9109040,
+  "districtName": "KWOOR",
+  "name": "ORWEN",
+  "postalCode": ""
+ },
+ {
+  "id": 9109040012,
+  "districtId": 9109040,
+  "districtName": "KWOOR",
+  "name": "BARAR",
+  "postalCode": ""
+ },
+ {
+  "id": 9109040013,
+  "districtId": 9109040,
+  "districtName": "KWOOR",
+  "name": "ESMAMBO",
+  "postalCode": ""
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3402070001,
+  "districtId": 3402070,
+  "districtName": "BANTUL",
+  "name": "PALBAPANG",
+  "postalCode": "55713"
+ },
+ {
+  "id": 3402070002,
+  "districtId": 3402070,
+  "districtName": "BANTUL",
+  "name": "RINGIN HARJO",
+  "postalCode": "30959"
+ },
+ {
+  "id": 3402070003,
+  "districtId": 3402070,
+  "districtName": "BANTUL",
+  "name": "BANTUL",
+  "postalCode": "55711"
+ },
+ {
+  "id": 3402070004,
+  "districtId": 3402070,
+  "districtName": "BANTUL",
+  "name": "TRIRENGGO",
+  "postalCode": "55714"
+ },
+ {
+  "id": 3402070005,
+  "districtId": 3402070,
+  "districtName": "BANTUL",
+  "name": "SABDODADI",
+  "postalCode": "55715"
+ }
+]

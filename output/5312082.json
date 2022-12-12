@@ -1,0 +1,51 @@
+[
+ {
+  "id": 5312082001,
+  "districtId": 5312082,
+  "districtName": "WOLOMEZE",
+  "name": "TURALOA",
+  "postalCode": "86419"
+ },
+ {
+  "id": 5312082002,
+  "districtId": 5312082,
+  "districtName": "WOLOMEZE",
+  "name": "MAINAI",
+  "postalCode": "86419"
+ },
+ {
+  "id": 5312082003,
+  "districtId": 5312082,
+  "districtName": "WOLOMEZE",
+  "name": "DENATANA",
+  "postalCode": "86419"
+ },
+ {
+  "id": 5312082004,
+  "districtId": 5312082,
+  "districtName": "WOLOMEZE",
+  "name": "NGINAMANU",
+  "postalCode": "86419"
+ },
+ {
+  "id": 5312082005,
+  "districtId": 5312082,
+  "districtName": "WOLOMEZE",
+  "name": "NGINAMANU SELATAN",
+  "postalCode": "86419"
+ },
+ {
+  "id": 5312082006,
+  "districtId": 5312082,
+  "districtName": "WOLOMEZE",
+  "name": "NGINAMANU BARAT",
+  "postalCode": "86419"
+ },
+ {
+  "id": 5312082008,
+  "districtId": 5312082,
+  "districtName": "WOLOMEZE",
+  "name": "DENATANA TIMUR",
+  "postalCode": "86419"
+ }
+]

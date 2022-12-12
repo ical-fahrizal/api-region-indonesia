@@ -1,0 +1,37 @@
+[
+ {
+  "id": 7605011001,
+  "districtId": 7605011,
+  "districtName": "DAPURANG",
+  "name": "BENGGAULU",
+  "postalCode": "91512"
+ },
+ {
+  "id": 7605011002,
+  "districtId": 7605011,
+  "districtName": "DAPURANG",
+  "name": "BULU BONGGU",
+  "postalCode": "91573"
+ },
+ {
+  "id": 7605011003,
+  "districtId": 7605011,
+  "districtName": "DAPURANG",
+  "name": "TIRTA BUANA",
+  "postalCode": "91573"
+ },
+ {
+  "id": 7605011004,
+  "districtId": 7605011,
+  "districtName": "DAPURANG",
+  "name": "SARASA",
+  "postalCode": ""
+ },
+ {
+  "id": 7605011005,
+  "districtId": 7605011,
+  "districtName": "DAPURANG",
+  "name": "DAPURANG",
+  "postalCode": "91573"
+ }
+]

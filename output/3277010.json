@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3277010001,
+  "districtId": 3277010,
+  "districtName": "CIMAHI SELATAN",
+  "name": "MELONG",
+  "postalCode": "40534"
+ },
+ {
+  "id": 3277010002,
+  "districtId": 3277010,
+  "districtName": "CIMAHI SELATAN",
+  "name": "CIBEUREUM",
+  "postalCode": "46313"
+ },
+ {
+  "id": 3277010003,
+  "districtId": 3277010,
+  "districtName": "CIMAHI SELATAN",
+  "name": "UTAMA",
+  "postalCode": "46271"
+ },
+ {
+  "id": 3277010004,
+  "districtId": 3277010,
+  "districtName": "CIMAHI SELATAN",
+  "name": "LEUWIGAJAH",
+  "postalCode": "40532"
+ },
+ {
+  "id": 3277010005,
+  "districtId": 3277010,
+  "districtName": "CIMAHI SELATAN",
+  "name": "CIBEBER",
+  "postalCode": "46195"
+ }
+]

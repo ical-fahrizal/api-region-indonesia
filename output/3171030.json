@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3171030001,
+  "districtId": 3171030,
+  "districtName": "CILANDAK",
+  "name": "LEBAK BULUS",
+  "postalCode": "12440"
+ },
+ {
+  "id": 3171030002,
+  "districtId": 3171030,
+  "districtName": "CILANDAK",
+  "name": "PONDOK LABU",
+  "postalCode": "12450"
+ },
+ {
+  "id": 3171030003,
+  "districtId": 3171030,
+  "districtName": "CILANDAK",
+  "name": "CILANDAK BARAT",
+  "postalCode": "12430"
+ },
+ {
+  "id": 3171030004,
+  "districtId": 3171030,
+  "districtName": "CILANDAK",
+  "name": "GANDARIA SELATAN",
+  "postalCode": "12420"
+ },
+ {
+  "id": 3171030005,
+  "districtId": 3171030,
+  "districtName": "CILANDAK",
+  "name": "CIPETE SELATAN",
+  "postalCode": "12410"
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3172030001,
+  "districtId": 3172030,
+  "districtName": "CIPAYUNG",
+  "name": "PONDOK RANGGON",
+  "postalCode": ""
+ },
+ {
+  "id": 3172030002,
+  "districtId": 3172030,
+  "districtName": "CIPAYUNG",
+  "name": "CILANGKAP",
+  "postalCode": "13870"
+ },
+ {
+  "id": 3172030004,
+  "districtId": 3172030,
+  "districtName": "CIPAYUNG",
+  "name": "CIPAYUNG",
+  "postalCode": "13840"
+ },
+ {
+  "id": 3172030006,
+  "districtId": 3172030,
+  "districtName": "CIPAYUNG",
+  "name": "BAMBU APUS",
+  "postalCode": "13890"
+ },
+ {
+  "id": 3172030008,
+  "districtId": 3172030,
+  "districtName": "CIPAYUNG",
+  "name": "LUBANG BUAYA",
+  "postalCode": "13810"
+ }
+]

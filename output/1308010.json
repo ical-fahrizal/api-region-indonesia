@@ -1,0 +1,51 @@
+[
+ {
+  "id": 1308010001,
+  "districtId": 1308010,
+  "districtName": "PAYAKUMBUH",
+  "name": "SUNGAI BARINGIN",
+  "postalCode": ""
+ },
+ {
+  "id": 1308010002,
+  "districtId": 1308010,
+  "districtName": "PAYAKUMBUH",
+  "name": "KOTO BARU SIMALANGGANG",
+  "postalCode": "26251"
+ },
+ {
+  "id": 1308010003,
+  "districtId": 1308010,
+  "districtName": "PAYAKUMBUH",
+  "name": "SIMALANGGANG",
+  "postalCode": "26251"
+ },
+ {
+  "id": 1308010004,
+  "districtId": 1308010,
+  "districtName": "PAYAKUMBUH",
+  "name": "KOTO TANGAH SIMALANGGANG",
+  "postalCode": "26251"
+ },
+ {
+  "id": 1308010005,
+  "districtId": 1308010,
+  "districtName": "PAYAKUMBUH",
+  "name": "TAEH BARUAH",
+  "postalCode": "26251"
+ },
+ {
+  "id": 1308010006,
+  "districtId": 1308010,
+  "districtName": "PAYAKUMBUH",
+  "name": "PIOBANG",
+  "postalCode": "26251"
+ },
+ {
+  "id": 1308010007,
+  "districtId": 1308010,
+  "districtName": "PAYAKUMBUH",
+  "name": "TAEH BUKIK",
+  "postalCode": "26251"
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "id": 3172070001,
+  "districtId": 3172070,
+  "districtName": "DUREN SAWIT",
+  "name": "PONDOK BAMBU",
+  "postalCode": "13430"
+ },
+ {
+  "id": 3172070002,
+  "districtId": 3172070,
+  "districtName": "DUREN SAWIT",
+  "name": "DUREN SAWIT",
+  "postalCode": "13440"
+ },
+ {
+  "id": 3172070003,
+  "districtId": 3172070,
+  "districtName": "DUREN SAWIT",
+  "name": "PONDOK KELAPA",
+  "postalCode": "24415"
+ },
+ {
+  "id": 3172070004,
+  "districtId": 3172070,
+  "districtName": "DUREN SAWIT",
+  "name": "PONDOK KOPI",
+  "postalCode": "38768"
+ },
+ {
+  "id": 3172070005,
+  "districtId": 3172070,
+  "districtName": "DUREN SAWIT",
+  "name": "MALAKA JAYA",
+  "postalCode": "13460"
+ },
+ {
+  "id": 3172070006,
+  "districtId": 3172070,
+  "districtName": "DUREN SAWIT",
+  "name": "MALAKA SARI",
+  "postalCode": "13460"
+ }
+]

@@ -1,0 +1,65 @@
+[
+ {
+  "id": 3213170001,
+  "districtId": 3213170,
+  "districtName": "BINONG",
+  "name": "NANGERANG",
+  "postalCode": "43171"
+ },
+ {
+  "id": 3213170002,
+  "districtId": 3213170,
+  "districtName": "BINONG",
+  "name": "CICADAS",
+  "postalCode": "41151"
+ },
+ {
+  "id": 3213170003,
+  "districtId": 3213170,
+  "districtName": "BINONG",
+  "name": "KIHIYANG",
+  "postalCode": "41253"
+ },
+ {
+  "id": 3213170004,
+  "districtId": 3213170,
+  "districtName": "BINONG",
+  "name": "KARANGSARI",
+  "postalCode": "35376"
+ },
+ {
+  "id": 3213170005,
+  "districtId": 3213170,
+  "districtName": "BINONG",
+  "name": "CITRAJAYA",
+  "postalCode": "41253"
+ },
+ {
+  "id": 3213170006,
+  "districtId": 3213170,
+  "districtName": "BINONG",
+  "name": "BINONG",
+  "postalCode": "40275"
+ },
+ {
+  "id": 3213170007,
+  "districtId": 3213170,
+  "districtName": "BINONG",
+  "name": "KEDIRI",
+  "postalCode": "35372"
+ },
+ {
+  "id": 3213170008,
+  "districtId": 3213170,
+  "districtName": "BINONG",
+  "name": "MULYASARI",
+  "postalCode": "43273"
+ },
+ {
+  "id": 3213170018,
+  "districtId": 3213170,
+  "districtName": "BINONG",
+  "name": "KARANGWANGI",
+  "postalCode": "41253"
+ }
+]

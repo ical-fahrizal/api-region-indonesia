@@ -1,0 +1,26 @@
+[
+ {
+  "id": 1271010,
+  "regencieId": 1271,
+  "regencieName": "KOTA SIBOLGA",
+  "name": "SIBOLGA UTARA"
+ },
+ {
+  "id": 1271020,
+  "regencieId": 1271,
+  "regencieName": "KOTA SIBOLGA",
+  "name": "SIBOLGA KOTA"
+ },
+ {
+  "id": 1271030,
+  "regencieId": 1271,
+  "regencieName": "KOTA SIBOLGA",
+  "name": "SIBOLGA SELATAN"
+ },
+ {
+  "id": 1271031,
+  "regencieId": 1271,
+  "regencieName": "KOTA SIBOLGA",
+  "name": "SIBOLGA SAMBAS"
+ }
+]

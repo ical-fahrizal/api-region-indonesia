@@ -1,0 +1,44 @@
+[
+ {
+  "id": 7571030003,
+  "districtId": 7571030,
+  "districtName": "KOTA UTARA",
+  "name": "DEMBE II",
+  "postalCode": "96121"
+ },
+ {
+  "id": 7571030004,
+  "districtId": 7571030,
+  "districtName": "KOTA UTARA",
+  "name": "WONGKADITI",
+  "postalCode": ""
+ },
+ {
+  "id": 7571030005,
+  "districtId": 7571030,
+  "districtName": "KOTA UTARA",
+  "name": "WONGKADITI BARAT",
+  "postalCode": "96122"
+ },
+ {
+  "id": 7571030011,
+  "districtId": 7571030,
+  "districtName": "KOTA UTARA",
+  "name": "DULOMO SELATAN",
+  "postalCode": "96123"
+ },
+ {
+  "id": 7571030012,
+  "districtId": 7571030,
+  "districtName": "KOTA UTARA",
+  "name": "DULOMO",
+  "postalCode": "96266"
+ },
+ {
+  "id": 7571030015,
+  "districtId": 7571030,
+  "districtName": "KOTA UTARA",
+  "name": "DEMBE JAYA",
+  "postalCode": "96121"
+ }
+]

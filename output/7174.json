@@ -1,0 +1,26 @@
+[
+ {
+  "id": 7174010,
+  "regencieId": 7174,
+  "regencieName": "KOTA KOTAMOBAGU",
+  "name": "KOTAMOBAGU SELATAN"
+ },
+ {
+  "id": 7174020,
+  "regencieId": 7174,
+  "regencieName": "KOTA KOTAMOBAGU",
+  "name": "KOTAMOBAGU TIMUR"
+ },
+ {
+  "id": 7174030,
+  "regencieId": 7174,
+  "regencieName": "KOTA KOTAMOBAGU",
+  "name": "KOTAMOBAGU BARAT"
+ },
+ {
+  "id": 7174040,
+  "regencieId": 7174,
+  "regencieName": "KOTA KOTAMOBAGU",
+  "name": "KOTAMOBAGU UTARA"
+ }
+]

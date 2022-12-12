@@ -1,0 +1,79 @@
+[
+ {
+  "id": 5202050001,
+  "districtId": 5202050,
+  "districtName": "KOPANG",
+  "name": "MUNCAN",
+  "postalCode": "80862"
+ },
+ {
+  "id": 5202050002,
+  "districtId": 5202050,
+  "districtName": "KOPANG",
+  "name": "MONGGAS",
+  "postalCode": "83553"
+ },
+ {
+  "id": 5202050003,
+  "districtId": 5202050,
+  "districtName": "KOPANG",
+  "name": "DARMAJI",
+  "postalCode": "83553"
+ },
+ {
+  "id": 5202050004,
+  "districtId": 5202050,
+  "districtName": "KOPANG",
+  "name": "DASAN BARU",
+  "postalCode": "83362"
+ },
+ {
+  "id": 5202050005,
+  "districtId": 5202050,
+  "districtName": "KOPANG",
+  "name": "KOPANG REMBIGA",
+  "postalCode": "83553"
+ },
+ {
+  "id": 5202050006,
+  "districtId": 5202050,
+  "districtName": "KOPANG",
+  "name": "MONTONG GAMANG",
+  "postalCode": "83553"
+ },
+ {
+  "id": 5202050007,
+  "districtId": 5202050,
+  "districtName": "KOPANG",
+  "name": "LENDANG ARA",
+  "postalCode": "83553"
+ },
+ {
+  "id": 5202050008,
+  "districtId": 5202050,
+  "districtName": "KOPANG",
+  "name": "BEBUAQ",
+  "postalCode": ""
+ },
+ {
+  "id": 5202050009,
+  "districtId": 5202050,
+  "districtName": "KOPANG",
+  "name": "WAJA GESENG",
+  "postalCode": "83553"
+ },
+ {
+  "id": 5202050010,
+  "districtId": 5202050,
+  "districtName": "KOPANG",
+  "name": "SEMPARU",
+  "postalCode": ""
+ },
+ {
+  "id": 5202050011,
+  "districtId": 5202050,
+  "districtName": "KOPANG",
+  "name": "AIK BUAL",
+  "postalCode": ""
+ }
+]

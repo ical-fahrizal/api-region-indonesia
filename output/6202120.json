@@ -1,0 +1,44 @@
+[
+ {
+  "id": 6202120001,
+  "districtId": 6202120,
+  "districtName": "BAAMANG",
+  "name": "BAAMANG HILIR",
+  "postalCode": "74311"
+ },
+ {
+  "id": 6202120002,
+  "districtId": 6202120,
+  "districtName": "BAAMANG",
+  "name": "BAAMANG TENGAH",
+  "postalCode": "74312"
+ },
+ {
+  "id": 6202120003,
+  "districtId": 6202120,
+  "districtName": "BAAMANG",
+  "name": "BAAMANG HULU",
+  "postalCode": "74313"
+ },
+ {
+  "id": 6202120006,
+  "districtId": 6202120,
+  "districtName": "BAAMANG",
+  "name": "TINDUK",
+  "postalCode": "74316"
+ },
+ {
+  "id": 6202120007,
+  "districtId": 6202120,
+  "districtName": "BAAMANG",
+  "name": "BAAMANG BARAT",
+  "postalCode": "74312"
+ },
+ {
+  "id": 6202120008,
+  "districtId": 6202120,
+  "districtName": "BAAMANG",
+  "name": "TANAH MAS",
+  "postalCode": "30961"
+ }
+]

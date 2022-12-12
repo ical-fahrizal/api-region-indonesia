@@ -1,0 +1,65 @@
+[
+ {
+  "id": 3601080001,
+  "districtId": 3601080,
+  "districtName": "PICUNG",
+  "name": "CIHERANG",
+  "postalCode": "35379"
+ },
+ {
+  "id": 3601080002,
+  "districtId": 3601080,
+  "districtName": "PICUNG",
+  "name": "KOLELET",
+  "postalCode": "42275"
+ },
+ {
+  "id": 3601080003,
+  "districtId": 3601080,
+  "districtName": "PICUNG",
+  "name": "CILILITAN",
+  "postalCode": "13640"
+ },
+ {
+  "id": 3601080004,
+  "districtId": 3601080,
+  "districtName": "PICUNG",
+  "name": "KADUPANDAK",
+  "postalCode": "43268"
+ },
+ {
+  "id": 3601080005,
+  "districtId": 3601080,
+  "districtName": "PICUNG",
+  "name": "BUNGURCOPONG",
+  "postalCode": "42275"
+ },
+ {
+  "id": 3601080006,
+  "districtId": 3601080,
+  "districtName": "PICUNG",
+  "name": "PASIRSEDANG",
+  "postalCode": "42275"
+ },
+ {
+  "id": 3601080007,
+  "districtId": 3601080,
+  "districtName": "PICUNG",
+  "name": "PASIRPANJANG",
+  "postalCode": "43176"
+ },
+ {
+  "id": 3601080008,
+  "districtId": 3601080,
+  "districtName": "PICUNG",
+  "name": "KADUBERA",
+  "postalCode": "42275"
+ },
+ {
+  "id": 3601080009,
+  "districtId": 3601080,
+  "districtName": "PICUNG",
+  "name": "GANGGAENG",
+  "postalCode": "42275"
+ }
+]

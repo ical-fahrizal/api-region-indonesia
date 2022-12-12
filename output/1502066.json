@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1502066001,
+  "districtId": 1502066,
+  "districtName": "MARGO TABIR",
+  "name": "TANJUNG REJO",
+  "postalCode": "20122"
+ },
+ {
+  "id": 1502066002,
+  "districtId": 1502066,
+  "districtName": "MARGO TABIR",
+  "name": "SUMBER AGUNG",
+  "postalCode": "37353"
+ },
+ {
+  "id": 1502066003,
+  "districtId": 1502066,
+  "districtName": "MARGO TABIR",
+  "name": "SUKO REJO",
+  "postalCode": "21252"
+ },
+ {
+  "id": 1502066004,
+  "districtId": 1502066,
+  "districtName": "MARGO TABIR",
+  "name": "SIDO RUKUN",
+  "postalCode": "37353"
+ },
+ {
+  "id": 1502066005,
+  "districtId": 1502066,
+  "districtName": "MARGO TABIR",
+  "name": "LUBUK BUMBUN",
+  "postalCode": "37353"
+ },
+ {
+  "id": 1502066006,
+  "districtId": 1502066,
+  "districtName": "MARGO TABIR",
+  "name": "TEGAL REJO",
+  "postalCode": "20237"
+ }
+]

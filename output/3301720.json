@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3301720001,
+  "districtId": 3301720,
+  "districtName": "CILACAP TENGAH",
+  "name": "KUTAWARU",
+  "postalCode": "53225"
+ },
+ {
+  "id": 3301720002,
+  "districtId": 3301720,
+  "districtName": "CILACAP TENGAH",
+  "name": "LOMANIS",
+  "postalCode": "53221"
+ },
+ {
+  "id": 3301720003,
+  "districtId": 3301720,
+  "districtName": "CILACAP TENGAH",
+  "name": "DONAN",
+  "postalCode": "53222"
+ },
+ {
+  "id": 3301720004,
+  "districtId": 3301720,
+  "districtName": "CILACAP TENGAH",
+  "name": "SIDANEGARA",
+  "postalCode": "53223"
+ },
+ {
+  "id": 3301720005,
+  "districtId": 3301720,
+  "districtName": "CILACAP TENGAH",
+  "name": "GUNUNGSIMPING",
+  "postalCode": "53224"
+ }
+]

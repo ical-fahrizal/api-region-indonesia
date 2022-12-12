@@ -1,0 +1,51 @@
+[
+ {
+  "id": 9434090001,
+  "districtId": 9434090,
+  "districtName": "KAMU TIMUR",
+  "name": "BUNAUWO",
+  "postalCode": "98863"
+ },
+ {
+  "id": 9434090002,
+  "districtId": 9434090,
+  "districtName": "KAMU TIMUR",
+  "name": "YOTAPUGA",
+  "postalCode": "98863"
+ },
+ {
+  "id": 9434090003,
+  "districtId": 9434090,
+  "districtName": "KAMU TIMUR",
+  "name": "UGAPUGA",
+  "postalCode": "98863"
+ },
+ {
+  "id": 9434090004,
+  "districtId": 9434090,
+  "districtName": "KAMU TIMUR",
+  "name": "BODUDA",
+  "postalCode": "98863"
+ },
+ {
+  "id": 9434090005,
+  "districtId": 9434090,
+  "districtName": "KAMU TIMUR",
+  "name": "NUWA",
+  "postalCode": ""
+ },
+ {
+  "id": 9434090006,
+  "districtId": 9434090,
+  "districtName": "KAMU TIMUR",
+  "name": "BOKAIBUTU",
+  "postalCode": ""
+ },
+ {
+  "id": 9434090007,
+  "districtId": 9434090,
+  "districtName": "KAMU TIMUR",
+  "name": "DEIYAPA",
+  "postalCode": ""
+ }
+]

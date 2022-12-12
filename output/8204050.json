@@ -1,0 +1,51 @@
+[
+ {
+  "id": 8204050001,
+  "districtId": 8204050,
+  "districtName": "BACAN BARAT",
+  "name": "WIRING YOYOK",
+  "postalCode": ""
+ },
+ {
+  "id": 8204050002,
+  "districtId": 8204050,
+  "districtName": "BACAN BARAT",
+  "name": "TAWABI",
+  "postalCode": "97791"
+ },
+ {
+  "id": 8204050016,
+  "districtId": 8204050,
+  "districtName": "BACAN BARAT",
+  "name": "NONDANG",
+  "postalCode": ""
+ },
+ {
+  "id": 8204050017,
+  "districtId": 8204050,
+  "districtName": "BACAN BARAT",
+  "name": "INDARI",
+  "postalCode": "97791"
+ },
+ {
+  "id": 8204050018,
+  "districtId": 8204050,
+  "districtName": "BACAN BARAT",
+  "name": "KUSUBIBI",
+  "postalCode": "97791"
+ },
+ {
+  "id": 8204050019,
+  "districtId": 8204050,
+  "districtName": "BACAN BARAT",
+  "name": "KOKOTU",
+  "postalCode": "97791"
+ },
+ {
+  "id": 8204050028,
+  "districtId": 8204050,
+  "districtName": "BACAN BARAT",
+  "name": "KOTUNANG",
+  "postalCode": ""
+ }
+]

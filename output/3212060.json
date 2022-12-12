@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3212060008,
+  "districtId": 3212060,
+  "districtName": "BANGODUA",
+  "name": "MULYASARI",
+  "postalCode": "43273"
+ },
+ {
+  "id": 3212060015,
+  "districtId": 3212060,
+  "districtName": "BANGODUA",
+  "name": "BANGODUA",
+  "postalCode": "45272"
+ },
+ {
+  "id": 3212060017,
+  "districtId": 3212060,
+  "districtName": "BANGODUA",
+  "name": "KARANGGETAS",
+  "postalCode": "45272"
+ },
+ {
+  "id": 3212060018,
+  "districtId": 3212060,
+  "districtName": "BANGODUA",
+  "name": "TEGALGIRANG",
+  "postalCode": "45272"
+ },
+ {
+  "id": 3212060019,
+  "districtId": 3212060,
+  "districtName": "BANGODUA",
+  "name": "WANASARI",
+  "postalCode": "43273"
+ },
+ {
+  "id": 3212060020,
+  "districtId": 3212060,
+  "districtName": "BANGODUA",
+  "name": "MALANGSARI",
+  "postalCode": "45272"
+ },
+ {
+  "id": 3212060021,
+  "districtId": 3212060,
+  "districtName": "BANGODUA",
+  "name": "RANCASARI",
+  "postalCode": "45272"
+ }
+]

@@ -1,0 +1,65 @@
+[
+ {
+  "id": 3604100001,
+  "districtId": 3604100,
+  "districtName": "JAWILAN",
+  "name": "PAGINTUNGAN",
+  "postalCode": "42177"
+ },
+ {
+  "id": 3604100002,
+  "districtId": 3604100,
+  "districtName": "JAWILAN",
+  "name": "CEMPLANG",
+  "postalCode": "16630"
+ },
+ {
+  "id": 3604100003,
+  "districtId": 3604100,
+  "districtName": "JAWILAN",
+  "name": "BOJOT",
+  "postalCode": "42177"
+ },
+ {
+  "id": 3604100004,
+  "districtId": 3604100,
+  "districtName": "JAWILAN",
+  "name": "JAWILAN",
+  "postalCode": "42177"
+ },
+ {
+  "id": 3604100005,
+  "districtId": 3604100,
+  "districtName": "JAWILAN",
+  "name": "PASIRBUYUT",
+  "postalCode": "42177"
+ },
+ {
+  "id": 3604100006,
+  "districtId": 3604100,
+  "districtName": "JAWILAN",
+  "name": "MAJASARI",
+  "postalCode": "31124"
+ },
+ {
+  "id": 3604100007,
+  "districtId": 3604100,
+  "districtName": "JAWILAN",
+  "name": "PARAKAN",
+  "postalCode": "16610"
+ },
+ {
+  "id": 3604100008,
+  "districtId": 3604100,
+  "districtName": "JAWILAN",
+  "name": "KAREO",
+  "postalCode": "45468"
+ },
+ {
+  "id": 3604100009,
+  "districtId": 3604100,
+  "districtName": "JAWILAN",
+  "name": "JUNTI",
+  "postalCode": "42177"
+ }
+]

@@ -1,0 +1,58 @@
+[
+ {
+  "id": 9430081001,
+  "districtId": 9430081,
+  "districtName": "KELULOME",
+  "name": "TOLOGI",
+  "postalCode": "99567"
+ },
+ {
+  "id": 9430081002,
+  "districtId": 9430081,
+  "districtName": "KELULOME",
+  "name": "KELULOME",
+  "postalCode": "99567"
+ },
+ {
+  "id": 9430081003,
+  "districtId": 9430081,
+  "districtName": "KELULOME",
+  "name": "WIYAGI",
+  "postalCode": "99567"
+ },
+ {
+  "id": 9430081004,
+  "districtId": 9430081,
+  "districtName": "KELULOME",
+  "name": "WEGENPURA",
+  "postalCode": ""
+ },
+ {
+  "id": 9430081006,
+  "districtId": 9430081,
+  "districtName": "KELULOME",
+  "name": "JUYIGA",
+  "postalCode": ""
+ },
+ {
+  "id": 9430081007,
+  "districtId": 9430081,
+  "districtName": "KELULOME",
+  "name": "WIRINGGAME",
+  "postalCode": ""
+ },
+ {
+  "id": 9430081008,
+  "districtId": 9430081,
+  "districtName": "KELULOME",
+  "name": "LEWINAGI",
+  "postalCode": ""
+ },
+ {
+  "id": 9430081009,
+  "districtId": 9430081,
+  "districtName": "KELULOME",
+  "name": "PERAGIME",
+  "postalCode": ""
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "id": 7316011002,
+  "districtId": 7316011,
+  "districtName": "BUNGIN",
+  "name": "TALLANG RILAU",
+  "postalCode": "91761"
+ },
+ {
+  "id": 7316011005,
+  "districtId": 7316011,
+  "districtName": "BUNGIN",
+  "name": "BULO",
+  "postalCode": "95858"
+ },
+ {
+  "id": 7316011006,
+  "districtId": 7316011,
+  "districtName": "BUNGIN",
+  "name": "BARUKA",
+  "postalCode": "91761"
+ },
+ {
+  "id": 7316011007,
+  "districtId": 7316011,
+  "districtName": "BUNGIN",
+  "name": "BUNGIN",
+  "postalCode": "39262"
+ },
+ {
+  "id": 7316011008,
+  "districtId": 7316011,
+  "districtName": "BUNGIN",
+  "name": "SAWITO",
+  "postalCode": "91761"
+ },
+ {
+  "id": 7316011009,
+  "districtId": 7316011,
+  "districtName": "BUNGIN",
+  "name": "BANUA",
+  "postalCode": "80652"
+ }
+]

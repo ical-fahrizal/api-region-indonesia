@@ -1,0 +1,44 @@
+[
+ {
+  "id": 5304112001,
+  "districtId": 5304112,
+  "districtName": "KOKBAUN",
+  "name": "LOTAS",
+  "postalCode": "85574"
+ },
+ {
+  "id": 5304112002,
+  "districtId": 5304112,
+  "districtName": "KOKBAUN",
+  "name": "SABNALA",
+  "postalCode": ""
+ },
+ {
+  "id": 5304112003,
+  "districtId": 5304112,
+  "districtName": "KOKBAUN",
+  "name": "KOL OTO",
+  "postalCode": ""
+ },
+ {
+  "id": 5304112004,
+  "districtId": 5304112,
+  "districtName": "KOKBAUN",
+  "name": "OBAKI",
+  "postalCode": "85574"
+ },
+ {
+  "id": 5304112005,
+  "districtId": 5304112,
+  "districtName": "KOKBAUN",
+  "name": "BENAHE",
+  "postalCode": ""
+ },
+ {
+  "id": 5304112006,
+  "districtId": 5304112,
+  "districtName": "KOKBAUN",
+  "name": "NITI",
+  "postalCode": "85574"
+ }
+]

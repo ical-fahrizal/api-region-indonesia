@@ -1,0 +1,23 @@
+[
+ {
+  "id": 7312031001,
+  "districtId": 7312031,
+  "districtName": "GANRA",
+  "name": "BELO",
+  "postalCode": "84456"
+ },
+ {
+  "id": 7312031002,
+  "districtId": 7312031,
+  "districtName": "GANRA",
+  "name": "GANRA",
+  "postalCode": "90861"
+ },
+ {
+  "id": 7312031004,
+  "districtId": 7312031,
+  "districtName": "GANRA",
+  "name": "LOMPULLE",
+  "postalCode": "90861"
+ }
+]

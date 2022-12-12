@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3512170001,
+  "districtId": 3512170,
+  "districtName": "BANYUPUTIH",
+  "name": "BANYUPUTIH",
+  "postalCode": "51271"
+ },
+ {
+  "id": 3512170002,
+  "districtId": 3512170,
+  "districtName": "BANYUPUTIH",
+  "name": "SUMBEREJO",
+  "postalCode": "20551"
+ },
+ {
+  "id": 3512170003,
+  "districtId": 3512170,
+  "districtName": "BANYUPUTIH",
+  "name": "SUMBERANYAR",
+  "postalCode": "68374"
+ },
+ {
+  "id": 3512170004,
+  "districtId": 3512170,
+  "districtName": "BANYUPUTIH",
+  "name": "SUMBERWARU",
+  "postalCode": "68374"
+ },
+ {
+  "id": 3512170005,
+  "districtId": 3512170,
+  "districtName": "BANYUPUTIH",
+  "name": "WONOREJO",
+  "postalCode": "21186"
+ }
+]

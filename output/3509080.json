@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3509080001,
+  "districtId": 3509080,
+  "districtName": "MAYANG",
+  "name": "SEPUTIH",
+  "postalCode": "68182"
+ },
+ {
+  "id": 3509080002,
+  "districtId": 3509080,
+  "districtName": "MAYANG",
+  "name": "SIDOMUKTI",
+  "postalCode": "21217"
+ },
+ {
+  "id": 3509080003,
+  "districtId": 3509080,
+  "districtName": "MAYANG",
+  "name": "SUMBER KEJAYAN",
+  "postalCode": "68182"
+ },
+ {
+  "id": 3509080004,
+  "districtId": 3509080,
+  "districtName": "MAYANG",
+  "name": "TEGALREJO",
+  "postalCode": "50733"
+ },
+ {
+  "id": 3509080005,
+  "districtId": 3509080,
+  "districtName": "MAYANG",
+  "name": "TEGALWARU",
+  "postalCode": "41384"
+ },
+ {
+  "id": 3509080006,
+  "districtId": 3509080,
+  "districtName": "MAYANG",
+  "name": "MAYANG",
+  "postalCode": "21183"
+ },
+ {
+  "id": 3509080007,
+  "districtId": 3509080,
+  "districtName": "MAYANG",
+  "name": "MRAWAN",
+  "postalCode": "68182"
+ }
+]

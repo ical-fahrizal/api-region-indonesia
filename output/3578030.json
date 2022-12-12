@@ -1,0 +1,30 @@
+[
+ {
+  "id": 3578030001,
+  "districtId": 3578030,
+  "districtName": "GAYUNGAN",
+  "name": "DUKUH MENANGGAL",
+  "postalCode": "60234"
+ },
+ {
+  "id": 3578030002,
+  "districtId": 3578030,
+  "districtName": "GAYUNGAN",
+  "name": "MENANGGAL",
+  "postalCode": "60234"
+ },
+ {
+  "id": 3578030003,
+  "districtId": 3578030,
+  "districtName": "GAYUNGAN",
+  "name": "GAYUNGAN",
+  "postalCode": "60235"
+ },
+ {
+  "id": 3578030004,
+  "districtId": 3578030,
+  "districtName": "GAYUNGAN",
+  "name": "KETINTANG",
+  "postalCode": "60231"
+ }
+]

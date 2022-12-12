@@ -1,0 +1,79 @@
+[
+ {
+  "id": 5171020001,
+  "districtId": 5171020,
+  "districtName": "DENPASAR TIMUR",
+  "name": "DANGIN PURI KLOD",
+  "postalCode": "80234"
+ },
+ {
+  "id": 5171020002,
+  "districtId": 5171020,
+  "districtName": "DENPASAR TIMUR",
+  "name": "SUMERTA KELOD",
+  "postalCode": ""
+ },
+ {
+  "id": 5171020003,
+  "districtId": 5171020,
+  "districtName": "DENPASAR TIMUR",
+  "name": "KESIMAN",
+  "postalCode": "61375"
+ },
+ {
+  "id": 5171020004,
+  "districtId": 5171020,
+  "districtName": "DENPASAR TIMUR",
+  "name": "KESIMAN PETILAN",
+  "postalCode": "80237"
+ },
+ {
+  "id": 5171020005,
+  "districtId": 5171020,
+  "districtName": "DENPASAR TIMUR",
+  "name": "KESIMAN KERTALANGU",
+  "postalCode": "80237"
+ },
+ {
+  "id": 5171020006,
+  "districtId": 5171020,
+  "districtName": "DENPASAR TIMUR",
+  "name": "SUMERTA",
+  "postalCode": "80235"
+ },
+ {
+  "id": 5171020007,
+  "districtId": 5171020,
+  "districtName": "DENPASAR TIMUR",
+  "name": "SUMERTA KAJA",
+  "postalCode": "80236"
+ },
+ {
+  "id": 5171020008,
+  "districtId": 5171020,
+  "districtName": "DENPASAR TIMUR",
+  "name": "SUMERTA KAUH",
+  "postalCode": "80236"
+ },
+ {
+  "id": 5171020010,
+  "districtId": 5171020,
+  "districtName": "DENPASAR TIMUR",
+  "name": "DANGIN PURI",
+  "postalCode": "80232"
+ },
+ {
+  "id": 5171020014,
+  "districtId": 5171020,
+  "districtName": "DENPASAR TIMUR",
+  "name": "PENATIH",
+  "postalCode": "80238"
+ },
+ {
+  "id": 5171020015,
+  "districtId": 5171020,
+  "districtName": "DENPASAR TIMUR",
+  "name": "PENATIH DANGIN PURI",
+  "postalCode": "80238"
+ }
+]

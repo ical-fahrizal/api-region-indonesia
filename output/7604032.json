@@ -1,0 +1,44 @@
+[
+ {
+  "id": 7604032001,
+  "districtId": 7604032,
+  "districtName": "SAMPAGA",
+  "name": "SALUBARANA",
+  "postalCode": "91563"
+ },
+ {
+  "id": 7604032002,
+  "districtId": 7604032,
+  "districtName": "SAMPAGA",
+  "name": "KALONDING",
+  "postalCode": "91563"
+ },
+ {
+  "id": 7604032003,
+  "districtId": 7604032,
+  "districtName": "SAMPAGA",
+  "name": "TANAMBUAH",
+  "postalCode": ""
+ },
+ {
+  "id": 7604032005,
+  "districtId": 7604032,
+  "districtName": "SAMPAGA",
+  "name": "TARAILU",
+  "postalCode": "91563"
+ },
+ {
+  "id": 7604032006,
+  "districtId": 7604032,
+  "districtName": "SAMPAGA",
+  "name": "SAMPAGA",
+  "postalCode": "91563"
+ },
+ {
+  "id": 7604032007,
+  "districtId": 7604032,
+  "districtName": "SAMPAGA",
+  "name": "LOSSO",
+  "postalCode": "91563"
+ }
+]

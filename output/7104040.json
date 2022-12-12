@@ -1,0 +1,37 @@
+[
+ {
+  "id": 7104040006,
+  "districtId": 7104040,
+  "districtName": "BEO",
+  "name": "BEO",
+  "postalCode": "95881"
+ },
+ {
+  "id": 7104040007,
+  "districtId": 7104040,
+  "districtName": "BEO",
+  "name": "BANTIK",
+  "postalCode": "95752"
+ },
+ {
+  "id": 7104040012,
+  "districtId": 7104040,
+  "districtName": "BEO",
+  "name": "BANTIK LAMA",
+  "postalCode": "95881"
+ },
+ {
+  "id": 7104040013,
+  "districtId": 7104040,
+  "districtName": "BEO",
+  "name": "BEO BARAT",
+  "postalCode": "95881"
+ },
+ {
+  "id": 7104040014,
+  "districtId": 7104040,
+  "districtName": "BEO",
+  "name": "BEO TIMUR",
+  "postalCode": "95881"
+ }
+]

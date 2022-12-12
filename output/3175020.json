@@ -1,0 +1,23 @@
+[
+ {
+  "id": 3175020001,
+  "districtId": 3175020,
+  "districtName": "PADEMANGAN",
+  "name": "PADEMANGAN BARAT",
+  "postalCode": "14420"
+ },
+ {
+  "id": 3175020002,
+  "districtId": 3175020,
+  "districtName": "PADEMANGAN",
+  "name": "PADEMANGAN TIMUR",
+  "postalCode": "14410"
+ },
+ {
+  "id": 3175020003,
+  "districtId": 3175020,
+  "districtName": "PADEMANGAN",
+  "name": "ANCOL",
+  "postalCode": "14430"
+ }
+]

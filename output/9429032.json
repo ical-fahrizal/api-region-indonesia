@@ -1,0 +1,30 @@
+[
+ {
+  "id": 9429032001,
+  "districtId": 9429032,
+  "districtName": "YENGGELO",
+  "name": "MAIMA",
+  "postalCode": "99511"
+ },
+ {
+  "id": 9429032002,
+  "districtId": 9429032,
+  "districtName": "YENGGELO",
+  "name": "NOLO",
+  "postalCode": "99564"
+ },
+ {
+  "id": 9429032003,
+  "districtId": 9429032,
+  "districtName": "YENGGELO",
+  "name": "YENGGELO",
+  "postalCode": "99564"
+ },
+ {
+  "id": 9429032004,
+  "districtId": 9429032,
+  "districtName": "YENGGELO",
+  "name": "WUAREM",
+  "postalCode": "99564"
+ }
+]

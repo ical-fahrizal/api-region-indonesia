@@ -1,0 +1,37 @@
+[
+ {
+  "id": 9402123001,
+  "districtId": 9402123,
+  "districtName": "TAILAREK",
+  "name": "TAILAREK",
+  "postalCode": ""
+ },
+ {
+  "id": 9402123002,
+  "districtId": 9402123,
+  "districtName": "TAILAREK",
+  "name": "BOKIEM",
+  "postalCode": "99566"
+ },
+ {
+  "id": 9402123003,
+  "districtId": 9402123,
+  "districtName": "TAILAREK",
+  "name": "IYORA",
+  "postalCode": "99566"
+ },
+ {
+  "id": 9402123004,
+  "districtId": 9402123,
+  "districtName": "TAILAREK",
+  "name": "BUDLIEM",
+  "postalCode": "99566"
+ },
+ {
+  "id": 9402123005,
+  "districtId": 9402123,
+  "districtName": "TAILAREK",
+  "name": "HULUAIMA",
+  "postalCode": "99566"
+ }
+]

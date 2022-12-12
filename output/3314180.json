@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3314180001,
+  "districtId": 3314180,
+  "districtName": "GESI",
+  "name": "PILANGSARI",
+  "postalCode": "45273"
+ },
+ {
+  "id": 3314180002,
+  "districtId": 3314180,
+  "districtName": "GESI",
+  "name": "TANGGAN",
+  "postalCode": "57262"
+ },
+ {
+  "id": 3314180003,
+  "districtId": 3314180,
+  "districtName": "GESI",
+  "name": "SRAWUNG",
+  "postalCode": "57262"
+ },
+ {
+  "id": 3314180004,
+  "districtId": 3314180,
+  "districtName": "GESI",
+  "name": "GESI",
+  "postalCode": "57262"
+ },
+ {
+  "id": 3314180005,
+  "districtId": 3314180,
+  "districtName": "GESI",
+  "name": "BLANGU",
+  "postalCode": "57262"
+ },
+ {
+  "id": 3314180006,
+  "districtId": 3314180,
+  "districtName": "GESI",
+  "name": "SLENDRO",
+  "postalCode": "57262"
+ },
+ {
+  "id": 3314180007,
+  "districtId": 3314180,
+  "districtName": "GESI",
+  "name": "POLENG",
+  "postalCode": "57262"
+ }
+]

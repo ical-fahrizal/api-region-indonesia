@@ -1,0 +1,44 @@
+[
+ {
+  "id": 7322122001,
+  "districtId": 7322122,
+  "districtName": "RAMPI",
+  "name": "TEDEBOE",
+  "postalCode": "92964"
+ },
+ {
+  "id": 7322122002,
+  "districtId": 7322122,
+  "districtName": "RAMPI",
+  "name": "RAMPI",
+  "postalCode": "92964"
+ },
+ {
+  "id": 7322122003,
+  "districtId": 7322122,
+  "districtName": "RAMPI",
+  "name": "DODOLO",
+  "postalCode": "94653"
+ },
+ {
+  "id": 7322122004,
+  "districtId": 7322122,
+  "districtName": "RAMPI",
+  "name": "ONONDOA",
+  "postalCode": "92964"
+ },
+ {
+  "id": 7322122005,
+  "districtId": 7322122,
+  "districtName": "RAMPI",
+  "name": "SULAKU",
+  "postalCode": "92964"
+ },
+ {
+  "id": 7322122006,
+  "districtId": 7322122,
+  "districtName": "RAMPI",
+  "name": "LEBONI",
+  "postalCode": "94663"
+ }
+]

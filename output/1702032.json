@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1702032001,
+  "districtId": 1702032,
+  "districtName": "BINDU RIANG",
+  "name": "KEPALA CURUP",
+  "postalCode": "39182"
+ },
+ {
+  "id": 1702032002,
+  "districtId": 1702032,
+  "districtName": "BINDU RIANG",
+  "name": "SIMPANG BELITI",
+  "postalCode": "39182"
+ },
+ {
+  "id": 1702032003,
+  "districtId": 1702032,
+  "districtName": "BINDU RIANG",
+  "name": "KAMPUNG JERUK",
+  "postalCode": "39182"
+ },
+ {
+  "id": 1702032004,
+  "districtId": 1702032,
+  "districtName": "BINDU RIANG",
+  "name": "AIR APO",
+  "postalCode": "39182"
+ },
+ {
+  "id": 1702032005,
+  "districtId": 1702032,
+  "districtName": "BINDU RIANG",
+  "name": "TABA PADANG",
+  "postalCode": "39182"
+ }
+]

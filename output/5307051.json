@@ -1,0 +1,37 @@
+[
+ {
+  "id": 5307051001,
+  "districtId": 5307051,
+  "districtName": "KABOLA",
+  "name": "LAWAHING",
+  "postalCode": "85851"
+ },
+ {
+  "id": 5307051002,
+  "districtId": 5307051,
+  "districtName": "KABOLA",
+  "name": "KOPIDIL",
+  "postalCode": "85819"
+ },
+ {
+  "id": 5307051003,
+  "districtId": 5307051,
+  "districtName": "KABOLA",
+  "name": "KABOLA",
+  "postalCode": "85819"
+ },
+ {
+  "id": 5307051004,
+  "districtId": 5307051,
+  "districtName": "KABOLA",
+  "name": "PANTE DEERA",
+  "postalCode": "85819"
+ },
+ {
+  "id": 5307051005,
+  "districtId": 5307051,
+  "districtName": "KABOLA",
+  "name": "ALILA TIMUR",
+  "postalCode": "85851"
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "id": 3202041001,
+  "districtId": 3202041,
+  "districtName": "CIMANGGU",
+  "name": "BOREGAH INDAH",
+  "postalCode": "43178"
+ },
+ {
+  "id": 3202041002,
+  "districtId": 3202041,
+  "districtName": "CIMANGGU",
+  "name": "CIMANGGU",
+  "postalCode": "43262"
+ },
+ {
+  "id": 3202041003,
+  "districtId": 3202041,
+  "districtName": "CIMANGGU",
+  "name": "SUKAMAJU",
+  "postalCode": "22465"
+ },
+ {
+  "id": 3202041004,
+  "districtId": 3202041,
+  "districtName": "CIMANGGU",
+  "name": "SUKAJADI",
+  "postalCode": "24472"
+ },
+ {
+  "id": 3202041005,
+  "districtId": 3202041,
+  "districtName": "CIMANGGU",
+  "name": "KARANGMEKAR",
+  "postalCode": "40523"
+ },
+ {
+  "id": 3202041006,
+  "districtId": 3202041,
+  "districtName": "CIMANGGU",
+  "name": "SUKAMANAH",
+  "postalCode": "43273"
+ }
+]

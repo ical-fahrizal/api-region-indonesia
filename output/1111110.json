@@ -1,0 +1,527 @@
+[
+ {
+  "id": 1111110001,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "GEULUMPANG",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110002,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "BULOH LT",
+  "postalCode": ""
+ },
+ {
+  "id": 1111110003,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "ALUE ABEE",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110004,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "ALUE EUMPOK",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110005,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "ALUE ITAM REUDEUP",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110006,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "BUKET KRUENG",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110007,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "MEUNASAH TEUNGOH LB",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110008,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "KUMBANG LT",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110009,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "ALUE ITAM BAROH",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110010,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "MEURIA",
+  "postalCode": ""
+ },
+ {
+  "id": 1111110011,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "ARONGAN LT",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110012,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "BUKET ME LT",
+  "postalCode": ""
+ },
+ {
+  "id": 1111110013,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "DAYAH LT",
+  "postalCode": ""
+ },
+ {
+  "id": 1111110014,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "KRUENG LT",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110015,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "MEUNASAH TUHA",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110016,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "MEUNASAH RAYEUK LB",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110017,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "MEUCAT",
+  "postalCode": "24152"
+ },
+ {
+  "id": 1111110018,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "ASAN LB",
+  "postalCode": ""
+ },
+ {
+  "id": 1111110019,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "RAWA",
+  "postalCode": "24151"
+ },
+ {
+  "id": 1111110020,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "BABAH GEUDUBANG",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110021,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "MEUNASAH MEUREBO",
+  "postalCode": ""
+ },
+ {
+  "id": 1111110022,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "ULEE GUNONG",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110023,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "TEUPIN KEUBEU",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110024,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "SEUNEUBOK DALAM",
+  "postalCode": "24456"
+ },
+ {
+  "id": 1111110025,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "GRONG GRONG",
+  "postalCode": "24152"
+ },
+ {
+  "id": 1111110026,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "LHOK KAREUNG",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110027,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "COT ASAN",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110028,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "BUKET HAGU",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110030,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "MATA IE",
+  "postalCode": "23764"
+ },
+ {
+  "id": 1111110031,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "MATA U",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110032,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "LHOK SENTANG",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110033,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "ULEE TANOH",
+  "postalCode": "24457"
+ },
+ {
+  "id": 1111110034,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "NGA LT",
+  "postalCode": ""
+ },
+ {
+  "id": 1111110035,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "MEUNASAH JOK",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110036,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "MEUNASAH NGA LB",
+  "postalCode": ""
+ },
+ {
+  "id": 1111110037,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "MATANG MEUNYE",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110038,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "BERINGIN LB",
+  "postalCode": ""
+ },
+ {
+  "id": 1111110039,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "MANYANG",
+  "postalCode": "24184"
+ },
+ {
+  "id": 1111110040,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "BLANG",
+  "postalCode": "24385"
+ },
+ {
+  "id": 1111110041,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "CEUBREK",
+  "postalCode": "24261"
+ },
+ {
+  "id": 1111110042,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "KUTA LHOKSUKON",
+  "postalCode": ""
+ },
+ {
+  "id": 1111110043,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "DAYAH LB",
+  "postalCode": ""
+ },
+ {
+  "id": 1111110044,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "MEUNASAH MATANG TEUNGOH LT",
+  "postalCode": ""
+ },
+ {
+  "id": 1111110045,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "MEUNASAH GEULINGGANG",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110046,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "ULEE BARAT",
+  "postalCode": "24181"
+ },
+ {
+  "id": 1111110047,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "PULO DULANG",
+  "postalCode": ""
+ },
+ {
+  "id": 1111110048,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "MEUNASAH TUTONG",
+  "postalCode": "23657"
+ },
+ {
+  "id": 1111110049,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "MEUNASAH GEUMATA",
+  "postalCode": ""
+ },
+ {
+  "id": 1111110050,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "MEUNASAH PANTE",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111110051,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "TRIENG MATANG UBI",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110052,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "MEUNYE MATANG UBI",
+  "postalCode": ""
+ },
+ {
+  "id": 1111110053,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "BLANG RUBEK",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110054,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "ALUE BUKET",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110055,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "MEUNASAH REUDEUP",
+  "postalCode": "24263"
+ },
+ {
+  "id": 1111110056,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "NGA MATANG UBI",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110057,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "BUKET SENTANG",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110058,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "BLANG AMAN",
+  "postalCode": ""
+ },
+ {
+  "id": 1111110059,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "COT U SIBAK",
+  "postalCode": "24261"
+ },
+ {
+  "id": 1111110060,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "BINTANG HU",
+  "postalCode": "24152"
+ },
+ {
+  "id": 1111110061,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "COT ARA",
+  "postalCode": "24392"
+ },
+ {
+  "id": 1111110062,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "COT GEULUMPANG AB",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110063,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "ABEUK LEUPEN",
+  "postalCode": ""
+ },
+ {
+  "id": 1111110064,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "MATANG PUPANJI AB",
+  "postalCode": ""
+ },
+ {
+  "id": 1111110065,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "MATANG TEUNGOH AB",
+  "postalCode": ""
+ },
+ {
+  "id": 1111110066,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "MEUNASAH ASAN AB",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110067,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "RANTO",
+  "postalCode": "24372"
+ },
+ {
+  "id": 1111110068,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "KEUTAPANG",
+  "postalCode": "24171"
+ },
+ {
+  "id": 1111110069,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "ALUE MUDEM",
+  "postalCode": ""
+ },
+ {
+  "id": 1111110070,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "R A M B O T",
+  "postalCode": ""
+ },
+ {
+  "id": 1111110071,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "ARA AB",
+  "postalCode": ""
+ },
+ {
+  "id": 1111110072,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "MEUNASAH ALUE DRIEN LB",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110073,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "MANCANG",
+  "postalCode": "24151"
+ },
+ {
+  "id": 1111110074,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "LEUBOK AB",
+  "postalCode": ""
+ },
+ {
+  "id": 1111110075,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "TRIENG PANTANG",
+  "postalCode": "24382"
+ },
+ {
+  "id": 1111110076,
+  "districtId": 1111110,
+  "districtName": "LHOKSUKON",
+  "name": "MEUNASAH ARONGAN AB",
+  "postalCode": "24382"
+ }
+]

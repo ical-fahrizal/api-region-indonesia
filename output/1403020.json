@@ -1,0 +1,100 @@
+[
+ {
+  "id": 1403020001,
+  "districtId": 1403020,
+  "districtName": "RETEH",
+  "name": "SANGLAR",
+  "postalCode": "29273"
+ },
+ {
+  "id": 1403020002,
+  "districtId": 1403020,
+  "districtName": "RETEH",
+  "name": "PULAU KECIL",
+  "postalCode": "29273"
+ },
+ {
+  "id": 1403020003,
+  "districtId": 1403020,
+  "districtName": "RETEH",
+  "name": "PULAU KIJANG",
+  "postalCode": "29273"
+ },
+ {
+  "id": 1403020004,
+  "districtId": 1403020,
+  "districtName": "RETEH",
+  "name": "SUNGAI UNDAN",
+  "postalCode": "29273"
+ },
+ {
+  "id": 1403020005,
+  "districtId": 1403020,
+  "districtName": "RETEH",
+  "name": "SUNGAI TERAB",
+  "postalCode": ""
+ },
+ {
+  "id": 1403020010,
+  "districtId": 1403020,
+  "districtName": "RETEH",
+  "name": "SEBERANG SANGLAR",
+  "postalCode": "29273"
+ },
+ {
+  "id": 1403020011,
+  "districtId": 1403020,
+  "districtName": "RETEH",
+  "name": "MEKAR SARI",
+  "postalCode": "21261"
+ },
+ {
+  "id": 1403020012,
+  "districtId": 1403020,
+  "districtName": "RETEH",
+  "name": "SEBERANG PULAU KIJANG",
+  "postalCode": "29273"
+ },
+ {
+  "id": 1403020013,
+  "districtId": 1403020,
+  "districtName": "RETEH",
+  "name": "SUNGAI ASAM",
+  "postalCode": "25584"
+ },
+ {
+  "id": 1403020014,
+  "districtId": 1403020,
+  "districtName": "RETEH",
+  "name": "PULAU RUKU",
+  "postalCode": "29273"
+ },
+ {
+  "id": 1403020015,
+  "districtId": 1403020,
+  "districtName": "RETEH",
+  "name": "METRO",
+  "postalCode": "29273"
+ },
+ {
+  "id": 1403020016,
+  "districtId": 1403020,
+  "districtName": "RETEH",
+  "name": "MADANI",
+  "postalCode": "29273"
+ },
+ {
+  "id": 1403020017,
+  "districtId": 1403020,
+  "districtName": "RETEH",
+  "name": "TANJUNG LABUH",
+  "postalCode": "29273"
+ },
+ {
+  "id": 1403020018,
+  "districtId": 1403020,
+  "districtName": "RETEH",
+  "name": "SUNGAI MAHANG",
+  "postalCode": "29273"
+ }
+]

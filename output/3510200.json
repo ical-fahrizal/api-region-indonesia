@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3510200001,
+  "districtId": 3510200,
+  "districtName": "KALIPURO",
+  "name": "BULUSARI",
+  "postalCode": "34161"
+ },
+ {
+  "id": 3510200004,
+  "districtId": 3510200,
+  "districtName": "KALIPURO",
+  "name": "KELIR",
+  "postalCode": "68455"
+ },
+ {
+  "id": 3510200005,
+  "districtId": 3510200,
+  "districtName": "KALIPURO",
+  "name": "KALIPURO",
+  "postalCode": "68455"
+ },
+ {
+  "id": 3510200006,
+  "districtId": 3510200,
+  "districtName": "KALIPURO",
+  "name": "KLATAK",
+  "postalCode": "68421"
+ },
+ {
+  "id": 3510200007,
+  "districtId": 3510200,
+  "districtName": "KALIPURO",
+  "name": "KETAPANG",
+  "postalCode": "35596"
+ },
+ {
+  "id": 3510200008,
+  "districtId": 3510200,
+  "districtName": "KALIPURO",
+  "name": "GOMBENG SARI",
+  "postalCode": ""
+ },
+ {
+  "id": 3510200009,
+  "districtId": 3510200,
+  "districtName": "KALIPURO",
+  "name": "BULUSAN",
+  "postalCode": "57464"
+ }
+]

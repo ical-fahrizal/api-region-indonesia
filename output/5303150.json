@@ -1,0 +1,51 @@
+[
+ {
+  "id": 5303150001,
+  "districtId": 5303150,
+  "districtName": "SULAMU",
+  "name": "SULAMU",
+  "postalCode": "85368"
+ },
+ {
+  "id": 5303150002,
+  "districtId": 5303150,
+  "districtName": "SULAMU",
+  "name": "PITAI",
+  "postalCode": "85368"
+ },
+ {
+  "id": 5303150003,
+  "districtId": 5303150,
+  "districtName": "SULAMU",
+  "name": "PARITI",
+  "postalCode": "85368"
+ },
+ {
+  "id": 5303150004,
+  "districtId": 5303150,
+  "districtName": "SULAMU",
+  "name": "OETETA",
+  "postalCode": "85368"
+ },
+ {
+  "id": 5303150005,
+  "districtId": 5303150,
+  "districtName": "SULAMU",
+  "name": "BIPOLO",
+  "postalCode": "85368"
+ },
+ {
+  "id": 5303150006,
+  "districtId": 5303150,
+  "districtName": "SULAMU",
+  "name": "PANTULAN",
+  "postalCode": "85368"
+ },
+ {
+  "id": 5303150007,
+  "districtId": 5303150,
+  "districtName": "SULAMU",
+  "name": "PANTAI BERINGIN",
+  "postalCode": "85368"
+ }
+]

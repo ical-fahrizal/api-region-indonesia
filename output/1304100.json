@@ -1,0 +1,51 @@
+[
+ {
+  "id": 1304100001,
+  "districtId": 1304100,
+  "districtName": "KOTO TUJUH",
+  "name": "LIMO KOTO",
+  "postalCode": "26381"
+ },
+ {
+  "id": 1304100002,
+  "districtId": 1304100,
+  "districtName": "KOTO TUJUH",
+  "name": "PADANG LAWEH",
+  "postalCode": "27562"
+ },
+ {
+  "id": 1304100003,
+  "districtId": 1304100,
+  "districtName": "KOTO TUJUH",
+  "name": "TANJUNG",
+  "postalCode": "24562"
+ },
+ {
+  "id": 1304100004,
+  "districtId": 1304100,
+  "districtName": "KOTO TUJUH",
+  "name": "PALALUAR",
+  "postalCode": "27562"
+ },
+ {
+  "id": 1304100005,
+  "districtId": 1304100,
+  "districtName": "KOTO TUJUH",
+  "name": "GUGUK",
+  "postalCode": "27562"
+ },
+ {
+  "id": 1304100006,
+  "districtId": 1304100,
+  "districtName": "KOTO TUJUH",
+  "name": "BUKIT BUAL",
+  "postalCode": "27562"
+ },
+ {
+  "id": 1304100007,
+  "districtId": 1304100,
+  "districtName": "KOTO TUJUH",
+  "name": "PADANG LAWEH SELATAN",
+  "postalCode": ""
+ }
+]

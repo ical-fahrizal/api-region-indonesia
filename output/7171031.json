@@ -1,0 +1,37 @@
+[
+ {
+  "id": 7171031001,
+  "districtId": 7171031,
+  "districtName": "TIKALA",
+  "name": "BANJER",
+  "postalCode": "95125"
+ },
+ {
+  "id": 7171031002,
+  "districtId": 7171031,
+  "districtName": "TIKALA",
+  "name": "TIKALA BARU",
+  "postalCode": "95126"
+ },
+ {
+  "id": 7171031003,
+  "districtId": 7171031,
+  "districtName": "TIKALA",
+  "name": "PAAL IV",
+  "postalCode": "95129"
+ },
+ {
+  "id": 7171031004,
+  "districtId": 7171031,
+  "districtName": "TIKALA",
+  "name": "TAAS",
+  "postalCode": "95129"
+ },
+ {
+  "id": 7171031009,
+  "districtId": 7171031,
+  "districtName": "TIKALA",
+  "name": "TIKALA ARES",
+  "postalCode": "95124"
+ }
+]

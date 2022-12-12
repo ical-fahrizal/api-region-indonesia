@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3401080001,
+  "districtId": 3401080,
+  "districtName": "KOKAP",
+  "name": "HARGOMULYO",
+  "postalCode": "34382"
+ },
+ {
+  "id": 3401080002,
+  "districtId": 3401080,
+  "districtName": "KOKAP",
+  "name": "HARGOREJO",
+  "postalCode": "57672"
+ },
+ {
+  "id": 3401080003,
+  "districtId": 3401080,
+  "districtName": "KOKAP",
+  "name": "HARGOWILIS",
+  "postalCode": "55653"
+ },
+ {
+  "id": 3401080004,
+  "districtId": 3401080,
+  "districtName": "KOKAP",
+  "name": "KALIREJO",
+  "postalCode": "35353"
+ },
+ {
+  "id": 3401080005,
+  "districtId": 3401080,
+  "districtName": "KOKAP",
+  "name": "HARGOTIRTO",
+  "postalCode": "55653"
+ }
+]

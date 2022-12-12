@@ -1,0 +1,30 @@
+[
+ {
+  "id": 3578130001,
+  "districtId": 3578130,
+  "districtName": "WIYUNG",
+  "name": "BALAS KLUMPRIK",
+  "postalCode": "60222"
+ },
+ {
+  "id": 3578130002,
+  "districtId": 3578130,
+  "districtName": "WIYUNG",
+  "name": "BABATAN",
+  "postalCode": "31593"
+ },
+ {
+  "id": 3578130003,
+  "districtId": 3578130,
+  "districtName": "WIYUNG",
+  "name": "WIYUNG",
+  "postalCode": "60228"
+ },
+ {
+  "id": 3578130004,
+  "districtId": 3578130,
+  "districtName": "WIYUNG",
+  "name": "JAJAR TUNGGAL",
+  "postalCode": ""
+ }
+]

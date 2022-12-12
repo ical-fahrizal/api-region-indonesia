@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1305081001,
+  "districtId": 1305081,
+  "districtName": "LINTAU BUO UTARA",
+  "name": "TEPI SELO",
+  "postalCode": ""
+ },
+ {
+  "id": 1305081002,
+  "districtId": 1305081,
+  "districtName": "LINTAU BUO UTARA",
+  "name": "LUBUAK JANTAN",
+  "postalCode": ""
+ },
+ {
+  "id": 1305081003,
+  "districtId": 1305081,
+  "districtName": "LINTAU BUO UTARA",
+  "name": "BALAI TANGAH",
+  "postalCode": "27292"
+ },
+ {
+  "id": 1305081004,
+  "districtId": 1305081,
+  "districtName": "LINTAU BUO UTARA",
+  "name": "BATU BULEK",
+  "postalCode": "27292"
+ },
+ {
+  "id": 1305081005,
+  "districtId": 1305081,
+  "districtName": "LINTAU BUO UTARA",
+  "name": "TANJUANG BONAI",
+  "postalCode": ""
+ }
+]

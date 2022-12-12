@@ -1,0 +1,44 @@
+[
+ {
+  "id": 7412010,
+  "regencieId": 7412,
+  "regencieName": "KABUPATEN KONAWE KEPULAUAN",
+  "name": "WAWONII TENGGARA"
+ },
+ {
+  "id": 7412020,
+  "regencieId": 7412,
+  "regencieName": "KABUPATEN KONAWE KEPULAUAN",
+  "name": "WAWONII TIMUR"
+ },
+ {
+  "id": 7412030,
+  "regencieId": 7412,
+  "regencieName": "KABUPATEN KONAWE KEPULAUAN",
+  "name": "WAWONII TIMUR LAUT"
+ },
+ {
+  "id": 7412040,
+  "regencieId": 7412,
+  "regencieName": "KABUPATEN KONAWE KEPULAUAN",
+  "name": "WAWONII UTARA"
+ },
+ {
+  "id": 7412050,
+  "regencieId": 7412,
+  "regencieName": "KABUPATEN KONAWE KEPULAUAN",
+  "name": "WAWONII SELATAN"
+ },
+ {
+  "id": 7412060,
+  "regencieId": 7412,
+  "regencieName": "KABUPATEN KONAWE KEPULAUAN",
+  "name": "WAWONII TENGAH"
+ },
+ {
+  "id": 7412070,
+  "regencieId": 7412,
+  "regencieName": "KABUPATEN KONAWE KEPULAUAN",
+  "name": "WAWONII BARAT"
+ }
+]

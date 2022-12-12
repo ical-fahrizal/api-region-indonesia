@@ -1,0 +1,44 @@
+[
+ {
+  "id": 3578110001,
+  "districtId": 3578110,
+  "districtName": "WONOKROMO",
+  "name": "SAWUNGGALING",
+  "postalCode": "60242"
+ },
+ {
+  "id": 3578110002,
+  "districtId": 3578110,
+  "districtName": "WONOKROMO",
+  "name": "WONOKROMO",
+  "postalCode": "54352"
+ },
+ {
+  "id": 3578110003,
+  "districtId": 3578110,
+  "districtName": "WONOKROMO",
+  "name": "JAGIR",
+  "postalCode": "63264"
+ },
+ {
+  "id": 3578110004,
+  "districtId": 3578110,
+  "districtName": "WONOKROMO",
+  "name": "NGAGELREJO",
+  "postalCode": "60245"
+ },
+ {
+  "id": 3578110005,
+  "districtId": 3578110,
+  "districtName": "WONOKROMO",
+  "name": "NGAGEL",
+  "postalCode": "59158"
+ },
+ {
+  "id": 3578110006,
+  "districtId": 3578110,
+  "districtName": "WONOKROMO",
+  "name": "DARMO",
+  "postalCode": "31419"
+ }
+]

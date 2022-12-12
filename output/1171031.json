@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1171031001,
+  "districtId": 1171031,
+  "districtName": "KUTA RAJA",
+  "name": "LAMPASEH KOTA",
+  "postalCode": "23231"
+ },
+ {
+  "id": 1171031002,
+  "districtId": 1171031,
+  "districtName": "KUTA RAJA",
+  "name": "MERDUATI",
+  "postalCode": "23242"
+ },
+ {
+  "id": 1171031003,
+  "districtId": 1171031,
+  "districtName": "KUTA RAJA",
+  "name": "KEUDAH",
+  "postalCode": "23129"
+ },
+ {
+  "id": 1171031004,
+  "districtId": 1171031,
+  "districtName": "KUTA RAJA",
+  "name": "PEULANGGAHAN",
+  "postalCode": "23129"
+ },
+ {
+  "id": 1171031005,
+  "districtId": 1171031,
+  "districtName": "KUTA RAJA",
+  "name": "GAMPONG JAWA",
+  "postalCode": "24454"
+ },
+ {
+  "id": 1171031006,
+  "districtId": 1171031,
+  "districtName": "KUTA RAJA",
+  "name": "GAMPONG PANDE",
+  "postalCode": "23128"
+ }
+]

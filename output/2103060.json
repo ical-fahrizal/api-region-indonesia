@@ -1,0 +1,51 @@
+[
+ {
+  "id": 2103060001,
+  "districtId": 2103060,
+  "districtName": "SERASAN",
+  "name": "KAMPUNG HILIR",
+  "postalCode": "29781"
+ },
+ {
+  "id": 2103060002,
+  "districtId": 2103060,
+  "districtName": "SERASAN",
+  "name": "SERASAN",
+  "postalCode": "29781"
+ },
+ {
+  "id": 2103060005,
+  "districtId": 2103060,
+  "districtName": "SERASAN",
+  "name": "BATU BERIAN",
+  "postalCode": "29781"
+ },
+ {
+  "id": 2103060006,
+  "districtId": 2103060,
+  "districtName": "SERASAN",
+  "name": "TANJUNG SETELUNG",
+  "postalCode": "29781"
+ },
+ {
+  "id": 2103060007,
+  "districtId": 2103060,
+  "districtName": "SERASAN",
+  "name": "TANJUNG BALAU",
+  "postalCode": "29781"
+ },
+ {
+  "id": 2103060008,
+  "districtId": 2103060,
+  "districtName": "SERASAN",
+  "name": "PANGKALAN",
+  "postalCode": "24477"
+ },
+ {
+  "id": 2103060009,
+  "districtId": 2103060,
+  "districtName": "SERASAN",
+  "name": "JERMALIK",
+  "postalCode": ""
+ }
+]

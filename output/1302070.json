@@ -1,0 +1,86 @@
+[
+ {
+  "id": 1302070001,
+  "districtId": 1302070,
+  "districtName": "SUTERA",
+  "name": "AMPING PARAK",
+  "postalCode": "25662"
+ },
+ {
+  "id": 1302070002,
+  "districtId": 1302070,
+  "districtName": "SUTERA",
+  "name": "SURANTIH",
+  "postalCode": "25662"
+ },
+ {
+  "id": 1302070003,
+  "districtId": 1302070,
+  "districtName": "SUTERA",
+  "name": "TARATAK",
+  "postalCode": "25517"
+ },
+ {
+  "id": 1302070004,
+  "districtId": 1302070,
+  "districtName": "SUTERA",
+  "name": "AMPING PARAK TIMUR",
+  "postalCode": "25662"
+ },
+ {
+  "id": 1302070005,
+  "districtId": 1302070,
+  "districtName": "SUTERA",
+  "name": "AUR DURI SURANTIH",
+  "postalCode": "25662"
+ },
+ {
+  "id": 1302070006,
+  "districtId": 1302070,
+  "districtName": "SUTERA",
+  "name": "RAWANG GUNUNG MALELO SURANTIH",
+  "postalCode": ""
+ },
+ {
+  "id": 1302070007,
+  "districtId": 1302070,
+  "districtName": "SUTERA",
+  "name": "KOTO NAN TIGO SELATAN SURANTIH",
+  "postalCode": "25662"
+ },
+ {
+  "id": 1302070008,
+  "districtId": 1302070,
+  "districtName": "SUTERA",
+  "name": "KOTO NAN TIGO UTARA SURANTIH",
+  "postalCode": "25662"
+ },
+ {
+  "id": 1302070009,
+  "districtId": 1302070,
+  "districtName": "SUTERA",
+  "name": "GANTIANG MUDIAK SELATAN SURANTIH",
+  "postalCode": ""
+ },
+ {
+  "id": 1302070010,
+  "districtId": 1302070,
+  "districtName": "SUTERA",
+  "name": "GANTIANG MUDIAK UTARA SURANTIH",
+  "postalCode": ""
+ },
+ {
+  "id": 1302070011,
+  "districtId": 1302070,
+  "districtName": "SUTERA",
+  "name": "LANSANO TARATAK",
+  "postalCode": "25662"
+ },
+ {
+  "id": 1302070012,
+  "districtId": 1302070,
+  "districtName": "SUTERA",
+  "name": "KOTO TARATAK",
+  "postalCode": "25662"
+ }
+]

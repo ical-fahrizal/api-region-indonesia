@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1802113001,
+  "districtId": 1802113,
+  "districtName": "KELUMBAYAN BARAT",
+  "name": "SIDOHARJO",
+  "postalCode": "30975"
+ },
+ {
+  "id": 1802113002,
+  "districtId": 1802113,
+  "districtName": "KELUMBAYAN BARAT",
+  "name": "LENGKUKAI",
+  "postalCode": "35379"
+ },
+ {
+  "id": 1802113003,
+  "districtId": 1802113,
+  "districtName": "KELUMBAYAN BARAT",
+  "name": "MERBAU",
+  "postalCode": "28383"
+ },
+ {
+  "id": 1802113004,
+  "districtId": 1802113,
+  "districtName": "KELUMBAYAN BARAT",
+  "name": "BATU PATAH",
+  "postalCode": "35379"
+ },
+ {
+  "id": 1802113005,
+  "districtId": 1802113,
+  "districtName": "KELUMBAYAN BARAT",
+  "name": "PURWOSARI",
+  "postalCode": "24582"
+ },
+ {
+  "id": 1802113006,
+  "districtId": 1802113,
+  "districtName": "KELUMBAYAN BARAT",
+  "name": "MARGAMULYA",
+  "postalCode": "45255"
+ }
+]

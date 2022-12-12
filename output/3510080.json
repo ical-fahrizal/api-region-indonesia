@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3510080001,
+  "districtId": 3510080,
+  "districtName": "GLENMORE",
+  "name": "KARANGHARJO",
+  "postalCode": "59273"
+ },
+ {
+  "id": 3510080002,
+  "districtId": 3510080,
+  "districtName": "GLENMORE",
+  "name": "TULUNGREJO",
+  "postalCode": "66275"
+ },
+ {
+  "id": 3510080003,
+  "districtId": 3510080,
+  "districtName": "GLENMORE",
+  "name": "SUMBERGONDO",
+  "postalCode": "68466"
+ },
+ {
+  "id": 3510080004,
+  "districtId": 3510080,
+  "districtName": "GLENMORE",
+  "name": "BUMIHARJO",
+  "postalCode": "34767"
+ },
+ {
+  "id": 3510080005,
+  "districtId": 3510080,
+  "districtName": "GLENMORE",
+  "name": "SEPANJANG",
+  "postalCode": "57792"
+ },
+ {
+  "id": 3510080006,
+  "districtId": 3510080,
+  "districtName": "GLENMORE",
+  "name": "TEGALHARJO",
+  "postalCode": "57663"
+ },
+ {
+  "id": 3510080007,
+  "districtId": 3510080,
+  "districtName": "GLENMORE",
+  "name": "MARGOMULYO",
+  "postalCode": "35679"
+ }
+]

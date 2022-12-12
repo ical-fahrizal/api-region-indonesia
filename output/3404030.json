@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3404030001,
+  "districtId": 3404030,
+  "districtName": "SEYEGAN",
+  "name": "MARGOLUWIH",
+  "postalCode": "55561"
+ },
+ {
+  "id": 3404030002,
+  "districtId": 3404030,
+  "districtName": "SEYEGAN",
+  "name": "MARGODADI",
+  "postalCode": "32386"
+ },
+ {
+  "id": 3404030003,
+  "districtId": 3404030,
+  "districtName": "SEYEGAN",
+  "name": "MARGOMULYO",
+  "postalCode": "35679"
+ },
+ {
+  "id": 3404030004,
+  "districtId": 3404030,
+  "districtName": "SEYEGAN",
+  "name": "MARGOAGUNG",
+  "postalCode": "55561"
+ },
+ {
+  "id": 3404030005,
+  "districtId": 3404030,
+  "districtName": "SEYEGAN",
+  "name": "MARGOKATON",
+  "postalCode": "55561"
+ }
+]

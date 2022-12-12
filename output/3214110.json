@@ -1,0 +1,65 @@
+[
+ {
+  "id": 3214110001,
+  "districtId": 3214110,
+  "districtName": "CAMPAKA",
+  "name": "CIRENDE",
+  "postalCode": "41181"
+ },
+ {
+  "id": 3214110011,
+  "districtId": 3214110,
+  "districtName": "CAMPAKA",
+  "name": "CAMPAKA",
+  "postalCode": "40184"
+ },
+ {
+  "id": 3214110012,
+  "districtId": 3214110,
+  "districtName": "CAMPAKA",
+  "name": "CAMPAKASARI",
+  "postalCode": "46475"
+ },
+ {
+  "id": 3214110023,
+  "districtId": 3214110,
+  "districtName": "CAMPAKA",
+  "name": "CIJUNTI",
+  "postalCode": "41181"
+ },
+ {
+  "id": 3214110024,
+  "districtId": 3214110,
+  "districtName": "CAMPAKA",
+  "name": "CISAAT",
+  "postalCode": "41181"
+ },
+ {
+  "id": 3214110025,
+  "districtId": 3214110,
+  "districtName": "CAMPAKA",
+  "name": "CIMAHI",
+  "postalCode": "41181"
+ },
+ {
+  "id": 3214110026,
+  "districtId": 3214110,
+  "districtName": "CAMPAKA",
+  "name": "CIKUMPAY",
+  "postalCode": "41181"
+ },
+ {
+  "id": 3214110027,
+  "districtId": 3214110,
+  "districtName": "CAMPAKA",
+  "name": "CIJAYA",
+  "postalCode": "41181"
+ },
+ {
+  "id": 3214110028,
+  "districtId": 3214110,
+  "districtName": "CAMPAKA",
+  "name": "KERTAMUKTI",
+  "postalCode": "41181"
+ }
+]

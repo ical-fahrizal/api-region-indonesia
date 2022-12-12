@@ -1,0 +1,58 @@
+[
+ {
+  "id": 9418060002,
+  "districtId": 9418060,
+  "districtName": "KUBU",
+  "name": "ARUKU",
+  "postalCode": "97755"
+ },
+ {
+  "id": 9418060005,
+  "districtId": 9418060,
+  "districtName": "KUBU",
+  "name": "KUBUGIWA",
+  "postalCode": "99562"
+ },
+ {
+  "id": 9418060010,
+  "districtId": 9418060,
+  "districtName": "KUBU",
+  "name": "MINAGI",
+  "postalCode": "99562"
+ },
+ {
+  "id": 9418060011,
+  "districtId": 9418060,
+  "districtName": "KUBU",
+  "name": "MENGGENAGI",
+  "postalCode": "99562"
+ },
+ {
+  "id": 9418060012,
+  "districtId": 9418060,
+  "districtName": "KUBU",
+  "name": "KALEWI",
+  "postalCode": "99562"
+ },
+ {
+  "id": 9418060014,
+  "districtId": 9418060,
+  "districtName": "KUBU",
+  "name": "TIYANGUPUR",
+  "postalCode": ""
+ },
+ {
+  "id": 9418060015,
+  "districtId": 9418060,
+  "districtName": "KUBU",
+  "name": "NUMBUGAWI",
+  "postalCode": ""
+ },
+ {
+  "id": 9418060026,
+  "districtId": 9418060,
+  "districtName": "KUBU",
+  "name": "GENIPUR",
+  "postalCode": ""
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1208040001,
+  "districtId": 1208040,
+  "districtName": "SEI KEPAYANG",
+  "name": "PERBANGUNAN",
+  "postalCode": "21381"
+ },
+ {
+  "id": 1208040002,
+  "districtId": 1208040,
+  "districtName": "SEI KEPAYANG",
+  "name": "PERTAHANAN",
+  "postalCode": "21381"
+ },
+ {
+  "id": 1208040003,
+  "districtId": 1208040,
+  "districtName": "SEI KEPAYANG",
+  "name": "BANGUN BARU",
+  "postalCode": "21381"
+ },
+ {
+  "id": 1208040005,
+  "districtId": 1208040,
+  "districtName": "SEI KEPAYANG",
+  "name": "SEI PAHAM",
+  "postalCode": "21381"
+ },
+ {
+  "id": 1208040006,
+  "districtId": 1208040,
+  "districtName": "SEI KEPAYANG",
+  "name": "SEI KEPAYANG KANAN",
+  "postalCode": "21381"
+ },
+ {
+  "id": 1208040007,
+  "districtId": 1208040,
+  "districtName": "SEI KEPAYANG",
+  "name": "SEI KEPAYANG TENGAH",
+  "postalCode": "21381"
+ }
+]

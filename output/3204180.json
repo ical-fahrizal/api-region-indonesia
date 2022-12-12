@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3204180004,
+  "districtId": 3204180,
+  "districtName": "KATAPANG",
+  "name": "GANDASARI",
+  "postalCode": "17530"
+ },
+ {
+  "id": 3204180005,
+  "districtId": 3204180,
+  "districtName": "KATAPANG",
+  "name": "KATAPANG",
+  "postalCode": "40921"
+ },
+ {
+  "id": 3204180006,
+  "districtId": 3204180,
+  "districtName": "KATAPANG",
+  "name": "CILAMPENI",
+  "postalCode": "40921"
+ },
+ {
+  "id": 3204180007,
+  "districtId": 3204180,
+  "districtName": "KATAPANG",
+  "name": "PANGAUBAN",
+  "postalCode": "40561"
+ },
+ {
+  "id": 3204180008,
+  "districtId": 3204180,
+  "districtName": "KATAPANG",
+  "name": "BANYUSARI",
+  "postalCode": "40921"
+ },
+ {
+  "id": 3204180009,
+  "districtId": 3204180,
+  "districtName": "KATAPANG",
+  "name": "SANGKANHURIP",
+  "postalCode": "40921"
+ },
+ {
+  "id": 3204180010,
+  "districtId": 3204180,
+  "districtName": "KATAPANG",
+  "name": "SUKAMUKTI",
+  "postalCode": "44191"
+ }
+]

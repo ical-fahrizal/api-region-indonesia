@@ -1,0 +1,37 @@
+[
+ {
+  "id": 5302035001,
+  "districtId": 5302035,
+  "districtName": "NGADU NGALA",
+  "name": "PRAI WITU",
+  "postalCode": "87172"
+ },
+ {
+  "id": 5302035002,
+  "districtId": 5302035,
+  "districtName": "NGADU NGALA",
+  "name": "KAKAHA",
+  "postalCode": "87172"
+ },
+ {
+  "id": 5302035003,
+  "districtId": 5302035,
+  "districtName": "NGADU NGALA",
+  "name": "HAMBA WUTANG",
+  "postalCode": ""
+ },
+ {
+  "id": 5302035004,
+  "districtId": 5302035,
+  "districtName": "NGADU NGALA",
+  "name": "KABANDA",
+  "postalCode": "87172"
+ },
+ {
+  "id": 5302035005,
+  "districtId": 5302035,
+  "districtName": "NGADU NGALA",
+  "name": "PRAU RAMING",
+  "postalCode": ""
+ }
+]

@@ -1,0 +1,79 @@
+[
+ {
+  "id": 1703090001,
+  "districtId": 1703090,
+  "districtName": "KETAHUN",
+  "name": "URAI",
+  "postalCode": "38361"
+ },
+ {
+  "id": 1703090007,
+  "districtId": 1703090,
+  "districtName": "KETAHUN",
+  "name": "PASAR KETAHUN",
+  "postalCode": "38361"
+ },
+ {
+  "id": 1703090008,
+  "districtId": 1703090,
+  "districtName": "KETAHUN",
+  "name": "GIRI KENCANA",
+  "postalCode": "38361"
+ },
+ {
+  "id": 1703090011,
+  "districtId": 1703090,
+  "districtName": "KETAHUN",
+  "name": "KUALA LELANGI",
+  "postalCode": ""
+ },
+ {
+  "id": 1703090012,
+  "districtId": 1703090,
+  "districtName": "KETAHUN",
+  "name": "TALANG BARU",
+  "postalCode": "32277"
+ },
+ {
+  "id": 1703090013,
+  "districtId": 1703090,
+  "districtName": "KETAHUN",
+  "name": "DUSUN RAJA",
+  "postalCode": "38361"
+ },
+ {
+  "id": 1703090014,
+  "districtId": 1703090,
+  "districtName": "KETAHUN",
+  "name": "FAJAR BARU",
+  "postalCode": "38361"
+ },
+ {
+  "id": 1703090015,
+  "districtId": 1703090,
+  "districtName": "KETAHUN",
+  "name": "LUBUK MINDAI",
+  "postalCode": "38361"
+ },
+ {
+  "id": 1703090024,
+  "districtId": 1703090,
+  "districtName": "KETAHUN",
+  "name": "MELATI HARJO",
+  "postalCode": ""
+ },
+ {
+  "id": 1703090025,
+  "districtId": 1703090,
+  "districtName": "KETAHUN",
+  "name": "BUKIT INDAH",
+  "postalCode": "29352"
+ },
+ {
+  "id": 1703090026,
+  "districtId": 1703090,
+  "districtName": "KETAHUN",
+  "name": "BUKIT TINGGI",
+  "postalCode": "22756"
+ }
+]

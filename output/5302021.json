@@ -1,0 +1,44 @@
+[
+ {
+  "id": 5302021001,
+  "districtId": 5302021,
+  "districtName": "PINUPAHAR",
+  "name": "WAHANG",
+  "postalCode": "87161"
+ },
+ {
+  "id": 5302021002,
+  "districtId": 5302021,
+  "districtName": "PINUPAHAR",
+  "name": "TAWUI",
+  "postalCode": "87161"
+ },
+ {
+  "id": 5302021003,
+  "districtId": 5302021,
+  "districtName": "PINUPAHAR",
+  "name": "LAILUNGGI",
+  "postalCode": "87161"
+ },
+ {
+  "id": 5302021004,
+  "districtId": 5302021,
+  "districtName": "PINUPAHAR",
+  "name": "WANGGA BEWA",
+  "postalCode": ""
+ },
+ {
+  "id": 5302021005,
+  "districtId": 5302021,
+  "districtName": "PINUPAHAR",
+  "name": "RAMUK",
+  "postalCode": "87161"
+ },
+ {
+  "id": 5302021006,
+  "districtId": 5302021,
+  "districtName": "PINUPAHAR",
+  "name": "MAHA NIWA",
+  "postalCode": ""
+ }
+]

@@ -1,0 +1,30 @@
+[
+ {
+  "id": 1906021001,
+  "districtId": 1906021,
+  "districtName": "SIMPANG RENGGIANG",
+  "name": "LINTANG",
+  "postalCode": "33562"
+ },
+ {
+  "id": 1906021002,
+  "districtId": 1906021,
+  "districtName": "SIMPANG RENGGIANG",
+  "name": "AIK MADU",
+  "postalCode": "33562"
+ },
+ {
+  "id": 1906021003,
+  "districtId": 1906021,
+  "districtName": "SIMPANG RENGGIANG",
+  "name": "RENGGIANG",
+  "postalCode": "33562"
+ },
+ {
+  "id": 1906021004,
+  "districtId": 1906021,
+  "districtName": "SIMPANG RENGGIANG",
+  "name": "SIMPANG TIGA",
+  "postalCode": "23772"
+ }
+]

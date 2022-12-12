@@ -1,0 +1,44 @@
+[
+ {
+  "id": 3171080001,
+  "districtId": 3171080,
+  "districtName": "PANCORAN",
+  "name": "KALIBATA",
+  "postalCode": "12740"
+ },
+ {
+  "id": 3171080002,
+  "districtId": 3171080,
+  "districtName": "PANCORAN",
+  "name": "RAWAJATI",
+  "postalCode": ""
+ },
+ {
+  "id": 3171080003,
+  "districtId": 3171080,
+  "districtName": "PANCORAN",
+  "name": "DUREN TIGA",
+  "postalCode": "12760"
+ },
+ {
+  "id": 3171080004,
+  "districtId": 3171080,
+  "districtName": "PANCORAN",
+  "name": "PANCORAN",
+  "postalCode": "12780"
+ },
+ {
+  "id": 3171080005,
+  "districtId": 3171080,
+  "districtName": "PANCORAN",
+  "name": "PENGADEGAN",
+  "postalCode": "12770"
+ },
+ {
+  "id": 3171080006,
+  "districtId": 3171080,
+  "districtName": "PANCORAN",
+  "name": "CIKOKO",
+  "postalCode": "12770"
+ }
+]

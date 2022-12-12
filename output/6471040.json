@@ -1,0 +1,44 @@
+[
+ {
+  "id": 6471040001,
+  "districtId": 6471040,
+  "districtName": "BALIKPAPAN TENGAH",
+  "name": "GUNUNG SARI ILIR",
+  "postalCode": "76121"
+ },
+ {
+  "id": 6471040002,
+  "districtId": 6471040,
+  "districtName": "BALIKPAPAN TENGAH",
+  "name": "GUNUNG SARI ULU",
+  "postalCode": "76122"
+ },
+ {
+  "id": 6471040003,
+  "districtId": 6471040,
+  "districtName": "BALIKPAPAN TENGAH",
+  "name": "MEKAR SARI",
+  "postalCode": "21261"
+ },
+ {
+  "id": 6471040004,
+  "districtId": 6471040,
+  "districtName": "BALIKPAPAN TENGAH",
+  "name": "KARANG REJO",
+  "postalCode": "24581"
+ },
+ {
+  "id": 6471040005,
+  "districtId": 6471040,
+  "districtName": "BALIKPAPAN TENGAH",
+  "name": "SUMBER REJO",
+  "postalCode": "21255"
+ },
+ {
+  "id": 6471040006,
+  "districtId": 6471040,
+  "districtName": "BALIKPAPAN TENGAH",
+  "name": "KARANG JATI",
+  "postalCode": "67183"
+ }
+]

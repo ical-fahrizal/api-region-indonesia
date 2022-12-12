@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1373010001,
+  "districtId": 1373010,
+  "districtName": "SILUNGKANG",
+  "name": "SILUNGKANG OSO",
+  "postalCode": "27433"
+ },
+ {
+  "id": 1373010002,
+  "districtId": 1373010,
+  "districtName": "SILUNGKANG",
+  "name": "TARATAK BANCAH",
+  "postalCode": ""
+ },
+ {
+  "id": 1373010003,
+  "districtId": 1373010,
+  "districtName": "SILUNGKANG",
+  "name": "MUARO KALABAN",
+  "postalCode": "27435"
+ },
+ {
+  "id": 1373010004,
+  "districtId": 1373010,
+  "districtName": "SILUNGKANG",
+  "name": "SILUNGKANG TIGO",
+  "postalCode": "27431"
+ },
+ {
+  "id": 1373010005,
+  "districtId": 1373010,
+  "districtName": "SILUNGKANG",
+  "name": "SILUNGKANG DUO",
+  "postalCode": "27432"
+ }
+]

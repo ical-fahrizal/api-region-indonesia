@@ -1,0 +1,44 @@
+[
+ {
+  "id": 9417044001,
+  "districtId": 9417044,
+  "districtName": "YEFTA",
+  "name": "YEFTA",
+  "postalCode": ""
+ },
+ {
+  "id": 9417044002,
+  "districtId": 9417044,
+  "districtName": "YEFTA",
+  "name": "LULIS",
+  "postalCode": "99572"
+ },
+ {
+  "id": 9417044003,
+  "districtId": 9417044,
+  "districtName": "YEFTA",
+  "name": "TUPALMA 1",
+  "postalCode": ""
+ },
+ {
+  "id": 9417044004,
+  "districtId": 9417044,
+  "districtName": "YEFTA",
+  "name": "TUPALMA 2",
+  "postalCode": ""
+ },
+ {
+  "id": 9417044005,
+  "districtId": 9417044,
+  "districtName": "YEFTA",
+  "name": "KALIMBU",
+  "postalCode": "99572"
+ },
+ {
+  "id": 9417044006,
+  "districtId": 9417044,
+  "districtName": "YEFTA",
+  "name": "BRIS",
+  "postalCode": "99572"
+ }
+]

@@ -1,0 +1,51 @@
+[
+ {
+  "id": 9412010020,
+  "districtId": 9412010,
+  "districtName": "MIMIKA BARAT",
+  "name": "KOKONAO",
+  "postalCode": "99973"
+ },
+ {
+  "id": 9412010021,
+  "districtId": 9412010,
+  "districtName": "MIMIKA BARAT",
+  "name": "MIGIWIA",
+  "postalCode": "99973"
+ },
+ {
+  "id": 9412010022,
+  "districtId": 9412010,
+  "districtName": "MIMIKA BARAT",
+  "name": "MIMIKA",
+  "postalCode": "99973"
+ },
+ {
+  "id": 9412010023,
+  "districtId": 9412010,
+  "districtName": "MIMIKA BARAT",
+  "name": "KIYURA",
+  "postalCode": "99973"
+ },
+ {
+  "id": 9412010024,
+  "districtId": 9412010,
+  "districtName": "MIMIKA BARAT",
+  "name": "APURI",
+  "postalCode": ""
+ },
+ {
+  "id": 9412010025,
+  "districtId": 9412010,
+  "districtName": "MIMIKA BARAT",
+  "name": "ATAPO",
+  "postalCode": ""
+ },
+ {
+  "id": 9412010026,
+  "districtId": 9412010,
+  "districtName": "MIMIKA BARAT",
+  "name": "APARUKA",
+  "postalCode": ""
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1502041001,
+  "districtId": 1502041,
+  "districtName": "BANGKO BARAT",
+  "name": "BEDENG REJO",
+  "postalCode": "37311"
+ },
+ {
+  "id": 1502041002,
+  "districtId": 1502041,
+  "districtName": "BANGKO BARAT",
+  "name": "BUKIT BERINGIN",
+  "postalCode": "37311"
+ },
+ {
+  "id": 1502041003,
+  "districtId": 1502041,
+  "districtName": "BANGKO BARAT",
+  "name": "SUNGAI PUTIH",
+  "postalCode": "37311"
+ },
+ {
+  "id": 1502041004,
+  "districtId": 1502041,
+  "districtName": "BANGKO BARAT",
+  "name": "PULAU RENGAS",
+  "postalCode": "29553"
+ },
+ {
+  "id": 1502041005,
+  "districtId": 1502041,
+  "districtName": "BANGKO BARAT",
+  "name": "BIUKU TANJUNG",
+  "postalCode": "37311"
+ },
+ {
+  "id": 1502041006,
+  "districtId": 1502041,
+  "districtName": "BANGKO BARAT",
+  "name": "PULAU RENGAS ULU",
+  "postalCode": "37311"
+ }
+]

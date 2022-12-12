@@ -1,0 +1,30 @@
+[
+ {
+  "id": 3522050008,
+  "districtId": 3522050,
+  "districtName": "BUBULAN",
+  "name": "BUBULAN",
+  "postalCode": "62172"
+ },
+ {
+  "id": 3522050009,
+  "districtId": 3522050,
+  "districtName": "BUBULAN",
+  "name": "CANCUNG",
+  "postalCode": "62172"
+ },
+ {
+  "id": 3522050011,
+  "districtId": 3522050,
+  "districtName": "BUBULAN",
+  "name": "SUMBER BENDO",
+  "postalCode": "62172"
+ },
+ {
+  "id": 3522050012,
+  "districtId": 3522050,
+  "districtName": "BUBULAN",
+  "name": "NGOROGUNUNG",
+  "postalCode": "62172"
+ }
+]

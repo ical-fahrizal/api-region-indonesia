@@ -1,0 +1,65 @@
+[
+ {
+  "id": 3201240009,
+  "districtId": 3201240,
+  "districtName": "PARUNG",
+  "name": "IWUL",
+  "postalCode": "16330"
+ },
+ {
+  "id": 3201240010,
+  "districtId": 3201240,
+  "districtName": "PARUNG",
+  "name": "JABON MEKAR",
+  "postalCode": "16330"
+ },
+ {
+  "id": 3201240011,
+  "districtId": 3201240,
+  "districtName": "PARUNG",
+  "name": "PAMAGER SARI",
+  "postalCode": ""
+ },
+ {
+  "id": 3201240012,
+  "districtId": 3201240,
+  "districtName": "PARUNG",
+  "name": "PARUNG",
+  "postalCode": "46185"
+ },
+ {
+  "id": 3201240013,
+  "districtId": 3201240,
+  "districtName": "PARUNG",
+  "name": "WARU",
+  "postalCode": "45252"
+ },
+ {
+  "id": 3201240014,
+  "districtId": 3201240,
+  "districtName": "PARUNG",
+  "name": "WARUJAYA",
+  "postalCode": "45155"
+ },
+ {
+  "id": 3201240015,
+  "districtId": 3201240,
+  "districtName": "PARUNG",
+  "name": "BOJONG SEMPU",
+  "postalCode": "16330"
+ },
+ {
+  "id": 3201240016,
+  "districtId": 3201240,
+  "districtName": "PARUNG",
+  "name": "BOJONG INDAH",
+  "postalCode": "16330"
+ },
+ {
+  "id": 3201240017,
+  "districtId": 3201240,
+  "districtName": "PARUNG",
+  "name": "COGREG",
+  "postalCode": "46193"
+ }
+]

@@ -1,0 +1,86 @@
+[
+ {
+  "id": 1275060001,
+  "districtId": 1275060,
+  "districtName": "MEDAN KOTA",
+  "name": "SITI REJO I",
+  "postalCode": "20219"
+ },
+ {
+  "id": 1275060002,
+  "districtId": 1275060,
+  "districtName": "MEDAN KOTA",
+  "name": "SUDI REJO II",
+  "postalCode": "20218"
+ },
+ {
+  "id": 1275060003,
+  "districtId": 1275060,
+  "districtName": "MEDAN KOTA",
+  "name": "SUDI REJO I",
+  "postalCode": "20218"
+ },
+ {
+  "id": 1275060004,
+  "districtId": 1275060,
+  "districtName": "MEDAN KOTA",
+  "name": "TELADAN TIMUR",
+  "postalCode": "20217"
+ },
+ {
+  "id": 1275060005,
+  "districtId": 1275060,
+  "districtName": "MEDAN KOTA",
+  "name": "TELADAN BARAT",
+  "postalCode": "20217"
+ },
+ {
+  "id": 1275060006,
+  "districtId": 1275060,
+  "districtName": "MEDAN KOTA",
+  "name": "PASAR MERAH BARAT",
+  "postalCode": "20217"
+ },
+ {
+  "id": 1275060007,
+  "districtId": 1275060,
+  "districtName": "MEDAN KOTA",
+  "name": "M E S J I D",
+  "postalCode": ""
+ },
+ {
+  "id": 1275060008,
+  "districtId": 1275060,
+  "districtName": "MEDAN KOTA",
+  "name": "KOTA MATSUM III",
+  "postalCode": "20215"
+ },
+ {
+  "id": 1275060009,
+  "districtId": 1275060,
+  "districtName": "MEDAN KOTA",
+  "name": "SEI RENGAS I",
+  "postalCode": "20214"
+ },
+ {
+  "id": 1275060010,
+  "districtId": 1275060,
+  "districtName": "MEDAN KOTA",
+  "name": "PASAR BARU",
+  "postalCode": "22163"
+ },
+ {
+  "id": 1275060011,
+  "districtId": 1275060,
+  "districtName": "MEDAN KOTA",
+  "name": "PUSAT PASAR",
+  "postalCode": "20212"
+ },
+ {
+  "id": 1275060012,
+  "districtId": 1275060,
+  "districtName": "MEDAN KOTA",
+  "name": "PANDAU HULU I",
+  "postalCode": "20211"
+ }
+]

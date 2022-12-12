@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3204260001,
+  "districtId": 3204260,
+  "districtName": "MARGAHAYU",
+  "name": "SULAEMAN",
+  "postalCode": "40229"
+ },
+ {
+  "id": 3204260002,
+  "districtId": 3204260,
+  "districtName": "MARGAHAYU",
+  "name": "SUKAMENAK",
+  "postalCode": "45464"
+ },
+ {
+  "id": 3204260003,
+  "districtId": 3204260,
+  "districtName": "MARGAHAYU",
+  "name": "SAYATI",
+  "postalCode": "40228"
+ },
+ {
+  "id": 3204260004,
+  "districtId": 3204260,
+  "districtName": "MARGAHAYU",
+  "name": "MARGAHAYU SELATAN",
+  "postalCode": "40226"
+ },
+ {
+  "id": 3204260005,
+  "districtId": 3204260,
+  "districtName": "MARGAHAYU",
+  "name": "MARGAHAYU TENGAH",
+  "postalCode": "40225"
+ }
+]

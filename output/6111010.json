@@ -1,0 +1,37 @@
+[
+ {
+  "id": 6111010002,
+  "districtId": 6111010,
+  "districtName": "PULAU MAYA",
+  "name": "DUSUN BESAR",
+  "postalCode": "38229"
+ },
+ {
+  "id": 6111010003,
+  "districtId": 6111010,
+  "districtName": "PULAU MAYA",
+  "name": "TANJUNG SATAI",
+  "postalCode": "78855"
+ },
+ {
+  "id": 6111010004,
+  "districtId": 6111010,
+  "districtName": "PULAU MAYA",
+  "name": "DUSUN KECIL",
+  "postalCode": "78855"
+ },
+ {
+  "id": 6111010005,
+  "districtId": 6111010,
+  "districtName": "PULAU MAYA",
+  "name": "KEMBOJA",
+  "postalCode": "29112"
+ },
+ {
+  "id": 6111010006,
+  "districtId": 6111010,
+  "districtName": "PULAU MAYA",
+  "name": "SATAI LESTARI",
+  "postalCode": "78855"
+ }
+]

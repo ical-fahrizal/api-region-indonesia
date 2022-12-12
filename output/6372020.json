@@ -1,0 +1,30 @@
+[
+ {
+  "id": 6372020001,
+  "districtId": 6372020,
+  "districtName": "CEMPAKA",
+  "name": "PALAM",
+  "postalCode": "70731"
+ },
+ {
+  "id": 6372020002,
+  "districtId": 6372020,
+  "districtName": "CEMPAKA",
+  "name": "BANGKAL",
+  "postalCode": "53281"
+ },
+ {
+  "id": 6372020003,
+  "districtId": 6372020,
+  "districtName": "CEMPAKA",
+  "name": "SUNGAI TIUNG",
+  "postalCode": ""
+ },
+ {
+  "id": 6372020004,
+  "districtId": 6372020,
+  "districtName": "CEMPAKA",
+  "name": "CEMPAKA",
+  "postalCode": "37152"
+ }
+]

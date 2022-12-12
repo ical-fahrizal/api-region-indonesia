@@ -1,0 +1,37 @@
+[
+ {
+  "id": 7406050003,
+  "districtId": 7406050,
+  "districtName": "POLEANG TIMUR",
+  "name": "TEPPOE",
+  "postalCode": "93773"
+ },
+ {
+  "id": 7406050004,
+  "districtId": 7406050,
+  "districtName": "POLEANG TIMUR",
+  "name": "BAMBAEA",
+  "postalCode": "93773"
+ },
+ {
+  "id": 7406050009,
+  "districtId": 7406050,
+  "districtName": "POLEANG TIMUR",
+  "name": "MAMBO",
+  "postalCode": "93773"
+ },
+ {
+  "id": 7406050012,
+  "districtId": 7406050,
+  "districtName": "POLEANG TIMUR",
+  "name": "BIRU",
+  "postalCode": "22758"
+ },
+ {
+  "id": 7406050016,
+  "districtId": 7406050,
+  "districtName": "POLEANG TIMUR",
+  "name": "PUULEMO",
+  "postalCode": "93561"
+ }
+]

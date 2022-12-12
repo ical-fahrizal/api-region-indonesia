@@ -1,0 +1,58 @@
+[
+ {
+  "id": 1708010001,
+  "districtId": 1708010,
+  "districtName": "MUARA KEMUMU",
+  "name": "LIMBUR BARU",
+  "postalCode": "37211"
+ },
+ {
+  "id": 1708010002,
+  "districtId": 1708010,
+  "districtName": "MUARA KEMUMU",
+  "name": "BATU KALUNG",
+  "postalCode": "39374"
+ },
+ {
+  "id": 1708010003,
+  "districtId": 1708010,
+  "districtName": "MUARA KEMUMU",
+  "name": "SOSOKAN BARU",
+  "postalCode": "39374"
+ },
+ {
+  "id": 1708010004,
+  "districtId": 1708010,
+  "districtName": "MUARA KEMUMU",
+  "name": "SOSOKAN TABA",
+  "postalCode": ""
+ },
+ {
+  "id": 1708010005,
+  "districtId": 1708010,
+  "districtName": "MUARA KEMUMU",
+  "name": "BATU BANDUNG",
+  "postalCode": "31661"
+ },
+ {
+  "id": 1708010006,
+  "districtId": 1708010,
+  "districtName": "MUARA KEMUMU",
+  "name": "TALANG TIGE",
+  "postalCode": "39374"
+ },
+ {
+  "id": 1708010007,
+  "districtId": 1708010,
+  "districtName": "MUARA KEMUMU",
+  "name": "RENAH KURUNG",
+  "postalCode": "39374"
+ },
+ {
+  "id": 1708010008,
+  "districtId": 1708010,
+  "districtName": "MUARA KEMUMU",
+  "name": "WARUNG POJOK",
+  "postalCode": "39374"
+ }
+]

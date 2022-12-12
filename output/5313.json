@@ -1,0 +1,74 @@
+[
+ {
+  "id": 5313040,
+  "regencieId": 5313,
+  "regencieName": "KABUPATEN MANGGARAI",
+  "name": "SATAR MESE"
+ },
+ {
+  "id": 5313041,
+  "regencieId": 5313,
+  "regencieName": "KABUPATEN MANGGARAI",
+  "name": "SATAR MESE BARAT"
+ },
+ {
+  "id": 5313042,
+  "regencieId": 5313,
+  "regencieName": "KABUPATEN MANGGARAI",
+  "name": "SATAR MESE UTARA"
+ },
+ {
+  "id": 5313110,
+  "regencieId": 5313,
+  "regencieName": "KABUPATEN MANGGARAI",
+  "name": "LANGKE REMBONG"
+ },
+ {
+  "id": 5313120,
+  "regencieId": 5313,
+  "regencieName": "KABUPATEN MANGGARAI",
+  "name": "RUTENG"
+ },
+ {
+  "id": 5313121,
+  "regencieId": 5313,
+  "regencieName": "KABUPATEN MANGGARAI",
+  "name": "WAE RII"
+ },
+ {
+  "id": 5313122,
+  "regencieId": 5313,
+  "regencieName": "KABUPATEN MANGGARAI",
+  "name": "LELAK"
+ },
+ {
+  "id": 5313123,
+  "regencieId": 5313,
+  "regencieName": "KABUPATEN MANGGARAI",
+  "name": "RAHONG UTARA"
+ },
+ {
+  "id": 5313130,
+  "regencieId": 5313,
+  "regencieName": "KABUPATEN MANGGARAI",
+  "name": "CIBAL"
+ },
+ {
+  "id": 5313131,
+  "regencieId": 5313,
+  "regencieName": "KABUPATEN MANGGARAI",
+  "name": "CIBAL BARAT"
+ },
+ {
+  "id": 5313140,
+  "regencieId": 5313,
+  "regencieName": "KABUPATEN MANGGARAI",
+  "name": "REOK"
+ },
+ {
+  "id": 5313141,
+  "regencieId": 5313,
+  "regencieName": "KABUPATEN MANGGARAI",
+  "name": "REOK BARAT"
+ }
+]

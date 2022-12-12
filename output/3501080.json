@@ -1,0 +1,30 @@
+[
+ {
+  "id": 3501080001,
+  "districtId": 3501080,
+  "districtName": "BANDAR",
+  "name": "PETUNGSINARANG",
+  "postalCode": "63583"
+ },
+ {
+  "id": 3501080003,
+  "districtId": 3501080,
+  "districtName": "BANDAR",
+  "name": "BANDAR",
+  "postalCode": "32264"
+ },
+ {
+  "id": 3501080006,
+  "districtId": 3501080,
+  "districtName": "BANDAR",
+  "name": "WATUPATOK",
+  "postalCode": "63583"
+ },
+ {
+  "id": 3501080007,
+  "districtId": 3501080,
+  "districtName": "BANDAR",
+  "name": "BANGUNSARI",
+  "postalCode": "35361"
+ }
+]

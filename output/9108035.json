@@ -1,0 +1,30 @@
+[
+ {
+  "id": 9108035001,
+  "districtId": 9108035,
+  "districtName": "BATANTA SELATAN",
+  "name": "YENANAS",
+  "postalCode": "98484"
+ },
+ {
+  "id": 9108035002,
+  "districtId": 9108035,
+  "districtName": "BATANTA SELATAN",
+  "name": "WAIMAN",
+  "postalCode": "97795"
+ },
+ {
+  "id": 9108035003,
+  "districtId": 9108035,
+  "districtName": "BATANTA SELATAN",
+  "name": "WAILEBET",
+  "postalCode": "98484"
+ },
+ {
+  "id": 9108035004,
+  "districtId": 9108035,
+  "districtName": "BATANTA SELATAN",
+  "name": "AMDUI",
+  "postalCode": "98484"
+ }
+]

@@ -1,0 +1,23 @@
+[
+ {
+  "id": 1312070001,
+  "districtId": 1312070,
+  "districtName": "TALAMAU",
+  "name": "KAJAI",
+  "postalCode": "25534"
+ },
+ {
+  "id": 1312070002,
+  "districtId": 1312070,
+  "districtName": "TALAMAU",
+  "name": "TALU",
+  "postalCode": "26561"
+ },
+ {
+  "id": 1312070003,
+  "districtId": 1312070,
+  "districtName": "TALAMAU",
+  "name": "SINURUIK",
+  "postalCode": "26561"
+ }
+]

@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3216050002,
+  "districtId": 3216050,
+  "districtName": "KEDUNGWARINGIN",
+  "name": "BOJONGSARI",
+  "postalCode": "40288"
+ },
+ {
+  "id": 3216050003,
+  "districtId": 3216050,
+  "districtName": "KEDUNGWARINGIN",
+  "name": "KEDUNGWARINGIN",
+  "postalCode": "17540"
+ },
+ {
+  "id": 3216050004,
+  "districtId": 3216050,
+  "districtName": "KEDUNGWARINGIN",
+  "name": "WARINGINJAYA",
+  "postalCode": "42282"
+ },
+ {
+  "id": 3216050005,
+  "districtId": 3216050,
+  "districtName": "KEDUNGWARINGIN",
+  "name": "KARANGSAMBUNG",
+  "postalCode": "45162"
+ },
+ {
+  "id": 3216050007,
+  "districtId": 3216050,
+  "districtName": "KEDUNGWARINGIN",
+  "name": "KARANGHARUM",
+  "postalCode": ""
+ },
+ {
+  "id": 3216050008,
+  "districtId": 3216050,
+  "districtName": "KEDUNGWARINGIN",
+  "name": "MEKARJAYA",
+  "postalCode": "30653"
+ },
+ {
+  "id": 3216050009,
+  "districtId": 3216050,
+  "districtName": "KEDUNGWARINGIN",
+  "name": "KARANGMEKAR",
+  "postalCode": "40523"
+ }
+]

@@ -1,0 +1,23 @@
+[
+ {
+  "id": 2103045001,
+  "districtId": 2103045,
+  "districtName": "PULAU TIGA BARAT",
+  "name": "PULAU TIGA",
+  "postalCode": "29783"
+ },
+ {
+  "id": 2103045002,
+  "districtId": 2103045,
+  "districtName": "PULAU TIGA BARAT",
+  "name": "TANJUNG KUMBIK UTARA",
+  "postalCode": "29783"
+ },
+ {
+  "id": 2103045004,
+  "districtId": 2103045,
+  "districtName": "PULAU TIGA BARAT",
+  "name": "SELADING",
+  "postalCode": "29783"
+ }
+]

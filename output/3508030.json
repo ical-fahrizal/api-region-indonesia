@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3508030001,
+  "districtId": 3508030,
+  "districtName": "CANDIPURO",
+  "name": "JUGOSARI",
+  "postalCode": "67373"
+ },
+ {
+  "id": 3508030002,
+  "districtId": 3508030,
+  "districtName": "CANDIPURO",
+  "name": "JARIT",
+  "postalCode": "67373"
+ },
+ {
+  "id": 3508030003,
+  "districtId": 3508030,
+  "districtName": "CANDIPURO",
+  "name": "CANDIPURO",
+  "postalCode": "67373"
+ },
+ {
+  "id": 3508030004,
+  "districtId": 3508030,
+  "districtName": "CANDIPURO",
+  "name": "SUMBERREJO",
+  "postalCode": "59184"
+ },
+ {
+  "id": 3508030007,
+  "districtId": 3508030,
+  "districtName": "CANDIPURO",
+  "name": "PENANGGAL",
+  "postalCode": "67373"
+ },
+ {
+  "id": 3508030008,
+  "districtId": 3508030,
+  "districtName": "CANDIPURO",
+  "name": "TAMBAHREJO",
+  "postalCode": "51254"
+ },
+ {
+  "id": 3508030009,
+  "districtId": 3508030,
+  "districtName": "CANDIPURO",
+  "name": "KLOPOSAWIT",
+  "postalCode": "54391"
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1673010001,
+  "districtId": 1673010,
+  "districtName": "DEMPO SELATAN",
+  "name": "PENJALANG",
+  "postalCode": "31521"
+ },
+ {
+  "id": 1673010002,
+  "districtId": 1673010,
+  "districtName": "DEMPO SELATAN",
+  "name": "LUBUK BUNTAK",
+  "postalCode": "31521"
+ },
+ {
+  "id": 1673010003,
+  "districtId": 1673010,
+  "districtName": "DEMPO SELATAN",
+  "name": "PERAHU DIPO",
+  "postalCode": ""
+ },
+ {
+  "id": 1673010004,
+  "districtId": 1673010,
+  "districtName": "DEMPO SELATAN",
+  "name": "KANCE DIWE",
+  "postalCode": "31521"
+ },
+ {
+  "id": 1673010005,
+  "districtId": 1673010,
+  "districtName": "DEMPO SELATAN",
+  "name": "ATUNG BUNGSU",
+  "postalCode": "31521"
+ }
+]

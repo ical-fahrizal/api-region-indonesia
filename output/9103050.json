@@ -1,0 +1,37 @@
+[
+ {
+  "id": 9103050002,
+  "districtId": 9103050,
+  "districtName": "WINDESI",
+  "name": "YOPMEOS",
+  "postalCode": ""
+ },
+ {
+  "id": 9103050003,
+  "districtId": 9103050,
+  "districtName": "WINDESI",
+  "name": "WAMESA TENGAH",
+  "postalCode": "98361"
+ },
+ {
+  "id": 9103050006,
+  "districtId": 9103050,
+  "districtName": "WINDESI",
+  "name": "SOMBOKORO",
+  "postalCode": "98361"
+ },
+ {
+  "id": 9103050007,
+  "districtId": 9103050,
+  "districtName": "WINDESI",
+  "name": "SANDEY",
+  "postalCode": "93875"
+ },
+ {
+  "id": 9103050008,
+  "districtId": 9103050,
+  "districtName": "WINDESI",
+  "name": "WINDESI",
+  "postalCode": "98254"
+ }
+]

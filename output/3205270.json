@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3205270001,
+  "districtId": 3205270,
+  "districtName": "CIBIUK",
+  "name": "CIPAREUAN",
+  "postalCode": "44193"
+ },
+ {
+  "id": 3205270002,
+  "districtId": 3205270,
+  "districtName": "CIBIUK",
+  "name": "CIBIUK KIDUL",
+  "postalCode": "44193"
+ },
+ {
+  "id": 3205270003,
+  "districtId": 3205270,
+  "districtName": "CIBIUK",
+  "name": "CIBIUK KALER",
+  "postalCode": "44193"
+ },
+ {
+  "id": 3205270004,
+  "districtId": 3205270,
+  "districtName": "CIBIUK",
+  "name": "MAJASARI",
+  "postalCode": "31124"
+ },
+ {
+  "id": 3205270005,
+  "districtId": 3205270,
+  "districtName": "CIBIUK",
+  "name": "LINGKUNGPASIR",
+  "postalCode": "44193"
+ }
+]

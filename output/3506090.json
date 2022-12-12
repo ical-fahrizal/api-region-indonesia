@@ -1,0 +1,100 @@
+[
+ {
+  "id": 3506090001,
+  "districtId": 3506090,
+  "districtName": "PLOSOKLATEN",
+  "name": "GONDANG",
+  "postalCode": "51255"
+ },
+ {
+  "id": 3506090002,
+  "districtId": 3506090,
+  "districtName": "PLOSOKLATEN",
+  "name": "KAYUNAN",
+  "postalCode": "64175"
+ },
+ {
+  "id": 3506090003,
+  "districtId": 3506090,
+  "districtName": "PLOSOKLATEN",
+  "name": "PANJER",
+  "postalCode": "54312"
+ },
+ {
+  "id": 3506090004,
+  "districtId": 3506090,
+  "districtName": "PLOSOKLATEN",
+  "name": "JARAK",
+  "postalCode": "64175"
+ },
+ {
+  "id": 3506090005,
+  "districtId": 3506090,
+  "districtName": "PLOSOKLATEN",
+  "name": "SEPAWON",
+  "postalCode": "64175"
+ },
+ {
+  "id": 3506090006,
+  "districtId": 3506090,
+  "districtName": "PLOSOKLATEN",
+  "name": "PLOSOKIDUL",
+  "postalCode": "64175"
+ },
+ {
+  "id": 3506090007,
+  "districtId": 3506090,
+  "districtName": "PLOSOKLATEN",
+  "name": "BRENGGOLO",
+  "postalCode": "57692"
+ },
+ {
+  "id": 3506090008,
+  "districtId": 3506090,
+  "districtName": "PLOSOKLATEN",
+  "name": "PLOSOLOR",
+  "postalCode": "64175"
+ },
+ {
+  "id": 3506090009,
+  "districtId": 3506090,
+  "districtName": "PLOSOKLATEN",
+  "name": "WONOREJO TRISULO",
+  "postalCode": "64175"
+ },
+ {
+  "id": 3506090010,
+  "districtId": 3506090,
+  "districtName": "PLOSOKLATEN",
+  "name": "PRANGGANG",
+  "postalCode": "64175"
+ },
+ {
+  "id": 3506090012,
+  "districtId": 3506090,
+  "districtName": "PLOSOKLATEN",
+  "name": "KLANDERAN",
+  "postalCode": "64175"
+ },
+ {
+  "id": 3506090013,
+  "districtId": 3506090,
+  "districtName": "PLOSOKLATEN",
+  "name": "DONGANTI",
+  "postalCode": "64175"
+ },
+ {
+  "id": 3506090014,
+  "districtId": 3506090,
+  "districtName": "PLOSOKLATEN",
+  "name": "KAWEDUSAN",
+  "postalCode": "54317"
+ },
+ {
+  "id": 3506090015,
+  "districtId": 3506090,
+  "districtName": "PLOSOKLATEN",
+  "name": "SUMBERAGUNG",
+  "postalCode": "35452"
+ }
+]

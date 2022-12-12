@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3672031001,
+  "districtId": 3672031,
+  "districtName": "JOMBANG",
+  "name": "JOMBANG WETAN",
+  "postalCode": "42411"
+ },
+ {
+  "id": 3672031002,
+  "districtId": 3672031,
+  "districtName": "JOMBANG",
+  "name": "MASIGIT",
+  "postalCode": "42414"
+ },
+ {
+  "id": 3672031003,
+  "districtId": 3672031,
+  "districtName": "JOMBANG",
+  "name": "PANGGUNG RAWI",
+  "postalCode": "42412"
+ },
+ {
+  "id": 3672031004,
+  "districtId": 3672031,
+  "districtName": "JOMBANG",
+  "name": "GEDONG DALEM",
+  "postalCode": "42413"
+ },
+ {
+  "id": 3672031005,
+  "districtId": 3672031,
+  "districtName": "JOMBANG",
+  "name": "SUKMAJAYA",
+  "postalCode": "16412"
+ }
+]

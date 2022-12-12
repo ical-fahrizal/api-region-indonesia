@@ -1,0 +1,44 @@
+[
+ {
+  "id": 7472012001,
+  "districtId": 7472012,
+  "districtName": "BATUPOARO",
+  "name": "BONE-BONE",
+  "postalCode": "93721"
+ },
+ {
+  "id": 7472012002,
+  "districtId": 7472012,
+  "districtName": "BATUPOARO",
+  "name": "TARAFU",
+  "postalCode": "93722"
+ },
+ {
+  "id": 7472012003,
+  "districtId": 7472012,
+  "districtName": "BATUPOARO",
+  "name": "WAMEO",
+  "postalCode": "93722"
+ },
+ {
+  "id": 7472012004,
+  "districtId": 7472012,
+  "districtName": "BATUPOARO",
+  "name": "KAOBULA",
+  "postalCode": "93721"
+ },
+ {
+  "id": 7472012005,
+  "districtId": 7472012,
+  "districtName": "BATUPOARO",
+  "name": "LANTO",
+  "postalCode": "93721"
+ },
+ {
+  "id": 7472012006,
+  "districtId": 7472012,
+  "districtName": "BATUPOARO",
+  "name": "NGANGANAUMALA",
+  "postalCode": "93721"
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "id": 9404052001,
+  "districtId": 9404052,
+  "districtName": "DIPA",
+  "name": "JAINOA",
+  "postalCode": "98853"
+ },
+ {
+  "id": 9404052002,
+  "districtId": 9404052,
+  "districtName": "DIPA",
+  "name": "JIGIKEBO",
+  "postalCode": "98853"
+ },
+ {
+  "id": 9404052003,
+  "districtId": 9404052,
+  "districtName": "DIPA",
+  "name": "DIKIYA",
+  "postalCode": ""
+ },
+ {
+  "id": 9404052004,
+  "districtId": 9404052,
+  "districtName": "DIPA",
+  "name": "TAGAUTO",
+  "postalCode": ""
+ },
+ {
+  "id": 9404052005,
+  "districtId": 9404052,
+  "districtName": "DIPA",
+  "name": "EPOUWA",
+  "postalCode": ""
+ }
+]

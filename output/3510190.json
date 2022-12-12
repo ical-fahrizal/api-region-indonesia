@@ -1,0 +1,44 @@
+[
+ {
+  "id": 3510190001,
+  "districtId": 3510190,
+  "districtName": "GIRI",
+  "name": "JAMBESARI",
+  "postalCode": "68425"
+ },
+ {
+  "id": 3510190002,
+  "districtId": 3510190,
+  "districtName": "GIRI",
+  "name": "BOYOLANGU",
+  "postalCode": "66235"
+ },
+ {
+  "id": 3510190003,
+  "districtId": 3510190,
+  "districtName": "GIRI",
+  "name": "MOJOPANGGUNG",
+  "postalCode": "68425"
+ },
+ {
+  "id": 3510190004,
+  "districtId": 3510190,
+  "districtName": "GIRI",
+  "name": "PENATABAN",
+  "postalCode": "68422"
+ },
+ {
+  "id": 3510190005,
+  "districtId": 3510190,
+  "districtName": "GIRI",
+  "name": "GIRI",
+  "postalCode": "68423"
+ },
+ {
+  "id": 3510190006,
+  "districtId": 3510190,
+  "districtName": "GIRI",
+  "name": "GROGOL",
+  "postalCode": "11450"
+ }
+]

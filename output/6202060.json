@@ -1,0 +1,79 @@
+[
+ {
+  "id": 6202060001,
+  "districtId": 6202060,
+  "districtName": "MENTAWA BARU/KETAPANG",
+  "name": "PELANGSIAN",
+  "postalCode": "74326"
+ },
+ {
+  "id": 6202060003,
+  "districtId": 6202060,
+  "districtName": "MENTAWA BARU/KETAPANG",
+  "name": "KETAPANG",
+  "postalCode": "35596"
+ },
+ {
+  "id": 6202060004,
+  "districtId": 6202060,
+  "districtName": "MENTAWA BARU/KETAPANG",
+  "name": "MENTAWA BARU HILIR",
+  "postalCode": "74323"
+ },
+ {
+  "id": 6202060005,
+  "districtId": 6202060,
+  "districtName": "MENTAWA BARU/KETAPANG",
+  "name": "MENTAWA BARU HULU",
+  "postalCode": "74322"
+ },
+ {
+  "id": 6202060006,
+  "districtId": 6202060,
+  "districtName": "MENTAWA BARU/KETAPANG",
+  "name": "SAWAHAN",
+  "postalCode": "25121"
+ },
+ {
+  "id": 6202060007,
+  "districtId": 6202060,
+  "districtName": "MENTAWA BARU/KETAPANG",
+  "name": "BAPEANG",
+  "postalCode": "74326"
+ },
+ {
+  "id": 6202060008,
+  "districtId": 6202060,
+  "districtName": "MENTAWA BARU/KETAPANG",
+  "name": "EKA BAHURUI",
+  "postalCode": "74326"
+ },
+ {
+  "id": 6202060009,
+  "districtId": 6202060,
+  "districtName": "MENTAWA BARU/KETAPANG",
+  "name": "PASIR PUTIH",
+  "postalCode": "24453"
+ },
+ {
+  "id": 6202060010,
+  "districtId": 6202060,
+  "districtName": "MENTAWA BARU/KETAPANG",
+  "name": "TELAGA BARU",
+  "postalCode": "28755"
+ },
+ {
+  "id": 6202060011,
+  "districtId": 6202060,
+  "districtName": "MENTAWA BARU/KETAPANG",
+  "name": "BENGKUANG MAKMUR",
+  "postalCode": "74326"
+ },
+ {
+  "id": 6202060012,
+  "districtId": 6202060,
+  "districtName": "MENTAWA BARU/KETAPANG",
+  "name": "BAPANGGANG RAYA",
+  "postalCode": "74326"
+ }
+]

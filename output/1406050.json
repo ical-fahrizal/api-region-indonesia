@@ -1,0 +1,30 @@
+[
+ {
+  "id": 1406050002,
+  "districtId": 1406050,
+  "districtName": "BANGKINANG KOTA",
+  "name": "LANGGINI",
+  "postalCode": "28412"
+ },
+ {
+  "id": 1406050003,
+  "districtId": 1406050,
+  "districtName": "BANGKINANG KOTA",
+  "name": "BANGKINANG",
+  "postalCode": ""
+ },
+ {
+  "id": 1406050013,
+  "districtId": 1406050,
+  "districtName": "BANGKINANG KOTA",
+  "name": "KUMANTAN",
+  "postalCode": "28411"
+ },
+ {
+  "id": 1406050014,
+  "districtId": 1406050,
+  "districtName": "BANGKINANG KOTA",
+  "name": "RIDAN PERMAI",
+  "postalCode": "28411"
+ }
+]

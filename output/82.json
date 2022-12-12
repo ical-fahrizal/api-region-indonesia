@@ -1,0 +1,62 @@
+[
+ {
+  "id": 8201,
+  "provinceId": 82,
+  "provinceName": "MALUKU UTARA",
+  "name": "KABUPATEN HALMAHERA BARAT"
+ },
+ {
+  "id": 8202,
+  "provinceId": 82,
+  "provinceName": "MALUKU UTARA",
+  "name": "KABUPATEN HALMAHERA TENGAH"
+ },
+ {
+  "id": 8203,
+  "provinceId": 82,
+  "provinceName": "MALUKU UTARA",
+  "name": "KABUPATEN KEPULAUAN SULA"
+ },
+ {
+  "id": 8204,
+  "provinceId": 82,
+  "provinceName": "MALUKU UTARA",
+  "name": "KABUPATEN HALMAHERA SELATAN"
+ },
+ {
+  "id": 8205,
+  "provinceId": 82,
+  "provinceName": "MALUKU UTARA",
+  "name": "KABUPATEN HALMAHERA UTARA"
+ },
+ {
+  "id": 8206,
+  "provinceId": 82,
+  "provinceName": "MALUKU UTARA",
+  "name": "KABUPATEN HALMAHERA TIMUR"
+ },
+ {
+  "id": 8207,
+  "provinceId": 82,
+  "provinceName": "MALUKU UTARA",
+  "name": "KABUPATEN PULAU MOROTAI"
+ },
+ {
+  "id": 8208,
+  "provinceId": 82,
+  "provinceName": "MALUKU UTARA",
+  "name": "KABUPATEN PULAU TALIABU"
+ },
+ {
+  "id": 8271,
+  "provinceId": 82,
+  "provinceName": "MALUKU UTARA",
+  "name": "KOTA TERNATE"
+ },
+ {
+  "id": 8272,
+  "provinceId": 82,
+  "provinceName": "MALUKU UTARA",
+  "name": "KOTA TIDORE KEPULAUAN"
+ }
+]

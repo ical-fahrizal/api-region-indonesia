@@ -1,0 +1,30 @@
+[
+ {
+  "id": 8203032001,
+  "districtId": 8203032,
+  "districtName": "MANGOLI UTARA TIMUR",
+  "name": "KAWATA",
+  "postalCode": "92983"
+ },
+ {
+  "id": 8203032002,
+  "districtId": 8203032,
+  "districtName": "MANGOLI UTARA TIMUR",
+  "name": "PELITA JAYA",
+  "postalCode": "32362"
+ },
+ {
+  "id": 8203032003,
+  "districtId": 8203032,
+  "districtName": "MANGOLI UTARA TIMUR",
+  "name": "WAISAKAI",
+  "postalCode": "97793"
+ },
+ {
+  "id": 8203032004,
+  "districtId": 8203032,
+  "districtName": "MANGOLI UTARA TIMUR",
+  "name": "WAISUM",
+  "postalCode": "97793"
+ }
+]

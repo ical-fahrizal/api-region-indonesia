@@ -1,0 +1,72 @@
+[
+ {
+  "id": 1220090001,
+  "districtId": 1220090,
+  "districtName": "HULU SIHAPAS",
+  "name": "AEK GODANG",
+  "postalCode": "22733"
+ },
+ {
+  "id": 1220090002,
+  "districtId": 1220090,
+  "districtName": "HULU SIHAPAS",
+  "name": "AEK NAULI",
+  "postalCode": "22773"
+ },
+ {
+  "id": 1220090003,
+  "districtId": 1220090,
+  "districtName": "HULU SIHAPAS",
+  "name": "SAMPURAN SIMARLOTING",
+  "postalCode": "22733"
+ },
+ {
+  "id": 1220090004,
+  "districtId": 1220090,
+  "districtName": "HULU SIHAPAS",
+  "name": "PANGIRKIRAN",
+  "postalCode": "22753"
+ },
+ {
+  "id": 1220090005,
+  "districtId": 1220090,
+  "districtName": "HULU SIHAPAS",
+  "name": "PINTU BOSI",
+  "postalCode": "22733"
+ },
+ {
+  "id": 1220090006,
+  "districtId": 1220090,
+  "districtName": "HULU SIHAPAS",
+  "name": "SIMANINGGIR PB",
+  "postalCode": ""
+ },
+ {
+  "id": 1220090007,
+  "districtId": 1220090,
+  "districtName": "HULU SIHAPAS",
+  "name": "SIDONG-DONG",
+  "postalCode": "22755"
+ },
+ {
+  "id": 1220090008,
+  "districtId": 1220090,
+  "districtName": "HULU SIHAPAS",
+  "name": "SITABAR",
+  "postalCode": "22733"
+ },
+ {
+  "id": 1220090009,
+  "districtId": 1220090,
+  "districtName": "HULU SIHAPAS",
+  "name": "PARMERAAN",
+  "postalCode": "22733"
+ },
+ {
+  "id": 1220090010,
+  "districtId": 1220090,
+  "districtName": "HULU SIHAPAS",
+  "name": "SUKADAME",
+  "postalCode": "21146"
+ }
+]

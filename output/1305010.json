@@ -1,0 +1,65 @@
+[
+ {
+  "id": 1305010001,
+  "districtId": 1305010,
+  "districtName": "SEPULUH KOTO",
+  "name": "TAMBANGAN",
+  "postalCode": "20631"
+ },
+ {
+  "id": 1305010002,
+  "districtId": 1305010,
+  "districtName": "SEPULUH KOTO",
+  "name": "JAHO",
+  "postalCode": "27151"
+ },
+ {
+  "id": 1305010003,
+  "districtId": 1305010,
+  "districtName": "SEPULUH KOTO",
+  "name": "PANINJAUAN",
+  "postalCode": "27151"
+ },
+ {
+  "id": 1305010004,
+  "districtId": 1305010,
+  "districtName": "SEPULUH KOTO",
+  "name": "PANYALAIAN",
+  "postalCode": "27151"
+ },
+ {
+  "id": 1305010005,
+  "districtId": 1305010,
+  "districtName": "SEPULUH KOTO",
+  "name": "AIE ANGEK",
+  "postalCode": "27553"
+ },
+ {
+  "id": 1305010006,
+  "districtId": 1305010,
+  "districtName": "SEPULUH KOTO",
+  "name": "KOTO BARU",
+  "postalCode": "27561"
+ },
+ {
+  "id": 1305010007,
+  "districtId": 1305010,
+  "districtName": "SEPULUH KOTO",
+  "name": "PANDAI SIKEK",
+  "postalCode": "27151"
+ },
+ {
+  "id": 1305010008,
+  "districtId": 1305010,
+  "districtName": "SEPULUH KOTO",
+  "name": "SINGGALANG",
+  "postalCode": "27151"
+ },
+ {
+  "id": 1305010009,
+  "districtId": 1305010,
+  "districtName": "SEPULUH KOTO",
+  "name": "KOTO LAWEH",
+  "postalCode": "27388"
+ }
+]

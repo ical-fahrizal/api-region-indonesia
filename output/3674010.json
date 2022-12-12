@@ -1,0 +1,30 @@
+[
+ {
+  "id": 3674010001,
+  "districtId": 3674010,
+  "districtName": "SETU",
+  "name": "KRANGGAN",
+  "postalCode": "50613"
+ },
+ {
+  "id": 3674010003,
+  "districtId": 3674010,
+  "districtName": "SETU",
+  "name": "KADEMANGAN",
+  "postalCode": "36361"
+ },
+ {
+  "id": 3674010005,
+  "districtId": 3674010,
+  "districtName": "SETU",
+  "name": "BABAKAN",
+  "postalCode": "35675"
+ },
+ {
+  "id": 3674010006,
+  "districtId": 3674010,
+  "districtName": "SETU",
+  "name": "BAKTI JAYA",
+  "postalCode": "15315"
+ }
+]

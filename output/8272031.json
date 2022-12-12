@@ -1,0 +1,51 @@
+[
+ {
+  "id": 8272031001,
+  "districtId": 8272031,
+  "districtName": "TIDORE TIMUR",
+  "name": "DOWORA",
+  "postalCode": "97782"
+ },
+ {
+  "id": 8272031002,
+  "districtId": 8272031,
+  "districtName": "TIDORE TIMUR",
+  "name": "KALAODI",
+  "postalCode": "97813"
+ },
+ {
+  "id": 8272031003,
+  "districtId": 8272031,
+  "districtName": "TIDORE TIMUR",
+  "name": "MAFUTUTU",
+  "postalCode": "97813"
+ },
+ {
+  "id": 8272031004,
+  "districtId": 8272031,
+  "districtName": "TIDORE TIMUR",
+  "name": "TOSA",
+  "postalCode": "97813"
+ },
+ {
+  "id": 8272031005,
+  "districtId": 8272031,
+  "districtName": "TIDORE TIMUR",
+  "name": "COBODOE",
+  "postalCode": ""
+ },
+ {
+  "id": 8272031006,
+  "districtId": 8272031,
+  "districtName": "TIDORE TIMUR",
+  "name": "DOYADO",
+  "postalCode": ""
+ },
+ {
+  "id": 8272031007,
+  "districtId": 8272031,
+  "districtName": "TIDORE TIMUR",
+  "name": "JIKOCOBO",
+  "postalCode": ""
+ }
+]

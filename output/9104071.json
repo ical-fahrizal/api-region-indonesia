@@ -1,0 +1,37 @@
+[
+ {
+  "id": 9104071001,
+  "districtId": 9104071,
+  "districtName": "KAMUNDAN",
+  "name": "KALITAMI II",
+  "postalCode": ""
+ },
+ {
+  "id": 9104071002,
+  "districtId": 9104071,
+  "districtName": "KAMUNDAN",
+  "name": "KALITAMI",
+  "postalCode": ""
+ },
+ {
+  "id": 9104071003,
+  "districtId": 9104071,
+  "districtName": "KAMUNDAN",
+  "name": "KENARA",
+  "postalCode": "98365"
+ },
+ {
+  "id": 9104071004,
+  "districtId": 9104071,
+  "districtName": "KAMUNDAN",
+  "name": "BIBIRAM",
+  "postalCode": "98365"
+ },
+ {
+  "id": 9104071005,
+  "districtId": 9104071,
+  "districtName": "KAMUNDAN",
+  "name": "MARORO",
+  "postalCode": ""
+ }
+]

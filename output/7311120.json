@@ -1,0 +1,65 @@
+[
+ {
+  "id": 7311120001,
+  "districtId": 7311120,
+  "districtName": "PONRE",
+  "name": "TURU ADAE",
+  "postalCode": "92765"
+ },
+ {
+  "id": 7311120002,
+  "districtId": 7311120,
+  "districtName": "PONRE",
+  "name": "MAPPESANGKA",
+  "postalCode": "92765"
+ },
+ {
+  "id": 7311120003,
+  "districtId": 7311120,
+  "districtName": "PONRE",
+  "name": "SALEBBA",
+  "postalCode": "92765"
+ },
+ {
+  "id": 7311120004,
+  "districtId": 7311120,
+  "districtName": "PONRE",
+  "name": "SALAMPE",
+  "postalCode": "92765"
+ },
+ {
+  "id": 7311120005,
+  "districtId": 7311120,
+  "districtName": "PONRE",
+  "name": "BOLLI",
+  "postalCode": "92765"
+ },
+ {
+  "id": 7311120006,
+  "districtId": 7311120,
+  "districtName": "PONRE",
+  "name": "PATTIMPA",
+  "postalCode": "92765"
+ },
+ {
+  "id": 7311120007,
+  "districtId": 7311120,
+  "districtName": "PONRE",
+  "name": "POLEONRO",
+  "postalCode": "90954"
+ },
+ {
+  "id": 7311120008,
+  "districtId": 7311120,
+  "districtName": "PONRE",
+  "name": "TELLU BOCCOE",
+  "postalCode": "92773"
+ },
+ {
+  "id": 7311120009,
+  "districtId": 7311120,
+  "districtName": "PONRE",
+  "name": "MATTAMPAE",
+  "postalCode": "92765"
+ }
+]

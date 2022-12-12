@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3204010001,
+  "districtId": 3204010,
+  "districtName": "CIWIDEY",
+  "name": "PANUNDAAN",
+  "postalCode": "40973"
+ },
+ {
+  "id": 3204010002,
+  "districtId": 3204010,
+  "districtName": "CIWIDEY",
+  "name": "CIWIDEY",
+  "postalCode": "40973"
+ },
+ {
+  "id": 3204010003,
+  "districtId": 3204010,
+  "districtName": "CIWIDEY",
+  "name": "PANYOCOKAN",
+  "postalCode": "40973"
+ },
+ {
+  "id": 3204010004,
+  "districtId": 3204010,
+  "districtName": "CIWIDEY",
+  "name": "LEBAKMUNCANG",
+  "postalCode": "40973"
+ },
+ {
+  "id": 3204010005,
+  "districtId": 3204010,
+  "districtName": "CIWIDEY",
+  "name": "RAWABOGO",
+  "postalCode": "40973"
+ },
+ {
+  "id": 3204010006,
+  "districtId": 3204010,
+  "districtName": "CIWIDEY",
+  "name": "NENGKELAN",
+  "postalCode": "40973"
+ },
+ {
+  "id": 3204010007,
+  "districtId": 3204010,
+  "districtName": "CIWIDEY",
+  "name": "SUKAWENING",
+  "postalCode": "46252"
+ }
+]

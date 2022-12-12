@@ -1,0 +1,65 @@
+[
+ {
+  "id": 6108200001,
+  "districtId": 6108200,
+  "districtName": "BADAU",
+  "name": "PULAU MAJANG",
+  "postalCode": "78767"
+ },
+ {
+  "id": 6108200002,
+  "districtId": 6108200,
+  "districtName": "BADAU",
+  "name": "KEKURAK",
+  "postalCode": "78767"
+ },
+ {
+  "id": 6108200003,
+  "districtId": 6108200,
+  "districtName": "BADAU",
+  "name": "SEMUNTIK",
+  "postalCode": "79365"
+ },
+ {
+  "id": 6108200004,
+  "districtId": 6108200,
+  "districtName": "BADAU",
+  "name": "JANTING",
+  "postalCode": "78767"
+ },
+ {
+  "id": 6108200005,
+  "districtId": 6108200,
+  "districtName": "BADAU",
+  "name": "SERIANG",
+  "postalCode": "78767"
+ },
+ {
+  "id": 6108200006,
+  "districtId": 6108200,
+  "districtName": "BADAU",
+  "name": "BADAU",
+  "postalCode": "33451"
+ },
+ {
+  "id": 6108200007,
+  "districtId": 6108200,
+  "districtName": "BADAU",
+  "name": "SEBINDANG",
+  "postalCode": "78767"
+ },
+ {
+  "id": 6108200008,
+  "districtId": 6108200,
+  "districtName": "BADAU",
+  "name": "TINTING SELIGI",
+  "postalCode": "78767"
+ },
+ {
+  "id": 6108200009,
+  "districtId": 6108200,
+  "districtName": "BADAU",
+  "name": "TAJUM",
+  "postalCode": "78767"
+ }
+]

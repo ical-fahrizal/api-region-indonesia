@@ -1,0 +1,79 @@
+[
+ {
+  "id": 9418110002,
+  "districtId": 9418110,
+  "districtName": "TIMORI",
+  "name": "TIRIB",
+  "postalCode": "99569"
+ },
+ {
+  "id": 9418110003,
+  "districtId": 9418110,
+  "districtName": "TIMORI",
+  "name": "BEREMO",
+  "postalCode": "99569"
+ },
+ {
+  "id": 9418110004,
+  "districtId": 9418110,
+  "districtName": "TIMORI",
+  "name": "BOLOBUR",
+  "postalCode": ""
+ },
+ {
+  "id": 9418110005,
+  "districtId": 9418110,
+  "districtName": "TIMORI",
+  "name": "LUKI",
+  "postalCode": "99569"
+ },
+ {
+  "id": 9418110007,
+  "districtId": 9418110,
+  "districtName": "TIMORI",
+  "name": "TIONER",
+  "postalCode": "99569"
+ },
+ {
+  "id": 9418110009,
+  "districtId": 9418110,
+  "districtName": "TIMORI",
+  "name": "LIWINA",
+  "postalCode": "99569"
+ },
+ {
+  "id": 9418110010,
+  "districtId": 9418110,
+  "districtName": "TIMORI",
+  "name": "ERAGANI",
+  "postalCode": "99569"
+ },
+ {
+  "id": 9418110011,
+  "districtId": 9418110,
+  "districtName": "TIMORI",
+  "name": "PIRAGE",
+  "postalCode": "99569"
+ },
+ {
+  "id": 9418110012,
+  "districtId": 9418110,
+  "districtName": "TIMORI",
+  "name": "LOGULO",
+  "postalCode": "99569"
+ },
+ {
+  "id": 9418110013,
+  "districtId": 9418110,
+  "districtName": "TIMORI",
+  "name": "BAWI",
+  "postalCode": "99562"
+ },
+ {
+  "id": 9418110014,
+  "districtId": 9418110,
+  "districtName": "TIMORI",
+  "name": "KOINGGAMBU",
+  "postalCode": "99569"
+ }
+]

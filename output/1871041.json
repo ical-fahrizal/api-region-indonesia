@@ -1,0 +1,51 @@
+[
+ {
+  "id": 1871041001,
+  "districtId": 1871041,
+  "districtName": "KEDAMAIAN",
+  "name": "TANJUNG GADING",
+  "postalCode": "29352"
+ },
+ {
+  "id": 1871041002,
+  "districtId": 1871041,
+  "districtName": "KEDAMAIAN",
+  "name": "TANJUNG RAYA",
+  "postalCode": "23891"
+ },
+ {
+  "id": 1871041003,
+  "districtId": 1871041,
+  "districtName": "KEDAMAIAN",
+  "name": "KEDAMAIAN",
+  "postalCode": "35122"
+ },
+ {
+  "id": 1871041004,
+  "districtId": 1871041,
+  "districtName": "KEDAMAIAN",
+  "name": "KALIBALAU KENCANA",
+  "postalCode": ""
+ },
+ {
+  "id": 1871041005,
+  "districtId": 1871041,
+  "districtName": "KEDAMAIAN",
+  "name": "TANJUNG BARU",
+  "postalCode": "22742"
+ },
+ {
+  "id": 1871041006,
+  "districtId": 1871041,
+  "districtName": "KEDAMAIAN",
+  "name": "BUMI KEDAMAIAN",
+  "postalCode": "35122"
+ },
+ {
+  "id": 1871041007,
+  "districtId": 1871041,
+  "districtName": "KEDAMAIAN",
+  "name": "TANJUNG AGUNG RAYA",
+  "postalCode": "35129"
+ }
+]

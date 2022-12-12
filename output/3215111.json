@@ -1,0 +1,44 @@
+[
+ {
+  "id": 3215111001,
+  "districtId": 3215111,
+  "districtName": "MAJALAYA",
+  "name": "PASIRJENGKOL",
+  "postalCode": "41371"
+ },
+ {
+  "id": 3215111002,
+  "districtId": 3215111,
+  "districtName": "MAJALAYA",
+  "name": "MAJALAYA",
+  "postalCode": "43291"
+ },
+ {
+  "id": 3215111003,
+  "districtId": 3215111,
+  "districtName": "MAJALAYA",
+  "name": "CIRANGGON",
+  "postalCode": "41371"
+ },
+ {
+  "id": 3215111004,
+  "districtId": 3215111,
+  "districtName": "MAJALAYA",
+  "name": "SARIJAYA",
+  "postalCode": "41371"
+ },
+ {
+  "id": 3215111006,
+  "districtId": 3215111,
+  "districtName": "MAJALAYA",
+  "name": "LEMAHMULYA",
+  "postalCode": "41371"
+ },
+ {
+  "id": 3215111007,
+  "districtId": 3215111,
+  "districtName": "MAJALAYA",
+  "name": "PASIRMULYA",
+  "postalCode": "40377"
+ }
+]

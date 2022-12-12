@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3174040001,
+  "districtId": 3174040,
+  "districtName": "GROGOL PETAMBURAN",
+  "name": "TANJUNG DUREN UTARA",
+  "postalCode": "11470"
+ },
+ {
+  "id": 3174040002,
+  "districtId": 3174040,
+  "districtName": "GROGOL PETAMBURAN",
+  "name": "TANJUNG DUREN SELATAN",
+  "postalCode": "11470"
+ },
+ {
+  "id": 3174040003,
+  "districtId": 3174040,
+  "districtName": "GROGOL PETAMBURAN",
+  "name": "TOMANG",
+  "postalCode": "11440"
+ },
+ {
+  "id": 3174040004,
+  "districtId": 3174040,
+  "districtName": "GROGOL PETAMBURAN",
+  "name": "GROGOL",
+  "postalCode": "11450"
+ },
+ {
+  "id": 3174040005,
+  "districtId": 3174040,
+  "districtName": "GROGOL PETAMBURAN",
+  "name": "JELAMBAR",
+  "postalCode": "11460"
+ },
+ {
+  "id": 3174040006,
+  "districtId": 3174040,
+  "districtName": "GROGOL PETAMBURAN",
+  "name": "WIJAYA KESUMA",
+  "postalCode": ""
+ },
+ {
+  "id": 3174040007,
+  "districtId": 3174040,
+  "districtName": "GROGOL PETAMBURAN",
+  "name": "JELAMBAR BARU",
+  "postalCode": "11460"
+ }
+]

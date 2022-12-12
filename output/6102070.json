@@ -1,0 +1,44 @@
+[
+ {
+  "id": 6102070001,
+  "districtId": 6102070,
+  "districtName": "SELUAS",
+  "name": "SAHAN",
+  "postalCode": "85573"
+ },
+ {
+  "id": 6102070002,
+  "districtId": 6102070,
+  "districtName": "SELUAS",
+  "name": "BENGKAWAN",
+  "postalCode": "79285"
+ },
+ {
+  "id": 6102070003,
+  "districtId": 6102070,
+  "districtName": "SELUAS",
+  "name": "SELUAS",
+  "postalCode": "79285"
+ },
+ {
+  "id": 6102070004,
+  "districtId": 6102070,
+  "districtName": "SELUAS",
+  "name": "SENTANGAU JAYA",
+  "postalCode": "79285"
+ },
+ {
+  "id": 6102070005,
+  "districtId": 6102070,
+  "districtName": "SELUAS",
+  "name": "MAYAK",
+  "postalCode": "43262"
+ },
+ {
+  "id": 6102070006,
+  "districtId": 6102070,
+  "districtName": "SELUAS",
+  "name": "KALON",
+  "postalCode": "79285"
+ }
+]

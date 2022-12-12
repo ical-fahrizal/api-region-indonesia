@@ -1,0 +1,79 @@
+[
+ {
+  "id": 3674060001,
+  "districtId": 3674060,
+  "districtName": "PONDOK AREN",
+  "name": "PERIGI BARU",
+  "postalCode": "15228"
+ },
+ {
+  "id": 3674060002,
+  "districtId": 3674060,
+  "districtName": "PONDOK AREN",
+  "name": "PONDOK KACANG BARAT",
+  "postalCode": "15226"
+ },
+ {
+  "id": 3674060003,
+  "districtId": 3674060,
+  "districtName": "PONDOK AREN",
+  "name": "PONDOK KACANG TIMUR",
+  "postalCode": "15226"
+ },
+ {
+  "id": 3674060004,
+  "districtId": 3674060,
+  "districtName": "PONDOK AREN",
+  "name": "PERIGI",
+  "postalCode": "30618"
+ },
+ {
+  "id": 3674060005,
+  "districtId": 3674060,
+  "districtName": "PONDOK AREN",
+  "name": "PONDOK PUCUNG",
+  "postalCode": "15158"
+ },
+ {
+  "id": 3674060006,
+  "districtId": 3674060,
+  "districtName": "PONDOK AREN",
+  "name": "PONDOK JAYA",
+  "postalCode": "15220"
+ },
+ {
+  "id": 3674060007,
+  "districtId": 3674060,
+  "districtName": "PONDOK AREN",
+  "name": "PONDOK AREN",
+  "postalCode": "15224"
+ },
+ {
+  "id": 3674060008,
+  "districtId": 3674060,
+  "districtName": "PONDOK AREN",
+  "name": "JURANG MANGGU BARAT",
+  "postalCode": ""
+ },
+ {
+  "id": 3674060009,
+  "districtId": 3674060,
+  "districtName": "PONDOK AREN",
+  "name": "JURANG MANGGU TIMUR",
+  "postalCode": ""
+ },
+ {
+  "id": 3674060010,
+  "districtId": 3674060,
+  "districtName": "PONDOK AREN",
+  "name": "PONDOK KARYA",
+  "postalCode": "15225"
+ },
+ {
+  "id": 3674060011,
+  "districtId": 3674060,
+  "districtName": "PONDOK AREN",
+  "name": "PONDOK BETUNG",
+  "postalCode": "15221"
+ }
+]

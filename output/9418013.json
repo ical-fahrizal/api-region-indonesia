@@ -1,0 +1,65 @@
+[
+ {
+  "id": 9418013001,
+  "districtId": 9418013,
+  "districtName": "GILUBANDU",
+  "name": "MARTELO",
+  "postalCode": "99568"
+ },
+ {
+  "id": 9418013002,
+  "districtId": 9418013,
+  "districtName": "GILUBANDU",
+  "name": "EGONI",
+  "postalCode": "99568"
+ },
+ {
+  "id": 9418013004,
+  "districtId": 9418013,
+  "districtName": "GILUBANDU",
+  "name": "TINGGOM",
+  "postalCode": "99568"
+ },
+ {
+  "id": 9418013006,
+  "districtId": 9418013,
+  "districtName": "GILUBANDU",
+  "name": "YAKEP",
+  "postalCode": "99568"
+ },
+ {
+  "id": 9418013007,
+  "districtId": 9418013,
+  "districtName": "GILUBANDU",
+  "name": "BAGUNI",
+  "postalCode": "99568"
+ },
+ {
+  "id": 9418013008,
+  "districtId": 9418013,
+  "districtName": "GILUBANDU",
+  "name": "YAMULO",
+  "postalCode": "99568"
+ },
+ {
+  "id": 9418013011,
+  "districtId": 9418013,
+  "districtName": "GILUBANDU",
+  "name": "WELESI",
+  "postalCode": "99568"
+ },
+ {
+  "id": 9418013012,
+  "districtId": 9418013,
+  "districtName": "GILUBANDU",
+  "name": "ORELUKBAN",
+  "postalCode": "99568"
+ },
+ {
+  "id": 9418013013,
+  "districtId": 9418013,
+  "districtName": "GILUBANDU",
+  "name": "KULUTIN",
+  "postalCode": "99568"
+ }
+]

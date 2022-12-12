@@ -1,0 +1,44 @@
+[
+ {
+  "id": 9415073001,
+  "districtId": 9415073,
+  "districtName": "JOERAT",
+  "name": "YENI",
+  "postalCode": ""
+ },
+ {
+  "id": 9415073002,
+  "districtId": 9415073,
+  "districtName": "JOERAT",
+  "name": "YAMAS",
+  "postalCode": "99778"
+ },
+ {
+  "id": 9415073003,
+  "districtId": 9415073,
+  "districtName": "JOERAT",
+  "name": "OMOR",
+  "postalCode": "99778"
+ },
+ {
+  "id": 9415073004,
+  "districtId": 9415073,
+  "districtName": "JOERAT",
+  "name": "ONAVAI",
+  "postalCode": "99778"
+ },
+ {
+  "id": 9415073005,
+  "districtId": 9415073,
+  "districtName": "JOERAT",
+  "name": "YUFRI",
+  "postalCode": ""
+ },
+ {
+  "id": 9415073006,
+  "districtId": 9415073,
+  "districtName": "JOERAT",
+  "name": "YAUN",
+  "postalCode": "99777"
+ }
+]

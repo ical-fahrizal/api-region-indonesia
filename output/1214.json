@@ -1,0 +1,212 @@
+[
+ {
+  "id": 1214010,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "HIBALA"
+ },
+ {
+  "id": 1214011,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "TANAH MASA"
+ },
+ {
+  "id": 1214020,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "PULAU-PULAU BATU"
+ },
+ {
+  "id": 1214021,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "PULAU-PULAU BATU TIMUR"
+ },
+ {
+  "id": 1214022,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "SIMUK"
+ },
+ {
+  "id": 1214023,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "PULAU-PULAU BATU BARAT"
+ },
+ {
+  "id": 1214024,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "PULAU-PULAU BATU UTARA"
+ },
+ {
+  "id": 1214030,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "TELUK DALAM"
+ },
+ {
+  "id": 1214031,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "FANAYAMA"
+ },
+ {
+  "id": 1214032,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "TOMA"
+ },
+ {
+  "id": 1214033,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "MANIAMOLO"
+ },
+ {
+  "id": 1214034,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "MAZINO"
+ },
+ {
+  "id": 1214035,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "LUAHAGUNDRE MANIAMOLO"
+ },
+ {
+  "id": 1214036,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "ONOLALU"
+ },
+ {
+  "id": 1214040,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "AMANDRAYA"
+ },
+ {
+  "id": 1214041,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "ARAMO"
+ },
+ {
+  "id": 1214042,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "ULUSUSUA"
+ },
+ {
+  "id": 1214050,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "LAHUSA"
+ },
+ {
+  "id": 1214051,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "SIDUAORI"
+ },
+ {
+  "id": 1214052,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "SOMAMBAWA"
+ },
+ {
+  "id": 1214060,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "GOMO"
+ },
+ {
+  "id": 1214061,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "SUSUA"
+ },
+ {
+  "id": 1214062,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "MAZO"
+ },
+ {
+  "id": 1214063,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "UMBUNASI"
+ },
+ {
+  "id": 1214064,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "IDANOTAE"
+ },
+ {
+  "id": 1214065,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "ULUIDANOTAE"
+ },
+ {
+  "id": 1214066,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "BORONADU"
+ },
+ {
+  "id": 1214070,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "LOLOMATUA"
+ },
+ {
+  "id": 1214071,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "ULUNOYO"
+ },
+ {
+  "id": 1214072,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "HURUNA"
+ },
+ {
+  "id": 1214080,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "LOLOWA'U"
+ },
+ {
+  "id": 1214081,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "HILIMEGAI"
+ },
+ {
+  "id": 1214082,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "OOU"
+ },
+ {
+  "id": 1214083,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "ONOHAZUMBA"
+ },
+ {
+  "id": 1214084,
+  "regencieId": 1214,
+  "regencieName": "KABUPATEN NIAS SELATAN",
+  "name": "HILISALAWAAHE"
+ }
+]

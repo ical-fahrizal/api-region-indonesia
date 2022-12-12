@@ -1,0 +1,44 @@
+[
+ {
+  "id": 5201041001,
+  "districtId": 5201041,
+  "districtName": "KURIPAN",
+  "name": "KURIPAN SELATAN",
+  "postalCode": "83362"
+ },
+ {
+  "id": 5201041002,
+  "districtId": 5201041,
+  "districtName": "KURIPAN",
+  "name": "KURIPAN",
+  "postalCode": "32384"
+ },
+ {
+  "id": 5201041003,
+  "districtId": 5201041,
+  "districtName": "KURIPAN",
+  "name": "KURIPAN UTARA",
+  "postalCode": "83362"
+ },
+ {
+  "id": 5201041004,
+  "districtId": 5201041,
+  "districtName": "KURIPAN",
+  "name": "JAGARAGA",
+  "postalCode": "32264"
+ },
+ {
+  "id": 5201041005,
+  "districtId": 5201041,
+  "districtName": "KURIPAN",
+  "name": "GIRI SASAK",
+  "postalCode": "83362"
+ },
+ {
+  "id": 5201041006,
+  "districtId": 5201041,
+  "districtName": "KURIPAN",
+  "name": "KURIPAN TIMUR",
+  "postalCode": "83362"
+ }
+]

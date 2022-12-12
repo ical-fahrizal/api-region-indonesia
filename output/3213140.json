@@ -1,0 +1,65 @@
+[
+ {
+  "id": 3213140005,
+  "districtId": 3213140,
+  "districtName": "PAGADEN",
+  "name": "GEMBOR",
+  "postalCode": "41252"
+ },
+ {
+  "id": 3213140006,
+  "districtId": 3213140,
+  "districtName": "PAGADEN",
+  "name": "GUNUNGSARI",
+  "postalCode": "35368"
+ },
+ {
+  "id": 3213140007,
+  "districtId": 3213140,
+  "districtName": "PAGADEN",
+  "name": "SUKAMULYA",
+  "postalCode": "30657"
+ },
+ {
+  "id": 3213140013,
+  "districtId": 3213140,
+  "districtName": "PAGADEN",
+  "name": "SUMBERSARI",
+  "postalCode": "34122"
+ },
+ {
+  "id": 3213140014,
+  "districtId": 3213140,
+  "districtName": "PAGADEN",
+  "name": "GAMBARSARI",
+  "postalCode": "41252"
+ },
+ {
+  "id": 3213140015,
+  "districtId": 3213140,
+  "districtName": "PAGADEN",
+  "name": "NEGLASARI",
+  "postalCode": "35452"
+ },
+ {
+  "id": 3213140016,
+  "districtId": 3213140,
+  "districtName": "PAGADEN",
+  "name": "PAGADEN",
+  "postalCode": "41252"
+ },
+ {
+  "id": 3213140017,
+  "districtId": 3213140,
+  "districtName": "PAGADEN",
+  "name": "KAMARUNG",
+  "postalCode": "41252"
+ },
+ {
+  "id": 3213140018,
+  "districtId": 3213140,
+  "districtName": "PAGADEN",
+  "name": "JABONG",
+  "postalCode": "41252"
+ }
+]

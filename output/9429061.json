@@ -1,0 +1,30 @@
+[
+ {
+  "id": 9429061001,
+  "districtId": 9429061,
+  "districtName": "DAL",
+  "name": "DAL",
+  "postalCode": "99564"
+ },
+ {
+  "id": 9429061002,
+  "districtId": 9429061,
+  "districtName": "DAL",
+  "name": "SILAN",
+  "postalCode": "99564"
+ },
+ {
+  "id": 9429061004,
+  "districtId": 9429061,
+  "districtName": "DAL",
+  "name": "KABONERI",
+  "postalCode": "99564"
+ },
+ {
+  "id": 9429061005,
+  "districtId": 9429061,
+  "districtName": "DAL",
+  "name": "SILANKURU",
+  "postalCode": "99564"
+ }
+]

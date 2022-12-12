@@ -1,0 +1,44 @@
+[
+ {
+  "id": 7205101001,
+  "districtId": 7205101,
+  "districtName": "SINDUE TOMBUSABORA",
+  "name": "TIBO",
+  "postalCode": "94353"
+ },
+ {
+  "id": 7205101002,
+  "districtId": 7205101,
+  "districtName": "SINDUE TOMBUSABORA",
+  "name": "SALOYA",
+  "postalCode": "94353"
+ },
+ {
+  "id": 7205101003,
+  "districtId": 7205101,
+  "districtName": "SINDUE TOMBUSABORA",
+  "name": "KALIBURU",
+  "postalCode": "94353"
+ },
+ {
+  "id": 7205101004,
+  "districtId": 7205101,
+  "districtName": "SINDUE TOMBUSABORA",
+  "name": "BATUSUYA",
+  "postalCode": "94353"
+ },
+ {
+  "id": 7205101005,
+  "districtId": 7205101,
+  "districtName": "SINDUE TOMBUSABORA",
+  "name": "BATUSUYA GO'O",
+  "postalCode": ""
+ },
+ {
+  "id": 7205101006,
+  "districtId": 7205101,
+  "districtName": "SINDUE TOMBUSABORA",
+  "name": "KALIBURU KATA",
+  "postalCode": "94353"
+ }
+]

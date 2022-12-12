@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1212220001,
+  "districtId": 1212220,
+  "districtName": "DELI TUA",
+  "name": "DELI TUA BARAT",
+  "postalCode": "20355"
+ },
+ {
+  "id": 1212220002,
+  "districtId": 1212220,
+  "districtName": "DELI TUA",
+  "name": "DELI TUA TIMUR",
+  "postalCode": "20355"
+ },
+ {
+  "id": 1212220003,
+  "districtId": 1212220,
+  "districtName": "DELI TUA",
+  "name": "DELI TUA",
+  "postalCode": "20355"
+ },
+ {
+  "id": 1212220004,
+  "districtId": 1212220,
+  "districtName": "DELI TUA",
+  "name": "MEKAR SARI",
+  "postalCode": "21261"
+ },
+ {
+  "id": 1212220005,
+  "districtId": 1212220,
+  "districtName": "DELI TUA",
+  "name": "KEDAI DURIAN",
+  "postalCode": "20355"
+ },
+ {
+  "id": 1212220006,
+  "districtId": 1212220,
+  "districtName": "DELI TUA",
+  "name": "SUKA MAKMUR",
+  "postalCode": "24784"
+ }
+]

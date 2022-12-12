@@ -1,0 +1,30 @@
+[
+ {
+  "id": 5207021001,
+  "districtId": 5207021,
+  "districtName": "MALUK",
+  "name": "MALUK",
+  "postalCode": "84456"
+ },
+ {
+  "id": 5207021003,
+  "districtId": 5207021,
+  "districtName": "MALUK",
+  "name": "BUKIT DAMAI",
+  "postalCode": "84456"
+ },
+ {
+  "id": 5207021004,
+  "districtId": 5207021,
+  "districtName": "MALUK",
+  "name": "MANTUN",
+  "postalCode": "84456"
+ },
+ {
+  "id": 5207021005,
+  "districtId": 5207021,
+  "districtName": "MALUK",
+  "name": "PASIR PUTIH",
+  "postalCode": "24453"
+ }
+]

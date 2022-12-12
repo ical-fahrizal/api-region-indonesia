@@ -1,0 +1,30 @@
+[
+ {
+  "id": 3578060001,
+  "districtId": 3578060,
+  "districtName": "GUNUNG ANYAR",
+  "name": "RUNGKUT MENANGGAL",
+  "postalCode": "60293"
+ },
+ {
+  "id": 3578060002,
+  "districtId": 3578060,
+  "districtName": "GUNUNG ANYAR",
+  "name": "RUNGKUT TENGAH",
+  "postalCode": "60293"
+ },
+ {
+  "id": 3578060003,
+  "districtId": 3578060,
+  "districtName": "GUNUNG ANYAR",
+  "name": "GUNUNG ANYAR",
+  "postalCode": "60294"
+ },
+ {
+  "id": 3578060004,
+  "districtId": 3578060,
+  "districtName": "GUNUNG ANYAR",
+  "name": "GUNUNG ANYAR TAMBAK",
+  "postalCode": "60294"
+ }
+]

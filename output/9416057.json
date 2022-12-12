@@ -1,0 +1,37 @@
+[
+ {
+  "id": 9416057001,
+  "districtId": 9416057,
+  "districtName": "YAHULIAMBUT",
+  "name": "SOBUNDALEK",
+  "postalCode": ""
+ },
+ {
+  "id": 9416057002,
+  "districtId": 9416057,
+  "districtName": "YAHULIAMBUT",
+  "name": "TANGGEAM",
+  "postalCode": "99578"
+ },
+ {
+  "id": 9416057003,
+  "districtId": 9416057,
+  "districtName": "YAHULIAMBUT",
+  "name": "AMFULMA",
+  "postalCode": "99578"
+ },
+ {
+  "id": 9416057004,
+  "districtId": 9416057,
+  "districtName": "YAHULIAMBUT",
+  "name": "SUKSALE",
+  "postalCode": "99578"
+ },
+ {
+  "id": 9416057005,
+  "districtId": 9416057,
+  "districtName": "YAHULIAMBUT",
+  "name": "LINGGISEN",
+  "postalCode": "99578"
+ }
+]

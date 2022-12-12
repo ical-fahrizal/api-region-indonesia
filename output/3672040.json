@@ -1,0 +1,44 @@
+[
+ {
+  "id": 3672040001,
+  "districtId": 3672040,
+  "districtName": "CIBEBER",
+  "name": "BULAKAN",
+  "postalCode": "52356"
+ },
+ {
+  "id": 3672040002,
+  "districtId": 3672040,
+  "districtName": "CIBEBER",
+  "name": "CIKERAI",
+  "postalCode": "42427"
+ },
+ {
+  "id": 3672040003,
+  "districtId": 3672040,
+  "districtName": "CIBEBER",
+  "name": "KALITIMBANG",
+  "postalCode": "42424"
+ },
+ {
+  "id": 3672040004,
+  "districtId": 3672040,
+  "districtName": "CIBEBER",
+  "name": "KARANGASEM",
+  "postalCode": "45186"
+ },
+ {
+  "id": 3672040005,
+  "districtId": 3672040,
+  "districtName": "CIBEBER",
+  "name": "CIBEBER",
+  "postalCode": "46195"
+ },
+ {
+  "id": 3672040006,
+  "districtId": 3672040,
+  "districtName": "CIBEBER",
+  "name": "KEDALEMAN",
+  "postalCode": "68462"
+ }
+]

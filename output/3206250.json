@@ -1,0 +1,58 @@
+[
+ {
+  "id": 3206250001,
+  "districtId": 3206250,
+  "districtName": "JAMANIS",
+  "name": "KARANGSEMBUNG",
+  "postalCode": "46175"
+ },
+ {
+  "id": 3206250002,
+  "districtId": 3206250,
+  "districtName": "JAMANIS",
+  "name": "CONDONG",
+  "postalCode": "32381"
+ },
+ {
+  "id": 3206250003,
+  "districtId": 3206250,
+  "districtName": "JAMANIS",
+  "name": "BOJONGGAOK",
+  "postalCode": "46175"
+ },
+ {
+  "id": 3206250004,
+  "districtId": 3206250,
+  "districtName": "JAMANIS",
+  "name": "SINDANGRAJA",
+  "postalCode": "43182"
+ },
+ {
+  "id": 3206250005,
+  "districtId": 3206250,
+  "districtName": "JAMANIS",
+  "name": "TANJUNGMEKAR",
+  "postalCode": "46175"
+ },
+ {
+  "id": 3206250006,
+  "districtId": 3206250,
+  "districtName": "JAMANIS",
+  "name": "KARANGMULYA",
+  "postalCode": "17356"
+ },
+ {
+  "id": 3206250007,
+  "districtId": 3206250,
+  "districtName": "JAMANIS",
+  "name": "KARANGRESIK",
+  "postalCode": "46175"
+ },
+ {
+  "id": 3206250008,
+  "districtId": 3206250,
+  "districtName": "JAMANIS",
+  "name": "GERESIK",
+  "postalCode": "45591"
+ }
+]

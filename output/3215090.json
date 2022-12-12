@@ -1,0 +1,79 @@
+[
+ {
+  "id": 3215090001,
+  "districtId": 3215090,
+  "districtName": "LEMAHABANG",
+  "name": "CIWARINGIN",
+  "postalCode": "16124"
+ },
+ {
+  "id": 3215090002,
+  "districtId": 3215090,
+  "districtName": "LEMAHABANG",
+  "name": "WARINGINKARYA",
+  "postalCode": "41383"
+ },
+ {
+  "id": 3215090003,
+  "districtId": 3215090,
+  "districtName": "LEMAHABANG",
+  "name": "PASIRTANJUNG",
+  "postalCode": "17530"
+ },
+ {
+  "id": 3215090004,
+  "districtId": 3215090,
+  "districtName": "LEMAHABANG",
+  "name": "KARANGTANJUNG",
+  "postalCode": "40562"
+ },
+ {
+  "id": 3215090005,
+  "districtId": 3215090,
+  "districtName": "LEMAHABANG",
+  "name": "KEDAWUNG",
+  "postalCode": "45153"
+ },
+ {
+  "id": 3215090006,
+  "districtId": 3215090,
+  "districtName": "LEMAHABANG",
+  "name": "LEMAHABANG",
+  "postalCode": "45212"
+ },
+ {
+  "id": 3215090007,
+  "districtId": 3215090,
+  "districtName": "LEMAHABANG",
+  "name": "KARYAMUKTI",
+  "postalCode": "36655"
+ },
+ {
+  "id": 3215090008,
+  "districtId": 3215090,
+  "districtName": "LEMAHABANG",
+  "name": "PULOJAYA",
+  "postalCode": "41383"
+ },
+ {
+  "id": 3215090009,
+  "districtId": 3215090,
+  "districtName": "LEMAHABANG",
+  "name": "PULOKELAPA",
+  "postalCode": "41383"
+ },
+ {
+  "id": 3215090010,
+  "districtId": 3215090,
+  "districtName": "LEMAHABANG",
+  "name": "LEMAHMUKTI",
+  "postalCode": "41383"
+ },
+ {
+  "id": 3215090011,
+  "districtId": 3215090,
+  "districtName": "LEMAHABANG",
+  "name": "PULOMULYA",
+  "postalCode": "41383"
+ }
+]

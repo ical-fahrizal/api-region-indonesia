@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1305090001,
+  "districtId": 1305090,
+  "districtName": "SUNGAYANG",
+  "name": "MINANGKABAU",
+  "postalCode": "27294"
+ },
+ {
+  "id": 1305090002,
+  "districtId": 1305090,
+  "districtName": "SUNGAYANG",
+  "name": "ANDALEH BARUH BUKIK",
+  "postalCode": ""
+ },
+ {
+  "id": 1305090003,
+  "districtId": 1305090,
+  "districtName": "SUNGAYANG",
+  "name": "SUNGAYANG",
+  "postalCode": "27294"
+ },
+ {
+  "id": 1305090004,
+  "districtId": 1305090,
+  "districtName": "SUNGAYANG",
+  "name": "TANJUANG",
+  "postalCode": ""
+ },
+ {
+  "id": 1305090005,
+  "districtId": 1305090,
+  "districtName": "SUNGAYANG",
+  "name": "SUNGAI PATAI",
+  "postalCode": "27294"
+ }
+]

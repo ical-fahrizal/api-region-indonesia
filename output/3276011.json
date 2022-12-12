@@ -1,0 +1,44 @@
+[
+ {
+  "id": 3276011001,
+  "districtId": 3276011,
+  "districtName": "BOJONGSARI",
+  "name": "DUREN SERIBU",
+  "postalCode": "16518"
+ },
+ {
+  "id": 3276011002,
+  "districtId": 3276011,
+  "districtName": "BOJONGSARI",
+  "name": "DUREN MEKAR",
+  "postalCode": "16518"
+ },
+ {
+  "id": 3276011003,
+  "districtId": 3276011,
+  "districtName": "BOJONGSARI",
+  "name": "BOJONGSARI LAMA",
+  "postalCode": ""
+ },
+ {
+  "id": 3276011004,
+  "districtId": 3276011,
+  "districtName": "BOJONGSARI",
+  "name": "BOJONGSARI BARU",
+  "postalCode": ""
+ },
+ {
+  "id": 3276011006,
+  "districtId": 3276011,
+  "districtName": "BOJONGSARI",
+  "name": "PONDOK PETIR",
+  "postalCode": "16517"
+ },
+ {
+  "id": 3276011007,
+  "districtId": 3276011,
+  "districtName": "BOJONGSARI",
+  "name": "SERUA",
+  "postalCode": "16517"
+ }
+]

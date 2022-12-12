@@ -1,0 +1,51 @@
+[
+ {
+  "id": 1371070005,
+  "districtId": 1371070,
+  "districtName": "PADANG UTARA",
+  "name": "GUNUNG PANGILUN",
+  "postalCode": "25137"
+ },
+ {
+  "id": 1371070010,
+  "districtId": 1371070,
+  "districtName": "PADANG UTARA",
+  "name": "ULAK KARANG SELATAN",
+  "postalCode": "25134"
+ },
+ {
+  "id": 1371070012,
+  "districtId": 1371070,
+  "districtName": "PADANG UTARA",
+  "name": "ULAK KARANG UTARA",
+  "postalCode": "25133"
+ },
+ {
+  "id": 1371070017,
+  "districtId": 1371070,
+  "districtName": "PADANG UTARA",
+  "name": "AIR TAWAR TIMUR",
+  "postalCode": "25132"
+ },
+ {
+  "id": 1371070018,
+  "districtId": 1371070,
+  "districtName": "PADANG UTARA",
+  "name": "AIR TAWAR BARAT",
+  "postalCode": "25132"
+ },
+ {
+  "id": 1371070019,
+  "districtId": 1371070,
+  "districtName": "PADANG UTARA",
+  "name": "ALAI PARAK KOPI",
+  "postalCode": "25139"
+ },
+ {
+  "id": 1371070020,
+  "districtId": 1371070,
+  "districtName": "PADANG UTARA",
+  "name": "LOLONG BELANTI",
+  "postalCode": "25136"
+ }
+]

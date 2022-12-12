@@ -1,0 +1,72 @@
+[
+ {
+  "id": 5203050001,
+  "districtId": 5203050,
+  "districtName": "MASBAGIK",
+  "name": "KESIK",
+  "postalCode": "83661"
+ },
+ {
+  "id": 5203050002,
+  "districtId": 5203050,
+  "districtName": "MASBAGIK",
+  "name": "PAOK MOTONG",
+  "postalCode": "83661"
+ },
+ {
+  "id": 5203050003,
+  "districtId": 5203050,
+  "districtName": "MASBAGIK",
+  "name": "MASBAGIK SELATAN",
+  "postalCode": "83661"
+ },
+ {
+  "id": 5203050004,
+  "districtId": 5203050,
+  "districtName": "MASBAGIK",
+  "name": "MASBAGIK TIMUR",
+  "postalCode": "83661"
+ },
+ {
+  "id": 5203050007,
+  "districtId": 5203050,
+  "districtName": "MASBAGIK",
+  "name": "MASBAGIK UTARA",
+  "postalCode": "83661"
+ },
+ {
+  "id": 5203050008,
+  "districtId": 5203050,
+  "districtName": "MASBAGIK",
+  "name": "DANGER",
+  "postalCode": "83661"
+ },
+ {
+  "id": 5203050009,
+  "districtId": 5203050,
+  "districtName": "MASBAGIK",
+  "name": "LENDANG NANGKA",
+  "postalCode": "83661"
+ },
+ {
+  "id": 5203050010,
+  "districtId": 5203050,
+  "districtName": "MASBAGIK",
+  "name": "MASBAGIK UTARA BARU",
+  "postalCode": "83661"
+ },
+ {
+  "id": 5203050011,
+  "districtId": 5203050,
+  "districtName": "MASBAGIK",
+  "name": "LENDANG NANGKA UTARA",
+  "postalCode": "83661"
+ },
+ {
+  "id": 5203050012,
+  "districtId": 5203050,
+  "districtName": "MASBAGIK",
+  "name": "KUMBANG",
+  "postalCode": "24162"
+ }
+]

@@ -1,0 +1,72 @@
+[
+ {
+  "id": 1172010001,
+  "districtId": 1172010,
+  "districtName": "SUKAJAYA",
+  "name": "PAYA",
+  "postalCode": "24152"
+ },
+ {
+  "id": 1172010002,
+  "districtId": 1172010,
+  "districtName": "SUKAJAYA",
+  "name": "KEUNEUKAI",
+  "postalCode": ""
+ },
+ {
+  "id": 1172010003,
+  "districtId": 1172010,
+  "districtName": "SUKAJAYA",
+  "name": "BEURAWANG",
+  "postalCode": "23652"
+ },
+ {
+  "id": 1172010004,
+  "districtId": 1172010,
+  "districtName": "SUKAJAYA",
+  "name": "JABOI",
+  "postalCode": "23526"
+ },
+ {
+  "id": 1172010005,
+  "districtId": 1172010,
+  "districtName": "SUKAJAYA",
+  "name": "BALOHAN",
+  "postalCode": "23525"
+ },
+ {
+  "id": 1172010006,
+  "districtId": 1172010,
+  "districtName": "SUKAJAYA",
+  "name": "COT ABEUK",
+  "postalCode": "23523"
+ },
+ {
+  "id": 1172010007,
+  "districtId": 1172010,
+  "districtName": "SUKAJAYA",
+  "name": "COT BA'U",
+  "postalCode": ""
+ },
+ {
+  "id": 1172010008,
+  "districtId": 1172010,
+  "districtName": "SUKAJAYA",
+  "name": "ANOE ITAM",
+  "postalCode": ""
+ },
+ {
+  "id": 1172010009,
+  "districtId": 1172010,
+  "districtName": "SUKAJAYA",
+  "name": "UJONG KAREUNG",
+  "postalCode": ""
+ },
+ {
+  "id": 1172010010,
+  "districtId": 1172010,
+  "districtName": "SUKAJAYA",
+  "name": "IE MEULEE",
+  "postalCode": "23521"
+ }
+]

@@ -1,0 +1,65 @@
+[
+ {
+  "id": 9412042001,
+  "districtId": 9412042,
+  "districtName": "JITA",
+  "name": "SUMAPRO",
+  "postalCode": "99965"
+ },
+ {
+  "id": 9412042002,
+  "districtId": 9412042,
+  "districtName": "JITA",
+  "name": "WAPU",
+  "postalCode": "99965"
+ },
+ {
+  "id": 9412042003,
+  "districtId": 9412042,
+  "districtName": "JITA",
+  "name": "WENIN",
+  "postalCode": "99965"
+ },
+ {
+  "id": 9412042004,
+  "districtId": 9412042,
+  "districtName": "JITA",
+  "name": "NOEMA",
+  "postalCode": ""
+ },
+ {
+  "id": 9412042005,
+  "districtId": 9412042,
+  "districtName": "JITA",
+  "name": "SEMPAN TIMUR",
+  "postalCode": "99965"
+ },
+ {
+  "id": 9412042006,
+  "districtId": 9412042,
+  "districtName": "JITA",
+  "name": "WACAKAM",
+  "postalCode": ""
+ },
+ {
+  "id": 9412042007,
+  "districtId": 9412042,
+  "districtName": "JITA",
+  "name": "WAITUKU",
+  "postalCode": ""
+ },
+ {
+  "id": 9412042008,
+  "districtId": 9412042,
+  "districtName": "JITA",
+  "name": "YAITAK",
+  "postalCode": ""
+ },
+ {
+  "id": 9412042010,
+  "districtId": 9412042,
+  "districtName": "JITA",
+  "name": "KANMAPIRI",
+  "postalCode": ""
+ }
+]

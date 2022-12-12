@@ -1,0 +1,51 @@
+[
+ {
+  "id": 6302170001,
+  "districtId": 6302170,
+  "districtName": "KELUMPANG UTARA",
+  "name": "SUNGAI HANYAR",
+  "postalCode": ""
+ },
+ {
+  "id": 6302170002,
+  "districtId": 6302170,
+  "districtName": "KELUMPANG UTARA",
+  "name": "PUDI",
+  "postalCode": "72165"
+ },
+ {
+  "id": 6302170003,
+  "districtId": 6302170,
+  "districtName": "KELUMPANG UTARA",
+  "name": "SUNGAI SELUANG",
+  "postalCode": ""
+ },
+ {
+  "id": 6302170004,
+  "districtId": 6302170,
+  "districtName": "KELUMPANG UTARA",
+  "name": "MANGGA",
+  "postalCode": "20141"
+ },
+ {
+  "id": 6302170005,
+  "districtId": 6302170,
+  "districtName": "KELUMPANG UTARA",
+  "name": "PUDI SEBERANG",
+  "postalCode": "72165"
+ },
+ {
+  "id": 6302170006,
+  "districtId": 6302170,
+  "districtName": "KELUMPANG UTARA",
+  "name": "SULANGKIT",
+  "postalCode": "72165"
+ },
+ {
+  "id": 6302170007,
+  "districtId": 6302170,
+  "districtName": "KELUMPANG UTARA",
+  "name": "WILAS",
+  "postalCode": "72165"
+ }
+]

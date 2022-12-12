@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1871061001,
+  "districtId": 1871061,
+  "districtName": "ENGGAL",
+  "name": "GUNUNG SARI",
+  "postalCode": "28471"
+ },
+ {
+  "id": 1871061002,
+  "districtId": 1871061,
+  "districtName": "ENGGAL",
+  "name": "TANJUNG KARANG",
+  "postalCode": "24476"
+ },
+ {
+  "id": 1871061003,
+  "districtId": 1871061,
+  "districtName": "ENGGAL",
+  "name": "PELITA",
+  "postalCode": "20621"
+ },
+ {
+  "id": 1871061004,
+  "districtId": 1871061,
+  "districtName": "ENGGAL",
+  "name": "ENGGAL",
+  "postalCode": "35118"
+ },
+ {
+  "id": 1871061005,
+  "districtId": 1871061,
+  "districtName": "ENGGAL",
+  "name": "RAWA LAUT",
+  "postalCode": "35127"
+ },
+ {
+  "id": 1871061006,
+  "districtId": 1871061,
+  "districtName": "ENGGAL",
+  "name": "PAHOMAN",
+  "postalCode": "35213"
+ }
+]

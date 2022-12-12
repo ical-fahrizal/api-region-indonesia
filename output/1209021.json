@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1209021001,
+  "districtId": 1209021,
+  "districtName": "HARANGGAOL HORISON",
+  "name": "NAGORI SIHALPE",
+  "postalCode": "21174"
+ },
+ {
+  "id": 1209021002,
+  "districtId": 1209021,
+  "districtName": "HARANGGAOL HORISON",
+  "name": "PURBA HORISON",
+  "postalCode": ""
+ },
+ {
+  "id": 1209021003,
+  "districtId": 1209021,
+  "districtName": "HARANGGAOL HORISON",
+  "name": "PURBA PASIR",
+  "postalCode": ""
+ },
+ {
+  "id": 1209021004,
+  "districtId": 1209021,
+  "districtName": "HARANGGAOL HORISON",
+  "name": "HARANGGAOL",
+  "postalCode": "21174"
+ },
+ {
+  "id": 1209021005,
+  "districtId": 1209021,
+  "districtName": "HARANGGAOL HORISON",
+  "name": "NAGORI PURBA",
+  "postalCode": ""
+ }
+]

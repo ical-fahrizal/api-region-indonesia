@@ -1,0 +1,30 @@
+[
+ {
+  "id": 9402194001,
+  "districtId": 9402194,
+  "districtName": "WADANGKU",
+  "name": "WADANGKU",
+  "postalCode": "99552"
+ },
+ {
+  "id": 9402194003,
+  "districtId": 9402194,
+  "districtName": "WADANGKU",
+  "name": "AGULIMO",
+  "postalCode": "99552"
+ },
+ {
+  "id": 9402194004,
+  "districtId": 9402194,
+  "districtName": "WADANGKU",
+  "name": "MUSIEM",
+  "postalCode": "99552"
+ },
+ {
+  "id": 9402194005,
+  "districtId": 9402194,
+  "districtName": "WADANGKU",
+  "name": "YOMOSIMA",
+  "postalCode": ""
+ }
+]

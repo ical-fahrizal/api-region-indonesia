@@ -1,0 +1,37 @@
+[
+ {
+  "id": 7271020004,
+  "districtId": 7271020,
+  "districtName": "PALU SELATAN",
+  "name": "BIROBULI SELATAN",
+  "postalCode": "94231"
+ },
+ {
+  "id": 7271020005,
+  "districtId": 7271020,
+  "districtName": "PALU SELATAN",
+  "name": "PETOBO",
+  "postalCode": "94232"
+ },
+ {
+  "id": 7271020007,
+  "districtId": 7271020,
+  "districtName": "PALU SELATAN",
+  "name": "BIROBULI UTARA",
+  "postalCode": "94231"
+ },
+ {
+  "id": 7271020008,
+  "districtId": 7271020,
+  "districtName": "PALU SELATAN",
+  "name": "TATURA UTARA",
+  "postalCode": "94236"
+ },
+ {
+  "id": 7271020009,
+  "districtId": 7271020,
+  "districtName": "PALU SELATAN",
+  "name": "TATURA SELATAN",
+  "postalCode": "94236"
+ }
+]

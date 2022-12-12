@@ -1,0 +1,44 @@
+[
+ {
+  "id": 7103092001,
+  "districtId": 7103092,
+  "districtName": "TAHUNA BARAT",
+  "name": "PANANEKENG",
+  "postalCode": "95811"
+ },
+ {
+  "id": 7103092002,
+  "districtId": 7103092,
+  "districtName": "TAHUNA BARAT",
+  "name": "ANGGES",
+  "postalCode": "95817"
+ },
+ {
+  "id": 7103092003,
+  "districtId": 7103092,
+  "districtName": "TAHUNA BARAT",
+  "name": "MITUNG",
+  "postalCode": ""
+ },
+ {
+  "id": 7103092004,
+  "districtId": 7103092,
+  "districtName": "TAHUNA BARAT",
+  "name": "BEHA",
+  "postalCode": "95856"
+ },
+ {
+  "id": 7103092005,
+  "districtId": 7103092,
+  "districtName": "TAHUNA BARAT",
+  "name": "AKEMBAWI",
+  "postalCode": "95818"
+ },
+ {
+  "id": 7103092006,
+  "districtId": 7103092,
+  "districtName": "TAHUNA BARAT",
+  "name": "BEHA BARU",
+  "postalCode": ""
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3205040001,
+  "districtId": 3205040,
+  "districtName": "PAMULIHAN",
+  "name": "LINGGARJATI",
+  "postalCode": "45556"
+ },
+ {
+  "id": 3205040002,
+  "districtId": 3205040,
+  "districtName": "PAMULIHAN",
+  "name": "GARUMUKTI",
+  "postalCode": "44168"
+ },
+ {
+  "id": 3205040003,
+  "districtId": 3205040,
+  "districtName": "PAMULIHAN",
+  "name": "PANAWA",
+  "postalCode": "44168"
+ },
+ {
+  "id": 3205040004,
+  "districtId": 3205040,
+  "districtName": "PAMULIHAN",
+  "name": "PAKENJENG",
+  "postalCode": "44164"
+ },
+ {
+  "id": 3205040005,
+  "districtId": 3205040,
+  "districtName": "PAMULIHAN",
+  "name": "PANANJUNG",
+  "postalCode": "40238"
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1272010001,
+  "districtId": 1272010,
+  "districtName": "DATUK BANDAR",
+  "name": "SIJAMBI",
+  "postalCode": "21361"
+ },
+ {
+  "id": 1272010002,
+  "districtId": 1272010,
+  "districtName": "DATUK BANDAR",
+  "name": "PAHANG",
+  "postalCode": "21369"
+ },
+ {
+  "id": 1272010003,
+  "districtId": 1272010,
+  "districtName": "DATUK BANDAR",
+  "name": "GADING",
+  "postalCode": "22755"
+ },
+ {
+  "id": 1272010009,
+  "districtId": 1272010,
+  "districtName": "DATUK BANDAR",
+  "name": "SIRANTAU",
+  "postalCode": "21368"
+ },
+ {
+  "id": 1272010010,
+  "districtId": 1272010,
+  "districtName": "DATUK BANDAR",
+  "name": "PANTAI JOHOR",
+  "postalCode": "21368"
+ }
+]

@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3521160001,
+  "districtId": 3521160,
+  "districtName": "MANTINGAN",
+  "name": "TAMBAK BOYO",
+  "postalCode": "32361"
+ },
+ {
+  "id": 3521160002,
+  "districtId": 3521160,
+  "districtName": "MANTINGAN",
+  "name": "PAKAH",
+  "postalCode": "63261"
+ },
+ {
+  "id": 3521160003,
+  "districtId": 3521160,
+  "districtName": "MANTINGAN",
+  "name": "KEDUNGHARJO",
+  "postalCode": "63261"
+ },
+ {
+  "id": 3521160004,
+  "districtId": 3521160,
+  "districtName": "MANTINGAN",
+  "name": "MANTINGAN",
+  "postalCode": "59255"
+ },
+ {
+  "id": 3521160005,
+  "districtId": 3521160,
+  "districtName": "MANTINGAN",
+  "name": "SAMBIREJO",
+  "postalCode": "39153"
+ },
+ {
+  "id": 3521160006,
+  "districtId": 3521160,
+  "districtName": "MANTINGAN",
+  "name": "PENGKOL",
+  "postalCode": "57692"
+ },
+ {
+  "id": 3521160007,
+  "districtId": 3521160,
+  "districtName": "MANTINGAN",
+  "name": "JATIMULYO",
+  "postalCode": "35365"
+ }
+]

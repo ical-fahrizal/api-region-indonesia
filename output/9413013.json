@@ -1,0 +1,37 @@
+[
+ {
+  "id": 9413013004,
+  "districtId": 9413013,
+  "districtName": "KIA",
+  "name": "METTO",
+  "postalCode": "99661"
+ },
+ {
+  "id": 9413013006,
+  "districtId": 9413013,
+  "districtName": "KIA",
+  "name": "UJUNGKIA",
+  "postalCode": "99661"
+ },
+ {
+  "id": 9413013007,
+  "districtId": 9413013,
+  "districtName": "KIA",
+  "name": "OBINANGGE",
+  "postalCode": "99661"
+ },
+ {
+  "id": 9413013008,
+  "districtId": 9413013,
+  "districtName": "KIA",
+  "name": "WATEMU",
+  "postalCode": "99661"
+ },
+ {
+  "id": 9413013009,
+  "districtId": 9413013,
+  "districtName": "KIA",
+  "name": "KAPOHU",
+  "postalCode": ""
+ }
+]

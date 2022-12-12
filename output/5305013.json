@@ -1,0 +1,30 @@
+[
+ {
+  "id": 5305013001,
+  "districtId": 5305013,
+  "districtName": "MUTIS",
+  "name": "TASINIFU",
+  "postalCode": "85661"
+ },
+ {
+  "id": 5305013002,
+  "districtId": 5305013,
+  "districtName": "MUTIS",
+  "name": "NAEKAKE A",
+  "postalCode": "85661"
+ },
+ {
+  "id": 5305013003,
+  "districtId": 5305013,
+  "districtName": "MUTIS",
+  "name": "NAEKAKE B",
+  "postalCode": "85661"
+ },
+ {
+  "id": 5305013004,
+  "districtId": 5305013,
+  "districtName": "MUTIS",
+  "name": "NOELELO",
+  "postalCode": "85661"
+ }
+]

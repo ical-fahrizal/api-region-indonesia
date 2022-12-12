@@ -1,0 +1,44 @@
+[
+ {
+  "id": 3172080001,
+  "districtId": 3172080,
+  "districtName": "CAKUNG",
+  "name": "JATINEGARA",
+  "postalCode": "13930"
+ },
+ {
+  "id": 3172080002,
+  "districtId": 3172080,
+  "districtName": "CAKUNG",
+  "name": "PENGGILINGAN",
+  "postalCode": "13940"
+ },
+ {
+  "id": 3172080003,
+  "districtId": 3172080,
+  "districtName": "CAKUNG",
+  "name": "PULO GEBANG",
+  "postalCode": "13950"
+ },
+ {
+  "id": 3172080005,
+  "districtId": 3172080,
+  "districtName": "CAKUNG",
+  "name": "CAKUNG TIMUR",
+  "postalCode": "13910"
+ },
+ {
+  "id": 3172080006,
+  "districtId": 3172080,
+  "districtName": "CAKUNG",
+  "name": "CAKUNG BARAT",
+  "postalCode": "13910"
+ },
+ {
+  "id": 3172080007,
+  "districtId": 3172080,
+  "districtName": "CAKUNG",
+  "name": "RAWA TERATE",
+  "postalCode": "13920"
+ }
+]

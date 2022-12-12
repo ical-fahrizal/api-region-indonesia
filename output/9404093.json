@@ -1,0 +1,37 @@
+[
+ {
+  "id": 9404093001,
+  "districtId": 9404093,
+  "districtName": "KEPULAUAN MOORA",
+  "name": "ARUI",
+  "postalCode": "98861"
+ },
+ {
+  "id": 9404093002,
+  "districtId": 9404093,
+  "districtName": "KEPULAUAN MOORA",
+  "name": "MOOR",
+  "postalCode": "98861"
+ },
+ {
+  "id": 9404093003,
+  "districtId": 9404093,
+  "districtName": "KEPULAUAN MOORA",
+  "name": "KAMA",
+  "postalCode": "98861"
+ },
+ {
+  "id": 9404093004,
+  "districtId": 9404093,
+  "districtName": "KEPULAUAN MOORA",
+  "name": "MAMBOR",
+  "postalCode": "98861"
+ },
+ {
+  "id": 9404093005,
+  "districtId": 9404093,
+  "districtName": "KEPULAUAN MOORA",
+  "name": "HARITI",
+  "postalCode": "71271"
+ }
+]

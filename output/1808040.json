@@ -1,0 +1,72 @@
+[
+ {
+  "id": 1808040001,
+  "districtId": 1808040,
+  "districtName": "GEDUNG AJI",
+  "name": "PENAWAR BARU",
+  "postalCode": "34681"
+ },
+ {
+  "id": 1808040002,
+  "districtId": 1808040,
+  "districtName": "GEDUNG AJI",
+  "name": "GEDUNG AJI",
+  "postalCode": "34681"
+ },
+ {
+  "id": 1808040003,
+  "districtId": 1808040,
+  "districtName": "GEDUNG AJI",
+  "name": "PENAWAR",
+  "postalCode": ""
+ },
+ {
+  "id": 1808040004,
+  "districtId": 1808040,
+  "districtName": "GEDUNG AJI",
+  "name": "AJI JAYA KNPI",
+  "postalCode": "34681"
+ },
+ {
+  "id": 1808040005,
+  "districtId": 1808040,
+  "districtName": "GEDUNG AJI",
+  "name": "KECUBUNG JAYA",
+  "postalCode": "34681"
+ },
+ {
+  "id": 1808040014,
+  "districtId": 1808040,
+  "districtName": "GEDUNG AJI",
+  "name": "KECUBUNG MULYA",
+  "postalCode": "34681"
+ },
+ {
+  "id": 1808040015,
+  "districtId": 1808040,
+  "districtName": "GEDUNG AJI",
+  "name": "AJI MURNI JAYA",
+  "postalCode": "34681"
+ },
+ {
+  "id": 1808040016,
+  "districtId": 1808040,
+  "districtName": "GEDUNG AJI",
+  "name": "AJI MESIR",
+  "postalCode": "34681"
+ },
+ {
+  "id": 1808040017,
+  "districtId": 1808040,
+  "districtName": "GEDUNG AJI",
+  "name": "AJI PERMAI TALANG BUAH",
+  "postalCode": "34681"
+ },
+ {
+  "id": 1808040018,
+  "districtId": 1808040,
+  "districtName": "GEDUNG AJI",
+  "name": "BANDAR AJI JAYA",
+  "postalCode": "34681"
+ }
+]

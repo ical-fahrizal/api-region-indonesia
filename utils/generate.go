@@ -152,7 +152,7 @@ func Generate() {
 		// log.Printf("Selesai sleep.....")
 	}
 
-	log.Printf("masuk 1")
+	// log.Printf("masuk 1")
 	//Create json File Districts
 	log.Printf("Create json File Districts")
 	for _, v1 := range ArrRegencies {

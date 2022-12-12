@@ -1,0 +1,58 @@
+[
+ {
+  "id": 3314100001,
+  "districtId": 3314100,
+  "districtName": "SRAGEN",
+  "name": "SINE",
+  "postalCode": "57213"
+ },
+ {
+  "id": 3314100002,
+  "districtId": 3314100,
+  "districtName": "SRAGEN",
+  "name": "SRAGEN KULON",
+  "postalCode": "57212"
+ },
+ {
+  "id": 3314100003,
+  "districtId": 3314100,
+  "districtName": "SRAGEN",
+  "name": "SRAGEN TENGAH",
+  "postalCode": "57211"
+ },
+ {
+  "id": 3314100004,
+  "districtId": 3314100,
+  "districtName": "SRAGEN",
+  "name": "SRAGEN WETAN",
+  "postalCode": "57214"
+ },
+ {
+  "id": 3314100005,
+  "districtId": 3314100,
+  "districtName": "SRAGEN",
+  "name": "NGLOROG",
+  "postalCode": "56272"
+ },
+ {
+  "id": 3314100006,
+  "districtId": 3314100,
+  "districtName": "SRAGEN",
+  "name": "KARANG TENGAH",
+  "postalCode": "20991"
+ },
+ {
+  "id": 3314100007,
+  "districtId": 3314100,
+  "districtName": "SRAGEN",
+  "name": "TANGKIL",
+  "postalCode": "37163"
+ },
+ {
+  "id": 3314100008,
+  "districtId": 3314100,
+  "districtName": "SRAGEN",
+  "name": "KEDUNGUPIT",
+  "postalCode": "57211"
+ }
+]

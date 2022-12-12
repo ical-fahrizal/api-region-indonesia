@@ -1,0 +1,37 @@
+[
+ {
+  "id": 6504100001,
+  "districtId": 6504100,
+  "districtName": "NUNUKAN",
+  "name": "NUNUKAN BARAT",
+  "postalCode": "77482"
+ },
+ {
+  "id": 6504100002,
+  "districtId": 6504100,
+  "districtName": "NUNUKAN",
+  "name": "BINUSAN",
+  "postalCode": "77482"
+ },
+ {
+  "id": 6504100003,
+  "districtId": 6504100,
+  "districtName": "NUNUKAN",
+  "name": "NUNUKAN TENGAH",
+  "postalCode": "77482"
+ },
+ {
+  "id": 6504100004,
+  "districtId": 6504100,
+  "districtName": "NUNUKAN",
+  "name": "NUNUKAN TIMUR",
+  "postalCode": "77482"
+ },
+ {
+  "id": 6504100005,
+  "districtId": 6504100,
+  "districtName": "NUNUKAN",
+  "name": "NUNUKAN UTARA",
+  "postalCode": "77482"
+ }
+]

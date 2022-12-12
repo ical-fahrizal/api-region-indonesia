@@ -1,0 +1,65 @@
+[
+ {
+  "id": 1506060001,
+  "districtId": 1506060,
+  "districtName": "SADU",
+  "name": "SUNGAI BENUH",
+  "postalCode": "36773"
+ },
+ {
+  "id": 1506060002,
+  "districtId": 1506060,
+  "districtName": "SADU",
+  "name": "LABUHAN PERING",
+  "postalCode": "36773"
+ },
+ {
+  "id": 1506060003,
+  "districtId": 1506060,
+  "districtName": "SADU",
+  "name": "SUNGAI CEMARA",
+  "postalCode": "36773"
+ },
+ {
+  "id": 1506060004,
+  "districtId": 1506060,
+  "districtName": "SADU",
+  "name": "AIR HITAM LAUT",
+  "postalCode": ""
+ },
+ {
+  "id": 1506060005,
+  "districtId": 1506060,
+  "districtName": "SADU",
+  "name": "REMAU BAKU TUO",
+  "postalCode": "36773"
+ },
+ {
+  "id": 1506060006,
+  "districtId": 1506060,
+  "districtName": "SADU",
+  "name": "SUNGAI SAYANG",
+  "postalCode": "36773"
+ },
+ {
+  "id": 1506060007,
+  "districtId": 1506060,
+  "districtName": "SADU",
+  "name": "SUNGAI JAMBAT",
+  "postalCode": "36773"
+ },
+ {
+  "id": 1506060008,
+  "districtId": 1506060,
+  "districtName": "SADU",
+  "name": "SUNGAI LOKAN",
+  "postalCode": "29272"
+ },
+ {
+  "id": 1506060009,
+  "districtId": 1506060,
+  "districtName": "SADU",
+  "name": "SUNGAI ITIK",
+  "postalCode": "36773"
+ }
+]

@@ -1,0 +1,58 @@
+[
+ {
+  "id": 9415031001,
+  "districtId": 9415031,
+  "districtName": "SIRETS",
+  "name": "WAGANU",
+  "postalCode": "99776"
+ },
+ {
+  "id": 9415031002,
+  "districtId": 9415031,
+  "districtName": "SIRETS",
+  "name": "FOS",
+  "postalCode": "99776"
+ },
+ {
+  "id": 9415031003,
+  "districtId": 9415031,
+  "districtName": "SIRETS",
+  "name": "AWOK",
+  "postalCode": "99776"
+ },
+ {
+  "id": 9415031004,
+  "districtId": 9415031,
+  "districtName": "SIRETS",
+  "name": "KAIMO",
+  "postalCode": "99776"
+ },
+ {
+  "id": 9415031005,
+  "districtId": 9415031,
+  "districtName": "SIRETS",
+  "name": "YAUSAKOR",
+  "postalCode": ""
+ },
+ {
+  "id": 9415031006,
+  "districtId": 9415031,
+  "districtName": "SIRETS",
+  "name": "DAMEN",
+  "postalCode": "99776"
+ },
+ {
+  "id": 9415031007,
+  "districtId": 9415031,
+  "districtName": "SIRETS",
+  "name": "BIWAR DARAT",
+  "postalCode": "99776"
+ },
+ {
+  "id": 9415031008,
+  "districtId": 9415031,
+  "districtName": "SIRETS",
+  "name": "SAKOR",
+  "postalCode": "99776"
+ }
+]

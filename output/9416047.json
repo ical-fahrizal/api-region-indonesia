@@ -1,0 +1,79 @@
+[
+ {
+  "id": 9416047001,
+  "districtId": 9416047,
+  "districtName": "SUMO",
+  "name": "SUMO",
+  "postalCode": "99571"
+ },
+ {
+  "id": 9416047002,
+  "districtId": 9416047,
+  "districtName": "SUMO",
+  "name": "UAM",
+  "postalCode": "99571"
+ },
+ {
+  "id": 9416047003,
+  "districtId": 9416047,
+  "districtName": "SUMO",
+  "name": "MAKU",
+  "postalCode": "94361"
+ },
+ {
+  "id": 9416047004,
+  "districtId": 9416047,
+  "districtName": "SUMO",
+  "name": "OBOKAIN",
+  "postalCode": "99571"
+ },
+ {
+  "id": 9416047005,
+  "districtId": 9416047,
+  "districtName": "SUMO",
+  "name": "JIBUK",
+  "postalCode": "99571"
+ },
+ {
+  "id": 9416047006,
+  "districtId": 9416047,
+  "districtName": "SUMO",
+  "name": "WENAPONG",
+  "postalCode": "99571"
+ },
+ {
+  "id": 9416047007,
+  "districtId": 9416047,
+  "districtName": "SUMO",
+  "name": "MUARA BALIM",
+  "postalCode": "99571"
+ },
+ {
+  "id": 9416047008,
+  "districtId": 9416047,
+  "districtName": "SUMO",
+  "name": "HUNISI",
+  "postalCode": "97553"
+ },
+ {
+  "id": 9416047009,
+  "districtId": 9416047,
+  "districtName": "SUMO",
+  "name": "BOOR",
+  "postalCode": "99571"
+ },
+ {
+  "id": 9416047010,
+  "districtId": 9416047,
+  "districtName": "SUMO",
+  "name": "WIRILU",
+  "postalCode": "99571"
+ },
+ {
+  "id": 9416047011,
+  "districtId": 9416047,
+  "districtName": "SUMO",
+  "name": "KWIRISIDE",
+  "postalCode": "99571"
+ }
+]

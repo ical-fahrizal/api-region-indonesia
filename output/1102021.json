@@ -1,0 +1,51 @@
+[
+ {
+  "id": 1102021001,
+  "districtId": 1102021,
+  "districtName": "SINGKIL UTARA",
+  "name": "GOSONG TELAGA UTARA",
+  "postalCode": "24785"
+ },
+ {
+  "id": 1102021002,
+  "districtId": 1102021,
+  "districtName": "SINGKIL UTARA",
+  "name": "GOSONG TELAGA SELATAN",
+  "postalCode": "24785"
+ },
+ {
+  "id": 1102021003,
+  "districtId": 1102021,
+  "districtName": "SINGKIL UTARA",
+  "name": "GOSONG TELAGA TIMUR",
+  "postalCode": "24785"
+ },
+ {
+  "id": 1102021004,
+  "districtId": 1102021,
+  "districtName": "SINGKIL UTARA",
+  "name": "TELAGA BAKTI",
+  "postalCode": ""
+ },
+ {
+  "id": 1102021005,
+  "districtId": 1102021,
+  "districtName": "SINGKIL UTARA",
+  "name": "KAMPUNG BARU",
+  "postalCode": "24652"
+ },
+ {
+  "id": 1102021006,
+  "districtId": 1102021,
+  "districtName": "SINGKIL UTARA",
+  "name": "KETAPANG INDAH",
+  "postalCode": "24785"
+ },
+ {
+  "id": 1102021007,
+  "districtId": 1102021,
+  "districtName": "SINGKIL UTARA",
+  "name": "GOSONG TELAGA BARAT",
+  "postalCode": "24785"
+ }
+]

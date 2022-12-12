@@ -1,0 +1,44 @@
+[
+ {
+  "id": 9428040001,
+  "districtId": 9428040,
+  "districtName": "MAMBERAMO ILIR",
+  "name": "BAUDI",
+  "postalCode": "99375"
+ },
+ {
+  "id": 9428040003,
+  "districtId": 9428040,
+  "districtName": "MAMBERAMO ILIR",
+  "name": "SWASESO",
+  "postalCode": ""
+ },
+ {
+  "id": 9428040004,
+  "districtId": 9428040,
+  "districtName": "MAMBERAMO ILIR",
+  "name": "KAPESO",
+  "postalCode": "99375"
+ },
+ {
+  "id": 9428040005,
+  "districtId": 9428040,
+  "districtName": "MAMBERAMO ILIR",
+  "name": "BAGUSA",
+  "postalCode": ""
+ },
+ {
+  "id": 9428040006,
+  "districtId": 9428040,
+  "districtName": "MAMBERAMO ILIR",
+  "name": "WAREMBORI",
+  "postalCode": "99375"
+ },
+ {
+  "id": 9428040007,
+  "districtId": 9428040,
+  "districtName": "MAMBERAMO ILIR",
+  "name": "YOKE",
+  "postalCode": "99375"
+ }
+]

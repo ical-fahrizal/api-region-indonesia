@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1307100001,
+  "districtId": 1307100,
+  "districtName": "PALEMBAYAN",
+  "name": "BARINGIN",
+  "postalCode": "22456"
+ },
+ {
+  "id": 1307100002,
+  "districtId": 1307100,
+  "districtName": "PALEMBAYAN",
+  "name": "SUNGAI PUAR",
+  "postalCode": "26164"
+ },
+ {
+  "id": 1307100003,
+  "districtId": 1307100,
+  "districtName": "PALEMBAYAN",
+  "name": "SIPINANG",
+  "postalCode": "26164"
+ },
+ {
+  "id": 1307100004,
+  "districtId": 1307100,
+  "districtName": "PALEMBAYAN",
+  "name": "AMPEK KOTO PALEMBAYAN",
+  "postalCode": "26164"
+ },
+ {
+  "id": 1307100005,
+  "districtId": 1307100,
+  "districtName": "PALEMBAYAN",
+  "name": "TIGO KOTO SILUNGKANG",
+  "postalCode": "26164"
+ },
+ {
+  "id": 1307100006,
+  "districtId": 1307100,
+  "districtName": "PALEMBAYAN",
+  "name": "SALAREH AIA",
+  "postalCode": "26164"
+ }
+]

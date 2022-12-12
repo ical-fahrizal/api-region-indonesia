@@ -1,0 +1,37 @@
+[
+ {
+  "id": 2101020001,
+  "districtId": 2101020,
+  "districtName": "KUNDUR",
+  "name": "TANJUNG BATU BARAT",
+  "postalCode": "29662"
+ },
+ {
+  "id": 2101020002,
+  "districtId": 2101020,
+  "districtName": "KUNDUR",
+  "name": "TANJUNG BATU KOTA",
+  "postalCode": "29662"
+ },
+ {
+  "id": 2101020004,
+  "districtId": 2101020,
+  "districtName": "KUNDUR",
+  "name": "SUNGAI SEBESI",
+  "postalCode": ""
+ },
+ {
+  "id": 2101020005,
+  "districtId": 2101020,
+  "districtName": "KUNDUR",
+  "name": "SUNGAI UNGAR",
+  "postalCode": ""
+ },
+ {
+  "id": 2101020009,
+  "districtId": 2101020,
+  "districtName": "KUNDUR",
+  "name": "GADING SARI",
+  "postalCode": "28464"
+ }
+]

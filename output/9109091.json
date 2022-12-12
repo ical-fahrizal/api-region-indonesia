@@ -1,0 +1,37 @@
+[
+ {
+  "id": 9109091001,
+  "districtId": 9109091,
+  "districtName": "MPUR",
+  "name": "MANGGANEK / ARUPI",
+  "postalCode": ""
+ },
+ {
+  "id": 9109091002,
+  "districtId": 9109091,
+  "districtName": "MPUR",
+  "name": "MANGGANEK",
+  "postalCode": ""
+ },
+ {
+  "id": 9109091003,
+  "districtId": 9109091,
+  "districtName": "MPUR",
+  "name": "WAJAREK",
+  "postalCode": ""
+ },
+ {
+  "id": 9109091004,
+  "districtId": 9109091,
+  "districtName": "MPUR",
+  "name": "KALIAN",
+  "postalCode": "72169"
+ },
+ {
+  "id": 9109091005,
+  "districtId": 9109091,
+  "districtName": "MPUR",
+  "name": "WARPAPERI",
+  "postalCode": ""
+ }
+]

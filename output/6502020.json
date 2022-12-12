@@ -1,0 +1,44 @@
+[
+ {
+  "id": 6502020001,
+  "districtId": 6502020,
+  "districtName": "PESO HILIR",
+  "name": "NAHA AYA",
+  "postalCode": "77261"
+ },
+ {
+  "id": 6502020002,
+  "districtId": 6502020,
+  "districtName": "PESO HILIR",
+  "name": "LONG TELENJAU",
+  "postalCode": "77261"
+ },
+ {
+  "id": 6502020003,
+  "districtId": 6502020,
+  "districtName": "PESO HILIR",
+  "name": "LONG BANG HULU",
+  "postalCode": "77261"
+ },
+ {
+  "id": 6502020004,
+  "districtId": 6502020,
+  "districtName": "PESO HILIR",
+  "name": "LONG BANG",
+  "postalCode": "77261"
+ },
+ {
+  "id": 6502020005,
+  "districtId": 6502020,
+  "districtName": "PESO HILIR",
+  "name": "LONG TUNGU",
+  "postalCode": "77261"
+ },
+ {
+  "id": 6502020006,
+  "districtId": 6502020,
+  "districtName": "PESO HILIR",
+  "name": "LONG LEMBU",
+  "postalCode": "77261"
+ }
+]

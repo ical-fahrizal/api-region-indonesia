@@ -1,0 +1,30 @@
+[
+ {
+  "id": 9420010002,
+  "districtId": 9420010,
+  "districtName": "WEB",
+  "name": "SEMOGRAFI",
+  "postalCode": "99466"
+ },
+ {
+  "id": 9420010004,
+  "districtId": 9420010,
+  "districtName": "WEB",
+  "name": "UMUAF",
+  "postalCode": "99466"
+ },
+ {
+  "id": 9420010007,
+  "districtId": 9420010,
+  "districtName": "WEB",
+  "name": "YAMRAF II",
+  "postalCode": ""
+ },
+ {
+  "id": 9420010008,
+  "districtId": 9420010,
+  "districtName": "WEB",
+  "name": "TATAKRA",
+  "postalCode": ""
+ }
+]

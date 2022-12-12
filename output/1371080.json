@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1371080001,
+  "districtId": 1371080,
+  "districtName": "NANGGALO",
+  "name": "TABIANG BANDA GADANG",
+  "postalCode": ""
+ },
+ {
+  "id": 1371080002,
+  "districtId": 1371080,
+  "districtName": "NANGGALO",
+  "name": "GURUN LAWEH",
+  "postalCode": ""
+ },
+ {
+  "id": 1371080003,
+  "districtId": 1371080,
+  "districtName": "NANGGALO",
+  "name": "KAMPUNG OLO",
+  "postalCode": "25143"
+ },
+ {
+  "id": 1371080005,
+  "districtId": 1371080,
+  "districtName": "NANGGALO",
+  "name": "KAMPUNG LAPAI BARU",
+  "postalCode": ""
+ },
+ {
+  "id": 1371080006,
+  "districtId": 1371080,
+  "districtName": "NANGGALO",
+  "name": "SURAU GADANG",
+  "postalCode": "25146"
+ },
+ {
+  "id": 1371080007,
+  "districtId": 1371080,
+  "districtName": "NANGGALO",
+  "name": "KURAO PAGANG",
+  "postalCode": "25147"
+ }
+]

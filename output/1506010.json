@@ -1,0 +1,65 @@
+[
+ {
+  "id": 1506010010,
+  "districtId": 1506010,
+  "districtName": "MENDAHARA",
+  "name": "MENDAHARA TENGAH",
+  "postalCode": "36764"
+ },
+ {
+  "id": 1506010011,
+  "districtId": 1506010,
+  "districtName": "MENDAHARA",
+  "name": "PANGKAL DURI",
+  "postalCode": ""
+ },
+ {
+  "id": 1506010012,
+  "districtId": 1506010,
+  "districtName": "MENDAHARA",
+  "name": "MENDAHARA ILIR",
+  "postalCode": "36764"
+ },
+ {
+  "id": 1506010013,
+  "districtId": 1506010,
+  "districtName": "MENDAHARA",
+  "name": "LAGAN ILIR",
+  "postalCode": "36764"
+ },
+ {
+  "id": 1506010014,
+  "districtId": 1506010,
+  "districtName": "MENDAHARA",
+  "name": "BHAKTI IDAMAN",
+  "postalCode": ""
+ },
+ {
+  "id": 1506010015,
+  "districtId": 1506010,
+  "districtName": "MENDAHARA",
+  "name": "MERBAU",
+  "postalCode": "28383"
+ },
+ {
+  "id": 1506010016,
+  "districtId": 1506010,
+  "districtName": "MENDAHARA",
+  "name": "SUNGAI TAWAR",
+  "postalCode": "36764"
+ },
+ {
+  "id": 1506010017,
+  "districtId": 1506010,
+  "districtName": "MENDAHARA",
+  "name": "SINAR KALIMANTAN",
+  "postalCode": "36764"
+ },
+ {
+  "id": 1506010018,
+  "districtId": 1506010,
+  "districtName": "MENDAHARA",
+  "name": "PANGKAL DURI ILIR",
+  "postalCode": "36764"
+ }
+]

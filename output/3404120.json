@@ -1,0 +1,44 @@
+[
+ {
+  "id": 3404120001,
+  "districtId": 3404120,
+  "districtName": "NGAGLIK",
+  "name": "SARI HARJO",
+  "postalCode": "55581"
+ },
+ {
+  "id": 3404120002,
+  "districtId": 3404120,
+  "districtName": "NGAGLIK",
+  "name": "SINDUHARJO",
+  "postalCode": "55581"
+ },
+ {
+  "id": 3404120003,
+  "districtId": 3404120,
+  "districtName": "NGAGLIK",
+  "name": "MINOMARTANI",
+  "postalCode": "55581"
+ },
+ {
+  "id": 3404120004,
+  "districtId": 3404120,
+  "districtName": "NGAGLIK",
+  "name": "SUKO HARJO",
+  "postalCode": "34382"
+ },
+ {
+  "id": 3404120005,
+  "districtId": 3404120,
+  "districtName": "NGAGLIK",
+  "name": "SARDONOHARJO",
+  "postalCode": "55581"
+ },
+ {
+  "id": 3404120006,
+  "districtId": 3404120,
+  "districtName": "NGAGLIK",
+  "name": "DONOHARJO",
+  "postalCode": "55581"
+ }
+]

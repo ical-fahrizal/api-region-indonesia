@@ -1,0 +1,51 @@
+[
+ {
+  "id": 9415042001,
+  "districtId": 9415042,
+  "districtName": "JOUTU",
+  "name": "DAIKOT",
+  "postalCode": "99766"
+ },
+ {
+  "id": 9415042002,
+  "districtId": 9415042,
+  "districtName": "JOUTU",
+  "name": "SOMNAK",
+  "postalCode": "99766"
+ },
+ {
+  "id": 9415042003,
+  "districtId": 9415042,
+  "districtName": "JOUTU",
+  "name": "DEKAMER",
+  "postalCode": ""
+ },
+ {
+  "id": 9415042004,
+  "districtId": 9415042,
+  "districtName": "JOUTU",
+  "name": "VAKAM",
+  "postalCode": "99766"
+ },
+ {
+  "id": 9415042005,
+  "districtId": 9415042,
+  "districtName": "JOUTU",
+  "name": "WABAK",
+  "postalCode": "99766"
+ },
+ {
+  "id": 9415042006,
+  "districtId": 9415042,
+  "districtName": "JOUTU",
+  "name": "VAKAM DUA",
+  "postalCode": "99766"
+ },
+ {
+  "id": 9415042007,
+  "districtId": 9415042,
+  "districtName": "JOUTU",
+  "name": "BOR",
+  "postalCode": "99766"
+ }
+]

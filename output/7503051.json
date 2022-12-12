@@ -1,0 +1,37 @@
+[
+ {
+  "id": 7503051001,
+  "districtId": 7503051,
+  "districtName": "DENGILO",
+  "name": "POPAYA",
+  "postalCode": "96265"
+ },
+ {
+  "id": 7503051002,
+  "districtId": 7503051,
+  "districtName": "DENGILO",
+  "name": "PADENGO",
+  "postalCode": "96265"
+ },
+ {
+  "id": 7503051003,
+  "districtId": 7503051,
+  "districtName": "DENGILO",
+  "name": "KARANGETANG",
+  "postalCode": "96265"
+ },
+ {
+  "id": 7503051004,
+  "districtId": 7503051,
+  "districtName": "DENGILO",
+  "name": "KARYA BARU",
+  "postalCode": "30151"
+ },
+ {
+  "id": 7503051005,
+  "districtId": 7503051,
+  "districtName": "DENGILO",
+  "name": "HUTA MOPUTI",
+  "postalCode": "96265"
+ }
+]

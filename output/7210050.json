@@ -1,0 +1,37 @@
+[
+ {
+  "id": 7210050001,
+  "districtId": 7210050,
+  "districtName": "NOKILALAKI",
+  "name": "KAMARORA B",
+  "postalCode": "94364"
+ },
+ {
+  "id": 7210050002,
+  "districtId": 7210050,
+  "districtName": "NOKILALAKI",
+  "name": "KAMARORA A",
+  "postalCode": "94364"
+ },
+ {
+  "id": 7210050003,
+  "districtId": 7210050,
+  "districtName": "NOKILALAKI",
+  "name": "KADIDIA",
+  "postalCode": "94364"
+ },
+ {
+  "id": 7210050004,
+  "districtId": 7210050,
+  "districtName": "NOKILALAKI",
+  "name": "SOPU",
+  "postalCode": "94364"
+ },
+ {
+  "id": 7210050005,
+  "districtId": 7210050,
+  "districtName": "NOKILALAKI",
+  "name": "BULILI",
+  "postalCode": "94654"
+ }
+]

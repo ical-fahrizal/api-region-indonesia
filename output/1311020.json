@@ -1,0 +1,30 @@
+[
+ {
+  "id": 1311020001,
+  "districtId": 1311020,
+  "districtName": "KOTO BARU",
+  "name": "AMPANG KURANJI",
+  "postalCode": "27681"
+ },
+ {
+  "id": 1311020003,
+  "districtId": 1311020,
+  "districtName": "KOTO BARU",
+  "name": "KOTO BARU",
+  "postalCode": "27561"
+ },
+ {
+  "id": 1311020005,
+  "districtId": 1311020,
+  "districtName": "KOTO BARU",
+  "name": "SIALANG GAUNG",
+  "postalCode": "27681"
+ },
+ {
+  "id": 1311020008,
+  "districtId": 1311020,
+  "districtName": "KOTO BARU",
+  "name": "KOTO PADANG",
+  "postalCode": "27681"
+ }
+]

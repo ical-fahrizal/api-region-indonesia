@@ -1,0 +1,58 @@
+[
+ {
+  "id": 9433050002,
+  "districtId": 9433050,
+  "districtName": "POGOMA",
+  "name": "WAKME",
+  "postalCode": "98973"
+ },
+ {
+  "id": 9433050003,
+  "districtId": 9433050,
+  "districtName": "POGOMA",
+  "name": "BOKOMA / POGOMA",
+  "postalCode": ""
+ },
+ {
+  "id": 9433050005,
+  "districtId": 9433050,
+  "districtName": "POGOMA",
+  "name": "GOLU",
+  "postalCode": "98973"
+ },
+ {
+  "id": 9433050007,
+  "districtId": 9433050,
+  "districtName": "POGOMA",
+  "name": "WIHA",
+  "postalCode": "98973"
+ },
+ {
+  "id": 9433050008,
+  "districtId": 9433050,
+  "districtName": "POGOMA",
+  "name": "GAGAMA",
+  "postalCode": "98973"
+ },
+ {
+  "id": 9433050011,
+  "districtId": 9433050,
+  "districtName": "POGOMA",
+  "name": "KOLAMAGI",
+  "postalCode": ""
+ },
+ {
+  "id": 9433050013,
+  "districtId": 9433050,
+  "districtName": "POGOMA",
+  "name": "KUMASINGGA",
+  "postalCode": ""
+ },
+ {
+  "id": 9433050014,
+  "districtId": 9433050,
+  "districtName": "POGOMA",
+  "name": "GUWAMU",
+  "postalCode": ""
+ }
+]

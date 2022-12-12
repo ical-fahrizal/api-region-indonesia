@@ -1,0 +1,37 @@
+[
+ {
+  "id": 6403030001,
+  "districtId": 6403030,
+  "districtName": "SANGA-SANGA",
+  "name": "JAWA",
+  "postalCode": "23654"
+ },
+ {
+  "id": 6403030002,
+  "districtId": 6403030,
+  "districtName": "SANGA-SANGA",
+  "name": "SANGA SANGA DALAM",
+  "postalCode": ""
+ },
+ {
+  "id": 6403030003,
+  "districtId": 6403030,
+  "districtName": "SANGA-SANGA",
+  "name": "PENDINGIN",
+  "postalCode": "75256"
+ },
+ {
+  "id": 6403030004,
+  "districtId": 6403030,
+  "districtName": "SANGA-SANGA",
+  "name": "SARIJAYA",
+  "postalCode": "41371"
+ },
+ {
+  "id": 6403030005,
+  "districtId": 6403030,
+  "districtName": "SANGA-SANGA",
+  "name": "SANGA SANGA MUARA",
+  "postalCode": ""
+ }
+]

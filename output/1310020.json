@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1310020001,
+  "districtId": 1310020,
+  "districtName": "SANGIR JUJUAN",
+  "name": "LUBUK MALAKO",
+  "postalCode": ""
+ },
+ {
+  "id": 1310020002,
+  "districtId": 1310020,
+  "districtName": "SANGIR JUJUAN",
+  "name": "PADANG AIR DINGIN",
+  "postalCode": "27777"
+ },
+ {
+  "id": 1310020003,
+  "districtId": 1310020,
+  "districtName": "SANGIR JUJUAN",
+  "name": "BIDAR ALAM",
+  "postalCode": "27777"
+ },
+ {
+  "id": 1310020004,
+  "districtId": 1310020,
+  "districtName": "SANGIR JUJUAN",
+  "name": "PADANG LIMAU SUNDAI",
+  "postalCode": ""
+ },
+ {
+  "id": 1310020005,
+  "districtId": 1310020,
+  "districtName": "SANGIR JUJUAN",
+  "name": "PADANG GANTIANG",
+  "postalCode": "27777"
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "id": 9413041001,
+  "districtId": 9413041,
+  "districtName": "BOMAKIA",
+  "name": "SOMI",
+  "postalCode": "22871"
+ },
+ {
+  "id": 9413041002,
+  "districtId": 9413041,
+  "districtName": "BOMAKIA",
+  "name": "BOMAKIA I",
+  "postalCode": ""
+ },
+ {
+  "id": 9413041003,
+  "districtId": 9413041,
+  "districtName": "BOMAKIA",
+  "name": "BOMAKIA II",
+  "postalCode": ""
+ },
+ {
+  "id": 9413041004,
+  "districtId": 9413041,
+  "districtName": "BOMAKIA",
+  "name": "AIFO",
+  "postalCode": "99663"
+ },
+ {
+  "id": 9413041005,
+  "districtId": 9413041,
+  "districtName": "BOMAKIA",
+  "name": "UNI",
+  "postalCode": "99663"
+ }
+]

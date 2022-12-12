@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3510011001,
+  "districtId": 3510011,
+  "districtName": "SILIRAGUNG",
+  "name": "BULUAGUNG",
+  "postalCode": "66361"
+ },
+ {
+  "id": 3510011002,
+  "districtId": 3510011,
+  "districtName": "SILIRAGUNG",
+  "name": "SILIRAGUNG",
+  "postalCode": "68488"
+ },
+ {
+  "id": 3510011003,
+  "districtId": 3510011,
+  "districtName": "SILIRAGUNG",
+  "name": "SENEPOREJO",
+  "postalCode": "68488"
+ },
+ {
+  "id": 3510011004,
+  "districtId": 3510011,
+  "districtName": "SILIRAGUNG",
+  "name": "KESILIR",
+  "postalCode": "68488"
+ },
+ {
+  "id": 3510011005,
+  "districtId": 3510011,
+  "districtName": "SILIRAGUNG",
+  "name": "BARUREJO",
+  "postalCode": "62284"
+ }
+]

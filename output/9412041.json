@@ -1,0 +1,72 @@
+[
+ {
+  "id": 9412041001,
+  "districtId": 9412041,
+  "districtName": "JILA",
+  "name": "JILA",
+  "postalCode": "99966"
+ },
+ {
+  "id": 9412041005,
+  "districtId": 9412041,
+  "districtName": "JILA",
+  "name": "DILOA",
+  "postalCode": "99966"
+ },
+ {
+  "id": 9412041006,
+  "districtId": 9412041,
+  "districtName": "JILA",
+  "name": "NOEMUN",
+  "postalCode": "99966"
+ },
+ {
+  "id": 9412041009,
+  "districtId": 9412041,
+  "districtName": "JILA",
+  "name": "PASIR PUTIH",
+  "postalCode": "24453"
+ },
+ {
+  "id": 9412041010,
+  "districtId": 9412041,
+  "districtName": "JILA",
+  "name": "PILIKOGOM",
+  "postalCode": ""
+ },
+ {
+  "id": 9412041011,
+  "districtId": 9412041,
+  "districtName": "JILA",
+  "name": "BUNARAUGIN",
+  "postalCode": ""
+ },
+ {
+  "id": 9412041012,
+  "districtId": 9412041,
+  "districtName": "JILA",
+  "name": "UMPLIGA",
+  "postalCode": ""
+ },
+ {
+  "id": 9412041013,
+  "districtId": 9412041,
+  "districtName": "JILA",
+  "name": "DIOLA II",
+  "postalCode": ""
+ },
+ {
+  "id": 9412041014,
+  "districtId": 9412041,
+  "districtName": "JILA",
+  "name": "AMUAOGOM",
+  "postalCode": ""
+ },
+ {
+  "id": 9412041015,
+  "districtId": 9412041,
+  "districtName": "JILA",
+  "name": "JENGKOAN",
+  "postalCode": ""
+ }
+]

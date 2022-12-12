@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3521070001,
+  "districtId": 3521070,
+  "districtName": "PANGKUR",
+  "name": "GANDRI",
+  "postalCode": "35592"
+ },
+ {
+  "id": 3521070003,
+  "districtId": 3521070,
+  "districtName": "PANGKUR",
+  "name": "BABADAN",
+  "postalCode": "45151"
+ },
+ {
+  "id": 3521070004,
+  "districtId": 3521070,
+  "districtName": "PANGKUR",
+  "name": "POH KONYAL",
+  "postalCode": "63282"
+ },
+ {
+  "id": 3521070005,
+  "districtId": 3521070,
+  "districtName": "PANGKUR",
+  "name": "PARAS",
+  "postalCode": "57362"
+ },
+ {
+  "id": 3521070007,
+  "districtId": 3521070,
+  "districtName": "PANGKUR",
+  "name": "PANGKUR",
+  "postalCode": "63282"
+ },
+ {
+  "id": 3521070008,
+  "districtId": 3521070,
+  "districtName": "PANGKUR",
+  "name": "WARUK TENGAH",
+  "postalCode": "63282"
+ },
+ {
+  "id": 3521070009,
+  "districtId": 3521070,
+  "districtName": "PANGKUR",
+  "name": "NGOMPRO",
+  "postalCode": "63282"
+ }
+]

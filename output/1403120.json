@@ -1,0 +1,79 @@
+[
+ {
+  "id": 1403120001,
+  "districtId": 1403120,
+  "districtName": "KATEMAN",
+  "name": "SUNGAI SIMBAR",
+  "postalCode": "29255"
+ },
+ {
+  "id": 1403120002,
+  "districtId": 1403120,
+  "districtName": "KATEMAN",
+  "name": "KUALA SELAT",
+  "postalCode": "29255"
+ },
+ {
+  "id": 1403120003,
+  "districtId": 1403120,
+  "districtName": "KATEMAN",
+  "name": "PENJURU",
+  "postalCode": "29255"
+ },
+ {
+  "id": 1403120004,
+  "districtId": 1403120,
+  "districtName": "KATEMAN",
+  "name": "TAGARAJA",
+  "postalCode": ""
+ },
+ {
+  "id": 1403120005,
+  "districtId": 1403120,
+  "districtName": "KATEMAN",
+  "name": "SARI MULYA",
+  "postalCode": "37257"
+ },
+ {
+  "id": 1403120006,
+  "districtId": 1403120,
+  "districtName": "KATEMAN",
+  "name": "AIR TAWAR",
+  "postalCode": "29255"
+ },
+ {
+  "id": 1403120007,
+  "districtId": 1403120,
+  "districtName": "KATEMAN",
+  "name": "TANJUNG RAJA",
+  "postalCode": "20582"
+ },
+ {
+  "id": 1403120008,
+  "districtId": 1403120,
+  "districtName": "KATEMAN",
+  "name": "SUNGAI TERITIP",
+  "postalCode": "29255"
+ },
+ {
+  "id": 1403120009,
+  "districtId": 1403120,
+  "districtName": "KATEMAN",
+  "name": "MAKMUR JAYA",
+  "postalCode": "24653"
+ },
+ {
+  "id": 1403120010,
+  "districtId": 1403120,
+  "districtName": "KATEMAN",
+  "name": "AMAL BAKTI",
+  "postalCode": "29255"
+ },
+ {
+  "id": 1403120011,
+  "districtId": 1403120,
+  "districtName": "KATEMAN",
+  "name": "BANDAR SRI GEMILANG",
+  "postalCode": "29255"
+ }
+]

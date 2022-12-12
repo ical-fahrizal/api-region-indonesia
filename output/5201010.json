@@ -1,0 +1,65 @@
+[
+ {
+  "id": 5201010001,
+  "districtId": 5201010,
+  "districtName": "SEKOTONG",
+  "name": "PELANGAN",
+  "postalCode": "83365"
+ },
+ {
+  "id": 5201010002,
+  "districtId": 5201010,
+  "districtName": "SEKOTONG",
+  "name": "SEKOTONG BARAT",
+  "postalCode": "83365"
+ },
+ {
+  "id": 5201010003,
+  "districtId": 5201010,
+  "districtName": "SEKOTONG",
+  "name": "BUWUN MAS",
+  "postalCode": "83365"
+ },
+ {
+  "id": 5201010004,
+  "districtId": 5201010,
+  "districtName": "SEKOTONG",
+  "name": "SEKOTONG TENGAH",
+  "postalCode": "83365"
+ },
+ {
+  "id": 5201010005,
+  "districtId": 5201010,
+  "districtName": "SEKOTONG",
+  "name": "KEDARO",
+  "postalCode": "83365"
+ },
+ {
+  "id": 5201010006,
+  "districtId": 5201010,
+  "districtName": "SEKOTONG",
+  "name": "BATU PUTIH",
+  "postalCode": "37482"
+ },
+ {
+  "id": 5201010007,
+  "districtId": 5201010,
+  "districtName": "SEKOTONG",
+  "name": "CENDI MANIK",
+  "postalCode": "83365"
+ },
+ {
+  "id": 5201010008,
+  "districtId": 5201010,
+  "districtName": "SEKOTONG",
+  "name": "GILI GEDE INDAH",
+  "postalCode": "83365"
+ },
+ {
+  "id": 5201010011,
+  "districtId": 5201010,
+  "districtName": "SEKOTONG",
+  "name": "TAMAN BARU",
+  "postalCode": "35592"
+ }
+]

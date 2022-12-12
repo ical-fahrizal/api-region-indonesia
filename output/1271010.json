@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1271010001,
+  "districtId": 1271010,
+  "districtName": "SIBOLGA UTARA",
+  "name": "SIBOLGA ILIR",
+  "postalCode": "22513"
+ },
+ {
+  "id": 1271010002,
+  "districtId": 1271010,
+  "districtName": "SIBOLGA UTARA",
+  "name": "ANGIN NAULI",
+  "postalCode": "22511"
+ },
+ {
+  "id": 1271010003,
+  "districtId": 1271010,
+  "districtName": "SIBOLGA UTARA",
+  "name": "HUTA TONGA TONGA",
+  "postalCode": "22512"
+ },
+ {
+  "id": 1271010004,
+  "districtId": 1271010,
+  "districtName": "SIBOLGA UTARA",
+  "name": "HUTA BARANGAN",
+  "postalCode": "22514"
+ },
+ {
+  "id": 1271010005,
+  "districtId": 1271010,
+  "districtName": "SIBOLGA UTARA",
+  "name": "SIMARE-MARE",
+  "postalCode": ""
+ }
+]

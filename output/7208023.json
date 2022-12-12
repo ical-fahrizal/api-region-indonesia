@@ -1,0 +1,37 @@
+[
+ {
+  "id": 7208023004,
+  "districtId": 7208023,
+  "districtName": "PARIGI UTARA",
+  "name": "PANGI",
+  "postalCode": "24783"
+ },
+ {
+  "id": 7208023005,
+  "districtId": 7208023,
+  "districtName": "PARIGI UTARA",
+  "name": "TOBOLI",
+  "postalCode": "94471"
+ },
+ {
+  "id": 7208023007,
+  "districtId": 7208023,
+  "districtName": "PARIGI UTARA",
+  "name": "AVOLUA",
+  "postalCode": "94471"
+ },
+ {
+  "id": 7208023009,
+  "districtId": 7208023,
+  "districtName": "PARIGI UTARA",
+  "name": "TOBOLI BARAT",
+  "postalCode": "94471"
+ },
+ {
+  "id": 7208023010,
+  "districtId": 7208023,
+  "districtName": "PARIGI UTARA",
+  "name": "SAKINAH JAYA",
+  "postalCode": ""
+ }
+]

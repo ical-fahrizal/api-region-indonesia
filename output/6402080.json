@@ -1,0 +1,44 @@
+[
+ {
+  "id": 6402080001,
+  "districtId": 6402080,
+  "districtName": "MELAK",
+  "name": "EMPAS",
+  "postalCode": "75765"
+ },
+ {
+  "id": 6402080002,
+  "districtId": 6402080,
+  "districtName": "MELAK",
+  "name": "EMPAKUQ",
+  "postalCode": "75765"
+ },
+ {
+  "id": 6402080003,
+  "districtId": 6402080,
+  "districtName": "MELAK",
+  "name": "MUARA BUNYUT",
+  "postalCode": "75765"
+ },
+ {
+  "id": 6402080006,
+  "districtId": 6402080,
+  "districtName": "MELAK",
+  "name": "MELAK ILIR",
+  "postalCode": "75765"
+ },
+ {
+  "id": 6402080014,
+  "districtId": 6402080,
+  "districtName": "MELAK",
+  "name": "MELAK ULU",
+  "postalCode": "75765"
+ },
+ {
+  "id": 6402080020,
+  "districtId": 6402080,
+  "districtName": "MELAK",
+  "name": "MUARA BENANGAQ",
+  "postalCode": "75765"
+ }
+]

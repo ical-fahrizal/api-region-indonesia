@@ -1,0 +1,30 @@
+[
+ {
+  "id": 6171011001,
+  "districtId": 6171011,
+  "districtName": "PONTIANAK TENGGARA",
+  "name": "BANGKA BELITUNG LAUT",
+  "postalCode": "78124"
+ },
+ {
+  "id": 6171011002,
+  "districtId": 6171011,
+  "districtName": "PONTIANAK TENGGARA",
+  "name": "BANGKA BELITUNG DARAT",
+  "postalCode": "78124"
+ },
+ {
+  "id": 6171011003,
+  "districtId": 6171011,
+  "districtName": "PONTIANAK TENGGARA",
+  "name": "BANSIR LAUT",
+  "postalCode": "78124"
+ },
+ {
+  "id": 6171011004,
+  "districtId": 6171011,
+  "districtName": "PONTIANAK TENGGARA",
+  "name": "BANSIR DARAT",
+  "postalCode": "78124"
+ }
+]

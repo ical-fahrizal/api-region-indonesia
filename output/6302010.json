@@ -1,0 +1,37 @@
+[
+ {
+  "id": 6302010001,
+  "districtId": 6302010,
+  "districtName": "PULAU SEMBILAN",
+  "name": "LABUAN BARAT",
+  "postalCode": "72181"
+ },
+ {
+  "id": 6302010002,
+  "districtId": 6302010,
+  "districtName": "PULAU SEMBILAN",
+  "name": "TELUK SUNGAI",
+  "postalCode": "72181"
+ },
+ {
+  "id": 6302010003,
+  "districtId": 6302010,
+  "districtName": "PULAU SEMBILAN",
+  "name": "MARADAPAN",
+  "postalCode": "72181"
+ },
+ {
+  "id": 6302010004,
+  "districtId": 6302010,
+  "districtName": "PULAU SEMBILAN",
+  "name": "TENGAH",
+  "postalCode": "23752"
+ },
+ {
+  "id": 6302010005,
+  "districtId": 6302010,
+  "districtName": "PULAU SEMBILAN",
+  "name": "TANJUNG NYIUR",
+  "postalCode": "72181"
+ }
+]

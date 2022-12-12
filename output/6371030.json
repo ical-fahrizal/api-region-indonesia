@@ -1,0 +1,65 @@
+[
+ {
+  "id": 6371030001,
+  "districtId": 6371030,
+  "districtName": "BANJARMASIN BARAT",
+  "name": "TELUK TIRAM",
+  "postalCode": "70113"
+ },
+ {
+  "id": 6371030002,
+  "districtId": 6371030,
+  "districtName": "BANJARMASIN BARAT",
+  "name": "TELAWANG",
+  "postalCode": "70112"
+ },
+ {
+  "id": 6371030008,
+  "districtId": 6371030,
+  "districtName": "BANJARMASIN BARAT",
+  "name": "TELAGA BIRU",
+  "postalCode": "70119"
+ },
+ {
+  "id": 6371030009,
+  "districtId": 6371030,
+  "districtName": "BANJARMASIN BARAT",
+  "name": "PELAMBUAN",
+  "postalCode": "70118"
+ },
+ {
+  "id": 6371030010,
+  "districtId": 6371030,
+  "districtName": "BANJARMASIN BARAT",
+  "name": "BELITUNG SELATAN",
+  "postalCode": "70116"
+ },
+ {
+  "id": 6371030011,
+  "districtId": 6371030,
+  "districtName": "BANJARMASIN BARAT",
+  "name": "BELITUNG UTARA",
+  "postalCode": "70116"
+ },
+ {
+  "id": 6371030013,
+  "districtId": 6371030,
+  "districtName": "BANJARMASIN BARAT",
+  "name": "BASIRIH",
+  "postalCode": "70245"
+ },
+ {
+  "id": 6371030014,
+  "districtId": 6371030,
+  "districtName": "BANJARMASIN BARAT",
+  "name": "KUIN CERUCUK",
+  "postalCode": "70129"
+ },
+ {
+  "id": 6371030015,
+  "districtId": 6371030,
+  "districtName": "BANJARMASIN BARAT",
+  "name": "KUIN SELATAN",
+  "postalCode": "70128"
+ }
+]

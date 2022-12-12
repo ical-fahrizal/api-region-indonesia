@@ -1,0 +1,37 @@
+[
+ {
+  "id": 8202044001,
+  "districtId": 8202044,
+  "districtName": "PATANI BARAT",
+  "name": "BOBANE INDAH",
+  "postalCode": "97854"
+ },
+ {
+  "id": 8202044002,
+  "districtId": 8202044,
+  "districtName": "PATANI BARAT",
+  "name": "BANEMO",
+  "postalCode": "97854"
+ },
+ {
+  "id": 8202044003,
+  "districtId": 8202044,
+  "districtName": "PATANI BARAT",
+  "name": "BOBANE JAYA",
+  "postalCode": "97854"
+ },
+ {
+  "id": 8202044004,
+  "districtId": 8202044,
+  "districtName": "PATANI BARAT",
+  "name": "MOREALA",
+  "postalCode": "97854"
+ },
+ {
+  "id": 8202044005,
+  "districtId": 8202044,
+  "districtName": "PATANI BARAT",
+  "name": "SIBENPOPO",
+  "postalCode": "97854"
+ }
+]

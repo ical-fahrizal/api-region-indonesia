@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1508022001,
+  "districtId": 1508022,
+  "districtName": "TENGAH ILIR",
+  "name": "PENAPALAN",
+  "postalCode": "37572"
+ },
+ {
+  "id": 1508022002,
+  "districtId": 1508022,
+  "districtName": "TENGAH ILIR",
+  "name": "MUARA KILIS",
+  "postalCode": "37572"
+ },
+ {
+  "id": 1508022003,
+  "districtId": 1508022,
+  "districtName": "TENGAH ILIR",
+  "name": "MENGUPEH",
+  "postalCode": "37572"
+ },
+ {
+  "id": 1508022004,
+  "districtId": 1508022,
+  "districtName": "TENGAH ILIR",
+  "name": "RANTAU API",
+  "postalCode": "37572"
+ },
+ {
+  "id": 1508022005,
+  "districtId": 1508022,
+  "districtName": "TENGAH ILIR",
+  "name": "LUBUK MANDARSAH",
+  "postalCode": ""
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "id": 5311051001,
+  "districtId": 5311051,
+  "districtName": "WOLOJITA",
+  "name": "NUAMULI",
+  "postalCode": ""
+ },
+ {
+  "id": 5311051002,
+  "districtId": 5311051,
+  "districtName": "WOLOJITA",
+  "name": "NGGELA",
+  "postalCode": "86382"
+ },
+ {
+  "id": 5311051003,
+  "districtId": 5311051,
+  "districtName": "WOLOJITA",
+  "name": "PORA",
+  "postalCode": "86382"
+ },
+ {
+  "id": 5311051004,
+  "districtId": 5311051,
+  "districtName": "WOLOJITA",
+  "name": "KEL. WOLOJITA",
+  "postalCode": ""
+ },
+ {
+  "id": 5311051005,
+  "districtId": 5311051,
+  "districtName": "WOLOJITA",
+  "name": "TENDA",
+  "postalCode": "86518"
+ },
+ {
+  "id": 5311051006,
+  "districtId": 5311051,
+  "districtName": "WOLOJITA",
+  "name": "WIWIPEMO",
+  "postalCode": "86382"
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "id": 6309090001,
+  "districtId": 6309090,
+  "districtName": "UPAU",
+  "name": "MASINGAI II",
+  "postalCode": "71575"
+ },
+ {
+  "id": 6309090002,
+  "districtId": 6309090,
+  "districtName": "UPAU",
+  "name": "MASINGAI I",
+  "postalCode": "71575"
+ },
+ {
+  "id": 6309090003,
+  "districtId": 6309090,
+  "districtName": "UPAU",
+  "name": "BILAS",
+  "postalCode": "71575"
+ },
+ {
+  "id": 6309090005,
+  "districtId": 6309090,
+  "districtName": "UPAU",
+  "name": "KAONG",
+  "postalCode": "71575"
+ },
+ {
+  "id": 6309090007,
+  "districtId": 6309090,
+  "districtName": "UPAU",
+  "name": "PANGELAK",
+  "postalCode": "71575"
+ },
+ {
+  "id": 6309090010,
+  "districtId": 6309090,
+  "districtName": "UPAU",
+  "name": "KINARUM",
+  "postalCode": "71575"
+ }
+]

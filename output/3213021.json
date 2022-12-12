@@ -1,0 +1,51 @@
+[
+ {
+  "id": 3213021001,
+  "districtId": 3213021,
+  "districtName": "CIATER",
+  "name": "CIATER",
+  "postalCode": "41281"
+ },
+ {
+  "id": 3213021002,
+  "districtId": 3213021,
+  "districtName": "CIATER",
+  "name": "NAGRAK",
+  "postalCode": "45392"
+ },
+ {
+  "id": 3213021003,
+  "districtId": 3213021,
+  "districtName": "CIATER",
+  "name": "CIBEUSI",
+  "postalCode": "41281"
+ },
+ {
+  "id": 3213021004,
+  "districtId": 3213021,
+  "districtName": "CIATER",
+  "name": "CIBITUNG",
+  "postalCode": "45392"
+ },
+ {
+  "id": 3213021005,
+  "districtId": 3213021,
+  "districtName": "CIATER",
+  "name": "SANCA",
+  "postalCode": "41281"
+ },
+ {
+  "id": 3213021006,
+  "districtId": 3213021,
+  "districtName": "CIATER",
+  "name": "PALASARI",
+  "postalCode": "41251"
+ },
+ {
+  "id": 3213021007,
+  "districtId": 3213021,
+  "districtName": "CIATER",
+  "name": "CISAAT",
+  "postalCode": "41181"
+ }
+]

@@ -1,0 +1,79 @@
+[
+ {
+  "id": 3204070001,
+  "districtId": 3204070,
+  "districtName": "IBUN",
+  "name": "NEGLASARI",
+  "postalCode": "35452"
+ },
+ {
+  "id": 3204070003,
+  "districtId": 3204070,
+  "districtName": "IBUN",
+  "name": "IBUN",
+  "postalCode": "40384"
+ },
+ {
+  "id": 3204070004,
+  "districtId": 3204070,
+  "districtName": "IBUN",
+  "name": "LAKSANA",
+  "postalCode": "23122"
+ },
+ {
+  "id": 3204070005,
+  "districtId": 3204070,
+  "districtName": "IBUN",
+  "name": "MEKARWANGI",
+  "postalCode": "45462"
+ },
+ {
+  "id": 3204070006,
+  "districtId": 3204070,
+  "districtName": "IBUN",
+  "name": "SUDI",
+  "postalCode": "40384"
+ },
+ {
+  "id": 3204070007,
+  "districtId": 3204070,
+  "districtName": "IBUN",
+  "name": "CIBEET",
+  "postalCode": "40384"
+ },
+ {
+  "id": 3204070008,
+  "districtId": 3204070,
+  "districtName": "IBUN",
+  "name": "PANGGUH",
+  "postalCode": "40384"
+ },
+ {
+  "id": 3204070009,
+  "districtId": 3204070,
+  "districtName": "IBUN",
+  "name": "KARYALAKSANA",
+  "postalCode": "40384"
+ },
+ {
+  "id": 3204070010,
+  "districtId": 3204070,
+  "districtName": "IBUN",
+  "name": "LAMPEGAN",
+  "postalCode": "40384"
+ },
+ {
+  "id": 3204070011,
+  "districtId": 3204070,
+  "districtName": "IBUN",
+  "name": "TALUN",
+  "postalCode": "40384"
+ },
+ {
+  "id": 3204070012,
+  "districtId": 3204070,
+  "districtName": "IBUN",
+  "name": "TANGGULUN",
+  "postalCode": "40384"
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "id": 3202100001,
+  "districtId": 3202100,
+  "districtName": "LENGKONG",
+  "name": "LANGKAPJAYA",
+  "postalCode": "43174"
+ },
+ {
+  "id": 3202100002,
+  "districtId": 3202100,
+  "districtName": "LENGKONG",
+  "name": "CILANGKAP",
+  "postalCode": "13870"
+ },
+ {
+  "id": 3202100003,
+  "districtId": 3202100,
+  "districtName": "LENGKONG",
+  "name": "LENGKONG",
+  "postalCode": "24415"
+ },
+ {
+  "id": 3202100004,
+  "districtId": 3202100,
+  "districtName": "LENGKONG",
+  "name": "TEGALLEGA",
+  "postalCode": "43184"
+ },
+ {
+  "id": 3202100005,
+  "districtId": 3202100,
+  "districtName": "LENGKONG",
+  "name": "NEGLASARI",
+  "postalCode": "35452"
+ }
+]
