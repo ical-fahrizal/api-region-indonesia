@@ -1,0 +1,36 @@
+{
+    server: {
+        id: Region-Indonesia
+        appName: Region-Indonesia
+        tokenExpiration: 100
+        port: 3104
+        debugMode: false
+    }
+
+    log: {
+        info: {
+            fileName: info.log
+            maxSize:    10, // megabytes
+            maxBackups: 3,
+		    maxAge:     3,   //days
+		    compress:   true, // disabled by default
+        }
+
+        error: {
+            fileName: error.log
+            maxSize:    10, // megabytes
+            maxBackups: 3,
+		    maxAge:     3,   //days
+		    compress:   true, // disabled by default
+        }
+
+        status: {
+            fileName: status.log
+            maxSize:    10, // megabytes
+            maxBackups: 3,
+		    maxAge:     3,   //days
+		    compress:   true, // disabled by default
+        }
+    }
+
+}

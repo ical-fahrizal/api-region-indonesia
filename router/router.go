@@ -5,6 +5,8 @@ import (
 	"fmt"
 	"log"
 
+	conf "wec-region-indonesia/config"
+
 	"github.com/gofiber/fiber/v2"
 )
 
@@ -36,5 +38,6 @@ func SetupRoutes() {
 		return c.SendStatus(404) // => 404 "Not Found"
 	})
 
-	log.Fatal(app.Listen(":3003"))
+	conf.LogInfo.Printf("conf.GetPort() : %v", conf.GetPort())
+	log.Fatal(app.Listen(":" + conf.GetPort()))
 }

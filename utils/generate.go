@@ -8,7 +8,9 @@ import (
 	"log"
 	"os"
 	"strconv"
+	"strings"
 	"time"
+	conf "wec-region-indonesia/config"
 )
 
 type CsvDataProvinceLines struct {
@@ -122,22 +124,22 @@ func Generate() {
 		districtId, _ := strconv.Atoi(line[1])
 		postalCode := ""
 
-		for _, v2 := range ArrPostalCodes {
-			if v2.VillageName == line[2] {
-				postalCode = v2.PostalCode
-				break
-			}
-		}
+		// for _, v2 := range ArrPostalCodes {
+		// 	if v2.VillageName == line[2] {
+		// 		postalCode = v2.PostalCode
+		// 		break
+		// 	}
+		// }
 		ArrVillages = append(ArrVillages, CsvDataVillageLines{Id: id, DistrictId: districtId, PostalCode: postalCode, Name: line[2]})
 	}
 
 	//Create Json File Provinces
-	log.Printf("Create json File Provinces")
+	conf.LogInfo.Printf("Create json File Provinces")
 	file, _ := json.MarshalIndent(ArrProvinces, "", " ")
 	_ = ioutil.WriteFile("./output/provinces.json", file, 0644)
 
 	//Create json File Regencies
-	log.Printf("Create json File Regencies")
+	conf.LogInfo.Printf("Create json File Regencies")
 	for _, v1 := range ArrProvinces {
 		ArrRegenciesFile = nil
 		for _, v2 := range ArrRegencies {
@@ -146,15 +148,20 @@ func Generate() {
 			}
 		}
 		file, _ = json.MarshalIndent(ArrRegenciesFile, "", " ")
+		//create file name by province id
 		_ = ioutil.WriteFile(fmt.Sprintf(`./output/%v.json`, v1.Id), file, 0644)
 
+		//create file name by province name
+		// nameProvince := strings.ReplaceAll(v1.Name, " ", "-")
+		_ = ioutil.WriteFile(fmt.Sprintf(`./output/%v.json`, v1.Name), file, 0644)
+
 		time.Sleep(10 * time.Millisecond)
-		// log.Printf("Selesai sleep.....")
+		// conf.LogInfo.Printf("Selesai sleep.....")
 	}
 
-	// log.Printf("masuk 1")
+	// conf.LogInfo.Printf("masuk 1")
 	//Create json File Districts
-	log.Printf("Create json File Districts")
+	conf.LogInfo.Printf("Create json File Districts")
 	for _, v1 := range ArrRegencies {
 		ArrDistrictsFile = nil
 		for _, v2 := range ArrDistricts {
@@ -163,26 +170,87 @@ func Generate() {
 			}
 		}
 		file, _ := json.MarshalIndent(ArrDistrictsFile, "", " ")
+		//create file name by regency id
 		_ = ioutil.WriteFile(fmt.Sprintf(`./output/%v.json`, v1.Id), file, 0644)
+
+		//create file name by regency name
+		_ = ioutil.WriteFile(fmt.Sprintf(`./output/%v.json`, v1.Name), file, 0644)
+
+		//create file name by province name - regency name
+		// nameRegency := strings.ReplaceAll(v1.Name, " ", "-")
+		// nameProvince := strings.ReplaceAll(v1.ProvinceName, " ", "-")
+		_ = ioutil.WriteFile(fmt.Sprintf(`./output/%v %v.json`, v1.ProvinceName, v1.Name), file, 0644)
+
 		time.Sleep(10 * time.Millisecond)
-		// log.Printf("Selesai sleep.....")
+		// conf.LogInfo.Printf("Selesai sleep.....")
 	}
 
 	//Create json File Villages
-	log.Printf("Create json File Villages")
+	conf.LogInfo.Printf("Create json File Villages")
+	hitung := 0
 	for _, v1 := range ArrDistricts {
 		ArrVillagesFile = nil
 		for _, v2 := range ArrVillages {
 			if v2.DistrictId == v1.Id {
-				ArrVillagesFile = append(ArrVillagesFile, CsvDataVillageLines{Id: v2.Id, DistrictId: v2.DistrictId, DistrictName: v1.Name, PostalCode: v2.PostalCode, Name: v2.Name})
+
+				postalCode := ""
+				for _, v3 := range ArrPostalCodes {
+					// if v2.Name == "MUNCUL" && v3.VillageName == "MUNCUL" {
+					// 	conf.LogInfo.Printf("v3.VillageName : %v", v3.VillageName)
+					// 	conf.LogInfo.Printf("v2.Name : %v", v2.Name)
+					// 	conf.LogInfo.Printf("v3.DistrictName : %v", v3.DistrictName)
+					// 	conf.LogInfo.Printf("v1.Name : %v", v1.Name)
+					// 	conf.LogInfo.Printf("v3.RegencieName : %v", v3.RegencieName)
+					// 	conf.LogInfo.Printf("v1.RegencieName : %v", v1.RegencieName)
+					// 	conf.LogInfo.Printf("v2.PostalCode : %v", v2.PostalCode)
+					// }
+					covV3VillageName := strings.ReplaceAll(v3.VillageName, " ", "")
+					covV2Name := strings.ReplaceAll(v2.Name, " ", "")
+
+					covV3DistrictName := strings.ReplaceAll(v3.DistrictName, " ", "")
+					covV1Name := strings.ReplaceAll(v1.Name, " ", "")
+
+					if covV3VillageName == covV2Name && covV3DistrictName == covV1Name {
+						postalCode = v3.PostalCode
+						break
+					}
+				}
+				// ArrVillagesFile = append(ArrVillagesFile, CsvDataVillageLines{Id: v2.Id, DistrictId: v2.DistrictId, DistrictName: v1.Name, PostalCode: v2.PostalCode, Name: v2.Name})
+				ArrVillagesFile = append(ArrVillagesFile, CsvDataVillageLines{Id: v2.Id, DistrictId: v2.DistrictId, DistrictName: v1.Name, PostalCode: postalCode, Name: v2.Name})
+				if postalCode == "" {
+					// conf.LogInfo.Printf("v1.RegencieId : %v", v1.RegencieId)
+					// if (v1.RegencieId >= 3171 && v1.RegencieId <= 3175) || v1.RegencieId == 3101 ||
+					//if (v1.RegencieId >= 3601 && v1.RegencieId <= 3604) || (v1.RegencieId >= 3671 && v1.RegencieId <= 3674) {
+					if (v1.RegencieId >= 3201 && v1.RegencieId <= 3218) || (v1.RegencieId >= 3271 && v1.RegencieId <= 3279) {
+						hitung += 1
+						b1, err := json.Marshal(ArrVillagesFile)
+						if err == nil {
+							conf.LogInfo.Printf("b1 %v : %v", hitung, string(b1))
+							log.Println()
+						}
+					}
+
+				}
 			}
 		}
 		file, _ := json.MarshalIndent(ArrVillagesFile, "", " ")
+		//create file name by District id
 		_ = ioutil.WriteFile(fmt.Sprintf(`./output/%v.json`, v1.Id), file, 0644)
+
+		//create file name by District name
+		// nameDistrip := strings.ReplaceAll(v1.Name, " ", "-")
+		// nameRegency := strings.ReplaceAll(v1.RegencieName, " ", "-")
+		_ = ioutil.WriteFile(fmt.Sprintf(`./output/%v.json`, v1.Name), file, 0644)
+
+		//create file name by Regency name - District name
+		// nameDistrip := strings.ReplaceAll(v1.Name, " ", "-")
+		// nameRegency := strings.ReplaceAll(v1.RegencieName, " ", "-")
+		_ = ioutil.WriteFile(fmt.Sprintf(`./output/%v %v.json`, v1.RegencieName, v1.Name), file, 0644)
+
 		time.Sleep(10 * time.Millisecond)
-		// log.Printf("Selesai sleep.....")
+		// conf.LogInfo.Printf("Selesai sleep.....")
 	}
-	log.Printf("Finish")
+	conf.LogInfo.Printf("Finish")
 }
 
 func readCsvFile(filename string) ([][]string, error) {
